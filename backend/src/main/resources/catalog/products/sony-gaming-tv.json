@@ -2076,6 +2076,116 @@
     "compatibility": "Xbox Series X|S, Windows, mobile"
    },
    "options": []
+  },
+  {
+   "sku": "TK-META-QUEST-3S",
+   "slug": "meta-quest-3s",
+   "name": "Meta Quest 3S",
+   "brand": "Meta",
+   "category": "vr",
+   "price": "349.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    27,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [],
+   "summary": "Affordable mixed-reality headset with Snapdragon XR2 Gen 2, 8 GB RAM, 1832x1920 per-eye displays and full-colour passthrough.",
+   "description": "Meta Quest 3S blends games, workouts and entertainment into your space with full-colour 4MP passthrough. It uses the Snapdragon XR2 Gen 2 with 8 GB of memory, 1832x1920-per-eye displays with Fresnel lenses at up to 120 Hz, and a 4324 mAh battery rated for about 2.5 hours; Touch Plus controllers are included.",
+   "keywords": "meta quest 3s vr headset mixed reality oculus",
+   "specs": {
+    "storageGb": 128,
+    "chip": "Snapdragon XR2 Gen 2, 8 GB RAM",
+    "display": "1832x1920 per eye, Fresnel lenses, 72/90/120 Hz, 96° x 90° FOV",
+    "configurations": "128 GB – $349.99 · 256 GB – $449.99"
+   },
+   "options": [
+    {
+     "name": "Storage",
+     "values": [
+      {
+       "label": "128 GB",
+       "price": "349.99",
+       "default": true
+      },
+      {
+       "label": "256 GB",
+       "price": "449.99"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "sku": "TK-SONY-BRAVIA7-II",
+   "slug": "sony-bravia-7-ii",
+   "name": "Sony BRAVIA 7 II True RGB 4K HDR Google TV (2026)",
+   "brand": "Sony",
+   "category": "led-tvs",
+   "price": "2599.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    14,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [],
+   "summary": "2026 True RGB 4K Google TV with XR Processor, local dimming, 120Hz panel and HDMI 2.1 gaming, from 50 to 98 inches.",
+   "description": "BRAVIA 7 II brings Sony's True RGB LED backlight with local dimming to a wider range of sizes, powered by the XR Processor with XR Motion Clarity on a 120Hz native 4K panel. It runs Google TV, supports HDR10, HLG and Dolby Vision and offers 4K120, VRR, ALLM and eARC over HDMI 2.1.",
+   "keywords": "bravia 7 ii rgb led tv 4k google tv sony 2026",
+   "specs": {
+    "sizeIn": 65,
+    "sizes": "50, 55, 65, 75, 85, 98 inch",
+    "resolution": "3840x2160",
+    "panel": "RGB LED",
+    "refreshHz": 120,
+    "hdr": "HDR10, HLG, Dolby Vision",
+    "processor": "XR Processor",
+    "gaming": "HDMI 2.1: 4K120, VRR, ALLM, eARC",
+    "smartPlatform": "Google TV",
+    "audio": "2 full range + 2 subwoofers",
+    "panelDetails": "LCD with True RGB LED backlight, local dimming",
+    "configurations": "50\" class – $1,599.99 · 55\" class – $2,099.99 · 65\" class – $2,599.99 · 75\" class – $3,099.99 · 85\" class – $3,999.99 · 98\" class – $8,999.99"
+   },
+   "options": [
+    {
+     "name": "Size",
+     "values": [
+      {
+       "label": "50\" class",
+       "price": "1599.99"
+      },
+      {
+       "label": "55\" class",
+       "price": "2099.99"
+      },
+      {
+       "label": "65\" class",
+       "price": "2599.99",
+       "default": true
+      },
+      {
+       "label": "75\" class",
+       "price": "3099.99"
+      },
+      {
+       "label": "85\" class",
+       "price": "3999.99"
+      },
+      {
+       "label": "98\" class",
+       "price": "8999.99"
+      }
+     ]
+    }
+   ]
   }
  ]
 }

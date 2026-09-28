@@ -129,103 +129,6 @@
    "notes": "Prices from the Steam store app API (app 4165890) on 2026-09-28. Image omitted: no clean white-background official asset found."
   },
   {
-   "sku": "TK-META-QUEST-3S",
-   "slug": "meta-quest-3s",
-   "name": "Meta Quest 3S",
-   "brand": "Meta",
-   "category": "vr",
-   "price": "349.99",
-   "priceBasis": "starting-at",
-   "priceSource": "https://www.meta.com/quest/quest-3s/buy-now/",
-   "priceAsOf": "2026-09-28",
-   "summary": "Affordable mixed-reality headset with Snapdragon XR2 Gen 2, 8 GB RAM, 1832x1920 per-eye displays and full-colour passthrough.",
-   "description": "Meta Quest 3S blends games, workouts and entertainment into your space with full-colour 4MP passthrough. It uses the Snapdragon XR2 Gen 2 with 8 GB of memory, 1832x1920-per-eye displays with Fresnel lenses at up to 120 Hz, and a 4324 mAh battery rated for about 2.5 hours; Touch Plus controllers are included.",
-   "keywords": "meta quest 3s vr headset mixed reality oculus",
-   "specs": {
-    "storageGb": 128,
-    "chip": "Snapdragon XR2 Gen 2, 8 GB RAM",
-    "display": "1832x1920 per eye, Fresnel lenses, 72/90/120 Hz, 96° x 90° FOV"
-   },
-   "variants": [
-    {
-     "label": "128 GB",
-     "price": "349.99"
-    },
-    {
-     "label": "256 GB",
-     "price": "449.99"
-    }
-   ],
-   "featured": false,
-   "warranty": 12,
-   "sources": {
-    "product": "https://www.meta.com/quest/quest-3s/",
-    "specs": "https://www.meta.com/quest/compare/",
-    "retrievedAt": "2026-09-28"
-   },
-   "notes": "Image omitted: Meta store images are served from signed, expiring fbcdn URLs."
-  },
-  {
-   "sku": "TK-SONY-BRAVIA7-II",
-   "slug": "sony-bravia-7-ii",
-   "name": "Sony BRAVIA 7 II True RGB 4K HDR Google TV (2026)",
-   "brand": "Sony",
-   "category": "led-tvs",
-   "price": "2599.99",
-   "priceBasis": "starting-at",
-   "priceSource": "https://electronics.sony.com/tv-video/televisions/all-tvs/p/k65xr70m2",
-   "priceAsOf": "2026-09-28",
-   "releaseYear": 2026,
-   "summary": "2026 True RGB 4K Google TV with XR Processor, local dimming, 120Hz panel and HDMI 2.1 gaming, from 50 to 98 inches.",
-   "description": "BRAVIA 7 II brings Sony's True RGB LED backlight with local dimming to a wider range of sizes, powered by the XR Processor with XR Motion Clarity on a 120Hz native 4K panel. It runs Google TV, supports HDR10, HLG and Dolby Vision and offers 4K120, VRR, ALLM and eARC over HDMI 2.1.",
-   "keywords": "bravia 7 ii rgb led tv 4k google tv sony 2026",
-   "specs": {
-    "sizeIn": 65,
-    "sizes": "50, 55, 65, 75, 85, 98 inch",
-    "resolution": "4K (3840 x 2160)",
-    "panel": "LCD with True RGB LED backlight, local dimming",
-    "refreshHz": 120,
-    "hdr": "HDR10, HLG, Dolby Vision",
-    "processor": "XR Processor",
-    "gaming": "HDMI 2.1: 4K120, VRR, ALLM, eARC",
-    "smartPlatform": "Google TV",
-    "audio": "2 full range + 2 subwoofers"
-   },
-   "variants": [
-    {
-     "label": "50\" class",
-     "price": "1599.99"
-    },
-    {
-     "label": "55\" class",
-     "price": "2099.99"
-    },
-    {
-     "label": "65\" class",
-     "price": "2599.99"
-    },
-    {
-     "label": "75\" class",
-     "price": "3099.99"
-    },
-    {
-     "label": "85\" class",
-     "price": "3999.99"
-    },
-    {
-     "label": "98\" class",
-     "price": "8999.99"
-    }
-   ],
-   "featured": false,
-   "warranty": 12,
-   "sources": {
-    "product": "https://electronics.sony.com/tv-video/televisions/all-tvs/p/k65xr70m2",
-    "retrievedAt": "2026-09-28"
-   },
-   "notes": "Prices read from Sony Electronics' US store (electronics.sony.com) product data on 2026-09-28; Sony's store may be showing sale pricing. Base price shown is the 65-inch model; the 50-inch starts at $1,599.99. Image omitted: the official asset's screen artwork fills the frame, so it normalizes onto a tinted, non-white background."
-  },
-  {
    "sku": "TK-HISENSE-UR9",
    "slug": "hisense-ur9-rgb-miniled",
    "name": "Hisense UR9 RGB MiniLED 4K Google TV",
@@ -265,7 +168,7 @@
     "product": "https://www.hisense-usa.com/product-page/televisions-75-class-ur9-series-rgb-miniled-4k-google-tv-75ur9sg",
     "retrievedAt": "2026-09-28"
    },
-   "notes": "Hisense does not sell direct in the US; MSRP is from Hisense's own press release (PR Newswire, March 2026). 75 and 85-inch MSRPs were not stated. Image omitted: the official asset's screen artwork fills the frame, so it normalizes onto a tinted, non-white background."
+   "notes": "Hisense does not sell direct in the US; MSRP is from Hisense's own press release (PR Newswire, March 2026). 75 and 85-inch MSRPs were not stated. Parked again: every official image has World Cup sponsorship art and text on screen."
   },
   {
    "sku": "TK-HISENSE-U7SG",
@@ -297,7 +200,7 @@
     "product": "https://www.hisense-usa.com/product-page/televisions-75-class-u7-series-uled-miniled-4k-google-tv-75u7sg",
     "retrievedAt": "2026-09-28"
    },
-   "notes": "Hisense does not sell direct in the US; 'starting MSRP $1,299' is from Hisense's own 2026 ULED press release (PR Newswire); the size it applies to was not stated. Image omitted: the official asset's screen artwork fills the frame, so it normalizes onto a tinted, non-white background."
+   "notes": "Hisense does not sell direct in the US; 'starting MSRP $1,299' is from Hisense's own 2026 ULED press release (PR Newswire); the size it applies to was not stated. Parked again: every official image has World Cup sponsorship art and text on screen."
   }
  ]
 }

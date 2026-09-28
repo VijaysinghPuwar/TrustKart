@@ -1,0 +1,2099 @@
+{
+ "products": [
+  {
+   "sku": "TK-LENOVO-X1C-G14",
+   "slug": "lenovo-thinkpad-x1-carbon-gen-14-aura",
+   "name": "Lenovo ThinkPad X1 Carbon Gen 14 Aura Edition (14\" Intel)",
+   "brand": "Lenovo",
+   "category": "business-laptops",
+   "price": "2407.30",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    31,
+    5
+   ],
+   "featured": true,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "premium-laptops",
+    "developer-setup"
+   ],
+   "summary": "Sub-1 kg 14-inch flagship ThinkPad with Intel Core Ultra Series 3 processors, up to 2.8K OLED and Wi-Fi 7.",
+   "description": "The ThinkPad X1 Carbon Gen 14 Aura Edition uses Intel Core Ultra Series 3 processors (Core Ultra 5 335 with vPro up to Core Ultra 7 365) with LPDDR5X memory up to 64 GB and a starting weight under 1 kg. Display options run from a 14-inch WUXGA IPS touch panel to a 2.8K OLED with 120Hz VRR and DisplayHDR True Black 500. Lenovo lists a 58Whr battery, two Thunderbolt 4 ports plus HDMI 2.1 and USB-A, Wi-Fi 7 and a 9/10 iFixit repairability score.",
+   "keywords": "x1 carbon gen 14 thinkpad ultralight business laptop intel core ultra series 3 aura edition oled",
+   "specs": {
+    "cpu": "Intel Core Ultra 5 335 with vPro (8 cores, up to 4.6 GHz)",
+    "cpuBrand": "Intel",
+    "gpu": "Intel Graphics (integrated)",
+    "displayIn": 14,
+    "display": "14\" WUXGA (1920x1200) IPS touch, 500 nits, 100% sRGB (2.8K OLED 120Hz optional)",
+    "batteryWh": 58,
+    "weightKg": 0.99,
+    "os": "Windows 11 Pro",
+    "npuTops": 50,
+    "ports": "2x USB-C Thunderbolt 4, USB-C Thunderbolt 4, USB-A 5Gbps, HDMI 2.1, headphone/mic combo",
+    "wireless": "Intel Wi-Fi 7 (2x2), Bluetooth 5.4; optional 4G LTE / 5G",
+    "configurations": "Core Ultra 5 335 / Core Ultra 7 355 / Core Ultra 7 365; up to 64 GB LPDDR5X; up to 1 TB (2 TB Gen5 on select models)"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-LENOVO-X1-2IN1-G11",
+   "slug": "lenovo-thinkpad-x1-2-in-1-gen-11-aura",
+   "name": "Lenovo ThinkPad X1 2-in-1 Gen 11 Aura Edition (14\" Intel)",
+   "brand": "Lenovo",
+   "category": "business-laptops",
+   "price": "2544.10",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    33,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "premium-laptops"
+   ],
+   "summary": "14-inch 360-degree convertible ThinkPad with Intel Core Ultra Series 3, touch displays up to 2.8K OLED and Thunderbolt 4.",
+   "description": "The ThinkPad X1 2-in-1 Gen 11 Aura Edition is a 14-inch convertible with Intel Core Ultra Series 3 processors (from the Core Ultra 5 335 with vPro) and up to 64 GB LPDDR5X. Every display option is a touchscreen, from a WUXGA IPS panel to a 2.8K OLED with 120Hz VRR and DisplayHDR True Black 500. Lenovo lists a 58Whr battery, three Thunderbolt 4 ports, Wi-Fi 7 and a 1.2 kg starting weight in Thunder Grey.",
+   "keywords": "x1 2-in-1 gen 11 thinkpad convertible touch pen business laptop aura edition",
+   "specs": {
+    "cpu": "Intel Core Ultra 5 335 with vPro (8 cores, up to 4.6 GHz)",
+    "cpuBrand": "Intel",
+    "gpu": "Intel Graphics (integrated)",
+    "ramGb": 32,
+    "displayIn": 14,
+    "display": "14\" WUXGA (1920x1200) IPS touch, 500 nits (2.8K OLED 120Hz touch optional)",
+    "batteryWh": 58,
+    "weightKg": 1.2,
+    "os": "Windows 11 Pro",
+    "npuTops": 50,
+    "ports": "3x USB-C Thunderbolt 4, USB-A 5Gbps, HDMI 2.1, headphone/mic combo",
+    "wireless": "Intel Wi-Fi 7 (2x2), Bluetooth 5.4; optional 4G LTE / 5G",
+    "configurations": "Core Ultra 5 335 / Core Ultra 7 355 / Core Ultra 7 365; 32 GB or 64 GB LPDDR5X; up to 1 TB SSD",
+    "colors": "Thunder Grey"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-LENOVO-X9-14-G1",
+   "slug": "lenovo-thinkpad-x9-14-gen-1-aura",
+   "name": "Lenovo ThinkPad X9 14 Gen 1 Aura Edition (14\" Intel)",
+   "brand": "Lenovo",
+   "category": "business-laptops",
+   "price": "1689.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    53,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "premium-laptops"
+   ],
+   "summary": "Slim 14-inch ThinkPad X9 with Intel Core Ultra (Series 2) processors, OLED display and a Copilot+ PC NPU of up to 48 TOPS.",
+   "description": "The ThinkPad X9 14 Aura Edition is built around Intel Core Ultra 200V processors (from the Core Ultra 5 226V) with up to 32 GB LPDDR5X on package. It uses OLED panels only: a 14-inch WUXGA OLED or a 2.8K 120Hz OLED touch option with 100% DCI-P3. Lenovo lists a 55Whr battery, two Thunderbolt 4 ports plus HDMI 2.1, Wi-Fi 7 and a 1.24 kg starting weight, in Thunder Grey or Glacier White.",
+   "keywords": "thinkpad x9 14 aura edition oled copilot+ pc lunar lake business ultrabook",
+   "specs": {
+    "cpu": "Intel Core Ultra 5 226V (8 cores, up to 4.5 GHz)",
+    "cpuBrand": "Intel",
+    "gpu": "Intel Arc Xe2 (integrated)",
+    "ramGb": 16,
+    "displayIn": 14,
+    "display": "14\" WUXGA (1920x1200) OLED, 400 nits, 100% DCI-P3 (2.8K 120Hz OLED touch optional)",
+    "batteryWh": 55,
+    "weightKg": 1.24,
+    "os": "Windows 11 Pro",
+    "npuTops": 48,
+    "ports": "2x USB-C Thunderbolt 4, HDMI 2.1, headphone/mic combo",
+    "wireless": "Intel Wi-Fi 7 (2x2), Bluetooth 5.4",
+    "configurations": "Core Ultra 5 226V / Core Ultra 7 258V / Core Ultra 7 268V; 16 or 32 GB; up to 1 TB SSD",
+    "colors": "Thunder Grey, Glacier White"
+   },
+   "options": [
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Thunder Grey",
+       "default": true,
+       "image": {
+        "small": "/images/catalog/lenovo-thinkpad-x9-14-gen-1-aura--thunder-grey-400.webp",
+        "large": "/images/catalog/lenovo-thinkpad-x9-14-gen-1-aura--thunder-grey-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Lenovo ThinkPad X9 14 Aura Edition in Thunder Grey, opened, three-quarter front view"
+       }
+      },
+      {
+       "label": "Glacier White",
+       "image": {
+        "small": "/images/catalog/lenovo-thinkpad-x9-14-gen-1-aura--glacier-white-400.webp",
+        "large": "/images/catalog/lenovo-thinkpad-x9-14-gen-1-aura--glacier-white-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Lenovo ThinkPad X9 14 Aura Edition in Glacier White, opened, three-quarter front view"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "sku": "TK-LENOVO-X9-15-G1",
+   "slug": "lenovo-thinkpad-x9-15-gen-1-aura",
+   "name": "Lenovo ThinkPad X9 15 Gen 1 Aura Edition (15\" Intel)",
+   "brand": "Lenovo",
+   "category": "business-laptops",
+   "price": "1659.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    24,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "premium-laptops"
+   ],
+   "summary": "15.3-inch 2.8K OLED ThinkPad X9 with Intel Core Ultra 200V processors, an 80Whr battery and Wi-Fi 7.",
+   "description": "The ThinkPad X9 15 Aura Edition pairs Intel Core Ultra 200V processors (from the Core Ultra 5 226V) with up to 32 GB LPDDR5X and a 15.3-inch 2.8K (2880x1800) 120Hz OLED display. Lenovo lists an 80Whr battery, two Thunderbolt 4 ports, USB-A 10Gbps and HDMI 2.1, Wi-Fi 7 and a 1.40 kg starting weight in Thunder Grey.",
+   "keywords": "thinkpad x9 15 aura edition 15 inch oled business laptop copilot+",
+   "specs": {
+    "cpu": "Intel Core Ultra 5 226V (8 cores, up to 4.5 GHz)",
+    "cpuBrand": "Intel",
+    "gpu": "Intel Arc 130V (integrated)",
+    "ramGb": 16,
+    "displayIn": 15.3,
+    "display": "15.3\" 2.8K (2880x1800) OLED, 120Hz, 500 nits, 100% DCI-P3",
+    "batteryWh": 80,
+    "weightKg": 1.4,
+    "os": "Windows 11 Pro",
+    "npuTops": 48,
+    "ports": "2x USB-C Thunderbolt 4, USB-A 10Gbps, HDMI 2.1, headphone/mic combo",
+    "wireless": "Intel Wi-Fi 7 (2x2), Bluetooth 5.4",
+    "configurations": "Core Ultra 5 226V / 228V / Core Ultra 7 258V and up; up to 32 GB; up to 1 TB SSD",
+    "colors": "Thunder Grey"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-LENOVO-X9-15P-G1",
+   "slug": "lenovo-thinkpad-x9-15p-gen-1-aura",
+   "name": "Lenovo ThinkPad X9 15p Gen 1 Aura Edition (15\" Intel)",
+   "brand": "Lenovo",
+   "category": "business-laptops",
+   "price": "2334.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    20,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "premium-laptops",
+    "developer-setup"
+   ],
+   "summary": "Performance 15.3-inch ThinkPad X9 with Intel Core Ultra H-series (Series 3), Arc B-series graphics and an 88Whr battery.",
+   "description": "The ThinkPad X9 15p Aura Edition moves the X9 design to Intel Core Ultra Series 3 H-class processors (from the Core Ultra 5 338H, up to the Core Ultra X7 368H) with Intel Arc B370/B390 graphics and 32 GB LPDDR5X. It has a 15.3-inch 2.8K OLED rated up to 1100 nits HDR peak with DisplayHDR True Black 1000 and 120Hz VRR, an 88Whr battery, three Thunderbolt 4 ports, an SD card reader and a 1.5 kg starting weight.",
+   "keywords": "thinkpad x9 15p aura edition performance oled business laptop arc b390 panther lake",
+   "specs": {
+    "cpu": "Intel Core Ultra 5 338H (12 cores, up to 4.7 GHz)",
+    "cpuBrand": "Intel",
+    "gpu": "Intel Arc B370 (integrated; Arc B390 on X7 models)",
+    "ramGb": 32,
+    "displayIn": 15.3,
+    "display": "15.3\" 2.8K (2880x1800) OLED, 120Hz VRR, 500 nits SDR / 1100 nits HDR peak, DisplayHDR True Black 1000",
+    "batteryWh": 88,
+    "weightKg": 1.5,
+    "os": "Windows 11 Pro",
+    "npuTops": 48,
+    "ports": "3x USB-C Thunderbolt 4 (PD, DisplayPort), USB-A 10Gbps, HDMI 2.1, SD card reader, headphone/mic combo",
+    "wireless": "Intel Wi-Fi 7 (2x2), Bluetooth 5.4",
+    "configurations": "Core Ultra 5 338H / Core Ultra X7 358H / Core Ultra X7 368H; 32 GB LPDDR5X; up to 2 TB Gen5 SSD",
+    "colors": "Thunder Grey"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-LENOVO-T14-G7-INTEL",
+   "slug": "lenovo-thinkpad-t14-gen-7-intel",
+   "name": "Lenovo ThinkPad T14 Gen 7 (14\" Intel)",
+   "brand": "Lenovo",
+   "category": "business-laptops",
+   "price": "1751.80",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    34,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "small-business"
+   ],
+   "summary": "Mainstream 14-inch ThinkPad with Intel Core Ultra Series 3, LPCAMM2 memory up to 64 GB, Ethernet and Wi-Fi 7.",
+   "description": "The ThinkPad T14 Gen 7 (Intel) offers Intel Core Ultra Series 3 processors from the Core Ultra 5 325, up to 64 GB LPDDR5X LPCAMM2 memory and a 14-inch WUXGA display with touch and PrivacyGuard options. Lenovo lists 60Whr or 75Whr battery options, two Thunderbolt 4 ports, two USB-A, HDMI 2.1 and RJ45 Ethernet, Wi-Fi 7 and a 1.29 kg starting weight, in Cosmic Blue or Eclipse Black.",
+   "keywords": "thinkpad t14 gen 7 intel business laptop ethernet lpcamm2 copilot+",
+   "specs": {
+    "cpu": "Intel Core Ultra 5 325 (8 cores, up to 4.5 GHz)",
+    "cpuBrand": "Intel",
+    "gpu": "Intel Graphics (integrated)",
+    "displayIn": 14,
+    "display": "14\" WUXGA (1920x1200) IPS, 400 nits (touch / PrivacyGuard options)",
+    "batteryWh": 60,
+    "weightKg": 1.29,
+    "os": "Windows 11 Pro",
+    "npuTops": 50,
+    "ports": "2x USB-C Thunderbolt 4, 2x USB-A 5Gbps, HDMI 2.1, RJ45 Ethernet, headphone/mic combo; optional smart card / SIM",
+    "wireless": "Intel Wi-Fi 7 BE211 (2x2), Bluetooth 5.4; optional 4G LTE",
+    "configurations": "Core Ultra 5 325 / 335 / Core Ultra 7 355 and up; up to 64 GB LPCAMM2; up to 1 TB SSD; 60 or 75Whr battery",
+    "colors": "Cosmic Blue, Eclipse Black"
+   },
+   "options": [
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Cosmic Blue",
+       "default": true,
+       "image": {
+        "small": "/images/catalog/lenovo-thinkpad-t14-gen-7-intel--cosmic-blue-400.webp",
+        "large": "/images/catalog/lenovo-thinkpad-t14-gen-7-intel--cosmic-blue-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Lenovo ThinkPad T14 Gen 7 in Cosmic Blue, opened, front view of the display and keyboard"
+       }
+      },
+      {
+       "label": "Eclipse Black",
+       "image": {
+        "small": "/images/catalog/lenovo-thinkpad-t14-gen-7-intel--eclipse-black-400.webp",
+        "large": "/images/catalog/lenovo-thinkpad-t14-gen-7-intel--eclipse-black-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Lenovo ThinkPad T14 Gen 7 in Eclipse Black, opened, front view of the display and keyboard"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "sku": "TK-LENOVO-T14S-G7-INTEL",
+   "slug": "lenovo-thinkpad-t14s-gen-7-intel",
+   "name": "Lenovo ThinkPad T14s Gen 7 (14\" Intel)",
+   "brand": "Lenovo",
+   "category": "business-laptops",
+   "price": "1956.05",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    23,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "small-business",
+    "developer-setup"
+   ],
+   "summary": "Thin-and-light 14-inch ThinkPad with Intel Core Ultra Series 3, three Thunderbolt 4 ports and a 1.06 kg starting weight.",
+   "description": "The ThinkPad T14s Gen 7 (Intel) uses Intel Core Ultra Series 3 processors from the Core Ultra 5 325 with up to 32 GB soldered LPDDR5X. Displays range from a 14-inch WUXGA IPS panel to a 2.8K 120Hz option, and Lenovo lists a 58Whr battery with Rapid Charge, three Thunderbolt 4 ports, USB-A and HDMI 2.1, Wi-Fi 7 and optional 4G/5G.",
+   "keywords": "thinkpad t14s gen 7 intel thin light business laptop copilot+",
+   "specs": {
+    "cpu": "Intel Core Ultra 5 325 (8 cores, up to 4.5 GHz)",
+    "cpuBrand": "Intel",
+    "gpu": "Intel Graphics (integrated)",
+    "displayIn": 14,
+    "display": "14\" WUXGA (1920x1200) IPS, 400 nits (touch, PrivacyGuard and 2.8K 120Hz options)",
+    "batteryWh": 58,
+    "weightKg": 1.06,
+    "os": "Windows 11 Pro",
+    "ports": "3x USB-C Thunderbolt 4, USB-A 5Gbps, HDMI 2.1, headphone/mic combo; optional smart card / nano-SIM",
+    "wireless": "Intel Wi-Fi 7 BE211 (2x2), Bluetooth 5.4; optional 4G LTE / 5G",
+    "configurations": "Core Ultra 5 325 / 335 / Core Ultra 7 355 and up; up to 32 GB LPDDR5X; up to 1 TB SSD",
+    "colors": "Eclipse Black, Cosmic Blue"
+   },
+   "options": [
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Eclipse Black",
+       "default": true,
+       "image": {
+        "small": "/images/catalog/lenovo-thinkpad-t14s-gen-7-intel--eclipse-black-400.webp",
+        "large": "/images/catalog/lenovo-thinkpad-t14s-gen-7-intel--eclipse-black-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Lenovo ThinkPad T14s Gen 7 in Eclipse Black, opened, three-quarter front view"
+       }
+      },
+      {
+       "label": "Cosmic Blue"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "sku": "TK-LENOVO-T14S-G7-SD",
+   "slug": "lenovo-thinkpad-t14s-gen-7-snapdragon",
+   "name": "Lenovo ThinkPad T14s Gen 7 (14\" Snapdragon)",
+   "brand": "Lenovo",
+   "category": "business-laptops",
+   "price": "1903.80",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    17,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "small-business"
+   ],
+   "summary": "Arm-based 14-inch ThinkPad T14s with Snapdragon X2 processors, an 80 TOPS NPU and two USB4 ports.",
+   "description": "The ThinkPad T14s Gen 7 Snapdragon edition runs Windows 11 on Arm with Snapdragon X2 Plus or X2 Elite processors, up to 32 GB LPDDR5X (9600 MT/s) and an NPU rated up to 80 TOPS. It has a 14-inch WUXGA display (touch option), a 58Whr battery, two USB4 40Gbps ports plus USB-A and HDMI 2.1, Wi-Fi 7 with optional 5G, and a 1.21 kg starting weight in Eclipse Black.",
+   "keywords": "thinkpad t14s gen 7 snapdragon x2 elite arm windows copilot+ business laptop",
+   "specs": {
+    "cpu": "Qualcomm Snapdragon X2 Plus X2P-42-100 (up to 4.04 GHz)",
+    "cpuBrand": "Qualcomm",
+    "gpu": "Qualcomm Adreno (integrated)",
+    "displayIn": 14,
+    "display": "14\" WUXGA (1920x1200) IPS, 400 nits (500-nit touch option)",
+    "batteryWh": 58,
+    "weightKg": 1.21,
+    "os": "Windows 11 Pro",
+    "npuTops": 80,
+    "ports": "2x USB-C USB4 40Gbps, USB-A 5Gbps, HDMI 2.1, headphone/mic combo; optional nano-SIM",
+    "wireless": "Wi-Fi 7 (2x2), Bluetooth 5.4; optional 5G",
+    "configurations": "Snapdragon X2 Plus X2P-42-100 / X2 Elite X2E-80-100; up to 32 GB LPDDR5X; up to 1 TB SSD",
+    "colors": "Eclipse Black"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-LENOVO-T16-G5-INTEL",
+   "slug": "lenovo-thinkpad-t16-gen-5-intel",
+   "name": "Lenovo ThinkPad T16 Gen 5 (16\" Intel)",
+   "brand": "Lenovo",
+   "category": "business-laptops",
+   "price": "1975.05",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    10,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "small-business"
+   ],
+   "summary": "16-inch ThinkPad T with Intel Core Ultra Series 3, LPCAMM2 memory up to 64 GB, numeric keypad-size chassis and Ethernet.",
+   "description": "The ThinkPad T16 Gen 5 (Intel) offers Intel Core Ultra Series 3 processors from the Core Ultra 5 325, up to 64 GB LPCAMM2 memory and a 16-inch WUXGA display with touch and PrivacyGuard options. Lenovo lists 60Whr or 75Whr batteries, two Thunderbolt 4 ports, two USB-A, HDMI 2.1 and RJ45 Ethernet, Wi-Fi 7 with optional 5G and a 1.64 kg starting weight in Eclipse Black.",
+   "keywords": "thinkpad t16 gen 5 intel 16 inch business laptop ethernet lpcamm2",
+   "specs": {
+    "cpu": "Intel Core Ultra 5 325 (8 cores, up to 4.5 GHz)",
+    "cpuBrand": "Intel",
+    "gpu": "Intel Graphics (integrated)",
+    "displayIn": 16,
+    "display": "16\" WUXGA (1920x1200) IPS, 400 nits (touch / PrivacyGuard options)",
+    "batteryWh": 60,
+    "weightKg": 1.64,
+    "os": "Windows 11 Pro",
+    "ports": "2x USB-C Thunderbolt 4, 2x USB-A 5Gbps, HDMI 2.1, RJ45 Ethernet, headphone/mic combo; optional smart card / SIM",
+    "wireless": "Intel Wi-Fi 7 BE211 (2x2), Bluetooth 5.4; optional 5G",
+    "configurations": "Core Ultra 5 325 / 335 / Core Ultra 7 355 and up; up to 64 GB LPCAMM2; up to 1 TB SSD; 60 or 75Whr battery",
+    "colors": "Eclipse Black"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-LENOVO-E14-G8-INTEL",
+   "slug": "lenovo-thinkpad-e14-gen-8-intel",
+   "name": "Lenovo ThinkPad E14 Gen 8 (14\" Intel)",
+   "brand": "Lenovo",
+   "category": "business-laptops",
+   "price": "1399.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    24,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "small-business"
+   ],
+   "summary": "Entry-level 14-inch ThinkPad with Intel Core 5 320, DDR5 memory, Thunderbolt 4 and Ethernet for small businesses.",
+   "description": "The ThinkPad E14 Gen 8 (Intel) uses Intel Core 5 320 or Core 7 350 processors with up to 32 GB DDR5-5600 and up to 1 TB PCIe Gen4 storage. It has a 14-inch WUXGA IPS display (touch option), a 48Whr battery with Rapid Charge Pro, two Thunderbolt 4 ports, two USB-A, HDMI 2.1 and RJ45 Ethernet, Wi-Fi 6E and a 1.41 kg starting weight.",
+   "keywords": "thinkpad e14 gen 8 intel small business entry laptop ethernet thunderbolt",
+   "specs": {
+    "cpu": "Intel Core 5 320 (6 cores, up to 4.6 GHz)",
+    "cpuBrand": "Intel",
+    "gpu": "Intel Graphics (integrated)",
+    "displayIn": 14,
+    "display": "14\" WUXGA (1920x1200) IPS, 400 nits, 45% NTSC (in-cell touch option)",
+    "batteryWh": 48,
+    "weightKg": 1.41,
+    "os": "Windows 11 Pro",
+    "npuTops": 17,
+    "ports": "2x USB-C Thunderbolt 4, USB-A 10Gbps, USB-A 5Gbps, HDMI 2.1, RJ45 Ethernet, headphone/mic combo",
+    "wireless": "Intel Wi-Fi 6E AX211 (2x2), Bluetooth 5.3",
+    "configurations": "Core 5 320 / Core 7 350; up to 32 GB DDR5; up to 1 TB SSD",
+    "colors": "Eclipse Black"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-LENOVO-X13-G7-INTEL",
+   "slug": "lenovo-thinkpad-x13-gen-7-intel",
+   "name": "Lenovo ThinkPad X13 Gen 7 (13\" Intel)",
+   "brand": "Lenovo",
+   "category": "business-laptops",
+   "price": "1614.05",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    30,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "small-business"
+   ],
+   "summary": "Compact 13.3-inch ThinkPad with Intel Core Ultra Series 3, a 930 g starting weight and two Thunderbolt 4 ports.",
+   "description": "The ThinkPad X13 Gen 7 (Intel) is a 13.3-inch business laptop with Intel Core Ultra Series 3 processors from the Core Ultra 5 325 and up to 64 GB soldered LPDDR5X. Lenovo lists a WUXGA IPS display with 100% sRGB, 41Whr or 54.7Whr battery options, two Thunderbolt 4 ports, HDMI 2.1 and USB-A, Wi-Fi 7 with optional 5G and a 930 g starting weight.",
+   "keywords": "thinkpad x13 gen 7 intel compact 13 inch business laptop lightweight",
+   "specs": {
+    "cpu": "Intel Core Ultra 5 325 (8 cores, up to 4.5 GHz)",
+    "cpuBrand": "Intel",
+    "gpu": "Intel Graphics (integrated)",
+    "displayIn": 13.3,
+    "display": "13.3\" WUXGA (1920x1200) IPS, 400 nits, 100% sRGB (touch option)",
+    "batteryWh": 41,
+    "weightKg": 0.93,
+    "os": "Windows 11 Pro",
+    "npuTops": 50,
+    "ports": "2x USB-C Thunderbolt 4, USB-A 5Gbps, HDMI 2.1, headphone/mic combo; optional smart card / nano-SIM",
+    "wireless": "Intel Wi-Fi 7 BE211, Bluetooth 5.4; optional 5G",
+    "configurations": "Core Ultra 5 325 / 332 / 335 and up; up to 64 GB LPDDR5X; up to 1 TB SSD; 41 or 54.7Whr battery",
+    "colors": "Eclipse Black"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-LENOVO-P14S-G7-INTEL",
+   "slug": "lenovo-thinkpad-p14s-gen-7-intel",
+   "name": "Lenovo ThinkPad P14s Gen 7 (14\" Intel) Mobile Workstation",
+   "brand": "Lenovo",
+   "category": "workstation-laptops",
+   "price": "2589.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    41,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "creator-workstations",
+    "servers-workstations"
+   ],
+   "summary": "14.5-inch ThinkPad mobile workstation with Intel Core Ultra H-series (Series 3) and optional NVIDIA RTX PRO Blackwell graphics.",
+   "description": "The ThinkPad P14s Gen 7 (Intel) is a 14.5-inch mobile workstation with Intel Core Ultra Series 3 H-class processors (from the Core Ultra 7 356H) and up to 96 GB LPDDR5X. Graphics options run from integrated Intel Arc to NVIDIA RTX PRO 500 and RTX PRO 1000 Blackwell laptop GPUs. Lenovo lists a WUXGA or 3K 120Hz display, 60Whr or 75Whr batteries, two Thunderbolt 4 ports, Ethernet, SD Express and a 1.63 kg starting weight.",
+   "keywords": "thinkpad p14s gen 7 intel mobile workstation rtx pro blackwell isv certified",
+   "specs": {
+    "cpu": "Intel Core Ultra 7 356H (16 cores, up to 4.7 GHz)",
+    "cpuBrand": "Intel",
+    "gpu": "Intel Graphics (integrated); NVIDIA RTX PRO 500 / 1000 Blackwell optional",
+    "displayIn": 14.5,
+    "display": "14.5\" WUXGA (1920x1200) IPS, 400 nits (3K 3072x1920 120Hz 100% DCI-P3 option)",
+    "batteryWh": 60,
+    "weightKg": 1.63,
+    "os": "Windows 11 Pro",
+    "npuTops": 50,
+    "ports": "2x USB-C Thunderbolt 4, 2x USB-A 5Gbps, HDMI 2.0, RJ45 Ethernet, SD Express 7.0, headphone/mic combo",
+    "wireless": "Intel Wi-Fi 7 BE211 (2x2), Bluetooth 5.4; optional NFC",
+    "configurations": "Core Ultra 7 356H / 366H / Core Ultra 9 386H; up to 96 GB LPDDR5X; up to 2 TB Gen5 SSD",
+    "colors": "Black"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-LENOVO-P16S-G5-AMD",
+   "slug": "lenovo-thinkpad-p16s-gen-5-amd",
+   "name": "Lenovo ThinkPad P16s Gen 5 AMD (16\") Mobile Workstation",
+   "brand": "Lenovo",
+   "category": "workstation-laptops",
+   "price": "2169.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    36,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "creator-workstations",
+    "servers-workstations"
+   ],
+   "summary": "16-inch ThinkPad mobile workstation with AMD Ryzen AI PRO 400 processors and optional NVIDIA RTX PRO 1000/2000 Blackwell GPUs.",
+   "description": "The ThinkPad P16s Gen 5 AMD uses AMD Ryzen AI 7 PRO 450 or Ryzen AI 9 HX PRO 470 processors with up to 96 GB LPDDR5X and an NPU of up to 55 TOPS. Graphics options are integrated Radeon 860M or NVIDIA RTX PRO 1000/2000 Blackwell laptop GPUs, and displays run from WUXGA IPS to a 2.8K 120Hz OLED with X-Rite factory calibration. Lenovo lists 60Whr or 90Whr batteries, Thunderbolt 4, Ethernet, SD Express and a 1.75 kg starting weight.",
+   "keywords": "thinkpad p16s gen 5 amd ryzen ai pro mobile workstation rtx pro 2000 copilot+",
+   "specs": {
+    "cpu": "AMD Ryzen AI 7 PRO 450 (8 cores, up to 5.1 GHz)",
+    "cpuBrand": "AMD",
+    "gpu": "AMD Radeon 860M (integrated); NVIDIA RTX PRO 1000 / 2000 Blackwell optional",
+    "displayIn": 16,
+    "display": "16\" WUXGA (1920x1200) IPS, 400 nits (2.8K 120Hz OLED option)",
+    "batteryWh": 60,
+    "weightKg": 1.75,
+    "os": "Windows 11 Pro",
+    "npuTops": 55,
+    "ports": "2x USB-C Thunderbolt 4, 2x USB-A 5Gbps, HDMI 2.0, RJ45 Ethernet, SD Express 7.0, headphone/mic combo",
+    "wireless": "MediaTek Wi-Fi 7 MT7925 (2x2), Bluetooth 5.4; optional 5G, NFC",
+    "configurations": "Ryzen AI 7 PRO 450 / Ryzen AI 9 HX PRO 470; up to 96 GB LPDDR5X; up to 2 TB Gen5 SSD; 60 or 90Whr battery",
+    "colors": "Black"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-LENOVO-P1-G9",
+   "slug": "lenovo-thinkpad-p1-gen-9",
+   "name": "Lenovo ThinkPad P1 Gen 9 (16\" Intel) Mobile Workstation",
+   "brand": "Lenovo",
+   "category": "workstation-laptops",
+   "price": "3514.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    15,
+    3
+   ],
+   "featured": true,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "creator-workstations",
+    "ai-workstations",
+    "servers-workstations"
+   ],
+   "summary": "Thin 16-inch flagship ThinkPad workstation with Intel Core Ultra Series 3 H-series, Thunderbolt 5 and up to a Tandem OLED display.",
+   "description": "The ThinkPad P1 Gen 9 combines Intel Core Ultra Series 3 H-class processors (from the Core Ultra 7 356H) with Intel Arc Pro B390 graphics or optional NVIDIA RTX PRO 1000/2000 Blackwell GPUs and up to 96 GB LPDDR5X CAMM2 memory. Display options include a 16-inch 3.2K Tandem OLED and a UHD+ IPS panel, and Lenovo lists a 90Whr battery, two Thunderbolt 5 ports, SD Express, storage up to 8 TB and a starting weight under 2 kg.",
+   "keywords": "thinkpad p1 gen 9 mobile workstation thunderbolt 5 tandem oled rtx pro",
+   "specs": {
+    "cpu": "Intel Core Ultra 7 356H (16 cores, up to 4.7 GHz)",
+    "cpuBrand": "Intel",
+    "gpu": "Intel Arc Pro B390 (integrated); NVIDIA RTX PRO 1000 / 2000 Blackwell optional",
+    "displayIn": 16,
+    "display": "16\" 3.2K (3200x2000) Tandem OLED or WQUXGA (3840x2400) IPS options, up to 120Hz",
+    "batteryWh": 90,
+    "weightKg": 2.0,
+    "os": "Windows 11 Pro",
+    "npuTops": 50,
+    "ports": "2x USB-C Thunderbolt 5 (80Gbps), USB-C Thunderbolt 4, USB-A 10Gbps, HDMI 2.1, SD Express 7.0, headphone/mic combo",
+    "wireless": "Intel Wi-Fi 7 BE211 (2x2), Bluetooth 5.4; optional 5G, NFC",
+    "configurations": "Core Ultra 7 356H / 366H / Core Ultra X7 368H and up; up to 96 GB LPDDR5X CAMM2; up to 8 TB Gen5 SSD",
+    "colors": "Black"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-LENOVO-P16-G3",
+   "slug": "lenovo-thinkpad-p16-gen-3",
+   "name": "Lenovo ThinkPad P16 Gen 3 (16\" Intel) Mobile Workstation",
+   "brand": "Lenovo",
+   "category": "workstation-laptops",
+   "price": "3220.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    8,
+    3
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "creator-workstations",
+    "ai-workstations",
+    "servers-workstations"
+   ],
+   "summary": "Full-power 16-inch ThinkPad workstation with Intel Core Ultra 200HX, NVIDIA RTX PRO Blackwell GPUs up to RTX PRO 5000 class and up to 192 GB DDR5.",
+   "description": "The ThinkPad P16 Gen 3 is the largest ThinkPad workstation, with Intel Core Ultra 200HX processors (from the Core Ultra 7 255HX) and NVIDIA RTX PRO Blackwell laptop GPUs from the RTX PRO 1000 upward. It has four SODIMM slots for up to 192 GB DDR5, three M.2 slots for up to 12 TB, a 99.9Whr battery, two Thunderbolt 5 ports, 2.5GbE Ethernet and 3.2K Tandem OLED or UHD+ IPS display options, starting at 2.54 kg.",
+   "keywords": "thinkpad p16 gen 3 mobile workstation rtx pro blackwell 200hx 192gb ddr5 thunderbolt 5",
+   "specs": {
+    "cpu": "Intel Core Ultra 7 255HX (20 cores, up to 5.2 GHz)",
+    "cpuBrand": "Intel",
+    "gpu": "NVIDIA RTX PRO 1000 Blackwell 8 GB and higher (RTX PRO 2000/3000/4000 options)",
+    "displayIn": 16,
+    "display": "16\" 3.2K (3200x2000) Tandem OLED or WQUXGA (3840x2400) IPS options",
+    "batteryWh": 99.9,
+    "weightKg": 2.54,
+    "os": "Windows 11 Pro",
+    "npuTops": 13,
+    "ports": "2x USB-C Thunderbolt 5, USB-C Thunderbolt 4, 2x USB-A 10Gbps, HDMI 2.1, 2.5GbE RJ45, SD Express 8.0, headphone/mic combo",
+    "wireless": "Intel Wi-Fi 7 BE200 (2x2), Bluetooth 5.4; optional 5G, NFC",
+    "configurations": "Core Ultra 7 255HX / 265HX / Core Ultra 9 275HX; up to 192 GB DDR5 (4x SODIMM, ECC options); up to 12 TB SSD",
+    "colors": "Black"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-LENOVO-TB14-G9-INTEL",
+   "slug": "lenovo-thinkbook-14-gen-9-intel",
+   "name": "Lenovo ThinkBook 14 Gen 9 (14\" Intel)",
+   "brand": "Lenovo",
+   "category": "business-laptops",
+   "price": "1194.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    49,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "small-business"
+   ],
+   "summary": "Mainstream 14-inch ThinkBook with Intel Core 5 210H, 16 GB DDR5 in SODIMM slots, Thunderbolt 4, Ethernet and an SD reader.",
+   "description": "The ThinkBook 14 Gen 9 (Intel) uses Intel Core 5 210H or Core 7 240H processors with 16 GB DDR5-5600 in two SODIMM slots and a 512 GB PCIe Gen4 SSD with a second SSD slot. It has a 14-inch WUXGA IPS in-cell touch display, a 48Whr battery, Thunderbolt 4 plus a 10Gbps USB-C, two USB-A, HDMI 2.1, RJ45 and an SD card reader, Wi-Fi 6E and a 1.36 kg starting weight in Arctic Grey.",
+   "keywords": "thinkbook 14 gen 9 intel small business laptop ddr5 sodimm ethernet",
+   "specs": {
+    "cpu": "Intel Core 5 210H (8 cores, up to 4.8 GHz)",
+    "cpuBrand": "Intel",
+    "gpu": "Intel Graphics (integrated)",
+    "ramGb": 16,
+    "storageTb": 0.512,
+    "displayIn": 14,
+    "display": "14\" WUXGA (1920x1200) IPS touch, 400 nits, 60Hz",
+    "batteryWh": 48,
+    "weightKg": 1.36,
+    "os": "Windows 11 Pro",
+    "ports": "USB-C Thunderbolt 4, USB-C 10Gbps (PD, DP 2.1), 2x USB-A 5Gbps, HDMI 2.1, RJ45, SD card reader, headphone/mic combo",
+    "wireless": "Wi-Fi 6E (2x2), Bluetooth 5.3",
+    "configurations": "Core 5 210H / Core 7 240H; 16 GB DDR5 (2x SODIMM); 512 GB SSD + spare slot",
+    "colors": "Arctic Grey"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-LENOVO-TB16-G9-INTEL",
+   "slug": "lenovo-thinkbook-16-gen-9-intel",
+   "name": "Lenovo ThinkBook 16 Gen 9 (16\" Intel)",
+   "brand": "Lenovo",
+   "category": "business-laptops",
+   "price": "939.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    44,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "small-business"
+   ],
+   "summary": "Affordable 16-inch ThinkBook with Intel Core 5 210H, DDR5 SODIMM memory, Thunderbolt 4 and RJ45 Ethernet.",
+   "description": "The ThinkBook 16 Gen 9 (Intel) offers Intel Core 5 210H or Core 7 240H processors with up to 32 GB DDR5-5600 in two SODIMM slots and up to 1 TB of PCIe Gen4 storage with a second SSD slot. Display options are a 16-inch WUXGA 60Hz panel or a 120Hz 100% sRGB touch panel; Lenovo lists a 48Whr battery, Thunderbolt 4, HDMI 2.1, RJ45, an SD reader, Wi-Fi 6E and a 1.7 kg starting weight.",
+   "keywords": "thinkbook 16 gen 9 intel 16 inch business laptop ethernet",
+   "specs": {
+    "cpu": "Intel Core 5 210H (8 cores, up to 4.8 GHz)",
+    "cpuBrand": "Intel",
+    "gpu": "Intel Graphics (integrated)",
+    "displayIn": 16,
+    "display": "16\" WUXGA (1920x1200) IPS, 400 nits, 60Hz (120Hz 100% sRGB touch option)",
+    "batteryWh": 48,
+    "weightKg": 1.7,
+    "os": "Windows 11 Pro",
+    "ports": "USB-C Thunderbolt 4, USB-C 10Gbps (PD, DP 2.1), 2x USB-A 5Gbps, HDMI 2.1, RJ45, SD card reader, headphone/mic combo",
+    "wireless": "Wi-Fi 6E (2x2), Bluetooth 5.3",
+    "configurations": "Core 5 210H / Core 7 240H; up to 32 GB DDR5 (2x SODIMM); up to 1 TB SSD",
+    "colors": "Arctic Grey"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-LENOVO-TB14X-INTEL",
+   "slug": "lenovo-thinkbook-14x-intel",
+   "name": "Lenovo ThinkBook 14x (14\" Intel)",
+   "brand": "Lenovo",
+   "category": "business-laptops",
+   "price": "849.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    40,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "small-business"
+   ],
+   "summary": "Premium 14-inch ThinkBook Copilot+ PC with Intel Core Ultra 200V, a 120Hz display and a 990 g starting weight.",
+   "description": "The ThinkBook 14x uses Intel Core Ultra 5 226V or Core Ultra 7 256V processors with 16 GB LPDDR5X on package and an NPU of up to 48 TOPS. It has a 14-inch WUXGA 120Hz 100% sRGB display (glass touch option), a 54.7Wh battery with Rapid Charge Pro, two 10Gbps USB-C ports, two USB-A and HDMI 2.1, and weighs from 990 g. Lenovo lists Luna Grey and a Veil Blue special edition.",
+   "keywords": "thinkbook 14x copilot+ pc lunar lake lightweight business laptop",
+   "specs": {
+    "cpu": "Intel Core Ultra 5 226V (8 cores, up to 4.5 GHz)",
+    "cpuBrand": "Intel",
+    "gpu": "Intel Arc (integrated)",
+    "ramGb": 16,
+    "displayIn": 14,
+    "display": "14\" WUXGA (1920x1200) IPS, 120Hz, 400 nits, 100% sRGB (glass touch option)",
+    "batteryWh": 54.7,
+    "weightKg": 0.99,
+    "os": "Windows 11 Home",
+    "npuTops": 48,
+    "ports": "2x USB-C 10Gbps, 2x USB-A 5Gbps (one always-on), HDMI 2.1, headphone/mic combo",
+    "wireless": "Wi-Fi 6E or Wi-Fi 7 (2x2), Bluetooth 5.3/5.4",
+    "configurations": "Core Ultra 5 226V / Core Ultra 7 256V; 16 GB LPDDR5X; up to 512 GB SSD",
+    "colors": "Luna Grey, Veil Blue"
+   },
+   "options": [
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Luna Grey",
+       "default": true,
+       "image": {
+        "small": "/images/catalog/lenovo-thinkbook-14x-intel--luna-grey-400.webp",
+        "large": "/images/catalog/lenovo-thinkbook-14x-intel--luna-grey-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Lenovo ThinkBook 14x in Luna Grey, opened, three-quarter front view"
+       }
+      },
+      {
+       "label": "Veil Blue"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "sku": "TK-LENOVO-YOGA-SLIM7X-G11",
+   "slug": "lenovo-yoga-slim-7x-gen-11-snapdragon",
+   "name": "Lenovo Yoga Slim 7x Gen 11 (14\" Snapdragon)",
+   "brand": "Lenovo",
+   "category": "premium-laptops",
+   "price": "1829.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    37,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "premium-laptops",
+    "oled-displays"
+   ],
+   "summary": "14-inch Snapdragon X2 Copilot+ PC with a 2.8K OLED up to 1100 nits HDR, three USB4 ports and a 70Wh battery.",
+   "description": "The Yoga Slim 7x Gen 11 runs Windows 11 on Arm with Snapdragon X2 Plus or X2 Elite processors and up to 32 GB LPDDR5X. Its 14-inch PureSight Pro OLED options include a 2.8K 120Hz touch panel with 1100 nits HDR peak and DisplayHDR True Black 1000. Lenovo lists a 70WHr battery, three USB4 40Gbps ports, Wi-Fi 7 and a 1.17 kg weight in Cosmic Blue.",
+   "keywords": "yoga slim 7x gen 11 snapdragon x2 elite copilot+ pc oled ultrabook arm",
+   "specs": {
+    "cpu": "Qualcomm Snapdragon X2 Plus X2P-42-100 (up to 4.04 GHz)",
+    "cpuBrand": "Qualcomm",
+    "gpu": "Qualcomm Adreno (integrated)",
+    "displayIn": 14,
+    "display": "14\" WUXGA OLED 60Hz (2.8K 120Hz PureSight Pro OLED touch option, 1100 nits HDR peak)",
+    "batteryWh": 70,
+    "weightKg": 1.17,
+    "os": "Windows 11 Home",
+    "ports": "3x USB-C USB4 40Gbps",
+    "wireless": "Wi-Fi 7 (2x2), Bluetooth 5.4",
+    "configurations": "Snapdragon X2 Plus X2P-42-100 / X2 Elite X2E-80-100 / X2E-88-100; up to 32 GB LPDDR5X; up to 2 TB SSD",
+    "colors": "Cosmic Blue"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-LENOVO-YOGA-SLIM7I-ULTRA",
+   "slug": "lenovo-yoga-slim-7i-ultra-gen-11-aura",
+   "name": "Lenovo Yoga Slim 7i Ultra Aura Edition (14\" Intel)",
+   "brand": "Lenovo",
+   "category": "premium-laptops",
+   "price": "2049.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    14,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "premium-laptops",
+    "oled-displays"
+   ],
+   "summary": "975 g 14-inch Yoga with an Intel Core Ultra 7 355, 32 GB memory, a 2.8K 120Hz OLED touch display and three Thunderbolt 4 ports.",
+   "description": "The Yoga Slim 7i Ultra Aura Edition pairs an Intel Core Ultra 7 355 with 32 GB of dual-channel memory and up to 2 TB of PCIe Gen4 storage. Its 14-inch 2.8K 120Hz PureSight Pro OLED touch display reaches 1100 nits peak with 100% P3 and Adobe RGB, and Lenovo lists a 75Whr battery, three Thunderbolt 4 ports, Wi-Fi 7 and a 975 g starting weight in Seashell or Cosmic Blue.",
+   "keywords": "yoga slim 7i ultra aura edition 14 inch oled lightweight intel core ultra 7 355",
+   "specs": {
+    "cpu": "Intel Core Ultra 7 355 (8 cores, up to 4.7 GHz)",
+    "cpuBrand": "Intel",
+    "gpu": "Intel Graphics (integrated)",
+    "ramGb": 32,
+    "displayIn": 14,
+    "display": "14\" 2.8K (2880x1800) PureSight Pro OLED touch, 120Hz, 1100 nits peak, DisplayHDR True Black 1000",
+    "batteryWh": 75,
+    "weightKg": 0.975,
+    "os": "Windows 11 Home",
+    "ports": "3x USB-C Thunderbolt 4",
+    "wireless": "Wi-Fi 7 (2x2), Bluetooth 5.4",
+    "configurations": "Core Ultra 7 355; 32 GB; up to 2 TB SSD",
+    "colors": "Seashell, Cosmic Blue"
+   },
+   "options": [
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Seashell",
+       "default": true,
+       "image": {
+        "small": "/images/catalog/lenovo-yoga-slim-7i-ultra-gen-11-aura--seashell-400.webp",
+        "large": "/images/catalog/lenovo-yoga-slim-7i-ultra-gen-11-aura--seashell-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Lenovo Yoga Slim 7i Ultra Aura Edition in Seashell, opened, three-quarter front view"
+       }
+      },
+      {
+       "label": "Cosmic Blue",
+       "image": {
+        "small": "/images/catalog/lenovo-yoga-slim-7i-ultra-gen-11-aura--cosmic-blue-400.webp",
+        "large": "/images/catalog/lenovo-yoga-slim-7i-ultra-gen-11-aura--cosmic-blue-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Lenovo Yoga Slim 7i Ultra Aura Edition in Cosmic Blue, opened, three-quarter front view"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "sku": "TK-LENOVO-SLIM7I-G11",
+   "slug": "lenovo-slim-7i-gen-11-aura",
+   "name": "Lenovo Slim 7i Gen 11 Aura Edition (14\" Intel)",
+   "brand": "Lenovo",
+   "category": "premium-laptops",
+   "price": "1499.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    35,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "premium-laptops",
+    "oled-displays"
+   ],
+   "summary": "14-inch Lenovo Slim 7i with an Intel Core Ultra 7 355, OLED display options and three Thunderbolt 4 ports.",
+   "description": "The Lenovo Slim 7i Aura Edition (Gen 11) uses an Intel Core Ultra 7 355 with up to 32 GB LPDDR5X and up to 2 TB of storage. Display options are a 14-inch WUXGA OLED or a 2.8K 120Hz PureSight Pro OLED touch panel with 1100 nits HDR peak. Lenovo lists a 70Whr battery with Rapid Charge Express, three Thunderbolt 4 ports, Wi-Fi 7 and a 1.22 kg starting weight in Luna Grey or Seashell.",
+   "keywords": "lenovo slim 7i gen 11 aura edition oled 14 inch intel core ultra",
+   "specs": {
+    "cpu": "Intel Core Ultra 7 355 (8 cores, up to 4.7 GHz)",
+    "cpuBrand": "Intel",
+    "gpu": "Intel Graphics (integrated)",
+    "displayIn": 14,
+    "display": "14\" WUXGA OLED (2.8K 120Hz PureSight Pro OLED touch option)",
+    "batteryWh": 70,
+    "weightKg": 1.22,
+    "os": "Windows 11 Home",
+    "ports": "3x USB-C Thunderbolt 4 (PD 3.0, DisplayPort 2.1)",
+    "wireless": "Wi-Fi 7 (2x2), Bluetooth 5.4",
+    "configurations": "Core Ultra 7 355; up to 32 GB LPDDR5X; up to 2 TB SSD",
+    "colors": "Luna Grey, Seashell"
+   },
+   "options": [
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Luna Grey",
+       "default": true,
+       "image": {
+        "small": "/images/catalog/lenovo-slim-7i-gen-11-aura--luna-grey-400.webp",
+        "large": "/images/catalog/lenovo-slim-7i-gen-11-aura--luna-grey-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Lenovo Slim 7i Aura Edition in Luna Grey, opened, three-quarter front view"
+       }
+      },
+      {
+       "label": "Seashell",
+       "image": {
+        "small": "/images/catalog/lenovo-slim-7i-gen-11-aura--seashell-400.webp",
+        "large": "/images/catalog/lenovo-slim-7i-gen-11-aura--seashell-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Lenovo Slim 7i Aura Edition in Seashell, opened, three-quarter front view"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "sku": "TK-LENOVO-PRO9I-G11",
+   "slug": "lenovo-pro-9i-gen-11-aura",
+   "name": "Lenovo Pro 9i Gen 11 Aura Edition (16\" Intel)",
+   "brand": "Lenovo",
+   "category": "creator-laptops",
+   "price": "2939.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    41,
+    5
+   ],
+   "featured": true,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "creator-workstations",
+    "premium-laptops",
+    "oled-displays"
+   ],
+   "summary": "16-inch creator laptop with an Intel Core Ultra 9 386H, GeForce RTX 50-series graphics and a 3.2K Tandem OLED up to 1600 nits.",
+   "description": "The Lenovo Pro 9i Aura Edition (successor to the Yoga Pro 9i line) combines an Intel Core Ultra 9 386H with NVIDIA GeForce RTX 5050, 5060 or 5070 laptop GPUs, up to 64 GB LPDDR5X and up to 2 TB of PCIe Gen5 storage. Its 16-inch 3.2K Pro Tandem OLED touch display reaches 1000 nits SDR and 1600 nits HDR peak with 100% Adobe RGB and Pantone validation. Lenovo lists a 92.5WHr battery, two Thunderbolt 4 ports, HDMI 2.1, a UHS-II SD reader and a 1.90 kg starting weight.",
+   "keywords": "lenovo pro 9i aura edition yoga pro creator laptop tandem oled rtx 5070 core ultra 9",
+   "specs": {
+    "cpu": "Intel Core Ultra 9 386H (16 cores, up to 4.9 GHz)",
+    "cpuBrand": "Intel",
+    "gpu": "NVIDIA GeForce RTX 5050 Laptop GPU (RTX 5060 / 5070 options)",
+    "displayIn": 16,
+    "display": "16\" 3.2K (3200x2000) Pro Tandem OLED touch, 120Hz VRR, 1000 nits SDR / 1600 nits HDR",
+    "batteryWh": 92.5,
+    "weightKg": 1.9,
+    "os": "Windows 11 Home",
+    "npuTops": 50,
+    "ports": "2x Thunderbolt 4, 2x USB-A 10Gbps, HDMI 2.1, SD card reader (UHS-II), headphone/mic combo",
+    "wireless": "Wi-Fi 7 (2x2), Bluetooth 5.4",
+    "configurations": "Core Ultra 9 386H; RTX 5050 / 5060 / 5070; up to 64 GB LPDDR5X; up to 2 TB Gen5 SSD",
+    "colors": "Thunder Grey"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-LENOVO-YOGA-PRO7I-G11",
+   "slug": "lenovo-yoga-pro-7i-gen-11-aura",
+   "name": "Lenovo Yoga Pro 7i Gen 11 Aura Edition (15\" Intel)",
+   "brand": "Lenovo",
+   "category": "creator-laptops",
+   "price": "2599.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    34,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "creator-workstations",
+    "oled-displays"
+   ],
+   "summary": "15.3-inch creator laptop with Intel Core Ultra H-series, GeForce RTX 5050/5060 and a 2.5K 165Hz OLED display.",
+   "description": "The Yoga Pro 7i Aura Edition (Gen 11) uses Intel Core Ultra 7 356H or Core Ultra 9 386H processors with NVIDIA GeForce RTX 5050 or 5060 laptop GPUs, 32 GB LPDDR5X and a 1 TB SSD. Its 15.3-inch 2.5K PureSight Pro OLED runs at up to 165Hz with 1100 nits HDR peak and 100% Adobe RGB. Lenovo lists an 84Whr battery, two Thunderbolt 4 ports, HDMI 2.1, a UHS-II SD reader and a 1.65 kg starting weight in Luna Grey.",
+   "keywords": "yoga pro 7i gen 11 aura edition creator laptop oled rtx 5060 15 inch",
+   "specs": {
+    "cpu": "Intel Core Ultra 7 356H (16 cores, up to 4.7 GHz)",
+    "cpuBrand": "Intel",
+    "gpu": "NVIDIA GeForce RTX 5050 8 GB Laptop GPU (RTX 5060 option)",
+    "ramGb": 32,
+    "storageTb": 1,
+    "displayIn": 15.3,
+    "display": "15.3\" 2.5K (2560x1600) PureSight Pro OLED, 165Hz VRR, 1100 nits HDR peak",
+    "batteryWh": 84,
+    "weightKg": 1.65,
+    "os": "Windows 11 Home",
+    "ports": "2x USB-C Thunderbolt 4, 2x USB-A 10Gbps, HDMI 2.1, SD card reader (UHS-II), audio combo jack",
+    "wireless": "Wi-Fi 7 (2x2), Bluetooth 5.4",
+    "configurations": "Core Ultra 7 356H / Core Ultra 9 386H; RTX 5050 / 5060; 32 GB; 1 TB SSD",
+    "colors": "Luna Grey"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-LENOVO-YOGA-9I-2IN1-G11",
+   "slug": "lenovo-yoga-9i-2-in-1-gen-11-aura",
+   "name": "Lenovo Yoga 9i 2-in-1 Gen 11 Aura Edition (14\" Intel)",
+   "brand": "Lenovo",
+   "category": "premium-laptops",
+   "price": "2379.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    25,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "premium-laptops",
+    "oled-displays"
+   ],
+   "summary": "Premium 14-inch convertible with an Intel Core Ultra 7 355, 32 GB memory and a 2.8K OLED touch display up to 1100 nits HDR.",
+   "description": "The Yoga 9i 2-in-1 Aura Edition (Gen 11) is a 14-inch convertible with an Intel Core Ultra 7 355, 32 GB LPDDR5X and up to 2 TB of storage. Its 2.8K OLED touch display runs at 30-120Hz with 1100 nits HDR, 100% DCI-P3 and DisplayHDR True Black 1000. Lenovo lists a 70Wh battery, two Thunderbolt 4 ports, HDMI 2.1 and USB-A, Wi-Fi 7 and a 1.29 kg starting weight in Cosmic Blue.",
+   "keywords": "yoga 9i 2-in-1 gen 11 aura edition convertible oled pen 14 inch",
+   "specs": {
+    "cpu": "Intel Core Ultra 7 355 (8 cores, up to 4.7 GHz)",
+    "cpuBrand": "Intel",
+    "gpu": "Intel Graphics (integrated)",
+    "ramGb": 32,
+    "displayIn": 14,
+    "display": "14\" 2.8K (2880x1800) OLED touch, 30-120Hz, 1100 nits HDR, 100% DCI-P3",
+    "batteryWh": 70,
+    "weightKg": 1.29,
+    "os": "Windows 11 Home",
+    "npuTops": 50,
+    "ports": "2x USB-C Thunderbolt 4 (PD 3.0, DP 2.1), USB-A 10Gbps, HDMI 2.1, headphone/mic combo",
+    "wireless": "Wi-Fi 7 (2x2), Bluetooth 5.4",
+    "configurations": "Core Ultra 7 355; 32 GB LPDDR5X; up to 2 TB SSD",
+    "colors": "Cosmic Blue"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-LENOVO-YOGA-7I-2IN1-G11",
+   "slug": "lenovo-yoga-7i-2-in-1-gen-11-aura-14",
+   "name": "Lenovo Yoga 7i 2-in-1 Gen 11 Aura Edition (14\" Intel)",
+   "brand": "Lenovo",
+   "category": "premium-laptops",
+   "price": "1229.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    27,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "premium-laptops",
+    "oled-displays"
+   ],
+   "summary": "14-inch OLED convertible with Intel Core Ultra 5 322 or Core Ultra 7 355, a 70Wh battery and two Thunderbolt 4 ports.",
+   "description": "The Yoga 7i 2-in-1 Aura Edition (Gen 11, 14-inch) offers Intel Core Ultra 5 322 or Core Ultra 7 355 processors with up to 24 GB LPDDR5X and up to 1 TB SSD. Both display options are OLED touchscreens: a WUXGA 60Hz panel or a 2.8K 120Hz PureSight Pro OLED. Lenovo lists a 70WHr battery, two Thunderbolt 4 ports, HDMI 2.1, a microSD reader and a 1.38 kg starting weight in Luna Grey.",
+   "keywords": "yoga 7i 2-in-1 gen 11 aura edition 14 inch oled convertible",
+   "specs": {
+    "cpu": "Intel Core Ultra 5 322 (6 cores, up to 4.4 GHz)",
+    "cpuBrand": "Intel",
+    "gpu": "Intel Graphics (integrated)",
+    "displayIn": 14,
+    "display": "14\" WUXGA (1920x1200) OLED touch, 60Hz (2.8K 120Hz PureSight Pro OLED option)",
+    "batteryWh": 70,
+    "weightKg": 1.38,
+    "os": "Windows 11 Home",
+    "npuTops": 46,
+    "ports": "2x USB-C Thunderbolt 4, USB-A 5Gbps (always on), HDMI 2.1, microSD reader, audio combo jack",
+    "wireless": "Wi-Fi 7 (2x2), Bluetooth 5.4",
+    "configurations": "Core Ultra 5 322 / Core Ultra 7 355; up to 24 GB LPDDR5X; up to 1 TB SSD",
+    "colors": "Luna Grey"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-LENOVO-IDEAPAD-SLIM5I-16-G11",
+   "slug": "lenovo-ideapad-slim-5i-gen-11-16",
+   "name": "Lenovo IdeaPad Slim 5i Gen 11 (16\" Intel)",
+   "brand": "Lenovo",
+   "category": "premium-laptops",
+   "price": "1379.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    37,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "premium-laptops"
+   ],
+   "summary": "Everyday 16-inch IdeaPad with Intel Core Ultra Series 3, upgradeable DDR5 SODIMM memory and Wi-Fi 7.",
+   "description": "The IdeaPad Slim 5i Gen 11 (16-inch) uses Intel Core Ultra 5 322 or Core Ultra 7 355 processors with up to 32 GB DDR5-5600 in two SODIMM slots and up to 1 TB of storage. Display options run from a 16-inch WUXGA IPS 60Hz panel to 120Hz and OLED choices; Lenovo lists a 60Whr battery, two USB-C and two USB-A ports, HDMI 2.1, a microSD reader, Wi-Fi 7 and a 1.69 kg starting weight in Luna Grey or Cosmic Blue.",
+   "keywords": "ideapad slim 5i gen 11 16 inch everyday laptop copilot+ intel core ultra",
+   "specs": {
+    "cpu": "Intel Core Ultra 5 322 (6 cores, up to 4.4 GHz)",
+    "cpuBrand": "Intel",
+    "gpu": "Intel Graphics (integrated)",
+    "displayIn": 16,
+    "display": "16\" WUXGA (1920x1200) IPS, 400 nits, 60Hz (120Hz IPS and OLED options)",
+    "batteryWh": 60,
+    "weightKg": 1.69,
+    "os": "Windows 11 Home",
+    "npuTops": 50,
+    "ports": "2x USB-C 10Gbps (PD 3.0, DP 1.2), 2x USB-A 5Gbps, HDMI 2.1, microSD reader, headphone/mic combo",
+    "wireless": "Wi-Fi 7 (2x2), Bluetooth 5.2",
+    "configurations": "Core Ultra 5 322 / Core Ultra 7 355; up to 32 GB DDR5 (2x SODIMM); up to 1 TB SSD",
+    "colors": "Luna Grey, Cosmic Blue"
+   },
+   "options": [
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Luna Grey",
+       "default": true,
+       "image": {
+        "small": "/images/catalog/lenovo-ideapad-slim-5i-gen-11-16--luna-grey-400.webp",
+        "large": "/images/catalog/lenovo-ideapad-slim-5i-gen-11-16--luna-grey-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Lenovo IdeaPad Slim 5i Gen 11 16-inch in Luna Grey, opened, three-quarter front view"
+       }
+      },
+      {
+       "label": "Cosmic Blue",
+       "image": {
+        "small": "/images/catalog/lenovo-ideapad-slim-5i-gen-11-16--cosmic-blue-400.webp",
+        "large": "/images/catalog/lenovo-ideapad-slim-5i-gen-11-16--cosmic-blue-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Lenovo IdeaPad Slim 5i Gen 11 16-inch in Cosmic Blue, opened, three-quarter front view"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "sku": "TK-LENOVO-IDEAPAD-PRO5I-16-G11",
+   "slug": "lenovo-ideapad-pro-5i-gen-11-16",
+   "name": "Lenovo IdeaPad Pro 5i Gen 11 (16\" Intel)",
+   "brand": "Lenovo",
+   "category": "creator-laptops",
+   "price": "2749.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    47,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "creator-workstations",
+    "oled-displays"
+   ],
+   "summary": "16-inch IdeaPad Pro with Intel Core Ultra H-series, GeForce RTX 5050/5060 graphics and a 2.8K 120Hz OLED display.",
+   "description": "The IdeaPad Pro 5i Gen 11 (16-inch) pairs Intel Core Ultra 7 356H or Core Ultra 9 386H processors with NVIDIA GeForce RTX 5050 or 5060 laptop GPUs, 32 GB LPDDR5X and a 1 TB SSD with a second SSD slot. It has a 16-inch 2.8K 120Hz OLED with HDR True Black 1000 (touch option), 84Whr or 99.9Whr batteries, two Thunderbolt 4 ports, HDMI 2.1, an SD reader and Wi-Fi 7, starting at 1.7 kg in Luna Grey.",
+   "keywords": "ideapad pro 5i gen 11 16 inch oled rtx 5060 creator laptop",
+   "specs": {
+    "cpu": "Intel Core Ultra 7 356H (16 cores, up to 4.7 GHz)",
+    "cpuBrand": "Intel",
+    "gpu": "NVIDIA GeForce RTX 5050 8 GB (RTX 5060 option)",
+    "ramGb": 32,
+    "storageTb": 1,
+    "displayIn": 16,
+    "display": "16\" 2.8K (2880x1800) OLED, 120Hz, 500 nits, HDR True Black 1000, 100% DCI-P3",
+    "batteryWh": 84,
+    "weightKg": 1.7,
+    "os": "Windows 11 Home",
+    "npuTops": 50,
+    "ports": "2x USB-C Thunderbolt 4, 2x USB-A 10Gbps, HDMI 2.1, SD card reader, audio combo jack",
+    "wireless": "Wi-Fi 7 (2x2, 320MHz), Bluetooth 5.4",
+    "configurations": "Core Ultra 7 356H / Core Ultra 9 386H; RTX 5050 / 5060; 32 GB; 1 TB + spare M.2 slot",
+    "colors": "Luna Grey"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-LENOVO-IDEAPAD-SLIM5X-15-G11",
+   "slug": "lenovo-ideapad-slim-5x-gen-11-15",
+   "name": "Lenovo IdeaPad Slim 5x Gen 11 (15\" Snapdragon)",
+   "brand": "Lenovo",
+   "category": "premium-laptops",
+   "price": "969.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    16,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "premium-laptops"
+   ],
+   "summary": "15.3-inch Snapdragon X2 Plus Copilot+ PC with an 80 TOPS NPU, OLED display option and Wi-Fi 7.",
+   "description": "The IdeaPad Slim 5x Gen 11 runs Windows 11 on Arm with the Snapdragon X2 Plus X2P-42-100, up to 32 GB LPDDR5X and up to 1 TB SSD. Display options are a 15.3-inch WUXGA 120Hz touch LCD or a 2.5K 165Hz OLED with DisplayHDR True Black 1000; Lenovo lists 54.7Whr or 70Whr batteries, two USB-C and two USB-A ports, HDMI 2.1, Wi-Fi 7 and a 1.41 kg starting weight in Cloud Grey.",
+   "keywords": "ideapad slim 5x gen 11 snapdragon x2 plus copilot+ pc 15 inch arm laptop",
+   "specs": {
+    "cpu": "Qualcomm Snapdragon X2 Plus X2P-42-100 (up to 4.04 GHz)",
+    "cpuBrand": "Qualcomm",
+    "gpu": "Qualcomm Adreno (integrated)",
+    "displayIn": 15.3,
+    "display": "15.3\" WUXGA (1920x1200) LCD touch, 120Hz, 400 nits (2.5K 165Hz OLED option)",
+    "batteryWh": 54.7,
+    "weightKg": 1.41,
+    "os": "Windows 11 Home",
+    "npuTops": 80,
+    "ports": "2x USB-C 10Gbps (PD 3.0, DP 1.4), 2x USB-A 5Gbps, HDMI 2.1, microSD reader, headphone/mic combo",
+    "wireless": "Wi-Fi 7 (2x2, 320MHz), Bluetooth 5.4",
+    "configurations": "Snapdragon X2 Plus X2P-42-100; up to 32 GB LPDDR5X; up to 1 TB SSD",
+    "colors": "Cloud Grey"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-LENOVO-LEGION-PRO7I-G10",
+   "slug": "lenovo-legion-pro-7i-gen-10",
+   "name": "Lenovo Legion Pro 7i Gen 10 (16\" Intel)",
+   "brand": "Lenovo",
+   "category": "gaming-laptops",
+   "price": "3279.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    13,
+    3
+   ],
+   "featured": true,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "gaming-monsters",
+    "dream-gaming",
+    "ultimate-gaming-setup"
+   ],
+   "summary": "Flagship 16-inch Legion with Intel Core Ultra 9 275HX, GeForce RTX 5070 Ti up to RTX 5090 and a 240Hz OLED display.",
+   "description": "The Legion Pro 7i Gen 10 uses an Intel Core Ultra 9 275HX or 290HX Plus with NVIDIA GeForce RTX 5070 Ti, 5080 or 5090 laptop GPUs running at up to 175W. It has a 16-inch WQXGA 240Hz OLED with DisplayHDR True Black 1000 and G-SYNC, up to 64 GB DDR5-6400, a 99Whr battery, Thunderbolt 4, HDMI 2.1, RJ45 and Wi-Fi 7, with a starting weight under 2.72 kg.",
+   "keywords": "legion pro 7i gen 10 gaming laptop rtx 5090 rtx 5080 core ultra 9 275hx oled 240hz",
+   "specs": {
+    "cpu": "Intel Core Ultra 9 275HX (24 cores, up to 5.4 GHz)",
+    "cpuBrand": "Intel",
+    "gpu": "NVIDIA GeForce RTX 5070 Ti 12 GB (RTX 5080 16 GB / RTX 5090 24 GB options)",
+    "displayIn": 16,
+    "display": "16\" WQXGA (2560x1600) OLED, 240Hz, 500 nits, DisplayHDR True Black 1000, G-SYNC",
+    "batteryWh": 99,
+    "weightKg": 2.72,
+    "os": "Windows 11 Home",
+    "ports": "Thunderbolt 4, USB-C (PD 65-100W, DP 2.1), 3x USB-A, HDMI 2.1, RJ45, headphone/mic combo",
+    "wireless": "Intel Wi-Fi 7 (2x2), Bluetooth 5.4",
+    "configurations": "Core Ultra 9 275HX / 290HX Plus; RTX 5070 Ti / 5080 / 5090; up to 64 GB DDR5-6400; up to 2 TB SSD"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-LENOVO-LEGION-PRO5I-G10",
+   "slug": "lenovo-legion-pro-5i-gen-10",
+   "name": "Lenovo Legion Pro 5i Gen 10 (16\" Intel)",
+   "brand": "Lenovo",
+   "category": "gaming-laptops",
+   "price": "1799.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    42,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "gaming-monsters"
+   ],
+   "summary": "16-inch esports Legion with Intel Core HX processors, GeForce RTX 5060 to RTX 5070 Ti and 165-240Hz displays.",
+   "description": "The Legion Pro 5i Gen 10 offers Intel Core i7-14650HX, Core i9-14900HX or Core Ultra 7 251HX processors with NVIDIA GeForce RTX 5060, 5070 or 5070 Ti laptop GPUs and a MUX switch. Display options include 16-inch WQXGA OLED panels at 165Hz or 240Hz and a 240Hz IPS panel. Lenovo lists up to 32 GB DDR5, an 80Whr battery with Super Rapid Charge, Thunderbolt 4, HDMI 2.1, RJ45 and Wi-Fi 7.",
+   "keywords": "legion pro 5i gen 10 gaming laptop rtx 5070 ti rtx 5060 esports 16 inch",
+   "specs": {
+    "cpu": "Intel Core i7-14650HX (16 cores, up to 5.2 GHz)",
+    "cpuBrand": "Intel",
+    "gpu": "NVIDIA GeForce RTX 5060 8 GB (RTX 5070 / 5070 Ti options)",
+    "displayIn": 16,
+    "display": "16\" WQXGA (2560x1600) OLED, 165Hz, HDR True Black 1000 (240Hz OLED / IPS options)",
+    "batteryWh": 80,
+    "weightKg": 2.52,
+    "os": "Windows 11 Home",
+    "ports": "Thunderbolt 4, USB-C (PD 140W, DP 2.1), 3x USB-A, HDMI 2.1, RJ45, headphone/mic combo",
+    "wireless": "Wi-Fi 7 (2x2), Bluetooth 5.4",
+    "configurations": "Core i7-14650HX / Core i9-14900HX / Core Ultra 7 251HX and up; RTX 5060 / 5070 / 5070 Ti; up to 32 GB DDR5; up to 2 TB SSD",
+    "colors": "Eclipse Black"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-LENOVO-LEGION-7A-G11",
+   "slug": "lenovo-legion-7a-gen-11-16-amd",
+   "name": "Lenovo Legion 7a Gen 11 (16\" AMD)",
+   "brand": "Lenovo",
+   "category": "gaming-laptops",
+   "price": "2279.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    42,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "gaming-monsters"
+   ],
+   "summary": "Slim 16-inch Legion with AMD Ryzen AI 400 processors, GeForce RTX 5060/5070 and a 240Hz OLED display.",
+   "description": "The Legion 7a Gen 11 pairs AMD Ryzen AI 7 450 or Ryzen AI 9 HX 470 processors (NPU up to 55 TOPS) with NVIDIA GeForce RTX 5060 or RTX 5070 laptop GPUs, 32 GB LPDDR5X and a 1 TB SSD. Its 16-inch WQXGA OLED runs at 240Hz with DisplayHDR True Black 1000 and G-SYNC. Lenovo lists an 84Whr battery, two USB4 40Gbps ports, HDMI 2.1 (8K@60Hz), an SD reader, Wi-Fi 7 and a 1.8 kg starting weight in Glacier White or a limited-edition Nebula finish.",
+   "keywords": "legion 7a gen 11 amd ryzen ai 9 hx 470 gaming laptop rtx 5070 oled 240hz",
+   "specs": {
+    "cpu": "AMD Ryzen AI 7 450 (8 cores, up to 5.1 GHz)",
+    "cpuBrand": "AMD",
+    "gpu": "NVIDIA GeForce RTX 5060 8 GB (RTX 5070 option)",
+    "ramGb": 32,
+    "storageTb": 1,
+    "displayIn": 16,
+    "display": "16\" WQXGA (2560x1600) OLED, 240Hz VRR, 500 nits, DisplayHDR True Black 1000, G-SYNC",
+    "batteryWh": 84,
+    "weightKg": 1.8,
+    "os": "Windows 11 Home",
+    "npuTops": 55,
+    "ports": "2x USB-C USB4 40Gbps (PD, DP 2.1), 2x USB-A 5Gbps, HDMI 2.1, SD card reader, headphone/mic combo",
+    "wireless": "Wi-Fi 7 (2x2), Bluetooth 5.4",
+    "configurations": "Ryzen AI 7 450 / Ryzen AI 9 HX 470; RTX 5060 / 5070; 32 GB LPDDR5X; 1 TB SSD",
+    "colors": "Glacier White, Nebula"
+   },
+   "options": [
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Glacier White",
+       "default": true,
+       "image": {
+        "small": "/images/catalog/lenovo-legion-7a-gen-11-16-amd--glacier-white-400.webp",
+        "large": "/images/catalog/lenovo-legion-7a-gen-11-16-amd--glacier-white-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Lenovo Legion 7a Gen 11 in Glacier White, opened, three-quarter front view"
+       }
+      },
+      {
+       "label": "Nebula",
+       "image": {
+        "small": "/images/catalog/lenovo-legion-7a-gen-11-16-amd--nebula-400.webp",
+        "large": "/images/catalog/lenovo-legion-7a-gen-11-16-amd--nebula-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Lenovo Legion 7a Gen 11 in the limited-edition Nebula finish, opened, three-quarter front view"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "sku": "TK-LENOVO-LEGION-5I-G11",
+   "slug": "lenovo-legion-5i-gen-11-15-intel",
+   "name": "Lenovo Legion 5i Gen 11 (15\" Intel)",
+   "brand": "Lenovo",
+   "category": "gaming-laptops",
+   "price": "1780.02",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    8,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "gaming-monsters"
+   ],
+   "summary": "15.3-inch Legion with Intel Core Ultra 200HX, GeForce RTX 5060/5070 and a 165Hz OLED display.",
+   "description": "The Legion 5i Gen 11 uses Intel Core Ultra 7 251HX or Core Ultra 9 290HX Plus processors with NVIDIA GeForce RTX 5060 or RTX 5070 laptop GPUs and a MUX switch. It has a 15.3-inch WQXGA 165Hz OLED with DisplayHDR True Black 1000 and G-SYNC, up to 32 GB DDR5 in two SODIMM slots, an 80Whr battery, Thunderbolt 4, HDMI 2.1, RJ45 and Wi-Fi 7, starting at 1.93 kg.",
+   "keywords": "legion 5i gen 11 gaming laptop rtx 5070 oled 15 inch core ultra hx",
+   "specs": {
+    "cpu": "Intel Core Ultra 7 251HX (18 cores, up to 5.1 GHz)",
+    "cpuBrand": "Intel",
+    "gpu": "NVIDIA GeForce RTX 5060 8 GB (RTX 5070 option)",
+    "displayIn": 15.3,
+    "display": "15.3\" WQXGA (2560x1600) OLED, 165Hz, 500 nits, DisplayHDR True Black 1000, G-SYNC",
+    "batteryWh": 80,
+    "weightKg": 1.93,
+    "os": "Windows 11 Home",
+    "npuTops": 13,
+    "ports": "USB-C Thunderbolt 4, USB-C 10Gbps, 3x USB-A 5Gbps, HDMI 2.1, RJ45, headphone/mic combo",
+    "wireless": "Wi-Fi 7 (2x2) with Bluetooth 5.4, or Killer Wi-Fi 6E with Bluetooth 5.3",
+    "configurations": "Core Ultra 7 251HX / Core Ultra 9 290HX Plus; RTX 5060 / 5070; up to 32 GB DDR5; up to 2 TB SSD",
+    "colors": "Eclipse Black, Glacier White"
+   },
+   "options": [
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Eclipse Black",
+       "default": true,
+       "image": {
+        "small": "/images/catalog/lenovo-legion-5i-gen-11-15-intel--eclipse-black-400.webp",
+        "large": "/images/catalog/lenovo-legion-5i-gen-11-15-intel--eclipse-black-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Lenovo Legion 5i Gen 11 in Eclipse Black, opened, three-quarter front view"
+       }
+      },
+      {
+       "label": "Glacier White"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "sku": "TK-LENOVO-LEGION-9I-G10",
+   "slug": "lenovo-legion-9i-gen-10-18",
+   "name": "Lenovo Legion 9i Gen 10 (18\" Intel)",
+   "brand": "Lenovo",
+   "category": "gaming-laptops",
+   "price": "3979.86",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    5,
+    3
+   ],
+   "featured": true,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "gaming-monsters",
+    "dream-gaming",
+    "ultimate-gaming-setup"
+   ],
+   "summary": "18-inch flagship Legion with Core Ultra 9 275HX, RTX 5080/5090, a 4K 240Hz display (2D/3D option) and up to 192 GB DDR5.",
+   "description": "The Legion 9i Gen 10 is an 18-inch desktop-replacement with an Intel Core Ultra 9 275HX and NVIDIA GeForce RTX 5080 (16 GB) or RTX 5090 (24 GB) laptop GPUs at 175W. Its 18-inch 4K 240Hz IPS display is also offered as a 2D/3D panel, and it has four memory slots for up to 192 GB DDR5, room for up to 8 TB of SSD, a 99.99Whr battery, two Thunderbolt 5 ports, HDMI 2.1 and RJ45. Starting weight is 3.5 kg (2D model).",
+   "keywords": "legion 9i gen 10 18 inch gaming laptop rtx 5090 4k 240hz 3d display thunderbolt 5",
+   "specs": {
+    "cpu": "Intel Core Ultra 9 275HX (24 cores, up to 5.4 GHz)",
+    "cpuBrand": "Intel",
+    "gpu": "NVIDIA GeForce RTX 5080 16 GB (RTX 5090 24 GB option), 175W",
+    "displayIn": 18,
+    "display": "18\" 4K (3840x2400) IPS, 240Hz, 520 nits, 100% DCI-P3, G-SYNC (2D/3D panel option)",
+    "batteryWh": 99.99,
+    "weightKg": 3.5,
+    "os": "Windows 11 Home",
+    "ports": "2x Thunderbolt 5, USB-C 10Gbps, 3x USB-A 10Gbps, HDMI 2.1, RJ45, SD 4.0 reader, headphone/mic combo",
+    "configurations": "Core Ultra 9 275HX; RTX 5080 / 5090; up to 192 GB DDR5 (4x DIMM); up to 8 TB SSD",
+    "colors": "Eclipse Black"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-LENOVO-CHROMEBOOK-I-14",
+   "slug": "lenovo-chromebook-i-14-intel",
+   "name": "Lenovo Chromebook i (14\" Intel)",
+   "brand": "Lenovo",
+   "category": "chromebooks",
+   "price": "469.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    16,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [],
+   "summary": "Affordable 14-inch ChromeOS laptop with an Intel N150, WUXGA display, Wi-Fi 6E and MIL-STD-810H durability.",
+   "description": "The Lenovo Chromebook i (14-inch, part of the Chromebook i / Chromebook Plus i family) uses an Intel N150 processor with 4 GB LPDDR5 and 64 GB UFS storage. It has a 14-inch WUXGA IPS anti-glare display, a 720p webcam with privacy shutter, two USB-C 10Gbps and two USB-A ports, HDMI, Wi-Fi 6E and a 1.36 kg starting weight in Luna Grey.",
+   "keywords": "lenovo chromebook i 14 inch intel n150 chromeos student laptop",
+   "specs": {
+    "cpu": "Intel N150 (4 cores, up to 3.6 GHz)",
+    "cpuBrand": "Intel",
+    "gpu": "Intel Graphics (integrated)",
+    "ramGb": 4,
+    "storageTb": 0.064,
+    "displayIn": 14,
+    "display": "14\" WUXGA (1920x1200) IPS, anti-glare, 400 nits, 60Hz",
+    "weightKg": 1.36,
+    "os": "ChromeOS",
+    "ports": "2x USB-C 10Gbps, 2x USB-A 5Gbps, HDMI 1.4b, headphone/mic combo",
+    "wireless": "Wi-Fi 6E (2x2), Bluetooth 5.3",
+    "colors": "Luna Grey"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-LENOVO-LEGION-T7I-G10",
+   "slug": "lenovo-legion-tower-7i-gen-10",
+   "name": "Lenovo Legion Tower 7i Gen 10",
+   "brand": "Lenovo",
+   "category": "gaming-desktops",
+   "price": "3249.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    14,
+    3
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "gaming-monsters",
+    "dream-gaming"
+   ],
+   "summary": "34L Legion gaming tower with Intel Core Ultra 7 265K / Ultra 9 285K and GeForce RTX 5070 Ti up to RTX 5090.",
+   "description": "The Legion Tower 7i Gen 10 uses Intel Core Ultra 7 265K or Core Ultra 9 285K processors with NVIDIA GeForce RTX 5070 Ti, RTX 5080 or RTX 5090 graphics. It has four DIMM slots supporting up to 192 GB DDR5, up to 2 TB of PCIe Gen4 SSD, Thunderbolt 4 on the rear, a front-top USB-C port and Wi-Fi 6E in a Storm Grey chassis.",
+   "keywords": "legion tower 7i gen 10 gaming desktop rtx 5090 rtx 5080 core ultra 9 285k",
+   "specs": {
+    "cpu": "Intel Core Ultra 7 265K (20 cores, up to 5.4 GHz)",
+    "cpuBrand": "Intel",
+    "gpu": "NVIDIA GeForce RTX 5070 Ti 16 GB (RTX 5080 / RTX 5090 options)",
+    "os": "Windows 11 Home",
+    "networking": "RJ45 Ethernet, Intel Wi-Fi 6E, Bluetooth 5.3",
+    "ports": "Top: USB-C 10Gbps, 3x USB-A, audio; Rear: Thunderbolt 4 (USB4 40Gbps), 6x USB-A, DisplayPort 1.4, RJ45, 6 audio (SPDIF)",
+    "configurations": "Core Ultra 7 265K / Core Ultra 9 285K; RTX 5070 Ti / 5080 / 5090; up to 64 GB DDR5 shipped (192 GB supported); up to 2 TB SSD",
+    "colors": "Storm Grey"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-LENOVO-LEGION-T5I-G10",
+   "slug": "lenovo-legion-tower-5i-gen-10",
+   "name": "Lenovo Legion Tower 5i Gen 10 (Intel)",
+   "brand": "Lenovo",
+   "category": "gaming-desktops",
+   "price": "2889.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    43,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "gaming-monsters"
+   ],
+   "summary": "30L Legion gaming tower with Intel Core Ultra 200 processors and GeForce RTX 5060 up to RTX 5070 Ti.",
+   "description": "The Legion Tower 5i Gen 10 offers Intel Core Ultra 5 225F, Core Ultra 7 265F or Core Ultra 7 265KF processors with NVIDIA GeForce RTX 5060, 5060 Ti, 5070 or 5070 Ti graphics. It ships with up to 32 GB DDR5 (128 GB supported), up to 2 TB of PCIe Gen4 SSD with support for three Gen5 SSDs, 2.5GbE Ethernet and Wi-Fi 6E in an Eclipse Black chassis.",
+   "keywords": "legion tower 5i gen 10 gaming desktop rtx 5070 ti core ultra 7 265f",
+   "specs": {
+    "cpu": "Intel Core Ultra 5 225F (10 cores, up to 4.9 GHz)",
+    "cpuBrand": "Intel",
+    "gpu": "NVIDIA GeForce RTX 5060 8 GB (RTX 5060 Ti / 5070 / 5070 Ti options)",
+    "os": "Windows 11 Home",
+    "networking": "2.5GbE RJ45, Wi-Fi 6E (2x2), Bluetooth 5.3",
+    "ports": "Top: USB-A 5Gbps, USB-C 5Gbps, audio; Rear: USB-C 10Gbps, 2x USB-A 5Gbps, 4x USB-A (Hi-Speed), 2.5GbE, 3 audio",
+    "configurations": "Core Ultra 5 225F / Core Ultra 7 265F / 265KF; RTX 5060 to 5070 Ti; up to 32 GB DDR5 (128 GB supported); up to 2 TB SSD",
+    "colors": "Eclipse Black"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-LENOVO-LEGION-GO-S",
+   "slug": "lenovo-legion-go-s-z2-go",
+   "name": "Lenovo Legion Go S (8\" AMD Ryzen Z2 Go)",
+   "brand": "Lenovo",
+   "category": "handhelds",
+   "price": "699.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    45,
+    5
+   ],
+   "featured": true,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "gaming-monsters"
+   ],
+   "summary": "8-inch Windows or SteamOS handheld gaming PC with AMD Ryzen Z2 Go, a 120Hz WUXGA display and two USB4 ports.",
+   "description": "The Legion Go S handheld uses the AMD Ryzen Z2 Go processor with up to 32 GB LPDDR5X-6400 and up to 1 TB of PCIe Gen4 storage. It has an 8-inch WUXGA (1920x1200) 120Hz VRR touchscreen rated at 500 nits, a 55.5WHr battery, two USB4 ports with DisplayPort 1.4, a microSD reader and Wi-Fi 6E, weighing from 730 g. Lenovo offers it with Windows 11 Home or SteamOS in Glacier White and Nebula Nocturne.",
+   "keywords": "legion go s handheld gaming pc steamos windows ryzen z2 go 8 inch",
+   "specs": {
+    "platform": "SteamOS",
+    "chip": "AMD Ryzen Z2 Go (up to 4.3 GHz)",
+    "storage": "Up to 1 TB PCIe Gen4 SSD + microSD",
+    "display": "8\" WUXGA (1920x1200) touch, 120Hz VRR, 500 nits, 100% sRGB",
+    "output": "2x USB4 40Gbps (DisplayPort 1.4, PD 3.0)",
+    "connectivity": "Wi-Fi 6E (2x2), Bluetooth 5.3",
+    "battery": "55.5WHr",
+    "weightG": 730,
+    "compatibility": "Windows 11 Home or SteamOS",
+    "configurations": "AMD Ryzen Z2 Go (starting configuration) – $699.99 · AMD Ryzen Z1 Extreme, 32 GB, 1 TB – $1,099.99",
+    "colors": "Glacier White, Nebula Nocturne"
+   },
+   "options": [
+    {
+     "name": "Configuration",
+     "values": [
+      {
+       "label": "AMD Ryzen Z2 Go (starting configuration)",
+       "price": "699.99",
+       "default": true
+      },
+      {
+       "label": "AMD Ryzen Z1 Extreme, 32 GB, 1 TB",
+       "price": "1099.99"
+      }
+     ]
+    },
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Glacier White",
+       "default": true,
+       "image": {
+        "small": "/images/catalog/lenovo-legion-go-s-z2-go--glacier-white-400.webp",
+        "large": "/images/catalog/lenovo-legion-go-s-z2-go--glacier-white-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Lenovo Legion Go S handheld in Glacier White, front view with controllers and 8-inch screen"
+       }
+      },
+      {
+       "label": "Nebula Nocturne",
+       "image": {
+        "small": "/images/catalog/lenovo-legion-go-s-z2-go--nebula-nocturne-400.webp",
+        "large": "/images/catalog/lenovo-legion-go-s-z2-go--nebula-nocturne-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Lenovo Legion Go S handheld in Nebula Nocturne, front view with controllers and 8-inch screen"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "sku": "TK-LENOVO-LEGION-TAB-G5",
+   "slug": "lenovo-legion-tab-gen-5",
+   "name": "Lenovo Legion Tab Gen 5 (8.8\" Snapdragon)",
+   "brand": "Lenovo",
+   "category": "tablets",
+   "price": "679.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    24,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "gaming-monsters"
+   ],
+   "summary": "8.8-inch Android gaming tablet with Snapdragon 8 Elite Gen 5, a 3K 165Hz display and two USB-C ports.",
+   "description": "The Legion Tab Gen 5 is an 8.8-inch Android 16 gaming tablet powered by the Snapdragon 8 Elite Gen 5 with 12 GB LPDDR5T and 256 GB UFS 4.1. Its 3K (3040x1904) PureSight display runs at 165Hz with up to 480Hz touch sampling and 99% DCI-P3. Lenovo lists a 9000mAh battery, two USB-C ports (one 10Gbps with DisplayPort out), microSD support up to 2 TB, Wi-Fi 7 and a 360 g weight in Eclipse Black.",
+   "keywords": "legion tab gen 5 gaming tablet snapdragon 8 elite gen 5 android 8.8 inch 165hz",
+   "specs": {
+    "chip": "Qualcomm Snapdragon 8 Elite Gen 5",
+    "storageGb": 256,
+    "ramGb": 12,
+    "displayIn": 8.8,
+    "display": "8.8\" 3K (3040x1904) PureSight, 165Hz, 600 nits typical / 800 nits HBM, 99% DCI-P3",
+    "connectivity": "Wi-Fi 7, Bluetooth 6.0",
+    "os": "Android 16",
+    "weightG": 360,
+    "colors": "Eclipse Black"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-LENOVO-YOGA-TAB-G2",
+   "slug": "lenovo-yoga-tab-gen-2",
+   "name": "Lenovo Yoga Tab Gen 2 (11.1\")",
+   "brand": "Lenovo",
+   "category": "tablets",
+   "price": "599.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    34,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [],
+   "summary": "11.1-inch 4K Android creator tablet with MediaTek Dimensity 9500s, a 144Hz PureSight Pro display and 7 OS upgrades.",
+   "description": "The Yoga Tab Gen 2 has an 11.1-inch 4K (3840x2560) 3:2 PureSight Pro display with up to 144Hz, 1100 nits peak and Dolby Vision, driven by a MediaTek Dimensity 9500s with 8 GB LPDDR5X and 256 GB of storage (microSD up to 2 TB). Lenovo lists an 11000mAh battery with 68W charging, a pogo-pin keyboard connector, Wi-Fi 7, optional 5G and seven Android OS upgrades, in Cosmic Blue.",
+   "keywords": "yoga tab gen 2 android tablet 4k 11.1 inch dimensity 9500s creator",
+   "specs": {
+    "chip": "MediaTek Dimensity 9500s",
+    "storageGb": 256,
+    "ramGb": 8,
+    "displayIn": 11.1,
+    "display": "11.1\" 4K (3840x2560) PureSight Pro LCD, up to 144Hz, 600 nits typical / 1100 nits peak, Dolby Vision",
+    "connectivity": "Wi-Fi 7, Bluetooth 6; optional 5G",
+    "os": "Android 17",
+    "colors": "Cosmic Blue"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-LENOVO-TAB-PLUS-G2",
+   "slug": "lenovo-tab-plus-gen-2",
+   "name": "Lenovo Tab Plus Gen 2 (12.1\")",
+   "brand": "Lenovo",
+   "category": "tablets",
+   "price": "269.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    56,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [],
+   "summary": "12.1-inch Android entertainment tablet with a 2.5K 120Hz display, JBL 9-speaker system and a built-in kickstand.",
+   "description": "The Lenovo Tab Plus Gen 2 pairs a MediaTek Dimensity 7400 with 8 GB of memory and 128 GB of storage (microSD up to 2 TB). Its 12.1-inch 2.5K (2560x1600) 120Hz display reaches 800 nits in high-brightness mode, and the JBL 9-unit speaker system is tuned by Dolby Atmos. Lenovo lists a 10200mAh battery with 45W charging, IP52 protection, Wi-Fi 6 and a 0.76 kg weight in Celestial White.",
+   "keywords": "lenovo tab plus gen 2 android tablet jbl speakers kickstand 12.1 inch",
+   "specs": {
+    "chip": "MediaTek Dimensity 7400",
+    "storageGb": 128,
+    "ramGb": 8,
+    "displayIn": 12.1,
+    "display": "12.1\" 2.5K (2560x1600) LCD, 120Hz, 600 nits typical / 800 nits HBM, 98% DCI-P3",
+    "rearCamera": "13 MP autofocus",
+    "connectivity": "Wi-Fi 6, Bluetooth 5.4",
+    "os": "Android 16",
+    "weightG": 760,
+    "colors": "Celestial White"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-LENOVO-IDEA-TAB-PRO-G2",
+   "slug": "lenovo-idea-tab-pro-gen-2",
+   "name": "Lenovo Idea Tab Pro Gen 2 (13\")",
+   "brand": "Lenovo",
+   "category": "tablets",
+   "price": "419.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    10,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [],
+   "summary": "13-inch Android tablet with Snapdragon 8s Gen 4, a 3.5K 144Hz display and an included Tab Pen Plus.",
+   "description": "The Idea Tab Pro Gen 2 has a 13-inch 3.5K (3540x2190) 144Hz LCD with 99% DCI-P3 and up to 800 nits, powered by the Snapdragon 8s Gen 4 with 8 GB of memory and 128 GB of storage. Lenovo lists a 10200mAh battery with 45W charging, four JBL speakers with Dolby Atmos, USB-C with DisplayPort, Wi-Fi 7 and a 598 g weight; the Lenovo Tab Pen Plus and a folio case are in the box.",
+   "keywords": "idea tab pro gen 2 android tablet 13 inch snapdragon 8s gen 4 pen student",
+   "specs": {
+    "chip": "Qualcomm Snapdragon 8s Gen 4",
+    "storageGb": 128,
+    "ramGb": 8,
+    "displayIn": 13,
+    "display": "13\" 3.5K (3540x2190) LCD, 144Hz, 600 nits typical / 800 nits HBM, 99% DCI-P3",
+    "rearCamera": "13 MP autofocus",
+    "connectivity": "Wi-Fi 7, Bluetooth 6",
+    "os": "Android 16",
+    "weightG": 598,
+    "colors": "Cloud Grey"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-LENOVO-LEGION-PRO-32UD-10",
+   "slug": "lenovo-legion-pro-32ud-10",
+   "name": "Lenovo Legion Pro 32UD-10 32\" 4K OLED 240Hz Gaming Monitor",
+   "brand": "Lenovo",
+   "category": "gaming-monitors",
+   "price": "799.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    25,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "oled-displays",
+    "ultimate-gaming-setup"
+   ],
+   "summary": "31.5-inch 4K OLED gaming monitor with 240Hz, 0.03 ms response, 99% DCI-P3 and USB-C.",
+   "description": "The Legion Pro 32UD-10 is a 31.5-inch 4K (3840x2160) OLED gaming monitor with a 240Hz refresh rate and 0.03 ms (GtG) response time. Lenovo lists true 10-bit color with 99% DCI-P3, peak brightness of 1000 cd/m2 at 3% APL, factory calibration to Delta E < 2, two HDMI 2.1 inputs, DisplayPort 1.4, USB-C with DP Alt Mode and a height/tilt/swivel stand, with a 3-year warranty.",
+   "keywords": "legion pro 32ud-10 4k oled 240hz gaming monitor 32 inch",
+   "specs": {
+    "sizeIn": 31.5,
+    "resolution": "3840x2160",
+    "refreshHz": 240,
+    "panel": "OLED",
+    "hdr": "Peak 1000 cd/m2 (3% APL)",
+    "colorGamut": "99% DCI-P3, 99% sRGB, true 10-bit",
+    "inputs": "2x HDMI 2.1, DisplayPort 1.4, USB-C (DP 1.4 Alt Mode, 15W), 3x USB-A",
+    "usbCPowerW": 15,
+    "panelDetails": "0.03 ms GtG, 1,500,000:1 contrast, Delta E < 2 factory calibrated"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-LENOVO-LEGION-PRO-27UD-10",
+   "slug": "lenovo-legion-pro-27ud-10",
+   "name": "Lenovo Legion Pro 27UD-10 27\" 4K OLED 240Hz Gaming Monitor",
+   "brand": "Lenovo",
+   "category": "gaming-monitors",
+   "price": "699.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    46,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "oled-displays"
+   ],
+   "summary": "26.5-inch 4K QD-OLED (Penta Tandem) gaming monitor with 240Hz, 0.03 ms response and USB-C.",
+   "description": "The Legion Pro 27UD-10 uses a 26.5-inch 4K (3840x2160) QD-OLED Penta Tandem panel at 240Hz with 0.03 ms (GtG) response. Lenovo lists 99% DCI-P3 with true 10-bit color, peak brightness of 1000 cd/m2 at 3% APL, factory calibration to Delta E < 2, two HDMI 2.1, DisplayPort 1.4 and USB-C inputs, a pivot/height-adjustable stand and a 3-year warranty.",
+   "keywords": "legion pro 27ud-10 4k qd-oled 240hz gaming monitor 27 inch",
+   "specs": {
+    "sizeIn": 26.5,
+    "resolution": "3840x2160",
+    "refreshHz": 240,
+    "panel": "QD-OLED",
+    "hdr": "Peak 1000 cd/m2 (3% APL)",
+    "colorGamut": "99% DCI-P3, 99% sRGB, true 10-bit",
+    "inputs": "2x HDMI 2.1, DisplayPort 1.4, USB-C (DP 1.4 Alt Mode, 15W), 3x USB-A",
+    "usbCPowerW": 15,
+    "panelDetails": "0.03 ms GtG, 1,500,000:1 contrast, Delta E < 2 factory calibrated"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-LENOVO-LEGION-PRO-27Q-10",
+   "slug": "lenovo-legion-pro-27q-10",
+   "name": "Lenovo Legion Pro 27Q-10 27\" QHD OLED 280Hz Gaming Monitor",
+   "brand": "Lenovo",
+   "category": "gaming-monitors",
+   "price": "499.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    43,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "oled-displays"
+   ],
+   "summary": "26.5-inch QHD OLED esports monitor with a 280Hz refresh rate and 0.03 ms response.",
+   "description": "The Legion Pro 27Q-10 is a 26.5-inch QHD (2560x1440) OLED gaming monitor running at 280Hz with 0.03 ms (GtG) response. Lenovo lists 99% DCI-P3 with true 10-bit color, peak brightness of 1000 cd/m2 at 3% APL, factory calibration to Delta E < 2, two HDMI 2.1 and one DisplayPort 1.4 input, a USB hub and a pivot/height-adjustable stand, with a 3-year warranty.",
+   "keywords": "legion pro 27q-10 qhd oled 280hz esports gaming monitor",
+   "specs": {
+    "sizeIn": 26.5,
+    "resolution": "2560x1440",
+    "refreshHz": 280,
+    "panel": "OLED",
+    "hdr": "Peak 1000 cd/m2 (3% APL)",
+    "colorGamut": "99% DCI-P3, 99% sRGB, true 10-bit",
+    "inputs": "2x HDMI 2.1, DisplayPort 1.4, USB-B upstream, 3x USB-A",
+    "panelDetails": "0.03 ms GtG, 1,500,000:1 contrast, Delta E < 2 factory calibrated"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-LENOVO-LEGION-PRO-34WD-10",
+   "slug": "lenovo-legion-pro-34wd-10",
+   "name": "Lenovo Legion Pro 34WD-10 34\" Curved OLED 240Hz Gaming Monitor",
+   "brand": "Lenovo",
+   "category": "ultrawide-monitors",
+   "price": "859.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    44,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "oled-displays",
+    "ultimate-gaming-setup"
+   ],
+   "summary": "34-inch curved WQHD OLED ultrawide with 240Hz, USB-C docking, KVM and built-in speakers.",
+   "description": "The Legion Pro 34WD-10 is a 34-inch 21:9 curved OLED monitor at 3440x1440 and 240Hz with 0.03 ms (GtG) response and AMD FreeSync Premium Pro. Lenovo lists 98.5% DCI-P3 with true 10-bit color, 1300 cd/m2 peak at 1.5% APL, USB-C with DisplayPort Alt Mode, Ethernet, KVM, PiP/PbP, 2x 5W speakers and a 3-year warranty.",
+   "keywords": "legion pro 34wd-10 ultrawide curved oled 240hz usb-c kvm gaming monitor",
+   "specs": {
+    "sizeIn": 34,
+    "resolution": "3440x1440",
+    "refreshHz": 240,
+    "panel": "OLED",
+    "hdr": "Peak 1300 cd/m2 (1.5% APL)",
+    "colorGamut": "98.5% DCI-P3, 99% sRGB, true 10-bit",
+    "inputs": "2x HDMI 2.1, DisplayPort 1.4, USB-C (DP 1.4 Alt Mode), RJ45, USB-B, 3x USB-A, 2x USB-C",
+    "panelDetails": "0.03 ms GtG, FreeSync Premium Pro, KVM, PiP/PbP, 2x 5W speakers"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-LENOVO-YOGA-PRO-27UD-10",
+   "slug": "lenovo-yoga-pro-27ud-10",
+   "name": "Lenovo Yoga Pro 27UD-10 27\" 4K OLED Creator Monitor",
+   "brand": "Lenovo",
+   "category": "professional-monitors",
+   "price": "1279.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    34,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "oled-displays",
+    "creator-workstations"
+   ],
+   "summary": "26.5-inch 4K QD-OLED creator monitor with 120Hz, 96% Adobe RGB, a modular 4K webcam and a Thunderbolt-class USB4 cable.",
+   "description": "The Yoga Pro 27UD-10 is a 26.5-inch 4K (3840x2160) QD-OLED Penta Tandem monitor at 120Hz aimed at creators, with 99% DCI-P3, 96% Adobe RGB and factory calibration to average Delta E < 1 in sRGB and Adobe RGB. Lenovo lists a modular 4K webcam, four microphones, 4x 7W plus 2x 3W speakers with Dolby Atmos, HDMI 2.1, DisplayPort in/out, USB-C with DP Alt Mode, a USB hub with three USB-C and two USB-A ports, and a 3-year warranty.",
+   "keywords": "yoga pro 27ud-10 4k oled creator monitor webcam adobe rgb qd-oled",
+   "specs": {
+    "sizeIn": 26.5,
+    "resolution": "3840x2160",
+    "refreshHz": 120,
+    "panel": "QD-OLED",
+    "hdr": "Peak 1000 cd/m2 (3% APL)",
+    "colorGamut": "99% DCI-P3, 96% Adobe RGB, 99% sRGB, true 10-bit",
+    "inputs": "HDMI 2.1, DisplayPort 1.4, DisplayPort out, USB-C (DP 1.4 Alt Mode), 3x USB-C, 2x USB-A",
+    "panelDetails": "0.03 ms, Delta E < 1 (sRGB / Adobe RGB), modular 4K webcam, 4 mics, Dolby Atmos speakers"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-LENOVO-TV-P34WD-40",
+   "slug": "lenovo-thinkvision-p34wd-40",
+   "name": "Lenovo ThinkVision P34WD-40 34\" WQHD Curved USB-C Docking Monitor",
+   "brand": "Lenovo",
+   "category": "ultrawide-monitors",
+   "price": "549.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    38,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "developer-setup",
+    "small-business"
+   ],
+   "summary": "34-inch curved WQHD IPS docking monitor with 120Hz, USB-C 140W power delivery, 2.5GbE and KVM.",
+   "description": "The ThinkVision P34WD-40 is a 34-inch 21:9 curved IPS monitor at 3440x1440 with a 24-120Hz refresh range, 98% DCI-P3 and factory calibration to Delta E < 2. Its USB-C input supports DisplayPort Alt Mode and up to 140W power delivery, alongside HDMI 2.1, DisplayPort in/out for daisy-chaining, 2.5GbE Ethernet, five USB-A and two USB-C downstream ports, KVM and 2x 3W speakers, with a 3-year warranty.",
+   "keywords": "thinkvision p34wd-40 ultrawide usb-c docking monitor 140w kvm curved",
+   "specs": {
+    "sizeIn": 34,
+    "resolution": "3440x1440",
+    "refreshHz": 120,
+    "panel": "IPS",
+    "colorGamut": "98% DCI-P3, 99% sRGB, 10-bit (8+FRC)",
+    "inputs": "HDMI 2.1, DisplayPort 1.4, DP out, USB-C (DP Alt Mode, PD 140W), 2.5GbE RJ45, 5x USB-A, 2x USB-C",
+    "usbCPowerW": 140,
+    "panelDetails": "350 nits, 2000:1, 4 ms extreme mode, KVM, PiP/PbP, 2x 3W speakers"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-LENOVO-TV-P24QD-40",
+   "slug": "lenovo-thinkvision-p24qd-40",
+   "name": "Lenovo ThinkVision P24QD-40 24\" QHD 120Hz USB-C Monitor",
+   "brand": "Lenovo",
+   "category": "office-monitors",
+   "price": "427.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    54,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "developer-setup",
+    "small-business"
+   ],
+   "summary": "23.8-inch QHD IPS docking monitor with 120Hz, USB-C 140W power delivery, 2.5GbE and daisy-chain DP out.",
+   "description": "The ThinkVision P24QD-40 is a 23.8-inch QHD (2560x1440) IPS monitor with a 48-120Hz range, 99% sRGB and factory calibration to Delta E < 2. It adds a USB-C input with DisplayPort Alt Mode and 140W power delivery, HDMI 2.1, DisplayPort in/out, 2.5GbE Ethernet, a four-port USB-A hub, eKVM and a lift/tilt/pivot/swivel stand, with a 3-year warranty.",
+   "keywords": "thinkvision p24qd-40 qhd usb-c docking monitor 140w 2.5gbe",
+   "specs": {
+    "sizeIn": 23.8,
+    "resolution": "2560x1440",
+    "refreshHz": 120,
+    "panel": "IPS",
+    "colorGamut": "99% sRGB, 99% BT.709",
+    "inputs": "HDMI 2.1, DisplayPort 1.4, DP out, USB-C (DP Alt Mode, PD 140W), 2.5GbE RJ45, 4x USB-A, USB-C",
+    "usbCPowerW": 140,
+    "panelDetails": "300 nits, 1500:1, 4 ms extreme mode, KVM (eKVM)"
+   },
+   "options": []
+  }
+ ]
+}

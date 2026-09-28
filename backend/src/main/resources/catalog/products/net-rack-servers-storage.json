@@ -1444,6 +1444,294 @@
     "psu": "2 x hot-swap 750-2600 W, Platinum or Titanium"
    },
    "options": []
+  },
+  {
+   "sku": "TK-TRUENAS-MINIX",
+   "slug": "truenas-mini-x",
+   "name": "TrueNAS Mini X",
+   "brand": "TrueNAS",
+   "category": "nas",
+   "price": "1199.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    27,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "homelab-starter",
+    "homelab-essentials"
+   ],
+   "summary": "Compact 5+2-bay OpenZFS appliance with an Intel Atom C3558, 16 GB ECC DDR4, four 1GbE ports and IPMI.",
+   "description": "The TrueNAS Mini X from iXsystems is a quiet 5+2-bay OpenZFS appliance with five 3.5-inch hot-swap SATA bays and two 2.5-inch SSD bays. It runs a quad-core Intel Atom C3558 with 16 GB DDR4 ECC (upgradeable to 32 GB), four 1GbE ports plus a dedicated IPMI port, and supports RAIDZ1/Z2, mirrors, snapshots and encryption.",
+   "keywords": "truenas mini x ixsystems zfs nas ecc ipmi homelab",
+   "specs": {
+    "bays": 7,
+    "cpu": "Intel Atom C3558 (4 cores)",
+    "ramGb": 16,
+    "network": "4 x 1GbE RJ-45 + IPMI",
+    "interface": "5 x 3.5\" SATA + 2 x 2.5\" SATA SSD hot-swap",
+    "rackMountable": false
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-TOSHIBA-MG11-24TB",
+   "slug": "toshiba-mg11-24tb-enterprise-hdd",
+   "name": "Toshiba MG11 24 TB Enterprise Capacity Hard Drive",
+   "brand": "Toshiba",
+   "category": "hard-drives",
+   "price": "649.00",
+   "compareAt": null,
+   "warranty": 60,
+   "stock": [
+    12,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "enterprise-servers",
+    "high-end-storage"
+   ],
+   "summary": "24 TB 3.5-inch helium enterprise HDD with FC-MAMR, 10-disk design, 550 TB/year workload and SATA or SAS options.",
+   "description": "The MG11 series is the top of Toshiba's Enterprise Capacity MG line, reaching 24 TB with Flux Control-Microwave Assisted Magnetic Recording on a helium-sealed 10-disk CMR platform. It supports 24/7 operation at 550 TB/year, Persistent Write Cache, RV sensors, 512e/4Kn flexible formatting, SIE/SED options and a 5-year warranty.",
+   "keywords": "toshiba mg11 24tb enterprise hdd fc-mamr helium sata sas",
+   "specs": {
+    "capacityTb": 24,
+    "interface": "SATA 6 Gb/s or SAS 12 Gb/s",
+    "workloadTbYr": 550
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-TOSHIBA-N300-22TB",
+   "slug": "toshiba-n300-22tb-nas-hdd",
+   "name": "Toshiba N300 22 TB NAS Hard Drive",
+   "brand": "Toshiba",
+   "category": "hard-drives",
+   "price": "499.00",
+   "compareAt": null,
+   "warranty": 36,
+   "stock": [
+    16,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "homelab-essentials"
+   ],
+   "summary": "22 TB 3.5-inch 7200 RPM NAS drive with NASLink firmware, RV sensors and a 180 TB/year workload for 1-12 bay NAS.",
+   "description": "Toshiba's N300 is built for 24x7 home-office and small-business NAS in up to 12-bay systems. The line tops out at 22 TB, spins at 7200 RPM with a 512 MB or 1024 MB buffer, uses NASLink firmware, Dynamic Cache and Stable Platter technology, and is rated for 180 TB/year with a 3-year warranty.",
+   "keywords": "toshiba n300 22tb nas hdd 7200rpm naslink homelab",
+   "specs": {
+    "capacityTb": 22,
+    "interface": "SATA 6 Gb/s",
+    "rpm": 7200,
+    "workloadTbYr": 180,
+    "configurations": "22 TB · 20 TB · 18 TB · 16 TB · 12 TB · 8 TB · 4 TB"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-SOLIDIGM-PS1010-7T68",
+   "slug": "solidigm-d7-ps1010-7-68tb",
+   "name": "Solidigm D7-PS1010 7.68 TB PCIe 5.0 Data Center SSD",
+   "brand": "Solidigm",
+   "category": "enterprise-ssds",
+   "price": "1799.00",
+   "compareAt": null,
+   "warranty": 60,
+   "stock": [
+    32,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "enterprise-servers",
+    "high-end-storage"
+   ],
+   "summary": "PCIe 5.0 NVMe data center SSD with 176-layer TLC, up to 14,500 MB/s reads and 1 DWPD standard endurance.",
+   "description": "The D7-PS1010 is Solidigm's first PCIe 5.0 data center SSD, built on 176-layer TLC 3D NAND in 1.92 TB to 15.36 TB capacities in E3.S and U.2 (plus E1.S). Solidigm quotes up to 14,500 MB/s sequential reads, up to 10,000 MB/s writes and 3.1M random read IOPS, 1.0 DWPD over five years and a 2.5 million-hour MTBF.",
+   "keywords": "solidigm d7-ps1010 pcie gen5 nvme u.2 e3.s data center ssd",
+   "specs": {
+    "capacityTb": 7.68,
+    "interface": "PCIe 5.0 NVMe",
+    "formFactor": "U.2 15 mm (also E3.S, E1.S)",
+    "readMbps": 14500,
+    "dwpd": 1,
+    "configurations": "1.92 TB · 3.84 TB · 7.68 TB · 15.36 TB"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-SOLIDIGM-P5520-3T84",
+   "slug": "solidigm-d7-p5520-3-84tb",
+   "name": "Solidigm D7-P5520 3.84 TB PCIe 4.0 Data Center SSD",
+   "brand": "Solidigm",
+   "category": "enterprise-ssds",
+   "price": "699.00",
+   "compareAt": null,
+   "warranty": 60,
+   "stock": [
+    38,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "enterprise-servers",
+    "homelab-essentials"
+   ],
+   "summary": "PCIe 4.0 NVMe data center SSD with TLC 3D NAND, up to 7,100 MB/s reads and up to 1 DWPD.",
+   "description": "The D7-P5520 is Solidigm's performance-tuned PCIe 4.0 x4 (NVMe 1.4) TLC SSD for mixed and read-intensive cloud and enterprise workloads. It comes in U.2 15 mm (1.92 TB to 15.36 TB), E1.S and E1.L form factors, with sequential reads up to 7,100 MB/s, writes up to 4,200 MB/s and endurance up to 1 DWPD over five years.",
+   "keywords": "solidigm d7-p5520 pcie gen4 nvme u.2 data center ssd",
+   "specs": {
+    "capacityTb": 3.84,
+    "interface": "PCIe 4.0 x4 NVMe 1.4",
+    "formFactor": "U.2 15 mm (also E1.S, E1.L)",
+    "readMbps": 7100,
+    "dwpd": 1,
+    "configurations": "1.92 TB · 3.84 TB · 7.68 TB · 15.36 TB"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-SOLIDIGM-S4520-3T84",
+   "slug": "solidigm-d3-s4520-3-84tb",
+   "name": "Solidigm D3-S4520 3.84 TB SATA Data Center SSD",
+   "brand": "Solidigm",
+   "category": "enterprise-ssds",
+   "price": "649.00",
+   "compareAt": null,
+   "warranty": 60,
+   "stock": [
+    30,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "homelab-essentials",
+    "small-business"
+   ],
+   "summary": "2.5-inch SATA data center SSD with 144-layer TLC, up to 550/510 MB/s and more than 1 DWPD for HDD replacement.",
+   "description": "The D3-S4520 is a SATA III data center SSD built on 144-layer TLC 3D NAND for read-intensive and mixed workloads in existing SATA servers. It comes in 2.5-inch 7 mm capacities from 240 GB to 7.68 TB (and M.2 boot sizes), with up to 550/510 MB/s sequential reads/writes, up to 92K/48K random IOPS, more than 1 DWPD endurance and a 5-year warranty.",
+   "keywords": "solidigm d3-s4520 sata data center ssd 2.5 inch server boot",
+   "specs": {
+    "capacityTb": 3.84,
+    "interface": "SATA 6 Gb/s",
+    "formFactor": "2.5-inch 7 mm (M.2 80 mm for small sizes)",
+    "readMbps": 550,
+    "dwpd": 1,
+    "configurations": "480 GB · 960 GB · 1.92 TB · 3.84 TB · 7.68 TB"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-KIOXIA-CD9PR-7T68",
+   "slug": "kioxia-cd9p-r-7-68tb",
+   "name": "KIOXIA CD9P-R 7.68 TB PCIe 5.0 Data Center SSD",
+   "brand": "KIOXIA",
+   "category": "enterprise-ssds",
+   "price": "1699.00",
+   "compareAt": null,
+   "warranty": 60,
+   "stock": [
+    54,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "enterprise-servers"
+   ],
+   "summary": "Single-port PCIe 5.0 NVMe data center SSD with BiCS FLASH TLC, up to 14,800 MB/s reads and 1 DWPD.",
+   "description": "The CD9P-R is KIOXIA's read-intensive data center NVMe SSD for hyperscale and cloud servers, in the 2.5-inch 15 mm form factor with a PCIe 5.0 x4 interface and NVMe 2.0. Capacities run from 1.92 TB to 61.44 TB with sustained sequential reads up to 14,800 MB/s, power-loss protection, SIE/SED options, 1 DWPD and a 5-year warranty.",
+   "keywords": "kioxia cd9p cd9p-r pcie gen5 data center nvme ssd",
+   "specs": {
+    "capacityTb": 7.68,
+    "interface": "PCIe 5.0 x4 NVMe 2.0",
+    "formFactor": "2.5-inch 15 mm (also E3.S)",
+    "readMbps": 14800,
+    "dwpd": 1,
+    "configurations": "1.92 TB · 3.84 TB · 7.68 TB · 15.36 TB · 30.72 TB · 61.44 TB"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-MICRON-7600PRO-7T68",
+   "slug": "micron-7600-pro-7-68tb",
+   "name": "Micron 7600 PRO 7.68 TB PCIe Gen5 Data Center SSD",
+   "brand": "Micron",
+   "category": "enterprise-ssds",
+   "price": "1499.00",
+   "compareAt": null,
+   "warranty": 60,
+   "stock": [
+    46,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "enterprise-servers",
+    "homelab-essentials"
+   ],
+   "summary": "Mainstream PCIe Gen5 NVMe data center SSD on Micron G9 TLC NAND with up to 12,000 MB/s reads.",
+   "description": "The Micron 7600 is a mainstream PCIe Gen5 x4 (NVMe 2.0d) data center SSD and the first in its class built on Micron's 9th-generation TLC NAND. The read-intensive 7600 PRO comes in 1.92 TB to 30.72 TB, with sequential reads up to 12,000 MB/s, OCP 2.5 support, E1.S, E3.S 1T and U.2 form factors and a 5-year warranty; the 7600 MAX is the mixed-use version.",
+   "keywords": "micron 7600 pro pcie gen5 nvme u.2 e3.s data center ssd g9 nand",
+   "specs": {
+    "capacityTb": 7.68,
+    "interface": "PCIe Gen5 x4 NVMe 2.0d",
+    "formFactor": "U.2 15 mm (also E1.S, E3.S 1T)",
+    "readMbps": 12000,
+    "configurations": "1.92 TB · 3.84 TB · 7.68 TB · 15.36 TB · 30.72 TB"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-MICRON-5400PRO-3T84",
+   "slug": "micron-5400-pro-3-84tb",
+   "name": "Micron 5400 PRO 3.84 TB SATA Data Center SSD",
+   "brand": "Micron",
+   "category": "enterprise-ssds",
+   "price": "599.00",
+   "compareAt": null,
+   "warranty": 60,
+   "stock": [
+    22,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "homelab-essentials",
+    "small-business"
+   ],
+   "summary": "2.5-inch SATA data center SSD on 176-layer NAND, 240 GB to 7.68 TB, up to 1.5 DWPD (PRO) and a 5-year warranty.",
+   "description": "The Micron 5400 is Micron's 11th-generation data center SATA SSD and the first built on 176-layer NAND, offered in 2.5-inch 7 mm and M.2 22x80 form factors from 240 GB boot drives to 7.68 TB data drives. The read-intensive 5400 PRO offers up to 1.5 DWPD (the mixed-use 5400 MAX up to 5 DWPD), with AES-256 encryption, TCG Opal and a 5-year warranty.",
+   "keywords": "micron 5400 pro sata data center ssd 2.5 inch server hdd replacement",
+   "specs": {
+    "capacityTb": 3.84,
+    "interface": "SATA 6 Gb/s",
+    "formFactor": "2.5-inch 7 mm (also M.2 22x80)",
+    "configurations": "480 GB · 960 GB · 1.92 TB · 3.84 TB · 7.68 TB"
+   },
+   "options": []
   }
  ]
 }

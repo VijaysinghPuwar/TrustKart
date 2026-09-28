@@ -2185,6 +2185,42 @@
     "match": "EXACT",
     "credit": "Fluke Networks"
    }
+  },
+  {
+   "sku": "TK-SYSRACKS-SRW-12-600-G",
+   "slug": "sysracks-srw-12-600-g-12u-wall-cabinet",
+   "name": "Sysracks 12U 24 in Deep Wall-Mount Enclosure (SRW 12.600 G)",
+   "brand": "Sysracks",
+   "category": "racks-infrastructure",
+   "price": "262.50",
+   "priceBasis": "msrp",
+   "priceSource": "https://www.sysracks.com/product/12u-24-depth-24x24x245-wall-mount-19-enclosure-sysracks-srw-12-600-g/",
+   "priceAsOf": "2026-09-28",
+   "summary": "12U, 24-inch-deep grey wall-mount cabinet with glass door and removable locking side panels.",
+   "description": "The Sysracks SRW 12.600 G is a 12U, 24 x 24 in wall-mount 19-inch enclosure in grey with a glass front door, push lock, brush cable inlet and lockable, removable side and rear panels. Rails with U-marking adjust up to 20 in apart and included feet let it stand on the floor.",
+   "specs": {
+    "rackUnits": 12,
+    "rackType": "Enclosed wall-mount cabinet, 24 in deep",
+    "colors": "Grey (RAL 7035)"
+   },
+   "keywords": "sysracks 12u wall mount cabinet 24 inch deep glass door grey",
+   "collections": [
+    "small-business"
+   ],
+   "sources": {
+    "product": "https://www.sysracks.com/product/12u-24-depth-24x24x245-wall-mount-19-enclosure-sysracks-srw-12-600-g/",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://office.sysracks.com/storage/files/products/682/12u-wall-cabinet-main-view-gray-451x451.png",
+    "page": "https://www.sysracks.com/product/12u-24-depth-24x24x245-wall-mount-19-enclosure-sysracks-srw-12-600-g/",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official Sysracks product image from sysracks.com; reuse rights not verified.",
+    "alt": "Sysracks SRW 12.600 G 12U grey wall-mount network cabinet with glass door, front view",
+    "match": "EXACT",
+    "credit": "Sysracks",
+    "allowLowRes": true
+   }
   }
  ]
 }
