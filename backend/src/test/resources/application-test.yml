@@ -1,0 +1,6 @@
+trustkart:
+  demo:
+    seed-catalog: false
+logging:
+  level:
+    trustkart.access: WARN

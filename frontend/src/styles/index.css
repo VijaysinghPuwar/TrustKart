@@ -1,0 +1,172 @@
+@import '@fontsource-variable/inter';
+@import '@fontsource/jetbrains-mono/500.css';
+@import 'tailwindcss';
+
+/*
+ * TrustKart design tokens, extracted from the approved Claude Design (TrustKart Home + Design System).
+ * Components use the Tailwind utilities generated from @theme (bg-surface, text-ink-muted, rounded-card...),
+ * never raw hex values, so light and dark themes switch in one place.
+ */
+:root {
+  color-scheme: light;
+  --tk-bg: #f8fafc;
+  --tk-surface: #ffffff;
+  --tk-surface-2: #f1f5f9;
+  --tk-border: #e2e8f0;
+  --tk-border-strong: #cbd5e1;
+  --tk-ink: #0f172a;
+  --tk-ink-muted: #475569;
+  --tk-ink-subtle: #64748b;
+  --tk-primary: #1e5eff;
+  --tk-primary-hover: #1649cc;
+  --tk-primary-subtle: #e8efff;
+  --tk-on-primary: #ffffff;
+  --tk-trust: #0b7a55;
+  --tk-trust-subtle: #e6f6f0;
+  --tk-accent: #ff8a00;
+  --tk-accent-hover: #f07f00;
+  --tk-warning: #8a5a12;
+  --tk-warning-subtle: #fdf3e1;
+  --tk-danger: #d93025;
+  --tk-danger-hover: #b3261e;
+  --tk-danger-subtle: #fdecea;
+  --tk-shadow-color: 15 23 42;
+}
+
+:root[data-theme='dark'] {
+  color-scheme: dark;
+  --tk-bg: #0b1120;
+  --tk-surface: #111827;
+  --tk-surface-2: #1a2332;
+  --tk-border: #1f2937;
+  --tk-border-strong: #334155;
+  --tk-ink: #e2e8f0;
+  --tk-ink-muted: #94a3b8;
+  --tk-ink-subtle: #94a3b8;
+  --tk-primary: #5b8cff;
+  --tk-primary-hover: #7ca3ff;
+  --tk-primary-subtle: #16244a;
+  --tk-on-primary: #0b1120;
+  --tk-trust: #34c796;
+  --tk-trust-subtle: #0f2a22;
+  --tk-accent: #ffa53d;
+  --tk-accent-hover: #ffb463;
+  --tk-warning: #e0a84a;
+  --tk-warning-subtle: #2a2111;
+  --tk-danger: #ff6b61;
+  --tk-danger-hover: #ff8a82;
+  --tk-danger-subtle: #3a1614;
+  --tk-shadow-color: 0 0 0;
+}
+
+@theme inline {
+  --color-bg: var(--tk-bg);
+  --color-surface: var(--tk-surface);
+  --color-surface-2: var(--tk-surface-2);
+  --color-border: var(--tk-border);
+  --color-border-strong: var(--tk-border-strong);
+  --color-ink: var(--tk-ink);
+  --color-ink-muted: var(--tk-ink-muted);
+  --color-ink-subtle: var(--tk-ink-subtle);
+  --color-primary: var(--tk-primary);
+  --color-primary-hover: var(--tk-primary-hover);
+  --color-primary-subtle: var(--tk-primary-subtle);
+  --color-on-primary: var(--tk-on-primary);
+  --color-trust: var(--tk-trust);
+  --color-trust-subtle: var(--tk-trust-subtle);
+  --color-accent: var(--tk-accent);
+  --color-accent-hover: var(--tk-accent-hover);
+  --color-warning: var(--tk-warning);
+  --color-warning-subtle: var(--tk-warning-subtle);
+  --color-danger: var(--tk-danger);
+  --color-danger-hover: var(--tk-danger-hover);
+  --color-danger-subtle: var(--tk-danger-subtle);
+  /* The header is dark in both themes, as in the design. */
+  --color-header: #0f172a;
+  --color-header-2: #1e293b;
+  --color-header-ink-muted: #cbd5e1;
+  --color-on-accent: #0f172a;
+
+  --font-sans: 'Inter Variable', Inter, system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif;
+  --font-mono: 'JetBrains Mono', ui-monospace, monospace;
+
+  --radius-badge: 5px;
+  --radius-chip: 6px;
+  --radius-control: 8px;
+  --radius-button: 10px;
+  --radius-card: 12px;
+  --radius-tile: 14px;
+
+  --shadow-sm: 0 1px 2px rgb(var(--tk-shadow-color) / 0.06);
+  --shadow-md: 0 4px 12px rgb(var(--tk-shadow-color) / 0.08);
+  --shadow-lg: 0 12px 32px rgb(var(--tk-shadow-color) / 0.14);
+
+  --ease-tk: cubic-bezier(0.2, 0.8, 0.2, 1);
+
+  --breakpoint-search: 1100px;
+}
+
+@theme {
+  --container-page: 1440px;
+}
+
+@layer base {
+  html {
+    -webkit-text-size-adjust: 100%;
+  }
+  body {
+    @apply bg-bg font-sans text-ink antialiased;
+    min-height: 100dvh;
+  }
+  :focus-visible {
+    outline: 2px solid var(--tk-primary);
+    outline-offset: 2px;
+  }
+  /* On the dark header the primary ring is too faint, so it becomes white. */
+  .on-dark :focus-visible {
+    outline-color: #ffffff;
+  }
+  ::placeholder {
+    color: var(--tk-ink-subtle);
+    opacity: 1;
+  }
+  a {
+    color: var(--tk-primary);
+    text-underline-offset: 2px;
+  }
+  a:hover {
+    color: var(--tk-primary-hover);
+  }
+}
+
+@utility page-gutter {
+  padding-inline: clamp(12px, 3vw, 24px);
+}
+
+@utility page-width {
+  max-width: var(--container-page);
+  margin-inline: auto;
+  width: 100%;
+}
+
+@utility tabular {
+  font-variant-numeric: tabular-nums;
+}
+
+@utility no-scrollbar {
+  scrollbar-width: none;
+  &::-webkit-scrollbar {
+    display: none;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+}

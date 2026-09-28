@@ -1,0 +1,9 @@
+title = "TrustKart gitleaks config"
+
+[extend]
+useDefault = true
+
+[allowlist]
+description = "Documented placeholders, not secrets"
+regexes = ['''change-me-[a-z0-9-]+''']
+paths = ['''\.env\.example$''', '''frontend/package-lock\.json$''']
