@@ -38,10 +38,24 @@
      "values": [
       {
        "label": "Black",
-       "default": true
+       "default": true,
+       "image": {
+        "small": "/images/catalog/keychron-q1-ultra-8k--black-400.webp",
+        "large": "/images/catalog/keychron-q1-ultra-8k--black-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Keychron Q1 Ultra 8K wireless mechanical keyboard in Black, top view"
+       }
       },
       {
-       "label": "White"
+       "label": "White",
+       "image": {
+        "small": "/images/catalog/keychron-q1-ultra-8k--white-400.webp",
+        "large": "/images/catalog/keychron-q1-ultra-8k--white-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Keychron Q1 Ultra 8K wireless mechanical keyboard in White, top view"
+       }
       }
      ]
     }
@@ -84,10 +98,24 @@
      "values": [
       {
        "label": "Black",
-       "default": true
+       "default": true,
+       "image": {
+        "small": "/images/catalog/keychron-q1-he-8k--black-400.webp",
+        "large": "/images/catalog/keychron-q1-he-8k--black-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Keychron Q1 HE 8K magnetic switch keyboard in Black, top view"
+       }
       },
       {
-       "label": "White"
+       "label": "White",
+       "image": {
+        "small": "/images/catalog/keychron-q1-he-8k--white-400.webp",
+        "large": "/images/catalog/keychron-q1-he-8k--white-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Keychron Q1 HE 8K magnetic switch keyboard in White, top view"
+       }
       }
      ]
     }
@@ -131,10 +159,24 @@
      "values": [
       {
        "label": "Black",
-       "default": true
+       "default": true,
+       "image": {
+        "small": "/images/catalog/keychron-k3-ultra-8k--black-400.webp",
+        "large": "/images/catalog/keychron-k3-ultra-8k--black-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Keychron K3 Ultra 8K low-profile wireless keyboard in Black"
+       }
       },
       {
-       "label": "White"
+       "label": "White",
+       "image": {
+        "small": "/images/catalog/keychron-k3-ultra-8k--white-400.webp",
+        "large": "/images/catalog/keychron-k3-ultra-8k--white-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Keychron K3 Ultra 8K low-profile wireless keyboard in White"
+       }
       }
      ]
     }
@@ -167,7 +209,7 @@
     "sensorDpi": 30000,
     "weightG": 44,
     "configurations": "Frosted Gray – $84.99 · Black (Carbon Fiber) – $109.99",
-    "colors": "Frosted Gray, Black (Carbon Fiber)"
+    "colors": "Black (Carbon Fiber), Frosted Gray"
    },
    "options": [
     {
@@ -188,11 +230,25 @@
      "name": "Color",
      "values": [
       {
-       "label": "Frosted Gray",
-       "default": true
+       "label": "Black (Carbon Fiber)",
+       "default": true,
+       "image": {
+        "small": "/images/catalog/keychron-g3-ultra-light-wireless-mouse--black-carbon-fiber-400.webp",
+        "large": "/images/catalog/keychron-g3-ultra-light-wireless-mouse--black-carbon-fiber-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Keychron G3 ultra-light wireless mouse in Black (Carbon Fiber) with its 2.4 GHz receiver"
+       }
       },
       {
-       "label": "Black (Carbon Fiber)"
+       "label": "Frosted Gray",
+       "image": {
+        "small": "/images/catalog/keychron-g3-ultra-light-wireless-mouse--frosted-gray-400.webp",
+        "large": "/images/catalog/keychron-g3-ultra-light-wireless-mouse--frosted-gray-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Keychron G3 ultra-light wireless mouse in translucent Frosted Gray with its 2.4 GHz receiver"
+       }
       }
      ]
     }
@@ -231,10 +287,24 @@
      "values": [
       {
        "label": "Black",
-       "default": true
+       "default": true,
+       "image": {
+        "small": "/images/catalog/keychron-nape-pro-trackball--black-400.webp",
+        "large": "/images/catalog/keychron-nape-pro-trackball--black-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Keychron Nape Pro wireless trackball mouse in Black"
+       }
       },
       {
-       "label": "White"
+       "label": "White",
+       "image": {
+        "small": "/images/catalog/keychron-nape-pro-trackball--white-400.webp",
+        "large": "/images/catalog/keychron-nape-pro-trackball--white-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Keychron Nape Pro wireless trackball mouse in White"
+       }
       }
      ]
     }
@@ -303,10 +373,24 @@
      "values": [
       {
        "label": "White",
-       "default": true
+       "default": true,
+       "image": {
+        "small": "/images/catalog/glorious-model-o3-wireless--white-400.webp",
+        "large": "/images/catalog/glorious-model-o3-wireless--white-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Glorious Model O3 Wireless gaming mouse in White, three-quarter view"
+       }
       },
       {
-       "label": "Black"
+       "label": "Black",
+       "image": {
+        "small": "/images/catalog/glorious-model-o3-wireless--black-400.webp",
+        "large": "/images/catalog/glorious-model-o3-wireless--black-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Glorious Model O3 Wireless gaming mouse in Black, three-quarter view"
+       }
       }
      ]
     }
@@ -364,10 +448,24 @@
      "values": [
       {
        "label": "Black",
-       "default": true
+       "default": true,
+       "image": {
+        "small": "/images/catalog/glorious-gmmk-3-pro-he-wireless--black-400.webp",
+        "large": "/images/catalog/glorious-gmmk-3-pro-he-wireless--black-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Glorious GMMK 3 PRO HE prebuilt wireless keyboard in Black, top view"
+       }
       },
       {
-       "label": "Silver"
+       "label": "Silver",
+       "image": {
+        "small": "/images/catalog/glorious-gmmk-3-pro-he-wireless--silver-400.webp",
+        "large": "/images/catalog/glorious-gmmk-3-pro-he-wireless--silver-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Glorious GMMK 3 PRO HE prebuilt wireless keyboard in Silver, top view"
+       }
       }
      ]
     }
@@ -437,10 +535,24 @@
      "values": [
       {
        "label": "Light",
-       "default": true
+       "default": true,
+       "image": {
+        "small": "/images/catalog/satechi-sm3-slim-mechanical-keyboard--light-400.webp",
+        "large": "/images/catalog/satechi-sm3-slim-mechanical-keyboard--light-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Satechi SM3 Slim Mechanical Backlit Bluetooth Keyboard in Light, top view"
+       }
       },
       {
-       "label": "Dark"
+       "label": "Dark",
+       "image": {
+        "small": "/images/catalog/satechi-sm3-slim-mechanical-keyboard--dark-400.webp",
+        "large": "/images/catalog/satechi-sm3-slim-mechanical-keyboard--dark-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Satechi SM3 Slim Mechanical Backlit Bluetooth Keyboard in Dark, top view"
+       }
       }
      ]
     }
@@ -508,13 +620,34 @@
      "values": [
       {
        "label": "Graphite",
-       "default": true
+       "default": true,
+       "image": {
+        "small": "/images/catalog/logitech-mx-master-4--graphite-400.webp",
+        "large": "/images/catalog/logitech-mx-master-4--graphite-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Logitech MX Master 4 wireless mouse in Graphite, three-quarter view of the thumb side"
+       }
       },
       {
-       "label": "Pale Gray"
+       "label": "Pale Gray",
+       "image": {
+        "small": "/images/catalog/logitech-mx-master-4--pale-gray-400.webp",
+        "large": "/images/catalog/logitech-mx-master-4--pale-gray-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Logitech MX Master 4 wireless mouse in Pale Gray, three-quarter view of the thumb side"
+       }
       },
       {
-       "label": "Black"
+       "label": "Black",
+       "image": {
+        "small": "/images/catalog/logitech-mx-master-4--black-400.webp",
+        "large": "/images/catalog/logitech-mx-master-4--black-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Logitech MX Master 4 wireless mouse in Black, three-quarter view of the thumb side"
+       }
       }
      ]
     }
@@ -547,7 +680,7 @@
     "sensorDpi": 8000,
     "weightG": 99,
     "buttons": 6,
-    "colors": "Graphite, Pale Grey"
+    "colors": "Graphite, Pale Grey, Black, Rose"
    },
    "options": [
     {
@@ -555,10 +688,44 @@
      "values": [
       {
        "label": "Graphite",
-       "default": true
+       "default": true,
+       "image": {
+        "small": "/images/catalog/logitech-mx-anywhere-3s--graphite-400.webp",
+        "large": "/images/catalog/logitech-mx-anywhere-3s--graphite-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Logitech MX Anywhere 3S compact wireless mouse in Graphite, three-quarter rear view"
+       }
       },
       {
-       "label": "Pale Grey"
+       "label": "Pale Grey",
+       "image": {
+        "small": "/images/catalog/logitech-mx-anywhere-3s--pale-grey-400.webp",
+        "large": "/images/catalog/logitech-mx-anywhere-3s--pale-grey-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Logitech MX Anywhere 3S compact wireless mouse in Pale Grey, three-quarter rear view"
+       }
+      },
+      {
+       "label": "Black",
+       "image": {
+        "small": "/images/catalog/logitech-mx-anywhere-3s--black-400.webp",
+        "large": "/images/catalog/logitech-mx-anywhere-3s--black-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Logitech MX Anywhere 3S compact wireless mouse in Black, three-quarter rear view"
+       }
+      },
+      {
+       "label": "Rose",
+       "image": {
+        "small": "/images/catalog/logitech-mx-anywhere-3s--rose-400.webp",
+        "large": "/images/catalog/logitech-mx-anywhere-3s--rose-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Logitech MX Anywhere 3S compact wireless mouse in Rose, three-quarter rear view"
+       }
       }
      ]
     }
@@ -626,16 +793,44 @@
      "values": [
       {
        "label": "Off-white",
-       "default": true
+       "default": true,
+       "image": {
+        "small": "/images/catalog/logitech-lift-vertical-ergonomic-mouse--off-white-400.webp",
+        "large": "/images/catalog/logitech-lift-vertical-ergonomic-mouse--off-white-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Logitech Lift vertical ergonomic mouse in Off-white, top angle view"
+       }
       },
       {
-       "label": "Sand"
+       "label": "Sand",
+       "image": {
+        "small": "/images/catalog/logitech-lift-vertical-ergonomic-mouse--sand-400.webp",
+        "large": "/images/catalog/logitech-lift-vertical-ergonomic-mouse--sand-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Logitech Lift vertical ergonomic mouse in Sand, top angle view"
+       }
       },
       {
-       "label": "Rose"
+       "label": "Rose",
+       "image": {
+        "small": "/images/catalog/logitech-lift-vertical-ergonomic-mouse--rose-400.webp",
+        "large": "/images/catalog/logitech-lift-vertical-ergonomic-mouse--rose-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Logitech Lift vertical ergonomic mouse in Rose, top angle view"
+       }
       },
       {
-       "label": "Graphite"
+       "label": "Graphite",
+       "image": {
+        "small": "/images/catalog/logitech-lift-vertical-ergonomic-mouse--graphite-400.webp",
+        "large": "/images/catalog/logitech-lift-vertical-ergonomic-mouse--graphite-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Logitech Lift vertical ergonomic mouse in Graphite, top angle view"
+       }
       }
      ]
     }
@@ -705,10 +900,24 @@
      "values": [
       {
        "label": "Pale Grey",
-       "default": true
+       "default": true,
+       "image": {
+        "small": "/images/catalog/logitech-mx-creative-console--pale-grey-400.webp",
+        "large": "/images/catalog/logitech-mx-creative-console--pale-grey-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Logitech MX Creative Console keypad and dialpad in Pale Grey, three-quarter front view"
+       }
       },
       {
-       "label": "Graphite"
+       "label": "Graphite",
+       "image": {
+        "small": "/images/catalog/logitech-mx-creative-console--graphite-400.webp",
+        "large": "/images/catalog/logitech-mx-creative-console--graphite-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Logitech MX Creative Console keypad and dialpad in Graphite, three-quarter front view"
+       }
       }
      ]
     }
@@ -748,13 +957,34 @@
      "values": [
       {
        "label": "Pale Gray",
-       "default": true
+       "default": true,
+       "image": {
+        "small": "/images/catalog/logitech-mx-brio-4k--pale-gray-400.webp",
+        "large": "/images/catalog/logitech-mx-brio-4k--pale-gray-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Logitech MX Brio 4K webcam in Pale Gray, three-quarter front view"
+       }
       },
       {
-       "label": "Graphite"
+       "label": "Graphite",
+       "image": {
+        "small": "/images/catalog/logitech-mx-brio-4k--graphite-400.webp",
+        "large": "/images/catalog/logitech-mx-brio-4k--graphite-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Logitech MX Brio 4K webcam in Graphite, three-quarter front view"
+       }
       },
       {
-       "label": "Black"
+       "label": "Black",
+       "image": {
+        "small": "/images/catalog/logitech-mx-brio-4k--black-400.webp",
+        "large": "/images/catalog/logitech-mx-brio-4k--black-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Logitech MX Brio 4K webcam in Black, three-quarter front view"
+       }
       }
      ]
     }
@@ -823,10 +1053,24 @@
      "values": [
       {
        "label": "Magenta Eclipse",
-       "default": true
+       "default": true,
+       "image": {
+        "small": "/images/catalog/logitech-g-pro-x3-superstrike--magenta-eclipse-400.webp",
+        "large": "/images/catalog/logitech-g-pro-x3-superstrike--magenta-eclipse-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Logitech G PRO X3 SUPERSTRIKE wireless gaming mouse in Magenta Eclipse, top view"
+       }
       },
       {
-       "label": "Midnight Black"
+       "label": "Midnight Black",
+       "image": {
+        "small": "/images/catalog/logitech-g-pro-x3-superstrike--midnight-black-400.webp",
+        "large": "/images/catalog/logitech-g-pro-x3-superstrike--midnight-black-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Logitech G PRO X3 SUPERSTRIKE wireless gaming mouse in Midnight Black, top view"
+       }
       }
      ]
     }
@@ -867,13 +1111,34 @@
      "values": [
       {
        "label": "White",
-       "default": true
+       "default": true,
+       "image": {
+        "small": "/images/catalog/logitech-g-pro-x-superlight-2c--white-400.webp",
+        "large": "/images/catalog/logitech-g-pro-x-superlight-2c--white-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Logitech G PRO X SUPERLIGHT 2c wireless gaming mouse in White, three-quarter right view"
+       }
       },
       {
-       "label": "Black"
+       "label": "Black",
+       "image": {
+        "small": "/images/catalog/logitech-g-pro-x-superlight-2c--black-400.webp",
+        "large": "/images/catalog/logitech-g-pro-x-superlight-2c--black-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Logitech G PRO X SUPERLIGHT 2c wireless gaming mouse in Black, three-quarter right view"
+       }
       },
       {
-       "label": "Magenta"
+       "label": "Magenta",
+       "image": {
+        "small": "/images/catalog/logitech-g-pro-x-superlight-2c--magenta-400.webp",
+        "large": "/images/catalog/logitech-g-pro-x-superlight-2c--magenta-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Logitech G PRO X SUPERLIGHT 2c wireless gaming mouse in Magenta, three-quarter right view"
+       }
       }
      ]
     }
@@ -915,10 +1180,24 @@
      "values": [
       {
        "label": "Black",
-       "default": true
+       "default": true,
+       "image": {
+        "small": "/images/catalog/logitech-g-g915-x-lightspeed-tkl--black-400.webp",
+        "large": "/images/catalog/logitech-g-g915-x-lightspeed-tkl--black-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Logitech G G915 X LIGHTSPEED TKL wireless gaming keyboard in Black, angled view"
+       }
       },
       {
-       "label": "White"
+       "label": "White",
+       "image": {
+        "small": "/images/catalog/logitech-g-g915-x-lightspeed-tkl--white-400.webp",
+        "large": "/images/catalog/logitech-g-g915-x-lightspeed-tkl--white-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Logitech G G915 X LIGHTSPEED TKL wireless gaming keyboard in White, angled view"
+       }
       }
      ]
     }
@@ -959,13 +1238,34 @@
      "values": [
       {
        "label": "Black",
-       "default": true
+       "default": true,
+       "image": {
+        "small": "/images/catalog/logitech-g-pro-x2-rapid--black-400.webp",
+        "large": "/images/catalog/logitech-g-pro-x2-rapid--black-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Logitech G PRO X2 RAPID analog gaming keyboard in Black, front view"
+       }
       },
       {
-       "label": "White"
+       "label": "White",
+       "image": {
+        "small": "/images/catalog/logitech-g-pro-x2-rapid--white-400.webp",
+        "large": "/images/catalog/logitech-g-pro-x2-rapid--white-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Logitech G PRO X2 RAPID analog gaming keyboard in White, front view"
+       }
       },
       {
-       "label": "Magenta"
+       "label": "Magenta",
+       "image": {
+        "small": "/images/catalog/logitech-g-pro-x2-rapid--magenta-400.webp",
+        "large": "/images/catalog/logitech-g-pro-x2-rapid--magenta-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Logitech G PRO X2 RAPID analog gaming keyboard in Magenta, front view"
+       }
       }
      ]
     }
@@ -1005,13 +1305,34 @@
      "values": [
       {
        "label": "Black",
-       "default": true
+       "default": true,
+       "image": {
+        "small": "/images/catalog/logitech-g-pro-x3-lightspeed--black-400.webp",
+        "large": "/images/catalog/logitech-g-pro-x3-lightspeed--black-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Logitech G PRO X3 LIGHTSPEED wireless gaming headset in Black, three-quarter front view"
+       }
       },
       {
-       "label": "White"
+       "label": "White",
+       "image": {
+        "small": "/images/catalog/logitech-g-pro-x3-lightspeed--white-400.webp",
+        "large": "/images/catalog/logitech-g-pro-x3-lightspeed--white-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Logitech G PRO X3 LIGHTSPEED wireless gaming headset in White, three-quarter front view"
+       }
       },
       {
-       "label": "Magenta"
+       "label": "Magenta",
+       "image": {
+        "small": "/images/catalog/logitech-g-pro-x3-lightspeed--magenta-400.webp",
+        "large": "/images/catalog/logitech-g-pro-x3-lightspeed--magenta-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Logitech G PRO X3 LIGHTSPEED wireless gaming headset in Magenta, three-quarter front view"
+       }
       }
      ]
     }
@@ -1138,9 +1459,36 @@
     "connection": "2.4 GHz wireless, wired",
     "sensorDpi": 33000,
     "weightG": 36,
-    "colors": "Black"
+    "colors": "Black, White"
    },
-   "options": []
+   "options": [
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Black",
+       "default": true,
+       "image": {
+        "small": "/images/catalog/corsair-sabre-v2-pro-ultralight-wireless--black-400.webp",
+        "large": "/images/catalog/corsair-sabre-v2-pro-ultralight-wireless--black-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Corsair SABRE v2 PRO ULTRALIGHT wireless gaming mouse in Black, top view"
+       }
+      },
+      {
+       "label": "White",
+       "image": {
+        "small": "/images/catalog/corsair-sabre-v2-pro-ultralight-wireless--white-400.webp",
+        "large": "/images/catalog/corsair-sabre-v2-pro-ultralight-wireless--white-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Corsair SABRE v2 PRO ULTRALIGHT wireless gaming mouse in White, top view"
+       }
+      }
+     ]
+    }
+   ]
   },
   {
    "sku": "TK-CORSAIR-VIRTUOSO-MAX",
@@ -1169,9 +1517,36 @@
     "noiseCancelling": true,
     "batteryHours": 60,
     "boomMic": true,
-    "colors": "Carbon"
+    "colors": "Carbon, Silver"
    },
-   "options": []
+   "options": [
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Carbon",
+       "default": true,
+       "image": {
+        "small": "/images/catalog/corsair-virtuoso-max-wireless--carbon-400.webp",
+        "large": "/images/catalog/corsair-virtuoso-max-wireless--carbon-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Corsair VIRTUOSO MAX wireless headset in Carbon with detachable microphone, three-quarter view"
+       }
+      },
+      {
+       "label": "Silver",
+       "image": {
+        "small": "/images/catalog/corsair-virtuoso-max-wireless--silver-400.webp",
+        "large": "/images/catalog/corsair-virtuoso-max-wireless--silver-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Corsair VIRTUOSO MAX wireless headset in Silver with detachable microphone, three-quarter view"
+       }
+      }
+     ]
+    }
+   ]
   },
   {
    "sku": "TK-ELGATO-STREAM-DECK-PLUS-XL",
@@ -1235,10 +1610,24 @@
      "values": [
       {
        "label": "Black",
-       "default": true
+       "default": true,
+       "image": {
+        "small": "/images/catalog/elgato-stream-deck-plus--black-400.webp",
+        "large": "/images/catalog/elgato-stream-deck-plus--black-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Elgato Stream Deck + in Black with LCD keys, touch strip and dials"
+       }
       },
       {
-       "label": "White"
+       "label": "White",
+       "image": {
+        "small": "/images/catalog/elgato-stream-deck-plus--white-400.webp",
+        "large": "/images/catalog/elgato-stream-deck-plus--white-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Elgato Stream Deck + in White with LCD keys, touch strip and dials"
+       }
       }
      ]
     }
@@ -1364,16 +1753,44 @@
      "values": [
       {
        "label": "Black",
-       "default": true
+       "default": true,
+       "image": {
+        "small": "/images/catalog/elgato-facecam-4k--black-400.webp",
+        "large": "/images/catalog/elgato-facecam-4k--black-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Elgato Facecam 4K webcam with Black faceplate, three-quarter front view"
+       }
       },
       {
-       "label": "Carbon"
+       "label": "Carbon",
+       "image": {
+        "small": "/images/catalog/elgato-facecam-4k--carbon-400.webp",
+        "large": "/images/catalog/elgato-facecam-4k--carbon-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Elgato Facecam 4K webcam with Carbon faceplate, three-quarter front view"
+       }
       },
       {
-       "label": "Pine"
+       "label": "Pine",
+       "image": {
+        "small": "/images/catalog/elgato-facecam-4k--pine-400.webp",
+        "large": "/images/catalog/elgato-facecam-4k--pine-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Elgato Facecam 4K webcam with Pine faceplate, three-quarter front view"
+       }
       },
       {
-       "label": "White"
+       "label": "White",
+       "image": {
+        "small": "/images/catalog/elgato-facecam-4k--white-400.webp",
+        "large": "/images/catalog/elgato-facecam-4k--white-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Elgato Facecam 4K webcam with White faceplate, three-quarter front view"
+       }
       }
      ]
     }
@@ -1440,13 +1857,34 @@
      "values": [
       {
        "label": "Shadow",
-       "default": true
+       "default": true,
+       "image": {
+        "small": "/images/catalog/steelseries-aerox-3-wireless-gen-2--shadow-400.webp",
+        "large": "/images/catalog/steelseries-aerox-3-wireless-gen-2--shadow-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "SteelSeries Aerox 3 Wireless Gen 2 in Shadow with RGB lighting and USB-C dongle, angled view"
+       }
       },
       {
-       "label": "Ghost"
+       "label": "Ghost",
+       "image": {
+        "small": "/images/catalog/steelseries-aerox-3-wireless-gen-2--ghost-400.webp",
+        "large": "/images/catalog/steelseries-aerox-3-wireless-gen-2--ghost-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "SteelSeries Aerox 3 Wireless Gen 2 in Ghost (translucent white) with RGB lighting and USB-C dongle, angled view"
+       }
       },
       {
-       "label": "Magenta Haze"
+       "label": "Magenta Haze",
+       "image": {
+        "small": "/images/catalog/steelseries-aerox-3-wireless-gen-2--magenta-haze-400.webp",
+        "large": "/images/catalog/steelseries-aerox-3-wireless-gen-2--magenta-haze-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "SteelSeries Aerox 3 Wireless Gen 2 in Magenta Haze with RGB lighting and USB-C dongle, angled view"
+       }
       }
      ]
     }
@@ -1486,10 +1924,24 @@
      "values": [
       {
        "label": "Sage Gold",
-       "default": true
+       "default": true,
+       "image": {
+        "small": "/images/catalog/steelseries-arctis-nova-elite--sage-gold-400.webp",
+        "large": "/images/catalog/steelseries-arctis-nova-elite--sage-gold-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "SteelSeries Arctis Nova Elite wireless headset in Sage Gold with base station and dongle"
+       }
       },
       {
-       "label": "Black"
+       "label": "Black",
+       "image": {
+        "small": "/images/catalog/steelseries-arctis-nova-elite--black-400.webp",
+        "large": "/images/catalog/steelseries-arctis-nova-elite--black-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "SteelSeries Arctis Nova Elite wireless headset in Black with base station and dongle"
+       }
       }
      ]
     }
@@ -1529,13 +1981,34 @@
      "values": [
       {
        "label": "Black",
-       "default": true
+       "default": true,
+       "image": {
+        "small": "/images/catalog/steelseries-arctis-nova-pro-omni--black-400.webp",
+        "large": "/images/catalog/steelseries-arctis-nova-pro-omni--black-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "SteelSeries Arctis Nova Pro Omni wireless headset in Black, three-quarter view"
+       }
       },
       {
-       "label": "Midnight Blue"
+       "label": "Midnight Blue",
+       "image": {
+        "small": "/images/catalog/steelseries-arctis-nova-pro-omni--midnight-blue-400.webp",
+        "large": "/images/catalog/steelseries-arctis-nova-pro-omni--midnight-blue-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "SteelSeries Arctis Nova Pro Omni wireless headset in Midnight Blue, three-quarter view"
+       }
       },
       {
-       "label": "White"
+       "label": "White",
+       "image": {
+        "small": "/images/catalog/steelseries-arctis-nova-pro-omni--white-400.webp",
+        "large": "/images/catalog/steelseries-arctis-nova-pro-omni--white-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "SteelSeries Arctis Nova Pro Omni wireless headset in White, three-quarter view"
+       }
       }
      ]
     }

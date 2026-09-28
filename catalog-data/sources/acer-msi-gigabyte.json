@@ -1702,24 +1702,35 @@
     "specs": "https://www.gigabyte.com/us/Laptop/GIGABYTE-AERO-X16-EG64H/sp",
     "retrievedAt": "2026-09-28"
    },
-   "notes": "GIGABYTE does not sell direct in the US and publishes no MSRP on gigabyte.com; price is a TrustKart estimate based on comparable official-store pricing (MSI-US / Acer Store) on 2026-09-28.",
+   "notes": "GIGABYTE does not sell direct in the US and publishes no MSRP on gigabyte.com; price is a TrustKart estimate based on comparable official-store pricing (MSI-US / Acer Store) on 2026-09-28. Colour photos: only Space Gray has an official image on file; gigabyte.com returns HTTP 403 to non-browser requests, so no official Lunar White image could be fetched and Lunar White shows the default photo.",
    "image": {
     "url": "https://static.gigabyte.com/StaticFile/Image/Global/b59e2926cfa3ccda82cfab37eed7b2c2/Product/48742/png/2000",
     "page": "https://www.gigabyte.com/us/Laptop/GIGABYTE-AERO-X16-EG64H",
     "sourceType": "manufacturer-product-page",
     "rights": "Official GIGABYTE product image (product-page gallery image served by static.gigabyte.com); GIGABYTE has not granted a general reuse license — rights not verified.",
     "credit": "GIGABYTE",
-    "alt": "GIGABYTE AERO X16 creator laptop, open front view",
+    "alt": "GIGABYTE AERO X16 creator laptop in Space Gray, open front view",
     "match": "EXACT"
    },
    "colors": [
-    "Lunar White",
-    "Space Gray"
+    "Space Gray",
+    "Lunar White"
    ],
    "collections": [
     "creator-workstations"
    ],
-   "keywords": "aero x16 copilot+ creator laptop ryzen ai"
+   "keywords": "aero x16 copilot+ creator laptop ryzen ai",
+   "colorImages": {
+    "Space Gray": {
+     "url": "https://static.gigabyte.com/StaticFile/Image/Global/b59e2926cfa3ccda82cfab37eed7b2c2/Product/48742/png/2000",
+     "page": "https://www.gigabyte.com/us/Laptop/GIGABYTE-AERO-X16-EG64H",
+     "sourceType": "manufacturer-product-page",
+     "rights": "Official GIGABYTE product image (product-page gallery image served by static.gigabyte.com); GIGABYTE has not granted a general reuse license — rights not verified.",
+     "credit": "GIGABYTE",
+     "alt": "GIGABYTE AERO X16 creator laptop in Space Gray, open front view",
+     "match": "EXACT"
+    }
+   }
   },
   {
    "sku": "TK-GIGA-X870EXTRX3D",

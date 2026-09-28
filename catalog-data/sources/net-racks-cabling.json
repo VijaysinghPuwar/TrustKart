@@ -1320,13 +1320,33 @@
     "retrievedAt": "2026-09-28"
    },
    "image": {
-    "url": "https://www.cablematters.com/images/Product/large/1858.jpg",
+    "url": "https://www.cablematters.com/images/product/large/1858_1_black.webp",
     "page": "https://www.cablematters.com/pc-1858-160-slim-cat6a-ethernet-cable-with-bendable-boots-10gbps-550mhz-30-awg-bare-copper-utp-poe-support-bendable-boots-adjustable-up-to-90-degrees.aspx",
     "sourceType": "manufacturer-product-page",
     "rights": "Official Cable Matters product image from the cablematters.com product page; Cable Matters has not granted a general reuse license — rights not verified.",
-    "alt": "Cable Matters slim Cat6a Ethernet cable with bendable RJ45 boots, coiled",
+    "alt": "Cable Matters slim Cat6a Ethernet cable in Black with bendable RJ45 boots, connector close-up",
     "match": "EXACT",
     "credit": "Cable Matters"
+   },
+   "colorImages": {
+    "Black": {
+     "url": "https://www.cablematters.com/images/product/large/1858_1_black.webp",
+     "page": "https://www.cablematters.com/pc-1858-160-slim-cat6a-ethernet-cable-with-bendable-boots-10gbps-550mhz-30-awg-bare-copper-utp-poe-support-bendable-boots-adjustable-up-to-90-degrees.aspx",
+     "sourceType": "manufacturer-product-page",
+     "rights": "Official Cable Matters product image from the cablematters.com product page; Cable Matters has not granted a general reuse license — rights not verified.",
+     "alt": "Cable Matters slim Cat6a Ethernet cable in Black with bendable RJ45 boots, connector close-up",
+     "match": "EXACT",
+     "credit": "Cable Matters"
+    },
+    "White": {
+     "url": "https://www.cablematters.com/images/product/large/1858_1_white.webp",
+     "page": "https://www.cablematters.com/pc-1858-160-slim-cat6a-ethernet-cable-with-bendable-boots-10gbps-550mhz-30-awg-bare-copper-utp-poe-support-bendable-boots-adjustable-up-to-90-degrees.aspx",
+     "sourceType": "manufacturer-product-page",
+     "rights": "Official Cable Matters product image from the cablematters.com product page; Cable Matters has not granted a general reuse license — rights not verified.",
+     "alt": "Cable Matters slim Cat6a Ethernet cable in White with bendable RJ45 boots, connector close-up",
+     "match": "EXACT",
+     "credit": "Cable Matters"
+    }
    }
   },
   {
@@ -1354,6 +1374,7 @@
     "Green",
     "Orange",
     "Purple",
+    "Red",
     "White"
    ],
    "collections": [
@@ -1365,13 +1386,87 @@
     "retrievedAt": "2026-09-28"
    },
    "image": {
-    "url": "https://www.cablematters.com/images/Product/large/164.jpg",
+    "url": "https://www.cablematters.com/images/product/large/164_1_black.webp",
     "page": "https://www.cablematters.com/pc-164-159-ul-listed-in-wall-rated-cm-cat6-bulk-ethernet-cable-1000-feet.aspx",
     "sourceType": "manufacturer-product-page",
     "rights": "Official Cable Matters product image from the cablematters.com product page; Cable Matters has not granted a general reuse license — rights not verified.",
-    "alt": "Cable Matters 1000 ft Cat6 bulk Ethernet cable pull box",
+    "alt": "Cable Matters 1000 ft CM Cat6 bulk Ethernet cable in Black with pull box",
     "match": "EXACT",
     "credit": "Cable Matters"
+   },
+   "colorImages": {
+    "Black": {
+     "url": "https://www.cablematters.com/images/product/large/164_1_black.webp",
+     "page": "https://www.cablematters.com/pc-164-159-ul-listed-in-wall-rated-cm-cat6-bulk-ethernet-cable-1000-feet.aspx",
+     "sourceType": "manufacturer-product-page",
+     "rights": "Official Cable Matters product image from the cablematters.com product page; Cable Matters has not granted a general reuse license — rights not verified.",
+     "alt": "Cable Matters 1000 ft CM Cat6 bulk Ethernet cable in Black with pull box",
+     "match": "EXACT",
+     "credit": "Cable Matters"
+    },
+    "Blue": {
+     "url": "https://www.cablematters.com/images/product/large/164_1_blue.webp",
+     "page": "https://www.cablematters.com/pc-164-159-ul-listed-in-wall-rated-cm-cat6-bulk-ethernet-cable-1000-feet.aspx",
+     "sourceType": "manufacturer-product-page",
+     "rights": "Official Cable Matters product image from the cablematters.com product page; Cable Matters has not granted a general reuse license — rights not verified.",
+     "alt": "Cable Matters 1000 ft CM Cat6 bulk Ethernet cable in Blue with pull box",
+     "match": "EXACT",
+     "credit": "Cable Matters"
+    },
+    "Gray": {
+     "url": "https://www.cablematters.com/images/product/large/164_1_gray.webp",
+     "page": "https://www.cablematters.com/pc-164-159-ul-listed-in-wall-rated-cm-cat6-bulk-ethernet-cable-1000-feet.aspx",
+     "sourceType": "manufacturer-product-page",
+     "rights": "Official Cable Matters product image from the cablematters.com product page; Cable Matters has not granted a general reuse license — rights not verified.",
+     "alt": "Cable Matters 1000 ft CM Cat6 bulk Ethernet cable in Gray with pull box",
+     "match": "EXACT",
+     "credit": "Cable Matters"
+    },
+    "Green": {
+     "url": "https://www.cablematters.com/images/product/large/164_1_green.webp",
+     "page": "https://www.cablematters.com/pc-164-159-ul-listed-in-wall-rated-cm-cat6-bulk-ethernet-cable-1000-feet.aspx",
+     "sourceType": "manufacturer-product-page",
+     "rights": "Official Cable Matters product image from the cablematters.com product page; Cable Matters has not granted a general reuse license — rights not verified.",
+     "alt": "Cable Matters 1000 ft CM Cat6 bulk Ethernet cable in Green with pull box",
+     "match": "EXACT",
+     "credit": "Cable Matters"
+    },
+    "Orange": {
+     "url": "https://www.cablematters.com/images/product/large/164_1_orange.webp",
+     "page": "https://www.cablematters.com/pc-164-159-ul-listed-in-wall-rated-cm-cat6-bulk-ethernet-cable-1000-feet.aspx",
+     "sourceType": "manufacturer-product-page",
+     "rights": "Official Cable Matters product image from the cablematters.com product page; Cable Matters has not granted a general reuse license — rights not verified.",
+     "alt": "Cable Matters 1000 ft CM Cat6 bulk Ethernet cable in Orange with pull box",
+     "match": "EXACT",
+     "credit": "Cable Matters"
+    },
+    "Purple": {
+     "url": "https://www.cablematters.com/images/product/large/164_1_purple.webp",
+     "page": "https://www.cablematters.com/pc-164-159-ul-listed-in-wall-rated-cm-cat6-bulk-ethernet-cable-1000-feet.aspx",
+     "sourceType": "manufacturer-product-page",
+     "rights": "Official Cable Matters product image from the cablematters.com product page; Cable Matters has not granted a general reuse license — rights not verified.",
+     "alt": "Cable Matters 1000 ft CM Cat6 bulk Ethernet cable in Purple with pull box",
+     "match": "EXACT",
+     "credit": "Cable Matters"
+    },
+    "Red": {
+     "url": "https://www.cablematters.com/images/product/large/164_1_red.webp",
+     "page": "https://www.cablematters.com/pc-164-159-ul-listed-in-wall-rated-cm-cat6-bulk-ethernet-cable-1000-feet.aspx",
+     "sourceType": "manufacturer-product-page",
+     "rights": "Official Cable Matters product image from the cablematters.com product page; Cable Matters has not granted a general reuse license — rights not verified.",
+     "alt": "Cable Matters CM Cat6 bulk Ethernet cable in Red, stripped cable end with pull box",
+     "match": "EXACT",
+     "credit": "Cable Matters"
+    },
+    "White": {
+     "url": "https://www.cablematters.com/images/product/large/164_1_white.webp",
+     "page": "https://www.cablematters.com/pc-164-159-ul-listed-in-wall-rated-cm-cat6-bulk-ethernet-cable-1000-feet.aspx",
+     "sourceType": "manufacturer-product-page",
+     "rights": "Official Cable Matters product image from the cablematters.com product page; Cable Matters has not granted a general reuse license — rights not verified.",
+     "alt": "Cable Matters 1000 ft CM Cat6 bulk Ethernet cable in White with pull box",
+     "match": "EXACT",
+     "credit": "Cable Matters"
+    }
    }
   },
   {
@@ -1477,10 +1572,120 @@
     "url": "https://cdn.shopify.com/s/files/1/1196/6550/products/6AUJK-RW6_1000.jpg?v=1749058565",
     "page": "https://store.leviton.com/products/atlas-x1-cat-6a-utp-quickport-jack-6aujk",
     "sourceType": "manufacturer-product-page",
-    "rights": "Official Leviton product image from Leviton's own online store (store.leviton.com, Shopify CDN); Leviton has not granted a general reuse license — rights not verified.",
-    "alt": "Leviton Atlas-X1 6AUJK Cat 6A UTP QuickPort jack in white, angled view",
+    "rights": "Official Leviton store product image (store.leviton.com); Leviton has not granted a reuse license — rights not verified.",
+    "alt": "Leviton Atlas-X1 Cat 6A UTP QuickPort jack (6AUJK) in White",
     "match": "EXACT",
     "credit": "Leviton"
+   },
+   "colorImages": {
+    "White": {
+     "url": "https://cdn.shopify.com/s/files/1/1196/6550/products/6AUJK-RW6_1000.jpg?v=1749058565",
+     "page": "https://store.leviton.com/products/atlas-x1-cat-6a-utp-quickport-jack-6aujk",
+     "sourceType": "manufacturer-product-page",
+     "rights": "Official Leviton store product image (store.leviton.com); Leviton has not granted a reuse license — rights not verified.",
+     "alt": "Leviton Atlas-X1 Cat 6A UTP QuickPort jack (6AUJK) in White",
+     "match": "EXACT",
+     "credit": "Leviton"
+    },
+    "Black": {
+     "url": "https://cdn.shopify.com/s/files/1/1196/6550/products/6AUJK-RE6_1000.jpg?v=1749058566",
+     "page": "https://store.leviton.com/products/atlas-x1-cat-6a-utp-quickport-jack-6aujk",
+     "sourceType": "manufacturer-product-page",
+     "rights": "Official Leviton store product image (store.leviton.com); Leviton has not granted a reuse license — rights not verified.",
+     "alt": "Leviton Atlas-X1 Cat 6A UTP QuickPort jack (6AUJK) in Black",
+     "match": "EXACT",
+     "credit": "Leviton"
+    },
+    "Blue": {
+     "url": "https://cdn.shopify.com/s/files/1/1196/6550/products/6AUJK-RL6_1000.jpg?v=1749058565",
+     "page": "https://store.leviton.com/products/atlas-x1-cat-6a-utp-quickport-jack-6aujk",
+     "sourceType": "manufacturer-product-page",
+     "rights": "Official Leviton store product image (store.leviton.com); Leviton has not granted a reuse license — rights not verified.",
+     "alt": "Leviton Atlas-X1 Cat 6A UTP QuickPort jack (6AUJK) in Blue",
+     "match": "EXACT",
+     "credit": "Leviton"
+    },
+    "Gray": {
+     "url": "https://cdn.shopify.com/s/files/1/1196/6550/products/6AUJK-RG6_1000.jpg?v=1749058565",
+     "page": "https://store.leviton.com/products/atlas-x1-cat-6a-utp-quickport-jack-6aujk",
+     "sourceType": "manufacturer-product-page",
+     "rights": "Official Leviton store product image (store.leviton.com); Leviton has not granted a reuse license — rights not verified.",
+     "alt": "Leviton Atlas-X1 Cat 6A UTP QuickPort jack (6AUJK) in Gray",
+     "match": "EXACT",
+     "credit": "Leviton"
+    },
+    "Ivory": {
+     "url": "https://cdn.shopify.com/s/files/1/1196/6550/products/6AUJK-RI6_1000.jpg?v=1749058565",
+     "page": "https://store.leviton.com/products/atlas-x1-cat-6a-utp-quickport-jack-6aujk",
+     "sourceType": "manufacturer-product-page",
+     "rights": "Official Leviton store product image (store.leviton.com); Leviton has not granted a reuse license — rights not verified.",
+     "alt": "Leviton Atlas-X1 Cat 6A UTP QuickPort jack (6AUJK) in Ivory",
+     "match": "EXACT",
+     "credit": "Leviton"
+    },
+    "Orange": {
+     "url": "https://cdn.shopify.com/s/files/1/1196/6550/products/6AUJK-RO6_1000.jpg?v=1749058565",
+     "page": "https://store.leviton.com/products/atlas-x1-cat-6a-utp-quickport-jack-6aujk",
+     "sourceType": "manufacturer-product-page",
+     "rights": "Official Leviton store product image (store.leviton.com); Leviton has not granted a reuse license — rights not verified.",
+     "alt": "Leviton Atlas-X1 Cat 6A UTP QuickPort jack (6AUJK) in Orange",
+     "match": "EXACT",
+     "credit": "Leviton"
+    },
+    "Purple": {
+     "url": "https://cdn.shopify.com/s/files/1/1196/6550/products/6AUJK-RP6_1000.jpg?v=1749058565",
+     "page": "https://store.leviton.com/products/atlas-x1-cat-6a-utp-quickport-jack-6aujk",
+     "sourceType": "manufacturer-product-page",
+     "rights": "Official Leviton store product image (store.leviton.com); Leviton has not granted a reuse license — rights not verified.",
+     "alt": "Leviton Atlas-X1 Cat 6A UTP QuickPort jack (6AUJK) in Purple",
+     "match": "EXACT",
+     "credit": "Leviton"
+    },
+    "Green": {
+     "url": "https://cdn.shopify.com/s/files/1/1196/6550/products/6AUJK-RV6_1000.jpg?v=1749058565",
+     "page": "https://store.leviton.com/products/atlas-x1-cat-6a-utp-quickport-jack-6aujk",
+     "sourceType": "manufacturer-product-page",
+     "rights": "Official Leviton store product image (store.leviton.com); Leviton has not granted a reuse license — rights not verified.",
+     "alt": "Leviton Atlas-X1 Cat 6A UTP QuickPort jack (6AUJK) in Green",
+     "match": "EXACT",
+     "credit": "Leviton"
+    },
+    "Yellow": {
+     "url": "https://cdn.shopify.com/s/files/1/1196/6550/products/6AUJK-RY6_1000.jpg?v=1749058565",
+     "page": "https://store.leviton.com/products/atlas-x1-cat-6a-utp-quickport-jack-6aujk",
+     "sourceType": "manufacturer-product-page",
+     "rights": "Official Leviton store product image (store.leviton.com); Leviton has not granted a reuse license — rights not verified.",
+     "alt": "Leviton Atlas-X1 Cat 6A UTP QuickPort jack (6AUJK) in Yellow",
+     "match": "EXACT",
+     "credit": "Leviton"
+    },
+    "Crimson": {
+     "url": "https://cdn.shopify.com/s/files/1/1196/6550/products/6AUJK-RC6_1000.jpg?v=1749058566",
+     "page": "https://store.leviton.com/products/atlas-x1-cat-6a-utp-quickport-jack-6aujk",
+     "sourceType": "manufacturer-product-page",
+     "rights": "Official Leviton store product image (store.leviton.com); Leviton has not granted a reuse license — rights not verified.",
+     "alt": "Leviton Atlas-X1 Cat 6A UTP QuickPort jack (6AUJK) in Crimson",
+     "match": "EXACT",
+     "credit": "Leviton"
+    },
+    "Dark Red": {
+     "url": "https://cdn.shopify.com/s/files/1/1196/6550/products/6AUJK-RR6_1000.jpg?v=1749058565",
+     "page": "https://store.leviton.com/products/atlas-x1-cat-6a-utp-quickport-jack-6aujk",
+     "sourceType": "manufacturer-product-page",
+     "rights": "Official Leviton store product image (store.leviton.com); Leviton has not granted a reuse license — rights not verified.",
+     "alt": "Leviton Atlas-X1 Cat 6A UTP QuickPort jack (6AUJK) in Dark Red",
+     "match": "EXACT",
+     "credit": "Leviton"
+    },
+    "Brown": {
+     "url": "https://cdn.shopify.com/s/files/1/1196/6550/products/6AUJK-RB6_1000.jpg?v=1749058566",
+     "page": "https://store.leviton.com/products/atlas-x1-cat-6a-utp-quickport-jack-6aujk",
+     "sourceType": "manufacturer-product-page",
+     "rights": "Official Leviton store product image (store.leviton.com); Leviton has not granted a reuse license — rights not verified.",
+     "alt": "Leviton Atlas-X1 Cat 6A UTP QuickPort jack (6AUJK) in Brown",
+     "match": "EXACT",
+     "credit": "Leviton"
+    }
    }
   },
   {
@@ -1613,13 +1818,51 @@
     "retrievedAt": "2026-09-28"
    },
    "image": {
-    "url": "https://cdn.shopify.com/s/files/1/1196/6550/files/6AS10-xxL.jpg?v=1779205945",
+    "url": "https://cdn.shopify.com/s/files/1/1196/6550/files/6AS10-xxE.jpg?v=1779205887",
     "page": "https://store.leviton.com/products/atlas-x1-cat-6a-slimline-boot-patch-cord-6as10",
     "sourceType": "manufacturer-product-page",
-    "rights": "Official Leviton product image from Leviton's own online store (store.leviton.com, Shopify CDN); Leviton has not granted a general reuse license — rights not verified.",
-    "alt": "Leviton Atlas-X1 Cat 6A SlimLine patch cord in blue, coiled with RJ45 plugs",
+    "rights": "Official Leviton store product image (store.leviton.com); Leviton has not granted a reuse license — rights not verified.",
+    "alt": "Leviton Atlas-X1 Cat 6A SlimLine boot patch cord (6AS10) in Black",
     "match": "EXACT",
     "credit": "Leviton"
+   },
+   "colorImages": {
+    "Black": {
+     "url": "https://cdn.shopify.com/s/files/1/1196/6550/files/6AS10-xxE.jpg?v=1779205887",
+     "page": "https://store.leviton.com/products/atlas-x1-cat-6a-slimline-boot-patch-cord-6as10",
+     "sourceType": "manufacturer-product-page",
+     "rights": "Official Leviton store product image (store.leviton.com); Leviton has not granted a reuse license — rights not verified.",
+     "alt": "Leviton Atlas-X1 Cat 6A SlimLine boot patch cord (6AS10) in Black",
+     "match": "EXACT",
+     "credit": "Leviton"
+    },
+    "Blue": {
+     "url": "https://cdn.shopify.com/s/files/1/1196/6550/files/6AS10-xxL.jpg?v=1779205945",
+     "page": "https://store.leviton.com/products/atlas-x1-cat-6a-slimline-boot-patch-cord-6as10",
+     "sourceType": "manufacturer-product-page",
+     "rights": "Official Leviton store product image (store.leviton.com); Leviton has not granted a reuse license — rights not verified.",
+     "alt": "Leviton Atlas-X1 Cat 6A SlimLine boot patch cord (6AS10) in Blue",
+     "match": "EXACT",
+     "credit": "Leviton"
+    },
+    "Gray": {
+     "url": "https://cdn.shopify.com/s/files/1/1196/6550/files/6AS10-xxS.jpg?v=1779205979",
+     "page": "https://store.leviton.com/products/atlas-x1-cat-6a-slimline-boot-patch-cord-6as10",
+     "sourceType": "manufacturer-product-page",
+     "rights": "Official Leviton store product image (store.leviton.com); Leviton has not granted a reuse license — rights not verified.",
+     "alt": "Leviton Atlas-X1 Cat 6A SlimLine boot patch cord (6AS10) in Gray",
+     "match": "EXACT",
+     "credit": "Leviton"
+    },
+    "White": {
+     "url": "https://cdn.shopify.com/s/files/1/1196/6550/files/6AS10-xxW.jpg?v=1779206004",
+     "page": "https://store.leviton.com/products/atlas-x1-cat-6a-slimline-boot-patch-cord-6as10",
+     "sourceType": "manufacturer-product-page",
+     "rights": "Official Leviton store product image (store.leviton.com); Leviton has not granted a reuse license — rights not verified.",
+     "alt": "Leviton Atlas-X1 Cat 6A SlimLine boot patch cord (6AS10) in White",
+     "match": "EXACT",
+     "credit": "Leviton"
+    }
    }
   },
   {

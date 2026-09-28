@@ -8,6 +8,7 @@ import com.vijaysinghpuwar.trustkart.catalog.application.CatalogViews.FacetsDto;
 import com.vijaysinghpuwar.trustkart.catalog.application.CatalogViews.HomeDto;
 import com.vijaysinghpuwar.trustkart.catalog.application.CatalogViews.ImageCreditDto;
 import com.vijaysinghpuwar.trustkart.catalog.application.CatalogViews.OptionGroupDto;
+import com.vijaysinghpuwar.trustkart.catalog.application.CatalogViews.OptionImageDto;
 import com.vijaysinghpuwar.trustkart.catalog.application.CatalogViews.OptionValueDto;
 import com.vijaysinghpuwar.trustkart.catalog.application.CatalogViews.PriceRangeDto;
 import com.vijaysinghpuwar.trustkart.catalog.application.CatalogViews.ProductCardDto;
@@ -180,7 +181,9 @@ public class CatalogService {
 
         List<OptionGroupDto> options = product.getOptions().stream()
                 .map(g -> new OptionGroupDto(g.name(), g.values().stream()
-                        .map(v -> new OptionValueDto(v.label(), v.price() == null ? null : MoneyWire.format(v.price()), v.isDefault()))
+                        .map(v -> new OptionValueDto(v.label(), v.price() == null ? null : MoneyWire.format(v.price()), v.isDefault(),
+                                v.image() == null ? null : new OptionImageDto(v.image().small(), v.image().large(),
+                                        v.image().width(), v.image().height(), v.image().alt())))
                         .toList()))
                 .toList();
         return new ProductDetailDto(CatalogMapper.card(summary), product.getDescription(), product.getWarrantyMonths(),
@@ -192,7 +195,7 @@ public class CatalogService {
      * in display order, mapped to the chosen label (defaults filled in). {@code label} reads like "512 GB · Silver" and
      * is null for products without options, whose unit price is simply the product price.
      */
-    public record ResolvedOptions(Map<String, String> selection, String label, BigDecimal unitPrice) {}
+    public record ResolvedOptions(Map<String, String> selection, String label, BigDecimal unitPrice, String imageSmall) {}
 
     /** Resolves a shopper's option choice. Unknown groups or values are a 400 (VALIDATION_ERROR), never a guess. */
     public ResolvedOptions resolveOptions(long productId, Map<String, String> selection) {
@@ -219,6 +222,7 @@ public class CatalogService {
         }
         Map<String, String> canonical = new LinkedHashMap<>();
         BigDecimal price = product.getPrice();
+        String image = null; // the chosen value's own photo (e.g. a colour), if it has one
         for (ProductOptions.Group g : groups) {
             String wanted = selection.get(g.name());
             ProductOptions.Value chosen = wanted == null ? g.defaultValue() : g.find(wanted);
@@ -230,12 +234,15 @@ public class CatalogService {
             if (chosen.price() != null) {
                 price = chosen.price();
             }
+            if (chosen.image() != null && image == null) {
+                image = chosen.image().small();
+            }
         }
         if (!errors.isEmpty()) {
             throw new ValidationException(errors);
         }
         String label = canonical.isEmpty() ? null : String.join(" · ", canonical.values());
-        return new ResolvedOptions(Collections.unmodifiableMap(canonical), label, price.setScale(MoneyWire.SCALE));
+        return new ResolvedOptions(Collections.unmodifiableMap(canonical), label, price.setScale(MoneyWire.SCALE), image);
     }
 
     public FacetsDto facets(String categorySlug) {

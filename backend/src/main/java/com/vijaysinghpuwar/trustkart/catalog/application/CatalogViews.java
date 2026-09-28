@@ -57,7 +57,9 @@ public final class CatalogViews {
     public record OptionGroupDto(String name, List<OptionValueDto> values) {}
 
     @JsonInclude(JsonInclude.Include.NON_NULL)
-    public record OptionValueDto(String label, String price, @JsonProperty("default") boolean isDefault) {}
+    public record OptionValueDto(String label, String price, @JsonProperty("default") boolean isDefault, OptionImageDto image) {}
+
+    public record OptionImageDto(String small, String large, int width, int height, String alt) {}
 
     public record FacetOptionDto(String value, String label, long count) {}
 

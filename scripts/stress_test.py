@@ -171,12 +171,12 @@ def place(cl: Client, body: dict, key: str):
     return cl.call("POST", "/api/v1/purchases", body, {"Idempotency-Key": key})
 
 
-def phase_checkout(base: str, shoppers: int) -> list[tuple[Client, str]]:
+def phase_checkout(base: str, shoppers: int, db) -> list[tuple[Client, str]]:
     print(f"\n[3] checkout: {shoppers} guest shoppers in parallel")
-    c = Client(base, "10.203.0.1")
-    _, d, _ = c.call("GET", "/api/v1/catalog/products?page=0&size=48&sort=PRICE_ASC")
-    # Well-stocked items, so a sell-out doesn't masquerade as a failure (the oversell phase covers that).
-    cheap = [p for p in d["items"] if p["maxQuantity"] >= 2 and (p.get("stockLeft") is None)][:10]
+    # Cheap, deeply stocked products, so a sell-out doesn't masquerade as a failure (the oversell phase covers that).
+    cheap = [{"id": int(r[0])} for r in db(
+        "SELECT p.id FROM product p JOIN inventory i ON i.product_id = p.id WHERE p.status = 'ACTIVE' "
+        f"AND i.available - i.reserved >= {max(100, shoppers)} ORDER BY p.price LIMIT 10")]
     statuses: Counter = Counter()
     lat: list[float] = []
     orders: list[tuple[Client, str]] = []
@@ -362,7 +362,7 @@ def main() -> int:
     t0 = time.time()
     phase_browse(a.base, a.workers, a.seconds)
     phase_abuse(a.base)
-    orders = phase_checkout(a.base, a.shoppers)
+    orders = phase_checkout(a.base, a.shoppers, db)
     phase_oversell(a.base, db)
     phase_tracking(orders)
     phase_invariants(db)

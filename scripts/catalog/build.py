@@ -62,7 +62,7 @@ SOURCE_TYPES = {"manufacturer-press", "manufacturer-product-page", "manufacturer
 MATCHES = {"EXACT", "PRODUCT_LINE"}
 REQUIRED = {"sku", "slug", "name", "brand", "category", "price", "priceBasis", "summary", "description", "specs", "sources"}
 OPTIONAL = {"compareAt", "priceSource", "priceAsOf", "priceNote", "releaseYear", "keywords", "collections", "featured",
-            "warranty", "stock", "variants", "colors", "image", "notes"}
+            "warranty", "stock", "variants", "colors", "image", "notes", "colorImages"}
 IMAGE_FIELDS = {"url", "page", "sourceType", "rights", "alt", "match", "credit", "licenseUrl", "allowLowRes", "darkBackground"}
 CURL_UA = "curl/8.7.1"
 UA = "Mozilla/5.0 (Macintosh; Intel Mac OS X 14_0) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Safari/605.1.15"
@@ -508,33 +508,55 @@ def validate(sources: dict, index: dict, issues: Issues, demo_products: list[dic
             if img is None:
                 issues.warn(where, "no image (storefront shows fallback)")
             else:
-                bad = set(img) - IMAGE_FIELDS
-                if bad:
-                    issues.err(where, f"unknown image fields {sorted(bad)}")
-                for f in ("url", "page", "sourceType", "rights", "alt", "match"):
-                    if not img.get(f):
-                        issues.err(where, f"image.{f} required")
-                if img.get("sourceType") and img["sourceType"] not in SOURCE_TYPES:
-                    issues.err(where, f"image.sourceType must be one of {sorted(SOURCE_TYPES)}")
-                if img.get("match") and img["match"] not in MATCHES:
-                    issues.err(where, f"image.match must be one of {sorted(MATCHES)}")
-                alt = str(img.get("alt", ""))
-                if alt and (len(alt) < 15 or len(alt) > 300):
-                    issues.err(where, "image.alt must be 15-300 chars")
-                if img.get("page") and len(img["page"]) > 500:
-                    issues.err(where, "image.page longer than 500 chars")
-                u = img.get("url", "")
-                if u and not (u.startswith("https://") or u.startswith("local:")):
-                    issues.err(where, "image.url must be https:// or local:<path>")
-                if u in seen_image_url:
-                    issues.warn(where, f"image URL also used by {seen_image_url[u]}")
-                seen_image_url[u] = sku
-                if RETAILER_HOSTS.search(u) or RETAILER_HOSTS.search(str(img.get("page", ""))):
-                    issues.err(where, "retailer-hosted images are not allowed")
+                check_image(img, where, "image", sku, seen_image_url, issues)
+            color_images = p.get("colorImages")
+            if color_images is not None:
+                if not isinstance(color_images, dict):
+                    issues.err(where, "colorImages must be an object {color: image}")
+                else:
+                    colors = [c for c in (p.get("colors") or []) if isinstance(c, str)]
+                    for color, cimg in color_images.items():
+                        if color not in colors:
+                            issues.err(where, f"colorImages key {color!r} is not in colors")
+                        elif not isinstance(cimg, dict):
+                            issues.err(where, f"colorImages[{color!r}] must be an image object")
+                        else:
+                            check_image(cimg, where, f"colorImages[{color}]", sku, seen_image_url, issues)
 
             out.append({**p, "_specs": specs})
         normalized[name] = out
     return normalized
+
+
+def check_image(img: dict, where: str, label: str, sku: str, seen_image_url: dict, issues: Issues):
+    bad = set(img) - IMAGE_FIELDS
+    if bad:
+        issues.err(where, f"unknown {label} fields {sorted(bad)}")
+    for f in ("url", "page", "sourceType", "rights", "alt", "match"):
+        if not img.get(f):
+            issues.err(where, f"{label}.{f} required")
+    if img.get("sourceType") and img["sourceType"] not in SOURCE_TYPES:
+        issues.err(where, f"{label}.sourceType must be one of {sorted(SOURCE_TYPES)}")
+    if img.get("match") and img["match"] not in MATCHES:
+        issues.err(where, f"{label}.match must be one of {sorted(MATCHES)}")
+    alt = str(img.get("alt", ""))
+    if alt and (len(alt) < 15 or len(alt) > 300):
+        issues.err(where, f"{label}.alt must be 15-300 chars")
+    if img.get("page") and len(img["page"]) > 500:
+        issues.err(where, f"{label}.page longer than 500 chars")
+    u = img.get("url", "")
+    if u and not (u.startswith("https://") or u.startswith("local:")):
+        issues.err(where, f"{label}.url must be https:// or local:<path>")
+    if label == "image":
+        if u in seen_image_url:
+            issues.warn(where, f"image URL also used by {seen_image_url[u]}")
+        seen_image_url[u] = sku
+    if RETAILER_HOSTS.search(u) or RETAILER_HOSTS.search(str(img.get("page", ""))):
+        issues.err(where, "retailer-hosted images are not allowed")
+
+
+def color_slug(product_slug: str, color: str) -> str:
+    return product_slug + "--" + (slugify(color) or "color")
 
 
 RETAILER_HOSTS = re.compile(r"//([a-z0-9-]+\.)*(amazon|media-amazon|bestbuy|microcenter|ebay|ebayimg|newegg|walmart|"
@@ -679,6 +701,11 @@ def process_image(p: dict):
 
 def run_images(normalized: dict, issues: Issues, overrides: list[dict] = ()):
     items = [p for ps in normalized.values() for p in ps if p.get("image")] + list(overrides)
+    for ps in normalized.values():
+        for p in ps:
+            for color, cimg in (p.get("colorImages") or {}).items():
+                if isinstance(cimg, dict) and color in (p.get("colors") or []):
+                    items.append({"sku": f"{p['sku']} [{color}]", "slug": color_slug(p["slug"], color), "image": cimg})
     results = {}
     with concurrent.futures.ThreadPoolExecutor(max_workers=8) as pool:
         futs = {pool.submit(process_image, p): p for p in items}
@@ -730,7 +757,7 @@ def option_group_name(labels: list[str]) -> str:
     return "Configuration"
 
 
-def derive_options(p: dict) -> list[dict]:
+def derive_options(p: dict, image_meta: dict | None = None) -> list[dict]:
     """Selectable options from researched variants/colors. Only officially priced variants become choices; the
     default always costs exactly the listed price (a 'Configuration shown' choice is added when the specs describe
     a configuration that isn't one of the variants)."""
@@ -756,12 +783,22 @@ def derive_options(p: dict) -> list[dict]:
     colors = [c for c in (p.get("colors") or []) if isinstance(c, str) and c.strip()]
     colors = list(dict.fromkeys(colors))
     if len(colors) >= 2:
-        groups.append({"name": "Color", "values": [{"label": c, **({"default": True} if i == 0 else {})}
-                                                   for i, c in enumerate(colors)]})
+        values = []
+        for i, c in enumerate(colors):
+            v = {"label": c}
+            if i == 0:
+                v["default"] = True
+            cimg = (p.get("colorImages") or {}).get(c)
+            cslug = color_slug(p["slug"], c)
+            if cimg and image_meta is not None and cslug in image_meta:
+                v["image"] = {"small": f"/images/catalog/{cslug}-400.webp", "large": f"/images/catalog/{cslug}-800.webp",
+                              "width": CANVAS, "height": CANVAS, "alt": cimg["alt"]}
+            values.append(v)
+        groups.append({"name": "Color", "values": values})
     return groups
 
 
-def seed_record(p: dict) -> dict:
+def seed_record(p: dict, image_meta: dict | None = None) -> dict:
     return {
         "sku": p["sku"], "slug": p["slug"], "name": p["name"], "brand": p["brand"], "category": p["category"],
         "price": f"{float(p['price']):.2f}",
@@ -770,7 +807,7 @@ def seed_record(p: dict) -> dict:
         "backorder": False, "discontinued": False, "collections": p.get("collections") or [],
         "summary": p["summary"], "description": p["description"], "keywords": p.get("keywords", ""),
         "specs": p["_specs"],
-        "options": derive_options(p),
+        "options": derive_options(p, image_meta),
     }
 
 
@@ -804,7 +841,7 @@ def emit(normalized: dict, sources: dict, image_meta: dict, index: dict, issues:
     img_sources = []
     for name, ps in normalized.items():
         (OUT_PRODUCTS / f"{name}.json").write_text(
-            json.dumps({"products": [seed_record(p) for p in ps]}, indent=1, ensure_ascii=False) + "\n")
+            json.dumps({"products": [seed_record(p, image_meta) for p in ps]}, indent=1, ensure_ascii=False) + "\n")
         for p in ps:
             if p.get("image") and p["slug"] in image_meta:
                 images[p["slug"]] = image_record(p)
@@ -817,6 +854,18 @@ def emit(normalized: dict, sources: dict, image_meta: dict, index: dict, issues:
                     "retrievedAt": p["sources"].get("retrievedAt"), "rights": img["rights"],
                     "sourcePx": image_meta[p["slug"]].get("sourcePx"),
                 })
+    for ps in normalized.values():
+        for p in ps:
+            for color, cimg in (p.get("colorImages") or {}).items():
+                cslug = color_slug(p["slug"], color)
+                if cslug in image_meta:
+                    img_sources.append({
+                        "productId": p["sku"], "slug": cslug, "productName": f"{p['name']} ({color})", "brand": p["brand"],
+                        "sourcePage": cimg["page"], "assetUrl": cimg["url"],
+                        "localAsset": f"frontend/public/images/catalog/{cslug}-800.webp", "sourceType": cimg["sourceType"],
+                        "match": cimg["match"], "retrievedAt": p["sources"].get("retrievedAt"), "rights": cimg["rights"],
+                        "sourcePx": image_meta[cslug].get("sourcePx"), "color": color,
+                    })
     for o in overrides:
         if o["slug"] in image_meta:
             images[o["slug"]] = image_record(o)
@@ -838,6 +887,9 @@ def emit(normalized: dict, sources: dict, image_meta: dict, index: dict, issues:
 
     # Stale processed images (product removed or renamed) are deleted so the public folder mirrors the catalog.
     keep = {f"{s}-800.webp" for s in images} | {f"{s}-400.webp" for s in images}
+    color_slugs = [color_slug(p["slug"], c) for ps in normalized.values() for p in ps
+                   for c in (p.get("colorImages") or {}) if color_slug(p["slug"], c) in image_meta]
+    keep |= {f"{c}-800.webp" for c in color_slugs} | {f"{c}-400.webp" for c in color_slugs}
     # Never delete images belonging to source files left out of this build (e.g. still being researched).
     for f in SOURCES.glob("*.json"):
         if f.stem not in normalized:

@@ -174,9 +174,18 @@ export interface LoginEvent {
 export type CartIssue = 'OUT_OF_STOCK' | 'DISCONTINUED' | 'QUANTITY_EXCEEDS_STOCK' | 'OPTION_UNAVAILABLE'
 
 /** A product's configurable choices. At most one group carries prices (absolute unit prices). */
+/** Photo of one option choice, e.g. the product in that colour. */
+export interface OptionImage {
+  small: string
+  large: string
+  width: number
+  height: number
+  alt: string
+}
+
 export interface ProductOptionGroup {
   name: string
-  values: { label: string; price?: Money; default?: boolean }[]
+  values: { label: string; price?: Money; default?: boolean; image?: OptionImage }[]
 }
 
 /** Group name to chosen label, e.g. { Storage: '512 GB', Color: 'Silver' }. */
@@ -187,6 +196,8 @@ export interface CartLine {
   product: ProductCard
   options: OptionSelection
   optionsLabel?: string
+  /** The chosen configuration's own photo (e.g. the colour), when it has one. */
+  optionImage?: string
   quantity: number
   unitPrice: Money
   lineTotal: Money

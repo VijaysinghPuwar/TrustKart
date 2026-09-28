@@ -231,19 +231,54 @@
      "values": [
       {
        "label": "Black",
-       "default": true
+       "default": true,
+       "image": {
+        "small": "/images/catalog/framework-laptop-12-intel-core-series-3--black-400.webp",
+        "large": "/images/catalog/framework-laptop-12-intel-core-series-3--black-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Framework Laptop 12 in Black, standing in tent mode with the screen facing forward"
+       }
       },
       {
-       "label": "Gray"
+       "label": "Gray",
+       "image": {
+        "small": "/images/catalog/framework-laptop-12-intel-core-series-3--gray-400.webp",
+        "large": "/images/catalog/framework-laptop-12-intel-core-series-3--gray-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Framework Laptop 12 in Gray, standing in tent mode with the screen facing forward"
+       }
       },
       {
-       "label": "Lavender"
+       "label": "Lavender",
+       "image": {
+        "small": "/images/catalog/framework-laptop-12-intel-core-series-3--lavender-400.webp",
+        "large": "/images/catalog/framework-laptop-12-intel-core-series-3--lavender-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Framework Laptop 12 in Lavender, standing in tent mode with the screen facing forward"
+       }
       },
       {
-       "label": "Bubblegum"
+       "label": "Bubblegum",
+       "image": {
+        "small": "/images/catalog/framework-laptop-12-intel-core-series-3--bubblegum-400.webp",
+        "large": "/images/catalog/framework-laptop-12-intel-core-series-3--bubblegum-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Framework Laptop 12 in Bubblegum, standing in tent mode with the screen facing forward"
+       }
       },
       {
-       "label": "Sage"
+       "label": "Sage",
+       "image": {
+        "small": "/images/catalog/framework-laptop-12-intel-core-series-3--sage-400.webp",
+        "large": "/images/catalog/framework-laptop-12-intel-core-series-3--sage-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Framework Laptop 12 in Sage, standing in tent mode with the screen facing forward"
+       }
       }
      ]
     }
@@ -603,13 +638,34 @@
      "values": [
       {
        "label": "Black",
-       "default": true
+       "default": true,
+       "image": {
+        "small": "/images/catalog/razer-viper-v4-pro--black-400.webp",
+        "large": "/images/catalog/razer-viper-v4-pro--black-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Razer Viper V4 Pro in Black, official Razer product photo"
+       }
       },
       {
-       "label": "White"
+       "label": "White",
+       "image": {
+        "small": "/images/catalog/razer-viper-v4-pro--white-400.webp",
+        "large": "/images/catalog/razer-viper-v4-pro--white-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Razer Viper V4 Pro in White, official Razer product photo"
+       }
       },
       {
-       "label": "Esports Green"
+       "label": "Esports Green",
+       "image": {
+        "small": "/images/catalog/razer-viper-v4-pro--esports-green-400.webp",
+        "large": "/images/catalog/razer-viper-v4-pro--esports-green-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Razer Viper V4 Pro in Esports Green, official Razer product photo"
+       }
       }
      ]
     }
@@ -639,7 +695,7 @@
    "keywords": "razer deathadder v4 pro ergonomic wireless esports mouse 45k 8000hz",
    "specs": {
     "connection": "Razer HyperSpeed Wireless Gen-2, wired USB-C",
-    "colors": "Black, White",
+    "colors": "Black, White, Esports Green",
     "sensorDpi": 45000,
     "weightG": 56,
     "buttons": 6,
@@ -673,10 +729,34 @@
      "values": [
       {
        "label": "Black",
-       "default": true
+       "default": true,
+       "image": {
+        "small": "/images/catalog/razer-deathadder-v4-pro--black-400.webp",
+        "large": "/images/catalog/razer-deathadder-v4-pro--black-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Razer DeathAdder V4 Pro in Black, official Razer product photo"
+       }
       },
       {
-       "label": "White"
+       "label": "White",
+       "image": {
+        "small": "/images/catalog/razer-deathadder-v4-pro--white-400.webp",
+        "large": "/images/catalog/razer-deathadder-v4-pro--white-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Razer DeathAdder V4 Pro in White, official Razer product photo"
+       }
+      },
+      {
+       "label": "Esports Green",
+       "image": {
+        "small": "/images/catalog/razer-deathadder-v4-pro--esports-green-400.webp",
+        "large": "/images/catalog/razer-deathadder-v4-pro--esports-green-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Razer DeathAdder V4 Pro in Esports Green, official Razer product photo"
+       }
       }
      ]
     }
@@ -734,10 +814,24 @@
      "values": [
       {
        "label": "Black",
-       "default": true
+       "default": true,
+       "image": {
+        "small": "/images/catalog/razer-basilisk-v3-pro-35k--black-400.webp",
+        "large": "/images/catalog/razer-basilisk-v3-pro-35k--black-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Razer Basilisk V3 Pro 35K in Black, official Razer product photo"
+       }
       },
       {
-       "label": "White"
+       "label": "White",
+       "image": {
+        "small": "/images/catalog/razer-basilisk-v3-pro-35k--white-400.webp",
+        "large": "/images/catalog/razer-basilisk-v3-pro-35k--white-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Razer Basilisk V3 Pro 35K in White, official Razer product photo"
+       }
       }
      ]
     }
@@ -805,7 +899,14 @@
      "values": [
       {
        "label": "Black",
-       "default": true
+       "default": true,
+       "image": {
+        "small": "/images/catalog/razer-cobra-pro--black-400.webp",
+        "large": "/images/catalog/razer-cobra-pro--black-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Razer Cobra Pro in Black, official Razer product photo"
+       }
       },
       {
        "label": "White"
@@ -887,7 +988,7 @@
    "keywords": "razer huntsman v3 pro tkl 8khz analog optical rapid trigger esports keyboard",
    "specs": {
     "connection": "Wired (detachable USB-C)",
-    "colors": "Black, White",
+    "colors": "Black, White, Esports Green",
     "layout": "TKL",
     "switchType": "Razer Analog Optical Switch Gen-2",
     "configurations": "Black – $219.99 · White – $229.99 · Full size 8KHz (Black) – $249.99"
@@ -916,10 +1017,34 @@
      "values": [
       {
        "label": "Black",
-       "default": true
+       "default": true,
+       "image": {
+        "small": "/images/catalog/razer-huntsman-v3-pro-tenkeyless-8khz--black-400.webp",
+        "large": "/images/catalog/razer-huntsman-v3-pro-tenkeyless-8khz--black-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Razer Huntsman V3 Pro Tenkeyless 8KHz in Black, official Razer product photo"
+       }
       },
       {
-       "label": "White"
+       "label": "White",
+       "image": {
+        "small": "/images/catalog/razer-huntsman-v3-pro-tenkeyless-8khz--white-400.webp",
+        "large": "/images/catalog/razer-huntsman-v3-pro-tenkeyless-8khz--white-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Razer Huntsman V3 Pro Tenkeyless 8KHz in White, official Razer product photo"
+       }
+      },
+      {
+       "label": "Esports Green",
+       "image": {
+        "small": "/images/catalog/razer-huntsman-v3-pro-tenkeyless-8khz--esports-green-400.webp",
+        "large": "/images/catalog/razer-huntsman-v3-pro-tenkeyless-8khz--esports-green-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Razer Huntsman V3 Pro Tenkeyless 8KHz in Esports Green, official Razer product photo"
+       }
       }
      ]
     }
@@ -1025,10 +1150,24 @@
      "values": [
       {
        "label": "Black",
-       "default": true
+       "default": true,
+       "image": {
+        "small": "/images/catalog/razer-blackwidow-v4-pro--black-400.webp",
+        "large": "/images/catalog/razer-blackwidow-v4-pro--black-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Razer BlackWidow V4 Pro in Black, official Razer product photo"
+       }
       },
       {
-       "label": "White"
+       "label": "White",
+       "image": {
+        "small": "/images/catalog/razer-blackwidow-v4-pro--white-400.webp",
+        "large": "/images/catalog/razer-blackwidow-v4-pro--white-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Razer BlackWidow V4 Pro in White, official Razer product photo"
+       }
       }
      ]
     }
@@ -1121,7 +1260,14 @@
        "default": true
       },
       {
-       "label": "White"
+       "label": "White",
+       "image": {
+        "small": "/images/catalog/razer-blackshark-v3--white-400.webp",
+        "large": "/images/catalog/razer-blackshark-v3--white-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Razer BlackShark V3 for Xbox wireless headset in white, side view with boom mic"
+       }
       }
      ]
     }
@@ -1212,7 +1358,7 @@
     "connectivity": "HyperSpeed Wireless dongle, wired USB-C",
     "battery": "About 20 hours",
     "weightG": 304,
-    "colors": "Black, White",
+    "colors": "Black, White, Esports Green",
     "compatibility": "Xbox Series X|S, PC",
     "configurations": "Black – $199.99 · White – $199.99 · Esports Green Edition – $209.99"
    },
@@ -1240,10 +1386,34 @@
      "values": [
       {
        "label": "Black",
-       "default": true
+       "default": true,
+       "image": {
+        "small": "/images/catalog/razer-wolverine-v3-pro--black-400.webp",
+        "large": "/images/catalog/razer-wolverine-v3-pro--black-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Razer Wolverine V3 Pro in Black, official Razer product photo"
+       }
       },
       {
-       "label": "White"
+       "label": "White",
+       "image": {
+        "small": "/images/catalog/razer-wolverine-v3-pro--white-400.webp",
+        "large": "/images/catalog/razer-wolverine-v3-pro--white-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Razer Wolverine V3 Pro in White, official Razer product photo"
+       }
+      },
+      {
+       "label": "Esports Green",
+       "image": {
+        "small": "/images/catalog/razer-wolverine-v3-pro--esports-green-400.webp",
+        "large": "/images/catalog/razer-wolverine-v3-pro--esports-green-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Razer Wolverine V3 Pro in Esports Green, official Razer product photo"
+       }
       }
      ]
     }
@@ -1417,13 +1587,34 @@
      "values": [
       {
        "label": "Black",
-       "default": true
+       "default": true,
+       "image": {
+        "small": "/images/catalog/razer-kiyo-v2--black-400.webp",
+        "large": "/images/catalog/razer-kiyo-v2--black-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Razer Kiyo V2 in Black, official Razer product photo"
+       }
       },
       {
-       "label": "White"
+       "label": "White",
+       "image": {
+        "small": "/images/catalog/razer-kiyo-v2--white-400.webp",
+        "large": "/images/catalog/razer-kiyo-v2--white-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Razer Kiyo V2 in White, official Razer product photo"
+       }
       },
       {
-       "label": "Quartz"
+       "label": "Quartz",
+       "image": {
+        "small": "/images/catalog/razer-kiyo-v2--quartz-400.webp",
+        "large": "/images/catalog/razer-kiyo-v2--quartz-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Razer Kiyo V2 in Quartz, official Razer product photo"
+       }
       }
      ]
     }
@@ -1477,10 +1668,24 @@
      "values": [
       {
        "label": "Black",
-       "default": true
+       "default": true,
+       "image": {
+        "small": "/images/catalog/razer-thunderbolt-5-dock-chroma--black-400.webp",
+        "large": "/images/catalog/razer-thunderbolt-5-dock-chroma--black-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Razer Thunderbolt 5 Dock Chroma in Black, official Razer product photo"
+       }
       },
       {
-       "label": "Mercury"
+       "label": "Mercury",
+       "image": {
+        "small": "/images/catalog/razer-thunderbolt-5-dock-chroma--mercury-400.webp",
+        "large": "/images/catalog/razer-thunderbolt-5-dock-chroma--mercury-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Razer Thunderbolt 5 Dock Chroma in Mercury, official Razer product photo"
+       }
       }
      ]
     }

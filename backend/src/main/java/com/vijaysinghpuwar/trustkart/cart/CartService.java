@@ -50,16 +50,18 @@ public class CartService {
             String issue = issue(p, item.getQuantity());
             BigDecimal unit = p.price();
             String label = null;
+            String image = null;
             var resolved = catalog.resolveOptionsIfValid(p.id(), item.getOptions());
             if (resolved.isPresent()) {
                 unit = resolved.get().unitPrice();
                 label = resolved.get().label();
+                image = resolved.get().imageSmall();
             } else {
                 // The configuration was retired after it was added; the shopper must pick again.
                 issue = "OPTION_UNAVAILABLE";
             }
             BigDecimal line = unit.multiply(BigDecimal.valueOf(item.getQuantity()));
-            CartView.Line view = new CartView.Line(item.getId(), CatalogMapper.card(p), item.getOptions(), label,
+            CartView.Line view = new CartView.Line(item.getId(), CatalogMapper.card(p), item.getOptions(), label, image,
                     item.getQuantity(), MoneyWire.format(unit), MoneyWire.format(line), issue);
             if (item.isSavedForLater()) {
                 saved.add(view);

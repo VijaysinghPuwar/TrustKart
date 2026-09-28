@@ -1358,18 +1358,25 @@
     "weightKg": 1.9,
     "os": "Windows 11",
     "wireless": "Wi-Fi 6E, Bluetooth 5.3",
-    "colors": "Lunar White, Space Gray"
+    "colors": "Space Gray, Lunar White"
    },
    "options": [
     {
      "name": "Color",
      "values": [
       {
-       "label": "Lunar White",
-       "default": true
+       "label": "Space Gray",
+       "default": true,
+       "image": {
+        "small": "/images/catalog/gigabyte-aero-x16-eg64h--space-gray-400.webp",
+        "large": "/images/catalog/gigabyte-aero-x16-eg64h--space-gray-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "GIGABYTE AERO X16 creator laptop in Space Gray, open front view"
+       }
       },
       {
-       "label": "Space Gray"
+       "label": "Lunar White"
       }
      ]
     }

@@ -61,11 +61,11 @@
       ],
       "featured": true,
       "image": {
-        "url": "https://images.samsung.com/is/image/samsung/p6pim/us/s2602/gallery/us-galaxy-s26-ultra-s948-sm-s948uzvexaa-550994083?$2052_1641_PNG$",
+        "url": "https://images.samsung.com/is/image/samsung/p6pim/us/s2602/gallery/us-galaxy-s26-ultra-s948-sm-s948uzvaxaa-550993934?$2052_1641_PNG$",
         "page": "https://www.samsung.com/us/smartphones/galaxy-s26-ultra/buy/",
         "sourceType": "manufacturer-product-page",
         "rights": "Official Samsung US store product gallery image (images.samsung.com); Samsung has not granted a reuse license — rights not verified.",
-        "alt": "Samsung Galaxy S26 Ultra in Cobalt Violet, back and front view with triple-ring camera array and S Pen",
+        "alt": "Samsung Galaxy S26 Ultra in Cobalt Violet, official Samsung product photo",
         "match": "EXACT",
         "credit": "Samsung"
       },
@@ -73,6 +73,62 @@
         "product": "https://www.samsung.com/us/smartphones/galaxy-s26-ultra/",
         "specs": "https://news.samsung.com/global/samsung-unveils-galaxy-s26-series-the-most-intuitive-galaxy-ai-phone-yet",
         "retrievedAt": "2026-09-28"
+      },
+      "colorImages": {
+        "Cobalt Violet": {
+          "url": "https://images.samsung.com/is/image/samsung/p6pim/us/s2602/gallery/us-galaxy-s26-ultra-s948-sm-s948uzvaxaa-550993934?$2052_1641_PNG$",
+          "page": "https://www.samsung.com/us/smartphones/galaxy-s26-ultra/buy/",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Samsung US store product gallery image (images.samsung.com); Samsung has not granted a reuse license — rights not verified.",
+          "alt": "Samsung Galaxy S26 Ultra in Cobalt Violet, official Samsung product photo",
+          "match": "EXACT",
+          "credit": "Samsung"
+        },
+        "Black": {
+          "url": "https://images.samsung.com/is/image/samsung/p6pim/us/s2602/gallery/us-galaxy-s26-ultra-s948-sm-s948uzkaxaa-550993359?$2052_1641_PNG$",
+          "page": "https://www.samsung.com/us/smartphones/galaxy-s26-ultra/buy/",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Samsung US store product gallery image (images.samsung.com); Samsung has not granted a reuse license — rights not verified.",
+          "alt": "Samsung Galaxy S26 Ultra in Black, official Samsung product photo",
+          "match": "EXACT",
+          "credit": "Samsung"
+        },
+        "White": {
+          "url": "https://images.samsung.com/is/image/samsung/p6pim/us/s2602/gallery/us-galaxy-s26-ultra-s948-sm-s948uzwaxaa-550994268?$2052_1641_PNG$",
+          "page": "https://www.samsung.com/us/smartphones/galaxy-s26-ultra/buy/",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Samsung US store product gallery image (images.samsung.com); Samsung has not granted a reuse license — rights not verified.",
+          "alt": "Samsung Galaxy S26 Ultra in White, official Samsung product photo",
+          "match": "EXACT",
+          "credit": "Samsung"
+        },
+        "Sky Blue": {
+          "url": "https://images.samsung.com/is/image/samsung/p6pim/us/s2602/gallery/us-galaxy-s26-ultra-s948-sm-s948ulbaxaa-550992914?$2052_1641_PNG$",
+          "page": "https://www.samsung.com/us/smartphones/galaxy-s26-ultra/buy/",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Samsung US store product gallery image (images.samsung.com); Samsung has not granted a reuse license — rights not verified.",
+          "alt": "Samsung Galaxy S26 Ultra in Sky Blue, official Samsung product photo",
+          "match": "EXACT",
+          "credit": "Samsung"
+        },
+        "Pink Gold": {
+          "url": "https://images.samsung.com/is/image/samsung/p6pim/us/s2602/gallery/us-galaxy-s26-ultra-s948-sm-s948uzdaxaa-550993174?$2052_1641_PNG$",
+          "page": "https://www.samsung.com/us/smartphones/galaxy-s26-ultra/buy/",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Samsung US store product gallery image (images.samsung.com); Samsung has not granted a reuse license — rights not verified.",
+          "alt": "Samsung Galaxy S26 Ultra in Pink Gold, official Samsung product photo",
+          "match": "EXACT",
+          "credit": "Samsung"
+        },
+        "Silver Shadow": {
+          "url": "https://images.samsung.com/is/image/samsung/p6pim/us/s2602/gallery/us-galaxy-s26-ultra-s948-sm-s948uzsaxaa-550993729?$2052_1641_PNG$",
+          "page": "https://www.samsung.com/us/smartphones/galaxy-s26-ultra/buy/",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Samsung US store product gallery image (images.samsung.com); Samsung has not granted a reuse license — rights not verified.",
+          "alt": "Samsung Galaxy S26 Ultra in Silver Shadow, official Samsung product photo",
+          "match": "EXACT",
+          "credit": "Samsung"
+        }
       }
     },
     {
@@ -129,10 +185,10 @@
       ],
       "image": {
         "url": "https://images.samsung.com/is/image/samsung/p6pim/us/s2602/gallery/us-galaxy-s26-s947-sm-s947uzvaxaa-550994937?$2052_1641_PNG$",
-        "page": "https://www.samsung.com/us/smartphones/galaxy-s26-plus/buy/galaxy-s26-plus-256gb-unlocked-sku-sm-s947uzvaxaa",
+        "page": "https://www.samsung.com/us/smartphones/galaxy-s26-plus/buy/",
         "sourceType": "manufacturer-product-page",
         "rights": "Official Samsung US store product gallery image (images.samsung.com); Samsung has not granted a reuse license — rights not verified.",
-        "alt": "Samsung Galaxy S26+ in Cobalt Violet, back and front view with vertical triple camera",
+        "alt": "Samsung Galaxy S26+ in Cobalt Violet, official Samsung product photo",
         "match": "EXACT",
         "credit": "Samsung"
       },
@@ -140,6 +196,62 @@
         "product": "https://www.samsung.com/us/smartphones/galaxy-s26-plus/",
         "specs": "https://news.samsung.com/global/samsung-unveils-galaxy-s26-series-the-most-intuitive-galaxy-ai-phone-yet",
         "retrievedAt": "2026-09-28"
+      },
+      "colorImages": {
+        "Cobalt Violet": {
+          "url": "https://images.samsung.com/is/image/samsung/p6pim/us/s2602/gallery/us-galaxy-s26-s947-sm-s947uzvaxaa-550994937?$2052_1641_PNG$",
+          "page": "https://www.samsung.com/us/smartphones/galaxy-s26-plus/buy/",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Samsung US store product gallery image (images.samsung.com); Samsung has not granted a reuse license — rights not verified.",
+          "alt": "Samsung Galaxy S26+ in Cobalt Violet, official Samsung product photo",
+          "match": "EXACT",
+          "credit": "Samsung"
+        },
+        "Black": {
+          "url": "https://images.samsung.com/is/image/samsung/p6pim/us/s2602/gallery/us-galaxy-s26-s947-sm-s947uzkaxaa-550994747?$2052_1641_PNG$",
+          "page": "https://www.samsung.com/us/smartphones/galaxy-s26-plus/buy/",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Samsung US store product gallery image (images.samsung.com); Samsung has not granted a reuse license — rights not verified.",
+          "alt": "Samsung Galaxy S26+ in Black, official Samsung product photo",
+          "match": "EXACT",
+          "credit": "Samsung"
+        },
+        "White": {
+          "url": "https://images.samsung.com/is/image/samsung/p6pim/us/s2602/gallery/us-galaxy-s26-s947-sm-s947uzwaxaa-550995090?$2052_1641_PNG$",
+          "page": "https://www.samsung.com/us/smartphones/galaxy-s26-plus/buy/",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Samsung US store product gallery image (images.samsung.com); Samsung has not granted a reuse license — rights not verified.",
+          "alt": "Samsung Galaxy S26+ in White, official Samsung product photo",
+          "match": "EXACT",
+          "credit": "Samsung"
+        },
+        "Sky Blue": {
+          "url": "https://images.samsung.com/is/image/samsung/p6pim/us/s2602/gallery/us-galaxy-s26-s947-sm-s947ulbaxaa-550994557?$2052_1641_PNG$",
+          "page": "https://www.samsung.com/us/smartphones/galaxy-s26-plus/buy/",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Samsung US store product gallery image (images.samsung.com); Samsung has not granted a reuse license — rights not verified.",
+          "alt": "Samsung Galaxy S26+ in Sky Blue, official Samsung product photo",
+          "match": "EXACT",
+          "credit": "Samsung"
+        },
+        "Pink Gold": {
+          "url": "https://images.samsung.com/is/image/samsung/p6pim/us/s2602/gallery/us-galaxy-s26-s947-sm-s947uzdaxaa-550994671?$2052_1641_PNG$",
+          "page": "https://www.samsung.com/us/smartphones/galaxy-s26-plus/buy/",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Samsung US store product gallery image (images.samsung.com); Samsung has not granted a reuse license — rights not verified.",
+          "alt": "Samsung Galaxy S26+ in Pink Gold, official Samsung product photo",
+          "match": "EXACT",
+          "credit": "Samsung"
+        },
+        "Silver Shadow": {
+          "url": "https://images.samsung.com/is/image/samsung/p6pim/us/s2602/gallery/us-galaxy-s26-s947-sm-s947uzsaxaa-550994861?$2052_1641_PNG$",
+          "page": "https://www.samsung.com/us/smartphones/galaxy-s26-plus/buy/",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Samsung US store product gallery image (images.samsung.com); Samsung has not granted a reuse license — rights not verified.",
+          "alt": "Samsung Galaxy S26+ in Silver Shadow, official Samsung product photo",
+          "match": "EXACT",
+          "credit": "Samsung"
+        }
       }
     },
     {
@@ -196,10 +308,10 @@
       ],
       "image": {
         "url": "https://images.samsung.com/is/image/samsung/p6pim/us/s2602/gallery/us-galaxy-s26-s942-sm-s942uzvexaa-550995612?$2052_1641_PNG$",
-        "page": "https://www.samsung.com/us/smartphones/galaxy-s26/buy/galaxy-s26-256gb-unlocked-sku-sm-s942uzvexaa",
+        "page": "https://www.samsung.com/us/smartphones/galaxy-s26/buy/",
         "sourceType": "manufacturer-product-page",
         "rights": "Official Samsung US store product gallery image (images.samsung.com); Samsung has not granted a reuse license — rights not verified.",
-        "alt": "Samsung Galaxy S26 in Cobalt Violet, back and front view",
+        "alt": "Samsung Galaxy S26 in Cobalt Violet, official Samsung product photo",
         "match": "EXACT",
         "credit": "Samsung"
       },
@@ -207,6 +319,62 @@
         "product": "https://www.samsung.com/us/smartphones/galaxy-s26/",
         "specs": "https://news.samsung.com/global/samsung-unveils-galaxy-s26-series-the-most-intuitive-galaxy-ai-phone-yet",
         "retrievedAt": "2026-09-28"
+      },
+      "colorImages": {
+        "Cobalt Violet": {
+          "url": "https://images.samsung.com/is/image/samsung/p6pim/us/s2602/gallery/us-galaxy-s26-s942-sm-s942uzvexaa-550995612?$2052_1641_PNG$",
+          "page": "https://www.samsung.com/us/smartphones/galaxy-s26/buy/",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Samsung US store product gallery image (images.samsung.com); Samsung has not granted a reuse license — rights not verified.",
+          "alt": "Samsung Galaxy S26 in Cobalt Violet, official Samsung product photo",
+          "match": "EXACT",
+          "credit": "Samsung"
+        },
+        "Black": {
+          "url": "https://images.samsung.com/is/image/samsung/p6pim/us/s2602/gallery/us-galaxy-s26-s942-sm-s942uzkexaa-550995422?$2052_1641_PNG$",
+          "page": "https://www.samsung.com/us/smartphones/galaxy-s26/buy/",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Samsung US store product gallery image (images.samsung.com); Samsung has not granted a reuse license — rights not verified.",
+          "alt": "Samsung Galaxy S26 in Black, official Samsung product photo",
+          "match": "EXACT",
+          "credit": "Samsung"
+        },
+        "White": {
+          "url": "https://images.samsung.com/is/image/samsung/p6pim/us/s2602/gallery/us-galaxy-s26-s942-sm-s942uzwexaa-550995764?$2052_1641_PNG$",
+          "page": "https://www.samsung.com/us/smartphones/galaxy-s26/buy/",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Samsung US store product gallery image (images.samsung.com); Samsung has not granted a reuse license — rights not verified.",
+          "alt": "Samsung Galaxy S26 in White, official Samsung product photo",
+          "match": "EXACT",
+          "credit": "Samsung"
+        },
+        "Sky Blue": {
+          "url": "https://images.samsung.com/is/image/samsung/p6pim/us/s2602/gallery/us-galaxy-s26-s942-sm-s942ulbexaa-550995232?$2052_1641_PNG$",
+          "page": "https://www.samsung.com/us/smartphones/galaxy-s26/buy/",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Samsung US store product gallery image (images.samsung.com); Samsung has not granted a reuse license — rights not verified.",
+          "alt": "Samsung Galaxy S26 in Sky Blue, official Samsung product photo",
+          "match": "EXACT",
+          "credit": "Samsung"
+        },
+        "Pink Gold": {
+          "url": "https://images.samsung.com/is/image/samsung/p6pim/us/s2602/gallery/us-galaxy-s26-s942-sm-s942uzdexaa-550995346?$2052_1641_PNG$",
+          "page": "https://www.samsung.com/us/smartphones/galaxy-s26/buy/",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Samsung US store product gallery image (images.samsung.com); Samsung has not granted a reuse license — rights not verified.",
+          "alt": "Samsung Galaxy S26 in Pink Gold, official Samsung product photo",
+          "match": "EXACT",
+          "credit": "Samsung"
+        },
+        "Silver Shadow": {
+          "url": "https://images.samsung.com/is/image/samsung/p6pim/us/s2602/gallery/us-galaxy-s26-s942-sm-s942uzsexaa-550995536?$2052_1641_PNG$",
+          "page": "https://www.samsung.com/us/smartphones/galaxy-s26/buy/",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Samsung US store product gallery image (images.samsung.com); Samsung has not granted a reuse license — rights not verified.",
+          "alt": "Samsung Galaxy S26 in Silver Shadow, official Samsung product photo",
+          "match": "EXACT",
+          "credit": "Samsung"
+        }
       }
     },
     {
@@ -258,11 +426,11 @@
         "samsung-ecosystem"
       ],
       "image": {
-        "url": "https://images.samsung.com/is/image/samsung/p6pim/us/sm-s741ulgaxaa/gallery/us-galaxy-s26-fe-sm-s741-sm-s741ulgaxaa-554292615?$2052_1641_PNG$",
+        "url": "https://images.samsung.com/is/image/samsung/p6pim/us/sm-s741uzvaxaa/gallery/us-galaxy-s26-fe-sm-s741-sm-s741uzvaxaa-554292824?$2052_1641_PNG$",
         "page": "https://www.samsung.com/us/smartphones/galaxy-s26-fe/buy/",
         "sourceType": "manufacturer-product-page",
         "rights": "Official Samsung US store product gallery image (images.samsung.com); Samsung has not granted a reuse license — rights not verified.",
-        "alt": "Samsung Galaxy S26 FE in Pistachio, back and front view with triple camera",
+        "alt": "Samsung Galaxy S26 FE in Blueberry, official Samsung product photo",
         "match": "EXACT",
         "credit": "Samsung"
       },
@@ -270,6 +438,35 @@
         "product": "https://www.samsung.com/us/smartphones/galaxy-s26-fe/",
         "specs": "https://news.samsung.com/global/samsung-galaxy-s26-fe-delivering-the-latest-flagship-experience-focused-on-what-matters-most",
         "retrievedAt": "2026-09-28"
+      },
+      "colorImages": {
+        "Blueberry": {
+          "url": "https://images.samsung.com/is/image/samsung/p6pim/us/sm-s741uzvaxaa/gallery/us-galaxy-s26-fe-sm-s741-sm-s741uzvaxaa-554292824?$2052_1641_PNG$",
+          "page": "https://www.samsung.com/us/smartphones/galaxy-s26-fe/buy/",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Samsung US store product gallery image (images.samsung.com); Samsung has not granted a reuse license — rights not verified.",
+          "alt": "Samsung Galaxy S26 FE in Blueberry, official Samsung product photo",
+          "match": "EXACT",
+          "credit": "Samsung"
+        },
+        "Graphite": {
+          "url": "https://images.samsung.com/is/image/samsung/p6pim/us/sm-s741uzkaxaa/gallery/us-galaxy-s26-fe-sm-s741-sm-s741uzkaxaa-554292710?$2052_1641_PNG$",
+          "page": "https://www.samsung.com/us/smartphones/galaxy-s26-fe/buy/",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Samsung US store product gallery image (images.samsung.com); Samsung has not granted a reuse license — rights not verified.",
+          "alt": "Samsung Galaxy S26 FE in Graphite, official Samsung product photo",
+          "match": "EXACT",
+          "credit": "Samsung"
+        },
+        "Pistachio": {
+          "url": "https://images.samsung.com/is/image/samsung/p6pim/us/sm-s741ulgaxaa/gallery/us-galaxy-s26-fe-sm-s741-sm-s741ulgaxaa-554292615?$2052_1641_PNG$",
+          "page": "https://www.samsung.com/us/smartphones/galaxy-s26-fe/buy/",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Samsung US store product gallery image (images.samsung.com); Samsung has not granted a reuse license — rights not verified.",
+          "alt": "Samsung Galaxy S26 FE in Pistachio, official Samsung product photo",
+          "match": "EXACT",
+          "credit": "Samsung"
+        }
       }
     },
     {
@@ -322,7 +519,7 @@
         "page": "https://www.samsung.com/us/smartphones/galaxy-a57-5g/buy/",
         "sourceType": "manufacturer-product-page",
         "rights": "Official Samsung US store product gallery image (images.samsung.com); Samsung has not granted a reuse license — rights not verified.",
-        "alt": "Samsung Galaxy A57 5G in Awesome Navy, back and front view",
+        "alt": "Samsung Galaxy A57 5G in Awesome Navy, official Samsung product photo",
         "match": "EXACT",
         "credit": "Samsung"
       },
@@ -330,6 +527,35 @@
         "product": "https://www.samsung.com/us/smartphones/galaxy-a57-5g/",
         "specs": "https://news.samsung.com/global/samsung-unveils-galaxy-a57-5g-and-galaxy-a37-5g-packing-pro-level-features-at-awesome-price",
         "retrievedAt": "2026-09-28"
+      },
+      "colorImages": {
+        "Awesome Navy": {
+          "url": "https://images.samsung.com/is/image/samsung/p6pim/us/sm-a576udbaxaa/gallery/us-galaxy-a57-5g-sm-a576-sm-a576udbaxaa-551691230?$2052_1641_PNG$",
+          "page": "https://www.samsung.com/us/smartphones/galaxy-a57-5g/buy/",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Samsung US store product gallery image (images.samsung.com); Samsung has not granted a reuse license — rights not verified.",
+          "alt": "Samsung Galaxy A57 5G in Awesome Navy, official Samsung product photo",
+          "match": "EXACT",
+          "credit": "Samsung"
+        },
+        "Awesome Icyblue": {
+          "url": "https://images.samsung.com/is/image/samsung/p6pim/us/sm-a576ulbaxaa/gallery/us-galaxy-a57-5g-sm-a576-584976-sm-a576ulbaxaa-552898494?$2052_1641_PNG$",
+          "page": "https://www.samsung.com/us/smartphones/galaxy-a57-5g/buy/",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Samsung US store product gallery image (images.samsung.com); Samsung has not granted a reuse license — rights not verified.",
+          "alt": "Samsung Galaxy A57 5G in Awesome Icyblue, official Samsung product photo",
+          "match": "EXACT",
+          "credit": "Samsung"
+        },
+        "Awesome Gray": {
+          "url": "https://images.samsung.com/is/image/samsung/p6pim/us/sm-a576uzaaxaa/gallery/us-galaxy-a57-5g-sm-a576-584976-sm-a576uzaaxaa-552898513?$2052_1641_PNG$",
+          "page": "https://www.samsung.com/us/smartphones/galaxy-a57-5g/buy/",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Samsung US store product gallery image (images.samsung.com); Samsung has not granted a reuse license — rights not verified.",
+          "alt": "Samsung Galaxy A57 5G in Awesome Gray, official Samsung product photo",
+          "match": "EXACT",
+          "credit": "Samsung"
+        }
       }
     },
     {
@@ -380,7 +606,7 @@
         "page": "https://www.samsung.com/us/smartphones/galaxy-a37-5g/buy/",
         "sourceType": "manufacturer-product-page",
         "rights": "Official Samsung US store product gallery image (images.samsung.com); Samsung has not granted a reuse license — rights not verified.",
-        "alt": "Samsung Galaxy A37 5G in Awesome Charcoal, back and front view",
+        "alt": "Samsung Galaxy A37 5G in Awesome Charcoal, official Samsung product photo",
         "match": "EXACT",
         "credit": "Samsung"
       },
@@ -388,6 +614,26 @@
         "product": "https://www.samsung.com/us/smartphones/galaxy-a37-5g/",
         "specs": "https://news.samsung.com/global/samsung-unveils-galaxy-a57-5g-and-galaxy-a37-5g-packing-pro-level-features-at-awesome-price",
         "retrievedAt": "2026-09-28"
+      },
+      "colorImages": {
+        "Awesome Charcoal": {
+          "url": "https://images.samsung.com/is/image/samsung/p6pim/us/sm-a376uzaaxaa/gallery/us-galaxy-a37-5g-sm-a376-sm-a376uzaaxaa-551676282?$2052_1641_PNG$",
+          "page": "https://www.samsung.com/us/smartphones/galaxy-a37-5g/buy/",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Samsung US store product gallery image (images.samsung.com); Samsung has not granted a reuse license — rights not verified.",
+          "alt": "Samsung Galaxy A37 5G in Awesome Charcoal, official Samsung product photo",
+          "match": "EXACT",
+          "credit": "Samsung"
+        },
+        "Awesome Lavender": {
+          "url": "https://images.samsung.com/is/image/samsung/p6pim/us/sm-a376ulvaxaa/gallery/us-galaxy-a37-5g-sm-a376-sm-a376ulvaxaa-551676206?$2052_1641_PNG$",
+          "page": "https://www.samsung.com/us/smartphones/galaxy-a37-5g/buy/",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Samsung US store product gallery image (images.samsung.com); Samsung has not granted a reuse license — rights not verified.",
+          "alt": "Samsung Galaxy A37 5G in Awesome Lavender, official Samsung product photo",
+          "match": "EXACT",
+          "credit": "Samsung"
+        }
       }
     },
     {
@@ -451,7 +697,7 @@
         "page": "https://www.samsung.com/us/smartphones/galaxy-z-fold8-ultra/buy/",
         "sourceType": "manufacturer-product-page",
         "rights": "Official Samsung US store product gallery image (images.samsung.com); Samsung has not granted a reuse license — rights not verified.",
-        "alt": "Samsung Galaxy Z Fold8 Ultra in Violet Shadow, folded back view beside the open main screen",
+        "alt": "Samsung Galaxy Z Fold8 Ultra in Violet Shadow, official Samsung product photo",
         "match": "EXACT",
         "credit": "Samsung"
       },
@@ -459,6 +705,44 @@
         "product": "https://www.samsung.com/us/smartphones/galaxy-z-fold8-ultra/",
         "specs": "https://news.samsung.com/global/samsung-galaxy-z-fold8-ultra-fold8-and-flip8foldables-perfected-for-every-way-of-living",
         "retrievedAt": "2026-09-28"
+      },
+      "colorImages": {
+        "Violet Shadow": {
+          "url": "https://images.samsung.com/is/image/samsung/p6pim/us/f2607/gallery/us-galaxy-z-fold8-ultra-f976-600251-sm-f976uzvaxaa-553839126?$2052_1641_PNG$",
+          "page": "https://www.samsung.com/us/smartphones/galaxy-z-fold8-ultra/buy/",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Samsung US store product gallery image (images.samsung.com); Samsung has not granted a reuse license — rights not verified.",
+          "alt": "Samsung Galaxy Z Fold8 Ultra in Violet Shadow, official Samsung product photo",
+          "match": "EXACT",
+          "credit": "Samsung"
+        },
+        "Graphite": {
+          "url": "https://images.samsung.com/is/image/samsung/p6pim/us/f2607/gallery/us-galaxy-z-fold8-ultra-f976-600251-sm-f976uzkaxaa-553838689?$2052_1641_PNG$",
+          "page": "https://www.samsung.com/us/smartphones/galaxy-z-fold8-ultra/buy/",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Samsung US store product gallery image (images.samsung.com); Samsung has not granted a reuse license — rights not verified.",
+          "alt": "Samsung Galaxy Z Fold8 Ultra in Graphite, official Samsung product photo",
+          "match": "EXACT",
+          "credit": "Samsung"
+        },
+        "Cream": {
+          "url": "https://images.samsung.com/is/image/samsung/p6pim/us/f2607/gallery/us-galaxy-z-fold8-ultra-f976-sm-f976uzwaxaa-553837398?$2052_1641_PNG$",
+          "page": "https://www.samsung.com/us/smartphones/galaxy-z-fold8-ultra/buy/",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Samsung US store product gallery image (images.samsung.com); Samsung has not granted a reuse license — rights not verified.",
+          "alt": "Samsung Galaxy Z Fold8 Ultra in Cream, official Samsung product photo",
+          "match": "EXACT",
+          "credit": "Samsung"
+        },
+        "Green Shadow": {
+          "url": "https://images.samsung.com/is/image/samsung/p6pim/us/f2607/gallery/us-galaxy-z-fold8-ultra-f976-600251-sm-f976udgaxaa-553838537?$2052_1641_PNG$",
+          "page": "https://www.samsung.com/us/smartphones/galaxy-z-fold8-ultra/buy/",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Samsung US store product gallery image (images.samsung.com); Samsung has not granted a reuse license — rights not verified.",
+          "alt": "Samsung Galaxy Z Fold8 Ultra in Green Shadow, official Samsung product photo",
+          "match": "EXACT",
+          "credit": "Samsung"
+        }
       }
     },
     {
@@ -517,11 +801,11 @@
         "samsung-ecosystem"
       ],
       "image": {
-        "url": "https://images.samsung.com/is/image/samsung/p6pim/us/f2607/gallery/us-galaxy-z-fold8-f971-600257-sm-f971uzgaxaa-553841197?$2052_1641_PNG$",
+        "url": "https://images.samsung.com/is/image/samsung/p6pim/us/f2607/gallery/us-galaxy-z-fold8-f971-600257-sm-f971uzkaxaa-553841319?$2052_1641_PNG$",
         "page": "https://www.samsung.com/us/smartphones/galaxy-z-fold8/buy/",
         "sourceType": "manufacturer-product-page",
         "rights": "Official Samsung US store product gallery image (images.samsung.com); Samsung has not granted a reuse license — rights not verified.",
-        "alt": "Samsung Galaxy Z Fold8 in Pistachio, folded back view beside the open wide main screen",
+        "alt": "Samsung Galaxy Z Fold8 in Graphite, official Samsung product photo",
         "match": "EXACT",
         "credit": "Samsung"
       },
@@ -529,6 +813,44 @@
         "product": "https://www.samsung.com/us/smartphones/galaxy-z-fold8/",
         "specs": "https://news.samsung.com/global/samsung-galaxy-z-fold8-ultra-fold8-and-flip8foldables-perfected-for-every-way-of-living",
         "retrievedAt": "2026-09-28"
+      },
+      "colorImages": {
+        "Graphite": {
+          "url": "https://images.samsung.com/is/image/samsung/p6pim/us/f2607/gallery/us-galaxy-z-fold8-f971-600257-sm-f971uzkaxaa-553841319?$2052_1641_PNG$",
+          "page": "https://www.samsung.com/us/smartphones/galaxy-z-fold8/buy/",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Samsung US store product gallery image (images.samsung.com); Samsung has not granted a reuse license — rights not verified.",
+          "alt": "Samsung Galaxy Z Fold8 in Graphite, official Samsung product photo",
+          "match": "EXACT",
+          "credit": "Samsung"
+        },
+        "Cream": {
+          "url": "https://images.samsung.com/is/image/samsung/p6pim/us/f2607/gallery/us-galaxy-z-fold8-f971-sm-f971uzwaxaa-553838068?$2052_1641_PNG$",
+          "page": "https://www.samsung.com/us/smartphones/galaxy-z-fold8/buy/",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Samsung US store product gallery image (images.samsung.com); Samsung has not granted a reuse license — rights not verified.",
+          "alt": "Samsung Galaxy Z Fold8 in Cream, official Samsung product photo",
+          "match": "EXACT",
+          "credit": "Samsung"
+        },
+        "Lavender": {
+          "url": "https://images.samsung.com/is/image/samsung/p6pim/us/f2607/gallery/us-galaxy-z-fold8-f971-600257-sm-f971ulvaxaa-553840963?$2052_1641_PNG$",
+          "page": "https://www.samsung.com/us/smartphones/galaxy-z-fold8/buy/",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Samsung US store product gallery image (images.samsung.com); Samsung has not granted a reuse license — rights not verified.",
+          "alt": "Samsung Galaxy Z Fold8 in Lavender, official Samsung product photo",
+          "match": "EXACT",
+          "credit": "Samsung"
+        },
+        "Pistachio": {
+          "url": "https://images.samsung.com/is/image/samsung/p6pim/us/f2607/gallery/us-galaxy-z-fold8-f971-600257-sm-f971uzgaxaa-553841197?$2052_1641_PNG$",
+          "page": "https://www.samsung.com/us/smartphones/galaxy-z-fold8/buy/",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Samsung US store product gallery image (images.samsung.com); Samsung has not granted a reuse license — rights not verified.",
+          "alt": "Samsung Galaxy Z Fold8 in Pistachio, official Samsung product photo",
+          "match": "EXACT",
+          "credit": "Samsung"
+        }
       }
     },
     {
@@ -587,7 +909,7 @@
         "page": "https://www.samsung.com/us/smartphones/galaxy-z-flip8/buy/",
         "sourceType": "manufacturer-product-page",
         "rights": "Official Samsung US store product gallery image (images.samsung.com); Samsung has not granted a reuse license — rights not verified.",
-        "alt": "Samsung Galaxy Z Flip8 in Graphite, folded cover screen view beside the half-open phone",
+        "alt": "Samsung Galaxy Z Flip8 in Graphite, official Samsung product photo",
         "match": "EXACT",
         "credit": "Samsung"
       },
@@ -595,6 +917,44 @@
         "product": "https://www.samsung.com/us/smartphones/galaxy-z-flip8/",
         "specs": "https://news.samsung.com/global/samsung-galaxy-z-fold8-ultra-fold8-and-flip8foldables-perfected-for-every-way-of-living",
         "retrievedAt": "2026-09-28"
+      },
+      "colorImages": {
+        "Graphite": {
+          "url": "https://images.samsung.com/is/image/samsung/p6pim/us/f2607/gallery/us-galaxy-zflip8-f776-sm-f776uzkaxaa-553843353?$2052_1641_PNG$",
+          "page": "https://www.samsung.com/us/smartphones/galaxy-z-flip8/buy/",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Samsung US store product gallery image (images.samsung.com); Samsung has not granted a reuse license — rights not verified.",
+          "alt": "Samsung Galaxy Z Flip8 in Graphite, official Samsung product photo",
+          "match": "EXACT",
+          "credit": "Samsung"
+        },
+        "Cream": {
+          "url": "https://images.samsung.com/is/image/samsung/p6pim/us/f2607/gallery/us-galaxy-zflip8-f776-sm-f776uzwaxaa-553843711?$2052_1641_PNG$",
+          "page": "https://www.samsung.com/us/smartphones/galaxy-z-flip8/buy/",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Samsung US store product gallery image (images.samsung.com); Samsung has not granted a reuse license — rights not verified.",
+          "alt": "Samsung Galaxy Z Flip8 in Cream, official Samsung product photo",
+          "match": "EXACT",
+          "credit": "Samsung"
+        },
+        "Pink": {
+          "url": "https://images.samsung.com/is/image/samsung/p6pim/us/f2607/gallery/us-galaxy-zflip8-f776-sm-f776uliaxaa-553843032?$2052_1641_PNG$",
+          "page": "https://www.samsung.com/us/smartphones/galaxy-z-flip8/buy/",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Samsung US store product gallery image (images.samsung.com); Samsung has not granted a reuse license — rights not verified.",
+          "alt": "Samsung Galaxy Z Flip8 in Pink, official Samsung product photo",
+          "match": "EXACT",
+          "credit": "Samsung"
+        },
+        "Mint": {
+          "url": "https://images.samsung.com/is/image/samsung/p6pim/us/f2607/gallery/us-galaxy-zflip8-f776-sm-f776ulgaxaa-553842884?$2052_1641_PNG$",
+          "page": "https://www.samsung.com/us/smartphones/galaxy-z-flip8/buy/",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Samsung US store product gallery image (images.samsung.com); Samsung has not granted a reuse license — rights not verified.",
+          "alt": "Samsung Galaxy Z Flip8 in Mint, official Samsung product photo",
+          "match": "EXACT",
+          "credit": "Samsung"
+        }
       }
     },
     {
@@ -646,10 +1006,10 @@
       "featured": false,
       "image": {
         "url": "https://images.samsung.com/is/image/samsung/p6pim/us/sm-x930nzaaxar/gallery/us-galaxy-tab-s11-ultra-sm-x930-sm-x930nzaaxar-550969762?$2052_1641_PNG$",
-        "page": "https://www.samsung.com/us/tablets/galaxy-tab-s11/buy/galaxy-tab-s11-ultra-256gb-gray-wi-fi-sku-sm-x930nzaaxar",
+        "page": "https://www.samsung.com/us/tablets/galaxy-tab-s11/buy/",
         "sourceType": "manufacturer-product-page",
         "rights": "Official Samsung US store product gallery image (images.samsung.com); Samsung has not granted a reuse license — rights not verified.",
-        "alt": "Samsung Galaxy Tab S11 Ultra in Gray, front screen and rear camera view with S Pen",
+        "alt": "Samsung Galaxy Tab S11 Ultra in Gray, official Samsung product photo",
         "match": "EXACT",
         "credit": "Samsung"
       },
@@ -657,6 +1017,26 @@
         "product": "https://www.samsung.com/us/tablets/galaxy-tab-s11/",
         "specs": "https://news.samsung.com/global/meet-samsung-galaxy-tab-s11-series-packing-everything-you-expect-from-a-premium-tablet",
         "retrievedAt": "2026-09-28"
+      },
+      "colorImages": {
+        "Gray": {
+          "url": "https://images.samsung.com/is/image/samsung/p6pim/us/sm-x930nzaaxar/gallery/us-galaxy-tab-s11-ultra-sm-x930-sm-x930nzaaxar-550969762?$2052_1641_PNG$",
+          "page": "https://www.samsung.com/us/tablets/galaxy-tab-s11/buy/",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Samsung US store product gallery image (images.samsung.com); Samsung has not granted a reuse license — rights not verified.",
+          "alt": "Samsung Galaxy Tab S11 Ultra in Gray, official Samsung product photo",
+          "match": "EXACT",
+          "credit": "Samsung"
+        },
+        "Silver": {
+          "url": "https://images.samsung.com/is/image/samsung/p6pim/us/sm-x930nzsaxar/gallery/us-galaxy-tab-s11-ultra-sm-x930-sm-x930nzsaxar-553558708?$2052_1641_PNG$",
+          "page": "https://www.samsung.com/us/tablets/galaxy-tab-s11/buy/",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Samsung US store product gallery image (images.samsung.com); Samsung has not granted a reuse license — rights not verified.",
+          "alt": "Samsung Galaxy Tab S11 Ultra in Silver, official Samsung product photo",
+          "match": "EXACT",
+          "credit": "Samsung"
+        }
       }
     },
     {
@@ -706,11 +1086,11 @@
         "samsung-ecosystem"
       ],
       "image": {
-        "url": "https://images.samsung.com/is/image/samsung/p6pim/us/sm-x730nzaaxar/gallery/us-galaxy-tab-s11-sm-x730-sm-x730nzaaxar-550443947?$2052_1641_PNG$",
-        "page": "https://www.samsung.com/us/tablets/galaxy-tab-s11/buy/galaxy-tab-s11-128gb-gray-wi-fi-sku-sm-x730nzaaxar",
+        "url": "https://images.samsung.com/is/image/samsung/p6pim/us/sm-x730nzaaxar/gallery/us-galaxy-tab-s11-sm-x730-sm-x730nzaaxar-553558440?$2052_1641_PNG$",
+        "page": "https://www.samsung.com/us/tablets/galaxy-tab-s11/buy/",
         "sourceType": "manufacturer-product-page",
         "rights": "Official Samsung US store product gallery image (images.samsung.com); Samsung has not granted a reuse license — rights not verified.",
-        "alt": "Samsung Galaxy Tab S11 in Gray, front view of the 11-inch display",
+        "alt": "Samsung Galaxy Tab S11 in Gray, official Samsung product photo",
         "match": "EXACT",
         "credit": "Samsung"
       },
@@ -718,6 +1098,26 @@
         "product": "https://www.samsung.com/us/tablets/galaxy-tab-s11/",
         "specs": "https://news.samsung.com/global/meet-samsung-galaxy-tab-s11-series-packing-everything-you-expect-from-a-premium-tablet",
         "retrievedAt": "2026-09-28"
+      },
+      "colorImages": {
+        "Gray": {
+          "url": "https://images.samsung.com/is/image/samsung/p6pim/us/sm-x730nzaaxar/gallery/us-galaxy-tab-s11-sm-x730-sm-x730nzaaxar-553558440?$2052_1641_PNG$",
+          "page": "https://www.samsung.com/us/tablets/galaxy-tab-s11/buy/",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Samsung US store product gallery image (images.samsung.com); Samsung has not granted a reuse license — rights not verified.",
+          "alt": "Samsung Galaxy Tab S11 in Gray, official Samsung product photo",
+          "match": "EXACT",
+          "credit": "Samsung"
+        },
+        "Silver": {
+          "url": "https://images.samsung.com/is/image/samsung/p6pim/us/sm-x730nzsaxar/gallery/us-galaxy-tab-s11-sm-x730-sm-x730nzsaxar-553558430?$2052_1641_PNG$",
+          "page": "https://www.samsung.com/us/tablets/galaxy-tab-s11/buy/",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Samsung US store product gallery image (images.samsung.com); Samsung has not granted a reuse license — rights not verified.",
+          "alt": "Samsung Galaxy Tab S11 in Silver, official Samsung product photo",
+          "match": "EXACT",
+          "credit": "Samsung"
+        }
       }
     },
     {
@@ -754,11 +1154,11 @@
         "samsung-ecosystem"
       ],
       "image": {
-        "url": "https://images.samsung.com/is/image/samsung/p6pim/us/sm-x620nlbaxar/gallery/us-galaxy-tab-s10-fe-plus-sm-x626-sm-x620nlbaxar-545760935?$2052_1641_PNG$",
-        "page": "https://www.samsung.com/us/tablets/galaxy-tab-s10-fe/buy/galaxy-tab-s10-fe-plus-blue-128gb-sku-sm-x620nlbaxar",
+        "url": "https://images.samsung.com/is/image/samsung/p6pim/us/sm-x620nlbaxar/gallery/us-galaxy-tab-s10-fe-plus-sm-x626-sm-x620nlbaxar-553655025?$2052_1641_PNG$",
+        "page": "https://www.samsung.com/us/tablets/galaxy-tab-s10-fe/buy/",
         "sourceType": "manufacturer-product-page",
         "rights": "Official Samsung US store product gallery image (images.samsung.com); Samsung has not granted a reuse license — rights not verified.",
-        "alt": "Samsung Galaxy Tab S10 FE+ in Blue, rear view showing the single camera",
+        "alt": "Samsung Galaxy Tab S10 FE+ in Blue, official Samsung product photo",
         "match": "EXACT",
         "credit": "Samsung"
       },
@@ -766,6 +1166,35 @@
         "product": "https://www.samsung.com/us/tablets/galaxy-tab-s10-fe/",
         "specs": "https://news.samsung.com/global/galaxy-tab-s10-fe-series-brings-intelligent-experiences-to-the-forefront-with-premium-versatile-design",
         "retrievedAt": "2026-09-28"
+      },
+      "colorImages": {
+        "Blue": {
+          "url": "https://images.samsung.com/is/image/samsung/p6pim/us/sm-x620nlbaxar/gallery/us-galaxy-tab-s10-fe-plus-sm-x626-sm-x620nlbaxar-553655025?$2052_1641_PNG$",
+          "page": "https://www.samsung.com/us/tablets/galaxy-tab-s10-fe/buy/",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Samsung US store product gallery image (images.samsung.com); Samsung has not granted a reuse license — rights not verified.",
+          "alt": "Samsung Galaxy Tab S10 FE+ in Blue, official Samsung product photo",
+          "match": "EXACT",
+          "credit": "Samsung"
+        },
+        "Gray": {
+          "url": "https://images.samsung.com/is/image/samsung/p6pim/us/sm-x620nzaaxar/gallery/us-galaxy-tab-s10-fe-plus-sm-x626-sm-x620nzaaxar-553655103?$2052_1641_PNG$",
+          "page": "https://www.samsung.com/us/tablets/galaxy-tab-s10-fe/buy/",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Samsung US store product gallery image (images.samsung.com); Samsung has not granted a reuse license — rights not verified.",
+          "alt": "Samsung Galaxy Tab S10 FE+ in Gray, official Samsung product photo",
+          "match": "EXACT",
+          "credit": "Samsung"
+        },
+        "Silver": {
+          "url": "https://images.samsung.com/is/image/samsung/p6pim/us/sm-x620nzsaxar/gallery/us-galaxy-tab-s10-fe-plus-sm-x626-sm-x620nzsaxar-553655274?$2052_1641_PNG$",
+          "page": "https://www.samsung.com/us/tablets/galaxy-tab-s10-fe/buy/",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Samsung US store product gallery image (images.samsung.com); Samsung has not granted a reuse license — rights not verified.",
+          "alt": "Samsung Galaxy Tab S10 FE+ in Silver, official Samsung product photo",
+          "match": "EXACT",
+          "credit": "Samsung"
+        }
       }
     },
     {
@@ -803,10 +1232,10 @@
       "featured": true,
       "image": {
         "url": "https://images.samsung.com/is/image/samsung/p6pim/us/sm-l715uzsaxaa/gallery/us-galaxy-watch-ultra2-l710-sm-l715uzsaxaa-554054307?$2052_1641_PNG$",
-        "page": "https://www.samsung.com/us/watches/galaxy-watch-ultra2/buy/galaxy-watch-ultra2-47mm-titanium-silver-lte-sku-sm-l715uzsaxaa",
+        "page": "https://www.samsung.com/us/watches/galaxy-watch-ultra2/buy/",
         "sourceType": "manufacturer-product-page",
         "rights": "Official Samsung US store product gallery image (images.samsung.com); Samsung has not granted a reuse license — rights not verified.",
-        "alt": "Samsung Galaxy Watch Ultra2 47 mm titanium case with sport band, front three-quarter view",
+        "alt": "Samsung Galaxy Watch Ultra2 in Titanium Silver, official Samsung product photo",
         "match": "EXACT",
         "credit": "Samsung"
       },
@@ -814,6 +1243,26 @@
         "product": "https://www.samsung.com/us/watches/galaxy-watch-ultra2/",
         "specs": "https://news.samsung.com/global/samsung-galaxy-watch-ultra2-and-watch9-your-health-companion-on-the-wrist",
         "retrievedAt": "2026-09-28"
+      },
+      "colorImages": {
+        "Titanium Silver": {
+          "url": "https://images.samsung.com/is/image/samsung/p6pim/us/sm-l715uzsaxaa/gallery/us-galaxy-watch-ultra2-l710-sm-l715uzsaxaa-554054307?$2052_1641_PNG$",
+          "page": "https://www.samsung.com/us/watches/galaxy-watch-ultra2/buy/",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Samsung US store product gallery image (images.samsung.com); Samsung has not granted a reuse license — rights not verified.",
+          "alt": "Samsung Galaxy Watch Ultra2 in Titanium Silver, official Samsung product photo",
+          "match": "EXACT",
+          "credit": "Samsung"
+        },
+        "Titanium Gray": {
+          "url": "https://images.samsung.com/is/image/samsung/p6pim/us/sm-l715uzkaxaa/gallery/us-galaxy-watch-ultra2-l710-sm-l715uzkaxaa-554054142?$2052_1641_PNG$",
+          "page": "https://www.samsung.com/us/watches/galaxy-watch-ultra2/buy/",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Samsung US store product gallery image (images.samsung.com); Samsung has not granted a reuse license — rights not verified.",
+          "alt": "Samsung Galaxy Watch Ultra2 in Titanium Gray, official Samsung product photo",
+          "match": "EXACT",
+          "credit": "Samsung"
+        }
       }
     },
     {
@@ -868,11 +1317,11 @@
         "samsung-ecosystem"
       ],
       "image": {
-        "url": "https://images.samsung.com/is/image/samsung/p6pim/us/sm-l340nzeaxaa/gallery/us-galaxy-watch9-l340-sm-l340nzeaxaa-554054538?$2052_1641_PNG$",
-        "page": "https://www.samsung.com/us/watches/galaxy-watch9/buy/galaxy-watch9-40mm-cream-bluetooth-sku-sm-l340nzeaxaa",
+        "url": "https://images.samsung.com/is/image/samsung/p6pim/us/sm-l340nzkaxaa/gallery/us-galaxy-watch9-l340-sm-l340nzkaxaa-554056551?$2052_1641_PNG$",
+        "page": "https://www.samsung.com/us/watches/galaxy-watch9/buy/",
         "sourceType": "manufacturer-product-page",
         "rights": "Official Samsung US store product gallery image (images.samsung.com); Samsung has not granted a reuse license — rights not verified.",
-        "alt": "Samsung Galaxy Watch9 40 mm in Cream with white sport band, front three-quarter view",
+        "alt": "Samsung Galaxy Watch9 in Graphite, official Samsung product photo",
         "match": "EXACT",
         "credit": "Samsung"
       },
@@ -880,6 +1329,35 @@
         "product": "https://www.samsung.com/us/watches/galaxy-watch9/",
         "specs": "https://news.samsung.com/global/samsung-galaxy-watch-ultra2-and-watch9-your-health-companion-on-the-wrist",
         "retrievedAt": "2026-09-28"
+      },
+      "colorImages": {
+        "Graphite": {
+          "url": "https://images.samsung.com/is/image/samsung/p6pim/us/sm-l340nzkaxaa/gallery/us-galaxy-watch9-l340-sm-l340nzkaxaa-554056551?$2052_1641_PNG$",
+          "page": "https://www.samsung.com/us/watches/galaxy-watch9/buy/",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Samsung US store product gallery image (images.samsung.com); Samsung has not granted a reuse license — rights not verified.",
+          "alt": "Samsung Galaxy Watch9 in Graphite, official Samsung product photo",
+          "match": "EXACT",
+          "credit": "Samsung"
+        },
+        "Cream (40 mm)": {
+          "url": "https://images.samsung.com/is/image/samsung/p6pim/us/sm-l340nzeaxaa/gallery/us-galaxy-watch9-l340-sm-l340nzeaxaa-554054538?$2052_1641_PNG$",
+          "page": "https://www.samsung.com/us/watches/galaxy-watch9/buy/",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Samsung US store product gallery image (images.samsung.com); Samsung has not granted a reuse license — rights not verified.",
+          "alt": "Samsung Galaxy Watch9 in Cream (40 mm), official Samsung product photo",
+          "match": "EXACT",
+          "credit": "Samsung"
+        },
+        "Silver (44 mm)": {
+          "url": "https://images.samsung.com/is/image/samsung/p6pim/us/sm-l350nzsaxaa/gallery/us-galaxy-watch-sm-l350nzsaxaa-galaxy-watch-----mm--bluetooth--silver-silver-554056335?$2052_1641_PNG$",
+          "page": "https://www.samsung.com/us/watches/galaxy-watch9/buy/",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Samsung US store product gallery image (images.samsung.com); Samsung has not granted a reuse license — rights not verified.",
+          "alt": "Samsung Galaxy Watch9 in Silver (44 mm), official Samsung product photo",
+          "match": "EXACT",
+          "credit": "Samsung"
+        }
       }
     },
     {
@@ -925,10 +1403,10 @@
       ],
       "image": {
         "url": "https://images.samsung.com/is/image/samsung/p6pim/us/f2507/gallery/us-galaxy-watch8-classic-l500-sm-l500nzkaxaa-547908267?$2052_1641_PNG$",
-        "page": "https://www.samsung.com/us/watches/galaxy-watch8-classic/buy/galaxy-watch8-classic-46mm-black-wi-fi-bluetooth-sku-sm-l500nzkaxaa",
+        "page": "https://www.samsung.com/us/watches/galaxy-watch8-classic/buy/",
         "sourceType": "manufacturer-product-page",
         "rights": "Official Samsung US store product gallery image (images.samsung.com); Samsung has not granted a reuse license — rights not verified.",
-        "alt": "Samsung Galaxy Watch8 Classic 46 mm in Black with rotating bezel and leather-look band, front view",
+        "alt": "Samsung Galaxy Watch8 Classic in Black, official Samsung product photo",
         "match": "EXACT",
         "credit": "Samsung"
       },
@@ -936,6 +1414,26 @@
         "product": "https://www.samsung.com/us/watches/galaxy-watch8-classic/",
         "specs": "https://news.samsung.com/global/samsung-galaxy-watch8-series-ultra-comfort-from-sleep-to-workout",
         "retrievedAt": "2026-09-28"
+      },
+      "colorImages": {
+        "Black": {
+          "url": "https://images.samsung.com/is/image/samsung/p6pim/us/f2507/gallery/us-galaxy-watch8-classic-l500-sm-l500nzkaxaa-547908267?$2052_1641_PNG$",
+          "page": "https://www.samsung.com/us/watches/galaxy-watch8-classic/buy/",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Samsung US store product gallery image (images.samsung.com); Samsung has not granted a reuse license — rights not verified.",
+          "alt": "Samsung Galaxy Watch8 Classic in Black, official Samsung product photo",
+          "match": "EXACT",
+          "credit": "Samsung"
+        },
+        "White": {
+          "url": "https://images.samsung.com/is/image/samsung/p6pim/us/f2507/gallery/us-galaxy-watch8-classic-l500-sm-l500nzwaxaa-547908315?$2052_1641_PNG$",
+          "page": "https://www.samsung.com/us/watches/galaxy-watch8-classic/buy/",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Samsung US store product gallery image (images.samsung.com); Samsung has not granted a reuse license — rights not verified.",
+          "alt": "Samsung Galaxy Watch8 Classic in White, official Samsung product photo",
+          "match": "EXACT",
+          "credit": "Samsung"
+        }
       }
     },
     {
@@ -972,7 +1470,7 @@
         "page": "https://www.samsung.com/us/rings/galaxy-ring/buy/",
         "sourceType": "manufacturer-product-page",
         "rights": "Official Samsung US store product gallery image (images.samsung.com); Samsung has not granted a reuse license — rights not verified.",
-        "alt": "Samsung Galaxy Ring in Titanium Silver, angled view showing the inner sensors",
+        "alt": "Samsung Galaxy Ring in Titanium Silver, official Samsung product photo",
         "match": "EXACT",
         "credit": "Samsung"
       },
@@ -980,6 +1478,35 @@
         "product": "https://www.samsung.com/us/rings/galaxy-ring/",
         "specs": "https://news.samsung.com/global/unboxing-meet-galaxy-ring-a-personalized-health-care-device-encased-in-a-fancy-charging-case",
         "retrievedAt": "2026-09-28"
+      },
+      "colorImages": {
+        "Titanium Silver": {
+          "url": "https://images.samsung.com/is/image/samsung/p6pim/us/sm-q506nzsaxar/gallery/us-galaxy-ring-q500-sm-q506nzsaxar-550243169?$2052_1641_PNG$",
+          "page": "https://www.samsung.com/us/rings/galaxy-ring/buy/",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Samsung US store product gallery image (images.samsung.com); Samsung has not granted a reuse license — rights not verified.",
+          "alt": "Samsung Galaxy Ring in Titanium Silver, official Samsung product photo",
+          "match": "EXACT",
+          "credit": "Samsung"
+        },
+        "Titanium Black": {
+          "url": "https://images.samsung.com/is/image/samsung/p6pim/us/sm-q506nzkaxar/gallery/us-galaxy-ring-q500-sm-q506nzkaxar-550243152?$2052_1641_PNG$",
+          "page": "https://www.samsung.com/us/rings/galaxy-ring/buy/",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Samsung US store product gallery image (images.samsung.com); Samsung has not granted a reuse license — rights not verified.",
+          "alt": "Samsung Galaxy Ring in Titanium Black, official Samsung product photo",
+          "match": "EXACT",
+          "credit": "Samsung"
+        },
+        "Titanium Gold": {
+          "url": "https://images.samsung.com/is/image/samsung/p6pim/us/sm-q505nzdaxar/gallery/us-galaxy-ring-q500-sm-q505nzdaxar-550243079?$2052_1641_PNG$",
+          "page": "https://www.samsung.com/us/rings/galaxy-ring/buy/",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Samsung US store product gallery image (images.samsung.com); Samsung has not granted a reuse license — rights not verified.",
+          "alt": "Samsung Galaxy Ring in Titanium Gold, official Samsung product photo",
+          "match": "EXACT",
+          "credit": "Samsung"
+        }
       }
     },
     {
@@ -1015,10 +1542,10 @@
       ],
       "image": {
         "url": "https://images.samsung.com/is/image/samsung/p6pim/us/sm-r640nzwaxar/gallery/us-galaxy-buds4-r640-sm-r640nzwaxar-553270130?$2052_1641_PNG$",
-        "page": "https://www.samsung.com/us/audio-sound/galaxy-buds4-pro/buy/galaxy-buds4-pro-white-sku-sm-r640nzwaxar",
+        "page": "https://www.samsung.com/us/audio-sound/galaxy-buds4-pro/buy/",
         "sourceType": "manufacturer-product-page",
         "rights": "Official Samsung US store product gallery image (images.samsung.com); Samsung has not granted a reuse license — rights not verified.",
-        "alt": "Samsung Galaxy Buds4 Pro earbuds in White, front view of both buds",
+        "alt": "Samsung Galaxy Buds4 Pro in White, official Samsung product photo",
         "match": "EXACT",
         "credit": "Samsung"
       },
@@ -1026,6 +1553,35 @@
         "product": "https://www.samsung.com/us/audio-sound/galaxy-buds4-pro/",
         "specs": "https://news.samsung.com/global/samsung-unveils-all-new-galaxy-buds4-series-with-ultimate-sound",
         "retrievedAt": "2026-09-28"
+      },
+      "colorImages": {
+        "White": {
+          "url": "https://images.samsung.com/is/image/samsung/p6pim/us/sm-r640nzwaxar/gallery/us-galaxy-buds4-r640-sm-r640nzwaxar-553270130?$2052_1641_PNG$",
+          "page": "https://www.samsung.com/us/audio-sound/galaxy-buds4-pro/buy/",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Samsung US store product gallery image (images.samsung.com); Samsung has not granted a reuse license — rights not verified.",
+          "alt": "Samsung Galaxy Buds4 Pro in White, official Samsung product photo",
+          "match": "EXACT",
+          "credit": "Samsung"
+        },
+        "Black": {
+          "url": "https://images.samsung.com/is/image/samsung/p6pim/us/sm-r640nzkaxar/gallery/us-galaxy-buds4-r640-sm-r640nzkaxar-553270132?$2052_1641_PNG$",
+          "page": "https://www.samsung.com/us/audio-sound/galaxy-buds4-pro/buy/",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Samsung US store product gallery image (images.samsung.com); Samsung has not granted a reuse license — rights not verified.",
+          "alt": "Samsung Galaxy Buds4 Pro in Black, official Samsung product photo",
+          "match": "EXACT",
+          "credit": "Samsung"
+        },
+        "Pink Gold": {
+          "url": "https://images.samsung.com/is/image/samsung/p6pim/us/sm-r640nzdaxar/gallery/us-galaxy-buds4-r640-sm-r640nzdaxar-553270184?$2052_1641_PNG$",
+          "page": "https://www.samsung.com/us/audio-sound/galaxy-buds4-pro/buy/",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Samsung US store product gallery image (images.samsung.com); Samsung has not granted a reuse license — rights not verified.",
+          "alt": "Samsung Galaxy Buds4 Pro in Pink Gold, official Samsung product photo",
+          "match": "EXACT",
+          "credit": "Samsung"
+        }
       }
     },
     {
@@ -1060,10 +1616,10 @@
       ],
       "image": {
         "url": "https://images.samsung.com/is/image/samsung/p6pim/us/sm-r540nzwaxar/gallery/us-galaxy-buds4-r540-sm-r540nzwaxar-553270291?$2052_1641_PNG$",
-        "page": "https://www.samsung.com/us/audio-sound/galaxy-buds4/buy/galaxy-buds4-white-sku-sm-r540nzwaxar",
+        "page": "https://www.samsung.com/us/audio-sound/galaxy-buds4/buy/",
         "sourceType": "manufacturer-product-page",
         "rights": "Official Samsung US store product gallery image (images.samsung.com); Samsung has not granted a reuse license — rights not verified.",
-        "alt": "Samsung Galaxy Buds4 earbuds in White, front view of both buds",
+        "alt": "Samsung Galaxy Buds4 in White, official Samsung product photo",
         "match": "EXACT",
         "credit": "Samsung"
       },
@@ -1071,6 +1627,26 @@
         "product": "https://www.samsung.com/us/audio-sound/galaxy-buds4/",
         "specs": "https://news.samsung.com/global/samsung-unveils-all-new-galaxy-buds4-series-with-ultimate-sound",
         "retrievedAt": "2026-09-28"
+      },
+      "colorImages": {
+        "White": {
+          "url": "https://images.samsung.com/is/image/samsung/p6pim/us/sm-r540nzwaxar/gallery/us-galaxy-buds4-r540-sm-r540nzwaxar-553270291?$2052_1641_PNG$",
+          "page": "https://www.samsung.com/us/audio-sound/galaxy-buds4/buy/",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Samsung US store product gallery image (images.samsung.com); Samsung has not granted a reuse license — rights not verified.",
+          "alt": "Samsung Galaxy Buds4 in White, official Samsung product photo",
+          "match": "EXACT",
+          "credit": "Samsung"
+        },
+        "Black": {
+          "url": "https://images.samsung.com/is/image/samsung/p6pim/us/sm-r540nzkaxar/gallery/us-galaxy-buds4-r540-sm-r540nzkaxar-553270295?$2052_1641_PNG$",
+          "page": "https://www.samsung.com/us/audio-sound/galaxy-buds4/buy/",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Samsung US store product gallery image (images.samsung.com); Samsung has not granted a reuse license — rights not verified.",
+          "alt": "Samsung Galaxy Buds4 in Black, official Samsung product photo",
+          "match": "EXACT",
+          "credit": "Samsung"
+        }
       }
     },
     {
@@ -1105,10 +1681,10 @@
       ],
       "image": {
         "url": "https://images.samsung.com/is/image/samsung/p6pim/us/sm-r420nzaaxar/gallery/us-galaxy-buds3-fe-sm-r420nzaaxar-553270299?$2052_1641_PNG$",
-        "page": "https://www.samsung.com/us/mobile-audio/galaxy-buds3-fe/buy/galaxy-buds3-fe-gray-sku-sm-r420nzaaxar",
+        "page": "https://www.samsung.com/us/mobile-audio/galaxy-buds3-fe/buy/",
         "sourceType": "manufacturer-product-page",
         "rights": "Official Samsung US store product gallery image (images.samsung.com); Samsung has not granted a reuse license — rights not verified.",
-        "alt": "Samsung Galaxy Buds3 FE earbuds in Gray, front view showing the Blade stems",
+        "alt": "Samsung Galaxy Buds3 FE in Gray, official Samsung product photo",
         "match": "EXACT",
         "credit": "Samsung"
       },
@@ -1116,6 +1692,26 @@
         "product": "https://www.samsung.com/us/mobile-audio/galaxy-buds3-fe/",
         "specs": "https://news.samsung.com/global/samsung-introduces-galaxy-buds3-fe-with-iconic-design-enhanced-sound-and-galaxy-ai-integration",
         "retrievedAt": "2026-09-28"
+      },
+      "colorImages": {
+        "Gray": {
+          "url": "https://images.samsung.com/is/image/samsung/p6pim/us/sm-r420nzaaxar/gallery/us-galaxy-buds3-fe-sm-r420nzaaxar-553270299?$2052_1641_PNG$",
+          "page": "https://www.samsung.com/us/mobile-audio/galaxy-buds3-fe/buy/",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Samsung US store product gallery image (images.samsung.com); Samsung has not granted a reuse license — rights not verified.",
+          "alt": "Samsung Galaxy Buds3 FE in Gray, official Samsung product photo",
+          "match": "EXACT",
+          "credit": "Samsung"
+        },
+        "Black": {
+          "url": "https://images.samsung.com/is/image/samsung/p6pim/us/sm-r420nzkaxar/gallery/us-galaxy-buds3-fe-sm-r420nzkaxar-553270300?$2052_1641_PNG$",
+          "page": "https://www.samsung.com/us/mobile-audio/galaxy-buds3-fe/buy/",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Samsung US store product gallery image (images.samsung.com); Samsung has not granted a reuse license — rights not verified.",
+          "alt": "Samsung Galaxy Buds3 FE in Black, official Samsung product photo",
+          "match": "EXACT",
+          "credit": "Samsung"
+        }
       }
     },
     {
@@ -1757,7 +2353,7 @@
         "match": "PRODUCT_LINE",
         "credit": "Samsung"
       },
-      "notes": "Colours per Samsung Newsroom launch release and the samsung.com/us gallery (4TB is black only). 4TB showed OutOfStock on 2026-09-28."
+      "notes": "Colours per Samsung Newsroom launch release and the samsung.com/us gallery (4TB is black only). 4TB showed OutOfStock on 2026-09-28. Per-colour photos omitted: every official colour photo carries award badges."
     },
     {
       "sku": "TK-SAMSUNG-T7",
@@ -1813,7 +2409,7 @@
         "match": "PRODUCT_LINE",
         "credit": "Samsung"
       },
-      "notes": "Prices are the Gray SKUs (2TB uses its $549.99 strikethrough list price; it was on sale for $479.99). A 1TB Blue SKU listed at $129.99 was out of stock with an inconsistent 'Gen 1' title, so it was left out."
+      "notes": "Prices are the Gray SKUs (2TB uses its $549.99 strikethrough list price; it was on sale for $479.99). A 1TB Blue SKU listed at $129.99 was out of stock with an inconsistent 'Gen 1' title, so it was left out. Per-colour photos omitted: every official colour photo carries award badges."
     },
     {
       "sku": "TK-SAMSUNG-T5-EVO",

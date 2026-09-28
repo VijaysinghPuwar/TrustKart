@@ -63,6 +63,7 @@ class VariantCheckoutIT {
                 .andExpect(jsonPath("$.items[1].unitPrice").value("1799.00"))
                 .andExpect(jsonPath("$.items[1].quantity").value(2))
                 .andExpect(jsonPath("$.items[1].optionsLabel").value("1TB · Silver"))
+                .andExpect(jsonPath("$.items[1].optionImage").value(org.hamcrest.Matchers.containsString("--silver-")))
                 .andExpect(jsonPath("$.subtotal").value("4797.00"));
 
         String quote = b.get("/api/v1/checkout/quote").andExpect(jsonPath("$.total").value("4797.00"))
@@ -72,6 +73,7 @@ class VariantCheckoutIT {
                         + total + "\"}", "Idempotency-Key", UUID.randomUUID().toString())
                 .andExpect(status().isCreated())
                 .andExpect(jsonPath("$.items[1].optionsLabel").value("1TB · Silver"))
+                .andExpect(jsonPath("$.items[1].imageUrl").value(org.hamcrest.Matchers.containsString("--silver-")))
                 .andExpect(jsonPath("$.items[1].unitPrice").value("1799.00"))
                 .andExpect(jsonPath("$.total").value("4797.00"));
     }

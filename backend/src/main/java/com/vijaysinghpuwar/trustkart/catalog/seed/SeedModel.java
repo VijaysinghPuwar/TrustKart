@@ -76,7 +76,9 @@ final class SeedModel {
 
     record OptionGroupSeed(String name, List<OptionValueSeed> values) {}
 
-    record OptionValueSeed(String label, String price, @JsonProperty("default") Boolean isDefault) {}
+    record OptionValueSeed(String label, String price, @JsonProperty("default") Boolean isDefault, OptionImageSeed image) {}
+
+    record OptionImageSeed(String small, String large, int width, int height, String alt) {}
 
     record ImageSeed(String large, String small, int width, int height, String alt, String match, String author,
             String license, String licenseUrl, String filePage) {}

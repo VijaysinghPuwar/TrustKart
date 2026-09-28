@@ -57,13 +57,16 @@ class CatalogApiIT {
 
     @Test
     void seedingIsRepeatableAndNeverDuplicates() {
+        DemoCatalogSeeder.Result first = seeder.seed();
         long before = products.count();
         DemoCatalogSeeder.Result again = seeder.seed();
 
         assertThat(again.productsCreated()).isZero();
         assertThat(again.categoriesCreated()).isZero();
-        assertThat(again.productsSkipped()).isEqualTo((int) before);
-        assertThat(products.count()).isEqualTo(before).isGreaterThanOrEqualTo(100);
+        // Compare with the seed catalog itself: other tests add their own fixture products to the same database.
+        assertThat(again.productsSkipped()).isEqualTo(first.productsCreated() + first.productsSkipped())
+                .isGreaterThanOrEqualTo(100);
+        assertThat(products.count()).isEqualTo(before);
     }
 
     private long topLevelCategories() {

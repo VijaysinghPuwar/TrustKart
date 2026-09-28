@@ -225,7 +225,8 @@
     "autofocus": "Hybrid phase-detect/contrast AF",
     "battery": "EN-EL15c Li-ion",
     "weightG": 538,
-    "configurations": "Body only – Silver – $1,399.95 · Body only – Black – $1,399.95 · NIKKOR Z 24-50mm kit (Silver or Black) – $1,699.95"
+    "configurations": "Body only – Silver – $1,399.95 · Body only – Black – $1,399.95 · NIKKOR Z 24-50mm kit (Silver or Black) – $1,699.95",
+    "colors": "Silver, Black"
    },
    "options": [
     {
@@ -243,6 +244,32 @@
       {
        "label": "NIKKOR Z 24-50mm kit (Silver or Black)",
        "price": "1699.95"
+      }
+     ]
+    },
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Silver",
+       "default": true,
+       "image": {
+        "small": "/images/catalog/nikon-z5iic--silver-400.webp",
+        "large": "/images/catalog/nikon-z5iic--silver-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Nikon Z5IIc full-frame mirrorless camera body in Silver, front view with body cap"
+       }
+      },
+      {
+       "label": "Black",
+       "image": {
+        "small": "/images/catalog/nikon-z5iic--black-400.webp",
+        "large": "/images/catalog/nikon-z5iic--black-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Nikon Z5IIc full-frame mirrorless camera body in Black, front view with body cap"
+       }
       }
      ]
     }
@@ -277,7 +304,8 @@
     "autofocus": "Hybrid phase-detect/contrast AF with deep-learning subject detection",
     "battery": "EN-EL15c Li-ion",
     "weightG": 630,
-    "configurations": "Body only – Black – $2,199.95 · Body only – Silver/Black – $2,199.95 · Body only – colored leatherette editions – $2,299.95 · 40mm f/2 (SE) kit – $2,439.95 · 24-70mm f/4 kit – $2,799.95"
+    "configurations": "Body only – Black – $2,199.95 · Body only – Silver/Black – $2,199.95 · Body only – colored leatherette editions – $2,299.95 · 40mm f/2 (SE) kit – $2,439.95 · 24-70mm f/4 kit – $2,799.95",
+    "colors": "Black, Silver/Black, Indigo Blue, Stone Grey, Bordeaux Red, Sepia Brown, Sunset Orange, Moss Green, Silver/Mauve Pink, Silver/Cognac Brown, Silver/Teal Blue, Silver/Moss Green, Silver/Stone Gray, Silver/Sepia Brown"
    },
    "options": [
     {
@@ -303,6 +331,152 @@
       {
        "label": "24-70mm f/4 kit",
        "price": "2799.95"
+      }
+     ]
+    },
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Black",
+       "default": true,
+       "image": {
+        "small": "/images/catalog/nikon-zf--black-400.webp",
+        "large": "/images/catalog/nikon-zf--black-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Nikon Zf full-frame mirrorless camera body in Black, front view without lens"
+       }
+      },
+      {
+       "label": "Silver/Black",
+       "image": {
+        "small": "/images/catalog/nikon-zf--silver-black-400.webp",
+        "large": "/images/catalog/nikon-zf--silver-black-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Nikon Zf full-frame mirrorless camera body in Silver/Black, front view without lens"
+       }
+      },
+      {
+       "label": "Indigo Blue",
+       "image": {
+        "small": "/images/catalog/nikon-zf--indigo-blue-400.webp",
+        "large": "/images/catalog/nikon-zf--indigo-blue-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Nikon Zf full-frame mirrorless camera body in Indigo Blue, front view without lens"
+       }
+      },
+      {
+       "label": "Stone Grey",
+       "image": {
+        "small": "/images/catalog/nikon-zf--stone-grey-400.webp",
+        "large": "/images/catalog/nikon-zf--stone-grey-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Nikon Zf full-frame mirrorless camera body in Stone Grey, front view without lens"
+       }
+      },
+      {
+       "label": "Bordeaux Red",
+       "image": {
+        "small": "/images/catalog/nikon-zf--bordeaux-red-400.webp",
+        "large": "/images/catalog/nikon-zf--bordeaux-red-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Nikon Zf full-frame mirrorless camera body in Bordeaux Red, front view without lens"
+       }
+      },
+      {
+       "label": "Sepia Brown",
+       "image": {
+        "small": "/images/catalog/nikon-zf--sepia-brown-400.webp",
+        "large": "/images/catalog/nikon-zf--sepia-brown-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Nikon Zf full-frame mirrorless camera body in Sepia Brown, front view without lens"
+       }
+      },
+      {
+       "label": "Sunset Orange",
+       "image": {
+        "small": "/images/catalog/nikon-zf--sunset-orange-400.webp",
+        "large": "/images/catalog/nikon-zf--sunset-orange-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Nikon Zf full-frame mirrorless camera body in Sunset Orange, front view without lens"
+       }
+      },
+      {
+       "label": "Moss Green",
+       "image": {
+        "small": "/images/catalog/nikon-zf--moss-green-400.webp",
+        "large": "/images/catalog/nikon-zf--moss-green-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Nikon Zf full-frame mirrorless camera body in Moss Green, front view without lens"
+       }
+      },
+      {
+       "label": "Silver/Mauve Pink",
+       "image": {
+        "small": "/images/catalog/nikon-zf--silver-mauve-pink-400.webp",
+        "large": "/images/catalog/nikon-zf--silver-mauve-pink-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Nikon Zf full-frame mirrorless camera body in Silver/Mauve Pink, front view without lens"
+       }
+      },
+      {
+       "label": "Silver/Cognac Brown",
+       "image": {
+        "small": "/images/catalog/nikon-zf--silver-cognac-brown-400.webp",
+        "large": "/images/catalog/nikon-zf--silver-cognac-brown-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Nikon Zf full-frame mirrorless camera body in Silver/Cognac Brown, front view without lens"
+       }
+      },
+      {
+       "label": "Silver/Teal Blue",
+       "image": {
+        "small": "/images/catalog/nikon-zf--silver-teal-blue-400.webp",
+        "large": "/images/catalog/nikon-zf--silver-teal-blue-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Nikon Zf full-frame mirrorless camera body in Silver/Teal Blue, front view without lens"
+       }
+      },
+      {
+       "label": "Silver/Moss Green",
+       "image": {
+        "small": "/images/catalog/nikon-zf--silver-moss-green-400.webp",
+        "large": "/images/catalog/nikon-zf--silver-moss-green-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Nikon Zf full-frame mirrorless camera body in Silver/Moss Green, front view without lens"
+       }
+      },
+      {
+       "label": "Silver/Stone Gray",
+       "image": {
+        "small": "/images/catalog/nikon-zf--silver-stone-gray-400.webp",
+        "large": "/images/catalog/nikon-zf--silver-stone-gray-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Nikon Zf full-frame mirrorless camera body in Silver/Stone Gray, front view without lens"
+       }
+      },
+      {
+       "label": "Silver/Sepia Brown",
+       "image": {
+        "small": "/images/catalog/nikon-zf--silver-sepia-brown-400.webp",
+        "large": "/images/catalog/nikon-zf--silver-sepia-brown-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Nikon Zf full-frame mirrorless camera body in Silver/Sepia Brown, front view without lens"
+       }
       }
      ]
     }
@@ -515,7 +689,8 @@
     "autofocus": "Intelligent Hybrid AF (phase + contrast detection) with subject detection",
     "battery": "NP-W235 Li-ion",
     "weightG": 557,
-    "configurations": "Body only – Black or Silver – $1,999.95 · XF16-50mm kit – Black or Silver – $2,199.95 · XF16-80mm kit – Black or Silver – $2,499.95"
+    "configurations": "Body only – Black or Silver – $1,999.95 · XF16-50mm kit – Black or Silver – $2,199.95 · XF16-80mm kit – Black or Silver – $2,499.95",
+    "colors": "Black, Silver"
    },
    "options": [
     {
@@ -533,6 +708,32 @@
       {
        "label": "XF16-80mm kit – Black or Silver",
        "price": "2499.95"
+      }
+     ]
+    },
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Black",
+       "default": true,
+       "image": {
+        "small": "/images/catalog/fujifilm-x-t5--black-400.webp",
+        "large": "/images/catalog/fujifilm-x-t5--black-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "FUJIFILM X-T5 camera body in Black, front view"
+       }
+      },
+      {
+       "label": "Silver",
+       "image": {
+        "small": "/images/catalog/fujifilm-x-t5--silver-400.webp",
+        "large": "/images/catalog/fujifilm-x-t5--silver-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "FUJIFILM X-T5 camera body in Silver, front view"
+       }
       }
      ]
     }
@@ -567,7 +768,8 @@
     "autofocus": "Intelligent Hybrid AF (phase + contrast detection) with subject detection",
     "battery": "NP-W126S Li-ion",
     "weightG": 438,
-    "configurations": "Body only – Black, Silver or Charcoal Silver – $1,599.95 · XC15-45mm kit – $1,699.95 · XF16-50mm kit – $1,999.95"
+    "configurations": "Body only – Black, Silver or Charcoal Silver – $1,599.95 · XC15-45mm kit – $1,699.95 · XF16-50mm kit – $1,999.95",
+    "colors": "Black, Silver, Charcoal Silver"
    },
    "options": [
     {
@@ -585,6 +787,42 @@
       {
        "label": "XF16-50mm kit",
        "price": "1999.95"
+      }
+     ]
+    },
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Black",
+       "default": true,
+       "image": {
+        "small": "/images/catalog/fujifilm-x-t50--black-400.webp",
+        "large": "/images/catalog/fujifilm-x-t50--black-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "FUJIFILM X-T50 camera body in Black, front view"
+       }
+      },
+      {
+       "label": "Silver",
+       "image": {
+        "small": "/images/catalog/fujifilm-x-t50--silver-400.webp",
+        "large": "/images/catalog/fujifilm-x-t50--silver-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "FUJIFILM X-T50 camera body in Silver, front view"
+       }
+      },
+      {
+       "label": "Charcoal Silver",
+       "image": {
+        "small": "/images/catalog/fujifilm-x-t50--charcoal-silver-400.webp",
+        "large": "/images/catalog/fujifilm-x-t50--charcoal-silver-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "FUJIFILM X-T50 camera body in Charcoal Silver, front view"
+       }
       }
      ]
     }
@@ -619,7 +857,8 @@
     "autofocus": "Intelligent Hybrid AF (phase + contrast detection) with subject detection",
     "battery": "NP-W126S Li-ion",
     "weightG": 445,
-    "configurations": "Body only – Black or Silver – $1,699.95 · XF23mmF2.8 R WR kit – $1,899.95"
+    "configurations": "Body only – Black or Silver – $1,699.95 · XF23mmF2.8 R WR kit – $1,899.95",
+    "colors": "Silver, Black"
    },
    "options": [
     {
@@ -633,6 +872,32 @@
       {
        "label": "XF23mmF2.8 R WR kit",
        "price": "1899.95"
+      }
+     ]
+    },
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Silver",
+       "default": true,
+       "image": {
+        "small": "/images/catalog/fujifilm-x-e5--silver-400.webp",
+        "large": "/images/catalog/fujifilm-x-e5--silver-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "FUJIFILM X-E5 camera body in Silver, front view"
+       }
+      },
+      {
+       "label": "Black",
+       "image": {
+        "small": "/images/catalog/fujifilm-x-e5--black-400.webp",
+        "large": "/images/catalog/fujifilm-x-e5--black-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "FUJIFILM X-E5 camera body in Black, front view"
+       }
       }
      ]
     }
@@ -667,7 +932,8 @@
     "autofocus": "Intelligent Hybrid AF (phase + contrast detection) with subject detection",
     "battery": "NP-W126S Li-ion",
     "weightG": 355,
-    "configurations": "Body only – Black or Silver – $899.95 · XC15-45mm kit – $999.95"
+    "configurations": "Body only – Black or Silver – $899.95 · XC15-45mm kit – $999.95",
+    "colors": "Black, Silver"
    },
    "options": [
     {
@@ -681,6 +947,32 @@
       {
        "label": "XC15-45mm kit",
        "price": "999.95"
+      }
+     ]
+    },
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Black",
+       "default": true,
+       "image": {
+        "small": "/images/catalog/fujifilm-x-m5--black-400.webp",
+        "large": "/images/catalog/fujifilm-x-m5--black-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "FUJIFILM X-M5 camera body in Black, front view"
+       }
+      },
+      {
+       "label": "Silver",
+       "image": {
+        "small": "/images/catalog/fujifilm-x-m5--silver-400.webp",
+        "large": "/images/catalog/fujifilm-x-m5--silver-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "FUJIFILM X-M5 camera body in Silver, front view"
+       }
       }
      ]
     }
@@ -715,7 +1007,8 @@
     "autofocus": "Intelligent Hybrid AF (phase + contrast detection) with subject detection",
     "battery": "NP-W126S Li-ion",
     "weightG": 521,
-    "configurations": "Silver – $1,799.95 · Black – $1,799.95"
+    "configurations": "Silver – $1,799.95 · Black – $1,799.95",
+    "colors": "Silver, Black"
    },
    "options": [
     {
@@ -729,6 +1022,32 @@
       {
        "label": "Black",
        "price": "1799.95"
+      }
+     ]
+    },
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Silver",
+       "default": true,
+       "image": {
+        "small": "/images/catalog/fujifilm-x100vi--silver-400.webp",
+        "large": "/images/catalog/fujifilm-x100vi--silver-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "FUJIFILM X100VI camera body in Silver, front view"
+       }
+      },
+      {
+       "label": "Black",
+       "image": {
+        "small": "/images/catalog/fujifilm-x100vi--black-400.webp",
+        "large": "/images/catalog/fujifilm-x100vi--black-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "FUJIFILM X100VI camera body in Black, front view"
+       }
       }
      ]
     }
@@ -798,7 +1117,8 @@
     "autofocus": "Intelligent Hybrid AF (phase + contrast detection) with subject detection",
     "battery": "NP-W235 Li-ion",
     "weightG": 735,
-    "configurations": "Black – $5,599.95 · Silver – $5,599.95"
+    "configurations": "Black – $5,599.95 · Silver – $5,599.95",
+    "colors": "Black, Silver"
    },
    "options": [
     {
@@ -812,6 +1132,32 @@
       {
        "label": "Silver",
        "price": "5599.95"
+      }
+     ]
+    },
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Black",
+       "default": true,
+       "image": {
+        "small": "/images/catalog/fujifilm-gfx100rf--black-400.webp",
+        "large": "/images/catalog/fujifilm-gfx100rf--black-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "FUJIFILM GFX100RF camera body in Black, front view"
+       }
+      },
+      {
+       "label": "Silver",
+       "image": {
+        "small": "/images/catalog/fujifilm-gfx100rf--silver-400.webp",
+        "large": "/images/catalog/fujifilm-gfx100rf--silver-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "FUJIFILM GFX100RF camera body in Silver, front view"
+       }
       }
      ]
     }
@@ -1030,7 +1376,8 @@
     "stabilization": "5-axis body I.S. (5 stops), Dual I.S. 2 (6.5 stops), Active I.S.",
     "autofocus": "Phase detection + contrast AF with human/animal/car/motorcycle detection",
     "weightG": 486,
-    "configurations": "Body only – Jet Black or Night Blue – $1,497.99 · 18-40mm kit – Jet Black, Night Blue, Dark Olive or Crimson Red – $1,797.99 · 40mm F2 kit – Jet Black – $1,797.99"
+    "configurations": "Body only – Jet Black or Night Blue – $1,497.99 · 18-40mm kit – Jet Black, Night Blue, Dark Olive or Crimson Red – $1,797.99 · 40mm F2 kit – Jet Black – $1,797.99",
+    "colors": "Jet Black, Night Blue, Dark Olive, Crimson Red, Titanium Gold, Titanium Gold w/Black Leather, White / Silver, Black / Silver"
    },
    "options": [
     {
@@ -1048,6 +1395,92 @@
       {
        "label": "40mm F2 kit – Jet Black",
        "price": "1797.99"
+      }
+     ]
+    },
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Jet Black",
+       "default": true,
+       "image": {
+        "small": "/images/catalog/panasonic-lumix-s9--jet-black-400.webp",
+        "large": "/images/catalog/panasonic-lumix-s9--jet-black-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Panasonic LUMIX S9 in Jet Black with 18-40mm kit lens, straight-on front view"
+       }
+      },
+      {
+       "label": "Night Blue",
+       "image": {
+        "small": "/images/catalog/panasonic-lumix-s9--night-blue-400.webp",
+        "large": "/images/catalog/panasonic-lumix-s9--night-blue-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Panasonic LUMIX S9 in Night Blue with kit lens, straight-on front view"
+       }
+      },
+      {
+       "label": "Dark Olive",
+       "image": {
+        "small": "/images/catalog/panasonic-lumix-s9--dark-olive-400.webp",
+        "large": "/images/catalog/panasonic-lumix-s9--dark-olive-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Panasonic LUMIX S9 in Dark Olive with kit lens, straight-on front view"
+       }
+      },
+      {
+       "label": "Crimson Red",
+       "image": {
+        "small": "/images/catalog/panasonic-lumix-s9--crimson-red-400.webp",
+        "large": "/images/catalog/panasonic-lumix-s9--crimson-red-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Panasonic LUMIX S9 in Crimson Red with kit lens, straight-on front view"
+       }
+      },
+      {
+       "label": "Titanium Gold",
+       "image": {
+        "small": "/images/catalog/panasonic-lumix-s9--titanium-gold-400.webp",
+        "large": "/images/catalog/panasonic-lumix-s9--titanium-gold-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Panasonic LUMIX S9 in Titanium Gold with brown leatherette and 18-40mm lens, front view"
+       }
+      },
+      {
+       "label": "Titanium Gold w/Black Leather",
+       "image": {
+        "small": "/images/catalog/panasonic-lumix-s9--titanium-gold-w-black-leather-400.webp",
+        "large": "/images/catalog/panasonic-lumix-s9--titanium-gold-w-black-leather-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Panasonic LUMIX S9 in Titanium Gold with black leatherette and 18-40mm lens, front view"
+       }
+      },
+      {
+       "label": "White / Silver",
+       "image": {
+        "small": "/images/catalog/panasonic-lumix-s9--white-silver-400.webp",
+        "large": "/images/catalog/panasonic-lumix-s9--white-silver-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Panasonic LUMIX S9 in White / Silver with 18-40mm kit lens, front view"
+       }
+      },
+      {
+       "label": "Black / Silver",
+       "image": {
+        "small": "/images/catalog/panasonic-lumix-s9--black-silver-400.webp",
+        "large": "/images/catalog/panasonic-lumix-s9--black-silver-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Panasonic LUMIX S9 in Black / Silver with 18-40mm kit lens, front view"
+       }
       }
      ]
     }

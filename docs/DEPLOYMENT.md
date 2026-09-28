@@ -8,7 +8,7 @@ TrustKart is two deployables:
 | `backend/` | Spring Boot 4 on Java 21, needs PostgreSQL (pg_trgm, pgvector) and Redis | Any container host: Render, Fly.io, Railway, Google Cloud Run… |
 
 Vercel cannot run a JVM service, so the API lives on a container host. The browser still only ever talks to the
-Vercel domain: `frontend/vercel.json` rewrites `/api/*` to the backend. That keeps the auth cookies first-party
+Vercel domain: `vercel.json` rewrites `/api/*` to the backend. That keeps the auth cookies first-party
 (`SameSite=Lax/Strict`, `HttpOnly`, `Secure`), avoids CORS entirely and matches local development, where Vite
 proxies `/api` the same way.
 
@@ -67,9 +67,10 @@ edge, and the real client is in `X-Forwarded-For`. The backend only believes tha
 
 ## 3. Frontend (Vercel)
 
-1. Import the repository in Vercel and set **Root Directory** to `frontend`. Framework, install and build
-   commands come from `frontend/vercel.json` (`npm ci`, `npm run build`, output `dist`).
-2. In `frontend/vercel.json`, replace `https://api.trustkart.example.com` in the `/api/:path*` rewrite with your
+1. Import the repository in Vercel and leave **Root Directory** at the repository root. The root `vercel.json`
+   installs and builds `frontend/` (`npm ci --prefix frontend`, `npm run build --prefix frontend`) and serves
+   `frontend/dist`.
+2. In `vercel.json`, replace `https://api.trustkart.example.com` in the `/api/:path*` rewrite with your
    backend's URL. Rewrites are static configuration; they can't read environment variables.
 3. Deploy. Then set `TRUSTKART_PUBLIC_ORIGIN` and `TRUSTKART_ALLOWED_ORIGINS` on the backend to the Vercel URL
    (or your custom domain) and restart it.
@@ -85,6 +86,9 @@ What `vercel.json` sets up:
   `Cross-Origin-Opener-Policy`, and `frame-ancestors 'none'`. The CSP was checked against the production build on
   the main pages with zero violations.
 - Source maps are generated but not referenced from the bundles (`sourcemap: 'hidden'`).
+
+Until a backend is deployed and the `/api` rewrite points at it, the site loads but every data request fails, so
+the home page shows "The store didn't load".
 
 ## 4. Google sign-in (optional)
 

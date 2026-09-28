@@ -36,19 +36,54 @@
      "values": [
       {
        "label": "Black",
-       "default": true
+       "default": true,
+       "image": {
+        "small": "/images/catalog/sennheiser-momentum-5-wireless--black-400.webp",
+        "large": "/images/catalog/sennheiser-momentum-5-wireless--black-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Sennheiser MOMENTUM 5 Wireless in Black, official product photo on a light background"
+       }
       },
       {
-       "label": "Bronze"
+       "label": "Bronze",
+       "image": {
+        "small": "/images/catalog/sennheiser-momentum-5-wireless--bronze-400.webp",
+        "large": "/images/catalog/sennheiser-momentum-5-wireless--bronze-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Sennheiser MOMENTUM 5 Wireless in Bronze, official product photo on a light background"
+       }
       },
       {
-       "label": "Denim"
+       "label": "Denim",
+       "image": {
+        "small": "/images/catalog/sennheiser-momentum-5-wireless--denim-400.webp",
+        "large": "/images/catalog/sennheiser-momentum-5-wireless--denim-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Sennheiser MOMENTUM 5 Wireless in Denim, official product photo on a light background"
+       }
       },
       {
-       "label": "Lavender"
+       "label": "Lavender",
+       "image": {
+        "small": "/images/catalog/sennheiser-momentum-5-wireless--lavender-400.webp",
+        "large": "/images/catalog/sennheiser-momentum-5-wireless--lavender-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Sennheiser MOMENTUM 5 Wireless in Lavender, official product photo on a light background"
+       }
       },
       {
-       "label": "White"
+       "label": "White",
+       "image": {
+        "small": "/images/catalog/sennheiser-momentum-5-wireless--white-400.webp",
+        "large": "/images/catalog/sennheiser-momentum-5-wireless--white-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Sennheiser MOMENTUM 5 Wireless in White, official product photo on a light background"
+       }
       }
      ]
     }
@@ -91,19 +126,54 @@
      "values": [
       {
        "label": "Copper",
-       "default": true
+       "default": true,
+       "image": {
+        "small": "/images/catalog/sennheiser-momentum-true-wireless-5--copper-400.webp",
+        "large": "/images/catalog/sennheiser-momentum-true-wireless-5--copper-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Sennheiser MOMENTUM True Wireless 5 in Copper, official product photo on a light background"
+       }
       },
       {
-       "label": "Cream"
+       "label": "Cream",
+       "image": {
+        "small": "/images/catalog/sennheiser-momentum-true-wireless-5--cream-400.webp",
+        "large": "/images/catalog/sennheiser-momentum-true-wireless-5--cream-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Sennheiser MOMENTUM True Wireless 5 in Cream, official product photo on a light background"
+       }
       },
       {
-       "label": "Denim"
+       "label": "Denim",
+       "image": {
+        "small": "/images/catalog/sennheiser-momentum-true-wireless-5--denim-400.webp",
+        "large": "/images/catalog/sennheiser-momentum-true-wireless-5--denim-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Sennheiser MOMENTUM True Wireless 5 in Denim, official product photo on a light background"
+       }
       },
       {
-       "label": "Graphite"
+       "label": "Graphite",
+       "image": {
+        "small": "/images/catalog/sennheiser-momentum-true-wireless-5--graphite-400.webp",
+        "large": "/images/catalog/sennheiser-momentum-true-wireless-5--graphite-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Sennheiser MOMENTUM True Wireless 5 in Graphite, official product photo on a light background"
+       }
       },
       {
-       "label": "Lavender"
+       "label": "Lavender",
+       "image": {
+        "small": "/images/catalog/sennheiser-momentum-true-wireless-5--lavender-400.webp",
+        "large": "/images/catalog/sennheiser-momentum-true-wireless-5--lavender-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Sennheiser MOMENTUM True Wireless 5 in Lavender, official product photo on a light background"
+       }
       }
      ]
     }
@@ -205,10 +275,24 @@
      "values": [
       {
        "label": "Black",
-       "default": true
+       "default": true,
+       "image": {
+        "small": "/images/catalog/sennheiser-hdb-630--black-400.webp",
+        "large": "/images/catalog/sennheiser-hdb-630--black-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Sennheiser HDB 630 in Black, official product photo on a light background"
+       }
       },
       {
-       "label": "Lunar Silver"
+       "label": "Lunar Silver",
+       "image": {
+        "small": "/images/catalog/sennheiser-hdb-630--lunar-silver-400.webp",
+        "large": "/images/catalog/sennheiser-hdb-630--lunar-silver-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Sennheiser HDB 630 in Lunar Silver, official product photo on a light background"
+       }
       }
      ]
     }
@@ -240,7 +324,7 @@
     "batteryHours": 30,
     "weightG": 264,
     "connectionDetails": "Bluetooth 5.4, USB-C audio",
-    "colors": "Black, White Smoke, Cherry Chocolate, Olive Green"
+    "colors": "Black, White Smoke, Cherry Chocolate, Olive Green, Desert Gold, Midnight Violet, Driftwood Sand"
    },
    "options": [
     {
@@ -248,16 +332,74 @@
      "values": [
       {
        "label": "Black",
-       "default": true
+       "default": true,
+       "image": {
+        "small": "/images/catalog/bose-quietcomfort-ultra-headphones-2nd-gen--black-400.webp",
+        "large": "/images/catalog/bose-quietcomfort-ultra-headphones-2nd-gen--black-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Bose QuietComfort Ultra Headphones (2nd Gen) in Black, official product photo on a light background"
+       }
       },
       {
-       "label": "White Smoke"
+       "label": "White Smoke",
+       "image": {
+        "small": "/images/catalog/bose-quietcomfort-ultra-headphones-2nd-gen--white-smoke-400.webp",
+        "large": "/images/catalog/bose-quietcomfort-ultra-headphones-2nd-gen--white-smoke-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Bose QuietComfort Ultra Headphones (2nd Gen) in White Smoke, official product photo on a light background"
+       }
       },
       {
-       "label": "Cherry Chocolate"
+       "label": "Cherry Chocolate",
+       "image": {
+        "small": "/images/catalog/bose-quietcomfort-ultra-headphones-2nd-gen--cherry-chocolate-400.webp",
+        "large": "/images/catalog/bose-quietcomfort-ultra-headphones-2nd-gen--cherry-chocolate-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Bose QuietComfort Ultra Headphones (2nd Gen) in Cherry Chocolate, official product photo on a light background"
+       }
       },
       {
-       "label": "Olive Green"
+       "label": "Olive Green",
+       "image": {
+        "small": "/images/catalog/bose-quietcomfort-ultra-headphones-2nd-gen--olive-green-400.webp",
+        "large": "/images/catalog/bose-quietcomfort-ultra-headphones-2nd-gen--olive-green-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Bose QuietComfort Ultra Headphones (2nd Gen) in Olive Green, official product photo on a light background"
+       }
+      },
+      {
+       "label": "Desert Gold",
+       "image": {
+        "small": "/images/catalog/bose-quietcomfort-ultra-headphones-2nd-gen--desert-gold-400.webp",
+        "large": "/images/catalog/bose-quietcomfort-ultra-headphones-2nd-gen--desert-gold-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Bose QuietComfort Ultra Headphones (2nd Gen) in Desert Gold, official product photo on a light background"
+       }
+      },
+      {
+       "label": "Midnight Violet",
+       "image": {
+        "small": "/images/catalog/bose-quietcomfort-ultra-headphones-2nd-gen--midnight-violet-400.webp",
+        "large": "/images/catalog/bose-quietcomfort-ultra-headphones-2nd-gen--midnight-violet-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Bose QuietComfort Ultra Headphones (2nd Gen) in Midnight Violet, official product photo on a light background"
+       }
+      },
+      {
+       "label": "Driftwood Sand",
+       "image": {
+        "small": "/images/catalog/bose-quietcomfort-ultra-headphones-2nd-gen--driftwood-sand-400.webp",
+        "large": "/images/catalog/bose-quietcomfort-ultra-headphones-2nd-gen--driftwood-sand-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Bose QuietComfort Ultra Headphones (2nd Gen) in Driftwood Sand, official product photo on a light background"
+       }
       }
      ]
     }
@@ -289,7 +431,7 @@
     "batteryHours": 24,
     "codecs": "Lossless up to 24-bit/48 kHz",
     "connectionDetails": "Bluetooth 5.4, Bluetooth Low Energy, USB-C (cables included)",
-    "colors": "Black, White Smoke"
+    "colors": "Black, White Smoke, Rosewood Mauve, Dewdrop Mint, Eucalyptus Green"
    },
    "options": [
     {
@@ -297,10 +439,54 @@
      "values": [
       {
        "label": "Black",
-       "default": true
+       "default": true,
+       "image": {
+        "small": "/images/catalog/bose-quietcomfort-headphones-2nd-gen--black-400.webp",
+        "large": "/images/catalog/bose-quietcomfort-headphones-2nd-gen--black-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Bose QuietComfort Headphones (2nd Gen) in Black, official product photo on a light background"
+       }
       },
       {
-       "label": "White Smoke"
+       "label": "White Smoke",
+       "image": {
+        "small": "/images/catalog/bose-quietcomfort-headphones-2nd-gen--white-smoke-400.webp",
+        "large": "/images/catalog/bose-quietcomfort-headphones-2nd-gen--white-smoke-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Bose QuietComfort Headphones (2nd Gen) in White Smoke, official product photo on a light background"
+       }
+      },
+      {
+       "label": "Rosewood Mauve",
+       "image": {
+        "small": "/images/catalog/bose-quietcomfort-headphones-2nd-gen--rosewood-mauve-400.webp",
+        "large": "/images/catalog/bose-quietcomfort-headphones-2nd-gen--rosewood-mauve-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Bose QuietComfort Headphones (2nd Gen) in Rosewood Mauve, official product photo on a light background"
+       }
+      },
+      {
+       "label": "Dewdrop Mint",
+       "image": {
+        "small": "/images/catalog/bose-quietcomfort-headphones-2nd-gen--dewdrop-mint-400.webp",
+        "large": "/images/catalog/bose-quietcomfort-headphones-2nd-gen--dewdrop-mint-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Bose QuietComfort Headphones (2nd Gen) in Dewdrop Mint, official product photo on a light background"
+       }
+      },
+      {
+       "label": "Eucalyptus Green",
+       "image": {
+        "small": "/images/catalog/bose-quietcomfort-headphones-2nd-gen--eucalyptus-green-400.webp",
+        "large": "/images/catalog/bose-quietcomfort-headphones-2nd-gen--eucalyptus-green-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Bose QuietComfort Headphones (2nd Gen) in Eucalyptus Green, official product photo on a light background"
+       }
       }
      ]
     }
@@ -332,7 +518,7 @@
     "batteryHours": 6,
     "waterResistance": "IPX4",
     "connectionDetails": "Bluetooth 5.3 with multipoint",
-    "colors": "Black, White Smoke, Deep Plum"
+    "colors": "Black, White Smoke, Deep Plum, Midnight Violet, Desert Gold"
    },
    "options": [
     {
@@ -340,13 +526,54 @@
      "values": [
       {
        "label": "Black",
-       "default": true
+       "default": true,
+       "image": {
+        "small": "/images/catalog/bose-quietcomfort-ultra-earbuds-2nd-gen--black-400.webp",
+        "large": "/images/catalog/bose-quietcomfort-ultra-earbuds-2nd-gen--black-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Bose QuietComfort Ultra Earbuds (2nd Gen) in Black, official product photo on a light background"
+       }
       },
       {
-       "label": "White Smoke"
+       "label": "White Smoke",
+       "image": {
+        "small": "/images/catalog/bose-quietcomfort-ultra-earbuds-2nd-gen--white-smoke-400.webp",
+        "large": "/images/catalog/bose-quietcomfort-ultra-earbuds-2nd-gen--white-smoke-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Bose QuietComfort Ultra Earbuds (2nd Gen) in White Smoke, official product photo on a light background"
+       }
       },
       {
-       "label": "Deep Plum"
+       "label": "Deep Plum",
+       "image": {
+        "small": "/images/catalog/bose-quietcomfort-ultra-earbuds-2nd-gen--deep-plum-400.webp",
+        "large": "/images/catalog/bose-quietcomfort-ultra-earbuds-2nd-gen--deep-plum-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Bose QuietComfort Ultra Earbuds (2nd Gen) in Deep Plum, official product photo on a light background"
+       }
+      },
+      {
+       "label": "Midnight Violet",
+       "image": {
+        "small": "/images/catalog/bose-quietcomfort-ultra-earbuds-2nd-gen--midnight-violet-400.webp",
+        "large": "/images/catalog/bose-quietcomfort-ultra-earbuds-2nd-gen--midnight-violet-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Bose QuietComfort Ultra Earbuds (2nd Gen) in Midnight Violet, official product photo on a light background"
+       }
+      },
+      {
+       "label": "Desert Gold",
+       "image": {
+        "small": "/images/catalog/bose-quietcomfort-ultra-earbuds-2nd-gen--desert-gold-400.webp",
+        "large": "/images/catalog/bose-quietcomfort-ultra-earbuds-2nd-gen--desert-gold-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Bose QuietComfort Ultra Earbuds (2nd Gen) in Desert Gold, official product photo on a light background"
+       }
       }
      ]
     }
@@ -386,16 +613,44 @@
      "values": [
       {
        "label": "Black",
-       "default": true
+       "default": true,
+       "image": {
+        "small": "/images/catalog/bose-ultra-open-earbuds-2nd-gen--black-400.webp",
+        "large": "/images/catalog/bose-ultra-open-earbuds-2nd-gen--black-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Bose Ultra Open Earbuds (2nd Gen) in Black, official product photo on a light background"
+       }
       },
       {
-       "label": "White Smoke"
+       "label": "White Smoke",
+       "image": {
+        "small": "/images/catalog/bose-ultra-open-earbuds-2nd-gen--white-smoke-400.webp",
+        "large": "/images/catalog/bose-ultra-open-earbuds-2nd-gen--white-smoke-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Bose Ultra Open Earbuds (2nd Gen) in White Smoke, official product photo on a light background"
+       }
       },
       {
-       "label": "Cherry Chocolate"
+       "label": "Cherry Chocolate",
+       "image": {
+        "small": "/images/catalog/bose-ultra-open-earbuds-2nd-gen--cherry-chocolate-400.webp",
+        "large": "/images/catalog/bose-ultra-open-earbuds-2nd-gen--cherry-chocolate-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Bose Ultra Open Earbuds (2nd Gen) in Cherry Chocolate, official product photo on a light background"
+       }
       },
       {
-       "label": "Olive Green"
+       "label": "Olive Green",
+       "image": {
+        "small": "/images/catalog/bose-ultra-open-earbuds-2nd-gen--olive-green-400.webp",
+        "large": "/images/catalog/bose-ultra-open-earbuds-2nd-gen--olive-green-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Bose Ultra Open Earbuds (2nd Gen) in Olive Green, official product photo on a light background"
+       }
       }
      ]
     }
@@ -426,9 +681,36 @@
     "channels": "5.1.2",
     "weightG": 6500,
     "connectionDetails": "HDMI eARC, Wi-Fi, Bluetooth 5.3, AirPlay 2, Google Cast, Spotify Connect",
-    "colors": "Black"
+    "colors": "Black, White Smoke"
    },
-   "options": []
+   "options": [
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Black",
+       "default": true,
+       "image": {
+        "small": "/images/catalog/bose-lifestyle-ultra-soundbar--black-400.webp",
+        "large": "/images/catalog/bose-lifestyle-ultra-soundbar--black-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Bose Lifestyle Ultra Soundbar in Black, official product photo on a light background"
+       }
+      },
+      {
+       "label": "White Smoke",
+       "image": {
+        "small": "/images/catalog/bose-lifestyle-ultra-soundbar--white-smoke-400.webp",
+        "large": "/images/catalog/bose-lifestyle-ultra-soundbar--white-smoke-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Bose Lifestyle Ultra Soundbar in White Smoke, official product photo on a light background"
+       }
+      }
+     ]
+    }
+   ]
   },
   {
    "sku": "TK-BOSE-SOUNDLINK-MAX",
@@ -457,7 +739,7 @@
     "channels": "Stereo",
     "weightG": 2223,
     "connectionDetails": "Bluetooth 5.4, USB-C in/out",
-    "colors": "Black, Blue Dusk"
+    "colors": "Black, Blue Dusk, Citrus Yellow"
    },
    "options": [
     {
@@ -465,10 +747,34 @@
      "values": [
       {
        "label": "Black",
-       "default": true
+       "default": true,
+       "image": {
+        "small": "/images/catalog/bose-soundlink-max--black-400.webp",
+        "large": "/images/catalog/bose-soundlink-max--black-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Bose SoundLink Max Portable Speaker in Black, official product photo on a light background"
+       }
       },
       {
-       "label": "Blue Dusk"
+       "label": "Blue Dusk",
+       "image": {
+        "small": "/images/catalog/bose-soundlink-max--blue-dusk-400.webp",
+        "large": "/images/catalog/bose-soundlink-max--blue-dusk-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Bose SoundLink Max Portable Speaker in Blue Dusk, official product photo on a light background"
+       }
+      },
+      {
+       "label": "Citrus Yellow",
+       "image": {
+        "small": "/images/catalog/bose-soundlink-max--citrus-yellow-400.webp",
+        "large": "/images/catalog/bose-soundlink-max--citrus-yellow-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Bose SoundLink Max Portable Speaker in Citrus Yellow, official product photo on a light background"
+       }
       }
      ]
     }
@@ -501,7 +807,7 @@
     "channels": "Mono",
     "weightG": 1530,
     "connectionDetails": "Bluetooth, USB-C in/out",
-    "colors": "Black, Blue Dusk, Sunset Peach"
+    "colors": "Black, Blue Dusk, Sunset Peach, Citrus Yellow"
    },
    "options": [
     {
@@ -509,13 +815,44 @@
      "values": [
       {
        "label": "Black",
-       "default": true
+       "default": true,
+       "image": {
+        "small": "/images/catalog/bose-soundlink-plus--black-400.webp",
+        "large": "/images/catalog/bose-soundlink-plus--black-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Bose SoundLink Plus Portable Speaker in Black, official product photo on a light background"
+       }
       },
       {
-       "label": "Blue Dusk"
+       "label": "Blue Dusk",
+       "image": {
+        "small": "/images/catalog/bose-soundlink-plus--blue-dusk-400.webp",
+        "large": "/images/catalog/bose-soundlink-plus--blue-dusk-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Bose SoundLink Plus Portable Speaker in Blue Dusk, official product photo on a light background"
+       }
       },
       {
-       "label": "Sunset Peach"
+       "label": "Sunset Peach",
+       "image": {
+        "small": "/images/catalog/bose-soundlink-plus--sunset-peach-400.webp",
+        "large": "/images/catalog/bose-soundlink-plus--sunset-peach-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Bose SoundLink Plus Portable Speaker in Sunset Peach, official product photo on a light background"
+       }
+      },
+      {
+       "label": "Citrus Yellow",
+       "image": {
+        "small": "/images/catalog/bose-soundlink-plus--citrus-yellow-400.webp",
+        "large": "/images/catalog/bose-soundlink-plus--citrus-yellow-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Bose SoundLink Plus Portable Speaker in Citrus Yellow, official product photo on a light background"
+       }
       }
      ]
     }
@@ -548,7 +885,7 @@
     "channels": "Mono",
     "weightG": 586,
     "connectionDetails": "Bluetooth 5.3, USB-C charging",
-    "colors": "Black, Blue Dusk, Dewdrop Mint, Rosewood Mauve, Petal Pink"
+    "colors": "Black, Blue Dusk, Dewdrop Mint, Rosewood Mauve, Petal Pink, Sandstone, Sunset Peach, Citrus Yellow, Fog Grey"
    },
    "options": [
     {
@@ -556,19 +893,94 @@
      "values": [
       {
        "label": "Black",
-       "default": true
+       "default": true,
+       "image": {
+        "small": "/images/catalog/bose-soundlink-flex-2nd-gen--black-400.webp",
+        "large": "/images/catalog/bose-soundlink-flex-2nd-gen--black-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Bose SoundLink Flex Portable Speaker (2nd Gen) in Black, official product photo on a light background"
+       }
       },
       {
-       "label": "Blue Dusk"
+       "label": "Blue Dusk",
+       "image": {
+        "small": "/images/catalog/bose-soundlink-flex-2nd-gen--blue-dusk-400.webp",
+        "large": "/images/catalog/bose-soundlink-flex-2nd-gen--blue-dusk-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Bose SoundLink Flex Portable Speaker (2nd Gen) in Blue Dusk, official product photo on a light background"
+       }
       },
       {
-       "label": "Dewdrop Mint"
+       "label": "Dewdrop Mint",
+       "image": {
+        "small": "/images/catalog/bose-soundlink-flex-2nd-gen--dewdrop-mint-400.webp",
+        "large": "/images/catalog/bose-soundlink-flex-2nd-gen--dewdrop-mint-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Bose SoundLink Flex Portable Speaker (2nd Gen) in Dewdrop Mint, official product photo on a light background"
+       }
       },
       {
-       "label": "Rosewood Mauve"
+       "label": "Rosewood Mauve",
+       "image": {
+        "small": "/images/catalog/bose-soundlink-flex-2nd-gen--rosewood-mauve-400.webp",
+        "large": "/images/catalog/bose-soundlink-flex-2nd-gen--rosewood-mauve-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Bose SoundLink Flex Portable Speaker (2nd Gen) in Rosewood Mauve, official product photo on a light background"
+       }
       },
       {
-       "label": "Petal Pink"
+       "label": "Petal Pink",
+       "image": {
+        "small": "/images/catalog/bose-soundlink-flex-2nd-gen--petal-pink-400.webp",
+        "large": "/images/catalog/bose-soundlink-flex-2nd-gen--petal-pink-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Bose SoundLink Flex Portable Speaker (2nd Gen) in Petal Pink, official product photo on a light background"
+       }
+      },
+      {
+       "label": "Sandstone",
+       "image": {
+        "small": "/images/catalog/bose-soundlink-flex-2nd-gen--sandstone-400.webp",
+        "large": "/images/catalog/bose-soundlink-flex-2nd-gen--sandstone-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Bose SoundLink Flex Portable Speaker (2nd Gen) in Sandstone, official product photo on a light background"
+       }
+      },
+      {
+       "label": "Sunset Peach",
+       "image": {
+        "small": "/images/catalog/bose-soundlink-flex-2nd-gen--sunset-peach-400.webp",
+        "large": "/images/catalog/bose-soundlink-flex-2nd-gen--sunset-peach-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Bose SoundLink Flex Portable Speaker (2nd Gen) in Sunset Peach, official product photo on a light background"
+       }
+      },
+      {
+       "label": "Citrus Yellow",
+       "image": {
+        "small": "/images/catalog/bose-soundlink-flex-2nd-gen--citrus-yellow-400.webp",
+        "large": "/images/catalog/bose-soundlink-flex-2nd-gen--citrus-yellow-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Bose SoundLink Flex Portable Speaker (2nd Gen) in Citrus Yellow, official product photo on a light background"
+       }
+      },
+      {
+       "label": "Fog Grey",
+       "image": {
+        "small": "/images/catalog/bose-soundlink-flex-2nd-gen--fog-grey-400.webp",
+        "large": "/images/catalog/bose-soundlink-flex-2nd-gen--fog-grey-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Bose SoundLink Flex Portable Speaker (2nd Gen) in Fog Grey, official product photo on a light background"
+       }
       }
      ]
     }
@@ -607,10 +1019,24 @@
      "values": [
       {
        "label": "Black",
-       "default": true
+       "default": true,
+       "image": {
+        "small": "/images/catalog/sonos-beam-ultra--black-400.webp",
+        "large": "/images/catalog/sonos-beam-ultra--black-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Sonos Beam Ultra in Black, official product photo on a light background"
+       }
       },
       {
-       "label": "White"
+       "label": "White",
+       "image": {
+        "small": "/images/catalog/sonos-beam-ultra--white-400.webp",
+        "large": "/images/catalog/sonos-beam-ultra--white-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Sonos Beam Ultra in White, official product photo on a light background"
+       }
       }
      ]
     }
@@ -649,10 +1075,24 @@
      "values": [
       {
        "label": "Black",
-       "default": true
+       "default": true,
+       "image": {
+        "small": "/images/catalog/sonos-arc-ultra--black-400.webp",
+        "large": "/images/catalog/sonos-arc-ultra--black-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Sonos Arc Ultra in Black, official product photo on a light background"
+       }
       },
       {
-       "label": "White"
+       "label": "White",
+       "image": {
+        "small": "/images/catalog/sonos-arc-ultra--white-400.webp",
+        "large": "/images/catalog/sonos-arc-ultra--white-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Sonos Arc Ultra in White, official product photo on a light background"
+       }
       }
      ]
     }
@@ -690,10 +1130,24 @@
      "values": [
       {
        "label": "Black",
-       "default": true
+       "default": true,
+       "image": {
+        "small": "/images/catalog/sonos-sub-4--black-400.webp",
+        "large": "/images/catalog/sonos-sub-4--black-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Sonos Sub 4 in Black, official product photo on a light background"
+       }
       },
       {
-       "label": "White"
+       "label": "White",
+       "image": {
+        "small": "/images/catalog/sonos-sub-4--white-400.webp",
+        "large": "/images/catalog/sonos-sub-4--white-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Sonos Sub 4 in White, official product photo on a light background"
+       }
       }
      ]
     }
@@ -732,10 +1186,24 @@
      "values": [
       {
        "label": "Black",
-       "default": true
+       "default": true,
+       "image": {
+        "small": "/images/catalog/sonos-era-300--black-400.webp",
+        "large": "/images/catalog/sonos-era-300--black-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Sonos Era 300 in Black, official product photo on a light background"
+       }
       },
       {
-       "label": "White"
+       "label": "White",
+       "image": {
+        "small": "/images/catalog/sonos-era-300--white-400.webp",
+        "large": "/images/catalog/sonos-era-300--white-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Sonos Era 300 in White, official product photo on a light background"
+       }
       }
      ]
     }
@@ -773,10 +1241,24 @@
      "values": [
       {
        "label": "Black",
-       "default": true
+       "default": true,
+       "image": {
+        "small": "/images/catalog/sonos-era-100-sl--black-400.webp",
+        "large": "/images/catalog/sonos-era-100-sl--black-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Sonos Era 100 SL in Black, official product photo on a light background"
+       }
       },
       {
-       "label": "White"
+       "label": "White",
+       "image": {
+        "small": "/images/catalog/sonos-era-100-sl--white-400.webp",
+        "large": "/images/catalog/sonos-era-100-sl--white-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Sonos Era 100 SL in White, official product photo on a light background"
+       }
       }
      ]
     }
@@ -816,10 +1298,24 @@
      "values": [
       {
        "label": "Black",
-       "default": true
+       "default": true,
+       "image": {
+        "small": "/images/catalog/sonos-play--black-400.webp",
+        "large": "/images/catalog/sonos-play--black-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Sonos Play in Black, official product photo on a light background"
+       }
       },
       {
-       "label": "White"
+       "label": "White",
+       "image": {
+        "small": "/images/catalog/sonos-play--white-400.webp",
+        "large": "/images/catalog/sonos-play--white-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Sonos Play in White, official product photo on a light background"
+       }
       }
      ]
     }
@@ -1167,16 +1663,44 @@
      "values": [
       {
        "label": "Carbon Black",
-       "default": true
+       "default": true,
+       "image": {
+        "small": "/images/catalog/kef-ls50-wireless-ii--carbon-black-400.webp",
+        "large": "/images/catalog/kef-ls50-wireless-ii--carbon-black-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "KEF LS50 Wireless II in Carbon Black, official product photo on a light background"
+       }
       },
       {
-       "label": "Mineral White"
+       "label": "Mineral White",
+       "image": {
+        "small": "/images/catalog/kef-ls50-wireless-ii--mineral-white-400.webp",
+        "large": "/images/catalog/kef-ls50-wireless-ii--mineral-white-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "KEF LS50 Wireless II in Mineral White, official product photo on a light background"
+       }
       },
       {
-       "label": "Sand Shell"
+       "label": "Sand Shell",
+       "image": {
+        "small": "/images/catalog/kef-ls50-wireless-ii--sand-shell-400.webp",
+        "large": "/images/catalog/kef-ls50-wireless-ii--sand-shell-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "KEF LS50 Wireless II in Sand Shell, official product photo on a light background"
+       }
       },
       {
-       "label": "Moss Green"
+       "label": "Moss Green",
+       "image": {
+        "small": "/images/catalog/kef-ls50-wireless-ii--moss-green-400.webp",
+        "large": "/images/catalog/kef-ls50-wireless-ii--moss-green-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "KEF LS50 Wireless II in Moss Green, official product photo on a light background"
+       }
       }
      ]
     }
@@ -1216,13 +1740,34 @@
      "values": [
       {
        "label": "Graphite Grey",
-       "default": true
+       "default": true,
+       "image": {
+        "small": "/images/catalog/kef-lsx-ii-lt--graphite-grey-400.webp",
+        "large": "/images/catalog/kef-lsx-ii-lt--graphite-grey-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "KEF LSX II LT in Graphite Grey, official product photo on a light background"
+       }
       },
       {
-       "label": "Sage Green"
+       "label": "Sage Green",
+       "image": {
+        "small": "/images/catalog/kef-lsx-ii-lt--sage-green-400.webp",
+        "large": "/images/catalog/kef-lsx-ii-lt--sage-green-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "KEF LSX II LT in Sage Green, official product photo on a light background"
+       }
       },
       {
-       "label": "Stone White"
+       "label": "Stone White",
+       "image": {
+        "small": "/images/catalog/kef-lsx-ii-lt--stone-white-400.webp",
+        "large": "/images/catalog/kef-lsx-ii-lt--stone-white-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "KEF LSX II LT in Stone White, official product photo on a light background"
+       }
       }
      ]
     }
@@ -1262,10 +1807,24 @@
      "values": [
       {
        "label": "Silver Grey",
-       "default": true
+       "default": true,
+       "image": {
+        "small": "/images/catalog/kef-xio-soundbar--silver-grey-400.webp",
+        "large": "/images/catalog/kef-xio-soundbar--silver-grey-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "KEF XIO Soundbar in Silver Grey, official product photo on a light background"
+       }
       },
       {
-       "label": "Slate Black"
+       "label": "Slate Black",
+       "image": {
+        "small": "/images/catalog/kef-xio-soundbar--slate-black-400.webp",
+        "large": "/images/catalog/kef-xio-soundbar--slate-black-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "KEF XIO Soundbar in Slate Black, official product photo on a light background"
+       }
       }
      ]
     }
@@ -1306,19 +1865,54 @@
      "values": [
       {
        "label": "Vintage Burgundy",
-       "default": true
+       "default": true,
+       "image": {
+        "small": "/images/catalog/kef-coda-w--vintage-burgundy-400.webp",
+        "large": "/images/catalog/kef-coda-w--vintage-burgundy-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "KEF Coda W in Vintage Burgundy, official product photo on a light background"
+       }
       },
       {
-       "label": "Moss Green"
+       "label": "Moss Green",
+       "image": {
+        "small": "/images/catalog/kef-coda-w--moss-green-400.webp",
+        "large": "/images/catalog/kef-coda-w--moss-green-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "KEF Coda W in Moss Green, official product photo on a light background"
+       }
       },
       {
-       "label": "Dark Titanium"
+       "label": "Dark Titanium",
+       "image": {
+        "small": "/images/catalog/kef-coda-w--dark-titanium-400.webp",
+        "large": "/images/catalog/kef-coda-w--dark-titanium-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "KEF Coda W in Dark Titanium, official product photo on a light background"
+       }
       },
       {
-       "label": "Midnight Blue"
+       "label": "Midnight Blue",
+       "image": {
+        "small": "/images/catalog/kef-coda-w--midnight-blue-400.webp",
+        "large": "/images/catalog/kef-coda-w--midnight-blue-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "KEF Coda W in Midnight Blue, official product photo on a light background"
+       }
       },
       {
-       "label": "Nickel Grey"
+       "label": "Nickel Grey",
+       "image": {
+        "small": "/images/catalog/kef-coda-w--nickel-grey-400.webp",
+        "large": "/images/catalog/kef-coda-w--nickel-grey-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "KEF Coda W in Nickel Grey, official product photo on a light background"
+       }
       }
      ]
     }
@@ -1359,10 +1953,24 @@
      "values": [
       {
        "label": "Black",
-       "default": true
+       "default": true,
+       "image": {
+        "small": "/images/catalog/nothing-headphone-1--black-400.webp",
+        "large": "/images/catalog/nothing-headphone-1--black-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Nothing Headphone (1) in Black, official product photo on a light background"
+       }
       },
       {
-       "label": "White"
+       "label": "White",
+       "image": {
+        "small": "/images/catalog/nothing-headphone-1--white-400.webp",
+        "large": "/images/catalog/nothing-headphone-1--white-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Nothing Headphone (1) in White, official product photo on a light background"
+       }
       }
      ]
     }
@@ -1404,10 +2012,24 @@
      "values": [
       {
        "label": "Black",
-       "default": true
+       "default": true,
+       "image": {
+        "small": "/images/catalog/nothing-ear-3--black-400.webp",
+        "large": "/images/catalog/nothing-ear-3--black-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Nothing Ear (3) in Black, official product photo on a light background"
+       }
       },
       {
-       "label": "White"
+       "label": "White",
+       "image": {
+        "small": "/images/catalog/nothing-ear-3--white-400.webp",
+        "large": "/images/catalog/nothing-ear-3--white-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Nothing Ear (3) in White, official product photo on a light background"
+       }
       }
      ]
     }
@@ -1510,16 +2132,44 @@
      "values": [
       {
        "label": "Liquid Black",
-       "default": true
+       "default": true,
+       "image": {
+        "small": "/images/catalog/beyerdynamic-aventho-y--liquid-black-400.webp",
+        "large": "/images/catalog/beyerdynamic-aventho-y--liquid-black-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "beyerdynamic AVENTHO Y in Liquid Black, official product photo on a light background"
+       }
       },
       {
-       "label": "Blue Fusion"
+       "label": "Blue Fusion",
+       "image": {
+        "small": "/images/catalog/beyerdynamic-aventho-y--blue-fusion-400.webp",
+        "large": "/images/catalog/beyerdynamic-aventho-y--blue-fusion-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "beyerdynamic AVENTHO Y in Blue Fusion, official product photo on a light background"
+       }
       },
       {
-       "label": "Peach Blush"
+       "label": "Peach Blush",
+       "image": {
+        "small": "/images/catalog/beyerdynamic-aventho-y--peach-blush-400.webp",
+        "large": "/images/catalog/beyerdynamic-aventho-y--peach-blush-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "beyerdynamic AVENTHO Y in Peach Blush, official product photo on a light background"
+       }
       },
       {
-       "label": "Soft Jade"
+       "label": "Soft Jade",
+       "image": {
+        "small": "/images/catalog/beyerdynamic-aventho-y--soft-jade-400.webp",
+        "large": "/images/catalog/beyerdynamic-aventho-y--soft-jade-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "beyerdynamic AVENTHO Y in Soft Jade, official product photo on a light background"
+       }
       }
      ]
     }
@@ -1558,10 +2208,24 @@
      "values": [
       {
        "label": "Black",
-       "default": true
+       "default": true,
+       "image": {
+        "small": "/images/catalog/rode-podmic-usb--black-400.webp",
+        "large": "/images/catalog/rode-podmic-usb--black-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "RØDE PodMic USB in Black, official product photo on a light background"
+       }
       },
       {
-       "label": "White"
+       "label": "White",
+       "image": {
+        "small": "/images/catalog/rode-podmic-usb--white-400.webp",
+        "large": "/images/catalog/rode-podmic-usb--white-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "RØDE PodMic USB in White, official product photo on a light background"
+       }
       }
      ]
     }
@@ -1629,10 +2293,24 @@
      "values": [
       {
        "label": "Black",
-       "default": true
+       "default": true,
+       "image": {
+        "small": "/images/catalog/rode-nt1-5th-generation--black-400.webp",
+        "large": "/images/catalog/rode-nt1-5th-generation--black-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "RØDE NT1 5th Generation in Black, official product photo on a light background"
+       }
       },
       {
-       "label": "Silver"
+       "label": "Silver",
+       "image": {
+        "small": "/images/catalog/rode-nt1-5th-generation--silver-400.webp",
+        "large": "/images/catalog/rode-nt1-5th-generation--silver-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "RØDE NT1 5th Generation in Silver, official product photo on a light background"
+       }
       }
      ]
     }
@@ -1672,10 +2350,24 @@
      "values": [
       {
        "label": "Black",
-       "default": true
+       "default": true,
+       "image": {
+        "small": "/images/catalog/rode-rodecaster-pro-ii--black-400.webp",
+        "large": "/images/catalog/rode-rodecaster-pro-ii--black-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "RØDE RØDECaster Pro II in Black, official product photo on a light background"
+       }
       },
       {
-       "label": "White"
+       "label": "White",
+       "image": {
+        "small": "/images/catalog/rode-rodecaster-pro-ii--white-400.webp",
+        "large": "/images/catalog/rode-rodecaster-pro-ii--white-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "RØDE RØDECaster Pro II in White, official product photo on a light background"
+       }
       }
      ]
     }

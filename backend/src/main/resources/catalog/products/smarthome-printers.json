@@ -289,10 +289,24 @@
      "values": [
       {
        "label": "Black",
-       "default": true
+       "default": true,
+       "image": {
+        "small": "/images/catalog/epson-ecotank-et-2980--black-400.webp",
+        "large": "/images/catalog/epson-ecotank-et-2980--black-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Epson EcoTank ET-2980 all-in-one supertank printer in Black, head-on view with lid closed"
+       }
       },
       {
-       "label": "White"
+       "label": "White",
+       "image": {
+        "small": "/images/catalog/epson-ecotank-et-2980--white-400.webp",
+        "large": "/images/catalog/epson-ecotank-et-2980--white-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Epson EcoTank ET-2980 all-in-one supertank printer in White, head-on view with lid closed"
+       }
       }
      ]
     }
@@ -335,10 +349,24 @@
      "values": [
       {
        "label": "Black",
-       "default": true
+       "default": true,
+       "image": {
+        "small": "/images/catalog/epson-ecotank-et-4950--black-400.webp",
+        "large": "/images/catalog/epson-ecotank-et-4950--black-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Epson EcoTank ET-4950 all-in-one supertank printer in Black, head-on view"
+       }
       },
       {
-       "label": "White"
+       "label": "White",
+       "image": {
+        "small": "/images/catalog/epson-ecotank-et-4950--white-400.webp",
+        "large": "/images/catalog/epson-ecotank-et-4950--white-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Epson EcoTank ET-4950 all-in-one supertank printer in White, head-on view"
+       }
       }
      ]
     }
@@ -409,16 +437,44 @@
      "values": [
       {
        "label": "Deep Silver",
-       "default": true
+       "default": true,
+       "image": {
+        "small": "/images/catalog/ring-battery-doorbell-4k-pro--deep-silver-400.webp",
+        "large": "/images/catalog/ring-battery-doorbell-4k-pro--deep-silver-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Ring Battery Doorbell 4K Pro in Deep Silver, front view"
+       }
       },
       {
-       "label": "Polished Night Navy"
+       "label": "Polished Night Navy",
+       "image": {
+        "small": "/images/catalog/ring-battery-doorbell-4k-pro--polished-night-navy-400.webp",
+        "large": "/images/catalog/ring-battery-doorbell-4k-pro--polished-night-navy-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Ring Battery Doorbell 4K Pro in Polished Night Navy, front view"
+       }
       },
       {
-       "label": "Polished Mocha"
+       "label": "Polished Mocha",
+       "image": {
+        "small": "/images/catalog/ring-battery-doorbell-4k-pro--polished-mocha-400.webp",
+        "large": "/images/catalog/ring-battery-doorbell-4k-pro--polished-mocha-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Ring Battery Doorbell 4K Pro in Polished Mocha, front view"
+       }
       },
       {
-       "label": "Polished Sandstone"
+       "label": "Polished Sandstone",
+       "image": {
+        "small": "/images/catalog/ring-battery-doorbell-4k-pro--polished-sandstone-400.webp",
+        "large": "/images/catalog/ring-battery-doorbell-4k-pro--polished-sandstone-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Ring Battery Doorbell 4K Pro in Polished Sandstone, front view"
+       }
       }
      ]
     }
@@ -457,16 +513,44 @@
      "values": [
       {
        "label": "Deep Silver",
-       "default": true
+       "default": true,
+       "image": {
+        "small": "/images/catalog/ring-wired-doorbell-4k-pro--deep-silver-400.webp",
+        "large": "/images/catalog/ring-wired-doorbell-4k-pro--deep-silver-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Ring Wired Doorbell 4K Pro in Deep Silver, front view"
+       }
       },
       {
-       "label": "Polished Night Navy"
+       "label": "Polished Night Navy",
+       "image": {
+        "small": "/images/catalog/ring-wired-doorbell-4k-pro--polished-night-navy-400.webp",
+        "large": "/images/catalog/ring-wired-doorbell-4k-pro--polished-night-navy-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Ring Wired Doorbell 4K Pro in Polished Night Navy, front view"
+       }
       },
       {
-       "label": "Polished Mocha"
+       "label": "Polished Mocha",
+       "image": {
+        "small": "/images/catalog/ring-wired-doorbell-4k-pro--polished-mocha-400.webp",
+        "large": "/images/catalog/ring-wired-doorbell-4k-pro--polished-mocha-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Ring Wired Doorbell 4K Pro in Polished Mocha, front view"
+       }
       },
       {
-       "label": "Polished Sandstone"
+       "label": "Polished Sandstone",
+       "image": {
+        "small": "/images/catalog/ring-wired-doorbell-4k-pro--polished-sandstone-400.webp",
+        "large": "/images/catalog/ring-wired-doorbell-4k-pro--polished-sandstone-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Ring Wired Doorbell 4K Pro in Polished Sandstone, front view"
+       }
       }
      ]
     }
@@ -505,10 +589,24 @@
      "values": [
       {
        "label": "White",
-       "default": true
+       "default": true,
+       "image": {
+        "small": "/images/catalog/ring-floodlight-cam-4k-pro--white-400.webp",
+        "large": "/images/catalog/ring-floodlight-cam-4k-pro--white-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Ring Floodlight Cam 4K Pro (wired) in White, three-quarter view"
+       }
       },
       {
-       "label": "Black"
+       "label": "Black",
+       "image": {
+        "small": "/images/catalog/ring-floodlight-cam-4k-pro--black-400.webp",
+        "large": "/images/catalog/ring-floodlight-cam-4k-pro--black-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Ring Floodlight Cam 4K Pro (wired) in Black, three-quarter view"
+       }
       }
      ]
     }
@@ -547,10 +645,24 @@
      "values": [
       {
        "label": "White",
-       "default": true
+       "default": true,
+       "image": {
+        "small": "/images/catalog/ring-outdoor-cam-4k-pro--white-400.webp",
+        "large": "/images/catalog/ring-outdoor-cam-4k-pro--white-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Ring Outdoor Cam 4K Pro (plug-in) in White on its wall mount"
+       }
       },
       {
-       "label": "Black"
+       "label": "Black",
+       "image": {
+        "small": "/images/catalog/ring-outdoor-cam-4k-pro--black-400.webp",
+        "large": "/images/catalog/ring-outdoor-cam-4k-pro--black-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Ring Outdoor Cam 4K Pro (plug-in) in Black on its stand"
+       }
       }
      ]
     }
@@ -589,10 +701,24 @@
      "values": [
       {
        "label": "White",
-       "default": true
+       "default": true,
+       "image": {
+        "small": "/images/catalog/ring-spotlight-cam-4k-pro--white-400.webp",
+        "large": "/images/catalog/ring-spotlight-cam-4k-pro--white-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Ring Spotlight Cam 4K Pro (plug-in) in White, three-quarter view"
+       }
       },
       {
-       "label": "Black"
+       "label": "Black",
+       "image": {
+        "small": "/images/catalog/ring-spotlight-cam-4k-pro--black-400.webp",
+        "large": "/images/catalog/ring-spotlight-cam-4k-pro--black-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Ring Spotlight Cam 4K Pro (plug-in) in Black, three-quarter view"
+       }
       }
      ]
     }
@@ -850,9 +976,36 @@
     "ecosystem": "Philips Hue app; Alexa, Google Home, Apple Home, SmartThings, Matter",
     "connectivity": "Bluetooth, Zigbee (Hue Bridge)",
     "power": "Built-in rechargeable battery",
-    "colors": "Black"
+    "colors": "Black, White"
    },
-   "options": []
+   "options": [
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Black",
+       "default": true,
+       "image": {
+        "small": "/images/catalog/philips-hue-go-portable-table-lamp--black-400.webp",
+        "large": "/images/catalog/philips-hue-go-portable-table-lamp--black-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Philips Hue Go portable table lamp in black with gray silicone grip (Black)"
+       }
+      },
+      {
+       "label": "White",
+       "image": {
+        "small": "/images/catalog/philips-hue-go-portable-table-lamp--white-400.webp",
+        "large": "/images/catalog/philips-hue-go-portable-table-lamp--white-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Philips Hue Go portable table lamp in White"
+       }
+      }
+     ]
+    }
+   ]
   },
   {
    "sku": "TK-HUE-SIGNEGRADIENT",
@@ -992,7 +1145,7 @@
     "connectivity": "Wi-Fi 2.4 GHz",
     "power": "Plug-in power supply (included)",
     "configurations": "White, 60°, 9 Lines – $199.99 · White, 60°, 15 Lines – $269.99 · Black, 60°, 9 Lines – $229.99",
-    "colors": "White, Black"
+    "colors": "White, Black, Pink"
    },
    "options": [
     {
@@ -1018,10 +1171,27 @@
      "values": [
       {
        "label": "White",
-       "default": true
+       "default": true,
+       "image": {
+        "small": "/images/catalog/nanoleaf-lines-starter-kit-9--white-400.webp",
+        "large": "/images/catalog/nanoleaf-lines-starter-kit-9--white-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Nanoleaf Lines starter kit with nine White 60-degree light bars glowing blue and pink"
+       }
       },
       {
-       "label": "Black"
+       "label": "Black",
+       "image": {
+        "small": "/images/catalog/nanoleaf-lines-starter-kit-9--black-400.webp",
+        "large": "/images/catalog/nanoleaf-lines-starter-kit-9--black-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Nanoleaf Lines 60-degree nine-line layout in Black (matte black skins fitted), front view"
+       }
+      },
+      {
+       "label": "Pink"
       }
      ]
     }
@@ -1394,10 +1564,24 @@
      "values": [
       {
        "label": "Black",
-       "default": true
+       "default": true,
+       "image": {
+        "small": "/images/catalog/aqara-doorbell-camera-hub-g410--black-400.webp",
+        "large": "/images/catalog/aqara-doorbell-camera-hub-g410--black-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Aqara Doorbell Camera Hub G410 in Black, front view"
+       }
       },
       {
-       "label": "Gray"
+       "label": "Gray",
+       "image": {
+        "small": "/images/catalog/aqara-doorbell-camera-hub-g410--gray-400.webp",
+        "large": "/images/catalog/aqara-doorbell-camera-hub-g410--gray-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Aqara Doorbell Camera Hub G410 in Gray, front view"
+       }
       }
      ]
     }

@@ -1,4 +1,5 @@
 import { ShoppingCart } from 'lucide-react'
+import { lineImage } from '@/components/commerce/lineImage'
 import { Link, useNavigate } from 'react-router'
 import { Button, ButtonLink } from '@/components/ui/Button'
 import { Dialog } from '@/components/ui/Dialog'
@@ -92,7 +93,7 @@ export function CartDrawer() {
                 tabIndex={-1}
                 aria-hidden="true"
               >
-                <ProductImage image={line.product.image} sizes="64px" />
+                <ProductImage image={lineImage(line)} sizes="64px" />
               </Link>
               <div className="flex min-w-0 flex-1 flex-col gap-2">
                 <Link

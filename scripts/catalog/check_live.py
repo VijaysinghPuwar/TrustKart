@@ -49,6 +49,12 @@ def main() -> int:
                 out.append(f"{p['slug']}: {key} image {img[key]} -> HTTP {s} {ctype} {len(data)} bytes")
         if p["options"] and not detail.get("options"):
             out.append(f"{p['slug']}: options missing from API")
+        for g in detail.get("options") or []:
+            for v in g["values"]:
+                if v.get("image"):
+                    s, _, data = get(base + v["image"]["large"])
+                    if s != 200 or data[8:12] != b"WEBP":
+                        out.append(f"{p['slug']}: {g['name']} {v['label']!r} image HTTP {s}")
         return out
 
     with concurrent.futures.ThreadPoolExecutor(max_workers=16) as pool:
