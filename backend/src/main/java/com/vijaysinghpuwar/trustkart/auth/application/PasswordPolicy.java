@@ -14,9 +14,10 @@ public final class PasswordPolicy {
     public static final int MIN_LENGTH = 12;
     public static final int MAX_LENGTH = 128;
 
-    private static final Set<String> COMMON = Set.of(
+    // A denylist of well-known weak passwords, not credentials.
+    private static final Set<String> COMMON = Set.of( // gitleaks:allow
             "password1234", "123456789012", "qwertyuiop12", "password123!", "letmein12345", "iloveyou1234",
-            "trustkart123", "trustkart1234", "welcome12345", "administrator", "passwordpassword", "qwerty123456",
+            "trustkart123", "trustkart1234", "welcome12345", "administrator", "passwordpassword", "qwerty123456", // gitleaks:allow
             "1q2w3e4r5t6y", "abc123456789", "000000000000", "111111111111", "changeme1234", "football1234");
 
     private PasswordPolicy() {}
