@@ -1,7 +1,10 @@
 {
   "extensions": [
+    { "extend": "cables", "specs": [
+        { "key": "cableCategory", "label": "Cable type", "type": "TEXT", "group": "Cabling", "filterable": true },
+        { "key": "lengthM", "label": "Length", "type": "NUMBER", "unit": "m", "group": "Cabling", "filterable": true } ] },
     { "extend": "servers", "specs": [ { "key": "colors", "label": "Colors", "type": "TEXT", "group": "Options", "comparable": false }, { "key": "configurations", "label": "Configurations", "type": "TEXT", "group": "Options", "comparable": false } ] },
-    { "extend": "networking", "specs": [ { "key": "colors", "label": "Colors", "type": "TEXT", "group": "Options", "comparable": false }, { "key": "configurations", "label": "Configurations", "type": "TEXT", "group": "Options", "comparable": false } ] },
+    { "extend": "networking", "specs": [ { "key": "wifiDetails", "label": "Wi-Fi details", "type": "TEXT", "group": "Wireless" }, { "key": "colors", "label": "Colors", "type": "TEXT", "group": "Options", "comparable": false }, { "key": "configurations", "label": "Configurations", "type": "TEXT", "group": "Options", "comparable": false } ] },
     { "extend": "storage", "specs": [ { "key": "colors", "label": "Colors", "type": "TEXT", "group": "Options", "comparable": false }, { "key": "configurations", "label": "Configurations", "type": "TEXT", "group": "Options", "comparable": false } ] },
     { "extend": "printers", "specs": [ { "key": "colors", "label": "Colors", "type": "TEXT", "group": "Options", "comparable": false }, { "key": "configurations", "label": "Configurations", "type": "TEXT", "group": "Options", "comparable": false } ] },
     { "extend": "security-power", "specs": [ { "key": "colors", "label": "Colors", "type": "TEXT", "group": "Options", "comparable": false }, { "key": "configurations", "label": "Configurations", "type": "TEXT", "group": "Options", "comparable": false } ] },
@@ -48,6 +51,13 @@
             { "key": "network", "label": "Networking", "type": "TEXT", "group": "Connectivity" },
             { "key": "powerKw", "label": "Max power", "type": "NUMBER", "unit": "kW", "group": "Power" }
           ] },
+        { "slug": "pdus", "name": "PDUs & rack power",
+          "specs": [
+            { "key": "pduType", "label": "Type", "type": "TEXT", "group": "Power", "filterable": true },
+            { "key": "outletCount", "label": "Outlets", "type": "NUMBER", "group": "Power" },
+            { "key": "inputPower", "label": "Input", "type": "TEXT", "group": "Power" },
+            { "key": "rackUnits", "label": "Mounting height", "type": "NUMBER", "unit": "U", "group": "Chassis" }
+          ] },
         { "slug": "ai-accelerators", "name": "Data center accelerators",
           "specs": [
             { "key": "architecture", "label": "Architecture", "type": "TEXT", "group": "Compute", "filterable": true },
@@ -67,7 +77,14 @@
             { "key": "nodes", "label": "Nodes in pack", "type": "NUMBER", "group": "Wireless" }
           ] },
         { "slug": "unmanaged-switches", "name": "Unmanaged & multi-gig switches",
-          "specs": [ { "key": "poe", "label": "PoE budget", "type": "NUMBER", "unit": "W", "group": "Power" } ] }
+          "specs": [ { "key": "poe", "label": "PoE budget", "type": "NUMBER", "unit": "W", "group": "Power" } ] },
+        { "slug": "patch-panels", "name": "Patch panels & cable management",
+          "specs": [
+            { "key": "rackUnits", "label": "Height", "type": "NUMBER", "unit": "U", "group": "Chassis" },
+            { "key": "cableCategory", "label": "Cable category", "type": "TEXT", "group": "Cabling", "filterable": true }
+          ] },
+        { "slug": "network-tools", "name": "Network tools & testers",
+          "specs": [ { "key": "toolType", "label": "Tool type", "type": "TEXT", "group": "Hardware", "filterable": true } ] }
       ] },
     { "extend": "external-storage",
       "specs": [ { "key": "readMbps", "label": "Sequential read", "type": "NUMBER", "unit": "MB/s", "group": "Performance" } ] },
@@ -77,7 +94,7 @@
         { "slug": "streaming-gear", "name": "Streaming & creator gear" }
       ] },
     { "extend": "monitors",
-      "specs": [ { "key": "colors", "label": "Colors", "type": "TEXT", "group": "Options", "comparable": false }, { "key": "configurations", "label": "Configurations", "type": "TEXT", "group": "Options", "comparable": false } ] },
+      "specs": [ { "key": "panelDetails", "label": "Panel details", "type": "TEXT", "group": "Display" }, { "key": "colors", "label": "Colors", "type": "TEXT", "group": "Options", "comparable": false }, { "key": "configurations", "label": "Configurations", "type": "TEXT", "group": "Options", "comparable": false } ] },
     { "extend": "tablets",
       "specs": [
         { "key": "display", "label": "Display details", "type": "TEXT", "group": "Display" },
@@ -153,6 +170,7 @@
     { "slug": "audio", "name": "Audio", "description": "Headphones, earbuds, speakers, soundbars and studio audio.",
       "specs": [
         { "key": "connectivity", "label": "Connectivity", "type": "TEXT", "group": "Connectivity", "filterable": true },
+        { "key": "connectionDetails", "label": "Connection details", "type": "TEXT", "group": "Connectivity" },
         { "key": "noiseCancelling", "label": "Active noise cancelling", "type": "BOOLEAN", "group": "Audio", "filterable": true },
         { "key": "batteryHours", "label": "Battery life", "type": "NUMBER", "unit": "h", "group": "Battery" },
         { "key": "drivers", "label": "Drivers", "type": "TEXT", "group": "Audio" },
@@ -182,6 +200,7 @@
         { "key": "sizes", "label": "Available sizes", "type": "TEXT", "group": "Display" },
         { "key": "resolution", "label": "Resolution", "type": "TEXT", "group": "Display", "filterable": true },
         { "key": "panel", "label": "Panel type", "type": "TEXT", "group": "Display", "filterable": true },
+        { "key": "panelDetails", "label": "Panel details", "type": "TEXT", "group": "Display" },
         { "key": "refreshHz", "label": "Max refresh rate", "type": "NUMBER", "unit": "Hz", "group": "Display", "filterable": true },
         { "key": "hdr", "label": "HDR formats", "type": "TEXT", "group": "Display" },
         { "key": "processor", "label": "Processor", "type": "TEXT", "group": "Performance" },
@@ -226,6 +245,7 @@
     { "slug": "gaming", "name": "Gaming", "description": "Consoles, handheld gaming PCs and controllers.",
       "specs": [
         { "key": "platform", "label": "Platform", "type": "TEXT", "group": "Platform", "filterable": true },
+        { "key": "compatibility", "label": "Works with", "type": "TEXT", "group": "Platform" },
         { "key": "chip", "label": "Processor", "type": "TEXT", "group": "Performance" },
         { "key": "storage", "label": "Storage", "type": "TEXT", "group": "Storage" },
         { "key": "display", "label": "Display", "type": "TEXT", "group": "Display" },
