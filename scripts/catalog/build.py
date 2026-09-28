@@ -687,6 +687,53 @@ def stock_for(p: dict) -> list[int]:
     return [8 + h % 52, 5]
 
 
+STORAGE_RE = re.compile(r"^\d+(\.\d+)?\s?(GB|TB)$", re.I)
+
+
+def option_group_name(labels: list[str]) -> str:
+    """Names a priced option group from its labels; "Configuration" when no narrower name is clearly right."""
+    if all(STORAGE_RE.match(l.strip()) or re.match(r"^\s*\d+(\.\d+)?\s?(GB|TB)\b[^,;]{0,25}$", l, re.I)
+           for l in labels):
+        return "Storage"
+    sizes = [re.search(r'(\d+(\.\d+)?)\s?(\"|”|-inch|inch| in\b|mm)', l.lower()) for l in labels]
+    if all(sizes) and len({m.group(1) for m in sizes}) == len(labels):
+        return "Size"
+    if all("pack" in l.lower() for l in labels):
+        return "Pack"
+    return "Configuration"
+
+
+def derive_options(p: dict) -> list[dict]:
+    """Selectable options from researched variants/colors. Only officially priced variants become choices; the
+    default always costs exactly the listed price (a 'Configuration shown' choice is added when the specs describe
+    a configuration that isn't one of the variants)."""
+    groups = []
+    base = float(p["price"])
+    priced = [v for v in (p.get("variants") or []) if v.get("price")]
+    if priced:
+        values = [{"label": v["label"], "price": f"{float(v['price']):.2f}"} for v in priced]
+        if not any(abs(float(v["price"]) - base) < 0.005 for v in values):
+            values.insert(0, {"label": "Configuration shown", "price": f"{base:.2f}"})
+        seen, unique = set(), []
+        for v in values:
+            if v["label"] not in seen:
+                seen.add(v["label"])
+                unique.append(v)
+        for v in unique:
+            if abs(float(v["price"]) - base) < 0.005:
+                v["default"] = True
+                break
+        if len(unique) >= 2:
+            groups.append({"name": option_group_name([v["label"] for v in unique if v["label"] != "Configuration shown"]
+                                                     or ["x"]), "values": unique})
+    colors = [c for c in (p.get("colors") or []) if isinstance(c, str) and c.strip()]
+    colors = list(dict.fromkeys(colors))
+    if len(colors) >= 2:
+        groups.append({"name": "Color", "values": [{"label": c, **({"default": True} if i == 0 else {})}
+                                                   for i, c in enumerate(colors)]})
+    return groups
+
+
 def seed_record(p: dict) -> dict:
     return {
         "sku": p["sku"], "slug": p["slug"], "name": p["name"], "brand": p["brand"], "category": p["category"],
@@ -696,6 +743,7 @@ def seed_record(p: dict) -> dict:
         "backorder": False, "discontinued": False, "collections": p.get("collections") or [],
         "summary": p["summary"], "description": p["description"], "keywords": p.get("keywords", ""),
         "specs": p["_specs"],
+        "options": derive_options(p),
     }
 
 
@@ -759,6 +807,11 @@ def emit(normalized: dict, sources: dict, image_meta: dict, index: dict, issues:
 
     # Stale processed images (product removed or renamed) are deleted so the public folder mirrors the catalog.
     keep = {f"{s}-800.webp" for s in images} | {f"{s}-400.webp" for s in images}
+    # Never delete images belonging to source files left out of this build (e.g. still being researched).
+    for f in SOURCES.glob("*.json"):
+        if f.stem not in normalized:
+            for m in re.finditer(r'"slug":\s*"([a-z0-9-]+)"', f.read_text()):
+                keep |= {f"{m.group(1)}-800.webp", f"{m.group(1)}-400.webp"}
     for f in IMG_DIR.glob("*.webp"):
         if f.name not in keep:
             f.unlink()
@@ -866,6 +919,7 @@ def main() -> int:
     ap.add_argument("--check", action="store_true", help="validate only")
     ap.add_argument("--images", action="store_true", help="validate + process images, no emit")
     ap.add_argument("--only", help="comma-separated source names")
+    ap.add_argument("--exclude", help="comma-separated source names left out of a full build (e.g. files still being researched)")
     ap.add_argument("--check-links", action="store_true")
     ap.add_argument("--quiet-warnings", action="store_true")
     ap.add_argument("--categories", action="store_true", help="print leaf categories and their spec keys")
@@ -885,11 +939,16 @@ def main() -> int:
     demo_products = json.loads(DEMO_PRODUCTS.read_text())["products"]
     issues = Issues()
     sources = load_sources(only)
+    excluded = set(args.exclude.split(",")) if args.exclude else set()
+    for name in excluded:
+        sources.pop(name, None)
     if only and set(only) - set(sources) - {"demo-image-overrides"}:
         print(f"unknown source(s): {sorted(set(only) - set(sources))}", file=sys.stderr)
         return 2
     # Cross-file duplicate detection needs every file even when validating a subset.
     all_sources = load_sources(None) if only else sources
+    if not only:
+        all_sources = {k: v for k, v in all_sources.items() if k not in excluded}
     normalized_all = validate(all_sources, index, issues, demo_products)
     normalized = {k: v for k, v in normalized_all.items() if k in sources}
     if only:

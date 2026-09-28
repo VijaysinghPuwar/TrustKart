@@ -1,5 +1,6 @@
 package com.vijaysinghpuwar.trustkart.catalog.seed;
 
+import com.fasterxml.jackson.annotation.JsonProperty;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Map;
@@ -67,7 +68,12 @@ final class SeedModel {
             String summary,
             String description,
             String keywords,
-            Map<String, Object> specs) {}
+            Map<String, Object> specs,
+            List<OptionGroupSeed> options) {}
+
+    record OptionGroupSeed(String name, List<OptionValueSeed> values) {}
+
+    record OptionValueSeed(String label, String price, @JsonProperty("default") Boolean isDefault) {}
 
     record ImageSeed(String large, String small, int width, int height, String alt, String match, String author,
             String license, String licenseUrl, String filePage) {}

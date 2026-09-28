@@ -40,7 +40,43 @@
     "dimensions": "Open 117.8 x 164.6 x 5.2 mm; closed 117.8 x 84.1 x 11.3 mm",
     "configurations": "256GB – $1,999 · 512GB – $2,199 · 1TB – $2,599 · 2TB – $3,199",
     "colors": "Night Sky, Star White"
-   }
+   },
+   "options": [
+    {
+     "name": "Storage",
+     "values": [
+      {
+       "label": "256GB",
+       "price": "1999.00",
+       "default": true
+      },
+      {
+       "label": "512GB",
+       "price": "2199.00"
+      },
+      {
+       "label": "1TB",
+       "price": "2599.00"
+      },
+      {
+       "label": "2TB",
+       "price": "3199.00"
+      }
+     ]
+    },
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Night Sky",
+       "default": true
+      },
+      {
+       "label": "Star White"
+      }
+     ]
+    }
+   ]
   },
   {
    "sku": "TK-APPLE-IPHONE18PRO",
@@ -81,7 +117,49 @@
     "dimensions": "150.0 x 71.9 x 8.75 mm",
     "configurations": "256GB – $1,199 · 512GB – $1,399 · 1TB – $1,799 · 2TB – $2,399",
     "colors": "Burgundy, Glacier, Silver, Black"
-   }
+   },
+   "options": [
+    {
+     "name": "Storage",
+     "values": [
+      {
+       "label": "256GB",
+       "price": "1199.00",
+       "default": true
+      },
+      {
+       "label": "512GB",
+       "price": "1399.00"
+      },
+      {
+       "label": "1TB",
+       "price": "1799.00"
+      },
+      {
+       "label": "2TB",
+       "price": "2399.00"
+      }
+     ]
+    },
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Burgundy",
+       "default": true
+      },
+      {
+       "label": "Glacier"
+      },
+      {
+       "label": "Silver"
+      },
+      {
+       "label": "Black"
+      }
+     ]
+    }
+   ]
   },
   {
    "sku": "TK-APPLE-IPHONE18PROMAX",
@@ -122,7 +200,49 @@
     "dimensions": "163.4 x 78.0 x 8.75 mm",
     "configurations": "256GB – $1,299 · 512GB – $1,499 · 1TB – $1,899 · 2TB – $2,499",
     "colors": "Burgundy, Glacier, Silver, Black"
-   }
+   },
+   "options": [
+    {
+     "name": "Storage",
+     "values": [
+      {
+       "label": "256GB",
+       "price": "1299.00",
+       "default": true
+      },
+      {
+       "label": "512GB",
+       "price": "1499.00"
+      },
+      {
+       "label": "1TB",
+       "price": "1899.00"
+      },
+      {
+       "label": "2TB",
+       "price": "2499.00"
+      }
+     ]
+    },
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Burgundy",
+       "default": true
+      },
+      {
+       "label": "Glacier"
+      },
+      {
+       "label": "Silver"
+      },
+      {
+       "label": "Black"
+      }
+     ]
+    }
+   ]
   },
   {
    "sku": "TK-APPLE-IPHONEAIR",
@@ -163,7 +283,45 @@
     "dimensions": "156.2 x 74.7 x 5.64 mm",
     "configurations": "256GB – $1,099 · 512GB – $1,299 · 1TB – $1,699",
     "colors": "Sky Blue, Light Gold, Cloud White, Space Black"
-   }
+   },
+   "options": [
+    {
+     "name": "Storage",
+     "values": [
+      {
+       "label": "256GB",
+       "price": "1099.00",
+       "default": true
+      },
+      {
+       "label": "512GB",
+       "price": "1299.00"
+      },
+      {
+       "label": "1TB",
+       "price": "1699.00"
+      }
+     ]
+    },
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Sky Blue",
+       "default": true
+      },
+      {
+       "label": "Light Gold"
+      },
+      {
+       "label": "Cloud White"
+      },
+      {
+       "label": "Space Black"
+      }
+     ]
+    }
+   ]
   },
   {
    "sku": "TK-APPLE-IPHONE17",
@@ -204,7 +362,44 @@
     "dimensions": "149.6 x 71.5 x 7.95 mm",
     "configurations": "256GB – $929 · 512GB – $1,129",
     "colors": "Lavender, Sage, Mist Blue, White, Black"
-   }
+   },
+   "options": [
+    {
+     "name": "Storage",
+     "values": [
+      {
+       "label": "256GB",
+       "price": "929.00",
+       "default": true
+      },
+      {
+       "label": "512GB",
+       "price": "1129.00"
+      }
+     ]
+    },
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Lavender",
+       "default": true
+      },
+      {
+       "label": "Sage"
+      },
+      {
+       "label": "Mist Blue"
+      },
+      {
+       "label": "White"
+      },
+      {
+       "label": "Black"
+      }
+     ]
+    }
+   ]
   },
   {
    "sku": "TK-APPLE-IPHONE17E",
@@ -245,7 +440,38 @@
     "dimensions": "146.7 x 71.5 x 7.80 mm",
     "configurations": "256GB – $699 · 512GB – $899",
     "colors": "Soft Pink, White, Black"
-   }
+   },
+   "options": [
+    {
+     "name": "Storage",
+     "values": [
+      {
+       "label": "256GB",
+       "price": "699.00",
+       "default": true
+      },
+      {
+       "label": "512GB",
+       "price": "899.00"
+      }
+     ]
+    },
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Soft Pink",
+       "default": true
+      },
+      {
+       "label": "White"
+      },
+      {
+       "label": "Black"
+      }
+     ]
+    }
+   ]
   },
   {
    "sku": "TK-APPLE-IPHONE16",
@@ -283,7 +509,30 @@
     "weightG": 170,
     "dimensions": "147.6 x 71.6 x 7.80 mm",
     "colors": "Ultramarine, Teal, Pink, White, Black"
-   }
+   },
+   "options": [
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Ultramarine",
+       "default": true
+      },
+      {
+       "label": "Teal"
+      },
+      {
+       "label": "Pink"
+      },
+      {
+       "label": "White"
+      },
+      {
+       "label": "Black"
+      }
+     ]
+    }
+   ]
   },
   {
    "sku": "TK-APPLE-MACBOOKNEO",
@@ -322,7 +571,41 @@
     "wireless": "Wi-Fi 6E, Bluetooth 6",
     "configurations": "A18 Pro, 8GB, 256GB – $699 · A18 Pro, 8GB, 512GB, Touch ID – $799",
     "colors": "Silver, Blush, Citrus, Indigo"
-   }
+   },
+   "options": [
+    {
+     "name": "Configuration",
+     "values": [
+      {
+       "label": "A18 Pro, 8GB, 256GB",
+       "price": "699.00",
+       "default": true
+      },
+      {
+       "label": "A18 Pro, 8GB, 512GB, Touch ID",
+       "price": "799.00"
+      }
+     ]
+    },
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Silver",
+       "default": true
+      },
+      {
+       "label": "Blush"
+      },
+      {
+       "label": "Citrus"
+      },
+      {
+       "label": "Indigo"
+      }
+     ]
+    }
+   ]
   },
   {
    "sku": "TK-APPLE-MBA13-M5",
@@ -362,7 +645,41 @@
     "wireless": "Wi-Fi 7 (Apple N1), Bluetooth 6",
     "configurations": "M5 10-core CPU / 8-core GPU, 16GB, 512GB – $1,299 · M5 10-core CPU / 10-core GPU (from) – $1,399",
     "colors": "Sky Blue, Silver, Starlight, Midnight"
-   }
+   },
+   "options": [
+    {
+     "name": "Configuration",
+     "values": [
+      {
+       "label": "M5 10-core CPU / 8-core GPU, 16GB, 512GB",
+       "price": "1299.00",
+       "default": true
+      },
+      {
+       "label": "M5 10-core CPU / 10-core GPU (from)",
+       "price": "1399.00"
+      }
+     ]
+    },
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Sky Blue",
+       "default": true
+      },
+      {
+       "label": "Silver"
+      },
+      {
+       "label": "Starlight"
+      },
+      {
+       "label": "Midnight"
+      }
+     ]
+    }
+   ]
   },
   {
    "sku": "TK-APPLE-MBA15-M5",
@@ -402,7 +719,27 @@
     "ports": "2x Thunderbolt 4 (USB-C), MagSafe 3, 3.5 mm headphone jack",
     "wireless": "Wi-Fi 7 (Apple N1), Bluetooth 6",
     "colors": "Sky Blue, Silver, Starlight, Midnight"
-   }
+   },
+   "options": [
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Sky Blue",
+       "default": true
+      },
+      {
+       "label": "Silver"
+      },
+      {
+       "label": "Starlight"
+      },
+      {
+       "label": "Midnight"
+      }
+     ]
+    }
+   ]
   },
   {
    "sku": "TK-APPLE-MBP14-M5",
@@ -443,7 +780,35 @@
     "wireless": "Wi-Fi 6E, Bluetooth 5.3",
     "configurations": "M5, 16GB, 1TB, standard display – $1,999 · M5, nano-texture display (from) – $2,149",
     "colors": "Space Black, Silver"
-   }
+   },
+   "options": [
+    {
+     "name": "Configuration",
+     "values": [
+      {
+       "label": "M5, 16GB, 1TB, standard display",
+       "price": "1999.00",
+       "default": true
+      },
+      {
+       "label": "M5, nano-texture display (from)",
+       "price": "2149.00"
+      }
+     ]
+    },
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Space Black",
+       "default": true
+      },
+      {
+       "label": "Silver"
+      }
+     ]
+    }
+   ]
   },
   {
    "sku": "TK-APPLE-MBP14-M5PRO",
@@ -485,7 +850,43 @@
     "wireless": "Wi-Fi 7 (Apple N1), Bluetooth 6",
     "configurations": "M5 Pro 15-core CPU / 16-core GPU, 24GB, 1TB – $2,499 · M5 Pro 15-core CPU, nano-texture (from) – $2,649 · M5 Pro 18-core CPU / 20-core GPU (from) – $2,699 · M5 Pro 18-core CPU, nano-texture (from) – $2,849",
     "colors": "Space Black, Silver"
-   }
+   },
+   "options": [
+    {
+     "name": "Configuration",
+     "values": [
+      {
+       "label": "M5 Pro 15-core CPU / 16-core GPU, 24GB, 1TB",
+       "price": "2499.00",
+       "default": true
+      },
+      {
+       "label": "M5 Pro 15-core CPU, nano-texture (from)",
+       "price": "2649.00"
+      },
+      {
+       "label": "M5 Pro 18-core CPU / 20-core GPU (from)",
+       "price": "2699.00"
+      },
+      {
+       "label": "M5 Pro 18-core CPU, nano-texture (from)",
+       "price": "2849.00"
+      }
+     ]
+    },
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Space Black",
+       "default": true
+      },
+      {
+       "label": "Silver"
+      }
+     ]
+    }
+   ]
   },
   {
    "sku": "TK-APPLE-MBP14-M5MAX",
@@ -526,7 +927,43 @@
     "wireless": "Wi-Fi 7 (Apple N1), Bluetooth 6",
     "configurations": "M5 Max 18-core CPU / 32-core GPU, 36GB, 2TB – $4,099 · M5 Max 32-core GPU, nano-texture (from) – $4,249 · M5 Max 18-core CPU / 40-core GPU (from) – $4,699 · M5 Max 40-core GPU, nano-texture (from) – $4,849",
     "colors": "Space Black, Silver"
-   }
+   },
+   "options": [
+    {
+     "name": "Configuration",
+     "values": [
+      {
+       "label": "M5 Max 18-core CPU / 32-core GPU, 36GB, 2TB",
+       "price": "4099.00",
+       "default": true
+      },
+      {
+       "label": "M5 Max 32-core GPU, nano-texture (from)",
+       "price": "4249.00"
+      },
+      {
+       "label": "M5 Max 18-core CPU / 40-core GPU (from)",
+       "price": "4699.00"
+      },
+      {
+       "label": "M5 Max 40-core GPU, nano-texture (from)",
+       "price": "4849.00"
+      }
+     ]
+    },
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Space Black",
+       "default": true
+      },
+      {
+       "label": "Silver"
+      }
+     ]
+    }
+   ]
   },
   {
    "sku": "TK-APPLE-MBP16-M5PRO",
@@ -567,7 +1004,35 @@
     "wireless": "Wi-Fi 7 (Apple N1), Bluetooth 6",
     "configurations": "M5 Pro 18-core CPU / 20-core GPU, 24GB, 1TB – $2,999 · M5 Pro, nano-texture display (from) – $3,149",
     "colors": "Space Black, Silver"
-   }
+   },
+   "options": [
+    {
+     "name": "Configuration",
+     "values": [
+      {
+       "label": "M5 Pro 18-core CPU / 20-core GPU, 24GB, 1TB",
+       "price": "2999.00",
+       "default": true
+      },
+      {
+       "label": "M5 Pro, nano-texture display (from)",
+       "price": "3149.00"
+      }
+     ]
+    },
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Space Black",
+       "default": true
+      },
+      {
+       "label": "Silver"
+      }
+     ]
+    }
+   ]
   },
   {
    "sku": "TK-APPLE-MBP16-M5MAX",
@@ -609,7 +1074,43 @@
     "wireless": "Wi-Fi 7 (Apple N1), Bluetooth 6",
     "configurations": "M5 Max 18-core CPU / 32-core GPU, 36GB, 2TB – $4,399 · M5 Max 32-core GPU, nano-texture (from) – $4,549 · M5 Max 18-core CPU / 40-core GPU, 48GB, 2TB – $4,999 · M5 Max 40-core GPU, nano-texture (from) – $5,149",
     "colors": "Space Black, Silver"
-   }
+   },
+   "options": [
+    {
+     "name": "Configuration",
+     "values": [
+      {
+       "label": "M5 Max 18-core CPU / 32-core GPU, 36GB, 2TB",
+       "price": "4399.00",
+       "default": true
+      },
+      {
+       "label": "M5 Max 32-core GPU, nano-texture (from)",
+       "price": "4549.00"
+      },
+      {
+       "label": "M5 Max 18-core CPU / 40-core GPU, 48GB, 2TB",
+       "price": "4999.00"
+      },
+      {
+       "label": "M5 Max 40-core GPU, nano-texture (from)",
+       "price": "5149.00"
+      }
+     ]
+    },
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Space Black",
+       "default": true
+      },
+      {
+       "label": "Silver"
+      }
+     ]
+    }
+   ]
   },
   {
    "sku": "TK-APPLE-MACMINI-M6",
@@ -646,7 +1147,8 @@
     "networking": "2.5Gb Ethernet (configurable to 10Gb), Wi-Fi 7, Bluetooth 6",
     "ports": "3x Thunderbolt 4 (USB-C), HDMI, 2.5Gb Ethernet, 2x front USB-C (10Gb/s), 3.5 mm headphone jack",
     "colors": "Silver"
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-APPLE-MACMINI-M5PRO",
@@ -683,7 +1185,23 @@
     "ports": "3x Thunderbolt 5 (USB-C), HDMI, 2.5Gb Ethernet, 2x front USB-C (10Gb/s), 3.5 mm headphone jack",
     "configurations": "M5 Pro 15-core CPU / 16-core GPU, 24GB, 512GB – $1,699 · M5 Pro 18-core CPU / 20-core GPU (from) – $1,899",
     "colors": "Silver"
-   }
+   },
+   "options": [
+    {
+     "name": "Configuration",
+     "values": [
+      {
+       "label": "M5 Pro 15-core CPU / 16-core GPU, 24GB, 512GB",
+       "price": "1699.00",
+       "default": true
+      },
+      {
+       "label": "M5 Pro 18-core CPU / 20-core GPU (from)",
+       "price": "1899.00"
+      }
+     ]
+    }
+   ]
   },
   {
    "sku": "TK-APPLE-MACSTUDIO-M5MAX",
@@ -720,7 +1238,23 @@
     "ports": "4x Thunderbolt 5, 2x USB-A, HDMI 2.1, 10Gb Ethernet, 3.5 mm jack; front 2x USB-C (10Gb/s), SDXC (UHS-II)",
     "configurations": "M5 Max 18-core CPU / 32-core GPU, 36GB, 512GB – $2,499 · M5 Max 18-core CPU / 40-core GPU, 64GB, 1TB – $3,099",
     "colors": "Silver"
-   }
+   },
+   "options": [
+    {
+     "name": "Configuration",
+     "values": [
+      {
+       "label": "M5 Max 18-core CPU / 32-core GPU, 36GB, 512GB",
+       "price": "2499.00",
+       "default": true
+      },
+      {
+       "label": "M5 Max 18-core CPU / 40-core GPU, 64GB, 1TB",
+       "price": "3099.00"
+      }
+     ]
+    }
+   ]
   },
   {
    "sku": "TK-APPLE-MACSTUDIO-M5ULTRA",
@@ -758,7 +1292,23 @@
     "ports": "4x Thunderbolt 5, 2x USB-A, HDMI 2.1, 10Gb Ethernet, 3.5 mm jack; front 2x Thunderbolt 5, SDXC (UHS-II)",
     "configurations": "M5 Ultra 30-core CPU / 64-core GPU, 96GB, 1TB – $5,499 · M5 Ultra 36-core CPU / 80-core GPU (from) – $6,799",
     "colors": "Silver"
-   }
+   },
+   "options": [
+    {
+     "name": "Configuration",
+     "values": [
+      {
+       "label": "M5 Ultra 30-core CPU / 64-core GPU, 96GB, 1TB",
+       "price": "5499.00",
+       "default": true
+      },
+      {
+       "label": "M5 Ultra 36-core CPU / 80-core GPU (from)",
+       "price": "6799.00"
+      }
+     ]
+    }
+   ]
   },
   {
    "sku": "TK-APPLE-STUDIODISPLAY-TB5",
@@ -785,13 +1335,41 @@
    "keywords": "studio display 5k monitor thunderbolt 5 mac",
    "specs": {
     "sizeIn": 27,
-    "resolution": "5120x2880 (5K)",
+    "resolution": "5120x2880",
     "refreshHz": 60,
     "colorGamut": "P3 (1 billion colors)",
     "inputs": "Thunderbolt 5 upstream, Thunderbolt 5 downstream, 2x USB-C (10Gb/s)",
     "usbCPowerW": 96,
     "configurations": "Standard glass, tilt-adjustable stand – $1,599 · Standard glass, VESA mount adapter – $1,599 · Nano-texture glass, tilt-adjustable stand – $1,899 · Standard glass, tilt- and height-adjustable stand – $1,999 · Nano-texture glass, tilt- and height-adjustable stand – $2,299"
-   }
+   },
+   "options": [
+    {
+     "name": "Configuration",
+     "values": [
+      {
+       "label": "Standard glass, tilt-adjustable stand",
+       "price": "1599.00",
+       "default": true
+      },
+      {
+       "label": "Standard glass, VESA mount adapter",
+       "price": "1599.00"
+      },
+      {
+       "label": "Nano-texture glass, tilt-adjustable stand",
+       "price": "1899.00"
+      },
+      {
+       "label": "Standard glass, tilt- and height-adjustable stand",
+       "price": "1999.00"
+      },
+      {
+       "label": "Nano-texture glass, tilt- and height-adjustable stand",
+       "price": "2299.00"
+      }
+     ]
+    }
+   ]
   },
   {
    "sku": "TK-APPLE-STUDIODISPLAYXDR",
@@ -818,15 +1396,40 @@
    "keywords": "studio display xdr mini led hdr reference monitor",
    "specs": {
     "sizeIn": 27,
-    "resolution": "5120x2880 (5K)",
+    "resolution": "5120x2880",
     "refreshHz": 120,
-    "panel": "Mini-LED backlit LCD, 2304 dimming zones",
+    "panel": "Mini LED",
     "hdr": "XDR: 1000 nits SDR, 2000 nits peak HDR",
     "colorGamut": "P3 + Adobe RGB",
     "inputs": "Thunderbolt 5 upstream, Thunderbolt 5 downstream, 2x USB-C (10Gb/s)",
     "usbCPowerW": 140,
+    "panelDetails": "Mini-LED backlit LCD, 2304 dimming zones",
     "configurations": "Standard glass, VESA mount adapter – $2,899 · Nano-texture glass, VESA mount adapter – $3,199 · Standard glass, tilt- and height-adjustable stand – $3,299 · Nano-texture glass, tilt- and height-adjustable stand – $3,599"
-   }
+   },
+   "options": [
+    {
+     "name": "Configuration",
+     "values": [
+      {
+       "label": "Standard glass, VESA mount adapter",
+       "price": "2899.00",
+       "default": true
+      },
+      {
+       "label": "Nano-texture glass, VESA mount adapter",
+       "price": "3199.00"
+      },
+      {
+       "label": "Standard glass, tilt- and height-adjustable stand",
+       "price": "3299.00"
+      },
+      {
+       "label": "Nano-texture glass, tilt- and height-adjustable stand",
+       "price": "3599.00"
+      }
+     ]
+    }
+   ]
   },
   {
    "sku": "TK-APPLE-IPAD-A16",
@@ -861,7 +1464,57 @@
     "weightG": 477,
     "configurations": "Wi-Fi 128GB – $449 · Wi-Fi 256GB – $549 · Wi-Fi 512GB – $749 · Wi-Fi + Cellular 128GB – $599 · Wi-Fi + Cellular 256GB – $699 · Wi-Fi + Cellular 512GB – $899",
     "colors": "Blue, Pink, Yellow, Silver"
-   }
+   },
+   "options": [
+    {
+     "name": "Configuration",
+     "values": [
+      {
+       "label": "Wi-Fi 128GB",
+       "price": "449.00",
+       "default": true
+      },
+      {
+       "label": "Wi-Fi 256GB",
+       "price": "549.00"
+      },
+      {
+       "label": "Wi-Fi 512GB",
+       "price": "749.00"
+      },
+      {
+       "label": "Wi-Fi + Cellular 128GB",
+       "price": "599.00"
+      },
+      {
+       "label": "Wi-Fi + Cellular 256GB",
+       "price": "699.00"
+      },
+      {
+       "label": "Wi-Fi + Cellular 512GB",
+       "price": "899.00"
+      }
+     ]
+    },
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Blue",
+       "default": true
+      },
+      {
+       "label": "Pink"
+      },
+      {
+       "label": "Yellow"
+      },
+      {
+       "label": "Silver"
+      }
+     ]
+    }
+   ]
   },
   {
    "sku": "TK-APPLE-IPADMINI-A17PRO",
@@ -896,7 +1549,57 @@
     "weightG": 293,
     "configurations": "Wi-Fi 128GB – $599 · Wi-Fi 256GB – $699 · Wi-Fi 512GB – $899 · Wi-Fi + Cellular 128GB – $749 · Wi-Fi + Cellular 256GB – $849 · Wi-Fi + Cellular 512GB – $1,049",
     "colors": "Blue, Purple, Starlight, Space Gray"
-   }
+   },
+   "options": [
+    {
+     "name": "Configuration",
+     "values": [
+      {
+       "label": "Wi-Fi 128GB",
+       "price": "599.00",
+       "default": true
+      },
+      {
+       "label": "Wi-Fi 256GB",
+       "price": "699.00"
+      },
+      {
+       "label": "Wi-Fi 512GB",
+       "price": "899.00"
+      },
+      {
+       "label": "Wi-Fi + Cellular 128GB",
+       "price": "749.00"
+      },
+      {
+       "label": "Wi-Fi + Cellular 256GB",
+       "price": "849.00"
+      },
+      {
+       "label": "Wi-Fi + Cellular 512GB",
+       "price": "1049.00"
+      }
+     ]
+    },
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Blue",
+       "default": true
+      },
+      {
+       "label": "Purple"
+      },
+      {
+       "label": "Starlight"
+      },
+      {
+       "label": "Space Gray"
+      }
+     ]
+    }
+   ]
   },
   {
    "sku": "TK-APPLE-IPADAIR11-M4",
@@ -932,7 +1635,65 @@
     "weightG": 464,
     "configurations": "Wi-Fi 128GB – $749 · Wi-Fi 256GB – $849 · Wi-Fi 512GB – $1,049 · Wi-Fi 1TB – $1,349 · Wi-Fi + Cellular 128GB – $899 · Wi-Fi + Cellular 256GB – $999 · Wi-Fi + Cellular 512GB – $1,199 · Wi-Fi + Cellular 1TB – $1,499",
     "colors": "Blue, Purple, Starlight, Space Gray"
-   }
+   },
+   "options": [
+    {
+     "name": "Configuration",
+     "values": [
+      {
+       "label": "Wi-Fi 128GB",
+       "price": "749.00",
+       "default": true
+      },
+      {
+       "label": "Wi-Fi 256GB",
+       "price": "849.00"
+      },
+      {
+       "label": "Wi-Fi 512GB",
+       "price": "1049.00"
+      },
+      {
+       "label": "Wi-Fi 1TB",
+       "price": "1349.00"
+      },
+      {
+       "label": "Wi-Fi + Cellular 128GB",
+       "price": "899.00"
+      },
+      {
+       "label": "Wi-Fi + Cellular 256GB",
+       "price": "999.00"
+      },
+      {
+       "label": "Wi-Fi + Cellular 512GB",
+       "price": "1199.00"
+      },
+      {
+       "label": "Wi-Fi + Cellular 1TB",
+       "price": "1499.00"
+      }
+     ]
+    },
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Blue",
+       "default": true
+      },
+      {
+       "label": "Purple"
+      },
+      {
+       "label": "Starlight"
+      },
+      {
+       "label": "Space Gray"
+      }
+     ]
+    }
+   ]
   },
   {
    "sku": "TK-APPLE-IPADAIR13-M4",
@@ -968,7 +1729,65 @@
     "weightG": 616,
     "configurations": "Wi-Fi 128GB – $949 · Wi-Fi 256GB – $1,049 · Wi-Fi 512GB – $1,249 · Wi-Fi 1TB – $1,549 · Wi-Fi + Cellular 128GB – $1,099 · Wi-Fi + Cellular 256GB – $1,199 · Wi-Fi + Cellular 512GB – $1,399 · Wi-Fi + Cellular 1TB – $1,699",
     "colors": "Blue, Purple, Starlight, Space Gray"
-   }
+   },
+   "options": [
+    {
+     "name": "Configuration",
+     "values": [
+      {
+       "label": "Wi-Fi 128GB",
+       "price": "949.00",
+       "default": true
+      },
+      {
+       "label": "Wi-Fi 256GB",
+       "price": "1049.00"
+      },
+      {
+       "label": "Wi-Fi 512GB",
+       "price": "1249.00"
+      },
+      {
+       "label": "Wi-Fi 1TB",
+       "price": "1549.00"
+      },
+      {
+       "label": "Wi-Fi + Cellular 128GB",
+       "price": "1099.00"
+      },
+      {
+       "label": "Wi-Fi + Cellular 256GB",
+       "price": "1199.00"
+      },
+      {
+       "label": "Wi-Fi + Cellular 512GB",
+       "price": "1399.00"
+      },
+      {
+       "label": "Wi-Fi + Cellular 1TB",
+       "price": "1699.00"
+      }
+     ]
+    },
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Blue",
+       "default": true
+      },
+      {
+       "label": "Purple"
+      },
+      {
+       "label": "Starlight"
+      },
+      {
+       "label": "Space Gray"
+      }
+     ]
+    }
+   ]
   },
   {
    "sku": "TK-APPLE-IPADPRO11-M5",
@@ -1005,7 +1824,67 @@
     "weightG": 444,
     "configurations": "Wi-Fi 256GB – $1,199 · Wi-Fi 512GB – $1,399 · Wi-Fi 1TB – $1,799 · Wi-Fi 1TB nano-texture – $1,899 · Wi-Fi 2TB – $2,299 · Wi-Fi 2TB nano-texture – $2,399 · Wi-Fi + Cellular 256GB – $1,399 · Wi-Fi + Cellular 512GB – $1,599 · Wi-Fi + Cellular 1TB – $1,999 · Wi-Fi + Cellular 2TB – $2,499",
     "colors": "Space Black, Silver"
-   }
+   },
+   "options": [
+    {
+     "name": "Configuration",
+     "values": [
+      {
+       "label": "Wi-Fi 256GB",
+       "price": "1199.00",
+       "default": true
+      },
+      {
+       "label": "Wi-Fi 512GB",
+       "price": "1399.00"
+      },
+      {
+       "label": "Wi-Fi 1TB",
+       "price": "1799.00"
+      },
+      {
+       "label": "Wi-Fi 1TB nano-texture",
+       "price": "1899.00"
+      },
+      {
+       "label": "Wi-Fi 2TB",
+       "price": "2299.00"
+      },
+      {
+       "label": "Wi-Fi 2TB nano-texture",
+       "price": "2399.00"
+      },
+      {
+       "label": "Wi-Fi + Cellular 256GB",
+       "price": "1399.00"
+      },
+      {
+       "label": "Wi-Fi + Cellular 512GB",
+       "price": "1599.00"
+      },
+      {
+       "label": "Wi-Fi + Cellular 1TB",
+       "price": "1999.00"
+      },
+      {
+       "label": "Wi-Fi + Cellular 2TB",
+       "price": "2499.00"
+      }
+     ]
+    },
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Space Black",
+       "default": true
+      },
+      {
+       "label": "Silver"
+      }
+     ]
+    }
+   ]
   },
   {
    "sku": "TK-APPLE-IPADPRO13-M5",
@@ -1042,7 +1921,67 @@
     "weightG": 579,
     "configurations": "Wi-Fi 256GB – $1,499 · Wi-Fi 512GB – $1,699 · Wi-Fi 1TB – $2,099 · Wi-Fi 1TB nano-texture – $2,199 · Wi-Fi 2TB – $2,599 · Wi-Fi 2TB nano-texture – $2,699 · Wi-Fi + Cellular 256GB – $1,699 · Wi-Fi + Cellular 512GB – $1,899 · Wi-Fi + Cellular 1TB – $2,299 · Wi-Fi + Cellular 2TB – $2,799",
     "colors": "Space Black, Silver"
-   }
+   },
+   "options": [
+    {
+     "name": "Configuration",
+     "values": [
+      {
+       "label": "Wi-Fi 256GB",
+       "price": "1499.00",
+       "default": true
+      },
+      {
+       "label": "Wi-Fi 512GB",
+       "price": "1699.00"
+      },
+      {
+       "label": "Wi-Fi 1TB",
+       "price": "2099.00"
+      },
+      {
+       "label": "Wi-Fi 1TB nano-texture",
+       "price": "2199.00"
+      },
+      {
+       "label": "Wi-Fi 2TB",
+       "price": "2599.00"
+      },
+      {
+       "label": "Wi-Fi 2TB nano-texture",
+       "price": "2699.00"
+      },
+      {
+       "label": "Wi-Fi + Cellular 256GB",
+       "price": "1699.00"
+      },
+      {
+       "label": "Wi-Fi + Cellular 512GB",
+       "price": "1899.00"
+      },
+      {
+       "label": "Wi-Fi + Cellular 1TB",
+       "price": "2299.00"
+      },
+      {
+       "label": "Wi-Fi + Cellular 2TB",
+       "price": "2799.00"
+      }
+     ]
+    },
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Space Black",
+       "default": true
+      },
+      {
+       "label": "Silver"
+      }
+     ]
+    }
+   ]
   },
   {
    "sku": "TK-APPLE-WATCHS12",
@@ -1078,7 +2017,77 @@
     "weightG": 32.2,
     "configurations": "42mm aluminum GPS – $399 · 46mm aluminum GPS – $449 · 42mm aluminum GPS + Cellular – $499 · 46mm aluminum GPS + Cellular – $549 · 42mm titanium GPS + Cellular – $699 · 46mm titanium GPS + Cellular – $749 · 42mm ceramic GPS + Cellular – $899 · 46mm ceramic GPS + Cellular – $949",
     "colors": "Black, Dark Bronze, Light Gold, Space Gray, Natural, Radiant Gold, Pearl White, Night Blue"
-   }
+   },
+   "options": [
+    {
+     "name": "Configuration",
+     "values": [
+      {
+       "label": "42mm aluminum GPS",
+       "price": "399.00",
+       "default": true
+      },
+      {
+       "label": "46mm aluminum GPS",
+       "price": "449.00"
+      },
+      {
+       "label": "42mm aluminum GPS + Cellular",
+       "price": "499.00"
+      },
+      {
+       "label": "46mm aluminum GPS + Cellular",
+       "price": "549.00"
+      },
+      {
+       "label": "42mm titanium GPS + Cellular",
+       "price": "699.00"
+      },
+      {
+       "label": "46mm titanium GPS + Cellular",
+       "price": "749.00"
+      },
+      {
+       "label": "42mm ceramic GPS + Cellular",
+       "price": "899.00"
+      },
+      {
+       "label": "46mm ceramic GPS + Cellular",
+       "price": "949.00"
+      }
+     ]
+    },
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Black",
+       "default": true
+      },
+      {
+       "label": "Dark Bronze"
+      },
+      {
+       "label": "Light Gold"
+      },
+      {
+       "label": "Space Gray"
+      },
+      {
+       "label": "Natural"
+      },
+      {
+       "label": "Radiant Gold"
+      },
+      {
+       "label": "Pearl White"
+      },
+      {
+       "label": "Night Blue"
+      }
+     ]
+    }
+   ]
   },
   {
    "sku": "TK-APPLE-WATCHULTRA4",
@@ -1113,7 +2122,21 @@
     "compatibility": "iPhone 11 or later with iOS 27 or later",
     "weightG": 63,
     "colors": "Natural, Black"
-   }
+   },
+   "options": [
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Natural",
+       "default": true
+      },
+      {
+       "label": "Black"
+      }
+     ]
+    }
+   ]
   },
   {
    "sku": "TK-APPLE-WATCHSE3",
@@ -1149,7 +2172,43 @@
     "weightG": 26.3,
     "configurations": "40mm GPS – $249 · 44mm GPS – $279 · 40mm GPS + Cellular – $299 · 44mm GPS + Cellular – $329",
     "colors": "Midnight, Starlight"
-   }
+   },
+   "options": [
+    {
+     "name": "Configuration",
+     "values": [
+      {
+       "label": "40mm GPS",
+       "price": "249.00",
+       "default": true
+      },
+      {
+       "label": "44mm GPS",
+       "price": "279.00"
+      },
+      {
+       "label": "40mm GPS + Cellular",
+       "price": "299.00"
+      },
+      {
+       "label": "44mm GPS + Cellular",
+       "price": "329.00"
+      }
+     ]
+    },
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Midnight",
+       "default": true
+      },
+      {
+       "label": "Starlight"
+      }
+     ]
+    }
+   ]
   },
   {
    "sku": "TK-APPLE-AIRPODS5",
@@ -1174,15 +2233,32 @@
    "description": "AirPods 5 use a custom high-excursion Apple driver and the H2 headphone chip with Active Noise Cancellation, Adaptive Audio, Conversation Awareness, Voice Isolation and Personalized Spatial Audio. They are rated IP57 and deliver up to 6 hours of listening (4 hours with ANC) per charge, or up to 20 hours with the USB-C case. AirPods 5 with Wireless Charging Case ($149) adds a case speaker for Find My and charging from Qi-certified or Apple Watch chargers.",
    "keywords": "airpods 5 anc open earbuds h2",
    "specs": {
-    "connectivity": "Bluetooth 5.3",
+    "connectivity": "Bluetooth",
     "noiseCancelling": true,
     "batteryHours": 6,
     "drivers": "Custom high-excursion Apple driver",
     "waterResistance": "IP57 (earbuds and case)",
     "weightG": 4.3,
+    "connectionDetails": "Bluetooth 5.3",
     "configurations": "AirPods 5 (USB-C charging case) – $129 · AirPods 5 with Wireless Charging Case – $149",
     "colors": "White"
-   }
+   },
+   "options": [
+    {
+     "name": "Configuration",
+     "values": [
+      {
+       "label": "AirPods 5 (USB-C charging case)",
+       "price": "129.00",
+       "default": true
+      },
+      {
+       "label": "AirPods 5 with Wireless Charging Case",
+       "price": "149.00"
+      }
+     ]
+    }
+   ]
   },
   {
    "sku": "TK-APPLE-AIRPODSPRO3",
@@ -1207,14 +2283,16 @@
    "description": "AirPods Pro 3 combine the Apple H2 chip with Active Noise Cancellation, Adaptive Audio and Adaptive EQ, plus hearing health features including Hearing Test, Hearing Aid and Hearing Protection. A heart rate sensor supports workouts, the MagSafe Charging Case includes an Ultra Wideband chip for Find My, and earbuds and case are IP57 rated. Listening time is up to 8 hours with ANC, or 24 hours with the case.",
    "keywords": "airpods pro 3 anc hearing aid heart rate",
    "specs": {
-    "connectivity": "Bluetooth 5.3",
+    "connectivity": "Bluetooth",
     "noiseCancelling": true,
     "batteryHours": 8,
     "drivers": "Custom high-excursion Apple driver",
     "waterResistance": "IP57 (earbuds and case)",
     "weightG": 5.55,
+    "connectionDetails": "Bluetooth 5.3",
     "colors": "White"
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-APPLE-AIRPODSMAX2",
@@ -1239,13 +2317,37 @@
    "description": "AirPods Max 2 use Apple-designed dynamic drivers and an Apple H2 headphone chip in each ear cup to power Active Noise Cancellation, Adaptive Audio and Adaptive EQ with eight ANC microphones. They support lossless audio and ultra-low-latency audio via USB-C, a Digital Crown for control, and up to 20 hours of listening with ANC on.",
    "keywords": "airpods max 2 over ear headphones anc lossless",
    "specs": {
-    "connectivity": "Bluetooth 5.3; USB-C (lossless and ultra-low-latency audio)",
+    "connectivity": "Bluetooth",
     "noiseCancelling": true,
     "batteryHours": 20,
     "drivers": "Apple-designed dynamic driver",
     "weightG": 386.2,
+    "connectionDetails": "Bluetooth 5.3; USB-C (lossless and ultra-low-latency audio)",
     "colors": "Midnight, Starlight, Blue, Purple, Orange"
-   }
+   },
+   "options": [
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Midnight",
+       "default": true
+      },
+      {
+       "label": "Starlight"
+      },
+      {
+       "label": "Blue"
+      },
+      {
+       "label": "Purple"
+      },
+      {
+       "label": "Orange"
+      }
+     ]
+    }
+   ]
   },
   {
    "sku": "TK-APPLE-HOMEPOD2",
@@ -1274,7 +2376,21 @@
     "connectivity": "802.11n Wi-Fi, Bluetooth 5.0, Thread, Ultra Wideband",
     "subscriptionRequired": false,
     "colors": "Midnight, White"
-   }
+   },
+   "options": [
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Midnight",
+       "default": true
+      },
+      {
+       "label": "White"
+      }
+     ]
+    }
+   ]
   },
   {
    "sku": "TK-APPLE-HOMEPODMINI",
@@ -1303,7 +2419,30 @@
     "connectivity": "802.11n Wi-Fi, Bluetooth 5.0, Thread, Ultra Wideband",
     "subscriptionRequired": false,
     "colors": "White, Yellow, Orange, Blue, Midnight"
-   }
+   },
+   "options": [
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "White",
+       "default": true
+      },
+      {
+       "label": "Yellow"
+      },
+      {
+       "label": "Orange"
+      },
+      {
+       "label": "Blue"
+      },
+      {
+       "label": "Midnight"
+      }
+     ]
+    }
+   ]
   },
   {
    "sku": "TK-APPLE-VISIONPRO-M5",
@@ -1332,7 +2471,27 @@
     "chip": "Apple M5 (16GB unified memory) + Apple R1",
     "display": "Micro-OLED 3D display system, 23 million pixels, 90/96/100/120Hz",
     "configurations": "256GB – $3,699 · 512GB – $3,899 · 1TB – $4,199"
-   }
+   },
+   "options": [
+    {
+     "name": "Storage",
+     "values": [
+      {
+       "label": "256GB",
+       "price": "3699.00",
+       "default": true
+      },
+      {
+       "label": "512GB",
+       "price": "3899.00"
+      },
+      {
+       "label": "1TB",
+       "price": "4199.00"
+      }
+     ]
+    }
+   ]
   },
   {
    "sku": "TK-APPLE-MAGICKEYBOARD-USBC",
@@ -1359,12 +2518,13 @@
    "keywords": "magic keyboard wireless mac keyboard usb-c",
    "specs": {
     "connection": "Bluetooth; USB-C (pairing and charging)",
-    "layout": "Compact, US English (other languages available)",
+    "layout": "Compact",
     "switchType": "Scissor mechanism",
     "mechanical": false,
     "macSupport": true,
     "colors": "White"
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-APPLE-MAGICKEYBOARD-TID",
@@ -1391,12 +2551,13 @@
    "keywords": "magic keyboard touch id fingerprint mac",
    "specs": {
     "connection": "Bluetooth; USB-C (pairing and charging)",
-    "layout": "Compact, US English (other languages available)",
+    "layout": "Compact",
     "switchType": "Scissor mechanism",
     "mechanical": false,
     "macSupport": true,
     "colors": "White"
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-APPLE-MAGICKEYBOARD-TIDNUM",
@@ -1423,13 +2584,41 @@
    "keywords": "magic keyboard numeric keypad touch id full size",
    "specs": {
     "connection": "Bluetooth; USB-C (pairing and charging)",
-    "layout": "Full-size with numeric keypad, US English (other languages available)",
+    "layout": "Full size",
     "switchType": "Scissor mechanism",
     "mechanical": false,
     "macSupport": true,
     "colors": "White, Black",
     "configurations": "White keys – $179 · Black keys – $199"
-   }
+   },
+   "options": [
+    {
+     "name": "Configuration",
+     "values": [
+      {
+       "label": "White keys",
+       "price": "179.00",
+       "default": true
+      },
+      {
+       "label": "Black keys",
+       "price": "199.00"
+      }
+     ]
+    },
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "White",
+       "default": true
+      },
+      {
+       "label": "Black"
+      }
+     ]
+    }
+   ]
   },
   {
    "sku": "TK-APPLE-MAGICMOUSE-USBC",
@@ -1457,7 +2646,21 @@
     "connection": "Bluetooth; USB-C (pairing and charging)",
     "colors": "White, Black",
     "weightG": 99
-   }
+   },
+   "options": [
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "White",
+       "default": true
+      },
+      {
+       "label": "Black"
+      }
+     ]
+    }
+   ]
   },
   {
    "sku": "TK-APPLE-MAGICTRACKPAD-USBC",
@@ -1486,7 +2689,21 @@
     "connection": "Bluetooth; USB-C (pairing and charging)",
     "colors": "White, Black",
     "weightG": 230
-   }
+   },
+   "options": [
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "White",
+       "default": true
+      },
+      {
+       "label": "Black"
+      }
+     ]
+    }
+   ]
   },
   {
    "sku": "TK-APPLE-MKIPADPRO11-M5",
@@ -1513,7 +2730,21 @@
    "specs": {
     "compatibility": "iPad Pro 11-inch (M5), iPad Pro 11-inch (M4)",
     "colors": "White, Black"
-   }
+   },
+   "options": [
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "White",
+       "default": true
+      },
+      {
+       "label": "Black"
+      }
+     ]
+    }
+   ]
   },
   {
    "sku": "TK-APPLE-MKIPADPRO13-M5",
@@ -1540,7 +2771,21 @@
    "specs": {
     "compatibility": "iPad Pro 13-inch (M5), iPad Pro 13-inch (M4)",
     "colors": "Black, White"
-   }
+   },
+   "options": [
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Black",
+       "default": true
+      },
+      {
+       "label": "White"
+      }
+     ]
+    }
+   ]
   },
   {
    "sku": "TK-APPLE-MKIPADAIR11-M4",
@@ -1567,7 +2812,21 @@
    "specs": {
     "compatibility": "iPad Air 11-inch (M4, M3, M2), iPad Air (5th and 4th generation)",
     "colors": "White, Black"
-   }
+   },
+   "options": [
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "White",
+       "default": true
+      },
+      {
+       "label": "Black"
+      }
+     ]
+    }
+   ]
   },
   {
    "sku": "TK-APPLE-MKIPADAIR13-M4",
@@ -1594,7 +2853,21 @@
    "specs": {
     "compatibility": "iPad Air 13-inch (M4, M3, M2)",
     "colors": "Black, White"
-   }
+   },
+   "options": [
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Black",
+       "default": true
+      },
+      {
+       "label": "White"
+      }
+     ]
+    }
+   ]
   },
   {
    "sku": "TK-APPLE-MKFOLIO-IPADA16",
@@ -1621,7 +2894,8 @@
    "specs": {
     "compatibility": "iPad (A16), iPad (10th generation)",
     "colors": "White"
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-APPLE-PENCILPRO",
@@ -1649,7 +2923,8 @@
    "specs": {
     "compatibility": "iPad Pro 13/11-inch (M5, M4), iPad Air 13/11-inch (M4, M3, M2), iPad mini (A17 Pro)",
     "colors": "White"
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-APPLE-PENCIL-USBC",
@@ -1676,7 +2951,8 @@
    "specs": {
     "compatibility": "iPad Pro (M5, M4 and earlier), iPad Air (M4 and earlier), iPad (A16), iPad mini (A17 Pro), iPhone Duo",
     "colors": "White"
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-APPLE-MAGSAFECHARGER",
@@ -1704,7 +2980,23 @@
     "interface": "MagSafe / Qi2 25W wireless charger with integrated USB-C cable",
     "powerDeliveryW": 25,
     "configurations": "1 m cable – $39 · 2 m cable – $49"
-   }
+   },
+   "options": [
+    {
+     "name": "Configuration",
+     "values": [
+      {
+       "label": "1 m cable",
+       "price": "39.00",
+       "default": true
+      },
+      {
+       "label": "2 m cable",
+       "price": "49.00"
+      }
+     ]
+    }
+   ]
   },
   {
    "sku": "TK-APPLE-20W-USBC-ADAPTER",
@@ -1731,7 +3023,8 @@
    "specs": {
     "interface": "USB-C (single port)",
     "powerDeliveryW": 20
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-APPLE-35W-DUAL-ADAPTER",
@@ -1758,7 +3051,8 @@
    "specs": {
     "interface": "2x USB-C",
     "powerDeliveryW": 35
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-APPLE-40W-DYNAMIC-ADAPTER",
@@ -1785,7 +3079,8 @@
    "specs": {
     "interface": "USB-C (single port), Adjustable Voltage Supply",
     "powerDeliveryW": 60
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-APPLE-70W-USBC-ADAPTER",
@@ -1812,7 +3107,8 @@
    "specs": {
     "interface": "USB-C (single port)",
     "powerDeliveryW": 70
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-APPLE-96W-USBC-ADAPTER",
@@ -1839,7 +3135,8 @@
    "specs": {
     "interface": "USB-C (single port)",
     "powerDeliveryW": 96
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-APPLE-140W-USBC-ADAPTER",
@@ -1866,7 +3163,8 @@
    "specs": {
     "interface": "USB-C (single port)",
     "powerDeliveryW": 140
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-APPLE-TB5-PRO-CABLE-1M",
@@ -1893,7 +3191,8 @@
    "specs": {
     "interface": "Thunderbolt 5 (USB-C), up to 120Gb/s, DisplayPort 2.1",
     "powerDeliveryW": 240
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-APPLE-TB4-PRO-CABLE-18M",
@@ -1921,7 +3220,23 @@
     "interface": "Thunderbolt 4 (USB-C), up to 40Gb/s, DisplayPort (HBR3)",
     "powerDeliveryW": 100,
     "configurations": "1.8 m – $129 · 3 m – $159"
-   }
+   },
+   "options": [
+    {
+     "name": "Configuration",
+     "values": [
+      {
+       "label": "1.8 m",
+       "price": "129.00",
+       "default": true
+      },
+      {
+       "label": "3 m",
+       "price": "159.00"
+      }
+     ]
+    }
+   ]
   },
   {
    "sku": "TK-APPLE-EARPODS-USBC",
@@ -1946,11 +3261,13 @@
    "description": "EarPods have a shape defined by the geometry of the ear and speakers engineered to maximize sound output. The USB-C version includes a built-in remote to adjust volume, control music and video playback and answer or end calls, and works with USB-C iPhone (iOS 17 or later), iPad (iPadOS 16.4 or later) and Mac (macOS 12.6 or later).",
    "keywords": "earpods wired usb-c earphones",
    "specs": {
-    "connectivity": "Wired USB-C with in-line remote and microphone",
+    "connectivity": "Wired",
     "noiseCancelling": false,
     "waterResistance": "Sweat and water protection (no IP rating published)",
+    "connectionDetails": "Wired USB-C with in-line remote and microphone",
     "colors": "White"
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-APPLE-USBC-MAGSAFE3-CABLE",
@@ -1977,7 +3294,30 @@
    "specs": {
     "interface": "USB-C to MagSafe 3",
     "colors": "Silver, Space Black, Midnight, Starlight, Sky Blue"
-   }
+   },
+   "options": [
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Silver",
+       "default": true
+      },
+      {
+       "label": "Space Black"
+      },
+      {
+       "label": "Midnight"
+      },
+      {
+       "label": "Starlight"
+      },
+      {
+       "label": "Sky Blue"
+      }
+     ]
+    }
+   ]
   },
   {
    "sku": "TK-APPLE-240W-USBC-CABLE",
@@ -2004,7 +3344,8 @@
    "specs": {
     "interface": "USB-C to USB-C (USB 2 data rates)",
     "powerDeliveryW": 240
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-APPLE-AIRTAG2",
@@ -2037,7 +3378,23 @@
     "weightG": 11.8,
     "configurations": "1 pack – $29 · 4 pack – $99",
     "colors": "White / Silver"
-   }
+   },
+   "options": [
+    {
+     "name": "Pack",
+     "values": [
+      {
+       "label": "1 pack",
+       "price": "29.00",
+       "default": true
+      },
+      {
+       "label": "4 pack",
+       "price": "99.00"
+      }
+     ]
+    }
+   ]
   }
  ]
 }

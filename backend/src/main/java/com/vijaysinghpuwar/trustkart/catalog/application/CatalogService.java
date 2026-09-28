@@ -7,6 +7,8 @@ import com.vijaysinghpuwar.trustkart.catalog.application.CatalogViews.FacetOptio
 import com.vijaysinghpuwar.trustkart.catalog.application.CatalogViews.FacetsDto;
 import com.vijaysinghpuwar.trustkart.catalog.application.CatalogViews.HomeDto;
 import com.vijaysinghpuwar.trustkart.catalog.application.CatalogViews.ImageCreditDto;
+import com.vijaysinghpuwar.trustkart.catalog.application.CatalogViews.OptionGroupDto;
+import com.vijaysinghpuwar.trustkart.catalog.application.CatalogViews.OptionValueDto;
 import com.vijaysinghpuwar.trustkart.catalog.application.CatalogViews.PriceRangeDto;
 import com.vijaysinghpuwar.trustkart.catalog.application.CatalogViews.ProductCardDto;
 import com.vijaysinghpuwar.trustkart.catalog.application.CatalogViews.ProductDetailDto;
@@ -16,6 +18,7 @@ import com.vijaysinghpuwar.trustkart.catalog.application.CatalogViews.SpecFacetD
 import com.vijaysinghpuwar.trustkart.catalog.application.CatalogViews.SpecGroupDto;
 import com.vijaysinghpuwar.trustkart.catalog.application.CatalogViews.SpecValueDto;
 import com.vijaysinghpuwar.trustkart.catalog.domain.Product;
+import com.vijaysinghpuwar.trustkart.catalog.domain.ProductOptions;
 import com.vijaysinghpuwar.trustkart.catalog.domain.SpecDataType;
 import com.vijaysinghpuwar.trustkart.catalog.domain.SpecDefinition;
 import com.vijaysinghpuwar.trustkart.catalog.infra.CatalogFacetRepository;
@@ -23,21 +26,25 @@ import com.vijaysinghpuwar.trustkart.catalog.infra.CategoryRepository;
 import com.vijaysinghpuwar.trustkart.catalog.infra.ProductRepository;
 import com.vijaysinghpuwar.trustkart.catalog.infra.ProductSearchRepository;
 import com.vijaysinghpuwar.trustkart.catalog.infra.SpecDefinitionRepository;
+import com.vijaysinghpuwar.trustkart.common.error.ApiError;
 import com.vijaysinghpuwar.trustkart.common.error.ApiException;
 import com.vijaysinghpuwar.trustkart.common.error.ErrorCode;
 import com.vijaysinghpuwar.trustkart.common.error.NotFoundException;
+import com.vijaysinghpuwar.trustkart.common.error.ValidationException;
 import com.vijaysinghpuwar.trustkart.common.money.MoneyWire;
 import java.math.BigDecimal;
 import java.time.Clock;
 import java.time.LocalDate;
 import java.util.ArrayList;
 import java.util.Collection;
+import java.util.Collections;
 import java.util.Comparator;
 import java.util.LinkedHashMap;
 import java.util.LinkedHashSet;
 import java.util.List;
 import java.util.Map;
 import java.util.Objects;
+import java.util.Optional;
 import java.util.Set;
 import java.util.stream.Collectors;
 import org.springframework.stereotype.Service;
@@ -171,8 +178,64 @@ public class CatalogService {
                 .map(CatalogMapper::card)
                 .toList();
 
+        List<OptionGroupDto> options = product.getOptions().stream()
+                .map(g -> new OptionGroupDto(g.name(), g.values().stream()
+                        .map(v -> new OptionValueDto(v.label(), v.price() == null ? null : MoneyWire.format(v.price()), v.isDefault()))
+                        .toList()))
+                .toList();
         return new ProductDetailDto(CatalogMapper.card(summary), product.getDescription(), product.getWarrantyMonths(),
-                breadcrumbs, images, specGroups, facets.collectionTags(product.getId()), related);
+                breadcrumbs, images, specGroups, facets.collectionTags(product.getId()), related, options);
+    }
+
+    /**
+     * The server's answer to "what does this configuration cost?". {@code selection} is canonical: every option group,
+     * in display order, mapped to the chosen label (defaults filled in). {@code label} reads like "512 GB · Silver" and
+     * is null for products without options, whose unit price is simply the product price.
+     */
+    public record ResolvedOptions(Map<String, String> selection, String label, BigDecimal unitPrice) {}
+
+    /** Resolves a shopper's option choice. Unknown groups or values are a 400 (VALIDATION_ERROR), never a guess. */
+    public ResolvedOptions resolveOptions(long productId, Map<String, String> selection) {
+        Product product = products.findById(productId).orElseThrow(() -> new NotFoundException("Product"));
+        return resolve(product, selection == null ? Map.of() : selection);
+    }
+
+    /** Same as {@link #resolveOptions} but empty when the stored choice no longer exists (e.g. an old cart line). */
+    public Optional<ResolvedOptions> resolveOptionsIfValid(long productId, Map<String, String> selection) {
+        try {
+            return Optional.of(resolveOptions(productId, selection));
+        } catch (ValidationException e) {
+            return Optional.empty();
+        }
+    }
+
+    private static ResolvedOptions resolve(Product product, Map<String, String> selection) {
+        List<ProductOptions.Group> groups = product.getOptions();
+        List<ApiError.FieldError> errors = new ArrayList<>();
+        for (String name : selection.keySet()) {
+            if (groups.stream().noneMatch(g -> g.name().equals(name))) {
+                errors.add(new ApiError.FieldError("options." + name, "is not an option of this product"));
+            }
+        }
+        Map<String, String> canonical = new LinkedHashMap<>();
+        BigDecimal price = product.getPrice();
+        for (ProductOptions.Group g : groups) {
+            String wanted = selection.get(g.name());
+            ProductOptions.Value chosen = wanted == null ? g.defaultValue() : g.find(wanted);
+            if (chosen == null) {
+                errors.add(new ApiError.FieldError("options." + g.name(), "must be one of the listed choices"));
+                continue;
+            }
+            canonical.put(g.name(), chosen.label());
+            if (chosen.price() != null) {
+                price = chosen.price();
+            }
+        }
+        if (!errors.isEmpty()) {
+            throw new ValidationException(errors);
+        }
+        String label = canonical.isEmpty() ? null : String.join(" · ", canonical.values());
+        return new ResolvedOptions(Collections.unmodifiableMap(canonical), label, price.setScale(MoneyWire.SCALE));
     }
 
     public FacetsDto facets(String categorySlug) {

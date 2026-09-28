@@ -1,6 +1,6 @@
 {
   "meta": {
-    "notes": "Razer, Framework and LG (LG Electronics) current products researched 2026-09-28 from official US sites: razer.com (embedded store product data: prices, specs, stock), frame.work (spec tabs and configurator/marketplace prices; many configs are pre-order), lg.com/us (product pages: list MSRP, spec tables, gallery images) and LG USA press release for 2026 OLED MSRPs. LG prices are LG.com list (MSRP) prices; current LG.com sale prices are noted in priceNote. Framework DIY Edition prices exclude memory/storage/OS. Razer Blade 14 and Framework Laptop 13 (AI 300)/Desktop were listed but out of stock on the research date. Razer product images are the official 500x500 store PNGs (largest clean studio asset found). Razer images omitted: the only clean studio assets on razer.com are 500x500 PNGs (product occupies <480 px after trimming, below the pipeline minimum); gallery images are dark lifestyle shots. LG 39GX950B/45GX950B images omitted (badged, non-white)."
+    "notes": "Razer, Framework and LG (LG Electronics) current products researched 2026-09-28 from official US sites: razer.com (embedded store product data: prices, specs, stock), frame.work (spec tabs and configurator/marketplace prices; many configs are pre-order), lg.com/us (product pages: list MSRP, spec tables, gallery images) and LG USA press release for 2026 OLED MSRPs. LG prices are LG.com list (MSRP) prices; current LG.com sale prices are noted in priceNote. Framework DIY Edition prices exclude memory/storage/OS. Razer Blade 14 and Framework Laptop 13 (AI 300)/Desktop were listed but out of stock on the research date. Razer product images are the official 500x500 store PNGs (largest clean studio asset found). Razer images omitted: the only clean studio assets on razer.com are 500x500 PNGs (product occupies <480 px after trimming, below the pipeline minimum); gallery images are dark lifestyle shots. LG 39GX950B/45GX950B use badge-free angled gallery shots (gallery-13 / gallery_16). Razer Cobra Pro uses the transparent hero render from its razer.com landing page. Other Razer images still omitted (re-checked 2026-09-28): store gallery images (1500x1000) and every press.razer.com newsroom asset are dark/lifestyle scenes; the only clean studio assets are the 500x500 store PNGs, which trim below the 480 px minimum."
   },
   "products": [
     {
@@ -831,6 +831,15 @@
         "product": "https://www.razer.com/gaming-mice/razer-cobra-pro",
         "specs": "https://www.razer.com/gaming-mice/razer-cobra-pro",
         "retrievedAt": "2026-09-28"
+      },
+      "image": {
+        "url": "https://assets2.razerzone.com/images/pnx.assets/608eb80ec16513e41c1a62caf1fb9b55/razer-cobra-pro-hero.webp",
+        "page": "https://www.razer.com/gaming-mice/razer-cobra-pro",
+        "sourceType": "manufacturer-product-page",
+        "rights": "Official Razer product image from razer.com (assets2.razerzone.com); Razer has not granted a reuse license — rights not verified.",
+        "credit": "Razer Inc.",
+        "alt": "Razer Cobra Pro wireless gaming mouse in black, top-down view with Chroma RGB underglow",
+        "match": "EXACT"
       }
     },
     {
@@ -1947,6 +1956,15 @@
         "product": "https://www.lg.com/us/monitors/lg-39gx950b-b-gaming-monitor",
         "specs": "https://www.lg.com/us/monitors/lg-39gx950b-b-gaming-monitor",
         "retrievedAt": "2026-09-28"
+      },
+      "image": {
+        "url": "https://media.us.lg.com/transform/ecomm-PDPGalleryZoom-1600x1062/77a21f15-e17b-4da5-a3ec-d68758e45f8e/Monitor-39GX950B-B-gallery-13_5000x5000",
+        "page": "https://www.lg.com/us/monitors/lg-39gx950b-b-gaming-monitor",
+        "sourceType": "manufacturer-product-page",
+        "rights": "Official LG.com US product gallery image (media.us.lg.com); LG has not granted a reuse license — rights not verified.",
+        "credit": "LG Electronics",
+        "alt": "LG UltraGear OLED evo 39GX950B 39-inch curved monitor, front view on its stand",
+        "match": "EXACT"
       }
     },
     {
@@ -1983,6 +2001,15 @@
         "product": "https://www.lg.com/us/monitors/lg-45gx950b-b-gaming-monitor",
         "specs": "https://www.lg.com/us/monitors/lg-45gx950b-b-gaming-monitor",
         "retrievedAt": "2026-09-28"
+      },
+      "image": {
+        "url": "https://media.us.lg.com/transform/ecomm-PDPGalleryZoom-1600x1062/e2706cfa-37b1-4d03-a6b8-cb53a19741ed/Monitor-45GX950B-B-gallery_16_5000x5000",
+        "page": "https://www.lg.com/us/monitors/lg-45gx950b-b-gaming-monitor",
+        "sourceType": "manufacturer-product-page",
+        "rights": "Official LG.com US product gallery image (media.us.lg.com); LG has not granted a reuse license — rights not verified.",
+        "credit": "LG Electronics",
+        "alt": "LG UltraGear OLED evo 45GX950B 45-inch curved monitor, angled front view on its stand",
+        "match": "EXACT"
       }
     },
     {

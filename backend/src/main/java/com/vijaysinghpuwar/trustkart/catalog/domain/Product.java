@@ -71,6 +71,11 @@ public class Product {
     @Column(nullable = false, columnDefinition = "jsonb")
     private Map<String, Object> specs = new LinkedHashMap<>();
 
+    /** Selectable purchase options; see {@link ProductOptions}. Empty for products sold in one configuration. */
+    @JdbcTypeCode(SqlTypes.JSON)
+    @Column(nullable = false, columnDefinition = "jsonb")
+    private List<Map<String, Object>> options = new ArrayList<>();
+
     @Column(nullable = false)
     private String keywords;
 
@@ -190,6 +195,21 @@ public class Product {
 
     public Map<String, Object> getSpecs() {
         return Map.copyOf(specs);
+    }
+
+    public List<ProductOptions.Group> getOptions() {
+        return ProductOptions.fromJson(options);
+    }
+
+    /** Replaces the options after validating them against the base price. Returns whether anything changed. */
+    public boolean setOptions(List<ProductOptions.Group> groups) {
+        ProductOptions.validate(groups, price);
+        List<Map<String, Object>> json = ProductOptions.toJson(groups);
+        if (json.equals(options)) {
+            return false;
+        }
+        this.options = json;
+        return true;
     }
 
     public String getKeywords() {

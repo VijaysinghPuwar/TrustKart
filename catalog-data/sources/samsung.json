@@ -1177,11 +1177,19 @@
         "creator-workstations",
         "samsung-ecosystem"
       ],
-      "notes": "No image: every official Samsung US gallery image of the Book6 Ultra carries a baked-in Copilot+ PC badge, and no clean Ultra-specific press image was found.",
       "sources": {
         "product": "https://www.samsung.com/us/computers/galaxy-book/galaxy-book6-series/",
         "specs": "https://news.samsung.com/global/engineered-for-perfection-galaxy-book6-delivers-advanced-performance-and-al-powered-productivity-in-a-sleek-new-design",
         "retrievedAt": "2026-09-28"
+      },
+      "image": {
+        "url": "https://api.samsungmobilepress.com/api/v1/file/B9DD9CCC3F24B7A55F41A9B7271E7D4E1B83D3D0F631E280FB31C98546BBFB245ABAFC57301D304F79453E088CEFEF1B9D5A4E57C65F86B3EE73B8AFA068AAE70DB8BFF4963F6105D6E85E6BDBBAB8414229871B2DD954950D055DC15893B0CB44156927BBFE1761E0C5D1D6A7AA8C70B5D42813AB7339F3072253BCFEEB161C632B4C70152686A9E3586B0B092FE232",
+        "page": "https://www.samsungmobilepress.com/media-assets/galaxy-book6-ultra",
+        "sourceType": "manufacturer-media-library",
+        "rights": "Samsung Mobile Press media-asset image (samsungmobilepress.com, public press asset); no general license verified.",
+        "credit": "Samsung",
+        "alt": "Samsung Galaxy Book6 Ultra 16-inch in Gray, open three-quarter view showing keyboard and AMOLED display",
+        "match": "EXACT"
       }
     },
     {
@@ -1346,11 +1354,19 @@
         "premium-laptops",
         "samsung-ecosystem"
       ],
-      "notes": "No image: Samsung US store gallery images carry a baked-in Copilot+ PC badge; the clean US Newsroom press image (img.us.news.samsung.com) cannot be fetched by the build because that host serves an incomplete TLS certificate chain.",
       "sources": {
         "product": "https://www.samsung.com/us/computers/galaxy-book/galaxy-book6-edge/",
         "specs": "https://news.samsung.com/us/galaxy-book6-edge-available-next-generation-ai-performance-premium-portability/",
         "retrievedAt": "2026-09-28"
+      },
+      "image": {
+        "url": "https://img.global.news.samsung.com/fr/wp-content/uploads/2026/06/Book6-Edge_16_US_009_Top-L-Perspective_RGB-2-scaled.jpg",
+        "page": "https://news.samsung.com/fr/le-galaxy-book6-edge-est-desormais-disponible-un-pc-performant-et-booste-a-lia-dans-un-format-ultraportable",
+        "sourceType": "manufacturer-press",
+        "rights": "Samsung Newsroom (France) press image; published for media use; no general license verified.",
+        "credit": "Samsung",
+        "alt": "Samsung Galaxy Book6 Edge 16-inch in Gray Blue, open three-quarter view showing keyboard and AMOLED display",
+        "match": "EXACT"
       }
     },
     {
@@ -1409,11 +1425,19 @@
       "collections": [
         "samsung-ecosystem"
       ],
-      "notes": "No image: Samsung US store gallery images carry a baked-in Copilot+ PC badge; the clean US Newsroom press image (img.us.news.samsung.com) cannot be fetched by the build because that host serves an incomplete TLS certificate chain.",
       "sources": {
         "product": "https://www.samsung.com/us/computers/galaxy-book/galaxy-book6-series/",
         "specs": "https://news.samsung.com/global/engineered-for-perfection-galaxy-book6-delivers-advanced-performance-and-al-powered-productivity-in-a-sleek-new-design",
         "retrievedAt": "2026-09-28"
+      },
+      "image": {
+        "url": "https://api.samsungmobilepress.com/api/v1/file/698A15C62BB8B3EFE76287CDB1D0D23956465567E4456CA01B833DE819CF78CB1A8AE242DE2E8269CABADE05EBFC4E5B31495FC2714AA81C852AED4BD5142FAA80C1507E0B61B0DACA1FB8D4FDE5EC972AB86B8113A9F4133EADE483A26133FB47790F79EF04123AB887C5EEE27A546486F6E0667CD324784249D171BAA741F4",
+        "page": "https://www.samsungmobilepress.com/media-assets/galaxy-book6",
+        "sourceType": "manufacturer-media-library",
+        "rights": "Samsung Mobile Press media-asset image (samsungmobilepress.com, public press asset); no general license verified.",
+        "credit": "Samsung",
+        "alt": "Samsung Galaxy Book6 14-inch in Gray, open front view",
+        "match": "EXACT"
       }
     },
     {

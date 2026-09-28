@@ -30,7 +30,8 @@
     "network": "2 x 2.5GbE RJ-45",
     "interface": "8 x SATA, 2 x M.2 2280 NVMe, 1 x PCIe Gen3 x8 (x4 link)",
     "rackMountable": false
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-SYNOLOGY-DS1525P",
@@ -62,7 +63,8 @@
     "network": "2 x 2.5GbE RJ-45",
     "interface": "5 x SATA, 2 x M.2 2280 NVMe",
     "rackMountable": false
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-SYNOLOGY-DS425P",
@@ -93,7 +95,8 @@
     "network": "1 x 2.5GbE + 1 x 1GbE RJ-45",
     "interface": "4 x SATA, 2 x M.2 2280 NVMe",
     "rackMountable": false
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-SYNOLOGY-DS225P",
@@ -124,7 +127,8 @@
     "network": "1 x 2.5GbE + 1 x 1GbE RJ-45",
     "interface": "2 x SATA",
     "rackMountable": false
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-SYNOLOGY-RS2825RPP",
@@ -156,7 +160,8 @@
     "network": "1 x 10GbE + 2 x 1GbE RJ-45",
     "interface": "16 x SATA, 1 x PCIe Gen3 x8 (x4 link), Mini-SAS HD expansion",
     "rackMountable": true
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-SYNOLOGY-RS1626XSP",
@@ -188,7 +193,8 @@
     "network": "2 x 10GbE RJ-45 + OOB management port",
     "interface": "4 x SATA, 2 x M.2 2280 NVMe, 1 x PCIe Gen4 x8",
     "rackMountable": true
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-SYNOLOGY-FS3420",
@@ -220,7 +226,8 @@
     "network": "2 x 10GbE RJ-45 + OOB management port",
     "interface": "24 x 2.5\" SATA SSD, 2 x PCIe Gen4 x8",
     "rackMountable": true
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-QNAP-TS462A",
@@ -251,7 +258,8 @@
     "network": "1 x 2.5GbE RJ-45",
     "interface": "4 x SATA 6Gb/s, 2 x M.2 2280 PCIe Gen3 x1",
     "rackMountable": false
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-QNAP-TSH1290FX",
@@ -283,7 +291,8 @@
     "network": "2 x 25GbE SFP28 + 2 x 2.5GbE",
     "interface": "12 x 2.5\" U.2 NVMe PCIe Gen4 / SATA, 4 x PCIe Gen4",
     "rackMountable": false
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-QNAP-TSH1277AFX",
@@ -314,7 +323,8 @@
     "network": "2 x 10GBASE-T + 2 x 2.5GbE",
     "interface": "12 x 2.5\" SATA 6Gb/s, 3 x PCIe Gen4",
     "rackMountable": false
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-QNAP-TVSAIH1688ATX",
@@ -346,7 +356,8 @@
     "network": "2 x 10GBASE-T + 2 x 2.5GbE",
     "interface": "12 x 3.5\" SATA + 4 x U.2 NVMe Gen4 x2, 3 x PCIe Gen4",
     "rackMountable": false
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-QNAP-TBSH574TX",
@@ -377,7 +388,8 @@
     "network": "1 x 10GBASE-T + 1 x 2.5GbE",
     "interface": "5 x E1.S / M.2 2280 PCIe Gen3, 2 x Thunderbolt 4",
     "rackMountable": false
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-ASUSTOR-AS6804T",
@@ -408,7 +420,8 @@
     "network": "2 x 10GbE + 2 x 5GbE",
     "interface": "4 x SATA, 4 x M.2 2280 NVMe PCIe 4.0, 2 x USB4",
     "rackMountable": false
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-ASUSTOR-AS6810T",
@@ -440,7 +453,8 @@
     "network": "2 x 10GbE + 2 x 5GbE",
     "interface": "10 x SATA, 4 x M.2 2280 NVMe PCIe 4.0, 2 x USB4",
     "rackMountable": false
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-ASUSTOR-FS6812X",
@@ -472,7 +486,8 @@
     "network": "2 x 10GbE",
     "interface": "12 x M.2 2280 NVMe (PCIe 4.0/3.0), 2 x USB4",
     "rackMountable": false
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-ASUSTOR-AS7224RDX",
@@ -504,7 +519,8 @@
     "network": "2 x 10GbE + 2 x 1GbE",
     "interface": "24 x SATA, 1 x M.2 NVMe PCIe 5.0 x4, PCIe Gen5 x8 + x4",
     "rackMountable": true
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-UGREEN-DXP8800ULTRA",
@@ -536,7 +552,8 @@
     "network": "2 x 10GbE",
     "interface": "8 x SATA, 2 x M.2 NVMe, 2 x Thunderbolt 4",
     "rackMountable": false
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-UGREEN-IDX6011-32G",
@@ -568,7 +585,8 @@
     "network": "2 x 10GbE",
     "interface": "6 x SATA, 2 x M.2 NVMe, 2 x Thunderbolt 4",
     "rackMountable": false
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-UGREEN-DXP4800PRO",
@@ -598,7 +616,8 @@
     "network": "1 x 10GbE + 1 x 2.5GbE",
     "interface": "4 x SATA, 2 x M.2 NVMe",
     "rackMountable": false
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-UGREEN-DXP4800GT",
@@ -629,7 +648,8 @@
     "network": "2 x 10GbE",
     "interface": "4 x SATA, 2 x M.2 NVMe",
     "rackMountable": false
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-TERRAMASTER-F4425PRO",
@@ -661,7 +681,8 @@
     "network": "2 x 5GbE",
     "interface": "4 x SATA, 3 x M.2 NVMe",
     "rackMountable": false
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-TERRAMASTER-F6425PRO",
@@ -692,7 +713,8 @@
     "network": "2 x 10GbE",
     "interface": "6 x SATA, 3 x M.2 NVMe, Thunderbolt 4",
     "rackMountable": false
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-TERRAMASTER-U12725PLUS",
@@ -724,7 +746,8 @@
     "network": "4 x 10GbE SFP+ + 2 x 5GbE",
     "interface": "12 x SATA hot-swap, 3 x M.2 PCIe 4.0 NVMe",
     "rackMountable": true
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-CYBERPOWER-PR1500RT2UCN",
@@ -755,7 +778,8 @@
     "waveform": "Sine wave (line interactive)",
     "rackMountable": true,
     "outlets": 8
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-CYBERPOWER-OL3KRTHD",
@@ -786,7 +810,8 @@
     "waveform": "Sine wave (double-conversion online)",
     "rackMountable": true,
     "outlets": 7
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-CYBERPOWER-OR1500PFCRT2U",
@@ -816,7 +841,8 @@
     "waveform": "Sine wave (line interactive)",
     "rackMountable": true,
     "outlets": 8
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-CYBERPOWER-CP1500PFCRM2U",
@@ -847,7 +873,8 @@
     "waveform": "Sine wave (line interactive)",
     "rackMountable": true,
     "outlets": 8
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-APC-SRT3000RMXLA",
@@ -878,7 +905,8 @@
     "waveform": "Pure sine wave (double-conversion online)",
     "rackMountable": true,
     "outlets": 9
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-APC-SRTL5KRM2UT",
@@ -909,7 +937,8 @@
     "waveform": "Pure sine wave (double-conversion online)",
     "rackMountable": true,
     "outlets": 4
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-APC-AR3100B2",
@@ -936,7 +965,8 @@
    "specs": {
     "rackUnits": 42,
     "rackType": "Enclosed 4-post cabinet with sides (600 x 1070 mm)"
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-STARTECH-RK2433BKM",
@@ -965,7 +995,8 @@
     "rackUnits": 24,
     "rackType": "Enclosed 4-post cabinet",
     "loadCapacityKg": 450
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-STARTECH-RK1236BKF",
@@ -994,7 +1025,8 @@
     "rackUnits": 12,
     "rackType": "Enclosed 4-post cabinet (flat pack)",
     "loadCapacityKg": 800
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-STARTECH-RKCONS1901",
@@ -1022,7 +1054,8 @@
    "specs": {
     "rackUnits": 1,
     "rackType": "Rackmount LCD KVM console drawer"
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-STARTECH-SV431DPU3A2",
@@ -1049,7 +1082,8 @@
    "keywords": "startech kvm switch 4 port displayport usb 3.0 4k",
    "specs": {
     "rackType": "Desktop KVM switch (4-port DisplayPort)"
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-STARTECH-C6APANELSTP241UFT",
@@ -1077,7 +1111,8 @@
    "specs": {
     "rackUnits": 1,
     "rackType": "24-port Cat6a feed-through patch panel"
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-SUPERMICRO-SYS822GSNB3RT",
@@ -1109,7 +1144,8 @@
     "gpuMemoryGb": 2300,
     "storage": "8 x hot-swap E1.S NVMe + 2 x M.2 NVMe",
     "network": "8 x 800GbE OSFP (ConnectX-8 SuperNIC) + 2 x 10GbE"
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-SUPERMICRO-SYS422GSNBRTLCC",
@@ -1141,7 +1177,8 @@
     "gpuMemoryGb": 1440,
     "storage": "8 x hot-swap E1.S NVMe + 2 x M.2 NVMe",
     "network": "2 x 10GbE RJ45 (Intel X710) + BMC"
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-SUPERMICRO-SYS222HTN",
@@ -1176,7 +1213,8 @@
     "driveBays": 8,
     "network": "2 x AIOM (OCP 3.0) slots + 1GbE BMC",
     "psu": "2 x redundant, 1200-2600 W Titanium options"
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-SUPERMICRO-SYS112CTN",
@@ -1210,7 +1248,8 @@
     "driveBays": 8,
     "network": "1 x AIOM (OCP 3.0) slot + 1GbE BMC",
     "psu": "2 x 1000 W redundant Titanium"
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-SUPERMICRO-SYS551AT",
@@ -1242,7 +1281,8 @@
     "driveBays": 6,
     "network": "1 x 10GbE + 1 x 1GbE",
     "psu": "2000 W Platinum"
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-MINISFORUM-MSA2",
@@ -1273,7 +1313,39 @@
     "networking": "2 x 10G SFP+ (Intel X710) + 2 x 2.5GbE",
     "ports": "PCIe x16 slot (bifurcated), 3 x NVMe (1 x U.2 capable)",
     "configurations": "Ryzen 9 9955HX barebone – $799 · Ryzen 9 9955HX / 32 GB + 1 TB – $1,303 · Ryzen 9 9955HX / 64 GB + 1 TB – $1,663 · Ryzen 9 9955HX / 96 GB + 2 TB – $2,063 · Ryzen 9 8945HX barebone – $559 · Ryzen 7 7745HX barebone – $439"
-   }
+   },
+   "options": [
+    {
+     "name": "Configuration",
+     "values": [
+      {
+       "label": "Ryzen 9 9955HX barebone",
+       "price": "799.00",
+       "default": true
+      },
+      {
+       "label": "Ryzen 9 9955HX / 32 GB + 1 TB",
+       "price": "1303.00"
+      },
+      {
+       "label": "Ryzen 9 9955HX / 64 GB + 1 TB",
+       "price": "1663.00"
+      },
+      {
+       "label": "Ryzen 9 9955HX / 96 GB + 2 TB",
+       "price": "2063.00"
+      },
+      {
+       "label": "Ryzen 9 8945HX barebone",
+       "price": "559.00"
+      },
+      {
+       "label": "Ryzen 7 7745HX barebone",
+       "price": "439.00"
+      }
+     ]
+    }
+   ]
   },
   {
    "sku": "TK-MINISFORUM-MS03",
@@ -1303,7 +1375,31 @@
     "networking": "1 x 10GbE RJ45 + 1 x 2.5GbE + 2 x 10G SFP+ (Intel X710)",
     "ports": "2 x M.2 PCIe 5.0 x4, 1 x M.2 PCIe 4.0 x1, half-height PCIe slot",
     "configurations": "Core Ultra 5 336H barebone – $759 · Core Ultra 5 336H / 32 GB + 1 TB – $1,319 · Core Ultra 5 336H / 64 GB + 2 TB – $1,759 · Core Ultra 9 386H barebone – $999"
-   }
+   },
+   "options": [
+    {
+     "name": "Configuration",
+     "values": [
+      {
+       "label": "Core Ultra 5 336H barebone",
+       "price": "759.00",
+       "default": true
+      },
+      {
+       "label": "Core Ultra 5 336H / 32 GB + 1 TB",
+       "price": "1319.00"
+      },
+      {
+       "label": "Core Ultra 5 336H / 64 GB + 2 TB",
+       "price": "1759.00"
+      },
+      {
+       "label": "Core Ultra 9 386H barebone",
+       "price": "999.00"
+      }
+     ]
+    }
+   ]
   },
   {
    "sku": "TK-MINISFORUM-MS02ULTRA",
@@ -1336,7 +1432,31 @@
     "os": "Windows 11 Pro",
     "ports": "PCIe 5.0 x16 + PCIe 4.0 x16 (x4x4x4) + PCIe 4.0 x4, 4 x M.2 PCIe 4.0 x4",
     "configurations": "Core Ultra 9 285HX barebone – $1,159 · Core Ultra 9 285HX / 32 GB + 1 TB – $1,663 · Core Ultra 9 285HX-NS barebone – $1,039 · Core Ultra 5 235HX barebone – $599"
-   }
+   },
+   "options": [
+    {
+     "name": "Configuration",
+     "values": [
+      {
+       "label": "Core Ultra 9 285HX barebone",
+       "price": "1159.00",
+       "default": true
+      },
+      {
+       "label": "Core Ultra 9 285HX / 32 GB + 1 TB",
+       "price": "1663.00"
+      },
+      {
+       "label": "Core Ultra 9 285HX-NS barebone",
+       "price": "1039.00"
+      },
+      {
+       "label": "Core Ultra 5 235HX barebone",
+       "price": "599.00"
+      }
+     ]
+    }
+   ]
   },
   {
    "sku": "TK-MINISFORUM-MSS1MAX",
@@ -1371,7 +1491,23 @@
     "psuW": 320,
     "ports": "USB4 v2 (80 Gbps), PCIe x16 slot, 2 x M.2 PCIe 4.0",
     "configurations": "128 GB + 2 TB – $3,799 · 128 GB + 4 TB – $4,119"
-   }
+   },
+   "options": [
+    {
+     "name": "Storage",
+     "values": [
+      {
+       "label": "128 GB + 2 TB",
+       "price": "3799.00",
+       "default": true
+      },
+      {
+       "label": "128 GB + 4 TB",
+       "price": "4119.00"
+      }
+     ]
+    }
+   ]
   },
   {
    "sku": "TK-MINISFORUM-N5PRO",
@@ -1402,7 +1538,8 @@
     "network": "1 x 10GbE + 1 x 5GbE",
     "interface": "5 x SATA, 3 x M.2 NVMe PCIe 4.0, 2 x USB4, OCuLink",
     "rackMountable": false
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-BEELINK-SER10MAX",
@@ -1436,7 +1573,23 @@
     "networking": "10GbE",
     "configurations": "32 GB + 1 TB – $1,399 · 64 GB + 1 TB – $1,699",
     "colors": "Frost Silver"
-   }
+   },
+   "options": [
+    {
+     "name": "Storage",
+     "values": [
+      {
+       "label": "32 GB + 1 TB",
+       "price": "1399.00",
+       "default": true
+      },
+      {
+       "label": "64 GB + 1 TB",
+       "price": "1699.00"
+      }
+     ]
+    }
+   ]
   },
   {
    "sku": "TK-BEELINK-GTR9PRO",
@@ -1471,7 +1624,8 @@
     "ports": "2 x USB4 (40 Gbps), HDMI 2.1, DisplayPort 2.1",
     "configurations": "128 GB + 2 TB",
     "colors": "Frost Silver"
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-RASPBERRYPI-PI5-16GB",
@@ -1504,7 +1658,8 @@
     "networking": "Gigabit Ethernet (PoE+ via HAT), 802.11ac Wi-Fi, Bluetooth 5.0",
     "ports": "2 x USB 3.0, 2 x USB 2.0, 2 x micro HDMI (4Kp60), PCIe 2.0 x1",
     "configurations": "16 GB (other RAM sizes available)"
-   }
+   },
+   "options": []
   }
  ]
 }

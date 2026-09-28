@@ -37,7 +37,8 @@
     "ports": "2x Thunderbolt 5, 3x USB-A 3.2 Gen2, HDMI 2.1, 2.5GbE, SD Express",
     "wireless": "Killer Wi-Fi 7 BE1750, Bluetooth 5.4",
     "colors": "Core Black"
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-MSI-RAIDERA18HXA9W",
@@ -75,7 +76,8 @@
     "ports": "2x USB4 (Thunderbolt 4 compatible), 3x USB-A, HDMI 2.1",
     "wireless": "Killer Wi-Fi 7 BE1750",
     "colors": "Core Black"
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-MSI-STEALTH18HXAI",
@@ -113,7 +115,8 @@
     "ports": "2x Thunderbolt 4 (DP 2.1, PD 3.1 140 W), 2x USB-A 3.2 Gen2, HDMI 2.1",
     "wireless": "Killer Wi-Fi 7 BE1750",
     "colors": "Midnight Black"
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-MSI-STEALTHA18AI",
@@ -151,7 +154,8 @@
     "ports": "2x USB4 Type-C (DP, PD 3.1), 2x USB-A 3.2 Gen2, HDMI 2.1",
     "wireless": "MediaTek Wi-Fi 7",
     "colors": "Midnight Black"
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-MSI-VECTOR16HXAI",
@@ -188,7 +192,23 @@
     "wireless": "Intel Wi-Fi 6E AX211",
     "configurations": "Core Ultra 7 255HX / RTX 5070 Ti / 16 GB / 512 GB – $1,999.99 · Core Ultra 9 / RTX 5080 (A2XWIG-050US) – $2,599.99",
     "colors": "Cosmo Gray"
-   }
+   },
+   "options": [
+    {
+     "name": "Configuration",
+     "values": [
+      {
+       "label": "Core Ultra 7 255HX / RTX 5070 Ti / 16 GB / 512 GB",
+       "price": "1999.99",
+       "default": true
+      },
+      {
+       "label": "Core Ultra 9 / RTX 5080 (A2XWIG-050US)",
+       "price": "2599.99"
+      }
+     ]
+    }
+   ]
   },
   {
    "sku": "TK-MSI-CROSSHAIRA18HX",
@@ -224,7 +244,8 @@
     "ports": "1x USB-C 3.2 Gen2 (DP, PD 3.0), 3x USB-A 3.2 Gen2, HDMI 2.1",
     "wireless": "AMD RZ616 Wi-Fi 6E",
     "colors": "Black"
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-MSI-PRESTIGE16FLIPAI",
@@ -262,7 +283,8 @@
     "ports": "2x Thunderbolt 4, 2x USB-A 3.2 Gen1, HDMI 2.1",
     "wireless": "Intel Killer Wi-Fi 7 BE1775",
     "colors": "Platinum Gray"
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-MSI-SUMMIT13AIEVO",
@@ -300,7 +322,8 @@
     "ports": "2x Thunderbolt 4, 2x USB-A 3.2 Gen2, HDMI 2.1",
     "wireless": "Intel Killer Wi-Fi 7 BE1750",
     "colors": "Ink Black"
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-MSI-CLAW8AIPLUS",
@@ -325,15 +348,17 @@
    "description": "The Claw 8 AI+ A2VM-001US runs Windows 11 on an Intel Core Ultra 7 258V with Intel Arc 140V graphics and 32 GB LPDDR5X-8533. It has an 8-inch FHD+ 120 Hz touchscreen, a 1 TB M.2 2230 SSD, Killer Wi-Fi 7 and an 80 Wh battery, and weighs 1.75 lb.",
    "keywords": "claw handheld pc lunar lake portable gaming",
    "specs": {
-    "platform": "Windows 11 Home",
+    "platform": "PC (Windows)",
     "chip": "Intel Core Ultra 7 258V (Intel Arc 140V)",
     "storage": "1 TB NVMe SSD (M.2 2230)",
     "display": "8\" FHD+ (1920x1200) 120 Hz IPS-level touch",
     "connectivity": "Killer Wi-Fi 7 BE1750",
     "battery": "80 Wh",
     "weightG": 795,
-    "colors": "Black"
-   }
+    "colors": "Black",
+    "compatibility": "Windows 11 Home"
+   },
+   "options": []
   },
   {
    "sku": "TK-MSI-CLAWA8",
@@ -356,15 +381,17 @@
    "description": "The Claw A8 BZ2EM-070US is MSI's AMD-based handheld, using the Ryzen Z2 Extreme with Radeon 890M graphics and 24 GB LPDDR5X. It has an 8-inch FHD+ 120 Hz VRR touchscreen, a 1 TB M.2 2280 SSD, Wi-Fi 7 and an 80 Wh battery, and weighs 1.68 lb.",
    "keywords": "claw a8 ryzen z2 extreme handheld",
    "specs": {
-    "platform": "Windows 11 Home",
+    "platform": "PC (Windows)",
     "chip": "AMD Ryzen Z2 Extreme (Radeon 890M)",
     "storage": "1 TB NVMe SSD (M.2 2280)",
     "display": "8\" FHD+ (1920x1200) 120 Hz VRR touch",
     "connectivity": "Wi-Fi 7, Bluetooth 5.4",
     "battery": "80 Wh",
     "weightG": 762,
-    "colors": "White"
-   }
+    "colors": "White",
+    "compatibility": "Windows 11 Home"
+   },
+   "options": []
   },
   {
    "sku": "TK-MSI-RTX5090-SUPRIMLIQ",
@@ -390,7 +417,7 @@
    "description": "MSI's SUPRIM LIQUID SOC version of the GeForce RTX 5090 pairs 32 GB of GDDR7 with an all-in-one liquid cooler and a 360 mm-class radiator. It uses a PCIe 5.0 x16 interface, draws up to 600 W in Gaming mode and MSI recommends a 1000 W power supply.",
    "keywords": "rtx 5090 liquid cooled suprim gpu",
    "specs": {
-    "chipset": "NVIDIA GeForce RTX 5090",
+    "chipset": "GeForce RTX 5090",
     "architecture": "NVIDIA Blackwell",
     "vramGb": 32,
     "memoryType": "GDDR7",
@@ -398,7 +425,8 @@
     "boardPowerW": 600,
     "recommendedPsuW": 1000,
     "lengthMm": 280
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-MSI-RTX5080-SUPRIMLIQ",
@@ -423,7 +451,7 @@
    "description": "The SUPRIM LIQUID SOC RTX 5080 carries 16 GB GDDR7 at 30 Gbps on a 256-bit bus and 10,752 CUDA cores. It is rated at 360 W with a single 16-pin connector, and MSI lists an 850 W minimum power supply.",
    "keywords": "rtx 5080 liquid suprim gpu",
    "specs": {
-    "chipset": "NVIDIA GeForce RTX 5080",
+    "chipset": "GeForce RTX 5080",
     "architecture": "NVIDIA Blackwell",
     "vramGb": 16,
     "memoryType": "GDDR7",
@@ -431,7 +459,8 @@
     "boardPowerW": 360,
     "recommendedPsuW": 850,
     "lengthMm": 280
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-MSI-RTX5070TI-GTRIO",
@@ -454,7 +483,7 @@
    "description": "MSI's GAMING TRIO OC RTX 5070 Ti uses a triple-fan TRI FROZR cooler on a 338 mm card with 16 GB of GDDR7. It is rated at 300 W and MSI recommends a 750 W power supply.",
    "keywords": "rtx 5070 ti gaming trio gpu",
    "specs": {
-    "chipset": "NVIDIA GeForce RTX 5070 Ti",
+    "chipset": "GeForce RTX 5070 Ti",
     "architecture": "NVIDIA Blackwell",
     "vramGb": 16,
     "memoryType": "GDDR7",
@@ -462,7 +491,8 @@
     "boardPowerW": 300,
     "recommendedPsuW": 750,
     "lengthMm": 338
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-MSI-X870EGODLIKEMAX",
@@ -488,13 +518,14 @@
    "keywords": "godlike x870e am5 flagship motherboard",
    "specs": {
     "socket": "AM5",
-    "chipset": "AMD X870E",
+    "chipset": "X870E",
     "formFactor": "E-ATX",
     "memoryType": "DDR5",
     "memorySlots": 4,
     "wifi": "Wi-Fi 7",
     "lan": "10GbE (Marvell AQC) + 5GbE (Realtek)"
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-MSI-X870ECARBONWIFI",
@@ -518,14 +549,15 @@
    "keywords": "carbon x870e am5 motherboard",
    "specs": {
     "socket": "AM5",
-    "chipset": "AMD X870E",
+    "chipset": "X870E",
     "formFactor": "ATX",
     "memoryType": "DDR5",
     "memorySlots": 4,
     "maxMemoryGb": 256,
     "wifi": "Wi-Fi 7",
     "lan": "5GbE + 2.5GbE (Realtek)"
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-MSI-X870ETOMAHAWKMAX",
@@ -549,13 +581,14 @@
    "keywords": "tomahawk x870e am5 motherboard",
    "specs": {
     "socket": "AM5",
-    "chipset": "AMD X870E",
+    "chipset": "X870E",
     "formFactor": "ATX",
     "memoryType": "DDR5",
     "memorySlots": 4,
     "wifi": "Wi-Fi 7",
     "lan": "5GbE (Realtek)"
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-MSI-Z890ACE",
@@ -578,15 +611,16 @@
    "description": "The MEG Z890 ACE is an ATX board for Intel Core Ultra (LGA 1851) processors with four DDR5 UDIMM slots (up to 256 GB, 9200 MT/s OC), a Marvell AQC113CS 10 Gbps LAN and an Intel Killer BE1750x Wi-Fi 7 module.",
    "keywords": "z890 ace lga1851 intel motherboard",
    "specs": {
-    "socket": "LGA 1851",
-    "chipset": "Intel Z890",
+    "socket": "LGA1851",
+    "chipset": "Z890",
     "formFactor": "ATX",
     "memoryType": "DDR5",
     "memorySlots": 4,
     "maxMemoryGb": 256,
     "wifi": "Intel Killer BE1750x Wi-Fi 7",
     "lan": "10GbE (Marvell AQC113CS)"
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-MSI-MPG271QRX50",
@@ -613,12 +647,13 @@
    "keywords": "500hz qd-oled esports monitor 27 inch",
    "specs": {
     "sizeIn": 27,
-    "resolution": "2560x1440 (QHD)",
+    "resolution": "2560x1440",
     "refreshHz": 500,
     "panel": "QD-OLED",
     "inputs": "2x HDMI 2.1, 1x DisplayPort 2.1a, 1x USB-C (DP Alt)",
     "usbCPowerW": 98
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-MSI-MPG322URX",
@@ -645,12 +680,13 @@
    "keywords": "4k 240hz qd-oled 32 inch dp 2.1",
    "specs": {
     "sizeIn": 32,
-    "resolution": "3840x2160 (UHD)",
+    "resolution": "3840x2160",
     "refreshHz": 240,
     "panel": "QD-OLED",
     "inputs": "2x HDMI 2.1, 1x DisplayPort 2.1, 1x USB-C (DP Alt)",
     "usbCPowerW": 98
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-MSI-MAG272QPX24",
@@ -676,11 +712,12 @@
    "keywords": "qd-oled 1440p 240hz budget oled monitor",
    "specs": {
     "sizeIn": 27,
-    "resolution": "2560x1440 (QHD)",
+    "resolution": "2560x1440",
     "refreshHz": 240,
     "panel": "QD-OLED",
     "inputs": "2x HDMI 2.1, 1x DisplayPort 1.4a, 1x USB-C (DP Alt)"
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-MSI-MPG491CQPX",
@@ -706,11 +743,12 @@
    "keywords": "49 inch super ultrawide qd-oled 32:9",
    "specs": {
     "sizeIn": 49,
-    "resolution": "5120x1440 (DQHD)",
+    "resolution": "5120x1440",
     "refreshHz": 240,
     "panel": "QD-OLED",
     "inputs": "2x HDMI 2.1, 1x DisplayPort 1.4a, 1x USB-C (DP Alt)"
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-MSI-INFINITEZS",
@@ -743,7 +781,8 @@
     "os": "Windows 11 Home",
     "networking": "2.5GbE (Realtek 8125D), Wi-Fi 7",
     "psuW": 1300
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-MSI-AEGISRS2AI",
@@ -774,7 +813,8 @@
     "os": "Windows 11 Home",
     "networking": "2.5GbE, Wi-Fi 6E",
     "psuW": 750
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-MSI-EDGEXPERT",
@@ -807,7 +847,8 @@
     "storage": "4 TB NVMe Gen4 (self-encrypting)",
     "network": "Wi-Fi 7",
     "powerKw": 0.24
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-ACER-PHN16I71",
@@ -843,7 +884,8 @@
     "os": "Windows 11 Home",
     "wireless": "Intel Killer Wi-Fi 6E AX1675i, Bluetooth 5.4",
     "colors": "Abyssal Black"
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-ACER-PHN14-71",
@@ -879,7 +921,8 @@
     "os": "Windows 11 Home",
     "wireless": "Intel Killer Wi-Fi 6E AX1675i",
     "colors": "Abyssal Black"
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-ACER-ANV16-61",
@@ -913,7 +956,23 @@
     "os": "Windows 11 Home",
     "configurations": "Ryzen 5 340 / 16 GB / 512 GB (ANV16-61-R2QY) – $1,299.99 · Ryzen 7 350 (ANV16-61-R9MV) – $1,399.99",
     "colors": "Obsidian Black"
-   }
+   },
+   "options": [
+    {
+     "name": "Configuration",
+     "values": [
+      {
+       "label": "Ryzen 5 340 / 16 GB / 512 GB (ANV16-61-R2QY)",
+       "price": "1299.99",
+       "default": true
+      },
+      {
+       "label": "Ryzen 7 350 (ANV16-61-R9MV)",
+       "price": "1399.99"
+      }
+     ]
+    }
+   ]
   },
   {
    "sku": "TK-ACER-AN16S-61",
@@ -947,7 +1006,23 @@
     "os": "Windows 11 Home",
     "configurations": "Ryzen 7 350 / RTX 5060 / 1 TB (AN16S-61-R7YL) – $1,499.99 · AN16S-61-R5FY – $1,849.99",
     "colors": "Black"
-   }
+   },
+   "options": [
+    {
+     "name": "Configuration",
+     "values": [
+      {
+       "label": "Ryzen 7 350 / RTX 5060 / 1 TB (AN16S-61-R7YL)",
+       "price": "1499.99",
+       "default": true
+      },
+      {
+       "label": "AN16S-61-R5FY",
+       "price": "1849.99"
+      }
+     ]
+    }
+   ]
   },
   {
    "sku": "TK-ACER-SFX14-73G",
@@ -983,7 +1058,8 @@
     "os": "Windows 11 Home",
     "wireless": "Intel Killer Wi-Fi 6E AX1675i",
     "colors": "Titanium Gray"
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-ACER-SFG16-I71T",
@@ -1019,7 +1095,8 @@
     "os": "Windows 11 Home",
     "wireless": "Intel Wi-Fi 7 BE211",
     "colors": "Vapor Silver"
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-ACER-CB314-2H",
@@ -1051,7 +1128,8 @@
     "display": "14\" WUXGA (1920x1200) IPS",
     "os": "ChromeOS",
     "colors": "Moonlight Silver"
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-ACER-PO6-605",
@@ -1085,7 +1163,8 @@
     "networking": "Realtek Ethernet, Wi-Fi 7, Bluetooth 5.4",
     "psuW": 850,
     "colors": "White"
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-ACER-PREDX27UF5",
@@ -1111,11 +1190,12 @@
    "keywords": "predator 500hz qd-oled esports monitor",
    "specs": {
     "sizeIn": 26.5,
-    "resolution": "2560x1440 (WQHD)",
+    "resolution": "2560x1440",
     "refreshHz": 500,
     "panel": "QD-OLED",
     "inputs": "2x HDMI 2.1, DisplayPort, USB-C"
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-ACER-PREDX34X5",
@@ -1141,11 +1221,13 @@
    "keywords": "predator ultrawide oled 34 inch curved 240hz",
    "specs": {
     "sizeIn": 34,
-    "resolution": "3440x1440 (UWQHD)",
+    "resolution": "3440x1440",
     "refreshHz": 240,
-    "panel": "OLED (curved)",
-    "inputs": "2x HDMI 2.1, DisplayPort, USB-C"
-   }
+    "panel": "OLED",
+    "inputs": "2x HDMI 2.1, DisplayPort, USB-C",
+    "panelDetails": "OLED (curved)"
+   },
+   "options": []
   },
   {
    "sku": "TK-ACER-PREDX49X",
@@ -1169,10 +1251,11 @@
    "keywords": "predator 49 inch super ultrawide 32:9 240hz",
    "specs": {
     "sizeIn": 49,
-    "resolution": "5120x1440 (Dual QHD)",
+    "resolution": "5120x1440",
     "refreshHz": 240,
     "inputs": "1x HDMI 2.1, DisplayPort, USB-C"
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-ACER-PREDXB273UF5",
@@ -1196,11 +1279,12 @@
    "keywords": "predator xb3 360hz ips esports monitor",
    "specs": {
     "sizeIn": 27,
-    "resolution": "2560x1440 (QHD)",
+    "resolution": "2560x1440",
     "refreshHz": 360,
     "panel": "IPS",
     "inputs": "2x HDMI 2.1, DisplayPort"
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-GIGA-AORUSM16AM6J",
@@ -1237,7 +1321,8 @@
     "ports": "USB4 Type-C (DP 1.4, PD 3.0), HDMI 2.1, USB-A 3.2 Gen2, RJ-45",
     "wireless": "Wi-Fi 7, Bluetooth 5.4",
     "colors": "5-degree Black"
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-GIGA-AORUSM18AM8H",
@@ -1272,7 +1357,8 @@
     "os": "Windows 11",
     "wireless": "Wi-Fi 7, Bluetooth 5.4, 2.5GbE LAN",
     "colors": "5-degree Black"
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-GIGA-A18PROGA8J",
@@ -1306,7 +1392,8 @@
     "os": "Windows 11",
     "wireless": "Wi-Fi 6E, Bluetooth 5.3",
     "colors": "Titanium Black"
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-GIGA-AEROX16EG64H",
@@ -1341,7 +1428,21 @@
     "os": "Windows 11",
     "wireless": "Wi-Fi 6E, Bluetooth 5.3",
     "colors": "Lunar White, Space Gray"
-   }
+   },
+   "options": [
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Lunar White",
+       "default": true
+      },
+      {
+       "label": "Space Gray"
+      }
+     ]
+    }
+   ]
   },
   {
    "sku": "TK-GIGA-X870EXTRX3D",
@@ -1368,14 +1469,15 @@
    "keywords": "aorus xtreme x870e x3d ai top am5 flagship",
    "specs": {
     "socket": "AM5",
-    "chipset": "AMD X870E",
+    "chipset": "X870E",
     "formFactor": "E-ATX",
     "memoryType": "DDR5",
     "memorySlots": 4,
     "maxMemoryGb": 256,
     "wifi": "Wi-Fi 7 (MediaTek MT7927)",
     "lan": "2x 10GbE (Realtek)"
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-GIGA-X870EMASTX3D",
@@ -1399,14 +1501,15 @@
    "keywords": "aorus master x870e x3d am5 motherboard",
    "specs": {
     "socket": "AM5",
-    "chipset": "AMD X870E",
+    "chipset": "X870E",
     "formFactor": "ATX",
     "memoryType": "DDR5",
     "memorySlots": 4,
     "maxMemoryGb": 256,
     "wifi": "Wi-Fi 7 (MediaTek MT7927)",
     "lan": "10GbE + 5GbE (Realtek)"
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-GIGA-Z890MASTER",
@@ -1429,15 +1532,16 @@
    "description": "The Z890 AORUS MASTER is an ATX board for Intel Core Ultra (LGA 1851) processors on the Z890 chipset. It has four DDR5 DIMM slots supporting up to 256 GB and up to 9500 MT/s (OC), a Marvell AQtion AQC113C 10GbE LAN and Intel Wi-Fi 7 BE200.",
    "keywords": "aorus master z890 lga1851 intel motherboard",
    "specs": {
-    "socket": "LGA 1851",
-    "chipset": "Intel Z890",
+    "socket": "LGA1851",
+    "chipset": "Z890",
     "formFactor": "ATX",
     "memoryType": "DDR5",
     "memorySlots": 4,
     "maxMemoryGb": 256,
     "wifi": "Intel Wi-Fi 7 BE200",
     "lan": "10GbE (Marvell AQtion AQC113C)"
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-GIGA-RTX5090AORUSM",
@@ -1463,14 +1567,15 @@
    "description": "The AORUS GeForce RTX 5090 MASTER 32G (GV-N5090AORUS-M-32GD) has 21,760 CUDA cores, 32 GB of GDDR7 on a 512-bit bus and a 2655 MHz core clock (reference 2407 MHz). The 360 mm card uses a single 16-pin connector, outputs three DisplayPort 2.1b and one HDMI 2.1b, and GIGABYTE recommends a 1000 W PSU.",
    "keywords": "aorus rtx 5090 master gpu",
    "specs": {
-    "chipset": "NVIDIA GeForce RTX 5090",
+    "chipset": "GeForce RTX 5090",
     "architecture": "NVIDIA Blackwell",
     "vramGb": 32,
     "memoryType": "GDDR7",
     "interface": "PCIe 5.0",
     "recommendedPsuW": 1000,
     "lengthMm": 360
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-GIGA-RTX5080AORUSM",
@@ -1495,14 +1600,15 @@
    "description": "The AORUS GeForce RTX 5080 MASTER 16G (GV-N5080AORUS-M-16GD) carries 16 GB of GDDR7 on a 256-bit bus with a 2805 MHz core clock (reference 2617 MHz). It is a 360 mm card with a 16-pin power connector, and GIGABYTE recommends an 850 W PSU.",
    "keywords": "aorus rtx 5080 master gpu",
    "specs": {
-    "chipset": "NVIDIA GeForce RTX 5080",
+    "chipset": "GeForce RTX 5080",
     "architecture": "NVIDIA Blackwell",
     "vramGb": 16,
     "memoryType": "GDDR7",
     "interface": "PCIe 5.0",
     "recommendedPsuW": 850,
     "lengthMm": 360
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-GIGA-RTX5070TIWFSFF",
@@ -1525,14 +1631,15 @@
    "description": "The GeForce RTX 5070 Ti WINDFORCE OC SFF 16G (GV-N507TWF3OC-16GD) is a 304 mm, triple-fan card with 16 GB of GDDR7 on a 256-bit bus and a 2497 MHz core clock (reference 2452 MHz). GIGABYTE recommends a 750 W PSU.",
    "keywords": "windforce rtx 5070 ti sff gpu",
    "specs": {
-    "chipset": "NVIDIA GeForce RTX 5070 Ti",
+    "chipset": "GeForce RTX 5070 Ti",
     "architecture": "NVIDIA Blackwell",
     "vramGb": 16,
     "memoryType": "GDDR7",
     "interface": "PCIe 5.0",
     "recommendedPsuW": 750,
     "lengthMm": 304
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-GIGA-AORUSFO27Q5P",
@@ -1558,14 +1665,15 @@
    "keywords": "aorus 500hz qd-oled dp 2.1 uhbr20",
    "specs": {
     "sizeIn": 27,
-    "resolution": "2560x1440 (QHD)",
+    "resolution": "2560x1440",
     "refreshHz": 500,
     "panel": "QD-OLED",
     "hdr": "VESA DisplayHDR True Black 500",
     "colorGamut": "99% DCI-P3",
     "inputs": "2x HDMI 2.1, DP 2.1 UHBR20, Mini DP 2.1 UHBR20, USB-C (PD 18 W)",
     "usbCPowerW": 18
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-GIGA-AORUSFO32U2P",
@@ -1591,14 +1699,15 @@
    "keywords": "aorus 4k 240hz oled 32 inch uhbr20",
    "specs": {
     "sizeIn": 31.5,
-    "resolution": "3840x2160 (UHD)",
+    "resolution": "3840x2160",
     "refreshHz": 240,
     "panel": "OLED",
     "hdr": "VESA DisplayHDR True Black 400",
     "colorGamut": "99% DCI-P3",
     "inputs": "2x HDMI 2.1, DP 2.1 UHBR20, Mini DP 2.1 UHBR20, USB-C (PD 65 W)",
     "usbCPowerW": 65
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-GIGA-AITOPATOM",
@@ -1632,7 +1741,8 @@
     "storage": "4 TB M.2 NVMe PCIe 5.0",
     "network": "10GbE, 2x QSFP 200 Gb/s (ConnectX-7), Wi-Fi 7",
     "powerKw": 0.24
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-GIGA-G893ZD1AAX5",
@@ -1663,7 +1773,8 @@
     "gpus": "NVIDIA HGX B200, 8x SXM GPUs",
     "storage": "8x 2.5\" Gen5 NVMe hot-swap, 1x M.2",
     "network": "2x 10GbE (Intel X710-AT2) + management LAN"
-   }
+   },
+   "options": []
   }
  ]
 }

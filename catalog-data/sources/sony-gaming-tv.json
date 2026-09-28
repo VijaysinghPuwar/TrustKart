@@ -670,7 +670,16 @@
         "specs": "https://www.steamdeck.com/en/tech",
         "retrievedAt": "2026-09-28"
       },
-      "notes": "Prices from the Steam store package API (packages 946113, 946114) for the US on 2026-09-28. No clean white-background official image was available; image omitted."
+      "notes": "Prices from the Steam store package API (packages 946113, 946114) for the US on 2026-09-28. No clean white-background official image was available; image omitted.",
+      "image": {
+        "url": "https://cdn.akamai.steamstatic.com/steamdeck/images/press/renderings/press_oled_front_english.png",
+        "page": "https://www.steamdeck.com/en/press",
+        "sourceType": "manufacturer-press",
+        "rights": "Official Valve Steam Deck press kit rendering (steamdeck.com/en/press); provided for press use, reuse license not verified.",
+        "credit": "Valve",
+        "alt": "Valve Steam Deck OLED, front view with the Steam library on screen",
+        "match": "EXACT"
+      }
     },
     {
       "sku": "TK-VALVE-STEAM-MACHINE",

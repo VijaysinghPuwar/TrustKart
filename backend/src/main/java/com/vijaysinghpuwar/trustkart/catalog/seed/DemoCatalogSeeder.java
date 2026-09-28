@@ -6,6 +6,7 @@ import com.vijaysinghpuwar.trustkart.catalog.domain.ImageMatch;
 import com.vijaysinghpuwar.trustkart.catalog.domain.Inventory;
 import com.vijaysinghpuwar.trustkart.catalog.domain.Product;
 import com.vijaysinghpuwar.trustkart.catalog.domain.ProductImage;
+import com.vijaysinghpuwar.trustkart.catalog.domain.ProductOptions;
 import com.vijaysinghpuwar.trustkart.catalog.domain.ProductStatus;
 import com.vijaysinghpuwar.trustkart.catalog.domain.SpecDataType;
 import com.vijaysinghpuwar.trustkart.catalog.domain.SpecDefinition;
@@ -107,6 +108,7 @@ public class DemoCatalogSeeder {
                 } else {
                     backfillImage(seed, images);
                 }
+                refreshOptions(seed);
                 skipped++;
                 continue;
             }
@@ -224,6 +226,7 @@ public class DemoCatalogSeeder {
                 Objects.requireNonNullElse(seed.warranty(), 12), seed.specs(), Objects.requireNonNullElse(seed.keywords(), ""),
                 Boolean.TRUE.equals(seed.featured()), status);
         product.setSearchText(searchText(seed, category));
+        applyOptions(product, seed);
 
         int available = seed.stock().get(0);
         int threshold = seed.stock().get(1);
@@ -241,6 +244,27 @@ public class DemoCatalogSeeder {
         List<String> tags = seed.collections() == null ? List.of() : seed.collections();
         for (int i = 0; i < tags.size(); i++) {
             facets.addToCollection(saved.getId(), tags.get(i), i);
+        }
+    }
+
+    /** Purchase options are catalog data: an existing product picks up the seed's current options on restart. */
+    private void refreshOptions(ProductSeed seed) {
+        products.findWithDetailsBySlug(seed.slug())
+                .filter(p -> p.getSku().equals(seed.sku()))
+                .ifPresent(p -> applyOptions(p, seed));
+    }
+
+    private static void applyOptions(Product product, ProductSeed seed) {
+        List<ProductOptions.Group> groups = seed.options() == null ? List.of() : seed.options().stream()
+                .map(g -> new ProductOptions.Group(g.name(), g.values().stream()
+                        .map(v -> new ProductOptions.Value(v.label(), v.price() == null ? null : money(v.price()),
+                                Boolean.TRUE.equals(v.isDefault())))
+                        .toList()))
+                .toList();
+        try {
+            product.setOptions(groups);
+        } catch (IllegalArgumentException e) {
+            throw new IllegalStateException(seed.sku() + ": invalid options: " + e.getMessage(), e);
         }
     }
 

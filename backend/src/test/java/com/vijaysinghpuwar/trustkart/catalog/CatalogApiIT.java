@@ -1,6 +1,7 @@
 package com.vijaysinghpuwar.trustkart.catalog;
 
 import static org.assertj.core.api.Assertions.assertThat;
+import static org.assertj.core.api.Assertions.assertThatThrownBy;
 import static org.hamcrest.Matchers.contains;
 import static org.hamcrest.Matchers.everyItem;
 import static org.hamcrest.Matchers.greaterThan;
@@ -15,14 +16,17 @@ import static org.springframework.test.web.servlet.result.MockMvcResultMatchers.
 import static org.springframework.test.web.servlet.result.MockMvcResultMatchers.status;
 
 import com.jayway.jsonpath.JsonPath;
+import com.vijaysinghpuwar.trustkart.catalog.application.CatalogService;
 import com.vijaysinghpuwar.trustkart.catalog.infra.CategoryRepository;
 import com.vijaysinghpuwar.trustkart.catalog.infra.ProductRepository;
 import com.vijaysinghpuwar.trustkart.catalog.seed.DemoCatalogSeeder;
+import com.vijaysinghpuwar.trustkart.common.error.ValidationException;
 import com.vijaysinghpuwar.trustkart.search.application.QueryInterpreter;
 import com.vijaysinghpuwar.trustkart.search.application.SuggestService;
 import com.vijaysinghpuwar.trustkart.support.IntegrationTest;
 import java.math.BigDecimal;
 import java.util.List;
+import java.util.Map;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -42,6 +46,9 @@ class CatalogApiIT {
 
     @Autowired
     CategoryRepository categories;
+
+    @Autowired
+    CatalogService catalog;
 
     @BeforeEach
     void seed() {
@@ -70,6 +77,45 @@ class CatalogApiIT {
         }
         assertThat(topLevelCategories()).isEqualTo(18);
         assertThat(products.count()).isGreaterThan(500);
+    }
+
+    @Test
+    void productDetailExposesPurchaseOptions() throws Exception {
+        mvc.perform(get("/api/v1/catalog/products/apple-iphone-18-pro"))
+                .andExpect(status().isOk())
+                .andExpect(jsonPath("$.options[0].name").value("Storage"))
+                .andExpect(jsonPath("$.options[0].values[0].price").value("1199.00"))
+                .andExpect(jsonPath("$.options[0].values[0].default").value(true))
+                .andExpect(jsonPath("$.options[1].name").value("Color"))
+                .andExpect(jsonPath("$.options[1].values[0].price").doesNotExist());
+        mvc.perform(get("/api/v1/catalog/products/nvidia-rtx-5090-fe"))
+                .andExpect(jsonPath("$.options", hasSize(0)));
+    }
+
+    @Test
+    void optionPricesAreResolvedByTheServer() {
+        long iphone = products.findWithDetailsBySlug("apple-iphone-18-pro").orElseThrow().getId();
+
+        CatalogService.ResolvedOptions defaults = catalog.resolveOptions(iphone, Map.of());
+        assertThat(defaults.unitPrice()).isEqualByComparingTo("1199.00");
+        assertThat(defaults.selection()).containsKeys("Storage", "Color");
+        assertThat(defaults.label()).startsWith("256GB · ");
+
+        CatalogService.ResolvedOptions oneTb = catalog.resolveOptions(iphone, Map.of("Storage", "1TB", "Color", "Silver"));
+        assertThat(oneTb.unitPrice()).isEqualByComparingTo("1799.00");
+        assertThat(oneTb.label()).isEqualTo("1TB · Silver");
+
+        assertThatThrownBy(() -> catalog.resolveOptions(iphone, Map.of("Storage", "64TB")))
+                .isInstanceOf(ValidationException.class);
+        assertThatThrownBy(() -> catalog.resolveOptions(iphone, Map.of("Engraving", "yes")))
+                .isInstanceOf(ValidationException.class);
+        assertThat(catalog.resolveOptionsIfValid(iphone, Map.of("Storage", "64TB"))).isEmpty();
+
+        long gpu = products.findWithDetailsBySlug("nvidia-rtx-5090-fe").orElseThrow().getId();
+        CatalogService.ResolvedOptions plain = catalog.resolveOptions(gpu, Map.of());
+        assertThat(plain.label()).isNull();
+        assertThat(plain.selection()).isEmpty();
+        assertThat(plain.unitPrice()).isEqualByComparingTo("1999.99");
     }
 
     @Test

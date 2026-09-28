@@ -38,7 +38,27 @@
     "wireless": "Intel Wi-Fi 7 BE211",
     "configurations": "Core Ultra 5 325 – $1,199 · Core Ultra X7 358H (Arc B390) – $1,699 · Core Ultra X9 388H (Arc B390) – $1,899",
     "colors": "Graphite"
-   }
+   },
+   "options": [
+    {
+     "name": "Configuration",
+     "values": [
+      {
+       "label": "Core Ultra 5 325",
+       "price": "1199.00",
+       "default": true
+      },
+      {
+       "label": "Core Ultra X7 358H (Arc B390)",
+       "price": "1699.00"
+      },
+      {
+       "label": "Core Ultra X9 388H (Arc B390)",
+       "price": "1899.00"
+      }
+     ]
+    }
+   ]
   },
   {
    "sku": "TK-FRAMEWORK-LAPTOP13PRO-AMD",
@@ -75,7 +95,23 @@
     "ports": "4x user-selectable Expansion Card slots, 3.5 mm jack",
     "configurations": "Ryzen AI 7 350 – $1,399 · Ryzen AI 9 HX 370 (Radeon 890M) – $1,649",
     "colors": "Graphite"
-   }
+   },
+   "options": [
+    {
+     "name": "Configuration",
+     "values": [
+      {
+       "label": "Ryzen AI 7 350",
+       "price": "1399.00",
+       "default": true
+      },
+      {
+       "label": "Ryzen AI 9 HX 370 (Radeon 890M)",
+       "price": "1649.00"
+      }
+     ]
+    }
+   ]
   },
   {
    "sku": "TK-FRAMEWORK-LAPTOP13-AI300",
@@ -113,7 +149,27 @@
     "ports": "4x user-selectable Expansion Card slots",
     "wireless": "AMD RZ717 Wi-Fi 7",
     "configurations": "Ryzen AI 5 340 – $849 · Ryzen AI 7 350 – $1,129 · Ryzen AI 9 HX 370 – $1,489"
-   }
+   },
+   "options": [
+    {
+     "name": "Configuration",
+     "values": [
+      {
+       "label": "Ryzen AI 5 340",
+       "price": "849.00",
+       "default": true
+      },
+      {
+       "label": "Ryzen AI 7 350",
+       "price": "1129.00"
+      },
+      {
+       "label": "Ryzen AI 9 HX 370",
+       "price": "1489.00"
+      }
+     ]
+    }
+   ]
   },
   {
    "sku": "TK-FRAMEWORK-LAPTOP12-S3",
@@ -150,7 +206,48 @@
     "wireless": "Intel BE213 Wi-Fi 7",
     "configurations": "Core 3 304 – $549 · Core 5 320 (with fingerprint reader) – $779 · Core 7 350 (with fingerprint reader) – $999",
     "colors": "Black, Gray, Lavender, Bubblegum, Sage"
-   }
+   },
+   "options": [
+    {
+     "name": "Configuration",
+     "values": [
+      {
+       "label": "Core 3 304",
+       "price": "549.00",
+       "default": true
+      },
+      {
+       "label": "Core 5 320 (with fingerprint reader)",
+       "price": "779.00"
+      },
+      {
+       "label": "Core 7 350 (with fingerprint reader)",
+       "price": "999.00"
+      }
+     ]
+    },
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Black",
+       "default": true
+      },
+      {
+       "label": "Gray"
+      },
+      {
+       "label": "Lavender"
+      },
+      {
+       "label": "Bubblegum"
+      },
+      {
+       "label": "Sage"
+      }
+     ]
+    }
+   ]
   },
   {
    "sku": "TK-FRAMEWORK-LAPTOP16-AI300",
@@ -188,7 +285,27 @@
     "ports": "6x Expansion Card slots (2x USB4, up to 240 W charging), 3.5 mm jack",
     "wireless": "AMD RZ717 Wi-Fi 7",
     "configurations": "Ryzen AI 5 340 – $1,249 · Ryzen AI 7 350 – $1,558 · Ryzen AI 9 HX 370 – $1,858"
-   }
+   },
+   "options": [
+    {
+     "name": "Configuration",
+     "values": [
+      {
+       "label": "Ryzen AI 5 340",
+       "price": "1249.00",
+       "default": true
+      },
+      {
+       "label": "Ryzen AI 7 350",
+       "price": "1558.00"
+      },
+      {
+       "label": "Ryzen AI 9 HX 370",
+       "price": "1858.00"
+      }
+     ]
+    }
+   ]
   },
   {
    "sku": "TK-FRAMEWORK-DESKTOP-AIMAX",
@@ -224,7 +341,27 @@
     "psuW": 400,
     "ports": "2x USB4, 2x USB-A 3.2 Gen 2, HDMI 2.1, 2x DisplayPort 2.1, RJ45, 3.5 mm, 2x front Expansion Cards",
     "configurations": "Ryzen AI Max 385 - 32 GB – $1,269 · Ryzen AI Max+ 395 - 64 GB – $1,959 · Ryzen AI Max+ 395 - 128 GB – $3,449"
-   }
+   },
+   "options": [
+    {
+     "name": "Configuration",
+     "values": [
+      {
+       "label": "Ryzen AI Max 385 - 32 GB",
+       "price": "1269.00",
+       "default": true
+      },
+      {
+       "label": "Ryzen AI Max+ 395 - 64 GB",
+       "price": "1959.00"
+      },
+      {
+       "label": "Ryzen AI Max+ 395 - 128 GB",
+       "price": "3449.00"
+      }
+     ]
+    }
+   ]
   },
   {
    "sku": "TK-FRAMEWORK-FW16-RTX5070-GM",
@@ -249,13 +386,29 @@
    "description": "The Graphics Module upgrades an existing Framework Laptop 16 with an NVIDIA GeForce RTX 5070 Laptop GPU running at up to 100 W TGP, with 8 GB or 12 GB of GDDR7. It connects through the Expansion Bay's PCIe x8 interface and adds a rear USB-C port with DisplayPort Alt Mode and charging. It uses its own dual-fan, four-heatpipe cooler.",
    "keywords": "framework laptop 16 gpu module rtx 5070 expansion bay upgrade nvidia",
    "specs": {
-    "chipset": "NVIDIA GeForce RTX 5070 Laptop GPU",
+    "chipset": "GeForce RTX 5070 Laptop GPU",
     "vramGb": 8,
     "memoryType": "GDDR7",
     "interface": "Framework Laptop 16 Expansion Bay (PCIe x8)",
     "boardPowerW": 100,
     "configurations": "8 GB GDDR7 – $699 · 12 GB GDDR7 – $1,199"
-   }
+   },
+   "options": [
+    {
+     "name": "Storage",
+     "values": [
+      {
+       "label": "8 GB GDDR7",
+       "price": "699.00",
+       "default": true
+      },
+      {
+       "label": "12 GB GDDR7",
+       "price": "1199.00"
+      }
+     ]
+    }
+   ]
   },
   {
    "sku": "TK-RAZER-BLADE14-RTX5060",
@@ -294,7 +447,23 @@
     "wireless": "Wi-Fi 7, Bluetooth 5.4",
     "configurations": "RTX 5060 / 16 GB / 1 TB – $2,299.99 · RTX 5070 / 32 GB / 1 TB – $2,899.99",
     "colors": "Black"
-   }
+   },
+   "options": [
+    {
+     "name": "Configuration",
+     "values": [
+      {
+       "label": "RTX 5060 / 16 GB / 1 TB",
+       "price": "2299.99",
+       "default": true
+      },
+      {
+       "label": "RTX 5070 / 32 GB / 1 TB",
+       "price": "2899.99"
+      }
+     ]
+    }
+   ]
   },
   {
    "sku": "TK-RAZER-BLADE16-2026",
@@ -336,7 +505,35 @@
     "wireless": "Wi-Fi 7, Bluetooth 6.0",
     "configurations": "RTX 5070 Ti / 32 GB / 1 TB – $3,499.99 · RTX 5080 / 32 GB – $3,999.99 · RTX 5080 / 64 GB – $4,699.99 · RTX 5090 / 32 GB – $4,899.99 · RTX 5090 / 64 GB – $5,599.99",
     "colors": "Black"
-   }
+   },
+   "options": [
+    {
+     "name": "Configuration",
+     "values": [
+      {
+       "label": "RTX 5070 Ti / 32 GB / 1 TB",
+       "price": "3499.99",
+       "default": true
+      },
+      {
+       "label": "RTX 5080 / 32 GB",
+       "price": "3999.99"
+      },
+      {
+       "label": "RTX 5080 / 64 GB",
+       "price": "4699.99"
+      },
+      {
+       "label": "RTX 5090 / 32 GB",
+       "price": "4899.99"
+      },
+      {
+       "label": "RTX 5090 / 64 GB",
+       "price": "5599.99"
+      }
+     ]
+    }
+   ]
   },
   {
    "sku": "TK-RAZER-BLADE18-2026",
@@ -377,7 +574,35 @@
     "wireless": "Wi-Fi 7, Bluetooth 5.4",
     "configurations": "RTX 5070 Ti / 32 GB / 1 TB – $3,999.99 · RTX 5080 / 32 GB / 1 TB – $4,499.99 · RTX 5090 / 32 GB / 2 TB – $5,399.99 · RTX 5090 / 64 GB / 2 TB – $5,999.99 · RTX 5090 / 128 GB / 2 TB – $6,999.99",
     "colors": "Black"
-   }
+   },
+   "options": [
+    {
+     "name": "Configuration",
+     "values": [
+      {
+       "label": "RTX 5070 Ti / 32 GB / 1 TB",
+       "price": "3999.99",
+       "default": true
+      },
+      {
+       "label": "RTX 5080 / 32 GB / 1 TB",
+       "price": "4499.99"
+      },
+      {
+       "label": "RTX 5090 / 32 GB / 2 TB",
+       "price": "5399.99"
+      },
+      {
+       "label": "RTX 5090 / 64 GB / 2 TB",
+       "price": "5999.99"
+      },
+      {
+       "label": "RTX 5090 / 128 GB / 2 TB",
+       "price": "6999.99"
+      }
+     ]
+    }
+   ]
   },
   {
    "sku": "TK-RAZER-VIPERV4PRO",
@@ -408,7 +633,42 @@
     "weightG": 49,
     "buttons": 6,
     "configurations": "Black – $159.99 · White – $159.99 · Esports Green Edition – $169.99"
-   }
+   },
+   "options": [
+    {
+     "name": "Configuration",
+     "values": [
+      {
+       "label": "Black",
+       "price": "159.99",
+       "default": true
+      },
+      {
+       "label": "White",
+       "price": "159.99"
+      },
+      {
+       "label": "Esports Green Edition",
+       "price": "169.99"
+      }
+     ]
+    },
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Black",
+       "default": true
+      },
+      {
+       "label": "White"
+      },
+      {
+       "label": "Esports Green"
+      }
+     ]
+    }
+   ]
   },
   {
    "sku": "TK-RAZER-DEATHADDERV4PRO",
@@ -439,7 +699,43 @@
     "weightG": 56,
     "buttons": 6,
     "configurations": "Black – $169.99 · White – $169.99 · Esports Green Edition – $179.99 · NiKo Edition – $189.99"
-   }
+   },
+   "options": [
+    {
+     "name": "Configuration",
+     "values": [
+      {
+       "label": "Black",
+       "price": "169.99",
+       "default": true
+      },
+      {
+       "label": "White",
+       "price": "169.99"
+      },
+      {
+       "label": "Esports Green Edition",
+       "price": "179.99"
+      },
+      {
+       "label": "NiKo Edition",
+       "price": "189.99"
+      }
+     ]
+    },
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Black",
+       "default": true
+      },
+      {
+       "label": "White"
+      }
+     ]
+    }
+   ]
   },
   {
    "sku": "TK-RAZER-BASILISKV3PRO35K",
@@ -468,7 +764,39 @@
     "weightG": 112,
     "buttons": 11,
     "configurations": "Black – $159.99 · White – $159.99 · Phantom Green Edition – $169.99"
-   }
+   },
+   "options": [
+    {
+     "name": "Configuration",
+     "values": [
+      {
+       "label": "Black",
+       "price": "159.99",
+       "default": true
+      },
+      {
+       "label": "White",
+       "price": "159.99"
+      },
+      {
+       "label": "Phantom Green Edition",
+       "price": "169.99"
+      }
+     ]
+    },
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Black",
+       "default": true
+      },
+      {
+       "label": "White"
+      }
+     ]
+    }
+   ]
   },
   {
    "sku": "TK-RAZER-NAGAV3PRO",
@@ -496,7 +824,8 @@
     "sensorDpi": 50000,
     "weightG": 117,
     "buttons": 23
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-RAZER-COBRAPRO",
@@ -524,7 +853,21 @@
     "sensorDpi": 30000,
     "weightG": 77,
     "buttons": 8
-   }
+   },
+   "options": [
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Black",
+       "default": true
+      },
+      {
+       "label": "White"
+      }
+     ]
+    }
+   ]
   },
   {
    "sku": "TK-RAZER-HUNTSMANV3PRO",
@@ -549,11 +892,31 @@
    "specs": {
     "connection": "Wired (detachable USB-C)",
     "colors": "Black",
-    "layout": "Full size, US",
+    "layout": "Full size",
     "switchType": "Razer Analog Optical Switch Gen-2",
     "hotSwappable": false,
     "configurations": "Full size – $249.99 · Tenkeyless – $219.99 · Mini 60% – $179.99"
-   }
+   },
+   "options": [
+    {
+     "name": "Configuration",
+     "values": [
+      {
+       "label": "Full size",
+       "price": "249.99",
+       "default": true
+      },
+      {
+       "label": "Tenkeyless",
+       "price": "219.99"
+      },
+      {
+       "label": "Mini 60%",
+       "price": "179.99"
+      }
+     ]
+    }
+   ]
   },
   {
    "sku": "TK-RAZER-HUNTSMANV3PROTKL8K",
@@ -580,10 +943,42 @@
    "specs": {
     "connection": "Wired (detachable USB-C)",
     "colors": "Black, White",
-    "layout": "Tenkeyless, US",
+    "layout": "TKL",
     "switchType": "Razer Analog Optical Switch Gen-2",
     "configurations": "Black – $219.99 · White – $229.99 · Full size 8KHz (Black) – $249.99"
-   }
+   },
+   "options": [
+    {
+     "name": "Configuration",
+     "values": [
+      {
+       "label": "Black",
+       "price": "219.99",
+       "default": true
+      },
+      {
+       "label": "White",
+       "price": "229.99"
+      },
+      {
+       "label": "Full size 8KHz (Black)",
+       "price": "249.99"
+      }
+     ]
+    },
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Black",
+       "default": true
+      },
+      {
+       "label": "White"
+      }
+     ]
+    }
+   ]
   },
   {
    "sku": "TK-RAZER-HUNTSMANV3HE-TKL",
@@ -608,10 +1003,26 @@
    "specs": {
     "connection": "Wired (detachable USB-C)",
     "colors": "Black",
-    "layout": "Tenkeyless, US",
+    "layout": "TKL",
     "switchType": "Razer Hall Effect Magnetic Switches (linear)",
     "configurations": "Tenkeyless – $139.99 · Mini 65% – $119.99"
-   }
+   },
+   "options": [
+    {
+     "name": "Configuration",
+     "values": [
+      {
+       "label": "Tenkeyless",
+       "price": "139.99",
+       "default": true
+      },
+      {
+       "label": "Mini 65%",
+       "price": "119.99"
+      }
+     ]
+    }
+   ]
   },
   {
    "sku": "TK-RAZER-BLACKWIDOWV4PRO",
@@ -636,11 +1047,47 @@
    "specs": {
     "connection": "Wired (detachable USB-C)",
     "colors": "Black, White",
-    "layout": "Full size, US",
+    "layout": "Full size",
     "switchType": "Razer Green Mechanical (clicky); Yellow and Orange optional",
     "mechanical": true,
     "configurations": "Green Switch - Black – $229.99 · Yellow Switch - Black – $229.99 · Orange Switch - Black – $229.99 · Green Switch - White – $229.99"
-   }
+   },
+   "options": [
+    {
+     "name": "Configuration",
+     "values": [
+      {
+       "label": "Green Switch - Black",
+       "price": "229.99",
+       "default": true
+      },
+      {
+       "label": "Yellow Switch - Black",
+       "price": "229.99"
+      },
+      {
+       "label": "Orange Switch - Black",
+       "price": "229.99"
+      },
+      {
+       "label": "Green Switch - White",
+       "price": "229.99"
+      }
+     ]
+    },
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Black",
+       "default": true
+      },
+      {
+       "label": "White"
+      }
+     ]
+    }
+   ]
   },
   {
    "sku": "TK-RAZER-BLACKWIDOWV4PRO75",
@@ -667,11 +1114,12 @@
    "specs": {
     "connection": "Razer HyperSpeed Wireless (2.4 GHz), Bluetooth 5.1, USB-C",
     "colors": "Black",
-    "layout": "75%, US",
+    "layout": "75%",
     "switchType": "Razer Mechanical Switches Gen-3 (Tactile)",
     "mechanical": true,
     "hotSwappable": true
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-RAZER-BLACKSHARKV3PRO",
@@ -702,7 +1150,43 @@
     "batteryHours": 70,
     "boomMic": true,
     "configurations": "PC - Black – $249.99 · PC - White – $249.99 · Xbox – $249.99 · PlayStation – $249.99"
-   }
+   },
+   "options": [
+    {
+     "name": "Configuration",
+     "values": [
+      {
+       "label": "PC - Black",
+       "price": "249.99",
+       "default": true
+      },
+      {
+       "label": "PC - White",
+       "price": "249.99"
+      },
+      {
+       "label": "Xbox",
+       "price": "249.99"
+      },
+      {
+       "label": "PlayStation",
+       "price": "249.99"
+      }
+     ]
+    },
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Black",
+       "default": true
+      },
+      {
+       "label": "White"
+      }
+     ]
+    }
+   ]
   },
   {
    "sku": "TK-RAZER-BLACKSHARKV3",
@@ -731,7 +1215,39 @@
     "batteryHours": 70,
     "boomMic": true,
     "configurations": "PC – $149.99 · Xbox – $149.99 · PlayStation – $149.99"
-   }
+   },
+   "options": [
+    {
+     "name": "Configuration",
+     "values": [
+      {
+       "label": "PC",
+       "price": "149.99",
+       "default": true
+      },
+      {
+       "label": "Xbox",
+       "price": "149.99"
+      },
+      {
+       "label": "PlayStation",
+       "price": "149.99"
+      }
+     ]
+    },
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Black",
+       "default": true
+      },
+      {
+       "label": "White"
+      }
+     ]
+    }
+   ]
   },
   {
    "sku": "TK-RAZER-KRAKENV4PRO",
@@ -759,7 +1275,8 @@
     "noiseCancelling": false,
     "batteryHours": 50,
     "boomMic": true
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-RAZER-KRAKENV4",
@@ -787,7 +1304,8 @@
     "noiseCancelling": false,
     "batteryHours": 70,
     "boomMic": true
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-RAZER-WOLVERINEV3PRO",
@@ -812,13 +1330,46 @@
    "description": "The Razer Wolverine V3 Pro is a wireless esports controller for Xbox Series X|S and PC. It has anti-drift Hall Effect analog thumbsticks, Hall Effect triggers with mouse-click trigger stops, Mecha-Tactile action buttons, four back buttons and two bumpers, and about 20 hours of battery life.",
    "keywords": "razer wolverine v3 pro xbox pc wireless pro controller hall effect",
    "specs": {
-    "platform": "Xbox Series X|S, PC",
+    "platform": "Xbox",
     "connectivity": "HyperSpeed Wireless dongle, wired USB-C",
     "battery": "About 20 hours",
     "weightG": 304,
     "colors": "Black, White",
+    "compatibility": "Xbox Series X|S, PC",
     "configurations": "Black – $199.99 · White – $199.99 · Esports Green Edition – $209.99"
-   }
+   },
+   "options": [
+    {
+     "name": "Configuration",
+     "values": [
+      {
+       "label": "Black",
+       "price": "199.99",
+       "default": true
+      },
+      {
+       "label": "White",
+       "price": "199.99"
+      },
+      {
+       "label": "Esports Green Edition",
+       "price": "209.99"
+      }
+     ]
+    },
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Black",
+       "default": true
+      },
+      {
+       "label": "White"
+      }
+     ]
+    }
+   ]
   },
   {
    "sku": "TK-RAZER-WOLVERINEV3PRO8K",
@@ -841,12 +1392,29 @@
    "description": "The Wolverine V3 Pro 8K PC is Razer's PC-focused version of its pro controller. It uses TMR analog thumbsticks, two Hall Effect analog triggers with mouse-click trigger stops, Mecha-Tactile PBT action buttons, four back buttons and two claw-grip bumpers, and weighs 220 g.",
    "keywords": "razer wolverine v3 pro 8k pc controller tmr thumbsticks wireless",
    "specs": {
-    "platform": "PC",
+    "platform": "PC (Windows)",
     "connectivity": "Wireless",
     "weightG": 220,
     "colors": "Black",
+    "compatibility": "PC",
     "configurations": "Black – $199.99 · Esports Green Edition – $209.99"
-   }
+   },
+   "options": [
+    {
+     "name": "Configuration",
+     "values": [
+      {
+       "label": "Black",
+       "price": "199.99",
+       "default": true
+      },
+      {
+       "label": "Esports Green Edition",
+       "price": "209.99"
+      }
+     ]
+    }
+   ]
   },
   {
    "sku": "TK-RAZER-KISHIV3PRO",
@@ -869,11 +1437,13 @@
    "description": "The Razer Kishi V3 Pro turns an Android phone, iPhone or iPad mini into a handheld with console-style controls and haptic feedback. It connects over USB-C with pass-through charging, has Mecha-Tactile action buttons and four multi-function buttons, and weighs 268 g.",
    "keywords": "razer kishi v3 pro mobile controller usb-c iphone android haptics",
    "specs": {
-    "platform": "Android 14+, iOS 18, Windows 11",
+    "platform": "PC (Windows)",
     "connectivity": "USB-C (pass-through charging)",
     "weightG": 268,
-    "colors": "Black"
-   }
+    "colors": "Black",
+    "compatibility": "Android 14+, iOS 18, Windows 11"
+   },
+   "options": []
   },
   {
    "sku": "TK-RAZER-SEIRENV3PRO",
@@ -902,7 +1472,8 @@
     "colors": "Black",
     "micType": "Dynamic (30 mm capsule)",
     "polarPattern": "Cardioid"
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-RAZER-KIYOV2PRO",
@@ -932,7 +1503,8 @@
     "resolution": "4K (3840x2160)",
     "fps": 60,
     "privacyShutter": true
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-RAZER-KIYOV2",
@@ -960,7 +1532,24 @@
     "resolution": "4K (3840x2160)",
     "fps": 30,
     "privacyShutter": true
-   }
+   },
+   "options": [
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Black",
+       "default": true
+      },
+      {
+       "label": "White"
+      },
+      {
+       "label": "Quartz"
+      }
+     ]
+    }
+   ]
   },
   {
    "sku": "TK-RAZER-TB5-DOCK",
@@ -989,7 +1578,35 @@
     "powerDeliveryW": 140,
     "configurations": "Chroma - Black – $399.99 · Mercury – $389.99",
     "colors": "Black, Mercury"
-   }
+   },
+   "options": [
+    {
+     "name": "Configuration",
+     "values": [
+      {
+       "label": "Chroma - Black",
+       "price": "399.99",
+       "default": true
+      },
+      {
+       "label": "Mercury",
+       "price": "389.99"
+      }
+     ]
+    },
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Black",
+       "default": true
+      },
+      {
+       "label": "Mercury"
+      }
+     ]
+    }
+   ]
   },
   {
    "sku": "TK-RAZER-COREXV2",
@@ -1017,7 +1634,8 @@
     "interface": "Thunderbolt 5 (USB-C), PCIe 4.0 x4 slot",
     "powerDeliveryW": 140,
     "colors": "Black"
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-LG-OLED65G6",
@@ -1046,15 +1664,44 @@
     "sizeIn": 65,
     "sizes": "55, 65, 77, 83, 97 in",
     "resolution": "3840x2160",
-    "panel": "OLED evo (Hyper Radiant Color, Brightness Booster Ultra)",
+    "panel": "OLED",
     "refreshHz": 120,
     "hdr": "Dolby Vision, HDR10, HLG",
     "processor": "α11 AI Processor 4K Gen3",
     "gaming": "VRR up to 165 Hz, G-Sync compatible, ALLM, <0.1 ms response, 4x HDMI 4K 120 Hz",
     "smartPlatform": "webOS 26",
     "audio": "4.2 channel, Dolby Atmos",
+    "panelDetails": "OLED evo (Hyper Radiant Color, Brightness Booster Ultra)",
     "configurations": "55\" – $2,499.99 · 65\" – $3,399.99 · 77\" – $4,499.99 · 83\" – $6,499.99 · 97\" – $24,999.99"
-   }
+   },
+   "options": [
+    {
+     "name": "Size",
+     "values": [
+      {
+       "label": "55\"",
+       "price": "2499.99"
+      },
+      {
+       "label": "65\"",
+       "price": "3399.99",
+       "default": true
+      },
+      {
+       "label": "77\"",
+       "price": "4499.99"
+      },
+      {
+       "label": "83\"",
+       "price": "6499.99"
+      },
+      {
+       "label": "97\"",
+       "price": "24999.99"
+      }
+     ]
+    }
+   ]
   },
   {
    "sku": "TK-LG-OLED65C6",
@@ -1083,15 +1730,48 @@
     "sizeIn": 65,
     "sizes": "42, 48, 55, 65, 77, 83 in",
     "resolution": "3840x2160",
-    "panel": "OLED evo (Brightness Booster)",
+    "panel": "OLED",
     "refreshHz": 120,
     "hdr": "Dolby Vision, HDR10, HLG",
     "processor": "α11 AI Processor 4K Gen3",
     "gaming": "VRR up to 165 Hz, G-Sync compatible, ALLM, HGIG, <0.1 ms response, 4x HDMI 4K 120 Hz",
     "smartPlatform": "webOS 26",
     "audio": "2.2 channel, Dolby Atmos",
+    "panelDetails": "OLED evo (Brightness Booster)",
     "configurations": "42\" – $1,399.99 · 48\" – $1,599.99 · 55\" – $1,999.99 · 65\" – $2,699.99 · 77\" – $3,699.99 · 83\" – $5,299.99"
-   }
+   },
+   "options": [
+    {
+     "name": "Size",
+     "values": [
+      {
+       "label": "42\"",
+       "price": "1399.99"
+      },
+      {
+       "label": "48\"",
+       "price": "1599.99"
+      },
+      {
+       "label": "55\"",
+       "price": "1999.99"
+      },
+      {
+       "label": "65\"",
+       "price": "2699.99",
+       "default": true
+      },
+      {
+       "label": "77\"",
+       "price": "3699.99"
+      },
+      {
+       "label": "83\"",
+       "price": "5299.99"
+      }
+     ]
+    }
+   ]
   },
   {
    "sku": "TK-LG-OLED65B6",
@@ -1127,7 +1807,27 @@
     "smartPlatform": "webOS 26",
     "audio": "2.0 channel, Dolby Atmos",
     "configurations": "65\" – $1,999.99 · 77\" – $2,799.99 · 83\" – $4,299.99"
-   }
+   },
+   "options": [
+    {
+     "name": "Size",
+     "values": [
+      {
+       "label": "65\"",
+       "price": "1999.99",
+       "default": true
+      },
+      {
+       "label": "77\"",
+       "price": "2799.99"
+      },
+      {
+       "label": "83\"",
+       "price": "4299.99"
+      }
+     ]
+    }
+   ]
   },
   {
    "sku": "TK-LG-OLED77W6",
@@ -1155,15 +1855,32 @@
     "sizeIn": 77,
     "sizes": "77, 83 in",
     "resolution": "3840x2160",
-    "panel": "OLED evo (Hyper Radiant Color), Wallpaper design",
+    "panel": "OLED",
     "refreshHz": 120,
     "hdr": "Dolby Vision, HDR10, HLG",
     "processor": "α11 AI Processor 4K Gen3",
     "gaming": "VRR up to 165 Hz, G-Sync compatible, <0.1 ms response, 4x HDMI 4K 120 Hz (Zero Connect box)",
     "smartPlatform": "webOS 26",
     "audio": "4.2 channel, Dolby Atmos",
+    "panelDetails": "OLED evo (Hyper Radiant Color), Wallpaper design",
     "configurations": "77\" – $5,499.99 · 83\" – $7,499.99"
-   }
+   },
+   "options": [
+    {
+     "name": "Size",
+     "values": [
+      {
+       "label": "77\"",
+       "price": "5499.99",
+       "default": true
+      },
+      {
+       "label": "83\"",
+       "price": "7499.99"
+      }
+     ]
+    }
+   ]
   },
   {
    "sku": "TK-LG-86MRGB95",
@@ -1189,15 +1906,36 @@
     "sizeIn": 86,
     "sizes": "75, 86, 100 in",
     "resolution": "3840x2160",
-    "panel": "Micro RGB LED (Micro Dimming Ultra)",
+    "panel": "Micro RGB",
     "refreshHz": 120,
     "hdr": "Dolby Vision, HDR10, HLG",
     "processor": "α11 AI Processor 4K Gen3",
     "gaming": "VRR up to 165 Hz, 4x HDMI 4K 120 Hz",
     "smartPlatform": "webOS 26",
     "audio": "2.2 channel, Dolby Atmos",
+    "panelDetails": "Micro RGB LED (Micro Dimming Ultra)",
     "configurations": "75\" – $4,999.99 · 86\" – $6,999.99 · 100\" – $7,999.99"
-   }
+   },
+   "options": [
+    {
+     "name": "Size",
+     "values": [
+      {
+       "label": "75\"",
+       "price": "4999.99"
+      },
+      {
+       "label": "86\"",
+       "price": "6999.99",
+       "default": true
+      },
+      {
+       "label": "100\"",
+       "price": "7999.99"
+      }
+     ]
+    }
+   ]
   },
   {
    "sku": "TK-LG-27GX790B",
@@ -1231,7 +1969,8 @@
     "colorGamut": "99.5% DCI-P3",
     "inputs": "2x HDMI 2.1, 1x DisplayPort, 1x USB-C",
     "configurations": "Dual Mode: QHD 540 Hz / HD 720 Hz"
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-LG-32GX870B",
@@ -1266,7 +2005,8 @@
     "inputs": "2x HDMI 2.1, 1x DisplayPort 2.1, 1x USB-C",
     "usbCPowerW": 90,
     "configurations": "Dual Mode: UHD 240 Hz / FHD 480 Hz"
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-LG-39GX950B",
@@ -1295,13 +2035,15 @@
     "sizeIn": 39,
     "resolution": "5120x2160",
     "refreshHz": 165,
-    "panel": "OLED, 1500R curve",
+    "panel": "OLED",
     "hdr": "VESA DisplayHDR True Black 500",
     "colorGamut": "99.5% DCI-P3",
     "inputs": "2x HDMI 2.1, 1x DisplayPort 2.1, 1x USB-C",
     "usbCPowerW": 90,
-    "configurations": "Dual Mode: 5K2K 165 Hz / WFHD 330 Hz"
-   }
+    "configurations": "Dual Mode: 5K2K 165 Hz / WFHD 330 Hz",
+    "panelDetails": "OLED, 1500R curve"
+   },
+   "options": []
   },
   {
    "sku": "TK-LG-45GX950B",
@@ -1330,13 +2072,15 @@
     "sizeIn": 44.5,
     "resolution": "5120x2160",
     "refreshHz": 165,
-    "panel": "OLED, 800R curve",
+    "panel": "OLED",
     "hdr": "VESA DisplayHDR True Black 400",
     "colorGamut": "98.5% DCI-P3",
     "inputs": "2x HDMI 2.1, 1x DisplayPort 2.1, 1x USB-C",
     "usbCPowerW": 90,
-    "configurations": "Dual Mode: 5K2K 165 Hz / WFHD 330 Hz"
-   }
+    "configurations": "Dual Mode: 5K2K 165 Hz / WFHD 330 Hz",
+    "panelDetails": "OLED, 800R curve"
+   },
+   "options": []
   },
   {
    "sku": "TK-LG-27GM950B",
@@ -1364,13 +2108,15 @@
     "sizeIn": 27,
     "resolution": "5120x2880",
     "refreshHz": 165,
-    "panel": "IPS, Hyper Mini LED backlight",
+    "panel": "IPS Mini LED",
     "hdr": "VESA DisplayHDR 1000",
     "colorGamut": "99% DCI-P3",
     "inputs": "2x HDMI 2.1, 1x DisplayPort 2.1, 1x USB-C",
     "usbCPowerW": 90,
-    "configurations": "Dual Mode: 5K 165 Hz / QHD 330 Hz"
-   }
+    "configurations": "Dual Mode: 5K 165 Hz / QHD 330 Hz",
+    "panelDetails": "IPS, Hyper Mini LED backlight"
+   },
+   "options": []
   },
   {
    "sku": "TK-LG-34GX90SB",
@@ -1398,13 +2144,15 @@
     "sizeIn": 34,
     "resolution": "3440x1440",
     "refreshHz": 240,
-    "panel": "OLED, 800R curve",
+    "panel": "OLED",
     "hdr": "VESA DisplayHDR True Black 400",
     "colorGamut": "98.5% DCI-P3",
     "inputs": "2x HDMI 2.1, 1x DisplayPort 1.4, 1x USB-C",
     "usbCPowerW": 65,
+    "panelDetails": "OLED, 800R curve",
     "colors": "White"
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-LG-32U990A",
@@ -1440,7 +2188,8 @@
     "inputs": "Thunderbolt 5, DisplayPort 2.1, HDMI 2.1, 2x USB-C downstream",
     "usbCPowerW": 96,
     "colors": "Silver"
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-LG-GRAMPRO16-2026",
@@ -1477,7 +2226,8 @@
     "os": "Windows 11 Home",
     "ports": "2x USB4 Type-C (Thunderbolt 4, PD, DP), 2x USB-A 3.2 Gen 1, HDMI, 3.5 mm",
     "wireless": "Intel Wi-Fi 7 BE211, Bluetooth 6.0"
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-LG-GRAM14-2026",
@@ -1512,7 +2262,8 @@
     "os": "Windows 11 Home",
     "ports": "2x USB4 Type-C (Thunderbolt 4, PD, DP), 2x USB-A 3.2 Gen 1, HDMI, 3.5 mm",
     "wireless": "Wi-Fi 6E (AX211), Bluetooth 5.4"
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-LG-CINEBEAM-PU615U",
@@ -1539,7 +2290,8 @@
     "brightnessLumens": 500,
     "lightSource": "Triple laser",
     "throwType": "Ultra short throw (0.25 throw ratio)"
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-LG-CINEBEAM-HU810PW",
@@ -1567,7 +2319,8 @@
     "lightSource": "Dual laser",
     "throwType": "Standard throw with lens shift",
     "colors": "White"
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-LG-S95AR",
@@ -1592,10 +2345,12 @@
    "description": "The LG S95AR is a 9.1.5-channel home theater soundbar system with a wireless active subwoofer and wireless rear speakers. It supports Dolby Atmos and DTS:X, connects over HDMI eARC and Bluetooth, and works with LG TVs through WOW Orchestra for synchronized TV and soundbar audio.",
    "keywords": "lg s95ar soundbar 9.1.5 dolby atmos dts:x wireless subwoofer rear speakers",
    "specs": {
-    "connectivity": "HDMI eARC, Bluetooth",
+    "connectivity": "Bluetooth",
     "channels": "9.1.5",
-    "colors": "Black"
-   }
+    "colors": "Black",
+    "connectionDetails": "HDMI eARC, Bluetooth"
+   },
+   "options": []
   },
   {
    "sku": "TK-LG-XBOOM-STAGE501",
@@ -1618,12 +2373,14 @@
    "description": "The LG xboom Stage 501 is a portable Bluetooth party speaker tuned by will.i.am, with AI Karaoke that can remove vocals from any song. It uses a detachable 99 Wh Li-ion battery rated up to 25 hours, supports Bluetooth 6.1 with Auracast and multipoint, and is IPX5 splashproof.",
    "keywords": "lg xboom stage 501 will.i.am party speaker karaoke bluetooth portable",
    "specs": {
-    "connectivity": "Bluetooth 6.1, Auracast, multipoint",
+    "connectivity": "Bluetooth",
     "batteryHours": 25,
     "waterResistance": "IPX5",
     "weightG": 11975,
-    "colors": "Black"
-   }
+    "colors": "Black",
+    "connectionDetails": "Bluetooth 6.1, Auracast, multipoint"
+   },
+   "options": []
   }
  ]
 }

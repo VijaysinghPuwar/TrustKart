@@ -32,7 +32,8 @@
     "battery": "EN-EL18d Li-ion",
     "weightG": 1340,
     "configurations": "Body only – $5,899.95"
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-NIKON-Z8",
@@ -66,7 +67,27 @@
     "battery": "EN-EL15c Li-ion",
     "weightG": 910,
     "configurations": "Body only – $4,299.95 · NIKKOR Z 24-120mm f/4 S kit – $5,199.95 · NIKKOR Z 180-600mm kit – $6,249.95"
-   }
+   },
+   "options": [
+    {
+     "name": "Configuration",
+     "values": [
+      {
+       "label": "Body only",
+       "price": "4299.95",
+       "default": true
+      },
+      {
+       "label": "NIKKOR Z 24-120mm f/4 S kit",
+       "price": "5199.95"
+      },
+      {
+       "label": "NIKKOR Z 180-600mm kit",
+       "price": "6249.95"
+      }
+     ]
+    }
+   ]
   },
   {
    "sku": "TK-NIKON-Z6III",
@@ -97,7 +118,27 @@
     "battery": "EN-EL15c Li-ion",
     "weightG": 670,
     "configurations": "Body only – $2,699.95 · NIKKOR Z 24-70mm f/4 kit – $3,299.95 · NIKKOR Z 24-120mm f/4 kit – $3,599.95"
-   }
+   },
+   "options": [
+    {
+     "name": "Configuration",
+     "values": [
+      {
+       "label": "Body only",
+       "price": "2699.95",
+       "default": true
+      },
+      {
+       "label": "NIKKOR Z 24-70mm f/4 kit",
+       "price": "3299.95"
+      },
+      {
+       "label": "NIKKOR Z 24-120mm f/4 kit",
+       "price": "3599.95"
+      }
+     ]
+    }
+   ]
   },
   {
    "sku": "TK-NIKON-Z5II",
@@ -129,7 +170,31 @@
     "battery": "EN-EL15c Li-ion",
     "weightG": 620,
     "configurations": "Body only – $1,849.95 · NIKKOR Z 24-50mm kit – $2,149.95 · NIKKOR Z 24-70mm f/4 kit – $2,449.95 · NIKKOR Z 24-200mm kit – $2,649.95"
-   }
+   },
+   "options": [
+    {
+     "name": "Configuration",
+     "values": [
+      {
+       "label": "Body only",
+       "price": "1849.95",
+       "default": true
+      },
+      {
+       "label": "NIKKOR Z 24-50mm kit",
+       "price": "2149.95"
+      },
+      {
+       "label": "NIKKOR Z 24-70mm f/4 kit",
+       "price": "2449.95"
+      },
+      {
+       "label": "NIKKOR Z 24-200mm kit",
+       "price": "2649.95"
+      }
+     ]
+    }
+   ]
   },
   {
    "sku": "TK-NIKON-Z5IIC",
@@ -161,7 +226,27 @@
     "battery": "EN-EL15c Li-ion",
     "weightG": 538,
     "configurations": "Body only – Silver – $1,399.95 · Body only – Black – $1,399.95 · NIKKOR Z 24-50mm kit (Silver or Black) – $1,699.95"
-   }
+   },
+   "options": [
+    {
+     "name": "Configuration",
+     "values": [
+      {
+       "label": "Body only – Silver",
+       "price": "1399.95",
+       "default": true
+      },
+      {
+       "label": "Body only – Black",
+       "price": "1399.95"
+      },
+      {
+       "label": "NIKKOR Z 24-50mm kit (Silver or Black)",
+       "price": "1699.95"
+      }
+     ]
+    }
+   ]
   },
   {
    "sku": "TK-NIKON-ZF",
@@ -193,7 +278,35 @@
     "battery": "EN-EL15c Li-ion",
     "weightG": 630,
     "configurations": "Body only – Black – $2,199.95 · Body only – Silver/Black – $2,199.95 · Body only – colored leatherette editions – $2,299.95 · 40mm f/2 (SE) kit – $2,439.95 · 24-70mm f/4 kit – $2,799.95"
-   }
+   },
+   "options": [
+    {
+     "name": "Configuration",
+     "values": [
+      {
+       "label": "Body only – Black",
+       "price": "2199.95",
+       "default": true
+      },
+      {
+       "label": "Body only – Silver/Black",
+       "price": "2199.95"
+      },
+      {
+       "label": "Body only – colored leatherette editions",
+       "price": "2299.95"
+      },
+      {
+       "label": "40mm f/2 (SE) kit",
+       "price": "2439.95"
+      },
+      {
+       "label": "24-70mm f/4 kit",
+       "price": "2799.95"
+      }
+     ]
+    }
+   ]
   },
   {
    "sku": "TK-NIKON-Z50II",
@@ -225,7 +338,31 @@
     "battery": "EN-EL25a Li-ion",
     "weightG": 495,
     "configurations": "Body only – $1,009.95 · 16-50mm lens kit – $1,149.95 · Two-lens kit – $1,399.95 · 16-50mm f/2.8 VR lens kit – $1,609.95"
-   }
+   },
+   "options": [
+    {
+     "name": "Configuration",
+     "values": [
+      {
+       "label": "Body only",
+       "price": "1009.95",
+       "default": true
+      },
+      {
+       "label": "16-50mm lens kit",
+       "price": "1149.95"
+      },
+      {
+       "label": "Two-lens kit",
+       "price": "1399.95"
+      },
+      {
+       "label": "16-50mm f/2.8 VR lens kit",
+       "price": "1609.95"
+      }
+     ]
+    }
+   ]
   },
   {
    "sku": "TK-NIKON-ZR",
@@ -259,7 +396,31 @@
     "battery": "EN-EL15c; external V-mount power via USB-C",
     "weightG": 540,
     "configurations": "Body only – $2,199.95 · 24-50mm lens kit – $2,499.95 · 50mm lens kit – $2,749.95 · 35mm lens kit – $2,849.95"
-   }
+   },
+   "options": [
+    {
+     "name": "Configuration",
+     "values": [
+      {
+       "label": "Body only",
+       "price": "2199.95",
+       "default": true
+      },
+      {
+       "label": "24-50mm lens kit",
+       "price": "2499.95"
+      },
+      {
+       "label": "50mm lens kit",
+       "price": "2749.95"
+      },
+      {
+       "label": "35mm lens kit",
+       "price": "2849.95"
+      }
+     ]
+    }
+   ]
   },
   {
    "sku": "TK-NIKON-Z2470F28SII",
@@ -287,7 +448,8 @@
     "maxAperture": "f/2.8",
     "sensor": "Full-frame (FX); DX compatible",
     "weightG": 675
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-FUJI-XH2S",
@@ -321,7 +483,8 @@
     "battery": "NP-W235 Li-ion",
     "weightG": 660,
     "configurations": "Body only – Black – $2,899.95"
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-FUJI-XT5",
@@ -353,7 +516,27 @@
     "battery": "NP-W235 Li-ion",
     "weightG": 557,
     "configurations": "Body only – Black or Silver – $1,999.95 · XF16-50mm kit – Black or Silver – $2,199.95 · XF16-80mm kit – Black or Silver – $2,499.95"
-   }
+   },
+   "options": [
+    {
+     "name": "Configuration",
+     "values": [
+      {
+       "label": "Body only – Black or Silver",
+       "price": "1999.95",
+       "default": true
+      },
+      {
+       "label": "XF16-50mm kit – Black or Silver",
+       "price": "2199.95"
+      },
+      {
+       "label": "XF16-80mm kit – Black or Silver",
+       "price": "2499.95"
+      }
+     ]
+    }
+   ]
   },
   {
    "sku": "TK-FUJI-XT50",
@@ -385,7 +568,27 @@
     "battery": "NP-W126S Li-ion",
     "weightG": 438,
     "configurations": "Body only – Black, Silver or Charcoal Silver – $1,599.95 · XC15-45mm kit – $1,699.95 · XF16-50mm kit – $1,999.95"
-   }
+   },
+   "options": [
+    {
+     "name": "Configuration",
+     "values": [
+      {
+       "label": "Body only – Black, Silver or Charcoal Silver",
+       "price": "1599.95",
+       "default": true
+      },
+      {
+       "label": "XC15-45mm kit",
+       "price": "1699.95"
+      },
+      {
+       "label": "XF16-50mm kit",
+       "price": "1999.95"
+      }
+     ]
+    }
+   ]
   },
   {
    "sku": "TK-FUJI-XE5",
@@ -417,7 +620,23 @@
     "battery": "NP-W126S Li-ion",
     "weightG": 445,
     "configurations": "Body only – Black or Silver – $1,699.95 · XF23mmF2.8 R WR kit – $1,899.95"
-   }
+   },
+   "options": [
+    {
+     "name": "Configuration",
+     "values": [
+      {
+       "label": "Body only – Black or Silver",
+       "price": "1699.95",
+       "default": true
+      },
+      {
+       "label": "XF23mmF2.8 R WR kit",
+       "price": "1899.95"
+      }
+     ]
+    }
+   ]
   },
   {
    "sku": "TK-FUJI-XM5",
@@ -449,7 +668,23 @@
     "battery": "NP-W126S Li-ion",
     "weightG": 355,
     "configurations": "Body only – Black or Silver – $899.95 · XC15-45mm kit – $999.95"
-   }
+   },
+   "options": [
+    {
+     "name": "Configuration",
+     "values": [
+      {
+       "label": "Body only – Black or Silver",
+       "price": "899.95",
+       "default": true
+      },
+      {
+       "label": "XC15-45mm kit",
+       "price": "999.95"
+      }
+     ]
+    }
+   ]
   },
   {
    "sku": "TK-FUJI-X100VI",
@@ -474,14 +709,30 @@
    "specs": {
     "sensor": "APS-C X-Trans CMOS 5 HR, 23.5 x 15.7 mm",
     "megapixels": 40.2,
-    "mount": "Fixed 23mm F2 lens (35mm equivalent)",
+    "mount": "Fixed lens",
     "video": "6.2K and DCI 4K / 4K recording",
     "stabilization": "5-axis in-body, up to 6.0 stops",
     "autofocus": "Intelligent Hybrid AF (phase + contrast detection) with subject detection",
     "battery": "NP-W126S Li-ion",
     "weightG": 521,
     "configurations": "Silver – $1,799.95 · Black – $1,799.95"
-   }
+   },
+   "options": [
+    {
+     "name": "Configuration",
+     "values": [
+      {
+       "label": "Silver",
+       "price": "1799.95",
+       "default": true
+      },
+      {
+       "label": "Black",
+       "price": "1799.95"
+      }
+     ]
+    }
+   ]
   },
   {
    "sku": "TK-FUJI-GFX100II",
@@ -515,7 +766,8 @@
     "battery": "NP-W235 Li-ion",
     "weightG": 948,
     "configurations": "Body only – $8,499.95"
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-FUJI-GFX100RF",
@@ -540,14 +792,30 @@
    "specs": {
     "sensor": "Large format (medium format) GFX 102MP CMOS II, 43.8 x 32.9 mm",
     "megapixels": 102,
-    "mount": "Fixed 35mm F4 lens (28mm equivalent)",
+    "mount": "Fixed lens",
     "video": "DCI 4K / 4K; Apple ProRes 422 HQ",
     "stabilization": "Digital image stabilization (movie)",
     "autofocus": "Intelligent Hybrid AF (phase + contrast detection) with subject detection",
     "battery": "NP-W235 Li-ion",
     "weightG": 735,
     "configurations": "Black – $5,599.95 · Silver – $5,599.95"
-   }
+   },
+   "options": [
+    {
+     "name": "Configuration",
+     "values": [
+      {
+       "label": "Black",
+       "price": "5599.95",
+       "default": true
+      },
+      {
+       "label": "Silver",
+       "price": "5599.95"
+      }
+     ]
+    }
+   ]
   },
   {
    "sku": "TK-FUJI-XF1655F28II",
@@ -575,7 +843,8 @@
     "maxAperture": "f/2.8",
     "sensor": "APS-C",
     "weightG": 410
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-PANASONIC-S1RII",
@@ -607,7 +876,27 @@
     "stabilization": "5-axis body I.S., 8.0 stops, with Active I.S.",
     "autofocus": "Phase Hybrid AF with real-time subject recognition",
     "configurations": "Body only – Black – $3,297.77 · Adventure Kit with 24-60mm F2.8 – $3,799.99 · 28-200mm F4-7.1 lens kit – $3,799.99"
-   }
+   },
+   "options": [
+    {
+     "name": "Configuration",
+     "values": [
+      {
+       "label": "Body only – Black",
+       "price": "3297.77",
+       "default": true
+      },
+      {
+       "label": "Adventure Kit with 24-60mm F2.8",
+       "price": "3799.99"
+      },
+      {
+       "label": "28-200mm F4-7.1 lens kit",
+       "price": "3799.99"
+      }
+     ]
+    }
+   ]
   },
   {
    "sku": "TK-PANASONIC-S1II",
@@ -637,7 +926,31 @@
     "stabilization": "5-axis body I.S., 8.0 stops, with Active I.S.",
     "autofocus": "AI-powered Phase Hybrid AF",
     "configurations": "Body only – $3,199.99 · Adventure Kit with 24-60mm F2.8 – $3,997.99 · 28-200mm F4-7.1 lens kit – $3,999.99 · 24-105mm F4 Macro lens kit – $4,097.99"
-   }
+   },
+   "options": [
+    {
+     "name": "Configuration",
+     "values": [
+      {
+       "label": "Body only",
+       "price": "3199.99",
+       "default": true
+      },
+      {
+       "label": "Adventure Kit with 24-60mm F2.8",
+       "price": "3997.99"
+      },
+      {
+       "label": "28-200mm F4-7.1 lens kit",
+       "price": "3999.99"
+      },
+      {
+       "label": "24-105mm F4 Macro lens kit",
+       "price": "4097.99"
+      }
+     ]
+    }
+   ]
   },
   {
    "sku": "TK-PANASONIC-S5IIX",
@@ -667,7 +980,27 @@
     "stabilization": "5-axis body I.S. (5 stops), Dual I.S. 2 (6.5 stops), Active I.S.",
     "autofocus": "Phase Hybrid AF, 779 points",
     "configurations": "Body only – $2,197.99 · Adventure Kit with 24-60mm F2.8 (list) – $2,999.99 · 20-60mm F3.5-5.6 lens kit – $2,497.99"
-   }
+   },
+   "options": [
+    {
+     "name": "Configuration",
+     "values": [
+      {
+       "label": "Body only",
+       "price": "2197.99",
+       "default": true
+      },
+      {
+       "label": "Adventure Kit with 24-60mm F2.8 (list)",
+       "price": "2999.99"
+      },
+      {
+       "label": "20-60mm F3.5-5.6 lens kit",
+       "price": "2497.99"
+      }
+     ]
+    }
+   ]
   },
   {
    "sku": "TK-PANASONIC-S9",
@@ -698,7 +1031,27 @@
     "autofocus": "Phase detection + contrast AF with human/animal/car/motorcycle detection",
     "weightG": 486,
     "configurations": "Body only – Jet Black or Night Blue – $1,497.99 · 18-40mm kit – Jet Black, Night Blue, Dark Olive or Crimson Red – $1,797.99 · 40mm F2 kit – Jet Black – $1,797.99"
-   }
+   },
+   "options": [
+    {
+     "name": "Configuration",
+     "values": [
+      {
+       "label": "Body only – Jet Black or Night Blue",
+       "price": "1497.99",
+       "default": true
+      },
+      {
+       "label": "18-40mm kit – Jet Black, Night Blue, Dark Olive or Crimson Red",
+       "price": "1797.99"
+      },
+      {
+       "label": "40mm F2 kit – Jet Black",
+       "price": "1797.99"
+      }
+     ]
+    }
+   ]
   },
   {
    "sku": "TK-PANASONIC-GH7",
@@ -729,7 +1082,23 @@
     "video": "5.7K 30p ProRes RAW HQ internal; C4K/4K 60p 4:2:2 10-bit; open gate",
     "autofocus": "Phase Detection AF with real-time subject recognition",
     "configurations": "Body only – $2,197.99 · 12-60mm F2.8-4.0 lens kit – $2,797.99"
-   }
+   },
+   "options": [
+    {
+     "name": "Configuration",
+     "values": [
+      {
+       "label": "Body only",
+       "price": "2197.99",
+       "default": true
+      },
+      {
+       "label": "12-60mm F2.8-4.0 lens kit",
+       "price": "2797.99"
+      }
+     ]
+    }
+   ]
   },
   {
    "sku": "TK-PANASONIC-SE2460",
@@ -757,7 +1126,8 @@
     "maxAperture": "f/2.8",
     "sensor": "Full-frame",
     "weightG": 544
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-DJI-MINI4PRO",
@@ -789,7 +1159,27 @@
     "obstacleSensing": "Omnidirectional binocular vision + downward 3D infrared",
     "battery": "Intelligent Flight Battery (Plus battery optional)",
     "configurations": "DJI Mini 4 Pro (DJI RC-N2) – $759 · Fly More Combo (DJI RC 2) – $1,099 · Fly More Combo Plus (DJI RC 2) – $1,159"
-   }
+   },
+   "options": [
+    {
+     "name": "Configuration",
+     "values": [
+      {
+       "label": "DJI Mini 4 Pro (DJI RC-N2)",
+       "price": "759.00",
+       "default": true
+      },
+      {
+       "label": "Fly More Combo (DJI RC 2)",
+       "price": "1099.00"
+      },
+      {
+       "label": "Fly More Combo Plus (DJI RC 2)",
+       "price": "1159.00"
+      }
+     ]
+    }
+   ]
   },
   {
    "sku": "TK-DJI-AIR3S",
@@ -821,7 +1211,23 @@
     "transmission": "DJI O4 video transmission",
     "obstacleSensing": "Omnidirectional binocular vision + forward LiDAR + downward infrared",
     "configurations": "DJI Air 3S (DJI RC-N3) – $1,099 · Fly More Combo Lite (DJI RC 2) – $1,599"
-   }
+   },
+   "options": [
+    {
+     "name": "Configuration",
+     "values": [
+      {
+       "label": "DJI Air 3S (DJI RC-N3)",
+       "price": "1099.00",
+       "default": true
+      },
+      {
+       "label": "Fly More Combo Lite (DJI RC 2)",
+       "price": "1599.00"
+      }
+     ]
+    }
+   ]
   },
   {
    "sku": "TK-DJI-FLIP",
@@ -852,7 +1258,27 @@
     "transmission": "DJI O4 video transmission",
     "obstacleSensing": "Forward 3D infrared sensing + downward vision and infrared",
     "configurations": "DJI Flip (DJI RC-N3) – $439 · DJI Flip (DJI RC 2) – $639 · Fly More Combo (DJI RC 2) – $779"
-   }
+   },
+   "options": [
+    {
+     "name": "Configuration",
+     "values": [
+      {
+       "label": "DJI Flip (DJI RC-N3)",
+       "price": "439.00",
+       "default": true
+      },
+      {
+       "label": "DJI Flip (DJI RC 2)",
+       "price": "639.00"
+      },
+      {
+       "label": "Fly More Combo (DJI RC 2)",
+       "price": "779.00"
+      }
+     ]
+    }
+   ]
   },
   {
    "sku": "TK-DJI-NEO",
@@ -884,7 +1310,27 @@
     "transmission": "Wi-Fi (phone) or optional DJI remote controller",
     "obstacleSensing": "Downward visual positioning only",
     "configurations": "DJI Neo (No RC) – $169 · DJI Neo Combo (No RC) – $245 · Fly More Combo – $374"
-   }
+   },
+   "options": [
+    {
+     "name": "Configuration",
+     "values": [
+      {
+       "label": "DJI Neo (No RC)",
+       "price": "169.00",
+       "default": true
+      },
+      {
+       "label": "DJI Neo Combo (No RC)",
+       "price": "245.00"
+      },
+      {
+       "label": "Fly More Combo",
+       "price": "374.00"
+      }
+     ]
+    }
+   ]
   },
   {
    "sku": "TK-DJI-AVATA2",
@@ -916,7 +1362,27 @@
     "transmission": "DJI O4 video transmission",
     "obstacleSensing": "Downward and backward visual positioning",
     "configurations": "Fly Smart Combo (single battery) – $619 · Fly Smart Combo (three batteries) – $789 · Fly More Combo (three batteries) – $1,019"
-   }
+   },
+   "options": [
+    {
+     "name": "Configuration",
+     "values": [
+      {
+       "label": "Fly Smart Combo (single battery)",
+       "price": "619.00",
+       "default": true
+      },
+      {
+       "label": "Fly Smart Combo (three batteries)",
+       "price": "789.00"
+      },
+      {
+       "label": "Fly More Combo (three batteries)",
+       "price": "1019.00"
+      }
+     ]
+    }
+   ]
   },
   {
    "sku": "TK-DJI-OSMOPOCKET3",
@@ -944,9 +1410,24 @@
     "stabilization": "3-axis mechanical gimbal",
     "battery": "1300 mAh Li-ion, up to 166 min",
     "weightG": 179,
-    "mount": "Handheld gimbal",
     "configurations": "Osmo Pocket 3 – $439 · Creator Combo – $549"
-   }
+   },
+   "options": [
+    {
+     "name": "Configuration",
+     "values": [
+      {
+       "label": "Osmo Pocket 3",
+       "price": "439.00",
+       "default": true
+      },
+      {
+       "label": "Creator Combo",
+       "price": "549.00"
+      }
+     ]
+    }
+   ]
   },
   {
    "sku": "TK-DJI-OSMOACTION6",
@@ -973,9 +1454,9 @@
     "video": "8K/30fps; 4K up to 120fps",
     "stabilization": "RockSteady 3.0/3.0+, HorizonSteady, HorizonBalancing (EIS)",
     "battery": "1950 mAh Li-ion, up to 240 min",
-    "weightG": 149,
-    "mount": "Magnetic quick-release mount"
-   }
+    "weightG": 149
+   },
+   "options": []
   },
   {
    "sku": "TK-DJI-OSMO360",
@@ -1004,7 +1485,8 @@
     "stabilization": "RockSteady 3.0, HorizonSteady (EIS)",
     "battery": "1950 mAh Li-ion, up to 100 min at 8K/30fps",
     "weightG": 183
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-DJI-MIC3",
@@ -1032,7 +1514,8 @@
     "connection": "Wireless (2.4/5.8 GHz), up to 400 m range",
     "micType": "Wireless clip-on transmitters with internal 32-bit float recording",
     "polarPattern": "Omnidirectional"
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-DJI-MICMINI",
@@ -1058,7 +1541,8 @@
     "connection": "2.4 GHz wireless (up to 400 m), Bluetooth 5.3",
     "micType": "Wireless clip-on transmitters",
     "polarPattern": "Omnidirectional"
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-GOPRO-HERO13BLACK",
@@ -1085,9 +1569,32 @@
     "video": "5.3K60, 4K120, 2.7K120, 1080p240",
     "stabilization": "HyperSmooth 6.0 (in-camera)",
     "battery": "1900mAh Enduro (HERO13-specific)",
-    "mount": "Built-in folding mounting fingers + magnetic latch mount",
     "configurations": "HERO13 Black – $429.99 · HERO13 Black + Accessories Bundle – $479.99 · HERO13 Black Ultra Wide Edition – $479.99 · HERO13 Black Creator Edition – $649.99"
-   }
+   },
+   "options": [
+    {
+     "name": "Configuration",
+     "values": [
+      {
+       "label": "HERO13 Black",
+       "price": "429.99",
+       "default": true
+      },
+      {
+       "label": "HERO13 Black + Accessories Bundle",
+       "price": "479.99"
+      },
+      {
+       "label": "HERO13 Black Ultra Wide Edition",
+       "price": "479.99"
+      },
+      {
+       "label": "HERO13 Black Creator Edition",
+       "price": "649.99"
+      }
+     ]
+    }
+   ]
   },
   {
    "sku": "TK-GOPRO-MAX2",
@@ -1115,7 +1622,27 @@
     "stabilization": "Max HyperSmooth",
     "sensor": "Dual-lens 360° with replaceable optical-glass lenses",
     "configurations": "MAX2 – $499.99 · MAX2 + Accessories Bundle – $569.99 · MAX2 Water Sports Bundle – $559.99"
-   }
+   },
+   "options": [
+    {
+     "name": "Configuration",
+     "values": [
+      {
+       "label": "MAX2",
+       "price": "499.99",
+       "default": true
+      },
+      {
+       "label": "MAX2 + Accessories Bundle",
+       "price": "569.99"
+      },
+      {
+       "label": "MAX2 Water Sports Bundle",
+       "price": "559.99"
+      }
+     ]
+    }
+   ]
   },
   {
    "sku": "TK-GOPRO-MISSION1PRO",
@@ -1144,9 +1671,25 @@
     "stabilization": "HyperSmooth",
     "battery": "2150mAh Enduro 2",
     "weightG": 207,
-    "mount": "Fixed 14mm F2.8 lens (PRO ILS: MFT mount)",
+    "mount": "Fixed lens",
     "configurations": "MISSION 1 PRO (14mm lens) – $699.99 · MISSION 1 PRO ILS (Micro Four Thirds mount) – $699.99"
-   }
+   },
+   "options": [
+    {
+     "name": "Configuration",
+     "values": [
+      {
+       "label": "MISSION 1 PRO (14mm lens)",
+       "price": "699.99",
+       "default": true
+      },
+      {
+       "label": "MISSION 1 PRO ILS (Micro Four Thirds mount)",
+       "price": "699.99"
+      }
+     ]
+    }
+   ]
   }
  ]
 }

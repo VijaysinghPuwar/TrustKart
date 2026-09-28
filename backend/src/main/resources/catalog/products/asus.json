@@ -38,7 +38,23 @@
     "wireless": "Wi-Fi 6E, Bluetooth 5.3",
     "configurations": "Snapdragon X / 32GB / 1TB / WUXGA OLED – $1,799.99 · Snapdragon X2 Elite Extreme / 48GB / 1TB / 3K 120Hz OLED (UX3607OA-XS99) – $2,199.99",
     "colors": "Zabriskie Beige"
-   }
+   },
+   "options": [
+    {
+     "name": "Configuration",
+     "values": [
+      {
+       "label": "Snapdragon X / 32GB / 1TB / WUXGA OLED",
+       "price": "1799.99",
+       "default": true
+      },
+      {
+       "label": "Snapdragon X2 Elite Extreme / 48GB / 1TB / 3K 120Hz OLED (UX3607OA-XS99)",
+       "price": "2199.99"
+      }
+     ]
+    }
+   ]
   },
   {
    "sku": "TK-ASUS-ZENBOOK-A14-UX3407",
@@ -78,7 +94,35 @@
     "wireless": "Wi-Fi 6E, Bluetooth 5.3",
     "configurations": "Snapdragon X / 32GB / 1TB (Iceland Gray) – $1,599.99 · Snapdragon X2 Elite 18-core / 32GB / 1TB, Wi-Fi 7 (UX3407NA-PS77) – $1,999.99",
     "colors": "Iceland Gray, Zabriskie Beige"
-   }
+   },
+   "options": [
+    {
+     "name": "Configuration",
+     "values": [
+      {
+       "label": "Snapdragon X / 32GB / 1TB (Iceland Gray)",
+       "price": "1599.99",
+       "default": true
+      },
+      {
+       "label": "Snapdragon X2 Elite 18-core / 32GB / 1TB, Wi-Fi 7 (UX3407NA-PS77)",
+       "price": "1999.99"
+      }
+     ]
+    },
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Iceland Gray",
+       "default": true
+      },
+      {
+       "label": "Zabriskie Beige"
+      }
+     ]
+    }
+   ]
   },
   {
    "sku": "TK-ASUS-ZENBOOK-S14-UX5406-2026",
@@ -117,7 +161,8 @@
     "ports": "2x Thunderbolt 4, 1x USB 3.2 Gen 2 Type-A, HDMI 2.1, 3.5mm audio",
     "wireless": "Wi-Fi 7, Bluetooth 6.0",
     "colors": "Antrim Gray"
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-ASUS-ZENBOOK-S16-UM5606-2026",
@@ -157,7 +202,23 @@
     "wireless": "Wi-Fi 7, Bluetooth 5.4",
     "configurations": "Ryzen AI 7 445 / 32GB / 1TB, Windows 11 Pro (UM5606GA-XS79T) – $1,999.99 · Ryzen AI 9 HX 470 / 32GB / 1TB, Windows 11 Home (UM5606GA-PS99T) – $2,299.99",
     "colors": "Scandinavian White"
-   }
+   },
+   "options": [
+    {
+     "name": "Configuration",
+     "values": [
+      {
+       "label": "Ryzen AI 7 445 / 32GB / 1TB, Windows 11 Pro (UM5606GA-XS79T)",
+       "price": "1999.99",
+       "default": true
+      },
+      {
+       "label": "Ryzen AI 9 HX 470 / 32GB / 1TB, Windows 11 Home (UM5606GA-PS99T)",
+       "price": "2299.99"
+      }
+     ]
+    }
+   ]
   },
   {
    "sku": "TK-ASUS-ZENBOOK-DUO-UX8407",
@@ -197,7 +258,8 @@
     "ports": "2x Thunderbolt 4, 1x USB 3.2 Gen 2 Type-A, 3.5mm audio",
     "wireless": "Wi-Fi 7, Bluetooth 5.4",
     "colors": "Moher Gray"
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-ASUS-ZENBOOK-14-UM3406-2026",
@@ -234,7 +296,8 @@
     "ports": "1x USB4 Type-C, 1x USB 3.2 Gen 2 Type-C, 1x USB 3.2 Gen 1 Type-A, HDMI 2.1, 3.5mm audio",
     "wireless": "Wi-Fi 6E, Bluetooth 5.4",
     "colors": "Jade Black"
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-ASUS-VIVOBOOK-S16-S3607Q",
@@ -271,7 +334,8 @@
     "ports": "2x USB4 Type-C, 1x USB 3.2 Gen 2 Type-A, 1x USB 3.2 Gen 1 Type-A, HDMI 2.1, 3.5mm audio",
     "wireless": "Wi-Fi 7, Bluetooth 5.4",
     "colors": "Mist Blue"
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-ASUS-VIVOBOOK-S14-S3407",
@@ -308,7 +372,8 @@
     "ports": "2x USB 3.2 Gen 1 Type-A, HDMI 2.1, 3.5mm audio",
     "wireless": "Wi-Fi 6, Bluetooth 5.4",
     "colors": "Matte Gray"
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-ASUS-EXPERTBOOK-P5-G2-14",
@@ -347,7 +412,8 @@
     "ports": "2x Thunderbolt 4, 2x USB 3.2 Gen 1 Type-A, HDMI 2.1, RJ45 Gigabit Ethernet, 3.5mm audio",
     "wireless": "Wi-Fi 7, Bluetooth 5.4",
     "colors": "Misty Grey"
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-ASUS-EXPERTBOOK-P5-G2-16",
@@ -386,7 +452,8 @@
     "ports": "1x USB4 Type-C, 1x USB 3.2 Gen 2 Type-C, 2x USB 3.2 Gen 1 Type-A, HDMI 2.1, RJ45 Gigabit Ethernet, 3.5mm audio",
     "wireless": "Wi-Fi 7, Bluetooth 5.4",
     "colors": "Misty Grey"
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-ASUS-GOOGLEBOOK-14",
@@ -423,7 +490,8 @@
     "ports": "2x Thunderbolt 4, 2x USB 3.2 Gen 2 Type-A, HDMI 2.1, 3.5mm audio",
     "wireless": "Wi-Fi 7, Bluetooth 6.0",
     "colors": "Dusk Ash"
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-ASUS-CHROMEBOOK-PLUS-CX34",
@@ -458,7 +526,8 @@
     "ports": "2x USB 3.2 Gen 1 Type-A, USB-C charging, 3.5mm audio",
     "wireless": "Wi-Fi 6E, Bluetooth 5.4",
     "colors": "Rocky Grey"
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-ASUS-PROART-P16-H7606-5070",
@@ -498,7 +567,23 @@
     "wireless": "Wi-Fi 7, Bluetooth 5.4",
     "configurations": "RTX 5070 / 64GB / 2TB (H7606WP-PB99T) – $3,999.99 · RTX 5090 / 64GB / 2x 2TB, Lumina Pro OLED – $5,499.99",
     "colors": "Nano Black"
-   }
+   },
+   "options": [
+    {
+     "name": "Configuration",
+     "values": [
+      {
+       "label": "RTX 5070 / 64GB / 2TB (H7606WP-PB99T)",
+       "price": "3999.99",
+       "default": true
+      },
+      {
+       "label": "RTX 5090 / 64GB / 2x 2TB, Lumina Pro OLED",
+       "price": "5499.99"
+      }
+     ]
+    }
+   ]
   },
   {
    "sku": "TK-ASUS-PROART-PX13-HN7306",
@@ -538,7 +623,8 @@
     "ports": "2x USB4 Type-C, 1x USB 3.2 Gen 2 Type-A, microSD 4.0 reader, DC-in, 3.5mm audio",
     "wireless": "Wi-Fi 7, Bluetooth 5.4",
     "colors": "Nano Black"
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-ASUS-ROG-ZEPHYRUS-G14-2026",
@@ -576,7 +662,8 @@
     "npuTops": 50,
     "ports": "1x Thunderbolt 4, 1x USB 3.2 Gen 2 Type-C, 2x USB 3.2 Gen 2 Type-A, 3.5mm audio",
     "wireless": "Wi-Fi 7, Bluetooth 6.0"
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-ASUS-ROG-ZEPHYRUS-G16-2026",
@@ -614,7 +701,8 @@
     "npuTops": 50,
     "ports": "1x Thunderbolt 4, 1x USB 3.2 Gen 2 Type-C, 2x USB 3.2 Gen 2 Type-A, 3.5mm audio",
     "wireless": "Wi-Fi 7, Bluetooth 6.0"
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-ASUS-ROG-ZEPHYRUS-DUO-2026",
@@ -654,7 +742,23 @@
     "ports": "2x Thunderbolt 4, 2x USB 3.2 Gen 2 Type-A, HDMI 2.1 FRL, 3.5mm audio",
     "wireless": "Wi-Fi 7, Bluetooth 6.0",
     "configurations": "RTX 5070 Ti / 32GB / 1TB – $4,499.99 · RTX 5090 (24GB) / 32GB / 1TB – $5,499.99"
-   }
+   },
+   "options": [
+    {
+     "name": "Configuration",
+     "values": [
+      {
+       "label": "RTX 5070 Ti / 32GB / 1TB",
+       "price": "4499.99",
+       "default": true
+      },
+      {
+       "label": "RTX 5090 (24GB) / 32GB / 1TB",
+       "price": "5499.99"
+      }
+     ]
+    }
+   ]
   },
   {
    "sku": "TK-ASUS-ROG-STRIX-SCAR-18-2026",
@@ -695,7 +799,27 @@
     "ports": "2x Thunderbolt 5, 3x USB 3.2 Gen 2 Type-A, 2.5G LAN, 3.5mm audio",
     "wireless": "Wi-Fi 7, Bluetooth 5.4",
     "configurations": "RTX 5080 / 32GB / 1TB (G835LWG-DB96) – $4,299.99 · RTX 5090 / 32GB / 1TB (G835LXG-DB96) – $4,999.99 · RTX 5090 / 32GB / 2TB, Windows 11 Pro (G835LXG-XB97) – $5,299.99"
-   }
+   },
+   "options": [
+    {
+     "name": "Configuration",
+     "values": [
+      {
+       "label": "RTX 5080 / 32GB / 1TB (G835LWG-DB96)",
+       "price": "4299.99",
+       "default": true
+      },
+      {
+       "label": "RTX 5090 / 32GB / 1TB (G835LXG-DB96)",
+       "price": "4999.99"
+      },
+      {
+       "label": "RTX 5090 / 32GB / 2TB, Windows 11 Pro (G835LXG-XB97)",
+       "price": "5299.99"
+      }
+     ]
+    }
+   ]
   },
   {
    "sku": "TK-ASUS-ROG-FLOW-Z13-2025",
@@ -734,7 +858,23 @@
     "ports": "2x USB4 Type-C, 1x USB 3.2 Gen 2 Type-A, microSD (UHS-II), 3.5mm audio",
     "wireless": "Wi-Fi 7, Bluetooth 5.4",
     "configurations": "Ryzen AI Max 390 / 32GB / 1TB (GZ302EA) – $2,099.99 · Ryzen AI Max+ 395 / 32GB / 1TB, Windows 11 Pro (GZ302EA-XS96) – $2,399.99"
-   }
+   },
+   "options": [
+    {
+     "name": "Configuration",
+     "values": [
+      {
+       "label": "Ryzen AI Max 390 / 32GB / 1TB (GZ302EA)",
+       "price": "2099.99",
+       "default": true
+      },
+      {
+       "label": "Ryzen AI Max+ 395 / 32GB / 1TB, Windows 11 Pro (GZ302EA-XS96)",
+       "price": "2399.99"
+      }
+     ]
+    }
+   ]
   },
   {
    "sku": "TK-ASUS-TUF-GAMING-A14-2026",
@@ -770,7 +910,8 @@
     "npuTops": 50,
     "ports": "1x USB4 Type-C, 1x USB 3.2 Gen 2 Type-C, 2x USB 3.2 Gen 2 Type-A, HDMI 2.1 FRL, microSD, 3.5mm audio",
     "wireless": "Wi-Fi 6E, Bluetooth 5.4"
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-ASUS-TUF-GAMING-F16-2026",
@@ -807,7 +948,8 @@
     "ports": "1x Thunderbolt 4, 1x USB 3.2 Gen 2 Type-C, 3x USB 3.2 Gen 2 Type-A, HDMI 2.1 FRL, RJ45 LAN, 3.5mm audio",
     "wireless": "Wi-Fi 6E, Bluetooth 5.4",
     "colors": "Jaeger Gray"
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-ASUS-ROG-XBOX-ALLY-X",
@@ -832,7 +974,7 @@
    "description": "The ROG Xbox Ally X is a Windows 11 handheld built with Xbox, powered by the AMD Ryzen AI Z2 Extreme (8 cores, NPU up to 50 TOPS). It has 24GB LPDDR5X, a 1TB M.2 2280 SSD, a 7-inch 1080p 120Hz IPS-level touchscreen with FreeSync Premium, Hall Effect triggers, HD haptics, a USB4 port and an 80Wh battery, at 715 g.",
    "keywords": "rog xbox ally x handheld pc ryzen z2 extreme windows handheld",
    "specs": {
-    "platform": "Windows 11 Home (Xbox full screen experience)",
+    "platform": "Xbox",
     "chip": "AMD Ryzen AI Z2 Extreme (8 cores, 16 threads)",
     "storage": "1TB PCIe 4.0 M.2 2280 SSD",
     "display": "7\" FHD (1920x1080) IPS-level touch, 120Hz, 500 nits, FreeSync Premium",
@@ -840,8 +982,10 @@
     "connectivity": "Wi-Fi 6E, Bluetooth 5.4",
     "battery": "80Wh",
     "weightG": 715,
+    "compatibility": "Windows 11 Home (Xbox full screen experience)",
     "colors": "Black"
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-ASUS-ROG-XBOX-ALLY",
@@ -864,7 +1008,7 @@
    "description": "The ROG Xbox Ally is the lighter, lower-priced sibling of the Ally X, using an AMD Ryzen Z2 A (4 cores, 8 threads) with 16GB LPDDR5-6400 and a 512GB M.2 2280 SSD. It shares the 7-inch 1080p 120Hz touchscreen and Xbox-style grips, with two USB-C ports, a UHS-II microSD reader and a 60Wh battery, at 670 g.",
    "keywords": "rog xbox ally handheld z2 a entry",
    "specs": {
-    "platform": "Windows 11 Home (Xbox full screen experience)",
+    "platform": "Xbox",
     "chip": "AMD Ryzen Z2 A (4 cores, 8 threads)",
     "storage": "512GB PCIe 4.0 M.2 2280 SSD",
     "display": "7\" FHD (1920x1080) IPS-level touch, 120Hz, 500 nits, FreeSync Premium",
@@ -872,8 +1016,10 @@
     "connectivity": "Wi-Fi 6E, Bluetooth 5.4",
     "battery": "60Wh",
     "weightG": 670,
+    "compatibility": "Windows 11 Home (Xbox full screen experience)",
     "colors": "White"
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-ASUS-ROG-XBOX-ALLY-X20",
@@ -898,7 +1044,7 @@
    "description": "The ROG Xbox Ally X20 is a translucent black-and-gold collector's edition marking 20 years of ROG. It keeps the Ryzen AI Z2 Extreme, 24GB LPDDR5X and 1TB SSD, but adds a larger 7.4-inch 1080p 120Hz OLED (1400 nits HDR, Dolby Vision), contact-free TMR joysticks, a transforming D-pad and a microSD Express reader. The ASUS Store listed it as a pre-order.",
    "keywords": "rog xbox ally x20 20th anniversary oled handheld tmr joysticks",
    "specs": {
-    "platform": "Windows 11 Home (Xbox full screen experience)",
+    "platform": "Xbox",
     "chip": "AMD Ryzen AI Z2 Extreme (8 cores, 16 threads)",
     "storage": "1TB PCIe 4.0 M.2 2280 SSD",
     "display": "7.4\" FHD (1920x1080) OLED touch, 120Hz, 1400 nits HDR, 100% DCI-P3, Dolby Vision",
@@ -906,8 +1052,10 @@
     "connectivity": "Wi-Fi 6E, Bluetooth 5.4",
     "battery": "80Wh",
     "weightG": 756,
+    "compatibility": "Windows 11 Home (Xbox full screen experience)",
     "colors": "Translucent black and gold"
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-ASUS-ROG-G1000-2026",
@@ -943,7 +1091,8 @@
     "psuW": 1000,
     "ports": "2x USB4 Type-C, USB 3.2 Gen 2 Type-C, USB 3.2 Gen 1 Type-A, USB 2.0, HDMI 2.1b, 7.1 audio",
     "colors": "Black"
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-ASUS-ROG-G700-G700TF",
@@ -978,7 +1127,8 @@
     "psuW": 850,
     "ports": "USB 3.2 Gen 2 Type-C, USB 3.2 Gen 2 Type-A, USB 3.2 Gen 1 Type-A/C, USB 2.0, DisplayPort 1.4, 7.1 audio",
     "colors": "Black"
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-ASUS-ROG-NUC-16",
@@ -1014,7 +1164,23 @@
     "ports": "1x Thunderbolt 4, 6x USB 3.2 Gen 2 Type-A, 1x USB 3.2 Gen 2 Type-C, 2x HDMI 2.1 FRL, 2x DisplayPort 2.1",
     "configurations": "RTX 5070 Ti / 32GB / 1TB – $3,199 · RTX 5080 / 32GB / 1TB – $3,799",
     "colors": "Black"
-   }
+   },
+   "options": [
+    {
+     "name": "Configuration",
+     "values": [
+      {
+       "label": "RTX 5070 Ti / 32GB / 1TB",
+       "price": "3199.00",
+       "default": true
+      },
+      {
+       "label": "RTX 5080 / 32GB / 1TB",
+       "price": "3799.00"
+      }
+     ]
+    }
+   ]
   },
   {
    "sku": "TK-ASUS-NUC-15-PRO-PLUS",
@@ -1043,13 +1209,29 @@
     "cpu": "Intel Core Ultra 5 225H (cTDP 40W)",
     "cpuBrand": "Intel",
     "gpu": "Intel Arc GPU (integrated)",
-    "os": "None (supports Windows 11, RHEL, Ubuntu 24.04)",
+    "os": "None (bring your own)",
     "networking": "Intel Wi-Fi 7 BE201, Bluetooth 5.4, Intel I226-V 2.5G LAN",
     "psuW": 120,
     "ports": "2x Thunderbolt 4, 1x USB 3.2 Gen 2x2 Type-C, 3x USB 3.2 Gen 2 Type-A, 1x USB 2.0, 2x HDMI 2.1",
     "configurations": "Core Ultra 5 225H kit (no RAM/SSD/OS) – $615 · Core Ultra 7 255H kit (no RAM/SSD/OS) – $720",
     "colors": "Silver"
-   }
+   },
+   "options": [
+    {
+     "name": "Configuration",
+     "values": [
+      {
+       "label": "Core Ultra 5 225H kit (no RAM/SSD/OS)",
+       "price": "615.00",
+       "default": true
+      },
+      {
+       "label": "Core Ultra 7 255H kit (no RAM/SSD/OS)",
+       "price": "720.00"
+      }
+     ]
+    }
+   ]
   },
   {
    "sku": "TK-ASUS-ASCENT-GX10",
@@ -1083,7 +1265,23 @@
     "storage": "1TB M.2 NVMe PCIe 4.0 SSD (up to 4TB)",
     "network": "NVIDIA ConnectX-7 SmartNIC, 10G Ethernet, Wi-Fi 7, Bluetooth 5.4",
     "configurations": "1TB SSD (90MS0371-M000A0) – $5,999 · 90MS0371-M000M0 (storage size not stated by ASUS) – $6,999"
-   }
+   },
+   "options": [
+    {
+     "name": "Configuration",
+     "values": [
+      {
+       "label": "1TB SSD (90MS0371-M000A0)",
+       "price": "5999.00",
+       "default": true
+      },
+      {
+       "label": "90MS0371-M000M0 (storage size not stated by ASUS)",
+       "price": "6999.00"
+      }
+     ]
+    }
+   ]
   },
   {
    "sku": "TK-ASUS-ESC8000A-E13P",
@@ -1115,7 +1313,8 @@
     "gpus": "Up to 8 dual-slot GPUs (NVIDIA H200, RTX PRO 6000/4500 Blackwell Server Edition, AMD Instinct MI350P), up to 600W each",
     "driveBays": 8,
     "network": "Five PCIe 5.0 slots for NICs/DPUs"
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-ASUS-ROG-MAXIMUS-Z890-HERO",
@@ -1141,7 +1340,7 @@
    "keywords": "maximus z890 hero lga1851 arrow lake core ultra 200s motherboard",
    "specs": {
     "socket": "LGA1851",
-    "chipset": "Intel Z890",
+    "chipset": "Z890",
     "formFactor": "ATX",
     "memoryType": "DDR5 (CUDIMM supported)",
     "memorySlots": 4,
@@ -1149,7 +1348,8 @@
     "m2Slots": 6,
     "wifi": "Wi-Fi 7 (2x2, 320MHz), Bluetooth 5.4",
     "lan": "Intel 2.5Gb + Realtek 5Gb Ethernet"
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-ASUS-ROG-MAXIMUS-Z890-APEX",
@@ -1173,7 +1373,7 @@
    "keywords": "maximus z890 apex overclocking ddr5 9600 lga1851",
    "specs": {
     "socket": "LGA1851",
-    "chipset": "Intel Z890",
+    "chipset": "Z890",
     "formFactor": "ATX",
     "memoryType": "DDR5 (CUDIMM supported)",
     "memorySlots": 2,
@@ -1181,7 +1381,8 @@
     "m2Slots": 6,
     "wifi": "Wi-Fi 7 (2x2, 320MHz), Bluetooth 5.4",
     "lan": "Realtek 5Gb Ethernet"
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-ASUS-ROG-CROSSHAIR-X870E-DARK-HERO",
@@ -1207,7 +1408,7 @@
    "keywords": "crosshair x870e dark hero am5 ryzen 9000 10gbe motherboard",
    "specs": {
     "socket": "AM5",
-    "chipset": "AMD X870E",
+    "chipset": "X870E",
     "formFactor": "ATX",
     "memoryType": "DDR5",
     "memorySlots": 4,
@@ -1215,7 +1416,8 @@
     "m2Slots": 5,
     "wifi": "Wi-Fi 7 (MediaTek MT7927, 320MHz), Bluetooth 5.4",
     "lan": "Realtek 10Gb + Realtek 5Gb Ethernet"
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-ASUS-ROG-STRIX-X870E-E-NEO",
@@ -1239,7 +1441,7 @@
    "keywords": "strix x870e-e neo am5 wifi 7 ryzen 9000 motherboard",
    "specs": {
     "socket": "AM5",
-    "chipset": "AMD X870E",
+    "chipset": "X870E",
     "formFactor": "ATX",
     "memoryType": "DDR5",
     "memorySlots": 4,
@@ -1247,7 +1449,8 @@
     "m2Slots": 5,
     "wifi": "Wi-Fi 7 (MediaTek MT7927, 320MHz)",
     "lan": "Realtek 5Gb Ethernet"
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-ASUS-PROART-Z890-CREATOR-WIFI",
@@ -1273,7 +1476,7 @@
    "keywords": "proart z890 creator 10gbe lga1851 workstation motherboard",
    "specs": {
     "socket": "LGA1851",
-    "chipset": "Intel Z890",
+    "chipset": "Z890",
     "formFactor": "ATX",
     "memoryType": "DDR5 (CUDIMM supported)",
     "memorySlots": 4,
@@ -1281,7 +1484,8 @@
     "m2Slots": 5,
     "wifi": "Wi-Fi 7 (2x2, 320MHz), Bluetooth 5.4",
     "lan": "Marvell AQtion 10Gb + Intel 2.5Gb Ethernet"
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-ASUS-TUF-GAMING-X870-PLUS-WIFI",
@@ -1305,7 +1509,7 @@
    "keywords": "tuf x870 plus wifi am5 budget motherboard usb4",
    "specs": {
     "socket": "AM5",
-    "chipset": "AMD X870",
+    "chipset": "X870",
     "formFactor": "ATX",
     "memoryType": "DDR5 (ECC and non-ECC UDIMM)",
     "memorySlots": 4,
@@ -1313,7 +1517,8 @@
     "m2Slots": 4,
     "wifi": "Wi-Fi 7 (2x2, 160MHz), Bluetooth 5.4",
     "lan": "Realtek 2.5Gb Ethernet"
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-ASUS-ROG-ASTRAL-RTX5090-ED20",
@@ -1339,7 +1544,7 @@
    "description": "The ROG Astral RTX 5090 Edition 20 is a collector's version of ASUS's flagship card with 21,760 CUDA cores, 32GB of 28Gbps GDDR7 on a 512-bit bus and a 2760 MHz OC-mode boost clock. It adds a detachable AMOLED display, a detachable glass backplate and support for the GC-HPWR gold-finger power connector; the 4.7-slot card measures 361 mm and ASUS recommends a 1200W+ PSU.",
    "keywords": "rog astral rtx 5090 edition 20 anniversary 32gb flagship gpu",
    "specs": {
-    "chipset": "NVIDIA GeForce RTX 5090",
+    "chipset": "GeForce RTX 5090",
     "architecture": "NVIDIA Blackwell",
     "vramGb": 32,
     "memoryType": "GDDR7",
@@ -1347,7 +1552,8 @@
     "recommendedPsuW": 1200,
     "lengthMm": 361,
     "slots": 4.7
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-ASUS-ROG-ASTRAL-RTX5080-WHITE",
@@ -1372,7 +1578,7 @@
    "description": "The ROG Astral RTX 5080 OC White Edition has 10,752 CUDA cores and 16GB of 30Gbps GDDR7 on a 256-bit bus, with a 2790 MHz OC-mode boost clock. The 3.8-slot, 357.6 mm card uses a single 16-pin connector, provides two HDMI 2.1b and three DisplayPort 2.1b outputs, and ASUS recommends an 850W PSU.",
    "keywords": "rog astral rtx 5080 white edition gpu",
    "specs": {
-    "chipset": "NVIDIA GeForce RTX 5080",
+    "chipset": "GeForce RTX 5080",
     "architecture": "NVIDIA Blackwell",
     "vramGb": 16,
     "memoryType": "GDDR7",
@@ -1380,7 +1586,8 @@
     "recommendedPsuW": 850,
     "lengthMm": 357.6,
     "slots": 3.8
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-ASUS-TUF-RTX5080-O16G",
@@ -1403,7 +1610,7 @@
    "description": "The TUF Gaming RTX 5080 OC Edition has 10,752 CUDA cores, 16GB of 30Gbps GDDR7 and a 2730 MHz OC-mode boost clock. The 348 mm, 3.6-slot card uses one 16-pin connector and provides two HDMI 2.1b and three DisplayPort 2.1b outputs.",
    "keywords": "tuf rtx 5080 oc gpu",
    "specs": {
-    "chipset": "NVIDIA GeForce RTX 5080",
+    "chipset": "GeForce RTX 5080",
     "architecture": "NVIDIA Blackwell",
     "vramGb": 16,
     "memoryType": "GDDR7",
@@ -1411,7 +1618,8 @@
     "recommendedPsuW": 850,
     "lengthMm": 348,
     "slots": 3.6
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-ASUS-PROART-RTX5080-O16G",
@@ -1436,7 +1644,7 @@
    "description": "The ProArt RTX 5080 OC Edition fits the full RTX 5080 (10,752 CUDA cores, 16GB 30Gbps GDDR7, 2730 MHz OC boost) into a 2.5-slot, 304 mm SFF-Ready design. It provides one HDMI 2.1b, two DisplayPort 2.1b and one USB Type-C output, uses a single 16-pin connector and ASUS recommends an 850W PSU.",
    "keywords": "proart rtx 5080 sff creator gpu usb-c",
    "specs": {
-    "chipset": "NVIDIA GeForce RTX 5080",
+    "chipset": "GeForce RTX 5080",
     "architecture": "NVIDIA Blackwell",
     "vramGb": 16,
     "memoryType": "GDDR7",
@@ -1444,7 +1652,8 @@
     "recommendedPsuW": 850,
     "lengthMm": 304,
     "slots": 2.5
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-ASUS-PRIME-RTX5070TI-O16G",
@@ -1467,7 +1676,7 @@
    "description": "The Prime RTX 5070 Ti OC Edition has 8,960 CUDA cores, 16GB of 28Gbps GDDR7 on a 256-bit bus and a 2527 MHz OC-mode boost. Its 304 mm, 2.5-slot triple-fan design is SFF-Ready, with one HDMI 2.1b and three DisplayPort 2.1b outputs and one 16-pin power connector.",
    "keywords": "prime rtx 5070 ti sff gpu 16gb",
    "specs": {
-    "chipset": "NVIDIA GeForce RTX 5070 Ti",
+    "chipset": "GeForce RTX 5070 Ti",
     "architecture": "NVIDIA Blackwell",
     "vramGb": 16,
     "memoryType": "GDDR7",
@@ -1475,7 +1684,8 @@
     "recommendedPsuW": 750,
     "lengthMm": 304,
     "slots": 2.5
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-ASUS-TUF-RTX5070-O12G",
@@ -1498,7 +1708,7 @@
    "description": "The TUF Gaming RTX 5070 OC Edition has 6,144 CUDA cores, 12GB of 28Gbps GDDR7 on a 192-bit bus and a 2640 MHz OC-mode boost clock. The 329 mm, 3.125-slot card offers two HDMI 2.1b and three DisplayPort 2.1b outputs and ASUS recommends a 750W PSU.",
    "keywords": "tuf rtx 5070 12gb gpu",
    "specs": {
-    "chipset": "NVIDIA GeForce RTX 5070",
+    "chipset": "GeForce RTX 5070",
     "architecture": "NVIDIA Blackwell",
     "vramGb": 12,
     "memoryType": "GDDR7",
@@ -1506,7 +1716,8 @@
     "recommendedPsuW": 750,
     "lengthMm": 329,
     "slots": 3.125
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-ASUS-PRIME-RX9070XT-O16G",
@@ -1529,7 +1740,7 @@
    "description": "The Prime Radeon RX 9070 XT OC Edition has 4,096 stream processors and 16GB of 20Gbps GDDR6 on a 256-bit bus, with up to 3030 MHz boost in GPU Tweak III OC mode. The 312 mm, 2.5-slot card uses three 8-pin connectors, offers one HDMI 2.1b and three DisplayPort 2.1a outputs, and ASUS recommends a 750W PSU.",
    "keywords": "prime rx 9070 xt radeon rdna 4 gpu",
    "specs": {
-    "chipset": "AMD Radeon RX 9070 XT",
+    "chipset": "Radeon RX 9070 XT",
     "architecture": "AMD RDNA 4",
     "vramGb": 16,
     "memoryType": "GDDR6",
@@ -1537,7 +1748,8 @@
     "recommendedPsuW": 750,
     "lengthMm": 312,
     "slots": 2.5
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-ASUS-ROG-SWIFT-PG32UCDM3",
@@ -1566,12 +1778,14 @@
     "sizeIn": 31.5,
     "resolution": "3840x2160",
     "refreshHz": 240,
-    "panel": "Tandem QD-OLED",
+    "panel": "QD-OLED",
     "hdr": "VESA DisplayHDR 500 True Black, Dolby Vision",
     "colorGamut": "99% DCI-P3",
     "inputs": "1x DisplayPort 2.1, 2x HDMI 2.1 (FRL), 1x USB-C (DP Alt Mode), 3x USB-A hub",
-    "usbCPowerW": 90
-   }
+    "usbCPowerW": 90,
+    "panelDetails": "Tandem QD-OLED"
+   },
+   "options": []
   },
   {
    "sku": "TK-ASUS-ROG-SWIFT-PG27UCDM",
@@ -1599,12 +1813,14 @@
     "sizeIn": 26.5,
     "resolution": "3840x2160",
     "refreshHz": 240,
-    "panel": "Tandem QD-OLED (4th gen)",
+    "panel": "QD-OLED",
     "hdr": "VESA DisplayHDR 400 True Black, Dolby Vision",
     "colorGamut": "145% sRGB",
     "inputs": "1x DisplayPort 2.1, 2x HDMI 2.1 (FRL), 1x USB-C (DP Alt Mode), 3x USB-A hub",
-    "usbCPowerW": 90
-   }
+    "usbCPowerW": 90,
+    "panelDetails": "Tandem QD-OLED (4th gen)"
+   },
+   "options": []
   },
   {
    "sku": "TK-ASUS-ROG-SWIFT-PG32UCWM",
@@ -1632,12 +1848,14 @@
     "sizeIn": 31.5,
     "resolution": "3840x2160",
     "refreshHz": 240,
-    "panel": "WOLED (TrueBlack Glossy)",
+    "panel": "OLED",
     "hdr": "VESA DisplayHDR 400 True Black, Dolby Vision",
     "inputs": "2x HDMI 2.1 (FRL, 48Gbps), 1x USB-C (DP Alt Mode), 3x USB-A hub",
     "usbCPowerW": 90,
-    "configurations": "Dual Mode: 4K 240Hz / 1080p 480Hz"
-   }
+    "configurations": "Dual Mode: 4K 240Hz / 1080p 480Hz",
+    "panelDetails": "WOLED (TrueBlack Glossy)"
+   },
+   "options": []
   },
   {
    "sku": "TK-ASUS-ROG-STRIX-XG34WCDG",
@@ -1665,12 +1883,14 @@
     "sizeIn": 34,
     "resolution": "3440x1440",
     "refreshHz": 175,
-    "panel": "QD-OLED, 1800R curved",
+    "panel": "QD-OLED",
     "hdr": "VESA DisplayHDR 400 True Black",
     "colorGamut": "99.3% DCI-P3",
     "inputs": "1x DisplayPort 1.4 DSC, 2x HDMI 2.1 (FRL), 1x USB-C (DP Alt Mode), USB hub",
-    "usbCPowerW": 15
-   }
+    "usbCPowerW": 15,
+    "panelDetails": "QD-OLED, 1800R curved"
+   },
+   "options": []
   },
   {
    "sku": "TK-ASUS-PROART-PA27JCV",
@@ -1699,12 +1919,14 @@
     "sizeIn": 27,
     "resolution": "5120x2880",
     "refreshHz": 60,
-    "panel": "IPS (AGLR)",
+    "panel": "IPS",
     "hdr": "HDR10, 500 nits peak",
     "colorGamut": "99% DCI-P3, 95% Adobe RGB, 100% sRGB",
     "inputs": "1x USB-C (DP Alt Mode), 1x DisplayPort 1.4, 1x HDMI 2.1, USB hub",
-    "usbCPowerW": 96
-   }
+    "usbCPowerW": 96,
+    "panelDetails": "IPS (AGLR)"
+   },
+   "options": []
   },
   {
    "sku": "TK-ASUS-ROG-RAPTURE-GT-BE98-PRO",
@@ -1734,8 +1956,10 @@
     "maxSpeedGbps": 30,
     "managed": false,
     "rackMountable": false,
-    "wifiStandard": "Wi-Fi 7 (802.11be), quad-band BE30000"
-   }
+    "wifiStandard": "Wi-Fi 7",
+    "wifiDetails": "Wi-Fi 7 (802.11be), quad-band BE30000"
+   },
+   "options": []
   },
   {
    "sku": "TK-ASUS-ROG-RAPTURE-GT-BE19000AI",
@@ -1764,8 +1988,10 @@
     "maxSpeedGbps": 19,
     "managed": false,
     "rackMountable": false,
-    "wifiStandard": "Wi-Fi 7 (802.11be), tri-band BE19000"
-   }
+    "wifiStandard": "Wi-Fi 7",
+    "wifiDetails": "Wi-Fi 7 (802.11be), tri-band BE19000"
+   },
+   "options": []
   },
   {
    "sku": "TK-ASUS-RT-BE88U",
@@ -1795,8 +2021,10 @@
     "maxSpeedGbps": 7.2,
     "managed": false,
     "rackMountable": false,
-    "wifiStandard": "Wi-Fi 7 (802.11be), dual-band BE7200"
-   }
+    "wifiStandard": "Wi-Fi 7",
+    "wifiDetails": "Wi-Fi 7 (802.11be), dual-band BE7200"
+   },
+   "options": []
   },
   {
    "sku": "TK-ASUS-RT-BE58U",
@@ -1825,8 +2053,10 @@
     "maxSpeedGbps": 3.6,
     "managed": false,
     "rackMountable": false,
-    "wifiStandard": "Wi-Fi 7 (802.11be), dual-band BE3600"
-   }
+    "wifiStandard": "Wi-Fi 7",
+    "wifiDetails": "Wi-Fi 7 (802.11be), dual-band BE3600"
+   },
+   "options": []
   },
   {
    "sku": "TK-ASUS-ZENWIFI-BQ16-PRO-2PK",
@@ -1855,9 +2085,11 @@
     "maxSpeedGbps": 30,
     "managed": false,
     "rackMountable": false,
-    "wifiStandard": "Wi-Fi 7 (802.11be), quad-band BE30000",
-    "nodes": 2
-   }
+    "wifiStandard": "Wi-Fi 7",
+    "nodes": 2,
+    "wifiDetails": "Wi-Fi 7 (802.11be), quad-band BE30000"
+   },
+   "options": []
   },
   {
    "sku": "TK-ASUS-ZENWIFI-BT10-1PK",
@@ -1884,9 +2116,11 @@
     "maxSpeedGbps": 18,
     "managed": false,
     "rackMountable": false,
-    "wifiStandard": "Wi-Fi 7 (802.11be), tri-band BE18000",
-    "nodes": 1
-   }
+    "wifiStandard": "Wi-Fi 7",
+    "nodes": 1,
+    "wifiDetails": "Wi-Fi 7 (802.11be), tri-band BE18000"
+   },
+   "options": []
   },
   {
    "sku": "TK-ASUS-ZENWIFI-BD5-1PK",
@@ -1913,9 +2147,11 @@
     "maxSpeedGbps": 5,
     "managed": false,
     "rackMountable": false,
-    "wifiStandard": "Wi-Fi 7 (802.11be), dual-band BE5000",
-    "nodes": 1
-   }
+    "wifiStandard": "Wi-Fi 7",
+    "nodes": 1,
+    "wifiDetails": "Wi-Fi 7 (802.11be), dual-band BE5000"
+   },
+   "options": []
   }
  ]
 }

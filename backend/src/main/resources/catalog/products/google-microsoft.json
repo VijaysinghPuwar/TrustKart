@@ -34,12 +34,46 @@
     "charging": "Up to 55% in ~30 min with 30W USB-C PPS; Pixelsnap Qi2.2 wireless up to 25W",
     "connectivity": "5G (Sub-6 and mmWave), Wi-Fi 6E, Bluetooth 6, NFC, dual eSIM",
     "durability": "IP68, Gorilla Glass Victus 2 front and back, aluminum frame",
-    "os": "Android 17 (7 years of OS and security updates)",
+    "os": "Android 17",
     "weightG": 196,
     "dimensions": "6 x 2.8 x 0.3 in",
     "configurations": "256 GB / 12 GB RAM – $899 · 512 GB / 12 GB RAM – $1,019",
     "colors": "Frost, Hibiscus, Pistachio, Obsidian"
-   }
+   },
+   "options": [
+    {
+     "name": "Storage",
+     "values": [
+      {
+       "label": "256 GB / 12 GB RAM",
+       "price": "899.00",
+       "default": true
+      },
+      {
+       "label": "512 GB / 12 GB RAM",
+       "price": "1019.00"
+      }
+     ]
+    },
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Frost",
+       "default": true
+      },
+      {
+       "label": "Hibiscus"
+      },
+      {
+       "label": "Pistachio"
+      },
+      {
+       "label": "Obsidian"
+      }
+     ]
+    }
+   ]
   },
   {
    "sku": "TK-GOOGLE-PIXEL11PRO",
@@ -71,7 +105,7 @@
     "frontCamera": "42 MP Dual PD with autofocus",
     "connectivity": "5G, Wi-Fi 7, Bluetooth 6, NFC",
     "durability": "IP68, Gorilla Glass Victus 2 with anti-scratch shield, aluminum frame",
-    "os": "Android 17 (7 years of OS and security updates)",
+    "os": "Android 17",
     "displayIn": 6.3,
     "display": "6.3-inch Super Actua LTPO OLED, 1280 x 2856, 495 PPI, 1-120 Hz, up to 3600 nits peak",
     "battery": "Typical 4850 mAh, 30+ hour battery life",
@@ -80,7 +114,45 @@
     "dimensions": "6 x 2.8 x 0.3 in",
     "configurations": "256 GB / 12 GB RAM – $1,099 · 512 GB / 16 GB RAM – $1,219 · 1 TB / 16 GB RAM – $1,449",
     "colors": "Canyon, Olive, Fog, Obsidian (Matte)"
-   }
+   },
+   "options": [
+    {
+     "name": "Storage",
+     "values": [
+      {
+       "label": "256 GB / 12 GB RAM",
+       "price": "1099.00",
+       "default": true
+      },
+      {
+       "label": "512 GB / 16 GB RAM",
+       "price": "1219.00"
+      },
+      {
+       "label": "1 TB / 16 GB RAM",
+       "price": "1449.00"
+      }
+     ]
+    },
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Canyon",
+       "default": true
+      },
+      {
+       "label": "Olive"
+      },
+      {
+       "label": "Fog"
+      },
+      {
+       "label": "Obsidian (Matte)"
+      }
+     ]
+    }
+   ]
   },
   {
    "sku": "TK-GOOGLE-PIXEL11PROXL",
@@ -112,7 +184,7 @@
     "frontCamera": "42 MP Dual PD with autofocus",
     "connectivity": "5G, Wi-Fi 7, Bluetooth 6, NFC",
     "durability": "IP68, Gorilla Glass Victus 2 with anti-scratch shield, aluminum frame",
-    "os": "Android 17 (7 years of OS and security updates)",
+    "os": "Android 17",
     "displayIn": 6.8,
     "display": "6.8-inch Super Actua LTPO OLED, 1344 x 2992, 486 PPI, 1-120 Hz, up to 3600 nits peak",
     "battery": "Typical 5115 mAh, 30+ hour battery life",
@@ -121,7 +193,27 @@
     "dimensions": "6.4 x 3 x 0.3 in",
     "configurations": "256 GB / 12 GB RAM – $1,299 · 512 GB / 16 GB RAM · 1 TB / 16 GB RAM",
     "colors": "Canyon, Olive, Fog, Obsidian (Matte)"
-   }
+   },
+   "options": [
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Canyon",
+       "default": true
+      },
+      {
+       "label": "Olive"
+      },
+      {
+       "label": "Fog"
+      },
+      {
+       "label": "Obsidian (Matte)"
+      }
+     ]
+    }
+   ]
   },
   {
    "sku": "TK-GOOGLE-PIXEL11PROFOLD",
@@ -158,12 +250,44 @@
     "charging": "Up to 50% in ~30 min with 30W USB-C PPS; Pixelsnap Qi2.2 wireless up to 25W",
     "connectivity": "5G (Sub-6 and mmWave), Wi-Fi 7, Bluetooth 6, NFC",
     "durability": "IP68, glass ceramic cover glass, aluminum frame",
-    "os": "Android 17 (7 years of OS and security updates)",
+    "os": "Android 17",
     "weightG": 238,
     "dimensions": "Folded 6.1 x 3 x 0.4 in; unfolded 6.1 x 5.9 x 0.2 in",
     "configurations": "256 GB / 16 GB RAM – $1,899 · 512 GB / 16 GB RAM – $2,019 · 1 TB / 16 GB RAM – $2,249",
     "colors": "Olive, Obsidian"
-   }
+   },
+   "options": [
+    {
+     "name": "Storage",
+     "values": [
+      {
+       "label": "256 GB / 16 GB RAM",
+       "price": "1899.00",
+       "default": true
+      },
+      {
+       "label": "512 GB / 16 GB RAM",
+       "price": "2019.00"
+      },
+      {
+       "label": "1 TB / 16 GB RAM",
+       "price": "2249.00"
+      }
+     ]
+    },
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Olive",
+       "default": true
+      },
+      {
+       "label": "Obsidian"
+      }
+     ]
+    }
+   ]
   },
   {
    "sku": "TK-GOOGLE-PIXEL10A",
@@ -200,12 +324,32 @@
     "charging": "Up to 50% in ~30 min with 45W USB-C PPS; Qi wireless charging",
     "connectivity": "5G, Wi-Fi 6E, Bluetooth 6, NFC",
     "durability": "IP68, Gorilla Glass 7i",
-    "os": "Android 16 at launch",
+    "os": "Android 16",
     "weightG": 184,
     "dimensions": "6.1 x 2.9 x 0.4 in",
     "configurations": "128 GB / 8 GB RAM – $499 · 256 GB / 8 GB RAM",
     "colors": "Lavender, Berry, Fog, Obsidian"
-   }
+   },
+   "options": [
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Lavender",
+       "default": true
+      },
+      {
+       "label": "Berry"
+      },
+      {
+       "label": "Fog"
+      },
+      {
+       "label": "Obsidian"
+      }
+     ]
+    }
+   ]
   },
   {
    "sku": "TK-GOOGLE-PIXELWATCH5-41",
@@ -241,7 +385,41 @@
     "weightG": 31,
     "configurations": "41mm Bluetooth/Wi-Fi – $399.99 · 41mm 4G LTE – $499.99",
     "colors": "Polished Silver Aluminum / Fog, Champagne Gold Aluminum / Canyon, Satin Pyrite Aluminum / Olive, Matte Black Aluminum / Obsidian"
-   }
+   },
+   "options": [
+    {
+     "name": "Configuration",
+     "values": [
+      {
+       "label": "41mm Bluetooth/Wi-Fi",
+       "price": "399.99",
+       "default": true
+      },
+      {
+       "label": "41mm 4G LTE",
+       "price": "499.99"
+      }
+     ]
+    },
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Polished Silver Aluminum / Fog",
+       "default": true
+      },
+      {
+       "label": "Champagne Gold Aluminum / Canyon"
+      },
+      {
+       "label": "Satin Pyrite Aluminum / Olive"
+      },
+      {
+       "label": "Matte Black Aluminum / Obsidian"
+      }
+     ]
+    }
+   ]
   },
   {
    "sku": "TK-GOOGLE-PIXELWATCH5-45",
@@ -277,7 +455,41 @@
     "weightG": 36.7,
     "configurations": "45mm Bluetooth/Wi-Fi – $429.99 · 45mm 4G LTE · 45mm Special Edition Stephen Curry (LTE) – $579.99",
     "colors": "Polished Silver Aluminum / Fog, Champagne Gold Aluminum / Canyon, Satin Pyrite Aluminum / Olive, Matte Black Aluminum / Obsidian"
-   }
+   },
+   "options": [
+    {
+     "name": "Configuration",
+     "values": [
+      {
+       "label": "45mm Bluetooth/Wi-Fi",
+       "price": "429.99",
+       "default": true
+      },
+      {
+       "label": "45mm Special Edition Stephen Curry (LTE)",
+       "price": "579.99"
+      }
+     ]
+    },
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Polished Silver Aluminum / Fog",
+       "default": true
+      },
+      {
+       "label": "Champagne Gold Aluminum / Canyon"
+      },
+      {
+       "label": "Satin Pyrite Aluminum / Olive"
+      },
+      {
+       "label": "Matte Black Aluminum / Obsidian"
+      }
+     ]
+    }
+   ]
   },
   {
    "sku": "TK-GOOGLE-PIXELBUDSPRO2",
@@ -302,14 +514,35 @@
    "description": "Pixel Buds Pro 2 use the Google Tensor A1 chip and custom 11 mm dynamic drivers, with Active Noise Cancellation (Silent Seal 2.0), Transparency mode and Conversation Detection. Each bud weighs 4.7 g; the case supports Qi wireless charging and has a Find Hub speaker. Earbuds are IP54 and the case IPX4.",
    "keywords": "pixel buds pro 2 anc earbuds tensor a1 google",
    "specs": {
-    "connectivity": "Bluetooth 5.4, Super Wideband",
+    "connectivity": "Bluetooth",
     "noiseCancelling": true,
     "batteryHours": 8,
     "drivers": "Custom 11 mm dynamic",
     "waterResistance": "Earbuds IP54, case IPX4",
     "weightG": 4.7,
+    "connectionDetails": "Bluetooth 5.4, Super Wideband",
     "colors": "Porcelain, Olive, Peony, Hazel"
-   }
+   },
+   "options": [
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Porcelain",
+       "default": true
+      },
+      {
+       "label": "Olive"
+      },
+      {
+       "label": "Peony"
+      },
+      {
+       "label": "Hazel"
+      }
+     ]
+    }
+   ]
   },
   {
    "sku": "TK-GOOGLE-PIXELBUDS2A",
@@ -334,14 +567,35 @@
    "description": "Pixel Buds 2a bring Active Noise Cancellation with Silent Seal 1.5, Transparency mode and Clear Calling, powered by Google Tensor A1 and custom 11 mm drivers. They offer up to 7 hours per charge with ANC on (10 hours off), IP54 earbuds and an IPX4 case.",
    "keywords": "pixel buds 2a budget anc earbuds google",
    "specs": {
-    "connectivity": "Bluetooth 5.4, Super Wideband",
+    "connectivity": "Bluetooth",
     "noiseCancelling": true,
     "batteryHours": 7,
     "drivers": "Custom 11 mm dynamic",
     "waterResistance": "Earbuds IP54, case IPX4",
     "weightG": 4.7,
+    "connectionDetails": "Bluetooth 5.4, Super Wideband",
     "colors": "Fog, Berry, Iris, Hazel"
-   }
+   },
+   "options": [
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Fog",
+       "default": true
+      },
+      {
+       "label": "Berry"
+      },
+      {
+       "label": "Iris"
+      },
+      {
+       "label": "Hazel"
+      }
+     ]
+    }
+   ]
   },
   {
    "sku": "TK-GOOGLE-HOMESPEAKER",
@@ -371,7 +625,27 @@
     "power": "30W USB-C PD adapter (included)",
     "subscriptionRequired": false,
     "colors": "Berry, Porcelain, Hazel, Jade"
-   }
+   },
+   "options": [
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Berry",
+       "default": true
+      },
+      {
+       "label": "Porcelain"
+      },
+      {
+       "label": "Hazel"
+      },
+      {
+       "label": "Jade"
+      }
+     ]
+    }
+   ]
   },
   {
    "sku": "TK-GOOGLE-NESTHUB2",
@@ -403,7 +677,27 @@
     "resolution": "1024 x 600",
     "subscriptionRequired": false,
     "colors": "Chalk, Charcoal, Sand, Mist"
-   }
+   },
+   "options": [
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Chalk",
+       "default": true
+      },
+      {
+       "label": "Charcoal"
+      },
+      {
+       "label": "Sand"
+      },
+      {
+       "label": "Mist"
+      }
+     ]
+    }
+   ]
   },
   {
    "sku": "TK-GOOGLE-NESTCAM-BATTERY",
@@ -435,7 +729,8 @@
     "subscriptionRequired": false,
     "configurations": "1 pack – $199.99 · 2 pack",
     "colors": "Snow"
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-GOOGLE-NESTCAM-FLOODLIGHT",
@@ -466,7 +761,8 @@
     "resolution": "1080p HDR at 30 FPS",
     "subscriptionRequired": false,
     "colors": "Snow"
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-GOOGLE-NESTCAM-INDOOR3",
@@ -497,7 +793,24 @@
     "resolution": "2K (2560 x 1440) HDR at 30 FPS",
     "subscriptionRequired": false,
     "colors": "Snow, Hazel, Berry"
-   }
+   },
+   "options": [
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Snow",
+       "default": true
+      },
+      {
+       "label": "Hazel"
+      },
+      {
+       "label": "Berry"
+      }
+     ]
+    }
+   ]
   },
   {
    "sku": "TK-GOOGLE-NESTCAM-OUTDOOR2",
@@ -529,7 +842,21 @@
     "subscriptionRequired": false,
     "configurations": "1 pack – $199.99 · 2 pack",
     "colors": "Snow, Hazel"
-   }
+   },
+   "options": [
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Snow",
+       "default": true
+      },
+      {
+       "label": "Hazel"
+      }
+     ]
+    }
+   ]
   },
   {
    "sku": "TK-GOOGLE-NESTDOORBELL-BATT",
@@ -560,7 +887,27 @@
     "resolution": "960 x 1280 HDR at up to 30 FPS",
     "subscriptionRequired": false,
     "colors": "Snow, Ivy, Linen, Ash"
-   }
+   },
+   "options": [
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Snow",
+       "default": true
+      },
+      {
+       "label": "Ivy"
+      },
+      {
+       "label": "Linen"
+      },
+      {
+       "label": "Ash"
+      }
+     ]
+    }
+   ]
   },
   {
    "sku": "TK-GOOGLE-NESTDOORBELL-WIRED3",
@@ -591,7 +938,24 @@
     "resolution": "2K HDR at 30 FPS",
     "subscriptionRequired": false,
     "colors": "Snow, Hazel, Linen"
-   }
+   },
+   "options": [
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Snow",
+       "default": true
+      },
+      {
+       "label": "Hazel"
+      },
+      {
+       "label": "Linen"
+      }
+     ]
+    }
+   ]
   },
   {
    "sku": "TK-GOOGLE-NESTLEARNING4",
@@ -623,7 +987,24 @@
     "resolution": "600 x 600",
     "subscriptionRequired": false,
     "colors": "Polished Silver, Polished Obsidian, Polished Gold"
-   }
+   },
+   "options": [
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Polished Silver",
+       "default": true
+      },
+      {
+       "label": "Polished Obsidian"
+      },
+      {
+       "label": "Polished Gold"
+      }
+     ]
+    }
+   ]
   },
   {
    "sku": "TK-GOOGLE-NESTTHERMOSTAT",
@@ -655,7 +1036,27 @@
     "resolution": "240 x 320",
     "subscriptionRequired": false,
     "colors": "Snow, Sand, Fog, Charcoal"
-   }
+   },
+   "options": [
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Snow",
+       "default": true
+      },
+      {
+       "label": "Sand"
+      },
+      {
+       "label": "Fog"
+      },
+      {
+       "label": "Charcoal"
+      }
+     ]
+    }
+   ]
   },
   {
    "sku": "TK-GOOGLE-NESTWIFIPRO",
@@ -685,11 +1086,32 @@
     "maxSpeedGbps": 5.4,
     "managed": false,
     "rackMountable": false,
-    "wifiStandard": "Wi-Fi 6E (802.11ax), tri-band AXE5400",
+    "wifiStandard": "Wi-Fi 6E",
     "nodes": 1,
+    "wifiDetails": "Wi-Fi 6E (802.11ax), tri-band AXE5400",
     "configurations": "1-pack (up to 2,200 sq ft) – $199.99 · 2-pack (up to 4,400 sq ft) · 3-pack (up to 6,600 sq ft)",
     "colors": "Snow, Fog, Linen, Lemongrass"
-   }
+   },
+   "options": [
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Snow",
+       "default": true
+      },
+      {
+       "label": "Fog"
+      },
+      {
+       "label": "Linen"
+      },
+      {
+       "label": "Lemongrass"
+      }
+     ]
+    }
+   ]
   },
   {
    "sku": "TK-GOOGLE-TITANKEY",
@@ -719,7 +1141,8 @@
     "protocols": "FIDO2 (FIDO open standards)",
     "configurations": "USB-C/NFC · USB-A/NFC",
     "colors": "White"
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-MSFT-SURFACELAPTOP13-2E",
@@ -758,7 +1181,42 @@
     "wireless": "Wi-Fi 7",
     "configurations": "Snapdragon X2 Plus, 16 GB RAM, 256 GB UFS – $1,199.99 · Snapdragon X2 Plus, 16 GB RAM, 512 GB UFS – $1,299.99 · Snapdragon X2 Plus, 24 GB RAM, 512 GB UFS – $1,499.99",
     "colors": "Black, Platinum, Violet"
-   }
+   },
+   "options": [
+    {
+     "name": "Configuration",
+     "values": [
+      {
+       "label": "Snapdragon X2 Plus, 16 GB RAM, 256 GB UFS",
+       "price": "1199.99",
+       "default": true
+      },
+      {
+       "label": "Snapdragon X2 Plus, 16 GB RAM, 512 GB UFS",
+       "price": "1299.99"
+      },
+      {
+       "label": "Snapdragon X2 Plus, 24 GB RAM, 512 GB UFS",
+       "price": "1499.99"
+      }
+     ]
+    },
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Black",
+       "default": true
+      },
+      {
+       "label": "Platinum"
+      },
+      {
+       "label": "Violet"
+      }
+     ]
+    }
+   ]
   },
   {
    "sku": "TK-MSFT-SURFACELAPTOP138-8E",
@@ -798,7 +1256,57 @@
     "wireless": "Wi-Fi 7",
     "configurations": "Snapdragon X2 Plus (10 Core), 16 GB, 512 GB SSD – $1,599.99 · Snapdragon X2 Elite (12 Core), 16 GB, 512 GB SSD – $1,699.99 · Snapdragon X2 Elite (12 Core), 16 GB, 1 TB SSD – $1,999.99 · Snapdragon X2 Plus (10 Core), 32 GB, 512 GB SSD – $2,249.99 · Snapdragon X2 Elite (12 Core), 32 GB, 1 TB SSD – $2,649.99 · Snapdragon X2 Elite (12 Core), 64 GB, 1 TB SSD – $3,449.99",
     "colors": "Jade, Platinum, Dune, Black"
-   }
+   },
+   "options": [
+    {
+     "name": "Configuration",
+     "values": [
+      {
+       "label": "Snapdragon X2 Plus (10 Core), 16 GB, 512 GB SSD",
+       "price": "1599.99",
+       "default": true
+      },
+      {
+       "label": "Snapdragon X2 Elite (12 Core), 16 GB, 512 GB SSD",
+       "price": "1699.99"
+      },
+      {
+       "label": "Snapdragon X2 Elite (12 Core), 16 GB, 1 TB SSD",
+       "price": "1999.99"
+      },
+      {
+       "label": "Snapdragon X2 Plus (10 Core), 32 GB, 512 GB SSD",
+       "price": "2249.99"
+      },
+      {
+       "label": "Snapdragon X2 Elite (12 Core), 32 GB, 1 TB SSD",
+       "price": "2649.99"
+      },
+      {
+       "label": "Snapdragon X2 Elite (12 Core), 64 GB, 1 TB SSD",
+       "price": "3449.99"
+      }
+     ]
+    },
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Jade",
+       "default": true
+      },
+      {
+       "label": "Platinum"
+      },
+      {
+       "label": "Dune"
+      },
+      {
+       "label": "Black"
+      }
+     ]
+    }
+   ]
   },
   {
    "sku": "TK-MSFT-SURFACELAPTOP15-8E",
@@ -838,7 +1346,51 @@
     "wireless": "Wi-Fi 7",
     "configurations": "Snapdragon X2 Plus (10 Core), 16 GB, 512 GB SSD – $1,699.99 · Snapdragon X2 Elite (12 Core), 16 GB, 512 GB SSD – $1,799.99 · Snapdragon X2 Elite (12 Core), 16 GB, 1 TB SSD – $2,199.99 · Snapdragon X2 Elite (12 Core), 24 GB, 512 GB SSD – $2,249.99 · Snapdragon X2 Elite (12 Core), 32 GB, 1 TB SSD – $2,849.99 · Snapdragon X2 Elite (12 Core), 64 GB, 1 TB SSD – $3,649.99",
     "colors": "Platinum, Black"
-   }
+   },
+   "options": [
+    {
+     "name": "Configuration",
+     "values": [
+      {
+       "label": "Snapdragon X2 Plus (10 Core), 16 GB, 512 GB SSD",
+       "price": "1699.99",
+       "default": true
+      },
+      {
+       "label": "Snapdragon X2 Elite (12 Core), 16 GB, 512 GB SSD",
+       "price": "1799.99"
+      },
+      {
+       "label": "Snapdragon X2 Elite (12 Core), 16 GB, 1 TB SSD",
+       "price": "2199.99"
+      },
+      {
+       "label": "Snapdragon X2 Elite (12 Core), 24 GB, 512 GB SSD",
+       "price": "2249.99"
+      },
+      {
+       "label": "Snapdragon X2 Elite (12 Core), 32 GB, 1 TB SSD",
+       "price": "2849.99"
+      },
+      {
+       "label": "Snapdragon X2 Elite (12 Core), 64 GB, 1 TB SSD",
+       "price": "3649.99"
+      }
+     ]
+    },
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Platinum",
+       "default": true
+      },
+      {
+       "label": "Black"
+      }
+     ]
+    }
+   ]
   },
   {
    "sku": "TK-MSFT-SURFACELAPTOPBIZ-8E-INTEL",
@@ -876,7 +1428,8 @@
     "ports": "2x USB-C with USB4/Thunderbolt 4, USB-A 3.2, 3.5 mm jack, Surface Connect (15-inch adds microSDXC Express and optional smart card reader)",
     "wireless": "Wi-Fi 7, Bluetooth 5.4",
     "configurations": "13.8-inch or 15-inch; 16/32/64 GB RAM; 256 GB/512 GB/1 TB removable Gen 4 SSD; optional anti-glare privacy screen (13.8-inch)"
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-MSFT-SURFACEPRO12-2E",
@@ -912,7 +1465,42 @@
     "weightG": 686,
     "configurations": "16 GB RAM, 256 GB UFS – $1,149.99 · 16 GB RAM, 512 GB UFS – $1,249.99 · 24 GB RAM, 512 GB UFS – $1,449.99",
     "colors": "Platinum, Violet, Black"
-   }
+   },
+   "options": [
+    {
+     "name": "Configuration",
+     "values": [
+      {
+       "label": "16 GB RAM, 256 GB UFS",
+       "price": "1149.99",
+       "default": true
+      },
+      {
+       "label": "16 GB RAM, 512 GB UFS",
+       "price": "1249.99"
+      },
+      {
+       "label": "24 GB RAM, 512 GB UFS",
+       "price": "1449.99"
+      }
+     ]
+    },
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Platinum",
+       "default": true
+      },
+      {
+       "label": "Violet"
+      },
+      {
+       "label": "Black"
+      }
+     ]
+    }
+   ]
   },
   {
    "sku": "TK-MSFT-SURFACEPRO13-12E",
@@ -949,7 +1537,58 @@
     "weightG": 895,
     "configurations": "Snapdragon X2 Plus, LCD, 16 GB, 256 GB SSD – $1,499.99 · Snapdragon X2 Plus, LCD, 16 GB, 512 GB SSD – $1,599.99 · Snapdragon X2 Elite, OLED, 16 GB, 512 GB SSD – $1,799.99 · Snapdragon X2 Elite, OLED, 16 GB, 1 TB SSD – $2,099.99 · Snapdragon X2 Elite, OLED, 24 GB, 512 GB SSD – $2,249.99 · Snapdragon X2 Elite, OLED, 32 GB, 1 TB SSD – $2,749.99 · Snapdragon X2 Elite, OLED, 64 GB, 1 TB SSD – $3,549.99",
     "colors": "Platinum, Dune, Black"
-   }
+   },
+   "options": [
+    {
+     "name": "Configuration",
+     "values": [
+      {
+       "label": "Snapdragon X2 Plus, LCD, 16 GB, 256 GB SSD",
+       "price": "1499.99",
+       "default": true
+      },
+      {
+       "label": "Snapdragon X2 Plus, LCD, 16 GB, 512 GB SSD",
+       "price": "1599.99"
+      },
+      {
+       "label": "Snapdragon X2 Elite, OLED, 16 GB, 512 GB SSD",
+       "price": "1799.99"
+      },
+      {
+       "label": "Snapdragon X2 Elite, OLED, 16 GB, 1 TB SSD",
+       "price": "2099.99"
+      },
+      {
+       "label": "Snapdragon X2 Elite, OLED, 24 GB, 512 GB SSD",
+       "price": "2249.99"
+      },
+      {
+       "label": "Snapdragon X2 Elite, OLED, 32 GB, 1 TB SSD",
+       "price": "2749.99"
+      },
+      {
+       "label": "Snapdragon X2 Elite, OLED, 64 GB, 1 TB SSD",
+       "price": "3549.99"
+      }
+     ]
+    },
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Platinum",
+       "default": true
+      },
+      {
+       "label": "Dune"
+      },
+      {
+       "label": "Black"
+      }
+     ]
+    }
+   ]
   },
   {
    "sku": "TK-MSFT-SURFACEPRO13-FLEXKB",
@@ -975,12 +1614,26 @@
    "keywords": "surface pro flex keyboard detachable bluetooth alcantara copilot key",
    "specs": {
     "connection": "Magnetic attach; Bluetooth LE when detached",
-    "layout": "Full-size backlit keyboard with haptic touchpad and Copilot key",
+    "layout": "Full size",
     "mechanical": false,
     "macSupport": false,
     "configurations": "Black – $399.99 · Black with bold keyset",
     "colors": "Black, Black with bold keyset"
-   }
+   },
+   "options": [
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Black",
+       "default": true
+      },
+      {
+       "label": "Black with bold keyset"
+      }
+     ]
+    }
+   ]
   },
   {
    "sku": "TK-MSFT-SURFACEPRO12-KB",
@@ -1004,12 +1657,29 @@
    "keywords": "surface pro 12 keyboard cover backlit",
    "specs": {
     "connection": "Magnetic attach",
-    "layout": "Full-size backlit keyboard with precision touchpad",
+    "layout": "Full size",
     "mechanical": false,
     "macSupport": false,
     "configurations": "Slate – $149.99 · Ocean · Violet · Slate with bold keyset",
     "colors": "Slate, Ocean, Violet"
-   }
+   },
+   "options": [
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Slate",
+       "default": true
+      },
+      {
+       "label": "Ocean"
+      },
+      {
+       "label": "Violet"
+      }
+     ]
+    }
+   ]
   },
   {
    "sku": "TK-MSFT-SURFACEKB-2E",
@@ -1035,10 +1705,11 @@
    "keywords": "surface keyboard wireless bluetooth number pad copilot key desktop",
    "specs": {
     "connection": "Bluetooth LE (4.0+)",
-    "layout": "Full-size with number pad and Copilot key",
+    "layout": "Full size",
     "mechanical": false,
     "macSupport": true
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-MSFT-SURFACEARCMOUSE",
@@ -1065,7 +1736,27 @@
     "weightG": 78.1,
     "buttons": 1,
     "colors": "Violet, Ocean, Black, Light Gray"
-   }
+   },
+   "options": [
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Violet",
+       "default": true
+      },
+      {
+       "label": "Ocean"
+      },
+      {
+       "label": "Black"
+      },
+      {
+       "label": "Light Gray"
+      }
+     ]
+    }
+   ]
   },
   {
    "sku": "TK-MSFT-SURFACEMOUSE-2E",
@@ -1095,7 +1786,21 @@
     "weightG": 115,
     "buttons": 4,
     "colors": "Black, Platinum"
-   }
+   },
+   "options": [
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Black",
+       "default": true
+      },
+      {
+       "label": "Platinum"
+      }
+     ]
+    }
+   ]
   },
   {
    "sku": "TK-MSFT-SURFACESLIMPEN",
@@ -1120,7 +1825,8 @@
    "specs": {
     "compatibility": "Surface Pro 12-inch and 13-inch (keyboards with pen storage) and other Slim Pen-compatible Surface devices",
     "colors": "Matte Black"
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-MSFT-SURFACETB4DOCK",
@@ -1148,7 +1854,8 @@
    "specs": {
     "interface": "USB4 / Thunderbolt 4 (40 Gbps)",
     "powerDeliveryW": 96
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-MSFT-SURFACEUSB4DOCK",
@@ -1175,7 +1882,8 @@
    "specs": {
     "interface": "USB4 (USB-C / Thunderbolt 4 compatible), 40 Gbps",
     "powerDeliveryW": 65
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-MSFT-XBOXSERIESX",
@@ -1201,14 +1909,16 @@
    "description": "Xbox Series X is Microsoft's most powerful console, with an 8-core custom Zen 2 CPU at 3.8 GHz, a 12 TFLOPS custom RDNA 2 GPU, 16 GB GDDR6 and a 1 TB custom NVMe SSD. It targets true 4K gaming at up to 120 FPS, supports HDMI 2.1 VRR and ALLM, and includes a 4K UHD Blu-ray drive.",
    "keywords": "xbox series x console 4k 120fps blu-ray game pass",
    "specs": {
-    "platform": "Xbox Series X|S",
+    "platform": "Xbox",
     "chip": "Custom AMD Zen 2 8-core CPU @ 3.8 GHz + 12 TFLOPS RDNA 2 GPU (52 CUs)",
     "storage": "1 TB custom NVMe SSD (expandable)",
     "output": "HDMI 2.1, true 4K up to 120 FPS, up to 8K HDR",
     "connectivity": "Wi-Fi 802.11ac, Gigabit Ethernet, 3x USB 3.1 Gen 1, Xbox Wireless",
     "weightG": 4400,
+    "compatibility": "Xbox Series X|S",
     "colors": "Black"
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-MSFT-XBOXSERIESX-DIGITAL",
@@ -1233,14 +1943,16 @@
    "description": "The Xbox Series X 1TB Digital Edition has the same 12 TFLOPS RDNA 2 GPU, 8-core Zen 2 CPU and 16 GB GDDR6 as Series X, but without a disc drive, in Robot White. It plays digital games only.",
    "keywords": "xbox series x digital edition white disc-free console",
    "specs": {
-    "platform": "Xbox Series X|S",
+    "platform": "Xbox",
     "chip": "Custom AMD Zen 2 8-core CPU @ 3.8 GHz + 12 TFLOPS RDNA 2 GPU (52 CUs)",
     "storage": "1 TB custom NVMe SSD (expandable)",
     "output": "HDMI 2.1, true 4K up to 120 FPS",
     "connectivity": "Wi-Fi 802.11ac, Gigabit Ethernet, 3x USB 3.1 Gen 1, Xbox Wireless",
     "weightG": 4400,
+    "compatibility": "Xbox Series X|S",
     "colors": "Robot White"
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-MSFT-XBOXSERIESS",
@@ -1265,14 +1977,16 @@
    "description": "Xbox Series S is an all-digital console about 60% smaller than Series X, with an 8-core Zen 2 CPU at 3.6 GHz, a 4 TFLOPS RDNA 2 GPU, 10 GB GDDR6 and a 512 GB custom NVMe SSD. It targets 1440p gaming at up to 120 FPS.",
    "keywords": "xbox series s console digital 1440p compact",
    "specs": {
-    "platform": "Xbox Series X|S",
+    "platform": "Xbox",
     "chip": "Custom AMD Zen 2 8-core CPU @ 3.6 GHz + 4 TFLOPS RDNA 2 GPU (20 CUs)",
     "storage": "512 GB custom NVMe SSD (expandable)",
     "output": "HDMI 2.1, 1440p up to 120 FPS",
     "connectivity": "Wi-Fi 802.11ac, Gigabit Ethernet, 3x USB 3.1 Gen 1, Xbox Wireless",
     "weightG": 1920,
+    "compatibility": "Xbox Series X|S",
     "colors": "Robot White"
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-MSFT-XBOXSERIESS-1TB",
@@ -1295,14 +2009,16 @@
    "description": "This Xbox Series S has the same 4 TFLOPS RDNA 2 GPU, 8-core Zen 2 CPU and 10 GB GDDR6 as the standard Series S, with a 1 TB custom NVMe SSD. It is all-digital and targets 1440p at up to 120 FPS.",
    "keywords": "xbox series s 1tb white digital console",
    "specs": {
-    "platform": "Xbox Series X|S",
+    "platform": "Xbox",
     "chip": "Custom AMD Zen 2 8-core CPU @ 3.6 GHz + 4 TFLOPS RDNA 2 GPU (20 CUs)",
     "storage": "1 TB custom NVMe SSD (expandable)",
     "output": "HDMI 2.1, 1440p up to 120 FPS",
     "connectivity": "Wi-Fi 802.11ac, Gigabit Ethernet, 3x USB 3.1 Gen 1, Xbox Wireless",
     "weightG": 1920,
+    "compatibility": "Xbox Series X|S",
     "colors": "Robot White"
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-MSFT-XBOXWIRELESSCTRL",
@@ -1327,12 +2043,42 @@
    "description": "The Xbox Wireless Controller has sculpted surfaces, textured triggers and bumpers, a hybrid D-pad and a dedicated Share button. It pairs with Xbox Series X|S, Xbox One, Windows, Android and iOS, and Microsoft quotes battery usage up to 40 hours.",
    "keywords": "xbox wireless controller gamepad bluetooth pc",
    "specs": {
-    "platform": "Xbox Series X|S, Xbox One, Windows, Android, iOS",
+    "platform": "Xbox",
     "connectivity": "Xbox Wireless, Bluetooth, USB-C",
     "battery": "Up to 40 hours of battery usage",
+    "compatibility": "Xbox Series X|S, Xbox One, Windows, Android, iOS",
     "configurations": "Carbon Black – $64.99 · Robot White · Electric Volt · Shock Blue · Velocity Green · Deep Pink · Pulse Red",
     "colors": "Carbon Black, Robot White, Electric Volt, Shock Blue, Velocity Green, Deep Pink, Pulse Red"
-   }
+   },
+   "options": [
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Carbon Black",
+       "default": true
+      },
+      {
+       "label": "Robot White"
+      },
+      {
+       "label": "Electric Volt"
+      },
+      {
+       "label": "Shock Blue"
+      },
+      {
+       "label": "Velocity Green"
+      },
+      {
+       "label": "Deep Pink"
+      },
+      {
+       "label": "Pulse Red"
+      }
+     ]
+    }
+   ]
   },
   {
    "sku": "TK-MSFT-XBOXELITE2",
@@ -1358,11 +2104,13 @@
    "description": "The Elite Series 2 offers more than 30 ways to customize play, including adjustable-tension thumbsticks, shorter hair trigger locks, a wrap-around rubberized grip and interchangeable thumbstick and paddle shapes. It stores 3 custom profiles, connects via Xbox Wireless, Bluetooth or USB-C, and includes a charging dock and carrying case with up to 40 hours of rechargeable battery life.",
    "keywords": "xbox elite series 2 pro controller paddles esports",
    "specs": {
-    "platform": "Xbox Series X|S, Xbox One, Windows",
+    "platform": "Xbox",
     "connectivity": "Xbox Wireless, Bluetooth, USB-C",
     "battery": "Rechargeable, up to 40 hours",
+    "compatibility": "Xbox Series X|S, Xbox One, Windows",
     "colors": "Black"
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-MSFT-XBOXELITE2-CORE",
@@ -1387,11 +2135,13 @@
    "description": "The Elite Series 2 – Core includes the adjustable-tension thumbsticks, shorter hair trigger locks, wrap-around rubberized grip, 3 custom profiles and 40-hour rechargeable battery of the Elite Series 2, with a USB-C cable and thumbstick adjustment tool. Paddles and extra components come in the separately sold Complete Component Pack.",
    "keywords": "xbox elite series 2 core white controller",
    "specs": {
-    "platform": "Xbox Series X|S, Xbox One, Windows",
+    "platform": "Xbox",
     "connectivity": "Xbox Wireless, Bluetooth, USB-C",
     "battery": "Rechargeable, up to 40 hours",
+    "compatibility": "Xbox Series X|S, Xbox One, Windows",
     "colors": "White"
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-MSFT-XBOXADAPTIVE",
@@ -1414,9 +2164,11 @@
    "description": "The Xbox Adaptive Controller is designed primarily for gamers with limited mobility. It lets players connect external switches, buttons, mounts and joysticks (sold separately) to create a custom controller experience across Xbox and Windows.",
    "keywords": "xbox adaptive controller accessibility switches",
    "specs": {
-    "platform": "Xbox Series X|S, Xbox One, Windows",
+    "platform": "Xbox",
+    "compatibility": "Xbox Series X|S, Xbox One, Windows",
     "colors": "White"
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-MSFT-XBOXWIRELESSHEADSET",
@@ -1444,7 +2196,8 @@
     "connection": "Xbox Wireless, Bluetooth, USB-C",
     "batteryHours": 20,
     "colors": "Black"
-   }
+   },
+   "options": []
   }
  ]
 }

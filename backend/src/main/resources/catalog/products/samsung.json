@@ -35,12 +35,56 @@
     "charging": "60 W wired (up to 75% in ~30 min), Super Fast Wireless Charging, Wireless PowerShare",
     "connectivity": "5G, LTE, Wi-Fi 7, Bluetooth 6.0",
     "durability": "IP68",
-    "os": "Android 16, One UI 8.5",
+    "os": "Android 16",
     "weightG": 214,
     "dimensions": "78.1 x 163.6 x 7.9 mm",
     "configurations": "256 GB / 12 GB RAM – $1,299.99 · 512 GB / 12 GB RAM – $1,499.99 · 1 TB / 16 GB RAM – $1,799.99",
     "colors": "Cobalt Violet, Black, White, Sky Blue, Pink Gold, Silver Shadow"
-   }
+   },
+   "options": [
+    {
+     "name": "Storage",
+     "values": [
+      {
+       "label": "256 GB / 12 GB RAM",
+       "price": "1299.99",
+       "default": true
+      },
+      {
+       "label": "512 GB / 12 GB RAM",
+       "price": "1499.99"
+      },
+      {
+       "label": "1 TB / 16 GB RAM",
+       "price": "1799.99"
+      }
+     ]
+    },
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Cobalt Violet",
+       "default": true
+      },
+      {
+       "label": "Black"
+      },
+      {
+       "label": "White"
+      },
+      {
+       "label": "Sky Blue"
+      },
+      {
+       "label": "Pink Gold"
+      },
+      {
+       "label": "Silver Shadow"
+      }
+     ]
+    }
+   ]
   },
   {
    "sku": "TK-SAMSUNG-GALAXY-S26-PLUS",
@@ -77,12 +121,52 @@
     "charging": "45 W wired (up to 69% in ~30 min), Super Fast Wireless Charging, Wireless PowerShare",
     "connectivity": "5G, LTE, Wi-Fi 7, Bluetooth 6.0",
     "durability": "IP68",
-    "os": "Android 16, One UI 8.5",
+    "os": "Android 16",
     "weightG": 190,
     "dimensions": "75.8 x 158.4 x 7.3 mm",
     "configurations": "256 GB – $1,099.99 · 512 GB – $1,299.99",
     "colors": "Cobalt Violet, Black, White, Sky Blue, Pink Gold, Silver Shadow"
-   }
+   },
+   "options": [
+    {
+     "name": "Storage",
+     "values": [
+      {
+       "label": "256 GB",
+       "price": "1099.99",
+       "default": true
+      },
+      {
+       "label": "512 GB",
+       "price": "1299.99"
+      }
+     ]
+    },
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Cobalt Violet",
+       "default": true
+      },
+      {
+       "label": "Black"
+      },
+      {
+       "label": "White"
+      },
+      {
+       "label": "Sky Blue"
+      },
+      {
+       "label": "Pink Gold"
+      },
+      {
+       "label": "Silver Shadow"
+      }
+     ]
+    }
+   ]
   },
   {
    "sku": "TK-SAMSUNG-GALAXY-S26",
@@ -119,12 +203,52 @@
     "charging": "25 W wired (up to 55% in ~30 min), Fast Wireless Charging 2.0, Wireless PowerShare",
     "connectivity": "5G, LTE, Wi-Fi 7, Bluetooth 5.4",
     "durability": "IP68",
-    "os": "Android 16, One UI 8.5",
+    "os": "Android 16",
     "weightG": 167,
     "dimensions": "71.7 x 149.6 x 7.2 mm",
     "configurations": "256 GB – $899.99 · 512 GB – $1,099.99",
     "colors": "Cobalt Violet, Black, White, Sky Blue, Pink Gold, Silver Shadow"
-   }
+   },
+   "options": [
+    {
+     "name": "Storage",
+     "values": [
+      {
+       "label": "256 GB",
+       "price": "899.99",
+       "default": true
+      },
+      {
+       "label": "512 GB",
+       "price": "1099.99"
+      }
+     ]
+    },
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Cobalt Violet",
+       "default": true
+      },
+      {
+       "label": "Black"
+      },
+      {
+       "label": "White"
+      },
+      {
+       "label": "Sky Blue"
+      },
+      {
+       "label": "Pink Gold"
+      },
+      {
+       "label": "Silver Shadow"
+      }
+     ]
+    }
+   ]
   },
   {
    "sku": "TK-SAMSUNG-GALAXY-S26-FE",
@@ -160,12 +284,43 @@
     "charging": "45 W wired (up to 69% in ~30 min), 15 W wireless, Wireless PowerShare",
     "connectivity": "5G, LTE, Wi-Fi 6E, Bluetooth 5.4",
     "durability": "IP68",
-    "os": "Android 17, One UI 9",
+    "os": "Android 17",
     "weightG": 193,
     "dimensions": "161.6 x 76.9 x 7.4 mm",
     "configurations": "128 GB – $699.99 · 256 GB – $799.99",
     "colors": "Blueberry, Graphite, Pistachio"
-   }
+   },
+   "options": [
+    {
+     "name": "Storage",
+     "values": [
+      {
+       "label": "128 GB",
+       "price": "699.99",
+       "default": true
+      },
+      {
+       "label": "256 GB",
+       "price": "799.99"
+      }
+     ]
+    },
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Blueberry",
+       "default": true
+      },
+      {
+       "label": "Graphite"
+      },
+      {
+       "label": "Pistachio"
+      }
+     ]
+    }
+   ]
   },
   {
    "sku": "TK-SAMSUNG-GALAXY-A57-5G",
@@ -198,12 +353,43 @@
     "battery": "5,000 mAh (typical)",
     "charging": "Super Fast Charging 2.0 (up to 60% in ~30 min)",
     "durability": "IP68",
-    "os": "Android 16, One UI 8.5",
+    "os": "Android 16",
     "weightG": 179,
     "dimensions": "161.5 x 76.8 x 6.9 mm",
     "configurations": "128 GB – $549.99 · 256 GB – $629.99",
     "colors": "Awesome Navy, Awesome Icyblue, Awesome Gray"
-   }
+   },
+   "options": [
+    {
+     "name": "Storage",
+     "values": [
+      {
+       "label": "128 GB",
+       "price": "549.99",
+       "default": true
+      },
+      {
+       "label": "256 GB",
+       "price": "629.99"
+      }
+     ]
+    },
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Awesome Navy",
+       "default": true
+      },
+      {
+       "label": "Awesome Icyblue"
+      },
+      {
+       "label": "Awesome Gray"
+      }
+     ]
+    }
+   ]
   },
   {
    "sku": "TK-SAMSUNG-GALAXY-A37-5G",
@@ -235,12 +421,40 @@
     "frontCamera": "12 MP (F2.2)",
     "battery": "5,000 mAh (typical)",
     "durability": "IP68",
-    "os": "Android 16, One UI 8.5",
+    "os": "Android 16",
     "weightG": 196,
     "dimensions": "162.9 x 78.2 x 7.4 mm",
     "configurations": "128 GB – $449.99 · 256 GB – $569.99",
     "colors": "Awesome Charcoal, Awesome Lavender"
-   }
+   },
+   "options": [
+    {
+     "name": "Storage",
+     "values": [
+      {
+       "label": "128 GB",
+       "price": "449.99",
+       "default": true
+      },
+      {
+       "label": "256 GB",
+       "price": "569.99"
+      }
+     ]
+    },
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Awesome Charcoal",
+       "default": true
+      },
+      {
+       "label": "Awesome Lavender"
+      }
+     ]
+    }
+   ]
   },
   {
    "sku": "TK-SAMSUNG-GALAXY-Z-FOLD8-ULTRA",
@@ -278,12 +492,50 @@
     "charging": "45 W wired (up to 67% in ~30 min), 20 W wireless, Wireless PowerShare",
     "connectivity": "5G, LTE, Wi-Fi 7, Bluetooth 6.0",
     "durability": "IP48",
-    "os": "Android 17, One UI 9",
+    "os": "Android 17",
     "weightG": 215,
     "dimensions": "Folded 72.8 x 158.4 x 8.9 mm; unfolded 143.2 x 158.4 x 4.1 mm",
     "configurations": "256 GB / 12 GB RAM – $2,099.99 · 512 GB / 12 GB RAM – $2,299.99 · 1 TB / 16 GB RAM – $2,699.99",
     "colors": "Violet Shadow, Graphite, Cream, Green Shadow"
-   }
+   },
+   "options": [
+    {
+     "name": "Storage",
+     "values": [
+      {
+       "label": "256 GB / 12 GB RAM",
+       "price": "2099.99",
+       "default": true
+      },
+      {
+       "label": "512 GB / 12 GB RAM",
+       "price": "2299.99"
+      },
+      {
+       "label": "1 TB / 16 GB RAM",
+       "price": "2699.99"
+      }
+     ]
+    },
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Violet Shadow",
+       "default": true
+      },
+      {
+       "label": "Graphite"
+      },
+      {
+       "label": "Cream"
+      },
+      {
+       "label": "Green Shadow"
+      }
+     ]
+    }
+   ]
   },
   {
    "sku": "TK-SAMSUNG-GALAXY-Z-FOLD8",
@@ -321,12 +573,50 @@
     "charging": "45 W wired (up to 63% in ~30 min), 20 W wireless, Wireless PowerShare",
     "connectivity": "5G, LTE, Wi-Fi 7, Bluetooth 6.0",
     "durability": "IP48",
-    "os": "Android 17, One UI 9",
+    "os": "Android 17",
     "weightG": 201,
     "dimensions": "Folded 81.9 x 123.9 x 9.7 mm; unfolded 161.4 x 123.9 x 4.5 mm",
     "configurations": "256 GB / 12 GB RAM – $1,899.99 · 512 GB / 12 GB RAM – $2,099.99 · 1 TB / 16 GB RAM – $2,499.99",
     "colors": "Graphite, Cream, Lavender, Pistachio"
-   }
+   },
+   "options": [
+    {
+     "name": "Storage",
+     "values": [
+      {
+       "label": "256 GB / 12 GB RAM",
+       "price": "1899.99",
+       "default": true
+      },
+      {
+       "label": "512 GB / 12 GB RAM",
+       "price": "2099.99"
+      },
+      {
+       "label": "1 TB / 16 GB RAM",
+       "price": "2499.99"
+      }
+     ]
+    },
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Graphite",
+       "default": true
+      },
+      {
+       "label": "Cream"
+      },
+      {
+       "label": "Lavender"
+      },
+      {
+       "label": "Pistachio"
+      }
+     ]
+    }
+   ]
   },
   {
    "sku": "TK-SAMSUNG-GALAXY-Z-FLIP8",
@@ -364,12 +654,46 @@
     "charging": "25 W wired (up to 55% in ~30 min), 15 W wireless, Wireless PowerShare",
     "connectivity": "5G, LTE, Wi-Fi 7, Bluetooth 5.4",
     "durability": "IP48",
-    "os": "Android 17, One UI 9",
+    "os": "Android 17",
     "weightG": 180,
     "dimensions": "Folded 75.4 x 85.7 x 13.1 mm; unfolded 75.4 x 166.9 x 6.1 mm",
     "configurations": "256 GB – $1,199.99 · 512 GB – $1,399.99",
     "colors": "Graphite, Cream, Pink, Mint"
-   }
+   },
+   "options": [
+    {
+     "name": "Storage",
+     "values": [
+      {
+       "label": "256 GB",
+       "price": "1199.99",
+       "default": true
+      },
+      {
+       "label": "512 GB",
+       "price": "1399.99"
+      }
+     ]
+    },
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Graphite",
+       "default": true
+      },
+      {
+       "label": "Cream"
+      },
+      {
+       "label": "Pink"
+      },
+      {
+       "label": "Mint"
+      }
+     ]
+    }
+   ]
   },
   {
    "sku": "TK-SAMSUNG-GALAXY-TAB-S11-ULTRA",
@@ -401,11 +725,43 @@
     "display": "14.6-inch Dynamic AMOLED 2X, 2960 x 1848, 120 Hz, anti-reflection, 1,600 nits peak",
     "rearCamera": "13 MP + 8 MP ultra-wide",
     "connectivity": "Wi-Fi 7 (5G model available)",
-    "os": "Android 16, One UI 8",
+    "os": "Android 16",
     "weightG": 692,
     "configurations": "256 GB / 12 GB RAM – $1,299.99 · 512 GB / 12 GB RAM – $1,499.99 · 1 TB / 16 GB RAM – $1,899.99",
     "colors": "Gray, Silver"
-   }
+   },
+   "options": [
+    {
+     "name": "Storage",
+     "values": [
+      {
+       "label": "256 GB / 12 GB RAM",
+       "price": "1299.99",
+       "default": true
+      },
+      {
+       "label": "512 GB / 12 GB RAM",
+       "price": "1499.99"
+      },
+      {
+       "label": "1 TB / 16 GB RAM",
+       "price": "1899.99"
+      }
+     ]
+    },
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Gray",
+       "default": true
+      },
+      {
+       "label": "Silver"
+      }
+     ]
+    }
+   ]
   },
   {
    "sku": "TK-SAMSUNG-GALAXY-TAB-S11",
@@ -437,11 +793,43 @@
     "display": "11.0-inch Dynamic AMOLED 2X, 2560 x 1600, 120 Hz, 1,600 nits peak",
     "rearCamera": "13 MP",
     "connectivity": "Wi-Fi 6E (5G model available)",
-    "os": "Android 16, One UI 8",
+    "os": "Android 16",
     "weightG": 469,
     "configurations": "128 GB – $899.99 · 256 GB – $999.99 · 512 GB – $1,199.99",
     "colors": "Gray, Silver"
-   }
+   },
+   "options": [
+    {
+     "name": "Storage",
+     "values": [
+      {
+       "label": "128 GB",
+       "price": "899.99",
+       "default": true
+      },
+      {
+       "label": "256 GB",
+       "price": "999.99"
+      },
+      {
+       "label": "512 GB",
+       "price": "1199.99"
+      }
+     ]
+    },
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Gray",
+       "default": true
+      },
+      {
+       "label": "Silver"
+      }
+     ]
+    }
+   ]
   },
   {
    "sku": "TK-SAMSUNG-GALAXY-TAB-S10-FE-PLUS",
@@ -476,7 +864,24 @@
     "os": "Android 15",
     "weightG": 664,
     "colors": "Blue, Gray, Silver"
-   }
+   },
+   "options": [
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Blue",
+       "default": true
+      },
+      {
+       "label": "Gray"
+      },
+      {
+       "label": "Silver"
+      }
+     ]
+    }
+   ]
   },
   {
    "sku": "TK-SAMSUNG-GALAXY-WATCH-ULTRA2",
@@ -511,7 +916,21 @@
     "compatibility": "Android 13 or higher",
     "weightG": 61.5,
     "colors": "Titanium Silver, Titanium Gray"
-   }
+   },
+   "options": [
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Titanium Silver",
+       "default": true
+      },
+      {
+       "label": "Titanium Gray"
+      }
+     ]
+    }
+   ]
   },
   {
    "sku": "TK-SAMSUNG-GALAXY-WATCH9",
@@ -547,7 +966,46 @@
     "weightG": 31.5,
     "configurations": "40 mm Bluetooth – $379.99 · 44 mm Bluetooth – $409.99 · 40 mm LTE – $429.99 · 44 mm LTE – $459.99",
     "colors": "Graphite, Cream (40 mm), Silver (44 mm)"
-   }
+   },
+   "options": [
+    {
+     "name": "Configuration",
+     "values": [
+      {
+       "label": "40 mm Bluetooth",
+       "price": "379.99",
+       "default": true
+      },
+      {
+       "label": "44 mm Bluetooth",
+       "price": "409.99"
+      },
+      {
+       "label": "40 mm LTE",
+       "price": "429.99"
+      },
+      {
+       "label": "44 mm LTE",
+       "price": "459.99"
+      }
+     ]
+    },
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Graphite",
+       "default": true
+      },
+      {
+       "label": "Cream (40 mm)"
+      },
+      {
+       "label": "Silver (44 mm)"
+      }
+     ]
+    }
+   ]
   },
   {
    "sku": "TK-SAMSUNG-GALAXY-WATCH8-CLASSIC",
@@ -582,7 +1040,35 @@
     "weightG": 63.5,
     "configurations": "46 mm Bluetooth – $499.99 · 46 mm LTE – $549.99",
     "colors": "Black, White"
-   }
+   },
+   "options": [
+    {
+     "name": "Configuration",
+     "values": [
+      {
+       "label": "46 mm Bluetooth",
+       "price": "499.99",
+       "default": true
+      },
+      {
+       "label": "46 mm LTE",
+       "price": "549.99"
+      }
+     ]
+    },
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Black",
+       "default": true
+      },
+      {
+       "label": "White"
+      }
+     ]
+    }
+   ]
   },
   {
    "sku": "TK-SAMSUNG-GALAXY-RING",
@@ -613,7 +1099,24 @@
     "health": "Skin temperature sensor, heart rate sensor, accelerometer; sleep and activity tracking",
     "weightG": 2.3,
     "colors": "Titanium Silver, Titanium Black, Titanium Gold"
-   }
+   },
+   "options": [
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Titanium Silver",
+       "default": true
+      },
+      {
+       "label": "Titanium Black"
+      },
+      {
+       "label": "Titanium Gold"
+      }
+     ]
+    }
+   ]
   },
   {
    "sku": "TK-SAMSUNG-GALAXY-BUDS4-PRO",
@@ -638,15 +1141,33 @@
    "description": "Galaxy Buds4 Pro use a canal-fit design developed from over 100 million ear-shape data points, with a wider woofer and dedicated tweeter for 24-bit Hi-Fi sound. Enhanced Adaptive ANC and Adaptive EQ tune to each wearer, and Head Gesture controls let you manage calls hands-free. Earbuds last up to 6 hours with ANC on (26 hours with the case).",
    "keywords": "galaxy buds 4 pro buds4 pro anc hi-fi earbuds",
    "specs": {
-    "connectivity": "Bluetooth 6.1, Auto Switch",
+    "connectivity": "Bluetooth",
     "noiseCancelling": true,
     "batteryHours": 6,
     "drivers": "2-way: 11 mm woofer + 5.5 x 3.5 mm tweeter",
     "codecs": "SSC HiFi, SSC UHQ, AAC, SBC, LC3",
     "waterResistance": "IP57 (earbuds)",
     "weightG": 5.1,
+    "connectionDetails": "Bluetooth 6.1, Auto Switch",
     "colors": "White, Black, Pink Gold"
-   }
+   },
+   "options": [
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "White",
+       "default": true
+      },
+      {
+       "label": "Black"
+      },
+      {
+       "label": "Pink Gold"
+      }
+     ]
+    }
+   ]
   },
   {
    "sku": "TK-SAMSUNG-GALAXY-BUDS4",
@@ -671,15 +1192,30 @@
    "description": "Galaxy Buds4 use an open-fit design for all-day comfort with enhanced Active Noise Cancellation and Adaptive EQ. They support 24-bit Hi-Fi and 360 Audio, connect over Bluetooth 6.1 with Auto Switch, and play up to 5 hours with ANC on (24 hours with the case).",
    "keywords": "galaxy buds 4 buds4 open fit earbuds",
    "specs": {
-    "connectivity": "Bluetooth 6.1, Auto Switch",
+    "connectivity": "Bluetooth",
     "noiseCancelling": true,
     "batteryHours": 5,
     "drivers": "11 mm 1-way dynamic",
     "codecs": "SSC HiFi, SSC UHQ, AAC, SBC, LC3",
     "waterResistance": "IP54 (earbuds)",
     "weightG": 4.6,
+    "connectionDetails": "Bluetooth 6.1, Auto Switch",
     "colors": "White, Black"
-   }
+   },
+   "options": [
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "White",
+       "default": true
+      },
+      {
+       "label": "Black"
+      }
+     ]
+    }
+   ]
   },
   {
    "sku": "TK-SAMSUNG-GALAXY-BUDS3-FE",
@@ -704,15 +1240,30 @@
    "description": "Galaxy Buds3 FE bring the iconic Blade design with pinch and swipe controls, a larger speaker than the previous Buds FE, and enhanced ANC. They support Galaxy AI features such as Interpreter and Live Translate with compatible Galaxy phones, and last up to 6 hours with ANC on (24 hours with the case).",
    "keywords": "galaxy buds3 fe budget anc earbuds",
    "specs": {
-    "connectivity": "Bluetooth 5.4, Auto Switch",
+    "connectivity": "Bluetooth",
     "noiseCancelling": true,
     "batteryHours": 6,
     "drivers": "1-way dynamic driver",
     "codecs": "SSC, AAC, SBC",
     "waterResistance": "IP54 (earbuds)",
     "weightG": 5.0,
+    "connectionDetails": "Bluetooth 5.4, Auto Switch",
     "colors": "Gray, Black"
-   }
+   },
+   "options": [
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Gray",
+       "default": true
+      },
+      {
+       "label": "Black"
+      }
+     ]
+    }
+   ]
   },
   {
    "sku": "TK-SAMSUNG-GALAXY-BOOK6-ULTRA",
@@ -754,7 +1305,35 @@
     "wireless": "Wi-Fi 7, Bluetooth 5.4",
     "configurations": "Core Ultra X7 358H / Arc B390 / 32 GB / 1 TB – $2,899.99 · Core Ultra 7 356H / RTX 5060 / 32 GB / 1 TB – $3,599.99 · Core Ultra 7 356H / RTX 5070 / 32 GB / 1 TB – $3,799.99 · Core Ultra 9 386H / RTX 5070 / 32 GB / 1 TB – $3,999.99 · Core Ultra 9 386H / RTX 5070 / 64 GB / 2 TB – $5,299.99",
     "colors": "Gray"
-   }
+   },
+   "options": [
+    {
+     "name": "Configuration",
+     "values": [
+      {
+       "label": "Core Ultra X7 358H / Arc B390 / 32 GB / 1 TB",
+       "price": "2899.99",
+       "default": true
+      },
+      {
+       "label": "Core Ultra 7 356H / RTX 5060 / 32 GB / 1 TB",
+       "price": "3599.99"
+      },
+      {
+       "label": "Core Ultra 7 356H / RTX 5070 / 32 GB / 1 TB",
+       "price": "3799.99"
+      },
+      {
+       "label": "Core Ultra 9 386H / RTX 5070 / 32 GB / 1 TB",
+       "price": "3999.99"
+      },
+      {
+       "label": "Core Ultra 9 386H / RTX 5070 / 64 GB / 2 TB",
+       "price": "5299.99"
+      }
+     ]
+    }
+   ]
   },
   {
    "sku": "TK-SAMSUNG-GALAXY-BOOK6-PRO-16",
@@ -795,7 +1374,27 @@
     "wireless": "Wi-Fi 7, Bluetooth 5.4",
     "configurations": "Core Ultra 7 356H / 16 GB / 1 TB – $2,199.99 · Core Ultra 7 356H / 32 GB / 1 TB – $2,549.99 · Core Ultra X7 358H / Arc B390 / 32 GB / 1 TB – $2,649.99",
     "colors": "Gray"
-   }
+   },
+   "options": [
+    {
+     "name": "Configuration",
+     "values": [
+      {
+       "label": "Core Ultra 7 356H / 16 GB / 1 TB",
+       "price": "2199.99",
+       "default": true
+      },
+      {
+       "label": "Core Ultra 7 356H / 32 GB / 1 TB",
+       "price": "2549.99"
+      },
+      {
+       "label": "Core Ultra X7 358H / Arc B390 / 32 GB / 1 TB",
+       "price": "2649.99"
+      }
+     ]
+    }
+   ]
   },
   {
    "sku": "TK-SAMSUNG-GALAXY-BOOK6-PRO-14",
@@ -837,7 +1436,23 @@
     "wireless": "Wi-Fi 7, Bluetooth 5.4",
     "configurations": "Core Ultra 7 356H / 16 GB / 512 GB – $1,799.99 · Core Ultra 7 356H / 32 GB / 1 TB – $2,449.99",
     "colors": "Gray"
-   }
+   },
+   "options": [
+    {
+     "name": "Configuration",
+     "values": [
+      {
+       "label": "Core Ultra 7 356H / 16 GB / 512 GB",
+       "price": "1799.99",
+       "default": true
+      },
+      {
+       "label": "Core Ultra 7 356H / 32 GB / 1 TB",
+       "price": "2449.99"
+      }
+     ]
+    }
+   ]
   },
   {
    "sku": "TK-SAMSUNG-GALAXY-BOOK6-EDGE",
@@ -875,7 +1490,8 @@
     "npuTops": 80,
     "wireless": "Wi-Fi 7, Bluetooth 5.4",
     "colors": "Gray Blue"
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-SAMSUNG-GALAXY-BOOK6",
@@ -914,7 +1530,35 @@
     "wireless": "Wi-Fi 6E, Bluetooth 5.4",
     "configurations": "14\" / Core Ultra 5 325 / 16 GB / 512 GB – $1,249.99 · 14\" / Core Ultra 7 355 / 16 GB / 512 GB – $1,349.99 · 16\" / Core Ultra 5 325 / 16 GB / 512 GB – $1,349.99 · 16\" touch / Core Ultra 7 355 / 16 GB / 512 GB – $1,449.99 · 16\" / Core Ultra 7 355 / 16 GB / 1 TB – $1,749.99",
     "colors": "Gray"
-   }
+   },
+   "options": [
+    {
+     "name": "Configuration",
+     "values": [
+      {
+       "label": "14\" / Core Ultra 5 325 / 16 GB / 512 GB",
+       "price": "1249.99",
+       "default": true
+      },
+      {
+       "label": "14\" / Core Ultra 7 355 / 16 GB / 512 GB",
+       "price": "1349.99"
+      },
+      {
+       "label": "16\" / Core Ultra 5 325 / 16 GB / 512 GB",
+       "price": "1349.99"
+      },
+      {
+       "label": "16\" touch / Core Ultra 7 355 / 16 GB / 512 GB",
+       "price": "1449.99"
+      },
+      {
+       "label": "16\" / Core Ultra 7 355 / 16 GB / 1 TB",
+       "price": "1749.99"
+      }
+     ]
+    }
+   ]
   },
   {
    "sku": "TK-SAMSUNG-9100PRO",
@@ -949,7 +1593,47 @@
     "writeMbps": 13300,
     "enduranceTbw": 600,
     "configurations": "1TB – $339.99 · 2TB – $679.99 · 4TB – $1,359.99 · 8TB – $2,719.99 · 1TB with Heatsink – $359.99 · 2TB with Heatsink – $709.99 · 4TB with Heatsink – $1,399.99 · 8TB with Heatsink – $2,769.99"
-   }
+   },
+   "options": [
+    {
+     "name": "Storage",
+     "values": [
+      {
+       "label": "1TB",
+       "price": "339.99",
+       "default": true
+      },
+      {
+       "label": "2TB",
+       "price": "679.99"
+      },
+      {
+       "label": "4TB",
+       "price": "1359.99"
+      },
+      {
+       "label": "8TB",
+       "price": "2719.99"
+      },
+      {
+       "label": "1TB with Heatsink",
+       "price": "359.99"
+      },
+      {
+       "label": "2TB with Heatsink",
+       "price": "709.99"
+      },
+      {
+       "label": "4TB with Heatsink",
+       "price": "1399.99"
+      },
+      {
+       "label": "8TB with Heatsink",
+       "price": "2769.99"
+      }
+     ]
+    }
+   ]
   },
   {
    "sku": "TK-SAMSUNG-990PRO-HEATSINK",
@@ -982,7 +1666,27 @@
     "writeMbps": 6900,
     "enduranceTbw": 600,
     "configurations": "1TB – $339.99 · 2TB – $669.99 · 4TB – $1,139.99"
-   }
+   },
+   "options": [
+    {
+     "name": "Storage",
+     "values": [
+      {
+       "label": "1TB",
+       "price": "339.99",
+       "default": true
+      },
+      {
+       "label": "2TB",
+       "price": "669.99"
+      },
+      {
+       "label": "4TB",
+       "price": "1139.99"
+      }
+     ]
+    }
+   ]
   },
   {
    "sku": "TK-SAMSUNG-990EVOPLUS",
@@ -1015,7 +1719,27 @@
     "writeMbps": 6300,
     "enduranceTbw": 600,
     "configurations": "1TB – $289.99 · 2TB – $579.99 · 4TB – $1,049.99"
-   }
+   },
+   "options": [
+    {
+     "name": "Storage",
+     "values": [
+      {
+       "label": "1TB",
+       "price": "289.99",
+       "default": true
+      },
+      {
+       "label": "2TB",
+       "price": "579.99"
+      },
+      {
+       "label": "4TB",
+       "price": "1049.99"
+      }
+     ]
+    }
+   ]
   },
   {
    "sku": "TK-SAMSUNG-870EVO",
@@ -1048,7 +1772,35 @@
     "writeMbps": 530,
     "enduranceTbw": 300,
     "configurations": "500GB – $299.99 · 1TB – $414.99 · 2TB – $879.99 · 4TB – $1,759.99 · 8TB – $3,519.99"
-   }
+   },
+   "options": [
+    {
+     "name": "Storage",
+     "values": [
+      {
+       "label": "500GB",
+       "price": "299.99",
+       "default": true
+      },
+      {
+       "label": "1TB",
+       "price": "414.99"
+      },
+      {
+       "label": "2TB",
+       "price": "879.99"
+      },
+      {
+       "label": "4TB",
+       "price": "1759.99"
+      },
+      {
+       "label": "8TB",
+       "price": "3519.99"
+      }
+     ]
+    }
+   ]
   },
   {
    "sku": "TK-SAMSUNG-T7-SHIELD",
@@ -1079,7 +1831,42 @@
     "readMbps": 1050,
     "configurations": "1TB – $287.99 · 2TB – $574.99 · 4TB – $1,144.99",
     "colors": "Black, Blue, Beige"
-   }
+   },
+   "options": [
+    {
+     "name": "Storage",
+     "values": [
+      {
+       "label": "1TB",
+       "price": "287.99",
+       "default": true
+      },
+      {
+       "label": "2TB",
+       "price": "574.99"
+      },
+      {
+       "label": "4TB",
+       "price": "1144.99"
+      }
+     ]
+    },
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Black",
+       "default": true
+      },
+      {
+       "label": "Blue"
+      },
+      {
+       "label": "Beige"
+      }
+     ]
+    }
+   ]
   },
   {
    "sku": "TK-SAMSUNG-T7",
@@ -1109,7 +1896,39 @@
     "readMbps": 1050,
     "configurations": "1TB – $274.99 · 2TB – $549.99 · 4TB – $1,094.99",
     "colors": "Gray, Blue"
-   }
+   },
+   "options": [
+    {
+     "name": "Storage",
+     "values": [
+      {
+       "label": "1TB",
+       "price": "274.99",
+       "default": true
+      },
+      {
+       "label": "2TB",
+       "price": "549.99"
+      },
+      {
+       "label": "4TB",
+       "price": "1094.99"
+      }
+     ]
+    },
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Gray",
+       "default": true
+      },
+      {
+       "label": "Blue"
+      }
+     ]
+    }
+   ]
   },
   {
    "sku": "TK-SAMSUNG-T5-EVO",
@@ -1139,7 +1958,27 @@
     "readMbps": 460,
     "configurations": "2TB – $289.99 · 4TB – $579.99 · 8TB – $1,119.99",
     "colors": "Black"
-   }
+   },
+   "options": [
+    {
+     "name": "Storage",
+     "values": [
+      {
+       "label": "2TB",
+       "price": "289.99",
+       "default": true
+      },
+      {
+       "label": "4TB",
+       "price": "579.99"
+      },
+      {
+       "label": "8TB",
+       "price": "1119.99"
+      }
+     ]
+    }
+   ]
   },
   {
    "sku": "TK-SAMSUNG-P9-EXPRESS",
@@ -1168,7 +2007,23 @@
     "interface": "microSD Express (PCIe 3.0 x1, NVMe 1.3, SD 7.1)",
     "readMbps": 800,
     "configurations": "256GB – $79.99 · 512GB – $149.99"
-   }
+   },
+   "options": [
+    {
+     "name": "Storage",
+     "values": [
+      {
+       "label": "256GB",
+       "price": "79.99",
+       "default": true
+      },
+      {
+       "label": "512GB",
+       "price": "149.99"
+      }
+     ]
+    }
+   ]
   },
   {
    "sku": "TK-SAMSUNG-PM1763",
@@ -1201,7 +2056,8 @@
     "readMbps": 28400,
     "dwpd": 1,
     "configurations": "3.84TB · 7.68TB · 15.36TB · 30.72TB · 61.44TB"
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-SAMSUNG-PM1753",
@@ -1234,7 +2090,8 @@
     "readMbps": 14500,
     "dwpd": 1,
     "configurations": "1.92TB · 3.84TB · 7.68TB · 15.36TB · 30.72TB"
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-SAMSUNG-PM1743",
@@ -1267,7 +2124,8 @@
     "readMbps": 14000,
     "dwpd": 1,
     "configurations": "1.92TB · 3.84TB · 7.68TB · 15.36TB"
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-SAMSUNG-PM9D3A",
@@ -1300,7 +2158,8 @@
     "readMbps": 12000,
     "dwpd": 1,
     "configurations": "960GB · 1.92TB · 3.84TB · 7.68TB · 15.36TB · 30.72TB"
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-SAMSUNG-HW-Q990H",
@@ -1327,11 +2186,13 @@
    "specs": {
     "channels": "11.1.4",
     "drivers": "23 speakers incl. subwoofer with dual 8-inch active units",
-    "connectivity": "2x HDMI in, HDMI out (eARC), optical, Wi-Fi, Bluetooth 5.3",
+    "connectivity": "Wi-Fi + Bluetooth",
     "codecs": "Dolby Atmos, Dolby TrueHD, Dolby Digital Plus; MP3, AAC, OGG, FLAC, WAV, ALAC, AIFF",
     "weightG": 7300,
+    "connectionDetails": "2x HDMI in, HDMI out (eARC), optical, Wi-Fi, Bluetooth 5.3",
     "colors": "Titan Black"
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-SAMSUNG-HW-QS90H",
@@ -1358,11 +2219,13 @@
    "specs": {
     "channels": "7.1.2",
     "drivers": "13 speakers incl. 4 built-in woofers",
-    "connectivity": "HDMI in, HDMI out (eARC), optical, Wi-Fi, Bluetooth 5.3",
+    "connectivity": "Wi-Fi + Bluetooth",
     "codecs": "Dolby Atmos, Dolby TrueHD, Dolby Digital Plus; MP3, AAC, OGG, FLAC, WAV, ALAC, AIFF",
     "weightG": 6700,
+    "connectionDetails": "HDMI in, HDMI out (eARC), optical, Wi-Fi, Bluetooth 5.3",
     "colors": "Graphite Black"
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-SAMSUNG-HW-Q800H",
@@ -1389,11 +2252,13 @@
    "specs": {
     "channels": "5.1.2",
     "drivers": "11 speakers plus wireless subwoofer",
-    "connectivity": "HDMI in, HDMI out (eARC), optical, Wi-Fi, Bluetooth 5.3",
+    "connectivity": "Wi-Fi + Bluetooth",
     "codecs": "Dolby Atmos, Dolby TrueHD, Dolby Digital Plus; MP3, AAC, OGG, FLAC, WAV, ALAC, AIFF",
     "weightG": 5100,
+    "connectionDetails": "HDMI in, HDMI out (eARC), optical, Wi-Fi, Bluetooth 5.3",
     "colors": "Black"
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-SAMSUNG-HW-LS70H",
@@ -1420,11 +2285,13 @@
    "specs": {
     "channels": "3.1.1",
     "drivers": "5 speakers incl. up-firing and side-firing",
-    "connectivity": "Wi-Fi, Bluetooth 6.0, HDMI (eARC), optical",
+    "connectivity": "Wi-Fi + Bluetooth",
     "codecs": "Dolby Atmos, Dolby TrueHD, Dolby Digital Plus; MP3, AAC, OGG, FLAC, WAV, ALAC, AIFF",
     "weightG": 5600,
+    "connectionDetails": "Wi-Fi, Bluetooth 6.0, HDMI (eARC), optical",
     "colors": "Black"
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-SAMSUNG-PREMIERE7-LPU7D",
@@ -1453,7 +2320,8 @@
     "brightnessLumens": 2500,
     "lightSource": "Laser",
     "throwType": "Ultra short throw"
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-SAMSUNG-FREESTYLE-PLUS",
@@ -1483,7 +2351,8 @@
     "lightSource": "LED",
     "throwType": "Standard throw (1.2:1)",
     "colors": "White"
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-SAMSUNG-ODYSSEY-OLED-G8-G80SH",
@@ -1511,15 +2380,32 @@
    "keywords": "4k oled gaming monitor qd-oled 240hz dp 2.1 usb-c odyssey g8 2026",
    "specs": {
     "sizeIn": 27,
-    "resolution": "3840 x 2160 (4K)",
+    "resolution": "3840x2160",
     "refreshHz": 240,
-    "panel": "QD-OLED, Glare Free",
+    "panel": "QD-OLED",
     "hdr": "VESA DisplayHDR True Black 400, HDR10+ Gaming",
     "colorGamut": "99% DCI",
     "inputs": "1x DisplayPort 2.1 (UHBR20), 2x HDMI 2.1, 1x USB-C, 2x USB-A",
     "usbCPowerW": 98,
+    "panelDetails": "QD-OLED, Glare Free",
     "configurations": "27-inch (LS27HG802SNXZA) – $1,099.99 · 32-inch (LS32HG802SNXZA) – $1,299.99"
-   }
+   },
+   "options": [
+    {
+     "name": "Size",
+     "values": [
+      {
+       "label": "27-inch (LS27HG802SNXZA)",
+       "price": "1099.99",
+       "default": true
+      },
+      {
+       "label": "32-inch (LS32HG802SNXZA)",
+       "price": "1299.99"
+      }
+     ]
+    }
+   ]
   },
   {
    "sku": "TK-SAMSUNG-ODYSSEY-G8-G80HS-6K",
@@ -1546,13 +2432,15 @@
    "keywords": "6k monitor ips gaming dual mode 330hz odyssey g8 32 inch 2026",
    "specs": {
     "sizeIn": 32,
-    "resolution": "6144 x 3456 (6K); Dual Mode 3072 x 1728",
+    "resolution": "6144x3456",
     "refreshHz": 165,
-    "panel": "Fast IPS",
+    "panel": "IPS",
     "hdr": "HDR10, HDR10+ Gaming",
     "colorGamut": "99% sRGB",
-    "inputs": "1x DisplayPort 2.1, 2x HDMI 2.1"
-   }
+    "inputs": "1x DisplayPort 2.1, 2x HDMI 2.1",
+    "panelDetails": "Fast IPS"
+   },
+   "options": []
   },
   {
    "sku": "TK-SAMSUNG-ODYSSEY-OLED-G6-G60SF",
@@ -1580,13 +2468,14 @@
    "keywords": "500hz oled monitor esports qhd 1440p odyssey g6 qd-oled",
    "specs": {
     "sizeIn": 27,
-    "resolution": "2560 x 1440 (QHD)",
+    "resolution": "2560x1440",
     "refreshHz": 500,
     "panel": "QD-OLED",
     "hdr": "VESA DisplayHDR True Black 500",
     "colorGamut": "99% DCI (CIE1976)",
     "inputs": "1x DisplayPort 1.4, 2x HDMI 2.1"
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-SAMSUNG-ODYSSEY-OLED-G8-G85SD",
@@ -1613,13 +2502,15 @@
    "keywords": "34 inch ultrawide oled curved monitor 175hz odyssey g8 uwqhd smart",
    "specs": {
     "sizeIn": 34,
-    "resolution": "3440 x 1440 (UWQHD, 21:9)",
+    "resolution": "3440x1440",
     "refreshHz": 175,
-    "panel": "OLED, 1800R curved, Glare Free",
+    "panel": "OLED",
     "hdr": "HDR10",
     "colorGamut": "99% DCI",
-    "inputs": "1x DisplayPort 1.4, 2x HDMI 2.1"
-   }
+    "inputs": "1x DisplayPort 1.4, 2x HDMI 2.1",
+    "panelDetails": "OLED, 1800R curved, Glare Free"
+   },
+   "options": []
   },
   {
    "sku": "TK-SAMSUNG-ODYSSEY-NEO-G9-57",
@@ -1647,13 +2538,15 @@
    "keywords": "57 inch dual 4k super ultrawide mini led monitor 240hz neo g9 displayport 2.1",
    "specs": {
     "sizeIn": 57,
-    "resolution": "7680 x 2160 (Dual UHD, 32:9)",
+    "resolution": "7680x2160",
     "refreshHz": 240,
-    "panel": "VA Quantum Mini-LED, 1000R curved",
+    "panel": "Mini LED",
     "hdr": "VESA DisplayHDR 1000, HDR10+ Gaming",
     "colorGamut": "95% DCI (typ.)",
-    "inputs": "1x DisplayPort 2.1, 3x HDMI 2.1"
-   }
+    "inputs": "1x DisplayPort 2.1, 3x HDMI 2.1",
+    "panelDetails": "VA Quantum Mini-LED, 1000R curved"
+   },
+   "options": []
   },
   {
    "sku": "TK-SAMSUNG-ODYSSEY-ARK-2ND-GEN",
@@ -1680,13 +2573,15 @@
    "keywords": "55 inch gaming monitor curved mini led 4k 165hz odyssey ark cockpit",
    "specs": {
     "sizeIn": 55,
-    "resolution": "3840 x 2160 (4K)",
+    "resolution": "3840x2160",
     "refreshHz": 165,
-    "panel": "VA Quantum Mini-LED, 1000R curved",
+    "panel": "Mini LED",
     "hdr": "Quantum HDR 32x",
     "colorGamut": "95% DCI (typ.)",
-    "inputs": "1x DisplayPort 1.4, 3x HDMI (2x 2.1, 1x 2.0)"
-   }
+    "inputs": "1x DisplayPort 1.4, 3x HDMI (2x 2.1, 1x 2.0)",
+    "panelDetails": "VA Quantum Mini-LED, 1000R curved"
+   },
+   "options": []
   },
   {
    "sku": "TK-SAMSUNG-VIEWFINITY-S9-5K",
@@ -1712,13 +2607,15 @@
    "keywords": "5k monitor 27 inch thunderbolt 4 mac creative matte viewfinity s9",
    "specs": {
     "sizeIn": 27,
-    "resolution": "5120 x 2880 (5K)",
+    "resolution": "5120x2880",
     "refreshHz": 60,
-    "panel": "IPS, matte",
+    "panel": "IPS",
     "colorGamut": "99% DCI (typ.), 100% sRGB",
     "inputs": "Thunderbolt 4, Mini DisplayPort",
-    "usbCPowerW": 90
-   }
+    "usbCPowerW": 90,
+    "panelDetails": "IPS, matte"
+   },
+   "options": []
   },
   {
    "sku": "TK-SAMSUNG-VIEWFINITY-S8-S80HF",
@@ -1744,14 +2641,15 @@
    "keywords": "5k monitor 27 inch usb-c 90w viewfinity s8 2026 office creator",
    "specs": {
     "sizeIn": 27,
-    "resolution": "5120 x 2880 (5K)",
+    "resolution": "5120x2880",
     "refreshHz": 60,
     "panel": "IPS",
     "hdr": "HDR10",
     "colorGamut": "99% sRGB",
     "inputs": "1x DisplayPort 1.4, 1x HDMI 2.1, 1x USB-C",
     "usbCPowerW": 90
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-SAMSUNG-VIEWFINITY-S8-S85TH",
@@ -1777,14 +2675,16 @@
    "keywords": "40 inch 5k2k ultrawide curved thunderbolt 5 monitor viewfinity s8 productivity",
    "specs": {
     "sizeIn": 40,
-    "resolution": "5120 x 2160 (WUHD, 21:9)",
+    "resolution": "5120x2160",
     "refreshHz": 144,
-    "panel": "VA, 1000R curved",
+    "panel": "VA",
     "hdr": "HDR10",
     "colorGamut": "99% sRGB",
     "inputs": "Thunderbolt 5 in + Thunderbolt out (daisy chain), 1x DisplayPort 1.4, 1x HDMI 2.1, USB-C upstream",
-    "usbCPowerW": 140
-   }
+    "usbCPowerW": 140,
+    "panelDetails": "VA, 1000R curved"
+   },
+   "options": []
   },
   {
    "sku": "TK-SAMSUNG-SMART-MONITOR-M9-M90SF",
@@ -1811,14 +2711,15 @@
    "keywords": "smart monitor oled 4k 32 inch tizen streaming camera usb-c m9",
    "specs": {
     "sizeIn": 32,
-    "resolution": "3840 x 2160 (4K)",
+    "resolution": "3840x2160",
     "refreshHz": 165,
     "panel": "QD-OLED",
     "hdr": "VESA DisplayHDR True Black 400",
     "colorGamut": "99% sRGB (CIE1931)",
     "inputs": "1x DisplayPort 1.4, 1x HDMI 2.1, 1x USB-C",
     "usbCPowerW": 90
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-SAMSUNG-SMART-MONITOR-M8-M80F",
@@ -1844,14 +2745,15 @@
    "keywords": "smart monitor 4k 32 inch usb-c webcam streaming tizen m8 white",
    "specs": {
     "sizeIn": 32,
-    "resolution": "3840 x 2160 (4K)",
+    "resolution": "3840x2160",
     "refreshHz": 60,
     "panel": "VA",
     "hdr": "HDR10",
     "colorGamut": "99% sRGB (CIE1931)",
     "inputs": "1x HDMI 2.0, 1x USB-C",
     "usbCPowerW": 65
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-SAMSUNG-OLED-S95H",
@@ -1879,16 +2781,41 @@
    "specs": {
     "sizeIn": 55,
     "sizes": "55\", 65\", 77\", 83\"",
-    "resolution": "3840 x 2160 (4K)",
-    "panel": "OLED, Glare Free",
+    "resolution": "3840x2160",
+    "panel": "OLED",
     "refreshHz": 165,
     "hdr": "OLED HDR Pro, HDR10+ Adaptive/Gaming/Advanced",
     "processor": "NQ4 AI Gen3",
     "gaming": "4x HDMI 4K 165 Hz, VRR, FreeSync Premium Pro, G-Sync, HGiG, ALLM",
     "smartPlatform": "Tizen with Samsung Vision AI",
     "audio": "70 W 4.2.2ch, Dolby Atmos, OTS+",
+    "panelDetails": "OLED, Glare Free",
     "configurations": "55\" (QN55S95HAFXZA) – $2,499.99 · 65\" (QN65S95HAFXZA) – $3,399.99 · 77\" (QN77S95HAFXZA) – $4,499.99 · 83\" (QN83S95HAFXZA) – $6,499.99"
-   }
+   },
+   "options": [
+    {
+     "name": "Size",
+     "values": [
+      {
+       "label": "55\" (QN55S95HAFXZA)",
+       "price": "2499.99",
+       "default": true
+      },
+      {
+       "label": "65\" (QN65S95HAFXZA)",
+       "price": "3399.99"
+      },
+      {
+       "label": "77\" (QN77S95HAFXZA)",
+       "price": "4499.99"
+      },
+      {
+       "label": "83\" (QN83S95HAFXZA)",
+       "price": "6499.99"
+      }
+     ]
+    }
+   ]
   },
   {
    "sku": "TK-SAMSUNG-OLED-S90H",
@@ -1915,16 +2842,49 @@
    "specs": {
     "sizeIn": 42,
     "sizes": "42\", 48\", 55\", 65\", 77\", 83\"",
-    "resolution": "3840 x 2160 (4K)",
-    "panel": "OLED, Glare Free",
+    "resolution": "3840x2160",
+    "panel": "OLED",
     "refreshHz": 165,
     "hdr": "OLED HDR, HDR10+ Adaptive/Gaming/Advanced",
     "processor": "NQ4 AI Gen3",
     "gaming": "4x HDMI 4K 165 Hz, VRR, FreeSync Premium, G-Sync",
     "smartPlatform": "Tizen with Samsung Vision AI",
     "audio": "20 W 2ch, Dolby Atmos",
+    "panelDetails": "OLED, Glare Free",
     "configurations": "42\" (QN42S90HAEXZA) – $1,399.99 · 48\" (QN48S90HAEXZA) – $1,599.99 · 55\" (QN55S90HAEXZA) – $1,999.99 · 65\" (QN65S90HAEXZA) – $2,699.99 · 77\" (QN77S90HAEXZA) – $3,699.99 · 83\" (QN83S90HAEXZA) – $5,299.99"
-   }
+   },
+   "options": [
+    {
+     "name": "Size",
+     "values": [
+      {
+       "label": "42\" (QN42S90HAEXZA)",
+       "price": "1399.99",
+       "default": true
+      },
+      {
+       "label": "48\" (QN48S90HAEXZA)",
+       "price": "1599.99"
+      },
+      {
+       "label": "55\" (QN55S90HAEXZA)",
+       "price": "1999.99"
+      },
+      {
+       "label": "65\" (QN65S90HAEXZA)",
+       "price": "2699.99"
+      },
+      {
+       "label": "77\" (QN77S90HAEXZA)",
+       "price": "3699.99"
+      },
+      {
+       "label": "83\" (QN83S90HAEXZA)",
+       "price": "5299.99"
+      }
+     ]
+    }
+   ]
   },
   {
    "sku": "TK-SAMSUNG-OLED-S85H",
@@ -1951,7 +2911,7 @@
    "specs": {
     "sizeIn": 48,
     "sizes": "48\", 55\", 65\", 77\", 83\"",
-    "resolution": "3840 x 2160 (4K)",
+    "resolution": "3840x2160",
     "panel": "OLED",
     "refreshHz": 120,
     "hdr": "OLED HDR, HDR10+ Adaptive/Gaming/Advanced",
@@ -1960,7 +2920,35 @@
     "smartPlatform": "Tizen with Samsung Vision AI",
     "audio": "20 W 2ch, Dolby Atmos",
     "configurations": "48\" (QN48S85HAEXZA) – $1,199.99 · 55\" (QN55S85HAEXZA) – $1,499.99 · 65\" (QN65S85HAEXZA) – $1,999.99 · 77\" (QN77S85HAEXZA) – $2,799.99 · 83\" (QN83S85HAEXZA) – $4,499.99"
-   }
+   },
+   "options": [
+    {
+     "name": "Size",
+     "values": [
+      {
+       "label": "48\" (QN48S85HAEXZA)",
+       "price": "1199.99",
+       "default": true
+      },
+      {
+       "label": "55\" (QN55S85HAEXZA)",
+       "price": "1499.99"
+      },
+      {
+       "label": "65\" (QN65S85HAEXZA)",
+       "price": "1999.99"
+      },
+      {
+       "label": "77\" (QN77S85HAEXZA)",
+       "price": "2799.99"
+      },
+      {
+       "label": "83\" (QN83S85HAEXZA)",
+       "price": "4499.99"
+      }
+     ]
+    }
+   ]
   },
   {
    "sku": "TK-SAMSUNG-MICRO-RGB-R95H",
@@ -1987,16 +2975,37 @@
    "specs": {
     "sizeIn": 65,
     "sizes": "65\", 75\", 85\"",
-    "resolution": "3840 x 2160 (4K)",
-    "panel": "Micro RGB (RGB micro-LED backlight), Glare Free",
+    "resolution": "3840x2160",
+    "panel": "Micro RGB",
     "refreshHz": 165,
     "hdr": "Micro RGB HDR Pro, HDR10+ Adaptive/Gaming/Advanced",
     "processor": "Micro RGB AI Engine Pro",
     "gaming": "4x HDMI 4K 165 Hz, VRR, FreeSync Premium Pro",
     "smartPlatform": "Tizen with Samsung Vision AI",
     "audio": "70 W 4.2.2ch, Dolby Atmos",
+    "panelDetails": "Micro RGB (RGB micro-LED backlight), Glare Free",
     "configurations": "65\" (MRN65R95HAFXZA) – $3,199.99 · 75\" (MRN75R95HAFXZA) – $4,499.99 · 85\" (MRN85R95HAFXZA) – $6,499.99"
-   }
+   },
+   "options": [
+    {
+     "name": "Size",
+     "values": [
+      {
+       "label": "65\" (MRN65R95HAFXZA)",
+       "price": "3199.99",
+       "default": true
+      },
+      {
+       "label": "75\" (MRN75R95HAFXZA)",
+       "price": "4499.99"
+      },
+      {
+       "label": "85\" (MRN85R95HAFXZA)",
+       "price": "6499.99"
+      }
+     ]
+    }
+   ]
   },
   {
    "sku": "TK-SAMSUNG-MICRO-RGB-R85H",
@@ -2023,16 +3032,45 @@
    "specs": {
     "sizeIn": 55,
     "sizes": "55\", 65\", 75\", 85\", 100\"",
-    "resolution": "3840 x 2160 (4K)",
-    "panel": "Micro RGB (RGB micro-LED backlight)",
+    "resolution": "3840x2160",
+    "panel": "Micro RGB",
     "refreshHz": 144,
     "hdr": "Micro RGB HDR+, HDR10+ Adaptive/Gaming/Advanced",
     "processor": "Micro RGB AI Engine",
     "gaming": "4x HDMI 4K 144 Hz, VRR, FreeSync Premium Pro",
     "smartPlatform": "Tizen with Samsung Vision AI",
     "audio": "30 W 2ch, Dolby Atmos",
+    "panelDetails": "Micro RGB (RGB micro-LED backlight)",
     "configurations": "55\" (MRN55R85HAFXZA) – $1,599.99 · 65\" (MRN65R85HAFXZA) – $2,099.99 · 75\" (MRN75R85HAFXZA) – $2,799.99 · 85\" (MRN85R85HAFXZA) – $3,999.99 · 100\" (MRN100R85HAFXZA) – $12,999.99"
-   }
+   },
+   "options": [
+    {
+     "name": "Size",
+     "values": [
+      {
+       "label": "55\" (MRN55R85HAFXZA)",
+       "price": "1599.99",
+       "default": true
+      },
+      {
+       "label": "65\" (MRN65R85HAFXZA)",
+       "price": "2099.99"
+      },
+      {
+       "label": "75\" (MRN75R85HAFXZA)",
+       "price": "2799.99"
+      },
+      {
+       "label": "85\" (MRN85R85HAFXZA)",
+       "price": "3999.99"
+      },
+      {
+       "label": "100\" (MRN100R85HAFXZA)",
+       "price": "12999.99"
+      }
+     ]
+    }
+   ]
   },
   {
    "sku": "TK-SAMSUNG-NEO-QLED-8K-QN990H",
@@ -2059,16 +3097,18 @@
    "specs": {
     "sizeIn": 85,
     "sizes": "85\"",
-    "resolution": "7680 x 4320 (8K)",
-    "panel": "Neo QLED, Quantum Mini LED Pro, Glare Free",
+    "resolution": "7680x4320",
+    "panel": "Mini LED",
     "refreshHz": 120,
     "hdr": "Neo Quantum HDR 8K Pro, HDR10+ Adaptive/Gaming/Advanced",
     "processor": "NQ8 AI Gen3",
     "gaming": "5x HDMI (8K 120 Hz / 4K 240 Hz), VRR, FreeSync Premium Pro",
     "smartPlatform": "Tizen with Samsung Vision AI",
     "audio": "90 W 6.2.4ch, Dolby Atmos",
+    "panelDetails": "Neo QLED, Quantum Mini LED Pro, Glare Free",
     "configurations": "85\" (QN85QN990HFXZA) – $8,499.99"
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-SAMSUNG-NEO-QLED-QN80H",
@@ -2095,16 +3135,45 @@
    "specs": {
     "sizeIn": 55,
     "sizes": "55\", 65\", 75\", 85\", 100\"",
-    "resolution": "3840 x 2160 (4K)",
-    "panel": "Neo QLED, Quantum Mini LED",
+    "resolution": "3840x2160",
+    "panel": "Mini LED",
     "refreshHz": 144,
     "hdr": "NQ HDR+, HDR10+ Adaptive/Gaming/Advanced",
     "processor": "NQ4 AI Gen2",
     "gaming": "4x HDMI 4K 144 Hz, VRR, FreeSync Premium Pro",
     "smartPlatform": "Tizen with Samsung Vision AI",
     "audio": "30 W 2ch, Dolby Atmos",
+    "panelDetails": "Neo QLED, Quantum Mini LED",
     "configurations": "55\" (QN55QN80HAFXZA) – $1,199.99 · 65\" (QN65QN80HAFXZA) – $1,499.99 · 75\" (QN75QN80HAFXZA) – $1,999.99 · 85\" (QN85QN80HAFXZA) – $2,999.99 · 100\" (QN100QN80HAFXZA) – $5,499.99"
-   }
+   },
+   "options": [
+    {
+     "name": "Size",
+     "values": [
+      {
+       "label": "55\" (QN55QN80HAFXZA)",
+       "price": "1199.99",
+       "default": true
+      },
+      {
+       "label": "65\" (QN65QN80HAFXZA)",
+       "price": "1499.99"
+      },
+      {
+       "label": "75\" (QN75QN80HAFXZA)",
+       "price": "1999.99"
+      },
+      {
+       "label": "85\" (QN85QN80HAFXZA)",
+       "price": "2999.99"
+      },
+      {
+       "label": "100\" (QN100QN80HAFXZA)",
+       "price": "5499.99"
+      }
+     ]
+    }
+   ]
   },
   {
    "sku": "TK-SAMSUNG-THE-FRAME-PRO-LS03HW",
@@ -2131,16 +3200,41 @@
    "specs": {
     "sizeIn": 55,
     "sizes": "55\", 65\", 75\", 85\"",
-    "resolution": "3840 x 2160 (4K)",
-    "panel": "Neo QLED, Quantum Mini LED (Quantum Matrix Slim), Glare Free",
+    "resolution": "3840x2160",
+    "panel": "Mini LED",
     "refreshHz": 144,
     "hdr": "Neo Quantum HDR, HDR10+ Adaptive/Gaming/Advanced",
     "processor": "NQ4 AI Gen3",
     "gaming": "5x HDMI 4K 144 Hz, VRR, FreeSync Premium Pro",
     "smartPlatform": "Tizen with Samsung Vision AI, Art Mode",
     "audio": "40 W 2.0.2ch, Dolby Atmos",
+    "panelDetails": "Neo QLED, Quantum Mini LED (Quantum Matrix Slim), Glare Free",
     "configurations": "55\" (QN55LS03HWFXZA) – $1,499.99 · 65\" (QN65LS03HWFXZA) – $1,999.99 · 75\" (QN75LS03HWFXZA) – $2,799.99 · 85\" (QN85LS03HWFXZA) – $3,999.99"
-   }
+   },
+   "options": [
+    {
+     "name": "Size",
+     "values": [
+      {
+       "label": "55\" (QN55LS03HWFXZA)",
+       "price": "1499.99",
+       "default": true
+      },
+      {
+       "label": "65\" (QN65LS03HWFXZA)",
+       "price": "1999.99"
+      },
+      {
+       "label": "75\" (QN75LS03HWFXZA)",
+       "price": "2799.99"
+      },
+      {
+       "label": "85\" (QN85LS03HWFXZA)",
+       "price": "3999.99"
+      }
+     ]
+    }
+   ]
   },
   {
    "sku": "TK-SAMSUNG-THE-FRAME-LS03HE",
@@ -2167,16 +3261,45 @@
    "specs": {
     "sizeIn": 55,
     "sizes": "55\", 65\", 75\", 85\", 98\"",
-    "resolution": "3840 x 2160 (4K)",
-    "panel": "QLED, Dual LED, Glare Free",
+    "resolution": "3840x2160",
+    "panel": "QLED",
     "refreshHz": 144,
     "hdr": "Quantum HDR, HDR10+ Adaptive/Gaming",
     "processor": "NQ4 AI Gen2",
     "gaming": "4x HDMI 4K 144 Hz, VRR, FreeSync Premium",
     "smartPlatform": "Tizen with Samsung Vision AI, Art Mode",
     "audio": "20 W 2ch, Dolby Atmos",
+    "panelDetails": "QLED, Dual LED, Glare Free",
     "configurations": "55\" (QN55LS03HEFXZA) – $1,199.99 · 65\" (QN65LS03HEFXZA) – $1,499.99 · 75\" (QN75LS03HEFXZA) – $1,999.99 · 85\" (QN85LS03HEFXZA) – $2,999.99 · 98\" (QN98LS03HEFXZA) – $4,499.99"
-   }
+   },
+   "options": [
+    {
+     "name": "Size",
+     "values": [
+      {
+       "label": "55\" (QN55LS03HEFXZA)",
+       "price": "1199.99",
+       "default": true
+      },
+      {
+       "label": "65\" (QN65LS03HEFXZA)",
+       "price": "1499.99"
+      },
+      {
+       "label": "75\" (QN75LS03HEFXZA)",
+       "price": "1999.99"
+      },
+      {
+       "label": "85\" (QN85LS03HEFXZA)",
+       "price": "2999.99"
+      },
+      {
+       "label": "98\" (QN98LS03HEFXZA)",
+       "price": "4499.99"
+      }
+     ]
+    }
+   ]
   }
  ]
 }

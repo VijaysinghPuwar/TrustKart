@@ -1,6 +1,7 @@
 package com.vijaysinghpuwar.trustkart.catalog.application;
 
 import com.fasterxml.jackson.annotation.JsonInclude;
+import com.fasterxml.jackson.annotation.JsonProperty;
 import java.util.List;
 
 /** Read views returned by the catalog API. Built inside the service transaction; money is always a decimal string. */
@@ -49,7 +50,14 @@ public final class CatalogViews {
             List<ImageCreditDto> images,
             List<SpecGroupDto> specGroups,
             List<String> collections,
-            List<ProductCardDto> related) {}
+            List<ProductCardDto> related,
+            List<OptionGroupDto> options) {}
+
+    /** A selectable option group; {@code price} (decimal string) is present only on the priced group's values. */
+    public record OptionGroupDto(String name, List<OptionValueDto> values) {}
+
+    @JsonInclude(JsonInclude.Include.NON_NULL)
+    public record OptionValueDto(String label, String price, @JsonProperty("default") boolean isDefault) {}
 
     public record FacetOptionDto(String value, String label, long count) {}
 
