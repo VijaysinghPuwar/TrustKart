@@ -9,7 +9,7 @@
   "rewrites": [
     {
       "source": "/api/:path*",
-      "destination": "https://api.trustkart.example.com/api/:path*"
+      "destination": "https://trustkart-api.onrender.com/api/:path*"
     },
     {
       "source": "/((?!api/|assets/|images/|brand/).*)",
