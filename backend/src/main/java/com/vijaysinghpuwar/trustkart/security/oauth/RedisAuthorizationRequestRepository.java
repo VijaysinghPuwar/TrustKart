@@ -12,7 +12,12 @@ import java.io.ObjectInputFilter;
 import java.io.ObjectInputStream;
 import java.io.ObjectOutputStream;
 import java.time.Duration;
+import java.time.Instant;
 import java.util.Base64;
+import java.util.Map;
+import java.util.concurrent.ConcurrentHashMap;
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
 import org.springframework.data.redis.core.StringRedisTemplate;
 import org.springframework.http.HttpHeaders;
 import org.springframework.http.ResponseCookie;
@@ -26,6 +31,8 @@ import org.springframework.security.oauth2.core.endpoint.OAuth2AuthorizationRequ
  */
 public class RedisAuthorizationRequestRepository implements AuthorizationRequestRepository<OAuth2AuthorizationRequest> {
 
+    private static final Logger log = LoggerFactory.getLogger(RedisAuthorizationRequestRepository.class);
+
     static final String COOKIE = "tk_oauth";
     private static final String PREFIX = "tk:oauth-req:";
     private static final Duration TTL = Duration.ofMinutes(10);
@@ -34,6 +41,13 @@ public class RedisAuthorizationRequestRepository implements AuthorizationRequest
 
     private final StringRedisTemplate redis;
     private final AuthProperties props;
+    /**
+     * Used only while Redis is unreachable, so Google sign-in keeps working on a single instance. Entries are
+     * the same short-lived (10 minute) serialized requests, keyed by the hashed cookie value.
+     */
+    private final Map<String, Fallback> fallback = new ConcurrentHashMap<>();
+
+    private record Fallback(String value, Instant expires) {}
 
     public RedisAuthorizationRequestRepository(StringRedisTemplate redis, AuthProperties props) {
         this.redis = redis;
@@ -42,7 +56,7 @@ public class RedisAuthorizationRequestRepository implements AuthorizationRequest
 
     @Override
     public OAuth2AuthorizationRequest loadAuthorizationRequest(HttpServletRequest request) {
-        return AuthCookies.read(request, COOKIE).map(k -> redis.opsForValue().get(PREFIX + Tokens.sha256(k)))
+        return AuthCookies.read(request, COOKIE).map(k -> get(PREFIX + Tokens.sha256(k), false))
                 .map(RedisAuthorizationRequestRepository::deserialize).orElse(null);
     }
 
@@ -54,17 +68,41 @@ public class RedisAuthorizationRequestRepository implements AuthorizationRequest
             return;
         }
         String key = Tokens.random();
-        redis.opsForValue().set(PREFIX + Tokens.sha256(key), serialize(authorizationRequest), TTL);
+        put(PREFIX + Tokens.sha256(key), serialize(authorizationRequest));
         response.addHeader(HttpHeaders.SET_COOKIE, cookie(key, TTL).toString());
     }
 
     @Override
     public OAuth2AuthorizationRequest removeAuthorizationRequest(HttpServletRequest request, HttpServletResponse response) {
         OAuth2AuthorizationRequest existing = AuthCookies.read(request, COOKIE)
-                .map(k -> redis.opsForValue().getAndDelete(PREFIX + Tokens.sha256(k)))
+                .map(k -> get(PREFIX + Tokens.sha256(k), true))
                 .map(RedisAuthorizationRequestRepository::deserialize).orElse(null);
         response.addHeader(HttpHeaders.SET_COOKIE, cookie("", Duration.ZERO).toString());
         return existing;
+    }
+
+    private void put(String key, String value) {
+        try {
+            redis.opsForValue().set(key, value, TTL);
+        } catch (RuntimeException e) {
+            log.warn("Redis unavailable, keeping the sign-in request in memory: {}", e.getMessage());
+            Instant now = Instant.now();
+            fallback.values().removeIf(f -> f.expires().isBefore(now));
+            fallback.put(key, new Fallback(value, now.plus(TTL)));
+        }
+    }
+
+    private String get(String key, boolean remove) {
+        Fallback local = remove ? fallback.remove(key) : fallback.get(key);
+        if (local != null) {
+            return local.expires().isAfter(Instant.now()) ? local.value() : null;
+        }
+        try {
+            return remove ? redis.opsForValue().getAndDelete(key) : redis.opsForValue().get(key);
+        } catch (RuntimeException e) {
+            log.warn("Redis unavailable while reading a sign-in request: {}", e.getMessage());
+            return null;
+        }
     }
 
     private ResponseCookie cookie(String value, Duration maxAge) {

@@ -10,6 +10,7 @@ import java.time.Duration;
 import java.util.Map;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
+import org.springframework.beans.factory.ObjectProvider;
 import org.springframework.stereotype.Component;
 
 /**
@@ -24,16 +25,44 @@ public class RateLimiter {
 
     private static final Logger log = LoggerFactory.getLogger(RateLimiter.class);
 
-    private final ProxyManager<String> buckets;
+    /** After a failed connection attempt, don't retry (and block on the connect timeout) for this long. */
+    private static final Duration RETRY_AFTER = Duration.ofSeconds(30);
 
-    public RateLimiter(ProxyManager<String> buckets) {
-        this.buckets = buckets;
+    private final ObjectProvider<ProxyManager<String>> bucketsProvider;
+    private volatile ProxyManager<String> buckets;
+    private volatile long nextAttemptNanos;
+
+    public RateLimiter(ObjectProvider<ProxyManager<String>> bucketsProvider) {
+        this.bucketsProvider = bucketsProvider;
+    }
+
+    /** Connects on first use and again after an outage; null while Redis is unreachable. */
+    private ProxyManager<String> buckets() {
+        ProxyManager<String> current = buckets;
+        if (current != null || System.nanoTime() < nextAttemptNanos) {
+            return current;
+        }
+        synchronized (this) {
+            if (buckets == null && System.nanoTime() >= nextAttemptNanos) {
+                try {
+                    buckets = bucketsProvider.getObject();
+                } catch (RuntimeException e) {
+                    nextAttemptNanos = System.nanoTime() + RETRY_AFTER.toNanos();
+                    log.warn("Rate limiter cannot reach Redis, allowing requests for now: {}", e.getMessage());
+                }
+            }
+            return buckets;
+        }
     }
 
     public Decision tryConsume(RateLimitPolicy policy, String key) {
         BucketConfiguration config = BucketConfiguration.builder()
                 .addLimit(Bandwidth.builder().capacity(policy.capacity()).refillGreedy(policy.capacity(), policy.period()).build())
                 .build();
+        ProxyManager<String> buckets = buckets();
+        if (buckets == null) {
+            return new Decision(true, 0);
+        }
         try {
             ConsumptionProbe probe = buckets.getProxy("tk:rl:" + policy.name() + ":" + key, () -> config)
                     .tryConsumeAndReturnRemaining(1);

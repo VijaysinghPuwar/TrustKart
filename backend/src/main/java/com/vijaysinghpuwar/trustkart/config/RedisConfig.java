@@ -14,6 +14,7 @@ import org.springframework.boot.data.redis.autoconfigure.DataRedisConnectionDeta
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
+import org.springframework.context.annotation.Lazy;
 
 @Configuration(proxyBeanMethods = false)
 class RedisConfig {
@@ -36,12 +37,15 @@ class RedisConfig {
         return RedisClient.create(uri.build());
     }
 
+    // Lazy: the connection is opened on first use, so the app starts (and fails open) even when Redis is down.
     @Bean(destroyMethod = "close")
+    @Lazy
     StatefulRedisConnection<String, byte[]> rateLimitConnection(RedisClient client) {
         return client.connect(RedisCodec.of(StringCodec.UTF8, ByteArrayCodec.INSTANCE));
     }
 
     @Bean
+    @Lazy
     ProxyManager<String> rateLimitBuckets(StatefulRedisConnection<String, byte[]> connection) {
         return Bucket4jLettuce.casBasedBuilder(connection)
                 .expirationAfterWrite(ExpirationAfterWriteStrategy.basedOnTimeForRefillingBucketUpToMax(Duration.ofMinutes(10)))
