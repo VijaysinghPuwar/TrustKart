@@ -4,7 +4,6 @@
   "installCommand": "npm ci --prefix frontend",
   "buildCommand": "npm run build --prefix frontend",
   "outputDirectory": "frontend/dist",
-  "cleanUrls": true,
   "trailingSlash": false,
   "rewrites": [
     {
@@ -12,7 +11,7 @@
       "destination": "https://trustkart-api-2ufo.onrender.com/api/:path*"
     },
     {
-      "source": "/((?!api/|assets/|images/|brand/).*)",
+      "source": "/((?!api/).*)",
       "destination": "/index.html"
     }
   ],
