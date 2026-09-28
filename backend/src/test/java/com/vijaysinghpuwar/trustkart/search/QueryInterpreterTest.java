@@ -59,6 +59,11 @@ class QueryInterpreterTest {
     void prefersTheLongestCategoryPhrase() {
         assertThat(QueryInterpreter.interpret("gaming laptop with oled").categorySlug()).isEqualTo("gaming-laptops");
         assertThat(QueryInterpreter.interpret("nvidia graphics card").categorySlug()).isEqualTo("gpus");
+        assertThat(QueryInterpreter.interpret("4k security camera").categorySlug()).isEqualTo("security-cameras");
+        assertThat(QueryInterpreter.interpret("broadcom raid controller").categorySlug()).isEqualTo("raid-controllers");
+        assertThat(QueryInterpreter.interpret("nintendo switch 2").categorySlug()).isEqualTo("consoles");
+        assertThat(QueryInterpreter.interpret("65 inch oled tv").categorySlug()).isEqualTo("oled-tvs");
+        assertThat(QueryInterpreter.interpret("noise cancelling headphones").categorySlug()).isEqualTo("headsets");
     }
 
     @Test

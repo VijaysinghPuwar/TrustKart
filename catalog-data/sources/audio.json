@@ -1,0 +1,1675 @@
+{
+  "meta": {
+    "notes": "Audio catalog: headphones, earbuds, speakers & soundbars, studio audio (interfaces, monitors, studio headphones, DAC/amps) and microphones. Researched 2026-09-28 from official manufacturer stores, spec pages and press/media kits. Sonos.com blocks automated requests (HTTP 403), so Sonos prices come from Sonos Newsroom launch announcements (2026 launches) or are marked estimate (older models). Brands already in demo data (Jabra Evolve2 75, Shure MV7+, Audioengine A2+, Elgato Wave:3) are not duplicated."
+  },
+  "products": [
+    {
+      "sku": "TK-SENNHEISER-MOMENTUM5-WL",
+      "slug": "sennheiser-momentum-5-wireless",
+      "name": "Sennheiser MOMENTUM 5 Wireless",
+      "brand": "Sennheiser",
+      "category": "headphones",
+      "price": "399.95",
+      "priceBasis": "msrp",
+      "priceSource": "https://us.sennheiser-hearing.com/products/momentum-5-wireless",
+      "priceAsOf": "2026-09-28",
+      "releaseYear": 2026,
+      "summary": "Over-ear wireless headphones with 8-mic hybrid adaptive ANC, 42 mm transducers, aptX Lossless and a replaceable battery rated for up to 57 hours with ANC on.",
+      "description": "MOMENTUM 5 Wireless pairs Sennheiser's in-house 42 mm dynamic transducers with a new hybrid adaptive ANC system that uses eight microphones for up to three times better voice-range noise cancellation than MOMENTUM 4 Wireless. The exchangeable battery delivers up to 57 hours of playback with ANC on, and the headphones connect via Bluetooth 5.4, USB-C or mini jack. Dolby Atmos with head tracking is supported for spatial content.",
+      "keywords": "momentum 5 m5 anc noise cancelling over-ear bluetooth aptx lossless sennheiser headphones",
+      "specs": {
+        "connectivity": "Bluetooth 5.4, USB-C audio, 3.5 mm analog",
+        "noiseCancelling": true,
+        "batteryHours": 57,
+        "drivers": "42 mm dynamic transducers",
+        "codecs": "SBC, AAC, aptX, aptX HD, aptX Adaptive, aptX Lossless",
+        "weightG": 290
+      },
+      "colors": [
+        "Black",
+        "Bronze",
+        "Denim",
+        "Lavender",
+        "White"
+      ],
+      "featured": true,
+      "sources": {
+        "product": "https://us.sennheiser-hearing.com/products/momentum-5-wireless",
+        "retrievedAt": "2026-09-28"
+      },
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0781/7248/7963/files/M5_Black_Main_IsoFront.jpg?v=1776463846",
+        "page": "https://us.sennheiser-hearing.com/products/momentum-5-wireless",
+        "sourceType": "manufacturer-product-page",
+        "rights": "Official Sennheiser US store product image; no reuse license verified.",
+        "credit": "Sennheiser",
+        "alt": "Sennheiser MOMENTUM 5 Wireless headphones in Black, three-quarter front view",
+        "match": "EXACT"
+      }
+    },
+    {
+      "sku": "TK-SENNHEISER-MTW5",
+      "slug": "sennheiser-momentum-true-wireless-5",
+      "name": "Sennheiser MOMENTUM True Wireless 5",
+      "brand": "Sennheiser",
+      "category": "earbuds",
+      "price": "299.95",
+      "priceBasis": "msrp",
+      "priceSource": "https://us.sennheiser-hearing.com/products/momentum-true-wireless-5",
+      "priceAsOf": "2026-09-28",
+      "releaseYear": 2026,
+      "summary": "Flagship true wireless earbuds with 7 mm TrueResponse transducers, adaptive ANC, aptX Lossless, Bluetooth 6.0, IP54 and user-replaceable batteries.",
+      "description": "MOMENTUM True Wireless 5 uses audiophile-grade 7 mm TrueResponse transducers with lossless codec support and up to 24-bit/96 kHz resolution. Adaptive ANC and Adaptive Anti-Wind adjust to the surroundings, eight microphones with AI voice isolation handle calls, and the earbuds play up to 12 hours per charge or 40 hours with the case. Both earbuds and case have replaceable batteries.",
+      "keywords": "mtw5 momentum true wireless 5 earbuds anc aptx lossless bluetooth 6 sennheiser",
+      "specs": {
+        "connectivity": "Bluetooth 6.0 with multipoint",
+        "noiseCancelling": true,
+        "batteryHours": 12,
+        "drivers": "7 mm TrueResponse dynamic transducers",
+        "codecs": "SBC, AAC, aptX, aptX Adaptive, aptX Lossless",
+        "waterResistance": "IP54 (earbuds)",
+        "weightG": 7
+      },
+      "colors": [
+        "Copper",
+        "Cream",
+        "Denim",
+        "Graphite",
+        "Lavender"
+      ],
+      "sources": {
+        "product": "https://us.sennheiser-hearing.com/products/momentum-true-wireless-5",
+        "retrievedAt": "2026-09-28",
+        "notes": "batteryHours is per charge with ANC off (Sennheiser lists 6 h with ANC on, 40 h total with case); weightG is per earbud."
+      },
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0781/7248/7963/files/pDyR93fJmbK54RReL3Wc.jpg?v=1785881543",
+        "page": "https://us.sennheiser-hearing.com/products/momentum-true-wireless-5",
+        "sourceType": "manufacturer-product-page",
+        "rights": "Official Sennheiser US store product image; no reuse license verified.",
+        "credit": "Sennheiser",
+        "alt": "Sennheiser MOMENTUM True Wireless 5 earbuds in Copper resting in their open charging case",
+        "match": "EXACT"
+      }
+    },
+    {
+      "sku": "TK-SENNHEISER-HD660S2",
+      "slug": "sennheiser-hd-660s2",
+      "name": "Sennheiser HD 660S2",
+      "brand": "Sennheiser",
+      "category": "headphones",
+      "price": "679.95",
+      "priceBasis": "msrp",
+      "priceSource": "https://us.sennheiser-hearing.com/products/hd-660s2",
+      "priceAsOf": "2026-09-28",
+      "releaseYear": 2023,
+      "summary": "Open-back 300-ohm audiophile headphones with extended sub-bass, supplied with 6.35 mm and balanced 4.4 mm cables.",
+      "description": "The HD 660S2 is an open-back audiophile headphone with a relaxed, precise sound signature and extended sub-bass: an optimized surround, transducer airflow and voice coil double the sound pressure in the lowest octaves. It ships with a 6.35 mm cable, a 4.4 mm balanced cable and a 3.5 mm adapter.",
+      "keywords": "hd660s2 hd 660 s2 open back audiophile wired headphones 300 ohm balanced sennheiser",
+      "specs": {
+        "connectivity": "Wired: 6.35 mm and 4.4 mm balanced cables (detachable)",
+        "noiseCancelling": false,
+        "drivers": "Dynamic transducer, open-back, 300 ohm",
+        "weightG": 260
+      },
+      "colors": [
+        "Black"
+      ],
+      "sources": {
+        "product": "https://us.sennheiser-hearing.com/products/hd-660s2",
+        "retrievedAt": "2026-09-28"
+      },
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0781/7248/7963/files/Sennheiser_HD_660_S_2_Open_Back_Audiophile_Headphones_Main_Image.jpg?v=1759793996",
+        "page": "https://us.sennheiser-hearing.com/products/hd-660s2",
+        "sourceType": "manufacturer-product-page",
+        "rights": "Official Sennheiser US store product image; no reuse license verified.",
+        "credit": "Sennheiser",
+        "alt": "Sennheiser HD 660S2 open-back headphones in black, three-quarter view with cables attached",
+        "match": "EXACT"
+      }
+    },
+    {
+      "sku": "TK-SENNHEISER-HD800S",
+      "slug": "sennheiser-hd-800-s",
+      "name": "Sennheiser HD 800 S",
+      "brand": "Sennheiser",
+      "category": "headphones",
+      "price": "1999.95",
+      "priceBasis": "msrp",
+      "priceSource": "https://us.sennheiser-hearing.com/products/hd-800-s",
+      "priceAsOf": "2026-09-28",
+      "summary": "Reference-class open-back headphones with a 56 mm ring radiator transducer, 300-ohm impedance and both 6.35 mm and balanced 4.4 mm cables.",
+      "description": "The HD 800 S is Sennheiser's reference open, circumaural headphone, built around a 56 mm ring radiator dynamic transducer for natural, detailed reproduction. Sennheiser lists a 4 Hz to 51 kHz frequency response and 300-ohm impedance, and supplies 3 m cables with 6.35 mm and balanced 4.4 mm plugs.",
+      "keywords": "hd800s hd 800 s reference open back audiophile headphones ring radiator sennheiser",
+      "specs": {
+        "connectivity": "Wired: 6.35 mm and 4.4 mm balanced cables (detachable)",
+        "noiseCancelling": false,
+        "drivers": "56 mm ring radiator dynamic transducer, 300 ohm",
+        "weightG": 330
+      },
+      "colors": [
+        "Black"
+      ],
+      "featured": false,
+      "sources": {
+        "product": "https://us.sennheiser-hearing.com/products/hd-800-s",
+        "retrievedAt": "2026-09-28"
+      },
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0781/7248/7963/files/Sennheiser_HD_800_S_Open_Back_Audiophile_Reference_Headphones_Main_Image.jpg?v=1759794505",
+        "page": "https://us.sennheiser-hearing.com/products/hd-800-s",
+        "sourceType": "manufacturer-product-page",
+        "rights": "Official Sennheiser US store product image; no reuse license verified.",
+        "credit": "Sennheiser",
+        "alt": "Sennheiser HD 800 S open-back reference headphones in black and silver, three-quarter view",
+        "match": "EXACT"
+      }
+    },
+    {
+      "sku": "TK-SENNHEISER-HDB630",
+      "slug": "sennheiser-hdb-630",
+      "name": "Sennheiser HDB 630",
+      "brand": "Sennheiser",
+      "category": "headphones",
+      "price": "499.95",
+      "priceBasis": "msrp",
+      "priceSource": "https://us.sennheiser-hearing.com/products/hdb-630",
+      "priceAsOf": "2026-09-28",
+      "releaseYear": 2025,
+      "summary": "Audiophile-tuned closed-back wireless headphones with adaptive ANC, parametric EQ, 60-hour battery and an included BTD 700 aptX Adaptive dongle.",
+      "description": "HDB 630 brings Sennheiser's in-house 42 mm transducer and neutral audiophile tuning to a wireless ANC headphone. It supports aptX Adaptive and aptX HD, especially with the included BTD 700 USB-C Bluetooth adapter, and plays lossless up to 24-bit/96 kHz over USB-C. A parametric EQ and Crossfeed function are available, and the battery lasts up to 60 hours.",
+      "keywords": "hdb630 hdb 630 audiophile wireless anc headphones btd 700 parametric eq sennheiser",
+      "specs": {
+        "connectivity": "Bluetooth 5.2, USB-C audio, 3.5 mm analog",
+        "noiseCancelling": true,
+        "batteryHours": 60,
+        "drivers": "42 mm dynamic transducers, closed-back",
+        "codecs": "SBC, AAC, aptX, aptX HD, aptX Adaptive",
+        "weightG": 311
+      },
+      "colors": [
+        "Black",
+        "Lunar Silver"
+      ],
+      "sources": {
+        "product": "https://us.sennheiser-hearing.com/products/hdb-630",
+        "retrievedAt": "2026-09-28"
+      },
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0781/7248/7963/files/Sennheiser_HDB_630_Main_Image.jpg?v=1765661185",
+        "page": "https://us.sennheiser-hearing.com/products/hdb-630",
+        "sourceType": "manufacturer-product-page",
+        "rights": "Official Sennheiser US store product image; no reuse license verified.",
+        "credit": "Sennheiser",
+        "alt": "Sennheiser HDB 630 wireless headphones in Black with silver accents, three-quarter view",
+        "match": "EXACT"
+      }
+    },
+    {
+      "sku": "TK-BOSE-QCUH-2GEN",
+      "slug": "bose-quietcomfort-ultra-headphones-2nd-gen",
+      "name": "Bose QuietComfort Ultra Headphones (2nd Gen)",
+      "brand": "Bose",
+      "category": "headphones",
+      "price": "449.00",
+      "priceBasis": "msrp",
+      "priceSource": "https://www.bose.com/p/headphones/bose-quietcomfort-ultra-headphones-2nd-gen/QCUH2-HEADPHONEARN.html",
+      "priceAsOf": "2026-09-28",
+      "releaseYear": 2025,
+      "summary": "Bose's flagship noise cancelling headphones with CustomTune, Bose Immersive Audio and Cinema Mode, up to 30 hours of battery and USB-C audio.",
+      "description": "QuietComfort Ultra Headphones (2nd Gen) combine adjustable active noise cancellation and ActiveSense with CustomTune calibration and Bose Immersive Audio, including a Cinema Mode. Bose rates battery life at up to 30 hours in Quiet or Aware mode (23 hours with Immersive Audio), and the headphones connect over Bluetooth 5.4 or USB-C audio.",
+      "keywords": "qc ultra 2 quietcomfort ultra headphones 2nd gen anc noise cancelling immersive audio bose",
+      "specs": {
+        "connectivity": "Bluetooth 5.4, USB-C audio",
+        "noiseCancelling": true,
+        "batteryHours": 30,
+        "weightG": 264
+      },
+      "colors": [
+        "Black",
+        "White Smoke",
+        "Cherry Chocolate",
+        "Olive Green"
+      ],
+      "featured": true,
+      "sources": {
+        "product": "https://www.bose.com/p/headphones/bose-quietcomfort-ultra-headphones-2nd-gen/QCUH2-HEADPHONEARN.html",
+        "retrievedAt": "2026-09-28",
+        "notes": "Weight converted from Bose's 0.583 lb (headphones only)."
+      },
+      "image": {
+        "url": "https://assets.bosecreative.com/transform/69de3d90-3cc5-4f7c-ac71-d03a030e4154/FY27_QCUHIILE27-ChryChoc_CREA-1174_PDP_EcomGal1_Silo_1500x1120?format=jpg&quality=95",
+        "page": "https://www.bose.com/p/headphones/bose-quietcomfort-ultra-headphones-2nd-gen/QCUH2-HEADPHONEARN.html",
+        "sourceType": "manufacturer-product-page",
+        "rights": "Official Bose.com product gallery image; Bose has not granted a reuse license — rights not verified.",
+        "credit": "Bose",
+        "alt": "Bose QuietComfort Ultra Headphones (2nd Gen) in Cherry Chocolate, three-quarter view",
+        "match": "EXACT"
+      }
+    },
+    {
+      "sku": "TK-BOSE-QCH-2GEN",
+      "slug": "bose-quietcomfort-headphones-2nd-gen",
+      "name": "Bose QuietComfort Headphones (2nd Gen)",
+      "brand": "Bose",
+      "category": "headphones",
+      "price": "359.00",
+      "priceBasis": "msrp",
+      "priceSource": "https://www.bose.com/p/headphones/bose-quietcomfort-headphones-2nd-gen/QC2G-HEADPHONEARN.html",
+      "priceAsOf": "2026-09-28",
+      "releaseYear": 2026,
+      "summary": "Redesigned QuietComfort noise cancelling headphones that add Bose TrueSpatial immersive modes, lossless USB-C audio and up to 24 hours of battery.",
+      "description": "The 2026 QuietComfort Headphones (2nd Gen) pair six-microphone active noise cancellation with Bose TrueSpatial Technology, bringing the Still, Motion and Cinema immersive listening modes from the Ultra series. Battery life is up to 24 hours (18 with Immersive Audio), a 15-minute charge gives 2.5 hours, and the headphones support lossless audio up to 24-bit/48 kHz.",
+      "keywords": "qc headphones 2nd gen 2026 quietcomfort anc truespatial bose headphones",
+      "specs": {
+        "connectivity": "Bluetooth 5.4, Bluetooth Low Energy, USB-C (cables included)",
+        "noiseCancelling": true,
+        "batteryHours": 24,
+        "codecs": "Lossless up to 24-bit/48 kHz"
+      },
+      "colors": [
+        "Black",
+        "White Smoke"
+      ],
+      "sources": {
+        "product": "https://www.bose.com/p/headphones/bose-quietcomfort-headphones-2nd-gen/QC2G-HEADPHONEARN.html",
+        "retrievedAt": "2026-09-28",
+        "notes": "Announced August 2026 (Bose pressroom) at $359."
+      },
+      "image": {
+        "url": "https://assets.bosecreative.com/transform/5dc4d20d-ae18-488a-8054-ebfc6c23ebfe/QCHII27-Blk_PDP_E-Comm_Gallery_1_1500x1120?format=jpg&quality=95",
+        "page": "https://www.bose.com/p/headphones/bose-quietcomfort-headphones-2nd-gen/QC2G-HEADPHONEARN.html",
+        "sourceType": "manufacturer-product-page",
+        "rights": "Official Bose.com product gallery image; Bose has not granted a reuse license — rights not verified.",
+        "credit": "Bose",
+        "alt": "Bose QuietComfort Headphones (2nd Gen) in Black, three-quarter view",
+        "match": "EXACT"
+      }
+    },
+    {
+      "sku": "TK-BOSE-QCUE-2GEN",
+      "slug": "bose-quietcomfort-ultra-earbuds-2nd-gen",
+      "name": "Bose QuietComfort Ultra Earbuds (2nd Gen)",
+      "brand": "Bose",
+      "category": "earbuds",
+      "price": "299.00",
+      "priceBasis": "msrp",
+      "priceSource": "https://www.bose.com/p/earbuds/bose-quietcomfort-ultra-earbuds-2nd-gen/QCUE2-HEADPHONEIN.html",
+      "priceAsOf": "2026-09-28",
+      "releaseYear": 2025,
+      "summary": "Bose's premium noise cancelling earbuds with CustomTune, Immersive Audio, SpeechClarity calls, IPX4 and a wireless charging case.",
+      "description": "QuietComfort Ultra Earbuds (2nd Gen) offer adjustable noise cancellation with CustomTune calibration, Bose Immersive Audio and SpeechClarity for calls. Each charge gives up to 6 hours of listening (4 hours with Immersive Audio), the case charges wirelessly or over USB-C, and the earbuds are rated IPX4.",
+      "keywords": "qc ultra earbuds 2nd gen anc wireless earbuds immersive audio bose",
+      "specs": {
+        "connectivity": "Bluetooth 5.3 with multipoint",
+        "noiseCancelling": true,
+        "batteryHours": 6,
+        "waterResistance": "IPX4"
+      },
+      "colors": [
+        "Black",
+        "White Smoke",
+        "Deep Plum"
+      ],
+      "sources": {
+        "product": "https://www.bose.com/p/earbuds/bose-quietcomfort-ultra-earbuds-2nd-gen/QCUE2-HEADPHONEIN.html",
+        "retrievedAt": "2026-09-28"
+      },
+      "image": {
+        "url": "https://assets.bosecreative.com/transform/62cdff5e-6137-4157-818d-e04db93dc66d/QCUEBII26-Black_SF_EcommGallery_1_1632x1224?format=jpg&quality=95",
+        "page": "https://www.bose.com/p/earbuds/bose-quietcomfort-ultra-earbuds-2nd-gen/QCUE2-HEADPHONEIN.html",
+        "sourceType": "manufacturer-product-page",
+        "rights": "Official Bose.com product gallery image; Bose has not granted a reuse license — rights not verified.",
+        "credit": "Bose",
+        "alt": "Pair of Bose QuietComfort Ultra Earbuds (2nd Gen) in Black, angled view",
+        "match": "EXACT"
+      }
+    },
+    {
+      "sku": "TK-BOSE-ULTRAOPEN-2GEN",
+      "slug": "bose-ultra-open-earbuds-2nd-gen",
+      "name": "Bose Ultra Open Earbuds (2nd Gen)",
+      "brand": "Bose",
+      "category": "earbuds",
+      "price": "299.00",
+      "priceBasis": "msrp",
+      "priceSource": "https://www.bose.com/p/earbuds/bose-ultra-open-earbuds-2nd-gen/ULT2-HEADPHONEOPN.html",
+      "priceAsOf": "2026-09-28",
+      "summary": "Open-ear cuff earbuds with OpenAudio and TrueSpatial immersive audio, Cinema Mode, IPX4 and up to 9 hours of playback with a wireless charging case.",
+      "description": "Ultra Open Earbuds (2nd Gen) clip onto the ear with a non-occluding design, using Bose OpenAudio technology for private sound while keeping you aware of your surroundings. They add Immersive Audio with TrueSpatial technology and a new Cinema Mode, play up to 9 hours per charge, and come in a sleeker metallic finish with a wireless charging case.",
+      "keywords": "ultra open earbuds 2nd gen open ear clip earbuds bose",
+      "specs": {
+        "connectivity": "Bluetooth 5.4",
+        "noiseCancelling": false,
+        "batteryHours": 9,
+        "waterResistance": "IPX4"
+      },
+      "colors": [
+        "Black",
+        "White Smoke",
+        "Cherry Chocolate",
+        "Olive Green"
+      ],
+      "sources": {
+        "product": "https://www.bose.com/p/earbuds/bose-ultra-open-earbuds-2nd-gen/ULT2-HEADPHONEOPN.html",
+        "retrievedAt": "2026-09-28"
+      },
+      "image": {
+        "url": "https://assets.bosecreative.com/transform/8e914ae5-1f7a-4cf3-98b0-3647199d31ed/FY27_UOEBIILE27-OlvGrn_PDP_EcomGal1_Silo_D_1500x1120?format=jpg&quality=95",
+        "page": "https://www.bose.com/p/earbuds/bose-ultra-open-earbuds-2nd-gen/ULT2-HEADPHONEOPN.html",
+        "sourceType": "manufacturer-product-page",
+        "rights": "Official Bose.com product gallery image; Bose has not granted a reuse license — rights not verified.",
+        "credit": "Bose",
+        "alt": "Pair of Bose Ultra Open Earbuds (2nd Gen) in limited-edition Olive Green, cuff design",
+        "match": "EXACT"
+      }
+    },
+    {
+      "sku": "TK-BOSE-LIFESTYLE-ULTRA-SB",
+      "slug": "bose-lifestyle-ultra-soundbar",
+      "name": "Bose Lifestyle Ultra Soundbar",
+      "brand": "Bose",
+      "category": "home-audio",
+      "price": "1099.00",
+      "priceBasis": "msrp",
+      "priceSource": "https://www.bose.com/p/home-theater/bose-lifestyle-ultra-soundbar/LSULT-SOUNDBAR.html",
+      "priceAsOf": "2026-09-28",
+      "summary": "Bose's new flagship Dolby Atmos soundbar with a 5.1.2 speaker layout, TrueSpatial, CleanBass, AirPlay 2, Google Cast and HDMI eARC.",
+      "description": "The Lifestyle Ultra Soundbar uses a 5.1.2 speaker configuration with up-firing height speakers, Bose TrueSpatial and CleanBass technologies and SpeechClarity for dialogue. It connects over HDMI eARC, Wi-Fi and Bluetooth 5.3 with AirPlay 2, Google Cast and Spotify Connect, includes CustomTune room calibration and can be expanded with the Lifestyle Ultra Subwoofer and Lifestyle Ultra Speakers.",
+      "keywords": "lifestyle ultra soundbar dolby atmos home theater bose soundbar",
+      "specs": {
+        "connectivity": "HDMI eARC, Wi-Fi, Bluetooth 5.3, AirPlay 2, Google Cast, Spotify Connect",
+        "channels": "5.1.2",
+        "weightG": 6500
+      },
+      "colors": [
+        "Black"
+      ],
+      "featured": true,
+      "sources": {
+        "product": "https://www.bose.com/p/home-theater/bose-lifestyle-ultra-soundbar/LSULT-SOUNDBAR.html",
+        "retrievedAt": "2026-09-28",
+        "notes": "Weight converted from Bose's 14.330 lb (speaker only)."
+      },
+      "image": {
+        "url": "https://assets.bosecreative.com/transform/32877738-be37-497c-b7c8-a39fa7e4c472/LSUSB-NueBlack_SF_PDP_E-Comm_Gallery_1_1500x1120?format=jpg&quality=95",
+        "page": "https://www.bose.com/p/home-theater/bose-lifestyle-ultra-soundbar/LSULT-SOUNDBAR.html",
+        "sourceType": "manufacturer-product-page",
+        "rights": "Official Bose.com product gallery image; Bose has not granted a reuse license — rights not verified.",
+        "credit": "Bose",
+        "alt": "Bose Lifestyle Ultra Soundbar in Black with glass top, angled front view",
+        "match": "EXACT"
+      }
+    },
+    {
+      "sku": "TK-BOSE-SOUNDLINK-MAX",
+      "slug": "bose-soundlink-max",
+      "name": "Bose SoundLink Max Portable Speaker",
+      "brand": "Bose",
+      "category": "home-audio",
+      "price": "399.00",
+      "priceBasis": "msrp",
+      "priceSource": "https://www.bose.com/p/speakers/bose-soundlink-max-portable-speaker/SLMAX-SPEAKERWIRELESS.html",
+      "priceAsOf": "2026-09-28",
+      "summary": "Bose's largest SoundLink: stereo Bluetooth 5.4 speaker with IP67 protection, up to 20 hours of battery and USB-C charge-out.",
+      "description": "SoundLink Max is a stereo portable speaker with deep bass, IP67 water and dust resistance and up to 20 hours of battery life. It connects over Bluetooth 5.4 with multipoint, can charge a phone through its USB-C port and ships with a removable rope handle.",
+      "keywords": "soundlink max portable bluetooth speaker ip67 bose",
+      "specs": {
+        "connectivity": "Bluetooth 5.4, USB-C in/out",
+        "batteryHours": 20,
+        "waterResistance": "IP67",
+        "channels": "Stereo",
+        "weightG": 2223
+      },
+      "colors": [
+        "Black",
+        "Blue Dusk"
+      ],
+      "sources": {
+        "product": "https://www.bose.com/p/speakers/bose-soundlink-max-portable-speaker/SLMAX-SPEAKERWIRELESS.html",
+        "retrievedAt": "2026-09-28",
+        "notes": "Weight converted from Bose's 4.9 lb."
+      },
+      "image": {
+        "url": "https://assets.bosecreative.com/transform/4460a5bb-35b7-4530-9713-aef64b9cc48e/sf_pdp_SLMPS_gallery_blue_600x450_x2-1?format=jpg&quality=95",
+        "page": "https://www.bose.com/p/speakers/bose-soundlink-max-portable-speaker/SLMAX-SPEAKERWIRELESS.html",
+        "sourceType": "manufacturer-product-page",
+        "rights": "Official Bose.com product gallery image; Bose has not granted a reuse license — rights not verified.",
+        "credit": "Bose",
+        "alt": "Bose SoundLink Max portable speaker in Blue Dusk with rope handle, front view",
+        "match": "EXACT"
+      }
+    },
+    {
+      "sku": "TK-BOSE-SOUNDLINK-PLUS",
+      "slug": "bose-soundlink-plus",
+      "name": "Bose SoundLink Plus Portable Speaker",
+      "brand": "Bose",
+      "category": "home-audio",
+      "price": "269.00",
+      "priceBasis": "msrp",
+      "priceSource": "https://www.bose.com/p/speakers/bose-soundlink-plus-portable-speaker/SLP-SPEAKERWIRELESS.html",
+      "priceAsOf": "2026-09-28",
+      "summary": "Mid-size IP67 Bluetooth speaker with up to 20 hours of battery, 15 W USB-C charge-out and Party/Stereo modes.",
+      "description": "SoundLink Plus is a mono portable speaker rated IP67 for water and dust, with up to 20 hours of battery life. Its USB-C port can charge other devices at up to 15 W, and two units can be linked in Stereo Mode or more in Party Mode, with adjustable EQ in the Bose app.",
+      "keywords": "soundlink plus portable bluetooth speaker ip67 bose",
+      "specs": {
+        "connectivity": "Bluetooth, USB-C in/out",
+        "batteryHours": 20,
+        "waterResistance": "IP67",
+        "channels": "Mono",
+        "weightG": 1530
+      },
+      "colors": [
+        "Black",
+        "Blue Dusk",
+        "Sunset Peach"
+      ],
+      "sources": {
+        "product": "https://www.bose.com/p/speakers/bose-soundlink-plus-portable-speaker/SLP-SPEAKERWIRELESS.html",
+        "retrievedAt": "2026-09-28",
+        "notes": "Weight converted from Bose's 3.373 lb."
+      },
+      "image": {
+        "url": "https://assets.bosecreative.com/transform/608cebcd-5eeb-4ee4-bef2-523fa37ef743/SLP-BlueDusk_SF_E-CommGallery_Silo_Desktop_1501x1120_4?format=jpg&quality=95",
+        "page": "https://www.bose.com/p/speakers/bose-soundlink-plus-portable-speaker/SLP-SPEAKERWIRELESS.html",
+        "sourceType": "manufacturer-product-page",
+        "rights": "Official Bose.com product gallery image; Bose has not granted a reuse license — rights not verified.",
+        "credit": "Bose",
+        "alt": "Bose SoundLink Plus portable speaker in Blue Dusk, angled front view with utility loop",
+        "match": "EXACT"
+      }
+    },
+    {
+      "sku": "TK-BOSE-SOUNDLINK-FLEX-2GEN",
+      "slug": "bose-soundlink-flex-2nd-gen",
+      "name": "Bose SoundLink Flex Portable Speaker (2nd Gen)",
+      "brand": "Bose",
+      "category": "home-audio",
+      "price": "159.00",
+      "priceBasis": "msrp",
+      "priceSource": "https://www.bose.com/p/speakers/bose-soundlink-flex-portable-speaker-2nd-gen/SLFLXII-SPEAKERWIRELESS.html",
+      "priceAsOf": "2026-09-28",
+      "summary": "Compact, floating IP67 Bluetooth 5.3 speaker with PositionIQ, a built-in mic and up to 12 hours of battery.",
+      "description": "SoundLink Flex (2nd Gen) is a rugged mono speaker with PositionIQ technology that tunes sound to its orientation. It is IP67 dust and water resistant and floats, runs up to 12 hours per charge over Bluetooth 5.3, and pairs with compatible Bose speakers for stereo or party mode.",
+      "keywords": "soundlink flex 2nd gen portable waterproof bluetooth speaker bose",
+      "specs": {
+        "connectivity": "Bluetooth 5.3, USB-C charging",
+        "batteryHours": 12,
+        "waterResistance": "IP67 (floats)",
+        "channels": "Mono",
+        "weightG": 586
+      },
+      "colors": [
+        "Black",
+        "Blue Dusk",
+        "Dewdrop Mint",
+        "Rosewood Mauve",
+        "Petal Pink"
+      ],
+      "sources": {
+        "product": "https://www.bose.com/p/speakers/bose-soundlink-flex-portable-speaker-2nd-gen/SLFLXII-SPEAKERWIRELESS.html",
+        "retrievedAt": "2026-09-28",
+        "notes": "Weight converted from Bose's 1.291 lb."
+      },
+      "image": {
+        "url": "https://assets.bosecreative.com/transform/f555c350-f979-4e8b-a161-009bb54bc1d8/FY27_SLFLXIILE27-DewdropMint_PDP_EcomGal1_Silo_1500x1120?format=jpg&quality=95",
+        "page": "https://www.bose.com/p/speakers/bose-soundlink-flex-portable-speaker-2nd-gen/SLFLXII-SPEAKERWIRELESS.html",
+        "sourceType": "manufacturer-product-page",
+        "rights": "Official Bose.com product gallery image; Bose has not granted a reuse license — rights not verified.",
+        "credit": "Bose",
+        "alt": "Bose SoundLink Flex (2nd Gen) portable speaker in Dewdrop Mint, front view",
+        "match": "EXACT"
+      }
+    },
+    {
+      "sku": "TK-SONOS-BEAM-ULTRA",
+      "slug": "sonos-beam-ultra",
+      "name": "Sonos Beam Ultra",
+      "brand": "Sonos",
+      "category": "home-audio",
+      "price": "699.00",
+      "priceBasis": "msrp",
+      "priceSource": "https://newsroom.sonos.com/269788-sonos-welcomes-beam-ultra-and-sonos-ace-ultra-to-its-system/",
+      "priceAsOf": "2026-09-28",
+      "releaseYear": 2026,
+      "summary": "Sonos' new compact soundbar with nine custom drivers, including two up-firing drivers, for true 7.1.2 Dolby Atmos over HDMI eARC, Wi-Fi and Bluetooth.",
+      "description": "Beam Ultra keeps Beam's compact form while adding nine custom drivers, including two dedicated up-firing drivers, for true 7.1.2 Dolby Atmos and warmer bass. A redesigned center channel improves dialogue, with four levels of AI Speech Enhancement and Night Sound. It connects over Wi-Fi, Bluetooth and HDMI eARC, is tuned by Trueplay and can be expanded with a Sub and rear surrounds.",
+      "keywords": "beam ultra sonos soundbar dolby atmos 7.1.2 home theater 2026",
+      "specs": {
+        "connectivity": "HDMI eARC, Wi-Fi, Bluetooth",
+        "drivers": "9 custom drivers incl. 2 up-firing",
+        "channels": "7.1.2 Dolby Atmos"
+      },
+      "colors": [
+        "Black",
+        "White"
+      ],
+      "featured": true,
+      "sources": {
+        "product": "https://newsroom.sonos.com/269788-sonos-welcomes-beam-ultra-and-sonos-ace-ultra-to-its-system/",
+        "retrievedAt": "2026-09-28",
+        "notes": "sonos.com returns HTTP 403 to automated requests; price and specs from the Sonos Newsroom announcement (Sept 1, 2026; pre-order now, general availability Sept 29, 2026)."
+      },
+      "image": {
+        "url": "https://d21buns5ku92am.cloudfront.net/70256/images/698048-Beam%20Ultra%20black%20render%20still-743b51-large-1788192903.JPG",
+        "page": "https://newsroom.sonos.com/assets/categories/5465/",
+        "sourceType": "manufacturer-press",
+        "rights": "Sonos Newsroom media kit image, published for press use; no general reuse license verified.",
+        "credit": "Sonos",
+        "alt": "Sonos Beam Ultra soundbar in Black, straight-on front view on a light grey background",
+        "match": "EXACT"
+      }
+    },
+    {
+      "sku": "TK-SONOS-ACE-ULTRA",
+      "slug": "sonos-ace-ultra",
+      "name": "Sonos Ace Ultra",
+      "brand": "Sonos",
+      "category": "headphones",
+      "price": "449.00",
+      "priceBasis": "msrp",
+      "priceSource": "https://newsroom.sonos.com/269788-sonos-welcomes-beam-ultra-and-sonos-ace-ultra-to-its-system/",
+      "priceAsOf": "2026-09-28",
+      "releaseYear": 2026,
+      "summary": "Sonos' newest premium over-ear headphones with a Sonos-designed 40 mm driver, 10-mic adaptive ANC, up to 35 hours with ANC and direct Sonos system linking.",
+      "description": "Sonos Ace Ultra is built around a new Sonos-designed 40 mm driver and next-generation Adaptive ANC powered by ten microphones, with up to 35 hours of battery life with ANC on. It is the first headphone on Headphone Engine 2, which links it directly to a Sonos system so a single press moves sound from speakers to headphones. It also connects over USB-C and 3.5 mm.",
+      "keywords": "sonos ace ultra headphones anc over-ear 2026",
+      "specs": {
+        "connectivity": "Bluetooth, USB-C audio, 3.5 mm, Sonos system linking",
+        "noiseCancelling": true,
+        "batteryHours": 35,
+        "drivers": "40 mm Sonos-designed dynamic drivers"
+      },
+      "featured": true,
+      "sources": {
+        "product": "https://newsroom.sonos.com/269788-sonos-welcomes-beam-ultra-and-sonos-ace-ultra-to-its-system/",
+        "retrievedAt": "2026-09-28",
+        "notes": "sonos.com returns HTTP 403 to automated requests; price and specs from the Sonos Newsroom announcement (Sept 1, 2026). No image: the official media kit contains only lifestyle photos with people."
+      }
+    },
+    {
+      "sku": "TK-SONOS-ARC-ULTRA",
+      "slug": "sonos-arc-ultra",
+      "name": "Sonos Arc Ultra",
+      "brand": "Sonos",
+      "category": "home-audio",
+      "price": "999.00",
+      "priceBasis": "estimate",
+      "releaseYear": 2024,
+      "summary": "Premium Dolby Atmos soundbar with 14 Sonos-engineered drivers, including a Sound Motion woofer, for 9.1.4 spatial audio.",
+      "description": "Arc Ultra is Sonos' premium soundbar, with 14 drivers including the Sound Motion woofer that delivers up to double the bass of the original Arc and a 9.1.4 spatial audio experience with Dolby Atmos. A new center channel and advanced Speech Enhancement improve dialogue, and it connects over HDMI eARC with Bluetooth line-in, Trueplay tuning and Sonos Voice Control or Alexa.",
+      "keywords": "arc ultra sonos soundbar dolby atmos 9.1.4 sound motion",
+      "specs": {
+        "connectivity": "HDMI eARC, Wi-Fi, Bluetooth",
+        "drivers": "14 drivers incl. Sound Motion woofer",
+        "channels": "9.1.4 spatial audio"
+      },
+      "colors": [
+        "Black",
+        "White"
+      ],
+      "featured": false,
+      "notes": "Price is an estimate: the $999 launch MSRP from the Oct 2024 Sonos Newsroom release. sonos.com blocks automated requests (403), so the current store price could not be verified.",
+      "sources": {
+        "product": "https://www.sonos.com/en-us/shop/arc-ultra",
+        "specs": "https://newsroom.sonos.com/254655-sonos-reveals-arc-ultra-its-new-soundbar-featuring-sound-motion/",
+        "retrievedAt": "2026-09-28"
+      },
+      "image": {
+        "url": "https://d21buns5ku92am.cloudfront.net/70256/images/621595-arcultra-anglehero-black-89560f-large-1761216148.jpg",
+        "page": "https://newsroom.sonos.com/assets/categories/3892/",
+        "sourceType": "manufacturer-press",
+        "rights": "Sonos Newsroom media kit image, published for press use; no general reuse license verified.",
+        "credit": "Sonos",
+        "alt": "Sonos Arc Ultra soundbar in Black, angled hero view on a light grey background",
+        "match": "EXACT"
+      }
+    },
+    {
+      "sku": "TK-SONOS-SUB-4",
+      "slug": "sonos-sub-4",
+      "name": "Sonos Sub 4",
+      "brand": "Sonos",
+      "category": "home-audio",
+      "price": "799.00",
+      "priceBasis": "estimate",
+      "releaseYear": 2024,
+      "summary": "Wireless subwoofer with dual force-cancelling woofers, new Wi-Fi radios and more processing power, for Arc Ultra, Arc and Beam.",
+      "description": "Sub 4 uses two inward-facing custom woofers in a force-canceling arrangement that eliminates buzz and rattle. Compared with the previous generation it adds more processing power and memory, new Wi-Fi radios and nearly 50% lower idle power consumption, in the same sculptural design with a matte finish. It pairs with Arc Ultra, Arc or Beam, and two subs can be paired together.",
+      "keywords": "sonos sub 4 wireless subwoofer home theater",
+      "specs": {
+        "connectivity": "Wi-Fi",
+        "drivers": "2 force-cancelling woofers",
+        "channels": "Subwoofer (.1)"
+      },
+      "colors": [
+        "Black",
+        "White"
+      ],
+      "notes": "Price is an estimate: the $799 launch MSRP from the Oct 2024 Sonos Newsroom release. sonos.com blocks automated requests (403), so the current store price could not be verified.",
+      "sources": {
+        "product": "https://www.sonos.com/en-us/shop/sub-4",
+        "specs": "https://newsroom.sonos.com/254655-sonos-reveals-arc-ultra-its-new-soundbar-featuring-sound-motion/",
+        "retrievedAt": "2026-09-28"
+      },
+      "image": {
+        "url": "https://d21buns5ku92am.cloudfront.net/70256/images/621612-sub4-front-black-eed519-large-1761216428.jpg",
+        "page": "https://newsroom.sonos.com/assets/categories/3893/",
+        "sourceType": "manufacturer-press",
+        "rights": "Sonos Newsroom media kit image, published for press use; no general reuse license verified.",
+        "credit": "Sonos",
+        "alt": "Sonos Sub 4 wireless subwoofer in Black, front view on a light grey background",
+        "match": "EXACT"
+      }
+    },
+    {
+      "sku": "TK-SONOS-ERA-300",
+      "slug": "sonos-era-300",
+      "name": "Sonos Era 300",
+      "brand": "Sonos",
+      "category": "home-audio",
+      "price": "449.00",
+      "priceBasis": "estimate",
+      "releaseYear": 2023,
+      "summary": "Spatial audio smart speaker with six drivers that fire left, right, forward and upward for Dolby Atmos music and home theater rears.",
+      "description": "Era 300 places six drivers in an hourglass enclosure that directs sound left, right, forward and upward for spatial audio with Dolby Atmos. It can be used alone, as a stereo pair or as multi-channel surround rears with a Sonos soundbar, and is tuned with Trueplay.",
+      "keywords": "sonos era 300 spatial audio dolby atmos smart speaker",
+      "specs": {
+        "connectivity": "Wi-Fi, Bluetooth",
+        "drivers": "6 drivers (incl. up-firing)",
+        "channels": "Spatial audio (Dolby Atmos)"
+      },
+      "colors": [
+        "Black",
+        "White"
+      ],
+      "notes": "Price is an estimate: the $449 launch MSRP from the Mar 2023 Sonos Newsroom release. sonos.com blocks automated requests (403), so the current store price could not be verified.",
+      "sources": {
+        "product": "https://www.sonos.com/en-us/shop/era-300",
+        "specs": "https://newsroom.sonos.com/254695-sonos-unveils-era-300-and-era-100-the-next-generation-of-smart-speakers-built-for-the-future-of-immersive-listening/",
+        "retrievedAt": "2026-09-28"
+      },
+      "image": {
+        "url": "https://d21buns5ku92am.cloudfront.net/70256/images/621695-era-300-front-black-96921d-large-1761218680.jpg",
+        "page": "https://newsroom.sonos.com/assets/categories/3897/",
+        "sourceType": "manufacturer-press",
+        "rights": "Sonos Newsroom media kit image, published for press use; no general reuse license verified.",
+        "credit": "Sonos",
+        "alt": "Sonos Era 300 spatial audio speaker in Black, front view on a light grey background",
+        "match": "EXACT"
+      }
+    },
+    {
+      "sku": "TK-SONOS-ERA-100-SL",
+      "slug": "sonos-era-100-sl",
+      "name": "Sonos Era 100 SL",
+      "brand": "Sonos",
+      "category": "home-audio",
+      "price": "189.00",
+      "priceBasis": "msrp",
+      "priceSource": "https://newsroom.sonos.com/262995-sonos-returns-to-the-system-that-built-the-brand-with-two-essential-speakers-for-the-home/",
+      "priceAsOf": "2026-09-28",
+      "releaseYear": 2026,
+      "summary": "Mic-free version of the Era 100 smart speaker: room-filling sound that stereo-pairs and works as home theater rears in a Sonos system.",
+      "description": "Era 100 SL is a simplified, more accessible entry to the Sonos system with a mic-free design and streamlined feature set. It delivers room-filling sound on its own and can expand into another room, a stereo pair or a home theater setup over time.",
+      "keywords": "sonos era 100 sl speaker no microphone wifi",
+      "specs": {
+        "connectivity": "Wi-Fi, Bluetooth",
+        "channels": "Stereo-pairable"
+      },
+      "colors": [
+        "Black",
+        "White"
+      ],
+      "sources": {
+        "product": "https://newsroom.sonos.com/262995-sonos-returns-to-the-system-that-built-the-brand-with-two-essential-speakers-for-the-home/",
+        "retrievedAt": "2026-09-28",
+        "notes": "sonos.com returns HTTP 403 to automated requests; price from the Sonos Newsroom launch release (Mar 10, 2026)."
+      },
+      "image": {
+        "url": "https://d21buns5ku92am.cloudfront.net/70256/images/660868-Sonos%20Era%20100%20SL%20-%203q%20Hero%20Black-bbd95b-large-1773118765.JPG",
+        "page": "https://newsroom.sonos.com/assets/categories/4743/",
+        "sourceType": "manufacturer-press",
+        "rights": "Sonos Newsroom media kit image, published for press use; no general reuse license verified.",
+        "credit": "Sonos",
+        "alt": "Sonos Era 100 SL speaker in Black, three-quarter hero view on a light grey background",
+        "match": "EXACT"
+      }
+    },
+    {
+      "sku": "TK-SONOS-PLAY",
+      "slug": "sonos-play",
+      "name": "Sonos Play",
+      "brand": "Sonos",
+      "category": "home-audio",
+      "price": "299.00",
+      "priceBasis": "msrp",
+      "priceSource": "https://newsroom.sonos.com/262995-sonos-returns-to-the-system-that-built-the-brand-with-two-essential-speakers-for-the-home/",
+      "priceAsOf": "2026-09-28",
+      "releaseYear": 2026,
+      "summary": "Portable Wi-Fi and Bluetooth stereo speaker with 24-hour replaceable battery, IP67 rating, built-in power bank and charging base.",
+      "description": "Sonos Play is a versatile stereo speaker that joins the Sonos system over Wi-Fi at home and goes portable over Bluetooth. It offers 24 hours of battery life in an IP67 waterproof design, a built-in power bank and a replaceable battery, automatic Trueplay tuning, AirPlay 2 and Spotify Connect, and can group up to four Play or Move 2 speakers from a Bluetooth connection.",
+      "keywords": "sonos play portable speaker wifi bluetooth ip67 airplay",
+      "specs": {
+        "connectivity": "Wi-Fi, Bluetooth, AirPlay 2, Spotify Connect",
+        "batteryHours": 24,
+        "waterResistance": "IP67",
+        "channels": "Stereo"
+      },
+      "colors": [
+        "Black",
+        "White"
+      ],
+      "sources": {
+        "product": "https://newsroom.sonos.com/262995-sonos-returns-to-the-system-that-built-the-brand-with-two-essential-speakers-for-the-home/",
+        "retrievedAt": "2026-09-28",
+        "notes": "sonos.com returns HTTP 403 to automated requests; price from the Sonos Newsroom launch release (Mar 10, 2026)."
+      },
+      "image": {
+        "url": "https://d21buns5ku92am.cloudfront.net/70256/images/660888-Sonos%20Play%20-%20Front%20Black-16fd83-large-1773119361.JPG",
+        "page": "https://newsroom.sonos.com/assets/categories/4744/",
+        "sourceType": "manufacturer-press",
+        "rights": "Sonos Newsroom media kit image, published for press use; no general reuse license verified.",
+        "credit": "Sonos",
+        "alt": "Sonos Play portable speaker in Black, front view on a light grey background",
+        "match": "EXACT"
+      }
+    },
+    {
+      "sku": "TK-FOCUSRITE-SCARLETT-SOLO-4",
+      "slug": "focusrite-scarlett-solo-4th-gen",
+      "name": "Focusrite Scarlett Solo (4th Gen)",
+      "brand": "Focusrite",
+      "category": "studio-audio",
+      "price": "159.99",
+      "priceBasis": "msrp",
+      "priceSource": "https://us.focusrite.com/products/scarlett-solo",
+      "priceAsOf": "2026-09-28",
+      "summary": "Two-in, two-out USB-C audio interface with one Scarlett mic preamp, a Hi-Z instrument input and 24-bit/192 kHz conversion.",
+      "description": "The 4th-generation Scarlett Solo pairs one ultra-low-noise mic preamp with a front-panel Hi-Z instrument input, Air Presence and Harmonic Drive modes, and 24-bit/192 kHz conversion with 120 dB dynamic range on the line outputs. It is bus-powered over USB-C and ships with Ableton Live Lite, Pro Tools Intro+, Cubase LE and the Hitmaker Expansion bundle.",
+      "keywords": "scarlett solo 4th gen audio interface usb-c focusrite home studio podcast guitar",
+      "specs": {
+        "connectivity": "USB-C (USB 2.0), bus-powered",
+        "inputs": "1 mic preamp (XLR), 1 Hi-Z instrument input; 2 balanced line outputs, 1 headphone output",
+        "resolution": "24-bit/192 kHz",
+        "weightG": 382
+      },
+      "colors": [
+        "Scarlett Red"
+      ],
+      "collections": [
+        "creator-workstations"
+      ],
+      "sources": {
+        "product": "https://focusrite.com/products/scarlett-solo",
+        "retrievedAt": "2026-09-28",
+        "notes": "Price from Focusrite's US store (us.focusrite.com); focusrite.com showed a higher list price ($169.99) on the same day."
+      },
+      "image": {
+        "url": "https://cdn11.bigcommerce.com/s-7exlzlf13h/images/stencil/1280x1280/products/304/807/scarlett-solo-4g__93789.1711664540.png?c=3",
+        "page": "https://us.focusrite.com/products/scarlett-solo",
+        "sourceType": "manufacturer-product-page",
+        "rights": "Official Focusrite US store product image; no reuse license verified.",
+        "credit": "Focusrite",
+        "alt": "Focusrite Scarlett Solo 4th Gen audio interface in red, three-quarter front view",
+        "match": "EXACT"
+      }
+    },
+    {
+      "sku": "TK-FOCUSRITE-SCARLETT-2I2-4",
+      "slug": "focusrite-scarlett-2i2-4th-gen",
+      "name": "Focusrite Scarlett 2i2 (4th Gen)",
+      "brand": "Focusrite",
+      "category": "studio-audio",
+      "price": "224.99",
+      "priceBasis": "msrp",
+      "priceSource": "https://us.focusrite.com/products/scarlett-2i2",
+      "priceAsOf": "2026-09-28",
+      "summary": "Best-selling 2-in/2-out USB-C interface with two ultra-low-noise preamps, Auto Gain, Clip Safe and 120 dB dynamic range.",
+      "description": "Scarlett 2i2 (4th Gen) provides two ultra-low-noise mic preamps with a 69 dB gain range, front-panel line/instrument inputs, Auto Gain and Clip Safe modes, and two Air modes. Conversion runs up to 24-bit/192 kHz with 120 dB dynamic range, and the interface is bus-powered over USB-C.",
+      "keywords": "scarlett 2i2 4th gen audio interface usb-c focusrite recording",
+      "specs": {
+        "connectivity": "USB-C (USB 2.0), bus-powered",
+        "inputs": "2 mic/line/instrument combo inputs; 2 balanced line outputs, 1 headphone output",
+        "resolution": "24-bit/192 kHz",
+        "weightG": 595
+      },
+      "colors": [
+        "Scarlett Red"
+      ],
+      "collections": [
+        "creator-workstations"
+      ],
+      "featured": true,
+      "sources": {
+        "product": "https://focusrite.com/products/scarlett-2i2",
+        "retrievedAt": "2026-09-28",
+        "notes": "Price from Focusrite's US store (us.focusrite.com); focusrite.com showed a higher list price ($239.99) on the same day."
+      },
+      "image": {
+        "url": "https://cdn11.bigcommerce.com/s-7exlzlf13h/images/stencil/1280x1280/products/307/785/scarlett-2i2-top-image-2400-2400__78159.1693324453.png?c=3",
+        "page": "https://us.focusrite.com/products/scarlett-2i2",
+        "sourceType": "manufacturer-product-page",
+        "rights": "Official Focusrite US store product image; no reuse license verified.",
+        "credit": "Focusrite",
+        "alt": "Focusrite Scarlett 2i2 4th Gen two-channel audio interface in red, three-quarter front view",
+        "match": "EXACT"
+      }
+    },
+    {
+      "sku": "TK-FOCUSRITE-SCARLETT-4I4-4",
+      "slug": "focusrite-scarlett-4i4-4th-gen",
+      "name": "Focusrite Scarlett 4i4 (4th Gen)",
+      "brand": "Focusrite",
+      "category": "studio-audio",
+      "price": "309.99",
+      "priceBasis": "msrp",
+      "priceSource": "https://us.focusrite.com/products/scarlett-4i4",
+      "priceAsOf": "2026-09-28",
+      "summary": "Four-in, four-out USB-C interface with two Scarlett preamps, extra line inputs, MIDI I/O and 24-bit/192 kHz conversion.",
+      "description": "Scarlett 4i4 (4th Gen) adds two rear line inputs, four balanced line outputs and MIDI In/Out to two ultra-low-noise mic preamps with Auto Gain, Clip Safe and Air modes. It converts at up to 24-bit/192 kHz with 120 dB dynamic range on the line outputs and is powered over USB-C.",
+      "keywords": "scarlett 4i4 4th gen audio interface midi usb-c focusrite",
+      "specs": {
+        "connectivity": "USB-C (USB 2.0), bus-powered; MIDI In/Out",
+        "inputs": "2 mic/line/instrument inputs, 2 line inputs; 4 balanced line outputs, 1 headphone output",
+        "resolution": "24-bit/192 kHz",
+        "weightG": 798
+      },
+      "colors": [
+        "Scarlett Red"
+      ],
+      "sources": {
+        "product": "https://focusrite.com/products/scarlett-4i4",
+        "retrievedAt": "2026-09-28",
+        "notes": "Price from Focusrite's US store (us.focusrite.com); focusrite.com showed a higher list price ($339.99) on the same day."
+      },
+      "image": {
+        "url": "https://cdn11.bigcommerce.com/s-7exlzlf13h/images/stencil/1280x1280/products/306/786/focusrite-scarlett-4i4__01921.1693324482.png?c=3",
+        "page": "https://us.focusrite.com/products/scarlett-4i4",
+        "sourceType": "manufacturer-product-page",
+        "rights": "Official Focusrite US store product image; no reuse license verified.",
+        "credit": "Focusrite",
+        "alt": "Focusrite Scarlett 4i4 4th Gen audio interface in red with two combo inputs, three-quarter view",
+        "match": "EXACT"
+      }
+    },
+    {
+      "sku": "TK-FOCUSRITE-SCARLETT-18I20-4",
+      "slug": "focusrite-scarlett-18i20-4th-gen",
+      "name": "Focusrite Scarlett 18i20 (4th Gen)",
+      "brand": "Focusrite",
+      "category": "studio-audio",
+      "price": "769.99",
+      "priceBasis": "msrp",
+      "priceSource": "https://us.focusrite.com/products/scarlett-18i20",
+      "priceAsOf": "2026-09-28",
+      "summary": "Rack-mountable 26-in/26-out USB-C interface with eight mic preamps, ADAT and S/PDIF expansion, talkback and dual headphone outputs.",
+      "description": "The 4th-generation Scarlett 18i20 offers eight ultra-low-noise mic/line preamps, up to 16 channels of ADAT I/O plus S/PDIF, ten line outputs with alt speaker switching, MIDI I/O, a built-in talkback mic and two independent headphone outputs. It converts at 24-bit/192 kHz with 122 dB (A-weighted) dynamic range and can sit on a desk or in 1U of rack space.",
+      "keywords": "scarlett 18i20 4th gen rack audio interface 8 preamps adat focusrite studio",
+      "specs": {
+        "connectivity": "USB-C (USB 2.0); ADAT, S/PDIF and MIDI I/O",
+        "inputs": "8 mic/line preamps; 26 inputs / 26 outputs total",
+        "resolution": "24-bit/192 kHz",
+        "weightG": 3304
+      },
+      "colors": [
+        "Black"
+      ],
+      "collections": [
+        "creator-workstations"
+      ],
+      "sources": {
+        "product": "https://focusrite.com/products/scarlett-18i20",
+        "retrievedAt": "2026-09-28",
+        "notes": "Price from Focusrite's US store (us.focusrite.com); focusrite.com showed a higher list price ($829.99) on the same day."
+      },
+      "image": {
+        "url": "https://cdn11.bigcommerce.com/s-7exlzlf13h/images/stencil/1280x1280/products/374/1055/Focusrite_Scarlett_18i20_Angle_1_Web_2400x2400__17735.1725901196.png?c=3",
+        "page": "https://us.focusrite.com/products/scarlett-18i20",
+        "sourceType": "manufacturer-product-page",
+        "rights": "Official Focusrite US store product image; no reuse license verified.",
+        "credit": "Focusrite",
+        "alt": "Focusrite Scarlett 18i20 4th Gen rack-mount audio interface, angled front view",
+        "match": "EXACT"
+      }
+    },
+    {
+      "sku": "TK-SHURE-SM7DB",
+      "slug": "shure-sm7db",
+      "name": "Shure SM7dB",
+      "brand": "Shure",
+      "category": "microphones",
+      "price": "549.00",
+      "priceBasis": "msrp",
+      "priceSource": "https://www.shure.com/en-US/products/microphones/sm7db",
+      "priceAsOf": "2026-09-28",
+      "summary": "Dynamic cardioid vocal microphone based on the SM7B with a built-in, switchable +18/+28 dB preamp powered by phantom power.",
+      "description": "SM7dB is Shure's dynamic vocal microphone with a built-in preamp offering +18 dB or +28 dB of extra gain, or bypass. It keeps the classic cardioid pattern and 50 Hz to 20 kHz response, adds internal shock isolation plus bass roll-off and presence boost controls, and needs +48 V phantom power to run the preamp.",
+      "keywords": "sm7db shure dynamic microphone podcast broadcast built-in preamp xlr",
+      "specs": {
+        "connection": "XLR (+48 V phantom power for the built-in preamp)",
+        "micType": "Dynamic with built-in active preamp",
+        "polarPattern": "Cardioid"
+      },
+      "colors": [
+        "Black"
+      ],
+      "collections": [
+        "creator-workstations"
+      ],
+      "sources": {
+        "product": "https://www.shure.com/en-US/products/microphones/sm7db",
+        "retrievedAt": "2026-09-28",
+        "notes": "No image: Shure's product-image CDN (products.shureweb.eu) returns HTTP 403 to the catalog pipeline's browser User-Agent, so no asset could be fetched normally."
+      }
+    },
+    {
+      "sku": "TK-UA-APOLLO-TWIN-X",
+      "slug": "universal-audio-apollo-twin-x",
+      "name": "Universal Audio Apollo Twin X",
+      "brand": "Universal Audio",
+      "category": "studio-audio",
+      "price": "1499.00",
+      "priceBasis": "starting-at",
+      "priceSource": "https://www.uaudio.com/products/apollo-twin-x",
+      "priceAsOf": "2026-09-28",
+      "summary": "Desktop 10x6 Thunderbolt 3 interface with two Unison preamps, Apollo X Gen 2 conversion and onboard DUO or QUAD Core DSP for realtime UAD plug-ins.",
+      "description": "Apollo Twin X pairs Apollo X Gen 2 conversion (129 dB D/A dynamic range, 24-bit/192 kHz) with two Unison preamps that model classic Neve, API and Manley gear. Onboard DUO or QUAD Core DSP runs UAD plug-ins in real time, and UAD Console adds Auto-Gain, Plug-In Scenes, Monitor Controller, Immersive Audio and Sonarworks monitor correction. Price shown is the DUO model with the Essentials+ bundle; QUAD and Studio+ options cost more.",
+      "keywords": "apollo twin x gen 2 duo quad thunderbolt audio interface unison uad universal audio",
+      "specs": {
+        "connectivity": "Thunderbolt 3",
+        "inputs": "2 Unison mic/line preamps, Hi-Z instrument input, optical (ADAT/S/PDIF); 10 x 6 I/O",
+        "resolution": "24-bit/192 kHz"
+      },
+      "collections": [
+        "creator-workstations"
+      ],
+      "featured": true,
+      "sources": {
+        "product": "https://www.uaudio.com/products/apollo-twin-x",
+        "retrievedAt": "2026-09-28",
+        "notes": "UA's product page shows 'price displayed at checkout'; the price is the variant price published in UA's own store data (uaudio.com)."
+      },
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0558/1724/0665/files/apollo_twin_x_gallery_2_0f59949a-223d-49bb-ba1a-e3464b557151.png?v=1771946781",
+        "page": "https://www.uaudio.com/products/apollo-twin-x",
+        "sourceType": "manufacturer-product-page",
+        "rights": "Official Universal Audio store product image; no reuse license verified.",
+        "credit": "Universal Audio",
+        "alt": "Universal Audio Apollo Twin X desktop interface in silver, top-front view showing the monitor knob and meters",
+        "match": "EXACT"
+      },
+      "variants": [
+        {
+          "label": "DUO, Essentials+ bundle",
+          "price": "1499.00"
+        },
+        {
+          "label": "DUO, Studio+ bundle",
+          "price": "1899.00"
+        },
+        {
+          "label": "QUAD, Essentials+ bundle",
+          "price": "1899.00"
+        },
+        {
+          "label": "QUAD, Studio+ bundle",
+          "price": "2299.00"
+        }
+      ]
+    },
+    {
+      "sku": "TK-UA-APOLLO-X4",
+      "slug": "universal-audio-apollo-x4",
+      "name": "Universal Audio Apollo x4",
+      "brand": "Universal Audio",
+      "category": "studio-audio",
+      "price": "2499.00",
+      "priceBasis": "starting-at",
+      "priceSource": "https://www.uaudio.com/products/apollo-x4",
+      "priceAsOf": "2026-09-28",
+      "summary": "12x18 Thunderbolt 3 desktop interface with four Unison preamps, QUAD Core DSP and Apollo X Gen 2 conversion.",
+      "description": "Apollo x4 offers four Unison preamps with dual front-panel Hi-Z inputs, 24-bit/192 kHz Apollo X Gen 2 conversion with 129 dB D/A dynamic range, and QUAD Core DSP for realtime UAD plug-ins. I/O includes monitor and line outputs, two headphone outputs and optical ADAT/S-PDIF. Price shown is with the Essentials+ bundle.",
+      "keywords": "apollo x4 gen 2 quad thunderbolt audio interface unison universal audio",
+      "specs": {
+        "connectivity": "Thunderbolt 3",
+        "inputs": "4 Unison mic preamps, 2 Hi-Z inputs, optical (ADAT/S/PDIF); 12 x 18 I/O",
+        "resolution": "24-bit/192 kHz"
+      },
+      "sources": {
+        "product": "https://www.uaudio.com/products/apollo-x4",
+        "retrievedAt": "2026-09-28",
+        "notes": "UA's product page shows 'price displayed at checkout'; the price is the variant price published in UA's own store data (uaudio.com)."
+      },
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0558/1724/0665/files/apollo_x4_gallery_2_00d24f49-66d4-4070-9dea-21eb523ea106.png?v=1742246525",
+        "page": "https://www.uaudio.com/products/apollo-x4",
+        "sourceType": "manufacturer-product-page",
+        "rights": "Official Universal Audio store product image; no reuse license verified.",
+        "credit": "Universal Audio",
+        "alt": "Universal Audio Apollo x4 desktop interface in silver, top-front view with front-panel inputs",
+        "match": "EXACT"
+      },
+      "variants": [
+        {
+          "label": "Essentials+ bundle",
+          "price": "2499.00"
+        },
+        {
+          "label": "Studio+ bundle",
+          "price": "2899.00"
+        }
+      ]
+    },
+    {
+      "sku": "TK-UA-VOLT-276",
+      "slug": "universal-audio-volt-276",
+      "name": "Universal Audio Volt 276",
+      "brand": "Universal Audio",
+      "category": "studio-audio",
+      "price": "374.00",
+      "priceBasis": "msrp",
+      "priceSource": "https://www.uaudio.com/products/volt-276-usb-audio-interface",
+      "priceAsOf": "2026-09-28",
+      "summary": "Two-in/two-out USB-C interface with UA 610-inspired Vintage preamp mode, a built-in analog 76 compressor and MIDI I/O.",
+      "description": "Volt 276 is a bus-powered, class-compliant USB interface with two preamps featuring a Vintage mic preamp mode inspired by the UA 610, plus the 76 Compressor, an analog circuit based on the 1176. It converts at 24-bit/192 kHz, adds MIDI in/out and direct monitoring, and works with Mac, PC, iPad and iPhone.",
+      "keywords": "volt 276 usb audio interface 1176 compressor 610 preamp universal audio",
+      "specs": {
+        "connectivity": "USB-C (USB 2.0), bus-powered; MIDI In/Out",
+        "inputs": "2 mic/line/instrument inputs; 2 outputs + headphones",
+        "resolution": "24-bit/192 kHz"
+      },
+      "sources": {
+        "product": "https://www.uaudio.com/products/volt-276-usb-audio-interface",
+        "retrievedAt": "2026-09-28",
+        "notes": "UA's product page shows 'price displayed at checkout'; the price is the variant price published in UA's own store data (uaudio.com)."
+      },
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0558/1724/0665/files/volt_276_gallery_1_aa384cd3-b337-482e-9e74-0c183d738b91.png?v=1776195286",
+        "page": "https://www.uaudio.com/products/volt-276-usb-audio-interface",
+        "sourceType": "manufacturer-product-page",
+        "rights": "Official Universal Audio store product image; no reuse license verified.",
+        "credit": "Universal Audio",
+        "alt": "Universal Audio Volt 276 USB audio interface with wood side panels, top-down view of the controls",
+        "match": "EXACT"
+      }
+    },
+    {
+      "sku": "TK-UA-SD1",
+      "slug": "universal-audio-sd-1",
+      "name": "Universal Audio SD-1 Dynamic Microphone",
+      "brand": "Universal Audio",
+      "category": "microphones",
+      "price": "374.00",
+      "priceBasis": "msrp",
+      "priceSource": "https://www.uaudio.com/products/sd-1-standard-dynamic-microphone",
+      "priceAsOf": "2026-09-28",
+      "summary": "Cardioid dynamic vocal microphone with Hemisphere mic modeling, built-in shockmount, low-cut filter and articulation boost.",
+      "description": "SD-1 is UA's flagship dynamic modeling microphone: a cardioid dynamic capsule with 50 Hz to 16 kHz response and XLR output, plus Hemisphere mic modeling software that recreates popular classic microphones. It has an integrated shockmount and windscreen, a 200 Hz low-cut filter and a 3-5 kHz articulation boost, and weighs 735 g.",
+      "keywords": "sd-1 universal audio dynamic microphone hemisphere modeling podcast vocal",
+      "specs": {
+        "connection": "XLR (3-pin)",
+        "micType": "Dynamic",
+        "polarPattern": "Cardioid"
+      },
+      "sources": {
+        "product": "https://www.uaudio.com/products/sd-1-standard-dynamic-microphone",
+        "retrievedAt": "2026-09-28",
+        "notes": "UA's product page shows 'price displayed at checkout'; the price is the variant price published in UA's own store data (uaudio.com)."
+      },
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0558/1724/0665/files/sd-1_gallery_4_1280853b-1710-46d3-9197-b2b242df4d94.png?v=1747838414",
+        "page": "https://www.uaudio.com/products/sd-1-standard-dynamic-microphone",
+        "sourceType": "manufacturer-product-page",
+        "rights": "Official Universal Audio store product image; no reuse license verified.",
+        "credit": "Universal Audio",
+        "alt": "Universal Audio SD-1 dynamic microphone in cream with black windscreen on its yoke mount, angled view",
+        "match": "EXACT"
+      }
+    },
+    {
+      "sku": "TK-JBL-PULSE-6",
+      "slug": "jbl-pulse-6",
+      "name": "JBL Pulse 6",
+      "brand": "JBL",
+      "category": "home-audio",
+      "price": "329.95",
+      "priceBasis": "msrp",
+      "priceSource": "https://news.harman.com/releases/jbl-pulse-6-is-here-to-light-up-every-beat",
+      "priceAsOf": "2026-09-28",
+      "releaseYear": 2026,
+      "summary": "Portable Bluetooth 6.0 speaker with a 360-degree lightshow, illuminated handle, AI Sound Boost, Auracast, IP68 and up to 12 hours of playback.",
+      "description": "JBL Pulse 6 combines JBL sound tuned by AI Sound Boost with a customizable 360-degree lightshow and a new illuminated handle. It supports Bluetooth 6.0, Auracast multi-speaker linking and stereo pairing, lossless playback over USB-C, and sync with PartyBox speakers. Battery life is up to 12 hours and the speaker is IP68 waterproof and dustproof.",
+      "keywords": "jbl pulse 6 bluetooth speaker light show portable ip68 auracast 2026",
+      "specs": {
+        "connectivity": "Bluetooth 6.0, Auracast, USB-C (lossless audio)",
+        "batteryHours": 12,
+        "waterResistance": "IP68"
+      },
+      "colors": [
+        "Black"
+      ],
+      "sources": {
+        "product": "https://news.harman.com/releases/jbl-pulse-6-is-here-to-light-up-every-beat",
+        "retrievedAt": "2026-09-28",
+        "notes": "jbl.com returns HTTP 403 to automated requests; price and specs from the HARMAN Newsroom launch release (Aug 26, 2026, shipping Sept 6, 2026)."
+      },
+      "image": {
+        "url": "https://iprsoftwaremedia.com/214/files/20267/aa5eff440959d5e3825c7bd45a026bfa/JBL%20PULSE%206%20Black-2.png?download=true",
+        "page": "https://news.harman.com/releases/jbl-pulse-6-is-here-to-light-up-every-beat",
+        "sourceType": "manufacturer-press",
+        "rights": "HARMAN Newsroom press image, published for media use; no general reuse license verified.",
+        "credit": "JBL (HARMAN)",
+        "alt": "JBL Pulse 6 portable speaker in black with its 360-degree lightshow glowing, front view",
+        "match": "EXACT"
+      }
+    },
+    {
+      "sku": "TK-KEF-LS50-WIRELESS-II",
+      "slug": "kef-ls50-wireless-ii",
+      "name": "KEF LS50 Wireless II",
+      "brand": "KEF",
+      "category": "home-audio",
+      "price": "2999.99",
+      "priceBasis": "msrp",
+      "priceSource": "https://us.kef.com/products/ls50-wireless-2",
+      "priceAsOf": "2026-09-28",
+      "summary": "All-in-one wireless HiFi speaker pair with Uni-Q drivers and Metamaterial Absorption Technology, 380 W per speaker and HDMI eARC.",
+      "description": "LS50 Wireless II is a fully active stereo pair built around KEF's 12th-generation Uni-Q driver with Metamaterial Absorption Technology. It streams via AirPlay 2, Google Cast, Roon Ready, Spotify Connect, Tidal Connect and Bluetooth, and connects to a TV over HDMI eARC as well as optical, coaxial and analog inputs, with network playback up to 24-bit/384 kHz.",
+      "keywords": "kef ls50 wireless ii 2 active speakers hifi streaming hdmi uni-q",
+      "specs": {
+        "connectivity": "Wi-Fi, Ethernet, Bluetooth 5.0, HDMI eARC, optical, coaxial, 3.5 mm aux; AirPlay 2, Google Cast, Roon Ready",
+        "drivers": "130 mm aluminium cone LF + 25 mm vented aluminium dome HF (Uni-Q with MAT) per speaker",
+        "channels": "Stereo pair",
+        "powerW": 760
+      },
+      "colors": [
+        "Carbon Black",
+        "Mineral White",
+        "Sand Shell",
+        "Moss Green"
+      ],
+      "featured": true,
+      "sources": {
+        "product": "https://us.kef.com/products/ls50-wireless-2",
+        "retrievedAt": "2026-09-28",
+        "notes": "Price is per pair. powerW = 2 x (280 W LF + 100 W HF) per KEF amplifier specs."
+      },
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0819/0473/0361/files/ls50-wireless-2_sp4025b_product__front-side_3198af99-a081-4f08-b86e-99766d3c5493.png?v=1787120755",
+        "page": "https://us.kef.com/products/ls50-wireless-2",
+        "sourceType": "manufacturer-product-page",
+        "rights": "Official KEF US store product image; no reuse license verified.",
+        "credit": "KEF",
+        "alt": "Pair of KEF LS50 Wireless II speakers in Carbon Black with copper Uni-Q drivers, front-side view",
+        "match": "EXACT"
+      }
+    },
+    {
+      "sku": "TK-KEF-LSX-II-LT",
+      "slug": "kef-lsx-ii-lt",
+      "name": "KEF LSX II LT",
+      "brand": "KEF",
+      "category": "home-audio",
+      "price": "999.99",
+      "priceBasis": "msrp",
+      "priceSource": "https://us.kef.com/products/lsx-2-lt",
+      "priceAsOf": "2026-09-28",
+      "summary": "Compact wireless HiFi speaker pair with Uni-Q drivers, HDMI ARC, USB-C and optical inputs, and AirPlay 2 / Chromecast streaming.",
+      "description": "LSX II LT shares the sound and key technologies of LSX II at a lower price. Each speaker uses a Uni-Q array (19 mm aluminium dome and 115 mm magnesium/aluminium cone) with 100 W of amplification, driven by KEF's Music Integrity Engine. It streams over AirPlay 2, Chromecast, Spotify Connect and Tidal Connect, and adds HDMI ARC, optical, USB-C, Bluetooth 5.0 and a subwoofer output.",
+      "keywords": "kef lsx ii lt wireless speakers compact hifi hdmi usb-c desktop",
+      "specs": {
+        "connectivity": "Wi-Fi, Ethernet, Bluetooth 5.0, HDMI ARC, optical, USB-C; AirPlay 2, Chromecast",
+        "drivers": "Uni-Q: 19 mm aluminium dome + 115 mm Mg/Al cone per speaker",
+        "channels": "Stereo pair",
+        "powerW": 200
+      },
+      "colors": [
+        "Graphite Grey",
+        "Sage Green",
+        "Stone White"
+      ],
+      "sources": {
+        "product": "https://us.kef.com/products/lsx-2-lt",
+        "retrievedAt": "2026-09-28",
+        "notes": "Price is per pair. powerW = 2 x 100 W (30 W HF + 70 W LF)."
+      },
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0819/0473/0361/files/lsx-2-lt_sp4077j2_product__front-side.png?v=1787143230",
+        "page": "https://us.kef.com/products/lsx-2-lt",
+        "sourceType": "manufacturer-product-page",
+        "rights": "Official KEF US store product image; no reuse license verified.",
+        "credit": "KEF",
+        "alt": "Pair of KEF LSX II LT compact wireless speakers in Sage Green, front-side view",
+        "match": "EXACT"
+      }
+    },
+    {
+      "sku": "TK-KEF-XIO",
+      "slug": "kef-xio-soundbar",
+      "name": "KEF XIO Soundbar",
+      "brand": "KEF",
+      "category": "home-audio",
+      "price": "2499.99",
+      "priceBasis": "msrp",
+      "priceSource": "https://us.kef.com/products/xio-soundbar",
+      "priceAsOf": "2026-09-28",
+      "summary": "5.1.2 Dolby Atmos soundbar with 12 drivers including six Uni-Q MX arrays, HDMI 2.1 eARC, Wi-Fi 6E, AirPlay 2 and Google Cast.",
+      "description": "XIO is KEF's flagship soundbar: a 5.1.2 system with 12 drivers (six 50 mm Uni-Q MX, two full-range and four P185 low-frequency drivers with VECO) driven by 12 Class D amplifiers. It supports Dolby Atmos, DTS:X, 360 Reality Audio and MPEG-H, and connects via HDMI 2.1 eARC, optical, Ethernet, Wi-Fi, Bluetooth 5.3, AirPlay 2 and Google Cast.",
+      "keywords": "kef xio soundbar dolby atmos 5.1.2 uni-q hdmi earc",
+      "specs": {
+        "connectivity": "HDMI 2.1 eARC, optical, Ethernet, Wi-Fi (2.4/5/6 GHz), Bluetooth 5.3, AirPlay 2, Google Cast",
+        "drivers": "12 drivers: 6x 50 mm Uni-Q MX, 2x 50 mm full-range, 4x P185 LF",
+        "channels": "5.1.2",
+        "weightG": 10500
+      },
+      "colors": [
+        "Silver Grey",
+        "Slate Black"
+      ],
+      "sources": {
+        "product": "https://us.kef.com/products/xio-soundbar",
+        "retrievedAt": "2026-09-28"
+      },
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0819/0473/0361/files/xio-soundbar_sp4083m0_product__front-side.png?v=1787143338",
+        "page": "https://us.kef.com/products/xio-soundbar",
+        "sourceType": "manufacturer-product-page",
+        "rights": "Official KEF US store product image; no reuse license verified.",
+        "credit": "KEF",
+        "alt": "KEF XIO soundbar in Silver Grey, angled front-side view",
+        "match": "EXACT"
+      }
+    },
+    {
+      "sku": "TK-KEF-CODA-W",
+      "slug": "kef-coda-w",
+      "name": "KEF Coda W",
+      "brand": "KEF",
+      "category": "home-audio",
+      "price": "999.99",
+      "priceBasis": "msrp",
+      "priceSource": "https://us.kef.com/products/coda-w",
+      "priceAsOf": "2026-09-28",
+      "summary": "Powered stereo speaker pair with 12th-gen Uni-Q drivers, aptX Lossless Bluetooth 5.4, HDMI ARC, USB-C, phono and optical inputs.",
+      "description": "Coda W is an all-in-one powered stereo pair using a 5.25-inch 12th-generation Uni-Q driver array (25 mm aluminium dome tweeter and 130 mm magnesium/aluminium cone) with 100 W per speaker. Connections include Bluetooth 5.4 with aptX Adaptive and aptX Lossless, HDMI ARC, USB-C, phono and line RCA, optical and a subwoofer output.",
+      "keywords": "kef coda w powered speakers bluetooth aptx lossless phono hdmi",
+      "specs": {
+        "connectivity": "Bluetooth 5.4, HDMI ARC, USB-C, RCA phono/line, optical",
+        "drivers": "5.25-in Uni-Q: 25 mm aluminium dome + 130 mm Mg/Al cone per speaker",
+        "codecs": "aptX Adaptive, aptX Lossless",
+        "channels": "Stereo pair",
+        "powerW": 200
+      },
+      "colors": [
+        "Vintage Burgundy",
+        "Moss Green",
+        "Dark Titanium",
+        "Midnight Blue",
+        "Nickel Grey"
+      ],
+      "sources": {
+        "product": "https://us.kef.com/products/coda-w",
+        "retrievedAt": "2026-09-28",
+        "notes": "Price is per pair. powerW = 2 x 100 W (30 W HF + 70 W LF)."
+      },
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0819/0473/0361/files/coda-w_sp4072k2_product__front.png?v=1787121279",
+        "page": "https://us.kef.com/products/coda-w",
+        "sourceType": "manufacturer-product-page",
+        "rights": "Official KEF US store product image; no reuse license verified.",
+        "credit": "KEF",
+        "alt": "Pair of KEF Coda W powered speakers in Vintage Burgundy, front view",
+        "match": "EXACT"
+      }
+    },
+    {
+      "sku": "TK-NOTHING-HEADPHONE-1",
+      "slug": "nothing-headphone-1",
+      "name": "Nothing Headphone (1)",
+      "brand": "Nothing",
+      "category": "headphones",
+      "price": "299.00",
+      "priceBasis": "msrp",
+      "priceSource": "https://us.nothing.tech/products/headphone-1",
+      "priceAsOf": "2026-09-28",
+      "summary": "Transparent-design over-ear headphones with sound by KEF, real-time adaptive ANC, LDAC, USB-C and 3.5 mm audio, and up to 80 hours of playback.",
+      "description": "Headphone (1) is Nothing's first over-ear headphone, tuned with KEF and built with Nothing's transparent industrial design. It offers real-time adaptive noise cancellation, LDAC Hi-Res wireless audio over Bluetooth 5.3 with dual connection, USB-C audio and a 3.5 mm jack, an IP52 rating and up to 80 hours of playback.",
+      "keywords": "nothing headphone 1 kef anc ldac over-ear transparent",
+      "specs": {
+        "connectivity": "Bluetooth 5.3 (dual connection), USB-C audio, 3.5 mm",
+        "noiseCancelling": true,
+        "batteryHours": 80,
+        "codecs": "LDAC (Hi-Res certified)",
+        "waterResistance": "IP52"
+      },
+      "colors": [
+        "Black",
+        "White"
+      ],
+      "sources": {
+        "product": "https://us.nothing.tech/products/headphone-1",
+        "retrievedAt": "2026-09-28",
+        "notes": "80-hour figure is Nothing's headline maximum playback (ANC off)."
+      },
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0579/8091/1768/files/headphone-1-black-3_4-view-thumbnail.webp",
+        "page": "https://us.nothing.tech/products/headphone-1",
+        "sourceType": "manufacturer-product-page",
+        "rights": "Official Nothing US store product image; no reuse license verified.",
+        "credit": "Nothing",
+        "alt": "Nothing Headphone (1) in Black, three-quarter view showing the transparent ear-cup design",
+        "match": "EXACT"
+      }
+    },
+    {
+      "sku": "TK-NOTHING-EAR-3",
+      "slug": "nothing-ear-3",
+      "name": "Nothing Ear (3)",
+      "brand": "Nothing",
+      "category": "earbuds",
+      "price": "179.00",
+      "priceBasis": "msrp",
+      "priceSource": "https://us.nothing.tech/products/ear-3",
+      "priceAsOf": "2026-09-28",
+      "summary": "Transparent ANC earbuds with 12 mm drivers, up to 45 dB noise cancelling, LDAC 24-bit audio, Bluetooth 5.4 and IP54 buds and case.",
+      "description": "Ear (3) uses an upgraded 12 mm dynamic driver in an aerospace-material housing, adaptive noise cancellation rated up to 45 dB and LDAC 24-bit Hi-Res audio. A 55 mAh battery in each bud gives up to 5.5 hours with ANC on, the wireless-charging case extends that to 38 hours, and both buds and case are IP54 rated.",
+      "keywords": "nothing ear 3 earbuds anc ldac transparent wireless",
+      "specs": {
+        "connectivity": "Bluetooth 5.4 (dual connection)",
+        "noiseCancelling": true,
+        "batteryHours": 5.5,
+        "drivers": "12 mm dynamic driver",
+        "codecs": "LDAC (24-bit Hi-Res)",
+        "waterResistance": "IP54 (earbuds and case)"
+      },
+      "colors": [
+        "Black",
+        "White"
+      ],
+      "sources": {
+        "product": "https://us.nothing.tech/products/ear-3",
+        "retrievedAt": "2026-09-28",
+        "notes": "Nothing's store showed a temporary sale price of $149 (list $179) on 2026-09-28. batteryHours is per charge with ANC on."
+      },
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0579/8091/1768/files/Ear3-black.png",
+        "page": "https://us.nothing.tech/products/ear-3",
+        "sourceType": "manufacturer-product-page",
+        "rights": "Official Nothing US store product image; no reuse license verified.",
+        "credit": "Nothing",
+        "alt": "Nothing Ear (3) earbuds in Black inside the open transparent charging case, top view",
+        "match": "EXACT"
+      }
+    },
+    {
+      "sku": "TK-BEYERDYNAMIC-DT770-PRO-X",
+      "slug": "beyerdynamic-dt-770-pro-x",
+      "name": "beyerdynamic DT 770 PRO X",
+      "brand": "beyerdynamic",
+      "category": "studio-audio",
+      "price": "229.99",
+      "priceBasis": "msrp",
+      "priceSource": "https://north-america.beyerdynamic.com/p/dt-770-pro-x",
+      "priceAsOf": "2026-09-28",
+      "summary": "Closed-back 48-ohm studio headphones with the STELLAR.45 driver, detachable mini-XLR cable and German-made replaceable parts.",
+      "description": "DT 770 PRO X is a closed-back, circumaural studio headphone built around beyerdynamic's STELLAR.45 driver, with 48-ohm impedance for use with mobile devices as well as studio gear. It covers 5 Hz to 40 kHz, weighs 305 g without cable, and uses a detachable mini-XLR cable; nearly all components are replaceable.",
+      "keywords": "beyerdynamic dt 770 pro x closed back studio headphones stellar.45 48 ohm",
+      "specs": {
+        "connectivity": "Wired: detachable mini-XLR cable, 3.5 mm with 6.35 mm adapter",
+        "noiseCancelling": false,
+        "drivers": "STELLAR.45 dynamic, closed-back, 48 ohm",
+        "weightG": 305
+      },
+      "colors": [
+        "Black"
+      ],
+      "collections": [
+        "creator-workstations"
+      ],
+      "sources": {
+        "product": "https://north-america.beyerdynamic.com/p/dt-770-pro-x",
+        "retrievedAt": "2026-09-28"
+      },
+      "image": {
+        "url": "https://api.beyerdynamic.de/media/catalog/product/d/t/dt-770-pro-x-beyerdynamic-perspective.png?store=usa_en&image-type=image",
+        "page": "https://north-america.beyerdynamic.com/p/dt-770-pro-x",
+        "sourceType": "manufacturer-product-page",
+        "rights": "Official beyerdynamic North America store product image; no reuse license verified.",
+        "credit": "beyerdynamic",
+        "alt": "beyerdynamic DT 770 PRO X closed-back studio headphones with grey velour pads, perspective view",
+        "match": "EXACT"
+      }
+    },
+    {
+      "sku": "TK-BEYERDYNAMIC-DT900-PRO-X",
+      "slug": "beyerdynamic-dt-900-pro-x",
+      "name": "beyerdynamic DT 900 PRO X",
+      "brand": "beyerdynamic",
+      "category": "studio-audio",
+      "price": "319.99",
+      "priceBasis": "msrp",
+      "priceSource": "https://north-america.beyerdynamic.com/p/dt-900-pro-x",
+      "priceAsOf": "2026-09-28",
+      "summary": "Open-back 48-ohm studio headphones for mixing and mastering, with the STELLAR.45 driver and detachable mini-XLR cables.",
+      "description": "DT 900 PRO X is beyerdynamic's open-back studio headphone for critical listening, mixing and mastering, delivering a detailed, spacious sound from the STELLAR.45 driver. It has 48-ohm impedance, a 5 Hz to 40 kHz response, weighs 345 g without cable and ships with 3 m and 1.8 m mini-XLR cables.",
+      "keywords": "beyerdynamic dt 900 pro x open back studio mixing headphones stellar.45",
+      "specs": {
+        "connectivity": "Wired: detachable mini-XLR cables (3 m and 1.8 m), 3.5 mm with 6.35 mm adapter",
+        "noiseCancelling": false,
+        "drivers": "STELLAR.45 dynamic, open-back, 48 ohm",
+        "weightG": 345
+      },
+      "colors": [
+        "Black"
+      ],
+      "sources": {
+        "product": "https://north-america.beyerdynamic.com/p/dt-900-pro-x",
+        "retrievedAt": "2026-09-28"
+      },
+      "image": {
+        "url": "https://api.beyerdynamic.de/media/catalog/product/b/e/beyerdynamic-dt-900-pro-x-perspective_transparent.png?store=usa_en&image-type=image",
+        "page": "https://north-america.beyerdynamic.com/p/dt-900-pro-x",
+        "sourceType": "manufacturer-product-page",
+        "rights": "Official beyerdynamic North America store product image; no reuse license verified.",
+        "credit": "beyerdynamic",
+        "alt": "beyerdynamic DT 900 PRO X open-back studio headphones, perspective view",
+        "match": "EXACT"
+      }
+    },
+    {
+      "sku": "TK-BEYERDYNAMIC-AVENTHO-Y",
+      "slug": "beyerdynamic-aventho-y",
+      "name": "beyerdynamic AVENTHO Y",
+      "brand": "beyerdynamic",
+      "category": "headphones",
+      "price": "149.99",
+      "priceBasis": "msrp",
+      "priceSource": "https://north-america.beyerdynamic.com/p/aventho-y",
+      "priceAsOf": "2026-09-28",
+      "summary": "Wireless over-ear ANC headphones with multipoint Bluetooth 6.0, more than 60 hours with ANC and a replaceable battery.",
+      "description": "AVENTHO Y brings beyerdynamic's signature sound to an everyday wireless ANC headphone. It supports multipoint Bluetooth 6.0 with SBC and AAC, delivers more than 90 hours of playback (more than 60 hours with ANC on) with fast charging, and is designed for longevity with a replaceable battery and interchangeable ear cushions.",
+      "keywords": "beyerdynamic aventho y wireless anc headphones bluetooth 6",
+      "specs": {
+        "connectivity": "Bluetooth 6.0 multipoint, USB-C",
+        "noiseCancelling": true,
+        "batteryHours": 60,
+        "codecs": "SBC, AAC",
+        "weightG": 316
+      },
+      "colors": [
+        "Liquid Black",
+        "Blue Fusion",
+        "Peach Blush",
+        "Soft Jade"
+      ],
+      "sources": {
+        "product": "https://north-america.beyerdynamic.com/p/aventho-y",
+        "retrievedAt": "2026-09-28",
+        "notes": "batteryHours is with ANC on (more than 90 h with ANC off)."
+      },
+      "image": {
+        "url": "https://api.beyerdynamic.de/media/catalog/product/a/v/aventho-y-liquid-black-wireless-over-ear-headphones-beyerdynamic-perspective.png?store=usa_en&image-type=image",
+        "page": "https://north-america.beyerdynamic.com/p/aventho-y",
+        "sourceType": "manufacturer-product-page",
+        "rights": "Official beyerdynamic North America store product image; no reuse license verified.",
+        "credit": "beyerdynamic",
+        "alt": "beyerdynamic AVENTHO Y wireless headphones in Liquid Black, perspective view",
+        "match": "EXACT"
+      }
+    },
+    {
+      "sku": "TK-RODE-PODMIC-USB",
+      "slug": "rode-podmic-usb",
+      "name": "RØDE PodMic USB",
+      "brand": "RØDE",
+      "category": "microphones",
+      "price": "209.00",
+      "priceBasis": "msrp",
+      "priceSource": "https://rode.com/en-us/products/podmic-usb",
+      "priceAsOf": "2026-09-28",
+      "summary": "Broadcast dynamic microphone with both USB-C and XLR outputs, APHEX-powered onboard DSP and zero-latency headphone monitoring.",
+      "description": "PodMic USB is a broadcast-quality dynamic microphone with a high-power neodymium capsule and both XLR and USB-C outputs. Onboard DSP powered by APHEX includes VoxLab, high-pass filter, noise gate, compressor, Aural Exciter and Big Bottom, and it adds an internal pop filter and shockmount, an integrated swing mount and zero-latency headphone monitoring.",
+      "keywords": "rode podmic usb dynamic podcast microphone usb-c xlr aphex streaming",
+      "specs": {
+        "connection": "USB-C and XLR",
+        "micType": "Dynamic"
+      },
+      "colors": [
+        "Black",
+        "White"
+      ],
+      "collections": [
+        "creator-workstations"
+      ],
+      "featured": true,
+      "sources": {
+        "product": "https://rode.com/en-us/products/podmic-usb",
+        "retrievedAt": "2026-09-28"
+      },
+      "image": {
+        "url": "https://edge.rode.com//images/products/variants/183/rode-podmic-usb-black-hero-3-quater-tilted-4000x4000-rgb-2000x2000-064a3d6.png",
+        "page": "https://rode.com/en-us/products/podmic-usb",
+        "sourceType": "manufacturer-product-page",
+        "rights": "Official RØDE product image from rode.com; no reuse license verified.",
+        "credit": "RØDE",
+        "alt": "RØDE PodMic USB dynamic microphone in black on its swing mount, three-quarter tilted view",
+        "match": "EXACT"
+      }
+    },
+    {
+      "sku": "TK-RODE-NT-USB-PLUS",
+      "slug": "rode-nt-usb-plus",
+      "name": "RØDE NT-USB+",
+      "brand": "RØDE",
+      "category": "microphones",
+      "price": "179.00",
+      "priceBasis": "msrp",
+      "priceSource": "https://rode.com/en-us/products/nt-usb-plus",
+      "priceAsOf": "2026-09-28",
+      "summary": "USB-C studio condenser microphone with a tight cardioid capsule, Revolution Preamp, APHEX processing and zero-latency headphone output.",
+      "description": "NT-USB+ is a professional USB microphone with a studio-grade condenser capsule and tight cardioid polar pattern, an ultra-low-noise Revolution Preamp and high-resolution conversion. APHEX processing (compressor, noise gate, high-pass filter, Aural Exciter and Big Bottom) is available in RØDE software, and a high-power headphone output provides zero-latency monitoring.",
+      "keywords": "rode nt-usb+ plus usb condenser microphone streaming podcast",
+      "specs": {
+        "connection": "USB-C",
+        "micType": "Condenser",
+        "polarPattern": "Cardioid"
+      },
+      "colors": [
+        "Black"
+      ],
+      "sources": {
+        "product": "https://rode.com/en-us/products/nt-usb-plus",
+        "retrievedAt": "2026-09-28"
+      },
+      "image": {
+        "url": "https://edge.rode.com//images/page/2072/modules/6597/rode-nt-usb-plus-three-quater-hero-1080x1080-rgb.png",
+        "page": "https://rode.com/en-us/products/nt-usb-plus",
+        "sourceType": "manufacturer-product-page",
+        "rights": "Official RØDE product image from rode.com; no reuse license verified.",
+        "credit": "RØDE",
+        "alt": "RØDE NT-USB+ USB condenser microphone on its tripod desk stand, three-quarter view",
+        "match": "EXACT"
+      }
+    },
+    {
+      "sku": "TK-RODE-NT1-GEN5",
+      "slug": "rode-nt1-5th-generation",
+      "name": "RØDE NT1 5th Generation",
+      "brand": "RØDE",
+      "category": "microphones",
+      "price": "249.00",
+      "priceBasis": "msrp",
+      "priceSource": "https://rode.com/en-us/products/nt1-5th-generation",
+      "priceAsOf": "2026-09-28",
+      "summary": "Large-diaphragm cardioid condenser with Dual Connect XLR and USB-C outputs, 32-bit float conversion and 4 dBA self-noise.",
+      "description": "The NT1 5th Generation is a large-diaphragm cardioid condenser built around a 1-inch HF6 capsule with 4 dBA self-noise. Its Dual Connect output offers both XLR and USB-C, with 32-bit float digital output up to 192 kHz and APHEX onboard processing. A shock mount, pop filter, XLR cable and USB-C cable are included.",
+      "keywords": "rode nt1 5th gen condenser studio microphone 32-bit float usb xlr vocal",
+      "specs": {
+        "connection": "XLR and USB-C (Dual Connect)",
+        "micType": "Large-diaphragm condenser (1-in HF6 capsule)",
+        "polarPattern": "Cardioid"
+      },
+      "colors": [
+        "Black",
+        "Silver"
+      ],
+      "collections": [
+        "creator-workstations"
+      ],
+      "sources": {
+        "product": "https://rode.com/en-us/products/nt1-5th-generation",
+        "retrievedAt": "2026-09-28"
+      },
+      "image": {
+        "url": "https://edge.rode.com//images/products/variants/165/rode-nt1-5th-generation-black-3-quarter-with-shock-mount-and-pop-shield-5464x8192-rgb-2000x2000-4f7630d.png",
+        "page": "https://rode.com/en-us/products/nt1-5th-generation",
+        "sourceType": "manufacturer-product-page",
+        "rights": "Official RØDE product image from rode.com; no reuse license verified.",
+        "credit": "RØDE",
+        "alt": "RØDE NT1 5th Generation condenser microphone in black in its shock mount with pop filter",
+        "match": "EXACT"
+      }
+    },
+    {
+      "sku": "TK-RODE-RODECASTER-PRO-II",
+      "slug": "rode-rodecaster-pro-ii",
+      "name": "RØDE RØDECaster Pro II",
+      "brand": "RØDE",
+      "category": "studio-audio",
+      "price": "699.00",
+      "priceBasis": "msrp",
+      "priceSource": "https://rode.com/en-us/products/rodecaster-pro-ii",
+      "priceAsOf": "2026-09-28",
+      "summary": "Podcast and streaming production studio with four Revolution Preamp combo inputs, dual USB-C, Bluetooth, a 5.5-inch touchscreen and six faders.",
+      "description": "RØDECaster Pro II is an all-in-one audio production console with four Neutrik combo inputs on Revolution Preamps (-131.5 dBV EIN, 76 dB gain), four headphone outputs and balanced line outputs. Dual USB-C interfaces connect two computers or mobile devices, Bluetooth and a built-in Series IV wireless receiver add sources, and a 5.5-inch haptic touchscreen, six physical faders and eight SMART pads handle control and multitrack recording.",
+      "keywords": "rodecaster pro ii podcast mixer audio interface streaming rode",
+      "specs": {
+        "connectivity": "Dual USB-C, Bluetooth, built-in RØDE Series IV wireless receiver",
+        "inputs": "4 Neutrik combo inputs (Revolution Preamps); 4 headphone outputs; balanced 1/4-in line outputs"
+      },
+      "colors": [
+        "Black",
+        "White"
+      ],
+      "collections": [
+        "creator-workstations"
+      ],
+      "sources": {
+        "product": "https://rode.com/en-us/products/rodecaster-pro-ii",
+        "retrievedAt": "2026-09-28"
+      },
+      "image": {
+        "url": "https://edge.rode.com//images/products/variants/291/rode-rodecaster-pro-II-top-down-3840x2157-rgb-2000x2000-44fd209.png",
+        "page": "https://rode.com/en-us/products/rodecaster-pro-ii",
+        "sourceType": "manufacturer-product-page",
+        "rights": "Official RØDE product image from rode.com; no reuse license verified.",
+        "credit": "RØDE",
+        "alt": "RØDE RØDECaster Pro II production console in black, top-down view of faders, pads and touchscreen",
+        "match": "EXACT"
+      }
+    }
+  ]
+}

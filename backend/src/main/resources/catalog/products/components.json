@@ -1,0 +1,614 @@
+{
+ "products": [
+  {
+   "sku": "TK-CORSAIR-HX1500I",
+   "slug": "corsair-hx1500i-2025",
+   "name": "CORSAIR HX1500i Fully Modular Platinum ATX 3.1 Power Supply",
+   "brand": "Corsair",
+   "category": "power-supplies",
+   "price": "349.99",
+   "compareAt": "389.99",
+   "warranty": 120,
+   "stock": [
+    12,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "ultimate-gaming-setup",
+    "ai-workstations"
+   ],
+   "summary": "1500 W 80 PLUS Platinum, Intel ATX 3.1 certified fully modular PSU with dual 12V-2x6 GPU cables, iCUE monitoring and a 10-year warranty.",
+   "description": "The HXi Series HX1500i is a fully modular, ultra-low-noise 1500 W power supply that is formally certified for Intel ATX 3.1 and is PCIe 5.1 compatible. It ships with two 12V-2x6 GPU cables with dual-colour connectors, uses 100% Japanese 105°C capacitors and a 140 mm fluid dynamic bearing fan with Zero RPM mode. CORSAIR iCUE software can monitor the PSU, toggle single/multi-rail mode and control the fan.",
+   "keywords": "psu 1500w platinum atx3.1 12v-2x6 icue hxi fully modular",
+   "specs": {
+    "wattage": 1500,
+    "efficiency": "80 PLUS Platinum (Cybenetics Platinum)",
+    "modular": "Fully modular",
+    "atxVersion": "ATX 3.1",
+    "formFactor": "ATX",
+    "configurations": "1500 W – $349.99 · 1200 W"
+   }
+  },
+  {
+   "sku": "TK-CORSAIR-DOMTI-64-6000",
+   "slug": "corsair-dominator-titanium-rgb-ddr5-64gb-6000-cl30",
+   "name": "CORSAIR DOMINATOR TITANIUM RGB DDR5 64 GB (2x32 GB) 6000 MT/s CL30",
+   "brand": "Corsair",
+   "category": "memory",
+   "price": "1078.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    53,
+    5
+   ],
+   "featured": true,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "ultimate-gaming-setup",
+    "creator-workstations"
+   ],
+   "summary": "Premium 64 GB (2x32 GB) DDR5-6000 CL30 kit with AMD EXPO and Intel XMP profiles, forged aluminium heatspreaders and 11 addressable RGB LEDs per module.",
+   "description": "DOMINATOR TITANIUM RGB DDR5 pairs premium forged aluminium construction with DHX cooling and iCUE-controlled RGB lighting. This grey 64 GB kit is tested at 6000 MT/s, CL30 and 1.40 V, with both AMD EXPO and Intel XMP profiles for one-click overclocking. Price reflects CORSAIR's 2026 US store pricing during the DRAM supply shortage.",
+   "keywords": "ram ddr5 6000 cl30 expo xmp 64gb dominator titanium rgb",
+   "specs": {
+    "capacityGb": 64,
+    "modules": "2 x 32 GB UDIMM",
+    "memoryType": "DDR5",
+    "speedMts": 6000,
+    "casLatency": 30,
+    "ecc": false,
+    "colors": "Grey"
+   }
+  },
+  {
+   "sku": "TK-CORSAIR-TITAN360RX",
+   "slug": "corsair-icue-link-titan-360-rx-rgb",
+   "name": "CORSAIR iCUE LINK TITAN 360 RX RGB AIO Liquid CPU Cooler",
+   "brand": "Corsair",
+   "category": "cooling",
+   "price": "199.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    56,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "ultimate-gaming-setup"
+   ],
+   "summary": "360 mm all-in-one liquid CPU cooler with three iCUE LINK RX RGB fans, a copper cold plate, pre-applied XTM70 paste and CapSwap pump-cap modules.",
+   "description": "The iCUE LINK TITAN 360 RX RGB is a high-performance 360 mm AIO with a 396 x 120 x 27 mm radiator and three RX RGB fans connected through the single-cable iCUE LINK system. The copper cold plate ships with pre-applied CORSAIR XTM70 thermal paste, and the pump cap accepts tool-free CapSwap modules (sold separately). CORSAIR lists fan noise of 10-36 dBA.",
+   "keywords": "aio liquid cooler 360mm icue link titan rx rgb",
+   "specs": {
+    "coolerType": "AIO liquid cooler",
+    "radiatorMm": 360,
+    "noiseDba": 36,
+    "configurations": "360 mm – $199.99 · 240 mm · 280 mm · 420 mm",
+    "colors": "Black, White"
+   }
+  },
+  {
+   "sku": "TK-CORSAIR-MP700PROXT-1T",
+   "slug": "corsair-mp700-pro-xt-1tb",
+   "name": "CORSAIR MP700 PRO XT 1 TB PCIe 5.0 NVMe M.2 SSD",
+   "brand": "Corsair",
+   "category": "ssds",
+   "price": "689.99",
+   "compareAt": null,
+   "warranty": 60,
+   "stock": [
+    10,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "high-end-storage"
+   ],
+   "summary": "PCIe 5.0 x4 NVMe 2.0 M.2 2280 SSD with 3D TLC NAND, up to 14,900 MB/s reads and 14,500 MB/s writes (varies by capacity), DirectStorage support.",
+   "description": "The MP700 PRO XT is CORSAIR's flagship PCIe 5.0 x4 SSD built on NVMe 2.0 with high-density 3D TLC NAND and a power-efficient controller design. CORSAIR rates the line for up to 14,900 MB/s sequential reads and 14,500 MB/s writes, with performance and endurance varying by capacity. It supports Microsoft DirectStorage and carries a five-year warranty.",
+   "keywords": "nvme gen5 pcie 5.0 m.2 2280 ssd mp700 pro xt",
+   "specs": {
+    "capacityTb": 1,
+    "interface": "PCIe 5.0 x4 NVMe 2.0",
+    "formFactor": "M.2 2280",
+    "configurations": "1 TB – $689.99 · 2 TB – $1,379.99 · 4 TB"
+   }
+  },
+  {
+   "sku": "TK-CORSAIR-FRAME4000D-RS",
+   "slug": "corsair-frame-4000d-rs-argb",
+   "name": "CORSAIR FRAME 4000D RS ARGB Modular Mid-Tower Case",
+   "brand": "Corsair",
+   "category": "cases",
+   "price": "89.99",
+   "compareAt": "124.99",
+   "warranty": 24,
+   "stock": [
+    9,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "ultimate-gaming-setup"
+   ],
+   "summary": "Modular mid-tower with InfiniRail fan mounting, three RS120 ARGB fans, three 360 mm radiator locations and reverse-connector motherboard support.",
+   "description": "The FRAME 4000D RS ARGB is a modular mid-tower with a 3D Y-pattern steel front panel, InfiniRail fan rails and three pre-installed RS120 ARGB fans. It supports Mini-ITX to E-ATX (305 x 277 mm) boards including ASUS BTF, MSI PROJECT ZERO and GIGABYTE PROJECT STEALTH reverse-connector designs, 430 mm GPUs and 170 mm CPU coolers, with 360 mm radiator mounts in the front, roof and side.",
+   "keywords": "mid tower case airflow modular infinirail argb reverse connector btf",
+   "specs": {
+    "caseType": "Mid-tower",
+    "motherboardSupport": "Mini-ITX, Micro-ATX, ATX, E-ATX (305 x 277 mm), reverse-connector",
+    "maxGpuLengthMm": 430,
+    "maxCoolerHeightMm": 170,
+    "radiatorSupport": "Front/top/side up to 360 mm; rear 120/140 mm",
+    "colors": "Black, White"
+   }
+  },
+  {
+   "sku": "TK-MICRON-9550PRO-7T68",
+   "slug": "micron-9550-pro-7-68tb-u2",
+   "name": "Micron 9550 PRO 7.68 TB PCIe Gen5 Data Center NVMe SSD",
+   "brand": "Micron",
+   "category": "enterprise-ssds",
+   "price": "1899.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    33,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "enterprise-servers",
+    "ai-lab"
+   ],
+   "summary": "PCIe Gen5 x4 data center NVMe SSD with Micron G8 TLC NAND, up to 14,000 MB/s reads and 10,000 MB/s writes, 1 DWPD read-intensive endurance.",
+   "description": "The Micron 9550 is a PCIe Gen5 data center SSD built on Micron G8 TLC NAND for AI training, HPC, OLTP and cloud workloads. Micron specifies up to 14,000 MB/s sequential reads, 10,000 MB/s sequential writes and 3.3 million random read IOPS, with OCP 2.0/2.5 support, power-loss protection and SED/FIPS options. The 9550 PRO line (1 DWPD) comes in 3.84 TB to 30.72 TB in U.2, E1.S and E3.S form factors.",
+   "keywords": "enterprise nvme gen5 u.2 e1.s e3.s data center ssd ai storage 9550 pro",
+   "specs": {
+    "capacityTb": 7.68,
+    "interface": "PCIe Gen5 x4 NVMe 2.0b",
+    "formFactor": "U.2 15 mm (also E1.S, E3.S)",
+    "readMbps": 14000,
+    "dwpd": 1,
+    "configurations": "3.84 TB · 7.68 TB · 15.36 TB · 30.72 TB"
+   }
+  },
+  {
+   "sku": "TK-MICRON-RDIMM-64G-6400",
+   "slug": "micron-ddr5-6400-rdimm-64gb",
+   "name": "Micron 64 GB DDR5-6400 RDIMM 2Rx4 CL52",
+   "brand": "Micron",
+   "category": "server-memory",
+   "price": "899.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    51,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "enterprise-servers",
+    "homelab-essentials"
+   ],
+   "summary": "64 GB dual-rank x4 DDR5-6400 registered ECC server DIMM (MTC40F2046S1RC64BR) for current Intel Xeon and AMD EPYC platforms.",
+   "description": "This Micron DDR5 RDIMM uses a register chip to buffer command and address signals and on-module ECC to protect data integrity in servers. Micron positions it for virtualization, cloud, databases and other memory-intensive workloads on the latest Intel and AMD server platforms. The module is rated DDR5-6400, CL52, 2Rx4.",
+   "keywords": "server ram ddr5 rdimm ecc registered 64gb 6400 micron mtc40f2046s1rc64br",
+   "specs": {
+    "capacityGb": 64,
+    "memoryType": "DDR5 RDIMM",
+    "speedMts": 6400,
+    "ecc": true,
+    "registered": true
+   }
+  },
+  {
+   "sku": "TK-NZXT-H9FLOWRGB",
+   "slug": "nzxt-h9-flow-rgb-2025",
+   "name": "NZXT H9 Flow RGB Dual-Chamber Mid-Tower Case",
+   "brand": "NZXT",
+   "category": "cases",
+   "price": "209.99",
+   "compareAt": null,
+   "warranty": 24,
+   "stock": [
+    22,
+    5
+   ],
+   "featured": true,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "ultimate-gaming-setup"
+   ],
+   "summary": "Dual-chamber ATX mid-tower with wraparound tempered glass, a pre-installed F420 RGB Core fan unit, room for ten fans and 420 mm radiators.",
+   "description": "The H9 Flow RGB separates the main components from the PSU and drives in a dual-chamber layout with perforated steel panels and angled front-right fans. It ships with an F420 RGB Core single-frame fan unit and an F120Q rear fan, fits 420 mm radiators on the top and front-right, and supports back-connect motherboards such as ASUS BTF and MSI Project Zero. GPU clearance is up to 459 mm (410 mm with a thick 420 mm AIO at the front-right).",
+   "keywords": "dual chamber case panoramic glass fishtank h9 flow rgb back-connect btf",
+   "specs": {
+    "caseType": "Mid-tower, dual-chamber",
+    "motherboardSupport": "E-ATX (up to 277 mm), ATX, Micro-ATX, Mini-ITX; back-connect ATX",
+    "maxGpuLengthMm": 459,
+    "maxCoolerHeightMm": 165,
+    "radiatorSupport": "Top and front-right up to 420 mm; bottom up to 360 mm; rear 120 mm",
+    "colors": "White, Black"
+   }
+  },
+  {
+   "sku": "TK-NZXT-KRAKENELITE360RGB",
+   "slug": "nzxt-kraken-elite-360-rgb-2024",
+   "name": "NZXT Kraken Elite 360 RGB AIO Liquid Cooler (2024)",
+   "brand": "NZXT",
+   "category": "cooling",
+   "price": "299.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    37,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "ultimate-gaming-setup"
+   ],
+   "summary": "360 mm AIO with the NZXT Turbine pump, a 2.72-inch 640x640 IPS LCD pump cap with RGB ring, and an F360 RGB Core single-frame fan.",
+   "description": "The Kraken Elite 360 RGB uses NZXT's custom Turbine pump, which NZXT says improves CPU cooling by about 10% over the previous generation. The pump cap carries a 2.72-inch 640 x 640 60 Hz IPS screen for GIFs, images or system stats, surrounded by a dynamic RGB ring. It ships with pre-applied thermal paste, a single breakout cable and tool-free brackets for LGA 1851/1700 and AM5/AM4.",
+   "keywords": "aio lcd screen liquid cooler 360mm kraken elite turbine pump cam",
+   "specs": {
+    "coolerType": "AIO liquid cooler with LCD pump cap",
+    "sockets": "Intel LGA 1851, 1700, 1200/115X; AMD AM5, AM4",
+    "radiatorMm": 360,
+    "noiseDba": 30.0,
+    "colors": "White, Black"
+   }
+  },
+  {
+   "sku": "TK-NZXT-C1500PLAT",
+   "slug": "nzxt-c1500-platinum-atx-3-1",
+   "name": "NZXT C1500 Platinum ATX 3.1 Power Supply",
+   "brand": "NZXT",
+   "category": "power-supplies",
+   "price": "369.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    36,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "ultimate-gaming-setup"
+   ],
+   "summary": "1500 W fully modular ATX 3.1 / PCIe 5.1 PSU with digital control, Cybenetics Titanium efficiency, two 12V-2x6 cables and a 140 mm maglev fan.",
+   "description": "The NZXT C1500 Platinum is a digitally controlled 1500 W power supply built for ATX 3.1 and PCIe 5.1, with two 16-pin 12V-2x6 cables for high-end GPUs. NZXT rates it at up to 94% efficiency (80 PLUS Platinum; Cybenetics Titanium efficiency and A- noise), with 105°C Japanese capacitors, a 140 mm magnetic-levitation fan and a compact 180 mm deep chassis.",
+   "keywords": "psu 1500w platinum atx 3.1 12v-2x6 fully modular digital",
+   "specs": {
+    "wattage": 1500,
+    "efficiency": "80 PLUS Platinum (Cybenetics Titanium)",
+    "modular": "Fully modular",
+    "atxVersion": "ATX 3.1",
+    "formFactor": "ATX (180 mm deep)"
+   }
+  },
+  {
+   "sku": "TK-SEAGATE-EXOS-30TB",
+   "slug": "seagate-exos-30tb-mozaic",
+   "name": "Seagate Exos 30 TB Enterprise Hard Drive (Mozaic)",
+   "brand": "Seagate",
+   "category": "hard-drives",
+   "price": "1349.99",
+   "compareAt": null,
+   "warranty": 60,
+   "stock": [
+    33,
+    5
+   ],
+   "featured": true,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "high-end-storage",
+    "enterprise-servers",
+    "homelab-essentials"
+   ],
+   "summary": "30 TB 3.5-inch SATA 6 Gb/s helium enterprise HDD built on Seagate's HAMR-based Mozaic platform, rated for 550 TB/year and 2.5M-hour MTBF.",
+   "description": "Seagate's current Exos line folds the former X, E and M families into one range, with Mozaic HAMR models reaching 3 TB per platter and up to 32 TB per drive. Exos drives use helium side-sealing welds, are rated for 550 TB per year and a 2.5 million-hour MTBF, and carry a 5-year limited warranty. This model (ST30000NM004K) is the 30 TB SATA 6 Gb/s, 512e/4Kn FastFormat standard (non-SED) version.",
+   "keywords": "enterprise hdd hamr mozaic 30tb exos sata data center nas homelab ST30000NM004K",
+   "specs": {
+    "capacityTb": 30,
+    "interface": "SATA 6 Gb/s",
+    "workloadTbYr": 550,
+    "configurations": "30 TB (ST30000NM004K) – $1,349.99 · 32 TB (ST32000NM004K) – $1,439.99 · 28 TB – $1,119.99 · 24 TB – $959.99"
+   }
+  },
+  {
+   "sku": "TK-SEAGATE-SKYHAWKAI-32TB",
+   "slug": "seagate-skyhawk-ai-32tb",
+   "name": "Seagate SkyHawk AI 32 TB Surveillance Hard Drive",
+   "brand": "Seagate",
+   "category": "hard-drives",
+   "price": "1159.99",
+   "compareAt": null,
+   "warranty": 60,
+   "stock": [
+    15,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "security-lab",
+    "high-end-storage"
+   ],
+   "summary": "32 TB helium CMR video drive for AI-enabled NVRs, supporting up to 64 HD video streams plus 32 AI streams with a 550 TB/year workload rating.",
+   "description": "SkyHawk AI is Seagate's video-optimised CMR drive for NVRs running edge AI analytics. ImagePerfect AI firmware targets zero dropped frames with up to 64 HD video streams and 32 AI streams, and SkyHawk Health Management adds RAID RapidRebuild. It is rated for 2.5 million hours MTBF and 550 TB/year, with a five-year limited warranty and three years of Rescue Data Recovery Services.",
+   "keywords": "surveillance nvr hdd skyhawk ai 32tb video cctv ST32000VE000",
+   "specs": {
+    "capacityTb": 32,
+    "interface": "SATA 6 Gb/s",
+    "workloadTbYr": 550,
+    "configurations": "32 TB (ST32000VE000) – $1,159.99 · 24 TB – $859.99 · 20 TB – $719.99 · 16 TB – $579.99"
+   }
+  },
+  {
+   "sku": "TK-SEAGATE-ONETOUCHDT-24TB",
+   "slug": "seagate-one-touch-desktop-24tb",
+   "name": "Seagate One Touch Desktop External Hard Drive 24 TB",
+   "brand": "Seagate",
+   "category": "external-storage",
+   "price": "779.99",
+   "compareAt": null,
+   "warranty": 24,
+   "stock": [
+    49,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "small-business"
+   ],
+   "summary": "24 TB desktop external hard drive with single-cable, bus-powered USB-C — no wall outlet needed — for Windows and Mac backup.",
+   "description": "The One Touch desktop external hard drive packs desktop-class capacity into a drive powered entirely over one USB-C cable. It is formatted for simple drag-and-drop backup on Windows and Mac, ships with Toolkit software and a 0.5 m USB-C cable, and includes a 2-year limited warranty plus Seagate Rescue Data Recovery Services.",
+   "keywords": "external hard drive usb-c bus powered backup 24tb desktop one touch STNB24000400",
+   "specs": {
+    "capacityTb": 24,
+    "interface": "USB-C (bus-powered)",
+    "configurations": "8 TB – $289.99 · 16 TB – $559.99 · 20 TB – $649.99 · 24 TB – $779.99"
+   }
+  },
+  {
+   "sku": "TK-WD-REDPRO-26TB",
+   "slug": "wd-red-pro-26tb-nas-hdd",
+   "name": "WD Red Pro 26 TB NAS Hard Drive",
+   "brand": "Western Digital",
+   "category": "hard-drives",
+   "price": "1389.99",
+   "compareAt": null,
+   "warranty": 60,
+   "stock": [
+    50,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "homelab-essentials",
+    "high-end-storage"
+   ],
+   "summary": "26 TB 3.5-inch 7200 RPM CMR NAS drive with 512 MB cache, OptiNAND and a 550 TB/year workload rating for multi-user and AI NAS arrays.",
+   "description": "WD Red Pro drives target high-intensity 24x7 multi-user NAS and RAID systems with an unlimited number of bays. The 26 TB model (WD260KFGX) is a 7200 RPM SATA CMR drive with 512 MB cache, NASware, OptiNAND and ArmorCache, transfer rates up to 272 MB/s and a 550 TB/year workload rating, backed by a 5-year limited warranty.",
+   "keywords": "nas hdd red pro 26tb 7200rpm cmr raid WD260KFGX homelab",
+   "specs": {
+    "capacityTb": 26,
+    "interface": "SATA 6 Gb/s",
+    "rpm": 7200,
+    "cacheMb": 512,
+    "workloadTbYr": 550,
+    "configurations": "26 TB (WD260KFGX) – $1,389.99 · 2 TB to 24 TB"
+   }
+  },
+  {
+   "sku": "TK-WD-PURPLEPRO-26TB",
+   "slug": "wd-purple-pro-26tb-surveillance-hdd",
+   "name": "WD Purple Pro 26 TB Surveillance Hard Drive",
+   "brand": "Western Digital",
+   "category": "hard-drives",
+   "price": "1389.99",
+   "compareAt": null,
+   "warranty": 60,
+   "stock": [
+    15,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "security-lab"
+   ],
+   "summary": "26 TB 7200 RPM CMR video-analytics drive with AllFrame AI, OptiNAND and 512 MB cache, rated for 550 TB/year and up to 64 cameras.",
+   "description": "WD Purple Pro is built for AI-enabled NVRs and video analytics servers, capturing multiple HD video, image and metadata streams at once. The 26 TB WD260PURP spins at 7200 RPM with 512 MB cache and transfer rates up to 287 MB/s, uses AllFrame AI to reduce dropped frames and Western Digital Device Analytics (WDDA) for health monitoring, and carries a 550 TB/year workload rating and 5-year limited warranty.",
+   "keywords": "surveillance nvr video analytics hdd purple pro 26tb WD260PURP",
+   "specs": {
+    "capacityTb": 26,
+    "interface": "SATA 6 Gb/s",
+    "rpm": 7200,
+    "cacheMb": 512,
+    "workloadTbYr": 550,
+    "configurations": "26 TB (WD260PURP) – $1,389.99 · 24 TB (WD241PURP) – $1,289.99"
+   }
+  },
+  {
+   "sku": "TK-SANDISK-SN8100-2TB",
+   "slug": "sandisk-wd-black-sn8100-2tb",
+   "name": "SanDisk WD_BLACK SN8100 2 TB PCIe 5.0 NVMe SSD",
+   "brand": "SanDisk",
+   "category": "ssds",
+   "price": "899.00",
+   "compareAt": null,
+   "warranty": 60,
+   "stock": [
+    32,
+    5
+   ],
+   "featured": true,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "ultimate-gaming-setup",
+    "high-end-storage"
+   ],
+   "summary": "PCIe Gen 5 x4 NVMe M.2 2280 SSD with TLC 3D CBA NAND, up to 14,900 MB/s sequential reads, 1,200 TBW at 2 TB and a 5-year warranty.",
+   "description": "The WD_BLACK SN8100, now sold under Sandisk, is a PCIe Gen 5 NVMe SSD for high-end gaming, professional content creation and AI applications, rated for sequential reads up to 14,900 MB/s. The 2 TB bare drive (WDS200T1X0M) is a single-sided M.2 2280 module rated for 1,200 TB written and backed by a 5-year limited warranty; a heatsink version is also offered.",
+   "keywords": "wd black sn8100 gen5 nvme m.2 2280 ssd gaming sandisk WDS200T1X0M",
+   "specs": {
+    "capacityTb": 2,
+    "interface": "PCIe 5.0 x4 NVMe",
+    "formFactor": "M.2 2280",
+    "readMbps": 14900,
+    "enduranceTbw": 1200,
+    "configurations": "1 TB · 2 TB · 4 TB · 8 TB · 2 TB with heatsink"
+   }
+  },
+  {
+   "sku": "TK-SANDISK-EXTREMEV3-1TB",
+   "slug": "sandisk-extreme-portable-ssd-v3-1tb",
+   "name": "SanDisk Extreme Portable SSD (V3) 1 TB",
+   "brand": "SanDisk",
+   "category": "external-storage",
+   "price": "337.99",
+   "compareAt": null,
+   "warranty": 60,
+   "stock": [
+    57,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "creator-workstations"
+   ],
+   "summary": "Third-generation SanDisk Extreme rugged portable SSD with up to 2,000 MB/s reads, IP65 water and dust resistance and 256-bit AES password protection.",
+   "description": "The new SANDISK Extreme Portable SSD (V3) is built for backing up big projects, clearing device space and carrying content between devices. Sandisk rates it for up to 2,000 MB/s reads (writes lower), IP65 water and dust resistance, and password protection with 256-bit AES hardware encryption on Windows and macOS, with a 5-year limited warranty.",
+   "keywords": "portable ssd external rugged ip65 extreme v3 usb-c SDSSDE70",
+   "specs": {
+    "capacityTb": 1,
+    "readMbps": 2000,
+    "configurations": "500 GB · 1 TB – $337.99 · 2 TB – $612.99 · 4 TB – $1,149.99"
+   }
+  },
+  {
+   "sku": "TK-GSKILL-TZ5ROYALNEO-64",
+   "slug": "gskill-trident-z5-royal-neo-ddr5-64gb-6000-cl28",
+   "name": "G.SKILL Trident Z5 Royal Neo DDR5 64 GB (2x32 GB) 6000 MT/s CL28 Silver",
+   "brand": "G.Skill",
+   "category": "memory",
+   "price": "1099.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    52,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "ultimate-gaming-setup",
+    "dream-gaming"
+   ],
+   "summary": "64 GB (2x32 GB) DDR5-6000 CL28-36-36-96 AMD EXPO kit with mirrored electroplated silver heatspreaders and a crystalline RGB light bar.",
+   "description": "Trident Z5 Royal Neo is G.SKILL's luxury DDR5 series for AMD platforms, combining polished aluminium heatspreaders with a mirrored electroplated finish and a crystalline RGB light bar. This silver 64 GB dual-channel kit (F5-6000J2836G32GX2-TR5NS) is rated at DDR5-6000 CL28-36-36-96 at 1.40 V via an AMD EXPO profile, and carries a limited lifetime warranty.",
+   "keywords": "ram ddr5 6000 cl28 expo amd 64gb royal neo silver F5-6000J2836G32GX2-TR5NS",
+   "specs": {
+    "capacityGb": 64,
+    "modules": "2 x 32 GB UDIMM",
+    "memoryType": "DDR5",
+    "speedMts": 6000,
+    "casLatency": 28,
+    "ecc": false,
+    "colors": "Silver, Gold"
+   }
+  },
+  {
+   "sku": "TK-NOCTUA-NFA12X25G2",
+   "slug": "noctua-nf-a12x25-g2-pwm",
+   "name": "Noctua NF-A12x25 G2 PWM 120 mm Fan",
+   "brand": "Noctua",
+   "category": "cooling",
+   "price": "39.95",
+   "compareAt": null,
+   "warranty": 72,
+   "stock": [
+    29,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "homelab-essentials",
+    "creator-workstations"
+   ],
+   "summary": "Second-generation 120 mm Noctua flagship fan with a Progressive-Bend Sterrox LCP impeller, 0-1800 rpm PWM, 63.15 CFM and 22.5 dB(A) max.",
+   "description": "The NF-A12x25 G2 PWM is the next-generation version of Noctua's 120 mm reference fan, using a Progressive-Bend impeller in Sterrox LCP with ultra-tight tip clearance, an AAO frame and Noctua's SSO2 bearing. Noctua specifies 0-1800 rpm, up to 107.3 m³/h (63.15 CFM), 3.14 mm H₂O static pressure and 22.5 dB(A) maximum noise, with a 6-year warranty and a bundle including a low-noise adaptor, PWM splitter and radiator gasket.",
+   "keywords": "case fan 120mm noctua a12x25 g2 pwm quiet radiator fan sterrox",
+   "specs": {
+    "coolerType": "120 mm PWM case/radiator fan",
+    "noiseDba": 22.5
+   }
+  },
+  {
+   "sku": "TK-NOCTUA-NHU12A-CHROMAX",
+   "slug": "noctua-nh-u12a-chromax-black",
+   "name": "Noctua NH-U12A chromax.black CPU Cooler",
+   "brand": "Noctua",
+   "category": "cooling",
+   "price": "149.95",
+   "compareAt": null,
+   "warranty": 72,
+   "stock": [
+    55,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "creator-workstations"
+   ],
+   "summary": "All-black 120 mm single-tower CPU cooler with two NF-A12x25 PWM chromax.black fans, 158 mm tall, NSPR 169, supporting AM5 and LGA1851/1700.",
+   "description": "The NH-U12A chromax.black pairs Noctua's high-performance 120 mm tower heatsink, fully black coated, with two NF-A12x25 PWM chromax.black fans. It stands 158 mm tall, scores 169 on Noctua's Standardised Performance Rating, supports AMD AM5/AM4 and Intel LGA1954/1851/1700/1200/115x, and carries a 6-year warranty.",
+   "keywords": "air cooler tower 120mm black noctua nh-u12a chromax am5 lga1851",
+   "specs": {
+    "coolerType": "Air tower cooler (dual 120 mm fans)",
+    "sockets": "AMD AM5, AM4; Intel LGA1954, LGA1851, LGA1700, LGA1200, LGA115x",
+    "heightMm": 158
+   }
+  }
+ ]
+}

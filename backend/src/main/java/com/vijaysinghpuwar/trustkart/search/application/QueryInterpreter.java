@@ -71,6 +71,22 @@ public final class QueryInterpreter {
             {"security cameras", "security-cameras"}, {"security camera", "security-cameras"}, {"nvr", "security-cameras"},
             {"tablets", "tablets"}, {"tablet", "tablets"}, {"dock", "docks-adapters"}, {"projector", "projectors"},
             {"vr headset", "vr"},
+            {"smartphones", "phones"}, {"smartphone", "phones"}, {"phones", "phones"}, {"phone", "phones"},
+            {"foldable phone", "foldables"}, {"foldables", "foldables"}, {"foldable", "foldables"},
+            {"smartwatches", "smartwatches"}, {"smartwatch", "smartwatches"}, {"smart watch", "smartwatches"},
+            {"smart ring", "smart-rings"}, {"earbuds", "earbuds"}, {"soundbars", "home-audio"}, {"soundbar", "home-audio"},
+            {"audio interface", "studio-audio"}, {"studio monitors", "studio-audio"},
+            {"oled tv", "oled-tvs"}, {"tvs", "tvs"}, {"tv", "tvs"}, {"televisions", "tvs"}, {"television", "tvs"},
+            {"mirrorless cameras", "mirrorless-cameras"}, {"mirrorless camera", "mirrorless-cameras"},
+            {"lenses", "camera-lenses"}, {"lens", "camera-lenses"}, {"action camera", "action-cameras"},
+            {"drones", "drones"}, {"drone", "drones"}, {"cameras", "cameras-drones"}, {"camera", "cameras-drones"},
+            {"consoles", "consoles"}, {"console", "consoles"}, {"handheld", "handhelds"},
+            {"controllers", "controllers"}, {"controller", "controllers"},
+            {"smart home", "smart-home"}, {"smart speaker", "smart-speakers-displays"},
+            {"smart display", "smart-speakers-displays"}, {"doorbell", "home-cameras-doorbells"},
+            {"thermostat", "thermostats"}, {"smart lights", "smart-lighting"}, {"mesh wifi", "mesh-wifi"},
+            {"mesh wi-fi", "mesh-wifi"}, {"accelerator", "ai-accelerators"},
+            {"chromebook", "chromebooks"}, {"raid controller", "raid-controllers"}, {"nintendo switch", "consoles"},
         };
         java.util.Arrays.stream(pairs)
                 .sorted((a, b) -> Integer.compare(b[0].length(), a[0].length()))

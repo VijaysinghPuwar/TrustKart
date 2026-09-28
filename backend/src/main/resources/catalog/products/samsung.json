@@ -1,0 +1,2182 @@
+{
+ "products": [
+  {
+   "sku": "TK-SAMSUNG-GALAXY-S26-ULTRA",
+   "slug": "samsung-galaxy-s26-ultra",
+   "name": "Samsung Galaxy S26 Ultra",
+   "brand": "Samsung",
+   "category": "smartphones",
+   "price": "1299.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    54,
+    5
+   ],
+   "featured": true,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "galaxy-flagships",
+    "samsung-ecosystem"
+   ],
+   "summary": "Samsung's 2026 flagship phone with a 6.9-inch QHD+ display featuring built-in Privacy Display, Snapdragon 8 Elite Gen 5 for Galaxy, a 200 MP camera and built-in S Pen.",
+   "description": "Galaxy S26 Ultra introduces what Samsung calls the world's first built-in Privacy Display for mobile phones, limiting side-angle viewing without a screen protector. It runs a customized Snapdragon 8 Elite Gen 5 for Galaxy with upgraded thermal management, and pairs a 200 MP wide camera with 50 MP 5x and 10 MP 3x telephoto cameras. The 5,000 mAh battery reaches up to 75% in around 30 minutes with a 60 W adapter.",
+   "keywords": "galaxy s26 ultra s pen privacy display snapdragon android flagship 200mp",
+   "specs": {
+    "chip": "Snapdragon 8 Elite Gen 5 for Galaxy",
+    "storageGb": 256,
+    "ramGb": 12,
+    "displayIn": 6.9,
+    "display": "6.9-inch QHD+ Dynamic AMOLED 2X, 1-120 Hz adaptive, Vision Booster, Privacy Display",
+    "rearCamera": "200 MP wide (F1.4) + 50 MP ultra-wide + 50 MP 5x telephoto + 10 MP 3x telephoto",
+    "frontCamera": "12 MP (F2.2)",
+    "battery": "5,000 mAh (typical)",
+    "charging": "60 W wired (up to 75% in ~30 min), Super Fast Wireless Charging, Wireless PowerShare",
+    "connectivity": "5G, LTE, Wi-Fi 7, Bluetooth 6.0",
+    "durability": "IP68",
+    "os": "Android 16, One UI 8.5",
+    "weightG": 214,
+    "dimensions": "78.1 x 163.6 x 7.9 mm",
+    "configurations": "256 GB / 12 GB RAM – $1,299.99 · 512 GB / 12 GB RAM – $1,499.99 · 1 TB / 16 GB RAM – $1,799.99",
+    "colors": "Cobalt Violet, Black, White, Sky Blue, Pink Gold, Silver Shadow"
+   }
+  },
+  {
+   "sku": "TK-SAMSUNG-GALAXY-S26-PLUS",
+   "slug": "samsung-galaxy-s26-plus",
+   "name": "Samsung Galaxy S26+",
+   "brand": "Samsung",
+   "category": "smartphones",
+   "price": "1099.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    27,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "galaxy-flagships",
+    "samsung-ecosystem"
+   ],
+   "summary": "Larger Galaxy S26 model with a 6.7-inch QHD+ Dynamic AMOLED 2X display, 4,900 mAh battery and 45 W wired charging.",
+   "description": "Galaxy S26+ shares the S26 series design and triple camera system (50 MP wide, 12 MP ultra-wide, 10 MP 3x telephoto) with a larger 6.7-inch QHD+ 120 Hz display. It uses Snapdragon 8 Elite Gen 5 for Galaxy or Exynos 2600 depending on market, has a 4,900 mAh battery and charges up to 69% in around 30 minutes with a 45 W adapter.",
+   "keywords": "galaxy s26 plus s26+ android flagship",
+   "specs": {
+    "chip": "Snapdragon 8 Elite Gen 5 for Galaxy / Exynos 2600 (varies by market)",
+    "storageGb": 256,
+    "ramGb": 12,
+    "displayIn": 6.7,
+    "display": "6.7-inch QHD+ Dynamic AMOLED 2X, 1-120 Hz adaptive, Vision Booster",
+    "rearCamera": "50 MP wide (F1.8) + 12 MP ultra-wide + 10 MP 3x telephoto",
+    "frontCamera": "12 MP (F2.2)",
+    "battery": "4,900 mAh (typical)",
+    "charging": "45 W wired (up to 69% in ~30 min), Super Fast Wireless Charging, Wireless PowerShare",
+    "connectivity": "5G, LTE, Wi-Fi 7, Bluetooth 6.0",
+    "durability": "IP68",
+    "os": "Android 16, One UI 8.5",
+    "weightG": 190,
+    "dimensions": "75.8 x 158.4 x 7.3 mm",
+    "configurations": "256 GB – $1,099.99 · 512 GB – $1,299.99",
+    "colors": "Cobalt Violet, Black, White, Sky Blue, Pink Gold, Silver Shadow"
+   }
+  },
+  {
+   "sku": "TK-SAMSUNG-GALAXY-S26",
+   "slug": "samsung-galaxy-s26",
+   "name": "Samsung Galaxy S26",
+   "brand": "Samsung",
+   "category": "smartphones",
+   "price": "899.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    9,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "galaxy-flagships",
+    "samsung-ecosystem"
+   ],
+   "summary": "Compact 2026 Galaxy flagship with a 6.3-inch FHD+ 120 Hz display, triple camera with 3x telephoto and 256 GB base storage.",
+   "description": "Galaxy S26 packs the S26 series camera system (50 MP wide, 12 MP ultra-wide, 10 MP 3x telephoto) and Galaxy AI features into a 167 g, 7.2 mm body with a 6.3-inch FHD+ Dynamic AMOLED 2X display. It has a 4,300 mAh battery, 25 W wired charging and IP68 water and dust resistance.",
+   "keywords": "galaxy s26 compact android flagship",
+   "specs": {
+    "chip": "Snapdragon 8 Elite Gen 5 for Galaxy / Exynos 2600 (varies by market)",
+    "storageGb": 256,
+    "ramGb": 12,
+    "displayIn": 6.3,
+    "display": "6.3-inch FHD+ Dynamic AMOLED 2X, 1-120 Hz adaptive, Vision Booster",
+    "rearCamera": "50 MP wide (F1.8) + 12 MP ultra-wide + 10 MP 3x telephoto",
+    "frontCamera": "12 MP (F2.2)",
+    "battery": "4,300 mAh (typical)",
+    "charging": "25 W wired (up to 55% in ~30 min), Fast Wireless Charging 2.0, Wireless PowerShare",
+    "connectivity": "5G, LTE, Wi-Fi 7, Bluetooth 5.4",
+    "durability": "IP68",
+    "os": "Android 16, One UI 8.5",
+    "weightG": 167,
+    "dimensions": "71.7 x 149.6 x 7.2 mm",
+    "configurations": "256 GB – $899.99 · 512 GB – $1,099.99",
+    "colors": "Cobalt Violet, Black, White, Sky Blue, Pink Gold, Silver Shadow"
+   }
+  },
+  {
+   "sku": "TK-SAMSUNG-GALAXY-S26-FE",
+   "slug": "samsung-galaxy-s26-fe",
+   "name": "Samsung Galaxy S26 FE",
+   "brand": "Samsung",
+   "category": "smartphones",
+   "price": "699.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    48,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "samsung-ecosystem"
+   ],
+   "summary": "Fan Edition of the Galaxy S26 with a 6.7-inch 120 Hz display, Exynos 2500, 4,900 mAh battery and One UI 9 out of the box.",
+   "description": "Galaxy S26 FE is the first S26 model to launch with One UI 9 and Galaxy AI features. It pairs a 6.7-inch FHD+ Dynamic AMOLED 2X display (up to 1,900 nits) with a 3 nm Exynos 2500, a 50 MP wide, 12 MP ultra-wide and 8 MP 3x telephoto camera system, and a 4,900 mAh battery with 45 W wired charging. Samsung promises seven generations of OS upgrades.",
+   "keywords": "galaxy s26 fe fan edition exynos 2500 one ui 9",
+   "specs": {
+    "chip": "Exynos 2500 (3 nm)",
+    "storageGb": 128,
+    "ramGb": 8,
+    "displayIn": 6.7,
+    "display": "6.7-inch FHD+ Dynamic AMOLED 2X, 60/120 Hz, 1,900 nits",
+    "rearCamera": "50 MP wide (OIS) + 12 MP ultra-wide + 8 MP 3x telephoto",
+    "frontCamera": "12 MP",
+    "battery": "4,900 mAh",
+    "charging": "45 W wired (up to 69% in ~30 min), 15 W wireless, Wireless PowerShare",
+    "connectivity": "5G, LTE, Wi-Fi 6E, Bluetooth 5.4",
+    "durability": "IP68",
+    "os": "Android 17, One UI 9",
+    "weightG": 193,
+    "dimensions": "161.6 x 76.9 x 7.4 mm",
+    "configurations": "128 GB – $699.99 · 256 GB – $799.99",
+    "colors": "Blueberry, Graphite, Pistachio"
+   }
+  },
+  {
+   "sku": "TK-SAMSUNG-GALAXY-A57-5G",
+   "slug": "samsung-galaxy-a57-5g",
+   "name": "Samsung Galaxy A57 5G",
+   "brand": "Samsung",
+   "category": "smartphones",
+   "price": "549.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    8,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "samsung-ecosystem"
+   ],
+   "summary": "Slim 6.9 mm mid-range Galaxy with a 6.7-inch Super AMOLED+ 120 Hz display, 50 MP triple camera, 5,000 mAh battery and IP68 rating.",
+   "description": "Galaxy A57 5G is 6.9 mm thick and 179 g, 0.5 mm thinner and 19 g lighter than its predecessor. It has a 6.7-inch FHD+ Super AMOLED+ display up to 120 Hz, a 50 MP wide, 12 MP ultra-wide and 5 MP macro camera system, a 13% larger vapor chamber and a 5,000 mAh battery with Super Fast Charging 2.0. Samsung offers up to six generations of OS upgrades.",
+   "keywords": "galaxy a57 5g midrange awesome intelligence",
+   "specs": {
+    "storageGb": 128,
+    "displayIn": 6.7,
+    "display": "6.7-inch FHD+ Super AMOLED+, up to 120 Hz, Vision Booster",
+    "rearCamera": "50 MP wide (F1.8) + 12 MP ultra-wide + 5 MP macro",
+    "frontCamera": "12 MP (F2.2)",
+    "battery": "5,000 mAh (typical)",
+    "charging": "Super Fast Charging 2.0 (up to 60% in ~30 min)",
+    "durability": "IP68",
+    "os": "Android 16, One UI 8.5",
+    "weightG": 179,
+    "dimensions": "161.5 x 76.8 x 6.9 mm",
+    "configurations": "128 GB – $549.99 · 256 GB – $629.99",
+    "colors": "Awesome Navy, Awesome Icyblue, Awesome Gray"
+   }
+  },
+  {
+   "sku": "TK-SAMSUNG-GALAXY-A37-5G",
+   "slug": "samsung-galaxy-a37-5g",
+   "name": "Samsung Galaxy A37 5G",
+   "brand": "Samsung",
+   "category": "smartphones",
+   "price": "449.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    8,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "samsung-ecosystem"
+   ],
+   "summary": "Affordable 5G Galaxy with a 6.7-inch Super AMOLED 120 Hz display, 50 MP triple camera, 5,000 mAh battery and IP68 protection.",
+   "description": "Galaxy A37 5G brings Samsung's Awesome Intelligence features, including Voice Transcription, to a 6.7-inch FHD+ Super AMOLED display with up to 120 Hz refresh. It has a 50 MP wide, 8 MP ultra-wide and 5 MP macro camera system, a 5,000 mAh battery, IP68 water and dust resistance and Samsung Knox security.",
+   "keywords": "galaxy a37 5g budget android",
+   "specs": {
+    "storageGb": 128,
+    "displayIn": 6.7,
+    "display": "6.7-inch FHD+ Super AMOLED, up to 120 Hz, Vision Booster",
+    "rearCamera": "50 MP wide (F1.8) + 8 MP ultra-wide + 5 MP macro",
+    "frontCamera": "12 MP (F2.2)",
+    "battery": "5,000 mAh (typical)",
+    "durability": "IP68",
+    "os": "Android 16, One UI 8.5",
+    "weightG": 196,
+    "dimensions": "162.9 x 78.2 x 7.4 mm",
+    "configurations": "128 GB – $449.99 · 256 GB – $569.99",
+    "colors": "Awesome Charcoal, Awesome Lavender"
+   }
+  },
+  {
+   "sku": "TK-SAMSUNG-GALAXY-Z-FOLD8-ULTRA",
+   "slug": "samsung-galaxy-z-fold8-ultra",
+   "name": "Samsung Galaxy Z Fold8 Ultra",
+   "brand": "Samsung",
+   "category": "foldables",
+   "price": "2099.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    21,
+    5
+   ],
+   "featured": true,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "galaxy-flagships",
+    "samsung-ecosystem"
+   ],
+   "summary": "Samsung's Ultra-class foldable with an 8.0-inch main screen, 6.5-inch cover screen, 200 MP camera and 5,000 mAh battery at just 4.1 mm unfolded.",
+   "description": "Galaxy Z Fold8 Ultra brings the Ultra standard to foldables: an 8.0-inch QXGA+ main display, a 6.5-inch FHD+ cover screen and a 200 MP wide camera with 50 MP ultra-wide and 10 MP 3x telephoto. It runs Snapdragon 8 Elite Gen 5 for Galaxy, packs a 5,000 mAh dual battery with 45 W charging and measures 4.1 mm unfolded at 215 g. Samsung's Flex Titanium display structure helps keep it thin while maintaining durability.",
+   "keywords": "galaxy z fold8 ultra foldable fold 8 book style 200mp",
+   "specs": {
+    "chip": "Snapdragon 8 Elite Gen 5 for Galaxy",
+    "storageGb": 256,
+    "ramGb": 12,
+    "displayIn": 8.0,
+    "display": "8.0-inch QXGA+ Dynamic AMOLED 2X (2504 x 2256), 1-120 Hz, Vision Booster",
+    "coverDisplay": "6.5-inch FHD+ Dynamic AMOLED 2X (1080 x 2520), 1-120 Hz",
+    "rearCamera": "200 MP wide (F1.7, OIS) + 50 MP ultra-wide + 10 MP 3x telephoto",
+    "frontCamera": "10 MP cover camera + 10 MP main-screen camera",
+    "battery": "5,000 mAh (typical) dual battery",
+    "charging": "45 W wired (up to 67% in ~30 min), 20 W wireless, Wireless PowerShare",
+    "connectivity": "5G, LTE, Wi-Fi 7, Bluetooth 6.0",
+    "durability": "IP48",
+    "os": "Android 17, One UI 9",
+    "weightG": 215,
+    "dimensions": "Folded 72.8 x 158.4 x 8.9 mm; unfolded 143.2 x 158.4 x 4.1 mm",
+    "configurations": "256 GB / 12 GB RAM – $2,099.99 · 512 GB / 12 GB RAM – $2,299.99 · 1 TB / 16 GB RAM – $2,699.99",
+    "colors": "Violet Shadow, Graphite, Cream, Green Shadow"
+   }
+  },
+  {
+   "sku": "TK-SAMSUNG-GALAXY-Z-FOLD8",
+   "slug": "samsung-galaxy-z-fold8",
+   "name": "Samsung Galaxy Z Fold8",
+   "brand": "Samsung",
+   "category": "foldables",
+   "price": "1899.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    51,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "galaxy-flagships",
+    "samsung-ecosystem"
+   ],
+   "summary": "Wide-format book foldable with a 7.6-inch 4:3 main display, 5.5-inch cover screen, Snapdragon 8 Elite Gen 5 and 4.5 mm unfolded profile.",
+   "description": "Galaxy Z Fold8 is built around content: unfolding it reveals a 7.6-inch QXGA+ main display in an approximately 4:3 aspect ratio suited to movies and games, with a 5.5-inch cover screen outside. It has 50 MP wide and 50 MP ultra-wide rear cameras, Snapdragon 8 Elite Gen 5 for Galaxy and a 4,800 mAh dual battery with 45 W wired charging, at 201 g.",
+   "keywords": "galaxy z fold8 fold 8 foldable wide 4:3",
+   "specs": {
+    "chip": "Snapdragon 8 Elite Gen 5 for Galaxy",
+    "storageGb": 256,
+    "ramGb": 12,
+    "displayIn": 7.6,
+    "display": "7.6-inch QXGA+ Dynamic AMOLED 2X (1848 x 2448), 1-120 Hz, Vision Booster",
+    "coverDisplay": "5.5-inch WUXGA+ Dynamic AMOLED 2X (1248 x 1972), 1-120 Hz",
+    "rearCamera": "50 MP wide (F1.8, OIS) + 50 MP ultra-wide",
+    "frontCamera": "10 MP cover camera + 10 MP main-screen camera",
+    "battery": "4,800 mAh (typical) dual battery",
+    "charging": "45 W wired (up to 63% in ~30 min), 20 W wireless, Wireless PowerShare",
+    "connectivity": "5G, LTE, Wi-Fi 7, Bluetooth 6.0",
+    "durability": "IP48",
+    "os": "Android 17, One UI 9",
+    "weightG": 201,
+    "dimensions": "Folded 81.9 x 123.9 x 9.7 mm; unfolded 161.4 x 123.9 x 4.5 mm",
+    "configurations": "256 GB / 12 GB RAM – $1,899.99 · 512 GB / 12 GB RAM – $2,099.99 · 1 TB / 16 GB RAM – $2,499.99",
+    "colors": "Graphite, Cream, Lavender, Pistachio"
+   }
+  },
+  {
+   "sku": "TK-SAMSUNG-GALAXY-Z-FLIP8",
+   "slug": "samsung-galaxy-z-flip8",
+   "name": "Samsung Galaxy Z Flip8",
+   "brand": "Samsung",
+   "category": "foldables",
+   "price": "1199.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    23,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "galaxy-flagships",
+    "samsung-ecosystem"
+   ],
+   "summary": "The sleekest Galaxy Z Flip yet: 6.1 mm unfolded, 180 g, with a 6.9-inch main screen, 4.1-inch cover screen and Exynos 2600.",
+   "description": "Galaxy Z Flip8 is 6.1 mm thick unfolded and weighs 180 g. It pairs a 6.9-inch FHD+ Dynamic AMOLED 2X main screen with a 4.1-inch Super AMOLED cover screen, a 50 MP wide and 12 MP ultra-wide camera, the Exynos 2600 processor and a 4,300 mAh dual battery with 25 W wired and 15 W wireless charging.",
+   "keywords": "galaxy z flip8 flip 8 clamshell foldable",
+   "specs": {
+    "chip": "Exynos 2600",
+    "storageGb": 256,
+    "ramGb": 12,
+    "displayIn": 6.9,
+    "display": "6.9-inch FHD+ Dynamic AMOLED 2X (1080 x 2520), 1-120 Hz, Vision Booster",
+    "coverDisplay": "4.1-inch Super AMOLED (948 x 1048), 60/120 Hz",
+    "rearCamera": "50 MP wide (F1.8, OIS) + 12 MP ultra-wide",
+    "frontCamera": "10 MP",
+    "battery": "4,300 mAh (typical) dual battery",
+    "charging": "25 W wired (up to 55% in ~30 min), 15 W wireless, Wireless PowerShare",
+    "connectivity": "5G, LTE, Wi-Fi 7, Bluetooth 5.4",
+    "durability": "IP48",
+    "os": "Android 17, One UI 9",
+    "weightG": 180,
+    "dimensions": "Folded 75.4 x 85.7 x 13.1 mm; unfolded 75.4 x 166.9 x 6.1 mm",
+    "configurations": "256 GB – $1,199.99 · 512 GB – $1,399.99",
+    "colors": "Graphite, Cream, Pink, Mint"
+   }
+  },
+  {
+   "sku": "TK-SAMSUNG-GALAXY-TAB-S11-ULTRA",
+   "slug": "samsung-galaxy-tab-s11-ultra",
+   "name": "Samsung Galaxy Tab S11 Ultra",
+   "brand": "Samsung",
+   "category": "tablets",
+   "price": "1299.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    32,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "samsung-ecosystem"
+   ],
+   "summary": "14.6-inch anti-reflective Dynamic AMOLED 2X Android tablet, 5.1 mm thin, with MediaTek Dimensity 9400+, S Pen in the box and an 11,600 mAh battery.",
+   "description": "Galaxy Tab S11 Ultra has a 14.6-inch 2960 x 1848 Dynamic AMOLED 2X display with anti-reflection and 1,600-nit peak brightness in a 5.1 mm, 692 g body. It runs a 3 nm MediaTek Dimensity 9400+ with One UI 8, includes the redesigned S Pen, has IP68 protection and an 11,600 mAh battery with 45 W charging.",
+   "keywords": "galaxy tab s11 ultra android tablet s pen dex",
+   "specs": {
+    "chip": "MediaTek Dimensity 9400+",
+    "storageGb": 256,
+    "ramGb": 12,
+    "displayIn": 14.6,
+    "display": "14.6-inch Dynamic AMOLED 2X, 2960 x 1848, 120 Hz, anti-reflection, 1,600 nits peak",
+    "rearCamera": "13 MP + 8 MP ultra-wide",
+    "connectivity": "Wi-Fi 7 (5G model available)",
+    "os": "Android 16, One UI 8",
+    "weightG": 692,
+    "configurations": "256 GB / 12 GB RAM – $1,299.99 · 512 GB / 12 GB RAM – $1,499.99 · 1 TB / 16 GB RAM – $1,899.99",
+    "colors": "Gray, Silver"
+   }
+  },
+  {
+   "sku": "TK-SAMSUNG-GALAXY-TAB-S11",
+   "slug": "samsung-galaxy-tab-s11",
+   "name": "Samsung Galaxy Tab S11",
+   "brand": "Samsung",
+   "category": "tablets",
+   "price": "899.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    53,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "samsung-ecosystem"
+   ],
+   "summary": "11-inch Dynamic AMOLED 2X tablet with MediaTek Dimensity 9400+, S Pen included, IP68 rating and 8,400 mAh battery.",
+   "description": "Galaxy Tab S11 puts the flagship Tab S11 platform in an 11-inch, 469 g, 5.5 mm body: a 2560 x 1600 120 Hz Dynamic AMOLED 2X display with 1,600-nit peak brightness, MediaTek Dimensity 9400+, 12 GB of memory, IP68 durability and an in-box S Pen. The 8,400 mAh battery supports 45 W charging.",
+   "keywords": "galaxy tab s11 android tablet 11 inch",
+   "specs": {
+    "chip": "MediaTek Dimensity 9400+",
+    "storageGb": 128,
+    "ramGb": 12,
+    "displayIn": 11.0,
+    "display": "11.0-inch Dynamic AMOLED 2X, 2560 x 1600, 120 Hz, 1,600 nits peak",
+    "rearCamera": "13 MP",
+    "connectivity": "Wi-Fi 6E (5G model available)",
+    "os": "Android 16, One UI 8",
+    "weightG": 469,
+    "configurations": "128 GB – $899.99 · 256 GB – $999.99 · 512 GB – $1,199.99",
+    "colors": "Gray, Silver"
+   }
+  },
+  {
+   "sku": "TK-SAMSUNG-GALAXY-TAB-S10-FE-PLUS",
+   "slug": "samsung-galaxy-tab-s10-fe-plus",
+   "name": "Samsung Galaxy Tab S10 FE+",
+   "brand": "Samsung",
+   "category": "tablets",
+   "price": "699.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    34,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "samsung-ecosystem"
+   ],
+   "summary": "Large 13.1-inch 90 Hz LCD tablet with Exynos 1580, S Pen in the box, IP68 rating and 10,090 mAh battery.",
+   "description": "Galaxy Tab S10 FE+ offers a 13.1-inch LCD display with up to 90 Hz refresh in a 6.0 mm, 664 g body. It runs the 4 nm Exynos 1580, includes an S Pen, is rated IP68 and has a 10,090 mAh battery with 45 W charging, plus microSD expansion up to 2 TB.",
+   "keywords": "galaxy tab s10 fe plus fe+ 13 inch tablet student",
+   "specs": {
+    "chip": "Exynos 1580",
+    "storageGb": 128,
+    "ramGb": 8,
+    "displayIn": 13.1,
+    "display": "13.1-inch LCD, up to 90 Hz",
+    "rearCamera": "13 MP",
+    "connectivity": "Wi-Fi 6, Bluetooth 5.3",
+    "os": "Android 15",
+    "weightG": 664,
+    "colors": "Blue, Gray, Silver"
+   }
+  },
+  {
+   "sku": "TK-SAMSUNG-GALAXY-WATCH-ULTRA2",
+   "slug": "samsung-galaxy-watch-ultra2",
+   "name": "Samsung Galaxy Watch Ultra2",
+   "brand": "Samsung",
+   "category": "smartwatches",
+   "price": "699.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    9,
+    5
+   ],
+   "featured": true,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "samsung-ecosystem"
+   ],
+   "summary": "47 mm titanium adventure smartwatch with a 5,000-nit sapphire display, Snapdragon Wear Elite, 800 mAh battery, LTE and EN13319 dive certification.",
+   "description": "Galaxy Watch Ultra2 is the first Galaxy Watch powered by the Snapdragon Wear Elite platform. Its 1.52-inch Super AMOLED sapphire display reaches up to 5,000 nits, the 800 mAh battery is 35% larger than the previous generation, and it is rated 10ATM, IP69K and MIL-STD-810H with EN13319 certification for diving instruments. It includes LTE and dual-frequency GPS.",
+   "keywords": "galaxy watch ultra 2 ultra2 titanium lte dive wear os",
+   "specs": {
+    "caseSizes": "47 mm",
+    "chip": "Qualcomm SDW6100 (Snapdragon Wear Elite, 3 nm)",
+    "display": "1.52-inch Super AMOLED (498 x 498), sapphire crystal, up to 5,000 nits",
+    "battery": "800 mAh",
+    "waterResistance": "10ATM, IP69K, MIL-STD-810H, EN13319",
+    "health": "BioActive Sensor (optical, ECG, BIA), temperature sensor",
+    "connectivity": "LTE, Bluetooth 6.0, Wi-Fi 2.4/5 GHz, NFC, L1+L5 GPS",
+    "compatibility": "Android 13 or higher",
+    "weightG": 61.5,
+    "colors": "Titanium Silver, Titanium Gray"
+   }
+  },
+  {
+   "sku": "TK-SAMSUNG-GALAXY-WATCH9",
+   "slug": "samsung-galaxy-watch9",
+   "name": "Samsung Galaxy Watch9",
+   "brand": "Samsung",
+   "category": "smartwatches",
+   "price": "379.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    30,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "samsung-ecosystem"
+   ],
+   "summary": "Everyday Galaxy smartwatch in 40 mm and 44 mm with a 3,000-nit sapphire display, Snapdragon Wear Elite and up to 445 mAh battery.",
+   "description": "Galaxy Watch9 is designed for continuous, everyday health management with a slimmer 8.6 mm body and a Sport band with a new air-pocket structure. It runs the Snapdragon Wear Elite platform, has a sapphire-crystal Super AMOLED display up to 3,000 nits, 5ATM/IP68 and MIL-STD-810H ratings, and a battery about 20% larger than the previous generation.",
+   "keywords": "galaxy watch 9 watch9 wear os smartwatch health",
+   "specs": {
+    "caseSizes": "40 mm, 44 mm",
+    "chip": "Qualcomm SDW6100 (Snapdragon Wear Elite, 3 nm)",
+    "display": "Super AMOLED, sapphire crystal: 1.34-inch (40 mm) / 1.47-inch (44 mm), up to 3,000 nits",
+    "battery": "390 mAh (40 mm) / 445 mAh (44 mm)",
+    "waterResistance": "5ATM, IP68, MIL-STD-810H",
+    "health": "BioActive Sensor (optical, ECG, BIA), temperature sensor",
+    "connectivity": "Bluetooth 6.0, Wi-Fi 2.4/5 GHz, NFC, L1+L5 GPS (LTE models available)",
+    "compatibility": "Android 13 or higher",
+    "weightG": 31.5,
+    "configurations": "40 mm Bluetooth – $379.99 · 44 mm Bluetooth – $409.99 · 40 mm LTE – $429.99 · 44 mm LTE – $459.99",
+    "colors": "Graphite, Cream (40 mm), Silver (44 mm)"
+   }
+  },
+  {
+   "sku": "TK-SAMSUNG-GALAXY-WATCH8-CLASSIC",
+   "slug": "samsung-galaxy-watch8-classic",
+   "name": "Samsung Galaxy Watch8 Classic",
+   "brand": "Samsung",
+   "category": "smartwatches",
+   "price": "499.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    43,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "samsung-ecosystem"
+   ],
+   "summary": "46 mm Galaxy smartwatch with a rotating bezel, quick button, Exynos W1000, 64 GB storage and 445 mAh battery.",
+   "description": "Galaxy Watch8 Classic brings a rotating bezel and a quick button to a 46 mm case, with a 1.34-inch sapphire-crystal Super AMOLED display, the 3 nm Exynos W1000, 2 GB of memory and 64 GB of storage. It carries 5ATM, IP68 and MIL-STD-810H ratings and a 445 mAh battery.",
+   "keywords": "galaxy watch8 classic rotating bezel wear os",
+   "specs": {
+    "caseSizes": "46 mm",
+    "chip": "Exynos W1000 (5-core, 3 nm)",
+    "display": "1.34-inch Super AMOLED (438 x 438), sapphire crystal",
+    "battery": "445 mAh",
+    "waterResistance": "5ATM, IP68, MIL-STD-810H",
+    "health": "BioActive Sensor (optical, ECG, BIA), temperature sensor",
+    "connectivity": "Bluetooth 5.3, Wi-Fi 2.4/5 GHz, NFC, L1+L5 GPS (LTE model available)",
+    "weightG": 63.5,
+    "configurations": "46 mm Bluetooth – $499.99 · 46 mm LTE – $549.99",
+    "colors": "Black, White"
+   }
+  },
+  {
+   "sku": "TK-SAMSUNG-GALAXY-RING",
+   "slug": "samsung-galaxy-ring",
+   "name": "Samsung Galaxy Ring",
+   "brand": "Samsung",
+   "category": "smart-rings",
+   "price": "399.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    37,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "samsung-ecosystem"
+   ],
+   "summary": "Titanium smart ring for sleep, activity and heart-rate tracking with up to 7 days of battery, 10ATM water resistance and no subscription required.",
+   "description": "Galaxy Ring is Samsung's smallest wearable: a Grade 5 titanium ring weighing 2.3 g to 3 g depending on size, with skin temperature, heart rate and accelerometer sensors. It lasts up to seven days per charge in its LED-lit charging case and is 10ATM water resistant. Sizes range from 5 to 15.",
+   "keywords": "galaxy ring smart ring sleep tracking titanium",
+   "specs": {
+    "caseSizes": "Sizes 5-15",
+    "battery": "Up to 7 days (size dependent)",
+    "waterResistance": "10ATM",
+    "health": "Skin temperature sensor, heart rate sensor, accelerometer; sleep and activity tracking",
+    "weightG": 2.3,
+    "colors": "Titanium Silver, Titanium Black, Titanium Gold"
+   }
+  },
+  {
+   "sku": "TK-SAMSUNG-GALAXY-BUDS4-PRO",
+   "slug": "samsung-galaxy-buds4-pro",
+   "name": "Samsung Galaxy Buds4 Pro",
+   "brand": "Samsung",
+   "category": "earbuds",
+   "price": "249.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    49,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "samsung-ecosystem"
+   ],
+   "summary": "Samsung's flagship ANC earbuds with a two-way woofer and tweeter, 24-bit/96 kHz Hi-Fi audio, Adaptive ANC and IP57 earbuds.",
+   "description": "Galaxy Buds4 Pro use a canal-fit design developed from over 100 million ear-shape data points, with a wider woofer and dedicated tweeter for 24-bit Hi-Fi sound. Enhanced Adaptive ANC and Adaptive EQ tune to each wearer, and Head Gesture controls let you manage calls hands-free. Earbuds last up to 6 hours with ANC on (26 hours with the case).",
+   "keywords": "galaxy buds 4 pro buds4 pro anc hi-fi earbuds",
+   "specs": {
+    "connectivity": "Bluetooth 6.1, Auto Switch",
+    "noiseCancelling": true,
+    "batteryHours": 6,
+    "drivers": "2-way: 11 mm woofer + 5.5 x 3.5 mm tweeter",
+    "codecs": "SSC HiFi, SSC UHQ, AAC, SBC, LC3",
+    "waterResistance": "IP57 (earbuds)",
+    "weightG": 5.1,
+    "colors": "White, Black, Pink Gold"
+   }
+  },
+  {
+   "sku": "TK-SAMSUNG-GALAXY-BUDS4",
+   "slug": "samsung-galaxy-buds4",
+   "name": "Samsung Galaxy Buds4",
+   "brand": "Samsung",
+   "category": "earbuds",
+   "price": "179.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    46,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "samsung-ecosystem"
+   ],
+   "summary": "Open-fit Galaxy earbuds with ANC, Adaptive EQ, 24-bit Hi-Fi support and up to 30 hours total battery with the case.",
+   "description": "Galaxy Buds4 use an open-fit design for all-day comfort with enhanced Active Noise Cancellation and Adaptive EQ. They support 24-bit Hi-Fi and 360 Audio, connect over Bluetooth 6.1 with Auto Switch, and play up to 5 hours with ANC on (24 hours with the case).",
+   "keywords": "galaxy buds 4 buds4 open fit earbuds",
+   "specs": {
+    "connectivity": "Bluetooth 6.1, Auto Switch",
+    "noiseCancelling": true,
+    "batteryHours": 5,
+    "drivers": "11 mm 1-way dynamic",
+    "codecs": "SSC HiFi, SSC UHQ, AAC, SBC, LC3",
+    "waterResistance": "IP54 (earbuds)",
+    "weightG": 4.6,
+    "colors": "White, Black"
+   }
+  },
+  {
+   "sku": "TK-SAMSUNG-GALAXY-BUDS3-FE",
+   "slug": "samsung-galaxy-buds3-fe",
+   "name": "Samsung Galaxy Buds3 FE",
+   "brand": "Samsung",
+   "category": "earbuds",
+   "price": "149.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    16,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "samsung-ecosystem"
+   ],
+   "summary": "Affordable Galaxy earbuds with the Blade design, ANC, Galaxy AI integration and up to 30 hours total battery.",
+   "description": "Galaxy Buds3 FE bring the iconic Blade design with pinch and swipe controls, a larger speaker than the previous Buds FE, and enhanced ANC. They support Galaxy AI features such as Interpreter and Live Translate with compatible Galaxy phones, and last up to 6 hours with ANC on (24 hours with the case).",
+   "keywords": "galaxy buds3 fe budget anc earbuds",
+   "specs": {
+    "connectivity": "Bluetooth 5.4, Auto Switch",
+    "noiseCancelling": true,
+    "batteryHours": 6,
+    "drivers": "1-way dynamic driver",
+    "codecs": "SSC, AAC, SBC",
+    "waterResistance": "IP54 (earbuds)",
+    "weightG": 5.0,
+    "colors": "Gray, Black"
+   }
+  },
+  {
+   "sku": "TK-SAMSUNG-GALAXY-BOOK6-ULTRA",
+   "slug": "samsung-galaxy-book6-ultra",
+   "name": "Samsung Galaxy Book6 Ultra",
+   "brand": "Samsung",
+   "category": "creator-laptops",
+   "price": "2899.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    41,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "premium-laptops",
+    "creator-workstations",
+    "samsung-ecosystem"
+   ],
+   "summary": "Samsung's most powerful 16-inch Galaxy Book with Intel Core Ultra Series 3, up to GeForce RTX 5070, a 1,000-nit AMOLED touch display and an 80 Wh battery.",
+   "description": "Galaxy Book6 Ultra is built on Intel Core Ultra Series 3 processors (Intel 18A) with an NPU up to 50 TOPS, and is offered with integrated Intel Arc B390 graphics or NVIDIA GeForce RTX 5060/5070 laptop GPUs. Its 16-inch 2880 x 1800 anti-reflective touch AMOLED display reaches 1,000 nits HDR, and the 15.4 mm chassis houses six speakers, two Thunderbolt 4 ports, HDMI 2.1 and an 80.2 Wh battery.",
+   "keywords": "galaxy book6 ultra copilot+ pc rtx 5070 creator laptop amoled",
+   "specs": {
+    "cpu": "Intel Core Ultra X7 358H",
+    "cpuBrand": "Intel",
+    "gpu": "Intel Arc B390 (integrated)",
+    "ramGb": 32,
+    "storageTb": 1,
+    "displayIn": 16.0,
+    "display": "16-inch WQXGA+ (2880 x 1800) touch AMOLED, anti-reflective, 1,000 nits",
+    "batteryWh": 80.2,
+    "weightKg": 1.79,
+    "os": "Windows 11 Home",
+    "npuTops": 50,
+    "ports": "2x Thunderbolt 4, USB-A, HDMI 2.1, SD card, headphone/mic",
+    "wireless": "Wi-Fi 7, Bluetooth 5.4",
+    "configurations": "Core Ultra X7 358H / Arc B390 / 32 GB / 1 TB – $2,899.99 · Core Ultra 7 356H / RTX 5060 / 32 GB / 1 TB – $3,599.99 · Core Ultra 7 356H / RTX 5070 / 32 GB / 1 TB – $3,799.99 · Core Ultra 9 386H / RTX 5070 / 32 GB / 1 TB – $3,999.99 · Core Ultra 9 386H / RTX 5070 / 64 GB / 2 TB – $5,299.99",
+    "colors": "Gray"
+   }
+  },
+  {
+   "sku": "TK-SAMSUNG-GALAXY-BOOK6-PRO-16",
+   "slug": "samsung-galaxy-book6-pro-16",
+   "name": "Samsung Galaxy Book6 Pro 16\"",
+   "brand": "Samsung",
+   "category": "premium-laptops",
+   "price": "2199.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    38,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "premium-laptops",
+    "samsung-ecosystem"
+   ],
+   "summary": "11.9 mm, 1.59 kg 16-inch AMOLED touch laptop with Intel Core Ultra Series 3, up to 50 TOPS NPU and a 78 Wh battery.",
+   "description": "Galaxy Book6 Pro 16\" uses Intel Core Ultra Series 3 (Intel Evo Edition) processors in an 11.9 mm chassis, 0.6 mm thinner than Galaxy Book5 Pro 16\". It has a 16-inch anti-reflective touch AMOLED display, quad speakers with Dolby Atmos, a haptic touchpad, two Thunderbolt 4 ports, HDMI 2.1, a second SSD slot and a 78.07 Wh battery with 65 W USB-C charging.",
+   "keywords": "galaxy book6 pro 16 copilot+ pc amoled thin laptop",
+   "specs": {
+    "cpu": "Intel Core Ultra 7 356H",
+    "cpuBrand": "Intel",
+    "gpu": "Intel Graphics (integrated)",
+    "ramGb": 16,
+    "storageTb": 1,
+    "displayIn": 16.0,
+    "display": "16-inch touch AMOLED, anti-reflective",
+    "batteryWh": 78.07,
+    "weightKg": 1.59,
+    "os": "Windows 11 Home",
+    "npuTops": 50,
+    "ports": "2x Thunderbolt 4, USB-A, HDMI 2.1, headphone/mic",
+    "wireless": "Wi-Fi 7, Bluetooth 5.4",
+    "configurations": "Core Ultra 7 356H / 16 GB / 1 TB – $2,199.99 · Core Ultra 7 356H / 32 GB / 1 TB – $2,549.99 · Core Ultra X7 358H / Arc B390 / 32 GB / 1 TB – $2,649.99",
+    "colors": "Gray"
+   }
+  },
+  {
+   "sku": "TK-SAMSUNG-GALAXY-BOOK6-PRO-14",
+   "slug": "samsung-galaxy-book6-pro-14",
+   "name": "Samsung Galaxy Book6 Pro 14\"",
+   "brand": "Samsung",
+   "category": "premium-laptops",
+   "price": "1799.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    34,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "premium-laptops",
+    "developer-setup",
+    "samsung-ecosystem"
+   ],
+   "summary": "Portable 14-inch AMOLED touch laptop weighing 1.24 kg with Intel Core Ultra Series 3, Thunderbolt 4 and a 67 Wh battery.",
+   "description": "Galaxy Book6 Pro 14\" is an 11.6 mm, 1.24 kg ultraportable with a 14-inch anti-reflective touch AMOLED display and Intel Core Ultra Series 3 processors with an NPU up to 50 TOPS. It includes stereo Dolby Atmos speakers, a haptic touchpad, two Thunderbolt 4 ports, HDMI 2.1, Wi-Fi 7 and a 67.18 Wh battery with 65 W charging.",
+   "keywords": "galaxy book6 pro 14 copilot+ pc ultraportable amoled",
+   "specs": {
+    "cpu": "Intel Core Ultra 7 356H",
+    "cpuBrand": "Intel",
+    "gpu": "Intel Graphics (integrated)",
+    "ramGb": 16,
+    "storageTb": 0.5,
+    "displayIn": 14.0,
+    "display": "14-inch touch AMOLED, anti-reflective",
+    "batteryWh": 67.18,
+    "weightKg": 1.24,
+    "os": "Windows 11 Home",
+    "npuTops": 50,
+    "ports": "2x Thunderbolt 4, USB-A, HDMI 2.1, headphone/mic",
+    "wireless": "Wi-Fi 7, Bluetooth 5.4",
+    "configurations": "Core Ultra 7 356H / 16 GB / 512 GB – $1,799.99 · Core Ultra 7 356H / 32 GB / 1 TB – $2,449.99",
+    "colors": "Gray"
+   }
+  },
+  {
+   "sku": "TK-SAMSUNG-GALAXY-BOOK6-EDGE",
+   "slug": "samsung-galaxy-book6-edge",
+   "name": "Samsung Galaxy Book6 Edge",
+   "brand": "Samsung",
+   "category": "premium-laptops",
+   "price": "2099.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    28,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "premium-laptops",
+    "samsung-ecosystem"
+   ],
+   "summary": "16-inch Snapdragon X2 Elite Copilot+ PC with up to 80 TOPS NPU, 120 Hz AMOLED touch display, 22-hour battery life and 1 TB storage.",
+   "description": "Galaxy Book6 Edge runs the Snapdragon X2 Elite platform with up to 80 TOPS of on-device AI performance. Its 16-inch Dynamic AMOLED 2X anti-reflective touch display uses Gorilla Glass DX and an adaptive refresh rate up to 120 Hz. It is 0.48 inches thin and 3.42 lb, offers up to 22 hours of video playback, 65 W Super Fast Charging, quad Dolby Atmos speakers, a microSD slot, Wi-Fi 7 and Bluetooth 5.4.",
+   "keywords": "galaxy book6 edge snapdragon x2 elite arm copilot+ pc",
+   "specs": {
+    "cpu": "Snapdragon X2 Elite",
+    "cpuBrand": "Qualcomm",
+    "gpu": "Qualcomm Adreno (integrated)",
+    "ramGb": 16,
+    "storageTb": 1,
+    "displayIn": 16.0,
+    "display": "16-inch Dynamic AMOLED 2X touch, anti-reflective, up to 120 Hz, Gorilla Glass DX",
+    "weightKg": 1.55,
+    "os": "Windows 11 Home",
+    "npuTops": 80,
+    "wireless": "Wi-Fi 7, Bluetooth 5.4",
+    "colors": "Gray Blue"
+   }
+  },
+  {
+   "sku": "TK-SAMSUNG-GALAXY-BOOK6",
+   "slug": "samsung-galaxy-book6",
+   "name": "Samsung Galaxy Book6",
+   "brand": "Samsung",
+   "category": "premium-laptops",
+   "price": "1249.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    21,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "samsung-ecosystem"
+   ],
+   "summary": "Everyday Galaxy Book6 Copilot+ PC in 14-inch and 16-inch sizes with Intel Core Ultra Series 3 and a 49 TOPS NPU.",
+   "description": "Galaxy Book6 brings Intel Core Ultra 5 or 7 Series 3 processors with an NPU up to 49 TOPS to an everyday laptop, with a 1920 x 1200 IPS anti-glare display (touch optional on 16-inch), 16 GB of LPDDR5X memory, Wi-Fi 6E, Dolby Atmos stereo speakers and a 61.2 Wh battery.",
+   "keywords": "galaxy book6 14 16 everyday laptop copilot+ pc",
+   "specs": {
+    "cpu": "Intel Core Ultra 5 325",
+    "cpuBrand": "Intel",
+    "gpu": "Intel Graphics (integrated)",
+    "ramGb": 16,
+    "storageTb": 0.5,
+    "displayIn": 14.0,
+    "display": "14-inch IPS anti-glare, WUXGA (1920 x 1200), 350 nits",
+    "batteryWh": 61.2,
+    "weightKg": 1.48,
+    "os": "Windows 11 Home",
+    "npuTops": 49,
+    "wireless": "Wi-Fi 6E, Bluetooth 5.4",
+    "configurations": "14\" / Core Ultra 5 325 / 16 GB / 512 GB – $1,249.99 · 14\" / Core Ultra 7 355 / 16 GB / 512 GB – $1,349.99 · 16\" / Core Ultra 5 325 / 16 GB / 512 GB – $1,349.99 · 16\" touch / Core Ultra 7 355 / 16 GB / 512 GB – $1,449.99 · 16\" / Core Ultra 7 355 / 16 GB / 1 TB – $1,749.99",
+    "colors": "Gray"
+   }
+  },
+  {
+   "sku": "TK-SAMSUNG-9100PRO",
+   "slug": "samsung-9100-pro-nvme-ssd",
+   "name": "Samsung 9100 PRO PCIe 5.0 NVMe M.2 SSD",
+   "brand": "Samsung",
+   "category": "ssds",
+   "price": "339.99",
+   "compareAt": null,
+   "warranty": 60,
+   "stock": [
+    41,
+    5
+   ],
+   "featured": true,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "high-end-storage",
+    "samsung-ecosystem",
+    "developer-setup",
+    "ultimate-gaming-setup"
+   ],
+   "summary": "Samsung's PCIe 5.0 x4 NVMe 2.0 M.2 2280 SSD with up to 14,800 MB/s sequential reads, offered from 1TB to 8TB with an optional heatsink.",
+   "description": "The 9100 PRO uses a Samsung in-house controller, Samsung V-NAND TLC and LPDDR4X cache for PCIe 5.0 x4 / NVMe 2.0 performance. The 1TB model is rated at up to 14,700 MB/s sequential read and 13,300 MB/s sequential write with 600 TBW endurance, and larger capacities reach 14,800 / 13,400 MB/s. It carries a 5-year limited warranty and is also sold in a heatsink version for desktops and PlayStation 5.",
+   "keywords": "pcie gen5 gen 5 nvme m.2 2280 ssd 9100pro heatsink ps5 playstation 8tb",
+   "specs": {
+    "capacityTb": 1,
+    "interface": "PCIe 5.0 x4, NVMe 2.0",
+    "formFactor": "M.2 2280",
+    "readMbps": 14700,
+    "writeMbps": 13300,
+    "enduranceTbw": 600,
+    "configurations": "1TB – $339.99 · 2TB – $679.99 · 4TB – $1,359.99 · 8TB – $2,719.99 · 1TB with Heatsink – $359.99 · 2TB with Heatsink – $709.99 · 4TB with Heatsink – $1,399.99 · 8TB with Heatsink – $2,769.99"
+   }
+  },
+  {
+   "sku": "TK-SAMSUNG-990PRO-HEATSINK",
+   "slug": "samsung-990-pro-with-heatsink",
+   "name": "Samsung 990 PRO with Heatsink PCIe 4.0 NVMe M.2 SSD",
+   "brand": "Samsung",
+   "category": "ssds",
+   "price": "339.99",
+   "compareAt": null,
+   "warranty": 60,
+   "stock": [
+    8,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "high-end-storage",
+    "ultimate-gaming-setup"
+   ],
+   "summary": "PCIe 4.0 NVMe M.2 SSD with an integrated heatsink, rated up to 7,450 / 6,900 MB/s and sized for desktops and PlayStation 5.",
+   "description": "The 990 PRO with Heatsink pairs Samsung V-NAND TLC and LPDDR4 DRAM cache with a PCIe Gen 4.0 x4 / NVMe 2.0 interface for up to 7,450 MB/s sequential read and 6,900 MB/s sequential write. With the heatsink fitted its maximum dimensions are 80.15 x 25 x 8.88 mm. Endurance is 600 TBW for 1TB, 1,200 TBW for 2TB and 2,400 TBW for 4TB, backed by a 5-year limited warranty.",
+   "keywords": "990pro heatsink pcie gen4 nvme m.2 ps5 playstation gaming ssd",
+   "specs": {
+    "capacityTb": 1,
+    "interface": "PCIe 4.0 x4, NVMe 2.0",
+    "formFactor": "M.2 2280 with heatsink",
+    "readMbps": 7450,
+    "writeMbps": 6900,
+    "enduranceTbw": 600,
+    "configurations": "1TB – $339.99 · 2TB – $669.99 · 4TB – $1,139.99"
+   }
+  },
+  {
+   "sku": "TK-SAMSUNG-990EVOPLUS",
+   "slug": "samsung-990-evo-plus-nvme-ssd",
+   "name": "Samsung 990 EVO Plus NVMe M.2 SSD",
+   "brand": "Samsung",
+   "category": "ssds",
+   "price": "289.99",
+   "compareAt": null,
+   "warranty": 60,
+   "stock": [
+    14,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "high-end-storage",
+    "developer-setup"
+   ],
+   "summary": "DRAM-less HMB NVMe M.2 SSD that runs on PCIe 4.0 x4 or PCIe 5.0 x2, rated up to 7,250 MB/s reads, in 1TB to 4TB.",
+   "description": "The 990 EVO Plus combines Samsung V-NAND TLC with Host Memory Buffer caching and a hybrid PCIe 4.0 x4 / PCIe 5.0 x2 NVMe 2.0 interface. The 1TB model is rated at 7,150 MB/s sequential read and 6,300 MB/s sequential write, with 2TB and 4TB reaching 7,250 MB/s reads. Endurance ranges from 600 TBW (1TB) to 2,400 TBW (4TB) under a 5-year limited warranty.",
+   "keywords": "990 evo plus nvme m.2 2280 pcie gen4 gen5 x2 hmb ssd laptop",
+   "specs": {
+    "capacityTb": 1,
+    "interface": "PCIe 4.0 x4 / PCIe 5.0 x2, NVMe 2.0",
+    "formFactor": "M.2 2280",
+    "readMbps": 7150,
+    "writeMbps": 6300,
+    "enduranceTbw": 600,
+    "configurations": "1TB – $289.99 · 2TB – $579.99 · 4TB – $1,049.99"
+   }
+  },
+  {
+   "sku": "TK-SAMSUNG-870EVO",
+   "slug": "samsung-870-evo-sata-ssd",
+   "name": "Samsung 870 EVO 2.5-inch SATA SSD",
+   "brand": "Samsung",
+   "category": "ssds",
+   "price": "299.99",
+   "compareAt": null,
+   "warranty": 60,
+   "stock": [
+    47,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "homelab-essentials",
+    "high-end-storage"
+   ],
+   "summary": "2.5-inch SATA 6 Gb/s SSD rated up to 560 / 530 MB/s, the go-to upgrade for older PCs, laptops and NAS bays, from 500GB to 8TB.",
+   "description": "The 870 EVO uses Samsung's MKX controller and V-NAND 3-bit MLC behind a SATA 6 Gb/s interface in a 100 x 69.85 x 6.8 mm 2.5-inch body. Sequential performance is rated up to 560 MB/s read and 530 MB/s write with Intelligent TurboWrite. The 500GB model is rated for 300 TBW, scaling to 2,400 TBW at 4TB, with a 5-year limited warranty.",
+   "keywords": "870evo sata 2.5 inch ssd upgrade laptop desktop nas",
+   "specs": {
+    "capacityTb": 0.5,
+    "interface": "SATA 6 Gb/s",
+    "formFactor": "2.5-inch",
+    "readMbps": 560,
+    "writeMbps": 530,
+    "enduranceTbw": 300,
+    "configurations": "500GB – $299.99 · 1TB – $414.99 · 2TB – $879.99 · 4TB – $1,759.99 · 8TB – $3,519.99"
+   }
+  },
+  {
+   "sku": "TK-SAMSUNG-T7-SHIELD",
+   "slug": "samsung-portable-ssd-t7-shield",
+   "name": "Samsung Portable SSD T7 Shield",
+   "brand": "Samsung",
+   "category": "external-storage",
+   "price": "287.99",
+   "compareAt": null,
+   "warranty": 36,
+   "stock": [
+    46,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "high-end-storage",
+    "samsung-ecosystem"
+   ],
+   "summary": "Rugged IP65 USB 3.2 Gen 2 portable SSD with a rubberised shell, rated up to 1,050 / 1,000 MB/s, in 1TB, 2TB and 4TB.",
+   "description": "T7 Shield connects over USB 3.2 Gen 2 (10 Gbps) with sequential read/write speeds of up to 1,050 / 1,000 MB/s. Its rubber-coated body is IP65 rated for dust and water resistance, measures 88 x 59 x 13 mm and weighs 98 grams. It ships with USB-C to C and USB-C to A cables and a 3-year limited warranty.",
+   "keywords": "t7 shield portable ssd rugged ip65 usb-c external drive creators",
+   "specs": {
+    "capacityTb": 1,
+    "interface": "USB 3.2 Gen 2 (10 Gbps), USB-C",
+    "readMbps": 1050,
+    "configurations": "1TB – $287.99 · 2TB – $574.99 · 4TB – $1,144.99",
+    "colors": "Black, Blue, Beige"
+   }
+  },
+  {
+   "sku": "TK-SAMSUNG-T7",
+   "slug": "samsung-portable-ssd-t7",
+   "name": "Samsung Portable SSD T7",
+   "brand": "Samsung",
+   "category": "external-storage",
+   "price": "274.99",
+   "compareAt": null,
+   "warranty": 36,
+   "stock": [
+    22,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "samsung-ecosystem"
+   ],
+   "summary": "Pocket-sized aluminium USB 3.2 Gen 2 portable SSD rated up to 1,050 / 1,000 MB/s, now offered up to 4TB.",
+   "description": "The Portable SSD T7 uses a USB 3.2 Gen 2 (10 Gbps) interface for sequential read/write speeds of up to 1,050 / 1,000 MB/s. The aluminium unibody measures 85 x 57 x 8 mm and weighs 58 grams. It is covered by a 3-year limited warranty.",
+   "keywords": "t7 portable ssd usb-c external drive aluminium slim",
+   "specs": {
+    "capacityTb": 1,
+    "interface": "USB 3.2 Gen 2 (10 Gbps), USB-C",
+    "readMbps": 1050,
+    "configurations": "1TB – $274.99 · 2TB – $549.99 · 4TB – $1,094.99",
+    "colors": "Gray, Blue"
+   }
+  },
+  {
+   "sku": "TK-SAMSUNG-T5-EVO",
+   "slug": "samsung-portable-ssd-t5-evo",
+   "name": "Samsung Portable SSD T5 EVO",
+   "brand": "Samsung",
+   "category": "external-storage",
+   "price": "289.99",
+   "compareAt": null,
+   "warranty": 36,
+   "stock": [
+    16,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "homelab-essentials"
+   ],
+   "summary": "High-capacity USB 3.2 Gen 1 portable SSD in 2TB, 4TB and 8TB, rated up to 460 MB/s in a compact 102 g body.",
+   "description": "The T5 EVO targets large portable libraries with capacities up to 8TB over USB 3.2 Gen 1 (5 Gbps), rated for up to 460 MB/s sequential read and write. It measures 40 x 95 x 17 mm, weighs 102 grams and supports AES 256-bit hardware encryption. It carries a 3-year limited warranty.",
+   "keywords": "t5 evo portable ssd 8tb usb-c external drive backup",
+   "specs": {
+    "capacityTb": 2,
+    "interface": "USB 3.2 Gen 1 (5 Gbps), USB-C",
+    "readMbps": 460,
+    "configurations": "2TB – $289.99 · 4TB – $579.99 · 8TB – $1,119.99",
+    "colors": "Black"
+   }
+  },
+  {
+   "sku": "TK-SAMSUNG-P9-EXPRESS",
+   "slug": "samsung-p9-express-microsd-express-card",
+   "name": "Samsung P9 Express microSD Express Card",
+   "brand": "Samsung",
+   "category": "external-storage",
+   "price": "79.99",
+   "compareAt": null,
+   "warranty": 36,
+   "stock": [
+    35,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "samsung-ecosystem"
+   ],
+   "summary": "microSD Express card with a PCIe Gen 3.0 x1 / NVMe interface, rated up to 800 MB/s reads, compatible with Nintendo Switch 2.",
+   "description": "The P9 Express is a microSDXC Express card that uses PCIe Gen 3.0 x1 with NVMe 1.3 (SD 7.1) for sequential reads up to 800 MB/s in SD Express hosts, falling back to UHS-I (up to 90 MB/s) in standard slots. It is offered in 256GB and 512GB and carries a 3-year limited warranty.",
+   "keywords": "microsd express p9 nintendo switch 2 memory card 800mb/s",
+   "specs": {
+    "capacityTb": 0.256,
+    "interface": "microSD Express (PCIe 3.0 x1, NVMe 1.3, SD 7.1)",
+    "readMbps": 800,
+    "configurations": "256GB – $79.99 · 512GB – $149.99"
+   }
+  },
+  {
+   "sku": "TK-SAMSUNG-PM1763",
+   "slug": "samsung-pm1763-enterprise-ssd",
+   "name": "Samsung PM1763 PCIe 6.0 Enterprise SSD",
+   "brand": "Samsung",
+   "category": "enterprise-ssds",
+   "price": "3899.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    11,
+    3
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "enterprise-servers",
+    "high-end-storage",
+    "ai-lab"
+   ],
+   "summary": "PCIe 6.0 x4 enterprise NVMe SSD rated up to 28,400 MB/s reads, in 2.5-inch, E1.S and E3.S up to 61.44TB for AI and hyperscale servers.",
+   "description": "PM1763 is Samsung's PCIe Gen6 enterprise SSD, rated up to 28,400 MB/s sequential read, 21,000 MB/s sequential write and 6,800K random read IOPS. It is offered in 2.5-inch, E1.S and E3.S form factors from 3.84TB to 61.44TB (the U.2 version runs at PCIe Gen5), is NVMe 2.1 and OCP 2.6 compliant, and is rated for 1 DWPD over 5 years.",
+   "keywords": "enterprise datacenter nvme ssd server samsung pm1763 pcie 6.0 enterprise ssd",
+   "specs": {
+    "capacityTb": 7.68,
+    "interface": "PCIe 6.0 x4, NVMe 2.1",
+    "formFactor": "2.5-inch U.2, E1.S, E3.S",
+    "readMbps": 28400,
+    "dwpd": 1,
+    "configurations": "3.84TB · 7.68TB · 15.36TB · 30.72TB · 61.44TB"
+   }
+  },
+  {
+   "sku": "TK-SAMSUNG-PM1753",
+   "slug": "samsung-pm1753-enterprise-ssd",
+   "name": "Samsung PM1753 PCIe 5.0 Enterprise SSD",
+   "brand": "Samsung",
+   "category": "enterprise-ssds",
+   "price": "2899.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    54,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "enterprise-servers",
+    "high-end-storage",
+    "ai-lab"
+   ],
+   "summary": "PCIe 5.0 x4 enterprise NVMe SSD rated up to 14,500 MB/s and 3,300K IOPS, with PLP and encryption, up to 30.72TB.",
+   "description": "PM1753 delivers up to 14,500 MB/s sequential read, 10,000 MB/s sequential write and 3,300K random read IOPS over PCIe 5.0 x4. It integrates power-loss protection, AES-XTS 256-bit encryption and OCP compliance, comes in 2.5-inch, E1.S and E3.S form factors from 1.92TB to 30.72TB, and is rated for 1 DWPD over 5 years.",
+   "keywords": "enterprise datacenter nvme ssd server samsung pm1753 pcie 5.0 enterprise ssd",
+   "specs": {
+    "capacityTb": 7.68,
+    "interface": "PCIe 5.0 x4, NVMe",
+    "formFactor": "2.5-inch U.2, E1.S, E3.S",
+    "readMbps": 14500,
+    "dwpd": 1,
+    "configurations": "1.92TB · 3.84TB · 7.68TB · 15.36TB · 30.72TB"
+   }
+  },
+  {
+   "sku": "TK-SAMSUNG-PM1743",
+   "slug": "samsung-pm1743-enterprise-ssd",
+   "name": "Samsung PM1743 PCIe 5.0 Enterprise SSD",
+   "brand": "Samsung",
+   "category": "enterprise-ssds",
+   "price": "1499.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    35,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "enterprise-servers",
+    "high-end-storage",
+    "ai-lab"
+   ],
+   "summary": "PCIe 5.0 x4 enterprise NVMe SSD rated up to 14,000 MB/s and 2,500K IOPS, in 2.5-inch and E3.S from 1.92TB to 15.36TB.",
+   "description": "PM1743 is a PCIe 5.0 x4 enterprise SSD rated up to 14,000 MB/s sequential read, 7,100 MB/s sequential write and 2,500K random read IOPS. It includes power-loss protection, LDPC ECC and Opal 2.01 security, and is offered in 2.5-inch and E3.S form factors from 1.92TB to 15.36TB with 1 DWPD over 5 years.",
+   "keywords": "enterprise datacenter nvme ssd server samsung pm1743 pcie 5.0 enterprise ssd",
+   "specs": {
+    "capacityTb": 3.84,
+    "interface": "PCIe 5.0 x4, NVMe",
+    "formFactor": "2.5-inch U.2, E3.S",
+    "readMbps": 14000,
+    "dwpd": 1,
+    "configurations": "1.92TB · 3.84TB · 7.68TB · 15.36TB"
+   }
+  },
+  {
+   "sku": "TK-SAMSUNG-PM9D3A",
+   "slug": "samsung-pm9d3a-datacenter-ssd",
+   "name": "Samsung PM9D3a PCIe 5.0 Data Center SSD",
+   "brand": "Samsung",
+   "category": "enterprise-ssds",
+   "price": "1349.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    42,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "enterprise-servers",
+    "high-end-storage",
+    "ai-lab"
+   ],
+   "summary": "PCIe 5.0 data center NVMe SSD rated up to 12,000 MB/s and 2,000K IOPS, in U.2, E1.S and E3.S from 960GB to 30.72TB.",
+   "description": "PM9D3a is Samsung's PCIe 5.0 data center SSD, rated up to 12,000 MB/s sequential read, 6,800 MB/s sequential write and 2,000K random read IOPS. It comes in 2.5-inch U.2, E1.S and E3.S form factors from 960GB to 30.72TB, with enhanced power-loss protection, OCP 2.5 compliance and 1 DWPD over 5 years.",
+   "keywords": "enterprise datacenter nvme ssd server samsung pm9d3a pcie 5.0 data center ssd",
+   "specs": {
+    "capacityTb": 3.84,
+    "interface": "PCIe 5.0 x4, NVMe",
+    "formFactor": "2.5-inch U.2, E1.S, E3.S",
+    "readMbps": 12000,
+    "dwpd": 1,
+    "configurations": "960GB · 1.92TB · 3.84TB · 7.68TB · 15.36TB · 30.72TB"
+   }
+  },
+  {
+   "sku": "TK-SAMSUNG-HW-Q990H",
+   "slug": "samsung-hw-q990h-soundbar",
+   "name": "Samsung HW-Q990H 11.1.4ch Q-Series Soundbar",
+   "brand": "Samsung",
+   "category": "home-audio",
+   "price": "1999.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    32,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "samsung-ecosystem"
+   ],
+   "summary": "Samsung's 2026 flagship 11.1.4-channel Dolby Atmos soundbar system with a dual-driver wireless subwoofer and up-firing wireless rear speakers.",
+   "description": "The HW-Q990H delivers true 11.1.4-channel sound from 23 speakers across the soundbar, a compact subwoofer with dual 8-inch active units and two up-firing wireless rear speakers. It supports Wireless Dolby Atmos, HDMI 2.1 with eARC and 4K 120Hz pass-through, and adds 2026 AI features including SpaceFit Sound Pro, AI Dynamic Bass Control, Sound Elevation and Auto Volume.",
+   "keywords": "q990h soundbar dolby atmos 11.1.4 home theater subwoofer rear speakers q-symphony",
+   "specs": {
+    "channels": "11.1.4",
+    "drivers": "23 speakers incl. subwoofer with dual 8-inch active units",
+    "connectivity": "2x HDMI in, HDMI out (eARC), optical, Wi-Fi, Bluetooth 5.3",
+    "codecs": "Dolby Atmos, Dolby TrueHD, Dolby Digital Plus; MP3, AAC, OGG, FLAC, WAV, ALAC, AIFF",
+    "weightG": 7300,
+    "colors": "Titan Black"
+   }
+  },
+  {
+   "sku": "TK-SAMSUNG-HW-QS90H",
+   "slug": "samsung-hw-qs90h-soundbar",
+   "name": "Samsung HW-QS90H 7.1.2ch All-in-One Soundbar",
+   "brand": "Samsung",
+   "category": "home-audio",
+   "price": "999.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    35,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "samsung-ecosystem"
+   ],
+   "summary": "Samsung's first all-in-one Q-Series soundbar: 7.1.2 channels with four built-in woofers and no separate subwoofer.",
+   "description": "The HW-QS90H packs 13 speakers, including four built-in woofers, into a single bar for 7.1.2-channel Dolby Atmos sound without a separate subwoofer. A gyro sensor detects whether it is on a stand or wall-mounted and tunes the sound for that position. It shares the Q990H's 2026 AI features: SpaceFit Sound Pro, Adaptive Sound, AI Dynamic Bass Control, Sound Elevation and Auto Volume.",
+   "keywords": "qs90h all in one soundbar dolby atmos 7.1.2 wall mount",
+   "specs": {
+    "channels": "7.1.2",
+    "drivers": "13 speakers incl. 4 built-in woofers",
+    "connectivity": "HDMI in, HDMI out (eARC), optical, Wi-Fi, Bluetooth 5.3",
+    "codecs": "Dolby Atmos, Dolby TrueHD, Dolby Digital Plus; MP3, AAC, OGG, FLAC, WAV, ALAC, AIFF",
+    "weightG": 6700,
+    "colors": "Graphite Black"
+   }
+  },
+  {
+   "sku": "TK-SAMSUNG-HW-Q800H",
+   "slug": "samsung-hw-q800h-soundbar",
+   "name": "Samsung HW-Q800H 5.1.2ch Q-Series Soundbar",
+   "brand": "Samsung",
+   "category": "home-audio",
+   "price": "1099.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    38,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "samsung-ecosystem"
+   ],
+   "summary": "5.1.2-channel Dolby Atmos soundbar with wireless subwoofer, up-firing speakers and Samsung's 2026 AI sound features.",
+   "description": "The HW-Q800H uses 11 speakers, including up-firing and side-firing drivers, plus a wireless subwoofer for 5.1.2-channel Dolby Atmos. It supports Wireless Dolby Atmos, HDMI eARC and Q-Symphony with compatible Samsung TVs, and can be expanded with the SWA-9500S rear speaker kit.",
+   "keywords": "q800h soundbar dolby atmos 5.1.2 subwoofer q-symphony",
+   "specs": {
+    "channels": "5.1.2",
+    "drivers": "11 speakers plus wireless subwoofer",
+    "connectivity": "HDMI in, HDMI out (eARC), optical, Wi-Fi, Bluetooth 5.3",
+    "codecs": "Dolby Atmos, Dolby TrueHD, Dolby Digital Plus; MP3, AAC, OGG, FLAC, WAV, ALAC, AIFF",
+    "weightG": 5100,
+    "colors": "Black"
+   }
+  },
+  {
+   "sku": "TK-SAMSUNG-HW-LS70H",
+   "slug": "samsung-music-studio-7-hw-ls70h",
+   "name": "Samsung Music Studio 7 HW-LS70H Wi-Fi Speaker",
+   "brand": "Samsung",
+   "category": "home-audio",
+   "price": "499.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    34,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "samsung-ecosystem"
+   ],
+   "summary": "Sculptural 3.1.1-channel Dolby Atmos Wi-Fi speaker that doubles as a Q-Symphony TV speaker.",
+   "description": "Music Studio 7 is a 3.1.1-channel Wi-Fi and Bluetooth speaker with five drivers, including up-firing and side-firing speakers, for Dolby Atmos music and TV sound. It supports Spotify Connect, Tidal Connect, AirPlay, Chromecast and Roon Ready, connects to a TV over HDMI eARC or optical, and joins Samsung Q-Symphony setups.",
+   "keywords": "music studio 7 ls70h wifi speaker dolby atmos airplay chromecast",
+   "specs": {
+    "channels": "3.1.1",
+    "drivers": "5 speakers incl. up-firing and side-firing",
+    "connectivity": "Wi-Fi, Bluetooth 6.0, HDMI (eARC), optical",
+    "codecs": "Dolby Atmos, Dolby TrueHD, Dolby Digital Plus; MP3, AAC, OGG, FLAC, WAV, ALAC, AIFF",
+    "weightG": 5600,
+    "colors": "Black"
+   }
+  },
+  {
+   "sku": "TK-SAMSUNG-PREMIERE7-LPU7D",
+   "slug": "samsung-the-premiere-7-lpu7d",
+   "name": "Samsung The Premiere 7 LPU7D 4K Laser Projector",
+   "brand": "Samsung",
+   "category": "projectors",
+   "price": "2999.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    34,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "samsung-ecosystem"
+   ],
+   "summary": "4K ultra-short-throw smart laser projector with 2,500 ISO lumens, HDR10+, Dolby Atmos and Tizen apps.",
+   "description": "The Premiere 7 is a 4K laser ultra-short-throw projector rated at 2,500 ISO lumens, driven by Samsung's NQP AI Processor with HDR10+ and Filmmaker Mode. It has a 30W 2.2-channel speaker with Dolby Atmos, three HDMI inputs with 4K 60Hz and eARC, Wi-Fi 5 and Bluetooth 5.2, and runs Tizen with Samsung Gaming Hub.",
+   "keywords": "premiere lpu7d ust ultra short throw laser 4k projector home theater",
+   "specs": {
+    "resolution": "4K UHD",
+    "brightnessLumens": 2500,
+    "lightSource": "Laser",
+    "throwType": "Ultra short throw"
+   }
+  },
+  {
+   "sku": "TK-SAMSUNG-FREESTYLE-PLUS",
+   "slug": "samsung-the-freestyle-plus",
+   "name": "Samsung The Freestyle+ Portable Projector",
+   "brand": "Samsung",
+   "category": "projectors",
+   "price": "1199.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    10,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "samsung-ecosystem"
+   ],
+   "summary": "2026 portable Full HD smart projector with 430 ISO lumens, 180-degree rotating cradle and AI OptiScreen auto-calibration.",
+   "description": "The Freestyle+ is a compact cylindrical Full HD (1920 x 1080) LED projector rated at 430 ISO lumens, nearly twice the brightness of the previous generation. AI OptiScreen adds 3D Auto Keystone, Real-time Focus, Screen Fit and Wall Calibration, and its 180-degree cradle projects onto walls, floors and ceilings. It has a 360-degree speaker, streaming apps and Samsung Gaming Hub built in.",
+   "keywords": "freestyle plus portable projector 1080p smart tizen gaming hub",
+   "specs": {
+    "resolution": "Full HD 1920 x 1080",
+    "brightnessLumens": 430,
+    "lightSource": "LED",
+    "throwType": "Standard throw (1.2:1)",
+    "colors": "White"
+   }
+  },
+  {
+   "sku": "TK-SAMSUNG-ODYSSEY-OLED-G8-G80SH",
+   "slug": "samsung-odyssey-oled-g8-g80sh",
+   "name": "Samsung Odyssey OLED G8 G80SH 4K 240Hz Gaming Monitor",
+   "brand": "Samsung",
+   "category": "gaming-monitors",
+   "price": "1099.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    20,
+    5
+   ],
+   "featured": true,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "oled-displays",
+    "gaming-monsters",
+    "ultimate-gaming-setup"
+   ],
+   "summary": "Flat 4K QD-OLED gaming monitor with 240 Hz refresh, 0.03 ms GTG response, Glare Free coating and DisplayPort 2.1 UHBR20; offered in 27 and 32 inch.",
+   "description": "The 2026 Odyssey OLED G8 G80SH pairs a 4K (3840 x 2160) QD-OLED panel with a 240 Hz maximum refresh rate, 0.03 ms (GTG) response and 99% DCI coverage. It supports HDR10+ Gaming and FreeSync Premium Pro, and connects over DisplayPort 2.1 (UHBR20), two HDMI 2.1 ports and USB-C with 98 W charging. The 27-inch model is VESA DisplayHDR True Black 400; the 32-inch is True Black 500.",
+   "keywords": "4k oled gaming monitor qd-oled 240hz dp 2.1 usb-c odyssey g8 2026",
+   "specs": {
+    "sizeIn": 27,
+    "resolution": "3840 x 2160 (4K)",
+    "refreshHz": 240,
+    "panel": "QD-OLED, Glare Free",
+    "hdr": "VESA DisplayHDR True Black 400, HDR10+ Gaming",
+    "colorGamut": "99% DCI",
+    "inputs": "1x DisplayPort 2.1 (UHBR20), 2x HDMI 2.1, 1x USB-C, 2x USB-A",
+    "usbCPowerW": 98,
+    "configurations": "27-inch (LS27HG802SNXZA) – $1,099.99 · 32-inch (LS32HG802SNXZA) – $1,299.99"
+   }
+  },
+  {
+   "sku": "TK-SAMSUNG-ODYSSEY-G8-G80HS-6K",
+   "slug": "samsung-odyssey-g8-g80hs-6k",
+   "name": "Samsung Odyssey G8 G80HS 32\" 6K Gaming Monitor",
+   "brand": "Samsung",
+   "category": "gaming-monitors",
+   "price": "1599.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    33,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "gaming-monsters",
+    "creator-workstations"
+   ],
+   "summary": "32-inch 6K (6144 x 3456) Fast IPS gaming monitor with Dual Mode: 165 Hz at 6K or 330 Hz at 3K.",
+   "description": "The 2026 Odyssey G8 G80HS is a 32-inch flat IPS monitor with a 6K 6144 x 3456 resolution (224 PPI). Its Dual Mode switches between 6K at up to 165 Hz and 3072 x 1728 at up to 330 Hz. It supports HDR10 / HDR10+ Gaming, FreeSync Premium and G-Sync Compatible, with DisplayPort 2.1 and two HDMI 2.1 inputs.",
+   "keywords": "6k monitor ips gaming dual mode 330hz odyssey g8 32 inch 2026",
+   "specs": {
+    "sizeIn": 32,
+    "resolution": "6144 x 3456 (6K); Dual Mode 3072 x 1728",
+    "refreshHz": 165,
+    "panel": "Fast IPS",
+    "hdr": "HDR10, HDR10+ Gaming",
+    "colorGamut": "99% sRGB",
+    "inputs": "1x DisplayPort 2.1, 2x HDMI 2.1"
+   }
+  },
+  {
+   "sku": "TK-SAMSUNG-ODYSSEY-OLED-G6-G60SF",
+   "slug": "samsung-odyssey-oled-g6-g60sf",
+   "name": "Samsung Odyssey OLED G6 G60SF 27\" QHD 500Hz Gaming Monitor",
+   "brand": "Samsung",
+   "category": "gaming-monitors",
+   "price": "999.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    13,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "oled-displays",
+    "gaming-monsters",
+    "dream-gaming"
+   ],
+   "summary": "27-inch QHD QD-OLED esports monitor with a 500 Hz maximum refresh rate, FreeSync Premium Pro and G-Sync Compatible.",
+   "description": "The Odyssey OLED G6 G60SF uses a 27-inch 2560 x 1440 QD-OLED panel with a maximum refresh rate of 500 Hz, which Samsung calls the world's first 500 Hz OLED monitor. It is VESA DisplayHDR True Black 500 certified with 99% DCI coverage, supports FreeSync Premium Pro and G-Sync Compatible, and offers one DisplayPort 1.4 and two HDMI 2.1 inputs.",
+   "keywords": "500hz oled monitor esports qhd 1440p odyssey g6 qd-oled",
+   "specs": {
+    "sizeIn": 27,
+    "resolution": "2560 x 1440 (QHD)",
+    "refreshHz": 500,
+    "panel": "QD-OLED",
+    "hdr": "VESA DisplayHDR True Black 500",
+    "colorGamut": "99% DCI (CIE1976)",
+    "inputs": "1x DisplayPort 1.4, 2x HDMI 2.1"
+   }
+  },
+  {
+   "sku": "TK-SAMSUNG-ODYSSEY-OLED-G8-G85SD",
+   "slug": "samsung-odyssey-oled-g8-g85sd-34",
+   "name": "Samsung Odyssey OLED G8 G85SD 34\" Curved Ultrawide Gaming Monitor",
+   "brand": "Samsung",
+   "category": "ultrawide-monitors",
+   "price": "1199.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    52,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "oled-displays",
+    "ultimate-gaming-setup"
+   ],
+   "summary": "34-inch 1800R curved 21:9 QD-OLED ultrawide at 3440 x 1440 and 175 Hz with Glare Free finish and Samsung Gaming Hub.",
+   "description": "The Odyssey OLED G8 G85SD is a 34-inch 21:9 curved (1800R) OLED monitor with a 3440 x 1440 UWQHD resolution, 175 Hz maximum refresh rate and 0.03 ms response time. It covers 99% of DCI, supports FreeSync Premium Pro and G-Sync Compatible, includes 10 W speakers and smart features including Samsung Gaming Hub.",
+   "keywords": "34 inch ultrawide oled curved monitor 175hz odyssey g8 uwqhd smart",
+   "specs": {
+    "sizeIn": 34,
+    "resolution": "3440 x 1440 (UWQHD, 21:9)",
+    "refreshHz": 175,
+    "panel": "OLED, 1800R curved, Glare Free",
+    "hdr": "HDR10",
+    "colorGamut": "99% DCI",
+    "inputs": "1x DisplayPort 1.4, 2x HDMI 2.1"
+   }
+  },
+  {
+   "sku": "TK-SAMSUNG-ODYSSEY-NEO-G9-57",
+   "slug": "samsung-odyssey-neo-g9-57",
+   "name": "Samsung Odyssey Neo G9 57\" Dual 4K Mini-LED Gaming Monitor",
+   "brand": "Samsung",
+   "category": "ultrawide-monitors",
+   "price": "2099.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    16,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "gaming-monsters",
+    "dream-gaming",
+    "ultimate-gaming-setup"
+   ],
+   "summary": "57-inch 32:9 1000R curved Quantum Mini-LED monitor with dual-4K 7680 x 2160 resolution, 240 Hz and VESA DisplayHDR 1000.",
+   "description": "The 57-inch Odyssey Neo G9 (G95NC) is a 1000R curved 32:9 VA Mini-LED monitor with a 7680 x 2160 dual-UHD resolution and a 240 Hz maximum refresh rate. It is VESA DisplayHDR 1000 certified, supports HDR10+ Gaming and FreeSync Premium Pro, and connects via DisplayPort 2.1 and three HDMI 2.1 ports.",
+   "keywords": "57 inch dual 4k super ultrawide mini led monitor 240hz neo g9 displayport 2.1",
+   "specs": {
+    "sizeIn": 57,
+    "resolution": "7680 x 2160 (Dual UHD, 32:9)",
+    "refreshHz": 240,
+    "panel": "VA Quantum Mini-LED, 1000R curved",
+    "hdr": "VESA DisplayHDR 1000, HDR10+ Gaming",
+    "colorGamut": "95% DCI (typ.)",
+    "inputs": "1x DisplayPort 2.1, 3x HDMI 2.1"
+   }
+  },
+  {
+   "sku": "TK-SAMSUNG-ODYSSEY-ARK-2ND-GEN",
+   "slug": "samsung-odyssey-ark-2nd-gen-55",
+   "name": "Samsung Odyssey Ark 2nd Gen 55\" 4K 165Hz Gaming Screen",
+   "brand": "Samsung",
+   "category": "gaming-monitors",
+   "price": "2699.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    27,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "dream-gaming",
+    "gaming-monsters"
+   ],
+   "summary": "55-inch 1000R curved 4K Quantum Mini-LED gaming screen with 165 Hz refresh, rotating Cockpit Mode stand and 60 W speakers.",
+   "description": "The Odyssey Ark 2nd Gen is a 55-inch 16:9 curved (1000R) VA Quantum Mini-LED screen at 3840 x 2160 with a 165 Hz maximum refresh rate and Quantum HDR 32x. It supports FreeSync Premium Pro, has one DisplayPort 1.4 and three HDMI inputs, and includes a 60 W speaker system.",
+   "keywords": "55 inch gaming monitor curved mini led 4k 165hz odyssey ark cockpit",
+   "specs": {
+    "sizeIn": 55,
+    "resolution": "3840 x 2160 (4K)",
+    "refreshHz": 165,
+    "panel": "VA Quantum Mini-LED, 1000R curved",
+    "hdr": "Quantum HDR 32x",
+    "colorGamut": "95% DCI (typ.)",
+    "inputs": "1x DisplayPort 1.4, 3x HDMI (2x 2.1, 1x 2.0)"
+   }
+  },
+  {
+   "sku": "TK-SAMSUNG-VIEWFINITY-S9-5K",
+   "slug": "samsung-viewfinity-s9-5k-27",
+   "name": "Samsung ViewFinity S9 27\" 5K Smart Monitor",
+   "brand": "Samsung",
+   "category": "professional-monitors",
+   "price": "1599.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    19,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "creator-workstations"
+   ],
+   "summary": "27-inch 5K (5120 x 2880) IPS monitor with matte display, Thunderbolt 4 (90 W), SlimFit camera and smart TV features.",
+   "description": "The ViewFinity S9 is a 27-inch 5K IPS monitor with 99% DCI coverage (typical), 100% sRGB and 600 nits typical brightness. It connects via Thunderbolt 4 with 90 W charging and Mini DisplayPort, includes a detachable SlimFit camera and 2 x 5 W speakers, and has a matte display option.",
+   "keywords": "5k monitor 27 inch thunderbolt 4 mac creative matte viewfinity s9",
+   "specs": {
+    "sizeIn": 27,
+    "resolution": "5120 x 2880 (5K)",
+    "refreshHz": 60,
+    "panel": "IPS, matte",
+    "colorGamut": "99% DCI (typ.), 100% sRGB",
+    "inputs": "Thunderbolt 4, Mini DisplayPort",
+    "usbCPowerW": 90
+   }
+  },
+  {
+   "sku": "TK-SAMSUNG-VIEWFINITY-S8-S80HF",
+   "slug": "samsung-viewfinity-s8-s80hf-5k-27",
+   "name": "Samsung ViewFinity S8 S80HF 27\" 5K Monitor",
+   "brand": "Samsung",
+   "category": "professional-monitors",
+   "price": "699.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    45,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "creator-workstations"
+   ],
+   "summary": "2026 27-inch 5K IPS monitor with HDR10, USB-C with 90 W charging and LAN port.",
+   "description": "The 2026 ViewFinity S8 S80HF is a 27-inch flat IPS monitor with a 5120 x 2880 5K resolution (218 PPI), 60 Hz refresh and 99% sRGB coverage. It supports HDR10 and offers DisplayPort 1.4, HDMI 2.1 and USB-C with 90 W charging.",
+   "keywords": "5k monitor 27 inch usb-c 90w viewfinity s8 2026 office creator",
+   "specs": {
+    "sizeIn": 27,
+    "resolution": "5120 x 2880 (5K)",
+    "refreshHz": 60,
+    "panel": "IPS",
+    "hdr": "HDR10",
+    "colorGamut": "99% sRGB",
+    "inputs": "1x DisplayPort 1.4, 1x HDMI 2.1, 1x USB-C",
+    "usbCPowerW": 90
+   }
+  },
+  {
+   "sku": "TK-SAMSUNG-VIEWFINITY-S8-S85TH",
+   "slug": "samsung-viewfinity-s8-s85th-40",
+   "name": "Samsung ViewFinity S8 S85TH 40\" 5K2K Curved Thunderbolt 5 Monitor",
+   "brand": "Samsung",
+   "category": "ultrawide-monitors",
+   "price": "1399.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    32,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "creator-workstations"
+   ],
+   "summary": "40-inch 1000R curved 21:9 5K2K (5120 x 2160) monitor with Thunderbolt 5 (140 W), daisy chain and 144 Hz.",
+   "description": "The 2026 ViewFinity S8 S85TH is a 40-inch 21:9 curved (1000R) VA monitor with a 5120 x 2160 WUHD resolution and up to 144 Hz refresh. It has a Thunderbolt 5 input with 140 W charging plus a Thunderbolt downstream port for daisy chaining, DisplayPort 1.4, HDMI 2.1 and HDR10 with 99% sRGB coverage.",
+   "keywords": "40 inch 5k2k ultrawide curved thunderbolt 5 monitor viewfinity s8 productivity",
+   "specs": {
+    "sizeIn": 40,
+    "resolution": "5120 x 2160 (WUHD, 21:9)",
+    "refreshHz": 144,
+    "panel": "VA, 1000R curved",
+    "hdr": "HDR10",
+    "colorGamut": "99% sRGB",
+    "inputs": "Thunderbolt 5 in + Thunderbolt out (daisy chain), 1x DisplayPort 1.4, 1x HDMI 2.1, USB-C upstream",
+    "usbCPowerW": 140
+   }
+  },
+  {
+   "sku": "TK-SAMSUNG-SMART-MONITOR-M9-M90SF",
+   "slug": "samsung-smart-monitor-m9-m90sf-32",
+   "name": "Samsung Smart Monitor M9 M90SF 32\" 4K OLED",
+   "brand": "Samsung",
+   "category": "office-monitors",
+   "price": "1599.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    22,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "oled-displays",
+    "samsung-ecosystem"
+   ],
+   "summary": "32-inch 4K QD-OLED smart monitor with 165 Hz refresh, built-in 12 MP camera, Samsung Vision AI and USB-C 90 W.",
+   "description": "The Smart Monitor M9 M90SF combines a 32-inch 4K QD-OLED panel (VESA DisplayHDR True Black 400, 165 Hz, 0.03 ms) with Tizen smart TV apps and Samsung Vision AI. It includes a 12 MP camera with mic, 10 W speakers, DisplayPort 1.4, HDMI 2.1 and USB-C with 90 W charging, and is G-Sync Compatible.",
+   "keywords": "smart monitor oled 4k 32 inch tizen streaming camera usb-c m9",
+   "specs": {
+    "sizeIn": 32,
+    "resolution": "3840 x 2160 (4K)",
+    "refreshHz": 165,
+    "panel": "QD-OLED",
+    "hdr": "VESA DisplayHDR True Black 400",
+    "colorGamut": "99% sRGB (CIE1931)",
+    "inputs": "1x DisplayPort 1.4, 1x HDMI 2.1, 1x USB-C",
+    "usbCPowerW": 90
+   }
+  },
+  {
+   "sku": "TK-SAMSUNG-SMART-MONITOR-M8-M80F",
+   "slug": "samsung-smart-monitor-m8-m80f-32",
+   "name": "Samsung Smart Monitor M8 M80F 32\" 4K",
+   "brand": "Samsung",
+   "category": "office-monitors",
+   "price": "699.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    27,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "samsung-ecosystem"
+   ],
+   "summary": "32-inch 4K smart monitor with built-in streaming apps, Samsung Vision AI, camera, 10 W speakers and USB-C 65 W.",
+   "description": "The Smart Monitor M8 M80F is a 32-inch 4K VA monitor with HDR10 and 99% sRGB coverage that runs smart TV apps and Samsung Vision AI. It includes a camera, 10 W speakers, HDMI 2.0 and USB-C with 65 W charging.",
+   "keywords": "smart monitor 4k 32 inch usb-c webcam streaming tizen m8 white",
+   "specs": {
+    "sizeIn": 32,
+    "resolution": "3840 x 2160 (4K)",
+    "refreshHz": 60,
+    "panel": "VA",
+    "hdr": "HDR10",
+    "colorGamut": "99% sRGB (CIE1931)",
+    "inputs": "1x HDMI 2.0, 1x USB-C",
+    "usbCPowerW": 65
+   }
+  },
+  {
+   "sku": "TK-SAMSUNG-OLED-S95H",
+   "slug": "samsung-oled-s95h",
+   "name": "Samsung OLED S95H 4K Vision AI Smart TV (2026)",
+   "brand": "Samsung",
+   "category": "oled-tvs",
+   "price": "2499.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    15,
+    5
+   ],
+   "featured": true,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "oled-displays",
+    "samsung-ecosystem"
+   ],
+   "summary": "Samsung's 2026 flagship OLED TV: 4K 165 Hz panel with Glare Free anti-reflection, NQ4 AI Gen3 processor and 70 W 4.2.2-channel Dolby Atmos sound.",
+   "description": "The OLED S95H is Samsung's top 2026 OLED, with a 4K 165 Hz (VRR) panel, Glare Free anti-reflection, OLED HDR Pro and HDR10+ (Adaptive / Gaming / Advanced). It is powered by the NQ4 AI Gen3 processor, has 4.2.2-channel 70 W Dolby Atmos audio with OTS+, four HDMI inputs at up to 4K 165 Hz, Wi-Fi 6E, and runs Tizen with Vision AI features.",
+   "keywords": "oled tv s95h 2026 glare free 165hz 4k samsung flagship qd-oled",
+   "specs": {
+    "sizeIn": 55,
+    "sizes": "55\", 65\", 77\", 83\"",
+    "resolution": "3840 x 2160 (4K)",
+    "panel": "OLED, Glare Free",
+    "refreshHz": 165,
+    "hdr": "OLED HDR Pro, HDR10+ Adaptive/Gaming/Advanced",
+    "processor": "NQ4 AI Gen3",
+    "gaming": "4x HDMI 4K 165 Hz, VRR, FreeSync Premium Pro, G-Sync, HGiG, ALLM",
+    "smartPlatform": "Tizen with Samsung Vision AI",
+    "audio": "70 W 4.2.2ch, Dolby Atmos, OTS+",
+    "configurations": "55\" (QN55S95HAFXZA) – $2,499.99 · 65\" (QN65S95HAFXZA) – $3,399.99 · 77\" (QN77S95HAFXZA) – $4,499.99 · 83\" (QN83S95HAFXZA) – $6,499.99"
+   }
+  },
+  {
+   "sku": "TK-SAMSUNG-OLED-S90H",
+   "slug": "samsung-oled-s90h",
+   "name": "Samsung OLED S90H 4K Vision AI Smart TV (2026)",
+   "brand": "Samsung",
+   "category": "oled-tvs",
+   "price": "1399.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    38,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "oled-displays"
+   ],
+   "summary": "2026 OLED TV in six sizes from 42 to 83 inches with 165 Hz, Glare Free finish and the NQ4 AI Gen3 processor.",
+   "description": "The OLED S90H offers a 4K OLED panel with up to 165 Hz (VRR), Glare Free anti-reflection and HDR10+, powered by the NQ4 AI Gen3 processor. Specs shown are for the 42-inch model (OLED HDR, 20 W 2ch audio); the 65-inch lists OLED HDR+ and 40 W 2.1ch audio. All sizes run Tizen with Samsung Vision AI and have four HDMI inputs.",
+   "keywords": "oled tv s90h 2026 42 inch 48 inch gaming 165hz samsung",
+   "specs": {
+    "sizeIn": 42,
+    "sizes": "42\", 48\", 55\", 65\", 77\", 83\"",
+    "resolution": "3840 x 2160 (4K)",
+    "panel": "OLED, Glare Free",
+    "refreshHz": 165,
+    "hdr": "OLED HDR, HDR10+ Adaptive/Gaming/Advanced",
+    "processor": "NQ4 AI Gen3",
+    "gaming": "4x HDMI 4K 165 Hz, VRR, FreeSync Premium, G-Sync",
+    "smartPlatform": "Tizen with Samsung Vision AI",
+    "audio": "20 W 2ch, Dolby Atmos",
+    "configurations": "42\" (QN42S90HAEXZA) – $1,399.99 · 48\" (QN48S90HAEXZA) – $1,599.99 · 55\" (QN55S90HAEXZA) – $1,999.99 · 65\" (QN65S90HAEXZA) – $2,699.99 · 77\" (QN77S90HAEXZA) – $3,699.99 · 83\" (QN83S90HAEXZA) – $5,299.99"
+   }
+  },
+  {
+   "sku": "TK-SAMSUNG-OLED-S85H",
+   "slug": "samsung-oled-s85h",
+   "name": "Samsung OLED S85H 4K Vision AI Smart TV (2026)",
+   "brand": "Samsung",
+   "category": "oled-tvs",
+   "price": "1199.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    36,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "oled-displays"
+   ],
+   "summary": "Entry 2026 Samsung OLED with 4K 120 Hz VRR, NQ4 AI Gen2 processor, Dolby Atmos and Tizen with Vision AI.",
+   "description": "The OLED S85H brings self-lit OLED pixels to Samsung's 2026 range at 48 to 83 inches. It has a 4K 120 Hz (VRR) panel with anti-reflection, OLED HDR and HDR10+, the NQ4 AI Gen2 processor, 20 W 2ch Dolby Atmos audio, four HDMI inputs at 4K 120 Hz and Wi-Fi 6E.",
+   "keywords": "oled tv s85h 2026 affordable 4k 120hz samsung",
+   "specs": {
+    "sizeIn": 48,
+    "sizes": "48\", 55\", 65\", 77\", 83\"",
+    "resolution": "3840 x 2160 (4K)",
+    "panel": "OLED",
+    "refreshHz": 120,
+    "hdr": "OLED HDR, HDR10+ Adaptive/Gaming/Advanced",
+    "processor": "NQ4 AI Gen2",
+    "gaming": "4x HDMI 4K 120 Hz, VRR, FreeSync Premium, G-Sync",
+    "smartPlatform": "Tizen with Samsung Vision AI",
+    "audio": "20 W 2ch, Dolby Atmos",
+    "configurations": "48\" (QN48S85HAEXZA) – $1,199.99 · 55\" (QN55S85HAEXZA) – $1,499.99 · 65\" (QN65S85HAEXZA) – $1,999.99 · 77\" (QN77S85HAEXZA) – $2,799.99 · 83\" (QN83S85HAEXZA) – $4,499.99"
+   }
+  },
+  {
+   "sku": "TK-SAMSUNG-MICRO-RGB-R95H",
+   "slug": "samsung-micro-rgb-r95h",
+   "name": "Samsung Micro RGB R95H 4K Vision AI Smart TV (2026)",
+   "brand": "Samsung",
+   "category": "led-tvs",
+   "price": "3199.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    9,
+    3
+   ],
+   "featured": true,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "samsung-ecosystem"
+   ],
+   "summary": "Flagship 2026 Micro RGB TV with individually controlled RGB micro-LED backlighting, 165 Hz, Glare Free and 70 W 4.2.2ch audio.",
+   "description": "The Micro RGB R95H uses Samsung's Micro RGB backlight technology with the Micro RGB AI Engine Pro and Micro RGB HDR Pro. It has a 4K 165 Hz (VRR) Glare Free panel, 70 W 4.2.2-channel Dolby Atmos audio, four HDMI inputs at 4K 165 Hz, Wireless One Connect readiness and Tizen with Samsung Vision AI.",
+   "keywords": "micro rgb tv r95h 2026 samsung 4k 165hz glare free flagship",
+   "specs": {
+    "sizeIn": 65,
+    "sizes": "65\", 75\", 85\"",
+    "resolution": "3840 x 2160 (4K)",
+    "panel": "Micro RGB (RGB micro-LED backlight), Glare Free",
+    "refreshHz": 165,
+    "hdr": "Micro RGB HDR Pro, HDR10+ Adaptive/Gaming/Advanced",
+    "processor": "Micro RGB AI Engine Pro",
+    "gaming": "4x HDMI 4K 165 Hz, VRR, FreeSync Premium Pro",
+    "smartPlatform": "Tizen with Samsung Vision AI",
+    "audio": "70 W 4.2.2ch, Dolby Atmos",
+    "configurations": "65\" (MRN65R95HAFXZA) – $3,199.99 · 75\" (MRN75R95HAFXZA) – $4,499.99 · 85\" (MRN85R95HAFXZA) – $6,499.99"
+   }
+  },
+  {
+   "sku": "TK-SAMSUNG-MICRO-RGB-R85H",
+   "slug": "samsung-micro-rgb-r85h",
+   "name": "Samsung Micro RGB R85H 4K Vision AI Smart TV (2026)",
+   "brand": "Samsung",
+   "category": "led-tvs",
+   "price": "1599.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    30,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "samsung-ecosystem"
+   ],
+   "summary": "2026 Micro RGB TV from 55 to 100 inches with the Micro RGB AI Engine, 144 Hz VRR and Micro RGB HDR+.",
+   "description": "The Micro RGB R85H brings Samsung's Micro RGB backlight technology to more sizes, from 55 to 100 inches. It has a 4K 144 Hz (VRR) panel, Micro RGB HDR+ and HDR10+, the Micro RGB AI Engine, 30 W 2ch Dolby Atmos audio, four HDMI inputs at 4K 144 Hz and Tizen with Samsung Vision AI.",
+   "keywords": "micro rgb tv r85h 2026 samsung 4k 144hz 100 inch",
+   "specs": {
+    "sizeIn": 55,
+    "sizes": "55\", 65\", 75\", 85\", 100\"",
+    "resolution": "3840 x 2160 (4K)",
+    "panel": "Micro RGB (RGB micro-LED backlight)",
+    "refreshHz": 144,
+    "hdr": "Micro RGB HDR+, HDR10+ Adaptive/Gaming/Advanced",
+    "processor": "Micro RGB AI Engine",
+    "gaming": "4x HDMI 4K 144 Hz, VRR, FreeSync Premium Pro",
+    "smartPlatform": "Tizen with Samsung Vision AI",
+    "audio": "30 W 2ch, Dolby Atmos",
+    "configurations": "55\" (MRN55R85HAFXZA) – $1,599.99 · 65\" (MRN65R85HAFXZA) – $2,099.99 · 75\" (MRN75R85HAFXZA) – $2,799.99 · 85\" (MRN85R85HAFXZA) – $3,999.99 · 100\" (MRN100R85HAFXZA) – $12,999.99"
+   }
+  },
+  {
+   "sku": "TK-SAMSUNG-NEO-QLED-8K-QN990H",
+   "slug": "samsung-neo-qled-8k-qn990h",
+   "name": "Samsung Neo QLED 8K QN990H Vision AI Smart TV (2026)",
+   "brand": "Samsung",
+   "category": "led-tvs",
+   "price": "8499.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    14,
+    3
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "samsung-ecosystem"
+   ],
+   "summary": "85-inch 8K Neo QLED flagship with Quantum Mini LED Pro, NQ8 AI Gen3 processor, 4K 240 Hz gaming and 90 W 6.2.4ch audio.",
+   "description": "The 2026 Neo QLED 8K QN990H is an 85-inch 7680 x 4320 Quantum Mini LED Pro TV with Glare Free anti-reflection, Neo Quantum HDR 8K Pro and the NQ8 AI Gen3 processor. It supports 8K 120 Hz and 4K 240 Hz on five HDMI inputs via the Wireless One Connect box, with 90 W 6.2.4-channel Dolby Atmos sound.",
+   "keywords": "8k tv neo qled qn990h 85 inch 2026 mini led wireless one connect",
+   "specs": {
+    "sizeIn": 85,
+    "sizes": "85\"",
+    "resolution": "7680 x 4320 (8K)",
+    "panel": "Neo QLED, Quantum Mini LED Pro, Glare Free",
+    "refreshHz": 120,
+    "hdr": "Neo Quantum HDR 8K Pro, HDR10+ Adaptive/Gaming/Advanced",
+    "processor": "NQ8 AI Gen3",
+    "gaming": "5x HDMI (8K 120 Hz / 4K 240 Hz), VRR, FreeSync Premium Pro",
+    "smartPlatform": "Tizen with Samsung Vision AI",
+    "audio": "90 W 6.2.4ch, Dolby Atmos",
+    "configurations": "85\" (QN85QN990HFXZA) – $8,499.99"
+   }
+  },
+  {
+   "sku": "TK-SAMSUNG-NEO-QLED-QN80H",
+   "slug": "samsung-neo-qled-qn80h",
+   "name": "Samsung Neo QLED 4K QN80H Vision AI Smart TV (2026)",
+   "brand": "Samsung",
+   "category": "led-tvs",
+   "price": "1199.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    18,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "samsung-ecosystem"
+   ],
+   "summary": "2026 Quantum Mini LED 4K TV with 144 Hz VRR, NQ4 AI Gen2 processor and NQ HDR+, from 55 to 100 inches.",
+   "description": "The Neo QLED QN80H uses Quantum Mini LED backlighting with the NQ4 AI Gen2 processor, NQ HDR+ and HDR10+. It has a 4K 144 Hz (VRR) panel, four HDMI inputs at 4K 144 Hz, FreeSync Premium Pro, 30 W 2ch Dolby Atmos audio and Tizen with Samsung Vision AI.",
+   "keywords": "neo qled qn80h 2026 mini led 4k tv 144hz 100 inch",
+   "specs": {
+    "sizeIn": 55,
+    "sizes": "55\", 65\", 75\", 85\", 100\"",
+    "resolution": "3840 x 2160 (4K)",
+    "panel": "Neo QLED, Quantum Mini LED",
+    "refreshHz": 144,
+    "hdr": "NQ HDR+, HDR10+ Adaptive/Gaming/Advanced",
+    "processor": "NQ4 AI Gen2",
+    "gaming": "4x HDMI 4K 144 Hz, VRR, FreeSync Premium Pro",
+    "smartPlatform": "Tizen with Samsung Vision AI",
+    "audio": "30 W 2ch, Dolby Atmos",
+    "configurations": "55\" (QN55QN80HAFXZA) – $1,199.99 · 65\" (QN65QN80HAFXZA) – $1,499.99 · 75\" (QN75QN80HAFXZA) – $1,999.99 · 85\" (QN85QN80HAFXZA) – $2,999.99 · 100\" (QN100QN80HAFXZA) – $5,499.99"
+   }
+  },
+  {
+   "sku": "TK-SAMSUNG-THE-FRAME-PRO-LS03HW",
+   "slug": "samsung-the-frame-pro-ls03hw",
+   "name": "Samsung The Frame Pro LS03HW Neo QLED 4K Art TV (2026)",
+   "brand": "Samsung",
+   "category": "led-tvs",
+   "price": "1499.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    27,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "samsung-ecosystem"
+   ],
+   "summary": "Art-mode lifestyle TV with Neo QLED Mini LED, Glare Free matte display, 144 Hz and Wireless One Connect.",
+   "description": "The Frame Pro LS03HW is Samsung's 2026 Neo QLED art TV, using Quantum Matrix Technology Slim Mini LED backlighting, a Glare Free display and Art Mode with the Samsung Art Store. It has a 4K 144 Hz (VRR) panel, NQ4 AI Gen3 processor, 40 W 2.0.2ch Dolby Atmos audio and five HDMI inputs via the Wireless One Connect box.",
+   "keywords": "the frame pro 2026 art tv neo qled mini led wireless one connect",
+   "specs": {
+    "sizeIn": 55,
+    "sizes": "55\", 65\", 75\", 85\"",
+    "resolution": "3840 x 2160 (4K)",
+    "panel": "Neo QLED, Quantum Mini LED (Quantum Matrix Slim), Glare Free",
+    "refreshHz": 144,
+    "hdr": "Neo Quantum HDR, HDR10+ Adaptive/Gaming/Advanced",
+    "processor": "NQ4 AI Gen3",
+    "gaming": "5x HDMI 4K 144 Hz, VRR, FreeSync Premium Pro",
+    "smartPlatform": "Tizen with Samsung Vision AI, Art Mode",
+    "audio": "40 W 2.0.2ch, Dolby Atmos",
+    "configurations": "55\" (QN55LS03HWFXZA) – $1,499.99 · 65\" (QN65LS03HWFXZA) – $1,999.99 · 75\" (QN75LS03HWFXZA) – $2,799.99 · 85\" (QN85LS03HWFXZA) – $3,999.99"
+   }
+  },
+  {
+   "sku": "TK-SAMSUNG-THE-FRAME-LS03HE",
+   "slug": "samsung-the-frame-ls03he",
+   "name": "Samsung The Frame LS03HE QLED 4K Art TV (2026)",
+   "brand": "Samsung",
+   "category": "led-tvs",
+   "price": "1199.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    30,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "samsung-ecosystem"
+   ],
+   "summary": "2026 QLED art TV with Glare Free matte screen, Art Mode, 144 Hz VRR and the NQ4 AI Gen2 processor.",
+   "description": "The Frame LS03HE is a 4K QLED TV that displays artwork in Art Mode, with a Glare Free display and access to the Samsung Art Store. It has a 144 Hz (VRR) panel with Quantum HDR and HDR10+, Dual LED backlighting, the NQ4 AI Gen2 processor, 20 W 2ch Dolby Atmos audio and four HDMI inputs.",
+   "keywords": "the frame 2026 art tv qled matte glare free samsung",
+   "specs": {
+    "sizeIn": 55,
+    "sizes": "55\", 65\", 75\", 85\", 98\"",
+    "resolution": "3840 x 2160 (4K)",
+    "panel": "QLED, Dual LED, Glare Free",
+    "refreshHz": 144,
+    "hdr": "Quantum HDR, HDR10+ Adaptive/Gaming",
+    "processor": "NQ4 AI Gen2",
+    "gaming": "4x HDMI 4K 144 Hz, VRR, FreeSync Premium",
+    "smartPlatform": "Tizen with Samsung Vision AI, Art Mode",
+    "audio": "20 W 2ch, Dolby Atmos",
+    "configurations": "55\" (QN55LS03HEFXZA) – $1,199.99 · 65\" (QN65LS03HEFXZA) – $1,499.99 · 75\" (QN75LS03HEFXZA) – $1,999.99 · 85\" (QN85LS03HEFXZA) – $2,999.99 · 98\" (QN98LS03HEFXZA) – $4,499.99"
+   }
+  }
+ ]
+}

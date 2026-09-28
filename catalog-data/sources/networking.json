@@ -1,0 +1,1783 @@
+{
+  "meta": {
+    "notes": "Networking catalog: gateways/routers, firewalls, managed and unmanaged switches, Wi-Fi 7 access points, mesh Wi-Fi, optics and DAC/patch cables from Ubiquiti, Cisco, TP-Link, Netgear, MikroTik, Fortinet, SonicWall, Netgate, FS and others. Researched 2026-09-28 from official manufacturer sites/stores only. Ubiquiti prices are UI Store US base list prices; the UI Store currently adds a separately itemized memory surcharge (~8%) at checkout, recorded in priceNote. Products with no official US list price use priceBasis=estimate and say so in notes."
+  },
+  "products": [
+    {
+      "sku": "TK-UBNT-UDM-BEAST",
+      "slug": "ubiquiti-unifi-dream-machine-beast",
+      "name": "Ubiquiti UniFi Dream Machine Beast",
+      "brand": "Ubiquiti",
+      "category": "routers-gateways",
+      "price": "1499.00",
+      "priceBasis": "msrp",
+      "priceSource": "https://store.ui.com/us/en/products/udm-beast",
+      "priceAsOf": "2026-09-28",
+      "summary": "1U hyperscale UniFi Cloud Gateway with 25 Gbps IDS/IPS, 7,500+ client capacity and the full UniFi application suite.",
+      "description": "The Dream Machine Beast is Ubiquiti's largest Dream Machine: a 1U rack-mount Cloud Gateway rated for 25 Gbps IDS/IPS throughput, 750+ managed UniFi devices and 7,500+ simultaneous clients. It has eight 10 GbE RJ45, two 10G SFP+ and two 25G SFP28 ports, an octa-core ARM v9 CPU with 16 GB of memory, two 3.5-inch NVR bays and runs Network, Protect, Access, Talk and Connect.",
+      "keywords": "udm beast unifi cloud gateway 25g sfp28 ids ips nvr rack router",
+      "specs": {
+        "ports": "8x 10GbE RJ45, 2x 1GbE RJ45, 2x 10G SFP+, 2x 25G SFP28, console",
+        "maxSpeedGbps": 25,
+        "managed": true,
+        "rackMountable": true
+      },
+      "collections": [
+        "enterprise-lab",
+        "networking-lab",
+        "small-business"
+      ],
+      "featured": true,
+      "warranty": 12,
+      "priceNote": "UI Store US list price $1,499; the store also itemizes a separate memory surcharge, bringing the checkout total to $1,617.",
+      "sources": {
+        "product": "https://store.ui.com/us/en/products/udm-beast",
+        "retrievedAt": "2026-09-28"
+      },
+      "image": {
+        "url": "https://cdn.ecomm.ui.com/products/352e353d-16e7-45b5-805e-712848145c65/487e084b-5e18-4a74-b02c-ea6065ddbcc6.png",
+        "page": "https://store.ui.com/us/en/products/udm-beast",
+        "sourceType": "manufacturer-product-page",
+        "rights": "Official Ubiquiti Store product image (cdn.ecomm.ui.com); Ubiquiti has not granted a reuse license - rights not verified.",
+        "alt": "Ubiquiti UniFi Dream Machine Beast 1U rack-mount cloud gateway, front view with ports and touchscreen",
+        "match": "EXACT"
+      }
+    },
+    {
+      "sku": "TK-UBNT-EF-CORE",
+      "slug": "ubiquiti-unifi-enterprise-firewall-core",
+      "name": "Ubiquiti UniFi Enterprise Firewall Core",
+      "brand": "Ubiquiti",
+      "category": "firewalls",
+      "price": "3499.00",
+      "priceBasis": "msrp",
+      "priceSource": "https://store.ui.com/us/en/products/ef-core",
+      "priceAsOf": "2026-09-28",
+      "summary": "Enterprise-class 100 Gbps UniFi Cloud Gateway with 79 Gbps IDS/IPS, 22,500+ clients and hot-swappable redundant PSUs.",
+      "description": "The Enterprise Firewall Core is a 1U UniFi gateway with four 100G QSFP28, four 25G SFP28 and eight 10 GbE RJ45 ports. Ubiquiti rates it for 79 Gbps IDS/IPS throughput, 10 million concurrent sessions, 120,000 new sessions per second and 22,500+ simultaneous users, powered by a 24-core ARM v9 CPU with 32 GB of memory and dual hot-swappable 550 W PSUs.",
+      "keywords": "efg ef-core enterprise fortress gateway 100g qsfp28 ids ips firewall unifi",
+      "specs": {
+        "ports": "4x 100G QSFP28, 4x 25G SFP28, 8x 10GbE RJ45, 2x 1GbE RJ45, MGMT, console",
+        "maxSpeedGbps": 100,
+        "managed": true,
+        "rackMountable": true,
+        "firewallThroughputGbps": 79
+      },
+      "collections": [
+        "enterprise-lab",
+        "security-lab"
+      ],
+      "featured": true,
+      "warranty": 12,
+      "priceNote": "UI Store US list price $3,499; the store also itemizes a separate memory surcharge, bringing the checkout total to $3,775.",
+      "sources": {
+        "product": "https://store.ui.com/us/en/products/ef-core",
+        "retrievedAt": "2026-09-28"
+      },
+      "image": {
+        "url": "https://cdn.ecomm.ui.com/products/8f56712e-ed57-48ca-a180-f8fea2d343c3/9fbc153c-77b3-4b9e-a629-1927c66a7bc6.png",
+        "page": "https://store.ui.com/us/en/products/ef-core",
+        "sourceType": "manufacturer-product-page",
+        "rights": "Official Ubiquiti Store product image (cdn.ecomm.ui.com); Ubiquiti has not granted a reuse license - rights not verified.",
+        "alt": "Ubiquiti UniFi Enterprise Firewall Core 1U gateway, front view with QSFP28 and SFP28 ports",
+        "match": "EXACT"
+      }
+    },
+    {
+      "sku": "TK-UBNT-UCG-FIBER",
+      "slug": "ubiquiti-unifi-cloud-gateway-fiber",
+      "name": "Ubiquiti UniFi Cloud Gateway Fiber",
+      "brand": "Ubiquiti",
+      "category": "routers-gateways",
+      "price": "279.00",
+      "priceBasis": "msrp",
+      "priceSource": "https://store.ui.com/us/en/products/ucg-fiber",
+      "priceAsOf": "2026-09-28",
+      "summary": "Desktop 10G UniFi Cloud Gateway with 10G SFP+ and 10 GbE WAN options, a 4-port 2.5 GbE switch and 5 Gbps IDS/IPS.",
+      "description": "Cloud Gateway Fiber is a compact desktop gateway with one 10 GbE RJ45 port, two 10G SFP+ ports and four 2.5 GbE ports. Ubiquiti rates it for 5 Gbps IDS/IPS routing, 50+ UniFi devices and 500+ clients, with a 30 W PoE budget and a selectable NVMe SSD (up to 2 TB) for UniFi Protect recordings.",
+      "keywords": "ucg fiber cloud gateway 10g sfp+ xgs-pon router homelab unifi",
+      "specs": {
+        "ports": "1x 10GbE RJ45, 2x 10G SFP+, 4x 2.5GbE RJ45",
+        "maxSpeedGbps": 10,
+        "managed": true,
+        "rackMountable": false
+      },
+      "collections": [
+        "homelab-essentials",
+        "networking-lab"
+      ],
+      "featured": true,
+      "warranty": 12,
+      "priceNote": "UI Store US list price $279; the store also itemizes a separate memory surcharge, bringing the checkout total to $301.",
+      "sources": {
+        "product": "https://store.ui.com/us/en/products/ucg-fiber",
+        "retrievedAt": "2026-09-28"
+      },
+      "image": {
+        "url": "https://cdn.ecomm.ui.com/products/48cf74fa-0456-4c5f-bbcc-c1a1ffdc11f9/465257f3-0acc-4a11-bb15-762e7f6c0e9c.png",
+        "page": "https://store.ui.com/us/en/products/ucg-fiber",
+        "sourceType": "manufacturer-product-page",
+        "rights": "Official Ubiquiti Store product image (cdn.ecomm.ui.com); Ubiquiti has not granted a reuse license - rights not verified.",
+        "alt": "Ubiquiti UniFi Cloud Gateway Fiber desktop gateway in white, front three-quarter view",
+        "match": "EXACT"
+      }
+    },
+    {
+      "sku": "TK-UBNT-UCG-MAX",
+      "slug": "ubiquiti-unifi-cloud-gateway-max",
+      "name": "Ubiquiti UniFi Cloud Gateway Max",
+      "brand": "Ubiquiti",
+      "category": "routers-gateways",
+      "price": "279.00",
+      "priceBasis": "msrp",
+      "priceSource": "https://store.ui.com/us/en/products/ucg-max",
+      "priceAsOf": "2026-09-28",
+      "summary": "Compact 2.5G UniFi Cloud Gateway with five 2.5 GbE ports, 2.3 Gbps IPS routing and selectable NVMe NVR storage.",
+      "description": "Cloud Gateway Max is a compact desktop UniFi gateway with five 2.5 GbE RJ45 ports (up to four usable as WAN), 2.3 Gbps IDS/IPS routing, support for 30+ UniFi devices and 300+ clients, and a selectable NVMe SSD up to 2 TB for UniFi Protect. It is powered over USB-C.",
+      "keywords": "ucg max cloud gateway 2.5g router nvr unifi",
+      "specs": {
+        "ports": "5x 2.5GbE RJ45",
+        "maxSpeedGbps": 2.5,
+        "managed": true,
+        "rackMountable": false
+      },
+      "collections": [
+        "homelab-starter",
+        "small-business"
+      ],
+      "warranty": 12,
+      "priceNote": "UI Store US list price $279; the store also itemizes a separate memory surcharge, bringing the checkout total to $301.",
+      "sources": {
+        "product": "https://store.ui.com/us/en/products/ucg-max",
+        "retrievedAt": "2026-09-28"
+      },
+      "image": {
+        "url": "https://cdn.ecomm.ui.com/products/8cca3680-14a6-496a-af7d-beba49cea3f2/7c6f4e54-1f20-485a-a0f0-22e968b66a66.png",
+        "page": "https://store.ui.com/us/en/products/ucg-max",
+        "sourceType": "manufacturer-product-page",
+        "rights": "Official Ubiquiti Store product image (cdn.ecomm.ui.com); Ubiquiti has not granted a reuse license - rights not verified.",
+        "alt": "Ubiquiti UniFi Cloud Gateway Max compact desktop gateway in white, front view",
+        "match": "EXACT"
+      }
+    },
+    {
+      "sku": "TK-UBNT-UCG-ULTRA",
+      "slug": "ubiquiti-unifi-cloud-gateway-ultra",
+      "name": "Ubiquiti UniFi Cloud Gateway Ultra",
+      "brand": "Ubiquiti",
+      "category": "routers-gateways",
+      "price": "129.00",
+      "priceBasis": "msrp",
+      "priceSource": "https://store.ui.com/us/en/products/ucg-ultra",
+      "priceAsOf": "2026-09-28",
+      "summary": "Entry UniFi Cloud Gateway with a 2.5 GbE WAN, four GbE LAN ports, 1 Gbps IPS routing and multi-WAN load balancing.",
+      "description": "Cloud Gateway Ultra is Ubiquiti's most compact full UniFi console and gateway: one 2.5 GbE and four 1 GbE RJ45 ports, 1 Gbps IDS/IPS routing, support for 30+ UniFi devices and 300+ clients, and multi-WAN load balancing across up to four WAN ports, powered over USB-C.",
+      "keywords": "ucg ultra cloud gateway router unifi budget",
+      "specs": {
+        "ports": "1x 2.5GbE RJ45, 4x 1GbE RJ45",
+        "maxSpeedGbps": 2.5,
+        "managed": true,
+        "rackMountable": false
+      },
+      "collections": [
+        "homelab-starter"
+      ],
+      "warranty": 12,
+      "priceNote": "UI Store US list price $129; the store also itemizes a separate memory surcharge, bringing the checkout total to $139.",
+      "sources": {
+        "product": "https://store.ui.com/us/en/products/ucg-ultra",
+        "retrievedAt": "2026-09-28"
+      },
+      "image": {
+        "url": "https://cdn.ecomm.ui.com/products/8d2d9e4b-89f3-49a1-9c17-5d774c0067b4/2e179331-f85a-4bc9-bf3e-d00192522732.png",
+        "page": "https://store.ui.com/us/en/products/ucg-ultra",
+        "sourceType": "manufacturer-product-page",
+        "rights": "Official Ubiquiti Store product image (cdn.ecomm.ui.com); Ubiquiti has not granted a reuse license - rights not verified.",
+        "alt": "Ubiquiti UniFi Cloud Gateway Ultra small white desktop gateway, front view",
+        "match": "EXACT"
+      }
+    },
+    {
+      "sku": "TK-UBNT-UDR7",
+      "slug": "ubiquiti-unifi-dream-router-7",
+      "name": "Ubiquiti UniFi Dream Router 7",
+      "brand": "Ubiquiti",
+      "category": "routers-gateways",
+      "price": "279.00",
+      "priceBasis": "msrp",
+      "priceSource": "https://store.ui.com/us/en/products/udr7",
+      "priceAsOf": "2026-09-28",
+      "summary": "Desktop 10G UniFi Cloud Gateway with tri-band Wi-Fi 7, a 10G SFP+ WAN, four 2.5 GbE ports (one PoE) and microSD NVR storage.",
+      "description": "Dream Router 7 combines a UniFi Cloud Gateway with a 2x2 tri-band Wi-Fi 7 access point (up to 5.7 Gbps on 6 GHz), one 10G SFP+ port and four 2.5 GbE ports with one PoE output. It is rated for 2.3 Gbps IDS/IPS routing, 30+ UniFi devices and 300+ clients, and ships with a 64 GB microSD card for UniFi Protect.",
+      "keywords": "udr7 dream router wifi 7 unifi 10g sfp+ home router",
+      "specs": {
+        "ports": "1x 10G SFP+, 4x 2.5GbE RJ45 (1 PoE)",
+        "maxSpeedGbps": 10,
+        "managed": true,
+        "rackMountable": false,
+        "wifiStandard": "Wi-Fi 7 (802.11be), tri-band 2.4/5/6 GHz"
+      },
+      "collections": [
+        "homelab-starter",
+        "networking-lab"
+      ],
+      "warranty": 12,
+      "priceNote": "UI Store US list price $279; the store also itemizes a separate memory surcharge, bringing the checkout total to $301.",
+      "sources": {
+        "product": "https://store.ui.com/us/en/products/udr7",
+        "retrievedAt": "2026-09-28"
+      },
+      "image": {
+        "url": "https://cdn.ecomm.ui.com/products/5fd748ec-76b6-48ca-9256-9fb09d50b4b0/c57b6e85-cf5b-48c8-9e92-9f25e4dd0f39.png",
+        "page": "https://store.ui.com/us/en/products/udr7",
+        "sourceType": "manufacturer-product-page",
+        "rights": "Official Ubiquiti Store product image (cdn.ecomm.ui.com); Ubiquiti has not granted a reuse license - rights not verified.",
+        "alt": "Ubiquiti UniFi Dream Router 7 white cylindrical Wi-Fi 7 router, front view",
+        "match": "EXACT"
+      }
+    },
+    {
+      "sku": "TK-UBNT-UX7",
+      "slug": "ubiquiti-unifi-express-7",
+      "name": "Ubiquiti UniFi Express 7",
+      "brand": "Ubiquiti",
+      "category": "mesh-wifi",
+      "price": "199.00",
+      "priceBasis": "msrp",
+      "priceSource": "https://store.ui.com/us/en/products/ux7",
+      "priceAsOf": "2026-09-28",
+      "summary": "Super-compact 10G UniFi Cloud Gateway with integrated Wi-Fi 7 (6 GHz), mesh-expandable into a whole-home Wi-Fi system.",
+      "description": "UniFi Express 7 is a compact Cloud Gateway with integrated 2x2 tri-band Wi-Fi 7 and a 10 GbE WAN port plus a 2.5 GbE LAN port. It is rated for 2.3 Gbps IDS/IPS routing and 300+ clients, and additional Express 7 units add mesh nodes; Ubiquiti sells single units and 2- and 3-packs.",
+      "keywords": "ux7 unifi express 7 mesh wifi 7 whole home 10g",
+      "specs": {
+        "ports": "1x 10GbE RJ45 WAN, 1x 2.5GbE RJ45",
+        "maxSpeedGbps": 10,
+        "managed": true,
+        "rackMountable": false,
+        "wifiStandard": "Wi-Fi 7 (802.11be), tri-band 2.4/5/6 GHz",
+        "nodes": 1
+      },
+      "collections": [
+        "homelab-starter"
+      ],
+      "warranty": 12,
+      "priceNote": "UI Store US list price $199; the store also itemizes a separate memory surcharge, bringing the checkout total to $214. Official UI Store options: 1-pack $199.00; 2-pack $379.00; 3-pack $559.00.",
+      "sources": {
+        "product": "https://store.ui.com/us/en/products/ux7",
+        "retrievedAt": "2026-09-28"
+      },
+      "image": {
+        "url": "https://cdn.ecomm.ui.com/products/d3220754-f4a9-4ecc-a0bd-64e1520ef471/5985679e-1cac-4885-ad85-82e2d5c94f89.png",
+        "page": "https://store.ui.com/us/en/products/ux7",
+        "sourceType": "manufacturer-product-page",
+        "rights": "Official Ubiquiti Store product image (cdn.ecomm.ui.com); Ubiquiti has not granted a reuse license - rights not verified.",
+        "alt": "Ubiquiti UniFi Express 7 compact white square Wi-Fi 7 gateway, front three-quarter view showing status display",
+        "match": "EXACT"
+      }
+    },
+    {
+      "sku": "TK-UBNT-USW-PROMAX-24POE",
+      "slug": "ubiquiti-unifi-switch-pro-max-24-poe",
+      "name": "Ubiquiti UniFi Switch Pro Max 24 PoE",
+      "brand": "Ubiquiti",
+      "category": "switches",
+      "price": "799.00",
+      "priceBasis": "msrp",
+      "priceSource": "https://store.ui.com/us/en/products/usw-pro-max-24-poe",
+      "priceAsOf": "2026-09-28",
+      "summary": "24-port Layer 3 Etherlighting switch with eight 2.5 GbE PoE++ ports, two 10G SFP+ uplinks and a 400 W PoE budget.",
+      "description": "The Switch Pro Max 24 PoE is a 1U Layer 3 UniFi switch with sixteen 1 GbE and eight 2.5 GbE RJ45 ports, all PoE (8 PoE+ and 16 PoE++), plus two 10G SFP+ uplinks. It has a 400 W total PoE budget, 112 Gbps switching capacity, Etherlighting port LEDs and DC power backup support.",
+      "keywords": "usw pro max 24 poe etherlighting 2.5g poe++ layer 3 switch",
+      "specs": {
+        "ports": "16x 1GbE RJ45, 8x 2.5GbE RJ45, 2x 10G SFP+",
+        "maxSpeedGbps": 10,
+        "managed": true,
+        "rackMountable": true,
+        "poe": 400,
+        "switchingCapacityGbps": 112
+      },
+      "collections": [
+        "homelab-essentials",
+        "small-business",
+        "networking-lab"
+      ],
+      "warranty": 12,
+      "priceNote": "UI Store US list price $799; the store also itemizes a separate memory surcharge, bringing the checkout total to $862.",
+      "sources": {
+        "product": "https://store.ui.com/us/en/products/usw-pro-max-24-poe",
+        "retrievedAt": "2026-09-28"
+      },
+      "image": {
+        "url": "https://cdn.ecomm.ui.com/products/58922518-88f6-4c75-89c1-f57ba3d8253a/797246c6-70eb-4606-be9a-77515ac74451.png",
+        "page": "https://store.ui.com/us/en/products/usw-pro-max-24-poe",
+        "sourceType": "manufacturer-product-page",
+        "rights": "Official Ubiquiti Store product image (cdn.ecomm.ui.com); Ubiquiti has not granted a reuse license - rights not verified.",
+        "alt": "Ubiquiti UniFi Switch Pro Max 24 PoE 1U rack switch, front panel view",
+        "match": "EXACT"
+      }
+    },
+    {
+      "sku": "TK-UBNT-USW-PROMAX-48POE",
+      "slug": "ubiquiti-unifi-switch-pro-max-48-poe",
+      "name": "Ubiquiti UniFi Switch Pro Max 48 PoE",
+      "brand": "Ubiquiti",
+      "category": "switches",
+      "price": "1299.00",
+      "priceBasis": "msrp",
+      "priceSource": "https://store.ui.com/us/en/products/usw-pro-max-48-poe",
+      "priceAsOf": "2026-09-28",
+      "summary": "48-port Layer 3 Etherlighting switch with sixteen 2.5 GbE ports, four 10G SFP+ uplinks and a 720 W PoE budget.",
+      "description": "The Switch Pro Max 48 PoE is a 1U Layer 3 UniFi switch with thirty-two 1 GbE and sixteen 2.5 GbE RJ45 ports (32 PoE+ and 16 PoE++) and four 10G SFP+ uplinks. It provides a 720 W PoE budget, 224 Gbps switching capacity, Etherlighting and DC power backup support.",
+      "keywords": "usw pro max 48 poe etherlighting 2.5g 720w layer 3 switch",
+      "specs": {
+        "ports": "32x 1GbE RJ45, 16x 2.5GbE RJ45, 4x 10G SFP+",
+        "maxSpeedGbps": 10,
+        "managed": true,
+        "rackMountable": true,
+        "poe": 720,
+        "switchingCapacityGbps": 224
+      },
+      "collections": [
+        "small-business",
+        "enterprise-lab"
+      ],
+      "warranty": 12,
+      "priceNote": "UI Store US list price $1,299; the store also itemizes a separate memory surcharge, bringing the checkout total to $1,401.",
+      "sources": {
+        "product": "https://store.ui.com/us/en/products/usw-pro-max-48-poe",
+        "retrievedAt": "2026-09-28"
+      },
+      "image": {
+        "url": "https://cdn.ecomm.ui.com/products/51e22689-9b81-4717-beed-fe2c65c57362/18b790aa-f0b3-4e6b-9aca-63948c65535d.png",
+        "page": "https://store.ui.com/us/en/products/usw-pro-max-48-poe",
+        "sourceType": "manufacturer-product-page",
+        "rights": "Official Ubiquiti Store product image (cdn.ecomm.ui.com); Ubiquiti has not granted a reuse license - rights not verified.",
+        "alt": "Ubiquiti UniFi Switch Pro Max 48 PoE 1U rack switch, front panel view",
+        "match": "EXACT"
+      }
+    },
+    {
+      "sku": "TK-UBNT-USW-PROXG-24",
+      "slug": "ubiquiti-unifi-switch-pro-xg-24",
+      "name": "Ubiquiti UniFi Switch Pro XG 24",
+      "brand": "Ubiquiti",
+      "category": "switches",
+      "price": "1099.00",
+      "priceBasis": "msrp",
+      "priceSource": "https://store.ui.com/us/en/products/usw-pro-xg-24",
+      "priceAsOf": "2026-09-28",
+      "summary": "24-port Layer 3 Etherlighting switch with sixteen 10 GbE and eight 2.5 GbE RJ45 ports plus two 25G SFP28 uplinks.",
+      "description": "Switch Pro XG 24 is a professional 1U Layer 3 UniFi switch with sixteen 10 GbE and eight 2.5 GbE RJ45 ports and two 25G SFP28 uplinks, rated for 460 Gbps switching capacity. It includes Etherlighting port LEDs and DC power backup support.",
+      "keywords": "usw pro xg 24 10gbe multigig 25g sfp28 layer 3 switch",
+      "specs": {
+        "ports": "16x 10GbE RJ45, 8x 2.5GbE RJ45, 2x 25G SFP28",
+        "maxSpeedGbps": 25,
+        "managed": true,
+        "rackMountable": true,
+        "switchingCapacityGbps": 460
+      },
+      "collections": [
+        "homelab-essentials",
+        "networking-lab",
+        "enterprise-lab"
+      ],
+      "warranty": 12,
+      "priceNote": "UI Store US list price $1,099; the store also itemizes a separate memory surcharge, bringing the checkout total to $1,185.",
+      "sources": {
+        "product": "https://store.ui.com/us/en/products/usw-pro-xg-24",
+        "retrievedAt": "2026-09-28"
+      },
+      "image": {
+        "url": "https://cdn.ecomm.ui.com/products/5f2af015-a9fd-4f79-9779-74860c328e75/68de03e5-b2d6-41e0-bee0-82c106fe2ee6.png",
+        "page": "https://store.ui.com/us/en/products/usw-pro-xg-24",
+        "sourceType": "manufacturer-product-page",
+        "rights": "Official Ubiquiti Store product image (cdn.ecomm.ui.com); Ubiquiti has not granted a reuse license - rights not verified.",
+        "alt": "Ubiquiti UniFi Switch Pro XG 24 1U rack switch with 10GbE ports, front panel view",
+        "match": "EXACT"
+      }
+    },
+    {
+      "sku": "TK-UBNT-USW-PROXG-10POE",
+      "slug": "ubiquiti-unifi-switch-pro-xg-10-poe",
+      "name": "Ubiquiti UniFi Switch Pro XG 10 PoE",
+      "brand": "Ubiquiti",
+      "category": "switches",
+      "price": "699.00",
+      "priceBasis": "msrp",
+      "priceSource": "https://store.ui.com/us/en/products/usw-pro-xg-10-poe",
+      "priceAsOf": "2026-09-28",
+      "summary": "1U Layer 3 Etherlighting switch with ten 10 GbE PoE+++ ports, two 10G SFP+ uplinks and a 400 W PoE budget.",
+      "description": "Switch Pro XG 10 PoE is a 1U professional UniFi switch whose ten 10 GbE RJ45 ports all deliver PoE+++ (up to 90 W per port), with two 10G SFP+ uplinks, a 400 W total PoE budget and 240 Gbps switching capacity. It is aimed at powering Wi-Fi 7 access points at full multi-gig speed.",
+      "keywords": "usw pro xg 10 poe 10gbe poe+++ wifi 7 switch",
+      "specs": {
+        "ports": "10x 10GbE RJ45 PoE+++, 2x 10G SFP+",
+        "maxSpeedGbps": 10,
+        "managed": true,
+        "rackMountable": true,
+        "poe": 400,
+        "switchingCapacityGbps": 240
+      },
+      "collections": [
+        "homelab-essentials",
+        "networking-lab"
+      ],
+      "warranty": 12,
+      "priceNote": "UI Store US list price $699; the store also itemizes a separate memory surcharge, bringing the checkout total to $754.",
+      "sources": {
+        "product": "https://store.ui.com/us/en/products/usw-pro-xg-10-poe",
+        "retrievedAt": "2026-09-28"
+      },
+      "image": {
+        "url": "https://cdn.ecomm.ui.com/products/2617380d-b3a8-47c3-802f-fcc22d24e931/0af98290-e7a4-4d4f-b4e5-bd781f3d2132.png",
+        "page": "https://store.ui.com/us/en/products/usw-pro-xg-10-poe",
+        "sourceType": "manufacturer-product-page",
+        "rights": "Official Ubiquiti Store product image (cdn.ecomm.ui.com); Ubiquiti has not granted a reuse license - rights not verified.",
+        "alt": "Ubiquiti UniFi Switch Pro XG 10 PoE 1U rack switch, front panel view",
+        "match": "EXACT"
+      }
+    },
+    {
+      "sku": "TK-UBNT-USW-PROHD-24",
+      "slug": "ubiquiti-unifi-switch-pro-hd-24",
+      "name": "Ubiquiti UniFi Switch Pro HD 24",
+      "brand": "Ubiquiti",
+      "category": "switches",
+      "price": "599.00",
+      "priceBasis": "msrp",
+      "priceSource": "https://store.ui.com/us/en/products/usw-pro-hd-24",
+      "priceAsOf": "2026-09-28",
+      "summary": "Layer 3 Etherlighting switch with twenty-two 2.5 GbE ports, two 10 GbE ports and four 10G SFP+ uplinks.",
+      "description": "Switch Pro HD 24 is a 1U professional UniFi switch with twenty-two 2.5 GbE and two 10 GbE RJ45 ports plus four 10G SFP+ ports, rated for 230 Gbps switching capacity, with Layer 3 features, Etherlighting and DC power backup support.",
+      "keywords": "usw pro hd 24 2.5g multigig 10g sfp+ layer 3 switch",
+      "specs": {
+        "ports": "22x 2.5GbE RJ45, 2x 10GbE RJ45, 4x 10G SFP+",
+        "maxSpeedGbps": 10,
+        "managed": true,
+        "rackMountable": true,
+        "switchingCapacityGbps": 230
+      },
+      "collections": [
+        "homelab-essentials"
+      ],
+      "warranty": 12,
+      "priceNote": "UI Store US list price $599; the store also itemizes a separate memory surcharge, bringing the checkout total to $646.",
+      "sources": {
+        "product": "https://store.ui.com/us/en/products/usw-pro-hd-24",
+        "retrievedAt": "2026-09-28"
+      },
+      "image": {
+        "url": "https://cdn.ecomm.ui.com/products/66804bfc-9afd-453c-adbb-7327d8cebe25/387ab337-f5c8-4f8f-94e1-cffc8888ad1d.png",
+        "page": "https://store.ui.com/us/en/products/usw-pro-hd-24",
+        "sourceType": "manufacturer-product-page",
+        "rights": "Official Ubiquiti Store product image (cdn.ecomm.ui.com); Ubiquiti has not granted a reuse license - rights not verified.",
+        "alt": "Ubiquiti UniFi Switch Pro HD 24 1U rack switch, front panel view",
+        "match": "EXACT"
+      }
+    },
+    {
+      "sku": "TK-UBNT-USW-PROXG-AGG",
+      "slug": "ubiquiti-unifi-switch-pro-xg-aggregation",
+      "name": "Ubiquiti UniFi Switch Pro XG Aggregation",
+      "brand": "Ubiquiti",
+      "category": "switches",
+      "price": "2499.00",
+      "priceBasis": "msrp",
+      "priceSource": "https://store.ui.com/us/en/products/usw-pro-xg-aggregation",
+      "priceAsOf": "2026-09-28",
+      "summary": "32-port 25G SFP28 Layer 3 Etherlighting aggregation switch with 1.6 Tbps switching capacity.",
+      "description": "Switch Pro XG Aggregation is a 1U Layer 3 UniFi aggregation switch with thirty-two 25G SFP28 ports (25G/10G/1G), rated for 1.6 Tbps switching capacity, with Etherlighting and DC power backup support. It is designed to aggregate high-capacity 25G and 10G links in a UniFi network core.",
+      "keywords": "usw pro xg aggregation 25g sfp28 core switch",
+      "specs": {
+        "ports": "32x 25G SFP28",
+        "maxSpeedGbps": 25,
+        "managed": true,
+        "rackMountable": true,
+        "switchingCapacityGbps": 1600
+      },
+      "collections": [
+        "enterprise-lab"
+      ],
+      "warranty": 12,
+      "priceNote": "UI Store US list price $2,499; the store also itemizes a separate memory surcharge, bringing the checkout total to $2,696.",
+      "sources": {
+        "product": "https://store.ui.com/us/en/products/usw-pro-xg-aggregation",
+        "retrievedAt": "2026-09-28"
+      },
+      "image": {
+        "url": "https://cdn.ecomm.ui.com/products/2f42897e-4b8e-4851-af6a-5106211f979e/e541f8bf-a009-427f-815f-7966afbfd1ac.png",
+        "page": "https://store.ui.com/us/en/products/usw-pro-xg-aggregation",
+        "sourceType": "manufacturer-product-page",
+        "rights": "Official Ubiquiti Store product image (cdn.ecomm.ui.com); Ubiquiti has not granted a reuse license - rights not verified.",
+        "alt": "Ubiquiti UniFi Switch Pro XG Aggregation 1U switch with 32 SFP28 cages, front view",
+        "match": "EXACT"
+      }
+    },
+    {
+      "sku": "TK-UBNT-ECS-AGG",
+      "slug": "ubiquiti-unifi-switch-enterprise-campus-aggregation",
+      "name": "Ubiquiti UniFi Switch Enterprise Campus Aggregation",
+      "brand": "Ubiquiti",
+      "category": "switches",
+      "price": "3999.00",
+      "priceBasis": "msrp",
+      "priceSource": "https://store.ui.com/us/en/products/ecs-aggregation",
+      "priceAsOf": "2026-09-28",
+      "summary": "48x 25G SFP28 plus 6x 100G QSFP28 Layer 3 aggregation switch with MC-LAG, dual hot-swap PSUs and 3.6 Tbps switching capacity.",
+      "description": "The Enterprise Campus Aggregation switch is a full-depth 1U Layer 3 UniFi switch with forty-eight 25G SFP28 ports and six 100G QSFP28 ports. It supports Multi-Chassis Link Aggregation (MC-LAG) for high availability, has two hot-swappable PSUs and five hot-swappable fans, and is rated for 3.6 Tbps switching capacity. Ubiquiti notes it requires a 4-post rack or a center-mount bracket.",
+      "keywords": "ecs aggregation enterprise campus 100g qsfp28 25g mc-lag core switch",
+      "specs": {
+        "ports": "48x 25G SFP28, 6x 100G QSFP28",
+        "maxSpeedGbps": 100,
+        "managed": true,
+        "rackMountable": true,
+        "switchingCapacityGbps": 3600
+      },
+      "collections": [
+        "enterprise-lab"
+      ],
+      "warranty": 12,
+      "priceNote": "UI Store US list price $3,999; the store also itemizes a separate memory surcharge, bringing the checkout total to $4,314.",
+      "sources": {
+        "product": "https://store.ui.com/us/en/products/ecs-aggregation",
+        "retrievedAt": "2026-09-28"
+      },
+      "image": {
+        "url": "https://cdn.ecomm.ui.com/products/82c1c564-0e08-4b27-a7b9-95729cca00bd/273218d0-162e-4389-8143-686302547137.png",
+        "page": "https://store.ui.com/us/en/products/ecs-aggregation",
+        "sourceType": "manufacturer-product-page",
+        "rights": "Official Ubiquiti Store product image (cdn.ecomm.ui.com); Ubiquiti has not granted a reuse license - rights not verified.",
+        "alt": "Ubiquiti UniFi Switch Enterprise Campus Aggregation 1U switch with SFP28 and QSFP28 ports, front view",
+        "match": "EXACT"
+      }
+    },
+    {
+      "sku": "TK-UBNT-USW-FLEXMINI-25G",
+      "slug": "ubiquiti-unifi-switch-flex-mini-2-5g",
+      "name": "Ubiquiti UniFi Switch Flex Mini 2.5G",
+      "brand": "Ubiquiti",
+      "category": "switches",
+      "price": "49.00",
+      "priceBasis": "msrp",
+      "priceSource": "https://store.ui.com/us/en/products/usw-flex-2-5g-5",
+      "priceAsOf": "2026-09-28",
+      "summary": "Compact 5-port 2.5 GbE UniFi switch that can be powered by PoE or a USB-C adapter.",
+      "description": "Switch Flex Mini 2.5G is a compact desktop UniFi switch with five 2.5 GbE RJ45 ports and 25 Gbps switching capacity. It is managed through UniFi Network and can be powered either by PoE on its uplink port or by a USB-C adapter.",
+      "keywords": "usw flex mini 2.5g desktop switch usb-c poe powered",
+      "specs": {
+        "ports": "5x 2.5GbE RJ45",
+        "maxSpeedGbps": 2.5,
+        "managed": true,
+        "rackMountable": false,
+        "switchingCapacityGbps": 25
+      },
+      "collections": [
+        "homelab-starter"
+      ],
+      "warranty": 12,
+      "priceNote": "UI Store US list price $49; the store also itemizes a separate memory surcharge, bringing the checkout total to $52.",
+      "sources": {
+        "product": "https://store.ui.com/us/en/products/usw-flex-2-5g-5",
+        "retrievedAt": "2026-09-28"
+      },
+      "image": {
+        "url": "https://cdn.ecomm.ui.com/products/50830d51-4d7e-47ea-92f4-11043d3d664f/c956d05e-4351-46ba-b71e-afaafa3f1144.png",
+        "page": "https://store.ui.com/us/en/products/usw-flex-2-5g-5",
+        "sourceType": "manufacturer-product-page",
+        "rights": "Official Ubiquiti Store product image (cdn.ecomm.ui.com); Ubiquiti has not granted a reuse license - rights not verified.",
+        "alt": "Ubiquiti UniFi Switch Flex Mini 2.5G small white 5-port switch, front view",
+        "match": "EXACT"
+      }
+    },
+    {
+      "sku": "TK-UBNT-U7-PRO-MAX",
+      "slug": "ubiquiti-unifi-u7-pro-max",
+      "name": "Ubiquiti UniFi U7 Pro Max Access Point",
+      "brand": "Ubiquiti",
+      "category": "access-points",
+      "price": "279.00",
+      "priceBasis": "msrp",
+      "priceSource": "https://store.ui.com/us/en/products/u7-pro-max",
+      "priceAsOf": "2026-09-28",
+      "summary": "Ceiling-mount tri-band Wi-Fi 7 access point with 8 spatial streams, 6 GHz and a dedicated spectral scanning engine.",
+      "description": "The U7 Pro Max is a ceiling-mounted Wi-Fi 7 access point with 8 spatial streams, 6 GHz support and a dedicated spectral scanning radio. Ubiquiti rates it for 160 m² (1,750 ft²) coverage and 500+ clients, with a 2.5 GbE uplink powered by PoE+.",
+      "keywords": "u7 pro max wifi 7 access point 6ghz spectral scanning",
+      "specs": {
+        "ports": "1x 2.5GbE RJ45 (PoE+ in)",
+        "maxSpeedGbps": 2.5,
+        "managed": true,
+        "rackMountable": false,
+        "wifiStandard": "Wi-Fi 7 (802.11be), tri-band 2.4/5/6 GHz, 8 spatial streams"
+      },
+      "collections": [
+        "homelab-essentials",
+        "small-business"
+      ],
+      "warranty": 12,
+      "priceNote": "UI Store US list price $279; the store also itemizes a separate memory surcharge, bringing the checkout total to $301.",
+      "sources": {
+        "product": "https://store.ui.com/us/en/products/u7-pro-max",
+        "retrievedAt": "2026-09-28"
+      },
+      "image": {
+        "url": "https://cdn.ecomm.ui.com/products/350070a0-ae43-431b-b052-8e849c3b0a75/bad94693-bc54-4ab4-b060-9b972401941c.png",
+        "page": "https://store.ui.com/us/en/products/u7-pro-max",
+        "sourceType": "manufacturer-product-page",
+        "rights": "Official Ubiquiti Store product image (cdn.ecomm.ui.com); Ubiquiti has not granted a reuse license - rights not verified.",
+        "alt": "Ubiquiti UniFi U7 Pro Max white round ceiling access point, top view",
+        "match": "EXACT"
+      }
+    },
+    {
+      "sku": "TK-UBNT-U7-PRO-XG",
+      "slug": "ubiquiti-unifi-u7-pro-xg",
+      "name": "Ubiquiti UniFi U7 Pro XG Access Point",
+      "brand": "Ubiquiti",
+      "category": "access-points",
+      "price": "199.00",
+      "priceBasis": "msrp",
+      "priceSource": "https://store.ui.com/us/en/products/u7-pro-xg",
+      "priceAsOf": "2026-09-28",
+      "summary": "Ceiling-mount 6-stream Wi-Fi 7 access point with a 10 GbE uplink, powered by PoE+.",
+      "description": "The U7 Pro XG is a ceiling-mounted tri-band Wi-Fi 7 access point with 6 spatial streams and a 10/5/2.5/1 GbE RJ45 uplink powered by PoE+. Ubiquiti rates it for 140 m² (1,500 ft²) coverage and 300+ clients; it is sold in white and black.",
+      "keywords": "u7 pro xg wifi 7 access point 10gbe uplink",
+      "specs": {
+        "ports": "1x 10GbE RJ45 (PoE+ in)",
+        "maxSpeedGbps": 10,
+        "managed": true,
+        "rackMountable": false,
+        "wifiStandard": "Wi-Fi 7 (802.11be), tri-band 2.4/5/6 GHz, 6 spatial streams"
+      },
+      "collections": [
+        "homelab-essentials",
+        "networking-lab"
+      ],
+      "featured": true,
+      "warranty": 12,
+      "priceNote": "UI Store US list price $199; the store also itemizes a separate memory surcharge, bringing the checkout total to $214.",
+      "sources": {
+        "product": "https://store.ui.com/us/en/products/u7-pro-xg",
+        "retrievedAt": "2026-09-28"
+      },
+      "image": {
+        "url": "https://cdn.ecomm.ui.com/products/a433b9e5-4dd1-4784-adf8-9d12bcba4c87/6e27f358-5455-48cc-91be-89d457b5e70f.png",
+        "page": "https://store.ui.com/us/en/products/u7-pro-xg",
+        "sourceType": "manufacturer-product-page",
+        "rights": "Official Ubiquiti Store product image (cdn.ecomm.ui.com); Ubiquiti has not granted a reuse license - rights not verified.",
+        "alt": "Ubiquiti UniFi U7 Pro XG white round ceiling Wi-Fi 7 access point, top view",
+        "match": "EXACT"
+      }
+    },
+    {
+      "sku": "TK-UBNT-U7-PRO-XGS",
+      "slug": "ubiquiti-unifi-u7-pro-xgs",
+      "name": "Ubiquiti UniFi U7 Pro XGS Access Point",
+      "brand": "Ubiquiti",
+      "category": "access-points",
+      "price": "299.00",
+      "priceBasis": "msrp",
+      "priceSource": "https://store.ui.com/us/en/products/u7-pro-xgs",
+      "priceAsOf": "2026-09-28",
+      "summary": "Ceiling-mount 8-stream Wi-Fi 7 access point with a dedicated spectral scanning radio and a 10 GbE uplink.",
+      "description": "The U7 Pro XGS is a ceiling-mounted Wi-Fi 7 access point with 8 spatial streams, a dedicated spectral scanning radio and a 10/5/2.5/1 GbE RJ45 uplink powered by PoE++. Ubiquiti rates it for 160 m² (1,750 ft²) coverage and 500+ clients; it is sold in white and black.",
+      "keywords": "u7 pro xgs wifi 7 access point 10gbe spectral scanning",
+      "specs": {
+        "ports": "1x 10GbE RJ45 (PoE++ in)",
+        "maxSpeedGbps": 10,
+        "managed": true,
+        "rackMountable": false,
+        "wifiStandard": "Wi-Fi 7 (802.11be), tri-band 2.4/5/6 GHz, 8 spatial streams"
+      },
+      "collections": [
+        "small-business",
+        "enterprise-lab"
+      ],
+      "warranty": 12,
+      "priceNote": "UI Store US list price $299; the store also itemizes a separate memory surcharge, bringing the checkout total to $322.",
+      "sources": {
+        "product": "https://store.ui.com/us/en/products/u7-pro-xgs",
+        "retrievedAt": "2026-09-28"
+      },
+      "image": {
+        "url": "https://cdn.ecomm.ui.com/products/1604d78c-6e51-4fe8-a8e5-0110cc332ba0/d7f782a0-ab43-4686-8281-057bdc6843a0.png",
+        "page": "https://store.ui.com/us/en/products/u7-pro-xgs",
+        "sourceType": "manufacturer-product-page",
+        "rights": "Official Ubiquiti Store product image (cdn.ecomm.ui.com); Ubiquiti has not granted a reuse license - rights not verified.",
+        "alt": "Ubiquiti UniFi U7 Pro XGS white round ceiling Wi-Fi 7 access point, top view",
+        "match": "EXACT"
+      }
+    },
+    {
+      "sku": "TK-UBNT-E7",
+      "slug": "ubiquiti-unifi-e7-access-point",
+      "name": "Ubiquiti UniFi E7 Access Point",
+      "brand": "Ubiquiti",
+      "category": "access-points",
+      "price": "499.00",
+      "priceBasis": "msrp",
+      "priceSource": "https://store.ui.com/us/en/products/e7",
+      "priceAsOf": "2026-09-28",
+      "summary": "Enterprise indoor Wi-Fi 7 access point with 10 spatial streams, a 10 GbE uplink and a redundant 1 GbE port.",
+      "description": "The UniFi E7 is an enterprise-grade indoor Wi-Fi 7 access point with 10 spatial streams, rated for 185 m² (2,000 ft²) coverage and 1,000+ clients. It has a 10 GbE uplink plus a redundant 1 GbE port for high availability, is powered by PoE++, and mounts on ceilings, walls or VESA.",
+      "keywords": "e7 enterprise wifi 7 access point 10gbe high density",
+      "specs": {
+        "ports": "1x 10GbE RJ45, 1x 1GbE RJ45 (PoE++ in)",
+        "maxSpeedGbps": 10,
+        "managed": true,
+        "rackMountable": false,
+        "wifiStandard": "Wi-Fi 7 (802.11be), 10 spatial streams"
+      },
+      "collections": [
+        "enterprise-lab",
+        "small-business"
+      ],
+      "warranty": 12,
+      "priceNote": "UI Store US list price $499; the store also itemizes a separate memory surcharge, bringing the checkout total to $538.",
+      "sources": {
+        "product": "https://store.ui.com/us/en/products/e7",
+        "retrievedAt": "2026-09-28"
+      },
+      "image": {
+        "url": "https://cdn.ecomm.ui.com/products/93ae773e-8969-4889-8591-2c227a31ac3f/09ff1a3a-0ce6-43ad-8188-607086944059.png",
+        "page": "https://store.ui.com/us/en/products/e7",
+        "sourceType": "manufacturer-product-page",
+        "rights": "Official Ubiquiti Store product image (cdn.ecomm.ui.com); Ubiquiti has not granted a reuse license - rights not verified.",
+        "alt": "Ubiquiti UniFi E7 square enterprise Wi-Fi 7 access point in white, front view",
+        "match": "EXACT"
+      }
+    },
+    {
+      "sku": "TK-UBNT-U7-PRO-OUTDOOR",
+      "slug": "ubiquiti-unifi-u7-pro-outdoor",
+      "name": "Ubiquiti UniFi U7 Pro Outdoor Access Point",
+      "brand": "Ubiquiti",
+      "category": "access-points",
+      "price": "279.00",
+      "priceBasis": "msrp",
+      "priceSource": "https://store.ui.com/us/en/products/u7-pro-outdoor-us",
+      "priceAsOf": "2026-09-28",
+      "summary": "All-weather IP67 Wi-Fi 7 access point with 6 spatial streams, AFC 6 GHz and an integrated directional super antenna.",
+      "description": "The U7 Pro Outdoor is an IP67-rated Wi-Fi 7 access point with 6 spatial streams, extended-range AFC 6 GHz support, an integrated directional super antenna and an articulating wall/pole mount. Ubiquiti rates it for 465 m² (5,000 ft²) coverage and 300+ clients, with a 2.5 GbE PoE+ uplink.",
+      "keywords": "u7 pro outdoor wifi 7 ip67 afc 6ghz access point",
+      "specs": {
+        "ports": "1x 2.5GbE RJ45 (PoE+ in)",
+        "maxSpeedGbps": 2.5,
+        "managed": true,
+        "rackMountable": false,
+        "wifiStandard": "Wi-Fi 7 (802.11be), tri-band with AFC 6 GHz, 6 spatial streams"
+      },
+      "collections": [
+        "small-business"
+      ],
+      "warranty": 12,
+      "priceNote": "UI Store US list price $279; the store also itemizes a separate memory surcharge, bringing the checkout total to $301.",
+      "sources": {
+        "product": "https://store.ui.com/us/en/products/u7-pro-outdoor-us",
+        "retrievedAt": "2026-09-28"
+      },
+      "image": {
+        "url": "https://cdn.ecomm.ui.com/products/29714d60-88e2-482c-aded-e0c456b51f98/277445cb-7d35-4be0-b267-1331067895bf.png",
+        "page": "https://store.ui.com/us/en/products/u7-pro-outdoor-us",
+        "sourceType": "manufacturer-product-page",
+        "rights": "Official Ubiquiti Store product image (cdn.ecomm.ui.com); Ubiquiti has not granted a reuse license - rights not verified.",
+        "alt": "Ubiquiti UniFi U7 Pro Outdoor white weatherproof Wi-Fi 7 access point, front view",
+        "match": "EXACT"
+      }
+    },
+    {
+      "sku": "TK-UBNT-DAC-SFP28",
+      "slug": "ubiquiti-unifi-25g-direct-attach-cable",
+      "name": "Ubiquiti UniFi 25G Direct Attach Cable (SFP28)",
+      "brand": "Ubiquiti",
+      "category": "cables",
+      "price": "23.00",
+      "priceBasis": "msrp",
+      "priceSource": "https://store.ui.com/us/en/products/25gbps-direct-attach-cable",
+      "priceAsOf": "2026-09-28",
+      "summary": "Passive copper SFP28-to-SFP28 direct attach cable supporting 25/10/1 Gbps, in 0.5, 1 and 3 m lengths.",
+      "description": "Ubiquiti's 25G Direct Attach Cable is a copper SFP28-to-SFP28 DAC with a black PVC jacket, supporting 25, 10 and 1 Gbps data rates. It is sold in 0.5 m, 1 m and 3 m lengths for short 25G links between switches, gateways and servers.",
+      "keywords": "dac sfp28 25g direct attach copper twinax",
+      "specs": {
+        "ports": "SFP28 to SFP28",
+        "maxSpeedGbps": 25,
+        "managed": false,
+        "rackMountable": false
+      },
+      "collections": [
+        "homelab-essentials",
+        "networking-lab"
+      ],
+      "warranty": 12,
+      "priceNote": "Official UI Store options: 0.5 m $23.00; 1 m $25.00; 3 m $39.00.",
+      "sources": {
+        "product": "https://store.ui.com/us/en/products/25gbps-direct-attach-cable",
+        "retrievedAt": "2026-09-28"
+      },
+      "image": {
+        "url": "https://cdn.ecomm.ui.com/products/1dff53c9-78e5-46f3-8e6a-41e4260228cb/58041074-d862-487d-b5ef-116d082ef2a0.png",
+        "page": "https://store.ui.com/us/en/products/25gbps-direct-attach-cable",
+        "sourceType": "manufacturer-product-page",
+        "rights": "Official Ubiquiti Store product image (cdn.ecomm.ui.com); Ubiquiti has not granted a reuse license - rights not verified.",
+        "alt": "Ubiquiti UniFi 25G SFP28 direct attach copper cable, coiled black cable with both connectors",
+        "match": "EXACT"
+      }
+    },
+    {
+      "sku": "TK-UBNT-DAC-QSFP28",
+      "slug": "ubiquiti-unifi-100g-direct-attach-cable",
+      "name": "Ubiquiti UniFi 100G Direct Attach Cable (QSFP28)",
+      "brand": "Ubiquiti",
+      "category": "cables",
+      "price": "35.00",
+      "priceBasis": "msrp",
+      "priceSource": "https://store.ui.com/us/en/products/uacc-dac-qsfp28",
+      "priceAsOf": "2026-09-28",
+      "summary": "Copper QSFP28-to-QSFP28 direct attach cable supporting 100/40 Gbps, in 0.5, 1 and 3 m lengths and 10-packs.",
+      "description": "Ubiquiti's 100G Direct Attach Cable is a copper QSFP28-to-QSFP28 DAC supporting 100 and 40 Gbps. It is offered in 0.5 m, 1 m and 3 m single units plus 0.5 m and 1 m 10-packs for short 100G interconnects in the rack.",
+      "keywords": "dac qsfp28 100g direct attach copper",
+      "specs": {
+        "ports": "QSFP28 to QSFP28",
+        "maxSpeedGbps": 100,
+        "managed": false,
+        "rackMountable": false
+      },
+      "collections": [
+        "enterprise-lab"
+      ],
+      "warranty": 12,
+      "priceNote": "Official UI Store options: 0.5 m $35.00; 1 m $39.00; 3 m $55.00; 0.5 m 10-pack $289.00; 1 m 10-pack $319.00.",
+      "sources": {
+        "product": "https://store.ui.com/us/en/products/uacc-dac-qsfp28",
+        "retrievedAt": "2026-09-28"
+      },
+      "image": {
+        "url": "https://cdn.ecomm.ui.com/products/d309d375-e84e-41f1-8f21-5ff63968910f/eb59b002-3af0-4918-8ba0-80118a03ad5b.png",
+        "page": "https://store.ui.com/us/en/products/uacc-dac-qsfp28",
+        "sourceType": "manufacturer-product-page",
+        "rights": "Official Ubiquiti Store product image (cdn.ecomm.ui.com); Ubiquiti has not granted a reuse license - rights not verified.",
+        "alt": "Ubiquiti UniFi 100G QSFP28 direct attach copper cable, coiled black cable with both connectors",
+        "match": "EXACT"
+      }
+    },
+    {
+      "sku": "TK-UBNT-PATCH-C6A-PREMIUM",
+      "slug": "ubiquiti-unifi-premium-patch-cable",
+      "name": "Ubiquiti UniFi Premium Patch Cable (Cat6A)",
+      "brand": "Ubiquiti",
+      "category": "cables",
+      "price": "4.99",
+      "priceBasis": "msrp",
+      "priceSource": "https://store.ui.com/us/en/products/uacc-cable-patch-el-c6a",
+      "priceAsOf": "2026-09-28",
+      "summary": "Ultra-thin braided white patch cable optimized for 10 GbE, supporting up to PoE+++, from 0.15 m to 15 m.",
+      "description": "The UniFi Premium Patch Cable is an ultra-thin braided patch cable designed for 10 GbE networking, with translucent booted shielded RJ45 connectors and support for up to PoE+++. It comes in white in lengths from 0.15 m to 15 m, with 10-, 24- and 50-packs for shorter lengths; the listed price is a single 0.15 m cable.",
+      "keywords": "cat6a patch cable 10gbe thin braided ethernet",
+      "specs": {
+        "ports": "RJ45 to RJ45",
+        "maxSpeedGbps": 10,
+        "managed": false,
+        "rackMountable": false
+      },
+      "collections": [
+        "homelab-essentials"
+      ],
+      "warranty": 12,
+      "priceNote": "Official UI Store options: 0.15 m $4.99; 0.3 m $6.00; 1 m $7.00; 2 m $8.00; 3 m $10.00; 5 m $13.00; 8 m $18.00; 12 m $28.00; 15 m $33.00; 0.15 m 24-pack $99.00.",
+      "sources": {
+        "product": "https://store.ui.com/us/en/products/uacc-cable-patch-el-c6a",
+        "retrievedAt": "2026-09-28"
+      },
+      "image": {
+        "url": "https://cdn.ecomm.ui.com/products/477a69c1-5b69-4f0f-bfaf-d1b97fa804da/d1281ace-4a5e-451c-956d-3d1f09dd66d1.png",
+        "page": "https://store.ui.com/us/en/products/uacc-cable-patch-el-c6a",
+        "sourceType": "manufacturer-product-page",
+        "rights": "Official Ubiquiti Store product image (cdn.ecomm.ui.com); Ubiquiti has not granted a reuse license - rights not verified.",
+        "alt": "Ubiquiti UniFi Premium Patch Cable, thin white braided Ethernet cable with translucent RJ45 boots",
+        "match": "EXACT"
+      }
+    },
+    {
+      "sku": "TK-UBNT-OM-SFP28-SR",
+      "slug": "ubiquiti-unifi-25g-multi-mode-optical-module",
+      "name": "Ubiquiti UniFi 25G Multi-Mode Optical Module (SFP28 SR)",
+      "brand": "Ubiquiti",
+      "category": "network-adapters",
+      "price": "49.00",
+      "priceBasis": "msrp",
+      "priceSource": "https://store.ui.com/us/en/products/25gbps-multi-mode-optical-module",
+      "priceAsOf": "2026-09-28",
+      "summary": "SFP28 850 nm transceiver for 25G links up to 100 m over OM4 multi-mode fiber with a duplex LC UPC connector.",
+      "description": "Ubiquiti's 25G Multi-Mode Optical Module (UACC-OM-SFP28-SR) is an SFP28 transceiver supporting 1, 10 and 25 Gbps over multi-mode fiber at 850 nm, reaching 100 m on OM4 or 70 m on OM3 with a duplex LC UPC connector and 0.8 W max power draw.",
+      "keywords": "sfp28 25g sr transceiver optic multimode 850nm",
+      "specs": {
+        "ports": "Duplex LC UPC",
+        "maxSpeedGbps": 25,
+        "managed": false,
+        "rackMountable": false,
+        "interface": "SFP28 (25GBASE-SR, 850 nm, MMF)"
+      },
+      "collections": [
+        "networking-lab",
+        "enterprise-lab"
+      ],
+      "warranty": 12,
+      "sources": {
+        "product": "https://store.ui.com/us/en/products/25gbps-multi-mode-optical-module",
+        "retrievedAt": "2026-09-28"
+      },
+      "image": {
+        "url": "https://cdn.ecomm.ui.com/products/6e47e7a3-7a18-43cf-a309-18f653a1bcab/6bd29cc5-4e79-482a-ac44-bf579cf43d1d.png",
+        "page": "https://store.ui.com/us/en/products/25gbps-multi-mode-optical-module",
+        "sourceType": "manufacturer-product-page",
+        "rights": "Official Ubiquiti Store product image (cdn.ecomm.ui.com); Ubiquiti has not granted a reuse license - rights not verified.",
+        "alt": "Ubiquiti UniFi 25G SFP28 multi-mode optical transceiver module, side view",
+        "match": "EXACT"
+      }
+    },
+    {
+      "sku": "TK-UBNT-USW-PROXG-48POE",
+      "slug": "ubiquiti-unifi-switch-pro-xg-48-poe",
+      "name": "Ubiquiti UniFi Switch Pro XG 48 PoE",
+      "brand": "Ubiquiti",
+      "category": "switches",
+      "price": "2499.00",
+      "priceBasis": "msrp",
+      "priceSource": "https://store.ui.com/us/en/products/usw-pro-xg-48-poe",
+      "priceAsOf": "2026-09-28",
+      "summary": "48-port Layer 3 Etherlighting switch with thirty-two 10 GbE and sixteen 2.5 GbE PoE+++ ports plus four 25G SFP28 uplinks.",
+      "description": "Switch Pro XG 48 PoE is a 1U professional UniFi switch whose thirty-two 10 GbE and sixteen 2.5 GbE RJ45 ports all deliver PoE+++, with four 25G SFP28 uplinks and 920 Gbps switching capacity. Ubiquiti rates total PoE availability at 1,080 W on 200-240 V AC (972 W on 100-120 V AC); it includes Etherlighting and DC power backup support.",
+      "keywords": "usw pro xg 48 poe 10gbe poe+++ 25g sfp28 wifi 7 campus switch",
+      "specs": {
+        "ports": "32x 10GbE RJ45 PoE+++, 16x 2.5GbE RJ45 PoE+++, 4x 25G SFP28",
+        "maxSpeedGbps": 25,
+        "managed": true,
+        "rackMountable": true,
+        "poe": 1080,
+        "switchingCapacityGbps": 920
+      },
+      "collections": [
+        "enterprise-lab",
+        "small-business"
+      ],
+      "warranty": 12,
+      "priceNote": "UI Store US list price $2,499; the store also itemizes a separate memory surcharge, bringing the checkout total to $2,696.",
+      "sources": {
+        "product": "https://store.ui.com/us/en/products/usw-pro-xg-48-poe",
+        "retrievedAt": "2026-09-28"
+      },
+      "image": {
+        "url": "https://cdn.ecomm.ui.com/products/b4f97072-47c3-4ea1-96aa-616b94c1ca05/ffad1ad8-f360-420b-9a67-39f12065c33e.png",
+        "page": "https://store.ui.com/us/en/products/usw-pro-xg-48-poe",
+        "sourceType": "manufacturer-product-page",
+        "rights": "Official Ubiquiti Store product image (cdn.ecomm.ui.com); Ubiquiti has not granted a reuse license - rights not verified.",
+        "alt": "Ubiquiti UniFi Switch Pro XG 48 PoE 1U rack switch with 48 multi-gig ports, front panel view",
+        "match": "EXACT"
+      }
+    },
+    {
+      "sku": "TK-UBNT-U7-LITE",
+      "slug": "ubiquiti-unifi-u7-lite",
+      "name": "Ubiquiti UniFi U7 Lite Access Point",
+      "brand": "Ubiquiti",
+      "category": "access-points",
+      "price": "99.00",
+      "priceBasis": "msrp",
+      "priceSource": "https://store.ui.com/us/en/products/u7-lite",
+      "priceAsOf": "2026-09-28",
+      "summary": "Compact ceiling-mount Wi-Fi 7 access point with 4 spatial streams and a 2.5 GbE uplink, powered by standard PoE.",
+      "description": "The U7 Lite is Ubiquiti's most affordable ceiling-mounted Wi-Fi 7 access point, with 4 spatial streams, a 2.5 GbE uplink and standard PoE power. Ubiquiti rates it for 115 m² (1,250 ft²) coverage and 200+ clients.",
+      "keywords": "u7 lite wifi 7 access point budget 2.5g",
+      "specs": {
+        "ports": "1x 2.5GbE RJ45 (PoE in)",
+        "maxSpeedGbps": 2.5,
+        "managed": true,
+        "rackMountable": false,
+        "wifiStandard": "Wi-Fi 7 (802.11be), 4 spatial streams"
+      },
+      "collections": [
+        "homelab-starter"
+      ],
+      "warranty": 12,
+      "priceNote": "UI Store US list price $99; the store also itemizes a separate memory surcharge, bringing the checkout total to $106.",
+      "sources": {
+        "product": "https://store.ui.com/us/en/products/u7-lite",
+        "retrievedAt": "2026-09-28"
+      },
+      "image": {
+        "url": "https://cdn.ecomm.ui.com/products/253cc208-4b09-4b2e-9d1a-7aa1e8f93507/49241c96-878f-4e40-8541-c2e89c1c5e6e.png",
+        "page": "https://store.ui.com/us/en/products/u7-lite",
+        "sourceType": "manufacturer-product-page",
+        "rights": "Official Ubiquiti Store product image (cdn.ecomm.ui.com); Ubiquiti has not granted a reuse license - rights not verified.",
+        "alt": "Ubiquiti UniFi U7 Lite compact white round ceiling access point, top view",
+        "match": "EXACT"
+      }
+    },
+    {
+      "sku": "TK-UBNT-OM-QSFP28-SR4",
+      "slug": "ubiquiti-unifi-100g-sr4-multi-mode-optical-module",
+      "name": "Ubiquiti UniFi 100G SR4 Multi-Mode Optical Module (QSFP28)",
+      "brand": "Ubiquiti",
+      "category": "network-adapters",
+      "price": "69.00",
+      "priceBasis": "msrp",
+      "priceSource": "https://store.ui.com/us/en/products/uacc-om-qsfp28-sr4",
+      "priceAsOf": "2026-09-28",
+      "summary": "QSFP28 850 nm SR4 transceiver for 100G/40G links up to 100 m over OM4 multi-mode fiber with an MPO-12 connector.",
+      "description": "Ubiquiti's 100G SR4 Multi-Mode Optical Module (UACC-OM-QSFP28-SR4) is a QSFP28 transceiver supporting 100 and 40 Gbps over multi-mode fiber at 850 nm, reaching 100 m on OM4 or 70 m on OM3 through an MPO-12 Type B UPC connector, with 2.5 W max power draw.",
+      "keywords": "qsfp28 100g sr4 transceiver optic multimode mpo",
+      "specs": {
+        "ports": "MPO-12 Type B UPC",
+        "maxSpeedGbps": 100,
+        "managed": false,
+        "rackMountable": false,
+        "interface": "QSFP28 (100GBASE-SR4, 850 nm, MMF)"
+      },
+      "collections": [
+        "enterprise-lab",
+        "ai-lab"
+      ],
+      "warranty": 12,
+      "sources": {
+        "product": "https://store.ui.com/us/en/products/uacc-om-qsfp28-sr4",
+        "retrievedAt": "2026-09-28"
+      },
+      "image": {
+        "url": "https://cdn.ecomm.ui.com/products/7a19451a-7bb9-425b-9529-47570e5d7c99/7172e78c-ccb6-4a99-aa6c-636c86205be3.png",
+        "page": "https://store.ui.com/us/en/products/uacc-om-qsfp28-sr4",
+        "sourceType": "manufacturer-product-page",
+        "rights": "Official Ubiquiti Store product image (cdn.ecomm.ui.com); Ubiquiti has not granted a reuse license - rights not verified.",
+        "alt": "Ubiquiti UniFi 100G QSFP28 SR4 optical transceiver module, side view",
+        "match": "EXACT"
+      }
+    },
+    {
+      "sku": "TK-NETGATE-4200-MAX",
+      "slug": "netgate-4200-max-pfsense-plus-security-gateway",
+      "name": "Netgate 4200 MAX pfSense Plus Security Gateway",
+      "brand": "Netgate",
+      "category": "firewalls",
+      "price": "829.00",
+      "priceBasis": "msrp",
+      "priceSource": "https://shop.netgate.com/products/netgate-4200-max-pfsense-security-gateway",
+      "priceAsOf": "2026-09-28",
+      "summary": "Silent desktop pfSense Plus firewall with four independent 2.5 GbE ports, a 4-core Intel Atom C1110 and 8.6 Gbps firewall throughput.",
+      "description": "The Netgate 4200 runs pfSense Plus on a passively cooled 4-core Intel Atom C1110 (2.1 GHz) with 4 GB LPDDR5 and a 128 GB NVMe SSD. It has four unswitched 2.5 GbE RJ45 ports; Netgate publishes 8.75 Gbps L3 forwarding, 8.61 Gbps firewall (10k ACLs) and 3.2 Gbps IPsec (AES-GCM-128) iPerf3 throughput.",
+      "keywords": "netgate 4200 pfsense plus firewall 2.5g desktop",
+      "specs": {
+        "ports": "4x 2.5GbE RJ45 (independent)",
+        "maxSpeedGbps": 2.5,
+        "managed": true,
+        "rackMountable": false,
+        "firewallThroughputGbps": 8.61
+      },
+      "collections": [
+        "security-lab",
+        "homelab-essentials",
+        "small-business"
+      ],
+      "warranty": 12,
+      "priceNote": "Netgate Store price with TAC Lite support included; TAC Professional/Enterprise add $399/$799 per year.",
+      "sources": {
+        "product": "https://shop.netgate.com/products/netgate-4200-max-pfsense-security-gateway",
+        "retrievedAt": "2026-09-28"
+      },
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0065/9531/3779/files/4200_front_head-on_1500x1500_8539782f-b91c-4ab2-a23d-b96c557555b7.jpg?v=1705948750",
+        "page": "https://shop.netgate.com/products/netgate-4200-max-pfsense-security-gateway",
+        "sourceType": "manufacturer-product-page",
+        "rights": "Official Netgate Store product image (shop.netgate.com Shopify CDN); Netgate has not granted a reuse license - rights not verified.",
+        "alt": "Netgate 4200 desktop pfSense Plus security gateway, front view",
+        "match": "EXACT"
+      }
+    },
+    {
+      "sku": "TK-NETGATE-8300-BASE",
+      "slug": "netgate-8300-base-pfsense-plus-security-gateway",
+      "name": "Netgate 8300 BASE pfSense Plus Security Gateway",
+      "brand": "Netgate",
+      "category": "firewalls",
+      "price": "6299.00",
+      "priceBasis": "msrp",
+      "priceSource": "https://shop.netgate.com/products/netgate-8300-base-pfsense-security-gateway",
+      "priceAsOf": "2026-09-28",
+      "summary": "1U pfSense Plus security gateway with an 8-core Xeon D-1733NT, 4x 10G SFP+, 4x 1G SFP, 3x 2.5 GbE and 26.8 Gbps firewall throughput.",
+      "description": "The Netgate 8300 is a 1U pfSense Plus appliance for medium to large businesses and service providers, built on an 8-core Intel Xeon D-1733NT with 32 GB ECC DDR4 and a 512 GB NVMe SSD. It has four 10G SFP+, four 1G SFP and three 2.5 GbE ports, PCIe 3.0 x8 and PCIe 4.0 x16 slots for 25G/100G NICs, and hot-swappable PSU bays; Netgate publishes 36.7 Gbps L3 forwarding, 26.8 Gbps firewall and 14.6 Gbps IPsec throughput.",
+      "keywords": "netgate 8300 pfsense plus xeon firewall 10g sfp+ rack",
+      "specs": {
+        "ports": "4x 10G SFP+, 4x 1G SFP, 3x 2.5GbE RJ45, IPMI, console",
+        "maxSpeedGbps": 10,
+        "managed": true,
+        "rackMountable": true,
+        "firewallThroughputGbps": 26.8
+      },
+      "collections": [
+        "security-lab",
+        "enterprise-lab"
+      ],
+      "featured": false,
+      "warranty": 12,
+      "priceNote": "Netgate Store BASE configuration with TAC Lite; 8300 MAX is $6,999 and an Intel E810 dual 25G SFP28 NIC adds $425.",
+      "sources": {
+        "product": "https://shop.netgate.com/products/netgate-8300-base-pfsense-security-gateway",
+        "retrievedAt": "2026-09-28"
+      },
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0065/9531/3779/files/8300front_head-on1500x1500_d82b3f14-4e42-4b7f-b656-c0001149f1e0.jpg?v=1717683211",
+        "page": "https://shop.netgate.com/products/netgate-8300-base-pfsense-security-gateway",
+        "sourceType": "manufacturer-product-page",
+        "rights": "Official Netgate Store product image (shop.netgate.com Shopify CDN); Netgate has not granted a reuse license - rights not verified.",
+        "alt": "Netgate 8300 1U rack-mount pfSense Plus security gateway, front head-on view",
+        "match": "EXACT"
+      }
+    },
+    {
+      "sku": "TK-MIKROTIK-RB5009UPR",
+      "slug": "mikrotik-rb5009upr-s-in",
+      "name": "MikroTik RB5009UPr+S+IN",
+      "brand": "MikroTik",
+      "category": "routers-gateways",
+      "price": "299.00",
+      "priceBasis": "msrp",
+      "priceSource": "https://mikrotik.com/product/rb5009upr_s_in",
+      "priceAsOf": "2026-09-28",
+      "summary": "Compact RouterOS v7 router with a quad-core ARM CPU, 2.5 GbE, 10G SFP+ and PoE-out on all eight Ethernet ports.",
+      "description": "The RB5009UPr+S+IN is a passively cooled RouterOS v7 router with a quad-core ARM 64-bit CPU, 1 GB RAM, seven Gigabit ports, one 2.5 GbE port and a 10G SFP+ cage. All eight Ethernet ports provide 802.3af/at PoE-out (130 W total), and it accepts power from a DC jack, a 2-pin terminal or PoE-in; four units fit in 1U with an optional rack kit.",
+      "keywords": "mikrotik rb5009 routeros poe router sfp+ homelab",
+      "specs": {
+        "ports": "7x 1GbE RJ45, 1x 2.5GbE RJ45, 1x 10G SFP+, USB 3.0",
+        "maxSpeedGbps": 10,
+        "managed": true,
+        "rackMountable": false
+      },
+      "collections": [
+        "homelab-essentials",
+        "networking-lab"
+      ],
+      "warranty": 12,
+      "priceNote": "MikroTik 'Suggested price' on the official product page (MikroTik sells through distributors).",
+      "sources": {
+        "product": "https://mikrotik.com/product/rb5009upr_s_in",
+        "retrievedAt": "2026-09-28"
+      },
+      "image": {
+        "url": "https://cdn.mikrotik.com/web-assets/rb_images/2190_hi_res.png",
+        "page": "https://mikrotik.com/product/rb5009upr_s_in",
+        "sourceType": "manufacturer-product-page",
+        "rights": "Official MikroTik product image (cdn.mikrotik.com high-resolution download on the product page); MikroTik has not granted a general reuse license - rights not verified.",
+        "alt": "MikroTik RB5009UPr+S+IN metal-cased router, front view with Ethernet ports and SFP+ cage",
+        "match": "EXACT"
+      }
+    },
+    {
+      "sku": "TK-MIKROTIK-CCR2116",
+      "slug": "mikrotik-ccr2116-12g-4s-plus",
+      "name": "MikroTik CCR2116-12G-4S+",
+      "brand": "MikroTik",
+      "category": "routers-gateways",
+      "price": "995.00",
+      "priceBasis": "msrp",
+      "priceSource": "https://mikrotik.com/product/ccr2116_12g_4splus",
+      "priceAsOf": "2026-09-28",
+      "summary": "1U Cloud Core Router with a 16-core ARM CPU, 16 GB RAM, 13 Gigabit ports, 4x 10G SFP+ and dual redundant PSUs.",
+      "description": "The CCR2116-12G-4S+ is a 1U RouterOS v7 Cloud Core Router aimed at ISPs, with a 16-core 2 GHz ARM 64-bit CPU, 16 GB RAM, thirteen Gigabit Ethernet ports, four 10G SFP+ cages, an M.2 slot and dual-redundant power supplies. MikroTik positions it for dynamic routing, large BGP tables and complex firewall and QoS setups.",
+      "keywords": "mikrotik ccr2116 cloud core router bgp isp 10g",
+      "specs": {
+        "ports": "13x 1GbE RJ45, 4x 10G SFP+, console",
+        "maxSpeedGbps": 10,
+        "managed": true,
+        "rackMountable": true
+      },
+      "collections": [
+        "networking-lab",
+        "enterprise-lab"
+      ],
+      "warranty": 12,
+      "priceNote": "MikroTik 'Suggested price' on the official product page (MikroTik sells through distributors).",
+      "sources": {
+        "product": "https://mikrotik.com/product/ccr2116_12g_4splus",
+        "retrievedAt": "2026-09-28"
+      },
+      "image": {
+        "url": "https://cdn.mikrotik.com/web-assets/rb_images/2625_hi_res.png",
+        "page": "https://mikrotik.com/product/ccr2116_12g_4splus",
+        "sourceType": "manufacturer-product-page",
+        "rights": "Official MikroTik product image (cdn.mikrotik.com high-resolution download on the product page); MikroTik has not granted a general reuse license - rights not verified.",
+        "alt": "MikroTik CCR2116-12G-4S+ 1U Cloud Core Router, front view",
+        "match": "EXACT"
+      }
+    },
+    {
+      "sku": "TK-MIKROTIK-CCR2216",
+      "slug": "mikrotik-ccr2216-1g-12xs-2xq",
+      "name": "MikroTik CCR2216-1G-12XS-2XQ",
+      "brand": "MikroTik",
+      "category": "routers-gateways",
+      "price": "2795.00",
+      "priceBasis": "msrp",
+      "priceSource": "https://mikrotik.com/product/ccr2216_1g_12xs_2xq",
+      "priceAsOf": "2026-09-28",
+      "summary": "Flagship 100G Cloud Core Router with 2x QSFP28, 12x SFP28, a 16-core CPU, L3 hardware offload and hot-swap PSUs.",
+      "description": "The CCR2216-1G-12XS-2XQ is MikroTik's flagship Cloud Core Router, pairing a 16-core 2 GHz ARM CPU and 16 GB RAM with a Marvell Prestera Aldrin2 switch chip for L3 hardware offloading. It has two 100G QSFP28 cages, twelve 25G SFP28 cages, one Gigabit port, two M.2 slots, four hot-swappable fans and dual hot-swap power supplies.",
+      "keywords": "mikrotik ccr2216 100g router qsfp28 sfp28 l3 offload",
+      "specs": {
+        "ports": "2x 100G QSFP28, 12x 25G SFP28, 1x 1GbE RJ45, console",
+        "maxSpeedGbps": 100,
+        "managed": true,
+        "rackMountable": true
+      },
+      "collections": [
+        "enterprise-lab",
+        "networking-lab"
+      ],
+      "featured": false,
+      "warranty": 12,
+      "priceNote": "MikroTik 'Suggested price' on the official product page (MikroTik sells through distributors).",
+      "sources": {
+        "product": "https://mikrotik.com/product/ccr2216_1g_12xs_2xq",
+        "retrievedAt": "2026-09-28"
+      },
+      "image": {
+        "url": "https://cdn.mikrotik.com/web-assets/rb_images/2122_hi_res.png",
+        "page": "https://mikrotik.com/product/ccr2216_1g_12xs_2xq",
+        "sourceType": "manufacturer-product-page",
+        "rights": "Official MikroTik product image (cdn.mikrotik.com high-resolution download on the product page); MikroTik has not granted a general reuse license - rights not verified.",
+        "alt": "MikroTik CCR2216-1G-12XS-2XQ 1U router with SFP28 and QSFP28 cages, front view",
+        "match": "EXACT"
+      }
+    },
+    {
+      "sku": "TK-MIKROTIK-HAPBE3-MEDIA",
+      "slug": "mikrotik-hap-be3-media",
+      "name": "MikroTik hAP be3 Media",
+      "brand": "MikroTik",
+      "category": "routers-gateways",
+      "price": "179.00",
+      "priceBasis": "msrp",
+      "priceSource": "https://mikrotik.com/product/hap_be3_media",
+      "priceAsOf": "2026-09-28",
+      "summary": "Tri-band BE9300 Wi-Fi 7 home router with five 2.5 GbE ports, three USB 3.0 ports and RouterOS v7 container support.",
+      "description": "The hAP be3 Media (MA53UG+HbeH) is a Wi-Fi 7 home and office router with 2x2 radios on 2.4, 5 and 6 GHz (BE9300 class, up to 5764 Mbit/s on 6 GHz), a quad-core IPQ-5322 CPU with 2 GB RAM, five 2.5 GbE ports and three USB 3.0 ports. It runs RouterOS v7, including containers with a one-click setup page in WinBox.",
+      "keywords": "mikrotik hap be3 media wifi 7 router routeros containers",
+      "specs": {
+        "ports": "5x 2.5GbE RJ45, 3x USB 3.0",
+        "maxSpeedGbps": 2.5,
+        "managed": true,
+        "rackMountable": false,
+        "wifiStandard": "Wi-Fi 7 (802.11be) BE9300, tri-band 2.4/5/6 GHz"
+      },
+      "collections": [
+        "homelab-starter"
+      ],
+      "warranty": 12,
+      "priceNote": "MikroTik 'Suggested price' on the official product page (MikroTik sells through distributors).",
+      "sources": {
+        "product": "https://mikrotik.com/product/hap_be3_media",
+        "retrievedAt": "2026-09-28"
+      },
+      "image": {
+        "url": "https://cdn.mikrotik.com/web-assets/rb_images/2618_hi_res.png",
+        "page": "https://mikrotik.com/product/hap_be3_media",
+        "sourceType": "manufacturer-product-page",
+        "rights": "Official MikroTik product image (cdn.mikrotik.com high-resolution download on the product page); MikroTik has not granted a general reuse license - rights not verified.",
+        "alt": "MikroTik hAP be3 Media Wi-Fi 7 router, front three-quarter view",
+        "match": "EXACT"
+      }
+    },
+    {
+      "sku": "TK-MIKROTIK-CRS326-4C20G2Q",
+      "slug": "mikrotik-crs326-4c-20g-2q-rm",
+      "name": "MikroTik CRS326-4C+20G+2Q+RM",
+      "brand": "MikroTik",
+      "category": "switches",
+      "price": "999.00",
+      "priceBasis": "msrp",
+      "priceSource": "https://mikrotik.com/product/crs326_4c_20g_2q_rm",
+      "priceAsOf": "2026-09-28",
+      "summary": "1U RouterOS v7 switch with twenty 2.5 GbE ports, four 10G SFP+/2.5G combo ports and two 40G QSFP+ uplinks.",
+      "description": "The CRS326-4C+20G+2Q+RM is a wire-speed 1U Cloud Router Switch with a Marvell Prestera switch chip: twenty 2.5 GbE ports, four combo ports (2.5 GbE or 10G SFP+), two 40G QSFP+ ports and a 100 Mbps management port. It supports VLANs, jumbo frames, link aggregation, ACLs and some Layer 3 routing, and has dual-redundant AC power supplies.",
+      "keywords": "mikrotik crs326 2.5g switch 40g qsfp+ multigig",
+      "specs": {
+        "ports": "20x 2.5GbE RJ45, 4x 2.5GbE/10G SFP+ combo, 2x 40G QSFP+, 1x 100M mgmt",
+        "maxSpeedGbps": 40,
+        "managed": true,
+        "rackMountable": true
+      },
+      "collections": [
+        "homelab-essentials",
+        "networking-lab"
+      ],
+      "warranty": 12,
+      "priceNote": "MikroTik 'Suggested price' on the official product page (MikroTik sells through distributors).",
+      "sources": {
+        "product": "https://mikrotik.com/product/crs326_4c_20g_2q_rm",
+        "retrievedAt": "2026-09-28"
+      },
+      "image": {
+        "url": "https://cdn.mikrotik.com/web-assets/rb_images/2321_hi_res.png",
+        "page": "https://mikrotik.com/product/crs326_4c_20g_2q_rm",
+        "sourceType": "manufacturer-product-page",
+        "rights": "Official MikroTik product image (cdn.mikrotik.com high-resolution download on the product page); MikroTik has not granted a general reuse license - rights not verified.",
+        "alt": "MikroTik CRS326-4C+20G+2Q+RM 1U rack switch, front view",
+        "match": "EXACT"
+      }
+    },
+    {
+      "sku": "TK-MIKROTIK-CRS520",
+      "slug": "mikrotik-crs520-4xs-16xq-rm",
+      "name": "MikroTik CRS520-4XS-16XQ-RM",
+      "brand": "MikroTik",
+      "category": "switches",
+      "price": "2195.00",
+      "priceBasis": "msrp",
+      "priceSource": "https://mikrotik.com/product/crs520_4xs_16xq_rm",
+      "priceAsOf": "2026-09-28",
+      "summary": "100G data center switch with sixteen QSFP28 ports, four SFP28 ports, a quad-core ARM CPU and hot-swap PSUs and fans.",
+      "description": "The CRS520-4XS-16XQ-RM is a 1U Cloud Router Switch with sixteen 100G QSFP28 ports, four 25G SFP28 ports and two 10G Ethernet ports, driven by a Marvell 98CX8410 switch chip and a quad-core 2 GHz ARM CPU with 4 GB RAM. It supports OSPF/BGP, ACLs, jumbo frames and L3 hardware-offloaded routing, with two hot-swap PSUs and four hot-swap fans included.",
+      "keywords": "mikrotik crs520 100g qsfp28 switch data center",
+      "specs": {
+        "ports": "16x 100G QSFP28, 4x 25G SFP28, 2x 10GbE RJ45, console",
+        "maxSpeedGbps": 100,
+        "managed": true,
+        "rackMountable": true
+      },
+      "collections": [
+        "enterprise-lab",
+        "ai-lab"
+      ],
+      "warranty": 12,
+      "priceNote": "MikroTik 'Suggested price' on the official product page (MikroTik sells through distributors).",
+      "sources": {
+        "product": "https://mikrotik.com/product/crs520_4xs_16xq_rm",
+        "retrievedAt": "2026-09-28"
+      },
+      "image": {
+        "url": "https://cdn.mikrotik.com/web-assets/rb_images/2352_hi_res.png",
+        "page": "https://mikrotik.com/product/crs520_4xs_16xq_rm",
+        "sourceType": "manufacturer-product-page",
+        "rights": "Official MikroTik product image (cdn.mikrotik.com high-resolution download on the product page); MikroTik has not granted a general reuse license - rights not verified.",
+        "alt": "MikroTik CRS520-4XS-16XQ-RM 1U 100G switch with QSFP28 cages, front view",
+        "match": "EXACT"
+      }
+    },
+    {
+      "sku": "TK-MIKROTIK-CRS812-DDQ",
+      "slug": "mikrotik-crs812-8ds-2dq-2ddq-rm",
+      "name": "MikroTik CRS812-8DS-2DQ-2DDQ-RM",
+      "brand": "MikroTik",
+      "category": "switches",
+      "price": "1295.00",
+      "priceBasis": "msrp",
+      "priceSource": "https://mikrotik.com/product/crs812_ddq",
+      "priceAsOf": "2026-09-28",
+      "summary": "1U RouterOS v7 switch with two 400G QSFP56-DD, two 200G QSFP56 and eight 50G SFP56 ports.",
+      "description": "The CRS812 DDQ (CRS812-8DS-2DQ-2DDQ-RM) brings 400G ports to RouterOS: two 400G QSFP56-DD, two 200G QSFP56 and eight 50G SFP56 ports plus two 10G Ethernet ports, on a Marvell 98DX7335 switch chip with a quad-core 2 GHz ARM CPU and 4 GB RAM. MikroTik targets top-of-rack/leaf, campus core, service-provider aggregation and AI-cluster labs; it has dual hot-swap PSUs and four hot-swap fans.",
+      "keywords": "mikrotik crs812 ddq 400g qsfp56-dd 200g 50g switch ai cluster",
+      "specs": {
+        "ports": "2x 400G QSFP56-DD, 2x 200G QSFP56, 8x 50G SFP56, 2x 10GbE RJ45",
+        "maxSpeedGbps": 400,
+        "managed": true,
+        "rackMountable": true
+      },
+      "collections": [
+        "enterprise-lab",
+        "ai-lab"
+      ],
+      "featured": true,
+      "warranty": 12,
+      "priceNote": "MikroTik 'Suggested price' on the official product page (MikroTik sells through distributors).",
+      "sources": {
+        "product": "https://mikrotik.com/product/crs812_ddq",
+        "retrievedAt": "2026-09-28"
+      },
+      "image": {
+        "url": "https://cdn.mikrotik.com/web-assets/rb_images/2483_hi_res.png",
+        "page": "https://mikrotik.com/product/crs812_ddq",
+        "sourceType": "manufacturer-product-page",
+        "rights": "Official MikroTik product image (cdn.mikrotik.com high-resolution download on the product page); MikroTik has not granted a general reuse license - rights not verified.",
+        "alt": "MikroTik CRS812-8DS-2DQ-2DDQ-RM 1U 400G switch, front view",
+        "match": "EXACT"
+      }
+    },
+    {
+      "sku": "TK-MIKROTIK-CRS304-4XG",
+      "slug": "mikrotik-crs304-4xg-in",
+      "name": "MikroTik CRS304-4XG-IN",
+      "brand": "MikroTik",
+      "category": "switches",
+      "price": "199.00",
+      "priceBasis": "msrp",
+      "priceSource": "https://mikrotik.com/product/crs304_4xg_in",
+      "priceAsOf": "2026-09-28",
+      "summary": "Compact fanless switch with four 10 GbE RJ45 ports, a Gigabit management port and four power input options.",
+      "description": "The CRS304-4XG-IN is a small passively cooled RouterOS v7 switch with four 1/2.5/5/10 GbE RJ45 ports plus a Gigabit port, a dual-core ARM CPU and a Marvell Prestera switch chip with some Layer 3 hardware offloading. It can be powered from two DC jacks, a 2-pin terminal or PoE-in and is rated for -40 to 70 C.",
+      "keywords": "mikrotik crs304 10gbe rj45 small switch homelab",
+      "specs": {
+        "ports": "4x 10GbE RJ45, 1x 1GbE RJ45",
+        "maxSpeedGbps": 10,
+        "managed": true,
+        "rackMountable": false
+      },
+      "collections": [
+        "homelab-starter",
+        "homelab-essentials"
+      ],
+      "warranty": 12,
+      "priceNote": "MikroTik 'Suggested price' on the official product page (MikroTik sells through distributors).",
+      "sources": {
+        "product": "https://mikrotik.com/product/crs304_4xg_in",
+        "retrievedAt": "2026-09-28"
+      },
+      "image": {
+        "url": "https://cdn.mikrotik.com/web-assets/rb_images/2369_hi_res.png",
+        "page": "https://mikrotik.com/product/crs304_4xg_in",
+        "sourceType": "manufacturer-product-page",
+        "rights": "Official MikroTik product image (cdn.mikrotik.com high-resolution download on the product page); MikroTik has not granted a general reuse license - rights not verified.",
+        "alt": "MikroTik CRS304-4XG-IN compact four-port 10GbE switch, front view",
+        "match": "EXACT"
+      }
+    },
+    {
+      "sku": "TK-NETGEAR-RBE973S",
+      "slug": "netgear-orbi-970-wifi-7-mesh-system-3-pack",
+      "name": "NETGEAR Orbi 970 Series Quad-Band WiFi 7 Mesh System (3-Pack)",
+      "brand": "NETGEAR",
+      "category": "mesh-wifi",
+      "price": "1999.99",
+      "priceBasis": "msrp",
+      "priceSource": "https://www.netgear.com/home/wifi/mesh/rbe973s/",
+      "priceAsOf": "2026-09-28",
+      "summary": "BE27000 quad-band Wi-Fi 7 mesh system (router + 2 satellites) with a 10 Gig internet port and up to 10,000 sq ft of coverage.",
+      "description": "The Orbi 970 3-Pack (RBE973S) pairs one RBE971 router with two RBE970 satellites for BE27000 quad-band Wi-Fi 7 with NETGEAR's Enhanced Dedicated Backhaul. The router has a 10 Gig internet port, a 10 Gbps LAN port and four 2.5 Gbps LAN ports; each satellite has one 10 Gbps and two 2.5 Gbps ports. NETGEAR rates the system for up to 10,000 sq ft and 200 devices.",
+      "keywords": "orbi 970 rbe973s wifi 7 mesh quad band 10 gig netgear",
+      "specs": {
+        "ports": "Router: 1x 10G WAN, 1x 10G LAN, 4x 2.5G LAN; each satellite: 1x 10G, 2x 2.5G",
+        "maxSpeedGbps": 10,
+        "managed": false,
+        "rackMountable": false,
+        "wifiStandard": "Wi-Fi 7 (802.11be) BE27000 quad-band",
+        "nodes": 3
+      },
+      "collections": [
+        "homelab-starter"
+      ],
+      "warranty": 12,
+      "priceNote": "netgear.com price for the 3-pack; 2-pack $1,499.99; router alone $599.99 (on sale from $799.99).",
+      "notes": "NETGEAR's official product images are only served at ~780 px on a padded canvas (too small after trimming), so the image is omitted.",
+      "sources": {
+        "product": "https://www.netgear.com/home/wifi/mesh/rbe973s/",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "sku": "TK-NETGEAR-XS508MV2",
+      "slug": "netgear-xs508mv2-8-port-10g-unmanaged-switch",
+      "name": "NETGEAR XS508Mv2 8-Port 10G Multi-Gigabit Unmanaged Switch",
+      "brand": "NETGEAR",
+      "category": "unmanaged-switches",
+      "price": "379.99",
+      "priceBasis": "msrp",
+      "priceSource": "https://www.netgear.com/business/wired/switches/unmanaged/xs508mv2/",
+      "priceAsOf": "2026-09-28",
+      "summary": "Plug-and-play desktop switch with eight 10G/multi-gigabit copper ports for Wi-Fi 7 backhaul, NAS and creator setups.",
+      "description": "The XS508Mv2 is an unmanaged desktop switch with eight 100M/1G/2.5G/5G/10G auto-sensing copper ports, a 1.5 MB packet buffer and 802.1p QoS. It needs no configuration, draws up to 39 W with one low-noise fan, and is backed by NETGEAR's limited lifetime hardware warranty.",
+      "keywords": "xs508m 10gbe unmanaged switch multi-gig desktop nas",
+      "specs": {
+        "ports": "8x 10G/5G/2.5G/1G RJ45",
+        "maxSpeedGbps": 10,
+        "managed": false,
+        "rackMountable": false
+      },
+      "collections": [
+        "homelab-essentials",
+        "homelab-starter"
+      ],
+      "sources": {
+        "product": "https://www.netgear.com/business/wired/switches/unmanaged/xs508mv2/",
+        "retrievedAt": "2026-09-28"
+      },
+      "image": {
+        "url": "https://assets.netgear.com/transform/e819a8e6-20cf-4e13-bb1d-edb109f2f8ed/XS508Mv2_Shadow_T_Front_Tipoff_g1",
+        "page": "https://www.netgear.com/business/wired/switches/unmanaged/xs508mv2/",
+        "sourceType": "manufacturer-product-page",
+        "rights": "Official NETGEAR product image from netgear.com (assets.netgear.com); NETGEAR has not granted a reuse license - rights not verified.",
+        "alt": "NETGEAR XS508Mv2 8-port 10G unmanaged switch, grey metal chassis front view",
+        "match": "EXACT"
+      }
+    },
+    {
+      "sku": "TK-TPLINK-DECO-BE85-3P",
+      "slug": "tp-link-deco-be85-wifi-7-mesh-3-pack",
+      "name": "TP-Link Deco BE85 BE22000 WiFi 7 Mesh System (3-Pack)",
+      "brand": "TP-Link",
+      "category": "mesh-wifi",
+      "price": "1499.99",
+      "priceBasis": "msrp",
+      "priceSource": "https://www.tp-link.com/us/press/news/20641/",
+      "priceAsOf": "2026-09-28",
+      "summary": "BE22000 tri-band Wi-Fi 7 mesh with 320 MHz channels, a 10 Gbps port and a 10G SFP+/RJ45 combo port on every unit.",
+      "description": "Deco BE85 is TP-Link's 12-stream tri-band Wi-Fi 7 mesh system (6 GHz up to 11,530 Mbps, 5 GHz 8,647 Mbps, 2.4 GHz 1,376 Mbps) with 320 MHz channels and 4K-QAM. Each unit has one 10 Gbps port, one 10 Gbps SFP+/RJ45 combo port, two 2.5 Gbps ports and a USB 3.0 port; TP-Link advertises whole-home coverage up to 9,600 sq ft and 200+ devices.",
+      "keywords": "deco be85 wifi 7 mesh 10g sfp+ tp-link whole home",
+      "specs": {
+        "ports": "Per unit: 1x 10G RJ45, 1x 10G SFP+/RJ45 combo, 2x 2.5G RJ45, 1x USB 3.0",
+        "maxSpeedGbps": 10,
+        "managed": false,
+        "rackMountable": false,
+        "wifiStandard": "Wi-Fi 7 (802.11be) BE22000 tri-band",
+        "nodes": 3
+      },
+      "collections": [
+        "homelab-starter"
+      ],
+      "priceNote": "TP-Link-published MSRP from its US launch press release ($1,499.99 3-pack, $999.99 2-pack); TP-Link US sells through retailers and shows no store price.",
+      "notes": "MSRP is from TP-Link's May 2023 US launch release; current street pricing may be lower.",
+      "sources": {
+        "product": "https://www.tp-link.com/us/home-networking/deco/deco-be85/",
+        "retrievedAt": "2026-09-28"
+      },
+      "image": {
+        "url": "https://static.tp-link.com/upload/image-line/04_Deco_BE85_Product_1_pack_large_20260920070937f.jpg",
+        "page": "https://www.tp-link.com/us/home-networking/deco/deco-be85/",
+        "sourceType": "manufacturer-product-page",
+        "rights": "Official TP-Link product image from tp-link.com (static.tp-link.com); TP-Link has not granted a reuse license - rights not verified.",
+        "alt": "TP-Link Deco BE85 white cylindrical Wi-Fi 7 mesh unit, front view",
+        "match": "EXACT"
+      }
+    },
+    {
+      "sku": "TK-TPLINK-OMADA-EAP773",
+      "slug": "tp-link-omada-eap773-wifi-7-access-point",
+      "name": "TP-Link Omada EAP773 BE11000 Tri-Band Wi-Fi 7 Access Point",
+      "brand": "TP-Link",
+      "category": "access-points",
+      "price": "229.99",
+      "priceBasis": "estimate",
+      "summary": "Ceiling-mount Omada tri-band Wi-Fi 7 access point with a 10G PoE+ Ethernet port, 320 MHz channels and MLO.",
+      "description": "The Omada EAP773 (Omada 7 Pro X) is a BE11000 tri-band Wi-Fi 7 ceiling access point with signal rates of 688 Mbps (2.4 GHz), 4,324 Mbps (5 GHz) and 5,765 Mbps (6 GHz), MLO, 4K-QAM and 320 MHz channels. It has a single 10G Ethernet port powered by 802.3at PoE (or 12 V DC), supports 380+ clients and is managed through Omada Central cloud, hardware or software controllers.",
+      "keywords": "omada eap773 wifi 7 access point 10g poe tp-link business",
+      "specs": {
+        "ports": "1x 10GbE RJ45 (802.3at PoE in)",
+        "maxSpeedGbps": 10,
+        "managed": true,
+        "rackMountable": false,
+        "wifiStandard": "Wi-Fi 7 (802.11be) BE11000 tri-band 2.4/5/6 GHz"
+      },
+      "collections": [
+        "small-business",
+        "networking-lab"
+      ],
+      "notes": "TP-Link/Omada publishes no US store price for the EAP773; price is a TrustKart estimate. Image is the official EU 2.0 overview image of the same hardware design.",
+      "sources": {
+        "product": "https://www.omadanetworks.com/us/business-networking/omada-wifi-ceiling-mount/eap773/",
+        "retrievedAt": "2026-09-28"
+      },
+      "image": {
+        "url": "https://static.tp-link.com/upload/image-line/EAP773_EU_2.0_overview_01_large_20251204032005i.jpg",
+        "page": "https://www.omadanetworks.com/us/business-networking/omada-wifi-ceiling-mount/eap773/",
+        "sourceType": "manufacturer-product-page",
+        "rights": "Official TP-Link product image from tp-link.com (static.tp-link.com); TP-Link has not granted a reuse license - rights not verified.",
+        "alt": "TP-Link Omada EAP773 white ceiling-mount Wi-Fi 7 access point",
+        "match": "PRODUCT_LINE"
+      }
+    },
+    {
+      "sku": "TK-SONICWALL-TZ680",
+      "slug": "sonicwall-tz680-gen-8-firewall",
+      "name": "SonicWall TZ680 Gen 8 Next-Generation Firewall",
+      "brand": "SonicWall",
+      "category": "firewalls",
+      "price": "1995.00",
+      "priceBasis": "estimate",
+      "summary": "Top Gen 8 TZ desktop firewall with 8x 1GbE, 2x 10G SFP+, 5 Gbps firewall inspection and 2.5 Gbps threat prevention.",
+      "description": "The TZ680 is the flagship of SonicWall's Gen 8 TZ Series running SonicOS 8. It has eight 1GbE ports and two 10/5/2.5/1G SFP+ ports, optional storage up to 512 GB, and SonicWall rates it for 5 Gbps firewall inspection, 3 Gbps IPS, 2.5 Gbps threat prevention and 1.6 million SPI connections, with centralized management through Network Security Manager.",
+      "keywords": "sonicwall tz680 gen 8 firewall ngfw sonicos 8 10g sfp+",
+      "specs": {
+        "ports": "8x 1GbE RJ45, 2x 10G SFP+, USB-C, console",
+        "maxSpeedGbps": 10,
+        "managed": true,
+        "rackMountable": false,
+        "firewallThroughputGbps": 5
+      },
+      "collections": [
+        "security-lab",
+        "small-business"
+      ],
+      "warranty": 12,
+      "notes": "No manufacturer US list price is published (sold through partners/quote only); price is a TrustKart estimate. Hardware-only reference; security service bundles are extra.",
+      "sources": {
+        "product": "https://www.sonicwall.com/products/firewalls/entry-level",
+        "specs": "https://assets-cms.sonicwall.com/v3/assets/blt281ecbfc2563bf9b/bltfceea0a5f8cce06e/6a0db8a8e87c5601f98dfaf4/Gen_8_TZ_Series_Datasheet.pdf",
+        "retrievedAt": "2026-09-28"
+      },
+      "image": {
+        "url": "https://images.contentstack.io/v3/assets/blt281ecbfc2563bf9b/blt1f41c4a88160adac/68764c1a2ad48977c7145a9a/tz680front.png",
+        "page": "https://www.sonicwall.com/products/firewalls/entry-level",
+        "sourceType": "manufacturer-product-page",
+        "rights": "Official SonicWall product image published on sonicwall.com (served from SonicWall's Contentstack CMS asset CDN, images.contentstack.io); no reuse license verified.",
+        "alt": "SonicWall TZ680 Gen 8 desktop firewall, front view",
+        "match": "EXACT"
+      }
+    },
+    {
+      "sku": "TK-SONICWALL-TZ480",
+      "slug": "sonicwall-tz480-gen-8-firewall",
+      "name": "SonicWall TZ480 Gen 8 Next-Generation Firewall",
+      "brand": "SonicWall",
+      "category": "firewalls",
+      "price": "1095.00",
+      "priceBasis": "estimate",
+      "summary": "Gen 8 TZ desktop firewall with 8x 1GbE, 2x 5G SFP+, 4 Gbps firewall inspection and 2 Gbps threat prevention.",
+      "description": "The TZ480 is a mid-range Gen 8 TZ Series firewall running SonicOS 8, with eight 1GbE ports and two 5/2.5/1G SFP+ ports. SonicWall rates it for 4 Gbps firewall inspection, 2.2 Gbps IPS, 2 Gbps threat prevention and 1.2 million SPI connections, with support for up to 32 managed access points.",
+      "keywords": "sonicwall tz480 gen 8 firewall ngfw small business",
+      "specs": {
+        "ports": "8x 1GbE RJ45, 2x 5G SFP+, USB-C, console",
+        "maxSpeedGbps": 5,
+        "managed": true,
+        "rackMountable": false,
+        "firewallThroughputGbps": 4
+      },
+      "collections": [
+        "security-lab",
+        "small-business"
+      ],
+      "warranty": 12,
+      "notes": "No manufacturer US list price is published (sold through partners/quote only); price is a TrustKart estimate. Hardware-only reference; security service bundles are extra.",
+      "sources": {
+        "product": "https://www.sonicwall.com/products/firewalls/entry-level",
+        "specs": "https://assets-cms.sonicwall.com/v3/assets/blt281ecbfc2563bf9b/bltfceea0a5f8cce06e/6a0db8a8e87c5601f98dfaf4/Gen_8_TZ_Series_Datasheet.pdf",
+        "retrievedAt": "2026-09-28"
+      },
+      "image": {
+        "url": "https://images.contentstack.io/v3/assets/blt281ecbfc2563bf9b/blt79ba848e813c1799/687657ed403040e895921279/tz480front.png",
+        "page": "https://www.sonicwall.com/products/firewalls/entry-level",
+        "sourceType": "manufacturer-product-page",
+        "rights": "Official SonicWall product image published on sonicwall.com (served from SonicWall's Contentstack CMS asset CDN, images.contentstack.io); no reuse license verified.",
+        "alt": "SonicWall TZ480 Gen 8 black desktop firewall, front view",
+        "match": "EXACT"
+      }
+    },
+    {
+      "sku": "TK-FORTINET-FG90G",
+      "slug": "fortinet-fortigate-90g",
+      "name": "Fortinet FortiGate 90G Next-Generation Firewall",
+      "brand": "Fortinet",
+      "category": "firewalls",
+      "price": "1495.00",
+      "priceBasis": "estimate",
+      "summary": "Desktop FortiGate with 28 Gbps firewall throughput, 2.2 Gbps threat protection, 8x GE and 2x 10GE RJ45/SFP+ shared WAN ports.",
+      "description": "The FortiGate 90G is a desktop next-generation firewall built on Fortinet's SP5 security processor. Its datasheet lists 28 Gbps firewall throughput (1518-byte UDP), 4.5 Gbps IPS and 2.2 Gbps threat protection, with eight GE RJ45 ports and two 10GE RJ45/SFP+ shared-media WAN ports.",
+      "keywords": "fortigate 90g fg-90g fortinet ngfw sd-wan sp5",
+      "specs": {
+        "ports": "8x GE RJ45, 2x 10GE RJ45/SFP+ shared media WAN",
+        "maxSpeedGbps": 10,
+        "managed": true,
+        "rackMountable": false,
+        "firewallThroughputGbps": 28
+      },
+      "collections": [
+        "security-lab",
+        "small-business"
+      ],
+      "warranty": 12,
+      "notes": "No manufacturer US list price is published (sold through partners/quote only); price is a TrustKart estimate. Hardware-only reference; FortiGuard bundles are extra. No clean official product image could be fetched (only datasheet covers), so image is omitted.",
+      "sources": {
+        "product": "https://www.fortinet.com/products/next-generation-firewall/entry-level",
+        "specs": "https://www.fortinet.com/content/dam/fortinet/assets/data-sheets/pdf/fortigate-fortiwifi-90g-series.pdf",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "sku": "TK-CISCO-SFW-1220CX",
+      "slug": "cisco-secure-firewall-1220cx",
+      "name": "Cisco Secure Firewall 1220CX",
+      "brand": "Cisco",
+      "category": "firewalls",
+      "price": "1995.00",
+      "priceBasis": "estimate",
+      "summary": "Compact Cisco Secure Firewall with 8x 1GbE and 2x 10G SFP+ ports, 9 Gbps firewall and 9 Gbps IPS throughput.",
+      "description": "The Secure Firewall 1220CX is a compact desktop model in Cisco's Secure Firewall 1200 Series for branch offices and small businesses. Cisco's datasheet lists eight 1000BASE-T ports plus two 1/10 Gbps SFP+ ports, 9.0 Gbps firewall throughput and 9.0 Gbps IPS/threat throughput.",
+      "keywords": "cisco secure firewall 1220cx 1200 series ftd asa branch",
+      "specs": {
+        "ports": "8x 1GbE RJ45, 2x 1/10G SFP+",
+        "maxSpeedGbps": 10,
+        "managed": true,
+        "rackMountable": false,
+        "firewallThroughputGbps": 9
+      },
+      "collections": [
+        "security-lab",
+        "small-business"
+      ],
+      "warranty": 12,
+      "notes": "No manufacturer US list price is published (sold through partners/quote only); price is a TrustKart estimate. cisco.com blocks automated image downloads, so no image is included.",
+      "sources": {
+        "product": "https://www.cisco.com/c/en/us/products/collateral/security/firewalls/secure-firewall-1200-series-ds.html",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "sku": "TK-CISCO-CW9172I",
+      "slug": "cisco-wireless-cw9172i-wifi-7-access-point",
+      "name": "Cisco Wireless CW9172I Wi-Fi 7 Access Point",
+      "brand": "Cisco",
+      "category": "access-points",
+      "price": "895.00",
+      "priceBasis": "estimate",
+      "summary": "Indoor tri-radio Wi-Fi 7 access point with up to 9 Gbps PHY rate and a 2.5G multigigabit uplink.",
+      "description": "The Cisco Wireless 9172I is an entry indoor Wi-Fi 7 access point with 2x2 radios on 2.4, 5 and 6 GHz (or 2x2 2.4 GHz plus 4x4 5 GHz), PHY rates up to 9 Gbps and a 100M/1G/2.5G multigigabit RJ-45 uplink. It runs on 802.3bt Class 5 (32 W), with reduced operation on 802.3at or 802.3af PoE, and is also offered as a Meraki-managed model.",
+      "keywords": "cisco cw9172i wifi 7 meraki catalyst access point",
+      "specs": {
+        "ports": "1x 2.5G multigigabit RJ45 (PoE in)",
+        "maxSpeedGbps": 2.5,
+        "managed": true,
+        "rackMountable": false,
+        "wifiStandard": "Wi-Fi 7 (802.11be) tri-radio 2.4/5/6 GHz, 2x2"
+      },
+      "collections": [
+        "enterprise-lab",
+        "small-business"
+      ],
+      "warranty": 12,
+      "notes": "No manufacturer US list price is published (sold through partners/quote only); price is a TrustKart estimate. Licensing (Meraki or Cisco Networking subscription) is extra. cisco.com blocks automated image downloads, so no image is included.",
+      "sources": {
+        "product": "https://www.cisco.com/site/us/en/products/networking/wireless/access-points/meraki-access-points/cw9172i.html",
+        "specs": "https://www.cisco.com/c/en/us/products/collateral/wireless/catalyst-9100ax-access-points/wireless-9172-series-access-points-ds.html",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "sku": "TK-RUCKUS-R770",
+      "slug": "ruckus-r770-wifi-7-access-point",
+      "name": "RUCKUS R770 Wi-Fi 7 Indoor Access Point",
+      "brand": "RUCKUS",
+      "category": "access-points",
+      "price": "1695.00",
+      "priceBasis": "estimate",
+      "summary": "Very-high-performance tri-radio Wi-Fi 7 indoor AP (2x2:2 / 4x4:4 / 2x2:2) with a 12.22 Gbps max rate, 10 GbE uplink and embedded IoT radio.",
+      "description": "The RUCKUS R770 is an enterprise tri-radio Wi-Fi 7 access point with 2x2:2, 4x4:4 and 2x2:2 radios and a 12.22 Gbps maximum rate. It has a 10 Gbps Ethernet port with 802.3bt Class 5 PoE-in and a 1 Gbps auxiliary port, plus an embedded IoT radio (BLE or Zigbee) and a USB port for additional IoT radios.",
+      "keywords": "ruckus r770 wifi 7 enterprise access point 10gbe iot",
+      "specs": {
+        "ports": "1x 10GbE RJ45 (PoE in), 1x 1GbE RJ45",
+        "maxSpeedGbps": 10,
+        "managed": true,
+        "rackMountable": false,
+        "wifiStandard": "Wi-Fi 7 (802.11be) tri-radio 2.4/5/6 GHz"
+      },
+      "collections": [
+        "enterprise-lab"
+      ],
+      "warranty": 12,
+      "notes": "No manufacturer US list price is published (sold through partners/quote only); price is a TrustKart estimate. RUCKUS sells through partners and publishes no list price.",
+      "sources": {
+        "product": "https://www.ruckusnetworks.com/products/wireless-access-points/r770/",
+        "retrievedAt": "2026-09-28"
+      },
+      "image": {
+        "url": "https://productresources.vistancenetworks.com/admin/ImageServer.php?ID=0c07ba3e128988546090ffe6b46f280586b989535c020ec37e05155b53c28767:77522@kbl572&class=Mamfile&rand=1fa923168aa47e039ce3d97707695af8&downloadname=RUCKUS+R770+Access+Point+-+0L5A7202.png&preset=10",
+        "page": "https://www.ruckusnetworks.com/products/wireless-access-points/r770/",
+        "sourceType": "manufacturer-media-library",
+        "rights": "RUCKUS product image from the official product media library linked on ruckusnetworks.com; no reuse license verified.",
+        "alt": "RUCKUS R770 white square Wi-Fi 7 enterprise access point, three-quarter view",
+        "match": "EXACT"
+      }
+    }
+  ]
+}

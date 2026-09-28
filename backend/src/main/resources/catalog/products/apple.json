@@ -1,0 +1,2043 @@
+{
+ "products": [
+  {
+   "sku": "TK-APPLE-IPHONEDUO",
+   "slug": "apple-iphone-duo",
+   "name": "Apple iPhone Duo",
+   "brand": "Apple",
+   "category": "foldables",
+   "price": "1999.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    50,
+    5
+   ],
+   "featured": true,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "latest-iphones",
+    "apple-ecosystem"
+   ],
+   "summary": "Apple's foldable iPhone: a 7.6-inch folding Super Retina XDR inner display, 5.4-inch outer display, A20 Pro chip and titanium foldable design.",
+   "description": "iPhone Duo pairs a 7.6-inch OLED folding inner display with a nano-texture finish and a 5.4-inch outer display, both with ProMotion up to 120Hz and Always-On. It runs on the A20 Pro chip with the Apple C2 modem and N1 wireless chip, uses a 48MP Dual Fusion camera system, supports Apple Pencil (USB-C) and unlocks with Touch ID in the side button. It measures 5.2 mm thin open and weighs 254 grams.",
+   "keywords": "foldable iphone fold duo a20 pro folding phone",
+   "specs": {
+    "chip": "A20 Pro (6-core CPU, 7-core GPU with Neural Accelerators)",
+    "storageGb": 256,
+    "displayIn": 7.6,
+    "display": "7.6-inch Super Retina XDR OLED folding display, 1878x2670 at 430 ppi, nano-texture, ProMotion up to 120Hz",
+    "coverDisplay": "5.4-inch Super Retina XDR OLED, 1398x2034 at 460 ppi, ProMotion up to 120Hz",
+    "rearCamera": "48MP Dual Fusion: 48MP Fusion Main (f/1.6, sensor-shift OIS) + 48MP Fusion Ultra Wide",
+    "frontCamera": "12MP Center Stage (outer) + under-display FaceTime camera (inner)",
+    "battery": "Up to 24 hours typical use; up to 44 hours video playback on the outer display",
+    "charging": "USB-C (50% in ~20 min with 60W+ adapter); MagSafe and Qi2 wireless up to 25W",
+    "connectivity": "5G (sub-6 GHz and mmWave), Apple C2 modem, Wi-Fi 7, Bluetooth 6, Thread, UWB gen 2, dual eSIM",
+    "durability": "IP68 (6 m up to 30 min); Ceramic Shield 2 front",
+    "os": "iOS 27",
+    "weightG": 254,
+    "dimensions": "Open 117.8 x 164.6 x 5.2 mm; closed 117.8 x 84.1 x 11.3 mm",
+    "configurations": "256GB – $1,999 · 512GB – $2,199 · 1TB – $2,599 · 2TB – $3,199",
+    "colors": "Night Sky, Star White"
+   }
+  },
+  {
+   "sku": "TK-APPLE-IPHONE18PRO",
+   "slug": "apple-iphone-18-pro",
+   "name": "Apple iPhone 18 Pro",
+   "brand": "Apple",
+   "category": "smartphones",
+   "price": "1199.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    23,
+    5
+   ],
+   "featured": true,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "latest-iphones",
+    "apple-ecosystem"
+   ],
+   "summary": "6.3-inch iPhone 18 Pro with the vapor-cooled A20 Pro chip, a 48MP Fusion Main camera with variable aperture and a 4x/8x tetraprism telephoto.",
+   "description": "iPhone 18 Pro has a 6.3-inch Super Retina XDR display with ProMotion and Always-On, an aluminum unibody with Ceramic Shield 2, and the A20 Pro chip with a Dual 16-core Neural Engine. The 48MP Pro Fusion camera system adds variable aperture (f/1.48 to f/4.0) on the Main camera plus 48MP Ultra Wide and 4x Telephoto lenses, with ProRes RAW and Apple Log 2 video. It uses the Apple C2 modem and N1 wireless chip.",
+   "keywords": "iphone 18 pro a20 pro variable aperture camera",
+   "specs": {
+    "chip": "A20 Pro (6-core CPU, 7-core GPU with Neural Accelerators, Dual 16-core Neural Engine)",
+    "storageGb": 256,
+    "displayIn": 6.3,
+    "display": "6.3-inch Super Retina XDR OLED, 2622x1206 at 460 ppi, ProMotion up to 120Hz, Always-On",
+    "rearCamera": "48MP Fusion Main with variable aperture (f/1.48-f/4.0), 48MP Fusion Ultra Wide, 48MP 4x Fusion Telephoto",
+    "frontCamera": "18MP Center Stage, f/1.9",
+    "battery": "Up to 24 hours typical use; up to 36 hours video playback",
+    "charging": "USB-C (50% in ~15 min with 60W+ adapter); MagSafe and Qi2 up to 25W",
+    "connectivity": "5G (sub-6 GHz and mmWave), Apple C2 modem, Wi-Fi 7, Bluetooth 6, Thread, UWB gen 2, dual eSIM",
+    "durability": "IP68 (6 m up to 30 min); Ceramic Shield 2 front, Ceramic Shield back",
+    "os": "iOS 27",
+    "weightG": 211,
+    "dimensions": "150.0 x 71.9 x 8.75 mm",
+    "configurations": "256GB – $1,199 · 512GB – $1,399 · 1TB – $1,799 · 2TB – $2,399",
+    "colors": "Burgundy, Glacier, Silver, Black"
+   }
+  },
+  {
+   "sku": "TK-APPLE-IPHONE18PROMAX",
+   "slug": "apple-iphone-18-pro-max",
+   "name": "Apple iPhone 18 Pro Max",
+   "brand": "Apple",
+   "category": "smartphones",
+   "price": "1299.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    30,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "latest-iphones",
+    "apple-ecosystem"
+   ],
+   "summary": "6.9-inch iPhone 18 Pro Max with A20 Pro, variable-aperture 48MP Main camera, 8x optical-quality telephoto and up to 30 hours typical battery life.",
+   "description": "iPhone 18 Pro Max shares the A20 Pro chip and 48MP Pro Fusion camera system of iPhone 18 Pro with a larger 6.9-inch Super Retina XDR display. Apple rates it for up to 30 hours of typical use and up to 45 hours of video playback. It offers storage up to 2TB, Wi-Fi 7 through the Apple N1 chip and fast charging to 50% in around 15 minutes with a 60W-capable adapter.",
+   "keywords": "iphone 18 pro max a20 pro big screen",
+   "specs": {
+    "chip": "A20 Pro (6-core CPU, 7-core GPU with Neural Accelerators, Dual 16-core Neural Engine)",
+    "storageGb": 256,
+    "displayIn": 6.9,
+    "display": "6.9-inch Super Retina XDR OLED, 2868x1320 at 460 ppi, ProMotion up to 120Hz, Always-On",
+    "rearCamera": "48MP Fusion Main with variable aperture (f/1.48-f/4.0), 48MP Fusion Ultra Wide, 48MP 4x Fusion Telephoto",
+    "frontCamera": "18MP Center Stage, f/1.9",
+    "battery": "Up to 30 hours typical use; up to 45 hours video playback",
+    "charging": "USB-C (50% in ~15 min with 60W+ adapter); MagSafe and Qi2 up to 25W",
+    "connectivity": "5G (sub-6 GHz and mmWave), Wi-Fi 7 (Apple N1), Bluetooth 6, Thread, UWB gen 2, dual eSIM",
+    "durability": "IP68 (6 m up to 30 min); Ceramic Shield 2 front, Ceramic Shield back",
+    "os": "iOS 27",
+    "weightG": 249,
+    "dimensions": "163.4 x 78.0 x 8.75 mm",
+    "configurations": "256GB – $1,299 · 512GB – $1,499 · 1TB – $1,899 · 2TB – $2,499",
+    "colors": "Burgundy, Glacier, Silver, Black"
+   }
+  },
+  {
+   "sku": "TK-APPLE-IPHONEAIR",
+   "slug": "apple-iphone-air",
+   "name": "Apple iPhone Air",
+   "brand": "Apple",
+   "category": "smartphones",
+   "price": "1099.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    37,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "latest-iphones",
+    "apple-ecosystem"
+   ],
+   "summary": "Ultra-thin 5.64 mm iPhone Air with a titanium design, 6.5-inch ProMotion display, A19 Pro chip and 165 g weight.",
+   "description": "iPhone Air has a titanium frame with Ceramic Shield 2 on the front and a 6.5-inch Super Retina XDR display with ProMotion and Always-On. It uses the A19 Pro chip, the Apple C1X modem and the N1 wireless chip, and a single 48MP Fusion camera that also enables 2x optical-quality telephoto shots. It is 5.64 mm thin and weighs 165 grams.",
+   "keywords": "iphone air thin light titanium a19 pro",
+   "specs": {
+    "chip": "A19 Pro (6-core CPU, 5-core GPU with Neural Accelerators)",
+    "storageGb": 256,
+    "displayIn": 6.5,
+    "display": "6.5-inch Super Retina XDR OLED, 2736x1260 at 460 ppi, ProMotion up to 120Hz, Always-On",
+    "rearCamera": "48MP Fusion Main (f/1.6, sensor-shift OIS) with 2x optical-quality telephoto",
+    "frontCamera": "18MP Center Stage, f/1.9",
+    "battery": "Up to 27 hours video playback (40 hours with iPhone Air MagSafe Battery)",
+    "charging": "USB-C; MagSafe and Qi2 up to 20W",
+    "connectivity": "5G (sub-6 GHz), Apple C1X modem, Wi-Fi 7 (Apple N1), Bluetooth 6",
+    "durability": "IP68 (6 m up to 30 min); Ceramic Shield 2 front",
+    "os": "iOS 27",
+    "weightG": 165,
+    "dimensions": "156.2 x 74.7 x 5.64 mm",
+    "configurations": "256GB – $1,099 · 512GB – $1,299 · 1TB – $1,699",
+    "colors": "Sky Blue, Light Gold, Cloud White, Space Black"
+   }
+  },
+  {
+   "sku": "TK-APPLE-IPHONE17",
+   "slug": "apple-iphone-17",
+   "name": "Apple iPhone 17",
+   "brand": "Apple",
+   "category": "smartphones",
+   "price": "929.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    20,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "latest-iphones",
+    "apple-ecosystem"
+   ],
+   "summary": "iPhone 17 with a 6.3-inch ProMotion Always-On display, A19 chip, 48MP Dual Fusion cameras and an 18MP Center Stage front camera.",
+   "description": "iPhone 17 brings a 6.3-inch Super Retina XDR display with ProMotion up to 120Hz and Always-On, Ceramic Shield 2 and an aluminum design. The A19 chip powers Apple Intelligence, and the 48MP Dual Fusion camera system pairs a 48MP Main camera with a 48MP Ultra Wide. It charges to 50% in 20 minutes with a 40W adapter and supports 25W MagSafe and Qi2 wireless charging.",
+   "keywords": "iphone 17 a19 promotion 120hz",
+   "specs": {
+    "chip": "A19 (6-core CPU, 5-core GPU with Neural Accelerators)",
+    "storageGb": 256,
+    "displayIn": 6.3,
+    "display": "6.3-inch Super Retina XDR OLED, 2622x1206 at 460 ppi, ProMotion up to 120Hz, Always-On",
+    "rearCamera": "48MP Dual Fusion: 48MP Fusion Main (f/1.6) + 48MP Fusion Ultra Wide",
+    "frontCamera": "18MP Center Stage, f/1.9",
+    "battery": "Up to 30 hours video playback",
+    "charging": "USB-C (50% in 20 min with 40W adapter); MagSafe and Qi2 up to 25W",
+    "connectivity": "5G (sub-6 GHz and mmWave), Wi-Fi 7 (Apple N1), Bluetooth 6",
+    "durability": "IP68 (6 m up to 30 min); Ceramic Shield 2 front",
+    "os": "iOS 27",
+    "weightG": 177,
+    "dimensions": "149.6 x 71.5 x 7.95 mm",
+    "configurations": "256GB – $929 · 512GB – $1,129",
+    "colors": "Lavender, Sage, Mist Blue, White, Black"
+   }
+  },
+  {
+   "sku": "TK-APPLE-IPHONE17E",
+   "slug": "apple-iphone-17e",
+   "name": "Apple iPhone 17e",
+   "brand": "Apple",
+   "category": "smartphones",
+   "price": "699.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    58,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "latest-iphones",
+    "apple-ecosystem"
+   ],
+   "summary": "Value iPhone 17e with a 6.1-inch Super Retina XDR display, A19 chip, 48MP Fusion camera, Apple C1X modem and MagSafe.",
+   "description": "iPhone 17e has a 6.1-inch Super Retina XDR OLED display with Ceramic Shield 2, the A19 chip with a 4-core GPU and 16-core Neural Engine for Apple Intelligence, and a 48MP Fusion camera with 2x telephoto crop. It uses the Apple C1X cellular modem, Face ID and MagSafe/Qi2 wireless charging up to 15W, and starts at 256GB of storage.",
+   "keywords": "iphone 17e budget affordable a19",
+   "specs": {
+    "chip": "A19 (6-core CPU, 4-core GPU with Neural Accelerators)",
+    "storageGb": 256,
+    "displayIn": 6.1,
+    "display": "6.1-inch Super Retina XDR OLED, 2532x1170 at 460 ppi",
+    "rearCamera": "48MP Fusion Main (f/1.6, OIS) with 2x telephoto",
+    "frontCamera": "12MP TrueDepth, f/1.9",
+    "battery": "Up to 26 hours video playback",
+    "charging": "USB-C (50% in 30 min with 20W adapter); MagSafe and Qi2 up to 15W",
+    "connectivity": "5G (sub-6 GHz), Apple C1X modem, Wi-Fi 6, Bluetooth 5.3",
+    "durability": "IP68 (6 m up to 30 min); Ceramic Shield 2 front",
+    "os": "iOS 27",
+    "weightG": 169,
+    "dimensions": "146.7 x 71.5 x 7.80 mm",
+    "configurations": "256GB – $699 · 512GB – $899",
+    "colors": "Soft Pink, White, Black"
+   }
+  },
+  {
+   "sku": "TK-APPLE-IPHONE16",
+   "slug": "apple-iphone-16",
+   "name": "Apple iPhone 16",
+   "brand": "Apple",
+   "category": "smartphones",
+   "price": "829.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    54,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "apple-ecosystem"
+   ],
+   "summary": "iPhone 16 with a 6.1-inch Super Retina XDR display, Dynamic Island, A18 chip, Camera Control and a 48MP Fusion camera.",
+   "description": "iPhone 16 remains in Apple's lineup with a 6.1-inch Super Retina XDR display with Dynamic Island, an aluminum design with color-infused glass back, and the A18 chip. It has a 48MP Fusion Main camera plus 12MP Ultra Wide, Camera Control, USB-C and MagSafe/Qi2 charging up to 25W. Apple currently sells it in 128GB.",
+   "keywords": "iphone 16 a18 camera control",
+   "specs": {
+    "chip": "A18 (6-core CPU, 5-core GPU, 16-core Neural Engine)",
+    "storageGb": 128,
+    "displayIn": 6.1,
+    "display": "6.1-inch Super Retina XDR OLED, 2556x1179 at 460 ppi, Dynamic Island",
+    "rearCamera": "48MP Fusion Main (f/1.6) + 12MP Ultra Wide",
+    "frontCamera": "12MP TrueDepth",
+    "battery": "Up to 22 hours video playback",
+    "charging": "USB-C; MagSafe and Qi2 up to 25W",
+    "connectivity": "5G (sub-6 GHz and mmWave), Wi-Fi 7, Bluetooth 5.3",
+    "durability": "IP68 (6 m up to 30 min); Ceramic Shield front",
+    "weightG": 170,
+    "dimensions": "147.6 x 71.6 x 7.80 mm",
+    "colors": "Ultramarine, Teal, Pink, White, Black"
+   }
+  },
+  {
+   "sku": "TK-APPLE-MACBOOKNEO",
+   "slug": "apple-macbook-neo",
+   "name": "Apple MacBook Neo",
+   "brand": "Apple",
+   "category": "premium-laptops",
+   "price": "699.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    45,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "apple-ecosystem"
+   ],
+   "summary": "Apple's most affordable Mac laptop: a 13-inch Liquid Retina MacBook with the A18 Pro chip, 8GB unified memory and up to 16 hours of video streaming.",
+   "description": "MacBook Neo is a 13.0-inch laptop built around the Apple A18 Pro chip with a 6-core CPU, 5-core GPU and 16-core Neural Engine. It has a 2408x1506 Liquid Retina display, 8GB unified memory, a 36.5 Wh battery rated for up to 16 hours of video streaming, one USB 3 and one USB 2 USB-C port, Wi-Fi 6E and Bluetooth 6. The 512GB model adds Magic Keyboard with Touch ID.",
+   "keywords": "macbook neo cheap student laptop a18 pro",
+   "specs": {
+    "cpu": "Apple A18 Pro (6-core CPU)",
+    "cpuBrand": "Apple",
+    "gpu": "5-core GPU (integrated)",
+    "ramGb": 8,
+    "storageTb": 0.256,
+    "displayIn": 13.0,
+    "display": "13.0-inch Liquid Retina (IPS LED), 2408x1506, 500 nits, sRGB",
+    "batteryWh": 36.5,
+    "weightKg": 1.23,
+    "os": "macOS",
+    "ports": "1x USB 3 (USB-C, 10Gb/s, DisplayPort), 1x USB 2 (USB-C), 3.5 mm headphone jack",
+    "wireless": "Wi-Fi 6E, Bluetooth 6",
+    "configurations": "A18 Pro, 8GB, 256GB – $699 · A18 Pro, 8GB, 512GB, Touch ID – $799",
+    "colors": "Silver, Blush, Citrus, Indigo"
+   }
+  },
+  {
+   "sku": "TK-APPLE-MBA13-M5",
+   "slug": "apple-macbook-air-13-m5",
+   "name": "Apple MacBook Air 13-inch (M5)",
+   "brand": "Apple",
+   "category": "premium-laptops",
+   "price": "1299.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    56,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "premium-laptops",
+    "apple-ecosystem"
+   ],
+   "summary": "13.6-inch MacBook Air with the M5 chip, 16GB unified memory, 512GB SSD, Wi-Fi 7 and up to 18 hours of video streaming.",
+   "description": "The 13-inch MacBook Air uses the Apple M5 chip with a 10-core CPU (4 super cores, 6 efficiency cores), an 8-core GPU with Neural Accelerators and 153GB/s memory bandwidth. It has a 13.6-inch Liquid Retina display, a 12MP Center Stage camera, two Thunderbolt 4 ports plus MagSafe 3, the Apple N1 chip for Wi-Fi 7, and a 53.8 Wh battery rated for up to 18 hours of video streaming.",
+   "keywords": "macbook air 13 m5 thin light laptop",
+   "specs": {
+    "cpu": "Apple M5 (10-core CPU)",
+    "cpuBrand": "Apple",
+    "gpu": "8-core GPU with Neural Accelerators",
+    "ramGb": 16,
+    "storageTb": 0.5,
+    "displayIn": 13.6,
+    "display": "13.6-inch Liquid Retina (IPS LED), 2560x1664, 500 nits, P3",
+    "batteryWh": 53.8,
+    "weightKg": 1.23,
+    "os": "macOS",
+    "ports": "2x Thunderbolt 4 (USB-C), MagSafe 3, 3.5 mm headphone jack",
+    "wireless": "Wi-Fi 7 (Apple N1), Bluetooth 6",
+    "configurations": "M5 10-core CPU / 8-core GPU, 16GB, 512GB – $1,299 · M5 10-core CPU / 10-core GPU (from) – $1,399",
+    "colors": "Sky Blue, Silver, Starlight, Midnight"
+   }
+  },
+  {
+   "sku": "TK-APPLE-MBA15-M5",
+   "slug": "apple-macbook-air-15-m5",
+   "name": "Apple MacBook Air 15-inch (M5)",
+   "brand": "Apple",
+   "category": "premium-laptops",
+   "price": "1499.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    16,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "premium-laptops",
+    "developer-favorites",
+    "apple-ecosystem"
+   ],
+   "summary": "15.3-inch MacBook Air with the M5 chip (10-core CPU, 10-core GPU), 16GB memory, 512GB SSD and a 66.5 Wh battery.",
+   "description": "The 15-inch MacBook Air pairs a 15.3-inch Liquid Retina display (2880x1864) with the Apple M5 chip in its 10-core CPU and 10-core GPU configuration. It includes 16GB unified memory, a 512GB SSD, two Thunderbolt 4 ports, MagSafe 3, Wi-Fi 7 via Apple N1 and a 66.5 Wh battery, in a 1.51 kg fanless design.",
+   "keywords": "macbook air 15 m5 large screen laptop",
+   "specs": {
+    "cpu": "Apple M5 (10-core CPU)",
+    "cpuBrand": "Apple",
+    "gpu": "10-core GPU with Neural Accelerators",
+    "ramGb": 16,
+    "storageTb": 0.5,
+    "displayIn": 15.3,
+    "display": "15.3-inch Liquid Retina (IPS LED), 2880x1864, 500 nits, P3",
+    "batteryWh": 66.5,
+    "weightKg": 1.51,
+    "os": "macOS",
+    "ports": "2x Thunderbolt 4 (USB-C), MagSafe 3, 3.5 mm headphone jack",
+    "wireless": "Wi-Fi 7 (Apple N1), Bluetooth 6",
+    "colors": "Sky Blue, Silver, Starlight, Midnight"
+   }
+  },
+  {
+   "sku": "TK-APPLE-MBP14-M5",
+   "slug": "apple-macbook-pro-14-m5",
+   "name": "Apple MacBook Pro 14-inch (M5)",
+   "brand": "Apple",
+   "category": "developer-laptops",
+   "price": "1999.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    55,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "premium-laptops",
+    "developer-favorites",
+    "apple-ecosystem"
+   ],
+   "summary": "14-inch MacBook Pro with the M5 chip, 16GB unified memory, 1TB SSD, Liquid Retina XDR display and up to 24 hours of video streaming.",
+   "description": "The M5 14-inch MacBook Pro has a 10-core CPU (4 super cores, 6 efficiency cores) and a 10-core GPU with Neural Accelerators. It features a 14.2-inch Liquid Retina XDR display with ProMotion, three Thunderbolt 4 ports, HDMI, an SDXC slot and MagSafe 3, a six-speaker sound system and a 72.4 Wh battery rated for up to 24 hours of video streaming. A nano-texture display is optional.",
+   "keywords": "macbook pro 14 m5 developer laptop",
+   "specs": {
+    "cpu": "Apple M5 (10-core CPU)",
+    "cpuBrand": "Apple",
+    "gpu": "10-core GPU with Neural Accelerators",
+    "ramGb": 16,
+    "storageTb": 1,
+    "displayIn": 14.2,
+    "display": "14.2-inch Liquid Retina XDR, 3024x1964, 1000 nits sustained / 1600 nits peak HDR, ProMotion up to 120Hz",
+    "batteryWh": 72.4,
+    "weightKg": 1.55,
+    "os": "macOS",
+    "ports": "3x Thunderbolt 4 (USB-C), HDMI, SDXC card slot, MagSafe 3, 3.5 mm headphone jack",
+    "wireless": "Wi-Fi 6E, Bluetooth 5.3",
+    "configurations": "M5, 16GB, 1TB, standard display – $1,999 · M5, nano-texture display (from) – $2,149",
+    "colors": "Space Black, Silver"
+   }
+  },
+  {
+   "sku": "TK-APPLE-MBP14-M5PRO",
+   "slug": "apple-macbook-pro-14-m5-pro",
+   "name": "Apple MacBook Pro 14-inch (M5 Pro)",
+   "brand": "Apple",
+   "category": "developer-laptops",
+   "price": "2499.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    14,
+    5
+   ],
+   "featured": true,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "premium-laptops",
+    "developer-favorites",
+    "developer-setup",
+    "apple-ecosystem"
+   ],
+   "summary": "14-inch MacBook Pro with the M5 Pro chip (15-core CPU, 16-core GPU), 24GB memory, 1TB SSD, Thunderbolt 5 and Wi-Fi 7.",
+   "description": "The M5 Pro 14-inch MacBook Pro starts with a 15-core CPU (5 super cores, 10 performance cores) and 16-core GPU, configurable to 18-core CPU and 20-core GPU. It adds three Thunderbolt 5 ports, support for up to three external displays, the Apple N1 chip for Wi-Fi 7 and Bluetooth 6, and up to 22 hours of video streaming from its 72.4 Wh battery.",
+   "keywords": "macbook pro 14 m5 pro developer laptop thunderbolt 5",
+   "specs": {
+    "cpu": "Apple M5 Pro (15-core CPU)",
+    "cpuBrand": "Apple",
+    "gpu": "16-core GPU with Neural Accelerators",
+    "ramGb": 24,
+    "storageTb": 1,
+    "displayIn": 14.2,
+    "display": "14.2-inch Liquid Retina XDR, 3024x1964, 1000 nits sustained / 1600 nits peak HDR, ProMotion up to 120Hz",
+    "batteryWh": 72.4,
+    "weightKg": 1.6,
+    "os": "macOS",
+    "ports": "3x Thunderbolt 5 (USB-C), HDMI, SDXC card slot, MagSafe 3, 3.5 mm headphone jack",
+    "wireless": "Wi-Fi 7 (Apple N1), Bluetooth 6",
+    "configurations": "M5 Pro 15-core CPU / 16-core GPU, 24GB, 1TB – $2,499 · M5 Pro 15-core CPU, nano-texture (from) – $2,649 · M5 Pro 18-core CPU / 20-core GPU (from) – $2,699 · M5 Pro 18-core CPU, nano-texture (from) – $2,849",
+    "colors": "Space Black, Silver"
+   }
+  },
+  {
+   "sku": "TK-APPLE-MBP14-M5MAX",
+   "slug": "apple-macbook-pro-14-m5-max",
+   "name": "Apple MacBook Pro 14-inch (M5 Max)",
+   "brand": "Apple",
+   "category": "creator-laptops",
+   "price": "4099.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    8,
+    3
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "premium-laptops",
+    "creator-workstations",
+    "apple-ecosystem"
+   ],
+   "summary": "14-inch MacBook Pro with the M5 Max chip (18-core CPU, 32-core GPU), 36GB unified memory and 2TB SSD.",
+   "description": "The M5 Max 14-inch MacBook Pro combines an 18-core CPU (6 super cores, 12 performance cores) with a 32-core or 40-core GPU, 36GB unified memory and 2TB SSD in its base configuration. It supports up to four external displays over Thunderbolt 5 and HDMI, includes a 96W USB-C Power Adapter and is rated for up to 20 hours of video streaming.",
+   "keywords": "macbook pro 14 m5 max creator video editing",
+   "specs": {
+    "cpu": "Apple M5 Max (18-core CPU)",
+    "cpuBrand": "Apple",
+    "gpu": "32-core GPU with Neural Accelerators",
+    "ramGb": 36,
+    "storageTb": 2,
+    "displayIn": 14.2,
+    "display": "14.2-inch Liquid Retina XDR, 3024x1964, 1000 nits sustained / 1600 nits peak HDR, ProMotion up to 120Hz",
+    "batteryWh": 72.4,
+    "weightKg": 1.62,
+    "os": "macOS",
+    "ports": "3x Thunderbolt 5 (USB-C), HDMI, SDXC card slot, MagSafe 3, 3.5 mm headphone jack",
+    "wireless": "Wi-Fi 7 (Apple N1), Bluetooth 6",
+    "configurations": "M5 Max 18-core CPU / 32-core GPU, 36GB, 2TB – $4,099 · M5 Max 32-core GPU, nano-texture (from) – $4,249 · M5 Max 18-core CPU / 40-core GPU (from) – $4,699 · M5 Max 40-core GPU, nano-texture (from) – $4,849",
+    "colors": "Space Black, Silver"
+   }
+  },
+  {
+   "sku": "TK-APPLE-MBP16-M5PRO",
+   "slug": "apple-macbook-pro-16-m5-pro",
+   "name": "Apple MacBook Pro 16-inch (M5 Pro)",
+   "brand": "Apple",
+   "category": "creator-laptops",
+   "price": "2999.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    15,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "premium-laptops",
+    "creator-workstations",
+    "apple-ecosystem"
+   ],
+   "summary": "16-inch MacBook Pro with the M5 Pro chip (18-core CPU, 20-core GPU), 24GB memory, 1TB SSD and up to 24 hours of video streaming.",
+   "description": "The 16-inch MacBook Pro with M5 Pro has an 18-core CPU and 20-core GPU, a 16.2-inch Liquid Retina XDR display with ProMotion, three Thunderbolt 5 ports, HDMI, SDXC and MagSafe 3. Its 100 Wh battery is rated for up to 24 hours of video streaming, and it ships with a 140W USB-C Power Adapter.",
+   "keywords": "macbook pro 16 m5 pro large screen laptop",
+   "specs": {
+    "cpu": "Apple M5 Pro (18-core CPU)",
+    "cpuBrand": "Apple",
+    "gpu": "20-core GPU with Neural Accelerators",
+    "ramGb": 24,
+    "storageTb": 1,
+    "displayIn": 16.2,
+    "display": "16.2-inch Liquid Retina XDR, 3456x2234, 1000 nits sustained / 1600 nits peak HDR, ProMotion up to 120Hz",
+    "batteryWh": 100,
+    "weightKg": 2.14,
+    "os": "macOS",
+    "ports": "3x Thunderbolt 5 (USB-C), HDMI, SDXC card slot, MagSafe 3, 3.5 mm headphone jack",
+    "wireless": "Wi-Fi 7 (Apple N1), Bluetooth 6",
+    "configurations": "M5 Pro 18-core CPU / 20-core GPU, 24GB, 1TB – $2,999 · M5 Pro, nano-texture display (from) – $3,149",
+    "colors": "Space Black, Silver"
+   }
+  },
+  {
+   "sku": "TK-APPLE-MBP16-M5MAX",
+   "slug": "apple-macbook-pro-16-m5-max",
+   "name": "Apple MacBook Pro 16-inch (M5 Max)",
+   "brand": "Apple",
+   "category": "creator-laptops",
+   "price": "4399.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    5,
+    3
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "premium-laptops",
+    "creator-workstations",
+    "ai-workstations",
+    "apple-ecosystem"
+   ],
+   "summary": "16-inch MacBook Pro with the M5 Max chip (18-core CPU, 32-core GPU), 36GB unified memory, 2TB SSD and a 100 Wh battery.",
+   "description": "The M5 Max 16-inch MacBook Pro has an 18-core CPU and a 32-core or 40-core GPU, 36GB unified memory and 2TB SSD in its base configuration. It has a 16.2-inch Liquid Retina XDR display, three Thunderbolt 5 ports, HDMI, SDXC, MagSafe 3 and up to 22 hours of video streaming.",
+   "keywords": "macbook pro 16 m5 max creator workstation laptop",
+   "specs": {
+    "cpu": "Apple M5 Max (18-core CPU)",
+    "cpuBrand": "Apple",
+    "gpu": "32-core GPU with Neural Accelerators",
+    "ramGb": 36,
+    "storageTb": 2,
+    "displayIn": 16.2,
+    "display": "16.2-inch Liquid Retina XDR, 3456x2234, 1000 nits sustained / 1600 nits peak HDR, ProMotion up to 120Hz",
+    "batteryWh": 100,
+    "weightKg": 2.15,
+    "os": "macOS",
+    "ports": "3x Thunderbolt 5 (USB-C), HDMI, SDXC card slot, MagSafe 3, 3.5 mm headphone jack",
+    "wireless": "Wi-Fi 7 (Apple N1), Bluetooth 6",
+    "configurations": "M5 Max 18-core CPU / 32-core GPU, 36GB, 2TB – $4,399 · M5 Max 32-core GPU, nano-texture (from) – $4,549 · M5 Max 18-core CPU / 40-core GPU, 48GB, 2TB – $4,999 · M5 Max 40-core GPU, nano-texture (from) – $5,149",
+    "colors": "Space Black, Silver"
+   }
+  },
+  {
+   "sku": "TK-APPLE-MACMINI-M6",
+   "slug": "apple-mac-mini-m6",
+   "name": "Apple Mac mini (M6)",
+   "brand": "Apple",
+   "category": "mini-pcs",
+   "price": "899.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    31,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "developer-setup",
+    "developer-favorites",
+    "homelab-starter",
+    "apple-ecosystem"
+   ],
+   "summary": "Compact Mac mini with the new M6 chip (12-core CPU, 12-core GPU), 16GB unified memory, 256GB SSD and 2.5Gb Ethernet.",
+   "description": "Mac mini with M6 has a 12-core CPU (2 super cores, 4 performance cores, 6 efficiency cores) and a 12-core GPU. It has three Thunderbolt 4 ports, HDMI and a 2.5Gb Ethernet port (configurable to 10Gb) on the back, two front USB-C ports, a headphone jack, Wi-Fi 7 and Bluetooth 6, and supports up to three external displays.",
+   "keywords": "mac mini m6 small desktop",
+   "specs": {
+    "cpu": "Apple M6 (12-core CPU)",
+    "cpuBrand": "Apple",
+    "gpu": "12-core GPU",
+    "ramGb": 16,
+    "storageTb": 0.256,
+    "os": "macOS",
+    "networking": "2.5Gb Ethernet (configurable to 10Gb), Wi-Fi 7, Bluetooth 6",
+    "ports": "3x Thunderbolt 4 (USB-C), HDMI, 2.5Gb Ethernet, 2x front USB-C (10Gb/s), 3.5 mm headphone jack",
+    "colors": "Silver"
+   }
+  },
+  {
+   "sku": "TK-APPLE-MACMINI-M5PRO",
+   "slug": "apple-mac-mini-m5-pro",
+   "name": "Apple Mac mini (M5 Pro)",
+   "brand": "Apple",
+   "category": "mini-pcs",
+   "price": "1699.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    47,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "developer-setup",
+    "developer-favorites",
+    "apple-ecosystem"
+   ],
+   "summary": "Mac mini with the M5 Pro chip (15-core CPU, 16-core GPU), 24GB unified memory, 512GB SSD and three Thunderbolt 5 ports.",
+   "description": "Mac mini with M5 Pro starts with a 15-core CPU and 16-core GPU and is configurable to an 18-core CPU with 20-core GPU. It adds three Thunderbolt 5 ports (up to 120Gb/s), HDMI, 2.5Gb Ethernet configurable to 10Gb, two front USB-C ports, Wi-Fi 7 and Bluetooth 6.",
+   "keywords": "mac mini m5 pro thunderbolt 5 desktop",
+   "specs": {
+    "cpu": "Apple M5 Pro (15-core CPU)",
+    "cpuBrand": "Apple",
+    "gpu": "16-core GPU",
+    "ramGb": 24,
+    "storageTb": 0.5,
+    "os": "macOS",
+    "networking": "2.5Gb Ethernet (configurable to 10Gb), Wi-Fi 7, Bluetooth 6",
+    "ports": "3x Thunderbolt 5 (USB-C), HDMI, 2.5Gb Ethernet, 2x front USB-C (10Gb/s), 3.5 mm headphone jack",
+    "configurations": "M5 Pro 15-core CPU / 16-core GPU, 24GB, 512GB – $1,699 · M5 Pro 18-core CPU / 20-core GPU (from) – $1,899",
+    "colors": "Silver"
+   }
+  },
+  {
+   "sku": "TK-APPLE-MACSTUDIO-M5MAX",
+   "slug": "apple-mac-studio-m5-max",
+   "name": "Apple Mac Studio (M5 Max)",
+   "brand": "Apple",
+   "category": "workstations",
+   "price": "2499.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    53,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "creator-workstations",
+    "developer-favorites",
+    "apple-ecosystem"
+   ],
+   "summary": "Mac Studio with the M5 Max chip (18-core CPU, 32-core GPU), 36GB unified memory, 512GB SSD, Thunderbolt 5 and 10Gb Ethernet.",
+   "description": "Mac Studio with M5 Max pairs an 18-core CPU (6 super cores, 12 performance cores) with a 32-core GPU, configurable to 40 cores. The back offers four Thunderbolt 5 ports, two USB-A ports, HDMI 2.1, 10Gb Ethernet and a headphone jack; the front adds two USB-C ports and a UHS-II SDXC slot. It supports up to five external displays.",
+   "keywords": "mac studio m5 max creator desktop",
+   "specs": {
+    "cpu": "Apple M5 Max (18-core CPU)",
+    "cpuBrand": "Apple",
+    "gpu": "32-core GPU",
+    "ramGb": 36,
+    "storageTb": 0.5,
+    "os": "macOS",
+    "networking": "10Gb Ethernet, Wi-Fi 7, Bluetooth 6",
+    "ports": "4x Thunderbolt 5, 2x USB-A, HDMI 2.1, 10Gb Ethernet, 3.5 mm jack; front 2x USB-C (10Gb/s), SDXC (UHS-II)",
+    "configurations": "M5 Max 18-core CPU / 32-core GPU, 36GB, 512GB – $2,499 · M5 Max 18-core CPU / 40-core GPU, 64GB, 1TB – $3,099",
+    "colors": "Silver"
+   }
+  },
+  {
+   "sku": "TK-APPLE-MACSTUDIO-M5ULTRA",
+   "slug": "apple-mac-studio-m5-ultra",
+   "name": "Apple Mac Studio (M5 Ultra)",
+   "brand": "Apple",
+   "category": "workstations",
+   "price": "5499.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    6,
+    3
+   ],
+   "featured": true,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "creator-workstations",
+    "ai-workstations",
+    "ai-lab",
+    "apple-ecosystem"
+   ],
+   "summary": "Mac Studio with the M5 Ultra chip (30-core CPU, 64-core GPU), 96GB unified memory, 1TB SSD and up to 512GB of memory as an option.",
+   "description": "Mac Studio with M5 Ultra starts with a 30-core CPU and 64-core GPU and is configurable to a 36-core CPU, 80-core GPU and 32-core Neural Engine with 1.2TB/s memory bandwidth and up to 512GB unified memory. The front gains two Thunderbolt 5 ports, and it supports up to eight external displays.",
+   "keywords": "mac studio m5 ultra ai workstation local llm",
+   "specs": {
+    "cpu": "Apple M5 Ultra (30-core CPU)",
+    "cpuBrand": "Apple",
+    "gpu": "64-core GPU",
+    "ramGb": 96,
+    "storageTb": 1,
+    "os": "macOS",
+    "networking": "10Gb Ethernet, Wi-Fi 7, Bluetooth 6",
+    "ports": "4x Thunderbolt 5, 2x USB-A, HDMI 2.1, 10Gb Ethernet, 3.5 mm jack; front 2x Thunderbolt 5, SDXC (UHS-II)",
+    "configurations": "M5 Ultra 30-core CPU / 64-core GPU, 96GB, 1TB – $5,499 · M5 Ultra 36-core CPU / 80-core GPU (from) – $6,799",
+    "colors": "Silver"
+   }
+  },
+  {
+   "sku": "TK-APPLE-STUDIODISPLAY-TB5",
+   "slug": "apple-studio-display-thunderbolt-5",
+   "name": "Apple Studio Display (Thunderbolt 5)",
+   "brand": "Apple",
+   "category": "professional-monitors",
+   "price": "1599.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    53,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "developer-setup",
+    "apple-ecosystem"
+   ],
+   "summary": "27-inch 5K Retina Studio Display with Thunderbolt 5 connectivity, 96W host charging, a 12MP Center Stage camera and six-speaker audio.",
+   "description": "The current Studio Display is a 27-inch 5K Retina display (5120x2880, 218 ppi, 600 nits, P3 wide color) with two Thunderbolt 5 ports - an upstream port with 96W host charging and a downstream port for accessories or daisy-chaining - plus two 10Gb/s USB-C ports. It includes a 12MP Center Stage camera with Desk View, a studio-quality three-mic array and a six-speaker system; nano-texture glass and a tilt- and height-adjustable stand are options.",
+   "keywords": "studio display 5k monitor thunderbolt 5 mac",
+   "specs": {
+    "sizeIn": 27,
+    "resolution": "5120x2880 (5K)",
+    "refreshHz": 60,
+    "colorGamut": "P3 (1 billion colors)",
+    "inputs": "Thunderbolt 5 upstream, Thunderbolt 5 downstream, 2x USB-C (10Gb/s)",
+    "usbCPowerW": 96,
+    "configurations": "Standard glass, tilt-adjustable stand – $1,599 · Standard glass, VESA mount adapter – $1,599 · Nano-texture glass, tilt-adjustable stand – $1,899 · Standard glass, tilt- and height-adjustable stand – $1,999 · Nano-texture glass, tilt- and height-adjustable stand – $2,299"
+   }
+  },
+  {
+   "sku": "TK-APPLE-STUDIODISPLAYXDR",
+   "slug": "apple-studio-display-xdr",
+   "name": "Apple Studio Display XDR",
+   "brand": "Apple",
+   "category": "professional-monitors",
+   "price": "2899.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    13,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "creator-workstations",
+    "apple-ecosystem"
+   ],
+   "summary": "27-inch 5K Retina XDR display with a 2304-zone mini-LED backlight, 2000 nits peak HDR, 120Hz Adaptive Sync and Thunderbolt 5.",
+   "description": "Studio Display XDR has a 27-inch 5K Retina XDR panel with a mini-LED backlight and 2304 dimming zones, up to 1000 nits SDR and 2000 nits peak HDR brightness, a 120Hz refresh rate with Adaptive Sync, and P3 plus Adobe RGB color gamuts with reference modes including DICOM medical imaging. It offers Thunderbolt 5 with 140W host charging, a 12MP Center Stage camera and six-speaker audio. The $2,899 starting price is for the VESA mount adapter version (stand not included).",
+   "keywords": "studio display xdr mini led hdr reference monitor",
+   "specs": {
+    "sizeIn": 27,
+    "resolution": "5120x2880 (5K)",
+    "refreshHz": 120,
+    "panel": "Mini-LED backlit LCD, 2304 dimming zones",
+    "hdr": "XDR: 1000 nits SDR, 2000 nits peak HDR",
+    "colorGamut": "P3 + Adobe RGB",
+    "inputs": "Thunderbolt 5 upstream, Thunderbolt 5 downstream, 2x USB-C (10Gb/s)",
+    "usbCPowerW": 140,
+    "configurations": "Standard glass, VESA mount adapter – $2,899 · Nano-texture glass, VESA mount adapter – $3,199 · Standard glass, tilt- and height-adjustable stand – $3,299 · Nano-texture glass, tilt- and height-adjustable stand – $3,599"
+   }
+  },
+  {
+   "sku": "TK-APPLE-IPAD-A16",
+   "slug": "apple-ipad-a16",
+   "name": "Apple iPad (A16)",
+   "brand": "Apple",
+   "category": "tablets",
+   "price": "449.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    26,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "apple-ecosystem"
+   ],
+   "summary": "11-inch iPad with the A16 chip, Liquid Retina display, 128GB base storage, landscape 12MP Center Stage camera and USB-C.",
+   "description": "The entry iPad has an 11-inch Liquid Retina display (2360x1640), the A16 chip with a 5-core CPU and 4-core GPU, 128GB of storage to start, a 12MP Wide rear camera and a landscape 12MP Center Stage front camera. It supports Apple Pencil (USB-C) and Magic Keyboard Folio, offers Wi-Fi 6 and optional 5G, and lasts up to 10 hours.",
+   "keywords": "ipad 11 a16 student tablet",
+   "specs": {
+    "chip": "A16 (5-core CPU, 4-core GPU)",
+    "storageGb": 128,
+    "displayIn": 11,
+    "display": "11-inch Liquid Retina, 2360x1640 at 264 ppi, 500 nits",
+    "rearCamera": "12MP Wide, f/1.8",
+    "connectivity": "Wi-Fi 6, Bluetooth 5.3; optional 5G (sub-6 GHz)",
+    "os": "iPadOS 27",
+    "weightG": 477,
+    "configurations": "Wi-Fi 128GB – $449 · Wi-Fi 256GB – $549 · Wi-Fi 512GB – $749 · Wi-Fi + Cellular 128GB – $599 · Wi-Fi + Cellular 256GB – $699 · Wi-Fi + Cellular 512GB – $899",
+    "colors": "Blue, Pink, Yellow, Silver"
+   }
+  },
+  {
+   "sku": "TK-APPLE-IPADMINI-A17PRO",
+   "slug": "apple-ipad-mini-a17-pro",
+   "name": "Apple iPad mini (A17 Pro)",
+   "brand": "Apple",
+   "category": "tablets",
+   "price": "599.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    20,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "apple-ecosystem"
+   ],
+   "summary": "8.3-inch iPad mini with the A17 Pro chip, Apple Pencil Pro support, Wi-Fi 6E and Touch ID in the top button.",
+   "description": "iPad mini has an 8.3-inch Liquid Retina display (2266x1488 at 326 ppi) in a 293-gram design, powered by the A17 Pro chip with a 6-core CPU and 5-core GPU. It supports Apple Pencil Pro and Apple Pencil (USB-C), has 12MP front and rear cameras, Touch ID in the top button, Wi-Fi 6E and optional 5G.",
+   "keywords": "ipad mini small tablet a17 pro",
+   "specs": {
+    "chip": "A17 Pro (6-core CPU, 5-core GPU)",
+    "storageGb": 128,
+    "displayIn": 8.3,
+    "display": "8.3-inch Liquid Retina, 2266x1488 at 326 ppi, 500 nits",
+    "rearCamera": "12MP Wide, f/1.8",
+    "connectivity": "Wi-Fi 6E, Bluetooth 5.3; optional 5G (sub-6 GHz)",
+    "os": "iPadOS 27",
+    "weightG": 293,
+    "configurations": "Wi-Fi 128GB – $599 · Wi-Fi 256GB – $699 · Wi-Fi 512GB – $899 · Wi-Fi + Cellular 128GB – $749 · Wi-Fi + Cellular 256GB – $849 · Wi-Fi + Cellular 512GB – $1,049",
+    "colors": "Blue, Purple, Starlight, Space Gray"
+   }
+  },
+  {
+   "sku": "TK-APPLE-IPADAIR11-M4",
+   "slug": "apple-ipad-air-11-m4",
+   "name": "Apple iPad Air 11-inch (M4)",
+   "brand": "Apple",
+   "category": "tablets",
+   "price": "749.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    47,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "apple-ecosystem"
+   ],
+   "summary": "11-inch iPad Air with the M4 chip, 12GB unified memory, Wi-Fi 7 via Apple N1 and Apple Pencil Pro support.",
+   "description": "iPad Air 11-inch is powered by the Apple M4 chip with an 8-core CPU, 9-core GPU and 12GB unified memory. It has an 11-inch Liquid Retina display, a landscape 12MP Center Stage front camera, the Apple N1 chip for Wi-Fi 7 and Bluetooth 6, support for Apple Pencil Pro and Magic Keyboard for iPad Air, and drives an external display up to 6K.",
+   "keywords": "ipad air 11 m4 tablet",
+   "specs": {
+    "chip": "Apple M4 (8-core CPU, 9-core GPU)",
+    "storageGb": 128,
+    "displayIn": 11,
+    "display": "11-inch Liquid Retina, 2360x1640 at 264 ppi",
+    "ramGb": 12,
+    "rearCamera": "12MP Wide, f/1.8",
+    "connectivity": "Wi-Fi 7 (Apple N1), Bluetooth 6; optional 5G (sub-6 GHz)",
+    "os": "iPadOS 27",
+    "weightG": 464,
+    "configurations": "Wi-Fi 128GB – $749 · Wi-Fi 256GB – $849 · Wi-Fi 512GB – $1,049 · Wi-Fi 1TB – $1,349 · Wi-Fi + Cellular 128GB – $899 · Wi-Fi + Cellular 256GB – $999 · Wi-Fi + Cellular 512GB – $1,199 · Wi-Fi + Cellular 1TB – $1,499",
+    "colors": "Blue, Purple, Starlight, Space Gray"
+   }
+  },
+  {
+   "sku": "TK-APPLE-IPADAIR13-M4",
+   "slug": "apple-ipad-air-13-m4",
+   "name": "Apple iPad Air 13-inch (M4)",
+   "brand": "Apple",
+   "category": "tablets",
+   "price": "949.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    28,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "apple-ecosystem"
+   ],
+   "summary": "13-inch iPad Air with the M4 chip, 12GB unified memory, a 600-nit Liquid Retina display and Wi-Fi 7.",
+   "description": "iPad Air 13-inch offers the largest Air display, a 13-inch Liquid Retina panel (2732x2048) at 600 nits, with the Apple M4 chip, 12GB unified memory, Wi-Fi 7 via Apple N1 and a landscape 12MP Center Stage camera. It supports Apple Pencil Pro and the 13-inch Magic Keyboard for iPad Air.",
+   "keywords": "ipad air 13 m4 large tablet",
+   "specs": {
+    "chip": "Apple M4 (8-core CPU, 9-core GPU)",
+    "storageGb": 128,
+    "displayIn": 13,
+    "display": "13-inch Liquid Retina, 2732x2048 at 264 ppi",
+    "ramGb": 12,
+    "rearCamera": "12MP Wide, f/1.8",
+    "connectivity": "Wi-Fi 7 (Apple N1), Bluetooth 6; optional 5G (sub-6 GHz)",
+    "os": "iPadOS 27",
+    "weightG": 616,
+    "configurations": "Wi-Fi 128GB – $949 · Wi-Fi 256GB – $1,049 · Wi-Fi 512GB – $1,249 · Wi-Fi 1TB – $1,549 · Wi-Fi + Cellular 128GB – $1,099 · Wi-Fi + Cellular 256GB – $1,199 · Wi-Fi + Cellular 512GB – $1,399 · Wi-Fi + Cellular 1TB – $1,699",
+    "colors": "Blue, Purple, Starlight, Space Gray"
+   }
+  },
+  {
+   "sku": "TK-APPLE-IPADPRO11-M5",
+   "slug": "apple-ipad-pro-11-m5",
+   "name": "Apple iPad Pro 11-inch (M5)",
+   "brand": "Apple",
+   "category": "tablets",
+   "price": "1199.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    45,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "apple-ecosystem",
+    "creator-workstations"
+   ],
+   "summary": "11-inch iPad Pro with the M5 chip, tandem OLED Ultra Retina XDR display, Thunderbolt and Wi-Fi 7 in a 444-gram design.",
+   "description": "iPad Pro 11-inch uses the Apple M5 chip (9-core CPU and 12GB memory on 256GB/512GB models; 10-core CPU and 16GB on 1TB/2TB) with a 10-core GPU with Neural Accelerators. Its Ultra Retina XDR tandem OLED display reaches 1600 nits peak HDR with ProMotion, and it adds a Thunderbolt / USB 4 port, Apple N1 Wi-Fi 7, Apple Pencil Pro support and optional nano-texture glass.",
+   "keywords": "ipad pro 11 m5 oled tablet",
+   "specs": {
+    "chip": "Apple M5 (9-core CPU, 10-core GPU with Neural Accelerators)",
+    "storageGb": 256,
+    "displayIn": 11,
+    "display": "11-inch Ultra Retina XDR (tandem OLED), 2420x1668 at 264 ppi, ProMotion 10-120Hz, 1000 nits SDR / 1600 nits peak HDR",
+    "ramGb": 12,
+    "rearCamera": "12MP Wide, f/1.8",
+    "connectivity": "Wi-Fi 7 (Apple N1), Bluetooth 6, Thunderbolt / USB 4; optional 5G",
+    "os": "iPadOS 27",
+    "weightG": 444,
+    "configurations": "Wi-Fi 256GB – $1,199 · Wi-Fi 512GB – $1,399 · Wi-Fi 1TB – $1,799 · Wi-Fi 1TB nano-texture – $1,899 · Wi-Fi 2TB – $2,299 · Wi-Fi 2TB nano-texture – $2,399 · Wi-Fi + Cellular 256GB – $1,399 · Wi-Fi + Cellular 512GB – $1,599 · Wi-Fi + Cellular 1TB – $1,999 · Wi-Fi + Cellular 2TB – $2,499",
+    "colors": "Space Black, Silver"
+   }
+  },
+  {
+   "sku": "TK-APPLE-IPADPRO13-M5",
+   "slug": "apple-ipad-pro-13-m5",
+   "name": "Apple iPad Pro 13-inch (M5)",
+   "brand": "Apple",
+   "category": "tablets",
+   "price": "1499.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    46,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "apple-ecosystem",
+    "creator-workstations"
+   ],
+   "summary": "13-inch iPad Pro with the M5 chip, 13-inch tandem OLED Ultra Retina XDR display, Thunderbolt and optional nano-texture glass.",
+   "description": "iPad Pro 13-inch pairs a 13-inch Ultra Retina XDR tandem OLED display (2752x2064) with the Apple M5 chip, 12GB or 16GB unified memory depending on storage, a Thunderbolt / USB 4 port, Wi-Fi 7 via Apple N1 and support for Apple Pencil Pro and Magic Keyboard for iPad Pro. It weighs 579 grams.",
+   "keywords": "ipad pro 13 m5 oled tablet",
+   "specs": {
+    "chip": "Apple M5 (9-core CPU, 10-core GPU with Neural Accelerators)",
+    "storageGb": 256,
+    "displayIn": 13,
+    "display": "13-inch Ultra Retina XDR (tandem OLED), 2752x2064 at 264 ppi, ProMotion 10-120Hz, 1000 nits SDR / 1600 nits peak HDR",
+    "ramGb": 12,
+    "rearCamera": "12MP Wide, f/1.8",
+    "connectivity": "Wi-Fi 7 (Apple N1), Bluetooth 6, Thunderbolt / USB 4; optional 5G",
+    "os": "iPadOS 27",
+    "weightG": 579,
+    "configurations": "Wi-Fi 256GB – $1,499 · Wi-Fi 512GB – $1,699 · Wi-Fi 1TB – $2,099 · Wi-Fi 1TB nano-texture – $2,199 · Wi-Fi 2TB – $2,599 · Wi-Fi 2TB nano-texture – $2,699 · Wi-Fi + Cellular 256GB – $1,699 · Wi-Fi + Cellular 512GB – $1,899 · Wi-Fi + Cellular 1TB – $2,299 · Wi-Fi + Cellular 2TB – $2,799",
+    "colors": "Space Black, Silver"
+   }
+  },
+  {
+   "sku": "TK-APPLE-WATCHS12",
+   "slug": "apple-watch-series-12",
+   "name": "Apple Watch Series 12",
+   "brand": "Apple",
+   "category": "smartwatches",
+   "price": "399.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    55,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "apple-ecosystem"
+   ],
+   "summary": "Apple Watch Series 12 in 42mm or 46mm with the S11 chip, a 2000-nit wide-angle OLED Always-On display, ECG, hypertension notifications and sleep score.",
+   "description": "Apple Watch Series 12 comes in aluminum, titanium and ceramic cases in 42mm and 46mm sizes. It has an Always-On Retina display with wide-angle OLEDs, LTPO3 and 2000 nits peak brightness, the S11 chip, and health features including the ECG and Blood Oxygen apps, the Vitals app, hypertension and sleep apnea notifications and sleep score. Battery life is up to 24 hours (38 hours in Low Power Mode), with 50m water resistance.",
+   "keywords": "apple watch series 12 smartwatch health ecg",
+   "specs": {
+    "caseSizes": "42mm, 46mm",
+    "chip": "S11 (64-bit dual-core)",
+    "display": "Always-On Retina, wide-angle OLED, LTPO3, up to 2000 nits",
+    "battery": "Up to 24 hours; up to 38 hours in Low Power Mode",
+    "waterResistance": "50m (ISO 22810:2010); depth gauge to 6 m",
+    "health": "ECG app, Blood Oxygen app, Vitals app, hypertension notifications, sleep apnea notifications, sleep score",
+    "connectivity": "GPS or GPS + Cellular models",
+    "compatibility": "iPhone 11 or later with iOS 27 or later",
+    "weightG": 32.2,
+    "configurations": "42mm aluminum GPS – $399 · 46mm aluminum GPS – $449 · 42mm aluminum GPS + Cellular – $499 · 46mm aluminum GPS + Cellular – $549 · 42mm titanium GPS + Cellular – $699 · 46mm titanium GPS + Cellular – $749 · 42mm ceramic GPS + Cellular – $899 · 46mm ceramic GPS + Cellular – $949",
+    "colors": "Black, Dark Bronze, Light Gold, Space Gray, Natural, Radiant Gold, Pearl White, Night Blue"
+   }
+  },
+  {
+   "sku": "TK-APPLE-WATCHULTRA4",
+   "slug": "apple-watch-ultra-4",
+   "name": "Apple Watch Ultra 4",
+   "brand": "Apple",
+   "category": "smartwatches",
+   "price": "799.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    14,
+    5
+   ],
+   "featured": true,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "apple-ecosystem"
+   ],
+   "summary": "49mm titanium Apple Watch Ultra 4 with a 3000-nit display, up to 50 hours of battery, 100m water resistance, dive computer rating and satellite messaging.",
+   "description": "Apple Watch Ultra 4 has a 49mm Grade 5 titanium case, an Always-On Retina display with wide-angle OLEDs and 3000 nits peak brightness, and the S11 chip. It offers up to 50 hours of normal use (84 hours in Low Power Mode), precision dual-frequency GPS, 5G RedCap and LTE cellular, satellite communications, 100m water resistance, EN13319 recreational diving to 40m and IP6X dust resistance.",
+   "keywords": "apple watch ultra 4 titanium dive outdoor",
+   "specs": {
+    "caseSizes": "49mm",
+    "chip": "S11 (64-bit dual-core)",
+    "display": "Always-On Retina, wide-angle OLED, LTPO3, up to 3000 nits",
+    "battery": "Up to 50 hours; up to 84 hours in Low Power Mode",
+    "waterResistance": "100m (ISO 22810:2010); EN13319 diving to 40m; IP6X",
+    "health": "ECG app, Blood Oxygen app, Vitals app, hypertension notifications, sleep apnea notifications, sleep score",
+    "connectivity": "GPS + Cellular (5G RedCap, LTE), satellite communications, Wi-Fi 4, Bluetooth 5.3, dual-frequency GPS",
+    "compatibility": "iPhone 11 or later with iOS 27 or later",
+    "weightG": 63,
+    "colors": "Natural, Black"
+   }
+  },
+  {
+   "sku": "TK-APPLE-WATCHSE3",
+   "slug": "apple-watch-se-3",
+   "name": "Apple Watch SE 3",
+   "brand": "Apple",
+   "category": "smartwatches",
+   "price": "249.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    19,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "apple-ecosystem"
+   ],
+   "summary": "Apple Watch SE 3 in 40mm or 44mm aluminum with the S10 chip, an Always-On Retina display, sleep score and optional 5G cellular.",
+   "description": "Apple Watch SE 3 has an aluminum case in 40mm or 44mm, an Always-On Retina display (OLED, LTPO, up to 1000 nits) and the S10 chip. It includes sleep stages, sleep score and sleep apnea notifications, up to 18 hours of battery life (32 hours in Low Power Mode), 50m water resistance and optional 5G RedCap/LTE cellular.",
+   "keywords": "apple watch se 3 affordable smartwatch",
+   "specs": {
+    "caseSizes": "40mm, 44mm",
+    "chip": "S10 (64-bit dual-core)",
+    "display": "Always-On Retina, OLED, LTPO, up to 1000 nits",
+    "battery": "Up to 18 hours; up to 32 hours in Low Power Mode",
+    "waterResistance": "50m (swimproof)",
+    "health": "Sleep stages, sleep score, sleep apnea notifications",
+    "connectivity": "GPS or GPS + Cellular (5G RedCap, LTE), Wi-Fi 4, Bluetooth 5.3",
+    "compatibility": "iPhone 11 or later with iOS 27 or later",
+    "weightG": 26.3,
+    "configurations": "40mm GPS – $249 · 44mm GPS – $279 · 40mm GPS + Cellular – $299 · 44mm GPS + Cellular – $329",
+    "colors": "Midnight, Starlight"
+   }
+  },
+  {
+   "sku": "TK-APPLE-AIRPODS5",
+   "slug": "apple-airpods-5",
+   "name": "Apple AirPods 5",
+   "brand": "Apple",
+   "category": "earbuds",
+   "price": "129.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    29,
+    5
+   ],
+   "featured": true,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "apple-ecosystem"
+   ],
+   "summary": "Open-fit AirPods 5 with Active Noise Cancellation, Adaptive Audio, the H2 chip, IP57 rating and a USB-C charging case.",
+   "description": "AirPods 5 use a custom high-excursion Apple driver and the H2 headphone chip with Active Noise Cancellation, Adaptive Audio, Conversation Awareness, Voice Isolation and Personalized Spatial Audio. They are rated IP57 and deliver up to 6 hours of listening (4 hours with ANC) per charge, or up to 20 hours with the USB-C case. AirPods 5 with Wireless Charging Case ($149) adds a case speaker for Find My and charging from Qi-certified or Apple Watch chargers.",
+   "keywords": "airpods 5 anc open earbuds h2",
+   "specs": {
+    "connectivity": "Bluetooth 5.3",
+    "noiseCancelling": true,
+    "batteryHours": 6,
+    "drivers": "Custom high-excursion Apple driver",
+    "waterResistance": "IP57 (earbuds and case)",
+    "weightG": 4.3,
+    "configurations": "AirPods 5 (USB-C charging case) – $129 · AirPods 5 with Wireless Charging Case – $149",
+    "colors": "White"
+   }
+  },
+  {
+   "sku": "TK-APPLE-AIRPODSPRO3",
+   "slug": "apple-airpods-pro-3",
+   "name": "Apple AirPods Pro 3",
+   "brand": "Apple",
+   "category": "earbuds",
+   "price": "249.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    37,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "apple-ecosystem"
+   ],
+   "summary": "AirPods Pro 3 with Active Noise Cancellation, a built-in heart rate sensor, Hearing Aid and Hearing Protection features and up to 8 hours of listening.",
+   "description": "AirPods Pro 3 combine the Apple H2 chip with Active Noise Cancellation, Adaptive Audio and Adaptive EQ, plus hearing health features including Hearing Test, Hearing Aid and Hearing Protection. A heart rate sensor supports workouts, the MagSafe Charging Case includes an Ultra Wideband chip for Find My, and earbuds and case are IP57 rated. Listening time is up to 8 hours with ANC, or 24 hours with the case.",
+   "keywords": "airpods pro 3 anc hearing aid heart rate",
+   "specs": {
+    "connectivity": "Bluetooth 5.3",
+    "noiseCancelling": true,
+    "batteryHours": 8,
+    "drivers": "Custom high-excursion Apple driver",
+    "waterResistance": "IP57 (earbuds and case)",
+    "weightG": 5.55,
+    "colors": "White"
+   }
+  },
+  {
+   "sku": "TK-APPLE-AIRPODSMAX2",
+   "slug": "apple-airpods-max-2",
+   "name": "Apple AirPods Max 2",
+   "brand": "Apple",
+   "category": "headphones",
+   "price": "549.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    46,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "apple-ecosystem"
+   ],
+   "summary": "Over-ear AirPods Max 2 with Apple-designed dynamic drivers, an H2 chip in each ear cup, Active Noise Cancellation and lossless audio over USB-C.",
+   "description": "AirPods Max 2 use Apple-designed dynamic drivers and an Apple H2 headphone chip in each ear cup to power Active Noise Cancellation, Adaptive Audio and Adaptive EQ with eight ANC microphones. They support lossless audio and ultra-low-latency audio via USB-C, a Digital Crown for control, and up to 20 hours of listening with ANC on.",
+   "keywords": "airpods max 2 over ear headphones anc lossless",
+   "specs": {
+    "connectivity": "Bluetooth 5.3; USB-C (lossless and ultra-low-latency audio)",
+    "noiseCancelling": true,
+    "batteryHours": 20,
+    "drivers": "Apple-designed dynamic driver",
+    "weightG": 386.2,
+    "colors": "Midnight, Starlight, Blue, Purple, Orange"
+   }
+  },
+  {
+   "sku": "TK-APPLE-HOMEPOD2",
+   "slug": "apple-homepod-2nd-generation",
+   "name": "Apple HomePod (2nd generation)",
+   "brand": "Apple",
+   "category": "smart-speakers-displays",
+   "price": "349.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    9,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "apple-ecosystem"
+   ],
+   "summary": "Full-size HomePod with a 4-inch high-excursion woofer, five horn-loaded tweeters, room sensing, Spatial Audio and a built-in smart home hub.",
+   "description": "HomePod (2nd generation) has a 4-inch high-excursion woofer and an array of five horn-loaded tweeters, with room sensing and Spatial Audio. It works as a smart home hub with Thread networking and a temperature and humidity sensor, supports stereo pairing and multiroom audio, and connects over 802.11n Wi-Fi, Bluetooth 5.0 and Ultra Wideband.",
+   "keywords": "homepod smart speaker siri home hub",
+   "specs": {
+    "ecosystem": "Apple Home (HomeKit, Matter over Thread), Siri",
+    "connectivity": "802.11n Wi-Fi, Bluetooth 5.0, Thread, Ultra Wideband",
+    "subscriptionRequired": false,
+    "colors": "Midnight, White"
+   }
+  },
+  {
+   "sku": "TK-APPLE-HOMEPODMINI",
+   "slug": "apple-homepod-mini",
+   "name": "Apple HomePod mini",
+   "brand": "Apple",
+   "category": "smart-speakers-displays",
+   "price": "129.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    46,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "apple-ecosystem"
+   ],
+   "summary": "Compact HomePod mini smart speaker with a full-range driver, Siri, Thread smart home hub support and Ultra Wideband handoff.",
+   "description": "HomePod mini pairs a full-range driver with dual passive radiators in a 345-gram spherical design. It supports Siri, stereo pairing and multiroom audio, supports Thread networking and works as a smart home hub for HomeKit and Matter accessories, and uses Ultra Wideband for device proximity handoff.",
+   "keywords": "homepod mini small smart speaker thread",
+   "specs": {
+    "ecosystem": "Apple Home (HomeKit, Matter over Thread), Siri",
+    "connectivity": "802.11n Wi-Fi, Bluetooth 5.0, Thread, Ultra Wideband",
+    "subscriptionRequired": false,
+    "colors": "White, Yellow, Orange, Blue, Midnight"
+   }
+  },
+  {
+   "sku": "TK-APPLE-VISIONPRO-M5",
+   "slug": "apple-vision-pro-m5",
+   "name": "Apple Vision Pro (M5)",
+   "brand": "Apple",
+   "category": "vr",
+   "price": "3699.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    9,
+    3
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "apple-ecosystem"
+   ],
+   "summary": "Apple Vision Pro spatial computer with the M5 and R1 chips, 23-million-pixel micro-OLED displays up to 120Hz and the Dual Knit Band.",
+   "description": "Apple Vision Pro runs visionOS on the Apple M5 chip with 16GB unified memory alongside the R1 chip for sensor processing. Its 3D display system uses micro-OLED panels with 23 million pixels and refresh rates up to 120Hz, and it ships with the counterbalanced Dual Knit Band. The external battery provides up to 2.5 hours of general use.",
+   "keywords": "apple vision pro spatial computer mixed reality headset visionos",
+   "specs": {
+    "storageGb": 256,
+    "chip": "Apple M5 (16GB unified memory) + Apple R1",
+    "display": "Micro-OLED 3D display system, 23 million pixels, 90/96/100/120Hz",
+    "configurations": "256GB – $3,699 · 512GB – $3,899 · 1TB – $4,199"
+   }
+  },
+  {
+   "sku": "TK-APPLE-MAGICKEYBOARD-USBC",
+   "slug": "apple-magic-keyboard-usb-c",
+   "name": "Apple Magic Keyboard (USB-C)",
+   "brand": "Apple",
+   "category": "keyboards",
+   "price": "99.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    10,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "apple-ecosystem",
+    "developer-setup"
+   ],
+   "summary": "Wireless, rechargeable Apple Magic Keyboard with a USB-C port, about a month of battery life per charge and automatic pairing with Mac.",
+   "description": "Magic Keyboard delivers a comfortable, precise typing experience for Mac and Apple Vision Pro. It is wireless and rechargeable with an internal battery that lasts about a month or more between charges, pairs automatically with a Mac, and charges and pairs over its USB-C port using the included woven USB-C cable.",
+   "keywords": "magic keyboard wireless mac keyboard usb-c",
+   "specs": {
+    "connection": "Bluetooth; USB-C (pairing and charging)",
+    "layout": "Compact, US English (other languages available)",
+    "switchType": "Scissor mechanism",
+    "mechanical": false,
+    "macSupport": true,
+    "colors": "White"
+   }
+  },
+  {
+   "sku": "TK-APPLE-MAGICKEYBOARD-TID",
+   "slug": "apple-magic-keyboard-touch-id-usb-c",
+   "name": "Apple Magic Keyboard with Touch ID (USB-C)",
+   "brand": "Apple",
+   "category": "keyboards",
+   "price": "149.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    8,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "apple-ecosystem",
+    "developer-setup"
+   ],
+   "summary": "Compact wireless Magic Keyboard with Touch ID for Mac models with Apple silicon, rechargeable over USB-C.",
+   "description": "Magic Keyboard with Touch ID adds fast, secure fingerprint authentication for logins and purchases on Mac models with Apple silicon (macOS 15.1 or later). It is wireless and rechargeable with about a month or more of battery life per charge and pairs and charges through its USB-C port.",
+   "keywords": "magic keyboard touch id fingerprint mac",
+   "specs": {
+    "connection": "Bluetooth; USB-C (pairing and charging)",
+    "layout": "Compact, US English (other languages available)",
+    "switchType": "Scissor mechanism",
+    "mechanical": false,
+    "macSupport": true,
+    "colors": "White"
+   }
+  },
+  {
+   "sku": "TK-APPLE-MAGICKEYBOARD-TIDNUM",
+   "slug": "apple-magic-keyboard-touch-id-numeric-usb-c",
+   "name": "Apple Magic Keyboard with Touch ID and Numeric Keypad (USB-C)",
+   "brand": "Apple",
+   "category": "keyboards",
+   "price": "179.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    50,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "apple-ecosystem",
+    "developer-setup"
+   ],
+   "summary": "Full-size wireless Magic Keyboard with Touch ID, numeric keypad, full-size arrow keys and document navigation controls, charged via USB-C.",
+   "description": "This extended Magic Keyboard adds a numeric keypad, document navigation controls and full-size arrow keys to Touch ID authentication for Mac models with Apple silicon. It is wireless and rechargeable with about a month or more of battery life per charge; the white-keys version is $179 and the black-keys version $199.",
+   "keywords": "magic keyboard numeric keypad touch id full size",
+   "specs": {
+    "connection": "Bluetooth; USB-C (pairing and charging)",
+    "layout": "Full-size with numeric keypad, US English (other languages available)",
+    "switchType": "Scissor mechanism",
+    "mechanical": false,
+    "macSupport": true,
+    "colors": "White, Black",
+    "configurations": "White keys – $179 · Black keys – $199"
+   }
+  },
+  {
+   "sku": "TK-APPLE-MAGICMOUSE-USBC",
+   "slug": "apple-magic-mouse-usb-c",
+   "name": "Apple Magic Mouse (USB-C)",
+   "brand": "Apple",
+   "category": "mice",
+   "price": "79.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    49,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "apple-ecosystem"
+   ],
+   "summary": "Wireless, rechargeable Apple Magic Mouse with a Multi-Touch surface for swipe and scroll gestures and a USB-C charging port.",
+   "description": "Magic Mouse is wireless and rechargeable, with an optimized foot design that glides across the desk and a Multi-Touch surface for gestures such as swiping between pages and scrolling. The battery lasts about a month or more per charge, and it pairs automatically with Mac and works with iPad (iPadOS 18.1 or later).",
+   "keywords": "magic mouse wireless mac mouse multi-touch",
+   "specs": {
+    "connection": "Bluetooth; USB-C (pairing and charging)",
+    "colors": "White, Black",
+    "weightG": 99
+   }
+  },
+  {
+   "sku": "TK-APPLE-MAGICTRACKPAD-USBC",
+   "slug": "apple-magic-trackpad-usb-c",
+   "name": "Apple Magic Trackpad (USB-C)",
+   "brand": "Apple",
+   "category": "mice",
+   "price": "129.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    12,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "apple-ecosystem",
+    "developer-setup"
+   ],
+   "summary": "Wireless Magic Trackpad with Force Touch and the full range of Multi-Touch gestures, rechargeable via USB-C.",
+   "description": "Magic Trackpad is wireless and rechargeable, with Force Touch sensors that detect pressure differences and support for the full range of Multi-Touch gestures. It pairs automatically with Mac, works with iPad and Apple Vision Pro, and lasts about a month or more between charges.",
+   "keywords": "magic trackpad force touch gestures mac",
+   "specs": {
+    "connection": "Bluetooth; USB-C (pairing and charging)",
+    "colors": "White, Black",
+    "weightG": 230
+   }
+  },
+  {
+   "sku": "TK-APPLE-MKIPADPRO11-M5",
+   "slug": "apple-magic-keyboard-ipad-pro-11-m5",
+   "name": "Apple Magic Keyboard for iPad Pro 11-inch (M5)",
+   "brand": "Apple",
+   "category": "tablet-accessories",
+   "price": "299.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    15,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "apple-ecosystem"
+   ],
+   "summary": "Magic Keyboard for 11-inch iPad Pro with aluminum palm rest, 14-key function row, haptic glass trackpad and USB-C pass-through charging.",
+   "description": "Magic Keyboard for iPad Pro has an aluminum palm rest, a 14-key function row, backlit keys with a 1 mm scissor mechanism, a larger glass trackpad with haptic feedback and a USB-C connector for pass-through charging. Its cantilever design adjusts the viewing angle and folds into a case for front and back protection. Available in White and Black.",
+   "keywords": "ipad magic keyboard trackpad case",
+   "specs": {
+    "compatibility": "iPad Pro 11-inch (M5), iPad Pro 11-inch (M4)",
+    "colors": "White, Black"
+   }
+  },
+  {
+   "sku": "TK-APPLE-MKIPADPRO13-M5",
+   "slug": "apple-magic-keyboard-ipad-pro-13-m5",
+   "name": "Apple Magic Keyboard for iPad Pro 13-inch (M5)",
+   "brand": "Apple",
+   "category": "tablet-accessories",
+   "price": "349.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    8,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "apple-ecosystem"
+   ],
+   "summary": "Magic Keyboard for 13-inch iPad Pro with aluminum palm rest, 14-key function row, haptic glass trackpad and USB-C pass-through charging.",
+   "description": "Magic Keyboard for iPad Pro has an aluminum palm rest, a 14-key function row, backlit keys with a 1 mm scissor mechanism, a larger glass trackpad with haptic feedback and a USB-C connector for pass-through charging. Its cantilever design adjusts the viewing angle and folds into a case for front and back protection. Available in Black and White.",
+   "keywords": "ipad magic keyboard trackpad case",
+   "specs": {
+    "compatibility": "iPad Pro 13-inch (M5), iPad Pro 13-inch (M4)",
+    "colors": "Black, White"
+   }
+  },
+  {
+   "sku": "TK-APPLE-MKIPADAIR11-M4",
+   "slug": "apple-magic-keyboard-ipad-air-11-m4",
+   "name": "Apple Magic Keyboard for iPad Air 11-inch (M4)",
+   "brand": "Apple",
+   "category": "tablet-accessories",
+   "price": "269.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    21,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "apple-ecosystem"
+   ],
+   "summary": "Magic Keyboard for 11-inch iPad Air with a 14-key function row, glass trackpad and USB-C pass-through charging.",
+   "description": "Magic Keyboard for iPad Air adds a 14-key function row, a 1 mm scissor-mechanism keyboard, a large glass trackpad and a USB-C connector for pass-through charging. Its cantilever design adjusts the viewing angle and folds into a case for front and back protection. Available in White and Black.",
+   "keywords": "ipad magic keyboard trackpad case",
+   "specs": {
+    "compatibility": "iPad Air 11-inch (M4, M3, M2), iPad Air (5th and 4th generation)",
+    "colors": "White, Black"
+   }
+  },
+  {
+   "sku": "TK-APPLE-MKIPADAIR13-M4",
+   "slug": "apple-magic-keyboard-ipad-air-13-m4",
+   "name": "Apple Magic Keyboard for iPad Air 13-inch (M4)",
+   "brand": "Apple",
+   "category": "tablet-accessories",
+   "price": "319.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    14,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "apple-ecosystem"
+   ],
+   "summary": "Magic Keyboard for 13-inch iPad Air with a 14-key function row, glass trackpad and USB-C pass-through charging.",
+   "description": "Magic Keyboard for iPad Air adds a 14-key function row, a 1 mm scissor-mechanism keyboard, a large glass trackpad and a USB-C connector for pass-through charging. Its cantilever design adjusts the viewing angle and folds into a case for front and back protection. Available in Black and White.",
+   "keywords": "ipad magic keyboard trackpad case",
+   "specs": {
+    "compatibility": "iPad Air 13-inch (M4, M3, M2)",
+    "colors": "Black, White"
+   }
+  },
+  {
+   "sku": "TK-APPLE-MKFOLIO-IPADA16",
+   "slug": "apple-magic-keyboard-folio-ipad-a16",
+   "name": "Apple Magic Keyboard Folio for iPad (A16)",
+   "brand": "Apple",
+   "category": "tablet-accessories",
+   "price": "249.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    8,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "apple-ecosystem"
+   ],
+   "summary": "Two-piece Magic Keyboard Folio for iPad (A16) with a detachable keyboard, 14-key function row, click-anywhere trackpad and adjustable stand.",
+   "description": "The Magic Keyboard Folio has a two-piece design: a detachable keyboard with a 14-key function row and a large click-anywhere trackpad, and a protective back panel with an adjustable stand. Both parts attach magnetically to iPad (A16). Available in White.",
+   "keywords": "ipad magic keyboard trackpad case",
+   "specs": {
+    "compatibility": "iPad (A16), iPad (10th generation)",
+    "colors": "White"
+   }
+  },
+  {
+   "sku": "TK-APPLE-PENCILPRO",
+   "slug": "apple-pencil-pro",
+   "name": "Apple Pencil Pro",
+   "brand": "Apple",
+   "category": "tablet-accessories",
+   "price": "129.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    51,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "apple-ecosystem",
+    "creator-workstations"
+   ],
+   "summary": "Apple Pencil Pro with squeeze, barrel roll, haptic feedback, hover, double tap and Find My; attaches, pairs and charges magnetically.",
+   "description": "Apple Pencil Pro senses a squeeze to bring up a tool palette, uses a gyroscope for barrel roll control of shaped pen and brush tools, and has a custom haptic engine for feedback. It supports Apple Pencil hover and double tap, can be located in Find My, and attaches, pairs and charges magnetically on the side of a compatible iPad.",
+   "keywords": "apple pencil pro stylus drawing ipad",
+   "specs": {
+    "compatibility": "iPad Pro 13/11-inch (M5, M4), iPad Air 13/11-inch (M4, M3, M2), iPad mini (A17 Pro)",
+    "colors": "White"
+   }
+  },
+  {
+   "sku": "TK-APPLE-PENCIL-USBC",
+   "slug": "apple-pencil-usb-c",
+   "name": "Apple Pencil (USB-C)",
+   "brand": "Apple",
+   "category": "tablet-accessories",
+   "price": "79.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    16,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "apple-ecosystem"
+   ],
+   "summary": "Apple Pencil (USB-C) for note-taking and sketching, with tilt sensitivity, low latency, hover support on recent iPad Pro/Air and USB-C pairing.",
+   "description": "Apple Pencil (USB-C) delivers pixel-perfect precision, low latency and tilt sensitivity for notes, sketching and markup. It pairs and charges over a USB-C cable, attaches magnetically to the side of iPad for storage, and supports Apple Pencil hover on recent iPad Pro and iPad Air models. Apple also lists iPhone Duo as compatible.",
+   "keywords": "apple pencil usb-c stylus ipad iphone duo",
+   "specs": {
+    "compatibility": "iPad Pro (M5, M4 and earlier), iPad Air (M4 and earlier), iPad (A16), iPad mini (A17 Pro), iPhone Duo",
+    "colors": "White"
+   }
+  },
+  {
+   "sku": "TK-APPLE-MAGSAFECHARGER",
+   "slug": "apple-magsafe-charger",
+   "name": "Apple MagSafe Charger",
+   "brand": "Apple",
+   "category": "docks-adapters",
+   "price": "39.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    42,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "apple-ecosystem"
+   ],
+   "summary": "Qi2 25W-certified MagSafe Charger (1 m) that snaps onto iPhone for wireless charging up to 25W; a 2 m version is $49.",
+   "description": "The MagSafe Charger magnetically aligns with compatible iPhone models and provides wireless charging up to 25W when paired with a 30W power adapter, reaching up to 50% in around 30 minutes on recent iPhone models including iPhone 18 Pro and iPhone Duo. It is Qi2 25W and Qi certified, so it also charges iPhone 8 or later and AirPods wireless cases. Power adapter sold separately.",
+   "keywords": "magsafe charger wireless qi2 iphone",
+   "specs": {
+    "interface": "MagSafe / Qi2 25W wireless charger with integrated USB-C cable",
+    "powerDeliveryW": 25,
+    "configurations": "1 m cable – $39 · 2 m cable – $49"
+   }
+  },
+  {
+   "sku": "TK-APPLE-20W-USBC-ADAPTER",
+   "slug": "apple-20w-usb-c-power-adapter",
+   "name": "Apple 20W USB-C Power Adapter",
+   "brand": "Apple",
+   "category": "docks-adapters",
+   "price": "19.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    42,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "apple-ecosystem"
+   ],
+   "summary": "Compact Apple 20W USB-C Power Adapter for fast charging iPhone and iPad.",
+   "description": "The Apple 20W USB-C Power Adapter provides fast, efficient charging at home, in the office or on the go, and fast charges iPhone 8 or later to 50 percent in around 35 minutes. It is also recommended for iPad Pro and iPad Air. Charging cable sold separately.",
+   "keywords": "20w usb-c charger iphone",
+   "specs": {
+    "interface": "USB-C (single port)",
+    "powerDeliveryW": 20
+   }
+  },
+  {
+   "sku": "TK-APPLE-35W-DUAL-ADAPTER",
+   "slug": "apple-35w-dual-usb-c-compact-power-adapter",
+   "name": "Apple 35W Dual USB-C Port Compact Power Adapter",
+   "brand": "Apple",
+   "category": "docks-adapters",
+   "price": "59.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    30,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "apple-ecosystem"
+   ],
+   "summary": "Compact Apple 35W power adapter with two USB-C ports for charging two devices at once.",
+   "description": "The 35W Dual USB-C Port Compact Power Adapter charges two devices at the same time and is recommended by Apple for MacBook Neo and MacBook Air when you want an extra charging port. Charging cables sold separately.",
+   "keywords": "35w dual usb-c charger macbook air",
+   "specs": {
+    "interface": "2x USB-C",
+    "powerDeliveryW": 35
+   }
+  },
+  {
+   "sku": "TK-APPLE-40W-DYNAMIC-ADAPTER",
+   "slug": "apple-40w-dynamic-power-adapter",
+   "name": "Apple 40W Dynamic Power Adapter with 60W Max",
+   "brand": "Apple",
+   "category": "docks-adapters",
+   "price": "39.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    33,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "apple-ecosystem"
+   ],
+   "summary": "Pocket-size Apple 40W Dynamic Power Adapter that can boost up to 60W for fast charging recent iPhone models.",
+   "description": "The 40W Dynamic Power Adapter with 60W Max dynamically delivers up to 60W of output in a compact form factor and supports Adjustable Voltage Supply. Apple rates it for charging iPhone 18 Pro and iPhone 18 Pro Max to 50 percent in around 15 minutes and iPhone Duo in around 20 minutes. Charging cable sold separately.",
+   "keywords": "40w 60w dynamic power adapter fast charge",
+   "specs": {
+    "interface": "USB-C (single port), Adjustable Voltage Supply",
+    "powerDeliveryW": 60
+   }
+  },
+  {
+   "sku": "TK-APPLE-70W-USBC-ADAPTER",
+   "slug": "apple-70w-usb-c-power-adapter",
+   "name": "Apple 70W USB-C Power Adapter",
+   "brand": "Apple",
+   "category": "docks-adapters",
+   "price": "59.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    12,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "apple-ecosystem"
+   ],
+   "summary": "Apple 70W USB-C Power Adapter, recommended for 14-inch MacBook Pro and MacBook Air fast charging.",
+   "description": "The 70W USB-C Power Adapter is compatible with numerous USB-C devices and cables. Apple recommends it for the 14-inch MacBook Pro or 13-inch and 15-inch MacBook Air with a USB-C to MagSafe 3 Cable or USB-C Charge Cable. Charging cable sold separately.",
+   "keywords": "70w usb-c charger macbook",
+   "specs": {
+    "interface": "USB-C (single port)",
+    "powerDeliveryW": 70
+   }
+  },
+  {
+   "sku": "TK-APPLE-96W-USBC-ADAPTER",
+   "slug": "apple-96w-usb-c-power-adapter",
+   "name": "Apple 96W USB-C Power Adapter",
+   "brand": "Apple",
+   "category": "docks-adapters",
+   "price": "79.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    29,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "apple-ecosystem"
+   ],
+   "summary": "Apple 96W USB-C Power Adapter for fast charging the 14-inch MacBook Pro.",
+   "description": "The 96W USB-C Power Adapter offers quick, efficient charging and is recommended for the 14-inch MacBook Pro (2021 or later) with a USB-C to MagSafe 3 Cable or USB-C Charge Cable to take advantage of fast charging. Charging cable sold separately.",
+   "keywords": "96w usb-c charger macbook pro",
+   "specs": {
+    "interface": "USB-C (single port)",
+    "powerDeliveryW": 96
+   }
+  },
+  {
+   "sku": "TK-APPLE-140W-USBC-ADAPTER",
+   "slug": "apple-140w-usb-c-power-adapter",
+   "name": "Apple 140W USB-C Power Adapter",
+   "brand": "Apple",
+   "category": "docks-adapters",
+   "price": "99.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    39,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "apple-ecosystem"
+   ],
+   "summary": "Apple 140W USB-C Power Adapter for fast charging the 16-inch MacBook Pro to 50% in around 30 minutes.",
+   "description": "The 140W USB-C Power Adapter is recommended for the 16-inch MacBook Pro (2021 or later) with the USB-C to MagSafe 3 Cable or 240W USB-C Charge Cable, enabling fast charging up to 50 percent in around 30 minutes. Charging cable sold separately.",
+   "keywords": "140w usb-c charger macbook pro 16",
+   "specs": {
+    "interface": "USB-C (single port)",
+    "powerDeliveryW": 140
+   }
+  },
+  {
+   "sku": "TK-APPLE-TB5-PRO-CABLE-1M",
+   "slug": "apple-thunderbolt-5-pro-cable-1m",
+   "name": "Apple Thunderbolt 5 (USB-C) Pro Cable (1 m)",
+   "brand": "Apple",
+   "category": "docks-adapters",
+   "price": "69.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    18,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "apple-ecosystem"
+   ],
+   "summary": "1-meter braided Thunderbolt 5 Pro Cable with up to 120Gb/s data, DisplayPort 2.1 video and up to 240W charging.",
+   "description": "This passive 1-meter black braided cable supports Thunderbolt 5 data transfer up to 120Gb/s, Thunderbolt 3/4 and USB 4 up to 80Gb/s, DisplayPort 2.1 (UHBR20) video output and up to 240W power delivery, and can daisy-chain up to six Thunderbolt devices. It coils without tangling.",
+   "keywords": "thunderbolt 5 cable 120gbps 240w",
+   "specs": {
+    "interface": "Thunderbolt 5 (USB-C), up to 120Gb/s, DisplayPort 2.1",
+    "powerDeliveryW": 240
+   }
+  },
+  {
+   "sku": "TK-APPLE-TB4-PRO-CABLE-18M",
+   "slug": "apple-thunderbolt-4-pro-cable-1-8m",
+   "name": "Apple Thunderbolt 4 (USB-C) Pro Cable (1.8 m)",
+   "brand": "Apple",
+   "category": "docks-adapters",
+   "price": "129.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    53,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "apple-ecosystem"
+   ],
+   "summary": "1.8-meter active braided Thunderbolt 4 Pro Cable with 40Gb/s data, DisplayPort video and up to 100W charging.",
+   "description": "This active 1.8-meter black braided cable supports Thunderbolt 3, Thunderbolt 4 and USB 4 data transfer up to 40Gb/s, USB 3 up to 10Gb/s, DisplayPort video output (HBR3) and charging up to 100W. A 3 m version is also sold by Apple for $159.",
+   "keywords": "thunderbolt 4 cable 40gbps long",
+   "specs": {
+    "interface": "Thunderbolt 4 (USB-C), up to 40Gb/s, DisplayPort (HBR3)",
+    "powerDeliveryW": 100,
+    "configurations": "1.8 m – $129 · 3 m – $159"
+   }
+  },
+  {
+   "sku": "TK-APPLE-EARPODS-USBC",
+   "slug": "apple-earpods-usb-c",
+   "name": "Apple EarPods (USB-C)",
+   "brand": "Apple",
+   "category": "earbuds",
+   "price": "19.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    45,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "apple-ecosystem"
+   ],
+   "summary": "Wired Apple EarPods with a USB-C connector and a built-in remote for volume, playback and calls.",
+   "description": "EarPods have a shape defined by the geometry of the ear and speakers engineered to maximize sound output. The USB-C version includes a built-in remote to adjust volume, control music and video playback and answer or end calls, and works with USB-C iPhone (iOS 17 or later), iPad (iPadOS 16.4 or later) and Mac (macOS 12.6 or later).",
+   "keywords": "earpods wired usb-c earphones",
+   "specs": {
+    "connectivity": "Wired USB-C with in-line remote and microphone",
+    "noiseCancelling": false,
+    "waterResistance": "Sweat and water protection (no IP rating published)",
+    "colors": "White"
+   }
+  },
+  {
+   "sku": "TK-APPLE-USBC-MAGSAFE3-CABLE",
+   "slug": "apple-usb-c-to-magsafe-3-cable-2m",
+   "name": "Apple USB-C to MagSafe 3 Cable (2 m)",
+   "brand": "Apple",
+   "category": "docks-adapters",
+   "price": "49.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    46,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "apple-ecosystem"
+   ],
+   "summary": "2-meter braided USB-C to MagSafe 3 Cable for fast charging MacBook Air and MacBook Pro, in colors matched to Mac laptops.",
+   "description": "This 2-meter woven cable has a magnetic MagSafe 3 connector that guides the plug to a Mac laptop's charging port and releases if the cable is tripped over. An LED turns amber while charging and green when full. Pair it with a compatible USB-C power adapter to use fast charging. Available in Silver, Space Black, Midnight, Starlight and Sky Blue.",
+   "keywords": "magsafe 3 cable macbook charging",
+   "specs": {
+    "interface": "USB-C to MagSafe 3",
+    "colors": "Silver, Space Black, Midnight, Starlight, Sky Blue"
+   }
+  },
+  {
+   "sku": "TK-APPLE-240W-USBC-CABLE",
+   "slug": "apple-240w-usb-c-charge-cable-2m",
+   "name": "Apple 240W USB-C Charge Cable (2 m)",
+   "brand": "Apple",
+   "category": "docks-adapters",
+   "price": "29.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    46,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "apple-ecosystem"
+   ],
+   "summary": "2-meter woven Apple USB-C Charge Cable supporting up to 240W charging.",
+   "description": "This 2-meter woven cable has USB-C connectors on both ends for charging, syncing and transferring data between USB-C devices. It supports charging up to 240 watts and transfers data at USB 2 rates. Power adapter sold separately.",
+   "keywords": "240w usb-c charge cable woven",
+   "specs": {
+    "interface": "USB-C to USB-C (USB 2 data rates)",
+    "powerDeliveryW": 240
+   }
+  },
+  {
+   "sku": "TK-APPLE-AIRTAG2",
+   "slug": "apple-airtag-2nd-generation",
+   "name": "Apple AirTag (2nd generation)",
+   "brand": "Apple",
+   "category": "smart-rings",
+   "price": "29.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    11,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "apple-ecosystem"
+   ],
+   "summary": "Second-generation AirTag with Apple's second-gen Ultra Wideband chip, 1.5x Precision Finding range, a louder speaker and IP67 rating.",
+   "description": "AirTag (2nd generation) uses an Apple-designed second-generation Ultra Wideband chip for up to 1.5x greater Precision Finding range and a speaker that is 50% louder than the previous generation. It works with the Find My app on iPhone or Apple Watch, is rated IP67, weighs 11.8 grams and runs for more than a year on a user-replaceable CR2032 battery.",
+   "keywords": "airtag tracker find my item finder",
+   "specs": {
+    "chip": "Apple second-generation Ultra Wideband chip",
+    "battery": "User-replaceable CR2032, more than a year",
+    "waterResistance": "IP67 (1 m up to 30 min)",
+    "connectivity": "Bluetooth (proximity finding), second-generation Ultra Wideband (Precision Finding), Find My",
+    "compatibility": "iPhone or Apple Watch with Find My",
+    "weightG": 11.8,
+    "configurations": "1 pack – $29 · 4 pack – $99",
+    "colors": "White / Silver"
+   }
+  }
+ ]
+}

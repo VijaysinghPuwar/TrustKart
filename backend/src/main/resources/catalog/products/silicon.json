@@ -1,0 +1,1890 @@
+{
+ "products": [
+  {
+   "sku": "TK-NVIDIA-RTX5080-FE",
+   "slug": "nvidia-geforce-rtx-5080-founders-edition",
+   "name": "NVIDIA GeForce RTX 5080 Founders Edition",
+   "brand": "NVIDIA",
+   "category": "gpus",
+   "price": "999.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    23,
+    5
+   ],
+   "featured": true,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "dream-gpus",
+    "gaming-monsters",
+    "ultimate-gaming-setup"
+   ],
+   "summary": "NVIDIA's Blackwell-based GeForce RTX 5080 Founders Edition with 16 GB of GDDR7, DLSS 4 Multi Frame Generation and a 2-slot SFF-ready cooler.",
+   "description": "The GeForce RTX 5080 is built on the NVIDIA Blackwell architecture with 10,752 CUDA cores, fifth-generation Tensor Cores (1,801 AI TOPS) and fourth-generation RT Cores. It carries 16 GB of GDDR7 on a 256-bit bus. The Founders Edition is a 304 mm, 2-slot card rated at 360 W total graphics power, with 3x DisplayPort 2.1b and 1x HDMI 2.1b outputs.",
+   "keywords": "geforce rtx 5080 fe founders blackwell dlss 4 gddr7 4k gaming",
+   "specs": {
+    "chipset": "GeForce RTX 5080",
+    "architecture": "Blackwell",
+    "vramGb": 16,
+    "memoryType": "GDDR7",
+    "interface": "PCIe 5.0 x16",
+    "boardPowerW": 360,
+    "recommendedPsuW": 850,
+    "lengthMm": 304,
+    "slots": 2
+   }
+  },
+  {
+   "sku": "TK-NVIDIA-RTX5070-FE",
+   "slug": "nvidia-geforce-rtx-5070-founders-edition",
+   "name": "NVIDIA GeForce RTX 5070 Founders Edition",
+   "brand": "NVIDIA",
+   "category": "gpus",
+   "price": "549.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    42,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "gaming-monsters"
+   ],
+   "summary": "GeForce RTX 5070 Founders Edition: Blackwell GPU with 12 GB GDDR7, DLSS 4 and a compact 242 mm, 2-slot design.",
+   "description": "The GeForce RTX 5070 uses the NVIDIA Blackwell architecture with fifth-generation Tensor Cores rated at 988 AI TOPS and fourth-generation RT Cores. It has 12 GB of GDDR7 on a 192-bit interface and a 2.51 GHz boost clock. NVIDIA's Founders Edition measures 242 mm long and 2 slots wide, with 250 W total graphics power.",
+   "keywords": "geforce rtx 5070 fe founders blackwell dlss 4 1440p gaming",
+   "specs": {
+    "chipset": "GeForce RTX 5070",
+    "architecture": "Blackwell",
+    "vramGb": 12,
+    "memoryType": "GDDR7",
+    "interface": "PCIe 5.0 x16",
+    "boardPowerW": 250,
+    "recommendedPsuW": 650,
+    "lengthMm": 242,
+    "slots": 2
+   }
+  },
+  {
+   "sku": "TK-NVIDIA-RTXPRO6000-MAXQ",
+   "slug": "nvidia-rtx-pro-6000-blackwell-max-q",
+   "name": "NVIDIA RTX PRO 6000 Blackwell Max-Q Workstation Edition",
+   "brand": "NVIDIA",
+   "category": "gpus",
+   "price": "8499.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    14,
+    3
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "ai-workstations",
+    "creator-workstations",
+    "dream-gpus"
+   ],
+   "summary": "96 GB GDDR7 ECC Blackwell workstation GPU in a 300 W, dual-slot blower design that scales to four GPUs per workstation.",
+   "description": "The RTX PRO 6000 Blackwell Max-Q Workstation Edition pairs the Blackwell GPU with 96 GB of GDDR7 ECC memory at 1,792 GB/s in a density-optimized 300 W design. NVIDIA rates it at 3,511 AI TOPS (FP4, sparse), 333 RT TFLOPS and 110 TFLOPS single precision. It has four DisplayPort 2.1 outputs and a 4.4 in x 10.5 in dual-slot form factor.",
+   "keywords": "rtx pro 6000 max-q blackwell workstation 96gb ai gpu",
+   "specs": {
+    "chipset": "RTX PRO 6000 Blackwell Max-Q",
+    "architecture": "Blackwell",
+    "vramGb": 96,
+    "memoryType": "GDDR7 ECC",
+    "interface": "PCIe 5.0 x16",
+    "boardPowerW": 300,
+    "slots": 2
+   }
+  },
+  {
+   "sku": "TK-NVIDIA-RTXPRO5000",
+   "slug": "nvidia-rtx-pro-5000-blackwell",
+   "name": "NVIDIA RTX PRO 5000 Blackwell",
+   "brand": "NVIDIA",
+   "category": "gpus",
+   "price": "4599.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    11,
+    3
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "ai-workstations",
+    "creator-workstations"
+   ],
+   "summary": "Blackwell professional GPU with 48 GB (or 72 GB) GDDR7 ECC memory, 300 W, dual-slot.",
+   "description": "The RTX PRO 5000 Blackwell is built on the NVIDIA Blackwell architecture with fifth-gen Tensor Cores and fourth-gen RT Cores, and is offered with 48 GB or 72 GB of GDDR7 ECC memory. NVIDIA lists 1,344 GB/s of memory bandwidth, 300 W maximum power, three 9th-gen NVENC engines and four DisplayPort 2.1 outputs in a 4.4 in x 10.5 in dual-slot card.",
+   "keywords": "rtx pro 5000 blackwell 48gb 72gb workstation gpu",
+   "specs": {
+    "chipset": "RTX PRO 5000 Blackwell",
+    "architecture": "Blackwell",
+    "vramGb": 48,
+    "memoryType": "GDDR7 ECC",
+    "interface": "PCIe 5.0 x16",
+    "boardPowerW": 300,
+    "slots": 2,
+    "configurations": "48 GB GDDR7 – $4,599 · 72 GB GDDR7 – $5,999"
+   }
+  },
+  {
+   "sku": "TK-NVIDIA-RTXPRO4500",
+   "slug": "nvidia-rtx-pro-4500-blackwell",
+   "name": "NVIDIA RTX PRO 4500 Blackwell Workstation Edition",
+   "brand": "NVIDIA",
+   "category": "gpus",
+   "price": "2699.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    15,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "creator-workstations"
+   ],
+   "summary": "32 GB GDDR7 ECC Blackwell workstation GPU at 200 W in a dual-slot form factor.",
+   "description": "The RTX PRO 4500 Blackwell Workstation Edition features 32 GB of GDDR7 ECC memory with 896 GB/s of bandwidth, fifth-gen Tensor Cores and fourth-gen RT Cores. It draws up to 200 W, carries two 9th-gen NVENC and two 6th-gen NVDEC engines, and provides four DisplayPort 2.1 outputs in a 4.4 in x 10.5 in dual-slot card.",
+   "keywords": "rtx pro 4500 blackwell 32gb workstation gpu cad rendering",
+   "specs": {
+    "chipset": "RTX PRO 4500 Blackwell",
+    "architecture": "Blackwell",
+    "vramGb": 32,
+    "memoryType": "GDDR7 ECC",
+    "interface": "PCIe 5.0 x16",
+    "boardPowerW": 200,
+    "slots": 2
+   }
+  },
+  {
+   "sku": "TK-NVIDIA-RTXPRO4000",
+   "slug": "nvidia-rtx-pro-4000-blackwell",
+   "name": "NVIDIA RTX PRO 4000 Blackwell",
+   "brand": "NVIDIA",
+   "category": "gpus",
+   "price": "1599.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    8,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "creator-workstations"
+   ],
+   "summary": "Single-slot Blackwell professional GPU with 24 GB GDDR7 ECC and 145 W maximum power.",
+   "description": "NVIDIA describes the RTX PRO 4000 Blackwell as its most advanced single-slot professional GPU. It has 24 GB of GDDR7 ECC memory at 672 GB/s and is rated at 1,290 AI TOPS (FP4, sparse), 122 RT TFLOPS and 40 TFLOPS single precision, with a 145 W maximum and four DisplayPort 2.1 outputs.",
+   "keywords": "rtx pro 4000 blackwell single slot 24gb workstation gpu",
+   "specs": {
+    "chipset": "RTX PRO 4000 Blackwell",
+    "architecture": "Blackwell",
+    "vramGb": 24,
+    "memoryType": "GDDR7 ECC",
+    "interface": "PCIe 5.0 x16",
+    "boardPowerW": 145,
+    "slots": 1
+   }
+  },
+  {
+   "sku": "TK-NVIDIA-RTXPRO4000-SFF",
+   "slug": "nvidia-rtx-pro-4000-blackwell-sff",
+   "name": "NVIDIA RTX PRO 4000 Blackwell SFF Edition",
+   "brand": "NVIDIA",
+   "category": "gpus",
+   "price": "1449.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    31,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "creator-workstations",
+    "small-business"
+   ],
+   "summary": "Low-profile 70 W Blackwell professional GPU with 24 GB GDDR7 ECC for compact workstations.",
+   "description": "The RTX PRO 4000 Blackwell SFF Edition brings 24 GB of GDDR7 ECC memory (432 GB/s) to a low-profile, dual-slot card measuring 2.7 in x 6.6 in. NVIDIA rates it at 770 AI TOPS (FP4, sparse), 73 RT TFLOPS and 24 TFLOPS single precision within a 70 W maximum power budget, with four DisplayPort 2.1b outputs.",
+   "keywords": "rtx pro 4000 sff low profile small form factor blackwell 70w",
+   "specs": {
+    "chipset": "RTX PRO 4000 Blackwell SFF",
+    "architecture": "Blackwell",
+    "vramGb": 24,
+    "memoryType": "GDDR7 ECC",
+    "interface": "PCIe 5.0",
+    "boardPowerW": 70,
+    "slots": 2
+   }
+  },
+  {
+   "sku": "TK-NVIDIA-RTXPRO2000",
+   "slug": "nvidia-rtx-pro-2000-blackwell",
+   "name": "NVIDIA RTX PRO 2000 Blackwell",
+   "brand": "NVIDIA",
+   "category": "gpus",
+   "price": "749.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    36,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "small-business"
+   ],
+   "summary": "Compact 70 W Blackwell professional GPU with 16 GB GDDR7 ECC and four Mini DisplayPort 2.1b outputs.",
+   "description": "The RTX PRO 2000 Blackwell is a power-efficient small-form-factor professional GPU with 16 GB of GDDR7 ECC memory at 288 GB/s. It uses fifth-gen Tensor Cores and fourth-gen RT Cores, one 9th-gen NVENC and one 6th-gen NVDEC engine, draws up to 70 W, and measures 2.7 in x 6.6 in (dual slot).",
+   "keywords": "rtx pro 2000 blackwell 16gb compact workstation gpu",
+   "specs": {
+    "chipset": "RTX PRO 2000 Blackwell",
+    "architecture": "Blackwell",
+    "vramGb": 16,
+    "memoryType": "GDDR7 ECC",
+    "interface": "PCIe 5.0",
+    "boardPowerW": 70,
+    "slots": 2
+   }
+  },
+  {
+   "sku": "TK-NVIDIA-RTXPRO6000-SE",
+   "slug": "nvidia-rtx-pro-6000-blackwell-server-edition",
+   "name": "NVIDIA RTX PRO 6000 Blackwell Server Edition",
+   "brand": "NVIDIA",
+   "category": "ai-accelerators",
+   "price": "9499.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    11,
+    3
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "ai-lab",
+    "enterprise-servers"
+   ],
+   "summary": "Passively cooled 96 GB GDDR7 Blackwell data-center GPU for AI inference, visual computing and RTX PRO Servers.",
+   "description": "The RTX PRO 6000 Blackwell Server Edition carries 96 GB of GDDR7 ECC memory on a 512-bit interface with 1,597 GB/s of bandwidth. NVIDIA lists 120 TFLOPS FP32, 355 TFLOPS peak RT Core performance and up to 600 W configurable power, in an air-cooled dual-slot FHFL or liquid-cooled single-slot FHXL form factor. NVIDIA states it is available now through partners.",
+   "keywords": "rtx pro 6000 server edition blackwell data center gpu 96gb inference",
+   "specs": {
+    "architecture": "Blackwell",
+    "memoryGb": 96,
+    "memoryType": "GDDR7 ECC",
+    "bandwidthTbs": 1.597,
+    "formFactor": "PCIe dual-slot FHFL (air) / single-slot FHXL (liquid)",
+    "interconnect": "PCIe",
+    "tdpW": 600
+   }
+  },
+  {
+   "sku": "TK-NVIDIA-DGX-B300",
+   "slug": "nvidia-dgx-b300",
+   "name": "NVIDIA DGX B300",
+   "brand": "NVIDIA",
+   "category": "ai-systems",
+   "price": "525000.00",
+   "compareAt": null,
+   "warranty": 36,
+   "stock": [
+    7,
+    2
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "ai-lab",
+    "enterprise-servers"
+   ],
+   "summary": "10U AI system with eight Blackwell Ultra SXM GPUs, 2.1 TB of GPU memory and ConnectX-8 800 Gb/s networking.",
+   "description": "DGX B300 combines eight NVIDIA Blackwell Ultra SXM GPUs (2.1 TB total GPU memory) linked by two NVLink Switch chips at 14.4 TB/s, with Intel Xeon 6776P host processors. NVIDIA lists 144 PFLOPS FP4 (sparse) and 72 PFLOPS FP8 performance, 8x ConnectX-8 VPI ports at up to 800 Gb/s plus 2x BlueField-3 DPUs, and roughly 14 kW power draw. It ships with NVIDIA AI Enterprise, Mission Control and DGX OS and three years of support.",
+   "keywords": "dgx b300 blackwell ultra ai factory training inference server",
+   "specs": {
+    "formFactor": "10U rackmount",
+    "cpu": "Intel Xeon 6776P",
+    "gpus": "8x NVIDIA Blackwell Ultra SXM",
+    "gpuMemoryGb": 2100,
+    "aiPerformance": "FP4 144 PFLOPS (sparse) / 108 PFLOPS (dense); FP8 72 PFLOPS",
+    "storage": "OS 2x 1.9 TB NVMe M.2; data 8x 3.84 TB NVMe E1.S",
+    "network": "8x OSFP ConnectX-8 VPI up to 800 Gb/s; 2x dual-port BlueField-3 DPU up to 400 Gb/s",
+    "powerKw": 14
+   }
+  },
+  {
+   "sku": "TK-NVIDIA-DGX-B200",
+   "slug": "nvidia-dgx-b200",
+   "name": "NVIDIA DGX B200",
+   "brand": "NVIDIA",
+   "category": "ai-systems",
+   "price": "450000.00",
+   "compareAt": null,
+   "warranty": 36,
+   "stock": [
+    2,
+    2
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "ai-lab",
+    "enterprise-servers"
+   ],
+   "summary": "10U Blackwell AI system with eight B200 GPUs, 1,440 GB HBM3e and dual Xeon Platinum 8570 CPUs.",
+   "description": "DGX B200 houses eight NVIDIA Blackwell GPUs with 1,440 GB of HBM3e (64 TB/s) connected by NVLink at 14.4 TB/s aggregate. NVIDIA lists 144 PFLOPS FP4 (sparse) and 72 PFLOPS FP8, two Intel Xeon Platinum 8570 processors (112 cores total), 2 TB of system memory (configurable to 4 TB) and about 14.3 kW maximum power in a 10 RU chassis.",
+   "keywords": "dgx b200 blackwell ai server hbm3e training",
+   "specs": {
+    "formFactor": "10U rackmount",
+    "cpu": "2x Intel Xeon Platinum 8570 (112 cores total)",
+    "gpus": "8x NVIDIA Blackwell GPUs",
+    "gpuMemoryGb": 1440,
+    "memoryGb": 2048,
+    "aiPerformance": "FP4 144 PFLOPS (sparse) / 72 PFLOPS (dense); FP8 72 PFLOPS",
+    "storage": "OS 2x 1.9 TB NVMe M.2; data 8x 3.84 TB NVMe U.2",
+    "network": "4x OSFP serving 8x ConnectX-7 VPI up to 400 Gb/s; 2x dual-port BlueField-3 DPU",
+    "powerKw": 14.3
+   }
+  },
+  {
+   "sku": "TK-NVIDIA-DGX-GB300",
+   "slug": "nvidia-dgx-gb300",
+   "name": "NVIDIA DGX GB300 (NVL72 rack)",
+   "brand": "NVIDIA",
+   "category": "ai-systems",
+   "price": "3900000.00",
+   "compareAt": null,
+   "warranty": 36,
+   "stock": [
+    6,
+    2
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "ai-lab",
+    "enterprise-servers"
+   ],
+   "summary": "Liquid-cooled rack-scale AI system with 72 Blackwell Ultra GPUs and 36 Grace CPUs in one NVLink domain.",
+   "description": "DGX GB300 is NVIDIA's rack-scale Grace Blackwell Ultra system: 72 Blackwell Ultra GPUs and 36 Grace CPUs (2,592 Arm Neoverse V2 cores) connected through nine NVLink switches. NVIDIA lists 20 TB of GPU memory at up to 576 TB/s, 37 TB of total fast memory, 1,440 PFLOPS FP4 (sparse) and 72x ConnectX-8 VPI ports at 800 Gb/s. It is deployed as a building block of DGX SuperPOD.",
+   "keywords": "dgx gb300 nvl72 grace blackwell ultra rack superpod",
+   "specs": {
+    "formFactor": "Rack-scale (NVL72)",
+    "cpu": "36x NVIDIA Grace (2,592 Arm Neoverse V2 cores)",
+    "gpus": "72x NVIDIA Blackwell Ultra",
+    "gpuMemoryGb": 20000,
+    "aiPerformance": "FP4 1,440 PFLOPS (sparse) / 1,080 PFLOPS (dense); FP8 720 PFLOPS",
+    "network": "72x OSFP ConnectX-8 VPI 800 Gb/s InfiniBand; 18x dual-port BlueField-3"
+   }
+  },
+  {
+   "sku": "TK-NVIDIA-JETSON-AGX-THOR",
+   "slug": "nvidia-jetson-agx-thor-developer-kit",
+   "name": "NVIDIA Jetson AGX Thor Developer Kit",
+   "brand": "NVIDIA",
+   "category": "ai-systems",
+   "price": "3499.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    13,
+    3
+   ],
+   "featured": true,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "ai-lab",
+    "developer-favorites"
+   ],
+   "summary": "Blackwell-powered robotics developer kit with 128 GB LPDDR5X and up to 2,070 FP4 TFLOPS in a 40-130 W envelope.",
+   "description": "The Jetson AGX Thor Developer Kit is built around the Jetson T5000 module: a 2,560-core NVIDIA Blackwell GPU with fifth-gen Tensor Cores and a 14-core Arm Neoverse-V3AE CPU, with 128 GB of 256-bit LPDDR5X at 273 GB/s. NVIDIA rates it at 2,070 FP4 TFLOPS (sparse). The kit includes a 1 TB NVMe SSD, a 5GbE port and a QSFP28 (4x 25GbE) cage, and runs at 40-130 W.",
+   "keywords": "jetson thor agx developer kit robotics physical ai humanoid blackwell edge",
+   "specs": {
+    "formFactor": "Developer kit (243 x 112 x 57 mm)",
+    "cpu": "14-core Arm Neoverse-V3AE",
+    "gpus": "2560-core NVIDIA Blackwell GPU",
+    "memoryGb": 128,
+    "aiPerformance": "2,070 FP4 TFLOPS (sparse)",
+    "storage": "1 TB NVMe M.2",
+    "network": "1x 5GbE RJ45; 1x QSFP28 (4x 25GbE)",
+    "powerKw": 0.13
+   }
+  },
+  {
+   "sku": "TK-NVIDIA-JETSON-ORIN-NANO-S",
+   "slug": "nvidia-jetson-orin-nano-super-developer-kit",
+   "name": "NVIDIA Jetson Orin Nano Super Developer Kit",
+   "brand": "NVIDIA",
+   "category": "ai-systems",
+   "price": "249.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    43,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "developer-favorites",
+    "homelab-starter"
+   ],
+   "summary": "Palm-sized generative-AI developer kit delivering 67 INT8 TOPS with 8 GB LPDDR5 at 7-25 W.",
+   "description": "The Jetson Orin Nano Super Developer Kit pairs a Jetson Orin Nano 8GB module with a reference carrier board. It has an NVIDIA Ampere GPU with 1,024 CUDA cores and 32 Tensor Cores, a 6-core Arm Cortex-A78AE CPU and 8 GB of 128-bit LPDDR5 at 102 GB/s, delivering up to 67 INT8 TOPS. Storage is via microSD and external NVMe, with a 7-25 W power range.",
+   "keywords": "jetson orin nano super developer kit edge ai maker robotics",
+   "specs": {
+    "formFactor": "Developer kit",
+    "cpu": "6-core Arm Cortex-A78AE",
+    "gpus": "NVIDIA Ampere GPU (1024 CUDA cores, 32 Tensor Cores)",
+    "memoryGb": 8,
+    "aiPerformance": "67 INT8 TOPS",
+    "storage": "microSD slot and external NVMe",
+    "powerKw": 0.025
+   }
+  },
+  {
+   "sku": "TK-NVIDIA-CONNECTX8-SUPERNIC",
+   "slug": "nvidia-connectx-8-supernic",
+   "name": "NVIDIA ConnectX-8 SuperNIC",
+   "brand": "NVIDIA",
+   "category": "network-adapters",
+   "price": "2999.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    57,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "ai-lab",
+    "networking-lab"
+   ],
+   "summary": "800 Gb/s AI networking SuperNIC with PCIe Gen6 connectivity for Spectrum-X Ethernet and InfiniBand AI fabrics.",
+   "description": "The NVIDIA ConnectX-8 SuperNIC provides up to 800 Gb/s of total network bandwidth for massive-scale AI compute fabrics. NVIDIA positions it as part of the Spectrum-X Ethernet platform and highlights PCIe Gen6 connectivity. It is the network adapter used in DGX B300 and GB300 systems.",
+   "keywords": "connectx-8 supernic 800g spectrum-x infiniband ai networking nic",
+   "specs": {
+    "maxSpeedGbps": 800,
+    "interface": "PCIe Gen6",
+    "managed": false,
+    "rackMountable": false
+   }
+  },
+  {
+   "sku": "TK-AMD-RYZEN9-9950X3D2",
+   "slug": "amd-ryzen-9-9950x3d2-dual-edition",
+   "name": "AMD Ryzen 9 9950X3D2 Dual Edition",
+   "brand": "AMD",
+   "category": "cpus",
+   "price": "899.00",
+   "compareAt": null,
+   "warranty": 36,
+   "stock": [
+    24,
+    5
+   ],
+   "featured": true,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "developer-setup",
+    "creator-workstations",
+    "dream-gaming"
+   ],
+   "summary": "First desktop CPU with AMD 3D V-Cache on both chiplets: 16 Zen 5 cores and 208 MB of total cache.",
+   "description": "The Ryzen 9 9950X3D2 Dual Edition stacks 2nd-gen AMD 3D V-Cache on both CCDs, giving 16 Zen 5 cores / 32 threads 208 MB of total cache (192 MB L3). It boosts up to 5.6 GHz from a 4.3 GHz base at a 200 W default TDP on socket AM5. AMD positions it for compile, simulation and creator workloads; it launched April 22, 2026 at a USD 899 SEP.",
+   "keywords": "ryzen 9 9950x3d2 dual edition 3d v-cache 208mb zen 5 am5 developer",
+   "specs": {
+    "cores": 16,
+    "threads": 32,
+    "boostGhz": 5.6,
+    "socket": "AM5",
+    "architecture": "Zen 5",
+    "tdpW": 200,
+    "memoryType": "DDR5 (2 channels)",
+    "integratedGraphics": true
+   }
+  },
+  {
+   "sku": "TK-AMD-RYZEN9-9950X3D",
+   "slug": "amd-ryzen-9-9950x3d",
+   "name": "AMD Ryzen 9 9950X3D",
+   "brand": "AMD",
+   "category": "cpus",
+   "price": "699.00",
+   "compareAt": null,
+   "warranty": 36,
+   "stock": [
+    54,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "gaming-monsters",
+    "ultimate-gaming-setup",
+    "creator-workstations"
+   ],
+   "summary": "16-core Zen 5 AM5 processor with 2nd-gen 3D V-Cache (128 MB L3) and up to 5.7 GHz boost.",
+   "description": "The Ryzen 9 9950X3D has 16 Zen 5 cores and 32 threads, a 4.3 GHz base and up to 5.7 GHz boost clock, and 128 MB of L3 cache thanks to 2nd-gen AMD 3D V-Cache. It is rated at 170 W default TDP on socket AM5, supports DDR5 and PCIe 5.0, and includes AMD Radeon integrated graphics. AMD recommends a liquid cooler.",
+   "keywords": "ryzen 9 9950x3d x3d 3d v-cache gaming creator am5 zen 5",
+   "specs": {
+    "cores": 16,
+    "threads": 32,
+    "boostGhz": 5.7,
+    "socket": "AM5",
+    "architecture": "Zen 5",
+    "tdpW": 170,
+    "memoryType": "DDR5 (2 channels)",
+    "integratedGraphics": true
+   }
+  },
+  {
+   "sku": "TK-AMD-RYZEN9-9900X3D",
+   "slug": "amd-ryzen-9-9900x3d",
+   "name": "AMD Ryzen 9 9900X3D",
+   "brand": "AMD",
+   "category": "cpus",
+   "price": "599.00",
+   "compareAt": null,
+   "warranty": 36,
+   "stock": [
+    38,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "gaming-monsters"
+   ],
+   "summary": "12-core Zen 5 AM5 processor with 3D V-Cache (128 MB L3) and a 120 W TDP.",
+   "description": "The Ryzen 9 9900X3D offers 12 Zen 5 cores and 24 threads with a 4.4 GHz base and up to 5.5 GHz boost. 2nd-gen AMD 3D V-Cache gives it 128 MB of L3 cache, and it runs at a 120 W default TDP on socket AM5 with DDR5 memory and integrated AMD Radeon graphics.",
+   "keywords": "ryzen 9 9900x3d x3d 3d v-cache gaming am5 zen 5",
+   "specs": {
+    "cores": 12,
+    "threads": 24,
+    "boostGhz": 5.5,
+    "socket": "AM5",
+    "architecture": "Zen 5",
+    "tdpW": 120,
+    "memoryType": "DDR5 (2 channels)",
+    "integratedGraphics": true
+   }
+  },
+  {
+   "sku": "TK-AMD-RYZEN7-9850X3D",
+   "slug": "amd-ryzen-7-9850x3d",
+   "name": "AMD Ryzen 7 9850X3D",
+   "brand": "AMD",
+   "category": "cpus",
+   "price": "499.00",
+   "compareAt": null,
+   "warranty": 36,
+   "stock": [
+    45,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "gaming-monsters",
+    "ultimate-gaming-setup",
+    "dream-gaming"
+   ],
+   "summary": "8-core Zen 5 gaming CPU with 3D V-Cache, 104 MB total cache and a 5.6 GHz boost - successor to the 9800X3D.",
+   "description": "Announced at CES 2026, the Ryzen 7 9850X3D builds on the 9800X3D with a 400 MHz higher boost clock. It has 8 Zen 5 cores / 16 threads, a 4.7 GHz base and up to 5.6 GHz boost, 96 MB of L3 (104 MB total cache) via 2nd-gen AMD 3D V-Cache, and a 120 W default TDP on socket AM5.",
+   "keywords": "ryzen 7 9850x3d x3d gaming cpu 3d v-cache am5 zen 5",
+   "specs": {
+    "cores": 8,
+    "threads": 16,
+    "boostGhz": 5.6,
+    "socket": "AM5",
+    "architecture": "Zen 5",
+    "tdpW": 120,
+    "memoryType": "DDR5 (2 channels)",
+    "integratedGraphics": true
+   }
+  },
+  {
+   "sku": "TK-AMD-RYZEN9-9900X",
+   "slug": "amd-ryzen-9-9900x",
+   "name": "AMD Ryzen 9 9900X",
+   "brand": "AMD",
+   "category": "cpus",
+   "price": "439.00",
+   "compareAt": "499.00",
+   "warranty": 36,
+   "stock": [
+    18,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "developer-setup"
+   ],
+   "summary": "12-core, 24-thread Zen 5 desktop processor with up to 5.6 GHz boost and 64 MB L3 cache.",
+   "description": "The Ryzen 9 9900X is a 12-core, 24-thread Zen 5 processor for socket AM5 with a 4.4 GHz base and up to 5.6 GHz boost clock, 64 MB of L3 cache and a 120 W default TDP. It supports DDR5 memory, PCIe 5.0 and includes AMD Radeon integrated graphics.",
+   "keywords": "ryzen 9 9900x zen 5 12 core am5 desktop cpu",
+   "specs": {
+    "cores": 12,
+    "threads": 24,
+    "boostGhz": 5.6,
+    "socket": "AM5",
+    "architecture": "Zen 5",
+    "tdpW": 120,
+    "memoryType": "DDR5 (2 channels)",
+    "integratedGraphics": true
+   }
+  },
+  {
+   "sku": "TK-AMD-RYZEN7-9700X",
+   "slug": "amd-ryzen-7-9700x",
+   "name": "AMD Ryzen 7 9700X",
+   "brand": "AMD",
+   "category": "cpus",
+   "price": "339.00",
+   "compareAt": "359.00",
+   "warranty": 36,
+   "stock": [
+    36,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "deals"
+   ],
+   "summary": "Efficient 8-core Zen 5 processor with up to 5.5 GHz boost at a 65 W TDP.",
+   "description": "The Ryzen 7 9700X has 8 Zen 5 cores and 16 threads, a 3.8 GHz base and up to 5.5 GHz boost clock, 32 MB of L3 cache and a 65 W default TDP on socket AM5. It supports DDR5 and PCIe 5.0 and includes AMD Radeon integrated graphics.",
+   "keywords": "ryzen 7 9700x zen 5 8 core 65w am5",
+   "specs": {
+    "cores": 8,
+    "threads": 16,
+    "boostGhz": 5.5,
+    "socket": "AM5",
+    "architecture": "Zen 5",
+    "tdpW": 65,
+    "memoryType": "DDR5 (2 channels)",
+    "integratedGraphics": true
+   }
+  },
+  {
+   "sku": "TK-AMD-RYZEN5-9600X",
+   "slug": "amd-ryzen-5-9600x",
+   "name": "AMD Ryzen 5 9600X",
+   "brand": "AMD",
+   "category": "cpus",
+   "price": "220.00",
+   "compareAt": "279.00",
+   "warranty": 36,
+   "stock": [
+    24,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "deals"
+   ],
+   "summary": "6-core Zen 5 AM5 processor with up to 5.4 GHz boost and a 65 W TDP.",
+   "description": "The Ryzen 5 9600X provides 6 Zen 5 cores and 12 threads with a 3.9 GHz base and up to 5.4 GHz boost, 32 MB of L3 cache and a 65 W default TDP. It uses socket AM5 with DDR5 memory and PCIe 5.0 and includes AMD Radeon integrated graphics.",
+   "keywords": "ryzen 5 9600x zen 5 6 core budget gaming am5",
+   "specs": {
+    "cores": 6,
+    "threads": 12,
+    "boostGhz": 5.4,
+    "socket": "AM5",
+    "architecture": "Zen 5",
+    "tdpW": 65,
+    "memoryType": "DDR5 (2 channels)",
+    "integratedGraphics": true
+   }
+  },
+  {
+   "sku": "TK-AMD-TR-9980X",
+   "slug": "amd-ryzen-threadripper-9980x",
+   "name": "AMD Ryzen Threadripper 9980X",
+   "brand": "AMD",
+   "category": "cpus",
+   "price": "4999.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    9,
+    3
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "creator-workstations",
+    "developer-setup"
+   ],
+   "summary": "64-core Zen 5 HEDT processor with 256 MB L3, quad-channel DDR5 and up to 80 PCIe 5.0 lanes on TRX50.",
+   "description": "The Ryzen Threadripper 9980X is a Zen 5 ('Shimada Peak') high-end desktop processor with 64 cores and 128 threads, a 3.2 GHz base and up to 5.4 GHz boost clock, and 256 MB of L3 cache. It is rated at 350 W default TDP on socket sTR5 with 4-channel DDR5 memory and requires a discrete graphics card.",
+   "keywords": "threadripper 9980x 64 core hedt zen 5 str5 trx50",
+   "specs": {
+    "cores": 64,
+    "threads": 128,
+    "boostGhz": 5.4,
+    "socket": "sTR5",
+    "architecture": "Zen 5",
+    "tdpW": 350,
+    "memoryType": "DDR5 (4 channels)",
+    "integratedGraphics": false
+   }
+  },
+  {
+   "sku": "TK-AMD-TR-9970X",
+   "slug": "amd-ryzen-threadripper-9970x",
+   "name": "AMD Ryzen Threadripper 9970X",
+   "brand": "AMD",
+   "category": "cpus",
+   "price": "2499.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    58,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "creator-workstations"
+   ],
+   "summary": "32-core Zen 5 HEDT processor with a 4.0 GHz base, 5.4 GHz boost and quad-channel DDR5.",
+   "description": "The Ryzen Threadripper 9970X is a Zen 5 ('Shimada Peak') high-end desktop processor with 32 cores and 64 threads, a 4.0 GHz base and up to 5.4 GHz boost clock, and 128 MB of L3 cache. It is rated at 350 W default TDP on socket sTR5 with 4-channel DDR5 memory and requires a discrete graphics card.",
+   "keywords": "threadripper 9970x 32 core hedt zen 5 str5",
+   "specs": {
+    "cores": 32,
+    "threads": 64,
+    "boostGhz": 5.4,
+    "socket": "sTR5",
+    "architecture": "Zen 5",
+    "tdpW": 350,
+    "memoryType": "DDR5 (4 channels)",
+    "integratedGraphics": false
+   }
+  },
+  {
+   "sku": "TK-AMD-TRPRO-9995WX",
+   "slug": "amd-ryzen-threadripper-pro-9995wx",
+   "name": "AMD Ryzen Threadripper PRO 9995WX",
+   "brand": "AMD",
+   "category": "cpus",
+   "price": "11699.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    16,
+    3
+   ],
+   "featured": true,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "ai-workstations",
+    "creator-workstations",
+    "servers-workstations"
+   ],
+   "summary": "96-core, 192-thread Zen 5 workstation flagship with 384 MB L3 and 8-channel DDR5.",
+   "description": "The Ryzen Threadripper PRO 9995WX is a Zen 5 ('Shimada Peak') workstation processor with 96 cores and 192 threads, a 2.5 GHz base and up to 5.4 GHz boost clock, and 384 MB of L3 cache. It is rated at 350 W default TDP on socket sTR5 with 8-channel DDR5 memory (ECC RDIMM on WRX90 platforms) and requires a discrete graphics card.",
+   "keywords": "threadripper pro 9995wx 96 core workstation zen 5 wrx90",
+   "specs": {
+    "cores": 96,
+    "threads": 192,
+    "boostGhz": 5.4,
+    "socket": "sTR5",
+    "architecture": "Zen 5",
+    "tdpW": 350,
+    "memoryType": "DDR5 (8 channels)",
+    "integratedGraphics": false
+   }
+  },
+  {
+   "sku": "TK-AMD-TRPRO-9985WX",
+   "slug": "amd-ryzen-threadripper-pro-9985wx",
+   "name": "AMD Ryzen Threadripper PRO 9985WX",
+   "brand": "AMD",
+   "category": "cpus",
+   "price": "7999.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    17,
+    3
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "creator-workstations",
+    "servers-workstations"
+   ],
+   "summary": "64-core Zen 5 workstation processor with 256 MB L3 and 8-channel DDR5.",
+   "description": "The Ryzen Threadripper PRO 9985WX is a Zen 5 ('Shimada Peak') workstation processor with 64 cores and 128 threads, a 3.2 GHz base and up to 5.4 GHz boost clock, and 256 MB of L3 cache. It is rated at 350 W default TDP on socket sTR5 with 8-channel DDR5 memory (ECC RDIMM on WRX90 platforms) and requires a discrete graphics card.",
+   "keywords": "threadripper pro 9985wx 64 core workstation zen 5 wrx90",
+   "specs": {
+    "cores": 64,
+    "threads": 128,
+    "boostGhz": 5.4,
+    "socket": "sTR5",
+    "architecture": "Zen 5",
+    "tdpW": 350,
+    "memoryType": "DDR5 (8 channels)",
+    "integratedGraphics": false
+   }
+  },
+  {
+   "sku": "TK-AMD-TRPRO-9975WX",
+   "slug": "amd-ryzen-threadripper-pro-9975wx",
+   "name": "AMD Ryzen Threadripper PRO 9975WX",
+   "brand": "AMD",
+   "category": "cpus",
+   "price": "4099.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    5,
+    3
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "creator-workstations"
+   ],
+   "summary": "32-core Zen 5 workstation processor with 8-channel DDR5 and a 4.0 GHz base clock.",
+   "description": "The Ryzen Threadripper PRO 9975WX is a Zen 5 ('Shimada Peak') workstation processor with 32 cores and 64 threads, a 4.0 GHz base and up to 5.4 GHz boost clock, and 128 MB of L3 cache. It is rated at 350 W default TDP on socket sTR5 with 8-channel DDR5 memory (ECC RDIMM on WRX90 platforms) and requires a discrete graphics card.",
+   "keywords": "threadripper pro 9975wx 32 core workstation zen 5",
+   "specs": {
+    "cores": 32,
+    "threads": 64,
+    "boostGhz": 5.4,
+    "socket": "sTR5",
+    "architecture": "Zen 5",
+    "tdpW": 350,
+    "memoryType": "DDR5 (8 channels)",
+    "integratedGraphics": false
+   }
+  },
+  {
+   "sku": "TK-AMD-EPYC-9996",
+   "slug": "amd-epyc-9996",
+   "name": "AMD EPYC 9996",
+   "brand": "AMD",
+   "category": "server-cpus",
+   "price": "14904.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    7,
+    3
+   ],
+   "featured": true,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "enterprise-servers",
+    "servers-workstations"
+   ],
+   "summary": "Flagship 256-core Zen 6 EPYC with 1 GB of L3 cache, 16-channel DDR5/MRDIMM and PCIe 6.0.",
+   "description": "The AMD EPYC 9996 is a 6th Gen EPYC ('Venice', 'Zen 6') server processor with 256 cores / 512 threads, a 2.55 GHz base and up to 4.1 GHz boost, and 1024 MB of L3 cache. It uses the SP7 platform (1P/2P) with 16 channels of DDR5 RDIMM (up to 8000 MT/s) or MRDIMM (up to 12800 MT/s) and PCIe 6.0 x96 per socket. AMD lists a 600 W default CPU power (range 400-600 W).",
+   "keywords": "epyc 9996 venice zen 6 9006 server cpu sp7 data center",
+   "specs": {
+    "cores": 256,
+    "threads": 512,
+    "baseGhz": 2.55,
+    "boostGhz": 4.1,
+    "socket": "SP7",
+    "tdpW": 600,
+    "memoryChannels": 16
+   }
+  },
+  {
+   "sku": "TK-AMD-EPYC-9966",
+   "slug": "amd-epyc-9966",
+   "name": "AMD EPYC 9966",
+   "brand": "AMD",
+   "category": "server-cpus",
+   "price": "14079.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    4,
+    3
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "enterprise-servers",
+    "servers-workstations"
+   ],
+   "summary": "192-core Zen 6 EPYC server CPU with 768 MB L3 and 16 memory channels.",
+   "description": "The AMD EPYC 9966 is a 6th Gen EPYC ('Venice', 'Zen 6') server processor with 192 cores / 384 threads, a 2.9 GHz base and up to 4.0 GHz boost, and 768 MB of L3 cache. It uses the SP7 platform (1P/2P) with 16 channels of DDR5 RDIMM (up to 8000 MT/s) or MRDIMM (up to 12800 MT/s) and PCIe 6.0 x96 per socket. AMD lists a 600 W default CPU power (range 400-600 W).",
+   "keywords": "epyc 9966 venice zen 6 9006 server cpu sp7 data center",
+   "specs": {
+    "cores": 192,
+    "threads": 384,
+    "baseGhz": 2.9,
+    "boostGhz": 4.0,
+    "socket": "SP7",
+    "tdpW": 600,
+    "memoryChannels": 16
+   }
+  },
+  {
+   "sku": "TK-AMD-EPYC-9756",
+   "slug": "amd-epyc-9756",
+   "name": "AMD EPYC 9756",
+   "brand": "AMD",
+   "category": "server-cpus",
+   "price": "12498.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    13,
+    3
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "enterprise-servers",
+    "servers-workstations"
+   ],
+   "summary": "128-core Zen 6 EPYC server CPU with 512 MB L3 and a 500 W default power.",
+   "description": "The AMD EPYC 9756 is a 6th Gen EPYC ('Venice', 'Zen 6') server processor with 128 cores / 256 threads, a 3.15 GHz base and up to 4.0 GHz boost, and 512 MB of L3 cache. It uses the SP7 platform (1P/2P) with 16 channels of DDR5 RDIMM (up to 8000 MT/s) or MRDIMM (up to 12800 MT/s) and PCIe 6.0 x96 per socket. AMD lists a 500 W default CPU power (range 320-500 W).",
+   "keywords": "epyc 9756 venice zen 6 9006 server cpu sp7 data center",
+   "specs": {
+    "cores": 128,
+    "threads": 256,
+    "baseGhz": 3.15,
+    "boostGhz": 4.0,
+    "socket": "SP7",
+    "tdpW": 500,
+    "memoryChannels": 16
+   }
+  },
+  {
+   "sku": "TK-AMD-EPYC-9656",
+   "slug": "amd-epyc-9656",
+   "name": "AMD EPYC 9656",
+   "brand": "AMD",
+   "category": "server-cpus",
+   "price": "9713.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    12,
+    3
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "enterprise-servers",
+    "servers-workstations"
+   ],
+   "summary": "96-core Zen 6 EPYC server CPU with 512 MB L3 cache and 16-channel memory.",
+   "description": "The AMD EPYC 9656 is a 6th Gen EPYC ('Venice', 'Zen 6') server processor with 96 cores / 192 threads, a 3.05 GHz base and up to 3.7 GHz boost, and 512 MB of L3 cache. It uses the SP7 platform (1P/2P) with 16 channels of DDR5 RDIMM (up to 8000 MT/s) or MRDIMM (up to 12800 MT/s) and PCIe 6.0 x96 per socket. AMD lists a 400 W default CPU power (range 220-400 W).",
+   "keywords": "epyc 9656 venice zen 6 9006 server cpu sp7 data center",
+   "specs": {
+    "cores": 96,
+    "threads": 192,
+    "baseGhz": 3.05,
+    "boostGhz": 3.7,
+    "socket": "SP7",
+    "tdpW": 400,
+    "memoryChannels": 16
+   }
+  },
+  {
+   "sku": "TK-AMD-EPYC-9576F",
+   "slug": "amd-epyc-9576f",
+   "name": "AMD EPYC 9576F",
+   "brand": "AMD",
+   "category": "server-cpus",
+   "price": "9431.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    9,
+    3
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "enterprise-servers",
+    "servers-workstations"
+   ],
+   "summary": "Frequency-optimized 64-core Zen 6 EPYC boosting to 5.0 GHz - built for AI host nodes.",
+   "description": "The AMD EPYC 9576F is a 6th Gen EPYC ('Venice', 'Zen 6') server processor with 64 cores / 128 threads, a 3.55 GHz base and up to 5.0 GHz boost, and 384 MB of L3 cache. It uses the SP8 platform (1P/2P) with 8 channels of DDR5 RDIMM (up to 8000 MT/s) or MRDIMM (up to 12800 MT/s) and PCIe 6.0 x128. AMD lists a 400 W default CPU power (range 200-400 W).",
+   "keywords": "epyc 9576f venice zen 6 9006 server cpu sp8 data center",
+   "specs": {
+    "cores": 64,
+    "threads": 128,
+    "baseGhz": 3.55,
+    "boostGhz": 5.0,
+    "socket": "SP8",
+    "tdpW": 400,
+    "memoryChannels": 8
+   }
+  },
+  {
+   "sku": "TK-AMD-EPYC-9556",
+   "slug": "amd-epyc-9556",
+   "name": "AMD EPYC 9556",
+   "brand": "AMD",
+   "category": "server-cpus",
+   "price": "8008.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    9,
+    3
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "enterprise-servers",
+    "servers-workstations"
+   ],
+   "summary": "64-core Zen 6 EPYC on SP7 with 16-channel memory and a 300 W default power.",
+   "description": "The AMD EPYC 9556 is a 6th Gen EPYC ('Venice', 'Zen 6') server processor with 64 cores / 128 threads, a 2.75 GHz base and up to 4.3 GHz boost, and 384 MB of L3 cache. It uses the SP7 platform (1P/2P) with 16 channels of DDR5 RDIMM (up to 8000 MT/s) or MRDIMM (up to 12800 MT/s) and PCIe 6.0 x96 per socket. AMD lists a 300 W default CPU power (range 220-300 W).",
+   "keywords": "epyc 9556 venice zen 6 9006 server cpu sp7 data center",
+   "specs": {
+    "cores": 64,
+    "threads": 128,
+    "baseGhz": 2.75,
+    "boostGhz": 4.3,
+    "socket": "SP7",
+    "tdpW": 300,
+    "memoryChannels": 16
+   }
+  },
+  {
+   "sku": "TK-AMD-EPYC-9356",
+   "slug": "amd-epyc-9356",
+   "name": "AMD EPYC 9356",
+   "brand": "AMD",
+   "category": "server-cpus",
+   "price": "3789.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    15,
+    3
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "enterprise-servers",
+    "servers-workstations"
+   ],
+   "summary": "32-core Zen 6 EPYC for the 8-channel SP8 platform, boosting to 4.5 GHz.",
+   "description": "The AMD EPYC 9356 is a 6th Gen EPYC ('Venice', 'Zen 6') server processor with 32 cores / 64 threads, a 3.6 GHz base and up to 4.5 GHz boost, and 192 MB of L3 cache. It uses the SP8 platform (1P/2P) with 8 channels of DDR5 RDIMM (up to 8000 MT/s) or MRDIMM (up to 12800 MT/s) and PCIe 6.0 x128. AMD lists a 250 W default CPU power (range 155-300 W).",
+   "keywords": "epyc 9356 venice zen 6 9006 server cpu sp8 data center",
+   "specs": {
+    "cores": 32,
+    "threads": 64,
+    "baseGhz": 3.6,
+    "boostGhz": 4.5,
+    "socket": "SP8",
+    "tdpW": 250,
+    "memoryChannels": 8
+   }
+  },
+  {
+   "sku": "TK-AMD-RX9070",
+   "slug": "amd-radeon-rx-9070",
+   "name": "AMD Radeon RX 9070 16 GB",
+   "brand": "AMD",
+   "category": "gpus",
+   "price": "549.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    11,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "gaming-monsters"
+   ],
+   "summary": "RDNA 4 graphics with 56 compute units, 16 GB GDDR6 and a 220 W typical board power.",
+   "description": "The Radeon RX 9070 is built on AMD RDNA 4 with 56 compute units (3,584 stream processors) and a boost clock of up to 2,520 MHz. It carries 16 GB of GDDR6 on a 256-bit bus (up to 640 GB/s), uses PCIe 5.0 x16, and has a 220 W typical board power with a 650 W minimum PSU recommendation.",
+   "keywords": "radeon rx 9070 rdna 4 16gb 1440p fsr 4 gaming",
+   "specs": {
+    "chipset": "Radeon RX 9070",
+    "architecture": "RDNA 4",
+    "vramGb": 16,
+    "memoryType": "GDDR6",
+    "interface": "PCIe 5.0 x16",
+    "boardPowerW": 220,
+    "recommendedPsuW": 650
+   }
+  },
+  {
+   "sku": "TK-AMD-RX9060XT-16G",
+   "slug": "amd-radeon-rx-9060-xt-16gb",
+   "name": "AMD Radeon RX 9060 XT 16 GB",
+   "brand": "AMD",
+   "category": "gpus",
+   "price": "349.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    23,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "deals"
+   ],
+   "summary": "RDNA 4 1440p graphics card with 32 compute units, 16 GB GDDR6 and boost clocks up to 3.13 GHz.",
+   "description": "The Radeon RX 9060 XT 16GB uses AMD RDNA 4 with 32 compute units (2,048 stream processors) boosting up to 3,130 MHz. It has 16 GB of GDDR6 on a 128-bit bus (up to 320 GB/s) and PCIe 5.0 x16, with a 160 W typical board power and a 450 W minimum PSU recommendation.",
+   "keywords": "radeon rx 9060 xt 16gb rdna 4 1440p budget gaming",
+   "specs": {
+    "chipset": "Radeon RX 9060 XT",
+    "architecture": "RDNA 4",
+    "vramGb": 16,
+    "memoryType": "GDDR6",
+    "interface": "PCIe 5.0 x16",
+    "boardPowerW": 160,
+    "recommendedPsuW": 450,
+    "configurations": "8 GB GDDR6 – $299 · 16 GB GDDR6 – $349"
+   }
+  },
+  {
+   "sku": "TK-AMD-RADEON-AIPRO-R9700",
+   "slug": "amd-radeon-ai-pro-r9700",
+   "name": "AMD Radeon AI PRO R9700 32 GB",
+   "brand": "AMD",
+   "category": "gpus",
+   "price": "1299.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    19,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "ai-workstations",
+    "ai-lab"
+   ],
+   "summary": "RDNA 4 workstation GPU with 32 GB GDDR6 and 64 compute units, built for local AI inference and fine-tuning.",
+   "description": "The Radeon AI PRO R9700 uses AMD RDNA 4 with 64 compute units (4,096 stream processors) and second-generation AI accelerators, boosting up to 2,920 MHz. It has 32 GB of GDDR6 on a 256-bit interface (640 GB/s), PCIe 5.0 x16, a 300 W total board power and an active dual-slot blower cooler that suits multi-GPU workstations.",
+   "keywords": "radeon ai pro r9700 32gb rdna 4 local llm workstation rocm",
+   "specs": {
+    "chipset": "Radeon AI PRO R9700",
+    "architecture": "RDNA 4",
+    "vramGb": 32,
+    "memoryType": "GDDR6",
+    "interface": "PCIe 5.0 x16",
+    "boardPowerW": 300,
+    "recommendedPsuW": 750,
+    "slots": 2
+   }
+  },
+  {
+   "sku": "TK-AMD-RADEON-AIPRO-R9600D",
+   "slug": "amd-radeon-ai-pro-r9600d",
+   "name": "AMD Radeon AI PRO R9600D 32 GB",
+   "brand": "AMD",
+   "category": "gpus",
+   "price": "999.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    42,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "ai-lab"
+   ],
+   "summary": "Single-slot, passively cooled RDNA 4 AI PRO card with 32 GB GDDR6 at 150 W.",
+   "description": "The Radeon AI PRO R9600D is a single-slot, passively cooled RDNA 4 card with 48 compute units (3,072 stream processors) boosting up to 2,020 MHz. It carries 32 GB of GDDR6 on a 256-bit interface (640 GB/s), PCIe 5.0 x16 and a 150 W total board power, with a 450 W minimum PSU recommendation.",
+   "keywords": "radeon ai pro r9600d 32gb passive single slot ai inference",
+   "specs": {
+    "chipset": "Radeon AI PRO R9600D",
+    "architecture": "RDNA 4",
+    "vramGb": 32,
+    "memoryType": "GDDR6",
+    "interface": "PCIe 5.0 x16",
+    "boardPowerW": 150,
+    "recommendedPsuW": 450,
+    "slots": 1
+   }
+  },
+  {
+   "sku": "TK-AMD-RADEON-PRO-W7900",
+   "slug": "amd-radeon-pro-w7900",
+   "name": "AMD Radeon PRO W7900 48 GB",
+   "brand": "AMD",
+   "category": "gpus",
+   "price": "3499.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    6,
+    3
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "creator-workstations"
+   ],
+   "summary": "RDNA 3 professional graphics card with 48 GB GDDR6 ECC-class memory, 96 compute units and 295 W.",
+   "description": "The Radeon PRO W7900 uses AMD RDNA 3 with 96 compute units (6,144 stream processors) and 48 GB of GDDR6 on a 384-bit interface (864 GB/s). It is a triple-slot, 280 mm PCIe 4.0 x16 card with a 295 W total board power and active cooling. AMD still lists it in the current Radeon PRO lineup.",
+   "keywords": "radeon pro w7900 48gb rdna 3 workstation cad",
+   "specs": {
+    "chipset": "Radeon PRO W7900",
+    "architecture": "RDNA 3",
+    "vramGb": 48,
+    "memoryType": "GDDR6",
+    "interface": "PCIe 4.0 x16",
+    "boardPowerW": 295,
+    "recommendedPsuW": 750,
+    "lengthMm": 280,
+    "slots": 3
+   }
+  },
+  {
+   "sku": "TK-AMD-INSTINCT-MI355X",
+   "slug": "amd-instinct-mi355x",
+   "name": "AMD Instinct MI355X",
+   "brand": "AMD",
+   "category": "ai-accelerators",
+   "price": "32000.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    4,
+    2
+   ],
+   "featured": true,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "ai-lab",
+    "enterprise-servers"
+   ],
+   "summary": "CDNA 4 OAM accelerator with 288 GB HBM3E at 8 TB/s and 10.1 PFLOPS MXFP4 for liquid- or air-cooled AI racks.",
+   "description": "The Instinct MI355X is built on 4th Gen AMD CDNA (CDNA 4) with 256 compute units and 16,384 stream processors. It has 288 GB of HBM3E with 8 TB/s peak bandwidth, 7 Infinity Fabric links, and AMD lists 10.1 PFLOPS peak MXFP4/MXFP6 matrix performance at a 1,400 W typical board power in the OAM module form factor.",
+   "keywords": "instinct mi355x cdna 4 hbm3e 288gb oam ai accelerator rocm",
+   "specs": {
+    "architecture": "CDNA 4",
+    "memoryGb": 288,
+    "memoryType": "HBM3E",
+    "bandwidthTbs": 8,
+    "formFactor": "OAM module",
+    "interconnect": "AMD Infinity Fabric (7 links, 153 GB/s each)",
+    "tdpW": 1400
+   }
+  },
+  {
+   "sku": "TK-AMD-INSTINCT-MI350X",
+   "slug": "amd-instinct-mi350x",
+   "name": "AMD Instinct MI350X",
+   "brand": "AMD",
+   "category": "ai-accelerators",
+   "price": "25000.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    3,
+    2
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "ai-lab",
+    "enterprise-servers"
+   ],
+   "summary": "Air-cooled CDNA 4 OAM accelerator with 288 GB HBM3E, 8 TB/s and a 1,000 W typical board power.",
+   "description": "The Instinct MI350X uses CDNA 4 with 256 compute units and 288 GB of HBM3E at 8 TB/s. AMD lists 9.2 PFLOPS peak MXFP4 matrix performance, 7 Infinity Fabric links and a 1,000 W typical board power in a passively cooled OAM module for air-cooled platforms.",
+   "keywords": "instinct mi350x cdna 4 hbm3e 288gb oam air cooled ai accelerator",
+   "specs": {
+    "architecture": "CDNA 4",
+    "memoryGb": 288,
+    "memoryType": "HBM3E",
+    "bandwidthTbs": 8,
+    "formFactor": "OAM module (passive)",
+    "interconnect": "AMD Infinity Fabric (7 links, 153 GB/s each)",
+    "tdpW": 1000
+   }
+  },
+  {
+   "sku": "TK-AMD-INSTINCT-MI350P",
+   "slug": "amd-instinct-mi350p",
+   "name": "AMD Instinct MI350P PCIe Card",
+   "brand": "AMD",
+   "category": "ai-accelerators",
+   "price": "15000.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    5,
+    3
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "ai-lab"
+   ],
+   "summary": "CDNA 4 PCIe add-in card with 144 GB HBM3E and 4 TB/s for AI inference in standard servers.",
+   "description": "The Instinct MI350P brings CDNA 4 to a passively cooled PCIe 5.0 x16 add-in card with 8,192 stream processors, 144 GB of HBM3E on a 4,096-bit interface (4 TB/s) and 128 MB of last-level cache. AMD lists 4.6 PFLOPS peak MXFP4 and a 600 W maximum typical board power (450 W configurable) via a 12V-2x6 connector.",
+   "keywords": "instinct mi350p pcie card cdna 4 144gb hbm3e inference",
+   "specs": {
+    "architecture": "CDNA 4",
+    "memoryGb": 144,
+    "memoryType": "HBM3E",
+    "bandwidthTbs": 4,
+    "formFactor": "PCIe add-in card (passive)",
+    "interconnect": "PCIe 5.0 x16",
+    "tdpW": 600
+   }
+  },
+  {
+   "sku": "TK-INTEL-CU7-270K-PLUS",
+   "slug": "intel-core-ultra-7-270k-plus",
+   "name": "Intel Core Ultra 7 270K Plus",
+   "brand": "Intel",
+   "category": "cpus",
+   "price": "299.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    35,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "gaming-monsters",
+    "developer-setup"
+   ],
+   "summary": "24-core (8P+16E) Core Ultra 200S Plus desktop CPU with 5.5 GHz turbo, 36 MB cache and DDR5-7200 support.",
+   "description": "The Core Ultra 7 270K Plus is part of the Core Ultra 200S Plus family for LGA1851 / Intel 800-series boards. It has 24 cores (8 Performance + 16 Efficient) and 24 threads, up to 5.5 GHz max turbo, 36 MB Intel Smart Cache, 125 W base power (250 W max turbo), DDR5-7200 support, Intel Graphics with 4 Xe-cores and an NPU for 36 overall peak TOPS. It became available March 26, 2026.",
+   "keywords": "intel core ultra 7 270k plus arrow lake refresh lga1851 200s plus",
+   "specs": {
+    "cores": 24,
+    "threads": 24,
+    "boostGhz": 5.5,
+    "socket": "FCLGA1851",
+    "architecture": "Core Ultra 200S Plus (8P+16E)",
+    "tdpW": 125,
+    "memoryType": "DDR5-7200",
+    "integratedGraphics": true
+   }
+  },
+  {
+   "sku": "TK-INTEL-CU5-250K-PLUS",
+   "slug": "intel-core-ultra-5-250k-plus",
+   "name": "Intel Core Ultra 5 250K Plus",
+   "brand": "Intel",
+   "category": "cpus",
+   "price": "199.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    31,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "deals"
+   ],
+   "summary": "18-core (6P+12E) Core Ultra 200S Plus desktop CPU with 5.3 GHz turbo and 30 MB cache.",
+   "description": "The Core Ultra 5 250K Plus has 18 cores (6 Performance + 12 Efficient) and 18 threads, up to 5.3 GHz max turbo and 30 MB Intel Smart Cache. It is rated at 125 W base power (159 W max turbo), supports DDR5-7200, includes Intel Graphics with 4 Xe-cores and delivers 30 overall peak TOPS, on socket LGA1851.",
+   "keywords": "intel core ultra 5 250k plus arrow lake refresh lga1851 budget",
+   "specs": {
+    "cores": 18,
+    "threads": 18,
+    "boostGhz": 5.3,
+    "socket": "FCLGA1851",
+    "architecture": "Core Ultra 200S Plus (6P+12E)",
+    "tdpW": 125,
+    "memoryType": "DDR5-7200",
+    "integratedGraphics": true
+   }
+  },
+  {
+   "sku": "TK-INTEL-XEON-698X",
+   "slug": "intel-xeon-698x",
+   "name": "Intel Xeon 698X Workstation Processor",
+   "brand": "Intel",
+   "category": "cpus",
+   "price": "8469.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    10,
+    3
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "creator-workstations",
+    "servers-workstations"
+   ],
+   "summary": "86-core Xeon 600 workstation flagship with up to 4.8 GHz turbo, 336 MB cache and 8-channel DDR5/MRDIMM.",
+   "description": "The Xeon 698X heads Intel's Xeon 600 processors for workstations (Granite Rapids, Intel 3). It has 86 cores and 172 threads, a 2.0 GHz base and up to 4.8 GHz turbo, 336 MB of cache and a 350 W TDP on socket FCLGA4710, with 8 memory channels supporting DDR5-6400 and MRDIMM-8000. Intel lists a launch in Q1 2026.",
+   "keywords": "xeon 698x xeon 600 workstation granite rapids 86 core w890",
+   "specs": {
+    "cores": 86,
+    "threads": 172,
+    "boostGhz": 4.8,
+    "socket": "FCLGA4710",
+    "architecture": "Granite Rapids (Redwood Cove+)",
+    "tdpW": 350,
+    "memoryType": "DDR5-6400 / MRDIMM-8000 (8 channels)",
+    "integratedGraphics": false
+   }
+  },
+  {
+   "sku": "TK-INTEL-XEON-6980P",
+   "slug": "intel-xeon-6980p",
+   "name": "Intel Xeon 6980P Processor",
+   "brand": "Intel",
+   "category": "server-cpus",
+   "price": "13955.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    13,
+    3
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "enterprise-servers",
+    "servers-workstations"
+   ],
+   "summary": "128-core Xeon 6 P-core flagship with 504 MB cache and 12-channel DDR5/MRDIMM-8800.",
+   "description": "The Xeon 6980P (Xeon 6 with P-cores (Granite Rapids)) has 128 cores and 256 threads, a 2.0 GHz base and up to 3.9 GHz turbo, 504 MB of cache and a 500 W TDP. It uses socket FCLGA7529 with 12 memory channels (DDR5-6400, MRDIMM-8800) and scales to two sockets.",
+   "keywords": "intel xeon 6980p xeon 6 server cpu fclga7529",
+   "specs": {
+    "cores": 128,
+    "threads": 256,
+    "baseGhz": 2.0,
+    "boostGhz": 3.9,
+    "socket": "FCLGA7529",
+    "tdpW": 500,
+    "memoryChannels": 12
+   }
+  },
+  {
+   "sku": "TK-INTEL-XEON-6972P",
+   "slug": "intel-xeon-6972p",
+   "name": "Intel Xeon 6972P Processor",
+   "brand": "Intel",
+   "category": "server-cpus",
+   "price": "11446.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    6,
+    3
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "enterprise-servers",
+    "servers-workstations"
+   ],
+   "summary": "96-core Xeon 6 P-core processor with a 2.4 GHz base and 480 MB cache.",
+   "description": "The Xeon 6972P (Xeon 6 with P-cores (Granite Rapids)) has 96 cores and 192 threads, a 2.4 GHz base and up to 3.9 GHz turbo, 480 MB of cache and a 500 W TDP. It uses socket FCLGA7529 with 12 memory channels (DDR5-6400, MRDIMM-8800) and scales to two sockets.",
+   "keywords": "intel xeon 6972p xeon 6 server cpu fclga7529",
+   "specs": {
+    "cores": 96,
+    "threads": 192,
+    "baseGhz": 2.4,
+    "boostGhz": 3.9,
+    "socket": "FCLGA7529",
+    "tdpW": 500,
+    "memoryChannels": 12
+   }
+  },
+  {
+   "sku": "TK-INTEL-XEON-6787P",
+   "slug": "intel-xeon-6787p",
+   "name": "Intel Xeon 6787P Processor",
+   "brand": "Intel",
+   "category": "server-cpus",
+   "price": "11648.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    17,
+    3
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "enterprise-servers",
+    "servers-workstations"
+   ],
+   "summary": "86-core Xeon 6 P-core processor for mainstream 8-channel FCLGA4710 servers.",
+   "description": "The Xeon 6787P (Xeon 6 with P-cores (Granite Rapids)) has 86 cores and 172 threads, a 2.0 GHz base and up to 3.8 GHz turbo, 336 MB of cache and a 350 W TDP. It uses socket FCLGA4710 with 8 memory channels (DDR5-6400, MRDIMM-8800) and scales to two sockets.",
+   "keywords": "intel xeon 6787p xeon 6 server cpu fclga4710",
+   "specs": {
+    "cores": 86,
+    "threads": 172,
+    "baseGhz": 2.0,
+    "boostGhz": 3.8,
+    "socket": "FCLGA4710",
+    "tdpW": 350,
+    "memoryChannels": 8
+   }
+  },
+  {
+   "sku": "TK-INTEL-XEON-6990EP",
+   "slug": "intel-xeon-6990e-plus",
+   "name": "Intel Xeon 6990E+ Processor",
+   "brand": "Intel",
+   "category": "server-cpus",
+   "price": "14995.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    15,
+    3
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "enterprise-servers",
+    "servers-workstations"
+   ],
+   "summary": "288 E-core Xeon 6+ (Clearwater Forest, Intel 18A) for dense, efficient cloud-native and hyperscale workloads.",
+   "description": "The Xeon 6990E+ (Xeon 6+ with E-cores, formerly Clearwater Forest, Intel 18A) has 288 cores and 288 threads, a 2.2 GHz base and up to 3.2 GHz turbo, 576 MB of cache and a 450 W TDP. It uses socket FCLGA7529 with 12 memory channels (DDR5-8000 RDIMM) and scales to two sockets.",
+   "keywords": "intel xeon 6990e+ xeon 6 server cpu fclga7529",
+   "specs": {
+    "cores": 288,
+    "threads": 288,
+    "baseGhz": 2.2,
+    "boostGhz": 3.2,
+    "socket": "FCLGA7529",
+    "tdpW": 450,
+    "memoryChannels": 12
+   }
+  },
+  {
+   "sku": "TK-INTEL-ARC-B580",
+   "slug": "intel-arc-b580",
+   "name": "Intel Arc B580 Graphics 12 GB",
+   "brand": "Intel",
+   "category": "gpus",
+   "price": "249.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    16,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "deals"
+   ],
+   "summary": "Xe2 'Battlemage' desktop GPU with 20 Xe-cores, 12 GB GDDR6 and 233 peak INT8 TOPS.",
+   "description": "Intel Arc B580 uses the Xe2 (Battlemage) architecture with 20 Xe-cores and 20 ray-tracing units at a 2,670 MHz graphics clock. It has 12 GB of GDDR6 on a 192-bit bus (456 GB/s), a PCIe 4.0 x8 interface and a 190 W total board power, and Intel rates it at 233 peak INT8 TOPS.",
+   "keywords": "intel arc b580 battlemage xe2 12gb budget 1440p gpu",
+   "specs": {
+    "chipset": "Intel Arc B580",
+    "architecture": "Xe2 (Battlemage)",
+    "vramGb": 12,
+    "memoryType": "GDDR6",
+    "interface": "PCIe 4.0 x8",
+    "boardPowerW": 190
+   }
+  },
+  {
+   "sku": "TK-INTEL-ARC-PRO-B70",
+   "slug": "intel-arc-pro-b70",
+   "name": "Intel Arc Pro B70 32 GB",
+   "brand": "Intel",
+   "category": "gpus",
+   "price": "949.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    34,
+    5
+   ],
+   "featured": true,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "ai-workstations",
+    "ai-lab"
+   ],
+   "summary": "32 Xe-core professional GPU with 32 GB GDDR6 and 367 INT8 TOPS for AI inference and pro visualization.",
+   "description": "Arc Pro B70 is Intel's highest-end Arc Pro B-Series card: 32 Xe-cores and 32 ray-tracing units at 2,280 MHz, 32 GB of GDDR6 on a 256-bit interface (608 GB/s) and PCIe 5.0 x16. Intel rates it at 367 peak INT8 TOPS with a 230 W total board power, in a 2-slot, 10.5 in card. It launched March 25, 2026 as an Intel-branded card and via AIB partners.",
+   "keywords": "intel arc pro b70 32gb battlemage workstation ai inference gpu",
+   "specs": {
+    "chipset": "Intel Arc Pro B70",
+    "architecture": "Xe2 (Battlemage)",
+    "vramGb": 32,
+    "memoryType": "GDDR6",
+    "interface": "PCIe 5.0 x16",
+    "boardPowerW": 230,
+    "lengthMm": 267,
+    "slots": 2
+   }
+  },
+  {
+   "sku": "TK-INTEL-ARC-PRO-B60",
+   "slug": "intel-arc-pro-b60",
+   "name": "Intel Arc Pro B60 24 GB",
+   "brand": "Intel",
+   "category": "gpus",
+   "price": "649.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    23,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "ai-lab"
+   ],
+   "summary": "20 Xe-core professional GPU with 24 GB GDDR6 for multi-GPU LLM inference and workstation apps.",
+   "description": "Arc Pro B60 has 20 Xe-cores and 20 ray-tracing units at 2,400 MHz, 24 GB of GDDR6 on a 192-bit interface (456 GB/s) and a PCIe 5.0 x8 interface. Intel rates it at 197 peak INT8 TOPS with a 200 W total board power; it is sold through Intel AIB partners in several form factors.",
+   "keywords": "intel arc pro b60 24gb battlemage workstation llm inference",
+   "specs": {
+    "chipset": "Intel Arc Pro B60",
+    "architecture": "Xe2 (Battlemage)",
+    "vramGb": 24,
+    "memoryType": "GDDR6",
+    "interface": "PCIe 5.0 x8",
+    "boardPowerW": 200
+   }
+  },
+  {
+   "sku": "TK-INTEL-ARC-PRO-B50",
+   "slug": "intel-arc-pro-b50",
+   "name": "Intel Arc Pro B50 16 GB",
+   "brand": "Intel",
+   "category": "gpus",
+   "price": "349.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    24,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "small-business",
+    "creator-workstations"
+   ],
+   "summary": "Compact 70 W, 16 GB professional GPU with 16 Xe-cores in a small-form-factor dual-slot card.",
+   "description": "Arc Pro B50 has 16 Xe-cores and 16 ray-tracing units at 1,700 MHz, 16 GB of GDDR6 on a 128-bit bus (224 GB/s) and a PCIe 5.0 x8 interface. It draws 70 W total board power, is rated at 170 peak INT8 TOPS and measures 6.6 in x 2.7 in in a dual-slot form factor.",
+   "keywords": "intel arc pro b50 16gb small form factor 70w workstation gpu",
+   "specs": {
+    "chipset": "Intel Arc Pro B50",
+    "architecture": "Xe2 (Battlemage)",
+    "vramGb": 16,
+    "memoryType": "GDDR6",
+    "interface": "PCIe 5.0 x8",
+    "boardPowerW": 70,
+    "slots": 2
+   }
+  },
+  {
+   "sku": "TK-INTEL-GAUDI3-HL338",
+   "slug": "intel-gaudi-3-hl-338-pcie",
+   "name": "Intel Gaudi 3 AI Accelerator HL-338 PCIe Card",
+   "brand": "Intel",
+   "category": "ai-accelerators",
+   "price": "15650.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    9,
+    3
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "ai-lab"
+   ],
+   "summary": "Gaudi 3 inference accelerator in a 600 W, full-height dual-slot PCIe Gen5 card with 128 GB HBM2e.",
+   "description": "The Gaudi 3 HL-338 is a full-height, dual-slot, 10.5 in PCIe 5.0 card with a 600 W card TDP. It carries 128 GB of HBM2e at 3.7 TB/s plus 96 MB of on-die SRAM, 8 MME engines and 64 Tensor Processor Cores supporting FP8, BF16, FP16, TF32 and FP32. Up to four cards can be linked with HLTB-304 top boards at 900 GB/s per card.",
+   "keywords": "intel gaudi 3 hl-338 pcie ai accelerator inference hbm2e",
+   "specs": {
+    "architecture": "Intel Gaudi 3",
+    "memoryGb": 128,
+    "memoryType": "HBM2e",
+    "bandwidthTbs": 3.7,
+    "formFactor": "PCIe CEM 5.1 FHFL dual-slot (10.5 in)",
+    "interconnect": "PCIe 5.0 x16; RoCE v2 via HLTB-304 top board (900 GB/s)",
+    "tdpW": 600
+   }
+  },
+  {
+   "sku": "TK-INTEL-E830-CQDA2",
+   "slug": "intel-ethernet-e830-cqda2",
+   "name": "Intel Ethernet Network Adapter E830-CQDA2",
+   "brand": "Intel",
+   "category": "network-adapters",
+   "price": "553.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    46,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "networking-lab",
+    "enterprise-lab"
+   ],
+   "summary": "Dual-port QSFP adapter configurable up to 200GbE on PCIe 5.0, built on the Intel E830 controller.",
+   "description": "The E830-CQDA2 is a dual-port Intel Ethernet adapter on the E830 controller with a PCIe 5.0/4.0 host interface. Ports run at 200/100/50/25/10GbE over copper or fiber, configurable as 1x200, 2x100 (default), 4x50, 2x50 or 8x25 with breakout cables.",
+   "keywords": "intel e830 cqda2 200gbe 100gbe qsfp nic pcie 5.0",
+   "specs": {
+    "ports": "2x QSFP (up to 1x200GbE / 2x100GbE)",
+    "maxSpeedGbps": 200,
+    "managed": false,
+    "rackMountable": false,
+    "interface": "PCIe 5.0 / 4.0"
+   }
+  },
+  {
+   "sku": "TK-INTEL-E830-XXVDA2",
+   "slug": "intel-ethernet-e830-xxvda2",
+   "name": "Intel Ethernet Network Adapter E830-XXVDA2",
+   "brand": "Intel",
+   "category": "network-adapters",
+   "price": "209.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    30,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "homelab-essentials",
+    "networking-lab"
+   ],
+   "summary": "Dual-port 25GbE SFP28 adapter on the Intel E830 controller with a PCIe 4.0 interface.",
+   "description": "The E830-XXVDA2 is a dual-port 25/10/1GbE Intel Ethernet adapter built on the E830 controller, using a PCIe 4.0 (16 GT/s) host interface and supporting copper or fiber cabling.",
+   "keywords": "intel e830 xxvda2 25gbe sfp28 nic homelab server",
+   "specs": {
+    "ports": "2x SFP28 (25/10/1GbE)",
+    "maxSpeedGbps": 25,
+    "managed": false,
+    "rackMountable": false,
+    "interface": "PCIe 4.0"
+   }
+  },
+  {
+   "sku": "TK-INTEL-E610-XT2",
+   "slug": "intel-ethernet-e610-xt2",
+   "name": "Intel Ethernet Network Adapter E610-XT2",
+   "brand": "Intel",
+   "category": "network-adapters",
+   "price": "270.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    16,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "homelab-essentials",
+    "small-business"
+   ],
+   "summary": "Dual-port 10GBASE-T RJ45 adapter supporting 10/5/2.5/1GbE on the Intel E610 controller.",
+   "description": "The E610-XT2 is a dual-port Intel Ethernet adapter using the E610-XAT2 controller, with RJ45 copper ports that run at 10GbE, 5GbE, 2.5GbE or 1GbE.",
+   "keywords": "intel e610 xt2 10gbe rj45 10gbase-t nic multi-gig",
+   "specs": {
+    "ports": "2x RJ45 (10/5/2.5/1GbE)",
+    "maxSpeedGbps": 10,
+    "managed": false,
+    "rackMountable": false,
+    "interface": "PCIe"
+   }
+  }
+ ]
+}
