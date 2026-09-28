@@ -203,6 +203,18 @@
   "licenseUrl": "https://store.acer.com/en-us/predator-helios-neo-16-ai-gaming-laptop-phn16-i71-905p",
   "filePage": "https://store.acer.com/en-us/predator-helios-neo-16-ai-gaming-laptop-phn16-i71-905p"
  },
+ "acer-predator-orion-6000-po6-605": {
+  "large": "/images/catalog/acer-predator-orion-6000-po6-605-800.webp",
+  "small": "/images/catalog/acer-predator-orion-6000-po6-605-400.webp",
+  "width": 800,
+  "height": 800,
+  "alt": "Acer Predator Orion 6000 PO6-605 gaming desktop in white, side view through the glass panel",
+  "match": "EXACT",
+  "author": "Acer",
+  "license": "Manufacturer product image",
+  "licenseUrl": "https://store.acer.com/en-us/predator-orion-6000-gaming-desktop-po6-605-ur18w",
+  "filePage": "https://store.acer.com/en-us/predator-orion-6000-gaming-desktop-po6-605-ur18w"
+ },
  "acer-predator-x27u-f5": {
   "large": "/images/catalog/acer-predator-x27u-f5-800.webp",
   "small": "/images/catalog/acer-predator-x27u-f5-400.webp",
@@ -791,6 +803,18 @@
   "licenseUrl": "https://www.se.com/us/en/product/AP7900B/",
   "filePage": "https://www.se.com/us/en/product/AP7900B/"
  },
+ "apc-netshelter-sx-gen2-42u-ar3100b2": {
+  "large": "/images/catalog/apc-netshelter-sx-gen2-42u-ar3100b2-800.webp",
+  "small": "/images/catalog/apc-netshelter-sx-gen2-42u-ar3100b2-400.webp",
+  "width": 800,
+  "height": 800,
+  "alt": "APC NetShelter SX Gen 2 42U black server rack with perforated front door, front-left view",
+  "match": "EXACT",
+  "author": "Schneider Electric",
+  "license": "Manufacturer product image",
+  "licenseUrl": "https://www.se.com/us/en/product/AR3100B2/",
+  "filePage": "https://www.se.com/us/en/product/AR3100B2/"
+ },
  "apc-netshelter-wx-12u-wallmount-ar112sh4": {
   "large": "/images/catalog/apc-netshelter-wx-12u-wallmount-ar112sh4-800.webp",
   "small": "/images/catalog/apc-netshelter-wx-12u-wallmount-ar112sh4-400.webp",
@@ -802,6 +826,30 @@
   "license": "Manufacturer product image",
   "licenseUrl": "https://www.se.com/us/en/product/AR112SH4/",
   "filePage": "https://www.se.com/us/en/product/AR112SH4/"
+ },
+ "apc-smart-ups-on-line-srt3000rmxla": {
+  "large": "/images/catalog/apc-smart-ups-on-line-srt3000rmxla-800.webp",
+  "small": "/images/catalog/apc-smart-ups-on-line-srt3000rmxla-400.webp",
+  "width": 800,
+  "height": 800,
+  "alt": "APC Smart-UPS On-Line SRT 3000VA 2U rack UPS, front-left view with LCD panel",
+  "match": "EXACT",
+  "author": "Schneider Electric",
+  "license": "Manufacturer product image",
+  "licenseUrl": "https://www.se.com/us/en/product/SRT3000RMXLA/",
+  "filePage": "https://www.se.com/us/en/product/SRT3000RMXLA/"
+ },
+ "apc-smart-ups-ultra-srtl5krm2ut": {
+  "large": "/images/catalog/apc-smart-ups-ultra-srtl5krm2ut-800.webp",
+  "small": "/images/catalog/apc-smart-ups-ultra-srtl5krm2ut-400.webp",
+  "width": 800,
+  "height": 800,
+  "alt": "APC Smart-UPS Ultra On-Line 5kVA lithium-ion 2U rack UPS, front-left view",
+  "match": "EXACT",
+  "author": "Schneider Electric",
+  "license": "Manufacturer product image",
+  "licenseUrl": "https://www.se.com/us/en/product/SRTL5KRM2UT/",
+  "filePage": "https://www.se.com/us/en/product/SRTL5KRM2UT/"
  },
  "apple-140w-usb-c-power-adapter": {
   "large": "/images/catalog/apple-140w-usb-c-power-adapter-800.webp",
@@ -2939,6 +2987,18 @@
   "licenseUrl": "https://www.cisco.com/c/en/us/products/collateral/switches/nexus-9000-series-switches/datasheet-c78-744052.html",
   "filePage": "https://www.cisco.com/c/en/us/products/collateral/switches/nexus-9000-series-switches/datasheet-c78-744052.html"
  },
+ "cisco-secure-firewall-1220cx": {
+  "large": "/images/catalog/cisco-secure-firewall-1220cx-800.webp",
+  "small": "/images/catalog/cisco-secure-firewall-1220cx-400.webp",
+  "width": 800,
+  "height": 800,
+  "alt": "Cisco Secure Firewall 1220CX front panel with eight RJ-45 ports and two SFP ports",
+  "match": "EXACT",
+  "author": "Cisco",
+  "license": "Manufacturer product image",
+  "licenseUrl": "https://www.cisco.com/c/en/us/products/collateral/security/firewalls/secure-firewall-1200-series-ds.html",
+  "filePage": "https://www.cisco.com/c/en/us/products/collateral/security/firewalls/secure-firewall-1200-series-ds.html"
+ },
  "cisco-secure-firewall-3110": {
   "large": "/images/catalog/cisco-secure-firewall-3110-800.webp",
   "small": "/images/catalog/cisco-secure-firewall-3110-400.webp",
@@ -2950,6 +3010,18 @@
   "license": "Manufacturer product image",
   "licenseUrl": "https://www.cisco.com/c/en/us/products/collateral/security/firewalls/secure-firewall-3100-series-ds.html",
   "filePage": "https://www.cisco.com/c/en/us/products/collateral/security/firewalls/secure-firewall-3100-series-ds.html"
+ },
+ "cisco-wireless-cw9172i-wifi-7-access-point": {
+  "large": "/images/catalog/cisco-wireless-cw9172i-wifi-7-access-point-800.webp",
+  "small": "/images/catalog/cisco-wireless-cw9172i-wifi-7-access-point-400.webp",
+  "width": 800,
+  "height": 800,
+  "alt": "Cisco Wireless CW9172I Wi-Fi 7 access point, top view of the white ceiling-mount unit",
+  "match": "EXACT",
+  "author": "Cisco",
+  "license": "Manufacturer product image",
+  "licenseUrl": "https://www.cisco.com/site/us/en/products/networking/wireless/access-points/meraki-access-points/cw9172i.html",
+  "filePage": "https://www.cisco.com/site/us/en/products/networking/wireless/access-points/meraki-access-points/cw9172i.html"
  },
  "corsair-dominator-titanium-rgb-ddr5-64gb-6000-cl30": {
   "large": "/images/catalog/corsair-dominator-titanium-rgb-ddr5-64gb-6000-cl30-800.webp",
@@ -3299,6 +3371,18 @@
   "licenseUrl": "https://www.dell.com/en-us/shop/servers-storage-and-networking/poweredge-r570/spd/poweredge-r570/na_promo_per570_2",
   "filePage": "https://www.dell.com/en-us/shop/servers-storage-and-networking/poweredge-r570/spd/poweredge-r570/na_promo_per570_2"
  },
+ "dell-poweredge-r670": {
+  "large": "/images/catalog/dell-poweredge-r670-800.webp",
+  "small": "/images/catalog/dell-poweredge-r670-400.webp",
+  "width": 800,
+  "height": 800,
+  "alt": "Dell PowerEdge R670 1U rack server, 8x E3.S cold-aisle configuration, front-right view",
+  "match": "EXACT",
+  "author": "Dell",
+  "license": "Manufacturer product image",
+  "licenseUrl": "https://www.dell.com/en-us/shop/servers-storage-and-networking/poweredge-r670/spd/poweredge-r670/pe_r670_tm_vi_vp_sb",
+  "filePage": "https://www.dell.com/en-us/shop/servers-storage-and-networking/poweredge-r670/spd/poweredge-r670/pe_r670_tm_vi_vp_sb"
+ },
  "dell-poweredge-r770": {
   "large": "/images/catalog/dell-poweredge-r770-800.webp",
   "small": "/images/catalog/dell-poweredge-r770-400.webp",
@@ -3611,6 +3695,18 @@
   "licenseUrl": "https://www.dell.com/en-us/shop/monitors/apd/dell-pro-p-27-usb-c-hub-monitor-p2726he/p2726he/-",
   "filePage": "https://www.dell.com/en-us/shop/monitors/apd/dell-pro-p-27-usb-c-hub-monitor-p2726he/p2726he/-"
  },
+ "dell-pro-p-34-usb-c-hub-conferencing-p3426web": {
+  "large": "/images/catalog/dell-pro-p-34-usb-c-hub-conferencing-p3426web-800.webp",
+  "small": "/images/catalog/dell-pro-p-34-usb-c-hub-conferencing-p3426web-400.webp",
+  "width": 800,
+  "height": 800,
+  "alt": "Dell Pro 34 USB-C Hub Conferencing Monitor P3426WEB with pop-up webcam, front-left view",
+  "match": "EXACT",
+  "author": "Dell",
+  "license": "Manufacturer product image",
+  "licenseUrl": "https://www.dell.com/en-us/shop/monitors/apd/dell-pro-p-34-usb-c-hub-conferencing-monitor-p3426web/p3426web/-",
+  "filePage": "https://www.dell.com/en-us/shop/monitors/apd/dell-pro-p-34-usb-c-hub-conferencing-monitor-p3426web/p3426web/-"
+ },
  "dell-pro-precision-5-series-14s-pw514260": {
   "large": "/images/catalog/dell-pro-precision-5-series-14s-pw514260-800.webp",
   "small": "/images/catalog/dell-pro-precision-5-series-14s-pw514260-400.webp",
@@ -3706,6 +3802,18 @@
   "license": "Manufacturer product image",
   "licenseUrl": "https://www.dell.com/en-us/shop/monitors/apd/dell-ultrasharp-27-4k-thunderbolt-hub-monitor-u2725qe/u2725qe_monitor/-",
   "filePage": "https://www.dell.com/en-us/shop/monitors/apd/dell-ultrasharp-27-4k-thunderbolt-hub-monitor-u2725qe/u2725qe_monitor/-"
+ },
+ "dell-ultrasharp-32-4k-qd-oled-u3226q": {
+  "large": "/images/catalog/dell-ultrasharp-32-4k-qd-oled-u3226q-800.webp",
+  "small": "/images/catalog/dell-ultrasharp-32-4k-qd-oled-u3226q-400.webp",
+  "width": 800,
+  "height": 800,
+  "alt": "Dell UltraSharp 32 4K QD-OLED monitor U3226Q, front view",
+  "match": "EXACT",
+  "author": "Dell",
+  "license": "Manufacturer product image",
+  "licenseUrl": "https://www.dell.com/en-us/shop/monitors/apd/dell-ultrasharp-32-4k-qd-oled-monitor-u3226q/u3226q/-",
+  "filePage": "https://www.dell.com/en-us/shop/monitors/apd/dell-ultrasharp-32-4k-qd-oled-monitor-u3226q/u3226q/-"
  },
  "dell-ultrasharp-40-curved-thunderbolt-u4025qw": {
   "large": "/images/catalog/dell-ultrasharp-40-curved-thunderbolt-u4025qw-800.webp",
@@ -5519,6 +5627,18 @@
   "licenseUrl": "https://www.intel.com/content/www/us/en/newsroom/news/core-ultra-200s-series-desktop.html",
   "filePage": "https://www.intel.com/content/www/us/en/newsroom/news/core-ultra-200s-series-desktop.html"
  },
+ "intel-ethernet-e610-xt2": {
+  "large": "/images/catalog/intel-ethernet-e610-xt2-800.webp",
+  "small": "/images/catalog/intel-ethernet-e610-xt2-400.webp",
+  "width": 800,
+  "height": 800,
+  "alt": "Intel Ethernet E610 adapters: dual-port 10GBASE-T PCIe card (E610-XT2) and an OCP 3.0 sibling",
+  "match": "PRODUCT_LINE",
+  "author": "Intel",
+  "license": "Manufacturer product image",
+  "licenseUrl": "https://www.intel.com/content/www/us/en/products/details/ethernet/600-network-adapters/e610-network-adapters.html",
+  "filePage": "https://www.intel.com/content/www/us/en/products/details/ethernet/600-network-adapters/e610-network-adapters.html"
+ },
  "intel-xeon-6787p": {
   "large": "/images/catalog/intel-xeon-6787p-800.webp",
   "small": "/images/catalog/intel-xeon-6787p-400.webp",
@@ -5699,6 +5819,18 @@
   "licenseUrl": "https://www.keychron.com/products/keychron-thunderbolt-5-dock-14-in-1",
   "filePage": "https://www.keychron.com/products/keychron-thunderbolt-5-dock-14-in-1"
  },
+ "kioxia-cd9p-r-7-68tb": {
+  "large": "/images/catalog/kioxia-cd9p-r-7-68tb-800.webp",
+  "small": "/images/catalog/kioxia-cd9p-r-7-68tb-400.webp",
+  "width": 800,
+  "height": 800,
+  "alt": "KIOXIA CD9P Series 2.5-inch data center NVMe SSD, front view",
+  "match": "PRODUCT_LINE",
+  "author": "KIOXIA",
+  "license": "Manufacturer product image",
+  "licenseUrl": "https://americas.kioxia.com/en-us/business/ssd/data-center-ssd/cd9p-r.html",
+  "filePage": "https://americas.kioxia.com/en-us/business/ssd/data-center-ssd/cd9p-r.html"
+ },
  "kioxia-cm9-r-7-68tb": {
   "large": "/images/catalog/kioxia-cm9-r-7-68tb-800.webp",
   "small": "/images/catalog/kioxia-cm9-r-7-68tb-400.webp",
@@ -5771,6 +5903,294 @@
   "licenseUrl": "https://www.kleintools.com/catalog/tone-probe/tone-probe-pro-electrical-wire-tracing-set-batteries-and-carrying-pouch",
   "filePage": "https://www.kleintools.com/catalog/tone-probe/tone-probe-pro-electrical-wire-tracing-set-batteries-and-carrying-pouch"
  },
+ "lenovo-chromebook-i-14-intel": {
+  "large": "/images/catalog/lenovo-chromebook-i-14-intel-800.webp",
+  "small": "/images/catalog/lenovo-chromebook-i-14-intel-400.webp",
+  "width": 800,
+  "height": 800,
+  "alt": "Lenovo Chromebook i 14-inch in Luna Grey, opened, three-quarter front view",
+  "match": "EXACT",
+  "author": "Lenovo",
+  "license": "Manufacturer product image (media library)",
+  "licenseUrl": "https://psref.lenovo.com/Product/Lenovo/Lenovo_Chrome_14ITN11",
+  "filePage": "https://psref.lenovo.com/Product/Lenovo/Lenovo_Chrome_14ITN11"
+ },
+ "lenovo-idea-tab-pro-gen-2": {
+  "large": "/images/catalog/lenovo-idea-tab-pro-gen-2-800.webp",
+  "small": "/images/catalog/lenovo-idea-tab-pro-gen-2-400.webp",
+  "width": 800,
+  "height": 800,
+  "alt": "Lenovo Idea Tab Pro Gen 2 in Cloud Grey, three-quarter front view",
+  "match": "EXACT",
+  "author": "Lenovo",
+  "license": "Manufacturer product image (media library)",
+  "licenseUrl": "https://psref.lenovo.com/Product/Lenovo_Tablets/Idea_Tab_Pro_Gen_2",
+  "filePage": "https://psref.lenovo.com/Product/Lenovo_Tablets/Idea_Tab_Pro_Gen_2"
+ },
+ "lenovo-ideapad-pro-5i-gen-11-16": {
+  "large": "/images/catalog/lenovo-ideapad-pro-5i-gen-11-16-800.webp",
+  "small": "/images/catalog/lenovo-ideapad-pro-5i-gen-11-16-400.webp",
+  "width": 800,
+  "height": 800,
+  "alt": "Lenovo IdeaPad Pro 5i Gen 11 16-inch in Luna Grey, opened, three-quarter front view",
+  "match": "EXACT",
+  "author": "Lenovo",
+  "license": "Manufacturer product image",
+  "licenseUrl": "https://www.lenovo.com/us/en/p/laptops/ideapad/ideapad-pro-series/ideapad-pro-5i-gen-11-16-inch-intel/len101i0129",
+  "filePage": "https://www.lenovo.com/us/en/p/laptops/ideapad/ideapad-pro-series/ideapad-pro-5i-gen-11-16-inch-intel/len101i0129"
+ },
+ "lenovo-ideapad-slim-5i-gen-11-16": {
+  "large": "/images/catalog/lenovo-ideapad-slim-5i-gen-11-16-800.webp",
+  "small": "/images/catalog/lenovo-ideapad-slim-5i-gen-11-16-400.webp",
+  "width": 800,
+  "height": 800,
+  "alt": "Lenovo IdeaPad Slim 5i Gen 11 16-inch in Luna Grey, opened, three-quarter front view",
+  "match": "EXACT",
+  "author": "Lenovo",
+  "license": "Manufacturer product image",
+  "licenseUrl": "https://www.lenovo.com/us/en/p/laptops/ideapad/ideapad-slim-series/lenovo-ideapad-slim-5i-gen-11-16-inch-intel-laptop/len101i0132",
+  "filePage": "https://www.lenovo.com/us/en/p/laptops/ideapad/ideapad-slim-series/lenovo-ideapad-slim-5i-gen-11-16-inch-intel-laptop/len101i0132"
+ },
+ "lenovo-ideapad-slim-5x-gen-11-15": {
+  "large": "/images/catalog/lenovo-ideapad-slim-5x-gen-11-15-800.webp",
+  "small": "/images/catalog/lenovo-ideapad-slim-5x-gen-11-15-400.webp",
+  "width": 800,
+  "height": 800,
+  "alt": "Lenovo IdeaPad Slim 5x Gen 11 15-inch in Cloud Grey, opened, three-quarter front view",
+  "match": "EXACT",
+  "author": "Lenovo",
+  "license": "Manufacturer product image",
+  "licenseUrl": "https://www.lenovo.com/us/en/p/laptops/ideapad/ideapad-slim-series/lenovo-ideapad-slim-5x-gen-11-15-inch-snapdragon/len101i0145",
+  "filePage": "https://www.lenovo.com/us/en/p/laptops/ideapad/ideapad-slim-series/lenovo-ideapad-slim-5x-gen-11-15-inch-snapdragon/len101i0145"
+ },
+ "lenovo-legion-5i-gen-11-15-intel": {
+  "large": "/images/catalog/lenovo-legion-5i-gen-11-15-intel-800.webp",
+  "small": "/images/catalog/lenovo-legion-5i-gen-11-15-intel-400.webp",
+  "width": 800,
+  "height": 800,
+  "alt": "Lenovo Legion 5i Gen 11 in Eclipse Black, opened, three-quarter front view",
+  "match": "EXACT",
+  "author": "Lenovo",
+  "license": "Manufacturer product image",
+  "licenseUrl": "https://www.lenovo.com/us/en/p/laptops/legion-laptops/legion-5-series/legion-5i-gen-11-15-inch-intel-laptop/len101g0053",
+  "filePage": "https://www.lenovo.com/us/en/p/laptops/legion-laptops/legion-5-series/legion-5i-gen-11-15-inch-intel-laptop/len101g0053"
+ },
+ "lenovo-legion-7a-gen-11-16-amd": {
+  "large": "/images/catalog/lenovo-legion-7a-gen-11-16-amd-800.webp",
+  "small": "/images/catalog/lenovo-legion-7a-gen-11-16-amd-400.webp",
+  "width": 800,
+  "height": 800,
+  "alt": "Lenovo Legion 7a Gen 11 in Glacier White, opened, three-quarter front view",
+  "match": "EXACT",
+  "author": "Lenovo",
+  "license": "Manufacturer product image",
+  "licenseUrl": "https://www.lenovo.com/us/en/p/laptops/legion-laptops/legion-7-series/legion-7-gen-11-16-inch-amd/len101g0052",
+  "filePage": "https://www.lenovo.com/us/en/p/laptops/legion-laptops/legion-7-series/legion-7-gen-11-16-inch-amd/len101g0052"
+ },
+ "lenovo-legion-9i-gen-10-18": {
+  "large": "/images/catalog/lenovo-legion-9i-gen-10-18-800.webp",
+  "small": "/images/catalog/lenovo-legion-9i-gen-10-18-400.webp",
+  "width": 800,
+  "height": 800,
+  "alt": "Lenovo Legion 9i Gen 10 18-inch gaming laptop in Eclipse Black, opened, three-quarter front view",
+  "match": "EXACT",
+  "author": "Lenovo",
+  "license": "Manufacturer product image (media library)",
+  "licenseUrl": "https://psref.lenovo.com/Product/Legion/Legion_9_18IAX10",
+  "filePage": "https://psref.lenovo.com/Product/Legion/Legion_9_18IAX10"
+ },
+ "lenovo-legion-go-s-z2-go": {
+  "large": "/images/catalog/lenovo-legion-go-s-z2-go-800.webp",
+  "small": "/images/catalog/lenovo-legion-go-s-z2-go-400.webp",
+  "width": 800,
+  "height": 800,
+  "alt": "Lenovo Legion Go S handheld in Glacier White, front view with controllers and 8-inch screen",
+  "match": "EXACT",
+  "author": "Lenovo",
+  "license": "Manufacturer product image (media library)",
+  "licenseUrl": "https://psref.lenovo.com/Product/Legion/Legion_Go_S_8ARP1",
+  "filePage": "https://psref.lenovo.com/Product/Legion/Legion_Go_S_8ARP1"
+ },
+ "lenovo-legion-pro-27q-10": {
+  "large": "/images/catalog/lenovo-legion-pro-27q-10-800.webp",
+  "small": "/images/catalog/lenovo-legion-pro-27q-10-400.webp",
+  "width": 800,
+  "height": 800,
+  "alt": "Lenovo Legion Pro 27Q-10 27-inch QHD OLED gaming monitor, three-quarter front view on its white hexagonal stand",
+  "match": "EXACT",
+  "author": "Lenovo",
+  "license": "Manufacturer product image",
+  "licenseUrl": "https://www.lenovo.com/us/en/p/accessories-and-software/monitors/gaming/68cfgacbus",
+  "filePage": "https://www.lenovo.com/us/en/p/accessories-and-software/monitors/gaming/68cfgacbus"
+ },
+ "lenovo-legion-pro-27ud-10": {
+  "large": "/images/catalog/lenovo-legion-pro-27ud-10-800.webp",
+  "small": "/images/catalog/lenovo-legion-pro-27ud-10-400.webp",
+  "width": 800,
+  "height": 800,
+  "alt": "Lenovo Legion Pro 27UD-10 27-inch 4K OLED gaming monitor, three-quarter front view on its white hexagonal stand",
+  "match": "EXACT",
+  "author": "Lenovo",
+  "license": "Manufacturer product image",
+  "licenseUrl": "https://www.lenovo.com/us/en/p/accessories-and-software/monitors/gaming/68cegacbus",
+  "filePage": "https://www.lenovo.com/us/en/p/accessories-and-software/monitors/gaming/68cegacbus"
+ },
+ "lenovo-legion-pro-32ud-10": {
+  "large": "/images/catalog/lenovo-legion-pro-32ud-10-800.webp",
+  "small": "/images/catalog/lenovo-legion-pro-32ud-10-400.webp",
+  "width": 800,
+  "height": 800,
+  "alt": "Lenovo Legion Pro 32UD-10 32-inch 4K OLED gaming monitor, three-quarter front view on its white hexagonal stand",
+  "match": "EXACT",
+  "author": "Lenovo",
+  "license": "Manufacturer product image",
+  "licenseUrl": "https://www.lenovo.com/us/en/p/accessories-and-software/monitors/gaming/69d0gacbus",
+  "filePage": "https://www.lenovo.com/us/en/p/accessories-and-software/monitors/gaming/69d0gacbus"
+ },
+ "lenovo-legion-pro-34wd-10": {
+  "large": "/images/catalog/lenovo-legion-pro-34wd-10-800.webp",
+  "small": "/images/catalog/lenovo-legion-pro-34wd-10-400.webp",
+  "width": 800,
+  "height": 800,
+  "alt": "Lenovo Legion Pro 34WD-10 34-inch curved OLED gaming monitor, three-quarter front view on its white stand",
+  "match": "EXACT",
+  "author": "Lenovo",
+  "license": "Manufacturer product image",
+  "licenseUrl": "https://www.lenovo.com/us/en/p/accessories-and-software/monitors/gaming/67c9uac1us",
+  "filePage": "https://www.lenovo.com/us/en/p/accessories-and-software/monitors/gaming/67c9uac1us"
+ },
+ "lenovo-legion-pro-5i-gen-10": {
+  "large": "/images/catalog/lenovo-legion-pro-5i-gen-10-800.webp",
+  "small": "/images/catalog/lenovo-legion-pro-5i-gen-10-400.webp",
+  "width": 800,
+  "height": 800,
+  "alt": "Lenovo Legion Pro 5i Gen 10 in Eclipse Black, opened, raised three-quarter front view with RGB keyboard",
+  "match": "EXACT",
+  "author": "Lenovo",
+  "license": "Manufacturer product image",
+  "licenseUrl": "https://www.lenovo.com/us/en/p/laptops/legion-laptops/legion-pro-series/legion-pro-5i-gen-10-16-inch-intel/len101g0040",
+  "filePage": "https://www.lenovo.com/us/en/p/laptops/legion-laptops/legion-pro-series/legion-pro-5i-gen-10-16-inch-intel/len101g0040"
+ },
+ "lenovo-legion-pro-7i-gen-10": {
+  "large": "/images/catalog/lenovo-legion-pro-7i-gen-10-800.webp",
+  "small": "/images/catalog/lenovo-legion-pro-7i-gen-10-400.webp",
+  "width": 800,
+  "height": 800,
+  "alt": "Lenovo Legion Pro 7i Gen 10 16-inch gaming laptop in a white finish as pictured on lenovo.com, opened, three-quarter front view",
+  "match": "PRODUCT_LINE",
+  "author": "Lenovo",
+  "license": "Manufacturer product image",
+  "licenseUrl": "https://www.lenovo.com/us/en/p/laptops/legion-laptops/legion-pro-series/legion-pro-7i-gen-10-16-inch-intel/len101g0039",
+  "filePage": "https://www.lenovo.com/us/en/p/laptops/legion-laptops/legion-pro-series/legion-pro-7i-gen-10-16-inch-intel/len101g0039"
+ },
+ "lenovo-legion-tab-gen-5": {
+  "large": "/images/catalog/lenovo-legion-tab-gen-5-800.webp",
+  "small": "/images/catalog/lenovo-legion-tab-gen-5-400.webp",
+  "width": 800,
+  "height": 800,
+  "alt": "Lenovo Legion Tab Gen 5 in Eclipse Black, front view of the 8.8-inch display",
+  "match": "EXACT",
+  "author": "Lenovo",
+  "license": "Manufacturer product image (media library)",
+  "licenseUrl": "https://psref.lenovo.com/Product/Lenovo_Tablets/Legion_Tab_8_8_5",
+  "filePage": "https://psref.lenovo.com/Product/Lenovo_Tablets/Legion_Tab_8_8_5"
+ },
+ "lenovo-legion-tower-5i-gen-10": {
+  "large": "/images/catalog/lenovo-legion-tower-5i-gen-10-800.webp",
+  "small": "/images/catalog/lenovo-legion-tower-5i-gen-10-400.webp",
+  "width": 800,
+  "height": 800,
+  "alt": "Lenovo Legion Tower 5i Gen 10 gaming desktop in Eclipse Black, three-quarter view with side glass panel",
+  "match": "EXACT",
+  "author": "Lenovo",
+  "license": "Manufacturer product image",
+  "licenseUrl": "https://www.lenovo.com/us/en/p/desktops/legion-desktops/legion-t-series-towers/lenovo-legion-tower-5i-gen-10-intel/len102g0009",
+  "filePage": "https://www.lenovo.com/us/en/p/desktops/legion-desktops/legion-t-series-towers/lenovo-legion-tower-5i-gen-10-intel/len102g0009"
+ },
+ "lenovo-legion-tower-7i-gen-10": {
+  "large": "/images/catalog/lenovo-legion-tower-7i-gen-10-800.webp",
+  "small": "/images/catalog/lenovo-legion-tower-7i-gen-10-400.webp",
+  "width": 800,
+  "height": 800,
+  "alt": "Lenovo Legion Tower 7i Gen 10 gaming desktop in Storm Grey, front-left three-quarter view with side glass panel",
+  "match": "EXACT",
+  "author": "Lenovo",
+  "license": "Manufacturer product image",
+  "licenseUrl": "https://www.lenovo.com/us/en/p/desktops/legion-desktops/legion-t-series-towers/legion-tower-7i-gen-10/len102g0010",
+  "filePage": "https://www.lenovo.com/us/en/p/desktops/legion-desktops/legion-t-series-towers/legion-tower-7i-gen-10/len102g0010"
+ },
+ "lenovo-pro-9i-gen-11-aura": {
+  "large": "/images/catalog/lenovo-pro-9i-gen-11-aura-800.webp",
+  "small": "/images/catalog/lenovo-pro-9i-gen-11-aura-400.webp",
+  "width": 800,
+  "height": 800,
+  "alt": "Lenovo Pro 9i Aura Edition in Thunder Grey, opened, three-quarter front view",
+  "match": "EXACT",
+  "author": "Lenovo",
+  "license": "Manufacturer product image",
+  "licenseUrl": "https://www.lenovo.com/us/en/p/laptops/yoga/yoga-pro-series/lenovo-pro-9i-gen-11-aura-edition-16-inch-intel/len101l0069",
+  "filePage": "https://www.lenovo.com/us/en/p/laptops/yoga/yoga-pro-series/lenovo-pro-9i-gen-11-aura-edition-16-inch-intel/len101l0069"
+ },
+ "lenovo-slim-7i-gen-11-aura": {
+  "large": "/images/catalog/lenovo-slim-7i-gen-11-aura-800.webp",
+  "small": "/images/catalog/lenovo-slim-7i-gen-11-aura-400.webp",
+  "width": 800,
+  "height": 800,
+  "alt": "Lenovo Slim 7i Aura Edition in Luna Grey, opened, three-quarter front view",
+  "match": "EXACT",
+  "author": "Lenovo",
+  "license": "Manufacturer product image",
+  "licenseUrl": "https://www.lenovo.com/us/en/p/laptops/lenovo/lenovo_slim_series/lenovo-slim-7i-gen-11-aura-edition-14-inch-intel/len101l0068",
+  "filePage": "https://www.lenovo.com/us/en/p/laptops/lenovo/lenovo_slim_series/lenovo-slim-7i-gen-11-aura-edition-14-inch-intel/len101l0068"
+ },
+ "lenovo-tab-plus-gen-2": {
+  "large": "/images/catalog/lenovo-tab-plus-gen-2-800.webp",
+  "small": "/images/catalog/lenovo-tab-plus-gen-2-400.webp",
+  "width": 800,
+  "height": 800,
+  "alt": "Lenovo Tab Plus Gen 2 in Celestial White standing on its built-in kickstand, three-quarter front view",
+  "match": "EXACT",
+  "author": "Lenovo",
+  "license": "Manufacturer product image (media library)",
+  "licenseUrl": "https://psref.lenovo.com/Product/Lenovo_Tablets/Tab_Plus_Gen_2",
+  "filePage": "https://psref.lenovo.com/Product/Lenovo_Tablets/Tab_Plus_Gen_2"
+ },
+ "lenovo-thinkbook-14-gen-9-intel": {
+  "large": "/images/catalog/lenovo-thinkbook-14-gen-9-intel-800.webp",
+  "small": "/images/catalog/lenovo-thinkbook-14-gen-9-intel-400.webp",
+  "width": 800,
+  "height": 800,
+  "alt": "Lenovo ThinkBook 14 Gen 9 in Arctic Grey, opened, three-quarter front view",
+  "match": "EXACT",
+  "author": "Lenovo",
+  "license": "Manufacturer product image (media library)",
+  "licenseUrl": "https://psref.lenovo.com/Product/ThinkBook/ThinkBook_14_G9_IRL",
+  "filePage": "https://psref.lenovo.com/Product/ThinkBook/ThinkBook_14_G9_IRL"
+ },
+ "lenovo-thinkbook-14x-intel": {
+  "large": "/images/catalog/lenovo-thinkbook-14x-intel-800.webp",
+  "small": "/images/catalog/lenovo-thinkbook-14x-intel-400.webp",
+  "width": 800,
+  "height": 800,
+  "alt": "Lenovo ThinkBook 14x in Luna Grey, opened, three-quarter front view",
+  "match": "EXACT",
+  "author": "Lenovo",
+  "license": "Manufacturer product image",
+  "licenseUrl": "https://www.lenovo.com/us/en/p/laptops/thinkbook/thinkbook-x/thinkbook-14x-14-inch-intel/len101b0066",
+  "filePage": "https://www.lenovo.com/us/en/p/laptops/thinkbook/thinkbook-x/thinkbook-14x-14-inch-intel/len101b0066"
+ },
+ "lenovo-thinkbook-16-gen-9-intel": {
+  "large": "/images/catalog/lenovo-thinkbook-16-gen-9-intel-800.webp",
+  "small": "/images/catalog/lenovo-thinkbook-16-gen-9-intel-400.webp",
+  "width": 800,
+  "height": 800,
+  "alt": "Lenovo ThinkBook 16 Gen 9 in Arctic Grey, opened, three-quarter front view",
+  "match": "EXACT",
+  "author": "Lenovo",
+  "license": "Manufacturer product image (media library)",
+  "licenseUrl": "https://psref.lenovo.com/Product/ThinkBook/ThinkBook_16_G9_IRL",
+  "filePage": "https://psref.lenovo.com/Product/ThinkBook/ThinkBook_16_G9_IRL"
+ },
  "lenovo-thinkcentre-m70q-gen-6-tiny": {
   "large": "/images/catalog/lenovo-thinkcentre-m70q-gen-6-tiny-800.webp",
   "small": "/images/catalog/lenovo-thinkcentre-m70q-gen-6-tiny-400.webp",
@@ -5782,6 +6202,186 @@
   "license": "Manufacturer product image (media library)",
   "licenseUrl": "https://psref.lenovo.com/Product/ThinkCentre/ThinkCentre_M70q_Gen_6",
   "filePage": "https://psref.lenovo.com/Product/ThinkCentre/ThinkCentre_M70q_Gen_6"
+ },
+ "lenovo-thinkpad-e14-gen-8-intel": {
+  "large": "/images/catalog/lenovo-thinkpad-e14-gen-8-intel-800.webp",
+  "small": "/images/catalog/lenovo-thinkpad-e14-gen-8-intel-400.webp",
+  "width": 800,
+  "height": 800,
+  "alt": "Lenovo ThinkPad E14 Gen 8 in Eclipse Black, opened, three-quarter front view",
+  "match": "EXACT",
+  "author": "Lenovo",
+  "license": "Manufacturer product image",
+  "licenseUrl": "https://www.lenovo.com/us/en/p/laptops/thinkpad/thinkpade/thinkpad-e14-gen-8-14-inch-intel/len101t0187",
+  "filePage": "https://www.lenovo.com/us/en/p/laptops/thinkpad/thinkpade/thinkpad-e14-gen-8-14-inch-intel/len101t0187"
+ },
+ "lenovo-thinkpad-p1-gen-9": {
+  "large": "/images/catalog/lenovo-thinkpad-p1-gen-9-800.webp",
+  "small": "/images/catalog/lenovo-thinkpad-p1-gen-9-400.webp",
+  "width": 800,
+  "height": 800,
+  "alt": "Lenovo ThinkPad P1 Gen 9 mobile workstation in black, opened, front view",
+  "match": "EXACT",
+  "author": "Lenovo",
+  "license": "Manufacturer product image (media library)",
+  "licenseUrl": "https://psref.lenovo.com/Product/ThinkPad/ThinkPad_P1_Gen_9",
+  "filePage": "https://psref.lenovo.com/Product/ThinkPad/ThinkPad_P1_Gen_9"
+ },
+ "lenovo-thinkpad-p14s-gen-7-intel": {
+  "large": "/images/catalog/lenovo-thinkpad-p14s-gen-7-intel-800.webp",
+  "small": "/images/catalog/lenovo-thinkpad-p14s-gen-7-intel-400.webp",
+  "width": 800,
+  "height": 800,
+  "alt": "Lenovo ThinkPad P14s Gen 7 mobile workstation in black, opened, front view with a video-editing application on screen",
+  "match": "EXACT",
+  "author": "Lenovo",
+  "license": "Manufacturer product image (media library)",
+  "licenseUrl": "https://psref.lenovo.com/Product/ThinkPad/ThinkPad_P14s_Gen_7_Intel",
+  "filePage": "https://psref.lenovo.com/Product/ThinkPad/ThinkPad_P14s_Gen_7_Intel"
+ },
+ "lenovo-thinkpad-p16-gen-3": {
+  "large": "/images/catalog/lenovo-thinkpad-p16-gen-3-800.webp",
+  "small": "/images/catalog/lenovo-thinkpad-p16-gen-3-400.webp",
+  "width": 800,
+  "height": 800,
+  "alt": "Lenovo ThinkPad P16 Gen 3 mobile workstation in black, opened, front view with a design application on screen",
+  "match": "EXACT",
+  "author": "Lenovo",
+  "license": "Manufacturer product image (media library)",
+  "licenseUrl": "https://psref.lenovo.com/Product/ThinkPad/ThinkPad_P16_Gen_3",
+  "filePage": "https://psref.lenovo.com/Product/ThinkPad/ThinkPad_P16_Gen_3"
+ },
+ "lenovo-thinkpad-p16s-gen-5-amd": {
+  "large": "/images/catalog/lenovo-thinkpad-p16s-gen-5-amd-800.webp",
+  "small": "/images/catalog/lenovo-thinkpad-p16s-gen-5-amd-400.webp",
+  "width": 800,
+  "height": 800,
+  "alt": "Lenovo ThinkPad P16s Gen 5 AMD mobile workstation in black, opened, three-quarter front view with a data visualization on screen",
+  "match": "EXACT",
+  "author": "Lenovo",
+  "license": "Manufacturer product image",
+  "licenseUrl": "https://www.lenovo.com/us/en/p/laptops/thinkpad/thinkpadp/lenovo-thinkpad-p16s-gen-5-16-inch-amd-mobile-workstation/len101t0173",
+  "filePage": "https://www.lenovo.com/us/en/p/laptops/thinkpad/thinkpadp/lenovo-thinkpad-p16s-gen-5-16-inch-amd-mobile-workstation/len101t0173"
+ },
+ "lenovo-thinkpad-t14-gen-7-intel": {
+  "large": "/images/catalog/lenovo-thinkpad-t14-gen-7-intel-800.webp",
+  "small": "/images/catalog/lenovo-thinkpad-t14-gen-7-intel-400.webp",
+  "width": 800,
+  "height": 800,
+  "alt": "Lenovo ThinkPad T14 Gen 7 in Cosmic Blue, opened, front view of the display and keyboard",
+  "match": "EXACT",
+  "author": "Lenovo",
+  "license": "Manufacturer product image",
+  "licenseUrl": "https://www.lenovo.com/us/en/p/laptops/thinkpad/thinkpadt/lenovo-thinkpad-t14-gen-7-14-inch-intel-laptop/len101t0154",
+  "filePage": "https://www.lenovo.com/us/en/p/laptops/thinkpad/thinkpadt/lenovo-thinkpad-t14-gen-7-14-inch-intel-laptop/len101t0154"
+ },
+ "lenovo-thinkpad-t14s-gen-7-intel": {
+  "large": "/images/catalog/lenovo-thinkpad-t14s-gen-7-intel-800.webp",
+  "small": "/images/catalog/lenovo-thinkpad-t14s-gen-7-intel-400.webp",
+  "width": 800,
+  "height": 800,
+  "alt": "Lenovo ThinkPad T14s Gen 7 in Eclipse Black, opened, three-quarter front view",
+  "match": "EXACT",
+  "author": "Lenovo",
+  "license": "Manufacturer product image",
+  "licenseUrl": "https://www.lenovo.com/us/en/p/laptops/thinkpad/thinkpadt/lenovo-thinkpad-t14s-gen-7-14-inch-intel-/len101t0155",
+  "filePage": "https://www.lenovo.com/us/en/p/laptops/thinkpad/thinkpadt/lenovo-thinkpad-t14s-gen-7-14-inch-intel-/len101t0155"
+ },
+ "lenovo-thinkpad-t14s-gen-7-snapdragon": {
+  "large": "/images/catalog/lenovo-thinkpad-t14s-gen-7-snapdragon-800.webp",
+  "small": "/images/catalog/lenovo-thinkpad-t14s-gen-7-snapdragon-400.webp",
+  "width": 800,
+  "height": 800,
+  "alt": "Lenovo ThinkPad T14s Gen 7 Snapdragon in Eclipse Black, opened, three-quarter front view",
+  "match": "EXACT",
+  "author": "Lenovo",
+  "license": "Manufacturer product image",
+  "licenseUrl": "https://www.lenovo.com/us/en/p/laptops/thinkpad/thinkpadt/lenovo-thinkpad-t14s-gen-7-14-inch-snapdragon/len101t0184",
+  "filePage": "https://www.lenovo.com/us/en/p/laptops/thinkpad/thinkpadt/lenovo-thinkpad-t14s-gen-7-14-inch-snapdragon/len101t0184"
+ },
+ "lenovo-thinkpad-t16-gen-5-intel": {
+  "large": "/images/catalog/lenovo-thinkpad-t16-gen-5-intel-800.webp",
+  "small": "/images/catalog/lenovo-thinkpad-t16-gen-5-intel-400.webp",
+  "width": 800,
+  "height": 800,
+  "alt": "Lenovo ThinkPad T16 Gen 5 in Eclipse Black, opened, three-quarter front view",
+  "match": "EXACT",
+  "author": "Lenovo",
+  "license": "Manufacturer product image",
+  "licenseUrl": "https://www.lenovo.com/us/en/p/laptops/thinkpad/thinkpadt/lenovo-thinkpad-t16-gen-5-16-inch-intel/len101t0158",
+  "filePage": "https://www.lenovo.com/us/en/p/laptops/thinkpad/thinkpadt/lenovo-thinkpad-t16-gen-5-16-inch-intel/len101t0158"
+ },
+ "lenovo-thinkpad-x1-2-in-1-gen-11-aura": {
+  "large": "/images/catalog/lenovo-thinkpad-x1-2-in-1-gen-11-aura-800.webp",
+  "small": "/images/catalog/lenovo-thinkpad-x1-2-in-1-gen-11-aura-400.webp",
+  "width": 800,
+  "height": 800,
+  "alt": "Lenovo ThinkPad X1 2-in-1 Gen 11 Aura Edition in Thunder Grey, laptop mode, three-quarter front view",
+  "match": "EXACT",
+  "author": "Lenovo",
+  "license": "Manufacturer product image",
+  "licenseUrl": "https://www.lenovo.com/us/en/p/laptops/thinkpad/thinkpadx1/lenovo-thinkpad-x1-2-in-1-gen--11-aura-edition-14-inch-intel/len101t0160",
+  "filePage": "https://www.lenovo.com/us/en/p/laptops/thinkpad/thinkpadx1/lenovo-thinkpad-x1-2-in-1-gen--11-aura-edition-14-inch-intel/len101t0160"
+ },
+ "lenovo-thinkpad-x1-carbon-gen-14-aura": {
+  "large": "/images/catalog/lenovo-thinkpad-x1-carbon-gen-14-aura-800.webp",
+  "small": "/images/catalog/lenovo-thinkpad-x1-carbon-gen-14-aura-400.webp",
+  "width": 800,
+  "height": 800,
+  "alt": "Lenovo ThinkPad X1 Carbon Gen 14 Aura Edition in black, opened, three-quarter front view of the keyboard and 14-inch display",
+  "match": "EXACT",
+  "author": "Lenovo",
+  "license": "Manufacturer product image",
+  "licenseUrl": "https://www.lenovo.com/us/en/p/laptops/thinkpad/thinkpadx1/lenovo-thinkpad-x1-carbon-gen-14-aura-edition-14-inch-intel/len101t0159",
+  "filePage": "https://www.lenovo.com/us/en/p/laptops/thinkpad/thinkpadx1/lenovo-thinkpad-x1-carbon-gen-14-aura-edition-14-inch-intel/len101t0159"
+ },
+ "lenovo-thinkpad-x13-gen-7-intel": {
+  "large": "/images/catalog/lenovo-thinkpad-x13-gen-7-intel-800.webp",
+  "small": "/images/catalog/lenovo-thinkpad-x13-gen-7-intel-400.webp",
+  "width": 800,
+  "height": 800,
+  "alt": "Lenovo ThinkPad X13 Gen 7 in Eclipse Black, opened, three-quarter front view",
+  "match": "EXACT",
+  "author": "Lenovo",
+  "license": "Manufacturer product image (media library)",
+  "licenseUrl": "https://psref.lenovo.com/Product/ThinkPad/ThinkPad_X13_Gen_7_Intel",
+  "filePage": "https://psref.lenovo.com/Product/ThinkPad/ThinkPad_X13_Gen_7_Intel"
+ },
+ "lenovo-thinkpad-x9-14-gen-1-aura": {
+  "large": "/images/catalog/lenovo-thinkpad-x9-14-gen-1-aura-800.webp",
+  "small": "/images/catalog/lenovo-thinkpad-x9-14-gen-1-aura-400.webp",
+  "width": 800,
+  "height": 800,
+  "alt": "Lenovo ThinkPad X9 14 Aura Edition in Thunder Grey, opened, three-quarter front view",
+  "match": "EXACT",
+  "author": "Lenovo",
+  "license": "Manufacturer product image",
+  "licenseUrl": "https://www.lenovo.com/us/en/p/laptops/thinkpad/thinkpadx9/thinkpad-x9-14-aura-edition-14-inch-intel/len101t0110",
+  "filePage": "https://www.lenovo.com/us/en/p/laptops/thinkpad/thinkpadx9/thinkpad-x9-14-aura-edition-14-inch-intel/len101t0110"
+ },
+ "lenovo-thinkpad-x9-15-gen-1-aura": {
+  "large": "/images/catalog/lenovo-thinkpad-x9-15-gen-1-aura-800.webp",
+  "small": "/images/catalog/lenovo-thinkpad-x9-15-gen-1-aura-400.webp",
+  "width": 800,
+  "height": 800,
+  "alt": "Lenovo ThinkPad X9 15 Aura Edition in Thunder Grey, opened, three-quarter front view",
+  "match": "EXACT",
+  "author": "Lenovo",
+  "license": "Manufacturer product image",
+  "licenseUrl": "https://www.lenovo.com/us/en/p/laptops/thinkpad/thinkpadx9/thinkpad-x9-aura-edition-15-inch-intel/len101t0111",
+  "filePage": "https://www.lenovo.com/us/en/p/laptops/thinkpad/thinkpadx9/thinkpad-x9-aura-edition-15-inch-intel/len101t0111"
+ },
+ "lenovo-thinkpad-x9-15p-gen-1-aura": {
+  "large": "/images/catalog/lenovo-thinkpad-x9-15p-gen-1-aura-800.webp",
+  "small": "/images/catalog/lenovo-thinkpad-x9-15p-gen-1-aura-400.webp",
+  "width": 800,
+  "height": 800,
+  "alt": "Lenovo ThinkPad X9 15p Aura Edition in Thunder Grey, opened, three-quarter front view",
+  "match": "EXACT",
+  "author": "Lenovo",
+  "license": "Manufacturer product image",
+  "licenseUrl": "https://www.lenovo.com/us/en/p/laptops/thinkpad/thinkpadx9/thinkpad-x9-15p-aura-edition-15-inch-intel/len101t0162",
+  "filePage": "https://www.lenovo.com/us/en/p/laptops/thinkpad/thinkpadx9/thinkpad-x9-15p-aura-edition-15-inch-intel/len101t0162"
  },
  "lenovo-thinksystem-sr250-v3": {
   "large": "/images/catalog/lenovo-thinksystem-sr250-v3-800.webp",
@@ -5914,6 +6514,114 @@
   "license": "Manufacturer product image (media library)",
   "licenseUrl": "https://lenovopress.lenovo.com/lp1604-thinksystem-st650-v3-server",
   "filePage": "https://lenovopress.lenovo.com/lp1604-thinksystem-st650-v3-server"
+ },
+ "lenovo-thinkvision-p24qd-40": {
+  "large": "/images/catalog/lenovo-thinkvision-p24qd-40-800.webp",
+  "small": "/images/catalog/lenovo-thinkvision-p24qd-40-400.webp",
+  "width": 800,
+  "height": 800,
+  "alt": "Lenovo ThinkVision P24QD-40 24-inch QHD monitor, three-quarter front view",
+  "match": "EXACT",
+  "author": "Lenovo",
+  "license": "Manufacturer product image (media library)",
+  "licenseUrl": "https://psref.lenovo.com/Product/ThinkVision/ThinkVision_P24QD_40",
+  "filePage": "https://psref.lenovo.com/Product/ThinkVision/ThinkVision_P24QD_40"
+ },
+ "lenovo-thinkvision-p34wd-40": {
+  "large": "/images/catalog/lenovo-thinkvision-p34wd-40-800.webp",
+  "small": "/images/catalog/lenovo-thinkvision-p34wd-40-400.webp",
+  "width": 800,
+  "height": 800,
+  "alt": "Lenovo ThinkVision P34WD-40 34-inch curved docking monitor, three-quarter front view",
+  "match": "EXACT",
+  "author": "Lenovo",
+  "license": "Manufacturer product image (media library)",
+  "licenseUrl": "https://psref.lenovo.com/Product/ThinkVision/ThinkVision_P34WD_40",
+  "filePage": "https://psref.lenovo.com/Product/ThinkVision/ThinkVision_P34WD_40"
+ },
+ "lenovo-yoga-7i-2-in-1-gen-11-aura-14": {
+  "large": "/images/catalog/lenovo-yoga-7i-2-in-1-gen-11-aura-14-800.webp",
+  "small": "/images/catalog/lenovo-yoga-7i-2-in-1-gen-11-aura-14-400.webp",
+  "width": 800,
+  "height": 800,
+  "alt": "Lenovo Yoga 7i 2-in-1 Aura Edition 14-inch in Luna Grey, laptop mode, raised three-quarter view",
+  "match": "EXACT",
+  "author": "Lenovo",
+  "license": "Manufacturer product image",
+  "licenseUrl": "https://www.lenovo.com/us/en/p/laptops/yoga/yoga-2-in-1-series/yoga-7i-2-in-1-gen-11-aura-edition-14-inch-intel/len101y0071",
+  "filePage": "https://www.lenovo.com/us/en/p/laptops/yoga/yoga-2-in-1-series/yoga-7i-2-in-1-gen-11-aura-edition-14-inch-intel/len101y0071"
+ },
+ "lenovo-yoga-9i-2-in-1-gen-11-aura": {
+  "large": "/images/catalog/lenovo-yoga-9i-2-in-1-gen-11-aura-800.webp",
+  "small": "/images/catalog/lenovo-yoga-9i-2-in-1-gen-11-aura-400.webp",
+  "width": 800,
+  "height": 800,
+  "alt": "Lenovo Yoga 9i 2-in-1 Aura Edition in Cosmic Blue, laptop mode, three-quarter front view",
+  "match": "EXACT",
+  "author": "Lenovo",
+  "license": "Manufacturer product image",
+  "licenseUrl": "https://www.lenovo.com/us/en/p/laptops/yoga/yoga-2-in-1-series/lenovo-yoga-9i-2-in-1-gen-11-aura-edition-14-inch-intel/len101y0074",
+  "filePage": "https://www.lenovo.com/us/en/p/laptops/yoga/yoga-2-in-1-series/lenovo-yoga-9i-2-in-1-gen-11-aura-edition-14-inch-intel/len101y0074"
+ },
+ "lenovo-yoga-pro-27ud-10": {
+  "large": "/images/catalog/lenovo-yoga-pro-27ud-10-800.webp",
+  "small": "/images/catalog/lenovo-yoga-pro-27ud-10-400.webp",
+  "width": 800,
+  "height": 800,
+  "alt": "Lenovo Yoga Pro 27UD-10 27-inch 4K OLED monitor with its modular webcam, front view on its grey stand",
+  "match": "EXACT",
+  "author": "Lenovo",
+  "license": "Manufacturer product image",
+  "licenseUrl": "https://www.lenovo.com/us/en/p/accessories-and-software/monitors/home/67e5rac2us",
+  "filePage": "https://www.lenovo.com/us/en/p/accessories-and-software/monitors/home/67e5rac2us"
+ },
+ "lenovo-yoga-pro-7i-gen-11-aura": {
+  "large": "/images/catalog/lenovo-yoga-pro-7i-gen-11-aura-800.webp",
+  "small": "/images/catalog/lenovo-yoga-pro-7i-gen-11-aura-400.webp",
+  "width": 800,
+  "height": 800,
+  "alt": "Lenovo Yoga Pro 7i Aura Edition in Luna Grey, opened, three-quarter front view",
+  "match": "EXACT",
+  "author": "Lenovo",
+  "license": "Manufacturer product image",
+  "licenseUrl": "https://www.lenovo.com/us/en/p/laptops/yoga/yoga-pro-series/lenovo-yoga-pro-7i-gen-11-aura-edition-15-inch-intel/len101y0068",
+  "filePage": "https://www.lenovo.com/us/en/p/laptops/yoga/yoga-pro-series/lenovo-yoga-pro-7i-gen-11-aura-edition-15-inch-intel/len101y0068"
+ },
+ "lenovo-yoga-slim-7i-ultra-gen-11-aura": {
+  "large": "/images/catalog/lenovo-yoga-slim-7i-ultra-gen-11-aura-800.webp",
+  "small": "/images/catalog/lenovo-yoga-slim-7i-ultra-gen-11-aura-400.webp",
+  "width": 800,
+  "height": 800,
+  "alt": "Lenovo Yoga Slim 7i Ultra Aura Edition in Seashell, opened, three-quarter front view",
+  "match": "EXACT",
+  "author": "Lenovo",
+  "license": "Manufacturer product image",
+  "licenseUrl": "https://www.lenovo.com/us/en/p/laptops/yoga/yoga-slim-series/lenovo-yoga-slim-7i-ultra-gen-11-aura-edition-14-inch-intel/len101y0064",
+  "filePage": "https://www.lenovo.com/us/en/p/laptops/yoga/yoga-slim-series/lenovo-yoga-slim-7i-ultra-gen-11-aura-edition-14-inch-intel/len101y0064"
+ },
+ "lenovo-yoga-slim-7x-gen-11-snapdragon": {
+  "large": "/images/catalog/lenovo-yoga-slim-7x-gen-11-snapdragon-800.webp",
+  "small": "/images/catalog/lenovo-yoga-slim-7x-gen-11-snapdragon-400.webp",
+  "width": 800,
+  "height": 800,
+  "alt": "Lenovo Yoga Slim 7x Gen 11 in Cosmic Blue, opened, three-quarter front view",
+  "match": "EXACT",
+  "author": "Lenovo",
+  "license": "Manufacturer product image",
+  "licenseUrl": "https://www.lenovo.com/us/en/p/laptops/yoga/yoga-slim-series/lenovo-yoga-slim-7x-gen-11-14-inch-snapdragon/len101y0066",
+  "filePage": "https://www.lenovo.com/us/en/p/laptops/yoga/yoga-slim-series/lenovo-yoga-slim-7x-gen-11-14-inch-snapdragon/len101y0066"
+ },
+ "lenovo-yoga-tab-gen-2": {
+  "large": "/images/catalog/lenovo-yoga-tab-gen-2-800.webp",
+  "small": "/images/catalog/lenovo-yoga-tab-gen-2-400.webp",
+  "width": 800,
+  "height": 800,
+  "alt": "Lenovo Yoga Tab Gen 2 in Cosmic Blue, rear view showing the camera module",
+  "match": "EXACT",
+  "author": "Lenovo",
+  "license": "Manufacturer product image",
+  "licenseUrl": "https://www.lenovo.com/us/en/p/tablets/android-tablets/yoga-tab-series/lenovo-yoga-tab-gen-2/len103y0003",
+  "filePage": "https://www.lenovo.com/us/en/p/tablets/android-tablets/yoga-tab-series/lenovo-yoga-tab-gen-2/len103y0003"
  },
  "leviton-atlas-x1-cat6a-slimline-patch-cord-6as10": {
   "large": "/images/catalog/leviton-atlas-x1-cat6a-slimline-patch-cord-6as10-800.webp",
@@ -6346,6 +7054,42 @@
   "license": "Manufacturer product image",
   "licenseUrl": "https://www.logitech.com/en-us/shop/p/mx-mechanical",
   "filePage": "https://www.logitech.com/en-us/shop/p/mx-mechanical"
+ },
+ "meta-quest-3s": {
+  "large": "/images/catalog/meta-quest-3s-800.webp",
+  "small": "/images/catalog/meta-quest-3s-400.webp",
+  "width": 800,
+  "height": 800,
+  "alt": "Meta Quest 3S mixed reality headset, front view",
+  "match": "EXACT",
+  "author": "Meta",
+  "license": "Manufacturer product image (press kit)",
+  "licenseUrl": "https://about.fb.com/news/2024/09/meta-quest-3s/",
+  "filePage": "https://about.fb.com/news/2024/09/meta-quest-3s/"
+ },
+ "micron-5400-pro-3-84tb": {
+  "large": "/images/catalog/micron-5400-pro-3-84tb-800.webp",
+  "small": "/images/catalog/micron-5400-pro-3-84tb-400.webp",
+  "width": 800,
+  "height": 800,
+  "alt": "Micron 5400 SATA data center SSD in 2.5-inch and M.2 form factors, studio render on black",
+  "match": "EXACT",
+  "author": "Micron",
+  "license": "Manufacturer product image",
+  "licenseUrl": "https://www.micron.com/products/storage/ssd/data-center-ssd/5400-sata-ssd",
+  "filePage": "https://www.micron.com/products/storage/ssd/data-center-ssd/5400-sata-ssd"
+ },
+ "micron-7600-pro-7-68tb": {
+  "large": "/images/catalog/micron-7600-pro-7-68tb-800.webp",
+  "small": "/images/catalog/micron-7600-pro-7-68tb-400.webp",
+  "width": 800,
+  "height": 800,
+  "alt": "Micron 7600 PCIe Gen5 data center SSD (E3.S form factor), studio render on black",
+  "match": "PRODUCT_LINE",
+  "author": "Micron",
+  "license": "Manufacturer product image",
+  "licenseUrl": "https://www.micron.com/products/storage/ssd/data-center-ssd/7600-ssd",
+  "filePage": "https://www.micron.com/products/storage/ssd/data-center-ssd/7600-ssd"
  },
  "micron-9550-pro-7-68tb-u2": {
   "large": "/images/catalog/micron-9550-pro-7-68tb-u2-800.webp",
@@ -7558,6 +8302,18 @@
   "license": "Manufacturer product image",
   "licenseUrl": "https://www.netgear.com/home/wifi/mesh/rbe770/",
   "filePage": "https://www.netgear.com/home/wifi/mesh/rbe770/"
+ },
+ "netgear-orbi-970-wifi-7-mesh-system-3-pack": {
+  "large": "/images/catalog/netgear-orbi-970-wifi-7-mesh-system-3-pack-800.webp",
+  "small": "/images/catalog/netgear-orbi-970-wifi-7-mesh-system-3-pack-400.webp",
+  "width": 800,
+  "height": 800,
+  "alt": "NETGEAR Orbi 970 Series quad-band WiFi 7 mesh system, three white units",
+  "match": "PRODUCT_LINE",
+  "author": "NETGEAR",
+  "license": "Manufacturer product image",
+  "licenseUrl": "https://www.netgear.com/home/wifi/mesh/rbe973s/",
+  "filePage": "https://www.netgear.com/home/wifi/mesh/rbe973s/"
  },
  "netgear-xs505mv2": {
   "large": "/images/catalog/netgear-xs505mv2-800.webp",
@@ -10259,6 +11015,54 @@
   "licenseUrl": "https://us.sennheiser-hearing.com/products/momentum-true-wireless-5",
   "filePage": "https://us.sennheiser-hearing.com/products/momentum-true-wireless-5"
  },
+ "shure-sm7db": {
+  "large": "/images/catalog/shure-sm7db-800.webp",
+  "small": "/images/catalog/shure-sm7db-400.webp",
+  "width": 800,
+  "height": 800,
+  "alt": "Shure SM7dB dynamic vocal microphone with built-in preamp, hanging three-quarter view",
+  "match": "EXACT",
+  "author": "Shure",
+  "license": "Manufacturer product image",
+  "licenseUrl": "https://www.shure.com/en-US/products/microphones/sm7db",
+  "filePage": "https://www.shure.com/en-US/products/microphones/sm7db"
+ },
+ "solidigm-d3-s4520-3-84tb": {
+  "large": "/images/catalog/solidigm-d3-s4520-3-84tb-800.webp",
+  "small": "/images/catalog/solidigm-d3-s4520-3-84tb-400.webp",
+  "width": 800,
+  "height": 800,
+  "alt": "Solidigm D3-S4520 2.5-inch SATA data center SSD",
+  "match": "EXACT",
+  "author": "Solidigm",
+  "license": "Manufacturer product image",
+  "licenseUrl": "https://www.solidigm.com/products/data-center/d3/s4520.html",
+  "filePage": "https://www.solidigm.com/products/data-center/d3/s4520.html"
+ },
+ "solidigm-d7-p5520-3-84tb": {
+  "large": "/images/catalog/solidigm-d7-p5520-3-84tb-800.webp",
+  "small": "/images/catalog/solidigm-d7-p5520-3-84tb-400.webp",
+  "width": 800,
+  "height": 800,
+  "alt": "Solidigm D7-P5520 PCIe 4.0 U.2 data center SSD",
+  "match": "EXACT",
+  "author": "Solidigm",
+  "license": "Manufacturer product image",
+  "licenseUrl": "https://www.solidigm.com/products/data-center/d7/p5520.html",
+  "filePage": "https://www.solidigm.com/products/data-center/d7/p5520.html"
+ },
+ "solidigm-d7-ps1010-7-68tb": {
+  "large": "/images/catalog/solidigm-d7-ps1010-7-68tb-800.webp",
+  "small": "/images/catalog/solidigm-d7-ps1010-7-68tb-400.webp",
+  "width": 800,
+  "height": 800,
+  "alt": "Solidigm D7-PS1010 PCIe 5.0 data center SSD (E3.S form factor)",
+  "match": "PRODUCT_LINE",
+  "author": "Solidigm",
+  "license": "Manufacturer product image",
+  "licenseUrl": "https://www.solidigm.com/products/data-center/d7/ps1010.html",
+  "filePage": "https://www.solidigm.com/products/data-center/d7/ps1010.html"
+ },
  "sonicwall-nsa-2800-gen-8-firewall": {
   "large": "/images/catalog/sonicwall-nsa-2800-gen-8-firewall-800.webp",
   "small": "/images/catalog/sonicwall-nsa-2800-gen-8-firewall-400.webp",
@@ -10594,6 +11398,18 @@
   "license": "Manufacturer product image",
   "licenseUrl": "https://electronics.sony.com/tv-video/televisions/all-tvs/p/k65a60",
   "filePage": "https://electronics.sony.com/tv-video/televisions/all-tvs/p/k65a60"
+ },
+ "sony-bravia-7-ii": {
+  "large": "/images/catalog/sony-bravia-7-ii-800.webp",
+  "small": "/images/catalog/sony-bravia-7-ii-400.webp",
+  "width": 800,
+  "height": 800,
+  "alt": "Sony BRAVIA 7 II True RGB 4K TV, front view with screen artwork",
+  "match": "EXACT",
+  "author": "Sony Electronics",
+  "license": "Manufacturer product image",
+  "licenseUrl": "https://electronics.sony.com/tv-video/televisions/all-tvs/p/k65xr70m2",
+  "filePage": "https://electronics.sony.com/tv-video/televisions/all-tvs/p/k65xr70m2"
  },
  "sony-bravia-8-ii": {
   "large": "/images/catalog/sony-bravia-8-ii-800.webp",
@@ -11411,6 +12227,18 @@
   "licenseUrl": "https://www.synology.com/en-us/products/SA3610",
   "filePage": "https://www.synology.com/en-us/products/SA3610"
  },
+ "sysracks-srw-12-600-g-12u-wall-cabinet": {
+  "large": "/images/catalog/sysracks-srw-12-600-g-12u-wall-cabinet-800.webp",
+  "small": "/images/catalog/sysracks-srw-12-600-g-12u-wall-cabinet-400.webp",
+  "width": 800,
+  "height": 800,
+  "alt": "Sysracks SRW 12.600 G 12U grey wall-mount network cabinet with glass door, front view",
+  "match": "EXACT",
+  "author": "Sysracks",
+  "license": "Manufacturer product image",
+  "licenseUrl": "https://www.sysracks.com/product/12u-24-depth-24x24x245-wall-mount-19-enclosure-sysracks-srw-12-600-g/",
+  "filePage": "https://www.sysracks.com/product/12u-24-depth-24x24x245-wall-mount-19-enclosure-sysracks-srw-12-600-g/"
+ },
  "tcl-qm7l-sqd-mini-led": {
   "large": "/images/catalog/tcl-qm7l-sqd-mini-led-800.webp",
   "small": "/images/catalog/tcl-qm7l-sqd-mini-led-400.webp",
@@ -11494,6 +12322,30 @@
   "license": "Manufacturer product image",
   "licenseUrl": "https://www.terra-master.com/products/u12-725-plus",
   "filePage": "https://www.terra-master.com/products/u12-725-plus"
+ },
+ "toshiba-mg11-24tb-enterprise-hdd": {
+  "large": "/images/catalog/toshiba-mg11-24tb-enterprise-hdd-800.webp",
+  "small": "/images/catalog/toshiba-mg11-24tb-enterprise-hdd-400.webp",
+  "width": 800,
+  "height": 800,
+  "alt": "Toshiba MG11 24 TB 3.5-inch enterprise hard drive (MG11ACA24TE), label side",
+  "match": "EXACT",
+  "author": "Toshiba Electronic Devices & Storage",
+  "license": "Manufacturer product image",
+  "licenseUrl": "https://toshiba.semicon-storage.com/us/storage/product/data-center-enterprise/cloud-scale-capacity/articles/mg11-series.html",
+  "filePage": "https://toshiba.semicon-storage.com/us/storage/product/data-center-enterprise/cloud-scale-capacity/articles/mg11-series.html"
+ },
+ "toshiba-n300-22tb-nas-hdd": {
+  "large": "/images/catalog/toshiba-n300-22tb-nas-hdd-800.webp",
+  "small": "/images/catalog/toshiba-n300-22tb-nas-hdd-400.webp",
+  "width": 800,
+  "height": 800,
+  "alt": "Toshiba N300 NAS 3.5-inch hard drive, label side",
+  "match": "PRODUCT_LINE",
+  "author": "Toshiba Electronics Europe",
+  "license": "Manufacturer product image",
+  "licenseUrl": "https://www.toshiba-storage.com/products/toshiba-internal-hard-drives-n300/",
+  "filePage": "https://www.toshiba-storage.com/products/toshiba-internal-hard-drives-n300/"
  },
  "tp-link-archer-be230": {
   "large": "/images/catalog/tp-link-archer-be230-800.webp",
@@ -11802,6 +12654,18 @@
   "height": 800,
   "alt": "TrueNAS Mini R 12-bay rackmount ZFS appliance, front view with drive trays",
   "match": "EXACT",
+  "author": "iXsystems",
+  "license": "Manufacturer product image",
+  "licenseUrl": "https://www.truenas.com/truenas-mini/",
+  "filePage": "https://www.truenas.com/truenas-mini/"
+ },
+ "truenas-mini-x": {
+  "large": "/images/catalog/truenas-mini-x-800.webp",
+  "small": "/images/catalog/truenas-mini-x-400.webp",
+  "width": 800,
+  "height": 800,
+  "alt": "TrueNAS Mini X compact NAS, front view with five hot-swap bays",
+  "match": "PRODUCT_LINE",
   "author": "iXsystems",
   "license": "Manufacturer product image",
   "licenseUrl": "https://www.truenas.com/truenas-mini/",

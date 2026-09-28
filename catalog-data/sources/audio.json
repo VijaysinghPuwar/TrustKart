@@ -2501,6 +2501,45 @@
      "alt": "RØDE RØDECaster Pro II in White, official product photo on a light background"
     }
    }
+  },
+  {
+   "sku": "TK-SHURE-SM7DB",
+   "slug": "shure-sm7db",
+   "name": "Shure SM7dB",
+   "brand": "Shure",
+   "category": "microphones",
+   "price": "549.00",
+   "priceBasis": "msrp",
+   "priceSource": "https://www.shure.com/en-US/products/microphones/sm7db",
+   "priceAsOf": "2026-09-28",
+   "summary": "Dynamic cardioid vocal microphone based on the SM7B with a built-in, switchable +18/+28 dB preamp powered by phantom power.",
+   "description": "SM7dB is Shure's dynamic vocal microphone with a built-in preamp offering +18 dB or +28 dB of extra gain, or bypass. It keeps the classic cardioid pattern and 50 Hz to 20 kHz response, adds internal shock isolation plus bass roll-off and presence boost controls, and needs +48 V phantom power to run the preamp.",
+   "keywords": "sm7db shure dynamic microphone podcast broadcast built-in preamp xlr",
+   "specs": {
+    "connection": "XLR (+48 V phantom power for the built-in preamp)",
+    "micType": "Dynamic with built-in active preamp",
+    "polarPattern": "Cardioid"
+   },
+   "colors": [
+    "Black"
+   ],
+   "collections": [
+    "creator-workstations"
+   ],
+   "sources": {
+    "product": "https://www.shure.com/en-US/products/microphones/sm7db",
+    "retrievedAt": "2026-09-28",
+    "notes": "shureweb.eu) returns HTTP 403 to the catalog pipeline's browser User-Agent, so no asset could be fetched normally."
+   },
+   "image": {
+    "url": "https://products.shureweb.eu/shure_product_db/product_images/files/2a9/0cd/3e-/large_transparent/cfb07d255d437fee46501f9f789efba2.png",
+    "page": "https://www.shure.com/en-US/products/microphones/sm7db",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official Shure product image from shure.com; reuse rights not verified.",
+    "alt": "Shure SM7dB dynamic vocal microphone with built-in preamp, hanging three-quarter view",
+    "match": "EXACT",
+    "credit": "Shure"
+   }
   }
  ]
 }
