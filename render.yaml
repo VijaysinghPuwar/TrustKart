@@ -1,0 +1,58 @@
+# Render Blueprint for the TrustKart API (Dashboard → New → Blueprint → pick this repository).
+# The website itself is on Vercel; vercel.json forwards /api/* to this service.
+# Values marked `sync: false` are secrets: Render asks for them when you create the Blueprint.
+services:
+  - type: web
+    name: trustkart-api
+    runtime: docker
+    rootDir: backend
+    dockerfilePath: ./Dockerfile
+    plan: free
+    region: oregon
+    healthCheckPath: /actuator/health
+    autoDeploy: true
+    envVars:
+      - key: SPRING_PROFILES_ACTIVE
+        value: prod
+      # Tuned for the free plan's 512 MB: tested with the full catalog seeded and a 40-shopper stress test
+      # (about 420 MB used, no out-of-memory).
+      - key: JAVA_TOOL_OPTIONS
+        value: -XX:MaxRAMPercentage=60 -XX:+UseSerialGC -Xss512k -XX:ReservedCodeCacheSize=64m -XX:MaxMetaspaceSize=192m -XX:+ExitOnOutOfMemoryError
+      # PostgreSQL (e.g. Neon). Use the direct host, not the "-pooler" one, and keep sslmode=require:
+      # jdbc:postgresql://<host>/<database>?sslmode=require
+      - key: TRUSTKART_DB_URL
+        sync: false
+      - key: TRUSTKART_DB_USER
+        sync: false
+      - key: TRUSTKART_DB_PASSWORD
+        sync: false
+      # Free database plans allow few connections.
+      - key: TRUSTKART_DB_POOL_SIZE
+        value: "5"
+      # Redis (e.g. Upstash): endpoint host, port 6379, username "default", password; TLS on.
+      - key: TRUSTKART_REDIS_HOST
+        sync: false
+      - key: TRUSTKART_REDIS_PORT
+        value: "6379"
+      - key: TRUSTKART_REDIS_USERNAME
+        value: default
+      - key: TRUSTKART_REDIS_PASSWORD
+        sync: false
+      - key: TRUSTKART_REDIS_SSL
+        value: "true"
+      # Signs login tokens; Render generates a random value once.
+      - key: TRUSTKART_JWT_SECRET
+        generateValue: true
+      # The address people visit. Pins the Google sign-in callback and allows the site to call the API.
+      - key: TRUSTKART_PUBLIC_ORIGIN
+        value: https://trustkart-xi.vercel.app
+      - key: TRUSTKART_ALLOWED_ORIGINS
+        value: https://trustkart-xi.vercel.app
+      # Loads the 1,192-product catalog on first start; safe to leave on (it never duplicates).
+      - key: TRUSTKART_SEED_CATALOG
+        value: "true"
+      # Optional: Google sign-in. Leave empty to hide the Google button.
+      - key: GOOGLE_CLIENT_ID
+        sync: false
+      - key: GOOGLE_CLIENT_SECRET
+        sync: false

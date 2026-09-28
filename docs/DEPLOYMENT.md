@@ -70,7 +70,7 @@ edge, and the real client is in `X-Forwarded-For`. The backend only believes tha
 1. Import the repository in Vercel and leave **Root Directory** at the repository root. The root `vercel.json`
    installs and builds `frontend/` (`npm ci --prefix frontend`, `npm run build --prefix frontend`) and serves
    `frontend/dist`.
-2. In `vercel.json`, replace `https://api.trustkart.example.com` in the `/api/:path*` rewrite with your
+2. In `vercel.json`, check the `/api/:path*` rewrite points at your
    backend's URL. Rewrites are static configuration; they can't read environment variables.
 3. Deploy. Then set `TRUSTKART_PUBLIC_ORIGIN` and `TRUSTKART_ALLOWED_ORIGINS` on the backend to the Vercel URL
    (or your custom domain) and restart it.
