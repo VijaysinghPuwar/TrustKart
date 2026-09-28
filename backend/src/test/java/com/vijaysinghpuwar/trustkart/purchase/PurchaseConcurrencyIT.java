@@ -134,4 +134,42 @@ class PurchaseConcurrencyIT {
         assertThat(codes).filteredOn(c -> c == 409).hasSize(3);
         assertThat(fixtures.stock(product)).isZero();
     }
+
+    /**
+     * Regression: shoppers whose carts hold the same products in opposite order used to lock inventory rows in
+     * opposite order and deadlock (500 after PostgreSQL's 1 s detection). Stock is now committed in product-id order.
+     */
+    @Test
+    void crossedCartsNeverDeadlock() throws Exception {
+        long a = fixtures.product("10.00", 500);
+        long b = fixtures.product("12.00", 500);
+        List<Browser> shoppers = new ArrayList<>();
+        for (int i = 0; i < 16; i++) {
+            Browser s = new Browser(mvc);
+            long first = i % 2 == 0 ? a : b;
+            long second = i % 2 == 0 ? b : a;
+            s.post("/api/v1/cart/items", "{\"productId\":%d,\"quantity\":1}".formatted(first));
+            s.post("/api/v1/cart/items", "{\"productId\":%d,\"quantity\":1}".formatted(second));
+            shoppers.add(s);
+        }
+        CountDownLatch start = new CountDownLatch(1);
+        ExecutorService pool = Executors.newFixedThreadPool(shoppers.size());
+        List<Future<Integer>> results = new ArrayList<>();
+        for (Browser s : shoppers) {
+            results.add(pool.submit(() -> {
+                start.await();
+                return s.post("/api/v1/purchases", "{\"deliveryPreset\":\"HOME\"}", "Idempotency-Key", UUID.randomUUID().toString())
+                        .andReturn().getResponse().getStatus();
+            }));
+        }
+        start.countDown();
+        List<Integer> codes = new ArrayList<>();
+        for (Future<Integer> f : results) {
+            codes.add(f.get());
+        }
+        pool.shutdown();
+        assertThat(codes).containsOnly(201);
+        assertThat(fixtures.stock(a)).isEqualTo(500 - shoppers.size());
+        assertThat(fixtures.stock(b)).isEqualTo(500 - shoppers.size());
+    }
 }

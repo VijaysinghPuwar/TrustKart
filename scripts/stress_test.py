@@ -180,6 +180,7 @@ def phase_checkout(base: str, shoppers: int) -> list[tuple[Client, str]]:
     statuses: Counter = Counter()
     lat: list[float] = []
     orders: list[tuple[Client, str]] = []
+    sold_out: list[int] = []
     lock = threading.Lock()
 
     def shopper(i: int) -> None:
@@ -208,8 +209,13 @@ def phase_checkout(base: str, shoppers: int) -> list[tuple[Client, str]]:
                 ids.add(r["id"])
             elif s >= 500 or s == 0:
                 fail(f"place -> {s} {r}")
+        codes = [(x[0], (x[1] or {}).get("code")) for x in results]
+        if not ids and all(c == (409, "OUT_OF_STOCK") for c in codes):
+            # Stock is finite and earlier runs deplete it: a clean "sold out" is the correct answer.
+            with lock:
+                sold_out.append(i)
+            return
         if len(ids) != 1:
-            codes = [(x[0], (x[1] or {}).get("code")) for x in results]
             fail(f"double submit produced {len(ids)} orders: {codes}")
             return
         with lock:
@@ -218,8 +224,8 @@ def phase_checkout(base: str, shoppers: int) -> list[tuple[Client, str]]:
     with ThreadPoolExecutor(min(shoppers, 32)) as ex:
         list(ex.map(shopper, range(shoppers)))
     report("checkout", statuses, lat)
-    print(f"  orders placed: {len(orders)}/{shoppers}")
-    if len(orders) != shoppers:
+    print(f"  orders placed: {len(orders)}/{shoppers}, cleanly refused as sold out: {len(sold_out)}")
+    if len(orders) + len(sold_out) != shoppers:
         fail(f"only {len(orders)} of {shoppers} shoppers completed checkout")
     return orders
 

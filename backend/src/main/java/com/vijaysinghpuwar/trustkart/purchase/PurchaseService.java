@@ -141,20 +141,29 @@ public class PurchaseService {
                             "balance", MoneyWire.format(wallet.getBalance()), "total", MoneyWire.format(total)));
         }
 
-        // 4. Commit stock with conditional updates; any failure rolls back the whole purchase.
-        List<VirtualPurchaseItem> items = new ArrayList<>();
-        for (Priced line : lines) {
+        // 4. Commit stock with conditional updates; any failure rolls back the whole purchase. Rows are locked in
+        //    product-id order so two orders sharing products can never wait on each other in a cycle (deadlock).
+        int[] committed = new int[lines.size()];
+        List<Integer> lockOrder = java.util.stream.IntStream.range(0, lines.size()).boxed()
+                .sorted(java.util.Comparator.comparingLong(i -> lines.get(i).product().id())).toList();
+        for (int i : lockOrder) {
+            Priced line = lines.get(i);
             ProductSummary p = line.product();
-            int committed = line.quantity();
+            committed[i] = line.quantity();
             if (!inventory.tryCommit(p.id(), line.quantity())) {
                 if (p.stockStatus() != StockStatus.BACKORDER) {
                     throw new ApiException(ErrorCode.OUT_OF_STOCK, p.name() + " just sold out.", Map.of("productId", p.id()));
                 }
-                committed = 0;
+                committed[i] = 0;
             }
+        }
+        List<VirtualPurchaseItem> items = new ArrayList<>();
+        for (int i = 0; i < lines.size(); i++) {
+            Priced line = lines.get(i);
+            ProductSummary p = line.product();
             items.add(new VirtualPurchaseItem(p.id(), p.slug(), p.name(), p.categoryName(),
                     p.image() == null ? null : p.image().small(), line.optionsLabel(), line.unitPrice(), line.quantity(),
-                    committed));
+                    committed[i]));
         }
 
         // 5. Record the purchase, debit the ledger, clear the cart.
@@ -198,7 +207,8 @@ public class PurchaseService {
         } else {
             throw new ApiException(ErrorCode.RETURN_WINDOW_CLOSED);
         }
-        purchase.getItems().forEach(i -> {
+        // Same product-id lock order as checkout, so a refund and a purchase can't deadlock on inventory rows.
+        purchase.getItems().stream().sorted(java.util.Comparator.comparingLong(VirtualPurchaseItem::getProductId)).forEach(i -> {
             if (i.getStockCommitted() > 0) {
                 inventory.release(i.getProductId(), i.getStockCommitted());
             }
