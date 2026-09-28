@@ -14,9 +14,18 @@ updates:
     groups:
       dev-tooling:
         dependency-type: development
+        # Major tooling upgrades (ESLint, TypeScript) need their plugins to catch up; do those by hand.
+        update-types: [minor, patch]
+    ignore:
+      - dependency-name: "*"
+        update-types: ["version-update:semver-major"]
   - package-ecosystem: github-actions
     directory: /
     schedule: { interval: monthly }
   - package-ecosystem: docker
     directory: /backend
     schedule: { interval: monthly }
+    # Stay on the Java LTS line the tests run on; move to the next LTS deliberately.
+    ignore:
+      - dependency-name: eclipse-temurin
+        update-types: ["version-update:semver-major"]
