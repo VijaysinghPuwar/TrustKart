@@ -253,13 +253,60 @@
     "retrievedAt": "2026-09-28"
    },
    "image": {
-    "url": "https://static.frame.work/oaqsyn656lkly3zrtacd69zfq0oz",
+    "url": "https://static.frame.work/5z46ph2983xq3s2hmp6egzkw3ole",
     "page": "https://frame.work/products/laptop12-diy-intel-series3/configuration/new",
     "sourceType": "manufacturer-product-page",
     "rights": "Official Framework store/configurator product image (static.frame.work); Framework has not granted a reuse license — rights not verified.",
     "credit": "Framework Computer",
-    "alt": "Framework Laptop 12 in Sage green, standing in tent mode with the screen facing forward",
+    "alt": "Framework Laptop 12 in Black, standing in tent mode with the screen facing forward",
     "match": "PRODUCT_LINE"
+   },
+   "colorImages": {
+    "Black": {
+     "url": "https://static.frame.work/5z46ph2983xq3s2hmp6egzkw3ole",
+     "page": "https://frame.work/products/laptop12-diy-intel-series3/configuration/new",
+     "sourceType": "manufacturer-product-page",
+     "rights": "Official Framework store/configurator product image (static.frame.work); Framework has not granted a reuse license — rights not verified.",
+     "credit": "Framework Computer",
+     "alt": "Framework Laptop 12 in Black, standing in tent mode with the screen facing forward",
+     "match": "PRODUCT_LINE"
+    },
+    "Gray": {
+     "url": "https://static.frame.work/3dcxgb4c0pvmm2pkq1t00dbj7uy0",
+     "page": "https://frame.work/products/laptop12-diy-intel-series3/configuration/new",
+     "sourceType": "manufacturer-product-page",
+     "rights": "Official Framework store/configurator product image (static.frame.work); Framework has not granted a reuse license — rights not verified.",
+     "credit": "Framework Computer",
+     "alt": "Framework Laptop 12 in Gray, standing in tent mode with the screen facing forward",
+     "match": "PRODUCT_LINE"
+    },
+    "Lavender": {
+     "url": "https://static.frame.work/m9pa9wiwm2vc8xr01o90tuqwebid",
+     "page": "https://frame.work/products/laptop12-diy-intel-series3/configuration/new",
+     "sourceType": "manufacturer-product-page",
+     "rights": "Official Framework store/configurator product image (static.frame.work); Framework has not granted a reuse license — rights not verified.",
+     "credit": "Framework Computer",
+     "alt": "Framework Laptop 12 in Lavender, standing in tent mode with the screen facing forward",
+     "match": "PRODUCT_LINE"
+    },
+    "Bubblegum": {
+     "url": "https://static.frame.work/jkm6b08kr5zy6aqmqco70jb59e0h",
+     "page": "https://frame.work/products/laptop12-diy-intel-series3/configuration/new",
+     "sourceType": "manufacturer-product-page",
+     "rights": "Official Framework store/configurator product image (static.frame.work); Framework has not granted a reuse license — rights not verified.",
+     "credit": "Framework Computer",
+     "alt": "Framework Laptop 12 in Bubblegum, standing in tent mode with the screen facing forward",
+     "match": "PRODUCT_LINE"
+    },
+    "Sage": {
+     "url": "https://static.frame.work/oaqsyn656lkly3zrtacd69zfq0oz",
+     "page": "https://frame.work/products/laptop12-diy-intel-series3/configuration/new",
+     "sourceType": "manufacturer-product-page",
+     "rights": "Official Framework store/configurator product image (static.frame.work); Framework has not granted a reuse license — rights not verified.",
+     "credit": "Framework Computer",
+     "alt": "Framework Laptop 12 in Sage, standing in tent mode with the screen facing forward",
+     "match": "PRODUCT_LINE"
+    }
    }
   },
   {
@@ -641,11 +688,43 @@
     "url": "https://medias-p1.phoenix.razer.com/sys-master-phoenix-images-container/h9d/h5d/10039373168670/viper-v4-pro-black-2-500x500.png",
     "page": "https://www.razer.com/gaming-mice/razer-viper-v4-pro",
     "sourceType": "manufacturer-product-page",
-    "rights": "Official Razer store studio image from razer.com (medias-p1.phoenix.razer.com). Razer publishes no larger clean studio image of this product (store gallery and newsroom assets are dark lifestyle scenes), so this 500x500 PNG is used with allowLowRes. Razer has not granted a reuse license — rights not verified.",
+    "rights": "Official Razer store studio image from razer.com (medias-p1.phoenix.razer.com); Razer publishes this colour only as a 500x500 PNG, used with allowLowRes. Razer has not granted a reuse license — rights not verified.",
     "credit": "Razer Inc.",
-    "alt": "Razer Viper V4 Pro wireless esports mouse in black, top view",
+    "alt": "Razer Viper V4 Pro in Black, official Razer product photo",
     "match": "EXACT",
     "allowLowRes": true
+   },
+   "colorImages": {
+    "Black": {
+     "url": "https://medias-p1.phoenix.razer.com/sys-master-phoenix-images-container/h9d/h5d/10039373168670/viper-v4-pro-black-2-500x500.png",
+     "page": "https://www.razer.com/gaming-mice/razer-viper-v4-pro",
+     "sourceType": "manufacturer-product-page",
+     "rights": "Official Razer store studio image from razer.com (medias-p1.phoenix.razer.com); Razer publishes this colour only as a 500x500 PNG, used with allowLowRes. Razer has not granted a reuse license — rights not verified.",
+     "credit": "Razer Inc.",
+     "alt": "Razer Viper V4 Pro in Black, official Razer product photo",
+     "match": "EXACT",
+     "allowLowRes": true
+    },
+    "White": {
+     "url": "https://medias-p1.phoenix.razer.com/sys-master-phoenix-images-container/h57/h60/10039373201438/viper-v4-pro-white-2-500x500.png",
+     "page": "https://www.razer.com/gaming-mice/razer-viper-v4-pro",
+     "sourceType": "manufacturer-product-page",
+     "rights": "Official Razer store studio image from razer.com (medias-p1.phoenix.razer.com); Razer publishes this colour only as a 500x500 PNG, used with allowLowRes. Razer has not granted a reuse license — rights not verified.",
+     "credit": "Razer Inc.",
+     "alt": "Razer Viper V4 Pro in White, official Razer product photo",
+     "match": "EXACT",
+     "allowLowRes": true
+    },
+    "Esports Green": {
+     "url": "https://medias-p1.phoenix.razer.com/sys-master-phoenix-images-container/h67/hbc/10289235230750/viper-v4-pro-esports-gr-500x500.png",
+     "page": "https://www.razer.com/gaming-mice/razer-viper-v4-pro",
+     "sourceType": "manufacturer-product-page",
+     "rights": "Official Razer store studio image from razer.com (medias-p1.phoenix.razer.com); Razer publishes this colour only as a 500x500 PNG, used with allowLowRes. Razer has not granted a reuse license — rights not verified.",
+     "credit": "Razer Inc.",
+     "alt": "Razer Viper V4 Pro in Esports Green, official Razer product photo",
+     "match": "EXACT",
+     "allowLowRes": true
+    }
    }
   },
   {
@@ -688,7 +767,8 @@
    ],
    "colors": [
     "Black",
-    "White"
+    "White",
+    "Esports Green"
    ],
    "collections": [
     "ultimate-gaming-setup"
@@ -704,11 +784,43 @@
     "url": "https://medias-p1.phoenix.razer.com/sys-master-phoenix-images-container/h01/hf3/9926511951902/deathadder-v4-pro-black-500x500.png",
     "page": "https://www.razer.com/gaming-mice/razer-deathadder-v4-pro",
     "sourceType": "manufacturer-product-page",
-    "rights": "Official Razer store studio image from razer.com (medias-p1.phoenix.razer.com). Razer publishes no larger clean studio image of this product (store gallery and newsroom assets are dark lifestyle scenes), so this 500x500 PNG is used with allowLowRes. Razer has not granted a reuse license — rights not verified.",
+    "rights": "Official Razer store studio image from razer.com (medias-p1.phoenix.razer.com); Razer publishes this colour only as a 500x500 PNG, used with allowLowRes. Razer has not granted a reuse license — rights not verified.",
     "credit": "Razer Inc.",
-    "alt": "Razer DeathAdder V4 Pro wireless esports mouse in black, top view",
+    "alt": "Razer DeathAdder V4 Pro in Black, official Razer product photo",
     "match": "EXACT",
     "allowLowRes": true
+   },
+   "colorImages": {
+    "Black": {
+     "url": "https://medias-p1.phoenix.razer.com/sys-master-phoenix-images-container/h01/hf3/9926511951902/deathadder-v4-pro-black-500x500.png",
+     "page": "https://www.razer.com/gaming-mice/razer-deathadder-v4-pro",
+     "sourceType": "manufacturer-product-page",
+     "rights": "Official Razer store studio image from razer.com (medias-p1.phoenix.razer.com); Razer publishes this colour only as a 500x500 PNG, used with allowLowRes. Razer has not granted a reuse license — rights not verified.",
+     "credit": "Razer Inc.",
+     "alt": "Razer DeathAdder V4 Pro in Black, official Razer product photo",
+     "match": "EXACT",
+     "allowLowRes": true
+    },
+    "White": {
+     "url": "https://medias-p1.phoenix.razer.com/sys-master-phoenix-images-container/haa/hf2/9926511984670/deathadder-v4-pro-white-500x500.png",
+     "page": "https://www.razer.com/gaming-mice/razer-deathadder-v4-pro",
+     "sourceType": "manufacturer-product-page",
+     "rights": "Official Razer store studio image from razer.com (medias-p1.phoenix.razer.com); Razer publishes this colour only as a 500x500 PNG, used with allowLowRes. Razer has not granted a reuse license — rights not verified.",
+     "credit": "Razer Inc.",
+     "alt": "Razer DeathAdder V4 Pro in White, official Razer product photo",
+     "match": "EXACT",
+     "allowLowRes": true
+    },
+    "Esports Green": {
+     "url": "https://medias-p1.phoenix.razer.com/sys-master-phoenix-images-container/hec/h6a/9980073476126/da-v4-pro-esports-gr-500x500.png",
+     "page": "https://www.razer.com/gaming-mice/razer-deathadder-v4-pro",
+     "sourceType": "manufacturer-product-page",
+     "rights": "Official Razer store studio image from razer.com (medias-p1.phoenix.razer.com); Razer publishes this colour only as a 500x500 PNG, used with allowLowRes. Razer has not granted a reuse license — rights not verified.",
+     "credit": "Razer Inc.",
+     "alt": "Razer DeathAdder V4 Pro in Esports Green, official Razer product photo",
+     "match": "EXACT",
+     "allowLowRes": true
+    }
    }
   },
   {
@@ -760,11 +872,33 @@
     "url": "https://medias-p1.phoenix.razer.com/sys-master-phoenix-images-container/h5a/h1c/9821720576030/basilisk-v3-pro-35k-500x500.png",
     "page": "https://www.razer.com/gaming-mice/razer-basilisk-v3-pro-35k",
     "sourceType": "manufacturer-product-page",
-    "rights": "Official Razer store studio image from razer.com (medias-p1.phoenix.razer.com). Razer publishes no larger clean studio image of this product (store gallery and newsroom assets are dark lifestyle scenes), so this 500x500 PNG is used with allowLowRes. Razer has not granted a reuse license — rights not verified.",
+    "rights": "Official Razer store studio image from razer.com (medias-p1.phoenix.razer.com); Razer publishes this colour only as a 500x500 PNG, used with allowLowRes. Razer has not granted a reuse license — rights not verified.",
     "credit": "Razer Inc.",
-    "alt": "Razer Basilisk V3 Pro 35K wireless gaming mouse in black with Chroma RGB underglow, top view",
+    "alt": "Razer Basilisk V3 Pro 35K in Black, official Razer product photo",
     "match": "EXACT",
     "allowLowRes": true
+   },
+   "colorImages": {
+    "Black": {
+     "url": "https://medias-p1.phoenix.razer.com/sys-master-phoenix-images-container/h5a/h1c/9821720576030/basilisk-v3-pro-35k-500x500.png",
+     "page": "https://www.razer.com/gaming-mice/razer-basilisk-v3-pro-35k",
+     "sourceType": "manufacturer-product-page",
+     "rights": "Official Razer store studio image from razer.com (medias-p1.phoenix.razer.com); Razer publishes this colour only as a 500x500 PNG, used with allowLowRes. Razer has not granted a reuse license — rights not verified.",
+     "credit": "Razer Inc.",
+     "alt": "Razer Basilisk V3 Pro 35K in Black, official Razer product photo",
+     "match": "EXACT",
+     "allowLowRes": true
+    },
+    "White": {
+     "url": "https://medias-p1.phoenix.razer.com/sys-master-phoenix-images-container/heb/h5a/9822063231006/basilisk-v3-pro-35k-white-500x500.png",
+     "page": "https://www.razer.com/gaming-mice/razer-basilisk-v3-pro-35k",
+     "sourceType": "manufacturer-product-page",
+     "rights": "Official Razer store studio image from razer.com (medias-p1.phoenix.razer.com); Razer publishes this colour only as a 500x500 PNG, used with allowLowRes. Razer has not granted a reuse license — rights not verified.",
+     "credit": "Razer Inc.",
+     "alt": "Razer Basilisk V3 Pro 35K in White, official Razer product photo",
+     "match": "EXACT",
+     "allowLowRes": true
+    }
    }
   },
   {
@@ -841,14 +975,28 @@
     "retrievedAt": "2026-09-28"
    },
    "image": {
-    "url": "https://assets2.razerzone.com/images/pnx.assets/608eb80ec16513e41c1a62caf1fb9b55/razer-cobra-pro-hero.webp",
+    "url": "https://medias-p1.phoenix.razer.com/sys-master-phoenix-images-container/h35/hcc/9594549370910/cobra-pro-500x500-2.png",
     "page": "https://www.razer.com/gaming-mice/razer-cobra-pro",
     "sourceType": "manufacturer-product-page",
-    "rights": "Official Razer product image from razer.com (assets2.razerzone.com); Razer has not granted a reuse license — rights not verified.",
+    "rights": "Official Razer store studio image from razer.com (medias-p1.phoenix.razer.com); Razer publishes this colour only as a 500x500 PNG, used with allowLowRes. Razer has not granted a reuse license — rights not verified.",
     "credit": "Razer Inc.",
-    "alt": "Razer Cobra Pro wireless gaming mouse in black, top-down view with Chroma RGB underglow",
-    "match": "EXACT"
-   }
+    "alt": "Razer Cobra Pro in Black, official Razer product photo",
+    "match": "EXACT",
+    "allowLowRes": true
+   },
+   "colorImages": {
+    "Black": {
+     "url": "https://medias-p1.phoenix.razer.com/sys-master-phoenix-images-container/h35/hcc/9594549370910/cobra-pro-500x500-2.png",
+     "page": "https://www.razer.com/gaming-mice/razer-cobra-pro",
+     "sourceType": "manufacturer-product-page",
+     "rights": "Official Razer store studio image from razer.com (medias-p1.phoenix.razer.com); Razer publishes this colour only as a 500x500 PNG, used with allowLowRes. Razer has not granted a reuse license — rights not verified.",
+     "credit": "Razer Inc.",
+     "alt": "Razer Cobra Pro in Black, official Razer product photo",
+     "match": "EXACT",
+     "allowLowRes": true
+    }
+   },
+   "notes": "Colour photos: no official image of at least 480px for White (Razer CDN serves only 300x300 originals), so those colours show the default photo."
   },
   {
    "sku": "TK-RAZER-HUNTSMANV3PRO",
@@ -940,7 +1088,8 @@
    ],
    "colors": [
     "Black",
-    "White"
+    "White",
+    "Esports Green"
    ],
    "collections": [
     "ultimate-gaming-setup"
@@ -956,11 +1105,43 @@
     "url": "https://medias-p1.phoenix.razer.com/sys-master-phoenix-images-container/hb9/h24/9980311076894/huntsman-v3-pro-tkl-8khz-b-500x500.png",
     "page": "https://www.razer.com/gaming-keyboards/razer-huntsman-v3-pro-tenkeyless-8khz",
     "sourceType": "manufacturer-product-page",
-    "rights": "Official Razer store studio image from razer.com (medias-p1.phoenix.razer.com). Razer publishes no larger clean studio image of this product (store gallery and newsroom assets are dark lifestyle scenes), so this 500x500 PNG is used with allowLowRes. Razer has not granted a reuse license — rights not verified.",
+    "rights": "Official Razer store studio image from razer.com (medias-p1.phoenix.razer.com); Razer publishes this colour only as a 500x500 PNG, used with allowLowRes. Razer has not granted a reuse license — rights not verified.",
     "credit": "Razer Inc.",
-    "alt": "Razer Huntsman V3 Pro Tenkeyless 8KHz keyboard in black with wrist rest, top view with RGB lighting",
+    "alt": "Razer Huntsman V3 Pro Tenkeyless 8KHz in Black, official Razer product photo",
     "match": "EXACT",
     "allowLowRes": true
+   },
+   "colorImages": {
+    "Black": {
+     "url": "https://medias-p1.phoenix.razer.com/sys-master-phoenix-images-container/hb9/h24/9980311076894/huntsman-v3-pro-tkl-8khz-b-500x500.png",
+     "page": "https://www.razer.com/gaming-keyboards/razer-huntsman-v3-pro-tenkeyless-8khz",
+     "sourceType": "manufacturer-product-page",
+     "rights": "Official Razer store studio image from razer.com (medias-p1.phoenix.razer.com); Razer publishes this colour only as a 500x500 PNG, used with allowLowRes. Razer has not granted a reuse license — rights not verified.",
+     "credit": "Razer Inc.",
+     "alt": "Razer Huntsman V3 Pro Tenkeyless 8KHz in Black, official Razer product photo",
+     "match": "EXACT",
+     "allowLowRes": true
+    },
+    "White": {
+     "url": "https://medias-p1.phoenix.razer.com/sys-master-phoenix-images-container/h60/h27/9980311109662/huntsman-v3-pro-tkl-8khz-w-500x500.png",
+     "page": "https://www.razer.com/gaming-keyboards/razer-huntsman-v3-pro-tenkeyless-8khz",
+     "sourceType": "manufacturer-product-page",
+     "rights": "Official Razer store studio image from razer.com (medias-p1.phoenix.razer.com); Razer publishes this colour only as a 500x500 PNG, used with allowLowRes. Razer has not granted a reuse license — rights not verified.",
+     "credit": "Razer Inc.",
+     "alt": "Razer Huntsman V3 Pro Tenkeyless 8KHz in White, official Razer product photo",
+     "match": "EXACT",
+     "allowLowRes": true
+    },
+    "Esports Green": {
+     "url": "https://medias-p1.phoenix.razer.com/sys-master-phoenix-images-container/hca/h27/9980311142430/huntsman-v3-pro-tkl-8khz-esports-gr-500x500.png",
+     "page": "https://www.razer.com/gaming-keyboards/razer-huntsman-v3-pro-tenkeyless-8khz",
+     "sourceType": "manufacturer-product-page",
+     "rights": "Official Razer store studio image from razer.com (medias-p1.phoenix.razer.com); Razer publishes this colour only as a 500x500 PNG, used with allowLowRes. Razer has not granted a reuse license — rights not verified.",
+     "credit": "Razer Inc.",
+     "alt": "Razer Huntsman V3 Pro Tenkeyless 8KHz in Esports Green, official Razer product photo",
+     "match": "EXACT",
+     "allowLowRes": true
+    }
    }
   },
   {
@@ -1063,14 +1244,36 @@
     "retrievedAt": "2026-09-28"
    },
    "image": {
-    "url": "https://medias-p1.phoenix.razer.com/sys-master-phoenix-images-container/h25/hdf/10045163929630/240510-BW-V4-Pro-White-500x500.png",
+    "url": "https://medias-p1.phoenix.razer.com/sys-master-phoenix-images-container/hc7/hd5/10045164027934/blackwidow-v3-black-5-500x500.png",
     "page": "https://www.razer.com/gaming-keyboards/razer-blackwidow-v4-pro",
     "sourceType": "manufacturer-product-page",
-    "rights": "Official Razer store studio image from razer.com (medias-p1.phoenix.razer.com). Razer publishes no larger clean studio image of this product (store gallery and newsroom assets are dark lifestyle scenes), so this 500x500 PNG is used with allowLowRes. Razer has not granted a reuse license — rights not verified.",
+    "rights": "Official Razer store studio image from razer.com (medias-p1.phoenix.razer.com); Razer publishes this colour only as a 500x500 PNG, used with allowLowRes. Razer has not granted a reuse license — rights not verified.",
     "credit": "Razer Inc.",
-    "alt": "Razer BlackWidow V4 Pro mechanical keyboard in white with wrist rest, top view with RGB lighting",
+    "alt": "Razer BlackWidow V4 Pro in Black, official Razer product photo",
     "match": "EXACT",
     "allowLowRes": true
+   },
+   "colorImages": {
+    "Black": {
+     "url": "https://medias-p1.phoenix.razer.com/sys-master-phoenix-images-container/hc7/hd5/10045164027934/blackwidow-v3-black-5-500x500.png",
+     "page": "https://www.razer.com/gaming-keyboards/razer-blackwidow-v4-pro",
+     "sourceType": "manufacturer-product-page",
+     "rights": "Official Razer store studio image from razer.com (medias-p1.phoenix.razer.com); Razer publishes this colour only as a 500x500 PNG, used with allowLowRes. Razer has not granted a reuse license — rights not verified.",
+     "credit": "Razer Inc.",
+     "alt": "Razer BlackWidow V4 Pro in Black, official Razer product photo",
+     "match": "EXACT",
+     "allowLowRes": true
+    },
+    "White": {
+     "url": "https://medias-p1.phoenix.razer.com/sys-master-phoenix-images-container/h25/hdf/10045163929630/240510-BW-V4-Pro-White-500x500.png",
+     "page": "https://www.razer.com/gaming-keyboards/razer-blackwidow-v4-pro",
+     "sourceType": "manufacturer-product-page",
+     "rights": "Official Razer store studio image from razer.com (medias-p1.phoenix.razer.com); Razer publishes this colour only as a 500x500 PNG, used with allowLowRes. Razer has not granted a reuse license — rights not verified.",
+     "credit": "Razer Inc.",
+     "alt": "Razer BlackWidow V4 Pro in White, official Razer product photo",
+     "match": "EXACT",
+     "allowLowRes": true
+    }
    }
   },
   {
@@ -1172,7 +1375,20 @@
     "alt": "Razer BlackShark V3 for Xbox wireless headset in white, side view with boom mic",
     "match": "PRODUCT_LINE",
     "allowLowRes": true
-   }
+   },
+   "colorImages": {
+    "White": {
+     "url": "https://medias-p1.phoenix.razer.com/sys-master-phoenix-images-container/h0e/hb9/10023192723486/blackshark-v3-xbox-white-500x500.png",
+     "page": "https://www.razer.com/gaming-headsets/razer-blackshark-v3",
+     "sourceType": "manufacturer-product-page",
+     "rights": "Official Razer store studio image from razer.com (medias-p1.phoenix.razer.com). Razer publishes no larger clean studio image of this product (store gallery and newsroom assets are dark lifestyle scenes), so this 500x500 PNG is used with allowLowRes. Razer has not granted a reuse license — rights not verified.",
+     "credit": "Razer Inc.",
+     "alt": "Razer BlackShark V3 for Xbox wireless headset in white, side view with boom mic",
+     "match": "PRODUCT_LINE",
+     "allowLowRes": true
+    }
+   },
+   "notes": "Colour photos: no official image of at least 480px for Black (Razer CDN serves only 300x300 originals), so those colours show the default photo."
   },
   {
    "sku": "TK-RAZER-KRAKENV4PRO",
@@ -1292,7 +1508,8 @@
    ],
    "colors": [
     "Black",
-    "White"
+    "White",
+    "Esports Green"
    ],
    "collections": [
     "ultimate-gaming-setup"
@@ -1308,11 +1525,43 @@
     "url": "https://medias-p1.phoenix.razer.com/sys-master-phoenix-images-container/h2f/h9d/9809965056030/wolverine-v3-pro-500x500.png",
     "page": "https://www.razer.com/console-controllers/razer-wolverine-v3-pro",
     "sourceType": "manufacturer-product-page",
-    "rights": "Official Razer store studio image from razer.com (medias-p1.phoenix.razer.com). Razer publishes no larger clean studio image of this product (store gallery and newsroom assets are dark lifestyle scenes), so this 500x500 PNG is used with allowLowRes. Razer has not granted a reuse license — rights not verified.",
+    "rights": "Official Razer store studio image from razer.com (medias-p1.phoenix.razer.com); Razer publishes this colour only as a 500x500 PNG, used with allowLowRes. Razer has not granted a reuse license — rights not verified.",
     "credit": "Razer Inc.",
-    "alt": "Razer Wolverine V3 Pro wireless controller for Xbox and PC in black, front view",
+    "alt": "Razer Wolverine V3 Pro in Black, official Razer product photo",
     "match": "EXACT",
     "allowLowRes": true
+   },
+   "colorImages": {
+    "Black": {
+     "url": "https://medias-p1.phoenix.razer.com/sys-master-phoenix-images-container/h2f/h9d/9809965056030/wolverine-v3-pro-500x500.png",
+     "page": "https://www.razer.com/console-controllers/razer-wolverine-v3-pro",
+     "sourceType": "manufacturer-product-page",
+     "rights": "Official Razer store studio image from razer.com (medias-p1.phoenix.razer.com); Razer publishes this colour only as a 500x500 PNG, used with allowLowRes. Razer has not granted a reuse license — rights not verified.",
+     "credit": "Razer Inc.",
+     "alt": "Razer Wolverine V3 Pro in Black, official Razer product photo",
+     "match": "EXACT",
+     "allowLowRes": true
+    },
+    "White": {
+     "url": "https://medias-p1.phoenix.razer.com/sys-master-phoenix-images-container/h71/he7/9870272430110/wolverine-v3-pro-white-500x500.png",
+     "page": "https://www.razer.com/console-controllers/razer-wolverine-v3-pro",
+     "sourceType": "manufacturer-product-page",
+     "rights": "Official Razer store studio image from razer.com (medias-p1.phoenix.razer.com); Razer publishes this colour only as a 500x500 PNG, used with allowLowRes. Razer has not granted a reuse license — rights not verified.",
+     "credit": "Razer Inc.",
+     "alt": "Razer Wolverine V3 Pro in White, official Razer product photo",
+     "match": "EXACT",
+     "allowLowRes": true
+    },
+    "Esports Green": {
+     "url": "https://medias-p1.phoenix.razer.com/sys-master-phoenix-images-container/h3d/h6a/9980073410590/wolv-v3-pro-esports-gr-500x500.png",
+     "page": "https://www.razer.com/console-controllers/razer-wolverine-v3-pro",
+     "sourceType": "manufacturer-product-page",
+     "rights": "Official Razer store studio image from razer.com (medias-p1.phoenix.razer.com); Razer publishes this colour only as a 500x500 PNG, used with allowLowRes. Razer has not granted a reuse license — rights not verified.",
+     "credit": "Razer Inc.",
+     "alt": "Razer Wolverine V3 Pro in Esports Green, official Razer product photo",
+     "match": "EXACT",
+     "allowLowRes": true
+    }
    }
   },
   {
@@ -1528,11 +1777,43 @@
     "url": "https://medias-p1.phoenix.razer.com/sys-master-phoenix-images-container/h3b/h50/10332868771870/kiyo-v2-b-2-500x500.png",
     "page": "https://www.razer.com/streaming-cameras/razer-kiyo-v2",
     "sourceType": "manufacturer-product-page",
-    "rights": "Official Razer store studio image from razer.com (medias-p1.phoenix.razer.com). Razer publishes no larger clean studio image of this product (store gallery and newsroom assets are dark lifestyle scenes), so this 500x500 PNG is used with allowLowRes. Razer has not granted a reuse license — rights not verified.",
+    "rights": "Official Razer store studio image from razer.com (medias-p1.phoenix.razer.com); Razer publishes this colour only as a 500x500 PNG, used with allowLowRes. Razer has not granted a reuse license — rights not verified.",
     "credit": "Razer Inc.",
-    "alt": "Razer Kiyo V2 4K webcam in black, front view",
+    "alt": "Razer Kiyo V2 in Black, official Razer product photo",
     "match": "EXACT",
     "allowLowRes": true
+   },
+   "colorImages": {
+    "Black": {
+     "url": "https://medias-p1.phoenix.razer.com/sys-master-phoenix-images-container/h3b/h50/10332868771870/kiyo-v2-b-2-500x500.png",
+     "page": "https://www.razer.com/streaming-cameras/razer-kiyo-v2",
+     "sourceType": "manufacturer-product-page",
+     "rights": "Official Razer store studio image from razer.com (medias-p1.phoenix.razer.com); Razer publishes this colour only as a 500x500 PNG, used with allowLowRes. Razer has not granted a reuse license — rights not verified.",
+     "credit": "Razer Inc.",
+     "alt": "Razer Kiyo V2 in Black, official Razer product photo",
+     "match": "EXACT",
+     "allowLowRes": true
+    },
+    "White": {
+     "url": "https://medias-p1.phoenix.razer.com/sys-master-phoenix-images-container/h3a/h53/10332868837406/kiyo-v2-white-2-500x500.png",
+     "page": "https://www.razer.com/streaming-cameras/razer-kiyo-v2",
+     "sourceType": "manufacturer-product-page",
+     "rights": "Official Razer store studio image from razer.com (medias-p1.phoenix.razer.com); Razer publishes this colour only as a 500x500 PNG, used with allowLowRes. Razer has not granted a reuse license — rights not verified.",
+     "credit": "Razer Inc.",
+     "alt": "Razer Kiyo V2 in White, official Razer product photo",
+     "match": "EXACT",
+     "allowLowRes": true
+    },
+    "Quartz": {
+     "url": "https://medias-p1.phoenix.razer.com/sys-master-phoenix-images-container/he2/h52/10332868804638/kiyo-v2-quartz-2-500x500.png",
+     "page": "https://www.razer.com/streaming-cameras/razer-kiyo-v2",
+     "sourceType": "manufacturer-product-page",
+     "rights": "Official Razer store studio image from razer.com (medias-p1.phoenix.razer.com); Razer publishes this colour only as a 500x500 PNG, used with allowLowRes. Razer has not granted a reuse license — rights not verified.",
+     "credit": "Razer Inc.",
+     "alt": "Razer Kiyo V2 in Quartz, official Razer product photo",
+     "match": "EXACT",
+     "allowLowRes": true
+    }
    }
   },
   {
@@ -1580,11 +1861,33 @@
     "url": "https://medias-p1.phoenix.razer.com/sys-master-phoenix-images-container/h8a/ha6/9932979666974/thunderbolt-5-dock-chroma-500x500.png",
     "page": "https://www.razer.com/gaming-pc-accessories/razer-thunderbolt-5-dock",
     "sourceType": "manufacturer-product-page",
-    "rights": "Official Razer store studio image from razer.com (medias-p1.phoenix.razer.com). Razer publishes no larger clean studio image of this product (store gallery and newsroom assets are dark lifestyle scenes), so this 500x500 PNG is used with allowLowRes. Razer has not granted a reuse license — rights not verified.",
+    "rights": "Official Razer store studio image from razer.com (medias-p1.phoenix.razer.com); Razer publishes this colour only as a 500x500 PNG, used with allowLowRes. Razer has not granted a reuse license — rights not verified.",
     "credit": "Razer Inc.",
-    "alt": "Razer Thunderbolt 5 Dock Chroma in black with RGB underglow, top view with cables",
+    "alt": "Razer Thunderbolt 5 Dock Chroma in Black, official Razer product photo",
     "match": "EXACT",
     "allowLowRes": true
+   },
+   "colorImages": {
+    "Black": {
+     "url": "https://medias-p1.phoenix.razer.com/sys-master-phoenix-images-container/h8a/ha6/9932979666974/thunderbolt-5-dock-chroma-500x500.png",
+     "page": "https://www.razer.com/gaming-pc-accessories/razer-thunderbolt-5-dock",
+     "sourceType": "manufacturer-product-page",
+     "rights": "Official Razer store studio image from razer.com (medias-p1.phoenix.razer.com); Razer publishes this colour only as a 500x500 PNG, used with allowLowRes. Razer has not granted a reuse license — rights not verified.",
+     "credit": "Razer Inc.",
+     "alt": "Razer Thunderbolt 5 Dock Chroma in Black, official Razer product photo",
+     "match": "EXACT",
+     "allowLowRes": true
+    },
+    "Mercury": {
+     "url": "https://medias-p1.phoenix.razer.com/sys-master-phoenix-images-container/he1/ha6/9932979634206/thunderbolt-5-dock-mercury-500x500.png",
+     "page": "https://www.razer.com/gaming-pc-accessories/razer-thunderbolt-5-dock",
+     "sourceType": "manufacturer-product-page",
+     "rights": "Official Razer store studio image from razer.com (medias-p1.phoenix.razer.com); Razer publishes this colour only as a 500x500 PNG, used with allowLowRes. Razer has not granted a reuse license — rights not verified.",
+     "credit": "Razer Inc.",
+     "alt": "Razer Thunderbolt 5 Dock Chroma in Mercury, official Razer product photo",
+     "match": "EXACT",
+     "allowLowRes": true
+    }
    }
   },
   {

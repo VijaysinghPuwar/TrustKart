@@ -149,9 +149,29 @@
     "page": "https://www.corsair.com/us/en/p/cpu-coolers/cw-9061018-ww/icue-link-titan-360-rx-rgb-aio-liquid-cpu-cooler-cw-9061018-ww",
     "sourceType": "manufacturer-product-page",
     "rights": "Official CORSAIR product-page gallery image (assets.corsair.com); CORSAIR has not granted a reuse license — rights not verified.",
-    "credit": "CORSAIR",
-    "alt": "CORSAIR iCUE LINK TITAN 360 RX RGB black AIO cooler with pump block and 360 mm radiator with three lit fans",
-    "match": "EXACT"
+    "alt": "CORSAIR iCUE LINK TITAN 360 RX RGB AIO cooler in Black with pump block and 360 mm radiator with three lit fans",
+    "match": "EXACT",
+    "credit": "CORSAIR"
+   },
+   "colorImages": {
+    "Black": {
+     "url": "https://assets.corsair.com/image/upload/c_pad,q_auto,h_1600,w_1600,f_png/products/Liquid-Cooling/titan-rx-rgb/Gallery/CW-9061018-WW/CW-9061018-WW_01.webp",
+     "page": "https://www.corsair.com/us/en/p/cpu-coolers/cw-9061018-ww/icue-link-titan-360-rx-rgb-aio-liquid-cpu-cooler-cw-9061018-ww",
+     "sourceType": "manufacturer-product-page",
+     "rights": "Official CORSAIR product-page gallery image (assets.corsair.com); CORSAIR has not granted a reuse license — rights not verified.",
+     "alt": "CORSAIR iCUE LINK TITAN 360 RX RGB AIO cooler in Black with pump block and 360 mm radiator with three lit fans",
+     "match": "EXACT",
+     "credit": "CORSAIR"
+    },
+    "White": {
+     "url": "https://assets.corsair.com/image/upload/c_pad,q_auto,h_1600,w_1600,f_png/products/Liquid-Cooling/titan-rx-rgb/Gallery/CW-9061021-WW/CW-9061021-WW_01.webp",
+     "page": "https://www.corsair.com/us/en/p/cpu-coolers/cw-9061021-ww/icue-link-titan-360-rx-rgb-aio-liquid-cpu-cooler-white-cw-9061021-ww",
+     "sourceType": "manufacturer-product-page",
+     "rights": "Official CORSAIR product-page gallery image (assets.corsair.com); CORSAIR has not granted a reuse license — rights not verified.",
+     "alt": "CORSAIR iCUE LINK TITAN 360 RX RGB AIO cooler in White with pump block and 360 mm radiator with three lit fans",
+     "match": "EXACT",
+     "credit": "CORSAIR"
+    }
    }
   },
   {
@@ -244,9 +264,29 @@
     "page": "https://www.corsair.com/us/en/p/pc-cases/cc-9011296-ww/frame-4000d-rs-argb-modular-mid-tower-pc-case-cc-9011296-ww",
     "sourceType": "manufacturer-product-page",
     "rights": "Official CORSAIR product-page gallery image (assets.corsair.com); CORSAIR has not granted a reuse license — rights not verified.",
-    "credit": "CORSAIR",
-    "alt": "CORSAIR FRAME 4000D RS ARGB black mid-tower case, front three-quarter view with glass side panel and lit fans",
-    "match": "EXACT"
+    "alt": "CORSAIR FRAME 4000D RS ARGB mid-tower case in Black, front three-quarter view with glass side panel and lit fans",
+    "match": "EXACT",
+    "credit": "CORSAIR"
+   },
+   "colorImages": {
+    "Black": {
+     "url": "https://assets.corsair.com/image/upload/c_pad,q_auto,h_1600,w_1600,f_png/products/Cases/frame-4000d/Content/FRAME-4000D-RS-ARGB/Gallery/CC-9011296-WW_01.webp",
+     "page": "https://www.corsair.com/us/en/p/pc-cases/cc-9011296-ww/frame-4000d-rs-argb-modular-mid-tower-pc-case-cc-9011296-ww",
+     "sourceType": "manufacturer-product-page",
+     "rights": "Official CORSAIR product-page gallery image (assets.corsair.com); CORSAIR has not granted a reuse license — rights not verified.",
+     "alt": "CORSAIR FRAME 4000D RS ARGB mid-tower case in Black, front three-quarter view with glass side panel and lit fans",
+     "match": "EXACT",
+     "credit": "CORSAIR"
+    },
+    "White": {
+     "url": "https://assets.corsair.com/image/upload/c_pad,q_auto,h_1600,w_1600,f_png/products/Cases/frame-4000d/Content/FRAME-4000D-RS-ARGB/Gallery/CC-9011297-WW_01.webp",
+     "page": "https://www.corsair.com/us/en/p/pc-cases/cc-9011297-ww/frame-4000d-rs-argb-modular-mid-tower-pc-case-white-cc-9011297-ww",
+     "sourceType": "manufacturer-product-page",
+     "rights": "Official CORSAIR product-page gallery image (assets.corsair.com); CORSAIR has not granted a reuse license — rights not verified.",
+     "alt": "CORSAIR FRAME 4000D RS ARGB mid-tower case in White, front three-quarter view with glass side panel and lit fans",
+     "match": "EXACT",
+     "credit": "CORSAIR"
+    }
    }
   },
   {
@@ -337,13 +377,33 @@
     "retrievedAt": "2026-09-28"
    },
    "image": {
-    "url": "https://cdn.shopify.com/s/files/1/1986/9305/files/h9-flow-rgb_04_white-angled.png?v=1789309789",
+    "url": "https://cdn.shopify.com/s/files/1/1986/9305/files/h9-flow-rgb_01_white-hero.png?v=1789309789",
     "page": "https://nzxt.com/products/h9-flow-rgb",
     "sourceType": "manufacturer-product-page",
-    "rights": "Official NZXT store product image (nzxt.com Shopify CDN); NZXT has not granted a reuse license — rights not verified.",
-    "credit": "NZXT",
-    "alt": "NZXT H9 Flow RGB in white, angled front view showing wraparound tempered glass and lit F420 RGB Core fans",
-    "match": "EXACT"
+    "rights": "Official NZXT store product image (nzxt.com); no reuse license verified.",
+    "alt": "NZXT H9 Flow RGB case in White, RGB lighting on, angled view",
+    "match": "EXACT",
+    "credit": "NZXT"
+   },
+   "colorImages": {
+    "White": {
+     "url": "https://cdn.shopify.com/s/files/1/1986/9305/files/h9-flow-rgb_01_white-hero.png?v=1789309789",
+     "page": "https://nzxt.com/products/h9-flow-rgb",
+     "sourceType": "manufacturer-product-page",
+     "rights": "Official NZXT store product image (nzxt.com); no reuse license verified.",
+     "alt": "NZXT H9 Flow RGB case in White, RGB lighting on, angled view",
+     "match": "EXACT",
+     "credit": "NZXT"
+    },
+    "Black": {
+     "url": "https://cdn.shopify.com/s/files/1/1986/9305/files/h9-flow-rgb_09_black-hero.png?v=1789309789",
+     "page": "https://nzxt.com/products/h9-flow-rgb",
+     "sourceType": "manufacturer-product-page",
+     "rights": "Official NZXT store product image (nzxt.com); no reuse license verified.",
+     "alt": "NZXT H9 Flow RGB case in Black, RGB lighting on, angled view",
+     "match": "EXACT",
+     "credit": "NZXT"
+    }
    }
   },
   {
@@ -381,10 +441,30 @@
     "url": "https://cdn.shopify.com/s/files/1/1986/9305/files/ke360rgb-v2_white_01_hero.png?v=1789335594",
     "page": "https://nzxt.com/products/kraken-360-elite-rgb-1",
     "sourceType": "manufacturer-product-page",
-    "rights": "Official NZXT store product image (nzxt.com Shopify CDN); NZXT has not granted a reuse license — rights not verified.",
-    "credit": "NZXT",
-    "alt": "NZXT Kraken Elite 360 RGB in white with LCD pump head and 360 mm radiator with RGB fans",
-    "match": "EXACT"
+    "rights": "Official NZXT store product image (nzxt.com); no reuse license verified.",
+    "alt": "NZXT Kraken Elite 360 RGB in White, angled view of radiator, RGB fans and LCD pump",
+    "match": "EXACT",
+    "credit": "NZXT"
+   },
+   "colorImages": {
+    "White": {
+     "url": "https://cdn.shopify.com/s/files/1/1986/9305/files/ke360rgb-v2_white_01_hero.png?v=1789335594",
+     "page": "https://nzxt.com/products/kraken-360-elite-rgb-1",
+     "sourceType": "manufacturer-product-page",
+     "rights": "Official NZXT store product image (nzxt.com); no reuse license verified.",
+     "alt": "NZXT Kraken Elite 360 RGB in White, angled view of radiator, RGB fans and LCD pump",
+     "match": "EXACT",
+     "credit": "NZXT"
+    },
+    "Black": {
+     "url": "https://cdn.shopify.com/s/files/1/1986/9305/files/ke360rgb-v2_black_01_hero.png?v=1789335594",
+     "page": "https://nzxt.com/products/kraken-360-elite-rgb-1",
+     "sourceType": "manufacturer-product-page",
+     "rights": "Official NZXT store product image (nzxt.com); no reuse license verified.",
+     "alt": "NZXT Kraken Elite 360 RGB in Black, angled view of radiator, RGB fans and LCD pump",
+     "match": "EXACT",
+     "credit": "NZXT"
+    }
    }
   },
   {
@@ -845,10 +925,21 @@
     "sourceType": "manufacturer-product-page",
     "rights": "Official G.SKILL product-page image (gskill.com); G.SKILL has not granted a reuse license — rights not verified.",
     "credit": "G.SKILL",
-    "alt": "Two G.SKILL Trident Z5 Royal Neo DDR5 memory modules in mirrored silver with RGB crystal light bars, angled view",
+    "alt": "Two G.SKILL Trident Z5 Royal Neo DDR5 memory modules in mirrored Silver with RGB crystal light bars, angled view",
     "match": "EXACT"
    },
-   "notes": "G.SKILL does not sell direct in the US and publishes no price; USD price is a TrustKart estimate in line with 2026 manufacturer-store pricing for comparable 64 GB DDR5-6000 kits."
+   "notes": "G.SKILL does not sell direct in the US and publishes no price; USD price is a TrustKart estimate in line with 2026 manufacturer-store pricing for comparable 64 GB DDR5-6000 kits.",
+   "colorImages": {
+    "Silver": {
+     "url": "https://www.gskill.com/_upload/images/174278691113.png",
+     "page": "https://www.gskill.com/product/165/425/1742786911/F5-6000J2836G32GX2-TR5NS",
+     "sourceType": "manufacturer-product-page",
+     "rights": "Official G.SKILL product-page image (gskill.com); G.SKILL has not granted a reuse license — rights not verified.",
+     "credit": "G.SKILL",
+     "alt": "Two G.SKILL Trident Z5 Royal Neo DDR5 memory modules in mirrored Silver with RGB crystal light bars, angled view",
+     "match": "EXACT"
+    }
+   }
   },
   {
    "sku": "TK-NOCTUA-NFA12X25G2",

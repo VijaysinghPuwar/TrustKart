@@ -102,10 +102,24 @@
      "values": [
       {
        "label": "Black",
-       "default": true
+       "default": true,
+       "image": {
+        "small": "/images/catalog/corsair-icue-link-titan-360-rx-rgb--black-400.webp",
+        "large": "/images/catalog/corsair-icue-link-titan-360-rx-rgb--black-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "CORSAIR iCUE LINK TITAN 360 RX RGB AIO cooler in Black with pump block and 360 mm radiator with three lit fans"
+       }
       },
       {
-       "label": "White"
+       "label": "White",
+       "image": {
+        "small": "/images/catalog/corsair-icue-link-titan-360-rx-rgb--white-400.webp",
+        "large": "/images/catalog/corsair-icue-link-titan-360-rx-rgb--white-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "CORSAIR iCUE LINK TITAN 360 RX RGB AIO cooler in White with pump block and 360 mm radiator with three lit fans"
+       }
       }
      ]
     }
@@ -192,10 +206,24 @@
      "values": [
       {
        "label": "Black",
-       "default": true
+       "default": true,
+       "image": {
+        "small": "/images/catalog/corsair-frame-4000d-rs-argb--black-400.webp",
+        "large": "/images/catalog/corsair-frame-4000d-rs-argb--black-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "CORSAIR FRAME 4000D RS ARGB mid-tower case in Black, front three-quarter view with glass side panel and lit fans"
+       }
       },
       {
-       "label": "White"
+       "label": "White",
+       "image": {
+        "small": "/images/catalog/corsair-frame-4000d-rs-argb--white-400.webp",
+        "large": "/images/catalog/corsair-frame-4000d-rs-argb--white-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "CORSAIR FRAME 4000D RS ARGB mid-tower case in White, front three-quarter view with glass side panel and lit fans"
+       }
       }
      ]
     }
@@ -270,10 +298,24 @@
      "values": [
       {
        "label": "White",
-       "default": true
+       "default": true,
+       "image": {
+        "small": "/images/catalog/nzxt-h9-flow-rgb-2025--white-400.webp",
+        "large": "/images/catalog/nzxt-h9-flow-rgb-2025--white-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "NZXT H9 Flow RGB case in White, RGB lighting on, angled view"
+       }
       },
       {
-       "label": "Black"
+       "label": "Black",
+       "image": {
+        "small": "/images/catalog/nzxt-h9-flow-rgb-2025--black-400.webp",
+        "large": "/images/catalog/nzxt-h9-flow-rgb-2025--black-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "NZXT H9 Flow RGB case in Black, RGB lighting on, angled view"
+       }
       }
      ]
     }
@@ -314,10 +356,24 @@
      "values": [
       {
        "label": "White",
-       "default": true
+       "default": true,
+       "image": {
+        "small": "/images/catalog/nzxt-kraken-elite-360-rgb-2024--white-400.webp",
+        "large": "/images/catalog/nzxt-kraken-elite-360-rgb-2024--white-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "NZXT Kraken Elite 360 RGB in White, angled view of radiator, RGB fans and LCD pump"
+       }
       },
       {
-       "label": "Black"
+       "label": "Black",
+       "image": {
+        "small": "/images/catalog/nzxt-kraken-elite-360-rgb-2024--black-400.webp",
+        "large": "/images/catalog/nzxt-kraken-elite-360-rgb-2024--black-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "NZXT Kraken Elite 360 RGB in Black, angled view of radiator, RGB fans and LCD pump"
+       }
       }
      ]
     }
@@ -714,7 +770,14 @@
      "values": [
       {
        "label": "Silver",
-       "default": true
+       "default": true,
+       "image": {
+        "small": "/images/catalog/gskill-trident-z5-royal-neo-ddr5-64gb-6000-cl28--silver-400.webp",
+        "large": "/images/catalog/gskill-trident-z5-royal-neo-ddr5-64gb-6000-cl28--silver-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Two G.SKILL Trident Z5 Royal Neo DDR5 memory modules in mirrored Silver with RGB crystal light bars, angled view"
+       }
       },
       {
        "label": "Gold"

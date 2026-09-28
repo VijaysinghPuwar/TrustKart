@@ -2345,44 +2345,15 @@
         "notes": "User manual: https://download.semiconductor.samsung.com/resources/user-manual/Samsung_Portable_SSD_T7_Shield_User_Manual_English_ver_1_1.pdf"
       },
       "image": {
-        "url": "https://images.samsung.com/is/image/samsung/p6pim/us/mu-pe1t0s-am/gallery/us-portable-ssd-t7-shield-mu-pe1t0s-am-552408700?$2052_1641_PNG$",
-        "page": "https://www.samsung.com/us/memory-storage/portable-ssd/portable-ssd-t7-shield-usb-3-2-1tb-black-sku-mu-pe1t0s-am/",
-        "sourceType": "manufacturer-product-page",
-        "rights": "Official Samsung US store product gallery image (images.samsung.com); Samsung has not granted a reuse license — rights not verified.",
-        "alt": "Samsung Portable SSD T7 Shield in Black, official Samsung product photo",
-        "match": "EXACT",
+        "url": "https://img.global.news.samsung.com/global/wp-content/uploads/2022/04/T7-Shield_Black.jpg",
+        "page": "https://news.samsung.com/global/samsungs-rugged-t7-shield-portable-ssd-offers-durability-and-fast-sustained-performance-for-creative-professionals-and-consumers-on-the-go",
+        "sourceType": "manufacturer-press",
+        "rights": "Samsung Newsroom press image; published for media use; no general license verified.",
+        "alt": "Samsung Portable SSD T7 Shield in black, angled view showing the ribbed rubber shell and USB-C port",
+        "match": "PRODUCT_LINE",
         "credit": "Samsung"
       },
-      "notes": "Colours per Samsung Newsroom launch release and the samsung.com/us gallery (4TB is black only). 4TB showed OutOfStock on 2026-09-28.",
-      "colorImages": {
-        "Black": {
-          "url": "https://images.samsung.com/is/image/samsung/p6pim/us/mu-pe1t0s-am/gallery/us-portable-ssd-t7-shield-mu-pe1t0s-am-552408700?$2052_1641_PNG$",
-          "page": "https://www.samsung.com/us/memory-storage/portable-ssd/portable-ssd-t7-shield-usb-3-2-1tb-black-sku-mu-pe1t0s-am/",
-          "sourceType": "manufacturer-product-page",
-          "rights": "Official Samsung US store product gallery image (images.samsung.com); Samsung has not granted a reuse license — rights not verified.",
-          "alt": "Samsung Portable SSD T7 Shield in Black, official Samsung product photo",
-          "match": "EXACT",
-          "credit": "Samsung"
-        },
-        "Blue": {
-          "url": "https://images.samsung.com/is/image/samsung/p6pim/us/mu-pe1t0r-am/gallery/us-portable-ssd-t7-shield-mu-pe1t0r-am-552408690?$2052_1641_PNG$",
-          "page": "https://www.samsung.com/us/memory-storage/portable-ssd/portable-ssd-t7-shield-usb-3-2-1tb-black-sku-mu-pe1t0s-am/",
-          "sourceType": "manufacturer-product-page",
-          "rights": "Official Samsung US store product gallery image (images.samsung.com); Samsung has not granted a reuse license — rights not verified.",
-          "alt": "Samsung Portable SSD T7 Shield in Blue, official Samsung product photo",
-          "match": "EXACT",
-          "credit": "Samsung"
-        },
-        "Beige": {
-          "url": "https://images.samsung.com/is/image/samsung/p6pim/us/mu-pe1t0k-am/gallery/us-portable-ssd-t7-shield-mu-pe1t0k-am-552408682?$2052_1641_PNG$",
-          "page": "https://www.samsung.com/us/memory-storage/portable-ssd/portable-ssd-t7-shield-usb-3-2-1tb-black-sku-mu-pe1t0s-am/",
-          "sourceType": "manufacturer-product-page",
-          "rights": "Official Samsung US store product gallery image (images.samsung.com); Samsung has not granted a reuse license — rights not verified.",
-          "alt": "Samsung Portable SSD T7 Shield in Beige, official Samsung product photo",
-          "match": "EXACT",
-          "credit": "Samsung"
-        }
-      }
+      "notes": "Colours per Samsung Newsroom launch release and the samsung.com/us gallery (4TB is black only). 4TB showed OutOfStock on 2026-09-28. Per-colour photos omitted: every official colour photo carries award badges."
     },
     {
       "sku": "TK-SAMSUNG-T7",
@@ -2430,35 +2401,15 @@
         "retrievedAt": "2026-09-28"
       },
       "image": {
-        "url": "https://images.samsung.com/is/image/samsung/p6pim/us/mu-pc1t0t-am/gallery/us-portable-ssd-t7-mu-pc1t0t-am-552408754?$2052_1641_PNG$",
-        "page": "https://www.samsung.com/us/memory-storage/portable-ssd/portable-ssd-t7-usb-3-2-1tb-gray-sku-mu-pc1t0t-am/",
+        "url": "https://images.samsung.com/is/image/samsung/p6pim/us/mu-pc1t0h-am/gallery/us-portable-ssd-t7-574760-mu-pc1t0h-am-550551663?$2052_1641_PNG$",
+        "page": "https://www.samsung.com/us/memory-storage/portable-ssd/portable-ssd-t7-usb-3-2-1tb-blue-sku-mu-pc1t0h-am/",
         "sourceType": "manufacturer-product-page",
-        "rights": "Official Samsung US store product gallery image (images.samsung.com); Samsung has not granted a reuse license — rights not verified.",
-        "alt": "Samsung Portable SSD T7 in Gray, official Samsung product photo",
-        "match": "EXACT",
+        "rights": "Official Samsung US store product gallery image (images.samsung.com); Samsung has not granted a reuse license - rights not verified.",
+        "alt": "Samsung Portable SSD T7 in blue, angled front view of the aluminium body",
+        "match": "PRODUCT_LINE",
         "credit": "Samsung"
       },
-      "notes": "Prices are the Gray SKUs (2TB uses its $549.99 strikethrough list price; it was on sale for $479.99). A 1TB Blue SKU listed at $129.99 was out of stock with an inconsistent 'Gen 1' title, so it was left out.",
-      "colorImages": {
-        "Gray": {
-          "url": "https://images.samsung.com/is/image/samsung/p6pim/us/mu-pc1t0t-am/gallery/us-portable-ssd-t7-mu-pc1t0t-am-552408754?$2052_1641_PNG$",
-          "page": "https://www.samsung.com/us/memory-storage/portable-ssd/portable-ssd-t7-usb-3-2-1tb-gray-sku-mu-pc1t0t-am/",
-          "sourceType": "manufacturer-product-page",
-          "rights": "Official Samsung US store product gallery image (images.samsung.com); Samsung has not granted a reuse license — rights not verified.",
-          "alt": "Samsung Portable SSD T7 in Gray, official Samsung product photo",
-          "match": "EXACT",
-          "credit": "Samsung"
-        },
-        "Blue": {
-          "url": "https://images.samsung.com/is/image/samsung/p6pim/us/mu-pc1t0h-am/gallery/us-portable-ssd-t7-574760-mu-pc1t0h-am-550551750?$2052_1641_PNG$",
-          "page": "https://www.samsung.com/us/memory-storage/portable-ssd/portable-ssd-t7-usb-3-2-1tb-gray-sku-mu-pc1t0t-am/",
-          "sourceType": "manufacturer-product-page",
-          "rights": "Official Samsung US store product gallery image (images.samsung.com); Samsung has not granted a reuse license — rights not verified.",
-          "alt": "Samsung Portable SSD T7 in Blue, official Samsung product photo",
-          "match": "EXACT",
-          "credit": "Samsung"
-        }
-      }
+      "notes": "Prices are the Gray SKUs (2TB uses its $549.99 strikethrough list price; it was on sale for $479.99). A 1TB Blue SKU listed at $129.99 was out of stock with an inconsistent 'Gen 1' title, so it was left out. Per-colour photos omitted: every official colour photo carries award badges."
     },
     {
       "sku": "TK-SAMSUNG-T5-EVO",

@@ -71,9 +71,29 @@
         "page": "https://www.apple.com/shop/buy-iphone/iphone-duo",
         "sourceType": "manufacturer-product-page",
         "rights": "Official Apple Store product image (store.storeimages.cdn-apple.com); Apple has not granted a reuse license - rights not verified.",
-        "credit": "Apple",
-        "alt": "Apple iPhone Duo in Night Sky, unfolded showing the inner display beside the rear camera module",
-        "match": "EXACT"
+        "alt": "Apple iPhone Duo in Night Sky, front and back view",
+        "match": "EXACT",
+        "credit": "Apple"
+      },
+      "colorImages": {
+        "Night Sky": {
+          "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/iphone-duo-finish-select-night-sky-202609?wid=1400&hei=1400&fmt=png-alpha",
+          "page": "https://www.apple.com/shop/buy-iphone/iphone-duo",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Apple Store product image (store.storeimages.cdn-apple.com); Apple has not granted a reuse license - rights not verified.",
+          "alt": "Apple iPhone Duo in Night Sky, front and back view",
+          "match": "EXACT",
+          "credit": "Apple"
+        },
+        "Star White": {
+          "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/iphone-duo-finish-select-star-white-202609?wid=1400&hei=1400&fmt=png-alpha",
+          "page": "https://www.apple.com/shop/buy-iphone/iphone-duo",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Apple Store product image (store.storeimages.cdn-apple.com); Apple has not granted a reuse license - rights not verified.",
+          "alt": "Apple iPhone Duo in Star White, front and back view",
+          "match": "EXACT",
+          "credit": "Apple"
+        }
       }
     },
     {
@@ -145,9 +165,47 @@
         "page": "https://www.apple.com/shop/buy-iphone/iphone-18-pro",
         "sourceType": "manufacturer-product-page",
         "rights": "Official Apple Store product image (store.storeimages.cdn-apple.com); Apple has not granted a reuse license - rights not verified.",
-        "credit": "Apple",
-        "alt": "Apple iPhone 18 Pro in Burgundy, back and front view showing the triple camera plateau",
-        "match": "EXACT"
+        "alt": "Apple iPhone 18 Pro in Burgundy, back and front view",
+        "match": "EXACT",
+        "credit": "Apple"
+      },
+      "colorImages": {
+        "Burgundy": {
+          "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/iphone-18-pro-finish-select-burgundy-202609?wid=1400&hei=1400&fmt=png-alpha",
+          "page": "https://www.apple.com/shop/buy-iphone/iphone-18-pro",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Apple Store product image (store.storeimages.cdn-apple.com); Apple has not granted a reuse license - rights not verified.",
+          "alt": "Apple iPhone 18 Pro in Burgundy, back and front view",
+          "match": "EXACT",
+          "credit": "Apple"
+        },
+        "Glacier": {
+          "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/iphone-18-pro-finish-select-glacier-202609?wid=1400&hei=1400&fmt=png-alpha",
+          "page": "https://www.apple.com/shop/buy-iphone/iphone-18-pro",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Apple Store product image (store.storeimages.cdn-apple.com); Apple has not granted a reuse license - rights not verified.",
+          "alt": "Apple iPhone 18 Pro in Glacier, back and front view",
+          "match": "EXACT",
+          "credit": "Apple"
+        },
+        "Silver": {
+          "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/iphone-18-pro-finish-select-silver-202609?wid=1400&hei=1400&fmt=png-alpha",
+          "page": "https://www.apple.com/shop/buy-iphone/iphone-18-pro",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Apple Store product image (store.storeimages.cdn-apple.com); Apple has not granted a reuse license - rights not verified.",
+          "alt": "Apple iPhone 18 Pro in Silver, back and front view",
+          "match": "EXACT",
+          "credit": "Apple"
+        },
+        "Black": {
+          "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/iphone-18-pro-finish-select-black-202609?wid=1400&hei=1400&fmt=png-alpha",
+          "page": "https://www.apple.com/shop/buy-iphone/iphone-18-pro",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Apple Store product image (store.storeimages.cdn-apple.com); Apple has not granted a reuse license - rights not verified.",
+          "alt": "Apple iPhone 18 Pro in Black, back and front view",
+          "match": "EXACT",
+          "credit": "Apple"
+        }
       }
     },
     {
@@ -214,13 +272,51 @@
         "retrievedAt": "2026-09-28"
       },
       "image": {
-        "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/iphone-18-pro-max-finish-select-silver-202609?wid=1400&hei=1400&fmt=png-alpha",
+        "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/iphone-18-pro-max-finish-select-burgundy-202609?wid=1400&hei=1400&fmt=png-alpha",
         "page": "https://www.apple.com/shop/buy-iphone/iphone-18-pro",
         "sourceType": "manufacturer-product-page",
         "rights": "Official Apple Store product image (store.storeimages.cdn-apple.com); Apple has not granted a reuse license - rights not verified.",
-        "credit": "Apple",
-        "alt": "Apple iPhone 18 Pro Max in Silver, back and front view showing the triple camera plateau",
-        "match": "EXACT"
+        "alt": "Apple iPhone 18 Pro Max in Burgundy, back and front view",
+        "match": "EXACT",
+        "credit": "Apple"
+      },
+      "colorImages": {
+        "Burgundy": {
+          "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/iphone-18-pro-max-finish-select-burgundy-202609?wid=1400&hei=1400&fmt=png-alpha",
+          "page": "https://www.apple.com/shop/buy-iphone/iphone-18-pro",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Apple Store product image (store.storeimages.cdn-apple.com); Apple has not granted a reuse license - rights not verified.",
+          "alt": "Apple iPhone 18 Pro Max in Burgundy, back and front view",
+          "match": "EXACT",
+          "credit": "Apple"
+        },
+        "Glacier": {
+          "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/iphone-18-pro-max-finish-select-glacier-202609?wid=1400&hei=1400&fmt=png-alpha",
+          "page": "https://www.apple.com/shop/buy-iphone/iphone-18-pro",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Apple Store product image (store.storeimages.cdn-apple.com); Apple has not granted a reuse license - rights not verified.",
+          "alt": "Apple iPhone 18 Pro Max in Glacier, back and front view",
+          "match": "EXACT",
+          "credit": "Apple"
+        },
+        "Silver": {
+          "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/iphone-18-pro-max-finish-select-silver-202609?wid=1400&hei=1400&fmt=png-alpha",
+          "page": "https://www.apple.com/shop/buy-iphone/iphone-18-pro",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Apple Store product image (store.storeimages.cdn-apple.com); Apple has not granted a reuse license - rights not verified.",
+          "alt": "Apple iPhone 18 Pro Max in Silver, back and front view",
+          "match": "EXACT",
+          "credit": "Apple"
+        },
+        "Black": {
+          "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/iphone-18-pro-max-finish-select-black-202609?wid=1400&hei=1400&fmt=png-alpha",
+          "page": "https://www.apple.com/shop/buy-iphone/iphone-18-pro",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Apple Store product image (store.storeimages.cdn-apple.com); Apple has not granted a reuse license - rights not verified.",
+          "alt": "Apple iPhone 18 Pro Max in Black, back and front view",
+          "match": "EXACT",
+          "credit": "Apple"
+        }
       }
     },
     {
@@ -287,9 +383,47 @@
         "page": "https://www.apple.com/shop/buy-iphone/iphone-air",
         "sourceType": "manufacturer-product-page",
         "rights": "Official Apple Store product image (store.storeimages.cdn-apple.com); Apple has not granted a reuse license - rights not verified.",
-        "credit": "Apple",
-        "alt": "Apple iPhone Air in Sky Blue, back and front view showing the single camera plateau",
-        "match": "EXACT"
+        "alt": "Apple iPhone Air in Sky Blue, back and front view",
+        "match": "EXACT",
+        "credit": "Apple"
+      },
+      "colorImages": {
+        "Sky Blue": {
+          "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/iphone-air-finish-select-skyblue-202509?wid=1400&hei=1400&fmt=png-alpha",
+          "page": "https://www.apple.com/shop/buy-iphone/iphone-air",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Apple Store product image (store.storeimages.cdn-apple.com); Apple has not granted a reuse license - rights not verified.",
+          "alt": "Apple iPhone Air in Sky Blue, back and front view",
+          "match": "EXACT",
+          "credit": "Apple"
+        },
+        "Light Gold": {
+          "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/iphone-air-finish-select-lightgold-202509?wid=1400&hei=1400&fmt=png-alpha",
+          "page": "https://www.apple.com/shop/buy-iphone/iphone-air",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Apple Store product image (store.storeimages.cdn-apple.com); Apple has not granted a reuse license - rights not verified.",
+          "alt": "Apple iPhone Air in Light Gold, back and front view",
+          "match": "EXACT",
+          "credit": "Apple"
+        },
+        "Cloud White": {
+          "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/iphone-air-finish-select-cloudwhite-202509?wid=1400&hei=1400&fmt=png-alpha",
+          "page": "https://www.apple.com/shop/buy-iphone/iphone-air",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Apple Store product image (store.storeimages.cdn-apple.com); Apple has not granted a reuse license - rights not verified.",
+          "alt": "Apple iPhone Air in Cloud White, back and front view",
+          "match": "EXACT",
+          "credit": "Apple"
+        },
+        "Space Black": {
+          "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/iphone-air-finish-select-spaceblack-202509?wid=1400&hei=1400&fmt=png-alpha",
+          "page": "https://www.apple.com/shop/buy-iphone/iphone-air",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Apple Store product image (store.storeimages.cdn-apple.com); Apple has not granted a reuse license - rights not verified.",
+          "alt": "Apple iPhone Air in Space Black, back and front view",
+          "match": "EXACT",
+          "credit": "Apple"
+        }
       }
     },
     {
@@ -354,9 +488,56 @@
         "page": "https://www.apple.com/shop/buy-iphone/iphone-17",
         "sourceType": "manufacturer-product-page",
         "rights": "Official Apple Store product image (store.storeimages.cdn-apple.com); Apple has not granted a reuse license - rights not verified.",
-        "credit": "Apple",
-        "alt": "Apple iPhone 17 in Lavender, back and front view showing the dual camera",
-        "match": "EXACT"
+        "alt": "Apple iPhone 17 in Lavender, back and front view",
+        "match": "EXACT",
+        "credit": "Apple"
+      },
+      "colorImages": {
+        "Lavender": {
+          "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/iphone-17-finish-select-lavender-202509?wid=1400&hei=1400&fmt=png-alpha",
+          "page": "https://www.apple.com/shop/buy-iphone/iphone-17",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Apple Store product image (store.storeimages.cdn-apple.com); Apple has not granted a reuse license - rights not verified.",
+          "alt": "Apple iPhone 17 in Lavender, back and front view",
+          "match": "EXACT",
+          "credit": "Apple"
+        },
+        "Sage": {
+          "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/iphone-17-finish-select-sage-202509?wid=1400&hei=1400&fmt=png-alpha",
+          "page": "https://www.apple.com/shop/buy-iphone/iphone-17",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Apple Store product image (store.storeimages.cdn-apple.com); Apple has not granted a reuse license - rights not verified.",
+          "alt": "Apple iPhone 17 in Sage, back and front view",
+          "match": "EXACT",
+          "credit": "Apple"
+        },
+        "Mist Blue": {
+          "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/iphone-17-finish-select-mistblue-202509?wid=1400&hei=1400&fmt=png-alpha",
+          "page": "https://www.apple.com/shop/buy-iphone/iphone-17",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Apple Store product image (store.storeimages.cdn-apple.com); Apple has not granted a reuse license - rights not verified.",
+          "alt": "Apple iPhone 17 in Mist Blue, back and front view",
+          "match": "EXACT",
+          "credit": "Apple"
+        },
+        "White": {
+          "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/iphone-17-finish-select-white-202509?wid=1400&hei=1400&fmt=png-alpha",
+          "page": "https://www.apple.com/shop/buy-iphone/iphone-17",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Apple Store product image (store.storeimages.cdn-apple.com); Apple has not granted a reuse license - rights not verified.",
+          "alt": "Apple iPhone 17 in White, back and front view",
+          "match": "EXACT",
+          "credit": "Apple"
+        },
+        "Black": {
+          "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/iphone-17-finish-select-black-202509?wid=1400&hei=1400&fmt=png-alpha",
+          "page": "https://www.apple.com/shop/buy-iphone/iphone-17",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Apple Store product image (store.storeimages.cdn-apple.com); Apple has not granted a reuse license - rights not verified.",
+          "alt": "Apple iPhone 17 in Black, back and front view",
+          "match": "EXACT",
+          "credit": "Apple"
+        }
       }
     },
     {
@@ -418,9 +599,38 @@
         "page": "https://www.apple.com/shop/buy-iphone/iphone-17e",
         "sourceType": "manufacturer-product-page",
         "rights": "Official Apple Store product image (store.storeimages.cdn-apple.com); Apple has not granted a reuse license - rights not verified.",
-        "credit": "Apple",
-        "alt": "Apple iPhone 17e in Soft Pink, back and front view showing the single camera",
-        "match": "EXACT"
+        "alt": "Apple iPhone 17e in Soft Pink, back and front view",
+        "match": "EXACT",
+        "credit": "Apple"
+      },
+      "colorImages": {
+        "Soft Pink": {
+          "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/iphone-17e-finish-select-softpink-202603?wid=1400&hei=1400&fmt=png-alpha",
+          "page": "https://www.apple.com/shop/buy-iphone/iphone-17e",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Apple Store product image (store.storeimages.cdn-apple.com); Apple has not granted a reuse license - rights not verified.",
+          "alt": "Apple iPhone 17e in Soft Pink, back and front view",
+          "match": "EXACT",
+          "credit": "Apple"
+        },
+        "White": {
+          "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/iphone-17e-finish-select-white-202603?wid=1400&hei=1400&fmt=png-alpha",
+          "page": "https://www.apple.com/shop/buy-iphone/iphone-17e",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Apple Store product image (store.storeimages.cdn-apple.com); Apple has not granted a reuse license - rights not verified.",
+          "alt": "Apple iPhone 17e in White, back and front view",
+          "match": "EXACT",
+          "credit": "Apple"
+        },
+        "Black": {
+          "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/iphone-17e-finish-select-black-202603?wid=1400&hei=1400&fmt=png-alpha",
+          "page": "https://www.apple.com/shop/buy-iphone/iphone-17e",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Apple Store product image (store.storeimages.cdn-apple.com); Apple has not granted a reuse license - rights not verified.",
+          "alt": "Apple iPhone 17e in Black, back and front view",
+          "match": "EXACT",
+          "credit": "Apple"
+        }
       }
     },
     {
@@ -473,9 +683,56 @@
         "page": "https://www.apple.com/shop/buy-iphone/iphone-16",
         "sourceType": "manufacturer-product-page",
         "rights": "Official Apple Store product image (store.storeimages.cdn-apple.com); Apple has not granted a reuse license - rights not verified.",
-        "credit": "Apple",
-        "alt": "Apple iPhone 16 in Ultramarine, back and front view showing the vertical dual camera",
-        "match": "EXACT"
+        "alt": "Apple iPhone 16 in Ultramarine, back and front view",
+        "match": "EXACT",
+        "credit": "Apple"
+      },
+      "colorImages": {
+        "Ultramarine": {
+          "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/iphone-16-ultramarine-select-202409?wid=1400&hei=1400&fmt=png-alpha",
+          "page": "https://www.apple.com/shop/buy-iphone/iphone-16",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Apple Store product image (store.storeimages.cdn-apple.com); Apple has not granted a reuse license - rights not verified.",
+          "alt": "Apple iPhone 16 in Ultramarine, back and front view",
+          "match": "EXACT",
+          "credit": "Apple"
+        },
+        "Teal": {
+          "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/iphone-16-teal-select-202409?wid=1400&hei=1400&fmt=png-alpha",
+          "page": "https://www.apple.com/shop/buy-iphone/iphone-16",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Apple Store product image (store.storeimages.cdn-apple.com); Apple has not granted a reuse license - rights not verified.",
+          "alt": "Apple iPhone 16 in Teal, back and front view",
+          "match": "EXACT",
+          "credit": "Apple"
+        },
+        "Pink": {
+          "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/iphone-16-pink-select-202409?wid=1400&hei=1400&fmt=png-alpha",
+          "page": "https://www.apple.com/shop/buy-iphone/iphone-16",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Apple Store product image (store.storeimages.cdn-apple.com); Apple has not granted a reuse license - rights not verified.",
+          "alt": "Apple iPhone 16 in Pink, back and front view",
+          "match": "EXACT",
+          "credit": "Apple"
+        },
+        "White": {
+          "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/iphone-16-white-select-202409?wid=1400&hei=1400&fmt=png-alpha",
+          "page": "https://www.apple.com/shop/buy-iphone/iphone-16",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Apple Store product image (store.storeimages.cdn-apple.com); Apple has not granted a reuse license - rights not verified.",
+          "alt": "Apple iPhone 16 in White, back and front view",
+          "match": "EXACT",
+          "credit": "Apple"
+        },
+        "Black": {
+          "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/iphone-16-black-select-202409?wid=1400&hei=1400&fmt=png-alpha",
+          "page": "https://www.apple.com/shop/buy-iphone/iphone-16",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Apple Store product image (store.storeimages.cdn-apple.com); Apple has not granted a reuse license - rights not verified.",
+          "alt": "Apple iPhone 16 in Black, back and front view",
+          "match": "EXACT",
+          "credit": "Apple"
+        }
       }
     },
     {
@@ -532,13 +789,51 @@
         "retrievedAt": "2026-09-28"
       },
       "image": {
-        "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/macbook-neo-indigo-cto-hero-202603?wid=1400&hei=1400&fmt=png-alpha",
+        "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/macbook-neo-silver-cto-hero-202603?wid=1400&hei=1400&fmt=png-alpha",
         "page": "https://www.apple.com/shop/buy-mac/macbook-neo",
         "sourceType": "manufacturer-product-page",
         "rights": "Official Apple Store product image (store.storeimages.cdn-apple.com); Apple has not granted a reuse license - rights not verified.",
-        "credit": "Apple",
-        "alt": "Apple MacBook Neo in Indigo, open front view showing the display and keyboard",
-        "match": "EXACT"
+        "alt": "Apple MacBook Neo in Silver, open front view",
+        "match": "EXACT",
+        "credit": "Apple"
+      },
+      "colorImages": {
+        "Silver": {
+          "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/macbook-neo-silver-cto-hero-202603?wid=1400&hei=1400&fmt=png-alpha",
+          "page": "https://www.apple.com/shop/buy-mac/macbook-neo",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Apple Store product image (store.storeimages.cdn-apple.com); Apple has not granted a reuse license - rights not verified.",
+          "alt": "Apple MacBook Neo in Silver, open front view",
+          "match": "EXACT",
+          "credit": "Apple"
+        },
+        "Blush": {
+          "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/macbook-neo-blush-cto-hero-202603?wid=1400&hei=1400&fmt=png-alpha",
+          "page": "https://www.apple.com/shop/buy-mac/macbook-neo",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Apple Store product image (store.storeimages.cdn-apple.com); Apple has not granted a reuse license - rights not verified.",
+          "alt": "Apple MacBook Neo in Blush, open front view",
+          "match": "EXACT",
+          "credit": "Apple"
+        },
+        "Citrus": {
+          "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/macbook-neo-citrus-cto-hero-202603?wid=1400&hei=1400&fmt=png-alpha",
+          "page": "https://www.apple.com/shop/buy-mac/macbook-neo",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Apple Store product image (store.storeimages.cdn-apple.com); Apple has not granted a reuse license - rights not verified.",
+          "alt": "Apple MacBook Neo in Citrus, open front view",
+          "match": "EXACT",
+          "credit": "Apple"
+        },
+        "Indigo": {
+          "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/macbook-neo-indigo-cto-hero-202603?wid=1400&hei=1400&fmt=png-alpha",
+          "page": "https://www.apple.com/shop/buy-mac/macbook-neo",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Apple Store product image (store.storeimages.cdn-apple.com); Apple has not granted a reuse license - rights not verified.",
+          "alt": "Apple MacBook Neo in Indigo, open front view",
+          "match": "EXACT",
+          "credit": "Apple"
+        }
       }
     },
     {
@@ -600,9 +895,47 @@
         "page": "https://www.apple.com/shop/buy-mac/macbook-air",
         "sourceType": "manufacturer-product-page",
         "rights": "Official Apple Store product image (store.storeimages.cdn-apple.com); Apple has not granted a reuse license - rights not verified.",
-        "credit": "Apple",
         "alt": "Apple MacBook Air 13-inch in Sky Blue, open front view",
-        "match": "PRODUCT_LINE"
+        "match": "EXACT",
+        "credit": "Apple"
+      },
+      "colorImages": {
+        "Sky Blue": {
+          "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/mba13-skyblue-select-202503?wid=1400&hei=1400&fmt=png-alpha",
+          "page": "https://www.apple.com/shop/buy-mac/macbook-air",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Apple Store product image (store.storeimages.cdn-apple.com); Apple has not granted a reuse license - rights not verified.",
+          "alt": "Apple MacBook Air 13-inch in Sky Blue, open front view",
+          "match": "EXACT",
+          "credit": "Apple"
+        },
+        "Silver": {
+          "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/mba13-silver-select-202503?wid=1400&hei=1400&fmt=png-alpha",
+          "page": "https://www.apple.com/shop/buy-mac/macbook-air",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Apple Store product image (store.storeimages.cdn-apple.com); Apple has not granted a reuse license - rights not verified.",
+          "alt": "Apple MacBook Air 13-inch in Silver, open front view",
+          "match": "EXACT",
+          "credit": "Apple"
+        },
+        "Starlight": {
+          "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/mba13-starlight-select-202503?wid=1400&hei=1400&fmt=png-alpha",
+          "page": "https://www.apple.com/shop/buy-mac/macbook-air",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Apple Store product image (store.storeimages.cdn-apple.com); Apple has not granted a reuse license - rights not verified.",
+          "alt": "Apple MacBook Air 13-inch in Starlight, open front view",
+          "match": "EXACT",
+          "credit": "Apple"
+        },
+        "Midnight": {
+          "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/mba13-midnight-select-202503?wid=1400&hei=1400&fmt=png-alpha",
+          "page": "https://www.apple.com/shop/buy-mac/macbook-air",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Apple Store product image (store.storeimages.cdn-apple.com); Apple has not granted a reuse license - rights not verified.",
+          "alt": "Apple MacBook Air 13-inch in Midnight, open front view",
+          "match": "EXACT",
+          "credit": "Apple"
+        }
       }
     },
     {
@@ -651,13 +984,51 @@
         "retrievedAt": "2026-09-28"
       },
       "image": {
-        "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/mba15-starlight-select-202503?wid=1400&hei=1400&fmt=png-alpha",
+        "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/mba15-skyblue-select-202503?wid=1400&hei=1400&fmt=png-alpha",
         "page": "https://www.apple.com/shop/buy-mac/macbook-air",
         "sourceType": "manufacturer-product-page",
         "rights": "Official Apple Store product image (store.storeimages.cdn-apple.com); Apple has not granted a reuse license - rights not verified.",
-        "credit": "Apple",
-        "alt": "Apple MacBook Air 15-inch in Starlight, open front view",
-        "match": "PRODUCT_LINE"
+        "alt": "Apple MacBook Air 15-inch in Sky Blue, open front view",
+        "match": "EXACT",
+        "credit": "Apple"
+      },
+      "colorImages": {
+        "Sky Blue": {
+          "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/mba15-skyblue-select-202503?wid=1400&hei=1400&fmt=png-alpha",
+          "page": "https://www.apple.com/shop/buy-mac/macbook-air",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Apple Store product image (store.storeimages.cdn-apple.com); Apple has not granted a reuse license - rights not verified.",
+          "alt": "Apple MacBook Air 15-inch in Sky Blue, open front view",
+          "match": "EXACT",
+          "credit": "Apple"
+        },
+        "Silver": {
+          "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/mba15-silver-select-202503?wid=1400&hei=1400&fmt=png-alpha",
+          "page": "https://www.apple.com/shop/buy-mac/macbook-air",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Apple Store product image (store.storeimages.cdn-apple.com); Apple has not granted a reuse license - rights not verified.",
+          "alt": "Apple MacBook Air 15-inch in Silver, open front view",
+          "match": "EXACT",
+          "credit": "Apple"
+        },
+        "Starlight": {
+          "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/mba15-starlight-select-202503?wid=1400&hei=1400&fmt=png-alpha",
+          "page": "https://www.apple.com/shop/buy-mac/macbook-air",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Apple Store product image (store.storeimages.cdn-apple.com); Apple has not granted a reuse license - rights not verified.",
+          "alt": "Apple MacBook Air 15-inch in Starlight, open front view",
+          "match": "EXACT",
+          "credit": "Apple"
+        },
+        "Midnight": {
+          "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/mba15-midnight-select-202503?wid=1400&hei=1400&fmt=png-alpha",
+          "page": "https://www.apple.com/shop/buy-mac/macbook-air",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Apple Store product image (store.storeimages.cdn-apple.com); Apple has not granted a reuse license - rights not verified.",
+          "alt": "Apple MacBook Air 15-inch in Midnight, open front view",
+          "match": "EXACT",
+          "credit": "Apple"
+        }
       }
     },
     {
@@ -718,9 +1089,29 @@
         "page": "https://www.apple.com/shop/buy-mac/macbook-pro",
         "sourceType": "manufacturer-product-page",
         "rights": "Official Apple Store product image (store.storeimages.cdn-apple.com); Apple has not granted a reuse license - rights not verified.",
-        "credit": "Apple",
-        "alt": "Apple 14-inch MacBook Pro in Space Black, open front view",
-        "match": "PRODUCT_LINE"
+        "alt": "Apple MacBook Pro 14-inch in Space Black, open front view",
+        "match": "EXACT",
+        "credit": "Apple"
+      },
+      "colorImages": {
+        "Space Black": {
+          "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/mbp14-spaceblack-select-202410?wid=1400&hei=1400&fmt=png-alpha",
+          "page": "https://www.apple.com/shop/buy-mac/macbook-pro",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Apple Store product image (store.storeimages.cdn-apple.com); Apple has not granted a reuse license - rights not verified.",
+          "alt": "Apple MacBook Pro 14-inch in Space Black, open front view",
+          "match": "EXACT",
+          "credit": "Apple"
+        },
+        "Silver": {
+          "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/mbp14-silver-select-202410?wid=1400&hei=1400&fmt=png-alpha",
+          "page": "https://www.apple.com/shop/buy-mac/macbook-pro",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Apple Store product image (store.storeimages.cdn-apple.com); Apple has not granted a reuse license - rights not verified.",
+          "alt": "Apple MacBook Pro 14-inch in Silver, open front view",
+          "match": "EXACT",
+          "credit": "Apple"
+        }
       }
     },
     {
@@ -787,13 +1178,33 @@
         "retrievedAt": "2026-09-28"
       },
       "image": {
-        "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/mbp14-silver-select-202410?wid=1400&hei=1400&fmt=png-alpha",
+        "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/mbp14-spaceblack-select-202410?wid=1400&hei=1400&fmt=png-alpha",
         "page": "https://www.apple.com/shop/buy-mac/macbook-pro",
         "sourceType": "manufacturer-product-page",
         "rights": "Official Apple Store product image (store.storeimages.cdn-apple.com); Apple has not granted a reuse license - rights not verified.",
-        "credit": "Apple",
-        "alt": "Apple 14-inch MacBook Pro in Silver, open front view",
-        "match": "PRODUCT_LINE"
+        "alt": "Apple MacBook Pro 14-inch in Space Black, open front view",
+        "match": "EXACT",
+        "credit": "Apple"
+      },
+      "colorImages": {
+        "Space Black": {
+          "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/mbp14-spaceblack-select-202410?wid=1400&hei=1400&fmt=png-alpha",
+          "page": "https://www.apple.com/shop/buy-mac/macbook-pro",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Apple Store product image (store.storeimages.cdn-apple.com); Apple has not granted a reuse license - rights not verified.",
+          "alt": "Apple MacBook Pro 14-inch in Space Black, open front view",
+          "match": "EXACT",
+          "credit": "Apple"
+        },
+        "Silver": {
+          "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/mbp14-silver-select-202410?wid=1400&hei=1400&fmt=png-alpha",
+          "page": "https://www.apple.com/shop/buy-mac/macbook-pro",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Apple Store product image (store.storeimages.cdn-apple.com); Apple has not granted a reuse license - rights not verified.",
+          "alt": "Apple MacBook Pro 14-inch in Silver, open front view",
+          "match": "EXACT",
+          "credit": "Apple"
+        }
       }
     },
     {
@@ -862,9 +1273,29 @@
         "page": "https://www.apple.com/shop/buy-mac/macbook-pro",
         "sourceType": "manufacturer-product-page",
         "rights": "Official Apple Store product image (store.storeimages.cdn-apple.com); Apple has not granted a reuse license - rights not verified.",
-        "credit": "Apple",
-        "alt": "Apple 14-inch MacBook Pro in Space Black, open front view",
-        "match": "PRODUCT_LINE"
+        "alt": "Apple MacBook Pro 14-inch in Space Black, open front view",
+        "match": "EXACT",
+        "credit": "Apple"
+      },
+      "colorImages": {
+        "Space Black": {
+          "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/mbp14-spaceblack-select-202410?wid=1400&hei=1400&fmt=png-alpha",
+          "page": "https://www.apple.com/shop/buy-mac/macbook-pro",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Apple Store product image (store.storeimages.cdn-apple.com); Apple has not granted a reuse license - rights not verified.",
+          "alt": "Apple MacBook Pro 14-inch in Space Black, open front view",
+          "match": "EXACT",
+          "credit": "Apple"
+        },
+        "Silver": {
+          "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/mbp14-silver-select-202410?wid=1400&hei=1400&fmt=png-alpha",
+          "page": "https://www.apple.com/shop/buy-mac/macbook-pro",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Apple Store product image (store.storeimages.cdn-apple.com); Apple has not granted a reuse license - rights not verified.",
+          "alt": "Apple MacBook Pro 14-inch in Silver, open front view",
+          "match": "EXACT",
+          "credit": "Apple"
+        }
       }
     },
     {
@@ -921,13 +1352,33 @@
         "retrievedAt": "2026-09-28"
       },
       "image": {
-        "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/mbp16-silver-select-202410?wid=1400&hei=1400&fmt=png-alpha",
+        "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/mbp16-spaceblack-select-202410?wid=1400&hei=1400&fmt=png-alpha",
         "page": "https://www.apple.com/shop/buy-mac/macbook-pro",
         "sourceType": "manufacturer-product-page",
         "rights": "Official Apple Store product image (store.storeimages.cdn-apple.com); Apple has not granted a reuse license - rights not verified.",
-        "credit": "Apple",
-        "alt": "Apple 16-inch MacBook Pro in Silver, open front view",
-        "match": "PRODUCT_LINE"
+        "alt": "Apple MacBook Pro 16-inch in Space Black, open front view",
+        "match": "EXACT",
+        "credit": "Apple"
+      },
+      "colorImages": {
+        "Space Black": {
+          "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/mbp16-spaceblack-select-202410?wid=1400&hei=1400&fmt=png-alpha",
+          "page": "https://www.apple.com/shop/buy-mac/macbook-pro",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Apple Store product image (store.storeimages.cdn-apple.com); Apple has not granted a reuse license - rights not verified.",
+          "alt": "Apple MacBook Pro 16-inch in Space Black, open front view",
+          "match": "EXACT",
+          "credit": "Apple"
+        },
+        "Silver": {
+          "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/mbp16-silver-select-202410?wid=1400&hei=1400&fmt=png-alpha",
+          "page": "https://www.apple.com/shop/buy-mac/macbook-pro",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Apple Store product image (store.storeimages.cdn-apple.com); Apple has not granted a reuse license - rights not verified.",
+          "alt": "Apple MacBook Pro 16-inch in Silver, open front view",
+          "match": "EXACT",
+          "credit": "Apple"
+        }
       }
     },
     {
@@ -997,9 +1448,29 @@
         "page": "https://www.apple.com/shop/buy-mac/macbook-pro",
         "sourceType": "manufacturer-product-page",
         "rights": "Official Apple Store product image (store.storeimages.cdn-apple.com); Apple has not granted a reuse license - rights not verified.",
-        "credit": "Apple",
-        "alt": "Apple 16-inch MacBook Pro in Space Black, open front view",
-        "match": "PRODUCT_LINE"
+        "alt": "Apple MacBook Pro 16-inch in Space Black, open front view",
+        "match": "EXACT",
+        "credit": "Apple"
+      },
+      "colorImages": {
+        "Space Black": {
+          "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/mbp16-spaceblack-select-202410?wid=1400&hei=1400&fmt=png-alpha",
+          "page": "https://www.apple.com/shop/buy-mac/macbook-pro",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Apple Store product image (store.storeimages.cdn-apple.com); Apple has not granted a reuse license - rights not verified.",
+          "alt": "Apple MacBook Pro 16-inch in Space Black, open front view",
+          "match": "EXACT",
+          "credit": "Apple"
+        },
+        "Silver": {
+          "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/mbp16-silver-select-202410?wid=1400&hei=1400&fmt=png-alpha",
+          "page": "https://www.apple.com/shop/buy-mac/macbook-pro",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Apple Store product image (store.storeimages.cdn-apple.com); Apple has not granted a reuse license - rights not verified.",
+          "alt": "Apple MacBook Pro 16-inch in Silver, open front view",
+          "match": "EXACT",
+          "credit": "Apple"
+        }
       }
     },
     {
@@ -1423,9 +1894,47 @@
         "page": "https://www.apple.com/shop/buy-ipad/ipad",
         "sourceType": "manufacturer-product-page",
         "rights": "Official Apple Store product image (store.storeimages.cdn-apple.com); Apple has not granted a reuse license - rights not verified.",
-        "credit": "Apple",
-        "alt": "Apple iPad 11-inch in Blue, front and rear view",
-        "match": "PRODUCT_LINE"
+        "alt": "Apple iPad (A16) in Blue, front and back view",
+        "match": "EXACT",
+        "credit": "Apple"
+      },
+      "colorImages": {
+        "Blue": {
+          "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-2022-hero-blue-wifi-select?wid=1400&hei=1400&fmt=png-alpha",
+          "page": "https://www.apple.com/shop/buy-ipad/ipad",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Apple Store product image (store.storeimages.cdn-apple.com); Apple has not granted a reuse license - rights not verified.",
+          "alt": "Apple iPad (A16) in Blue, front and back view",
+          "match": "EXACT",
+          "credit": "Apple"
+        },
+        "Pink": {
+          "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-2022-hero-pink-wifi-select?wid=1400&hei=1400&fmt=png-alpha",
+          "page": "https://www.apple.com/shop/buy-ipad/ipad",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Apple Store product image (store.storeimages.cdn-apple.com); Apple has not granted a reuse license - rights not verified.",
+          "alt": "Apple iPad (A16) in Pink, front and back view",
+          "match": "EXACT",
+          "credit": "Apple"
+        },
+        "Yellow": {
+          "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-2022-hero-yellow-wifi-select?wid=1400&hei=1400&fmt=png-alpha",
+          "page": "https://www.apple.com/shop/buy-ipad/ipad",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Apple Store product image (store.storeimages.cdn-apple.com); Apple has not granted a reuse license - rights not verified.",
+          "alt": "Apple iPad (A16) in Yellow, front and back view",
+          "match": "EXACT",
+          "credit": "Apple"
+        },
+        "Silver": {
+          "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-2022-hero-silver-wifi-select?wid=1400&hei=1400&fmt=png-alpha",
+          "page": "https://www.apple.com/shop/buy-ipad/ipad",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Apple Store product image (store.storeimages.cdn-apple.com); Apple has not granted a reuse license - rights not verified.",
+          "alt": "Apple iPad (A16) in Silver, front and back view",
+          "match": "EXACT",
+          "credit": "Apple"
+        }
       }
     },
     {
@@ -1494,13 +2003,51 @@
         "retrievedAt": "2026-09-28"
       },
       "image": {
-        "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-mini-select-wifi-purple-202410?wid=1400&hei=1400&fmt=png-alpha",
+        "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-mini-select-wifi-blue-202410?wid=1400&hei=1400&fmt=png-alpha",
         "page": "https://www.apple.com/shop/buy-ipad/ipad-mini",
         "sourceType": "manufacturer-product-page",
         "rights": "Official Apple Store product image (store.storeimages.cdn-apple.com); Apple has not granted a reuse license - rights not verified.",
-        "credit": "Apple",
-        "alt": "Apple iPad mini in Purple, front and rear view",
-        "match": "EXACT"
+        "alt": "Apple iPad mini in Blue, front and back view",
+        "match": "EXACT",
+        "credit": "Apple"
+      },
+      "colorImages": {
+        "Blue": {
+          "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-mini-select-wifi-blue-202410?wid=1400&hei=1400&fmt=png-alpha",
+          "page": "https://www.apple.com/shop/buy-ipad/ipad-mini",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Apple Store product image (store.storeimages.cdn-apple.com); Apple has not granted a reuse license - rights not verified.",
+          "alt": "Apple iPad mini in Blue, front and back view",
+          "match": "EXACT",
+          "credit": "Apple"
+        },
+        "Purple": {
+          "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-mini-select-wifi-purple-202410?wid=1400&hei=1400&fmt=png-alpha",
+          "page": "https://www.apple.com/shop/buy-ipad/ipad-mini",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Apple Store product image (store.storeimages.cdn-apple.com); Apple has not granted a reuse license - rights not verified.",
+          "alt": "Apple iPad mini in Purple, front and back view",
+          "match": "EXACT",
+          "credit": "Apple"
+        },
+        "Starlight": {
+          "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-mini-select-wifi-starlight-202410?wid=1400&hei=1400&fmt=png-alpha",
+          "page": "https://www.apple.com/shop/buy-ipad/ipad-mini",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Apple Store product image (store.storeimages.cdn-apple.com); Apple has not granted a reuse license - rights not verified.",
+          "alt": "Apple iPad mini in Starlight, front and back view",
+          "match": "EXACT",
+          "credit": "Apple"
+        },
+        "Space Gray": {
+          "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-mini-select-wifi-spacegray-202410?wid=1400&hei=1400&fmt=png-alpha",
+          "page": "https://www.apple.com/shop/buy-ipad/ipad-mini",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Apple Store product image (store.storeimages.cdn-apple.com); Apple has not granted a reuse license - rights not verified.",
+          "alt": "Apple iPad mini in Space Gray, front and back view",
+          "match": "EXACT",
+          "credit": "Apple"
+        }
       }
     },
     {
@@ -1582,9 +2129,47 @@
         "page": "https://www.apple.com/shop/buy-ipad/ipad-air",
         "sourceType": "manufacturer-product-page",
         "rights": "Official Apple Store product image (store.storeimages.cdn-apple.com); Apple has not granted a reuse license - rights not verified.",
-        "credit": "Apple",
-        "alt": "Apple iPad Air 11-inch in Blue, front and rear view",
-        "match": "PRODUCT_LINE"
+        "alt": "Apple iPad Air 11-inch in Blue, front and back view",
+        "match": "EXACT",
+        "credit": "Apple"
+      },
+      "colorImages": {
+        "Blue": {
+          "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-air-select-11in-wifi-blue-202405?wid=1400&hei=1400&fmt=png-alpha",
+          "page": "https://www.apple.com/shop/buy-ipad/ipad-air",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Apple Store product image (store.storeimages.cdn-apple.com); Apple has not granted a reuse license - rights not verified.",
+          "alt": "Apple iPad Air 11-inch in Blue, front and back view",
+          "match": "EXACT",
+          "credit": "Apple"
+        },
+        "Purple": {
+          "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-air-select-11in-wifi-purple-202405?wid=1400&hei=1400&fmt=png-alpha",
+          "page": "https://www.apple.com/shop/buy-ipad/ipad-air",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Apple Store product image (store.storeimages.cdn-apple.com); Apple has not granted a reuse license - rights not verified.",
+          "alt": "Apple iPad Air 11-inch in Purple, front and back view",
+          "match": "EXACT",
+          "credit": "Apple"
+        },
+        "Starlight": {
+          "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-air-select-11in-wifi-starlight-202405?wid=1400&hei=1400&fmt=png-alpha",
+          "page": "https://www.apple.com/shop/buy-ipad/ipad-air",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Apple Store product image (store.storeimages.cdn-apple.com); Apple has not granted a reuse license - rights not verified.",
+          "alt": "Apple iPad Air 11-inch in Starlight, front and back view",
+          "match": "EXACT",
+          "credit": "Apple"
+        },
+        "Space Gray": {
+          "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-air-select-11in-wifi-spacegray-202405?wid=1400&hei=1400&fmt=png-alpha",
+          "page": "https://www.apple.com/shop/buy-ipad/ipad-air",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Apple Store product image (store.storeimages.cdn-apple.com); Apple has not granted a reuse license - rights not verified.",
+          "alt": "Apple iPad Air 11-inch in Space Gray, front and back view",
+          "match": "EXACT",
+          "credit": "Apple"
+        }
       }
     },
     {
@@ -1662,13 +2247,51 @@
         "retrievedAt": "2026-09-28"
       },
       "image": {
-        "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-air-select-13in-wifi-purple-202405?wid=1400&hei=1400&fmt=png-alpha",
+        "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-air-select-13in-wifi-blue-202405?wid=1400&hei=1400&fmt=png-alpha",
         "page": "https://www.apple.com/shop/buy-ipad/ipad-air",
         "sourceType": "manufacturer-product-page",
         "rights": "Official Apple Store product image (store.storeimages.cdn-apple.com); Apple has not granted a reuse license - rights not verified.",
-        "credit": "Apple",
-        "alt": "Apple iPad Air 13-inch in Purple, front and rear view",
-        "match": "PRODUCT_LINE"
+        "alt": "Apple iPad Air 13-inch in Blue, front and back view",
+        "match": "EXACT",
+        "credit": "Apple"
+      },
+      "colorImages": {
+        "Blue": {
+          "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-air-select-13in-wifi-blue-202405?wid=1400&hei=1400&fmt=png-alpha",
+          "page": "https://www.apple.com/shop/buy-ipad/ipad-air",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Apple Store product image (store.storeimages.cdn-apple.com); Apple has not granted a reuse license - rights not verified.",
+          "alt": "Apple iPad Air 13-inch in Blue, front and back view",
+          "match": "EXACT",
+          "credit": "Apple"
+        },
+        "Purple": {
+          "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-air-select-13in-wifi-purple-202405?wid=1400&hei=1400&fmt=png-alpha",
+          "page": "https://www.apple.com/shop/buy-ipad/ipad-air",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Apple Store product image (store.storeimages.cdn-apple.com); Apple has not granted a reuse license - rights not verified.",
+          "alt": "Apple iPad Air 13-inch in Purple, front and back view",
+          "match": "EXACT",
+          "credit": "Apple"
+        },
+        "Starlight": {
+          "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-air-select-13in-wifi-starlight-202405?wid=1400&hei=1400&fmt=png-alpha",
+          "page": "https://www.apple.com/shop/buy-ipad/ipad-air",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Apple Store product image (store.storeimages.cdn-apple.com); Apple has not granted a reuse license - rights not verified.",
+          "alt": "Apple iPad Air 13-inch in Starlight, front and back view",
+          "match": "EXACT",
+          "credit": "Apple"
+        },
+        "Space Gray": {
+          "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-air-select-13in-wifi-spacegray-202405?wid=1400&hei=1400&fmt=png-alpha",
+          "page": "https://www.apple.com/shop/buy-ipad/ipad-air",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Apple Store product image (store.storeimages.cdn-apple.com); Apple has not granted a reuse license - rights not verified.",
+          "alt": "Apple iPad Air 13-inch in Space Gray, front and back view",
+          "match": "EXACT",
+          "credit": "Apple"
+        }
       }
     },
     {
@@ -1757,9 +2380,29 @@
         "page": "https://www.apple.com/shop/buy-ipad/ipad-pro",
         "sourceType": "manufacturer-product-page",
         "rights": "Official Apple Store product image (store.storeimages.cdn-apple.com); Apple has not granted a reuse license - rights not verified.",
-        "credit": "Apple",
-        "alt": "Apple iPad Pro 11-inch in Space Black, front and rear view",
-        "match": "PRODUCT_LINE"
+        "alt": "Apple iPad Pro 11-inch in Space Black, front and back view",
+        "match": "EXACT",
+        "credit": "Apple"
+      },
+      "colorImages": {
+        "Space Black": {
+          "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-pro-11-select-wifi-spaceblack-202405?wid=1400&hei=1400&fmt=png-alpha",
+          "page": "https://www.apple.com/shop/buy-ipad/ipad-pro",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Apple Store product image (store.storeimages.cdn-apple.com); Apple has not granted a reuse license - rights not verified.",
+          "alt": "Apple iPad Pro 11-inch in Space Black, front and back view",
+          "match": "EXACT",
+          "credit": "Apple"
+        },
+        "Silver": {
+          "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-pro-11-select-wifi-silver-202405?wid=1400&hei=1400&fmt=png-alpha",
+          "page": "https://www.apple.com/shop/buy-ipad/ipad-pro",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Apple Store product image (store.storeimages.cdn-apple.com); Apple has not granted a reuse license - rights not verified.",
+          "alt": "Apple iPad Pro 11-inch in Silver, front and back view",
+          "match": "EXACT",
+          "credit": "Apple"
+        }
       }
     },
     {
@@ -1844,13 +2487,33 @@
         "retrievedAt": "2026-09-28"
       },
       "image": {
-        "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-pro-13-select-wifi-spaceblack-202405?wid=2000&hei=2000&fmt=png-alpha",
+        "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-pro-13-select-wifi-spaceblack-202405?wid=1400&hei=1400&fmt=png-alpha",
         "page": "https://www.apple.com/shop/buy-ipad/ipad-pro",
         "sourceType": "manufacturer-product-page",
         "rights": "Official Apple Store product image (store.storeimages.cdn-apple.com); Apple has not granted a reuse license - rights not verified.",
-        "credit": "Apple",
-        "alt": "Apple iPad Pro 13-inch in Space Black, front and back views",
-        "match": "PRODUCT_LINE"
+        "alt": "Apple iPad Pro 13-inch in Space Black, front and back view",
+        "match": "EXACT",
+        "credit": "Apple"
+      },
+      "colorImages": {
+        "Space Black": {
+          "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-pro-13-select-wifi-spaceblack-202405?wid=1400&hei=1400&fmt=png-alpha",
+          "page": "https://www.apple.com/shop/buy-ipad/ipad-pro",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Apple Store product image (store.storeimages.cdn-apple.com); Apple has not granted a reuse license - rights not verified.",
+          "alt": "Apple iPad Pro 13-inch in Space Black, front and back view",
+          "match": "EXACT",
+          "credit": "Apple"
+        },
+        "Silver": {
+          "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-pro-13-select-wifi-silver-202405?wid=1400&hei=1400&fmt=png-alpha",
+          "page": "https://www.apple.com/shop/buy-ipad/ipad-pro",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Apple Store product image (store.storeimages.cdn-apple.com); Apple has not granted a reuse license - rights not verified.",
+          "alt": "Apple iPad Pro 13-inch in Silver, front and back view",
+          "match": "EXACT",
+          "credit": "Apple"
+        }
       }
     },
     {
@@ -1932,13 +2595,87 @@
         "retrievedAt": "2026-09-28"
       },
       "image": {
-        "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/s12-case-unselect-gallery-1-202609?wid=2000&fmt=png-alpha",
+        "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/watch-case-46-aluminum-black-cell-s12_VW_34FR?wid=1400&hei=1400&fmt=png-alpha",
         "page": "https://www.apple.com/shop/buy-watch/apple-watch",
         "sourceType": "manufacturer-product-page",
         "rights": "Official Apple Store product image (store.storeimages.cdn-apple.com); Apple has not granted a reuse license - rights not verified.",
-        "credit": "Apple",
-        "alt": "Three Apple Watch Series 12 models side by side in different case finishes and bands, front view",
-        "match": "EXACT"
+        "alt": "Apple Watch Series 12 46mm Black Aluminum case, three-quarter front view (case only, without band)",
+        "match": "EXACT",
+        "credit": "Apple"
+      },
+      "colorImages": {
+        "Black": {
+          "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/watch-case-46-aluminum-black-cell-s12_VW_34FR?wid=1400&hei=1400&fmt=png-alpha",
+          "page": "https://www.apple.com/shop/buy-watch/apple-watch",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Apple Store product image (store.storeimages.cdn-apple.com); Apple has not granted a reuse license - rights not verified.",
+          "alt": "Apple Watch Series 12 46mm Black Aluminum case, three-quarter front view (case only, without band)",
+          "match": "EXACT",
+          "credit": "Apple"
+        },
+        "Dark Bronze": {
+          "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/watch-case-46-aluminum-darkbronze-cell-s12_VW_34FR?wid=1400&hei=1400&fmt=png-alpha",
+          "page": "https://www.apple.com/shop/buy-watch/apple-watch",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Apple Store product image (store.storeimages.cdn-apple.com); Apple has not granted a reuse license - rights not verified.",
+          "alt": "Apple Watch Series 12 46mm Dark Bronze Aluminum case, three-quarter front view (case only, without band)",
+          "match": "EXACT",
+          "credit": "Apple"
+        },
+        "Light Gold": {
+          "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/watch-case-46-aluminum-lightgold-cell-s12_VW_34FR?wid=1400&hei=1400&fmt=png-alpha",
+          "page": "https://www.apple.com/shop/buy-watch/apple-watch",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Apple Store product image (store.storeimages.cdn-apple.com); Apple has not granted a reuse license - rights not verified.",
+          "alt": "Apple Watch Series 12 46mm Light Gold Aluminum case, three-quarter front view (case only, without band)",
+          "match": "EXACT",
+          "credit": "Apple"
+        },
+        "Space Gray": {
+          "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/watch-case-46-aluminum-spacegray-cell-s12_VW_34FR?wid=1400&hei=1400&fmt=png-alpha",
+          "page": "https://www.apple.com/shop/buy-watch/apple-watch",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Apple Store product image (store.storeimages.cdn-apple.com); Apple has not granted a reuse license - rights not verified.",
+          "alt": "Apple Watch Series 12 46mm Space Gray Aluminum case, three-quarter front view (case only, without band)",
+          "match": "EXACT",
+          "credit": "Apple"
+        },
+        "Natural": {
+          "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/watch-case-46-titanium-natural-cell-s12_VW_34FR?wid=1400&hei=1400&fmt=png-alpha",
+          "page": "https://www.apple.com/shop/buy-watch/apple-watch",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Apple Store product image (store.storeimages.cdn-apple.com); Apple has not granted a reuse license - rights not verified.",
+          "alt": "Apple Watch Series 12 46mm Natural Titanium case, three-quarter front view (case only, without band)",
+          "match": "EXACT",
+          "credit": "Apple"
+        },
+        "Radiant Gold": {
+          "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/watch-case-46-titanium-radiantgold-cell-s12_VW_34FR?wid=1400&hei=1400&fmt=png-alpha",
+          "page": "https://www.apple.com/shop/buy-watch/apple-watch",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Apple Store product image (store.storeimages.cdn-apple.com); Apple has not granted a reuse license - rights not verified.",
+          "alt": "Apple Watch Series 12 46mm Radiant Gold Titanium case, three-quarter front view (case only, without band)",
+          "match": "EXACT",
+          "credit": "Apple"
+        },
+        "Pearl White": {
+          "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/watch-case-46-ceramic-pearlwhite-cell-s12_VW_34FR?wid=1400&hei=1400&fmt=png-alpha",
+          "page": "https://www.apple.com/shop/buy-watch/apple-watch",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Apple Store product image (store.storeimages.cdn-apple.com); Apple has not granted a reuse license - rights not verified.",
+          "alt": "Apple Watch Series 12 46mm Pearl White Ceramic case, three-quarter front view (case only, without band)",
+          "match": "EXACT",
+          "credit": "Apple"
+        },
+        "Night Blue": {
+          "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/watch-case-46-ceramic-nightblue-cell-s12_VW_34FR?wid=1400&hei=1400&fmt=png-alpha",
+          "page": "https://www.apple.com/shop/buy-watch/apple-watch",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Apple Store product image (store.storeimages.cdn-apple.com); Apple has not granted a reuse license - rights not verified.",
+          "alt": "Apple Watch Series 12 46mm Night Blue Ceramic case, three-quarter front view (case only, without band)",
+          "match": "EXACT",
+          "credit": "Apple"
+        }
       }
     },
     {
@@ -1981,13 +2718,33 @@
         "retrievedAt": "2026-09-28"
       },
       "image": {
-        "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ultra-case-unselect-gallery-1-202609?wid=2000&fmt=png-alpha",
-        "page": "https://www.apple.com/shop/buy-watch/apple-watch-ultra/apple-watch-ultra-4-gps-cellular-49mm-titanium-case",
+        "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/watch-case-49-titanium-natural-ultra4_VW_34FR?wid=1400&hei=1400&fmt=png-alpha",
+        "page": "https://www.apple.com/shop/buy-watch/apple-watch-ultra",
         "sourceType": "manufacturer-product-page",
         "rights": "Official Apple Store product image (store.storeimages.cdn-apple.com); Apple has not granted a reuse license - rights not verified.",
-        "credit": "Apple",
-        "alt": "Two Apple Watch Ultra 4 models in black and natural titanium with Alpine Loop bands, front view",
-        "match": "EXACT"
+        "alt": "Apple Watch Ultra 4 49mm Natural Titanium case, three-quarter front view (case only, without band)",
+        "match": "EXACT",
+        "credit": "Apple"
+      },
+      "colorImages": {
+        "Natural": {
+          "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/watch-case-49-titanium-natural-ultra4_VW_34FR?wid=1400&hei=1400&fmt=png-alpha",
+          "page": "https://www.apple.com/shop/buy-watch/apple-watch-ultra",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Apple Store product image (store.storeimages.cdn-apple.com); Apple has not granted a reuse license - rights not verified.",
+          "alt": "Apple Watch Ultra 4 49mm Natural Titanium case, three-quarter front view (case only, without band)",
+          "match": "EXACT",
+          "credit": "Apple"
+        },
+        "Black": {
+          "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/watch-case-49-titanium-black-ultra4_VW_34FR?wid=1400&hei=1400&fmt=png-alpha",
+          "page": "https://www.apple.com/shop/buy-watch/apple-watch-ultra",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Apple Store product image (store.storeimages.cdn-apple.com); Apple has not granted a reuse license - rights not verified.",
+          "alt": "Apple Watch Ultra 4 49mm Black Titanium case, three-quarter front view (case only, without band)",
+          "match": "EXACT",
+          "credit": "Apple"
+        }
       }
     },
     {
@@ -2047,13 +2804,33 @@
         "retrievedAt": "2026-09-28"
       },
       "image": {
-        "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/se-case-unselect-gallery-1-202609?wid=2000&fmt=png-alpha",
+        "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/watch-case-44-aluminum-midnight-nc-se3_VW_34FR?wid=1400&hei=1400&fmt=png-alpha",
         "page": "https://www.apple.com/shop/buy-watch/apple-watch-se",
         "sourceType": "manufacturer-product-page",
         "rights": "Official Apple Store product image (store.storeimages.cdn-apple.com); Apple has not granted a reuse license - rights not verified.",
-        "credit": "Apple",
-        "alt": "Two Apple Watch SE 3 models in Midnight and Starlight aluminum with sport band and braided loop, front view",
-        "match": "EXACT"
+        "alt": "Apple Watch SE 3 44mm Midnight Aluminum case, three-quarter front view (case only, without band)",
+        "match": "EXACT",
+        "credit": "Apple"
+      },
+      "colorImages": {
+        "Midnight": {
+          "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/watch-case-44-aluminum-midnight-nc-se3_VW_34FR?wid=1400&hei=1400&fmt=png-alpha",
+          "page": "https://www.apple.com/shop/buy-watch/apple-watch-se",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Apple Store product image (store.storeimages.cdn-apple.com); Apple has not granted a reuse license - rights not verified.",
+          "alt": "Apple Watch SE 3 44mm Midnight Aluminum case, three-quarter front view (case only, without band)",
+          "match": "EXACT",
+          "credit": "Apple"
+        },
+        "Starlight": {
+          "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/watch-case-44-aluminum-starlight-nc-se3_VW_34FR?wid=1400&hei=1400&fmt=png-alpha",
+          "page": "https://www.apple.com/shop/buy-watch/apple-watch-se",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Apple Store product image (store.storeimages.cdn-apple.com); Apple has not granted a reuse license - rights not verified.",
+          "alt": "Apple Watch SE 3 44mm Starlight Aluminum case, three-quarter front view (case only, without band)",
+          "match": "EXACT",
+          "credit": "Apple"
+        }
       }
     },
     {
@@ -2194,12 +2971,59 @@
       },
       "image": {
         "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/airpods-max-select-202409-midnight?wid=1400&hei=1400&fmt=png-alpha",
-        "page": "https://www.apple.com/shop/product/mhwk4am/a/midnight",
+        "page": "https://www.apple.com/shop/buy-airpods/airpods-max",
         "sourceType": "manufacturer-product-page",
         "rights": "Official Apple Store product image (store.storeimages.cdn-apple.com); Apple has not granted a reuse license - rights not verified.",
-        "credit": "Apple",
-        "alt": "Apple AirPods Max in Midnight, over-ear headphones front and side view",
-        "match": "PRODUCT_LINE"
+        "alt": "Apple AirPods Max 2 in Midnight",
+        "match": "EXACT",
+        "credit": "Apple"
+      },
+      "colorImages": {
+        "Midnight": {
+          "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/airpods-max-select-202409-midnight?wid=1400&hei=1400&fmt=png-alpha",
+          "page": "https://www.apple.com/shop/buy-airpods/airpods-max",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Apple Store product image (store.storeimages.cdn-apple.com); Apple has not granted a reuse license - rights not verified.",
+          "alt": "Apple AirPods Max 2 in Midnight",
+          "match": "EXACT",
+          "credit": "Apple"
+        },
+        "Starlight": {
+          "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/airpods-max-select-202409-starlight?wid=1400&hei=1400&fmt=png-alpha",
+          "page": "https://www.apple.com/shop/buy-airpods/airpods-max",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Apple Store product image (store.storeimages.cdn-apple.com); Apple has not granted a reuse license - rights not verified.",
+          "alt": "Apple AirPods Max 2 in Starlight",
+          "match": "EXACT",
+          "credit": "Apple"
+        },
+        "Blue": {
+          "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/airpods-max-select-202409-blue?wid=1400&hei=1400&fmt=png-alpha",
+          "page": "https://www.apple.com/shop/buy-airpods/airpods-max",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Apple Store product image (store.storeimages.cdn-apple.com); Apple has not granted a reuse license - rights not verified.",
+          "alt": "Apple AirPods Max 2 in Blue",
+          "match": "EXACT",
+          "credit": "Apple"
+        },
+        "Purple": {
+          "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/airpods-max-select-202409-purple?wid=1400&hei=1400&fmt=png-alpha",
+          "page": "https://www.apple.com/shop/buy-airpods/airpods-max",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Apple Store product image (store.storeimages.cdn-apple.com); Apple has not granted a reuse license - rights not verified.",
+          "alt": "Apple AirPods Max 2 in Purple",
+          "match": "EXACT",
+          "credit": "Apple"
+        },
+        "Orange": {
+          "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/airpods-max-select-202409-orange?wid=1400&hei=1400&fmt=png-alpha",
+          "page": "https://www.apple.com/shop/buy-airpods/airpods-max",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Apple Store product image (store.storeimages.cdn-apple.com); Apple has not granted a reuse license - rights not verified.",
+          "alt": "Apple AirPods Max 2 in Orange",
+          "match": "EXACT",
+          "credit": "Apple"
+        }
       }
     },
     {
@@ -2236,12 +3060,32 @@
       },
       "image": {
         "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/homepod-select-midnight-202210?wid=1400&hei=1400&fmt=png-alpha",
-        "page": "https://www.apple.com/shop/product/mdew4ll/a/midnight",
+        "page": "https://www.apple.com/shop/buy-homepod/homepod",
         "sourceType": "manufacturer-product-page",
         "rights": "Official Apple Store product image (store.storeimages.cdn-apple.com); Apple has not granted a reuse license - rights not verified.",
-        "credit": "Apple",
-        "alt": "Apple HomePod (2nd generation) in Midnight, front view",
-        "match": "EXACT"
+        "alt": "Apple HomePod (2nd generation) in Midnight",
+        "match": "EXACT",
+        "credit": "Apple"
+      },
+      "colorImages": {
+        "Midnight": {
+          "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/homepod-select-midnight-202210?wid=1400&hei=1400&fmt=png-alpha",
+          "page": "https://www.apple.com/shop/buy-homepod/homepod",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Apple Store product image (store.storeimages.cdn-apple.com); Apple has not granted a reuse license - rights not verified.",
+          "alt": "Apple HomePod (2nd generation) in Midnight",
+          "match": "EXACT",
+          "credit": "Apple"
+        },
+        "White": {
+          "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/homepod-select-white-202210?wid=1400&hei=1400&fmt=png-alpha",
+          "page": "https://www.apple.com/shop/buy-homepod/homepod",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Apple Store product image (store.storeimages.cdn-apple.com); Apple has not granted a reuse license - rights not verified.",
+          "alt": "Apple HomePod (2nd generation) in White",
+          "match": "EXACT",
+          "credit": "Apple"
+        }
       }
     },
     {
@@ -2280,13 +3124,60 @@
         "retrievedAt": "2026-09-28"
       },
       "image": {
-        "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/homepod-mini-select-blue-202110?wid=1400&hei=1400&fmt=png-alpha",
-        "page": "https://www.apple.com/shop/product/mj2c3ll/a/blue",
+        "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/homepod-mini-select-white-202110?wid=1400&hei=1400&fmt=png-alpha",
+        "page": "https://www.apple.com/shop/buy-homepod/homepod-mini",
         "sourceType": "manufacturer-product-page",
         "rights": "Official Apple Store product image (store.storeimages.cdn-apple.com); Apple has not granted a reuse license - rights not verified.",
-        "credit": "Apple",
-        "alt": "Apple HomePod mini in Blue, front view",
-        "match": "EXACT"
+        "alt": "Apple HomePod mini in White",
+        "match": "EXACT",
+        "credit": "Apple"
+      },
+      "colorImages": {
+        "White": {
+          "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/homepod-mini-select-white-202110?wid=1400&hei=1400&fmt=png-alpha",
+          "page": "https://www.apple.com/shop/buy-homepod/homepod-mini",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Apple Store product image (store.storeimages.cdn-apple.com); Apple has not granted a reuse license - rights not verified.",
+          "alt": "Apple HomePod mini in White",
+          "match": "EXACT",
+          "credit": "Apple"
+        },
+        "Yellow": {
+          "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/homepod-mini-select-yellow-202110?wid=1400&hei=1400&fmt=png-alpha",
+          "page": "https://www.apple.com/shop/buy-homepod/homepod-mini",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Apple Store product image (store.storeimages.cdn-apple.com); Apple has not granted a reuse license - rights not verified.",
+          "alt": "Apple HomePod mini in Yellow",
+          "match": "EXACT",
+          "credit": "Apple"
+        },
+        "Orange": {
+          "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/homepod-mini-select-orange-202110?wid=1400&hei=1400&fmt=png-alpha",
+          "page": "https://www.apple.com/shop/buy-homepod/homepod-mini",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Apple Store product image (store.storeimages.cdn-apple.com); Apple has not granted a reuse license - rights not verified.",
+          "alt": "Apple HomePod mini in Orange",
+          "match": "EXACT",
+          "credit": "Apple"
+        },
+        "Blue": {
+          "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/homepod-mini-select-blue-202110?wid=1400&hei=1400&fmt=png-alpha",
+          "page": "https://www.apple.com/shop/buy-homepod/homepod-mini",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Apple Store product image (store.storeimages.cdn-apple.com); Apple has not granted a reuse license - rights not verified.",
+          "alt": "Apple HomePod mini in Blue",
+          "match": "EXACT",
+          "credit": "Apple"
+        },
+        "Midnight": {
+          "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/homepod-mini-select-midnight-202407?wid=1400&hei=1400&fmt=png-alpha",
+          "page": "https://www.apple.com/shop/buy-homepod/homepod-mini",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Apple Store product image (store.storeimages.cdn-apple.com); Apple has not granted a reuse license - rights not verified.",
+          "alt": "Apple HomePod mini in Midnight",
+          "match": "EXACT",
+          "credit": "Apple"
+        }
       }
     },
     {
@@ -2470,9 +3361,29 @@
         "page": "https://www.apple.com/shop/product/mjm64ll/a/magic-keyboard-with-touch-id-and-numeric-keypad-for-mac-models-with-apple-silicon-usb-c-us-english-white-keys",
         "sourceType": "manufacturer-product-page",
         "rights": "Official Apple Store product image (store.storeimages.cdn-apple.com); Apple has not granted a reuse license - rights not verified.",
-        "credit": "Apple",
-        "alt": "Apple Magic Keyboard with Touch ID and Numeric Keypad in white, top view of the full-size layout",
-        "match": "EXACT"
+        "alt": "Apple Magic Keyboard with Touch ID and Numeric Keypad (USB-C) with White keys, top view",
+        "match": "EXACT",
+        "credit": "Apple"
+      },
+      "colorImages": {
+        "White": {
+          "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/MJM64?wid=1400&hei=1400&fmt=png-alpha",
+          "page": "https://www.apple.com/shop/product/mjm64ll/a/magic-keyboard-with-touch-id-and-numeric-keypad-for-mac-models-with-apple-silicon-usb-c-us-english-white-keys",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Apple Store product image (store.storeimages.cdn-apple.com); Apple has not granted a reuse license - rights not verified.",
+          "alt": "Apple Magic Keyboard with Touch ID and Numeric Keypad (USB-C) with White keys, top view",
+          "match": "EXACT",
+          "credit": "Apple"
+        },
+        "Black": {
+          "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/MJM74?wid=1400&hei=1400&fmt=png-alpha",
+          "page": "https://www.apple.com/shop/product/mjm64ll/a/magic-keyboard-with-touch-id-and-numeric-keypad-for-mac-models-with-apple-silicon-usb-c-us-english-white-keys",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Apple Store product image (store.storeimages.cdn-apple.com); Apple has not granted a reuse license - rights not verified.",
+          "alt": "Apple Magic Keyboard with Touch ID and Numeric Keypad (USB-C) with Black keys, top view",
+          "match": "EXACT",
+          "credit": "Apple"
+        }
       }
     },
     {
@@ -2510,9 +3421,29 @@
         "page": "https://www.apple.com/shop/product/mxk53am/a/magic-mouse-usb%E2%80%91c-white-multi-touch-surface",
         "sourceType": "manufacturer-product-page",
         "rights": "Official Apple Store product image (store.storeimages.cdn-apple.com); Apple has not granted a reuse license - rights not verified.",
-        "credit": "Apple",
-        "alt": "Apple Magic Mouse (USB-C) with white Multi-Touch surface, side view",
-        "match": "EXACT"
+        "alt": "Apple Magic Mouse (USB-C) with White Multi-Touch surface, side view",
+        "match": "EXACT",
+        "credit": "Apple"
+      },
+      "colorImages": {
+        "White": {
+          "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/MXK53?wid=1400&hei=1400&fmt=png-alpha",
+          "page": "https://www.apple.com/shop/product/mxk53am/a/magic-mouse-usb%E2%80%91c-white-multi-touch-surface",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Apple Store product image (store.storeimages.cdn-apple.com); Apple has not granted a reuse license - rights not verified.",
+          "alt": "Apple Magic Mouse (USB-C) with White Multi-Touch surface, side view",
+          "match": "EXACT",
+          "credit": "Apple"
+        },
+        "Black": {
+          "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/MXK63?wid=1400&hei=1400&fmt=png-alpha",
+          "page": "https://www.apple.com/shop/product/mxk53am/a/magic-mouse-usb%E2%80%91c-white-multi-touch-surface",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Apple Store product image (store.storeimages.cdn-apple.com); Apple has not granted a reuse license - rights not verified.",
+          "alt": "Apple Magic Mouse (USB-C) with Black Multi-Touch surface, side view",
+          "match": "EXACT",
+          "credit": "Apple"
+        }
       }
     },
     {
@@ -2551,9 +3482,29 @@
         "page": "https://www.apple.com/shop/product/mxk93am/a/magic-trackpad-usb%E2%80%91c-white-multi-touch-surface",
         "sourceType": "manufacturer-product-page",
         "rights": "Official Apple Store product image (store.storeimages.cdn-apple.com); Apple has not granted a reuse license - rights not verified.",
-        "credit": "Apple",
-        "alt": "Apple Magic Trackpad (USB-C) with white Multi-Touch surface, angled top view",
-        "match": "EXACT"
+        "alt": "Apple Magic Trackpad (USB-C) with White Multi-Touch surface, angled view",
+        "match": "EXACT",
+        "credit": "Apple"
+      },
+      "colorImages": {
+        "White": {
+          "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/MXK93?wid=1400&hei=1400&fmt=png-alpha",
+          "page": "https://www.apple.com/shop/product/mxk93am/a/magic-trackpad-usb%E2%80%91c-white-multi-touch-surface",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Apple Store product image (store.storeimages.cdn-apple.com); Apple has not granted a reuse license - rights not verified.",
+          "alt": "Apple Magic Trackpad (USB-C) with White Multi-Touch surface, angled view",
+          "match": "EXACT",
+          "credit": "Apple"
+        },
+        "Black": {
+          "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/MXKA3?wid=1400&hei=1400&fmt=png-alpha",
+          "page": "https://www.apple.com/shop/product/mxk93am/a/magic-trackpad-usb%E2%80%91c-white-multi-touch-surface",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Apple Store product image (store.storeimages.cdn-apple.com); Apple has not granted a reuse license - rights not verified.",
+          "alt": "Apple Magic Trackpad (USB-C) with Black Multi-Touch surface, angled view",
+          "match": "EXACT",
+          "credit": "Apple"
+        }
       }
     },
     {
@@ -2589,9 +3540,29 @@
         "page": "https://www.apple.com/shop/product/mwr03ll/a/magic-keyboard-for-ipad-pro-11%E2%80%91inch-m5-us-english-white",
         "sourceType": "manufacturer-product-page",
         "rights": "Official Apple Store product image (store.storeimages.cdn-apple.com); Apple has not granted a reuse license - rights not verified.",
-        "credit": "Apple",
-        "alt": "Apple Magic Keyboard for iPad Pro 11-inch in white, attached to an iPad Pro and opened at an angle",
-        "match": "EXACT"
+        "alt": "Apple Magic Keyboard for iPad Pro 11-inch (M5) in White, front view with iPad attached",
+        "match": "EXACT",
+        "credit": "Apple"
+      },
+      "colorImages": {
+        "White": {
+          "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/MWR03?wid=1400&hei=1400&fmt=png-alpha",
+          "page": "https://www.apple.com/shop/product/mwr03ll/a/magic-keyboard-for-ipad-pro-11%E2%80%91inch-m5-us-english-white",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Apple Store product image (store.storeimages.cdn-apple.com); Apple has not granted a reuse license - rights not verified.",
+          "alt": "Apple Magic Keyboard for iPad Pro 11-inch (M5) in White, front view with iPad attached",
+          "match": "EXACT",
+          "credit": "Apple"
+        },
+        "Black": {
+          "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/MWR23?wid=1400&hei=1400&fmt=png-alpha",
+          "page": "https://www.apple.com/shop/product/mwr03ll/a/magic-keyboard-for-ipad-pro-11%E2%80%91inch-m5-us-english-white",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Apple Store product image (store.storeimages.cdn-apple.com); Apple has not granted a reuse license - rights not verified.",
+          "alt": "Apple Magic Keyboard for iPad Pro 11-inch (M5) in Black, front view with iPad attached",
+          "match": "EXACT",
+          "credit": "Apple"
+        }
       }
     },
     {
@@ -2627,9 +3598,29 @@
         "page": "https://www.apple.com/shop/product/mwr53ll/a/magic-keyboard-for-ipad-pro-13%E2%80%91inch-m5-us-english-black",
         "sourceType": "manufacturer-product-page",
         "rights": "Official Apple Store product image (store.storeimages.cdn-apple.com); Apple has not granted a reuse license - rights not verified.",
-        "credit": "Apple",
-        "alt": "Apple Magic Keyboard for iPad Pro 13-inch in black, attached to an iPad Pro and opened at an angle",
-        "match": "EXACT"
+        "alt": "Apple Magic Keyboard for iPad Pro 13-inch (M5) in Black, front view with iPad attached",
+        "match": "EXACT",
+        "credit": "Apple"
+      },
+      "colorImages": {
+        "Black": {
+          "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/MWR53?wid=1400&hei=1400&fmt=png-alpha",
+          "page": "https://www.apple.com/shop/product/mwr53ll/a/magic-keyboard-for-ipad-pro-13%E2%80%91inch-m5-us-english-black",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Apple Store product image (store.storeimages.cdn-apple.com); Apple has not granted a reuse license - rights not verified.",
+          "alt": "Apple Magic Keyboard for iPad Pro 13-inch (M5) in Black, front view with iPad attached",
+          "match": "EXACT",
+          "credit": "Apple"
+        },
+        "White": {
+          "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/MWR43?wid=1400&hei=1400&fmt=png-alpha",
+          "page": "https://www.apple.com/shop/product/mwr53ll/a/magic-keyboard-for-ipad-pro-13%E2%80%91inch-m5-us-english-black",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Apple Store product image (store.storeimages.cdn-apple.com); Apple has not granted a reuse license - rights not verified.",
+          "alt": "Apple Magic Keyboard for iPad Pro 13-inch (M5) in White, front view with iPad attached",
+          "match": "EXACT",
+          "credit": "Apple"
+        }
       }
     },
     {
@@ -2665,9 +3656,29 @@
         "page": "https://www.apple.com/shop/product/mdfv4ll/a/magic-keyboard-for-ipad-air-11%E2%80%91inch-m4-us-english-white",
         "sourceType": "manufacturer-product-page",
         "rights": "Official Apple Store product image (store.storeimages.cdn-apple.com); Apple has not granted a reuse license - rights not verified.",
-        "credit": "Apple",
-        "alt": "Apple Magic Keyboard for iPad Air 11-inch in white, attached to an iPad Air and opened at an angle",
-        "match": "EXACT"
+        "alt": "Apple Magic Keyboard for iPad Air 11-inch (M4) in White, front view with iPad attached",
+        "match": "EXACT",
+        "credit": "Apple"
+      },
+      "colorImages": {
+        "White": {
+          "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/MDFV4?wid=1400&hei=1400&fmt=png-alpha",
+          "page": "https://www.apple.com/shop/product/mdfv4ll/a/magic-keyboard-for-ipad-air-11%E2%80%91inch-m4-us-english-white",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Apple Store product image (store.storeimages.cdn-apple.com); Apple has not granted a reuse license - rights not verified.",
+          "alt": "Apple Magic Keyboard for iPad Air 11-inch (M4) in White, front view with iPad attached",
+          "match": "EXACT",
+          "credit": "Apple"
+        },
+        "Black": {
+          "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/MGYX4?wid=1400&hei=1400&fmt=png-alpha",
+          "page": "https://www.apple.com/shop/product/mdfv4ll/a/magic-keyboard-for-ipad-air-11%E2%80%91inch-m4-us-english-white",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Apple Store product image (store.storeimages.cdn-apple.com); Apple has not granted a reuse license - rights not verified.",
+          "alt": "Apple Magic Keyboard for iPad Air 11-inch (M4) in Black, front view with iPad attached",
+          "match": "EXACT",
+          "credit": "Apple"
+        }
       }
     },
     {
@@ -2703,9 +3714,29 @@
         "page": "https://www.apple.com/shop/product/mgyy4ll/a/magic-keyboard-for-ipad-air-13%E2%80%91inch-m4-us-english-black",
         "sourceType": "manufacturer-product-page",
         "rights": "Official Apple Store product image (store.storeimages.cdn-apple.com); Apple has not granted a reuse license - rights not verified.",
-        "credit": "Apple",
-        "alt": "Apple Magic Keyboard for iPad Air 13-inch in black, attached to an iPad Air and opened at an angle",
-        "match": "EXACT"
+        "alt": "Apple Magic Keyboard for iPad Air 13-inch (M4) in Black, front view with iPad attached",
+        "match": "EXACT",
+        "credit": "Apple"
+      },
+      "colorImages": {
+        "Black": {
+          "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/MGYY4?wid=1400&hei=1400&fmt=png-alpha",
+          "page": "https://www.apple.com/shop/product/mgyy4ll/a/magic-keyboard-for-ipad-air-13%E2%80%91inch-m4-us-english-black",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Apple Store product image (store.storeimages.cdn-apple.com); Apple has not granted a reuse license - rights not verified.",
+          "alt": "Apple Magic Keyboard for iPad Air 13-inch (M4) in Black, front view with iPad attached",
+          "match": "EXACT",
+          "credit": "Apple"
+        },
+        "White": {
+          "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/MDFW4?wid=1400&hei=1400&fmt=png-alpha",
+          "page": "https://www.apple.com/shop/product/mgyy4ll/a/magic-keyboard-for-ipad-air-13%E2%80%91inch-m4-us-english-black",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Apple Store product image (store.storeimages.cdn-apple.com); Apple has not granted a reuse license - rights not verified.",
+          "alt": "Apple Magic Keyboard for iPad Air 13-inch (M4) in White, front view with iPad attached",
+          "match": "EXACT",
+          "credit": "Apple"
+        }
       }
     },
     {
@@ -3223,17 +4254,74 @@
         "page": "https://www.apple.com/shop/product/mw613am/a/usb-c-to-magsafe-3-cable-2-m-silver",
         "sourceType": "manufacturer-product-page",
         "rights": "Official Apple Store product image (store.storeimages.cdn-apple.com); Apple has not granted a reuse license - rights not verified.",
-        "credit": "Apple",
-        "alt": "Apple USB-C to MagSafe 3 Cable (2 m) in silver, coiled braided cable with MagSafe 3 connector",
-        "match": "EXACT"
+        "alt": "Apple USB-C to MagSafe 3 Cable (2 m) in Silver, coiled",
+        "match": "EXACT",
+        "credit": "Apple"
       },
       "colors": [
         "Silver",
         "Space Black",
         "Midnight",
         "Starlight",
-        "Sky Blue"
-      ]
+        "Sky Blue",
+        "Space Gray"
+      ],
+      "colorImages": {
+        "Silver": {
+          "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/MLYV3?wid=1400&hei=1400&fmt=png-alpha",
+          "page": "https://www.apple.com/shop/product/mw613am/a/usb-c-to-magsafe-3-cable-2-m-silver",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Apple Store product image (store.storeimages.cdn-apple.com); Apple has not granted a reuse license - rights not verified.",
+          "alt": "Apple USB-C to MagSafe 3 Cable (2 m) in Silver, coiled",
+          "match": "EXACT",
+          "credit": "Apple"
+        },
+        "Space Black": {
+          "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/MUVQ3?wid=1400&hei=1400&fmt=png-alpha",
+          "page": "https://www.apple.com/shop/product/mw613am/a/usb-c-to-magsafe-3-cable-2-m-silver",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Apple Store product image (store.storeimages.cdn-apple.com); Apple has not granted a reuse license - rights not verified.",
+          "alt": "Apple USB-C to MagSafe 3 Cable (2 m) in Space Black, coiled",
+          "match": "EXACT",
+          "credit": "Apple"
+        },
+        "Midnight": {
+          "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/MPL43?wid=1400&hei=1400&fmt=png-alpha",
+          "page": "https://www.apple.com/shop/product/mw613am/a/usb-c-to-magsafe-3-cable-2-m-silver",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Apple Store product image (store.storeimages.cdn-apple.com); Apple has not granted a reuse license - rights not verified.",
+          "alt": "Apple USB-C to MagSafe 3 Cable (2 m) in Midnight, coiled",
+          "match": "EXACT",
+          "credit": "Apple"
+        },
+        "Starlight": {
+          "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/MPL33?wid=1400&hei=1400&fmt=png-alpha",
+          "page": "https://www.apple.com/shop/product/mw613am/a/usb-c-to-magsafe-3-cable-2-m-silver",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Apple Store product image (store.storeimages.cdn-apple.com); Apple has not granted a reuse license - rights not verified.",
+          "alt": "Apple USB-C to MagSafe 3 Cable (2 m) in Starlight, coiled",
+          "match": "EXACT",
+          "credit": "Apple"
+        },
+        "Sky Blue": {
+          "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/MDF14?wid=1400&hei=1400&fmt=png-alpha",
+          "page": "https://www.apple.com/shop/product/mw613am/a/usb-c-to-magsafe-3-cable-2-m-silver",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Apple Store product image (store.storeimages.cdn-apple.com); Apple has not granted a reuse license - rights not verified.",
+          "alt": "Apple USB-C to MagSafe 3 Cable (2 m) in Sky Blue, coiled",
+          "match": "EXACT",
+          "credit": "Apple"
+        },
+        "Space Gray": {
+          "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/MPL23?wid=1400&hei=1400&fmt=png-alpha",
+          "page": "https://www.apple.com/shop/product/mw613am/a/usb-c-to-magsafe-3-cable-2-m-silver",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Apple Store product image (store.storeimages.cdn-apple.com); Apple has not granted a reuse license - rights not verified.",
+          "alt": "Apple USB-C to MagSafe 3 Cable (2 m) in Space Gray, coiled",
+          "match": "EXACT",
+          "credit": "Apple"
+        }
+      }
     },
     {
       "sku": "TK-APPLE-240W-USBC-CABLE",

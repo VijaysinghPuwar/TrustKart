@@ -2290,34 +2290,13 @@
      "values": [
       {
        "label": "Black",
-       "default": true,
-       "image": {
-        "small": "/images/catalog/samsung-portable-ssd-t7-shield--black-400.webp",
-        "large": "/images/catalog/samsung-portable-ssd-t7-shield--black-800.webp",
-        "width": 800,
-        "height": 800,
-        "alt": "Samsung Portable SSD T7 Shield in Black, official Samsung product photo"
-       }
+       "default": true
       },
       {
-       "label": "Blue",
-       "image": {
-        "small": "/images/catalog/samsung-portable-ssd-t7-shield--blue-400.webp",
-        "large": "/images/catalog/samsung-portable-ssd-t7-shield--blue-800.webp",
-        "width": 800,
-        "height": 800,
-        "alt": "Samsung Portable SSD T7 Shield in Blue, official Samsung product photo"
-       }
+       "label": "Blue"
       },
       {
-       "label": "Beige",
-       "image": {
-        "small": "/images/catalog/samsung-portable-ssd-t7-shield--beige-400.webp",
-        "large": "/images/catalog/samsung-portable-ssd-t7-shield--beige-800.webp",
-        "width": 800,
-        "height": 800,
-        "alt": "Samsung Portable SSD T7 Shield in Beige, official Samsung product photo"
-       }
+       "label": "Beige"
       }
      ]
     }
@@ -2376,24 +2355,10 @@
      "values": [
       {
        "label": "Gray",
-       "default": true,
-       "image": {
-        "small": "/images/catalog/samsung-portable-ssd-t7--gray-400.webp",
-        "large": "/images/catalog/samsung-portable-ssd-t7--gray-800.webp",
-        "width": 800,
-        "height": 800,
-        "alt": "Samsung Portable SSD T7 in Gray, official Samsung product photo"
-       }
+       "default": true
       },
       {
-       "label": "Blue",
-       "image": {
-        "small": "/images/catalog/samsung-portable-ssd-t7--blue-400.webp",
-        "large": "/images/catalog/samsung-portable-ssd-t7--blue-800.webp",
-        "width": 800,
-        "height": 800,
-        "alt": "Samsung Portable SSD T7 in Blue, official Samsung product photo"
-       }
+       "label": "Blue"
       }
      ]
     }

@@ -60,15 +60,53 @@
         "specs": "https://store.google.com/us/product/pixel_11_specs"
       },
       "image": {
-        "url": "https://lh3.googleusercontent.com/m1Q2dS0qtngdX5gkxk02gjVTEHH43DK9d2l3RqAv0MbWwA7xKBoY30pmZH01PC9LJ88Kvhs29nSVrcF4YJcMINKSb8dwNmSaEmJW=s1600",
+        "url": "https://lh3.googleusercontent.com/kyHms-QRU2yPH7fecJnDdhXdRXWYQOismjTeOPYkQAZyzuS2VM6XjcmLnK_DxKw395F45EvItfctXpBadIOZhrN6lpqhB55pCw=s1600",
         "page": "https://store.google.com/us/config/pixel_11",
         "sourceType": "manufacturer-product-page",
         "rights": "Official Google Store product image (store.google.com); Google has not granted a reuse license — rights not verified.",
         "credit": "Google",
-        "alt": "Google Pixel 11 in Obsidian, rear view showing the slim horizontal camera bar",
+        "alt": "Google Pixel 11 in Frost, rear view",
         "match": "EXACT"
       },
-      "notes": "Weight converted from Google's published 6.9 oz. List price shown; Google Store showed trade-in promotions on 2026-09-28."
+      "notes": "Weight converted from Google's published 6.9 oz. List price shown; Google Store showed trade-in promotions on 2026-09-28.",
+      "colorImages": {
+        "Frost": {
+          "url": "https://lh3.googleusercontent.com/kyHms-QRU2yPH7fecJnDdhXdRXWYQOismjTeOPYkQAZyzuS2VM6XjcmLnK_DxKw395F45EvItfctXpBadIOZhrN6lpqhB55pCw=s1600",
+          "page": "https://store.google.com/us/config/pixel_11",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Google Store product image (store.google.com); Google has not granted a reuse license — rights not verified.",
+          "credit": "Google",
+          "alt": "Google Pixel 11 in Frost, rear view",
+          "match": "EXACT"
+        },
+        "Hibiscus": {
+          "url": "https://lh3.googleusercontent.com/0VOxObyXiZffXgacyS_cNfA69J3yoRRU18Bu5kB-0TSzp3qM_AXiYT6GVozW1GKdeUWkaQ35w1p2K3mS4gfyd9rfiZA5v04mooLP=s1600",
+          "page": "https://store.google.com/us/config/pixel_11",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Google Store product image (store.google.com); Google has not granted a reuse license — rights not verified.",
+          "credit": "Google",
+          "alt": "Google Pixel 11 in Hibiscus, rear view",
+          "match": "EXACT"
+        },
+        "Pistachio": {
+          "url": "https://lh3.googleusercontent.com/LTfMTGxX6IvZ_UM1lkAEEKzPLnSyT06dxlXDaI6oO5GMYXmH5k-hQZkG-Ih7kQ-X3u1wJSjJijP5AZjVIKWsn-r5fnjmrwwypT0=s1600",
+          "page": "https://store.google.com/us/config/pixel_11",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Google Store product image (store.google.com); Google has not granted a reuse license — rights not verified.",
+          "credit": "Google",
+          "alt": "Google Pixel 11 in Pistachio, rear view",
+          "match": "EXACT"
+        },
+        "Obsidian": {
+          "url": "https://lh3.googleusercontent.com/m1Q2dS0qtngdX5gkxk02gjVTEHH43DK9d2l3RqAv0MbWwA7xKBoY30pmZH01PC9LJ88Kvhs29nSVrcF4YJcMINKSb8dwNmSaEmJW=s1600",
+          "page": "https://store.google.com/us/config/pixel_11",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Google Store product image (store.google.com); Google has not granted a reuse license — rights not verified.",
+          "credit": "Google",
+          "alt": "Google Pixel 11 in Obsidian, rear view",
+          "match": "EXACT"
+        }
+      }
     },
     {
       "brand": "Google",
@@ -136,10 +174,48 @@
         "sourceType": "manufacturer-product-page",
         "rights": "Official Google Store product image (store.google.com); Google has not granted a reuse license — rights not verified.",
         "credit": "Google",
-        "alt": "Google Pixel 11 Pro in Canyon, rear view showing the triple camera bar",
+        "alt": "Google Pixel 11 Pro in Canyon, rear view",
         "match": "EXACT"
       },
-      "notes": "Weight converted from Google's published 7.2 oz."
+      "notes": "Weight converted from Google's published 7.2 oz.",
+      "colorImages": {
+        "Canyon": {
+          "url": "https://lh3.googleusercontent.com/lpfGf03oOHLWt_ZLnQxcmkGtPG8V1Oa1H-7YGp_TTkil3QWiZERY1WfhPHEhj8cDzZJ_ygYt-1MguOYSxDdVWNUfQpnx4J8C9bf8=s1600",
+          "page": "https://store.google.com/us/config/pixel_11_pro",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Google Store product image (store.google.com); Google has not granted a reuse license — rights not verified.",
+          "credit": "Google",
+          "alt": "Google Pixel 11 Pro in Canyon, rear view",
+          "match": "EXACT"
+        },
+        "Olive": {
+          "url": "https://lh3.googleusercontent.com/tVFgCRdJalTzpO-snfPSnaAvnnITU9BOQKoo_-WloTUJ_qDCg-tiCuyVulUC6tuNZciZenqq1OOtksBAaPFqrKnwf_fKOVD14A=s1600",
+          "page": "https://store.google.com/us/config/pixel_11_pro",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Google Store product image (store.google.com); Google has not granted a reuse license — rights not verified.",
+          "credit": "Google",
+          "alt": "Google Pixel 11 Pro in Olive, rear view",
+          "match": "EXACT"
+        },
+        "Fog": {
+          "url": "https://lh3.googleusercontent.com/z9YDvMS3im_9IxTkZrqOpFKbnsR7NwOJ6anTSxUJmuj7MxNPD6D0lZIAXnqGk33QNnI2sEpe1w3kNosJHy8yuZgA85M1BFJXvxA=s1600",
+          "page": "https://store.google.com/us/config/pixel_11_pro",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Google Store product image (store.google.com); Google has not granted a reuse license — rights not verified.",
+          "credit": "Google",
+          "alt": "Google Pixel 11 Pro in Fog, rear view",
+          "match": "EXACT"
+        },
+        "Obsidian (Matte)": {
+          "url": "https://lh3.googleusercontent.com/gpbBXzjLYB_aEpldnNTAhV1i5y9U59wyiopML6Wv3rQ1Mdj_J2CbHwGbscP5UbE4xsgxKoRf2dKSCvwVrScOINc60xXoxKiI055D=s1600",
+          "page": "https://store.google.com/us/config/pixel_11_pro",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Google Store product image (store.google.com); Google has not granted a reuse license — rights not verified.",
+          "credit": "Google",
+          "alt": "Google Pixel 11 Pro in Obsidian (Matte), rear view",
+          "match": "EXACT"
+        }
+      }
     },
     {
       "brand": "Google",
@@ -205,10 +281,48 @@
         "sourceType": "manufacturer-product-page",
         "rights": "Official Google Store product image (store.google.com); Google has not granted a reuse license — rights not verified.",
         "credit": "Google",
-        "alt": "Google Pixel 11 Pro XL in Canyon, rear view showing the triple camera bar",
+        "alt": "Google Pixel 11 Pro XL in Canyon, rear view",
         "match": "EXACT"
       },
-      "notes": "Google Store lists Pro XL from $1,299; higher storage tiers are priced in the configurator relative to size and were not recorded separately. Weight converted from 8 oz."
+      "notes": "Google Store lists Pro XL from $1,299; higher storage tiers are priced in the configurator relative to size and were not recorded separately. Weight converted from 8 oz.",
+      "colorImages": {
+        "Canyon": {
+          "url": "https://lh3.googleusercontent.com/jEVeFlAk_7Dy27zIImbR5s0tX--gd9pjhrItGqBriNCF7NDrGzfiqf48V_LbB2srWU29xkuoZzbJgsBtBWPydKgoLjq5tBbO5_o=s1600",
+          "page": "https://store.google.com/us/config/pixel_11_pro",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Google Store product image (store.google.com); Google has not granted a reuse license — rights not verified.",
+          "credit": "Google",
+          "alt": "Google Pixel 11 Pro XL in Canyon, rear view",
+          "match": "EXACT"
+        },
+        "Olive": {
+          "url": "https://lh3.googleusercontent.com/eJNJs0g8KlDz2gGn2TUU9HH7VZr6-m8Oo7oTKMtzuwOUEG0Ksoxyns4tWBbgwjs_Dt-a2b2N3IfkY2jIeAvah0SA8rE4ndBHBA=s1600",
+          "page": "https://store.google.com/us/config/pixel_11_pro",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Google Store product image (store.google.com); Google has not granted a reuse license — rights not verified.",
+          "credit": "Google",
+          "alt": "Google Pixel 11 Pro XL in Olive, rear view",
+          "match": "EXACT"
+        },
+        "Fog": {
+          "url": "https://lh3.googleusercontent.com/c3DbVW6T7xt8VTWGcEH13Pj62JrL7iWg-xUQmp3XRYKlo2CPwrGNuUS3tsvLLuXSO-ANkIc4bqeyKr48HheeKD0dLXUKnHs6YaOY=s1600",
+          "page": "https://store.google.com/us/config/pixel_11_pro",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Google Store product image (store.google.com); Google has not granted a reuse license — rights not verified.",
+          "credit": "Google",
+          "alt": "Google Pixel 11 Pro XL in Fog, rear view",
+          "match": "EXACT"
+        },
+        "Obsidian (Matte)": {
+          "url": "https://lh3.googleusercontent.com/BS9YBVWWPRHqMhG0p9KuSvuG954spGGb8mNz-WdB_8VZNjQskul67DCJk77Lln1Etsr4bvLAUUkC6hPToGf2koUPnWjmM5z8mko=s1600",
+          "page": "https://store.google.com/us/config/pixel_11_pro",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Google Store product image (store.google.com); Google has not granted a reuse license — rights not verified.",
+          "credit": "Google",
+          "alt": "Google Pixel 11 Pro XL in Obsidian (Matte), rear view",
+          "match": "EXACT"
+        }
+      }
     },
     {
       "brand": "Google",
@@ -270,15 +384,35 @@
         "specs": "https://store.google.com/us/product/pixel_11_pro_fold_specs"
       },
       "image": {
-        "url": "https://lh3.googleusercontent.com/uKrlymSXzrRITAhEv5mKxCr4OnFKp7pKCcZxooDI8KsdvaJtGcEfNFX-2q-JVOa60N3pLtxlqGgbNh1n9t5_vQXQ4ZI9zS0k9g=s1600",
+        "url": "https://lh3.googleusercontent.com/7bAFKKkShy2Ml49iyisIoV-ZUFTA-DooIwE-gUlUf1voIiqExIOB1wXBroEzc4DvaiggOS80ykqHSrhFF74QZ9936JJfNXlvJg=s1600",
         "page": "https://store.google.com/us/config/pixel_11_pro_fold",
         "sourceType": "manufacturer-product-page",
         "rights": "Official Google Store product image (store.google.com); Google has not granted a reuse license — rights not verified.",
         "credit": "Google",
-        "alt": "Google Pixel 11 Pro Fold unfolded, front view of the 8-inch inner display",
+        "alt": "Google Pixel 11 Pro Fold in Olive, folded, rear view",
         "match": "EXACT"
       },
-      "notes": "Weight converted from Google's published 8.4 oz."
+      "notes": "Weight converted from Google's published 8.4 oz.",
+      "colorImages": {
+        "Olive": {
+          "url": "https://lh3.googleusercontent.com/7bAFKKkShy2Ml49iyisIoV-ZUFTA-DooIwE-gUlUf1voIiqExIOB1wXBroEzc4DvaiggOS80ykqHSrhFF74QZ9936JJfNXlvJg=s1600",
+          "page": "https://store.google.com/us/config/pixel_11_pro_fold",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Google Store product image (store.google.com); Google has not granted a reuse license — rights not verified.",
+          "credit": "Google",
+          "alt": "Google Pixel 11 Pro Fold in Olive, folded, rear view",
+          "match": "EXACT"
+        },
+        "Obsidian": {
+          "url": "https://lh3.googleusercontent.com/fGURXLVgumj-_vnGs5nB8omikHBsXofHNUfwkcYk1Scc8UYjyfRmS034oANXXM-IX5WhxSnJIptU58wFaVHhM9y8zro7-pbGog=s1600",
+          "page": "https://store.google.com/us/config/pixel_11_pro_fold",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Google Store product image (store.google.com); Google has not granted a reuse license — rights not verified.",
+          "credit": "Google",
+          "alt": "Google Pixel 11 Pro Fold in Obsidian, folded, rear view",
+          "match": "EXACT"
+        }
+      }
     },
     {
       "brand": "Google",
@@ -337,15 +471,53 @@
         "specs": "https://store.google.com/us/product/pixel_10a_specs"
       },
       "image": {
-        "url": "https://lh3.googleusercontent.com/D5icple_N2oELSuOKPpMRDjjBJoQj2xDRJmt81rMC12JllvYHhuCPlAGcK-44QGu0XFKwbwNTcn4pRiqaFP-qZv3liRQzm7eFGg=s1600",
+        "url": "https://lh3.googleusercontent.com/IdB9Le3UUPMZBqGC5TduhBB8n12Dv8xKFJpmOnyWzLf0IHN_4qoXupO-3mTGstYuI-NETHcrhG2LdU85dXCH59OJ8HVf_-WftV8=s1600",
         "page": "https://store.google.com/us/config/pixel_10a",
         "sourceType": "manufacturer-product-page",
         "rights": "Official Google Store product image (store.google.com); Google has not granted a reuse license — rights not verified.",
         "credit": "Google",
-        "alt": "Google Pixel 10a in Obsidian, rear view with the flush dual camera",
+        "alt": "Google Pixel 10a in Lavender, rear view",
         "match": "EXACT"
       },
-      "notes": "List price $499 (Google Store showed it on sale from $424 on 2026-09-28; 256 GB shown at a sale price of $524, list not recorded). Weight converted from 6.5 oz."
+      "notes": "List price $499 (Google Store showed it on sale from $424 on 2026-09-28; 256 GB shown at a sale price of $524, list not recorded). Weight converted from 6.5 oz.",
+      "colorImages": {
+        "Lavender": {
+          "url": "https://lh3.googleusercontent.com/IdB9Le3UUPMZBqGC5TduhBB8n12Dv8xKFJpmOnyWzLf0IHN_4qoXupO-3mTGstYuI-NETHcrhG2LdU85dXCH59OJ8HVf_-WftV8=s1600",
+          "page": "https://store.google.com/us/config/pixel_10a",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Google Store product image (store.google.com); Google has not granted a reuse license — rights not verified.",
+          "credit": "Google",
+          "alt": "Google Pixel 10a in Lavender, rear view",
+          "match": "EXACT"
+        },
+        "Berry": {
+          "url": "https://lh3.googleusercontent.com/rWU2B8yua68XtuX54-Bj9E_PEMofnkWnhjJf0Hokv5Z3n8KVEO2Jy_uwdZPE_vFlAbP1B4ev2b7RFsJVurpv8ndu8NipanmvjBSD=s1600",
+          "page": "https://store.google.com/us/config/pixel_10a",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Google Store product image (store.google.com); Google has not granted a reuse license — rights not verified.",
+          "credit": "Google",
+          "alt": "Google Pixel 10a in Berry, rear view",
+          "match": "EXACT"
+        },
+        "Fog": {
+          "url": "https://lh3.googleusercontent.com/YkxY9n62QUccprN507-3zaTLzxwQtnPalsx-ySsAZYONEwN8YPtFhnw5VpVybqT29F8JFTA8hbumGvZY-16gtv_NjErJkkKxuWM=s1600",
+          "page": "https://store.google.com/us/config/pixel_10a",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Google Store product image (store.google.com); Google has not granted a reuse license — rights not verified.",
+          "credit": "Google",
+          "alt": "Google Pixel 10a in Fog, rear view",
+          "match": "EXACT"
+        },
+        "Obsidian": {
+          "url": "https://lh3.googleusercontent.com/D5icple_N2oELSuOKPpMRDjjBJoQj2xDRJmt81rMC12JllvYHhuCPlAGcK-44QGu0XFKwbwNTcn4pRiqaFP-qZv3liRQzm7eFGg=s1600",
+          "page": "https://store.google.com/us/config/pixel_10a",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Google Store product image (store.google.com); Google has not granted a reuse license — rights not verified.",
+          "credit": "Google",
+          "alt": "Google Pixel 10a in Obsidian, rear view",
+          "match": "EXACT"
+        }
+      }
     },
     {
       "brand": "Google",
@@ -404,10 +576,48 @@
         "sourceType": "manufacturer-product-page",
         "rights": "Official Google Store product image (store.google.com); Google has not granted a reuse license — rights not verified.",
         "credit": "Google",
-        "alt": "Google Pixel Watch 5 with Polished Silver aluminum case and Fog Active Band, angled front view",
+        "alt": "Google Pixel Watch 5 (41mm) in Polished Silver Aluminum / Fog, angled view with Active Band",
         "match": "EXACT"
       },
-      "notes": "Weight is case without band."
+      "notes": "Weight is case without band.",
+      "colorImages": {
+        "Polished Silver Aluminum / Fog": {
+          "url": "https://lh3.googleusercontent.com/ikUa0CR6nN3B6Eu4o13MIOk3tB1EU6CkXAycTl0mDHyqHs0L7rw0wTow9wGvy9pFSYZvCHNkLokp39LyGilpauEyDMPajisLFg=s1600",
+          "page": "https://store.google.com/us/config/pixel_watch_5",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Google Store product image (store.google.com); Google has not granted a reuse license — rights not verified.",
+          "credit": "Google",
+          "alt": "Google Pixel Watch 5 (41mm) in Polished Silver Aluminum / Fog, angled view with Active Band",
+          "match": "EXACT"
+        },
+        "Champagne Gold Aluminum / Canyon": {
+          "url": "https://lh3.googleusercontent.com/MC9EarkKqNCqzaDlJVOirwylUigpLtfh8e1A5ldsJVelFWCBKeGtOrhP3HEHWaiNxxVfu664IYWfG8lkWGqSniQCAlnRd7KfsZg=s1600",
+          "page": "https://store.google.com/us/config/pixel_watch_5",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Google Store product image (store.google.com); Google has not granted a reuse license — rights not verified.",
+          "credit": "Google",
+          "alt": "Google Pixel Watch 5 (41mm) in Champagne Gold Aluminum / Canyon, angled view with Active Band",
+          "match": "EXACT"
+        },
+        "Satin Pyrite Aluminum / Olive": {
+          "url": "https://lh3.googleusercontent.com/M0dMPSVJoH54GLO8CaXEHs9SlIdOjJUIl-9-eELEpQlcmLIGHZSkoLRVygxDTOUr15nIVZg3VxxoimUDXJPg9YJTksmVPCk4IM0=s1600",
+          "page": "https://store.google.com/us/config/pixel_watch_5",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Google Store product image (store.google.com); Google has not granted a reuse license — rights not verified.",
+          "credit": "Google",
+          "alt": "Google Pixel Watch 5 (41mm) in Satin Pyrite Aluminum / Olive, angled view with Active Band",
+          "match": "EXACT"
+        },
+        "Matte Black Aluminum / Obsidian": {
+          "url": "https://lh3.googleusercontent.com/TNDx1WWdWHsrwg25dtU54mFyoxUXoCh68jdIbhL8VNnEGxyyaviF6-nO5SAppLN72bW3z4T9y8cX0f1_ayTAjylaIATxRHvk94s=s1600",
+          "page": "https://store.google.com/us/config/pixel_watch_5",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Google Store product image (store.google.com); Google has not granted a reuse license — rights not verified.",
+          "credit": "Google",
+          "alt": "Google Pixel Watch 5 (41mm) in Matte Black Aluminum / Obsidian, angled view with Active Band",
+          "match": "EXACT"
+        }
+      }
     },
     {
       "brand": "Google",
@@ -450,7 +660,6 @@
       ],
       "colors": [
         "Polished Silver Aluminum / Fog",
-        "Champagne Gold Aluminum / Canyon",
         "Satin Pyrite Aluminum / Olive",
         "Matte Black Aluminum / Obsidian"
       ],
@@ -469,10 +678,39 @@
         "sourceType": "manufacturer-product-page",
         "rights": "Official Google Store product image (store.google.com); Google has not granted a reuse license — rights not verified.",
         "credit": "Google",
-        "alt": "Google Pixel Watch 5 with Polished Silver aluminum case and Fog Active Band, angled front view",
-        "match": "PRODUCT_LINE"
+        "alt": "Google Pixel Watch 5 (45mm) in Polished Silver Aluminum / Fog, angled view with Active Band",
+        "match": "EXACT"
       },
-      "notes": "45mm LTE price not recorded. Weight is case without band. Image is the Pixel Watch 5 configurator render; size not verifiable from the image."
+      "notes": "45mm LTE price not recorded. Weight is case without band. Image is the Pixel Watch 5 configurator render; size not verifiable from the image.",
+      "colorImages": {
+        "Polished Silver Aluminum / Fog": {
+          "url": "https://lh3.googleusercontent.com/8efZVTT7YVGnnabotdze7dRWPIdCGoLvipckle1gVU25dy9uVVHlaE14hiGiLe3mHC7xz6IZEndyRBKb5njV0UjK3kxOsCNKmX4a=s1600",
+          "page": "https://store.google.com/us/config/pixel_watch_5",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Google Store product image (store.google.com); Google has not granted a reuse license — rights not verified.",
+          "credit": "Google",
+          "alt": "Google Pixel Watch 5 (45mm) in Polished Silver Aluminum / Fog, angled view with Active Band",
+          "match": "EXACT"
+        },
+        "Satin Pyrite Aluminum / Olive": {
+          "url": "https://lh3.googleusercontent.com/OfMkh8KBQUsCcs2saVI-XYSVNuONo8f3UGITfiM5qiMBAbSkaUpctSDPaSxJJLOMKiOdzXc4BIifPwmuj81-jsTftqRXdPnxFGWc=s1600",
+          "page": "https://store.google.com/us/config/pixel_watch_5",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Google Store product image (store.google.com); Google has not granted a reuse license — rights not verified.",
+          "credit": "Google",
+          "alt": "Google Pixel Watch 5 (45mm) in Satin Pyrite Aluminum / Olive, angled view with Active Band",
+          "match": "EXACT"
+        },
+        "Matte Black Aluminum / Obsidian": {
+          "url": "https://lh3.googleusercontent.com/BOgEZNB6yKe6TaD9VfhJwNHCFxtBeQpAGINe68XUr_kH3r70jZQf5ehdtsDbj2e6RGb11anSwOmkC0DvVsXZrw_toZorhtEVH7o=s1600",
+          "page": "https://store.google.com/us/config/pixel_watch_5",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Google Store product image (store.google.com); Google has not granted a reuse license — rights not verified.",
+          "credit": "Google",
+          "alt": "Google Pixel Watch 5 (45mm) in Matte Black Aluminum / Obsidian, angled view with Active Band",
+          "match": "EXACT"
+        }
+      }
     },
     {
       "brand": "Google",
@@ -514,14 +752,52 @@
       },
       "image": {
         "url": "https://lh3.googleusercontent.com/1PY8Pn1Gt_ZlJOSDXpnzIuuSeO0RXepa1Yef0jA4hfy34pcUANfZDmMf21FK4eWdgGzNlPJL8Ysqd8T-Pg=s1600",
-        "page": "https://store.google.com/us/product/pixel_buds_pro_2",
+        "page": "https://store.google.com/us/config/pixel_buds_pro_2",
         "sourceType": "manufacturer-product-page",
         "rights": "Official Google Store product image (store.google.com); Google has not granted a reuse license — rights not verified.",
         "credit": "Google",
-        "alt": "Google Pixel Buds Pro 2 in Porcelain inside the open white charging case",
+        "alt": "Google Pixel Buds Pro 2 in Porcelain, earbuds in the open charging case",
         "match": "EXACT"
       },
-      "notes": "batteryHours = per-charge listening with ANC on (12 h ANC off; up to 30 h with case ANC on, 48 h ANC off)."
+      "notes": "batteryHours = per-charge listening with ANC on (12 h ANC off; up to 30 h with case ANC on, 48 h ANC off).",
+      "colorImages": {
+        "Porcelain": {
+          "url": "https://lh3.googleusercontent.com/1PY8Pn1Gt_ZlJOSDXpnzIuuSeO0RXepa1Yef0jA4hfy34pcUANfZDmMf21FK4eWdgGzNlPJL8Ysqd8T-Pg=s1600",
+          "page": "https://store.google.com/us/config/pixel_buds_pro_2",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Google Store product image (store.google.com); Google has not granted a reuse license — rights not verified.",
+          "credit": "Google",
+          "alt": "Google Pixel Buds Pro 2 in Porcelain, earbuds in the open charging case",
+          "match": "EXACT"
+        },
+        "Olive": {
+          "url": "https://lh3.googleusercontent.com/1a3-AtMOf8O_nP5XIxhOi57cwzx5gPLrOuuiS11RTWBo8Y0Ruf4EwL96qOcJmEuX3ci8LvcoZC339pQJPxHE280iXY-ad3q7ExI=s1600",
+          "page": "https://store.google.com/us/config/pixel_buds_pro_2",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Google Store product image (store.google.com); Google has not granted a reuse license — rights not verified.",
+          "credit": "Google",
+          "alt": "Google Pixel Buds Pro 2 in Olive, earbuds in the open charging case",
+          "match": "EXACT"
+        },
+        "Peony": {
+          "url": "https://lh3.googleusercontent.com/naFguYuReU3pkRDs2bCBAxz4ios7JalBgJ0XIqpih3OInX8A15e8gCLnMQ7ebTpGg08M6mQZc8Pw5SXqTkM=s1600",
+          "page": "https://store.google.com/us/config/pixel_buds_pro_2",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Google Store product image (store.google.com); Google has not granted a reuse license — rights not verified.",
+          "credit": "Google",
+          "alt": "Google Pixel Buds Pro 2 in Peony, earbuds in the open charging case",
+          "match": "EXACT"
+        },
+        "Hazel": {
+          "url": "https://lh3.googleusercontent.com/lfqeiUuZTTthW-u3vZ3UFjNQz3lx0uN0ZCtqR73ln3-PioXTjRsXCyMqR4CChOYRn0AytyvpACCRUD_RIyTD=s1600",
+          "page": "https://store.google.com/us/config/pixel_buds_pro_2",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Google Store product image (store.google.com); Google has not granted a reuse license — rights not verified.",
+          "credit": "Google",
+          "alt": "Google Pixel Buds Pro 2 in Hazel, earbuds in the open charging case",
+          "match": "EXACT"
+        }
+      }
     },
     {
       "brand": "Google",
@@ -561,13 +837,51 @@
         "specs": "https://store.google.com/us/product/pixel_buds_2a_specs"
       },
       "image": {
-        "url": "https://lh3.googleusercontent.com/sZDRmkrx9XBVK28qUwM1o6LT5mcY64_y0o7b-gH43nsKv9OspOq7wBO9V1raZPs-kV5dfyWf6qlLLkoMJmGXP8KLgdcwIRPaEhU=s1600",
-        "page": "https://store.google.com/us/product/pixel_buds_2a",
+        "url": "https://lh3.googleusercontent.com/n732ZD9yfeVlJ-eT5mR-Ed7nDMoFjBQIdhQQcl7wpUdibjic33SSuUVX8KpAgWfFdlxyhIXGZLwnf1sv4vbUC-iu-DUv6du-bt_H=s1600",
+        "page": "https://store.google.com/us/config/pixel_buds_2a",
         "sourceType": "manufacturer-product-page",
         "rights": "Official Google Store product image (store.google.com); Google has not granted a reuse license — rights not verified.",
         "credit": "Google",
-        "alt": "Google Pixel Buds 2a in Iris inside the open white charging case",
+        "alt": "Google Pixel Buds 2a in Fog, earbuds in the open charging case",
         "match": "EXACT"
+      },
+      "colorImages": {
+        "Fog": {
+          "url": "https://lh3.googleusercontent.com/n732ZD9yfeVlJ-eT5mR-Ed7nDMoFjBQIdhQQcl7wpUdibjic33SSuUVX8KpAgWfFdlxyhIXGZLwnf1sv4vbUC-iu-DUv6du-bt_H=s1600",
+          "page": "https://store.google.com/us/config/pixel_buds_2a",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Google Store product image (store.google.com); Google has not granted a reuse license — rights not verified.",
+          "credit": "Google",
+          "alt": "Google Pixel Buds 2a in Fog, earbuds in the open charging case",
+          "match": "EXACT"
+        },
+        "Berry": {
+          "url": "https://lh3.googleusercontent.com/r0XEGkezhoKjNbnKfFm5J3OIVtxsZjNah5F15oF1pVrCTPUC94LKPvR75HFteDX9KsNUTCYh3EhiloPD-Q3sOp833EHOO8OSVNk=s1600",
+          "page": "https://store.google.com/us/config/pixel_buds_2a",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Google Store product image (store.google.com); Google has not granted a reuse license — rights not verified.",
+          "credit": "Google",
+          "alt": "Google Pixel Buds 2a in Berry, earbuds in the open charging case",
+          "match": "EXACT"
+        },
+        "Iris": {
+          "url": "https://lh3.googleusercontent.com/lCfLddzyvjGbOt5pycoNjF9YT4fJ6hhYpWJMKmX96psnC-loPlBxrQLHrZqBMlqiI6EvgE1fR67xnHxXXAWV1JCG7FUmtsRhXA=s1600",
+          "page": "https://store.google.com/us/config/pixel_buds_2a",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Google Store product image (store.google.com); Google has not granted a reuse license — rights not verified.",
+          "credit": "Google",
+          "alt": "Google Pixel Buds 2a in Iris, earbuds in the open charging case",
+          "match": "EXACT"
+        },
+        "Hazel": {
+          "url": "https://lh3.googleusercontent.com/kSduhGp_E_P3OMe2CG5Hken1ElOblHH8W2tCfaz4bv-_G1fQl0eDcXxbJxRi2AC3yBGaFenu1qaNkugLiYGyvxP7K2EOj1_0hUU=s1600",
+          "page": "https://store.google.com/us/config/pixel_buds_2a",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Google Store product image (store.google.com); Google has not granted a reuse license — rights not verified.",
+          "credit": "Google",
+          "alt": "Google Pixel Buds 2a in Hazel, earbuds in the open charging case",
+          "match": "EXACT"
+        }
       }
     },
     {
@@ -606,15 +920,53 @@
         "specs": "https://store.google.com/us/product/google_home_speaker_specs"
       },
       "image": {
-        "url": "https://lh3.googleusercontent.com/j4-hR9NJgMUpJs_EeUfJLvdqlusHFGDlpjE1m8jVwpiRwpkP0oNGPjfqF0YCfnkrrAQSmYRMqsz4XzSgFzrkQqspT4cFC0iScpM=s1600",
+        "url": "https://lh3.googleusercontent.com/1au0-pEla0QUSmtOimCtkb2OWqjW5ok4Cq-b7ndqaDoIZfo2Hgxw6gWjksIorB-vYOOd_BB_AZE89bi-21tUkKsuOff6_vb3des=s1600",
         "page": "https://store.google.com/us/config/google_home_speaker",
         "sourceType": "manufacturer-product-page",
         "rights": "Official Google Store product image (store.google.com); Google has not granted a reuse license — rights not verified.",
         "credit": "Google",
-        "alt": "Google Home Speaker in Jade, front view with fabric-covered dome",
+        "alt": "Google Home Speaker in Berry, front view",
         "match": "EXACT"
       },
-      "notes": "Some Gemini Live features need a Google Home Premium subscription; basic speaker use does not."
+      "notes": "Some Gemini Live features need a Google Home Premium subscription; basic speaker use does not.",
+      "colorImages": {
+        "Berry": {
+          "url": "https://lh3.googleusercontent.com/1au0-pEla0QUSmtOimCtkb2OWqjW5ok4Cq-b7ndqaDoIZfo2Hgxw6gWjksIorB-vYOOd_BB_AZE89bi-21tUkKsuOff6_vb3des=s1600",
+          "page": "https://store.google.com/us/config/google_home_speaker",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Google Store product image (store.google.com); Google has not granted a reuse license — rights not verified.",
+          "credit": "Google",
+          "alt": "Google Home Speaker in Berry, front view",
+          "match": "EXACT"
+        },
+        "Porcelain": {
+          "url": "https://lh3.googleusercontent.com/RkHgACs3pFXCuwaE86Y4PJWwwzFk8gpmzt0qWQKknddBhNPuY5NlnN0jb0UM_BjX_aB54yyc6cLv1msgO0q5dq5frFBfM_KlMGc=s1600",
+          "page": "https://store.google.com/us/config/google_home_speaker",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Google Store product image (store.google.com); Google has not granted a reuse license — rights not verified.",
+          "credit": "Google",
+          "alt": "Google Home Speaker in Porcelain, front view",
+          "match": "EXACT"
+        },
+        "Hazel": {
+          "url": "https://lh3.googleusercontent.com/FTIPKhymu80FDNSpU9nVypBZqZz5H6uRdR5AW23izireEuQ9DSSr1_8hz53nyWxezT-mWkxEsyUd1nYKvS8mxdopKf5zRIQZEW5w=s1600",
+          "page": "https://store.google.com/us/config/google_home_speaker",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Google Store product image (store.google.com); Google has not granted a reuse license — rights not verified.",
+          "credit": "Google",
+          "alt": "Google Home Speaker in Hazel, front view",
+          "match": "EXACT"
+        },
+        "Jade": {
+          "url": "https://lh3.googleusercontent.com/j4-hR9NJgMUpJs_EeUfJLvdqlusHFGDlpjE1m8jVwpiRwpkP0oNGPjfqF0YCfnkrrAQSmYRMqsz4XzSgFzrkQqspT4cFC0iScpM=s1600",
+          "page": "https://store.google.com/us/config/google_home_speaker",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Google Store product image (store.google.com); Google has not granted a reuse license — rights not verified.",
+          "credit": "Google",
+          "alt": "Google Home Speaker in Jade, front view",
+          "match": "EXACT"
+        }
+      }
     },
     {
       "brand": "Google",
@@ -655,13 +1007,51 @@
       },
       "notes": "Google Store showed Charcoal and Mist out of stock on 2026-09-28.",
       "image": {
-        "url": "https://lh3.googleusercontent.com/e5A_WAg_qQrDADl0d-kLb859l7ujETU7KTV0G1cvd2UYee2-M-YDwSt_UeFhzpoi_ojGlAI75ElwS27qSZljP0VAxVF2OW7IoQM=s2000",
+        "url": "https://lh3.googleusercontent.com/e5A_WAg_qQrDADl0d-kLb859l7ujETU7KTV0G1cvd2UYee2-M-YDwSt_UeFhzpoi_ojGlAI75ElwS27qSZljP0VAxVF2OW7IoQM=s1600",
         "page": "https://store.google.com/us/config/nest_hub_2nd_gen",
         "sourceType": "manufacturer-product-page",
         "rights": "Official Google Store product image (store.google.com); Google has not granted a reuse license — rights not verified.",
         "credit": "Google",
-        "alt": "Google Nest Hub (2nd gen) in Chalk, rear view showing the fabric-covered speaker base and power cable",
+        "alt": "Google Nest Hub (2nd gen) in Chalk, rear view showing the fabric back",
         "match": "EXACT"
+      },
+      "colorImages": {
+        "Chalk": {
+          "url": "https://lh3.googleusercontent.com/e5A_WAg_qQrDADl0d-kLb859l7ujETU7KTV0G1cvd2UYee2-M-YDwSt_UeFhzpoi_ojGlAI75ElwS27qSZljP0VAxVF2OW7IoQM=s1600",
+          "page": "https://store.google.com/us/config/nest_hub_2nd_gen",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Google Store product image (store.google.com); Google has not granted a reuse license — rights not verified.",
+          "credit": "Google",
+          "alt": "Google Nest Hub (2nd gen) in Chalk, rear view showing the fabric back",
+          "match": "EXACT"
+        },
+        "Charcoal": {
+          "url": "https://lh3.googleusercontent.com/LqS2jhOt2e_2wN7g3c5JV6hy_bmYSVD7NhXeU7mf55wshcfKaDmEgL5l47mrztqPg9wVHcecfa1YOB9XbyQdU9kap9avM5eunHE=s1600",
+          "page": "https://store.google.com/us/config/nest_hub_2nd_gen",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Google Store product image (store.google.com); Google has not granted a reuse license — rights not verified.",
+          "credit": "Google",
+          "alt": "Google Nest Hub (2nd gen) in Charcoal, rear view showing the fabric back",
+          "match": "EXACT"
+        },
+        "Sand": {
+          "url": "https://lh3.googleusercontent.com/_N9-lg6Kh-oAH1ExKjRJshnslMrVUj3xo_MhuKHshGeuly8xSypmCMR0bt8bwzgK5AlClgDnbkLiHZnD-NHBXgs_JtC956RSwRM=s1600",
+          "page": "https://store.google.com/us/config/nest_hub_2nd_gen",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Google Store product image (store.google.com); Google has not granted a reuse license — rights not verified.",
+          "credit": "Google",
+          "alt": "Google Nest Hub (2nd gen) in Sand, rear view showing the fabric back",
+          "match": "EXACT"
+        },
+        "Mist": {
+          "url": "https://lh3.googleusercontent.com/4_WtzcBX3ffIfF-Ve1G6liOD8HjGIYGqFmsN7vXLtTS4mf54nklEf1TxZOQ8rYBGbgWjafeC7bquhSCIGD8w5AT_d62uVS1Uvg8=s1600",
+          "page": "https://store.google.com/us/config/nest_hub_2nd_gen",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Google Store product image (store.google.com); Google has not granted a reuse license — rights not verified.",
+          "credit": "Google",
+          "alt": "Google Nest Hub (2nd gen) in Mist, rear view showing the fabric back",
+          "match": "EXACT"
+        }
       }
     },
     {
@@ -800,8 +1190,37 @@
         "sourceType": "manufacturer-product-page",
         "rights": "Official Google Store product image (store.google.com); Google has not granted a reuse license — rights not verified.",
         "credit": "Google",
-        "alt": "Google Nest Cam Indoor (wired, 3rd gen) in Snow on its stand, angled front view",
+        "alt": "Google Nest Cam Indoor (wired, 3rd gen) in Snow, angled front view on its stand",
         "match": "EXACT"
+      },
+      "colorImages": {
+        "Snow": {
+          "url": "https://lh3.googleusercontent.com/2l9hvEFDfnq-zLyDnVEqSyI6DJpc77j9O-9pmeI0cEu_KG-fhprvps-oeCcW8Oj1bbwJOVdoEAEJf5hUHERYbTvNu_6p2zgn5mnO=s1600",
+          "page": "https://store.google.com/us/config/nest_cam_indoor_wired_3rd_gen",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Google Store product image (store.google.com); Google has not granted a reuse license — rights not verified.",
+          "credit": "Google",
+          "alt": "Google Nest Cam Indoor (wired, 3rd gen) in Snow, angled front view on its stand",
+          "match": "EXACT"
+        },
+        "Hazel": {
+          "url": "https://lh3.googleusercontent.com/fOSKzJbEIFLPqWRc2EpZNf1ZksmZLO_25TKNtb2PgZmeeZYk08C_jHf9J8IYPjoM5BbttOedU-jWYGmYNAzCOvBw1c-hK3kRYCE=s1600",
+          "page": "https://store.google.com/us/config/nest_cam_indoor_wired_3rd_gen",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Google Store product image (store.google.com); Google has not granted a reuse license — rights not verified.",
+          "credit": "Google",
+          "alt": "Google Nest Cam Indoor (wired, 3rd gen) in Hazel, angled front view on its stand",
+          "match": "EXACT"
+        },
+        "Berry": {
+          "url": "https://lh3.googleusercontent.com/CA8exACSJKIXuy6SbNn4U2-Rb8akSHok2eFAd4mQbBfjEAtUCvXdg3mspx2ObQzmsIgSmWFF83fBohr_tU72ZCU-miztRC0R3UEr=s1600",
+          "page": "https://store.google.com/us/config/nest_cam_indoor_wired_3rd_gen",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Google Store product image (store.google.com); Google has not granted a reuse license — rights not verified.",
+          "credit": "Google",
+          "alt": "Google Nest Cam Indoor (wired, 3rd gen) in Berry, angled front view on its stand",
+          "match": "EXACT"
+        }
       }
     },
     {
@@ -844,7 +1263,7 @@
         "sourceType": "manufacturer-product-page",
         "rights": "Official Google Store product image (store.google.com); Google has not granted a reuse license — rights not verified.",
         "credit": "Google",
-        "alt": "Google Nest Cam Outdoor (wired, 2nd gen) in Snow, angled front view on its wall mount",
+        "alt": "Google Nest Cam Outdoor (wired, 2nd gen) in Snow, angled view on its wall mount",
         "match": "EXACT"
       },
       "variants": [
@@ -855,7 +1274,27 @@
         {
           "label": "2 pack"
         }
-      ]
+      ],
+      "colorImages": {
+        "Snow": {
+          "url": "https://lh3.googleusercontent.com/iUekub70qLolHXbQhcw7RpvzKBhm3Sis-GaDgIG5aUHZqIE6rpcTujQYknExVKa8OcCK026DQ6xe6WxWgt_vKjNV8KqKQu2Brp8=s1600",
+          "page": "https://store.google.com/us/config/nest_cam_outdoor_wired_2nd_gen",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Google Store product image (store.google.com); Google has not granted a reuse license — rights not verified.",
+          "credit": "Google",
+          "alt": "Google Nest Cam Outdoor (wired, 2nd gen) in Snow, angled view on its wall mount",
+          "match": "EXACT"
+        },
+        "Hazel": {
+          "url": "https://lh3.googleusercontent.com/AZerKo9VXS65uuyRhrUKDWsT6j5bjXXODcRjo0m9bcLQIIPaiM9N4oE1dneVl9H-4jVRSWqsbONZrEWeigp2yxxaFsfI0SaZSw=s1600",
+          "page": "https://store.google.com/us/config/nest_cam_outdoor_wired_2nd_gen",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Google Store product image (store.google.com); Google has not granted a reuse license — rights not verified.",
+          "credit": "Google",
+          "alt": "Google Nest Cam Outdoor (wired, 2nd gen) in Hazel, angled view on its wall mount",
+          "match": "EXACT"
+        }
+      }
     },
     {
       "brand": "Google",
@@ -901,7 +1340,8 @@
         "credit": "Google",
         "alt": "Google Nest Doorbell (battery) in Snow, front view",
         "match": "EXACT"
-      }
+      },
+      "notes": "No colorImages: Google Store per-colour images for the battery doorbell are only ~250px thumbnails; product-page colour shots are tinted-background lifestyle renders labelled as the wired model."
     },
     {
       "brand": "Google",
@@ -946,6 +1386,35 @@
         "credit": "Google",
         "alt": "Google Nest Doorbell (wired, 3rd gen) in Snow, front view",
         "match": "EXACT"
+      },
+      "colorImages": {
+        "Snow": {
+          "url": "https://lh3.googleusercontent.com/BzyBEX5H_bHPkx5U0eacRosn3nlJjrcIkuN6j1ejGONpg5KFSZxou5Ng41q2ETgcKHzoTv-SaFaZIR-QulpTcOFdRqtbP2wOiA=s1600",
+          "page": "https://store.google.com/us/config/nest_doorbell_wired_3rd_gen",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Google Store product image (store.google.com); Google has not granted a reuse license — rights not verified.",
+          "credit": "Google",
+          "alt": "Google Nest Doorbell (wired, 3rd gen) in Snow, front view",
+          "match": "EXACT"
+        },
+        "Hazel": {
+          "url": "https://lh3.googleusercontent.com/lxP9UL3mreSjY6dZAL1ZBMdKyE0sDVJGBQ0rG60aO5f4eRhIHvdM17bHGJ2vUG2eAITpyxuz3MEIAvdtsYppERwV92DbZvC-Jg=s1600",
+          "page": "https://store.google.com/us/config/nest_doorbell_wired_3rd_gen",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Google Store product image (store.google.com); Google has not granted a reuse license — rights not verified.",
+          "credit": "Google",
+          "alt": "Google Nest Doorbell (wired, 3rd gen) in Hazel, front view",
+          "match": "EXACT"
+        },
+        "Linen": {
+          "url": "https://lh3.googleusercontent.com/uh_PorZA1GB7SQo9yIfjFmzC3mqyub7x1AQjRezITO3FZQw0reN4ZR9RKtf3to-UpBP4gaD4CAIcIFeCW6GGqYWS7qrcy5wAvs0=s1600",
+          "page": "https://store.google.com/us/config/nest_doorbell_wired_3rd_gen",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Google Store product image (store.google.com); Google has not granted a reuse license — rights not verified.",
+          "credit": "Google",
+          "alt": "Google Nest Doorbell (wired, 3rd gen) in Linen, front view",
+          "match": "EXACT"
+        }
       }
     },
     {
@@ -985,15 +1454,44 @@
         "specs": "https://store.google.com/us/product/nest_learning_thermostat_4th_gen_specs"
       },
       "image": {
-        "url": "https://lh3.googleusercontent.com/Vf76AGV-Nnj_IygUGm6jm3nNfHtCxaM81PQF4N9F7_QXYNjoscyGiyDAlXBPkVOKGgGlcDONp_dXQJzfHLqx1iulCzJ7cvqqzh4=s1600",
+        "url": "https://lh3.googleusercontent.com/9BQyKL3PO4dm55ibJJulcjxXmCKKPnQFC8kfXmgmMtrHwWieaf51_WLBZiedvmSaYfZ4nA41rcxFM5VmBQ1-Kr4fuM-kuCTwymU=s1600",
         "page": "https://store.google.com/us/config/nest_learning_thermostat_4th_gen",
         "sourceType": "manufacturer-product-page",
         "rights": "Official Google Store product image (store.google.com); Google has not granted a reuse license — rights not verified.",
         "credit": "Google",
-        "alt": "Google Nest Learning Thermostat (4th gen) in Polished Obsidian with the included Nest Temperature Sensor",
+        "alt": "Google Nest Learning Thermostat (4th gen) in Polished Silver, angled view with Nest Temperature Sensor",
         "match": "EXACT"
       },
-      "notes": "List $279.99; Google Store showed a $239.99 sale price on 2026-09-28. Retail warranty is 2 years per Google's spec page."
+      "notes": "List $279.99; Google Store showed a $239.99 sale price on 2026-09-28. Retail warranty is 2 years per Google's spec page.",
+      "colorImages": {
+        "Polished Silver": {
+          "url": "https://lh3.googleusercontent.com/9BQyKL3PO4dm55ibJJulcjxXmCKKPnQFC8kfXmgmMtrHwWieaf51_WLBZiedvmSaYfZ4nA41rcxFM5VmBQ1-Kr4fuM-kuCTwymU=s1600",
+          "page": "https://store.google.com/us/config/nest_learning_thermostat_4th_gen",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Google Store product image (store.google.com); Google has not granted a reuse license — rights not verified.",
+          "credit": "Google",
+          "alt": "Google Nest Learning Thermostat (4th gen) in Polished Silver, angled view with Nest Temperature Sensor",
+          "match": "EXACT"
+        },
+        "Polished Obsidian": {
+          "url": "https://lh3.googleusercontent.com/Vf76AGV-Nnj_IygUGm6jm3nNfHtCxaM81PQF4N9F7_QXYNjoscyGiyDAlXBPkVOKGgGlcDONp_dXQJzfHLqx1iulCzJ7cvqqzh4=s1600",
+          "page": "https://store.google.com/us/config/nest_learning_thermostat_4th_gen",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Google Store product image (store.google.com); Google has not granted a reuse license — rights not verified.",
+          "credit": "Google",
+          "alt": "Google Nest Learning Thermostat (4th gen) in Polished Obsidian, angled view with Nest Temperature Sensor",
+          "match": "EXACT"
+        },
+        "Polished Gold": {
+          "url": "https://lh3.googleusercontent.com/sqQPZeWh00SKyD-_fnftk--2DL5LsRw41UamWfCeoyWFtc6KXWmUrthBNtHYSSEM1W41G-494iWiIANl_Ts6WdV3yY9iytqSTgA=s1600",
+          "page": "https://store.google.com/us/config/nest_learning_thermostat_4th_gen",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Google Store product image (store.google.com); Google has not granted a reuse license — rights not verified.",
+          "credit": "Google",
+          "alt": "Google Nest Learning Thermostat (4th gen) in Polished Gold, angled view with Nest Temperature Sensor",
+          "match": "EXACT"
+        }
+      }
     },
     {
       "brand": "Google",
@@ -1038,8 +1536,46 @@
         "sourceType": "manufacturer-product-page",
         "rights": "Official Google Store product image (store.google.com); Google has not granted a reuse license — rights not verified.",
         "credit": "Google",
-        "alt": "Google Nest Thermostat in Snow, front view with the mirrored display showing the set temperature",
+        "alt": "Google Nest Thermostat in Snow, front view",
         "match": "EXACT"
+      },
+      "colorImages": {
+        "Snow": {
+          "url": "https://lh3.googleusercontent.com/ejdDbGu8MdB9fS32SXM0H7gytiRJ6LYIkEOButoz1BH8zDBAfLMyxidi6o_rnyUBO7UrEQDzU3LZtEftA4dHSo4=s1600",
+          "page": "https://store.google.com/us/config/nest_thermostat",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Google Store product image (store.google.com); Google has not granted a reuse license — rights not verified.",
+          "credit": "Google",
+          "alt": "Google Nest Thermostat in Snow, front view",
+          "match": "EXACT"
+        },
+        "Sand": {
+          "url": "https://lh3.googleusercontent.com/3ZUH-pXCzy3yBjIQQy58o8ynHM55jS530IpemcqYxtqfBHdEqSXLYcj89N8orL7HGq_1QsDP-7bX2mEjlpjT=s1600",
+          "page": "https://store.google.com/us/config/nest_thermostat",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Google Store product image (store.google.com); Google has not granted a reuse license — rights not verified.",
+          "credit": "Google",
+          "alt": "Google Nest Thermostat in Sand, front view",
+          "match": "EXACT"
+        },
+        "Fog": {
+          "url": "https://lh3.googleusercontent.com/VBj0jw04X8gY98CfDqpO17ZjxJLGq2QGKikrA2dAVNgrQmFm1mPFJaAi8g3NbICtuZLYYCVjgY9LHjBolg0TMw=s1600",
+          "page": "https://store.google.com/us/config/nest_thermostat",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Google Store product image (store.google.com); Google has not granted a reuse license — rights not verified.",
+          "credit": "Google",
+          "alt": "Google Nest Thermostat in Fog, front view",
+          "match": "EXACT"
+        },
+        "Charcoal": {
+          "url": "https://lh3.googleusercontent.com/w-L0Yhz85yZEmwJ1ORsDbxzezslyyWY8eMkJrTZrtlYvnuN5OTJ4k6xDodxdfH3MZ4lHOGviisuarCLdY09m=s1600",
+          "page": "https://store.google.com/us/config/nest_thermostat",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Google Store product image (store.google.com); Google has not granted a reuse license — rights not verified.",
+          "credit": "Google",
+          "alt": "Google Nest Thermostat in Charcoal, front view",
+          "match": "EXACT"
+        }
       }
     },
     {
@@ -1083,7 +1619,7 @@
         "alt": "Google Nest Wifi Pro router in Snow, front view",
         "match": "EXACT"
       },
-      "notes": "2-pack and 3-pack prices were not shown in the static page.",
+      "notes": "2-pack and 3-pack prices were not shown in the static page. No colorImages: Google Store per-colour Nest Wifi Pro images are only ~350px thumbnails.",
       "variants": [
         {
           "label": "1-pack (up to 2,200 sq ft)",
@@ -1209,16 +1745,45 @@
         "specs": "https://www.microsoft.com/en-us/surface/devices/surface-laptop"
       },
       "image": {
-        "url": "https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/b00-Surface-Laptop-SnapdragonX2-13-2Ed-Violet-Front?wid=1600&fmt=png-alpha&extendN=0.05,0.05,0.05,0.05",
+        "url": "https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/b00-Surface-Laptop-SnapdragonX2-13-2Ed-Black-Front?wid=1600&fmt=png-alpha&extendN=0.05,0.05,0.05,0.05",
         "page": "https://www.microsoft.com/en-us/d/surface-laptop-13-inch-2nd-edition/8wg5vqp0x4bd",
         "sourceType": "manufacturer-product-page",
         "rights": "Official Microsoft Store product image (microsoft.com); Microsoft has not granted a reuse license — rights not verified.",
         "credit": "Microsoft",
-        "alt": "Microsoft Surface Laptop 13-inch (2nd Edition) in Violet, open front view",
+        "alt": "Microsoft Surface Laptop, 13-inch (2nd Edition) in Black, open front view",
         "match": "EXACT"
       },
       "notes": "Pre-order at Microsoft Store as of 2026-09-28.",
-      "priceSource": "https://www.microsoft.com/en-us/d/surface-laptop-13-inch-2nd-edition/8wg5vqp0x4bd"
+      "priceSource": "https://www.microsoft.com/en-us/d/surface-laptop-13-inch-2nd-edition/8wg5vqp0x4bd",
+      "colorImages": {
+        "Black": {
+          "url": "https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/b00-Surface-Laptop-SnapdragonX2-13-2Ed-Black-Front?wid=1600&fmt=png-alpha&extendN=0.05,0.05,0.05,0.05",
+          "page": "https://www.microsoft.com/en-us/d/surface-laptop-13-inch-2nd-edition/8wg5vqp0x4bd",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Microsoft Store product image (microsoft.com); Microsoft has not granted a reuse license — rights not verified.",
+          "credit": "Microsoft",
+          "alt": "Microsoft Surface Laptop, 13-inch (2nd Edition) in Black, open front view",
+          "match": "EXACT"
+        },
+        "Platinum": {
+          "url": "https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/b00-Surface-Laptop-SnapdragonX2-13-2Ed-Platinum-Front?wid=1600&fmt=png-alpha&extendN=0.05,0.05,0.05,0.05",
+          "page": "https://www.microsoft.com/en-us/d/surface-laptop-13-inch-2nd-edition/8wg5vqp0x4bd",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Microsoft Store product image (microsoft.com); Microsoft has not granted a reuse license — rights not verified.",
+          "credit": "Microsoft",
+          "alt": "Microsoft Surface Laptop, 13-inch (2nd Edition) in Platinum, open front view",
+          "match": "EXACT"
+        },
+        "Violet": {
+          "url": "https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/b00-Surface-Laptop-SnapdragonX2-13-2Ed-Violet-Front?wid=1600&fmt=png-alpha&extendN=0.05,0.05,0.05,0.05",
+          "page": "https://www.microsoft.com/en-us/d/surface-laptop-13-inch-2nd-edition/8wg5vqp0x4bd",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Microsoft Store product image (microsoft.com); Microsoft has not granted a reuse license — rights not verified.",
+          "credit": "Microsoft",
+          "alt": "Microsoft Surface Laptop, 13-inch (2nd Edition) in Violet, open front view",
+          "match": "EXACT"
+        }
+      }
     },
     {
       "brand": "Microsoft",
@@ -1296,11 +1861,49 @@
         "sourceType": "manufacturer-product-page",
         "rights": "Official Microsoft Store product image (microsoft.com); Microsoft has not granted a reuse license — rights not verified.",
         "credit": "Microsoft",
-        "alt": "Microsoft Surface Laptop 13.8-inch (8th Edition) in Jade, open front view",
+        "alt": "Microsoft Surface Laptop, 13.8-inch (8th Edition) in Jade, open front view",
         "match": "EXACT"
       },
       "notes": "List prices; Microsoft Store showed sale prices on some colours (e.g. Dune/Black X2 Plus at $1,399.99) on 2026-09-28.",
-      "priceSource": "https://www.microsoft.com/en-us/d/surface-laptop-138-inch-8th-edition/8mzbmmcjzpmf"
+      "priceSource": "https://www.microsoft.com/en-us/d/surface-laptop-138-inch-8th-edition/8mzbmmcjzpmf",
+      "colorImages": {
+        "Jade": {
+          "url": "https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/b00-Surface-Laptop-Snapdragon-8Ed-HR-Front?wid=1600&fmt=png-alpha&extendN=0.05,0.05,0.05,0.05",
+          "page": "https://www.microsoft.com/en-us/d/surface-laptop-138-inch-8th-edition/8mzbmmcjzpmf",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Microsoft Store product image (microsoft.com); Microsoft has not granted a reuse license — rights not verified.",
+          "credit": "Microsoft",
+          "alt": "Microsoft Surface Laptop, 13.8-inch (8th Edition) in Jade, open front view",
+          "match": "EXACT"
+        },
+        "Platinum": {
+          "url": "https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/b00-Surface-Laptop-Snapdragon-8Ed-HC-Front?wid=1600&fmt=png-alpha&extendN=0.05,0.05,0.05,0.05",
+          "page": "https://www.microsoft.com/en-us/d/surface-laptop-138-inch-8th-edition/8mzbmmcjzpmf",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Microsoft Store product image (microsoft.com); Microsoft has not granted a reuse license — rights not verified.",
+          "credit": "Microsoft",
+          "alt": "Microsoft Surface Laptop, 13.8-inch (8th Edition) in Platinum, open front view",
+          "match": "EXACT"
+        },
+        "Dune": {
+          "url": "https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/b00-Surface-Laptop-Snapdragon-8Ed-HB-Front?wid=1600&fmt=png-alpha&extendN=0.05,0.05,0.05,0.05",
+          "page": "https://www.microsoft.com/en-us/d/surface-laptop-138-inch-8th-edition/8mzbmmcjzpmf",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Microsoft Store product image (microsoft.com); Microsoft has not granted a reuse license — rights not verified.",
+          "credit": "Microsoft",
+          "alt": "Microsoft Surface Laptop, 13.8-inch (8th Edition) in Dune, open front view",
+          "match": "EXACT"
+        },
+        "Black": {
+          "url": "https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/b00-Surface-Laptop-Snapdragon-8Ed-HD-Front?wid=1600&fmt=png-alpha&extendN=0.05,0.05,0.05,0.05",
+          "page": "https://www.microsoft.com/en-us/d/surface-laptop-138-inch-8th-edition/8mzbmmcjzpmf",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Microsoft Store product image (microsoft.com); Microsoft has not granted a reuse license — rights not verified.",
+          "credit": "Microsoft",
+          "alt": "Microsoft Surface Laptop, 13.8-inch (8th Edition) in Black, open front view",
+          "match": "EXACT"
+        }
+      }
     },
     {
       "brand": "Microsoft",
@@ -1376,11 +1979,31 @@
         "sourceType": "manufacturer-product-page",
         "rights": "Official Microsoft Store product image (microsoft.com); Microsoft has not granted a reuse license — rights not verified.",
         "credit": "Microsoft",
-        "alt": "Microsoft Surface Laptop 15-inch (8th Edition) in Platinum, open front view",
+        "alt": "Microsoft Surface Laptop, 15-inch (8th Edition) in Platinum, open front view",
         "match": "EXACT"
       },
       "notes": "List price; Microsoft Store showed $1,549.99 sale price for the base config on 2026-09-28.",
-      "priceSource": "https://www.microsoft.com/en-us/d/surface-laptop-15-inch-8th-edition/8mzbmmcjzp9w"
+      "priceSource": "https://www.microsoft.com/en-us/d/surface-laptop-15-inch-8th-edition/8mzbmmcjzp9w",
+      "colorImages": {
+        "Platinum": {
+          "url": "https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/b00-Surface-Laptop-Snapdragon-8Ed-JC-Front?wid=1600&fmt=png-alpha&extendN=0.05,0.05,0.05,0.05",
+          "page": "https://www.microsoft.com/en-us/d/surface-laptop-15-inch-8th-edition/8mzbmmcjzp9w",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Microsoft Store product image (microsoft.com); Microsoft has not granted a reuse license — rights not verified.",
+          "credit": "Microsoft",
+          "alt": "Microsoft Surface Laptop, 15-inch (8th Edition) in Platinum, open front view",
+          "match": "EXACT"
+        },
+        "Black": {
+          "url": "https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/b00-Surface-Laptop-Snapdragon-8Ed-JD-Front?wid=1600&fmt=png-alpha&extendN=0.05,0.05,0.05,0.05",
+          "page": "https://www.microsoft.com/en-us/d/surface-laptop-15-inch-8th-edition/8mzbmmcjzp9w",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Microsoft Store product image (microsoft.com); Microsoft has not granted a reuse license — rights not verified.",
+          "credit": "Microsoft",
+          "alt": "Microsoft Surface Laptop, 15-inch (8th Edition) in Black, open front view",
+          "match": "EXACT"
+        }
+      }
     },
     {
       "brand": "Microsoft",
@@ -1425,11 +2048,35 @@
         "sourceType": "manufacturer-product-page",
         "rights": "Official Microsoft Store product image (microsoft.com); Microsoft has not granted a reuse license — rights not verified.",
         "credit": "Microsoft",
-        "alt": "Microsoft Surface Laptop for Business (8th Edition, Intel) in Platinum, open front view",
-        "match": "PRODUCT_LINE"
+        "alt": "Microsoft Surface Laptop for Business, 13.8 or 15-inch (8th Edition) Intel in Black, open front view",
+        "match": "EXACT"
       },
       "notes": "Microsoft Store shows 'Starting From $2,149.99' but the static page did not identify which configuration that is, so RAM/storage are left out of specs. npuTops is the Core Ultra 7/X7 figure (Ultra 5 is 47 TOPS). Weight is the 13.8-inch model.",
-      "priceSource": "https://www.microsoft.com/en-us/d/surface-laptop-for-business-138-and-15-inch-8th-edition-intel/8mzbmmcjzpn5"
+      "priceSource": "https://www.microsoft.com/en-us/d/surface-laptop-for-business-138-and-15-inch-8th-edition-intel/8mzbmmcjzpn5",
+      "colors": [
+        "Black",
+        "Platinum"
+      ],
+      "colorImages": {
+        "Black": {
+          "url": "https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/b00-Surface-Laptop-Intel-8Ed-HD-Front?wid=1600&fmt=png-alpha&extendN=0.05,0.05,0.05,0.05",
+          "page": "https://www.microsoft.com/en-us/d/surface-laptop-for-business-138-and-15-inch-8th-edition-intel/8mzbmmcjzpn5",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Microsoft Store product image (microsoft.com); Microsoft has not granted a reuse license — rights not verified.",
+          "credit": "Microsoft",
+          "alt": "Microsoft Surface Laptop for Business, 13.8 or 15-inch (8th Edition) Intel in Black, open front view",
+          "match": "EXACT"
+        },
+        "Platinum": {
+          "url": "https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/b03-Surface-Laptop-Intel-8Ed-JC-Front?wid=1600&fmt=png-alpha&extendN=0.05,0.05,0.05,0.05",
+          "page": "https://www.microsoft.com/en-us/d/surface-laptop-for-business-138-and-15-inch-8th-edition-intel/8mzbmmcjzpn5",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Microsoft Store product image (microsoft.com); Microsoft has not granted a reuse license — rights not verified.",
+          "credit": "Microsoft",
+          "alt": "Microsoft Surface Laptop for Business, 13.8 or 15-inch (8th Edition) Intel in Platinum, open front view",
+          "match": "EXACT"
+        }
+      }
     },
     {
       "brand": "Microsoft",
@@ -1485,16 +2132,45 @@
         "specs": "https://www.microsoft.com/en-us/surface/devices/surface-pro"
       },
       "image": {
-        "url": "https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/b00-Surface-Pro-SnapdragonX2-12-2Ed-Violet-Front?wid=1600&fmt=png-alpha&extendN=0.05,0.05,0.05,0.05",
+        "url": "https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/b01-Surface-Pro-SnapdragonX2-12-2Ed-Platinum-Front-Left?wid=1600&fmt=png-alpha&extendN=0.05,0.05,0.05,0.05",
         "page": "https://www.microsoft.com/en-us/d/surface-pro-12-inch-2nd-edition/8wg5vqp0x4bw",
         "sourceType": "manufacturer-product-page",
         "rights": "Official Microsoft Store product image (microsoft.com); Microsoft has not granted a reuse license — rights not verified.",
         "credit": "Microsoft",
-        "alt": "Microsoft Surface Pro 12-inch (2nd Edition) in Violet, front view of the tablet display",
+        "alt": "Microsoft Surface Pro, 12-inch (2nd Edition) in Platinum, angled front-left view with kickstand out",
         "match": "EXACT"
       },
       "notes": "Pre-order at Microsoft Store as of 2026-09-28. Weight excludes keyboard.",
-      "priceSource": "https://www.microsoft.com/en-us/d/surface-pro-12-inch-2nd-edition/8wg5vqp0x4bw"
+      "priceSource": "https://www.microsoft.com/en-us/d/surface-pro-12-inch-2nd-edition/8wg5vqp0x4bw",
+      "colorImages": {
+        "Platinum": {
+          "url": "https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/b01-Surface-Pro-SnapdragonX2-12-2Ed-Platinum-Front-Left?wid=1600&fmt=png-alpha&extendN=0.05,0.05,0.05,0.05",
+          "page": "https://www.microsoft.com/en-us/d/surface-pro-12-inch-2nd-edition/8wg5vqp0x4bw",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Microsoft Store product image (microsoft.com); Microsoft has not granted a reuse license — rights not verified.",
+          "credit": "Microsoft",
+          "alt": "Microsoft Surface Pro, 12-inch (2nd Edition) in Platinum, angled front-left view with kickstand out",
+          "match": "EXACT"
+        },
+        "Violet": {
+          "url": "https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/b01-Surface-Pro-SnapdragonX2-12-2Ed-Violet-Front-Left?wid=1600&fmt=png-alpha&extendN=0.05,0.05,0.05,0.05",
+          "page": "https://www.microsoft.com/en-us/d/surface-pro-12-inch-2nd-edition/8wg5vqp0x4bw",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Microsoft Store product image (microsoft.com); Microsoft has not granted a reuse license — rights not verified.",
+          "credit": "Microsoft",
+          "alt": "Microsoft Surface Pro, 12-inch (2nd Edition) in Violet, angled front-left view with kickstand out",
+          "match": "EXACT"
+        },
+        "Black": {
+          "url": "https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/b01-Surface-Pro-SnapdragonX2-12-2Ed-Black-Front-Left?wid=1600&fmt=png-alpha&extendN=0.05,0.05,0.05,0.05",
+          "page": "https://www.microsoft.com/en-us/d/surface-pro-12-inch-2nd-edition/8wg5vqp0x4bw",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Microsoft Store product image (microsoft.com); Microsoft has not granted a reuse license — rights not verified.",
+          "credit": "Microsoft",
+          "alt": "Microsoft Surface Pro, 12-inch (2nd Edition) in Black, angled front-left view with kickstand out",
+          "match": "EXACT"
+        }
+      }
     },
     {
       "brand": "Microsoft",
@@ -1567,16 +2243,45 @@
         "specs": "https://www.microsoft.com/en-us/surface/devices/surface-pro"
       },
       "image": {
-        "url": "https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/b00-Surface-Pro-Snapdragon-12Ed-MB-Front?wid=1600&fmt=png-alpha&extendN=0.05,0.05,0.05,0.05",
+        "url": "https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/b02-Surface-Pro-Snapdragon-12Ed-MC-Rear-Left?wid=1600&fmt=png-alpha&extendN=0.05,0.05,0.05,0.05",
         "page": "https://www.microsoft.com/en-us/d/surface-pro-13-inch-12th-edition/8mzbmmcjzpmr",
         "sourceType": "manufacturer-product-page",
         "rights": "Official Microsoft Store product image (microsoft.com); Microsoft has not granted a reuse license — rights not verified.",
         "credit": "Microsoft",
-        "alt": "Microsoft Surface Pro 13-inch (12th Edition) in Dune, front view of the tablet display",
+        "alt": "Microsoft Surface Pro, 13-inch (12th Edition) in Platinum, rear-left view with kickstand out",
         "match": "EXACT"
       },
       "notes": "List price; Microsoft Store showed $1,349.99 sale price for the base config on 2026-09-28. Weight excludes keyboard.",
-      "priceSource": "https://www.microsoft.com/en-us/d/surface-pro-13-inch-12th-edition/8mzbmmcjzpmr"
+      "priceSource": "https://www.microsoft.com/en-us/d/surface-pro-13-inch-12th-edition/8mzbmmcjzpmr",
+      "colorImages": {
+        "Platinum": {
+          "url": "https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/b02-Surface-Pro-Snapdragon-12Ed-MC-Rear-Left?wid=1600&fmt=png-alpha&extendN=0.05,0.05,0.05,0.05",
+          "page": "https://www.microsoft.com/en-us/d/surface-pro-13-inch-12th-edition/8mzbmmcjzpmr",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Microsoft Store product image (microsoft.com); Microsoft has not granted a reuse license — rights not verified.",
+          "credit": "Microsoft",
+          "alt": "Microsoft Surface Pro, 13-inch (12th Edition) in Platinum, rear-left view with kickstand out",
+          "match": "EXACT"
+        },
+        "Dune": {
+          "url": "https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/b02-Surface-Pro-Snapdragon-12Ed-MB-Rear-Left?wid=1600&fmt=png-alpha&extendN=0.05,0.05,0.05,0.05",
+          "page": "https://www.microsoft.com/en-us/d/surface-pro-13-inch-12th-edition/8mzbmmcjzpmr",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Microsoft Store product image (microsoft.com); Microsoft has not granted a reuse license — rights not verified.",
+          "credit": "Microsoft",
+          "alt": "Microsoft Surface Pro, 13-inch (12th Edition) in Dune, rear-left view with kickstand out",
+          "match": "EXACT"
+        },
+        "Black": {
+          "url": "https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/b02-Surface-Pro-Snapdragon-12Ed-MD-Rear-Left?wid=1600&fmt=png-alpha&extendN=0.05,0.05,0.05,0.05",
+          "page": "https://www.microsoft.com/en-us/d/surface-pro-13-inch-12th-edition/8mzbmmcjzpmr",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Microsoft Store product image (microsoft.com); Microsoft has not granted a reuse license — rights not verified.",
+          "credit": "Microsoft",
+          "alt": "Microsoft Surface Pro, 13-inch (12th Edition) in Black, rear-left view with kickstand out",
+          "match": "EXACT"
+        }
+      }
     },
     {
       "brand": "Microsoft",
@@ -1615,7 +2320,7 @@
         "sourceType": "manufacturer-product-page",
         "rights": "Official Microsoft Store product image (microsoft.com); Microsoft has not granted a reuse license — rights not verified.",
         "credit": "Microsoft",
-        "alt": "Microsoft Surface Pro 13-inch Flex Keyboard in Black, top view with pen storage slot",
+        "alt": "Microsoft Surface Pro 13-inch Flex Keyboard in Black, top view",
         "match": "EXACT"
       },
       "priceSource": "https://www.microsoft.com/en-us/d/surface-pro-13-inch-flex-keyboard/91xw9xj8bm7l",
@@ -1627,7 +2332,27 @@
         {
           "label": "Black with bold keyset"
         }
-      ]
+      ],
+      "colorImages": {
+        "Black": {
+          "url": "https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/SPW5C-2000x1500-BB-00?wid=1600&fmt=png-alpha&extendN=0.05,0.05,0.05,0.05",
+          "page": "https://www.microsoft.com/en-us/d/surface-pro-13-inch-flex-keyboard/91xw9xj8bm7l",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Microsoft Store product image (microsoft.com); Microsoft has not granted a reuse license — rights not verified.",
+          "credit": "Microsoft",
+          "alt": "Microsoft Surface Pro 13-inch Flex Keyboard in Black, top view",
+          "match": "EXACT"
+        },
+        "Black with bold keyset": {
+          "url": "https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/SPW5C-2000x1500-BB-01?wid=1600&fmt=png-alpha&extendN=0.05,0.05,0.05,0.05",
+          "page": "https://www.microsoft.com/en-us/d/surface-pro-13-inch-flex-keyboard/91xw9xj8bm7l",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Microsoft Store product image (microsoft.com); Microsoft has not granted a reuse license — rights not verified.",
+          "credit": "Microsoft",
+          "alt": "Microsoft Surface Pro 13-inch Flex Keyboard in Black with bold keyset, top view",
+          "match": "EXACT"
+        }
+      }
     },
     {
       "brand": "Microsoft",
@@ -1683,7 +2408,36 @@
         {
           "label": "Slate with bold keyset"
         }
-      ]
+      ],
+      "colorImages": {
+        "Slate": {
+          "url": "https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/B02-Surface-Pro-12-inch-Keyboard-Slate-Top?wid=1600&fmt=png-alpha&extendN=0.05,0.05,0.05,0.05",
+          "page": "https://www.microsoft.com/en-us/d/surface-pro-12-inch-keyboard/8mzbmmcjzqv0",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Microsoft Store product image (microsoft.com); Microsoft has not granted a reuse license — rights not verified.",
+          "credit": "Microsoft",
+          "alt": "Microsoft Surface Pro 12-inch Keyboard in Slate, top view",
+          "match": "EXACT"
+        },
+        "Ocean": {
+          "url": "https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/B01-Surface-Pro-12-inch-Keyboard-Ocean-Top?wid=1600&fmt=png-alpha&extendN=0.05,0.05,0.05,0.05",
+          "page": "https://www.microsoft.com/en-us/d/surface-pro-12-inch-keyboard/8mzbmmcjzqv0",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Microsoft Store product image (microsoft.com); Microsoft has not granted a reuse license — rights not verified.",
+          "credit": "Microsoft",
+          "alt": "Microsoft Surface Pro 12-inch Keyboard in Ocean, top view",
+          "match": "EXACT"
+        },
+        "Violet": {
+          "url": "https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/B00-Surface-Pro-12-inch-Keyboard-Violet-Top?wid=1600&fmt=png-alpha&extendN=0.05,0.05,0.05,0.05",
+          "page": "https://www.microsoft.com/en-us/d/surface-pro-12-inch-keyboard/8mzbmmcjzqv0",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Microsoft Store product image (microsoft.com); Microsoft has not granted a reuse license — rights not verified.",
+          "credit": "Microsoft",
+          "alt": "Microsoft Surface Pro 12-inch Keyboard in Violet, top view",
+          "match": "EXACT"
+        }
+      }
     },
     {
       "brand": "Microsoft",
@@ -1762,7 +2516,45 @@
         "alt": "Microsoft Surface Arc Mouse in Violet, angled side view in its curved on position",
         "match": "EXACT"
       },
-      "priceSource": "https://www.microsoft.com/en-us/d/surface-arc-mouse/8mzbmmcjzqtx"
+      "priceSource": "https://www.microsoft.com/en-us/d/surface-arc-mouse/8mzbmmcjzqtx",
+      "colorImages": {
+        "Violet": {
+          "url": "https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/B00-Surface-Arc-Mouse-Rational-Violet?wid=1600&fmt=png-alpha&extendN=0.05,0.05,0.05,0.05",
+          "page": "https://www.microsoft.com/en-us/d/surface-arc-mouse/8mzbmmcjzqtx",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Microsoft Store product image (microsoft.com); Microsoft has not granted a reuse license — rights not verified.",
+          "credit": "Microsoft",
+          "alt": "Microsoft Surface Arc Mouse in Violet, angled side view in its curved on position",
+          "match": "EXACT"
+        },
+        "Ocean": {
+          "url": "https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/B02-Surface-Arc-Mouse-Rational-Ocean?wid=1600&fmt=png-alpha&extendN=0.05,0.05,0.05,0.05",
+          "page": "https://www.microsoft.com/en-us/d/surface-arc-mouse/8mzbmmcjzqtx",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Microsoft Store product image (microsoft.com); Microsoft has not granted a reuse license — rights not verified.",
+          "credit": "Microsoft",
+          "alt": "Microsoft Surface Arc Mouse in Ocean, angled side view in its curved on position",
+          "match": "EXACT"
+        },
+        "Black": {
+          "url": "https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/gldn-SurfA-Mavis-ELG-00001-b00?wid=1600&fmt=png-alpha&extendN=0.05,0.05,0.05,0.05",
+          "page": "https://www.microsoft.com/en-us/d/surface-arc-mouse-black/8nr554s5qxn7",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Microsoft Store product image (microsoft.com); Microsoft has not granted a reuse license — rights not verified.",
+          "credit": "Microsoft",
+          "alt": "Microsoft Surface Arc Mouse in Black, angled side view in its curved on position",
+          "match": "EXACT"
+        },
+        "Light Gray": {
+          "url": "https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/gldn-SurfA-Mavis-CZV-00001-b00-1?wid=1600&fmt=png-alpha&extendN=0.05,0.05,0.05,0.05",
+          "page": "https://www.microsoft.com/en-us/d/surface-arc-mouse/8p5sv2rx3rn5",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Microsoft Store product image (microsoft.com); Microsoft has not granted a reuse license — rights not verified.",
+          "credit": "Microsoft",
+          "alt": "Microsoft Surface Arc Mouse in Light Gray, angled side view in its curved on position",
+          "match": "EXACT"
+        }
+      }
     },
     {
       "brand": "Microsoft",
@@ -1806,7 +2598,27 @@
         "match": "EXACT"
       },
       "notes": "Pre-order; Microsoft lists release date October 13, 2026. sensorDpi is the adjustable maximum (default 1000 dpi).",
-      "priceSource": "https://www.microsoft.com/en-us/d/surface-mouse-2nd-edition/8wg5vqp0x4bv"
+      "priceSource": "https://www.microsoft.com/en-us/d/surface-mouse-2nd-edition/8wg5vqp0x4bv",
+      "colorImages": {
+        "Black": {
+          "url": "https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/b00-Surface-Mouse-2Ed-Black-Front-Right?wid=1600&fmt=png-alpha&extendN=0.05,0.05,0.05,0.05",
+          "page": "https://www.microsoft.com/en-us/d/surface-mouse-2nd-edition/8wg5vqp0x4bv",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Microsoft Store product image (microsoft.com); Microsoft has not granted a reuse license — rights not verified.",
+          "credit": "Microsoft",
+          "alt": "Microsoft Surface Mouse (2nd Edition) in Black, angled front-right view",
+          "match": "EXACT"
+        },
+        "Platinum": {
+          "url": "https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/b00-Surface-Mouse-2Ed-Platinum-Front-Right?wid=1600&fmt=png-alpha&extendN=0.05,0.05,0.05,0.05",
+          "page": "https://www.microsoft.com/en-us/d/surface-mouse-2nd-edition/8wg5vqp0x4bv",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Microsoft Store product image (microsoft.com); Microsoft has not granted a reuse license — rights not verified.",
+          "credit": "Microsoft",
+          "alt": "Microsoft Surface Mouse (2nd Edition) in Platinum, angled front-right view",
+          "match": "EXACT"
+        }
+      }
     },
     {
       "brand": "Microsoft",
@@ -2161,7 +2973,72 @@
         "match": "EXACT"
       },
       "notes": "Carbon Black list $64.99 (some colours list at $69.99); Microsoft Store showed sale prices on 2026-09-28.",
-      "priceSource": "https://www.microsoft.com/en-us/d/xbox-wireless-controller/8xn59crbsqgz"
+      "priceSource": "https://www.microsoft.com/en-us/d/xbox-wireless-controller/8xn59crbsqgz",
+      "colorImages": {
+        "Carbon Black": {
+          "url": "https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/gldn-Xbox-Cntrl-Black-b00?wid=1600&fmt=png-alpha&extendN=0.05,0.05,0.05,0.05",
+          "page": "https://www.microsoft.com/en-us/d/xbox-wireless-controller/8xn59crbsqgz",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Microsoft Store product image (microsoft.com); Microsoft has not granted a reuse license — rights not verified.",
+          "credit": "Microsoft",
+          "alt": "Microsoft Xbox Wireless Controller in Carbon Black, front view",
+          "match": "EXACT"
+        },
+        "Robot White": {
+          "url": "https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/gldn-Xbox-Cntrl-White-b01-1?wid=1600&fmt=png-alpha&extendN=0.05,0.05,0.05,0.05",
+          "page": "https://www.microsoft.com/en-us/d/xbox-wireless-controller/8xn59crbsqgz",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Microsoft Store product image (microsoft.com); Microsoft has not granted a reuse license — rights not verified.",
+          "credit": "Microsoft",
+          "alt": "Microsoft Xbox Wireless Controller in Robot White, front view",
+          "match": "EXACT"
+        },
+        "Electric Volt": {
+          "url": "https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/2234390_Image-Buy-Box-0_2000x2000?wid=1600&fmt=png-alpha&extendN=0.05,0.05,0.05,0.05",
+          "page": "https://www.microsoft.com/en-us/d/xbox-wireless-controller/8xn59crbsqgz",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Microsoft Store product image (microsoft.com); Microsoft has not granted a reuse license — rights not verified.",
+          "credit": "Microsoft",
+          "alt": "Microsoft Xbox Wireless Controller in Electric Volt, front view",
+          "match": "EXACT"
+        },
+        "Shock Blue": {
+          "url": "https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/gldn-Xbox-Cntrl-Blue-b02?wid=1600&fmt=png-alpha&extendN=0.05,0.05,0.05,0.05",
+          "page": "https://www.microsoft.com/en-us/d/xbox-wireless-controller/8xn59crbsqgz",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Microsoft Store product image (microsoft.com); Microsoft has not granted a reuse license — rights not verified.",
+          "credit": "Microsoft",
+          "alt": "Microsoft Xbox Wireless Controller in Shock Blue, front view",
+          "match": "EXACT"
+        },
+        "Velocity Green": {
+          "url": "https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Xbox-Wireless-Controller_Image-Buy-Box-0_246801_2000x2000-1?wid=1600&fmt=png-alpha&extendN=0.05,0.05,0.05,0.05",
+          "page": "https://www.microsoft.com/en-us/d/xbox-wireless-controller/8xn59crbsqgz",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Microsoft Store product image (microsoft.com); Microsoft has not granted a reuse license — rights not verified.",
+          "credit": "Microsoft",
+          "alt": "Microsoft Xbox Wireless Controller in Velocity Green, front view",
+          "match": "EXACT"
+        },
+        "Deep Pink": {
+          "url": "https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/3899411_Image-Buy-Box-0_2000x2000?wid=1600&fmt=png-alpha&extendN=0.05,0.05,0.05,0.05",
+          "page": "https://www.microsoft.com/en-us/d/xbox-wireless-controller/8xn59crbsqgz",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Microsoft Store product image (microsoft.com); Microsoft has not granted a reuse license — rights not verified.",
+          "credit": "Microsoft",
+          "alt": "Microsoft Xbox Wireless Controller in Deep Pink, front view",
+          "match": "EXACT"
+        },
+        "Pulse Red": {
+          "url": "https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/029437852_Image-Buy-Box-0_2555x1555?wid=1600&fmt=png-alpha&extendN=0.05,0.05,0.05,0.05",
+          "page": "https://www.microsoft.com/en-us/d/xbox-wireless-controller/8xn59crbsqgz",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Microsoft Store product image (microsoft.com); Microsoft has not granted a reuse license — rights not verified.",
+          "credit": "Microsoft",
+          "alt": "Microsoft Xbox Wireless Controller in Pulse Red, front view",
+          "match": "EXACT"
+        }
+      }
     },
     {
       "brand": "Microsoft",

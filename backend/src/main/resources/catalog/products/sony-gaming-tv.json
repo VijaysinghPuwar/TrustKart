@@ -127,10 +127,24 @@
      "values": [
       {
        "label": "White",
-       "default": true
+       "default": true,
+       "image": {
+        "small": "/images/catalog/sony-playstation-portal-remote-player--white-400.webp",
+        "large": "/images/catalog/sony-playstation-portal-remote-player--white-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Sony PlayStation Portal Remote Player in White, front view"
+       }
       },
       {
-       "label": "Midnight Black"
+       "label": "Midnight Black",
+       "image": {
+        "small": "/images/catalog/sony-playstation-portal-remote-player--midnight-black-400.webp",
+        "large": "/images/catalog/sony-playstation-portal-remote-player--midnight-black-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Sony PlayStation Portal Remote Player in Midnight Black, front view"
+       }
       }
      ]
     }
@@ -169,22 +183,64 @@
      "values": [
       {
        "label": "White",
-       "default": true
+       "default": true,
+       "image": {
+        "small": "/images/catalog/sony-dualsense-wireless-controller--white-400.webp",
+        "large": "/images/catalog/sony-dualsense-wireless-controller--white-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Sony DualSense Wireless Controller in White, front view"
+       }
       },
       {
-       "label": "Sterling Silver"
+       "label": "Sterling Silver",
+       "image": {
+        "small": "/images/catalog/sony-dualsense-wireless-controller--sterling-silver-400.webp",
+        "large": "/images/catalog/sony-dualsense-wireless-controller--sterling-silver-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Sony DualSense Wireless Controller in Sterling Silver, front view"
+       }
       },
       {
-       "label": "Volcanic Red"
+       "label": "Volcanic Red",
+       "image": {
+        "small": "/images/catalog/sony-dualsense-wireless-controller--volcanic-red-400.webp",
+        "large": "/images/catalog/sony-dualsense-wireless-controller--volcanic-red-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Sony DualSense Wireless Controller in Volcanic Red, front view"
+       }
       },
       {
-       "label": "Cobalt Blue"
+       "label": "Cobalt Blue",
+       "image": {
+        "small": "/images/catalog/sony-dualsense-wireless-controller--cobalt-blue-400.webp",
+        "large": "/images/catalog/sony-dualsense-wireless-controller--cobalt-blue-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Sony DualSense Wireless Controller in Cobalt Blue, front view"
+       }
       },
       {
-       "label": "Chroma Pearl"
+       "label": "Chroma Pearl",
+       "image": {
+        "small": "/images/catalog/sony-dualsense-wireless-controller--chroma-pearl-400.webp",
+        "large": "/images/catalog/sony-dualsense-wireless-controller--chroma-pearl-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Sony DualSense Wireless Controller in Chroma Pearl, front view"
+       }
       },
       {
-       "label": "Cosmic Red"
+       "label": "Cosmic Red",
+       "image": {
+        "small": "/images/catalog/sony-dualsense-wireless-controller--cosmic-red-400.webp",
+        "large": "/images/catalog/sony-dualsense-wireless-controller--cosmic-red-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Sony DualSense Wireless Controller in Cosmic Red, front view"
+       }
       }
      ]
     }
@@ -224,10 +280,24 @@
      "values": [
       {
        "label": "White",
-       "default": true
+       "default": true,
+       "image": {
+        "small": "/images/catalog/sony-dualsense-edge-wireless-controller--white-400.webp",
+        "large": "/images/catalog/sony-dualsense-edge-wireless-controller--white-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Sony DualSense Edge Wireless Controller in White, front view"
+       }
       },
       {
-       "label": "Midnight Black"
+       "label": "Midnight Black",
+       "image": {
+        "small": "/images/catalog/sony-dualsense-edge-wireless-controller--midnight-black-400.webp",
+        "large": "/images/catalog/sony-dualsense-edge-wireless-controller--midnight-black-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Sony DualSense Edge Wireless Controller in Midnight Black, front view"
+       }
       }
      ]
     }
@@ -292,10 +362,24 @@
      "values": [
       {
        "label": "White",
-       "default": true
+       "default": true,
+       "image": {
+        "small": "/images/catalog/sony-pulse-elite-wireless-headset--white-400.webp",
+        "large": "/images/catalog/sony-pulse-elite-wireless-headset--white-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Sony PULSE Elite Wireless Headset in White, angled view"
+       }
       },
       {
-       "label": "Midnight Black"
+       "label": "Midnight Black",
+       "image": {
+        "small": "/images/catalog/sony-pulse-elite-wireless-headset--midnight-black-400.webp",
+        "large": "/images/catalog/sony-pulse-elite-wireless-headset--midnight-black-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Sony PULSE Elite Wireless Headset in Midnight Black, angled view"
+       }
       }
      ]
     }
@@ -334,10 +418,24 @@
      "values": [
       {
        "label": "White",
-       "default": true
+       "default": true,
+       "image": {
+        "small": "/images/catalog/sony-pulse-explore-wireless-earbuds--white-400.webp",
+        "large": "/images/catalog/sony-pulse-explore-wireless-earbuds--white-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Sony PULSE Explore Wireless Earbuds in White, earbuds angled view"
+       }
       },
       {
-       "label": "Midnight Black"
+       "label": "Midnight Black",
+       "image": {
+        "small": "/images/catalog/sony-pulse-explore-wireless-earbuds--midnight-black-400.webp",
+        "large": "/images/catalog/sony-pulse-explore-wireless-earbuds--midnight-black-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Sony PULSE Explore Wireless Earbuds in Midnight Black, earbuds angled view"
+       }
       }
      ]
     }
@@ -373,10 +471,24 @@
      "values": [
       {
        "label": "White",
-       "default": true
+       "default": true,
+       "image": {
+        "small": "/images/catalog/sony-pulse-elevate-wireless-speakers--white-400.webp",
+        "large": "/images/catalog/sony-pulse-elevate-wireless-speakers--white-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Sony PULSE Elevate Wireless Speakers in White, pair of speakers, angled view"
+       }
       },
       {
-       "label": "Midnight Black"
+       "label": "Midnight Black",
+       "image": {
+        "small": "/images/catalog/sony-pulse-elevate-wireless-speakers--midnight-black-400.webp",
+        "large": "/images/catalog/sony-pulse-elevate-wireless-speakers--midnight-black-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Sony PULSE Elevate Wireless Speakers in Midnight Black, pair of speakers, angled view"
+       }
       }
      ]
     }
@@ -529,13 +641,34 @@
      "values": [
       {
        "label": "Light Blue / Light Red",
-       "default": true
+       "default": true,
+       "image": {
+        "small": "/images/catalog/nintendo-joy-con-2-pair--light-blue-light-red-400.webp",
+        "large": "/images/catalog/nintendo-joy-con-2-pair--light-blue-light-red-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Nintendo Joy-Con 2 (L)/(R) Pair in Light Blue / Light Red, front view with wrist straps"
+       }
       },
       {
-       "label": "Light Purple / Light Green"
+       "label": "Light Purple / Light Green",
+       "image": {
+        "small": "/images/catalog/nintendo-joy-con-2-pair--light-purple-light-green-400.webp",
+        "large": "/images/catalog/nintendo-joy-con-2-pair--light-purple-light-green-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Nintendo Joy-Con 2 (L)/(R) Pair in Light Purple / Light Green, front view with wrist straps"
+       }
       },
       {
-       "label": "Blue / Light Yellow"
+       "label": "Blue / Light Yellow",
+       "image": {
+        "small": "/images/catalog/nintendo-joy-con-2-pair--blue-light-yellow-400.webp",
+        "large": "/images/catalog/nintendo-joy-con-2-pair--blue-light-yellow-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Nintendo Joy-Con 2 (L)/(R) Pair in Blue / Light Yellow, front view with wrist straps"
+       }
       }
      ]
     }
@@ -890,10 +1023,24 @@
      "values": [
       {
        "label": "Black",
-       "default": true
+       "default": true,
+       "image": {
+        "small": "/images/catalog/sony-wf-1000xm6--black-400.webp",
+        "large": "/images/catalog/sony-wf-1000xm6--black-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Sony WF-1000XM6 Wireless Noise Cancelling Earbuds in Black, pair of earbuds shown at an angle"
+       }
       },
       {
-       "label": "Silver"
+       "label": "Silver",
+       "image": {
+        "small": "/images/catalog/sony-wf-1000xm6--silver-400.webp",
+        "large": "/images/catalog/sony-wf-1000xm6--silver-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Sony WF-1000XM6 Wireless Noise Cancelling Earbuds in Silver, pair of earbuds shown at an angle"
+       }
       }
      ]
     }
@@ -935,13 +1082,34 @@
      "values": [
       {
        "label": "Black",
-       "default": true
+       "default": true,
+       "image": {
+        "small": "/images/catalog/sony-ult-wear--black-400.webp",
+        "large": "/images/catalog/sony-ult-wear--black-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Sony ULT WEAR Wireless Noise Canceling Headphones in Black, side view"
+       }
       },
       {
-       "label": "Forest Gray"
+       "label": "Forest Gray",
+       "image": {
+        "small": "/images/catalog/sony-ult-wear--forest-gray-400.webp",
+        "large": "/images/catalog/sony-ult-wear--forest-gray-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Sony ULT WEAR Wireless Noise Canceling Headphones in Forest Gray, side view"
+       }
       },
       {
-       "label": "Off White"
+       "label": "Off White",
+       "image": {
+        "small": "/images/catalog/sony-ult-wear--off-white-400.webp",
+        "large": "/images/catalog/sony-ult-wear--off-white-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Sony ULT WEAR Wireless Noise Canceling Headphones in Off White, side view"
+       }
       }
      ]
     }
@@ -1772,13 +1940,34 @@
      "values": [
       {
        "label": "Black",
-       "default": true
+       "default": true,
+       "image": {
+        "small": "/images/catalog/8bitdo-ultimate-2-bluetooth-controller--black-400.webp",
+        "large": "/images/catalog/8bitdo-ultimate-2-bluetooth-controller--black-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "8BitDo Ultimate 2 Bluetooth Controller in Black, front view with charging dock and 2.4G adapter"
+       }
       },
       {
-       "label": "White"
+       "label": "White",
+       "image": {
+        "small": "/images/catalog/8bitdo-ultimate-2-bluetooth-controller--white-400.webp",
+        "large": "/images/catalog/8bitdo-ultimate-2-bluetooth-controller--white-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "8BitDo Ultimate 2 Bluetooth Controller in White, front view with charging dock and 2.4G adapter"
+       }
       },
       {
-       "label": "Yellow"
+       "label": "Yellow",
+       "image": {
+        "small": "/images/catalog/8bitdo-ultimate-2-bluetooth-controller--yellow-400.webp",
+        "large": "/images/catalog/8bitdo-ultimate-2-bluetooth-controller--yellow-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "8BitDo Ultimate 2 Bluetooth Controller in Yellow, front view with charging dock and 2.4G adapter"
+       }
       }
      ]
     }
@@ -1817,16 +2006,44 @@
      "values": [
       {
        "label": "Orange",
-       "default": true
+       "default": true,
+       "image": {
+        "small": "/images/catalog/8bitdo-pro-3-bluetooth-gamepad--orange-400.webp",
+        "large": "/images/catalog/8bitdo-pro-3-bluetooth-gamepad--orange-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "8BitDo Pro 3 Bluetooth Gamepad in Orange, front view on its charging dock"
+       }
       },
       {
-       "label": "Purple"
+       "label": "Purple",
+       "image": {
+        "small": "/images/catalog/8bitdo-pro-3-bluetooth-gamepad--purple-400.webp",
+        "large": "/images/catalog/8bitdo-pro-3-bluetooth-gamepad--purple-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "8BitDo Pro 3 Bluetooth Gamepad in Purple, front view on its charging dock"
+       }
       },
       {
-       "label": "G Classic"
+       "label": "G Classic",
+       "image": {
+        "small": "/images/catalog/8bitdo-pro-3-bluetooth-gamepad--g-classic-400.webp",
+        "large": "/images/catalog/8bitdo-pro-3-bluetooth-gamepad--g-classic-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "8BitDo Pro 3 Bluetooth Gamepad in G Classic, front view on its charging dock"
+       }
       },
       {
-       "label": "Gray"
+       "label": "Gray",
+       "image": {
+        "small": "/images/catalog/8bitdo-pro-3-bluetooth-gamepad--gray-400.webp",
+        "large": "/images/catalog/8bitdo-pro-3-bluetooth-gamepad--gray-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "8BitDo Pro 3 Bluetooth Gamepad in Gray, front view on its charging dock"
+       }
       }
      ]
     }
