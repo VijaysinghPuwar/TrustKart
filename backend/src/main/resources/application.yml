@@ -55,6 +55,11 @@ server:
     include-binding-errors: never
 
 management:
+  health:
+    # Redis is optional (rate limits fail open, sessions fall back to the database), so an outage mustn't mark the
+    # whole service unhealthy and get it pulled from the load balancer.
+    redis:
+      enabled: false
   endpoints:
     web:
       exposure:
