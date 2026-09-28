@@ -115,7 +115,7 @@ def category_index(tree):
     """slug -> {"name", "path", "leaf", "specs": {key: type}}"""
     index = {}
 
-    def walk(nodes, inherited, path):
+    def walk(nodes, inherited, path, path_slugs):
         for n in nodes:
             specs = dict(inherited)
             for s in n.get("specs") or []:
@@ -123,10 +123,15 @@ def category_index(tree):
             children = n.get("children") or []
             if n["slug"] in index:
                 raise SystemExit(f"duplicate category slug {n['slug']}")
-            index[n["slug"]] = {"name": n["name"], "path": path + [n["name"]], "leaf": not children, "specs": specs}
-            walk(children, specs, path + [n["name"]])
+            top = path_slugs[0] if path_slugs else n["slug"]
+            index[n["slug"]] = {"name": n["name"], "path": path + [n["name"]], "leaf": not children, "specs": specs,
+                                "top": top}
+            walk(children, specs, path + [n["name"]], path_slugs + [n["slug"]])
 
-    walk(tree, {}, [])
+    def walk_wrapper(nodes, inherited, path, path_slugs=None):
+        return walk(nodes, inherited, path, path_slugs or [])
+
+    walk_wrapper(tree, {}, [])
     return index
 
 
@@ -170,8 +175,156 @@ def money_str(p: str) -> str:
     return f"${v:,.0f}" if v == int(v) else f"${v:,.2f}"
 
 
+# ----------------------------------------------------------------------------------------------------------------------
+# Facet normalization: filterable TEXT specs become consistent values (matching the demo catalog's formats) so a filter
+# shows "3840x2160" once instead of five spellings. The original wording moves to a non-filterable detail spec.
+# ----------------------------------------------------------------------------------------------------------------------
+
+NAMED_RES = [(r"\b8k\b", "7680x4320"), (r"\b6k\b", "6144x3456"), (r"\b5k2k\b", "5120x2160"), (r"\b5k\b", "5120x2880"),
+             (r"\b4k\b|2160p|\buhd\b", "3840x2160"), (r"\bqhd\b|1440p", "2560x1440"), (r"1080p|full hd|\bfhd\b", "1920x1080")]
+
+
+def norm_resolution(v: str):
+    m = re.search(r"(\d{3,5})\s*[x×]\s*(\d{3,5})", v)
+    if m:
+        return f"{m.group(1)}x{m.group(2)}"
+    low = v.lower()
+    for pat, res in NAMED_RES:
+        if re.search(pat, low):
+            return res
+    return v
+
+
+def norm_panel(v: str):
+    low = v.lower()
+    rules = [("micro rgb", "Micro RGB"), ("rgb mini", "RGB Mini LED"), ("rgb miniled", "RGB Mini LED"),
+             ("true rgb", "RGB LED"), ("qd-oled", "QD-OLED"), ("qd oled", "QD-OLED"), ("woled", "OLED"), ("oled", "OLED"),
+             ("ips black", "IPS Black"), ("mini led", "Mini LED"), ("mini-led", "Mini LED"), ("miniled", "Mini LED"),
+             ("ips", "IPS"), ("va", "VA"), ("lcd", "LED LCD"), ("qled", "QLED")]
+    for key, label in rules:
+        if re.search(r"\b" + re.escape(key) + r"\b", low) or (key in low and " " in key):
+            if label == "Mini LED" and "ips" in low:
+                return "IPS Mini LED"
+            return label
+    return v
+
+
+def norm_socket(v: str):
+    return re.sub(r"^FC", "", v.replace(" ", ""))
+
+
+def norm_technology(v: str):
+    low = v.lower()
+    if "thermal transfer" in low:
+        return "Thermal transfer"
+    if "thermal" in low and "inkjet" not in low:
+        return "Direct thermal"
+    if "laser" in low or " led" in low:
+        return "Color laser" if "color" in low or "colour" in low else "Laser"
+    if "inkjet" in low or "ink" in low:
+        return "Inkjet (supertank)" if ("tank" in low or "ecotank" in low) else "Inkjet"
+    return v
+
+
+def norm_os(v: str):
+    if v.lower().startswith("none"):
+        return "None (bring your own)"
+    v = re.split(r"\s*[(,;]|\s+at launch", v)[0].strip()
+    return v
+
+
+def norm_wifi(v: str):
+    m = re.search(r"wi-?fi\s*(\d+e?)", v, re.I)
+    if m:
+        return "Wi-Fi " + m.group(1).upper().replace("E", "E")
+    return v
+
+
+def norm_layout(v: str):
+    low = v.lower()
+    for key, label in [("tenkeyless", "TKL"), ("tkl", "TKL"), ("96%", "96%"), ("75%", "75%"), ("65%", "65%"),
+                       ("60%", "60%"), ("full", "Full size"), ("compact", "Compact")]:
+        if key in low:
+            return label
+    return v
+
+
+def norm_gpu_chipset(v: str):
+    return re.sub(r"^(NVIDIA|AMD|Intel)\s+", "", v)
+
+
+def norm_connectivity(v: str):
+    low = v.lower()
+    parts = []
+    if "wi-fi" in low or "wifi" in low:
+        parts.append("Wi-Fi")
+    if "bluetooth" in low:
+        parts.append("Bluetooth")
+    if not parts or any(k in low for k in ("usb", "wired", "xlr", "3.5", "hdmi", "optical", "thunderbolt")):
+        if not parts:
+            parts.append("Wired")
+    return " + ".join(parts)
+
+
+def norm_platform(v: str):
+    low = v.lower()
+    fams = [("xbox", "Xbox"), ("ps5", "PlayStation 5"), ("playstation", "PlayStation 5"),
+            ("switch 2", "Nintendo Switch 2"), ("switch", "Nintendo Switch"), ("steamos", "SteamOS"),
+            ("steam", "SteamOS"),
+            ("windows", "PC (Windows)"), ("pc", "PC (Windows)"), ("android", "Mobile"), ("ios", "Mobile")]
+    found = []
+    for key, label in fams:
+        if re.search(r"\b" + re.escape(key) + r"\b", low) and label not in found:
+            found.append(label)
+    if not found:
+        return v
+    return found[0]  # primary platform; the full list stays in the "Works with" detail spec
+
+
+def norm_mount(v: str):
+    low = v.lower()
+    for key, label in [("e-mount", "Sony E"), ("sony e", "Sony E"), ("nikon z", "Nikon Z"), ("fujifilm x", "FUJIFILM X"),
+                       ("fujifilm g", "FUJIFILM G"), ("l-mount", "L-Mount"), ("micro four thirds", "Micro Four Thirds"),
+                       ("rf", "Canon RF"), ("fixed", "Fixed lens")]:
+        if key in low:
+            return label
+    return None  # not a lens mount (gimbal, magnetic clip...): drop from the lens-mount facet
+
+
+# key -> (normalizer, detail key or None, departments it applies to or None for all)
+FACETS = {
+    "resolution": (norm_resolution, None, {"monitors", "tvs"}),
+    "panel": (norm_panel, "panelDetails", {"monitors", "tvs"}),
+    "socket": (norm_socket, None, None),
+    "technology": (norm_technology, None, {"printers"}),
+    "os": (norm_os, None, None),
+    "wifiStandard": (norm_wifi, "wifiDetails", {"networking"}),
+    "layout": (norm_layout, None, {"peripherals"}),
+    "chipset": (norm_gpu_chipset, None, {"components"}),
+    "connectivity": (norm_connectivity, "connectionDetails", {"audio"}),
+    "platform": (norm_platform, "compatibility", {"gaming"}),
+    "mount": (norm_mount, None, {"cameras-drones"}),
+}
+
+
+def normalize_facets(specs: dict, cat: dict) -> dict:
+    out = dict(specs)
+    for key, (fn, detail, departments) in FACETS.items():
+        value = out.get(key)
+        if not isinstance(value, str) or (departments and cat["top"] not in departments):
+            continue
+        clean = fn(value)
+        if clean is None:
+            out.pop(key)
+            continue
+        out[key] = clean
+        if detail and clean != value and detail in cat["specs"] and detail not in out:
+            out[detail] = value
+    return out
+
+
 def normalize_specs(p: dict, cat: dict, where: str, issues: Issues) -> dict:
-    specs = dict(p.get("specs") or {})
+    specs = normalize_facets(dict(p.get("specs") or {}), cat)
     if p.get("variants"):
         if "configurations" not in cat["specs"]:
             issues.err(where, f"variants given but category {p['category']} has no 'configurations' spec")
