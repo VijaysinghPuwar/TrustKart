@@ -52,10 +52,15 @@ public class CatalogService {
 
     /** Curated home-page tiles: collection tag, title, subtitle. Editorial groupings, not personalisation. */
     private static final List<String[]> HOME_TILES = List.of(
+            new String[] {"latest-iphones", "Latest iPhones", "iPhone 18 Pro, iPhone Air and the full lineup"},
+            new String[] {"galaxy-flagships", "Galaxy flagships", "Galaxy S26 Ultra, Z Fold8 and Z Flip8"},
+            new String[] {"premium-laptops", "Premium laptops", "MacBook, XPS, Zenbook, Galaxy Book and more"},
             new String[] {"dream-gpus", "Dream GPUs", "From gaming cards to AI accelerators"},
-            new String[] {"developer-setup", "Developer setup", "Laptops, displays and keyboards"},
-            new String[] {"homelab-starter", "Homelab starter", "Servers, switches, NAS and UPS"},
             new String[] {"ai-lab", "Build an AI lab", "Workstations and GPU servers"},
+            new String[] {"homelab-starter", "Homelab starter", "Servers, switches, NAS and UPS"},
+            new String[] {"oled-displays", "4K & OLED displays", "OLED TVs and high-refresh monitors"},
+            new String[] {"ultimate-gaming-setup", "Ultimate gaming setup", "Consoles, handhelds and gear"},
+            new String[] {"developer-setup", "Developer setup", "Laptops, displays and keyboards"},
             new String[] {"enterprise-lab", "Enterprise & servers", "Rack gear for the server room"},
             new String[] {"security-lab", "Cybersecurity lab", "Firewalls, keys and cameras"});
 

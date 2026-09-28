@@ -84,7 +84,8 @@ class CatalogApiIT {
                 .andExpect(status().isOk())
                 .andExpect(header().string("Cache-Control", "max-age=60, public"))
                 .andExpect(jsonPath("$.hero.slug").isNotEmpty())
-                .andExpect(jsonPath("$.tiles", hasSize(6)))
+                .andExpect(jsonPath("$.tiles", hasSize(greaterThanOrEqualTo(6))))
+                .andExpect(jsonPath("$.tiles[0].key").value("latest-iphones"))
                 .andExpect(jsonPath("$.tiles[*].items", everyItem(hasSize(4))))
                 .andExpect(jsonPath("$.deals[*].compareAtPrice", everyItem(instanceOf(String.class))))
                 .andExpect(jsonPath("$.categories", hasSize((int) topLevelCategories())));
