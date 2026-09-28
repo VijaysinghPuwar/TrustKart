@@ -27,7 +27,7 @@ export default function ProjectPage() {
           full-text search, CHECK constraints on money.
         </li>
         <li>Redis for distributed rate limiting (Bucket4j) and an instant session-revocation denylist.</li>
-        <li>React, TypeScript, TanStack Query and Tailwind CSS, built from an approved Claude Design.</li>
+        <li>React, TypeScript, TanStack Query and Tailwind CSS, built from an approved design mockup.</li>
       </ul>
       <h2>Checkout correctness</h2>
       <ul>

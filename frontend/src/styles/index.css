@@ -3,7 +3,7 @@
 @import 'tailwindcss';
 
 /*
- * TrustKart design tokens, extracted from the approved Claude Design (TrustKart Home + Design System).
+ * TrustKart design tokens, extracted from the approved design mockups (TrustKart Home + Design System).
  * Components use the Tailwind utilities generated from @theme (bg-surface, text-ink-muted, rounded-card...),
  * never raw hex values, so light and dark themes switch in one place.
  */
