@@ -85,7 +85,7 @@ public final class QueryInterpreter {
             {"smart home", "smart-home"}, {"smart speaker", "smart-speakers-displays"},
             {"smart display", "smart-speakers-displays"}, {"doorbell", "home-cameras-doorbells"},
             {"thermostat", "thermostats"}, {"smart lights", "smart-lighting"}, {"mesh wifi", "mesh-wifi"},
-            {"mesh wi-fi", "mesh-wifi"}, {"ai server", "ai-systems"}, {"accelerator", "ai-accelerators"},
+            {"mesh wi-fi", "mesh-wifi"}, {"accelerator", "ai-accelerators"},
             {"chromebook", "chromebooks"}, {"raid controller", "raid-controllers"}, {"nintendo switch", "consoles"},
         };
         java.util.Arrays.stream(pairs)

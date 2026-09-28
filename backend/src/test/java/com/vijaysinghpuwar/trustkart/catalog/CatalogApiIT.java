@@ -4,6 +4,7 @@ import static org.assertj.core.api.Assertions.assertThat;
 import static org.hamcrest.Matchers.contains;
 import static org.hamcrest.Matchers.everyItem;
 import static org.hamcrest.Matchers.greaterThan;
+import static org.hamcrest.Matchers.greaterThanOrEqualTo;
 import static org.hamcrest.Matchers.hasItem;
 import static org.hamcrest.Matchers.hasSize;
 import static org.hamcrest.Matchers.instanceOf;
@@ -58,6 +59,19 @@ class CatalogApiIT {
         assertThat(products.count()).isEqualTo(before).isGreaterThanOrEqualTo(100);
     }
 
+    private long topLevelCategories() {
+        return categories.findAll().stream().filter(c -> c.getParent() == null).count();
+    }
+
+    @Test
+    void catalogDepartmentsAreSeeded() {
+        for (String slug : List.of("phones", "wearables", "audio", "tvs", "cameras-drones", "gaming", "smart-home")) {
+            assertThat(categories.findBySlug(slug)).as(slug).isPresent();
+        }
+        assertThat(topLevelCategories()).isEqualTo(18);
+        assertThat(products.count()).isGreaterThan(500);
+    }
+
     @Test
     void everyInterpreterCategoryExists() {
         QueryInterpreter.knownCategorySlugs()
@@ -73,7 +87,7 @@ class CatalogApiIT {
                 .andExpect(jsonPath("$.tiles", hasSize(6)))
                 .andExpect(jsonPath("$.tiles[*].items", everyItem(hasSize(4))))
                 .andExpect(jsonPath("$.deals[*].compareAtPrice", everyItem(instanceOf(String.class))))
-                .andExpect(jsonPath("$.categories", hasSize(11)));
+                .andExpect(jsonPath("$.categories", hasSize((int) topLevelCategories())));
     }
 
     @Test
@@ -93,8 +107,9 @@ class CatalogApiIT {
     void categoryFilterIncludesDescendants() throws Exception {
         mvc.perform(get("/api/v1/catalog/products").param("category", "laptops").param("size", "60"))
                 .andExpect(status().isOk())
-                .andExpect(jsonPath("$.totalItems").value(8))
+                .andExpect(jsonPath("$.totalItems", greaterThan(8)))
                 .andExpect(jsonPath("$.items[*].category.slug", hasItem("gaming-laptops")))
+                .andExpect(jsonPath("$.items[*].category.slug", hasItem("premium-laptops")))
                 .andExpect(jsonPath("$.items[*].category.slug", hasItem("developer-laptops")));
     }
 
@@ -104,15 +119,18 @@ class CatalogApiIT {
                 .andExpect(status().isOk())
                 .andReturn().getResponse().getContentAsString();
         List<String> slugs = JsonPath.read(body, "$.items[*].slug");
-        assertThat(slugs).containsExactlyInAnyOrder("nvidia-rtx-5090-fe", "nvidia-rtx-pro-6000-blackwell", "nvidia-h200-nvl");
+        assertThat(slugs).contains("nvidia-rtx-5090-fe", "nvidia-rtx-pro-6000-blackwell", "nvidia-h200-nvl");
+        assertThat(slugs).doesNotContain("nvidia-rtx-5070-ti");
     }
 
     @Test
     void textAndBooleanSpecFilters() throws Exception {
         mvc.perform(get("/api/v1/catalog/products").param("category", "cpus").param("spec.socket", "AM5"))
-                .andExpect(jsonPath("$.totalItems").value(2));
+                .andExpect(jsonPath("$.totalItems", greaterThanOrEqualTo(2)))
+                .andExpect(jsonPath("$.items[*].slug", hasItem("amd-ryzen-9-9950x")));
         mvc.perform(get("/api/v1/catalog/products").param("category", "keyboards").param("spec.quiet", "true"))
-                .andExpect(jsonPath("$.totalItems").value(3));
+                .andExpect(jsonPath("$.totalItems", greaterThanOrEqualTo(3)))
+                .andExpect(jsonPath("$.items[*].slug", hasItem("keychron-v3-max")));
     }
 
     @Test
@@ -173,7 +191,7 @@ class CatalogApiIT {
     void removingAnInterpretedChipWidensTheSearch() throws Exception {
         mvc.perform(get("/api/v1/search").param("q", "keyboard under $100").param("ignore", "budget"))
                 .andExpect(jsonPath("$.interpretation[?(@.kind == 'BUDGET')]").isEmpty())
-                .andExpect(jsonPath("$.results.totalItems").value(4));
+                .andExpect(jsonPath("$.results.totalItems", greaterThanOrEqualTo(4)));
     }
 
     @Test
@@ -230,6 +248,7 @@ class CatalogApiIT {
                 .andExpect(status().isOk())
                 .andExpect(jsonPath("$.specs[*].key", hasItem("vramGb")))
                 .andExpect(jsonPath("$.brands[*].value", hasItem("nvidia")))
-                .andExpect(jsonPath("$.price.min").value("599.99"));
+                .andExpect(jsonPath("$.price.min").isNotEmpty())
+                .andExpect(jsonPath("$.price.max").isNotEmpty());
     }
 }

@@ -148,6 +148,13 @@ def load_sources(only: set[str] | None):
     return out
 
 
+def slugify(name: str) -> str:
+    """Same rule as DemoCatalogSeeder.slugify."""
+    import unicodedata
+    ascii_name = "".join(c for c in unicodedata.normalize("NFD", name) if not unicodedata.combining(c))
+    return re.sub(r"(^-|-$)", "", re.sub(r"[^a-z0-9]+", "-", ascii_name.lower()))
+
+
 def spec_ok(kind: str, value) -> bool:
     if kind == "TEXT":
         return isinstance(value, str) and value.strip() != ""
@@ -236,6 +243,7 @@ def validate(sources: dict, index: dict, issues: Issues, demo_products: list[dic
     seen_slug = {p["slug"]: "demo/products.json" for p in demo_products}
     demo_names = {p["name"].lower(): p["slug"] for p in demo_products}
     seen_name: dict[str, str] = {}
+    brand_by_slug = {slugify(p["brand"]): p["brand"] for p in demo_products}
     seen_image_url: dict[str, str] = {}
     normalized = {}
 
@@ -276,6 +284,10 @@ def validate(sources: dict, index: dict, issues: Issues, demo_products: list[dic
                     issues.err(where, f"{field} longer than {limit}")
             if not isinstance(p["brand"], str) or not p["brand"].strip() or len(p["brand"]) > 120:
                 issues.err(where, "missing brand")
+            else:
+                canonical = brand_by_slug.setdefault(slugify(p["brand"]), p["brand"])
+                if canonical != p["brand"]:
+                    issues.err(where, f"brand {p['brand']!r} must be spelled {canonical!r} (same brand slug)")
             if not isinstance(p["description"], str) or len(p["description"]) < 60:
                 issues.err(where, "description too short (< 60 chars)")
 

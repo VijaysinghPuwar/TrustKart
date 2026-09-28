@@ -208,7 +208,9 @@ public class DemoCatalogSeeder {
             Map<String, List<SpecSeed>> effectiveSpecs, Map<String, ImageSeed> images) {
         Category category = require(categoriesBySlug.get(seed.category()), "Unknown category " + seed.category());
         validateSpecs(seed, effectiveSpecs.get(seed.category()));
-        Brand brand = brands.findByName(seed.brand()).orElseGet(() -> brands.save(new Brand(slugify(seed.brand()), seed.brand())));
+        // Looked up by slug (the unique key), so "CORSAIR" and "Corsair" can never create two colliding brands.
+        String brandSlug = slugify(seed.brand());
+        Brand brand = brands.findBySlug(brandSlug).orElseGet(() -> brands.save(new Brand(brandSlug, seed.brand())));
 
         ProductStatus status = Boolean.TRUE.equals(seed.discontinued()) ? ProductStatus.DISCONTINUED : ProductStatus.ACTIVE;
         Product product = new Product(seed.sku(), seed.slug(), seed.name(), brand, category, seed.summary(),
