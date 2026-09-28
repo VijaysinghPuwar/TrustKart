@@ -267,27 +267,49 @@
    ],
    "colors": [
     "Midnight Gray",
-    "Pearl White",
-    "Peacock Blue"
+    "Pearl White"
    ],
    "collections": [
     "homelab-starter"
    ],
    "featured": false,
    "warranty": 12,
-   "notes": "Official store sale prices; compareAt is the store's listed regular price. Colour availability varies by configuration.",
+   "notes": "Official store sale prices; compareAt is the store's listed regular price. Colour availability varies by configuration. Peacock Blue removed from colors: the official US Beelink store now offers only Pearl White and Midnight Gray.",
    "sources": {
     "product": "https://www.bee-link.com/products/beelink-me-mini-n150",
     "retrievedAt": "2026-09-28"
    },
    "image": {
-    "url": "https://cdn.shopify.com/s/files/1/0505/1360/8884/files/6_df3d455e-6858-418e-9201-c0b572e87288.jpg?v=1764744512",
+    "url": "https://www.bee-link.com/cdn/shop/files/2_54bc3363-b8f6-41e7-81e9-3d703eed5205.png",
     "page": "https://www.bee-link.com/products/beelink-me-mini-n150",
     "sourceType": "manufacturer-product-page",
-    "rights": "Official Beelink product image from the Beelink store (bee-link.com); Beelink has not granted a general reuse license - rights not verified.",
-    "alt": "Beelink ME mini NAS cubes in Pearl White, Midnight Gray and Peacock Blue, front view",
+    "rights": "Official Beelink store product image (bee-link.com); no reuse license verified.",
+    "alt": "Beelink ME mini NAS in Midnight Gray, front three-quarter view",
     "match": "EXACT",
-    "credit": "Beelink"
+    "credit": "Beelink",
+    "allowLowRes": true
+   },
+   "colorImages": {
+    "Midnight Gray": {
+     "url": "https://www.bee-link.com/cdn/shop/files/2_54bc3363-b8f6-41e7-81e9-3d703eed5205.png",
+     "page": "https://www.bee-link.com/products/beelink-me-mini-n150",
+     "sourceType": "manufacturer-product-page",
+     "rights": "Official Beelink store product image (bee-link.com); no reuse license verified.",
+     "alt": "Beelink ME mini NAS in Midnight Gray, front three-quarter view",
+     "match": "EXACT",
+     "credit": "Beelink",
+     "allowLowRes": true
+    },
+    "Pearl White": {
+     "url": "https://www.bee-link.com/cdn/shop/files/3_a6e86dd3-51e3-489b-80e5-d4318745ab63.png",
+     "page": "https://www.bee-link.com/products/beelink-me-mini-n150",
+     "sourceType": "manufacturer-product-page",
+     "rights": "Official Beelink store product image (bee-link.com); no reuse license verified.",
+     "alt": "Beelink ME mini NAS in Pearl White, front three-quarter view",
+     "match": "EXACT",
+     "credit": "Beelink",
+     "allowLowRes": true
+    }
    }
   },
   {

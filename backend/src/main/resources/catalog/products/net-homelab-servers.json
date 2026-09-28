@@ -241,7 +241,7 @@
     "interface": "6 x M.2 SSD slots",
     "rackMountable": false,
     "configurations": "N95 / 16 GB / 64 GB eMMC, no SSD – $329 · N150 / 16 GB / 1 TB SSD, 5GbE + 2.5GbE – $525",
-    "colors": "Midnight Gray, Pearl White, Peacock Blue"
+    "colors": "Midnight Gray, Pearl White"
    },
    "options": [
     {
@@ -263,13 +263,24 @@
      "values": [
       {
        "label": "Midnight Gray",
-       "default": true
+       "default": true,
+       "image": {
+        "small": "/images/catalog/beelink-me-mini--midnight-gray-400.webp",
+        "large": "/images/catalog/beelink-me-mini--midnight-gray-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Beelink ME mini NAS in Midnight Gray, front three-quarter view"
+       }
       },
       {
-       "label": "Pearl White"
-      },
-      {
-       "label": "Peacock Blue"
+       "label": "Pearl White",
+       "image": {
+        "small": "/images/catalog/beelink-me-mini--pearl-white-400.webp",
+        "large": "/images/catalog/beelink-me-mini--pearl-white-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Beelink ME mini NAS in Pearl White, front three-quarter view"
+       }
       }
      ]
     }

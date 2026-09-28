@@ -69,10 +69,24 @@
      "values": [
       {
        "label": "Night Sky",
-       "default": true
+       "default": true,
+       "image": {
+        "small": "/images/catalog/apple-iphone-duo--night-sky-400.webp",
+        "large": "/images/catalog/apple-iphone-duo--night-sky-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple iPhone Duo in Night Sky, front and back view"
+       }
       },
       {
-       "label": "Star White"
+       "label": "Star White",
+       "image": {
+        "small": "/images/catalog/apple-iphone-duo--star-white-400.webp",
+        "large": "/images/catalog/apple-iphone-duo--star-white-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple iPhone Duo in Star White, front and back view"
+       }
       }
      ]
     }
@@ -146,16 +160,44 @@
      "values": [
       {
        "label": "Burgundy",
-       "default": true
+       "default": true,
+       "image": {
+        "small": "/images/catalog/apple-iphone-18-pro--burgundy-400.webp",
+        "large": "/images/catalog/apple-iphone-18-pro--burgundy-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple iPhone 18 Pro in Burgundy, back and front view"
+       }
       },
       {
-       "label": "Glacier"
+       "label": "Glacier",
+       "image": {
+        "small": "/images/catalog/apple-iphone-18-pro--glacier-400.webp",
+        "large": "/images/catalog/apple-iphone-18-pro--glacier-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple iPhone 18 Pro in Glacier, back and front view"
+       }
       },
       {
-       "label": "Silver"
+       "label": "Silver",
+       "image": {
+        "small": "/images/catalog/apple-iphone-18-pro--silver-400.webp",
+        "large": "/images/catalog/apple-iphone-18-pro--silver-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple iPhone 18 Pro in Silver, back and front view"
+       }
       },
       {
-       "label": "Black"
+       "label": "Black",
+       "image": {
+        "small": "/images/catalog/apple-iphone-18-pro--black-400.webp",
+        "large": "/images/catalog/apple-iphone-18-pro--black-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple iPhone 18 Pro in Black, back and front view"
+       }
       }
      ]
     }
@@ -229,16 +271,44 @@
      "values": [
       {
        "label": "Burgundy",
-       "default": true
+       "default": true,
+       "image": {
+        "small": "/images/catalog/apple-iphone-18-pro-max--burgundy-400.webp",
+        "large": "/images/catalog/apple-iphone-18-pro-max--burgundy-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple iPhone 18 Pro Max in Burgundy, back and front view"
+       }
       },
       {
-       "label": "Glacier"
+       "label": "Glacier",
+       "image": {
+        "small": "/images/catalog/apple-iphone-18-pro-max--glacier-400.webp",
+        "large": "/images/catalog/apple-iphone-18-pro-max--glacier-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple iPhone 18 Pro Max in Glacier, back and front view"
+       }
       },
       {
-       "label": "Silver"
+       "label": "Silver",
+       "image": {
+        "small": "/images/catalog/apple-iphone-18-pro-max--silver-400.webp",
+        "large": "/images/catalog/apple-iphone-18-pro-max--silver-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple iPhone 18 Pro Max in Silver, back and front view"
+       }
       },
       {
-       "label": "Black"
+       "label": "Black",
+       "image": {
+        "small": "/images/catalog/apple-iphone-18-pro-max--black-400.webp",
+        "large": "/images/catalog/apple-iphone-18-pro-max--black-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple iPhone 18 Pro Max in Black, back and front view"
+       }
       }
      ]
     }
@@ -308,16 +378,44 @@
      "values": [
       {
        "label": "Sky Blue",
-       "default": true
+       "default": true,
+       "image": {
+        "small": "/images/catalog/apple-iphone-air--sky-blue-400.webp",
+        "large": "/images/catalog/apple-iphone-air--sky-blue-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple iPhone Air in Sky Blue, back and front view"
+       }
       },
       {
-       "label": "Light Gold"
+       "label": "Light Gold",
+       "image": {
+        "small": "/images/catalog/apple-iphone-air--light-gold-400.webp",
+        "large": "/images/catalog/apple-iphone-air--light-gold-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple iPhone Air in Light Gold, back and front view"
+       }
       },
       {
-       "label": "Cloud White"
+       "label": "Cloud White",
+       "image": {
+        "small": "/images/catalog/apple-iphone-air--cloud-white-400.webp",
+        "large": "/images/catalog/apple-iphone-air--cloud-white-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple iPhone Air in Cloud White, back and front view"
+       }
       },
       {
-       "label": "Space Black"
+       "label": "Space Black",
+       "image": {
+        "small": "/images/catalog/apple-iphone-air--space-black-400.webp",
+        "large": "/images/catalog/apple-iphone-air--space-black-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple iPhone Air in Space Black, back and front view"
+       }
       }
      ]
     }
@@ -383,19 +481,54 @@
      "values": [
       {
        "label": "Lavender",
-       "default": true
+       "default": true,
+       "image": {
+        "small": "/images/catalog/apple-iphone-17--lavender-400.webp",
+        "large": "/images/catalog/apple-iphone-17--lavender-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple iPhone 17 in Lavender, back and front view"
+       }
       },
       {
-       "label": "Sage"
+       "label": "Sage",
+       "image": {
+        "small": "/images/catalog/apple-iphone-17--sage-400.webp",
+        "large": "/images/catalog/apple-iphone-17--sage-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple iPhone 17 in Sage, back and front view"
+       }
       },
       {
-       "label": "Mist Blue"
+       "label": "Mist Blue",
+       "image": {
+        "small": "/images/catalog/apple-iphone-17--mist-blue-400.webp",
+        "large": "/images/catalog/apple-iphone-17--mist-blue-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple iPhone 17 in Mist Blue, back and front view"
+       }
       },
       {
-       "label": "White"
+       "label": "White",
+       "image": {
+        "small": "/images/catalog/apple-iphone-17--white-400.webp",
+        "large": "/images/catalog/apple-iphone-17--white-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple iPhone 17 in White, back and front view"
+       }
       },
       {
-       "label": "Black"
+       "label": "Black",
+       "image": {
+        "small": "/images/catalog/apple-iphone-17--black-400.webp",
+        "large": "/images/catalog/apple-iphone-17--black-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple iPhone 17 in Black, back and front view"
+       }
       }
      ]
     }
@@ -461,13 +594,34 @@
      "values": [
       {
        "label": "Soft Pink",
-       "default": true
+       "default": true,
+       "image": {
+        "small": "/images/catalog/apple-iphone-17e--soft-pink-400.webp",
+        "large": "/images/catalog/apple-iphone-17e--soft-pink-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple iPhone 17e in Soft Pink, back and front view"
+       }
       },
       {
-       "label": "White"
+       "label": "White",
+       "image": {
+        "small": "/images/catalog/apple-iphone-17e--white-400.webp",
+        "large": "/images/catalog/apple-iphone-17e--white-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple iPhone 17e in White, back and front view"
+       }
       },
       {
-       "label": "Black"
+       "label": "Black",
+       "image": {
+        "small": "/images/catalog/apple-iphone-17e--black-400.webp",
+        "large": "/images/catalog/apple-iphone-17e--black-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple iPhone 17e in Black, back and front view"
+       }
       }
      ]
     }
@@ -516,19 +670,54 @@
      "values": [
       {
        "label": "Ultramarine",
-       "default": true
+       "default": true,
+       "image": {
+        "small": "/images/catalog/apple-iphone-16--ultramarine-400.webp",
+        "large": "/images/catalog/apple-iphone-16--ultramarine-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple iPhone 16 in Ultramarine, back and front view"
+       }
       },
       {
-       "label": "Teal"
+       "label": "Teal",
+       "image": {
+        "small": "/images/catalog/apple-iphone-16--teal-400.webp",
+        "large": "/images/catalog/apple-iphone-16--teal-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple iPhone 16 in Teal, back and front view"
+       }
       },
       {
-       "label": "Pink"
+       "label": "Pink",
+       "image": {
+        "small": "/images/catalog/apple-iphone-16--pink-400.webp",
+        "large": "/images/catalog/apple-iphone-16--pink-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple iPhone 16 in Pink, back and front view"
+       }
       },
       {
-       "label": "White"
+       "label": "White",
+       "image": {
+        "small": "/images/catalog/apple-iphone-16--white-400.webp",
+        "large": "/images/catalog/apple-iphone-16--white-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple iPhone 16 in White, back and front view"
+       }
       },
       {
-       "label": "Black"
+       "label": "Black",
+       "image": {
+        "small": "/images/catalog/apple-iphone-16--black-400.webp",
+        "large": "/images/catalog/apple-iphone-16--black-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple iPhone 16 in Black, back and front view"
+       }
       }
      ]
     }
@@ -592,16 +781,44 @@
      "values": [
       {
        "label": "Silver",
-       "default": true
+       "default": true,
+       "image": {
+        "small": "/images/catalog/apple-macbook-neo--silver-400.webp",
+        "large": "/images/catalog/apple-macbook-neo--silver-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple MacBook Neo in Silver, open front view"
+       }
       },
       {
-       "label": "Blush"
+       "label": "Blush",
+       "image": {
+        "small": "/images/catalog/apple-macbook-neo--blush-400.webp",
+        "large": "/images/catalog/apple-macbook-neo--blush-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple MacBook Neo in Blush, open front view"
+       }
       },
       {
-       "label": "Citrus"
+       "label": "Citrus",
+       "image": {
+        "small": "/images/catalog/apple-macbook-neo--citrus-400.webp",
+        "large": "/images/catalog/apple-macbook-neo--citrus-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple MacBook Neo in Citrus, open front view"
+       }
       },
       {
-       "label": "Indigo"
+       "label": "Indigo",
+       "image": {
+        "small": "/images/catalog/apple-macbook-neo--indigo-400.webp",
+        "large": "/images/catalog/apple-macbook-neo--indigo-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple MacBook Neo in Indigo, open front view"
+       }
       }
      ]
     }
@@ -666,16 +883,44 @@
      "values": [
       {
        "label": "Sky Blue",
-       "default": true
+       "default": true,
+       "image": {
+        "small": "/images/catalog/apple-macbook-air-13-m5--sky-blue-400.webp",
+        "large": "/images/catalog/apple-macbook-air-13-m5--sky-blue-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple MacBook Air 13-inch in Sky Blue, open front view"
+       }
       },
       {
-       "label": "Silver"
+       "label": "Silver",
+       "image": {
+        "small": "/images/catalog/apple-macbook-air-13-m5--silver-400.webp",
+        "large": "/images/catalog/apple-macbook-air-13-m5--silver-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple MacBook Air 13-inch in Silver, open front view"
+       }
       },
       {
-       "label": "Starlight"
+       "label": "Starlight",
+       "image": {
+        "small": "/images/catalog/apple-macbook-air-13-m5--starlight-400.webp",
+        "large": "/images/catalog/apple-macbook-air-13-m5--starlight-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple MacBook Air 13-inch in Starlight, open front view"
+       }
       },
       {
-       "label": "Midnight"
+       "label": "Midnight",
+       "image": {
+        "small": "/images/catalog/apple-macbook-air-13-m5--midnight-400.webp",
+        "large": "/images/catalog/apple-macbook-air-13-m5--midnight-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple MacBook Air 13-inch in Midnight, open front view"
+       }
       }
      ]
     }
@@ -726,16 +971,44 @@
      "values": [
       {
        "label": "Sky Blue",
-       "default": true
+       "default": true,
+       "image": {
+        "small": "/images/catalog/apple-macbook-air-15-m5--sky-blue-400.webp",
+        "large": "/images/catalog/apple-macbook-air-15-m5--sky-blue-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple MacBook Air 15-inch in Sky Blue, open front view"
+       }
       },
       {
-       "label": "Silver"
+       "label": "Silver",
+       "image": {
+        "small": "/images/catalog/apple-macbook-air-15-m5--silver-400.webp",
+        "large": "/images/catalog/apple-macbook-air-15-m5--silver-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple MacBook Air 15-inch in Silver, open front view"
+       }
       },
       {
-       "label": "Starlight"
+       "label": "Starlight",
+       "image": {
+        "small": "/images/catalog/apple-macbook-air-15-m5--starlight-400.webp",
+        "large": "/images/catalog/apple-macbook-air-15-m5--starlight-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple MacBook Air 15-inch in Starlight, open front view"
+       }
       },
       {
-       "label": "Midnight"
+       "label": "Midnight",
+       "image": {
+        "small": "/images/catalog/apple-macbook-air-15-m5--midnight-400.webp",
+        "large": "/images/catalog/apple-macbook-air-15-m5--midnight-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple MacBook Air 15-inch in Midnight, open front view"
+       }
       }
      ]
     }
@@ -801,10 +1074,24 @@
      "values": [
       {
        "label": "Space Black",
-       "default": true
+       "default": true,
+       "image": {
+        "small": "/images/catalog/apple-macbook-pro-14-m5--space-black-400.webp",
+        "large": "/images/catalog/apple-macbook-pro-14-m5--space-black-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple MacBook Pro 14-inch in Space Black, open front view"
+       }
       },
       {
-       "label": "Silver"
+       "label": "Silver",
+       "image": {
+        "small": "/images/catalog/apple-macbook-pro-14-m5--silver-400.webp",
+        "large": "/images/catalog/apple-macbook-pro-14-m5--silver-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple MacBook Pro 14-inch in Silver, open front view"
+       }
       }
      ]
     }
@@ -879,10 +1166,24 @@
      "values": [
       {
        "label": "Space Black",
-       "default": true
+       "default": true,
+       "image": {
+        "small": "/images/catalog/apple-macbook-pro-14-m5-pro--space-black-400.webp",
+        "large": "/images/catalog/apple-macbook-pro-14-m5-pro--space-black-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple MacBook Pro 14-inch in Space Black, open front view"
+       }
       },
       {
-       "label": "Silver"
+       "label": "Silver",
+       "image": {
+        "small": "/images/catalog/apple-macbook-pro-14-m5-pro--silver-400.webp",
+        "large": "/images/catalog/apple-macbook-pro-14-m5-pro--silver-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple MacBook Pro 14-inch in Silver, open front view"
+       }
       }
      ]
     }
@@ -956,10 +1257,24 @@
      "values": [
       {
        "label": "Space Black",
-       "default": true
+       "default": true,
+       "image": {
+        "small": "/images/catalog/apple-macbook-pro-14-m5-max--space-black-400.webp",
+        "large": "/images/catalog/apple-macbook-pro-14-m5-max--space-black-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple MacBook Pro 14-inch in Space Black, open front view"
+       }
       },
       {
-       "label": "Silver"
+       "label": "Silver",
+       "image": {
+        "small": "/images/catalog/apple-macbook-pro-14-m5-max--silver-400.webp",
+        "large": "/images/catalog/apple-macbook-pro-14-m5-max--silver-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple MacBook Pro 14-inch in Silver, open front view"
+       }
       }
      ]
     }
@@ -1025,10 +1340,24 @@
      "values": [
       {
        "label": "Space Black",
-       "default": true
+       "default": true,
+       "image": {
+        "small": "/images/catalog/apple-macbook-pro-16-m5-pro--space-black-400.webp",
+        "large": "/images/catalog/apple-macbook-pro-16-m5-pro--space-black-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple MacBook Pro 16-inch in Space Black, open front view"
+       }
       },
       {
-       "label": "Silver"
+       "label": "Silver",
+       "image": {
+        "small": "/images/catalog/apple-macbook-pro-16-m5-pro--silver-400.webp",
+        "large": "/images/catalog/apple-macbook-pro-16-m5-pro--silver-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple MacBook Pro 16-inch in Silver, open front view"
+       }
       }
      ]
     }
@@ -1103,10 +1432,24 @@
      "values": [
       {
        "label": "Space Black",
-       "default": true
+       "default": true,
+       "image": {
+        "small": "/images/catalog/apple-macbook-pro-16-m5-max--space-black-400.webp",
+        "large": "/images/catalog/apple-macbook-pro-16-m5-max--space-black-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple MacBook Pro 16-inch in Space Black, open front view"
+       }
       },
       {
-       "label": "Silver"
+       "label": "Silver",
+       "image": {
+        "small": "/images/catalog/apple-macbook-pro-16-m5-max--silver-400.webp",
+        "large": "/images/catalog/apple-macbook-pro-16-m5-max--silver-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple MacBook Pro 16-inch in Silver, open front view"
+       }
       }
      ]
     }
@@ -1501,16 +1844,44 @@
      "values": [
       {
        "label": "Blue",
-       "default": true
+       "default": true,
+       "image": {
+        "small": "/images/catalog/apple-ipad-a16--blue-400.webp",
+        "large": "/images/catalog/apple-ipad-a16--blue-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple iPad (A16) in Blue, front and back view"
+       }
       },
       {
-       "label": "Pink"
+       "label": "Pink",
+       "image": {
+        "small": "/images/catalog/apple-ipad-a16--pink-400.webp",
+        "large": "/images/catalog/apple-ipad-a16--pink-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple iPad (A16) in Pink, front and back view"
+       }
       },
       {
-       "label": "Yellow"
+       "label": "Yellow",
+       "image": {
+        "small": "/images/catalog/apple-ipad-a16--yellow-400.webp",
+        "large": "/images/catalog/apple-ipad-a16--yellow-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple iPad (A16) in Yellow, front and back view"
+       }
       },
       {
-       "label": "Silver"
+       "label": "Silver",
+       "image": {
+        "small": "/images/catalog/apple-ipad-a16--silver-400.webp",
+        "large": "/images/catalog/apple-ipad-a16--silver-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple iPad (A16) in Silver, front and back view"
+       }
       }
      ]
     }
@@ -1586,16 +1957,44 @@
      "values": [
       {
        "label": "Blue",
-       "default": true
+       "default": true,
+       "image": {
+        "small": "/images/catalog/apple-ipad-mini-a17-pro--blue-400.webp",
+        "large": "/images/catalog/apple-ipad-mini-a17-pro--blue-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple iPad mini in Blue, front and back view"
+       }
       },
       {
-       "label": "Purple"
+       "label": "Purple",
+       "image": {
+        "small": "/images/catalog/apple-ipad-mini-a17-pro--purple-400.webp",
+        "large": "/images/catalog/apple-ipad-mini-a17-pro--purple-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple iPad mini in Purple, front and back view"
+       }
       },
       {
-       "label": "Starlight"
+       "label": "Starlight",
+       "image": {
+        "small": "/images/catalog/apple-ipad-mini-a17-pro--starlight-400.webp",
+        "large": "/images/catalog/apple-ipad-mini-a17-pro--starlight-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple iPad mini in Starlight, front and back view"
+       }
       },
       {
-       "label": "Space Gray"
+       "label": "Space Gray",
+       "image": {
+        "small": "/images/catalog/apple-ipad-mini-a17-pro--space-gray-400.webp",
+        "large": "/images/catalog/apple-ipad-mini-a17-pro--space-gray-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple iPad mini in Space Gray, front and back view"
+       }
       }
      ]
     }
@@ -1680,16 +2079,44 @@
      "values": [
       {
        "label": "Blue",
-       "default": true
+       "default": true,
+       "image": {
+        "small": "/images/catalog/apple-ipad-air-11-m4--blue-400.webp",
+        "large": "/images/catalog/apple-ipad-air-11-m4--blue-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple iPad Air 11-inch in Blue, front and back view"
+       }
       },
       {
-       "label": "Purple"
+       "label": "Purple",
+       "image": {
+        "small": "/images/catalog/apple-ipad-air-11-m4--purple-400.webp",
+        "large": "/images/catalog/apple-ipad-air-11-m4--purple-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple iPad Air 11-inch in Purple, front and back view"
+       }
       },
       {
-       "label": "Starlight"
+       "label": "Starlight",
+       "image": {
+        "small": "/images/catalog/apple-ipad-air-11-m4--starlight-400.webp",
+        "large": "/images/catalog/apple-ipad-air-11-m4--starlight-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple iPad Air 11-inch in Starlight, front and back view"
+       }
       },
       {
-       "label": "Space Gray"
+       "label": "Space Gray",
+       "image": {
+        "small": "/images/catalog/apple-ipad-air-11-m4--space-gray-400.webp",
+        "large": "/images/catalog/apple-ipad-air-11-m4--space-gray-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple iPad Air 11-inch in Space Gray, front and back view"
+       }
       }
      ]
     }
@@ -1774,16 +2201,44 @@
      "values": [
       {
        "label": "Blue",
-       "default": true
+       "default": true,
+       "image": {
+        "small": "/images/catalog/apple-ipad-air-13-m4--blue-400.webp",
+        "large": "/images/catalog/apple-ipad-air-13-m4--blue-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple iPad Air 13-inch in Blue, front and back view"
+       }
       },
       {
-       "label": "Purple"
+       "label": "Purple",
+       "image": {
+        "small": "/images/catalog/apple-ipad-air-13-m4--purple-400.webp",
+        "large": "/images/catalog/apple-ipad-air-13-m4--purple-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple iPad Air 13-inch in Purple, front and back view"
+       }
       },
       {
-       "label": "Starlight"
+       "label": "Starlight",
+       "image": {
+        "small": "/images/catalog/apple-ipad-air-13-m4--starlight-400.webp",
+        "large": "/images/catalog/apple-ipad-air-13-m4--starlight-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple iPad Air 13-inch in Starlight, front and back view"
+       }
       },
       {
-       "label": "Space Gray"
+       "label": "Space Gray",
+       "image": {
+        "small": "/images/catalog/apple-ipad-air-13-m4--space-gray-400.webp",
+        "large": "/images/catalog/apple-ipad-air-13-m4--space-gray-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple iPad Air 13-inch in Space Gray, front and back view"
+       }
       }
      ]
     }
@@ -1877,10 +2332,24 @@
      "values": [
       {
        "label": "Space Black",
-       "default": true
+       "default": true,
+       "image": {
+        "small": "/images/catalog/apple-ipad-pro-11-m5--space-black-400.webp",
+        "large": "/images/catalog/apple-ipad-pro-11-m5--space-black-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple iPad Pro 11-inch in Space Black, front and back view"
+       }
       },
       {
-       "label": "Silver"
+       "label": "Silver",
+       "image": {
+        "small": "/images/catalog/apple-ipad-pro-11-m5--silver-400.webp",
+        "large": "/images/catalog/apple-ipad-pro-11-m5--silver-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple iPad Pro 11-inch in Silver, front and back view"
+       }
       }
      ]
     }
@@ -1974,10 +2443,24 @@
      "values": [
       {
        "label": "Space Black",
-       "default": true
+       "default": true,
+       "image": {
+        "small": "/images/catalog/apple-ipad-pro-13-m5--space-black-400.webp",
+        "large": "/images/catalog/apple-ipad-pro-13-m5--space-black-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple iPad Pro 13-inch in Space Black, front and back view"
+       }
       },
       {
-       "label": "Silver"
+       "label": "Silver",
+       "image": {
+        "small": "/images/catalog/apple-ipad-pro-13-m5--silver-400.webp",
+        "large": "/images/catalog/apple-ipad-pro-13-m5--silver-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple iPad Pro 13-inch in Silver, front and back view"
+       }
       }
      ]
     }
@@ -2062,28 +2545,84 @@
      "values": [
       {
        "label": "Black",
-       "default": true
+       "default": true,
+       "image": {
+        "small": "/images/catalog/apple-watch-series-12--black-400.webp",
+        "large": "/images/catalog/apple-watch-series-12--black-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple Watch Series 12 46mm Black Aluminum case, three-quarter front view (case only, without band)"
+       }
       },
       {
-       "label": "Dark Bronze"
+       "label": "Dark Bronze",
+       "image": {
+        "small": "/images/catalog/apple-watch-series-12--dark-bronze-400.webp",
+        "large": "/images/catalog/apple-watch-series-12--dark-bronze-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple Watch Series 12 46mm Dark Bronze Aluminum case, three-quarter front view (case only, without band)"
+       }
       },
       {
-       "label": "Light Gold"
+       "label": "Light Gold",
+       "image": {
+        "small": "/images/catalog/apple-watch-series-12--light-gold-400.webp",
+        "large": "/images/catalog/apple-watch-series-12--light-gold-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple Watch Series 12 46mm Light Gold Aluminum case, three-quarter front view (case only, without band)"
+       }
       },
       {
-       "label": "Space Gray"
+       "label": "Space Gray",
+       "image": {
+        "small": "/images/catalog/apple-watch-series-12--space-gray-400.webp",
+        "large": "/images/catalog/apple-watch-series-12--space-gray-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple Watch Series 12 46mm Space Gray Aluminum case, three-quarter front view (case only, without band)"
+       }
       },
       {
-       "label": "Natural"
+       "label": "Natural",
+       "image": {
+        "small": "/images/catalog/apple-watch-series-12--natural-400.webp",
+        "large": "/images/catalog/apple-watch-series-12--natural-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple Watch Series 12 46mm Natural Titanium case, three-quarter front view (case only, without band)"
+       }
       },
       {
-       "label": "Radiant Gold"
+       "label": "Radiant Gold",
+       "image": {
+        "small": "/images/catalog/apple-watch-series-12--radiant-gold-400.webp",
+        "large": "/images/catalog/apple-watch-series-12--radiant-gold-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple Watch Series 12 46mm Radiant Gold Titanium case, three-quarter front view (case only, without band)"
+       }
       },
       {
-       "label": "Pearl White"
+       "label": "Pearl White",
+       "image": {
+        "small": "/images/catalog/apple-watch-series-12--pearl-white-400.webp",
+        "large": "/images/catalog/apple-watch-series-12--pearl-white-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple Watch Series 12 46mm Pearl White Ceramic case, three-quarter front view (case only, without band)"
+       }
       },
       {
-       "label": "Night Blue"
+       "label": "Night Blue",
+       "image": {
+        "small": "/images/catalog/apple-watch-series-12--night-blue-400.webp",
+        "large": "/images/catalog/apple-watch-series-12--night-blue-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple Watch Series 12 46mm Night Blue Ceramic case, three-quarter front view (case only, without band)"
+       }
       }
      ]
     }
@@ -2129,10 +2668,24 @@
      "values": [
       {
        "label": "Natural",
-       "default": true
+       "default": true,
+       "image": {
+        "small": "/images/catalog/apple-watch-ultra-4--natural-400.webp",
+        "large": "/images/catalog/apple-watch-ultra-4--natural-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple Watch Ultra 4 49mm Natural Titanium case, three-quarter front view (case only, without band)"
+       }
       },
       {
-       "label": "Black"
+       "label": "Black",
+       "image": {
+        "small": "/images/catalog/apple-watch-ultra-4--black-400.webp",
+        "large": "/images/catalog/apple-watch-ultra-4--black-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple Watch Ultra 4 49mm Black Titanium case, three-quarter front view (case only, without band)"
+       }
       }
      ]
     }
@@ -2201,10 +2754,24 @@
      "values": [
       {
        "label": "Midnight",
-       "default": true
+       "default": true,
+       "image": {
+        "small": "/images/catalog/apple-watch-se-3--midnight-400.webp",
+        "large": "/images/catalog/apple-watch-se-3--midnight-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple Watch SE 3 44mm Midnight Aluminum case, three-quarter front view (case only, without band)"
+       }
       },
       {
-       "label": "Starlight"
+       "label": "Starlight",
+       "image": {
+        "small": "/images/catalog/apple-watch-se-3--starlight-400.webp",
+        "large": "/images/catalog/apple-watch-se-3--starlight-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple Watch SE 3 44mm Starlight Aluminum case, three-quarter front view (case only, without band)"
+       }
       }
      ]
     }
@@ -2331,19 +2898,54 @@
      "values": [
       {
        "label": "Midnight",
-       "default": true
+       "default": true,
+       "image": {
+        "small": "/images/catalog/apple-airpods-max-2--midnight-400.webp",
+        "large": "/images/catalog/apple-airpods-max-2--midnight-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple AirPods Max 2 in Midnight"
+       }
       },
       {
-       "label": "Starlight"
+       "label": "Starlight",
+       "image": {
+        "small": "/images/catalog/apple-airpods-max-2--starlight-400.webp",
+        "large": "/images/catalog/apple-airpods-max-2--starlight-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple AirPods Max 2 in Starlight"
+       }
       },
       {
-       "label": "Blue"
+       "label": "Blue",
+       "image": {
+        "small": "/images/catalog/apple-airpods-max-2--blue-400.webp",
+        "large": "/images/catalog/apple-airpods-max-2--blue-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple AirPods Max 2 in Blue"
+       }
       },
       {
-       "label": "Purple"
+       "label": "Purple",
+       "image": {
+        "small": "/images/catalog/apple-airpods-max-2--purple-400.webp",
+        "large": "/images/catalog/apple-airpods-max-2--purple-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple AirPods Max 2 in Purple"
+       }
       },
       {
-       "label": "Orange"
+       "label": "Orange",
+       "image": {
+        "small": "/images/catalog/apple-airpods-max-2--orange-400.webp",
+        "large": "/images/catalog/apple-airpods-max-2--orange-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple AirPods Max 2 in Orange"
+       }
       }
      ]
     }
@@ -2383,10 +2985,24 @@
      "values": [
       {
        "label": "Midnight",
-       "default": true
+       "default": true,
+       "image": {
+        "small": "/images/catalog/apple-homepod-2nd-generation--midnight-400.webp",
+        "large": "/images/catalog/apple-homepod-2nd-generation--midnight-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple HomePod (2nd generation) in Midnight"
+       }
       },
       {
-       "label": "White"
+       "label": "White",
+       "image": {
+        "small": "/images/catalog/apple-homepod-2nd-generation--white-400.webp",
+        "large": "/images/catalog/apple-homepod-2nd-generation--white-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple HomePod (2nd generation) in White"
+       }
       }
      ]
     }
@@ -2426,19 +3042,54 @@
      "values": [
       {
        "label": "White",
-       "default": true
+       "default": true,
+       "image": {
+        "small": "/images/catalog/apple-homepod-mini--white-400.webp",
+        "large": "/images/catalog/apple-homepod-mini--white-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple HomePod mini in White"
+       }
       },
       {
-       "label": "Yellow"
+       "label": "Yellow",
+       "image": {
+        "small": "/images/catalog/apple-homepod-mini--yellow-400.webp",
+        "large": "/images/catalog/apple-homepod-mini--yellow-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple HomePod mini in Yellow"
+       }
       },
       {
-       "label": "Orange"
+       "label": "Orange",
+       "image": {
+        "small": "/images/catalog/apple-homepod-mini--orange-400.webp",
+        "large": "/images/catalog/apple-homepod-mini--orange-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple HomePod mini in Orange"
+       }
       },
       {
-       "label": "Blue"
+       "label": "Blue",
+       "image": {
+        "small": "/images/catalog/apple-homepod-mini--blue-400.webp",
+        "large": "/images/catalog/apple-homepod-mini--blue-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple HomePod mini in Blue"
+       }
       },
       {
-       "label": "Midnight"
+       "label": "Midnight",
+       "image": {
+        "small": "/images/catalog/apple-homepod-mini--midnight-400.webp",
+        "large": "/images/catalog/apple-homepod-mini--midnight-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple HomePod mini in Midnight"
+       }
       }
      ]
     }
@@ -2611,10 +3262,24 @@
      "values": [
       {
        "label": "White",
-       "default": true
+       "default": true,
+       "image": {
+        "small": "/images/catalog/apple-magic-keyboard-touch-id-numeric-usb-c--white-400.webp",
+        "large": "/images/catalog/apple-magic-keyboard-touch-id-numeric-usb-c--white-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple Magic Keyboard with Touch ID and Numeric Keypad (USB-C) with White keys, top view"
+       }
       },
       {
-       "label": "Black"
+       "label": "Black",
+       "image": {
+        "small": "/images/catalog/apple-magic-keyboard-touch-id-numeric-usb-c--black-400.webp",
+        "large": "/images/catalog/apple-magic-keyboard-touch-id-numeric-usb-c--black-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple Magic Keyboard with Touch ID and Numeric Keypad (USB-C) with Black keys, top view"
+       }
       }
      ]
     }
@@ -2653,10 +3318,24 @@
      "values": [
       {
        "label": "White",
-       "default": true
+       "default": true,
+       "image": {
+        "small": "/images/catalog/apple-magic-mouse-usb-c--white-400.webp",
+        "large": "/images/catalog/apple-magic-mouse-usb-c--white-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple Magic Mouse (USB-C) with White Multi-Touch surface, side view"
+       }
       },
       {
-       "label": "Black"
+       "label": "Black",
+       "image": {
+        "small": "/images/catalog/apple-magic-mouse-usb-c--black-400.webp",
+        "large": "/images/catalog/apple-magic-mouse-usb-c--black-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple Magic Mouse (USB-C) with Black Multi-Touch surface, side view"
+       }
       }
      ]
     }
@@ -2696,10 +3375,24 @@
      "values": [
       {
        "label": "White",
-       "default": true
+       "default": true,
+       "image": {
+        "small": "/images/catalog/apple-magic-trackpad-usb-c--white-400.webp",
+        "large": "/images/catalog/apple-magic-trackpad-usb-c--white-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple Magic Trackpad (USB-C) with White Multi-Touch surface, angled view"
+       }
       },
       {
-       "label": "Black"
+       "label": "Black",
+       "image": {
+        "small": "/images/catalog/apple-magic-trackpad-usb-c--black-400.webp",
+        "large": "/images/catalog/apple-magic-trackpad-usb-c--black-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple Magic Trackpad (USB-C) with Black Multi-Touch surface, angled view"
+       }
       }
      ]
     }
@@ -2737,10 +3430,24 @@
      "values": [
       {
        "label": "White",
-       "default": true
+       "default": true,
+       "image": {
+        "small": "/images/catalog/apple-magic-keyboard-ipad-pro-11-m5--white-400.webp",
+        "large": "/images/catalog/apple-magic-keyboard-ipad-pro-11-m5--white-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple Magic Keyboard for iPad Pro 11-inch (M5) in White, front view with iPad attached"
+       }
       },
       {
-       "label": "Black"
+       "label": "Black",
+       "image": {
+        "small": "/images/catalog/apple-magic-keyboard-ipad-pro-11-m5--black-400.webp",
+        "large": "/images/catalog/apple-magic-keyboard-ipad-pro-11-m5--black-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple Magic Keyboard for iPad Pro 11-inch (M5) in Black, front view with iPad attached"
+       }
       }
      ]
     }
@@ -2778,10 +3485,24 @@
      "values": [
       {
        "label": "Black",
-       "default": true
+       "default": true,
+       "image": {
+        "small": "/images/catalog/apple-magic-keyboard-ipad-pro-13-m5--black-400.webp",
+        "large": "/images/catalog/apple-magic-keyboard-ipad-pro-13-m5--black-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple Magic Keyboard for iPad Pro 13-inch (M5) in Black, front view with iPad attached"
+       }
       },
       {
-       "label": "White"
+       "label": "White",
+       "image": {
+        "small": "/images/catalog/apple-magic-keyboard-ipad-pro-13-m5--white-400.webp",
+        "large": "/images/catalog/apple-magic-keyboard-ipad-pro-13-m5--white-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple Magic Keyboard for iPad Pro 13-inch (M5) in White, front view with iPad attached"
+       }
       }
      ]
     }
@@ -2819,10 +3540,24 @@
      "values": [
       {
        "label": "White",
-       "default": true
+       "default": true,
+       "image": {
+        "small": "/images/catalog/apple-magic-keyboard-ipad-air-11-m4--white-400.webp",
+        "large": "/images/catalog/apple-magic-keyboard-ipad-air-11-m4--white-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple Magic Keyboard for iPad Air 11-inch (M4) in White, front view with iPad attached"
+       }
       },
       {
-       "label": "Black"
+       "label": "Black",
+       "image": {
+        "small": "/images/catalog/apple-magic-keyboard-ipad-air-11-m4--black-400.webp",
+        "large": "/images/catalog/apple-magic-keyboard-ipad-air-11-m4--black-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple Magic Keyboard for iPad Air 11-inch (M4) in Black, front view with iPad attached"
+       }
       }
      ]
     }
@@ -2860,10 +3595,24 @@
      "values": [
       {
        "label": "Black",
-       "default": true
+       "default": true,
+       "image": {
+        "small": "/images/catalog/apple-magic-keyboard-ipad-air-13-m4--black-400.webp",
+        "large": "/images/catalog/apple-magic-keyboard-ipad-air-13-m4--black-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple Magic Keyboard for iPad Air 13-inch (M4) in Black, front view with iPad attached"
+       }
       },
       {
-       "label": "White"
+       "label": "White",
+       "image": {
+        "small": "/images/catalog/apple-magic-keyboard-ipad-air-13-m4--white-400.webp",
+        "large": "/images/catalog/apple-magic-keyboard-ipad-air-13-m4--white-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple Magic Keyboard for iPad Air 13-inch (M4) in White, front view with iPad attached"
+       }
       }
      ]
     }
@@ -3293,7 +4042,7 @@
    "keywords": "magsafe 3 cable macbook charging",
    "specs": {
     "interface": "USB-C to MagSafe 3",
-    "colors": "Silver, Space Black, Midnight, Starlight, Sky Blue"
+    "colors": "Silver, Space Black, Midnight, Starlight, Sky Blue, Space Gray"
    },
    "options": [
     {
@@ -3301,19 +4050,64 @@
      "values": [
       {
        "label": "Silver",
-       "default": true
+       "default": true,
+       "image": {
+        "small": "/images/catalog/apple-usb-c-to-magsafe-3-cable-2m--silver-400.webp",
+        "large": "/images/catalog/apple-usb-c-to-magsafe-3-cable-2m--silver-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple USB-C to MagSafe 3 Cable (2 m) in Silver, coiled"
+       }
       },
       {
-       "label": "Space Black"
+       "label": "Space Black",
+       "image": {
+        "small": "/images/catalog/apple-usb-c-to-magsafe-3-cable-2m--space-black-400.webp",
+        "large": "/images/catalog/apple-usb-c-to-magsafe-3-cable-2m--space-black-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple USB-C to MagSafe 3 Cable (2 m) in Space Black, coiled"
+       }
       },
       {
-       "label": "Midnight"
+       "label": "Midnight",
+       "image": {
+        "small": "/images/catalog/apple-usb-c-to-magsafe-3-cable-2m--midnight-400.webp",
+        "large": "/images/catalog/apple-usb-c-to-magsafe-3-cable-2m--midnight-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple USB-C to MagSafe 3 Cable (2 m) in Midnight, coiled"
+       }
       },
       {
-       "label": "Starlight"
+       "label": "Starlight",
+       "image": {
+        "small": "/images/catalog/apple-usb-c-to-magsafe-3-cable-2m--starlight-400.webp",
+        "large": "/images/catalog/apple-usb-c-to-magsafe-3-cable-2m--starlight-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple USB-C to MagSafe 3 Cable (2 m) in Starlight, coiled"
+       }
       },
       {
-       "label": "Sky Blue"
+       "label": "Sky Blue",
+       "image": {
+        "small": "/images/catalog/apple-usb-c-to-magsafe-3-cable-2m--sky-blue-400.webp",
+        "large": "/images/catalog/apple-usb-c-to-magsafe-3-cable-2m--sky-blue-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple USB-C to MagSafe 3 Cable (2 m) in Sky Blue, coiled"
+       }
+      },
+      {
+       "label": "Space Gray",
+       "image": {
+        "small": "/images/catalog/apple-usb-c-to-magsafe-3-cable-2m--space-gray-400.webp",
+        "large": "/images/catalog/apple-usb-c-to-magsafe-3-cable-2m--space-gray-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple USB-C to MagSafe 3 Cable (2 m) in Space Gray, coiled"
+       }
       }
      ]
     }

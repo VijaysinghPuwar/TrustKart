@@ -1122,10 +1122,24 @@
      "values": [
       {
        "label": "Black",
-       "default": true
+       "default": true,
+       "image": {
+        "small": "/images/catalog/cable-matters-slim-cat6a-bendable-boot-cable--black-400.webp",
+        "large": "/images/catalog/cable-matters-slim-cat6a-bendable-boot-cable--black-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Cable Matters slim Cat6a Ethernet cable in Black with bendable RJ45 boots, connector close-up"
+       }
       },
       {
-       "label": "White"
+       "label": "White",
+       "image": {
+        "small": "/images/catalog/cable-matters-slim-cat6a-bendable-boot-cable--white-400.webp",
+        "large": "/images/catalog/cable-matters-slim-cat6a-bendable-boot-cable--white-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Cable Matters slim Cat6a Ethernet cable in White with bendable RJ45 boots, connector close-up"
+       }
       }
      ]
     }
@@ -1158,7 +1172,7 @@
     "cableCategory": "Cat6",
     "lengthM": 304.8,
     "maxSpeedGbps": 10,
-    "colors": "Black, Blue, Gray, Green, Orange, Purple, White"
+    "colors": "Black, Blue, Gray, Green, Orange, Purple, Red, White"
    },
    "options": [
     {
@@ -1166,25 +1180,84 @@
      "values": [
       {
        "label": "Black",
-       "default": true
+       "default": true,
+       "image": {
+        "small": "/images/catalog/cable-matters-cat6-cm-bulk-cable-1000ft--black-400.webp",
+        "large": "/images/catalog/cable-matters-cat6-cm-bulk-cable-1000ft--black-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Cable Matters 1000 ft CM Cat6 bulk Ethernet cable in Black with pull box"
+       }
       },
       {
-       "label": "Blue"
+       "label": "Blue",
+       "image": {
+        "small": "/images/catalog/cable-matters-cat6-cm-bulk-cable-1000ft--blue-400.webp",
+        "large": "/images/catalog/cable-matters-cat6-cm-bulk-cable-1000ft--blue-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Cable Matters 1000 ft CM Cat6 bulk Ethernet cable in Blue with pull box"
+       }
       },
       {
-       "label": "Gray"
+       "label": "Gray",
+       "image": {
+        "small": "/images/catalog/cable-matters-cat6-cm-bulk-cable-1000ft--gray-400.webp",
+        "large": "/images/catalog/cable-matters-cat6-cm-bulk-cable-1000ft--gray-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Cable Matters 1000 ft CM Cat6 bulk Ethernet cable in Gray with pull box"
+       }
       },
       {
-       "label": "Green"
+       "label": "Green",
+       "image": {
+        "small": "/images/catalog/cable-matters-cat6-cm-bulk-cable-1000ft--green-400.webp",
+        "large": "/images/catalog/cable-matters-cat6-cm-bulk-cable-1000ft--green-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Cable Matters 1000 ft CM Cat6 bulk Ethernet cable in Green with pull box"
+       }
       },
       {
-       "label": "Orange"
+       "label": "Orange",
+       "image": {
+        "small": "/images/catalog/cable-matters-cat6-cm-bulk-cable-1000ft--orange-400.webp",
+        "large": "/images/catalog/cable-matters-cat6-cm-bulk-cable-1000ft--orange-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Cable Matters 1000 ft CM Cat6 bulk Ethernet cable in Orange with pull box"
+       }
       },
       {
-       "label": "Purple"
+       "label": "Purple",
+       "image": {
+        "small": "/images/catalog/cable-matters-cat6-cm-bulk-cable-1000ft--purple-400.webp",
+        "large": "/images/catalog/cable-matters-cat6-cm-bulk-cable-1000ft--purple-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Cable Matters 1000 ft CM Cat6 bulk Ethernet cable in Purple with pull box"
+       }
       },
       {
-       "label": "White"
+       "label": "Red",
+       "image": {
+        "small": "/images/catalog/cable-matters-cat6-cm-bulk-cable-1000ft--red-400.webp",
+        "large": "/images/catalog/cable-matters-cat6-cm-bulk-cable-1000ft--red-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Cable Matters CM Cat6 bulk Ethernet cable in Red, stripped cable end with pull box"
+       }
+      },
+      {
+       "label": "White",
+       "image": {
+        "small": "/images/catalog/cable-matters-cat6-cm-bulk-cable-1000ft--white-400.webp",
+        "large": "/images/catalog/cable-matters-cat6-cm-bulk-cable-1000ft--white-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Cable Matters 1000 ft CM Cat6 bulk Ethernet cable in White with pull box"
+       }
       }
      ]
     }
@@ -1284,40 +1357,124 @@
      "values": [
       {
        "label": "White",
-       "default": true
+       "default": true,
+       "image": {
+        "small": "/images/catalog/leviton-atlas-x1-cat6a-utp-quickport-jack-6aujk--white-400.webp",
+        "large": "/images/catalog/leviton-atlas-x1-cat6a-utp-quickport-jack-6aujk--white-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Leviton Atlas-X1 Cat 6A UTP QuickPort jack (6AUJK) in White"
+       }
       },
       {
-       "label": "Black"
+       "label": "Black",
+       "image": {
+        "small": "/images/catalog/leviton-atlas-x1-cat6a-utp-quickport-jack-6aujk--black-400.webp",
+        "large": "/images/catalog/leviton-atlas-x1-cat6a-utp-quickport-jack-6aujk--black-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Leviton Atlas-X1 Cat 6A UTP QuickPort jack (6AUJK) in Black"
+       }
       },
       {
-       "label": "Blue"
+       "label": "Blue",
+       "image": {
+        "small": "/images/catalog/leviton-atlas-x1-cat6a-utp-quickport-jack-6aujk--blue-400.webp",
+        "large": "/images/catalog/leviton-atlas-x1-cat6a-utp-quickport-jack-6aujk--blue-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Leviton Atlas-X1 Cat 6A UTP QuickPort jack (6AUJK) in Blue"
+       }
       },
       {
-       "label": "Gray"
+       "label": "Gray",
+       "image": {
+        "small": "/images/catalog/leviton-atlas-x1-cat6a-utp-quickport-jack-6aujk--gray-400.webp",
+        "large": "/images/catalog/leviton-atlas-x1-cat6a-utp-quickport-jack-6aujk--gray-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Leviton Atlas-X1 Cat 6A UTP QuickPort jack (6AUJK) in Gray"
+       }
       },
       {
-       "label": "Ivory"
+       "label": "Ivory",
+       "image": {
+        "small": "/images/catalog/leviton-atlas-x1-cat6a-utp-quickport-jack-6aujk--ivory-400.webp",
+        "large": "/images/catalog/leviton-atlas-x1-cat6a-utp-quickport-jack-6aujk--ivory-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Leviton Atlas-X1 Cat 6A UTP QuickPort jack (6AUJK) in Ivory"
+       }
       },
       {
-       "label": "Orange"
+       "label": "Orange",
+       "image": {
+        "small": "/images/catalog/leviton-atlas-x1-cat6a-utp-quickport-jack-6aujk--orange-400.webp",
+        "large": "/images/catalog/leviton-atlas-x1-cat6a-utp-quickport-jack-6aujk--orange-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Leviton Atlas-X1 Cat 6A UTP QuickPort jack (6AUJK) in Orange"
+       }
       },
       {
-       "label": "Purple"
+       "label": "Purple",
+       "image": {
+        "small": "/images/catalog/leviton-atlas-x1-cat6a-utp-quickport-jack-6aujk--purple-400.webp",
+        "large": "/images/catalog/leviton-atlas-x1-cat6a-utp-quickport-jack-6aujk--purple-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Leviton Atlas-X1 Cat 6A UTP QuickPort jack (6AUJK) in Purple"
+       }
       },
       {
-       "label": "Green"
+       "label": "Green",
+       "image": {
+        "small": "/images/catalog/leviton-atlas-x1-cat6a-utp-quickport-jack-6aujk--green-400.webp",
+        "large": "/images/catalog/leviton-atlas-x1-cat6a-utp-quickport-jack-6aujk--green-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Leviton Atlas-X1 Cat 6A UTP QuickPort jack (6AUJK) in Green"
+       }
       },
       {
-       "label": "Yellow"
+       "label": "Yellow",
+       "image": {
+        "small": "/images/catalog/leviton-atlas-x1-cat6a-utp-quickport-jack-6aujk--yellow-400.webp",
+        "large": "/images/catalog/leviton-atlas-x1-cat6a-utp-quickport-jack-6aujk--yellow-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Leviton Atlas-X1 Cat 6A UTP QuickPort jack (6AUJK) in Yellow"
+       }
       },
       {
-       "label": "Crimson"
+       "label": "Crimson",
+       "image": {
+        "small": "/images/catalog/leviton-atlas-x1-cat6a-utp-quickport-jack-6aujk--crimson-400.webp",
+        "large": "/images/catalog/leviton-atlas-x1-cat6a-utp-quickport-jack-6aujk--crimson-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Leviton Atlas-X1 Cat 6A UTP QuickPort jack (6AUJK) in Crimson"
+       }
       },
       {
-       "label": "Dark Red"
+       "label": "Dark Red",
+       "image": {
+        "small": "/images/catalog/leviton-atlas-x1-cat6a-utp-quickport-jack-6aujk--dark-red-400.webp",
+        "large": "/images/catalog/leviton-atlas-x1-cat6a-utp-quickport-jack-6aujk--dark-red-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Leviton Atlas-X1 Cat 6A UTP QuickPort jack (6AUJK) in Dark Red"
+       }
       },
       {
-       "label": "Brown"
+       "label": "Brown",
+       "image": {
+        "small": "/images/catalog/leviton-atlas-x1-cat6a-utp-quickport-jack-6aujk--brown-400.webp",
+        "large": "/images/catalog/leviton-atlas-x1-cat6a-utp-quickport-jack-6aujk--brown-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Leviton Atlas-X1 Cat 6A UTP QuickPort jack (6AUJK) in Brown"
+       }
       }
      ]
     }
@@ -1455,16 +1612,44 @@
      "values": [
       {
        "label": "Black",
-       "default": true
+       "default": true,
+       "image": {
+        "small": "/images/catalog/leviton-atlas-x1-cat6a-slimline-patch-cord-6as10--black-400.webp",
+        "large": "/images/catalog/leviton-atlas-x1-cat6a-slimline-patch-cord-6as10--black-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Leviton Atlas-X1 Cat 6A SlimLine boot patch cord (6AS10) in Black"
+       }
       },
       {
-       "label": "Blue"
+       "label": "Blue",
+       "image": {
+        "small": "/images/catalog/leviton-atlas-x1-cat6a-slimline-patch-cord-6as10--blue-400.webp",
+        "large": "/images/catalog/leviton-atlas-x1-cat6a-slimline-patch-cord-6as10--blue-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Leviton Atlas-X1 Cat 6A SlimLine boot patch cord (6AS10) in Blue"
+       }
       },
       {
-       "label": "Gray"
+       "label": "Gray",
+       "image": {
+        "small": "/images/catalog/leviton-atlas-x1-cat6a-slimline-patch-cord-6as10--gray-400.webp",
+        "large": "/images/catalog/leviton-atlas-x1-cat6a-slimline-patch-cord-6as10--gray-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Leviton Atlas-X1 Cat 6A SlimLine boot patch cord (6AS10) in Gray"
+       }
       },
       {
-       "label": "White"
+       "label": "White",
+       "image": {
+        "small": "/images/catalog/leviton-atlas-x1-cat6a-slimline-patch-cord-6as10--white-400.webp",
+        "large": "/images/catalog/leviton-atlas-x1-cat6a-slimline-patch-cord-6as10--white-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Leviton Atlas-X1 Cat 6A SlimLine boot patch cord (6AS10) in White"
+       }
       }
      ]
     }

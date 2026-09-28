@@ -356,14 +356,34 @@
     "page": "https://epson.com/For-Home/Printers/Inkjet/EcoTank-ET-2980-Wireless-All-in-One-Color-Supertank-Printer-%E2%80%93-Black/p/C11CL41201",
     "sourceType": "manufacturer-product-page",
     "rights": "Official Epson product-page image; Epson has not granted a reuse license — rights not verified.",
-    "alt": "Epson EcoTank ET-2980 all-in-one supertank printer in black, head-on view with lid closed",
+    "alt": "Epson EcoTank ET-2980 all-in-one supertank printer in Black, head-on view with lid closed",
     "match": "EXACT",
     "credit": "Epson"
    },
    "colors": [
     "Black",
     "White"
-   ]
+   ],
+   "colorImages": {
+    "Black": {
+     "url": "https://mediaserver.goepson.com/adaptivemedia/rendition?id=d201580b89d7903ba86c971fb8a06a717b55033e&vid=d201580b89d7903ba86c971fb8a06a717b55033e&prid=1200Wx1200H&clid=SAPDAM&prclid=banner&assetDescr=ET-2980_blk_headon-closed_690x460%402x",
+     "page": "https://epson.com/For-Home/Printers/Inkjet/EcoTank-ET-2980-Wireless-All-in-One-Color-Supertank-Printer-%E2%80%93-Black/p/C11CL41201",
+     "sourceType": "manufacturer-product-page",
+     "rights": "Official Epson product-page image; Epson has not granted a reuse license — rights not verified.",
+     "alt": "Epson EcoTank ET-2980 all-in-one supertank printer in Black, head-on view with lid closed",
+     "match": "EXACT",
+     "credit": "Epson"
+    },
+    "White": {
+     "url": "https://mediaserver.goepson.com/adaptivemedia/rendition?id=7628c2b24dc169994c9ce9c41d229431f0ab94fc&vid=7628c2b24dc169994c9ce9c41d229431f0ab94fc&prid=1200Wx1200H&clid=SAPDAM&prclid=banner&assetDescr=ET-2980_white_headon-closed_690x460%402x",
+     "page": "https://epson.com/For-Home/Printers/Inkjet/EcoTank-ET-2980-Wireless-All-in-One-Color-Supertank-Printer-%E2%80%93-White/p/C11CL41202",
+     "sourceType": "manufacturer-product-page",
+     "rights": "Official Epson product-page image; Epson has not granted a reuse license — rights not verified.",
+     "alt": "Epson EcoTank ET-2980 all-in-one supertank printer in White, head-on view with lid closed",
+     "match": "EXACT",
+     "credit": "Epson"
+    }
+   }
   },
   {
    "sku": "TK-EPSON-ET4950",
@@ -402,14 +422,34 @@
     "page": "https://epson.com/For-Home/Printers/Inkjet/EcoTank-ET-4950-Wireless-All-in-One-Color-Supertank-Printer-%E2%80%93-Black/p/C11CL40201",
     "sourceType": "manufacturer-product-page",
     "rights": "Official Epson product-page image; Epson has not granted a reuse license — rights not verified.",
-    "alt": "Epson EcoTank ET-4950 all-in-one supertank printer in black, head-on view",
+    "alt": "Epson EcoTank ET-4950 all-in-one supertank printer in Black, head-on view",
     "match": "EXACT",
     "credit": "Epson"
    },
    "colors": [
     "Black",
     "White"
-   ]
+   ],
+   "colorImages": {
+    "Black": {
+     "url": "https://mediaserver.goepson.com/adaptivemedia/rendition?id=582a61e7d426956deeed620c626503d4856a6cf8&vid=582a61e7d426956deeed620c626503d4856a6cf8&prid=1200Wx1200H&clid=SAPDAM&prclid=banner&assetDescr=ET-4950_blk_headon_690x460%402x",
+     "page": "https://epson.com/For-Home/Printers/Inkjet/EcoTank-ET-4950-Wireless-All-in-One-Color-Supertank-Printer-%E2%80%93-Black/p/C11CL40201",
+     "sourceType": "manufacturer-product-page",
+     "rights": "Official Epson product-page image; Epson has not granted a reuse license — rights not verified.",
+     "alt": "Epson EcoTank ET-4950 all-in-one supertank printer in Black, head-on view",
+     "match": "EXACT",
+     "credit": "Epson"
+    },
+    "White": {
+     "url": "https://mediaserver.goepson.com/adaptivemedia/rendition?id=f51bf8086a49433765f350dbd2d12402eafadd40&vid=f51bf8086a49433765f350dbd2d12402eafadd40&prid=1200Wx1200H&clid=SAPDAM&prclid=banner&assetDescr=ET-4950_wht_headon_690x460%402x",
+     "page": "https://epson.com/For-Home/Printers/Inkjet/EcoTank-ET-4950-Wireless-All-in-One-Color-Supertank-Printer-%E2%80%93-White/p/C11CL40202",
+     "sourceType": "manufacturer-product-page",
+     "rights": "Official Epson product-page image; Epson has not granted a reuse license — rights not verified.",
+     "alt": "Epson EcoTank ET-4950 all-in-one supertank printer in White, head-on view",
+     "match": "EXACT",
+     "credit": "Epson"
+    }
+   }
   },
   {
    "sku": "TK-EPSON-ET8550",
@@ -487,10 +527,48 @@
     "url": "https://images.ctfassets.net/a3peezndovsu/10us7nknuEwrEaNtmw3ScP/a455d50d94c094558f268b51734b4ee2/ring_battery_doorbell_pro_gen2_product_dark_silver_1500x1500.jpg",
     "page": "https://ring.com/products/battery-doorbell-pro-2nd-gen",
     "sourceType": "manufacturer-product-page",
-    "rights": "Official Ring product image from ring.com (Ring, an Amazon company); no reuse license granted — rights not verified.",
-    "alt": "Ring Battery Doorbell 4K Pro video doorbell in Deep Silver, front view",
+    "rights": "Official Ring product image from ring.com; Ring has not granted a reuse license — rights not verified.",
+    "alt": "Ring Battery Doorbell 4K Pro in Deep Silver, front view",
     "match": "EXACT",
     "credit": "Ring"
+   },
+   "colorImages": {
+    "Deep Silver": {
+     "url": "https://images.ctfassets.net/a3peezndovsu/10us7nknuEwrEaNtmw3ScP/a455d50d94c094558f268b51734b4ee2/ring_battery_doorbell_pro_gen2_product_dark_silver_1500x1500.jpg",
+     "page": "https://ring.com/products/battery-doorbell-pro-2nd-gen",
+     "sourceType": "manufacturer-product-page",
+     "rights": "Official Ring product image from ring.com; Ring has not granted a reuse license — rights not verified.",
+     "alt": "Ring Battery Doorbell 4K Pro in Deep Silver, front view",
+     "match": "EXACT",
+     "credit": "Ring"
+    },
+    "Polished Night Navy": {
+     "url": "https://images.ctfassets.net/a3peezndovsu/fQSTOkpjeSvkKiifNKWlL/51fe4b5faa3b6238d647becc0b0398e1/ring_battery_doorbell_pro_gen2_product_polished_navy_1500x1500.jpg",
+     "page": "https://ring.com/products/battery-doorbell-pro-2nd-gen",
+     "sourceType": "manufacturer-product-page",
+     "rights": "Official Ring product image from ring.com; Ring has not granted a reuse license — rights not verified.",
+     "alt": "Ring Battery Doorbell 4K Pro in Polished Night Navy, front view",
+     "match": "EXACT",
+     "credit": "Ring"
+    },
+    "Polished Mocha": {
+     "url": "https://images.ctfassets.net/a3peezndovsu/5lL5bXlvql0VREmBocErwH/a121ae0295e164daa2efd43f5657c4e9/ring_battery_doorbell_pro_gen2_product_polished_mocha_1500x1500.jpg",
+     "page": "https://ring.com/products/battery-doorbell-pro-2nd-gen",
+     "sourceType": "manufacturer-product-page",
+     "rights": "Official Ring product image from ring.com; Ring has not granted a reuse license — rights not verified.",
+     "alt": "Ring Battery Doorbell 4K Pro in Polished Mocha, front view",
+     "match": "EXACT",
+     "credit": "Ring"
+    },
+    "Polished Sandstone": {
+     "url": "https://images.ctfassets.net/a3peezndovsu/6YFYp4ENynMW9623JGEMiK/36fa4e182c451b2a993b2e42deea4ba4/ring_battery_doorbell_pro_gen2_product_polished_sand_1500x1500.jpg",
+     "page": "https://ring.com/products/battery-doorbell-pro-2nd-gen",
+     "sourceType": "manufacturer-product-page",
+     "rights": "Official Ring product image from ring.com; Ring has not granted a reuse license — rights not verified.",
+     "alt": "Ring Battery Doorbell 4K Pro in Polished Sandstone, front view",
+     "match": "EXACT",
+     "credit": "Ring"
+    }
    }
   },
   {
@@ -529,10 +607,48 @@
     "url": "https://images.ctfassets.net/a3peezndovsu/3gjfLsAnG7SwdB6Z5oA2sD/282c8d4a9582f349c92cdd4236dd828b/ring_wired_doorbell_pro_4k_1500x1500__1_.jpg",
     "page": "https://ring.com/products/wired-doorbell-pro",
     "sourceType": "manufacturer-product-page",
-    "rights": "Official Ring product image from ring.com (Ring, an Amazon company); no reuse license granted — rights not verified.",
-    "alt": "Ring Wired Doorbell 4K Pro video doorbell in Deep Silver, front view",
+    "rights": "Official Ring product image from ring.com; Ring has not granted a reuse license — rights not verified.",
+    "alt": "Ring Wired Doorbell 4K Pro in Deep Silver, front view",
     "match": "EXACT",
     "credit": "Ring"
+   },
+   "colorImages": {
+    "Deep Silver": {
+     "url": "https://images.ctfassets.net/a3peezndovsu/3gjfLsAnG7SwdB6Z5oA2sD/282c8d4a9582f349c92cdd4236dd828b/ring_wired_doorbell_pro_4k_1500x1500__1_.jpg",
+     "page": "https://ring.com/products/wired-doorbell-pro",
+     "sourceType": "manufacturer-product-page",
+     "rights": "Official Ring product image from ring.com; Ring has not granted a reuse license — rights not verified.",
+     "alt": "Ring Wired Doorbell 4K Pro in Deep Silver, front view",
+     "match": "EXACT",
+     "credit": "Ring"
+    },
+    "Polished Night Navy": {
+     "url": "https://images.ctfassets.net/a3peezndovsu/6u4ax2bFGTG1IBJEn58Fp3/c0f89502102964ec37fef6b6d60c05f6/ring_wired_doorbell_pro_4k_polished_navy_1500x1500.jpg",
+     "page": "https://ring.com/products/wired-doorbell-pro",
+     "sourceType": "manufacturer-product-page",
+     "rights": "Official Ring product image from ring.com; Ring has not granted a reuse license — rights not verified.",
+     "alt": "Ring Wired Doorbell 4K Pro in Polished Night Navy, front view",
+     "match": "EXACT",
+     "credit": "Ring"
+    },
+    "Polished Mocha": {
+     "url": "https://images.ctfassets.net/a3peezndovsu/1BCw2wGskpHXNFtCzljkgE/88bde64107e9c82be604323e2fad809e/ring_wired_doorbell_pro_4k_polished_mocha_1500x1500.jpg",
+     "page": "https://ring.com/products/wired-doorbell-pro",
+     "sourceType": "manufacturer-product-page",
+     "rights": "Official Ring product image from ring.com; Ring has not granted a reuse license — rights not verified.",
+     "alt": "Ring Wired Doorbell 4K Pro in Polished Mocha, front view",
+     "match": "EXACT",
+     "credit": "Ring"
+    },
+    "Polished Sandstone": {
+     "url": "https://images.ctfassets.net/a3peezndovsu/5fgLnLfcAk1JgnHgjUF4FX/0f369b603b6725a43f6cb33caef99d0b/ring_wired_doorbell_pro_4k_polished_sand_1500x1500.jpg",
+     "page": "https://ring.com/products/wired-doorbell-pro",
+     "sourceType": "manufacturer-product-page",
+     "rights": "Official Ring product image from ring.com; Ring has not granted a reuse license — rights not verified.",
+     "alt": "Ring Wired Doorbell 4K Pro in Polished Sandstone, front view",
+     "match": "EXACT",
+     "credit": "Ring"
+    }
    }
   },
   {
@@ -569,10 +685,30 @@
     "url": "https://images.ctfassets.net/a3peezndovsu/4QjNds6rlGK5JJp5U8eeI3/6f6c1da6222d749c8f4bc044fa0e84f9/ring_floodlight_cam_pro_4k_wired_white_1500x1500.jpg",
     "page": "https://ring.com/products/floodlight-cam-pro-2nd-gen",
     "sourceType": "manufacturer-product-page",
-    "rights": "Official Ring product image from ring.com (Ring, an Amazon company); no reuse license granted — rights not verified.",
-    "alt": "Ring Floodlight Cam 4K Pro wired floodlight security camera in white, front view",
+    "rights": "Official Ring product image from ring.com; Ring has not granted a reuse license — rights not verified.",
+    "alt": "Ring Floodlight Cam 4K Pro (wired) in White, three-quarter view",
     "match": "EXACT",
     "credit": "Ring"
+   },
+   "colorImages": {
+    "White": {
+     "url": "https://images.ctfassets.net/a3peezndovsu/4QjNds6rlGK5JJp5U8eeI3/6f6c1da6222d749c8f4bc044fa0e84f9/ring_floodlight_cam_pro_4k_wired_white_1500x1500.jpg",
+     "page": "https://ring.com/products/floodlight-cam-pro-2nd-gen",
+     "sourceType": "manufacturer-product-page",
+     "rights": "Official Ring product image from ring.com; Ring has not granted a reuse license — rights not verified.",
+     "alt": "Ring Floodlight Cam 4K Pro (wired) in White, three-quarter view",
+     "match": "EXACT",
+     "credit": "Ring"
+    },
+    "Black": {
+     "url": "https://images.ctfassets.net/a3peezndovsu/10UuK2sdV9lENpzwaRhG1I/dbdd8539804a75772de66931a3185a55/ring_floodlight_cam_pro_4k_wired_black_1500x1500.jpg",
+     "page": "https://ring.com/products/floodlight-cam-pro-2nd-gen",
+     "sourceType": "manufacturer-product-page",
+     "rights": "Official Ring product image from ring.com; Ring has not granted a reuse license — rights not verified.",
+     "alt": "Ring Floodlight Cam 4K Pro (wired) in Black, three-quarter view",
+     "match": "EXACT",
+     "credit": "Ring"
+    }
    }
   },
   {
@@ -606,13 +742,33 @@
     "retrievedAt": "2026-09-28"
    },
    "image": {
-    "url": "https://images.ctfassets.net/a3peezndovsu/6pQTiRKdwyRrcHXcOmCNFH/886859acfdbee8b3aa603131fc5778f2/ring_outdoor_cam_pro_black_1500x1500.jpg",
+    "url": "https://images.ctfassets.net/a3peezndovsu/6wwLqIyDCqMqfBswsDrK0F/931f7a682423a541fdfb751066d5e812/ring_outdoor_cam_pro_mounted_white_1500x1500.jpg",
     "page": "https://ring.com/products/outdoor-cam-pro-4k",
     "sourceType": "manufacturer-product-page",
-    "rights": "Official Ring product image from ring.com (Ring, an Amazon company); no reuse license granted — rights not verified.",
-    "alt": "Ring Outdoor Cam 4K Pro security camera in black, front three-quarter view",
+    "rights": "Official Ring product image from ring.com; Ring has not granted a reuse license — rights not verified.",
+    "alt": "Ring Outdoor Cam 4K Pro (plug-in) in White on its wall mount",
     "match": "EXACT",
     "credit": "Ring"
+   },
+   "colorImages": {
+    "White": {
+     "url": "https://images.ctfassets.net/a3peezndovsu/6wwLqIyDCqMqfBswsDrK0F/931f7a682423a541fdfb751066d5e812/ring_outdoor_cam_pro_mounted_white_1500x1500.jpg",
+     "page": "https://ring.com/products/outdoor-cam-pro-4k",
+     "sourceType": "manufacturer-product-page",
+     "rights": "Official Ring product image from ring.com; Ring has not granted a reuse license — rights not verified.",
+     "alt": "Ring Outdoor Cam 4K Pro (plug-in) in White on its wall mount",
+     "match": "EXACT",
+     "credit": "Ring"
+    },
+    "Black": {
+     "url": "https://images.ctfassets.net/a3peezndovsu/6pQTiRKdwyRrcHXcOmCNFH/886859acfdbee8b3aa603131fc5778f2/ring_outdoor_cam_pro_black_1500x1500.jpg",
+     "page": "https://ring.com/products/outdoor-cam-pro-4k",
+     "sourceType": "manufacturer-product-page",
+     "rights": "Official Ring product image from ring.com; Ring has not granted a reuse license — rights not verified.",
+     "alt": "Ring Outdoor Cam 4K Pro (plug-in) in Black on its stand",
+     "match": "EXACT",
+     "credit": "Ring"
+    }
    }
   },
   {
@@ -649,10 +805,30 @@
     "url": "https://images.ctfassets.net/a3peezndovsu/7F8GLU5eOyGbdP1RjgSryw/d1c83217e8052652913a5864bbaff0d2/ring_spotlight_cam_pro_4k_plugin_white_1500x1500.jpg",
     "page": "https://ring.com/products/spotlight-cam-pro-2nd-gen",
     "sourceType": "manufacturer-product-page",
-    "rights": "Official Ring product image from ring.com (Ring, an Amazon company); no reuse license granted — rights not verified.",
-    "alt": "Ring Spotlight Cam 4K Pro plug-in security camera in white, front view",
+    "rights": "Official Ring product image from ring.com; Ring has not granted a reuse license — rights not verified.",
+    "alt": "Ring Spotlight Cam 4K Pro (plug-in) in White, three-quarter view",
     "match": "EXACT",
     "credit": "Ring"
+   },
+   "colorImages": {
+    "White": {
+     "url": "https://images.ctfassets.net/a3peezndovsu/7F8GLU5eOyGbdP1RjgSryw/d1c83217e8052652913a5864bbaff0d2/ring_spotlight_cam_pro_4k_plugin_white_1500x1500.jpg",
+     "page": "https://ring.com/products/spotlight-cam-pro-2nd-gen",
+     "sourceType": "manufacturer-product-page",
+     "rights": "Official Ring product image from ring.com; Ring has not granted a reuse license — rights not verified.",
+     "alt": "Ring Spotlight Cam 4K Pro (plug-in) in White, three-quarter view",
+     "match": "EXACT",
+     "credit": "Ring"
+    },
+    "Black": {
+     "url": "https://images.ctfassets.net/a3peezndovsu/1QR58utnw3v5llWuScL0ph/da04c75e1e1cd77f796eb004a214b574/ring_spotlight_cam_pro_4k_plugin_black_1500x1500.jpg",
+     "page": "https://ring.com/products/spotlight-cam-pro-2nd-gen",
+     "sourceType": "manufacturer-product-page",
+     "rights": "Official Ring product image from ring.com; Ring has not granted a reuse license — rights not verified.",
+     "alt": "Ring Spotlight Cam 4K Pro (plug-in) in Black, three-quarter view",
+     "match": "EXACT",
+     "credit": "Ring"
+    }
    }
   },
   {
@@ -971,7 +1147,8 @@
     "power": "Built-in rechargeable battery"
    },
    "colors": [
-    "Black"
+    "Black",
+    "White"
    ],
    "featured": false,
    "warranty": 24,
@@ -984,9 +1161,29 @@
     "page": "https://www.philips-hue.com/en-us/p/hue-white-and-color-ambiance-hue-go-portable-table-lamp/046677576455",
     "sourceType": "manufacturer-product-page",
     "rights": "Official Philips Hue (Signify) product image from philips-hue.com; no reuse license granted — rights not verified.",
-    "alt": "Philips Hue Go portable table lamp in black with gray silicone grip",
+    "alt": "Philips Hue Go portable table lamp in black with gray silicone grip (Black)",
     "match": "EXACT",
     "credit": "Philips Hue"
+   },
+   "colorImages": {
+    "Black": {
+     "url": "https://www.assets.signify.com/is/image/Signify/046677576455-929003128701-Hue_Belle-portable-lamp-black-NAM-RTP?wid=1400&fmt=png-alpha",
+     "page": "https://www.philips-hue.com/en-us/p/hue-white-and-color-ambiance-hue-go-portable-table-lamp/046677576455",
+     "sourceType": "manufacturer-product-page",
+     "rights": "Official Philips Hue (Signify) product image from philips-hue.com; no reuse license granted — rights not verified.",
+     "alt": "Philips Hue Go portable table lamp in black with gray silicone grip (Black)",
+     "match": "EXACT",
+     "credit": "Philips Hue"
+    },
+    "White": {
+     "url": "https://www.assets.signify.com/is/image/Signify/046677576448-929003128601-Hue_Belle-portable-lamp-white-NAM-RTP?wid=1400",
+     "page": "https://www.philips-hue.com/en-us/p/hue-white-and-color-ambiance-hue-go-portable-table-lamp/046677576448",
+     "sourceType": "manufacturer-product-page",
+     "rights": "Official Philips Hue product image (Signify asset server); Signify has not granted a reuse license — rights not verified.",
+     "alt": "Philips Hue Go portable table lamp in White",
+     "match": "EXACT",
+     "credit": "Philips Hue"
+    }
    }
   },
   {
@@ -1154,14 +1351,15 @@
    },
    "colors": [
     "White",
-    "Black"
+    "Black",
+    "Pink"
    ],
    "collections": [
     "ultimate-gaming-setup"
    ],
    "featured": false,
    "warranty": 12,
-   "notes": "List price $199.99 for the 9-line white 60° kit; nanoleaf.me showed a $119.99 sale price on 2026-09-28.",
+   "notes": "List price $199.99 for the 9-line white 60° kit; nanoleaf.me showed a $119.99 sale price on 2026-09-28. Pink 9-line kit (KIT_NL59K03-9PNK01) is sold on nanoleaf.me but no official product photo of the pink kit exists there (only a single pink skin), so it has no colour image.",
    "sources": {
     "product": "https://nanoleaf.me/en-US/products/nanoleaf-lines-starter-kits",
     "retrievedAt": "2026-09-28"
@@ -1171,7 +1369,7 @@
     "page": "https://nanoleaf.me/en-US/products/nanoleaf-lines-starter-kits",
     "sourceType": "manufacturer-product-page",
     "rights": "Official Nanoleaf store product image from nanoleaf.me; no reuse license granted — rights not verified.",
-    "alt": "Nanoleaf Lines starter kit with nine white 60-degree light bars glowing blue and pink",
+    "alt": "Nanoleaf Lines starter kit with nine White 60-degree light bars glowing blue and pink",
     "match": "EXACT",
     "credit": "Nanoleaf"
    },
@@ -1188,7 +1386,27 @@
      "label": "Black, 60°, 9 Lines",
      "price": "229.99"
     }
-   ]
+   ],
+   "colorImages": {
+    "White": {
+     "url": "https://cdn.shopify.com/s/files/1/0712/9114/2378/files/nl-us-1-floating-nanoleaf-lines-light-smarter-starter-kit-9_1x_c4e94c0d-3c5b-474b-9464-8a7f466f6452.png?v=1786479842",
+     "page": "https://nanoleaf.me/en-US/products/nanoleaf-lines-starter-kits",
+     "sourceType": "manufacturer-product-page",
+     "rights": "Official Nanoleaf store product image from nanoleaf.me; no reuse license granted — rights not verified.",
+     "alt": "Nanoleaf Lines starter kit with nine White 60-degree light bars glowing blue and pink",
+     "match": "EXACT",
+     "credit": "Nanoleaf"
+    },
+    "Black": {
+     "url": "https://nanoleaf.me/cdn/shop/files/2-nanoleaf-lines-accessory-accessories-skins-matte-black-assembly_nl59-0001bm-9pk_2x_875e5a9d-007c-419f-b8e1-4e5cc9aaed2d.jpg",
+     "page": "https://nanoleaf.me/en-US/products/nanoleaf-lines-starter-kits",
+     "sourceType": "manufacturer-product-page",
+     "rights": "Official Nanoleaf store product image from nanoleaf.me; no reuse license granted — rights not verified.",
+     "alt": "Nanoleaf Lines 60-degree nine-line layout in Black (matte black skins fitted), front view",
+     "match": "PRODUCT_LINE",
+     "credit": "Nanoleaf"
+    }
+   }
   },
   {
    "sku": "TK-NANOLEAF-BLOCKS-COMBO",
@@ -1639,10 +1857,30 @@
     "url": "https://cdn.shopify.com/s/files/1/0867/2418/2298/files/AqaraSmartVideoDoorbellG410_1.webp?v=1751944817",
     "page": "https://us.aqara.com/products/video-doorbell-g410",
     "sourceType": "manufacturer-product-page",
-    "rights": "Official Aqara store product image from us.aqara.com; no reuse license granted — rights not verified.",
-    "alt": "Aqara Doorbell Camera Hub G410 in black with its chime repeater",
+    "rights": "Official Aqara US store product image; no reuse license verified.",
+    "alt": "Aqara Doorbell Camera Hub G410 in Black, front view",
     "match": "EXACT",
     "credit": "Aqara"
+   },
+   "colorImages": {
+    "Black": {
+     "url": "https://cdn.shopify.com/s/files/1/0867/2418/2298/files/AqaraSmartVideoDoorbellG410_1.webp?v=1751944817",
+     "page": "https://us.aqara.com/products/video-doorbell-g410",
+     "sourceType": "manufacturer-product-page",
+     "rights": "Official Aqara US store product image; no reuse license verified.",
+     "alt": "Aqara Doorbell Camera Hub G410 in Black, front view",
+     "match": "EXACT",
+     "credit": "Aqara"
+    },
+    "Gray": {
+     "url": "https://cdn.shopify.com/s/files/1/0867/2418/2298/files/AqaraSmartVideoDoorbellG410_2.webp?v=1754468031",
+     "page": "https://us.aqara.com/products/video-doorbell-g410",
+     "sourceType": "manufacturer-product-page",
+     "rights": "Official Aqara US store product image; no reuse license verified.",
+     "alt": "Aqara Doorbell Camera Hub G410 in Gray, front view",
+     "match": "EXACT",
+     "credit": "Aqara"
+    }
    }
   }
  ]

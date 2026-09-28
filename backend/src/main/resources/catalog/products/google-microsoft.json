@@ -60,16 +60,44 @@
      "values": [
       {
        "label": "Frost",
-       "default": true
+       "default": true,
+       "image": {
+        "small": "/images/catalog/google-pixel-11--frost-400.webp",
+        "large": "/images/catalog/google-pixel-11--frost-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Google Pixel 11 in Frost, rear view"
+       }
       },
       {
-       "label": "Hibiscus"
+       "label": "Hibiscus",
+       "image": {
+        "small": "/images/catalog/google-pixel-11--hibiscus-400.webp",
+        "large": "/images/catalog/google-pixel-11--hibiscus-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Google Pixel 11 in Hibiscus, rear view"
+       }
       },
       {
-       "label": "Pistachio"
+       "label": "Pistachio",
+       "image": {
+        "small": "/images/catalog/google-pixel-11--pistachio-400.webp",
+        "large": "/images/catalog/google-pixel-11--pistachio-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Google Pixel 11 in Pistachio, rear view"
+       }
       },
       {
-       "label": "Obsidian"
+       "label": "Obsidian",
+       "image": {
+        "small": "/images/catalog/google-pixel-11--obsidian-400.webp",
+        "large": "/images/catalog/google-pixel-11--obsidian-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Google Pixel 11 in Obsidian, rear view"
+       }
       }
      ]
     }
@@ -139,16 +167,44 @@
      "values": [
       {
        "label": "Canyon",
-       "default": true
+       "default": true,
+       "image": {
+        "small": "/images/catalog/google-pixel-11-pro--canyon-400.webp",
+        "large": "/images/catalog/google-pixel-11-pro--canyon-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Google Pixel 11 Pro in Canyon, rear view"
+       }
       },
       {
-       "label": "Olive"
+       "label": "Olive",
+       "image": {
+        "small": "/images/catalog/google-pixel-11-pro--olive-400.webp",
+        "large": "/images/catalog/google-pixel-11-pro--olive-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Google Pixel 11 Pro in Olive, rear view"
+       }
       },
       {
-       "label": "Fog"
+       "label": "Fog",
+       "image": {
+        "small": "/images/catalog/google-pixel-11-pro--fog-400.webp",
+        "large": "/images/catalog/google-pixel-11-pro--fog-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Google Pixel 11 Pro in Fog, rear view"
+       }
       },
       {
-       "label": "Obsidian (Matte)"
+       "label": "Obsidian (Matte)",
+       "image": {
+        "small": "/images/catalog/google-pixel-11-pro--obsidian-matte-400.webp",
+        "large": "/images/catalog/google-pixel-11-pro--obsidian-matte-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Google Pixel 11 Pro in Obsidian (Matte), rear view"
+       }
       }
      ]
     }
@@ -200,16 +256,44 @@
      "values": [
       {
        "label": "Canyon",
-       "default": true
+       "default": true,
+       "image": {
+        "small": "/images/catalog/google-pixel-11-pro-xl--canyon-400.webp",
+        "large": "/images/catalog/google-pixel-11-pro-xl--canyon-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Google Pixel 11 Pro XL in Canyon, rear view"
+       }
       },
       {
-       "label": "Olive"
+       "label": "Olive",
+       "image": {
+        "small": "/images/catalog/google-pixel-11-pro-xl--olive-400.webp",
+        "large": "/images/catalog/google-pixel-11-pro-xl--olive-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Google Pixel 11 Pro XL in Olive, rear view"
+       }
       },
       {
-       "label": "Fog"
+       "label": "Fog",
+       "image": {
+        "small": "/images/catalog/google-pixel-11-pro-xl--fog-400.webp",
+        "large": "/images/catalog/google-pixel-11-pro-xl--fog-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Google Pixel 11 Pro XL in Fog, rear view"
+       }
       },
       {
-       "label": "Obsidian (Matte)"
+       "label": "Obsidian (Matte)",
+       "image": {
+        "small": "/images/catalog/google-pixel-11-pro-xl--obsidian-matte-400.webp",
+        "large": "/images/catalog/google-pixel-11-pro-xl--obsidian-matte-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Google Pixel 11 Pro XL in Obsidian (Matte), rear view"
+       }
       }
      ]
     }
@@ -280,10 +364,24 @@
      "values": [
       {
        "label": "Olive",
-       "default": true
+       "default": true,
+       "image": {
+        "small": "/images/catalog/google-pixel-11-pro-fold--olive-400.webp",
+        "large": "/images/catalog/google-pixel-11-pro-fold--olive-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Google Pixel 11 Pro Fold in Olive, folded, rear view"
+       }
       },
       {
-       "label": "Obsidian"
+       "label": "Obsidian",
+       "image": {
+        "small": "/images/catalog/google-pixel-11-pro-fold--obsidian-400.webp",
+        "large": "/images/catalog/google-pixel-11-pro-fold--obsidian-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Google Pixel 11 Pro Fold in Obsidian, folded, rear view"
+       }
       }
      ]
     }
@@ -336,16 +434,44 @@
      "values": [
       {
        "label": "Lavender",
-       "default": true
+       "default": true,
+       "image": {
+        "small": "/images/catalog/google-pixel-10a--lavender-400.webp",
+        "large": "/images/catalog/google-pixel-10a--lavender-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Google Pixel 10a in Lavender, rear view"
+       }
       },
       {
-       "label": "Berry"
+       "label": "Berry",
+       "image": {
+        "small": "/images/catalog/google-pixel-10a--berry-400.webp",
+        "large": "/images/catalog/google-pixel-10a--berry-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Google Pixel 10a in Berry, rear view"
+       }
       },
       {
-       "label": "Fog"
+       "label": "Fog",
+       "image": {
+        "small": "/images/catalog/google-pixel-10a--fog-400.webp",
+        "large": "/images/catalog/google-pixel-10a--fog-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Google Pixel 10a in Fog, rear view"
+       }
       },
       {
-       "label": "Obsidian"
+       "label": "Obsidian",
+       "image": {
+        "small": "/images/catalog/google-pixel-10a--obsidian-400.webp",
+        "large": "/images/catalog/google-pixel-10a--obsidian-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Google Pixel 10a in Obsidian, rear view"
+       }
       }
      ]
     }
@@ -406,16 +532,44 @@
      "values": [
       {
        "label": "Polished Silver Aluminum / Fog",
-       "default": true
+       "default": true,
+       "image": {
+        "small": "/images/catalog/google-pixel-watch-5-41mm--polished-silver-aluminum-fog-400.webp",
+        "large": "/images/catalog/google-pixel-watch-5-41mm--polished-silver-aluminum-fog-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Google Pixel Watch 5 (41mm) in Polished Silver Aluminum / Fog, angled view with Active Band"
+       }
       },
       {
-       "label": "Champagne Gold Aluminum / Canyon"
+       "label": "Champagne Gold Aluminum / Canyon",
+       "image": {
+        "small": "/images/catalog/google-pixel-watch-5-41mm--champagne-gold-aluminum-canyon-400.webp",
+        "large": "/images/catalog/google-pixel-watch-5-41mm--champagne-gold-aluminum-canyon-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Google Pixel Watch 5 (41mm) in Champagne Gold Aluminum / Canyon, angled view with Active Band"
+       }
       },
       {
-       "label": "Satin Pyrite Aluminum / Olive"
+       "label": "Satin Pyrite Aluminum / Olive",
+       "image": {
+        "small": "/images/catalog/google-pixel-watch-5-41mm--satin-pyrite-aluminum-olive-400.webp",
+        "large": "/images/catalog/google-pixel-watch-5-41mm--satin-pyrite-aluminum-olive-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Google Pixel Watch 5 (41mm) in Satin Pyrite Aluminum / Olive, angled view with Active Band"
+       }
       },
       {
-       "label": "Matte Black Aluminum / Obsidian"
+       "label": "Matte Black Aluminum / Obsidian",
+       "image": {
+        "small": "/images/catalog/google-pixel-watch-5-41mm--matte-black-aluminum-obsidian-400.webp",
+        "large": "/images/catalog/google-pixel-watch-5-41mm--matte-black-aluminum-obsidian-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Google Pixel Watch 5 (41mm) in Matte Black Aluminum / Obsidian, angled view with Active Band"
+       }
       }
      ]
     }
@@ -454,7 +608,7 @@
     "battery": "465 mAh; up to 40 hours with AOD, up to 72 hours with Battery Saver",
     "weightG": 36.7,
     "configurations": "45mm Bluetooth/Wi-Fi – $429.99 · 45mm 4G LTE · 45mm Special Edition Stephen Curry (LTE) – $579.99",
-    "colors": "Polished Silver Aluminum / Fog, Champagne Gold Aluminum / Canyon, Satin Pyrite Aluminum / Olive, Matte Black Aluminum / Obsidian"
+    "colors": "Polished Silver Aluminum / Fog, Satin Pyrite Aluminum / Olive, Matte Black Aluminum / Obsidian"
    },
    "options": [
     {
@@ -476,16 +630,34 @@
      "values": [
       {
        "label": "Polished Silver Aluminum / Fog",
-       "default": true
+       "default": true,
+       "image": {
+        "small": "/images/catalog/google-pixel-watch-5-45mm--polished-silver-aluminum-fog-400.webp",
+        "large": "/images/catalog/google-pixel-watch-5-45mm--polished-silver-aluminum-fog-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Google Pixel Watch 5 (45mm) in Polished Silver Aluminum / Fog, angled view with Active Band"
+       }
       },
       {
-       "label": "Champagne Gold Aluminum / Canyon"
+       "label": "Satin Pyrite Aluminum / Olive",
+       "image": {
+        "small": "/images/catalog/google-pixel-watch-5-45mm--satin-pyrite-aluminum-olive-400.webp",
+        "large": "/images/catalog/google-pixel-watch-5-45mm--satin-pyrite-aluminum-olive-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Google Pixel Watch 5 (45mm) in Satin Pyrite Aluminum / Olive, angled view with Active Band"
+       }
       },
       {
-       "label": "Satin Pyrite Aluminum / Olive"
-      },
-      {
-       "label": "Matte Black Aluminum / Obsidian"
+       "label": "Matte Black Aluminum / Obsidian",
+       "image": {
+        "small": "/images/catalog/google-pixel-watch-5-45mm--matte-black-aluminum-obsidian-400.webp",
+        "large": "/images/catalog/google-pixel-watch-5-45mm--matte-black-aluminum-obsidian-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Google Pixel Watch 5 (45mm) in Matte Black Aluminum / Obsidian, angled view with Active Band"
+       }
       }
      ]
     }
@@ -529,16 +701,44 @@
      "values": [
       {
        "label": "Porcelain",
-       "default": true
+       "default": true,
+       "image": {
+        "small": "/images/catalog/google-pixel-buds-pro-2--porcelain-400.webp",
+        "large": "/images/catalog/google-pixel-buds-pro-2--porcelain-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Google Pixel Buds Pro 2 in Porcelain, earbuds in the open charging case"
+       }
       },
       {
-       "label": "Olive"
+       "label": "Olive",
+       "image": {
+        "small": "/images/catalog/google-pixel-buds-pro-2--olive-400.webp",
+        "large": "/images/catalog/google-pixel-buds-pro-2--olive-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Google Pixel Buds Pro 2 in Olive, earbuds in the open charging case"
+       }
       },
       {
-       "label": "Peony"
+       "label": "Peony",
+       "image": {
+        "small": "/images/catalog/google-pixel-buds-pro-2--peony-400.webp",
+        "large": "/images/catalog/google-pixel-buds-pro-2--peony-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Google Pixel Buds Pro 2 in Peony, earbuds in the open charging case"
+       }
       },
       {
-       "label": "Hazel"
+       "label": "Hazel",
+       "image": {
+        "small": "/images/catalog/google-pixel-buds-pro-2--hazel-400.webp",
+        "large": "/images/catalog/google-pixel-buds-pro-2--hazel-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Google Pixel Buds Pro 2 in Hazel, earbuds in the open charging case"
+       }
       }
      ]
     }
@@ -582,16 +782,44 @@
      "values": [
       {
        "label": "Fog",
-       "default": true
+       "default": true,
+       "image": {
+        "small": "/images/catalog/google-pixel-buds-2a--fog-400.webp",
+        "large": "/images/catalog/google-pixel-buds-2a--fog-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Google Pixel Buds 2a in Fog, earbuds in the open charging case"
+       }
       },
       {
-       "label": "Berry"
+       "label": "Berry",
+       "image": {
+        "small": "/images/catalog/google-pixel-buds-2a--berry-400.webp",
+        "large": "/images/catalog/google-pixel-buds-2a--berry-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Google Pixel Buds 2a in Berry, earbuds in the open charging case"
+       }
       },
       {
-       "label": "Iris"
+       "label": "Iris",
+       "image": {
+        "small": "/images/catalog/google-pixel-buds-2a--iris-400.webp",
+        "large": "/images/catalog/google-pixel-buds-2a--iris-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Google Pixel Buds 2a in Iris, earbuds in the open charging case"
+       }
       },
       {
-       "label": "Hazel"
+       "label": "Hazel",
+       "image": {
+        "small": "/images/catalog/google-pixel-buds-2a--hazel-400.webp",
+        "large": "/images/catalog/google-pixel-buds-2a--hazel-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Google Pixel Buds 2a in Hazel, earbuds in the open charging case"
+       }
       }
      ]
     }
@@ -632,16 +860,44 @@
      "values": [
       {
        "label": "Berry",
-       "default": true
+       "default": true,
+       "image": {
+        "small": "/images/catalog/google-home-speaker--berry-400.webp",
+        "large": "/images/catalog/google-home-speaker--berry-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Google Home Speaker in Berry, front view"
+       }
       },
       {
-       "label": "Porcelain"
+       "label": "Porcelain",
+       "image": {
+        "small": "/images/catalog/google-home-speaker--porcelain-400.webp",
+        "large": "/images/catalog/google-home-speaker--porcelain-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Google Home Speaker in Porcelain, front view"
+       }
       },
       {
-       "label": "Hazel"
+       "label": "Hazel",
+       "image": {
+        "small": "/images/catalog/google-home-speaker--hazel-400.webp",
+        "large": "/images/catalog/google-home-speaker--hazel-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Google Home Speaker in Hazel, front view"
+       }
       },
       {
-       "label": "Jade"
+       "label": "Jade",
+       "image": {
+        "small": "/images/catalog/google-home-speaker--jade-400.webp",
+        "large": "/images/catalog/google-home-speaker--jade-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Google Home Speaker in Jade, front view"
+       }
       }
      ]
     }
@@ -684,16 +940,44 @@
      "values": [
       {
        "label": "Chalk",
-       "default": true
+       "default": true,
+       "image": {
+        "small": "/images/catalog/google-nest-hub-2nd-gen--chalk-400.webp",
+        "large": "/images/catalog/google-nest-hub-2nd-gen--chalk-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Google Nest Hub (2nd gen) in Chalk, rear view showing the fabric back"
+       }
       },
       {
-       "label": "Charcoal"
+       "label": "Charcoal",
+       "image": {
+        "small": "/images/catalog/google-nest-hub-2nd-gen--charcoal-400.webp",
+        "large": "/images/catalog/google-nest-hub-2nd-gen--charcoal-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Google Nest Hub (2nd gen) in Charcoal, rear view showing the fabric back"
+       }
       },
       {
-       "label": "Sand"
+       "label": "Sand",
+       "image": {
+        "small": "/images/catalog/google-nest-hub-2nd-gen--sand-400.webp",
+        "large": "/images/catalog/google-nest-hub-2nd-gen--sand-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Google Nest Hub (2nd gen) in Sand, rear view showing the fabric back"
+       }
       },
       {
-       "label": "Mist"
+       "label": "Mist",
+       "image": {
+        "small": "/images/catalog/google-nest-hub-2nd-gen--mist-400.webp",
+        "large": "/images/catalog/google-nest-hub-2nd-gen--mist-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Google Nest Hub (2nd gen) in Mist, rear view showing the fabric back"
+       }
       }
      ]
     }
@@ -800,13 +1084,34 @@
      "values": [
       {
        "label": "Snow",
-       "default": true
+       "default": true,
+       "image": {
+        "small": "/images/catalog/google-nest-cam-indoor-wired-3rd-gen--snow-400.webp",
+        "large": "/images/catalog/google-nest-cam-indoor-wired-3rd-gen--snow-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Google Nest Cam Indoor (wired, 3rd gen) in Snow, angled front view on its stand"
+       }
       },
       {
-       "label": "Hazel"
+       "label": "Hazel",
+       "image": {
+        "small": "/images/catalog/google-nest-cam-indoor-wired-3rd-gen--hazel-400.webp",
+        "large": "/images/catalog/google-nest-cam-indoor-wired-3rd-gen--hazel-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Google Nest Cam Indoor (wired, 3rd gen) in Hazel, angled front view on its stand"
+       }
       },
       {
-       "label": "Berry"
+       "label": "Berry",
+       "image": {
+        "small": "/images/catalog/google-nest-cam-indoor-wired-3rd-gen--berry-400.webp",
+        "large": "/images/catalog/google-nest-cam-indoor-wired-3rd-gen--berry-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Google Nest Cam Indoor (wired, 3rd gen) in Berry, angled front view on its stand"
+       }
       }
      ]
     }
@@ -849,10 +1154,24 @@
      "values": [
       {
        "label": "Snow",
-       "default": true
+       "default": true,
+       "image": {
+        "small": "/images/catalog/google-nest-cam-outdoor-wired-2nd-gen--snow-400.webp",
+        "large": "/images/catalog/google-nest-cam-outdoor-wired-2nd-gen--snow-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Google Nest Cam Outdoor (wired, 2nd gen) in Snow, angled view on its wall mount"
+       }
       },
       {
-       "label": "Hazel"
+       "label": "Hazel",
+       "image": {
+        "small": "/images/catalog/google-nest-cam-outdoor-wired-2nd-gen--hazel-400.webp",
+        "large": "/images/catalog/google-nest-cam-outdoor-wired-2nd-gen--hazel-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Google Nest Cam Outdoor (wired, 2nd gen) in Hazel, angled view on its wall mount"
+       }
       }
      ]
     }
@@ -945,13 +1264,34 @@
      "values": [
       {
        "label": "Snow",
-       "default": true
+       "default": true,
+       "image": {
+        "small": "/images/catalog/google-nest-doorbell-wired-3rd-gen--snow-400.webp",
+        "large": "/images/catalog/google-nest-doorbell-wired-3rd-gen--snow-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Google Nest Doorbell (wired, 3rd gen) in Snow, front view"
+       }
       },
       {
-       "label": "Hazel"
+       "label": "Hazel",
+       "image": {
+        "small": "/images/catalog/google-nest-doorbell-wired-3rd-gen--hazel-400.webp",
+        "large": "/images/catalog/google-nest-doorbell-wired-3rd-gen--hazel-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Google Nest Doorbell (wired, 3rd gen) in Hazel, front view"
+       }
       },
       {
-       "label": "Linen"
+       "label": "Linen",
+       "image": {
+        "small": "/images/catalog/google-nest-doorbell-wired-3rd-gen--linen-400.webp",
+        "large": "/images/catalog/google-nest-doorbell-wired-3rd-gen--linen-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Google Nest Doorbell (wired, 3rd gen) in Linen, front view"
+       }
       }
      ]
     }
@@ -994,13 +1334,34 @@
      "values": [
       {
        "label": "Polished Silver",
-       "default": true
+       "default": true,
+       "image": {
+        "small": "/images/catalog/google-nest-learning-thermostat-4th-gen--polished-silver-400.webp",
+        "large": "/images/catalog/google-nest-learning-thermostat-4th-gen--polished-silver-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Google Nest Learning Thermostat (4th gen) in Polished Silver, angled view with Nest Temperature Sensor"
+       }
       },
       {
-       "label": "Polished Obsidian"
+       "label": "Polished Obsidian",
+       "image": {
+        "small": "/images/catalog/google-nest-learning-thermostat-4th-gen--polished-obsidian-400.webp",
+        "large": "/images/catalog/google-nest-learning-thermostat-4th-gen--polished-obsidian-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Google Nest Learning Thermostat (4th gen) in Polished Obsidian, angled view with Nest Temperature Sensor"
+       }
       },
       {
-       "label": "Polished Gold"
+       "label": "Polished Gold",
+       "image": {
+        "small": "/images/catalog/google-nest-learning-thermostat-4th-gen--polished-gold-400.webp",
+        "large": "/images/catalog/google-nest-learning-thermostat-4th-gen--polished-gold-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Google Nest Learning Thermostat (4th gen) in Polished Gold, angled view with Nest Temperature Sensor"
+       }
       }
      ]
     }
@@ -1043,16 +1404,44 @@
      "values": [
       {
        "label": "Snow",
-       "default": true
+       "default": true,
+       "image": {
+        "small": "/images/catalog/google-nest-thermostat--snow-400.webp",
+        "large": "/images/catalog/google-nest-thermostat--snow-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Google Nest Thermostat in Snow, front view"
+       }
       },
       {
-       "label": "Sand"
+       "label": "Sand",
+       "image": {
+        "small": "/images/catalog/google-nest-thermostat--sand-400.webp",
+        "large": "/images/catalog/google-nest-thermostat--sand-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Google Nest Thermostat in Sand, front view"
+       }
       },
       {
-       "label": "Fog"
+       "label": "Fog",
+       "image": {
+        "small": "/images/catalog/google-nest-thermostat--fog-400.webp",
+        "large": "/images/catalog/google-nest-thermostat--fog-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Google Nest Thermostat in Fog, front view"
+       }
       },
       {
-       "label": "Charcoal"
+       "label": "Charcoal",
+       "image": {
+        "small": "/images/catalog/google-nest-thermostat--charcoal-400.webp",
+        "large": "/images/catalog/google-nest-thermostat--charcoal-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Google Nest Thermostat in Charcoal, front view"
+       }
       }
      ]
     }
@@ -1206,13 +1595,34 @@
      "values": [
       {
        "label": "Black",
-       "default": true
+       "default": true,
+       "image": {
+        "small": "/images/catalog/microsoft-surface-laptop-13-inch-2nd-edition--black-400.webp",
+        "large": "/images/catalog/microsoft-surface-laptop-13-inch-2nd-edition--black-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Microsoft Surface Laptop, 13-inch (2nd Edition) in Black, open front view"
+       }
       },
       {
-       "label": "Platinum"
+       "label": "Platinum",
+       "image": {
+        "small": "/images/catalog/microsoft-surface-laptop-13-inch-2nd-edition--platinum-400.webp",
+        "large": "/images/catalog/microsoft-surface-laptop-13-inch-2nd-edition--platinum-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Microsoft Surface Laptop, 13-inch (2nd Edition) in Platinum, open front view"
+       }
       },
       {
-       "label": "Violet"
+       "label": "Violet",
+       "image": {
+        "small": "/images/catalog/microsoft-surface-laptop-13-inch-2nd-edition--violet-400.webp",
+        "large": "/images/catalog/microsoft-surface-laptop-13-inch-2nd-edition--violet-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Microsoft Surface Laptop, 13-inch (2nd Edition) in Violet, open front view"
+       }
       }
      ]
     }
@@ -1293,16 +1703,44 @@
      "values": [
       {
        "label": "Jade",
-       "default": true
+       "default": true,
+       "image": {
+        "small": "/images/catalog/microsoft-surface-laptop-13-8-inch-8th-edition--jade-400.webp",
+        "large": "/images/catalog/microsoft-surface-laptop-13-8-inch-8th-edition--jade-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Microsoft Surface Laptop, 13.8-inch (8th Edition) in Jade, open front view"
+       }
       },
       {
-       "label": "Platinum"
+       "label": "Platinum",
+       "image": {
+        "small": "/images/catalog/microsoft-surface-laptop-13-8-inch-8th-edition--platinum-400.webp",
+        "large": "/images/catalog/microsoft-surface-laptop-13-8-inch-8th-edition--platinum-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Microsoft Surface Laptop, 13.8-inch (8th Edition) in Platinum, open front view"
+       }
       },
       {
-       "label": "Dune"
+       "label": "Dune",
+       "image": {
+        "small": "/images/catalog/microsoft-surface-laptop-13-8-inch-8th-edition--dune-400.webp",
+        "large": "/images/catalog/microsoft-surface-laptop-13-8-inch-8th-edition--dune-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Microsoft Surface Laptop, 13.8-inch (8th Edition) in Dune, open front view"
+       }
       },
       {
-       "label": "Black"
+       "label": "Black",
+       "image": {
+        "small": "/images/catalog/microsoft-surface-laptop-13-8-inch-8th-edition--black-400.webp",
+        "large": "/images/catalog/microsoft-surface-laptop-13-8-inch-8th-edition--black-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Microsoft Surface Laptop, 13.8-inch (8th Edition) in Black, open front view"
+       }
       }
      ]
     }
@@ -1383,10 +1821,24 @@
      "values": [
       {
        "label": "Platinum",
-       "default": true
+       "default": true,
+       "image": {
+        "small": "/images/catalog/microsoft-surface-laptop-15-inch-8th-edition--platinum-400.webp",
+        "large": "/images/catalog/microsoft-surface-laptop-15-inch-8th-edition--platinum-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Microsoft Surface Laptop, 15-inch (8th Edition) in Platinum, open front view"
+       }
       },
       {
-       "label": "Black"
+       "label": "Black",
+       "image": {
+        "small": "/images/catalog/microsoft-surface-laptop-15-inch-8th-edition--black-400.webp",
+        "large": "/images/catalog/microsoft-surface-laptop-15-inch-8th-edition--black-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Microsoft Surface Laptop, 15-inch (8th Edition) in Black, open front view"
+       }
       }
      ]
     }
@@ -1427,9 +1879,37 @@
     "npuTops": 50,
     "ports": "2x USB-C with USB4/Thunderbolt 4, USB-A 3.2, 3.5 mm jack, Surface Connect (15-inch adds microSDXC Express and optional smart card reader)",
     "wireless": "Wi-Fi 7, Bluetooth 5.4",
-    "configurations": "13.8-inch or 15-inch; 16/32/64 GB RAM; 256 GB/512 GB/1 TB removable Gen 4 SSD; optional anti-glare privacy screen (13.8-inch)"
+    "configurations": "13.8-inch or 15-inch; 16/32/64 GB RAM; 256 GB/512 GB/1 TB removable Gen 4 SSD; optional anti-glare privacy screen (13.8-inch)",
+    "colors": "Black, Platinum"
    },
-   "options": []
+   "options": [
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Black",
+       "default": true,
+       "image": {
+        "small": "/images/catalog/microsoft-surface-laptop-for-business-8th-edition-intel--black-400.webp",
+        "large": "/images/catalog/microsoft-surface-laptop-for-business-8th-edition-intel--black-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Microsoft Surface Laptop for Business, 13.8 or 15-inch (8th Edition) Intel in Black, open front view"
+       }
+      },
+      {
+       "label": "Platinum",
+       "image": {
+        "small": "/images/catalog/microsoft-surface-laptop-for-business-8th-edition-intel--platinum-400.webp",
+        "large": "/images/catalog/microsoft-surface-laptop-for-business-8th-edition-intel--platinum-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Microsoft Surface Laptop for Business, 13.8 or 15-inch (8th Edition) Intel in Platinum, open front view"
+       }
+      }
+     ]
+    }
+   ]
   },
   {
    "sku": "TK-MSFT-SURFACEPRO12-2E",
@@ -1490,13 +1970,34 @@
      "values": [
       {
        "label": "Platinum",
-       "default": true
+       "default": true,
+       "image": {
+        "small": "/images/catalog/microsoft-surface-pro-12-inch-2nd-edition--platinum-400.webp",
+        "large": "/images/catalog/microsoft-surface-pro-12-inch-2nd-edition--platinum-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Microsoft Surface Pro, 12-inch (2nd Edition) in Platinum, angled front-left view with kickstand out"
+       }
       },
       {
-       "label": "Violet"
+       "label": "Violet",
+       "image": {
+        "small": "/images/catalog/microsoft-surface-pro-12-inch-2nd-edition--violet-400.webp",
+        "large": "/images/catalog/microsoft-surface-pro-12-inch-2nd-edition--violet-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Microsoft Surface Pro, 12-inch (2nd Edition) in Violet, angled front-left view with kickstand out"
+       }
       },
       {
-       "label": "Black"
+       "label": "Black",
+       "image": {
+        "small": "/images/catalog/microsoft-surface-pro-12-inch-2nd-edition--black-400.webp",
+        "large": "/images/catalog/microsoft-surface-pro-12-inch-2nd-edition--black-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Microsoft Surface Pro, 12-inch (2nd Edition) in Black, angled front-left view with kickstand out"
+       }
       }
      ]
     }
@@ -1578,13 +2079,34 @@
      "values": [
       {
        "label": "Platinum",
-       "default": true
+       "default": true,
+       "image": {
+        "small": "/images/catalog/microsoft-surface-pro-13-inch-12th-edition--platinum-400.webp",
+        "large": "/images/catalog/microsoft-surface-pro-13-inch-12th-edition--platinum-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Microsoft Surface Pro, 13-inch (12th Edition) in Platinum, rear-left view with kickstand out"
+       }
       },
       {
-       "label": "Dune"
+       "label": "Dune",
+       "image": {
+        "small": "/images/catalog/microsoft-surface-pro-13-inch-12th-edition--dune-400.webp",
+        "large": "/images/catalog/microsoft-surface-pro-13-inch-12th-edition--dune-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Microsoft Surface Pro, 13-inch (12th Edition) in Dune, rear-left view with kickstand out"
+       }
       },
       {
-       "label": "Black"
+       "label": "Black",
+       "image": {
+        "small": "/images/catalog/microsoft-surface-pro-13-inch-12th-edition--black-400.webp",
+        "large": "/images/catalog/microsoft-surface-pro-13-inch-12th-edition--black-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Microsoft Surface Pro, 13-inch (12th Edition) in Black, rear-left view with kickstand out"
+       }
       }
      ]
     }
@@ -1626,10 +2148,24 @@
      "values": [
       {
        "label": "Black",
-       "default": true
+       "default": true,
+       "image": {
+        "small": "/images/catalog/microsoft-surface-pro-13-inch-flex-keyboard--black-400.webp",
+        "large": "/images/catalog/microsoft-surface-pro-13-inch-flex-keyboard--black-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Microsoft Surface Pro 13-inch Flex Keyboard in Black, top view"
+       }
       },
       {
-       "label": "Black with bold keyset"
+       "label": "Black with bold keyset",
+       "image": {
+        "small": "/images/catalog/microsoft-surface-pro-13-inch-flex-keyboard--black-with-bold-keyset-400.webp",
+        "large": "/images/catalog/microsoft-surface-pro-13-inch-flex-keyboard--black-with-bold-keyset-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Microsoft Surface Pro 13-inch Flex Keyboard in Black with bold keyset, top view"
+       }
       }
      ]
     }
@@ -1669,13 +2205,34 @@
      "values": [
       {
        "label": "Slate",
-       "default": true
+       "default": true,
+       "image": {
+        "small": "/images/catalog/microsoft-surface-pro-12-inch-keyboard--slate-400.webp",
+        "large": "/images/catalog/microsoft-surface-pro-12-inch-keyboard--slate-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Microsoft Surface Pro 12-inch Keyboard in Slate, top view"
+       }
       },
       {
-       "label": "Ocean"
+       "label": "Ocean",
+       "image": {
+        "small": "/images/catalog/microsoft-surface-pro-12-inch-keyboard--ocean-400.webp",
+        "large": "/images/catalog/microsoft-surface-pro-12-inch-keyboard--ocean-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Microsoft Surface Pro 12-inch Keyboard in Ocean, top view"
+       }
       },
       {
-       "label": "Violet"
+       "label": "Violet",
+       "image": {
+        "small": "/images/catalog/microsoft-surface-pro-12-inch-keyboard--violet-400.webp",
+        "large": "/images/catalog/microsoft-surface-pro-12-inch-keyboard--violet-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Microsoft Surface Pro 12-inch Keyboard in Violet, top view"
+       }
       }
      ]
     }
@@ -1743,16 +2300,44 @@
      "values": [
       {
        "label": "Violet",
-       "default": true
+       "default": true,
+       "image": {
+        "small": "/images/catalog/microsoft-surface-arc-mouse--violet-400.webp",
+        "large": "/images/catalog/microsoft-surface-arc-mouse--violet-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Microsoft Surface Arc Mouse in Violet, angled side view in its curved on position"
+       }
       },
       {
-       "label": "Ocean"
+       "label": "Ocean",
+       "image": {
+        "small": "/images/catalog/microsoft-surface-arc-mouse--ocean-400.webp",
+        "large": "/images/catalog/microsoft-surface-arc-mouse--ocean-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Microsoft Surface Arc Mouse in Ocean, angled side view in its curved on position"
+       }
       },
       {
-       "label": "Black"
+       "label": "Black",
+       "image": {
+        "small": "/images/catalog/microsoft-surface-arc-mouse--black-400.webp",
+        "large": "/images/catalog/microsoft-surface-arc-mouse--black-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Microsoft Surface Arc Mouse in Black, angled side view in its curved on position"
+       }
       },
       {
-       "label": "Light Gray"
+       "label": "Light Gray",
+       "image": {
+        "small": "/images/catalog/microsoft-surface-arc-mouse--light-gray-400.webp",
+        "large": "/images/catalog/microsoft-surface-arc-mouse--light-gray-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Microsoft Surface Arc Mouse in Light Gray, angled side view in its curved on position"
+       }
       }
      ]
     }
@@ -1793,10 +2378,24 @@
      "values": [
       {
        "label": "Black",
-       "default": true
+       "default": true,
+       "image": {
+        "small": "/images/catalog/microsoft-surface-mouse-2nd-edition--black-400.webp",
+        "large": "/images/catalog/microsoft-surface-mouse-2nd-edition--black-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Microsoft Surface Mouse (2nd Edition) in Black, angled front-right view"
+       }
       },
       {
-       "label": "Platinum"
+       "label": "Platinum",
+       "image": {
+        "small": "/images/catalog/microsoft-surface-mouse-2nd-edition--platinum-400.webp",
+        "large": "/images/catalog/microsoft-surface-mouse-2nd-edition--platinum-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Microsoft Surface Mouse (2nd Edition) in Platinum, angled front-right view"
+       }
       }
      ]
     }
@@ -2056,25 +2655,74 @@
      "values": [
       {
        "label": "Carbon Black",
-       "default": true
+       "default": true,
+       "image": {
+        "small": "/images/catalog/microsoft-xbox-wireless-controller--carbon-black-400.webp",
+        "large": "/images/catalog/microsoft-xbox-wireless-controller--carbon-black-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Microsoft Xbox Wireless Controller in Carbon Black, front view"
+       }
       },
       {
-       "label": "Robot White"
+       "label": "Robot White",
+       "image": {
+        "small": "/images/catalog/microsoft-xbox-wireless-controller--robot-white-400.webp",
+        "large": "/images/catalog/microsoft-xbox-wireless-controller--robot-white-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Microsoft Xbox Wireless Controller in Robot White, front view"
+       }
       },
       {
-       "label": "Electric Volt"
+       "label": "Electric Volt",
+       "image": {
+        "small": "/images/catalog/microsoft-xbox-wireless-controller--electric-volt-400.webp",
+        "large": "/images/catalog/microsoft-xbox-wireless-controller--electric-volt-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Microsoft Xbox Wireless Controller in Electric Volt, front view"
+       }
       },
       {
-       "label": "Shock Blue"
+       "label": "Shock Blue",
+       "image": {
+        "small": "/images/catalog/microsoft-xbox-wireless-controller--shock-blue-400.webp",
+        "large": "/images/catalog/microsoft-xbox-wireless-controller--shock-blue-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Microsoft Xbox Wireless Controller in Shock Blue, front view"
+       }
       },
       {
-       "label": "Velocity Green"
+       "label": "Velocity Green",
+       "image": {
+        "small": "/images/catalog/microsoft-xbox-wireless-controller--velocity-green-400.webp",
+        "large": "/images/catalog/microsoft-xbox-wireless-controller--velocity-green-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Microsoft Xbox Wireless Controller in Velocity Green, front view"
+       }
       },
       {
-       "label": "Deep Pink"
+       "label": "Deep Pink",
+       "image": {
+        "small": "/images/catalog/microsoft-xbox-wireless-controller--deep-pink-400.webp",
+        "large": "/images/catalog/microsoft-xbox-wireless-controller--deep-pink-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Microsoft Xbox Wireless Controller in Deep Pink, front view"
+       }
       },
       {
-       "label": "Pulse Red"
+       "label": "Pulse Red",
+       "image": {
+        "small": "/images/catalog/microsoft-xbox-wireless-controller--pulse-red-400.webp",
+        "large": "/images/catalog/microsoft-xbox-wireless-controller--pulse-red-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Microsoft Xbox Wireless Controller in Pulse Red, front view"
+       }
       }
      ]
     }

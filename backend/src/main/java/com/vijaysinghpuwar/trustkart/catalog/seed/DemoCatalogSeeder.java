@@ -282,7 +282,9 @@ public class DemoCatalogSeeder {
         List<ProductOptions.Group> groups = seed.options() == null ? List.of() : seed.options().stream()
                 .map(g -> new ProductOptions.Group(g.name(), g.values().stream()
                         .map(v -> new ProductOptions.Value(v.label(), v.price() == null ? null : money(v.price()),
-                                Boolean.TRUE.equals(v.isDefault())))
+                                Boolean.TRUE.equals(v.isDefault()), v.image() == null ? null
+                                        : new ProductOptions.Image(v.image().small(), v.image().large(), v.image().width(),
+                                                v.image().height(), v.image().alt())))
                         .toList()))
                 .toList();
         try {

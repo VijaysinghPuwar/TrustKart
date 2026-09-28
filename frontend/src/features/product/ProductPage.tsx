@@ -67,6 +67,11 @@ export default function ProductPage() {
   // The list price only describes the base configuration.
   const compareAt = price === p.price ? p.compareAtPrice : undefined
   const image = detail.images[0]
+  // A chosen option with its own photo (e.g. a colour) replaces the main photo; the credit stays the product's.
+  const optionImage = groups
+    .map((g) => g.values.find((v) => v.label === selection[g.name])?.image)
+    .find((img) => img !== undefined)
+  const shownImage = optionImage ? { ...optionImage, match: image?.match ?? 'EXACT' } : image
   const available = p.maxQuantity > 0
   const note = image ? MATCH_NOTE[image.match] : null
 
@@ -90,7 +95,8 @@ export default function ProductPage() {
         <figure className="flex flex-col gap-2 md:sticky md:top-40">
           <div className="tk-img-well flex aspect-square items-center justify-center rounded-card border border-border bg-surface-2 p-6">
             <ProductImage
-              image={image}
+              key={shownImage?.large}
+              image={shownImage}
               priority
               sizes="(max-width: 768px) 100vw, 600px"
               className="max-h-full"

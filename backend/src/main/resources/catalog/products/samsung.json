@@ -65,22 +65,64 @@
      "values": [
       {
        "label": "Cobalt Violet",
-       "default": true
+       "default": true,
+       "image": {
+        "small": "/images/catalog/samsung-galaxy-s26-ultra--cobalt-violet-400.webp",
+        "large": "/images/catalog/samsung-galaxy-s26-ultra--cobalt-violet-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Samsung Galaxy S26 Ultra in Cobalt Violet, official Samsung product photo"
+       }
       },
       {
-       "label": "Black"
+       "label": "Black",
+       "image": {
+        "small": "/images/catalog/samsung-galaxy-s26-ultra--black-400.webp",
+        "large": "/images/catalog/samsung-galaxy-s26-ultra--black-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Samsung Galaxy S26 Ultra in Black, official Samsung product photo"
+       }
       },
       {
-       "label": "White"
+       "label": "White",
+       "image": {
+        "small": "/images/catalog/samsung-galaxy-s26-ultra--white-400.webp",
+        "large": "/images/catalog/samsung-galaxy-s26-ultra--white-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Samsung Galaxy S26 Ultra in White, official Samsung product photo"
+       }
       },
       {
-       "label": "Sky Blue"
+       "label": "Sky Blue",
+       "image": {
+        "small": "/images/catalog/samsung-galaxy-s26-ultra--sky-blue-400.webp",
+        "large": "/images/catalog/samsung-galaxy-s26-ultra--sky-blue-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Samsung Galaxy S26 Ultra in Sky Blue, official Samsung product photo"
+       }
       },
       {
-       "label": "Pink Gold"
+       "label": "Pink Gold",
+       "image": {
+        "small": "/images/catalog/samsung-galaxy-s26-ultra--pink-gold-400.webp",
+        "large": "/images/catalog/samsung-galaxy-s26-ultra--pink-gold-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Samsung Galaxy S26 Ultra in Pink Gold, official Samsung product photo"
+       }
       },
       {
-       "label": "Silver Shadow"
+       "label": "Silver Shadow",
+       "image": {
+        "small": "/images/catalog/samsung-galaxy-s26-ultra--silver-shadow-400.webp",
+        "large": "/images/catalog/samsung-galaxy-s26-ultra--silver-shadow-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Samsung Galaxy S26 Ultra in Silver Shadow, official Samsung product photo"
+       }
       }
      ]
     }
@@ -147,22 +189,64 @@
      "values": [
       {
        "label": "Cobalt Violet",
-       "default": true
+       "default": true,
+       "image": {
+        "small": "/images/catalog/samsung-galaxy-s26-plus--cobalt-violet-400.webp",
+        "large": "/images/catalog/samsung-galaxy-s26-plus--cobalt-violet-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Samsung Galaxy S26+ in Cobalt Violet, official Samsung product photo"
+       }
       },
       {
-       "label": "Black"
+       "label": "Black",
+       "image": {
+        "small": "/images/catalog/samsung-galaxy-s26-plus--black-400.webp",
+        "large": "/images/catalog/samsung-galaxy-s26-plus--black-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Samsung Galaxy S26+ in Black, official Samsung product photo"
+       }
       },
       {
-       "label": "White"
+       "label": "White",
+       "image": {
+        "small": "/images/catalog/samsung-galaxy-s26-plus--white-400.webp",
+        "large": "/images/catalog/samsung-galaxy-s26-plus--white-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Samsung Galaxy S26+ in White, official Samsung product photo"
+       }
       },
       {
-       "label": "Sky Blue"
+       "label": "Sky Blue",
+       "image": {
+        "small": "/images/catalog/samsung-galaxy-s26-plus--sky-blue-400.webp",
+        "large": "/images/catalog/samsung-galaxy-s26-plus--sky-blue-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Samsung Galaxy S26+ in Sky Blue, official Samsung product photo"
+       }
       },
       {
-       "label": "Pink Gold"
+       "label": "Pink Gold",
+       "image": {
+        "small": "/images/catalog/samsung-galaxy-s26-plus--pink-gold-400.webp",
+        "large": "/images/catalog/samsung-galaxy-s26-plus--pink-gold-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Samsung Galaxy S26+ in Pink Gold, official Samsung product photo"
+       }
       },
       {
-       "label": "Silver Shadow"
+       "label": "Silver Shadow",
+       "image": {
+        "small": "/images/catalog/samsung-galaxy-s26-plus--silver-shadow-400.webp",
+        "large": "/images/catalog/samsung-galaxy-s26-plus--silver-shadow-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Samsung Galaxy S26+ in Silver Shadow, official Samsung product photo"
+       }
       }
      ]
     }
@@ -229,22 +313,64 @@
      "values": [
       {
        "label": "Cobalt Violet",
-       "default": true
+       "default": true,
+       "image": {
+        "small": "/images/catalog/samsung-galaxy-s26--cobalt-violet-400.webp",
+        "large": "/images/catalog/samsung-galaxy-s26--cobalt-violet-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Samsung Galaxy S26 in Cobalt Violet, official Samsung product photo"
+       }
       },
       {
-       "label": "Black"
+       "label": "Black",
+       "image": {
+        "small": "/images/catalog/samsung-galaxy-s26--black-400.webp",
+        "large": "/images/catalog/samsung-galaxy-s26--black-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Samsung Galaxy S26 in Black, official Samsung product photo"
+       }
       },
       {
-       "label": "White"
+       "label": "White",
+       "image": {
+        "small": "/images/catalog/samsung-galaxy-s26--white-400.webp",
+        "large": "/images/catalog/samsung-galaxy-s26--white-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Samsung Galaxy S26 in White, official Samsung product photo"
+       }
       },
       {
-       "label": "Sky Blue"
+       "label": "Sky Blue",
+       "image": {
+        "small": "/images/catalog/samsung-galaxy-s26--sky-blue-400.webp",
+        "large": "/images/catalog/samsung-galaxy-s26--sky-blue-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Samsung Galaxy S26 in Sky Blue, official Samsung product photo"
+       }
       },
       {
-       "label": "Pink Gold"
+       "label": "Pink Gold",
+       "image": {
+        "small": "/images/catalog/samsung-galaxy-s26--pink-gold-400.webp",
+        "large": "/images/catalog/samsung-galaxy-s26--pink-gold-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Samsung Galaxy S26 in Pink Gold, official Samsung product photo"
+       }
       },
       {
-       "label": "Silver Shadow"
+       "label": "Silver Shadow",
+       "image": {
+        "small": "/images/catalog/samsung-galaxy-s26--silver-shadow-400.webp",
+        "large": "/images/catalog/samsung-galaxy-s26--silver-shadow-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Samsung Galaxy S26 in Silver Shadow, official Samsung product photo"
+       }
       }
      ]
     }
@@ -310,13 +436,34 @@
      "values": [
       {
        "label": "Blueberry",
-       "default": true
+       "default": true,
+       "image": {
+        "small": "/images/catalog/samsung-galaxy-s26-fe--blueberry-400.webp",
+        "large": "/images/catalog/samsung-galaxy-s26-fe--blueberry-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Samsung Galaxy S26 FE in Blueberry, official Samsung product photo"
+       }
       },
       {
-       "label": "Graphite"
+       "label": "Graphite",
+       "image": {
+        "small": "/images/catalog/samsung-galaxy-s26-fe--graphite-400.webp",
+        "large": "/images/catalog/samsung-galaxy-s26-fe--graphite-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Samsung Galaxy S26 FE in Graphite, official Samsung product photo"
+       }
       },
       {
-       "label": "Pistachio"
+       "label": "Pistachio",
+       "image": {
+        "small": "/images/catalog/samsung-galaxy-s26-fe--pistachio-400.webp",
+        "large": "/images/catalog/samsung-galaxy-s26-fe--pistachio-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Samsung Galaxy S26 FE in Pistachio, official Samsung product photo"
+       }
       }
      ]
     }
@@ -379,13 +526,34 @@
      "values": [
       {
        "label": "Awesome Navy",
-       "default": true
+       "default": true,
+       "image": {
+        "small": "/images/catalog/samsung-galaxy-a57-5g--awesome-navy-400.webp",
+        "large": "/images/catalog/samsung-galaxy-a57-5g--awesome-navy-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Samsung Galaxy A57 5G in Awesome Navy, official Samsung product photo"
+       }
       },
       {
-       "label": "Awesome Icyblue"
+       "label": "Awesome Icyblue",
+       "image": {
+        "small": "/images/catalog/samsung-galaxy-a57-5g--awesome-icyblue-400.webp",
+        "large": "/images/catalog/samsung-galaxy-a57-5g--awesome-icyblue-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Samsung Galaxy A57 5G in Awesome Icyblue, official Samsung product photo"
+       }
       },
       {
-       "label": "Awesome Gray"
+       "label": "Awesome Gray",
+       "image": {
+        "small": "/images/catalog/samsung-galaxy-a57-5g--awesome-gray-400.webp",
+        "large": "/images/catalog/samsung-galaxy-a57-5g--awesome-gray-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Samsung Galaxy A57 5G in Awesome Gray, official Samsung product photo"
+       }
       }
      ]
     }
@@ -447,10 +615,24 @@
      "values": [
       {
        "label": "Awesome Charcoal",
-       "default": true
+       "default": true,
+       "image": {
+        "small": "/images/catalog/samsung-galaxy-a37-5g--awesome-charcoal-400.webp",
+        "large": "/images/catalog/samsung-galaxy-a37-5g--awesome-charcoal-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Samsung Galaxy A37 5G in Awesome Charcoal, official Samsung product photo"
+       }
       },
       {
-       "label": "Awesome Lavender"
+       "label": "Awesome Lavender",
+       "image": {
+        "small": "/images/catalog/samsung-galaxy-a37-5g--awesome-lavender-400.webp",
+        "large": "/images/catalog/samsung-galaxy-a37-5g--awesome-lavender-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Samsung Galaxy A37 5G in Awesome Lavender, official Samsung product photo"
+       }
       }
      ]
     }
@@ -522,16 +704,44 @@
      "values": [
       {
        "label": "Violet Shadow",
-       "default": true
+       "default": true,
+       "image": {
+        "small": "/images/catalog/samsung-galaxy-z-fold8-ultra--violet-shadow-400.webp",
+        "large": "/images/catalog/samsung-galaxy-z-fold8-ultra--violet-shadow-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Samsung Galaxy Z Fold8 Ultra in Violet Shadow, official Samsung product photo"
+       }
       },
       {
-       "label": "Graphite"
+       "label": "Graphite",
+       "image": {
+        "small": "/images/catalog/samsung-galaxy-z-fold8-ultra--graphite-400.webp",
+        "large": "/images/catalog/samsung-galaxy-z-fold8-ultra--graphite-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Samsung Galaxy Z Fold8 Ultra in Graphite, official Samsung product photo"
+       }
       },
       {
-       "label": "Cream"
+       "label": "Cream",
+       "image": {
+        "small": "/images/catalog/samsung-galaxy-z-fold8-ultra--cream-400.webp",
+        "large": "/images/catalog/samsung-galaxy-z-fold8-ultra--cream-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Samsung Galaxy Z Fold8 Ultra in Cream, official Samsung product photo"
+       }
       },
       {
-       "label": "Green Shadow"
+       "label": "Green Shadow",
+       "image": {
+        "small": "/images/catalog/samsung-galaxy-z-fold8-ultra--green-shadow-400.webp",
+        "large": "/images/catalog/samsung-galaxy-z-fold8-ultra--green-shadow-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Samsung Galaxy Z Fold8 Ultra in Green Shadow, official Samsung product photo"
+       }
       }
      ]
     }
@@ -603,16 +813,44 @@
      "values": [
       {
        "label": "Graphite",
-       "default": true
+       "default": true,
+       "image": {
+        "small": "/images/catalog/samsung-galaxy-z-fold8--graphite-400.webp",
+        "large": "/images/catalog/samsung-galaxy-z-fold8--graphite-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Samsung Galaxy Z Fold8 in Graphite, official Samsung product photo"
+       }
       },
       {
-       "label": "Cream"
+       "label": "Cream",
+       "image": {
+        "small": "/images/catalog/samsung-galaxy-z-fold8--cream-400.webp",
+        "large": "/images/catalog/samsung-galaxy-z-fold8--cream-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Samsung Galaxy Z Fold8 in Cream, official Samsung product photo"
+       }
       },
       {
-       "label": "Lavender"
+       "label": "Lavender",
+       "image": {
+        "small": "/images/catalog/samsung-galaxy-z-fold8--lavender-400.webp",
+        "large": "/images/catalog/samsung-galaxy-z-fold8--lavender-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Samsung Galaxy Z Fold8 in Lavender, official Samsung product photo"
+       }
       },
       {
-       "label": "Pistachio"
+       "label": "Pistachio",
+       "image": {
+        "small": "/images/catalog/samsung-galaxy-z-fold8--pistachio-400.webp",
+        "large": "/images/catalog/samsung-galaxy-z-fold8--pistachio-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Samsung Galaxy Z Fold8 in Pistachio, official Samsung product photo"
+       }
       }
      ]
     }
@@ -680,16 +918,44 @@
      "values": [
       {
        "label": "Graphite",
-       "default": true
+       "default": true,
+       "image": {
+        "small": "/images/catalog/samsung-galaxy-z-flip8--graphite-400.webp",
+        "large": "/images/catalog/samsung-galaxy-z-flip8--graphite-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Samsung Galaxy Z Flip8 in Graphite, official Samsung product photo"
+       }
       },
       {
-       "label": "Cream"
+       "label": "Cream",
+       "image": {
+        "small": "/images/catalog/samsung-galaxy-z-flip8--cream-400.webp",
+        "large": "/images/catalog/samsung-galaxy-z-flip8--cream-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Samsung Galaxy Z Flip8 in Cream, official Samsung product photo"
+       }
       },
       {
-       "label": "Pink"
+       "label": "Pink",
+       "image": {
+        "small": "/images/catalog/samsung-galaxy-z-flip8--pink-400.webp",
+        "large": "/images/catalog/samsung-galaxy-z-flip8--pink-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Samsung Galaxy Z Flip8 in Pink, official Samsung product photo"
+       }
       },
       {
-       "label": "Mint"
+       "label": "Mint",
+       "image": {
+        "small": "/images/catalog/samsung-galaxy-z-flip8--mint-400.webp",
+        "large": "/images/catalog/samsung-galaxy-z-flip8--mint-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Samsung Galaxy Z Flip8 in Mint, official Samsung product photo"
+       }
       }
      ]
     }
@@ -754,10 +1020,24 @@
      "values": [
       {
        "label": "Gray",
-       "default": true
+       "default": true,
+       "image": {
+        "small": "/images/catalog/samsung-galaxy-tab-s11-ultra--gray-400.webp",
+        "large": "/images/catalog/samsung-galaxy-tab-s11-ultra--gray-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Samsung Galaxy Tab S11 Ultra in Gray, official Samsung product photo"
+       }
       },
       {
-       "label": "Silver"
+       "label": "Silver",
+       "image": {
+        "small": "/images/catalog/samsung-galaxy-tab-s11-ultra--silver-400.webp",
+        "large": "/images/catalog/samsung-galaxy-tab-s11-ultra--silver-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Samsung Galaxy Tab S11 Ultra in Silver, official Samsung product photo"
+       }
       }
      ]
     }
@@ -822,10 +1102,24 @@
      "values": [
       {
        "label": "Gray",
-       "default": true
+       "default": true,
+       "image": {
+        "small": "/images/catalog/samsung-galaxy-tab-s11--gray-400.webp",
+        "large": "/images/catalog/samsung-galaxy-tab-s11--gray-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Samsung Galaxy Tab S11 in Gray, official Samsung product photo"
+       }
       },
       {
-       "label": "Silver"
+       "label": "Silver",
+       "image": {
+        "small": "/images/catalog/samsung-galaxy-tab-s11--silver-400.webp",
+        "large": "/images/catalog/samsung-galaxy-tab-s11--silver-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Samsung Galaxy Tab S11 in Silver, official Samsung product photo"
+       }
       }
      ]
     }
@@ -871,13 +1165,34 @@
      "values": [
       {
        "label": "Blue",
-       "default": true
+       "default": true,
+       "image": {
+        "small": "/images/catalog/samsung-galaxy-tab-s10-fe-plus--blue-400.webp",
+        "large": "/images/catalog/samsung-galaxy-tab-s10-fe-plus--blue-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Samsung Galaxy Tab S10 FE+ in Blue, official Samsung product photo"
+       }
       },
       {
-       "label": "Gray"
+       "label": "Gray",
+       "image": {
+        "small": "/images/catalog/samsung-galaxy-tab-s10-fe-plus--gray-400.webp",
+        "large": "/images/catalog/samsung-galaxy-tab-s10-fe-plus--gray-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Samsung Galaxy Tab S10 FE+ in Gray, official Samsung product photo"
+       }
       },
       {
-       "label": "Silver"
+       "label": "Silver",
+       "image": {
+        "small": "/images/catalog/samsung-galaxy-tab-s10-fe-plus--silver-400.webp",
+        "large": "/images/catalog/samsung-galaxy-tab-s10-fe-plus--silver-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Samsung Galaxy Tab S10 FE+ in Silver, official Samsung product photo"
+       }
       }
      ]
     }
@@ -923,10 +1238,24 @@
      "values": [
       {
        "label": "Titanium Silver",
-       "default": true
+       "default": true,
+       "image": {
+        "small": "/images/catalog/samsung-galaxy-watch-ultra2--titanium-silver-400.webp",
+        "large": "/images/catalog/samsung-galaxy-watch-ultra2--titanium-silver-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Samsung Galaxy Watch Ultra2 in Titanium Silver, official Samsung product photo"
+       }
       },
       {
-       "label": "Titanium Gray"
+       "label": "Titanium Gray",
+       "image": {
+        "small": "/images/catalog/samsung-galaxy-watch-ultra2--titanium-gray-400.webp",
+        "large": "/images/catalog/samsung-galaxy-watch-ultra2--titanium-gray-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Samsung Galaxy Watch Ultra2 in Titanium Gray, official Samsung product photo"
+       }
       }
      ]
     }
@@ -995,13 +1324,34 @@
      "values": [
       {
        "label": "Graphite",
-       "default": true
+       "default": true,
+       "image": {
+        "small": "/images/catalog/samsung-galaxy-watch9--graphite-400.webp",
+        "large": "/images/catalog/samsung-galaxy-watch9--graphite-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Samsung Galaxy Watch9 in Graphite, official Samsung product photo"
+       }
       },
       {
-       "label": "Cream (40 mm)"
+       "label": "Cream (40 mm)",
+       "image": {
+        "small": "/images/catalog/samsung-galaxy-watch9--cream-40-mm-400.webp",
+        "large": "/images/catalog/samsung-galaxy-watch9--cream-40-mm-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Samsung Galaxy Watch9 in Cream (40 mm), official Samsung product photo"
+       }
       },
       {
-       "label": "Silver (44 mm)"
+       "label": "Silver (44 mm)",
+       "image": {
+        "small": "/images/catalog/samsung-galaxy-watch9--silver-44-mm-400.webp",
+        "large": "/images/catalog/samsung-galaxy-watch9--silver-44-mm-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Samsung Galaxy Watch9 in Silver (44 mm), official Samsung product photo"
+       }
       }
      ]
     }
@@ -1061,10 +1411,24 @@
      "values": [
       {
        "label": "Black",
-       "default": true
+       "default": true,
+       "image": {
+        "small": "/images/catalog/samsung-galaxy-watch8-classic--black-400.webp",
+        "large": "/images/catalog/samsung-galaxy-watch8-classic--black-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Samsung Galaxy Watch8 Classic in Black, official Samsung product photo"
+       }
       },
       {
-       "label": "White"
+       "label": "White",
+       "image": {
+        "small": "/images/catalog/samsung-galaxy-watch8-classic--white-400.webp",
+        "large": "/images/catalog/samsung-galaxy-watch8-classic--white-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Samsung Galaxy Watch8 Classic in White, official Samsung product photo"
+       }
       }
      ]
     }
@@ -1106,13 +1470,34 @@
      "values": [
       {
        "label": "Titanium Silver",
-       "default": true
+       "default": true,
+       "image": {
+        "small": "/images/catalog/samsung-galaxy-ring--titanium-silver-400.webp",
+        "large": "/images/catalog/samsung-galaxy-ring--titanium-silver-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Samsung Galaxy Ring in Titanium Silver, official Samsung product photo"
+       }
       },
       {
-       "label": "Titanium Black"
+       "label": "Titanium Black",
+       "image": {
+        "small": "/images/catalog/samsung-galaxy-ring--titanium-black-400.webp",
+        "large": "/images/catalog/samsung-galaxy-ring--titanium-black-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Samsung Galaxy Ring in Titanium Black, official Samsung product photo"
+       }
       },
       {
-       "label": "Titanium Gold"
+       "label": "Titanium Gold",
+       "image": {
+        "small": "/images/catalog/samsung-galaxy-ring--titanium-gold-400.webp",
+        "large": "/images/catalog/samsung-galaxy-ring--titanium-gold-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Samsung Galaxy Ring in Titanium Gold, official Samsung product photo"
+       }
       }
      ]
     }
@@ -1157,13 +1542,34 @@
      "values": [
       {
        "label": "White",
-       "default": true
+       "default": true,
+       "image": {
+        "small": "/images/catalog/samsung-galaxy-buds4-pro--white-400.webp",
+        "large": "/images/catalog/samsung-galaxy-buds4-pro--white-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Samsung Galaxy Buds4 Pro in White, official Samsung product photo"
+       }
       },
       {
-       "label": "Black"
+       "label": "Black",
+       "image": {
+        "small": "/images/catalog/samsung-galaxy-buds4-pro--black-400.webp",
+        "large": "/images/catalog/samsung-galaxy-buds4-pro--black-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Samsung Galaxy Buds4 Pro in Black, official Samsung product photo"
+       }
       },
       {
-       "label": "Pink Gold"
+       "label": "Pink Gold",
+       "image": {
+        "small": "/images/catalog/samsung-galaxy-buds4-pro--pink-gold-400.webp",
+        "large": "/images/catalog/samsung-galaxy-buds4-pro--pink-gold-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Samsung Galaxy Buds4 Pro in Pink Gold, official Samsung product photo"
+       }
       }
      ]
     }
@@ -1208,10 +1614,24 @@
      "values": [
       {
        "label": "White",
-       "default": true
+       "default": true,
+       "image": {
+        "small": "/images/catalog/samsung-galaxy-buds4--white-400.webp",
+        "large": "/images/catalog/samsung-galaxy-buds4--white-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Samsung Galaxy Buds4 in White, official Samsung product photo"
+       }
       },
       {
-       "label": "Black"
+       "label": "Black",
+       "image": {
+        "small": "/images/catalog/samsung-galaxy-buds4--black-400.webp",
+        "large": "/images/catalog/samsung-galaxy-buds4--black-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Samsung Galaxy Buds4 in Black, official Samsung product photo"
+       }
       }
      ]
     }
@@ -1256,10 +1676,24 @@
      "values": [
       {
        "label": "Gray",
-       "default": true
+       "default": true,
+       "image": {
+        "small": "/images/catalog/samsung-galaxy-buds3-fe--gray-400.webp",
+        "large": "/images/catalog/samsung-galaxy-buds3-fe--gray-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Samsung Galaxy Buds3 FE in Gray, official Samsung product photo"
+       }
       },
       {
-       "label": "Black"
+       "label": "Black",
+       "image": {
+        "small": "/images/catalog/samsung-galaxy-buds3-fe--black-400.webp",
+        "large": "/images/catalog/samsung-galaxy-buds3-fe--black-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Samsung Galaxy Buds3 FE in Black, official Samsung product photo"
+       }
       }
      ]
     }

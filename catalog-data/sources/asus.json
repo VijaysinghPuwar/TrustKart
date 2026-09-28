@@ -117,13 +117,33 @@
         "retrievedAt": "2026-09-28"
       },
       "image": {
-        "url": "https://eshop.asus.com/media/catalog/product/z/e/zenbook_a14_ux3407na_product_photo_2d_zabriskie_beige_10.jpg",
-        "page": "https://eshop.asus.com/us/90nb1711-m008x0-asus-zenbook-a14-ux3407-copilot-pc.html",
+        "url": "https://dlcdnwebimgs.asus.com/gain/b6b6f94f-424e-478e-a3e7-b76ab772061e/w1600",
+        "page": "https://www.asus.com/us/laptops/for-home/zenbook/asus-zenbook-a14-ux3407/",
         "sourceType": "manufacturer-product-page",
-        "rights": "Official ASUS eShop (US) product image; ASUS has not granted a general reuse license — rights not verified.",
+        "rights": "Official ASUS product-page gallery image (dlcdnwebimgs.asus.com); ASUS has not granted a general reuse license — rights not verified.",
         "credit": "ASUS",
-        "alt": "ASUS Zenbook A14 UX3407 in Zabriskie Beige, open laptop at an angle showing the keyboard and OLED screen",
+        "alt": "ASUS Zenbook A14 UX3407 in Iceland Gray, open laptop at a front-left angle showing the keyboard and OLED screen",
         "match": "PRODUCT_LINE"
+      },
+      "colorImages": {
+        "Iceland Gray": {
+          "url": "https://dlcdnwebimgs.asus.com/gain/b6b6f94f-424e-478e-a3e7-b76ab772061e/w1600",
+          "page": "https://www.asus.com/us/laptops/for-home/zenbook/asus-zenbook-a14-ux3407/",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official ASUS product-page gallery image (dlcdnwebimgs.asus.com); ASUS has not granted a general reuse license — rights not verified.",
+          "credit": "ASUS",
+          "alt": "ASUS Zenbook A14 UX3407 in Iceland Gray, open laptop at a front-left angle showing the keyboard and OLED screen",
+          "match": "PRODUCT_LINE"
+        },
+        "Zabriskie Beige": {
+          "url": "https://dlcdnwebimgs.asus.com/gain/7baee8a2-ac71-4d48-a04f-8cd121fedbf0/w1600",
+          "page": "https://www.asus.com/us/laptops/for-home/zenbook/asus-zenbook-a14-ux3407/",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official ASUS product-page gallery image (dlcdnwebimgs.asus.com); ASUS has not granted a general reuse license — rights not verified.",
+          "credit": "ASUS",
+          "alt": "ASUS Zenbook A14 UX3407 in Zabriskie Beige, open laptop at a front-left angle showing the keyboard and OLED screen",
+          "match": "PRODUCT_LINE"
+        }
       }
     },
     {

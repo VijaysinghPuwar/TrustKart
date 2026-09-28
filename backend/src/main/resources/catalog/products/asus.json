@@ -115,10 +115,24 @@
      "values": [
       {
        "label": "Iceland Gray",
-       "default": true
+       "default": true,
+       "image": {
+        "small": "/images/catalog/asus-zenbook-a14-ux3407--iceland-gray-400.webp",
+        "large": "/images/catalog/asus-zenbook-a14-ux3407--iceland-gray-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "ASUS Zenbook A14 UX3407 in Iceland Gray, open laptop at a front-left angle showing the keyboard and OLED screen"
+       }
       },
       {
-       "label": "Zabriskie Beige"
+       "label": "Zabriskie Beige",
+       "image": {
+        "small": "/images/catalog/asus-zenbook-a14-ux3407--zabriskie-beige-400.webp",
+        "large": "/images/catalog/asus-zenbook-a14-ux3407--zabriskie-beige-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "ASUS Zenbook A14 UX3407 in Zabriskie Beige, open laptop at a front-left angle showing the keyboard and OLED screen"
+       }
       }
      ]
     }
