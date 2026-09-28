@@ -1,98 +1,196 @@
+<div align="center">
+
+<img src="frontend/public/brand/trustkart-mark-136.webp" alt="TrustKart logo" width="84" />
+
 # TrustKart
 
 **Shop everything. Spend nothing.**
 
-TrustKart is an online technology store that looks and works like a real one. You can browse over a thousand
-products, from iPhones and gaming laptops to GPUs and rack servers, fill a cart and check out. Instead of a card
-you pay with a **TrustKart Wallet** full of virtual money, so nothing real is ever charged or shipped.
+A full-stack technology store that works like the real thing, paid for with a virtual wallet.
 
-🔗 **Live site: [trustkart-xi.vercel.app](https://trustkart-xi.vercel.app)**
+[**Open the live store**](https://trustkart-xi.vercel.app) &nbsp;·&nbsp; [Architecture](#architecture) &nbsp;·&nbsp; [Run it locally](#run-it-locally) &nbsp;·&nbsp; [Deployment guide](docs/DEPLOYMENT.md)
 
----
+![Java](https://img.shields.io/badge/Java-21-E76F00?logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-4-6DB33F?logo=springboot&logoColor=white)
+![React](https://img.shields.io/badge/React-19-61DAFB?logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-6-3178C6?logo=typescript&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-17-4169E1?logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-4-06B6D4?logo=tailwindcss&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?logo=render&logoColor=black)
 
-## What you can do
+</div>
 
-- **Browse 1,192 real products** across 18 departments (phones, laptops, PC parts, servers, networking, TVs,
-  cameras, smart home and more), each with an official product photo and full specs.
-- **Search like you talk.** Type "gaming laptop under $2000" and the store understands the budget and category.
-- **Pick your configuration.** Choose storage, colour or model and watch the price update, just like on Apple's
-  or Samsung's site.
-- **Check out in four steps** (cart, delivery, payment, review) with a saved address book.
-- **Track your order** through a seven-day delivery timeline, from "Order placed" to "Delivered", with a
-  tracking number and shipment history. Cancel before it ships, or return it within 30 days.
-- **Get notified.** A bell in the header tells you when an order ships, goes out for delivery and arrives.
-- **Build a collection.** Everything you buy lands in *My Collection*, valued at today's prices.
-- **Unlock 76 achievements**, from *First purchase* to *Centibillionaire* (spend $100 billion), with bronze,
-  silver, gold, platinum and legendary tiers.
-- **Compare products** side by side, keep wishlists, and switch between light and dark mode.
-- **Sign in with email or Google**, or just shop as a guest; your cart follows you when you sign in.
+> **First visit may take about a minute.** The server runs on a free plan that sleeps when idle and wakes on the
+> first request.
 
-## How it's built
+## Contents
 
-| Part | Technology |
+- [What it is](#what-it-is)
+- [Features](#features)
+- [Architecture](#architecture)
+- [Tech stack](#tech-stack)
+- [Run it locally](#run-it-locally)
+- [Testing](#testing)
+- [Project layout](#project-layout)
+- [Documentation](#documentation)
+
+## What it is
+
+TrustKart is an online electronics store with **1,260+ real products** from **128 brands** across **18
+departments**, from iPhones and gaming laptops to GPUs and rack servers. Everything works like a real store:
+search, product options, cart, checkout, order tracking and notifications.
+
+The difference: every visitor gets a **TrustKart Wallet with $100,000 of virtual money**. Nothing is charged and
+nothing ships, so anyone can try the full shopping experience safely.
+
+## Features
+
+| | |
 |---|---|
-| Website | React 19, TypeScript, Vite, Tailwind CSS, TanStack Query |
-| Server | Java 21, Spring Boot 4, Spring Security |
-| Data | PostgreSQL 17 (full-text search, pgvector), Redis |
-| Testing | JUnit, Testcontainers, Vitest, Playwright, a load/stress test script |
-| Hosting | Vercel (website) + a container host (server) |
+| 🛍️ **Catalog** | 1,260+ products with official manufacturer photos, full spec sheets and filters by brand, price and specs |
+| 🔎 **Search** | Understands phrases like "gaming laptop under $2000" (budget, category and keywords) |
+| 🎨 **Product options** | Pick storage, colour or configuration; the price and photo update instantly |
+| 🛒 **Cart and checkout** | Four-step checkout (cart, delivery, payment, review) with a saved address book |
+| 🚚 **Order tracking** | A seven-day delivery timeline with a tracking number; cancel before it ships, return within 30 days |
+| 🔔 **Notifications** | A bell that alerts you when an order ships, goes out for delivery and arrives |
+| 🏆 **Achievements** | 76 goals from *First purchase* to *Centibillionaire* ($100 billion spent), bronze to legendary |
+| 🔐 **Accounts** | Email sign-up (Google sign-in is built in and turns on once configured); shop as a guest and your cart follows you when you sign in |
+| 🌗 **Design** | Light and dark themes, works on phones, keyboard and screen-reader friendly |
 
-A few things worth knowing:
+## Architecture
 
-- **Prices always come from the server.** The browser only ever sends product IDs and quantities, so no one can
-  change a price by editing a request.
-- **Checkout is safe under pressure.** Stock is reserved atomically, double-clicking "Place order" never creates
-  two orders, and two shoppers can't buy the last unit twice. A stress test runs 100 simultaneous checkouts and
-  then checks that the wallet ledger, stock and order records all still add up.
-- **Security is built in**: Argon2 password hashing, short-lived session tokens in secure cookies, CSRF
-  protection, rate limiting, account lockout and a strict Content Security Policy.
+### How the pieces connect
 
-## Run it on your computer
+The website is static files on **Vercel**. Every request to `/api/...` is forwarded to the **Spring Boot** server on
+**Render**, so the browser only ever talks to one address and login cookies stay private to it.
+
+```mermaid
+flowchart LR
+    U([Shopper's browser]) -->|pages, images| V[Vercel CDN<br/>React website]
+    U -->|/api/* requests| V
+    V -->|forwards /api/*| A[Render<br/>Spring Boot API]
+    A --> P[(PostgreSQL 17<br/>products, orders, wallets)]
+    A -.->|optional| R[(Redis<br/>rate limits, sessions)]
+    A -.->|sign-in| G[Google OAuth]
+```
+
+### Inside the server
+
+The API is one Spring Boot application split into feature modules. Each module owns its own tables.
+
+```mermaid
+flowchart TB
+    subgraph API[Spring Boot API]
+        direction TB
+        SEC[Security<br/>JWT cookies, CSRF, rate limits, Google sign-in]
+        subgraph SHOP[Shopping]
+            CAT[Catalog and search]
+            CART[Cart and wishlist]
+            CHK[Checkout]
+            WAL[Wallet ledger]
+        end
+        subgraph AFTER[After the order]
+            ORD[Orders and tracking]
+            NOT[Notifications]
+            COL[Collection and achievements]
+        end
+    end
+    SEC --> SHOP
+    CHK --> WAL
+    CHK --> ORD
+    ORD --> NOT
+    ORD --> COL
+    SHOP --> DB[(PostgreSQL)]
+    ORD --> DB
+```
+
+### What happens when you place an order
+
+Checkout is one database transaction. The server re-prices everything itself, so a browser can never change a
+price, and a double click can never create two orders.
+
+```mermaid
+sequenceDiagram
+    participant B as Browser
+    participant A as API
+    participant D as Database
+    B->>A: Place order (with a one-time order key)
+    A->>D: Lock the wallet
+    A->>D: Same key used before? Return that order instead
+    A->>D: Re-price every item from the catalog
+    A->>D: Reserve stock (in a fixed order, so orders never deadlock)
+    A->>D: Debit the wallet, save the order, empty the cart
+    A-->>B: Order confirmed + tracking number
+```
+
+Order tracking is calculated from the order time, not stored, so it can never fall out of sync:
+
+`Placed` → `Processing` → `Packed` → `Shipped` → `In transit` → `Local facility` → `Out for delivery` → `Delivered` (day 7)
+
+## Tech stack
+
+| Layer | Tools |
+|---|---|
+| **Website** | React 19, TypeScript, Vite, Tailwind CSS 4, TanStack Query, React Router |
+| **Server** | Java 21, Spring Boot 4, Spring Security, Spring Data JPA, Flyway |
+| **Data** | PostgreSQL 17 (full-text search, JSONB specs), Redis (Bucket4j rate limiting) |
+| **Security** | Argon2id passwords, rotating refresh tokens in HttpOnly cookies, CSRF protection, strict Content Security Policy |
+| **Testing** | JUnit 5, Testcontainers, Vitest, Playwright, a Python stress test |
+| **Hosting** | Vercel (website), Render (API + database), GitHub Actions (CI) |
+
+## Run it locally
 
 You need **Docker**, **Java 21** and **Node.js 22**.
 
 ```bash
-# 1. Start the database and Redis
-cp .env.example .env          # then fill in the values (the file explains each one)
+# 1. Database and Redis
+cp .env.example .env              # fill in the values; the file explains each one
 docker compose up -d
 
-# 2. Start the server (loads the product catalog on first run)
-set -a; source .env; set +a   # make the settings visible to the server
-cd backend
-./mvnw spring-boot:run
+# 2. API server (loads the catalog on first start)
+set -a; source .env; set +a
+cd backend && ./mvnw spring-boot:run
 
-# 3. In a second terminal, start the website
-cd frontend
-npm install
-npm run dev
+# 3. Website (in a second terminal)
+cd frontend && npm install && npm run dev
 ```
 
-Open **http://localhost:5173** and start shopping. Every new visitor gets $100,000 in virtual funds.
+Open **http://localhost:5173**. Every new visitor starts with $100,000 of virtual money.
 
-### Tests
+## Testing
 
-```bash
-cd backend && ./mvnw verify                  # server tests (uses Docker)
-cd frontend && npm test && npx playwright test   # website unit and browser tests
-python3 scripts/stress_test.py               # load and consistency test against a running server
-```
+| What | Command | Covers |
+|---|---|---|
+| Server | `cd backend && ./mvnw verify` | 120+ tests on real PostgreSQL and Redis: checkout, concurrency, security, tracking |
+| Website | `cd frontend && npm test` | Unit tests for money, options and helpers |
+| Browser | `cd frontend && npx playwright test` | Full shopping journeys on desktop and mobile |
+| Load | `python3 scripts/stress_test.py` | 100 shoppers checking out at once, rate limits, no overselling, ledger checks |
+| Images | `python3 scripts/validate_images.py` | Every product has a real, credited photo |
+
+Every push runs the server tests, website checks, image validation, a Docker build and a secret scan in GitHub
+Actions.
 
 ## Project layout
 
 ```
-backend/     Spring Boot server: catalog, cart, checkout, wallet, orders, notifications
-frontend/    React website
-catalog-data/  Product data and image sources used to build the catalog
-scripts/     Image validation, stress test and catalog tools
-docs/        Deployment guide, feature list and image credits
+backend/        Spring Boot API: catalog, cart, checkout, wallet, orders, notifications
+frontend/       React website
+catalog-data/   Product research and image sources used to build the catalog
+scripts/        Stress test, image validation and catalog tools
+docs/           Deployment guide, feature list and image credits
+render.yaml     One-click Render setup for the API and database
+vercel.json     Vercel setup: builds the website and forwards /api to Render
 ```
 
-## More
+## Documentation
 
-- [Deployment guide](docs/DEPLOYMENT.md): putting TrustKart online
-- [Feature list](docs/FEATURE_MATRIX.md): what's done and what's planned
+- [Deployment guide](docs/DEPLOYMENT.md): hosting on Vercel and Render, every setting explained
+- [Feature list](docs/FEATURE_MATRIX.md): what's built, what's tested and what's planned
 - [Image credits](docs/ASSET_SOURCES.md): where every product photo comes from
 
-Product names, logos and photos belong to their respective owners and are used here only to illustrate a
-non-commercial portfolio project. No affiliation or endorsement is implied, and nothing on TrustKart can
-actually be bought.
+---
+
+<sub>Product names, logos and photos belong to their owners and are used only to illustrate a non-commercial
+portfolio project. No affiliation or endorsement is implied, and nothing on TrustKart can actually be bought.</sub>
