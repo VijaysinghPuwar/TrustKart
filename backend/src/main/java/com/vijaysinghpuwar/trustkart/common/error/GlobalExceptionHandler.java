@@ -31,6 +31,11 @@ public class GlobalExceptionHandler {
         this.errors = errors;
     }
 
+    @ExceptionHandler(ValidationException.class)
+    ResponseEntity<ApiError> handleValidation(ValidationException ex) {
+        return respond(ErrorCode.VALIDATION_ERROR, ex.getMessage(), ex.fieldErrors(), Map.of());
+    }
+
     @ExceptionHandler(ApiException.class)
     ResponseEntity<ApiError> handleApi(ApiException ex) {
         return respond(ex.code(), ex.getMessage(), List.of(), ex.details());

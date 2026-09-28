@@ -2,15 +2,22 @@ package com.vijaysinghpuwar.trustkart.config;
 
 import com.vijaysinghpuwar.trustkart.common.error.ErrorCode;
 import com.vijaysinghpuwar.trustkart.common.web.JsonErrorWriter;
+import com.vijaysinghpuwar.trustkart.security.CookieJwtAuthenticationFilter;
+import com.vijaysinghpuwar.trustkart.security.RateLimitFilter;
+import com.vijaysinghpuwar.trustkart.security.RateLimiter;
 import java.util.List;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.core.annotation.Order;
 import org.springframework.http.HttpMethod;
 import org.springframework.security.config.annotation.web.builders.HttpSecurity;
+import org.springframework.security.config.annotation.method.configuration.EnableMethodSecurity;
 import org.springframework.security.config.annotation.web.configuration.EnableWebSecurity;
 import org.springframework.security.config.http.SessionCreationPolicy;
+import org.springframework.security.oauth2.server.resource.authentication.JwtAuthenticationConverter;
+import org.springframework.security.oauth2.jwt.JwtDecoder;
 import org.springframework.security.web.SecurityFilterChain;
+import org.springframework.security.web.authentication.AnonymousAuthenticationFilter;
 import org.springframework.security.web.header.writers.ReferrerPolicyHeaderWriter;
 import org.springframework.web.cors.CorsConfiguration;
 import org.springframework.web.cors.CorsConfigurationSource;
@@ -18,6 +25,7 @@ import org.springframework.web.cors.UrlBasedCorsConfigurationSource;
 
 @Configuration(proxyBeanMethods = false)
 @EnableWebSecurity
+@EnableMethodSecurity
 class SecurityConfig {
 
     /** The API only ever returns JSON, so its CSP can forbid everything. */
@@ -39,7 +47,8 @@ class SecurityConfig {
 
     @Bean
     @Order(2)
-    SecurityFilterChain apiChain(HttpSecurity http, JsonErrorWriter errorWriter) throws Exception {
+    SecurityFilterChain apiChain(HttpSecurity http, JsonErrorWriter errorWriter, RateLimiter rateLimiter,
+            JwtDecoder jwtDecoder, JwtAuthenticationConverter jwtConverter) throws Exception {
         http.sessionManagement(s -> s.sessionCreationPolicy(SessionCreationPolicy.STATELESS))
                 .cors(cors -> {})
                 // Auth travels in cookies, so CSRF protection stays on: the SPA echoes the XSRF-TOKEN cookie
@@ -54,14 +63,25 @@ class SecurityConfig {
                         .referrerPolicy(r -> r.policy(ReferrerPolicyHeaderWriter.ReferrerPolicy.STRICT_ORIGIN_WHEN_CROSS_ORIGIN))
                         .frameOptions(f -> f.deny())
                         .permissionsPolicyHeader(p -> p.policy("camera=(), microphone=(), geolocation=(), payment=()")))
+                .addFilterBefore(new RateLimitFilter(rateLimiter, errorWriter), AnonymousAuthenticationFilter.class)
+                .addFilterBefore(new CookieJwtAuthenticationFilter(jwtDecoder, jwtConverter, errorWriter),
+                        AnonymousAuthenticationFilter.class)
                 .exceptionHandling(e -> e
                         .authenticationEntryPoint((req, res, ex) -> errorWriter.write(res, ErrorCode.UNAUTHENTICATED))
                         .accessDeniedHandler((req, res, ex) -> errorWriter.write(res, ErrorCode.FORBIDDEN)))
                 .authorizeHttpRequests(a -> a
                         .requestMatchers("/actuator/health", "/actuator/health/**", "/actuator/info").permitAll()
                         .requestMatchers(HttpMethod.GET, "/api/v1/catalog/**", "/api/v1/search/**").permitAll()
+                        .requestMatchers(HttpMethod.GET, "/api/v1/auth/csrf", "/api/v1/me").permitAll()
+                        .requestMatchers(HttpMethod.POST, "/api/v1/auth/register", "/api/v1/auth/login",
+                                "/api/v1/auth/refresh", "/api/v1/auth/logout").permitAll()
+                        // Guests shop too: these resolve the owner from the session or the guest cookie.
+                        .requestMatchers("/api/v1/cart/**", "/api/v1/wishlist/**", "/api/v1/wallet/**",
+                                "/api/v1/checkout/**", "/api/v1/purchases/**", "/api/v1/collection/**").permitAll()
+                        .requestMatchers("/api/v1/me/**").authenticated()
+                        .requestMatchers("/api/v1/admin/**").authenticated()
                         .requestMatchers("/error").permitAll()
-                        .anyRequest().authenticated());
+                        .anyRequest().denyAll());
         return http.build();
     }
 

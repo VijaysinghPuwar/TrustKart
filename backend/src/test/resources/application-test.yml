@@ -1,4 +1,7 @@
 trustkart:
+  auth:
+    jwt-secret: test-only-secret-that-is-at-least-32-bytes-long
+    secure-cookies: false
   demo:
     seed-catalog: false
 logging:

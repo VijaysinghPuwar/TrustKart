@@ -36,7 +36,9 @@ spring:
 server:
   port: ${PORT:8080}
   shutdown: graceful
-  forward-headers-strategy: framework
+  # Tomcat's RemoteIpValve only honours X-Forwarded-For from internal proxies (private ranges by default),
+  # so clients can't spoof their IP to dodge rate limits.
+  forward-headers-strategy: native
   error:
     include-stacktrace: never
     include-message: never
@@ -68,6 +70,13 @@ logging:
     correlation: "[%X{requestId:-}] "
 
 trustkart:
+  auth:
+    jwt-secret: ${TRUSTKART_JWT_SECRET}
+    access-token-ttl: PT10M
+    refresh-token-ttl: P14D
+    secure-cookies: ${TRUSTKART_SECURE_COOKIES:true}
+    max-failed-logins: 5
+    lock-duration: PT15M
   cors:
     allowed-origins: ${TRUSTKART_ALLOWED_ORIGINS:http://localhost:5173}
   demo:
@@ -84,6 +93,9 @@ springdoc:
   swagger-ui:
     enabled: true
 trustkart:
+  auth:
+    # Plain-http localhost only. Every other profile keeps Secure cookies.
+    secure-cookies: false
   demo:
     seed-catalog: true
 
