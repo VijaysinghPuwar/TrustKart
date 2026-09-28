@@ -1,0 +1,41 @@
+{
+ "meta": {
+  "notes": "Researched products parked until an official, professional product image can be sourced."
+ },
+ "products": [
+  {
+   "sku": "TK-HPE-DL360-GEN12",
+   "slug": "hpe-proliant-compute-dl360-gen12",
+   "name": "HPE ProLiant Compute DL360 Gen12",
+   "brand": "HPE",
+   "category": "rack-servers",
+   "price": "10108.00",
+   "priceBasis": "starting-at",
+   "priceSource": "https://buy.hpe.com/us/en/compute/rack-servers/proliant-dl300-servers/hpe-proliant-compute-dl360-gen12/p/1014865649",
+   "priceAsOf": "2026-09-28",
+   "releaseYear": 2025,
+   "summary": "Compact 1U dual-socket Intel Xeon 6 server with up to 144 cores per processor, up to 8 TB of memory and 20 E3.S NVMe drives.",
+   "description": "The HPE ProLiant Compute DL360 Gen12 is a 1U two-processor server powered by Intel Xeon 6 processors with up to 144 cores, supporting up to 8 TB of memory and up to 20 EDSFF E3.S NVMe drives. A hybrid front storage cage also supports SFF drives, an OS boot device and optional front OCP NICs. HPE sells it from a starting configuration on the HPE Store.",
+   "keywords": "hpe proliant dl360 gen12 1u xeon 6 rack server ilo 7",
+   "specs": {
+    "rackUnits": 1,
+    "cpu": "Intel Xeon 6 (up to 144 cores)",
+    "socketCount": 2,
+    "maxMemoryTb": 8,
+    "ecc": true,
+    "driveBays": 20
+   },
+   "featured": false,
+   "warranty": 36,
+   "sources": {
+    "product": "https://www.hpe.com/us/en/products/compute/proliant/dl360-gen12.html",
+    "specs": "https://buy.hpe.com/us/en/compute/rack-servers/proliant-dl300-servers/hpe-proliant-compute-dl360-gen12/p/1014865649",
+    "retrievedAt": "2026-09-28"
+   },
+   "collections": [
+    "enterprise-servers",
+    "enterprise-lab"
+   ]
+  }
+ ]
+}

@@ -31,6 +31,7 @@ import java.util.List;
 import java.util.Locale;
 import java.util.Map;
 import java.util.Objects;
+import java.util.Set;
 import java.util.stream.Collectors;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
@@ -57,6 +58,7 @@ public class DemoCatalogSeeder {
     private static final String CATALOG_CATEGORIES = "catalog/categories.json";
     private static final String CATALOG_PRODUCTS = "classpath*:catalog/products/*.json";
     private static final String CATALOG_IMAGES = "catalog/images.json";
+    private static final String CATALOG_PARKED = "catalog/parked.json";
 
     private static final Logger log = LoggerFactory.getLogger(DemoCatalogSeeder.class);
     private static final int BACKORDER_CAP = 0;
@@ -83,7 +85,9 @@ public class DemoCatalogSeeder {
         List<CategorySeed> categorySeeds = withExtensions(
                 read("demo/categories.json", SeedModel.CategoryFile.class).categories());
         List<ProductSeed> productSeeds = new ArrayList<>(read("demo/products.json", SeedModel.ProductFile.class).products());
-        productSeeds.addAll(catalogProducts());
+        List<ProductSeed> catalogSeeds = catalogProducts();
+        productSeeds.addAll(catalogSeeds);
+        Set<String> catalogSkus = catalogSeeds.stream().map(ProductSeed::sku).collect(Collectors.toSet());
         Map<String, ImageSeed> images = new HashMap<>(
                 read("demo/images.json", new TypeReference<Map<String, ImageSeed>>() {}));
         if (new ClassPathResource(CATALOG_IMAGES).exists()) {
@@ -109,11 +113,18 @@ public class DemoCatalogSeeder {
                     backfillImage(seed, images);
                 }
                 refreshOptions(seed);
+                if (seed.sku().startsWith("TK-") && catalogSkus.contains(seed.sku())) {
+                    products.findBySku(seed.sku()).ifPresent(Product::unpark);
+                }
                 skipped++;
                 continue;
             }
             createProduct(seed, bySlug, effectiveSpecs, images);
             productsCreated++;
+        }
+        int parked = parkProducts();
+        if (parked > 0) {
+            log.info("{} catalog products parked (hidden) until an official image is sourced", parked);
         }
         log.info("Demo catalog seeded: {} categories created, {} products created, {} already present ({} images refreshed)",
                 created[0], productsCreated, skipped, imagesRefreshed);
@@ -245,6 +256,19 @@ public class DemoCatalogSeeder {
         for (int i = 0; i < tags.size(); i++) {
             facets.addToCollection(saved.getId(), tags.get(i), i);
         }
+    }
+
+    /** Hides seeded products listed in {@code catalog/parked.json}; they have no official image yet. */
+    private int parkProducts() {
+        if (!new ClassPathResource(CATALOG_PARKED).exists()) {
+            return 0;
+        }
+        SeedModel.ParkedFile file = read(CATALOG_PARKED, SeedModel.ParkedFile.class);
+        int count = 0;
+        for (String sku : file.skus()) {
+            count += products.findBySku(sku).map(p -> p.park() ? 1 : 0).orElse(0);
+        }
+        return count;
     }
 
     /** Purchase options are catalog data: an existing product picks up the seed's current options on restart. */

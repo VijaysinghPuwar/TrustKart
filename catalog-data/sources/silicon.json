@@ -39,7 +39,16 @@
     "specs": "https://www.nvidia.com/en-us/geforce/graphics-cards/50-series/rtx-5080/#specs",
     "retrievedAt": "2026-09-28"
    },
-   "priceAsOf": "2026-09-28"
+   "priceAsOf": "2026-09-28",
+   "image": {
+    "url": "https://assets.nvidia.partners/images/png/RTX5080-3QTR-Back-Left.png",
+    "page": "https://marketplace.nvidia.com/en-us/consumer/graphics-cards/",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official NVIDIA product image; reuse rights not verified. Hosted on NVIDIA's store asset CDN (assets.nvidia.partners).",
+    "alt": "NVIDIA GeForce RTX 5080 Founders Edition graphics card, three-quarter view on a white background",
+    "match": "EXACT",
+    "credit": "NVIDIA"
+   }
   },
   {
    "sku": "TK-NVIDIA-RTX5070-FE",
@@ -74,7 +83,16 @@
     "specs": "https://www.nvidia.com/en-us/geforce/graphics-cards/50-series/rtx-5070-family/#specs",
     "retrievedAt": "2026-09-28"
    },
-   "priceAsOf": "2026-09-28"
+   "priceAsOf": "2026-09-28",
+   "image": {
+    "url": "https://assets.nvidia.partners/images/png/RTX5070-3QTR-Back-Left.png",
+    "page": "https://marketplace.nvidia.com/en-us/consumer/graphics-cards/",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official NVIDIA product image; reuse rights not verified. Hosted on NVIDIA's store asset CDN (assets.nvidia.partners).",
+    "alt": "NVIDIA GeForce RTX 5070 Founders Edition graphics card, three-quarter view on a white background",
+    "match": "EXACT",
+    "credit": "NVIDIA"
+   }
   },
   {
    "sku": "TK-NVIDIA-RTXPRO6000-MAXQ",
@@ -106,6 +124,16 @@
    "sources": {
     "product": "https://www.nvidia.com/en-us/products/workstations/professional-desktop-gpus/rtx-pro-6000-max-q/",
     "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://www.nvidia.com/content/dam/en-zz/Solutions/products/workstations/professional-desktop-gpus/rtx-pro-6000-max-q/nvidia-geforce-rtx-pro-6000-bm-l580-d.jpg",
+    "page": "https://www.nvidia.com/en-us/products/workstations/professional-desktop-gpus/rtx-pro-6000-max-q/",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official NVIDIA product render published on nvidia.com; reuse rights not verified.",
+    "alt": "NVIDIA RTX PRO 6000 Blackwell Max-Q Workstation Edition blower-style graphics card, studio render on a dark backdrop",
+    "match": "EXACT",
+    "credit": "NVIDIA",
+    "darkBackground": true
    }
   },
   {
@@ -147,6 +175,16 @@
    "sources": {
     "product": "https://www.nvidia.com/en-us/products/workstations/professional-desktop-gpus/rtx-pro-5000/",
     "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://www.nvidia.com/content/dam/en-zz/Solutions/products/workstations/professional-desktop-gpus/rtx-pro-5000-blackwell/nvidia-workstation-rtx-pro-5000-bm-l580-d.jpg",
+    "page": "https://www.nvidia.com/en-us/products/workstations/professional-desktop-gpus/rtx-pro-5000/",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official NVIDIA product render published on nvidia.com; reuse rights not verified.",
+    "alt": "NVIDIA RTX PRO 5000 Blackwell workstation graphics card, studio render on a dark backdrop",
+    "match": "EXACT",
+    "credit": "NVIDIA",
+    "darkBackground": true
    }
   },
   {
@@ -177,6 +215,16 @@
    "sources": {
     "product": "https://www.nvidia.com/en-us/products/workstations/professional-desktop-gpus/rtx-pro-4500/",
     "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://www.nvidia.com/content/dam/en-zz/Solutions/data-center/rtx-pro-4500-blackwell/nvidia-workstation-rtx4500-bm-l580-d.jpg",
+    "page": "https://www.nvidia.com/en-us/products/workstations/professional-desktop-gpus/rtx-pro-4500/",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official NVIDIA product render published on nvidia.com; reuse rights not verified.",
+    "alt": "NVIDIA RTX PRO 4500 Blackwell workstation graphics card, studio render on a dark backdrop",
+    "match": "EXACT",
+    "credit": "NVIDIA",
+    "darkBackground": true
    }
   },
   {
@@ -207,6 +255,16 @@
    "sources": {
     "product": "https://www.nvidia.com/en-us/products/workstations/professional-desktop-gpus/rtx-pro-4000/",
     "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://www.nvidia.com/content/dam/en-zz/Solutions/data-center/rtx-pro-4000-blackwell/nvidia-workstation-rtx-pro-4000-bm-l580-d.jpg",
+    "page": "https://www.nvidia.com/en-us/products/workstations/professional-desktop-gpus/rtx-pro-4000/",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official NVIDIA product render published on nvidia.com; reuse rights not verified.",
+    "alt": "NVIDIA RTX PRO 4000 Blackwell single-slot workstation graphics card, studio render on a dark backdrop",
+    "match": "EXACT",
+    "credit": "NVIDIA",
+    "darkBackground": true
    }
   },
   {
@@ -238,6 +296,16 @@
    "sources": {
     "product": "https://www.nvidia.com/en-us/products/workstations/professional-desktop-gpus/rtx-pro-4000-sff/",
     "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://www.nvidia.com/content/dam/en-zz/Solutions/products/workstations/professional-desktop-gpus/rtx-pro-4000-sff/rtx-pro-4000-kv-bm-lg580-offset-d.jpg",
+    "page": "https://www.nvidia.com/en-us/products/workstations/professional-desktop-gpus/rtx-pro-4000-sff/",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official NVIDIA product render published on nvidia.com; reuse rights not verified.",
+    "alt": "NVIDIA RTX PRO 4000 Blackwell SFF Edition low-profile graphics card, studio render on a dark backdrop",
+    "match": "EXACT",
+    "credit": "NVIDIA",
+    "darkBackground": true
    }
   },
   {
@@ -268,6 +336,16 @@
    "sources": {
     "product": "https://www.nvidia.com/en-us/products/workstations/professional-desktop-gpus/rtx-pro-2000/",
     "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://www.nvidia.com/content/dam/en-zz/Solutions/products/workstations/professional-desktop-gpus/rtx-pro-2000/rtx-pro-2000-kv-bm-lg580-offset-d.jpg",
+    "page": "https://www.nvidia.com/en-us/products/workstations/professional-desktop-gpus/rtx-pro-2000/",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official NVIDIA product render published on nvidia.com; reuse rights not verified.",
+    "alt": "NVIDIA RTX PRO 2000 Blackwell low-profile workstation graphics card, studio render on a dark backdrop",
+    "match": "EXACT",
+    "credit": "NVIDIA",
+    "darkBackground": true
    }
   },
   {
@@ -299,6 +377,16 @@
    "sources": {
     "product": "https://www.nvidia.com/en-us/data-center/rtx-pro-6000-blackwell-server-edition/",
     "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://www.nvidia.com/content/dam/en-zz/Solutions/products/workstations/rtx-pro-6000-blackwell-server-edition/nvidia-rtx-pro-6000-bw-server-edition-bm-l580-d.jpg",
+    "page": "https://www.nvidia.com/en-us/data-center/rtx-pro-6000-blackwell-server-edition/",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official NVIDIA product render published on nvidia.com; reuse rights not verified.",
+    "alt": "NVIDIA RTX PRO 6000 Blackwell Server Edition passively cooled data center GPU, studio render on a dark backdrop",
+    "match": "EXACT",
+    "credit": "NVIDIA",
+    "darkBackground": true
    }
   },
   {
@@ -333,6 +421,16 @@
    "sources": {
     "product": "https://www.nvidia.com/en-us/data-center/dgx-b300/",
     "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://www.nvidia.com/content/dam/en-zz/Solutions/data-center/dgx-b300/dgx-b300-lg-offset-desktop.jpg",
+    "page": "https://www.nvidia.com/en-us/data-center/dgx-b300/",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official NVIDIA product render published on nvidia.com; reuse rights not verified.",
+    "alt": "NVIDIA DGX B300 system with gold front bezel, studio render on a dark backdrop",
+    "match": "EXACT",
+    "credit": "NVIDIA",
+    "darkBackground": true
    }
   },
   {
@@ -367,6 +465,16 @@
    "sources": {
     "product": "https://www.nvidia.com/en-us/data-center/dgx-b200/",
     "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://www.nvidia.com/content/dam/en-zz/Solutions/data-center/dgx-b200/dgx-b200-og-1200x630.jpg",
+    "page": "https://www.nvidia.com/en-us/data-center/dgx-b200/",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official NVIDIA product render published on nvidia.com; reuse rights not verified.",
+    "alt": "NVIDIA DGX B200 system shown with its GPU trays raised, studio render on a dark backdrop",
+    "match": "EXACT",
+    "credit": "NVIDIA",
+    "darkBackground": true
    }
   },
   {
@@ -398,6 +506,17 @@
    "sources": {
     "product": "https://www.nvidia.com/en-us/data-center/dgx-gb300/",
     "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://www.nvidia.com/content/dam/en-zz/Solutions/data-center/dgx-gb300/dgx-gb300-bm-lg580-offset-d.jpg",
+    "page": "https://www.nvidia.com/en-us/data-center/dgx-gb300/",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official NVIDIA product render published on nvidia.com; reuse rights not verified.",
+    "alt": "NVIDIA DGX GB300 rack-scale system, front view render on a dark backdrop",
+    "match": "EXACT",
+    "credit": "NVIDIA",
+    "darkBackground": true,
+    "allowLowRes": true
    }
   },
   {
@@ -433,7 +552,16 @@
     "product": "https://www.nvidia.com/en-us/autonomous-machines/embedded-systems/jetson-thor/",
     "retrievedAt": "2026-09-28"
    },
-   "priceAsOf": "2026-09-28"
+   "priceAsOf": "2026-09-28",
+   "image": {
+    "url": "https://developer.download.nvidia.com/images/jetson/Jetson_AGX_Thor_Devkit__white.png",
+    "page": "https://developer.nvidia.com/embedded/jetson-developer-kits",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official NVIDIA product image; reuse rights not verified.",
+    "alt": "NVIDIA Jetson AGX Thor Developer Kit, angled view of the silver and black enclosure on a white background",
+    "match": "EXACT",
+    "credit": "NVIDIA"
+   }
   },
   {
    "sku": "TK-NVIDIA-JETSON-ORIN-NANO-S",
@@ -466,7 +594,16 @@
     "product": "https://www.nvidia.com/en-us/autonomous-machines/embedded-systems/jetson-orin/nano-super-developer-kit/",
     "retrievedAt": "2026-09-28"
    },
-   "priceAsOf": "2026-09-28"
+   "priceAsOf": "2026-09-28",
+   "image": {
+    "url": "https://d29g4g2dyqv443.cloudfront.net/sites/default/files/akamai/embedded/images/jetsonNano/jetson_orin_nano-devkit-front_top-right-trimmed.jpg",
+    "page": "https://developer.nvidia.com/embedded/jetson-developer-kits",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official NVIDIA product image; reuse rights not verified. Served from the NVIDIA Developer site's CDN.",
+    "alt": "NVIDIA Jetson Orin Nano Developer Kit board with fan heatsink, top-right view on a white background (same hardware as the Super developer kit)",
+    "match": "PRODUCT_LINE",
+    "credit": "NVIDIA"
+   }
   },
   {
    "sku": "TK-NVIDIA-CONNECTX8-SUPERNIC",
@@ -494,6 +631,16 @@
    "sources": {
     "product": "https://www.nvidia.com/en-us/networking/products/ethernet/supernic/",
     "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://www.nvidia.com/content/dam/en-zz/Solutions/networking/products/supernic/nvidia-connectx-8-supernic.jpg",
+    "page": "https://www.nvidia.com/en-us/networking/products/ethernet/supernic/",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official NVIDIA product render published on nvidia.com; reuse rights not verified.",
+    "alt": "NVIDIA ConnectX-8 SuperNIC board, studio render on a dark backdrop",
+    "match": "PRODUCT_LINE",
+    "credit": "NVIDIA",
+    "darkBackground": true
    }
   },
   {
@@ -846,7 +993,18 @@
     "product": "https://www.amd.com/en/products/processors/ryzen-threadripper/9000-series/amd-ryzen-threadripper-9980x.html",
     "retrievedAt": "2026-09-28"
    },
-   "priceAsOf": "2026-09-28"
+   "priceAsOf": "2026-09-28",
+   "image": {
+    "url": "https://www.amd.com/content/dam/amd/en/images/products/processors/3513563-threadripper-9000-series.jpg",
+    "page": "https://www.amd.com/en/products/processors/ryzen-threadripper/9000-series/amd-ryzen-threadripper-9980x.html",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official AMD product image published on amd.com; AMD has not granted a general reuse license - rights not verified.",
+    "alt": "AMD Ryzen Threadripper 9000 Series processor retail box with orange accents on a dark backdrop",
+    "match": "PRODUCT_LINE",
+    "credit": "AMD",
+    "darkBackground": true
+   },
+   "notes": "Image is AMD's official retail-box render: amd.com and the AMD newsroom publish no clean standalone chip shot of Threadripper 9000 (chip images only appear inside slides or two-chip banners)."
   },
   {
    "sku": "TK-AMD-TR-9970X",
@@ -880,7 +1038,18 @@
     "product": "https://www.amd.com/en/products/processors/ryzen-threadripper/9000-series/amd-ryzen-threadripper-9970x.html",
     "retrievedAt": "2026-09-28"
    },
-   "priceAsOf": "2026-09-28"
+   "priceAsOf": "2026-09-28",
+   "image": {
+    "url": "https://www.amd.com/content/dam/amd/en/images/products/processors/3513563-threadripper-9000-series.jpg",
+    "page": "https://www.amd.com/en/products/processors/ryzen-threadripper/9000-series/amd-ryzen-threadripper-9970x.html",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official AMD product image published on amd.com; AMD has not granted a general reuse license - rights not verified.",
+    "alt": "AMD Ryzen Threadripper 9000 Series processor retail box with orange accents on a dark backdrop",
+    "match": "PRODUCT_LINE",
+    "credit": "AMD",
+    "darkBackground": true
+   },
+   "notes": "Image is AMD's official retail-box render: amd.com and the AMD newsroom publish no clean standalone chip shot of Threadripper 9000 (chip images only appear inside slides or two-chip banners)."
   },
   {
    "sku": "TK-AMD-TRPRO-9995WX",
@@ -916,7 +1085,18 @@
     "product": "https://www.amd.com/en/products/processors/workstations/ryzen-threadripper/9000-wx-series/amd-ryzen-threadripper-pro-9995wx.html",
     "retrievedAt": "2026-09-28"
    },
-   "priceAsOf": "2026-09-28"
+   "priceAsOf": "2026-09-28",
+   "image": {
+    "url": "https://www.amd.com/content/dam/amd/en/images/products/processors/3513563-threadripper-pro-9000-series.jpg",
+    "page": "https://www.amd.com/en/products/processors/workstations/ryzen-threadripper/9000-wx-series/amd-ryzen-threadripper-pro-9995wx.html",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official AMD product image published on amd.com; AMD has not granted a general reuse license - rights not verified.",
+    "alt": "AMD Ryzen Threadripper PRO 9000 WX-Series processor retail box with silver accents on a dark backdrop",
+    "match": "PRODUCT_LINE",
+    "credit": "AMD",
+    "darkBackground": true
+   },
+   "notes": "Image is AMD's official retail-box render: amd.com and the AMD newsroom publish no clean standalone chip shot of Threadripper 9000 (chip images only appear inside slides or two-chip banners)."
   },
   {
    "sku": "TK-AMD-TRPRO-9985WX",
@@ -951,7 +1131,18 @@
     "product": "https://www.amd.com/en/products/processors/workstations/ryzen-threadripper/9000-wx-series/amd-ryzen-threadripper-pro-9985wx.html",
     "retrievedAt": "2026-09-28"
    },
-   "priceAsOf": "2026-09-28"
+   "priceAsOf": "2026-09-28",
+   "image": {
+    "url": "https://www.amd.com/content/dam/amd/en/images/products/processors/3513563-threadripper-pro-9000-series.jpg",
+    "page": "https://www.amd.com/en/products/processors/workstations/ryzen-threadripper/9000-wx-series/amd-ryzen-threadripper-pro-9985wx.html",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official AMD product image published on amd.com; AMD has not granted a general reuse license - rights not verified.",
+    "alt": "AMD Ryzen Threadripper PRO 9000 WX-Series processor retail box with silver accents on a dark backdrop",
+    "match": "PRODUCT_LINE",
+    "credit": "AMD",
+    "darkBackground": true
+   },
+   "notes": "Image is AMD's official retail-box render: amd.com and the AMD newsroom publish no clean standalone chip shot of Threadripper 9000 (chip images only appear inside slides or two-chip banners)."
   },
   {
    "sku": "TK-AMD-TRPRO-9975WX",
@@ -985,7 +1176,18 @@
     "product": "https://www.amd.com/en/products/processors/workstations/ryzen-threadripper/9000-wx-series/amd-ryzen-threadripper-pro-9975wx.html",
     "retrievedAt": "2026-09-28"
    },
-   "priceAsOf": "2026-09-28"
+   "priceAsOf": "2026-09-28",
+   "image": {
+    "url": "https://www.amd.com/content/dam/amd/en/images/products/processors/3513563-threadripper-pro-9000-series.jpg",
+    "page": "https://www.amd.com/en/products/processors/workstations/ryzen-threadripper/9000-wx-series/amd-ryzen-threadripper-pro-9975wx.html",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official AMD product image published on amd.com; AMD has not granted a general reuse license - rights not verified.",
+    "alt": "AMD Ryzen Threadripper PRO 9000 WX-Series processor retail box with silver accents on a dark backdrop",
+    "match": "PRODUCT_LINE",
+    "credit": "AMD",
+    "darkBackground": true
+   },
+   "notes": "Image is AMD's official retail-box render: amd.com and the AMD newsroom publish no clean standalone chip shot of Threadripper 9000 (chip images only appear inside slides or two-chip banners)."
   },
   {
    "sku": "TK-AMD-EPYC-9996",
@@ -1661,7 +1863,16 @@
     "product": "https://www.intel.com/content/www/us/en/products/sku/245692/intel-core-ultra-7-processor-270k-plus-36m-cache-up-to-5-50-ghz/specifications.html",
     "retrievedAt": "2026-09-28"
    },
-   "priceAsOf": "2026-09-28"
+   "priceAsOf": "2026-09-28",
+   "image": {
+    "url": "https://www.intel.cn/content/dam/www/central-libraries/us/en/images/2024-10/newsroom-intel-arl-chip-2.jpg",
+    "page": "https://www.intel.com/content/www/us/en/newsroom/news/core-ultra-200s-series-desktop.html",
+    "sourceType": "manufacturer-press",
+    "rights": "Official Intel press image (Intel Newsroom), served from Intel's own site (intel.cn mirror of the intel.com asset library); reuse rights not verified.",
+    "alt": "Intel Core Ultra desktop processor (Series 2, LGA1851) heat spreader, front view on a white background",
+    "match": "PRODUCT_LINE",
+    "credit": "Intel"
+   }
   },
   {
    "sku": "TK-INTEL-CU5-250K-PLUS",
@@ -1694,41 +1905,16 @@
     "product": "https://www.intel.com/content/www/us/en/products/sku/245694/intel-core-ultra-5-processor-250k-plus-30m-cache-up-to-5-30-ghz/specifications.html",
     "retrievedAt": "2026-09-28"
    },
-   "priceAsOf": "2026-09-28"
-  },
-  {
-   "sku": "TK-INTEL-XEON-698X",
-   "slug": "intel-xeon-698x",
-   "name": "Intel Xeon 698X Workstation Processor",
-   "brand": "Intel",
-   "category": "cpus",
-   "price": "8469.00",
-   "priceBasis": "msrp",
-   "priceSource": "https://www.intel.com/content/www/us/en/products/sku/243857/intel-xeon-698x-processor-336m-cache-2-00-ghz/specifications.html",
-   "priceNote": "Intel ARK Recommended Customer Price.",
-   "releaseYear": 2026,
-   "summary": "86-core Xeon 600 workstation flagship with up to 4.8 GHz turbo, 336 MB cache and 8-channel DDR5/MRDIMM.",
-   "description": "The Xeon 698X heads Intel's Xeon 600 processors for workstations (Granite Rapids, Intel 3). It has 86 cores and 172 threads, a 2.0 GHz base and up to 4.8 GHz turbo, 336 MB of cache and a 350 W TDP on socket FCLGA4710, with 8 memory channels supporting DDR5-6400 and MRDIMM-8000. Intel lists a launch in Q1 2026.",
-   "keywords": "xeon 698x xeon 600 workstation granite rapids 86 core w890",
-   "specs": {
-    "cores": 86,
-    "threads": 172,
-    "boostGhz": 4.8,
-    "socket": "FCLGA4710",
-    "architecture": "Granite Rapids (Redwood Cove+)",
-    "tdpW": 350,
-    "memoryType": "DDR5-6400 / MRDIMM-8000 (8 channels)",
-    "integratedGraphics": false
-   },
-   "collections": [
-    "creator-workstations",
-    "servers-workstations"
-   ],
-   "sources": {
-    "product": "https://www.intel.com/content/www/us/en/products/sku/243857/intel-xeon-698x-processor-336m-cache-2-00-ghz/specifications.html",
-    "retrievedAt": "2026-09-28"
-   },
-   "priceAsOf": "2026-09-28"
+   "priceAsOf": "2026-09-28",
+   "image": {
+    "url": "https://www.intel.cn/content/dam/www/central-libraries/us/en/images/2024-10/newsroom-intel-arl-chip-3.jpg",
+    "page": "https://www.intel.com/content/www/us/en/newsroom/news/core-ultra-200s-series-desktop.html",
+    "sourceType": "manufacturer-press",
+    "rights": "Official Intel press image (Intel Newsroom), served from Intel's own site (intel.cn mirror of the intel.com asset library); reuse rights not verified.",
+    "alt": "Intel Core Ultra desktop processor (Series 2, LGA1851) heat spreader, angled view on a white background",
+    "match": "PRODUCT_LINE",
+    "credit": "Intel"
+   }
   },
   {
    "sku": "TK-INTEL-XEON-6980P",
@@ -1891,7 +2077,17 @@
     "product": "https://www.intel.com/content/www/us/en/products/sku/246074/intel-xeon-6990e-processor-576m-cache-2-20-ghz/specifications.html",
     "retrievedAt": "2026-09-28"
    },
-   "priceAsOf": "2026-09-28"
+   "priceAsOf": "2026-09-28",
+   "image": {
+    "url": "https://www.intel.cn/content/dam/www/central-libraries/us/en/images/2026-08/18a-full-chip-22-angle-flat-1920x1080.jpg",
+    "page": "https://www.intel.com/content/www/us/en/newsroom/news/data-center/intel-puts-agentic-ai-xeon-6-networking-ai-systems.html",
+    "sourceType": "manufacturer-press",
+    "rights": "Official Intel press image (Intel Newsroom), served from Intel's own site (intel.cn mirror of the intel.com asset library); reuse rights not verified.",
+    "alt": "Intel Xeon 6+ processor package with silver heat spreader, angled studio shot on a black backdrop",
+    "match": "PRODUCT_LINE",
+    "credit": "Intel",
+    "darkBackground": true
+   }
   },
   {
    "sku": "TK-INTEL-ARC-B580",
@@ -1923,7 +2119,16 @@
     "specs": "https://www.intel.com/content/www/us/en/products/sku/241598/intel-arc-b580-graphics/specifications.html",
     "retrievedAt": "2026-09-28"
    },
-   "priceAsOf": "2026-09-28"
+   "priceAsOf": "2026-09-28",
+   "image": {
+    "url": "https://www.intel.cn/content/dam/www/central-libraries/us/en/images/2024-12/newsroom-intel-arc-b580-2.jpg",
+    "page": "https://www.intel.com/content/www/us/en/newsroom/news/intel-launches-arc-b-series-graphics-cards.html",
+    "sourceType": "manufacturer-press",
+    "rights": "Official Intel press image (Intel Newsroom), served from Intel's own site (intel.cn mirror of the intel.com asset library); reuse rights not verified.",
+    "alt": "Intel Arc B580 Limited Edition graphics card with dual fans, angled view on a white background",
+    "match": "EXACT",
+    "credit": "Intel"
+   }
   },
   {
    "sku": "TK-INTEL-ARC-PRO-B70",
@@ -2049,130 +2254,6 @@
     "match": "EXACT",
     "credit": "Intel"
    }
-  },
-  {
-   "sku": "TK-INTEL-GAUDI3-HL338",
-   "slug": "intel-gaudi-3-hl-338-pcie",
-   "name": "Intel Gaudi 3 AI Accelerator HL-338 PCIe Card",
-   "brand": "Intel",
-   "category": "ai-accelerators",
-   "price": "15650.00",
-   "priceBasis": "estimate",
-   "releaseYear": 2025,
-   "summary": "Gaudi 3 inference accelerator in a 600 W, full-height dual-slot PCIe Gen5 card with 128 GB HBM2e.",
-   "description": "The Gaudi 3 HL-338 is a full-height, dual-slot, 10.5 in PCIe 5.0 card with a 600 W card TDP. It carries 128 GB of HBM2e at 3.7 TB/s plus 96 MB of on-die SRAM, 8 MME engines and 64 Tensor Processor Cores supporting FP8, BF16, FP16, TF32 and FP32. Up to four cards can be linked with HLTB-304 top boards at 900 GB/s per card.",
-   "keywords": "intel gaudi 3 hl-338 pcie ai accelerator inference hbm2e",
-   "specs": {
-    "architecture": "Intel Gaudi 3",
-    "memoryGb": 128,
-    "memoryType": "HBM2e",
-    "bandwidthTbs": 3.7,
-    "formFactor": "PCIe CEM 5.1 FHFL dual-slot (10.5 in)",
-    "interconnect": "PCIe 5.0 x16; RoCE v2 via HLTB-304 top board (900 GB/s)",
-    "tdpW": 600
-   },
-   "collections": [
-    "ai-lab"
-   ],
-   "notes": "Intel sells Gaudi 3 through server OEMs; no list price published. Price is a TrustKart estimate.",
-   "sources": {
-    "product": "https://www.intel.com/content/www/us/en/products/details/processors/ai-accelerators/gaudi.html",
-    "specs": "https://cdrdv2-public.intel.com/817488/Gaudi%203%20PCIe%20Product%20Brief_RB_1_V6.pdf",
-    "retrievedAt": "2026-09-28"
-   }
-  },
-  {
-   "sku": "TK-INTEL-E830-CQDA2",
-   "slug": "intel-ethernet-e830-cqda2",
-   "name": "Intel Ethernet Network Adapter E830-CQDA2",
-   "brand": "Intel",
-   "category": "network-adapters",
-   "price": "553.00",
-   "priceBasis": "msrp",
-   "priceSource": "https://www.intel.com/content/www/us/en/products/sku/239775/intel-ethernet-network-adapter-e830cqda2/specifications.html",
-   "priceNote": "Intel ARK Recommended Customer Price.",
-   "releaseYear": 2025,
-   "summary": "Dual-port QSFP adapter configurable up to 200GbE on PCIe 5.0, built on the Intel E830 controller.",
-   "description": "The E830-CQDA2 is a dual-port Intel Ethernet adapter on the E830 controller with a PCIe 5.0/4.0 host interface. Ports run at 200/100/50/25/10GbE over copper or fiber, configurable as 1x200, 2x100 (default), 4x50, 2x50 or 8x25 with breakout cables.",
-   "keywords": "intel e830 cqda2 200gbe 100gbe qsfp nic pcie 5.0",
-   "specs": {
-    "ports": "2x QSFP (up to 1x200GbE / 2x100GbE)",
-    "maxSpeedGbps": 200,
-    "managed": false,
-    "rackMountable": false,
-    "interface": "PCIe 5.0 / 4.0"
-   },
-   "collections": [
-    "networking-lab",
-    "enterprise-lab"
-   ],
-   "sources": {
-    "product": "https://www.intel.com/content/www/us/en/products/sku/239775/intel-ethernet-network-adapter-e830cqda2/specifications.html",
-    "retrievedAt": "2026-09-28"
-   },
-   "priceAsOf": "2026-09-28"
-  },
-  {
-   "sku": "TK-INTEL-E830-XXVDA2",
-   "slug": "intel-ethernet-e830-xxvda2",
-   "name": "Intel Ethernet Network Adapter E830-XXVDA2",
-   "brand": "Intel",
-   "category": "network-adapters",
-   "price": "209.00",
-   "priceBasis": "msrp",
-   "priceSource": "https://www.intel.com/content/www/us/en/products/sku/241942/intel-ethernet-network-adapter-e830xxvda2/specifications.html",
-   "priceNote": "Intel ARK Recommended Customer Price. (lower bound of the $209-$216 range).",
-   "releaseYear": 2025,
-   "summary": "Dual-port 25GbE SFP28 adapter on the Intel E830 controller with a PCIe 4.0 interface.",
-   "description": "The E830-XXVDA2 is a dual-port 25/10/1GbE Intel Ethernet adapter built on the E830 controller, using a PCIe 4.0 (16 GT/s) host interface and supporting copper or fiber cabling.",
-   "keywords": "intel e830 xxvda2 25gbe sfp28 nic homelab server",
-   "specs": {
-    "ports": "2x SFP28 (25/10/1GbE)",
-    "maxSpeedGbps": 25,
-    "managed": false,
-    "rackMountable": false,
-    "interface": "PCIe 4.0"
-   },
-   "collections": [
-    "homelab-essentials",
-    "networking-lab"
-   ],
-   "sources": {
-    "product": "https://www.intel.com/content/www/us/en/products/sku/241942/intel-ethernet-network-adapter-e830xxvda2/specifications.html",
-    "retrievedAt": "2026-09-28"
-   },
-   "priceAsOf": "2026-09-28"
-  },
-  {
-   "sku": "TK-INTEL-E610-XT2",
-   "slug": "intel-ethernet-e610-xt2",
-   "name": "Intel Ethernet Network Adapter E610-XT2",
-   "brand": "Intel",
-   "category": "network-adapters",
-   "price": "270.00",
-   "priceBasis": "msrp",
-   "priceSource": "https://www.intel.com/content/www/us/en/products/sku/237052/intel-ethernet-network-adapter-e610xt2/specifications.html",
-   "priceNote": "Intel ARK Recommended Customer Price. (lower bound of the $270-$281 range).",
-   "releaseYear": 2025,
-   "summary": "Dual-port 10GBASE-T RJ45 adapter supporting 10/5/2.5/1GbE on the Intel E610 controller.",
-   "description": "The E610-XT2 is a dual-port Intel Ethernet adapter using the E610-XAT2 controller, with RJ45 copper ports that run at 10GbE, 5GbE, 2.5GbE or 1GbE.",
-   "keywords": "intel e610 xt2 10gbe rj45 10gbase-t nic multi-gig",
-   "specs": {
-    "ports": "2x RJ45 (10/5/2.5/1GbE)",
-    "maxSpeedGbps": 10,
-    "managed": false,
-    "rackMountable": false,
-    "interface": "PCIe"
-   },
-   "collections": [
-    "homelab-essentials",
-    "small-business"
-   ],
-   "sources": {
-    "product": "https://www.intel.com/content/www/us/en/products/sku/237052/intel-ethernet-network-adapter-e610xt2/specifications.html",
-    "retrievedAt": "2026-09-28"
-   },
-   "priceAsOf": "2026-09-28"
   }
  ]
 }

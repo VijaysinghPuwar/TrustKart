@@ -62,7 +62,9 @@ python3 scripts/catalog/build.py --check-links            # full build + fetch e
                                                   // manufacturer-product-page | wikimedia-commons | project-render
         "rights": "Apple Newsroom image; Apple permits use for news/editorial coverage. No general license verified.",
         "alt": "iPhone 17 Pro in Cosmic Orange, back view showing the triple camera plateau",
-        "match": "EXACT"                          // EXACT (this model) | PRODUCT_LINE (identical design, other config)
+        "match": "EXACT",                         // EXACT (this model) | PRODUCT_LINE (identical design, other config)
+        "allowLowRes": false,                     // true only when the maker publishes nothing >= 480px (floor 320px)
+        "darkBackground": false                   // true only for a clean official DARK studio render (no scene, no text)
       }
     }
   ]

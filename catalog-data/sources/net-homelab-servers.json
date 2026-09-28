@@ -1,0 +1,2320 @@
+{
+ "meta": {
+  "notes": "Homelab servers, mini PCs, firewall appliances, NICs, optics and Ethernet adapters (net-homelab-servers). Researched 2026-09-28 from official manufacturer sites/stores only (store.minisforum.com, bee-link.com, gmktec.com, protectli.com and others listed per product). Shopify-store compareAt values are the manufacturer store's own listed regular price."
+ },
+ "products": [
+  {
+   "sku": "TK-MINISFORUM-MS01",
+   "slug": "minisforum-ms-01",
+   "name": "MINISFORUM MS-01 Workstation",
+   "brand": "MINISFORUM",
+   "category": "mini-pcs",
+   "price": "439.00",
+   "compareAt": "549.00",
+   "priceBasis": "starting-at",
+   "priceSource": "https://store.minisforum.com/products/minisforum-ms-01-workstation",
+   "priceAsOf": "2026-09-28",
+   "summary": "Homelab mini workstation with Intel Core i5/i9 H-series, dual 10G SFP+ and dual 2.5GbE, U.2 support and a PCIe 4.0 x16 (x8) slot.",
+   "description": "The MS-01 is MINISFORUM's compact homelab workstation, offered with Intel Core i5-12600H, i9-12900H, i9-13900H or i9-13900HK. It takes up to 96 GB DDR5-5200 in two SO-DIMMs, has three M.2 NVMe positions plus U.2 support, two 10G SFP+ and two 2.5GbE RJ45 ports, two USB4 ports and a PCIe 4.0 x16 slot running at x8. Base price is the i5-12600H barebone (no RAM, SSD or OS).",
+   "keywords": "minisforum ms-01 homelab proxmox mini pc sfp+ 10g u.2 i9-13900h",
+   "specs": {
+    "cpu": "Intel Core i5-12600H (base config; i9-12900H / i9-13900H / i9-13900HK options)",
+    "cpuBrand": "Intel",
+    "networking": "2 x 10G SFP+ + 2 x 2.5GbE RJ45",
+    "ports": "2 x USB4 (40 Gbps), PCIe 4.0 x16 slot (x8), 3 x M.2 NVMe + U.2"
+   },
+   "variants": [
+    {
+     "label": "Core i5-12600H barebone",
+     "price": "439.00"
+    },
+    {
+     "label": "Core i5-12600H / 32 GB + 1 TB",
+     "price": "959.00"
+    },
+    {
+     "label": "Core i9-13900HK barebone",
+     "price": "599.00"
+    },
+    {
+     "label": "Core i9-13900H barebone",
+     "price": "679.00"
+    },
+    {
+     "label": "Core i9-13900H / 32 GB + 1 TB",
+     "price": "1183.00"
+    }
+   ],
+   "collections": [
+    "homelab-essentials",
+    "homelab-starter"
+   ],
+   "featured": false,
+   "warranty": 12,
+   "notes": "Official store sale prices; compareAt is the store's listed regular price for the priced base config.",
+   "sources": {
+    "product": "https://store.minisforum.com/products/minisforum-ms-01-workstation",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0401/1032/5921/files/Compressed_MS-01.png?v=1784442741",
+    "page": "https://store.minisforum.com/products/minisforum-ms-01-workstation",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official MINISFORUM product image from the MINISFORUM US store (store.minisforum.com); MINISFORUM has not granted a general reuse license - rights not verified.",
+    "alt": "MINISFORUM MS-01 grey mini workstation, front three-quarter view showing front USB ports and vented top",
+    "match": "EXACT",
+    "credit": "MINISFORUM"
+   }
+  },
+  {
+   "sku": "TK-MINISFORUM-MS01SE",
+   "slug": "minisforum-ms-01-se",
+   "name": "MINISFORUM MS-01 SE Workstation",
+   "brand": "MINISFORUM",
+   "category": "mini-pcs",
+   "price": "375.00",
+   "compareAt": "469.00",
+   "priceBasis": "starting-at",
+   "priceSource": "https://store.minisforum.com/products/minisforum-ms-01-se-workstation",
+   "priceAsOf": "2026-09-28",
+   "releaseYear": 2026,
+   "summary": "Lower-cost MS-01 variant with Core i5-12600H, dual Intel 2.5GbE (one with vPro), three NVMe slots, two USB4 ports and a PCIe 4.0 x16 (x4) slot.",
+   "description": "The MS-01 SE is a cost-reduced version of the MS-01 mini workstation built around the Intel Core i5-12600H (12 cores / 16 threads). It supports up to 64 GB DDR4-3200 in two SO-DIMMs and three M.2 2280 NVMe slots (PCIe 4.0 x4, 3.0 x4 and 3.0 x2). Networking is two 2.5GbE ports on Intel I226-LM and I226-V controllers, alongside two 40 Gbps USB4 ports and a PCIe 4.0 x16 physical slot running at up to x4.",
+   "keywords": "minisforum ms-01 se homelab mini pc i5-12600h 2.5gbe vpro proxmox",
+   "specs": {
+    "cpu": "Intel Core i5-12600H (12C/16T, up to 4.5 GHz)",
+    "cpuBrand": "Intel",
+    "networking": "2 x 2.5GbE (Intel I226-LM + I226-V)",
+    "ports": "2 x USB4 (40 Gbps), PCIe 4.0 x16 slot (x4), 3 x M.2 NVMe",
+    "psuW": 180
+   },
+   "variants": [
+    {
+     "label": "Core i5-12600H barebone",
+     "price": "375.00"
+    },
+    {
+     "label": "Core i5-12600H / 32 GB + 1 TB",
+     "price": "775.00"
+    }
+   ],
+   "collections": [
+    "homelab-starter"
+   ],
+   "featured": false,
+   "warranty": 12,
+   "notes": "Official store sale prices; compareAt is the store's listed regular price.",
+   "sources": {
+    "product": "https://store.minisforum.com/products/minisforum-ms-01-se-workstation",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0401/1032/5921/files/2_d34d75bf-065a-4e5e-828e-0437f8d0ffb8.png?v=1789712905",
+    "page": "https://store.minisforum.com/products/minisforum-ms-01-se-workstation",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official MINISFORUM product image from the MINISFORUM US store (store.minisforum.com); MINISFORUM has not granted a general reuse license - rights not verified.",
+    "alt": "MINISFORUM MS-01 SE black mini workstation, front three-quarter view with vented top panel",
+    "match": "EXACT",
+    "credit": "MINISFORUM"
+   }
+  },
+  {
+   "sku": "TK-MINISFORUM-N5AIR",
+   "slug": "minisforum-n5-air-ai-nas",
+   "name": "MINISFORUM N5 AIR AI NAS",
+   "brand": "MINISFORUM",
+   "category": "nas",
+   "price": "535.00",
+   "compareAt": "669.00",
+   "priceBasis": "starting-at",
+   "priceSource": "https://store.minisforum.com/products/minisforum-n5-air-ai-nas",
+   "priceAsOf": "2026-09-28",
+   "releaseYear": 2026,
+   "summary": "Five-bay desktop NAS with AMD Ryzen 7 255, 10GbE plus dual 5GbE, three NVMe slots, OCuLink, USB4 and a PCIe x16 (x4) slot.",
+   "description": "The N5 AIR is MINISFORUM's lower-cost five-bay NAS, powered by an AMD Ryzen 7 255 (8 cores / 16 threads) with Radeon 780M graphics. It supports up to 96 GB DDR5-5600, five 3.5/2.5-inch SATA bays and three M.2 NVMe slots, with one 10GbE and two 5GbE ports, OCuLink, dual USB4 and a PCIe x16 slot (x4). It ships with 64 GB of OS storage and MinisCloud OS; a Ryzen 5 7640HS version (N5 AIR-7640) is also sold.",
+   "keywords": "minisforum n5 air nas 5-bay 10gbe ryzen 7 255 truenas unraid homelab",
+   "specs": {
+    "bays": 5,
+    "cpu": "AMD Ryzen 7 255 (8C/16T, up to 4.9 GHz)",
+    "network": "1 x 10GbE + 2 x 5GbE",
+    "interface": "5 x SATA, 3 x M.2 NVMe, 2 x USB4, OCuLink, PCIe x16 (x4)",
+    "rackMountable": false
+   },
+   "variants": [
+    {
+     "label": "Ryzen 7 255 barebone (64 GB OS storage)",
+     "price": "535.00"
+    },
+    {
+     "label": "Ryzen 7 255 / 16 GB DDR5",
+     "price": "719.00"
+    },
+    {
+     "label": "N5 AIR-7640: Ryzen 5 7640HS barebone",
+     "price": "495.00"
+    },
+    {
+     "label": "N5 AIR-7640: Ryzen 5 7640HS / 16 GB DDR5",
+     "price": "679.00"
+    }
+   ],
+   "collections": [
+    "homelab-essentials",
+    "homelab-starter"
+   ],
+   "featured": false,
+   "warranty": 12,
+   "notes": "Official store sale prices; compareAt is the store's listed regular price. N5 AIR-7640 pricing from https://store.minisforum.com/products/minisforum-ai-nas-n5-air-7640 (pre-order, ships late October).",
+   "sources": {
+    "product": "https://store.minisforum.com/products/minisforum-n5-air-ai-nas",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0401/1032/5921/files/Compressed_N5_AIR_AI_NAS.png?v=1788330497",
+    "page": "https://store.minisforum.com/products/minisforum-n5-air-ai-nas",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official MINISFORUM product image from the MINISFORUM US store (store.minisforum.com); MINISFORUM has not granted a general reuse license - rights not verified.",
+    "alt": "MINISFORUM N5 AIR AI NAS dark blue-grey cube enclosure, front three-quarter view with front drive-status LEDs",
+    "match": "EXACT",
+    "credit": "MINISFORUM"
+   }
+  },
+  {
+   "sku": "TK-MINISFORUM-N5MAX",
+   "slug": "minisforum-n5-max-ai-nas",
+   "name": "MINISFORUM N5 MAX AI NAS",
+   "brand": "MINISFORUM",
+   "category": "nas",
+   "price": "2399.00",
+   "compareAt": "2999.00",
+   "priceBasis": "starting-at",
+   "priceSource": "https://store.minisforum.com/products/minisforum-n5-max-ai-nas",
+   "priceAsOf": "2026-09-28",
+   "releaseYear": 2026,
+   "summary": "Ten-bay hybrid AI NAS with AMD Ryzen AI Max+ 395, up to 128 GB LPDDR5x, five SATA bays plus five NVMe slots and dual 10GbE.",
+   "description": "The N5 MAX pairs an AMD Ryzen AI Max+ 395 (16 cores / 32 threads, Radeon 8060S) with up to 128 GB of unified LPDDR5x memory so it can run large local AI models on the same box that stores the data. It has five hot-swap SATA bays (up to 32 TB each) and five M.2 NVMe slots for up to 200 TB total, two 10GbE RJ45 ports (Realtek RTL8127), USB4 V2 at 80 Gbps and a built-in 250 W power supply. MinisCloud OS is preinstalled.",
+   "keywords": "minisforum n5 max ai nas ryzen ai max+ 395 strix halo 10gbe 10-bay local llm",
+   "specs": {
+    "bays": 10,
+    "cpu": "AMD Ryzen AI Max+ 395 (16C/32T, up to 5.1 GHz)",
+    "ramGb": 64,
+    "network": "2 x 10GbE RJ45 (Realtek RTL8127)",
+    "interface": "5 x SATA hot-swap, 5 x M.2 NVMe PCIe 4.0, USB4 V2 (80 Gbps)",
+    "rackMountable": false
+   },
+   "variants": [
+    {
+     "label": "64 GB LPDDR5x + 128 GB OS storage",
+     "price": "2399.00"
+    },
+    {
+     "label": "128 GB LPDDR5x + 128 GB OS storage",
+     "price": "3599.00"
+    }
+   ],
+   "collections": [
+    "homelab-essentials",
+    "ai-lab"
+   ],
+   "featured": true,
+   "warranty": 12,
+   "notes": "Official store sale prices; compareAt is the store's listed regular price. 'bays' counts 5 SATA bays + 5 M.2 slots as MINISFORUM describes it (10-bay).",
+   "sources": {
+    "product": "https://store.minisforum.com/products/minisforum-n5-max-ai-nas",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0401/1032/5921/files/N5_MAX_1.png?v=1783865345",
+    "page": "https://store.minisforum.com/products/minisforum-n5-max-ai-nas",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official MINISFORUM product image from the MINISFORUM US store (store.minisforum.com); MINISFORUM has not granted a general reuse license - rights not verified.",
+    "alt": "MINISFORUM N5 MAX AI NAS black tower enclosure, front view showing drive-status LED strip",
+    "match": "EXACT",
+    "credit": "MINISFORUM"
+   }
+  },
+  {
+   "sku": "TK-BEELINK-MEMINI",
+   "slug": "beelink-me-mini",
+   "name": "Beelink ME mini 6-Slot Home Storage NAS",
+   "brand": "Beelink",
+   "category": "nas",
+   "price": "329.00",
+   "compareAt": "509.00",
+   "priceBasis": "starting-at",
+   "priceSource": "https://www.bee-link.com/products/beelink-me-mini-n150",
+   "priceAsOf": "2026-09-28",
+   "summary": "Palm-sized all-flash NAS mini PC with six M.2 SSD slots (up to 24 TB), dual 2.5GbE or 5GbE + 2.5GbE, Wi-Fi 6 and a built-in PSU.",
+   "description": "The ME mini is a 99 mm cube home-storage mini PC with six M.2 SSD slots for up to 24 TB, soldered LPDDR5-4800 memory and a built-in power supply. It is offered with Intel N95 or N150 processors, dual 2.5GbE (or 5GbE + 2.5GbE on the newer N150 configuration) and Wi-Fi 6, and Beelink positions it for NAS, Plex/Jellyfin and soft-router use. The priced base is the N95 / 16 GB / 64 GB eMMC unit with no SSD.",
+   "keywords": "beelink me mini nas all flash 6 m.2 n150 n95 2.5gbe jellyfin plex homelab",
+   "specs": {
+    "bays": 6,
+    "cpu": "Intel N95 (base config; N150 option)",
+    "ramGb": 16,
+    "network": "2 x 2.5GbE (N150: 5GbE + 2.5GbE option)",
+    "interface": "6 x M.2 SSD slots",
+    "rackMountable": false
+   },
+   "variants": [
+    {
+     "label": "N95 / 16 GB / 64 GB eMMC, no SSD",
+     "price": "329.00"
+    },
+    {
+     "label": "N150 / 16 GB / 1 TB SSD, 5GbE + 2.5GbE",
+     "price": "525.00"
+    }
+   ],
+   "colors": [
+    "Midnight Gray",
+    "Pearl White",
+    "Peacock Blue"
+   ],
+   "collections": [
+    "homelab-starter"
+   ],
+   "featured": false,
+   "warranty": 12,
+   "notes": "Official store sale prices; compareAt is the store's listed regular price. Colour availability varies by configuration.",
+   "sources": {
+    "product": "https://www.bee-link.com/products/beelink-me-mini-n150",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0505/1360/8884/files/6_df3d455e-6858-418e-9201-c0b572e87288.jpg?v=1764744512",
+    "page": "https://www.bee-link.com/products/beelink-me-mini-n150",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official Beelink product image from the Beelink store (bee-link.com); Beelink has not granted a general reuse license - rights not verified.",
+    "alt": "Beelink ME mini NAS cubes in Pearl White, Midnight Gray and Peacock Blue, front view",
+    "match": "EXACT",
+    "credit": "Beelink"
+   }
+  },
+  {
+   "sku": "TK-BEELINK-MEPRO",
+   "slug": "beelink-me-pro-2-bay",
+   "name": "Beelink ME Pro 2-Bay NAS",
+   "brand": "Beelink",
+   "category": "nas",
+   "price": "379.00",
+   "compareAt": "469.00",
+   "priceBasis": "starting-at",
+   "priceSource": "https://www.bee-link.com/products/beelink-me-pro",
+   "priceAsOf": "2026-09-28",
+   "summary": "Compact two-bay metal NAS mini PC with a swappable motherboard, 5GbE + 2.5GbE, and Intel N95/N150 or Core 3 304 (10GbE) boards.",
+   "description": "The ME Pro is an all-metal two-bay NAS about half the footprint of typical 2-bay units, with a drawer-style swappable motherboard. The Intel N95/N150 versions have 5GbE + 2.5GbE ports; the newer Intel Core 3 304 (Wildcat Lake) version adds 10GbE + 2.5GbE, dual Thunderbolt 4, DDR5 up to 64 GB and support for 1 x 4 TB M.2 plus 2 x 30 TB HDDs. The priced base is the N95 / 12 GB / 128 GB configuration.",
+   "keywords": "beelink me pro 2-bay nas n150 core 3 304 wildcat lake 10gbe 5gbe homelab",
+   "specs": {
+    "bays": 2,
+    "cpu": "Intel N95 (base config; N150 and Core 3 304 options)",
+    "ramGb": 12,
+    "network": "5GbE + 2.5GbE (Core 3 304: 10GbE + 2.5GbE)",
+    "interface": "2 x 3.5-inch SATA bays + M.2 NVMe",
+    "rackMountable": false
+   },
+   "variants": [
+    {
+     "label": "N95 / 12 GB / 128 GB",
+     "price": "379.00"
+    },
+    {
+     "label": "N95 / 12 GB / 512 GB",
+     "price": "459.00"
+    },
+    {
+     "label": "N150 / 16 GB / 1 TB",
+     "price": "559.00"
+    },
+    {
+     "label": "Core 3 304 / 16 GB DDR5 / 512 GB, 10GbE (pre-order)",
+     "price": "609.00"
+    }
+   ],
+   "collections": [
+    "homelab-starter"
+   ],
+   "featured": false,
+   "warranty": 12,
+   "notes": "Official store sale prices; compareAt is the store's listed regular price. Core 3 304 version price from https://www.bee-link.com/products/beelink-me-pro-2-bay-304 (pre-order).",
+   "sources": {
+    "product": "https://www.bee-link.com/products/beelink-me-pro",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0505/1360/8884/files/800-0.jpg?v=1783923967",
+    "page": "https://www.bee-link.com/products/beelink-me-pro-2-bay-304",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official Beelink product image from the Beelink store (bee-link.com); Beelink has not granted a general reuse license - rights not verified.",
+    "alt": "Beelink ME Pro 2-Bay NAS silver perforated metal enclosure, front three-quarter view",
+    "match": "EXACT",
+    "credit": "Beelink"
+   }
+  },
+  {
+   "sku": "TK-BEELINK-EQR6",
+   "slug": "beelink-eqr6",
+   "name": "Beelink EQR6 (Ryzen 5 6600H)",
+   "brand": "Beelink",
+   "category": "mini-pcs",
+   "price": "459.00",
+   "compareAt": "549.00",
+   "priceBasis": "starting-at",
+   "priceSource": "https://www.bee-link.com/products/beelink-eqr6",
+   "priceAsOf": "2026-09-28",
+   "releaseYear": 2026,
+   "summary": "Compact AMD Ryzen 5 6600H mini PC with dual 2.5GbE, 24 GB LPDDR5, dual PCIe 4.0 M.2 slots and a built-in 85 W power supply.",
+   "description": "The EQR6 uses the AMD Ryzen 5 6600H with 24 GB LPDDR5 (up to 64 GB supported) and a 500 GB SSD, with two M.2 PCIe 4.0 slots for up to 8 TB. It has dual 2.5GbE LAN ports for network separation and a built-in 85 W power supply, making it a quiet single-cable box for light server and home-lab duty.",
+   "keywords": "beelink eqr6 ryzen 5 6600h mini pc dual 2.5gbe proxmox home server",
+   "specs": {
+    "cpu": "AMD Ryzen 5 6600H",
+    "cpuBrand": "AMD",
+    "ramGb": 24,
+    "storageTb": 0.5,
+    "networking": "2 x 2.5GbE",
+    "psuW": 85,
+    "ports": "2 x M.2 PCIe 4.0 (up to 8 TB)"
+   },
+   "collections": [
+    "homelab-starter"
+   ],
+   "featured": false,
+   "warranty": 12,
+   "notes": "Official store sale price (pre-order); compareAt is the store's listed regular price.",
+   "sources": {
+    "product": "https://www.bee-link.com/products/beelink-eqr6",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0505/1360/8884/files/12_8a998206-c482-422a-8a92-15aac98c2d41.png?v=1764747181",
+    "page": "https://www.bee-link.com/products/beelink-eqr6",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official Beelink product image from the Beelink store (bee-link.com); Beelink has not granted a general reuse license - rights not verified.",
+    "alt": "Beelink EQR6 dark grey square mini PC, front view showing USB and audio ports",
+    "match": "EXACT",
+    "credit": "Beelink"
+   }
+  },
+  {
+   "sku": "TK-BEELINK-EQ14",
+   "slug": "beelink-eq14",
+   "name": "Beelink EQ14 (Intel N150)",
+   "brand": "Beelink",
+   "category": "mini-pcs",
+   "price": "385.00",
+   "compareAt": "469.00",
+   "priceBasis": "starting-at",
+   "priceSource": "https://www.bee-link.com/products/beelink-eq14-n150",
+   "priceAsOf": "2026-09-28",
+   "summary": "Low-power Intel N150 mini PC with dual 2.5GbE, 16 GB DDR4, 500 GB SSD, two M.2 slots and a built-in power supply.",
+   "description": "The EQ14 runs the Intel Twin Lake N150 quad-core processor (up to 3.6 GHz) with 16 GB DDR4 and a 500 GB SSD, plus dual M.2 PCIe 3.0 slots for up to 4 TB. It has dual 2.5GbE LAN and a built-in power supply, a common choice for low-power soft-router, Home Assistant and container hosts.",
+   "keywords": "beelink eq14 n150 mini pc dual 2.5gbe low power home server opnsense",
+   "specs": {
+    "cpu": "Intel N150 (4C/4T, up to 3.6 GHz)",
+    "cpuBrand": "Intel",
+    "ramGb": 16,
+    "storageTb": 0.5,
+    "networking": "2 x 2.5GbE",
+    "ports": "2 x M.2 PCIe 3.0 (up to 4 TB)"
+   },
+   "colors": [
+    "Navy Blue"
+   ],
+   "collections": [
+    "homelab-starter"
+   ],
+   "featured": false,
+   "warranty": 12,
+   "notes": "Official store sale price (pre-order); compareAt is the store's listed regular price.",
+   "sources": {
+    "product": "https://www.bee-link.com/products/beelink-eq14-n150",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0505/1360/8884/files/10_6e286cb2-e869-483f-8611-4d6fcd60a2db.jpg?v=1764747210",
+    "page": "https://www.bee-link.com/products/beelink-eq14-n150",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official Beelink product image from the Beelink store (bee-link.com); Beelink has not granted a general reuse license - rights not verified.",
+    "alt": "Beelink EQ14 navy blue textured mini PC, front three-quarter view",
+    "match": "EXACT",
+    "credit": "Beelink"
+   }
+  },
+  {
+   "sku": "TK-BEELINK-SER9PRO-H255",
+   "slug": "beelink-ser9-pro-h255",
+   "name": "Beelink SER9 Pro (Ryzen 7 H 255)",
+   "brand": "Beelink",
+   "category": "mini-pcs",
+   "price": "699.00",
+   "compareAt": "799.00",
+   "priceBasis": "starting-at",
+   "priceSource": "https://www.bee-link.com/products/beelink-ser9-pro-amd-ryzen-7-h-255",
+   "priceAsOf": "2026-09-28",
+   "summary": "AMD Ryzen 7 H 255 mini PC with Radeon 780M, 24 GB LPDDR5X-6400, 1 TB SSD, USB4 and dual PCIe 4.0 M.2 slots.",
+   "description": "The SER9 Pro uses the AMD Ryzen 7 H 255 (8 cores / 16 threads, up to 4.9 GHz) with Radeon 780M graphics and soldered LPDDR5X-6400 memory. It has two M.2 2280 PCIe 4.0 slots for up to 8 TB, HDMI, DisplayPort and full-featured USB4, a built-in microphone array and a quiet bottom-intake cooling design.",
+   "keywords": "beelink ser9 pro ryzen 7 h 255 mini pc usb4 780m",
+   "specs": {
+    "cpu": "AMD Ryzen 7 H 255 (8C/16T, up to 4.9 GHz)",
+    "cpuBrand": "AMD",
+    "gpu": "AMD Radeon 780M",
+    "ramGb": 24,
+    "storageTb": 1,
+    "ports": "USB4 (40 Gbps), HDMI, DisplayPort, 2 x M.2 PCIe 4.0"
+   },
+   "variants": [
+    {
+     "label": "24 GB LPDDR5X + 1 TB",
+     "price": "699.00"
+    },
+    {
+     "label": "32 GB LPDDR5X + 1 TB (pre-order)",
+     "price": "779.00"
+    }
+   ],
+   "colors": [
+    "Frost Silver"
+   ],
+   "collections": [],
+   "featured": false,
+   "warranty": 12,
+   "notes": "Official store sale prices; compareAt is the store's listed regular price.",
+   "sources": {
+    "product": "https://www.bee-link.com/products/beelink-ser9-pro-amd-ryzen-7-h-255",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0505/1360/8884/files/SER9.webp?v=1781676989",
+    "page": "https://www.bee-link.com/products/beelink-ser9-pro-amd-ryzen-7-h-255",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official Beelink product image from the Beelink store (bee-link.com); Beelink has not granted a general reuse license - rights not verified.",
+    "alt": "Beelink SER9 Pro mini PC in Frost Silver, front three-quarter view",
+    "match": "EXACT",
+    "credit": "Beelink"
+   }
+  },
+  {
+   "sku": "TK-BEELINK-GTI15ULTRA",
+   "slug": "beelink-gti15-ultra",
+   "name": "Beelink GTi15 Ultra (Core Ultra 9 285H)",
+   "brand": "Beelink",
+   "category": "mini-pcs",
+   "price": "1499.00",
+   "compareAt": "1699.00",
+   "priceBasis": "starting-at",
+   "priceSource": "https://www.bee-link.com/products/beelink-gti15-ultra9-285h",
+   "priceAsOf": "2026-09-28",
+   "summary": "Intel Core Ultra 9 285H mini PC with Arc 140T graphics, 64 GB DDR5, 1 TB SSD, built-in 145 W PSU and PCIe 5.0 x8 dock support.",
+   "description": "The GTi15 Ultra combines the Intel Core Ultra 9 285H and Arc 140T graphics (99 platform TOPS) with 64 GB DDR5-5600 and a 1 TB SSD, plus dual M.2 PCIe 4.0 slots for up to 8 TB. A vapor-chamber cooler sustains 65 W, the 145 W power supply is built in, and a PCIe 5.0 x8 connection lets it drive a desktop GPU through Beelink's EX Pro dock.",
+   "keywords": "beelink gti15 ultra core ultra 9 285h mini pc arc 140t egpu dock ai pc",
+   "specs": {
+    "cpu": "Intel Core Ultra 9 285H",
+    "cpuBrand": "Intel",
+    "gpu": "Intel Arc 140T",
+    "ramGb": 64,
+    "storageTb": 1,
+    "psuW": 145,
+    "ports": "PCIe 5.0 x8 dock connector, 2 x M.2 PCIe 4.0"
+   },
+   "variants": [
+    {
+     "label": "64 GB DDR5 + 1 TB (pre-order)",
+     "price": "1499.00"
+    },
+    {
+     "label": "96 GB DDR5 + 2 TB (pre-order)",
+     "price": "1949.00"
+    }
+   ],
+   "colors": [
+    "Frost Silver"
+   ],
+   "collections": [
+    "developer-setup"
+   ],
+   "featured": false,
+   "warranty": 12,
+   "notes": "Official store sale prices; compareAt is the store's listed regular price.",
+   "sources": {
+    "product": "https://www.bee-link.com/products/beelink-gti15-ultra9-285h",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0505/1360/8884/files/GTi15.webp?v=1781676996",
+    "page": "https://www.bee-link.com/products/beelink-gti15-ultra9-285h",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official Beelink product image from the Beelink store (bee-link.com); Beelink has not granted a general reuse license - rights not verified.",
+    "alt": "Beelink GTi15 Ultra mini PC in Frost Silver, front three-quarter view with SD slot and front ports",
+    "match": "EXACT",
+    "credit": "Beelink"
+   }
+  },
+  {
+   "sku": "TK-GMKTEC-K12",
+   "slug": "gmktec-nucbox-k12",
+   "name": "GMKtec NucBox K12 (Ryzen 7 H 255)",
+   "brand": "GMKtec",
+   "category": "mini-pcs",
+   "price": "359.99",
+   "compareAt": "559.99",
+   "priceBasis": "starting-at",
+   "priceSource": "https://www.gmktec.com/products/gmktec-k12-amd-ryzen%E2%84%A2-7-h-255-mini-pc",
+   "priceAsOf": "2026-09-28",
+   "summary": "Ryzen 7 H 255 mini PC with three PCIe 4.0 M.2 slots, dual 2.5GbE, OCuLink, USB4 and up to 96 GB DDR5.",
+   "description": "The NucBox K12 uses the AMD Ryzen 7 H 255 (8 cores / 16 threads, up to 4.9 GHz) with Radeon 780M graphics. It supports up to 96 GB DDR5-5600 in two SO-DIMMs, three M.2 2280 PCIe 4.0 slots (up to 24 TB), dual 2.5GbE, Wi-Fi 6E, a full-function USB4 port and an OCuLink PCIe 4.0 x4 port for external GPUs. The priced base is the barebone (no RAM, SSD or OS).",
+   "keywords": "gmktec k12 nucbox ryzen 7 h 255 mini pc oculink dual 2.5gbe three nvme homelab",
+   "specs": {
+    "cpu": "AMD Ryzen 7 H 255 (8C/16T, up to 4.9 GHz)",
+    "cpuBrand": "AMD",
+    "gpu": "AMD Radeon 780M",
+    "networking": "2 x 2.5GbE, Wi-Fi 6E, Bluetooth 5.2",
+    "ports": "USB4, OCuLink (PCIe 4.0 x4), 3 x M.2 PCIe 4.0",
+    "psuW": 120
+   },
+   "variants": [
+    {
+     "label": "Barebone (no RAM / SSD / OS)",
+     "price": "359.99"
+    },
+    {
+     "label": "32 GB + 1 TB",
+     "price": "919.99"
+    }
+   ],
+   "collections": [
+    "homelab-starter"
+   ],
+   "featured": false,
+   "warranty": 12,
+   "notes": "Official store sale prices; compareAt is the store's listed regular price.",
+   "sources": {
+    "product": "https://www.gmktec.com/products/gmktec-k12-amd-ryzen%E2%84%A2-7-h-255-mini-pc",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0715/1314/5498/files/1_748ef588-9135-4740-a389-b2ef1dc568ec.png?v=1784801460",
+    "page": "https://www.gmktec.com/products/gmktec-k12-amd-ryzen%E2%84%A2-7-h-255-mini-pc",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official GMKtec product image from the GMKtec store (gmktec.com); GMKtec has not granted a general reuse license - rights not verified.",
+    "alt": "GMKtec NucBox K12 black mini PC with its detachable vertical side module, front three-quarter view",
+    "match": "EXACT",
+    "credit": "GMKtec"
+   }
+  },
+  {
+   "sku": "TK-PROTECTLI-VP2440E",
+   "slug": "protectli-vault-pro-vp2440e",
+   "name": "Protectli Vault Pro VP2440e",
+   "brand": "Protectli",
+   "category": "firewalls",
+   "price": "499.00",
+   "priceBasis": "starting-at",
+   "priceSource": "https://protectli.com/product/vp2440e/",
+   "priceAsOf": "2026-09-28",
+   "summary": "Fanless 4-port firewall appliance with Intel N150, 2 x 10GbE SFP+ and 2 x 2.5GbE, DDR5 up to 64 GB and coreboot support.",
+   "description": "The Vault Pro VP2440e is a fanless, OS-agnostic appliance for firewalls, routers, VPNs and homelab hypervisors. It pairs an Intel N150 quad-core CPU with two 10GbE SFP+ and two 2.5GbE ports, supports DDR5 (Protectli has qualified up to 64 GB), NVMe SSDs, Wi-Fi 6E cards and 4G/5G modems, and uses an all-aluminium chassis as a passive heatsink. It replaces the VP2440, dropping only the onboard eMMC.",
+   "keywords": "protectli vault pro vp2440e firewall appliance opnsense pfsense 10g sfp+ n150 fanless coreboot",
+   "specs": {
+    "ports": "2 x 10GbE SFP+ + 2 x 2.5GbE RJ45",
+    "maxSpeedGbps": 10,
+    "rackMountable": false
+   },
+   "collections": [
+    "networking-lab",
+    "security-lab",
+    "homelab-essentials"
+   ],
+   "featured": true,
+   "warranty": 12,
+   "notes": "Base price is the barebone configuration shown on the official Protectli store.",
+   "sources": {
+    "product": "https://protectli.com/product/vp2440e/",
+    "specs": "https://kb.protectli.com/kb/vp2440-hardware-overview/",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://protectli.com/wp-content/uploads/2025/07/VP2440_1600x1600_2.jpg",
+    "page": "https://protectli.com/product/vp2440e/",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official Protectli product image from protectli.com; Protectli has not granted a general reuse license - rights not verified.",
+    "alt": "Protectli Vault Pro VP2440 fanless appliance, front view showing two SFP+ cages and two RJ45 ports under finned aluminium top",
+    "match": "PRODUCT_LINE",
+    "credit": "Protectli"
+   }
+  },
+  {
+   "sku": "TK-PROTECTLI-VP2430E",
+   "slug": "protectli-vault-pro-vp2430e",
+   "name": "Protectli Vault Pro VP2430e",
+   "brand": "Protectli",
+   "category": "firewalls",
+   "price": "419.00",
+   "priceBasis": "starting-at",
+   "priceSource": "https://protectli.com/product/vp2430e/",
+   "priceAsOf": "2026-09-28",
+   "summary": "Fanless 4 x 2.5GbE firewall appliance with Intel N150, DDR5 memory, NVMe storage and coreboot support.",
+   "description": "The Vault Pro VP2430e is a fanless, OS-agnostic appliance for firewalls, routers, VPNs and small hypervisors. It uses an Intel N150 quad-core CPU with four 2.5GbE ports, supports DDR5 memory (Protectli has qualified up to 64 GB), NVMe SSDs, Wi-Fi 6E cards and 4G/5G modems, and a removable heatsink makes room for a 2.5-inch SATA SSD. The 'e' model drops the onboard eMMC of the original VP2430.",
+   "keywords": "protectli vault pro vp2430e firewall appliance 2.5gbe n150 opnsense pfsense fanless",
+   "specs": {
+    "ports": "4 x 2.5GbE RJ45",
+    "maxSpeedGbps": 2.5,
+    "rackMountable": false
+   },
+   "collections": [
+    "networking-lab",
+    "homelab-starter"
+   ],
+   "featured": false,
+   "warranty": 12,
+   "notes": "Base price is the barebone configuration shown on the official Protectli store.",
+   "sources": {
+    "product": "https://protectli.com/product/vp2430e/",
+    "specs": "https://kb.protectli.com/kb/vp2430-hardware-overview/",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://protectli.com/wp-content/uploads/2025/02/VP2430_NIC_1600x1600.jpg",
+    "page": "https://protectli.com/product/vp2430e/",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official Protectli product image from protectli.com; Protectli has not granted a general reuse license - rights not verified.",
+    "alt": "Protectli Vault Pro VP2430 fanless appliance, front view showing four numbered RJ45 ports and DC power jack",
+    "match": "PRODUCT_LINE",
+    "credit": "Protectli"
+   }
+  },
+  {
+   "sku": "TK-PROTECTLI-VP6670",
+   "slug": "protectli-vault-pro-vp6670",
+   "name": "Protectli Vault Pro VP6670",
+   "brand": "Protectli",
+   "category": "firewalls",
+   "price": "899.00",
+   "priceBasis": "starting-at",
+   "priceSource": "https://protectli.com/product/vp6670/",
+   "priceAsOf": "2026-09-28",
+   "summary": "Six-port Vault Pro with Intel Core i7-1255U, 2 x 10GbE SFP+ and 4 x 2.5GbE, up to 96 GB DDR5 and coreboot support.",
+   "description": "The Vault Pro VP6670 is Protectli's top 6-port appliance, with an Intel Core i7-1255U (10 cores / 12 threads, up to 4.7 GHz), two Intel 10GbE SFP+ and four Intel 2.5GbE ports. It takes up to 96 GB DDR5-4800 in two SO-DIMMs, one M.2 NVMe SSD and two 2.5-inch SATA SSDs, with built-in fans that run only as needed and a 120 W power supply.",
+   "keywords": "protectli vault pro vp6670 firewall i7-1255u 10g sfp+ 2.5gbe opnsense pfsense proxmox",
+   "specs": {
+    "ports": "2 x 10GbE SFP+ + 4 x 2.5GbE RJ45",
+    "maxSpeedGbps": 10,
+    "rackMountable": false
+   },
+   "collections": [
+    "networking-lab",
+    "security-lab",
+    "small-business"
+   ],
+   "featured": false,
+   "warranty": 12,
+   "notes": "Base price is the barebone configuration shown on the official Protectli store.",
+   "sources": {
+    "product": "https://protectli.com/product/vp6670/",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://protectli.com/wp-content/uploads/2024/02/VP6600_angle_1600x1600.jpg",
+    "page": "https://protectli.com/product/vp6670/",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official Protectli product image from protectli.com; Protectli has not granted a general reuse license - rights not verified.",
+    "alt": "Protectli Vault Pro VP6600-series appliance, front three-quarter view showing four RJ45 and two SFP+ ports",
+    "match": "PRODUCT_LINE",
+    "credit": "Protectli"
+   }
+  },
+  {
+   "sku": "TK-PROTECTLI-VP4670",
+   "slug": "protectli-vault-pro-vp4670",
+   "name": "Protectli Vault Pro VP4670",
+   "brand": "Protectli",
+   "category": "firewalls",
+   "price": "659.00",
+   "priceBasis": "starting-at",
+   "priceSource": "https://protectli.com/product/vp4670/",
+   "priceAsOf": "2026-09-28",
+   "summary": "Fanless six-port 2.5GbE Vault Pro with Intel Core i7-10810U, up to 64 GB DDR4 and NVMe storage.",
+   "description": "The VP4670 is a fanless six-port appliance built around the Intel Core i7-10810U with six Intel i225-V 2.5GbE ports. It accepts up to 64 GB DDR4 in two SO-DIMMs, has an M.2 NVMe 2280 slot and a 16 GB eMMC module, plus SATA connectors for an internal 2.5-inch SSD, and its all-aluminium enclosure acts as the heatsink.",
+   "keywords": "protectli vault pro vp4670 firewall six port 2.5gbe i7-10810u fanless opnsense pfsense",
+   "specs": {
+    "ports": "6 x 2.5GbE RJ45 (Intel i225-V)",
+    "maxSpeedGbps": 2.5,
+    "rackMountable": false
+   },
+   "collections": [
+    "networking-lab"
+   ],
+   "featured": false,
+   "warranty": 12,
+   "notes": "Base price is the barebone configuration shown on the official Protectli store.",
+   "sources": {
+    "product": "https://protectli.com/product/vp4670/",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://protectli.com/wp-content/uploads/2022/08/VP4600_angle_1600x1600-2.jpg",
+    "page": "https://protectli.com/product/vp4670/",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official Protectli product image from protectli.com; Protectli has not granted a general reuse license - rights not verified.",
+    "alt": "Protectli Vault Pro VP4600-series fanless appliance, front three-quarter view showing six RJ45 ports",
+    "match": "PRODUCT_LINE",
+    "credit": "Protectli"
+   }
+  },
+  {
+   "sku": "TK-PROTECTLI-VP3230",
+   "slug": "protectli-vault-pro-vp3230",
+   "name": "Protectli Vault Pro VP3230",
+   "brand": "Protectli",
+   "category": "firewalls",
+   "price": "439.00",
+   "priceBasis": "starting-at",
+   "priceSource": "https://protectli.com/product/vp3230/",
+   "priceAsOf": "2026-09-28",
+   "summary": "Two-port 2.5GbE Vault Pro with Intel Core i3-N305, dual NVMe, DDR5 and a PCIe Gen 3 x4 full-height expansion bay.",
+   "description": "The VP3230 is a compact two-port appliance with an 8-core Intel Core i3-N305 and two Intel i226-V 2.5GbE ports. It has dual M.2 2280 NVMe slots, 32 GB eMMC and DDR5 SO-DIMM memory, plus an expansion bay for a full-height PCIe Gen 3 x4 card (25 W max) with an optional modular fan, so it can take an extra NIC or storage controller.",
+   "keywords": "protectli vault pro vp3230 i3-n305 firewall 2.5gbe pcie expansion nas appliance",
+   "specs": {
+    "ports": "2 x 2.5GbE RJ45 (Intel i226-V) + PCIe Gen 3 x4 slot",
+    "maxSpeedGbps": 2.5,
+    "rackMountable": false
+   },
+   "collections": [
+    "networking-lab"
+   ],
+   "featured": false,
+   "warranty": 12,
+   "notes": "Base price is the barebone configuration shown on the official Protectli store.",
+   "sources": {
+    "product": "https://protectli.com/product/vp3230/",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://protectli.com/wp-content/uploads/2024/10/Protectli_Vault_VP3200_angle_1600x1600px_604KB-1.png",
+    "page": "https://protectli.com/product/vp3230/",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official Protectli product image from protectli.com; Protectli has not granted a general reuse license - rights not verified.",
+    "alt": "Protectli Vault Pro VP3200-series appliance, rear three-quarter view showing two RJ45 ports, USB and HDMI",
+    "match": "PRODUCT_LINE",
+    "credit": "Protectli"
+   }
+  },
+  {
+   "sku": "TK-OWC-TB4ADP10GBE",
+   "slug": "owc-thunderbolt-4-10g-ethernet-adapter",
+   "name": "OWC Thunderbolt 4 10G Ethernet Adapter",
+   "brand": "OWC",
+   "category": "network-adapters",
+   "price": "164.99",
+   "priceBasis": "msrp",
+   "priceSource": "https://eshop.macsales.com/item/OWC/TB4ADP10GBE/",
+   "priceAsOf": "2026-09-28",
+   "summary": "Bus-powered Thunderbolt 4 to 10GBASE-T adapter with 10/5/2.5/1G multi-gig support and over 900 MB/s real-world throughput.",
+   "description": "The OWC Thunderbolt 4 10G Ethernet Adapter (TB4ADP10GBE) adds an RJ45 10GBASE-T port to Macs and PCs with Thunderbolt 3, 4, 5 or USB4 ports. It auto-negotiates 10G, 5G, 2.5G, 1G and 100 Mb/s, is bus-powered with no AC adapter, and OWC quotes over 900 MB/s real-world transfers. A 0.3 m Thunderbolt 4 cable is included, and multiple adapters can be link-aggregated.",
+   "keywords": "owc thunderbolt 4 10g ethernet adapter 10gbase-t mac nas multi-gig tb4adp10gbe",
+   "specs": {
+    "ports": "1 x RJ45 10GBASE-T (10G/5G/2.5G/1G/100M)",
+    "maxSpeedGbps": 10,
+    "interface": "Thunderbolt 4 (compatible with Thunderbolt 3/5 and USB4)"
+   },
+   "collections": [
+    "creator-workstations",
+    "networking-lab"
+   ],
+   "featured": false,
+   "warranty": 24,
+   "notes": "Price is the current OWC-run MacSales.com store price (the OWC listing page showed $199.99 for the same part at research time).",
+   "sources": {
+    "product": "https://www.owc.com/solutions/thunderbolt-4-10g-ethernet-adapter",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://media.owcnow.com/image/upload/w_1400,f_png,q_auto/Thunderbolt_4_10G_Ethernet_Adapter-hero-right_opagev",
+    "page": "https://www.owc.com/solutions/thunderbolt-4-10g-ethernet-adapter",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official OWC product image from owc.com (media.owcnow.com); OWC has not granted a general reuse license - rights not verified.",
+    "alt": "OWC Thunderbolt 4 10G Ethernet Adapter, black finned aluminium enclosure, three-quarter view of the Thunderbolt port end",
+    "match": "EXACT",
+    "credit": "OWC"
+   }
+  },
+  {
+   "sku": "TK-OWC-TB5-DUAL10GBE-DOCK",
+   "slug": "owc-thunderbolt-5-dual-10gbe-network-dock",
+   "name": "OWC Thunderbolt 5 Dual 10GbE Network Dock",
+   "brand": "OWC",
+   "category": "network-adapters",
+   "price": "499.99",
+   "priceBasis": "msrp",
+   "priceSource": "https://eshop.macsales.com/item/OWC/TB5DK11PD210G/",
+   "priceAsOf": "2026-09-28",
+   "summary": "Thunderbolt 5 dock with two 10GbE ports (up to 20 Gb/s aggregated), a front 2.5GbE port, three Thunderbolt 5 ports and four 10Gb/s USB ports.",
+   "description": "The OWC Thunderbolt 5 Dual 10GbE Network Dock combines two rear 10GbE ports and a front-facing 2.5GbE port with three Thunderbolt 5 ports and four 10Gb/s USB ports. The two 10GbE ports support link aggregation for up to 20 Gb/s to NAS and shared storage, and the three Thunderbolt 5 ports allow separate daisy chains. A 0.7 m Thunderbolt 5 cable is included.",
+   "keywords": "owc thunderbolt 5 dock dual 10gbe network dock 20gbe link aggregation mac nas",
+   "specs": {
+    "ports": "2 x 10GbE RJ45, 1 x 2.5GbE, 3 x Thunderbolt 5, 4 x USB 10Gb/s",
+    "maxSpeedGbps": 10,
+    "interface": "Thunderbolt 5"
+   },
+   "collections": [
+    "creator-workstations",
+    "networking-lab"
+   ],
+   "featured": false,
+   "warranty": 24,
+   "notes": "Price from OWC's own MacSales.com store item page.",
+   "sources": {
+    "product": "https://www.owc.com/solutions/thunderbolt-5-dual-10gbe-network-dock",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://media.owcnow.com/image/upload/w_1400,f_png,q_auto/TB5-Dual-Network-Dock_front-left_duyswy",
+    "page": "https://www.owc.com/solutions/thunderbolt-5-dual-10gbe-network-dock",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official OWC product image from owc.com (media.owcnow.com); OWC has not granted a general reuse license - rights not verified.",
+    "alt": "OWC Thunderbolt 5 Dual 10GbE Network Dock, black low-profile dock, front-left view showing front ports",
+    "match": "EXACT",
+    "credit": "OWC"
+   }
+  },
+  {
+   "sku": "TK-OWC-PCIE10GB",
+   "slug": "owc-10g-ethernet-pcie-network-adapter",
+   "name": "OWC 10G Ethernet PCIe Network Adapter",
+   "brand": "OWC",
+   "category": "network-adapters",
+   "price": "99.95",
+   "priceBasis": "msrp",
+   "priceSource": "https://eshop.macsales.com/item/OWC/PCIE10GB/",
+   "priceAsOf": "2026-09-28",
+   "summary": "Single-port 10GBASE-T PCIe card with 5G/2.5G/1G multi-gig support, 16 KB jumbo frames and AVB readiness.",
+   "description": "The OWC 10G Ethernet PCIe Network Adapter (OWCPCIE10GB) adds one RJ45 10GbE port to a desktop, server or Thunderbolt PCIe expansion chassis. It supports 10GBASE-T plus 5GBASE-T, 2.5GBASE-T and 1 Gb/s over Cat 5 to Cat 7 cabling, up to 16 KB jumbo frames and Audio Video Bridging, with OWC quoting over 900 MB/s real-world speed.",
+   "keywords": "owc 10g ethernet pcie card 10gbase-t nic multi-gig owcpcie10gb",
+   "specs": {
+    "ports": "1 x RJ45 10GBASE-T (10G/5G/2.5G/1G)",
+    "maxSpeedGbps": 10,
+    "interface": "PCIe"
+   },
+   "collections": [
+    "homelab-starter"
+   ],
+   "featured": false,
+   "warranty": 12,
+   "notes": "Price from OWC's own MacSales.com store item page; the OWC search listing showed $129.99 at the same time. OWC does not state the controller or PCIe lane width on the product page.",
+   "sources": {
+    "product": "https://www.owc.com/solutions/10g-ethernet-pcie-network-adapter",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://media.owcnow.com/image/upload/w_1400,f_png,q_auto/owc-10g-ethernet-pcie-network-card-hero-left",
+    "page": "https://www.owc.com/solutions/10g-ethernet-pcie-network-adapter",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official OWC product image from owc.com (media.owcnow.com); OWC has not granted a general reuse license - rights not verified.",
+    "alt": "OWC 10G Ethernet PCIe network card with blue PCB, heatsink and single RJ45 port on a full-height bracket",
+    "match": "EXACT",
+    "credit": "OWC"
+   }
+  },
+  {
+   "sku": "TK-SONNET-SOLO5G-USBC",
+   "slug": "sonnet-solo5g-usb-c-5gbe-adapter",
+   "name": "Sonnet Solo5G USB-C to 5 Gigabit Ethernet Adapter",
+   "brand": "Sonnet",
+   "category": "network-adapters",
+   "price": "39.99",
+   "priceBasis": "msrp",
+   "priceSource": "https://www.sonnetstore.com/products/solo5g-usbc-to-5-gigabit-ethernet-adapter",
+   "priceAsOf": "2026-09-28",
+   "summary": "Pocketable bus-powered USB-C to 5GBASE-T adapter with 5/2.5/1G and 100M link speeds and a rugged aluminium case; no driver needed.",
+   "description": "Sonnet's Solo5G (SOLO5G-USBC) connects Mac, Windows and Linux computers with USB-C or Thunderbolt ports to 5 Gb Ethernet over existing Cat 5e cabling via NBASE-T, falling back to 2.5 Gb/s, 1 Gb/s and 100 Mb/s. It is bus-powered through an attached 6-inch USB-C cable, measures 1.2 x 3.2 x 0.7 inches in an aluminium enclosure and needs no driver installation.",
+   "keywords": "sonnet solo5g usb-c 5gbe ethernet adapter nbase-t 5gbase-t multi-gig",
+   "specs": {
+    "ports": "1 x RJ45 5GBASE-T (5G/2.5G/1G/100M)",
+    "maxSpeedGbps": 5,
+    "interface": "USB-C"
+   },
+   "collections": [
+    "developer-setup"
+   ],
+   "featured": false,
+   "warranty": 24,
+   "sources": {
+    "product": "https://www.sonnetstore.com/products/solo5g-usbc-to-5-gigabit-ethernet-adapter",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0847/8540/files/solo5gusbc-prod-hero_dcdbc8ff-1876-47fa-8654-5f52e74bf006.png?v=1763368187",
+    "page": "https://www.sonnetstore.com/products/solo5g-usbc-to-5-gigabit-ethernet-adapter",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official Sonnet product image from the Sonnet store (sonnetstore.com); Sonnet has not granted a general reuse license - rights not verified.",
+    "alt": "Sonnet Solo5G USB-C to 5 Gigabit Ethernet Adapter, dark grey aluminium body with RJ45 port and attached USB-C cable",
+    "match": "EXACT",
+    "credit": "Sonnet"
+   }
+  },
+  {
+   "sku": "TK-QNAP-QXG-10G2SF-X710",
+   "slug": "qnap-qxg-10g2sf-x710",
+   "name": "QNAP QXG-10G2SF-X710 Dual-Port 10GbE SFP+ Network Card",
+   "brand": "QNAP",
+   "category": "network-adapters",
+   "price": "249.00",
+   "priceBasis": "msrp",
+   "priceSource": "https://store.qnap.com/qxg-10g2sf-x710.html",
+   "priceAsOf": "2026-09-28",
+   "summary": "Low-profile dual-port 10GbE SFP+ PCIe Gen3 x8 card on the Intel X710 controller with SR-IOV, for NAS, PCs and servers.",
+   "description": "The QXG-10G2SF-X710 is a dual-port 10GbE SFP+ network card built on the Intel X710 controller with a PCIe Gen3 x8 interface. It supports 10 Gb/s and 1 Gb/s, SR-IOV, and ships with a low-profile bracket installed plus full-height brackets; QNAP lists support for QTS/QuTS hero, Ubuntu 20.04/22.04, Windows 11 and Windows Server 2022.",
+   "keywords": "qnap qxg-10g2sf-x710 intel x710 dual sfp+ 10gbe pcie nic sr-iov",
+   "specs": {
+    "ports": "2 x SFP+ (10G/1G)",
+    "maxSpeedGbps": 10,
+    "interface": "PCIe Gen3 x8"
+   },
+   "collections": [
+    "homelab-essentials",
+    "networking-lab"
+   ],
+   "featured": false,
+   "warranty": 36,
+   "sources": {
+    "product": "https://www.qnap.com/en-us/product/qxg-10g2sf-x710",
+    "specs": "https://www.qnap.com/en-us/product/qxg-10g2sf-x710/specs/hardware",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://dgi6y9510e51q.cloudfront.net/catalog/product/cache/46a4d0e27eb42d1dba1b8d3799f55cab/7/7/771_1694594362_QXG-10G2SF-X710_Left_1.webp",
+    "page": "https://store.qnap.com/qxg-10g2sf-x710.html",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official QNAP product image from the QNAP US store (store.qnap.com); QNAP has not granted a general reuse license - rights not verified.",
+    "alt": "QNAP QXG-10G2SF-X710 blue PCIe card with two SFP+ cages and black heatsink on a full-height bracket",
+    "match": "EXACT",
+    "credit": "QNAP"
+   }
+  },
+  {
+   "sku": "TK-QNAP-QXG-25G2SF-CX6",
+   "slug": "qnap-qxg-25g2sf-cx6",
+   "name": "QNAP QXG-25G2SF-CX6 Dual-Port 25GbE SFP28 Network Card",
+   "brand": "QNAP",
+   "category": "network-adapters",
+   "price": "449.00",
+   "priceBasis": "msrp",
+   "priceSource": "https://store.qnap.com/qxg-25g2sf-cx6.html",
+   "priceAsOf": "2026-09-28",
+   "summary": "Low-profile dual-port 25GbE SFP28 PCIe Gen4 x8 card on NVIDIA Mellanox ConnectX-6 Lx with SR-IOV and RoCE.",
+   "description": "The QXG-25G2SF-CX6 is a dual-port 25GbE SFP28 card using the NVIDIA Mellanox ConnectX-6 Lx controller over PCIe Gen4 x8. It supports 25 and 10 Gb/s, SR-IOV with up to 127 virtual functions per port, RoCE and VLANs, and works in QNAP NAS as well as Ubuntu and Windows/Windows Server hosts.",
+   "keywords": "qnap qxg-25g2sf-cx6 connectx-6 lx dual sfp28 25gbe pcie nic rdma roce",
+   "specs": {
+    "ports": "2 x SFP28 (25G/10G)",
+    "maxSpeedGbps": 25,
+    "interface": "PCIe Gen4 x8"
+   },
+   "collections": [
+    "homelab-essentials",
+    "networking-lab",
+    "enterprise-lab"
+   ],
+   "featured": false,
+   "warranty": 36,
+   "sources": {
+    "product": "https://www.qnap.com/en-us/product/qxg-25g2sf-cx6",
+    "specs": "https://www.qnap.com/en-us/product/qxg-25g2sf-cx6/specs/hardware",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://dgi6y9510e51q.cloudfront.net/catalog/product/cache/46a4d0e27eb42d1dba1b8d3799f55cab/5/3/538_1616575905_E794A2E59381E59C96_QXG-25G2SF-CX6_left.webp",
+    "page": "https://store.qnap.com/qxg-25g2sf-cx6.html",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official QNAP product image from the QNAP US store (store.qnap.com); QNAP has not granted a general reuse license - rights not verified.",
+    "alt": "QNAP QXG-25G2SF-CX6 blue low-profile PCIe card with two SFP28 cages and fan heatsink, angled view",
+    "match": "EXACT",
+    "credit": "QNAP"
+   }
+  },
+  {
+   "sku": "TK-QNAP-QXG-100G2SF-E810",
+   "slug": "qnap-qxg-100g2sf-e810",
+   "name": "QNAP QXG-100G2SF-E810 Dual-Port 100GbE QSFP28 Network Card",
+   "brand": "QNAP",
+   "category": "network-adapters",
+   "price": "999.00",
+   "priceBasis": "msrp",
+   "priceSource": "https://store.qnap.com/qxg-100g2sf-e810.html",
+   "priceAsOf": "2026-09-28",
+   "summary": "Dual-port 100GbE QSFP28 PCIe 4.0 x16 card on the Intel E810-CAM2 controller for high-end NAS and servers.",
+   "description": "The QXG-100G2SF-E810 uses the Intel Ethernet Controller E810-CAM2 to provide two QSFP28 100GbE ports over a PCIe 4.0 x16 interface (backward compatible with PCIe 3.0). It accepts QSFP28 DAC cables or optical transceivers, offers on-chip QoS, and ships with low-profile and full-height brackets.",
+   "keywords": "qnap qxg-100g2sf-e810 intel e810 100gbe qsfp28 dual port pcie 4.0 nic",
+   "specs": {
+    "ports": "2 x QSFP28 (100G)",
+    "maxSpeedGbps": 100,
+    "interface": "PCIe 4.0 x16"
+   },
+   "collections": [
+    "enterprise-lab",
+    "networking-lab"
+   ],
+   "featured": true,
+   "warranty": 36,
+   "sources": {
+    "product": "https://www.qnap.com/en-us/product/qxg-100g2sf-e810",
+    "specs": "https://www.qnap.com/en-us/product/qxg-100g2sf-e810/specs/hardware",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://dgi6y9510e51q.cloudfront.net/catalog/product/cache/46a4d0e27eb42d1dba1b8d3799f55cab/5/2/523_1615365339_E794A2E59381E59C96_QXG-100G2SF-E810_Front_left-angle1.webp",
+    "page": "https://store.qnap.com/qxg-100g2sf-e810.html",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official QNAP product image from the QNAP US store (store.qnap.com); QNAP has not granted a general reuse license - rights not verified.",
+    "alt": "QNAP QXG-100G2SF-E810 black PCIe card with two QSFP28 ports and finned heatsink with fan, front-left angle",
+    "match": "EXACT",
+    "credit": "QNAP"
+   }
+  },
+  {
+   "sku": "TK-QNAP-QXG-10G2T",
+   "slug": "qnap-qxg-10g2t",
+   "name": "QNAP QXG-10G2T Dual-Port 10GBASE-T Network Card",
+   "brand": "QNAP",
+   "category": "network-adapters",
+   "price": "269.00",
+   "priceBasis": "msrp",
+   "priceSource": "https://store.qnap.com/qxg-10g2t.html",
+   "priceAsOf": "2026-09-28",
+   "summary": "Low-profile dual-port 10GBASE-T NBASE-T PCIe 3.0 x4 card supporting 10/5/2.5/1G and 100M.",
+   "description": "The QXG-10G2T adds two RJ45 NBASE-T ports supporting 10G, 5G, 2.5G, 1G and 100 Mb/s (IEEE 802.3an and 802.3bz) through a PCIe 3.0 x4 interface. It is a low-profile card with a pre-installed low-profile bracket and bundled full-height bracket, for QNAP NAS and Windows/Linux PCs.",
+   "keywords": "qnap qxg-10g2t dual 10gbase-t rj45 nbase-t multi-gig pcie nic",
+   "specs": {
+    "ports": "2 x RJ45 10GBASE-T (10G/5G/2.5G/1G/100M)",
+    "maxSpeedGbps": 10,
+    "interface": "PCIe 3.0 x4"
+   },
+   "collections": [
+    "homelab-essentials"
+   ],
+   "featured": false,
+   "warranty": 36,
+   "sources": {
+    "product": "https://www.qnap.com/en-us/product/qxg-10g2t",
+    "specs": "https://www.qnap.com/en-us/product/qxg-10g2t/specs/hardware",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://dgi6y9510e51q.cloudfront.net/catalog/product/cache/46a4d0e27eb42d1dba1b8d3799f55cab/7/7/770_1693815132_E794A2E59381E59C96_QXG-10G2T_Left_1.webp",
+    "page": "https://store.qnap.com/qxg-10g2t.html",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official QNAP product image from the QNAP US store (store.qnap.com); QNAP has not granted a general reuse license - rights not verified.",
+    "alt": "QNAP QXG-10G2T blue PCIe card with two RJ45 ports and fan heatsink on a full-height bracket",
+    "match": "EXACT",
+    "credit": "QNAP"
+   }
+  },
+  {
+   "sku": "TK-QNAP-QXG-2G4T-I225",
+   "slug": "qnap-qxg-2g4t-i225",
+   "name": "QNAP QXG-2G4T-I225 Quad-Port 2.5GbE Network Card",
+   "brand": "QNAP",
+   "category": "network-adapters",
+   "price": "149.00",
+   "priceBasis": "msrp",
+   "priceSource": "https://store.qnap.com/qxg-2g4t-i225.html",
+   "priceAsOf": "2026-09-28",
+   "summary": "Low-profile four-port 2.5GbE PCIe Gen2 x4 card on Intel I225-LM, handy for firewall and virtualization hosts.",
+   "description": "The QXG-2G4T-I225 provides four RJ45 ports at 2.5 Gb/s, 1 Gb/s, 100 Mb/s and 10 Mb/s using Intel I225-LM controllers on a PCIe Gen2 x4 interface. It supports Time Sensitive Networking (802.1AS-rev/1588), 9K jumbo frames and Wake-on-LAN, and ships with low-profile and full-height brackets.",
+   "keywords": "qnap qxg-2g4t-i225 quad port 2.5gbe intel i225 pcie nic firewall pfsense",
+   "specs": {
+    "ports": "4 x RJ45 2.5GbE",
+    "maxSpeedGbps": 2.5,
+    "interface": "PCIe Gen2 x4"
+   },
+   "collections": [
+    "homelab-starter",
+    "networking-lab"
+   ],
+   "featured": false,
+   "warranty": 36,
+   "sources": {
+    "product": "https://www.qnap.com/en-us/product/qxg-2g4t-i225",
+    "specs": "https://www.qnap.com/en-us/product/qxg-2g4t-i225/specs/hardware",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://dgi6y9510e51q.cloudfront.net/catalog/product/cache/46a4d0e27eb42d1dba1b8d3799f55cab/5/7/575_1622793668_E794A2E59381E59C96_QXG-2G4T-I225_left.webp",
+    "page": "https://store.qnap.com/qxg-2g4t-i225.html",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official QNAP product image from the QNAP US store (store.qnap.com); QNAP has not granted a general reuse license - rights not verified.",
+    "alt": "QNAP QXG-2G4T-I225 green low-profile PCIe card with four RJ45 ports and fan heatsink, angled view",
+    "match": "EXACT",
+    "credit": "QNAP"
+   }
+  },
+  {
+   "sku": "TK-TPLINK-TX401",
+   "slug": "tp-link-tx401",
+   "name": "TP-Link TX401 10 Gigabit PCIe Network Adapter",
+   "brand": "TP-Link",
+   "category": "network-adapters",
+   "price": "89.99",
+   "priceBasis": "estimate",
+   "summary": "PCIe 3.0 x4 10GBASE-T network card with 5G/2.5G/1G/100M multi-gig support, large heatsink and a bundled 1.5 m Cat6A cable.",
+   "description": "The TP-Link TX401 adds a single RJ45 port supporting 10GBASE-T, 5GBASE-T, 2.5GBASE-T, 1000BASE-T and 100BASE-TX through a PCI Express 3.0 x4 interface. It ships with standard and low-profile brackets and a 1.5 m Cat6A cable, and supports Windows 11/10, Windows Server 2019/2016/2012 R2 and Linux.",
+   "keywords": "tp-link tx401 10g pcie network card 10gbase-t multi-gig nic homelab",
+   "specs": {
+    "ports": "1 x RJ45 10GBASE-T (10G/5G/2.5G/1G/100M)",
+    "maxSpeedGbps": 10,
+    "interface": "PCIe 3.0 x4"
+   },
+   "collections": [
+    "homelab-starter",
+    "networking-lab"
+   ],
+   "featured": false,
+   "warranty": 24,
+   "notes": "TP-Link's US site does not list a price; price is a TrustKart estimate.",
+   "sources": {
+    "product": "https://www.tp-link.com/us/home-networking/pci-adapter/tx401/",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://static.tp-link.com/TX401-01_large_1595297429781c.jpg",
+    "page": "https://www.tp-link.com/us/home-networking/pci-adapter/tx401/",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official TP-Link product image from tp-link.com (static.tp-link.com); TP-Link has not granted a general reuse license - rights not verified.",
+    "alt": "TP-Link TX401 10 Gigabit PCIe network card with red finned heatsink and single RJ45 port, angled view",
+    "match": "EXACT",
+    "credit": "TP-Link"
+   }
+  },
+  {
+   "sku": "TK-TPLINK-TX201",
+   "slug": "tp-link-tx201",
+   "name": "TP-Link TX201 2.5 Gigabit PCIe Network Adapter",
+   "brand": "TP-Link",
+   "category": "network-adapters",
+   "price": "29.99",
+   "priceBasis": "estimate",
+   "summary": "PCIe 2.1 x1 2.5GBASE-T network card with 1G/100M fallback and standard plus low-profile brackets.",
+   "description": "The TP-Link TX201 adds a single RJ45 port supporting 2.5GBASE-T, 1000BASE-T and 100BASE-TX through a PCI Express 2.1 x1 interface. It ships with standard and low-profile brackets and supports Windows 11/10, Windows Server 2022/2019/2016 and Linux.",
+   "keywords": "tp-link tx201 2.5g pcie network card 2.5gbe nic",
+   "specs": {
+    "ports": "1 x RJ45 2.5GBASE-T (2.5G/1G/100M)",
+    "maxSpeedGbps": 2.5,
+    "interface": "PCIe 2.1 x1"
+   },
+   "collections": [
+    "homelab-starter"
+   ],
+   "featured": false,
+   "warranty": 24,
+   "notes": "TP-Link's US site does not list a price; price is a TrustKart estimate.",
+   "sources": {
+    "product": "https://www.tp-link.com/us/home-networking/pci-adapter/tx201/",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://static.tp-link.com/upload/image-line/TX201-1_large_20221010080353s.jpg",
+    "page": "https://www.tp-link.com/us/home-networking/pci-adapter/tx201/",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official TP-Link product image from tp-link.com (static.tp-link.com); TP-Link has not granted a general reuse license - rights not verified.",
+    "alt": "TP-Link TX201 2.5 Gigabit PCIe card with black 2.5 Gigabit heatsink label and RJ45 port on a full-height bracket",
+    "match": "EXACT",
+    "credit": "TP-Link"
+   }
+  },
+  {
+   "sku": "TK-TPLINK-UE302C",
+   "slug": "tp-link-ue302c",
+   "name": "TP-Link UE302C USB-C to 2.5 Gigabit Ethernet Adapter",
+   "brand": "TP-Link",
+   "category": "network-adapters",
+   "price": "29.99",
+   "priceBasis": "estimate",
+   "summary": "Compact USB Type-C to 2.5 Gigabit Ethernet adapter for laptops and tablets without a wired port.",
+   "description": "The TP-Link UE302C converts a USB Type-C port into a 2.5 Gigabit RJ45 Ethernet connection with data rates up to 2.5 Gbps. It has an attached flat USB-C cable, making it a simple way to connect a laptop to a multi-gig switch or NAS.",
+   "keywords": "tp-link ue302c usb-c 2.5g ethernet adapter 2.5gbe laptop",
+   "specs": {
+    "ports": "1 x RJ45 2.5GbE",
+    "maxSpeedGbps": 2.5,
+    "interface": "USB Type-C"
+   },
+   "collections": [
+    "developer-setup"
+   ],
+   "featured": false,
+   "warranty": 24,
+   "notes": "TP-Link's US site does not list a price; price is a TrustKart estimate.",
+   "sources": {
+    "product": "https://www.tp-link.com/us/home-networking/usb-adapter/ue302c/",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://static.tp-link.com/upload/image-line/01_large_20241030065132h.jpg",
+    "page": "https://www.tp-link.com/us/home-networking/usb-adapter/ue302c/",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official TP-Link product image from tp-link.com (static.tp-link.com); TP-Link has not granted a general reuse license - rights not verified.",
+    "alt": "TP-Link UE302C grey USB-C to 2.5 Gigabit Ethernet adapter with attached flat black USB-C cable",
+    "match": "EXACT",
+    "credit": "TP-Link"
+   }
+  },
+  {
+   "sku": "TK-NVIDIA-CONNECTX7",
+   "slug": "nvidia-connectx-7-400g-nic",
+   "name": "NVIDIA ConnectX-7 200/400G Ethernet Adapter",
+   "brand": "NVIDIA",
+   "category": "network-adapters",
+   "price": "2499.00",
+   "priceBasis": "estimate",
+   "summary": "Data-center Ethernet NIC with up to four ports and 400 Gb/s total throughput, RoCE, GPUDirect Storage and inline TLS/IPsec/MACsec.",
+   "description": "NVIDIA ConnectX-7 provides up to four ports of connectivity and 400 Gb/s of throughput with hardware-accelerated networking, storage, security and manageability for cloud, telecom, AI and enterprise workloads. It supports ASAP2 software-defined networking offload, advanced RoCE, GPUDirect Storage, NVMe over TCP acceleration and inline TLS, IPsec and MACsec encryption.",
+   "keywords": "nvidia connectx-7 400g 200g nic qsfp112 roce gpudirect ai networking mellanox",
+   "specs": {
+    "maxSpeedGbps": 400,
+    "ports": "Up to 4 ports, up to 400 Gb/s total (by ordering part number)",
+    "interface": "PCIe"
+   },
+   "collections": [
+    "ai-lab",
+    "enterprise-lab"
+   ],
+   "featured": false,
+   "warranty": 12,
+   "notes": "NVIDIA does not publish a list price; price is a TrustKart estimate for a single-port 400G PCIe card. Port count, cage type and PCIe form factor vary by ordering part number.",
+   "sources": {
+    "product": "https://www.nvidia.com/en-us/networking/ethernet-adapters/",
+    "specs": "https://resources.nvidia.com/en-us-accelerated-networking-resource-library/connectx-7-datasheet",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://www.nvidia.com/content/dam/en-zz/Solutions/networking/ethernet-adapters/bluefield-connectx-7-2c50-d@2x.jpg",
+    "page": "https://www.nvidia.com/en-us/networking/ethernet-adapters/",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official NVIDIA product image from nvidia.com; NVIDIA has not granted a general reuse license - rights not verified.",
+    "alt": "NVIDIA ConnectX-7 PCIe network adapter with dual network cages and black PCB on a full-height bracket",
+    "match": "PRODUCT_LINE",
+    "credit": "NVIDIA"
+   }
+  },
+  {
+   "sku": "TK-NVIDIA-CONNECTX6LX",
+   "slug": "nvidia-connectx-6-lx-25g-nic",
+   "name": "NVIDIA ConnectX-6 Lx 25/50G Ethernet Adapter",
+   "brand": "NVIDIA",
+   "category": "network-adapters",
+   "price": "449.00",
+   "priceBasis": "estimate",
+   "summary": "Cost-efficient, secure 25/50 GbE NIC with up to two 25GbE ports or one 50GbE port in low-profile PCIe and OCP 3.0 form factors.",
+   "description": "ConnectX-6 Lx is NVIDIA's secure, efficient 25/50 Gb/s Ethernet NIC for enterprise, cloud, edge and telecom workloads. It provides up to two ports of 25GbE or a single 50GbE port and is offered as low-profile PCIe and OCP 3.0 cards, with ASAP2 SDN offload, RoCE and hardware security engines.",
+   "keywords": "nvidia connectx-6 lx 25gbe sfp28 nic mellanox roce sr-iov proxmox homelab",
+   "specs": {
+    "maxSpeedGbps": 50,
+    "ports": "Up to 2 x 25GbE or 1 x 50GbE (by ordering part number)",
+    "interface": "PCIe / OCP 3.0"
+   },
+   "collections": [
+    "homelab-essentials",
+    "enterprise-lab"
+   ],
+   "featured": false,
+   "warranty": 12,
+   "notes": "NVIDIA does not publish a list price; price is a TrustKart estimate for a dual-port 25GbE low-profile PCIe card.",
+   "sources": {
+    "product": "https://www.nvidia.com/en-us/networking/ethernet-adapters/",
+    "specs": "https://resources.nvidia.com/en-us-accelerated-networking-resource-library/connectx-6-lx-en-car",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://www.nvidia.com/content/dam/en-zz/Solutions/networking/ethernet-adapters/nvidia-mellanox-connectx-6lx-smartnic-2c50-d@2x.jpg",
+    "page": "https://www.nvidia.com/en-us/networking/ethernet-adapters/",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official NVIDIA product image from nvidia.com; NVIDIA has not granted a general reuse license - rights not verified.",
+    "alt": "NVIDIA ConnectX-6 Lx low-profile PCIe network adapter with two SFP28 cages and green PCB",
+    "match": "PRODUCT_LINE",
+    "credit": "NVIDIA"
+   }
+  },
+  {
+   "sku": "TK-10GTEK-AXS85-192-M3",
+   "slug": "10gtek-sfp-plus-10gbase-sr-axs85-192-m3",
+   "name": "10Gtek 10GBASE-SR SFP+ Transceiver (AXS85-192-M3)",
+   "brand": "10Gtek",
+   "category": "network-adapters",
+   "price": "8.00",
+   "priceBasis": "msrp",
+   "priceSource": "https://www.sfpcables.com/10gbase-sr-sfp-transceiver-10g-850nm-mmf-up-to-300-meters",
+   "priceAsOf": "2026-09-28",
+   "summary": "10G SFP+ short-reach optical module, 850 nm, up to 300 m over OM3/OM4 multimode fibre with duplex LC connectors.",
+   "description": "The 10Gtek AXS85-192-M3 is a 10GBASE-SR SFP+ transceiver operating at 850 nm with reach up to 300 m over OM3/OM4 multimode fibre via dual LC connectors. It complies with SFF-8431 and IEEE 802.3ae 10GBASE-SR/SW, and 10Gtek offers vendor-coded versions for many switch and NIC brands.",
+   "keywords": "10gtek sfp+ 10gbase-sr transceiver 850nm multimode lc optic homelab",
+   "specs": {
+    "ports": "1 x duplex LC (OM3/OM4 MMF)",
+    "maxSpeedGbps": 10,
+    "interface": "SFP+"
+   },
+   "collections": [
+    "homelab-essentials",
+    "networking-lab"
+   ],
+   "featured": false,
+   "warranty": 12,
+   "sources": {
+    "product": "https://www.sfpcables.com/10gbase-sr-sfp-transceiver-10g-850nm-mmf-up-to-300-meters",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://media.sfpcables.com/media/catalog/product/1/_/1_42.jpg",
+    "page": "https://www.sfpcables.com/10gbase-sr-sfp-transceiver-10g-850nm-mmf-up-to-300-meters",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official 10Gtek product image from 10Gtek's own store (sfpcables.com / media.sfpcables.com); 10Gtek has not granted a general reuse license - rights not verified.",
+    "alt": "10Gtek AXS85-192-M3 10GBASE-SR SFP+ transceiver with bail latch and duplex LC port, three-quarter view",
+    "match": "EXACT",
+    "credit": "10Gtek"
+   },
+   "notes": "Price is 10Gtek's own store unit price; volume pricing and vendor-coded versions are offered."
+  },
+  {
+   "sku": "TK-10GTEK-ASF-10G-T",
+   "slug": "10gtek-sfp-plus-10gbase-t-asf-10g-t",
+   "name": "10Gtek 10GBASE-T SFP+ Copper Module (ASF-10G-T)",
+   "brand": "10Gtek",
+   "category": "network-adapters",
+   "price": "39.00",
+   "priceBasis": "msrp",
+   "priceSource": "https://www.sfpcables.com/10gbase-t-sfp-transceiver-10g-t-10g-copper-rj-45-sfp-cat-6a-up-to-30-meters",
+   "priceAsOf": "2026-09-28",
+   "summary": "SFP+ to RJ45 10GBASE-T copper module, multi-rate, up to 30 m over Cat6a/Cat7 cabling.",
+   "description": "The 10Gtek ASF-10G-T turns an SFP+ cage into a 10GBASE-T RJ45 port, letting switches and NICs with SFP+ slots connect to copper 10GbE devices. It supports multi-rate operation and up to 30 m over Cat6a or Cat7 cable, and is sold in vendor-coded versions for many brands.",
+   "keywords": "10gtek sfp+ 10gbase-t rj45 copper module asf-10g-t 10g copper transceiver",
+   "specs": {
+    "ports": "1 x RJ45 (Cat6a/Cat7, up to 30 m)",
+    "maxSpeedGbps": 10,
+    "interface": "SFP+"
+   },
+   "collections": [
+    "homelab-essentials",
+    "networking-lab"
+   ],
+   "featured": false,
+   "warranty": 12,
+   "sources": {
+    "product": "https://www.sfpcables.com/10gbase-t-sfp-transceiver-10g-t-10g-copper-rj-45-sfp-cat-6a-up-to-30-meters",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://media.sfpcables.com/media/catalog/product/1/_/1_5.jpg.jpg",
+    "page": "https://www.sfpcables.com/10gbase-t-sfp-transceiver-10g-t-10g-copper-rj-45-sfp-cat-6a-up-to-30-meters",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official 10Gtek product image from 10Gtek's own store (sfpcables.com / media.sfpcables.com); 10Gtek has not granted a general reuse license - rights not verified.",
+    "alt": "10Gtek ASF-10G-T SFP+ to RJ45 10GBASE-T copper module, three-quarter view showing RJ45 socket",
+    "match": "EXACT",
+    "credit": "10Gtek"
+   }
+  },
+  {
+   "sku": "TK-10GTEK-AMQ28-SR4-M1",
+   "slug": "10gtek-qsfp28-100gbase-sr4-amq28-sr4-m1",
+   "name": "10Gtek 100GBASE-SR4 QSFP28 Transceiver (AMQ28-SR4-M1)",
+   "brand": "10Gtek",
+   "category": "network-adapters",
+   "price": "29.00",
+   "priceBasis": "msrp",
+   "priceSource": "https://www.sfpcables.com/100gbase-sr4-qsfp28-transceiver-for-mmf-70-100-meters-mpo-mtp-4813",
+   "priceAsOf": "2026-09-28",
+   "summary": "100G QSFP28 SR4 optical module, 850 nm, up to 70 m on OM3 or 100 m on OM4 multimode fibre with an MPO/MTP connector.",
+   "description": "The 10Gtek AMQ28-SR4-M1 is a 100GBASE-SR4 QSFP28 transceiver operating at 850 nm, reaching up to 70 m over OM3 and 100 m over OM4 multimode fibre through an MTP/MPO connector. 10Gtek lists Mellanox/NVIDIA-compatible coding among its options.",
+   "keywords": "10gtek qsfp28 100gbase-sr4 transceiver 100g optic mpo mtp",
+   "specs": {
+    "ports": "1 x MTP/MPO (OM3/OM4 MMF)",
+    "maxSpeedGbps": 100,
+    "interface": "QSFP28"
+   },
+   "collections": [
+    "enterprise-lab",
+    "networking-lab"
+   ],
+   "featured": false,
+   "warranty": 12,
+   "sources": {
+    "product": "https://www.sfpcables.com/100gbase-sr4-qsfp28-transceiver-for-mmf-70-100-meters-mpo-mtp-4813",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://media.sfpcables.com/media/catalog/product/2/_/2_50_4.jpg",
+    "page": "https://www.sfpcables.com/100gbase-sr4-qsfp28-transceiver-for-mmf-70-100-meters-mpo-mtp-4813",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official 10Gtek product image from 10Gtek's own store (sfpcables.com / media.sfpcables.com); 10Gtek has not granted a general reuse license - rights not verified.",
+    "alt": "10Gtek AMQ28-SR4-M1 100GBASE-SR4 QSFP28 transceiver with beige pull tab, side view",
+    "match": "EXACT",
+    "credit": "10Gtek"
+   }
+  },
+  {
+   "sku": "TK-10GTEK-AZS85-S28-M1",
+   "slug": "10gtek-sfp28-25gbase-sr-azs85-s28-m1",
+   "name": "10Gtek 25GBASE-SR SFP28 Transceiver (AZS85-S28-M1)",
+   "brand": "10Gtek",
+   "category": "network-adapters",
+   "price": "12.00",
+   "priceBasis": "msrp",
+   "priceSource": "https://www.sfpcables.com/sfp28-transceivers/25gb-s-sfp28-sr-transceiver-850nm-up-to-100m-2866",
+   "priceAsOf": "2026-09-28",
+   "summary": "25G SFP28 short-reach optical module, 850 nm, up to 70 m on OM3 or 100 m on OM4 multimode fibre, duplex LC.",
+   "description": "The 10Gtek AZS85-S28-M1 is a 25GBASE-SR SFP28 transceiver operating at 850 nm, with reach up to 70 m over OM3 and 100 m over OM4 multimode fibre via dual LC connectors. It is multi-rate and available with vendor coding for several brands.",
+   "keywords": "10gtek sfp28 25gbase-sr transceiver 25g optic multimode lc",
+   "specs": {
+    "ports": "1 x duplex LC (OM3/OM4 MMF)",
+    "maxSpeedGbps": 25,
+    "interface": "SFP28"
+   },
+   "collections": [
+    "networking-lab",
+    "enterprise-lab"
+   ],
+   "featured": false,
+   "warranty": 12,
+   "sources": {
+    "product": "https://www.sfpcables.com/sfp28-transceivers/25gb-s-sfp28-sr-transceiver-850nm-up-to-100m-2866",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://media.sfpcables.com/media/catalog/product/1/_/1_49_1_16.jpg",
+    "page": "https://www.sfpcables.com/sfp28-transceivers/25gb-s-sfp28-sr-transceiver-850nm-up-to-100m-2866",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official 10Gtek product image from 10Gtek's own store (sfpcables.com / media.sfpcables.com); 10Gtek has not granted a general reuse license - rights not verified.",
+    "alt": "10Gtek AZS85-S28-M1 25GBASE-SR SFP28 transceiver with bail latch and duplex LC port",
+    "match": "EXACT",
+    "credit": "10Gtek"
+   }
+  },
+  {
+   "sku": "TK-10GTEK-CAB-10GSFP-P1M",
+   "slug": "10gtek-sfp-plus-passive-dac-1m",
+   "name": "10Gtek 10G SFP+ Passive DAC Twinax Cable, 1 m",
+   "brand": "10Gtek",
+   "category": "cables",
+   "price": "8.00",
+   "priceBasis": "msrp",
+   "priceSource": "https://www.sfpcables.com/sfp-dac-twinax-cable-1-meter-passive-sfp-h10gb-cu1m-2145",
+   "priceAsOf": "2026-09-28",
+   "summary": "1 m passive SFP+ to SFP+ direct-attach copper twinax cable for 10GBASE-CU links between switches, NICs and servers.",
+   "description": "The 10Gtek CAB-10GSFP-P-30 is a 1 m passive 10GBASE-CU direct-attach twinax cable with SFP+ connectors on both ends, 30 AWG two-pair differential cable and EEPROM I2C identification. It is the cheapest way to link 10G switches, NAS units and NICs in the same rack, and is offered with vendor coding for many brands.",
+   "keywords": "10gtek sfp+ dac twinax 1m passive 10g direct attach cable homelab",
+   "specs": {
+    "cableCategory": "SFP+ DAC",
+    "lengthM": 1,
+    "maxSpeedGbps": 10
+   },
+   "collections": [
+    "homelab-essentials",
+    "networking-lab"
+   ],
+   "featured": false,
+   "warranty": 12,
+   "sources": {
+    "product": "https://www.sfpcables.com/sfp-dac-twinax-cable-1-meter-passive-sfp-h10gb-cu1m-2145",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://media.sfpcables.com/media/catalog/product/1/_/1_30_1.jpg",
+    "page": "https://www.sfpcables.com/sfp-dac-twinax-cable-1-meter-passive-sfp-h10gb-cu1m-2145",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official 10Gtek product image from 10Gtek's own store (sfpcables.com / media.sfpcables.com); 10Gtek has not granted a general reuse license - rights not verified.",
+    "alt": "10Gtek 1 m SFP+ passive DAC twinax cable with SFP+ connectors on both ends, coiled",
+    "match": "EXACT",
+    "credit": "10Gtek"
+   }
+  },
+  {
+   "sku": "TK-10GTEK-CAB-ZSP-P",
+   "slug": "10gtek-sfp28-passive-dac",
+   "name": "10Gtek 25G SFP28 Passive DAC Twinax Cable",
+   "brand": "10Gtek",
+   "category": "cables",
+   "price": "9.00",
+   "priceBasis": "msrp",
+   "priceSource": "https://www.sfpcables.com/sfp28-dac-twinax-cable-sfp28-direct-attach-copper-cable-0-5-1-meter-passive-30awg-2316",
+   "priceAsOf": "2026-09-28",
+   "summary": "Passive SFP28 to SFP28 direct-attach copper cable for 25GBASE-CU links, offered in 0.5-5 m lengths.",
+   "description": "The 10Gtek CAB-ZSP/ZSP-P is a passive 25GBASE-CU twinax direct-attach cable with SFP28 connectors, two-pair differential cable (30/28/26 AWG depending on length) and EEPROM I2C identification. It is offered from 0.5 m to 5 m; the listed price is the store's starting price.",
+   "keywords": "10gtek sfp28 dac 25g twinax passive direct attach cable",
+   "specs": {
+    "cableCategory": "SFP28 DAC",
+    "maxSpeedGbps": 25,
+    "configurations": "0.5 m to 5 m lengths"
+   },
+   "collections": [
+    "networking-lab"
+   ],
+   "featured": false,
+   "warranty": 12,
+   "sources": {
+    "product": "https://www.sfpcables.com/sfp28-dac-twinax-cable-sfp28-direct-attach-copper-cable-0-5-1-meter-passive-30awg-2316",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://media.sfpcables.com/media/catalog/product/c/7/c77028bd1cd6bead62ef879afbe2f33f.jpg.jpg",
+    "page": "https://www.sfpcables.com/sfp28-dac-twinax-cable-sfp28-direct-attach-copper-cable-0-5-1-meter-passive-30awg-2316",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official 10Gtek product image from 10Gtek's own store (sfpcables.com / media.sfpcables.com); 10Gtek has not granted a general reuse license - rights not verified.",
+    "alt": "10Gtek SFP28 passive DAC twinax cable with blue pull tabs, coiled",
+    "match": "EXACT",
+    "credit": "10Gtek"
+   },
+   "notes": "Price is the starting price shown on 10Gtek's store; longer lengths cost more."
+  },
+  {
+   "sku": "TK-10GTEK-X520-10G-2S-X8",
+   "slug": "10gtek-x520-10g-2s-x8",
+   "name": "10Gtek X520-10G-2S-X8 Dual-Port 10G SFP+ Network Card",
+   "brand": "10Gtek",
+   "category": "network-adapters",
+   "price": "47.00",
+   "priceBasis": "msrp",
+   "priceSource": "https://www.sfpcables.com/10g-network-card-dual-sfp-port-x8-lane-intel-x520-da2-intel-e10g42btda-equivalent-4728",
+   "priceAsOf": "2026-09-28",
+   "summary": "Dual SFP+ 10GbE PCIe x8 network card on the Intel 82599ES controller, compatible with Intel X520-DA2 drivers.",
+   "description": "10Gtek's X520-10G-2S-X8 is a dual-port SFP+ 10GbE converged network adapter built on the Intel 82599ES controller and compatible with Intel X520 drivers. It works with SFP+ DACs or transceivers, supports iSCSI, FCoE and NFS, and ships with full-height and low-profile brackets; 10Gtek notes it is not hot-swappable.",
+   "keywords": "10gtek x520-da2 82599es dual sfp+ 10g nic pcie proxmox truenas homelab",
+   "specs": {
+    "ports": "2 x SFP+",
+    "maxSpeedGbps": 10,
+    "interface": "PCIe x8"
+   },
+   "collections": [
+    "homelab-essentials",
+    "homelab-starter"
+   ],
+   "featured": false,
+   "warranty": 12,
+   "sources": {
+    "product": "https://www.sfpcables.com/10g-network-card-dual-sfp-port-x8-lane-intel-x520-da2-intel-e10g42btda-equivalent-4728",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://media.sfpcables.com/media/catalog/product/1/_/1.__20.jpg",
+    "page": "https://www.sfpcables.com/10g-network-card-dual-sfp-port-x8-lane-intel-x520-da2-intel-e10g42btda-equivalent-4728",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official 10Gtek product image from 10Gtek's own store (sfpcables.com / media.sfpcables.com); 10Gtek has not granted a general reuse license - rights not verified.",
+    "alt": "10Gtek X520-10G-2S-X8 green PCIe card with two SFP+ cages and black heatsink, shown with spare low-profile bracket",
+    "match": "EXACT",
+    "credit": "10Gtek"
+   }
+  },
+  {
+   "sku": "TK-10GTEK-710-25G-2S-X8",
+   "slug": "10gtek-710-25g-2s-x8",
+   "name": "10Gtek 710-25G-2S-X8 Dual-Port 25G SFP28 Network Card",
+   "brand": "10Gtek",
+   "category": "network-adapters",
+   "price": "399.00",
+   "priceBasis": "msrp",
+   "priceSource": "https://www.sfpcables.com/dual-25gbps-ethernet-converged-network-adapter-pci-e-x8-compatible-with-intel-xxv710-da2-4736",
+   "priceAsOf": "2026-09-28",
+   "summary": "Dual SFP28 25GbE PCIe 3.0 x8 network card on the Intel XXV710 controller, compatible with Intel XXV710-DA2.",
+   "description": "The 10Gtek 710-25G-2S-X8 is a dual-port 25GbE SFP28 adapter using the Intel XXV710 controller on a PCI Express 3.0 x8 (8.0 GT/s) interface. It works with SFP28 transceivers or AOCs and ships with full-height and low-profile brackets.",
+   "keywords": "10gtek xxv710 25g sfp28 dual port nic pcie",
+   "specs": {
+    "ports": "2 x SFP28",
+    "maxSpeedGbps": 25,
+    "interface": "PCIe 3.0 x8"
+   },
+   "collections": [
+    "networking-lab",
+    "enterprise-lab"
+   ],
+   "featured": false,
+   "warranty": 12,
+   "sources": {
+    "product": "https://www.sfpcables.com/dual-25gbps-ethernet-converged-network-adapter-pci-e-x8-compatible-with-intel-xxv710-da2-4736",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://media.sfpcables.com/media/catalog/product/7/1/710-25g-2s-x8-1_1.jpg",
+    "page": "https://www.sfpcables.com/dual-25gbps-ethernet-converged-network-adapter-pci-e-x8-compatible-with-intel-xxv710-da2-4736",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official 10Gtek product image from 10Gtek's own store (sfpcables.com / media.sfpcables.com); 10Gtek has not granted a general reuse license - rights not verified.",
+    "alt": "10Gtek 710-25G-2S-X8 PCIe card with two SFP28 cages and long black heatsink on a full-height bracket",
+    "match": "EXACT",
+    "credit": "10Gtek"
+   }
+  },
+  {
+   "sku": "TK-10GTEK-XL710-10G-4S-X8",
+   "slug": "10gtek-xl710-10g-4s-x8",
+   "name": "10Gtek XL710-10G-4S-X8 Quad-Port 10G SFP+ Network Card",
+   "brand": "10Gtek",
+   "category": "network-adapters",
+   "price": "195.00",
+   "priceBasis": "msrp",
+   "priceSource": "https://www.sfpcables.com/10g-network-card-quad-sfp-port-x8-lane-intel-x710-da4-equivalent-4730",
+   "priceAsOf": "2026-09-28",
+   "summary": "Four-port SFP+ 10GbE PCIe 3.0 x8 network card on the Intel XL710-BM1 controller, compatible with Intel X710-DA4.",
+   "description": "10Gtek's XL710-10G-4S-X8 provides four SFP+ 10GbE ports from an Intel XL710-BM1 controller over PCI Express 3.0 x8, and is positioned as compatible with the Intel X710-DA4. It accepts SFP+ DACs or transceivers, ships with full-height and low-profile brackets and carries a one-year warranty.",
+   "keywords": "10gtek xl710 quad sfp+ 10g nic x710-da4 pcie router firewall",
+   "specs": {
+    "ports": "4 x SFP+",
+    "maxSpeedGbps": 10,
+    "interface": "PCIe 3.0 x8"
+   },
+   "collections": [
+    "networking-lab",
+    "homelab-essentials"
+   ],
+   "featured": false,
+   "warranty": 12,
+   "sources": {
+    "product": "https://www.sfpcables.com/10g-network-card-quad-sfp-port-x8-lane-intel-x710-da4-equivalent-4730",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://media.sfpcables.com/media/catalog/product/1/_/1_10_1_1.jpg",
+    "page": "https://www.sfpcables.com/10g-network-card-quad-sfp-port-x8-lane-intel-x710-da4-equivalent-4730",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official 10Gtek product image from 10Gtek's own store (sfpcables.com / media.sfpcables.com); 10Gtek has not granted a general reuse license - rights not verified.",
+    "alt": "10Gtek XL710-10G-4S-X8 green PCIe card with four SFP+ cages and black heatsink, with spare low-profile bracket",
+    "match": "EXACT",
+    "credit": "10Gtek"
+   }
+  },
+  {
+   "sku": "TK-LENOVO-M70Q-G6",
+   "slug": "lenovo-thinkcentre-m70q-gen-6-tiny",
+   "name": "Lenovo ThinkCentre M70q Gen 6 Tiny",
+   "brand": "Lenovo",
+   "category": "mini-pcs",
+   "price": "899.00",
+   "priceBasis": "estimate",
+   "summary": "1-litre business Tiny PC with Intel Core Ultra (Series 2) T-series CPUs, up to 64 GB DDR5-5600 and two PCIe 4.0 M.2 slots.",
+   "description": "The ThinkCentre M70q Gen 6 Tiny uses Intel Core Ultra 5 225T/235T/245T or Core Ultra 7 265T processors on the Q870 chipset, with up to 64 GB DDR5-5600 in two SO-DIMMs and two M.2 2280 PCIe 4.0 NVMe slots (RAID 0/1 capable). It has onboard Gigabit Ethernet, optional Wi-Fi 6E or Wi-Fi 7, up to four displays and 65/90/135 W adapter options - a popular low-power Proxmox node in homelab clusters.",
+   "keywords": "lenovo thinkcentre m70q gen 6 tiny mini pc core ultra 200t homelab proxmox cluster",
+   "specs": {
+    "cpu": "Intel Core Ultra 5 225T (Core Ultra 5 235T/245T, Core Ultra 7 265T options)",
+    "cpuBrand": "Intel",
+    "networking": "1 x GbE RJ45, optional Wi-Fi 6E / Wi-Fi 7",
+    "ports": "Front: USB-C 10Gbps, 2 x USB-A 10Gbps; Rear: 2 x USB-A 10Gbps, 2 x USB-A 5Gbps, HDMI 2.1, DP 1.4a"
+   },
+   "collections": [
+    "homelab-starter",
+    "small-business"
+   ],
+   "featured": false,
+   "warranty": 12,
+   "notes": "Specifications from Lenovo PSREF. Lenovo.com pricing could not be read without a browser session; price is a TrustKart estimate for a Core Ultra 5 configuration.",
+   "sources": {
+    "product": "https://psref.lenovo.com/Product/ThinkCentre/ThinkCentre_M70q_Gen_6",
+    "specs": "https://psref.lenovo.com/syspool/Sys/PDF/ThinkCentre/ThinkCentre_M70q_Gen_6/ThinkCentre_M70q_Gen_6_Spec.html",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://psrefstuff.lenovo.com/syspool/Sys/Image/ThinkCentre/ThinkCentre_M70q_Gen_6/ThinkCentre_M70q_Gen_6_CT1_01.png",
+    "page": "https://psref.lenovo.com/Product/ThinkCentre/ThinkCentre_M70q_Gen_6",
+    "sourceType": "manufacturer-media-library",
+    "rights": "Lenovo PSREF (Product Specifications Reference) product image; Lenovo has not granted a general reuse license - rights not verified.",
+    "alt": "Lenovo ThinkCentre M70q Gen 6 Tiny black 1-litre desktop standing vertically, front three-quarter view",
+    "match": "PRODUCT_LINE",
+    "credit": "Lenovo"
+   }
+  },
+  {
+   "sku": "TK-MINISFORUM-UM890PRO",
+   "slug": "minisforum-um890-pro",
+   "name": "MINISFORUM UM890 Pro",
+   "brand": "MINISFORUM",
+   "category": "mini-pcs",
+   "price": "463.00",
+   "compareAt": "579.00",
+   "priceBasis": "starting-at",
+   "priceSource": "https://store.minisforum.com/products/minisforum-um890pro-mini-pc",
+   "priceAsOf": "2026-09-28",
+   "summary": "Ryzen 9 8945HS mini PC with dual 2.5GbE, OCuLink, two USB4 ports, two PCIe 4.0 M.2 slots and up to 96 GB DDR5.",
+   "description": "The UM890 Pro uses the AMD Ryzen 9 8945HS (8 cores / 16 threads, up to 5.3 GHz) with Radeon 780M graphics. It supports up to 96 GB DDR5-5600 in two SO-DIMMs and two M.2 2280 PCIe 4.0 SSDs, with dual 2.5GbE, Wi-Fi 6E, two 40 Gbps USB4 ports and an OCuLink (PCIe 4.0 x4) port. The priced base is the barebone (no RAM, SSD or OS).",
+   "keywords": "minisforum um890 pro ryzen 9 8945hs mini pc oculink usb4 dual 2.5gbe proxmox",
+   "specs": {
+    "cpu": "AMD Ryzen 9 8945HS (8C/16T, up to 5.3 GHz)",
+    "cpuBrand": "AMD",
+    "gpu": "AMD Radeon 780M",
+    "networking": "2 x 2.5GbE, Wi-Fi 6E",
+    "ports": "2 x USB4 (40 Gbps), OCuLink (PCIe 4.0 x4), HDMI 2.1, DP 1.4, 2 x M.2 PCIe 4.0"
+   },
+   "variants": [
+    {
+     "label": "Barebone",
+     "price": "463.00"
+    },
+    {
+     "label": "32 GB + 512 GB",
+     "price": "919.00"
+    },
+    {
+     "label": "32 GB + 1 TB",
+     "price": "991.00"
+    },
+    {
+     "label": "64 GB + 1 TB",
+     "price": "1351.00"
+    }
+   ],
+   "collections": [
+    "homelab-starter"
+   ],
+   "featured": false,
+   "warranty": 12,
+   "notes": "Official store sale prices; compareAt is the store's listed regular price.",
+   "sources": {
+    "product": "https://store.minisforum.com/products/minisforum-um890pro-mini-pc",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0401/1032/5921/files/Compressed_UM890_Pro.png?v=1783865886",
+    "page": "https://store.minisforum.com/products/minisforum-um890pro-mini-pc",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official MINISFORUM product image from the MINISFORUM US store (store.minisforum.com); MINISFORUM has not granted a general reuse license - rights not verified.",
+    "alt": "MINISFORUM UM890 Pro dark grey mini PC, front three-quarter view with front USB ports",
+    "match": "EXACT",
+    "credit": "MINISFORUM"
+   }
+  },
+  {
+   "sku": "TK-MINISFORUM-AIX1PRO470",
+   "slug": "minisforum-ai-x1-pro-470",
+   "name": "MINISFORUM AI X1 Pro-470",
+   "brand": "MINISFORUM",
+   "category": "mini-pcs",
+   "price": "759.00",
+   "compareAt": "949.00",
+   "priceBasis": "starting-at",
+   "priceSource": "https://store.minisforum.com/products/minisforum-ai-x1-pro-470-mini-pc",
+   "priceAsOf": "2026-09-28",
+   "summary": "Copilot+ mini PC with Ryzen AI 9 HX 470 (12C/24T, 55 TOPS NPU), up to 128 GB DDR5, three NVMe slots, dual USB4, OCuLink and a built-in PSU.",
+   "description": "The AI X1 Pro-470 is powered by the AMD Ryzen AI 9 HX 470 (12 cores / 24 threads, up to 5.2 GHz) with an NPU of up to 55 TOPS and up to 86 TOPS total. It takes up to 128 GB DDR5-5600 in two SO-DIMMs and three M.2 PCIe 4.0 NVMe drives (12 TB), with dual USB4, an OCuLink port, a fingerprint reader and a built-in 134.9 W power supply. The priced base is the barebone.",
+   "keywords": "minisforum ai x1 pro 470 ryzen ai 9 hx 470 copilot+ mini pc oculink usb4 128gb",
+   "specs": {
+    "cpu": "AMD Ryzen AI 9 HX 470 (12C/24T, up to 5.2 GHz)",
+    "cpuBrand": "AMD",
+    "psuW": 135,
+    "ports": "2 x USB4, OCuLink, 3 x M.2 PCIe 4.0 (12 TB)"
+   },
+   "variants": [
+    {
+     "label": "Barebone",
+     "price": "759.00"
+    },
+    {
+     "label": "32 GB + 1 TB",
+     "price": "1327.00"
+    },
+    {
+     "label": "64 GB + 1 TB",
+     "price": "1639.00"
+    },
+    {
+     "label": "96 GB + 2 TB",
+     "price": "2039.00"
+    }
+   ],
+   "collections": [
+    "ai-lab",
+    "developer-setup"
+   ],
+   "featured": false,
+   "warranty": 12,
+   "notes": "Official store sale prices; compareAt is the store's listed regular price. PSU is 134.9 W per MINISFORUM (rounded in specs).",
+   "sources": {
+    "product": "https://store.minisforum.com/products/minisforum-ai-x1-pro-470-mini-pc",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0401/1032/5921/files/Compressed_AI_X1_Pro-470.png?v=1783865358",
+    "page": "https://store.minisforum.com/products/minisforum-ai-x1-pro-470-mini-pc",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official MINISFORUM product image from the MINISFORUM US store (store.minisforum.com); MINISFORUM has not granted a general reuse license - rights not verified.",
+    "alt": "MINISFORUM AI X1 Pro-470 silver mini PC standing vertically on its stand, front three-quarter view",
+    "match": "EXACT",
+    "credit": "MINISFORUM"
+   }
+  },
+  {
+   "sku": "TK-GMKTEC-EVOX1PRO",
+   "slug": "gmktec-evo-x1-pro",
+   "name": "GMKtec EVO-X1 Pro (Ryzen AI 9 HX 470)",
+   "brand": "GMKtec",
+   "category": "mini-pcs",
+   "price": "1599.99",
+   "compareAt": "2299.99",
+   "priceBasis": "starting-at",
+   "priceSource": "https://www.gmktec.com/products/gmktec-evo-x1-pro-ai-mini-pc-amd-ryzen-ai-9-hx-470",
+   "priceAsOf": "2026-09-28",
+   "summary": "Ryzen AI 9 HX 470 mini PC with 64 GB LPDDR5-6400, dual 2.5GbE, Wi-Fi 7, USB4 and an OCuLink port.",
+   "description": "The EVO-X1 Pro uses the AMD Ryzen AI 9 HX 470 (12 cores / 24 threads, up to 5.2 GHz) with Radeon 890M graphics and an NPU of up to 55 TOPS. It ships with 64 GB of soldered LPDDR5-6400 and two M.2 2280 PCIe 4.0 slots (up to 16 TB), plus dual 2.5GbE, Wi-Fi 7, Bluetooth 5.4, a USB4 port and an OCuLink (PCIe 4.0 x4) port, powered by a 120 W adapter.",
+   "keywords": "gmktec evo-x1 pro ryzen ai 9 hx 470 mini pc oculink wifi 7 dual 2.5gbe",
+   "specs": {
+    "cpu": "AMD Ryzen AI 9 HX 470 (12C/24T, up to 5.2 GHz)",
+    "cpuBrand": "AMD",
+    "gpu": "AMD Radeon 890M",
+    "ramGb": 64,
+    "storageTb": 1,
+    "networking": "2 x 2.5GbE, Wi-Fi 7, Bluetooth 5.4",
+    "ports": "USB4, OCuLink (PCIe 4.0 x4), 4 x USB 3.2 Gen2 Type-A",
+    "psuW": 120
+   },
+   "variants": [
+    {
+     "label": "64 GB + 1 TB",
+     "price": "1599.99"
+    },
+    {
+     "label": "64 GB + 2 TB",
+     "price": "1769.99"
+    }
+   ],
+   "collections": [
+    "ai-lab"
+   ],
+   "featured": false,
+   "warranty": 12,
+   "notes": "Official store sale prices; compareAt is the store's listed regular price.",
+   "sources": {
+    "product": "https://www.gmktec.com/products/gmktec-evo-x1-pro-ai-mini-pc-amd-ryzen-ai-9-hx-470",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0715/1314/5498/files/EVO-X1-PRO_1.jpg?v=1785246068",
+    "page": "https://www.gmktec.com/products/gmktec-evo-x1-pro-ai-mini-pc-amd-ryzen-ai-9-hx-470",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official GMKtec product image from the GMKtec store (gmktec.com); GMKtec has not granted a general reuse license - rights not verified.",
+    "alt": "GMKtec EVO-X1 Pro mini PC shown front and rear side by side, dark grey chassis with front ports",
+    "match": "EXACT",
+    "credit": "GMKtec"
+   }
+  },
+  {
+   "sku": "TK-GMKTEC-M7ULTRA",
+   "slug": "gmktec-m7-ultra",
+   "name": "GMKtec M7 Ultra (Ryzen 7 PRO 6850U)",
+   "brand": "GMKtec",
+   "category": "mini-pcs",
+   "price": "379.99",
+   "compareAt": "469.99",
+   "priceBasis": "starting-at",
+   "priceSource": "https://www.gmktec.com/products/amd-ryzen%E2%84%A2-7-pro-6850u-mini-pc-gmktec-m7-ultra",
+   "priceAsOf": "2026-09-28",
+   "summary": "Ryzen 7 PRO 6850U mini PC with dual 2.5GbE, two USB4 ports, OCuLink and three M.2 slots.",
+   "description": "The M7 Ultra uses the AMD Ryzen 7 PRO 6850U (8 cores / 16 threads, up to 4.7 GHz) with Radeon 680M graphics. It supports up to 64 GB DDR5-4800 in two SO-DIMMs, a primary M.2 PCIe 3.0 SSD plus two M.2 2280 PCIe 4.0 x4 slots, dual 2.5GbE, Wi-Fi 6E, two full-function USB4 ports and an OCuLink port. The priced base is the barebone.",
+   "keywords": "gmktec m7 ultra ryzen 7 pro 6850u mini pc dual 2.5gbe usb4 oculink homelab",
+   "specs": {
+    "cpu": "AMD Ryzen 7 PRO 6850U (8C/16T, up to 4.7 GHz)",
+    "cpuBrand": "AMD",
+    "gpu": "AMD Radeon 680M",
+    "networking": "2 x 2.5GbE, Wi-Fi 6E",
+    "ports": "2 x USB4, OCuLink, 3 x M.2 (1 x PCIe 3.0 + 2 x PCIe 4.0)"
+   },
+   "variants": [
+    {
+     "label": "Barebone",
+     "price": "379.99"
+    },
+    {
+     "label": "16 GB + 512 GB",
+     "price": "559.99"
+    },
+    {
+     "label": "32 GB + 1 TB",
+     "price": "749.99"
+    }
+   ],
+   "collections": [
+    "homelab-starter"
+   ],
+   "featured": false,
+   "warranty": 12,
+   "notes": "Official store sale prices; compareAt is the store's listed regular price.",
+   "sources": {
+    "product": "https://www.gmktec.com/products/amd-ryzen%E2%84%A2-7-pro-6850u-mini-pc-gmktec-m7-ultra",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0715/1314/5498/files/GMKtec_M7_Ultra_Mini_PC.png?v=1784801470",
+    "page": "https://www.gmktec.com/products/amd-ryzen%E2%84%A2-7-pro-6850u-mini-pc-gmktec-m7-ultra",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official GMKtec product image from the GMKtec store (gmktec.com); GMKtec has not granted a general reuse license - rights not verified.",
+    "alt": "GMKtec M7 Ultra grey mini PC shown front and rear, rear view with dual 2.5GbE and USB4 ports",
+    "match": "EXACT",
+    "credit": "GMKtec"
+   }
+  },
+  {
+   "sku": "TK-PROTECTLI-V1410",
+   "slug": "protectli-vault-v1410",
+   "name": "Protectli Vault V1410",
+   "brand": "Protectli",
+   "category": "firewalls",
+   "price": "449.00",
+   "priceBasis": "starting-at",
+   "priceSource": "https://protectli.com/product/v1410/",
+   "priceAsOf": "2026-09-28",
+   "summary": "Compact fanless 4 x 2.5GbE firewall appliance with Intel N5105, 8 GB soldered LPDDR4 and NVMe storage.",
+   "description": "The Vault V1410 is a small fanless appliance with an Intel N5105 quad-core CPU (up to 2.9 GHz) and four Intel I226-V 2.5GbE ports. It has 8 GB of soldered LPDDR4, 32 GB eMMC and an M.2 NVMe slot, in an all-aluminium enclosure that acts as the heatsink, for pfSense, OPNsense and other router/firewall operating systems.",
+   "keywords": "protectli vault v1410 firewall 4 port 2.5gbe n5105 fanless opnsense pfsense",
+   "specs": {
+    "ports": "4 x 2.5GbE RJ45 (Intel I226-V)",
+    "maxSpeedGbps": 2.5,
+    "rackMountable": false
+   },
+   "collections": [
+    "networking-lab",
+    "homelab-starter"
+   ],
+   "featured": false,
+   "warranty": 12,
+   "sources": {
+    "product": "https://protectli.com/product/v1410/",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://protectli.com/wp-content/uploads/2024/06/V1410_angle_1600x1600.png",
+    "page": "https://protectli.com/product/v1410/",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official Protectli product image from protectli.com; Protectli has not granted a general reuse license - rights not verified.",
+    "alt": "Protectli Vault V1410 fanless appliance with finned top, three-quarter view showing four RJ45 ports",
+    "match": "EXACT",
+    "credit": "Protectli"
+   }
+  },
+  {
+   "sku": "TK-SONNET-TWIN10G-PCIE",
+   "slug": "sonnet-twin10g-10gbase-t-pcie-card",
+   "name": "Sonnet Twin10G 10GBASE-T PCIe Card",
+   "brand": "Sonnet",
+   "category": "network-adapters",
+   "price": "199.99",
+   "priceBasis": "msrp",
+   "priceSource": "https://www.sonnetstore.com/products/twin10g-10gbaset-pcie-card",
+   "priceAsOf": "2026-09-28",
+   "summary": "Low-profile dual-port 10GBASE-T PCIe card for Mac Pro, Windows and Linux systems and Thunderbolt PCIe enclosures.",
+   "description": "The Sonnet Twin10G 10GBASE-T PCIe Card (G10E-2X-E3, formerly Presto) adds two RJ45 10GbE ports to Mac Pro towers, Windows and Linux desktops and servers, and Thunderbolt expansion systems. It installs in an x4 or larger PCIe slot and connects over Cat 6 (up to 55 m) or Cat 6A (up to 100 m) cabling.",
+   "keywords": "sonnet twin10g 10gbase-t pcie dual port 10gbe mac pro",
+   "specs": {
+    "ports": "2 x RJ45 10GBASE-T",
+    "maxSpeedGbps": 10,
+    "interface": "PCIe (x4 or larger slot)"
+   },
+   "collections": [
+    "creator-workstations"
+   ],
+   "featured": false,
+   "warranty": 24,
+   "sources": {
+    "product": "https://www.sonnetstore.com/products/twin10g-10gbaset-pcie-card",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0847/8540/products/prod_presto10gbaset_l.png?v=1486593714",
+    "page": "https://www.sonnetstore.com/products/twin10g-10gbaset-pcie-card",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official Sonnet product image from the Sonnet store (sonnetstore.com); Sonnet has not granted a general reuse license - rights not verified.",
+    "alt": "Sonnet Twin10G 10GBASE-T PCIe card with two RJ45 ports and aluminium heatsink on a full-height bracket",
+    "match": "EXACT",
+    "credit": "Sonnet"
+   }
+  },
+  {
+   "sku": "TK-SONNET-SOLO10G-SFP-V2",
+   "slug": "sonnet-solo10g-sfp-v2-pcie-card",
+   "name": "Sonnet Solo10G SFP+ V2 PCIe Card",
+   "brand": "Sonnet",
+   "category": "network-adapters",
+   "price": "99.99",
+   "priceBasis": "msrp",
+   "priceSource": "https://www.sonnetstore.com/products/solo10g-sfp-v2-pcie-card",
+   "priceAsOf": "2026-09-28",
+   "summary": "Single-port 10GbE SFP+ PCIe card that ships with a 10GBASE-SR SFP+ transceiver, for Mac, Windows and Linux.",
+   "description": "The Sonnet Solo10G SFP+ V2 PCIe Card (G10E-SFP-1XN-E3) adds one optical 10 Gigabit Ethernet port to Mac Pro, Windows and Linux computers and servers with PCIe slots, and includes an SFP+ transceiver so it can connect to 10GbE fibre infrastructure out of the box.",
+   "keywords": "sonnet solo10g sfp+ v2 pcie 10gbe fiber card transceiver included",
+   "specs": {
+    "ports": "1 x SFP+ (transceiver included)",
+    "maxSpeedGbps": 10,
+    "interface": "PCIe"
+   },
+   "collections": [
+    "homelab-starter"
+   ],
+   "featured": false,
+   "warranty": 24,
+   "sources": {
+    "product": "https://www.sonnetstore.com/products/solo10g-sfp-v2-pcie-card",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0847/8540/files/solo10gsfpv2-pcie-card-prod-hero_3f6e8012-8af3-4d3a-bc5d-f7331415342c.png?v=1763546682",
+    "page": "https://www.sonnetstore.com/products/solo10g-sfp-v2-pcie-card",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official Sonnet product image from the Sonnet store (sonnetstore.com); Sonnet has not granted a general reuse license - rights not verified.",
+    "alt": "Sonnet Solo10G SFP+ V2 PCIe card with single SFP+ cage and black heatsink on a green PCB",
+    "match": "EXACT",
+    "credit": "Sonnet"
+   }
+  },
+  {
+   "sku": "TK-SONNET-G10E-SFP-SR",
+   "slug": "sonnet-sfp-plus-short-range-transceiver",
+   "name": "Sonnet SFP+ Short-Range Transceiver (G10E-SFP-SR)",
+   "brand": "Sonnet",
+   "category": "network-adapters",
+   "price": "29.99",
+   "priceBasis": "msrp",
+   "priceSource": "https://www.sonnetstore.com/products/sfp-short-range-transceiver",
+   "priceAsOf": "2026-09-28",
+   "summary": "10GBASE-SR SFP+ optical module for LC fibre, up to 300 m, for Sonnet 10GbE adapters and compatible switches.",
+   "description": "Sonnet's G10E-SFP-SR short-range SFP+ transceiver supports 10Gb Ethernet links of up to 300 m over LC fibre optic cable. It is designed for Sonnet's Twin10G and Solo10G SFP+ Thunderbolt adapters and PCIe cards, and Sonnet also lists compatibility with Cisco 10G switches.",
+   "keywords": "sonnet sfp+ 10gbase-sr transceiver g10e-sfp-sr 850nm lc",
+   "specs": {
+    "ports": "1 x duplex LC",
+    "maxSpeedGbps": 10,
+    "interface": "SFP+"
+   },
+   "collections": [
+    "networking-lab"
+   ],
+   "featured": false,
+   "warranty": 24,
+   "sources": {
+    "product": "https://www.sonnetstore.com/products/sfp-short-range-transceiver",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0847/8540/products/prod_g10esfpsr.png?v=1494449325",
+    "page": "https://www.sonnetstore.com/products/sfp-short-range-transceiver",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official Sonnet product image from the Sonnet store (sonnetstore.com); Sonnet has not granted a general reuse license - rights not verified.",
+    "alt": "Sonnet 10GBASE-SR SFP+ multimode 850 nm transceiver with bail latch, three-quarter view",
+    "match": "EXACT",
+    "credit": "Sonnet"
+   }
+  },
+  {
+   "sku": "TK-QNAP-QXG-25G2SF-E810",
+   "slug": "qnap-qxg-25g2sf-e810",
+   "name": "QNAP QXG-25G2SF-E810 Dual-Port 25GbE SFP28 Network Card",
+   "brand": "QNAP",
+   "category": "network-adapters",
+   "price": "399.00",
+   "priceBasis": "msrp",
+   "priceSource": "https://store.qnap.com/qxg-25g2sf-e810.html",
+   "priceAsOf": "2026-09-28",
+   "summary": "Low-profile dual-port 25GbE SFP28 PCIe Gen4 x8 card on the Intel E810-XXVAM2 controller.",
+   "description": "The QXG-25G2SF-E810 provides two SFP28 ports at 25 or 10 Gb/s using the Intel E810-XXVAM2 controller over PCIe Gen4 x8. It supports IEEE 802.3ad link aggregation, 802.1Q VLANs and 1588 time sync, ships with low-profile and full-height brackets, and works in QNAP NAS as well as Windows and Linux hosts with SFP28 DACs or optics.",
+   "keywords": "qnap qxg-25g2sf-e810 intel e810 dual sfp28 25gbe pcie gen4 nic",
+   "specs": {
+    "ports": "2 x SFP28 (25G/10G)",
+    "maxSpeedGbps": 25,
+    "interface": "PCIe Gen4 x8"
+   },
+   "collections": [
+    "networking-lab",
+    "homelab-essentials"
+   ],
+   "featured": false,
+   "warranty": 36,
+   "sources": {
+    "product": "https://www.qnap.com/en-us/product/qxg-25g2sf-e810",
+    "specs": "https://www.qnap.com/en-us/product/qxg-25g2sf-e810/specs/hardware",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://dgi6y9510e51q.cloudfront.net/catalog/product/cache/46a4d0e27eb42d1dba1b8d3799f55cab/7/6/765_1692772034_QXG-25G2SF-E810_Left_1.webp",
+    "page": "https://store.qnap.com/qxg-25g2sf-e810.html",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official QNAP product image from the QNAP US store (store.qnap.com); QNAP has not granted a general reuse license - rights not verified.",
+    "alt": "QNAP QXG-25G2SF-E810 blue PCIe card with two SFP28 cages and fan heatsink on a full-height bracket",
+    "match": "EXACT",
+    "credit": "QNAP"
+   }
+  },
+  {
+   "sku": "TK-QNAP-QXG-10G2T-X710",
+   "slug": "qnap-qxg-10g2t-x710",
+   "name": "QNAP QXG-10G2T-X710 Dual-Port 10GBASE-T Network Card",
+   "brand": "QNAP",
+   "category": "network-adapters",
+   "price": "359.00",
+   "priceBasis": "msrp",
+   "priceSource": "https://store.qnap.com/qxg-10g2t-x710.html",
+   "priceAsOf": "2026-09-28",
+   "summary": "Low-profile dual-port 10GBASE-T NBASE-T card on Intel X710 with SR-IOV (128 VFs), PCIe 3.0 x4.",
+   "description": "The QXG-10G2T-X710 adds two RJ45 NBASE-T ports (10G/5G/2.5G/1G/100M) using the Intel Ethernet Controller X710 over PCIe 3.0 x4. It supports SR-IOV with 128 virtual functions, NVGRE/VXLAN/Geneve offloads and on-chip QoS, and ships with low-profile and full-height brackets for NAS, Windows and Linux hosts.",
+   "keywords": "qnap qxg-10g2t-x710 intel x710 dual 10gbase-t nbase-t sr-iov pcie nic",
+   "specs": {
+    "ports": "2 x RJ45 10GBASE-T (10G/5G/2.5G/1G/100M)",
+    "maxSpeedGbps": 10,
+    "interface": "PCIe 3.0 x4"
+   },
+   "collections": [
+    "networking-lab"
+   ],
+   "featured": false,
+   "warranty": 36,
+   "sources": {
+    "product": "https://www.qnap.com/en-us/product/qxg-10g2t-x710",
+    "specs": "https://www.qnap.com/en-us/product/qxg-10g2t-x710/specs/hardware",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://dgi6y9510e51q.cloudfront.net/catalog/product/cache/46a4d0e27eb42d1dba1b8d3799f55cab/5/4/541_1618295875_E794A2E59381E59C96__QXG-10G2T-X710_left.webp",
+    "page": "https://store.qnap.com/qxg-10g2t-x710.html",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official QNAP product image from the QNAP US store (store.qnap.com); QNAP has not granted a general reuse license - rights not verified.",
+    "alt": "QNAP QXG-10G2T-X710 blue low-profile PCIe card with two RJ45 ports and fan heatsink, angled view",
+    "match": "EXACT",
+    "credit": "QNAP"
+   }
+  },
+  {
+   "sku": "TK-SONNET-SOLO10G-PCIE",
+   "slug": "sonnet-solo10g-pcie-card",
+   "name": "Sonnet Solo10G 10GBASE-T PCIe Card",
+   "brand": "Sonnet",
+   "category": "network-adapters",
+   "price": "109.99",
+   "priceBasis": "msrp",
+   "priceSource": "https://www.sonnetstore.com/products/solo10g-pcie-card",
+   "priceAsOf": "2026-09-28",
+   "summary": "Single-port 10GBASE-T PCIe card for Mac Pro, Windows and Linux desktops and servers, and Thunderbolt PCIe expansion chassis.",
+   "description": "The Sonnet Solo10G PCIe Card (G10E-1X-E3) adds one RJ45 10GBASE-T port to Mac Pro towers, Windows and Linux desktops and servers, or Thunderbolt expansion systems with PCIe slots, providing a low-cost way to connect client machines to 10GbE copper switches and shared storage.",
+   "keywords": "sonnet solo10g pcie 10gbase-t single port 10gbe card mac pro",
+   "specs": {
+    "ports": "1 x RJ45 10GBASE-T",
+    "maxSpeedGbps": 10,
+    "interface": "PCIe"
+   },
+   "collections": [
+    "creator-workstations",
+    "homelab-starter"
+   ],
+   "featured": false,
+   "warranty": 24,
+   "sources": {
+    "product": "https://www.sonnetstore.com/products/solo10g-pcie-card",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0847/8540/products/solo10g_pcie_card.jpg?v=1528162068",
+    "page": "https://www.sonnetstore.com/products/solo10g-pcie-card",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official Sonnet product image from the Sonnet store (sonnetstore.com); Sonnet has not granted a general reuse license - rights not verified.",
+    "alt": "Sonnet Solo10G PCIe card with single RJ45 port and black heatsink on a full-height bracket",
+    "match": "EXACT",
+    "credit": "Sonnet"
+   }
+  },
+  {
+   "sku": "TK-SONNET-TWIN10G-SFP28-PCIE",
+   "slug": "sonnet-twin10g-sfp28-pcie-card",
+   "name": "Sonnet Twin10G SFP28 PCIe Card",
+   "brand": "Sonnet",
+   "category": "network-adapters",
+   "price": "279.99",
+   "priceBasis": "msrp",
+   "priceSource": "https://www.sonnetstore.com/products/twin10g-sfp28-pcie-card",
+   "priceAsOf": "2026-09-28",
+   "summary": "Dual-port optical 10GbE PCIe card that ships with two short-range multimode SFP28 transceivers (up to 300 m).",
+   "description": "The Sonnet Twin10G SFP28 PCIe Card (G10E-SFP-2XM-E3) adds two optical 10GbE ports to Mac Pro, Windows and Linux computers and servers. It includes two short-range multimode SFP28 transceivers rated to 300 m that work with SFP+-equipped switches over standard LC/LC cabling.",
+   "keywords": "sonnet twin10g sfp28 pcie dual port 10gbe fiber card transceivers included",
+   "specs": {
+    "ports": "2 x SFP28 (10GbE, transceivers included)",
+    "maxSpeedGbps": 10,
+    "interface": "PCIe"
+   },
+   "collections": [
+    "creator-workstations"
+   ],
+   "featured": false,
+   "warranty": 24,
+   "sources": {
+    "product": "https://www.sonnetstore.com/products/twin10g-sfp28-pcie-card",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0847/8540/files/twin10gsfp28pciecard-prod-hero_b05fd150-67bc-4711-ae2a-10589f9b22a5.png?v=1745000369",
+    "page": "https://www.sonnetstore.com/products/twin10g-sfp28-pcie-card",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official Sonnet product image from the Sonnet store (sonnetstore.com); Sonnet has not granted a general reuse license - rights not verified.",
+    "alt": "Sonnet Twin10G SFP28 PCIe card with two SFP28 cages and black heatsink on a green PCB",
+    "match": "EXACT",
+    "credit": "Sonnet"
+   }
+  },
+  {
+   "sku": "TK-SONNET-SOLO25G-USB",
+   "slug": "sonnet-solo2-5g-usb-c-adapter",
+   "name": "Sonnet Solo2.5G USB-C to 2.5 Gigabit Ethernet Adapter",
+   "brand": "Sonnet",
+   "category": "network-adapters",
+   "price": "29.99",
+   "priceBasis": "msrp",
+   "priceSource": "https://www.sonnetstore.com/products/solo25g-usb-adapter",
+   "priceAsOf": "2026-09-28",
+   "summary": "Compact USB-C to 2.5GBASE-T adapter for Mac, Windows, Linux, Chromebook and iPad with USB-C or Thunderbolt ports.",
+   "description": "The Sonnet Solo2.5G (SOLO-NBASE-T) adds an RJ45 port with 2.5 Gb/s NBASE-T support over existing Cat 5e cabling to Mac, Windows, Chromebook and Linux computers and USB-C or Thunderbolt iPads, falling back to slower link speeds on older switches.",
+   "keywords": "sonnet solo2.5g usb-c 2.5gbe ethernet adapter nbase-t ipad mac",
+   "specs": {
+    "ports": "1 x RJ45 2.5GBASE-T",
+    "maxSpeedGbps": 2.5,
+    "interface": "USB-C"
+   },
+   "collections": [
+    "developer-setup"
+   ],
+   "featured": false,
+   "warranty": 24,
+   "sources": {
+    "product": "https://www.sonnetstore.com/products/solo25g-usb-adapter",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0847/8540/files/solo25g-prod-hero.png?v=1693972104",
+    "page": "https://www.sonnetstore.com/products/solo25g-usb-adapter",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official Sonnet product image from the Sonnet store (sonnetstore.com); Sonnet has not granted a general reuse license - rights not verified.",
+    "alt": "Sonnet Solo2.5G USB-C to 2.5 Gigabit Ethernet adapter, black body with RJ45 port and attached USB-C cable",
+    "match": "EXACT",
+    "credit": "Sonnet"
+   }
+  },
+  {
+   "sku": "TK-PROTECTLI-VP6650",
+   "slug": "protectli-vault-pro-vp6650",
+   "name": "Protectli Vault Pro VP6650",
+   "brand": "Protectli",
+   "category": "firewalls",
+   "price": "749.00",
+   "priceBasis": "starting-at",
+   "priceSource": "https://protectli.com/product/vp6650/",
+   "priceAsOf": "2026-09-28",
+   "summary": "Six-port Vault Pro with Intel Core i5-1235U, 2 x 10GbE SFP+ and 4 x 2.5GbE, up to 96 GB DDR5 and coreboot support.",
+   "description": "The Vault Pro VP6650 pairs an Intel Core i5-1235U (10 cores / 12 threads, up to 4.4 GHz) with two Intel 10GbE SFP+ and four Intel 2.5GbE ports. It takes up to 96 GB DDR5-4800 in SO-DIMMs, one M.2 NVMe SSD and two 2.5-inch SATA SSDs, and uses built-in fans that run only as needed plus a 120 W power supply.",
+   "keywords": "protectli vault pro vp6650 firewall i5-1235u 10g sfp+ 2.5gbe opnsense pfsense proxmox",
+   "specs": {
+    "ports": "2 x 10GbE SFP+ + 4 x 2.5GbE RJ45",
+    "maxSpeedGbps": 10,
+    "rackMountable": false
+   },
+   "collections": [
+    "networking-lab",
+    "small-business"
+   ],
+   "featured": false,
+   "warranty": 12,
+   "notes": "Base price is the barebone configuration shown on the official Protectli store.",
+   "sources": {
+    "product": "https://protectli.com/product/vp6650/",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://protectli.com/wp-content/uploads/2024/02/VP6600_front_1600x1600.jpg",
+    "page": "https://protectli.com/product/vp6650/",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official Protectli product image from protectli.com; Protectli has not granted a general reuse license - rights not verified.",
+    "alt": "Protectli Vault Pro VP6600-series appliance, front view showing four RJ45 and two SFP+ ports under a finned top",
+    "match": "PRODUCT_LINE",
+    "credit": "Protectli"
+   }
+  }
+ ]
+}

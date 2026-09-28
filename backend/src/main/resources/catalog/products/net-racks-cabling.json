@@ -1,0 +1,1755 @@
+{
+ "products": [
+  {
+   "sku": "TK-STARTECH-2POSTRACK42",
+   "slug": "startech-42u-2-post-open-frame-rack-2postrack42",
+   "name": "StarTech.com 42U 2-Post Open Frame Server Rack (2POSTRACK42)",
+   "brand": "StarTech.com",
+   "category": "racks-infrastructure",
+   "price": "280.84",
+   "compareAt": null,
+   "warranty": 24,
+   "stock": [
+    32,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "networking-lab",
+    "small-business"
+   ],
+   "summary": "42U 2-post rolling open-frame 19-inch network rack rated for 300 kg stationary.",
+   "description": "The 2POSTRACK42 is a 42U, 19-inch 2-post open frame rack built from steel with C-shaped mounting rails and square cage-nut holes. It rolls on included casters and holds up to 300 kg (661 lb) stationary or 180 kg rolling, and ships flat-packed for assembly.",
+   "keywords": "startech 42u 2 post relay rack open frame network rack casters",
+   "specs": {
+    "rackUnits": 42,
+    "rackType": "2-post open frame (casters included)",
+    "loadCapacityKg": 300,
+    "colors": "Black"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-STARTECH-4POSTRACK25U",
+   "slug": "startech-25u-4-post-open-frame-rack-4postrack25u",
+   "name": "StarTech.com 25U 4-Post Open Frame Server Rack (4POSTRACK25U)",
+   "brand": "StarTech.com",
+   "category": "racks-infrastructure",
+   "price": "362.84",
+   "compareAt": null,
+   "warranty": 24,
+   "stock": [
+    18,
+    5
+   ],
+   "featured": true,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "homelab-essentials",
+    "homelab-starter"
+   ],
+   "summary": "25U 4-post open-frame server rack with 22-40 in adjustable depth and 544 kg capacity.",
+   "description": "The 4POSTRACK25U is a 25U, 19-inch 4-post open frame rack with adjustable mounting depth from 22 to 40 inches (56-101 cm). It supports up to 544 kg (1200 lb) stationary or 300 kg on its included casters, and adds leveling feet, cable-management hooks and grounding lugs.",
+   "keywords": "startech 25u 4 post open frame rack homelab adjustable depth mobile",
+   "specs": {
+    "rackUnits": 25,
+    "rackType": "4-post open frame, adjustable depth 56-101 cm",
+    "loadCapacityKg": 544,
+    "colors": "Black"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-STARTECH-RK12WALLO",
+   "slug": "startech-12u-wall-mount-network-rack-rk12wallo",
+   "name": "StarTech.com 12U Heavy-Duty Wall-Mount Network Rack (RK12WALLO)",
+   "brand": "StarTech.com",
+   "category": "racks-infrastructure",
+   "price": "129.14",
+   "compareAt": null,
+   "warranty": 60,
+   "stock": [
+    12,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "homelab-starter",
+    "networking-lab"
+   ],
+   "summary": "12U 2-post open-frame wall-mount rack, 12 in deep, rated for 90 kg.",
+   "description": "The RK12WALLO is a 12U, 19-inch 2-post open frame rack that mounts on a wall, with a maximum mounting depth of 11.9 inches (30.3 cm). It is made of steel, holds up to 90 kg (198 lb) and includes cage nuts and screws for patch panels, switches and AV gear.",
+   "keywords": "startech 12u wall mount rack open frame patch panel network closet",
+   "specs": {
+    "rackUnits": 12,
+    "rackType": "2-post open frame, wall mount (30 cm deep)",
+    "loadCapacityKg": 90,
+    "colors": "Black"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-STARTECH-RK1219WALH",
+   "slug": "startech-12u-hinged-wall-mount-cabinet-rk1219walh",
+   "name": "StarTech.com 12U Hinged Wall-Mount Server Cabinet (RK1219WALH)",
+   "brand": "StarTech.com",
+   "category": "racks-infrastructure",
+   "price": "383.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    24,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "small-business",
+    "homelab-essentials"
+   ],
+   "summary": "12U enclosed hinged wall-mount 19-inch cabinet with lockable vented glass door.",
+   "description": "The RK1219WALH is a 12U, 19-inch 4-post enclosed cabinet that hinges away from the wall for rear access. It has a lockable, reversible glass-window front door, lockable removable side panels, adjustable rails up to 15.5 in (39.3 cm) deep, a 60 kg capacity and ships fully assembled.",
+   "keywords": "startech 12u wall mount cabinet hinged glass door lockable enclosure",
+   "specs": {
+    "rackUnits": 12,
+    "rackType": "Enclosed hinged wall-mount cabinet",
+    "loadCapacityKg": 60,
+    "colors": "Gray"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-STARTECH-CABSHELFV1U",
+   "slug": "startech-1u-vented-rack-shelf-cabshelfv1u",
+   "name": "StarTech.com 1U Vented Cantilever Rack Shelf, 10 in (CABSHELFV1U)",
+   "brand": "StarTech.com",
+   "category": "racks-infrastructure",
+   "price": "42.01",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    57,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "homelab-essentials"
+   ],
+   "summary": "1U vented steel cantilever shelf, 10 in deep, for 19-inch racks; 20 kg capacity.",
+   "description": "The CABSHELFV1U is a 1U vented cantilever tray for 19-inch racks and cabinets, made of black steel with a 10-inch (25 cm) deep surface. It holds up to 20 kg (44 lb) of non-rackmount gear such as modems, mini PCs or small switches.",
+   "keywords": "startech 1u rack shelf vented cantilever tray 19 inch",
+   "specs": {
+    "rackUnits": 1,
+    "rackType": "Cantilever shelf, vented, 25 cm deep",
+    "loadCapacityKg": 20,
+    "colors": "Black"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-STARTECH-CMDUCT1UX",
+   "slug": "startech-1u-horizontal-finger-duct-cmduct1ux",
+   "name": "StarTech.com 1U Horizontal Finger Duct Cable Manager (CMDUCT1UX)",
+   "brand": "StarTech.com",
+   "category": "patch-panels",
+   "price": "35.86",
+   "compareAt": null,
+   "warranty": 24,
+   "stock": [
+    52,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "networking-lab",
+    "homelab-essentials"
+   ],
+   "summary": "1U horizontal finger-duct cable manager with removable cover for 19-inch racks.",
+   "description": "The CMDUCT1UX is a 1U horizontal cable management panel for 2- and 4-post 19-inch racks. Fingers on both sides and pass-through holes route patch cords, and a removable top cover hides bundled cables. Made of steel, front mount.",
+   "keywords": "startech horizontal cable manager finger duct 1u raceway patch cords",
+   "specs": {
+    "rackUnits": 1,
+    "rackMountable": true,
+    "colors": "Black"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-STARTECH-BLANKB1",
+   "slug": "startech-1u-rack-blank-panel-blankb1",
+   "name": "StarTech.com 1U Rack Blank Panel (BLANKB1)",
+   "brand": "StarTech.com",
+   "category": "racks-infrastructure",
+   "price": "19.46",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    34,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [],
+   "summary": "1U solid black blanking panel for 19-inch server racks and cabinets.",
+   "description": "The BLANKB1 is a 1U blank filler panel for 19-inch server racks and cabinets. It closes unused rack spaces to keep airflow front-to-back and give the rack a clean, finished look.",
+   "keywords": "startech 1u blank panel filler blanking plate airflow rack",
+   "specs": {
+    "rackUnits": 1,
+    "rackType": "Blanking panel",
+    "colors": "Black"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-STARTECH-450FBLCLC1",
+   "slug": "startech-om4-lc-lc-fiber-cable-1m-450fblclc1",
+   "name": "StarTech.com 1 m OM4 LC-LC Multimode Fiber Cable (450FBLCLC1)",
+   "brand": "StarTech.com",
+   "category": "cables",
+   "price": "22.54",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    14,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "networking-lab"
+   ],
+   "summary": "1 m aqua OM4 50/125 duplex LC-LC multimode fiber jumper, LSZH, rated to 100 Gbps.",
+   "description": "The 450FBLCLC1 is a 1 m (3.3 ft) OM4 50/125 µm laser-optimized multimode duplex fiber patch cable with LC (UPC) connectors on both ends. It has a low-smoke zero-halogen aqua jacket, 850 nm operation and is rated for 1, 10, 40 and 100 Gbps links.",
+   "keywords": "startech om4 fiber lc lc multimode patch cable 10g 40g 100g aqua",
+   "specs": {
+    "cableCategory": "OM4 fiber",
+    "lengthM": 1,
+    "maxSpeedGbps": 100,
+    "ports": "LC duplex to LC duplex",
+    "colors": "Aqua"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-STARTECH-SFP10GPC1M",
+   "slug": "startech-sfp-plus-dac-1m-sfp10gpc1m",
+   "name": "StarTech.com 1 m 10G SFP+ Passive DAC Cable (SFP10GPC1M)",
+   "brand": "StarTech.com",
+   "category": "cables",
+   "price": "45.09",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    37,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "homelab-essentials",
+    "networking-lab"
+   ],
+   "summary": "1 m passive copper SFP+ to SFP+ direct attach twinax cable for 10 GbE, MSA uncoded.",
+   "description": "The SFP10GPC1M is an MSA-compliant, uncoded 10 Gbps passive copper direct-attach cable with SFP+ modules on both ends. It is 1 m (3.3 ft) of 30 AWG twinax with under 0.1 W per end, for switch-to-server links within a rack.",
+   "keywords": "startech sfp+ dac twinax direct attach 10gbe 1m passive copper",
+   "specs": {
+    "cableCategory": "SFP+ DAC",
+    "lengthM": 1,
+    "maxSpeedGbps": 10,
+    "ports": "SFP+ to SFP+"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-STARTECH-QSFP4SFPPC1M",
+   "slug": "startech-qsfp-to-4x-sfp-breakout-dac-qsfp4sfppc1m",
+   "name": "StarTech.com 1 m 40G QSFP+ to 4x SFP+ Breakout DAC (QSFP4SFPPC1M)",
+   "brand": "StarTech.com",
+   "category": "cables",
+   "price": "52.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    18,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "networking-lab",
+    "enterprise-lab"
+   ],
+   "summary": "1 m passive QSFP+ to 4x SFP+ breakout twinax cable: one 40G port to four 10G ports.",
+   "description": "The QSFP4SFPPC1M is an MSA-compliant, uncoded passive copper breakout cable with one 40 Gbps QSFP+ connector fanning out to four 10 Gbps SFP+ connectors. It is 1 m of 30 AWG twinax with a PVC jacket.",
+   "keywords": "startech qsfp+ breakout dac 40g to 4x10g sfp+ fanout",
+   "specs": {
+    "cableCategory": "QSFP+ to 4x SFP+ DAC",
+    "lengthM": 1,
+    "maxSpeedGbps": 40,
+    "ports": "QSFP+ to 4x SFP+"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-STARTECH-SFP10GAOC3M",
+   "slug": "startech-sfp-plus-aoc-3m-sfp10gaoc3m",
+   "name": "StarTech.com 3 m 10G SFP+ Active Optical Cable (SFP10GAOC3M)",
+   "brand": "StarTech.com",
+   "category": "cables",
+   "price": "116.84",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    21,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "networking-lab"
+   ],
+   "summary": "3 m SFP+ to SFP+ active optical cable for 10 GbE, Cisco SFP-10G-AOC3M compatible.",
+   "description": "The SFP10GAOC3M is a 3 m (9.8 ft) 10 Gbps active optical cable with SFP+ ends, coded for compatibility with Cisco SFP-10G-AOC3M. It draws under 1 W per end and suits links a little longer than passive copper DACs allow.",
+   "keywords": "startech sfp+ aoc active optical cable 10g cisco compatible 3m",
+   "specs": {
+    "cableCategory": "SFP+ AOC",
+    "lengthM": 3,
+    "maxSpeedGbps": 10,
+    "ports": "SFP+ to SFP+"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-STARTECH-6ASPAT1MBK",
+   "slug": "startech-cat6a-shielded-patch-cable-1m-6aspat1mbk",
+   "name": "StarTech.com 1 m Cat6a Shielded Snagless Patch Cable (6ASPAT1MBK)",
+   "brand": "StarTech.com",
+   "category": "cables",
+   "price": "14.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    28,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [],
+   "summary": "1 m black Cat6a STP snagless patch cord for 10GbE and 100 W PoE.",
+   "description": "The 6ASPAT1MBK is a 1 m (3.3 ft) Cat6a shielded (STP, foil) patch cable with snagless RJ45 boots, 26 AWG stranded copper and a 500 MHz rating for 10 Gigabit Ethernet. StarTech.com rates it for 100 W PoE and backs it with a lifetime warranty.",
+   "keywords": "startech cat6a shielded patch cable 1m snagless 10gbe poe",
+   "specs": {
+    "cableCategory": "Cat6A",
+    "lengthM": 1,
+    "maxSpeedGbps": 10,
+    "ports": "RJ45 to RJ45",
+    "colors": "Black",
+    "configurations": "1 m – $14.99 · 3 m (blue, 6ASPAT3MBL) – $19.99"
+   },
+   "options": [
+    {
+     "name": "Configuration",
+     "values": [
+      {
+       "label": "1 m",
+       "price": "14.99",
+       "default": true
+      },
+      {
+       "label": "3 m (blue, 6ASPAT3MBL)",
+       "price": "19.99"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "sku": "TK-STARTECH-SV831DUSBU",
+   "slug": "startech-8-port-rackmount-usb-kvm-sv831dusbu",
+   "name": "StarTech.com 8-Port 1U Rackmount USB VGA KVM Switch (SV831DUSBU)",
+   "brand": "StarTech.com",
+   "category": "racks-infrastructure",
+   "price": "428.44",
+   "compareAt": null,
+   "warranty": 36,
+   "stock": [
+    23,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "enterprise-lab",
+    "homelab-essentials"
+   ],
+   "summary": "8-port 1U rackmount USB/VGA KVM switch with OSD, cascadable, up to 1920x1440.",
+   "description": "The SV831DUSBU is an 8-port 1U rackmount KVM switch for USB computers with VGA video. Ports are selected by push button, hotkey or on-screen display, analog resolution reaches 1920x1440 at 60 Hz, and switches can be cascaded. KVM cables are sold separately.",
+   "keywords": "startech kvm switch 8 port rackmount usb vga osd server",
+   "specs": {
+    "rackUnits": 1,
+    "rackType": "8-port KVM switch (USB/VGA)",
+    "colors": "Black"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-STARTECH-RKCONS1708K",
+   "slug": "startech-8-port-rack-kvm-console-17-rkcons1708k",
+   "name": "StarTech.com 8-Port 1U Rackmount KVM Console, 17 in LCD (RKCONS1708K)",
+   "brand": "StarTech.com",
+   "category": "racks-infrastructure",
+   "price": "1531.34",
+   "compareAt": null,
+   "warranty": 24,
+   "stock": [
+    35,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "enterprise-lab",
+    "enterprise-servers"
+   ],
+   "summary": "1U slide-out 17-inch LCD console with keyboard, touchpad and integrated 8-port KVM.",
+   "description": "The RKCONS1708K is a 1U rackmount KVM drawer with a 17-inch 1280x1024 LCD, keyboard and integrated 8-port USB/VGA KVM switch, supplied with 6 ft KVM cables. It fits mounting depths from 22 to 35.4 inches and supports push-button, hotkey and OSD port selection.",
+   "keywords": "startech rack console kvm drawer 17 inch lcd 8 port 1u",
+   "specs": {
+    "rackUnits": 1,
+    "rackType": "LCD KVM console drawer, 17 in, 8-port",
+    "colors": "Black"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-CYBERPOWER-CPS1215RM",
+   "slug": "cyberpower-cps1215rm-basic-pdu",
+   "name": "CyberPower CPS1215RM 1U Basic Rack PDU",
+   "brand": "CyberPower",
+   "category": "pdus",
+   "price": "92.00",
+   "compareAt": null,
+   "warranty": 36,
+   "stock": [
+    9,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "homelab-starter",
+    "homelab-essentials"
+   ],
+   "summary": "1U basic rackmount PDU: 10 rear NEMA 5-15R outlets from one 15A NEMA 5-15P input.",
+   "description": "The CPS1215RM is a 1U basic rack PDU that distributes 100-125 V, 15 A power to 10 rear NEMA 5-15R receptacles from a single NEMA 5-15P input with unfiltered pass-through, on a long power cord. It carries a three-year warranty.",
+   "keywords": "cyberpower basic pdu 1u 10 outlet rack power strip homelab",
+   "specs": {
+    "pduType": "Basic",
+    "outletCount": 10,
+    "inputPower": "NEMA 5-15P, 100-125V 15A",
+    "rackUnits": 1
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-CYBERPOWER-PDU15M2F10R",
+   "slug": "cyberpower-pdu15m2f10r-metered-pdu",
+   "name": "CyberPower PDU15M2F10R 1U Metered Rack PDU",
+   "brand": "CyberPower",
+   "category": "pdus",
+   "price": "237.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    45,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "homelab-essentials",
+    "small-business"
+   ],
+   "summary": "1U metered PDU with amperage display and 12 NEMA 5-15R outlets (2 front, 10 rear).",
+   "description": "The PDU15M2F10R is a 1U metered rack PDU delivering 100-125 V, 15 A (derated 12 A) to 12 NEMA 5-15R outlets, two on the front and ten on the rear, from a NEMA 5-15P plug on a 15-foot cord. A digital meter shows current draw; it mounts horizontally or vertically and has a limited lifetime warranty.",
+   "keywords": "cyberpower metered pdu 1u amp meter 12 outlet rack",
+   "specs": {
+    "pduType": "Metered",
+    "outletCount": 12,
+    "inputPower": "NEMA 5-15P, 100-125V 15A (12A derated)",
+    "rackUnits": 1
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-CYBERPOWER-PDU41001",
+   "slug": "cyberpower-pdu41001-switched-pdu",
+   "name": "CyberPower PDU41001 1U Switched Rack PDU",
+   "brand": "CyberPower",
+   "category": "pdus",
+   "price": "1000.00",
+   "compareAt": null,
+   "warranty": 36,
+   "stock": [
+    31,
+    5
+   ],
+   "featured": true,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "homelab-essentials",
+    "enterprise-lab"
+   ],
+   "summary": "1U switched PDU with per-outlet remote on/off/reboot and 8 front NEMA 5-15R outlets.",
+   "description": "The PDU41001 is a 1U switched rack PDU that delivers 120 V, 15 A (derated 12 A) to eight front NEMA 5-15R outlets. A built-in network management interface lets you switch, reboot, schedule and sequence individual outlets and monitor amps, volts and kW remotely.",
+   "keywords": "cyberpower switched pdu remote reboot outlet control network 1u",
+   "specs": {
+    "pduType": "Switched",
+    "outletCount": 8,
+    "inputPower": "NEMA 5-15P, 120V 15A (12A derated)",
+    "rackUnits": 1
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-CYBERPOWER-OR500LCDRM1U",
+   "slug": "cyberpower-or500lcdrm1u-1u-ups",
+   "name": "CyberPower OR500LCDRM1U Smart App LCD 1U Rackmount UPS",
+   "brand": "CyberPower",
+   "category": "ups",
+   "price": "239.95",
+   "compareAt": null,
+   "warranty": 36,
+   "stock": [
+    36,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "homelab-starter",
+    "networking-lab"
+   ],
+   "summary": "500 VA / 300 W 1U line-interactive rackmount UPS with six NEMA 5-15R outlets.",
+   "description": "The OR500LCDRM1U is a 1U rackmount line-interactive UPS rated 500 VA / 300 W with simulated sine wave output and AVR. It has six NEMA 5-15R outlets, USB, relay and optional SNMP (RMCARD205) management, is ENERGY STAR certified and carries a three-year warranty.",
+   "keywords": "cyberpower 1u ups 500va rackmount network closet battery backup",
+   "specs": {
+    "capacityVa": 500,
+    "outputW": 300,
+    "waveform": "Simulated sine wave (line interactive)",
+    "rackMountable": true,
+    "outlets": 6
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-CYBERPOWER-OR1500LCDRM1U",
+   "slug": "cyberpower-or1500lcdrm1u-1u-ups",
+   "name": "CyberPower OR1500LCDRM1U Smart App LCD 1U Rackmount UPS",
+   "brand": "CyberPower",
+   "category": "ups",
+   "price": "699.95",
+   "compareAt": null,
+   "warranty": 36,
+   "stock": [
+    35,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "homelab-essentials",
+    "small-business"
+   ],
+   "summary": "1500 VA / 900 W UPS in a 1U rackmount chassis with six NEMA 5-15R outlets.",
+   "description": "The OR1500LCDRM1U packs a 1500 VA / 900 W line-interactive UPS with simulated sine wave output and AVR into 1U. It provides six NEMA 5-15R outlets, USB, relay and SNMP (with the optional RMCARD205) and a three-year warranty.",
+   "keywords": "cyberpower 1u ups 1500va rackmount slim battery backup",
+   "specs": {
+    "capacityVa": 1500,
+    "outputW": 900,
+    "waveform": "Simulated sine wave (line interactive)",
+    "rackMountable": true,
+    "outlets": 6
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-APC-AP7900B",
+   "slug": "apc-netshelter-switched-rack-pdu-ap7900b",
+   "name": "APC NetShelter Switched Rack PDU, 1U, 15A, 120V (AP7900B)",
+   "brand": "APC",
+   "category": "pdus",
+   "price": "1050.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    25,
+    5
+   ],
+   "featured": true,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "enterprise-lab",
+    "enterprise-servers"
+   ],
+   "summary": "1U switched rack PDU with eight NEMA 5-15R outlets, remote outlet switching and metering.",
+   "description": "The AP7900B is a 1U NetShelter switched rack PDU rated 120 V, 15 A (1.4 kW) with eight NEMA 5-15R outlets. Outlets can be switched on and off to reboot equipment remotely, and a built-in meter reports current with ±5% accuracy; it integrates with EcoStruxure IT.",
+   "keywords": "apc schneider netshelter switched pdu ap7900b remote reboot 1u",
+   "specs": {
+    "pduType": "Switched",
+    "outletCount": 8,
+    "inputPower": "120V 15A (1.4 kW)",
+    "rackUnits": 1
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-APC-AP7801B",
+   "slug": "apc-netshelter-metered-rack-pdu-ap7801b",
+   "name": "APC NetShelter Metered Rack PDU, 1U, 20A, 120V (AP7801B)",
+   "brand": "APC",
+   "category": "pdus",
+   "price": "750.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    49,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "enterprise-servers"
+   ],
+   "summary": "1U metered rack PDU with eight NEMA 5-20R outlets on a 120 V, 20 A input.",
+   "description": "The AP7801B is a 1U NetShelter metered rack PDU for horizontal mounting, rated 120 V, 20 A, with eight NEMA 5-20R outlets and a load meter for capacity planning. Schneider Electric lists it as normally stocked.",
+   "keywords": "apc netshelter metered pdu ap7801b 20a 1u",
+   "specs": {
+    "pduType": "Metered",
+    "outletCount": 8,
+    "inputPower": "120V 20A",
+    "rackUnits": 1
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-APC-AP9562",
+   "slug": "apc-netshelter-basic-rack-pdu-ap9562",
+   "name": "APC NetShelter Basic Rack PDU, 1U, 15A, 120V (AP9562)",
+   "brand": "APC",
+   "category": "pdus",
+   "price": "190.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    42,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "small-business"
+   ],
+   "summary": "1U basic rack PDU with ten NEMA 5-15R outlets from a 120 V, 15 A input.",
+   "description": "The AP9562 is a 1U NetShelter basic (non-monitored) rack PDU for horizontal mounting, rated 120 V, 15 A, with ten NEMA 5-15R outlets. se.com currently lists it as non-stock (built to order through distribution).",
+   "keywords": "apc basic pdu ap9562 1u 10 outlet rack power strip",
+   "specs": {
+    "pduType": "Basic",
+    "outletCount": 10,
+    "inputPower": "120V 15A",
+    "rackUnits": 1
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-APC-AR112SH4",
+   "slug": "apc-netshelter-wx-12u-wallmount-ar112sh4",
+   "name": "APC NetShelter WX 12U Wallmount Rack Enclosure (AR112SH4)",
+   "brand": "APC",
+   "category": "racks-infrastructure",
+   "price": "1150.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    21,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "small-business"
+   ],
+   "summary": "12U single-hinged wallmount rack enclosure, 400 mm switch depth, 200 lb capacity.",
+   "description": "The AR112SH4 is a 12U NetShelter wallmount rack enclosure with a single hinge for edge and network-closet deployments. It has a 400 mm switch depth, a reversible door with locking swing handle and holds up to 200 lb (90 kg).",
+   "keywords": "apc netshelter wx 12u wall mount cabinet enclosure edge network closet",
+   "specs": {
+    "rackUnits": 12,
+    "rackType": "Enclosed wall-mount cabinet, single hinged, 400 mm",
+    "loadCapacityKg": 90
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-VERTIV-GXT5LI-1500LVRT2UXL",
+   "slug": "vertiv-liebert-gxt5-lithium-1500va-gxt5li-1500lvrt2uxl",
+   "name": "Vertiv Liebert GXT5 Lithium-Ion Online UPS 1500VA (GXT5LI-1500LVRT2UXL)",
+   "brand": "Vertiv",
+   "category": "ups",
+   "price": "1650.00",
+   "compareAt": null,
+   "warranty": 60,
+   "stock": [
+    20,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "enterprise-servers",
+    "enterprise-lab"
+   ],
+   "summary": "1500 VA / 1350 W double-conversion lithium-ion rack/tower UPS with 5-year warranty.",
+   "description": "The Liebert GXT5 Lithium-Ion GXT5LI-1500LVRT2UXL is a 120 V online double-conversion UPS rated 1500 VA / 1350 W in a convertible 2U rack/tower chassis. Its lithium-ion batteries last up to 3x longer than VRLA, it offers zero transfer time and pure sine wave output, and a standard 5-year warranty covers electronics and batteries.",
+   "keywords": "vertiv liebert gxt5 lithium ion online double conversion ups 1500va 2u rack tower",
+   "specs": {
+    "capacityVa": 1500,
+    "outputW": 1350,
+    "waveform": "Pure sine wave (online double conversion)",
+    "rackMountable": true
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-VERTIV-VP5N31A0",
+   "slug": "vertiv-powerit-switched-rpdu-vp5n31a0",
+   "name": "Vertiv PowerIT Switched Rack PDU, 1U, 30A, 120V (VP5N31A0)",
+   "brand": "Vertiv",
+   "category": "pdus",
+   "price": "2100.00",
+   "compareAt": null,
+   "warranty": 60,
+   "stock": [
+    49,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "enterprise-servers"
+   ],
+   "summary": "1U horizontal Geist-lineage switched rPDU, 100-120 V 30 A, twelve NEMA 5-20R outlets.",
+   "description": "The Vertiv PowerIT (formerly Geist) switched rack PDU VP5N31A0 is a 1U horizontal unit rated 30 A at 100-120 V with twelve NEMA 5-20R receptacles. Outlet-level switching allows remote power cycling of hung equipment, a 128x128 LCD shows local status, and it carries a five-year limited warranty.",
+   "keywords": "vertiv geist powerit switched rpdu 30a 1u horizontal remote outlet control",
+   "specs": {
+    "pduType": "Switched",
+    "outletCount": 12,
+    "inputPower": "100-120V 30A",
+    "rackUnits": 1
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-MIDDLEATLANTIC-DWR-12-22",
+   "slug": "middle-atlantic-dwr-12-22-pivoting-wall-rack",
+   "name": "Middle Atlantic DWR Series 12RU Pivoting Wall Rack, 22 in Deep (DWR-12-22)",
+   "brand": "Middle Atlantic",
+   "category": "racks-infrastructure",
+   "price": "760.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    37,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "small-business"
+   ],
+   "summary": "12RU, 22-inch-deep welded steel pivoting wall rack with Forward rackrail and Lever Lock support.",
+   "description": "The DWR-12-22 is a 12RU, 22-inch-deep Middle Atlantic DWR pivoting wall rack for AV, IT and security systems. Its welded steel center section swings out for rear access, mounts tool-free to the backpan and locks by key or padlock; it accepts Forward rackrail accessories and Lever Lock tool-free cable management.",
+   "keywords": "middle atlantic legrand dwr pivoting wall rack 12ru swing out av it",
+   "specs": {
+    "rackUnits": 12,
+    "rackType": "Pivoting wall rack, 22 in deep",
+    "colors": "Black"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-NAVEPOINT-18U-4POST-00406438",
+   "slug": "navepoint-18u-4-post-open-frame-rack",
+   "name": "NavePoint 18U 4-Post Open Frame Server Rack, Adjustable Depth with Casters",
+   "brand": "NavePoint",
+   "category": "racks-infrastructure",
+   "price": "345.99",
+   "compareAt": "363.29",
+   "warranty": 12,
+   "stock": [
+    52,
+    5
+   ],
+   "featured": true,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "homelab-starter",
+    "homelab-essentials"
+   ],
+   "summary": "18U adjustable-depth (22-40 in) 4-post open frame rack with casters; 1320 lb capacity.",
+   "description": "The NavePoint 18U 4-post open frame rack (SKU 00406438) has adjustable mounting depth from 22 to 40 inches, numbered U positions, button-hole mounting for vertical PDUs and cable managers, and casters. Built from powder-coated cold-rolled steel, it supports stationary loads up to 1320 lb and ships flat-packed.",
+   "keywords": "navepoint 18u 4 post open frame rack homelab adjustable depth casters",
+   "specs": {
+    "rackUnits": 18,
+    "rackType": "4-post open frame, adjustable depth 22-40 in",
+    "loadCapacityKg": 598,
+    "colors": "Black"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-NAVEPOINT-9U-SWING-450",
+   "slug": "navepoint-9u-swing-gate-wall-cabinet-450mm",
+   "name": "NavePoint 9U Wall-Mount Network Cabinet, 450 mm, Swing Gate Series",
+   "brand": "NavePoint",
+   "category": "racks-infrastructure",
+   "price": "407.99",
+   "compareAt": "428.39",
+   "warranty": 12,
+   "stock": [
+    12,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "small-business",
+    "networking-lab"
+   ],
+   "summary": "9U hinged swing-gate wall cabinet, 450 mm deep, glass door, two fans, 200 lb capacity.",
+   "description": "The NavePoint Swing Gate 9U wall-mount cabinet (SKU 00406449) swings away from the wall for rear access. It has a reversible tempered-glass front door, locks on the front, gate and both sides, two included fans, removable top and bottom panels, 11.81 in maximum rail depth and a 200 lb load rating; it ships assembled.",
+   "keywords": "navepoint 9u wall mount cabinet swing gate hinged glass door fans",
+   "specs": {
+    "rackUnits": 9,
+    "rackType": "Enclosed hinged wall-mount cabinet, 450 mm",
+    "loadCapacityKg": 90,
+    "colors": "Black"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-NAVEPOINT-9U-WALL-OPEN",
+   "slug": "navepoint-9u-wall-mount-open-frame-rack",
+   "name": "NavePoint 9U Wall-Mount Open Frame Rack, 24.81 in Depth",
+   "brand": "NavePoint",
+   "category": "racks-infrastructure",
+   "price": "171.99",
+   "compareAt": "180.59",
+   "warranty": 12,
+   "stock": [
+    33,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "homelab-starter"
+   ],
+   "summary": "9U open-frame wall rack, 23.6 in max mounting depth, reversible threaded/square rails, 198 lb.",
+   "description": "The NavePoint 9U wall-mount open frame rack (SKU 00406440) has reversible rails with 12-24 threaded holes on one side and square holes on the other, a maximum mounting depth of 23.6 in, built-in cable tie slots and double-reinforced wall anchor holes. It holds up to 198 lb and ships flat-packed.",
+   "keywords": "navepoint 9u wall mount open frame rack deep threaded av network",
+   "specs": {
+    "rackUnits": 9,
+    "rackType": "Open frame, wall mount, 23.6 in max depth",
+    "loadCapacityKg": 89,
+    "colors": "Black"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-NAVEPOINT-1U-SHELF-RAILS",
+   "slug": "navepoint-1u-adjustable-rack-shelf-rails",
+   "name": "NavePoint 1U Adjustable Rack Mount Server Shelf Rails, Full Depth",
+   "brand": "NavePoint",
+   "category": "racks-infrastructure",
+   "price": "74.99",
+   "compareAt": "78.74",
+   "warranty": 12,
+   "stock": [
+    56,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "homelab-essentials"
+   ],
+   "summary": "1U adjustable 4-post shelf rails (16.13-33.25 in) holding up to 110 lb.",
+   "description": "NavePoint's 1U adjustable rails (SKU 00401813) fit standard 4-post racks and adjust from 16.13 to 33.25 inches deep to support servers without mounting them directly. They are powder-coated cold-rolled steel, EIA/ECA-310-E compliant and hold up to 110 lb.",
+   "keywords": "navepoint 1u adjustable rails shelf server 4 post universal",
+   "specs": {
+    "rackUnits": 1,
+    "rackType": "Adjustable 4-post shelf rails",
+    "loadCapacityKg": 49,
+    "colors": "Black"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-NAVEPOINT-1U-BRUSH-PANEL",
+   "slug": "navepoint-1u-brush-cable-management-panel",
+   "name": "NavePoint 1U Rack Mount Brush Panel Cable Manager, Black",
+   "brand": "NavePoint",
+   "category": "patch-panels",
+   "price": "31.59",
+   "compareAt": "33.17",
+   "warranty": 12,
+   "stock": [
+    32,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "networking-lab"
+   ],
+   "summary": "1U brush-strip pass-through panel that keeps dust out and preserves rack airflow.",
+   "description": "The NavePoint 1U brush panel (SKU 00401654) lets cables pass from rack front to rear through high-density nylon bristles that limit dust and airflow leakage. A cable support bar provides tie-down points; it is powder-coated cold-rolled steel and includes M6 mounting hardware.",
+   "keywords": "navepoint brush panel 1u cable pass through dust airflow",
+   "specs": {
+    "rackUnits": 1,
+    "rackMountable": true,
+    "colors": "Black"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-CABLEMATTERS-CAT6A-PP24-STP",
+   "slug": "cable-matters-24-port-cat6a-shielded-keystone-patch-panel",
+   "name": "Cable Matters 1U 24-Port Shielded Cat6A Inline Keystone Patch Panel",
+   "brand": "Cable Matters",
+   "category": "patch-panels",
+   "price": "45.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    9,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "homelab-essentials",
+    "networking-lab"
+   ],
+   "summary": "1U 24-port STP Cat6A feed-through keystone panel with support bar; 10 Gbps and PoE++.",
+   "description": "This 1U, 24-port shielded Cat6A patch panel ships with STP Cat6A RJ45 inline couplers in standard keystone sockets, so ports can be swapped for other keystone jacks. It supports 10 Gbps and PoE/PoE+/PoE++, has individually shielded ports and a cable management bar, and includes ties, cage nuts and screws.",
+   "keywords": "cable matters cat6a patch panel 24 port shielded keystone feed through 10g",
+   "specs": {
+    "rackUnits": 1,
+    "cableCategory": "Cat6A shielded",
+    "ports": "24 x RJ45 keystone (inline couplers)",
+    "maxSpeedGbps": 10,
+    "rackMountable": true
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-CABLEMATTERS-CAT6-PP24-BAR",
+   "slug": "cable-matters-24-port-cat6-punch-down-patch-panel-support-bar",
+   "name": "Cable Matters 1U 24-Port Cat6 Punch-Down Patch Panel with Support Bar",
+   "brand": "Cable Matters",
+   "category": "patch-panels",
+   "price": "49.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    34,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [],
+   "summary": "UL-listed 1U 24-port Cat6 110 punch-down patch panel with cable support bar.",
+   "description": "Cable Matters' UL-listed 1U 24-port Cat6 patch panel mounts in 19-inch racks, cabinets or wall brackets and is designed for Gigabit and 10-Gigabit links with PoE/PoE+/PoE++ support. It has gold-plated contacts, T568A/B color codes, numbered ports and a cable management bar with keyholes; D-rings and ties are included.",
+   "keywords": "cable matters cat6 patch panel 24 port punch down 110 support bar ul listed",
+   "specs": {
+    "rackUnits": 1,
+    "cableCategory": "Cat6",
+    "ports": "24 x RJ45 (110 punch-down)",
+    "rackMountable": true
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-CABLEMATTERS-CAT8-SFTP",
+   "slug": "cable-matters-cat8-sftp-patch-cable",
+   "name": "Cable Matters Cat 8 S/FTP RJ45 Patch Cable",
+   "brand": "Cable Matters",
+   "category": "cables",
+   "price": "5.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    49,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [],
+   "summary": "Cat 8 S/FTP 24 AWG snagless patch cable for 25G/40GBASE-T, 3 to 25 ft.",
+   "description": "Cable Matters' Cat 8 S/FTP patch cable uses 24 AWG bare copper pairs with foil plus braided shielding, shielded metal RJ45 plugs, snagless boots and a CM-rated PVC jacket. It supports 10GBASE-T, 25GBASE-T and 40GBASE-T (30 m channel) and is backward compatible with Cat 6A, 6 and 5e.",
+   "keywords": "cable matters cat8 cable sftp 40g 25g shielded patch",
+   "specs": {
+    "cableCategory": "Cat8",
+    "lengthM": 0.9,
+    "maxSpeedGbps": 40,
+    "ports": "RJ45 to RJ45",
+    "colors": "Black",
+    "configurations": "3 ft – $5.99 · 5 ft – $7.49 · 10 ft – $12.99 · 25 ft – $14.99"
+   },
+   "options": [
+    {
+     "name": "Configuration",
+     "values": [
+      {
+       "label": "3 ft",
+       "price": "5.99",
+       "default": true
+      },
+      {
+       "label": "5 ft",
+       "price": "7.49"
+      },
+      {
+       "label": "10 ft",
+       "price": "12.99"
+      },
+      {
+       "label": "25 ft",
+       "price": "14.99"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "sku": "TK-CABLEMATTERS-SLIM-CAT6A-BEND",
+   "slug": "cable-matters-slim-cat6a-bendable-boot-cable",
+   "name": "Cable Matters Slim Cat6a Ethernet Cable with Bendable Boots",
+   "brand": "Cable Matters",
+   "category": "cables",
+   "price": "6.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    17,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [],
+   "summary": "3.0 mm slim 30 AWG Cat6a UTP cable with 90-degree bendable boots; 10 Gbps, 550 MHz.",
+   "description": "This slim Cat6a UTP patch cable has a 3.0 mm TPE jacket over 30 AWG stranded bare copper and RJ45 boots that bend up to 90 degrees for tight racks and cabinets. It supports 10 Gbps, 550 MHz and PoE/PoE+/PoE++, with gold-plated contacts.",
+   "keywords": "cable matters slim cat6a thin ethernet bendable boot rack patch",
+   "specs": {
+    "cableCategory": "Cat6A",
+    "lengthM": 2.1,
+    "maxSpeedGbps": 10,
+    "ports": "RJ45 to RJ45",
+    "configurations": "7 ft – $6.99 · 10 ft – $7.99 · 15 ft – $8.99",
+    "colors": "Black, White"
+   },
+   "options": [
+    {
+     "name": "Configuration",
+     "values": [
+      {
+       "label": "7 ft",
+       "price": "6.99",
+       "default": true
+      },
+      {
+       "label": "10 ft",
+       "price": "7.99"
+      },
+      {
+       "label": "15 ft",
+       "price": "8.99"
+      }
+     ]
+    },
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Black",
+       "default": true
+      },
+      {
+       "label": "White"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "sku": "TK-CABLEMATTERS-CAT6-BULK-1000",
+   "slug": "cable-matters-cat6-cm-bulk-cable-1000ft",
+   "name": "Cable Matters UL Listed In-Wall (CM) Cat6 Bulk Ethernet Cable, 1000 ft",
+   "brand": "Cable Matters",
+   "category": "cables",
+   "price": "224.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    51,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "homelab-essentials",
+    "small-business"
+   ],
+   "summary": "1000 ft pull box of 23 AWG solid bare-copper CM-rated Cat6, 550 MHz, PoE++.",
+   "description": "A 1000-foot pull box of UL-listed, CM (in-wall) rated Cat6 with 23 AWG solid bare copper conductors and a foot-marked jacket. It supports up to 550 MHz, 10-Gigabit Ethernet and PoE/PoE+/PoE++, and meets TIA/EIA 568-C.2; it is not plenum or riser rated.",
+   "keywords": "cable matters cat6 bulk cable 1000ft cm in wall solid copper 23awg",
+   "specs": {
+    "cableCategory": "Cat6",
+    "lengthM": 304.8,
+    "maxSpeedGbps": 10,
+    "colors": "Black, Blue, Gray, Green, Orange, Purple, White"
+   },
+   "options": [
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Black",
+       "default": true
+      },
+      {
+       "label": "Blue"
+      },
+      {
+       "label": "Gray"
+      },
+      {
+       "label": "Green"
+      },
+      {
+       "label": "Orange"
+      },
+      {
+       "label": "Purple"
+      },
+      {
+       "label": "White"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "sku": "TK-CABLEMATTERS-OS2-LCLC",
+   "slug": "cable-matters-os2-lc-lc-single-mode-fiber-cable",
+   "name": "Cable Matters LC to LC Duplex OS2 Single-Mode Fiber Patch Cable",
+   "brand": "Cable Matters",
+   "category": "cables",
+   "price": "8.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    16,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [],
+   "summary": "Duplex OS2 9/125 single-mode LC-LC zipcord for 1G/10G links up to 10 km.",
+   "description": "Cable Matters' duplex OS2 single-mode fiber patch cable has LC connectors on both ends, A-to-B straight-through wiring and complies with ITU-T G.652.C/D. It supports 1GBASE and 10GBASE links at distances up to 10 km and is backward compatible with OS1.",
+   "keywords": "cable matters os2 single mode fiber lc lc duplex patch cable 10g",
+   "specs": {
+    "cableCategory": "OS2 fiber",
+    "lengthM": 1,
+    "maxSpeedGbps": 10,
+    "ports": "LC duplex to LC duplex",
+    "configurations": "1 m – $8.99 · 2 m – $9.49 · 3 m – $9.99 · 5 m – $11.99 · 7 m – $11.99 · 10 m – $14.49"
+   },
+   "options": [
+    {
+     "name": "Configuration",
+     "values": [
+      {
+       "label": "1 m",
+       "price": "8.99",
+       "default": true
+      },
+      {
+       "label": "2 m",
+       "price": "9.49"
+      },
+      {
+       "label": "3 m",
+       "price": "9.99"
+      },
+      {
+       "label": "5 m",
+       "price": "11.99"
+      },
+      {
+       "label": "7 m",
+       "price": "11.99"
+      },
+      {
+       "label": "10 m",
+       "price": "14.49"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "sku": "TK-LEVITON-6AUJK",
+   "slug": "leviton-atlas-x1-cat6a-utp-quickport-jack-6aujk",
+   "name": "Leviton Atlas-X1 Cat 6A UTP QuickPort Jack (6AUJK)",
+   "brand": "Leviton",
+   "category": "patch-panels",
+   "price": "26.31",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    18,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "networking-lab"
+   ],
+   "summary": "Component-rated Cat 6A UTP QuickPort keystone-style jack with tool-free termination.",
+   "description": "The Atlas-X1 6AUJK is a component-rated Cat 6A UTP QuickPort jack for 10GBASE-T. Patented Retention Force Technology protects the tines and keeps PoE contact force steady, termination and re-termination need no special tool, and a short body suits shallow boxes and enclosures.",
+   "keywords": "leviton atlas-x1 cat6a keystone jack quickport utp 10g tool free",
+   "specs": {
+    "cableCategory": "Cat6A UTP",
+    "ports": "1 x RJ45 QuickPort jack",
+    "maxSpeedGbps": 10,
+    "colors": "White, Black, Blue, Gray, Ivory, Orange, Purple, Green, Yellow, Crimson, Dark Red, Brown"
+   },
+   "options": [
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "White",
+       "default": true
+      },
+      {
+       "label": "Black"
+      },
+      {
+       "label": "Blue"
+      },
+      {
+       "label": "Gray"
+      },
+      {
+       "label": "Ivory"
+      },
+      {
+       "label": "Orange"
+      },
+      {
+       "label": "Purple"
+      },
+      {
+       "label": "Green"
+      },
+      {
+       "label": "Yellow"
+      },
+      {
+       "label": "Crimson"
+      },
+      {
+       "label": "Dark Red"
+      },
+      {
+       "label": "Brown"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "sku": "TK-LEVITON-69586-U24",
+   "slug": "leviton-cat6-universal-patch-panel-24-port-69586-u24",
+   "name": "Leviton Cat 6 Universal Patch Panel, 24-Port, 1RU (69586-U24)",
+   "brand": "Leviton",
+   "category": "patch-panels",
+   "price": "348.96",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    26,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "enterprise-lab"
+   ],
+   "summary": "1RU 24-port Cat 6 flat 110-style patch panel with cable management bar.",
+   "description": "Leviton's 69586-U24 is a 24-port, 1RU Cat 6 flat 110-style patch panel for 19-inch racks. It features Retention Force Technology, universal T568A/B wiring cards, color-coded TIA-606-C front labeling and accepts 26-22 AWG solid conductors; a rear cable management bar is included.",
+   "keywords": "leviton cat6 patch panel 24 port 110 punch down 1ru enterprise",
+   "specs": {
+    "rackUnits": 1,
+    "cableCategory": "Cat6",
+    "ports": "24 x RJ45 (110-style)",
+    "rackMountable": true,
+    "configurations": "24-port, 1RU – $348.96 · 48-port, 2RU – $687.43"
+   },
+   "options": [
+    {
+     "name": "Configuration",
+     "values": [
+      {
+       "label": "24-port, 1RU",
+       "price": "348.96",
+       "default": true
+      },
+      {
+       "label": "48-port, 2RU",
+       "price": "687.43"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "sku": "TK-LEVITON-49255-H24",
+   "slug": "leviton-quickport-patch-panel-24-port-49255-h24",
+   "name": "Leviton QuickPort Patch Panel, 24-Port, 1RU (49255-H24)",
+   "brand": "Leviton",
+   "category": "patch-panels",
+   "price": "61.01",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    31,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "homelab-essentials"
+   ],
+   "summary": "1RU 24-port unloaded modular panel for any QuickPort connector, with rear cable bar.",
+   "description": "The 49255-H24 is an unloaded 24-port, 1RU QuickPort patch panel for 19-inch racks. It accepts any Leviton QuickPort connector (copper, fiber, AV) for mixed-media builds, has port numbers and write-on blocks, and includes a rear cable management bar.",
+   "keywords": "leviton quickport keystone patch panel 24 port blank modular 1ru",
+   "specs": {
+    "rackUnits": 1,
+    "cableCategory": "Modular (QuickPort keystone)",
+    "ports": "24 QuickPort openings",
+    "rackMountable": true
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-LEVITON-6AS10",
+   "slug": "leviton-atlas-x1-cat6a-slimline-patch-cord-6as10",
+   "name": "Leviton Atlas-X1 Cat 6A SlimLine Boot Patch Cord (6AS10)",
+   "brand": "Leviton",
+   "category": "cables",
+   "price": "24.25",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    41,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [],
+   "summary": "ETL-verified Cat 6A patch cord with SlimLine snagless boot, 3 to 10 ft.",
+   "description": "Atlas-X1 Cat 6A SlimLine patch cords exceed ANSI/TIA-568-C.2 channel requirements from 1 to 500 MHz for 10GBASE-T, with strong alien-crosstalk suppression and EMI/RFI protection. The narrow SlimLine plug and snagless strain-relief boot suit dense patch fields; performance is independently verified by Intertek (ETL).",
+   "keywords": "leviton atlas-x1 cat6a patch cord slimline 10g",
+   "specs": {
+    "cableCategory": "Cat6A",
+    "lengthM": 0.9,
+    "maxSpeedGbps": 10,
+    "ports": "RJ45 to RJ45",
+    "configurations": "3 ft – $24.25 · 5 ft – $27.72 · 7 ft – $31.17 · 10 ft (gray) – $36.37",
+    "colors": "Black, Blue, Gray, White"
+   },
+   "options": [
+    {
+     "name": "Configuration",
+     "values": [
+      {
+       "label": "3 ft",
+       "price": "24.25",
+       "default": true
+      },
+      {
+       "label": "5 ft",
+       "price": "27.72"
+      },
+      {
+       "label": "7 ft",
+       "price": "31.17"
+      },
+      {
+       "label": "10 ft (gray)",
+       "price": "36.37"
+      }
+     ]
+    },
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Black",
+       "default": true
+      },
+      {
+       "label": "Blue"
+      },
+      {
+       "label": "Gray"
+      },
+      {
+       "label": "White"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "sku": "TK-LEVITON-UPDLC",
+   "slug": "leviton-economy-os2-lc-lc-duplex-patch-cord-updlc",
+   "name": "Leviton Economy OS2 Single-Mode Duplex LC-LC Patch Cord (UPDLC)",
+   "brand": "Leviton",
+   "category": "cables",
+   "price": "32.59",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    38,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [],
+   "summary": "OFNR riser-rated duplex OS2 9/125 LC-LC single-mode patch cord, <0.3 dB loss.",
+   "description": "Leviton Economy Series patch cords use riser-rated duplex zipcord 9/125 µm OS2 single-mode fiber with UPC-polished LC connectors, under 0.3 dB insertion loss and -55 dB back reflection.",
+   "keywords": "leviton os2 single mode fiber patch cord lc lc duplex ofnr",
+   "specs": {
+    "cableCategory": "OS2 fiber",
+    "lengthM": 2,
+    "ports": "LC duplex to LC duplex",
+    "configurations": "2 m – $32.59 · 3 m – $32.46"
+   },
+   "options": [
+    {
+     "name": "Configuration",
+     "values": [
+      {
+       "label": "2 m",
+       "price": "32.59",
+       "default": true
+      },
+      {
+       "label": "3 m",
+       "price": "32.46"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "sku": "TK-PANDUIT-CPP24FMWBLY",
+   "slug": "panduit-mini-com-flush-modular-patch-panel-24-port-cpp24fmwbly",
+   "name": "Panduit Mini-Com Flush Mount Modular Patch Panel, 24-Port (CPP24FMWBLY)",
+   "brand": "Panduit",
+   "category": "patch-panels",
+   "price": "48.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    9,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "enterprise-lab"
+   ],
+   "summary": "1RU flush-mount unloaded panel for 24 Mini-Com modules, black, fits 19 in and 23 in racks.",
+   "description": "The CPP24FMWBLY Mini-Com flush mount modular patch panel accepts up to 24 Mini-Com modules for unshielded applications in 1 RU. It mounts flush to 19-inch and 23-inch racks and cabinets, has pre-numbered ports with a write-on area for adhesive labels, and is black.",
+   "keywords": "panduit mini-com modular patch panel 24 port flush 1ru keystone",
+   "specs": {
+    "rackUnits": 1,
+    "cableCategory": "Modular (Mini-Com, unshielded)",
+    "ports": "24 Mini-Com module openings",
+    "rackMountable": true,
+    "colors": "Black"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-KLEIN-VDV501-851",
+   "slug": "klein-tools-scout-pro-3-tester-kit-vdv501-851",
+   "name": "Klein Tools Scout Pro 3 Ethernet Cable Tester Kit (VDV501-851)",
+   "brand": "Klein Tools",
+   "category": "network-tools",
+   "price": "190.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    22,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "networking-lab",
+    "homelab-essentials"
+   ],
+   "summary": "Voice/data/video cable tester kit: RJ11/12, RJ45 and coax, length to 2000 ft, 5+5 locator remotes.",
+   "description": "The Scout Pro 3 tests RJ11/RJ12, RJ45 and F-connector coax cables for opens, shorts, miswires and split pairs, measures length up to 2000 ft (610 m), generates tone and blinks hub ports on a backlit LCD. The VDV501-851 kit adds a self-storing remote plus five LanMap RJ45 and five CoaxMap locator remotes.",
+   "keywords": "klein scout pro 3 cable tester vdv501-851 rj45 coax wiremap",
+   "specs": {
+    "toolType": "Cable tester (VDV, wiremap, length, tone)",
+    "ports": "RJ11/RJ12, RJ45, coax F-connector",
+    "colors": "Yellow/Black"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-KLEIN-VDV226-110",
+   "slug": "klein-tools-ratcheting-pass-thru-crimper-vdv226-110",
+   "name": "Klein Tools Ratcheting Pass-Thru Modular Crimper/Stripper/Cutter (VDV226-110)",
+   "brand": "Klein Tools",
+   "category": "network-tools",
+   "price": "60.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    18,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "networking-lab",
+    "homelab-essentials"
+   ],
+   "summary": "Ratcheting crimper/stripper/cutter for RJ11/12 and RJ45 Pass-Thru plugs, Cat5e to Cat6A.",
+   "description": "The VDV226-110 crimps 4-, 6- and 8-position modular plugs (RJ11/RJ12 standard and RJ45 Pass-Thru) on Cat3, Cat5e and Cat6/6A cable. A full-cycle ratchet ensures complete termination and the blade trims wires flush to the plug face; it also strips and cuts.",
+   "keywords": "klein pass-thru crimper rj45 ratcheting vdv226-110 ethernet",
+   "specs": {
+    "toolType": "Crimper (RJ45 Pass-Thru, ratcheting)",
+    "ports": "4P/6P RJ11/RJ12, 8P RJ45 Pass-Thru",
+    "colors": "Yellow/Black"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-KLEIN-VDV427-300",
+   "slug": "klein-tools-impact-punchdown-tool-vdv427-300",
+   "name": "Klein Tools Impact Punchdown Tool, 66/110 Blade (VDV427-300)",
+   "brand": "Klein Tools",
+   "category": "network-tools",
+   "price": "40.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    43,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "networking-lab"
+   ],
+   "summary": "Impact punchdown tool with combination 66/110 blade; terminates and cuts in one step.",
+   "description": "The VDV427-300 punches data cables into 66 and 110 panels and blocks, terminating and cutting the wire in one step with a MIM precision-ground combination 66/110 blade. It has a cushioned non-slip handle; replacement and extended-reach blades are sold separately.",
+   "keywords": "klein punch down tool 110 66 impact vdv427-300 keystone patch panel",
+   "specs": {
+    "toolType": "Punch-down tool (66/110 impact)",
+    "ports": "66 and 110 blocks",
+    "colors": "Yellow/Black"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-KLEIN-VDV500-820",
+   "slug": "klein-tools-tone-and-probe-pro-kit-vdv500-820",
+   "name": "Klein Tools Tone & Probe PRO Wire Tracing Kit (VDV500-820)",
+   "brand": "Klein Tools",
+   "category": "network-tools",
+   "price": "95.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    35,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [],
+   "summary": "Toner-Pro tone generator plus Probe-Pro tracing probe with pouch, for tracing non-energized cable.",
+   "description": "The VDV500-820 kit pairs the Toner-Pro generator (five tones, angled bed-of-nails clips, RJ11 plug, continuity and polarity LEDs) with the Probe-Pro tracing probe, which has adjustable volume, a headphone jack and a replaceable non-metallic tip. A zipper pouch and 8 AAA batteries are included.",
+   "keywords": "klein tone probe kit toner cable tracer vdv500-820",
+   "specs": {
+    "toolType": "Tone generator and probe",
+    "ports": "RJ11 plug, alligator clips",
+    "colors": "Yellow/Black"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-FLUKENET-LINKIQ-LIQ100",
+   "slug": "fluke-networks-linkiq-cable-network-tester-liq-100",
+   "name": "Fluke Networks LinkIQ Cable+Network Tester (LIQ-100)",
+   "brand": "Fluke Networks",
+   "category": "network-tools",
+   "price": "1995.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    54,
+    5
+   ],
+   "featured": true,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "networking-lab",
+    "enterprise-lab"
+   ],
+   "summary": "Touchscreen cable qualifier to 10 Gb/s with PoE verification, switch diagnostics and 305 m length.",
+   "description": "The LinkIQ Cable+Network Tester validates cable performance up to 10 Gb/s using frequency-based measurements and a wire map, measures length to 305 m (1000 ft) with distance to faults, and runs ping and nearest-switch diagnostics. Ethernet Alliance-certified PoE testing reports class 1-8 and load-tests available power.",
+   "keywords": "fluke networks linkiq cable tester 10g poe qualifier liq-100",
+   "specs": {
+    "toolType": "Cable qualifier and network tester",
+    "maxSpeedGbps": 10,
+    "ports": "RJ45",
+    "colors": "Yellow"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-FLUKENET-DSX-8000",
+   "slug": "fluke-networks-dsx-8000-cableanalyzer",
+   "name": "Fluke Networks Versiv DSX-8000 CableAnalyzer Certifier Kit",
+   "brand": "Fluke Networks",
+   "category": "network-tools",
+   "price": "24500.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    5,
+    2
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "enterprise-lab"
+   ],
+   "summary": "Versiv copper certifier to Cat 8 / 2 GHz; Cat 6A certification in 8 seconds.",
+   "description": "The DSX-8000 CableAnalyzer certifies twisted-pair cabling from Cat 5e to Cat 8 / Class I/II up to 2000 MHz for deployments up to 40 Gigabit Ethernet, completing a Cat 6A autotest in 8 seconds. It is part of the modular Versiv platform, which also accepts fiber OLTS, OTDR and inspection modules.",
+   "keywords": "fluke networks dsx-8000 versiv cable certifier cat8 cat6a certification",
+   "specs": {
+    "toolType": "Cable certifier (Cat 8 / 2 GHz)",
+    "maxSpeedGbps": 40,
+    "ports": "Twisted-pair via permanent link / channel adapters",
+    "colors": "Yellow"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-FLUKENET-MS-POE-KIT",
+   "slug": "fluke-networks-microscanner-poe-kit-ms-poe-kit",
+   "name": "Fluke Networks MicroScanner PoE Cable Verifier Kit (MS-POE-KIT)",
+   "brand": "Fluke Networks",
+   "category": "network-tools",
+   "price": "1350.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    31,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "networking-lab"
+   ],
+   "summary": "Cable verifier that shows PoE class 0-8, available services to 10G, wiremap and length on one screen.",
+   "description": "The MicroScanner PoE reports the maximum 802.3af/at/bt PoE class (0-8) a switch can provide, passive PoE voltage, available Ethernet services up to 10G, cable length, wiremap and distance to fault on one screen; it is Ethernet Alliance Gen2 PoE certified. The MS-POE-KIT adds an IntelliTone Pro 200 probe, remote IDs #2-7, patch cords, a magnetic strap and a carry case.",
+   "keywords": "fluke networks microscanner poe cable verifier kit intellitone",
+   "specs": {
+    "toolType": "Cable verifier with PoE test and toner",
+    "maxSpeedGbps": 10,
+    "ports": "RJ45 / RJ11 modular port",
+    "colors": "Yellow"
+   },
+   "options": []
+  }
+ ]
+}

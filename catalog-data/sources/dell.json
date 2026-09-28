@@ -1543,46 +1543,6 @@
    }
   },
   {
-   "sku": "TK-DELL-U3226Q",
-   "slug": "dell-ultrasharp-32-4k-qd-oled-u3226q",
-   "name": "Dell UltraSharp 32 4K QD-OLED Monitor (U3226Q)",
-   "brand": "Dell",
-   "category": "professional-monitors",
-   "price": "2599.99",
-   "priceBasis": "msrp",
-   "priceSource": "https://www.dell.com/en-us/shop/monitors/apd/dell-ultrasharp-32-4k-qd-oled-monitor-u3226q/u3226q/-",
-   "priceAsOf": "2026-09-28",
-   "priceNote": "Dell.com US price.",
-   "releaseYear": 2026,
-   "summary": "31.5-inch 4K QD-OLED UltraSharp at 120Hz with Dolby Vision, 99% DCI-P3 / 94% Adobe RGB, Thunderbolt 4 (140 W) and daisy-chain.",
-   "description": "The UltraSharp 32 4K QD-OLED (U3226Q) is Dell's first QD-OLED UltraSharp for colour-critical work. The 31.5-inch 3840 x 2160 panel runs at 120 Hz with 1,500,000:1 contrast and 1000-nit peak Dolby Vision HDR. Dell lists 99% DCI-P3, 94% Adobe RGB and 80% BT.2020 coverage with colour calibration, plus Thunderbolt 4 upstream with 140 W EPR power, a Thunderbolt 4 downstream port for daisy-chaining, two HDMI 2.1, DisplayPort 1.4, RJ45 and KVM. Its 3-year warranty covers burn-in.",
-   "keywords": "dell ultrasharp 32 qd-oled 4k professional monitor thunderbolt u3226q",
-   "specs": {
-    "sizeIn": 31.5,
-    "resolution": "3840 x 2160 (4K UHD)",
-    "refreshHz": 120,
-    "panel": "QD-OLED",
-    "hdr": "Dolby Vision, 1000 nits peak",
-    "colorGamut": "99% DCI-P3, 94% Adobe RGB, 80% BT.2020, 100% sRGB",
-    "inputs": "Thunderbolt 4 upstream (140W EPR) + Thunderbolt 4 downstream, USB-C upstream, 2x HDMI 2.1, 1x DisplayPort 1.4, RJ45",
-    "usbCPowerW": 140
-   },
-   "colors": [
-    "Dark Gray"
-   ],
-   "collections": [
-    "oled-displays",
-    "creator-workstations"
-   ],
-   "featured": false,
-   "warranty": 36,
-   "sources": {
-    "product": "https://www.dell.com/en-us/shop/monitors/apd/dell-ultrasharp-32-4k-qd-oled-monitor-u3226q/u3226q/-",
-    "retrievedAt": "2026-09-28"
-   },
-   "notes": "No image: image carries a certification badge."
-  },
-  {
    "sku": "TK-DELL-U4025QW",
    "slug": "dell-ultrasharp-40-curved-thunderbolt-u4025qw",
    "name": "Dell UltraSharp 40 Curved Thunderbolt Hub Monitor (U4025QW)",
@@ -1721,45 +1681,6 @@
    }
   },
   {
-   "sku": "TK-DELL-P3426WEB",
-   "slug": "dell-pro-p-34-usb-c-hub-conferencing-p3426web",
-   "name": "Dell Pro P 34 USB-C Hub Conferencing Monitor (P3426WEB)",
-   "brand": "Dell",
-   "category": "office-monitors",
-   "price": "749.99",
-   "priceBasis": "msrp",
-   "priceSource": "https://www.dell.com/en-us/shop/computer-monitors/sac/monitors/all-monitors",
-   "priceAsOf": "2026-09-28",
-   "compareAt": "799.99",
-   "priceNote": "Dell.com US sale price listed on the all-monitors page on 2026-09-28; regular Dell price $799.99.",
-   "releaseYear": 2026,
-   "summary": "34-inch curved WQHD conferencing monitor with a 4MP webcam, speakers, 100Hz and a USB-C hub with 90 W power delivery.",
-   "description": "The Dell Pro P 34 USB-C Hub Conferencing Monitor (P3426WEB) is a 34.1-inch 3440 x 1440 curved (3800R) IPS display at 100 Hz with 350 nits and 99% sRGB. It integrates a 4MP webcam and two speakers for video calls, plus a USB-C upstream port with 90 W power delivery, HDMI, DisplayPort 1.4, 1GbE RJ45 and a USB hub.",
-   "keywords": "dell pro p34 conferencing monitor webcam curved ultrawide usb-c p3426web",
-   "specs": {
-    "sizeIn": 34.1,
-    "resolution": "3440 x 1440 (WQHD)",
-    "refreshHz": 100,
-    "panel": "IPS, 3800R curved",
-    "colorGamut": "99% sRGB",
-    "inputs": "USB-C upstream (DP Alt Mode, 90W PD), HDMI, DisplayPort 1.4, USB-B upstream, RJ45 1GbE, USB hub; 4MP webcam",
-    "usbCPowerW": 90
-   },
-   "colors": [
-    "Dark Gray"
-   ],
-   "collections": [
-    "small-business"
-   ],
-   "featured": false,
-   "warranty": 36,
-   "sources": {
-    "product": "https://www.dell.com/en-us/shop/monitors/apd/dell-pro-p-34-usb-c-hub-conferencing-monitor-p3426web/p3426web/-",
-    "retrievedAt": "2026-09-28"
-   },
-   "notes": "No image: image carries a certification badge."
-  },
-  {
    "sku": "TK-DELL-SD25TB5",
    "slug": "dell-pro-thunderbolt-5-smart-dock-sd25tb5",
    "name": "Dell Pro Thunderbolt 5 Smart Dock (SD25TB5)",
@@ -1879,45 +1800,6 @@
     "alt": "Dell PowerEdge R770 2U rack server with 16-bay 2.5-inch front and Dell bezel, left angled view",
     "match": "EXACT"
    }
-  },
-  {
-   "sku": "TK-DELL-POWEREDGE-R670",
-   "slug": "dell-poweredge-r670",
-   "name": "Dell PowerEdge R670 1U Rack Server",
-   "brand": "Dell",
-   "category": "rack-servers",
-   "price": "25798.99",
-   "priceBasis": "starting-at",
-   "priceSource": "https://www.dell.com/en-us/shop/servers-storage-and-networking/poweredge-r670/spd/poweredge-r670/pe_r670_tm_vi_vp_sb",
-   "priceAsOf": "2026-09-28",
-   "priceNote": "Dell.com US 'Starting at' price for the default configuration of this model (configure-to-order).",
-   "releaseYear": 2025,
-   "summary": "17th-generation 1U two-socket Intel Xeon 6 rack server with 32 DDR5 slots (8 TB), EDSFF E3.S options and iDRAC10.",
-   "description": "The PowerEdge R670 is a 1U, two-socket rack server for Intel Xeon 6 processors with up to 144 E-cores or 86 P-cores per processor and 32 DDR5 RDIMM slots (up to 8 TB). Front storage options include up to 16 EDSFF E3.S Gen5 NVMe drives, and it is offered in rear-I/O hot-aisle and front-I/O cold-aisle versions. Dell's starting configuration includes a Xeon 6 6507P, 2 x 64 GB RDIMM, an 8-bay SAS/SATA chassis with PERC H365i, a 960 GB SSD and dual-port 25GbE.",
-   "keywords": "poweredge r670 17g 1u xeon 6 rack server dense compute",
-   "specs": {
-    "rackUnits": 1,
-    "cpu": "Intel Xeon 6 Performance 6507P (8C/16T, 3.5 GHz) as configured; up to 2x Xeon 6",
-    "socketCount": 2,
-    "memoryGb": 128,
-    "maxMemoryTb": 8,
-    "ecc": true,
-    "driveBays": 8,
-    "raid": "PERC 12 H365i (front)",
-    "network": "Broadcom 57414 dual-port 25GbE SFP28 OCP 3.0",
-    "psu": "1100W hot-plug MHS (single as configured)"
-   },
-   "collections": [
-    "enterprise-servers"
-   ],
-   "featured": false,
-   "warranty": 36,
-   "sources": {
-    "product": "https://www.dell.com/en-us/shop/servers-storage-and-networking/poweredge-r670/spd/poweredge-r670/pe_r670_tm_vi_vp_sb",
-    "retrievedAt": "2026-09-28",
-    "specs": "https://www.delltechnologies.com/asset/en-us/products/servers/technical-support/poweredge-r670-spec-sheet.pdf"
-   },
-   "notes": "No image: only image found is identical to the R470 asset."
   },
   {
    "sku": "TK-DELL-POWEREDGE-R470",

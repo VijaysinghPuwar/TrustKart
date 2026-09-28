@@ -63,12 +63,14 @@ MATCHES = {"EXACT", "PRODUCT_LINE"}
 REQUIRED = {"sku", "slug", "name", "brand", "category", "price", "priceBasis", "summary", "description", "specs", "sources"}
 OPTIONAL = {"compareAt", "priceSource", "priceAsOf", "priceNote", "releaseYear", "keywords", "collections", "featured",
             "warranty", "stock", "variants", "colors", "image", "notes"}
-IMAGE_FIELDS = {"url", "page", "sourceType", "rights", "alt", "match", "credit", "licenseUrl"}
+IMAGE_FIELDS = {"url", "page", "sourceType", "rights", "alt", "match", "credit", "licenseUrl", "allowLowRes", "darkBackground"}
+CURL_UA = "curl/8.7.1"
 UA = "Mozilla/5.0 (Macintosh; Intel Mac OS X 14_0) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Safari/605.1.15"
 
 CANVAS = 800
 CONTENT = 720          # product occupies at most this many px of the 800 canvas (consistent margins)
 MIN_SOURCE_PX = 480    # error below this long side (would be visibly upscaled)
+MIN_LOWRES_PX = 320    # floor for images explicitly marked allowLowRes (the maker publishes nothing larger)
 WARN_SOURCE_PX = 700
 
 
@@ -549,15 +551,25 @@ def fetch(url: str) -> bytes:
     raw = CACHE / "raw" / hashlib.sha1(url.encode()).hexdigest()
     if raw.exists() and raw.stat().st_size > 0:
         return raw.read_bytes()
-    req = urllib.request.Request(url, headers={"User-Agent": UA, "Accept": "image/avif,image/webp,image/png,image/jpeg,*/*"})
-    with urllib.request.urlopen(req, timeout=40) as r:
-        data = r.read()
+    headers = {"Accept": "image/avif,image/webp,image/png,image/jpeg,*/*"}
+    try:
+        req = urllib.request.Request(url, headers={**headers, "User-Agent": UA})
+        with urllib.request.urlopen(req, timeout=40) as r:
+            data = r.read()
+    except urllib.error.HTTPError as e:
+        if e.code != 403:
+            raise
+        # Some manufacturer CDNs (cisco.com, i.dell.com, supermicro.com) reject browser-like agents from scripts but
+        # serve a plainly identified command-line client. Retry once, honestly identified; never spoof further.
+        req = urllib.request.Request(url, headers={**headers, "User-Agent": CURL_UA})
+        with urllib.request.urlopen(req, timeout=40) as r:
+            data = r.read()
     raw.parent.mkdir(parents=True, exist_ok=True)
     raw.write_bytes(data)
     return data
 
 
-def normalize_image(data: bytes):
+def normalize_image(data: bytes, dark_ok: bool = False):
     """Flatten onto white, lift near-white studio backgrounds to pure white, trim, center on a square canvas."""
     from PIL import Image, ImageChops, ImageOps, ImageStat
 
@@ -593,6 +605,20 @@ def normalize_image(data: bytes):
             lut.extend(min(255, int(round(v * k))) for v in range(256))
         im = im.point(lut)
 
+    dark_studio = False
+    if not uniform and dark_ok:
+        dark = [st for st in stats if max(st.stddev) < 8 and max(st.mean) <= 60]
+        if len(dark) >= 3:
+            dark_studio = True
+            bgc = [sum(st.mean[c] for st in dark) / len(dark) for c in range(3)]
+            notes = [n for n in notes if n != "non-white background"]
+    if dark_studio:
+        # Official dark studio render: trim against its own backdrop and pad with the same colour.
+        ref_bg = Image.new("RGB", im.size, tuple(int(x) for x in bgc))
+        mask = ImageChops.difference(im, ref_bg).convert("L").point(lambda v: 255 if v > 90 else 0)
+        box = mask.getbbox()
+        if box:
+            im = im.crop((max(0, box[0] - 2), max(0, box[1] - 2), min(w, box[2] + 2), min(h, box[3] + 2)))
     if uniform and bright:
         diff = ImageChops.difference(im, Image.new("RGB", im.size, (255, 255, 255))).convert("L")
         mask = diff.point(lambda v: 255 if v > 14 else 0)
@@ -630,10 +656,11 @@ def process_image(p: dict):
             return meta, probs
     try:
         data = fetch(img["url"])
-        canvas, long_side, notes = normalize_image(data)
+        canvas, long_side, notes = normalize_image(data, bool(img.get("darkBackground")))
     except (urllib.error.URLError, OSError, ValueError, TimeoutError) as e:
         return None, [("err", f"image download/decode failed: {e}")]
-    if long_side < MIN_SOURCE_PX:
+    floor = MIN_LOWRES_PX if img.get("allowLowRes") else MIN_SOURCE_PX
+    if long_side < floor:
         probs.append(("err", f"source image too small ({long_side}px long side)"))
         return None, probs
     if long_side < WARN_SOURCE_PX:
@@ -801,6 +828,10 @@ def emit(normalized: dict, sources: dict, image_meta: dict, index: dict, issues:
                 "match": img["match"], "retrievedAt": o["sources"].get("retrievedAt"), "rights": img["rights"],
                 "sourcePx": image_meta[o["slug"]].get("sourcePx"), "replacesDemoImage": True,
             })
+    # Products parked in catalog-data/pending/ (no official image yet): the seeder hides any already-seeded copy.
+    parked = sorted({p["sku"] for f in (ROOT / "catalog-data/pending").glob("*.json")
+                     for p in json.loads(f.read_text())["products"]})
+    (RES / "catalog/parked.json").write_text(json.dumps({"skus": parked}, indent=1) + "\n")
     OUT_IMAGES.write_text(json.dumps(dict(sorted(images.items())), indent=1, ensure_ascii=False) + "\n")
     (ROOT / "catalog-data/product-image-sources.json").write_text(
         json.dumps(sorted(img_sources, key=lambda r: r["productId"]), indent=1, ensure_ascii=False) + "\n")

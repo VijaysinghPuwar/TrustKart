@@ -1,0 +1,92 @@
+{
+ "meta": {
+  "notes": "Researched products parked until an official, professional product image can be sourced."
+ },
+ "products": [
+  {
+   "sku": "TK-APC-SRT3000RMXLA",
+   "slug": "apc-smart-ups-on-line-srt3000rmxla",
+   "name": "APC Smart-UPS On-Line SRT 3000VA 2U (SRT3000RMXLA)",
+   "brand": "APC",
+   "category": "ups",
+   "price": "2899.00",
+   "priceBasis": "estimate",
+   "summary": "3 kVA / 2700 W double-conversion online rack/tower UPS, 2U, 120 V, expandable runtime.",
+   "description": "The APC Smart-UPS On-Line SRT3000RMXLA is a 2U rack/tower convertible double-conversion UPS rated 3000 VA / 2700 W at 120 V with pure sine wave output and zero transfer time. It provides eight NEMA 5-20R and one L5-30R outlets and supports up to 10 external battery packs.",
+   "keywords": "apc schneider smart-ups srt online double conversion 3000va rackmount",
+   "specs": {
+    "capacityVa": 3000,
+    "outputW": 2700,
+    "waveform": "Pure sine wave (double-conversion online)",
+    "rackMountable": true,
+    "outlets": 9
+   },
+   "collections": [
+    "enterprise-servers",
+    "small-business"
+   ],
+   "warranty": 36,
+   "notes": "Schneider Electric shows no US list price on se.com (sold via partners); price is a TrustKart estimate. No image: se.com / download.schneider-electric.com refused automated image requests (HTTP 403).",
+   "sources": {
+    "product": "https://www.se.com/us/en/product/SRT3000RMXLA/",
+    "retrievedAt": "2026-09-28"
+   },
+   "featured": false
+  },
+  {
+   "sku": "TK-APC-SRTL5KRM2UT",
+   "slug": "apc-smart-ups-ultra-srtl5krm2ut",
+   "name": "APC Smart-UPS Ultra On-Line 5kVA Lithium-ion (SRTL5KRM2UT)",
+   "brand": "APC",
+   "category": "ups",
+   "price": "6999.00",
+   "priceBasis": "estimate",
+   "summary": "5 kVA / 4.9 kW lithium-ion double-conversion online UPS in 2U, 208 V, with network management card.",
+   "description": "The APC Smart-UPS Ultra SRTL5KRM2UT is a 2U rack/tower lithium-ion double-conversion online UPS rated 5000 VA / 4.9 kW at 208 V. It has two L6-20R and two L6-30R outlets, is expandable to 10 external battery packs, is ENERGY STAR certified and includes a 1-year Secure Network Management Card subscription.",
+   "keywords": "apc smart-ups ultra lithium ion 5kva 208v online rackmount ups",
+   "specs": {
+    "capacityVa": 5000,
+    "outputW": 4900,
+    "waveform": "Pure sine wave (double-conversion online)",
+    "rackMountable": true,
+    "outlets": 4
+   },
+   "collections": [
+    "enterprise-servers",
+    "ai-lab"
+   ],
+   "warranty": 36,
+   "notes": "Schneider Electric shows no US list price on se.com (sold via partners); price is a TrustKart estimate. No image: se.com / download.schneider-electric.com refused automated image requests (HTTP 403).",
+   "sources": {
+    "product": "https://www.se.com/us/en/product/SRTL5KRM2UT/",
+    "retrievedAt": "2026-09-28"
+   },
+   "featured": false
+  },
+  {
+   "sku": "TK-APC-AR3100B2",
+   "slug": "apc-netshelter-sx-gen2-42u-ar3100b2",
+   "name": "APC NetShelter SX Gen 2 42U Server Rack (AR3100B2)",
+   "brand": "APC",
+   "category": "racks-infrastructure",
+   "price": "2399.00",
+   "priceBasis": "estimate",
+   "summary": "42U 600 mm wide x 1070 mm deep enclosed server rack enclosure with sides, black.",
+   "description": "The NetShelter SX Gen 2 AR3100B2 is a 42U enclosed server rack, 1991 mm high, 600 mm wide and 1070 mm deep, supplied with side panels in black. It is TAA compliant and made in America, and replaces the original AR3100.",
+   "keywords": "apc schneider netshelter sx gen2 42u server rack enclosure cabinet",
+   "specs": {
+    "rackUnits": 42,
+    "rackType": "Enclosed 4-post cabinet with sides (600 x 1070 mm)"
+   },
+   "collections": [
+    "enterprise-servers"
+   ],
+   "notes": "Schneider Electric shows no US list price on se.com (sold via partners); price is a TrustKart estimate. No image: se.com / download.schneider-electric.com refused automated image requests (HTTP 403).",
+   "sources": {
+    "product": "https://www.se.com/us/en/product/AR3100B2/",
+    "retrievedAt": "2026-09-28"
+   },
+   "featured": false
+  }
+ ]
+}

@@ -751,40 +751,6 @@
    "options": []
   },
   {
-   "sku": "TK-MSI-INFINITEZS",
-   "slug": "msi-infinite-zs",
-   "name": "MSI Infinite ZS",
-   "brand": "MSI",
-   "category": "gaming-desktops",
-   "price": "7799.00",
-   "compareAt": null,
-   "warranty": 12,
-   "stock": [
-    11,
-    3
-   ],
-   "featured": false,
-   "backorder": false,
-   "discontinued": false,
-   "collections": [
-    "dream-gaming"
-   ],
-   "summary": "Gaming desktop with AMD Ryzen 9 9950X3D, GeForce RTX 5090 32 GB and a 1300 W PSU.",
-   "description": "The Infinite ZS 9NVZ-2261US pairs an AMD Ryzen 9 9950X3D (360 mm liquid cooler) with a GeForce RTX 5090 32 GB GDDR7. It ships with 32 GB DDR5, a 2 TB M.2 NVMe SSD, 2.5 GbE, Wi-Fi 7 and a 1300 W power supply.",
-   "keywords": "rtx 5090 prebuilt gaming pc 9950x3d",
-   "specs": {
-    "cpu": "AMD Ryzen 9 9950X3D",
-    "cpuBrand": "AMD",
-    "gpu": "NVIDIA GeForce RTX 5090 32 GB GDDR7",
-    "ramGb": 32,
-    "storageTb": 2,
-    "os": "Windows 11 Home",
-    "networking": "2.5GbE (Realtek 8125D), Wi-Fi 7",
-    "psuW": 1300
-   },
-   "options": []
-  },
-  {
    "sku": "TK-MSI-AEGISRS2AI",
    "slug": "msi-aegis-rs2-ai",
    "name": "MSI Aegis RS2 AI",
@@ -1128,41 +1094,6 @@
     "display": "14\" WUXGA (1920x1200) IPS",
     "os": "ChromeOS",
     "colors": "Moonlight Silver"
-   },
-   "options": []
-  },
-  {
-   "sku": "TK-ACER-PO6-605",
-   "slug": "acer-predator-orion-6000-po6-605",
-   "name": "Acer Predator Orion 6000 (PO6-605)",
-   "brand": "Acer",
-   "category": "gaming-desktops",
-   "price": "3599.99",
-   "compareAt": null,
-   "warranty": 12,
-   "stock": [
-    16,
-    3
-   ],
-   "featured": false,
-   "backorder": false,
-   "discontinued": false,
-   "collections": [
-    "dream-gaming"
-   ],
-   "summary": "Gaming desktop with Intel Core Ultra 9 285K, GeForce RTX 5080 and an 850 W 80 Plus Gold PSU.",
-   "description": "The Predator Orion 6000 PO6-605-UR18W pairs an Intel Core Ultra 9 285K (up to 5.7 GHz) with an NVIDIA GeForce RTX 5080. It ships with 32 GB DDR5, a 1 TB M.2 PCIe Gen4 SSD, Wi-Fi 7, Bluetooth 5.4 and an 850 W 80 Plus Gold power supply in a white chassis.",
-   "keywords": "predator orion rtx 5080 prebuilt gaming pc",
-   "specs": {
-    "cpu": "Intel Core Ultra 9 285K",
-    "cpuBrand": "Intel",
-    "gpu": "NVIDIA GeForce RTX 5080",
-    "ramGb": 32,
-    "storageTb": 1,
-    "os": "Windows 11 Home",
-    "networking": "Realtek Ethernet, Wi-Fi 7, Bluetooth 5.4",
-    "psuW": 850,
-    "colors": "White"
    },
    "options": []
   },
