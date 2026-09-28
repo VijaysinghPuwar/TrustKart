@@ -1,0 +1,82 @@
+{
+ "meta": {
+  "notes": "Researched products parked until an official, professional product image can be sourced."
+ },
+ "products": [
+  {
+   "sku": "TK-VIEWSONIC-VX16554KOLED",
+   "slug": "viewsonic-vx1655-4k-oled",
+   "name": "ViewSonic VX1655-4K-OLED 15.6\" 4K OLED Portable Monitor",
+   "brand": "ViewSonic",
+   "category": "office-monitors",
+   "price": "499.99",
+   "priceBasis": "msrp",
+   "priceSource": "https://www.viewsonic.com/us/vx1655-4k-oled-15-6-uhd-oled-portable-monitor-with-60w-usb-c-and-mini-hdmi.html",
+   "priceAsOf": "2026-09-28",
+   "releaseYear": 2023,
+   "summary": "15.6-inch 4K OLED portable monitor with 100% DCI-P3, dual 60 W USB-C and a built-in kickstand.",
+   "description": "The VX1655-4K-OLED is a 1.5 lb portable 15.6-inch 3840x2160 OLED display with 100% DCI-P3, 400 nits and 0.05 ms response. Two USB-C ports with 60 W pass-through charging and a mini-HDMI 2.0 input connect laptops, consoles and phones; a kickstand supports portrait and landscape.",
+   "keywords": "portable monitor oled 4k usb-c travel",
+   "specs": {
+    "sizeIn": 15.6,
+    "resolution": "3840x2160",
+    "refreshHz": 60,
+    "panel": "OLED",
+    "colorGamut": "100% DCI-P3",
+    "inputs": "2x USB-C, 1x mini-HDMI 2.0",
+    "usbCPowerW": 60,
+    "responseTimeMs": 0.05,
+    "brightnessNits": 400,
+    "stand": "Integrated kickstand, portrait/landscape",
+    "curvature": "Flat"
+   },
+   "collections": [
+    "oled-displays"
+   ],
+   "warranty": 36,
+   "sources": {
+    "product": "https://www.viewsonic.com/us/vx1655-4k-oled-15-6-uhd-oled-portable-monitor-with-60w-usb-c-and-mini-hdmi.html",
+    "specs": "https://www.viewsonic.com/us/vx1655-4k-oled-15-6-uhd-oled-portable-monitor-with-60w-usb-c-and-mini-hdmi.html",
+    "retrievedAt": "2026-09-28"
+   }
+  },
+  {
+   "sku": "TK-VIEWSONIC-VP16OLED",
+   "slug": "viewsonic-colorpro-vp16-oled",
+   "name": "ViewSonic ColorPro VP16-OLED 15.6\" OLED Portable Monitor",
+   "brand": "ViewSonic",
+   "category": "office-monitors",
+   "price": "229.99",
+   "priceBasis": "msrp",
+   "priceSource": "https://www.viewsonic.com/us/vp16-oled.html",
+   "priceAsOf": "2026-09-28",
+   "releaseYear": 2022,
+   "summary": "15.6-inch 1080p Pantone-validated OLED portable monitor with dual 40 W USB-C, stand and protective cover.",
+   "description": "The VP16-OLED is a 15.6-inch 1920x1080 OLED portable monitor with 10-bit colour, 400 nits and Pantone validation. Dual USB-C ports with 40 W power delivery and micro-HDMI connect laptops and cameras, and it ships with a height-adjustable stand (tripod mountable) and a protective cover.",
+   "keywords": "portable oled monitor pantone usb-c creator",
+   "specs": {
+    "sizeIn": 15.6,
+    "resolution": "1920x1080",
+    "refreshHz": 60,
+    "panel": "OLED",
+    "inputs": "2x USB-C, 1x micro-HDMI",
+    "usbCPowerW": 40,
+    "responseTimeMs": 1,
+    "brightnessNits": 400,
+    "stand": "Height-adjustable stand, tripod mount",
+    "curvature": "Flat"
+   },
+   "collections": [
+    "oled-displays",
+    "creator-workstations"
+   ],
+   "warranty": 36,
+   "sources": {
+    "product": "https://www.viewsonic.com/us/vp16-oled.html",
+    "specs": "https://www.viewsonic.com/us/vp16-oled.html",
+    "retrievedAt": "2026-09-28"
+   },
+   "compareAt": "299.99"
+  }
+ ]
+}

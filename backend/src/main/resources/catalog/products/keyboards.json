@@ -1,0 +1,2744 @@
+{
+ "products": [
+  {
+   "sku": "TK-KEYCHRON-K2-HE",
+   "slug": "keychron-k2-he",
+   "name": "Keychron K2 HE Wireless Magnetic Switch Custom Keyboard",
+   "brand": "Keychron",
+   "category": "keyboards",
+   "price": "129.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    23,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "ultimate-gaming-setup",
+    "developer-setup"
+   ],
+   "summary": "Wireless 75% Hall-effect keyboard with Gateron double-rail magnetic Nebula switches, Rapid Trigger and 0.2-3.8 mm adjustable actuation.",
+   "description": "Keychron K2 HE is a 75% QMK/VIA wireless keyboard with hot-swappable Gateron Double-Rail Magnetic Nebula switches supporting Rapid Trigger and adjustable actuation from 0.2 to 3.8 mm. It connects over 2.4 GHz, Bluetooth (up to 3 devices) or USB-C at 1000 Hz, and its 4000 mAh battery lasts up to 110 hours. The Special Edition adds a wooden side frame and OSA double-shot keycaps.",
+   "keywords": "hall effect magnetic rapid trigger 75% wireless bluetooth qmk via mac",
+   "specs": {
+    "connection": "2.4 GHz wireless, Bluetooth, USB-C wired",
+    "layout": "75%",
+    "switchType": "Gateron Double-Rail Magnetic Nebula (Hall effect)",
+    "mechanical": false,
+    "hotSwappable": true,
+    "macSupport": true,
+    "pollingRateHz": 1000,
+    "backlight": "North-facing RGB",
+    "batteryHours": 110,
+    "keycaps": "Cherry profile double-shot PBT, shine-through",
+    "configurations": "Standard Version – $129.99 · Special Edition (wood frame) – $139.99",
+    "colors": "Black, White"
+   },
+   "options": [
+    {
+     "name": "Configuration",
+     "values": [
+      {
+       "label": "Standard Version",
+       "price": "129.99",
+       "default": true
+      },
+      {
+       "label": "Special Edition (wood frame)",
+       "price": "139.99"
+      }
+     ]
+    },
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Black",
+       "default": true,
+       "image": {
+        "small": "/images/catalog/keychron-k2-he--black-400.webp",
+        "large": "/images/catalog/keychron-k2-he--black-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Keychron K2 HE Special Edition 75% magnetic switch keyboard in Black with wooden frame, top view"
+       }
+      },
+      {
+       "label": "White",
+       "image": {
+        "small": "/images/catalog/keychron-k2-he--white-400.webp",
+        "large": "/images/catalog/keychron-k2-he--white-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Keychron K2 HE Special Edition 75% magnetic switch keyboard in White with wooden frame, top view"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "sku": "TK-KEYCHRON-K8-HE",
+   "slug": "keychron-k8-he",
+   "name": "Keychron K8 HE Wireless Magnetic Switch Custom Keyboard",
+   "brand": "Keychron",
+   "category": "keyboards",
+   "price": "129.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    39,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "ultimate-gaming-setup"
+   ],
+   "summary": "Wireless tenkeyless Hall-effect keyboard with Gateron double-rail magnetic switches, Rapid Trigger, tri-mode connectivity and up to 110 hours of battery.",
+   "description": "Keychron K8 HE is a TKL (80%) QMK/VIA wireless keyboard with hot-swappable Gateron Double-Rail Magnetic Nebula switches, Rapid Trigger and actuation adjustable from 0.2 to 3.8 mm. It has an aluminium tray-mount build, connects over 2.4 GHz, Bluetooth (up to 3 devices) or USB-C at 1000 Hz, and runs up to 110 hours on its 4000 mAh battery.",
+   "keywords": "hall effect magnetic rapid trigger tkl 80% tenkeyless wireless bluetooth qmk",
+   "specs": {
+    "connection": "2.4 GHz wireless, Bluetooth, USB-C wired",
+    "layout": "TKL",
+    "switchType": "Gateron Double-Rail Magnetic Nebula (Hall effect)",
+    "mechanical": false,
+    "hotSwappable": true,
+    "macSupport": true,
+    "pollingRateHz": 1000,
+    "backlight": "North-facing RGB",
+    "batteryHours": 110,
+    "keycaps": "Cherry profile double-shot PBT, shine-through",
+    "configurations": "Standard Version – $129.99 · Special Edition (wood frame) – $139.99",
+    "colors": "Black, White"
+   },
+   "options": [
+    {
+     "name": "Configuration",
+     "values": [
+      {
+       "label": "Standard Version",
+       "price": "129.99",
+       "default": true
+      },
+      {
+       "label": "Special Edition (wood frame)",
+       "price": "139.99"
+      }
+     ]
+    },
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Black",
+       "default": true,
+       "image": {
+        "small": "/images/catalog/keychron-k8-he--black-400.webp",
+        "large": "/images/catalog/keychron-k8-he--black-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Keychron K8 HE Special Edition TKL magnetic switch keyboard in Black, top view"
+       }
+      },
+      {
+       "label": "White",
+       "image": {
+        "small": "/images/catalog/keychron-k8-he--white-400.webp",
+        "large": "/images/catalog/keychron-k8-he--white-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Keychron K8 HE Special Edition TKL magnetic switch keyboard in White, top view"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "sku": "TK-KEYCHRON-K2-ULTRA-8K",
+   "slug": "keychron-k2-ultra-8k",
+   "name": "Keychron K2 Ultra 8K Wireless Custom Mechanical Keyboard",
+   "brand": "Keychron",
+   "category": "keyboards",
+   "price": "119.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    9,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "developer-setup"
+   ],
+   "summary": "75% tri-mode mechanical keyboard with 8000 Hz polling, hot-swappable Keychron Apex switches and up to 760 hours of battery life.",
+   "description": "Keychron K2 Ultra 8K is a 75% wireless mechanical keyboard with 8000 Hz polling over both 2.4 GHz and USB-C, plus Bluetooth. It uses hot-swappable Keychron Apex switches (Red, Brown or Banana), OSA double-shot PBT keycaps and a CNC aluminium and ABS body, and its 4000 mAh battery is rated up to 760 hours at 8K with the backlight off.",
+   "keywords": "mechanical 75% wireless 8k polling hot swap bluetooth mac windows",
+   "specs": {
+    "connection": "2.4 GHz wireless, Bluetooth 5.2, USB-C wired",
+    "layout": "75%",
+    "switchType": "Keychron Apex (Red linear / Brown tactile / Banana tactile)",
+    "mechanical": true,
+    "hotSwappable": true,
+    "macSupport": true,
+    "pollingRateHz": 8000,
+    "backlight": "South-facing RGB",
+    "batteryHours": 760,
+    "keycaps": "OSA double-shot PBT",
+    "configurations": "Apex Red (linear) – $119.99 · Apex Brown (tactile) – $119.99 · Apex Banana (tactile) – $119.99",
+    "colors": "Black"
+   },
+   "options": [
+    {
+     "name": "Configuration",
+     "values": [
+      {
+       "label": "Apex Red (linear)",
+       "price": "119.99",
+       "default": true
+      },
+      {
+       "label": "Apex Brown (tactile)",
+       "price": "119.99"
+      },
+      {
+       "label": "Apex Banana (tactile)",
+       "price": "119.99"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "sku": "TK-KEYCHRON-K1-ULTRA-8K",
+   "slug": "keychron-k1-ultra-8k",
+   "name": "Keychron K1 Ultra 8K Wireless Custom Mechanical Keyboard",
+   "brand": "Keychron",
+   "category": "keyboards",
+   "price": "109.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    42,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "developer-setup"
+   ],
+   "summary": "Slim low-profile TKL wireless mechanical keyboard with 8000 Hz polling, hot-swappable Milk POM switches and up to 490 hours of battery.",
+   "description": "Keychron K1 Ultra 8K is a low-profile 80% (TKL) wireless mechanical keyboard with tri-mode connectivity and 8000 Hz polling on 2.4 GHz and wired. It uses hot-swappable Keychron Milk POM switches, LSA double-shot PBT keycaps and an aluminium-and-wood build weighing about 629 g, with a 2600 mAh battery rated up to 490 hours.",
+   "keywords": "low profile slim tkl wireless mechanical 8k mac windows",
+   "specs": {
+    "connection": "2.4 GHz wireless, Bluetooth 5.2, USB-C wired",
+    "layout": "TKL",
+    "switchType": "Keychron Milk POM low-profile (Red / Brown / Banana)",
+    "mechanical": true,
+    "hotSwappable": true,
+    "macSupport": true,
+    "pollingRateHz": 8000,
+    "backlight": "North-facing RGB",
+    "batteryHours": 490,
+    "keycaps": "LSA double-shot PBT",
+    "configurations": "Milk POM Red – $109.99 · Milk POM Brown – $109.99 · Milk POM Banana – $109.99",
+    "colors": "Black"
+   },
+   "options": [
+    {
+     "name": "Configuration",
+     "values": [
+      {
+       "label": "Milk POM Red",
+       "price": "109.99",
+       "default": true
+      },
+      {
+       "label": "Milk POM Brown",
+       "price": "109.99"
+      },
+      {
+       "label": "Milk POM Banana",
+       "price": "109.99"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "sku": "TK-KEYCHRON-K3-HE",
+   "slug": "keychron-k3-he",
+   "name": "Keychron K3 HE Wireless Magnetic Switch Custom Keyboard",
+   "brand": "Keychron",
+   "category": "keyboards",
+   "price": "119.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    34,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [],
+   "summary": "Ultra-slim 75% wireless keyboard with low-profile Hall-effect magnetic switches, Rapid Trigger and 0.2-2.9 mm adjustable actuation.",
+   "description": "Keychron K3 HE is an ultra-slim 75% QMK/VIA wireless keyboard built on Keychron Ultra-Fast Lime Low-Profile magnetic switches with Rapid Trigger and actuation adjustable from 0.2 to 2.9 mm. It pairs an aluminium-and-wood frame with LSA double-shot PBT keycaps, connects via 2.4 GHz, Bluetooth 5.2 or USB-C at 1000 Hz, and weighs 575 g.",
+   "keywords": "low profile hall effect magnetic rapid trigger 75% slim wireless",
+   "specs": {
+    "connection": "2.4 GHz wireless, Bluetooth 5.2, USB-C wired",
+    "layout": "75%",
+    "switchType": "Keychron Ultra-Fast Lime Low-Profile Magnetic (Hall effect)",
+    "mechanical": false,
+    "hotSwappable": true,
+    "macSupport": true,
+    "pollingRateHz": 1000,
+    "backlight": "North-facing RGB",
+    "batteryHours": 55,
+    "keycaps": "LSA double-shot PBT",
+    "colors": "Black, White"
+   },
+   "options": [
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Black",
+       "default": true,
+       "image": {
+        "small": "/images/catalog/keychron-k3-he--black-400.webp",
+        "large": "/images/catalog/keychron-k3-he--black-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Keychron K3 HE low-profile 75% magnetic switch keyboard in Black, top view"
+       }
+      },
+      {
+       "label": "White",
+       "image": {
+        "small": "/images/catalog/keychron-k3-he--white-400.webp",
+        "large": "/images/catalog/keychron-k3-he--white-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Keychron K3 HE low-profile 75% magnetic switch keyboard in White, top view"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "sku": "TK-KEYCHRON-Q6-ULTRA-8K",
+   "slug": "keychron-q6-ultra-8k",
+   "name": "Keychron Q6 Ultra 8K Wireless Custom Mechanical Keyboard",
+   "brand": "Keychron",
+   "category": "keyboards",
+   "price": "239.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    12,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "developer-favorites"
+   ],
+   "summary": "Full-size CNC aluminium wireless custom keyboard with a knob, 8000 Hz polling, gasket mount and up to 660 hours of battery.",
+   "description": "Keychron Q6 Ultra 8K is a 100% full-size, full-metal wireless custom mechanical keyboard with a knob, 8000 Hz polling and 256 kHz single-key scanning. It uses hot-swappable Keychron Silk POM switches, KSA double-shot PBT keycaps and a gasket-mounted CNC aluminium case with acoustic foam, and its 4000 mAh battery is rated up to 660 hours with the backlight off.",
+   "keywords": "full size 100% aluminum gasket wireless 8k knob numpad custom",
+   "specs": {
+    "connection": "2.4 GHz wireless, Bluetooth 5.3, USB-C wired",
+    "layout": "Full size",
+    "switchType": "Keychron Silk POM (Red / Brown / Banana)",
+    "mechanical": true,
+    "hotSwappable": true,
+    "macSupport": true,
+    "pollingRateHz": 8000,
+    "backlight": "South-facing RGB",
+    "batteryHours": 660,
+    "keycaps": "KSA double-shot PBT",
+    "configurations": "Silk POM Red – $239.99 · Silk POM Brown – $239.99 · Silk POM Banana – $239.99",
+    "colors": "Black, White"
+   },
+   "options": [
+    {
+     "name": "Configuration",
+     "values": [
+      {
+       "label": "Silk POM Red",
+       "price": "239.99",
+       "default": true
+      },
+      {
+       "label": "Silk POM Brown",
+       "price": "239.99"
+      },
+      {
+       "label": "Silk POM Banana",
+       "price": "239.99"
+      }
+     ]
+    },
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Black",
+       "default": true,
+       "image": {
+        "small": "/images/catalog/keychron-q6-ultra-8k--black-400.webp",
+        "large": "/images/catalog/keychron-q6-ultra-8k--black-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Keychron Q6 Ultra 8K full-size aluminium keyboard in Black, top view"
+       }
+      },
+      {
+       "label": "White",
+       "image": {
+        "small": "/images/catalog/keychron-q6-ultra-8k--white-400.webp",
+        "large": "/images/catalog/keychron-q6-ultra-8k--white-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Keychron Q6 Ultra 8K full-size aluminium keyboard in White, top view"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "sku": "TK-KEYCHRON-V1-ULTRA-8K",
+   "slug": "keychron-v1-ultra-8k",
+   "name": "Keychron V1 Ultra 8K Wireless Custom Mechanical Keyboard",
+   "brand": "Keychron",
+   "category": "keyboards",
+   "price": "114.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    14,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [],
+   "summary": "Affordable 75% gasket-mount wireless custom keyboard with a knob, 8000 Hz polling and up to 660 hours of battery.",
+   "description": "Keychron V1 Ultra 8K is a 75% wireless custom mechanical keyboard with a knob, 8000 Hz polling and 256 kHz single-key scanning. It has a gasket-mounted plastic case with a PC plate and acoustic foam, hot-swappable Keychron Silk POM switches and OSA double-shot PBT keycaps, supports QMK/VIA, and its 4000 mAh battery is rated up to 660 hours with the backlight off.",
+   "keywords": "mechanical 75% wireless 8k knob qmk via gasket budget",
+   "specs": {
+    "connection": "2.4 GHz wireless, Bluetooth 5.3, USB-C wired",
+    "layout": "75%",
+    "switchType": "Keychron Silk POM (Red / Brown / Banana)",
+    "mechanical": true,
+    "hotSwappable": true,
+    "macSupport": true,
+    "pollingRateHz": 8000,
+    "backlight": "South-facing RGB",
+    "batteryHours": 660,
+    "keycaps": "OSA double-shot PBT",
+    "configurations": "Silk POM Red – $114.99 · Silk POM Brown – $114.99 · Silk POM Banana – $114.99",
+    "colors": "Black"
+   },
+   "options": [
+    {
+     "name": "Configuration",
+     "values": [
+      {
+       "label": "Silk POM Red",
+       "price": "114.99",
+       "default": true
+      },
+      {
+       "label": "Silk POM Brown",
+       "price": "114.99"
+      },
+      {
+       "label": "Silk POM Banana",
+       "price": "114.99"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "sku": "TK-KEYCHRON-Q3-HE-8K",
+   "slug": "keychron-q3-he-8k",
+   "name": "Keychron Q3 HE 8K Magnetic Switch Keyboard",
+   "brand": "Keychron",
+   "category": "keyboards",
+   "price": "229.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    30,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "ultimate-gaming-setup"
+   ],
+   "summary": "Wired TKL aluminium Hall-effect gaming keyboard with a knob, 8000 Hz polling, Rapid Trigger and 0.1-3.35 mm adjustable actuation.",
+   "description": "Keychron Q3 HE 8K is an 80% (TKL) wired magnetic-switch custom gaming keyboard with a knob, 8000 Hz polling and 256 kHz single-key scanning. Its hot-swappable Keychron Ultra-fast Lime magnetic switches support Rapid Trigger with 0.01 mm sensitivity and actuation adjustable from 0.1 to 3.35 mm, in a 1.84 kg aluminium body with OSA double-shot PBT keycaps.",
+   "keywords": "hall effect magnetic rapid trigger tkl 80% aluminum 8k wired gaming knob",
+   "specs": {
+    "connection": "USB-C wired",
+    "layout": "TKL",
+    "switchType": "Keychron Ultra-fast Lime Magnetic (Hall effect)",
+    "mechanical": false,
+    "hotSwappable": true,
+    "macSupport": true,
+    "pollingRateHz": 8000,
+    "backlight": "South-facing RGB",
+    "keycaps": "OSA double-shot PBT",
+    "colors": "Black, White"
+   },
+   "options": [
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Black",
+       "default": true,
+       "image": {
+        "small": "/images/catalog/keychron-q3-he-8k--black-400.webp",
+        "large": "/images/catalog/keychron-q3-he-8k--black-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Keychron Q3 HE 8K TKL magnetic switch keyboard in Black with knob, top view"
+       }
+      },
+      {
+       "label": "White",
+       "image": {
+        "small": "/images/catalog/keychron-q3-he-8k--white-400.webp",
+        "large": "/images/catalog/keychron-q3-he-8k--white-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Keychron Q3 HE 8K TKL magnetic switch keyboard in White with knob, top view"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "sku": "TK-KEYCHRON-Q11-ULTRA-8K",
+   "slug": "keychron-q11-ultra-8k",
+   "name": "Keychron Q11 Ultra 8K Wireless Custom Mechanical Keyboard",
+   "brand": "Keychron",
+   "category": "keyboards",
+   "price": "239.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    56,
+    5
+   ],
+   "featured": true,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "developer-favorites"
+   ],
+   "summary": "All-aluminium 75% split ergonomic keyboard whose halves sync over 2.4 GHz with no middle cable, with 8000 Hz polling.",
+   "description": "Keychron Q11 Ultra 8K is a flagship 75% split keyboard whose two halves sync wirelessly over 2.4 GHz with no connecting cable, so they can be snapped together or spread apart. It has a gasket-mounted CNC aluminium body, hot-swappable Keychron Silk POM switches, KSA double-shot PBT keycaps, 8000 Hz polling and a 4000 mAh battery rated up to 160 hours at 8K with the backlight off.",
+   "keywords": "split ergonomic 75% aluminum wireless 8k knob",
+   "specs": {
+    "connection": "2.4 GHz wireless, Bluetooth 5.3, USB-C wired",
+    "layout": "75%",
+    "switchType": "Keychron Silk POM (Red / Brown / Banana)",
+    "mechanical": true,
+    "hotSwappable": true,
+    "macSupport": true,
+    "pollingRateHz": 8000,
+    "backlight": "South-facing RGB",
+    "batteryHours": 160,
+    "keycaps": "KSA double-shot PBT",
+    "configurations": "Silk POM Red – $239.99 · Silk POM Brown – $239.99 · Silk POM Banana – $239.99",
+    "colors": "Black, White"
+   },
+   "options": [
+    {
+     "name": "Configuration",
+     "values": [
+      {
+       "label": "Silk POM Red",
+       "price": "239.99",
+       "default": true
+      },
+      {
+       "label": "Silk POM Brown",
+       "price": "239.99"
+      },
+      {
+       "label": "Silk POM Banana",
+       "price": "239.99"
+      }
+     ]
+    },
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Black",
+       "default": true,
+       "image": {
+        "small": "/images/catalog/keychron-q11-ultra-8k--black-400.webp",
+        "large": "/images/catalog/keychron-q11-ultra-8k--black-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Keychron Q11 Ultra 8K split aluminium keyboard in Black, top view"
+       }
+      },
+      {
+       "label": "White"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "sku": "TK-LOFREE-FLOW2-68",
+   "slug": "lofree-flow-2-68",
+   "name": "Lofree Flow 2 68 Low-profile Mechanical Keyboard",
+   "brand": "Lofree",
+   "category": "keyboards",
+   "price": "139.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    44,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [],
+   "summary": "CNC-machined aluminium low-profile 65% (68 keys) wireless mechanical keyboard with hot-swappable Kailh Cloud Series switches, a touch bar and up to 90 hours of battery.",
+   "description": "Lofree Flow 2 68 is a 68-key low-profile mechanical keyboard machined from a single block of aluminium, with a gasket mount, a touch-sensitive bar for volume and brightness, and a flip-out kickstand. It uses hot-swappable Lofree x Kailh Cloud Series switches (Pulse tactile, Surfer linear or Void silent linear), PBT+PC double-shot shine-through keycaps and white backlighting, and connects over 2.4 GHz, Bluetooth 5.3 or USB-C with 1000 Hz polling. Its 2,000 mAh battery lasts up to 90 hours with lights off; it weighs 635 g.",
+   "keywords": "low profile slim aluminum wireless mac touch bar via",
+   "specs": {
+    "connection": "2.4 GHz wireless, Bluetooth 5.3, USB-C wired",
+    "layout": "65%",
+    "switchType": "Lofree x Kailh Cloud Series low-profile (Pulse tactile / Surfer linear / Void silent linear)",
+    "mechanical": true,
+    "hotSwappable": true,
+    "macSupport": true,
+    "pollingRateHz": 1000,
+    "backlight": "White",
+    "batteryHours": 90,
+    "keycaps": "PBT + PC double-shot, shine-through",
+    "configurations": "Space Gray - Pulse (tactile) – $139 · Silver - Surfer (linear) – $139 · Silver - Void (silent linear) – $149",
+    "colors": "Space Gray, Silver"
+   },
+   "options": [
+    {
+     "name": "Configuration",
+     "values": [
+      {
+       "label": "Space Gray - Pulse (tactile)",
+       "price": "139.00",
+       "default": true
+      },
+      {
+       "label": "Silver - Surfer (linear)",
+       "price": "139.00"
+      },
+      {
+       "label": "Silver - Void (silent linear)",
+       "price": "149.00"
+      }
+     ]
+    },
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Space Gray",
+       "default": true,
+       "image": {
+        "small": "/images/catalog/lofree-flow-2-68--space-gray-400.webp",
+        "large": "/images/catalog/lofree-flow-2-68--space-gray-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Lofree Flow 2 68 low-profile aluminium keyboard in Space Gray"
+       }
+      },
+      {
+       "label": "Silver",
+       "image": {
+        "small": "/images/catalog/lofree-flow-2-68--silver-400.webp",
+        "large": "/images/catalog/lofree-flow-2-68--silver-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Lofree Flow 2 68 low-profile aluminium keyboard in Silver"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "sku": "TK-LOFREE-FLOW2-84",
+   "slug": "lofree-flow-2-84",
+   "name": "Lofree Flow 2 84 Low-profile Mechanical Keyboard",
+   "brand": "Lofree",
+   "category": "keyboards",
+   "price": "159.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    45,
+    5
+   ],
+   "featured": true,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "developer-setup"
+   ],
+   "summary": "CNC-machined aluminium low-profile 75% (84 keys) wireless mechanical keyboard with hot-swappable Kailh Cloud Series switches, a touch bar and up to 120 hours of battery.",
+   "description": "Lofree Flow 2 84 is a 84-key low-profile mechanical keyboard machined from a single block of aluminium, with a gasket mount, a touch-sensitive bar for volume and brightness, and a flip-out kickstand. It uses hot-swappable Lofree x Kailh Cloud Series switches (Pulse tactile, Surfer linear or Void silent linear), PBT+PC double-shot shine-through keycaps and white backlighting, and connects over 2.4 GHz, Bluetooth 5.3 or USB-C with 1000 Hz polling. Its 3,000 mAh battery lasts up to 120 hours with lights off; it weighs 745 g.",
+   "keywords": "low profile slim aluminum wireless mac touch bar via",
+   "specs": {
+    "connection": "2.4 GHz wireless, Bluetooth 5.3, USB-C wired",
+    "layout": "75%",
+    "switchType": "Lofree x Kailh Cloud Series low-profile (Pulse tactile / Surfer linear / Void silent linear)",
+    "mechanical": true,
+    "hotSwappable": true,
+    "macSupport": true,
+    "pollingRateHz": 1000,
+    "backlight": "White",
+    "batteryHours": 120,
+    "keycaps": "PBT + PC double-shot, shine-through",
+    "configurations": "Space Gray - Pulse (tactile) – $159 · Silver - Surfer (linear) – $159 · Silver - Void (silent linear) – $169",
+    "colors": "Space Gray, Silver"
+   },
+   "options": [
+    {
+     "name": "Configuration",
+     "values": [
+      {
+       "label": "Space Gray - Pulse (tactile)",
+       "price": "159.00",
+       "default": true
+      },
+      {
+       "label": "Silver - Surfer (linear)",
+       "price": "159.00"
+      },
+      {
+       "label": "Silver - Void (silent linear)",
+       "price": "169.00"
+      }
+     ]
+    },
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Space Gray",
+       "default": true,
+       "image": {
+        "small": "/images/catalog/lofree-flow-2-84--space-gray-400.webp",
+        "large": "/images/catalog/lofree-flow-2-84--space-gray-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Lofree Flow 2 84 low-profile aluminium keyboard in Space Gray"
+       }
+      },
+      {
+       "label": "Silver",
+       "image": {
+        "small": "/images/catalog/lofree-flow-2-84--silver-400.webp",
+        "large": "/images/catalog/lofree-flow-2-84--silver-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Lofree Flow 2 84 low-profile aluminium keyboard in Silver"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "sku": "TK-LOFREE-FLOW2-100",
+   "slug": "lofree-flow-2-100",
+   "name": "Lofree Flow 2 100 Low-profile Mechanical Keyboard",
+   "brand": "Lofree",
+   "category": "keyboards",
+   "price": "169.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    46,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [],
+   "summary": "CNC-machined aluminium low-profile 96% (100 keys) wireless mechanical keyboard with hot-swappable Kailh Cloud Series switches, a touch bar and up to 120 hours of battery.",
+   "description": "Lofree Flow 2 100 is a 100-key low-profile mechanical keyboard machined from a single block of aluminium, with a gasket mount, a touch-sensitive bar for volume and brightness, and a flip-out kickstand. It uses hot-swappable Lofree x Kailh Cloud Series switches (Pulse tactile, Surfer linear or Void silent linear), PBT+PC double-shot shine-through keycaps and white backlighting, and connects over 2.4 GHz, Bluetooth 5.3 or USB-C with 1000 Hz polling. Its 3,000 mAh battery lasts up to 120 hours with lights off; it weighs 870 g.",
+   "keywords": "low profile slim aluminum wireless mac touch bar via",
+   "specs": {
+    "connection": "2.4 GHz wireless, Bluetooth 5.3, USB-C wired",
+    "layout": "96%",
+    "switchType": "Lofree x Kailh Cloud Series low-profile (Pulse tactile / Surfer linear / Void silent linear)",
+    "mechanical": true,
+    "hotSwappable": true,
+    "macSupport": true,
+    "pollingRateHz": 1000,
+    "backlight": "White",
+    "batteryHours": 120,
+    "keycaps": "PBT + PC double-shot, shine-through",
+    "configurations": "Space Gray - Pulse (tactile) – $169 · Silver - Surfer (linear) – $169 · Silver - Void (silent linear) – $179",
+    "colors": "Space Gray, Silver"
+   },
+   "options": [
+    {
+     "name": "Configuration",
+     "values": [
+      {
+       "label": "Space Gray - Pulse (tactile)",
+       "price": "169.00",
+       "default": true
+      },
+      {
+       "label": "Silver - Surfer (linear)",
+       "price": "169.00"
+      },
+      {
+       "label": "Silver - Void (silent linear)",
+       "price": "179.00"
+      }
+     ]
+    },
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Space Gray",
+       "default": true,
+       "image": {
+        "small": "/images/catalog/lofree-flow-2-100--space-gray-400.webp",
+        "large": "/images/catalog/lofree-flow-2-100--space-gray-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Lofree Flow 2 100 low-profile aluminium keyboard in Space Gray"
+       }
+      },
+      {
+       "label": "Silver",
+       "image": {
+        "small": "/images/catalog/lofree-flow-2-100--silver-400.webp",
+        "large": "/images/catalog/lofree-flow-2-100--silver-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Lofree Flow 2 100 low-profile aluminium keyboard in Silver"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "sku": "TK-GLORIOUS-GMMK3-HE-PB",
+   "slug": "glorious-gmmk-3-he-prebuilt",
+   "name": "Glorious GMMK 3 HE Prebuilt Keyboard",
+   "brand": "Glorious",
+   "category": "keyboards",
+   "price": "219.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    10,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "ultimate-gaming-setup",
+    "gaming-monsters"
+   ],
+   "summary": "Modular wired Hall-effect gaming keyboard in 65%, 75% or 100% sizes with Fox HE magnetic switches, Rapid Trigger and 8,000 Hz polling.",
+   "description": "The GMMK 3 HE Prebuilt is a modular wired gaming keyboard with Glorious Fox HE linear magnetic switches, Rapid Trigger and customizable actuation, and an 8,000 Hz polling rate. Its dual HE/MX hot-swap sockets accept both Glorious HE and 5-pin mechanical switches, it uses a modular gasket system with doubleshot PBT keycaps, and it is configured in Glorious CORE software.",
+   "keywords": "hall effect magnetic rapid trigger 8k gaming modular 65% 75% 100%",
+   "specs": {
+    "connection": "USB-C wired",
+    "layout": "75%",
+    "switchType": "Glorious Fox HE linear magnetic (Hall effect)",
+    "mechanical": false,
+    "hotSwappable": true,
+    "macSupport": false,
+    "pollingRateHz": 8000,
+    "backlight": "Per-key RGB + side lights",
+    "keycaps": "Doubleshot PBT",
+    "configurations": "65% – $219.99 · 75% – $224.99 · 100% – $239.99",
+    "colors": "Black, White"
+   },
+   "options": [
+    {
+     "name": "Configuration",
+     "values": [
+      {
+       "label": "65%",
+       "price": "219.99",
+       "default": true
+      },
+      {
+       "label": "75%",
+       "price": "224.99"
+      },
+      {
+       "label": "100%",
+       "price": "239.99"
+      }
+     ]
+    },
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Black",
+       "default": true,
+       "image": {
+        "small": "/images/catalog/glorious-gmmk-3-he-prebuilt--black-400.webp",
+        "large": "/images/catalog/glorious-gmmk-3-he-prebuilt--black-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Glorious GMMK 3 HE 65% prebuilt keyboard in Black, top view"
+       }
+      },
+      {
+       "label": "White",
+       "image": {
+        "small": "/images/catalog/glorious-gmmk-3-he-prebuilt--white-400.webp",
+        "large": "/images/catalog/glorious-gmmk-3-he-prebuilt--white-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Glorious GMMK 3 HE 65% prebuilt keyboard in White, top view"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "sku": "TK-GLORIOUS-GMMK3-PB",
+   "slug": "glorious-gmmk-3-prebuilt",
+   "name": "Glorious GMMK 3 Prebuilt Keyboard",
+   "brand": "Glorious",
+   "category": "keyboards",
+   "price": "139.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    45,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [],
+   "summary": "Modular wired mechanical gaming keyboard with hot-swappable Glorious Fox linear switches, gasket mount, knob and doubleshot PBT keycaps.",
+   "description": "The GMMK 3 Prebuilt is a modular wired mechanical keyboard with hot-swap sockets for Glorious MX-style switches, shipped with Fox linear switches, a gasket mount, a knob and doubleshot PBT keycaps. It offers three lighting zones (per-key, side lights and badge), 1,000 Hz polling, three onboard profiles, and Windows, macOS and Linux support.",
+   "keywords": "mechanical modular gasket hot swap 65% 75% 100% gaming knob",
+   "specs": {
+    "connection": "USB-C wired",
+    "layout": "75%",
+    "switchType": "Glorious Fox linear mechanical",
+    "mechanical": true,
+    "hotSwappable": true,
+    "macSupport": true,
+    "pollingRateHz": 1000,
+    "backlight": "Per-key RGB + side lights",
+    "keycaps": "Doubleshot PBT",
+    "configurations": "65% – $139.99 · 75% – $154.99 · 100% – $164.99",
+    "colors": "Black, White"
+   },
+   "options": [
+    {
+     "name": "Configuration",
+     "values": [
+      {
+       "label": "65%",
+       "price": "139.99",
+       "default": true
+      },
+      {
+       "label": "75%",
+       "price": "154.99"
+      },
+      {
+       "label": "100%",
+       "price": "164.99"
+      }
+     ]
+    },
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Black",
+       "default": true,
+       "image": {
+        "small": "/images/catalog/glorious-gmmk-3-prebuilt--black-400.webp",
+        "large": "/images/catalog/glorious-gmmk-3-prebuilt--black-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Glorious GMMK 3 65% prebuilt mechanical keyboard in Black, top view"
+       }
+      },
+      {
+       "label": "White",
+       "image": {
+        "small": "/images/catalog/glorious-gmmk-3-prebuilt--white-400.webp",
+        "large": "/images/catalog/glorious-gmmk-3-prebuilt--white-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Glorious GMMK 3 65% prebuilt mechanical keyboard in White, top view"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "sku": "TK-GLORIOUS-GMMK-ETERNAL-96",
+   "slug": "glorious-gmmk-eternal-96",
+   "name": "Glorious GMMK Eternal 96% Keyboard",
+   "brand": "Glorious",
+   "category": "keyboards",
+   "price": "99.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    54,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [],
+   "summary": "Budget wired 96% mechanical keyboard with hot-swap Glorious Fox switches, triple-layer sound dampening and an aluminium top plate.",
+   "description": "GMMK Eternal is a 96% wired mechanical keyboard that keeps a number pad in a compact footprint. It has hot-swappable Glorious Fox switches, triple-layer sound dampening (a molded silicone layer and two PU foam layers), pre-lubed Cherry-style stabilizers, per-key RGB, ABS double-shot keycaps, an aluminium top plate and a 1,000 Hz polling rate.",
+   "keywords": "96% compact numpad hot swap budget mechanical",
+   "specs": {
+    "connection": "USB wired",
+    "layout": "96%",
+    "switchType": "Glorious Fox mechanical",
+    "mechanical": true,
+    "hotSwappable": true,
+    "macSupport": true,
+    "pollingRateHz": 1000,
+    "backlight": "Per-key RGB",
+    "keycaps": "ABS double-shot",
+    "colors": "Black"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-HYPERX-ORIGINS2-PRO-65",
+   "slug": "hyperx-origins-2-pro-65",
+   "name": "HyperX Origins 2 Pro 65 Magnetic Gaming Keyboard",
+   "brand": "HyperX",
+   "category": "keyboards",
+   "price": "149.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    22,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "ultimate-gaming-setup"
+   ],
+   "summary": "Wired 65% magnetic-switch gaming keyboard with Rapid Trigger, adjustable actuation, swappable housing and polling up to 8,000 Hz.",
+   "description": "HyperX Origins 2 Pro 65 is a 65% wired gaming keyboard with linear magnetic switches, Rapid Trigger and adjustable actuation points set in HyperX NGENUITY. It has an O-ring mount, hot-swap switches, an easily swappable outer housing, adjustable polling up to 8,000 Hz and per-key RGB lighting.",
+   "keywords": "magnetic hall effect rapid trigger 65% gaming 8k swappable housing",
+   "specs": {
+    "connection": "USB-C wired (USB-C to USB-A cable)",
+    "layout": "65%",
+    "switchType": "HyperX linear magnetic",
+    "mechanical": false,
+    "hotSwappable": true,
+    "pollingRateHz": 8000,
+    "backlight": "Per-key RGB",
+    "colors": "Black"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-HYPERX-ORIGINS2-65",
+   "slug": "hyperx-origins-2-65",
+   "name": "HyperX Origins 2 65 Mechanical Gaming Keyboard",
+   "brand": "HyperX",
+   "category": "keyboards",
+   "price": "119.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    46,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [],
+   "summary": "Compact 65% wired mechanical gaming keyboard with hot-swap HyperX Red linear switches, swappable housing and polling up to 8,000 Hz.",
+   "description": "HyperX Origins 2 65 is a customizable 65% wired gaming keyboard with an easy-swap housing and hot-swap 5-pin sockets. It ships with HyperX Red linear switches (1.8 mm actuation, POM half-wall stems) on a silicone O-ring mount with a polycarbonate plate, supports up to 8,000 Hz polling, and is customized with HyperX NGENUITY.",
+   "keywords": "mechanical 65% hot swap gaming 8k compact",
+   "specs": {
+    "connection": "USB-C wired (USB-C to USB-A cable)",
+    "layout": "65%",
+    "switchType": "HyperX Red linear",
+    "mechanical": true,
+    "hotSwappable": true,
+    "pollingRateHz": 8000,
+    "backlight": "Per-key RGB",
+    "colors": "Black"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-HYPERX-ORIGINS2-1800",
+   "slug": "hyperx-origins-2-1800",
+   "name": "HyperX Origins 2 1800 Mechanical Gaming Keyboard",
+   "brand": "HyperX",
+   "category": "keyboards",
+   "price": "139.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    50,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [],
+   "summary": "1800-style condensed full-function wired gaming keyboard with hot-swap HyperX Red linear switches and polling up to 8,000 Hz.",
+   "description": "HyperX Origins 2 1800 packs nearly full-size functionality, including a number pad, into a condensed 1800-style layout. It has an easy-access interchangeable housing, hot-swap 5-pin sockets with HyperX Red linear switches, a silicone O-ring mount and polycarbonate plate, flip-down feet, up to 8,000 Hz polling and HyperX NGENUITY customization.",
+   "keywords": "1800 compact full size numpad mechanical hot swap gaming 8k",
+   "specs": {
+    "connection": "USB-C wired (USB-C to USB-A cable)",
+    "layout": "96%",
+    "switchType": "HyperX Red linear",
+    "mechanical": true,
+    "hotSwappable": true,
+    "pollingRateHz": 8000,
+    "backlight": "Per-key RGB",
+    "colors": "Black"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-HYPERX-ALLOY-RISE-75",
+   "slug": "hyperx-alloy-rise-75",
+   "name": "HyperX Alloy Rise 75 Mechanical Gaming Keyboard",
+   "brand": "HyperX",
+   "category": "keyboards",
+   "price": "169.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    27,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [],
+   "summary": "Gasket-mounted 75% wired gaming keyboard with hot-swap pre-lubed HyperX Linear switches, PBT keycaps, magnetic top plates and 8K polling.",
+   "description": "The HyperX Alloy Rise 75 is a gasket-mounted 75% wired gaming keyboard with hot-swappable, factory-lubed HyperX Linear switches (1.8 mm actuation), pre-installed HyperX PBT keycaps and swappable magnetic top plates and badges. It adds an ambient light sensor that auto-adjusts RGB brightness, 10 onboard profiles, a volume control and an 8,000 Hz polling rate.",
+   "keywords": "75% gasket hot swap gaming 8k pbt customizable",
+   "specs": {
+    "connection": "USB-C wired (detachable USB-C to USB-A cable)",
+    "layout": "75%",
+    "switchType": "HyperX Linear (Red)",
+    "mechanical": true,
+    "hotSwappable": true,
+    "pollingRateHz": 8000,
+    "backlight": "Per-key RGB with ambient light sensor",
+    "keycaps": "HyperX PBT",
+    "colors": "Black"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-MELGEEK-CENTAURI80",
+   "slug": "melgeek-centauri80",
+   "name": "MelGeek Centauri80 Hall Effect Gaming Keyboard",
+   "brand": "MelGeek",
+   "category": "keyboards",
+   "price": "399.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    27,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "gaming-monsters"
+   ],
+   "summary": "Aluminium 75% Hall-effect gaming keyboard with an OLED touchscreen, 8000 Hz polling, 0.01 mm Rapid Trigger and 0.1-3.4 mm actuation.",
+   "description": "The MelGeek Centauri80 is an 82-key 75% wired Hall-effect gaming keyboard with an aluminium-alloy, gasket-mounted case and a built-in OLED touchscreen. Its linear magnetic switches are hot-swappable and support Rapid Trigger at 0.01 mm precision, 0.1-3.4 mm adjustable actuation and Snap Tap, with 8000 Hz polling and 0.125 ms latency; it works with Windows, macOS and Linux via HIVE software.",
+   "keywords": "hall effect magnetic rapid trigger oled 75% aluminum 8k snap tap",
+   "specs": {
+    "connection": "USB-C wired",
+    "layout": "75%",
+    "switchType": "Hall-effect magnetic linear",
+    "mechanical": false,
+    "hotSwappable": true,
+    "macSupport": true,
+    "pollingRateHz": 8000,
+    "configurations": "Centauri80 – $399 · Centauri80 + Horus mouse – $518",
+    "colors": "Gray"
+   },
+   "options": [
+    {
+     "name": "Configuration",
+     "values": [
+      {
+       "label": "Centauri80",
+       "price": "399.00",
+       "default": true
+      },
+      {
+       "label": "Centauri80 + Horus mouse",
+       "price": "518.00"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "sku": "TK-MELGEEK-MADE84-ULTRA-PLUS",
+   "slug": "melgeek-made84-ultra-plus",
+   "name": "MelGeek MADE84 Ultra+ Hall Effect Gaming Keyboard",
+   "brand": "MelGeek",
+   "category": "keyboards",
+   "price": "219.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    33,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [],
+   "summary": "Wired 84-key aluminium Hall-effect gaming keyboard with TTC magnetic switches, 8,000 Hz polling and 0.01 mm Rapid Trigger.",
+   "description": "MelGeek MADE84 Ultra+ is an 84-key ANSI wired gaming keyboard with a gasket-mounted aluminium-alloy case and TTC magnetic switches with adjustable actuation and 0.01 mm Rapid Trigger. It reports at 8,000 Hz with up to 16,000 Hz single-key scanning, uses four layers of acoustic dampening, and supports Windows, macOS, ChromeOS, Linux and iPadOS.",
+   "keywords": "hall effect magnetic rapid trigger 75% 84 keys aluminum 8k",
+   "specs": {
+    "connection": "USB-C wired",
+    "layout": "75%",
+    "switchType": "TTC magnetic (Hall effect)",
+    "mechanical": false,
+    "hotSwappable": false,
+    "macSupport": true,
+    "pollingRateHz": 8000,
+    "backlight": "RGB",
+    "keycaps": "PC transparent / PBT double-shot",
+    "colors": "Black, Red, Jelly Pink"
+   },
+   "options": [
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Black",
+       "default": true,
+       "image": {
+        "small": "/images/catalog/melgeek-made84-ultra-plus--black-400.webp",
+        "large": "/images/catalog/melgeek-made84-ultra-plus--black-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "MelGeek MADE84 Ultra+ Hall effect keyboard in Black"
+       }
+      },
+      {
+       "label": "Red",
+       "image": {
+        "small": "/images/catalog/melgeek-made84-ultra-plus--red-400.webp",
+        "large": "/images/catalog/melgeek-made84-ultra-plus--red-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "MelGeek MADE84 Ultra+ Hall effect keyboard in Red"
+       }
+      },
+      {
+       "label": "Jelly Pink",
+       "image": {
+        "small": "/images/catalog/melgeek-made84-ultra-plus--jelly-pink-400.webp",
+        "large": "/images/catalog/melgeek-made84-ultra-plus--jelly-pink-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "MelGeek MADE84 Ultra+ Hall effect keyboard in Jelly Pink"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "sku": "TK-VARMILO-MINILO75-PRO",
+   "slug": "varmilo-minilo75-pro",
+   "name": "Varmilo Minilo75 Pro Wireless Mechanical Keyboard",
+   "brand": "Varmilo",
+   "category": "keyboards",
+   "price": "145.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    23,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [],
+   "summary": "Tri-mode 75% mechanical keyboard with QMK/VIA, Cherry or Kailh Prestige switches, PBT keycaps and a 4000 mAh battery.",
+   "description": "Varmilo Minilo75 Pro is an 81-key 75% wireless mechanical keyboard with 2.4 GHz, Bluetooth 5.0 and USB-C wired modes, QMK/VIA support and a 4000 mAh battery rated for over 20 days with lights off. It has a soft-texture plastic case with a 4 mm metal inlay frame, Cherry-profile PBT keycaps, and Cherry MX or Kailh Prestige switch options.",
+   "keywords": "75% wireless bluetooth qmk via mechanical mac",
+   "specs": {
+    "connection": "2.4 GHz wireless, Bluetooth 5.0, USB-C wired",
+    "layout": "75%",
+    "switchType": "Cherry MX Brown / Red / Silent Red or Kailh Prestige",
+    "mechanical": true,
+    "macSupport": true,
+    "keycaps": "PBT, Cherry profile",
+    "configurations": "Cherry Brown – $145 · Cherry Red – $145 · Cherry Silent Red – $150 · Kailh Prestige Voice – $125",
+    "colors": "Bluebell, Eucalyptus, Retro"
+   },
+   "options": [
+    {
+     "name": "Configuration",
+     "values": [
+      {
+       "label": "Cherry Brown",
+       "price": "145.00",
+       "default": true
+      },
+      {
+       "label": "Cherry Red",
+       "price": "145.00"
+      },
+      {
+       "label": "Cherry Silent Red",
+       "price": "150.00"
+      },
+      {
+       "label": "Kailh Prestige Voice",
+       "price": "125.00"
+      }
+     ]
+    },
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Bluebell",
+       "default": true,
+       "image": {
+        "small": "/images/catalog/varmilo-minilo75-pro--bluebell-400.webp",
+        "large": "/images/catalog/varmilo-minilo75-pro--bluebell-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Varmilo Minilo75 Pro keyboard in Bluebell theme, top view (ISO-Swedish layout shown)"
+       }
+      },
+      {
+       "label": "Eucalyptus",
+       "image": {
+        "small": "/images/catalog/varmilo-minilo75-pro--eucalyptus-400.webp",
+        "large": "/images/catalog/varmilo-minilo75-pro--eucalyptus-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Varmilo Minilo75 Pro keyboard in Eucalyptus theme, top view (ISO-Swedish layout shown)"
+       }
+      },
+      {
+       "label": "Retro",
+       "image": {
+        "small": "/images/catalog/varmilo-minilo75-pro--retro-400.webp",
+        "large": "/images/catalog/varmilo-minilo75-pro--retro-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Varmilo Minilo75 Pro keyboard in Retro theme, top view (ISO-Swedish layout shown)"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "sku": "TK-KINESIS-ADV360-PRO",
+   "slug": "kinesis-advantage360-professional",
+   "name": "Kinesis Advantage360 Professional Split Ergonomic Keyboard",
+   "brand": "Kinesis",
+   "category": "keyboards",
+   "price": "499.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    32,
+    5
+   ],
+   "featured": true,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "developer-favorites"
+   ],
+   "summary": "Fully split contoured ergonomic keyboard with wireless linking, Bluetooth for 4 devices, ZMK firmware and adjustable tenting.",
+   "description": "Kinesis Advantage360 Professional is a fully split, contoured keyboard whose modules can be split, splayed and tented for optimal posture. The Professional model links its halves wirelessly, connects via Bluetooth (4 devices) or USB-C, runs the open-source ZMK engine with Clique real-time programming, and offers Gateron Brown tactile or Kailh Quiet Pink linear switches, white backlighting and ABS shine-through keycaps.",
+   "keywords": "split ergonomic contoured tenting zmk bluetooth wireless",
+   "specs": {
+    "connection": "Bluetooth (4 devices), USB-C wired",
+    "layout": "Split contoured with thumb clusters",
+    "switchType": "Gateron Brown tactile or Kailh Quiet Pink linear",
+    "mechanical": true,
+    "macSupport": true,
+    "backlight": "White",
+    "keycaps": "ABS shine-through",
+    "configurations": "Gateron Brown (tactile) – $499 · Kailh Quiet Pink (linear) – $499"
+   },
+   "options": [
+    {
+     "name": "Configuration",
+     "values": [
+      {
+       "label": "Gateron Brown (tactile)",
+       "price": "499.00",
+       "default": true
+      },
+      {
+       "label": "Kailh Quiet Pink (linear)",
+       "price": "499.00"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "sku": "TK-KINESIS-FREESTYLE-EDGE-RGBP",
+   "slug": "kinesis-freestyle-edge-rgb-plus",
+   "name": "Kinesis Freestyle Edge RGB+ Split Mechanical Keyboard",
+   "brand": "Kinesis",
+   "category": "keyboards",
+   "price": "199.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    44,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [],
+   "summary": "Split mechanical gaming/ergonomic keyboard with hot-swap Gateron Pro switches, programmable RGB and included lift kit and palm supports.",
+   "description": "Freestyle Edge RGB+ is a split mechanical keyboard designed for comfort, performance and adjustability on Windows and Mac. It offers hot-swappable Gateron Pro linear or tactile switches, fully programmable layouts and RGB lighting through the SmartSet engine, and now includes a lift kit, palm supports and Mac keycaps.",
+   "keywords": "split ergonomic mechanical rgb hot swap gaming smartset",
+   "specs": {
+    "connection": "USB wired",
+    "layout": "Split",
+    "switchType": "Gateron Pro linear or tactile",
+    "mechanical": true,
+    "hotSwappable": true,
+    "macSupport": true,
+    "backlight": "RGB",
+    "configurations": "Linear – $199 · Tactile – $199"
+   },
+   "options": [
+    {
+     "name": "Configuration",
+     "values": [
+      {
+       "label": "Linear",
+       "price": "199.00",
+       "default": true
+      },
+      {
+       "label": "Tactile",
+       "price": "199.00"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "sku": "TK-KINESIS-FORM",
+   "slug": "kinesis-form-split-touchpad",
+   "name": "Kinesis Form Split Touchpad Keyboard",
+   "brand": "Kinesis",
+   "category": "keyboards",
+   "price": "199.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    42,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [],
+   "summary": "Split laptop-layout keyboard with an integrated Windows Precision Touchpad, low-profile mechanical switches and a machined-aluminium case.",
+   "description": "Kinesis Form is an entry-level ergonomic keyboard with a split laptop layout, an integrated Windows Precision Touchpad, low-profile mechanical switches, a premium machined-aluminium case, white backlighting and dual Bluetooth/USB connectivity. It is fully programmable with Clique.",
+   "keywords": "split ergonomic touchpad low profile bluetooth aluminum",
+   "specs": {
+    "connection": "Bluetooth, USB wired",
+    "layout": "Split laptop layout with touchpad",
+    "switchType": "Low-profile mechanical",
+    "mechanical": true,
+    "backlight": "White"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-KINESIS-MWAVE-MAC",
+   "slug": "kinesis-mwave-mac",
+   "name": "Kinesis mWave for Mac Mechanical Keyboard",
+   "brand": "Kinesis",
+   "category": "keyboards",
+   "price": "119.95",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    46,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [],
+   "summary": "Sculpted ergonomic mechanical keyboard for Mac with an integrated keypad, backlighting, and wired or wireless connectivity.",
+   "description": "Kinesis mWave for Mac reimagines the classic sculpted ergonomic design with mechanical switches (Quiet Linear or Tactile), backlighting, easy programmability and an integrated keypad. It offers a choice of wired or wireless connectivity and macOS modifiers and hotkeys; a PC version is also sold.",
+   "keywords": "ergonomic sculpted mac mechanical wireless quiet",
+   "specs": {
+    "connection": "Wired or wireless",
+    "layout": "Full size",
+    "switchType": "Quiet Linear or Tactile mechanical",
+    "mechanical": true,
+    "macSupport": true,
+    "backlight": "Backlit",
+    "configurations": "Quiet Linear – $119.95 · Tactile – $119.95"
+   },
+   "options": [
+    {
+     "name": "Configuration",
+     "values": [
+      {
+       "label": "Quiet Linear",
+       "price": "119.95",
+       "default": true
+      },
+      {
+       "label": "Tactile",
+       "price": "119.95"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "sku": "TK-LOGI-ALTO-KEYS-K98M",
+   "slug": "logitech-alto-keys-k98m",
+   "name": "Logitech Alto Keys K98M Wireless Mechanical Keyboard",
+   "brand": "Logitech",
+   "category": "keyboards",
+   "price": "119.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    45,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "developer-setup"
+   ],
+   "summary": "Gasket-mounted 98-key wireless mechanical keyboard with hot-swappable Logitech Linear Marble switches, PBT keycaps and up to 12 months of battery.",
+   "description": "Alto Keys K98M is a wireless customizable mechanical keyboard with a UniCushion gasket mount, a compact 98-key layout with number pad and a transparent top case. It uses hot-swappable Logitech Linear Marble switches and shine-through PBT keycaps with white backlighting, connects via Bluetooth Low Energy or the included Logi Bolt receiver to up to 3 devices, and its rechargeable battery lasts up to 12 months with backlighting off.",
+   "keywords": "98% wireless mechanical gasket hot swap logi bolt bluetooth mac windows",
+   "specs": {
+    "connection": "Bluetooth LE, Logi Bolt USB receiver",
+    "layout": "98 keys with number pad",
+    "switchType": "Logitech Linear Marble (linear)",
+    "mechanical": true,
+    "hotSwappable": true,
+    "macSupport": true,
+    "backlight": "White",
+    "keycaps": "PBT, shine-through",
+    "colors": "Graphite, Lilac, Off-White"
+   },
+   "options": [
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Graphite",
+       "default": true,
+       "image": {
+        "small": "/images/catalog/logitech-alto-keys-k98m--graphite-400.webp",
+        "large": "/images/catalog/logitech-alto-keys-k98m--graphite-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Logitech Alto Keys K98M mechanical keyboard in Graphite"
+       }
+      },
+      {
+       "label": "Lilac",
+       "image": {
+        "small": "/images/catalog/logitech-alto-keys-k98m--lilac-400.webp",
+        "large": "/images/catalog/logitech-alto-keys-k98m--lilac-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Logitech Alto Keys K98M mechanical keyboard in Lilac"
+       }
+      },
+      {
+       "label": "Off-White",
+       "image": {
+        "small": "/images/catalog/logitech-alto-keys-k98m--off-white-400.webp",
+        "large": "/images/catalog/logitech-alto-keys-k98m--off-white-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Logitech Alto Keys K98M mechanical keyboard in Off-White"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "sku": "TK-LOGI-MX-KEYS-MINI",
+   "slug": "logitech-mx-keys-mini",
+   "name": "Logitech MX Keys Mini Wireless Illuminated Keyboard",
+   "brand": "Logitech",
+   "category": "keyboards",
+   "price": "99.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    8,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "developer-setup"
+   ],
+   "summary": "Compact minimalist wireless keyboard with smart backlighting, spherically-dished keys, Easy-Switch for 3 devices and USB-C charging.",
+   "description": "MX Keys Mini is a compact, minimalist wireless keyboard that connects via Bluetooth Low Energy to up to three devices (Logi Bolt receiver compatible, not included). Its backlighting activates with a hand-proximity sensor and adjusts to ambient light, and the 1500 mAh USB-C rechargeable battery lasts up to 10 days, or up to 5 months with backlighting off.",
+   "keywords": "compact minimalist wireless bluetooth backlit mac productivity scissor",
+   "specs": {
+    "connection": "Bluetooth LE (Logi Bolt compatible)",
+    "layout": "Compact",
+    "switchType": "Low-profile scissor",
+    "mechanical": false,
+    "quiet": true,
+    "macSupport": true,
+    "backlight": "White, proximity and ambient-light sensing",
+    "batteryHours": 240,
+    "colors": "Graphite, Pale Gray, Rose"
+   },
+   "options": [
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Graphite",
+       "default": true,
+       "image": {
+        "small": "/images/catalog/logitech-mx-keys-mini--graphite-400.webp",
+        "large": "/images/catalog/logitech-mx-keys-mini--graphite-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Logitech MX Keys Mini wireless keyboard in Graphite, three-quarter view"
+       }
+      },
+      {
+       "label": "Pale Gray",
+       "image": {
+        "small": "/images/catalog/logitech-mx-keys-mini--pale-gray-400.webp",
+        "large": "/images/catalog/logitech-mx-keys-mini--pale-gray-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Logitech MX Keys Mini wireless keyboard in Pale Gray, three-quarter view"
+       }
+      },
+      {
+       "label": "Rose",
+       "image": {
+        "small": "/images/catalog/logitech-mx-keys-mini--rose-400.webp",
+        "large": "/images/catalog/logitech-mx-keys-mini--rose-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Logitech MX Keys Mini wireless keyboard in Rose, three-quarter view"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "sku": "TK-LOGI-WAVE-KEYS",
+   "slug": "logitech-wave-keys",
+   "name": "Logitech Wave Keys Wireless Ergonomic Keyboard",
+   "brand": "Logitech",
+   "category": "keyboards",
+   "price": "59.99",
+   "compareAt": "69.99",
+   "warranty": 12,
+   "stock": [
+    22,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "small-business"
+   ],
+   "summary": "Wave-shaped compact ergonomic keyboard with an integrated 3-layer memory-foam palm rest, Easy-Switch for 3 devices and 3-year AAA battery life.",
+   "description": "Wave Keys uses a wave-shaped, compact key layout that brings hands and elbows into a more natural position, with a permanently attached, three-layer cushioned memory-foam palm rest. It connects via Logi Bolt receiver or Bluetooth Low Energy to up to 3 devices, is customizable in Logi Options+, and runs up to 3 years on two AAA batteries (no backlighting).",
+   "keywords": "ergonomic wave palm rest wireless bluetooth logi bolt",
+   "specs": {
+    "connection": "Bluetooth LE, Logi Bolt USB receiver",
+    "layout": "Full size",
+    "switchType": "Membrane",
+    "mechanical": false,
+    "macSupport": true,
+    "backlight": "None",
+    "colors": "Graphite, Rose, Sand"
+   },
+   "options": [
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Graphite",
+       "default": true,
+       "image": {
+        "small": "/images/catalog/logitech-wave-keys--graphite-400.webp",
+        "large": "/images/catalog/logitech-wave-keys--graphite-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Logitech Wave Keys ergonomic keyboard in Graphite, top angle view"
+       }
+      },
+      {
+       "label": "Rose",
+       "image": {
+        "small": "/images/catalog/logitech-wave-keys--rose-400.webp",
+        "large": "/images/catalog/logitech-wave-keys--rose-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Logitech Wave Keys ergonomic keyboard in Rose, top angle view"
+       }
+      },
+      {
+       "label": "Sand",
+       "image": {
+        "small": "/images/catalog/logitech-wave-keys--sand-400.webp",
+        "large": "/images/catalog/logitech-wave-keys--sand-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Logitech Wave Keys ergonomic keyboard in Sand, top angle view"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "sku": "TK-LOGI-ERGO-K860",
+   "slug": "logitech-ergo-k860",
+   "name": "Logitech ERGO K860 Wireless Split Ergonomic Keyboard",
+   "brand": "Logitech",
+   "category": "keyboards",
+   "price": "149.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    28,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "small-business"
+   ],
+   "summary": "Curved split full-size ergonomic keyboard with a pillowed wrist rest, negative tilt legs and up to 24 months on two AAA batteries.",
+   "description": "ERGO K860 is a full-size split, curved ergonomic keyboard with an integrated number pad, a permanently attached pillowed wrist rest and integrated legs for 0, -4 and -7 degree negative tilt. It connects via Bluetooth Low Energy or the Logitech Unifying receiver to up to 3 devices, has dual Mac/Windows printing, and runs up to 24 months on 2 AAA batteries.",
+   "keywords": "split ergonomic curved wrist rest negative tilt wireless",
+   "specs": {
+    "connection": "Bluetooth LE, Logitech Unifying USB receiver",
+    "layout": "Full size",
+    "switchType": "Membrane",
+    "mechanical": false,
+    "macSupport": true,
+    "backlight": "None",
+    "colors": "Graphite"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-LOGI-SIG-SLIM-SOLAR-K980",
+   "slug": "logitech-signature-slim-solar-plus-k980",
+   "name": "Logitech Signature Slim Solar+ K980 Wireless Keyboard",
+   "brand": "Logitech",
+   "category": "keyboards",
+   "price": "99.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    59,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "small-business"
+   ],
+   "summary": "Full-size slim wireless keyboard powered by Logi LightCharge solar/indoor light, with up to 4 months of use in darkness and Easy-Switch for 3 devices.",
+   "description": "Signature Slim Solar+ K980 is a full-size, laptop-like wireless keyboard with a number pad and low-profile scissor keys, charged by any light source through Logi LightCharge technology and running up to 4 months in complete darkness. It connects via Bluetooth Low Energy or a Logi Bolt receiver (not included) to up to 3 devices and adds customizable Action and AI Launch keys in Logi Options+.",
+   "keywords": "solar wireless full size slim quiet office logi bolt",
+   "specs": {
+    "connection": "Bluetooth LE (Logi Bolt compatible)",
+    "layout": "Full size",
+    "switchType": "Low-profile membrane scissor",
+    "mechanical": false,
+    "quiet": true,
+    "macSupport": true,
+    "backlight": "None",
+    "colors": "Graphite"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-LOGI-G515-RAPID-TKL",
+   "slug": "logitech-g-g515-rapid-tkl",
+   "name": "Logitech G G515 RAPID TKL Low-Profile Analog Gaming Keyboard",
+   "brand": "Logitech G",
+   "category": "keyboards",
+   "price": "149.99",
+   "compareAt": "169.99",
+   "warranty": 12,
+   "stock": [
+    41,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "ultimate-gaming-setup"
+   ],
+   "summary": "Ultra-thin 22 mm wired TKL gaming keyboard with low-profile analog switches, Rapid Trigger and 0.1-2.5 mm adjustable actuation.",
+   "description": "G515 RAPID TKL combines low-profile analog switch technology with a slim 22 mm design. Actuation is adjustable per key from 0.1 mm to 2.5 mm in G HUB, with Rapid Trigger profiles, Key Priority and Multipoint Action (two actions on one key), plus LIGHTSYNC RGB; it connects over a 1.8 m USB cable.",
+   "keywords": "low profile analog hall effect rapid trigger tkl slim gaming",
+   "specs": {
+    "connection": "USB wired",
+    "layout": "TKL",
+    "switchType": "Low-profile analog (magnetic)",
+    "mechanical": false,
+    "macSupport": true,
+    "backlight": "LIGHTSYNC RGB",
+    "colors": "Black, White"
+   },
+   "options": [
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Black",
+       "default": true,
+       "image": {
+        "small": "/images/catalog/logitech-g-g515-rapid-tkl--black-400.webp",
+        "large": "/images/catalog/logitech-g-g515-rapid-tkl--black-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Logitech G515 RAPID TKL low-profile keyboard in Black, top angle view"
+       }
+      },
+      {
+       "label": "White",
+       "image": {
+        "small": "/images/catalog/logitech-g-g515-rapid-tkl--white-400.webp",
+        "large": "/images/catalog/logitech-g-g515-rapid-tkl--white-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Logitech G515 RAPID TKL low-profile keyboard in White, top angle view"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "sku": "TK-LOGI-G915-X-LIGHTSPEED",
+   "slug": "logitech-g-g915-x-lightspeed",
+   "name": "Logitech G G915 X LIGHTSPEED Wireless Mechanical Gaming Keyboard",
+   "brand": "Logitech G",
+   "category": "keyboards",
+   "price": "259.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    11,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "ultimate-gaming-setup"
+   ],
+   "summary": "Full-size 23 mm low-profile tri-mode gaming keyboard with GL mechanical switches, aluminium top plate and up to 800 hours with RGB off.",
+   "description": "G915 X LIGHTSPEED is a full-size low-profile mechanical gaming keyboard only 23 mm high, with GL switches (linear, tactile or clicky) actuating at 1.3 mm, a brushed aluminium-alloy top plate and double-shot PBT keycaps. It connects via LIGHTSPEED wireless, Bluetooth or cable, has KEYCONTROL and LIGHTSYNC RGB, and lasts up to 36 hours at full brightness or up to 800 hours with RGB off.",
+   "keywords": "low profile wireless lightspeed bluetooth full size mechanical gaming aluminum",
+   "specs": {
+    "connection": "LIGHTSPEED 2.4 GHz wireless, Bluetooth, USB wired",
+    "layout": "Full size",
+    "switchType": "GL low-profile mechanical (linear / tactile / clicky)",
+    "mechanical": true,
+    "backlight": "LIGHTSYNC RGB",
+    "batteryHours": 800,
+    "keycaps": "Double-shot PBT",
+    "colors": "Black, White"
+   },
+   "options": [
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Black",
+       "default": true,
+       "image": {
+        "small": "/images/catalog/logitech-g-g915-x-lightspeed--black-400.webp",
+        "large": "/images/catalog/logitech-g-g915-x-lightspeed--black-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Logitech G915 X LIGHTSPEED full-size keyboard in Black"
+       }
+      },
+      {
+       "label": "White",
+       "image": {
+        "small": "/images/catalog/logitech-g-g915-x-lightspeed--white-400.webp",
+        "large": "/images/catalog/logitech-g-g915-x-lightspeed--white-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Logitech G915 X LIGHTSPEED full-size keyboard in White"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "sku": "TK-LOGI-PRO-X-60",
+   "slug": "logitech-g-pro-x-60",
+   "name": "Logitech G PRO X 60 LIGHTSPEED Wireless Gaming Keyboard",
+   "brand": "Logitech G",
+   "category": "keyboards",
+   "price": "179.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    30,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "gaming-monsters"
+   ],
+   "summary": "60% LIGHTSPEED wireless esports keyboard with GX optical switches, KEYCONTROL, dual-shot PBT keycaps and LIGHTSYNC RGB.",
+   "description": "PRO X 60 is a 60% wireless gaming keyboard built for esports, with LIGHTSPEED wireless, KEYCONTROL for layered key assignments, a game-mode switch, volume roller and media controls. It uses GX optical switches (tactile or linear), dual-shot PBT keycaps and LIGHTSYNC RGB.",
+   "keywords": "60% wireless lightspeed optical esports compact",
+   "specs": {
+    "connection": "LIGHTSPEED 2.4 GHz wireless, USB wired",
+    "layout": "60%",
+    "switchType": "GX optical (tactile or linear)",
+    "mechanical": true,
+    "backlight": "LIGHTSYNC RGB",
+    "keycaps": "Dual-shot PBT",
+    "colors": "Black, White, Magenta"
+   },
+   "options": [
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Black",
+       "default": true,
+       "image": {
+        "small": "/images/catalog/logitech-g-pro-x-60--black-400.webp",
+        "large": "/images/catalog/logitech-g-pro-x-60--black-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Logitech G PRO X 60 wireless keyboard in Black"
+       }
+      },
+      {
+       "label": "White",
+       "image": {
+        "small": "/images/catalog/logitech-g-pro-x-60--white-400.webp",
+        "large": "/images/catalog/logitech-g-pro-x-60--white-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Logitech G PRO X 60 wireless keyboard in White"
+       }
+      },
+      {
+       "label": "Magenta",
+       "image": {
+        "small": "/images/catalog/logitech-g-pro-x-60--magenta-400.webp",
+        "large": "/images/catalog/logitech-g-pro-x-60--magenta-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Logitech G PRO X 60 wireless keyboard in Magenta"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "sku": "TK-LOGI-G316-X-98",
+   "slug": "logitech-g-g316-x-98",
+   "name": "Logitech G G316 X 98 Wired Mechanical Gaming Keyboard",
+   "brand": "Logitech G",
+   "category": "keyboards",
+   "price": "119.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    52,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [],
+   "summary": "Wired 98% mechanical gaming keyboard with a number pad in a compact footprint, per-key RGB and linear or tactile switches.",
+   "description": "G316 X 98 is a wired mechanical gaming keyboard in a 98% layout that keeps a number pad while leaving more room for the mouse. It offers tactile (2.2 mm actuation, 55 g) or linear (1.9 mm, 40 g) switches, per-key RGB, programmable keys and a USB-C to USB-A cable, with G HUB support on Windows and macOS.",
+   "keywords": "98% numpad mechanical gaming wired rgb",
+   "specs": {
+    "connection": "USB-C wired (USB-C to USB-A cable)",
+    "layout": "98% with number pad",
+    "switchType": "Linear or tactile mechanical",
+    "mechanical": true,
+    "macSupport": true,
+    "backlight": "Per-key RGB",
+    "colors": "Black, White, Lilac"
+   },
+   "options": [
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Black",
+       "default": true,
+       "image": {
+        "small": "/images/catalog/logitech-g-g316-x-98--black-400.webp",
+        "large": "/images/catalog/logitech-g-g316-x-98--black-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Logitech G316 X 98 keyboard in Black"
+       }
+      },
+      {
+       "label": "White",
+       "image": {
+        "small": "/images/catalog/logitech-g-g316-x-98--white-400.webp",
+        "large": "/images/catalog/logitech-g-g316-x-98--white-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Logitech G316 X 98 keyboard in White"
+       }
+      },
+      {
+       "label": "Lilac",
+       "image": {
+        "small": "/images/catalog/logitech-g-g316-x-98--lilac-400.webp",
+        "large": "/images/catalog/logitech-g-g316-x-98--lilac-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Logitech G316 X 98 keyboard in Lilac"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "sku": "TK-CORSAIR-K70-PRO-TKL",
+   "slug": "corsair-k70-pro-tkl",
+   "name": "Corsair K70 PRO TKL Hall Effect Gaming Keyboard",
+   "brand": "Corsair",
+   "category": "keyboards",
+   "price": "169.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    27,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "ultimate-gaming-setup"
+   ],
+   "summary": "Wired tenkeyless gaming keyboard with adjustable CORSAIR MGX V2 Hall-effect switches, Rapid Trigger and up to 8,000 Hz report rate.",
+   "description": "The CORSAIR K70 PRO TKL is an 87-key wired tenkeyless gaming keyboard with adjustable MGX Hyperdrive (MGX V2) magnetic switches and Rapid Trigger. It reports at up to 8,000 Hz, has 8 MB onboard memory with 5 profiles, full NKRO, media controls and a magnetic detachable leatherette wrist rest, and works with iCUE on PC and Mac.",
+   "keywords": "hall effect magnetic rapid trigger tkl 8k gaming icue",
+   "specs": {
+    "connection": "USB wired (USB Type-A)",
+    "layout": "TKL",
+    "switchType": "CORSAIR MGX V2 Hall effect",
+    "mechanical": false,
+    "macSupport": true,
+    "pollingRateHz": 8000,
+    "backlight": "Per-key RGB",
+    "keycaps": "PBT double-shot",
+    "colors": "White"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-CORSAIR-K70-CORE-TKL-WL",
+   "slug": "corsair-k70-core-tkl-wireless",
+   "name": "Corsair K70 CORE TKL WIRELESS RGB Mechanical Gaming Keyboard",
+   "brand": "Corsair",
+   "category": "keyboards",
+   "price": "119.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    45,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [],
+   "summary": "Wireless tenkeyless mechanical gaming keyboard with CORSAIR MLX Red v2 switches, volume roller and magnetic wrist rest.",
+   "description": "K70 CORE TKL WIRELESS is an 87-key tenkeyless wireless mechanical gaming keyboard with CORSAIR MLX Red switches, a 1,000 Hz report rate, a volume roller with press-to-mute, 8 MB onboard memory with 5 profiles and full NKRO. A magnetic detachable wrist rest is included, and it is configured in iCUE.",
+   "keywords": "tkl wireless mechanical gaming linear icue",
+   "specs": {
+    "connection": "Wireless, USB wired",
+    "layout": "TKL",
+    "switchType": "CORSAIR MLX Red (linear)",
+    "mechanical": true,
+    "macSupport": true,
+    "pollingRateHz": 1000,
+    "backlight": "RGB",
+    "colors": "Black"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-CORSAIR-K100-AIR-WL",
+   "slug": "corsair-k100-air-wireless",
+   "name": "Corsair K100 AIR WIRELESS RGB Ultra-Thin Mechanical Gaming Keyboard",
+   "brand": "Corsair",
+   "category": "keyboards",
+   "price": "329.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    20,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [],
+   "summary": "Ultra-thin full-size wireless keyboard with CHERRY MX Ultra Low Profile tactile switches, SLIPSTREAM and Bluetooth, and up to 200 hours with lighting off.",
+   "description": "K100 AIR WIRELESS is an ultra-thin full-size (108-key) mechanical keyboard with CHERRY MX Ultra Low Profile Tactile switches, SLIPSTREAM sub-1 ms wireless, Bluetooth 4.2 and USB wired modes with up to 8,000 Hz report rate when wired. It has dedicated media keys, a volume roller, four macro keys, up to 50 onboard profiles and a battery rated up to 50 hours with RGB effects or 200 hours with backlighting off.",
+   "keywords": "ultra thin low profile full size wireless bluetooth cherry mx gaming",
+   "specs": {
+    "connection": "SLIPSTREAM 2.4 GHz wireless, Bluetooth 4.2, USB wired",
+    "layout": "Full size",
+    "switchType": "CHERRY MX Ultra Low Profile Tactile",
+    "mechanical": true,
+    "macSupport": true,
+    "pollingRateHz": 8000,
+    "backlight": "Per-key RGB",
+    "batteryHours": 200,
+    "colors": "Black"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-CORSAIR-VANGUARD-AIR-99-WL",
+   "slug": "corsair-vanguard-air-99-wireless",
+   "name": "Corsair VANGUARD AIR 99 WIRELESS Optical-Mechanical Gaming Keyboard",
+   "brand": "Corsair",
+   "category": "keyboards",
+   "price": "199.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    20,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "creator-workstations"
+   ],
+   "summary": "Low-profile 99% wireless optical-mechanical keyboard with 8K SLIPSTREAM wireless, Stream Deck integration and an LCD screen.",
+   "description": "VANGUARD AIR 99 WIRELESS is a low-profile 99% (107-key) optical-mechanical keyboard with CORSAIR OPX Low Profile switches, 8K SLIPSTREAM wireless, BLE and USB modes, and up to 8,000 Hz report rate. It integrates Stream Deck controls, six macro keys, dedicated hotkeys and a volume roller, 32 MB onboard memory, and a battery rated up to 55 hours with keyboard lighting off.",
+   "keywords": "low profile optical wireless 8k stream deck 99% gaming productivity",
+   "specs": {
+    "connection": "8K SLIPSTREAM wireless, Bluetooth LE, USB wired",
+    "layout": "Full size",
+    "switchType": "CORSAIR OPX Low Profile optical-mechanical",
+    "mechanical": true,
+    "macSupport": true,
+    "pollingRateHz": 8000,
+    "backlight": "RGB",
+    "batteryHours": 55,
+    "colors": "Black"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-CORSAIR-CLIPPER-PRO-MINI-60",
+   "slug": "corsair-clipper-pro-mini-60",
+   "name": "Corsair CLIPPER PRO MINI 60 Hall Effect Gaming Keyboard",
+   "brand": "Corsair",
+   "category": "keyboards",
+   "price": "89.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    18,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [],
+   "summary": "Budget 60% wired Hall-effect gaming keyboard with MGX Hyperdrive Core magnetic switches, Rapid Trigger and 8,000 Hz polling.",
+   "description": "CLIPPER PRO MINI 60 is a compact 60% wired gaming keyboard with MGX HYPERDRIVE CORE magnetic switches that enable Hall-effect features such as Rapid Trigger and Multi Action. It reports at up to 8,000 Hz, has 8 MB onboard memory with 5 profiles and full NKRO, weighs about 414 g, and is configured in the CORSAIR Web Hub.",
+   "keywords": "hall effect magnetic rapid trigger 60% budget 8k esports",
+   "specs": {
+    "connection": "USB wired (USB Type-A)",
+    "layout": "60%",
+    "switchType": "CORSAIR MGX Hyperdrive Core (Hall effect)",
+    "mechanical": false,
+    "macSupport": true,
+    "pollingRateHz": 8000,
+    "backlight": "RGB",
+    "colors": "Black"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-DAS-6-PROFESSIONAL",
+   "slug": "das-keyboard-6-professional",
+   "name": "Das Keyboard 6 Professional Mechanical Keyboard",
+   "brand": "Das Keyboard",
+   "category": "keyboards",
+   "price": "219.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    45,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "developer-favorites"
+   ],
+   "summary": "Full-size white-backlit mechanical keyboard with Cherry MX2A Brown or MX Blue switches, aluminium top panel, USB-C hub and volume knob.",
+   "description": "The Das Keyboard 6 Professional is a full-size mechanical keyboard for the modern workday, with elegant white LED backlighting and Cherry MX2A Brown (soft tactile) or Cherry MX Blue (clicky) switches. It has an anodized aluminium top panel, a built-in USB-C hub, dedicated media keys, a sleep button and a large volume knob.",
+   "keywords": "full size mechanical cherry mx office typing usb hub volume knob",
+   "specs": {
+    "connection": "USB-C wired",
+    "layout": "Full size",
+    "switchType": "Cherry MX2A Brown (soft tactile) or Cherry MX Blue (clicky)",
+    "mechanical": true,
+    "backlight": "White LED",
+    "configurations": "Cherry MX2A Brown – $219 · Cherry MX Blue – $219",
+    "colors": "Black"
+   },
+   "options": [
+    {
+     "name": "Configuration",
+     "values": [
+      {
+       "label": "Cherry MX2A Brown",
+       "price": "219.00",
+       "default": true
+      },
+      {
+       "label": "Cherry MX Blue",
+       "price": "219.00"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "sku": "TK-DAS-5QS-MARK-II",
+   "slug": "das-keyboard-5qs-mark-ii",
+   "name": "Das Keyboard 5QS Mark II Smart RGB Mechanical Keyboard",
+   "brand": "Das Keyboard",
+   "category": "keyboards",
+   "price": "229.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    41,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [],
+   "summary": "Smart RGB mechanical keyboard with factory-lubed Cherry MX2A switches, Q-software live notifications, aluminium top and plush wrist rest.",
+   "description": "The Das Keyboard 5QS Mark II is an upgraded smart RGB mechanical keyboard with factory-lubed Cherry MX2A switches (Red linear, Brown tactile or Silent Red). It connects to Das Keyboard Q software for live RGB notifications on keys, and adds an anodized aluminium top panel, a plush wrist rest, an oversized volume knob and fully customizable per-key lighting; it works with Windows and Linux, with a Mac mode.",
+   "keywords": "smart rgb notifications cherry mx2a full size mechanical wrist rest",
+   "specs": {
+    "connection": "USB wired",
+    "layout": "Full size",
+    "switchType": "Cherry MX2A Red / Brown / Silent Red",
+    "mechanical": true,
+    "macSupport": true,
+    "backlight": "Per-key RGB",
+    "configurations": "Cherry MX2A Red – $229 · Cherry MX2A Brown – $229 · Cherry MX2A Silent Red – $259",
+    "colors": "Black"
+   },
+   "options": [
+    {
+     "name": "Configuration",
+     "values": [
+      {
+       "label": "Cherry MX2A Red",
+       "price": "229.00",
+       "default": true
+      },
+      {
+       "label": "Cherry MX2A Brown",
+       "price": "229.00"
+      },
+      {
+       "label": "Cherry MX2A Silent Red",
+       "price": "259.00"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "sku": "TK-DAS-4-PROFESSIONAL",
+   "slug": "das-keyboard-4-professional",
+   "name": "Das Keyboard 4 Professional Mechanical Keyboard",
+   "brand": "Das Keyboard",
+   "category": "keyboards",
+   "price": "199.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    44,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [],
+   "summary": "Classic full-size mechanical keyboard with Cherry MX2A switches, anodized aluminium top, volume knob and two-port USB 3.0 hub.",
+   "description": "The Das Keyboard 4 Professional is a full-size mechanical keyboard with a rugged black anodized aluminium top panel and Cherry MX2A switches. It has an oversized volume knob and dedicated media keys, a two-port USB 3.0 hub, an extra-long braided cable and a magnetic footbar that doubles as a ruler.",
+   "keywords": "classic full size mechanical cherry mx typing usb hub",
+   "specs": {
+    "connection": "USB wired",
+    "layout": "Full size",
+    "switchType": "Cherry MX2A Blue (clicky) / Brown / Red",
+    "mechanical": true,
+    "backlight": "None",
+    "configurations": "Cherry MX2A Blue – $199 · Cherry MX2A Brown – $199 · Cherry MX2A Red – $199",
+    "colors": "Black"
+   },
+   "options": [
+    {
+     "name": "Configuration",
+     "values": [
+      {
+       "label": "Cherry MX2A Blue",
+       "price": "199.00",
+       "default": true
+      },
+      {
+       "label": "Cherry MX2A Brown",
+       "price": "199.00"
+      },
+      {
+       "label": "Cherry MX2A Red",
+       "price": "199.00"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "sku": "TK-STEELSERIES-APEX-PRO-TKL-G3",
+   "slug": "steelseries-apex-pro-tkl-gen-3",
+   "name": "SteelSeries Apex Pro TKL Gen 3 Gaming Keyboard",
+   "brand": "SteelSeries",
+   "category": "keyboards",
+   "price": "239.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    34,
+    5
+   ],
+   "featured": true,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "ultimate-gaming-setup",
+    "gaming-monsters"
+   ],
+   "summary": "Tenkeyless Hall-effect gaming keyboard with OmniPoint 3.0 switches (0.1-4.0 mm), Rapid Trigger, Rapid Tap, Protection Mode and an OLED display.",
+   "description": "The Apex Pro TKL Gen 3 uses OmniPoint 3.0 adjustable HyperMagnetic (Hall-effect) switches with per-key actuation from 0.1 to 4.0 mm, plus Rapid Trigger, Rapid Tap and SteelSeries Protection Mode, set up through GG QuickSet per-game presets. It has an OLED smart display, an aluminium top plate, per-key lubrication, dampening foam and double-shot PBT keycaps.",
+   "keywords": "hall effect magnetic rapid trigger omnipoint tkl oled esports",
+   "specs": {
+    "connection": "USB-C wired",
+    "layout": "TKL",
+    "switchType": "OmniPoint 3.0 HyperMagnetic (Hall effect)",
+    "mechanical": false,
+    "backlight": "Per-key RGB",
+    "keycaps": "Double-shot PBT",
+    "configurations": "Wired – $239.99 · Wireless – $299.99",
+    "colors": "Black"
+   },
+   "options": [
+    {
+     "name": "Configuration",
+     "values": [
+      {
+       "label": "Wired",
+       "price": "239.99",
+       "default": true
+      },
+      {
+       "label": "Wireless",
+       "price": "299.99"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "sku": "TK-KEYCHRON-K5-ULTRA-8K",
+   "slug": "keychron-k5-ultra-8k",
+   "name": "Keychron K5 Ultra 8K Wireless Custom Mechanical Keyboard",
+   "brand": "Keychron",
+   "category": "keyboards",
+   "price": "114.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    40,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [],
+   "summary": "Full-size low-profile wireless mechanical keyboard with 8000 Hz polling, hot-swappable Milk POM switches and up to 370 hours of battery.",
+   "description": "Keychron K5 Ultra 8K is a 100% low-profile wireless mechanical keyboard with 2.4 GHz, Bluetooth 5.2 and wired modes and 8000 Hz polling. It uses hot-swappable Keychron Milk POM switches (Red, Brown or Banana), LSA double-shot PBT keycaps and an aluminium-and-wood build weighing about 720 g, with a 2600 mAh battery rated up to 370 hours at 8K with the backlight off.",
+   "keywords": "low profile slim full size wireless 8k mechanical numpad",
+   "specs": {
+    "connection": "2.4 GHz wireless, Bluetooth 5.2, USB-C wired",
+    "layout": "Full size",
+    "switchType": "Keychron Milk POM low-profile (Red / Brown / Banana)",
+    "mechanical": true,
+    "hotSwappable": true,
+    "macSupport": true,
+    "pollingRateHz": 8000,
+    "backlight": "North-facing RGB",
+    "batteryHours": 370,
+    "keycaps": "LSA double-shot PBT",
+    "configurations": "Milk POM Red – $114.99 · Milk POM Brown – $114.99 · Milk POM Banana – $114.99",
+    "colors": "Black"
+   },
+   "options": [
+    {
+     "name": "Configuration",
+     "values": [
+      {
+       "label": "Milk POM Red",
+       "price": "114.99",
+       "default": true
+      },
+      {
+       "label": "Milk POM Brown",
+       "price": "114.99"
+      },
+      {
+       "label": "Milk POM Banana",
+       "price": "114.99"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "sku": "TK-KEYCHRON-Q16-HE-8K",
+   "slug": "keychron-q16-he-8k",
+   "name": "Keychron Q16 HE 8K Ceramic Magnetic Switch Keyboard",
+   "brand": "Keychron",
+   "category": "keyboards",
+   "price": "199.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    44,
+    5
+   ],
+   "featured": true,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [],
+   "summary": "Wired 65% Hall-effect gaming keyboard with a ceramic body and ceramic keycaps, 8000 Hz polling and Keychron Ultra-fast Lime magnetic switches.",
+   "description": "Keychron Q16 HE 8K is a wired 65% magnetic-switch custom gaming keyboard with a ceramic body and Cherry-profile ceramic die-cast keycaps. It uses hot-swappable Keychron Ultra-fast Lime magnetic switches, 8000/4000/1000 Hz selectable polling with 256 kHz single-key scanning, north-facing RGB and acoustic foam.",
+   "keywords": "ceramic hall effect magnetic 65% 8k gaming rapid trigger",
+   "specs": {
+    "connection": "USB-C wired",
+    "layout": "65%",
+    "switchType": "Keychron Ultra-fast Lime Magnetic (Hall effect)",
+    "mechanical": false,
+    "hotSwappable": true,
+    "macSupport": true,
+    "pollingRateHz": 8000,
+    "backlight": "North-facing RGB",
+    "keycaps": "Cherry-profile ceramic",
+    "colors": "Light Green, Navy Blue"
+   },
+   "options": [
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Light Green",
+       "default": true,
+       "image": {
+        "small": "/images/catalog/keychron-q16-he-8k--light-green-400.webp",
+        "large": "/images/catalog/keychron-q16-he-8k--light-green-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Keychron Q16 HE 8K ceramic keyboard in Light Green, top view"
+       }
+      },
+      {
+       "label": "Navy Blue",
+       "image": {
+        "small": "/images/catalog/keychron-q16-he-8k--navy-blue-400.webp",
+        "large": "/images/catalog/keychron-q16-he-8k--navy-blue-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Keychron Q16 HE 8K ceramic keyboard in Navy Blue, top view"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "sku": "TK-LOFREE-FLOW-LITE84",
+   "slug": "lofree-flow-lite84",
+   "name": "Lofree Flow Lite84 Low-profile Mechanical Keyboard",
+   "brand": "Lofree",
+   "category": "keyboards",
+   "price": "99.00",
+   "compareAt": "129.00",
+   "warranty": 12,
+   "stock": [
+    40,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [],
+   "summary": "Affordable 75% low-profile tri-mode keyboard with hot-swappable Lofree x Kailh POM linear switches and PBT+PC double-shot keycaps.",
+   "description": "Lofree Flow Lite84 is an 84-key (75%) low-profile wireless mechanical keyboard with hot-swappable Lofree x Kailh POM linear (Specter) switches, white backlighting and PBT+PC double-shot keycaps in an ABS body. It connects over 2.4 GHz, Bluetooth 5.4 (up to 3 devices) or USB-C, and its 2,000 mAh battery lasts up to 80 hours with lights off.",
+   "keywords": "low profile wireless bluetooth 75% budget mac",
+   "specs": {
+    "connection": "2.4 GHz wireless, Bluetooth 5.4, USB-C wired",
+    "layout": "75%",
+    "switchType": "Lofree x Kailh POM Specter (linear)",
+    "mechanical": true,
+    "hotSwappable": true,
+    "macSupport": true,
+    "backlight": "White",
+    "batteryHours": 80,
+    "keycaps": "PBT + PC double-shot",
+    "colors": "Marble, Off-White, Flamingo"
+   },
+   "options": [
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Marble",
+       "default": true,
+       "image": {
+        "small": "/images/catalog/lofree-flow-lite84--marble-400.webp",
+        "large": "/images/catalog/lofree-flow-lite84--marble-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Lofree Flow Lite84 low-profile keyboard in Marble"
+       }
+      },
+      {
+       "label": "Off-White",
+       "image": {
+        "small": "/images/catalog/lofree-flow-lite84--off-white-400.webp",
+        "large": "/images/catalog/lofree-flow-lite84--off-white-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Lofree Flow Lite84 low-profile keyboard in Off-White"
+       }
+      },
+      {
+       "label": "Flamingo",
+       "image": {
+        "small": "/images/catalog/lofree-flow-lite84--flamingo-400.webp",
+        "large": "/images/catalog/lofree-flow-lite84--flamingo-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Lofree Flow Lite84 low-profile keyboard in Flamingo"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "sku": "TK-KINESIS-ADVANTAGE2",
+   "slug": "kinesis-advantage2",
+   "name": "Kinesis Advantage2 Contoured Ergonomic Keyboard",
+   "brand": "Kinesis",
+   "category": "keyboards",
+   "price": "399.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    18,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "developer-favorites"
+   ],
+   "summary": "Contoured keywell ergonomic keyboard with Cherry MX Brown or Quiet Red switches, thumb clusters and SmartSet onboard programming.",
+   "description": "Kinesis Advantage2 is the original contoured ergonomic keyboard for Windows and Mac, with concave keywells, thumb-key clusters and mechanical Cherry MX switches (Tactile Brown or Quiet Linear Red). The SmartSet Programming Engine allows onboard remapping and macros without drivers, and the US version is switchable between Windows and Mac layouts.",
+   "keywords": "contoured ergonomic keywell cherry mx programmable",
+   "specs": {
+    "connection": "USB wired",
+    "layout": "Contoured keywells with thumb clusters",
+    "switchType": "Cherry MX Brown (tactile) or Cherry MX Quiet Red (linear)",
+    "mechanical": true,
+    "macSupport": true,
+    "configurations": "Cherry Brown – $399 · Cherry Quiet Red – $399",
+    "colors": "Black"
+   },
+   "options": [
+    {
+     "name": "Configuration",
+     "values": [
+      {
+       "label": "Cherry Brown",
+       "price": "399.00",
+       "default": true
+      },
+      {
+       "label": "Cherry Quiet Red",
+       "price": "399.00"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "sku": "TK-HYPERX-ALLOY-ELITE-2",
+   "slug": "hyperx-alloy-elite-2",
+   "name": "HyperX Alloy Elite 2 Mechanical Gaming Keyboard",
+   "brand": "HyperX",
+   "category": "keyboards",
+   "price": "129.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    53,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [],
+   "summary": "Full-size mechanical gaming keyboard with HyperX Red switches, pudding keycaps, dedicated media keys, light bar and USB 2.0 pass-through.",
+   "description": "HyperX Alloy Elite 2 is a full-size mechanical gaming keyboard with HyperX Red linear switches, exposed LEDs and translucent HyperX Pudding keycaps for brighter RGB. It has dedicated media keys and a large volume wheel, a signature light bar, a USB 2.0 pass-through and a sturdy steel frame, customized with HyperX NGENUITY.",
+   "keywords": "full size mechanical gaming media keys pudding keycaps rgb",
+   "specs": {
+    "connection": "USB wired",
+    "layout": "Full size",
+    "switchType": "HyperX Red (linear)",
+    "mechanical": true,
+    "backlight": "Per-key RGB + light bar",
+    "keycaps": "HyperX Pudding (translucent)",
+    "colors": "Black"
+   },
+   "options": []
+  }
+ ]
+}

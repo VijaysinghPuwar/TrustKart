@@ -1,0 +1,222 @@
+{
+ "meta": {
+  "notes": "Researched products parked until an official, professional product image can be sourced."
+ },
+ "products": [
+  {
+   "sku": "TK-VARMILO-MINILO75-HE",
+   "slug": "varmilo-minilo75-he",
+   "name": "Varmilo Minilo75 HE Magnetic Keyboard",
+   "brand": "Varmilo",
+   "category": "keyboards",
+   "price": "100.00",
+   "priceBasis": "msrp",
+   "priceSource": "https://varmilo.com/products/minilo75-he",
+   "priceAsOf": "2026-09-28",
+   "compareAt": "140.00",
+   "releaseYear": 2025,
+   "summary": "Wired 75% Hall-effect keyboard with Rapid Trigger, 8000 Hz polling, hot-swappable magnetic switches and Cherry-profile PBT keycaps.",
+   "description": "Varmilo Minilo75 HE is a wired 75% Hall-effect keyboard with RGB backlighting and hot-swappable magnetic switches (Mag White, Huano Mag Marble, Gateron Mag Jade Pro or TTC King of Mag RGB). It supports Rapid Trigger, 8000 Hz polling with about 0.125 ms latency and N-key rollover, and has a plastic case with a metal inlay frame and Cherry-profile PBT keycaps; it works with macOS and Windows.",
+   "keywords": "hall effect magnetic rapid trigger 75% 8k",
+   "specs": {
+    "connection": "USB-C wired",
+    "layout": "75% ANSI",
+    "switchType": "Magnetic Hall-effect (Mag White / Huano Mag Marble / Gateron Mag Jade Pro / TTC King of Mag RGB)",
+    "mechanical": false,
+    "hotSwappable": true,
+    "macSupport": true,
+    "pollingRateHz": 8000,
+    "backlight": "RGB",
+    "keycaps": "PBT, Cherry profile"
+   },
+   "variants": [
+    {
+     "label": "Mag White",
+     "price": "100.00"
+    },
+    {
+     "label": "Huano Mag Marble",
+     "price": "120.00"
+    },
+    {
+     "label": "TTC King of Mag RGB",
+     "price": "110.00"
+    },
+    {
+     "label": "Gateron Mag Jade Pro",
+     "price": "130.00"
+    }
+   ],
+   "colors": [
+    "Black",
+    "Mendozae"
+   ],
+   "collections": [],
+   "featured": false,
+   "warranty": 12,
+   "sources": {
+    "product": "https://varmilo.com/products/minilo75-he",
+    "retrievedAt": "2026-09-28"
+   },
+   "notes": "Price is the current sale price on Varmilo's own store (compareAt = its list price $140). Mendozae Huano Mag Marble variant is $100. No image: every official Minilo75 HE photo is a dark or lifestyle scene."
+  },
+  {
+   "sku": "TK-WOOTING-60HE-V2",
+   "slug": "wooting-60he-v2",
+   "name": "Wooting 60HE v2 Analog Gaming Keyboard",
+   "brand": "Wooting",
+   "category": "keyboards",
+   "price": "179.99",
+   "priceBasis": "msrp",
+   "priceSource": "https://wooting.io/post/wooting-60he-v2-update-launch-dates-pricing-and-new-switches",
+   "priceAsOf": "2026-09-28",
+   "releaseYear": 2026,
+   "summary": "60% analog Hall-effect gaming keyboard with Lekker Tikken switches, true 8 kHz polling, Rapid Trigger and 0.1 mm adjustable actuation.",
+   "description": "The Wooting 60HE v2 is a 60% (GH60) wired analog gaming keyboard with Lekker Tikken Medium Hall-effect switches, true 8 kHz polling (Tachyon mode), Rapid Trigger and per-key actuation adjustable in 0.1 mm steps via Wootility. It has an FR4 plate, screw-in stabilizers and a Poron sandwich pad, and comes as a plastic prebuilt, an aluminium prebuilt or a standalone module.",
+   "keywords": "analog hall effect rapid trigger 60% esports 8k wootility",
+   "specs": {
+    "connection": "USB-C wired",
+    "layout": "60% (GH60)",
+    "switchType": "Wooting Lekker Tikken Medium (Hall effect)",
+    "mechanical": false,
+    "hotSwappable": true,
+    "pollingRateHz": 8000,
+    "backlight": "RGB",
+    "keycaps": "PBT, ABS or dye-sub options"
+   },
+   "variants": [
+    {
+     "label": "Plastic prebuilt",
+     "price": "179.99"
+    },
+    {
+     "label": "Aluminium prebuilt",
+     "price": "239.99"
+    },
+    {
+     "label": "Module only",
+     "price": "139.99"
+    }
+   ],
+   "colors": [
+    "Black",
+    "Silver"
+   ],
+   "collections": [
+    "ultimate-gaming-setup",
+    "gaming-monsters"
+   ],
+   "featured": true,
+   "warranty": 12,
+   "sources": {
+    "product": "https://wooting.io/wooting-60he-v2",
+    "retrievedAt": "2026-09-28"
+   },
+   "notes": "US prices from Wooting's official 60HE v2 pricing post (plastic $179.99, aluminium $239.99, module $139.99); Silver is aluminium-only. No image: official Wooting renders sit on a grey backdrop and the OG image is a dark banner."
+  },
+  {
+   "sku": "TK-ZSA-VOYAGER",
+   "slug": "zsa-voyager",
+   "name": "ZSA Voyager Split Ergonomic Keyboard",
+   "brand": "ZSA",
+   "category": "keyboards",
+   "price": "365.00",
+   "priceBasis": "estimate",
+   "summary": "Ultra-thin 52-key split columnar keyboard with hot-swappable low-profile Kailh Choc switches, magnetic legs and Oryx/Keymapp software.",
+   "description": "The ZSA Voyager is a compact, ultra-thin split ergonomic keyboard with a 52-key columnar layout and hot-swappable low-profile Kailh Choc switches. It uses magnetic legs for tenting, comes with a large set of extra keycaps, is fully remappable with ZSA's Oryx configurator and Keymapp app, and carries a two-year warranty.",
+   "keywords": "split ergonomic columnar low profile choc programmable qmk portable",
+   "specs": {
+    "connection": "USB-C wired",
+    "layout": "Split 52-key columnar",
+    "switchType": "Kailh Choc low-profile (four types offered)",
+    "mechanical": true,
+    "hotSwappable": true,
+    "macSupport": true,
+    "backlight": "RGB"
+   },
+   "colors": [
+    "Black"
+   ],
+   "collections": [
+    "developer-favorites"
+   ],
+   "featured": false,
+   "warranty": 12,
+   "sources": {
+    "product": "https://www.zsa.io/voyager",
+    "retrievedAt": "2026-09-28"
+   },
+   "notes": "ZSA renders prices client-side; price is an estimate (not read from zsa.io this session). No image: official ZSA product photos show the board on a dark desk mat."
+  },
+  {
+   "sku": "TK-ZSA-MOONLANDER",
+   "slug": "zsa-moonlander",
+   "name": "ZSA Moonlander Mark I Split Ergonomic Keyboard",
+   "brand": "ZSA",
+   "category": "keyboards",
+   "price": "365.00",
+   "priceBasis": "estimate",
+   "summary": "Modular split columnar mechanical keyboard with an articulating thumb cluster, hot-swap switches, per-key RGB and tenting wing.",
+   "description": "The ZSA Moonlander is a split, columnar ergonomic mechanical keyboard with an articulating thumb cluster and a fold-under wing for tenting. It is hot-swappable, fully backlit with programmable per-key RGB, uses doubleshot PBT keycaps (printed or sculpted blank), and every key can be remapped in ZSA's Oryx configurator; the left half can be used alone for gaming.",
+   "keywords": "split ergonomic columnar mechanical programmable qmk tenting",
+   "specs": {
+    "connection": "USB-C wired",
+    "layout": "Split columnar with thumb clusters",
+    "switchType": "MX-style mechanical (Cherry MX and others offered)",
+    "mechanical": true,
+    "hotSwappable": true,
+    "macSupport": true,
+    "backlight": "Per-key RGB",
+    "keycaps": "Doubleshot PBT (printed or blank)"
+   },
+   "collections": [
+    "developer-favorites"
+   ],
+   "featured": false,
+   "warranty": 12,
+   "sources": {
+    "product": "https://www.zsa.io/moonlander",
+    "retrievedAt": "2026-09-28"
+   },
+   "notes": "ZSA renders prices client-side; price is an estimate (not read from zsa.io this session). No image: official ZSA product photos show the board on a dark desk mat."
+  },
+  {
+   "sku": "TK-DAS-DELTAFORCE-65",
+   "slug": "das-keyboard-deltaforce-65",
+   "name": "Das Keyboard DeltaForce 65 Full Metal Camo Mechanical Keyboard",
+   "brand": "Das Keyboard",
+   "category": "keyboards",
+   "price": "169.00",
+   "priceBasis": "msrp",
+   "priceSource": "https://shop.daskeyboard.com/products/deltaforce-65-mechanical-keyboard",
+   "priceAsOf": "2026-09-28",
+   "releaseYear": 2025,
+   "summary": "Gasket-mounted 65% aluminium-frame keyboard with camo finishes, hot-swappable Gateron Red switches, QMK/VIA and dye-sub PBT keycaps.",
+   "description": "The Das Keyboard DeltaForce 65 is a compact 65% mechanical keyboard with a rugged camo design and aluminium frame. It is gasket-mounted, ships with hot-swappable Gateron Red switches, has south-facing per-key RGB, is fully programmable with QMK/VIA, and uses 5-sided dye-sub PBT keycaps.",
+   "keywords": "65% gasket hot swap qmk via camo aluminum",
+   "specs": {
+    "connection": "USB wired",
+    "layout": "65%",
+    "switchType": "Gateron Red (linear)",
+    "mechanical": true,
+    "hotSwappable": true,
+    "backlight": "South-facing per-key RGB",
+    "keycaps": "5-sided dye-sub PBT"
+   },
+   "colors": [
+    "Cyber Camo",
+    "Jungle Camo",
+    "Desert Camo",
+    "Urban Camo"
+   ],
+   "collections": [],
+   "featured": false,
+   "warranty": 12,
+   "sources": {
+    "product": "https://shop.daskeyboard.com/products/deltaforce-65-mechanical-keyboard",
+    "retrievedAt": "2026-09-28"
+   },
+   "notes": "No image: the official DeltaForce 65 store photos are cropped close-ups that cut off the keyboard."
+  }
+ ]
+}
