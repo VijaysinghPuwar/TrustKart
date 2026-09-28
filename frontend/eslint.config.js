@@ -20,6 +20,10 @@ export default tseslint.config(
       '@typescript-eslint/restrict-template-expressions': ['error', { allowNumber: true }],
       '@typescript-eslint/no-confusing-void-expression': 'off',
       '@typescript-eslint/no-misused-promises': ['error', { checksVoidReturn: { attributes: false } }],
+      // Labels often wrap an input plus text rendered from variables a few elements deep.
+      'jsx-a11y/label-has-associated-control': ['error', { depth: 3 }],
+      // Scrollable tables are role="region" + tabIndex=0 so keyboard users can scroll them (WCAG technique; axe requires it).
+      'jsx-a11y/no-noninteractive-tabindex': ['error', { tags: [], roles: ['tabpanel', 'region'] }],
     },
   },
 )

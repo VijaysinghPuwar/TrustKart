@@ -77,6 +77,12 @@ trustkart:
     secure-cookies: ${TRUSTKART_SECURE_COOKIES:true}
     max-failed-logins: 5
     lock-duration: PT15M
+  oauth:
+    google:
+      # Leave empty to run without Google sign-in. Redirect URI to register in Google Cloud Console:
+      # <frontend origin>/api/v1/auth/oauth2/callback/google
+      client-id: ${GOOGLE_CLIENT_ID:}
+      client-secret: ${GOOGLE_CLIENT_SECRET:}
   cors:
     allowed-origins: ${TRUSTKART_ALLOWED_ORIGINS:http://localhost:5173}
   demo:

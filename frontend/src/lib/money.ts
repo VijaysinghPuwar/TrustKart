@@ -27,3 +27,23 @@ export function percentOff(price: Money, compareAt: Money): number {
   if (!(c > p) || p <= 0) return 0
   return Math.floor(((c - p) / c) * 100)
 }
+
+/** Exact decimal-string arithmetic in integer cents, for display-only differences (e.g. "remaining after"). */
+export function toCents(amount: Money): bigint {
+  const negative = amount.trim().startsWith('-')
+  const [whole = '0', frac = ''] = amount.trim().replace('-', '').split('.')
+  const cents = BigInt(whole) * 100n + BigInt((frac + '00').slice(0, 2))
+  return negative ? -cents : cents
+}
+
+export function fromCents(cents: bigint): Money {
+  const negative = cents < 0n
+  const abs = negative ? -cents : cents
+  const whole = abs / 100n
+  const frac = (abs % 100n).toString().padStart(2, '0')
+  return `${negative ? '-' : ''}${whole.toString()}.${frac}`
+}
+
+export function subtractMoney(a: Money, b: Money): Money {
+  return fromCents(toCents(a) - toCents(b))
+}

@@ -1,5 +1,6 @@
 package com.vijaysinghpuwar.trustkart.purchase;
 
+import com.vijaysinghpuwar.trustkart.address.AddressService;
 import com.vijaysinghpuwar.trustkart.cart.CartItem;
 import com.vijaysinghpuwar.trustkart.cart.CartService;
 import com.vijaysinghpuwar.trustkart.catalog.application.CatalogMapper;
@@ -10,6 +11,7 @@ import com.vijaysinghpuwar.trustkart.catalog.infra.InventoryRepository;
 import com.vijaysinghpuwar.trustkart.common.error.ApiException;
 import com.vijaysinghpuwar.trustkart.common.error.ErrorCode;
 import com.vijaysinghpuwar.trustkart.common.error.NotFoundException;
+import com.vijaysinghpuwar.trustkart.common.error.ValidationException;
 import com.vijaysinghpuwar.trustkart.common.money.MoneyWire;
 import com.vijaysinghpuwar.trustkart.purchase.PurchaseViews.ItemView;
 import com.vijaysinghpuwar.trustkart.purchase.PurchaseViews.PurchasePage;
@@ -53,7 +55,8 @@ public class PurchaseService {
     /** A single product bought directly from its page ("Instant Virtual Buy"), bypassing the cart. */
     public record InstantLine(long productId, int quantity) {}
 
-    public record PlaceRequest(DeliveryPreset preset, SimulationAddress address, String expectedTotal, InstantLine instant) {}
+    public record PlaceRequest(DeliveryPreset preset, SimulationAddress address, UUID addressId, String expectedTotal,
+            InstantLine instant) {}
 
     private static final Pattern IDEMPOTENCY_KEY = Pattern.compile("[A-Za-z0-9-]{16,64}");
     private static final DateTimeFormatter ORDER_DATE = DateTimeFormatter.ofPattern("yyyyMMdd").withZone(ZoneOffset.UTC);
@@ -65,10 +68,11 @@ public class PurchaseService {
     private final VirtualPurchaseRepository purchases;
     private final RateLimiter rateLimiter;
     private final JdbcClient jdbc;
+    private final AddressService addresses;
     private final Clock clock;
 
     public PurchaseService(CartService cart, CatalogService catalog, InventoryRepository inventory, WalletService wallets,
-            VirtualPurchaseRepository purchases, RateLimiter rateLimiter, JdbcClient jdbc, Clock clock) {
+            VirtualPurchaseRepository purchases, RateLimiter rateLimiter, JdbcClient jdbc, AddressService addresses, Clock clock) {
         this.cart = cart;
         this.catalog = catalog;
         this.inventory = inventory;
@@ -76,6 +80,7 @@ public class PurchaseService {
         this.purchases = purchases;
         this.rateLimiter = rateLimiter;
         this.jdbc = jdbc;
+        this.addresses = addresses;
         this.clock = clock;
     }
 
@@ -149,7 +154,7 @@ public class PurchaseService {
         // 5. Record the purchase, debit the ledger, clear the cart.
         Instant now = clock.instant();
         VirtualPurchase purchase = new VirtualPurchase(nextOrderNumber(now), shopperId, items, wallet.getMode(),
-                request.preset(), request.address(), idempotencyKey, requestHash, now);
+                request.preset(), destination(shopperId, request), idempotencyKey, requestHash, now);
         if (wallet.getMode() == WalletMode.BUDGET) {
             BigDecimal before = wallet.getBalance();
             wallets.debit(wallet, total, purchase.getOrderNumber());
@@ -205,6 +210,30 @@ public class PurchaseService {
     public void onShopperMerged(ShopperMergedEvent event) {
         jdbc.sql("UPDATE virtual_purchase SET shopper_id = :to WHERE shopper_id = :from")
                 .param("to", event.toShopperId()).param("from", event.fromShopperId()).update();
+    }
+
+    /**
+     * Resolves where the order "goes". A saved address is looked up by (id, shopper), so another shopper's
+     * address id is a 404, never a leak. The result is a snapshot: editing the address later won't touch receipts.
+     */
+    private SimulationAddress destination(long shopperId, PlaceRequest request) {
+        if (request.preset() != DeliveryPreset.ADDRESS) {
+            return request.address();
+        }
+        if (request.addressId() != null) {
+            AddressService.AddressView a = addresses.get(shopperId, request.addressId());
+            return new SimulationAddress(a.label(), a.fullName(), a.line1(), a.line2(), a.city(), a.region(), a.postalCode(), a.country());
+        }
+        SimulationAddress inline = request.address();
+        if (inline == null || isBlank(inline.fullName()) || isBlank(inline.line1()) || isBlank(inline.city())
+                || isBlank(inline.postalCode()) || isBlank(inline.country())) {
+            throw new ValidationException("simulationAddress", "Enter a name, street, city, postal code and country, or pick a saved address.");
+        }
+        return inline;
+    }
+
+    private static boolean isBlank(String s) {
+        return s == null || s.isBlank();
     }
 
     private record Requested(long productId, int quantity) {}
@@ -267,6 +296,7 @@ public class PurchaseService {
     private static String requestHash(PlaceRequest r) {
         String canonical = String.join("|",
                 String.valueOf(r.preset()),
+                String.valueOf(r.addressId()),
                 r.address() == null ? "" : r.address().toString(),
                 r.instant() == null ? "cart" : r.instant().productId() + "x" + r.instant().quantity());
         return Tokens.sha256(canonical);

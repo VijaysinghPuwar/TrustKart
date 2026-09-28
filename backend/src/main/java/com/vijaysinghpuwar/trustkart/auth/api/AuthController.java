@@ -8,6 +8,8 @@ import com.vijaysinghpuwar.trustkart.security.AuthenticatedUser;
 import com.vijaysinghpuwar.trustkart.security.ClientInfo;
 import com.vijaysinghpuwar.trustkart.shopper.ShopperService;
 import io.swagger.v3.oas.annotations.Operation;
+import org.springframework.beans.factory.ObjectProvider;
+import org.springframework.security.oauth2.client.registration.ClientRegistrationRepository;
 import io.swagger.v3.oas.annotations.tags.Tag;
 import jakarta.servlet.http.HttpServletRequest;
 import jakarta.servlet.http.HttpServletResponse;
@@ -41,11 +43,22 @@ class AuthController {
     private final AuthService auth;
     private final ShopperService shoppers;
     private final AuthCookies cookies;
+    private final boolean googleEnabled;
 
-    AuthController(AuthService auth, ShopperService shoppers, AuthCookies cookies) {
+    AuthController(AuthService auth, ShopperService shoppers, AuthCookies cookies,
+            ObjectProvider<ClientRegistrationRepository> registrations) {
         this.auth = auth;
         this.shoppers = shoppers;
         this.cookies = cookies;
+        this.googleEnabled = registrations.getIfAvailable() != null;
+    }
+
+    record Providers(boolean google) {}
+
+    @GetMapping("/providers")
+    @Operation(summary = "Which external sign-in providers are configured in this environment")
+    Providers providers() {
+        return new Providers(googleEnabled);
     }
 
     @GetMapping("/csrf")

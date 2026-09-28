@@ -34,7 +34,7 @@ class PurchaseController {
 
     record Instant(@NotNull @Positive Long productId, @NotNull @Min(1) @Max(10) Integer quantity) {}
 
-    record PlaceBody(@NotNull DeliveryPreset deliveryPreset, @Valid SimulationAddress simulationAddress,
+    record PlaceBody(@NotNull DeliveryPreset deliveryPreset, @Valid SimulationAddress simulationAddress, UUID addressId,
             @Pattern(regexp = "\\d{1,13}(\\.\\d{1,2})?") String expectedTotal, @Valid Instant instant) {}
 
     private final PurchaseService purchases;
@@ -64,7 +64,8 @@ class PurchaseController {
         PurchaseService.InstantLine instant = body.instant() == null ? null
                 : new PurchaseService.InstantLine(body.instant().productId(), body.instant().quantity());
         return purchases.place(shoppers.currentOrCreate(request, response).getId(),
-                new PurchaseService.PlaceRequest(body.deliveryPreset(), body.simulationAddress(), body.expectedTotal(), instant),
+                new PurchaseService.PlaceRequest(body.deliveryPreset(), body.simulationAddress(), body.addressId(),
+                        body.expectedTotal(), instant),
                 idempotencyKey);
     }
 

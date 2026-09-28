@@ -173,7 +173,8 @@ public class AuthService {
         });
     }
 
-    private Issued startSession(AppUser user, ClientInfo client, Instant now) {
+    /** Creates a device session for an already-authenticated user (password or federated sign-in). */
+    Issued startSession(AppUser user, ClientInfo client, Instant now) {
         UUID sessionId = UUID.randomUUID();
         String secret = Tokens.random();
         sessions.save(new UserSession(sessionId, user.getId(), Tokens.sha256(secret), now, now.plus(props.refreshTokenTtl()),

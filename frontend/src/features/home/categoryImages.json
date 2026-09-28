@@ -1,0 +1,68 @@
+{
+  "computers": {
+    "src": "/images/categories/computers-400.webp",
+    "width": 800,
+    "height": 534,
+    "alt": "Black mid-tower desktop PC case with glass front panel and three fans"
+  },
+  "laptops": {
+    "src": "/images/categories/laptops-400.webp",
+    "width": 800,
+    "height": 800,
+    "alt": "Open Apple MacBook Air laptop in Midnight finish on a wooden table"
+  },
+  "components": {
+    "src": "/images/categories/components-400.webp",
+    "width": 800,
+    "height": 665,
+    "alt": "ASUS ROG Strix ATX motherboard viewed from above"
+  },
+  "servers": {
+    "src": "/images/categories/servers-400.webp",
+    "width": 600,
+    "height": 800,
+    "alt": "Server rack holding several rack-mounted servers"
+  },
+  "networking": {
+    "src": "/images/categories/networking-400.webp",
+    "width": 800,
+    "height": 532,
+    "alt": "Rack network switches with blue and grey Ethernet cables plugged in"
+  },
+  "storage": {
+    "src": "/images/categories/storage-400.webp",
+    "width": 800,
+    "height": 534,
+    "alt": "White Synology DiskStation two-bay NAS on a wooden table"
+  },
+  "printers": {
+    "src": "/images/categories/printers-400.webp",
+    "width": 800,
+    "height": 573,
+    "alt": "White Epson EcoTank ET-3760 all-in-one inkjet printer"
+  },
+  "monitors": {
+    "src": "/images/categories/monitors-400.webp",
+    "width": 800,
+    "height": 534,
+    "alt": "Two computer monitors on a wooden desk with a potted plant"
+  },
+  "peripherals": {
+    "src": "/images/categories/peripherals-400.webp",
+    "width": 800,
+    "height": 534,
+    "alt": "Wireless keyboard on a wooden stand and a white mouse on a leather mouse pad"
+  },
+  "security-power": {
+    "src": "/images/categories/security-power-400.webp",
+    "width": 800,
+    "height": 572,
+    "alt": "Two white Axis IP dome security cameras with an Ethernet cable"
+  },
+  "more-tech": {
+    "src": "/images/categories/tablets-more-400.webp",
+    "width": 800,
+    "height": 534,
+    "alt": "White Meta Quest 3 VR headset with its two controllers on a table"
+  }
+}

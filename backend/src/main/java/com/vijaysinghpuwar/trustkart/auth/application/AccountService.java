@@ -25,12 +25,12 @@ import org.springframework.transaction.annotation.Transactional;
 @Service
 public class AccountService {
 
-    public record Profile(UUID id, String email, String displayName, boolean emailVerified, Instant memberSince,
-            Instant passwordChangedAt, List<String> roles, List<String> permissions) {}
+    public record Profile(UUID id, String email, String displayName, boolean emailVerified, String avatarUrl, Instant memberSince,
+            Instant passwordChangedAt, List<String> roles, List<String> permissions, List<String> linkedProviders) {}
 
     public record SessionView(UUID id, String device, String ipAddress, Instant createdAt, Instant lastUsedAt, boolean current) {}
 
-    public record LoginEventView(long id, String outcome, String ipAddress, String device, Instant at) {}
+    public record LoginEventView(long id, String outcome, String method, String ipAddress, String device, Instant at) {}
 
     private final AppUserRepository users;
     private final UserSessionRepository sessions;
@@ -54,8 +54,9 @@ public class AccountService {
     @Transactional(readOnly = true)
     public Profile profile(AuthenticatedUser me) {
         AppUser user = users.findById(me.userId()).orElseThrow(() -> new NotFoundException("Account"));
-        return new Profile(user.getPublicId(), user.getEmail(), user.getDisplayName(), user.isEmailVerified(),
-                user.getCreatedAt(), user.getPasswordChangedAt(), authJdbc.roles(user.getId()), authJdbc.permissions(user.getId()));
+        return new Profile(user.getPublicId(), user.getEmail(), user.getDisplayName(), user.isEmailVerified(), user.getAvatarUrl(),
+                user.getCreatedAt(), user.getPasswordChangedAt(), authJdbc.roles(user.getId()), authJdbc.permissions(user.getId()),
+                authJdbc.linkedProviders(user.getId()));
     }
 
     @Transactional(readOnly = true)
@@ -90,7 +91,7 @@ public class AccountService {
     @Transactional(readOnly = true)
     public List<LoginEventView> loginHistory(AuthenticatedUser me) {
         return authJdbc.recentLogins(me.userId(), 50).stream()
-                .map(e -> new LoginEventView(e.id(), e.outcome(), e.ipAddress(), new ClientInfo(e.ipAddress(), e.userAgent()).deviceLabel(),
+                .map(e -> new LoginEventView(e.id(), e.outcome(), e.method(), e.ipAddress(), new ClientInfo(e.ipAddress(), e.userAgent()).deviceLabel(),
                         e.createdAt()))
                 .toList();
     }

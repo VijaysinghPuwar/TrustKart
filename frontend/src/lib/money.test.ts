@@ -1,4 +1,4 @@
-import { formatMoney, formatMoneyWhole, percentOff } from './money'
+import { formatMoney, formatMoneyWhole, fromCents, percentOff, subtractMoney, toCents } from './money'
 
 describe('formatMoney', () => {
   it('formats decimal strings as USD with cents', () => {
@@ -26,5 +26,18 @@ describe('percentOff', () => {
   it('returns 0 when there is no real discount', () => {
     expect(percentOff('100.00', '100.00')).toBe(0)
     expect(percentOff('100.00', '90.00')).toBe(0)
+  })
+})
+
+describe('exact cents arithmetic', () => {
+  it('subtracts without floating point error', () => {
+    expect(subtractMoney('100000.00', '99.99')).toBe('99900.01')
+    expect(subtractMoney('0.30', '0.10')).toBe('0.20')
+    expect(subtractMoney('10.00', '12000.00')).toBe('-11990.00')
+  })
+
+  it('round-trips large amounts', () => {
+    expect(fromCents(toCents('1000000000000.00'))).toBe('1000000000000.00')
+    expect(fromCents(toCents('1799.9'))).toBe('1799.90')
   })
 })

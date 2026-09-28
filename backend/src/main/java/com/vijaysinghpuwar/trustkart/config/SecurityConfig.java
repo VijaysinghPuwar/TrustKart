@@ -5,6 +5,12 @@ import com.vijaysinghpuwar.trustkart.common.web.JsonErrorWriter;
 import com.vijaysinghpuwar.trustkart.security.CookieJwtAuthenticationFilter;
 import com.vijaysinghpuwar.trustkart.security.RateLimitFilter;
 import com.vijaysinghpuwar.trustkart.security.RateLimiter;
+import com.vijaysinghpuwar.trustkart.security.AuthProperties;
+import com.vijaysinghpuwar.trustkart.security.oauth.OAuthHandlers;
+import com.vijaysinghpuwar.trustkart.security.oauth.RedisAuthorizationRequestRepository;
+import org.springframework.beans.factory.ObjectProvider;
+import org.springframework.data.redis.core.StringRedisTemplate;
+import org.springframework.security.oauth2.client.registration.ClientRegistrationRepository;
 import java.util.List;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
@@ -48,7 +54,20 @@ class SecurityConfig {
     @Bean
     @Order(2)
     SecurityFilterChain apiChain(HttpSecurity http, JsonErrorWriter errorWriter, RateLimiter rateLimiter,
-            JwtDecoder jwtDecoder, JwtAuthenticationConverter jwtConverter) throws Exception {
+            JwtDecoder jwtDecoder, JwtAuthenticationConverter jwtConverter,
+            ObjectProvider<ClientRegistrationRepository> googleRegistrations, OAuthHandlers oauthHandlers,
+            StringRedisTemplate redis, AuthProperties authProperties) throws Exception {
+        if (googleRegistrations.getIfAvailable() != null) {
+            // Sign in with Google (OIDC authorization code flow). Spring validates state, nonce and the ID token;
+            // OAuthHandlers then issues TrustKart's own cookie session.
+            http.oauth2Login(o -> o
+                    .loginPage("/signin")
+                    .authorizationEndpoint(a -> a.baseUri("/api/v1/auth/oauth2/authorization")
+                            .authorizationRequestRepository(new RedisAuthorizationRequestRepository(redis, authProperties)))
+                    .redirectionEndpoint(r -> r.baseUri("/api/v1/auth/oauth2/callback/*"))
+                    .successHandler(oauthHandlers)
+                    .failureHandler(oauthHandlers));
+        }
         http.sessionManagement(s -> s.sessionCreationPolicy(SessionCreationPolicy.STATELESS))
                 .cors(cors -> {})
                 // Auth travels in cookies, so CSRF protection stays on: the SPA echoes the XSRF-TOKEN cookie
@@ -72,12 +91,13 @@ class SecurityConfig {
                 .authorizeHttpRequests(a -> a
                         .requestMatchers("/actuator/health", "/actuator/health/**", "/actuator/info").permitAll()
                         .requestMatchers(HttpMethod.GET, "/api/v1/catalog/**", "/api/v1/search/**").permitAll()
-                        .requestMatchers(HttpMethod.GET, "/api/v1/auth/csrf", "/api/v1/me").permitAll()
+                        .requestMatchers(HttpMethod.GET, "/api/v1/auth/csrf", "/api/v1/auth/providers", "/api/v1/me").permitAll()
+                        .requestMatchers(HttpMethod.GET, "/api/v1/auth/oauth2/**").permitAll()
                         .requestMatchers(HttpMethod.POST, "/api/v1/auth/register", "/api/v1/auth/login",
                                 "/api/v1/auth/refresh", "/api/v1/auth/logout").permitAll()
                         // Guests shop too: these resolve the owner from the session or the guest cookie.
                         .requestMatchers("/api/v1/cart/**", "/api/v1/wishlist/**", "/api/v1/wallet/**",
-                                "/api/v1/checkout/**", "/api/v1/purchases/**", "/api/v1/collection/**").permitAll()
+                                "/api/v1/checkout/**", "/api/v1/purchases/**", "/api/v1/collection/**", "/api/v1/addresses/**").permitAll()
                         .requestMatchers("/api/v1/me/**").authenticated()
                         .requestMatchers("/api/v1/admin/**").authenticated()
                         .requestMatchers("/error").permitAll()

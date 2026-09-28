@@ -11,7 +11,7 @@ import org.springframework.stereotype.Repository;
 @Repository
 public class AuthJdbcRepository {
 
-    public record LoginEventRow(long id, String outcome, String ipAddress, String userAgent, Instant createdAt) {}
+    public record LoginEventRow(long id, String outcome, String method, String ipAddress, String userAgent, Instant createdAt) {}
 
     private final JdbcClient jdbc;
 
@@ -33,6 +33,10 @@ public class AuthJdbcRepository {
                 .param("u", userId).query(String.class).list();
     }
 
+    public List<String> linkedProviders(long userId) {
+        return jdbc.sql("SELECT provider FROM user_identity WHERE user_id = :u ORDER BY provider").param("u", userId).query(String.class).list();
+    }
+
     public void assignRole(long userId, String role) {
         jdbc.sql("""
                         INSERT INTO user_role (user_id, role_id) SELECT :u, id FROM role WHERE name = :r
@@ -41,20 +45,25 @@ public class AuthJdbcRepository {
     }
 
     public void recordLogin(Long userId, String emailHash, LoginOutcome outcome, String ip, String userAgent, UUID sessionId) {
+        recordLogin(userId, emailHash, outcome, ip, userAgent, sessionId, "PASSWORD");
+    }
+
+    public void recordLogin(Long userId, String emailHash, LoginOutcome outcome, String ip, String userAgent, UUID sessionId,
+            String method) {
         jdbc.sql("""
-                        INSERT INTO login_event (user_id, email_hash, outcome, ip_address, user_agent, session_id)
-                        VALUES (:u, :h, :o, :ip, :ua, :sid)""")
+                        INSERT INTO login_event (user_id, email_hash, outcome, ip_address, user_agent, session_id, method)
+                        VALUES (:u, :h, :o, :ip, :ua, :sid, :m)""")
                 .param("u", userId).param("h", emailHash).param("o", outcome.name())
-                .param("ip", ip).param("ua", userAgent).param("sid", sessionId)
+                .param("ip", ip).param("ua", userAgent).param("sid", sessionId).param("m", method)
                 .update();
     }
 
     public List<LoginEventRow> recentLogins(long userId, int limit) {
         return jdbc.sql("""
-                        SELECT id, outcome, ip_address, user_agent, created_at FROM login_event
+                        SELECT id, outcome, method, ip_address, user_agent, created_at FROM login_event
                         WHERE user_id = :u ORDER BY created_at DESC LIMIT :n""")
                 .param("u", userId).param("n", limit)
-                .query((rs, i) -> new LoginEventRow(rs.getLong("id"), rs.getString("outcome"), rs.getString("ip_address"),
+                .query((rs, i) -> new LoginEventRow(rs.getLong("id"), rs.getString("outcome"), rs.getString("method"), rs.getString("ip_address"),
                         rs.getString("user_agent"), rs.getTimestamp("created_at").toInstant()))
                 .list();
     }

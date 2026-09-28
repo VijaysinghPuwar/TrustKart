@@ -54,6 +54,9 @@ public class AppUser {
     @Column(name = "last_login_at")
     private Instant lastLoginAt;
 
+    @Column(name = "avatar_url")
+    private String avatarUrl;
+
     @Column(name = "created_at", nullable = false, updatable = false)
     private Instant createdAt;
 
@@ -99,6 +102,19 @@ public class AppUser {
         failedLoginCount = 0;
         lockedUntil = null;
         lastLoginAt = now;
+    }
+
+    public void markEmailVerified() {
+        this.emailVerified = true;
+    }
+
+    /** Only https URLs are kept (enforced here and by a CHECK constraint), so a profile can't inject other schemes. */
+    public void updateAvatar(String url) {
+        this.avatarUrl = url != null && url.startsWith("https://") && url.length() <= 500 ? url : null;
+    }
+
+    public String getAvatarUrl() {
+        return avatarUrl;
     }
 
     public void changePassword(String newHash, Instant now) {
