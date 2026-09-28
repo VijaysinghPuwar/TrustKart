@@ -1,0 +1,110 @@
+{
+  "computers": {
+    "src": "/images/catalog/categories/computers-400.webp",
+    "width": 400,
+    "height": 300,
+    "alt": "Alienware Area-51 gaming desktop tower"
+  },
+  "laptops": {
+    "src": "/images/catalog/categories/laptops-400.webp",
+    "width": 400,
+    "height": 300,
+    "alt": "Apple MacBook Pro 14-inch laptop, open"
+  },
+  "components": {
+    "src": "/images/catalog/categories/components-400.webp",
+    "width": 400,
+    "height": 300,
+    "alt": "ASUS ROG Astral GeForce RTX 5090 graphics card"
+  },
+  "servers": {
+    "src": "/images/catalog/categories/servers-400.webp",
+    "width": 400,
+    "height": 300,
+    "alt": "Dell PowerEdge R770 rack server"
+  },
+  "networking": {
+    "src": "/images/catalog/categories/networking-400.webp",
+    "width": 400,
+    "height": 300,
+    "alt": "Ubiquiti UniFi Dream Machine rack gateway"
+  },
+  "storage": {
+    "src": "/images/catalog/categories/storage-400.webp",
+    "width": 400,
+    "height": 300,
+    "alt": "Synology DiskStation 8-bay NAS"
+  },
+  "printers": {
+    "src": "/images/catalog/categories/printers-400.webp",
+    "width": 400,
+    "height": 300,
+    "alt": "Brother color laser multifunction printer"
+  },
+  "monitors": {
+    "src": "/images/catalog/categories/monitors-400.webp",
+    "width": 400,
+    "height": 300,
+    "alt": "Dell UltraSharp 27-inch 4K monitor"
+  },
+  "peripherals": {
+    "src": "/images/catalog/categories/peripherals-400.webp",
+    "width": 400,
+    "height": 300,
+    "alt": "Logitech MX Master 4 wireless mouse"
+  },
+  "security-power": {
+    "src": "/images/catalog/categories/security-power-400.webp",
+    "width": 400,
+    "height": 300,
+    "alt": "CyberPower rackmount UPS battery backup"
+  },
+  "more-tech": {
+    "src": "/images/catalog/categories/more-tech-400.webp",
+    "width": 400,
+    "height": 300,
+    "alt": "Apple iPad Air tablet"
+  },
+  "phones": {
+    "src": "/images/catalog/categories/phones-400.webp",
+    "width": 400,
+    "height": 300,
+    "alt": "Apple iPhone 18 Pro, front and back"
+  },
+  "wearables": {
+    "src": "/images/catalog/categories/wearables-400.webp",
+    "width": 400,
+    "height": 300,
+    "alt": "Apple Watch Ultra smartwatches"
+  },
+  "audio": {
+    "src": "/images/catalog/categories/audio-400.webp",
+    "width": 400,
+    "height": 300,
+    "alt": "Bose QuietComfort Ultra headphones"
+  },
+  "tvs": {
+    "src": "/images/catalog/categories/tvs-400.webp",
+    "width": 400,
+    "height": 300,
+    "alt": "LG OLED evo G6 television"
+  },
+  "cameras-drones": {
+    "src": "/images/catalog/categories/cameras-drones-400.webp",
+    "width": 400,
+    "height": 300,
+    "alt": "Nikon Z8 mirrorless camera"
+  },
+  "gaming": {
+    "src": "/images/catalog/categories/gaming-400.webp",
+    "width": 400,
+    "height": 300,
+    "alt": "Sony PlayStation 5 Pro console"
+  },
+  "smart-home": {
+    "src": "/images/catalog/categories/smart-home-400.webp",
+    "width": 400,
+    "height": 300,
+    "alt": "Google Nest Learning Thermostat"
+  }
+}

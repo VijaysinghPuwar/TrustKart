@@ -1,0 +1,2203 @@
+{
+ "products": [
+  {
+   "sku": "TK-GOOGLE-PIXEL11",
+   "slug": "google-pixel-11",
+   "name": "Google Pixel 11",
+   "brand": "Google",
+   "category": "smartphones",
+   "price": "899.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    47,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "pixel-google"
+   ],
+   "summary": "Google Pixel 11 with Tensor G6, a 6.3-inch 120 Hz Actua display, 48 MP triple camera with 5x telephoto and 12 GB RAM.",
+   "description": "Google Pixel 11 is powered by the Google Tensor G6 chip with the Titan M3 security coprocessor. It has a 6.3-inch Actua OLED display up to 3,000 nits peak, a triple rear camera with a 48 MP wide, 13 MP ultrawide and 10.8 MP 5x telephoto, and Super Zoom up to 30x. Google quotes 30+ hour battery life, Pixelsnap Qi2.2 wireless charging up to 25W and 7 years of OS, security and Pixel Drop updates.",
+   "keywords": "pixel 11 tensor g6 android 17 gemini pixelsnap google phone",
+   "specs": {
+    "chip": "Google Tensor G6 (Titan M3 security coprocessor)",
+    "storageGb": 256,
+    "ramGb": 12,
+    "displayIn": 6.3,
+    "display": "6.3-inch Actua OLED, 1080 x 2424, 422 PPI, 60-120 Hz, up to 3000 nits peak",
+    "rearCamera": "48 MP wide + 13 MP ultrawide + 10.8 MP 5x telephoto, Super Zoom up to 30x",
+    "frontCamera": "10.5 MP Dual PD with autofocus",
+    "battery": "Typical 4985 mAh, 30+ hour battery life",
+    "charging": "Up to 55% in ~30 min with 30W USB-C PPS; Pixelsnap Qi2.2 wireless up to 25W",
+    "connectivity": "5G (Sub-6 and mmWave), Wi-Fi 6E, Bluetooth 6, NFC, dual eSIM",
+    "durability": "IP68, Gorilla Glass Victus 2 front and back, aluminum frame",
+    "os": "Android 17",
+    "weightG": 196,
+    "dimensions": "6 x 2.8 x 0.3 in",
+    "configurations": "256 GB / 12 GB RAM – $899 · 512 GB / 12 GB RAM – $1,019",
+    "colors": "Frost, Hibiscus, Pistachio, Obsidian"
+   },
+   "options": [
+    {
+     "name": "Storage",
+     "values": [
+      {
+       "label": "256 GB / 12 GB RAM",
+       "price": "899.00",
+       "default": true
+      },
+      {
+       "label": "512 GB / 12 GB RAM",
+       "price": "1019.00"
+      }
+     ]
+    },
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Frost",
+       "default": true
+      },
+      {
+       "label": "Hibiscus"
+      },
+      {
+       "label": "Pistachio"
+      },
+      {
+       "label": "Obsidian"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "sku": "TK-GOOGLE-PIXEL11PRO",
+   "slug": "google-pixel-11-pro",
+   "name": "Google Pixel 11 Pro",
+   "brand": "Google",
+   "category": "smartphones",
+   "price": "1099.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    13,
+    5
+   ],
+   "featured": true,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "pixel-google"
+   ],
+   "summary": "Google Pixel 11 Pro with Tensor G6, a 6.3-inch LTPO Super Actua display, 50 MP pro triple camera and Pro Zoom up to 120x.",
+   "description": "Pixel 11 Pro pairs Google Tensor G6 with a 6.3-inch Super Actua LTPO OLED display (1-120 Hz, up to 3,600 nits peak). The pro triple camera combines a 50 MP wide, 48 MP ultrawide and 48 MP 5x telephoto with Pro Zoom up to 120x, plus a 42 MP selfie camera. It supports Wi-Fi 7, Pixelsnap Qi2.2 wireless charging up to 25W and 7 years of updates.",
+   "keywords": "pixel 11 pro tensor g6 pro zoom 120x android 17 google flagship",
+   "specs": {
+    "chip": "Google Tensor G6 (Titan M3 security coprocessor)",
+    "storageGb": 256,
+    "ramGb": 12,
+    "rearCamera": "50 MP wide + 48 MP ultrawide + 48 MP 5x telephoto, Pro Zoom up to 120x",
+    "frontCamera": "42 MP Dual PD with autofocus",
+    "connectivity": "5G, Wi-Fi 7, Bluetooth 6, NFC",
+    "durability": "IP68, Gorilla Glass Victus 2 with anti-scratch shield, aluminum frame",
+    "os": "Android 17",
+    "displayIn": 6.3,
+    "display": "6.3-inch Super Actua LTPO OLED, 1280 x 2856, 495 PPI, 1-120 Hz, up to 3600 nits peak",
+    "battery": "Typical 4850 mAh, 30+ hour battery life",
+    "charging": "Up to 55% in ~30 min with 30W USB-C PPS; Pixelsnap Qi2.2 wireless up to 25W",
+    "weightG": 204,
+    "dimensions": "6 x 2.8 x 0.3 in",
+    "configurations": "256 GB / 12 GB RAM – $1,099 · 512 GB / 16 GB RAM – $1,219 · 1 TB / 16 GB RAM – $1,449",
+    "colors": "Canyon, Olive, Fog, Obsidian (Matte)"
+   },
+   "options": [
+    {
+     "name": "Storage",
+     "values": [
+      {
+       "label": "256 GB / 12 GB RAM",
+       "price": "1099.00",
+       "default": true
+      },
+      {
+       "label": "512 GB / 16 GB RAM",
+       "price": "1219.00"
+      },
+      {
+       "label": "1 TB / 16 GB RAM",
+       "price": "1449.00"
+      }
+     ]
+    },
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Canyon",
+       "default": true
+      },
+      {
+       "label": "Olive"
+      },
+      {
+       "label": "Fog"
+      },
+      {
+       "label": "Obsidian (Matte)"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "sku": "TK-GOOGLE-PIXEL11PROXL",
+   "slug": "google-pixel-11-pro-xl",
+   "name": "Google Pixel 11 Pro XL",
+   "brand": "Google",
+   "category": "smartphones",
+   "price": "1299.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    45,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "pixel-google"
+   ],
+   "summary": "Google Pixel 11 Pro XL with Tensor G6, a 6.8-inch LTPO Super Actua display, 5115 mAh battery and 45W fast charging.",
+   "description": "Pixel 11 Pro XL is the larger Pixel 11 Pro, with a 6.8-inch Super Actua LTPO OLED display (1344 x 2992, 1-120 Hz). It shares the Tensor G6 chip and pro triple camera (50 MP wide, 48 MP ultrawide, 48 MP 5x telephoto, Pro Zoom up to 120x) and adds a typical 5115 mAh battery that reaches up to 75% in about 30 minutes with a 45W charger.",
+   "keywords": "pixel 11 pro xl tensor g6 large screen android 17 google flagship",
+   "specs": {
+    "chip": "Google Tensor G6 (Titan M3 security coprocessor)",
+    "storageGb": 256,
+    "ramGb": 12,
+    "rearCamera": "50 MP wide + 48 MP ultrawide + 48 MP 5x telephoto, Pro Zoom up to 120x",
+    "frontCamera": "42 MP Dual PD with autofocus",
+    "connectivity": "5G, Wi-Fi 7, Bluetooth 6, NFC",
+    "durability": "IP68, Gorilla Glass Victus 2 with anti-scratch shield, aluminum frame",
+    "os": "Android 17",
+    "displayIn": 6.8,
+    "display": "6.8-inch Super Actua LTPO OLED, 1344 x 2992, 486 PPI, 1-120 Hz, up to 3600 nits peak",
+    "battery": "Typical 5115 mAh, 30+ hour battery life",
+    "charging": "Up to 75% in ~30 min with 45W USB-C PPS; Pixelsnap Qi2.2 wireless up to 25W",
+    "weightG": 227,
+    "dimensions": "6.4 x 3 x 0.3 in",
+    "configurations": "256 GB / 12 GB RAM – $1,299 · 512 GB / 16 GB RAM · 1 TB / 16 GB RAM",
+    "colors": "Canyon, Olive, Fog, Obsidian (Matte)"
+   },
+   "options": [
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Canyon",
+       "default": true
+      },
+      {
+       "label": "Olive"
+      },
+      {
+       "label": "Fog"
+      },
+      {
+       "label": "Obsidian (Matte)"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "sku": "TK-GOOGLE-PIXEL11PROFOLD",
+   "slug": "google-pixel-11-pro-fold",
+   "name": "Google Pixel 11 Pro Fold",
+   "brand": "Google",
+   "category": "foldables",
+   "price": "1899.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    10,
+    5
+   ],
+   "featured": true,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "pixel-google"
+   ],
+   "summary": "Google Pixel 11 Pro Fold with Tensor G6, an 8-inch Super Actua Flex inner display, 6.5-inch cover screen and 16 GB RAM.",
+   "description": "Pixel 11 Pro Fold unfolds to an 8-inch Super Actua Flex OLED display and has a 6.5-inch Super Actua cover display, both 1-120 Hz. It runs on Google Tensor G6 with 16 GB RAM, uses an advanced triple camera (48 MP wide, 10.5 MP ultrawide, 10.8 MP 5x telephoto) and is rated IP68.",
+   "keywords": "pixel fold foldable 11 pro fold tensor g6 android 17",
+   "specs": {
+    "chip": "Google Tensor G6 (Titan M3 security coprocessor)",
+    "storageGb": 256,
+    "ramGb": 16,
+    "displayIn": 8,
+    "display": "8-inch Super Actua Flex OLED, 2076 x 2152, 1-120 Hz, up to 3600 nits peak",
+    "coverDisplay": "6.5-inch Super Actua OLED, 1080 x 2342, 1-120 Hz",
+    "rearCamera": "48 MP wide + 10.5 MP ultrawide + 10.8 MP 5x telephoto, Super Zoom up to 30x",
+    "frontCamera": "10 MP Dual PD selfie camera",
+    "battery": "Typical 4806 mAh, 24+ hour battery life",
+    "charging": "Up to 50% in ~30 min with 30W USB-C PPS; Pixelsnap Qi2.2 wireless up to 25W",
+    "connectivity": "5G (Sub-6 and mmWave), Wi-Fi 7, Bluetooth 6, NFC",
+    "durability": "IP68, glass ceramic cover glass, aluminum frame",
+    "os": "Android 17",
+    "weightG": 238,
+    "dimensions": "Folded 6.1 x 3 x 0.4 in; unfolded 6.1 x 5.9 x 0.2 in",
+    "configurations": "256 GB / 16 GB RAM – $1,899 · 512 GB / 16 GB RAM – $2,019 · 1 TB / 16 GB RAM – $2,249",
+    "colors": "Olive, Obsidian"
+   },
+   "options": [
+    {
+     "name": "Storage",
+     "values": [
+      {
+       "label": "256 GB / 16 GB RAM",
+       "price": "1899.00",
+       "default": true
+      },
+      {
+       "label": "512 GB / 16 GB RAM",
+       "price": "2019.00"
+      },
+      {
+       "label": "1 TB / 16 GB RAM",
+       "price": "2249.00"
+      }
+     ]
+    },
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Olive",
+       "default": true
+      },
+      {
+       "label": "Obsidian"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "sku": "TK-GOOGLE-PIXEL10A",
+   "slug": "google-pixel-10a",
+   "name": "Google Pixel 10a",
+   "brand": "Google",
+   "category": "smartphones",
+   "price": "499.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    20,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "pixel-google",
+    "deals"
+   ],
+   "summary": "Google Pixel 10a with Tensor G4, a 6.3-inch 120 Hz Actua pOLED display, 48 MP dual camera and 5100 mAh battery.",
+   "description": "Pixel 10a is Google's most affordable current Pixel, with a 6.3-inch Actua pOLED display (60-120 Hz, up to 3,000 nits peak), Google Tensor G4 with Titan M2 and 8 GB RAM. It has a 48 MP wide plus 13 MP ultrawide camera, a typical 5100 mAh battery with 45W fast charging support, and IP68 protection.",
+   "keywords": "pixel 10a budget pixel a-series tensor g4",
+   "specs": {
+    "chip": "Google Tensor G4 (Titan M2 security coprocessor)",
+    "storageGb": 128,
+    "ramGb": 8,
+    "displayIn": 6.3,
+    "display": "6.3-inch Actua pOLED, 1080 x 2424, 60-120 Hz, up to 3000 nits peak",
+    "rearCamera": "48 MP wide + 13 MP ultrawide, Super Zoom up to 8x",
+    "frontCamera": "13 MP",
+    "battery": "Typical 5100 mAh, 30+ hour battery life",
+    "charging": "Up to 50% in ~30 min with 45W USB-C PPS; Qi wireless charging",
+    "connectivity": "5G, Wi-Fi 6E, Bluetooth 6, NFC",
+    "durability": "IP68, Gorilla Glass 7i",
+    "os": "Android 16",
+    "weightG": 184,
+    "dimensions": "6.1 x 2.9 x 0.4 in",
+    "configurations": "128 GB / 8 GB RAM – $499 · 256 GB / 8 GB RAM",
+    "colors": "Lavender, Berry, Fog, Obsidian"
+   },
+   "options": [
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Lavender",
+       "default": true
+      },
+      {
+       "label": "Berry"
+      },
+      {
+       "label": "Fog"
+      },
+      {
+       "label": "Obsidian"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "sku": "TK-GOOGLE-PIXELWATCH5-41",
+   "slug": "google-pixel-watch-5-41mm",
+   "name": "Google Pixel Watch 5 (41mm)",
+   "brand": "Google",
+   "category": "smartwatches",
+   "price": "399.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    52,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "pixel-google"
+   ],
+   "summary": "Google Pixel Watch 5 in 41mm with an Actua 360 display, Snapdragon W5 Gen 2, ECG, UWB and up to 30 hours of battery with AOD.",
+   "description": "Google Pixel Watch 5 has an Actua 360 AMOLED LTPO display (up to 3,000 nits) under custom 3D Gorilla Glass 5, a Qualcomm Snapdragon W5 Gen 2 with Cortex-M55 co-processor, 64 GB storage and Wear OS 7.0. Health sensors include ECG, SpO2, multi-path heart rate, skin temperature and cEDA, and it adds UWB, dual-frequency GPS and satellite SOS.",
+   "keywords": "pixel watch 5 wear os smartwatch 41mm fitbit",
+   "specs": {
+    "chip": "Qualcomm Snapdragon W5 Gen 2 + Cortex-M55 co-processor",
+    "display": "Actua 360 AMOLED LTPO, 320 ppi, 1-60 Hz, up to 3000 nits, always-on",
+    "waterResistance": "5 ATM",
+    "health": "ECG, SpO2, multi-path optical heart rate, skin temperature, cEDA body response",
+    "connectivity": "Bluetooth 6.0, Wi-Fi 6, NFC, UWB, dual-frequency GPS, satellite SOS (LTE models add 4G LTE)",
+    "compatibility": "Android 12.0 or newer; requires Google Account and Pixel Watch app",
+    "caseSizes": "41mm",
+    "battery": "332 mAh; up to 30 hours with AOD, up to 48 hours with Battery Saver",
+    "weightG": 31,
+    "configurations": "41mm Bluetooth/Wi-Fi – $399.99 · 41mm 4G LTE – $499.99",
+    "colors": "Polished Silver Aluminum / Fog, Champagne Gold Aluminum / Canyon, Satin Pyrite Aluminum / Olive, Matte Black Aluminum / Obsidian"
+   },
+   "options": [
+    {
+     "name": "Configuration",
+     "values": [
+      {
+       "label": "41mm Bluetooth/Wi-Fi",
+       "price": "399.99",
+       "default": true
+      },
+      {
+       "label": "41mm 4G LTE",
+       "price": "499.99"
+      }
+     ]
+    },
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Polished Silver Aluminum / Fog",
+       "default": true
+      },
+      {
+       "label": "Champagne Gold Aluminum / Canyon"
+      },
+      {
+       "label": "Satin Pyrite Aluminum / Olive"
+      },
+      {
+       "label": "Matte Black Aluminum / Obsidian"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "sku": "TK-GOOGLE-PIXELWATCH5-45",
+   "slug": "google-pixel-watch-5-45mm",
+   "name": "Google Pixel Watch 5 (45mm)",
+   "brand": "Google",
+   "category": "smartwatches",
+   "price": "429.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    37,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "pixel-google"
+   ],
+   "summary": "Google Pixel Watch 5 in 45mm with a larger Actua 360 display, 465 mAh battery (up to 40 hours with AOD) and Snapdragon W5 Gen 2.",
+   "description": "Google Pixel Watch 5 has an Actua 360 AMOLED LTPO display (up to 3,000 nits) under custom 3D Gorilla Glass 5, a Qualcomm Snapdragon W5 Gen 2 with Cortex-M55 co-processor, 64 GB storage and Wear OS 7.0. Health sensors include ECG, SpO2, multi-path heart rate, skin temperature and cEDA, and it adds UWB, dual-frequency GPS and satellite SOS. The 45mm model has a larger display and a 465 mAh battery rated up to 40 hours with always-on display.",
+   "keywords": "pixel watch 5 wear os smartwatch 45mm large",
+   "specs": {
+    "chip": "Qualcomm Snapdragon W5 Gen 2 + Cortex-M55 co-processor",
+    "display": "Actua 360 AMOLED LTPO, 320 ppi, 1-60 Hz, up to 3000 nits, always-on",
+    "waterResistance": "5 ATM",
+    "health": "ECG, SpO2, multi-path optical heart rate, skin temperature, cEDA body response",
+    "connectivity": "Bluetooth 6.0, Wi-Fi 6, NFC, UWB, dual-frequency GPS, satellite SOS (LTE models add 4G LTE)",
+    "compatibility": "Android 12.0 or newer; requires Google Account and Pixel Watch app",
+    "caseSizes": "45mm",
+    "battery": "465 mAh; up to 40 hours with AOD, up to 72 hours with Battery Saver",
+    "weightG": 36.7,
+    "configurations": "45mm Bluetooth/Wi-Fi – $429.99 · 45mm 4G LTE · 45mm Special Edition Stephen Curry (LTE) – $579.99",
+    "colors": "Polished Silver Aluminum / Fog, Champagne Gold Aluminum / Canyon, Satin Pyrite Aluminum / Olive, Matte Black Aluminum / Obsidian"
+   },
+   "options": [
+    {
+     "name": "Configuration",
+     "values": [
+      {
+       "label": "45mm Bluetooth/Wi-Fi",
+       "price": "429.99",
+       "default": true
+      },
+      {
+       "label": "45mm Special Edition Stephen Curry (LTE)",
+       "price": "579.99"
+      }
+     ]
+    },
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Polished Silver Aluminum / Fog",
+       "default": true
+      },
+      {
+       "label": "Champagne Gold Aluminum / Canyon"
+      },
+      {
+       "label": "Satin Pyrite Aluminum / Olive"
+      },
+      {
+       "label": "Matte Black Aluminum / Obsidian"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "sku": "TK-GOOGLE-PIXELBUDSPRO2",
+   "slug": "google-pixel-buds-pro-2",
+   "name": "Google Pixel Buds Pro 2",
+   "brand": "Google",
+   "category": "earbuds",
+   "price": "229.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    29,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "pixel-google"
+   ],
+   "summary": "Google Pixel Buds Pro 2 with the Tensor A1 chip, Silent Seal 2.0 active noise cancellation and up to 30 hours with the case (ANC on).",
+   "description": "Pixel Buds Pro 2 use the Google Tensor A1 chip and custom 11 mm dynamic drivers, with Active Noise Cancellation (Silent Seal 2.0), Transparency mode and Conversation Detection. Each bud weighs 4.7 g; the case supports Qi wireless charging and has a Find Hub speaker. Earbuds are IP54 and the case IPX4.",
+   "keywords": "pixel buds pro 2 anc earbuds tensor a1 google",
+   "specs": {
+    "connectivity": "Bluetooth",
+    "noiseCancelling": true,
+    "batteryHours": 8,
+    "drivers": "Custom 11 mm dynamic",
+    "waterResistance": "Earbuds IP54, case IPX4",
+    "weightG": 4.7,
+    "connectionDetails": "Bluetooth 5.4, Super Wideband",
+    "colors": "Porcelain, Olive, Peony, Hazel"
+   },
+   "options": [
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Porcelain",
+       "default": true
+      },
+      {
+       "label": "Olive"
+      },
+      {
+       "label": "Peony"
+      },
+      {
+       "label": "Hazel"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "sku": "TK-GOOGLE-PIXELBUDS2A",
+   "slug": "google-pixel-buds-2a",
+   "name": "Google Pixel Buds 2a",
+   "brand": "Google",
+   "category": "earbuds",
+   "price": "129.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    32,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "pixel-google"
+   ],
+   "summary": "Google Pixel Buds 2a with Tensor A1, Active Noise Cancellation (Silent Seal 1.5) and up to 20 hours with the case (ANC on).",
+   "description": "Pixel Buds 2a bring Active Noise Cancellation with Silent Seal 1.5, Transparency mode and Clear Calling, powered by Google Tensor A1 and custom 11 mm drivers. They offer up to 7 hours per charge with ANC on (10 hours off), IP54 earbuds and an IPX4 case.",
+   "keywords": "pixel buds 2a budget anc earbuds google",
+   "specs": {
+    "connectivity": "Bluetooth",
+    "noiseCancelling": true,
+    "batteryHours": 7,
+    "drivers": "Custom 11 mm dynamic",
+    "waterResistance": "Earbuds IP54, case IPX4",
+    "weightG": 4.7,
+    "connectionDetails": "Bluetooth 5.4, Super Wideband",
+    "colors": "Fog, Berry, Iris, Hazel"
+   },
+   "options": [
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Fog",
+       "default": true
+      },
+      {
+       "label": "Berry"
+      },
+      {
+       "label": "Iris"
+      },
+      {
+       "label": "Hazel"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "sku": "TK-GOOGLE-HOMESPEAKER",
+   "slug": "google-home-speaker",
+   "name": "Google Home Speaker",
+   "brand": "Google",
+   "category": "smart-speakers-displays",
+   "price": "99.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    59,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "pixel-google"
+   ],
+   "summary": "Google Home Speaker with Gemini for Home, 360-degree sound from a 58 mm driver, Wi-Fi 6 and a built-in Thread border router.",
+   "description": "Google Home Speaker is a smart speaker built for Gemini for Home, with omni-directional sound from a 58 mm full-range driver, three far-field microphones and a hardware mic mute switch. It connects over Wi-Fi 6 and Bluetooth 5.4, acts as a Thread 1.3 border router and a Matter hub for Google Home, and runs from a 30W USB-C PD adapter.",
+   "keywords": "google home speaker gemini smart speaker matter thread",
+   "specs": {
+    "ecosystem": "Google Home, Gemini for Home, Matter hub",
+    "connectivity": "Wi-Fi 6 (2.4/5 GHz), Bluetooth 5.4, Thread 1.3 border router",
+    "power": "30W USB-C PD adapter (included)",
+    "subscriptionRequired": false,
+    "colors": "Berry, Porcelain, Hazel, Jade"
+   },
+   "options": [
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Berry",
+       "default": true
+      },
+      {
+       "label": "Porcelain"
+      },
+      {
+       "label": "Hazel"
+      },
+      {
+       "label": "Jade"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "sku": "TK-GOOGLE-NESTHUB2",
+   "slug": "google-nest-hub-2nd-gen",
+   "name": "Google Nest Hub (2nd gen)",
+   "brand": "Google",
+   "category": "smart-speakers-displays",
+   "price": "99.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    13,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "pixel-google"
+   ],
+   "summary": "Google Nest Hub (2nd gen) smart display with a 7-inch touchscreen, Soli Motion Sense, Chromecast built in and a Thread border router.",
+   "description": "Nest Hub (2nd gen) is a 7-inch (1024 x 600) touchscreen smart display with a full-range speaker, three far-field mics and a mic-off switch. It includes Soli for Motion Sense, Chromecast built in, a Thread border router, and works as a Matter hub for Google Home.",
+   "keywords": "nest hub smart display google home matter thread",
+   "specs": {
+    "ecosystem": "Google Home, Gemini for Home, Matter hub",
+    "connectivity": "Wi-Fi 802.11ac (2.4/5 GHz), Bluetooth 5.0, Thread border router, Chromecast built in",
+    "power": "15W power adapter",
+    "display": "7-inch touchscreen",
+    "resolution": "1024 x 600",
+    "subscriptionRequired": false,
+    "colors": "Chalk, Charcoal, Sand, Mist"
+   },
+   "options": [
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Chalk",
+       "default": true
+      },
+      {
+       "label": "Charcoal"
+      },
+      {
+       "label": "Sand"
+      },
+      {
+       "label": "Mist"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "sku": "TK-GOOGLE-NESTCAM-BATTERY",
+   "slug": "google-nest-cam-battery",
+   "name": "Google Nest Cam (outdoor or indoor, battery)",
+   "brand": "Google",
+   "category": "home-cameras-doorbells",
+   "price": "199.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    14,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "pixel-google"
+   ],
+   "summary": "Battery-powered Google Nest Cam for indoor or outdoor use with 1080p HDR video, night vision and 3 hours of free event history.",
+   "description": "Nest Cam (battery) records up to 1080p at 30 FPS with HDR and night vision, has a 130-degree field of view and two-way audio. It runs on a built-in rechargeable battery, mounts magnetically or with screws, and includes 3 hours of event video history; longer history needs a Google Home Premium subscription.",
+   "keywords": "nest cam battery wireless security camera outdoor",
+   "specs": {
+    "ecosystem": "Google Home app",
+    "connectivity": "Wi-Fi 802.11a/b/g/n (2.4/5 GHz), Bluetooth LE",
+    "power": "Built-in rechargeable 6 Ah battery",
+    "resolution": "1080p HDR at 30 FPS",
+    "subscriptionRequired": false,
+    "configurations": "1 pack – $199.99 · 2 pack",
+    "colors": "Snow"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-GOOGLE-NESTCAM-FLOODLIGHT",
+   "slug": "google-nest-cam-with-floodlight",
+   "name": "Google Nest Cam with floodlight (wired)",
+   "brand": "Google",
+   "category": "home-cameras-doorbells",
+   "price": "279.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    16,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "pixel-google"
+   ],
+   "summary": "Google Nest Cam with floodlight: hardwired floodlight plus 1080p HDR camera with night vision and 24/7 live view.",
+   "description": "Nest Cam with floodlight combines a hardwired (100-240V AC) floodlight with a Nest Cam that records 1080p HDR at 30 FPS and offers 24/7 live view and night vision. It connects over dual-band Wi-Fi and is IP54 weather-resistant.",
+   "keywords": "nest cam floodlight outdoor security camera wired",
+   "specs": {
+    "ecosystem": "Google Home app",
+    "connectivity": "Wi-Fi 802.11a/b/g/n (2.4/5 GHz), Bluetooth LE",
+    "power": "Hardwired 100-240V AC",
+    "resolution": "1080p HDR at 30 FPS",
+    "subscriptionRequired": false,
+    "colors": "Snow"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-GOOGLE-NESTCAM-INDOOR3",
+   "slug": "google-nest-cam-indoor-wired-3rd-gen",
+   "name": "Google Nest Cam Indoor (wired, 3rd gen)",
+   "brand": "Google",
+   "category": "home-cameras-doorbells",
+   "price": "129.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    49,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "pixel-google"
+   ],
+   "summary": "Google Nest Cam Indoor (wired, 3rd gen) with 2K HDR video, a 152-degree field of view, night vision and Gemini features.",
+   "description": "The 3rd-gen wired Nest Cam Indoor has a 2K (2560 x 1440) sensor recording up to 2K at 30 FPS with HDR, a 152-degree diagonal field of view and night vision. It uses H.264/H.265 encoding and includes up to 6 hours of event video previews; Gemini features and longer history require Google Home Premium.",
+   "keywords": "nest cam indoor 2k wired security camera gemini",
+   "specs": {
+    "ecosystem": "Google Home app, Gemini for Home, Alexa compatible",
+    "connectivity": "Wi-Fi 802.11ac (2.4/5 GHz), Bluetooth LE",
+    "power": "USB-C 7.5W adapter, 10 ft cable",
+    "resolution": "2K (2560 x 1440) HDR at 30 FPS",
+    "subscriptionRequired": false,
+    "colors": "Snow, Hazel, Berry"
+   },
+   "options": [
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Snow",
+       "default": true
+      },
+      {
+       "label": "Hazel"
+      },
+      {
+       "label": "Berry"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "sku": "TK-GOOGLE-NESTCAM-OUTDOOR2",
+   "slug": "google-nest-cam-outdoor-wired-2nd-gen",
+   "name": "Google Nest Cam Outdoor (wired, 2nd gen)",
+   "brand": "Google",
+   "category": "home-cameras-doorbells",
+   "price": "199.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    29,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "pixel-google"
+   ],
+   "summary": "Google Nest Cam Outdoor (wired, 2nd gen) with 2K HDR video, night vision, IP65 weather resistance and Gemini features.",
+   "description": "The 2nd-gen wired Nest Cam Outdoor records up to 2K at 30 FPS with HDR and night vision, has 24/7 live view and an IP65 rating. It is powered by an 18 ft outdoor-rated cable; Gemini features require a Google Home Premium subscription.",
+   "keywords": "nest cam outdoor 2k wired security camera",
+   "specs": {
+    "ecosystem": "Google Home app, Gemini for Home",
+    "connectivity": "Wi-Fi 802.11ac (2.4/5 GHz), Bluetooth LE",
+    "power": "Wired, 12V 0.75A, 18 ft outdoor-rated cable",
+    "resolution": "2K HDR at 30 FPS",
+    "subscriptionRequired": false,
+    "configurations": "1 pack – $199.99 · 2 pack",
+    "colors": "Snow, Hazel"
+   },
+   "options": [
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Snow",
+       "default": true
+      },
+      {
+       "label": "Hazel"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "sku": "TK-GOOGLE-NESTDOORBELL-BATT",
+   "slug": "google-nest-doorbell-battery",
+   "name": "Google Nest Doorbell (battery)",
+   "brand": "Google",
+   "category": "home-cameras-doorbells",
+   "price": "199.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    15,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "pixel-google"
+   ],
+   "summary": "Battery-powered Google Nest Doorbell with HD 960 x 1280 HDR video, night vision, IP54 rating and easy wire-free install.",
+   "description": "Nest Doorbell (battery) streams HD video (960 x 1280, up to 30 FPS) with HDR and night vision, 24/7 live view and intelligent alerts for people, packages, animals and vehicles. It runs on a rechargeable 6 Ah battery or existing doorbell wiring and is IP54 weather resistant.",
+   "keywords": "nest doorbell battery video doorbell wireless",
+   "specs": {
+    "ecosystem": "Google Home app, Gemini for Home, Alexa compatible",
+    "connectivity": "Wi-Fi 802.11a/b/g/n/ac (2.4/5 GHz), Bluetooth LE",
+    "power": "Rechargeable 6 Ah battery or 8-24VAC doorbell wiring",
+    "resolution": "960 x 1280 HDR at up to 30 FPS",
+    "subscriptionRequired": false,
+    "colors": "Snow, Ivy, Linen, Ash"
+   },
+   "options": [
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Snow",
+       "default": true
+      },
+      {
+       "label": "Ivy"
+      },
+      {
+       "label": "Linen"
+      },
+      {
+       "label": "Ash"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "sku": "TK-GOOGLE-NESTDOORBELL-WIRED3",
+   "slug": "google-nest-doorbell-wired-3rd-gen",
+   "name": "Google Nest Doorbell (wired, 3rd gen)",
+   "brand": "Google",
+   "category": "home-cameras-doorbells",
+   "price": "199.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    8,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "pixel-google"
+   ],
+   "summary": "Google Nest Doorbell (wired, 3rd gen) with 2K HDR video, night vision, IP65 rating and Gemini-powered alerts.",
+   "description": "The 3rd-gen wired Nest Doorbell records up to 2K at 30 FPS with HDR, has 24/7 live view and night vision, and is IP65 water and dust resistant. It needs a 16-24VAC doorbell transformer; Gemini features require a Google Home Premium subscription.",
+   "keywords": "nest doorbell wired 2k video doorbell gemini",
+   "specs": {
+    "ecosystem": "Google Home app, Gemini for Home",
+    "connectivity": "Wi-Fi 802.11ac (2.4/5 GHz), Bluetooth LE",
+    "power": "Wired, 16-24VAC 10-40VA doorbell transformer",
+    "resolution": "2K HDR at 30 FPS",
+    "subscriptionRequired": false,
+    "colors": "Snow, Hazel, Linen"
+   },
+   "options": [
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Snow",
+       "default": true
+      },
+      {
+       "label": "Hazel"
+      },
+      {
+       "label": "Linen"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "sku": "TK-GOOGLE-NESTLEARNING4",
+   "slug": "google-nest-learning-thermostat-4th-gen",
+   "name": "Google Nest Learning Thermostat (4th gen)",
+   "brand": "Google",
+   "category": "thermostats",
+   "price": "279.99",
+   "compareAt": null,
+   "warranty": 24,
+   "stock": [
+    45,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "pixel-google"
+   ],
+   "summary": "Google Nest Learning Thermostat (4th gen) with a borderless 2.7-inch display, Matter support and an included Nest Temperature Sensor.",
+   "description": "The 4th-gen Nest Learning Thermostat has a borderless, 60% larger display with Dynamic Farsight, Matter support and Power Sharing technology that works with or without a C wire in most homes. It includes one Nest Temperature Sensor (2nd gen) and comes in three polished finishes.",
+   "keywords": "nest learning thermostat 4th gen smart thermostat matter",
+   "specs": {
+    "ecosystem": "Google Home, Matter",
+    "connectivity": "Wi-Fi 802.11n (2.4/5 GHz)",
+    "power": "HVAC wires; C wire not required in most systems",
+    "display": "2.7-inch circular LCD",
+    "resolution": "600 x 600",
+    "subscriptionRequired": false,
+    "colors": "Polished Silver, Polished Obsidian, Polished Gold"
+   },
+   "options": [
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Polished Silver",
+       "default": true
+      },
+      {
+       "label": "Polished Obsidian"
+      },
+      {
+       "label": "Polished Gold"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "sku": "TK-GOOGLE-NESTTHERMOSTAT",
+   "slug": "google-nest-thermostat",
+   "name": "Google Nest Thermostat",
+   "brand": "Google",
+   "category": "thermostats",
+   "price": "129.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    50,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "pixel-google"
+   ],
+   "summary": "Google Nest Thermostat with a mirrored-glass 2.4-inch display, Wi-Fi and Bluetooth LE, in four colors.",
+   "description": "Nest Thermostat has a 2.4-inch QVGA display behind a mirrored glass lens, draws power from HVAC wires with AAA battery backup, and connects over dual-band Wi-Fi and Bluetooth LE. It is controlled from the Google Home app.",
+   "keywords": "nest thermostat smart thermostat google home",
+   "specs": {
+    "ecosystem": "Google Home",
+    "connectivity": "Wi-Fi 802.11b/g/n 2.4 GHz and 802.11a/n 5 GHz, Bluetooth LE",
+    "power": "HVAC system wires, 2x AAA battery backup",
+    "display": "2.4-inch QVGA IPS LCD",
+    "resolution": "240 x 320",
+    "subscriptionRequired": false,
+    "colors": "Snow, Sand, Fog, Charcoal"
+   },
+   "options": [
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Snow",
+       "default": true
+      },
+      {
+       "label": "Sand"
+      },
+      {
+       "label": "Fog"
+      },
+      {
+       "label": "Charcoal"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "sku": "TK-GOOGLE-NESTWIFIPRO",
+   "slug": "google-nest-wifi-pro",
+   "name": "Google Nest Wifi Pro",
+   "brand": "Google",
+   "category": "mesh-wifi",
+   "price": "199.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    50,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "pixel-google",
+    "homelab-essentials"
+   ],
+   "summary": "Google Nest Wifi Pro tri-band Wi-Fi 6E mesh router (AXE5400) covering up to 2,200 sq ft per router, with Thread and Matter.",
+   "description": "Nest Wifi Pro is a tri-band Wi-Fi 6E mesh router rated AXE5400 (up to 5.4 Gbps combined) that covers up to 2,200 sq ft per router and handles up to 100 devices per point. Each router has two 1 Gbps Ethernet ports, WPA3, a built-in Thread border router and Matter support. It is not compatible with earlier Nest Wifi or Google Wifi.",
+   "keywords": "nest wifi pro mesh wifi 6e router google",
+   "specs": {
+    "ports": "2x 1 Gbps Ethernet per router",
+    "maxSpeedGbps": 5.4,
+    "managed": false,
+    "rackMountable": false,
+    "wifiStandard": "Wi-Fi 6E",
+    "nodes": 1,
+    "wifiDetails": "Wi-Fi 6E (802.11ax), tri-band AXE5400",
+    "configurations": "1-pack (up to 2,200 sq ft) – $199.99 · 2-pack (up to 4,400 sq ft) · 3-pack (up to 6,600 sq ft)",
+    "colors": "Snow, Fog, Linen, Lemongrass"
+   },
+   "options": [
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Snow",
+       "default": true
+      },
+      {
+       "label": "Fog"
+      },
+      {
+       "label": "Linen"
+      },
+      {
+       "label": "Lemongrass"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "sku": "TK-GOOGLE-TITANKEY",
+   "slug": "google-titan-security-key",
+   "name": "Google Titan Security Key",
+   "brand": "Google",
+   "category": "security-keys",
+   "price": "30.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    49,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "security-lab"
+   ],
+   "summary": "Google Titan Security Key FIDO2 hardware key with NFC, available in USB-C or USB-A, for phishing-resistant sign-in.",
+   "description": "Titan Security Keys are FIDO-standard hardware keys with Google-engineered firmware and a purpose-built secure element. They work with the Advanced Protection Program, Google phones, Chromebooks and anything running Chrome, and connect by USB or NFC to most Android and iOS devices.",
+   "keywords": "titan security key fido2 passkey 2fa u2f yubikey alternative",
+   "specs": {
+    "connector": "USB-C or USB-A (with USB-C adapter)",
+    "nfc": true,
+    "protocols": "FIDO2 (FIDO open standards)",
+    "configurations": "USB-C/NFC · USB-A/NFC",
+    "colors": "White"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-MSFT-SURFACELAPTOP13-2E",
+   "slug": "microsoft-surface-laptop-13-inch-2nd-edition",
+   "name": "Microsoft Surface Laptop, 13-inch (2nd Edition)",
+   "brand": "Microsoft",
+   "category": "premium-laptops",
+   "price": "1199.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    33,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "premium-laptops"
+   ],
+   "summary": "Microsoft Surface Laptop 13-inch (2nd Edition) Copilot+ PC with Snapdragon X2 Plus (6-core), 16 GB RAM and up to 22.5 hours of video playback.",
+   "description": "The 13-inch Surface Laptop (2nd Edition) is Microsoft's lightest Surface Laptop at 2.7 lb, powered by a Snapdragon X2 Plus (6-core) with an 80 TOPS Qualcomm Hexagon NPU. It has a 13-inch PixelSense touchscreen (1920 x 1280, 60 Hz), Wi-Fi 7, a 1080p camera, and Microsoft rates it for up to 22.5 hours of local video playback. Available for pre-order at Microsoft Store.",
+   "keywords": "surface laptop 13 2nd edition snapdragon x2 copilot+ pc windows 11 arm",
+   "specs": {
+    "cpu": "Snapdragon X2 Plus (6-core)",
+    "cpuBrand": "Qualcomm",
+    "gpu": "Qualcomm Adreno GPU",
+    "ramGb": 16,
+    "storageTb": 0.256,
+    "displayIn": 13,
+    "display": "13-inch PixelSense touchscreen LCD, 1920 x 1280, 60 Hz",
+    "weightKg": 1.23,
+    "os": "Windows 11 Home",
+    "npuTops": 80,
+    "ports": "2x USB-C (USB 3.2), USB-A 3.2, 3.5 mm headphone jack",
+    "wireless": "Wi-Fi 7",
+    "configurations": "Snapdragon X2 Plus, 16 GB RAM, 256 GB UFS – $1,199.99 · Snapdragon X2 Plus, 16 GB RAM, 512 GB UFS – $1,299.99 · Snapdragon X2 Plus, 24 GB RAM, 512 GB UFS – $1,499.99",
+    "colors": "Black, Platinum, Violet"
+   },
+   "options": [
+    {
+     "name": "Configuration",
+     "values": [
+      {
+       "label": "Snapdragon X2 Plus, 16 GB RAM, 256 GB UFS",
+       "price": "1199.99",
+       "default": true
+      },
+      {
+       "label": "Snapdragon X2 Plus, 16 GB RAM, 512 GB UFS",
+       "price": "1299.99"
+      },
+      {
+       "label": "Snapdragon X2 Plus, 24 GB RAM, 512 GB UFS",
+       "price": "1499.99"
+      }
+     ]
+    },
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Black",
+       "default": true
+      },
+      {
+       "label": "Platinum"
+      },
+      {
+       "label": "Violet"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "sku": "TK-MSFT-SURFACELAPTOP138-8E",
+   "slug": "microsoft-surface-laptop-13-8-inch-8th-edition",
+   "name": "Microsoft Surface Laptop, 13.8-inch (8th Edition)",
+   "brand": "Microsoft",
+   "category": "premium-laptops",
+   "price": "1599.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    20,
+    5
+   ],
+   "featured": true,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "premium-laptops",
+    "developer-favorites"
+   ],
+   "summary": "Microsoft Surface Laptop 13.8-inch (8th Edition) with Snapdragon X2 Plus or X2 Elite, 80 TOPS NPU, 120 Hz HDR touchscreen and Wi-Fi 7.",
+   "description": "Surface Laptop 13.8-inch (8th Edition) runs Snapdragon X2 Plus (10-core) or X2 Elite (12-core) processors with an 80 TOPS Hexagon NPU and up to 64 GB LPDDR5x. The 13.8-inch HDR PixelSense touchscreen is 2304 x 1536 at up to 120 Hz, storage is a removable Gen 4 SSD, and Microsoft rates battery life at up to 20 hours of local video playback.",
+   "keywords": "surface laptop 7 8th edition 13.8 snapdragon x2 elite copilot+ pc",
+   "specs": {
+    "cpu": "Snapdragon X2 Plus (10-core)",
+    "cpuBrand": "Qualcomm",
+    "gpu": "Qualcomm Adreno GPU",
+    "ramGb": 16,
+    "storageTb": 0.512,
+    "displayIn": 13.8,
+    "display": "13.8-inch HDR PixelSense touchscreen LCD, 2304 x 1536, 120 Hz",
+    "weightKg": 1.36,
+    "os": "Windows 11 Home",
+    "npuTops": 80,
+    "ports": "2x USB-C/USB4, USB-A 3.2, 3.5 mm audio jack, Surface Connect",
+    "wireless": "Wi-Fi 7",
+    "configurations": "Snapdragon X2 Plus (10 Core), 16 GB, 512 GB SSD – $1,599.99 · Snapdragon X2 Elite (12 Core), 16 GB, 512 GB SSD – $1,699.99 · Snapdragon X2 Elite (12 Core), 16 GB, 1 TB SSD – $1,999.99 · Snapdragon X2 Plus (10 Core), 32 GB, 512 GB SSD – $2,249.99 · Snapdragon X2 Elite (12 Core), 32 GB, 1 TB SSD – $2,649.99 · Snapdragon X2 Elite (12 Core), 64 GB, 1 TB SSD – $3,449.99",
+    "colors": "Jade, Platinum, Dune, Black"
+   },
+   "options": [
+    {
+     "name": "Configuration",
+     "values": [
+      {
+       "label": "Snapdragon X2 Plus (10 Core), 16 GB, 512 GB SSD",
+       "price": "1599.99",
+       "default": true
+      },
+      {
+       "label": "Snapdragon X2 Elite (12 Core), 16 GB, 512 GB SSD",
+       "price": "1699.99"
+      },
+      {
+       "label": "Snapdragon X2 Elite (12 Core), 16 GB, 1 TB SSD",
+       "price": "1999.99"
+      },
+      {
+       "label": "Snapdragon X2 Plus (10 Core), 32 GB, 512 GB SSD",
+       "price": "2249.99"
+      },
+      {
+       "label": "Snapdragon X2 Elite (12 Core), 32 GB, 1 TB SSD",
+       "price": "2649.99"
+      },
+      {
+       "label": "Snapdragon X2 Elite (12 Core), 64 GB, 1 TB SSD",
+       "price": "3449.99"
+      }
+     ]
+    },
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Jade",
+       "default": true
+      },
+      {
+       "label": "Platinum"
+      },
+      {
+       "label": "Dune"
+      },
+      {
+       "label": "Black"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "sku": "TK-MSFT-SURFACELAPTOP15-8E",
+   "slug": "microsoft-surface-laptop-15-inch-8th-edition",
+   "name": "Microsoft Surface Laptop, 15-inch (8th Edition)",
+   "brand": "Microsoft",
+   "category": "premium-laptops",
+   "price": "1699.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    27,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "premium-laptops",
+    "developer-favorites"
+   ],
+   "summary": "Microsoft Surface Laptop 15-inch (8th Edition) with Snapdragon X2, a 3270 x 2180 120 Hz HDR touchscreen, microSD Express and up to 19 hours of video.",
+   "description": "The 15-inch Surface Laptop (8th Edition) offers Snapdragon X2 Plus (10-core) or X2 Elite (12-core) with an 80 TOPS NPU and up to 64 GB RAM. Its sharper 15-inch HDR PixelSense touchscreen is 3270 x 2180 at 120 Hz, and it adds a microSDXC Express reader alongside two USB4 ports, USB-A and Surface Connect.",
+   "keywords": "surface laptop 15 8th edition snapdragon x2 elite large copilot+ pc",
+   "specs": {
+    "cpu": "Snapdragon X2 Plus (10-core)",
+    "cpuBrand": "Qualcomm",
+    "gpu": "Qualcomm Adreno GPU",
+    "ramGb": 16,
+    "storageTb": 0.512,
+    "displayIn": 15,
+    "display": "15-inch HDR PixelSense touchscreen LCD, 3270 x 2180, 120 Hz",
+    "weightKg": 1.66,
+    "os": "Windows 11 Home",
+    "npuTops": 80,
+    "ports": "2x USB-C/USB4, USB-A 3.2, microSDXC Express reader, 3.5 mm audio jack, Surface Connect",
+    "wireless": "Wi-Fi 7",
+    "configurations": "Snapdragon X2 Plus (10 Core), 16 GB, 512 GB SSD – $1,699.99 · Snapdragon X2 Elite (12 Core), 16 GB, 512 GB SSD – $1,799.99 · Snapdragon X2 Elite (12 Core), 16 GB, 1 TB SSD – $2,199.99 · Snapdragon X2 Elite (12 Core), 24 GB, 512 GB SSD – $2,249.99 · Snapdragon X2 Elite (12 Core), 32 GB, 1 TB SSD – $2,849.99 · Snapdragon X2 Elite (12 Core), 64 GB, 1 TB SSD – $3,649.99",
+    "colors": "Platinum, Black"
+   },
+   "options": [
+    {
+     "name": "Configuration",
+     "values": [
+      {
+       "label": "Snapdragon X2 Plus (10 Core), 16 GB, 512 GB SSD",
+       "price": "1699.99",
+       "default": true
+      },
+      {
+       "label": "Snapdragon X2 Elite (12 Core), 16 GB, 512 GB SSD",
+       "price": "1799.99"
+      },
+      {
+       "label": "Snapdragon X2 Elite (12 Core), 16 GB, 1 TB SSD",
+       "price": "2199.99"
+      },
+      {
+       "label": "Snapdragon X2 Elite (12 Core), 24 GB, 512 GB SSD",
+       "price": "2249.99"
+      },
+      {
+       "label": "Snapdragon X2 Elite (12 Core), 32 GB, 1 TB SSD",
+       "price": "2849.99"
+      },
+      {
+       "label": "Snapdragon X2 Elite (12 Core), 64 GB, 1 TB SSD",
+       "price": "3649.99"
+      }
+     ]
+    },
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Platinum",
+       "default": true
+      },
+      {
+       "label": "Black"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "sku": "TK-MSFT-SURFACELAPTOPBIZ-8E-INTEL",
+   "slug": "microsoft-surface-laptop-for-business-8th-edition-intel",
+   "name": "Microsoft Surface Laptop for Business, 13.8 or 15-inch (8th Edition) Intel",
+   "brand": "Microsoft",
+   "category": "business-laptops",
+   "price": "2149.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    37,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "premium-laptops",
+    "small-business",
+    "developer-setup"
+   ],
+   "summary": "Surface Laptop for Business (8th Edition) with Intel Core Ultra Series 3, Windows 11 Pro, Thunderbolt 4, Pluton and up to 23 hours of video playback.",
+   "description": "Surface Laptop for Business (8th Edition) is offered in 13.8-inch and 15-inch sizes with Intel Core Ultra Series 3 processors (Ultra 5 335, Ultra 7 366H or Ultra X7 368H) and up to 64 GB LPDDR5x. It adds 2x USB4/Thunderbolt 4 with support for three 4K monitors, Windows 11 Pro, Secured-core PC protections with Microsoft Pluton, and an optional integrated privacy screen on the 13.8-inch model.",
+   "keywords": "surface laptop for business intel core ultra series 3 thunderbolt windows 11 pro enterprise",
+   "specs": {
+    "cpu": "Intel Core Ultra Series 3 (Ultra 5 335, Ultra 7 366H or Ultra X7 368H)",
+    "cpuBrand": "Intel",
+    "gpu": "Intel Graphics / Intel Arc Graphics (Ultra X7)",
+    "displayIn": 13.8,
+    "display": "13.8-inch PixelSense Flow touchscreen, 2304 x 1536, up to 120 Hz, 600 nits; 15-inch 3270 x 2180 option",
+    "weightKg": 1.35,
+    "os": "Windows 11 Pro",
+    "npuTops": 50,
+    "ports": "2x USB-C with USB4/Thunderbolt 4, USB-A 3.2, 3.5 mm jack, Surface Connect (15-inch adds microSDXC Express and optional smart card reader)",
+    "wireless": "Wi-Fi 7, Bluetooth 5.4",
+    "configurations": "13.8-inch or 15-inch; 16/32/64 GB RAM; 256 GB/512 GB/1 TB removable Gen 4 SSD; optional anti-glare privacy screen (13.8-inch)"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-MSFT-SURFACEPRO12-2E",
+   "slug": "microsoft-surface-pro-12-inch-2nd-edition",
+   "name": "Microsoft Surface Pro, 12-inch (2nd Edition)",
+   "brand": "Microsoft",
+   "category": "tablets",
+   "price": "1149.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    37,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "premium-laptops"
+   ],
+   "summary": "Microsoft Surface Pro 12-inch (2nd Edition) 2-in-1 with Snapdragon X2 Plus, a 90 Hz PixelSense display and up to 15.5 hours of video.",
+   "description": "Surface Pro 12-inch (2nd Edition) is Microsoft's lightest 2-in-1 at 686 g, with a Snapdragon X2 Plus (6-core) and 80 TOPS NPU. The 12-inch PixelSense LCD is 2196 x 1464 at 90 Hz, it has two USB-C (USB 3.2) ports, a 10 MP rear camera, Wi-Fi 7, and Slim Pen storage and charging on the back. Keyboard and pen are sold separately; no power supply is included.",
+   "keywords": "surface pro 12 2nd edition 2-in-1 tablet snapdragon x2 copilot+ pc",
+   "specs": {
+    "chip": "Snapdragon X2 Plus (6-core), 80 TOPS NPU",
+    "storageGb": 256,
+    "displayIn": 12,
+    "display": "12-inch PixelSense touchscreen LCD, 2196 x 1464, 90 Hz",
+    "ramGb": 16,
+    "rearCamera": "10 MP Ultra HD",
+    "connectivity": "Wi-Fi 7, 2x USB-C (USB 3.2)",
+    "os": "Windows 11 Home",
+    "weightG": 686,
+    "configurations": "16 GB RAM, 256 GB UFS – $1,149.99 · 16 GB RAM, 512 GB UFS – $1,249.99 · 24 GB RAM, 512 GB UFS – $1,449.99",
+    "colors": "Platinum, Violet, Black"
+   },
+   "options": [
+    {
+     "name": "Configuration",
+     "values": [
+      {
+       "label": "16 GB RAM, 256 GB UFS",
+       "price": "1149.99",
+       "default": true
+      },
+      {
+       "label": "16 GB RAM, 512 GB UFS",
+       "price": "1249.99"
+      },
+      {
+       "label": "24 GB RAM, 512 GB UFS",
+       "price": "1449.99"
+      }
+     ]
+    },
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Platinum",
+       "default": true
+      },
+      {
+       "label": "Violet"
+      },
+      {
+       "label": "Black"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "sku": "TK-MSFT-SURFACEPRO13-12E",
+   "slug": "microsoft-surface-pro-13-inch-12th-edition",
+   "name": "Microsoft Surface Pro, 13-inch (12th Edition)",
+   "brand": "Microsoft",
+   "category": "tablets",
+   "price": "1499.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    20,
+    5
+   ],
+   "featured": true,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "premium-laptops",
+    "developer-favorites"
+   ],
+   "summary": "Microsoft Surface Pro 13-inch (12th Edition) 2-in-1 with Snapdragon X2, a 2880 x 1920 120 Hz LCD or OLED display and USB4.",
+   "description": "Surface Pro 13-inch (12th Edition) pairs Snapdragon X2 Plus (10-core) or X2 Elite (12-core) processors with an 80 TOPS NPU and up to 64 GB RAM. The 13-inch PixelSense touchscreen (2880 x 1920, 120 Hz) comes as LCD or OLED, and it has two USB4 ports, Surface Connect, a 1440p ultrawide front camera and a 10 MP rear camera.",
+   "keywords": "surface pro 13 12th edition oled 2-in-1 snapdragon x2 elite",
+   "specs": {
+    "chip": "Snapdragon X2 Plus (10-core), 80 TOPS NPU",
+    "storageGb": 256,
+    "displayIn": 13,
+    "display": "13-inch PixelSense touchscreen LCD, 2880 x 1920, 120 Hz (OLED on X2 Elite models)",
+    "ramGb": 16,
+    "rearCamera": "10 MP",
+    "connectivity": "Wi-Fi 7, 2x USB-C/USB4, Surface Connect",
+    "os": "Windows 11 Home",
+    "weightG": 895,
+    "configurations": "Snapdragon X2 Plus, LCD, 16 GB, 256 GB SSD – $1,499.99 · Snapdragon X2 Plus, LCD, 16 GB, 512 GB SSD – $1,599.99 · Snapdragon X2 Elite, OLED, 16 GB, 512 GB SSD – $1,799.99 · Snapdragon X2 Elite, OLED, 16 GB, 1 TB SSD – $2,099.99 · Snapdragon X2 Elite, OLED, 24 GB, 512 GB SSD – $2,249.99 · Snapdragon X2 Elite, OLED, 32 GB, 1 TB SSD – $2,749.99 · Snapdragon X2 Elite, OLED, 64 GB, 1 TB SSD – $3,549.99",
+    "colors": "Platinum, Dune, Black"
+   },
+   "options": [
+    {
+     "name": "Configuration",
+     "values": [
+      {
+       "label": "Snapdragon X2 Plus, LCD, 16 GB, 256 GB SSD",
+       "price": "1499.99",
+       "default": true
+      },
+      {
+       "label": "Snapdragon X2 Plus, LCD, 16 GB, 512 GB SSD",
+       "price": "1599.99"
+      },
+      {
+       "label": "Snapdragon X2 Elite, OLED, 16 GB, 512 GB SSD",
+       "price": "1799.99"
+      },
+      {
+       "label": "Snapdragon X2 Elite, OLED, 16 GB, 1 TB SSD",
+       "price": "2099.99"
+      },
+      {
+       "label": "Snapdragon X2 Elite, OLED, 24 GB, 512 GB SSD",
+       "price": "2249.99"
+      },
+      {
+       "label": "Snapdragon X2 Elite, OLED, 32 GB, 1 TB SSD",
+       "price": "2749.99"
+      },
+      {
+       "label": "Snapdragon X2 Elite, OLED, 64 GB, 1 TB SSD",
+       "price": "3549.99"
+      }
+     ]
+    },
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Platinum",
+       "default": true
+      },
+      {
+       "label": "Dune"
+      },
+      {
+       "label": "Black"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "sku": "TK-MSFT-SURFACEPRO13-FLEXKB",
+   "slug": "microsoft-surface-pro-13-inch-flex-keyboard",
+   "name": "Microsoft Surface Pro 13-inch Flex Keyboard",
+   "brand": "Microsoft",
+   "category": "keyboards",
+   "price": "399.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    38,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "developer-favorites"
+   ],
+   "summary": "Surface Pro 13-inch Flex Keyboard works attached or detached over Bluetooth, with a haptic touchpad, Copilot key and Slim Pen storage.",
+   "description": "The Surface Pro 13-inch Flex Keyboard can be used attached to Surface Pro or detached as a Bluetooth keyboard, with up to 41 hours of continuous typing when detached. It has a Surface precision haptic touchpad, a Copilot key, an Alcantara finish and built-in pen storage that recharges Surface Slim Pen.",
+   "keywords": "surface pro flex keyboard detachable bluetooth alcantara copilot key",
+   "specs": {
+    "connection": "Magnetic attach; Bluetooth LE when detached",
+    "layout": "Full size",
+    "mechanical": false,
+    "macSupport": false,
+    "configurations": "Black – $399.99 · Black with bold keyset",
+    "colors": "Black, Black with bold keyset"
+   },
+   "options": [
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Black",
+       "default": true
+      },
+      {
+       "label": "Black with bold keyset"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "sku": "TK-MSFT-SURFACEPRO12-KB",
+   "slug": "microsoft-surface-pro-12-inch-keyboard",
+   "name": "Microsoft Surface Pro 12-inch Keyboard",
+   "brand": "Microsoft",
+   "category": "keyboards",
+   "price": "149.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    41,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [],
+   "summary": "Surface Pro 12-inch Keyboard: backlit full-size keyboard with precision touchpad and Alcantara hinge for Surface Pro 12-inch.",
+   "description": "Surface Pro 12-inch Keyboard is a magnetic keyboard cover for the 12-inch Surface Pro with full-size backlit keys, a precision touchpad, a smooth-matte palm rest and an Alcantara hinge that flexes 360 degrees. It weighs 340 g and is compatible only with the 12-inch Surface Pro.",
+   "keywords": "surface pro 12 keyboard cover backlit",
+   "specs": {
+    "connection": "Magnetic attach",
+    "layout": "Full size",
+    "mechanical": false,
+    "macSupport": false,
+    "configurations": "Slate – $149.99 · Ocean · Violet · Slate with bold keyset",
+    "colors": "Slate, Ocean, Violet"
+   },
+   "options": [
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Slate",
+       "default": true
+      },
+      {
+       "label": "Ocean"
+      },
+      {
+       "label": "Violet"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "sku": "TK-MSFT-SURFACEKB-2E",
+   "slug": "microsoft-surface-keyboard-2nd-edition",
+   "name": "Microsoft Surface Keyboard (2nd Edition)",
+   "brand": "Microsoft",
+   "category": "keyboards",
+   "price": "149.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    31,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "developer-setup"
+   ],
+   "summary": "Microsoft Surface Keyboard (2nd Edition): wireless Bluetooth keyboard with number pad, Copilot key and up to 12 months of battery life.",
+   "description": "Surface Keyboard (2nd Edition) is a slim wireless Bluetooth LE keyboard with a built-in number pad, a dedicated Copilot key and shortcut keys for Snip & Sketch, Expressive Input and Call Mute. It runs up to 12 months on two AAA batteries and supports Windows, Android and macOS.",
+   "keywords": "surface keyboard wireless bluetooth number pad copilot key desktop",
+   "specs": {
+    "connection": "Bluetooth LE (4.0+)",
+    "layout": "Full size",
+    "mechanical": false,
+    "macSupport": true
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-MSFT-SURFACEARCMOUSE",
+   "slug": "microsoft-surface-arc-mouse",
+   "name": "Microsoft Surface Arc Mouse",
+   "brand": "Microsoft",
+   "category": "mice",
+   "price": "89.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    26,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [],
+   "summary": "Microsoft Surface Arc Mouse snaps flat for travel, with Bluetooth, BlueTrack tracking and full-surface scrolling.",
+   "description": "Surface Arc Mouse is an ultra-slim Bluetooth mouse that powers on when snapped into its arc and flattens to power off for travel. It uses Microsoft BlueTrack technology, supports vertical and horizontal scrolling, weighs 78.1 g with batteries and runs up to 6 months on two AAA batteries.",
+   "keywords": "surface arc mouse travel bluetooth slim",
+   "specs": {
+    "connection": "Bluetooth 4.1",
+    "weightG": 78.1,
+    "buttons": 1,
+    "colors": "Violet, Ocean, Black, Light Gray"
+   },
+   "options": [
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Violet",
+       "default": true
+      },
+      {
+       "label": "Ocean"
+      },
+      {
+       "label": "Black"
+      },
+      {
+       "label": "Light Gray"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "sku": "TK-MSFT-SURFACEMOUSE-2E",
+   "slug": "microsoft-surface-mouse-2nd-edition",
+   "name": "Microsoft Surface Mouse (2nd Edition)",
+   "brand": "Microsoft",
+   "category": "mice",
+   "price": "79.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    32,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "developer-setup"
+   ],
+   "summary": "Microsoft Surface Mouse (2nd Edition) with advanced haptics, a Copilot action button, Bluetooth 6.0 and three-device switching.",
+   "description": "Surface Mouse (2nd Edition) has an ambidextrous contoured shape with a silicone top, advanced haptic feedback in supported Windows 11 apps, a customizable action button for Copilot, and quiet clicks. It connects to up to three devices over Bluetooth 6.0, has a 1000 dpi (400-2400 adjustable) BlueTrack sensor and runs up to 6 months on two AAA batteries.",
+   "keywords": "surface mouse 2nd edition haptic copilot bluetooth multi-device",
+   "specs": {
+    "connection": "Bluetooth 6.0, up to 3 devices",
+    "sensorDpi": 2400,
+    "weightG": 115,
+    "buttons": 4,
+    "colors": "Black, Platinum"
+   },
+   "options": [
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Black",
+       "default": true
+      },
+      {
+       "label": "Platinum"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "sku": "TK-MSFT-SURFACESLIMPEN",
+   "slug": "microsoft-surface-slim-pen",
+   "name": "Microsoft Surface Slim Pen",
+   "brand": "Microsoft",
+   "category": "tablet-accessories",
+   "price": "129.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    36,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [],
+   "summary": "Microsoft Surface Slim Pen with 4,096 pressure levels, zero-force inking, haptic feedback and magnetic storage and charging.",
+   "description": "Surface Slim Pen has a flat, slim design, a fine tip with tilt and 4,096 levels of pressure sensitivity, zero-force inking and customizable haptic feedback on Windows 11. It stores and charges magnetically on the back of Surface Pro 12-inch or in compatible Surface Pro keyboards.",
+   "keywords": "surface slim pen stylus haptic 4096 pressure",
+   "specs": {
+    "compatibility": "Surface Pro 12-inch and 13-inch (keyboards with pen storage) and other Slim Pen-compatible Surface devices",
+    "colors": "Matte Black"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-MSFT-SURFACETB4DOCK",
+   "slug": "microsoft-surface-thunderbolt-4-dock",
+   "name": "Microsoft Surface Thunderbolt 4 Dock",
+   "brand": "Microsoft",
+   "category": "docks-adapters",
+   "price": "299.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    14,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "developer-setup",
+    "small-business"
+   ],
+   "summary": "Surface Thunderbolt 4 Dock with 40 Gbps USB4/Thunderbolt 4, dual 4K 60 Hz monitor support and up to 96W power passthrough.",
+   "description": "Surface Thunderbolt 4 Dock connects over USB4/Thunderbolt 4 for up to 40 Gbps data transfer, supports two 4K monitors at 60 Hz, and delivers up to 96W of power passthrough from its 165W supply. It offers eight connections including USB-C, USB-A, 2.5 Gbps Ethernet and audio.",
+   "keywords": "surface thunderbolt 4 dock usb4 docking station dual 4k",
+   "specs": {
+    "interface": "USB4 / Thunderbolt 4 (40 Gbps)",
+    "powerDeliveryW": 96
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-MSFT-SURFACEUSB4DOCK",
+   "slug": "microsoft-surface-usb4-dock",
+   "name": "Microsoft Surface USB4 Dock",
+   "brand": "Microsoft",
+   "category": "docks-adapters",
+   "price": "199.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    21,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "developer-setup"
+   ],
+   "summary": "Surface USB4 Dock with 40 Gbps transfer, dual 4K monitor support and up to 65W power passthrough via a captive USB-C cable.",
+   "description": "Surface USB4 Dock works with USB-C and USB4/Thunderbolt 4 devices, offering up to 40 Gbps data speeds, dual 4K monitor support and up to 65W of power passthrough from its 100W USB-C supply. It adds USB-C, USB-A, HDMI and Ethernet ports in a 206 g package with a captive cable.",
+   "keywords": "surface usb4 dock usb-c hub thunderbolt compatible",
+   "specs": {
+    "interface": "USB4 (USB-C / Thunderbolt 4 compatible), 40 Gbps",
+    "powerDeliveryW": 65
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-MSFT-XBOXSERIESX",
+   "slug": "microsoft-xbox-series-x",
+   "name": "Microsoft Xbox Series X",
+   "brand": "Microsoft",
+   "category": "consoles",
+   "price": "799.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    25,
+    5
+   ],
+   "featured": true,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "ultimate-gaming-setup",
+    "gaming-monsters"
+   ],
+   "summary": "Xbox Series X 1TB with a 12 TFLOPS RDNA 2 GPU, 16 GB GDDR6, true 4K gaming up to 120 FPS and a 4K UHD Blu-ray drive.",
+   "description": "Xbox Series X is Microsoft's most powerful console, with an 8-core custom Zen 2 CPU at 3.8 GHz, a 12 TFLOPS custom RDNA 2 GPU, 16 GB GDDR6 and a 1 TB custom NVMe SSD. It targets true 4K gaming at up to 120 FPS, supports HDMI 2.1 VRR and ALLM, and includes a 4K UHD Blu-ray drive.",
+   "keywords": "xbox series x console 4k 120fps blu-ray game pass",
+   "specs": {
+    "platform": "Xbox",
+    "chip": "Custom AMD Zen 2 8-core CPU @ 3.8 GHz + 12 TFLOPS RDNA 2 GPU (52 CUs)",
+    "storage": "1 TB custom NVMe SSD (expandable)",
+    "output": "HDMI 2.1, true 4K up to 120 FPS, up to 8K HDR",
+    "connectivity": "Wi-Fi 802.11ac, Gigabit Ethernet, 3x USB 3.1 Gen 1, Xbox Wireless",
+    "weightG": 4400,
+    "compatibility": "Xbox Series X|S",
+    "colors": "Black"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-MSFT-XBOXSERIESX-DIGITAL",
+   "slug": "microsoft-xbox-series-x-1tb-digital-edition",
+   "name": "Microsoft Xbox Series X – 1TB Digital Edition (White)",
+   "brand": "Microsoft",
+   "category": "consoles",
+   "price": "749.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    48,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "ultimate-gaming-setup"
+   ],
+   "summary": "All-digital Xbox Series X in Robot White with a 1 TB SSD, 12 TFLOPS GPU and true 4K gaming up to 120 FPS.",
+   "description": "The Xbox Series X 1TB Digital Edition has the same 12 TFLOPS RDNA 2 GPU, 8-core Zen 2 CPU and 16 GB GDDR6 as Series X, but without a disc drive, in Robot White. It plays digital games only.",
+   "keywords": "xbox series x digital edition white disc-free console",
+   "specs": {
+    "platform": "Xbox",
+    "chip": "Custom AMD Zen 2 8-core CPU @ 3.8 GHz + 12 TFLOPS RDNA 2 GPU (52 CUs)",
+    "storage": "1 TB custom NVMe SSD (expandable)",
+    "output": "HDMI 2.1, true 4K up to 120 FPS",
+    "connectivity": "Wi-Fi 802.11ac, Gigabit Ethernet, 3x USB 3.1 Gen 1, Xbox Wireless",
+    "weightG": 4400,
+    "compatibility": "Xbox Series X|S",
+    "colors": "Robot White"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-MSFT-XBOXSERIESS",
+   "slug": "microsoft-xbox-series-s",
+   "name": "Microsoft Xbox Series S",
+   "brand": "Microsoft",
+   "category": "consoles",
+   "price": "499.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    29,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "deals"
+   ],
+   "summary": "Xbox Series S 512 GB: the smallest Xbox, all-digital, 1440p gaming up to 120 FPS with a 4 TFLOPS RDNA 2 GPU.",
+   "description": "Xbox Series S is an all-digital console about 60% smaller than Series X, with an 8-core Zen 2 CPU at 3.6 GHz, a 4 TFLOPS RDNA 2 GPU, 10 GB GDDR6 and a 512 GB custom NVMe SSD. It targets 1440p gaming at up to 120 FPS.",
+   "keywords": "xbox series s console digital 1440p compact",
+   "specs": {
+    "platform": "Xbox",
+    "chip": "Custom AMD Zen 2 8-core CPU @ 3.6 GHz + 4 TFLOPS RDNA 2 GPU (20 CUs)",
+    "storage": "512 GB custom NVMe SSD (expandable)",
+    "output": "HDMI 2.1, 1440p up to 120 FPS",
+    "connectivity": "Wi-Fi 802.11ac, Gigabit Ethernet, 3x USB 3.1 Gen 1, Xbox Wireless",
+    "weightG": 1920,
+    "compatibility": "Xbox Series X|S",
+    "colors": "Robot White"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-MSFT-XBOXSERIESS-1TB",
+   "slug": "microsoft-xbox-series-s-1tb",
+   "name": "Microsoft Xbox Series S – 1TB (White)",
+   "brand": "Microsoft",
+   "category": "consoles",
+   "price": "599.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    34,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [],
+   "summary": "Xbox Series S with a 1 TB SSD in Robot White: all-digital 1440p gaming up to 120 FPS with double the storage.",
+   "description": "This Xbox Series S has the same 4 TFLOPS RDNA 2 GPU, 8-core Zen 2 CPU and 10 GB GDDR6 as the standard Series S, with a 1 TB custom NVMe SSD. It is all-digital and targets 1440p at up to 120 FPS.",
+   "keywords": "xbox series s 1tb white digital console",
+   "specs": {
+    "platform": "Xbox",
+    "chip": "Custom AMD Zen 2 8-core CPU @ 3.6 GHz + 4 TFLOPS RDNA 2 GPU (20 CUs)",
+    "storage": "1 TB custom NVMe SSD (expandable)",
+    "output": "HDMI 2.1, 1440p up to 120 FPS",
+    "connectivity": "Wi-Fi 802.11ac, Gigabit Ethernet, 3x USB 3.1 Gen 1, Xbox Wireless",
+    "weightG": 1920,
+    "compatibility": "Xbox Series X|S",
+    "colors": "Robot White"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-MSFT-XBOXWIRELESSCTRL",
+   "slug": "microsoft-xbox-wireless-controller",
+   "name": "Microsoft Xbox Wireless Controller",
+   "brand": "Microsoft",
+   "category": "controllers",
+   "price": "64.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    13,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "ultimate-gaming-setup"
+   ],
+   "summary": "Xbox Wireless Controller with hybrid D-pad, textured grips, Share button and Bluetooth for Xbox, Windows, Android and iOS.",
+   "description": "The Xbox Wireless Controller has sculpted surfaces, textured triggers and bumpers, a hybrid D-pad and a dedicated Share button. It pairs with Xbox Series X|S, Xbox One, Windows, Android and iOS, and Microsoft quotes battery usage up to 40 hours.",
+   "keywords": "xbox wireless controller gamepad bluetooth pc",
+   "specs": {
+    "platform": "Xbox",
+    "connectivity": "Xbox Wireless, Bluetooth, USB-C",
+    "battery": "Up to 40 hours of battery usage",
+    "compatibility": "Xbox Series X|S, Xbox One, Windows, Android, iOS",
+    "configurations": "Carbon Black – $64.99 · Robot White · Electric Volt · Shock Blue · Velocity Green · Deep Pink · Pulse Red",
+    "colors": "Carbon Black, Robot White, Electric Volt, Shock Blue, Velocity Green, Deep Pink, Pulse Red"
+   },
+   "options": [
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Carbon Black",
+       "default": true
+      },
+      {
+       "label": "Robot White"
+      },
+      {
+       "label": "Electric Volt"
+      },
+      {
+       "label": "Shock Blue"
+      },
+      {
+       "label": "Velocity Green"
+      },
+      {
+       "label": "Deep Pink"
+      },
+      {
+       "label": "Pulse Red"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "sku": "TK-MSFT-XBOXELITE2",
+   "slug": "microsoft-xbox-elite-wireless-controller-series-2",
+   "name": "Microsoft Xbox Elite Wireless Controller Series 2",
+   "brand": "Microsoft",
+   "category": "controllers",
+   "price": "199.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    11,
+    5
+   ],
+   "featured": true,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "ultimate-gaming-setup",
+    "gaming-monsters"
+   ],
+   "summary": "Xbox Elite Wireless Controller Series 2 with adjustable-tension thumbsticks, interchangeable paddles, 3 profiles and up to 40 hours of rechargeable battery.",
+   "description": "The Elite Series 2 offers more than 30 ways to customize play, including adjustable-tension thumbsticks, shorter hair trigger locks, a wrap-around rubberized grip and interchangeable thumbstick and paddle shapes. It stores 3 custom profiles, connects via Xbox Wireless, Bluetooth or USB-C, and includes a charging dock and carrying case with up to 40 hours of rechargeable battery life.",
+   "keywords": "xbox elite series 2 pro controller paddles esports",
+   "specs": {
+    "platform": "Xbox",
+    "connectivity": "Xbox Wireless, Bluetooth, USB-C",
+    "battery": "Rechargeable, up to 40 hours",
+    "compatibility": "Xbox Series X|S, Xbox One, Windows",
+    "colors": "Black"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-MSFT-XBOXELITE2-CORE",
+   "slug": "microsoft-xbox-elite-wireless-controller-series-2-core",
+   "name": "Microsoft Xbox Elite Wireless Controller Series 2 – Core (White)",
+   "brand": "Microsoft",
+   "category": "controllers",
+   "price": "149.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    48,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "ultimate-gaming-setup"
+   ],
+   "summary": "Xbox Elite Series 2 – Core in white: adjustable-tension thumbsticks, hair trigger locks, 3 profiles and 40-hour battery, without the component pack.",
+   "description": "The Elite Series 2 – Core includes the adjustable-tension thumbsticks, shorter hair trigger locks, wrap-around rubberized grip, 3 custom profiles and 40-hour rechargeable battery of the Elite Series 2, with a USB-C cable and thumbstick adjustment tool. Paddles and extra components come in the separately sold Complete Component Pack.",
+   "keywords": "xbox elite series 2 core white controller",
+   "specs": {
+    "platform": "Xbox",
+    "connectivity": "Xbox Wireless, Bluetooth, USB-C",
+    "battery": "Rechargeable, up to 40 hours",
+    "compatibility": "Xbox Series X|S, Xbox One, Windows",
+    "colors": "White"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-MSFT-XBOXADAPTIVE",
+   "slug": "microsoft-xbox-adaptive-controller",
+   "name": "Microsoft Xbox Adaptive Controller",
+   "brand": "Microsoft",
+   "category": "controllers",
+   "price": "99.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    45,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [],
+   "summary": "Xbox Adaptive Controller: an accessible hub for external switches, buttons, mounts and joysticks to build a custom controller setup.",
+   "description": "The Xbox Adaptive Controller is designed primarily for gamers with limited mobility. It lets players connect external switches, buttons, mounts and joysticks (sold separately) to create a custom controller experience across Xbox and Windows.",
+   "keywords": "xbox adaptive controller accessibility switches",
+   "specs": {
+    "platform": "Xbox",
+    "compatibility": "Xbox Series X|S, Xbox One, Windows",
+    "colors": "White"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-MSFT-XBOXWIRELESSHEADSET",
+   "slug": "microsoft-xbox-wireless-headset",
+   "name": "Microsoft Xbox Wireless Headset",
+   "brand": "Microsoft",
+   "category": "headsets",
+   "price": "119.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    47,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "ultimate-gaming-setup"
+   ],
+   "summary": "Xbox Wireless Headset with auto-mute, voice isolation, Dolby Atmos/Windows Sonic support and up to 20 hours of battery.",
+   "description": "The Xbox Wireless Headset pairs directly with Xbox Series X|S, Xbox One and Windows 10/11 (Bluetooth 4.2+ or USB-C), with enhanced auto-mute and voice isolation for chat. It supports Windows Sonic, Dolby Atmos and DTS Headphone:X, offers up to 20 hours per charge and weighs 320 g.",
+   "keywords": "xbox wireless headset gaming headset dolby atmos",
+   "specs": {
+    "connection": "Xbox Wireless, Bluetooth, USB-C",
+    "batteryHours": 20,
+    "colors": "Black"
+   },
+   "options": []
+  }
+ ]
+}

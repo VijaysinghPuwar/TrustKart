@@ -1,0 +1,301 @@
+package com.vijaysinghpuwar.trustkart.catalog;
+
+import static org.assertj.core.api.Assertions.assertThat;
+import static org.assertj.core.api.Assertions.assertThatThrownBy;
+import static org.hamcrest.Matchers.contains;
+import static org.hamcrest.Matchers.everyItem;
+import static org.hamcrest.Matchers.greaterThan;
+import static org.hamcrest.Matchers.greaterThanOrEqualTo;
+import static org.hamcrest.Matchers.hasItem;
+import static org.hamcrest.Matchers.hasSize;
+import static org.hamcrest.Matchers.instanceOf;
+import static org.hamcrest.Matchers.startsWith;
+import static org.springframework.test.web.servlet.request.MockMvcRequestBuilders.get;
+import static org.springframework.test.web.servlet.result.MockMvcResultMatchers.header;
+import static org.springframework.test.web.servlet.result.MockMvcResultMatchers.jsonPath;
+import static org.springframework.test.web.servlet.result.MockMvcResultMatchers.status;
+
+import com.jayway.jsonpath.JsonPath;
+import com.vijaysinghpuwar.trustkart.catalog.application.CatalogService;
+import com.vijaysinghpuwar.trustkart.catalog.infra.CategoryRepository;
+import com.vijaysinghpuwar.trustkart.catalog.infra.ProductRepository;
+import com.vijaysinghpuwar.trustkart.catalog.seed.DemoCatalogSeeder;
+import com.vijaysinghpuwar.trustkart.common.error.ValidationException;
+import com.vijaysinghpuwar.trustkart.search.application.QueryInterpreter;
+import com.vijaysinghpuwar.trustkart.search.application.SuggestService;
+import com.vijaysinghpuwar.trustkart.support.IntegrationTest;
+import java.math.BigDecimal;
+import java.util.List;
+import java.util.Map;
+import org.junit.jupiter.api.BeforeEach;
+import org.junit.jupiter.api.Test;
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.test.web.servlet.MockMvc;
+
+@IntegrationTest
+class CatalogApiIT {
+
+    @Autowired
+    MockMvc mvc;
+
+    @Autowired
+    DemoCatalogSeeder seeder;
+
+    @Autowired
+    ProductRepository products;
+
+    @Autowired
+    CategoryRepository categories;
+
+    @Autowired
+    CatalogService catalog;
+
+    @BeforeEach
+    void seed() {
+        seeder.seed();
+    }
+
+    @Test
+    void seedingIsRepeatableAndNeverDuplicates() {
+        long before = products.count();
+        DemoCatalogSeeder.Result again = seeder.seed();
+
+        assertThat(again.productsCreated()).isZero();
+        assertThat(again.categoriesCreated()).isZero();
+        assertThat(again.productsSkipped()).isEqualTo((int) before);
+        assertThat(products.count()).isEqualTo(before).isGreaterThanOrEqualTo(100);
+    }
+
+    private long topLevelCategories() {
+        return categories.findAll().stream().filter(c -> c.getParent() == null).count();
+    }
+
+    @Test
+    void catalogDepartmentsAreSeeded() {
+        for (String slug : List.of("phones", "wearables", "audio", "tvs", "cameras-drones", "gaming", "smart-home")) {
+            assertThat(categories.findBySlug(slug)).as(slug).isPresent();
+        }
+        assertThat(topLevelCategories()).isEqualTo(18);
+        assertThat(products.count()).isGreaterThan(500);
+    }
+
+    @Test
+    void productDetailExposesPurchaseOptions() throws Exception {
+        mvc.perform(get("/api/v1/catalog/products/apple-iphone-18-pro"))
+                .andExpect(status().isOk())
+                .andExpect(jsonPath("$.options[0].name").value("Storage"))
+                .andExpect(jsonPath("$.options[0].values[0].price").value("1199.00"))
+                .andExpect(jsonPath("$.options[0].values[0].default").value(true))
+                .andExpect(jsonPath("$.options[1].name").value("Color"))
+                .andExpect(jsonPath("$.options[1].values[0].price").doesNotExist());
+        mvc.perform(get("/api/v1/catalog/products/nvidia-rtx-5090-fe"))
+                .andExpect(jsonPath("$.options", hasSize(0)));
+    }
+
+    @Test
+    void optionPricesAreResolvedByTheServer() {
+        long iphone = products.findWithDetailsBySlug("apple-iphone-18-pro").orElseThrow().getId();
+
+        CatalogService.ResolvedOptions defaults = catalog.resolveOptions(iphone, Map.of());
+        assertThat(defaults.unitPrice()).isEqualByComparingTo("1199.00");
+        assertThat(defaults.selection()).containsKeys("Storage", "Color");
+        assertThat(defaults.label()).startsWith("256GB · ");
+
+        CatalogService.ResolvedOptions oneTb = catalog.resolveOptions(iphone, Map.of("Storage", "1TB", "Color", "Silver"));
+        assertThat(oneTb.unitPrice()).isEqualByComparingTo("1799.00");
+        assertThat(oneTb.label()).isEqualTo("1TB · Silver");
+
+        assertThatThrownBy(() -> catalog.resolveOptions(iphone, Map.of("Storage", "64TB")))
+                .isInstanceOf(ValidationException.class);
+        assertThatThrownBy(() -> catalog.resolveOptions(iphone, Map.of("Engraving", "yes")))
+                .isInstanceOf(ValidationException.class);
+        assertThat(catalog.resolveOptionsIfValid(iphone, Map.of("Storage", "64TB"))).isEmpty();
+
+        long gpu = products.findWithDetailsBySlug("nvidia-rtx-5090-fe").orElseThrow().getId();
+        CatalogService.ResolvedOptions plain = catalog.resolveOptions(gpu, Map.of());
+        assertThat(plain.label()).isNull();
+        assertThat(plain.selection()).isEmpty();
+        assertThat(plain.unitPrice()).isEqualByComparingTo("1999.99");
+    }
+
+    @Test
+    void everyInterpreterCategoryExists() {
+        QueryInterpreter.knownCategorySlugs()
+                .forEach(slug -> assertThat(categories.findBySlug(slug)).as(slug).isPresent());
+    }
+
+    @Test
+    void homeReturnsHeroTilesDealsAndCategories() throws Exception {
+        mvc.perform(get("/api/v1/catalog/home"))
+                .andExpect(status().isOk())
+                .andExpect(header().string("Cache-Control", "max-age=60, public"))
+                .andExpect(jsonPath("$.hero.slug").isNotEmpty())
+                .andExpect(jsonPath("$.tiles", hasSize(greaterThanOrEqualTo(6))))
+                .andExpect(jsonPath("$.tiles[0].key").value("latest-iphones"))
+                .andExpect(jsonPath("$.tiles[*].items", everyItem(hasSize(4))))
+                .andExpect(jsonPath("$.deals[*].compareAtPrice", everyItem(instanceOf(String.class))))
+                .andExpect(jsonPath("$.categories", hasSize((int) topLevelCategories())));
+    }
+
+    @Test
+    void moneyIsSerialisedAsDecimalStrings() throws Exception {
+        mvc.perform(get("/api/v1/catalog/products/nvidia-rtx-5090-fe"))
+                .andExpect(status().isOk())
+                .andExpect(jsonPath("$.product.price").value("1999.99"))
+                .andExpect(jsonPath("$.product.stockStatus").value("LOW_STOCK"))
+                .andExpect(jsonPath("$.product.stockLeft").value(2))
+                .andExpect(jsonPath("$.product.maxQuantity").value(2))
+                .andExpect(jsonPath("$.breadcrumbs[*].slug", contains("components", "gpus")))
+                .andExpect(jsonPath("$.specGroups[0].specs[*].label", hasItem("GPU")))
+                .andExpect(jsonPath("$.images[0].credit").isNotEmpty());
+    }
+
+    @Test
+    void categoryFilterIncludesDescendants() throws Exception {
+        mvc.perform(get("/api/v1/catalog/products").param("category", "laptops").param("size", "60"))
+                .andExpect(status().isOk())
+                .andExpect(jsonPath("$.totalItems", greaterThan(8)))
+                .andExpect(jsonPath("$.items[*].category.slug", hasItem("gaming-laptops")))
+                .andExpect(jsonPath("$.items[*].category.slug", hasItem("premium-laptops")))
+                .andExpect(jsonPath("$.items[*].category.slug", hasItem("developer-laptops")));
+    }
+
+    @Test
+    void numericSpecRangeFiltersUseJsonb() throws Exception {
+        String body = mvc.perform(get("/api/v1/catalog/products").param("category", "gpus").param("spec.vramGb.min", "32"))
+                .andExpect(status().isOk())
+                .andReturn().getResponse().getContentAsString();
+        List<String> slugs = JsonPath.read(body, "$.items[*].slug");
+        assertThat(slugs).contains("nvidia-rtx-5090-fe", "nvidia-rtx-pro-6000-blackwell", "nvidia-h200-nvl");
+        assertThat(slugs).doesNotContain("nvidia-rtx-5070-ti");
+    }
+
+    @Test
+    void textAndBooleanSpecFilters() throws Exception {
+        mvc.perform(get("/api/v1/catalog/products").param("category", "cpus").param("spec.socket", "AM5"))
+                .andExpect(jsonPath("$.totalItems", greaterThanOrEqualTo(2)))
+                .andExpect(jsonPath("$.items[*].slug", hasItem("amd-ryzen-9-9950x")));
+        mvc.perform(get("/api/v1/catalog/products").param("category", "keyboards").param("spec.quiet", "true"))
+                .andExpect(jsonPath("$.totalItems", greaterThanOrEqualTo(3)))
+                .andExpect(jsonPath("$.items[*].slug", hasItem("keychron-v3-max")));
+    }
+
+    @Test
+    void unknownSpecKeyIsRejectedNotPassedToSql() throws Exception {
+        mvc.perform(get("/api/v1/catalog/products").param("category", "gpus").param("spec.price'--", "1"))
+                .andExpect(status().isBadRequest())
+                .andExpect(jsonPath("$.code").value("VALIDATION_ERROR"));
+        mvc.perform(get("/api/v1/catalog/products").param("category", "gpus").param("spec.socket", "AM5"))
+                .andExpect(status().isBadRequest());
+    }
+
+    @Test
+    void specFiltersRequireACategory() throws Exception {
+        mvc.perform(get("/api/v1/catalog/products").param("spec.vramGb.min", "16"))
+                .andExpect(status().isBadRequest());
+    }
+
+    @Test
+    void invalidListingParametersReturn400() throws Exception {
+        mvc.perform(get("/api/v1/catalog/products").param("size", "500")).andExpect(status().isBadRequest());
+        mvc.perform(get("/api/v1/catalog/products").param("minPrice", "-1")).andExpect(status().isBadRequest());
+        mvc.perform(get("/api/v1/catalog/products").param("minPrice", "10").param("maxPrice", "5"))
+                .andExpect(status().isBadRequest());
+        mvc.perform(get("/api/v1/catalog/products").param("sort", "price; drop table product"))
+                .andExpect(status().isBadRequest());
+        mvc.perform(get("/api/v1/catalog/products").param("category", "../etc")).andExpect(status().isBadRequest());
+    }
+
+    @Test
+    void sortsByPriceWithStablePaging() throws Exception {
+        String body = mvc.perform(get("/api/v1/catalog/products").param("category", "servers").param("sort", "price_asc"))
+                .andReturn().getResponse().getContentAsString();
+        List<String> prices = JsonPath.read(body, "$.items[*].price");
+        assertThat(prices).extracting(BigDecimal::new).isSortedAccordingTo(BigDecimal::compareTo);
+    }
+
+    @Test
+    void paginationReportsTotals() throws Exception {
+        mvc.perform(get("/api/v1/catalog/products").param("size", "10").param("page", "1"))
+                .andExpect(jsonPath("$.items", hasSize(10)))
+                .andExpect(jsonPath("$.page").value(1))
+                .andExpect(jsonPath("$.totalItems", greaterThan(100)))
+                .andExpect(jsonPath("$.totalPages", greaterThan(10)));
+    }
+
+    @Test
+    void naturalLanguageSearchIsInterpreted() throws Exception {
+        mvc.perform(get("/api/v1/search").param("q", "quiet mechanical keyboard for programming under $100"))
+                .andExpect(status().isOk())
+                .andExpect(jsonPath("$.mode").value("exact"))
+                .andExpect(jsonPath("$.smartAvailable").value(false))
+                .andExpect(jsonPath("$.interpretation[?(@.kind == 'CATEGORY')].value").value("Keyboards"))
+                .andExpect(jsonPath("$.interpretation[?(@.kind == 'BUDGET')].value").value("Under $100"))
+                .andExpect(jsonPath("$.results.items[0].slug").value("keychron-v3-max"));
+    }
+
+    @Test
+    void removingAnInterpretedChipWidensTheSearch() throws Exception {
+        mvc.perform(get("/api/v1/search").param("q", "keyboard under $100").param("ignore", "budget"))
+                .andExpect(jsonPath("$.interpretation[?(@.kind == 'BUDGET')]").isEmpty())
+                .andExpect(jsonPath("$.results.totalItems", greaterThanOrEqualTo(4)));
+    }
+
+    @Test
+    void everyExampleQueryReturnsResults() throws Exception {
+        for (String example : SuggestService.EXAMPLES) {
+            String body = mvc.perform(get("/api/v1/search").param("q", example))
+                    .andExpect(status().isOk()).andReturn().getResponse().getContentAsString();
+            Integer total = JsonPath.read(body, "$.results.totalItems");
+            assertThat(total).as(example).isPositive();
+        }
+    }
+
+    @Test
+    void injectionAttemptsInSearchAreHarmless() throws Exception {
+        mvc.perform(get("/api/v1/search").param("q", "' OR 1=1; DROP TABLE product; -- :* & | !()"))
+                .andExpect(status().isOk());
+        assertThat(products.count()).isGreaterThanOrEqualTo(100);
+    }
+
+    @Test
+    void suggestionsIncludeInterpretationAndProducts() throws Exception {
+        mvc.perform(get("/api/v1/search/suggest").param("q", "yubikey"))
+                .andExpect(status().isOk())
+                .andExpect(jsonPath("$.products[0].name", startsWith("Yubico")));
+    }
+
+    @Test
+    void compareAlignsSpecsAndFlagsDifferences() throws Exception {
+        mvc.perform(get("/api/v1/catalog/compare").param("slugs", "amd-ryzen-9-9950x", "intel-core-ultra-9-285k"))
+                .andExpect(status().isOk())
+                .andExpect(jsonPath("$.products", hasSize(2)))
+                .andExpect(jsonPath("$.rows[?(@.key == 'socket')].values[*]", contains("AM5", "LGA1851")))
+                .andExpect(jsonPath("$.rows[?(@.key == 'socket')].differs", contains(true)));
+    }
+
+    @Test
+    void compareEnforcesTwoToFourProducts() throws Exception {
+        mvc.perform(get("/api/v1/catalog/compare").param("slugs", "amd-ryzen-9-9950x"))
+                .andExpect(status().isBadRequest());
+        mvc.perform(get("/api/v1/catalog/compare").param("slugs", "a", "b", "c", "d", "e"))
+                .andExpect(status().isBadRequest());
+    }
+
+    @Test
+    void unknownProductIs404() throws Exception {
+        mvc.perform(get("/api/v1/catalog/products/does-not-exist"))
+                .andExpect(status().isNotFound())
+                .andExpect(jsonPath("$.code").value("NOT_FOUND"));
+    }
+
+    @Test
+    void facetsExposeCategorySpecificFilters() throws Exception {
+        mvc.perform(get("/api/v1/catalog/categories/gpus/facets"))
+                .andExpect(status().isOk())
+                .andExpect(jsonPath("$.specs[*].key", hasItem("vramGb")))
+                .andExpect(jsonPath("$.brands[*].value", hasItem("nvidia")))
+                .andExpect(jsonPath("$.price.min").isNotEmpty())
+                .andExpect(jsonPath("$.price.max").isNotEmpty());
+    }
+}

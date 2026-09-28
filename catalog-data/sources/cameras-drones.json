@@ -1,0 +1,1896 @@
+{
+  "meta": {
+    "notes": "Cameras, lenses, action/360 cameras, drones and creator audio from Canon, Nikon, Fujifilm, Panasonic LUMIX, OM System, Leica, Blackmagic Design, GoPro, DJI and Insta360. Researched 2026-09-28 from official manufacturer sites/stores. Prices are the maker's US list price (msrp) unless noted; temporary promotional prices are recorded in priceNote, not used as price. Camera categories have no colors spec, so colour options appear in variant labels."
+  },
+  "products": [
+    {
+      "sku": "TK-NIKON-Z9",
+      "slug": "nikon-z9",
+      "name": "Nikon Z9",
+      "brand": "Nikon",
+      "category": "mirrorless-cameras",
+      "price": "5899.95",
+      "priceBasis": "msrp",
+      "priceSource": "https://www.nikonusa.com/p/z-9/1669/overview",
+      "priceAsOf": "2026-09-28",
+      "priceNote": "Nikon USA list price; the Nikon USA store showed a promotional price of $5,299.95 on 2026-09-28.",
+      "releaseYear": 2021,
+      "summary": "Nikon's flagship full-frame mirrorless body with a 45.7MP stacked sensor, 8K video and a blackout-free viewfinder.",
+      "description": "The Z9 is Nikon's flagship mirrorless camera, pairing a 45.7-megapixel FX-format stacked CMOS sensor with deep-learning subject-detection autofocus. It shoots stills at up to 120 fps and records 8K and 4K video. It has a truly blackout-free viewfinder and Nikon's first 4-axis tilting touchscreen in an integrated-grip pro body.",
+      "keywords": "nikon z9 flagship pro mirrorless 8k sports wildlife fx",
+      "specs": {
+        "sensor": "Full-frame (FX) stacked CMOS, 35.9 x 23.9 mm",
+        "megapixels": 45.7,
+        "mount": "Nikon Z",
+        "video": "8K UHD up to 30p; 4K UHD up to 120p",
+        "stabilization": "5-axis in-body sensor shift",
+        "autofocus": "Hybrid phase-detect/contrast AF with deep-learning subject detection",
+        "battery": "EN-EL18d Li-ion",
+        "weightG": 1340
+      },
+      "variants": [
+        {
+          "label": "Body only",
+          "price": "5899.95"
+        }
+      ],
+      "collections": [
+        "creator-workstations"
+      ],
+      "featured": true,
+      "warranty": 12,
+      "sources": {
+        "product": "https://www.nikonusa.com/p/z-9/1669/overview",
+        "retrievedAt": "2026-09-28"
+      },
+      "image": {
+        "url": "https://images.cdn.us-central1.gcp.commercetools.com/f7c8f2bb-aff1-4581-a826-1ad2527be222/FrontRight-z-9-34-r-a_clFlAq.png",
+        "page": "https://www.nikonusa.com/p/z-9/1669/overview",
+        "sourceType": "manufacturer-product-page",
+        "rights": "Official Nikon USA store product image; Nikon has not granted a reuse license — rights not verified.",
+        "alt": "Nikon Z9 full-frame mirrorless camera with NIKKOR Z zoom lens, front-right three-quarter view on white",
+        "match": "EXACT",
+        "credit": "Nikon"
+      }
+    },
+    {
+      "sku": "TK-NIKON-Z8",
+      "slug": "nikon-z8",
+      "name": "Nikon Z8",
+      "brand": "Nikon",
+      "category": "mirrorless-cameras",
+      "price": "4299.95",
+      "priceBasis": "msrp",
+      "priceSource": "https://www.nikonusa.com/p/z-8/1695/overview",
+      "priceAsOf": "2026-09-28",
+      "priceNote": "Nikon USA list price; the Nikon USA store showed a promotional price of $3,599.95 on 2026-09-28.",
+      "releaseYear": 2023,
+      "summary": "Compact pro hybrid with the Z9's 45.7MP stacked sensor, 12-bit 8K/60p RAW video and 120 fps capture.",
+      "description": "The Z8 packs Nikon's flagship 45.7MP stacked CMOS sensor into a smaller body without an integrated grip. Video includes 12-bit 8K/60p and 4K/120p RAW plus 10-bit ProRes 422 HQ recorded internally. It offers a silent, vibration-free electronic shutter, 120 fps burst capture and a blackout-free viewfinder.",
+      "keywords": "nikon z8 hybrid 8k raw prores stacked sensor",
+      "specs": {
+        "sensor": "Full-frame (FX) stacked CMOS, 35.9 x 23.9 mm",
+        "megapixels": 45.7,
+        "mount": "Nikon Z",
+        "video": "12-bit 8K/60p N-RAW, 4K/120p; ProRes 422 HQ internal",
+        "stabilization": "5-axis in-body sensor shift",
+        "autofocus": "Hybrid phase-detect/contrast AF, 493 points, deep-learning subject detection",
+        "battery": "EN-EL15c Li-ion",
+        "weightG": 910
+      },
+      "variants": [
+        {
+          "label": "Body only",
+          "price": "4299.95"
+        },
+        {
+          "label": "NIKKOR Z 24-120mm f/4 S kit",
+          "price": "5199.95"
+        },
+        {
+          "label": "NIKKOR Z 180-600mm kit",
+          "price": "6249.95"
+        }
+      ],
+      "collections": [
+        "creator-workstations"
+      ],
+      "featured": false,
+      "warranty": 12,
+      "sources": {
+        "product": "https://www.nikonusa.com/p/z-8/1695/overview",
+        "retrievedAt": "2026-09-28"
+      },
+      "image": {
+        "url": "https://images.cdn.us-central1.gcp.commercetools.com/f7c8f2bb-aff1-4581-a826-1ad2527be222/FrontLeft-z-8-24-120-I9JxIVrg.png",
+        "page": "https://www.nikonusa.com/p/z-8/1695/overview",
+        "sourceType": "manufacturer-product-page",
+        "rights": "Official Nikon USA store product image; Nikon has not granted a reuse license — rights not verified.",
+        "alt": "Nikon Z8 mirrorless camera with NIKKOR Z 24-120mm lens, front-left three-quarter view on white",
+        "match": "EXACT",
+        "credit": "Nikon"
+      }
+    },
+    {
+      "sku": "TK-NIKON-Z6III",
+      "slug": "nikon-z6iii",
+      "name": "Nikon Z6III",
+      "brand": "Nikon",
+      "category": "mirrorless-cameras",
+      "price": "2699.95",
+      "priceBasis": "msrp",
+      "priceSource": "https://www.nikonusa.com/p/z6iii/1890/overview",
+      "priceAsOf": "2026-09-28",
+      "priceNote": "Nikon USA list price; the Nikon USA store showed a promotional price of $2,199.95 on 2026-09-28.",
+      "releaseYear": 2024,
+      "summary": "Full-frame hybrid with a partially-stacked 24.5MP sensor, 6K/60p internal RAW and 120 fps shooting.",
+      "description": "The Z6III uses a partially-stacked 24.5MP CMOS sensor and EXPEED 7 processor, with multi-subject detection autofocus inherited from Nikon's flagships. Its electronic shutter reaches up to 120 fps, and video includes 6K/60p internal RAW and Full HD at 240p. A bright, wide-gamut EVF supports high frame rates.",
+      "keywords": "nikon z6 iii z6iii hybrid 6k raw full frame",
+      "specs": {
+        "sensor": "Full-frame (FX) partially-stacked CMOS, 35.9 x 23.9 mm",
+        "megapixels": 24.5,
+        "mount": "Nikon Z",
+        "video": "6K/60p internal RAW; 5.4K/60p, 4K/120p, 1080/240p",
+        "autofocus": "Hybrid phase-detect/contrast AF with multi-subject detection",
+        "battery": "EN-EL15c Li-ion",
+        "weightG": 670
+      },
+      "variants": [
+        {
+          "label": "Body only",
+          "price": "2699.95"
+        },
+        {
+          "label": "NIKKOR Z 24-70mm f/4 kit",
+          "price": "3299.95"
+        },
+        {
+          "label": "NIKKOR Z 24-120mm f/4 kit",
+          "price": "3599.95"
+        }
+      ],
+      "featured": false,
+      "warranty": 12,
+      "sources": {
+        "product": "https://www.nikonusa.com/p/z6iii/1890/overview",
+        "retrievedAt": "2026-09-28"
+      },
+      "image": {
+        "url": "https://images.cdn.us-central1.gcp.commercetools.com/f7c8f2bb-aff1-4581-a826-1ad2527be222/Z6III_24-70_4_front3-c8QAAHXw.png",
+        "page": "https://www.nikonusa.com/p/z6iii/1890/overview",
+        "sourceType": "manufacturer-product-page",
+        "rights": "Official Nikon USA store product image; Nikon has not granted a reuse license — rights not verified.",
+        "alt": "Nikon Z6III full-frame mirrorless camera with NIKKOR Z 24-70mm f/4 lens, front-left three-quarter view",
+        "match": "EXACT",
+        "credit": "Nikon"
+      }
+    },
+    {
+      "sku": "TK-NIKON-Z5II",
+      "slug": "nikon-z5ii",
+      "name": "Nikon Z5II",
+      "brand": "Nikon",
+      "category": "mirrorless-cameras",
+      "price": "1849.95",
+      "priceBasis": "msrp",
+      "priceSource": "https://www.nikonusa.com/p/z5ii/1680/overview",
+      "priceAsOf": "2026-09-28",
+      "priceNote": "Nikon USA list price; the Nikon USA store showed a promotional price of $1,699.95 on 2026-09-28.",
+      "releaseYear": 2025,
+      "summary": "Entry full-frame Z body with a 24.5MP sensor, in-body stabilization and internal N-RAW video.",
+      "description": "The Z5II is Nikon's accessible full-frame mirrorless camera with a 24.5MP FX sensor and 5-axis in-body stabilization. Nikon highlights better low-light performance, autofocus with 299 points and subject tracking, and a clearer viewfinder. Video options include 12-bit N-RAW, N-Log and HLG recording.",
+      "keywords": "nikon z5 ii z5ii entry full frame beginner",
+      "specs": {
+        "sensor": "Full-frame (FX) CMOS, 35.9 x 23.9 mm",
+        "megapixels": 24.5,
+        "mount": "Nikon Z",
+        "video": "4K UHD; 12-bit N-RAW internal (4K/30p FX, 4K/120p DX crop)",
+        "stabilization": "5-axis in-body sensor shift",
+        "autofocus": "Hybrid phase-detect/contrast AF, 299 points, subject tracking",
+        "battery": "EN-EL15c Li-ion",
+        "weightG": 620
+      },
+      "variants": [
+        {
+          "label": "Body only",
+          "price": "1849.95"
+        },
+        {
+          "label": "NIKKOR Z 24-50mm kit",
+          "price": "2149.95"
+        },
+        {
+          "label": "NIKKOR Z 24-70mm f/4 kit",
+          "price": "2449.95"
+        },
+        {
+          "label": "NIKKOR Z 24-200mm kit",
+          "price": "2649.95"
+        }
+      ],
+      "featured": false,
+      "warranty": 12,
+      "sources": {
+        "product": "https://www.nikonusa.com/p/z5ii/1680/overview",
+        "retrievedAt": "2026-09-28"
+      },
+      "image": {
+        "url": "https://images.cdn.us-central1.gcp.commercetools.com/f7c8f2bb-aff1-4581-a826-1ad2527be222/1680-z5ii-34-left-u2-9MEI-.png",
+        "page": "https://www.nikonusa.com/p/z5ii/1680/overview",
+        "sourceType": "manufacturer-product-page",
+        "rights": "Official Nikon USA store product image; Nikon has not granted a reuse license — rights not verified.",
+        "alt": "Nikon Z5II full-frame mirrorless camera with kit zoom lens, front-left three-quarter view",
+        "match": "EXACT",
+        "credit": "Nikon"
+      }
+    },
+    {
+      "sku": "TK-NIKON-Z5IIC",
+      "slug": "nikon-z5iic",
+      "name": "Nikon Z5IIc",
+      "brand": "Nikon",
+      "category": "mirrorless-cameras",
+      "price": "1399.95",
+      "priceBasis": "msrp",
+      "priceSource": "https://www.nikonusa.com/p/z5iic/2082/overview",
+      "priceAsOf": "2026-09-28",
+      "priceNote": "Nikon USA store price; listed as pre-order on 2026-09-28.",
+      "releaseYear": 2026,
+      "summary": "Compact viewfinder-less full-frame Z camera with a 24.5MP sensor, in-body VR and 4K/60p video.",
+      "description": "The Z5IIc is a compact full-frame mirrorless camera designed without a viewfinder, framed with a responsive touchscreen and familiar controls. It uses a 24.5MP FX sensor with 5-axis in-body vibration reduction and records 4K UHD up to 60p. It was listed for pre-order on the Nikon USA store at research time.",
+      "keywords": "nikon z5iic z5 iic compact full frame no viewfinder travel street new",
+      "specs": {
+        "sensor": "Full-frame (FX) CMOS, 35.9 x 23.9 mm",
+        "megapixels": 24.5,
+        "mount": "Nikon Z",
+        "video": "4K UHD up to 60p; 1080 up to 120p",
+        "stabilization": "5-axis in-body sensor shift",
+        "autofocus": "Hybrid phase-detect/contrast AF",
+        "battery": "EN-EL15c Li-ion",
+        "weightG": 538
+      },
+      "variants": [
+        {
+          "label": "Body only – Silver",
+          "price": "1399.95"
+        },
+        {
+          "label": "Body only – Black",
+          "price": "1399.95"
+        },
+        {
+          "label": "NIKKOR Z 24-50mm kit (Silver or Black)",
+          "price": "1699.95"
+        }
+      ],
+      "featured": false,
+      "warranty": 12,
+      "sources": {
+        "product": "https://www.nikonusa.com/p/z5iic/2082/overview",
+        "retrievedAt": "2026-09-28"
+      },
+      "image": {
+        "url": "https://images.cdn.us-central1.gcp.commercetools.com/f7c8f2bb-aff1-4581-a826-1ad2527be222/2083-sl-z5iic-34l-a0JBjEZX.png",
+        "page": "https://www.nikonusa.com/p/z5iic/2082/overview",
+        "sourceType": "manufacturer-product-page",
+        "rights": "Official Nikon USA store product image; Nikon has not granted a reuse license — rights not verified.",
+        "alt": "Nikon Z5IIc in silver with NIKKOR Z 24-50mm lens, front-left three-quarter view on white",
+        "match": "EXACT",
+        "credit": "Nikon"
+      }
+    },
+    {
+      "sku": "TK-NIKON-ZF",
+      "slug": "nikon-zf",
+      "name": "Nikon Zf",
+      "brand": "Nikon",
+      "category": "mirrorless-cameras",
+      "price": "2199.95",
+      "priceBasis": "msrp",
+      "priceSource": "https://www.nikonusa.com/p/z-f/1761/overview",
+      "priceAsOf": "2026-09-28",
+      "releaseYear": 2023,
+      "summary": "Heritage-styled full-frame Z camera with a 24.5MP sensor, deep-learning AF and in-body stabilization.",
+      "description": "The Zf combines full-frame image quality and deep-learning autofocus with a classic, tactile body inspired by Nikon film cameras. It offers strong low-light capability and 5-axis in-body image stabilization. The Nikon USA store sells it in black, silver and a range of colored leatherette options.",
+      "keywords": "nikon zf retro heritage full frame street",
+      "specs": {
+        "sensor": "Full-frame (FX) CMOS, 35.9 x 23.9 mm",
+        "megapixels": 24.5,
+        "mount": "Nikon Z",
+        "video": "4K UHD up to 30p; 1080 up to 120p",
+        "stabilization": "5-axis in-body sensor shift",
+        "autofocus": "Hybrid phase-detect/contrast AF with deep-learning subject detection",
+        "battery": "EN-EL15c Li-ion",
+        "weightG": 630
+      },
+      "variants": [
+        {
+          "label": "Body only – Black",
+          "price": "2199.95"
+        },
+        {
+          "label": "Body only – Silver/Black",
+          "price": "2199.95"
+        },
+        {
+          "label": "Body only – colored leatherette editions",
+          "price": "2299.95"
+        },
+        {
+          "label": "40mm f/2 (SE) kit",
+          "price": "2439.95"
+        },
+        {
+          "label": "24-70mm f/4 kit",
+          "price": "2799.95"
+        }
+      ],
+      "featured": false,
+      "warranty": 12,
+      "sources": {
+        "product": "https://www.nikonusa.com/p/z-f/1761/overview",
+        "retrievedAt": "2026-09-28"
+      },
+      "image": {
+        "url": "https://images.cdn.us-central1.gcp.commercetools.com/f7c8f2bb-aff1-4581-a826-1ad2527be222/1761-zf-blk-blk-A9TEYB0n.png",
+        "page": "https://www.nikonusa.com/p/z-f/1761/overview",
+        "sourceType": "manufacturer-product-page",
+        "rights": "Official Nikon USA store product image; Nikon has not granted a reuse license — rights not verified.",
+        "alt": "Nikon Zf full-frame mirrorless camera body in black, front view without lens",
+        "match": "EXACT",
+        "credit": "Nikon"
+      }
+    },
+    {
+      "sku": "TK-NIKON-Z50II",
+      "slug": "nikon-z50ii",
+      "name": "Nikon Z50II",
+      "brand": "Nikon",
+      "category": "mirrorless-cameras",
+      "price": "1009.95",
+      "priceBasis": "msrp",
+      "priceSource": "https://www.nikonusa.com/p/z50ii/1784/overview",
+      "priceAsOf": "2026-09-28",
+      "priceNote": "Nikon USA store price; body-only showed as backorder on 2026-09-28.",
+      "releaseYear": 2024,
+      "summary": "Compact APS-C (DX) creator camera with a 20.9MP sensor, subject-detection AF and 4K video.",
+      "description": "The Z50II is a small, lightweight DX-format interchangeable-lens camera with film-inspired looks, intelligent auto modes and easy sharing. It inherits multi-subject recognition autofocus, high-speed shooting and 4K video features from Nikon's pro mirrorless models. Stabilization is provided by VR lenses.",
+      "keywords": "nikon z50 ii z50ii aps-c dx vlog creator beginner",
+      "specs": {
+        "sensor": "APS-C (DX) CMOS, 23.5 x 15.7 mm",
+        "megapixels": 20.9,
+        "mount": "Nikon Z",
+        "video": "4K UHD; H.265 10-bit, N-Log and HLG",
+        "stabilization": "Lens-shift VR (with VR lenses); electronic VR for movies",
+        "autofocus": "Hybrid phase-detect/contrast AF, 231 points, multi-subject detection",
+        "battery": "EN-EL25a Li-ion",
+        "weightG": 495
+      },
+      "variants": [
+        {
+          "label": "Body only",
+          "price": "1009.95"
+        },
+        {
+          "label": "16-50mm lens kit",
+          "price": "1149.95"
+        },
+        {
+          "label": "Two-lens kit",
+          "price": "1399.95"
+        },
+        {
+          "label": "16-50mm f/2.8 VR lens kit",
+          "price": "1609.95"
+        }
+      ],
+      "featured": false,
+      "warranty": 12,
+      "sources": {
+        "product": "https://www.nikonusa.com/p/z50ii/1784/overview",
+        "retrievedAt": "2026-09-28"
+      },
+      "image": {
+        "url": "https://images.cdn.us-central1.gcp.commercetools.com/f7c8f2bb-aff1-4581-a826-1ad2527be222/Z50II_16-50DX-34-lef-THHYS4Jm.png",
+        "page": "https://www.nikonusa.com/p/z50ii/1784/overview",
+        "sourceType": "manufacturer-product-page",
+        "rights": "Official Nikon USA store product image; Nikon has not granted a reuse license — rights not verified.",
+        "alt": "Nikon Z50II APS-C mirrorless camera with 16-50mm DX lens, front-left three-quarter view",
+        "match": "EXACT",
+        "credit": "Nikon"
+      }
+    },
+    {
+      "sku": "TK-NIKON-ZR",
+      "slug": "nikon-zr",
+      "name": "Nikon ZR",
+      "brand": "Nikon",
+      "category": "mirrorless-cameras",
+      "price": "2199.95",
+      "priceBasis": "msrp",
+      "priceSource": "https://www.nikonusa.com/p/zr/2006/overview",
+      "priceAsOf": "2026-09-28",
+      "releaseYear": 2025,
+      "summary": "Ultra-compact full-frame 6K cinema camera with RED color science, 32-bit float audio and 7.5-stop in-body VR.",
+      "description": "The ZR brings Nikon and RED technology together in an ultra-compact full-frame 6K cinema camera for filmmakers of all levels. It features RED color science, professional 32-bit float audio and Nikon's deep-learning autofocus with nine subject-detection modes. It uses the Z mount, compatible with NIKKOR and third-party lenses.",
+      "keywords": "nikon zr red cinema camera 6k filmmaker video r3d",
+      "specs": {
+        "sensor": "24.5MP full-frame CMOS, 35.9 x 23.9 mm",
+        "megapixels": 24.5,
+        "mount": "Nikon Z",
+        "video": "6K full-frame cinema recording with RED color science; 32-bit float audio",
+        "stabilization": "In-body Vibration Reduction, up to 7.5 stops",
+        "autofocus": "Deep-learning AF with 9 subject-detection modes",
+        "battery": "EN-EL15c; external V-mount power via USB-C",
+        "weightG": 540
+      },
+      "variants": [
+        {
+          "label": "Body only",
+          "price": "2199.95"
+        },
+        {
+          "label": "24-50mm lens kit",
+          "price": "2499.95"
+        },
+        {
+          "label": "50mm lens kit",
+          "price": "2749.95"
+        },
+        {
+          "label": "35mm lens kit",
+          "price": "2849.95"
+        }
+      ],
+      "collections": [
+        "creator-workstations"
+      ],
+      "featured": true,
+      "warranty": 12,
+      "sources": {
+        "product": "https://www.nikonusa.com/p/zr/2006/overview",
+        "retrievedAt": "2026-09-28"
+      },
+      "image": {
+        "url": "https://images.cdn.us-central1.gcp.commercetools.com/f7c8f2bb-aff1-4581-a826-1ad2527be222/zr-50-14-front-_tqYptkk.png",
+        "page": "https://www.nikonusa.com/p/zr/2006/overview",
+        "sourceType": "manufacturer-product-page",
+        "rights": "Official Nikon USA store product image; Nikon has not granted a reuse license — rights not verified.",
+        "alt": "Nikon ZR compact cinema camera with NIKKOR Z 50mm f/1.4 lens, straight-on front view on white",
+        "match": "EXACT",
+        "credit": "Nikon"
+      }
+    },
+    {
+      "sku": "TK-NIKON-Z2470F28SII",
+      "slug": "nikon-nikkor-z-24-70mm-f2-8-s-ii",
+      "name": "Nikon NIKKOR Z 24-70mm f/2.8 S II",
+      "brand": "Nikon",
+      "category": "camera-lenses",
+      "price": "2799.95",
+      "priceBasis": "msrp",
+      "priceSource": "https://www.nikonusa.com/p/nikkor-z-24-70mm-f28-s-ii/20129/overview",
+      "priceAsOf": "2026-09-28",
+      "releaseYear": 2025,
+      "summary": "Full-frame pro standard zoom with an internal-zoom design, 11-blade aperture and Silky Swift VCM autofocus.",
+      "description": "Nikon calls this the world's first 24-70mm f/2.8 full-frame mirrorless lens with an internal zoom mechanism, so its length and balance never change while zooming. It is the S-Line successor to the original 24-70mm f/2.8 S and weighs 675 g.",
+      "keywords": "nikkor z 24-70 f2.8 s ii zoom lens internal zoom pro",
+      "specs": {
+        "mount": "Nikon Z",
+        "focalLength": "24-70mm",
+        "maxAperture": "f/2.8",
+        "sensor": "Full-frame (FX); DX compatible",
+        "weightG": 675
+      },
+      "featured": false,
+      "warranty": 12,
+      "sources": {
+        "product": "https://www.nikonusa.com/p/nikkor-z-24-70mm-f28-s-ii/20129/overview",
+        "retrievedAt": "2026-09-28"
+      },
+      "image": {
+        "url": "https://images.cdn.us-central1.gcp.commercetools.com/f7c8f2bb-aff1-4581-a826-1ad2527be222/20129-Z24-70-2-8-S-I-5Lck4epg.png",
+        "page": "https://www.nikonusa.com/p/nikkor-z-24-70mm-f28-s-ii/20129/overview",
+        "sourceType": "manufacturer-product-page",
+        "rights": "Official Nikon USA store product image; Nikon has not granted a reuse license — rights not verified.",
+        "alt": "NIKKOR Z 24-70mm f/2.8 S II zoom lens, side view on white",
+        "match": "EXACT",
+        "credit": "Nikon"
+      }
+    },
+    {
+      "sku": "TK-FUJI-XH2S",
+      "slug": "fujifilm-x-h2s",
+      "name": "FUJIFILM X-H2S",
+      "brand": "FUJIFILM",
+      "category": "mirrorless-cameras",
+      "price": "2899.95",
+      "priceBasis": "msrp",
+      "priceSource": "https://shopusa.fujifilm-x.com/x-h2s-x-h2s/",
+      "priceAsOf": "2026-09-28",
+      "releaseYear": 2022,
+      "summary": "Speed-focused APS-C flagship with a stacked 26.16MP X-Trans CMOS 5 HS sensor, 40 fps bursts and 6.2K ProRes video.",
+      "description": "The X-H2S is FUJIFILM's high-speed X Series flagship, built around a stacked 26.16MP X-Trans CMOS 5 HS sensor. It shoots up to approx. 40 fps with the electronic shutter and records 6.2K and 4K video, including Apple ProRes 422 HQ internally. 5-axis in-body stabilization is rated up to 7.0 stops.",
+      "keywords": "fujifilm fuji x-h2s xh2s stacked aps-c sports video prores",
+      "specs": {
+        "sensor": "APS-C X-Trans CMOS 5 HS (stacked), 23.5 x 15.6 mm",
+        "megapixels": 26.16,
+        "mount": "FUJIFILM X",
+        "video": "6.2K/30p, 4K/120p; Apple ProRes 422 HQ internal",
+        "stabilization": "5-axis in-body, up to 7.0 stops",
+        "autofocus": "Intelligent Hybrid AF (phase + contrast detection) with subject detection",
+        "battery": "NP-W235 Li-ion",
+        "weightG": 660
+      },
+      "variants": [
+        {
+          "label": "Body only – Black",
+          "price": "2899.95"
+        }
+      ],
+      "collections": [
+        "creator-workstations"
+      ],
+      "featured": false,
+      "warranty": 12,
+      "sources": {
+        "product": "https://www.fujifilm-x.com/en-us/products/cameras/x-h2s/",
+        "specs": "https://www.fujifilm-x.com/en-us/products/cameras/x-h2s/specifications/",
+        "retrievedAt": "2026-09-28"
+      },
+      "image": {
+        "url": "https://shopusa.fujifilm-x.com/media/catalog/product/1/6/16756924_MAIN00_Image_X-H2S_front_CMOS_3.jpg",
+        "page": "https://shopusa.fujifilm-x.com/x-h2s-x-h2s/",
+        "sourceType": "manufacturer-product-page",
+        "rights": "Official FUJIFILM North America (shopusa.fujifilm-x.com) product image; no reuse license granted — rights not verified.",
+        "alt": "FUJIFILM X-H2S camera body in black, front view with sensor visible, no lens",
+        "match": "EXACT",
+        "credit": "FUJIFILM"
+      }
+    },
+    {
+      "sku": "TK-FUJI-XT5",
+      "slug": "fujifilm-x-t5",
+      "name": "FUJIFILM X-T5",
+      "brand": "FUJIFILM",
+      "category": "mirrorless-cameras",
+      "price": "1999.95",
+      "priceBasis": "msrp",
+      "priceSource": "https://shopusa.fujifilm-x.com/x-t5-x-t5/",
+      "priceAsOf": "2026-09-28",
+      "priceNote": "FUJIFILM US store price; body-only showed out of stock on 2026-09-28 while lens kits were in stock.",
+      "releaseYear": 2022,
+      "summary": "Dial-driven APS-C camera with a 40.2MP X-Trans CMOS 5 HR sensor, 7-stop IBIS and 6.2K video.",
+      "description": "The X-T5 pairs classic FUJIFILM exposure dials with a 40.2MP X-Trans CMOS 5 HR sensor. 5-axis in-body image stabilization is rated up to 7.0 stops, and video recording reaches 6.2K. It is sold in black and silver as a body or with XF16-50mm or XF16-80mm kit lenses.",
+      "keywords": "fujifilm fuji x-t5 xt5 40mp aps-c dials photography",
+      "specs": {
+        "sensor": "APS-C X-Trans CMOS 5 HR, 23.5 x 15.7 mm",
+        "megapixels": 40.2,
+        "mount": "FUJIFILM X",
+        "video": "6.2K and DCI 4K / 4K recording",
+        "stabilization": "5-axis in-body, up to 7.0 stops",
+        "autofocus": "Intelligent Hybrid AF (phase + contrast detection) with subject detection",
+        "battery": "NP-W235 Li-ion",
+        "weightG": 557
+      },
+      "variants": [
+        {
+          "label": "Body only – Black or Silver",
+          "price": "1999.95"
+        },
+        {
+          "label": "XF16-50mm kit – Black or Silver",
+          "price": "2199.95"
+        },
+        {
+          "label": "XF16-80mm kit – Black or Silver",
+          "price": "2499.95"
+        }
+      ],
+      "featured": true,
+      "warranty": 12,
+      "sources": {
+        "product": "https://www.fujifilm-x.com/en-us/products/cameras/x-t5/",
+        "specs": "https://www.fujifilm-x.com/en-us/products/cameras/x-t5/specifications/",
+        "retrievedAt": "2026-09-28"
+      },
+      "image": {
+        "url": "https://shopusa.fujifilm-x.com/media/catalog/product/1/6/16782301_MAIN00_Image_X-T5_front_CMOS_black_4.jpg",
+        "page": "https://shopusa.fujifilm-x.com/x-t5-x-t5/",
+        "sourceType": "manufacturer-product-page",
+        "rights": "Official FUJIFILM North America (shopusa.fujifilm-x.com) product image; no reuse license granted — rights not verified.",
+        "alt": "FUJIFILM X-T5 camera body in black, front view with sensor visible, no lens",
+        "match": "EXACT",
+        "credit": "FUJIFILM"
+      }
+    },
+    {
+      "sku": "TK-FUJI-XT50",
+      "slug": "fujifilm-x-t50",
+      "name": "FUJIFILM X-T50",
+      "brand": "FUJIFILM",
+      "category": "mirrorless-cameras",
+      "price": "1599.95",
+      "priceBasis": "msrp",
+      "priceSource": "https://shopusa.fujifilm-x.com/x-t50-x-t50/",
+      "priceAsOf": "2026-09-28",
+      "releaseYear": 2024,
+      "summary": "Compact 40.2MP APS-C camera with in-body stabilization, a film simulation dial and 6.2K video.",
+      "description": "The X-T50 puts the 40.2MP X-Trans CMOS 5 HR sensor into a compact body with 5-axis in-body image stabilization rated up to 7.0 stops. It records up to 6.2K video and uses FUJIFILM's Intelligent Hybrid AF. Colors offered include black, silver and charcoal silver.",
+      "keywords": "fujifilm fuji x-t50 xt50 compact 40mp film simulation dial travel",
+      "specs": {
+        "sensor": "APS-C X-Trans CMOS 5 HR, 23.5 x 15.7 mm",
+        "megapixels": 40.2,
+        "mount": "FUJIFILM X",
+        "video": "6.2K and DCI 4K / 4K recording",
+        "stabilization": "5-axis in-body, up to 7.0 stops",
+        "autofocus": "Intelligent Hybrid AF (phase + contrast detection) with subject detection",
+        "battery": "NP-W126S Li-ion",
+        "weightG": 438
+      },
+      "variants": [
+        {
+          "label": "Body only – Black, Silver or Charcoal Silver",
+          "price": "1599.95"
+        },
+        {
+          "label": "XC15-45mm kit",
+          "price": "1699.95"
+        },
+        {
+          "label": "XF16-50mm kit",
+          "price": "1999.95"
+        }
+      ],
+      "featured": false,
+      "warranty": 12,
+      "sources": {
+        "product": "https://www.fujifilm-x.com/en-us/products/cameras/x-t50/",
+        "specs": "https://www.fujifilm-x.com/en-us/products/cameras/x-t50/specifications/",
+        "retrievedAt": "2026-09-28"
+      },
+      "image": {
+        "url": "https://shopusa.fujifilm-x.com/media/catalog/product/1/6/16828222_MAIN00_Image_X-T50_front_CMOS_black_4.jpg",
+        "page": "https://shopusa.fujifilm-x.com/x-t50-x-t50/",
+        "sourceType": "manufacturer-product-page",
+        "rights": "Official FUJIFILM North America (shopusa.fujifilm-x.com) product image; no reuse license granted — rights not verified.",
+        "alt": "FUJIFILM X-T50 camera body in black, front view with sensor visible, no lens",
+        "match": "EXACT",
+        "credit": "FUJIFILM"
+      }
+    },
+    {
+      "sku": "TK-FUJI-XE5",
+      "slug": "fujifilm-x-e5",
+      "name": "FUJIFILM X-E5",
+      "brand": "FUJIFILM",
+      "category": "mirrorless-cameras",
+      "price": "1699.95",
+      "priceBasis": "msrp",
+      "priceSource": "https://shopusa.fujifilm-x.com/x-e5-x-e5/",
+      "priceAsOf": "2026-09-28",
+      "releaseYear": 2025,
+      "summary": "Rangefinder-style 40.2MP APS-C camera with 5-axis in-body stabilization and 6.2K video.",
+      "description": "The X-E5 is a compact rangefinder-style X Series camera with the 40.2MP X-Trans CMOS 5 HR sensor. Its 5-axis in-body stabilization is rated at 7.0 stops in the center and 6.0 stops at the periphery. It records up to 6.2K video and is offered in black or silver, alone or with the XF23mmF2.8 R WR lens.",
+      "keywords": "fujifilm fuji x-e5 xe5 rangefinder street compact 40mp",
+      "specs": {
+        "sensor": "APS-C X-Trans CMOS 5 HR, 23.5 x 15.7 mm",
+        "megapixels": 40.2,
+        "mount": "FUJIFILM X",
+        "video": "6.2K and DCI 4K / 4K recording",
+        "stabilization": "5-axis in-body, up to 7.0 stops (center)",
+        "autofocus": "Intelligent Hybrid AF (phase + contrast detection) with subject detection",
+        "battery": "NP-W126S Li-ion",
+        "weightG": 445
+      },
+      "variants": [
+        {
+          "label": "Body only – Black or Silver",
+          "price": "1699.95"
+        },
+        {
+          "label": "XF23mmF2.8 R WR kit",
+          "price": "1899.95"
+        }
+      ],
+      "featured": false,
+      "warranty": 12,
+      "sources": {
+        "product": "https://www.fujifilm-x.com/en-us/products/cameras/x-e5/",
+        "specs": "https://www.fujifilm-x.com/en-us/products/cameras/x-e5/specifications/",
+        "retrievedAt": "2026-09-28"
+      },
+      "image": {
+        "url": "https://shopusa.fujifilm-x.com/media/catalog/product/1/6/16949923_Image_MAIN00_X-E5_front_CMOS_silver_1.jpg",
+        "page": "https://shopusa.fujifilm-x.com/x-e5-x-e5/",
+        "sourceType": "manufacturer-product-page",
+        "rights": "Official FUJIFILM North America (shopusa.fujifilm-x.com) product image; no reuse license granted — rights not verified.",
+        "alt": "FUJIFILM X-E5 camera body in silver and black, front view with sensor visible, no lens",
+        "match": "EXACT",
+        "credit": "FUJIFILM"
+      }
+    },
+    {
+      "sku": "TK-FUJI-XM5",
+      "slug": "fujifilm-x-m5",
+      "name": "FUJIFILM X-M5",
+      "brand": "FUJIFILM",
+      "category": "mirrorless-cameras",
+      "price": "899.95",
+      "priceBasis": "msrp",
+      "priceSource": "https://shopusa.fujifilm-x.com/x-m5-x-m5/",
+      "priceAsOf": "2026-09-28",
+      "releaseYear": 2024,
+      "summary": "FUJIFILM's smallest, lightest X Series interchangeable-lens camera: 26.1MP APS-C and 6.2K video for creators.",
+      "description": "The X-M5 is a compact 355 g creator camera with a 26.1MP X-Trans CMOS 4 sensor and FUJIFILM's Intelligent Hybrid AF. It records up to 6.2K video, including 4K 4:2:2 10-bit, and offers digital image stabilization for movies. It is sold in black or silver, body only or with the XC15-45mm kit lens.",
+      "keywords": "fujifilm fuji x-m5 xm5 vlog creator compact beginner",
+      "specs": {
+        "sensor": "APS-C X-Trans CMOS 4, 23.5 x 15.6 mm",
+        "megapixels": 26.1,
+        "mount": "FUJIFILM X",
+        "video": "6.2K; 4K 4:2:2 10-bit",
+        "stabilization": "Digital image stabilization (movie)",
+        "autofocus": "Intelligent Hybrid AF (phase + contrast detection) with subject detection",
+        "battery": "NP-W126S Li-ion",
+        "weightG": 355
+      },
+      "variants": [
+        {
+          "label": "Body only – Black or Silver",
+          "price": "899.95"
+        },
+        {
+          "label": "XC15-45mm kit",
+          "price": "999.95"
+        }
+      ],
+      "featured": false,
+      "warranty": 12,
+      "sources": {
+        "product": "https://www.fujifilm-x.com/en-us/products/cameras/x-m5/",
+        "specs": "https://www.fujifilm-x.com/en-us/products/cameras/x-m5/specifications/",
+        "retrievedAt": "2026-09-28"
+      },
+      "image": {
+        "url": "https://shopusa.fujifilm-x.com/media/catalog/product/1/6/16900678_MAIN00_ImageX-M5_front_CMOS_black_3.jpg",
+        "page": "https://shopusa.fujifilm-x.com/x-m5-x-m5/",
+        "sourceType": "manufacturer-product-page",
+        "rights": "Official FUJIFILM North America (shopusa.fujifilm-x.com) product image; no reuse license granted — rights not verified.",
+        "alt": "FUJIFILM X-M5 compact camera body in black, front view with sensor visible, no lens",
+        "match": "EXACT",
+        "credit": "FUJIFILM"
+      }
+    },
+    {
+      "sku": "TK-FUJI-X100VI",
+      "slug": "fujifilm-x100vi",
+      "name": "FUJIFILM X100VI",
+      "brand": "FUJIFILM",
+      "category": "mirrorless-cameras",
+      "price": "1799.95",
+      "priceBasis": "msrp",
+      "priceSource": "https://shopusa.fujifilm-x.com/x100vi-x100vi/",
+      "priceAsOf": "2026-09-28",
+      "priceNote": "FUJIFILM US store price; showed out of stock on 2026-09-28.",
+      "releaseYear": 2024,
+      "summary": "Premium fixed-lens compact with a 40.2MP APS-C sensor, 23mm f/2 lens and, for the first time in the X100 line, in-body stabilization.",
+      "description": "The X100VI is a fixed-lens premium compact with a 23mm F2.0 lens (35mm equivalent) in front of a 40.2MP X-Trans CMOS 5 HR sensor. 5-axis in-body stabilization is rated at 6.0 stops, and the camera records up to 6.2K video. It comes in silver or black.",
+      "keywords": "fujifilm fuji x100vi x100 compact fixed lens street travel",
+      "specs": {
+        "sensor": "APS-C X-Trans CMOS 5 HR, 23.5 x 15.7 mm",
+        "megapixels": 40.2,
+        "mount": "Fixed 23mm F2 lens (35mm equivalent)",
+        "video": "6.2K and DCI 4K / 4K recording",
+        "stabilization": "5-axis in-body, up to 6.0 stops",
+        "autofocus": "Intelligent Hybrid AF (phase + contrast detection) with subject detection",
+        "battery": "NP-W126S Li-ion",
+        "weightG": 521
+      },
+      "variants": [
+        {
+          "label": "Silver",
+          "price": "1799.95"
+        },
+        {
+          "label": "Black",
+          "price": "1799.95"
+        }
+      ],
+      "featured": false,
+      "warranty": 12,
+      "sources": {
+        "product": "https://www.fujifilm-x.com/en-us/products/cameras/x100vi/",
+        "specs": "https://www.fujifilm-x.com/en-us/products/cameras/x100vi/specifications/",
+        "retrievedAt": "2026-09-28"
+      },
+      "image": {
+        "url": "https://shopusa.fujifilm-x.com/media/catalog/product/1/6/16821822_MAIN00_Image_X100__front_Silver_7.jpg",
+        "page": "https://shopusa.fujifilm-x.com/x100vi-x100vi/",
+        "sourceType": "manufacturer-product-page",
+        "rights": "Official FUJIFILM North America (shopusa.fujifilm-x.com) product image; no reuse license granted — rights not verified.",
+        "alt": "FUJIFILM X100VI compact camera in silver with fixed 23mm lens, front view",
+        "match": "EXACT",
+        "credit": "FUJIFILM"
+      }
+    },
+    {
+      "sku": "TK-FUJI-GFX100II",
+      "slug": "fujifilm-gfx100-ii",
+      "name": "FUJIFILM GFX100 II",
+      "brand": "FUJIFILM",
+      "category": "mirrorless-cameras",
+      "price": "8499.95",
+      "priceBasis": "msrp",
+      "priceSource": "https://shopusa.fujifilm-x.com/gfx100-ii-body-600023590/",
+      "priceAsOf": "2026-09-28",
+      "priceNote": "FUJIFILM US store price; showed out of stock on 2026-09-28.",
+      "releaseYear": 2023,
+      "summary": "102MP large-format (medium format) mirrorless camera with 8-stop IBIS and 8K video.",
+      "description": "The GFX100 II uses a 43.8 x 32.9 mm GFX 102MP CMOS II HS sensor, roughly 1.7 times the area of full frame. Its 5-axis in-body stabilization is rated up to 8.0 stops, and it records up to 8K video with Apple ProRes options. It uses the FUJIFILM G mount.",
+      "keywords": "fujifilm fuji gfx100 ii gfx 100mp medium format large format studio landscape 8k",
+      "specs": {
+        "sensor": "Large format (medium format) GFX 102MP CMOS II HS, 43.8 x 32.9 mm",
+        "megapixels": 102,
+        "mount": "FUJIFILM G",
+        "video": "8K; 4K; Apple ProRes 422 HQ",
+        "stabilization": "5-axis in-body, up to 8.0 stops",
+        "autofocus": "Intelligent Hybrid AF (phase + contrast detection) with subject detection",
+        "battery": "NP-W235 Li-ion",
+        "weightG": 948
+      },
+      "variants": [
+        {
+          "label": "Body only",
+          "price": "8499.95"
+        }
+      ],
+      "collections": [
+        "creator-workstations"
+      ],
+      "featured": true,
+      "warranty": 12,
+      "sources": {
+        "product": "https://www.fujifilm-x.com/en-us/products/cameras/gfx100-ii/",
+        "specs": "https://www.fujifilm-x.com/en-us/products/cameras/gfx100-ii/specifications/",
+        "retrievedAt": "2026-09-28"
+      },
+      "image": {
+        "url": "https://shopusa.fujifilm-x.com/media/catalog/product/6/0/600023590_MAIN00_Image_GFX100__front_CMOS.jpg",
+        "page": "https://shopusa.fujifilm-x.com/gfx100-ii-body-600023590/",
+        "sourceType": "manufacturer-product-page",
+        "rights": "Official FUJIFILM North America (shopusa.fujifilm-x.com) product image; no reuse license granted — rights not verified.",
+        "alt": "FUJIFILM GFX100 II medium-format camera body, front view with large sensor visible, no lens",
+        "match": "EXACT",
+        "credit": "FUJIFILM"
+      }
+    },
+    {
+      "sku": "TK-FUJI-GFX100RF",
+      "slug": "fujifilm-gfx100rf",
+      "name": "FUJIFILM GFX100RF",
+      "brand": "FUJIFILM",
+      "category": "mirrorless-cameras",
+      "price": "5599.95",
+      "priceBasis": "msrp",
+      "priceSource": "https://shopusa.fujifilm-x.com/gfx100rf-gfx100rf/",
+      "priceAsOf": "2026-09-28",
+      "priceNote": "FUJIFILM US store list price; new units showed out of stock on 2026-09-28.",
+      "releaseYear": 2025,
+      "summary": "Fixed-lens large-format compact with a 102MP sensor and 35mm F4 lens (28mm equivalent).",
+      "description": "The GFX100RF is a fixed-lens camera built around the 43.8 x 32.9 mm GFX 102MP CMOS II sensor, paired with a 35mm F4 lens equivalent to 28mm in 35mm format. It weighs approx. 735 g with battery and card and records 4K video. It comes in black or silver.",
+      "keywords": "fujifilm fuji gfx100rf gfx 100rf fixed lens medium format compact",
+      "specs": {
+        "sensor": "Large format (medium format) GFX 102MP CMOS II, 43.8 x 32.9 mm",
+        "megapixels": 102,
+        "mount": "Fixed 35mm F4 lens (28mm equivalent)",
+        "video": "DCI 4K / 4K; Apple ProRes 422 HQ",
+        "stabilization": "Digital image stabilization (movie)",
+        "autofocus": "Intelligent Hybrid AF (phase + contrast detection) with subject detection",
+        "battery": "NP-W235 Li-ion",
+        "weightG": 735
+      },
+      "variants": [
+        {
+          "label": "Black",
+          "price": "5599.95"
+        },
+        {
+          "label": "Silver",
+          "price": "5599.95"
+        }
+      ],
+      "featured": false,
+      "warranty": 12,
+      "sources": {
+        "product": "https://www.fujifilm-x.com/en-us/products/cameras/gfx100rf/",
+        "specs": "https://www.fujifilm-x.com/en-us/products/cameras/gfx100rf/specifications/",
+        "retrievedAt": "2026-09-28"
+      },
+      "image": {
+        "url": "https://shopusa.fujifilm-x.com/media/catalog/product/1/6/16938039_MAIN00_Image_GFX100RF_front_black_1.jpg",
+        "page": "https://shopusa.fujifilm-x.com/gfx100rf-gfx100rf/",
+        "sourceType": "manufacturer-product-page",
+        "rights": "Official FUJIFILM North America (shopusa.fujifilm-x.com) product image; no reuse license granted — rights not verified.",
+        "alt": "FUJIFILM GFX100RF fixed-lens camera in black, front view",
+        "match": "EXACT",
+        "credit": "FUJIFILM"
+      }
+    },
+    {
+      "sku": "TK-FUJI-XF1655F28II",
+      "slug": "fujifilm-xf16-55mmf2-8-r-lm-wr-ii",
+      "name": "FUJIFILM FUJINON XF16-55mmF2.8 R LM WR II",
+      "brand": "FUJIFILM",
+      "category": "camera-lenses",
+      "price": "1399.95",
+      "priceBasis": "msrp",
+      "priceSource": "https://shopusa.fujifilm-x.com/xf16-55mmf2-8-r-lm-wr-ii-lens-16836580/",
+      "priceAsOf": "2026-09-28",
+      "releaseYear": 2024,
+      "summary": "Weather-resistant constant-f/2.8 standard zoom for X mount, 24-84mm equivalent, at 410 g.",
+      "description": "The second-generation XF16-55mmF2.8 R LM WR II is a constant-aperture standard zoom for FUJIFILM X Series cameras, covering 24-84mm in 35mm-equivalent terms. It uses 16 elements in 11 groups, weighs approx. 410 g and takes 72 mm filters.",
+      "keywords": "fujinon xf 16-55 f2.8 ii zoom lens x mount",
+      "specs": {
+        "mount": "FUJIFILM X",
+        "focalLength": "16-55mm (24-84mm equivalent)",
+        "maxAperture": "f/2.8",
+        "sensor": "APS-C",
+        "weightG": 410
+      },
+      "featured": false,
+      "warranty": 12,
+      "sources": {
+        "product": "https://www.fujifilm-x.com/en-us/products/lenses/xf16-55mmf28-r-lm-wr-ii/",
+        "specs": "https://www.fujifilm-x.com/en-us/products/lenses/xf16-55mmf28-r-lm-wr-ii/specifications/",
+        "retrievedAt": "2026-09-28"
+      },
+      "image": {
+        "url": "https://shopusa.fujifilm-x.com/media/catalog/product/1/6/16836580_MAIN00_Image_XF16-55mmF2_8_II_lensFrontFUKAN.jpg",
+        "page": "https://shopusa.fujifilm-x.com/xf16-55mmf2-8-r-lm-wr-ii-lens-16836580/",
+        "sourceType": "manufacturer-product-page",
+        "rights": "Official FUJIFILM North America (shopusa.fujifilm-x.com) product image; no reuse license granted — rights not verified.",
+        "alt": "FUJINON XF16-55mmF2.8 R LM WR II zoom lens in black, front three-quarter view from above",
+        "match": "EXACT",
+        "credit": "FUJIFILM"
+      }
+    },
+    {
+      "sku": "TK-PANASONIC-S1RII",
+      "slug": "panasonic-lumix-s1rii",
+      "name": "Panasonic LUMIX S1RII",
+      "brand": "Panasonic",
+      "category": "mirrorless-cameras",
+      "price": "3297.77",
+      "priceBasis": "msrp",
+      "priceSource": "https://shop.panasonic.com/products/lumix-s1rii-full-frame-mirrorless-digital-camera-dc-s1rm2",
+      "priceAsOf": "2026-09-28",
+      "priceNote": "Panasonic US store price on 2026-09-28 (body shows no separate list price).",
+      "releaseYear": 2025,
+      "summary": "High-resolution 44.3MP full-frame L-Mount camera with LUMIX's first 8K video, 40 fps AFC bursts and 8-stop I.S.",
+      "description": "The LUMIX S1RII pairs a new 44.3MP full-frame sensor with LUMIX's first-ever 8K video recording and wide-dynamic-range log. It shoots AFC bursts at 40 fps, supports handheld high-resolution mode and records 32-bit float audio. 8.0-stop 5-axis I.S. with Active I.S. steadies handheld footage.",
+      "keywords": "panasonic lumix s1rii s1r ii s1rm2 8k 44mp full frame l-mount",
+      "specs": {
+        "sensor": "Full-frame CMOS",
+        "megapixels": 44.3,
+        "mount": "L-Mount",
+        "video": "8K; 8.1K (3:2) open gate; RAW output over HDMI",
+        "stabilization": "5-axis body I.S., 8.0 stops, with Active I.S.",
+        "autofocus": "Phase Hybrid AF with real-time subject recognition"
+      },
+      "variants": [
+        {
+          "label": "Body only – Black",
+          "price": "3297.77"
+        },
+        {
+          "label": "Adventure Kit with 24-60mm F2.8",
+          "price": "3799.99"
+        },
+        {
+          "label": "28-200mm F4-7.1 lens kit",
+          "price": "3799.99"
+        }
+      ],
+      "collections": [
+        "creator-workstations"
+      ],
+      "featured": false,
+      "warranty": 12,
+      "sources": {
+        "product": "https://shop.panasonic.com/products/lumix-s1rii-full-frame-mirrorless-digital-camera-dc-s1rm2",
+        "retrievedAt": "2026-09-28"
+      },
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0724/5371/8324/files/S1RII_S-E2460_front_K.jpg",
+        "page": "https://shop.panasonic.com/products/lumix-s1rii-full-frame-mirrorless-digital-camera-dc-s1rm2",
+        "sourceType": "manufacturer-product-page",
+        "rights": "Official Panasonic US store (shop.panasonic.com) product image; no reuse license granted — rights not verified.",
+        "alt": "Panasonic LUMIX S1RII full-frame camera with LUMIX S 24-60mm F2.8 lens, straight-on front view",
+        "match": "EXACT",
+        "credit": "Panasonic"
+      }
+    },
+    {
+      "sku": "TK-PANASONIC-S1II",
+      "slug": "panasonic-lumix-s1ii",
+      "name": "Panasonic LUMIX S1II",
+      "brand": "Panasonic",
+      "category": "mirrorless-cameras",
+      "price": "3199.99",
+      "priceBasis": "msrp",
+      "priceSource": "https://shop.panasonic.com/products/lumix-s1ii-full-frame-camera-partially-stacked-sensor-dc-s1m2",
+      "priceAsOf": "2026-09-28",
+      "releaseYear": 2025,
+      "summary": "Hybrid full-frame camera with a 24.1MP partially stacked sensor, 5.1K 60p open gate, C4K/4K 120p and 70 fps bursts.",
+      "description": "The LUMIX S1II uses a new 24.1MP partially stacked CMOS sensor for high-speed readout. It records 6K 30p and 5.1K 60p open gate, C4K/4K 120p and oversampled 4K, with Dynamic Range Boost and REAL TIME LUT. Blackout-free bursts reach 70 fps with AI-powered Phase Hybrid AF, and 8.0-stop 5-axis I.S. plus Active I.S. stabilizes handheld work.",
+      "keywords": "panasonic lumix s1ii s1 ii s1m2 partially stacked hybrid open gate",
+      "specs": {
+        "sensor": "Full-frame partially stacked CMOS",
+        "megapixels": 24.1,
+        "mount": "L-Mount",
+        "video": "6K 30p & 5.1K 60p open gate; C4K/4K 120p",
+        "stabilization": "5-axis body I.S., 8.0 stops, with Active I.S.",
+        "autofocus": "AI-powered Phase Hybrid AF"
+      },
+      "variants": [
+        {
+          "label": "Body only",
+          "price": "3199.99"
+        },
+        {
+          "label": "Adventure Kit with 24-60mm F2.8",
+          "price": "3997.99"
+        },
+        {
+          "label": "28-200mm F4-7.1 lens kit",
+          "price": "3999.99"
+        },
+        {
+          "label": "24-105mm F4 Macro lens kit",
+          "price": "4097.99"
+        }
+      ],
+      "featured": false,
+      "warranty": 12,
+      "sources": {
+        "product": "https://shop.panasonic.com/products/lumix-s1ii-full-frame-camera-partially-stacked-sensor-dc-s1m2",
+        "retrievedAt": "2026-09-28"
+      },
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0724/5371/8324/files/S1II_S-E2460_slant_K.png",
+        "page": "https://shop.panasonic.com/products/lumix-s1ii-full-frame-camera-partially-stacked-sensor-dc-s1m2",
+        "sourceType": "manufacturer-product-page",
+        "rights": "Official Panasonic US store (shop.panasonic.com) product image; no reuse license granted — rights not verified.",
+        "alt": "Panasonic LUMIX S1II full-frame camera with 24-60mm F2.8 lens, front-left three-quarter view",
+        "match": "EXACT",
+        "credit": "Panasonic"
+      }
+    },
+    {
+      "sku": "TK-PANASONIC-S5IIX",
+      "slug": "panasonic-lumix-s5iix",
+      "name": "Panasonic LUMIX S5IIX",
+      "brand": "Panasonic",
+      "category": "mirrorless-cameras",
+      "price": "2197.99",
+      "priceBasis": "msrp",
+      "priceSource": "https://shop.panasonic.com/products/s5m2x-full-frame-mirrorless-camera-body",
+      "priceAsOf": "2026-09-28",
+      "priceNote": "Panasonic US list price; the Panasonic store showed a sale price of $1,897.99 on 2026-09-28.",
+      "releaseYear": 2023,
+      "summary": "Video-focused 24.2MP full-frame camera with phase hybrid AF, internal ProRes, RAW over HDMI and IP streaming.",
+      "description": "The LUMIX S5IIX has a 24.2MP full-frame CMOS sensor, 779-point Phase Hybrid AF and Active I.S. for walking shots. Video features include open gate recording, 5.8K ProRes, internal ProRes, RAW over HDMI and wired/wireless IP streaming, with 4:2:2 10-bit C4K/4K 60p unlimited recording. A 96MP high-resolution mode is also available.",
+      "keywords": "panasonic lumix s5iix s5 iix s5m2x prores raw video streaming",
+      "specs": {
+        "sensor": "Full-frame CMOS without low-pass filter",
+        "megapixels": 24.2,
+        "mount": "L-Mount",
+        "video": "6K 30p open gate; 5.8K ProRes; C4K/4K 60p 4:2:2 10-bit",
+        "stabilization": "5-axis body I.S. (5 stops), Dual I.S. 2 (6.5 stops), Active I.S.",
+        "autofocus": "Phase Hybrid AF, 779 points"
+      },
+      "variants": [
+        {
+          "label": "Body only",
+          "price": "2197.99"
+        },
+        {
+          "label": "Adventure Kit with 24-60mm F2.8 (list)",
+          "price": "2999.99"
+        },
+        {
+          "label": "20-60mm F3.5-5.6 lens kit",
+          "price": "2497.99"
+        }
+      ],
+      "featured": false,
+      "warranty": 12,
+      "sources": {
+        "product": "https://shop.panasonic.com/products/s5m2x-full-frame-mirrorless-camera-body",
+        "retrievedAt": "2026-09-28"
+      },
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0724/5371/8324/files/S5IIX_S-E2460_slant_K.png",
+        "page": "https://shop.panasonic.com/products/s5m2x-full-frame-mirrorless-camera-body",
+        "sourceType": "manufacturer-product-page",
+        "rights": "Official Panasonic US store (shop.panasonic.com) product image; no reuse license granted — rights not verified.",
+        "alt": "Panasonic LUMIX S5IIX full-frame camera in black with 24-60mm lens, front-left three-quarter view",
+        "match": "EXACT",
+        "credit": "Panasonic"
+      }
+    },
+    {
+      "sku": "TK-PANASONIC-S9",
+      "slug": "panasonic-lumix-s9",
+      "name": "Panasonic LUMIX S9",
+      "brand": "Panasonic",
+      "category": "mirrorless-cameras",
+      "price": "1497.99",
+      "priceBasis": "msrp",
+      "priceSource": "https://shop.panasonic.com/products/lumix-s9-full-frame-mirrorless-camera",
+      "priceAsOf": "2026-09-28",
+      "releaseYear": 2024,
+      "summary": "Compact, colorful 24.2MP full-frame creator camera with REAL TIME LUT and LUMIX Lab app sharing.",
+      "description": "The LUMIX S9 is a compact full-frame mirrorless camera aimed at social-media creators, with REAL TIME LUT presets applied in camera and fast sharing through the LUMIX Lab app. It uses a 24.2MP full-frame CMOS sensor with 5-axis body I.S., Active I.S. and phase-detection AF. Panasonic offers it in several colors, including Jet Black, Night Blue, Dark Olive and Crimson Red.",
+      "keywords": "panasonic lumix s9 compact full frame creator social vlog color",
+      "specs": {
+        "sensor": "Full-frame CMOS, 35.6 x 23.8 mm",
+        "megapixels": 24.2,
+        "mount": "L-Mount",
+        "video": "H.264/H.265 MOV and MP4 recording with REAL TIME LUT",
+        "stabilization": "5-axis body I.S. (5 stops), Dual I.S. 2 (6.5 stops), Active I.S.",
+        "autofocus": "Phase detection + contrast AF with human/animal/car/motorcycle detection",
+        "weightG": 486
+      },
+      "variants": [
+        {
+          "label": "Body only – Jet Black or Night Blue",
+          "price": "1497.99"
+        },
+        {
+          "label": "18-40mm kit – Jet Black, Night Blue, Dark Olive or Crimson Red",
+          "price": "1797.99"
+        },
+        {
+          "label": "40mm F2 kit – Jet Black",
+          "price": "1797.99"
+        }
+      ],
+      "featured": false,
+      "warranty": 12,
+      "sources": {
+        "product": "https://shop.panasonic.com/products/lumix-s9-full-frame-mirrorless-camera",
+        "retrievedAt": "2026-09-28"
+      },
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0724/5371/8324/files/S9KitKLow_9f6da8e5-e450-443f-98b4-3ce28941a50a.jpg",
+        "page": "https://shop.panasonic.com/products/lumix-s9-full-frame-mirrorless-camera",
+        "sourceType": "manufacturer-product-page",
+        "rights": "Official Panasonic US store (shop.panasonic.com) product image; no reuse license granted — rights not verified.",
+        "alt": "Panasonic LUMIX S9 in Jet Black with 18-40mm kit lens, straight-on front view",
+        "match": "EXACT",
+        "credit": "Panasonic"
+      }
+    },
+    {
+      "sku": "TK-PANASONIC-GH7",
+      "slug": "panasonic-lumix-gh7",
+      "name": "Panasonic LUMIX GH7",
+      "brand": "Panasonic",
+      "category": "mirrorless-cameras",
+      "price": "2197.99",
+      "priceBasis": "msrp",
+      "priceSource": "https://shop.panasonic.com/products/gh7-mirrorless-camera",
+      "priceAsOf": "2026-09-28",
+      "releaseYear": 2024,
+      "summary": "Micro Four Thirds video powerhouse with a 25.2MP BSI sensor, internal 5.7K ProRes RAW and 32-bit float audio.",
+      "description": "The LUMIX GH7 uses a 25.2MP BSI CMOS sensor with Phase Detection Autofocus and real-time recognition for people, animals and vehicles. It records Apple ProRes RAW internally, including 5.7K 30p ProRes RAW HQ, plus 32-bit float audio, open gate and 4:2:2 10-bit C4K/4K 60p with unlimited recording time within its operating temperature range.",
+      "keywords": "panasonic lumix gh7 micro four thirds mft video prores raw 32-bit float",
+      "specs": {
+        "sensor": "Micro Four Thirds BSI CMOS",
+        "megapixels": 25.2,
+        "mount": "Micro Four Thirds",
+        "video": "5.7K 30p ProRes RAW HQ internal; C4K/4K 60p 4:2:2 10-bit; open gate",
+        "autofocus": "Phase Detection AF with real-time subject recognition"
+      },
+      "variants": [
+        {
+          "label": "Body only",
+          "price": "2197.99"
+        },
+        {
+          "label": "12-60mm F2.8-4.0 lens kit",
+          "price": "2797.99"
+        }
+      ],
+      "collections": [
+        "creator-workstations"
+      ],
+      "featured": false,
+      "warranty": 12,
+      "sources": {
+        "product": "https://shop.panasonic.com/products/gh7-mirrorless-camera",
+        "retrievedAt": "2026-09-28"
+      },
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0724/5371/8324/files/2-GH7_body_slant_K.png",
+        "page": "https://shop.panasonic.com/products/gh7-mirrorless-camera",
+        "sourceType": "manufacturer-product-page",
+        "rights": "Official Panasonic US store (shop.panasonic.com) product image; no reuse license granted — rights not verified.",
+        "alt": "Panasonic LUMIX GH7 Micro Four Thirds camera body, front-left three-quarter view without lens",
+        "match": "EXACT",
+        "credit": "Panasonic"
+      }
+    },
+    {
+      "sku": "TK-PANASONIC-SE2460",
+      "slug": "panasonic-lumix-s-24-60mm-f2-8",
+      "name": "Panasonic LUMIX S 24-60mm F2.8",
+      "brand": "Panasonic",
+      "category": "camera-lenses",
+      "price": "1047.99",
+      "priceBasis": "msrp",
+      "priceSource": "https://shop.panasonic.com/products/s-series-24-60mm-f2-8-l-mount-lens-s-e2460",
+      "priceAsOf": "2026-09-28",
+      "releaseYear": 2025,
+      "summary": "Compact constant-F2.8 standard zoom for L-Mount full-frame cameras, weighing about 544 g.",
+      "description": "The LUMIX S 24-60mm F2.8 (S-E2460) is a compact, lightweight standard zoom with a constant F2.8 aperture. It focuses as close as 0.62 ft for 0.3x magnification and supports Hybrid Zoom on compatible LUMIX S cameras. It weighs approx. 544 g and measures 99.9 mm long.",
+      "keywords": "lumix s 24-60 f2.8 s-e2460 l-mount zoom lens",
+      "specs": {
+        "mount": "L-Mount",
+        "focalLength": "24-60mm",
+        "maxAperture": "f/2.8",
+        "sensor": "Full-frame",
+        "weightG": 544
+      },
+      "featured": false,
+      "warranty": 12,
+      "sources": {
+        "product": "https://shop.panasonic.com/products/s-series-24-60mm-f2-8-l-mount-lens-s-e2460",
+        "retrievedAt": "2026-09-28"
+      },
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0724/5371/8324/files/S-E2460_slant.png",
+        "page": "https://shop.panasonic.com/products/s-series-24-60mm-f2-8-l-mount-lens-s-e2460",
+        "sourceType": "manufacturer-product-page",
+        "rights": "Official Panasonic US store (shop.panasonic.com) product image; no reuse license granted — rights not verified.",
+        "alt": "Panasonic LUMIX S 24-60mm F2.8 zoom lens, three-quarter view on white",
+        "match": "EXACT",
+        "credit": "Panasonic"
+      }
+    },
+    {
+      "sku": "TK-DJI-MINI4PRO",
+      "slug": "dji-mini-4-pro",
+      "name": "DJI Mini 4 Pro",
+      "brand": "DJI",
+      "category": "drones",
+      "price": "759.00",
+      "priceBasis": "msrp",
+      "priceSource": "https://store.dji.com/product/dji-mini-4-pro",
+      "priceAsOf": "2026-09-28",
+      "priceNote": "DJI US online store list price; the store showed this item out of stock on 2026-09-28.",
+      "releaseYear": 2023,
+      "summary": "Sub-249 g camera drone with a 1/1.3-inch 48MP sensor, 4K/100fps video and omnidirectional obstacle sensing.",
+      "description": "DJI Mini 4 Pro weighs under 249 g yet carries a 1/1.3-inch CMOS camera with 48MP effective pixels and an f/1.7, 24 mm-equivalent lens on a 3-axis gimbal. It records 4K up to 100fps, including D-Log M and HLG, and uses an omnidirectional binocular vision system with a bottom 3D infrared sensor. Flight time is up to 34 minutes, or 45 minutes with the Intelligent Flight Battery Plus.",
+      "keywords": "dji mini 4 pro drone sub 250g 4k camera drone travel",
+      "specs": {
+        "sensor": "1/1.3-inch CMOS",
+        "megapixels": 48,
+        "video": "4K up to 100fps; D-Log M, HLG",
+        "stabilization": "3-axis mechanical gimbal",
+        "flightTimeMin": 34,
+        "transmission": "DJI O4 video transmission",
+        "obstacleSensing": "Omnidirectional binocular vision + downward 3D infrared",
+        "battery": "Intelligent Flight Battery (Plus battery optional)"
+      },
+      "variants": [
+        {
+          "label": "DJI Mini 4 Pro (DJI RC-N2)",
+          "price": "759.00"
+        },
+        {
+          "label": "Fly More Combo (DJI RC 2)",
+          "price": "1099.00"
+        },
+        {
+          "label": "Fly More Combo Plus (DJI RC 2)",
+          "price": "1159.00"
+        }
+      ],
+      "featured": true,
+      "warranty": 12,
+      "sources": {
+        "product": "https://www.dji.com/mini-4-pro",
+        "specs": "https://www.dji.com/mini-4-pro/specs",
+        "retrievedAt": "2026-09-28"
+      },
+      "image": {
+        "url": "https://se-cdn.djiits.com/tpc/uploads/spu/cover/4ea419b081f38056785ae8665d473190@ultra.png",
+        "page": "https://store.dji.com/product/dji-mini-4-pro",
+        "sourceType": "manufacturer-product-page",
+        "rights": "Official DJI Store / dji.com product image; DJI has not granted a reuse license — rights not verified.",
+        "alt": "DJI Mini 4 Pro drone in light grey, unfolded, shown with the DJI RC-N2 remote controller on white",
+        "match": "EXACT",
+        "credit": "DJI"
+      }
+    },
+    {
+      "sku": "TK-DJI-AIR3S",
+      "slug": "dji-air-3s",
+      "name": "DJI Air 3S",
+      "brand": "DJI",
+      "category": "drones",
+      "price": "1099.00",
+      "priceBasis": "msrp",
+      "priceSource": "https://store.dji.com/product/dji-air-3s",
+      "priceAsOf": "2026-09-28",
+      "priceNote": "DJI US online store list price; the store showed this item out of stock on 2026-09-28.",
+      "releaseYear": 2024,
+      "summary": "Dual-camera travel drone with a 1-inch 50MP wide camera, 48MP medium tele, forward LiDAR and 45-minute flights.",
+      "description": "DJI Air 3S pairs a 1-inch CMOS 50MP wide-angle camera with a 1/1.3-inch 48MP medium tele camera, both recording 4K up to 120fps. Omnidirectional binocular vision is supplemented by forward-facing LiDAR and a downward infrared sensor. It weighs 724 g, flies for up to 45 minutes and uses DJI O4 video transmission.",
+      "keywords": "dji air 3s drone dual camera 1-inch lidar travel",
+      "specs": {
+        "sensor": "1-inch CMOS wide (50MP) + 1/1.3-inch CMOS medium tele (48MP)",
+        "megapixels": 50,
+        "video": "4K up to 120fps on both cameras",
+        "stabilization": "3-axis mechanical gimbal",
+        "weightG": 724,
+        "flightTimeMin": 45,
+        "transmission": "DJI O4 video transmission",
+        "obstacleSensing": "Omnidirectional binocular vision + forward LiDAR + downward infrared"
+      },
+      "variants": [
+        {
+          "label": "DJI Air 3S (DJI RC-N3)",
+          "price": "1099.00"
+        },
+        {
+          "label": "Fly More Combo Lite (DJI RC 2)",
+          "price": "1599.00"
+        }
+      ],
+      "featured": false,
+      "warranty": 12,
+      "sources": {
+        "product": "https://www.dji.com/air-3s",
+        "specs": "https://www.dji.com/air-3s/specs",
+        "retrievedAt": "2026-09-28"
+      },
+      "image": {
+        "url": "https://se-cdn.djiits.com/tpc/uploads/spu/cover/0658c4092379bcb19997a3d759ee385a@ultra.png",
+        "page": "https://store.dji.com/product/dji-air-3s",
+        "sourceType": "manufacturer-product-page",
+        "rights": "Official DJI Store / dji.com product image; DJI has not granted a reuse license — rights not verified.",
+        "alt": "DJI Air 3S dual-camera drone in dark grey, unfolded, with DJI RC-N3 remote controller",
+        "match": "EXACT",
+        "credit": "DJI"
+      }
+    },
+    {
+      "sku": "TK-DJI-FLIP",
+      "slug": "dji-flip",
+      "name": "DJI Flip",
+      "brand": "DJI",
+      "category": "drones",
+      "price": "439.00",
+      "priceBasis": "msrp",
+      "priceSource": "https://store.dji.com/product/dji-flip",
+      "priceAsOf": "2026-09-28",
+      "priceNote": "DJI US online store list price; the store showed this item out of stock on 2026-09-28.",
+      "releaseYear": 2025,
+      "summary": "Foldable sub-249 g vlog drone with full-coverage propeller guards, 1/1.3-inch 48MP camera and 4K/100fps video.",
+      "description": "DJI Flip is a sub-249 g foldable drone with integrated full-coverage propeller guards for close-range vlogging. Its 1/1.3-inch sensor shoots 48MP photos and 4K video up to 100fps on a 3-axis mechanical gimbal. A forward 3D infrared sensing system and downward vision aid positioning, flight time reaches 31 minutes, and it uses DJI O4 transmission.",
+      "keywords": "dji flip vlog drone propeller guards foldable sub 250g beginner",
+      "specs": {
+        "sensor": "1/1.3-inch image sensor",
+        "megapixels": 48,
+        "video": "4K up to 100fps; D-Log M",
+        "stabilization": "3-axis mechanical gimbal",
+        "flightTimeMin": 31,
+        "transmission": "DJI O4 video transmission",
+        "obstacleSensing": "Forward 3D infrared sensing + downward vision and infrared"
+      },
+      "variants": [
+        {
+          "label": "DJI Flip (DJI RC-N3)",
+          "price": "439.00"
+        },
+        {
+          "label": "DJI Flip (DJI RC 2)",
+          "price": "639.00"
+        },
+        {
+          "label": "Fly More Combo (DJI RC 2)",
+          "price": "779.00"
+        }
+      ],
+      "featured": false,
+      "warranty": 12,
+      "sources": {
+        "product": "https://www.dji.com/flip",
+        "specs": "https://www.dji.com/flip/specs",
+        "retrievedAt": "2026-09-28"
+      },
+      "image": {
+        "url": "https://se-cdn.djiits.com/tpc/uploads/spu/cover/201b8be78dcb262f6d1001e62826ff93@ultra.png?format=webp",
+        "page": "https://store.dji.com/product/dji-flip",
+        "sourceType": "manufacturer-product-page",
+        "rights": "Official DJI Store / dji.com product image; DJI has not granted a reuse license — rights not verified.",
+        "alt": "DJI Flip foldable drone with full-coverage propeller guards and remote controller, front view on white",
+        "match": "EXACT",
+        "credit": "DJI"
+      }
+    },
+    {
+      "sku": "TK-DJI-NEO",
+      "slug": "dji-neo",
+      "name": "DJI Neo",
+      "brand": "DJI",
+      "category": "drones",
+      "price": "169.00",
+      "priceBasis": "msrp",
+      "priceSource": "https://store.dji.com/product/dji-neo",
+      "priceAsOf": "2026-09-28",
+      "priceNote": "DJI US online store list price; the store showed this item out of stock on 2026-09-28.",
+      "releaseYear": 2024,
+      "summary": "135 g palm-launch selfie drone with 4K stabilized video, subject tracking and optional remote control.",
+      "description": "DJI Neo is a 135 g palm-takeoff drone for hands-free selfies and follow shots. Its 1/2-inch sensor and 14 mm-equivalent f/2.8 lens capture 12MP stills and 4K/30fps video on a single-axis gimbal with electronic stabilization. Flight time is approx. 18 minutes, and it can be controlled without a remote.",
+      "keywords": "dji neo selfie drone palm takeoff follow me beginner",
+      "specs": {
+        "sensor": "1/2-inch image sensor",
+        "megapixels": 12,
+        "video": "4K/30fps (16:9 with EIS; 4:3 without)",
+        "stabilization": "Single-axis mechanical gimbal (tilt) + EIS",
+        "weightG": 135,
+        "flightTimeMin": 18,
+        "transmission": "Wi-Fi (phone) or optional DJI remote controller",
+        "obstacleSensing": "Downward visual positioning only"
+      },
+      "variants": [
+        {
+          "label": "DJI Neo (No RC)",
+          "price": "169.00"
+        },
+        {
+          "label": "DJI Neo Combo (No RC)",
+          "price": "245.00"
+        },
+        {
+          "label": "Fly More Combo",
+          "price": "374.00"
+        }
+      ],
+      "featured": false,
+      "warranty": 12,
+      "sources": {
+        "product": "https://www.dji.com/neo",
+        "specs": "https://www.dji.com/neo/specs",
+        "retrievedAt": "2026-09-28"
+      },
+      "image": {
+        "url": "https://se-cdn.djiits.com/tpc/uploads/spu/cover/09f59fd6bcc743daa5b8eb82cb6e55e6@ultra.png",
+        "page": "https://store.dji.com/product/dji-neo",
+        "sourceType": "manufacturer-product-page",
+        "rights": "Official DJI Store / dji.com product image; DJI has not granted a reuse license — rights not verified.",
+        "alt": "DJI Neo compact selfie drone with enclosed propeller guards, front view on white",
+        "match": "EXACT",
+        "credit": "DJI"
+      }
+    },
+    {
+      "sku": "TK-DJI-AVATA2",
+      "slug": "dji-avata-2",
+      "name": "DJI Avata 2",
+      "brand": "DJI",
+      "category": "drones",
+      "price": "619.00",
+      "priceBasis": "msrp",
+      "priceSource": "https://store.dji.com/product/dji-avata-2",
+      "priceAsOf": "2026-09-28",
+      "priceNote": "DJI US online store list price; the store showed this item out of stock on 2026-09-28. Price is the Fly Smart Combo (single battery); the drone-only SKU is not sold in the US store.",
+      "releaseYear": 2024,
+      "summary": "Immersive FPV drone with a 1/1.3-inch sensor, 155° FOV, 4K/100fps video and DJI O4 transmission.",
+      "description": "DJI Avata 2 is a first-person-view drone built for immersive flight with DJI goggles and motion control. Its 1/1.3-inch 12MP sensor captures 4K video up to 100fps through a 155° FOV lens on a single-axis gimbal with electronic roll correction. It weighs approx. 377 g and flies for about 23 minutes.",
+      "keywords": "dji avata 2 fpv drone goggles motion immersive",
+      "specs": {
+        "sensor": "1/1.3-inch image sensor",
+        "megapixels": 12,
+        "video": "4K up to 100fps (16:9); 4K/60fps (4:3)",
+        "stabilization": "Single-axis mechanical gimbal (tilt) + electronic roll correction",
+        "weightG": 377,
+        "flightTimeMin": 23,
+        "transmission": "DJI O4 video transmission",
+        "obstacleSensing": "Downward and backward visual positioning"
+      },
+      "variants": [
+        {
+          "label": "Fly Smart Combo (single battery)",
+          "price": "619.00"
+        },
+        {
+          "label": "Fly Smart Combo (three batteries)",
+          "price": "789.00"
+        },
+        {
+          "label": "Fly More Combo (three batteries)",
+          "price": "1019.00"
+        }
+      ],
+      "featured": false,
+      "warranty": 12,
+      "sources": {
+        "product": "https://www.dji.com/avata-2",
+        "specs": "https://www.dji.com/avata-2/specs",
+        "retrievedAt": "2026-09-28"
+      },
+      "image": {
+        "url": "https://se-cdn.djiits.com/tpc/uploads/spu/cover/7820c86b51011167f9a8221353e20518@ultra.png",
+        "page": "https://store.dji.com/product/dji-avata-2",
+        "sourceType": "manufacturer-product-page",
+        "rights": "Official DJI Store / dji.com product image; DJI has not granted a reuse license — rights not verified.",
+        "alt": "DJI Avata 2 FPV drone shown with DJI Goggles and RC Motion controller on white",
+        "match": "EXACT",
+        "credit": "DJI"
+      }
+    },
+    {
+      "sku": "TK-DJI-OSMOPOCKET3",
+      "slug": "dji-osmo-pocket-3",
+      "name": "DJI Osmo Pocket 3",
+      "brand": "DJI",
+      "category": "action-cameras",
+      "price": "439.00",
+      "priceBasis": "msrp",
+      "priceSource": "https://store.dji.com/product/osmo-pocket-3",
+      "priceAsOf": "2026-09-28",
+      "priceNote": "DJI US online store list price; the store showed this item out of stock on 2026-09-28.",
+      "releaseYear": 2023,
+      "summary": "Pocket 3-axis gimbal camera with a 1-inch CMOS sensor, 4K/120fps video and a 2-inch rotating touchscreen.",
+      "description": "Osmo Pocket 3 combines a 1-inch CMOS sensor and 20 mm-equivalent f/2.0 lens with a 3-axis mechanical gimbal. It records 4K up to 120fps and has a 2-inch, 700-nit rotatable touchscreen and three microphones. It weighs 179 g and runs up to 166 minutes per charge.",
+      "keywords": "dji osmo pocket 3 gimbal camera vlog 1-inch",
+      "specs": {
+        "sensor": "1-inch CMOS",
+        "video": "4K up to 120fps",
+        "stabilization": "3-axis mechanical gimbal",
+        "battery": "1300 mAh Li-ion, up to 166 min",
+        "weightG": 179,
+        "mount": "Handheld gimbal"
+      },
+      "variants": [
+        {
+          "label": "Osmo Pocket 3",
+          "price": "439.00"
+        },
+        {
+          "label": "Creator Combo",
+          "price": "549.00"
+        }
+      ],
+      "featured": false,
+      "warranty": 12,
+      "sources": {
+        "product": "https://www.dji.com/osmo-pocket-3",
+        "specs": "https://www.dji.com/osmo-pocket-3/specs",
+        "retrievedAt": "2026-09-28"
+      },
+      "image": {
+        "url": "https://www-cdn.djiits.com/cms/uploads/8c6ec9b0dc4e170120dfd4ebf9f0ffd6.png",
+        "page": "https://www.dji.com/osmo-pocket-3",
+        "sourceType": "manufacturer-product-page",
+        "rights": "Official DJI Store / dji.com product image; DJI has not granted a reuse license — rights not verified.",
+        "alt": "DJI Osmo Pocket 3 handheld gimbal camera, front view with screen showing a mountain landscape",
+        "match": "EXACT",
+        "credit": "DJI"
+      }
+    },
+    {
+      "sku": "TK-DJI-OSMOACTION6",
+      "slug": "dji-osmo-action-6",
+      "name": "DJI Osmo Action 6",
+      "brand": "DJI",
+      "category": "action-cameras",
+      "price": "429.00",
+      "priceBasis": "estimate",
+      "priceNote": "Estimate: dji.com (US) lists Osmo Action 6 but DJI's US online store had no purchasable listing on 2026-09-28.",
+      "releaseYear": 2025,
+      "summary": "Rugged action camera with a 1/1.1-inch sensor, variable f/2.0-f/4.0 aperture, 8K/30fps video and 20 m waterproofing.",
+      "description": "Osmo Action 6 uses a 1/1.1-inch CMOS sensor behind a 155° lens with a variable f/2.0-f/4.0 aperture. It records up to 8K/30fps and 4K up to 120fps, with RockSteady 3.0/3.0+ and HorizonSteady stabilization. It is waterproof to 20 m without a case, has 64 GB of built-in storage and runs up to 240 minutes on its 1950 mAh battery.",
+      "keywords": "dji osmo action 6 action camera 8k waterproof variable aperture",
+      "specs": {
+        "sensor": "1/1.1-inch CMOS",
+        "video": "8K/30fps; 4K up to 120fps",
+        "stabilization": "RockSteady 3.0/3.0+, HorizonSteady, HorizonBalancing (EIS)",
+        "battery": "1950 mAh Li-ion, up to 240 min",
+        "weightG": 149,
+        "mount": "Magnetic quick-release mount"
+      },
+      "featured": false,
+      "warranty": 12,
+      "sources": {
+        "product": "https://www.dji.com/osmo-action-6",
+        "specs": "https://www.dji.com/osmo-action-6/specs",
+        "retrievedAt": "2026-09-28"
+      },
+      "image": {
+        "url": "https://www-cdn.djiits.com/cms/uploads/ae781cd30b6dc794eb49ad3d44e26845.png",
+        "page": "https://www.dji.com/osmo-action-6",
+        "sourceType": "manufacturer-product-page",
+        "rights": "Official DJI Store / dji.com product image; DJI has not granted a reuse license — rights not verified.",
+        "alt": "DJI Osmo Action 6 action camera, front view showing lens and front touchscreen",
+        "match": "EXACT",
+        "credit": "DJI"
+      }
+    },
+    {
+      "sku": "TK-DJI-OSMO360",
+      "slug": "dji-osmo-360",
+      "name": "DJI Osmo 360",
+      "brand": "DJI",
+      "category": "action-cameras",
+      "price": "549.00",
+      "priceBasis": "estimate",
+      "priceNote": "Estimate: dji.com (US) lists Osmo 360 but DJI's US online store had no purchasable listing on 2026-09-28.",
+      "releaseYear": 2025,
+      "summary": "360° camera with 1/1.1-inch sensors, 8K/30fps panoramic video, 120MP panoramic photos and 128 GB built-in storage.",
+      "description": "Osmo 360 captures 360° panoramic video at up to 8K/30fps and 120MP (15520 x 7760) panoramic photos from 1/1.1-inch CMOS sensors with f/1.9 lenses. It has 128 GB of built-in storage, RockSteady 3.0 and HorizonSteady stabilization, and is waterproof to 10 m. It weighs 183 g.",
+      "keywords": "dji osmo 360 camera 8k panoramic vr",
+      "specs": {
+        "sensor": "1/1.1-inch CMOS (dual-lens 360°)",
+        "megapixels": 120,
+        "video": "8K/30fps panoramic; 6K/24fps panoramic",
+        "stabilization": "RockSteady 3.0, HorizonSteady (EIS)",
+        "battery": "1950 mAh Li-ion, up to 100 min at 8K/30fps",
+        "weightG": 183
+      },
+      "featured": false,
+      "warranty": 12,
+      "sources": {
+        "product": "https://www.dji.com/360",
+        "specs": "https://www.dji.com/360/specs",
+        "retrievedAt": "2026-09-28"
+      },
+      "image": {
+        "url": "https://www-cdn.djiits.com/cms/uploads/0cef4bb349916455b7ca65136c8cfcb2.png",
+        "page": "https://www.dji.com/360",
+        "sourceType": "manufacturer-product-page",
+        "rights": "Official DJI Store / dji.com product image; DJI has not granted a reuse license — rights not verified.",
+        "alt": "DJI Osmo 360 panoramic camera, front view showing one lens and touchscreen",
+        "match": "EXACT",
+        "credit": "DJI"
+      }
+    },
+    {
+      "sku": "TK-DJI-MIC3",
+      "slug": "dji-mic-3",
+      "name": "DJI Mic 3",
+      "brand": "DJI",
+      "category": "microphones",
+      "price": "259.00",
+      "priceBasis": "msrp",
+      "priceSource": "https://store.dji.com/product/dji-mic-3",
+      "priceAsOf": "2026-09-28",
+      "priceNote": "DJI US online store list price; the store showed this item out of stock on 2026-09-28.",
+      "releaseYear": 2025,
+      "summary": "Wireless lavalier mic system with 32-bit float internal recording, 400 m range and an 8-hour transmitter runtime.",
+      "description": "DJI Mic 3 is a compact wireless microphone system whose 16 g transmitters record internally in 32-bit float or 24-bit. It offers up to 400 m transmission range, omnidirectional capsules and up to 8 hours of operation. The 2 TX + 1 RX kit includes a charging case.",
+      "keywords": "dji mic 3 wireless lavalier microphone 32-bit float creator vlog",
+      "specs": {
+        "connection": "Wireless (2.4/5.8 GHz), up to 400 m range",
+        "micType": "Wireless clip-on transmitters with internal 32-bit float recording",
+        "polarPattern": "Omnidirectional"
+      },
+      "collections": [
+        "creator-workstations"
+      ],
+      "featured": false,
+      "warranty": 12,
+      "sources": {
+        "product": "https://www.dji.com/mic-3",
+        "specs": "https://www.dji.com/mic-3/specs",
+        "retrievedAt": "2026-09-28"
+      },
+      "image": {
+        "url": "https://se-cdn.djiits.com/tpc/uploads/spu/cover/473691cc5e140d0341a30b31b479c627@ultra.png?format=webp",
+        "page": "https://store.dji.com/product/dji-mic-3",
+        "sourceType": "manufacturer-product-page",
+        "rights": "Official DJI Store / dji.com product image; DJI has not granted a reuse license — rights not verified.",
+        "alt": "DJI Mic 3 two transmitters and receiver seated in the open charging case, front view",
+        "match": "EXACT",
+        "credit": "DJI"
+      }
+    },
+    {
+      "sku": "TK-DJI-MICMINI",
+      "slug": "dji-mic-mini",
+      "name": "DJI Mic Mini",
+      "brand": "DJI",
+      "category": "microphones",
+      "price": "99.00",
+      "priceBasis": "msrp",
+      "priceSource": "https://store.dji.com/product/dji-mic-mini",
+      "priceAsOf": "2026-09-28",
+      "priceNote": "DJI US online store list price; the store showed this item out of stock on 2026-09-28.",
+      "releaseYear": 2024,
+      "summary": "Ultra-light 10 g wireless mic system with 400 m range, Bluetooth phone connection and about 11.5 hours of runtime.",
+      "description": "DJI Mic Mini's transmitters weigh approx. 10 g each and use an omnidirectional capsule with noise cancellation. The system transmits up to 400 m and connects to phones via Bluetooth 5.3 or the included receiver. The 2 TX + 1 RX kit includes a charging case.",
+      "keywords": "dji mic mini wireless microphone lightweight vlog phone",
+      "specs": {
+        "connection": "2.4 GHz wireless (up to 400 m), Bluetooth 5.3",
+        "micType": "Wireless clip-on transmitters",
+        "polarPattern": "Omnidirectional"
+      },
+      "featured": false,
+      "warranty": 12,
+      "sources": {
+        "product": "https://www.dji.com/mic-mini",
+        "specs": "https://www.dji.com/mic-mini/specs",
+        "retrievedAt": "2026-09-28"
+      },
+      "image": {
+        "url": "https://se-cdn.djiits.com/tpc/uploads/spu/cover/cc67a84b8908fc97d07e5d607d4679b3@ultra.png?format=webp",
+        "page": "https://store.dji.com/product/dji-mic-mini",
+        "sourceType": "manufacturer-product-page",
+        "rights": "Official DJI Store / dji.com product image; DJI has not granted a reuse license — rights not verified.",
+        "alt": "DJI Mic Mini transmitters and receiver in open charging case, front view on white",
+        "match": "EXACT",
+        "credit": "DJI"
+      }
+    },
+    {
+      "sku": "TK-GOPRO-HERO13BLACK",
+      "slug": "gopro-hero13-black",
+      "name": "GoPro HERO13 Black",
+      "brand": "GoPro",
+      "category": "action-cameras",
+      "price": "429.99",
+      "priceBasis": "msrp",
+      "priceSource": "https://gopro.com/en/us/shop/cameras/buy/hero13black/CHDHX-131-master.html",
+      "priceAsOf": "2026-09-28",
+      "releaseYear": 2024,
+      "summary": "GoPro's flagship action camera with 5.3K60 video, 27MP photos, HyperSmooth 6.0 and auto-detecting HB-Series lenses.",
+      "description": "HERO13 Black records 5.3K60, 4K120, 2.7K120 and 1080p240 video and shoots 27MP photos, with 24.7MP frame grabs from video. HyperSmooth 6.0 handles in-camera stabilization, and optional HB-Series lenses are auto-detected so the camera switches to the right mode. A larger 1900mAh Enduro battery delivers up to 2.5 hours of continuous recording.",
+      "keywords": "gopro hero13 black action camera 5.3k waterproof hyper smooth",
+      "specs": {
+        "megapixels": 27,
+        "video": "5.3K60, 4K120, 2.7K120, 1080p240",
+        "stabilization": "HyperSmooth 6.0 (in-camera)",
+        "battery": "1900mAh Enduro (HERO13-specific)",
+        "mount": "Built-in folding mounting fingers + magnetic latch mount"
+      },
+      "variants": [
+        {
+          "label": "HERO13 Black",
+          "price": "429.99"
+        },
+        {
+          "label": "HERO13 Black + Accessories Bundle",
+          "price": "479.99"
+        },
+        {
+          "label": "HERO13 Black Ultra Wide Edition",
+          "price": "479.99"
+        },
+        {
+          "label": "HERO13 Black Creator Edition",
+          "price": "649.99"
+        }
+      ],
+      "featured": true,
+      "warranty": 12,
+      "sources": {
+        "product": "https://gopro.com/en/us/shop/cameras/learn/hero13black/CHDHX-131-master.html",
+        "retrievedAt": "2026-09-28"
+      },
+      "image": {
+        "url": "https://static.gopro.com/assets/blta2b8522e5372af40/blt4fe40f429c6a5c1d/66ac8ab12fce4533ba6ff849/02-pdp-h13-gallery-1920.png",
+        "page": "https://gopro.com/en/us/shop/cameras/buy/hero13black/CHDHX-131-master.html",
+        "sourceType": "manufacturer-product-page",
+        "rights": "Official GoPro product-page image (static.gopro.com); GoPro has not granted a reuse license — rights not verified.",
+        "alt": "GoPro HERO13 Black action camera, rear three-quarter view showing the touchscreen",
+        "match": "EXACT",
+        "credit": "GoPro"
+      }
+    },
+    {
+      "sku": "TK-GOPRO-MAX2",
+      "slug": "gopro-max2",
+      "name": "GoPro MAX2",
+      "brand": "GoPro",
+      "category": "action-cameras",
+      "price": "499.99",
+      "priceBasis": "msrp",
+      "priceSource": "https://gopro.com/en/us/shop/cameras/buy/max2/CHDHZ-311-master.html",
+      "priceAsOf": "2026-09-28",
+      "priceNote": "GoPro US list price; the GoPro store showed a $200-off promotional price of $299.99 on 2026-09-28.",
+      "releaseYear": 2025,
+      "summary": "True 8K 360° camera with 29MP 360° photos, Max HyperSmooth stabilization and twist-and-go replaceable lenses.",
+      "description": "MAX2 records True 8K 360° video, which GoPro says delivers up to 21% more resolution than competing 360 cameras, and captures 29MP 360° photos. Max HyperSmooth provides GoPro's strongest stabilization, and its twist-and-go replaceable lenses are made from optical glass. It can also shoot single-lens footage.",
+      "keywords": "gopro max2 max 2 360 camera 8k vr",
+      "specs": {
+        "megapixels": 29,
+        "video": "True 8K 360°; single-lens capture",
+        "stabilization": "Max HyperSmooth",
+        "sensor": "Dual-lens 360° with replaceable optical-glass lenses"
+      },
+      "variants": [
+        {
+          "label": "MAX2",
+          "price": "499.99"
+        },
+        {
+          "label": "MAX2 + Accessories Bundle",
+          "price": "569.99"
+        },
+        {
+          "label": "MAX2 Water Sports Bundle",
+          "price": "559.99"
+        }
+      ],
+      "featured": false,
+      "warranty": 12,
+      "sources": {
+        "product": "https://gopro.com/en/us/shop/cameras/learn/max2/CHDHZ-311-master.html",
+        "retrievedAt": "2026-09-28"
+      },
+      "image": {
+        "url": "https://static.gopro.com/assets/blta2b8522e5372af40/blte406d3da66591f9e/6879f3ce871e8f59af703a2f/3-pdp-max2-gallery-1920-1024.png",
+        "page": "https://gopro.com/en/us/shop/cameras/buy/max2/CHDHZ-311-master.html",
+        "sourceType": "manufacturer-product-page",
+        "rights": "Official GoPro product-page image (static.gopro.com); GoPro has not granted a reuse license — rights not verified.",
+        "alt": "GoPro MAX2 360-degree camera, three-quarter view showing lens and rear touchscreen",
+        "match": "EXACT",
+        "credit": "GoPro"
+      }
+    },
+    {
+      "sku": "TK-GOPRO-MISSION1PRO",
+      "slug": "gopro-mission-1-pro",
+      "name": "GoPro MISSION 1 PRO",
+      "brand": "GoPro",
+      "category": "action-cameras",
+      "price": "699.99",
+      "priceBasis": "msrp",
+      "priceSource": "https://gopro.com/en/us/shop/buy-cameras/mission-1-series",
+      "priceAsOf": "2026-09-28",
+      "releaseYear": 2026,
+      "summary": "Compact 1-inch-sensor cinema camera with 8K60 video, 8K30 open gate, 4K240 slow motion and 50MP photos.",
+      "description": "MISSION 1 PRO is part of GoPro's new MISSION 1 series of compact cinematic cameras, built around a 1-inch sensor behind a GoPro standard 14mm F2.8 lens. It records 8K up to 60fps, 8K open gate (4:3) up to 30fps and 4K up to 240fps, shoots 50MP photos and supports GP-Log2. It weighs 207 g, is waterproof to 20 m and uses a 2150mAh Enduro 2 battery; a PRO ILS version accepts Micro Four Thirds lenses.",
+      "keywords": "gopro mission 1 pro cinema camera 8k 1-inch open gate mft ils new",
+      "specs": {
+        "sensor": "1-inch",
+        "megapixels": 50,
+        "video": "8K60; 8K30 open gate (4:3); 4K240; 10-bit GP-Log2",
+        "stabilization": "HyperSmooth",
+        "battery": "2150mAh Enduro 2",
+        "weightG": 207,
+        "mount": "Fixed 14mm F2.8 lens (PRO ILS: MFT mount)"
+      },
+      "variants": [
+        {
+          "label": "MISSION 1 PRO (14mm lens)",
+          "price": "699.99"
+        },
+        {
+          "label": "MISSION 1 PRO ILS (Micro Four Thirds mount)",
+          "price": "699.99"
+        }
+      ],
+      "featured": false,
+      "warranty": 12,
+      "sources": {
+        "product": "https://gopro.com/en/us/shop/learn-cameras/mission-1",
+        "retrievedAt": "2026-09-28"
+      },
+      "image": {
+        "url": "https://gopro.com/on/demandware.static/-/Sites-gopro-products/default/dw3f0e183a/images/Product%20Images/cameras/CHDHW-011-master/plp-product-card-mission1-pro.png",
+        "page": "https://gopro.com/en/us/shop/learn-cameras/mission-1",
+        "sourceType": "manufacturer-product-page",
+        "rights": "Official GoPro store product image (gopro.com); GoPro has not granted a reuse license — rights not verified.",
+        "credit": "GoPro",
+        "alt": "GoPro MISSION 1 PRO camera, front view showing the lens housing and front status screen",
+        "match": "EXACT"
+      }
+    }
+  ]
+}

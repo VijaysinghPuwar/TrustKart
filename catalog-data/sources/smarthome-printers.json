@@ -1,0 +1,1649 @@
+{
+ "meta": {
+  "notes": "Smart home (Amazon Echo/Ring/Blink/eero, ecobee, Philips Hue, Nanoleaf, LIFX, Arlo, eufy, Aqara, SwitchBot, Lutron, Yale, Reolink) and printers (Brother, Canon, Epson, Lexmark, Xerox, Zebra). Researched 2026-09-28 from official manufacturer pages; prices are manufacturer list prices on that date unless priceBasis is estimate."
+ },
+ "products": [
+  {
+   "sku": "TK-BROTHER-HLL2460DW",
+   "slug": "brother-hl-l2460dw",
+   "name": "Brother HL-L2460DW Wireless Compact Monochrome Laser Printer",
+   "brand": "Brother",
+   "category": "laser-printers",
+   "price": "179.99",
+   "priceBasis": "msrp",
+   "priceSource": "https://www.brother-usa.com/p/laser-printers/HLL2460DW",
+   "priceAsOf": "2026-09-28",
+   "summary": "Compact wireless monochrome laser printer with up to 36 ppm, automatic duplex printing and a 250-sheet tray.",
+   "description": "The HL-L2460DW is a compact black-and-white laser printer that prints up to 36 pages per minute. Its 250-sheet paper tray and automatic duplex printing cut refills and paper waste, and it connects over dual-band wireless, Ethernet or USB 2.0. It supports mobile printing through the Brother Mobile Connect app.",
+   "keywords": "black and white laser home office",
+   "specs": {
+    "technology": "Monochrome laser",
+    "color": false,
+    "ppm": 36,
+    "duplex": true,
+    "functions": "Print",
+    "connectivity": "Dual-band Wi-Fi, Ethernet, USB 2.0"
+   },
+   "collections": [
+    "small-business"
+   ],
+   "featured": false,
+   "warranty": 12,
+   "sources": {
+    "product": "https://www.brother-usa.com/p/laser-printers/HLL2460DW",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://assets.brother.com/transform/4507e3c5-f42c-40fa-8222-ea80d1f14cc5/20525_HL-L2460DW_Spinners_1-jpg?io=transform:fit,width:1360",
+    "page": "https://www.brother-usa.com/p/laser-printers/HLL2460DW",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official Brother product-page image; Brother has not granted a reuse license — rights not verified.",
+    "alt": "Brother HL-L2460DW compact monochrome laser printer in white and grey, front three-quarter view",
+    "match": "EXACT",
+    "credit": "Brother"
+   }
+  },
+  {
+   "sku": "TK-BROTHER-HLL3280CDW",
+   "slug": "brother-hl-l3280cdw",
+   "name": "Brother HL-L3280CDW Digital Color Printer",
+   "brand": "Brother",
+   "category": "laser-printers",
+   "price": "344.99",
+   "priceBasis": "msrp",
+   "priceSource": "https://www.brother-usa.com/p/laser-printers/HLL3280CDW",
+   "priceAsOf": "2026-09-28",
+   "summary": "Wireless color laser-quality printer with up to 27 ppm, automatic duplex, 2.7-inch touchscreen and Gigabit Ethernet.",
+   "description": "The HL-L3280CDW is a compact digital color printer for home offices and shared workspaces. It prints up to 27 pages per minute with automatic duplex printing, has a 2.7-inch touchscreen for cloud printing, and connects over dual-band wireless, Gigabit Ethernet, Wi-Fi Direct or USB.",
+   "keywords": "color laser led printer home office",
+   "specs": {
+    "technology": "Color laser (LED)",
+    "color": true,
+    "ppm": 27,
+    "duplex": true,
+    "functions": "Print",
+    "connectivity": "Dual-band Wi-Fi, Gigabit Ethernet, Wi-Fi Direct, USB 2.0"
+   },
+   "collections": [
+    "small-business"
+   ],
+   "featured": false,
+   "warranty": 12,
+   "sources": {
+    "product": "https://www.brother-usa.com/p/laser-printers/HLL3280CDW",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://assets.brother.com/transform/6803e5b7-2a00-4d96-a802-f6affc0f03fd/19710_Spinner_HL-L3280CDW_1-jpg?io=transform:fit,width:1360",
+    "page": "https://www.brother-usa.com/p/laser-printers/HLL3280CDW",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official Brother product-page image; Brother has not granted a reuse license — rights not verified.",
+    "alt": "Brother HL-L3280CDW compact color printer with touchscreen, front three-quarter view",
+    "match": "EXACT",
+    "credit": "Brother"
+   }
+  },
+  {
+   "sku": "TK-BROTHER-HLL6210DW",
+   "slug": "brother-hl-l6210dw",
+   "name": "Brother HL-L6210DW Business Monochrome Laser Printer",
+   "brand": "Brother",
+   "category": "laser-printers",
+   "price": "349.99",
+   "priceBasis": "msrp",
+   "priceSource": "https://www.brother-usa.com/p/laser-printers/HLL6210DW",
+   "priceAsOf": "2026-09-28",
+   "summary": "Business monochrome laser printer with up to 50 ppm, automatic duplex, 1,040-sheet standard capacity and Gigabit Ethernet.",
+   "description": "Built for busy offices and workgroups, the HL-L6210DW prints up to 50 pages per minute with automatic two-sided printing. It offers a large expandable paper capacity, Triple Layer Security features, Gigabit Ethernet and dual-band wireless, and low-cost printing with the TN920UXXL ultra high-yield toner.",
+   "keywords": "workgroup office laser high volume",
+   "specs": {
+    "technology": "Monochrome laser",
+    "color": false,
+    "ppm": 50,
+    "duplex": true,
+    "functions": "Print",
+    "connectivity": "Dual-band Wi-Fi, Gigabit Ethernet, USB 2.0"
+   },
+   "collections": [
+    "small-business"
+   ],
+   "featured": false,
+   "warranty": 12,
+   "sources": {
+    "product": "https://www.brother-usa.com/p/laser-printers/HLL6210DW",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://assets.brother.com/transform/3cdcddb9-5d0d-4ca4-b329-9aa35f500eac/HL-L6210DW_Spinner1-846x846-jpg?io=transform:fit,width:1360",
+    "page": "https://www.brother-usa.com/p/laser-printers/HLL6210DW",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official Brother product-page image; Brother has not granted a reuse license — rights not verified.",
+    "alt": "Brother HL-L6210DW business monochrome laser printer, front three-quarter view",
+    "match": "EXACT",
+    "credit": "Brother"
+   }
+  },
+  {
+   "sku": "TK-BROTHER-MFCL2900DW",
+   "slug": "brother-mfc-l2900dw",
+   "name": "Brother MFC-L2900DW Wireless Monochrome Laser All-in-One",
+   "brand": "Brother",
+   "category": "multifunction-printers",
+   "price": "329.99",
+   "priceBasis": "msrp",
+   "priceSource": "https://www.brother-usa.com/p/laser-printers/MFCL2900DW",
+   "priceAsOf": "2026-09-28",
+   "summary": "Compact monochrome laser all-in-one with print, copy, scan and fax at up to 36 ppm and single-pass duplex scanning.",
+   "description": "The MFC-L2900DW prints, copies, scans and faxes in one compact unit at up to 36 pages per minute. A 50-page automatic document feeder with single-pass duplex scanning, automatic duplex printing, a 250-sheet tray and a 3.5-inch touchscreen streamline office work, with dual-band wireless, Ethernet and USB 2.0 connectivity.",
+   "keywords": "all in one mfp fax scanner",
+   "specs": {
+    "technology": "Monochrome laser",
+    "color": false,
+    "ppm": 36,
+    "duplex": true,
+    "functions": "Print, copy, scan, fax",
+    "connectivity": "Dual-band Wi-Fi, Ethernet, USB 2.0"
+   },
+   "collections": [
+    "small-business"
+   ],
+   "featured": false,
+   "warranty": 12,
+   "sources": {
+    "product": "https://www.brother-usa.com/p/laser-printers/MFCL2900DW",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://assets.brother.com/transform/bef39fbf-81d9-493b-8e25-211ae2cf614b/21294_MFC-L2900DW_Spinners_1-jpg?io=transform:fit,width:1360",
+    "page": "https://www.brother-usa.com/p/laser-printers/MFCL2900DW",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official Brother product-page image; Brother has not granted a reuse license — rights not verified.",
+    "alt": "Brother MFC-L2900DW monochrome laser all-in-one printer with document feeder, front three-quarter view",
+    "match": "EXACT",
+    "credit": "Brother"
+   }
+  },
+  {
+   "sku": "TK-BROTHER-MFCL3765CDW",
+   "slug": "brother-mfc-l3765cdw",
+   "name": "Brother MFC-L3765CDW Digital Color All-in-One Printer",
+   "brand": "Brother",
+   "category": "multifunction-printers",
+   "price": "499.99",
+   "priceBasis": "msrp",
+   "priceSource": "https://www.brother-usa.com/products/mfcl3765cdw",
+   "priceAsOf": "2026-09-28",
+   "summary": "Wireless color all-in-one with print, copy, scan and fax at up to 27 ppm, a 3.5-inch touchscreen and 50-page ADF.",
+   "description": "The MFC-L3765CDW is a digital color all-in-one for small offices that prints at up to 27 pages per minute and scans at up to 29/22 ipm (black/color). It includes automatic duplex printing, a 50-page document feeder, a 3.5-inch color touchscreen with cloud shortcuts, and Gigabit Ethernet, dual-band wireless and USB connectivity.",
+   "keywords": "color all in one mfp fax scanner",
+   "specs": {
+    "technology": "Color laser (LED)",
+    "color": true,
+    "ppm": 27,
+    "duplex": true,
+    "functions": "Print, copy, scan, fax",
+    "connectivity": "Dual-band Wi-Fi, Gigabit Ethernet, Wi-Fi Direct, USB 2.0"
+   },
+   "collections": [
+    "small-business"
+   ],
+   "featured": false,
+   "warranty": 12,
+   "sources": {
+    "product": "https://www.brother-usa.com/products/mfcl3765cdw",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://assets.brother.com/transform/18b78a9b-2490-45c7-bf8d-9b16c3e2ad9a/19668_Spinner_MFC-L3765CDW_1-jpg?io=transform:fit,width:1360",
+    "page": "https://www.brother-usa.com/products/mfcl3765cdw",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official Brother product-page image; Brother has not granted a reuse license — rights not verified.",
+    "alt": "Brother MFC-L3765CDW color all-in-one printer with touchscreen and document feeder, front three-quarter view",
+    "match": "EXACT",
+    "credit": "Brother"
+   }
+  },
+  {
+   "sku": "TK-BROTHER-MFCL8905CDW",
+   "slug": "brother-mfc-l8905cdw",
+   "name": "Brother MFC-L8905CDW Business Color Laser All-in-One",
+   "brand": "Brother",
+   "category": "multifunction-printers",
+   "price": "769.99",
+   "priceBasis": "msrp",
+   "priceSource": "https://www.brother-usa.com/products/mfcl8905cdw",
+   "priceAsOf": "2026-09-28",
+   "summary": "Workgroup color laser all-in-one with up to 33 ppm, a 7-inch touchscreen, automatic duplex and Gigabit Ethernet.",
+   "description": "The MFC-L8905CDW is a color laser all-in-one for workgroups with high print volumes. It prints at up to 33 pages per minute in color or black, offers a large 7-inch touchscreen with custom shortcuts, scalable paper handling, and built-in Gigabit Ethernet and wireless networking with mobile printing and scanning.",
+   "keywords": "workgroup color mfp office",
+   "specs": {
+    "technology": "Color laser",
+    "color": true,
+    "ppm": 33,
+    "duplex": true,
+    "functions": "Print, copy, scan, fax",
+    "connectivity": "Wi-Fi 802.11b/g/n, Gigabit Ethernet, USB 2.0"
+   },
+   "collections": [
+    "small-business"
+   ],
+   "featured": false,
+   "warranty": 12,
+   "sources": {
+    "product": "https://www.brother-usa.com/products/mfcl8905cdw",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://assets.brother.com/transform/f0ce2bd0-48b1-4704-86da-7e42c34bdffc/21068_MFCL8905CD_front-jpg?io=transform:fit,width:1360",
+    "page": "https://www.brother-usa.com/products/mfcl8905cdw",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official Brother product-page image; Brother has not granted a reuse license — rights not verified.",
+    "alt": "Brother MFC-L8905CDW business color laser all-in-one printer, front view",
+    "match": "EXACT",
+    "credit": "Brother"
+   }
+  },
+  {
+   "sku": "TK-BROTHER-QL1110NWB",
+   "slug": "brother-ql-1110nwb",
+   "name": "Brother QL-1110NWB Wide Format Professional Label Printer",
+   "brand": "Brother",
+   "category": "label-printers",
+   "price": "334.99",
+   "priceBasis": "msrp",
+   "priceSource": "https://www.brother-usa.com/products/ql1110nwb",
+   "priceAsOf": "2026-09-28",
+   "summary": "4-inch wide direct thermal label printer with Bluetooth, Wi-Fi and Ethernet, printing up to 69 address labels per minute.",
+   "description": "The QL-1110NWB prints cost-effective paper labels up to 4 inches wide for packages, postage and barcodes, at up to 69 standard address labels per minute at 300 dpi. It uses direct thermal printing, so there is no ink or toner, has an automatic cutter, and connects via Bluetooth, Ethernet, 802.11b/g/n wireless and USB.",
+   "keywords": "shipping label postage thermal barcode",
+   "specs": {
+    "technology": "Direct thermal",
+    "color": false,
+    "duplex": false,
+    "functions": "Label printing, auto cutter",
+    "connectivity": "Bluetooth, Wi-Fi 802.11b/g/n, Ethernet, USB"
+   },
+   "collections": [
+    "small-business"
+   ],
+   "featured": false,
+   "warranty": 12,
+   "sources": {
+    "product": "https://www.brother-usa.com/products/ql1110nwb",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://assets.brother.com/transform/9f4046a8-6b49-47d9-9023-3c78fa532d38/3931_QL1110NWB_front_featuredimagery_0-png?io=transform:fit,width:1360",
+    "page": "https://www.brother-usa.com/products/ql1110nwb",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official Brother product-page image; Brother has not granted a reuse license — rights not verified.",
+    "alt": "Brother QL-1110NWB wide-format label printer, front view",
+    "match": "EXACT",
+    "credit": "Brother"
+   }
+  },
+  {
+   "sku": "TK-BROTHER-TD4550DNWB",
+   "slug": "brother-td-4550dnwb",
+   "name": "Brother TD-4550DNWB 4-inch Direct Thermal Desktop Printer",
+   "brand": "Brother",
+   "category": "label-printers",
+   "price": "968.00",
+   "priceBasis": "msrp",
+   "priceSource": "https://www.brother-usa.com/products/td4550dnwb",
+   "priceAsOf": "2026-09-28",
+   "summary": "4-inch 300 dpi direct thermal desktop barcode printer with Bluetooth, Wi-Fi and Ethernet, up to 6 ips.",
+   "description": "The TD-4550DNWB is a 4-inch desktop thermal printer for barcode labels, tags and receipts in inventory, shipping and shelf labeling. It prints at 300 dpi at up to 6 inches per second, offers spindle-less media loading and ZPL II emulation, and connects over Bluetooth, Wi-Fi and wired networking.",
+   "keywords": "barcode zpl warehouse shipping thermal",
+   "specs": {
+    "technology": "Direct thermal",
+    "color": false,
+    "duplex": false,
+    "functions": "Barcode labels, tags, receipts",
+    "connectivity": "USB, USB host, serial, Ethernet, Wi-Fi, Bluetooth 4.2 BLE"
+   },
+   "collections": [
+    "small-business"
+   ],
+   "featured": false,
+   "warranty": 12,
+   "sources": {
+    "product": "https://www.brother-usa.com/products/td4550dnwb",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://assets.brother.com/transform/f6d8c2ed-8c3f-4e93-a854-da971e152cdd/11032_TD4550DNWB-front-png?io=transform:fit,width:1360",
+    "page": "https://www.brother-usa.com/products/td4550dnwb",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official Brother product-page image; Brother has not granted a reuse license — rights not verified.",
+    "alt": "Brother TD-4550DNWB 4-inch desktop thermal barcode printer, front view",
+    "match": "EXACT",
+    "credit": "Brother"
+   }
+  },
+  {
+   "sku": "TK-EPSON-ET2980",
+   "slug": "epson-ecotank-et-2980",
+   "name": "Epson EcoTank ET-2980 Wireless All-in-One Supertank Printer",
+   "brand": "Epson",
+   "category": "inkjet-printers",
+   "price": "329.99",
+   "priceBasis": "msrp",
+   "priceSource": "https://epson.com/For-Home/Printers/Inkjet/EcoTank-ET-2980-Wireless-All-in-One-Color-Supertank-Printer-%E2%80%93-Black/p/C11CL41201",
+   "priceAsOf": "2026-09-28",
+   "releaseYear": 2025,
+   "summary": "Cartridge-free supertank all-in-one with 15/8 ISO ppm, auto duplex printing, and ink in the box for up to three years.",
+   "description": "The EcoTank ET-2980 is a seventh-generation cartridge-free all-in-one that prints, copies and scans using refillable ink tanks, with enough ink in the box to last up to three years. PrecisionCore Heat-Free technology delivers 15 black / 8 color ISO ppm with zero warmup, plus auto duplex printing, a 100-sheet tray and a 1.44-inch color display.",
+   "keywords": "ecotank ink tank cartridge free home printer",
+   "specs": {
+    "technology": "Inkjet supertank (PrecisionCore Heat-Free)",
+    "color": true,
+    "ppm": 15,
+    "duplex": true,
+    "functions": "Print, copy, scan",
+    "connectivity": "Wi-Fi 5 (802.11ac), Wi-Fi Direct, Hi-Speed USB"
+   },
+   "featured": false,
+   "warranty": 12,
+   "notes": "Epson list price $329.99; epson.com showed a temporary $229.99 instant-savings promo on 2026-09-28.",
+   "sources": {
+    "product": "https://epson.com/For-Home/Printers/Inkjet/EcoTank-ET-2980-Wireless-All-in-One-Color-Supertank-Printer-%E2%80%93-Black/p/C11CL41201",
+    "specs": "https://cdn.bfldr.com/MWSKON77/at/w4t8s6p9nvzfn4hcw6kf9xr/70643_ET-2980_Spec_Sheet_Final.pdf",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://mediaserver.goepson.com/adaptivemedia/rendition?id=d201580b89d7903ba86c971fb8a06a717b55033e&vid=d201580b89d7903ba86c971fb8a06a717b55033e&prid=1200Wx1200H&clid=SAPDAM&prclid=banner&assetDescr=ET-2980_blk_headon-closed_690x460%402x",
+    "page": "https://epson.com/For-Home/Printers/Inkjet/EcoTank-ET-2980-Wireless-All-in-One-Color-Supertank-Printer-%E2%80%93-Black/p/C11CL41201",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official Epson product-page image; Epson has not granted a reuse license — rights not verified.",
+    "alt": "Epson EcoTank ET-2980 all-in-one supertank printer in black, head-on view with lid closed",
+    "match": "EXACT",
+    "credit": "Epson"
+   },
+   "colors": [
+    "Black",
+    "White"
+   ]
+  },
+  {
+   "sku": "TK-EPSON-ET4950",
+   "slug": "epson-ecotank-et-4950",
+   "name": "Epson EcoTank ET-4950 Wireless All-in-One Supertank Printer with Fax",
+   "brand": "Epson",
+   "category": "inkjet-printers",
+   "price": "499.99",
+   "priceBasis": "msrp",
+   "priceSource": "https://epson.com/For-Home/Printers/Inkjet/EcoTank-ET-4950-Wireless-All-in-One-Color-Supertank-Printer-%E2%80%93-Black/p/C11CL40201",
+   "priceAsOf": "2026-09-28",
+   "releaseYear": 2025,
+   "summary": "Seventh-generation EcoTank all-in-one with fax, ADF, 250-sheet tray, auto duplex and 18/9 ISO ppm.",
+   "description": "The EcoTank ET-4950 prints, copies, scans and faxes with Epson's cartridge-free supertank system. It offers 18 black / 9 color ISO ppm with zero warmup, an auto document feeder, a 250-sheet paper tray, auto duplex printing and a 2.4-inch color display, and connects over Ethernet and Wi-Fi.",
+   "keywords": "ecotank fax adf home office ink tank",
+   "specs": {
+    "technology": "Inkjet supertank (PrecisionCore Heat-Free)",
+    "color": true,
+    "ppm": 18,
+    "duplex": true,
+    "functions": "Print, copy, scan, fax",
+    "connectivity": "Wi-Fi, Ethernet, USB"
+   },
+   "collections": [
+    "small-business"
+   ],
+   "featured": false,
+   "warranty": 12,
+   "sources": {
+    "product": "https://epson.com/For-Home/Printers/Inkjet/EcoTank-ET-4950-Wireless-All-in-One-Color-Supertank-Printer-%E2%80%93-Black/p/C11CL40201",
+    "specs": "https://cdn.bfldr.com/MWSKON77/at/chhkc8pf59f5r6nb3mqbnv3p/70643_ET-4950_Spec_Sheet_Final.pdf",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://mediaserver.goepson.com/adaptivemedia/rendition?id=582a61e7d426956deeed620c626503d4856a6cf8&vid=582a61e7d426956deeed620c626503d4856a6cf8&prid=1200Wx1200H&clid=SAPDAM&prclid=banner&assetDescr=ET-4950_blk_headon_690x460%402x",
+    "page": "https://epson.com/For-Home/Printers/Inkjet/EcoTank-ET-4950-Wireless-All-in-One-Color-Supertank-Printer-%E2%80%93-Black/p/C11CL40201",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official Epson product-page image; Epson has not granted a reuse license — rights not verified.",
+    "alt": "Epson EcoTank ET-4950 all-in-one supertank printer in black, head-on view",
+    "match": "EXACT",
+    "credit": "Epson"
+   },
+   "colors": [
+    "Black",
+    "White"
+   ]
+  },
+  {
+   "sku": "TK-EPSON-ET8550",
+   "slug": "epson-ecotank-photo-et-8550",
+   "name": "Epson EcoTank Photo ET-8550 Wide-format Supertank Printer",
+   "brand": "Epson",
+   "category": "inkjet-printers",
+   "price": "749.99",
+   "priceBasis": "msrp",
+   "priceSource": "https://epson.com/For-Work/Printers/Inkjet/EcoTank-Photo-ET-8550-All-in-One-Wide-format-Supertank-Printer/p/C11CJ21201",
+   "priceAsOf": "2026-09-28",
+   "summary": "Six-color wide-format photo all-in-one printing up to 13 x 19 inches, with auto duplex and a 4.3-inch touchscreen.",
+   "description": "The EcoTank Photo ET-8550 is a wireless all-in-one that delivers lab-quality, wide-format color photos, graphics and documents up to 13 x 19 inches using a six-color cartridge-free ink system with Photo Black and Gray. It accepts cardstock, CD/DVDs and specialty media up to 1.3 mm thick, supports auto 2-sided printing and has a 4.3-inch touchscreen.",
+   "keywords": "photo printer 13x19 wide format creator ecotank",
+   "specs": {
+    "technology": "Inkjet supertank, 6-color photo",
+    "color": true,
+    "ppm": 16,
+    "duplex": true,
+    "functions": "Print, copy, scan",
+    "connectivity": "Wi-Fi 5 (802.11ac), Ethernet, Hi-Speed USB, Wi-Fi Direct"
+   },
+   "collections": [
+    "creator-workstations"
+   ],
+   "featured": false,
+   "warranty": 12,
+   "sources": {
+    "product": "https://epson.com/For-Work/Printers/Inkjet/EcoTank-Photo-ET-8550-All-in-One-Wide-format-Supertank-Printer/p/C11CJ21201",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://mediaserver.goepson.com/adaptivemedia/rendition?id=2fecd27f33e585c4a892f076201a8323d7e4bcc3&vid=2fecd27f33e585c4a892f076201a8323d7e4bcc3&prid=1200Wx1200H&clid=SAPDAM&prclid=banner&assetDescr=ET-8550_headon_690x460",
+    "page": "https://epson.com/For-Work/Printers/Inkjet/EcoTank-Photo-ET-8550-All-in-One-Wide-format-Supertank-Printer/p/C11CJ21201",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official Epson product-page image; Epson has not granted a reuse license — rights not verified.",
+    "alt": "Epson EcoTank Photo ET-8550 wide-format photo printer in black, head-on view",
+    "match": "EXACT",
+    "credit": "Epson"
+   }
+  },
+  {
+   "sku": "TK-RING-BATTDOORBELL4KPRO",
+   "slug": "ring-battery-doorbell-4k-pro",
+   "name": "Ring Battery Doorbell 4K Pro",
+   "brand": "Ring",
+   "category": "home-cameras-doorbells",
+   "price": "249.99",
+   "priceBasis": "msrp",
+   "priceSource": "https://ring.com/products/battery-doorbell-pro-2nd-gen",
+   "priceAsOf": "2026-09-28",
+   "summary": "Ring's newest battery doorbell with Retinal 4K video, 10x Enhanced Zoom, 140° x 140° head-to-toe view, 3D Motion Detection and Wi-Fi 6.",
+   "description": "The Battery Doorbell 4K Pro records Retinal 4K video with up to 10x Enhanced Zoom and a 140° horizontal by 140° vertical head-to-toe field of view. Radar-based 3D Motion Detection sends precise alerts, it runs on a Quick Release Ultra Battery Pack or existing doorbell wiring, and it connects over dual-band Wi-Fi 6.",
+   "keywords": "video doorbell 4k battery wireless ring pro",
+   "specs": {
+    "ecosystem": "Ring app, Alexa",
+    "connectivity": "Wi-Fi 6 (802.11ax), dual-band 2.4/5 GHz",
+    "power": "Quick Release Ultra Battery Pack (optional doorbell wiring)",
+    "resolution": "Retinal 4K"
+   },
+   "colors": [
+    "Deep Silver",
+    "Polished Night Navy",
+    "Polished Mocha",
+    "Polished Sandstone"
+   ],
+   "featured": true,
+   "warranty": 12,
+   "notes": "Ring list ('Was') price $249.99; ring.com showed a $149.99 sale price on 2026-09-28.",
+   "sources": {
+    "product": "https://ring.com/products/battery-doorbell-pro-2nd-gen",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://images.ctfassets.net/a3peezndovsu/10us7nknuEwrEaNtmw3ScP/a455d50d94c094558f268b51734b4ee2/ring_battery_doorbell_pro_gen2_product_dark_silver_1500x1500.jpg",
+    "page": "https://ring.com/products/battery-doorbell-pro-2nd-gen",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official Ring product image from ring.com (Ring, an Amazon company); no reuse license granted — rights not verified.",
+    "alt": "Ring Battery Doorbell 4K Pro video doorbell in Deep Silver, front view",
+    "match": "EXACT",
+    "credit": "Ring"
+   }
+  },
+  {
+   "sku": "TK-RING-WIREDDOORBELL4KPRO",
+   "slug": "ring-wired-doorbell-4k-pro",
+   "name": "Ring Wired Doorbell 4K Pro",
+   "brand": "Ring",
+   "category": "home-cameras-doorbells",
+   "price": "249.99",
+   "priceBasis": "msrp",
+   "priceSource": "https://ring.com/products/wired-doorbell-pro",
+   "priceAsOf": "2026-09-28",
+   "summary": "Hardwired Ring doorbell with Retinal 4K video, 10x Enhanced Zoom, 140° x 140° field of view, 3D Motion Detection and Wi-Fi 6.",
+   "description": "Ring's most advanced wired doorbell pairs a redesigned body with Retinal 4K video and up to 10x Enhanced Zoom, delivering detail even in near-dark conditions. It offers a 140° by 140° head-to-toe field of view, 3D Motion Detection, two-way talk with Audio+, and dual-band Wi-Fi 6, powered by a standard 16-24 VAC doorbell system.",
+   "keywords": "video doorbell 4k wired ring pro",
+   "specs": {
+    "ecosystem": "Ring app, Alexa",
+    "connectivity": "Wi-Fi 6 (802.11ax), dual-band 2.4/5 GHz",
+    "power": "Hardwired (16-24 VAC doorbell system)",
+    "resolution": "Retinal 4K"
+   },
+   "colors": [
+    "Deep Silver",
+    "Polished Night Navy",
+    "Polished Mocha",
+    "Polished Sandstone"
+   ],
+   "featured": false,
+   "warranty": 12,
+   "notes": "Ring list ('Was') price $249.99; ring.com showed a $149.99 sale price on 2026-09-28.",
+   "sources": {
+    "product": "https://ring.com/products/wired-doorbell-pro",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://images.ctfassets.net/a3peezndovsu/3gjfLsAnG7SwdB6Z5oA2sD/282c8d4a9582f349c92cdd4236dd828b/ring_wired_doorbell_pro_4k_1500x1500__1_.jpg",
+    "page": "https://ring.com/products/wired-doorbell-pro",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official Ring product image from ring.com (Ring, an Amazon company); no reuse license granted — rights not verified.",
+    "alt": "Ring Wired Doorbell 4K Pro video doorbell in Deep Silver, front view",
+    "match": "EXACT",
+    "credit": "Ring"
+   }
+  },
+  {
+   "sku": "TK-RING-FLOODLIGHT4KPRO",
+   "slug": "ring-floodlight-cam-4k-pro",
+   "name": "Ring Floodlight Cam 4K Pro",
+   "brand": "Ring",
+   "category": "home-cameras-doorbells",
+   "price": "279.99",
+   "priceBasis": "msrp",
+   "priceSource": "https://ring.com/products/floodlight-cam-pro-2nd-gen",
+   "priceAsOf": "2026-09-28",
+   "summary": "Hardwired 4K floodlight camera with 2000-lumen lights, 85 dB siren, 10x Enhanced Zoom and 3D Motion Detection.",
+   "description": "The Floodlight Cam 4K Pro combines 4K video with night vision and up to 10x Enhanced Zoom, 2000-lumen floodlights and an 85 dB siren. 3D Motion Detection with customizable zones delivers precise alerts, and it connects over dual-band Wi-Fi. The wired version installs on a 110-240V junction box; a plug-in version is also sold.",
+   "keywords": "floodlight camera 4k outdoor siren ring",
+   "specs": {
+    "ecosystem": "Ring app, Alexa",
+    "connectivity": "Wi-Fi 6, dual-band 2.4/5 GHz",
+    "power": "Hardwired (110-240V) or plug-in",
+    "resolution": "4K"
+   },
+   "colors": [
+    "White",
+    "Black"
+   ],
+   "featured": false,
+   "warranty": 12,
+   "notes": "Ring list ('Was') price $279.99; ring.com showed a $199.99 sale price on 2026-09-28.",
+   "sources": {
+    "product": "https://ring.com/products/floodlight-cam-pro-2nd-gen",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://images.ctfassets.net/a3peezndovsu/4QjNds6rlGK5JJp5U8eeI3/6f6c1da6222d749c8f4bc044fa0e84f9/ring_floodlight_cam_pro_4k_wired_white_1500x1500.jpg",
+    "page": "https://ring.com/products/floodlight-cam-pro-2nd-gen",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official Ring product image from ring.com (Ring, an Amazon company); no reuse license granted — rights not verified.",
+    "alt": "Ring Floodlight Cam 4K Pro wired floodlight security camera in white, front view",
+    "match": "EXACT",
+    "credit": "Ring"
+   }
+  },
+  {
+   "sku": "TK-RING-OUTDOORCAM4KPRO",
+   "slug": "ring-outdoor-cam-4k-pro",
+   "name": "Ring Outdoor Cam 4K Pro",
+   "brand": "Ring",
+   "category": "home-cameras-doorbells",
+   "price": "199.99",
+   "priceBasis": "msrp",
+   "priceSource": "https://ring.com/products/outdoor-cam-pro-4k",
+   "priceAsOf": "2026-09-28",
+   "summary": "Weather-resistant 4K outdoor camera with 10x Enhanced Zoom, 3D Motion Detection, Wi-Fi 6 and plug-in, wired or PoE power options.",
+   "description": "The Outdoor Cam 4K Pro records 4K video with night vision and up to 10x Enhanced Zoom and uses 3D Motion Detection with customizable motion zones. It connects over dual-band Wi-Fi 6 and is offered in plug-in (20W USB-C adapter), wired and Power over Ethernet versions in white or black.",
+   "keywords": "outdoor security camera 4k poe ring",
+   "specs": {
+    "ecosystem": "Ring app, Alexa",
+    "connectivity": "Wi-Fi 6 (802.11ax), dual-band 2.4/5 GHz",
+    "power": "Plug-in USB-C (wired and PoE versions available)",
+    "resolution": "4K"
+   },
+   "colors": [
+    "White",
+    "Black"
+   ],
+   "featured": false,
+   "warranty": 12,
+   "notes": "Ring list ('Was') price $199.99; ring.com showed a $129.99 sale price on 2026-09-28.",
+   "sources": {
+    "product": "https://ring.com/products/outdoor-cam-pro-4k",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://images.ctfassets.net/a3peezndovsu/6pQTiRKdwyRrcHXcOmCNFH/886859acfdbee8b3aa603131fc5778f2/ring_outdoor_cam_pro_black_1500x1500.jpg",
+    "page": "https://ring.com/products/outdoor-cam-pro-4k",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official Ring product image from ring.com (Ring, an Amazon company); no reuse license granted — rights not verified.",
+    "alt": "Ring Outdoor Cam 4K Pro security camera in black, front three-quarter view",
+    "match": "EXACT",
+    "credit": "Ring"
+   }
+  },
+  {
+   "sku": "TK-RING-SPOTLIGHT4KPRO",
+   "slug": "ring-spotlight-cam-4k-pro",
+   "name": "Ring Spotlight Cam 4K Pro",
+   "brand": "Ring",
+   "category": "home-cameras-doorbells",
+   "price": "249.99",
+   "priceBasis": "msrp",
+   "priceSource": "https://ring.com/products/spotlight-cam-pro-2nd-gen",
+   "priceAsOf": "2026-09-28",
+   "summary": "4K outdoor camera with 600-lumen spotlights, 85 dB siren, Low-Light Sight, 10x Enhanced Zoom and Wi-Fi 6.",
+   "description": "The Spotlight Cam 4K Pro adds 600-lumen spotlights and an 85 dB siren to 4K video with Low-Light Sight and up to 10x Enhanced Zoom. 3D Motion Detection with customizable zones cuts false alerts, and it connects over dual-band Wi-Fi 6, with plug-in, wired and Power over Ethernet versions.",
+   "keywords": "spotlight camera 4k outdoor siren ring",
+   "specs": {
+    "ecosystem": "Ring app, Alexa",
+    "connectivity": "Wi-Fi 6 (802.11ax), dual-band 2.4/5 GHz",
+    "power": "Plug-in USB-C (wired and PoE versions available)",
+    "resolution": "4K"
+   },
+   "colors": [
+    "White",
+    "Black"
+   ],
+   "featured": false,
+   "warranty": 12,
+   "notes": "Ring list ('Was') price $249.99; ring.com showed a $179.99 sale price on 2026-09-28.",
+   "sources": {
+    "product": "https://ring.com/products/spotlight-cam-pro-2nd-gen",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://images.ctfassets.net/a3peezndovsu/7F8GLU5eOyGbdP1RjgSryw/d1c83217e8052652913a5864bbaff0d2/ring_spotlight_cam_pro_4k_plugin_white_1500x1500.jpg",
+    "page": "https://ring.com/products/spotlight-cam-pro-2nd-gen",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official Ring product image from ring.com (Ring, an Amazon company); no reuse license granted — rights not verified.",
+    "alt": "Ring Spotlight Cam 4K Pro plug-in security camera in white, front view",
+    "match": "EXACT",
+    "credit": "Ring"
+   }
+  },
+  {
+   "sku": "TK-RING-ELITE360",
+   "slug": "ring-elite-360-4k",
+   "name": "Ring Elite 360 4K",
+   "brand": "Ring",
+   "category": "home-cameras-doorbells",
+   "price": "999.99",
+   "priceBasis": "msrp",
+   "priceSource": "https://ring.com/products/ring-elite-360",
+   "priceAsOf": "2026-09-28",
+   "summary": "Multi-lens 360° outdoor security camera with 4K Live View, panorama control, Wi-Fi 6 or PoE Type 4 power.",
+   "description": "Ring Elite 360 delivers complete 360° coverage from a single outdoor device, with Live View and local playback up to 4K and panorama control in the Ring app. It is powered by the included USB-C adapter or PoE Type 4 and connects over dual-band Wi-Fi 6 or Ethernet.",
+   "keywords": "360 camera panoramic 4k poe ring elite",
+   "specs": {
+    "ecosystem": "Ring app, Alexa",
+    "connectivity": "Wi-Fi 6 (802.11ax) dual-band or PoE Type 4",
+    "power": "USB-C adapter or PoE Type 4",
+    "resolution": "4K"
+   },
+   "featured": true,
+   "warranty": 12,
+   "sources": {
+    "product": "https://ring.com/products/ring-elite-360",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://images.ctfassets.net/a3peezndovsu/4L8rOqojoVVO728VlTiJCR/67b1a6cd9568dd6e45ae994835b37cda/ring_elite_360_render_front_1500x1500.jpg",
+    "page": "https://ring.com/products/ring-elite-360",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official Ring product image from ring.com (Ring, an Amazon company); no reuse license granted — rights not verified.",
+    "alt": "Ring Elite 360 4K multi-lens 360-degree outdoor security camera, front render",
+    "match": "EXACT",
+    "credit": "Ring"
+   }
+  },
+  {
+   "sku": "TK-EUFY-DOORBELLS4",
+   "slug": "eufy-video-doorbell-s4",
+   "name": "eufy Video Doorbell S4 with Chime 2",
+   "brand": "eufy",
+   "category": "home-cameras-doorbells",
+   "price": "299.99",
+   "priceBasis": "msrp",
+   "priceSource": "https://us.eufy.com/products/e82151f2",
+   "priceAsOf": "2026-09-28",
+   "releaseYear": 2026,
+   "summary": "Wired 9 MP video doorbell with a 180° x 180° panoramic view, OmniTrack AI tracking, radar + PIR detection and included Chime 2.",
+   "description": "The eufy Video Doorbell S4 records 9 MP Ultra HD video with color night vision across a true 180° x 180° panoramic view, with VR mode to look around the scene. OmniTrack AI tracking and auto-framing keep people centered, radar plus dual PIR sensors cut false alerts, and 4 GB of on-device eMMC storage supports local recording. It ships with eufy Chime 2 and works with Alexa, Google Assistant and Apple HomeKit (with HomeBase 3).",
+   "keywords": "video doorbell 9mp panoramic local storage no subscription eufy",
+   "specs": {
+    "ecosystem": "eufy Security app, Alexa, Google Assistant, Apple HomeKit (via HomeBase 3)",
+    "connectivity": "Wi-Fi 6 dual-band 2.4/5 GHz",
+    "power": "Wired (16-24 VAC doorbell wiring)",
+    "resolution": "9 MP (180° x 180°)"
+   },
+   "featured": false,
+   "warranty": 12,
+   "notes": "Local storage: 4 GB eMMC on device.",
+   "sources": {
+    "product": "https://us.eufy.com/products/e82151f2",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0504/7094/4954/files/5a833ab463e003ed8ab17a7007515728_a055740f-111b-4860-bc57-df5eec5c3d34.png?v=1790307945",
+    "page": "https://us.eufy.com/products/e82151f2",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official eufy (Anker Innovations) store product image from us.eufy.com; no reuse license granted — rights not verified.",
+    "alt": "eufy Video Doorbell S4 wired video doorbell, front view",
+    "match": "EXACT",
+    "credit": "eufy"
+   }
+  },
+  {
+   "sku": "TK-EUFY-WALLLIGHTCAMS4",
+   "slug": "eufy-wall-light-cam-s4",
+   "name": "eufy Wall Light Cam S4",
+   "brand": "eufy",
+   "category": "home-cameras-doorbells",
+   "price": "249.99",
+   "priceBasis": "msrp",
+   "priceSource": "https://us.eufy.com/products/t86c1121",
+   "priceAsOf": "2026-09-28",
+   "releaseYear": 2026,
+   "summary": "Solar-powered 4K wall light camera with 60 GHz mmWave radar detection, adaptive RGB lighting and a 10,000 mAh battery.",
+   "description": "The eufy Wall Light Cam S4 combines a 4K / 8 MP camera with an f/1.6 aperture and a security light that shifts between white, warm and RGB modes. A 60 GHz mmWave radar detects motion across 120° up to 12 m to reduce false alarms, while a detachable solar panel and 10,000 mAh battery keep it running year-round. It stores video on 32 GB eMMC and works with HomeKit (via hub) and Google Home.",
+   "keywords": "solar light camera 4k radar outdoor eufy",
+   "specs": {
+    "ecosystem": "eufy Security app, Google Home, Apple HomeKit (via hub)",
+    "connectivity": "Wi-Fi 2.4 GHz (802.11 b/g/n/ax)",
+    "power": "Solar panel + 10,000 mAh built-in battery",
+    "resolution": "4K (8 MP)"
+   },
+   "colors": [
+    "White"
+   ],
+   "featured": false,
+   "warranty": 12,
+   "sources": {
+    "product": "https://us.eufy.com/products/t86c1121",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0504/7094/4954/files/T86C1_US_TD01_V1_2.png?v=1787295243&width=3000&height=2400&crop=bottom",
+    "page": "https://us.eufy.com/products/t86c1121",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official eufy (Anker Innovations) store product image from us.eufy.com; no reuse license granted — rights not verified.",
+    "alt": "eufy Wall Light Cam S4 solar wall light security camera in white, front view",
+    "match": "EXACT",
+    "credit": "eufy"
+   }
+  },
+  {
+   "sku": "TK-EUFY-INDOORCAMS350",
+   "slug": "eufy-indoor-cam-s350",
+   "name": "eufy Indoor Cam S350",
+   "brand": "eufy",
+   "category": "home-cameras-doorbells",
+   "price": "139.99",
+   "priceBasis": "msrp",
+   "priceSource": "https://us.eufy.com/products/t8416121",
+   "priceAsOf": "2026-09-28",
+   "releaseYear": 2026,
+   "summary": "Dual-lens pan-and-tilt indoor camera with 4K wide-angle and 2K telephoto lenses, 8x hybrid zoom and AI tracking.",
+   "description": "The Indoor Cam S350 pairs a 4K wide-angle camera with a 2K telephoto camera for 8x hybrid zoom, and pans and tilts for 360° coverage with no blind spots. An f/1.6 sensor with two adaptive infrared lights shows faces up to 32 ft away in low light, and AI tracking follows family members or pets. It is compatible with HomeBase S380.",
+   "keywords": "indoor camera pan tilt pet camera 4k eufy",
+   "specs": {
+    "ecosystem": "eufy Security app; HomeBase S380 compatible",
+    "resolution": "4K wide-angle + 2K telephoto"
+   },
+   "colors": [
+    "White"
+   ],
+   "featured": false,
+   "warranty": 12,
+   "sources": {
+    "product": "https://us.eufy.com/products/t8416121",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0504/7094/4954/files/T8416-01-V1_1_1.png?v=1789458557",
+    "page": "https://us.eufy.com/products/t8416121",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official eufy (Anker Innovations) store product image from us.eufy.com; no reuse license granted — rights not verified.",
+    "alt": "eufy Indoor Cam S350 dual-lens pan-and-tilt indoor camera in white, front view",
+    "match": "EXACT",
+    "credit": "eufy"
+   }
+  },
+  {
+   "sku": "TK-EUFY-NVRS4MAX",
+   "slug": "eufy-4k-nvr-security-system-s4-max",
+   "name": "eufy 4K NVR Security Camera System S4 Max (4 TB)",
+   "brand": "eufy",
+   "category": "security-cameras",
+   "price": "1599.99",
+   "priceBasis": "msrp",
+   "priceSource": "https://us.eufy.com/products/e8e00126",
+   "priceAsOf": "2026-09-28",
+   "releaseYear": 2026,
+   "summary": "PoE NVR security system with 4K triple-lens bullet-PTZ cameras, cross-cam tracking, local AI agent and a 4 TB HDD.",
+   "description": "The S4 Max system pairs an 8-port NVR with 4K triple-lens bullet-PTZ cameras: a 122° 4K wide-angle view plus a 2K PTZ camera with 8x auto-zoom and 360° coverage. Cameras auto-track subjects up to 164 ft away and hand off to each other with live cross-cam tracking. A local AI agent, keyword video search with no subscription fee, IP65 weather resistance and a pre-installed 4 TB HDD (upgradeable to 16 TB) for 24/7 recording round it out.",
+   "keywords": "nvr poe ptz security system 4k local storage eufy",
+   "specs": {
+    "resolution": "4K wide-angle + 2K PTZ (8x zoom)",
+    "power": "PoE from NVR",
+    "localStorage": "4 TB HDD, upgradeable to 16 TB",
+    "subscriptionRequired": false
+   },
+   "collections": [
+    "security-lab",
+    "small-business"
+   ],
+   "featured": true,
+   "warranty": 12,
+   "sources": {
+    "product": "https://us.eufy.com/products/e8e00126",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0504/7094/4954/files/1200_1200-1_93ec47e4-b26a-4297-b225-27be824a24fc.png?v=1788406040",
+    "page": "https://us.eufy.com/products/e8e00126",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official eufy (Anker Innovations) store product image from us.eufy.com; no reuse license granted — rights not verified.",
+    "alt": "eufy 4K NVR Security Camera System S4 Max with NVR recorder and bullet-PTZ cameras",
+    "match": "EXACT",
+    "credit": "eufy"
+   }
+  },
+  {
+   "sku": "TK-HUE-BRIDGEPRO",
+   "slug": "philips-hue-bridge-pro",
+   "name": "Philips Hue Bridge Pro",
+   "brand": "Philips Hue",
+   "category": "hubs-bridges",
+   "price": "139.99",
+   "priceBasis": "msrp",
+   "priceSource": "https://www.philips-hue.com/en-us/p/hue-bridge-pro/046677582111",
+   "priceAsOf": "2026-09-28",
+   "summary": "Next-generation Hue hub supporting 150+ lights and 50 accessories, with MotionAware light-based motion sensing.",
+   "description": "The Hue Bridge Pro is the next generation of the Hue smart hub, powered by a chip capable of running AI-powered features. It connects three times more lights than before (150+ lights and 50 accessories), turns compatible Hue lights into motion sensors with MotionAware, and secures the network with a new Zigbee Trust Center. It connects to your router over Wi-Fi or the included Ethernet cable.",
+   "keywords": "hue bridge hub zigbee motionaware matter",
+   "specs": {
+    "ecosystem": "Philips Hue app; Alexa, Google Home, Apple Home, SmartThings, Matter",
+    "connectivity": "Zigbee, Bluetooth, Wi-Fi or Ethernet to router",
+    "power": "AC adapter (100-240 V)"
+   },
+   "featured": true,
+   "warranty": 24,
+   "sources": {
+    "product": "https://www.philips-hue.com/en-us/p/hue-bridge-pro/046677582111",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://www.assets.signify.com/is/image/Signify/046677582111-929003582615-Hue-Bridge-NAM-RTP?wid=1400&fmt=png-alpha",
+    "page": "https://www.philips-hue.com/en-us/p/hue-bridge-pro/046677582111",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official Philips Hue (Signify) product image from assets.signify.com; reuse rights not verified.",
+    "alt": "Philips Hue Bridge Pro, black square hub, front view",
+    "match": "EXACT"
+   }
+  },
+  {
+   "sku": "TK-HUE-SYNCBOX8K",
+   "slug": "philips-hue-play-hdmi-sync-box-8k",
+   "name": "Philips Hue Play HDMI Sync Box 8K",
+   "brand": "Philips Hue",
+   "category": "hubs-bridges",
+   "price": "384.99",
+   "priceBasis": "msrp",
+   "priceSource": "https://www.philips-hue.com/en-us/p/hue-philips-hue-play-hdmi-sync-box-8k/046677579753",
+   "priceAsOf": "2026-09-28",
+   "summary": "HDMI 2.1 sync box with four inputs that syncs Hue lights to on-screen content at up to 8K 60Hz and 4K 120Hz.",
+   "description": "The Hue Play HDMI Sync Box 8K sits between your sources and TV and syncs Philips Hue lights to what's on screen. It is HDMI 2.1 certified with four HDMI ports, passes 8K 60Hz, 4K 120Hz and 1080p 120Hz video with HDR10+ and Dolby Vision plus Dolby Atmos audio, and includes an IR receiver and CEC support.",
+   "keywords": "hdmi sync box ambilight tv gaming 8k hue",
+   "specs": {
+    "ecosystem": "Philips Hue app; Alexa, Google Assistant",
+    "connectivity": "4x HDMI 2.1 in, Wi-Fi, Bluetooth 5, Zigbee",
+    "power": "AC adapter (100-240 V)",
+    "resolution": "8K 60Hz / 4K 120Hz passthrough"
+   },
+   "collections": [
+    "ultimate-gaming-setup"
+   ],
+   "featured": false,
+   "warranty": 24,
+   "sources": {
+    "product": "https://www.philips-hue.com/en-us/p/hue-philips-hue-play-hdmi-sync-box-8k/046677579753",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://www.assets.signify.com/is/image/Signify/046677579753-929003499602-Philips-Hue-Sync-Box-gen-2-NAM-RTP?wid=1400&fmt=png-alpha",
+    "page": "https://www.philips-hue.com/en-us/p/hue-philips-hue-play-hdmi-sync-box-8k/046677579753",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official Philips Hue (Signify) product image from philips-hue.com; no reuse license granted — rights not verified.",
+    "alt": "Philips Hue Play HDMI Sync Box 8K in black, front three-quarter view",
+    "match": "EXACT",
+    "credit": "Philips Hue"
+   }
+  },
+  {
+   "sku": "TK-HUE-PLAYWALLWASHER",
+   "slug": "philips-hue-play-wall-washer",
+   "name": "Philips Hue Play Wall Washer",
+   "brand": "Philips Hue",
+   "category": "smart-lighting",
+   "price": "229.99",
+   "priceBasis": "msrp",
+   "priceSource": "https://www.philips-hue.com/en-us/p/hue-white-and-color-ambiance-hue-play-wall-washer/046677590130",
+   "priceAsOf": "2026-09-28",
+   "releaseYear": 2025,
+   "summary": "Compact aluminum entertainment light with ColorCast technology and up to 1,035 lumens of white and colored light.",
+   "description": "The Hue Play wall washer is a compact entertainment light with a wide illumination area, designed to wash the wall behind a TV with color. ColorCast technology and a sleek aluminum body deliver up to 1,035 lumens of white and colored (RGBW) light, controllable over Bluetooth or Zigbee with a Hue Bridge.",
+   "keywords": "tv backlight wall washer gradient entertainment hue",
+   "specs": {
+    "ecosystem": "Philips Hue app; Alexa, Google Home, Apple Home, SmartThings, Matter",
+    "connectivity": "Bluetooth, Zigbee (Hue Bridge)",
+    "power": "Mains power supply (included)"
+   },
+   "colors": [
+    "White"
+   ],
+   "featured": false,
+   "warranty": 24,
+   "sources": {
+    "product": "https://www.philips-hue.com/en-us/p/hue-white-and-color-ambiance-hue-play-wall-washer/046677590130",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://www.assets.signify.com/is/image/Signify/046677590130-929003837801-Hue-Play-wall-washer-white-NAM-RTP?wid=1400&fmt=png-alpha",
+    "page": "https://www.philips-hue.com/en-us/p/hue-white-and-color-ambiance-hue-play-wall-washer/046677590130",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official Philips Hue (Signify) product image from philips-hue.com; no reuse license granted — rights not verified.",
+    "alt": "Philips Hue Play wall washer light in matte white, front view",
+    "match": "EXACT",
+    "credit": "Philips Hue"
+   }
+  },
+  {
+   "sku": "TK-HUE-GOPORTABLE",
+   "slug": "philips-hue-go-portable-table-lamp",
+   "name": "Philips Hue Go Portable Table Lamp",
+   "brand": "Philips Hue",
+   "category": "smart-lighting",
+   "price": "179.99",
+   "priceBasis": "msrp",
+   "priceSource": "https://www.philips-hue.com/en-us/p/hue-white-and-color-ambiance-hue-go-portable-table-lamp/046677576455",
+   "priceAsOf": "2026-09-28",
+   "summary": "Rechargeable, outdoor-rated white and color smart lamp with a silicone grip and Bluetooth or Hue Bridge control.",
+   "description": "The Hue Go portable table lamp brings white and colored smart light anywhere, inside for reading or outside for dinner. It is rated for outdoor use, has a dark gray silicone carry grip and a smart battery system, and can be controlled over Bluetooth or through a Hue Bridge.",
+   "keywords": "portable lamp outdoor battery hue go",
+   "specs": {
+    "ecosystem": "Philips Hue app; Alexa, Google Home, Apple Home, SmartThings, Matter",
+    "connectivity": "Bluetooth, Zigbee (Hue Bridge)",
+    "power": "Built-in rechargeable battery"
+   },
+   "colors": [
+    "Black"
+   ],
+   "featured": false,
+   "warranty": 24,
+   "sources": {
+    "product": "https://www.philips-hue.com/en-us/p/hue-white-and-color-ambiance-hue-go-portable-table-lamp/046677576455",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://www.assets.signify.com/is/image/Signify/046677576455-929003128701-Hue_Belle-portable-lamp-black-NAM-RTP?wid=1400&fmt=png-alpha",
+    "page": "https://www.philips-hue.com/en-us/p/hue-white-and-color-ambiance-hue-go-portable-table-lamp/046677576455",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official Philips Hue (Signify) product image from philips-hue.com; no reuse license granted — rights not verified.",
+    "alt": "Philips Hue Go portable table lamp in black with gray silicone grip",
+    "match": "EXACT",
+    "credit": "Philips Hue"
+   }
+  },
+  {
+   "sku": "TK-HUE-SIGNEGRADIENT",
+   "slug": "philips-hue-signe-gradient-table-lamp",
+   "name": "Philips Hue Signe Gradient Table Lamp (Oak)",
+   "brand": "Philips Hue",
+   "category": "smart-lighting",
+   "price": "269.99",
+   "priceBasis": "msrp",
+   "priceSource": "https://www.philips-hue.com/en-us/p/hue-white-and-color-ambiance-signe-gradient-table-lamp/046677578206",
+   "priceAsOf": "2026-09-28",
+   "summary": "Slender oak-base gradient table lamp blending multiple colors with sunrise wake-up and up to 1,040 lumens.",
+   "description": "The Signe gradient table lamp pairs a wood-toned oak base with a slender light bar that blends several colors at once. It can simulate a scheduled sunrise to wake you, outputs up to 1,040 lumens at 4000K, and works over built-in Bluetooth or with a Hue Bridge for more features.",
+   "keywords": "gradient lamp signe sunrise hue",
+   "specs": {
+    "ecosystem": "Philips Hue app; Alexa, Google Home, Apple Home, SmartThings, Matter",
+    "connectivity": "Bluetooth, Zigbee (Hue Bridge)",
+    "power": "Mains power adapter (included)"
+   },
+   "colors": [
+    "Oak"
+   ],
+   "featured": false,
+   "warranty": 24,
+   "sources": {
+    "product": "https://www.philips-hue.com/en-us/p/hue-white-and-color-ambiance-signe-gradient-table-lamp/046677578206",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://www.assets.signify.com/is/image/Signify/8719514433465-929003479601-Hue_Wellbeing-gradient-Signe-Oak-table-white-EU-UK-RTP-TRN?wid=1400&fmt=png-alpha",
+    "page": "https://www.philips-hue.com/en-us/p/hue-white-and-color-ambiance-signe-gradient-table-lamp/046677578206",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official Philips Hue (Signify) product image from philips-hue.com; no reuse license granted — rights not verified.",
+    "alt": "Philips Hue Signe gradient table lamp with oak base, front view",
+    "match": "PRODUCT_LINE",
+    "credit": "Philips Hue"
+   }
+  },
+  {
+   "sku": "TK-HUE-ESSENTIALA19-4PK",
+   "slug": "philips-hue-essential-a19-color-4-pack",
+   "name": "Philips Hue Essential A19 White and Color Smart Bulb (4-pack)",
+   "brand": "Philips Hue",
+   "category": "smart-lighting",
+   "price": "59.99",
+   "priceBasis": "msrp",
+   "priceSource": "https://www.philips-hue.com/en-us/p/hue-white-and-color-ambiance-essential-a19-e26-smart-bulb-800-lm-88w-4-pack/046677592592",
+   "priceAsOf": "2026-09-28",
+   "releaseYear": 2025,
+   "summary": "Four E26 A19 color smart bulbs, 800 lumens each, tunable 2200-6500K white, dimmable to 2%, Bluetooth and Zigbee.",
+   "description": "The Hue Essential A19 bulbs bring full color and tunable white light (2200-6500K) to standard E26 sockets, at up to 800 lumens each and dimmable to 2%. Control them over Bluetooth or add a Hue Bridge for the full feature set, with voice control through Alexa, Google Assistant and Apple Home. This pack includes four bulbs.",
+   "keywords": "smart bulb a19 e26 color hue essential 4 pack",
+   "specs": {
+    "ecosystem": "Philips Hue app; Alexa, Google Home, Apple Home, SmartThings, Matter",
+    "connectivity": "Bluetooth, Zigbee (Hue Bridge)",
+    "power": "E26 socket, 120V, 8.8W"
+   },
+   "featured": false,
+   "warranty": 24,
+   "sources": {
+    "product": "https://www.philips-hue.com/en-us/p/hue-white-and-color-ambiance-essential-a19-e26-smart-bulb-800-lm-88w-4-pack/046677592592",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://www.assets.signify.com/is/image/Signify/046677592592-929004235503-Hue-Essential-WCA-800-A19-E26-4P-NAM-RTP?wid=1400&fmt=png-alpha",
+    "page": "https://www.philips-hue.com/en-us/p/hue-white-and-color-ambiance-essential-a19-e26-smart-bulb-800-lm-88w-4-pack/046677592592",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official Philips Hue (Signify) product image from philips-hue.com; no reuse license granted — rights not verified.",
+    "alt": "Four Philips Hue Essential A19 white and color smart bulbs, E26 base",
+    "match": "EXACT",
+    "credit": "Philips Hue"
+   }
+  },
+  {
+   "sku": "TK-HUE-VIDEODOORBELL",
+   "slug": "philips-hue-wired-video-doorbell",
+   "name": "Philips Hue Secure Wired Video Doorbell",
+   "brand": "Philips Hue",
+   "category": "home-cameras-doorbells",
+   "price": "169.99",
+   "priceBasis": "msrp",
+   "priceSource": "https://www.philips-hue.com/en-us/p/hue-wired-video-doorbell/046677590208",
+   "priceAsOf": "2026-09-28",
+   "summary": "2K wired video doorbell with Starlight night vision, two-way talk and Hue light automations.",
+   "description": "The Hue video doorbell sends instant alerts when someone is at the door or passes by, recording crisp 2K video with Starlight technology and color night vision. It offers two-way talk and a sound alarm, can switch on Philips Hue lights when triggered, and connects over dual-band Wi-Fi, Bluetooth and Zigbee.",
+   "keywords": "video doorbell 2k hue secure",
+   "specs": {
+    "ecosystem": "Philips Hue app; Alexa, Google Home, Apple Home",
+    "connectivity": "Wi-Fi 2.4/5 GHz, Bluetooth, Zigbee",
+    "power": "Wired (existing doorbell wiring)",
+    "resolution": "2K QHD"
+   },
+   "colors": [
+    "Black"
+   ],
+   "featured": false,
+   "warranty": 24,
+   "sources": {
+    "product": "https://www.philips-hue.com/en-us/p/hue-wired-video-doorbell/046677590208",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://www.assets.signify.com/is/image/Signify/046677590208-929003816502-Hue-Video-Doorbell-Camera-Black-NAM-RTP?wid=1400&fmt=png-alpha",
+    "page": "https://www.philips-hue.com/en-us/p/hue-wired-video-doorbell/046677590208",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official Philips Hue (Signify) product image from philips-hue.com; no reuse license granted — rights not verified.",
+    "alt": "Philips Hue Secure wired video doorbell in black, front view",
+    "match": "EXACT",
+    "credit": "Philips Hue"
+   }
+  },
+  {
+   "sku": "TK-SWITCHBOT-HUB3",
+   "slug": "switchbot-hub-3",
+   "name": "SwitchBot Hub 3",
+   "brand": "SwitchBot",
+   "category": "hubs-bridges",
+   "price": "119.99",
+   "priceBasis": "msrp",
+   "priceSource": "https://us.switch-bot.com/products/switchbot-hub-3",
+   "priceAsOf": "2026-09-28",
+   "releaseYear": 2025,
+   "summary": "Matter-bridging smart home hub with IR control, Dial Master knob, programmable scene buttons and a room-conditions display.",
+   "description": "SwitchBot Hub 3 manages SwitchBot and third-party Matter devices, bridging them to Apple Home and Home Assistant, and adds IR control for legacy appliances. A Dial Master knob and programmable scene buttons fine-tune lighting and temperature, while built-in sensing automates comfort based on temperature, humidity, weather, time and GPS. It measures 126 x 94 x 38 mm and carries a 1-year warranty.",
+   "keywords": "matter hub ir remote switchbot hub 3",
+   "specs": {
+    "ecosystem": "SwitchBot app; Matter, Apple Home, Home Assistant, Alexa, Google Assistant",
+    "connectivity": "Matter bridge, infrared (IR), Bluetooth to SwitchBot devices",
+    "display": "Front display with Dial Master knob and scene buttons"
+   },
+   "featured": false,
+   "warranty": 12,
+   "sources": {
+    "product": "https://us.switch-bot.com/products/switchbot-hub-3",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0648/1569/4057/files/Hub3_EN_AmazonImages_1600x1600_3_2x_ed5440e2-5fb2-4eb8-9d33-a5ad06ba3dfa.webp?v=1747295187",
+    "page": "https://us.switch-bot.com/products/switchbot-hub-3",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official SwitchBot store product image from us.switch-bot.com; no reuse license granted — rights not verified.",
+    "alt": "SwitchBot Hub 3 smart home hub in black with display and control dial, front three-quarter view",
+    "match": "EXACT",
+    "credit": "SwitchBot"
+   }
+  },
+  {
+   "sku": "TK-NANOLEAF-LINES-9",
+   "slug": "nanoleaf-lines-starter-kit-9",
+   "name": "Nanoleaf Lines Starter Kit (9 Lines, 60°)",
+   "brand": "Nanoleaf",
+   "category": "smart-lighting",
+   "price": "199.99",
+   "priceBasis": "msrp",
+   "priceSource": "https://nanoleaf.me/en-US/products/nanoleaf-lines-starter-kits",
+   "priceAsOf": "2026-09-28",
+   "summary": "Backlit RGB light-bar starter kit with nine 60° Lines, controller and mounting hardware, with Music Sync and Screen Mirror.",
+   "description": "Nanoleaf Lines are backlit RGB light bars that cast diffused color onto the wall for a dimensional glow without exposed LEDs. This starter kit includes nine 60° Lines plus connectors, controller, power supply and mounting hardware; designs can grow with expansion packs. Music Sync, Screen Mirror, Razer Chroma and Overwolf add reactive effects, and it connects over 2.4 GHz Wi-Fi to the Nanoleaf app and compatible smart home ecosystems.",
+   "keywords": "light bars wall gaming setup rgb nanoleaf lines",
+   "specs": {
+    "ecosystem": "Nanoleaf app; compatible smart home ecosystems",
+    "connectivity": "Wi-Fi 2.4 GHz",
+    "power": "Plug-in power supply (included)"
+   },
+   "colors": [
+    "White",
+    "Black"
+   ],
+   "collections": [
+    "ultimate-gaming-setup"
+   ],
+   "featured": false,
+   "warranty": 12,
+   "notes": "List price $199.99 for the 9-line white 60° kit; nanoleaf.me showed a $119.99 sale price on 2026-09-28.",
+   "sources": {
+    "product": "https://nanoleaf.me/en-US/products/nanoleaf-lines-starter-kits",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0712/9114/2378/files/nl-us-1-floating-nanoleaf-lines-light-smarter-starter-kit-9_1x_c4e94c0d-3c5b-474b-9464-8a7f466f6452.png?v=1786479842",
+    "page": "https://nanoleaf.me/en-US/products/nanoleaf-lines-starter-kits",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official Nanoleaf store product image from nanoleaf.me; no reuse license granted — rights not verified.",
+    "alt": "Nanoleaf Lines starter kit with nine white 60-degree light bars glowing blue and pink",
+    "match": "EXACT",
+    "credit": "Nanoleaf"
+   },
+   "variants": [
+    {
+     "label": "White, 60°, 9 Lines",
+     "price": "199.99"
+    },
+    {
+     "label": "White, 60°, 15 Lines",
+     "price": "269.99"
+    },
+    {
+     "label": "Black, 60°, 9 Lines",
+     "price": "229.99"
+    }
+   ]
+  },
+  {
+   "sku": "TK-NANOLEAF-BLOCKS-COMBO",
+   "slug": "nanoleaf-blocks-starter-kit-combo",
+   "name": "Nanoleaf Blocks Starter Kit (Mixed Squares Combo)",
+   "brand": "Nanoleaf",
+   "category": "smart-lighting",
+   "price": "159.99",
+   "priceBasis": "msrp",
+   "priceSource": "https://nanoleaf.me/en-US/products/nanoleaf-blocks",
+   "priceAsOf": "2026-09-28",
+   "summary": "Modular wall system combining RGB light panels, shelves and Light Pegboards, with 16M+ colors and 1200-6500K whites.",
+   "description": "Nanoleaf Blocks combine light panels, Shelves and Light Pegboards into one flexible wall system for lighting, storage and display. Panels offer 16M+ colors and whites from 1200K to 6500K with Music Sync, Screen Mirror and Sync+, and Shelves hold up to 3.3 lb while Pegboards hold up to 6.6 lb. It connects over 2.4 GHz Wi-Fi to the Nanoleaf app, Apple Home, Google Home, Alexa, SmartThings and Homey.",
+   "keywords": "modular light panels shelf pegboard gaming nanoleaf blocks",
+   "specs": {
+    "ecosystem": "Nanoleaf app, Apple Home, Google Home, Alexa, SmartThings, Homey",
+    "connectivity": "Wi-Fi 2.4 GHz",
+    "power": "Plug-in power supply"
+   },
+   "featured": false,
+   "warranty": 12,
+   "notes": "List price $159.99 for the Mixed Squares Combo starter kit; nanoleaf.me showed $129.99 on sale on 2026-09-28.",
+   "sources": {
+    "product": "https://nanoleaf.me/en-US/products/nanoleaf-blocks",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0712/9114/2378/files/pdp-blocks-combo-stk_37175ab2-ab4c-4ef8-a4cf-8b7a738dcad1.png?v=1786479840",
+    "page": "https://nanoleaf.me/en-US/products/nanoleaf-blocks",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official Nanoleaf store product image from nanoleaf.me; no reuse license granted — rights not verified.",
+    "alt": "Nanoleaf Blocks mixed squares combo with glowing panels, pegboard and shelf",
+    "match": "EXACT",
+    "credit": "Nanoleaf"
+   },
+   "variants": [
+    {
+     "label": "Mixed Squares Combo",
+     "price": "159.99"
+    },
+    {
+     "label": "Mixed Squares Combo XL",
+     "price": "199.99"
+    },
+    {
+     "label": "Large Squares 6-pack",
+     "price": "179.99"
+    },
+    {
+     "label": "Large Squares 10-pack",
+     "price": "299.97"
+    }
+   ]
+  },
+  {
+   "sku": "TK-NANOLEAF-SKYLIGHT-3",
+   "slug": "nanoleaf-skylight-starter-kit-3",
+   "name": "Nanoleaf Skylight Starter Kit (3 Panels)",
+   "brand": "Nanoleaf",
+   "category": "smart-lighting",
+   "price": "199.99",
+   "priceBasis": "msrp",
+   "priceSource": "https://nanoleaf.me/en-US/products/nanoleaf-skylight",
+   "priceAsOf": "2026-09-28",
+   "summary": "Modular smart LED ceiling light with 1,400-lumen panels, 2700-6500K whites and a built-in Thread Border Router.",
+   "description": "Nanoleaf Skylight is a modular smart ceiling light: each panel delivers 1,400 lumens of glare-free light with a 25,000-hour lifespan and tunable whites from 2700K to 6500K plus color. Start with three panels and expand up to 99. An integrated Thread Border Router pairs it with Apple Home, Google Home, Alexa and SmartThings.",
+   "keywords": "ceiling light modular thread matter nanoleaf skylight",
+   "specs": {
+    "ecosystem": "Nanoleaf app, Apple Home, Google Home, Alexa, SmartThings",
+    "connectivity": "Thread (integrated Thread Border Router)"
+   },
+   "featured": false,
+   "warranty": 12,
+   "notes": "List price $199.99 for the 3-panel kit; nanoleaf.me showed $149.99 on sale on 2026-09-28.",
+   "sources": {
+    "product": "https://nanoleaf.me/en-US/products/nanoleaf-skylight",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0712/9114/2378/files/pdp-gallery-skylight-01_62ffa79c-0aee-4ce3-9127-1031032ccb64.jpg?v=1786479822",
+    "page": "https://nanoleaf.me/en-US/products/nanoleaf-skylight",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official Nanoleaf store product image from nanoleaf.me; no reuse license granted — rights not verified.",
+    "alt": "Nanoleaf Skylight three-panel modular ceiling light glowing blue",
+    "match": "EXACT",
+    "credit": "Nanoleaf"
+   }
+  },
+  {
+   "sku": "TK-ECOBEE-PREMIUM",
+   "slug": "ecobee-smart-thermostat-premium",
+   "name": "ecobee Smart Thermostat Premium",
+   "brand": "ecobee",
+   "category": "thermostats",
+   "price": "259.99",
+   "priceBasis": "msrp",
+   "priceSource": "https://www.ecobee.com/en-us/smart-thermostats/smart-thermostat-premium/",
+   "priceAsOf": "2026-09-28",
+   "summary": "Flagship smart thermostat with a 4-inch touchscreen, radar occupancy sensing, air quality monitoring and dual-band Wi-Fi.",
+   "description": "Smart Thermostat Premium combines comfort, home health and security features while saving up to 26% on energy costs, according to ecobee. It has a 4-inch full-color 540 x 540 touchscreen in a zinc-alloy frame, temperature, humidity and radar occupancy and proximity sensing, indoor air quality monitoring, and can show a live stream from the ecobee Smart Doorbell Camera. It connects over dual-band Wi-Fi and Bluetooth 5.0, and a Power Extender Kit is included for homes without a C wire.",
+   "keywords": "smart thermostat radar air quality ecobee premium",
+   "specs": {
+    "ecosystem": "ecobee app; works with leading smart home ecosystems",
+    "connectivity": "Dual-band Wi-Fi (2.4/5 GHz), Bluetooth 5.0",
+    "power": "24VAC C wire (Power Extender Kit included)",
+    "display": "4 in. full-color LCD touchscreen, 540 x 540",
+    "subscriptionRequired": false
+   },
+   "colors": [
+    "Black"
+   ],
+   "featured": true,
+   "warranty": 12,
+   "notes": "Optional ecobee Smart Security plan adds home monitoring features.",
+   "sources": {
+    "product": "https://www.ecobee.com/en-us/smart-thermostats/smart-thermostat-premium/",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://images.ctfassets.net/a3qyhfznts9y/tAhx9GbLSgvREJlzikx3U/67ac2db737af000f102a095ba0c3544c/Smart_Thermostat_Premium_-_US.png",
+    "page": "https://www.ecobee.com/en-us/smart-thermostats/smart-thermostat-premium/",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official ecobee product image from ecobee.com; no reuse license granted — rights not verified.",
+    "alt": "ecobee Smart Thermostat Premium with black glass front showing 72 degrees",
+    "match": "EXACT",
+    "credit": "ecobee"
+   }
+  },
+  {
+   "sku": "TK-ECOBEE-ESSENTIAL",
+   "slug": "ecobee-smart-thermostat-essential",
+   "name": "ecobee Smart Thermostat Essential",
+   "brand": "ecobee",
+   "category": "thermostats",
+   "price": "139.99",
+   "priceBasis": "msrp",
+   "priceSource": "https://www.ecobee.com/en-us/smart-thermostats/smart-thermostat-essential/",
+   "priceAsOf": "2026-09-28",
+   "summary": "Affordable ENERGY STAR smart thermostat with a 2.8-inch color touchscreen, Wi-Fi 6 and Apple Home, Google and Alexa support.",
+   "description": "Smart Thermostat Essential delivers built-in energy savings and easy temperature control on a 2.8-inch full-color touchscreen and through the ecobee app. It is ENERGY STAR certified, connects over Wi-Fi 6 (2.4 GHz) and Bluetooth LE 5.4, and pairs with Apple HomeKit, Google Assistant and Alexa. A Power Extender Kit (sold separately) supports homes without a C wire.",
+   "keywords": "smart thermostat energy star budget ecobee essential",
+   "specs": {
+    "ecosystem": "ecobee app, Apple Home, Google Assistant, Alexa",
+    "connectivity": "Wi-Fi 6 (2.4 GHz), Bluetooth LE 5.4",
+    "display": "2.8 in. full-color LCD touchscreen, 240 x 320"
+   },
+   "featured": false,
+   "warranty": 12,
+   "sources": {
+    "product": "https://www.ecobee.com/en-us/smart-thermostats/smart-thermostat-essential/",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://images.ctfassets.net/a3qyhfznts9y/4SNuF3WPw4e6KvXvp8G3fl/4b60c47551f357104061a5b8cffa2d3d/Lite_FrontRender_US1.png",
+    "page": "https://www.ecobee.com/en-us/smart-thermostats/",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official ecobee product render (captioned 'Photo of Smart Thermostat Essential' on ecobee.com); reuse rights not verified.",
+    "alt": "ecobee Smart Thermostat Essential, front view with white frame and black touchscreen",
+    "match": "EXACT"
+   }
+  },
+  {
+   "sku": "TK-REOLINK-OMVI3IPOE",
+   "slug": "reolink-omvi-3i-poe",
+   "name": "Reolink OMVI 3i PoE Triple-Lens Camera",
+   "brand": "Reolink",
+   "category": "security-cameras",
+   "price": "329.99",
+   "priceBasis": "msrp",
+   "priceSource": "https://reolink.com/product/omvi-3i-poe/",
+   "priceAsOf": "2026-09-28",
+   "releaseYear": 2026,
+   "summary": "18 MP triple-lens PoE camera pairing a 10 MP dual-lens panoramic view with an 8 MP 4K pan-tilt lens.",
+   "description": "The OMVI 3i PoE is part of Reolink's 2026 OMVI triple-lens series, combining an upper dual-lens panoramic camera (5120 x 1920, 10 MP) with a lower 4K 8 MP pan-tilt camera for a total of 18 MP. A single Ethernet cable carries data and power, and footage records locally to a microSD card up to 512 GB, a Reolink NVR or a NAS with no monthly fees.",
+   "keywords": "triple lens poe ptz 360 reolink omvi",
+   "specs": {
+    "resolution": "Upper 10 MP (5120 x 1920) + lower 8 MP 4K PT",
+    "power": "PoE (DC port also available)",
+    "localStorage": "microSD up to 512 GB; Reolink NVR or NAS",
+    "subscriptionRequired": false
+   },
+   "collections": [
+    "security-lab",
+    "homelab-essentials"
+   ],
+   "featured": true,
+   "warranty": 12,
+   "sources": {
+    "product": "https://reolink.com/product/omvi-3i-poe/",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://reolink-storage.s3.us-east-1.amazonaws.com/website/uploads/assets/app/model-images/OMVI+3i+PoE/product.png",
+    "page": "https://reolink.com/product/omvi-3i-poe/",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official Reolink product image (model image published by Reolink's download center on its reolink-storage CDN); reuse rights not verified.",
+    "alt": "Reolink OMVI 3i PoE triple-lens camera, front view with dual upper lenses and pan-tilt dome",
+    "match": "EXACT"
+   }
+  },
+  {
+   "sku": "TK-REOLINK-ARGUS4PRO",
+   "slug": "reolink-argus-4-pro",
+   "name": "Reolink Argus 4 Pro",
+   "brand": "Reolink",
+   "category": "security-cameras",
+   "price": "194.99",
+   "priceBasis": "msrp",
+   "priceSource": "https://reolink.com/product/argus-4-pro/",
+   "priceAsOf": "2026-09-28",
+   "releaseYear": 2024,
+   "summary": "Wire-free 4K dual-lens battery camera with a stitched 180° blind-spot-free view, ColorX night vision and Wi-Fi 6.",
+   "description": "Argus 4 Pro stitches two lenses into a 4K (5120 x 1440) 180° view with no blind spots, and its 1/1.8-inch sensor powers ColorX color night vision. It runs on a 5000 mAh rechargeable battery with optional Reolink solar panel, streams over dual-band Wi-Fi 6, and records to microSD (up to 512 GB) or a Reolink Home Hub with no monthly fees.",
+   "keywords": "battery camera solar 180 4k wireless reolink argus",
+   "specs": {
+    "resolution": "4K 8 MP (5120 x 1440), 180° dual-lens",
+    "power": "5000 mAh rechargeable battery (solar panel supported)",
+    "localStorage": "microSD up to 512 GB; Reolink Home Hub",
+    "subscriptionRequired": false
+   },
+   "featured": false,
+   "warranty": 12,
+   "sources": {
+    "product": "https://reolink.com/product/argus-4-pro/",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://reolink-storage.s3.us-east-1.amazonaws.com/website/uploads/assets/app/model-images/Argus+4+Pro/product.png",
+    "page": "https://reolink.com/product/argus-4-pro/",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official Reolink product image (model image published by Reolink's download center on its reolink-storage CDN); reuse rights not verified.",
+    "alt": "Reolink Argus 4 Pro wire-free dual-lens 180-degree camera on its mount, angled front view",
+    "match": "EXACT"
+   }
+  },
+  {
+   "sku": "TK-REOLINK-HOMEHUBPRO",
+   "slug": "reolink-home-hub-pro",
+   "name": "Reolink Home Hub Pro",
+   "brand": "Reolink",
+   "category": "security-cameras",
+   "price": "199.99",
+   "priceBasis": "msrp",
+   "priceSource": "https://reolink.com/product/reolink-home-hub-pro/",
+   "priceAsOf": "2026-09-28",
+   "summary": "Wi-Fi 6 local security center for up to 12 Reolink cameras with encrypted 24/7 local recording on HDD up to 16 TB.",
+   "description": "Reolink Home Hub Pro is a Wi-Fi 6 security center that manages up to 12 Reolink PoE and plug-in cameras, with live view and playback up to 16 MP. It records 24/7 to local storage with anti-theft encryption, offered with or without a built-in 2 TB HDD and expandable up to 16 TB, with no recurring fees. It connects to your router by Ethernet and supports 2.4/5 GHz Wi-Fi 6 for cameras.",
+   "keywords": "nvr hub local storage wifi 6 reolink home hub pro",
+   "specs": {
+    "resolution": "Up to 16 MP live view and playback",
+    "power": "AC power supply",
+    "localStorage": "2 TB HDD option, up to 16 TB HDD",
+    "subscriptionRequired": false
+   },
+   "collections": [
+    "homelab-essentials"
+   ],
+   "featured": false,
+   "warranty": 12,
+   "notes": "reolink.com lists $199.99; the hub is sold with or without a 2 TB HDD — confirm configuration at purchase.",
+   "sources": {
+    "product": "https://reolink.com/product/reolink-home-hub-pro/",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://reolink-storage.s3.us-east-1.amazonaws.com/website/uploads/assets/app/model-images/Reolink+Home+Hub+Pro/product.png",
+    "page": "https://reolink.com/product/reolink-home-hub-pro/",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official Reolink product image (model image published by Reolink's download center on its reolink-storage CDN); reuse rights not verified.",
+    "alt": "Reolink Home Hub Pro white security hub, angled front view",
+    "match": "EXACT"
+   }
+  },
+  {
+   "sku": "TK-REOLINK-TRACKFLEXFLOOD",
+   "slug": "reolink-trackflex-floodlight-wifi",
+   "name": "Reolink TrackFlex Floodlight WiFi",
+   "brand": "Reolink",
+   "category": "security-cameras",
+   "price": "262.99",
+   "priceBasis": "msrp",
+   "priceSource": "https://reolink.com/product/trackflex-floodlight-wifi/",
+   "priceAsOf": "2026-09-28",
+   "releaseYear": 2025,
+   "summary": "Hardwired 4K dual-lens floodlight camera with pan-tilt auto tracking, 360° coverage and dual-band Wi-Fi 6.",
+   "description": "TrackFlex Floodlight WiFi pairs a 4K 8 MP fixed lens with a 2 MP pan-tilt lens that auto-tracks subjects, panning up to 355° for 360° coverage with up to 64 preset positions. It adds floodlights and a siren, streams over dual-band 2.4/5 GHz Wi-Fi 6, and records locally to microSD up to 512 GB or to a Reolink NVR.",
+   "keywords": "floodlight ptz auto tracking 4k wifi 6 reolink trackflex",
+   "specs": {
+    "resolution": "4K 8 MP + 2 MP PTZ lens",
+    "power": "Hardwired",
+    "localStorage": "microSD up to 512 GB; Reolink NVR",
+    "subscriptionRequired": false
+   },
+   "featured": false,
+   "warranty": 12,
+   "sources": {
+    "product": "https://reolink.com/product/trackflex-floodlight-wifi/",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://reolink-storage.s3.us-east-1.amazonaws.com/website/uploads/assets/app/model-images/TrackFlex+Floodlight+WiFi/product.png",
+    "page": "https://reolink.com/product/trackflex-floodlight-wifi/",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official Reolink product image (model image published by Reolink's download center on its reolink-storage CDN); reuse rights not verified.",
+    "alt": "Reolink TrackFlex Floodlight WiFi with twin floodlight panels and dual-lens tracking camera",
+    "match": "EXACT"
+   }
+  },
+  {
+   "sku": "TK-AQARA-HUBM3",
+   "slug": "aqara-hub-m3",
+   "name": "Aqara Hub M3",
+   "brand": "Aqara",
+   "category": "hubs-bridges",
+   "price": "159.99",
+   "priceBasis": "msrp",
+   "priceSource": "https://us.aqara.com/products/hub-m3",
+   "priceAsOf": "2026-09-28",
+   "releaseYear": 2024,
+   "summary": "Multi-protocol edge hub with Zigbee 3.0, Thread and Matter, a 360° IR blaster, dual-band Wi-Fi and PoE.",
+   "description": "The Aqara Hub M3 supports Zigbee 3.0, Thread and Matter, connecting up to 127 Thread/Zigbee devices and bridging Aqara Zigbee devices to Matter apps like Apple Home. As an edge hub it runs automations locally for faster, more reliable response, and a built-in 360° IR blaster with feedback can control legacy AC units. It connects over dual-band Wi-Fi with WPA3 or a Power over Ethernet port, with USB-C for backup power.",
+   "keywords": "matter thread zigbee hub border router ir aqara m3",
+   "specs": {
+    "ecosystem": "Aqara Home app; Matter, Apple Home, Google Home, Alexa, SmartThings",
+    "connectivity": "Zigbee 3.0, Thread, Matter, IR, dual-band Wi-Fi, Ethernet (PoE)",
+    "power": "PoE or USB-C"
+   },
+   "collections": [
+    "homelab-essentials"
+   ],
+   "featured": false,
+   "warranty": 12,
+   "sources": {
+    "product": "https://us.aqara.com/products/hub-m3",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0867/2418/2298/files/0000_M3.webp?v=1738916653&width=1200&height=1000&crop=top",
+    "page": "https://us.aqara.com/products/hub-m3",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official Aqara store product image from us.aqara.com; no reuse license granted — rights not verified.",
+    "alt": "Aqara Hub M3 smart home hub in black and gunmetal, front three-quarter view",
+    "match": "EXACT",
+    "credit": "Aqara"
+   }
+  },
+  {
+   "sku": "TK-AQARA-W200",
+   "slug": "aqara-thermostat-hub-w200",
+   "name": "Aqara Thermostat Hub W200",
+   "brand": "Aqara",
+   "category": "thermostats",
+   "price": "159.99",
+   "priceBasis": "msrp",
+   "priceSource": "https://us.aqara.com/products/thermostat-hub-w200",
+   "priceAsOf": "2026-09-28",
+   "releaseYear": 2026,
+   "summary": "Matter 1.4 smart thermostat and hub that works with about 85% of HVAC systems and doubles as a doorbell and lock display.",
+   "description": "The Thermostat Hub W200 works with about 85% of HVAC systems, including furnaces, air conditioners, heat pumps, boilers and PTAC units, and includes a trim kit. It supports Apple Clean Energy Guidance, connects locally via Matter 1.4 to Apple Home, Google Home, Amazon Alexa and Samsung SmartThings, and doubles as a smart display for Aqara video doorbells and smart locks. A C-Wire Adapter is sold separately for homes without a C wire.",
+   "keywords": "smart thermostat matter apple home aqara w200",
+   "specs": {
+    "ecosystem": "Aqara Home app; Matter 1.4, Apple Home, Google Home, Alexa, SmartThings",
+    "connectivity": "Matter 1.4 (local)",
+    "power": "24VAC C wire (C-Wire Adapter sold separately)",
+    "display": "Color touchscreen"
+   },
+   "featured": false,
+   "warranty": 12,
+   "sources": {
+    "product": "https://us.aqara.com/products/thermostat-hub-w200",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0867/2418/2298/files/6855954dc7aa4d1792c9ba8a2d677e59.png?v=1770024931",
+    "page": "https://us.aqara.com/products/thermostat-hub-w200",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official Aqara store product image from us.aqara.com; no reuse license granted — rights not verified.",
+    "alt": "Aqara Thermostat Hub W200 with black touchscreen showing 70 degrees",
+    "match": "EXACT",
+    "credit": "Aqara"
+   }
+  },
+  {
+   "sku": "TK-AQARA-CAMHUBG350",
+   "slug": "aqara-camera-hub-g350",
+   "name": "Aqara Camera Hub G350",
+   "brand": "Aqara",
+   "category": "home-cameras-doorbells",
+   "price": "139.99",
+   "priceBasis": "msrp",
+   "priceSource": "https://us.aqara.com/products/camera-hub-g350",
+   "priceAsOf": "2026-09-28",
+   "releaseYear": 2026,
+   "summary": "Dual-lens pan-tilt indoor camera with 4K wide and 2.5K telephoto lenses, 9x hybrid zoom and on-device AI detection.",
+   "description": "The Camera Hub G350 pairs a 133° wide-angle 4K lens with a 2.5K telephoto lens for 9x hybrid zoom, and uses AI auto-tracking and close-up tracking to follow people and pets. All AI processing — face, pet, gesture and sound recognition — runs locally on the device, and an f/1.6 aperture with 940nm invisible infrared LEDs provides night vision without a red glow.",
+   "keywords": "indoor camera dual lens ptz local ai aqara g350",
+   "specs": {
+    "ecosystem": "Aqara Home app; Matter",
+    "resolution": "4K wide-angle + 2.5K telephoto",
+    "colors": "White"
+   },
+   "featured": false,
+   "warranty": 12,
+   "sources": {
+    "product": "https://us.aqara.com/products/camera-hub-g350",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0867/2418/2298/files/1600X1600.png?v=1773369748&width=1600&height=1400&crop=top",
+    "page": "https://us.aqara.com/products/camera-hub-g350",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official Aqara store product image from us.aqara.com; no reuse license granted — rights not verified.",
+    "alt": "Aqara Camera Hub G350 dual-lens pan-tilt indoor camera in white, front view",
+    "match": "EXACT",
+    "credit": "Aqara"
+   }
+  },
+  {
+   "sku": "TK-AQARA-DOORBELLG410",
+   "slug": "aqara-doorbell-camera-hub-g410",
+   "name": "Aqara Doorbell Camera Hub G410",
+   "brand": "Aqara",
+   "category": "home-cameras-doorbells",
+   "price": "144.99",
+   "priceBasis": "msrp",
+   "priceSource": "https://us.aqara.com/products/video-doorbell-g410",
+   "priceAsOf": "2026-09-28",
+   "releaseYear": 2025,
+   "summary": "2K video doorbell with mmWave radar, local face recognition and a built-in Zigbee 3.0 hub, Thread Border Router and Matter controller.",
+   "description": "The Doorbell Camera Hub G410 combines a 2K camera with a built-in multi-protocol hub: a Zigbee 3.0 hub for Aqara devices plus a Thread Border Router and Matter controller. mmWave radar provides accurate presence and lingering detection, facial recognition runs locally on the device, and it supports Apple HomeKit Secure Video, Google Home and Amazon Alexa displays, and Home Assistant bridging.",
+   "keywords": "video doorbell homekit secure video radar aqara g410",
+   "specs": {
+    "ecosystem": "Aqara Home app; Apple HomeKit Secure Video, Google Home, Alexa, Matter, Home Assistant",
+    "connectivity": "Zigbee 3.0 hub, Thread Border Router, Matter controller",
+    "resolution": "2K"
+   },
+   "colors": [
+    "Black",
+    "Gray"
+   ],
+   "featured": false,
+   "warranty": 12,
+   "sources": {
+    "product": "https://us.aqara.com/products/video-doorbell-g410",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0867/2418/2298/files/AqaraSmartVideoDoorbellG410_1.webp?v=1751944817",
+    "page": "https://us.aqara.com/products/video-doorbell-g410",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official Aqara store product image from us.aqara.com; no reuse license granted — rights not verified.",
+    "alt": "Aqara Doorbell Camera Hub G410 in black with its chime repeater",
+    "match": "EXACT",
+    "credit": "Aqara"
+   }
+  }
+ ]
+}

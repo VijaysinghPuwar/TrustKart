@@ -1,0 +1,112 @@
+{
+ "meta": {
+  "notes": "Researched products parked until an official, professional product image can be sourced."
+ },
+ "products": [
+  {
+   "sku": "TK-RAZER-BLADE14-RTX5060",
+   "slug": "razer-blade-14-rtx-5060",
+   "name": "Razer Blade 14 (Ryzen AI 9 365, RTX 5060)",
+   "brand": "Razer",
+   "category": "gaming-laptops",
+   "price": "2299.99",
+   "priceBasis": "msrp",
+   "priceSource": "https://www.razer.com/gaming-laptops/razer-blade-14/RZ09-05305ES3-R3U1",
+   "priceAsOf": "2026-09-28",
+   "priceNote": "Listed on razer.com; both configurations showed out of stock on the price date.",
+   "summary": "Ultra-portable 14-inch gaming laptop with AMD Ryzen AI 9 365, GeForce RTX 50 Series graphics and a 3K 120 Hz OLED display.",
+   "description": "Razer Blade 14 packs an AMD Ryzen AI 9 365 processor and NVIDIA GeForce RTX 5060 or RTX 5070 graphics into a CNC-milled aluminum chassis about 16 mm thin and 1.63 kg. It has a 14-inch 2880x1800 120 Hz OLED display, per-key RGB keyboard, two USB4 ports with 100 W charging, HDMI 2.1 and a 72 Wh battery.",
+   "keywords": "razer blade 14 oled gaming laptop amd ryzen ai rtx 5060 portable",
+   "specs": {
+    "cpu": "AMD Ryzen AI 9 365 (10 cores / 20 threads, up to 5 GHz)",
+    "cpuBrand": "AMD",
+    "gpu": "NVIDIA GeForce RTX 5060 Laptop GPU 8 GB GDDR7 (100 W + 15 W Dynamic Boost)",
+    "ramGb": 16,
+    "storageTb": 1,
+    "displayIn": 14,
+    "display": "2880x1800 OLED, 120 Hz",
+    "batteryWh": 72,
+    "weightKg": 1.63,
+    "os": "Windows 11 Home",
+    "ports": "2x USB4 Type-C (PD, DP 2.1), 2x USB-A 3.2 Gen 2, HDMI 2.1, microSD (UHS-II), 3.5 mm",
+    "wireless": "Wi-Fi 7, Bluetooth 5.4"
+   },
+   "variants": [
+    {
+     "label": "RTX 5060 / 16 GB / 1 TB",
+     "price": "2299.99"
+    },
+    {
+     "label": "RTX 5070 / 32 GB / 1 TB",
+     "price": "2899.99"
+    }
+   ],
+   "colors": [
+    "Black"
+   ],
+   "collections": [
+    "gaming-monsters"
+   ],
+   "featured": false,
+   "warranty": 12,
+   "sources": {
+    "product": "https://www.razer.com/gaming-laptops/razer-blade-14",
+    "specs": "https://www.razer.com/gaming-laptops/razer-blade-14",
+    "retrievedAt": "2026-09-28"
+   }
+  },
+  {
+   "sku": "TK-RAZER-BLACKSHARKV3PRO",
+   "slug": "razer-blackshark-v3-pro",
+   "name": "Razer BlackShark V3 Pro",
+   "brand": "Razer",
+   "category": "headsets",
+   "price": "249.99",
+   "priceBasis": "msrp",
+   "priceSource": "https://www.razer.com/gaming-headsets/razer-blackshark-v3-pro",
+   "priceAsOf": "2026-09-28",
+   "summary": "Wireless esports headset with hybrid ANC, 50 mm bio-cellulose drivers, detachable full-band mic and up to 70 hours of battery.",
+   "description": "The Razer BlackShark V3 Pro uses TriForce Bio-Cellulose 50 mm Drivers Gen-2 and Hybrid Active Noise Cancellation. It connects over 2.4 GHz wireless, Bluetooth, USB wired or 3.5 mm, has a detachable HyperClear Full Band 12 mm mic, and lasts up to 70 hours on 2.4 GHz. Xbox and PlayStation versions are available.",
+   "keywords": "razer blackshark v3 pro wireless anc esports headset",
+   "specs": {
+    "connection": "2.4 GHz wireless, Bluetooth, USB wired, 3.5 mm",
+    "colors": "Black, White",
+    "noiseCancelling": true,
+    "batteryHours": 70,
+    "boomMic": true
+   },
+   "variants": [
+    {
+     "label": "PC - Black",
+     "price": "249.99"
+    },
+    {
+     "label": "PC - White",
+     "price": "249.99"
+    },
+    {
+     "label": "Xbox",
+     "price": "249.99"
+    },
+    {
+     "label": "PlayStation",
+     "price": "249.99"
+    }
+   ],
+   "colors": [
+    "Black",
+    "White"
+   ],
+   "collections": [
+    "ultimate-gaming-setup"
+   ],
+   "featured": false,
+   "warranty": 24,
+   "sources": {
+    "product": "https://www.razer.com/gaming-headsets/razer-blackshark-v3-pro",
+    "specs": "https://www.razer.com/gaming-headsets/razer-blackshark-v3-pro",
+    "retrievedAt": "2026-09-28"
+   }
+  }
+ ]
+}

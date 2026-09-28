@@ -1,0 +1,1724 @@
+{
+ "products": [
+  {
+   "sku": "TK-NETGATE-1100",
+   "slug": "netgate-1100-pfsense-plus-security-gateway",
+   "name": "Netgate 1100 pfSense Plus Security Gateway",
+   "brand": "Netgate",
+   "category": "firewalls",
+   "price": "289.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    15,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "homelab-starter",
+    "security-lab"
+   ],
+   "summary": "Compact fanless pfSense Plus firewall with three GbE ports, a dual-core ARM Cortex-A53 SoC and 1 GB DDR4, rated for 607 Mbps firewall throughput.",
+   "description": "The Netgate 1100 is Netgate's smallest pfSense Plus appliance, built on a Marvell ARMADA 3720 dual-core Cortex-A53 at 1.2 GHz with 1 GB DDR4 and 10.6 GB eMMC storage. Three GbE ports (WAN/LAN/OPT) are driven by an on-board Marvell switch, and Netgate lists up to 927 Mbps routing and 607 Mbps firewall throughput. It is silent and can sit on a desk or mount on a wall.",
+   "keywords": "netgate 1100 sg-1100 pfsense plus firewall router homelab arm",
+   "specs": {
+    "ports": "3x GbE RJ45 (WAN/LAN/OPT)",
+    "maxSpeedGbps": 1,
+    "managed": true,
+    "rackMountable": false,
+    "firewallThroughputGbps": 0.607,
+    "configurations": "TAC Lite (included) – $289 · TAC Professional 1 year – $338 · TAC Professional 2 years – $387"
+   },
+   "options": [
+    {
+     "name": "Configuration",
+     "values": [
+      {
+       "label": "TAC Lite (included)",
+       "price": "289.00",
+       "default": true
+      },
+      {
+       "label": "TAC Professional 1 year",
+       "price": "338.00"
+      },
+      {
+       "label": "TAC Professional 2 years",
+       "price": "387.00"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "sku": "TK-NETGATE-2100-BASE",
+   "slug": "netgate-2100-base-pfsense-plus-security-gateway",
+   "name": "Netgate 2100 BASE pfSense Plus Security Gateway",
+   "brand": "Netgate",
+   "category": "firewalls",
+   "price": "599.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    58,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "homelab-starter",
+    "small-business"
+   ],
+   "summary": "Desktop pfSense Plus gateway with a 4-port GbE switch plus an RJ45/SFP combo WAN, 4 GB DDR4 and 964 Mbps firewall throughput.",
+   "description": "The Netgate 2100 uses a dual-core ARM Cortex-A53 at 1.2 GHz with 4 GB DDR4 and 10.6 GB eMMC storage (an M.2 SSD is optional). Its five ports combine a 4-port 1 GbE Marvell switch with a dedicated 1 GbE RJ45/SFP combo WAN port, and Netgate rates it at 2.20 Gbps routing, 964 Mbps firewall and 254 Mbps IPsec VPN (iPerf3). Passive cooling keeps it silent.",
+   "keywords": "netgate 2100 pfsense plus firewall sfp homelab small office",
+   "specs": {
+    "ports": "4x GbE RJ45 (switched LAN), 1x GbE RJ45/SFP combo WAN",
+    "maxSpeedGbps": 1,
+    "managed": true,
+    "rackMountable": false,
+    "firewallThroughputGbps": 0.964,
+    "configurations": "TAC Lite (included) – $599 · TAC Professional (1 yr) – $998 · TAC Enterprise (1 yr) – $1,398"
+   },
+   "options": [
+    {
+     "name": "Configuration",
+     "values": [
+      {
+       "label": "TAC Lite (included)",
+       "price": "599.00",
+       "default": true
+      },
+      {
+       "label": "TAC Professional (1 yr)",
+       "price": "998.00"
+      },
+      {
+       "label": "TAC Enterprise (1 yr)",
+       "price": "1398.00"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "sku": "TK-NETGATE-8200-MAX",
+   "slug": "netgate-8200-max-pfsense-plus-security-gateway",
+   "name": "Netgate 8200 MAX pfSense Plus Security Gateway",
+   "brand": "Netgate",
+   "category": "firewalls",
+   "price": "2399.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    52,
+    5
+   ],
+   "featured": true,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "homelab-essentials",
+    "security-lab"
+   ],
+   "summary": "1U pfSense Plus firewall with an 8-core Intel Atom C3758R, 16 GB RAM, 2x 10G SFP+, 2x 1G combo and 4x 2.5G ports, rated at 18.55 Gbps firewall.",
+   "description": "The Netgate 8200 is Netgate's fastest Intel Atom-based pfSense Plus appliance: an 8-core Atom C3758R with QuickAssist and AES-NI, 16 GB DDR4 and a 128 GB NVMe SSD in a quiet 1U rack chassis. It provides two 10 Gbps SFP+ WAN ports, two 1 Gbps RJ45/SFP combo WAN ports and four 2.5 Gbps Intel i226 LAN ports, with Netgate quoting 18.55 Gbps firewall and 3.24 Gbps IPsec throughput (iPerf3).",
+   "keywords": "netgate 8200 max pfsense plus 10g sfp+ 2.5g rack firewall atom quickassist",
+   "specs": {
+    "ports": "2x 10G SFP+, 2x 1G RJ45/SFP combo, 4x 2.5G RJ45",
+    "maxSpeedGbps": 10,
+    "managed": true,
+    "rackMountable": true,
+    "firewallThroughputGbps": 18.55,
+    "configurations": "TAC Lite (included) – $2,399 · TAC Professional (1 yr) – $2,798 · TAC Enterprise (1 yr) – $3,198"
+   },
+   "options": [
+    {
+     "name": "Configuration",
+     "values": [
+      {
+       "label": "TAC Lite (included)",
+       "price": "2399.00",
+       "default": true
+      },
+      {
+       "label": "TAC Professional (1 yr)",
+       "price": "2798.00"
+      },
+      {
+       "label": "TAC Enterprise (1 yr)",
+       "price": "3198.00"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "sku": "TK-DELL-PS-Z9432F-ON",
+   "slug": "dell-powerswitch-z9432f-on",
+   "name": "Dell PowerSwitch Z9432F-ON 400GbE Switch",
+   "brand": "Dell",
+   "category": "switches",
+   "price": "45000.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    7,
+    2
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "enterprise-lab",
+    "enterprise-servers"
+   ],
+   "summary": "1RU open-networking aggregation switch with 32x 400GbE QSFP56-DD ports (up to 128x 100GbE via breakout) and 25.6 Tbps switching capacity.",
+   "description": "The PowerSwitch Z9432F-ON is Dell's 1RU 100/400GbE aggregation and spine switch. The spec sheet lists 32 QSFP56-DD 400GbE ports plus 2x 10GbE SFP+, breakout to up to 128x 100GbE or 144x 10/25/50GbE, a 25.6 Tbps full-duplex switching fabric and 5.2 Bpps forwarding. It supports ONIE for Dell SmartFabric OS10, Enterprise SONiC or third-party network operating systems.",
+   "keywords": "dell powerswitch z9432f-on 400gbe qsfp56-dd spine data center sonic os10",
+   "specs": {
+    "ports": "32x 400GbE QSFP56-DD, 2x 10GbE SFP+",
+    "maxSpeedGbps": 400,
+    "managed": true,
+    "rackMountable": true,
+    "switchingCapacityGbps": 25600
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-DELL-PS-S5448F-ON",
+   "slug": "dell-powerswitch-s5448f-on",
+   "name": "Dell PowerSwitch S5448F-ON 100/400GbE Switch",
+   "brand": "Dell",
+   "category": "switches",
+   "price": "38000.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    4,
+    2
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "enterprise-lab"
+   ],
+   "summary": "1RU leaf switch with 48x 100GbE SFP56-DD and 8x 400GbE QSFP56-DD ports, 16 Tbps switching fabric and 2.6 Bpps forwarding.",
+   "description": "The PowerSwitch S5448F-ON packs 48 ports of 100GbE (SFP56-DD, PAM4) and eight 400GbE QSFP56-DD ports into 1RU. Dell's spec sheet lists a 16 Tbps full-duplex non-blocking fabric, 2.6 Bpps forwarding, Routable RoCE support and ONIE for open network operating systems.",
+   "keywords": "dell powerswitch s5448f-on 100gbe 400gbe sfp56-dd leaf top of rack",
+   "specs": {
+    "ports": "48x 100GbE SFP56-DD, 8x 400GbE QSFP56-DD",
+    "maxSpeedGbps": 400,
+    "managed": true,
+    "rackMountable": true,
+    "switchingCapacityGbps": 16000
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-DELL-PS-S3248T-ON",
+   "slug": "dell-powerswitch-s3248t-on",
+   "name": "Dell PowerSwitch S3248T-ON 1GbE Switch",
+   "brand": "Dell",
+   "category": "switches",
+   "price": "7500.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    13,
+    3
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "enterprise-lab"
+   ],
+   "summary": "1U data-center management switch with 48x 1GbE RJ45, 4x 10GbE SFP+ and 2x 100GbE QSFP28 ports.",
+   "description": "The PowerSwitch S3248T-ON is a 1U switch for out-of-band management and 1GbE access in the data center. The spec sheet lists 48 line-rate RJ45 1GbE ports, four integrated 10GbE SFP+ ports and two 100GbE QSFP28 uplinks, VRF-lite and OpenConfig gNMI management, with a 550 W AC power supply included.",
+   "keywords": "dell powerswitch s3248t-on 1gbe management switch oob sfp+ qsfp28",
+   "specs": {
+    "ports": "48x 1GbE RJ45, 4x 10GbE SFP+, 2x 100GbE QSFP28",
+    "maxSpeedGbps": 100,
+    "managed": true,
+    "rackMountable": true,
+    "switchingCapacityGbps": 576
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-CISCO-MS150-48LP-4G",
+   "slug": "cisco-meraki-ms150-48lp-4g",
+   "name": "Cisco Meraki MS150-48LP-4G Cloud-Managed PoE+ Switch",
+   "brand": "Cisco",
+   "category": "switches",
+   "price": "3800.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    8,
+    3
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "small-business",
+    "enterprise-lab"
+   ],
+   "summary": "Cloud-managed stackable access switch with 48x 1GbE PoE+ ports (370 W budget) and 4x SFP uplinks.",
+   "description": "The Meraki MS150 is Cisco's stackable cloud-managed access switch family for Wi-Fi 7 and IoT deployments. The MS150-48LP-4G provides 48 x 1 GbE ports with 30 W PoE+, a 370 W PoE budget and 4 SFP uplinks, and up to eight MS150 switches can be stacked through two dedicated stacking ports.",
+   "keywords": "cisco meraki ms150 48lp poe+ cloud managed switch stackable",
+   "specs": {
+    "ports": "48x 1GbE RJ45 PoE+, 4x 1G SFP",
+    "maxSpeedGbps": 1,
+    "managed": true,
+    "rackMountable": true,
+    "poe": 370
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-CISCO-MS130-24X",
+   "slug": "cisco-meraki-ms130-24x",
+   "name": "Cisco Meraki MS130-24X Multigigabit PoE+ Switch",
+   "brand": "Cisco",
+   "category": "switches",
+   "price": "3200.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    8,
+    3
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "small-business"
+   ],
+   "summary": "Cloud-managed Layer 2 switch with 18x 1GbE and 6x 2.5GbE mGig ports, 370 W PoE+ and 4x 10G SFP+ uplinks.",
+   "description": "The Meraki MS130-24X is the multigigabit model of the MS130-24 family: 18 x 1 GbE plus 6 x 2.5 GbE ports, four 10G SFP+ uplinks and a 370 W PoE+ budget. It is managed from the Meraki dashboard with zero-touch provisioning and is hardware-ready for Adaptive Policy.",
+   "keywords": "cisco meraki ms130-24x mgig 2.5g poe+ sfp+ cloud managed switch",
+   "specs": {
+    "ports": "18x 1GbE + 6x 2.5GbE RJ45 PoE+, 4x 10G SFP+",
+    "maxSpeedGbps": 10,
+    "managed": true,
+    "rackMountable": true,
+    "poe": 370
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-CISCO-MS130-8X",
+   "slug": "cisco-meraki-ms130-8x",
+   "name": "Cisco Meraki MS130-8X Compact Multigigabit Switch",
+   "brand": "Cisco",
+   "category": "switches",
+   "price": "1500.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    39,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "small-business",
+    "homelab-essentials"
+   ],
+   "summary": "Compact cloud-managed switch with 6x 1GbE and 2x 2.5GbE PoE+ ports (120 W) and 2x 10G SFP+ uplinks.",
+   "description": "The Meraki MS130-8X is a small, mountable cloud-managed switch for branches and retail. It has six 1 GbE and two 2.5 GbE multigigabit ports with a 120 W PoE+ budget and two 10G SFP+ uplinks, and supports Adaptive Policy.",
+   "keywords": "cisco meraki ms130-8x compact 2.5g poe+ sfp+ branch switch",
+   "specs": {
+    "ports": "6x 1GbE + 2x 2.5GbE RJ45 PoE+, 2x 10G SFP+",
+    "maxSpeedGbps": 10,
+    "managed": true,
+    "rackMountable": false,
+    "poe": 120
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-CISCO-MX67",
+   "slug": "cisco-meraki-mx67-security-sd-wan-appliance",
+   "name": "Cisco Meraki MX67 Security & SD-WAN Appliance",
+   "brand": "Cisco",
+   "category": "firewalls",
+   "price": "750.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    59,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "small-business",
+    "security-lab"
+   ],
+   "summary": "Desktop cloud-managed security and SD-WAN appliance for up to 50 users with 700 Mbps firewall and 300 Mbps site-to-site VPN throughput.",
+   "description": "The Meraki MX67 is a small-branch unified threat management and SD-WAN appliance managed from the Meraki cloud dashboard. Cisco lists 2 GbE WAN and 4 GbE LAN ports (one port usable as WAN or LAN), 700 Mbps firewall and 300 Mbps site-to-site VPN throughput, sized for up to 50 users.",
+   "keywords": "cisco meraki mx67 sd-wan utm firewall small branch",
+   "specs": {
+    "ports": "2x GbE WAN, 4x GbE LAN (one shared WAN/LAN)",
+    "maxSpeedGbps": 1,
+    "managed": true,
+    "rackMountable": false,
+    "firewallThroughputGbps": 0.7
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-CISCO-MX75",
+   "slug": "cisco-meraki-mx75-security-sd-wan-appliance",
+   "name": "Cisco Meraki MX75 Security & SD-WAN Appliance",
+   "brand": "Cisco",
+   "category": "firewalls",
+   "price": "1600.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    26,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "small-business",
+    "security-lab"
+   ],
+   "summary": "Desktop SASE/SD-WAN appliance for up to 200 users with 1 Gbps firewall throughput, SFP WAN and ten GbE LAN ports (two PoE).",
+   "description": "The Meraki MX75 is Cisco's flagship small-branch security and SD-WAN appliance in a desktop form factor. It has 1 GbE SFP and 2 GbE RJ45 WAN ports, ten GbE RJ45 LAN ports (two with PoE), 1 Gbps firewall and 500 Mbps site-to-site VPN throughput and supports up to 200 users.",
+   "keywords": "cisco meraki mx75 sd-wan sase firewall branch poe",
+   "specs": {
+    "ports": "1x GbE SFP + 2x GbE RJ45 WAN, 10x GbE RJ45 LAN (2 PoE)",
+    "maxSpeedGbps": 1,
+    "managed": true,
+    "rackMountable": false,
+    "firewallThroughputGbps": 1
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-CISCO-MX85",
+   "slug": "cisco-meraki-mx85-security-sd-wan-appliance",
+   "name": "Cisco Meraki MX85 Security & SD-WAN Appliance",
+   "brand": "Cisco",
+   "category": "firewalls",
+   "price": "2800.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    45,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "small-business"
+   ],
+   "summary": "Rack-mountable SD-WAN security appliance for up to 250 users with dual SFP and RJ45 WAN, 8x GbE + 2x SFP LAN and 1 Gbps firewall throughput.",
+   "description": "The Meraki MX85 is a rack-mountable small-to-medium branch security and SD-WAN appliance. Cisco lists two GbE SFP and two GbE RJ45 WAN ports (one PoE), eight GbE RJ45 and two GbE SFP LAN ports, 1 Gbps firewall and 500 Mbps site-to-site VPN throughput, for up to 250 users.",
+   "keywords": "cisco meraki mx85 sd-wan firewall rackmount branch",
+   "specs": {
+    "ports": "2x GbE SFP + 2x GbE RJ45 WAN, 8x GbE RJ45 + 2x GbE SFP LAN",
+    "maxSpeedGbps": 1,
+    "managed": true,
+    "rackMountable": true,
+    "firewallThroughputGbps": 1
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-CISCO-MX95",
+   "slug": "cisco-meraki-mx95-security-sd-wan-appliance",
+   "name": "Cisco Meraki MX95 Security & SD-WAN Appliance",
+   "brand": "Cisco",
+   "category": "firewalls",
+   "price": "6000.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    6,
+    3
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "small-business",
+    "security-lab"
+   ],
+   "summary": "Rack-mountable SD-WAN security appliance for up to 500 users with 10G SFP+ and 2.5G WAN ports and 2 Gbps firewall throughput.",
+   "description": "The Meraki MX95 targets medium-to-large branches. It has two 10 GbE SFP+ and two 2.5 GbE RJ45 WAN ports (one PoE), four GbE RJ45 and two 10 GbE SFP+ LAN ports, 2 Gbps firewall and 800 Mbps site-to-site VPN throughput, and supports up to 500 users.",
+   "keywords": "cisco meraki mx95 sd-wan 10g sfp+ firewall branch",
+   "specs": {
+    "ports": "2x 10G SFP+ + 2x 2.5G RJ45 WAN, 4x GbE RJ45 + 2x 10G SFP+ LAN",
+    "maxSpeedGbps": 10,
+    "managed": true,
+    "rackMountable": true,
+    "firewallThroughputGbps": 2
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-CISCO-C9350-48HX",
+   "slug": "cisco-c9350-48hx-smart-switch",
+   "name": "Cisco C9350-48HX Smart Switch",
+   "brand": "Cisco",
+   "category": "switches",
+   "price": "28000.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    3,
+    2
+   ],
+   "featured": true,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "enterprise-lab"
+   ],
+   "summary": "Campus access smart switch with 48x 10G multigigabit UPOE+ (90 W) ports, modular uplinks up to 400G and 1.76 Tbps switching capacity.",
+   "description": "The C9350-48HX is part of Cisco's C9350 Series Smart Switches built on dual Silicon One A100 ASICs. Its 48 downlinks run 100M to 10G with 90 W UPOE+ on every port (4320 W total PoE budget with maximum power supplies), StackWise-1.6T stacking supports eight switches, and modular network modules add up to 400G of uplink bandwidth. Cisco lists 1760 Gbps switching capacity.",
+   "keywords": "cisco c9350-48hx catalyst smart switch mgig upoe+ 90w wifi 7 silicon one",
+   "specs": {
+    "ports": "48x 100M-10G mGig RJ45 UPOE+, modular uplink slot (up to 400G)",
+    "maxSpeedGbps": 10,
+    "managed": true,
+    "rackMountable": true,
+    "poe": 1150,
+    "switchingCapacityGbps": 1760
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-CISCO-N9K-93180YC-FX3",
+   "slug": "cisco-nexus-93180yc-fx3",
+   "name": "Cisco Nexus 93180YC-FX3 Data Center Switch",
+   "brand": "Cisco",
+   "category": "switches",
+   "price": "24000.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    3,
+    2
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "enterprise-lab",
+    "enterprise-servers"
+   ],
+   "summary": "1RU data-center leaf with 48x 1/10/25G SFP28 and 6x 40/100G QSFP28 ports, 3.6 Tbps and 1.2 Bpps.",
+   "description": "The Nexus 93180YC-FX3 is a 1RU Cisco N9300-FX3 switch with 48 SFP28 downlinks supporting 1, 10 or 25 Gbps and six QSFP28 uplinks at 40 or 100 Gbps. Cisco rates it at 3.6 Tbps and 1.2 Bpps; it runs NX-OS or ACI and supports PTP telecom profiles with SyncE.",
+   "keywords": "cisco nexus 93180yc-fx3 n9k 25g sfp28 100g leaf nx-os aci",
+   "specs": {
+    "ports": "48x 1/10/25G SFP28, 6x 40/100G QSFP28",
+    "maxSpeedGbps": 100,
+    "managed": true,
+    "rackMountable": true,
+    "switchingCapacityGbps": 3600
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-CISCO-N9K-93108TC-FX3",
+   "slug": "cisco-nexus-93108tc-fx3",
+   "name": "Cisco Nexus 93108TC-FX3 10GBASE-T Switch",
+   "brand": "Cisco",
+   "category": "switches",
+   "price": "20000.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    7,
+    2
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "enterprise-lab"
+   ],
+   "summary": "1RU data-center switch with 48x 100M/1/10GBASE-T and 6x 40/100G QSFP28 ports, 2.16 Tbps and 1.2 Bpps.",
+   "description": "The Nexus 93108TC-FX3 is the copper member of Cisco's N9300-FX3 family, with 48 100M/1/10 Gbps BASE-T downlinks and six 40/100 Gbps QSFP28 uplinks. Cisco rates it at 2.16 Tbps of bandwidth and 1.2 Bpps, and it supports NX-OS VXLAN EVPN fabrics or ACI.",
+   "keywords": "cisco nexus 93108tc-fx3 10gbase-t rj45 100g data center switch",
+   "specs": {
+    "ports": "48x 100M/1/10GBASE-T, 6x 40/100G QSFP28",
+    "maxSpeedGbps": 100,
+    "managed": true,
+    "rackMountable": true,
+    "switchingCapacityGbps": 2160
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-PAN-PA-520-5G",
+   "slug": "palo-alto-networks-pa-520-5g",
+   "name": "Palo Alto Networks PA-520-5G Next-Generation Firewall",
+   "brand": "Palo Alto Networks",
+   "category": "firewalls",
+   "price": "3500.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    17,
+    3
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "security-lab",
+    "small-business"
+   ],
+   "summary": "Branch NGFW with an embedded 5G cellular module, 8x 1G RJ45 and 2x 1G SFP ports, 2.6 Gbps firewall and 1.6 Gbps threat prevention throughput.",
+   "description": "The PA-520-5G is part of Palo Alto Networks' quantum-optimized PA-500 Series for branches and small offices. It adds an embedded 5G cellular module to eight 1G RJ45 and two 1G SFP ports, and the datasheet lists 2.6 Gbps firewall, 1.6 Gbps threat prevention and 1.4 Gbps IPsec VPN throughput (appmix). It runs PAN-OS and can be zero-touch provisioned from Strata Cloud Manager.",
+   "keywords": "palo alto pa-520-5g ngfw 5g cellular branch firewall pan-os",
+   "specs": {
+    "ports": "8x 1G RJ45, 2x 1G SFP, embedded 5G cellular",
+    "maxSpeedGbps": 1,
+    "managed": true,
+    "rackMountable": false,
+    "firewallThroughputGbps": 2.6
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-PAN-PA-1510-POE",
+   "slug": "palo-alto-networks-pa-1510-poe",
+   "name": "Palo Alto Networks PA-1510-POE Next-Generation Firewall",
+   "brand": "Palo Alto Networks",
+   "category": "firewalls",
+   "price": "14000.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    13,
+    3
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "security-lab",
+    "enterprise-lab"
+   ],
+   "summary": "1RU campus-edge NGFW with 485 W PoE, 2.5/5G multigigabit and 10G SFP+ ports, 15 Gbps firewall and 9 Gbps threat prevention throughput.",
+   "description": "The PA-1510-POE is the entry model of the PA-1500 Series, which adds integrated Layer 2 switching and PoE to a PAN-OS NGFW. It has 12 GbE copper, 8 1G/2.5G/5G copper, 4 1G SFP and 8 1G/10G SFP+ ports, a 485 W PoE budget (90 W max per port), and is rated at 15 Gbps firewall, 9 Gbps threat prevention and 7 Gbps IPsec VPN throughput.",
+   "keywords": "palo alto pa-1510-poe pa-1500 ngfw poe multigig sfp+ campus",
+   "specs": {
+    "ports": "12x 1G RJ45, 8x 1/2.5/5G RJ45, 4x 1G SFP, 8x 1/10G SFP+",
+    "maxSpeedGbps": 10,
+    "managed": true,
+    "rackMountable": true,
+    "firewallThroughputGbps": 15
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-PAN-PA-3510",
+   "slug": "palo-alto-networks-pa-3510",
+   "name": "Palo Alto Networks PA-3510 Next-Generation Firewall",
+   "brand": "Palo Alto Networks",
+   "category": "firewalls",
+   "price": "45000.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    6,
+    2
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "security-lab",
+    "enterprise-lab"
+   ],
+   "summary": "Campus-core/internet-edge NGFW with 10G mGig, SFP+, 25G SFP28 and 100G QSFP28 ports, 30 Gbps firewall and 15 Gbps threat prevention throughput.",
+   "description": "The PA-3510 is the entry model of Palo Alto Networks' PA-3500 Series quantum-optimized NGFWs. It provides 8 10G mGig copper, 8 1G/10G SFP+, 6 10G/25G SFP28 and 2 40G/100G QSFP28 ports and is rated at 30 Gbps firewall, 15 Gbps threat prevention and 13 Gbps IPsec VPN throughput (appmix) in a 1RU chassis.",
+   "keywords": "palo alto pa-3510 pa-3500 ngfw 100g qsfp28 campus core firewall",
+   "specs": {
+    "ports": "8x 10G mGig RJ45, 8x 1/10G SFP+, 6x 10/25G SFP28, 2x 40/100G QSFP28",
+    "maxSpeedGbps": 100,
+    "managed": true,
+    "rackMountable": true,
+    "firewallThroughputGbps": 30
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-PAN-PA-5510",
+   "slug": "palo-alto-networks-pa-5510",
+   "name": "Palo Alto Networks PA-5510 Next-Generation Firewall",
+   "brand": "Palo Alto Networks",
+   "category": "firewalls",
+   "price": "125000.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    4,
+    2
+   ],
+   "featured": true,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "security-lab",
+    "enterprise-servers"
+   ],
+   "summary": "Data-center edge NGFW with 10G mGig, SFP+, 25G SFP28 and 6x 100G QSFP28 ports, 65 Gbps firewall and 45 Gbps threat prevention throughput.",
+   "description": "The PA-5510 is the entry model of the PA-5500 Series for enterprise perimeters and data-center edge. Its I/O comprises 10 10GE mGig copper, 12 10GE SFP+, 8 10G/25G SFP28 and 6 40G/100G QSFP28 ports, with 65 Gbps firewall, 45 Gbps threat prevention and 34 Gbps IPsec VPN throughput (appmix), and a 960 GB RAID1 SSD pair for logs.",
+   "keywords": "palo alto pa-5510 pa-5500 ngfw data center 100g firewall",
+   "specs": {
+    "ports": "10x 10G mGig RJ45, 12x 10G SFP+, 8x 10/25G SFP28, 6x 40/100G QSFP28",
+    "maxSpeedGbps": 100,
+    "managed": true,
+    "rackMountable": true,
+    "firewallThroughputGbps": 65
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-SONICWALL-TZ280W",
+   "slug": "sonicwall-tz280w-gen-8-firewall",
+   "name": "SonicWall TZ280W Gen 8 Wireless Firewall",
+   "brand": "SonicWall",
+   "category": "firewalls",
+   "price": "950.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    56,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "small-business",
+    "security-lab"
+   ],
+   "summary": "Gen 8 desktop NGFW with integrated 2x2 Wi-Fi 6, 8x 1GbE and 2x 1G SFP ports, 2.5 Gbps firewall and 1 Gbps threat prevention throughput.",
+   "description": "The TZ280W is the wireless model of SonicWall's Gen 8 TZ280 running SonicOS 8. The datasheet lists eight 1GbE ports, two 1G SFP ports, USB-C and a micro-USB console, 2x2 802.11ax Wi-Fi, 2.5 Gbps firewall inspection and 1 Gbps threat prevention throughput. It includes built-in Secure SD-WAN and supports up to 16 SonicWave access points.",
+   "keywords": "sonicwall tz280w gen 8 wifi 6 firewall small office sd-wan",
+   "specs": {
+    "ports": "8x 1GbE RJ45, 2x 1G SFP",
+    "maxSpeedGbps": 1,
+    "managed": true,
+    "rackMountable": false,
+    "wifiDetails": "Integrated 2x2 802.11ax (Wi-Fi 6)",
+    "firewallThroughputGbps": 2.5
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-SONICWALL-TZ380W",
+   "slug": "sonicwall-tz380w-gen-8-firewall",
+   "name": "SonicWall TZ380W Gen 8 Wireless Firewall",
+   "brand": "SonicWall",
+   "category": "firewalls",
+   "price": "1450.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    17,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "small-business",
+    "security-lab"
+   ],
+   "summary": "Gen 8 desktop NGFW with 2x2 Wi-Fi 6, 8x 1GbE and 2x 5G/2.5G SFP+ ports, 3.5 Gbps firewall and 1.5 Gbps threat prevention throughput.",
+   "description": "The TZ380W pairs SonicOS 8 with integrated 2x2 802.11ax Wi-Fi. SonicWall lists eight 1GbE ports, two 5/2.5/1G SFP+ ports, optional storage up to 512 GB, 3.5 Gbps firewall inspection and 1.5 Gbps threat prevention throughput, with dual power supply support.",
+   "keywords": "sonicwall tz380w gen 8 wifi 6 multigig sfp+ firewall",
+   "specs": {
+    "ports": "8x 1GbE RJ45, 2x 5/2.5/1G SFP+",
+    "maxSpeedGbps": 5,
+    "managed": true,
+    "rackMountable": false,
+    "wifiDetails": "Integrated 2x2 802.11ax (Wi-Fi 6)",
+    "firewallThroughputGbps": 3.5
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-SONICWALL-TZ580",
+   "slug": "sonicwall-tz580-gen-8-firewall",
+   "name": "SonicWall TZ580 Gen 8 Next-Generation Firewall",
+   "brand": "SonicWall",
+   "category": "firewalls",
+   "price": "2300.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    22,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "small-business",
+    "security-lab"
+   ],
+   "summary": "Gen 8 desktop NGFW with 8x 1GbE and 2x 10G SFP+ ports, 4.5 Gbps firewall and 2.2 Gbps threat prevention throughput.",
+   "description": "The TZ580 is a Gen 8 SonicWall firewall for mid-sized branches. The datasheet lists eight 1GbE ports, two 10/5/2.5/1G SFP+ ports, optional storage up to 512 GB, 4.5 Gbps firewall inspection, 2.2 Gbps threat prevention and 2.5 Gbps IPS throughput, and support for up to 32 access points.",
+   "keywords": "sonicwall tz580 gen 8 10g sfp+ firewall branch",
+   "specs": {
+    "ports": "8x 1GbE RJ45, 2x 10/5/2.5/1G SFP+",
+    "maxSpeedGbps": 10,
+    "managed": true,
+    "rackMountable": false,
+    "firewallThroughputGbps": 4.5
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-RUCKUS-R670",
+   "slug": "ruckus-r670-wifi-7-indoor-access-point",
+   "name": "RUCKUS R670 Wi-Fi 7 Indoor Access Point",
+   "brand": "RUCKUS",
+   "category": "access-points",
+   "price": "1495.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    28,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "enterprise-lab",
+    "small-business"
+   ],
+   "summary": "Tri-band Wi-Fi 7 indoor AP with 6 spatial streams, 9.34 Gbps combined data rate, a 5 Gbps Ethernet port and built-in BLE/Zigbee IoT radio.",
+   "description": "The RUCKUS R670 is a high-performance tri-band concurrent Wi-Fi 7 access point delivering six spatial streams (2x2:2 on 2.4, 5 and 6 GHz, or 2x2 2.4 GHz plus 4x4 5 GHz in dual-band mode) for a combined 9.34 Gbps. It has a 5 Gbps Ethernet uplink, an onboard BLE or Zigbee IoT radio and a USB port for other wireless technologies.",
+   "keywords": "ruckus r670 wifi 7 802.11be tri-band access point 6ghz iot",
+   "specs": {
+    "ports": "1x 5GbE RJ45 (PoE in), USB",
+    "maxSpeedGbps": 5,
+    "managed": true,
+    "rackMountable": false,
+    "wifiStandard": "Wi-Fi 7",
+    "wifiDetails": "Wi-Fi 7 (802.11be) tri-band 2.4/5/6 GHz, 2x2:2, 9.34 Gbps combined"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-RUCKUS-R575",
+   "slug": "ruckus-r575-wifi-7-indoor-access-point",
+   "name": "RUCKUS R575 Wi-Fi 7 Indoor Access Point",
+   "brand": "RUCKUS",
+   "category": "access-points",
+   "price": "1095.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    42,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "small-business"
+   ],
+   "summary": "Mid-tier tri-band Wi-Fi 7 ceiling AP with 6 spatial streams, 9.3 Gbps combined rate and dual 2.5 GbE uplinks that can be aggregated.",
+   "description": "The RUCKUS R575 is a ceiling-mounted tri-band concurrent Wi-Fi 7 AP delivering six spatial streams (2x2:2 across 2.4, 5 and 6 GHz) with MLO, preamble puncturing and 4K QAM for up to 9.3 Gbps combined. Dual 2.5 Gbps Ethernet uplinks can be link-aggregated to 5 Gbps, and maximum power draw stays within 802.3at PoE.",
+   "keywords": "ruckus r575 wifi 7 tri-band access point dual 2.5g lag",
+   "specs": {
+    "ports": "2x 2.5GbE RJ45 (LAG capable)",
+    "maxSpeedGbps": 2.5,
+    "managed": true,
+    "rackMountable": false,
+    "wifiStandard": "Wi-Fi 7",
+    "wifiDetails": "Wi-Fi 7 (802.11be) tri-band 2.4/5/6 GHz, 2x2:2, 9.3 Gbps combined"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-RUCKUS-R370",
+   "slug": "ruckus-r370-wifi-7-indoor-access-point",
+   "name": "RUCKUS R370 Wi-Fi 7 Indoor Access Point",
+   "brand": "RUCKUS",
+   "category": "access-points",
+   "price": "595.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    27,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "small-business",
+    "homelab-essentials"
+   ],
+   "summary": "Entry-level dual-band Wi-Fi 7 indoor AP with 2x2:2 radios, 3.57 Gbps max rate and a 2.5 GbE uplink.",
+   "description": "The RUCKUS R370 is a compact, IoT-ready dual-band Wi-Fi 7 (802.11be) access point for low- to medium-density sites such as small offices and hotel rooms. It offers 2x2:2 radios with a maximum rate of 3.57 Gbps, one 2.5 GbE Ethernet port and RUCKUS interference-mitigation technologies.",
+   "keywords": "ruckus r370 wifi 7 entry dual-band access point 2.5g",
+   "specs": {
+    "ports": "1x 2.5GbE RJ45 (PoE in)",
+    "maxSpeedGbps": 2.5,
+    "managed": true,
+    "rackMountable": false,
+    "wifiStandard": "Wi-Fi 7",
+    "wifiDetails": "Wi-Fi 7 (802.11be) dual-band, 2x2:2, 3.57 Gbps max"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-RUCKUS-T670",
+   "slug": "ruckus-t670-wifi-7-outdoor-access-point",
+   "name": "RUCKUS T670 Wi-Fi 7 Outdoor Access Point",
+   "brand": "RUCKUS",
+   "category": "access-points",
+   "price": "2695.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    12,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "enterprise-lab"
+   ],
+   "summary": "Ruggedized tri-band Wi-Fi 7 outdoor AP with BeamFlex antennas, 9.3 Gbps max rate, a 5 GbE and a 1 GbE port.",
+   "description": "The RUCKUS T670 is a high-density tri-band Wi-Fi 7 outdoor access point built for stadiums, public venues and smart cities. It uses RUCKUS BeamFlex smart directional antennas and RUCKUS AI assurance, delivers up to 9.3 Gbps and provides one 1/2.5/5 GbE and one 1 GbE Ethernet port.",
+   "keywords": "ruckus t670 outdoor wifi 7 access point beamflex stadium",
+   "specs": {
+    "ports": "1x 1/2.5/5GbE RJ45, 1x 1GbE RJ45",
+    "maxSpeedGbps": 5,
+    "managed": true,
+    "rackMountable": false,
+    "wifiStandard": "Wi-Fi 7",
+    "wifiDetails": "Wi-Fi 7 (802.11be) tri-band outdoor, 2x2:2, 9.3 Gbps max"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-RUCKUS-H670",
+   "slug": "ruckus-h670-wifi-7-wall-plate-access-point",
+   "name": "RUCKUS H670 Wi-Fi 7 Wall-Mount Access Point",
+   "brand": "RUCKUS",
+   "category": "access-points",
+   "price": "895.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    31,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "small-business"
+   ],
+   "summary": "Wall-mounted tri-band Wi-Fi 7 AP with 9.34 Gbps combined rate, a 5 GbE uplink and four 2.5 GbE ports (two PoE out).",
+   "description": "The RUCKUS H670 is a wall-mounted tri-band concurrent Wi-Fi 7 AP for hotel rooms, apartments and meeting rooms. It delivers six spatial streams with MLO, 4K QAM and 320 MHz channels for up to 9.34 Gbps, and adds a 5 Gbps uplink plus four 2.5 Gbps ports (two PoE-enabled) to power in-room phones, cameras and IoT devices.",
+   "keywords": "ruckus h670 wifi 7 wall plate in-room access point 2.5g poe",
+   "specs": {
+    "ports": "1x 5GbE uplink, 4x 2.5GbE (2 PoE out)",
+    "maxSpeedGbps": 5,
+    "managed": true,
+    "rackMountable": false,
+    "wifiStandard": "Wi-Fi 7",
+    "wifiDetails": "Wi-Fi 7 (802.11be) tri-band 2.4/5/6 GHz, 2x2:2, 9.34 Gbps combined"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-RUCKUS-ICX8200-48PF",
+   "slug": "ruckus-icx-8200-48pf",
+   "name": "RUCKUS ICX 8200-48PF PoE+ Switch",
+   "brand": "RUCKUS",
+   "category": "switches",
+   "price": "5500.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    5,
+    3
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "small-business",
+    "enterprise-lab"
+   ],
+   "summary": "Stackable 48-port 1GbE PoE+ access switch with a 740 W PoE budget, four 25GbE-capable SFP28 ports and 296 Gb/s switching capacity.",
+   "description": "The ICX 8200-48PF is an entry-level-plus enterprise stackable access switch in RUCKUS's ICX 8200 series. RUCKUS lists 48 1GbE RJ45 PoE/PoE+ ports, four uplink ports supporting 1G SFP, 10G SFP+ and 25G SFP28 optics, a 740 W PoE budget, 296 Gb/s switching capacity, Layer 3 (static, RIP, OSPF), VXLAN and stacking of up to 12 switches.",
+   "keywords": "ruckus icx 8200-48pf poe+ stackable switch sfp28 layer 3",
+   "specs": {
+    "ports": "48x 1GbE RJ45 PoE+, 4x 1/10/25G SFP28",
+    "maxSpeedGbps": 25,
+    "managed": true,
+    "rackMountable": true,
+    "poe": 740,
+    "switchingCapacityGbps": 296
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-RUCKUS-ICX7550-48ZP",
+   "slug": "ruckus-icx-7550-48zp",
+   "name": "RUCKUS ICX 7550-48ZP Multigigabit PoE Switch",
+   "brand": "RUCKUS",
+   "category": "switches",
+   "price": "14500.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    7,
+    3
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "enterprise-lab"
+   ],
+   "summary": "Stackable multigigabit access/aggregation switch with 36x 2.5GbE and 12x 10GbE 90 W PoE ports, 100GbE uplinks and 1,020 Gb/s switching capacity.",
+   "description": "The ICX 7550-48ZP is a mid-range stackable RUCKUS switch for Wi-Fi 7 access. It provides 36 1/2.5 GbE and 12 1/2.5/5/10 GbE RJ45 ports with 802.3bt (90 W) PoE, uplink options up to 100 GbE QSFP28, 1,020 Gb/s switching capacity, MACsec, BGP, VXLAN, hot-swap power supplies and fans, and stacks of up to 12 switches.",
+   "keywords": "ruckus icx 7550-48zp multigig 90w poe 100g stackable switch",
+   "specs": {
+    "ports": "36x 1/2.5GbE + 12x 1/2.5/5/10GbE RJ45 PoE++, uplinks up to 100G QSFP28",
+    "maxSpeedGbps": 100,
+    "managed": true,
+    "rackMountable": true,
+    "poe": 2000,
+    "switchingCapacityGbps": 1020
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-EXTREME-AP5020",
+   "slug": "extreme-networks-ap5020-wifi-7-access-point",
+   "name": "Extreme Networks AP5020 Wi-Fi 7 Access Point",
+   "brand": "Extreme Networks",
+   "category": "access-points",
+   "price": "1995.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    33,
+    5
+   ],
+   "featured": true,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "enterprise-lab"
+   ],
+   "summary": "Premium Wi-Fi 7 indoor AP with three 4x4:4 radios (up to 20 Gbps aggregate), dual IoT radios and 10GbE + 5GbE Ethernet ports.",
+   "description": "The AP5020 is Extreme's premium-tier Wi-Fi 7 access point built on its Universal hardware platform and managed by Extreme Platform ONE or ExtremeCloud IQ. Three 4x4:4 radios on 2.4, 5 and 6 GHz deliver up to 20 Gbps aggregate 802.11be data rates, and it adds dual IoT radios (Thread, Zigbee, BLE 5.4). Ports are one 100M-10G Ethernet (PoE in) and one 100M-5G Ethernet port that can supply 15.4 W PoE out when powered by 802.3bt.",
+   "keywords": "extreme networks ap5020 wifi 7 4x4 universal access point 10g",
+   "specs": {
+    "ports": "1x 100M-10G RJ45 (PoE in), 1x 100M-5G RJ45 (PoE in/out)",
+    "maxSpeedGbps": 10,
+    "managed": true,
+    "rackMountable": false,
+    "wifiStandard": "Wi-Fi 7",
+    "wifiDetails": "Wi-Fi 7 (802.11be) tri-radio 2.4/5/6 GHz, 4x4:4, up to 20 Gbps aggregate"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-EXTREME-AP4020",
+   "slug": "extreme-networks-ap4020-wifi-7-access-point",
+   "name": "Extreme Networks AP4020 Wi-Fi 7 Access Point",
+   "brand": "Extreme Networks",
+   "category": "access-points",
+   "price": "1095.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    12,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "small-business",
+    "enterprise-lab"
+   ],
+   "summary": "Quad-radio Wi-Fi 7 indoor AP with 2x2:2 radios on 2.4/5/6 GHz, a tri-band sensor, dual IoT radios and 5GbE + 2.5GbE ports.",
+   "description": "The AP4020 series is Extreme's mainstream Wi-Fi 7 indoor access point. Its quad-radio design provides 2x2:2 radios on 2.4, 5 and 6 GHz (or dual 5 GHz) plus a dedicated tri-band sensor and two IoT radios for BLE, Zigbee and Thread. It has a 100M-5G Ethernet port and a 100M-2.5G Ethernet port and is managed by Extreme Platform ONE or ExtremeCloud IQ.",
+   "keywords": "extreme networks ap4020 wifi 7 access point 6ghz universal",
+   "specs": {
+    "ports": "1x 100M-5G RJ45 (PoE in), 1x 100M-2.5G RJ45",
+    "maxSpeedGbps": 5,
+    "managed": true,
+    "rackMountable": false,
+    "wifiStandard": "Wi-Fi 7",
+    "wifiDetails": "Wi-Fi 7 (802.11be) 2.4/5/6 GHz, 2x2:2, plus tri-band sensor"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-CISCO-C9350-48TX",
+   "slug": "cisco-c9350-48tx-smart-switch",
+   "name": "Cisco C9350-48TX Smart Switch",
+   "brand": "Cisco",
+   "category": "switches",
+   "price": "22000.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    4,
+    2
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "enterprise-lab"
+   ],
+   "summary": "Data-only campus smart switch with 48x 10G multigigabit ports, modular uplinks up to 400G and 1.76 Tbps switching capacity.",
+   "description": "The C9350-48TX is the non-PoE multigigabit member of Cisco's C9350 Series Smart Switches. Powered by dual Silicon One A100 ASICs, it offers 48 downlinks from 10 Mbps to 10 Gbps, StackWise-1.6T stacking of up to eight switches, and modular uplinks up to 400G. Cisco lists 1760 Gbps switching capacity.",
+   "keywords": "cisco c9350-48tx catalyst smart switch 10g mgig data only silicon one",
+   "specs": {
+    "ports": "48x 100M-10G mGig RJ45, modular uplink slot (up to 400G)",
+    "maxSpeedGbps": 10,
+    "managed": true,
+    "rackMountable": true,
+    "switchingCapacityGbps": 1760
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-CISCO-N9K-9348GC-FX3",
+   "slug": "cisco-nexus-9348gc-fx3",
+   "name": "Cisco Nexus 9348GC-FX3 Management Switch",
+   "brand": "Cisco",
+   "category": "switches",
+   "price": "9500.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    17,
+    3
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "enterprise-lab",
+    "homelab-essentials"
+   ],
+   "summary": "1RU data-center switch with 48x 10M/100M/1GBASE-T, 4x 1/10/25G SFP28 and 2x 40/100G QSFP28 ports, 696 Gbps.",
+   "description": "The Nexus 9348GC-FX3 is the 1GBASE-T member of Cisco's N9300-FX3 family, typically used for out-of-band management and 1G server access. It has 48 10M/100M/1G copper downlinks, four 1/10/25G SFP28 and two 40/100G QSFP28 ports, and Cisco rates it at 696 Gbps and over 517 Mpps.",
+   "keywords": "cisco nexus 9348gc-fx3 1g management switch sfp28 qsfp28",
+   "specs": {
+    "ports": "48x 10M/100M/1G RJ45, 4x 1/10/25G SFP28, 2x 40/100G QSFP28",
+    "maxSpeedGbps": 100,
+    "managed": true,
+    "rackMountable": true,
+    "switchingCapacityGbps": 696
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-CISCO-SFW-3110",
+   "slug": "cisco-secure-firewall-3110",
+   "name": "Cisco Secure Firewall 3110",
+   "brand": "Cisco",
+   "category": "firewalls",
+   "price": "42000.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    4,
+    2
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "security-lab",
+    "enterprise-lab"
+   ],
+   "summary": "1RU enterprise NGFW with 8x RJ45 and 8x 1/10G SFP+ ports, a network-module slot, and 17 Gbps FW+AVC+IPS throughput.",
+   "description": "The Secure Firewall 3110 is part of Cisco's 3100 Series for enterprise internet edge and data center. Cisco's datasheet lists eight RJ45 and eight 1/10G SFP+ ports plus a network-module slot, 17 Gbps firewall + AVC and firewall + AVC + IPS throughput (1024B), 2 million concurrent sessions and 4.8 Gbps TLS inspection. It runs Firewall Threat Defense or ASA software.",
+   "keywords": "cisco secure firewall 3110 ftd asa ngfw 10g enterprise",
+   "specs": {
+    "ports": "8x RJ45, 8x 1/10G SFP+, 1x network module slot",
+    "maxSpeedGbps": 10,
+    "managed": true,
+    "rackMountable": true,
+    "firewallThroughputGbps": 17
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-SONICWALL-NSA2800",
+   "slug": "sonicwall-nsa-2800-gen-8-firewall",
+   "name": "SonicWall NSa 2800 Gen 8 Next-Generation Firewall",
+   "brand": "SonicWall",
+   "category": "firewalls",
+   "price": "5200.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    12,
+    3
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "small-business",
+    "security-lab"
+   ],
+   "summary": "1U Gen 8 mid-range NGFW with 16x 1GbE and 3x 10G SFP+ ports, 8 Gbps firewall and 6 Gbps threat prevention throughput.",
+   "description": "The NSa 2800 is the entry model of SonicWall's Gen 8 NSa series running SonicOS 8. The datasheet lists sixteen 1GbE ports, three 10/5/2.5/1G SFP/SFP+ ports, 128 GB storage (up to 512 GB), 8 Gbps firewall inspection and 6 Gbps threat prevention throughput, in a 1U rack-mount chassis with dual PSU support.",
+   "keywords": "sonicwall nsa 2800 gen 8 ngfw 1u rack firewall",
+   "specs": {
+    "ports": "16x 1GbE RJ45, 3x 10/5/2.5/1G SFP/SFP+",
+    "maxSpeedGbps": 10,
+    "managed": true,
+    "rackMountable": true,
+    "firewallThroughputGbps": 8
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-SONICWALL-NSA3800",
+   "slug": "sonicwall-nsa-3800-gen-8-firewall",
+   "name": "SonicWall NSa 3800 Gen 8 Next-Generation Firewall",
+   "brand": "SonicWall",
+   "category": "firewalls",
+   "price": "9500.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    7,
+    3
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "security-lab"
+   ],
+   "summary": "1U Gen 8 NGFW with 24x 1GbE and 10x 10G SFP+ ports, 12 Gbps firewall and 8 Gbps threat prevention throughput.",
+   "description": "The NSa 3800 is a Gen 8 SonicWall mid-range firewall with twenty-four 1GbE ports, ten 10/5/2.5/1G SFP/SFP+ ports and 256 GB storage (expandable to 512 GB). SonicWall lists 12 Gbps firewall inspection and 8 Gbps threat prevention throughput, up to 512 managed access points and dual PSU support in 1U.",
+   "keywords": "sonicwall nsa 3800 gen 8 ngfw 10g sfp+ rack firewall",
+   "specs": {
+    "ports": "24x 1GbE RJ45, 10x 10/5/2.5/1G SFP/SFP+",
+    "maxSpeedGbps": 10,
+    "managed": true,
+    "rackMountable": true,
+    "firewallThroughputGbps": 12
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-RUCKUS-ICX7850-32Q",
+   "slug": "ruckus-icx-7850-32q",
+   "name": "RUCKUS ICX 7850-32Q 100GbE Aggregation Switch",
+   "brand": "RUCKUS",
+   "category": "switches",
+   "price": "32000.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    5,
+    2
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "enterprise-lab"
+   ],
+   "summary": "Stackable 1U aggregation/core switch with 32x 40/100GbE QSFP28 ports (breakout to 10/25GbE) and 6.4 Tbps switching capacity.",
+   "description": "The ICX 7850-32Q is RUCKUS's high-end campus aggregation and core switch. RUCKUS lists 32 100 GbE QSFP28 ports (also 40 GbE, or up to 128 10/25 GbE via breakout), 6,400 Gb/s switching capacity, stacking of up to 12 units with 9,600 Gb/s stack bandwidth, BGP, VXLAN, Multi-Chassis Trunking and hot-swap power supplies and fans with reversible airflow.",
+   "keywords": "ruckus icx 7850-32q 100g qsfp28 aggregation core switch",
+   "specs": {
+    "ports": "32x 40/100GbE QSFP28 (breakout to 10/25GbE)",
+    "maxSpeedGbps": 100,
+    "managed": true,
+    "rackMountable": true,
+    "switchingCapacityGbps": 6400
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-RUCKUS-ICX8200-24P",
+   "slug": "ruckus-icx-8200-24p",
+   "name": "RUCKUS ICX 8200-24P PoE+ Switch",
+   "brand": "RUCKUS",
+   "category": "switches",
+   "price": "3200.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    5,
+    3
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "small-business"
+   ],
+   "summary": "Stackable 24-port 1GbE PoE+ access switch with a 370 W budget, four 25GbE-capable SFP28 ports and 248 Gb/s switching capacity.",
+   "description": "The ICX 8200-24P is a stackable Layer 3 access switch in the RUCKUS ICX 8200 series. It provides 24 1GbE RJ45 PoE/PoE+ ports, four uplink ports supporting 1G SFP, 10G SFP+ or 25G SFP28 optics, a 370 W PoE budget and 248 Gb/s switching capacity, with VXLAN and stacking of up to 12 switches.",
+   "keywords": "ruckus icx 8200-24p poe+ stackable access switch sfp28",
+   "specs": {
+    "ports": "24x 1GbE RJ45 PoE+, 4x 1/10/25G SFP28",
+    "maxSpeedGbps": 25,
+    "managed": true,
+    "rackMountable": true,
+    "poe": 370,
+    "switchingCapacityGbps": 248
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-RUCKUS-ICX8100-24P",
+   "slug": "ruckus-icx-8100-24p",
+   "name": "RUCKUS ICX 8100-24P PoE+ Switch",
+   "brand": "RUCKUS",
+   "category": "switches",
+   "price": "1650.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    28,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "small-business",
+    "homelab-essentials"
+   ],
+   "summary": "Entry-level 24-port 1GbE PoE+ switch with a 370 W budget, four 1/10G SFP+ uplinks and 132 Gb/s switching capacity.",
+   "description": "The ICX 8100-24P is an entry-level RUCKUS access switch with 24 1GbE RJ45 PoE/PoE+ ports, four uplink ports supporting 1G SFP or 10G SFP+ optics, a 370 W PoE budget and 132 Gb/s switching capacity. It is managed via RUCKUS One or SmartZone and suits small branches and Wi-Fi deployments.",
+   "keywords": "ruckus icx 8100-24p poe+ switch 10g sfp+ small business",
+   "specs": {
+    "ports": "24x 1GbE RJ45 PoE+, 4x 1/10G SFP+",
+    "maxSpeedGbps": 10,
+    "managed": true,
+    "rackMountable": true,
+    "poe": 370,
+    "switchingCapacityGbps": 132
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-DELL-PS-S5232F-ON",
+   "slug": "dell-powerswitch-s5232f-on",
+   "name": "Dell PowerSwitch S5232F-ON 100GbE Switch",
+   "brand": "Dell",
+   "category": "switches",
+   "price": "22000.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    5,
+    2
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "enterprise-lab",
+    "homelab-essentials"
+   ],
+   "summary": "1RU 32-port 100GbE multi-rate spine/leaf open-networking switch with full L2/L3 switching and routing.",
+   "description": "The PowerSwitch S5232F-ON is a 1RU, 32-port 100GbE multi-rate spine/leaf switch in Dell's S5200-ON family. Dell lists full Layer 2/Layer 3 switching and routing, QoS, multicast, a 4.8 Bpps forwarding rate and open-networking (ONIE) support for SmartFabric OS10 or other network operating systems.",
+   "keywords": "dell powerswitch s5232f-on 100gbe qsfp28 spine leaf open networking",
+   "specs": {
+    "ports": "32x 100GbE multi-rate",
+    "maxSpeedGbps": 100,
+    "managed": true,
+    "rackMountable": true
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-CISCO-MX68",
+   "slug": "cisco-meraki-mx68-security-sd-wan-appliance",
+   "name": "Cisco Meraki MX68 Security & SD-WAN Appliance",
+   "brand": "Cisco",
+   "category": "firewalls",
+   "price": "900.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    38,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "small-business"
+   ],
+   "summary": "Desktop security/SD-WAN appliance for up to 50 users with 2x GbE WAN, 10x GbE LAN (two PoE+) and 700 Mbps firewall throughput.",
+   "description": "The Meraki MX68 is a small-branch cloud-managed security and SD-WAN appliance. Cisco lists two GbE WAN ports, ten GbE LAN ports (two with PoE+), 700 Mbps firewall and 300 Mbps site-to-site VPN throughput, sized for up to 50 users.",
+   "keywords": "cisco meraki mx68 sd-wan firewall poe+ small branch",
+   "specs": {
+    "ports": "2x GbE WAN, 10x GbE LAN (2 PoE+)",
+    "maxSpeedGbps": 1,
+    "managed": true,
+    "rackMountable": false,
+    "firewallThroughputGbps": 0.7
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-CISCO-MX105",
+   "slug": "cisco-meraki-mx105-security-sd-wan-appliance",
+   "name": "Cisco Meraki MX105 Security & SD-WAN Appliance",
+   "brand": "Cisco",
+   "category": "firewalls",
+   "price": "9000.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    6,
+    3
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "small-business",
+    "enterprise-lab"
+   ],
+   "summary": "Rack-mount SD-WAN security appliance for up to 750 users with 10G SFP+ and 2.5G WAN ports and 3 Gbps firewall throughput.",
+   "description": "The Meraki MX105 is a large-branch security and SD-WAN appliance. Cisco lists two 10 GbE SFP+ and two 2.5 GbE RJ45 WAN ports (one PoE), four GbE RJ45 and two 10 GbE SFP+ LAN ports, 3 Gbps firewall and 1 Gbps site-to-site VPN throughput, for up to 750 users.",
+   "keywords": "cisco meraki mx105 sd-wan firewall 10g large branch",
+   "specs": {
+    "ports": "2x 10G SFP+ + 2x 2.5G RJ45 WAN, 4x GbE RJ45 + 2x 10G SFP+ LAN",
+    "maxSpeedGbps": 10,
+    "managed": true,
+    "rackMountable": true,
+    "firewallThroughputGbps": 3
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-CISCO-MX250",
+   "slug": "cisco-meraki-mx250-security-sd-wan-appliance",
+   "name": "Cisco Meraki MX250 Security & SD-WAN Appliance",
+   "brand": "Cisco",
+   "category": "firewalls",
+   "price": "22000.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    7,
+    2
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "enterprise-lab"
+   ],
+   "summary": "Campus/data-center SD-WAN security appliance for up to 2,000 users with 10G SFP+ WAN and 4 Gbps firewall throughput.",
+   "description": "The Meraki MX250 is aimed at large branches, campuses and data centers. Cisco lists two 10 GbE SFP+ WAN ports and eight GbE RJ45, eight GbE SFP and eight 10 GbE SFP+ LAN ports, with 4 Gbps firewall and 1 Gbps site-to-site VPN throughput, for up to 2,000 users.",
+   "keywords": "cisco meraki mx250 sd-wan concentrator firewall campus",
+   "specs": {
+    "ports": "2x 10G SFP+ WAN, 8x GbE RJ45 + 8x GbE SFP + 8x 10G SFP+ LAN",
+    "maxSpeedGbps": 10,
+    "managed": true,
+    "rackMountable": true,
+    "firewallThroughputGbps": 4
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-CISCO-MS130-12X",
+   "slug": "cisco-meraki-ms130-12x",
+   "name": "Cisco Meraki MS130-12X Multigigabit PoE+ Switch",
+   "brand": "Cisco",
+   "category": "switches",
+   "price": "1900.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    23,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "small-business",
+    "homelab-essentials"
+   ],
+   "summary": "Compact cloud-managed mGig switch with 8x GbE + 4x 2.5GbE PoE+ ports (240 W) and 2x 10G SFP+ uplinks.",
+   "description": "The Meraki MS130-12X is a cost-effective multigigabit switch for Wi-Fi 6/6E branch deployments. It has eight GbE ports and four 2.5 GbE mGig ports with a 240 W PoE+ budget, two 10 GbE SFP+ uplinks, and is hardware-ready for Adaptive Policy.",
+   "keywords": "cisco meraki ms130-12x mgig 2.5g poe+ compact switch",
+   "specs": {
+    "ports": "8x GbE + 4x 2.5GbE RJ45 PoE+, 2x 10G SFP+",
+    "maxSpeedGbps": 10,
+    "managed": true,
+    "rackMountable": false,
+    "poe": 240
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-PAN-PA-7500",
+   "slug": "palo-alto-networks-pa-7500",
+   "name": "Palo Alto Networks PA-7500 Chassis Next-Generation Firewall",
+   "brand": "Palo Alto Networks",
+   "category": "firewalls",
+   "price": "450000.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    4,
+    2
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "security-lab",
+    "enterprise-servers"
+   ],
+   "summary": "Nine-slot chassis NGFW scaling to 1.5 Tbps firewall (appmix) and 1.44 Tbps threat prevention, with 400G QSFP-DD ports on each network card.",
+   "description": "The PA-7500 is Palo Alto Networks' flagship chassis firewall for service-provider cores, hyperscale data centers and AI data center interconnect. Its nine slots take network, data and management processing cards; each network processing card provides eight 400/100/40G QSFP-DD and twelve 100/25/10G SFP-DD ports. A fully loaded system is rated at 1,500 Gbps firewall and 1,440 Gbps threat prevention throughput (appmix), with each data processing card adding 310 Gbps firewall throughput.",
+   "keywords": "palo alto pa-7500 chassis ngfw 400g qsfp-dd data center service provider",
+   "specs": {
+    "ports": "Per NPC: 8x 400G QSFP-DD, 12x 100G SFP-DD (9 slots)",
+    "maxSpeedGbps": 400,
+    "managed": true,
+    "rackMountable": true,
+    "firewallThroughputGbps": 1500
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-CISCO-N9K-93108TC-FX3P",
+   "slug": "cisco-nexus-93108tc-fx3p",
+   "name": "Cisco Nexus 93108TC-FX3P Multigigabit PoE Switch",
+   "brand": "Cisco",
+   "category": "switches",
+   "price": "23000.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    3,
+    2
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "enterprise-lab"
+   ],
+   "summary": "1RU data-center switch with 48x 100M/1/2.5/5/10GBASE-T ports with PoE and 6x 40/100G QSFP28 uplinks, 2.16 Tbps.",
+   "description": "The Nexus 93108TC-FX3P is a compact 1RU N9300-FX3 switch with 48 100M/1/2.5/5/10 Gbps BASE-T downlinks that support Power over Ethernet, plus six 40/100G QSFP28 uplinks. Cisco rates it at 2.16 Tbps and 1.2 Bpps, and it runs NX-OS or ACI.",
+   "keywords": "cisco nexus 93108tc-fx3p multigig poe 10gbase-t data center switch",
+   "specs": {
+    "ports": "48x 100M/1/2.5/5/10GBASE-T (PoE), 6x 40/100G QSFP28",
+    "maxSpeedGbps": 100,
+    "managed": true,
+    "rackMountable": true,
+    "switchingCapacityGbps": 2160
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-CISCO-C9350-48HXN",
+   "slug": "cisco-c9350-48hxn-smart-switch",
+   "name": "Cisco C9350-48HXN Smart Switch",
+   "brand": "Cisco",
+   "category": "switches",
+   "price": "21000.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    4,
+    2
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "enterprise-lab"
+   ],
+   "summary": "Campus smart switch with 36x 5G and 12x 10G multigigabit UPOE+ (90 W) ports, uplinks up to 200G and 1 Tbps switching capacity.",
+   "description": "The C9350-48HXN is a single-ASIC C9350 Series Smart Switch for Wi-Fi 7 access layers. It has 36 downlinks up to 5 Gbps and 12 up to 10 Gbps, all with 90 W UPOE+ (4320 W total with maximum power supplies), StackWise-1.6T stacking and modular uplinks up to 200G. Cisco lists 1000 Gbps switching capacity.",
+   "keywords": "cisco c9350-48hxn smart switch mgig upoe+ wifi 7",
+   "specs": {
+    "ports": "36x 100M-5G + 12x 100M-10G mGig RJ45 UPOE+, modular uplink slot (up to 200G)",
+    "maxSpeedGbps": 10,
+    "managed": true,
+    "rackMountable": true,
+    "poe": 470,
+    "switchingCapacityGbps": 1000
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-RUCKUS-ICX7550-24ZP",
+   "slug": "ruckus-icx-7550-24zp",
+   "name": "RUCKUS ICX 7550-24ZP Multigigabit PoE Switch",
+   "brand": "RUCKUS",
+   "category": "switches",
+   "price": "9500.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    5,
+    3
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "enterprise-lab"
+   ],
+   "summary": "Stackable 24-port multigigabit switch with 12x 2.5GbE and 12x 10GbE 90 W PoE ports, 100GbE uplinks and 700 Gb/s switching capacity.",
+   "description": "The ICX 7550-24ZP is a mid-range stackable RUCKUS switch with 12 1/2.5 GbE and 12 1/2.5/5/10 GbE RJ45 ports supporting 802.3bt (90 W) PoE, uplink options up to 100 GbE QSFP28, 700 Gb/s switching capacity, MACsec, BGP, VXLAN and hot-swap power supplies and fans.",
+   "keywords": "ruckus icx 7550-24zp multigig 90w poe 100g stackable switch",
+   "specs": {
+    "ports": "12x 1/2.5GbE + 12x 1/2.5/5/10GbE RJ45 PoE++, uplinks up to 100G QSFP28",
+    "maxSpeedGbps": 100,
+    "managed": true,
+    "rackMountable": true,
+    "poe": 2000,
+    "switchingCapacityGbps": 700
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-RUCKUS-R550",
+   "slug": "ruckus-r550-wifi-6-indoor-access-point",
+   "name": "RUCKUS R550 Wi-Fi 6 Indoor Access Point",
+   "brand": "RUCKUS",
+   "category": "access-points",
+   "price": "695.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    11,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "small-business",
+    "homelab-essentials"
+   ],
+   "summary": "Mid-range dual-band Wi-Fi 6 AP with 2x2:2 radios, up to 1,774 Mbps, BeamFlex+ antennas, embedded IoT and two GbE ports.",
+   "description": "The RUCKUS R550 is a mid-range dual-band, dual-concurrent Wi-Fi 6 (802.11ax) access point with four spatial streams (2x2:2 on 2.4 and 5 GHz), peak data rates up to 1,774 Mbps and up to 512 client connections. It uses patented BeamFlex+ adaptive antennas, has embedded IoT and two 1 GbE Ethernet ports.",
+   "keywords": "ruckus r550 wifi 6 access point beamflex classroom office",
+   "specs": {
+    "ports": "2x 1GbE RJ45",
+    "maxSpeedGbps": 1,
+    "managed": true,
+    "rackMountable": false,
+    "wifiStandard": "Wi-Fi 6",
+    "wifiDetails": "Wi-Fi 6 (802.11ax) dual-band, 2x2:2, up to 1,774 Mbps"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-SONICWALL-NSA4800",
+   "slug": "sonicwall-nsa-4800-gen-8-firewall",
+   "name": "SonicWall NSa 4800 Gen 8 Next-Generation Firewall",
+   "brand": "SonicWall",
+   "category": "firewalls",
+   "price": "16500.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    10,
+    3
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "security-lab",
+    "enterprise-lab"
+   ],
+   "summary": "1U Gen 8 NGFW with 24x 1GbE and 8x 10G SFP+ ports, 20 Gbps firewall and 13 Gbps threat prevention throughput.",
+   "description": "The NSa 4800 is a Gen 8 SonicWall mid-range firewall running SonicOS 8, with twenty-four 1GbE ports, eight 10/5/2.5/1G SFP/SFP+ ports and 256 GB storage (expandable to 1 TB). SonicWall lists 20 Gbps firewall inspection and 13 Gbps threat prevention throughput in a 1U rack-mount chassis with dual PSU support.",
+   "keywords": "sonicwall nsa 4800 gen 8 ngfw 10g rack firewall",
+   "specs": {
+    "ports": "24x 1GbE RJ45, 8x 10/5/2.5/1G SFP/SFP+",
+    "maxSpeedGbps": 10,
+    "managed": true,
+    "rackMountable": true,
+    "firewallThroughputGbps": 20
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-EXTREME-AP5010",
+   "slug": "extreme-networks-ap5010-wifi-6e-access-point",
+   "name": "Extreme Networks AP5010 Wi-Fi 6E Access Point",
+   "brand": "Extreme Networks",
+   "category": "access-points",
+   "price": "1395.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    26,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "enterprise-lab"
+   ],
+   "summary": "Tri-radio Wi-Fi 6E indoor AP with three 4x4:4 radios (up to 10 Gbps aggregate), a 5GbE PoE uplink and a 2.5GbE port.",
+   "description": "The AP5010 is an Extreme Universal, world-SKU Wi-Fi 6E access point for high-density venues. Three 4x4:4 radios on 2.4, 5 and 6 GHz deliver up to 10 Gbps aggregate 802.11ax data rates, and it has a 100M-5G Ethernet port (PoE in) and a 100M-2.5G port that can supply 15.4 W PoE out when powered by 802.3bt.",
+   "keywords": "extreme networks ap5010 wifi 6e 4x4 universal access point",
+   "specs": {
+    "ports": "1x 100M-5G RJ45 (PoE in), 1x 100M-2.5G RJ45 (PoE out)",
+    "maxSpeedGbps": 5,
+    "managed": true,
+    "rackMountable": false,
+    "wifiStandard": "Wi-Fi 6E",
+    "wifiDetails": "Wi-Fi 6E (802.11ax) tri-radio 2.4/5/6 GHz, 4x4:4, up to 10 Gbps aggregate"
+   },
+   "options": []
+  }
+ ]
+}

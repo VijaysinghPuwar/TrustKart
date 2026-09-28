@@ -1,0 +1,1374 @@
+{
+ "products": [
+  {
+   "sku": "TK-UBNT-UDM-BEAST",
+   "slug": "ubiquiti-unifi-dream-machine-beast",
+   "name": "Ubiquiti UniFi Dream Machine Beast",
+   "brand": "Ubiquiti",
+   "category": "routers-gateways",
+   "price": "1499.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    10,
+    5
+   ],
+   "featured": true,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "enterprise-lab",
+    "networking-lab",
+    "small-business"
+   ],
+   "summary": "1U hyperscale UniFi Cloud Gateway with 25 Gbps IDS/IPS, 7,500+ client capacity and the full UniFi application suite.",
+   "description": "The Dream Machine Beast is Ubiquiti's largest Dream Machine: a 1U rack-mount Cloud Gateway rated for 25 Gbps IDS/IPS throughput, 750+ managed UniFi devices and 7,500+ simultaneous clients. It has eight 10 GbE RJ45, two 10G SFP+ and two 25G SFP28 ports, an octa-core ARM v9 CPU with 16 GB of memory, two 3.5-inch NVR bays and runs Network, Protect, Access, Talk and Connect.",
+   "keywords": "udm beast unifi cloud gateway 25g sfp28 ids ips nvr rack router",
+   "specs": {
+    "ports": "8x 10GbE RJ45, 2x 1GbE RJ45, 2x 10G SFP+, 2x 25G SFP28, console",
+    "maxSpeedGbps": 25,
+    "managed": true,
+    "rackMountable": true
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-UBNT-EF-CORE",
+   "slug": "ubiquiti-unifi-enterprise-firewall-core",
+   "name": "Ubiquiti UniFi Enterprise Firewall Core",
+   "brand": "Ubiquiti",
+   "category": "firewalls",
+   "price": "3499.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    10,
+    3
+   ],
+   "featured": true,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "enterprise-lab",
+    "security-lab"
+   ],
+   "summary": "Enterprise-class 100 Gbps UniFi Cloud Gateway with 79 Gbps IDS/IPS, 22,500+ clients and hot-swappable redundant PSUs.",
+   "description": "The Enterprise Firewall Core is a 1U UniFi gateway with four 100G QSFP28, four 25G SFP28 and eight 10 GbE RJ45 ports. Ubiquiti rates it for 79 Gbps IDS/IPS throughput, 10 million concurrent sessions, 120,000 new sessions per second and 22,500+ simultaneous users, powered by a 24-core ARM v9 CPU with 32 GB of memory and dual hot-swappable 550 W PSUs.",
+   "keywords": "efg ef-core enterprise fortress gateway 100g qsfp28 ids ips firewall unifi",
+   "specs": {
+    "ports": "4x 100G QSFP28, 4x 25G SFP28, 8x 10GbE RJ45, 2x 1GbE RJ45, MGMT, console",
+    "maxSpeedGbps": 100,
+    "managed": true,
+    "rackMountable": true,
+    "firewallThroughputGbps": 79
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-UBNT-UCG-FIBER",
+   "slug": "ubiquiti-unifi-cloud-gateway-fiber",
+   "name": "Ubiquiti UniFi Cloud Gateway Fiber",
+   "brand": "Ubiquiti",
+   "category": "routers-gateways",
+   "price": "279.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    50,
+    5
+   ],
+   "featured": true,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "homelab-essentials",
+    "networking-lab"
+   ],
+   "summary": "Desktop 10G UniFi Cloud Gateway with 10G SFP+ and 10 GbE WAN options, a 4-port 2.5 GbE switch and 5 Gbps IDS/IPS.",
+   "description": "Cloud Gateway Fiber is a compact desktop gateway with one 10 GbE RJ45 port, two 10G SFP+ ports and four 2.5 GbE ports. Ubiquiti rates it for 5 Gbps IDS/IPS routing, 50+ UniFi devices and 500+ clients, with a 30 W PoE budget and a selectable NVMe SSD (up to 2 TB) for UniFi Protect recordings.",
+   "keywords": "ucg fiber cloud gateway 10g sfp+ xgs-pon router homelab unifi",
+   "specs": {
+    "ports": "1x 10GbE RJ45, 2x 10G SFP+, 4x 2.5GbE RJ45",
+    "maxSpeedGbps": 10,
+    "managed": true,
+    "rackMountable": false
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-UBNT-UCG-MAX",
+   "slug": "ubiquiti-unifi-cloud-gateway-max",
+   "name": "Ubiquiti UniFi Cloud Gateway Max",
+   "brand": "Ubiquiti",
+   "category": "routers-gateways",
+   "price": "279.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    52,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "homelab-starter",
+    "small-business"
+   ],
+   "summary": "Compact 2.5G UniFi Cloud Gateway with five 2.5 GbE ports, 2.3 Gbps IPS routing and selectable NVMe NVR storage.",
+   "description": "Cloud Gateway Max is a compact desktop UniFi gateway with five 2.5 GbE RJ45 ports (up to four usable as WAN), 2.3 Gbps IDS/IPS routing, support for 30+ UniFi devices and 300+ clients, and a selectable NVMe SSD up to 2 TB for UniFi Protect. It is powered over USB-C.",
+   "keywords": "ucg max cloud gateway 2.5g router nvr unifi",
+   "specs": {
+    "ports": "5x 2.5GbE RJ45",
+    "maxSpeedGbps": 2.5,
+    "managed": true,
+    "rackMountable": false
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-UBNT-UCG-ULTRA",
+   "slug": "ubiquiti-unifi-cloud-gateway-ultra",
+   "name": "Ubiquiti UniFi Cloud Gateway Ultra",
+   "brand": "Ubiquiti",
+   "category": "routers-gateways",
+   "price": "129.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    32,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "homelab-starter"
+   ],
+   "summary": "Entry UniFi Cloud Gateway with a 2.5 GbE WAN, four GbE LAN ports, 1 Gbps IPS routing and multi-WAN load balancing.",
+   "description": "Cloud Gateway Ultra is Ubiquiti's most compact full UniFi console and gateway: one 2.5 GbE and four 1 GbE RJ45 ports, 1 Gbps IDS/IPS routing, support for 30+ UniFi devices and 300+ clients, and multi-WAN load balancing across up to four WAN ports, powered over USB-C.",
+   "keywords": "ucg ultra cloud gateway router unifi budget",
+   "specs": {
+    "ports": "1x 2.5GbE RJ45, 4x 1GbE RJ45",
+    "maxSpeedGbps": 2.5,
+    "managed": true,
+    "rackMountable": false
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-UBNT-UDR7",
+   "slug": "ubiquiti-unifi-dream-router-7",
+   "name": "Ubiquiti UniFi Dream Router 7",
+   "brand": "Ubiquiti",
+   "category": "routers-gateways",
+   "price": "279.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    31,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "homelab-starter",
+    "networking-lab"
+   ],
+   "summary": "Desktop 10G UniFi Cloud Gateway with tri-band Wi-Fi 7, a 10G SFP+ WAN, four 2.5 GbE ports (one PoE) and microSD NVR storage.",
+   "description": "Dream Router 7 combines a UniFi Cloud Gateway with a 2x2 tri-band Wi-Fi 7 access point (up to 5.7 Gbps on 6 GHz), one 10G SFP+ port and four 2.5 GbE ports with one PoE output. It is rated for 2.3 Gbps IDS/IPS routing, 30+ UniFi devices and 300+ clients, and ships with a 64 GB microSD card for UniFi Protect.",
+   "keywords": "udr7 dream router wifi 7 unifi 10g sfp+ home router",
+   "specs": {
+    "ports": "1x 10G SFP+, 4x 2.5GbE RJ45 (1 PoE)",
+    "maxSpeedGbps": 10,
+    "managed": true,
+    "rackMountable": false,
+    "wifiStandard": "Wi-Fi 7",
+    "wifiDetails": "Wi-Fi 7 (802.11be), tri-band 2.4/5/6 GHz"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-UBNT-UX7",
+   "slug": "ubiquiti-unifi-express-7",
+   "name": "Ubiquiti UniFi Express 7",
+   "brand": "Ubiquiti",
+   "category": "mesh-wifi",
+   "price": "199.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    11,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "homelab-starter"
+   ],
+   "summary": "Super-compact 10G UniFi Cloud Gateway with integrated Wi-Fi 7 (6 GHz), mesh-expandable into a whole-home Wi-Fi system.",
+   "description": "UniFi Express 7 is a compact Cloud Gateway with integrated 2x2 tri-band Wi-Fi 7 and a 10 GbE WAN port plus a 2.5 GbE LAN port. It is rated for 2.3 Gbps IDS/IPS routing and 300+ clients, and additional Express 7 units add mesh nodes; Ubiquiti sells single units and 2- and 3-packs.",
+   "keywords": "ux7 unifi express 7 mesh wifi 7 whole home 10g",
+   "specs": {
+    "ports": "1x 10GbE RJ45 WAN, 1x 2.5GbE RJ45",
+    "maxSpeedGbps": 10,
+    "managed": true,
+    "rackMountable": false,
+    "wifiStandard": "Wi-Fi 7",
+    "nodes": 1,
+    "wifiDetails": "Wi-Fi 7 (802.11be), tri-band 2.4/5/6 GHz"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-UBNT-USW-PROMAX-24POE",
+   "slug": "ubiquiti-unifi-switch-pro-max-24-poe",
+   "name": "Ubiquiti UniFi Switch Pro Max 24 PoE",
+   "brand": "Ubiquiti",
+   "category": "switches",
+   "price": "799.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    44,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "homelab-essentials",
+    "small-business",
+    "networking-lab"
+   ],
+   "summary": "24-port Layer 3 Etherlighting switch with eight 2.5 GbE PoE++ ports, two 10G SFP+ uplinks and a 400 W PoE budget.",
+   "description": "The Switch Pro Max 24 PoE is a 1U Layer 3 UniFi switch with sixteen 1 GbE and eight 2.5 GbE RJ45 ports, all PoE (8 PoE+ and 16 PoE++), plus two 10G SFP+ uplinks. It has a 400 W total PoE budget, 112 Gbps switching capacity, Etherlighting port LEDs and DC power backup support.",
+   "keywords": "usw pro max 24 poe etherlighting 2.5g poe++ layer 3 switch",
+   "specs": {
+    "ports": "16x 1GbE RJ45, 8x 2.5GbE RJ45, 2x 10G SFP+",
+    "maxSpeedGbps": 10,
+    "managed": true,
+    "rackMountable": true,
+    "poe": 400,
+    "switchingCapacityGbps": 112
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-UBNT-USW-PROMAX-48POE",
+   "slug": "ubiquiti-unifi-switch-pro-max-48-poe",
+   "name": "Ubiquiti UniFi Switch Pro Max 48 PoE",
+   "brand": "Ubiquiti",
+   "category": "switches",
+   "price": "1299.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    56,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "small-business",
+    "enterprise-lab"
+   ],
+   "summary": "48-port Layer 3 Etherlighting switch with sixteen 2.5 GbE ports, four 10G SFP+ uplinks and a 720 W PoE budget.",
+   "description": "The Switch Pro Max 48 PoE is a 1U Layer 3 UniFi switch with thirty-two 1 GbE and sixteen 2.5 GbE RJ45 ports (32 PoE+ and 16 PoE++) and four 10G SFP+ uplinks. It provides a 720 W PoE budget, 224 Gbps switching capacity, Etherlighting and DC power backup support.",
+   "keywords": "usw pro max 48 poe etherlighting 2.5g 720w layer 3 switch",
+   "specs": {
+    "ports": "32x 1GbE RJ45, 16x 2.5GbE RJ45, 4x 10G SFP+",
+    "maxSpeedGbps": 10,
+    "managed": true,
+    "rackMountable": true,
+    "poe": 720,
+    "switchingCapacityGbps": 224
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-UBNT-USW-PROXG-24",
+   "slug": "ubiquiti-unifi-switch-pro-xg-24",
+   "name": "Ubiquiti UniFi Switch Pro XG 24",
+   "brand": "Ubiquiti",
+   "category": "switches",
+   "price": "1099.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    53,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "homelab-essentials",
+    "networking-lab",
+    "enterprise-lab"
+   ],
+   "summary": "24-port Layer 3 Etherlighting switch with sixteen 10 GbE and eight 2.5 GbE RJ45 ports plus two 25G SFP28 uplinks.",
+   "description": "Switch Pro XG 24 is a professional 1U Layer 3 UniFi switch with sixteen 10 GbE and eight 2.5 GbE RJ45 ports and two 25G SFP28 uplinks, rated for 460 Gbps switching capacity. It includes Etherlighting port LEDs and DC power backup support.",
+   "keywords": "usw pro xg 24 10gbe multigig 25g sfp28 layer 3 switch",
+   "specs": {
+    "ports": "16x 10GbE RJ45, 8x 2.5GbE RJ45, 2x 25G SFP28",
+    "maxSpeedGbps": 25,
+    "managed": true,
+    "rackMountable": true,
+    "switchingCapacityGbps": 460
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-UBNT-USW-PROXG-10POE",
+   "slug": "ubiquiti-unifi-switch-pro-xg-10-poe",
+   "name": "Ubiquiti UniFi Switch Pro XG 10 PoE",
+   "brand": "Ubiquiti",
+   "category": "switches",
+   "price": "699.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    52,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "homelab-essentials",
+    "networking-lab"
+   ],
+   "summary": "1U Layer 3 Etherlighting switch with ten 10 GbE PoE+++ ports, two 10G SFP+ uplinks and a 400 W PoE budget.",
+   "description": "Switch Pro XG 10 PoE is a 1U professional UniFi switch whose ten 10 GbE RJ45 ports all deliver PoE+++ (up to 90 W per port), with two 10G SFP+ uplinks, a 400 W total PoE budget and 240 Gbps switching capacity. It is aimed at powering Wi-Fi 7 access points at full multi-gig speed.",
+   "keywords": "usw pro xg 10 poe 10gbe poe+++ wifi 7 switch",
+   "specs": {
+    "ports": "10x 10GbE RJ45 PoE+++, 2x 10G SFP+",
+    "maxSpeedGbps": 10,
+    "managed": true,
+    "rackMountable": true,
+    "poe": 400,
+    "switchingCapacityGbps": 240
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-UBNT-USW-PROHD-24",
+   "slug": "ubiquiti-unifi-switch-pro-hd-24",
+   "name": "Ubiquiti UniFi Switch Pro HD 24",
+   "brand": "Ubiquiti",
+   "category": "switches",
+   "price": "599.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    45,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "homelab-essentials"
+   ],
+   "summary": "Layer 3 Etherlighting switch with twenty-two 2.5 GbE ports, two 10 GbE ports and four 10G SFP+ uplinks.",
+   "description": "Switch Pro HD 24 is a 1U professional UniFi switch with twenty-two 2.5 GbE and two 10 GbE RJ45 ports plus four 10G SFP+ ports, rated for 230 Gbps switching capacity, with Layer 3 features, Etherlighting and DC power backup support.",
+   "keywords": "usw pro hd 24 2.5g multigig 10g sfp+ layer 3 switch",
+   "specs": {
+    "ports": "22x 2.5GbE RJ45, 2x 10GbE RJ45, 4x 10G SFP+",
+    "maxSpeedGbps": 10,
+    "managed": true,
+    "rackMountable": true,
+    "switchingCapacityGbps": 230
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-UBNT-USW-PROXG-AGG",
+   "slug": "ubiquiti-unifi-switch-pro-xg-aggregation",
+   "name": "Ubiquiti UniFi Switch Pro XG Aggregation",
+   "brand": "Ubiquiti",
+   "category": "switches",
+   "price": "2499.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    41,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "enterprise-lab"
+   ],
+   "summary": "32-port 25G SFP28 Layer 3 Etherlighting aggregation switch with 1.6 Tbps switching capacity.",
+   "description": "Switch Pro XG Aggregation is a 1U Layer 3 UniFi aggregation switch with thirty-two 25G SFP28 ports (25G/10G/1G), rated for 1.6 Tbps switching capacity, with Etherlighting and DC power backup support. It is designed to aggregate high-capacity 25G and 10G links in a UniFi network core.",
+   "keywords": "usw pro xg aggregation 25g sfp28 core switch",
+   "specs": {
+    "ports": "32x 25G SFP28",
+    "maxSpeedGbps": 25,
+    "managed": true,
+    "rackMountable": true,
+    "switchingCapacityGbps": 1600
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-UBNT-ECS-AGG",
+   "slug": "ubiquiti-unifi-switch-enterprise-campus-aggregation",
+   "name": "Ubiquiti UniFi Switch Enterprise Campus Aggregation",
+   "brand": "Ubiquiti",
+   "category": "switches",
+   "price": "3999.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    15,
+    3
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "enterprise-lab"
+   ],
+   "summary": "48x 25G SFP28 plus 6x 100G QSFP28 Layer 3 aggregation switch with MC-LAG, dual hot-swap PSUs and 3.6 Tbps switching capacity.",
+   "description": "The Enterprise Campus Aggregation switch is a full-depth 1U Layer 3 UniFi switch with forty-eight 25G SFP28 ports and six 100G QSFP28 ports. It supports Multi-Chassis Link Aggregation (MC-LAG) for high availability, has two hot-swappable PSUs and five hot-swappable fans, and is rated for 3.6 Tbps switching capacity. Ubiquiti notes it requires a 4-post rack or a center-mount bracket.",
+   "keywords": "ecs aggregation enterprise campus 100g qsfp28 25g mc-lag core switch",
+   "specs": {
+    "ports": "48x 25G SFP28, 6x 100G QSFP28",
+    "maxSpeedGbps": 100,
+    "managed": true,
+    "rackMountable": true,
+    "switchingCapacityGbps": 3600
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-UBNT-USW-FLEXMINI-25G",
+   "slug": "ubiquiti-unifi-switch-flex-mini-2-5g",
+   "name": "Ubiquiti UniFi Switch Flex Mini 2.5G",
+   "brand": "Ubiquiti",
+   "category": "switches",
+   "price": "49.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    26,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "homelab-starter"
+   ],
+   "summary": "Compact 5-port 2.5 GbE UniFi switch that can be powered by PoE or a USB-C adapter.",
+   "description": "Switch Flex Mini 2.5G is a compact desktop UniFi switch with five 2.5 GbE RJ45 ports and 25 Gbps switching capacity. It is managed through UniFi Network and can be powered either by PoE on its uplink port or by a USB-C adapter.",
+   "keywords": "usw flex mini 2.5g desktop switch usb-c poe powered",
+   "specs": {
+    "ports": "5x 2.5GbE RJ45",
+    "maxSpeedGbps": 2.5,
+    "managed": true,
+    "rackMountable": false,
+    "switchingCapacityGbps": 25
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-UBNT-U7-PRO-MAX",
+   "slug": "ubiquiti-unifi-u7-pro-max",
+   "name": "Ubiquiti UniFi U7 Pro Max Access Point",
+   "brand": "Ubiquiti",
+   "category": "access-points",
+   "price": "279.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    17,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "homelab-essentials",
+    "small-business"
+   ],
+   "summary": "Ceiling-mount tri-band Wi-Fi 7 access point with 8 spatial streams, 6 GHz and a dedicated spectral scanning engine.",
+   "description": "The U7 Pro Max is a ceiling-mounted Wi-Fi 7 access point with 8 spatial streams, 6 GHz support and a dedicated spectral scanning radio. Ubiquiti rates it for 160 m² (1,750 ft²) coverage and 500+ clients, with a 2.5 GbE uplink powered by PoE+.",
+   "keywords": "u7 pro max wifi 7 access point 6ghz spectral scanning",
+   "specs": {
+    "ports": "1x 2.5GbE RJ45 (PoE+ in)",
+    "maxSpeedGbps": 2.5,
+    "managed": true,
+    "rackMountable": false,
+    "wifiStandard": "Wi-Fi 7",
+    "wifiDetails": "Wi-Fi 7 (802.11be), tri-band 2.4/5/6 GHz, 8 spatial streams"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-UBNT-U7-PRO-XG",
+   "slug": "ubiquiti-unifi-u7-pro-xg",
+   "name": "Ubiquiti UniFi U7 Pro XG Access Point",
+   "brand": "Ubiquiti",
+   "category": "access-points",
+   "price": "199.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    48,
+    5
+   ],
+   "featured": true,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "homelab-essentials",
+    "networking-lab"
+   ],
+   "summary": "Ceiling-mount 6-stream Wi-Fi 7 access point with a 10 GbE uplink, powered by PoE+.",
+   "description": "The U7 Pro XG is a ceiling-mounted tri-band Wi-Fi 7 access point with 6 spatial streams and a 10/5/2.5/1 GbE RJ45 uplink powered by PoE+. Ubiquiti rates it for 140 m² (1,500 ft²) coverage and 300+ clients; it is sold in white and black.",
+   "keywords": "u7 pro xg wifi 7 access point 10gbe uplink",
+   "specs": {
+    "ports": "1x 10GbE RJ45 (PoE+ in)",
+    "maxSpeedGbps": 10,
+    "managed": true,
+    "rackMountable": false,
+    "wifiStandard": "Wi-Fi 7",
+    "wifiDetails": "Wi-Fi 7 (802.11be), tri-band 2.4/5/6 GHz, 6 spatial streams"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-UBNT-U7-PRO-XGS",
+   "slug": "ubiquiti-unifi-u7-pro-xgs",
+   "name": "Ubiquiti UniFi U7 Pro XGS Access Point",
+   "brand": "Ubiquiti",
+   "category": "access-points",
+   "price": "299.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    28,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "small-business",
+    "enterprise-lab"
+   ],
+   "summary": "Ceiling-mount 8-stream Wi-Fi 7 access point with a dedicated spectral scanning radio and a 10 GbE uplink.",
+   "description": "The U7 Pro XGS is a ceiling-mounted Wi-Fi 7 access point with 8 spatial streams, a dedicated spectral scanning radio and a 10/5/2.5/1 GbE RJ45 uplink powered by PoE++. Ubiquiti rates it for 160 m² (1,750 ft²) coverage and 500+ clients; it is sold in white and black.",
+   "keywords": "u7 pro xgs wifi 7 access point 10gbe spectral scanning",
+   "specs": {
+    "ports": "1x 10GbE RJ45 (PoE++ in)",
+    "maxSpeedGbps": 10,
+    "managed": true,
+    "rackMountable": false,
+    "wifiStandard": "Wi-Fi 7",
+    "wifiDetails": "Wi-Fi 7 (802.11be), tri-band 2.4/5/6 GHz, 8 spatial streams"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-UBNT-E7",
+   "slug": "ubiquiti-unifi-e7-access-point",
+   "name": "Ubiquiti UniFi E7 Access Point",
+   "brand": "Ubiquiti",
+   "category": "access-points",
+   "price": "499.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    27,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "enterprise-lab",
+    "small-business"
+   ],
+   "summary": "Enterprise indoor Wi-Fi 7 access point with 10 spatial streams, a 10 GbE uplink and a redundant 1 GbE port.",
+   "description": "The UniFi E7 is an enterprise-grade indoor Wi-Fi 7 access point with 10 spatial streams, rated for 185 m² (2,000 ft²) coverage and 1,000+ clients. It has a 10 GbE uplink plus a redundant 1 GbE port for high availability, is powered by PoE++, and mounts on ceilings, walls or VESA.",
+   "keywords": "e7 enterprise wifi 7 access point 10gbe high density",
+   "specs": {
+    "ports": "1x 10GbE RJ45, 1x 1GbE RJ45 (PoE++ in)",
+    "maxSpeedGbps": 10,
+    "managed": true,
+    "rackMountable": false,
+    "wifiStandard": "Wi-Fi 7",
+    "wifiDetails": "Wi-Fi 7 (802.11be), 10 spatial streams"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-UBNT-U7-PRO-OUTDOOR",
+   "slug": "ubiquiti-unifi-u7-pro-outdoor",
+   "name": "Ubiquiti UniFi U7 Pro Outdoor Access Point",
+   "brand": "Ubiquiti",
+   "category": "access-points",
+   "price": "279.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    27,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "small-business"
+   ],
+   "summary": "All-weather IP67 Wi-Fi 7 access point with 6 spatial streams, AFC 6 GHz and an integrated directional super antenna.",
+   "description": "The U7 Pro Outdoor is an IP67-rated Wi-Fi 7 access point with 6 spatial streams, extended-range AFC 6 GHz support, an integrated directional super antenna and an articulating wall/pole mount. Ubiquiti rates it for 465 m² (5,000 ft²) coverage and 300+ clients, with a 2.5 GbE PoE+ uplink.",
+   "keywords": "u7 pro outdoor wifi 7 ip67 afc 6ghz access point",
+   "specs": {
+    "ports": "1x 2.5GbE RJ45 (PoE+ in)",
+    "maxSpeedGbps": 2.5,
+    "managed": true,
+    "rackMountable": false,
+    "wifiStandard": "Wi-Fi 7",
+    "wifiDetails": "Wi-Fi 7 (802.11be), tri-band with AFC 6 GHz, 6 spatial streams"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-UBNT-DAC-SFP28",
+   "slug": "ubiquiti-unifi-25g-direct-attach-cable",
+   "name": "Ubiquiti UniFi 25G Direct Attach Cable (SFP28)",
+   "brand": "Ubiquiti",
+   "category": "cables",
+   "price": "23.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    59,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "homelab-essentials",
+    "networking-lab"
+   ],
+   "summary": "Passive copper SFP28-to-SFP28 direct attach cable supporting 25/10/1 Gbps, in 0.5, 1 and 3 m lengths.",
+   "description": "Ubiquiti's 25G Direct Attach Cable is a copper SFP28-to-SFP28 DAC with a black PVC jacket, supporting 25, 10 and 1 Gbps data rates. It is sold in 0.5 m, 1 m and 3 m lengths for short 25G links between switches, gateways and servers.",
+   "keywords": "dac sfp28 25g direct attach copper twinax",
+   "specs": {
+    "ports": "SFP28 to SFP28",
+    "maxSpeedGbps": 25,
+    "managed": false,
+    "rackMountable": false
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-UBNT-DAC-QSFP28",
+   "slug": "ubiquiti-unifi-100g-direct-attach-cable",
+   "name": "Ubiquiti UniFi 100G Direct Attach Cable (QSFP28)",
+   "brand": "Ubiquiti",
+   "category": "cables",
+   "price": "35.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    27,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "enterprise-lab"
+   ],
+   "summary": "Copper QSFP28-to-QSFP28 direct attach cable supporting 100/40 Gbps, in 0.5, 1 and 3 m lengths and 10-packs.",
+   "description": "Ubiquiti's 100G Direct Attach Cable is a copper QSFP28-to-QSFP28 DAC supporting 100 and 40 Gbps. It is offered in 0.5 m, 1 m and 3 m single units plus 0.5 m and 1 m 10-packs for short 100G interconnects in the rack.",
+   "keywords": "dac qsfp28 100g direct attach copper",
+   "specs": {
+    "ports": "QSFP28 to QSFP28",
+    "maxSpeedGbps": 100,
+    "managed": false,
+    "rackMountable": false
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-UBNT-PATCH-C6A-PREMIUM",
+   "slug": "ubiquiti-unifi-premium-patch-cable",
+   "name": "Ubiquiti UniFi Premium Patch Cable (Cat6A)",
+   "brand": "Ubiquiti",
+   "category": "cables",
+   "price": "4.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    47,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "homelab-essentials"
+   ],
+   "summary": "Ultra-thin braided white patch cable optimized for 10 GbE, supporting up to PoE+++, from 0.15 m to 15 m.",
+   "description": "The UniFi Premium Patch Cable is an ultra-thin braided patch cable designed for 10 GbE networking, with translucent booted shielded RJ45 connectors and support for up to PoE+++. It comes in white in lengths from 0.15 m to 15 m, with 10-, 24- and 50-packs for shorter lengths; the listed price is a single 0.15 m cable.",
+   "keywords": "cat6a patch cable 10gbe thin braided ethernet",
+   "specs": {
+    "ports": "RJ45 to RJ45",
+    "maxSpeedGbps": 10,
+    "managed": false,
+    "rackMountable": false
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-UBNT-OM-SFP28-SR",
+   "slug": "ubiquiti-unifi-25g-multi-mode-optical-module",
+   "name": "Ubiquiti UniFi 25G Multi-Mode Optical Module (SFP28 SR)",
+   "brand": "Ubiquiti",
+   "category": "network-adapters",
+   "price": "49.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    27,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "networking-lab",
+    "enterprise-lab"
+   ],
+   "summary": "SFP28 850 nm transceiver for 25G links up to 100 m over OM4 multi-mode fiber with a duplex LC UPC connector.",
+   "description": "Ubiquiti's 25G Multi-Mode Optical Module (UACC-OM-SFP28-SR) is an SFP28 transceiver supporting 1, 10 and 25 Gbps over multi-mode fiber at 850 nm, reaching 100 m on OM4 or 70 m on OM3 with a duplex LC UPC connector and 0.8 W max power draw.",
+   "keywords": "sfp28 25g sr transceiver optic multimode 850nm",
+   "specs": {
+    "ports": "Duplex LC UPC",
+    "maxSpeedGbps": 25,
+    "managed": false,
+    "rackMountable": false,
+    "interface": "SFP28 (25GBASE-SR, 850 nm, MMF)"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-UBNT-USW-PROXG-48POE",
+   "slug": "ubiquiti-unifi-switch-pro-xg-48-poe",
+   "name": "Ubiquiti UniFi Switch Pro XG 48 PoE",
+   "brand": "Ubiquiti",
+   "category": "switches",
+   "price": "2499.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    55,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "enterprise-lab",
+    "small-business"
+   ],
+   "summary": "48-port Layer 3 Etherlighting switch with thirty-two 10 GbE and sixteen 2.5 GbE PoE+++ ports plus four 25G SFP28 uplinks.",
+   "description": "Switch Pro XG 48 PoE is a 1U professional UniFi switch whose thirty-two 10 GbE and sixteen 2.5 GbE RJ45 ports all deliver PoE+++, with four 25G SFP28 uplinks and 920 Gbps switching capacity. Ubiquiti rates total PoE availability at 1,080 W on 200-240 V AC (972 W on 100-120 V AC); it includes Etherlighting and DC power backup support.",
+   "keywords": "usw pro xg 48 poe 10gbe poe+++ 25g sfp28 wifi 7 campus switch",
+   "specs": {
+    "ports": "32x 10GbE RJ45 PoE+++, 16x 2.5GbE RJ45 PoE+++, 4x 25G SFP28",
+    "maxSpeedGbps": 25,
+    "managed": true,
+    "rackMountable": true,
+    "poe": 1080,
+    "switchingCapacityGbps": 920
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-UBNT-U7-LITE",
+   "slug": "ubiquiti-unifi-u7-lite",
+   "name": "Ubiquiti UniFi U7 Lite Access Point",
+   "brand": "Ubiquiti",
+   "category": "access-points",
+   "price": "99.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    12,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "homelab-starter"
+   ],
+   "summary": "Compact ceiling-mount Wi-Fi 7 access point with 4 spatial streams and a 2.5 GbE uplink, powered by standard PoE.",
+   "description": "The U7 Lite is Ubiquiti's most affordable ceiling-mounted Wi-Fi 7 access point, with 4 spatial streams, a 2.5 GbE uplink and standard PoE power. Ubiquiti rates it for 115 m² (1,250 ft²) coverage and 200+ clients.",
+   "keywords": "u7 lite wifi 7 access point budget 2.5g",
+   "specs": {
+    "ports": "1x 2.5GbE RJ45 (PoE in)",
+    "maxSpeedGbps": 2.5,
+    "managed": true,
+    "rackMountable": false,
+    "wifiStandard": "Wi-Fi 7",
+    "wifiDetails": "Wi-Fi 7 (802.11be), 4 spatial streams"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-UBNT-OM-QSFP28-SR4",
+   "slug": "ubiquiti-unifi-100g-sr4-multi-mode-optical-module",
+   "name": "Ubiquiti UniFi 100G SR4 Multi-Mode Optical Module (QSFP28)",
+   "brand": "Ubiquiti",
+   "category": "network-adapters",
+   "price": "69.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    15,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "enterprise-lab",
+    "ai-lab"
+   ],
+   "summary": "QSFP28 850 nm SR4 transceiver for 100G/40G links up to 100 m over OM4 multi-mode fiber with an MPO-12 connector.",
+   "description": "Ubiquiti's 100G SR4 Multi-Mode Optical Module (UACC-OM-QSFP28-SR4) is a QSFP28 transceiver supporting 100 and 40 Gbps over multi-mode fiber at 850 nm, reaching 100 m on OM4 or 70 m on OM3 through an MPO-12 Type B UPC connector, with 2.5 W max power draw.",
+   "keywords": "qsfp28 100g sr4 transceiver optic multimode mpo",
+   "specs": {
+    "ports": "MPO-12 Type B UPC",
+    "maxSpeedGbps": 100,
+    "managed": false,
+    "rackMountable": false,
+    "interface": "QSFP28 (100GBASE-SR4, 850 nm, MMF)"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-NETGATE-4200-MAX",
+   "slug": "netgate-4200-max-pfsense-plus-security-gateway",
+   "name": "Netgate 4200 MAX pfSense Plus Security Gateway",
+   "brand": "Netgate",
+   "category": "firewalls",
+   "price": "829.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    15,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "security-lab",
+    "homelab-essentials",
+    "small-business"
+   ],
+   "summary": "Silent desktop pfSense Plus firewall with four independent 2.5 GbE ports, a 4-core Intel Atom C1110 and 8.6 Gbps firewall throughput.",
+   "description": "The Netgate 4200 runs pfSense Plus on a passively cooled 4-core Intel Atom C1110 (2.1 GHz) with 4 GB LPDDR5 and a 128 GB NVMe SSD. It has four unswitched 2.5 GbE RJ45 ports; Netgate publishes 8.75 Gbps L3 forwarding, 8.61 Gbps firewall (10k ACLs) and 3.2 Gbps IPsec (AES-GCM-128) iPerf3 throughput.",
+   "keywords": "netgate 4200 pfsense plus firewall 2.5g desktop",
+   "specs": {
+    "ports": "4x 2.5GbE RJ45 (independent)",
+    "maxSpeedGbps": 2.5,
+    "managed": true,
+    "rackMountable": false,
+    "firewallThroughputGbps": 8.61
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-NETGATE-8300-BASE",
+   "slug": "netgate-8300-base-pfsense-plus-security-gateway",
+   "name": "Netgate 8300 BASE pfSense Plus Security Gateway",
+   "brand": "Netgate",
+   "category": "firewalls",
+   "price": "6299.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    7,
+    3
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "security-lab",
+    "enterprise-lab"
+   ],
+   "summary": "1U pfSense Plus security gateway with an 8-core Xeon D-1733NT, 4x 10G SFP+, 4x 1G SFP, 3x 2.5 GbE and 26.8 Gbps firewall throughput.",
+   "description": "The Netgate 8300 is a 1U pfSense Plus appliance for medium to large businesses and service providers, built on an 8-core Intel Xeon D-1733NT with 32 GB ECC DDR4 and a 512 GB NVMe SSD. It has four 10G SFP+, four 1G SFP and three 2.5 GbE ports, PCIe 3.0 x8 and PCIe 4.0 x16 slots for 25G/100G NICs, and hot-swappable PSU bays; Netgate publishes 36.7 Gbps L3 forwarding, 26.8 Gbps firewall and 14.6 Gbps IPsec throughput.",
+   "keywords": "netgate 8300 pfsense plus xeon firewall 10g sfp+ rack",
+   "specs": {
+    "ports": "4x 10G SFP+, 4x 1G SFP, 3x 2.5GbE RJ45, IPMI, console",
+    "maxSpeedGbps": 10,
+    "managed": true,
+    "rackMountable": true,
+    "firewallThroughputGbps": 26.8
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-MIKROTIK-RB5009UPR",
+   "slug": "mikrotik-rb5009upr-s-in",
+   "name": "MikroTik RB5009UPr+S+IN",
+   "brand": "MikroTik",
+   "category": "routers-gateways",
+   "price": "299.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    54,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "homelab-essentials",
+    "networking-lab"
+   ],
+   "summary": "Compact RouterOS v7 router with a quad-core ARM CPU, 2.5 GbE, 10G SFP+ and PoE-out on all eight Ethernet ports.",
+   "description": "The RB5009UPr+S+IN is a passively cooled RouterOS v7 router with a quad-core ARM 64-bit CPU, 1 GB RAM, seven Gigabit ports, one 2.5 GbE port and a 10G SFP+ cage. All eight Ethernet ports provide 802.3af/at PoE-out (130 W total), and it accepts power from a DC jack, a 2-pin terminal or PoE-in; four units fit in 1U with an optional rack kit.",
+   "keywords": "mikrotik rb5009 routeros poe router sfp+ homelab",
+   "specs": {
+    "ports": "7x 1GbE RJ45, 1x 2.5GbE RJ45, 1x 10G SFP+, USB 3.0",
+    "maxSpeedGbps": 10,
+    "managed": true,
+    "rackMountable": false
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-MIKROTIK-CCR2116",
+   "slug": "mikrotik-ccr2116-12g-4s-plus",
+   "name": "MikroTik CCR2116-12G-4S+",
+   "brand": "MikroTik",
+   "category": "routers-gateways",
+   "price": "995.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    37,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "networking-lab",
+    "enterprise-lab"
+   ],
+   "summary": "1U Cloud Core Router with a 16-core ARM CPU, 16 GB RAM, 13 Gigabit ports, 4x 10G SFP+ and dual redundant PSUs.",
+   "description": "The CCR2116-12G-4S+ is a 1U RouterOS v7 Cloud Core Router aimed at ISPs, with a 16-core 2 GHz ARM 64-bit CPU, 16 GB RAM, thirteen Gigabit Ethernet ports, four 10G SFP+ cages, an M.2 slot and dual-redundant power supplies. MikroTik positions it for dynamic routing, large BGP tables and complex firewall and QoS setups.",
+   "keywords": "mikrotik ccr2116 cloud core router bgp isp 10g",
+   "specs": {
+    "ports": "13x 1GbE RJ45, 4x 10G SFP+, console",
+    "maxSpeedGbps": 10,
+    "managed": true,
+    "rackMountable": true
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-MIKROTIK-CCR2216",
+   "slug": "mikrotik-ccr2216-1g-12xs-2xq",
+   "name": "MikroTik CCR2216-1G-12XS-2XQ",
+   "brand": "MikroTik",
+   "category": "routers-gateways",
+   "price": "2795.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    52,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "enterprise-lab",
+    "networking-lab"
+   ],
+   "summary": "Flagship 100G Cloud Core Router with 2x QSFP28, 12x SFP28, a 16-core CPU, L3 hardware offload and hot-swap PSUs.",
+   "description": "The CCR2216-1G-12XS-2XQ is MikroTik's flagship Cloud Core Router, pairing a 16-core 2 GHz ARM CPU and 16 GB RAM with a Marvell Prestera Aldrin2 switch chip for L3 hardware offloading. It has two 100G QSFP28 cages, twelve 25G SFP28 cages, one Gigabit port, two M.2 slots, four hot-swappable fans and dual hot-swap power supplies.",
+   "keywords": "mikrotik ccr2216 100g router qsfp28 sfp28 l3 offload",
+   "specs": {
+    "ports": "2x 100G QSFP28, 12x 25G SFP28, 1x 1GbE RJ45, console",
+    "maxSpeedGbps": 100,
+    "managed": true,
+    "rackMountable": true
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-MIKROTIK-HAPBE3-MEDIA",
+   "slug": "mikrotik-hap-be3-media",
+   "name": "MikroTik hAP be3 Media",
+   "brand": "MikroTik",
+   "category": "routers-gateways",
+   "price": "179.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    12,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "homelab-starter"
+   ],
+   "summary": "Tri-band BE9300 Wi-Fi 7 home router with five 2.5 GbE ports, three USB 3.0 ports and RouterOS v7 container support.",
+   "description": "The hAP be3 Media (MA53UG+HbeH) is a Wi-Fi 7 home and office router with 2x2 radios on 2.4, 5 and 6 GHz (BE9300 class, up to 5764 Mbit/s on 6 GHz), a quad-core IPQ-5322 CPU with 2 GB RAM, five 2.5 GbE ports and three USB 3.0 ports. It runs RouterOS v7, including containers with a one-click setup page in WinBox.",
+   "keywords": "mikrotik hap be3 media wifi 7 router routeros containers",
+   "specs": {
+    "ports": "5x 2.5GbE RJ45, 3x USB 3.0",
+    "maxSpeedGbps": 2.5,
+    "managed": true,
+    "rackMountable": false,
+    "wifiStandard": "Wi-Fi 7",
+    "wifiDetails": "Wi-Fi 7 (802.11be) BE9300, tri-band 2.4/5/6 GHz"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-MIKROTIK-CRS326-4C20G2Q",
+   "slug": "mikrotik-crs326-4c-20g-2q-rm",
+   "name": "MikroTik CRS326-4C+20G+2Q+RM",
+   "brand": "MikroTik",
+   "category": "switches",
+   "price": "999.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    30,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "homelab-essentials",
+    "networking-lab"
+   ],
+   "summary": "1U RouterOS v7 switch with twenty 2.5 GbE ports, four 10G SFP+/2.5G combo ports and two 40G QSFP+ uplinks.",
+   "description": "The CRS326-4C+20G+2Q+RM is a wire-speed 1U Cloud Router Switch with a Marvell Prestera switch chip: twenty 2.5 GbE ports, four combo ports (2.5 GbE or 10G SFP+), two 40G QSFP+ ports and a 100 Mbps management port. It supports VLANs, jumbo frames, link aggregation, ACLs and some Layer 3 routing, and has dual-redundant AC power supplies.",
+   "keywords": "mikrotik crs326 2.5g switch 40g qsfp+ multigig",
+   "specs": {
+    "ports": "20x 2.5GbE RJ45, 4x 2.5GbE/10G SFP+ combo, 2x 40G QSFP+, 1x 100M mgmt",
+    "maxSpeedGbps": 40,
+    "managed": true,
+    "rackMountable": true
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-MIKROTIK-CRS520",
+   "slug": "mikrotik-crs520-4xs-16xq-rm",
+   "name": "MikroTik CRS520-4XS-16XQ-RM",
+   "brand": "MikroTik",
+   "category": "switches",
+   "price": "2195.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    17,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "enterprise-lab",
+    "ai-lab"
+   ],
+   "summary": "100G data center switch with sixteen QSFP28 ports, four SFP28 ports, a quad-core ARM CPU and hot-swap PSUs and fans.",
+   "description": "The CRS520-4XS-16XQ-RM is a 1U Cloud Router Switch with sixteen 100G QSFP28 ports, four 25G SFP28 ports and two 10G Ethernet ports, driven by a Marvell 98CX8410 switch chip and a quad-core 2 GHz ARM CPU with 4 GB RAM. It supports OSPF/BGP, ACLs, jumbo frames and L3 hardware-offloaded routing, with two hot-swap PSUs and four hot-swap fans included.",
+   "keywords": "mikrotik crs520 100g qsfp28 switch data center",
+   "specs": {
+    "ports": "16x 100G QSFP28, 4x 25G SFP28, 2x 10GbE RJ45, console",
+    "maxSpeedGbps": 100,
+    "managed": true,
+    "rackMountable": true
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-MIKROTIK-CRS812-DDQ",
+   "slug": "mikrotik-crs812-8ds-2dq-2ddq-rm",
+   "name": "MikroTik CRS812-8DS-2DQ-2DDQ-RM",
+   "brand": "MikroTik",
+   "category": "switches",
+   "price": "1295.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    17,
+    5
+   ],
+   "featured": true,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "enterprise-lab",
+    "ai-lab"
+   ],
+   "summary": "1U RouterOS v7 switch with two 400G QSFP56-DD, two 200G QSFP56 and eight 50G SFP56 ports.",
+   "description": "The CRS812 DDQ (CRS812-8DS-2DQ-2DDQ-RM) brings 400G ports to RouterOS: two 400G QSFP56-DD, two 200G QSFP56 and eight 50G SFP56 ports plus two 10G Ethernet ports, on a Marvell 98DX7335 switch chip with a quad-core 2 GHz ARM CPU and 4 GB RAM. MikroTik targets top-of-rack/leaf, campus core, service-provider aggregation and AI-cluster labs; it has dual hot-swap PSUs and four hot-swap fans.",
+   "keywords": "mikrotik crs812 ddq 400g qsfp56-dd 200g 50g switch ai cluster",
+   "specs": {
+    "ports": "2x 400G QSFP56-DD, 2x 200G QSFP56, 8x 50G SFP56, 2x 10GbE RJ45",
+    "maxSpeedGbps": 400,
+    "managed": true,
+    "rackMountable": true
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-MIKROTIK-CRS304-4XG",
+   "slug": "mikrotik-crs304-4xg-in",
+   "name": "MikroTik CRS304-4XG-IN",
+   "brand": "MikroTik",
+   "category": "switches",
+   "price": "199.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    38,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "homelab-starter",
+    "homelab-essentials"
+   ],
+   "summary": "Compact fanless switch with four 10 GbE RJ45 ports, a Gigabit management port and four power input options.",
+   "description": "The CRS304-4XG-IN is a small passively cooled RouterOS v7 switch with four 1/2.5/5/10 GbE RJ45 ports plus a Gigabit port, a dual-core ARM CPU and a Marvell Prestera switch chip with some Layer 3 hardware offloading. It can be powered from two DC jacks, a 2-pin terminal or PoE-in and is rated for -40 to 70 C.",
+   "keywords": "mikrotik crs304 10gbe rj45 small switch homelab",
+   "specs": {
+    "ports": "4x 10GbE RJ45, 1x 1GbE RJ45",
+    "maxSpeedGbps": 10,
+    "managed": true,
+    "rackMountable": false
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-NETGEAR-XS508MV2",
+   "slug": "netgear-xs508mv2-8-port-10g-unmanaged-switch",
+   "name": "NETGEAR XS508Mv2 8-Port 10G Multi-Gigabit Unmanaged Switch",
+   "brand": "NETGEAR",
+   "category": "unmanaged-switches",
+   "price": "379.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    43,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "homelab-essentials",
+    "homelab-starter"
+   ],
+   "summary": "Plug-and-play desktop switch with eight 10G/multi-gigabit copper ports for Wi-Fi 7 backhaul, NAS and creator setups.",
+   "description": "The XS508Mv2 is an unmanaged desktop switch with eight 100M/1G/2.5G/5G/10G auto-sensing copper ports, a 1.5 MB packet buffer and 802.1p QoS. It needs no configuration, draws up to 39 W with one low-noise fan, and is backed by NETGEAR's limited lifetime hardware warranty.",
+   "keywords": "xs508m 10gbe unmanaged switch multi-gig desktop nas",
+   "specs": {
+    "ports": "8x 10G/5G/2.5G/1G RJ45",
+    "maxSpeedGbps": 10,
+    "managed": false,
+    "rackMountable": false
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-TPLINK-DECO-BE85-3P",
+   "slug": "tp-link-deco-be85-wifi-7-mesh-3-pack",
+   "name": "TP-Link Deco BE85 BE22000 WiFi 7 Mesh System (3-Pack)",
+   "brand": "TP-Link",
+   "category": "mesh-wifi",
+   "price": "1499.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    34,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "homelab-starter"
+   ],
+   "summary": "BE22000 tri-band Wi-Fi 7 mesh with 320 MHz channels, a 10 Gbps port and a 10G SFP+/RJ45 combo port on every unit.",
+   "description": "Deco BE85 is TP-Link's 12-stream tri-band Wi-Fi 7 mesh system (6 GHz up to 11,530 Mbps, 5 GHz 8,647 Mbps, 2.4 GHz 1,376 Mbps) with 320 MHz channels and 4K-QAM. Each unit has one 10 Gbps port, one 10 Gbps SFP+/RJ45 combo port, two 2.5 Gbps ports and a USB 3.0 port; TP-Link advertises whole-home coverage up to 9,600 sq ft and 200+ devices.",
+   "keywords": "deco be85 wifi 7 mesh 10g sfp+ tp-link whole home",
+   "specs": {
+    "ports": "Per unit: 1x 10G RJ45, 1x 10G SFP+/RJ45 combo, 2x 2.5G RJ45, 1x USB 3.0",
+    "maxSpeedGbps": 10,
+    "managed": false,
+    "rackMountable": false,
+    "wifiStandard": "Wi-Fi 7",
+    "nodes": 3,
+    "wifiDetails": "Wi-Fi 7 (802.11be) BE22000 tri-band"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-TPLINK-OMADA-EAP773",
+   "slug": "tp-link-omada-eap773-wifi-7-access-point",
+   "name": "TP-Link Omada EAP773 BE11000 Tri-Band Wi-Fi 7 Access Point",
+   "brand": "TP-Link",
+   "category": "access-points",
+   "price": "229.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    18,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "small-business",
+    "networking-lab"
+   ],
+   "summary": "Ceiling-mount Omada tri-band Wi-Fi 7 access point with a 10G PoE+ Ethernet port, 320 MHz channels and MLO.",
+   "description": "The Omada EAP773 (Omada 7 Pro X) is a BE11000 tri-band Wi-Fi 7 ceiling access point with signal rates of 688 Mbps (2.4 GHz), 4,324 Mbps (5 GHz) and 5,765 Mbps (6 GHz), MLO, 4K-QAM and 320 MHz channels. It has a single 10G Ethernet port powered by 802.3at PoE (or 12 V DC), supports 380+ clients and is managed through Omada Central cloud, hardware or software controllers.",
+   "keywords": "omada eap773 wifi 7 access point 10g poe tp-link business",
+   "specs": {
+    "ports": "1x 10GbE RJ45 (802.3at PoE in)",
+    "maxSpeedGbps": 10,
+    "managed": true,
+    "rackMountable": false,
+    "wifiStandard": "Wi-Fi 7",
+    "wifiDetails": "Wi-Fi 7 (802.11be) BE11000 tri-band 2.4/5/6 GHz"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-SONICWALL-TZ680",
+   "slug": "sonicwall-tz680-gen-8-firewall",
+   "name": "SonicWall TZ680 Gen 8 Next-Generation Firewall",
+   "brand": "SonicWall",
+   "category": "firewalls",
+   "price": "1995.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    55,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "security-lab",
+    "small-business"
+   ],
+   "summary": "Top Gen 8 TZ desktop firewall with 8x 1GbE, 2x 10G SFP+, 5 Gbps firewall inspection and 2.5 Gbps threat prevention.",
+   "description": "The TZ680 is the flagship of SonicWall's Gen 8 TZ Series running SonicOS 8. It has eight 1GbE ports and two 10/5/2.5/1G SFP+ ports, optional storage up to 512 GB, and SonicWall rates it for 5 Gbps firewall inspection, 3 Gbps IPS, 2.5 Gbps threat prevention and 1.6 million SPI connections, with centralized management through Network Security Manager.",
+   "keywords": "sonicwall tz680 gen 8 firewall ngfw sonicos 8 10g sfp+",
+   "specs": {
+    "ports": "8x 1GbE RJ45, 2x 10G SFP+, USB-C, console",
+    "maxSpeedGbps": 10,
+    "managed": true,
+    "rackMountable": false,
+    "firewallThroughputGbps": 5
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-SONICWALL-TZ480",
+   "slug": "sonicwall-tz480-gen-8-firewall",
+   "name": "SonicWall TZ480 Gen 8 Next-Generation Firewall",
+   "brand": "SonicWall",
+   "category": "firewalls",
+   "price": "1095.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    41,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "security-lab",
+    "small-business"
+   ],
+   "summary": "Gen 8 TZ desktop firewall with 8x 1GbE, 2x 5G SFP+, 4 Gbps firewall inspection and 2 Gbps threat prevention.",
+   "description": "The TZ480 is a mid-range Gen 8 TZ Series firewall running SonicOS 8, with eight 1GbE ports and two 5/2.5/1G SFP+ ports. SonicWall rates it for 4 Gbps firewall inspection, 2.2 Gbps IPS, 2 Gbps threat prevention and 1.2 million SPI connections, with support for up to 32 managed access points.",
+   "keywords": "sonicwall tz480 gen 8 firewall ngfw small business",
+   "specs": {
+    "ports": "8x 1GbE RJ45, 2x 5G SFP+, USB-C, console",
+    "maxSpeedGbps": 5,
+    "managed": true,
+    "rackMountable": false,
+    "firewallThroughputGbps": 4
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-RUCKUS-R770",
+   "slug": "ruckus-r770-wifi-7-access-point",
+   "name": "RUCKUS R770 Wi-Fi 7 Indoor Access Point",
+   "brand": "RUCKUS",
+   "category": "access-points",
+   "price": "1695.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    15,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "enterprise-lab"
+   ],
+   "summary": "Very-high-performance tri-radio Wi-Fi 7 indoor AP (2x2:2 / 4x4:4 / 2x2:2) with a 12.22 Gbps max rate, 10 GbE uplink and embedded IoT radio.",
+   "description": "The RUCKUS R770 is an enterprise tri-radio Wi-Fi 7 access point with 2x2:2, 4x4:4 and 2x2:2 radios and a 12.22 Gbps maximum rate. It has a 10 Gbps Ethernet port with 802.3bt Class 5 PoE-in and a 1 Gbps auxiliary port, plus an embedded IoT radio (BLE or Zigbee) and a USB port for additional IoT radios.",
+   "keywords": "ruckus r770 wifi 7 enterprise access point 10gbe iot",
+   "specs": {
+    "ports": "1x 10GbE RJ45 (PoE in), 1x 1GbE RJ45",
+    "maxSpeedGbps": 10,
+    "managed": true,
+    "rackMountable": false,
+    "wifiStandard": "Wi-Fi 7",
+    "wifiDetails": "Wi-Fi 7 (802.11be) tri-radio 2.4/5/6 GHz"
+   },
+   "options": []
+  }
+ ]
+}

@@ -1,0 +1,283 @@
+{
+  "extensions": [
+    { "extend": "cables", "specs": [
+        { "key": "cableCategory", "label": "Cable type", "type": "TEXT", "group": "Cabling", "filterable": true },
+        { "key": "lengthM", "label": "Length", "type": "NUMBER", "unit": "m", "group": "Cabling", "filterable": true } ] },
+    { "extend": "servers", "specs": [ { "key": "colors", "label": "Colors", "type": "TEXT", "group": "Options", "comparable": false }, { "key": "configurations", "label": "Configurations", "type": "TEXT", "group": "Options", "comparable": false } ] },
+    { "extend": "networking", "specs": [ { "key": "wifiDetails", "label": "Wi-Fi details", "type": "TEXT", "group": "Wireless" }, { "key": "colors", "label": "Colors", "type": "TEXT", "group": "Options", "comparable": false }, { "key": "configurations", "label": "Configurations", "type": "TEXT", "group": "Options", "comparable": false } ] },
+    { "extend": "storage", "specs": [ { "key": "colors", "label": "Colors", "type": "TEXT", "group": "Options", "comparable": false }, { "key": "configurations", "label": "Configurations", "type": "TEXT", "group": "Options", "comparable": false } ] },
+    { "extend": "printers", "specs": [ { "key": "colors", "label": "Colors", "type": "TEXT", "group": "Options", "comparable": false }, { "key": "configurations", "label": "Configurations", "type": "TEXT", "group": "Options", "comparable": false } ] },
+    { "extend": "security-power", "specs": [ { "key": "colors", "label": "Colors", "type": "TEXT", "group": "Options", "comparable": false }, { "key": "configurations", "label": "Configurations", "type": "TEXT", "group": "Options", "comparable": false } ] },
+    { "extend": "components", "specs": [ { "key": "colors", "label": "Colors", "type": "TEXT", "group": "Options", "comparable": false }, { "key": "configurations", "label": "Configurations", "type": "TEXT", "group": "Options", "comparable": false } ] },
+    { "extend": "computers",
+      "specs": [
+        { "key": "ports", "label": "Ports", "type": "TEXT", "group": "Connectivity" },
+        { "key": "colors", "label": "Colors", "type": "TEXT", "group": "Options", "comparable": false },
+        { "key": "configurations", "label": "Configurations", "type": "TEXT", "group": "Options", "comparable": false }
+      ] },
+    { "extend": "laptops",
+      "specs": [
+        { "key": "npuTops", "label": "NPU", "type": "NUMBER", "unit": "TOPS", "group": "Performance" },
+        { "key": "ports", "label": "Ports", "type": "TEXT", "group": "Connectivity" },
+        { "key": "wireless", "label": "Wireless", "type": "TEXT", "group": "Connectivity" },
+        { "key": "colors", "label": "Colors", "type": "TEXT", "group": "Options", "comparable": false },
+        { "key": "configurations", "label": "Configurations", "type": "TEXT", "group": "Options", "comparable": false }
+      ],
+      "children": [
+        { "slug": "premium-laptops", "name": "Premium & everyday laptops" },
+        { "slug": "creator-laptops", "name": "Creator laptops" },
+        { "slug": "chromebooks", "name": "Chromebooks" }
+      ] },
+    { "extend": "components",
+      "children": [
+        { "slug": "expansion-cards", "name": "Capture & expansion cards",
+          "specs": [
+            { "key": "cardType", "label": "Type", "type": "TEXT", "group": "Hardware", "filterable": true },
+            { "key": "interface", "label": "Interface", "type": "TEXT", "group": "Platform" },
+            { "key": "maxResolution", "label": "Max capture", "type": "TEXT", "group": "Video" }
+          ] }
+      ] },
+    { "extend": "servers",
+      "children": [
+        { "slug": "ai-systems", "name": "AI & GPU systems",
+          "specs": [
+            { "key": "formFactor", "label": "Form factor", "type": "TEXT", "group": "Chassis", "filterable": true },
+            { "key": "cpu", "label": "Processors", "type": "TEXT", "group": "Compute" },
+            { "key": "gpus", "label": "Accelerators", "type": "TEXT", "group": "Compute" },
+            { "key": "gpuMemoryGb", "label": "Total GPU memory", "type": "NUMBER", "unit": "GB", "group": "Compute", "filterable": true },
+            { "key": "memoryGb", "label": "System memory", "type": "NUMBER", "unit": "GB", "group": "Memory" },
+            { "key": "aiPerformance", "label": "AI performance", "type": "TEXT", "group": "Compute" },
+            { "key": "storage", "label": "Storage", "type": "TEXT", "group": "Storage" },
+            { "key": "network", "label": "Networking", "type": "TEXT", "group": "Connectivity" },
+            { "key": "powerKw", "label": "Max power", "type": "NUMBER", "unit": "kW", "group": "Power" }
+          ] },
+        { "slug": "pdus", "name": "PDUs & rack power",
+          "specs": [
+            { "key": "pduType", "label": "Type", "type": "TEXT", "group": "Power", "filterable": true },
+            { "key": "outletCount", "label": "Outlets", "type": "NUMBER", "group": "Power" },
+            { "key": "inputPower", "label": "Input", "type": "TEXT", "group": "Power" },
+            { "key": "rackUnits", "label": "Mounting height", "type": "NUMBER", "unit": "U", "group": "Chassis" }
+          ] },
+        { "slug": "ai-accelerators", "name": "Data center accelerators",
+          "specs": [
+            { "key": "architecture", "label": "Architecture", "type": "TEXT", "group": "Compute", "filterable": true },
+            { "key": "memoryGb", "label": "Memory", "type": "NUMBER", "unit": "GB", "group": "Memory", "filterable": true },
+            { "key": "memoryType", "label": "Memory type", "type": "TEXT", "group": "Memory" },
+            { "key": "bandwidthTbs", "label": "Memory bandwidth", "type": "NUMBER", "unit": "TB/s", "group": "Memory" },
+            { "key": "formFactor", "label": "Form factor", "type": "TEXT", "group": "Platform", "filterable": true },
+            { "key": "interconnect", "label": "Interconnect", "type": "TEXT", "group": "Platform" },
+            { "key": "tdpW", "label": "Max power", "type": "NUMBER", "unit": "W", "group": "Power" }
+          ] }
+      ] },
+    { "extend": "networking",
+      "children": [
+        { "slug": "mesh-wifi", "name": "Mesh Wi-Fi systems",
+          "specs": [
+            { "key": "wifiStandard", "label": "Wi-Fi", "type": "TEXT", "group": "Wireless", "filterable": true },
+            { "key": "nodes", "label": "Nodes in pack", "type": "NUMBER", "group": "Wireless" }
+          ] },
+        { "slug": "unmanaged-switches", "name": "Unmanaged & multi-gig switches",
+          "specs": [ { "key": "poe", "label": "PoE budget", "type": "NUMBER", "unit": "W", "group": "Power" } ] },
+        { "slug": "patch-panels", "name": "Patch panels & cable management",
+          "specs": [
+            { "key": "rackUnits", "label": "Height", "type": "NUMBER", "unit": "U", "group": "Chassis" },
+            { "key": "cableCategory", "label": "Cable category", "type": "TEXT", "group": "Cabling", "filterable": true }
+          ] },
+        { "slug": "network-tools", "name": "Network tools & testers",
+          "specs": [ { "key": "toolType", "label": "Tool type", "type": "TEXT", "group": "Hardware", "filterable": true } ] }
+      ] },
+    { "extend": "external-storage",
+      "specs": [ { "key": "readMbps", "label": "Sequential read", "type": "NUMBER", "unit": "MB/s", "group": "Performance" } ] },
+    { "extend": "peripherals",
+      "specs": [ { "key": "colors", "label": "Colors", "type": "TEXT", "group": "Options", "comparable": false }, { "key": "configurations", "label": "Configurations", "type": "TEXT", "group": "Options", "comparable": false } ],
+      "children": [
+        { "slug": "streaming-gear", "name": "Streaming & creator gear" }
+      ] },
+    { "extend": "monitors",
+      "specs": [ { "key": "panelDetails", "label": "Panel details", "type": "TEXT", "group": "Display" }, { "key": "colors", "label": "Colors", "type": "TEXT", "group": "Options", "comparable": false }, { "key": "configurations", "label": "Configurations", "type": "TEXT", "group": "Options", "comparable": false } ] },
+    { "extend": "tablets",
+      "specs": [
+        { "key": "display", "label": "Display details", "type": "TEXT", "group": "Display" },
+        { "key": "ramGb", "label": "Memory", "type": "NUMBER", "unit": "GB", "group": "Performance" },
+        { "key": "rearCamera", "label": "Rear camera", "type": "TEXT", "group": "Cameras" },
+        { "key": "connectivity", "label": "Connectivity", "type": "TEXT", "group": "Connectivity" },
+        { "key": "os", "label": "Operating system", "type": "TEXT", "group": "Software", "filterable": true },
+        { "key": "weightG", "label": "Weight", "type": "NUMBER", "unit": "g", "group": "Design" },
+        { "key": "colors", "label": "Colors", "type": "TEXT", "group": "Options", "comparable": false },
+        { "key": "configurations", "label": "Configurations", "type": "TEXT", "group": "Options", "comparable": false }
+      ] },
+    { "extend": "more-tech",
+      "specs": [ { "key": "colors", "label": "Colors", "type": "TEXT", "group": "Options", "comparable": false }, { "key": "configurations", "label": "Configurations", "type": "TEXT", "group": "Options", "comparable": false } ],
+      "children": [
+        { "slug": "tablet-accessories", "name": "Tablet & phone accessories",
+          "specs": [ { "key": "compatibility", "label": "Compatibility", "type": "TEXT", "group": "Compatibility" } ] }
+      ] },
+    { "extend": "projectors",
+      "specs": [
+        { "key": "lightSource", "label": "Light source", "type": "TEXT", "group": "Display" },
+        { "key": "throwType", "label": "Throw", "type": "TEXT", "group": "Display" }
+      ] },
+    { "extend": "vr",
+      "specs": [
+        { "key": "chip", "label": "Chip", "type": "TEXT", "group": "Performance" },
+        { "key": "display", "label": "Display", "type": "TEXT", "group": "Display" },
+        { "key": "configurations", "label": "Configurations", "type": "TEXT", "group": "Options", "comparable": false }
+      ] }
+  ],
+  "categories": [
+    { "slug": "phones", "name": "Phones", "description": "Flagship, foldable and everyday smartphones.",
+      "specs": [
+        { "key": "chip", "label": "Chip", "type": "TEXT", "group": "Performance" },
+        { "key": "storageGb", "label": "Storage (from)", "type": "NUMBER", "unit": "GB", "group": "Storage", "filterable": true },
+        { "key": "ramGb", "label": "Memory", "type": "NUMBER", "unit": "GB", "group": "Performance" },
+        { "key": "displayIn", "label": "Screen size", "type": "NUMBER", "unit": "in", "group": "Display", "filterable": true },
+        { "key": "display", "label": "Display", "type": "TEXT", "group": "Display" },
+        { "key": "rearCamera", "label": "Rear cameras", "type": "TEXT", "group": "Cameras" },
+        { "key": "frontCamera", "label": "Front camera", "type": "TEXT", "group": "Cameras" },
+        { "key": "battery", "label": "Battery", "type": "TEXT", "group": "Battery" },
+        { "key": "charging", "label": "Charging", "type": "TEXT", "group": "Battery" },
+        { "key": "connectivity", "label": "Connectivity", "type": "TEXT", "group": "Connectivity" },
+        { "key": "durability", "label": "Durability", "type": "TEXT", "group": "Design" },
+        { "key": "os", "label": "Operating system", "type": "TEXT", "group": "Software", "filterable": true },
+        { "key": "weightG", "label": "Weight", "type": "NUMBER", "unit": "g", "group": "Design" },
+        { "key": "dimensions", "label": "Dimensions", "type": "TEXT", "group": "Design" },
+        { "key": "colors", "label": "Colors", "type": "TEXT", "group": "Options", "comparable": false },
+        { "key": "configurations", "label": "Configurations", "type": "TEXT", "group": "Options", "comparable": false }
+      ],
+      "children": [
+        { "slug": "smartphones", "name": "Smartphones" },
+        { "slug": "foldables", "name": "Foldable phones",
+          "specs": [ { "key": "coverDisplay", "label": "Cover display", "type": "TEXT", "group": "Display" } ] }
+      ] },
+    { "slug": "wearables", "name": "Watches & Wearables", "description": "Smartwatches, rugged sport watches and smart rings.",
+      "specs": [
+        { "key": "caseSizes", "label": "Sizes", "type": "TEXT", "group": "Design" },
+        { "key": "chip", "label": "Chip", "type": "TEXT", "group": "Performance" },
+        { "key": "display", "label": "Display", "type": "TEXT", "group": "Display" },
+        { "key": "battery", "label": "Battery life", "type": "TEXT", "group": "Battery" },
+        { "key": "waterResistance", "label": "Water resistance", "type": "TEXT", "group": "Design" },
+        { "key": "health", "label": "Health sensors", "type": "TEXT", "group": "Health" },
+        { "key": "connectivity", "label": "Connectivity", "type": "TEXT", "group": "Connectivity" },
+        { "key": "compatibility", "label": "Works with", "type": "TEXT", "group": "Compatibility", "filterable": true },
+        { "key": "weightG", "label": "Weight", "type": "NUMBER", "unit": "g", "group": "Design" },
+        { "key": "colors", "label": "Colors", "type": "TEXT", "group": "Options", "comparable": false },
+        { "key": "configurations", "label": "Configurations", "type": "TEXT", "group": "Options", "comparable": false }
+      ],
+      "children": [
+        { "slug": "smartwatches", "name": "Smartwatches" },
+        { "slug": "smart-rings", "name": "Smart rings & trackers" }
+      ] },
+    { "slug": "audio", "name": "Audio", "description": "Headphones, earbuds, speakers, soundbars and studio audio.",
+      "specs": [
+        { "key": "connectivity", "label": "Connectivity", "type": "TEXT", "group": "Connectivity", "filterable": true },
+        { "key": "connectionDetails", "label": "Connection details", "type": "TEXT", "group": "Connectivity" },
+        { "key": "noiseCancelling", "label": "Active noise cancelling", "type": "BOOLEAN", "group": "Audio", "filterable": true },
+        { "key": "batteryHours", "label": "Battery life", "type": "NUMBER", "unit": "h", "group": "Battery" },
+        { "key": "drivers", "label": "Drivers", "type": "TEXT", "group": "Audio" },
+        { "key": "codecs", "label": "Codecs & formats", "type": "TEXT", "group": "Audio" },
+        { "key": "waterResistance", "label": "Water resistance", "type": "TEXT", "group": "Design" },
+        { "key": "weightG", "label": "Weight", "type": "NUMBER", "unit": "g", "group": "Design" },
+        { "key": "colors", "label": "Colors", "type": "TEXT", "group": "Options", "comparable": false },
+        { "key": "configurations", "label": "Configurations", "type": "TEXT", "group": "Options", "comparable": false }
+      ],
+      "children": [
+        { "slug": "headphones", "name": "Headphones" },
+        { "slug": "earbuds", "name": "Earbuds" },
+        { "slug": "home-audio", "name": "Speakers & soundbars",
+          "specs": [
+            { "key": "channels", "label": "Channels", "type": "TEXT", "group": "Audio" },
+            { "key": "powerW", "label": "Output power", "type": "NUMBER", "unit": "W", "group": "Audio" }
+          ] },
+        { "slug": "studio-audio", "name": "Studio & pro audio",
+          "specs": [
+            { "key": "inputs", "label": "Inputs & outputs", "type": "TEXT", "group": "Connectivity" },
+            { "key": "resolution", "label": "Max resolution", "type": "TEXT", "group": "Audio" }
+          ] }
+      ] },
+    { "slug": "tvs", "name": "TVs & Home Theater", "description": "OLED, QD-OLED, Mini LED and Neo QLED televisions.",
+      "specs": [
+        { "key": "sizeIn", "label": "Screen size (from)", "type": "NUMBER", "unit": "in", "group": "Display", "filterable": true },
+        { "key": "sizes", "label": "Available sizes", "type": "TEXT", "group": "Display" },
+        { "key": "resolution", "label": "Resolution", "type": "TEXT", "group": "Display", "filterable": true },
+        { "key": "panel", "label": "Panel type", "type": "TEXT", "group": "Display", "filterable": true },
+        { "key": "panelDetails", "label": "Panel details", "type": "TEXT", "group": "Display" },
+        { "key": "refreshHz", "label": "Max refresh rate", "type": "NUMBER", "unit": "Hz", "group": "Display", "filterable": true },
+        { "key": "hdr", "label": "HDR formats", "type": "TEXT", "group": "Display" },
+        { "key": "processor", "label": "Processor", "type": "TEXT", "group": "Performance" },
+        { "key": "gaming", "label": "Gaming features", "type": "TEXT", "group": "Gaming" },
+        { "key": "smartPlatform", "label": "Smart platform", "type": "TEXT", "group": "Software", "filterable": true },
+        { "key": "audio", "label": "Audio", "type": "TEXT", "group": "Audio" },
+        { "key": "colors", "label": "Colors", "type": "TEXT", "group": "Options", "comparable": false },
+        { "key": "configurations", "label": "Configurations", "type": "TEXT", "group": "Options", "comparable": false }
+      ],
+      "children": [
+        { "slug": "oled-tvs", "name": "OLED TVs" },
+        { "slug": "led-tvs", "name": "Mini LED & QLED TVs" }
+      ] },
+    { "slug": "cameras-drones", "name": "Cameras & Drones", "description": "Mirrorless cameras, lenses, action cameras and consumer drones.",
+      "specs": [
+        { "key": "sensor", "label": "Sensor", "type": "TEXT", "group": "Imaging" },
+        { "key": "megapixels", "label": "Resolution", "type": "NUMBER", "unit": "MP", "group": "Imaging", "filterable": true },
+        { "key": "video", "label": "Video", "type": "TEXT", "group": "Video" },
+        { "key": "stabilization", "label": "Stabilization", "type": "TEXT", "group": "Imaging" },
+        { "key": "mount", "label": "Lens mount", "type": "TEXT", "group": "Lens", "filterable": true },
+        { "key": "battery", "label": "Battery", "type": "TEXT", "group": "Battery" },
+        { "key": "weightG", "label": "Weight", "type": "NUMBER", "unit": "g", "group": "Design" },
+        { "key": "colors", "label": "Colors", "type": "TEXT", "group": "Options", "comparable": false },
+        { "key": "configurations", "label": "Configurations", "type": "TEXT", "group": "Options", "comparable": false }
+      ],
+      "children": [
+        { "slug": "mirrorless-cameras", "name": "Mirrorless cameras",
+          "specs": [ { "key": "autofocus", "label": "Autofocus", "type": "TEXT", "group": "Imaging" } ] },
+        { "slug": "camera-lenses", "name": "Lenses",
+          "specs": [
+            { "key": "focalLength", "label": "Focal length", "type": "TEXT", "group": "Lens" },
+            { "key": "maxAperture", "label": "Max aperture", "type": "TEXT", "group": "Lens" }
+          ] },
+        { "slug": "action-cameras", "name": "Action & 360 cameras" },
+        { "slug": "drones", "name": "Drones",
+          "specs": [
+            { "key": "flightTimeMin", "label": "Max flight time", "type": "NUMBER", "unit": "min", "group": "Flight" },
+            { "key": "transmission", "label": "Video transmission", "type": "TEXT", "group": "Flight" },
+            { "key": "obstacleSensing", "label": "Obstacle sensing", "type": "TEXT", "group": "Flight" }
+          ] }
+      ] },
+    { "slug": "gaming", "name": "Gaming", "description": "Consoles, handheld gaming PCs and controllers.",
+      "specs": [
+        { "key": "platform", "label": "Platform", "type": "TEXT", "group": "Platform", "filterable": true },
+        { "key": "compatibility", "label": "Works with", "type": "TEXT", "group": "Platform" },
+        { "key": "chip", "label": "Processor", "type": "TEXT", "group": "Performance" },
+        { "key": "storage", "label": "Storage", "type": "TEXT", "group": "Storage" },
+        { "key": "display", "label": "Display", "type": "TEXT", "group": "Display" },
+        { "key": "output", "label": "Video output", "type": "TEXT", "group": "Display" },
+        { "key": "connectivity", "label": "Connectivity", "type": "TEXT", "group": "Connectivity" },
+        { "key": "battery", "label": "Battery", "type": "TEXT", "group": "Battery" },
+        { "key": "weightG", "label": "Weight", "type": "NUMBER", "unit": "g", "group": "Design" },
+        { "key": "colors", "label": "Colors", "type": "TEXT", "group": "Options", "comparable": false },
+        { "key": "configurations", "label": "Configurations", "type": "TEXT", "group": "Options", "comparable": false }
+      ],
+      "children": [
+        { "slug": "consoles", "name": "Consoles" },
+        { "slug": "handhelds", "name": "Handheld gaming PCs" },
+        { "slug": "controllers", "name": "Controllers" }
+      ] },
+    { "slug": "smart-home", "name": "Smart Home", "description": "Smart speakers and displays, cameras, doorbells, thermostats, lighting and hubs.",
+      "specs": [
+        { "key": "ecosystem", "label": "Works with", "type": "TEXT", "group": "Compatibility", "filterable": true },
+        { "key": "connectivity", "label": "Connectivity", "type": "TEXT", "group": "Connectivity" },
+        { "key": "power", "label": "Power", "type": "TEXT", "group": "Power" },
+        { "key": "display", "label": "Display", "type": "TEXT", "group": "Display" },
+        { "key": "resolution", "label": "Video resolution", "type": "TEXT", "group": "Video" },
+        { "key": "subscriptionRequired", "label": "Subscription required", "type": "BOOLEAN", "group": "Service" },
+        { "key": "colors", "label": "Colors", "type": "TEXT", "group": "Options", "comparable": false },
+        { "key": "configurations", "label": "Configurations", "type": "TEXT", "group": "Options", "comparable": false }
+      ],
+      "children": [
+        { "slug": "smart-speakers-displays", "name": "Smart speakers & displays" },
+        { "slug": "home-cameras-doorbells", "name": "Cameras & doorbells" },
+        { "slug": "thermostats", "name": "Thermostats" },
+        { "slug": "smart-lighting", "name": "Smart lighting" },
+        { "slug": "hubs-bridges", "name": "Hubs & bridges" }
+      ] }
+  ]
+}

@@ -1,0 +1,2040 @@
+{
+ "meta": {
+  "notes": "Sony (PlayStation, BRAVIA, audio, Alpha/ZV cameras and G Master lenses), Nintendo, Valve, Meta Quest, TCL, Hisense and gaming controller brands. Researched 2026-09-28 from official manufacturer sites/stores (direct.playstation.com API, nintendo.com store data, Steam store API, meta.com, electronics.sony.com, tcl.com, hisense-usa.com). Prices are the manufacturer's own US store prices on that date unless priceBasis is estimate."
+ },
+ "products": [
+  {
+   "sku": "TK-SONY-PS5-PRO-2TB",
+   "slug": "sony-playstation-5-pro",
+   "name": "Sony PlayStation 5 Pro Console (2 TB)",
+   "brand": "Sony",
+   "category": "consoles",
+   "price": "899.00",
+   "priceBasis": "msrp",
+   "priceSource": "https://direct.playstation.com/en-us/buy-consoles/playstation5-pro-console-2-tb",
+   "priceAsOf": "2026-09-28",
+   "releaseYear": 2024,
+   "summary": "The most powerful PlayStation console: an all-digital PS5 Pro with a 2 TB SSD, advanced ray tracing, PSSR AI upscaling and Wi-Fi 7.",
+   "description": "PS5 Pro lets developers enhance games with advanced ray tracing, super sharp image clarity for 4K TVs via PlayStation Spectral Super Resolution (PSSR), and high frame rate gameplay at 60Hz or 120Hz. It is an all-digital console with no disc drive; the Disc Drive and Vertical Stand are sold separately.",
+   "keywords": "ps5 pro playstation 5 pro console pssr ray tracing sony",
+   "specs": {
+    "platform": "PlayStation 5",
+    "storage": "2 TB SSD",
+    "output": "Up to 4K with PSSR AI upscaling; 60Hz and 120Hz display support; HDR",
+    "connectivity": "Wi-Fi 7 (compatible with Wi-Fi 6 and Wi-Fi 5 routers)",
+    "colors": "White",
+    "configurations": "2 TB digital (disc drive sold separately)"
+   },
+   "colors": [
+    "White"
+   ],
+   "collections": [
+    "gaming-monsters",
+    "ultimate-gaming-setup",
+    "dream-gaming"
+   ],
+   "featured": true,
+   "warranty": 12,
+   "sources": {
+    "product": "https://www.playstation.com/en-us/ps5/ps5-pro/",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://media.direct.playstation.com/is/image/sierialto/ps5-pro-Hero-1-angled?wid=1400&hei=1400&fmt=png-alpha",
+    "page": "https://direct.playstation.com/en-us/buy-consoles/playstation5-pro-console-2-tb",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official PlayStation Direct product image (media.direct.playstation.com); Sony Interactive Entertainment has not granted a reuse license — rights not verified.",
+    "alt": "PlayStation 5 Pro console in white standing vertically with a white DualSense wireless controller beside it",
+    "match": "EXACT",
+    "credit": "Sony Interactive Entertainment"
+   },
+   "notes": "Price read from the PlayStation Direct US store (product 1000050928) on 2026-09-28; the store showed it out of stock that day."
+  },
+  {
+   "sku": "TK-SONY-PS5-1TB",
+   "slug": "sony-playstation-5-console-1tb",
+   "name": "Sony PlayStation 5 Console (1 TB)",
+   "brand": "Sony",
+   "category": "consoles",
+   "price": "649.00",
+   "priceBasis": "msrp",
+   "priceSource": "https://direct.playstation.com/en-us/buy-consoles/playstation5-console-1-tb",
+   "priceAsOf": "2026-09-28",
+   "summary": "The slim PS5 console with a Blu-ray disc drive and 1 TB SSD, supporting haptic feedback, adaptive triggers, 3D Audio and ray tracing.",
+   "description": "The PS5 console plays PS5 and PS4 games on Blu-ray discs and digital games from PlayStation Store. It features an ultra-high speed SSD for fast loading, ray tracing in supported games and 4K HDR output on compatible TVs. The current model is over 30% smaller in volume than the original PS5.",
+   "keywords": "ps5 slim disc console playstation 5 blu-ray sony",
+   "specs": {
+    "platform": "PlayStation 5",
+    "storage": "1 TB SSD",
+    "output": "4K HDR on compatible TVs; ray tracing in supported games",
+    "colors": "White",
+    "configurations": "1 TB with Ultra HD Blu-ray disc drive"
+   },
+   "colors": [
+    "White"
+   ],
+   "collections": [
+    "gaming-monsters"
+   ],
+   "featured": false,
+   "warranty": 12,
+   "sources": {
+    "product": "https://www.playstation.com/en-us/ps5/",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://media.direct.playstation.com/is/image/sierialto/2025-PS5-Disc-Hero1?wid=1400&hei=1400&fmt=png-alpha",
+    "page": "https://direct.playstation.com/en-us/buy-consoles/playstation5-console-1-tb",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official PlayStation Direct product image (media.direct.playstation.com); Sony Interactive Entertainment has not granted a reuse license — rights not verified.",
+    "alt": "PlayStation 5 slim console with disc drive in white, standing vertically, front three-quarter view",
+    "match": "EXACT",
+    "credit": "Sony Interactive Entertainment"
+   }
+  },
+  {
+   "sku": "TK-SONY-PS5-DIGITAL-825GB",
+   "slug": "sony-playstation-5-digital-edition",
+   "name": "Sony PlayStation 5 Digital Edition (825 GB)",
+   "brand": "Sony",
+   "category": "consoles",
+   "price": "599.00",
+   "priceBasis": "msrp",
+   "priceSource": "https://direct.playstation.com/en-us/buy-consoles/playstation5-digital-edition-console-825-gb",
+   "priceAsOf": "2026-09-28",
+   "summary": "All-digital PS5 console with an 825 GB SSD; download games from PlayStation Store, with an optional add-on disc drive.",
+   "description": "PS5 Digital Edition is an all-digital version of the PS5 console with no disc drive. Games are bought and downloaded from PlayStation Store, and a Disc Drive for PS5 Digital Edition consoles can be added later (sold separately).",
+   "keywords": "ps5 digital edition all-digital console playstation 5 sony",
+   "specs": {
+    "platform": "PlayStation 5",
+    "storage": "825 GB SSD",
+    "output": "4K HDR on compatible TVs; ray tracing in supported games",
+    "colors": "White",
+    "configurations": "825 GB digital (disc drive sold separately)"
+   },
+   "colors": [
+    "White"
+   ],
+   "featured": false,
+   "warranty": 12,
+   "sources": {
+    "product": "https://www.playstation.com/en-us/ps5/",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://media.direct.playstation.com/is/image/sierialto/2025-PS5-Digital-Hero-1-console-dualsense?wid=1400&hei=1400&fmt=png-alpha",
+    "page": "https://direct.playstation.com/en-us/buy-consoles/playstation5-digital-edition-console-825-gb",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official PlayStation Direct product image (media.direct.playstation.com); Sony Interactive Entertainment has not granted a reuse license — rights not verified.",
+    "alt": "PlayStation 5 Digital Edition slim console in white standing vertically, front three-quarter view",
+    "match": "EXACT",
+    "credit": "Sony Interactive Entertainment"
+   }
+  },
+  {
+   "sku": "TK-SONY-PS-PORTAL",
+   "slug": "sony-playstation-portal-remote-player",
+   "name": "Sony PlayStation Portal Remote Player",
+   "brand": "Sony",
+   "category": "handhelds",
+   "price": "249.00",
+   "priceBasis": "msrp",
+   "priceSource": "https://direct.playstation.com/en-us/buy-accessories/playstation-portal-remote-player",
+   "priceAsOf": "2026-09-28",
+   "releaseYear": 2023,
+   "summary": "Play your PS5 over Wi-Fi on an 8-inch 1080p LCD with full DualSense features like haptic feedback and adaptive triggers.",
+   "description": "PlayStation Portal Remote Player streams games from your PS5 console over Wi-Fi with console-quality controls. It has an 8-inch LCD screen capable of 1080p at up to 60fps and supports DualSense haptic feedback and adaptive triggers in supported games.",
+   "keywords": "ps portal remote player handheld playstation streaming",
+   "specs": {
+    "platform": "PS5 Remote Play (requires a PS5 console)",
+    "display": "8-inch LCD, 1080p, up to 60fps",
+    "connectivity": "Wi-Fi; PlayStation Link audio",
+    "colors": "White, Midnight Black"
+   },
+   "colors": [
+    "White",
+    "Midnight Black"
+   ],
+   "featured": false,
+   "warranty": 12,
+   "sources": {
+    "product": "https://www.playstation.com/en-us/accessories/playstation-portal-remote-player/",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://media.direct.playstation.com/is/image/sierialto/ps-portal-remoteplayer-hero-1?wid=1400&hei=1400&fmt=png-alpha",
+    "page": "https://direct.playstation.com/en-us/buy-accessories/playstation-portal-remote-player",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official PlayStation Direct product image (media.direct.playstation.com); Sony Interactive Entertainment has not granted a reuse license — rights not verified.",
+    "alt": "PlayStation Portal Remote Player in white, front view with the 8-inch screen showing the PS logo",
+    "match": "EXACT",
+    "credit": "Sony Interactive Entertainment"
+   }
+  },
+  {
+   "sku": "TK-SONY-DUALSENSE",
+   "slug": "sony-dualsense-wireless-controller",
+   "name": "Sony DualSense Wireless Controller",
+   "brand": "Sony",
+   "category": "controllers",
+   "price": "74.00",
+   "priceBasis": "msrp",
+   "priceSource": "https://direct.playstation.com/en-us/buy-accessories/dualsense-wireless-controller",
+   "priceAsOf": "2026-09-28",
+   "summary": "The standard PS5 controller with haptic feedback, adaptive triggers, built-in mic and USB-C charging.",
+   "description": "DualSense brings haptic feedback and adaptive triggers to supported PS5 games, plus a built-in microphone and Create button. It charges and plays over USB Type-C and also connects by Bluetooth to Windows PC, Mac, Android and iOS devices.",
+   "keywords": "dualsense ps5 controller gamepad haptic adaptive triggers",
+   "specs": {
+    "platform": "PS5, PC, Mac, iOS, Android",
+    "connectivity": "Bluetooth; USB Type-C",
+    "battery": "Built-in rechargeable battery",
+    "colors": "White, Sterling Silver, Volcanic Red, Cobalt Blue, Chroma Pearl, Cosmic Red"
+   },
+   "colors": [
+    "White",
+    "Sterling Silver",
+    "Volcanic Red",
+    "Cobalt Blue",
+    "Chroma Pearl",
+    "Cosmic Red"
+   ],
+   "featured": false,
+   "warranty": 12,
+   "sources": {
+    "product": "https://www.playstation.com/en-us/accessories/dualsense-wireless-controller/",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://media.direct.playstation.com/is/image/sierialto/dualsense-hero-1?wid=1400&hei=1400&fmt=png-alpha",
+    "page": "https://direct.playstation.com/en-us/buy-accessories/dualsense-wireless-controller",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official PlayStation Direct product image (media.direct.playstation.com); Sony Interactive Entertainment has not granted a reuse license — rights not verified.",
+    "alt": "DualSense wireless controller in white and black, front view",
+    "match": "EXACT",
+    "credit": "Sony Interactive Entertainment"
+   },
+   "notes": "Colour availability varies; White was listed out of stock on PlayStation Direct on 2026-09-28."
+  },
+  {
+   "sku": "TK-SONY-DUALSENSE-EDGE",
+   "slug": "sony-dualsense-edge-wireless-controller",
+   "name": "Sony DualSense Edge Wireless Controller",
+   "brand": "Sony",
+   "category": "controllers",
+   "price": "199.00",
+   "priceBasis": "msrp",
+   "priceSource": "https://direct.playstation.com/en-us/buy-accessories/dualsense-edge-wireless-controller",
+   "priceAsOf": "2026-09-28",
+   "releaseYear": 2023,
+   "summary": "Pro-grade PS5 controller with swappable stick modules, back buttons, custom profiles and a locking braided USB cable.",
+   "description": "The DualSense Edge lets you create custom control profiles, remap buttons and fit back buttons, with replaceable stick modules. It ships with a 9.1 ft braided USB cable with a lockable connector housing and also works on PC via USB or Bluetooth.",
+   "keywords": "dualsense edge pro controller ps5 back buttons",
+   "specs": {
+    "platform": "PS5, PC",
+    "connectivity": "Bluetooth; USB Type-C (9.1 ft braided cable included)",
+    "colors": "White, Midnight Black"
+   },
+   "colors": [
+    "White",
+    "Midnight Black"
+   ],
+   "collections": [
+    "ultimate-gaming-setup"
+   ],
+   "featured": false,
+   "warranty": 12,
+   "sources": {
+    "product": "https://www.playstation.com/en-us/accessories/dualsense-edge-wireless-controller/",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://media.direct.playstation.com/is/image/sierialto/dualsense-edge-ps5-controller-front?wid=1400&hei=1400&fmt=png-alpha",
+    "page": "https://direct.playstation.com/en-us/buy-accessories/dualsense-edge-wireless-controller",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official PlayStation Direct product image (media.direct.playstation.com); Sony Interactive Entertainment has not granted a reuse license — rights not verified.",
+    "alt": "DualSense Edge wireless controller in white with black touch pad trim, front view",
+    "match": "EXACT",
+    "credit": "Sony Interactive Entertainment"
+   }
+  },
+  {
+   "sku": "TK-SONY-ACCESS-CONTROLLER",
+   "slug": "sony-access-controller",
+   "name": "Sony Access Controller for PS5",
+   "brand": "Sony",
+   "category": "controllers",
+   "price": "89.00",
+   "priceBasis": "msrp",
+   "priceSource": "https://direct.playstation.com/en-us/buy-accessories/access-controller",
+   "priceAsOf": "2026-09-28",
+   "releaseYear": 2023,
+   "summary": "Highly customizable accessibility controller kit for PS5, usable in any 360-degree orientation or on an AMPS mount.",
+   "description": "The Access controller kit is designed to help players with disabilities play more comfortably for longer. It can be operated from any 360-degree orientation, used on flat surfaces or attached to an AMPS pattern mount, and comes with swappable button caps and stick caps.",
+   "keywords": "access controller accessibility adaptive ps5",
+   "specs": {
+    "platform": "PS5",
+    "connectivity": "Wireless to PS5; USB cable included",
+    "colors": "White"
+   },
+   "colors": [
+    "White"
+   ],
+   "featured": false,
+   "warranty": 12,
+   "sources": {
+    "product": "https://www.playstation.com/en-us/accessories/access-controller/",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://media.direct.playstation.com/is/image/sierialto/Access-Controller-Front-Right-Hero-1?wid=1400&hei=1400&fmt=png-alpha",
+    "page": "https://direct.playstation.com/en-us/buy-accessories/access-controller",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official PlayStation Direct product image (media.direct.playstation.com); Sony Interactive Entertainment has not granted a reuse license — rights not verified.",
+    "alt": "PlayStation Access controller in white with its round button layout and joystick, front-right view",
+    "match": "EXACT",
+    "credit": "Sony Interactive Entertainment"
+   }
+  },
+  {
+   "sku": "TK-SONY-PULSE-ELITE",
+   "slug": "sony-pulse-elite-wireless-headset",
+   "name": "Sony PULSE Elite Wireless Headset",
+   "brand": "Sony",
+   "category": "headsets",
+   "price": "149.00",
+   "priceBasis": "msrp",
+   "priceSource": "https://direct.playstation.com/en-us/buy-accessories/pulse-elite-wireless-headset-ps5",
+   "priceAsOf": "2026-09-28",
+   "summary": "PS5 gaming headset with planar magnetic drivers, lossless PlayStation Link, a retractable AI noise-rejecting mic and up to 30 hours of battery.",
+   "description": "PULSE Elite uses planar magnetic drivers and a lossless, low-latency PlayStation Link wireless connection, and can listen to a Bluetooth device at the same time. A retractable microphone uses AI-enhanced noise rejection; battery life is up to 30 hours, with about 2 hours from a 10-minute charge. A charging hanger and PlayStation Link USB adapter are included.",
+   "keywords": "pulse elite headset ps5 planar playstation link",
+   "specs": {
+    "connection": "PlayStation Link (USB adapter included), Bluetooth",
+    "colors": "White, Midnight Black",
+    "batteryHours": 30
+   },
+   "colors": [
+    "White",
+    "Midnight Black"
+   ],
+   "featured": false,
+   "warranty": 12,
+   "sources": {
+    "product": "https://www.playstation.com/en-us/accessories/pulse-elite-wireless-headset/",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://media.direct.playstation.com/is/image/sierialto/2025-Elite-Hero-1-new?wid=1400&hei=1400&fmt=png-alpha",
+    "page": "https://direct.playstation.com/en-us/buy-accessories/pulse-elite-wireless-headset-ps5",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official PlayStation Direct product image (media.direct.playstation.com); Sony Interactive Entertainment has not granted a reuse license — rights not verified.",
+    "alt": "PULSE Elite wireless headset in white and black, three-quarter view with the retractable mic",
+    "match": "EXACT",
+    "credit": "Sony Interactive Entertainment"
+   }
+  },
+  {
+   "sku": "TK-SONY-PULSE-EXPLORE",
+   "slug": "sony-pulse-explore-wireless-earbuds",
+   "name": "Sony PULSE Explore Wireless Earbuds",
+   "brand": "Sony",
+   "category": "earbuds",
+   "price": "149.00",
+   "priceBasis": "msrp",
+   "priceSource": "https://direct.playstation.com/en-us/buy-accessories/pulse-explore-wireless-earbuds-ps5",
+   "priceAsOf": "2026-09-28",
+   "releaseYear": 2023,
+   "summary": "PlayStation earbuds with planar magnetic drivers, lossless PlayStation Link and two AI noise-rejecting mics.",
+   "description": "PULSE Explore earbuds pair planar magnetic drivers with PlayStation Link lossless wireless audio for PS5, PS Portal, PC and Mac, and also connect over Bluetooth. They offer up to 5 hours of battery life plus up to 10 more from the charging case, and include a PlayStation Link USB adapter.",
+   "keywords": "pulse explore earbuds ps5 portal playstation link planar",
+   "specs": {
+    "connectivity": "PlayStation Link (USB adapter included), Bluetooth",
+    "batteryHours": 5,
+    "drivers": "Planar magnetic",
+    "colors": "White, Midnight Black"
+   },
+   "colors": [
+    "White",
+    "Midnight Black"
+   ],
+   "featured": false,
+   "warranty": 12,
+   "sources": {
+    "product": "https://www.playstation.com/en-us/accessories/pulse-explore-wireless-earbuds/",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://media.direct.playstation.com/is/image/sierialto/Explore-Hero-1-new?wid=1400&hei=1400&fmt=png-alpha",
+    "page": "https://direct.playstation.com/en-us/buy-accessories/pulse-explore-wireless-earbuds-ps5",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official PlayStation Direct product image (media.direct.playstation.com); Sony Interactive Entertainment has not granted a reuse license — rights not verified.",
+    "alt": "PULSE Explore wireless earbuds in white and black, pair shown at an angle",
+    "match": "EXACT",
+    "credit": "Sony Interactive Entertainment"
+   }
+  },
+  {
+   "sku": "TK-SONY-PULSE-ELEVATE",
+   "slug": "sony-pulse-elevate-wireless-speakers",
+   "name": "Sony PULSE Elevate Wireless Speakers",
+   "brand": "Sony",
+   "category": "speakers",
+   "price": "219.00",
+   "priceBasis": "msrp",
+   "priceSource": "https://direct.playstation.com/en-us/buy-accessories/pulse-elevate-wireless-speakers",
+   "priceAsOf": "2026-09-28",
+   "summary": "Portable desktop speaker pair for PS5, PC and Mac with lossless PlayStation Link audio, Bluetooth and charging docks.",
+   "description": "PULSE Elevate wireless speakers bring gaming audio and chat to PS5, PC or Mac desktop setups over PlayStation Link's ultra-low latency, lossless wireless connection. They also connect to a TV or smartphone over Bluetooth, and can be lifted off the included charging docks to use on the go.",
+   "keywords": "pulse elevate speakers ps5 desktop playstation link",
+   "specs": {
+    "connection": "PlayStation Link, Bluetooth",
+    "colors": "White, Midnight Black"
+   },
+   "colors": [
+    "White",
+    "Midnight Black"
+   ],
+   "featured": false,
+   "warranty": 12,
+   "sources": {
+    "product": "https://www.playstation.com/en-us/accessories/pulse-elevate-wireless-speakers/",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://media.direct.playstation.com/is/image/sierialto/Elevate-speakers-white-hero-1?wid=1400&hei=1400&fmt=png-alpha",
+    "page": "https://direct.playstation.com/en-us/buy-accessories/pulse-elevate-wireless-speakers",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official PlayStation Direct product image (media.direct.playstation.com); Sony Interactive Entertainment has not granted a reuse license — rights not verified.",
+    "alt": "Pair of PULSE Elevate wireless speakers in white on their charging docks, angled front view",
+    "match": "EXACT",
+    "credit": "Sony Interactive Entertainment"
+   }
+  },
+  {
+   "sku": "TK-SONY-PS-GAMING-MONITOR-27",
+   "slug": "sony-playstation-27-inch-gaming-monitor",
+   "name": "Sony PlayStation 27\" Gaming Monitor with DualSense Charging Hook",
+   "brand": "Sony",
+   "category": "gaming-monitors",
+   "price": "349.00",
+   "priceBasis": "msrp",
+   "priceSource": "https://direct.playstation.com/en-us/buy-accessories/27-gaming-monitor-with-dualsense-charging-hook",
+   "priceAsOf": "2026-09-28",
+   "releaseYear": 2026,
+   "summary": "27-inch QHD IPS HDR gaming monitor with up to 240 Hz on PC (120 Hz on PS5), HDMI 2.1 and a DualSense charging hook.",
+   "description": "The PlayStation 27-inch Gaming Monitor has a 2560 x 1440 IPS panel with HDR support, up to 120 Hz on PS5 consoles and up to 240 Hz on compatible PC and Mac, with HDMI VRR and AMD FreeSync Premium. A hook on the stand charges a DualSense or DualSense Edge, and a USB port can host a PlayStation Link adapter.",
+   "keywords": "playstation monitor 27 inch qhd 240hz ps5 gaming monitor",
+   "specs": {
+    "sizeIn": 27,
+    "resolution": "2560 x 1440 (QHD)",
+    "refreshHz": 240,
+    "panel": "IPS",
+    "hdr": "HDR support",
+    "inputs": "2x HDMI 2.1, 1x DisplayPort 1.4, USB-B upstream, 2x USB-A, 1x USB-C (5Gbps)"
+   },
+   "collections": [
+    "ultimate-gaming-setup"
+   ],
+   "featured": false,
+   "warranty": 12,
+   "sources": {
+    "product": "https://www.playstation.com/en-us/accessories/27-inch-gaming-monitor/",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://media.direct.playstation.com/is/image/sierialto/PS-Monitor-Hero-1-front-facing?wid=1400&hei=1400&fmt=png-alpha",
+    "page": "https://direct.playstation.com/en-us/buy-accessories/27-gaming-monitor-with-dualsense-charging-hook",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official PlayStation Direct product image (media.direct.playstation.com); Sony Interactive Entertainment has not granted a reuse license — rights not verified.",
+    "alt": "PlayStation 27-inch Gaming Monitor in black, front-facing view on its stand",
+    "match": "EXACT",
+    "credit": "Sony Interactive Entertainment"
+   }
+  },
+  {
+   "sku": "TK-NINTENDO-SWITCH2",
+   "slug": "nintendo-switch-2",
+   "name": "Nintendo Switch 2",
+   "brand": "Nintendo",
+   "category": "consoles",
+   "price": "499.99",
+   "priceBasis": "msrp",
+   "priceSource": "https://www.nintendo.com/us/store/products/nintendo-switch-2-system-123669/",
+   "priceAsOf": "2026-09-28",
+   "summary": "Nintendo's hybrid console with a 7.9-inch 1080p HDR LCD at up to 120 Hz, 256 GB storage and 4K output when docked.",
+   "description": "Nintendo Switch 2 plays in handheld, tabletop and TV modes, with magnetic Joy-Con 2 controllers that support mouse controls and a C Button for GameChat. The dock outputs up to 4K at 60 fps (120 fps at 1080p/1440p) with HDR10, and the console plays both Switch 2 and Switch game cards.",
+   "keywords": "switch 2 nintendo console handheld hybrid joy-con 2 mario kart world",
+   "specs": {
+    "platform": "Nintendo Switch 2",
+    "chip": "Custom processor made by NVIDIA",
+    "storage": "256 GB UFS; microSD Express up to 2 TB",
+    "display": "7.9-inch LCD, 1920x1080, HDR10, VRR up to 120 Hz, touch",
+    "output": "HDMI via dock: up to 4K 60 fps; 120 fps at 1080p/1440p; HDR10",
+    "connectivity": "Wi-Fi 6, Bluetooth; wired LAN on dock",
+    "battery": "5220 mAh; approx. 2-6.5 hours",
+    "weightG": 535
+   },
+   "variants": [
+    {
+     "label": "Nintendo Switch 2 system",
+     "price": "499.99"
+    },
+    {
+     "label": "+ Nintendo Switch Sports Resort bundle",
+     "price": "529.99"
+    },
+    {
+     "label": "+ Mario Kart World bundle",
+     "price": "549.99"
+    }
+   ],
+   "colors": [
+    "Gray with Light Blue / Light Red Joy-Con 2"
+   ],
+   "collections": [
+    "gaming-monsters",
+    "dream-gaming"
+   ],
+   "featured": true,
+   "warranty": 12,
+   "sources": {
+    "product": "https://www.nintendo.com/us/gaming-systems/switch-2/",
+    "specs": "https://www.nintendo.com/us/gaming-systems/switch-2/tech-specs/",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://assets.nintendo.com/image/upload/f_png/q_auto/ncom/My%20Nintendo%20Store/EN-US/Nintendo%20Switch%202/Hardware/123669-nintendo-switch-2-dock-joy-con-grip-2000x2000",
+    "page": "https://www.nintendo.com/us/store/products/nintendo-switch-2-system-123669/",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official My Nintendo Store product image (assets.nintendo.com); Nintendo has not granted a reuse license — rights not verified.",
+    "alt": "Nintendo Switch 2 console in its dock with Joy-Con 2 controllers attached to the grip in front",
+    "match": "EXACT",
+    "credit": "Nintendo"
+   },
+   "notes": "Weight: official spec is approx. 1.18 lbs with Joy-Con 2 attached (converted to 535 g)."
+  },
+  {
+   "sku": "TK-NINTENDO-SWITCH2-PRO-CTRL",
+   "slug": "nintendo-switch-2-pro-controller",
+   "name": "Nintendo Switch 2 Pro Controller",
+   "brand": "Nintendo",
+   "category": "controllers",
+   "price": "89.99",
+   "priceBasis": "msrp",
+   "priceSource": "https://www.nintendo.com/us/store/products/nintendo-switch-2-pro-controller-123674/",
+   "priceAsOf": "2026-09-28",
+   "summary": "Full-size Switch 2 controller with mappable GL/GR back buttons, a C Button for GameChat, HD Rumble 2 and a headset jack.",
+   "description": "The Nintendo Switch 2 Pro Controller adds GL/GR buttons you can map to any button, a C Button to open GameChat, an audio jack for headphones and headsets, HD Rumble 2 and built-in amiibo functionality. A USB-C charging cable is included.",
+   "keywords": "switch 2 pro controller gamepad gl gr buttons nintendo",
+   "specs": {
+    "platform": "Nintendo Switch 2",
+    "connectivity": "Wireless; USB-C charging cable included; 3.5mm audio jack",
+    "colors": "Black"
+   },
+   "colors": [
+    "Black"
+   ],
+   "featured": false,
+   "warranty": 12,
+   "sources": {
+    "product": "https://www.nintendo.com/us/store/products/nintendo-switch-2-pro-controller-123674/",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://assets.nintendo.com/image/upload/f_png/q_auto/ncom/My%20Nintendo%20Store/EN-US/Nintendo%20Switch%202/Controllers/Pro%20Controllers/123674-nintendo-switch-2-pro-controller-front-angle-2000x2000",
+    "page": "https://www.nintendo.com/us/store/products/nintendo-switch-2-pro-controller-123674/",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official My Nintendo Store product image (assets.nintendo.com); Nintendo has not granted a reuse license — rights not verified.",
+    "alt": "Nintendo Switch 2 Pro Controller in black, front angled view",
+    "match": "EXACT",
+    "credit": "Nintendo"
+   }
+  },
+  {
+   "sku": "TK-NINTENDO-JOYCON2-PAIR",
+   "slug": "nintendo-joy-con-2-pair",
+   "name": "Nintendo Joy-Con 2 (L)/(R) Pair",
+   "brand": "Nintendo",
+   "category": "controllers",
+   "price": "99.99",
+   "priceBasis": "msrp",
+   "priceSource": "https://www.nintendo.com/us/store/products/nintendo-switch-2-joy-con-2-l-r-light-blue-light-red-123677/",
+   "priceAsOf": "2026-09-28",
+   "summary": "A left and right pair of Joy-Con 2 controllers with HD Rumble 2, motion and mouse controls, and straps included.",
+   "description": "Joy-Con 2 controllers attach magnetically to Nintendo Switch 2 and offer HD rumble plus motion and mouse controls in compatible games; the right controller adds a C Button for GameChat. The set includes both controllers and a pair of Joy-Con 2 straps.",
+   "keywords": "joy-con 2 controllers switch 2 pair nintendo",
+   "specs": {
+    "platform": "Nintendo Switch 2",
+    "connectivity": "Bluetooth, NFC (R)",
+    "battery": "500 mAh; approx. 20 hours",
+    "colors": "Light Blue / Light Red, Light Purple / Light Green, Blue / Light Yellow"
+   },
+   "colors": [
+    "Light Blue / Light Red",
+    "Light Purple / Light Green",
+    "Blue / Light Yellow"
+   ],
+   "featured": false,
+   "warranty": 12,
+   "sources": {
+    "product": "https://www.nintendo.com/us/store/products/nintendo-switch-2-joy-con-2-l-r-light-blue-light-red-123677/",
+    "specs": "https://www.nintendo.com/us/gaming-systems/switch-2/tech-specs/",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://assets.nintendo.com/image/upload/f_png/q_auto/ncom/My%20Nintendo%20Store/EN-US/Nintendo%20Switch%202/Controllers/Joy-Con%202/123677-nintendo-switch-2-joy-con-2-set-light-blue-light-red-front-1200x675",
+    "page": "https://www.nintendo.com/us/store/products/nintendo-switch-2-joy-con-2-l-r-light-blue-light-red-123677/",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official My Nintendo Store product image (assets.nintendo.com); Nintendo has not granted a reuse license — rights not verified.",
+    "alt": "Joy-Con 2 pair with light blue and light red accents and straps, front view",
+    "match": "EXACT",
+    "credit": "Nintendo"
+   }
+  },
+  {
+   "sku": "TK-NINTENDO-GAMECUBE-CTRL-NS2",
+   "slug": "nintendo-gamecube-controller-switch-2",
+   "name": "Nintendo GameCube Controller for Nintendo Switch 2",
+   "brand": "Nintendo",
+   "category": "controllers",
+   "price": "69.99",
+   "priceBasis": "msrp",
+   "priceSource": "https://www.nintendo.com/us/store/products/nintendo-switch-2-nintendo-gamecube-controller-120833/",
+   "priceAsOf": "2026-09-28",
+   "summary": "Wireless GameCube-style controller for Switch 2 with Capture and C Buttons; requires a Nintendo Switch Online membership to buy.",
+   "description": "This controller recreates the original Nintendo GameCube controller with modern Switch 2 features: a Capture Button, a C Button for GameChat and motion controls. It is only compatible with Nintendo Switch 2, pairs and charges via the included USB cable, and requires a paid Nintendo Switch Online membership to purchase.",
+   "keywords": "gamecube controller switch 2 nintendo classics online",
+   "specs": {
+    "platform": "Nintendo Switch 2 only",
+    "connectivity": "Wireless; USB cable included for pairing and charging",
+    "colors": "Indigo"
+   },
+   "featured": false,
+   "warranty": 12,
+   "sources": {
+    "product": "https://www.nintendo.com/us/store/products/nintendo-switch-2-nintendo-gamecube-controller-120833/",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://assets.nintendo.com/image/upload/f_png/q_auto/ncom/My%20Nintendo%20Store/EN-US/Nintendo%20Switch%202/Controllers/Wireless%20Controllers/120833-nintendo-switch-2-nintendo-gamecube-controller-front-2000x2000",
+    "page": "https://www.nintendo.com/us/store/products/nintendo-switch-2-nintendo-gamecube-controller-120833/",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official My Nintendo Store product image (assets.nintendo.com); Nintendo has not granted a reuse license — rights not verified.",
+    "alt": "Nintendo GameCube controller for Switch 2 in indigo purple, front view",
+    "match": "EXACT",
+    "credit": "Nintendo"
+   },
+   "notes": "Colour named from the product image; Nintendo's page does not name it."
+  },
+  {
+   "sku": "TK-VALVE-STEAMDECK-OLED",
+   "slug": "valve-steam-deck-oled",
+   "name": "Valve Steam Deck OLED",
+   "brand": "Valve",
+   "category": "handhelds",
+   "price": "789.00",
+   "priceBasis": "starting-at",
+   "priceSource": "https://store.steampowered.com/steamdeck",
+   "priceAsOf": "2026-09-28",
+   "summary": "Valve's handheld gaming PC with a 7.4-inch HDR OLED at up to 90 Hz, AMD Zen 2 + RDNA 2 APU, 16 GB LPDDR5 and a 50 Wh battery.",
+   "description": "Steam Deck OLED runs SteamOS on a 6 nm AMD APU (Zen 2 4c/8t CPU, 8 RDNA 2 CUs) with 16 GB LPDDR5. Its 7.4-inch 1280x800 HDR OLED reaches 1,000 nits peak (HDR) and up to 90 Hz, and it adds Wi-Fi 6E and Bluetooth 5.3 with a 50 Whr battery rated for 3-12 hours of gameplay.",
+   "keywords": "steam deck oled handheld gaming pc valve steamos",
+   "specs": {
+    "platform": "SteamOS",
+    "chip": "6 nm AMD APU: Zen 2 4c/8t, 8 RDNA 2 CUs",
+    "storage": "512 GB NVMe SSD",
+    "display": "7.4-inch HDR OLED touchscreen, 1280x800, up to 90 Hz, 1,000 nits peak (HDR)",
+    "output": "DisplayPort over USB-C: up to 8K @60Hz or 4K @120Hz",
+    "connectivity": "Wi-Fi 6E, Bluetooth 5.3",
+    "battery": "50 Whr; 3-12 hours of gameplay",
+    "weightG": 640
+   },
+   "variants": [
+    {
+     "label": "512 GB OLED",
+     "price": "789.00"
+    },
+    {
+     "label": "1 TB OLED",
+     "price": "949.00"
+    }
+   ],
+   "collections": [
+    "gaming-monsters",
+    "dream-gaming"
+   ],
+   "featured": true,
+   "warranty": 12,
+   "sources": {
+    "product": "https://store.steampowered.com/steamdeck",
+    "specs": "https://www.steamdeck.com/en/tech",
+    "retrievedAt": "2026-09-28"
+   },
+   "notes": "Prices from the Steam store package API (packages 946113, 946114) for the US on 2026-09-28.",
+   "image": {
+    "url": "https://cdn.akamai.steamstatic.com/steamdeck/images/press/renderings/press_oled_front_english.png",
+    "page": "https://www.steamdeck.com/en/press",
+    "sourceType": "manufacturer-press",
+    "rights": "Official Valve Steam Deck press kit rendering (steamdeck.com/en/press); provided for press use, reuse license not verified.",
+    "credit": "Valve",
+    "alt": "Valve Steam Deck OLED, front view with the Steam library on screen",
+    "match": "EXACT"
+   }
+  },
+  {
+   "sku": "TK-SONY-BRAVIA9-II",
+   "slug": "sony-bravia-9-ii",
+   "name": "Sony BRAVIA 9 II True RGB 4K HDR Google TV (2026)",
+   "brand": "Sony",
+   "category": "led-tvs",
+   "price": "3599.99",
+   "priceBasis": "starting-at",
+   "priceSource": "https://electronics.sony.com/tv-video/televisions/all-tvs/p/k65xr90m2",
+   "priceAsOf": "2026-09-28",
+   "releaseYear": 2026,
+   "summary": "Sony's 2026 flagship LCD TV with a True RGB LED backlight, XR Processor, local dimming and HDMI 2.1 4K120 gaming features.",
+   "description": "BRAVIA 9 II uses an RGB LED backlight with local dimming driven by Sony's XR Processor and XR Motion Clarity on a 120Hz native 4K panel. It runs Google TV, supports HDR10, HLG and Dolby Vision, and offers 4K120, VRR, ALLM and eARC over HDMI 2.1, with an Acoustic Multi-Audio+ speaker system including beam tweeters.",
+   "keywords": "bravia 9 ii rgb led tv 4k google tv sony xr 2026",
+   "specs": {
+    "sizeIn": 65,
+    "sizes": "65, 75, 85, 115 inch",
+    "resolution": "4K (3840 x 2160)",
+    "panel": "LCD with True RGB LED backlight, local dimming",
+    "refreshHz": 120,
+    "hdr": "HDR10, HLG, Dolby Vision",
+    "processor": "XR Processor",
+    "gaming": "HDMI 2.1: 4K120, VRR, ALLM, eARC",
+    "smartPlatform": "Google TV",
+    "audio": "Acoustic Multi-Audio+ with Beam Tweeters (2 subwoofers, 2 full range, 2 tweeters, 2 beam tweeters)"
+   },
+   "variants": [
+    {
+     "label": "65\" class",
+     "price": "3599.99"
+    },
+    {
+     "label": "75\" class",
+     "price": "4599.99"
+    },
+    {
+     "label": "85\" class",
+     "price": "6499.99"
+    },
+    {
+     "label": "115\" class",
+     "price": "30999.99"
+    }
+   ],
+   "collections": [
+    "dream-gaming"
+   ],
+   "featured": true,
+   "warranty": 12,
+   "sources": {
+    "product": "https://electronics.sony.com/tv-video/televisions/all-tvs/p/k65xr90m2",
+    "retrievedAt": "2026-09-28"
+   },
+   "notes": "Prices read from Sony Electronics' US store (electronics.sony.com) product data on 2026-09-28; Sony's store may be showing sale pricing.",
+   "image": {
+    "url": "https://d1ncau8tqf99kp.cloudfront.net/converted/154788_original_local_1200x1050_v3_converted.webp",
+    "page": "https://electronics.sony.com/tv-video/televisions/all-tvs/p/k65xr90m2",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official Sony Electronics US store product image (electronics.sony.com CDN); Sony has not granted a reuse license — rights not verified.",
+    "credit": "Sony",
+    "alt": "Sony BRAVIA 9 II True RGB TV, front view with red abstract artwork on screen",
+    "match": "EXACT"
+   }
+  },
+  {
+   "sku": "TK-SONY-BRAVIA8-II",
+   "slug": "sony-bravia-8-ii",
+   "name": "Sony BRAVIA 8 II QD-OLED 4K HDR Google TV",
+   "brand": "Sony",
+   "category": "oled-tvs",
+   "price": "2499.99",
+   "priceBasis": "starting-at",
+   "priceSource": "https://electronics.sony.com/tv-video/televisions/all-tvs/p/k65xr80m2",
+   "priceAsOf": "2026-09-28",
+   "releaseYear": 2025,
+   "summary": "Sony's QD-OLED 4K TV with XR OLED Motion, Acoustic Surface audio actuators and HDMI 2.1 4K120 gaming.",
+   "description": "BRAVIA 8 II pairs a QD-OLED 4K panel with XR OLED Motion processing and Google TV. It supports HDR10, HLG and Dolby Vision, offers 4K120, VRR, ALLM, eARC and source-based tone mapping over HDMI 2.1, and uses screen actuators plus two subwoofers for sound.",
+   "keywords": "bravia 8 ii qd-oled tv 4k google tv sony",
+   "specs": {
+    "sizeIn": 65,
+    "sizes": "55, 65 inch",
+    "resolution": "4K (3840 x 2160)",
+    "panel": "QD-OLED",
+    "hdr": "HDR10, HLG, Dolby Vision",
+    "gaming": "HDMI 2.1: 4K120, VRR, ALLM, eARC, SBTM",
+    "smartPlatform": "Google TV",
+    "audio": "2 actuators + 2 subwoofers"
+   },
+   "variants": [
+    {
+     "label": "55\" class",
+     "price": "2599.99"
+    },
+    {
+     "label": "65\" class",
+     "price": "2499.99"
+    }
+   ],
+   "collections": [
+    "oled-displays",
+    "dream-gaming"
+   ],
+   "featured": true,
+   "warranty": 12,
+   "sources": {
+    "product": "https://electronics.sony.com/tv-video/televisions/all-tvs/p/k65xr80m2",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://d1ncau8tqf99kp.cloudfront.net/converted/125820_original_local_1200x1050_v3_converted.webp",
+    "page": "https://electronics.sony.com/tv-video/televisions/all-tvs/p/k65xr80m2",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official Sony Electronics US store product image (electronics.sony.com CDN); Sony has not granted a reuse license — rights not verified.",
+    "alt": "Sony BRAVIA 8 II QD-OLED TV, front view with blue liquid artwork on screen",
+    "match": "EXACT",
+    "credit": "Sony"
+   },
+   "notes": "Prices read from Sony Electronics' US store (electronics.sony.com) product data on 2026-09-28; Sony's store may be showing sale pricing. On this date the 65-inch was listed below the 55-inch price."
+  },
+  {
+   "sku": "TK-SONY-BRAVIA6-OLED",
+   "slug": "sony-bravia-6-oled",
+   "name": "Sony BRAVIA 6 OLED 4K HDR Google TV (2026)",
+   "brand": "Sony",
+   "category": "oled-tvs",
+   "price": "1699.99",
+   "priceBasis": "starting-at",
+   "priceSource": "https://electronics.sony.com/tv-video/televisions/all-tvs/p/k65a60",
+   "priceAsOf": "2026-09-28",
+   "releaseYear": 2026,
+   "summary": "Sony's 2026 entry OLED TV in five sizes from 48 to 83 inches, with Dolby Vision and Google TV.",
+   "description": "BRAVIA 6 is Sony's 2026 OLED 4K TV, offered in 48, 55, 65, 77 and 83-inch sizes. It supports HDR10, HLG and Dolby Vision and runs Google TV.",
+   "keywords": "bravia 6 oled tv 4k google tv sony 2026",
+   "specs": {
+    "sizeIn": 65,
+    "sizes": "48, 55, 65, 77, 83 inch",
+    "resolution": "4K (3840 x 2160)",
+    "panel": "OLED",
+    "hdr": "HDR10, HLG, Dolby Vision",
+    "smartPlatform": "Google TV"
+   },
+   "variants": [
+    {
+     "label": "48\" class",
+     "price": "1099.99"
+    },
+    {
+     "label": "55\" class",
+     "price": "1399.99"
+    },
+    {
+     "label": "65\" class",
+     "price": "1699.99"
+    },
+    {
+     "label": "77\" class",
+     "price": "2199.99"
+    },
+    {
+     "label": "83\" class",
+     "price": "3999.99"
+    }
+   ],
+   "collections": [
+    "oled-displays"
+   ],
+   "featured": false,
+   "warranty": 12,
+   "sources": {
+    "product": "https://electronics.sony.com/tv-video/televisions/all-tvs/p/k65a60",
+    "retrievedAt": "2026-09-28"
+   },
+   "notes": "Prices read from Sony Electronics' US store (electronics.sony.com) product data on 2026-09-28; Sony's store may be showing sale pricing. Base price shown is the 65-inch model.",
+   "image": {
+    "url": "https://d1ncau8tqf99kp.cloudfront.net/converted/156853_original_local_1200x1050_v3_converted.webp",
+    "page": "https://electronics.sony.com/tv-video/televisions/all-tvs/p/k65a60",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official Sony Electronics US store product image (electronics.sony.com CDN); Sony has not granted a reuse license — rights not verified.",
+    "credit": "Sony",
+    "alt": "Sony BRAVIA 6 OLED TV, angled front view with purple and blue abstract artwork on screen",
+    "match": "EXACT"
+   }
+  },
+  {
+   "sku": "TK-SONY-BRAVIA5",
+   "slug": "sony-bravia-5-mini-led",
+   "name": "Sony BRAVIA 5 Mini LED 4K HDR Google TV",
+   "brand": "Sony",
+   "category": "led-tvs",
+   "price": "1399.99",
+   "priceBasis": "starting-at",
+   "priceSource": "https://electronics.sony.com/tv-video/televisions/all-tvs/p/k65xr50",
+   "priceAsOf": "2026-09-28",
+   "releaseYear": 2025,
+   "summary": "Mini LED 4K Google TV with local dimming, XR Motion Clarity, 120Hz panel and HDMI 2.1 4K120 gaming, up to 98 inches.",
+   "description": "BRAVIA 5 uses a Mini LED backlight with local dimming and a 120Hz native 4K panel with XR Motion Clarity. It runs Google TV, supports HDR10, HLG and Dolby Vision, and offers 4K120, VRR, ALLM, eARC and source-based tone mapping over HDMI 2.1.",
+   "keywords": "bravia 5 mini led tv 4k google tv sony 98 inch",
+   "specs": {
+    "sizeIn": 55,
+    "sizes": "55, 65, 75, 85, 98 inch",
+    "resolution": "4K (3840 x 2160)",
+    "panel": "LCD Mini LED, local dimming",
+    "refreshHz": 120,
+    "hdr": "HDR10, HLG, Dolby Vision",
+    "gaming": "HDMI 2.1: 4K120, VRR, ALLM, eARC, SBTM",
+    "smartPlatform": "Google TV",
+    "audio": "2 full range (bass reflex) + 2 tweeters"
+   },
+   "variants": [
+    {
+     "label": "55\" class",
+     "price": "1399.99"
+    },
+    {
+     "label": "65\" class",
+     "price": "1499.99"
+    },
+    {
+     "label": "75\" class",
+     "price": "1999.99"
+    },
+    {
+     "label": "85\" class",
+     "price": "2399.99"
+    },
+    {
+     "label": "98\" class",
+     "price": "4999.99"
+    }
+   ],
+   "featured": false,
+   "warranty": 12,
+   "sources": {
+    "product": "https://electronics.sony.com/tv-video/televisions/all-tvs/p/k65xr50",
+    "retrievedAt": "2026-09-28"
+   },
+   "notes": "Prices read from Sony Electronics' US store (electronics.sony.com) product data on 2026-09-28; Sony's store may be showing sale pricing.",
+   "image": {
+    "url": "https://d1ncau8tqf99kp.cloudfront.net/converted/125745_original_local_1200x1050_v3_converted.webp",
+    "page": "https://electronics.sony.com/tv-video/televisions/all-tvs/p/k65xr50",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official Sony Electronics US store product image (electronics.sony.com CDN); Sony has not granted a reuse license — rights not verified.",
+    "credit": "Sony",
+    "alt": "Sony BRAVIA 5 Mini LED TV, side angle view showing slim profile and feet, yellow abstract artwork on screen",
+    "match": "EXACT"
+   }
+  },
+  {
+   "sku": "TK-SONY-WF1000XM6",
+   "slug": "sony-wf-1000xm6",
+   "name": "Sony WF-1000XM6 Wireless Noise Cancelling Earbuds",
+   "brand": "Sony",
+   "category": "earbuds",
+   "price": "329.99",
+   "priceBasis": "msrp",
+   "priceSource": "https://electronics.sony.com/audio/headphones/truly-wireless-earbuds/p/wf1000xm6-s",
+   "priceAsOf": "2026-09-28",
+   "summary": "Sony's flagship noise-cancelling earbuds with 8.4 mm drivers, LDAC and LC3 support, weighing about 6.5 g each.",
+   "description": "WF-1000XM6 are Sony's top truly wireless noise-cancelling earbuds, with 8.4 mm driver units and support for SBC, AAC, LDAC and LC3 codecs. Battery life is up to 5 hours with noise cancelling on (5.5 hours off), and each earbud weighs about 6.5 g.",
+   "keywords": "wf-1000xm6 sony earbuds noise cancelling ldac",
+   "specs": {
+    "connectivity": "Bluetooth (SBC, AAC, LDAC, LC3)",
+    "noiseCancelling": true,
+    "batteryHours": 5,
+    "drivers": "8.4 mm",
+    "codecs": "SBC, AAC, LDAC, LC3",
+    "weightG": 6.5,
+    "colors": "Black, Silver"
+   },
+   "colors": [
+    "Black",
+    "Silver"
+   ],
+   "featured": true,
+   "warranty": 12,
+   "sources": {
+    "product": "https://electronics.sony.com/audio/headphones/truly-wireless-earbuds/p/wf1000xm6-s",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://d1ncau8tqf99kp.cloudfront.net/converted/151994_original_local_1200x1050_v3_converted.webp",
+    "page": "https://electronics.sony.com/audio/headphones/truly-wireless-earbuds/p/wf1000xm6-s",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official Sony Electronics US store product image (electronics.sony.com CDN); Sony has not granted a reuse license — rights not verified.",
+    "alt": "Sony WF-1000XM6 wireless earbuds in silver, pair shown at an angle",
+    "match": "EXACT",
+    "credit": "Sony"
+   },
+   "notes": "Weight spec is per earbud with M tips."
+  },
+  {
+   "sku": "TK-SONY-ULT-WEAR",
+   "slug": "sony-ult-wear",
+   "name": "Sony ULT WEAR Wireless Noise Canceling Headphones",
+   "brand": "Sony",
+   "category": "headphones",
+   "price": "149.99",
+   "priceBasis": "msrp",
+   "priceSource": "https://electronics.sony.com/audio/headphones/all-headphones/p/whult900n-h",
+   "priceAsOf": "2026-09-28",
+   "summary": "Bass-focused ULT POWER SOUND noise-cancelling headphones with 40 mm drivers, LDAC and up to 30 hours with NC on.",
+   "description": "ULT WEAR is part of Sony's ULT POWER SOUND series, with 40 mm dome drivers, noise cancelling and SBC, AAC and LDAC support. Battery life is up to 30 hours with noise cancelling on or 40 hours off, and the headphones weigh about 255 g.",
+   "keywords": "ult wear sony headphones bass noise cancelling",
+   "specs": {
+    "connectivity": "Bluetooth (SBC, AAC, LDAC)",
+    "noiseCancelling": true,
+    "batteryHours": 30,
+    "drivers": "40 mm dome",
+    "codecs": "SBC, AAC, LDAC",
+    "weightG": 255,
+    "colors": "Black, Forest Gray, Off White"
+   },
+   "colors": [
+    "Black",
+    "Forest Gray",
+    "Off White"
+   ],
+   "featured": false,
+   "warranty": 12,
+   "sources": {
+    "product": "https://electronics.sony.com/audio/headphones/all-headphones/p/whult900n-h",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://d1ncau8tqf99kp.cloudfront.net/converted/119308_original_local_1200x1050_v3_converted.webp",
+    "page": "https://electronics.sony.com/audio/headphones/all-headphones/p/whult900n-h",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official Sony Electronics US store product image (electronics.sony.com CDN); Sony has not granted a reuse license — rights not verified.",
+    "alt": "Sony ULT WEAR over-ear headphones in Forest Gray, side three-quarter view",
+    "match": "EXACT",
+    "credit": "Sony"
+   },
+   "notes": "Colours derived from Sony store variant codes (-b, -h, -w); Forest Gray named on the product page."
+  },
+  {
+   "sku": "TK-SONY-BRAVIA-THEATER-BAR9",
+   "slug": "sony-bravia-theater-bar-9",
+   "name": "Sony BRAVIA Theater Bar 9 Soundbar",
+   "brand": "Sony",
+   "category": "home-audio",
+   "price": "1499.99",
+   "priceBasis": "msrp",
+   "priceSource": "https://electronics.sony.com/audio/soundbars/all-soundbars/p/hta9000",
+   "priceAsOf": "2026-09-28",
+   "summary": "Sony's 13-channel flagship Dolby Atmos / DTS:X soundbar with HDMI eARC, Wi-Fi and Bluetooth 5.2.",
+   "description": "BRAVIA Theater Bar 9 is Sony's top soundbar, with 13 speakers and 360 Spatial Sound Mapping for Dolby Atmos and DTS:X content over HDMI eARC, with an HDMI input for 4K passthrough. It has Wi-Fi (802.11a/b/g/n/ac) and Bluetooth 5.2 receive.",
+   "keywords": "bravia theater bar 9 soundbar dolby atmos sony",
+   "specs": {
+    "channels": "13ch",
+    "connectivity": "HDMI eARC, HDMI in, Wi-Fi, Bluetooth 5.2",
+    "colors": "Black"
+   },
+   "colors": [
+    "Black"
+   ],
+   "featured": false,
+   "warranty": 12,
+   "sources": {
+    "product": "https://electronics.sony.com/audio/soundbars/all-soundbars/p/hta9000",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://d1ncau8tqf99kp.cloudfront.net/converted/119608_original_local_1200x1050_v3_converted.webp",
+    "page": "https://electronics.sony.com/audio/soundbars/all-soundbars/p/hta9000",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official Sony Electronics US store product image (electronics.sony.com CDN); Sony has not granted a reuse license — rights not verified.",
+    "alt": "Sony BRAVIA Theater Bar 9 soundbar in black, angled front view",
+    "match": "EXACT",
+    "credit": "Sony"
+   }
+  },
+  {
+   "sku": "TK-SONY-BRAVIA-THEATER-BAR8",
+   "slug": "sony-bravia-theater-bar-8",
+   "name": "Sony BRAVIA Theater Bar 8 Soundbar",
+   "brand": "Sony",
+   "category": "home-audio",
+   "price": "999.99",
+   "priceBasis": "msrp",
+   "priceSource": "https://electronics.sony.com/audio/soundbars/all-soundbars/p/hta8000",
+   "priceAsOf": "2026-09-28",
+   "summary": "11-channel Dolby Atmos soundbar with HDMI eARC and Bluetooth 5.2.",
+   "description": "BRAVIA Theater Bar 8 has 11 speakers and 360 Spatial Sound Mapping for Dolby Atmos and DTS:X playback, connecting to TVs over HDMI eARC and to phones over Bluetooth 5.2.",
+   "keywords": "bravia theater bar 8 soundbar dolby atmos sony",
+   "specs": {
+    "channels": "11ch",
+    "connectivity": "HDMI eARC, Bluetooth 5.2",
+    "colors": "Black"
+   },
+   "colors": [
+    "Black"
+   ],
+   "featured": false,
+   "warranty": 12,
+   "sources": {
+    "product": "https://electronics.sony.com/audio/soundbars/all-soundbars/p/hta8000",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://d1ncau8tqf99kp.cloudfront.net/converted/119588_original_local_1200x1050_v3_converted.webp",
+    "page": "https://electronics.sony.com/audio/soundbars/all-soundbars/p/hta8000",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official Sony Electronics US store product image (electronics.sony.com CDN); Sony has not granted a reuse license — rights not verified.",
+    "alt": "Sony BRAVIA Theater Bar 8 soundbar in black, angled front view",
+    "match": "EXACT",
+    "credit": "Sony"
+   }
+  },
+  {
+   "sku": "TK-SONY-BRAVIA-THEATER-BAR6",
+   "slug": "sony-bravia-theater-bar-6",
+   "name": "Sony BRAVIA Theater Bar 6 with Wireless Subwoofer",
+   "brand": "Sony",
+   "category": "home-audio",
+   "price": "549.99",
+   "priceBasis": "msrp",
+   "priceSource": "https://electronics.sony.com/audio/soundbars/all-soundbars/p/htb600",
+   "priceAsOf": "2026-09-28",
+   "summary": "3.1.2-channel Dolby Atmos soundbar with a wireless subwoofer, HDMI eARC and Bluetooth 5.3.",
+   "description": "BRAVIA Theater Bar 6 is a 3.1.2-channel soundbar supplied with the SA-WG700 wireless subwoofer. It decodes Dolby Atmos, Dolby TrueHD and DTS formats over HDMI eARC and connects over Bluetooth 5.3.",
+   "keywords": "bravia theater bar 6 soundbar subwoofer dolby atmos sony",
+   "specs": {
+    "channels": "3.1.2ch",
+    "connectivity": "HDMI eARC, optical, Bluetooth 5.3",
+    "colors": "Black"
+   },
+   "colors": [
+    "Black"
+   ],
+   "featured": false,
+   "warranty": 12,
+   "sources": {
+    "product": "https://electronics.sony.com/audio/soundbars/all-soundbars/p/htb600",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://d1ncau8tqf99kp.cloudfront.net/converted/124984_original_local_1200x1050_v3_converted.webp",
+    "page": "https://electronics.sony.com/audio/soundbars/all-soundbars/p/htb600",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official Sony Electronics US store product image (electronics.sony.com CDN); Sony has not granted a reuse license — rights not verified.",
+    "alt": "Sony BRAVIA Theater Bar 6 soundbar in black with its wireless subwoofer",
+    "match": "EXACT",
+    "credit": "Sony"
+   },
+   "notes": "Prices read from Sony Electronics' US store (electronics.sony.com) product data on 2026-09-28; Sony's store may be showing sale pricing. Sony's store search index listed $699.99 for this model while the product record showed $549.99; the product record price is used."
+  },
+  {
+   "sku": "TK-SONY-BRAVIA-THEATER-QUAD",
+   "slug": "sony-bravia-theater-quad",
+   "name": "Sony BRAVIA Theater Quad Home Theater System",
+   "brand": "Sony",
+   "category": "home-audio",
+   "price": "2699.99",
+   "priceBasis": "msrp",
+   "priceSource": "https://electronics.sony.com/audio/soundbars/all-soundbars/p/hta9m2",
+   "priceAsOf": "2026-09-28",
+   "summary": "Four-unit, 16-speaker wireless home theater system for Dolby Atmos and DTS:X, with Bluetooth 5.2.",
+   "description": "BRAVIA Theater Quad is Sony's flagship home theater system: four wireless speakers with 16 total speakers and 360 Spatial Sound Mapping for Dolby Atmos and DTS:X content. It connects to a TV over HDMI eARC and supports Bluetooth 5.2.",
+   "keywords": "bravia theater quad home theater wireless speakers dolby atmos sony",
+   "specs": {
+    "channels": "16ch",
+    "connectivity": "HDMI eARC, Bluetooth 5.2",
+    "colors": "Gray"
+   },
+   "colors": [
+    "Gray"
+   ],
+   "collections": [
+    "dream-gaming"
+   ],
+   "featured": false,
+   "warranty": 12,
+   "sources": {
+    "product": "https://electronics.sony.com/audio/soundbars/all-soundbars/p/hta9m2",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://d1ncau8tqf99kp.cloudfront.net/converted/119550_original_local_1200x1050_v3_converted.webp",
+    "page": "https://electronics.sony.com/audio/soundbars/all-soundbars/p/hta9m2",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official Sony Electronics US store product image (electronics.sony.com CDN); Sony has not granted a reuse license — rights not verified.",
+    "alt": "Sony BRAVIA Theater Quad four gray wireless speakers with the black control box",
+    "match": "EXACT",
+    "credit": "Sony"
+   }
+  },
+  {
+   "sku": "TK-SONY-A1-II",
+   "slug": "sony-alpha-1-ii",
+   "name": "Sony Alpha 1 II Full-frame Mirrorless Camera (Body)",
+   "brand": "Sony",
+   "category": "mirrorless-cameras",
+   "price": "6999.99",
+   "priceBasis": "msrp",
+   "priceSource": "https://electronics.sony.com/imaging/interchangeable-lens-cameras/all-interchangeable-lens-cameras/p/ilce1m2b",
+   "priceAsOf": "2026-09-28",
+   "summary": "Sony's flagship 50.1 MP full-frame stacked camera with 8K video, 30 fps shooting, 759-point phase-detect AF and 8.5-stop stabilization.",
+   "description": "Alpha 1 II combines a 50.1-megapixel 35mm full-frame Exmor RS CMOS sensor with up to 30 fps continuous shooting and 8K video recording. Autofocus uses up to 759 phase-detection points, in-body stabilization is rated at 8.5 stops at the centre (CIPA 2024), and it takes the NP-FZ100 battery.",
+   "keywords": "alpha 1 ii a1 ii sony flagship mirrorless 8k",
+   "specs": {
+    "sensor": "35mm full frame (35.9 x 24.0 mm) Exmor RS CMOS",
+    "megapixels": 50.1,
+    "video": "8K and 4K recording",
+    "stabilization": "In-body, 8.5 stops centre / 7.0 stops periphery (CIPA 2024)",
+    "mount": "Sony E-mount",
+    "battery": "NP-FZ100",
+    "weightG": 658,
+    "autofocus": "Fast Hybrid AF, 759 phase-detection points"
+   },
+   "collections": [
+    "creator-workstations"
+   ],
+   "featured": true,
+   "warranty": 12,
+   "sources": {
+    "product": "https://electronics.sony.com/imaging/interchangeable-lens-cameras/all-interchangeable-lens-cameras/p/ilce1m2b",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://d1ncau8tqf99kp.cloudfront.net/converted/123620_original_local_1200x1050_v3_converted.webp",
+    "page": "https://electronics.sony.com/imaging/interchangeable-lens-cameras/all-interchangeable-lens-cameras/p/ilce1m2b",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official Sony Electronics US store product image (electronics.sony.com CDN); Sony has not granted a reuse license — rights not verified.",
+    "alt": "Sony Alpha 1 II camera body, front view with the full-frame sensor exposed",
+    "match": "EXACT",
+    "credit": "Sony"
+   }
+  },
+  {
+   "sku": "TK-SONY-A7R-VI",
+   "slug": "sony-alpha-7r-vi",
+   "name": "Sony Alpha 7R VI Full-frame Mirrorless Camera (Body)",
+   "brand": "Sony",
+   "category": "mirrorless-cameras",
+   "price": "4499.99",
+   "priceBasis": "msrp",
+   "priceSource": "https://electronics.sony.com/imaging/interchangeable-lens-cameras/full-frame/p/ilce7rm6b",
+   "priceAsOf": "2026-09-28",
+   "summary": "High-resolution 66.8 MP full-frame camera with 8K video, 30 fps electronic-shutter bursts and 759-point AF.",
+   "description": "Alpha 7R VI uses a 66.8-megapixel 35mm full-frame Exmor RS CMOS sensor and records 8K and 4K video. It shoots up to 30 fps with the electronic shutter, focuses with up to 759 phase-detection points and uses the NP-SA100 battery; the body weighs about 622 g.",
+   "keywords": "alpha 7r vi a7r6 sony high resolution mirrorless",
+   "specs": {
+    "sensor": "35mm full frame (35.9 x 24.0 mm) Exmor RS CMOS",
+    "megapixels": 66.8,
+    "video": "8K and 4K recording",
+    "mount": "Sony E-mount",
+    "battery": "NP-SA100",
+    "weightG": 622,
+    "autofocus": "759 phase-detection points"
+   },
+   "collections": [
+    "creator-workstations"
+   ],
+   "featured": false,
+   "warranty": 12,
+   "sources": {
+    "product": "https://electronics.sony.com/imaging/interchangeable-lens-cameras/full-frame/p/ilce7rm6b",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://d1ncau8tqf99kp.cloudfront.net/converted/154093_original_local_1200x1050_v3_converted.webp",
+    "page": "https://electronics.sony.com/imaging/interchangeable-lens-cameras/full-frame/p/ilce7rm6b",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official Sony Electronics US store product image (electronics.sony.com CDN); Sony has not granted a reuse license — rights not verified.",
+    "alt": "Sony Alpha 7R VI camera body, front view with the full-frame sensor exposed",
+    "match": "EXACT",
+    "credit": "Sony"
+   }
+  },
+  {
+   "sku": "TK-SONY-A7-V",
+   "slug": "sony-alpha-7-v",
+   "name": "Sony Alpha 7 V Full-frame Mirrorless Camera",
+   "brand": "Sony",
+   "category": "mirrorless-cameras",
+   "price": "2899.99",
+   "priceBasis": "starting-at",
+   "priceSource": "https://electronics.sony.com/imaging/interchangeable-lens-cameras/all-interchangeable-lens-cameras/p/ilce7m5-b",
+   "priceAsOf": "2026-09-28",
+   "summary": "33 MP full-frame all-rounder with 30 fps electronic-shutter bursts, 759-point AF and NP-FZ100 battery.",
+   "description": "Alpha 7 V is Sony's full-frame all-rounder, with a 33.0-megapixel Exmor RS CMOS sensor, up to 30 fps continuous shooting with the electronic shutter (10 fps mechanical) and up to 759 phase-detection AF points. The body weighs about 610 g and uses the NP-FZ100 battery.",
+   "keywords": "alpha 7 v a7v a7 mark v sony full frame hybrid",
+   "specs": {
+    "sensor": "35mm full frame (35.9 x 23.9 mm) Exmor RS CMOS",
+    "megapixels": 33.0,
+    "mount": "Sony E-mount",
+    "battery": "NP-FZ100",
+    "weightG": 610,
+    "autofocus": "759 phase-detection points"
+   },
+   "variants": [
+    {
+     "label": "Body only",
+     "price": "2899.99"
+    },
+    {
+     "label": "Kit (ilce7m5mb)",
+     "price": "3099.99"
+    }
+   ],
+   "featured": false,
+   "warranty": 12,
+   "sources": {
+    "product": "https://electronics.sony.com/imaging/interchangeable-lens-cameras/all-interchangeable-lens-cameras/p/ilce7m5-b",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://d1ncau8tqf99kp.cloudfront.net/converted/150061_original_local_1200x1050_v3_converted.webp",
+    "page": "https://electronics.sony.com/imaging/interchangeable-lens-cameras/all-interchangeable-lens-cameras/p/ilce7m5-b",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official Sony Electronics US store product image (electronics.sony.com CDN); Sony has not granted a reuse license — rights not verified.",
+    "alt": "Sony Alpha 7 V camera body, front view with the full-frame sensor exposed",
+    "match": "EXACT",
+    "credit": "Sony"
+   },
+   "notes": "Kit variant label uses Sony's store code; lens contents not confirmed from the product data read."
+  },
+  {
+   "sku": "TK-SONY-A9-III",
+   "slug": "sony-alpha-9-iii",
+   "name": "Sony Alpha 9 III Full-frame Mirrorless Camera (Body)",
+   "brand": "Sony",
+   "category": "mirrorless-cameras",
+   "price": "6799.99",
+   "priceBasis": "msrp",
+   "priceSource": "https://electronics.sony.com/imaging/interchangeable-lens-cameras/all-interchangeable-lens-cameras/p/ilce9m3b",
+   "priceAsOf": "2026-09-28",
+   "summary": "Speed-focused 24.6 MP full-frame camera shooting up to 120 fps, with 759-point AF and 5-axis stabilization.",
+   "description": "Alpha 9 III is built for speed, with a 24.6-megapixel 35mm full-frame Exmor RS CMOS sensor capable of up to 120 fps continuous shooting. It offers up to 759 phase-detection AF points for stills, five-axis sensor-shift stabilization and the NP-FZ100 battery; the body weighs about 617 g.",
+   "keywords": "alpha 9 iii a9 iii sony sports mirrorless 120fps",
+   "specs": {
+    "sensor": "35mm full frame (35.6 x 23.8 mm) Exmor RS CMOS",
+    "megapixels": 24.6,
+    "stabilization": "5-axis sensor-shift",
+    "mount": "Sony E-mount",
+    "battery": "NP-FZ100",
+    "weightG": 617,
+    "autofocus": "759 phase-detection points (stills)"
+   },
+   "featured": false,
+   "warranty": 12,
+   "sources": {
+    "product": "https://electronics.sony.com/imaging/interchangeable-lens-cameras/all-interchangeable-lens-cameras/p/ilce9m3b",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://d1ncau8tqf99kp.cloudfront.net/converted/117670_original_local_1200x1050_v3_converted.webp",
+    "page": "https://electronics.sony.com/imaging/interchangeable-lens-cameras/all-interchangeable-lens-cameras/p/ilce9m3b",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official Sony Electronics US store product image (electronics.sony.com CDN); Sony has not granted a reuse license — rights not verified.",
+    "alt": "Sony Alpha 9 III camera body, front view with the full-frame sensor exposed",
+    "match": "EXACT",
+    "credit": "Sony"
+   }
+  },
+  {
+   "sku": "TK-SONY-ZV-E1",
+   "slug": "sony-zv-e1",
+   "name": "Sony ZV-E1 Full-frame Vlog Camera",
+   "brand": "Sony",
+   "category": "mirrorless-cameras",
+   "price": "2499.99",
+   "priceBasis": "starting-at",
+   "priceSource": "https://electronics.sony.com/imaging/interchangeable-lens-cameras/all-interchangeable-lens-cameras/p/ilczve1-w",
+   "priceAsOf": "2026-09-28",
+   "summary": "Compact 399 g full-frame vlogging camera with a 12.1 MP sensor, 4K video, 5-stop stabilization and 759-point AF.",
+   "description": "ZV-E1 puts a 12.1-megapixel 35mm full-frame Exmor R CMOS sensor in a compact creator body weighing about 399 g. It records 4K video, has 5.0-stop in-body stabilization and up to 759 phase-detection AF points, and is sold body-only or as a lens kit in black or white.",
+   "keywords": "zv-e1 vlog camera sony full frame creator",
+   "specs": {
+    "sensor": "35mm full frame (35.6 x 23.8 mm) Exmor R CMOS",
+    "megapixels": 12.1,
+    "video": "4K recording",
+    "stabilization": "In-body, 5.0 stops (CIPA)",
+    "mount": "Sony E-mount",
+    "weightG": 399,
+    "autofocus": "759 phase-detection points (stills)"
+   },
+   "variants": [
+    {
+     "label": "Body only",
+     "price": "2499.99"
+    },
+    {
+     "label": "Lens kit",
+     "price": "2799.99"
+    }
+   ],
+   "colors": [
+    "White",
+    "Black"
+   ],
+   "collections": [
+    "creator-workstations"
+   ],
+   "featured": false,
+   "warranty": 12,
+   "sources": {
+    "product": "https://electronics.sony.com/imaging/interchangeable-lens-cameras/all-interchangeable-lens-cameras/p/ilczve1-w",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://d1ncau8tqf99kp.cloudfront.net/converted/111415_original_local_1200x1050_v3_converted.webp",
+    "page": "https://electronics.sony.com/imaging/interchangeable-lens-cameras/all-interchangeable-lens-cameras/p/ilczve1-w",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official Sony Electronics US store product image (electronics.sony.com CDN); Sony has not granted a reuse license — rights not verified.",
+    "alt": "Sony ZV-E1 vlog camera in white with windscreen and flip-out screen, front view",
+    "match": "EXACT",
+    "credit": "Sony"
+   }
+  },
+  {
+   "sku": "TK-SONY-FX3",
+   "slug": "sony-cinema-line-fx3",
+   "name": "Sony Cinema Line FX3 Full-frame Cinema Camera",
+   "brand": "Sony",
+   "category": "mirrorless-cameras",
+   "price": "4299.99",
+   "priceBasis": "msrp",
+   "priceSource": "https://electronics.sony.com/imaging/interchangeable-lens-cameras/all-interchangeable-lens-cameras/p/ilmefx3a",
+   "priceAsOf": "2026-09-28",
+   "summary": "Compact full-frame Cinema Line camera with a 12.1 MP Exmor R sensor, 5.5-stop stabilization and 627-point movie AF.",
+   "description": "The FX3 is Sony's compact full-frame Cinema Line camera, built around a 35mm full-frame Exmor R CMOS sensor (about 10.3 MP for movies, 12.1 MP stills). It has 5.5-stop in-body stabilization and phase-detection AF with 627 points for movies, on the E-mount.",
+   "keywords": "fx3 cinema line sony full frame video camera",
+   "specs": {
+    "sensor": "35mm full frame (35.6 x 23.8 mm) Exmor R CMOS",
+    "megapixels": 12.1,
+    "stabilization": "In-body, 5.5 stops (CIPA)",
+    "mount": "Sony E-mount",
+    "autofocus": "627 points (movie), 759 points (stills)"
+   },
+   "collections": [
+    "creator-workstations"
+   ],
+   "featured": false,
+   "warranty": 12,
+   "sources": {
+    "product": "https://electronics.sony.com/imaging/interchangeable-lens-cameras/all-interchangeable-lens-cameras/p/ilmefx3a",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://d1ncau8tqf99kp.cloudfront.net/converted/128744_original_local_1200x1050_v3_converted.webp",
+    "page": "https://electronics.sony.com/imaging/interchangeable-lens-cameras/all-interchangeable-lens-cameras/p/ilmefx3a",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official Sony Electronics US store product image (electronics.sony.com CDN); Sony has not granted a reuse license — rights not verified.",
+    "alt": "Sony FX3 cinema camera body in gray, front view with the full-frame sensor exposed",
+    "match": "EXACT",
+    "credit": "Sony"
+   },
+   "notes": "Listed as out of stock on Sony's US store on 2026-09-28 but still offered."
+  },
+  {
+   "sku": "TK-SONY-ZV-E10-II",
+   "slug": "sony-zv-e10-ii",
+   "name": "Sony ZV-E10 II APS-C Vlog Camera",
+   "brand": "Sony",
+   "category": "mirrorless-cameras",
+   "price": "1199.99",
+   "priceBasis": "starting-at",
+   "priceSource": "https://electronics.sony.com/imaging/interchangeable-lens-cameras/aps-c/p/zve10m2b",
+   "priceAsOf": "2026-09-28",
+   "summary": "Lightweight 26 MP APS-C interchangeable-lens vlog camera, about 292 g body-only.",
+   "description": "ZV-E10 II is an APS-C interchangeable-lens camera for creators, with a 26.0-megapixel Exmor R CMOS sensor, up to 759 phase-detection AF points for stills and an NP-FZ100 battery. The body weighs about 292 g and it is offered in black or white, body-only or as a kit.",
+   "keywords": "zv-e10 ii vlog camera aps-c sony creator",
+   "specs": {
+    "sensor": "APS-C (23.3 x 15.5 mm) Exmor R CMOS",
+    "megapixels": 26.0,
+    "mount": "Sony E-mount",
+    "battery": "NP-FZ100",
+    "weightG": 292,
+    "autofocus": "759 phase-detection points (stills)"
+   },
+   "variants": [
+    {
+     "label": "Body only",
+     "price": "1199.99"
+    },
+    {
+     "label": "Kit",
+     "price": "1299.99"
+    }
+   ],
+   "colors": [
+    "Black",
+    "White"
+   ],
+   "featured": false,
+   "warranty": 12,
+   "sources": {
+    "product": "https://electronics.sony.com/imaging/interchangeable-lens-cameras/aps-c/p/zve10m2b",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://d1ncau8tqf99kp.cloudfront.net/converted/120973_original_local_1200x1050_v3_converted.webp",
+    "page": "https://electronics.sony.com/imaging/interchangeable-lens-cameras/aps-c/p/zve10m2b",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official Sony Electronics US store product image (electronics.sony.com CDN); Sony has not granted a reuse license — rights not verified.",
+    "alt": "Sony ZV-E10 II vlog camera in black with windscreen and flip-out screen, front view",
+    "match": "EXACT",
+    "credit": "Sony"
+   },
+   "notes": "Listed as out of stock on Sony's US store on 2026-09-28."
+  },
+  {
+   "sku": "TK-SONY-FE-2470-GM2",
+   "slug": "sony-fe-24-70mm-f2-8-gm-ii",
+   "name": "Sony FE 24-70mm F2.8 GM II Lens",
+   "brand": "Sony",
+   "category": "camera-lenses",
+   "price": "2449.99",
+   "priceBasis": "msrp",
+   "priceSource": "https://electronics.sony.com/imaging/lenses/all-e-mount/p/sel2470gm2",
+   "priceAsOf": "2026-09-28",
+   "summary": "Sony's G Master standard zoom: constant F2.8, 695 g, 82 mm filter thread.",
+   "description": "The FE 24-70mm F2.8 GM II is Sony's G Master standard zoom for full-frame E-mount. It weighs about 695 g, takes 82 mm filters and focuses as close as 0.21 m at the wide end.",
+   "keywords": "sony g master gm e-mount lens 24-70mm",
+   "specs": {
+    "focalLength": "24-70mm",
+    "maxAperture": "F2.8",
+    "mount": "Sony E-mount",
+    "sensor": "35mm full frame",
+    "stabilization": "None in lens (uses in-body stabilization)",
+    "weightG": 695
+   },
+   "featured": false,
+   "warranty": 12,
+   "sources": {
+    "product": "https://electronics.sony.com/imaging/lenses/all-e-mount/p/sel2470gm2",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://d1ncau8tqf99kp.cloudfront.net/converted/102462_original_local_1200x1050_v3_converted.webp",
+    "page": "https://electronics.sony.com/imaging/lenses/all-e-mount/p/sel2470gm2",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official Sony Electronics US store product image (electronics.sony.com CDN); Sony has not granted a reuse license — rights not verified.",
+    "alt": "Sony FE 24-70mm F2.8 GM II zoom lens in black, side view showing the G badge",
+    "match": "EXACT",
+    "credit": "Sony"
+   }
+  },
+  {
+   "sku": "TK-SONY-FE-70200-GM2",
+   "slug": "sony-fe-70-200mm-f2-8-gm-oss-ii",
+   "name": "Sony FE 70-200mm F2.8 GM OSS II Lens",
+   "brand": "Sony",
+   "category": "camera-lenses",
+   "price": "3099.99",
+   "priceBasis": "msrp",
+   "priceSource": "https://electronics.sony.com/imaging/lenses/all-e-mount/p/sel70200gm2",
+   "priceAsOf": "2026-09-28",
+   "summary": "Stabilized G Master telephoto zoom: constant F2.8 with Optical SteadyShot, 1045 g.",
+   "description": "The FE 70-200mm F2.8 GM OSS II is a G Master telephoto zoom with Optical SteadyShot stabilization. It weighs about 1045 g without the tripod mount, takes 77 mm filters and focuses from 0.4 m.",
+   "keywords": "sony g master gm e-mount lens 70-200mm",
+   "specs": {
+    "focalLength": "70-200mm",
+    "maxAperture": "F2.8",
+    "mount": "Sony E-mount",
+    "sensor": "35mm full frame",
+    "stabilization": "Optical SteadyShot",
+    "weightG": 1045
+   },
+   "featured": false,
+   "warranty": 12,
+   "sources": {
+    "product": "https://electronics.sony.com/imaging/lenses/all-e-mount/p/sel70200gm2",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://d1ncau8tqf99kp.cloudfront.net/converted/92317_original_local_1200x1050_v3_converted.webp",
+    "page": "https://electronics.sony.com/imaging/lenses/all-e-mount/p/sel70200gm2",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official Sony Electronics US store product image (electronics.sony.com CDN); Sony has not granted a reuse license — rights not verified.",
+    "alt": "Sony FE 70-200mm F2.8 GM OSS II telephoto zoom lens in white with tripod foot, side view",
+    "match": "EXACT",
+    "credit": "Sony"
+   }
+  },
+  {
+   "sku": "TK-SONY-FE-1635-GM2",
+   "slug": "sony-fe-16-35mm-f2-8-gm-ii",
+   "name": "Sony FE 16-35mm F2.8 GM II Lens",
+   "brand": "Sony",
+   "category": "camera-lenses",
+   "price": "2599.99",
+   "priceBasis": "msrp",
+   "priceSource": "https://electronics.sony.com/imaging/lenses/all-e-mount/p/sel1635gm2",
+   "priceAsOf": "2026-09-28",
+   "summary": "Compact G Master wide-angle zoom: constant F2.8, 547 g.",
+   "description": "The FE 16-35mm F2.8 GM II is a compact G Master wide-angle zoom for full-frame E-mount, weighing about 547 g with an 82 mm filter thread.",
+   "keywords": "sony g master gm e-mount lens 16-35mm",
+   "specs": {
+    "focalLength": "16-35mm",
+    "maxAperture": "F2.8",
+    "mount": "Sony E-mount",
+    "sensor": "35mm full frame",
+    "stabilization": "None in lens (uses in-body stabilization)",
+    "weightG": 547
+   },
+   "featured": false,
+   "warranty": 12,
+   "sources": {
+    "product": "https://electronics.sony.com/imaging/lenses/all-e-mount/p/sel1635gm2",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://d1ncau8tqf99kp.cloudfront.net/converted/116338_original_local_1200x1050_v3_converted.webp",
+    "page": "https://electronics.sony.com/imaging/lenses/all-e-mount/p/sel1635gm2",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official Sony Electronics US store product image (electronics.sony.com CDN); Sony has not granted a reuse license — rights not verified.",
+    "alt": "Sony FE 16-35mm F2.8 GM II wide-angle zoom lens in black, side view",
+    "match": "EXACT",
+    "credit": "Sony"
+   }
+  },
+  {
+   "sku": "TK-SONY-FE-85F14-GM2",
+   "slug": "sony-fe-85mm-f1-4-gm-ii",
+   "name": "Sony FE 85mm F1.4 GM II Lens",
+   "brand": "Sony",
+   "category": "camera-lenses",
+   "price": "1949.99",
+   "priceBasis": "msrp",
+   "priceSource": "https://electronics.sony.com/imaging/lenses/all-e-mount/p/sel85f14gm2",
+   "priceAsOf": "2026-09-28",
+   "summary": "G Master F1.4 portrait prime, 642 g.",
+   "description": "The FE 85mm F1.4 GM II is Sony's G Master portrait prime for full-frame E-mount, weighing about 642 g with a 77 mm filter thread.",
+   "keywords": "sony g master gm e-mount lens 85mm",
+   "specs": {
+    "focalLength": "85mm",
+    "maxAperture": "F1.4",
+    "mount": "Sony E-mount",
+    "sensor": "35mm full frame",
+    "stabilization": "None in lens (uses in-body stabilization)",
+    "weightG": 642
+   },
+   "featured": false,
+   "warranty": 12,
+   "sources": {
+    "product": "https://electronics.sony.com/imaging/lenses/all-e-mount/p/sel85f14gm2",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://d1ncau8tqf99kp.cloudfront.net/converted/121777_original_local_1200x1050_v3_converted.webp",
+    "page": "https://electronics.sony.com/imaging/lenses/all-e-mount/p/sel85f14gm2",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official Sony Electronics US store product image (electronics.sony.com CDN); Sony has not granted a reuse license — rights not verified.",
+    "alt": "Sony FE 85mm F1.4 GM II portrait prime lens in black, side view",
+    "match": "EXACT",
+    "credit": "Sony"
+   }
+  },
+  {
+   "sku": "TK-SONY-FE-50F12-GM",
+   "slug": "sony-fe-50mm-f1-2-gm",
+   "name": "Sony FE 50mm F1.2 GM Lens",
+   "brand": "Sony",
+   "category": "camera-lenses",
+   "price": "2299.99",
+   "priceBasis": "msrp",
+   "priceSource": "https://electronics.sony.com/imaging/lenses/all-e-mount/p/sel50f12gm",
+   "priceAsOf": "2026-09-28",
+   "summary": "Ultra-bright F1.2 G Master standard prime, 778 g.",
+   "description": "The FE 50mm F1.2 GM is a large-aperture G Master standard prime for full-frame E-mount. It weighs about 778 g, takes 72 mm filters and focuses from 0.4 m.",
+   "keywords": "sony g master gm e-mount lens 50mm",
+   "specs": {
+    "focalLength": "50mm",
+    "maxAperture": "F1.2",
+    "mount": "Sony E-mount",
+    "sensor": "35mm full frame",
+    "stabilization": "None in lens (uses in-body stabilization)",
+    "weightG": 778
+   },
+   "featured": false,
+   "warranty": 12,
+   "sources": {
+    "product": "https://electronics.sony.com/imaging/lenses/all-e-mount/p/sel50f12gm",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://d1ncau8tqf99kp.cloudfront.net/converted/101589_original_local_1200x1050_v3_converted.webp",
+    "page": "https://electronics.sony.com/imaging/lenses/all-e-mount/p/sel50f12gm",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official Sony Electronics US store product image (electronics.sony.com CDN); Sony has not granted a reuse license — rights not verified.",
+    "alt": "Sony FE 50mm F1.2 GM standard prime lens in black, side view",
+    "match": "EXACT",
+    "credit": "Sony"
+   }
+  },
+  {
+   "sku": "TK-TCL-X11L",
+   "slug": "tcl-x11l-sqd-mini-led",
+   "name": "TCL X11L SQD-Mini LED 4K Google TV",
+   "brand": "TCL",
+   "category": "led-tvs",
+   "price": "4499.99",
+   "priceBasis": "starting-at",
+   "priceSource": "https://us.tcl.com/products/x11l-series-4k-uhd-hdr-sqd-mini-led-smart-tv-with-google-tv",
+   "priceAsOf": "2026-09-28",
+   "releaseYear": 2026,
+   "summary": "TCL's flagship SQD-Mini LED TV with up to 20,000 dimming zones, up to 10,000 peak nits and Bang & Olufsen audio.",
+   "description": "The X11L is TCL's top SQD-Mini LED 4K Google TV, with up to 20,000 precise dimming zones, up to 10,000 peak nits, a WHVA 2.0 Ultra panel, TCL Halo Control System and an ultra-thin design. Audio is by Bang & Olufsen.",
+   "keywords": "tcl mini led tv 4k google tv x11l",
+   "specs": {
+    "sizeIn": 75,
+    "sizes": "75, 85, 98 inch",
+    "resolution": "4K UHD",
+    "panel": "SQD-Mini LED, WHVA 2.0 Ultra panel, up to 20,000 dimming zones",
+    "hdr": "Up to 10,000 peak nits",
+    "smartPlatform": "Google TV",
+    "audio": "Audio by Bang & Olufsen"
+   },
+   "variants": [
+    {
+     "label": "75\" class",
+     "price": "4499.99"
+    },
+    {
+     "label": "85\" class",
+     "price": "6499.99"
+    },
+    {
+     "label": "98\" class",
+     "price": "8999.99"
+    }
+   ],
+   "collections": [
+    "dream-gaming"
+   ],
+   "featured": true,
+   "warranty": 12,
+   "sources": {
+    "product": "https://us.tcl.com/products/x11l-series-4k-uhd-hdr-sqd-mini-led-smart-tv-with-google-tv",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0687/7151/2385/files/85X11L_1.png?width=1400",
+    "page": "https://us.tcl.com/products/x11l-series-4k-uhd-hdr-sqd-mini-led-smart-tv-with-google-tv",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official TCL US store product image (us.tcl.com Shopify CDN); TCL has not granted a reuse license — rights not verified.",
+    "alt": "TCL X11L SQD-Mini LED TV, angled front view with gold abstract artwork on screen",
+    "match": "EXACT",
+    "credit": "TCL"
+   },
+   "notes": "Price is TCL's own US store price on 2026-09-28; compareAt is the list price TCL shows alongside it.",
+   "compareAt": "5999.99"
+  },
+  {
+   "sku": "TK-TCL-RM9L",
+   "slug": "tcl-rm9l-rgb-mini-led",
+   "name": "TCL RM9L RGB-Mini LED 4K Google TV",
+   "brand": "TCL",
+   "category": "led-tvs",
+   "price": "5999.99",
+   "priceBasis": "starting-at",
+   "priceSource": "https://us.tcl.com/products/rm9l-series-4k-uhd-hdr-rgb-mini-led-smart-tv-with-google-tv",
+   "priceAsOf": "2026-09-28",
+   "releaseYear": 2026,
+   "summary": "RGB-Mini LED 4K TV with up to 9,000 nits, 5,600+ dimming zones, 100% BT.2020 colour and 288Hz VRR gaming.",
+   "description": "The RM9L uses an RGB Mini LED backlight with 5,600+ dimming zones (16,000+ colour zones), up to 9,000 nits and 100% BT.2020 colour. It has a low-reflection WHVA Ultra panel, the TSR AI Pro processor, Game Accelerator 288 VRR with HDMI 2.1, and Dolby Vision IQ with Dolby Atmos audio by Bang & Olufsen.",
+   "keywords": "tcl mini led tv 4k google tv rm9l",
+   "specs": {
+    "sizeIn": 85,
+    "sizes": "85, 98, 115 inch",
+    "resolution": "4K UHD",
+    "panel": "RGB-Mini LED, WHVA Ultra low-reflection panel, 5,600+ dimming zones",
+    "refreshHz": 288,
+    "hdr": "Dolby Vision IQ; up to 9,000 nits",
+    "processor": "TSR AI Pro",
+    "gaming": "Game Accelerator 288 VRR, HDMI 2.1",
+    "smartPlatform": "Google TV",
+    "audio": "Dolby Atmos, Bang & Olufsen"
+   },
+   "variants": [
+    {
+     "label": "85\" class",
+     "price": "5999.99"
+    },
+    {
+     "label": "98\" class",
+     "price": "8499.99"
+    },
+    {
+     "label": "115\" class",
+     "price": "24999.99"
+    }
+   ],
+   "featured": false,
+   "warranty": 12,
+   "sources": {
+    "product": "https://us.tcl.com/products/rm9l-series-4k-uhd-hdr-rgb-mini-led-smart-tv-with-google-tv",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0687/7151/2385/files/85-98RM9L_NFL_Angled-Left_HQ_1.png?width=1400",
+    "page": "https://us.tcl.com/products/rm9l-series-4k-uhd-hdr-rgb-mini-led-smart-tv-with-google-tv",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official TCL US store product image (us.tcl.com Shopify CDN); TCL has not granted a reuse license — rights not verified.",
+    "alt": "TCL RM9L RGB-Mini LED TV, angled left view with colourful abstract artwork on screen",
+    "match": "EXACT",
+    "credit": "TCL"
+   },
+   "notes": "Price is TCL's own US store price on 2026-09-28; compareAt is the list price TCL shows alongside it.",
+   "compareAt": "7999.99"
+  },
+  {
+   "sku": "TK-TCL-QM8L",
+   "slug": "tcl-qm8l-sqd-mini-led",
+   "name": "TCL QM8L SQD-Mini LED 4K Google TV",
+   "brand": "TCL",
+   "category": "led-tvs",
+   "price": "1499.99",
+   "priceBasis": "starting-at",
+   "priceSource": "https://us.tcl.com/products/qm8l-series-sqd-mini-led-4k-uhd-hdr-smart-tv-with-google-tv",
+   "priceAsOf": "2026-09-28",
+   "releaseYear": 2026,
+   "summary": "SQD-Mini LED 4K TV with up to 6,000 nits, 4,000+ local dimming zones, 288Hz VRR gaming and Bang & Olufsen audio.",
+   "description": "The QM8L has an SQD Mini LED display with up to 6,000 nits and 4,000+ local dimming zones, 100% BT.2020 quantum-dot colour and a ZeroBorder WHVA Ultra panel. The TSR AI Pro processor, Game Accelerator 288 VRR with HDMI 2.1, and Dolby Vision IQ plus Dolby Atmos audio by Bang & Olufsen round it out.",
+   "keywords": "tcl mini led tv 4k google tv qm8l",
+   "specs": {
+    "sizeIn": 65,
+    "sizes": "65, 75, 85, 98 inch",
+    "resolution": "4K UHD",
+    "panel": "SQD-Mini LED, WHVA Ultra panel, 4,000+ local dimming zones",
+    "refreshHz": 288,
+    "hdr": "Dolby Vision IQ; up to 6,000 nits",
+    "processor": "TSR AI Pro",
+    "gaming": "Game Accelerator 288 VRR, HDMI 2.1",
+    "smartPlatform": "Google TV",
+    "audio": "Dolby Atmos, Bang & Olufsen"
+   },
+   "variants": [
+    {
+     "label": "65\" class",
+     "price": "1499.99"
+    },
+    {
+     "label": "75\" class",
+     "price": "1799.99"
+    },
+    {
+     "label": "85\" class",
+     "price": "2499.99"
+    },
+    {
+     "label": "98\" class",
+     "price": "3999.99"
+    }
+   ],
+   "collections": [
+    "gaming-monsters"
+   ],
+   "featured": false,
+   "warranty": 12,
+   "sources": {
+    "product": "https://us.tcl.com/products/qm8l-series-sqd-mini-led-4k-uhd-hdr-smart-tv-with-google-tv",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0687/7151/2385/files/65-85QM8L_3.png?width=1400",
+    "page": "https://us.tcl.com/products/qm8l-series-sqd-mini-led-4k-uhd-hdr-smart-tv-with-google-tv",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official TCL US store product image (us.tcl.com Shopify CDN); TCL has not granted a reuse license — rights not verified.",
+    "alt": "TCL QM8L SQD-Mini LED TV, angled front view with gold and red abstract artwork on screen",
+    "match": "EXACT",
+    "credit": "TCL"
+   },
+   "notes": "Price is TCL's own US store price on 2026-09-28; compareAt is the list price TCL shows alongside it.",
+   "compareAt": "2499.99"
+  },
+  {
+   "sku": "TK-TCL-QM7L",
+   "slug": "tcl-qm7l-sqd-mini-led",
+   "name": "TCL QM7L SQD-Mini LED 4K Google TV",
+   "brand": "TCL",
+   "category": "led-tvs",
+   "price": "799.99",
+   "priceBasis": "starting-at",
+   "priceSource": "https://us.tcl.com/products/qm7l-series-sqd-mini-led-4k-uhd-hdr-smart-tv-with-google-tv",
+   "priceAsOf": "2026-09-28",
+   "releaseYear": 2026,
+   "summary": "SQD-Mini LED 4K TV with up to 3,000 nits, 2,100+ local dimming zones, 144Hz panel and 288 VRR FreeSync gaming.",
+   "description": "The QM7L brings SQD Mini LED to a wider range of sizes, with up to 3,000 nits, 2,100+ local dimming zones and 100% BT.2020 quantum-dot colour. It has a 144Hz refresh rate, Game Accelerator 288 VRR with FreeSync, AI picture optimisation, and Dolby Vision IQ with Dolby Atmos.",
+   "keywords": "tcl mini led tv 4k google tv qm7l",
+   "specs": {
+    "sizeIn": 55,
+    "sizes": "55, 65, 75, 85, 98 inch",
+    "resolution": "4K UHD",
+    "panel": "SQD-Mini LED, 2,100+ local dimming zones",
+    "refreshHz": 144,
+    "hdr": "Dolby Vision IQ; up to 3,000 nits",
+    "gaming": "Game Accelerator 288 VRR, FreeSync",
+    "smartPlatform": "Google TV",
+    "audio": "Dolby Atmos"
+   },
+   "variants": [
+    {
+     "label": "55\" class",
+     "price": "799.99"
+    },
+    {
+     "label": "65\" class",
+     "price": "999.99"
+    },
+    {
+     "label": "75\" class",
+     "price": "1199.99"
+    },
+    {
+     "label": "85\" class",
+     "price": "1499.99"
+    },
+    {
+     "label": "98\" class",
+     "price": "2499.99"
+    }
+   ],
+   "featured": false,
+   "warranty": 12,
+   "sources": {
+    "product": "https://us.tcl.com/products/qm7l-series-sqd-mini-led-4k-uhd-hdr-smart-tv-with-google-tv",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0687/7151/2385/files/55QM7L_3.png?width=1400",
+    "page": "https://us.tcl.com/products/qm7l-series-sqd-mini-led-4k-uhd-hdr-smart-tv-with-google-tv",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official TCL US store product image (us.tcl.com Shopify CDN); TCL has not granted a reuse license — rights not verified.",
+    "alt": "TCL QM7L SQD-Mini LED TV, angled front view with colourful wave artwork on screen",
+    "match": "EXACT",
+    "credit": "TCL"
+   },
+   "notes": "Price is TCL's own US store price on 2026-09-28; compareAt is the list price TCL shows alongside it.",
+   "compareAt": "1199.99"
+  },
+  {
+   "sku": "TK-8BITDO-ULTIMATE-2-BT",
+   "slug": "8bitdo-ultimate-2-bluetooth-controller",
+   "name": "8BitDo Ultimate 2 Bluetooth Controller",
+   "brand": "8BitDo",
+   "category": "controllers",
+   "price": "69.99",
+   "priceBasis": "msrp",
+   "priceSource": "https://shop.8bitdo.com/products/8bitdo-ultimate-2-bluetooth-controller",
+   "priceAsOf": "2026-09-28",
+   "releaseYear": 2025,
+   "summary": "Switch and Windows controller with TMR sticks, switchable Hall-effect triggers and a charging dock.",
+   "description": "The Ultimate 2 Bluetooth Controller works with Switch (and Switch 2 via firmware update) and Windows over Bluetooth, 2.4G or USB. It has TMR joysticks with a 12-bit ADC, Hall Effect triggers that switch between linear and tactile modes, and a charging dock that also extends the wireless signal. It weighs 246 g.",
+   "keywords": "8bitdo ultimate 2 controller switch pc tmr hall effect",
+   "specs": {
+    "platform": "Nintendo Switch, Switch 2 (firmware update), Windows",
+    "connectivity": "Bluetooth, 2.4G, wired USB",
+    "weightG": 246,
+    "colors": "Black, White, Yellow"
+   },
+   "colors": [
+    "Black",
+    "White",
+    "Yellow"
+   ],
+   "featured": false,
+   "warranty": 12,
+   "sources": {
+    "product": "https://www.8bitdo.com/ultimate-2-bluetooth-controller/",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0621/8894/5585/files/1_f6d13192-9ca8-4ef5-b9c4-e9f25da84021.jpg?width=1400",
+    "page": "https://shop.8bitdo.com/products/8bitdo-ultimate-2-bluetooth-controller",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official 8BitDo store product image (shop.8bitdo.com Shopify CDN); 8BitDo has not granted a reuse license — rights not verified.",
+    "alt": "8BitDo Ultimate 2 Bluetooth Controller in black on its charging dock with the 2.4G adapter",
+    "match": "EXACT",
+    "credit": "8BitDo"
+   }
+  },
+  {
+   "sku": "TK-8BITDO-PRO-3",
+   "slug": "8bitdo-pro-3-bluetooth-gamepad",
+   "name": "8BitDo Pro 3 Bluetooth Gamepad",
+   "brand": "8BitDo",
+   "category": "controllers",
+   "price": "69.99",
+   "priceBasis": "msrp",
+   "priceSource": "https://shop.8bitdo.com/products/8bitdo-pro-3",
+   "priceAsOf": "2026-09-28",
+   "releaseYear": 2025,
+   "summary": "Retro-styled pro gamepad for Switch, PC, SteamOS, Apple and Android with TMR sticks, dual-mode triggers and back paddles.",
+   "description": "The 8BitDo Pro 3 connects over 2.4G, Bluetooth or USB to Switch 1/2, Windows, SteamOS, Android and Apple devices. It has TMR joysticks, triggers that switch between linear Hall Effect and tactile modes, two remappable L4/R4 back buttons, a 1000mAh battery and a charging dock.",
+   "keywords": "8bitdo pro 3 controller retro switch pc steam deck",
+   "specs": {
+    "platform": "Switch 1/2, Windows, SteamOS, Android, Apple",
+    "connectivity": "2.4G, Bluetooth, wired USB",
+    "battery": "1000 mAh",
+    "colors": "Orange, Purple, G Classic, Gray"
+   },
+   "colors": [
+    "Orange",
+    "Purple",
+    "G Classic",
+    "Gray"
+   ],
+   "featured": false,
+   "warranty": 12,
+   "sources": {
+    "product": "https://www.8bitdo.com/pro3/",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0621/8894/5585/files/18_1c059893-dbd1-4158-937b-4725a6d2992a.jpg?width=1400",
+    "page": "https://shop.8bitdo.com/products/8bitdo-pro-3",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official 8BitDo store product image (shop.8bitdo.com Shopify CDN); 8BitDo has not granted a reuse license — rights not verified.",
+    "alt": "8BitDo Pro 3 Bluetooth Gamepad in G Classic light gray on its charging dock, front view",
+    "match": "EXACT",
+    "credit": "8BitDo"
+   }
+  },
+  {
+   "sku": "TK-8BITDO-ULTIMATE-3E-XBOX",
+   "slug": "8bitdo-ultimate-3e-controller-xbox",
+   "name": "8BitDo Ultimate 3E Controller for Xbox",
+   "brand": "8BitDo",
+   "category": "controllers",
+   "price": "149.99",
+   "priceBasis": "msrp",
+   "priceSource": "https://shop.8bitdo.com/products/8bitdo-ultimate-3e-controller-for-xbox",
+   "priceAsOf": "2026-09-28",
+   "releaseYear": 2026,
+   "summary": "Officially licensed Xbox controller with swappable ABXY, stick and D-pad modules, TMR sticks and a wireless charging dock.",
+   "description": "The Ultimate 3E is 8BitDo's pro-level, officially licensed controller for Xbox Series X|S, Windows and mobile. It offers swappable ABXY modules (silicone or micro-switch), joysticks and D-pads, TMR joysticks with a 12-bit ADC, a contactless magnetic wireless charging dock and 1000Hz polling on PC.",
+   "keywords": "8bitdo ultimate 3e xbox controller modular tmr",
+   "specs": {
+    "platform": "Xbox Series X|S, Windows, mobile",
+    "connectivity": "Wireless; 1000Hz polling on PC",
+    "colors": "Black"
+   },
+   "colors": [
+    "Black"
+   ],
+   "featured": false,
+   "warranty": 12,
+   "sources": {
+    "product": "https://www.8bitdo.com/ultimate-3e-controller-xbox/",
+    "retrievedAt": "2026-09-28"
+   },
+   "notes": "8BitDo's store listed it as shipping from Sep 25, 2026.",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0621/8894/5585/files/81HF-_3E-__04_e5af70c8-9ccd-49e4-97ba-2dde35f6926e.jpg?width=1600",
+    "page": "https://shop.8bitdo.com/products/8bitdo-ultimate-3e-controller-for-xbox",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official 8BitDo store product image (shop.8bitdo.com Shopify CDN); 8BitDo has not granted a reuse license — rights not verified.",
+    "credit": "8BitDo",
+    "alt": "8BitDo Ultimate 3E Controller for Xbox in black, front view on its charging dock",
+    "match": "EXACT"
+   }
+  }
+ ]
+}

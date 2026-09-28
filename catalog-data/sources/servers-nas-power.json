@@ -1,0 +1,1964 @@
+{
+ "meta": {
+  "notes": "Servers, NAS, UPS/power, racks/PDU/KVM and homelab mini PCs. Researched 2026-09-28 from official manufacturer sites and official manufacturer web stores. Enterprise and quote-only items (Supermicro, Synology, ASUSTOR and others without an official US store price) use priceBasis=estimate; see each record's notes."
+ },
+ "products": [
+  {
+   "sku": "TK-SYNOLOGY-DS1825P",
+   "slug": "synology-diskstation-ds1825-plus",
+   "name": "Synology DiskStation DS1825+",
+   "brand": "Synology",
+   "category": "nas",
+   "price": "1149.00",
+   "priceBasis": "estimate",
+   "releaseYear": 2025,
+   "summary": "8-bay desktop NAS with an AMD Ryzen V1500B, 8 GB ECC memory, dual 2.5GbE and two M.2 NVMe cache slots.",
+   "description": "The DS1825+ is an 8-bay DiskStation built on a 4-core/8-thread AMD Ryzen V1500B with 8 GB of DDR4 ECC memory (up to 32 GB). It adds two M.2 2280 NVMe slots, dual 2.5GbE ports and a PCIe Gen3 slot for network upgrades, and scales to 18 drives with two DX525 expansion units.",
+   "keywords": "synology diskstation 8 bay nas ryzen dsm 2.5gbe ecc",
+   "specs": {
+    "bays": 8,
+    "cpu": "AMD Ryzen V1500B (4C/8T, 2.2 GHz)",
+    "ramGb": 8,
+    "network": "2 x 2.5GbE RJ-45",
+    "interface": "8 x SATA, 2 x M.2 2280 NVMe, 1 x PCIe Gen3 x8 (x4 link)",
+    "rackMountable": false
+   },
+   "collections": [
+    "high-end-storage",
+    "small-business"
+   ],
+   "featured": true,
+   "warranty": 36,
+   "notes": "Synology does not sell direct in the US and publishes no US list price on synology.com; price is a TrustKart estimate for the diskless unit.",
+   "sources": {
+    "product": "https://www.synology.com/en-us/products/DS1825+",
+    "specs": "https://www.synology.com/en-us/products/DS1825+#specs",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://www.synology.com/api/products/getPhoto?product=DS1825%2B&type=img&sort=1",
+    "page": "https://www.synology.com/en-us/products/DS1825%2B",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official Synology product image served from synology.com product page gallery; Synology has not granted a general reuse license — rights not verified.",
+    "alt": "Synology DiskStation DS1825+ 8-bay black desktop NAS, front view with eight drive trays",
+    "match": "EXACT",
+    "credit": "Synology"
+   }
+  },
+  {
+   "sku": "TK-SYNOLOGY-DS1525P",
+   "slug": "synology-diskstation-ds1525-plus",
+   "name": "Synology DiskStation DS1525+",
+   "brand": "Synology",
+   "category": "nas",
+   "price": "799.00",
+   "priceBasis": "estimate",
+   "releaseYear": 2025,
+   "summary": "5-bay desktop NAS with AMD Ryzen V1500B, 8 GB ECC memory, dual 2.5GbE and dual M.2 NVMe slots.",
+   "description": "The DS1525+ packs five SATA bays and two M.2 2280 NVMe slots around a 4-core AMD Ryzen V1500B with 8 GB DDR4 ECC memory (up to 32 GB). It ships with two 2.5GbE ports and a PCIe Gen3 x2 network upgrade slot, and expands to 15 drives with two DX525 units.",
+   "keywords": "synology diskstation 5 bay nas ryzen dsm small office",
+   "specs": {
+    "bays": 5,
+    "cpu": "AMD Ryzen V1500B (4C/8T, 2.2 GHz)",
+    "ramGb": 8,
+    "network": "2 x 2.5GbE RJ-45",
+    "interface": "5 x SATA, 2 x M.2 2280 NVMe",
+    "rackMountable": false
+   },
+   "collections": [
+    "small-business",
+    "homelab-essentials"
+   ],
+   "warranty": 36,
+   "notes": "Synology does not sell direct in the US and publishes no US list price on synology.com; price is a TrustKart estimate for the diskless unit.",
+   "sources": {
+    "product": "https://www.synology.com/en-us/products/DS1525+",
+    "specs": "https://www.synology.com/en-us/products/DS1525+#specs",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://www.synology.com/api/products/getPhoto?product=DS1525%2B&type=img&sort=1",
+    "page": "https://www.synology.com/en-us/products/DS1525%2B",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official Synology product image served from synology.com product page gallery; Synology has not granted a general reuse license — rights not verified.",
+    "alt": "Synology DiskStation DS1525+ 5-bay black desktop NAS, front view",
+    "match": "EXACT",
+    "credit": "Synology"
+   },
+   "featured": false
+  },
+  {
+   "sku": "TK-SYNOLOGY-DS425P",
+   "slug": "synology-diskstation-ds425-plus",
+   "name": "Synology DiskStation DS425+",
+   "brand": "Synology",
+   "category": "nas",
+   "price": "499.00",
+   "priceBasis": "estimate",
+   "releaseYear": 2025,
+   "summary": "4-bay home and small-office NAS with Intel Celeron J4125, 2.5GbE and two M.2 NVMe slots.",
+   "description": "The DS425+ is a 4-bay DiskStation with a quad-core Intel Celeron J4125 and 2 GB of DDR4 memory (up to 6 GB). It provides one 2.5GbE and one 1GbE port, two M.2 2280 NVMe slots for cache, and two USB 3.2 Gen 1 ports.",
+   "keywords": "synology diskstation 4 bay nas plex home office dsm",
+   "specs": {
+    "bays": 4,
+    "cpu": "Intel Celeron J4125 (4C, up to 2.7 GHz)",
+    "ramGb": 2,
+    "network": "1 x 2.5GbE + 1 x 1GbE RJ-45",
+    "interface": "4 x SATA, 2 x M.2 2280 NVMe",
+    "rackMountable": false
+   },
+   "collections": [
+    "homelab-starter"
+   ],
+   "warranty": 36,
+   "notes": "Synology does not sell direct in the US and publishes no US list price on synology.com; price is a TrustKart estimate for the diskless unit.",
+   "sources": {
+    "product": "https://www.synology.com/en-us/products/DS425+",
+    "specs": "https://www.synology.com/en-us/products/DS425+#specs",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://www.synology.com/api/products/getPhoto?product=DS425%2B&type=img&sort=1",
+    "page": "https://www.synology.com/en-us/products/DS425%2B",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official Synology product image served from synology.com product page gallery; Synology has not granted a general reuse license — rights not verified.",
+    "alt": "Synology DiskStation DS425+ 4-bay black desktop NAS, front view",
+    "match": "EXACT",
+    "credit": "Synology"
+   },
+   "featured": false
+  },
+  {
+   "sku": "TK-SYNOLOGY-DS225P",
+   "slug": "synology-diskstation-ds225-plus",
+   "name": "Synology DiskStation DS225+",
+   "brand": "Synology",
+   "category": "nas",
+   "price": "329.00",
+   "priceBasis": "estimate",
+   "releaseYear": 2025,
+   "summary": "Compact 2-bay NAS with Intel Celeron J4125, 2 GB memory and a 2.5GbE port.",
+   "description": "The DS225+ is a 2-bay DiskStation powered by a quad-core Intel Celeron J4125 with 2 GB DDR4 memory (expandable to 6 GB). It has one 2.5GbE and one 1GbE port plus two USB 3.2 Gen 1 ports and a USB Copy button.",
+   "keywords": "synology diskstation 2 bay nas home backup dsm",
+   "specs": {
+    "bays": 2,
+    "cpu": "Intel Celeron J4125 (4C, up to 2.7 GHz)",
+    "ramGb": 2,
+    "network": "1 x 2.5GbE + 1 x 1GbE RJ-45",
+    "interface": "2 x SATA",
+    "rackMountable": false
+   },
+   "collections": [
+    "homelab-starter"
+   ],
+   "warranty": 36,
+   "notes": "Synology does not sell direct in the US and publishes no US list price on synology.com; price is a TrustKart estimate for the diskless unit.",
+   "sources": {
+    "product": "https://www.synology.com/en-us/products/DS225+",
+    "specs": "https://www.synology.com/en-us/products/DS225+#specs",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://www.synology.com/api/products/getPhoto?product=DS225%2B&type=img&sort=1",
+    "page": "https://www.synology.com/en-us/products/DS225%2B",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official Synology product image served from synology.com product page gallery; Synology has not granted a general reuse license — rights not verified.",
+    "alt": "Synology DiskStation DS225+ 2-bay black compact NAS, front view",
+    "match": "EXACT",
+    "credit": "Synology"
+   },
+   "featured": false
+  },
+  {
+   "sku": "TK-SYNOLOGY-RS2825RPP",
+   "slug": "synology-rackstation-rs2825rp-plus",
+   "name": "Synology RackStation RS2825RP+",
+   "brand": "Synology",
+   "category": "nas",
+   "price": "3499.00",
+   "priceBasis": "estimate",
+   "releaseYear": 2025,
+   "summary": "3U 16-bay rackmount NAS with AMD Ryzen V1780B, 8 GB ECC memory, 10GbE and redundant power.",
+   "description": "The RS2825RP+ is a 3U, 16-bay RackStation built on a 4-core/8-thread AMD Ryzen V1780B with 8 GB DDR4 ECC UDIMM (up to 32 GB). It includes one 10GbE and two 1GbE ports, a PCIe Gen3 x8 slot and redundant power supplies, and expands to 28 drives with an RX1225RP.",
+   "keywords": "synology rackstation 16 bay rackmount nas 3u 10gbe redundant psu",
+   "specs": {
+    "bays": 16,
+    "cpu": "AMD Ryzen V1780B (4C/8T, up to 3.6 GHz)",
+    "ramGb": 8,
+    "network": "1 x 10GbE + 2 x 1GbE RJ-45",
+    "interface": "16 x SATA, 1 x PCIe Gen3 x8 (x4 link), Mini-SAS HD expansion",
+    "rackMountable": true
+   },
+   "collections": [
+    "high-end-storage",
+    "small-business"
+   ],
+   "warranty": 36,
+   "notes": "Synology does not sell direct in the US and publishes no US list price on synology.com; price is a TrustKart estimate for the diskless unit.",
+   "sources": {
+    "product": "https://www.synology.com/en-us/products/RS2825RP+",
+    "specs": "https://www.synology.com/en-us/products/RS2825RP+#specs",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://www.synology.com/api/products/getPhoto?product=RS2825RP%2B&type=img&sort=1",
+    "page": "https://www.synology.com/en-us/products/RS2825RP%2B",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official Synology product image served from synology.com product page gallery; Synology has not granted a general reuse license — rights not verified.",
+    "alt": "Synology RackStation RS2825RP+ 3U 16-bay rackmount NAS, front view",
+    "match": "EXACT",
+    "credit": "Synology"
+   },
+   "featured": false
+  },
+  {
+   "sku": "TK-SYNOLOGY-RS1626XSP",
+   "slug": "synology-rackstation-rs1626xs-plus",
+   "name": "Synology RackStation RS1626xs+",
+   "brand": "Synology",
+   "category": "nas",
+   "price": "2799.00",
+   "priceBasis": "estimate",
+   "releaseYear": 2025,
+   "summary": "1U 4-bay business NAS with Intel Xeon D-1726, 16 GB ECC RDIMM and dual 10GbE.",
+   "description": "The RS1626xs+ is a short 1U RackStation with four SATA bays and two M.2 NVMe slots, driven by a 6-core Intel Xeon D-1726 and 16 GB DDR4 ECC RDIMM (up to 64 GB). It has two 10GbE ports, an out-of-band management port and a PCIe Gen4 x8 slot, and scales to 16 drives with an RX1225RP.",
+   "keywords": "synology rackstation xs 1u xeon nas 10gbe business",
+   "specs": {
+    "bays": 4,
+    "cpu": "Intel Xeon D-1726 (6C/12T, up to 3.5 GHz)",
+    "ramGb": 16,
+    "network": "2 x 10GbE RJ-45 + OOB management port",
+    "interface": "4 x SATA, 2 x M.2 2280 NVMe, 1 x PCIe Gen4 x8",
+    "rackMountable": true
+   },
+   "collections": [
+    "small-business",
+    "enterprise-servers"
+   ],
+   "warranty": 60,
+   "notes": "Synology does not sell direct in the US and publishes no US list price on synology.com; price is a TrustKart estimate for the diskless unit.",
+   "sources": {
+    "product": "https://www.synology.com/en-us/products/RS1626xs+",
+    "specs": "https://www.synology.com/en-us/products/RS1626xs+#specs",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://www.synology.com/api/products/getPhoto?product=RS1626xs%2B&type=img&sort=1",
+    "page": "https://www.synology.com/en-us/products/RS1626xs%2B",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official Synology product image served from synology.com product page gallery; Synology has not granted a general reuse license — rights not verified.",
+    "alt": "Synology RackStation RS1626xs+ 1U rackmount NAS, front view",
+    "match": "EXACT",
+    "credit": "Synology"
+   },
+   "featured": false
+  },
+  {
+   "sku": "TK-SYNOLOGY-FS3420",
+   "slug": "synology-flashstation-fs3420",
+   "name": "Synology FlashStation FS3420",
+   "brand": "Synology",
+   "category": "nas",
+   "price": "8999.00",
+   "priceBasis": "estimate",
+   "releaseYear": 2025,
+   "summary": "2U 24-bay all-flash storage with Intel Xeon D-1739, 32 GB ECC RDIMM and dual 10GbE.",
+   "description": "The FS3420 is a 2U all-flash FlashStation with 24 2.5-inch SATA SSD bays, an 8-core Intel Xeon D-1739 and 32 GB of DDR4 ECC RDIMM (up to 192 GB). It provides two 10GbE ports, an out-of-band management port and two PCIe Gen4 x8 slots for faster networking.",
+   "keywords": "synology flashstation all flash ssd nas 2u xeon enterprise",
+   "specs": {
+    "bays": 24,
+    "cpu": "Intel Xeon D-1739 (8C/16T, up to 3.5 GHz)",
+    "ramGb": 32,
+    "network": "2 x 10GbE RJ-45 + OOB management port",
+    "interface": "24 x 2.5\" SATA SSD, 2 x PCIe Gen4 x8",
+    "rackMountable": true
+   },
+   "collections": [
+    "high-end-storage",
+    "enterprise-servers"
+   ],
+   "warranty": 60,
+   "notes": "Synology does not sell direct in the US and publishes no US list price on synology.com; price is a TrustKart estimate for the diskless unit. Enterprise all-flash model; realistic diskless street range.",
+   "sources": {
+    "product": "https://www.synology.com/en-us/products/FS3420",
+    "specs": "https://www.synology.com/en-us/products/FS3420#specs",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://www.synology.com/api/products/getPhoto?product=FS3420&type=img&sort=1",
+    "page": "https://www.synology.com/en-us/products/FS3420",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official Synology product image served from synology.com product page gallery; Synology has not granted a general reuse license — rights not verified.",
+    "alt": "Synology FlashStation FS3420 2U 24-bay all-flash rackmount storage, front view",
+    "match": "EXACT",
+    "credit": "Synology"
+   },
+   "featured": false
+  },
+  {
+   "sku": "TK-QNAP-TS462A",
+   "slug": "qnap-ts-462a",
+   "name": "QNAP TS-462A",
+   "brand": "QNAP",
+   "category": "nas",
+   "price": "529.00",
+   "compareAt": "619.00",
+   "priceBasis": "msrp",
+   "priceSource": "https://store.qnap.com/ts-462a-4g-us-bdl-1.html",
+   "releaseYear": 2026,
+   "summary": "New 4-bay NAS with an Intel Celeron N5095, 4 GB DDR4, 2.5GbE and two M.2 NVMe slots.",
+   "description": "Launched in July 2026, the TS-462A is a 4-bay home and small-office NAS with a quad-core Intel Celeron N5095 (burst to 2.9 GHz) and 4 GB of DDR4 memory (up to 16 GB). It adds a 2.5GbE port, two M.2 2280 PCIe Gen3 slots for SSD cache and two USB 3.2 Gen 2 ports.",
+   "keywords": "qnap ts-462a 4 bay nas 2.5gbe qts home",
+   "specs": {
+    "bays": 4,
+    "cpu": "Intel Celeron N5095 (4C/4T, up to 2.9 GHz)",
+    "ramGb": 4,
+    "network": "1 x 2.5GbE RJ-45",
+    "interface": "4 x SATA 6Gb/s, 2 x M.2 2280 PCIe Gen3 x1",
+    "rackMountable": false
+   },
+   "collections": [
+    "homelab-starter"
+   ],
+   "warranty": 36,
+   "notes": "QNAP Official Store (US) listed the TS-462A-4G-US at a $529 special price, regular $619.",
+   "sources": {
+    "product": "https://www.qnap.com/en-us/product/ts-462a",
+    "specs": "https://www.qnap.com/en-us/product/ts-462a/specs/hardware",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://www.qnap.com/i/_attach_file/product/photo/1000_625/809_1751880577_E794A2E59381E59C96_TS-462A_right.png",
+    "page": "https://www.qnap.com/en-us/product/ts-462a",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official QNAP product photo from qnap.com product page; QNAP has not granted a general reuse license — rights not verified.",
+    "alt": "QNAP TS-462A 4-bay black desktop NAS, front-right three-quarter view",
+    "match": "EXACT",
+    "credit": "QNAP"
+   },
+   "featured": false,
+   "priceAsOf": "2026-09-28"
+  },
+  {
+   "sku": "TK-QNAP-TSH1290FX",
+   "slug": "qnap-ts-h1290fx",
+   "name": "QNAP TS-h1290FX",
+   "brand": "QNAP",
+   "category": "nas",
+   "price": "8999.00",
+   "priceBasis": "starting-at",
+   "priceSource": "https://store.qnap.com/ts-h1290fx-7232p-64g-us.html",
+   "releaseYear": 2022,
+   "summary": "12-bay U.2 NVMe all-flash tower NAS with AMD EPYC, 64 GB ECC RDIMM and dual 25GbE SFP28.",
+   "description": "The TS-h1290FX is a tower all-flash NAS with 12 2.5-inch U.2 NVMe/SATA bays running QuTS hero (ZFS). The base model uses an 8-core AMD EPYC 7232P with 64 GB DDR4 ECC RDIMM (up to 1 TB), two 25GbE SFP28 and two 2.5GbE ports, and four PCIe Gen4 slots.",
+   "keywords": "qnap all flash u.2 nvme nas epyc 25gbe quts hero zfs",
+   "specs": {
+    "bays": 12,
+    "cpu": "AMD EPYC 7232P (8C/16T, up to 3.2 GHz)",
+    "ramGb": 64,
+    "network": "2 x 25GbE SFP28 + 2 x 2.5GbE",
+    "interface": "12 x 2.5\" U.2 NVMe PCIe Gen4 / SATA, 4 x PCIe Gen4",
+    "rackMountable": false
+   },
+   "collections": [
+    "high-end-storage",
+    "ai-lab"
+   ],
+   "featured": true,
+   "warranty": 36,
+   "sources": {
+    "product": "https://www.qnap.com/en-us/product/ts-h1290fx",
+    "specs": "https://www.qnap.com/en-us/product/ts-h1290fx/specs/hardware",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://www.qnap.com/i/_attach_file/product/photo/1000_625/614_1637746466_E794A2E59381E59C96_TS-h1290FX_right.png",
+    "page": "https://www.qnap.com/en-us/product/ts-h1290fx",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official QNAP product photo from qnap.com product page; QNAP has not granted a general reuse license — rights not verified.",
+    "alt": "QNAP TS-h1290FX 12-bay black all-flash tower NAS, front-right three-quarter view",
+    "match": "EXACT",
+    "credit": "QNAP"
+   },
+   "priceAsOf": "2026-09-28",
+   "notes": "Official configurations: EPYC 7232P / 64 GB $8999.00; EPYC 7302P / 128 GB $13499.00; EPYC 7302P / 256 GB $15999.00."
+  },
+  {
+   "sku": "TK-QNAP-TSH1277AFX",
+   "slug": "qnap-ts-h1277afx",
+   "name": "QNAP TS-h1277AFX",
+   "brand": "QNAP",
+   "category": "nas",
+   "price": "4499.00",
+   "priceBasis": "msrp",
+   "priceSource": "https://store.qnap.com/ts-h1277afx-r7-32g-us.html",
+   "releaseYear": 2025,
+   "summary": "12-bay SATA all-flash tower NAS with an AMD Ryzen 7 9000-series CPU, 32 GB DDR5 ECC and dual 10GbE.",
+   "description": "The TS-h1277AFX pairs 12 hot-swappable 2.5-inch SATA SSD bays with an 8-core AMD Ryzen 7 9000-series processor and 32 GB of DDR5 ECC UDIMM (up to 192 GB). It has two 10GBASE-T and two 2.5GbE ports, three PCIe Gen4 slots and HDMI output, and runs QuTS hero.",
+   "keywords": "qnap all flash sata ssd nas ryzen ddr5 10gbe quts hero",
+   "specs": {
+    "bays": 12,
+    "cpu": "AMD Ryzen 7 9000 Series (8C/16T, 3.8-5.5 GHz)",
+    "ramGb": 32,
+    "network": "2 x 10GBASE-T + 2 x 2.5GbE",
+    "interface": "12 x 2.5\" SATA 6Gb/s, 3 x PCIe Gen4",
+    "rackMountable": false
+   },
+   "collections": [
+    "high-end-storage"
+   ],
+   "warranty": 36,
+   "sources": {
+    "product": "https://www.qnap.com/en-us/product/ts-h1277afx",
+    "specs": "https://www.qnap.com/en-us/product/ts-h1277afx/specs/hardware",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://www.qnap.com/i/_attach_file/product/photo/1000_625/789_1734592736_E794A2E59381E59C96_TS-h1277AFX_right.png",
+    "page": "https://www.qnap.com/en-us/product/ts-h1277afx",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official QNAP product photo from qnap.com product page; QNAP has not granted a general reuse license — rights not verified.",
+    "alt": "QNAP TS-h1277AFX 12-bay black all-flash tower NAS, front-right three-quarter view",
+    "match": "EXACT",
+    "credit": "QNAP"
+   },
+   "featured": false,
+   "priceAsOf": "2026-09-28"
+  },
+  {
+   "sku": "TK-QNAP-TVSAIH1688ATX",
+   "slug": "qnap-tvs-aih1688atx",
+   "name": "QNAP TVS-AIh1688ATX",
+   "brand": "QNAP",
+   "category": "nas",
+   "price": "4599.00",
+   "priceBasis": "starting-at",
+   "priceSource": "https://store.qnap.com/tvs-aih1688atx-u7-32g-us.html",
+   "releaseYear": 2025,
+   "summary": "16-bay AI NAS (12 x 3.5\" + 4 x U.2) with Intel Core Ultra, NPU, 10GbE and Thunderbolt 5 option.",
+   "description": "The TVS-AIh1688ATX combines 12 3.5-inch SATA bays with four U.2 NVMe Gen4 bays and an Intel Core Ultra processor with a built-in NPU for local AI workloads. It has two 10GBASE-T and two 2.5GbE ports, DDR5 ECC memory and three PCIe Gen4 slots; the QXP-T52P card adds Thunderbolt 5.",
+   "keywords": "qnap ai nas core ultra npu u.2 16 bay 10gbe thunderbolt 5",
+   "specs": {
+    "bays": 16,
+    "cpu": "Intel Core Ultra 7 (base config)",
+    "ramGb": 32,
+    "network": "2 x 10GBASE-T + 2 x 2.5GbE",
+    "interface": "12 x 3.5\" SATA + 4 x U.2 NVMe Gen4 x2, 3 x PCIe Gen4",
+    "rackMountable": false
+   },
+   "collections": [
+    "ai-lab",
+    "high-end-storage"
+   ],
+   "featured": true,
+   "warranty": 36,
+   "notes": "Hardware spec page lists the Core Ultra 9 / 48 GB top configuration; the priced base is TVS-AIh1688ATX-U7-32G-US from the QNAP US store. Official configurations: Core Ultra 7 / 32 GB $4599.00; Core Ultra 9 / 32 GB $5199.00.",
+   "sources": {
+    "product": "https://www.qnap.com/en-us/product/tvs-aih1688atx",
+    "specs": "https://www.qnap.com/en-us/product/tvs-aih1688atx/specs/hardware",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://www.qnap.com/i/_attach_file/product/photo/1000_625/799_1758599780_TVS-AIh1688ATX_Front.png",
+    "page": "https://www.qnap.com/en-us/product/tvs-aih1688atx",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official QNAP product photo from qnap.com product page; QNAP has not granted a general reuse license — rights not verified.",
+    "alt": "QNAP TVS-AIh1688ATX 16-bay black tower NAS, front view with LCD and drive trays",
+    "match": "EXACT",
+    "credit": "QNAP"
+   },
+   "priceAsOf": "2026-09-28"
+  },
+  {
+   "sku": "TK-QNAP-TBSH574TX",
+   "slug": "qnap-tbs-h574tx",
+   "name": "QNAP TBS-h574TX",
+   "brand": "QNAP",
+   "category": "nas",
+   "price": "1799.00",
+   "priceBasis": "msrp",
+   "priceSource": "https://store.qnap.com/tbs-h574tx-i5u-16g-us.html",
+   "releaseYear": 2024,
+   "summary": "Thunderbolt 4 all-flash NASbook with five hot-swappable E1.S/M.2 bays, Core i5 and 10GbE.",
+   "description": "The TBS-h574TX is a compact all-flash NASbook for creators, with five hot-swappable E1.S (or M.2 2280 via adapters) bays, an Intel Core i5-1235U and 16 GB of onboard memory. It connects over two Thunderbolt 4 ports, one 10GBASE-T and one 2.5GbE port, and has HDMI output.",
+   "keywords": "qnap nasbook thunderbolt 4 all flash e1.s creator video editing",
+   "specs": {
+    "bays": 5,
+    "cpu": "Intel Core i5-1235U (10C/12T, up to 4.4 GHz)",
+    "ramGb": 16,
+    "network": "1 x 10GBASE-T + 1 x 2.5GbE",
+    "interface": "5 x E1.S / M.2 2280 PCIe Gen3, 2 x Thunderbolt 4",
+    "rackMountable": false
+   },
+   "collections": [
+    "high-end-storage"
+   ],
+   "warranty": 36,
+   "sources": {
+    "product": "https://www.qnap.com/en-us/product/tbs-h574tx",
+    "specs": "https://www.qnap.com/en-us/product/tbs-h574tx/specs/hardware",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://www.qnap.com/i/_attach_file/product/photo/1000_625/766_1717489730_E794A2E59381E59C96_TBS-574TX_Front.png",
+    "page": "https://www.qnap.com/en-us/product/tbs-h574tx",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official QNAP product photo from qnap.com product page; QNAP has not granted a general reuse license — rights not verified.",
+    "alt": "QNAP TBS-h574TX silver and black Thunderbolt NASbook, front view",
+    "match": "EXACT",
+    "credit": "QNAP"
+   },
+   "featured": false,
+   "priceAsOf": "2026-09-28"
+  },
+  {
+   "sku": "TK-ASUSTOR-AS6804T",
+   "slug": "asustor-lockerstor-4-gen3-as6804t",
+   "name": "ASUSTOR Lockerstor 4 Gen3 (AS6804T)",
+   "brand": "ASUSTOR",
+   "category": "nas",
+   "price": "949.00",
+   "priceBasis": "estimate",
+   "releaseYear": 2025,
+   "summary": "4-bay NAS with AMD Ryzen V3C14, 16 GB DDR5 ECC, four M.2 slots, dual 10GbE + dual 5GbE and USB4.",
+   "description": "The Lockerstor 4 Gen3 uses a quad-core AMD Ryzen V3C14 with 16 GB DDR5-4800 ECC memory (up to 64 GB). Alongside four 3.5-inch bays it has four M.2 NVMe (PCIe 4.0) slots, two 10GbE and two 5GbE ports, and two 40 Gbps USB4 ports.",
+   "keywords": "asustor lockerstor gen3 ryzen ddr5 usb4 10gbe nas",
+   "specs": {
+    "bays": 4,
+    "cpu": "AMD Ryzen V3C14 (4C, 2.3-3.8 GHz)",
+    "ramGb": 16,
+    "network": "2 x 10GbE + 2 x 5GbE",
+    "interface": "4 x SATA, 4 x M.2 2280 NVMe PCIe 4.0, 2 x USB4",
+    "rackMountable": false
+   },
+   "collections": [
+    "homelab-essentials"
+   ],
+   "warranty": 36,
+   "notes": "ASUSTOR sells through resellers and publishes no US list price on asustor.com; price is a TrustKart estimate for the diskless unit.",
+   "sources": {
+    "product": "https://www.asustor.com/en/product?p_id=86",
+    "specs": "https://www.asustor.com/en/product/spec?p_id=86",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://www.asustor.com/images/product_img/sm/AS6804T/AS6804T_R1.png",
+    "page": "https://www.asustor.com/en/product?p_id=86",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official ASUSTOR product image from asustor.com product page gallery; ASUSTOR has not granted a general reuse license — rights not verified.",
+    "alt": "ASUSTOR Lockerstor 4 Gen3 AS6804T black 4-bay NAS, front-left three-quarter view with LCD",
+    "match": "EXACT",
+    "credit": "ASUSTOR"
+   },
+   "featured": false
+  },
+  {
+   "sku": "TK-ASUSTOR-AS6810T",
+   "slug": "asustor-lockerstor-10-gen3-as6810t",
+   "name": "ASUSTOR Lockerstor 10 Gen3 (AS6810T)",
+   "brand": "ASUSTOR",
+   "category": "nas",
+   "price": "1599.00",
+   "priceBasis": "estimate",
+   "releaseYear": 2025,
+   "summary": "10-bay NAS with AMD Ryzen V3C14, 16 GB DDR5 ECC, four M.2 slots, dual 10GbE + dual 5GbE and USB4.",
+   "description": "The Lockerstor 10 Gen3 offers ten 3.5-inch bays plus four M.2 NVMe slots, powered by a quad-core AMD Ryzen V3C14 with 16 GB DDR5-4800 ECC memory (up to 64 GB). It ships with two 10GbE and two 5GbE ports, two USB4 ports and a 250 W PSU, and expands to 22 bays.",
+   "keywords": "asustor lockerstor 10 bay gen3 ryzen ddr5 usb4 nas",
+   "specs": {
+    "bays": 10,
+    "cpu": "AMD Ryzen V3C14 (4C, 2.3-3.8 GHz)",
+    "ramGb": 16,
+    "network": "2 x 10GbE + 2 x 5GbE",
+    "interface": "10 x SATA, 4 x M.2 2280 NVMe PCIe 4.0, 2 x USB4",
+    "rackMountable": false
+   },
+   "collections": [
+    "high-end-storage",
+    "small-business"
+   ],
+   "warranty": 36,
+   "notes": "ASUSTOR sells through resellers and publishes no US list price on asustor.com; price is a TrustKart estimate for the diskless unit.",
+   "sources": {
+    "product": "https://www.asustor.com/en/product?p_id=89",
+    "specs": "https://www.asustor.com/en/product/spec?p_id=89",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://www.asustor.com/images/product_img/sm/AS6810T/AS6810T_R1.png",
+    "page": "https://www.asustor.com/en/product?p_id=89",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official ASUSTOR product image from asustor.com product page gallery; ASUSTOR has not granted a general reuse license — rights not verified.",
+    "alt": "ASUSTOR Lockerstor 10 Gen3 AS6810T black 10-bay NAS, front-left three-quarter view",
+    "match": "EXACT",
+    "credit": "ASUSTOR"
+   },
+   "featured": false
+  },
+  {
+   "sku": "TK-ASUSTOR-FS6812X",
+   "slug": "asustor-flashstor-12-pro-gen2-fs6812x",
+   "name": "ASUSTOR Flashstor 12 Pro Gen2 (FS6812X)",
+   "brand": "ASUSTOR",
+   "category": "nas",
+   "price": "1199.00",
+   "priceBasis": "estimate",
+   "releaseYear": 2025,
+   "summary": "12-slot all-M.2 NVMe NAS with AMD Ryzen V3C14, 16 GB DDR5 ECC, dual 10GbE and USB4.",
+   "description": "The Flashstor 12 Pro Gen2 is a low-profile all-flash NAS with twelve M.2 2280 NVMe slots, a quad-core AMD Ryzen V3C14 and 16 GB DDR5-4800 ECC memory (up to 64 GB). It has two 10GbE ports, two USB4 ports and three USB 3.2 Gen 2 ports.",
+   "keywords": "asustor flashstor gen2 all flash m.2 nvme nas 10gbe usb4",
+   "specs": {
+    "bays": 12,
+    "cpu": "AMD Ryzen V3C14 (4C, 2.3-3.8 GHz)",
+    "ramGb": 16,
+    "network": "2 x 10GbE",
+    "interface": "12 x M.2 2280 NVMe (PCIe 4.0/3.0), 2 x USB4",
+    "rackMountable": false
+   },
+   "collections": [
+    "high-end-storage",
+    "homelab-essentials"
+   ],
+   "warranty": 36,
+   "notes": "ASUSTOR sells through resellers and publishes no US list price on asustor.com; price is a TrustKart estimate for the diskless unit.",
+   "sources": {
+    "product": "https://www.asustor.com/en/product?p_id=91",
+    "specs": "https://www.asustor.com/en/product/spec?p_id=91",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://www.asustor.com/images/product_img/sm/FS6812X/FS6812X_F.png",
+    "page": "https://www.asustor.com/en/product?p_id=91",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official ASUSTOR product image from asustor.com product page gallery; ASUSTOR has not granted a general reuse license — rights not verified.",
+    "alt": "ASUSTOR Flashstor 12 Pro Gen2 FS6812X low-profile black all-flash NAS, front view",
+    "match": "EXACT",
+    "credit": "ASUSTOR"
+   },
+   "featured": false
+  },
+  {
+   "sku": "TK-ASUSTOR-AS7224RDX",
+   "slug": "asustor-lockerstor-24r-pro-gen2-as7224rdx",
+   "name": "ASUSTOR Lockerstor 24R Pro Gen2 (AS7224RDX)",
+   "brand": "ASUSTOR",
+   "category": "nas",
+   "price": "4999.00",
+   "priceBasis": "estimate",
+   "releaseYear": 2026,
+   "summary": "24-bay 4U rackmount NAS with AMD Ryzen 7 Pro 7745, DDR5 ECC, PCIe 5.0 and redundant 550 W PSUs.",
+   "description": "The Lockerstor 24R Pro Gen2 is a 24-bay rackmount NAS built on an 8-core AMD Ryzen 7 Pro 7745 with 16 GB DDR5-4800 ECC UDIMM (up to 192 GB). It has two 10GbE and two 1GbE ports, a PCIe 5.0 x4 M.2 slot, PCIe Gen5 x8 and x4 expansion slots and dual redundant 550 W power supplies.",
+   "keywords": "asustor lockerstor 24r pro rackmount nas ryzen pcie 5.0 redundant",
+   "specs": {
+    "bays": 24,
+    "cpu": "AMD Ryzen 7 Pro 7745 (8C, 3.8-5.3 GHz)",
+    "ramGb": 16,
+    "network": "2 x 10GbE + 2 x 1GbE",
+    "interface": "24 x SATA, 1 x M.2 NVMe PCIe 5.0 x4, PCIe Gen5 x8 + x4",
+    "rackMountable": true
+   },
+   "collections": [
+    "high-end-storage",
+    "enterprise-servers"
+   ],
+   "warranty": 60,
+   "notes": "ASUSTOR sells through resellers and publishes no US list price on asustor.com; price is a TrustKart estimate for the diskless unit.",
+   "sources": {
+    "product": "https://www.asustor.com/en/product?p_id=99",
+    "specs": "https://www.asustor.com/en/product/spec?p_id=99",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://www.asustor.com/images/product_img/sm/AS7224RDX/AS7224RDX_R1.png",
+    "page": "https://www.asustor.com/en/product?p_id=99",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official ASUSTOR product image from asustor.com product page gallery; ASUSTOR has not granted a general reuse license — rights not verified.",
+    "alt": "ASUSTOR Lockerstor 24R Pro Gen2 AS7224RDX 24-bay rackmount NAS, front-left three-quarter view",
+    "match": "EXACT",
+    "credit": "ASUSTOR"
+   },
+   "featured": false
+  },
+  {
+   "sku": "TK-UGREEN-DXP8800ULTRA",
+   "slug": "ugreen-nasync-dxp8800-ultra",
+   "name": "UGREEN NASync DXP8800 Ultra",
+   "brand": "UGREEN",
+   "category": "nas",
+   "price": "1779.99",
+   "priceBasis": "msrp",
+   "priceSource": "https://ai.ugreen.com/products/ugreen-nasync-dxp8800-ultra-nas-storage",
+   "releaseYear": 2026,
+   "summary": "8-bay NAS with Intel Core 7 150U, 8 GB DDR5, dual 10GbE, two Thunderbolt 4 ports and 8K HDMI.",
+   "description": "The NASync DXP8800 Ultra has eight SATA bays and two M.2 NVMe slots (up to 272 TB raw), driven by a 10-core Intel Core 7 150U with 8 GB DDR5-4800 memory. It offers two 10GbE ports that can be aggregated to 20 Gbps, two Thunderbolt 4 ports and 8K HDMI output, and runs UGOS Pro. Sold diskless.",
+   "keywords": "ugreen nasync dxp8800 ultra 8 bay nas thunderbolt 4 10gbe ugos",
+   "specs": {
+    "bays": 8,
+    "cpu": "Intel Core 7 150U (10C/12T)",
+    "ramGb": 8,
+    "network": "2 x 10GbE",
+    "interface": "8 x SATA, 2 x M.2 NVMe, 2 x Thunderbolt 4",
+    "rackMountable": false
+   },
+   "collections": [
+    "homelab-essentials",
+    "high-end-storage"
+   ],
+   "featured": true,
+   "warranty": 36,
+   "sources": {
+    "product": "https://ai.ugreen.com/products/ugreen-nasync-dxp8800-ultra-nas-storage",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0630/9416/1602/files/dxp8800-ultra.png?v=1788565207",
+    "page": "https://ai.ugreen.com/products/ugreen-nasync-dxp8800-ultra-nas-storage",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official UGREEN product image from the official UGREEN NAS US store (ai.ugreen.com / nas.ugreen.com); UGREEN has not granted a general reuse license — rights not verified.",
+    "alt": "UGREEN NASync DXP8800 Ultra 8-bay grey NAS, front-left three-quarter view",
+    "match": "EXACT",
+    "credit": "UGREEN"
+   },
+   "priceAsOf": "2026-09-28"
+  },
+  {
+   "sku": "TK-UGREEN-IDX6011-32G",
+   "slug": "ugreen-idx6011-ai-nas",
+   "name": "UGREEN iDX6011 AI NAS",
+   "brand": "UGREEN",
+   "category": "nas",
+   "price": "2349.99",
+   "priceBasis": "starting-at",
+   "priceSource": "https://ai.ugreen.com/products/ugreen-idx6011-32gb-ai-nas",
+   "releaseYear": 2026,
+   "summary": "6-bay AI NAS with Intel Core Ultra 5 125H, 32 GB LPDDR5X, dual 10GbE and two Thunderbolt 4 ports.",
+   "description": "The iDX6011 is UGREEN's 6-bay AI NAS for on-device AI data management, with a 14-core Intel Core Ultra 5 125H and 32 GB LPDDR5X memory. It has six SATA bays and two M.2 NVMe slots (up to 208 TB), two 10GbE ports, two Thunderbolt 4 ports, 8K HDMI and an SD 4.0 reader.",
+   "keywords": "ugreen idx6011 ai nas core ultra local ai 10gbe thunderbolt",
+   "specs": {
+    "bays": 6,
+    "cpu": "Intel Core Ultra 5 125H (14C/18T)",
+    "ramGb": 32,
+    "network": "2 x 10GbE",
+    "interface": "6 x SATA, 2 x M.2 NVMe, 2 x Thunderbolt 4",
+    "rackMountable": false
+   },
+   "collections": [
+    "ai-lab",
+    "homelab-essentials"
+   ],
+   "warranty": 36,
+   "sources": {
+    "product": "https://ai.ugreen.com/products/ugreen-idx6011-32gb-ai-nas",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0630/9416/1602/files/idx6011_4d8be5cb-f58e-4af1-8183-f5d83bdf6514.png?v=1788565206",
+    "page": "https://ai.ugreen.com/products/ugreen-idx6011-32gb-ai-nas",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official UGREEN product image from the official UGREEN NAS US store (ai.ugreen.com / nas.ugreen.com); UGREEN has not granted a general reuse license — rights not verified.",
+    "alt": "UGREEN iDX6011 6-bay dark grey AI NAS, front-left three-quarter view",
+    "match": "EXACT",
+    "credit": "UGREEN"
+   },
+   "featured": false,
+   "priceAsOf": "2026-09-28",
+   "notes": "Official configurations: iDX6011 32 GB $2349.99; iDX6011 64 GB $3599.99; iDX6011 Pro 64 GB $5999.99."
+  },
+  {
+   "sku": "TK-UGREEN-DXP4800PRO",
+   "slug": "ugreen-nasync-dxp4800-pro",
+   "name": "UGREEN NASync DXP4800 Pro",
+   "brand": "UGREEN",
+   "category": "nas",
+   "price": "799.99",
+   "priceBasis": "msrp",
+   "priceSource": "https://ai.ugreen.com/products/ugreen-nasync-dxp4800-pro-4-bay-nas",
+   "releaseYear": 2026,
+   "summary": "4-bay NAS with Intel Core i3-1315U, DDR5, 10GbE + 2.5GbE and dual M.2 NVMe slots.",
+   "description": "The NASync DXP4800 Pro is a 4-bay NAS with an Intel Core i3-1315U processor and DDR5 memory. It has two M.2 NVMe slots (up to 144 TB raw with drives), one 10GbE and one 2.5GbE port, and runs UGOS Pro. Sold diskless.",
+   "keywords": "ugreen nasync dxp4800 pro 4 bay nas core i3 10gbe",
+   "specs": {
+    "bays": 4,
+    "cpu": "Intel Core i3-1315U",
+    "network": "1 x 10GbE + 1 x 2.5GbE",
+    "interface": "4 x SATA, 2 x M.2 NVMe",
+    "rackMountable": false
+   },
+   "collections": [
+    "homelab-starter"
+   ],
+   "warranty": 24,
+   "sources": {
+    "product": "https://ai.ugreen.com/products/ugreen-nasync-dxp4800-pro-4-bay-nas",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0630/9416/1602/files/4800pro.webp?v=1770087306",
+    "page": "https://ai.ugreen.com/products/ugreen-nasync-dxp4800-pro-4-bay-nas",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official UGREEN product image from the official UGREEN NAS US store (ai.ugreen.com / nas.ugreen.com); UGREEN has not granted a general reuse license — rights not verified.",
+    "alt": "UGREEN NASync DXP4800 Pro 4-bay grey NAS, front view with one drive tray open",
+    "match": "EXACT",
+    "credit": "UGREEN"
+   },
+   "featured": false,
+   "priceAsOf": "2026-09-28"
+  },
+  {
+   "sku": "TK-UGREEN-DXP4800GT",
+   "slug": "ugreen-nasync-dxp4800-gt",
+   "name": "UGREEN NASync DXP4800 GT",
+   "brand": "UGREEN",
+   "category": "nas",
+   "price": "559.99",
+   "compareAt": "699.99",
+   "priceBasis": "msrp",
+   "priceSource": "https://ai.ugreen.com/products/ugreen-nasync-dxp4800-gt-4-bay-nas-storage",
+   "releaseYear": 2026,
+   "summary": "4-bay NAS with AMD Ryzen Embedded R2514, dual 10GbE and two M.2 NVMe slots.",
+   "description": "The NASync DXP4800 GT is a 4-bay NAS powered by a 4-core/8-thread AMD Ryzen Embedded R2514 with DDR4 memory expandable to 64 GB. It has dual 10GbE ports, two NVMe SSD slots, a 10 Gbps USB-C port and an SD 3.0 reader, and runs UGOS Pro with Docker and VM support.",
+   "keywords": "ugreen nasync dxp4800 gt ryzen 10gbe 4 bay nas homelab",
+   "specs": {
+    "bays": 4,
+    "cpu": "AMD Ryzen Embedded R2514 (4C/8T)",
+    "network": "2 x 10GbE",
+    "interface": "4 x SATA, 2 x M.2 NVMe",
+    "rackMountable": false
+   },
+   "collections": [
+    "homelab-starter",
+    "deals"
+   ],
+   "warranty": 24,
+   "notes": "Official store listed $559.99 sale price against a $699.99 regular price on 2026-09-28.",
+   "sources": {
+    "product": "https://ai.ugreen.com/products/ugreen-nasync-dxp4800-gt-4-bay-nas-storage",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0630/9416/1602/files/DXP4800GT16058.webp?v=1788763228",
+    "page": "https://ai.ugreen.com/products/ugreen-nasync-dxp4800-gt-4-bay-nas-storage",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official UGREEN product image from the official UGREEN NAS US store (ai.ugreen.com / nas.ugreen.com); UGREEN has not granted a general reuse license — rights not verified.",
+    "alt": "UGREEN NASync DXP4800 GT 4-bay black and gold NAS, front-left three-quarter view",
+    "match": "EXACT",
+    "credit": "UGREEN"
+   },
+   "featured": false,
+   "priceAsOf": "2026-09-28"
+  },
+  {
+   "sku": "TK-TERRAMASTER-F4425PRO",
+   "slug": "terramaster-f4-425-pro",
+   "name": "TerraMaster F4-425 Pro",
+   "brand": "TerraMaster",
+   "category": "nas",
+   "price": "594.99",
+   "compareAt": "699.99",
+   "priceBasis": "msrp",
+   "priceSource": "https://www.terra-master.com/products/f4-425-pro",
+   "releaseYear": 2026,
+   "summary": "4-bay NAS with an 8-core Intel N305, 16 GB DDR5, three M.2 NVMe slots and dual 5GbE.",
+   "description": "The F4-425 Pro is a 4-bay NAS with an 8-core Intel N305 (N350 option) and 16 GB of DDR5 memory. It has three M.2 NVMe slots, two 5GbE ports and supports up to 120 TB of raw capacity, running TerraMaster TOS.",
+   "keywords": "terramaster f4-425 pro 4 bay nas n305 5gbe tos",
+   "specs": {
+    "bays": 4,
+    "cpu": "Intel N305 (8C)",
+    "ramGb": 16,
+    "network": "2 x 5GbE",
+    "interface": "4 x SATA, 3 x M.2 NVMe",
+    "rackMountable": false
+   },
+   "collections": [
+    "homelab-starter",
+    "deals"
+   ],
+   "warranty": 24,
+   "sources": {
+    "product": "https://www.terra-master.com/products/f4-425-pro",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0557/3256/8098/files/F4-425-Pro-02.jpg?v=1783565456",
+    "page": "https://www.terra-master.com/products/f4-425-pro",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official TerraMaster product image from the TerraMaster web store (terra-master.com); TerraMaster has not granted a general reuse license — rights not verified.",
+    "alt": "TerraMaster F4-425 Pro 4-bay NAS in silver and black, front-left three-quarter view",
+    "match": "EXACT",
+    "credit": "TerraMaster"
+   },
+   "featured": false,
+   "priceAsOf": "2026-09-28",
+   "notes": "Official configurations: N305 $594.99; N350 $799.99. Colors: Gunmetal Grey, Silver."
+  },
+  {
+   "sku": "TK-TERRAMASTER-F6425PRO",
+   "slug": "terramaster-f6-425-pro",
+   "name": "TerraMaster F6-425 Pro",
+   "brand": "TerraMaster",
+   "category": "nas",
+   "price": "849.99",
+   "compareAt": "999.99",
+   "priceBasis": "msrp",
+   "priceSource": "https://www.terra-master.com/products/f6-425-pro",
+   "releaseYear": 2026,
+   "summary": "6-bay NAS with Intel Core i3-1315U, 8 GB DDR5, three M.2 slots, dual 10GbE and Thunderbolt 4.",
+   "description": "The F6-425 Pro is a 6-bay NAS with an Intel Core i3-1315U and 8 GB DDR5 memory. It adds three M.2 NVMe slots (up to 180 TB raw), two 10GbE ports and Thunderbolt 4 connectivity, and runs TOS 7.",
+   "keywords": "terramaster f6-425 pro 6 bay nas core i3 10gbe thunderbolt 4",
+   "specs": {
+    "bays": 6,
+    "cpu": "Intel Core i3-1315U (6C)",
+    "ramGb": 8,
+    "network": "2 x 10GbE",
+    "interface": "6 x SATA, 3 x M.2 NVMe, Thunderbolt 4",
+    "rackMountable": false
+   },
+   "collections": [
+    "homelab-essentials"
+   ],
+   "warranty": 24,
+   "sources": {
+    "product": "https://www.terra-master.com/products/f6-425-pro",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0557/3256/8098/files/F6-425Pro01_52817087-dc6b-40df-b02f-a7dec79e09d1.jpg?v=1781577479",
+    "page": "https://www.terra-master.com/products/f6-425-pro",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official TerraMaster product image from the TerraMaster web store (terra-master.com); TerraMaster has not granted a general reuse license — rights not verified.",
+    "alt": "TerraMaster F6-425 Pro 6-bay black NAS, front-left three-quarter view",
+    "match": "EXACT",
+    "credit": "TerraMaster"
+   },
+   "featured": false,
+   "priceAsOf": "2026-09-28"
+  },
+  {
+   "sku": "TK-TERRAMASTER-U12725PLUS",
+   "slug": "terramaster-u12-725-plus",
+   "name": "TerraMaster U12-725 Plus",
+   "brand": "TerraMaster",
+   "category": "nas",
+   "price": "7199.00",
+   "priceBasis": "msrp",
+   "priceSource": "https://www.terra-master.com/products/u12-725-plus",
+   "releaseYear": 2026,
+   "summary": "12-bay rackmount storage server with Intel Xeon D-2733NT, DDR4 ECC, four 10GbE SFP+ and two 5GbE.",
+   "description": "The U12-725 Plus is a 12-bay rackmount AI enterprise storage server with an 8-core/16-thread Intel Xeon D-2733NT and 16 GB of DDR4 ECC memory (up to 1 TB). It has three PCIe 4.0 NVMe slots, four 10GbE SFP+ and two 5GbE ports, four PCIe expansion slots and runs TOS 7.",
+   "keywords": "terramaster u12-725 plus rackmount nas xeon d 10gbe sfp+ enterprise",
+   "specs": {
+    "bays": 12,
+    "cpu": "Intel Xeon D-2733NT (8C/16T)",
+    "ramGb": 16,
+    "network": "4 x 10GbE SFP+ + 2 x 5GbE",
+    "interface": "12 x SATA hot-swap, 3 x M.2 PCIe 4.0 NVMe",
+    "rackMountable": true
+   },
+   "collections": [
+    "small-business",
+    "high-end-storage"
+   ],
+   "warranty": 24,
+   "sources": {
+    "product": "https://www.terra-master.com/products/u12-725-plus",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0557/3256/8098/files/U12-725_Plus.jpg?v=1789953451",
+    "page": "https://www.terra-master.com/products/u12-725-plus",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official TerraMaster product image from the TerraMaster web store (terra-master.com); TerraMaster has not granted a general reuse license — rights not verified.",
+    "alt": "TerraMaster U12-725 Plus 12-bay rackmount storage server, front-left view",
+    "match": "EXACT",
+    "credit": "TerraMaster"
+   },
+   "featured": false,
+   "priceAsOf": "2026-09-28"
+  },
+  {
+   "sku": "TK-CYBERPOWER-PR1500RT2UCN",
+   "slug": "cyberpower-pr1500rt2ucn",
+   "name": "CyberPower PR1500RT2UCN Smart App Sinewave UPS",
+   "brand": "CyberPower",
+   "category": "ups",
+   "price": "1500.00",
+   "priceBasis": "msrp",
+   "priceSource": "https://www.cyberpowersystems.com/product/ups/smart-app-sinewave/pr1500rt2ucn/",
+   "releaseYear": 2024,
+   "summary": "1500 VA / 1500 W line-interactive rack/tower UPS with sine wave output and a pre-installed RMCARD205 network card.",
+   "description": "The PR1500RT2UCN is a 2U rack/tower convertible Smart App Sinewave UPS rated 1500 VA / 1500 W with line-interactive topology and pure sine wave output. It has eight NEMA 5-15R outlets, USB, serial, SNMP and relay communication, and ships with a pre-installed RMCARD205 network management card with built-in cloud monitoring.",
+   "keywords": "cyberpower smart app sinewave 1500va rackmount ups network card rmcard205",
+   "specs": {
+    "capacityVa": 1500,
+    "outputW": 1500,
+    "waveform": "Sine wave (line interactive)",
+    "rackMountable": true,
+    "outlets": 8
+   },
+   "collections": [
+    "small-business",
+    "homelab-essentials"
+   ],
+   "warranty": 36,
+   "sources": {
+    "product": "https://www.cyberpowersystems.com/product/ups/smart-app-sinewave/pr1500rt2ucn/",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://www.cyberpowersystems.com/wp-content/uploads/2024/07/pr1500rt2ucn-front-photo-1.jpg",
+    "page": "https://www.cyberpowersystems.com/product/ups/smart-app-sinewave/pr1500rt2ucn/",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official CyberPower product photo from cyberpowersystems.com product page; CyberPower has not granted a general reuse license — rights not verified.",
+    "alt": "CyberPower PR1500RT2UCN 2U black rack/tower UPS, front view with LCD panel",
+    "match": "EXACT",
+    "credit": "CyberPower"
+   },
+   "featured": false,
+   "priceAsOf": "2026-09-28"
+  },
+  {
+   "sku": "TK-CYBERPOWER-OL3KRTHD",
+   "slug": "cyberpower-ol3krthd",
+   "name": "CyberPower OL3KRTHD Smart App Online UPS",
+   "brand": "CyberPower",
+   "category": "ups",
+   "price": "5350.00",
+   "priceBasis": "msrp",
+   "priceSource": "https://www.cyberpowersystems.com/product/ups/smart-app-online/ol3krthd/",
+   "releaseYear": 2026,
+   "summary": "3000 VA / 2700 W high-density 2U double-conversion online UPS with switchable outlets.",
+   "description": "The OL3KRTHD is a high-density 2U rack/tower Smart App Online UPS with double-conversion topology, rated 3000 VA / 2700 W at 0.9 power factor with user-configurable output voltage. It provides six NEMA 5-20R and one NEMA L5-30R switchable outlets and USB, serial, SNMP and EPO interfaces, with optional RMCARD205 remote management.",
+   "keywords": "cyberpower online double conversion 3kva 2u high density rack ups",
+   "specs": {
+    "capacityVa": 3000,
+    "outputW": 2700,
+    "waveform": "Sine wave (double-conversion online)",
+    "rackMountable": true,
+    "outlets": 7
+   },
+   "collections": [
+    "enterprise-servers",
+    "small-business"
+   ],
+   "featured": true,
+   "warranty": 36,
+   "sources": {
+    "product": "https://www.cyberpowersystems.com/product/ups/smart-app-online/ol3krthd/",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://www.cyberpowersystems.com/wp-content/uploads/2026/08/ol3krthd-front-horizontal-photo-1.jpg",
+    "page": "https://www.cyberpowersystems.com/product/ups/smart-app-online/ol3krthd/",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official CyberPower product photo from cyberpowersystems.com product page; CyberPower has not granted a general reuse license — rights not verified.",
+    "alt": "CyberPower OL3KRTHD 2U black online UPS, horizontal front view with color LCD",
+    "match": "EXACT",
+    "credit": "CyberPower"
+   },
+   "priceAsOf": "2026-09-28"
+  },
+  {
+   "sku": "TK-CYBERPOWER-OR1500PFCRT2U",
+   "slug": "cyberpower-or1500pfcrt2u",
+   "name": "CyberPower OR1500PFCRT2U PFC Sinewave UPS",
+   "brand": "CyberPower",
+   "category": "ups",
+   "price": "719.95",
+   "priceBasis": "msrp",
+   "priceSource": "https://www.cyberpowersystems.com/product/ups/pfc-sinewave/or1500pfcrt2u/",
+   "releaseYear": 2016,
+   "summary": "1500 VA / 1050 W 2U rack/tower PFC Sinewave UPS with AVR and eight outlets.",
+   "description": "The OR1500PFCRT2U is a 2U rack/tower line-interactive UPS with sine wave output for active-PFC power supplies, rated 1500 VA / 1050 W. It uses automatic voltage regulation, provides eight NEMA 5-15R outlets, and communicates over USB and serial with EPO support.",
+   "keywords": "cyberpower pfc sinewave 1500va rack tower ups homelab",
+   "specs": {
+    "capacityVa": 1500,
+    "outputW": 1050,
+    "waveform": "Sine wave (line interactive)",
+    "rackMountable": true,
+    "outlets": 8
+   },
+   "collections": [
+    "homelab-essentials"
+   ],
+   "warranty": 36,
+   "sources": {
+    "product": "https://www.cyberpowersystems.com/product/ups/pfc-sinewave/or1500pfcrt2u/",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://www.cyberpowersystems.com/wp-content/uploads/2016/07/OR1500PFCRT2U_F-1.jpg",
+    "page": "https://www.cyberpowersystems.com/product/ups/pfc-sinewave/or1500pfcrt2u/",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official CyberPower product photo from cyberpowersystems.com product page; CyberPower has not granted a general reuse license — rights not verified.",
+    "alt": "CyberPower OR1500PFCRT2U 2U black rack/tower UPS, front view with LCD",
+    "match": "EXACT",
+    "credit": "CyberPower"
+   },
+   "featured": false,
+   "priceAsOf": "2026-09-28"
+  },
+  {
+   "sku": "TK-CYBERPOWER-CP1500PFCRM2U",
+   "slug": "cyberpower-cp1500pfcrm2u",
+   "name": "CyberPower CP1500PFCRM2U PFC Sinewave Rackmount UPS",
+   "brand": "CyberPower",
+   "category": "ups",
+   "price": "399.95",
+   "priceBasis": "msrp",
+   "priceSource": "https://www.cyberpowersystems.com/product/ups/pfc-sinewave/cp1500pfcrm2u/",
+   "releaseYear": 2022,
+   "summary": "1500 VA / 1000 W shallow 2U rackmount sine wave UPS for homelab and small racks.",
+   "description": "The CP1500PFCRM2U is a 2U rackmount PFC Sinewave UPS rated 1500 VA / 1000 W with line-interactive topology. It has eight NEMA 5-15R outlets, USB and SNMP communication (with optional RMCARD205) and a shallow 26.7 cm chassis depth.",
+   "keywords": "cyberpower rackmount 2u ups 1500va sine wave homelab short depth",
+   "specs": {
+    "capacityVa": 1500,
+    "outputW": 1000,
+    "waveform": "Sine wave (line interactive)",
+    "rackMountable": true,
+    "outlets": 8
+   },
+   "collections": [
+    "homelab-starter",
+    "homelab-essentials"
+   ],
+   "warranty": 36,
+   "sources": {
+    "product": "https://www.cyberpowersystems.com/product/ups/pfc-sinewave/cp1500pfcrm2u/",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://www.cyberpowersystems.com/wp-content/uploads/2022/05/CP1500PFCRM2U_F-1.jpg",
+    "page": "https://www.cyberpowersystems.com/product/ups/pfc-sinewave/cp1500pfcrm2u/",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official CyberPower product photo from cyberpowersystems.com product page; CyberPower has not granted a general reuse license — rights not verified.",
+    "alt": "CyberPower CP1500PFCRM2U 2U black rackmount UPS, front view with LCD and rack ears",
+    "match": "EXACT",
+    "credit": "CyberPower"
+   },
+   "featured": false,
+   "priceAsOf": "2026-09-28"
+  },
+  {
+   "sku": "TK-STARTECH-RK2433BKM",
+   "slug": "startech-24u-server-rack-cabinet-rk2433bkm",
+   "name": "StarTech.com 24U Server Rack Cabinet (RK2433BKM)",
+   "brand": "StarTech.com",
+   "category": "racks-infrastructure",
+   "price": "1005.51",
+   "priceBasis": "msrp",
+   "priceSource": "https://www.startech.com/en-us/server-management/rk2433bkm",
+   "summary": "24U enclosed 19-inch 4-post rack cabinet with shelf, cable management and 450 kg capacity.",
+   "description": "The RK2433BKM is a 24U enterprise-grade 19-inch enclosed 4-post server rack cabinet kit with a shelf and cable management. It offers a 29-inch (75 cm) mounting depth and a 992 lb (450 kg) weight capacity.",
+   "keywords": "startech 24u server rack cabinet enclosed 4 post homelab small business",
+   "specs": {
+    "rackUnits": 24,
+    "rackType": "Enclosed 4-post cabinet",
+    "loadCapacityKg": 450
+   },
+   "collections": [
+    "small-business",
+    "homelab-essentials"
+   ],
+   "sources": {
+    "product": "https://www.startech.com/en-us/server-management/rk2433bkm",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://media.startech.com/cms/products/gallery_large/rk2433bkm.main.jpg",
+    "page": "https://www.startech.com/en-us/server-management/rk2433bkm",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official StarTech.com product image (media.startech.com gallery) from the startech.com product page; StarTech.com has not granted a general reuse license — rights not verified.",
+    "alt": "StarTech.com RK2433BKM 24U black enclosed server rack cabinet with perforated doors, front three-quarter view",
+    "match": "EXACT",
+    "credit": "StarTech.com"
+   },
+   "featured": false,
+   "priceAsOf": "2026-09-28"
+  },
+  {
+   "sku": "TK-STARTECH-RK1236BKF",
+   "slug": "startech-12u-server-rack-cabinet-rk1236bkf",
+   "name": "StarTech.com 12U Flat Pack Server Rack Cabinet (RK1236BKF)",
+   "brand": "StarTech.com",
+   "category": "racks-infrastructure",
+   "price": "631.39",
+   "priceBasis": "msrp",
+   "priceSource": "https://www.startech.com/en-us/server-management/rk1236bkf",
+   "summary": "12U enclosed 4-post flat-pack rack cabinet with 75 cm mounting depth and 800 kg capacity.",
+   "description": "The RK1236BKF is a 12U enterprise-grade flat-pack 19-inch enclosed 4-post server rack cabinet with a 29-inch (75 cm) mounting depth and a 1764 lb (800 kg) weight capacity, suited to small server rooms and homelabs.",
+   "keywords": "startech 12u rack cabinet flat pack homelab enclosed casters",
+   "specs": {
+    "rackUnits": 12,
+    "rackType": "Enclosed 4-post cabinet (flat pack)",
+    "loadCapacityKg": 800
+   },
+   "collections": [
+    "homelab-starter",
+    "homelab-essentials"
+   ],
+   "sources": {
+    "product": "https://www.startech.com/en-us/server-management/rk1236bkf",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://media.startech.com/cms/products/gallery_large/rk1236bkf.main.jpg",
+    "page": "https://www.startech.com/en-us/server-management/rk1236bkf",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official StarTech.com product image (media.startech.com gallery) from the startech.com product page; StarTech.com has not granted a general reuse license — rights not verified.",
+    "alt": "StarTech.com RK1236BKF 12U black enclosed server rack cabinet on casters, front view with door open",
+    "match": "EXACT",
+    "credit": "StarTech.com"
+   },
+   "featured": false,
+   "priceAsOf": "2026-09-28"
+  },
+  {
+   "sku": "TK-STARTECH-RKCONS1901",
+   "slug": "startech-1u-rackmount-kvm-console-rkcons1901",
+   "name": "StarTech.com 1U 19\" Rackmount LCD KVM Console (RKCONS1901)",
+   "brand": "StarTech.com",
+   "category": "racks-infrastructure",
+   "price": "1131.59",
+   "priceBasis": "msrp",
+   "priceSource": "https://www.startech.com/en-us/kvm-switches-accessories/rkcons1901",
+   "summary": "1U rack drawer with a 19-inch LCD, keyboard and touchpad plus a single-port VGA/USB KVM.",
+   "description": "The RKCONS1901 is a universal 1U rackmount KVM console drawer with a 19-inch LCD monitor, keyboard and touchpad and a single-port VGA KVM with USB support. It ships with cables and mounting hardware for controlling a server or KVM switch from the rack.",
+   "keywords": "startech rack console kvm drawer 1u lcd 19 inch server",
+   "specs": {
+    "rackUnits": 1,
+    "rackType": "Rackmount LCD KVM console drawer"
+   },
+   "collections": [
+    "enterprise-servers",
+    "small-business"
+   ],
+   "sources": {
+    "product": "https://www.startech.com/en-us/kvm-switches-accessories/rkcons1901",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://media.startech.com/cms/products/gallery_large/rkcons1901.main.jpg",
+    "page": "https://www.startech.com/en-us/kvm-switches-accessories/rkcons1901",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official StarTech.com product image (media.startech.com gallery) from the startech.com product page; StarTech.com has not granted a general reuse license — rights not verified.",
+    "alt": "StarTech.com RKCONS1901 1U rackmount KVM console with 19-inch LCD raised and keyboard drawer open",
+    "match": "EXACT",
+    "credit": "StarTech.com"
+   },
+   "featured": false,
+   "priceAsOf": "2026-09-28"
+  },
+  {
+   "sku": "TK-STARTECH-SV431DPU3A2",
+   "slug": "startech-4-port-displayport-kvm-sv431dpu3a2",
+   "name": "StarTech.com 4-Port DisplayPort KVM Switch (SV431DPU3A2)",
+   "brand": "StarTech.com",
+   "category": "racks-infrastructure",
+   "price": "474.56",
+   "priceBasis": "msrp",
+   "priceSource": "https://www.startech.com/en-us/kvm-switches-accessories/sv431dpu3a2",
+   "summary": "4-port DisplayPort KVM switch with USB 3.0 hub, 4K 30 Hz, TAA compliant.",
+   "description": "The SV431DPU3A2 lets one console control four DisplayPort computers at up to 4K 30 Hz, with a built-in USB 3.0 hub for sharing additional peripherals. It is TAA compliant.",
+   "keywords": "startech kvm switch 4 port displayport usb 3.0 4k",
+   "specs": {
+    "rackType": "Desktop KVM switch (4-port DisplayPort)"
+   },
+   "collections": [
+    "homelab-essentials",
+    "small-business"
+   ],
+   "sources": {
+    "product": "https://www.startech.com/en-us/kvm-switches-accessories/sv431dpu3a2",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://media.startech.com/cms/products/gallery_large/sv431dpu3a2.main.jpg",
+    "page": "https://www.startech.com/en-us/kvm-switches-accessories/sv431dpu3a2",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official StarTech.com product image (media.startech.com gallery) from the startech.com product page; StarTech.com has not granted a general reuse license — rights not verified.",
+    "alt": "StarTech.com SV431DPU3A2 black 4-port DisplayPort KVM switch, front three-quarter view",
+    "match": "EXACT",
+    "credit": "StarTech.com"
+   },
+   "featured": false,
+   "priceAsOf": "2026-09-28"
+  },
+  {
+   "sku": "TK-STARTECH-C6APANELSTP241UFT",
+   "slug": "startech-24-port-cat6a-patch-panel-c6apanelstp241uft",
+   "name": "StarTech.com 24-Port 1U Shielded Cat6a Feed-Through Patch Panel",
+   "brand": "StarTech.com",
+   "category": "racks-infrastructure",
+   "price": "147.59",
+   "priceBasis": "msrp",
+   "priceSource": "https://www.startech.com/en-us/cables/c6apanelstp241uft",
+   "summary": "1U 24-port shielded Cat6a feed-through patch panel with pre-installed RJ45 couplers and cable bar.",
+   "description": "The C6APANELSTP241UFT is a 1U rackmount 24-port shielded Cat6a feed-through patch panel with pre-installed RJ45 STP inline couplers and a cable management bar, so no punch-down or crimping is needed.",
+   "keywords": "startech patch panel cat6a 24 port 1u shielded keystone feed through",
+   "specs": {
+    "rackUnits": 1,
+    "rackType": "24-port Cat6a feed-through patch panel"
+   },
+   "collections": [
+    "homelab-essentials",
+    "small-business"
+   ],
+   "sources": {
+    "product": "https://www.startech.com/en-us/cables/c6apanelstp241uft",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://media.startech.com/cms/products/gallery_large/c6apanelstp241uft.main.jpg",
+    "page": "https://www.startech.com/en-us/cables/c6apanelstp241uft",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official StarTech.com product image (media.startech.com gallery) from the startech.com product page; StarTech.com has not granted a general reuse license — rights not verified.",
+    "alt": "StarTech.com 24-port 1U shielded Cat6a feed-through patch panel, angled front view",
+    "match": "EXACT",
+    "credit": "StarTech.com"
+   },
+   "featured": false,
+   "priceAsOf": "2026-09-28"
+  },
+  {
+   "sku": "TK-SUPERMICRO-SYS822GSNB3RT",
+   "slug": "supermicro-sys-822gs-nb3rt-hgx-b300",
+   "name": "Supermicro SYS-822GS-NB3RT NVIDIA HGX B300 8-GPU Server",
+   "brand": "Supermicro",
+   "category": "ai-systems",
+   "price": "495000.00",
+   "priceBasis": "estimate",
+   "releaseYear": 2025,
+   "summary": "8U air-cooled AI server with NVIDIA HGX B300 (8 GPUs, 2.3 TB HBM3e), dual Xeon 6700 and 8 x 800G networking.",
+   "description": "The Supermicro SYS-822GS-NB3RT is an 8U GPU SuperServer built around an NVIDIA HGX B300 board with eight onboard GPUs and about 2.3 TB of HBM3e per system. It pairs dual Intel Xeon 6700-series P-core processors (up to 86 cores each) with up to 8 TB DDR5 across 32 DIMMs, eight E1.S NVMe bays, eight 800GbE OSFP ports via NVIDIA ConnectX-8 SuperNICs and six 6.6 kW Titanium power supplies.",
+   "keywords": "supermicro hgx b300 blackwell ultra 8 gpu ai training server 8u",
+   "specs": {
+    "formFactor": "8U rackmount (air-cooled)",
+    "cpu": "2 x Intel Xeon 6700-series (P-cores, up to 86 cores each)",
+    "gpus": "NVIDIA HGX B300, 8 GPUs with NVLink",
+    "gpuMemoryGb": 2300,
+    "storage": "8 x hot-swap E1.S NVMe + 2 x M.2 NVMe",
+    "network": "8 x 800GbE OSFP (ConnectX-8 SuperNIC) + 2 x 10GbE"
+   },
+   "collections": [
+    "ai-lab",
+    "enterprise-servers"
+   ],
+   "featured": true,
+   "notes": "Supermicro systems are configured and quoted through Supermicro partners; no list price is published. Price is a TrustKart estimate for a typical configured system. (was) no image: supermicro.com refused automated requests (HTTP 403). Max memory 8 TB DDR5 RDIMM; PSUs 6 x 6.6 kW (3+3).",
+   "sources": {
+    "product": "https://www.supermicro.com/en/products/system/gpu/8u/sys-822gs-nb3rt",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://www.supermicro.com/files_SYS/images/System/SYS-822GS-NB3RT_main.jpg",
+    "page": "https://www.supermicro.com/en/products/system/gpu/8u/sys-822gs-nb3rt",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official Supermicro product image from supermicro.com; reuse rights not verified.",
+    "alt": "Supermicro SYS-822GS-NB3RT 8U NVIDIA HGX B300 GPU server, front three-quarter view",
+    "match": "EXACT",
+    "credit": "Supermicro"
+   }
+  },
+  {
+   "sku": "TK-SUPERMICRO-SYS422GSNBRTLCC",
+   "slug": "supermicro-sys-422gs-nbrt-lcc-hgx-b200",
+   "name": "Supermicro SYS-422GS-NBRT-LCC Liquid-Cooled NVIDIA HGX B200 Server",
+   "brand": "Supermicro",
+   "category": "ai-systems",
+   "price": "385000.00",
+   "priceBasis": "estimate",
+   "releaseYear": 2025,
+   "summary": "4U direct-to-chip liquid-cooled AI server with NVIDIA HGX B200 (8 x 180 GB) and dual Xeon 6700.",
+   "description": "The SYS-422GS-NBRT-LCC is a 4U GPU SuperServer with direct-to-chip liquid cooling that captures up to 87% of system heat. It carries an NVIDIA HGX B200 board with eight GPUs (180 GB each) connected by NVLink and NVSwitch, dual Intel Xeon 6700-series P-core CPUs, 32 DDR5 DIMM slots (up to 8 TB), eight E1.S NVMe bays and four 6.6 kW Titanium power supplies.",
+   "keywords": "supermicro hgx b200 liquid cooled dlc 4u ai server blackwell",
+   "specs": {
+    "formFactor": "4U rackmount (direct-to-chip liquid cooling)",
+    "cpu": "2 x Intel Xeon 6700-series (P-cores, up to 86 cores each)",
+    "gpus": "NVIDIA HGX B200, 8 GPUs with NVLink/NVSwitch",
+    "gpuMemoryGb": 1440,
+    "storage": "8 x hot-swap E1.S NVMe + 2 x M.2 NVMe",
+    "network": "2 x 10GbE RJ45 (Intel X710) + BMC"
+   },
+   "collections": [
+    "ai-lab",
+    "enterprise-servers"
+   ],
+   "notes": "Supermicro systems are configured and quoted through Supermicro partners; no list price is published. Price is a TrustKart estimate for a typical configured system. (was) no image: supermicro.com refused automated requests (HTTP 403). GPU memory: 8 x 180 GB = 1,440 GB.",
+   "sources": {
+    "product": "https://www.supermicro.com/en/products/system/gpu/4u/sys-422gs-nbrt-lcc",
+    "retrievedAt": "2026-09-28"
+   },
+   "featured": false,
+   "image": {
+    "url": "https://www.supermicro.com/files_SYS/images/System/SYS-422GS-NBRT-LCC_main.jpg",
+    "page": "https://www.supermicro.com/en/products/system/gpu/4u/sys-422gs-nbrt-lcc",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official Supermicro product image from supermicro.com; reuse rights not verified.",
+    "alt": "Supermicro SYS-422GS-NBRT-LCC liquid-cooled 4U HGX B200 server with coolant lines, front view",
+    "match": "EXACT",
+    "credit": "Supermicro"
+   }
+  },
+  {
+   "sku": "TK-SUPERMICRO-SYS222HTN",
+   "slug": "supermicro-hyper-sys-222h-tn",
+   "name": "Supermicro Hyper SuperServer SYS-222H-TN",
+   "brand": "Supermicro",
+   "category": "rack-servers",
+   "price": "16500.00",
+   "priceBasis": "estimate",
+   "releaseYear": 2025,
+   "summary": "2U dual-socket Intel Xeon 6 rack server with 32 DIMMs (up to 8 TB), 8 NVMe bays and up to 4 double-width GPUs.",
+   "description": "The Hyper SYS-222H-TN is a 2U dual-socket rackmount SuperServer for Intel Xeon 6700/6500-series P-core or 6700-series E-core processors (up to 86 cores per P-core CPU). It offers 32 DIMM slots for up to 8 TB DDR5, eight front hot-swap 2.5-inch NVMe/SAS/SATA bays (expandable to 24), two PCIe 5.0 M.2 slots, two AIOM (OCP 3.0) networking slots, CXL 2.0 support and up to four double-width GPUs.",
+   "keywords": "supermicro hyper 2u xeon 6 dual socket rack server virtualization",
+   "specs": {
+    "rackUnits": 2,
+    "cpu": "Intel Xeon 6700/6500-series (P-cores) or 6700-series (E-cores)",
+    "socketCount": 2,
+    "maxMemoryTb": 8,
+    "ecc": true,
+    "gpus": "Up to 4 double-width or 8 single-width",
+    "driveBays": 8,
+    "network": "2 x AIOM (OCP 3.0) slots + 1GbE BMC",
+    "psu": "2 x redundant, 1200-2600 W Titanium options"
+   },
+   "collections": [
+    "enterprise-servers",
+    "servers-workstations"
+   ],
+   "featured": true,
+   "notes": "Supermicro systems are configured and quoted through Supermicro partners; no list price is published. Price is a TrustKart estimate for a typical configured system. (was) no image: supermicro.com refused automated requests (HTTP 403).",
+   "sources": {
+    "product": "https://www.supermicro.com/en/products/system/hyper/2u/sys-222h-tn",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://www.supermicro.com/files_SYS/images/System/SYS-222H-TN_main.jpg",
+    "page": "https://www.supermicro.com/en/products/system/hyper/2u/sys-222h-tn",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official Supermicro product image from supermicro.com; reuse rights not verified.",
+    "alt": "Supermicro Hyper SYS-222H-TN 2U rack server with top cover removed, front three-quarter view",
+    "match": "EXACT",
+    "credit": "Supermicro"
+   }
+  },
+  {
+   "sku": "TK-SUPERMICRO-SYS112CTN",
+   "slug": "supermicro-clouddc-sys-112c-tn",
+   "name": "Supermicro CloudDC SuperServer SYS-112C-TN",
+   "brand": "Supermicro",
+   "category": "rack-servers",
+   "price": "10500.00",
+   "priceBasis": "estimate",
+   "releaseYear": 2025,
+   "summary": "1U single-socket Intel Xeon 6 cloud server with 16 DIMMs, 8 hot-swap NVMe bays and redundant 1000 W PSUs.",
+   "description": "The CloudDC SYS-112C-TN is a 1U single-socket SuperServer for Intel Xeon 6700/6500-series P-core (up to 86 cores) or 6700-series E-core (up to 144 cores) processors. It has 16 DIMM slots for up to 4 TB DDR5, eight front hot-swap 2.5-inch NVMe/SAS/SATA bays, two M.2 PCIe 5.0 slots, an AIOM OCP 3.0 networking slot and redundant 1000 W Titanium power supplies.",
+   "keywords": "supermicro clouddc 1u xeon 6 single socket cloud server nvme",
+   "specs": {
+    "rackUnits": 1,
+    "cpu": "Intel Xeon 6700/6500-series (P-cores) or 6700-series (E-cores)",
+    "socketCount": 1,
+    "maxMemoryTb": 4,
+    "ecc": true,
+    "driveBays": 8,
+    "network": "1 x AIOM (OCP 3.0) slot + 1GbE BMC",
+    "psu": "2 x 1000 W redundant Titanium"
+   },
+   "collections": [
+    "enterprise-servers",
+    "small-business"
+   ],
+   "notes": "Supermicro systems are configured and quoted through Supermicro partners; no list price is published. Price is a TrustKart estimate for a typical configured system. (was) no image: supermicro.com refused automated requests (HTTP 403).",
+   "sources": {
+    "product": "https://www.supermicro.com/en/products/system/clouddc/1u/sys-112c-tn",
+    "retrievedAt": "2026-09-28"
+   },
+   "featured": false,
+   "image": {
+    "url": "https://www.supermicro.com/files_SYS/images/System/SYS-112C-TN_main.jpg",
+    "page": "https://www.supermicro.com/en/products/system/clouddc/1u/sys-112c-tn",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official Supermicro product image from supermicro.com; reuse rights not verified.",
+    "alt": "Supermicro CloudDC SYS-112C-TN 1U rack server with top cover removed, front view",
+    "match": "EXACT",
+    "credit": "Supermicro"
+   }
+  },
+  {
+   "sku": "TK-SUPERMICRO-SYS551AT",
+   "slug": "supermicro-sys-551a-t-tower-workstation-server",
+   "name": "Supermicro SYS-551A-T Tower Workstation Server",
+   "brand": "Supermicro",
+   "category": "tower-servers",
+   "price": "11500.00",
+   "priceBasis": "estimate",
+   "releaseYear": 2023,
+   "summary": "5U full-tower single-socket Xeon W-3500/W-3400 system with 16 DIMMs (up to 2 TB) and up to 4 GPUs.",
+   "description": "The SYS-551A-T is a 5U full-tower single-socket workstation server for Intel Xeon W-3500/W-3400 processors (up to 60 cores). It supports up to 2 TB of DDR5 ECC RDIMM across 16 slots, four internal 3.5-inch NVMe/SATA and two 2.5-inch SATA bays plus four M.2 PCIe 5.0 slots, up to four double-width GPUs, 10GbE + 1GbE networking and a 2000 W Platinum PSU.",
+   "keywords": "supermicro tower workstation server xeon w-3500 rtx pro blackwell gpu",
+   "specs": {
+    "cpu": "Intel Xeon W-3500/W-3400 (up to 60 cores)",
+    "socketCount": 1,
+    "ecc": true,
+    "driveBays": 6,
+    "network": "1 x 10GbE + 1 x 1GbE",
+    "psu": "2000 W Platinum"
+   },
+   "collections": [
+    "servers-workstations",
+    "ai-lab"
+   ],
+   "notes": "Supermicro systems are configured and quoted through Supermicro partners; no list price is published. Price is a TrustKart estimate for a typical configured system. (was) no image: supermicro.com refused automated requests (HTTP 403).",
+   "sources": {
+    "product": "https://www.supermicro.com/en/products/system/workstation/tower/sys-551a-t",
+    "retrievedAt": "2026-09-28"
+   },
+   "featured": false,
+   "image": {
+    "url": "https://www.supermicro.com/files_SYS/images/System/SYS-551A-T_main.jpg",
+    "page": "https://www.supermicro.com/en/products/system/workstation/tower/sys-551a-t",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official Supermicro product image from supermicro.com; reuse rights not verified.",
+    "alt": "Supermicro SYS-551A-T tower workstation server with side panel open",
+    "match": "EXACT",
+    "credit": "Supermicro"
+   }
+  },
+  {
+   "sku": "TK-MINISFORUM-MSA2",
+   "slug": "minisforum-ms-a2",
+   "name": "MINISFORUM MS-A2",
+   "brand": "MINISFORUM",
+   "category": "mini-pcs",
+   "price": "799.00",
+   "compareAt": "999.00",
+   "priceBasis": "starting-at",
+   "priceSource": "https://store.minisforum.com/products/minisforum-ms-a2-workstation",
+   "releaseYear": 2025,
+   "summary": "Homelab mini workstation with Ryzen 9 9955HX (16C/32T), dual 10G SFP+, dual 2.5GbE, U.2 support and a PCIe x16 slot.",
+   "description": "The MS-A2 is a 1.78-litre mini workstation for homelab, virtualization and networking, offered with Ryzen 9 9955HX, 8945HX, 7945HX or Ryzen 7 7745HX. It supports up to 96 GB DDR5 across two SO-DIMMs, three NVMe positions including U.2 support, two 10G SFP+ ports (Intel X710) and two 2.5GbE ports, plus a PCIe x16 slot. Base price is the Ryzen 9 9955HX barebone (no RAM, SSD or OS).",
+   "keywords": "minisforum ms-a2 homelab mini pc proxmox sfp+ 10g ryzen 9 9955hx",
+   "specs": {
+    "cpu": "AMD Ryzen 9 9955HX (16C/32T, up to 5.4 GHz)",
+    "cpuBrand": "AMD",
+    "networking": "2 x 10G SFP+ (Intel X710) + 2 x 2.5GbE",
+    "ports": "PCIe x16 slot (bifurcated), 3 x NVMe (1 x U.2 capable)"
+   },
+   "variants": [
+    {
+     "label": "Ryzen 9 9955HX barebone",
+     "price": "799.00"
+    },
+    {
+     "label": "Ryzen 9 9955HX / 32 GB + 1 TB",
+     "price": "1303.00"
+    },
+    {
+     "label": "Ryzen 9 9955HX / 64 GB + 1 TB",
+     "price": "1663.00"
+    },
+    {
+     "label": "Ryzen 9 9955HX / 96 GB + 2 TB",
+     "price": "2063.00"
+    },
+    {
+     "label": "Ryzen 9 8945HX barebone",
+     "price": "559.00"
+    },
+    {
+     "label": "Ryzen 7 7745HX barebone",
+     "price": "439.00"
+    }
+   ],
+   "collections": [
+    "homelab-essentials",
+    "homelab-starter"
+   ],
+   "featured": true,
+   "warranty": 12,
+   "notes": "Official store listed sale prices against higher regular prices (compareAt = regular price of the priced base config).",
+   "sources": {
+    "product": "https://store.minisforum.com/products/minisforum-ms-a2-workstation",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0401/1032/5921/files/Compressed_MS-A2.png?v=1783865715",
+    "page": "https://store.minisforum.com/products/minisforum-ms-a2-workstation",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official MINISFORUM product image from the MINISFORUM US store (store.minisforum.com); MINISFORUM has not granted a general reuse license — rights not verified.",
+    "alt": "MINISFORUM MS-A2 dark grey mini workstation, front-left three-quarter view showing front ports",
+    "match": "EXACT",
+    "credit": "MINISFORUM"
+   },
+   "priceAsOf": "2026-09-28"
+  },
+  {
+   "sku": "TK-MINISFORUM-MS03",
+   "slug": "minisforum-ms-03",
+   "name": "MINISFORUM MS-03",
+   "brand": "MINISFORUM",
+   "category": "mini-pcs",
+   "price": "759.00",
+   "compareAt": "949.00",
+   "priceBasis": "starting-at",
+   "priceSource": "https://store.minisforum.com/products/minisforum-ms-03-workstation",
+   "releaseYear": 2026,
+   "summary": "New mini workstation with Intel Core Ultra (Panther Lake H), 10GBASE-T + dual 10G SFP+, PCIe 5.0 storage and vPro.",
+   "description": "The MS-03 is offered with an Intel Core Ultra 9 386H (16 cores, 50 TOPS NPU) or Core Ultra 5 336H (12 cores), both with vPro. It supports up to 128 GB DDR5 in two SO-DIMMs, two PCIe 5.0 x4 M.2 slots plus a PCIe 4.0 slot, one 10GbE RJ45, one 2.5GbE and two 10G SFP+ ports, and a half-height PCIe slot in a 196 x 189 x 48 mm chassis. Base price is the Core Ultra 5 336H barebone.",
+   "keywords": "minisforum ms-03 core ultra 386h 336h vpro 10gbe sfp+ pcie 5.0 homelab",
+   "specs": {
+    "cpu": "Intel Core Ultra 5 336H (12C/12T, up to 4.6 GHz)",
+    "cpuBrand": "Intel",
+    "networking": "1 x 10GbE RJ45 + 1 x 2.5GbE + 2 x 10G SFP+ (Intel X710)",
+    "ports": "2 x M.2 PCIe 5.0 x4, 1 x M.2 PCIe 4.0 x1, half-height PCIe slot"
+   },
+   "variants": [
+    {
+     "label": "Core Ultra 5 336H barebone",
+     "price": "759.00"
+    },
+    {
+     "label": "Core Ultra 5 336H / 32 GB + 1 TB",
+     "price": "1319.00"
+    },
+    {
+     "label": "Core Ultra 5 336H / 64 GB + 2 TB",
+     "price": "1759.00"
+    },
+    {
+     "label": "Core Ultra 9 386H barebone",
+     "price": "999.00"
+    }
+   ],
+   "collections": [
+    "homelab-essentials"
+   ],
+   "warranty": 12,
+   "notes": "Core Ultra 9 386H configurations were listed but out of stock on 2026-09-28.",
+   "sources": {
+    "product": "https://store.minisforum.com/products/minisforum-ms-03-workstation",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0401/1032/5921/files/MS-03-Front.png?v=1784701705",
+    "page": "https://store.minisforum.com/products/minisforum-ms-03-workstation",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official MINISFORUM product image from the MINISFORUM US store (store.minisforum.com); MINISFORUM has not granted a general reuse license — rights not verified.",
+    "alt": "MINISFORUM MS-03 black mini workstation, front view with USB, HDMI and power button",
+    "match": "EXACT",
+    "credit": "MINISFORUM"
+   },
+   "featured": false,
+   "priceAsOf": "2026-09-28"
+  },
+  {
+   "sku": "TK-MINISFORUM-MS02ULTRA",
+   "slug": "minisforum-ms-02-ultra",
+   "name": "MINISFORUM MS-02 Ultra",
+   "brand": "MINISFORUM",
+   "category": "mini-pcs",
+   "price": "1159.00",
+   "compareAt": "1449.00",
+   "priceBasis": "starting-at",
+   "priceSource": "https://store.minisforum.com/products/minisforum-ms-02-ultra-workstation",
+   "releaseYear": 2025,
+   "summary": "4.8-litre workstation with Core Ultra 9 285HX, up to 256 GB ECC DDR5, three PCIe slots and dual 25G SFP.",
+   "description": "The MS-02 Ultra is a 4.8-litre mini workstation with an Intel Core Ultra 9 285HX (24 cores, up to 5.5 GHz) or lower-tier HX options. It has four DDR5 SO-DIMM slots (up to 256 GB, ECC on the 285HX), four PCIe 4.0 M.2 slots on the 285HX, three PCIe slots including a PCIe 5.0 x16 for a dual-slot GPU, two 25G SFP ports on the 285HX and an integrated 350 W PSU; it ships with Windows 11 Pro.",
+   "keywords": "minisforum ms-02 ultra 285hx ecc 25g sfp homelab workstation pcie 5.0",
+   "specs": {
+    "cpu": "Intel Core Ultra 9 285HX (24C/24T, up to 5.5 GHz)",
+    "cpuBrand": "Intel",
+    "networking": "2 x 25G SFP+ (Core Ultra 9 285HX configuration)",
+    "psuW": 350,
+    "os": "Windows 11 Pro",
+    "ports": "PCIe 5.0 x16 + PCIe 4.0 x16 (x4x4x4) + PCIe 4.0 x4, 4 x M.2 PCIe 4.0 x4"
+   },
+   "variants": [
+    {
+     "label": "Core Ultra 9 285HX barebone",
+     "price": "1159.00"
+    },
+    {
+     "label": "Core Ultra 9 285HX / 32 GB + 1 TB",
+     "price": "1663.00"
+    },
+    {
+     "label": "Core Ultra 9 285HX-NS barebone",
+     "price": "1039.00"
+    },
+    {
+     "label": "Core Ultra 5 235HX barebone",
+     "price": "599.00"
+    }
+   ],
+   "collections": [
+    "homelab-essentials",
+    "developer-setup"
+   ],
+   "warranty": 12,
+   "sources": {
+    "product": "https://store.minisforum.com/products/minisforum-ms-02-ultra-workstation",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0401/1032/5921/files/Compressed_MS-02_Ultra.png?v=1783865841",
+    "page": "https://store.minisforum.com/products/minisforum-ms-02-ultra-workstation",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official MINISFORUM product image from the MINISFORUM US store (store.minisforum.com); MINISFORUM has not granted a general reuse license — rights not verified.",
+    "alt": "MINISFORUM MS-02 Ultra grey compact workstation tower, front-left three-quarter view",
+    "match": "EXACT",
+    "credit": "MINISFORUM"
+   },
+   "featured": false,
+   "priceAsOf": "2026-09-28"
+  },
+  {
+   "sku": "TK-MINISFORUM-MSS1MAX",
+   "slug": "minisforum-ms-s1-max",
+   "name": "MINISFORUM MS-S1 MAX",
+   "brand": "MINISFORUM",
+   "category": "mini-pcs",
+   "price": "3799.00",
+   "compareAt": "4749.00",
+   "priceBasis": "starting-at",
+   "priceSource": "https://store.minisforum.com/products/minisforum-ms-s1-max-mini-pc",
+   "releaseYear": 2025,
+   "summary": "Local-AI mini workstation with Ryzen AI Max+ 395, 128 GB unified LPDDR5x, dual 10GbE and USB4 v2.",
+   "description": "The MS-S1 MAX pairs AMD's Ryzen AI Max+ 395 (16 Zen 5 cores, Radeon 8060S with 40 GPU cores, up to 126 total platform TOPS) with 128 GB of unified LPDDR5x-8000 memory for running large language models locally. It has dual 10GbE, USB4 v2 at 80 Gbps, a full-length PCIe x16 slot, two M.2 PCIe 4.0 slots and a built-in 320 W PSU, and can be clustered.",
+   "keywords": "minisforum ms-s1 max ryzen ai max+ 395 strix halo local llm 128gb",
+   "specs": {
+    "cpu": "AMD Ryzen AI Max+ 395 (16C/32T, up to 5.1 GHz)",
+    "cpuBrand": "AMD",
+    "gpu": "AMD Radeon 8060S (40 CUs)",
+    "ramGb": 128,
+    "storageTb": 2,
+    "networking": "2 x 10GbE",
+    "psuW": 320,
+    "ports": "USB4 v2 (80 Gbps), PCIe x16 slot, 2 x M.2 PCIe 4.0"
+   },
+   "variants": [
+    {
+     "label": "128 GB + 2 TB",
+     "price": "3799.00"
+    },
+    {
+     "label": "128 GB + 4 TB",
+     "price": "4119.00"
+    }
+   ],
+   "collections": [
+    "ai-lab",
+    "ai-workstations"
+   ],
+   "featured": true,
+   "warranty": 12,
+   "sources": {
+    "product": "https://store.minisforum.com/products/minisforum-ms-s1-max-mini-pc",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0401/1032/5921/files/Compressed_MS-S1_Max.png?v=1784442536",
+    "page": "https://store.minisforum.com/products/minisforum-ms-s1-max-mini-pc",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official MINISFORUM product image from the MINISFORUM US store (store.minisforum.com); MINISFORUM has not granted a general reuse license — rights not verified.",
+    "alt": "MINISFORUM MS-S1 MAX dark grey upright AI mini workstation, front-left three-quarter view",
+    "match": "EXACT",
+    "credit": "MINISFORUM"
+   },
+   "priceAsOf": "2026-09-28"
+  },
+  {
+   "sku": "TK-MINISFORUM-N5PRO",
+   "slug": "minisforum-n5-pro-ai-nas",
+   "name": "MINISFORUM N5 Pro AI NAS",
+   "brand": "MINISFORUM",
+   "category": "nas",
+   "price": "899.00",
+   "compareAt": "1129.00",
+   "priceBasis": "starting-at",
+   "priceSource": "https://store.minisforum.com/products/minisforum-n5-pro-ai-nas",
+   "releaseYear": 2025,
+   "summary": "5-bay AI NAS with Ryzen AI 9 HX PRO 370, ECC DDR5 support, 10GbE + 5GbE, USB4 and OCuLink.",
+   "description": "The N5 Pro AI NAS combines five 3.5/2.5-inch SATA bays and three M.2 NVMe slots with a 12-core AMD Ryzen AI 9 HX PRO 370 (50 TOPS NPU) and DDR5 SO-DIMM memory with ECC support (up to 96 GB). It has one 10GbE and one 5GbE port, two USB4 ports, an OCuLink port, a PCIe x16 (x4) slot and 128 GB of system storage. Base price is the barebone configuration.",
+   "keywords": "minisforum n5 pro ai nas ryzen ai 9 hx pro 370 ecc 10gbe oculink",
+   "specs": {
+    "bays": 5,
+    "cpu": "AMD Ryzen AI 9 HX PRO 370 (12C/24T, up to 5.1 GHz)",
+    "network": "1 x 10GbE + 1 x 5GbE",
+    "interface": "5 x SATA, 3 x M.2 NVMe PCIe 4.0, 2 x USB4, OCuLink",
+    "rackMountable": false
+   },
+   "collections": [
+    "homelab-essentials",
+    "ai-lab"
+   ],
+   "warranty": 12,
+   "sources": {
+    "product": "https://store.minisforum.com/products/minisforum-n5-pro-ai-nas",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0401/1032/5921/files/Compressed_N5_Pro_AI_NAS.png?v=1783865983",
+    "page": "https://store.minisforum.com/products/minisforum-n5-pro-ai-nas",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official MINISFORUM product image from the MINISFORUM US store (store.minisforum.com); MINISFORUM has not granted a general reuse license — rights not verified.",
+    "alt": "MINISFORUM N5 Pro AI NAS dark grey cube, front-left three-quarter view",
+    "match": "EXACT",
+    "credit": "MINISFORUM"
+   },
+   "featured": false,
+   "priceAsOf": "2026-09-28",
+   "notes": "Official configurations: Barebone + 128 GB OS storage $899.00; 16 GB DDR5 + 128 GB OS storage $1179.00."
+  },
+  {
+   "sku": "TK-BEELINK-SER10MAX",
+   "slug": "beelink-ser10-max",
+   "name": "Beelink SER10 MAX",
+   "brand": "Beelink",
+   "category": "mini-pcs",
+   "price": "1399.00",
+   "compareAt": "1679.00",
+   "priceBasis": "starting-at",
+   "priceSource": "https://www.bee-link.com/products/beelink-ser10-max-amd-pro-ryzen-ai-9-hx-470",
+   "releaseYear": 2026,
+   "summary": "Mini PC with AMD Ryzen AI 9 HX 470, Radeon 890M, 86 AI TOPS, 32 GB DDR5 and 10GbE.",
+   "description": "The SER10 MAX uses AMD's Ryzen AI 9 HX 470 (12 Zen 5 cores, Radeon 890M graphics and an XDNA 2 NPU, 86 platform AI TOPS) with 32 GB or 64 GB of DDR5-5600. It has a 10 Gbps LAN port, dual M.2 PCIe 4.0 slots supporting up to 8 TB and MSC 2.0 vapor-chamber cooling.",
+   "keywords": "beelink ser10 max ryzen ai 9 hx 470 mini pc 10gbe copilot",
+   "specs": {
+    "cpu": "AMD Ryzen AI 9 HX 470 (12C)",
+    "cpuBrand": "AMD",
+    "gpu": "AMD Radeon 890M",
+    "ramGb": 32,
+    "storageTb": 1,
+    "networking": "10GbE"
+   },
+   "variants": [
+    {
+     "label": "32 GB + 1 TB",
+     "price": "1399.00"
+    },
+    {
+     "label": "64 GB + 1 TB",
+     "price": "1699.00"
+    }
+   ],
+   "colors": [
+    "Frost Silver"
+   ],
+   "collections": [
+    "developer-setup",
+    "homelab-essentials"
+   ],
+   "warranty": 12,
+   "notes": "Listed as pre-order on the official store on 2026-09-28.",
+   "sources": {
+    "product": "https://www.bee-link.com/products/beelink-ser10-max-amd-pro-ryzen-ai-9-hx-470",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0505/1360/8884/files/SER10.webp?v=1781676992",
+    "page": "https://www.bee-link.com/products/beelink-ser10-max-amd-pro-ryzen-ai-9-hx-470",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official Beelink product image from the Beelink store (bee-link.com); Beelink has not granted a general reuse license — rights not verified.",
+    "alt": "Beelink SER10 MAX mini PC in Frost Silver, front-left view showing front ports",
+    "match": "EXACT",
+    "credit": "Beelink"
+   },
+   "featured": false,
+   "priceAsOf": "2026-09-28"
+  },
+  {
+   "sku": "TK-BEELINK-GTR9PRO",
+   "slug": "beelink-gtr9-pro",
+   "name": "Beelink GTR9 Pro",
+   "brand": "Beelink",
+   "category": "mini-pcs",
+   "price": "4349.00",
+   "compareAt": "4699.00",
+   "priceBasis": "msrp",
+   "priceSource": "https://www.bee-link.com/products/beelink-gtr9-pro-amd-ryzen-ai-max-395",
+   "releaseYear": 2025,
+   "summary": "AI mini PC with Ryzen AI Max+ 395, 128 GB LPDDR5X-8000, 2 TB SSD, dual 10GbE and dual USB4.",
+   "description": "The GTR9 Pro packs AMD's Ryzen AI Max+ 395 (16 Zen 5 cores, Radeon 8060S, XDNA 2 NPU, 126 AI TOPS) with 128 GB of LPDDR5X-8000 and a 2 TB SSD, with two M.2 PCIe 4.0 slots supporting up to 16 TB. Dual 10GbE and dual USB4 support AI clustering, and HDMI 2.1, DisplayPort 2.1 and USB4 drive up to four 8K displays; 140 W cooling runs at 32 dB.",
+   "keywords": "beelink gtr9 pro ryzen ai max+ 395 128gb local llm mini pc 10gbe",
+   "specs": {
+    "cpu": "AMD Ryzen AI Max+ 395 (16C)",
+    "cpuBrand": "AMD",
+    "gpu": "AMD Radeon 8060S",
+    "ramGb": 128,
+    "storageTb": 2,
+    "networking": "2 x 10GbE",
+    "ports": "2 x USB4 (40 Gbps), HDMI 2.1, DisplayPort 2.1",
+    "configurations": "128 GB + 2 TB"
+   },
+   "colors": [
+    "Frost Silver"
+   ],
+   "collections": [
+    "ai-lab",
+    "ai-workstations"
+   ],
+   "warranty": 12,
+   "sources": {
+    "product": "https://www.bee-link.com/products/beelink-gtr9-pro-amd-ryzen-ai-max-395",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0505/1360/8884/files/GTR9__01.png?v=1764744455",
+    "page": "https://www.bee-link.com/products/beelink-gtr9-pro-amd-ryzen-ai-max-395",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official Beelink product image from the Beelink store (bee-link.com); Beelink has not granted a general reuse license — rights not verified.",
+    "alt": "Beelink GTR9 Pro mini PC in Frost Silver, front view",
+    "match": "EXACT",
+    "credit": "Beelink"
+   },
+   "featured": false,
+   "priceAsOf": "2026-09-28"
+  },
+  {
+   "sku": "TK-RASPBERRYPI-PI5-16GB",
+   "slug": "raspberry-pi-5-16gb",
+   "name": "Raspberry Pi 5 (16GB)",
+   "brand": "Raspberry Pi",
+   "category": "mini-pcs",
+   "price": "305.00",
+   "priceBasis": "msrp",
+   "priceSource": "https://www.raspberrypi.com/products/raspberry-pi-5/",
+   "releaseYear": 2025,
+   "summary": "Single-board computer with 2.4 GHz quad-core Cortex-A76, 16 GB RAM, PCIe 2.0 x1, dual 4Kp60 HDMI and Gigabit Ethernet.",
+   "description": "Raspberry Pi 5 uses a Broadcom BCM2712 2.4 GHz quad-core 64-bit Arm Cortex-A76 CPU with a VideoCore VII GPU. It offers dual 4Kp60 HDMI output, two USB 3.0 and two USB 2.0 ports, Gigabit Ethernet with PoE+ support (via HAT), dual-band Wi-Fi and Bluetooth 5.0, and a PCIe 2.0 x1 interface; it is powered by 5V/5A USB-C. The 16 GB model is listed at $305.",
+   "keywords": "raspberry pi 5 16gb sbc arm homelab single board computer",
+   "specs": {
+    "cpu": "Broadcom BCM2712 (4 x Cortex-A76, 2.4 GHz)",
+    "cpuBrand": "Broadcom",
+    "gpu": "VideoCore VII",
+    "ramGb": 16,
+    "networking": "Gigabit Ethernet (PoE+ via HAT), 802.11ac Wi-Fi, Bluetooth 5.0",
+    "ports": "2 x USB 3.0, 2 x USB 2.0, 2 x micro HDMI (4Kp60), PCIe 2.0 x1",
+    "configurations": "16 GB (other RAM sizes available)"
+   },
+   "collections": [
+    "homelab-starter",
+    "developer-favorites"
+   ],
+   "warranty": 12,
+   "notes": "Only the 16 GB price ($305) is published on raspberrypi.com; other RAM sizes are sold via Approved Resellers.",
+   "sources": {
+    "product": "https://www.raspberrypi.com/products/raspberry-pi-5/",
+    "specs": "https://www.raspberrypi.com/products/raspberry-pi-5/",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/7/7d/23551-raspberry-pi-5.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:23551-raspberry-pi-5.jpg",
+    "sourceType": "wikimedia-commons",
+    "rights": "Photo by SparkFun Electronics, licensed CC BY 2.0 per Wikimedia Commons file page.",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+    "alt": "Raspberry Pi 5 single-board computer, top three-quarter view showing USB, Ethernet and HDMI ports",
+    "match": "PRODUCT_LINE",
+    "credit": "SparkFun Electronics"
+   },
+   "featured": false,
+   "priceAsOf": "2026-09-28"
+  }
+ ]
+}

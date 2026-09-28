@@ -1,0 +1,1752 @@
+{
+ "products": [
+  {
+   "sku": "TK-DLINK-DMS-1016",
+   "slug": "d-link-dms-1016",
+   "name": "D-Link DMS-1016 16-Port 2.5GbE Multi-Gigabit Unmanaged Switch",
+   "brand": "D-Link",
+   "category": "unmanaged-switches",
+   "price": "349.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    34,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "homelab-essentials",
+    "small-business"
+   ],
+   "summary": "Fanless 16-port 2.5GbE unmanaged switch with 80 Gbps switching capacity, rack or desktop mounting and a limited lifetime warranty.",
+   "description": "The DMS-1016 connects up to 16 devices at up to 2.5GbE per port, with 80 Gbps of aggregate switching capacity, 12,288-byte jumbo frames, 802.1p QoS, IGMP snooping and 802.3x flow control, all without configuration. Its metal housing is fanless for quiet operation, fits standard 19-inch racks and AV cabinets, supports 802.3az Energy-Efficient Ethernet and follows NDAA/TAA sourcing; D-Link backs it with a limited lifetime warranty in North America.",
+   "keywords": "16 port 2.5g switch unmanaged fanless rackmount homelab",
+   "specs": {
+    "ports": "16x 2.5GbE RJ45",
+    "maxSpeedGbps": 2.5,
+    "managed": false,
+    "rackMountable": true,
+    "poe": 0
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-DLINK-DBR-700",
+   "slug": "d-link-dbr-700",
+   "name": "D-Link DBR-700 Multi-Gig Business VPN Router with SFP",
+   "brand": "D-Link",
+   "category": "routers-gateways",
+   "price": "249.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    25,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "small-business"
+   ],
+   "summary": "Multi-gig SMB router with a 2.5GbE WAN, seven 2.5GbE LAN ports, a 2.5G/1G SFP port, multi-WAN failover and 100 VPN tunnels.",
+   "description": "The DBR-700 (sold in North America as the Guardian 700 Pro) is a subscription-free business router with a 2.5GbE WAN port, seven 2.5GbE LAN ports (one configurable as LAN/WAN) and a 2.5GbE/1GbE SFP port for fiber uplinks. It adds multi-WAN with failover, an SPI firewall and up to 100 VPN tunnels across IPsec, PPTP, L2TP, OpenVPN and WireGuard, follows NDAA/TAA sourcing and carries D-Link's limited lifetime warranty in North America.",
+   "keywords": "d-link business router vpn wireguard multi-wan 2.5g sfp",
+   "specs": {
+    "ports": "1x 2.5GbE WAN, 7x 2.5GbE LAN (1 LAN/WAN), 1x 2.5G/1G SFP",
+    "maxSpeedGbps": 2.5,
+    "managed": true,
+    "rackMountable": false
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-DLINK-DXS-1210-10MP",
+   "slug": "d-link-dxs-1210-10mp",
+   "name": "D-Link DXS-1210-10MP 10-Port 10GbE PoE++ Layer 3 Lite Managed Switch",
+   "brand": "D-Link",
+   "category": "switches",
+   "price": "819.99",
+   "compareAt": "1024.99",
+   "warranty": 12,
+   "stock": [
+    41,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "networking-lab",
+    "small-business",
+    "homelab-essentials"
+   ],
+   "summary": "Smart managed switch with eight 10GBASE-T PoE++ ports (370 W), two 10GbE SFP+ uplinks and 200 Gbps switching capacity.",
+   "description": "The DXS-1210-10MP has eight multi-gig 10GBASE-T ports (1/2.5/5/10GbE) delivering 802.3af/at/bt PoE++ at up to 60 W per port from a 370 W budget, with 6 kV surge protection, plus two 10GbE SFP+ uplinks. It offers 200 Gbps switching and 148.8 Mpps forwarding, Layer 3 Lite static routing, VLANs, IGMP snooping, 802.1X and ACLs, and is managed by web GUI, CLI or SNMP; smart fans and D-Link Green features reduce power.",
+   "keywords": "10gbe poe++ switch wifi 7 access points 802.3bt sfp+ managed",
+   "specs": {
+    "ports": "8x 10GBASE-T PoE++, 2x 10GbE SFP+",
+    "maxSpeedGbps": 10,
+    "managed": true,
+    "poe": 370,
+    "switchingCapacityGbps": 200
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-EERO-POE-7",
+   "slug": "eero-poe-7",
+   "name": "eero PoE 7 Wi-Fi 7 Access Point",
+   "brand": "eero",
+   "category": "access-points",
+   "price": "599.99",
+   "compareAt": null,
+   "warranty": 36,
+   "stock": [
+    27,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "small-business"
+   ],
+   "summary": "Ceiling or wall-mount tri-band Wi-Fi 7 eero powered over Ethernet, with a 10 GbE port and a 10 GbE PoE+ port.",
+   "description": "eero PoE 7 is a compact Power over Ethernet Wi-Fi 7 unit that works as an access point or gateway. It has one 10 GbE port and one 10 GbE PoE+ port for up to 9.4 Gbps of wired throughput, tri-band Wi-Fi up to 3.9 Gbps, and supports 200+ devices over 2,000 sq. ft. It is backwards compatible with all eero devices and carries a three-year warranty.",
+   "keywords": "eero poe 7 access point ceiling wifi 7 10gbe business",
+   "specs": {
+    "ports": "1x 10 GbE, 1x 10 GbE PoE+ (in)",
+    "maxSpeedGbps": 10,
+    "rackMountable": false,
+    "wifiStandard": "Wi-Fi 7",
+    "wifiDetails": "Tri-band, up to 3.9 Gbps wireless, 2,000 sq ft and 200+ devices, PoE+ powered"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-TPLINK-ARCHER-BE230",
+   "slug": "tp-link-archer-be230",
+   "name": "TP-Link Archer BE230 BE3600 Dual-Band Wi-Fi 7 Router",
+   "brand": "TP-Link",
+   "category": "routers-gateways",
+   "price": "99.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    15,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "homelab-starter"
+   ],
+   "summary": "Entry dual-band BE3600 Wi-Fi 7 router with 2.5G WAN and LAN ports and four external antennas.",
+   "description": "Archer BE230 brings Wi-Fi 7 to an entry price: 2882 Mbps on 5 GHz and 688 Mbps on 2.4 GHz (802.11be) with 2x2 MU-MIMO and OFDMA. It has one 2.5 Gbps WAN, one 2.5 Gbps LAN and three Gigabit LAN ports plus USB 3.0 for file and media sharing, with VPN, EasyMesh and HomeShield support.",
+   "keywords": "archer be230 cheap wifi 7 router 2.5g",
+   "specs": {
+    "ports": "1x 2.5G WAN, 1x 2.5G LAN, 3x 1G LAN, USB 3.0",
+    "maxSpeedGbps": 2.5,
+    "managed": false,
+    "rackMountable": false,
+    "wifiStandard": "Wi-Fi 7",
+    "wifiDetails": "BE3600 dual-band (5 GHz 2882 / 2.4 GHz 688 Mbps)"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-TPLINK-OMADA-SG2210XMP-M2",
+   "slug": "tp-link-omada-sg2210xmp-m2",
+   "name": "TP-Link Omada SG2210XMP-M2 8-Port 2.5G PoE+ Smart Switch with 10G SFP+",
+   "brand": "TP-Link",
+   "category": "switches",
+   "price": "299.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    59,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "homelab-essentials",
+    "small-business"
+   ],
+   "summary": "Fanless Omada Access Pro smart switch with eight 2.5G PoE+ ports (160 W) and two 10G SFP+ slots.",
+   "description": "SG2210XMP-M2 has eight 10/100/1000/2500 Mbps RJ45 ports with 802.3af/at PoE+ from a 160 W budget (Fast and Perpetual PoE) plus two 10G SFP+ slots. Switching capacity is 80 Gbps with a 12 Mbit buffer; the fanless 226 x 131 x 35 mm chassis mounts on a desk or wall and is managed standalone or through Omada SDN.",
+   "keywords": "omada 2.5g poe+ switch fanless sfp+ desktop",
+   "specs": {
+    "ports": "8x 2.5G RJ45 PoE+, 2x 10G SFP+",
+    "maxSpeedGbps": 10,
+    "managed": true,
+    "rackMountable": false,
+    "poe": 160,
+    "switchingCapacityGbps": 80
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-TPLINK-OMADA-ER7412-M2",
+   "slug": "tp-link-omada-er7412-m2",
+   "name": "TP-Link Omada ER7412-M2 Multi-Gigabit VPN Gateway",
+   "brand": "TP-Link",
+   "category": "routers-gateways",
+   "price": "249.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    10,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "small-business",
+    "networking-lab"
+   ],
+   "summary": "Omada VPN gateway with two 2.5G WAN/LAN ports, two SFP ports, eight Gigabit ports and about 2.3 Gbps NAT and 2.2 Gbps IPS.",
+   "description": "ER7412-M2 is an Omada SDN wired gateway with two 2.5G RJ45 WAN/LAN ports, two Gigabit SFP WAN/LAN ports, eight Gigabit RJ45 WAN/LAN ports, a console port and USB 3.0 for LTE backup. TP-Link rates it for about 2.34 Gbps NAT, 2.2 Gbps DPI and 2.25 Gbps IPS (TCP); it sits on a desk or mounts in a rack.",
+   "keywords": "omada multi-wan vpn gateway ips dpi small business",
+   "specs": {
+    "ports": "2x 2.5G RJ45, 2x 1G SFP, 8x 1G RJ45, console, USB 3.0",
+    "maxSpeedGbps": 2.5,
+    "managed": true,
+    "rackMountable": true
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-TPLINK-TL-SG108-M2",
+   "slug": "tp-link-tl-sg108-m2",
+   "name": "TP-Link TL-SG108-M2 8-Port 2.5G Desktop Unmanaged Switch",
+   "brand": "TP-Link",
+   "category": "unmanaged-switches",
+   "price": "99.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    49,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "homelab-starter"
+   ],
+   "summary": "Fanless eight-port 2.5 Gigabit unmanaged desktop switch with 40 Gbps switching capacity.",
+   "description": "TL-SG108-M2 offers eight 100M/1G/2.5G auto-negotiating RJ45 ports with 40 Gbps of switching capacity and 802.1p QoS in a fanless 226 x 131 x 35 mm metal case, drawing 8.45 W maximum.",
+   "keywords": "8 port 2.5g switch unmanaged fanless",
+   "specs": {
+    "ports": "8x 2.5G RJ45",
+    "maxSpeedGbps": 2.5,
+    "managed": false,
+    "rackMountable": false,
+    "poe": 0
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-DLINK-DMS-1250-10SPL",
+   "slug": "d-link-dms-1250-10spl",
+   "name": "D-Link DMS-1250-10SPL 10-Port 2.5G PoE Smart Managed Switch with 10G SFP+",
+   "brand": "D-Link",
+   "category": "switches",
+   "price": "399.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    22,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "small-business"
+   ],
+   "summary": "Smart managed switch with eight 2.5G PoE ports (802.3bt up to 60 W, 120 W budget) and two 10G SFP+ ports.",
+   "description": "The DMS-1250-10SPL has eight 2.5 Gbps multi-gig PoE ports supporting 802.3af/at/bt at up to 60 W per port within a 120 W budget, plus two SFP+ ports. It adds 6 kV surge protection on all 2.5G ports, D-Link Safeguard Engine against flooding, and centralized management with Nuclias Connect/Hub or D-View 8.",
+   "keywords": "d-link 2.5g poe switch 802.3bt sfp+ smart managed",
+   "specs": {
+    "ports": "8x 2.5G RJ45 PoE (802.3bt), 2x 10G SFP+",
+    "maxSpeedGbps": 10,
+    "managed": true,
+    "poe": 120
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-DLINK-DBR-600-P",
+   "slug": "d-link-dbr-600-p",
+   "name": "D-Link DBR-600-P Multi-Gig PoE Business VPN Router",
+   "brand": "D-Link",
+   "category": "routers-gateways",
+   "price": "229.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    44,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "small-business"
+   ],
+   "summary": "SMB router with a 2.5GbE WAN port, eight 2.5GbE PoE+ ports (123 W total), multi-WAN failover and 50 VPN tunnels.",
+   "description": "The DBR-600-P (Guardian 600 PoE in North America) combines a business router and PoE switch: eight 2.5GbE PoE+ ports deliver up to 30 W each (123 W total) for cameras, phones, POS systems and access points, and a 2.5GbE WAN port matches multi-gig plans. It adds multi-WAN failover, WPA3 and SPI firewall protection and up to 50 VPN tunnels (IPsec, WireGuard, OpenVPN) without subscriptions, backed by D-Link's limited lifetime warranty in North America.",
+   "keywords": "d-link poe router vpn wireguard small business 2.5g",
+   "specs": {
+    "ports": "1x 2.5GbE WAN, 8x 2.5GbE PoE+ LAN",
+    "maxSpeedGbps": 2.5,
+    "managed": true,
+    "rackMountable": false
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-FIREWALLA-AP7-CEILING",
+   "slug": "firewalla-access-point-7-ceiling",
+   "name": "Firewalla Access Point 7 Ceiling Tri-Band Wi-Fi 7",
+   "brand": "Firewalla",
+   "category": "access-points",
+   "price": "369.00",
+   "compareAt": "399.00",
+   "warranty": 12,
+   "stock": [
+    32,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "security-lab"
+   ],
+   "summary": "Ceiling-mount version of Firewalla's tri-band Wi-Fi 7 access point that extends Zero Trust microsegmentation to Wi-Fi.",
+   "description": "The AP7 Ceiling is the ceiling-mount member of Firewalla's AP7 family: tri-band Wi-Fi 7 (2.4, 5 and 6 GHz, each 2x2; 6 spatial streams, 320 MHz on 6 GHz) with a 10 Gbit PoE+ RJ45 port and a 2.5 Gbit RJ45 port. It is powered by 802.3at PoE+ (or a 12 V input), supports VLANs, WPA3 and per-device keys (PPSK), meshes over Ethernet or Wi-Fi, and requires a Firewalla Gold or Purple in router or bridge mode.",
+   "keywords": "firewalla ap7 ceiling wifi 7 access point",
+   "specs": {
+    "ports": "1x 10G RJ45 (PoE+ in), 1x 2.5G RJ45",
+    "maxSpeedGbps": 10,
+    "managed": true,
+    "rackMountable": false,
+    "wifiStandard": "Wi-Fi 7",
+    "wifiDetails": "Tri-band 2.4/5/6 GHz 2x2 each, 320 MHz on 6 GHz, ceiling mount"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-ZYXEL-XGS1210-12",
+   "slug": "zyxel-xgs1210-12",
+   "name": "Zyxel XGS1210-12 12-Port Web-Managed Multi-Gigabit Switch",
+   "brand": "Zyxel",
+   "category": "switches",
+   "price": "179.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    55,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "homelab-starter"
+   ],
+   "summary": "Fanless web-managed switch with eight Gigabit, two 2.5G and two 10G SFP+ ports.",
+   "description": "The XGS1210-12 pairs eight Gigabit and two 2.5G multi-gig ports with two 10G SFP+ uplinks for a NAS, media server or workstation. Its browser interface configures VLANs, port-based and 802.1p QoS, IGMP snooping, loop detection, static link aggregation and port mirroring; switching capacity is 66 Gbps (49 Mpps) in a silent fanless aluminum chassis.",
+   "keywords": "zyxel fanless web managed switch 10g sfp+ 2.5g",
+   "specs": {
+    "ports": "8x 1G RJ45, 2x 2.5G RJ45, 2x 10G SFP+",
+    "maxSpeedGbps": 10,
+    "managed": true,
+    "rackMountable": false,
+    "switchingCapacityGbps": 66
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-QNAP-QSW-M2108-2C",
+   "slug": "qnap-qsw-m2108-2c",
+   "name": "QNAP QSW-M2108-2C 8-Port 2.5GbE Switch with 2x 10GbE SFP+/RJ45 Combo",
+   "brand": "QNAP",
+   "category": "switches",
+   "price": "349.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    28,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "homelab-essentials"
+   ],
+   "summary": "Ten-port switch with eight 2.5GbE RJ45 ports and two 10GbE SFP+/RJ45 combo ports.",
+   "description": "The QSW-M2108-2C connects eight devices at 2.5GbE and provides two 10GbE combo ports that accept either SFP+ fiber/DAC or RJ45 copper, making it a compact backbone for 10GbE NAS and multi-gig clients. It is part of QNAP's QSW-M managed switch line.",
+   "keywords": "qnap 2.5g switch 10g sfp+ combo nas",
+   "specs": {
+    "ports": "8x 2.5GbE RJ45, 2x 10GbE SFP+/RJ45 combo",
+    "maxSpeedGbps": 10,
+    "rackMountable": false
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-QNAP-QSW-1105-5T",
+   "slug": "qnap-qsw-1105-5t",
+   "name": "QNAP QSW-1105-5T 5-Port 2.5GbE Unmanaged Switch",
+   "brand": "QNAP",
+   "category": "unmanaged-switches",
+   "price": "109.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    48,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "homelab-starter"
+   ],
+   "summary": "Five-port 2.5GbE unmanaged desktop switch for upgrading NAS and PCs to multi-gig.",
+   "description": "The QSW-1105-5T is a plug-and-play unmanaged switch with five 2.5GbE RJ45 ports, commonly paired with QNAP's 2.5GbE NAS models to lift file transfer, backup and streaming speeds above Gigabit without reconfiguration.",
+   "keywords": "qnap 2.5gbe switch 5 port unmanaged nas",
+   "specs": {
+    "ports": "5x 2.5GbE RJ45",
+    "maxSpeedGbps": 2.5,
+    "managed": false,
+    "rackMountable": false,
+    "poe": 0
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-FIREWALLA-GOLD-PRO",
+   "slug": "firewalla-gold-pro",
+   "name": "Firewalla Gold Pro 10 Gbps Cyber Security Firewall",
+   "brand": "Firewalla",
+   "category": "firewalls",
+   "price": "939.00",
+   "compareAt": "999.00",
+   "warranty": 12,
+   "stock": [
+    31,
+    5
+   ],
+   "featured": true,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "security-lab",
+    "homelab-essentials",
+    "networking-lab"
+   ],
+   "summary": "Firewalla's 10 Gbps firewall/router with an Intel 12th-gen quad-core CPU, two 10G and two 2.5G NBASE-T ports, IDS/IPS and no subscription.",
+   "description": "Firewalla Gold Pro runs the Firewalla Security Stack (Deep Insight, Active Protect IDS/IPS, behavior analytics and rule-based control) at more than 10 Gbps of software packet processing. It has a quad-core 64-bit Intel 12th-gen CPU, 8 GB of RAM, two 10 Gbit and two 2.5 Gbit NBASE-T interfaces and a console port, and supports VLANs, multi-WAN, link aggregation, policy routing, Docker containers and site-to-site VPN, all managed from the Firewalla app with no monthly fee.",
+   "keywords": "firewall ids ips 10g router vpn no subscription homelab",
+   "specs": {
+    "ports": "2x 10G NBASE-T, 2x 2.5G NBASE-T, console",
+    "maxSpeedGbps": 10,
+    "managed": true,
+    "rackMountable": false,
+    "firewallThroughputGbps": 10
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-FIREWALLA-GOLD-PLUS-SFP",
+   "slug": "firewalla-gold-plus-sfp",
+   "name": "Firewalla Gold Plus SFP 5 Gbps Firewall with SFP+",
+   "brand": "Firewalla",
+   "category": "firewalls",
+   "price": "779.00",
+   "compareAt": "829.00",
+   "warranty": 12,
+   "stock": [
+    38,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "security-lab",
+    "small-business"
+   ],
+   "summary": "5 Gbps Firewalla firewall with a 10G SFP+ port, two 10G RJ45 and two 2.5G RJ45 ports, 4 GB RAM and a console port.",
+   "description": "The Gold Plus SFP adds fiber-ready uplinks to the Firewalla Gold family: one 10 Gbit SFP+ interface, two 10 Gbit RJ45 and two 2.5 Gbit RJ45 interfaces on a quad-core 64-bit ARM CPU with 4 GB of RAM and 5 Gbit of software packet processing. It provides IDS/IPS, network segmentation, Zero Trust integration with Firewalla Switch and AP7, VPN (OpenVPN, WireGuard) and is aimed mainly at small business and professionally managed networks.",
+   "keywords": "firewalla sfp+ fiber firewall 10g ids ips small business",
+   "specs": {
+    "ports": "1x 10G SFP+, 2x 10G RJ45, 2x 2.5G RJ45, console",
+    "maxSpeedGbps": 10,
+    "managed": true,
+    "rackMountable": false,
+    "firewallThroughputGbps": 5
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-FIREWALLA-ORANGE",
+   "slug": "firewalla-orange",
+   "name": "Firewalla Orange 2 Gbps Firewall with Wi-Fi 7",
+   "brand": "Firewalla",
+   "category": "firewalls",
+   "price": "399.00",
+   "compareAt": "429.00",
+   "warranty": 12,
+   "stock": [
+    22,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "security-lab",
+    "homelab-starter"
+   ],
+   "summary": "Pocket-size Firewalla firewall with built-in dual-band Wi-Fi 7, two 2.5G ports and more than 2 Gbps packet processing.",
+   "description": "Firewalla Orange combines the Firewalla security stack with built-in dual-band Wi-Fi 7 for around 50 clients. It has two 2.5 Gbit interfaces, a 4-core 64-bit ARM CPU, 2 GB of memory and 32 GB of storage, processes more than 2 Gbps, and supports VLAN segmentation, VqLAN, device isolation, WireGuard VPN at 350 Mbps and Wi-Fi tethering as a backup WAN. It measures 12.8 x 8.3 x 3 cm.",
+   "keywords": "firewalla orange travel firewall wifi 7 vpn",
+   "specs": {
+    "ports": "2x 2.5G RJ45, USB",
+    "maxSpeedGbps": 2.5,
+    "managed": true,
+    "rackMountable": false,
+    "firewallThroughputGbps": 2,
+    "wifiDetails": "Built-in dual-band Wi-Fi 7, ~50 clients"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-FIREWALLA-GOLD-SE",
+   "slug": "firewalla-gold-se",
+   "name": "Firewalla Gold SE 2 Gbps Multi-Gigabit Firewall",
+   "brand": "Firewalla",
+   "category": "firewalls",
+   "price": "519.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    23,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "security-lab",
+    "small-business"
+   ],
+   "summary": "Affordable Firewalla Gold with two 2.5G and two 1G interfaces, 4 GB RAM and more than 2 Gbps packet processing.",
+   "description": "Firewalla Gold SE is a lower-cost version of the Gold Plus with 2 x 2.5 Gbit and 2 x 1 Gbit interfaces, a 4-core 64-bit ARM CPU, 4 GB of memory and 32 GB of storage. It processes more than 2 Gbps and supports unlimited VLANs, multi-WAN, 10 site-to-site VPN connections, IDS/IPS and Zero Trust integration with Firewalla Switch and AP7.",
+   "keywords": "firewalla gold se multi-wan firewall vlan",
+   "specs": {
+    "ports": "2x 2.5G RJ45, 2x 1G RJ45",
+    "maxSpeedGbps": 2.5,
+    "managed": true,
+    "rackMountable": false,
+    "firewallThroughputGbps": 2
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-FIREWALLA-AP7",
+   "slug": "firewalla-access-point-7",
+   "name": "Firewalla Access Point 7 Tri-Band Wi-Fi 7",
+   "brand": "Firewalla",
+   "category": "access-points",
+   "price": "369.00",
+   "compareAt": "399.00",
+   "warranty": 12,
+   "stock": [
+    20,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "security-lab"
+   ],
+   "summary": "Tri-band Wi-Fi 7 access point with 10G and 2.5G ports that extends Firewalla Zero Trust microsegmentation to Wi-Fi.",
+   "description": "Firewalla AP7 is a tri-band Wi-Fi 7 access point (2.4 GHz 2x2, 5 GHz 2x2, 6 GHz 4x4; 8 spatial streams, 320 MHz channels) with 10 Gbit and 2.5 Gbit RJ45 interfaces. It supports VLANs, WPA3, per-device keys (PPSK) and wired or wireless mesh backhaul, draws 30 W and requires a Firewalla Gold, Purple or Orange in router or bridge mode.",
+   "keywords": "firewalla ap7 wifi 7 access point zero trust ppsk",
+   "specs": {
+    "ports": "1x 10G RJ45, 1x 2.5G RJ45",
+    "maxSpeedGbps": 10,
+    "managed": true,
+    "rackMountable": false,
+    "wifiStandard": "Wi-Fi 7",
+    "wifiDetails": "Tri-band 2.4 GHz 2x2, 5 GHz 2x2, 6 GHz 4x4, 320 MHz"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-NETGEAR-RS300",
+   "slug": "netgear-nighthawk-rs300",
+   "name": "NETGEAR Nighthawk RS300 BE9300 Tri-Band WiFi 7 Router",
+   "brand": "NETGEAR",
+   "category": "routers-gateways",
+   "price": "299.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    46,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "homelab-starter"
+   ],
+   "summary": "Affordable tri-band Nighthawk WiFi 7 router with up to 9.3 Gbps WiFi and three 2.5 Gig ports.",
+   "description": "The Nighthawk RS300 brings tri-band WiFi 7 (2.4, 5 and 6 GHz) at up to 9.3 Gbps with coverage up to 2,500 sq. ft. A quad-core 2.0 GHz processor and four internal antennas feed a 2.5 Gbps internet port, two 2.5 Gbps LAN ports, two Gigabit LAN ports and a USB 3.0 port.",
+   "keywords": "nighthawk rs300 wifi 7 router 2.5g be9300 budget",
+   "specs": {
+    "ports": "1x 2.5G internet, 2x 2.5G LAN, 2x 1G LAN, 1x USB 3.0",
+    "maxSpeedGbps": 2.5,
+    "managed": false,
+    "rackMountable": false,
+    "wifiStandard": "Wi-Fi 7",
+    "wifiDetails": "BE9300 tri-band (2.4/5/6 GHz), up to 2,500 sq ft"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-NETGEAR-ORBI-RBE773",
+   "slug": "netgear-orbi-770-rbe773",
+   "name": "NETGEAR Orbi 770 Series Tri-Band WiFi 7 Mesh System (3-Pack)",
+   "brand": "NETGEAR",
+   "category": "mesh-wifi",
+   "price": "699.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    11,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [],
+   "summary": "Tri-band Orbi WiFi 7 mesh (BE11000) covering up to 8,000 sq. ft., with 2.5 Gig ports on the router and satellites.",
+   "description": "The Orbi 770 Series (RBE773) is a tri-band WiFi 7 mesh system with 2.4, 5 and 6 GHz radios and an enhanced backhaul, rated BE11000 with up to 8,000 sq. ft. of coverage for the 3-pack. The router has a 2.5 Gig WAN port and three 2.5 Gig LAN ports, and each satellite has two 2.5 Gig LAN ports.",
+   "keywords": "orbi 770 rbe773 wifi 7 mesh be11000 2.5g",
+   "specs": {
+    "ports": "Router: 1x 2.5G WAN, 3x 2.5G LAN; each satellite: 2x 2.5G LAN",
+    "maxSpeedGbps": 2.5,
+    "managed": false,
+    "rackMountable": false,
+    "wifiStandard": "Wi-Fi 7",
+    "nodes": 3,
+    "wifiDetails": "BE11000 tri-band (2.4/5/6 GHz), up to 8,000 sq ft",
+    "configurations": "3-Pack (RBE773) – $699.99 · 2-Pack (RBE772) – $549.99"
+   },
+   "options": [
+    {
+     "name": "Pack",
+     "values": [
+      {
+       "label": "3-Pack (RBE773)",
+       "price": "699.99",
+       "default": true
+      },
+      {
+       "label": "2-Pack (RBE772)",
+       "price": "549.99"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "sku": "TK-NETGEAR-MS305",
+   "slug": "netgear-ms305",
+   "name": "NETGEAR MS305 5-Port 2.5G Multi-Gig Unmanaged Switch",
+   "brand": "NETGEAR",
+   "category": "unmanaged-switches",
+   "price": "99.99",
+   "compareAt": "134.99",
+   "warranty": 12,
+   "stock": [
+    42,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "homelab-starter",
+    "homelab-essentials"
+   ],
+   "summary": "Fanless five-port 2.5 Gigabit unmanaged switch in a metal case for desktop or wall mounting.",
+   "description": "The MS305 is a plug-and-play five-port 100M/1G/2.5G unmanaged switch in a durable fanless metal enclosure. It supports 802.3az Energy Efficient Ethernet, 802.1p QoS and 9,720-byte jumbo frames, draws 9.24 W maximum and is backed by NETGEAR's limited lifetime hardware warranty.",
+   "keywords": "2.5gbe switch 5 port unmanaged fanless multi-gig",
+   "specs": {
+    "ports": "5x 2.5G RJ45",
+    "maxSpeedGbps": 2.5,
+    "managed": false,
+    "rackMountable": false,
+    "poe": 0
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-NETGEAR-MS108UP",
+   "slug": "netgear-ms108up",
+   "name": "NETGEAR MS108UP 8-Port 2.5G Ultra60 PoE++ Unmanaged Switch",
+   "brand": "NETGEAR",
+   "category": "unmanaged-switches",
+   "price": "299.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    39,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "homelab-essentials",
+    "small-business"
+   ],
+   "summary": "Fanless eight-port 2.5G unmanaged switch with four PoE+ and four Ultra60 PoE++ ports and a 230 W PoE budget.",
+   "description": "The MS108UP has eight 1G/2.5G copper ports: four 802.3at PoE+ and four 802.3bt Ultra60 PoE++, sharing a 230 W budget with uninterrupted PoE. It is fanless, uses an external power supply and is suited to powering WiFi 7 access points and IP cameras; NETGEAR backs it with a limited lifetime hardware warranty.",
+   "keywords": "poe++ 2.5g switch ultra60 802.3bt access point poe",
+   "specs": {
+    "ports": "8x 2.5G RJ45 (4x PoE+, 4x PoE++)",
+    "maxSpeedGbps": 2.5,
+    "managed": false,
+    "rackMountable": false,
+    "poe": 230
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-NETGEAR-XS505MV2",
+   "slug": "netgear-xs505mv2",
+   "name": "NETGEAR XS505Mv2 5-Port 10G Multi-Gig Unmanaged Switch",
+   "brand": "NETGEAR",
+   "category": "unmanaged-switches",
+   "price": "309.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    18,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "homelab-essentials",
+    "networking-lab"
+   ],
+   "summary": "Five-port 10 Gigabit unmanaged switch with auto-sensing 100M to 10G copper ports.",
+   "description": "The XS505Mv2 has five 100M/1G/2.5G/5G/10G auto-sensing RJ45 ports, 802.3az EEE, 802.1p QoS and jumbo frames up to 12K bytes in a metal desktop case with a single low-noise fan. Maximum power draw is 26 W and it carries NETGEAR's limited lifetime hardware warranty.",
+   "keywords": "10gbe switch 5 port unmanaged multi-gig nbase-t",
+   "specs": {
+    "ports": "5x 10G RJ45 (100M/1G/2.5G/5G/10G)",
+    "maxSpeedGbps": 10,
+    "managed": false,
+    "rackMountable": false,
+    "poe": 0
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-NETGEAR-MS108EUP",
+   "slug": "netgear-ms108eup",
+   "name": "NETGEAR MS108EUP 8-Port 2.5G PoE++ Plus Switch",
+   "brand": "NETGEAR",
+   "category": "switches",
+   "price": "349.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    37,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "small-business"
+   ],
+   "summary": "Easy Smart managed eight-port 2.5G switch with four PoE+ and four Ultra60 PoE++ ports and a 230 W budget.",
+   "description": "The MS108EUP is the Plus (Easy Smart) version of NETGEAR's eight-port 2.5G PoE++ switch, adding VLANs (64), DoS prevention and web management. Four ports are 802.3at PoE+ and four are 802.3bt Ultra60 PoE++, sharing a 230 W budget with uninterrupted PoE, in a fanless enclosure with an external PSU.",
+   "keywords": "plus switch vlan poe++ 2.5g easy smart",
+   "specs": {
+    "ports": "8x 2.5G RJ45 (4x PoE+, 4x PoE++)",
+    "maxSpeedGbps": 2.5,
+    "managed": true,
+    "rackMountable": false,
+    "poe": 230
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-NETGEAR-MS308E",
+   "slug": "netgear-ms308e",
+   "name": "NETGEAR MS308E 8-Port 2.5G Multi-Gig Plus Switch",
+   "brand": "NETGEAR",
+   "category": "switches",
+   "price": "149.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    57,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "homelab-starter",
+    "homelab-essentials"
+   ],
+   "summary": "Fanless eight-port 2.5G Easy Smart switch with VLANs, QoS and IGMP snooping in a metal case.",
+   "description": "The MS308E is an eight-port 100M/1G/2.5G Easy Smart managed switch with network monitoring, traffic prioritization, VLANs, QoS and IGMP snooping through a web GUI. It supports jumbo frames up to 12,288 bytes, draws 8.1 W maximum and is fanless; NETGEAR backs it with a limited lifetime hardware warranty.",
+   "keywords": "2.5g managed switch 8 port vlan homelab",
+   "specs": {
+    "ports": "8x 2.5G RJ45",
+    "maxSpeedGbps": 2.5,
+    "managed": true,
+    "rackMountable": false,
+    "poe": 0
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-NETGEAR-MS110TXUP",
+   "slug": "netgear-ms110txup",
+   "name": "NETGEAR MS110TXUP 8-Port 2.5G PoE++ Smart Cloud Switch with 10G SFP+",
+   "brand": "NETGEAR",
+   "category": "switches",
+   "price": "439.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    29,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "small-business",
+    "networking-lab"
+   ],
+   "summary": "Fanless smart-managed switch with eight 2.5G PoE++ ports, two 10G SFP+ uplinks and NETGEAR Insight cloud management.",
+   "description": "The MS110TXUP pairs eight 1G/2.5G PoE++ ports with two 10G SFP+ uplinks in a fanless desktop enclosure. It supports 256 VLANs, VLAN routing, static routes and MLD snooping, is manageable locally or through NETGEAR Insight cloud management, and draws up to 273.4 W with maximum PoE.",
+   "keywords": "insight cloud switch poe++ 2.5g sfp+ 10g uplink",
+   "specs": {
+    "ports": "8x 2.5G RJ45 PoE++, 2x 10G SFP+",
+    "maxSpeedGbps": 10,
+    "managed": true,
+    "rackMountable": false
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-NETGEAR-M4350-8M2V",
+   "slug": "netgear-m4350-8m2v",
+   "name": "NETGEAR M4350-8M2V Pro AV Fully Managed Switch (MSM4310)",
+   "brand": "NETGEAR",
+   "category": "switches",
+   "price": "2732.37",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    12,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "networking-lab",
+    "enterprise-lab"
+   ],
+   "summary": "Pro AV fully managed switch with eight 2.5G PoE++ ports, two 25G SFP28 uplinks, AVB and NETGEAR Engage control.",
+   "description": "The M4350-8M2V (MSM4310) is part of NETGEAR's AV Line of fully managed switches, with eight 2.5G PoE++ ports and two 25G SFP28 ports. The PoE++ budget is 119 W base, expandable to 551 W with up to three APS254W external power supplies; AVB is included, IGMP Plus handles multicast and a Quiet Mode runs at 32.1 dB. It is configured with the NETGEAR Engage controller.",
+   "keywords": "pro av switch avb dante 25g sfp28 poe++ m4350",
+   "specs": {
+    "ports": "8x 2.5G RJ45 PoE++, 2x 25G SFP28",
+    "maxSpeedGbps": 25,
+    "managed": true,
+    "poe": 551
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-QNAP-QSW-L3205-1C4T",
+   "slug": "qnap-qsw-l3205-1c4t",
+   "name": "QNAP QSW-L3205-1C4T 5-Port 10GbE Lite Managed Switch",
+   "brand": "QNAP",
+   "category": "switches",
+   "price": "309.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    30,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "homelab-essentials",
+    "networking-lab"
+   ],
+   "summary": "Five-port 10GbE Lite Managed switch with four 10GbE RJ45 ports and one 10GbE SFP+/RJ45 combo port.",
+   "description": "The QSW-L3205-1C4T pairs four 10GbE RJ45 ports (10G/5G/2.5G/1G/100M) with one 10GbE SFP+ (10G/1G) / RJ45 combo port. As a Lite Managed switch it adds practical features such as LACP link aggregation (up to 20 Gbps), VLAN, QoS and traffic monitoring without full Layer 2 complexity, aimed at editing teams, NAS backups and surveillance.",
+   "keywords": "qnap 10gbe switch lite managed sfp+ nas",
+   "specs": {
+    "ports": "4x 10GbE RJ45, 1x 10GbE SFP+/RJ45 combo",
+    "maxSpeedGbps": 10,
+    "managed": true,
+    "rackMountable": false
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-QNAP-QSW-L3208-2C6T",
+   "slug": "qnap-qsw-l3208-2c6t",
+   "name": "QNAP QSW-L3208-2C6T 8-Port 10GbE Lite Managed Switch",
+   "brand": "QNAP",
+   "category": "switches",
+   "price": "349.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    44,
+    5
+   ],
+   "featured": true,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "homelab-essentials",
+    "networking-lab"
+   ],
+   "summary": "Eight-port 10GbE Lite Managed switch with six 10GbE RJ45 ports and two SFP+/RJ45 combo ports.",
+   "description": "The QSW-L3208-2C6T has six 10GbE RJ45 ports (10G/5G/2.5G/1G/100M) and two combo ports (10GbE SFP+ or RJ45). Lite management adds LACP for up to 40 Gbps of aggregated bandwidth, VLAN, QoS and traffic monitoring, making it suited to multi-NAS and video-editing networks.",
+   "keywords": "qnap 8 port 10g switch lacp vlan homelab",
+   "specs": {
+    "ports": "6x 10GbE RJ45, 2x 10GbE SFP+/RJ45 combo",
+    "maxSpeedGbps": 10,
+    "managed": true,
+    "rackMountable": false
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-QNAP-QSW-M3216R-8S8T",
+   "slug": "qnap-qsw-m3216r-8s8t",
+   "name": "QNAP QSW-M3216R-8S8T 16-Port 10GbE L2 Web Managed Half-Rack Switch",
+   "brand": "QNAP",
+   "category": "switches",
+   "price": "599.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    51,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "networking-lab",
+    "homelab-essentials",
+    "enterprise-lab"
+   ],
+   "summary": "Half-width rackmount Layer 2 web-managed switch with eight 10GbE SFP+ and eight 10GbE RJ45 ports.",
+   "description": "The QSW-M3216R-8S8T is a half-width rackmount L2 managed switch with eight 10GbE SFP+ (10G/1G) fiber ports and eight 10GbE RJ45 (10G/5G/2.5G/1G/100M) ports. It runs QNAP Switch System (QSS) with VLAN, QoS, IGMP snooping, ACL, SNMP and Rapid Spanning Tree, and two units can share one 1U rack kit.",
+   "keywords": "qnap 16 port 10g managed switch sfp+ rackmount half width",
+   "specs": {
+    "ports": "8x 10GbE SFP+, 8x 10GbE RJ45, console",
+    "maxSpeedGbps": 10,
+    "managed": true,
+    "rackMountable": true
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-QNAP-QHORA-322",
+   "slug": "qnap-qhora-322",
+   "name": "QNAP QHora-322 10GbE SD-WAN Router",
+   "brand": "QNAP",
+   "category": "routers-gateways",
+   "price": "699.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    34,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "small-business",
+    "networking-lab"
+   ],
+   "summary": "SD-WAN router with three 10GbE and six 2.5GbE ports, QuRouter OS, L7 firewall/DPI and QuWAN mesh VPN.",
+   "description": "The QHora-322 is a wired SD-WAN router with three 10GbE and six 2.5GbE ports for flexible WAN/LAN deployment, with each port and segment independent by default. It runs QuRouter OS with a web dashboard, an L7 firewall and deep packet inspection, application control and website filtering, and QuWAN SD-WAN for Zero Trust site-to-site networking.",
+   "keywords": "qnap qhora sd-wan router 10gbe firewall vpn",
+   "specs": {
+    "ports": "3x 10GbE, 6x 2.5GbE",
+    "maxSpeedGbps": 10,
+    "managed": true,
+    "rackMountable": false
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-TPLINK-ARCHER-BE900",
+   "slug": "tp-link-archer-be900",
+   "name": "TP-Link Archer BE900 BE24000 Quad-Band Wi-Fi 7 Router",
+   "brand": "TP-Link",
+   "category": "routers-gateways",
+   "price": "599.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    33,
+    5
+   ],
+   "featured": true,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "networking-lab",
+    "homelab-essentials"
+   ],
+   "summary": "Quad-band BE24000 Wi-Fi 7 router with two 10G ports (one SFP+/RJ45 combo), four 2.5G ports, a touchscreen and LED display.",
+   "description": "Archer BE900 is TP-Link's quad-band Wi-Fi 7 flagship at up to 24.4 Gbps (11520 Mbps on 6 GHz, 5760 Mbps on each of two 5 GHz bands, 1376 Mbps on 2.4 GHz) with 4x4 MU-MIMO and 12 internal antennas. Wired ports are a 10 Gbps SFP+/RJ45 combo WAN/LAN, a 10 Gbps WAN/LAN, four 2.5 Gbps LAN and one 1 Gbps LAN, plus USB 3.0 and USB 2.0. It supports OpenVPN and WireGuard server/client, EasyMesh and TP-Link HomeShield.",
+   "keywords": "archer be900 wifi 7 quad band 10g sfp+ router",
+   "specs": {
+    "ports": "1x 10G SFP+/RJ45 combo, 1x 10G, 4x 2.5G, 1x 1G, USB 3.0 + USB 2.0",
+    "maxSpeedGbps": 10,
+    "managed": false,
+    "rackMountable": false,
+    "wifiStandard": "Wi-Fi 7",
+    "wifiDetails": "BE24000 quad-band (6 GHz 11520 + 2x 5 GHz 5760 + 2.4 GHz 1376 Mbps), 4x4 MU-MIMO, 12 antennas"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-TPLINK-ARCHER-GE800",
+   "slug": "tp-link-archer-ge800",
+   "name": "TP-Link Archer GE800 BE19000 Tri-Band Wi-Fi 7 Gaming Router",
+   "brand": "TP-Link",
+   "category": "routers-gateways",
+   "price": "549.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    42,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "networking-lab"
+   ],
+   "summary": "Tri-band BE19000 Wi-Fi 7 gaming router with two 10G ports (one SFP+/RJ45 combo), four 2.5G LAN ports, game acceleration and RGB lighting.",
+   "description": "Archer GE800 is TP-Link's Wi-Fi 7 gaming router: 11520 Mbps on 6 GHz, 5760 Mbps on 5 GHz and 1376 Mbps on 2.4 GHz. It has a 10 Gbps SFP+/RJ45 combo WAN/LAN, a 10 Gbps WAN/LAN and four 2.5 Gbps LAN ports plus USB 3.0, a game acceleration engine and dashboard, multicolor lighting, VPN server/client (including WireGuard) and EasyMesh support.",
+   "keywords": "archer ge800 gaming router wifi 7 10g rgb",
+   "specs": {
+    "ports": "1x 10G SFP+/RJ45 combo, 1x 10G, 4x 2.5G LAN, USB 3.0",
+    "maxSpeedGbps": 10,
+    "managed": false,
+    "rackMountable": false,
+    "wifiStandard": "Wi-Fi 7",
+    "wifiDetails": "BE19000 tri-band (6 GHz 11520 / 5 GHz 5760 / 2.4 GHz 1376 Mbps)"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-TPLINK-ARCHER-BE700-PRO",
+   "slug": "tp-link-archer-be700-pro",
+   "name": "TP-Link Archer BE700 Pro BE15000 Tri-Band Wi-Fi 7 Router",
+   "brand": "TP-Link",
+   "category": "routers-gateways",
+   "price": "349.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    39,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [],
+   "summary": "Tri-band BE15000 Wi-Fi 7 router with a 10 Gbps WAN port, four 2.5G LAN ports and 320 MHz 6 GHz channels.",
+   "description": "Archer BE700 Pro delivers 11528 Mbps on 6 GHz (320 MHz channels), 2882 Mbps on 5 GHz and 688 Mbps on 2.4 GHz for BE15000-class Wi-Fi 7 with Multi-Link Operation and 8 streams. It has a 10 Gbps WAN port and four 2.5 Gbps LAN ports, and supports EasyMesh, VPN and TP-Link HomeShield.",
+   "keywords": "archer be700 pro wifi 7 router 10g wan",
+   "specs": {
+    "ports": "1x 10G WAN, 4x 2.5G LAN",
+    "maxSpeedGbps": 10,
+    "managed": false,
+    "rackMountable": false,
+    "wifiStandard": "Wi-Fi 7",
+    "wifiDetails": "BE15000 tri-band (6 GHz 11528 / 5 GHz 2882 / 2.4 GHz 688 Mbps), MLO"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-TPLINK-ARCHER-BE550",
+   "slug": "tp-link-archer-be550",
+   "name": "TP-Link Archer BE550 BE9300 Tri-Band Wi-Fi 7 Router",
+   "brand": "TP-Link",
+   "category": "routers-gateways",
+   "price": "229.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    12,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "homelab-starter"
+   ],
+   "summary": "Value tri-band BE9300 Wi-Fi 7 router with five 2.5G ports (one WAN, four LAN) and Multi-Link Operation.",
+   "description": "Archer BE550 brings tri-band Wi-Fi 7 at 9.2 Gbps (5760 Mbps on 6 GHz, 2880 Mbps on 5 GHz, 574 Mbps on 2.4 GHz) with Multi-Link Operation and six internal antennas. It has one 2.5 Gbps WAN and four 2.5 Gbps LAN ports, VPN client/server support, EasyMesh and TP-Link HomeShield.",
+   "keywords": "archer be550 wifi 7 budget 2.5g router",
+   "specs": {
+    "ports": "1x 2.5G WAN, 4x 2.5G LAN",
+    "maxSpeedGbps": 2.5,
+    "managed": false,
+    "rackMountable": false,
+    "wifiStandard": "Wi-Fi 7",
+    "wifiDetails": "BE9300 tri-band (6 GHz 5760 / 5 GHz 2880 / 2.4 GHz 574 Mbps), MLO"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-TPLINK-DECO-BE95",
+   "slug": "tp-link-deco-be95",
+   "name": "TP-Link Deco BE95 BE33000 Quad-Band Wi-Fi 7 Mesh System (3-Pack)",
+   "brand": "TP-Link",
+   "category": "mesh-wifi",
+   "price": "1299.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    24,
+    5
+   ],
+   "featured": true,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "networking-lab"
+   ],
+   "summary": "Deco 7 Elite quad-band BE33000 mesh with dual 6 GHz radios, 10G and 10G SFP+/RJ45 combo ports per unit and up to 9,600 sq. ft. of coverage.",
+   "description": "Deco BE95 is TP-Link's top Deco Wi-Fi 7 mesh: quad-band BE33000 with two 6 GHz radios at 11530 Mbps each, 8647 Mbps on 5 GHz and 1148 Mbps on 2.4 GHz, 4x4 MU-MIMO and 16 streams per unit. Each unit has a 10 Gbps port, a 10 Gbps SFP+/RJ45 combo port and two 2.5 Gbps ports (auto-sensing WAN/LAN). The 3-pack covers up to 9,600 sq. ft. and 200+ devices.",
+   "keywords": "deco be95 wifi 7 mesh quad band 10g sfp+",
+   "specs": {
+    "ports": "Per unit: 1x 10G, 1x 10G SFP+/RJ45 combo, 2x 2.5G",
+    "maxSpeedGbps": 10,
+    "managed": false,
+    "rackMountable": false,
+    "wifiStandard": "Wi-Fi 7",
+    "nodes": 3,
+    "wifiDetails": "BE33000 quad-band (2x 6 GHz 11530 / 5 GHz 8647 / 2.4 GHz 1148 Mbps), up to 9,600 sq ft"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-TPLINK-DECO-BE65-PRO",
+   "slug": "tp-link-deco-be65-pro",
+   "name": "TP-Link Deco BE65 Pro BE11000 Tri-Band Wi-Fi 7 Mesh (1-Pack)",
+   "brand": "TP-Link",
+   "category": "mesh-wifi",
+   "price": "279.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    39,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [],
+   "summary": "Deco 7 Pro tri-band BE11000 Wi-Fi 7 mesh unit with two 5 Gbps and one 2.5 Gbps auto-sensing ports.",
+   "description": "Deco BE65 Pro is a tri-band Wi-Fi 7 mesh unit rated BE11000 (5765 Mbps on 6 GHz, 4324 Mbps on 5 GHz, 688 Mbps on 2.4 GHz) with 320 MHz channels, 6 streams and 2x2 MU-MIMO. Each unit has two 5 Gbps and one 2.5 Gbps auto-sensing WAN/LAN ports, covers up to 3,000 sq. ft. and connects up to 200 devices.",
+   "keywords": "deco be65 pro wifi 7 mesh 5g ports",
+   "specs": {
+    "ports": "2x 5G, 1x 2.5G (auto WAN/LAN)",
+    "maxSpeedGbps": 5,
+    "managed": false,
+    "rackMountable": false,
+    "wifiStandard": "Wi-Fi 7",
+    "nodes": 1,
+    "wifiDetails": "BE11000 tri-band (6 GHz 5765 / 5 GHz 4324 / 2.4 GHz 688 Mbps), up to 3,000 sq ft per unit"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-TPLINK-DECO-BE63",
+   "slug": "tp-link-deco-be63",
+   "name": "TP-Link Deco BE63 BE10000 Tri-Band Wi-Fi 7 Mesh System (2-Pack)",
+   "brand": "TP-Link",
+   "category": "mesh-wifi",
+   "price": "329.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    38,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [],
+   "summary": "Deco 7 Pro tri-band BE10000 mesh with four 2.5G ports per unit, covering up to 5,800 sq. ft. as a 2-pack.",
+   "description": "Deco BE63 is a tri-band Wi-Fi 7 mesh rated BE10000 (5188 Mbps on 6 GHz, 4324 Mbps on 5 GHz, 574 Mbps on 2.4 GHz) with 320 MHz channels and 6 streams. Every unit has four 2.5 Gbps auto-sensing WAN/LAN ports; the 2-pack covers up to 5,800 sq. ft. and up to 200 devices, with AI network optimization and HomeShield security.",
+   "keywords": "deco be63 wifi 7 mesh 2.5g four ports",
+   "specs": {
+    "ports": "Per unit: 4x 2.5G (auto WAN/LAN)",
+    "maxSpeedGbps": 2.5,
+    "managed": false,
+    "rackMountable": false,
+    "wifiStandard": "Wi-Fi 7",
+    "nodes": 2,
+    "wifiDetails": "BE10000 tri-band (6 GHz 5188 / 5 GHz 4324 / 2.4 GHz 574 Mbps), up to 5,800 sq ft"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-TPLINK-DECO-BE25",
+   "slug": "tp-link-deco-be25",
+   "name": "TP-Link Deco BE25 BE5000 Dual-Band Wi-Fi 7 Mesh (1-Pack)",
+   "brand": "TP-Link",
+   "category": "mesh-wifi",
+   "price": "99.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    55,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "homelab-starter"
+   ],
+   "summary": "Entry Deco 7 dual-band BE5000 Wi-Fi 7 mesh unit with two 2.5G ports.",
+   "description": "Deco BE25 is TP-Link's entry Wi-Fi 7 Deco: dual-band BE5000 (4324 Mbps on 5 GHz, 688 Mbps on 2.4 GHz) with 4 streams. Each unit has two 2.5 Gbps auto-sensing WAN/LAN ports and connects up to 150 devices; multi-packs cover up to 6,600 sq. ft. Set-up and management use the Deco app with HomeShield security.",
+   "keywords": "deco be25 budget wifi 7 mesh",
+   "specs": {
+    "ports": "2x 2.5G (auto WAN/LAN)",
+    "maxSpeedGbps": 2.5,
+    "managed": false,
+    "rackMountable": false,
+    "wifiStandard": "Wi-Fi 7",
+    "nodes": 1,
+    "wifiDetails": "BE5000 dual-band (5 GHz 4324 / 2.4 GHz 688 Mbps)"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-TPLINK-TL-SX1008",
+   "slug": "tp-link-tl-sx1008",
+   "name": "TP-Link TL-SX1008 8-Port 10G Desktop/Rackmount Unmanaged Switch",
+   "brand": "TP-Link",
+   "category": "unmanaged-switches",
+   "price": "379.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    16,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "homelab-essentials",
+    "networking-lab"
+   ],
+   "summary": "Eight-port 10GBASE-T unmanaged switch with 160 Gbps switching capacity, a smart fan and a metal desktop/rackmount case.",
+   "description": "TL-SX1008 has eight 100M/1G/2.5G/5G/10G auto-negotiating RJ45 ports (802.3an/802.3bz), 160 Gbps of switching capacity and a 2 Mb packet buffer. A single smart fan adjusts speed with temperature, maximum power is 31.2 W, and the 294 x 180 x 44 mm metal case sits on a desk or mounts in a rack.",
+   "keywords": "10gbe switch 8 port unmanaged rackmount homelab",
+   "specs": {
+    "ports": "8x 10G RJ45 (100M/1G/2.5G/5G/10G)",
+    "maxSpeedGbps": 10,
+    "managed": false,
+    "rackMountable": true,
+    "poe": 0
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-TPLINK-TL-SX105",
+   "slug": "tp-link-tl-sx105",
+   "name": "TP-Link TL-SX105 5-Port 10G Desktop Unmanaged Switch",
+   "brand": "TP-Link",
+   "category": "unmanaged-switches",
+   "price": "229.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    26,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "homelab-essentials"
+   ],
+   "summary": "Fanless five-port 10GBASE-T desktop switch with 100 Gbps switching capacity.",
+   "description": "TL-SX105 has five 100M/1G/2.5G/5G/10G auto-negotiating RJ45 ports, 100 Gbps of switching capacity and a 2 Mb packet buffer in a fanless metal desktop case. It is powered by a 12 V external adapter with 21.4 W maximum consumption.",
+   "keywords": "10g switch 5 port fanless desktop",
+   "specs": {
+    "ports": "5x 10G RJ45 (100M/1G/2.5G/5G/10G)",
+    "maxSpeedGbps": 10,
+    "managed": false,
+    "rackMountable": false,
+    "poe": 0
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-TPLINK-TL-SG105-M2",
+   "slug": "tp-link-tl-sg105-m2",
+   "name": "TP-Link TL-SG105-M2 5-Port 2.5G Desktop Unmanaged Switch",
+   "brand": "TP-Link",
+   "category": "unmanaged-switches",
+   "price": "59.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    48,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "homelab-starter"
+   ],
+   "summary": "Fanless five-port 2.5 Gigabit unmanaged desktop switch with 25 Gbps switching capacity.",
+   "description": "TL-SG105-M2 is a plug-and-play five-port 100M/1G/2.5G switch with 25 Gbps switching capacity, a 1.5 Mb packet buffer and 802.1p QoS in a fanless metal case. It uses a 12 V external adapter and draws 12.11 W maximum.",
+   "keywords": "2.5g switch 5 port cheap unmanaged",
+   "specs": {
+    "ports": "5x 2.5G RJ45",
+    "maxSpeedGbps": 2.5,
+    "managed": false,
+    "rackMountable": false,
+    "poe": 0
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-TPLINK-TL-SG105PP-M2",
+   "slug": "tp-link-tl-sg105pp-m2",
+   "name": "TP-Link TL-SG105PP-M2 5-Port 2.5G Switch with 4-Port PoE++",
+   "brand": "TP-Link",
+   "category": "unmanaged-switches",
+   "price": "149.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    55,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "homelab-essentials"
+   ],
+   "summary": "Fanless five-port 2.5G desktop switch with four 802.3bt PoE++ ports and a 123 W PoE budget.",
+   "description": "TL-SG105PP-M2 has five 10M/100M/1G/2.5G RJ45 ports; ports 1-4 provide 802.3af/at/bt (type 3) PoE++ from a 123 W budget, suitable for Wi-Fi 7 access points and cameras. Switching capacity is 25 Gbps and the fanless 209 x 126 x 26 mm case runs from a 53.5 V external adapter.",
+   "keywords": "poe++ 2.5g switch 802.3bt access point wifi 7",
+   "specs": {
+    "ports": "5x 2.5G RJ45 (4x PoE++)",
+    "maxSpeedGbps": 2.5,
+    "managed": false,
+    "rackMountable": false,
+    "poe": 123
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-TPLINK-OMADA-SG3210XHP-M2",
+   "slug": "tp-link-omada-sg3210xhp-m2",
+   "name": "TP-Link Omada SG3210XHP-M2 8-Port 2.5G PoE+ Managed Switch with 10G SFP+",
+   "brand": "TP-Link",
+   "category": "switches",
+   "price": "449.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    9,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "homelab-essentials",
+    "small-business",
+    "networking-lab"
+   ],
+   "summary": "Omada Access Pro L2+ managed switch with eight 2.5G PoE+ ports (240 W), two 10G SFP+ uplinks and Omada SDN cloud management.",
+   "description": "SG3210XHP-M2 has eight 10/100/1000/2500 Mbps RJ45 ports with 802.3af/at PoE+ from a 240 W budget (Fast and Perpetual PoE), two 10G SFP+ slots and RJ45 and micro-USB console ports. Switching capacity is 80 Gbps with a 12 Mbit buffer, the 1U 440 mm chassis is rack mountable with two fans, and it integrates with Omada SDN for zero-touch provisioning and cloud management.",
+   "keywords": "omada sdn managed switch 2.5g poe+ sfp+ 10g homelab",
+   "specs": {
+    "ports": "8x 2.5G RJ45 PoE+, 2x 10G SFP+, console",
+    "maxSpeedGbps": 10,
+    "managed": true,
+    "rackMountable": true,
+    "poe": 240,
+    "switchingCapacityGbps": 80
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-TPLINK-OMADA-ER707-M2",
+   "slug": "tp-link-omada-er707-m2",
+   "name": "TP-Link Omada ER707-M2 Multi-Gigabit VPN Gateway",
+   "brand": "TP-Link",
+   "category": "routers-gateways",
+   "price": "179.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    34,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "small-business",
+    "homelab-starter"
+   ],
+   "summary": "Fanless Omada VPN gateway with two 2.5G ports, an SFP port, four Gigabit WAN/LAN ports and 2.3 Gbps NAT throughput.",
+   "description": "ER707-M2 is an Omada SDN wired VPN gateway with a 2.5G WAN port, a 2.5G WAN/LAN port, a Gigabit SFP WAN/LAN port, four Gigabit RJ45 WAN/LAN ports and USB for LTE backup. TP-Link rates it for about 2.35 Gbps NAT, 1.55 Gbps IPS (TCP), 650+ Mbps IPsec and 343 Mbps WireGuard, with up to 100 IPsec tunnels, SSL/OpenVPN/WireGuard servers and desktop, wall or rack mounting.",
+   "keywords": "omada gateway vpn router multi-wan small business sdn",
+   "specs": {
+    "ports": "1x 2.5G WAN, 1x 2.5G WAN/LAN, 1x 1G SFP, 4x 1G RJ45, USB 2.0",
+    "maxSpeedGbps": 2.5,
+    "managed": true,
+    "rackMountable": true
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-TPLINK-OMADA-ER8411",
+   "slug": "tp-link-omada-er8411",
+   "name": "TP-Link Omada ER8411 VPN Gateway with 10G SFP+ Ports",
+   "brand": "TP-Link",
+   "category": "routers-gateways",
+   "price": "399.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    55,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "small-business",
+    "networking-lab",
+    "enterprise-lab"
+   ],
+   "summary": "1U Omada VPN gateway with two 10G SFP+ ports, eight Gigabit RJ45 ports, redundant power supplies and ~9.4 Gbps NAT.",
+   "description": "ER8411 is a rack-mount Omada SDN VPN gateway with two 10GE SFP+ ports (one WAN, one WAN/LAN), a Gigabit SFP WAN/LAN, eight Gigabit RJ45 WAN/LAN ports, a console port and two USB 3.0 ports (LTE backup). TP-Link rates it for about 9.4 Gbps NAT, 9.4 Gbps IPS (TCP), ~3 Gbps IPsec and 1.4 Gbps WireGuard, with up to 300 IPsec and 500 SSL VPN tunnels and redundant dual power supplies.",
+   "keywords": "omada er8411 10g gateway vpn router rack sfp+",
+   "specs": {
+    "ports": "2x 10G SFP+, 1x 1G SFP, 8x 1G RJ45, console, 2x USB 3.0",
+    "maxSpeedGbps": 10,
+    "managed": true,
+    "rackMountable": true
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-TPLINK-ARCHER-TBE400UH",
+   "slug": "tp-link-archer-tbe400uh",
+   "name": "TP-Link Archer TBE400UH BE6500 Wi-Fi 7 High-Gain USB Adapter",
+   "brand": "TP-Link",
+   "category": "network-adapters",
+   "price": "79.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    24,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [],
+   "summary": "Tri-band Wi-Fi 7 USB adapter with two high-gain antennas and a USB 3.0 cradle for Windows 10 and 11.",
+   "description": "Archer TBE400UH adds BE6500 tri-band Wi-Fi 7 to a PC over USB, with up to 2882 Mbps on 6 GHz and 2882 Mbps on 5 GHz (802.11be) plus 2.4 GHz. It has two high-gain tri-band antennas, supports WPA3, client and hotspot modes, and ships with a USB 3.0 cradle on a 1.2 m extension cable. Windows 10 and 11 are supported.",
+   "keywords": "usb wifi 7 adapter 6ghz high gain cradle",
+   "specs": {
+    "maxSpeedGbps": 6.5,
+    "interface": "USB 3.0",
+    "wifiDetails": "BE6500 tri-band Wi-Fi 7 (6 GHz 2882 / 5 GHz 2882 Mbps), 2 high-gain antennas, Windows 10/11"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-ZYXEL-XMG-108",
+   "slug": "zyxel-xmg-108",
+   "name": "Zyxel XMG-108 8-Port 2.5G Unmanaged Switch with 10G SFP+",
+   "brand": "Zyxel",
+   "category": "unmanaged-switches",
+   "price": "109.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    51,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "homelab-starter",
+    "homelab-essentials"
+   ],
+   "summary": "Fanless eight-port 2.5G unmanaged desktop switch with an extra 10G SFP+ uplink for a NAS or backbone.",
+   "description": "The XMG-108 is part of Zyxel's XMG100 series: eight 2.5G multi-gig ports that work over existing Cat 5e cabling plus one 10G SFP+ port for a NAS, server or uplink. It is fanless for silent operation in homes and studios and can sit on a desk or mount on a wall.",
+   "keywords": "2.5g switch 10g sfp+ uplink fanless unmanaged nas",
+   "specs": {
+    "ports": "8x 2.5G RJ45, 1x 10G SFP+",
+    "maxSpeedGbps": 10,
+    "managed": false,
+    "rackMountable": false,
+    "poe": 0
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-ZYXEL-XGS1250-12",
+   "slug": "zyxel-xgs1250-12",
+   "name": "Zyxel XGS1250-12 12-Port Web-Managed Multi-Gigabit Switch",
+   "brand": "Zyxel",
+   "category": "switches",
+   "price": "195.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    11,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "homelab-essentials",
+    "networking-lab"
+   ],
+   "summary": "Web-managed switch with three 10G multi-gig RJ45 ports, one 10G SFP+ and eight Gigabit ports.",
+   "description": "The XGS1250-12 combines three 100M/1G/2.5G/5G/10G RJ45 ports, one 10G SFP+ fiber port and eight Gigabit ports. Its browser GUI provides VLANs, QoS, IGMP snooping, static link aggregation, port mirroring and storm control; switching capacity is 96 Gbps (71.42 Mpps) with a 1.5 MB buffer, and a smart fan adjusts speed to temperature with an LED eco mode.",
+   "keywords": "zyxel 10g switch web managed vlan nas homelab",
+   "specs": {
+    "ports": "3x 10G RJ45, 1x 10G SFP+, 8x 1G RJ45",
+    "maxSpeedGbps": 10,
+    "managed": true,
+    "rackMountable": false,
+    "switchingCapacityGbps": 96
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-ZYXEL-XGS1010-12",
+   "slug": "zyxel-xgs1010-12",
+   "name": "Zyxel XGS1010-12 12-Port Multi-Gigabit Unmanaged Switch with 10G SFP+",
+   "brand": "Zyxel",
+   "category": "unmanaged-switches",
+   "price": "139.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    56,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "homelab-starter"
+   ],
+   "summary": "Fanless 12-port unmanaged switch with eight Gigabit, two 2.5G and two 10G SFP+ ports.",
+   "description": "The XGS1010-12 mixes eight 1G ports, two 2.5G multi-gigabit ports and two 10G SFP+ uplinks, so a gaming PC, NAS, workstation or Wi-Fi AP can get multi-gig while the rest of the network stays on Gigabit. It is fanless and energy-saving, with high- and medium-priority ports for latency-sensitive devices.",
+   "keywords": "unmanaged switch 10g sfp+ 2.5g fanless budget",
+   "specs": {
+    "ports": "8x 1G RJ45, 2x 2.5G RJ45, 2x 10G SFP+",
+    "maxSpeedGbps": 10,
+    "managed": false,
+    "rackMountable": false,
+    "poe": 0
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-ZYXEL-XMG1915-10E",
+   "slug": "zyxel-xmg1915-10e",
+   "name": "Zyxel XMG1915-10E 8-Port 2.5G Smart Managed Switch with 2x 10G SFP+",
+   "brand": "Zyxel",
+   "category": "switches",
+   "price": "222.00",
+   "compareAt": "249.90",
+   "warranty": 12,
+   "stock": [
+    58,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "small-business"
+   ],
+   "summary": "Compact NebulaFlex smart-managed switch with eight 2.5G ports and two 10G SFP+ ports.",
+   "description": "The XMG1915-10E has eight 2.5G multi-gig ports and two 10G SFP+ ports in a compact desktop or wall-mount chassis. NebulaFlex lets it run standalone with a web GUI or be managed through Zyxel's license-free Nebula cloud platform alongside Zyxel APs and gateways.",
+   "keywords": "zyxel nebula cloud managed 2.5g switch sfp+",
+   "specs": {
+    "ports": "8x 2.5G RJ45, 2x 10G SFP+",
+    "maxSpeedGbps": 10,
+    "managed": true,
+    "rackMountable": false,
+    "poe": 0
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-ZYXEL-XMG1915-10EP",
+   "slug": "zyxel-xmg1915-10ep",
+   "name": "Zyxel XMG1915-10EP 8-Port 2.5G PoE++ Smart Managed Switch with 2x 10G SFP+",
+   "brand": "Zyxel",
+   "category": "switches",
+   "price": "289.00",
+   "compareAt": "314.90",
+   "warranty": 12,
+   "stock": [
+    24,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "small-business",
+    "homelab-essentials"
+   ],
+   "summary": "NebulaFlex smart-managed switch with eight 2.5G PoE++ (60 W) ports, a 130 W budget and two 10G SFP+ uplinks.",
+   "description": "The XMG1915-10EP provides eight 2.5G ports with uninterrupted 802.3bt PoE++ at up to 60 W per port from a 130 W budget, plus two 10G SFP+ uplinks, for powering Wi-Fi 7 access points, PTZ cameras and IoT devices. It mounts on a desk or wall and can be managed standalone or via Zyxel's license-free Nebula cloud, including remote PoE power cycling.",
+   "keywords": "poe++ 2.5g switch nebula wifi 7 ap sfp+",
+   "specs": {
+    "ports": "8x 2.5G RJ45 PoE++, 2x 10G SFP+",
+    "maxSpeedGbps": 10,
+    "managed": true,
+    "rackMountable": false,
+    "poe": 130
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-ZYXEL-XS1935-10",
+   "slug": "zyxel-xs1935-10",
+   "name": "Zyxel XS1935-10 10-Port Lite-L3 Smart Managed 10G Switch",
+   "brand": "Zyxel",
+   "category": "switches",
+   "price": "465.00",
+   "compareAt": "499.99",
+   "warranty": 12,
+   "stock": [
+    8,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "networking-lab",
+    "homelab-essentials"
+   ],
+   "summary": "Lite-L3 smart managed switch with eight 10G multi-gig RJ45 ports, two 10G SFP+ uplinks and 200 Gbps switching capacity.",
+   "description": "The XS1935-10 has eight 100M/1G/2.5G/5G/10G RJ45 ports and two SFP+ uplinks with 200 Gbps of switching capacity for servers and NAS. Its web UI provides 802.1Q VLANs, 8-queue QoS per port, link aggregation, DoS prevention and IPv4/IPv6 static routing without needing a CLI.",
+   "keywords": "10g switch layer 3 lite static routing sfp+ homelab",
+   "specs": {
+    "ports": "8x 10G RJ45, 2x 10G SFP+",
+    "maxSpeedGbps": 10,
+    "managed": true,
+    "rackMountable": true,
+    "switchingCapacityGbps": 200
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-SYNOLOGY-RT6600AX",
+   "slug": "synology-rt6600ax",
+   "name": "Synology RT6600ax Tri-Band Wi-Fi 6 Router",
+   "brand": "Synology",
+   "category": "routers-gateways",
+   "price": "299.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    29,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "homelab-starter"
+   ],
+   "summary": "Tri-band Wi-Fi 6 router running Synology SRM, with a 2.5GbE WAN/LAN port, VLANs, VPN server features and mesh support.",
+   "description": "The RT6600ax is Synology's tri-band Wi-Fi 6 router (2.4 GHz 600 Mbps, 5 GHz-1 4800 Mbps, 5 GHz-2 1200 Mbps) with a quad-core 1.8 GHz CPU. It has one 2.5GbE port configurable as WAN or LAN, four Gigabit ports and USB 3.2 Gen 1, supports at least 200 concurrently active devices, up to 5 separate networks and 15 SSIDs with full VLAN support, and runs Synology SRM with built-in VPN services (Site-to-Site, SSL VPN, OpenVPN, L2TP/IPsec and more), bandwidth management and parental controls. It can form a mesh with other Synology routers.",
+   "keywords": "synology srm router wifi 6 vlan vpn plus parental controls",
+   "specs": {
+    "ports": "1x 2.5GbE WAN/LAN, 4x 1GbE, USB 3.2 Gen 1",
+    "maxSpeedGbps": 2.5,
+    "rackMountable": false,
+    "wifiStandard": "Wi-Fi 6",
+    "wifiDetails": "Tri-band AX6600 (2.4 GHz 600 / 5 GHz-1 4800 / 5 GHz-2 1200 Mbps), mesh capable"
+   },
+   "options": []
+  }
+ ]
+}

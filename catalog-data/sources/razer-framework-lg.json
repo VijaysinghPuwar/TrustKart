@@ -1,0 +1,2521 @@
+{
+ "meta": {
+  "notes": "Razer, Framework and LG (LG Electronics) current products researched 2026-09-28 from official US sites: razer.com (embedded store product data: prices, specs, stock), frame.work (spec tabs and configurator/marketplace prices; many configs are pre-order), lg.com/us (product pages: list MSRP, spec tables, gallery images) and LG USA press release for 2026 OLED MSRPs. LG prices are LG.com list (MSRP) prices; current LG.com sale prices are noted in priceNote. Framework DIY Edition prices exclude memory/storage/OS. Razer Blade 14 and Framework Laptop 13 (AI 300)/Desktop were listed but out of stock on the research date. Razer product images are the official 500x500 store PNGs (largest clean studio asset found). Razer images omitted: the only clean studio assets on razer.com are 500x500 PNGs (product occupies <480 px after trimming, below the pipeline minimum); gallery images are dark lifestyle shots. LG 39GX950B/45GX950B use badge-free angled gallery shots (gallery-13 / gallery_16). Razer Cobra Pro uses the transparent hero render from its razer.com landing page. Razer publishes no larger clean studio images (re-checked 2026-09-28: store gallery 1500x1000 images and every press.razer.com newsroom asset are dark/lifestyle scenes), so 22 Razer products use the official 500x500 store PNGs with allowLowRes. Still omitted: Blade 14 (its only studio PNG trims to 305 px, below the 320 px low-res floor) and BlackShark V3 Pro (standard black/white PNGs are 300x300 natively; only special-edition artwork PNGs are larger). BlackShark V3 uses the same-design BlackShark V3 for Xbox White image (PRODUCT_LINE)."
+ },
+ "products": [
+  {
+   "sku": "TK-FRAMEWORK-LAPTOP13PRO-INTEL",
+   "slug": "framework-laptop-13-pro-intel-core-ultra-series-3",
+   "name": "Framework Laptop 13 Pro DIY Edition (Intel Core Ultra Series 3)",
+   "brand": "Framework",
+   "category": "developer-laptops",
+   "price": "1199.00",
+   "priceBasis": "starting-at",
+   "priceSource": "https://frame.work/products/laptop13pro-diy-intel-ultra-3/configuration/new",
+   "priceAsOf": "2026-09-28",
+   "priceNote": "Pre-order on frame.work; DIY Edition price excludes memory, storage, OS and power adapter.",
+   "releaseYear": 2026,
+   "summary": "Repairable 13.5-inch developer laptop with Intel Core Ultra Series 3, LPCAMM2 memory, a 120 Hz 2.8K touchscreen and a CNC aluminum chassis.",
+   "description": "Framework Laptop 13 Pro pairs Intel Core Ultra Series 3 processors with LPCAMM2 LPDDR5X memory, a piezo haptic touchpad and a fully CNC-machined aluminum chassis. It keeps Framework's repairable, upgradeable design with four user-selectable Expansion Cards supporting Thunderbolt 4 and USB-PD on every slot. The DIY Edition ships without memory, storage or OS so you can bring your own, with excellent Linux support.",
+   "keywords": "framework 13 pro repairable modular linux developer laptop lpcamm2 intel core ultra series 3 panther lake diy",
+   "specs": {
+    "cpu": "Intel Core Ultra 5 325 (8 cores, up to 4.5 GHz)",
+    "cpuBrand": "Intel",
+    "gpu": "Intel Graphics (4 Xe-cores)",
+    "displayIn": 13.5,
+    "display": "2880x1920 3:2 touchscreen, 30-120 Hz, 700 nits, matte",
+    "batteryWh": 74.45,
+    "weightKg": 1.44,
+    "os": "None (bring your own)",
+    "npuTops": 47,
+    "ports": "4x Expansion Card slots (Thunderbolt 4, DP 2.1, USB-PD up to 140 W on all), 3.5 mm jack",
+    "wireless": "Intel Wi-Fi 7 BE211"
+   },
+   "variants": [
+    {
+     "label": "Core Ultra 5 325",
+     "price": "1199.00"
+    },
+    {
+     "label": "Core Ultra X7 358H (Arc B390)",
+     "price": "1699.00"
+    },
+    {
+     "label": "Core Ultra X9 388H (Arc B390)",
+     "price": "1899.00"
+    }
+   ],
+   "colors": [
+    "Graphite"
+   ],
+   "collections": [
+    "developer-setup",
+    "developer-favorites",
+    "premium-laptops"
+   ],
+   "featured": true,
+   "warranty": 12,
+   "sources": {
+    "product": "https://frame.work/laptop13pro",
+    "specs": "https://frame.work/laptop13pro?tab=specs",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://static.frame.work/byf9wqvtxe65m0kpzifuxkrmce42",
+    "page": "https://frame.work/products/laptop13pro-diy-intel-ultra-3/configuration/new",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official Framework store/configurator product image (static.frame.work); Framework has not granted a reuse license — rights not verified.",
+    "credit": "Framework Computer",
+    "alt": "Framework Laptop 13 Pro in Graphite, open front view showing the display and keyboard",
+    "match": "EXACT"
+   }
+  },
+  {
+   "sku": "TK-FRAMEWORK-LAPTOP13PRO-AMD",
+   "slug": "framework-laptop-13-pro-amd-ryzen-ai-300",
+   "name": "Framework Laptop 13 Pro DIY Edition (AMD Ryzen AI 300 Series)",
+   "brand": "Framework",
+   "category": "developer-laptops",
+   "price": "1399.00",
+   "priceBasis": "starting-at",
+   "priceSource": "https://frame.work/products/laptop13pro-diy-amd-ai300/configuration/new",
+   "priceAsOf": "2026-09-28",
+   "priceNote": "Pre-order on frame.work; DIY Edition price excludes memory, storage, OS and power adapter.",
+   "releaseYear": 2026,
+   "summary": "Framework Laptop 13 Pro with AMD Ryzen AI 300 processors, a 2.8K 120 Hz touchscreen, 74 Wh battery and CNC aluminum chassis.",
+   "description": "The AMD version of Framework Laptop 13 Pro offers Ryzen AI 7 350 or Ryzen AI 9 HX 370 processors with Radeon 860M or 890M graphics and an NPU of up to 50 TOPS. It shares the Pro chassis, 2.8K touchscreen and haptic touchpad, and stays fully repairable with four Expansion Card slots. The DIY Edition lets you bring your own memory, storage and operating system.",
+   "keywords": "framework 13 pro amd ryzen ai 9 hx 370 repairable linux developer laptop diy",
+   "specs": {
+    "cpu": "AMD Ryzen AI 7 350 (8 cores / 16 threads, up to 5.0 GHz)",
+    "cpuBrand": "AMD",
+    "gpu": "AMD Radeon 860M",
+    "displayIn": 13.5,
+    "display": "2880x1920 3:2 touchscreen, 30-120 Hz, matte",
+    "batteryWh": 74.45,
+    "os": "None (bring your own)",
+    "npuTops": 50,
+    "ports": "4x user-selectable Expansion Card slots, 3.5 mm jack"
+   },
+   "variants": [
+    {
+     "label": "Ryzen AI 7 350",
+     "price": "1399.00"
+    },
+    {
+     "label": "Ryzen AI 9 HX 370 (Radeon 890M)",
+     "price": "1649.00"
+    }
+   ],
+   "colors": [
+    "Graphite"
+   ],
+   "collections": [
+    "developer-setup",
+    "developer-favorites"
+   ],
+   "featured": false,
+   "warranty": 12,
+   "sources": {
+    "product": "https://frame.work/laptop13pro",
+    "specs": "https://frame.work/laptop13pro?tab=specs",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://static.frame.work/4651s7smvtp1i2ic7j1welsnjl6t",
+    "page": "https://frame.work/products/laptop13pro-diy-amd-ai300/configuration/new",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official Framework store/configurator product image (static.frame.work); Framework has not granted a reuse license — rights not verified.",
+    "credit": "Framework Computer",
+    "alt": "Framework Laptop 13 Pro in Graphite, straight-on front view with the lid open",
+    "match": "PRODUCT_LINE"
+   }
+  },
+  {
+   "sku": "TK-FRAMEWORK-LAPTOP13-AI300",
+   "slug": "framework-laptop-13-amd-ryzen-ai-300",
+   "name": "Framework Laptop 13 DIY Edition (AMD Ryzen AI 300 Series)",
+   "brand": "Framework",
+   "category": "developer-laptops",
+   "price": "849.00",
+   "compareAt": "899.00",
+   "priceBasis": "starting-at",
+   "priceSource": "https://frame.work/products/laptop13-diy-amd-ai300/configuration/new",
+   "priceAsOf": "2026-09-28",
+   "priceNote": "frame.work shows $849 (was $899); base configuration listed as out of stock on the price date.",
+   "releaseYear": 2025,
+   "summary": "The original repairable 13.5-inch Framework Laptop with AMD Ryzen AI 300 processors, Wi-Fi 7 and swappable Expansion Cards.",
+   "description": "Framework Laptop 13 with AMD Ryzen AI 300 Series offers up to 12 CPU cores, a 13.5-inch 3:2 display and a 61 Wh battery in a 1.3 kg chassis. Memory (up to 96 GB DDR5) and storage are user-upgradeable, and every port is a swappable Expansion Card. The DIY Edition lets you bring your own memory, storage and OS, including Linux.",
+   "keywords": "framework laptop 13 amd ryzen ai 300 repairable linux diy",
+   "specs": {
+    "cpu": "AMD Ryzen AI 5 340 (6 cores / 12 threads, up to 4.8 GHz)",
+    "cpuBrand": "AMD",
+    "gpu": "AMD Radeon 840M",
+    "displayIn": 13.5,
+    "display": "2256x1504 3:2, 60 Hz, 2.2K (2.8K 120 Hz optional)",
+    "batteryWh": 61,
+    "weightKg": 1.3,
+    "os": "None (bring your own)",
+    "npuTops": 50,
+    "ports": "4x user-selectable Expansion Card slots",
+    "wireless": "AMD RZ717 Wi-Fi 7"
+   },
+   "variants": [
+    {
+     "label": "Ryzen AI 5 340",
+     "price": "849.00"
+    },
+    {
+     "label": "Ryzen AI 7 350",
+     "price": "1129.00"
+    },
+    {
+     "label": "Ryzen AI 9 HX 370",
+     "price": "1489.00"
+    }
+   ],
+   "collections": [
+    "developer-setup",
+    "deals"
+   ],
+   "featured": false,
+   "warranty": 12,
+   "sources": {
+    "product": "https://frame.work/laptop13",
+    "specs": "https://frame.work/laptop13?tab=specs",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://static.frame.work/fpoq4w76rxy69opnl15c77s01saa",
+    "page": "https://frame.work/products/laptop13-diy-amd-ai300/configuration/new",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official Framework store/configurator product image (static.frame.work); Framework has not granted a reuse license — rights not verified.",
+    "credit": "Framework Computer",
+    "alt": "Framework Laptop 13 in silver aluminum, top-down view of the closed lid with the Framework logo",
+    "match": "PRODUCT_LINE"
+   }
+  },
+  {
+   "sku": "TK-FRAMEWORK-LAPTOP12-S3",
+   "slug": "framework-laptop-12-intel-core-series-3",
+   "name": "Framework Laptop 12 DIY Edition (Intel Core Series 3)",
+   "brand": "Framework",
+   "category": "premium-laptops",
+   "price": "549.00",
+   "priceBasis": "starting-at",
+   "priceSource": "https://frame.work/products/laptop12-diy-intel-series3/configuration/new",
+   "priceAsOf": "2026-09-28",
+   "priceNote": "Pre-order on frame.work; DIY Edition price excludes memory, storage, OS and power adapter.",
+   "releaseYear": 2026,
+   "summary": "Colorful, repairable 12.2-inch 360-degree convertible with Intel Core Series 3, Thunderbolt 4 and stylus support.",
+   "description": "Framework Laptop 12 is a 12.2-inch convertible with a 360-degree hinge, touchscreen with MPP 2.0 and USI 2.0 stylus support, and a shock-absorbing TPU-overmolded chassis. The 2026 model moves to Intel Core Series 3 processors with Thunderbolt 4 on the upper Expansion Card slots, and adds optional backlit keyboard and fingerprint reader. Memory, storage and ports stay user-upgradeable.",
+   "keywords": "framework laptop 12 convertible 2-in-1 student repairable touchscreen stylus intel core series 3",
+   "specs": {
+    "cpu": "Intel Core 3 304 (5 cores, up to 4.3 GHz)",
+    "cpuBrand": "Intel",
+    "gpu": "Intel Graphics (1 Xe3 core)",
+    "displayIn": 12.2,
+    "display": "1920x1200 16:10 touchscreen, 60 Hz, 400+ nits, stylus support",
+    "batteryWh": 50,
+    "weightKg": 1.3,
+    "os": "None (bring your own)",
+    "ports": "4x Expansion Card slots (2x Thunderbolt 4), 3.5 mm jack",
+    "wireless": "Intel BE213 Wi-Fi 7"
+   },
+   "variants": [
+    {
+     "label": "Core 3 304",
+     "price": "549.00"
+    },
+    {
+     "label": "Core 5 320 (with fingerprint reader)",
+     "price": "779.00"
+    },
+    {
+     "label": "Core 7 350 (with fingerprint reader)",
+     "price": "999.00"
+    }
+   ],
+   "colors": [
+    "Black",
+    "Gray",
+    "Lavender",
+    "Bubblegum",
+    "Sage"
+   ],
+   "collections": [
+    "developer-setup"
+   ],
+   "featured": false,
+   "warranty": 12,
+   "sources": {
+    "product": "https://frame.work/laptop12",
+    "specs": "https://frame.work/laptop12?tab=specs",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://static.frame.work/oaqsyn656lkly3zrtacd69zfq0oz",
+    "page": "https://frame.work/products/laptop12-diy-intel-series3/configuration/new",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official Framework store/configurator product image (static.frame.work); Framework has not granted a reuse license — rights not verified.",
+    "credit": "Framework Computer",
+    "alt": "Framework Laptop 12 in Sage green, standing in tent mode with the screen facing forward",
+    "match": "PRODUCT_LINE"
+   }
+  },
+  {
+   "sku": "TK-FRAMEWORK-LAPTOP16-AI300",
+   "slug": "framework-laptop-16-amd-ryzen-ai-300",
+   "name": "Framework Laptop 16 DIY Edition (AMD Ryzen AI 300 Series)",
+   "brand": "Framework",
+   "category": "creator-laptops",
+   "price": "1249.00",
+   "priceBasis": "starting-at",
+   "priceSource": "https://frame.work/products/laptop16-diy-amd-ai300/configuration/new",
+   "priceAsOf": "2026-09-28",
+   "priceNote": "Base DIY configuration with Expansion Bay Shell (no discrete GPU); the NVIDIA RTX 5070 Graphics Module is a configurable upgrade.",
+   "releaseYear": 2025,
+   "summary": "Modular 16-inch laptop with AMD Ryzen AI 300, a 165 Hz 2560x1600 display and an optional swappable NVIDIA GeForce RTX 5070 Graphics Module.",
+   "description": "Framework Laptop 16 uses a PCIe x8 Expansion Bay that accepts a thin Expansion Bay Shell or a Graphics Module with NVIDIA GeForce RTX 5070 Laptop GPU (8 GB or 12 GB GDDR7) or Radeon RX 7700S. It has a 16-inch 2560x1600 165 Hz 100% DCI-P3 display, six Expansion Card slots, swappable input modules and an 85 Wh battery. Memory (up to 96 GB DDR5-5600) and two M.2 SSD slots are user-upgradeable.",
+   "keywords": "framework laptop 16 modular gpu rtx 5070 graphics module expansion bay repairable gaming",
+   "specs": {
+    "cpu": "AMD Ryzen AI 5 340 (6 cores / 12 threads, up to 4.8 GHz)",
+    "cpuBrand": "AMD",
+    "gpu": "Integrated AMD Radeon; optional NVIDIA GeForce RTX 5070 Laptop GPU Graphics Module (8/12 GB GDDR7, up to 100 W)",
+    "displayIn": 16,
+    "display": "2560x1600 16:10, 165 Hz, 100% DCI-P3, 500 nits, matte",
+    "batteryWh": 85,
+    "weightKg": 2.1,
+    "os": "None (bring your own)",
+    "npuTops": 50,
+    "ports": "6x Expansion Card slots (2x USB4, up to 240 W charging), 3.5 mm jack",
+    "wireless": "AMD RZ717 Wi-Fi 7"
+   },
+   "variants": [
+    {
+     "label": "Ryzen AI 5 340",
+     "price": "1249.00"
+    },
+    {
+     "label": "Ryzen AI 7 350",
+     "price": "1558.00"
+    },
+    {
+     "label": "Ryzen AI 9 HX 370",
+     "price": "1858.00"
+    }
+   ],
+   "collections": [
+    "developer-favorites",
+    "creator-workstations"
+   ],
+   "featured": true,
+   "warranty": 12,
+   "sources": {
+    "product": "https://frame.work/laptop16",
+    "specs": "https://frame.work/laptop16?tab=specs",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://static.frame.work/6kmbkxw91l05jagl9klu7nse36fj",
+    "page": "https://frame.work/products/laptop16-diy-amd-ai300/configuration/new",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official Framework store/configurator product image (static.frame.work); Framework has not granted a reuse license — rights not verified.",
+    "credit": "Framework Computer",
+    "alt": "Framework Laptop 16 in silver, front view with the lid open showing the display and full keyboard",
+    "match": "PRODUCT_LINE"
+   }
+  },
+  {
+   "sku": "TK-FRAMEWORK-DESKTOP-AIMAX",
+   "slug": "framework-desktop-amd-ryzen-ai-max",
+   "name": "Framework Desktop DIY Edition (AMD Ryzen AI Max 300 Series)",
+   "brand": "Framework",
+   "category": "mini-pcs",
+   "price": "1269.00",
+   "priceBasis": "starting-at",
+   "priceSource": "https://frame.work/products/desktop-diy-amd-aimax300/configuration/new",
+   "priceAsOf": "2026-09-28",
+   "priceNote": "Base system price; configurations were listed as out of stock on the price date. Storage and OS not included.",
+   "releaseYear": 2025,
+   "summary": "4.5-liter Mini-ITX desktop built around AMD Ryzen AI Max with up to 128 GB of unified LPDDR5x memory for local AI and gaming.",
+   "description": "Framework Desktop is a 4.5 L Mini-ITX PC powered by AMD Ryzen AI Max 385 or Ryzen AI Max+ 395 with Radeon 8050S/8060S graphics and 32 GB to 128 GB of soldered LPDDR5x-8000 memory on a 256-bit bus. It includes a 400 W FlexATX power supply, 5 Gbit Ethernet, Wi-Fi 7, two USB4 ports and two M.2 slots. Customizable front tiles and two front Expansion Cards let you personalize it.",
+   "keywords": "framework desktop ryzen ai max+ 395 strix halo mini itx local llm ai workstation 128gb",
+   "specs": {
+    "cpu": "AMD Ryzen AI Max 385 (8 cores / 16 threads, up to 5.0 GHz)",
+    "cpuBrand": "AMD",
+    "gpu": "AMD Radeon 8050S (32 CUs)",
+    "ramGb": 32,
+    "os": "None (bring your own)",
+    "networking": "Realtek 5 Gbit Ethernet, AMD RZ717 Wi-Fi 7",
+    "psuW": 400,
+    "ports": "2x USB4, 2x USB-A 3.2 Gen 2, HDMI 2.1, 2x DisplayPort 2.1, RJ45, 3.5 mm, 2x front Expansion Cards"
+   },
+   "variants": [
+    {
+     "label": "Ryzen AI Max 385 - 32 GB",
+     "price": "1269.00"
+    },
+    {
+     "label": "Ryzen AI Max+ 395 - 64 GB",
+     "price": "1959.00"
+    },
+    {
+     "label": "Ryzen AI Max+ 395 - 128 GB",
+     "price": "3449.00"
+    }
+   ],
+   "collections": [
+    "ai-lab",
+    "developer-setup",
+    "homelab-starter"
+   ],
+   "featured": true,
+   "warranty": 12,
+   "sources": {
+    "product": "https://frame.work/desktop",
+    "specs": "https://frame.work/desktop?tab=specs",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://static.frame.work/9nltebr7407pheomjfth9r383v21",
+    "page": "https://frame.work/products/desktop-diy-amd-aimax300/configuration/new",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official Framework store/configurator product image (static.frame.work); Framework has not granted a reuse license — rights not verified.",
+    "credit": "Framework Computer",
+    "alt": "Framework Desktop with black front tiles, three-quarter view of the compact 4.5-liter case",
+    "match": "PRODUCT_LINE"
+   }
+  },
+  {
+   "sku": "TK-FRAMEWORK-FW16-RTX5070-GM",
+   "slug": "framework-laptop-16-graphics-module-rtx-5070",
+   "name": "Framework Laptop 16 Graphics Module (NVIDIA GeForce RTX 5070)",
+   "brand": "Framework",
+   "category": "gpus",
+   "price": "699.00",
+   "priceBasis": "starting-at",
+   "priceSource": "https://frame.work/products/laptop16-graphics-module-nvidia-geforce-rtx-5070",
+   "priceAsOf": "2026-09-28",
+   "priceNote": "Pre-order in the Framework Marketplace; 8 GB $699, 12 GB $1,199.",
+   "summary": "Slide-in Expansion Bay graphics upgrade for Framework Laptop 16 with an NVIDIA GeForce RTX 5070 Laptop GPU at up to 100 W.",
+   "description": "The Graphics Module upgrades an existing Framework Laptop 16 with an NVIDIA GeForce RTX 5070 Laptop GPU running at up to 100 W TGP, with 8 GB or 12 GB of GDDR7. It connects through the Expansion Bay's PCIe x8 interface and adds a rear USB-C port with DisplayPort Alt Mode and charging. It uses its own dual-fan, four-heatpipe cooler.",
+   "keywords": "framework laptop 16 gpu module rtx 5070 expansion bay upgrade nvidia",
+   "specs": {
+    "chipset": "NVIDIA GeForce RTX 5070 Laptop GPU",
+    "vramGb": 8,
+    "memoryType": "GDDR7",
+    "interface": "Framework Laptop 16 Expansion Bay (PCIe x8)",
+    "boardPowerW": 100
+   },
+   "variants": [
+    {
+     "label": "8 GB GDDR7",
+     "price": "699.00"
+    },
+    {
+     "label": "12 GB GDDR7",
+     "price": "1199.00"
+    }
+   ],
+   "collections": [
+    "developer-favorites"
+   ],
+   "featured": false,
+   "warranty": 12,
+   "sources": {
+    "product": "https://frame.work/products/laptop16-graphics-module-nvidia-geforce-rtx-5070",
+    "specs": "https://frame.work/laptop16?tab=specs",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://static.frame.work/ay3iv26kj6xy54otndbk8tve2cji",
+    "page": "https://frame.work/products/laptop16-graphics-module-nvidia-geforce-rtx-5070",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official Framework store/configurator product image (static.frame.work); Framework has not granted a reuse license — rights not verified.",
+    "credit": "Framework Computer",
+    "alt": "Framework Laptop 16 NVIDIA GeForce RTX 5070 Graphics Module, front view showing twin fans",
+    "match": "EXACT"
+   }
+  },
+  {
+   "sku": "TK-RAZER-BLADE16-2026",
+   "slug": "razer-blade-16-2026-intel-core-ultra",
+   "name": "Razer Blade 16 (2026, Core Ultra 9 386H)",
+   "brand": "Razer",
+   "category": "gaming-laptops",
+   "price": "3499.99",
+   "priceBasis": "msrp",
+   "priceSource": "https://www.razer.com/gaming-laptops/razer-blade-16/RZ09-05817EN3-R3U1",
+   "priceAsOf": "2026-09-28",
+   "summary": "The 2026 Blade 16 moves to Intel Core Ultra 9 386H with RTX 5070 Ti to RTX 5090 graphics and a 240 Hz QHD+ OLED display.",
+   "description": "The latest Razer Blade 16 pairs an Intel Core Ultra 9 386H processor with NVIDIA GeForce RTX 50 Series Laptop GPUs up to RTX 5090 in a CNC-milled aluminum chassis from 14.9 mm thin. Its 16-inch 2560x1600 OLED runs at 240 Hz with VESA DisplayHDR True Black 1000 and 100% DCI-P3, and it adds Thunderbolt 5, Wi-Fi 7 with Bluetooth 6.0 and a 90 Wh battery.",
+   "keywords": "razer blade 16 2026 intel core ultra 9 386h rtx 5070 ti 5080 5090 oled 240hz thunderbolt 5",
+   "specs": {
+    "cpu": "Intel Core Ultra 9 386H (16 cores, up to 4.9 GHz)",
+    "cpuBrand": "Intel",
+    "gpu": "NVIDIA GeForce RTX 5070 Ti Laptop GPU 12 GB GDDR7 (up to 140 W)",
+    "ramGb": 32,
+    "storageTb": 1,
+    "displayIn": 16,
+    "display": "2560x1600 OLED, 240 Hz, DisplayHDR True Black 1000, 100% DCI-P3",
+    "batteryWh": 90,
+    "weightKg": 2.14,
+    "os": "Windows 11 Home",
+    "npuTops": 50,
+    "ports": "Thunderbolt 5, Thunderbolt 4, 3x USB-A 3.2 Gen 2, HDMI 2.1, SD (UHS-II), 3.5 mm",
+    "wireless": "Wi-Fi 7, Bluetooth 6.0"
+   },
+   "variants": [
+    {
+     "label": "RTX 5070 Ti / 32 GB / 1 TB",
+     "price": "3499.99"
+    },
+    {
+     "label": "RTX 5080 / 32 GB",
+     "price": "3999.99"
+    },
+    {
+     "label": "RTX 5080 / 64 GB",
+     "price": "4699.99"
+    },
+    {
+     "label": "RTX 5090 / 32 GB",
+     "price": "4899.99"
+    },
+    {
+     "label": "RTX 5090 / 64 GB",
+     "price": "5599.99"
+    }
+   ],
+   "colors": [
+    "Black"
+   ],
+   "collections": [
+    "gaming-monsters",
+    "dream-gaming",
+    "ultimate-gaming-setup"
+   ],
+   "featured": true,
+   "warranty": 12,
+   "sources": {
+    "product": "https://www.razer.com/gaming-laptops/razer-blade-16",
+    "specs": "https://www.razer.com/gaming-laptops/razer-blade-16",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://medias-p1.phoenix.razer.com/sys-master-phoenix-images-container/h31/h27/10040018731038/blade16-s12-black-500x500.png",
+    "page": "https://www.razer.com/gaming-laptops/razer-blade-16/RZ09-05817EN3-R3U1",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official Razer store studio image from razer.com (medias-p1.phoenix.razer.com). Razer publishes no larger clean studio image of this product (store gallery and newsroom assets are dark lifestyle scenes), so this 500x500 PNG is used with allowLowRes. Razer has not granted a reuse license — rights not verified.",
+    "credit": "Razer Inc.",
+    "alt": "Razer Blade 16 (2026) gaming laptop in black, open front view",
+    "match": "EXACT",
+    "allowLowRes": true
+   }
+  },
+  {
+   "sku": "TK-RAZER-BLADE18-2026",
+   "slug": "razer-blade-18-2026-core-ultra-290hx-plus",
+   "name": "Razer Blade 18 (2026, Core Ultra 9 290HX Plus)",
+   "brand": "Razer",
+   "category": "gaming-laptops",
+   "price": "3999.99",
+   "priceBasis": "msrp",
+   "priceSource": "https://www.razer.com/gaming-laptops/razer-blade-18/RZ09-05827ER3-R3U1",
+   "priceAsOf": "2026-09-28",
+   "summary": "18-inch desktop-replacement Blade with Intel Core Ultra 9 290HX Plus, up to RTX 5090 and a dual-mode UHD+ 240 Hz / FHD+ 440 Hz display.",
+   "description": "The latest Razer Blade 18 uses an Intel Core Ultra 9 290HX Plus (24 cores, up to 5.5 GHz) with NVIDIA GeForce RTX 5070 Ti up to RTX 5090 Laptop GPUs. Its 18-inch dual-mode display switches between 3840x2400 at 240 Hz and 1920x1200 at 440 Hz, and it offers upgradeable DDR5-6400 SO-DIMM memory up to 128 GB, a PCIe Gen 5 SSD slot, Thunderbolt 5, 2.5 Gb Ethernet and a 99 Wh battery.",
+   "keywords": "razer blade 18 2026 core ultra 9 290hx plus rtx 5090 dual mode 440hz desktop replacement",
+   "specs": {
+    "cpu": "Intel Core Ultra 9 290HX Plus (24 cores, up to 5.5 GHz)",
+    "cpuBrand": "Intel",
+    "gpu": "NVIDIA GeForce RTX 5070 Ti Laptop GPU 12 GB GDDR7 (up to 140 W + 15 W)",
+    "ramGb": 32,
+    "storageTb": 1,
+    "displayIn": 18,
+    "display": "Dual mode 3840x2400 240 Hz / 1920x1200 440 Hz, 100% DCI-P3",
+    "batteryWh": 99,
+    "weightKg": 3.2,
+    "os": "Windows 11 Home",
+    "npuTops": 13,
+    "ports": "Thunderbolt 5, Thunderbolt 4, 3x USB-A 3.2 Gen 2, HDMI 2.1, 2.5 GbE, SD (UHS-II), 3.5 mm",
+    "wireless": "Wi-Fi 7, Bluetooth 5.4"
+   },
+   "variants": [
+    {
+     "label": "RTX 5070 Ti / 32 GB / 1 TB",
+     "price": "3999.99"
+    },
+    {
+     "label": "RTX 5080 / 32 GB / 1 TB",
+     "price": "4499.99"
+    },
+    {
+     "label": "RTX 5090 / 32 GB / 2 TB",
+     "price": "5399.99"
+    },
+    {
+     "label": "RTX 5090 / 64 GB / 2 TB",
+     "price": "5999.99"
+    },
+    {
+     "label": "RTX 5090 / 128 GB / 2 TB",
+     "price": "6999.99"
+    }
+   ],
+   "colors": [
+    "Black"
+   ],
+   "collections": [
+    "gaming-monsters",
+    "dream-gaming"
+   ],
+   "featured": false,
+   "warranty": 12,
+   "sources": {
+    "product": "https://www.razer.com/gaming-laptops/razer-blade-18",
+    "specs": "https://www.razer.com/gaming-laptops/razer-blade-18",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://medias-p1.phoenix.razer.com/sys-master-phoenix-images-container/h73/h47/10064527589406/blade18-k12-black-500x500.png",
+    "page": "https://www.razer.com/gaming-laptops/razer-blade-18/RZ09-05827ER3-R3U1",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official Razer store studio image from razer.com (medias-p1.phoenix.razer.com). Razer publishes no larger clean studio image of this product (store gallery and newsroom assets are dark lifestyle scenes), so this 500x500 PNG is used with allowLowRes. Razer has not granted a reuse license — rights not verified.",
+    "credit": "Razer Inc.",
+    "alt": "Razer Blade 18 (2026) gaming laptop in black, open front view",
+    "match": "EXACT",
+    "allowLowRes": true
+   }
+  },
+  {
+   "sku": "TK-RAZER-VIPERV4PRO",
+   "slug": "razer-viper-v4-pro",
+   "name": "Razer Viper V4 Pro",
+   "brand": "Razer",
+   "category": "mice",
+   "price": "159.99",
+   "priceBasis": "msrp",
+   "priceSource": "https://www.razer.com/gaming-mice/razer-viper-v4-pro",
+   "priceAsOf": "2026-09-28",
+   "summary": "Sub-49 g symmetrical wireless esports mouse with the Focus Pro 50K Gen-3 sensor and true 8000 Hz wireless polling.",
+   "description": "The Razer Viper V4 Pro is an ultra-light symmetrical esports mouse weighing under 49 g (black). It uses the Focus Pro 50K Optical Sensor Gen-3, Gen-4 optical switches rated for 100 million clicks and HyperSpeed Wireless Gen-2 with up to 8000 Hz polling in wireless and wired modes, with up to 180 hours of battery at 1000 Hz.",
+   "keywords": "razer viper v4 pro wireless esports mouse lightweight 8000hz 50k",
+   "specs": {
+    "connection": "Razer HyperSpeed Wireless Gen-2, wired USB-C",
+    "colors": "Black, White, Esports Green Edition",
+    "sensorDpi": 50000,
+    "weightG": 49,
+    "buttons": 6
+   },
+   "variants": [
+    {
+     "label": "Black",
+     "price": "159.99"
+    },
+    {
+     "label": "White",
+     "price": "159.99"
+    },
+    {
+     "label": "Esports Green Edition",
+     "price": "169.99"
+    }
+   ],
+   "colors": [
+    "Black",
+    "White",
+    "Esports Green"
+   ],
+   "collections": [
+    "ultimate-gaming-setup"
+   ],
+   "featured": false,
+   "warranty": 24,
+   "sources": {
+    "product": "https://www.razer.com/gaming-mice/razer-viper-v4-pro",
+    "specs": "https://www.razer.com/gaming-mice/razer-viper-v4-pro",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://medias-p1.phoenix.razer.com/sys-master-phoenix-images-container/h9d/h5d/10039373168670/viper-v4-pro-black-2-500x500.png",
+    "page": "https://www.razer.com/gaming-mice/razer-viper-v4-pro",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official Razer store studio image from razer.com (medias-p1.phoenix.razer.com). Razer publishes no larger clean studio image of this product (store gallery and newsroom assets are dark lifestyle scenes), so this 500x500 PNG is used with allowLowRes. Razer has not granted a reuse license — rights not verified.",
+    "credit": "Razer Inc.",
+    "alt": "Razer Viper V4 Pro wireless esports mouse in black, top view",
+    "match": "EXACT",
+    "allowLowRes": true
+   }
+  },
+  {
+   "sku": "TK-RAZER-DEATHADDERV4PRO",
+   "slug": "razer-deathadder-v4-pro",
+   "name": "Razer DeathAdder V4 Pro",
+   "brand": "Razer",
+   "category": "mice",
+   "price": "169.99",
+   "priceBasis": "msrp",
+   "priceSource": "https://www.razer.com/gaming-mice/razer-deathadder-v4-pro",
+   "priceAsOf": "2026-09-28",
+   "summary": "56 g ergonomic wireless esports mouse with the Focus Pro 45K Gen-2 sensor and 8000 Hz polling.",
+   "description": "The Razer DeathAdder V4 Pro keeps the classic right-handed ergonomic shape at 56 g (black). It uses a Focus Pro 45K Optical Sensor Gen-2, Gen-4 optical switches and an optical scroll wheel, with HyperSpeed Wireless Gen-2 at up to 8000 Hz and up to 150 hours of battery at 1000 Hz.",
+   "keywords": "razer deathadder v4 pro ergonomic wireless esports mouse 45k 8000hz",
+   "specs": {
+    "connection": "Razer HyperSpeed Wireless Gen-2, wired USB-C",
+    "colors": "Black, White",
+    "sensorDpi": 45000,
+    "weightG": 56,
+    "buttons": 6
+   },
+   "variants": [
+    {
+     "label": "Black",
+     "price": "169.99"
+    },
+    {
+     "label": "White",
+     "price": "169.99"
+    },
+    {
+     "label": "Esports Green Edition",
+     "price": "179.99"
+    },
+    {
+     "label": "NiKo Edition",
+     "price": "189.99"
+    }
+   ],
+   "colors": [
+    "Black",
+    "White"
+   ],
+   "collections": [
+    "ultimate-gaming-setup"
+   ],
+   "featured": false,
+   "warranty": 24,
+   "sources": {
+    "product": "https://www.razer.com/gaming-mice/razer-deathadder-v4-pro",
+    "specs": "https://www.razer.com/gaming-mice/razer-deathadder-v4-pro",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://medias-p1.phoenix.razer.com/sys-master-phoenix-images-container/h01/hf3/9926511951902/deathadder-v4-pro-black-500x500.png",
+    "page": "https://www.razer.com/gaming-mice/razer-deathadder-v4-pro",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official Razer store studio image from razer.com (medias-p1.phoenix.razer.com). Razer publishes no larger clean studio image of this product (store gallery and newsroom assets are dark lifestyle scenes), so this 500x500 PNG is used with allowLowRes. Razer has not granted a reuse license — rights not verified.",
+    "credit": "Razer Inc.",
+    "alt": "Razer DeathAdder V4 Pro wireless esports mouse in black, top view",
+    "match": "EXACT",
+    "allowLowRes": true
+   }
+  },
+  {
+   "sku": "TK-RAZER-BASILISKV3PRO35K",
+   "slug": "razer-basilisk-v3-pro-35k",
+   "name": "Razer Basilisk V3 Pro 35K",
+   "brand": "Razer",
+   "category": "mice",
+   "price": "159.99",
+   "priceBasis": "msrp",
+   "priceSource": "https://www.razer.com/gaming-mice/razer-basilisk-v3-pro-35k",
+   "priceAsOf": "2026-09-28",
+   "summary": "Ergonomic wireless RGB gaming mouse with 11 programmable controls, HyperScroll tilt wheel and a Focus Pro 35K sensor.",
+   "description": "The Razer Basilisk V3 Pro 35K is a right-handed ergonomic mouse with 11 programmable buttons and a 4-way HyperScroll tilt wheel with electronically actuated notched and free-spin modes. It uses a Focus Pro 35K Optical Sensor Gen-2 and Gen-3 optical switches, connects over HyperSpeed Wireless, Bluetooth or USB-C, and lasts up to 140 hours on HyperSpeed.",
+   "keywords": "razer basilisk v3 pro 35k ergonomic wireless rgb gaming mouse tilt wheel",
+   "specs": {
+    "connection": "Razer HyperSpeed Wireless, Bluetooth, wired",
+    "colors": "Black, White",
+    "sensorDpi": 35000,
+    "weightG": 112,
+    "buttons": 11
+   },
+   "variants": [
+    {
+     "label": "Black",
+     "price": "159.99"
+    },
+    {
+     "label": "White",
+     "price": "159.99"
+    },
+    {
+     "label": "Phantom Green Edition",
+     "price": "169.99"
+    }
+   ],
+   "colors": [
+    "Black",
+    "White"
+   ],
+   "featured": false,
+   "warranty": 24,
+   "sources": {
+    "product": "https://www.razer.com/gaming-mice/razer-basilisk-v3-pro-35k",
+    "specs": "https://www.razer.com/gaming-mice/razer-basilisk-v3-pro-35k",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://medias-p1.phoenix.razer.com/sys-master-phoenix-images-container/h5a/h1c/9821720576030/basilisk-v3-pro-35k-500x500.png",
+    "page": "https://www.razer.com/gaming-mice/razer-basilisk-v3-pro-35k",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official Razer store studio image from razer.com (medias-p1.phoenix.razer.com). Razer publishes no larger clean studio image of this product (store gallery and newsroom assets are dark lifestyle scenes), so this 500x500 PNG is used with allowLowRes. Razer has not granted a reuse license — rights not verified.",
+    "credit": "Razer Inc.",
+    "alt": "Razer Basilisk V3 Pro 35K wireless gaming mouse in black with Chroma RGB underglow, top view",
+    "match": "EXACT",
+    "allowLowRes": true
+   }
+  },
+  {
+   "sku": "TK-RAZER-NAGAV3PRO",
+   "slug": "razer-naga-v3-pro",
+   "name": "Razer Naga V3 Pro",
+   "brand": "Razer",
+   "category": "mice",
+   "price": "179.99",
+   "priceBasis": "msrp",
+   "priceSource": "https://www.razer.com/gaming-mice/razer-naga-v3-pro",
+   "priceAsOf": "2026-09-28",
+   "summary": "Wireless MMO mouse with three swappable side plates, up to 23 programmable buttons and a Focus Pro 50K Gen-3 sensor.",
+   "description": "The Razer Naga V3 Pro ships with 12-, 6- and 2-button swappable side plates for MMO, MOBA and FPS play, giving up to 23 programmable buttons. It uses a Focus Pro 50K Optical Sensor Gen-3, Gen-4 optical switches and a HyperScroll tilt wheel, with up to 155 hours on HyperSpeed Wireless or 280 hours on Bluetooth.",
+   "keywords": "razer naga v3 pro mmo wireless mouse side plates 50k",
+   "specs": {
+    "connection": "Razer HyperSpeed Wireless, Bluetooth, wired",
+    "colors": "Black",
+    "sensorDpi": 50000,
+    "weightG": 117,
+    "buttons": 23
+   },
+   "colors": [
+    "Black"
+   ],
+   "featured": false,
+   "warranty": 24,
+   "sources": {
+    "product": "https://www.razer.com/gaming-mice/razer-naga-v3-pro",
+    "specs": "https://www.razer.com/gaming-mice/razer-naga-v3-pro",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://medias-p1.phoenix.razer.com/sys-master-phoenix-images-container/hf7/he7/10268566880286/naga-v3-pro-500x500.png",
+    "page": "https://www.razer.com/gaming-mice/razer-naga-v3-pro",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official Razer store studio image from razer.com (medias-p1.phoenix.razer.com). Razer publishes no larger clean studio image of this product (store gallery and newsroom assets are dark lifestyle scenes), so this 500x500 PNG is used with allowLowRes. Razer has not granted a reuse license — rights not verified.",
+    "credit": "Razer Inc.",
+    "alt": "Razer Naga V3 Pro wireless MMO gaming mouse in black, top view showing the side button panel",
+    "match": "EXACT",
+    "allowLowRes": true
+   }
+  },
+  {
+   "sku": "TK-RAZER-COBRAPRO",
+   "slug": "razer-cobra-pro",
+   "name": "Razer Cobra Pro",
+   "brand": "Razer",
+   "category": "mice",
+   "price": "129.99",
+   "priceBasis": "msrp",
+   "priceSource": "https://www.razer.com/gaming-mice/razer-cobra-pro",
+   "priceAsOf": "2026-09-28",
+   "priceNote": "Black was out of stock and White in stock on razer.com on the price date.",
+   "summary": "Compact 77 g wireless gaming mouse with multi-zone Chroma RGB underglow and a Focus Pro 30K sensor.",
+   "description": "The Razer Cobra Pro is a compact right-handed symmetrical mouse weighing 77 g with 8 programmable buttons and multi-zone Chroma RGB underglow. It combines a Focus Pro 30K Optical Sensor with Gen-3 optical switches and connects over HyperSpeed Wireless, Bluetooth or USB-C, with up to 100 hours on HyperSpeed.",
+   "keywords": "razer cobra pro compact wireless rgb gaming mouse 30k",
+   "specs": {
+    "connection": "Razer HyperSpeed Wireless, Bluetooth, wired USB-C",
+    "colors": "Black, White",
+    "sensorDpi": 30000,
+    "weightG": 77,
+    "buttons": 8
+   },
+   "colors": [
+    "Black",
+    "White"
+   ],
+   "featured": false,
+   "warranty": 24,
+   "sources": {
+    "product": "https://www.razer.com/gaming-mice/razer-cobra-pro",
+    "specs": "https://www.razer.com/gaming-mice/razer-cobra-pro",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://assets2.razerzone.com/images/pnx.assets/608eb80ec16513e41c1a62caf1fb9b55/razer-cobra-pro-hero.webp",
+    "page": "https://www.razer.com/gaming-mice/razer-cobra-pro",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official Razer product image from razer.com (assets2.razerzone.com); Razer has not granted a reuse license — rights not verified.",
+    "credit": "Razer Inc.",
+    "alt": "Razer Cobra Pro wireless gaming mouse in black, top-down view with Chroma RGB underglow",
+    "match": "EXACT"
+   }
+  },
+  {
+   "sku": "TK-RAZER-HUNTSMANV3PRO",
+   "slug": "razer-huntsman-v3-pro",
+   "name": "Razer Huntsman V3 Pro",
+   "brand": "Razer",
+   "category": "keyboards",
+   "price": "249.99",
+   "priceBasis": "msrp",
+   "priceSource": "https://www.razer.com/gaming-keyboards/razer-huntsman-v3-pro",
+   "priceAsOf": "2026-09-28",
+   "summary": "Full-size analog optical esports keyboard with Rapid Trigger, adjustable actuation and a magnetic leatherette wrist rest.",
+   "description": "The Razer Huntsman V3 Pro uses Razer Analog Optical Switches Gen-2 with adjustable actuation, Rapid Trigger Mode, Snap Tap and dual-step actuation. It has a 5052 brushed aluminum top case, doubleshot PBT keycaps, a multi-function dial with dedicated buttons, Chroma RGB and a magnetic firm leatherette wrist rest.",
+   "keywords": "razer huntsman v3 pro analog optical esports keyboard rapid trigger full size",
+   "specs": {
+    "connection": "Wired (detachable USB-C)",
+    "colors": "Black",
+    "layout": "Full size, US",
+    "switchType": "Razer Analog Optical Switch Gen-2",
+    "hotSwappable": false
+   },
+   "variants": [
+    {
+     "label": "Full size",
+     "price": "249.99"
+    },
+    {
+     "label": "Tenkeyless",
+     "price": "219.99"
+    },
+    {
+     "label": "Mini 60%",
+     "price": "179.99"
+    }
+   ],
+   "colors": [
+    "Black"
+   ],
+   "featured": false,
+   "warranty": 24,
+   "sources": {
+    "product": "https://www.razer.com/gaming-keyboards/razer-huntsman-v3-pro",
+    "specs": "https://www.razer.com/gaming-keyboards/razer-huntsman-v3-pro",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://medias-p1.phoenix.razer.com/sys-master-phoenix-images-container/hb8/h66/9705254125598/huntsman-v3-pro-2-500x500.png",
+    "page": "https://www.razer.com/gaming-keyboards/razer-huntsman-v3-pro",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official Razer store studio image from razer.com (medias-p1.phoenix.razer.com). Razer publishes no larger clean studio image of this product (store gallery and newsroom assets are dark lifestyle scenes), so this 500x500 PNG is used with allowLowRes. Razer has not granted a reuse license — rights not verified.",
+    "credit": "Razer Inc.",
+    "alt": "Razer Huntsman V3 Pro full-size analog optical keyboard with wrist rest, top view with RGB lighting",
+    "match": "EXACT",
+    "allowLowRes": true
+   }
+  },
+  {
+   "sku": "TK-RAZER-HUNTSMANV3PROTKL8K",
+   "slug": "razer-huntsman-v3-pro-tenkeyless-8khz",
+   "name": "Razer Huntsman V3 Pro Tenkeyless 8KHz",
+   "brand": "Razer",
+   "category": "keyboards",
+   "price": "219.99",
+   "priceBasis": "msrp",
+   "priceSource": "https://www.razer.com/gaming-keyboards/razer-huntsman-v3-pro-tenkeyless-8khz",
+   "priceAsOf": "2026-09-28",
+   "summary": "Tenkeyless analog optical esports keyboard with 8000 Hz polling, Rapid Trigger and 0.1-4.0 mm adjustable actuation.",
+   "description": "The Huntsman V3 Pro Tenkeyless 8KHz adds up to 8000 Hz polling to Razer's Analog Optical Switch Gen-2 keyboard. It supports Rapid Trigger, Snap Tap, Snap Flex, Dynamic Keystroke and 0.1-4.0 mm adjustable actuation, with doubleshot PBT keycaps, a multi-function dial and a magnetic leatherette wrist rest.",
+   "keywords": "razer huntsman v3 pro tkl 8khz analog optical rapid trigger esports keyboard",
+   "specs": {
+    "connection": "Wired (detachable USB-C)",
+    "colors": "Black, White",
+    "layout": "Tenkeyless, US",
+    "switchType": "Razer Analog Optical Switch Gen-2"
+   },
+   "variants": [
+    {
+     "label": "Black",
+     "price": "219.99"
+    },
+    {
+     "label": "White",
+     "price": "229.99"
+    },
+    {
+     "label": "Full size 8KHz (Black)",
+     "price": "249.99"
+    }
+   ],
+   "colors": [
+    "Black",
+    "White"
+   ],
+   "collections": [
+    "ultimate-gaming-setup"
+   ],
+   "featured": false,
+   "warranty": 24,
+   "sources": {
+    "product": "https://www.razer.com/gaming-keyboards/razer-huntsman-v3-pro-tenkeyless-8khz",
+    "specs": "https://www.razer.com/gaming-keyboards/razer-huntsman-v3-pro-tenkeyless-8khz",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://medias-p1.phoenix.razer.com/sys-master-phoenix-images-container/hb9/h24/9980311076894/huntsman-v3-pro-tkl-8khz-b-500x500.png",
+    "page": "https://www.razer.com/gaming-keyboards/razer-huntsman-v3-pro-tenkeyless-8khz",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official Razer store studio image from razer.com (medias-p1.phoenix.razer.com). Razer publishes no larger clean studio image of this product (store gallery and newsroom assets are dark lifestyle scenes), so this 500x500 PNG is used with allowLowRes. Razer has not granted a reuse license — rights not verified.",
+    "credit": "Razer Inc.",
+    "alt": "Razer Huntsman V3 Pro Tenkeyless 8KHz keyboard in black with wrist rest, top view with RGB lighting",
+    "match": "EXACT",
+    "allowLowRes": true
+   }
+  },
+  {
+   "sku": "TK-RAZER-HUNTSMANV3HE-TKL",
+   "slug": "razer-huntsman-v3-he-magnetic-tkl-8khz",
+   "name": "Razer Huntsman V3 HE Magnetic Tenkeyless 8KHz",
+   "brand": "Razer",
+   "category": "keyboards",
+   "price": "139.99",
+   "priceBasis": "msrp",
+   "priceSource": "https://www.razer.com/gaming-keyboards/razer-huntsman-v3-he-magnetic-8khz",
+   "priceAsOf": "2026-09-28",
+   "summary": "Tenkeyless Hall-effect magnetic esports keyboard with Rapid Trigger, 0.1-4.0 mm actuation and 8000 Hz polling.",
+   "description": "The Huntsman V3 HE Magnetic uses Razer Hall Effect Magnetic Switches with 0.1-4.0 mm adjustable actuation, Rapid Trigger Mode, Snap Tap, Snap Flex and analog input. It polls at up to 8000 Hz and has doubleshot PBT keycaps and an aluminum top case; a 65% version is also offered.",
+   "keywords": "razer huntsman v3 he magnetic hall effect keyboard rapid trigger 8khz tkl 65",
+   "specs": {
+    "connection": "Wired (detachable USB-C)",
+    "colors": "Black",
+    "layout": "Tenkeyless, US",
+    "switchType": "Razer Hall Effect Magnetic Switches (linear)"
+   },
+   "variants": [
+    {
+     "label": "Tenkeyless",
+     "price": "139.99"
+    },
+    {
+     "label": "Mini 65%",
+     "price": "119.99"
+    }
+   ],
+   "colors": [
+    "Black"
+   ],
+   "featured": false,
+   "warranty": 24,
+   "sources": {
+    "product": "https://www.razer.com/gaming-keyboards/razer-huntsman-v3-he-magnetic-8khz",
+    "specs": "https://www.razer.com/gaming-keyboards/razer-huntsman-v3-he-magnetic-8khz",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://medias-p1.phoenix.razer.com/sys-master-phoenix-images-container/h31/h01/10240652869662/huntsman-v3-he-mag-tkl-8k-500x500.png",
+    "page": "https://www.razer.com/gaming-keyboards/razer-huntsman-v3-he-magnetic-8khz",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official Razer store studio image from razer.com (medias-p1.phoenix.razer.com). Razer publishes no larger clean studio image of this product (store gallery and newsroom assets are dark lifestyle scenes), so this 500x500 PNG is used with allowLowRes. Razer has not granted a reuse license — rights not verified.",
+    "credit": "Razer Inc.",
+    "alt": "Razer Huntsman V3 HE Magnetic Tenkeyless 8KHz keyboard in black, top view with RGB lighting",
+    "match": "EXACT",
+    "allowLowRes": true
+   }
+  },
+  {
+   "sku": "TK-RAZER-BLACKWIDOWV4PRO",
+   "slug": "razer-blackwidow-v4-pro",
+   "name": "Razer BlackWidow V4 Pro",
+   "brand": "Razer",
+   "category": "keyboards",
+   "price": "229.99",
+   "priceBasis": "msrp",
+   "priceSource": "https://www.razer.com/gaming-keyboards/razer-blackwidow-v4-pro",
+   "priceAsOf": "2026-09-28",
+   "summary": "Full-size mechanical gaming keyboard with Razer Command Dial, dedicated macro keys, USB passthrough and Chroma RGB underglow.",
+   "description": "The Razer BlackWidow V4 Pro is a full-size mechanical keyboard offered with Green (clicky), Yellow (linear) or Orange (tactile) Razer switches. It has a 5052 aluminum top case, Razer Command Dial, dedicated media roller, macro keys and side buttons, USB passthrough, and a plush wrist rest with three-side underglow.",
+   "keywords": "razer blackwidow v4 pro mechanical keyboard command dial macro rgb",
+   "specs": {
+    "connection": "Wired (detachable USB-C)",
+    "colors": "Black, White",
+    "layout": "Full size, US",
+    "switchType": "Razer Green Mechanical (clicky); Yellow and Orange optional",
+    "mechanical": true
+   },
+   "variants": [
+    {
+     "label": "Green Switch - Black",
+     "price": "229.99"
+    },
+    {
+     "label": "Yellow Switch - Black",
+     "price": "229.99"
+    },
+    {
+     "label": "Orange Switch - Black",
+     "price": "229.99"
+    },
+    {
+     "label": "Green Switch - White",
+     "price": "229.99"
+    }
+   ],
+   "colors": [
+    "Black",
+    "White"
+   ],
+   "featured": false,
+   "warranty": 24,
+   "sources": {
+    "product": "https://www.razer.com/gaming-keyboards/razer-blackwidow-v4-pro",
+    "specs": "https://www.razer.com/gaming-keyboards/razer-blackwidow-v4-pro",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://medias-p1.phoenix.razer.com/sys-master-phoenix-images-container/h25/hdf/10045163929630/240510-BW-V4-Pro-White-500x500.png",
+    "page": "https://www.razer.com/gaming-keyboards/razer-blackwidow-v4-pro",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official Razer store studio image from razer.com (medias-p1.phoenix.razer.com). Razer publishes no larger clean studio image of this product (store gallery and newsroom assets are dark lifestyle scenes), so this 500x500 PNG is used with allowLowRes. Razer has not granted a reuse license — rights not verified.",
+    "credit": "Razer Inc.",
+    "alt": "Razer BlackWidow V4 Pro mechanical keyboard in white with wrist rest, top view with RGB lighting",
+    "match": "EXACT",
+    "allowLowRes": true
+   }
+  },
+  {
+   "sku": "TK-RAZER-BLACKWIDOWV4PRO75",
+   "slug": "razer-blackwidow-v4-pro-75",
+   "name": "Razer BlackWidow V4 Pro 75%",
+   "brand": "Razer",
+   "category": "keyboards",
+   "price": "299.99",
+   "priceBasis": "msrp",
+   "priceSource": "https://www.razer.com/gaming-keyboards/razer-blackwidow-v4-pro-75",
+   "priceAsOf": "2026-09-28",
+   "summary": "Wireless hot-swappable 75% mechanical keyboard with tactile Gen-3 switches, OLED Command Dial and three connection modes.",
+   "description": "The BlackWidow V4 Pro 75% is a hot-swappable mechanical keyboard with Razer Mechanical Switches Gen-3 (tactile), sound-dampening foams, lubricated screw-in stabilizers and doubleshot PBT keycaps. It connects over HyperSpeed Wireless, Bluetooth 5.1 or USB-C and includes a magnetic plush leatherette wrist rest.",
+   "keywords": "razer blackwidow v4 pro 75 wireless hot swappable mechanical keyboard",
+   "specs": {
+    "connection": "Razer HyperSpeed Wireless (2.4 GHz), Bluetooth 5.1, USB-C",
+    "colors": "Black",
+    "layout": "75%, US",
+    "switchType": "Razer Mechanical Switches Gen-3 (Tactile)",
+    "mechanical": true,
+    "hotSwappable": true
+   },
+   "colors": [
+    "Black"
+   ],
+   "collections": [
+    "ultimate-gaming-setup"
+   ],
+   "featured": false,
+   "warranty": 24,
+   "sources": {
+    "product": "https://www.razer.com/gaming-keyboards/razer-blackwidow-v4-pro-75",
+    "specs": "https://www.razer.com/gaming-keyboards/razer-blackwidow-v4-pro-75",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://medias-p1.phoenix.razer.com/sys-master-phoenix-images-container/he7/h76/9815507599390/bw-v4-pro-75-500x500.png",
+    "page": "https://www.razer.com/gaming-keyboards/razer-blackwidow-v4-pro-75",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official Razer store studio image from razer.com (medias-p1.phoenix.razer.com). Razer publishes no larger clean studio image of this product (store gallery and newsroom assets are dark lifestyle scenes), so this 500x500 PNG is used with allowLowRes. Razer has not granted a reuse license — rights not verified.",
+    "credit": "Razer Inc.",
+    "alt": "Razer BlackWidow V4 Pro 75% keyboard in black with wrist rest, top view with RGB lighting",
+    "match": "EXACT",
+    "allowLowRes": true
+   }
+  },
+  {
+   "sku": "TK-RAZER-BLACKSHARKV3",
+   "slug": "razer-blackshark-v3",
+   "name": "Razer BlackShark V3",
+   "brand": "Razer",
+   "category": "headsets",
+   "price": "149.99",
+   "priceBasis": "msrp",
+   "priceSource": "https://www.razer.com/gaming-headsets/razer-blackshark-v3",
+   "priceAsOf": "2026-09-28",
+   "summary": "270 g wireless esports headset with 50 mm titanium drivers, ultra-low-latency 2.4 GHz and up to 70 hours of battery.",
+   "description": "The Razer BlackShark V3 uses TriForce Titanium 50 mm Drivers Gen-2 in a 270 g headset with a detachable HyperClear Super Wideband mic. It connects over 2.4 GHz wireless, Bluetooth or USB and lasts up to 70 hours on 2.4 GHz.",
+   "keywords": "razer blackshark v3 wireless esports headset lightweight",
+   "specs": {
+    "connection": "2.4 GHz wireless, Bluetooth, USB wired",
+    "colors": "Black, White",
+    "noiseCancelling": false,
+    "batteryHours": 70,
+    "boomMic": true
+   },
+   "variants": [
+    {
+     "label": "PC",
+     "price": "149.99"
+    },
+    {
+     "label": "Xbox",
+     "price": "149.99"
+    },
+    {
+     "label": "PlayStation",
+     "price": "149.99"
+    }
+   ],
+   "colors": [
+    "Black",
+    "White"
+   ],
+   "featured": false,
+   "warranty": 24,
+   "sources": {
+    "product": "https://www.razer.com/gaming-headsets/razer-blackshark-v3",
+    "specs": "https://www.razer.com/gaming-headsets/razer-blackshark-v3",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://medias-p1.phoenix.razer.com/sys-master-phoenix-images-container/h0e/hb9/10023192723486/blackshark-v3-xbox-white-500x500.png",
+    "page": "https://www.razer.com/gaming-headsets/razer-blackshark-v3",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official Razer store studio image from razer.com (medias-p1.phoenix.razer.com). Razer publishes no larger clean studio image of this product (store gallery and newsroom assets are dark lifestyle scenes), so this 500x500 PNG is used with allowLowRes. Razer has not granted a reuse license — rights not verified.",
+    "credit": "Razer Inc.",
+    "alt": "Razer BlackShark V3 for Xbox wireless headset in white, side view with boom mic",
+    "match": "PRODUCT_LINE",
+    "allowLowRes": true
+   }
+  },
+  {
+   "sku": "TK-RAZER-KRAKENV4PRO",
+   "slug": "razer-kraken-v4-pro",
+   "name": "Razer Kraken V4 Pro",
+   "brand": "Razer",
+   "category": "headsets",
+   "price": "399.99",
+   "priceBasis": "msrp",
+   "priceSource": "https://www.razer.com/gaming-headsets/razer-kraken-v4-pro",
+   "priceAsOf": "2026-09-28",
+   "summary": "Wireless RGB gaming headset with Razer Sensa HD Haptics and an OLED Control Hub for switching sources and settings.",
+   "description": "The Razer Kraken V4 Pro combines TriForce Bio-Cellulose 40 mm drivers with Razer Sensa HD Haptics and Chroma RGB. An OLED Control Hub handles 2.4 GHz wireless and simultaneous Bluetooth 5.3, with USB and 3.5 mm wired options, and battery life is up to 50 hours with haptics and lighting off.",
+   "keywords": "razer kraken v4 pro haptics oled control hub wireless headset",
+   "specs": {
+    "connection": "2.4 GHz via OLED Control Hub, Bluetooth 5.3, USB-A, 3.5 mm",
+    "colors": "Black",
+    "noiseCancelling": false,
+    "batteryHours": 50,
+    "boomMic": true
+   },
+   "colors": [
+    "Black"
+   ],
+   "featured": false,
+   "warranty": 24,
+   "sources": {
+    "product": "https://www.razer.com/gaming-headsets/razer-kraken-v4-pro",
+    "specs": "https://www.razer.com/gaming-headsets/razer-kraken-v4-pro",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://medias-p1.phoenix.razer.com/sys-master-phoenix-images-container/he4/h1d/9821452468254/kraken-v4-pro-2-500x500.png",
+    "page": "https://www.razer.com/gaming-headsets/razer-kraken-v4-pro",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official Razer store studio image from razer.com (medias-p1.phoenix.razer.com). Razer publishes no larger clean studio image of this product (store gallery and newsroom assets are dark lifestyle scenes), so this 500x500 PNG is used with allowLowRes. Razer has not granted a reuse license — rights not verified.",
+    "credit": "Razer Inc.",
+    "alt": "Razer Kraken V4 Pro wireless headset in black with RGB earcup, side view",
+    "match": "EXACT",
+    "allowLowRes": true
+   }
+  },
+  {
+   "sku": "TK-RAZER-KRAKENV4",
+   "slug": "razer-kraken-v4",
+   "name": "Razer Kraken V4",
+   "brand": "Razer",
+   "category": "headsets",
+   "price": "179.99",
+   "priceBasis": "msrp",
+   "priceSource": "https://www.razer.com/gaming-headsets/razer-kraken-v4",
+   "priceAsOf": "2026-09-28",
+   "summary": "Wireless Chroma RGB gaming headset with 40 mm titanium drivers, retractable mic and up to 70 hours of battery.",
+   "description": "The Razer Kraken V4 uses TriForce Titanium 40 mm drivers with breathable fabric memory-foam cushions and Chroma RGB lighting. It connects via a 2.4 GHz USB-C dongle or Bluetooth 5.3, has a retractable HyperClear Super Wideband mic, and runs up to 70 hours with lighting off.",
+   "keywords": "razer kraken v4 wireless rgb gaming headset",
+   "specs": {
+    "connection": "2.4 GHz USB-C dongle, Bluetooth 5.3, USB-A wired",
+    "colors": "Black",
+    "noiseCancelling": false,
+    "batteryHours": 70,
+    "boomMic": true
+   },
+   "colors": [
+    "Black"
+   ],
+   "featured": false,
+   "warranty": 24,
+   "sources": {
+    "product": "https://www.razer.com/gaming-headsets/razer-kraken-v4",
+    "specs": "https://www.razer.com/gaming-headsets/razer-kraken-v4",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://medias-p1.phoenix.razer.com/sys-master-phoenix-images-container/h3b/h1e/9821452435486/kraken-v4-2-500x500.png",
+    "page": "https://www.razer.com/gaming-headsets/razer-kraken-v4",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official Razer store studio image from razer.com (medias-p1.phoenix.razer.com). Razer publishes no larger clean studio image of this product (store gallery and newsroom assets are dark lifestyle scenes), so this 500x500 PNG is used with allowLowRes. Razer has not granted a reuse license — rights not verified.",
+    "credit": "Razer Inc.",
+    "alt": "Razer Kraken V4 wireless headset in black with RGB earcup, side view",
+    "match": "EXACT",
+    "allowLowRes": true
+   }
+  },
+  {
+   "sku": "TK-RAZER-WOLVERINEV3PRO",
+   "slug": "razer-wolverine-v3-pro",
+   "name": "Razer Wolverine V3 Pro",
+   "brand": "Razer",
+   "category": "controllers",
+   "price": "199.99",
+   "priceBasis": "msrp",
+   "priceSource": "https://www.razer.com/console-controllers/razer-wolverine-v3-pro",
+   "priceAsOf": "2026-09-28",
+   "summary": "Wireless esports controller for Xbox and PC with Hall Effect thumbsticks and triggers, 4 back buttons and mouse-click trigger stops.",
+   "description": "The Razer Wolverine V3 Pro is a wireless esports controller for Xbox Series X|S and PC. It has anti-drift Hall Effect analog thumbsticks, Hall Effect triggers with mouse-click trigger stops, Mecha-Tactile action buttons, four back buttons and two bumpers, and about 20 hours of battery life.",
+   "keywords": "razer wolverine v3 pro xbox pc wireless pro controller hall effect",
+   "specs": {
+    "platform": "Xbox Series X|S, PC",
+    "connectivity": "HyperSpeed Wireless dongle, wired USB-C",
+    "battery": "About 20 hours",
+    "weightG": 304,
+    "colors": "Black, White"
+   },
+   "variants": [
+    {
+     "label": "Black",
+     "price": "199.99"
+    },
+    {
+     "label": "White",
+     "price": "199.99"
+    },
+    {
+     "label": "Esports Green Edition",
+     "price": "209.99"
+    }
+   ],
+   "colors": [
+    "Black",
+    "White"
+   ],
+   "collections": [
+    "ultimate-gaming-setup"
+   ],
+   "featured": false,
+   "warranty": 12,
+   "sources": {
+    "product": "https://www.razer.com/console-controllers/razer-wolverine-v3-pro",
+    "specs": "https://www.razer.com/console-controllers/razer-wolverine-v3-pro",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://medias-p1.phoenix.razer.com/sys-master-phoenix-images-container/h2f/h9d/9809965056030/wolverine-v3-pro-500x500.png",
+    "page": "https://www.razer.com/console-controllers/razer-wolverine-v3-pro",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official Razer store studio image from razer.com (medias-p1.phoenix.razer.com). Razer publishes no larger clean studio image of this product (store gallery and newsroom assets are dark lifestyle scenes), so this 500x500 PNG is used with allowLowRes. Razer has not granted a reuse license — rights not verified.",
+    "credit": "Razer Inc.",
+    "alt": "Razer Wolverine V3 Pro wireless controller for Xbox and PC in black, front view",
+    "match": "EXACT",
+    "allowLowRes": true
+   }
+  },
+  {
+   "sku": "TK-RAZER-WOLVERINEV3PRO8K",
+   "slug": "razer-wolverine-v3-pro-8k-pc",
+   "name": "Razer Wolverine V3 Pro 8K PC",
+   "brand": "Razer",
+   "category": "controllers",
+   "price": "199.99",
+   "priceBasis": "msrp",
+   "priceSource": "https://www.razer.com/console-controllers/razer-wolverine-v3-pro-8k-pc",
+   "priceAsOf": "2026-09-28",
+   "summary": "Wireless PC esports controller with TMR analog thumbsticks, Hall Effect triggers and 4 mouse-click back buttons.",
+   "description": "The Wolverine V3 Pro 8K PC is Razer's PC-focused version of its pro controller. It uses TMR analog thumbsticks, two Hall Effect analog triggers with mouse-click trigger stops, Mecha-Tactile PBT action buttons, four back buttons and two claw-grip bumpers, and weighs 220 g.",
+   "keywords": "razer wolverine v3 pro 8k pc controller tmr thumbsticks wireless",
+   "specs": {
+    "platform": "PC",
+    "connectivity": "Wireless",
+    "weightG": 220,
+    "colors": "Black"
+   },
+   "variants": [
+    {
+     "label": "Black",
+     "price": "199.99"
+    },
+    {
+     "label": "Esports Green Edition",
+     "price": "209.99"
+    }
+   ],
+   "colors": [
+    "Black"
+   ],
+   "featured": false,
+   "warranty": 12,
+   "sources": {
+    "product": "https://www.razer.com/console-controllers/razer-wolverine-v3-pro-8k-pc",
+    "specs": "https://www.razer.com/console-controllers/razer-wolverine-v3-pro-8k-pc",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://medias-p1.phoenix.razer.com/sys-master-phoenix-images-container/h6e/h3a/9945965625374/wolverine-v3-pro-8k-pc-black-500x500.png",
+    "page": "https://www.razer.com/console-controllers/razer-wolverine-v3-pro-8k-pc",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official Razer store studio image from razer.com (medias-p1.phoenix.razer.com). Razer publishes no larger clean studio image of this product (store gallery and newsroom assets are dark lifestyle scenes), so this 500x500 PNG is used with allowLowRes. Razer has not granted a reuse license — rights not verified.",
+    "credit": "Razer Inc.",
+    "alt": "Razer Wolverine V3 Pro 8K PC wireless controller in black, front view",
+    "match": "EXACT",
+    "allowLowRes": true
+   }
+  },
+  {
+   "sku": "TK-RAZER-KISHIV3PRO",
+   "slug": "razer-kishi-v3-pro",
+   "name": "Razer Kishi V3 Pro",
+   "brand": "Razer",
+   "category": "controllers",
+   "price": "149.99",
+   "priceBasis": "msrp",
+   "priceSource": "https://www.razer.com/mobile-controllers/razer-kishi-v3-pro",
+   "priceAsOf": "2026-09-28",
+   "summary": "USB-C mobile gaming controller with haptics, clickable thumbsticks and 4 multi-function buttons for phones, mini tablets and PC.",
+   "description": "The Razer Kishi V3 Pro turns an Android phone, iPhone or iPad mini into a handheld with console-style controls and haptic feedback. It connects over USB-C with pass-through charging, has Mecha-Tactile action buttons and four multi-function buttons, and weighs 268 g.",
+   "keywords": "razer kishi v3 pro mobile controller usb-c iphone android haptics",
+   "specs": {
+    "platform": "Android 14+, iOS 18, Windows 11",
+    "connectivity": "USB-C (pass-through charging)",
+    "weightG": 268,
+    "colors": "Black"
+   },
+   "colors": [
+    "Black"
+   ],
+   "featured": false,
+   "warranty": 12,
+   "sources": {
+    "product": "https://www.razer.com/mobile-controllers/razer-kishi-v3-pro",
+    "specs": "https://www.razer.com/mobile-controllers/razer-kishi-v3-pro",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://medias-p1.phoenix.razer.com/sys-master-phoenix-images-container/h11/h47/9918940315678/kishi-v3-pro-500x500.png",
+    "page": "https://www.razer.com/mobile-controllers/razer-kishi-v3-pro",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official Razer store studio image from razer.com (medias-p1.phoenix.razer.com). Razer publishes no larger clean studio image of this product (store gallery and newsroom assets are dark lifestyle scenes), so this 500x500 PNG is used with allowLowRes. Razer has not granted a reuse license — rights not verified.",
+    "credit": "Razer Inc.",
+    "alt": "Razer Kishi V3 Pro mobile gaming controller in black holding a phone, front view",
+    "match": "EXACT",
+    "allowLowRes": true
+   }
+  },
+  {
+   "sku": "TK-RAZER-SEIRENV3PRO",
+   "slug": "razer-seiren-v3-pro",
+   "name": "Razer Seiren V3 Pro",
+   "brand": "Razer",
+   "category": "microphones",
+   "price": "249.99",
+   "priceBasis": "msrp",
+   "priceSource": "https://www.razer.com/streaming-microphones/razer-seiren-v3-pro",
+   "priceAsOf": "2026-09-28",
+   "summary": "Dynamic streaming microphone with USB-C and XLR outputs, 32-bit float recording and a zinc unibody.",
+   "description": "The Razer Seiren V3 Pro is a dynamic cardioid microphone with a 30 mm capsule, USB-C or XLR connection, up to 96 kHz / 32-bit recording (32-bit float via Synapse on Windows) and 40 dB of adjustable gain. It has a touch mute button with LED indicator and a 5/8-27 threaded mount.",
+   "keywords": "razer seiren v3 pro dynamic xlr usb-c streaming podcast microphone",
+   "specs": {
+    "connection": "USB-C or XLR",
+    "colors": "Black",
+    "micType": "Dynamic (30 mm capsule)",
+    "polarPattern": "Cardioid"
+   },
+   "colors": [
+    "Black"
+   ],
+   "collections": [
+    "creator-workstations"
+   ],
+   "featured": false,
+   "warranty": 12,
+   "sources": {
+    "product": "https://www.razer.com/streaming-microphones/razer-seiren-v3-pro",
+    "specs": "https://www.razer.com/streaming-microphones/razer-seiren-v3-pro",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://medias-p1.phoenix.razer.com/sys-master-phoenix-images-container/hde/hcb/10095774433310/seiren-v3-pro-black-500x500.png",
+    "page": "https://www.razer.com/streaming-microphones/razer-seiren-v3-pro",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official Razer store studio image from razer.com (medias-p1.phoenix.razer.com). Razer publishes no larger clean studio image of this product (store gallery and newsroom assets are dark lifestyle scenes), so this 500x500 PNG is used with allowLowRes. Razer has not granted a reuse license — rights not verified.",
+    "credit": "Razer Inc.",
+    "alt": "Razer Seiren V3 Pro streaming microphone in black on its stand, front view",
+    "match": "EXACT",
+    "allowLowRes": true
+   }
+  },
+  {
+   "sku": "TK-RAZER-KIYOV2PRO",
+   "slug": "razer-kiyo-v2-pro",
+   "name": "Razer Kiyo V2 Pro",
+   "brand": "Razer",
+   "category": "webcams",
+   "price": "299.99",
+   "priceBasis": "msrp",
+   "priceSource": "https://www.razer.com/streaming-cameras/razer-kiyo-v2-pro",
+   "priceAsOf": "2026-09-28",
+   "summary": "4K 60 fps AI webcam with an 8.3 MP Sony STARVIS 2 sensor, HDR and built-in privacy shutter.",
+   "description": "The Razer Kiyo V2 Pro records up to 4K at 60 fps using an 8.3 MP Sony STARVIS 2 sensor with an 86-degree configurable field of view, auto/manual focus and HDR at 30 fps. It connects via USB-C (USB 3.0), mounts on an L-shape mount with a 1/4-inch tripod thread and has a built-in privacy shutter.",
+   "keywords": "razer kiyo v2 pro 4k 60fps webcam streaming starvis 2",
+   "specs": {
+    "connection": "USB-C (USB 3.0)",
+    "colors": "Black",
+    "resolution": "4K (3840x2160)",
+    "fps": 60,
+    "privacyShutter": true
+   },
+   "colors": [
+    "Black"
+   ],
+   "collections": [
+    "creator-workstations"
+   ],
+   "featured": false,
+   "warranty": 12,
+   "sources": {
+    "product": "https://www.razer.com/streaming-cameras/razer-kiyo-v2-pro",
+    "specs": "https://www.razer.com/streaming-cameras/razer-kiyo-v2-pro",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://medias-p1.phoenix.razer.com/sys-master-phoenix-images-container/he6/h51/10411896274974/kiyo-v2-pro-500x500.png",
+    "page": "https://www.razer.com/streaming-cameras/razer-kiyo-v2-pro",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official Razer store studio image from razer.com (medias-p1.phoenix.razer.com). Razer publishes no larger clean studio image of this product (store gallery and newsroom assets are dark lifestyle scenes), so this 500x500 PNG is used with allowLowRes. Razer has not granted a reuse license — rights not verified.",
+    "credit": "Razer Inc.",
+    "alt": "Razer Kiyo V2 Pro 4K streaming webcam in black, front view",
+    "match": "EXACT",
+    "allowLowRes": true
+   }
+  },
+  {
+   "sku": "TK-RAZER-KIYOV2",
+   "slug": "razer-kiyo-v2",
+   "name": "Razer Kiyo V2",
+   "brand": "Razer",
+   "category": "webcams",
+   "price": "149.99",
+   "priceBasis": "msrp",
+   "priceSource": "https://www.razer.com/streaming-cameras/razer-kiyo-v2",
+   "priceAsOf": "2026-09-28",
+   "summary": "4K 30 fps AI webcam with an 8.3 MP Sony STARVIS sensor, stereo mics and privacy shutter.",
+   "description": "The Razer Kiyo V2 records 4K at 30 fps or 1080p at 60 fps with an 8.3 MP Sony STARVIS sensor and 93-degree configurable field of view. It adds a noise-cancelling stereo microphone, HDR at 30 fps, AI auto-framing and a built-in privacy shutter, and connects over USB-C.",
+   "keywords": "razer kiyo v2 4k webcam streaming video calls",
+   "specs": {
+    "connection": "USB-C (USB 3.0)",
+    "colors": "Black, White, Quartz",
+    "resolution": "4K (3840x2160)",
+    "fps": 30,
+    "privacyShutter": true
+   },
+   "colors": [
+    "Black",
+    "White",
+    "Quartz"
+   ],
+   "featured": false,
+   "warranty": 12,
+   "sources": {
+    "product": "https://www.razer.com/streaming-cameras/razer-kiyo-v2",
+    "specs": "https://www.razer.com/streaming-cameras/razer-kiyo-v2",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://medias-p1.phoenix.razer.com/sys-master-phoenix-images-container/h3b/h50/10332868771870/kiyo-v2-b-2-500x500.png",
+    "page": "https://www.razer.com/streaming-cameras/razer-kiyo-v2",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official Razer store studio image from razer.com (medias-p1.phoenix.razer.com). Razer publishes no larger clean studio image of this product (store gallery and newsroom assets are dark lifestyle scenes), so this 500x500 PNG is used with allowLowRes. Razer has not granted a reuse license — rights not verified.",
+    "credit": "Razer Inc.",
+    "alt": "Razer Kiyo V2 4K webcam in black, front view",
+    "match": "EXACT",
+    "allowLowRes": true
+   }
+  },
+  {
+   "sku": "TK-RAZER-TB5-DOCK",
+   "slug": "razer-thunderbolt-5-dock-chroma",
+   "name": "Razer Thunderbolt 5 Dock Chroma",
+   "brand": "Razer",
+   "category": "docks-adapters",
+   "price": "399.99",
+   "priceBasis": "msrp",
+   "priceSource": "https://www.razer.com/gaming-pc-accessories/razer-thunderbolt-5-dock",
+   "priceAsOf": "2026-09-28",
+   "summary": "11-in-1 Thunderbolt 5 dock with three 80 Gbps downstream ports, an M.2 SSD slot, 140 W charging and triple 4K 144 Hz display support.",
+   "description": "The Razer Thunderbolt 5 Dock Chroma provides three downstream Thunderbolt 5 ports (80 Gbps), USB-C and USB-A 3.2 Gen 2, Gigabit Ethernet, a UHS-II SD reader and 3.5 mm audio. A built-in M.2 2280 PCIe 4.0 x4 slot adds up to 8 TB of storage, it drives up to three displays (up to 8K 60 Hz or 4K 144 Hz) and delivers up to 140 W to the host from its included 250 W adapter.",
+   "keywords": "razer thunderbolt 5 dock chroma m.2 ssd triple 4k 144hz 140w",
+   "specs": {
+    "interface": "Thunderbolt 5 (80 Gbps)",
+    "powerDeliveryW": 140
+   },
+   "variants": [
+    {
+     "label": "Chroma - Black",
+     "price": "399.99"
+    },
+    {
+     "label": "Mercury",
+     "price": "389.99"
+    }
+   ],
+   "colors": [
+    "Black",
+    "Mercury"
+   ],
+   "collections": [
+    "developer-setup"
+   ],
+   "featured": false,
+   "warranty": 12,
+   "sources": {
+    "product": "https://www.razer.com/gaming-pc-accessories/razer-thunderbolt-5-dock",
+    "specs": "https://www.razer.com/gaming-pc-accessories/razer-thunderbolt-5-dock",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://medias-p1.phoenix.razer.com/sys-master-phoenix-images-container/h8a/ha6/9932979666974/thunderbolt-5-dock-chroma-500x500.png",
+    "page": "https://www.razer.com/gaming-pc-accessories/razer-thunderbolt-5-dock",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official Razer store studio image from razer.com (medias-p1.phoenix.razer.com). Razer publishes no larger clean studio image of this product (store gallery and newsroom assets are dark lifestyle scenes), so this 500x500 PNG is used with allowLowRes. Razer has not granted a reuse license — rights not verified.",
+    "credit": "Razer Inc.",
+    "alt": "Razer Thunderbolt 5 Dock Chroma in black with RGB underglow, top view with cables",
+    "match": "EXACT",
+    "allowLowRes": true
+   }
+  },
+  {
+   "sku": "TK-RAZER-COREXV2",
+   "slug": "razer-core-x-v2",
+   "name": "Razer Core X V2",
+   "brand": "Razer",
+   "category": "docks-adapters",
+   "price": "349.99",
+   "priceBasis": "msrp",
+   "priceSource": "https://www.razer.com/gaming-egpus/razer-core-x-v2",
+   "priceAsOf": "2026-09-28",
+   "summary": "Thunderbolt 5 external graphics enclosure for up to 4-slot, full-length desktop GPUs with 140 W laptop charging.",
+   "description": "The Razer Core X V2 is an eGPU enclosure that connects to Thunderbolt 5, Thunderbolt 4 or USB4 hosts with external graphics support. It fits up to 4-slot wide, full-length PCIe x16 graphics cards over a PCIe 4.0 x4 link, charges the laptop at up to 140 W and includes a 1 m Thunderbolt 5 cable; the graphics card and desktop ATX power supply are sold separately.",
+   "keywords": "razer core x v2 egpu thunderbolt 5 external graphics enclosure",
+   "specs": {
+    "interface": "Thunderbolt 5 (USB-C), PCIe 4.0 x4 slot",
+    "powerDeliveryW": 140
+   },
+   "colors": [
+    "Black"
+   ],
+   "collections": [
+    "ultimate-gaming-setup"
+   ],
+   "featured": false,
+   "warranty": 12,
+   "sources": {
+    "product": "https://www.razer.com/gaming-egpus/razer-core-x-v2",
+    "specs": "https://www.razer.com/gaming-egpus/razer-core-x-v2",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://medias-p1.phoenix.razer.com/sys-master-phoenix-images-container/h8a/haf/9934884143134/core-x-v2-black-500x500.png",
+    "page": "https://www.razer.com/gaming-egpus/razer-core-x-v2",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official Razer store studio image from razer.com (medias-p1.phoenix.razer.com). Razer publishes no larger clean studio image of this product (store gallery and newsroom assets are dark lifestyle scenes), so this 500x500 PNG is used with allowLowRes. Razer has not granted a reuse license — rights not verified.",
+    "credit": "Razer Inc.",
+    "alt": "Razer Core X V2 Thunderbolt 5 external GPU enclosure in black, angled view",
+    "match": "EXACT",
+    "allowLowRes": true
+   }
+  },
+  {
+   "sku": "TK-LG-OLED65G6",
+   "slug": "lg-oled-evo-g6-65-2026",
+   "name": "LG OLED evo AI G6 65\" 4K Smart TV (2026, OLED65G6WUA)",
+   "brand": "LG",
+   "category": "oled-tvs",
+   "price": "3399.99",
+   "priceBasis": "msrp",
+   "priceSource": "https://www.lg.com/us/tvs/lg-oled65g6wua-oled-4k-tv",
+   "priceAsOf": "2026-09-28",
+   "priceNote": "LG.com sale price $2,799.99 on 2026-09-28 (list price shown).",
+   "releaseYear": 2026,
+   "summary": "LG's brightest OLED, with Hyper Radiant Color tandem four-stack panel tech, Brightness Booster Ultra and a 165 Hz VRR gaming spec.",
+   "description": "The 2026 LG OLED evo G6 uses Hyper Radiant Color technology with a tandem four-stack panel and Brightness Booster Ultra, which LG says makes it up to 3.9x brighter than a regular OLED. It runs on the α11 AI Processor 4K Gen3 with webOS 26, supports Dolby Vision and Dolby Atmos, and offers 4K 120 Hz native with VRR up to 165 Hz and NVIDIA G-Sync compatibility. It ships with a supplied wall mount and carries a 5-year panel warranty.",
+   "keywords": "lg oled evo g6 2026 65 inch 4k tv gallery wall mount 165hz",
+   "specs": {
+    "sizeIn": 65,
+    "sizes": "55, 65, 77, 83, 97 in",
+    "resolution": "3840x2160",
+    "panel": "OLED evo (Hyper Radiant Color, Brightness Booster Ultra)",
+    "refreshHz": 120,
+    "hdr": "Dolby Vision, HDR10, HLG",
+    "processor": "α11 AI Processor 4K Gen3",
+    "gaming": "VRR up to 165 Hz, G-Sync compatible, ALLM, <0.1 ms response, 4x HDMI 4K 120 Hz",
+    "smartPlatform": "webOS 26",
+    "audio": "4.2 channel, Dolby Atmos"
+   },
+   "variants": [
+    {
+     "label": "55\"",
+     "price": "2499.99"
+    },
+    {
+     "label": "65\"",
+     "price": "3399.99"
+    },
+    {
+     "label": "77\"",
+     "price": "4499.99"
+    },
+    {
+     "label": "83\"",
+     "price": "6499.99"
+    },
+    {
+     "label": "97\"",
+     "price": "24999.99"
+    }
+   ],
+   "collections": [
+    "oled-displays",
+    "dream-gaming"
+   ],
+   "featured": true,
+   "warranty": 12,
+   "sources": {
+    "product": "https://www.lg.com/us/tvs/lg-oled65g6wua-oled-4k-tv",
+    "specs": "https://www.lg.com/us/tvs/lg-oled65g6wua-oled-4k-tv",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://media.us.lg.com/transform/ecomm-PDPGalleryZoom-1600x1062/7607d5e2-310a-4ffb-9090-b61525e13ae9/TVs_OLED65G6WUA_gallery-02_3000x3000",
+    "page": "https://www.lg.com/us/tvs/lg-oled65g6wua-oled-4k-tv",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official LG.com US product gallery image (media.us.lg.com); LG has not granted a reuse license — rights not verified.",
+    "credit": "LG Electronics",
+    "alt": "LG OLED evo G6 65-inch TV, angled front view with colorful abstract artwork on screen",
+    "match": "EXACT"
+   }
+  },
+  {
+   "sku": "TK-LG-OLED65C6",
+   "slug": "lg-oled-evo-c6-65-2026",
+   "name": "LG OLED evo AI C6 65\" 4K Smart TV (2026, OLED65C6PUA)",
+   "brand": "LG",
+   "category": "oled-tvs",
+   "price": "2699.99",
+   "priceBasis": "msrp",
+   "priceSource": "https://www.lg.com/us/tvs/lg-oled65c6pua-oled-4k-tv",
+   "priceAsOf": "2026-09-28",
+   "priceNote": "LG.com sale price $1,599.99 on 2026-09-28 (list price shown).",
+   "releaseYear": 2026,
+   "summary": "LG's best-selling OLED line for 2026, with Brightness Booster, α11 AI Processor Gen3 and 4K 165 Hz VRR gaming.",
+   "description": "The 2026 LG OLED evo C6 features over 8.3 million self-lit pixels with Perfect Black and Perfect Color, Brightness Booster and the α11 AI Processor 4K Gen3. It supports Dolby Vision, Dolby Atmos and FILMMAKER MODE, and gamers get 120 Hz native with VRR up to 165 Hz, G-Sync compatibility and four HDMI 4K 120 Hz inputs. It runs webOS 26.",
+   "keywords": "lg oled evo c6 2026 65 inch 4k tv gaming 165hz",
+   "specs": {
+    "sizeIn": 65,
+    "sizes": "42, 48, 55, 65, 77, 83 in",
+    "resolution": "3840x2160",
+    "panel": "OLED evo (Brightness Booster)",
+    "refreshHz": 120,
+    "hdr": "Dolby Vision, HDR10, HLG",
+    "processor": "α11 AI Processor 4K Gen3",
+    "gaming": "VRR up to 165 Hz, G-Sync compatible, ALLM, HGIG, <0.1 ms response, 4x HDMI 4K 120 Hz",
+    "smartPlatform": "webOS 26",
+    "audio": "2.2 channel, Dolby Atmos"
+   },
+   "variants": [
+    {
+     "label": "42\"",
+     "price": "1399.99"
+    },
+    {
+     "label": "48\"",
+     "price": "1599.99"
+    },
+    {
+     "label": "55\"",
+     "price": "1999.99"
+    },
+    {
+     "label": "65\"",
+     "price": "2699.99"
+    },
+    {
+     "label": "77\"",
+     "price": "3699.99"
+    },
+    {
+     "label": "83\"",
+     "price": "5299.99"
+    }
+   ],
+   "collections": [
+    "oled-displays",
+    "ultimate-gaming-setup"
+   ],
+   "featured": true,
+   "warranty": 12,
+   "sources": {
+    "product": "https://www.lg.com/us/tvs/lg-oled65c6pua-oled-4k-tv",
+    "specs": "https://www.lg.com/us/tvs/lg-oled65c6pua-oled-4k-tv",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://media.us.lg.com/transform/ecomm-PDPGalleryZoom-1600x1062/2d2188e8-c041-4b39-97ef-4c96aee29a28/TVs_OLED65C6PUA_gallery-02_3000x3000",
+    "page": "https://www.lg.com/us/tvs/lg-oled65c6pua-oled-4k-tv",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official LG.com US product gallery image (media.us.lg.com); LG has not granted a reuse license — rights not verified.",
+    "credit": "LG Electronics",
+    "alt": "LG OLED evo C6 65-inch TV on its stand, angled front view with colorful abstract artwork on screen",
+    "match": "EXACT"
+   }
+  },
+  {
+   "sku": "TK-LG-OLED65B6",
+   "slug": "lg-oled-evo-b6-65-2026",
+   "name": "LG OLED evo AI B6 65\" 4K Smart TV (2026, OLED65B6AUA)",
+   "brand": "LG",
+   "category": "oled-tvs",
+   "price": "1999.99",
+   "priceBasis": "msrp",
+   "priceSource": "https://www.lg.com/us/tvs/lg-oled65b6aua-oled-4k-tv",
+   "priceAsOf": "2026-09-28",
+   "releaseYear": 2026,
+   "summary": "Entry point to LG's 2026 OLED range with self-lit pixels, α8 AI Processor Gen3 and 4K 120 Hz gaming.",
+   "description": "The 2026 LG OLED evo B6 has over 8.3 million self-lit pixels with Perfect Black, powered by the α8 AI Processor 4K Gen3 and webOS 26. It supports Dolby Vision and Dolby Atmos, and offers 120 Hz native refresh with VRR, G-Sync compatibility and four HDMI 4K 120 Hz inputs.",
+   "keywords": "lg oled b6 2026 65 inch 4k tv",
+   "specs": {
+    "sizeIn": 65,
+    "sizes": "65, 77, 83 in",
+    "resolution": "3840x2160",
+    "panel": "OLED",
+    "refreshHz": 120,
+    "hdr": "Dolby Vision, HDR10, HLG",
+    "processor": "α8 AI Processor 4K Gen3",
+    "gaming": "VRR up to 120 Hz, G-Sync compatible, ALLM, <0.1 ms response, 4x HDMI 4K 120 Hz",
+    "smartPlatform": "webOS 26",
+    "audio": "2.0 channel, Dolby Atmos"
+   },
+   "variants": [
+    {
+     "label": "65\"",
+     "price": "1999.99"
+    },
+    {
+     "label": "77\"",
+     "price": "2799.99"
+    },
+    {
+     "label": "83\"",
+     "price": "4299.99"
+    }
+   ],
+   "collections": [
+    "oled-displays"
+   ],
+   "featured": false,
+   "warranty": 12,
+   "sources": {
+    "product": "https://www.lg.com/us/tvs/lg-oled65b6aua-oled-4k-tv",
+    "specs": "https://www.lg.com/us/tvs/lg-oled65b6aua-oled-4k-tv",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://media.us.lg.com/transform/ecomm-PDPGalleryZoom-1600x1062/40897fa2-cbb1-430a-ab66-f8c39d5626ca/TVs_OLED65B6AUA_gallery-02_3000x3000",
+    "page": "https://www.lg.com/us/tvs/lg-oled65b6aua-oled-4k-tv",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official LG.com US product gallery image (media.us.lg.com); LG has not granted a reuse license — rights not verified.",
+    "credit": "LG Electronics",
+    "alt": "LG OLED B6 65-inch TV on its feet, angled front view with colorful artwork on screen",
+    "match": "EXACT"
+   }
+  },
+  {
+   "sku": "TK-LG-OLED77W6",
+   "slug": "lg-oled-evo-w6-wallpaper-77-2026",
+   "name": "LG OLED evo AI W6 Wallpaper 77\" 4K Smart TV (2026, OLED77W6PUA)",
+   "brand": "LG",
+   "category": "oled-tvs",
+   "price": "5499.99",
+   "priceBasis": "msrp",
+   "priceSource": "https://www.lg.com/us/tvs/lg-oled77w6pua-oled-4k-tv",
+   "priceAsOf": "2026-09-28",
+   "priceNote": "LG.com sale price $4,299.99 on 2026-09-28 (list price shown).",
+   "releaseYear": 2026,
+   "summary": "Ultra-thin Wallpaper OLED that sits flush on the wall, with a wireless Zero Connect box and Hyper Radiant Color panel tech.",
+   "description": "The LG OLED evo W6 Wallpaper TV mounts flush to the wall and receives picture and sound wirelessly from the Zero Connect box, with TUV Rheinland-certified True Wireless Lossless 4K transfer. It uses Hyper Radiant Color panel technology, the α11 AI Processor 4K Gen3 and webOS 26, supports Dolby Vision and Dolby Atmos, and offers VRR up to 165 Hz.",
+   "keywords": "lg oled evo w6 wallpaper tv 2026 77 inch wireless zero connect",
+   "specs": {
+    "sizeIn": 77,
+    "sizes": "77, 83 in",
+    "resolution": "3840x2160",
+    "panel": "OLED evo (Hyper Radiant Color), Wallpaper design",
+    "refreshHz": 120,
+    "hdr": "Dolby Vision, HDR10, HLG",
+    "processor": "α11 AI Processor 4K Gen3",
+    "gaming": "VRR up to 165 Hz, G-Sync compatible, <0.1 ms response, 4x HDMI 4K 120 Hz (Zero Connect box)",
+    "smartPlatform": "webOS 26",
+    "audio": "4.2 channel, Dolby Atmos"
+   },
+   "variants": [
+    {
+     "label": "77\"",
+     "price": "5499.99"
+    },
+    {
+     "label": "83\"",
+     "price": "7499.99"
+    }
+   ],
+   "collections": [
+    "oled-displays"
+   ],
+   "featured": false,
+   "warranty": 12,
+   "sources": {
+    "product": "https://www.lg.com/us/tvs/lg-oled77w6pua-oled-4k-tv",
+    "specs": "https://www.lg.com/us/tvs/lg-oled77w6pua-oled-4k-tv",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://media.us.lg.com/transform/ecomm-PDPGalleryZoom-1600x1062/2aa003eb-5b49-487a-b70f-db2655b0b425/TV-OLED77W6PUA-gallery-03_3000x3000",
+    "page": "https://www.lg.com/us/tvs/lg-oled77w6pua-oled-4k-tv",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official LG.com US product gallery image (media.us.lg.com); LG has not granted a reuse license — rights not verified.",
+    "credit": "LG Electronics",
+    "alt": "LG OLED evo W6 Wallpaper TV 77-inch, front view with the Zero Connect box below",
+    "match": "EXACT"
+   }
+  },
+  {
+   "sku": "TK-LG-86MRGB95",
+   "slug": "lg-micro-rgb-evo-mrgb95-86-2026",
+   "name": "LG Micro RGB evo AI MRGB95 86\" 4K Smart TV (2026, 86MRGB95BUA)",
+   "brand": "LG",
+   "category": "led-tvs",
+   "price": "6999.99",
+   "priceBasis": "msrp",
+   "priceSource": "https://www.lg.com/us/tvs/lg-86mrgb95bua-mrgb-4k-tv",
+   "priceAsOf": "2026-09-28",
+   "priceNote": "LG.com sale price $5,299.99 on 2026-09-28 (list price shown).",
+   "releaseYear": 2026,
+   "summary": "LG's flagship LED TV with dedicated red, green and blue Micro RGB backlights and Micro Dimming Ultra.",
+   "description": "The LG MRGB95 uses Micro RGB technology with dedicated red, green and blue backlights and independent light control for certified triple 100% color coverage. It runs the α11 AI Processor 4K Gen3 with Micro Dimming Ultra and webOS 26, supports Dolby Vision and Dolby Atmos, and has 120 Hz native refresh with VRR up to 165 Hz.",
+   "keywords": "lg micro rgb evo mrgb95 86 inch 4k tv 2026 flagship led",
+   "specs": {
+    "sizeIn": 86,
+    "sizes": "75, 86, 100 in",
+    "resolution": "3840x2160",
+    "panel": "Micro RGB LED (Micro Dimming Ultra)",
+    "refreshHz": 120,
+    "hdr": "Dolby Vision, HDR10, HLG",
+    "processor": "α11 AI Processor 4K Gen3",
+    "gaming": "VRR up to 165 Hz, 4x HDMI 4K 120 Hz",
+    "smartPlatform": "webOS 26",
+    "audio": "2.2 channel, Dolby Atmos"
+   },
+   "variants": [
+    {
+     "label": "75\"",
+     "price": "4999.99"
+    },
+    {
+     "label": "86\"",
+     "price": "6999.99"
+    },
+    {
+     "label": "100\"",
+     "price": "7999.99"
+    }
+   ],
+   "featured": false,
+   "warranty": 12,
+   "sources": {
+    "product": "https://www.lg.com/us/tvs/lg-86mrgb95bua-mrgb-4k-tv",
+    "specs": "https://www.lg.com/us/tvs/lg-86mrgb95bua-mrgb-4k-tv",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://media.us.lg.com/transform/ecomm-PDPGalleryZoom-1600x1062/f64f4edd-9432-43c5-9d14-6e5d6b910de5/TVs_86MRGB95BUA_gallery-02_3000x3000",
+    "page": "https://www.lg.com/us/tvs/lg-86mrgb95bua-mrgb-4k-tv",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official LG.com US product gallery image (media.us.lg.com); LG has not granted a reuse license — rights not verified.",
+    "credit": "LG Electronics",
+    "alt": "LG Micro RGB evo MRGB95 86-inch TV, angled front view with vivid crystal artwork on screen",
+    "match": "EXACT"
+   }
+  },
+  {
+   "sku": "TK-LG-27GX790B",
+   "slug": "lg-ultragear-oled-27gx790b",
+   "name": "LG UltraGear OLED 27GX790B 27\" QHD 540 Hz",
+   "brand": "LG",
+   "category": "gaming-monitors",
+   "price": "999.99",
+   "priceBasis": "msrp",
+   "priceSource": "https://www.lg.com/us/monitors/lg-27gx790b-b-gaming-monitor",
+   "priceAsOf": "2026-09-28",
+   "priceNote": "LG.com sale price $679.99 on 2026-09-28 (list price shown).",
+   "summary": "27-inch QHD OLED esports monitor with a 540 Hz refresh rate, 720 Hz HD dual mode and 0.02 ms response.",
+   "description": "The UltraGear 27GX790B is a 26.5-inch 2560x1440 OLED gaming monitor running at 540 Hz, with a Dual Mode that switches to 720 Hz at HD for speed. It has a 0.02 ms GtG response time, VESA DisplayHDR True Black 500, 99.5% DCI-P3 and NVIDIA G-Sync compatibility, with two HDMI 2.1 inputs, DisplayPort and USB-C.",
+   "keywords": "lg ultragear oled 27gx790b 540hz 720hz esports monitor qhd",
+   "specs": {
+    "sizeIn": 26.5,
+    "resolution": "2560x1440",
+    "refreshHz": 540,
+    "panel": "OLED",
+    "hdr": "VESA DisplayHDR True Black 500",
+    "colorGamut": "99.5% DCI-P3",
+    "inputs": "2x HDMI 2.1, 1x DisplayPort, 1x USB-C",
+    "configurations": "Dual Mode: QHD 540 Hz / HD 720 Hz"
+   },
+   "collections": [
+    "oled-displays",
+    "ultimate-gaming-setup"
+   ],
+   "featured": true,
+   "warranty": 24,
+   "sources": {
+    "product": "https://www.lg.com/us/monitors/lg-27gx790b-b-gaming-monitor",
+    "specs": "https://www.lg.com/us/monitors/lg-27gx790b-b-gaming-monitor",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://media.us.lg.com/transform/ecomm-PDPGalleryZoom-1600x1062/3b668102-3c00-415b-8f81-a67b6bf2af10/Monitor_27GX790B-B_gallery-12_5000x5000",
+    "page": "https://www.lg.com/us/monitors/lg-27gx790b-b-gaming-monitor",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official LG.com US product gallery image (media.us.lg.com); LG has not granted a reuse license — rights not verified.",
+    "credit": "LG Electronics",
+    "alt": "LG UltraGear OLED 27GX790B monitor, front view on its height-adjustable stand",
+    "match": "EXACT"
+   }
+  },
+  {
+   "sku": "TK-LG-32GX870B",
+   "slug": "lg-ultragear-oled-32gx870b",
+   "name": "LG UltraGear OLED 32GX870B 32\" 4K 240 Hz",
+   "brand": "LG",
+   "category": "gaming-monitors",
+   "price": "1399.99",
+   "priceBasis": "msrp",
+   "priceSource": "https://www.lg.com/us/monitors/lg-32gx870b-b-gaming-monitor",
+   "priceAsOf": "2026-09-28",
+   "summary": "31.5-inch 4K OLED gaming monitor with UHD 240 Hz / FHD 480 Hz dual mode, DisplayPort 2.1 and 90 W USB-C.",
+   "description": "The UltraGear 32GX870B is a 31.5-inch 3840x2160 OLED monitor with Dual Mode refresh (UHD 240 Hz or FHD 480 Hz) and 0.03 ms GtG response. It is rated VESA DisplayHDR True Black 500 with 99.5% DCI-P3, and connects via two HDMI 2.1, DisplayPort 2.1 and USB-C with 90 W power delivery.",
+   "keywords": "lg ultragear oled 32gx870b 4k 240hz 480hz dual mode gaming monitor",
+   "specs": {
+    "sizeIn": 31.5,
+    "resolution": "3840x2160",
+    "refreshHz": 240,
+    "panel": "OLED",
+    "hdr": "VESA DisplayHDR True Black 500",
+    "colorGamut": "99.5% DCI-P3",
+    "inputs": "2x HDMI 2.1, 1x DisplayPort 2.1, 1x USB-C",
+    "usbCPowerW": 90,
+    "configurations": "Dual Mode: UHD 240 Hz / FHD 480 Hz"
+   },
+   "collections": [
+    "oled-displays",
+    "dream-gaming"
+   ],
+   "featured": false,
+   "warranty": 24,
+   "sources": {
+    "product": "https://www.lg.com/us/monitors/lg-32gx870b-b-gaming-monitor",
+    "specs": "https://www.lg.com/us/monitors/lg-32gx870b-b-gaming-monitor",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://media.us.lg.com/transform/ecomm-PDPGalleryZoom-1600x1062/3e9fb867-bbc8-4eb7-8d6b-24fd1ed62582/Monitor-32GX870B-B-Ultragear-AI-gallery-01_5000x5000",
+    "page": "https://www.lg.com/us/monitors/lg-32gx870b-b-gaming-monitor",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official LG.com US product gallery image (media.us.lg.com); LG has not granted a reuse license — rights not verified.",
+    "credit": "LG Electronics",
+    "alt": "LG UltraGear OLED 32GX870B 32-inch monitor, front view on its stand",
+    "match": "EXACT"
+   }
+  },
+  {
+   "sku": "TK-LG-39GX950B",
+   "slug": "lg-ultragear-oled-evo-39gx950b",
+   "name": "LG UltraGear OLED evo 39GX950B 39\" 5K2K Curved",
+   "brand": "LG",
+   "category": "ultrawide-monitors",
+   "price": "1799.99",
+   "priceBasis": "msrp",
+   "priceSource": "https://www.lg.com/us/monitors/lg-39gx950b-b-gaming-monitor",
+   "priceAsOf": "2026-09-28",
+   "summary": "39-inch 21:9 5K2K curved OLED gaming monitor with 165 Hz / WFHD 330 Hz dual mode and 90 W USB-C.",
+   "description": "The UltraGear OLED evo 39GX950B is a 39-inch 5120x2160 OLED with a 1500R curve and Dual Mode refresh (5K2K 165 Hz or WFHD 330 Hz). It offers 0.03 ms GtG, VESA DisplayHDR True Black 500 and 99.5% DCI-P3, and connects via two HDMI 2.1, DisplayPort 2.1 and USB-C with 90 W power delivery.",
+   "keywords": "lg ultragear oled evo 39gx950b 5k2k ultrawide curved oled monitor",
+   "specs": {
+    "sizeIn": 39,
+    "resolution": "5120x2160",
+    "refreshHz": 165,
+    "panel": "OLED, 1500R curve",
+    "hdr": "VESA DisplayHDR True Black 500",
+    "colorGamut": "99.5% DCI-P3",
+    "inputs": "2x HDMI 2.1, 1x DisplayPort 2.1, 1x USB-C",
+    "usbCPowerW": 90,
+    "configurations": "Dual Mode: 5K2K 165 Hz / WFHD 330 Hz"
+   },
+   "collections": [
+    "oled-displays",
+    "dream-gaming"
+   ],
+   "featured": false,
+   "warranty": 24,
+   "sources": {
+    "product": "https://www.lg.com/us/monitors/lg-39gx950b-b-gaming-monitor",
+    "specs": "https://www.lg.com/us/monitors/lg-39gx950b-b-gaming-monitor",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://media.us.lg.com/transform/ecomm-PDPGalleryZoom-1600x1062/77a21f15-e17b-4da5-a3ec-d68758e45f8e/Monitor-39GX950B-B-gallery-13_5000x5000",
+    "page": "https://www.lg.com/us/monitors/lg-39gx950b-b-gaming-monitor",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official LG.com US product gallery image (media.us.lg.com); LG has not granted a reuse license — rights not verified.",
+    "credit": "LG Electronics",
+    "alt": "LG UltraGear OLED evo 39GX950B 39-inch curved monitor, front view on its stand",
+    "match": "EXACT"
+   }
+  },
+  {
+   "sku": "TK-LG-45GX950B",
+   "slug": "lg-ultragear-oled-evo-45gx950b",
+   "name": "LG UltraGear OLED evo 45GX950B 45\" 5K2K 800R",
+   "brand": "LG",
+   "category": "ultrawide-monitors",
+   "price": "1999.99",
+   "priceBasis": "msrp",
+   "priceSource": "https://www.lg.com/us/monitors/lg-45gx950b-b-gaming-monitor",
+   "priceAsOf": "2026-09-28",
+   "summary": "44.5-inch 800R curved 5K2K OLED gaming monitor with 165 Hz / WFHD 330 Hz dual mode.",
+   "description": "The UltraGear OLED evo 45GX950B is a 44.5-inch 5120x2160 OLED with a deep 800R curve and Dual Mode refresh (5K2K 165 Hz or WFHD 330 Hz). It has 0.03 ms GtG, VESA DisplayHDR True Black 400 and 98.5% DCI-P3, plus two HDMI 2.1, DisplayPort 2.1 and USB-C with DP Alt Mode and 90 W power delivery.",
+   "keywords": "lg ultragear oled evo 45gx950b 45 inch 5k2k 800r curved gaming monitor",
+   "specs": {
+    "sizeIn": 44.5,
+    "resolution": "5120x2160",
+    "refreshHz": 165,
+    "panel": "OLED, 800R curve",
+    "hdr": "VESA DisplayHDR True Black 400",
+    "colorGamut": "98.5% DCI-P3",
+    "inputs": "2x HDMI 2.1, 1x DisplayPort 2.1, 1x USB-C",
+    "usbCPowerW": 90,
+    "configurations": "Dual Mode: 5K2K 165 Hz / WFHD 330 Hz"
+   },
+   "collections": [
+    "oled-displays",
+    "ultimate-gaming-setup"
+   ],
+   "featured": false,
+   "warranty": 24,
+   "sources": {
+    "product": "https://www.lg.com/us/monitors/lg-45gx950b-b-gaming-monitor",
+    "specs": "https://www.lg.com/us/monitors/lg-45gx950b-b-gaming-monitor",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://media.us.lg.com/transform/ecomm-PDPGalleryZoom-1600x1062/e2706cfa-37b1-4d03-a6b8-cb53a19741ed/Monitor-45GX950B-B-gallery_16_5000x5000",
+    "page": "https://www.lg.com/us/monitors/lg-45gx950b-b-gaming-monitor",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official LG.com US product gallery image (media.us.lg.com); LG has not granted a reuse license — rights not verified.",
+    "credit": "LG Electronics",
+    "alt": "LG UltraGear OLED evo 45GX950B 45-inch curved monitor, angled front view on its stand",
+    "match": "EXACT"
+   }
+  },
+  {
+   "sku": "TK-LG-27GM950B",
+   "slug": "lg-ultragear-evo-27gm950b",
+   "name": "LG UltraGear evo 27GM950B 27\" 5K Mini LED",
+   "brand": "LG",
+   "category": "gaming-monitors",
+   "price": "1199.99",
+   "priceBasis": "msrp",
+   "priceSource": "https://www.lg.com/us/monitors/lg-27gm950b-b-gaming-monitor",
+   "priceAsOf": "2026-09-28",
+   "priceNote": "LG.com sale price $799.99 on 2026-09-28 (list price shown).",
+   "summary": "27-inch 5K Hyper Mini LED gaming monitor with 5K 165 Hz / QHD 330 Hz dual mode and DisplayHDR 1000.",
+   "description": "The UltraGear evo 27GM950B is a 27-inch 5120x2880 IPS gaming monitor with Hyper Mini LED backlighting, rated VESA DisplayHDR 1000 with 750 nits typical brightness and 99% DCI-P3. Dual Mode switches between 5K 165 Hz and QHD 330 Hz, and it connects via two HDMI 2.1, DisplayPort 2.1 and USB-C with 90 W power delivery.",
+   "keywords": "lg ultragear evo 27gm950b 5k mini led gaming monitor 165hz 330hz",
+   "specs": {
+    "sizeIn": 27,
+    "resolution": "5120x2880",
+    "refreshHz": 165,
+    "panel": "IPS, Hyper Mini LED backlight",
+    "hdr": "VESA DisplayHDR 1000",
+    "colorGamut": "99% DCI-P3",
+    "inputs": "2x HDMI 2.1, 1x DisplayPort 2.1, 1x USB-C",
+    "usbCPowerW": 90,
+    "configurations": "Dual Mode: 5K 165 Hz / QHD 330 Hz"
+   },
+   "collections": [
+    "creator-workstations"
+   ],
+   "featured": false,
+   "warranty": 12,
+   "sources": {
+    "product": "https://www.lg.com/us/monitors/lg-27gm950b-b-gaming-monitor",
+    "specs": "https://www.lg.com/us/monitors/lg-27gm950b-b-gaming-monitor",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://media.us.lg.com/transform/ecomm-PDPGalleryZoom-1600x1062/659fab46-0b55-423c-b75a-84f991194c1f/Monitor-27GM950B-B-gallery-new-01_5000x5000",
+    "page": "https://www.lg.com/us/monitors/lg-27gm950b-b-gaming-monitor",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official LG.com US product gallery image (media.us.lg.com); LG has not granted a reuse license — rights not verified.",
+    "credit": "LG Electronics",
+    "alt": "LG UltraGear evo 27GM950B 5K monitor, front view on its height-adjustable stand",
+    "match": "EXACT"
+   }
+  },
+  {
+   "sku": "TK-LG-34GX90SB",
+   "slug": "lg-ultragear-oled-34gx90sb",
+   "name": "LG UltraGear OLED 34GX90SB 34\" Smart Gaming Monitor",
+   "brand": "LG",
+   "category": "ultrawide-monitors",
+   "price": "999.99",
+   "priceBasis": "msrp",
+   "priceSource": "https://www.lg.com/us/monitors/lg-34gx90sb-w-gaming-monitor",
+   "priceAsOf": "2026-09-28",
+   "summary": "34-inch 800R ultrawide OLED gaming monitor with 240 Hz, built-in webOS streaming apps and 65 W USB-C.",
+   "description": "The UltraGear 34GX90SB is a 34-inch 3440x1440 OLED with an 800R curve, 240 Hz refresh and 0.03 ms GtG response. It adds webOS smart features for streaming without a PC, VESA DisplayHDR True Black 400, 98.5% DCI-P3, two HDMI 2.1, DisplayPort 1.4 and USB-C with 65 W power delivery.",
+   "keywords": "lg ultragear oled 34gx90sb webos smart ultrawide 240hz monitor white",
+   "specs": {
+    "sizeIn": 34,
+    "resolution": "3440x1440",
+    "refreshHz": 240,
+    "panel": "OLED, 800R curve",
+    "hdr": "VESA DisplayHDR True Black 400",
+    "colorGamut": "98.5% DCI-P3",
+    "inputs": "2x HDMI 2.1, 1x DisplayPort 1.4, 1x USB-C",
+    "usbCPowerW": 65
+   },
+   "collections": [
+    "oled-displays"
+   ],
+   "featured": false,
+   "warranty": 24,
+   "sources": {
+    "product": "https://www.lg.com/us/monitors/lg-34gx90sb-w-gaming-monitor",
+    "specs": "https://www.lg.com/us/monitors/lg-34gx90sb-w-gaming-monitor",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://media.us.lg.com/transform/ecomm-PDPGalleryZoom-1600x1062/c3d8b9e3-cbc1-4aa2-883b-85d5ee28a7fa/Monitor_34GX90SB-W_gallery-02_5000x5000",
+    "page": "https://www.lg.com/us/monitors/lg-34gx90sb-w-gaming-monitor",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official LG.com US product gallery image (media.us.lg.com); LG has not granted a reuse license — rights not verified.",
+    "credit": "LG Electronics",
+    "alt": "LG UltraGear OLED 34GX90SB white curved ultrawide monitor, front view showing the webOS home screen",
+    "match": "EXACT"
+   },
+   "colors": [
+    "White"
+   ]
+  },
+  {
+   "sku": "TK-LG-32U990A",
+   "slug": "lg-ultrafine-evo-32u990a-6k",
+   "name": "LG UltraFine evo 32U990A 32\" 6K Thunderbolt 5",
+   "brand": "LG",
+   "category": "professional-monitors",
+   "price": "1999.99",
+   "priceBasis": "msrp",
+   "priceSource": "https://www.lg.com/us/monitors/lg-32u990a-s-ultrafine-monitor",
+   "priceAsOf": "2026-09-28",
+   "priceNote": "LG.com sale price $1,299.99 on 2026-09-28 (list price shown).",
+   "summary": "31.5-inch 6K (6144x3456) IPS Black professional monitor with Thunderbolt 5, 96 W charging and 224 PPI.",
+   "description": "The LG UltraFine evo 32U990A is a 31.5-inch 6144x3456 IPS Black monitor with 224 PPI, VESA DisplayHDR 600, 98% DCI-P3 and 99.5% Adobe RGB. LG bills it as the world's first 6K monitor with Thunderbolt 5, providing single-cable connection with 96 W power delivery, plus DisplayPort 2.1, HDMI 2.1 and USB-C downstream ports.",
+   "keywords": "lg ultrafine evo 32u990a 6k thunderbolt 5 mac creator monitor ips black",
+   "specs": {
+    "sizeIn": 31.5,
+    "resolution": "6144x3456",
+    "refreshHz": 60,
+    "panel": "IPS Black",
+    "hdr": "VESA DisplayHDR 600",
+    "colorGamut": "98% DCI-P3, 99.5% Adobe RGB",
+    "inputs": "Thunderbolt 5, DisplayPort 2.1, HDMI 2.1, 2x USB-C downstream",
+    "usbCPowerW": 96
+   },
+   "collections": [
+    "creator-workstations",
+    "developer-setup",
+    "apple-ecosystem"
+   ],
+   "featured": true,
+   "warranty": 12,
+   "sources": {
+    "product": "https://www.lg.com/us/monitors/lg-32u990a-s-ultrafine-monitor",
+    "specs": "https://www.lg.com/us/monitors/lg-32u990a-s-ultrafine-monitor",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://media.us.lg.com/transform/ecomm-PDPGalleryZoom-1600x1062/c9c3bee1-28ed-43e7-8347-a0feeef91a80/Monitors-32U990A-S-gallery-01-5000x5000",
+    "page": "https://www.lg.com/us/monitors/lg-32u990a-s-ultrafine-monitor",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official LG.com US product gallery image (media.us.lg.com); LG has not granted a reuse license — rights not verified.",
+    "credit": "LG Electronics",
+    "alt": "LG UltraFine evo 32U990A 6K monitor in silver, front view on its stand",
+    "match": "EXACT"
+   },
+   "colors": [
+    "Silver"
+   ]
+  },
+  {
+   "sku": "TK-LG-GRAMPRO16-2026",
+   "slug": "lg-gram-pro-16-2026-16z90u-oled",
+   "name": "LG gram Pro 16 (2026) OLED, Core Ultra X7 358H (16Z90U-K.AUA6U1)",
+   "brand": "LG",
+   "category": "premium-laptops",
+   "price": "3749.99",
+   "priceBasis": "msrp",
+   "priceSource": "https://www.lg.com/us/laptops/lg-16z90u-k.aua6u1-gram-laptop",
+   "priceAsOf": "2026-09-28",
+   "priceNote": "LG.com sale price $3,549.99 on 2026-09-28 (list price shown).",
+   "releaseYear": 2026,
+   "summary": "2.64 lb 16-inch Copilot+ PC with Intel Core Ultra X7 358H, Arc B390 graphics and a 2880x1800 OLED display.",
+   "description": "The 2026 LG gram Pro 16 uses LG's Aerominum chassis to weigh 2.64 lbs at about 0.5 in thin. This configuration pairs an Intel Core Ultra X7 358H with Intel Arc B390 graphics, 16 GB LPDDR5X-8533 and a 1 TB SSD (dual M.2 slots), a 16-inch 2880x1800 OLED with 100% DCI-P3, Thunderbolt 4, Wi-Fi 7 and a 77 Wh battery rated up to 27 hours of video playback.",
+   "keywords": "lg gram pro 16 2026 oled core ultra x7 358h copilot+ pc lightweight aerominum",
+   "specs": {
+    "cpu": "Intel Core Ultra X7 358H (16 cores, up to 4.8 GHz)",
+    "cpuBrand": "Intel",
+    "gpu": "Intel Arc B390",
+    "ramGb": 16,
+    "storageTb": 1,
+    "displayIn": 16,
+    "display": "2880x1800 OLED, 100% DCI-P3",
+    "batteryWh": 77,
+    "weightKg": 1.2,
+    "os": "Windows 11 Home",
+    "ports": "2x USB4 Type-C (Thunderbolt 4, PD, DP), 2x USB-A 3.2 Gen 1, HDMI, 3.5 mm",
+    "wireless": "Intel Wi-Fi 7 BE211, Bluetooth 6.0"
+   },
+   "collections": [
+    "premium-laptops"
+   ],
+   "featured": false,
+   "warranty": 12,
+   "sources": {
+    "product": "https://www.lg.com/us/laptops/lg-16z90u-k.aua6u1-gram-laptop",
+    "specs": "https://www.lg.com/us/laptops/lg-16z90u-k.aua6u1-gram-laptop",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://media.us.lg.com/transform/ecomm-PDPGalleryZoom-1600x1062/87fe25a8-288f-4d51-9c98-f809ca89e1b5/Laptop_16Z90U-K-AUA6U1_gallery-1_5000x5000",
+    "page": "https://www.lg.com/us/laptops/lg-16z90u-k.aua6u1-gram-laptop",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official LG.com US product gallery image (media.us.lg.com); LG has not granted a reuse license — rights not verified.",
+    "credit": "LG Electronics",
+    "alt": "LG gram Pro 16 2026 laptop, open front view showing the OLED display and keyboard",
+    "match": "EXACT"
+   }
+  },
+  {
+   "sku": "TK-LG-GRAM14-2026",
+   "slug": "lg-gram-14-2026-14z90u",
+   "name": "LG gram 14 (2026) Core Ultra 7 355 (14Z90U-G.AU85U1)",
+   "brand": "LG",
+   "category": "premium-laptops",
+   "price": "2649.99",
+   "priceBasis": "msrp",
+   "priceSource": "https://www.lg.com/us/laptops/lg-14z90u-g.au85u1-gram-laptop",
+   "priceAsOf": "2026-09-28",
+   "releaseYear": 2026,
+   "summary": "2.47 lb 14-inch Copilot+ PC with Intel Core Ultra 7 355, 32 GB memory and a battery rated up to 36.5 hours of video.",
+   "description": "The 2026 LG gram 14 weighs 2.47 lbs and pairs an Intel Core Ultra 7 355 with 32 GB LPDDR5X and a 512 GB SSD in dual M.2 slots. It has a 14-inch 1920x1200 IPS display with 99% DCI-P3, two Thunderbolt 4-capable USB4 ports, HDMI, Wi-Fi 6E and a 72 Wh battery rated up to 36.5 hours of video playback.",
+   "keywords": "lg gram 14 2026 core ultra 7 355 lightweight copilot+ pc",
+   "specs": {
+    "cpu": "Intel Core Ultra 7 355 (8 cores, up to 4.7 GHz)",
+    "cpuBrand": "Intel",
+    "gpu": "Intel Graphics",
+    "ramGb": 32,
+    "storageTb": 0.5,
+    "displayIn": 14,
+    "display": "1920x1200 IPS, 99% DCI-P3",
+    "batteryWh": 72,
+    "weightKg": 1.12,
+    "os": "Windows 11 Home",
+    "ports": "2x USB4 Type-C (Thunderbolt 4, PD, DP), 2x USB-A 3.2 Gen 1, HDMI, 3.5 mm",
+    "wireless": "Wi-Fi 6E (AX211), Bluetooth 5.4"
+   },
+   "featured": false,
+   "warranty": 12,
+   "sources": {
+    "product": "https://www.lg.com/us/laptops/lg-14z90u-g.au85u1-gram-laptop",
+    "specs": "https://www.lg.com/us/laptops/lg-14z90u-g.au85u1-gram-laptop",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://media.us.lg.com/transform/ecomm-PDPGalleryZoom-1600x1062/66749a02-a9a9-468b-be1e-131020e9d4a2/Laptop-14Z90U-G-AU85U1-LG-Gram-gallery-01_5000x5000",
+    "page": "https://www.lg.com/us/laptops/lg-14z90u-g.au85u1-gram-laptop",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official LG.com US product gallery image (media.us.lg.com); LG has not granted a reuse license — rights not verified.",
+    "credit": "LG Electronics",
+    "alt": "LG gram 14 2026 laptop in black, open front view showing the display and keyboard",
+    "match": "EXACT"
+   }
+  },
+  {
+   "sku": "TK-LG-CINEBEAM-PU615U",
+   "slug": "lg-cinebeam-s-pu615u",
+   "name": "LG CineBeam S PU615U 4K Triple Laser Ultra Short Throw Projector",
+   "brand": "LG",
+   "category": "projectors",
+   "price": "1299.99",
+   "priceBasis": "msrp",
+   "priceSource": "https://www.lg.com/us/projectors/lg-pu615u-4k-laser-projector",
+   "priceAsOf": "2026-09-28",
+   "priceNote": "LG.com sale price $999.99 on 2026-09-28 (list price shown).",
+   "summary": "Compact 4K triple-laser UST projector that throws a 100-inch image from 1.8 ft, with webOS and Dolby Atmos pass-through.",
+   "description": "The LG CineBeam S PU615U is a compact cube-shaped 4K UHD ultra-short-throw projector with a triple-laser light source, 500 ANSI lumens and a 450,000:1 contrast ratio. With a 0.25 throw ratio it projects 40 to 100 inches (100 in at 1.8 ft), supports HDR10 and HLG, runs webOS with screen sharing, and has HDMI plus two USB-C inputs.",
+   "keywords": "lg cinebeam s pu615u 4k ultra short throw laser projector webos",
+   "specs": {
+    "resolution": "3840x2160",
+    "brightnessLumens": 500,
+    "lightSource": "Triple laser",
+    "throwType": "Ultra short throw (0.25 throw ratio)"
+   },
+   "featured": false,
+   "warranty": 12,
+   "sources": {
+    "product": "https://www.lg.com/us/projectors/lg-pu615u-4k-laser-projector",
+    "specs": "https://www.lg.com/us/projectors/lg-pu615u-4k-laser-projector",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://media.us.lg.com/transform/ecomm-PDPGalleryZoom-1600x1062/177d95e8-bedf-43bb-99c3-8f28cfcbab25/Projector_PU615U-AUSG_gallery-13_5000x5000",
+    "page": "https://www.lg.com/us/projectors/lg-pu615u-4k-laser-projector",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official LG.com US product gallery image (media.us.lg.com); LG has not granted a reuse license — rights not verified.",
+    "credit": "LG Electronics",
+    "alt": "LG CineBeam S PU615U compact projector in silver, rear three-quarter view showing its ports",
+    "match": "EXACT"
+   }
+  },
+  {
+   "sku": "TK-LG-CINEBEAM-HU810PW",
+   "slug": "lg-cinebeam-4k-laser-hu810pw",
+   "name": "LG CineBeam 4K Laser Home Theater Projector HU810PW",
+   "brand": "LG",
+   "category": "projectors",
+   "price": "2999.99",
+   "priceBasis": "msrp",
+   "priceSource": "https://www.lg.com/us/projectors/lg-hu810pw-4k-laser-projector",
+   "priceAsOf": "2026-09-28",
+   "priceNote": "LG.com sale price $2,499.99 on 2026-09-28 (list price shown).",
+   "summary": "2,700-lumen 4K dual-laser home theater projector with lens shift, 2,000,000:1 contrast and 40-300 inch image size.",
+   "description": "The LG CineBeam HU810PW is a 4K UHD DLP home theater projector with a dual-laser light source, up to 2,700 ANSI lumens and a 2,000,000:1 contrast ratio. It projects from 40 to 300 inches with lens shift, supports HDR10 and HLG, runs webOS, and has three HDMI inputs including one HDMI 2.1 with eARC and ALLM.",
+   "keywords": "lg cinebeam hu810pw 4k laser home theater projector lens shift",
+   "specs": {
+    "resolution": "3840x2160",
+    "brightnessLumens": 2700,
+    "lightSource": "Dual laser",
+    "throwType": "Standard throw with lens shift"
+   },
+   "colors": [
+    "White"
+   ],
+   "featured": false,
+   "warranty": 12,
+   "sources": {
+    "product": "https://www.lg.com/us/projectors/lg-hu810pw-4k-laser-projector",
+    "specs": "https://www.lg.com/us/projectors/lg-hu810pw-4k-laser-projector",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://media.us.lg.com/transform/ecomm-PDPGalleryZoom-1600x1062/a958eba8-3022-47c7-bf04-930ea66dee88/md07515908-zoom-05-jpg",
+    "page": "https://www.lg.com/us/projectors/lg-hu810pw-4k-laser-projector",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official LG.com US product gallery image (media.us.lg.com); LG has not granted a reuse license — rights not verified.",
+    "credit": "LG Electronics",
+    "alt": "LG CineBeam HU810PW 4K laser projector in white, front three-quarter view",
+    "match": "EXACT"
+   }
+  },
+  {
+   "sku": "TK-LG-S95AR",
+   "slug": "lg-s95ar-soundbar",
+   "name": "LG S95AR 9.1.5-Channel Dolby Atmos Soundbar",
+   "brand": "LG",
+   "category": "home-audio",
+   "price": "1699.99",
+   "priceBasis": "msrp",
+   "priceSource": "https://www.lg.com/us/soundbars/lg-s95ar-soundbar",
+   "priceAsOf": "2026-09-28",
+   "priceNote": "LG.com sale price $1,199.99 on 2026-09-28 (list price shown).",
+   "summary": "LG's flagship 9.1.5-channel soundbar system with wireless subwoofer, wireless rear speakers, Dolby Atmos and DTS:X.",
+   "description": "The LG S95AR is a 9.1.5-channel home theater soundbar system with a wireless active subwoofer and wireless rear speakers. It supports Dolby Atmos and DTS:X, connects over HDMI eARC and Bluetooth, and works with LG TVs through WOW Orchestra for synchronized TV and soundbar audio.",
+   "keywords": "lg s95ar soundbar 9.1.5 dolby atmos dts:x wireless subwoofer rear speakers",
+   "specs": {
+    "connectivity": "HDMI eARC, Bluetooth",
+    "channels": "9.1.5",
+    "colors": "Black"
+   },
+   "collections": [
+    "oled-displays"
+   ],
+   "featured": false,
+   "warranty": 12,
+   "sources": {
+    "product": "https://www.lg.com/us/soundbars/lg-s95ar-soundbar",
+    "specs": "https://www.lg.com/us/soundbars/lg-s95ar-soundbar",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://media.us.lg.com/transform/ecomm-PDPGalleryZoom-1600x1062/de096aa1-d949-403e-a7e3-867c17ecd8e6/Soundbar_S95AR_gallery_13_5000x5000",
+    "page": "https://www.lg.com/us/soundbars/lg-s95ar-soundbar",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official LG.com US product gallery image (media.us.lg.com); LG has not granted a reuse license — rights not verified.",
+    "credit": "LG Electronics",
+    "alt": "LG S95AR soundbar main unit in black, front view",
+    "match": "PRODUCT_LINE"
+   }
+  },
+  {
+   "sku": "TK-LG-XBOOM-STAGE501",
+   "slug": "lg-xboom-stage-501",
+   "name": "LG xboom Stage 501 by will.i.am Party Speaker",
+   "brand": "LG",
+   "category": "home-audio",
+   "price": "499.99",
+   "priceBasis": "msrp",
+   "priceSource": "https://www.lg.com/us/speakers/lg-xboom-stage-501-party-speaker",
+   "priceAsOf": "2026-09-28",
+   "summary": "Portable karaoke party speaker with AI Karaoke, a 99 Wh detachable battery for up to 25 hours and IPX5 splash resistance.",
+   "description": "The LG xboom Stage 501 is a portable Bluetooth party speaker tuned by will.i.am, with AI Karaoke that can remove vocals from any song. It uses a detachable 99 Wh Li-ion battery rated up to 25 hours, supports Bluetooth 6.1 with Auracast and multipoint, and is IPX5 splashproof.",
+   "keywords": "lg xboom stage 501 will.i.am party speaker karaoke bluetooth portable",
+   "specs": {
+    "connectivity": "Bluetooth 6.1, Auracast, multipoint",
+    "batteryHours": 25,
+    "waterResistance": "IPX5",
+    "weightG": 11975,
+    "colors": "Black"
+   },
+   "colors": [
+    "Black"
+   ],
+   "featured": false,
+   "warranty": 12,
+   "sources": {
+    "product": "https://www.lg.com/us/speakers/lg-xboom-stage-501-party-speaker",
+    "specs": "https://www.lg.com/us/speakers/lg-xboom-stage-501-party-speaker",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://media.us.lg.com/transform/ecomm-PDPGalleryZoom-1600x1062/35da0f0b-1d73-4106-bf0c-4af9c0043fdb/Speaker-STAGE501-AUSALBK-gallery-02_2048x2048",
+    "page": "https://www.lg.com/us/speakers/lg-xboom-stage-501-party-speaker",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official LG.com US product gallery image (media.us.lg.com); LG has not granted a reuse license — rights not verified.",
+    "credit": "LG Electronics",
+    "alt": "LG xboom Stage 501 party speaker in black with orange light bars, lying horizontally, front view",
+    "match": "EXACT"
+   }
+  }
+ ]
+}

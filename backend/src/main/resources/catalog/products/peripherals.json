@@ -1,0 +1,1545 @@
+{
+ "products": [
+  {
+   "sku": "TK-KEYCHRON-Q1-ULTRA-8K",
+   "slug": "keychron-q1-ultra-8k",
+   "name": "Keychron Q1 Ultra 8K Wireless Custom Mechanical Keyboard",
+   "brand": "Keychron",
+   "category": "keyboards",
+   "price": "229.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    17,
+    5
+   ],
+   "featured": true,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "developer-favorites",
+    "developer-setup"
+   ],
+   "summary": "75% full-metal wireless custom keyboard with 8,000 Hz polling, Keychron Silk POM switches, gasket mount and a 4,000 mAh battery rated up to 660 hours.",
+   "description": "Keychron Q1 Ultra 8K is a 75% layout, full CNC-aluminium wireless custom mechanical keyboard with a knob. It supports 2.4 GHz, Bluetooth and wired connections with an 8,000 Hz polling rate and 256 kHz single-key scanning, uses hot-swappable Keychron Silk POM switches and KSA double-shot PBT keycaps, and works with macOS, Windows and Linux.",
+   "keywords": "75% knob gasket aluminum 8k polling silk pom hot-swap qmk tri-mode",
+   "specs": {
+    "connection": "2.4 GHz, Bluetooth, USB-C wired",
+    "layout": "75%",
+    "switchType": "Keychron Silk POM (Red / Brown / Banana)",
+    "mechanical": true,
+    "hotSwappable": true,
+    "macSupport": true,
+    "colors": "Black, White"
+   },
+   "options": [
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Black",
+       "default": true
+      },
+      {
+       "label": "White"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "sku": "TK-KEYCHRON-Q1-HE-8K",
+   "slug": "keychron-q1-he-8k",
+   "name": "Keychron Q1 HE 8K Magnetic Switch Keyboard",
+   "brand": "Keychron",
+   "category": "keyboards",
+   "price": "229.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    39,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "ultimate-gaming-setup"
+   ],
+   "summary": "Wired 75% aluminium Hall-effect gaming keyboard with Keychron Ultra-fast Lime magnetic switches, Rapid Trigger and 0.1-3.35 mm adjustable actuation at 8K polling.",
+   "description": "Keychron Q1 HE 8K is a 75% wired magnetic-switch custom gaming keyboard with an 8,000 Hz polling rate and 256 kHz single-key scanning. Its hot-swappable Keychron Ultra-fast Lime magnetic switches support Rapid Trigger and actuation adjustable from 0.1 to 3.35 mm, in a gasket-mounted aluminium body with OSA double-shot PBT keycaps and a knob.",
+   "keywords": "hall effect magnetic rapid trigger 75% knob 8k gaming wired aluminum",
+   "specs": {
+    "connection": "USB-C wired",
+    "layout": "75%",
+    "switchType": "Keychron Ultra-fast Lime magnetic (Hall effect)",
+    "mechanical": false,
+    "hotSwappable": true,
+    "macSupport": true,
+    "colors": "Black, White"
+   },
+   "options": [
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Black",
+       "default": true
+      },
+      {
+       "label": "White"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "sku": "TK-KEYCHRON-K3-ULTRA-8K",
+   "slug": "keychron-k3-ultra-8k",
+   "name": "Keychron K3 Ultra 8K Wireless Low-Profile Mechanical Keyboard",
+   "brand": "Keychron",
+   "category": "keyboards",
+   "price": "109.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    55,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "developer-favorites",
+    "developer-setup"
+   ],
+   "summary": "Ultra-slim 75% low-profile wireless keyboard with a wood-and-aluminium frame, hot-swappable Milk POM switches, ZMK firmware and 8K wireless polling.",
+   "description": "Keychron K3 Ultra 8K is an ultra-slim 75% low-profile custom mechanical keyboard combining a metal frame with natural wood. Powered by ZMK firmware it reaches an 8,000 Hz polling rate in wireless mode across 2.4 GHz, Bluetooth and wired connections, with a 2,600 mAh battery rated up to 550 hours, hot-swappable Keychron Milk POM switches and LSA double-shot PBT keycaps.",
+   "keywords": "low profile slim 75% wood zmk 8k wireless milk pom hot-swap mac",
+   "specs": {
+    "connection": "2.4 GHz, Bluetooth, USB-C wired",
+    "layout": "75%",
+    "switchType": "Keychron Milk POM low-profile (Red / Brown / Banana)",
+    "mechanical": true,
+    "hotSwappable": true,
+    "macSupport": true,
+    "colors": "Black, White"
+   },
+   "options": [
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Black",
+       "default": true
+      },
+      {
+       "label": "White"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "sku": "TK-KEYCHRON-G3",
+   "slug": "keychron-g3-ultra-light-wireless-mouse",
+   "name": "Keychron G3 Ultra Light Wireless Mouse",
+   "brand": "Keychron",
+   "category": "mice",
+   "price": "84.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    32,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "ultimate-gaming-setup"
+   ],
+   "summary": "44 g tri-mode wireless gaming mouse with a PixArt 3950 sensor up to 30,000 DPI and 8,000 Hz polling over 2.4 GHz.",
+   "description": "Keychron G3 uses the PixArt 3950 sensor with up to 30,000 DPI and delivers an 8K polling rate in 2.4 GHz mode in a 44 g design. It supports 2.4 GHz, Bluetooth and wired connections and is rated for up to 160 hours of battery life.",
+   "keywords": "ultralight gaming mouse 8k polling paw3950 carbon fiber tri-mode",
+   "specs": {
+    "connection": "2.4 GHz, Bluetooth, USB-C wired",
+    "sensorDpi": 30000,
+    "weightG": 44,
+    "configurations": "Frosted Gray – $84.99 · Black (Carbon Fiber) – $109.99",
+    "colors": "Frosted Gray, Black (Carbon Fiber)"
+   },
+   "options": [
+    {
+     "name": "Configuration",
+     "values": [
+      {
+       "label": "Frosted Gray",
+       "price": "84.99",
+       "default": true
+      },
+      {
+       "label": "Black (Carbon Fiber)",
+       "price": "109.99"
+      }
+     ]
+    },
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Frosted Gray",
+       "default": true
+      },
+      {
+       "label": "Black (Carbon Fiber)"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "sku": "TK-KEYCHRON-NAPE-PRO",
+   "slug": "keychron-nape-pro-trackball",
+   "name": "Keychron Nape Pro Wireless Trackball Mouse",
+   "brand": "Keychron",
+   "category": "mice",
+   "price": "89.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    38,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "developer-favorites"
+   ],
+   "summary": "Below-keyboard trackball with a 25 mm ball, PixArt 3222 sensor, six customizable buttons, a control dial and ZMK firmware.",
+   "description": "Keychron Nape Pro places a compact 25 mm trackball, six customizable buttons and an adjustable control dial below the keyboard to reduce hand movement, with 8-angle placement. It uses a PixArt 3222 sensor, ZMK customization and tri-mode 2.4 GHz, Bluetooth and USB-C wired connectivity. Keychron listed it as a pre-order shipping mid-October at research time.",
+   "keywords": "trackball keyboard-first zmk ergonomic developer pixart 3222",
+   "specs": {
+    "connection": "2.4 GHz, Bluetooth, USB-C wired",
+    "buttons": 6,
+    "colors": "Black, White"
+   },
+   "options": [
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Black",
+       "default": true
+      },
+      {
+       "label": "White"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "sku": "TK-KEYCHRON-TB5-DOCK",
+   "slug": "keychron-thunderbolt-5-dock-14-in-1",
+   "name": "Keychron Thunderbolt 5 Dock (14-in-1)",
+   "brand": "Keychron",
+   "category": "docks-adapters",
+   "price": "349.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    20,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "developer-setup"
+   ],
+   "summary": "Fanless aluminium Thunderbolt 5 dock with three 80 Gbps TB5 ports, 140 W host charging, dual 8K display support and 2.5 GbE.",
+   "description": "The Keychron Thunderbolt 5 Dock expands one Thunderbolt 5 port into 14 connections with up to 80 Gbps bidirectional bandwidth (Bandwidth Boost up to 120 Gbps), dual 8K display support and up to 140 W laptop charging from the included 180 W adapter. It has three Thunderbolt 5 ports, five 10 Gbps USB ports and 2.5 Gb Ethernet in a passively cooled vertical aluminium enclosure.",
+   "keywords": "thunderbolt 5 dock tb5 80gbps 140w macbook pro 8k fanless",
+   "specs": {
+    "interface": "Thunderbolt 5 (80 Gbps, 120 Gbps Bandwidth Boost)",
+    "powerDeliveryW": 140
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-GLORIOUS-MODEL-O3-WL",
+   "slug": "glorious-model-o3-wireless",
+   "name": "Glorious Model O3 Wireless Gaming Mouse",
+   "brand": "Glorious",
+   "category": "mice",
+   "price": "159.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    56,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "ultimate-gaming-setup"
+   ],
+   "summary": "66 g symmetrical wireless gaming mouse with the InfinitePlay hot-swappable battery system, BAMF 3.0 30K sensor and 8,000 Hz polling.",
+   "description": "Model O3 Wireless features InfinitePlay: two hot-swappable battery packs, one charging in the base while the other is in use, plus a Guardian battery that keeps the mouse running 10+ hours with the pack removed. It pairs a BAMF 3.0 sensor (30,000 DPI, 750 IPS, 50G) with 8,000 Hz polling, optical switches rated for 130M clicks and 2.4 GHz, Bluetooth and wired connectivity.",
+   "keywords": "infiniteplay swappable battery 8k esports symmetrical bamf ultralight",
+   "specs": {
+    "connection": "2.4 GHz, Bluetooth, wired",
+    "sensorDpi": 30000,
+    "weightG": 66,
+    "buttons": 6,
+    "colors": "White, Black"
+   },
+   "options": [
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "White",
+       "default": true
+      },
+      {
+       "label": "Black"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "sku": "TK-GLORIOUS-GMMK3-PRO-HE-WL",
+   "slug": "glorious-gmmk-3-pro-he-wireless",
+   "name": "Glorious GMMK 3 PRO HE Prebuilt Wireless Keyboard",
+   "brand": "Glorious",
+   "category": "keyboards",
+   "price": "379.99",
+   "compareAt": null,
+   "warranty": 24,
+   "stock": [
+    43,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "ultimate-gaming-setup"
+   ],
+   "summary": "CNC-aluminium, gasket-mounted Hall-effect gaming keyboard with Rapid Trigger, 8,000 Hz polling, 2.4 GHz/Bluetooth and a knob, in 65% or 75% sizes.",
+   "description": "The GMMK 3 PRO HE prebuilt wireless keyboard uses linear magnetic Hall-effect switches with Rapid Trigger, customizable actuation and 4:1 Dynamic Keystroke at up to 8,000 Hz polling. It has CNC-machined aluminium cases, gasket mounting, double-shot PBT keycaps, hot-swap sockets for 5-pin mechanical and Glorious HE switches, and 2.4 GHz, Bluetooth and wired modes.",
+   "keywords": "hall effect rapid trigger gasket aluminum 65% 75% knob wireless gaming modular",
+   "specs": {
+    "connection": "2.4 GHz, Bluetooth, wired",
+    "layout": "75%",
+    "switchType": "Glorious linear magnetic (Hall effect)",
+    "mechanical": false,
+    "hotSwappable": true,
+    "macSupport": true,
+    "configurations": "65% (US) – $379.99 · 75% (US) – $399.99",
+    "colors": "Black, Silver"
+   },
+   "options": [
+    {
+     "name": "Configuration",
+     "values": [
+      {
+       "label": "65% (US)",
+       "price": "379.99",
+       "default": true
+      },
+      {
+       "label": "75% (US)",
+       "price": "399.99"
+      }
+     ]
+    },
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Black",
+       "default": true
+      },
+      {
+       "label": "Silver"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "sku": "TK-SATECHI-TB5-CUBEDOCK",
+   "slug": "satechi-thunderbolt-5-cubedock",
+   "name": "Satechi Thunderbolt 5 CubeDock with SSD Enclosure",
+   "brand": "Satechi",
+   "category": "docks-adapters",
+   "price": "399.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    32,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "developer-setup"
+   ],
+   "summary": "Compact aluminium Thunderbolt 5 dock with a built-in M.2 NVMe SSD enclosure (up to 8 TB, 6,000 MB/s), 140 W charging and up to triple 8K displays on Windows.",
+   "description": "The Satechi Thunderbolt 5 CubeDock provides one Thunderbolt 5 upstream port (80/120 Gbps, up to 140 W host charging), three 80 Gbps Thunderbolt 5 downstream ports, a 2230-2280 M.2 NVMe enclosure up to 8 TB, four 10 Gbps USB ports, UHS-II SD and microSD readers, 2.5G Ethernet and a 3.5 mm jack, powered by a 180 W supply. SSD not included.",
+   "keywords": "thunderbolt 5 dock nvme ssd enclosure 8k 140w 2.5gbe cube",
+   "specs": {
+    "interface": "Thunderbolt 5 (80/120 Gbps)",
+    "powerDeliveryW": 140
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-SATECHI-SM3",
+   "slug": "satechi-sm3-slim-mechanical-keyboard",
+   "name": "Satechi SM3 Slim Mechanical Backlit Bluetooth Keyboard",
+   "brand": "Satechi",
+   "category": "keyboards",
+   "price": "119.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    38,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "developer-setup"
+   ],
+   "summary": "Full-size 108-key low-profile mechanical keyboard with tactile brown switches, Mac and Windows keys, Bluetooth for two devices plus 2.4 GHz and USB-C.",
+   "description": "Satechi's SM3 is a full-size, 108-key slim mechanical keyboard with a numeric keypad, low-profile tactile brown switches and an aluminium enclosure. It connects to two devices over Bluetooth 5.0, one over the 2.4 GHz USB-A receiver and one wired over USB-C, with 14 backlight patterns and dedicated macOS and Windows input keys.",
+   "keywords": "low profile full size mechanical mac windows backlit bluetooth numeric keypad",
+   "specs": {
+    "connection": "Bluetooth 5.0, 2.4 GHz receiver, USB-C wired",
+    "layout": "Full size",
+    "switchType": "Low-profile tactile brown",
+    "mechanical": true,
+    "macSupport": true,
+    "colors": "Light, Dark"
+   },
+   "options": [
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Light",
+       "default": true
+      },
+      {
+       "label": "Dark"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "sku": "TK-SATECHI-CHARGEVIEW-140W",
+   "slug": "satechi-chargeview-140w-desktop-charger",
+   "name": "Satechi ChargeView 140W Desktop Charger",
+   "brand": "Satechi",
+   "category": "docks-adapters",
+   "price": "99.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    31,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [],
+   "summary": "Four-port GaN USB-C desktop charger with a live power display; 140 W total with up to 140 W from either of the two main ports.",
+   "description": "Satechi ChargeView is a 140 W GaN desktop charger with an integrated display that shows real-time charging status and how power is distributed across ports. USB-C ports 1 and 2 deliver up to 140 W each and ports 3 and 4 up to 40 W each, from a 140 W total budget, with a dual-orientation stand.",
+   "keywords": "gan charger 140w usb-c desktop display macbook",
+   "specs": {
+    "interface": "4x USB-C (GaN charger)",
+    "powerDeliveryW": 140
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-LOGI-MX-MASTER-4",
+   "slug": "logitech-mx-master-4",
+   "name": "Logitech MX Master 4",
+   "brand": "Logitech",
+   "category": "mice",
+   "price": "119.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    19,
+    5
+   ],
+   "featured": true,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "developer-favorites",
+    "developer-setup"
+   ],
+   "summary": "Flagship productivity mouse with a haptic sense panel, Actions Ring shortcuts, MagSpeed wheel and an 8,000 DPI any-surface sensor.",
+   "description": "MX Master 4 adds customizable haptic feedback through its Haptic Sense Panel and Actions Ring shortcuts in Logi Options+, with native Windows 11 haptics support. It keeps the MagSpeed electromagnetic scroll wheel (up to 1,000 lines per second), tracks on glass with a 200-8,000 DPI Darkfield sensor, has 8 buttons and a 650 mAh battery rated up to 70 days, and connects via Bluetooth LE or the included USB-C Logi Bolt receiver.",
+   "keywords": "haptic actions ring magspeed productivity ergonomic bluetooth logi bolt",
+   "specs": {
+    "connection": "Bluetooth LE, Logi Bolt USB-C receiver",
+    "sensorDpi": 8000,
+    "weightG": 150,
+    "buttons": 8,
+    "colors": "Graphite, Pale Gray, Black"
+   },
+   "options": [
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Graphite",
+       "default": true
+      },
+      {
+       "label": "Pale Gray"
+      },
+      {
+       "label": "Black"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "sku": "TK-LOGI-MX-ANYWHERE-3S",
+   "slug": "logitech-mx-anywhere-3s",
+   "name": "Logitech MX Anywhere 3S",
+   "brand": "Logitech",
+   "category": "mice",
+   "price": "89.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    36,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "developer-setup"
+   ],
+   "summary": "Compact 99 g performance mouse with quiet clicks, MagSpeed wheel and an 8,000 DPI sensor that tracks on glass.",
+   "description": "MX Anywhere 3S is a compact wireless mouse with 8K DPI any-surface tracking, quiet clicks and a MagSpeed scroll wheel. It has 6 buttons, a rechargeable 500 mAh battery rated up to 70 days (three hours from a one-minute charge) and Bluetooth LE multi-device connectivity.",
+   "keywords": "compact travel mouse quiet clicks magspeed bluetooth",
+   "specs": {
+    "connection": "Bluetooth LE",
+    "sensorDpi": 8000,
+    "weightG": 99,
+    "buttons": 6,
+    "colors": "Graphite, Pale Grey"
+   },
+   "options": [
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Graphite",
+       "default": true
+      },
+      {
+       "label": "Pale Grey"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "sku": "TK-LOGI-MX-ERGO-S",
+   "slug": "logitech-mx-ergo-s",
+   "name": "Logitech MX Ergo S Wireless Trackball",
+   "brand": "Logitech",
+   "category": "mice",
+   "price": "119.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    58,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [],
+   "summary": "Ergonomist-certified thumb trackball with a 20-degree tilt option, quiet clicks, precision mode and USB-C quick charging.",
+   "description": "MX Ergo S is an advanced wireless trackball with an adjustable hinge for a 20-degree tilt, now with quiet clicks and USB-C charging. It has 8 buttons (6 customizable), a precision-mode button, 512-2,048 dpi tracking and up to 120 days per charge, with one minute of charging giving 24 hours of use.",
+   "keywords": "trackball ergonomic thumb quiet clicks usb-c precision",
+   "specs": {
+    "connection": "Bluetooth LE, Logi Bolt receiver",
+    "sensorDpi": 2048,
+    "weightG": 164,
+    "buttons": 8,
+    "colors": "Graphite"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-LOGI-LIFT-VERTICAL",
+   "slug": "logitech-lift-vertical-ergonomic-mouse",
+   "name": "Logitech Lift Vertical Ergonomic Mouse",
+   "brand": "Logitech",
+   "category": "mice",
+   "price": "79.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    39,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [],
+   "summary": "57-degree vertical mouse for small to medium hands with a soft grip, quiet clicks and a left-handed version.",
+   "description": "Lift raises the hand into a more natural 57-degree posture with a soft rubber grip and thumb rest, sized for small to medium hands and available in a left-handed version. It has 6 buttons, 400-4,000 dpi optical tracking and runs up to 24 months on the included AA battery.",
+   "keywords": "vertical ergonomic mouse small hands left handed quiet",
+   "specs": {
+    "connection": "Bluetooth LE, Logi Bolt receiver",
+    "sensorDpi": 4000,
+    "weightG": 125,
+    "buttons": 6,
+    "colors": "Off-white, Sand, Rose, Graphite"
+   },
+   "options": [
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Off-white",
+       "default": true
+      },
+      {
+       "label": "Sand"
+      },
+      {
+       "label": "Rose"
+      },
+      {
+       "label": "Graphite"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "sku": "TK-LOGI-MX-MECHANICAL",
+   "slug": "logitech-mx-mechanical",
+   "name": "Logitech MX Mechanical Wireless Illuminated Keyboard",
+   "brand": "Logitech",
+   "category": "keyboards",
+   "price": "179.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    26,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "developer-setup"
+   ],
+   "summary": "Full-size low-profile wireless mechanical keyboard with tactile quiet, clicky or linear switches, smart backlighting and three-device Easy-Switch.",
+   "description": "MX Mechanical is a full-size wireless illuminated performance keyboard with low-profile mechanical switches in Tactile Quiet, Clicky or Linear styles. It pairs with up to three devices via Bluetooth or Logi Bolt, is customizable in Logi Options+, and its 1,500 mAh battery lasts up to 15 days, or up to 10 months with backlighting off.",
+   "keywords": "full size low profile mechanical wireless backlit easy-switch mac windows",
+   "specs": {
+    "connection": "Bluetooth LE, Logi Bolt receiver",
+    "layout": "Full size",
+    "switchType": "Low-profile Tactile Quiet / Clicky / Linear",
+    "mechanical": true,
+    "macSupport": true,
+    "colors": "Graphite"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-LOGI-MX-CREATIVE-CONSOLE",
+   "slug": "logitech-mx-creative-console",
+   "name": "Logitech MX Creative Console",
+   "brand": "Logitech",
+   "category": "streaming-gear",
+   "price": "199.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    58,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "developer-setup"
+   ],
+   "summary": "Two-piece creative controller: a 9-key LCD keypad and a dialpad with a large dial, roller and buttons, integrated with Adobe apps via Logi Options+.",
+   "description": "MX Creative Console pairs the MX Creative Keypad, with nine customizable LCD display keys, and the MX Creative Dialpad for precise dial and roller control. It integrates with apps including Adobe Lightroom, Photoshop, Premiere Pro, After Effects, Audition, Illustrator and Final Cut Pro; the dialpad runs on two AAA batteries and the keypad connects over USB-C.",
+   "keywords": "creator control surface dial lcd keys adobe photoshop premiere",
+   "specs": {
+    "connection": "Keypad: USB-C; Dialpad: Bluetooth LE / Logi Bolt",
+    "colors": "Pale Grey, Graphite"
+   },
+   "options": [
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Pale Grey",
+       "default": true
+      },
+      {
+       "label": "Graphite"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "sku": "TK-LOGI-MX-BRIO",
+   "slug": "logitech-mx-brio-4k",
+   "name": "Logitech MX Brio 4K Webcam",
+   "brand": "Logitech",
+   "category": "webcams",
+   "price": "199.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    8,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "developer-setup"
+   ],
+   "summary": "4K Ultra HD collaboration and streaming webcam with an 8.5 MP Sony STARVIS sensor, AI image enhancement and a built-in privacy shutter.",
+   "description": "MX Brio records in 4K with Logitech's largest webcam sensor yet, an 8.5 MP Sony STARVIS, for finer detail in difficult lighting. It offers 90/78/65-degree fields of view, 4x digital zoom, RightLight 5 face-based enhancement, Show Mode, a built-in privacy shutter and a USB-C (USB 3.0) connection.",
+   "keywords": "4k webcam starvis privacy shutter usb-c streaming meetings",
+   "specs": {
+    "connection": "USB-C (USB 3.0)",
+    "resolution": "4K Ultra HD",
+    "privacyShutter": true,
+    "colors": "Pale Gray, Graphite, Black"
+   },
+   "options": [
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Pale Gray",
+       "default": true
+      },
+      {
+       "label": "Graphite"
+      },
+      {
+       "label": "Black"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "sku": "TK-LOGI-LITRA-BEAM-LX",
+   "slug": "logitech-g-litra-beam-lx",
+   "name": "Logitech G Litra Beam LX Streaming Light",
+   "brand": "Logitech",
+   "category": "streaming-gear",
+   "price": "159.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    26,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "ultimate-gaming-setup"
+   ],
+   "summary": "Dual-sided streaming light: a TrueSoft key light on the front and LIGHTSYNC RGB accent lighting on the back, on an adjustable stand.",
+   "description": "Logitech G Litra Beam LX is a dual-sided streaming light with a key light on one side for natural skin tones and LIGHTSYNC RGB accent lighting on the other to illuminate your space, controllable via software and Bluetooth.",
+   "keywords": "key light rgb streaming lighting desk lamp creator",
+   "specs": {
+    "connection": "USB power; Bluetooth or USB control",
+    "colors": "Graphite"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-LOGI-G-PRO-X3-SUPERSTRIKE",
+   "slug": "logitech-g-pro-x3-superstrike",
+   "name": "Logitech G PRO X3 SUPERSTRIKE Wireless Gaming Mouse",
+   "brand": "Logitech",
+   "category": "mice",
+   "price": "199.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    25,
+    5
+   ],
+   "featured": true,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "ultimate-gaming-setup"
+   ],
+   "summary": "59 g esports mouse with the Haptic Inductive Trigger System (HITS), HERO 2 sensor up to 48,000 DPI and 8 kHz wired and LIGHTSPEED polling.",
+   "description": "PRO X3 SUPERSTRIKE refines the Haptic Inductive Trigger System (HITS) with optimized internals and a new flagship chipset for a fully customizable click. It weighs 59 g, has 5 buttons, uses the HERO 2 sensor (100-48,000 DPI, >930 IPS, >90 G) and reports at up to 8,000 Hz both wired and over LIGHTSPEED, with up to 135 hours of constant motion battery life.",
+   "keywords": "esports gaming mouse haptic inductive trigger hero 2 8khz lightspeed",
+   "specs": {
+    "connection": "LIGHTSPEED 2.4 GHz, wired",
+    "sensorDpi": 48000,
+    "weightG": 59,
+    "buttons": 5,
+    "colors": "Magenta Eclipse, Midnight Black"
+   },
+   "options": [
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Magenta Eclipse",
+       "default": true
+      },
+      {
+       "label": "Midnight Black"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "sku": "TK-LOGI-G-PRO-X-SUPERLIGHT-2C",
+   "slug": "logitech-g-pro-x-superlight-2c",
+   "name": "Logitech G PRO X SUPERLIGHT 2c Wireless Gaming Mouse",
+   "brand": "Logitech",
+   "category": "mice",
+   "price": "149.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    53,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "ultimate-gaming-setup"
+   ],
+   "summary": "Compact 51 g LIGHTSPEED esports mouse with HERO 2 sensor (44,000 DPI), LIGHTFORCE switches, 8 kHz polling and up to 95 hours of battery.",
+   "description": "PRO X SUPERLIGHT 2c is a compact 51 g wireless gaming mouse with the HERO 2 sensor (100-44,000 DPI, >888 IPS), LIGHTSPEED wireless, hybrid LIGHTFORCE switches, an 8,000 Hz maximum report rate and up to 95 hours of constant-motion battery life.",
+   "keywords": "compact ultralight esports mouse hero 2 lightforce 8khz",
+   "specs": {
+    "connection": "LIGHTSPEED 2.4 GHz, wired",
+    "sensorDpi": 44000,
+    "weightG": 51,
+    "buttons": 5,
+    "colors": "White, Black, Magenta"
+   },
+   "options": [
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "White",
+       "default": true
+      },
+      {
+       "label": "Black"
+      },
+      {
+       "label": "Magenta"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "sku": "TK-LOGI-G915-X-TKL",
+   "slug": "logitech-g-g915-x-lightspeed-tkl",
+   "name": "Logitech G G915 X LIGHTSPEED TKL Wireless Gaming Keyboard",
+   "brand": "Logitech",
+   "category": "keyboards",
+   "price": "229.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    43,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "ultimate-gaming-setup"
+   ],
+   "summary": "Low-profile tenkeyless wireless gaming keyboard with tri-mode connectivity, KEYCONTROL, GL mechanical switches and LIGHTSYNC RGB.",
+   "description": "G915 X LIGHTSPEED TKL is a sleek tenkeyless wireless gaming keyboard with LIGHTSPEED, Bluetooth and wired modes, KEYCONTROL remapping, low-profile GL mechanical switches (linear, tactile or clicky; 1.3 mm actuation, 3.2 mm travel) and LIGHTSYNC RGB, with up to 42 hours at 100% RGB brightness.",
+   "keywords": "low profile tkl wireless gaming keyboard gl switches lightsync",
+   "specs": {
+    "connection": "LIGHTSPEED 2.4 GHz, Bluetooth, USB-C wired",
+    "layout": "TKL",
+    "switchType": "Low-profile GL Linear / Tactile / Clicky",
+    "mechanical": true,
+    "hotSwappable": false,
+    "colors": "Black, White"
+   },
+   "options": [
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Black",
+       "default": true
+      },
+      {
+       "label": "White"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "sku": "TK-LOGI-G-PRO-X2-RAPID",
+   "slug": "logitech-g-pro-x2-rapid",
+   "name": "Logitech G PRO X2 RAPID Analog Gaming Keyboard",
+   "brand": "Logitech",
+   "category": "keyboards",
+   "price": "229.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    34,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "ultimate-gaming-setup"
+   ],
+   "summary": "8 kHz wired TKL analog Hall-effect keyboard with rapid trigger, 0.05 mm actuation steps, KEY PRIORITY (SOCD) and an OLED display.",
+   "description": "PRO X2 RAPID is a wired tenkeyless analog gaming keyboard with Hall-effect high-profile linear switches, rapid trigger, actuation adjustable in 0.05 mm increments, 8 kHz scan and USB polling, KEY PRIORITY (SOCD), per-key LIGHTSYNC RGB and an OLED screen.",
+   "keywords": "hall effect analog rapid trigger tkl 8khz oled socd esports",
+   "specs": {
+    "connection": "USB wired",
+    "layout": "TKL",
+    "switchType": "High Profile Analog Linear (Hall effect)",
+    "mechanical": false,
+    "colors": "Black, White, Magenta"
+   },
+   "options": [
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Black",
+       "default": true
+      },
+      {
+       "label": "White"
+      },
+      {
+       "label": "Magenta"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "sku": "TK-LOGI-G-PRO-X3-LIGHTSPEED",
+   "slug": "logitech-g-pro-x3-lightspeed",
+   "name": "Logitech G PRO X3 LIGHTSPEED Wireless Gaming Headset",
+   "brand": "Logitech",
+   "category": "headsets",
+   "price": "249.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    24,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "ultimate-gaming-setup"
+   ],
+   "summary": "LIGHTSPEED, Bluetooth and 3.5 mm esports headset with 50 mm graphene drivers, a full-bandwidth mic and up to 70 hours of play.",
+   "description": "PRO X3 LIGHTSPEED is a wireless 7.1 gaming headset with 50 mm PRO-G GRAPHENE drivers, a full-bandwidth omnidirectional microphone and a 10-band EQ. It connects over LIGHTSPEED via a USB-A receiver, Bluetooth 5.3 or 3.5 mm, weighs 356 g and lasts up to 70 hours.",
+   "keywords": "esports headset graphene lightspeed bluetooth 7.1 boom mic",
+   "specs": {
+    "connection": "LIGHTSPEED 2.4 GHz, Bluetooth 5.3, 3.5 mm",
+    "batteryHours": 70,
+    "boomMic": true,
+    "colors": "Black, White, Magenta"
+   },
+   "options": [
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Black",
+       "default": true
+      },
+      {
+       "label": "White"
+      },
+      {
+       "label": "Magenta"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "sku": "TK-CORSAIR-VANGUARD-PRO-96",
+   "slug": "corsair-vanguard-pro-96-hall-effect",
+   "name": "Corsair VANGUARD PRO 96 Hall Effect Gaming Keyboard",
+   "brand": "Corsair",
+   "category": "keyboards",
+   "price": "229.99",
+   "compareAt": null,
+   "warranty": 24,
+   "stock": [
+    57,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "ultimate-gaming-setup"
+   ],
+   "summary": "Compact 96% Hall-effect gaming keyboard with MGX Hyperdrive magnetic switches, rapid trigger, 8,000 Hz polling, an LCD screen, G-keys and a rotary dial.",
+   "description": "VANGUARD PRO 96 packs a numpad, arrow keys, six G-keys, an LCD screen and a rotary dial into a footprint close to a TKL. Hot-swappable CORSAIR MGX Hyperdrive magnetic switches support rapid trigger and dynamically resetting actuation, with up to 8,000 Hz polling, 8 MB onboard memory (5 profiles) and a magnetic memory-foam wrist rest.",
+   "keywords": "hall effect magnetic rapid trigger 96% lcd g-keys 8000hz stream deck icue",
+   "specs": {
+    "connection": "USB wired",
+    "layout": "96%",
+    "switchType": "CORSAIR MGX Hyperdrive magnetic (Hall effect)",
+    "mechanical": false,
+    "hotSwappable": true,
+    "macSupport": true,
+    "colors": "Black"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-CORSAIR-GALLEON-100-SD",
+   "slug": "corsair-galleon-100-sd",
+   "name": "Corsair GALLEON 100 SD Stream Deck-Integrated Mechanical Keyboard",
+   "brand": "Corsair",
+   "category": "keyboards",
+   "price": "349.99",
+   "compareAt": null,
+   "warranty": 24,
+   "stock": [
+    9,
+    5
+   ],
+   "featured": true,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "ultimate-gaming-setup"
+   ],
+   "summary": "Full-size gaming keyboard with a built-in Elgato Stream Deck (LCD keys, dials and screen), MLX Pulse switches and 8,000 Hz polling.",
+   "description": "GALLEON 100 SD is the first high-performance gaming keyboard with a built-in Stream Deck, combining CORSAIR and Elgato engineering. It adds customizable LCD keys, dials and a screen to a full-size layout with CORSAIR MLX Pulse mechanical switches, up to 8,000 Hz report rate, dedicated media keys, USB 2.0 passthrough and a magnetic memory-foam wrist rest.",
+   "keywords": "stream deck keyboard lcd keys dials creator streaming full size mechanical",
+   "specs": {
+    "connection": "USB wired",
+    "layout": "Full size",
+    "switchType": "CORSAIR MLX Pulse mechanical",
+    "mechanical": true,
+    "macSupport": true,
+    "colors": "Black"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-CORSAIR-K65-PLUS-WL-TACTILE",
+   "slug": "corsair-k65-plus-wireless-tactile",
+   "name": "Corsair K65 PLUS WIRELESS Tactile 75% Mechanical Keyboard",
+   "brand": "Corsair",
+   "category": "keyboards",
+   "price": "159.99",
+   "compareAt": null,
+   "warranty": 24,
+   "stock": [
+    13,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [],
+   "summary": "75% hot-swappable wireless keyboard with pre-lubricated MLX Fusion tactile switches, a programmable dial and up to 266 hours of battery.",
+   "description": "K65 PLUS WIRELESS TACTILE is a 75% hot-swappable keyboard with pre-lubricated CORSAIR MLX Fusion tactile switches, a multi-function dial programmable in iCUE, low-latency 2.4 GHz wireless plus Bluetooth and wired modes, and up to 266 hours of battery life with LEDs off.",
+   "keywords": "75% wireless tactile hot-swap dial bluetooth gasket",
+   "specs": {
+    "connection": "2.4 GHz wireless, Bluetooth, USB wired",
+    "layout": "75%",
+    "switchType": "CORSAIR MLX Fusion tactile",
+    "mechanical": true,
+    "hotSwappable": true,
+    "colors": "Black"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-CORSAIR-SABRE-V2-PRO-UL",
+   "slug": "corsair-sabre-v2-pro-ultralight-wireless",
+   "name": "Corsair SABRE v2 PRO ULTRALIGHT Wireless Gaming Mouse",
+   "brand": "Corsair",
+   "category": "mice",
+   "price": "99.99",
+   "compareAt": null,
+   "warranty": 24,
+   "stock": [
+    50,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "ultimate-gaming-setup"
+   ],
+   "summary": "36 g symmetrical esports mouse with the MARKSMAN S 33K DPI sensor, 8,000 Hz wired and wireless polling and up to 70 hours of battery.",
+   "description": "SABRE v2 PRO ULTRALIGHT weighs 36 g and uses the CORSAIR MARKSMAN S optical sensor (100-33,000 DPI, 750 IPS, 50G, 99.7% resolution accuracy). It supports 8,000 Hz hyper-polling both wired and wireless, is rated for up to 70 hours of battery life and is configured through the web-based CORSAIR Web Hub.",
+   "keywords": "ultralight 36g esports fps mouse 8000hz marksman",
+   "specs": {
+    "connection": "2.4 GHz wireless, wired",
+    "sensorDpi": 33000,
+    "weightG": 36,
+    "colors": "Black"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-CORSAIR-VIRTUOSO-MAX",
+   "slug": "corsair-virtuoso-max-wireless",
+   "name": "Corsair VIRTUOSO MAX Wireless Gaming Headset",
+   "brand": "Corsair",
+   "category": "headsets",
+   "price": "299.99",
+   "compareAt": null,
+   "warranty": 24,
+   "stock": [
+    33,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "ultimate-gaming-setup"
+   ],
+   "summary": "Premium wireless headset with active noise cancellation, 50 mm graphene drivers, Dolby Atmos and simultaneous 2.4 GHz plus Bluetooth.",
+   "description": "VIRTUOSO MAX pairs active noise cancellation and a transparency mode with 50 mm graphene drivers (20 Hz-40 kHz) and Dolby Atmos spatial audio. It connects over a USB wireless receiver and Bluetooth simultaneously, has a detachable omnidirectional microphone and lasts up to 60 hours with RGB off (30 hours with RGB on).",
+   "keywords": "anc wireless headset graphene dolby atmos bluetooth detachable mic",
+   "specs": {
+    "connection": "2.4 GHz USB receiver, Bluetooth, USB-C wired",
+    "noiseCancelling": true,
+    "batteryHours": 60,
+    "boomMic": true,
+    "colors": "Carbon"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-ELGATO-STREAM-DECK-PLUS-XL",
+   "slug": "elgato-stream-deck-plus-xl",
+   "name": "Elgato Stream Deck + XL",
+   "brand": "Elgato",
+   "category": "streaming-gear",
+   "price": "349.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    44,
+    5
+   ],
+   "featured": true,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "ultimate-gaming-setup",
+    "developer-setup"
+   ],
+   "summary": "Elgato's largest Stream Deck: 36 customizable LCD keys, six push-dials and a 161 mm touch strip over USB-C.",
+   "description": "Stream Deck + XL offers 36 customizable LCD keys, six 360-degree encoders with push function and a 161 x 14 mm touch strip for controlling apps, streams and creative tools. It connects over USB-C 3.0, measures 205 x 147 x 175 mm and weighs 1,085 g, with optional interchangeable dial sets.",
+   "keywords": "stream deck xl lcd keys dials touch strip creator control surface",
+   "specs": {
+    "connection": "USB-C",
+    "colors": "Black"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-ELGATO-STREAM-DECK-PLUS",
+   "slug": "elgato-stream-deck-plus",
+   "name": "Elgato Stream Deck +",
+   "brand": "Elgato",
+   "category": "streaming-gear",
+   "price": "179.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    14,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "ultimate-gaming-setup",
+    "developer-setup"
+   ],
+   "summary": "Control surface with 8 LCD keys, 4 push-dials and a touch strip for streaming, editing, audio mixing and app control.",
+   "description": "Stream Deck + gives tactile control with 8 customizable LCD keys, 4 x 360-degree encoders with push function and a 108 x 14 mm LCD touch panel. It supports over 200 plugins and keyboard shortcuts for video, podcasting, live production, photo editing and design, connecting over USB with a USB-C cable.",
+   "keywords": "stream deck plus dials lcd keys touch strip creator",
+   "specs": {
+    "connection": "USB-C (USB 2.0)",
+    "colors": "Black, White"
+   },
+   "options": [
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Black",
+       "default": true
+      },
+      {
+       "label": "White"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "sku": "TK-ELGATO-STREAM-DECK-SCISSOR",
+   "slug": "elgato-stream-deck-scissor-keys",
+   "name": "Elgato Stream Deck Scissor Keys",
+   "brand": "Elgato",
+   "category": "streaming-gear",
+   "price": "149.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    24,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "developer-setup"
+   ],
+   "summary": "15-key Stream Deck with low-profile tactile scissor switches, 72 x 72 px LCD keys and a detachable stand.",
+   "description": "Stream Deck Scissor Keys brings all the power of Stream Deck to 15 LCD keys with tactile scissor switches in a sleek low-profile design. Each key shows 72 x 72 px artwork; it weighs 286 g with its detachable stand and connects via a 90-degree USB-C to USB-C cable (USB 2.0).",
+   "keywords": "stream deck 15 keys scissor switch macro pad",
+   "specs": {
+    "connection": "USB-C (USB 2.0)",
+    "colors": "Black"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-ELGATO-GAME-CAPTURE-4K-X",
+   "slug": "elgato-game-capture-4k-x",
+   "name": "Elgato Game Capture 4K X",
+   "brand": "Elgato",
+   "category": "expansion-cards",
+   "price": "249.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    35,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "ultimate-gaming-setup"
+   ],
+   "summary": "HDMI 2.1 USB capture card that records and passes through up to 4K144 with HDR10 and ultra-low-latency VRR passthrough.",
+   "description": "Game Capture 4K X is Elgato's most powerful USB capture card: HDMI 2.1 input with lag-free HDMI passthrough, recording and passthrough up to 4K at 144 fps, HDR10 capture (Windows) and VRR passthrough. It connects over USB 3.2 Type-C and weighs 91 g.",
+   "keywords": "capture card 4k144 hdmi 2.1 hdr10 vrr usb streaming ps5 xbox",
+   "specs": {
+    "cardType": "External USB game capture",
+    "interface": "USB 3.2 Type-C; HDMI 2.1 in/out",
+    "maxResolution": "4K144 (recording & passthrough)"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-ELGATO-KEY-LIGHT",
+   "slug": "elgato-key-light",
+   "name": "Elgato Key Light",
+   "brand": "Elgato",
+   "category": "streaming-gear",
+   "price": "179.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    32,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "ultimate-gaming-setup"
+   ],
+   "summary": "Wi-Fi LED key light with 160 OSRAM LEDs producing 2,800 lumens, 2,900-7,000 K colour temperature and CRI above 92.",
+   "description": "Elgato Key Light is a Wi-Fi enabled studio panel with 160 premium OSRAM LEDs outputting 2,800 lumens, adjustable from 2,900 to 7,000 K with a CRI above 92 and up to 45 W consumption. It is controlled via the Control Center app over 2.4/5 GHz Wi-Fi and ships with the Master Mount L desk clamp pole.",
+   "keywords": "key light led panel wifi streaming studio lighting",
+   "specs": {
+    "connection": "Wi-Fi 2.4 / 5 GHz",
+    "colors": "Black"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-ELGATO-FACECAM-4K",
+   "slug": "elgato-facecam-4k",
+   "name": "Elgato Facecam 4K",
+   "brand": "Elgato",
+   "category": "webcams",
+   "price": "199.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    12,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "ultimate-gaming-setup"
+   ],
+   "summary": "4K60 USB-C webcam with a 1/1.8-inch Sony STARVIS 2 sensor, HDR, 90-degree Elgato Prime Lens and 49 mm filter support.",
+   "description": "Facecam 4K records up to 4K at 60 fps (MJPG) over USB 3.0 using a 1/1.8-inch Sony STARVIS 2 CMOS sensor, with HDR up to 2160p30. Its Elgato Prime Lens has a 90-degree field of view, f/4.0 aperture and fixed 30-120 cm focus, supports 49 mm lens filters and comes with a privacy cap; there is no built-in microphone.",
+   "keywords": "4k60 webcam starvis 2 hdr streaming camera usb-c",
+   "specs": {
+    "connection": "USB-C (USB 3.0)",
+    "resolution": "4K (2160p)",
+    "fps": 60,
+    "privacyShutter": false,
+    "colors": "Black, Carbon, Pine, White"
+   },
+   "options": [
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Black",
+       "default": true
+      },
+      {
+       "label": "Carbon"
+      },
+      {
+       "label": "Pine"
+      },
+      {
+       "label": "White"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "sku": "TK-ELGATO-WAVE-NEO",
+   "slug": "elgato-wave-neo",
+   "name": "Elgato Wave Neo USB Microphone",
+   "brand": "Elgato",
+   "category": "microphones",
+   "price": "89.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    13,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [],
+   "summary": "Plug-and-play USB-C cardioid condenser microphone with 24-bit/96 kHz audio, headphone jack, desk stand and pop filter.",
+   "description": "Wave Neo is a USB-C condenser microphone with a cardioid pattern, 24-bit audio at 48 or 96 kHz, 20 Hz-20 kHz response, 94 dB dynamic range and 120 dB max SPL. It has a 3.5 mm headphone jack, works with PC, Mac, PS4, PS5, iPad and iPhone, and includes a desktop stand, riser extension and pop filter.",
+   "keywords": "usb microphone condenser cardioid podcast streaming meetings",
+   "specs": {
+    "connection": "USB-C",
+    "micType": "Condenser",
+    "polarPattern": "Cardioid",
+    "colors": "White"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-STEELSERIES-AEROX-3-WL-G2",
+   "slug": "steelseries-aerox-3-wireless-gen-2",
+   "name": "SteelSeries Aerox 3 Wireless Gen 2",
+   "brand": "SteelSeries",
+   "category": "mice",
+   "price": "94.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    36,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "ultimate-gaming-setup"
+   ],
+   "summary": "Lightweight AquaBarrier-sealed honeycomb gaming mouse with TrueMove 26K sensor, 4K wireless polling, 2.4 GHz plus Bluetooth and up to 200 hours of battery.",
+   "description": "Aerox 3 Wireless Gen 2 uses a TrueMove 26K sensor (400 IPS, 40G) with 4,000 Hz wireless polling for 0.25 ms response and under 2 ms click latency. Its AquaBarrier honeycomb shell seals out dust, sweat and spills; it connects over 2.4 GHz and Bluetooth, runs up to 120 hours on 2.4 GHz or 200 hours on Bluetooth, and glides on 100% virgin-grade PTFE feet.",
+   "keywords": "lightweight honeycomb wireless gaming mouse 4k polling bluetooth",
+   "specs": {
+    "connection": "2.4 GHz wireless, Bluetooth",
+    "sensorDpi": 26000,
+    "colors": "Shadow, Ghost, Magenta Haze"
+   },
+   "options": [
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Shadow",
+       "default": true
+      },
+      {
+       "label": "Ghost"
+      },
+      {
+       "label": "Magenta Haze"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "sku": "TK-STEELSERIES-NOVA-ELITE",
+   "slug": "steelseries-arctis-nova-elite",
+   "name": "SteelSeries Arctis Nova Elite Wireless Gaming Headset",
+   "brand": "SteelSeries",
+   "category": "headsets",
+   "price": "599.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    38,
+    5
+   ],
+   "featured": true,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "ultimate-gaming-setup"
+   ],
+   "summary": "SteelSeries' flagship Hi-Res wireless headset with carbon-fibre drivers, powerful ANC, a retractable boom mic and a GameHub that mixes four audio sources.",
+   "description": "Arctis Nova Elite uses carbon-fibre audio drivers with a brass surround and is Hi-Res certified by the Japan Audio Society. It reduces up to 89% of background noise with active noise cancellation and a transparency mode, has a retractable 32 kHz boom mic plus a beamforming onboard mic, and its GameHub connects PC, PlayStation, Switch, Xbox or mobile while mixing up to four sources.",
+   "keywords": "flagship wireless headset anc hi-res multi-platform gamehub",
+   "specs": {
+    "connection": "2.4 GHz wireless via GameHub, Bluetooth, USB",
+    "noiseCancelling": true,
+    "boomMic": true,
+    "colors": "Sage Gold, Black"
+   },
+   "options": [
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Sage Gold",
+       "default": true
+      },
+      {
+       "label": "Black"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "sku": "TK-STEELSERIES-NOVA-PRO-OMNI",
+   "slug": "steelseries-arctis-nova-pro-omni",
+   "name": "SteelSeries Arctis Nova Pro Omni Wireless Gaming Headset",
+   "brand": "SteelSeries",
+   "category": "headsets",
+   "price": "399.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    15,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "ultimate-gaming-setup"
+   ],
+   "summary": "Multi-platform Hi-Res wireless headset with ANC, hot-swappable Infinite Power batteries and a GameHub that mixes four sources.",
+   "description": "Arctis Nova Pro Omni is Hi-Res certified with 10 Hz-40 kHz neodymium drivers and LC3+ low-latency wireless. Its active noise cancellation includes a transparency mode, the Infinite Power System swaps between two batteries (one charging in the GameHub), and OmniPlay mixes up to four sources (2x USB, Bluetooth and line-in) across PC, PlayStation, Xbox and mobile.",
+   "keywords": "multi-platform wireless headset anc hot-swap battery hi-res",
+   "specs": {
+    "connection": "2.4 GHz wireless via GameHub, Bluetooth, USB",
+    "noiseCancelling": true,
+    "boomMic": true,
+    "colors": "Black, Midnight Blue, White"
+   },
+   "options": [
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Black",
+       "default": true
+      },
+      {
+       "label": "Midnight Blue"
+      },
+      {
+       "label": "White"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}
