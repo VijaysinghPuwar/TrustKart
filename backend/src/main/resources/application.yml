@@ -5,7 +5,8 @@ spring:
     virtual:
       enabled: true
   datasource:
-    url: ${TRUSTKART_DB_URL:jdbc:postgresql://localhost:5433/trustkart}
+    # Either a full JDBC URL, or host / port / database separately (how Render hands out its database details).
+    url: ${TRUSTKART_DB_URL:jdbc:postgresql://${TRUSTKART_DB_HOST:localhost}:${TRUSTKART_DB_PORT:5433}/${TRUSTKART_DB_NAME:trustkart}}
     username: ${TRUSTKART_DB_USER:trustkart}
     password: ${TRUSTKART_DB_PASSWORD}
     hikari:
