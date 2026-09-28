@@ -1,5 +1,21 @@
 {
   "extensions": [
+    { "extend": "mice", "specs": [
+        { "key": "sensor", "label": "Sensor", "type": "TEXT", "group": "Performance" },
+        { "key": "pollingRateHz", "label": "Max polling rate", "type": "NUMBER", "unit": "Hz", "group": "Performance", "filterable": true },
+        { "key": "batteryHours", "label": "Battery life", "type": "NUMBER", "unit": "h", "group": "Battery" },
+        { "key": "handOrientation", "label": "Hand orientation", "type": "TEXT", "group": "Design", "filterable": true } ] },
+    { "extend": "keyboards", "specs": [
+        { "key": "pollingRateHz", "label": "Max polling rate", "type": "NUMBER", "unit": "Hz", "group": "Performance" },
+        { "key": "backlight", "label": "Backlight", "type": "TEXT", "group": "Design" },
+        { "key": "batteryHours", "label": "Battery life", "type": "NUMBER", "unit": "h", "group": "Battery" },
+        { "key": "keycaps", "label": "Keycaps", "type": "TEXT", "group": "Typing" } ] },
+    { "extend": "headsets", "specs": [
+        { "key": "drivers", "label": "Drivers", "type": "TEXT", "group": "Audio" },
+        { "key": "microphone", "label": "Microphone", "type": "TEXT", "group": "Audio" },
+        { "key": "platforms", "label": "Works with", "type": "TEXT", "group": "Compatibility", "filterable": true },
+        { "key": "weightG", "label": "Weight", "type": "NUMBER", "unit": "g", "group": "Design" },
+        { "key": "headsetType", "label": "Type", "type": "TEXT", "group": "Design", "filterable": true } ] },
     { "extend": "cables", "specs": [
         { "key": "cableCategory", "label": "Cable type", "type": "TEXT", "group": "Cabling", "filterable": true },
         { "key": "lengthM", "label": "Length", "type": "NUMBER", "unit": "m", "group": "Cabling", "filterable": true } ] },
@@ -94,7 +110,7 @@
         { "slug": "streaming-gear", "name": "Streaming & creator gear" }
       ] },
     { "extend": "monitors",
-      "specs": [ { "key": "panelDetails", "label": "Panel details", "type": "TEXT", "group": "Display" }, { "key": "colors", "label": "Colors", "type": "TEXT", "group": "Options", "comparable": false }, { "key": "configurations", "label": "Configurations", "type": "TEXT", "group": "Options", "comparable": false } ] },
+      "specs": [ { "key": "responseTimeMs", "label": "Response time", "type": "NUMBER", "unit": "ms", "group": "Display" }, { "key": "brightnessNits", "label": "Peak brightness", "type": "NUMBER", "unit": "nits", "group": "Display" }, { "key": "adaptiveSync", "label": "Adaptive sync", "type": "TEXT", "group": "Gaming" }, { "key": "stand", "label": "Stand", "type": "TEXT", "group": "Design" }, { "key": "curvature", "label": "Curvature", "type": "TEXT", "group": "Display" }, { "key": "panelDetails", "label": "Panel details", "type": "TEXT", "group": "Display" }, { "key": "colors", "label": "Colors", "type": "TEXT", "group": "Options", "comparable": false }, { "key": "configurations", "label": "Configurations", "type": "TEXT", "group": "Options", "comparable": false } ] },
     { "extend": "tablets",
       "specs": [
         { "key": "display", "label": "Display details", "type": "TEXT", "group": "Display" },
