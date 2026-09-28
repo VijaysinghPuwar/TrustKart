@@ -1,5 +1,12 @@
 {
   "extensions": [
+    { "extend": "storage", "children": [
+        { "slug": "flash-drives-memory-cards", "name": "USB flash drives & memory cards",
+          "specs": [ { "key": "mediaType", "label": "Type", "type": "TEXT", "group": "Storage", "filterable": true }, { "key": "readMbps", "label": "Read speed", "type": "NUMBER", "unit": "MB/s", "group": "Performance" },
+                     { "key": "writeMbps", "label": "Write speed", "type": "NUMBER", "unit": "MB/s", "group": "Performance" }, { "key": "speedClass", "label": "Speed class", "type": "TEXT", "group": "Performance" } ] } ] },
+    { "extend": "peripherals", "children": [
+        { "slug": "keyboard-accessories", "name": "Keycaps, switches & keyboard accessories",
+          "specs": [ { "key": "accessoryType", "label": "Type", "type": "TEXT", "group": "Design", "filterable": true }, { "key": "compatibility", "label": "Compatibility", "type": "TEXT", "group": "Compatibility" } ] } ] },
     { "extend": "mice", "specs": [
         { "key": "sensor", "label": "Sensor", "type": "TEXT", "group": "Performance" },
         { "key": "pollingRateHz", "label": "Max polling rate", "type": "NUMBER", "unit": "Hz", "group": "Performance", "filterable": true },
@@ -251,6 +258,9 @@
             { "key": "maxAperture", "label": "Max aperture", "type": "TEXT", "group": "Lens" }
           ] },
         { "slug": "action-cameras", "name": "Action & 360 cameras" },
+        { "slug": "camera-accessories", "name": "Camera accessories",
+          "specs": [ { "key": "accessoryType", "label": "Type", "type": "TEXT", "group": "Design", "filterable": true }, { "key": "compatibility", "label": "Compatibility", "type": "TEXT", "group": "Compatibility" },
+                     { "key": "capacity", "label": "Capacity", "type": "TEXT", "group": "Specifications" }, { "key": "maxLoadKg", "label": "Max load", "type": "NUMBER", "unit": "kg", "group": "Specifications" } ] },
         { "slug": "drones", "name": "Drones",
           "specs": [
             { "key": "flightTimeMin", "label": "Max flight time", "type": "NUMBER", "unit": "min", "group": "Flight" },
