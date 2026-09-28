@@ -19,6 +19,11 @@ public enum ErrorCode {
     OUT_OF_STOCK(HttpStatus.CONFLICT, "Some items are no longer available in that quantity."),
     INSUFFICIENT_VIRTUAL_FUNDS(HttpStatus.UNPROCESSABLE_CONTENT, "Your virtual balance is too low for this purchase."),
     CART_EMPTY(HttpStatus.UNPROCESSABLE_CONTENT, "Your cart is empty."),
+    PRODUCT_UNAVAILABLE(HttpStatus.CONFLICT, "This product isn't available right now."),
+    PRICE_CHANGED(HttpStatus.CONFLICT, "Prices or availability changed. Please review your order again."),
+    IDEMPOTENCY_KEY_REUSED(HttpStatus.UNPROCESSABLE_CONTENT, "This request key was already used for a different request."),
+    WALLET_LIMIT(HttpStatus.UNPROCESSABLE_CONTENT, "That would take your virtual balance past the maximum allowed."),
+    ALREADY_REFUNDED(HttpStatus.CONFLICT, "This virtual purchase was already refunded."),
     IDEMPOTENCY_KEY_REQUIRED(HttpStatus.BAD_REQUEST, "An Idempotency-Key header is required."),
     RATE_LIMITED(HttpStatus.TOO_MANY_REQUESTS, "Too many attempts. Please wait and try again."),
     INTERNAL_ERROR(HttpStatus.INTERNAL_SERVER_ERROR, "Something went wrong on our side.");

@@ -116,6 +116,17 @@ public class CatalogService {
         return search.findSummaries(new LinkedHashSet<>(ids)).stream().map(CatalogMapper::card).toList();
     }
 
+    /** Cards for any number of ids (internal callers such as wishlists; the public lookup endpoint is capped). */
+    public List<ProductCardDto> lookupAll(Collection<Long> ids) {
+        return search.findSummaries(new LinkedHashSet<>(ids)).stream().map(CatalogMapper::card).toList();
+    }
+
+    /** Current price and stock for products, keyed by id. Used by cart and checkout to reprice server-side. */
+    public Map<Long, ProductSummary> summariesById(Collection<Long> ids) {
+        return search.findSummaries(new LinkedHashSet<>(ids)).stream()
+                .collect(Collectors.toMap(ProductSummary::id, s -> s));
+    }
+
     public List<ProductCardDto> collection(String tag, int limit) {
         return search.search(ProductQuery.browse(limit).withCollection(tag)).items().stream()
                 .map(CatalogMapper::card).toList();
