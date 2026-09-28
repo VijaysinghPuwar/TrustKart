@@ -550,8 +550,8 @@ def image_record(p: dict) -> dict:
     img = p["image"]
     credit = img.get("credit") or p["brand"]
     license_label = {
-        "manufacturer-press": "Manufacturer press image",
-        "manufacturer-media-library": "Manufacturer media library image",
+        "manufacturer-press": "Manufacturer product image (press kit)",
+        "manufacturer-media-library": "Manufacturer product image (media library)",
         "manufacturer-product-page": "Manufacturer product image",
         "wikimedia-commons": img.get("rights", "Wikimedia Commons"),
         "project-render": "TrustKart render",
