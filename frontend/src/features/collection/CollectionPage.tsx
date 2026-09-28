@@ -1,10 +1,10 @@
-import { Lock, Trophy } from 'lucide-react'
 import { Link } from 'react-router'
 import { ButtonLink } from '@/components/ui/Button'
 import { ErrorState } from '@/components/ui/ErrorState'
 import { PageSpinner } from '@/components/ui/PageSpinner'
 import { useCollection } from '@/data/shopping'
 import { cn } from '@/lib/cn'
+import { AchievementsSection } from './AchievementsSection'
 import { formatMoney } from '@/lib/money'
 import { usePageTitle } from '@/lib/usePageTitle'
 
@@ -89,46 +89,7 @@ export default function CollectionPage() {
         </ul>
       )}
 
-      <section aria-labelledby="achievements-heading" className="flex flex-col gap-3">
-        <h2 id="achievements-heading" className="text-[22px] font-bold">
-          Achievements
-        </h2>
-        <ul className="grid gap-3 sm:grid-cols-2 lg:grid-cols-3">
-          {achievements.map((a) => (
-            <li
-              key={a.code}
-              className={cn(
-                'flex gap-3 rounded-card border bg-surface p-4',
-                a.unlocked ? 'border-trust' : 'border-border',
-              )}
-            >
-              <span
-                className={cn(
-                  'flex size-10 shrink-0 items-center justify-center rounded-full',
-                  a.unlocked ? 'bg-trust-subtle text-trust' : 'bg-surface-2 text-ink-subtle',
-                )}
-              >
-                {a.unlocked ? (
-                  <Trophy className="size-5" aria-hidden="true" />
-                ) : (
-                  <Lock className="size-5" aria-hidden="true" />
-                )}
-              </span>
-              <div>
-                <p className="font-semibold">
-                  {a.title}
-                  <span className="sr-only">{a.unlocked ? ' (unlocked)' : ' (locked)'}</span>
-                </p>
-                <p className="text-[13px] text-ink-muted">{a.description}</p>
-                <p className="mt-1 text-xs font-semibold tabular text-ink-muted">{a.progress}</p>
-              </div>
-            </li>
-          ))}
-        </ul>
-        {achievements.length === 0 && (
-          <p className="text-sm text-ink-muted">Place your first order to start earning achievements.</p>
-        )}
-      </section>
+      <AchievementsSection achievements={achievements} />
     </div>
   )
 }

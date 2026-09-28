@@ -39,6 +39,10 @@ public class VirtualPurchaseItem {
     @Column(name = "image_url")
     private String imageUrl;
 
+    /** The configuration bought, e.g. "512 GB · Silver"; null for products without options. */
+    @Column(name = "options_label")
+    private String optionsLabel;
+
     @Column(name = "unit_price", nullable = false, precision = 19, scale = 2)
     private BigDecimal unitPrice;
 
@@ -54,8 +58,9 @@ public class VirtualPurchaseItem {
     protected VirtualPurchaseItem() {}
 
     VirtualPurchaseItem(long productId, String productSlug, String productName, String categoryName, String imageUrl,
-            BigDecimal unitPrice, int quantity, int stockCommitted) {
+            String optionsLabel, BigDecimal unitPrice, int quantity, int stockCommitted) {
         this.productId = productId;
+        this.optionsLabel = optionsLabel;
         this.productSlug = productSlug;
         this.productName = productName;
         this.categoryName = categoryName;
@@ -64,6 +69,10 @@ public class VirtualPurchaseItem {
         this.quantity = quantity;
         this.lineTotal = unitPrice.multiply(BigDecimal.valueOf(quantity));
         this.stockCommitted = stockCommitted;
+    }
+
+    public String getOptionsLabel() {
+        return optionsLabel;
     }
 
     void attachTo(VirtualPurchase purchase) {

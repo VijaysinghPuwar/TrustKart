@@ -25,7 +25,11 @@ spring:
     redis:
       host: ${TRUSTKART_REDIS_HOST:localhost}
       port: ${TRUSTKART_REDIS_PORT:6380}
+      username: ${TRUSTKART_REDIS_USERNAME:}
       password: ${TRUSTKART_REDIS_PASSWORD:}
+      # Hosted Redis (e.g. Upstash) requires TLS.
+      ssl:
+        enabled: ${TRUSTKART_REDIS_SSL:false}
   jackson:
     deserialization:
       # Reject unknown JSON fields: a client cannot smuggle "price" or "role" into a request.

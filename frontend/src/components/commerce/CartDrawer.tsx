@@ -102,6 +102,7 @@ export function CartDrawer() {
                 >
                   {line.product.name}
                 </Link>
+                {line.optionsLabel && <p className="text-[13px] text-ink-muted">{line.optionsLabel}</p>}
                 {line.issue && <p className="text-[13px] text-danger">{cartIssueText(line.issue)}</p>}
                 <div className="flex flex-wrap items-center gap-3">
                   <QuantityStepper

@@ -8,5 +8,7 @@ export function cartIssueText(issue: CartIssue): string {
       return 'This product was discontinued.'
     case 'QUANTITY_EXCEEDS_STOCK':
       return 'Fewer are available now. Lower the quantity to continue.'
+    case 'OPTION_UNAVAILABLE':
+      return 'This configuration is no longer offered. Remove it and choose another.'
   }
 }

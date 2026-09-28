@@ -37,6 +37,11 @@ public class Browser {
         return send(MockMvcRequestBuilders.get(url), false);
     }
 
+    /** For URLs that are already percent-encoded (a String would be treated as a template and encoded again). */
+    public ResultActions get(java.net.URI uri) throws Exception {
+        return send(MockMvcRequestBuilders.get(uri), false);
+    }
+
     public ResultActions post(String url, String json) throws Exception {
         return send(MockMvcRequestBuilders.post(url).contentType(MediaType.APPLICATION_JSON).content(json), true);
     }

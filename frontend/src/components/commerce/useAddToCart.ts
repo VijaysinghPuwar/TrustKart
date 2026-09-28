@@ -1,7 +1,7 @@
 import { useState } from 'react'
 import { useAddToCart } from '@/data/shopping'
 import { ApiError } from '@/lib/api'
-import type { ProductCard } from '@/lib/types'
+import type { OptionSelection, ProductCard } from '@/lib/types'
 import { useToast } from '@/components/ui/Toast'
 
 /** Add-to-cart with the design's feedback: brief "Added ✓", a toast, and readable errors. */
@@ -10,9 +10,10 @@ export function useAddToCartAction() {
   const { notify } = useToast()
   const [justAdded, setJustAdded] = useState<number | null>(null)
 
-  function addToCart(product: Pick<ProductCard, 'id' | 'name'>, quantity = 1) {
+  function addToCart(product: Pick<ProductCard, 'id' | 'name'>, quantity = 1, options?: OptionSelection) {
     add.mutate(
-      { productId: product.id, quantity },
+      // Products without options send none, so the request is unchanged for them.
+      { productId: product.id, quantity, ...(options && Object.keys(options).length ? { options } : {}) },
       {
         onSuccess: () => {
           setJustAdded(product.id)

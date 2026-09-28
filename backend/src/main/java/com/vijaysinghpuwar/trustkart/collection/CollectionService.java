@@ -1,14 +1,10 @@
 package com.vijaysinghpuwar.trustkart.collection;
 
 import com.fasterxml.jackson.annotation.JsonInclude;
-import com.vijaysinghpuwar.trustkart.catalog.application.CatalogService;
-import com.vijaysinghpuwar.trustkart.catalog.application.CategoryTree;
 import com.vijaysinghpuwar.trustkart.common.money.MoneyWire;
 import java.math.BigDecimal;
 import java.time.Instant;
-import java.util.Collection;
 import java.util.List;
-import java.util.Set;
 import org.springframework.jdbc.core.simple.JdbcClient;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
@@ -30,19 +26,15 @@ public class CollectionService {
 
     public record Highlight(String label, String amount) {}
 
-    public record Achievement(String code, String title, String description, boolean unlocked, String progress) {}
-
-    public record CollectionView(List<OwnedItem> items, Stats stats, List<Achievement> achievements, boolean simulation) {}
-
-    private static final BigDecimal DATACENTER_DREAMER = new BigDecimal("100000");
-    private static final BigDecimal MILLION = new BigDecimal("1000000");
+    public record CollectionView(List<OwnedItem> items, Stats stats, List<Achievements.Achievement> achievements,
+            boolean simulation) {}
 
     private final JdbcClient jdbc;
-    private final CatalogService catalog;
+    private final Achievements achievements;
 
-    public CollectionService(JdbcClient jdbc, CatalogService catalog) {
+    public CollectionService(JdbcClient jdbc, Achievements achievements) {
         this.jdbc = jdbc;
-        this.catalog = catalog;
+        this.achievements = achievements;
     }
 
     @Transactional(readOnly = true)
@@ -65,7 +57,8 @@ public class CollectionService {
                         rs.getTimestamp("first_at").toInstant(), rs.getTimestamp("last_at").toInstant()))
                 .list();
         Stats stats = stats(shopperId, items);
-        return new CollectionView(items, stats, achievements(shopperId, stats), true);
+        return new CollectionView(items, stats, achievements.evaluate(shopperId, new BigDecimal(stats.collectionValue()),
+                stats.productsOwned(), stats.distinctProducts()), true);
     }
 
     private Stats stats(long shopperId, List<OwnedItem> items) {
@@ -96,41 +89,5 @@ public class CollectionService {
 
         return new Stats(items.stream().mapToInt(OwnedItem::quantity).sum(), items.size(), totals.purchases(),
                 MoneyWire.format(totals.spend()), MoneyWire.format(value), mostExpensive, largest, favorite);
-    }
-
-    /** Achievements are computed from purchase history on read: nothing to unlock, sell or manipulate. */
-    private List<Achievement> achievements(long shopperId, Stats stats) {
-        CategoryTree tree = catalog.tree();
-        int gpus = unitsIn(shopperId, subtree(tree, "gpus"));
-        int servers = unitsIn(shopperId, subtree(tree, "servers"));
-        int securityKeys = unitsIn(shopperId, subtree(tree, "security-keys"));
-        BigDecimal value = new BigDecimal(stats.collectionValue());
-        BigDecimal lifetime = jdbc.sql("SELECT coalesce(sum(total), 0) FROM virtual_purchase WHERE shopper_id = :s AND status = 'COMPLETED'")
-                .param("s", shopperId).query(BigDecimal.class).single();
-        return List.of(
-                new Achievement("FIRST_PURCHASE", "First purchase", "Complete your first virtual order.",
-                        stats.purchases() > 0, Math.min(stats.purchases(), 1) + " / 1"),
-                new Achievement("GPU_COLLECTOR", "GPU collector", "Own five graphics cards.", gpus >= 5, Math.min(gpus, 5) + " / 5"),
-                new Achievement("HOMELAB_STARTER", "Homelab starter", "Buy your first server.", servers >= 1, Math.min(servers, 1) + " / 1"),
-                new Achievement("KEY_HOLDER", "Key holder", "Own a hardware security key.", securityKeys >= 1, Math.min(securityKeys, 1) + " / 1"),
-                new Achievement("DATACENTER_DREAMER", "Datacenter dreamer", "Build a collection worth $100,000.",
-                        value.compareTo(DATACENTER_DREAMER) >= 0, "$" + value.min(DATACENTER_DREAMER).toBigInteger() + " / $100000"),
-                new Achievement("MILLION_DOLLAR_CART", "Million dollar cart", "Complete $1,000,000 in virtual purchases.",
-                        lifetime.compareTo(MILLION) >= 0, "$" + lifetime.min(MILLION).toBigInteger() + " / $1000000"));
-    }
-
-    private static Set<Long> subtree(CategoryTree tree, String slug) {
-        return tree.bySlug(slug).map(n -> Set.copyOf(tree.selfAndDescendantIds(n.id()))).orElse(Set.of());
-    }
-
-    private int unitsIn(long shopperId, Collection<Long> categoryIds) {
-        if (categoryIds.isEmpty()) {
-            return 0;
-        }
-        return jdbc.sql("""
-                        SELECT coalesce(sum(pi.quantity), 0) FROM virtual_purchase_item pi
-                        JOIN virtual_purchase vp ON vp.id = pi.purchase_id JOIN product p ON p.id = pi.product_id
-                        WHERE vp.shopper_id = :s AND vp.status = 'COMPLETED' AND p.category_id IN (:c)""")
-                .param("s", shopperId).param("c", categoryIds).query(Integer.class).single();
     }
 }

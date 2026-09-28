@@ -11,6 +11,8 @@ import jakarta.validation.constraints.Max;
 import jakarta.validation.constraints.Min;
 import jakarta.validation.constraints.NotNull;
 import jakarta.validation.constraints.Positive;
+import jakarta.validation.constraints.Size;
+import java.util.Map;
 import java.util.UUID;
 import org.springframework.web.bind.annotation.DeleteMapping;
 import org.springframework.web.bind.annotation.GetMapping;
@@ -27,7 +29,9 @@ import org.springframework.web.bind.annotation.RestController;
 @Tag(name = "Cart")
 class CartController {
 
-    record AddItem(@NotNull @Positive Long productId, @NotNull @Min(1) @Max(10) Integer quantity) {}
+    /** {@code options}: group name to chosen label, e.g. {"Storage": "512 GB"}; missing groups take their default. */
+    record AddItem(@NotNull @Positive Long productId, @NotNull @Min(1) @Max(10) Integer quantity,
+            @Size(max = 8) Map<@Size(max = 40) String, @Size(max = 80) String> options) {}
 
     record UpdateItem(@Min(1) @Max(10) Integer quantity, Boolean savedForLater) {}
 
@@ -48,7 +52,8 @@ class CartController {
 
     @PostMapping("/items")
     CartView add(@Valid @RequestBody AddItem body, HttpServletRequest request, HttpServletResponse response) {
-        return cart.add(shoppers.currentOrCreate(request, response).getId(), body.productId(), body.quantity());
+        return cart.add(shoppers.currentOrCreate(request, response).getId(), body.productId(),
+                body.options() == null ? Map.of() : body.options(), body.quantity());
     }
 
     @PatchMapping("/items/{id}")

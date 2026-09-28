@@ -309,6 +309,7 @@ function ItemList({
     productId: number
     slug: string
     name: string
+    optionsLabel?: string
     imageUrl?: string
     unitPrice: string
     quantity: number
@@ -319,7 +320,7 @@ function ItemList({
   return (
     <ul className="divide-y divide-border">
       {lines.map((l) => (
-        <li key={l.productId} className="flex items-center gap-3 py-3">
+        <li key={`${String(l.productId)}-${l.optionsLabel ?? ''}`} className="flex items-center gap-3 py-3">
           {l.imageUrl && (
             <span className="tk-img-well flex size-14 shrink-0 items-center justify-center rounded-control bg-surface-2 p-1">
               <img
@@ -335,6 +336,7 @@ function ItemList({
             <Link to={`/p/${l.slug}`} className="line-clamp-2 text-sm text-ink">
               {l.name}
             </Link>
+            {l.optionsLabel && <p className="text-[13px] text-ink-muted">{l.optionsLabel}</p>}
             <p className="text-[13px] text-ink-muted tabular">
               Qty {l.quantity} · {formatMoney(l.unitPrice)} each
             </p>

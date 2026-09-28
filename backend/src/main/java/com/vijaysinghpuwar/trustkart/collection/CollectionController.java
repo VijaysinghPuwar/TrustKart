@@ -14,10 +14,12 @@ import org.springframework.web.bind.annotation.RestController;
 class CollectionController {
 
     private final CollectionService collections;
+    private final Achievements achievements;
     private final ShopperService shoppers;
 
-    CollectionController(CollectionService collections, ShopperService shoppers) {
+    CollectionController(CollectionService collections, Achievements achievements, ShopperService shoppers) {
         this.collections = collections;
+        this.achievements = achievements;
         this.shoppers = shoppers;
     }
 
@@ -25,6 +27,6 @@ class CollectionController {
     CollectionService.CollectionView collection(HttpServletRequest request) {
         return shoppers.current(request).map(s -> collections.view(s.getId()))
                 .orElse(new CollectionService.CollectionView(List.of(),
-                        new CollectionService.Stats(0, 0, 0, "0.00", "0.00", null, null, null), List.of(), true));
+                        new CollectionService.Stats(0, 0, 0, "0.00", "0.00", null, null, null), achievements.preview(), true));
     }
 }

@@ -85,13 +85,15 @@ export default function ReceiptPage() {
             </tr>
           </thead>
           <tbody>
-            {p.items.map((i) => (
-              <tr key={i.productId} className="border-b border-border">
+            {p.items.map((i, n) => (
+              <tr key={`${String(i.productId)}-${String(n)}`} className="border-b border-border">
                 <td className="py-2.5 pr-3">
                   <Link to={`/p/${i.slug}`} className="text-ink">
                     {i.name}
                   </Link>
-                  <span className="block text-xs text-ink-muted">{i.categoryName}</span>
+                  <span className="block text-xs text-ink-muted">
+                    {i.optionsLabel ? `${i.optionsLabel} · ${i.categoryName}` : i.categoryName}
+                  </span>
                 </td>
                 <td className="py-2.5 text-right tabular">{i.quantity}</td>
                 <td className="py-2.5 text-right tabular">{formatMoney(i.unitPrice)}</td>

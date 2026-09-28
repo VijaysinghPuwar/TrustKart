@@ -11,6 +11,7 @@ import io.lettuce.core.codec.RedisCodec;
 import io.lettuce.core.codec.StringCodec;
 import java.time.Duration;
 import org.springframework.boot.data.redis.autoconfigure.DataRedisConnectionDetails;
+import org.springframework.beans.factory.annotation.Value;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 
@@ -19,12 +20,18 @@ class RedisConfig {
 
     /** A dedicated Lettuce client for Bucket4j (it needs a String/byte[] codec), built from Boot's connection details. */
     @Bean(destroyMethod = "shutdown")
-    RedisClient rateLimitRedisClient(DataRedisConnectionDetails details) {
+    RedisClient rateLimitRedisClient(DataRedisConnectionDetails details,
+            @Value("${spring.data.redis.ssl.enabled:false}") boolean ssl) {
         DataRedisConnectionDetails.Standalone standalone = details.getStandalone();
         RedisURI.Builder uri = RedisURI.builder().withHost(standalone.getHost()).withPort(standalone.getPort())
-                .withTimeout(Duration.ofSeconds(2));
+                .withSsl(ssl).withTimeout(Duration.ofSeconds(2));
         if (details.getPassword() != null && !details.getPassword().isEmpty()) {
-            uri.withPassword(details.getPassword().toCharArray());
+            String user = details.getUsername();
+            if (user != null && !user.isEmpty()) {
+                uri.withAuthentication(user, details.getPassword().toCharArray());
+            } else {
+                uri.withPassword(details.getPassword().toCharArray());
+            }
         }
         return RedisClient.create(uri.build());
     }

@@ -53,7 +53,12 @@ import org.springframework.transaction.annotation.Transactional;
 public class PurchaseService {
 
     /** A single product bought directly from its page ("Instant Virtual Buy"), bypassing the cart. */
-    public record InstantLine(long productId, int quantity) {}
+    public record InstantLine(long productId, int quantity, Map<String, String> options) {
+
+        public InstantLine {
+            options = options == null ? Map.of() : Map.copyOf(options);
+        }
+    }
 
     public record PlaceRequest(DeliveryPreset preset, SimulationAddress address, UUID addressId, String expectedTotal,
             InstantLine instant) {}
@@ -88,7 +93,7 @@ public class PurchaseService {
     @Transactional
     public Quote quote(long shopperId, InstantLine instant) {
         VirtualWallet wallet = wallets.lock(shopperId);
-        List<Priced> lines = price(requestedLines(shopperId, instant));
+        List<Priced> lines = price(requestedLines(shopperId, instant), instant != null);
         return toQuote(lines, wallet);
     }
 
@@ -113,7 +118,7 @@ public class PurchaseService {
 
         // 2. Reprice everything from the catalog.
         List<CartItem> cartLines = request.instant() == null ? cart.activeLines(shopperId) : List.of();
-        List<Priced> lines = price(requestedLines(shopperId, request.instant()));
+        List<Priced> lines = price(requestedLines(shopperId, request.instant()), request.instant() != null);
         if (lines.isEmpty()) {
             throw new ApiException(ErrorCode.CART_EMPTY);
         }
@@ -148,7 +153,8 @@ public class PurchaseService {
                 committed = 0;
             }
             items.add(new VirtualPurchaseItem(p.id(), p.slug(), p.name(), p.categoryName(),
-                    p.image() == null ? null : p.image().small(), p.price(), line.quantity(), committed));
+                    p.image() == null ? null : p.image().small(), line.optionsLabel(), line.unitPrice(), line.quantity(),
+                    committed));
         }
 
         // 5. Record the purchase, debit the ledger, clear the cart.
@@ -257,29 +263,50 @@ public class PurchaseService {
         return s == null || s.isBlank();
     }
 
-    private record Requested(long productId, int quantity) {}
+    private record Requested(long productId, int quantity, Map<String, String> options) {}
 
-    private record Priced(ProductSummary product, int quantity, BigDecimal lineTotal, String issue) {}
+    private record Priced(ProductSummary product, int quantity, String optionsLabel, BigDecimal unitPrice,
+            BigDecimal lineTotal, String issue) {}
 
     private List<Requested> requestedLines(long shopperId, InstantLine instant) {
         if (instant != null) {
-            return List.of(new Requested(instant.productId(), instant.quantity()));
+            return List.of(new Requested(instant.productId(), instant.quantity(), instant.options()));
         }
-        return cart.activeLines(shopperId).stream().map(i -> new Requested(i.getProductId(), i.getQuantity())).toList();
+        return cart.activeLines(shopperId).stream()
+                .map(i -> new Requested(i.getProductId(), i.getQuantity(), i.getOptions())).toList();
     }
 
-    private List<Priced> price(List<Requested> requested) {
+    private List<Priced> price(List<Requested> requested, boolean single) {
         Map<Long, ProductSummary> products = catalog.summariesById(requested.stream().map(Requested::productId).toList());
         List<Priced> out = new ArrayList<>();
         for (Requested r : requested) {
             ProductSummary p = products.get(r.productId());
             if (p == null) {
-                throw new NotFoundException("Product");
+                if (single) {
+                    throw new NotFoundException("Product");
+                }
+                // Withdrawn from sale after it was added. The cart view already leaves it out, so checkout does too
+                // rather than failing on a line the shopper can't see.
+                continue;
             }
             int max = CatalogMapper.maxQuantity(p.stockStatus(), p.sellableQuantity());
             String issue = !p.stockStatus().purchasable() ? p.stockStatus().name()
                     : r.quantity() > max ? "QUANTITY_EXCEEDS_STOCK" : null;
-            out.add(new Priced(p, r.quantity(), p.price().multiply(BigDecimal.valueOf(r.quantity())), issue));
+            // The configuration's price, resolved on the server. A cart line whose option was retired can't be
+            // bought until the shopper picks again; an instant-buy request with a bad option is a plain 400.
+            BigDecimal unit = p.price();
+            String label = null;
+            // Resolve without throwing: an exception inside this transaction would mark it rollback-only.
+            var resolved = catalog.resolveOptionsIfValid(p.id(), r.options());
+            if (resolved.isPresent()) {
+                unit = resolved.get().unitPrice();
+                label = resolved.get().label();
+            } else if (single) {
+                throw new ValidationException("options", "That configuration isn't available for this product.");
+            } else {
+                issue = "OPTION_UNAVAILABLE";
+            }
+            out.add(new Priced(p, r.quantity(), label, unit, unit.multiply(BigDecimal.valueOf(r.quantity())), issue));
         }
         return out;
     }
@@ -291,8 +318,8 @@ public class PurchaseService {
         BigDecimal shortfall = budget && after.signum() < 0 ? after.negate() : null;
         boolean ok = !lines.isEmpty() && lines.stream().allMatch(l -> l.issue() == null) && shortfall == null;
         List<QuoteLine> quoteLines = lines.stream()
-                .map(l -> new QuoteLine(l.product().id(), l.product().slug(), l.product().name(),
-                        l.product().image() == null ? null : l.product().image().small(), MoneyWire.format(l.product().price()),
+                .map(l -> new QuoteLine(l.product().id(), l.product().slug(), l.product().name(), l.optionsLabel(),
+                        l.product().image() == null ? null : l.product().image().small(), MoneyWire.format(l.unitPrice()),
                         l.quantity(), MoneyWire.format(l.lineTotal()), l.issue()))
                 .toList();
         return new Quote(quoteLines, lines.stream().mapToInt(Priced::quantity).sum(), MoneyWire.format(total), "0.00",
@@ -319,7 +346,8 @@ public class PurchaseService {
                 String.valueOf(r.preset()),
                 String.valueOf(r.addressId()),
                 r.address() == null ? "" : r.address().toString(),
-                r.instant() == null ? "cart" : r.instant().productId() + "x" + r.instant().quantity());
+                r.instant() == null ? "cart"
+                        : r.instant().productId() + "x" + r.instant().quantity() + new java.util.TreeMap<>(r.instant().options()));
         return Tokens.sha256(canonical);
     }
 
@@ -342,7 +370,8 @@ public class PurchaseService {
 
     private PurchaseView toView(VirtualPurchase p) {
         List<ItemView> items = p.getItems().stream()
-                .map(i -> new ItemView(i.getProductId(), i.getProductSlug(), i.getProductName(), i.getCategoryName(),
+                .map(i -> new ItemView(i.getProductId(), i.getProductSlug(), i.getProductName(), i.getOptionsLabel(),
+                        i.getCategoryName(),
                         i.getImageUrl(), MoneyWire.format(i.getUnitPrice()), i.getQuantity(), MoneyWire.format(i.getLineTotal())))
                 .toList();
         return new PurchaseView(p.getPublicId(), p.getOrderNumber(), p.getStatus().name(), p.getCreatedAt(), p.getRefundedAt(),

@@ -9,21 +9,23 @@ import { formatMoney } from '@/lib/money'
 import { usePlaceVirtualOrder } from '@/features/checkout/usePlaceVirtualOrder'
 import { WalletSummary } from '@/features/checkout/WalletSummary'
 import { ProcessingOverlay } from '@/features/checkout/ProcessingOverlay'
-import type { ProductCard } from '@/lib/types'
+import type { OptionSelection, ProductCard } from '@/lib/types'
 
 /** Instant Virtual Buy always asks for confirmation, priced by the server, so one stray click never buys. */
 export function InstantBuyDialog({
   product,
   quantity,
+  options,
   open,
   onClose,
 }: {
   product: ProductCard
   quantity: number
+  options?: OptionSelection
   open: boolean
   onClose: () => void
 }) {
-  const quote = useQuote(open ? { productId: product.id, quantity } : undefined)
+  const quote = useQuote(open ? { productId: product.id, quantity, options } : undefined)
   const place = usePlaceVirtualOrder()
   const q = quote.data
   const error = place.error instanceof ApiError ? place.error : null
@@ -46,7 +48,11 @@ export function InstantBuyDialog({
                 place.submit({
                   deliveryPreset: 'COLLECTION',
                   expectedTotal: q.total,
-                  instant: { productId: product.id, quantity },
+                  instant: {
+                    productId: product.id,
+                    quantity,
+                    ...(options && Object.keys(options).length ? { options } : {}),
+                  },
                 })
               }
             >
@@ -69,6 +75,9 @@ export function InstantBuyDialog({
         <div className="flex flex-col gap-4">
           <p className="text-sm">
             {quantity} × <span className="font-semibold">{product.name}</span>
+            {q.lines[0]?.optionsLabel && (
+              <span className="block text-[13px] text-ink-muted">{q.lines[0].optionsLabel}</span>
+            )}
           </p>
           <WalletSummary quote={q} />
           {q.shortfall && (

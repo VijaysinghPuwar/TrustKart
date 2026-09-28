@@ -1,6 +1,7 @@
 package com.vijaysinghpuwar.trustkart.purchase;
 
 import com.vijaysinghpuwar.trustkart.common.error.NotFoundException;
+import com.vijaysinghpuwar.trustkart.common.error.ValidationException;
 import com.vijaysinghpuwar.trustkart.shopper.ShopperService;
 import io.swagger.v3.oas.annotations.Operation;
 import io.swagger.v3.oas.annotations.tags.Tag;
@@ -12,6 +13,8 @@ import jakarta.validation.constraints.Min;
 import jakarta.validation.constraints.NotNull;
 import jakarta.validation.constraints.Pattern;
 import jakarta.validation.constraints.Positive;
+import jakarta.validation.constraints.Size;
+import java.util.Map;
 import java.util.UUID;
 import org.springframework.http.HttpStatus;
 import org.springframework.web.bind.annotation.GetMapping;
@@ -22,6 +25,9 @@ import org.springframework.web.bind.annotation.RequestHeader;
 import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.ResponseStatus;
 import org.springframework.web.bind.annotation.RestController;
+import tools.jackson.core.JacksonException;
+import tools.jackson.core.type.TypeReference;
+import tools.jackson.databind.ObjectMapper;
 
 /**
  * Virtual checkout. Place requests contain no prices or totals the server would use: only a delivery preset,
@@ -32,26 +38,47 @@ import org.springframework.web.bind.annotation.RestController;
 @Tag(name = "Virtual checkout", description = "Simulated purchases paid with virtual funds. Nothing is charged or shipped.")
 class PurchaseController {
 
-    record Instant(@NotNull @Positive Long productId, @NotNull @Min(1) @Max(10) Integer quantity) {}
+    record Instant(@NotNull @Positive Long productId, @NotNull @Min(1) @Max(10) Integer quantity,
+            @Size(max = 8) Map<@Size(max = 40) String, @Size(max = 80) String> options) {}
 
     record PlaceBody(@NotNull DeliveryPreset deliveryPreset, @Valid SimulationAddress simulationAddress, UUID addressId,
             @Pattern(regexp = "\\d{1,13}(\\.\\d{1,2})?") String expectedTotal, @Valid Instant instant) {}
 
     private final PurchaseService purchases;
     private final ShopperService shoppers;
+    private final ObjectMapper json;
 
-    PurchaseController(PurchaseService purchases, ShopperService shoppers) {
+    PurchaseController(PurchaseService purchases, ShopperService shoppers, ObjectMapper json) {
         this.purchases = purchases;
         this.shoppers = shoppers;
+        this.json = json;
+    }
+
+    /** Instant-buy quotes are GETs, so the configuration arrives as a small JSON object: {"Storage":"512 GB"}. */
+    private Map<String, String> parseOptions(String raw) {
+        if (raw == null || raw.isBlank()) {
+            return Map.of();
+        }
+        try {
+            Map<String, String> parsed = json.readValue(raw, new TypeReference<Map<String, String>>() {});
+            if (parsed.size() > 8 || parsed.entrySet().stream().anyMatch(e -> e.getKey().length() > 40
+                    || e.getValue() == null || e.getValue().length() > 80)) {
+                throw new ValidationException("options", "Too many or too long options.");
+            }
+            return parsed;
+        } catch (JacksonException e) {
+            throw new ValidationException("options", "Options must be a JSON object of group to choice.");
+        }
     }
 
     @GetMapping("/api/v1/checkout/quote")
     @Operation(summary = "Server-priced preview of the cart (or one product for Instant Virtual Buy)")
     PurchaseViews.Quote quote(@RequestParam(required = false) @Positive Long productId,
             @RequestParam(required = false) @Min(1) @Max(10) Integer quantity,
+            @RequestParam(name = "options", required = false) String optionsParam,
             HttpServletRequest request, HttpServletResponse response) {
         PurchaseService.InstantLine instant = productId == null ? null
-                : new PurchaseService.InstantLine(productId, quantity == null ? 1 : quantity);
+                : new PurchaseService.InstantLine(productId, quantity == null ? 1 : quantity, parseOptions(optionsParam));
         return purchases.quote(shoppers.currentOrCreate(request, response).getId(), instant);
     }
 
@@ -62,7 +89,7 @@ class PurchaseController {
             @RequestHeader(value = "Idempotency-Key", required = false) String idempotencyKey,
             HttpServletRequest request, HttpServletResponse response) {
         PurchaseService.InstantLine instant = body.instant() == null ? null
-                : new PurchaseService.InstantLine(body.instant().productId(), body.instant().quantity());
+                : new PurchaseService.InstantLine(body.instant().productId(), body.instant().quantity(), body.instant().options());
         return purchases.place(shoppers.currentOrCreate(request, response).getId(),
                 new PurchaseService.PlaceRequest(body.deliveryPreset(), body.simulationAddress(), body.addressId(),
                         body.expectedTotal(), instant),

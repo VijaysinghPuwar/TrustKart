@@ -13,6 +13,7 @@ import java.time.Clock;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Map;
+import java.util.TreeMap;
 import java.util.UUID;
 import org.springframework.context.event.EventListener;
 import org.springframework.stereotype.Service;
@@ -47,9 +48,19 @@ public class CartService {
                 continue;
             }
             String issue = issue(p, item.getQuantity());
-            BigDecimal line = p.price().multiply(BigDecimal.valueOf(item.getQuantity()));
-            CartView.Line view = new CartView.Line(item.getId(), CatalogMapper.card(p), item.getQuantity(),
-                    MoneyWire.format(p.price()), MoneyWire.format(line), issue);
+            BigDecimal unit = p.price();
+            String label = null;
+            var resolved = catalog.resolveOptionsIfValid(p.id(), item.getOptions());
+            if (resolved.isPresent()) {
+                unit = resolved.get().unitPrice();
+                label = resolved.get().label();
+            } else {
+                // The configuration was retired after it was added; the shopper must pick again.
+                issue = "OPTION_UNAVAILABLE";
+            }
+            BigDecimal line = unit.multiply(BigDecimal.valueOf(item.getQuantity()));
+            CartView.Line view = new CartView.Line(item.getId(), CatalogMapper.card(p), item.getOptions(), label,
+                    item.getQuantity(), MoneyWire.format(unit), MoneyWire.format(line), issue);
             if (item.isSavedForLater()) {
                 saved.add(view);
             } else {
@@ -63,11 +74,17 @@ public class CartService {
         return new CartView(active, saved, MoneyWire.format(subtotal), count);
     }
 
-    /** Adds to an existing line if present. Quantities are validated against live stock, never trusted. */
+    /**
+     * Adds to the line with the same product and configuration if present. Quantities are validated against live
+     * stock and the selection against the product's options (unknown groups or values are a 400); prices are never
+     * taken from the client.
+     */
     @Transactional
-    public CartView add(long shopperId, long productId, int quantity) {
+    public CartView add(long shopperId, long productId, Map<String, String> options, int quantity) {
         ProductSummary product = requirePurchasable(productId);
-        var existing = items.findByShopperIdAndProductId(shopperId, productId);
+        Map<String, String> selection = new TreeMap<>(catalog.resolveOptions(productId, options).selection());
+        var existing = items.findByShopperIdAndProductId(shopperId, productId).stream()
+                .filter(i -> i.sameSelection(productId, selection)).findFirst();
         int newQuantity = existing.map(CartItem::getQuantity).orElse(0) + quantity;
         checkQuantity(product, newQuantity);
         if (existing.isPresent()) {
@@ -77,7 +94,7 @@ public class CartService {
             if (items.countByShopperId(shopperId) >= MAX_LINES) {
                 throw new ApiException(ErrorCode.CONFLICT, "Your cart can hold up to " + MAX_LINES + " different products.");
             }
-            items.save(new CartItem(shopperId, productId, quantity, clock.instant()));
+            items.save(new CartItem(shopperId, productId, selection, quantity, clock.instant()));
         }
         return view(shopperId);
     }
@@ -127,13 +144,15 @@ public class CartService {
     @Transactional
     public void onShopperMerged(ShopperMergedEvent event) {
         for (CartItem guestItem : items.findByShopperIdOrderByAddedAtAsc(event.fromShopperId())) {
-            var target = items.findByShopperIdAndProductId(event.toShopperId(), guestItem.getProductId());
+            var target = items.findByShopperIdAndProductId(event.toShopperId(), guestItem.getProductId()).stream()
+                    .filter(i -> i.sameSelection(guestItem.getProductId(), guestItem.getOptions())).findFirst();
             int combined = Math.min(CatalogMapper.MAX_QUANTITY_PER_LINE,
                     guestItem.getQuantity() + target.map(CartItem::getQuantity).orElse(0));
             if (target.isPresent()) {
                 target.get().setQuantity(combined, clock.instant());
             } else {
-                CartItem moved = new CartItem(event.toShopperId(), guestItem.getProductId(), combined, clock.instant());
+                CartItem moved = new CartItem(event.toShopperId(), guestItem.getProductId(), guestItem.getOptions(), combined,
+                        clock.instant());
                 moved.setSavedForLater(guestItem.isSavedForLater(), clock.instant());
                 items.save(moved);
             }

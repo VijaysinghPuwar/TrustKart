@@ -10,8 +10,8 @@ public final class PurchaseViews {
     private PurchaseViews() {}
 
     @JsonInclude(JsonInclude.Include.NON_NULL)
-    public record QuoteLine(long productId, String slug, String name, String imageUrl, String unitPrice, int quantity,
-            String lineTotal, String issue) {}
+    public record QuoteLine(long productId, String slug, String name, String optionsLabel, String imageUrl, String unitPrice,
+            int quantity, String lineTotal, String issue) {}
 
     /**
      * Server-priced checkout preview. {@code canPlace} is false when any line has an issue or, in Budget mode,
@@ -21,8 +21,9 @@ public final class PurchaseViews {
     public record Quote(List<QuoteLine> lines, int itemCount, String subtotal, String shipping, String total,
             String walletMode, String balance, String balanceAfter, String shortfall, boolean canPlace, boolean simulation) {}
 
-    public record ItemView(long productId, String slug, String name, String categoryName, String imageUrl, String unitPrice,
-            int quantity, String lineTotal) {}
+    @JsonInclude(JsonInclude.Include.NON_NULL)
+    public record ItemView(long productId, String slug, String name, String optionsLabel, String categoryName, String imageUrl,
+            String unitPrice, int quantity, String lineTotal) {}
 
     /** Every purchase view carries simulation=true so no client can present it as a real order. */
     @JsonInclude(JsonInclude.Include.NON_NULL)

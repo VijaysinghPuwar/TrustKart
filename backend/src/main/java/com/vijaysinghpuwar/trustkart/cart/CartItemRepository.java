@@ -12,7 +12,7 @@ public interface CartItemRepository extends JpaRepository<CartItem, UUID> {
     /** Ownership is part of the lookup, so another shopper's item id is indistinguishable from a missing one. */
     Optional<CartItem> findByIdAndShopperId(UUID id, Long shopperId);
 
-    Optional<CartItem> findByShopperIdAndProductId(Long shopperId, Long productId);
+    List<CartItem> findByShopperIdAndProductId(Long shopperId, Long productId);
 
     long countByShopperId(Long shopperId);
 }

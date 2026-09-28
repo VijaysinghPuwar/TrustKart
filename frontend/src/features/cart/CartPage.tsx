@@ -137,6 +137,9 @@ function CartRow({ line, saved = false }: { line: CartLine; saved?: boolean }) {
         <div className="flex flex-wrap items-start gap-x-4 gap-y-1">
           <Link to={link} className="min-w-0 flex-1 font-medium text-ink">
             {line.product.name}
+            {line.optionsLabel && (
+              <span className="block text-[13px] font-normal text-ink-muted">{line.optionsLabel}</span>
+            )}
           </Link>
           <span className="font-bold tabular">{formatMoney(line.lineTotal)}</span>
         </div>

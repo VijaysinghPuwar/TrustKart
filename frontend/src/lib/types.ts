@@ -75,6 +75,8 @@ export interface ImageCredit extends ProductImage {
 
 export interface ProductDetail {
   product: ProductCard
+  /** Configurable choices (storage, colour…); empty for simple products. */
+  options?: ProductOptionGroup[]
   description: string
   warrantyMonths: number
   breadcrumbs: Ref[]
@@ -169,11 +171,22 @@ export interface LoginEvent {
   at: string
 }
 
-export type CartIssue = 'OUT_OF_STOCK' | 'DISCONTINUED' | 'QUANTITY_EXCEEDS_STOCK'
+export type CartIssue = 'OUT_OF_STOCK' | 'DISCONTINUED' | 'QUANTITY_EXCEEDS_STOCK' | 'OPTION_UNAVAILABLE'
+
+/** A product's configurable choices. At most one group carries prices (absolute unit prices). */
+export interface ProductOptionGroup {
+  name: string
+  values: { label: string; price?: Money; default?: boolean }[]
+}
+
+/** Group name to chosen label, e.g. { Storage: '512 GB', Color: 'Silver' }. */
+export type OptionSelection = Record<string, string>
 
 export interface CartLine {
   id: string
   product: ProductCard
+  options: OptionSelection
+  optionsLabel?: string
   quantity: number
   unitPrice: Money
   lineTotal: Money
@@ -212,6 +225,7 @@ export interface Quote {
     productId: number
     slug: string
     name: string
+    optionsLabel?: string
     imageUrl?: string
     unitPrice: Money
     quantity: number
@@ -315,6 +329,7 @@ export interface Purchase {
     productId: number
     slug: string
     name: string
+    optionsLabel?: string
     categoryName: string
     imageUrl: string | null
     unitPrice: Money
@@ -393,6 +408,20 @@ export interface CollectionView {
     largestPurchase?: { label: string; amount: Money }
     favoriteCategory?: string
   }
-  achievements: { code: string; title: string; description: string; unlocked: boolean; progress: string }[]
+  achievements: Achievement[]
   simulation: true
+}
+
+export type AchievementTier = 'BRONZE' | 'SILVER' | 'GOLD' | 'PLATINUM' | 'LEGENDARY'
+
+export interface Achievement {
+  code: string
+  title: string
+  description: string
+  group: string
+  tier: AchievementTier
+  unlocked: boolean
+  /** Human progress, e.g. "$1.2M / $1B" or "3 / 5". */
+  progress: string
+  percent: number
 }

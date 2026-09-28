@@ -15,11 +15,13 @@ import { QuantityStepper } from '@/components/ui/QuantityStepper'
 import { useToast } from '@/components/ui/Toast'
 import { useProduct } from '@/data/catalog'
 import { ApiError } from '@/lib/api'
+import type { OptionSelection } from '@/lib/types'
 import { usePageTitle } from '@/lib/usePageTitle'
 import { MAX_COMPARE, useCompareTray } from '@/state/compare'
 import { recordView } from '@/state/recentlyViewed'
 import { NotFoundPage } from '@/features/errors/NotFoundPage'
 import { InstantBuyDialog } from './InstantBuyDialog'
+import { OptionPicker, defaultSelection, selectionPrice } from './OptionPicker'
 import { SpecTable } from './SpecTable'
 
 const MATCH_NOTE = {
@@ -33,10 +35,12 @@ export default function ProductPage() {
   const { slug = '' } = useParams()
   const product = useProduct(slug)
   const [quantity, setQuantity] = useState(1)
+  const [chosen, setChosen] = useState<OptionSelection | null>(null)
   const [quantityFor, setQuantityFor] = useState(slug)
   if (quantityFor !== slug) {
     setQuantityFor(slug)
     setQuantity(1)
+    setChosen(null)
   }
   const [instantOpen, setInstantOpen] = useState(false)
   const { addToCart, justAdded, pendingId } = useAddToCartAction()
@@ -57,6 +61,11 @@ export default function ProductPage() {
 
   const detail = product.data
   const p = detail.product
+  const groups = detail.options ?? []
+  const selection = chosen ?? defaultSelection(groups)
+  const price = selectionPrice(groups, selection, p.price)
+  // The list price only describes the base configuration.
+  const compareAt = price === p.price ? p.compareAtPrice : undefined
   const image = detail.images[0]
   const available = p.maxQuantity > 0
   const note = image ? MATCH_NOTE[image.match] : null
@@ -128,11 +137,13 @@ export default function ProductPage() {
           </div>
           <div className="flex flex-col gap-1.5">
             <div className="flex flex-wrap items-center gap-3">
-              <Price amount={p.price} compareAt={p.compareAtPrice} size="xl" />
-              {p.percentOff > 0 && <Badge tone="deal">Save {p.percentOff}%</Badge>}
+              <Price amount={price} compareAt={compareAt} size="xl" />
+              {compareAt && p.percentOff > 0 && <Badge tone="deal">Save {p.percentOff}%</Badge>}
             </div>
             <StockLine product={p} />
           </div>
+
+          {groups.length > 0 && <OptionPicker groups={groups} value={selection} onChange={setChosen} />}
 
           {available ? (
             <div className="flex flex-col gap-3">
@@ -151,7 +162,7 @@ export default function ProductPage() {
                   size="lg"
                   className="flex-1"
                   loading={pendingId === p.id}
-                  onClick={() => addToCart(p, quantity)}
+                  onClick={() => addToCart(p, quantity, selection)}
                 >
                   {justAdded === p.id ? 'Added ✓' : 'Add to cart'}
                 </Button>
@@ -229,8 +240,12 @@ export default function ProductPage() {
 
       {available && (
         <div className="fixed inset-x-0 bottom-0 z-20 flex items-center gap-3 border-t border-border bg-surface px-4 py-3 shadow-lg md:hidden">
-          <Price amount={p.price} className="flex-1" />
-          <Button variant="accent" loading={pendingId === p.id} onClick={() => addToCart(p, quantity)}>
+          <Price amount={price} className="flex-1" />
+          <Button
+            variant="accent"
+            loading={pendingId === p.id}
+            onClick={() => addToCart(p, quantity, selection)}
+          >
             {justAdded === p.id ? 'Added ✓' : 'Add to cart'}
           </Button>
         </div>
@@ -238,6 +253,7 @@ export default function ProductPage() {
       <InstantBuyDialog
         product={p}
         quantity={quantity}
+        options={selection}
         open={instantOpen}
         onClose={() => setInstantOpen(false)}
       />

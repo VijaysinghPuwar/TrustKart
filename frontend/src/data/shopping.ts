@@ -15,6 +15,7 @@ import type {
   WalletMode,
   WalletTransaction,
   WishlistList,
+  OptionSelection,
 } from '@/lib/types'
 import { qk } from './keys'
 
@@ -36,7 +37,7 @@ function useCartMutation<V>(fn: (vars: V) => Promise<Cart>) {
 }
 
 export const useAddToCart = () =>
-  useCartMutation((v: { productId: number; quantity: number }) =>
+  useCartMutation((v: { productId: number; quantity: number; options?: OptionSelection }) =>
     api<Cart>('POST', '/cart/items', { body: v }),
   )
 
@@ -158,10 +159,20 @@ export function useWalletTransactions(page: number) {
 
 // ---- Checkout & purchases --------------------------------------------------------------------------------
 
-export function useQuote(instant?: { productId: number; quantity: number }) {
-  const qs = instant ? queryString({ productId: instant.productId, quantity: instant.quantity }) : ''
+export interface InstantLine {
+  productId: number
+  quantity: number
+  options?: OptionSelection
+}
+
+export function useQuote(instant?: InstantLine) {
+  const options =
+    instant?.options && Object.keys(instant.options).length ? JSON.stringify(instant.options) : undefined
+  const qs = instant ? queryString({ productId: instant.productId, quantity: instant.quantity, options }) : ''
   return useQuery({
-    queryKey: qk.quote(instant ? `${String(instant.productId)}x${String(instant.quantity)}` : undefined),
+    queryKey: qk.quote(
+      instant ? `${String(instant.productId)}x${String(instant.quantity)}${options ?? ''}` : undefined,
+    ),
     queryFn: ({ signal }) => get<Quote>(`/checkout/quote${qs}`, signal),
   })
 }
@@ -171,7 +182,7 @@ export interface PlaceOrder {
   simulationAddress?: SimulationAddress
   addressId?: string
   expectedTotal: string
-  instant?: { productId: number; quantity: number }
+  instant?: InstantLine
   key: string
 }
 
