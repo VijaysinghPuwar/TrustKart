@@ -8,6 +8,7 @@ import { usePurchases } from '@/data/shopping'
 import { formatMoney } from '@/lib/money'
 import { usePageTitle } from '@/lib/usePageTitle'
 import { Pagination } from '@/features/search/Pagination'
+import { deliveryHeadline } from './TrackingPanel'
 
 export default function PurchasesPage() {
   usePageTitle('Your orders')
@@ -62,7 +63,7 @@ export default function PurchasesPage() {
                 </div>
                 <span className="font-bold tabular">{formatMoney(p.total)}</span>
                 <Badge tone={p.status === 'COMPLETED' ? 'trust' : 'neutral'}>
-                  {p.status === 'COMPLETED' ? '✓ Confirmed' : 'Cancelled'}
+                  {deliveryHeadline({ stage: p.stage, estimatedDelivery: p.estimatedDelivery })}
                 </Badge>
               </Link>
             </li>

@@ -191,6 +191,10 @@
 dialog[open] {
   animation: tk-fade 200ms var(--ease-tk);
 }
+/* Home banner: each slide fades in as it replaces the last. */
+.tk-banner-slide {
+  animation: tk-fade 450ms var(--ease-tk);
+}
 dialog[open].tk-drawer {
   animation: tk-slide-in 280ms var(--ease-tk);
 }

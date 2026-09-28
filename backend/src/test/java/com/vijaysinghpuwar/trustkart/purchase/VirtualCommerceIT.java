@@ -222,7 +222,7 @@ class VirtualCommerceIT {
     }
 
     @Test
-    void refundRestoresBalanceStockAndCollectionAndIsIdempotent() throws Exception {
+    void cancellingBeforeShipmentRestoresBalanceStockAndCollectionAndIsIdempotent() throws Exception {
         long p = fixtures.product("2500.00", 4);
         Browser b = new Browser(mvc);
         b.post("/api/v1/cart/items", add(p, 2));
@@ -230,8 +230,8 @@ class VirtualCommerceIT {
                 .andReturn().getResponse().getContentAsString(), "$.id");
         assertThat(balance(b)).isEqualByComparingTo("95000.00");
 
-        b.post("/api/v1/purchases/" + id + "/refund").andExpect(status().isOk()).andExpect(jsonPath("$.status").value("REFUNDED"));
-        b.post("/api/v1/purchases/" + id + "/refund").andExpect(status().isOk()).andExpect(jsonPath("$.status").value("REFUNDED"));
+        b.post("/api/v1/purchases/" + id + "/refund").andExpect(status().isOk()).andExpect(jsonPath("$.status").value("CANCELLED"));
+        b.post("/api/v1/purchases/" + id + "/refund").andExpect(status().isOk()).andExpect(jsonPath("$.status").value("CANCELLED"));
 
         assertThat(balance(b)).isEqualByComparingTo("100000.00");
         assertThat(fixtures.stock(p)).isEqualTo(4);

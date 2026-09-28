@@ -117,8 +117,9 @@ public class VirtualPurchase {
         this.balanceAfter = after;
     }
 
-    void markRefunded(Instant now) {
-        this.status = PurchaseStatus.REFUNDED;
+    /** Closes the order as CANCELLED or REFUNDED; {@code refundedAt} records when either happened. */
+    void close(PurchaseStatus outcome, Instant now) {
+        this.status = outcome;
         this.refundedAt = now;
     }
 

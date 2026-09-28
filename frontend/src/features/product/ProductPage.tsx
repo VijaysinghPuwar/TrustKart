@@ -26,6 +26,7 @@ const MATCH_NOTE = {
   EXACT: null,
   PRODUCT_LINE: 'Image shows a similar model from the same product line.',
   REPRESENTATIVE: 'Representative image of this kind of product.',
+  RENDER: null,
 } as const
 
 export default function ProductPage() {
@@ -89,10 +90,29 @@ export default function ProductPage() {
           {image && (
             <figcaption className="text-xs text-ink-muted">
               {note && <span className="block">{note}</span>}
-              Photo: {image.credit} via{' '}
-              <a href={image.sourceUrl} target="_blank" rel="noopener noreferrer">
-                Wikimedia Commons
-              </a>
+              {image.match === 'RENDER' ? (
+                <>
+                  TrustKart product illustration. <Link to="/about/credits">Image credits</Link>
+                </>
+              ) : (
+                <>
+                  {image.sourceUrl.includes('wikimedia.org') ? (
+                    <>
+                      Photo: {image.credit} via{' '}
+                      <a href={image.sourceUrl} target="_blank" rel="noopener noreferrer">
+                        Wikimedia Commons
+                      </a>
+                    </>
+                  ) : (
+                    <>
+                      Product image: {p.brand.name},{' '}
+                      <a href={image.sourceUrl} target="_blank" rel="noopener noreferrer">
+                        official product page
+                      </a>
+                    </>
+                  )}
+                </>
+              )}
             </figcaption>
           )}
         </figure>

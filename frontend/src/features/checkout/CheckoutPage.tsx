@@ -1,3 +1,4 @@
+import { useIsMutating } from '@tanstack/react-query'
 import { Check, Lock, Truck } from 'lucide-react'
 import { useState, type ReactNode } from 'react'
 import { Link, Navigate } from 'react-router'
@@ -6,7 +7,7 @@ import { Button, ButtonLink } from '@/components/ui/Button'
 import { ErrorState } from '@/components/ui/ErrorState'
 import { PageSpinner } from '@/components/ui/PageSpinner'
 import { useMe } from '@/data/account'
-import { useAddresses, useQuote } from '@/data/shopping'
+import { ADDRESS_CREATE, useAddresses, useQuote } from '@/data/shopping'
 import { ApiError } from '@/lib/api'
 import { cn } from '@/lib/cn'
 import { formatMoney } from '@/lib/money'
@@ -30,6 +31,7 @@ export default function CheckoutPage() {
   const [step, setStep] = useState(0)
   const [chosen, setDestination] = useState<Destination | null>(null)
   const [deliveryError, setDeliveryError] = useState<string>()
+  const savingAddress = useIsMutating({ mutationKey: ADDRESS_CREATE }) > 0
   const place = usePlaceVirtualOrder()
   const [placeError, setPlaceError] = useState<ApiError | null>(null)
 
@@ -219,7 +221,10 @@ export default function CheckoutPage() {
                 size="lg"
                 className="ml-auto"
                 onClick={next}
-                disabled={(step === 0 && blocked) || (step === 2 && !q.canPlace)}
+                loading={step === 1 && savingAddress}
+                disabled={
+                  (step === 0 && blocked) || (step === 1 && savingAddress) || (step === 2 && !q.canPlace)
+                }
               >
                 Continue
               </Button>

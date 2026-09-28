@@ -83,7 +83,7 @@ class PurchaseController {
     }
 
     @PostMapping("/api/v1/purchases/{id}/refund")
-    @Operation(summary = "Undo a virtual purchase: restores virtual balance (Budget mode) and removes items from the collection")
+    @Operation(summary = "Cancel an order before it ships, or return it within 30 days of delivery. Restores funds and stock.")
     PurchaseViews.PurchaseView refund(@PathVariable UUID id, HttpServletRequest request) {
         long shopperId = shoppers.current(request).orElseThrow(() -> new NotFoundException("Purchase")).getId();
         return purchases.refund(shopperId, id);

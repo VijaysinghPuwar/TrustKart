@@ -22,5 +22,6 @@ public record ProductSummary(
         boolean featured,
         Image image) {
 
-    public record Image(String small, String large, int width, int height, String alt, ImageMatch match) {}
+    /** {@code studio}: a manufacturer packshot, as opposed to a community photo or an illustration. */
+    public record Image(String small, String large, int width, int height, String alt, ImageMatch match, boolean studio) {}
 }

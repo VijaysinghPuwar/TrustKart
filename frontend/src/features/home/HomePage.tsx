@@ -1,14 +1,12 @@
 import { Shelf } from '@/components/commerce/Shelf'
 import { ErrorState } from '@/components/ui/ErrorState'
 import { useHome, useLookup } from '@/data/catalog'
-import { useWallet } from '@/data/shopping'
-import { formatMoney } from '@/lib/money'
 import { usePageTitle } from '@/lib/usePageTitle'
 import { useRecentlyViewed } from '@/state/recentlyViewed'
 import { CategoryGrid } from './CategoryGrid'
 import { CollectionTile } from './CollectionTile'
 import { productTileItems } from './tileItems'
-import { HeroFeature } from './HeroFeature'
+import { HeroCarousel } from './HeroCarousel'
 import { TrustStrip } from './TrustStrip'
 
 export function HomePage() {
@@ -16,51 +14,30 @@ export function HomePage() {
   const home = useHome()
   const recent = useRecentlyViewed()
   const recentProducts = useLookup(recent.ids)
-  const { data: wallet } = useWallet()
   const tiles = home.data?.tiles ?? []
 
   if (home.isError)
     return <ErrorState error={home.error} title="The store didn’t load" onRetry={() => void home.refetch()} />
 
-  // The first tile is personal: recently viewed if there's history, otherwise the shopper's wallet.
-  const firstTile =
-    recentProducts.data && recentProducts.data.length > 0 ? (
-      <CollectionTile
-        title="Keep shopping for"
-        link={{ label: 'View browsing history', to: '#recently-viewed' }}
-        items={productTileItems(recentProducts.data)}
-      />
-    ) : (
-      <CollectionTile
-        title="Your TrustKart Wallet"
-        link={{ label: 'Open wallet', to: '/wallet' }}
-        items={
-          wallet && [
-            {
-              key: 'balance',
-              label: 'Wallet balance',
-              meta: wallet.mode === 'UNLIMITED' ? '∞' : formatMoney(wallet.balance),
-              to: '/wallet',
-            },
-            {
-              key: 'mode',
-              label: 'Mode',
-              meta: wallet.mode === 'UNLIMITED' ? 'Unlimited' : 'Budget',
-              to: '/wallet',
-            },
-            { key: 'cards', label: 'Payment details needed', meta: 'None', metaTone: 'trust', to: '/about' },
-            { key: 'ship', label: 'Delivery', meta: 'Free', metaTone: 'trust', to: '/about' },
-          ]
-        }
-      />
-    )
+  // Recently viewed leads the grid once there's history; otherwise it's all curated collections.
+  const hasRecent = !!recentProducts.data && recentProducts.data.length > 0
+  const collectionTiles = home.isPending
+    ? Array.from({ length: 6 }, () => null)
+    : tiles.slice(0, hasRecent ? 5 : 6)
 
   return (
     <div className="flex flex-col gap-9">
-      <section aria-label="Featured" className="grid grid-cols-2 gap-3.5 sm:grid-cols-3 lg:grid-cols-4">
-        <HeroFeature product={home.isPending ? undefined : (home.data.hero ?? null)} />
-        {firstTile}
-        {(home.isPending ? Array.from({ length: 5 }, () => null) : tiles.slice(0, 5)).map((t, i) =>
+      <HeroCarousel slides={home.isPending ? undefined : home.data.heroSlides} />
+
+      <section aria-label="Shop by collection" className="grid grid-cols-2 gap-3.5 sm:grid-cols-3">
+        {hasRecent && (
+          <CollectionTile
+            title="Pick up where you left off"
+            link={{ label: 'View browsing history', to: '#recently-viewed' }}
+            items={productTileItems(recentProducts.data)}
+          />
+        )}
+        {collectionTiles.map((t, i) =>
           t ? (
             <CollectionTile
               key={t.key}

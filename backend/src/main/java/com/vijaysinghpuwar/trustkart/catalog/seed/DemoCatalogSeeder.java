@@ -82,16 +82,21 @@ public class DemoCatalogSeeder {
 
         int productsCreated = 0;
         int skipped = 0;
+        int imagesRefreshed = 0;
         for (ProductSeed seed : productSeeds) {
             if (products.existsBySku(seed.sku())) {
+                // Existing products keep their data, but pick up replaced product images.
+                if (refreshImage(seed, images)) {
+                    imagesRefreshed++;
+                }
                 skipped++;
                 continue;
             }
             createProduct(seed, bySlug, effectiveSpecs, images);
             productsCreated++;
         }
-        log.info("Demo catalog seeded: {} categories created, {} products created, {} already present",
-                created[0], productsCreated, skipped);
+        log.info("Demo catalog seeded: {} categories created, {} products created, {} already present ({} images refreshed)",
+                created[0], productsCreated, skipped, imagesRefreshed);
         return new Result(created[0], productsCreated, skipped);
     }
 
@@ -153,6 +158,18 @@ public class DemoCatalogSeeder {
         for (int i = 0; i < tags.size(); i++) {
             facets.addToCollection(saved.getId(), tags.get(i), i);
         }
+    }
+
+    private boolean refreshImage(ProductSeed seed, Map<String, ImageSeed> images) {
+        ImageSeed image = images.get(seed.slug());
+        if (image == null) {
+            return false;
+        }
+        return products.findWithDetailsBySlug(seed.slug())
+                .flatMap(p -> p.getImages().stream().filter(i -> i.getSortOrder() == 0).findFirst())
+                .map(i -> i.replaceWith(image.large(), image.small(), image.width(), image.height(), image.alt(),
+                        ImageMatch.valueOf(image.match()), image.author() + ", " + image.license(), image.filePage()))
+                .orElse(false);
     }
 
     private static void validateSpecs(ProductSeed seed, List<SpecSeed> definitions) {

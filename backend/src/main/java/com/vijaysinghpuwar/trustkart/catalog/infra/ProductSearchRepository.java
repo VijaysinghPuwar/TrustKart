@@ -34,7 +34,7 @@ public class ProductSearchRepository {
             SELECT p.id, p.slug, p.sku, p.name, p.summary, p.price, p.compare_at_price, p.featured, p.status,
                    b.name AS brand_name, b.slug AS brand_slug, c.slug AS category_slug, c.name AS category_name,
                    i.available, i.reserved, i.low_stock_threshold, i.backorder_allowed,
-                   img.url_small, img.url_large, img.width, img.height, img.alt, img.match_type,
+                   img.url_small, img.url_large, img.width, img.height, img.alt, img.match_type, img.studio,
                    %s AS relevance,
                    count(*) OVER () AS total
             FROM product p
@@ -42,7 +42,8 @@ public class ProductSearchRepository {
             JOIN category c ON c.id = p.category_id
             JOIN inventory i ON i.product_id = p.id
             LEFT JOIN LATERAL (
-                SELECT pi.url_small, pi.url_large, pi.width, pi.height, pi.alt, pi.match_type
+                SELECT pi.url_small, pi.url_large, pi.width, pi.height, pi.alt, pi.match_type,
+                       position('Manufacturer product image' IN pi.credit) > 0 AS studio
                 FROM product_image pi WHERE pi.product_id = p.id ORDER BY pi.sort_order LIMIT 1
             ) img ON TRUE
             """;
@@ -191,7 +192,8 @@ public class ProductSearchRepository {
                 rs.getBoolean("backorder_allowed"));
         String small = rs.getString("url_small");
         ProductSummary.Image image = small == null ? null : new ProductSummary.Image(small, rs.getString("url_large"),
-                rs.getInt("width"), rs.getInt("height"), rs.getString("alt"), ImageMatch.valueOf(rs.getString("match_type")));
+                rs.getInt("width"), rs.getInt("height"), rs.getString("alt"), ImageMatch.valueOf(rs.getString("match_type")),
+                rs.getBoolean("studio"));
         return new ProductSummary(
                 rs.getLong("id"), rs.getString("slug"), rs.getString("sku"), rs.getString("name"),
                 rs.getString("brand_name"), rs.getString("brand_slug"), rs.getString("category_slug"),

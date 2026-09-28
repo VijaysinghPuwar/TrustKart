@@ -217,7 +217,8 @@ export function useRefund() {
     onSuccess: (purchase) => {
       client.setQueryData(qk.purchase(purchase.id), purchase)
       void client.invalidateQueries({
-        predicate: (q) => ['wallet', 'purchases', 'collection', 'quote'].includes(String(q.queryKey[0])),
+        predicate: (q) =>
+          ['wallet', 'purchases', 'collection', 'quote', 'notifications'].includes(String(q.queryKey[0])),
       })
     },
   })
@@ -239,11 +240,15 @@ export function useAddresses() {
   })
 }
 
+/** Lets checkout hold "Continue" while a new address is still being saved. */
+export const ADDRESS_CREATE = ['addresses', 'create'] as const
+
 export function useAddressMutations() {
   const client = useQueryClient()
   const refresh = () => client.invalidateQueries({ queryKey: qk.addresses })
   return {
     create: useMutation({
+      mutationKey: ADDRESS_CREATE,
       mutationFn: (v: { input: AddressInput; makeDefault?: boolean }) =>
         api<SavedAddress>('POST', `/addresses${queryString({ makeDefault: v.makeDefault })}`, {
           body: v.input,

@@ -67,6 +67,25 @@ public class ProductImage {
         this.sortOrder = sortOrder;
     }
 
+    /** Replaces the picture itself (files, alt text and provenance), keeping its place on the product. */
+    public boolean replaceWith(String urlLarge, String urlSmall, int width, int height, String alt, ImageMatch matchType,
+            String credit, String sourceUrl) {
+        if (urlLarge.equals(this.urlLarge) && urlSmall.equals(this.urlSmall) && width == this.width
+                && height == this.height && alt.equals(this.alt) && matchType == this.matchType
+                && credit.equals(this.credit) && sourceUrl.equals(this.sourceUrl)) {
+            return false;
+        }
+        this.urlLarge = urlLarge;
+        this.urlSmall = urlSmall;
+        this.width = width;
+        this.height = height;
+        this.alt = alt;
+        this.matchType = matchType;
+        this.credit = credit;
+        this.sourceUrl = sourceUrl;
+        return true;
+    }
+
     void attachTo(Product product) {
         this.product = product;
     }
@@ -77,6 +96,10 @@ public class ProductImage {
 
     public String getUrlSmall() {
         return urlSmall;
+    }
+
+    public int getSortOrder() {
+        return sortOrder;
     }
 
     public int getWidth() {

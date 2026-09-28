@@ -5,6 +5,7 @@ import { formatMoneyWhole } from '@/lib/money'
 import { useCartDrawer } from '@/state/cartDrawer'
 import { SmartSearch } from '@/components/search/SmartSearch'
 import { CategoryNav } from './CategoryNav'
+import { NotificationBell } from './NotificationBell'
 
 const navItem =
   'flex h-[46px] flex-col justify-center whitespace-nowrap rounded-chip px-2 leading-4 text-white no-underline hover:text-white hover:no-underline hover:bg-white/10'
@@ -85,6 +86,7 @@ export function SiteHeader() {
               <span className="text-xs text-header-ink-muted">Orders</span>
               <span className="text-sm font-bold">&amp; Collection</span>
             </Link>
+            <NotificationBell />
             <button
               type="button"
               onClick={drawer.show}

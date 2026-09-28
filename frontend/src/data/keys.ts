@@ -20,4 +20,7 @@ export const qk = {
   wishlist: ['wishlist'] as const,
   wishlistIds: ['wishlist', 'ids'] as const,
   addresses: ['addresses'] as const,
+  notifications: ['notifications'] as const,
+  notificationCount: ['notifications', 'count'] as const,
+  notificationPrefs: ['notifications', 'preferences'] as const,
 }

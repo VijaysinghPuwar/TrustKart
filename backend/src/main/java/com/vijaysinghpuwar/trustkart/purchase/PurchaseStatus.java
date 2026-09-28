@@ -1,7 +1,11 @@
 package com.vijaysinghpuwar.trustkart.purchase;
 
-/** Virtual purchases are complete the moment they're placed; the only other state is refunded. */
+/**
+ * The commercial state of an order. Delivery progress is separate and computed ({@link TrackingStage}).
+ * CANCELLED: stopped before it shipped. REFUNDED: returned after delivery. Both return stock and funds.
+ */
 public enum PurchaseStatus {
     COMPLETED,
+    CANCELLED,
     REFUNDED
 }

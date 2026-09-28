@@ -1,7 +1,7 @@
 import type { Money } from './money'
 
 export type StockStatus = 'IN_STOCK' | 'LOW_STOCK' | 'OUT_OF_STOCK' | 'BACKORDER' | 'DISCONTINUED'
-export type ImageMatch = 'EXACT' | 'PRODUCT_LINE' | 'REPRESENTATIVE'
+export type ImageMatch = 'EXACT' | 'PRODUCT_LINE' | 'REPRESENTATIVE' | 'RENDER'
 
 export interface Ref {
   slug: string
@@ -61,6 +61,7 @@ export interface Shelf {
 
 export interface Home {
   hero: ProductCard | null
+  heroSlides: ProductCard[]
   tiles: Shelf[]
   deals: ProductCard[]
   featured: ProductCard[]
@@ -259,10 +260,46 @@ export interface SavedAddress extends AddressInput {
   isDefault: boolean
 }
 
+export type PurchaseStatus = 'COMPLETED' | 'CANCELLED' | 'REFUNDED'
+export type TrackingStage =
+  | 'PLACED'
+  | 'PROCESSING'
+  | 'PACKED'
+  | 'SHIPPED'
+  | 'IN_TRANSIT'
+  | 'LOCAL_FACILITY'
+  | 'OUT_FOR_DELIVERY'
+  | 'DELIVERED'
+  | 'CANCELLED'
+  | 'REFUNDED'
+
+export interface TrackingEvent {
+  stage: TrackingStage
+  label: string
+  description: string
+  location?: string
+  at: string
+  done: boolean
+}
+
+export interface Tracking {
+  stage: TrackingStage
+  stageLabel: string
+  trackingNumber: string
+  carrier: string
+  estimatedDelivery: string
+  deliveredAt?: string
+  canCancel: boolean
+  canReturn: boolean
+  returnBy?: string
+  progress: number
+  events: TrackingEvent[]
+}
+
 export interface Purchase {
   id: string
   orderNumber: string
-  status: 'COMPLETED' | 'REFUNDED'
+  status: PurchaseStatus
   createdAt: string
   refundedAt?: string
   itemCount: number
@@ -284,18 +321,46 @@ export interface Purchase {
     quantity: number
     lineTotal: Money
   }[]
+  tracking: Tracking
   simulation: true
 }
 
 export interface PurchaseSummary {
   id: string
   orderNumber: string
-  status: 'COMPLETED' | 'REFUNDED'
+  status: PurchaseStatus
   createdAt: string
   itemCount: number
   total: Money
   walletMode: WalletMode
   thumbnails: string[]
+  stage: TrackingStage
+  stageLabel: string
+  estimatedDelivery: string
+}
+
+export interface AppNotification {
+  id: string
+  type: string
+  title: string
+  body: string
+  link?: string
+  imageUrl?: string
+  createdAt: string
+  read: boolean
+}
+
+export interface NotificationPage {
+  items: AppNotification[]
+  unreadCount: number
+  page: number
+  size: number
+  totalItems: number
+}
+
+export interface NotificationPreferences {
+  orderUpdates: boolean
+  deliveryUpdates: boolean
 }
 
 export interface WishlistList {

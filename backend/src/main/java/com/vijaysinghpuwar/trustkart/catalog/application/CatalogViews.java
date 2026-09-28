@@ -66,6 +66,7 @@ public final class CatalogViews {
 
     public record ShelfDto(String key, String title, String subtitle, String link, List<ProductCardDto> items) {}
 
-    public record HomeDto(ProductCardDto hero, List<ShelfDto> tiles, List<ProductCardDto> deals,
+    /** {@code hero} is the first of {@code heroSlides}, kept for older clients. */
+    public record HomeDto(ProductCardDto hero, List<ProductCardDto> heroSlides, List<ShelfDto> tiles, List<ProductCardDto> deals,
             List<ProductCardDto> featured, List<CategoryDto> categories) {}
 }

@@ -236,33 +236,49 @@ public class CatalogService {
         return new CompareDto(cards, rows);
     }
 
+    private static final Set<String> HERO_MATCHES = Set.of("EXACT", "PRODUCT_LINE");
+    private static final int HERO_SLIDES = 5;
+
     public HomeDto home() {
-        List<ProductCardDto> deals = search.search(ProductQuery.browse(12).withOnSale(ProductSort.DISCOUNT)).items()
-                .stream().map(CatalogMapper::card).toList();
+        List<ProductSummary> dealSummaries = search.search(ProductQuery.browse(24).withOnSale(ProductSort.DISCOUNT)).items();
+        List<ProductCardDto> deals = dealSummaries.stream().limit(12).map(CatalogMapper::card).toList();
         ProductQuery featuredQuery = new ProductQuery(List.of(), false, List.of(), List.of(), null, null, false, false,
                 null, List.of(), ProductSort.FEATURED, 0, 10);
-        List<ProductCardDto> featured = search.search(featuredQuery).items().stream()
-                .filter(ProductSummary::featured).map(CatalogMapper::card).toList();
+        List<ProductSummary> featuredSummaries = search.search(featuredQuery).items().stream()
+                .filter(ProductSummary::featured).toList();
+        List<ProductCardDto> featured = featuredSummaries.stream().map(CatalogMapper::card).toList();
 
         List<ShelfDto> tiles = HOME_TILES.stream()
                 .map(t -> new ShelfDto(t[0], t[1], t[2], "/collections/" + t[0], collection(t[0], 4)))
                 .filter(t -> !t.items().isEmpty())
                 .toList();
-        return new HomeDto(heroOfTheDay(deals, featured), tiles, deals, featured, categoryTree());
+        List<ProductCardDto> slides = heroSlides(dealSummaries, featuredSummaries);
+        return new HomeDto(slides.isEmpty() ? null : slides.getFirst(), slides, tiles, deals, featured, categoryTree());
     }
 
-    /** Rotates daily through discounted featured products (falls back to any deal) so the pick is deterministic per day. */
-    private ProductCardDto heroOfTheDay(List<ProductCardDto> deals, List<ProductCardDto> featured) {
-        Set<Long> featuredIds = featured.stream().map(ProductCardDto::id).collect(Collectors.toSet());
-        List<ProductCardDto> pool = deals.stream().filter(d -> featuredIds.contains(d.id()) && d.maxQuantity() > 0).toList();
-        if (pool.isEmpty()) {
-            pool = deals.isEmpty() ? featured : deals;
+    /**
+     * The home banner: up to {@value #HERO_SLIDES} products, one per category, best discount first, rotated daily so
+     * the lead slide changes. The banner is the most prominent imagery on the site, so only manufacturer studio
+     * photos of the exact model or its product line qualify; community photos and illustrations never headline it.
+     */
+    private List<ProductCardDto> heroSlides(List<ProductSummary> deals, List<ProductSummary> featured) {
+        List<ProductSummary> candidates = java.util.stream.Stream.concat(deals.stream(), featured.stream())
+                .filter(p -> p.image() != null && p.image().studio() && HERO_MATCHES.contains(p.image().match().name())
+                        && CatalogMapper.maxQuantity(p.stockStatus(), p.sellableQuantity()) > 0)
+                .toList();
+        List<ProductCardDto> slides = new java.util.ArrayList<>();
+        Set<String> categories = new java.util.HashSet<>();
+        Set<Long> ids = new java.util.HashSet<>();
+        for (ProductSummary c : candidates) {
+            if (slides.size() < HERO_SLIDES && ids.add(c.id()) && categories.add(c.categorySlug())) {
+                slides.add(CatalogMapper.card(c));
+            }
         }
-        if (pool.isEmpty()) {
-            return null;
+        if (slides.isEmpty()) {
+            return slides;
         }
-        int day = LocalDate.now(clock).getDayOfYear();
-        return pool.get(day % pool.size());
+        java.util.Collections.rotate(slides, -(LocalDate.now(clock).getDayOfYear() % slides.size()));
+        return slides;
     }
 
     private SpecFacetDto specFacet(SpecDefinition d, List<Long> categoryIds) {

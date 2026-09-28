@@ -28,10 +28,12 @@ public final class PurchaseViews {
     @JsonInclude(JsonInclude.Include.NON_NULL)
     public record PurchaseView(UUID id, String orderNumber, String status, Instant createdAt, Instant refundedAt, int itemCount,
             String subtotal, String shipping, String total, String walletMode, String balanceBefore, String balanceAfter,
-            String deliveryPreset, SimulationAddress simulationAddress, List<ItemView> items, boolean simulation) {}
+            String deliveryPreset, SimulationAddress simulationAddress, List<ItemView> items, OrderTracking.Tracking tracking,
+            boolean simulation) {}
 
+    /** {@code stage} and {@code estimatedDelivery} let order lists show delivery progress without the full timeline. */
     public record PurchaseSummary(UUID id, String orderNumber, String status, Instant createdAt, int itemCount, String total,
-            String walletMode, List<String> thumbnails) {}
+            String walletMode, List<String> thumbnails, String stage, String stageLabel, Instant estimatedDelivery) {}
 
     public record PurchasePage(List<PurchaseSummary> items, int page, int size, long totalItems, int totalPages) {}
 }

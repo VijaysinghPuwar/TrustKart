@@ -4,5 +4,7 @@ package com.vijaysinghpuwar.trustkart.catalog.domain;
 public enum ImageMatch {
     EXACT,
     PRODUCT_LINE,
-    REPRESENTATIVE
+    REPRESENTATIVE,
+    /** A TrustKart-made studio illustration of the product, used when no clean licensed photograph exists. */
+    RENDER
 }

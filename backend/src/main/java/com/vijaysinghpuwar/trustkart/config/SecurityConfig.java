@@ -97,7 +97,8 @@ class SecurityConfig {
                                 "/api/v1/auth/refresh", "/api/v1/auth/logout").permitAll()
                         // Guests shop too: these resolve the owner from the session or the guest cookie.
                         .requestMatchers("/api/v1/cart/**", "/api/v1/wishlist/**", "/api/v1/wallet/**",
-                                "/api/v1/checkout/**", "/api/v1/purchases/**", "/api/v1/collection/**", "/api/v1/addresses/**").permitAll()
+                                "/api/v1/checkout/**", "/api/v1/purchases/**", "/api/v1/collection/**", "/api/v1/addresses/**",
+                                "/api/v1/notifications/**").permitAll()
                         .requestMatchers("/api/v1/me/**").authenticated()
                         .requestMatchers("/api/v1/admin/**").authenticated()
                         .requestMatchers("/error").permitAll()

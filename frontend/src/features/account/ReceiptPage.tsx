@@ -14,6 +14,13 @@ import { formatMoney } from '@/lib/money'
 import { usePageTitle } from '@/lib/usePageTitle'
 import { Celebration } from '@/features/checkout/Celebration'
 import { presetLabel } from './presets'
+import { TrackingPanel, formatDay } from './TrackingPanel'
+
+const STATUS_BADGE = {
+  COMPLETED: '✓ Order confirmed',
+  CANCELLED: 'Cancelled · Refunded',
+  REFUNDED: 'Returned · Refunded',
+} as const
 
 /** Virtual receipt, doubling as the confirmation page right after an order (?placed=1). */
 export default function ReceiptPage() {
@@ -30,6 +37,7 @@ export default function ReceiptPage() {
   if (purchase.isPending) return <PageSpinner />
   if (purchase.isError) return <ErrorState error={purchase.error} title="Receipt not found" />
   const p = purchase.data
+  const t = p.tracking
   const date = new Date(p.createdAt)
 
   return (
@@ -43,6 +51,7 @@ export default function ReceiptPage() {
           Print receipt
         </Button>
       </div>
+      <TrackingPanel tracking={p.tracking} />
       <article className="flex flex-col gap-5 rounded-card border border-border bg-surface p-6">
         <header className="flex flex-wrap items-start gap-4">
           <div>
@@ -54,7 +63,7 @@ export default function ReceiptPage() {
             </p>
           </div>
           <Badge tone={p.status === 'COMPLETED' ? 'trust' : 'neutral'} className="ml-auto h-7 px-3 text-xs">
-            {p.status === 'COMPLETED' ? '✓ Order confirmed' : 'Cancelled · Refunded'}
+            {STATUS_BADGE[p.status]}
           </Badge>
         </header>
         <table className="w-full text-sm">
@@ -129,16 +138,27 @@ export default function ReceiptPage() {
         </footer>
       </article>
       {p.status === 'COMPLETED' && (
-        <div className="print:hidden">
-          <Button variant="secondary" onClick={() => setConfirmRefund(true)}>
-            Cancel this order
-          </Button>
+        <div className="flex flex-wrap items-center gap-3 print:hidden">
+          {t.canCancel || t.canReturn ? (
+            <Button variant="secondary" onClick={() => setConfirmRefund(true)}>
+              {t.canCancel ? 'Cancel this order' : 'Return items'}
+            </Button>
+          ) : null}
+          <p className="text-sm text-ink-muted">
+            {t.canCancel
+              ? 'You can cancel until your order ships.'
+              : t.canReturn && t.returnBy
+                ? `Eligible for return until ${formatDay(t.returnBy)}.`
+                : t.deliveredAt
+                  ? 'The return window for this order has closed.'
+                  : 'Your order has shipped. You can return it once it’s delivered.'}
+          </p>
         </div>
       )}
       <Dialog
         open={confirmRefund}
         onClose={() => setConfirmRefund(false)}
-        title="Cancel this order?"
+        title={t.canCancel ? 'Cancel this order?' : 'Return these items?'}
         description={
           p.walletMode === 'BUDGET'
             ? `${formatMoney(p.total)} goes back to your wallet and the items leave your collection.`
@@ -156,12 +176,16 @@ export default function ReceiptPage() {
                 refund.mutate(p.id, {
                   onSuccess: () => {
                     setConfirmRefund(false)
-                    notify('Order cancelled and refunded to your wallet')
+                    notify(
+                      t.canCancel
+                        ? 'Order cancelled and refunded to your wallet'
+                        : 'Return complete. Your refund is in your wallet',
+                    )
                   },
                 })
               }
             >
-              Cancel and refund
+              {t.canCancel ? 'Cancel and refund' : 'Return and refund'}
             </Button>
           </div>
         }

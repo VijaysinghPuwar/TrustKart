@@ -167,14 +167,30 @@ public class PurchaseService {
         return toView(purchase);
     }
 
-    /** Refunds restore the virtual balance (Budget-mode purchases) and stock. Idempotent: a repeat returns the result. */
+    /**
+     * Cancels an order that hasn't shipped, or returns one that was delivered within the return window. Either
+     * way stock and (Budget-mode) funds come back. Orders in transit can't be stopped. Idempotent: repeating
+     * the call on a closed order returns it unchanged.
+     */
     @Transactional
     public PurchaseView refund(long shopperId, UUID purchaseId) {
         VirtualWallet wallet = wallets.lock(shopperId);
         VirtualPurchase purchase = purchases.findByPublicIdAndShopperId(purchaseId, shopperId)
                 .orElseThrow(() -> new NotFoundException("Purchase"));
-        if (purchase.getStatus() == PurchaseStatus.REFUNDED) {
+        if (purchase.getStatus() != PurchaseStatus.COMPLETED) {
             return toView(purchase);
+        }
+        Instant now = clock.instant();
+        OrderTracking.Tracking tracking = tracking(purchase, now);
+        PurchaseStatus outcome;
+        if (tracking.canCancel()) {
+            outcome = PurchaseStatus.CANCELLED;
+        } else if (tracking.canReturn()) {
+            outcome = PurchaseStatus.REFUNDED;
+        } else if (tracking.deliveredAt() == null) {
+            throw new ApiException(ErrorCode.ORDER_IN_TRANSIT);
+        } else {
+            throw new ApiException(ErrorCode.RETURN_WINDOW_CLOSED);
         }
         purchase.getItems().forEach(i -> {
             if (i.getStockCommitted() > 0) {
@@ -184,7 +200,7 @@ public class PurchaseService {
         if (purchase.getWalletMode() == WalletMode.BUDGET) {
             wallets.refund(wallet, purchase.getTotal(), purchase.getOrderNumber());
         }
-        purchase.markRefunded(clock.instant());
+        purchase.close(outcome, now);
         return toView(purchase);
     }
 
@@ -197,10 +213,15 @@ public class PurchaseService {
     @Transactional(readOnly = true)
     public PurchasePage list(long shopperId, int page, int size) {
         Page<VirtualPurchase> result = purchases.findByShopperIdOrderByCreatedAtDesc(shopperId, PageRequest.of(page, size));
+        Instant now = clock.instant();
         List<PurchaseSummary> items = result.getContent().stream()
-                .map(p -> new PurchaseSummary(p.getPublicId(), p.getOrderNumber(), p.getStatus().name(), p.getCreatedAt(),
-                        p.getItemCount(), MoneyWire.format(p.getTotal()), p.getWalletMode().name(),
-                        p.getItems().stream().map(VirtualPurchaseItem::getImageUrl).filter(Objects::nonNull).limit(4).toList()))
+                .map(p -> {
+                    OrderTracking.Tracking t = tracking(p, now);
+                    return new PurchaseSummary(p.getPublicId(), p.getOrderNumber(), p.getStatus().name(), p.getCreatedAt(),
+                            p.getItemCount(), MoneyWire.format(p.getTotal()), p.getWalletMode().name(),
+                            p.getItems().stream().map(VirtualPurchaseItem::getImageUrl).filter(Objects::nonNull).limit(4).toList(),
+                            t.stage(), t.stageLabel(), t.estimatedDelivery());
+                })
                 .toList();
         return new PurchasePage(items, page, size, result.getTotalElements(), result.getTotalPages());
     }
@@ -327,6 +348,10 @@ public class PurchaseService {
         return new PurchaseView(p.getPublicId(), p.getOrderNumber(), p.getStatus().name(), p.getCreatedAt(), p.getRefundedAt(),
                 p.getItemCount(), MoneyWire.format(p.getSubtotal()), MoneyWire.format(p.getShipping()), MoneyWire.format(p.getTotal()),
                 p.getWalletMode().name(), MoneyWire.format(p.getBalanceBefore()), MoneyWire.format(p.getBalanceAfter()),
-                p.getDeliveryPreset().name(), p.getSimulationAddress(), items, true);
+                p.getDeliveryPreset().name(), p.getSimulationAddress(), items, tracking(p, clock.instant()), true);
+    }
+
+    private static OrderTracking.Tracking tracking(VirtualPurchase p, Instant now) {
+        return OrderTracking.of(p.getPublicId(), p.getCreatedAt(), p.getStatus(), p.getRefundedAt(), p.getSimulationAddress(), now);
     }
 }

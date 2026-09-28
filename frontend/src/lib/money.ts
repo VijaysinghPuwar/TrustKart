@@ -20,6 +20,19 @@ export function formatMoneyWhole(amount: Money): string {
   return usdWhole.format(Math.floor(Number(amount)))
 }
 
+const usdCompact = new Intl.NumberFormat('en-US', {
+  style: 'currency',
+  currency: 'USD',
+  notation: 'compact',
+  maximumFractionDigits: 1,
+  roundingMode: 'trunc',
+})
+
+/** Very tight UI such as a stat tile: $100K, $84.5K, $1.2M. Truncates, so it never overstates a balance. */
+export function formatMoneyCompact(amount: Money): string {
+  return usdCompact.format(Number(amount))
+}
+
 /** Percentage saved against a compare-at price, rounded down so it never overstates a discount. */
 export function percentOff(price: Money, compareAt: Money): number {
   const p = Number(price)

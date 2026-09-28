@@ -23,7 +23,7 @@ export default function CreditsPage() {
   return (
     <Prose
       title="Image credits"
-      lead="Product and category photos come from Wikimedia Commons under public domain, CC0, CC BY and CC BY-SA licenses. Many show a similar or representative model, and product pages say so."
+      lead="Product photos below come from Wikimedia Commons under public domain, CC0, CC BY and CC BY-SA licenses; some show a similar model, and product pages say so. Where no clean, licensed photograph exists, TrustKart shows its own product illustration, labelled on the product page. Illustrations are generic and carry no brand logos."
     >
       {credits.isPending ? (
         <PageSpinner />

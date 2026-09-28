@@ -18,6 +18,7 @@ const SignInPage = lazy(() => import('@/features/auth/SignInPage'))
 const SignUpPage = lazy(() => import('@/features/auth/SignUpPage'))
 const AccountLayout = lazy(() => import('@/features/account/AccountLayout'))
 const AccountOverview = lazy(() => import('@/features/account/AccountOverview'))
+const NotificationsPage = lazy(() => import('@/features/account/NotificationsPage'))
 const PurchasesPage = lazy(() => import('@/features/account/PurchasesPage'))
 const ReceiptPage = lazy(() => import('@/features/account/ReceiptPage'))
 const SecurityCenter = lazy(() => import('@/features/account/SecurityCenter'))
@@ -56,6 +57,7 @@ export const router = createBrowserRouter([
           { index: true, element: <AccountOverview /> },
           { path: 'purchases', element: <PurchasesPage /> },
           { path: 'purchases/:id', element: <ReceiptPage /> },
+          { path: 'notifications', element: <NotificationsPage /> },
           { path: 'security', element: <SecurityCenter /> },
           { path: 'addresses', element: <AddressesPage /> },
         ],

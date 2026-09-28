@@ -24,6 +24,8 @@ public enum ErrorCode {
     IDEMPOTENCY_KEY_REUSED(HttpStatus.UNPROCESSABLE_CONTENT, "This request key was already used for a different request."),
     WALLET_LIMIT(HttpStatus.UNPROCESSABLE_CONTENT, "That would take your virtual balance past the maximum allowed."),
     ALREADY_REFUNDED(HttpStatus.CONFLICT, "This virtual purchase was already refunded."),
+    ORDER_IN_TRANSIT(HttpStatus.CONFLICT, "Your order has already shipped. You can return it once it's delivered."),
+    RETURN_WINDOW_CLOSED(HttpStatus.CONFLICT, "The 30-day return window for this order has closed."),
     IDEMPOTENCY_KEY_REQUIRED(HttpStatus.BAD_REQUEST, "An Idempotency-Key header is required."),
     RATE_LIMITED(HttpStatus.TOO_MANY_REQUESTS, "Too many attempts. Please wait and try again."),
     INTERNAL_ERROR(HttpStatus.INTERNAL_SERVER_ERROR, "Something went wrong on our side.");
