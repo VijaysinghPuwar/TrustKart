@@ -1,4 +1,5 @@
-# Render Blueprint: the TrustKart API, its PostgreSQL database and its Redis (Key Value) instance, wired together.
+# Render Blueprint: the TrustKart API and its PostgreSQL database, wired together. Redis is the workspace's existing
+# free Key Value instance (Render allows one per workspace); every TrustKart key starts with "tk:", so it can share.
 # Dashboard → New → Blueprint → pick this repository → Apply. No secrets to type: Render connects the pieces.
 # The website itself is on Vercel; vercel.json forwards /api/* to the API service below.
 databases:
@@ -11,13 +12,6 @@ databases:
     ipAllowList: []       # reachable only from Render services, never from the internet
 
 services:
-  - type: keyvalue
-    name: trustkart-redis
-    plan: free
-    region: oregon
-    maxmemoryPolicy: allkeys-lru
-    ipAllowList: []       # internal only
-
   - type: web
     name: trustkart-api
     runtime: docker
@@ -47,9 +41,9 @@ services:
       - key: TRUSTKART_DB_POOL_SIZE
         value: "5"
       - key: TRUSTKART_REDIS_HOST
-        fromService: { type: keyvalue, name: trustkart-redis, property: host }
+        fromService: { type: keyvalue, name: manga-recap-redis, property: host }
       - key: TRUSTKART_REDIS_PORT
-        fromService: { type: keyvalue, name: trustkart-redis, property: port }
+        fromService: { type: keyvalue, name: manga-recap-redis, property: port }
       # Signs login tokens; Render generates a random value once.
       - key: TRUSTKART_JWT_SECRET
         generateValue: true
