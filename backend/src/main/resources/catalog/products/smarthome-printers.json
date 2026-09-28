@@ -23,13 +23,14 @@
    "description": "The HL-L2460DW is a compact black-and-white laser printer that prints up to 36 pages per minute. Its 250-sheet paper tray and automatic duplex printing cut refills and paper waste, and it connects over dual-band wireless, Ethernet or USB 2.0. It supports mobile printing through the Brother Mobile Connect app.",
    "keywords": "black and white laser home office",
    "specs": {
-    "technology": "Monochrome laser",
+    "technology": "Laser",
     "color": false,
     "ppm": 36,
     "duplex": true,
     "functions": "Print",
     "connectivity": "Dual-band Wi-Fi, Ethernet, USB 2.0"
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-BROTHER-HLL3280CDW",
@@ -54,13 +55,14 @@
    "description": "The HL-L3280CDW is a compact digital color printer for home offices and shared workspaces. It prints up to 27 pages per minute with automatic duplex printing, has a 2.7-inch touchscreen for cloud printing, and connects over dual-band wireless, Gigabit Ethernet, Wi-Fi Direct or USB.",
    "keywords": "color laser led printer home office",
    "specs": {
-    "technology": "Color laser (LED)",
+    "technology": "Color laser",
     "color": true,
     "ppm": 27,
     "duplex": true,
     "functions": "Print",
     "connectivity": "Dual-band Wi-Fi, Gigabit Ethernet, Wi-Fi Direct, USB 2.0"
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-BROTHER-HLL6210DW",
@@ -85,13 +87,14 @@
    "description": "Built for busy offices and workgroups, the HL-L6210DW prints up to 50 pages per minute with automatic two-sided printing. It offers a large expandable paper capacity, Triple Layer Security features, Gigabit Ethernet and dual-band wireless, and low-cost printing with the TN920UXXL ultra high-yield toner.",
    "keywords": "workgroup office laser high volume",
    "specs": {
-    "technology": "Monochrome laser",
+    "technology": "Laser",
     "color": false,
     "ppm": 50,
     "duplex": true,
     "functions": "Print",
     "connectivity": "Dual-band Wi-Fi, Gigabit Ethernet, USB 2.0"
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-BROTHER-MFCL2900DW",
@@ -116,13 +119,14 @@
    "description": "The MFC-L2900DW prints, copies, scans and faxes in one compact unit at up to 36 pages per minute. A 50-page automatic document feeder with single-pass duplex scanning, automatic duplex printing, a 250-sheet tray and a 3.5-inch touchscreen streamline office work, with dual-band wireless, Ethernet and USB 2.0 connectivity.",
    "keywords": "all in one mfp fax scanner",
    "specs": {
-    "technology": "Monochrome laser",
+    "technology": "Laser",
     "color": false,
     "ppm": 36,
     "duplex": true,
     "functions": "Print, copy, scan, fax",
     "connectivity": "Dual-band Wi-Fi, Ethernet, USB 2.0"
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-BROTHER-MFCL3765CDW",
@@ -147,13 +151,14 @@
    "description": "The MFC-L3765CDW is a digital color all-in-one for small offices that prints at up to 27 pages per minute and scans at up to 29/22 ipm (black/color). It includes automatic duplex printing, a 50-page document feeder, a 3.5-inch color touchscreen with cloud shortcuts, and Gigabit Ethernet, dual-band wireless and USB connectivity.",
    "keywords": "color all in one mfp fax scanner",
    "specs": {
-    "technology": "Color laser (LED)",
+    "technology": "Color laser",
     "color": true,
     "ppm": 27,
     "duplex": true,
     "functions": "Print, copy, scan, fax",
     "connectivity": "Dual-band Wi-Fi, Gigabit Ethernet, Wi-Fi Direct, USB 2.0"
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-BROTHER-MFCL8905CDW",
@@ -184,7 +189,8 @@
     "duplex": true,
     "functions": "Print, copy, scan, fax",
     "connectivity": "Wi-Fi 802.11b/g/n, Gigabit Ethernet, USB 2.0"
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-BROTHER-QL1110NWB",
@@ -214,7 +220,8 @@
     "duplex": false,
     "functions": "Label printing, auto cutter",
     "connectivity": "Bluetooth, Wi-Fi 802.11b/g/n, Ethernet, USB"
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-BROTHER-TD4550DNWB",
@@ -244,7 +251,8 @@
     "duplex": false,
     "functions": "Barcode labels, tags, receipts",
     "connectivity": "USB, USB host, serial, Ethernet, Wi-Fi, Bluetooth 4.2 BLE"
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-EPSON-ET2980",
@@ -267,14 +275,28 @@
    "description": "The EcoTank ET-2980 is a seventh-generation cartridge-free all-in-one that prints, copies and scans using refillable ink tanks, with enough ink in the box to last up to three years. PrecisionCore Heat-Free technology delivers 15 black / 8 color ISO ppm with zero warmup, plus auto duplex printing, a 100-sheet tray and a 1.44-inch color display.",
    "keywords": "ecotank ink tank cartridge free home printer",
    "specs": {
-    "technology": "Inkjet supertank (PrecisionCore Heat-Free)",
+    "technology": "Inkjet (supertank)",
     "color": true,
     "ppm": 15,
     "duplex": true,
     "functions": "Print, copy, scan",
     "connectivity": "Wi-Fi 5 (802.11ac), Wi-Fi Direct, Hi-Speed USB",
     "colors": "Black, White"
-   }
+   },
+   "options": [
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Black",
+       "default": true
+      },
+      {
+       "label": "White"
+      }
+     ]
+    }
+   ]
   },
   {
    "sku": "TK-EPSON-ET4950",
@@ -299,14 +321,28 @@
    "description": "The EcoTank ET-4950 prints, copies, scans and faxes with Epson's cartridge-free supertank system. It offers 18 black / 9 color ISO ppm with zero warmup, an auto document feeder, a 250-sheet paper tray, auto duplex printing and a 2.4-inch color display, and connects over Ethernet and Wi-Fi.",
    "keywords": "ecotank fax adf home office ink tank",
    "specs": {
-    "technology": "Inkjet supertank (PrecisionCore Heat-Free)",
+    "technology": "Inkjet (supertank)",
     "color": true,
     "ppm": 18,
     "duplex": true,
     "functions": "Print, copy, scan, fax",
     "connectivity": "Wi-Fi, Ethernet, USB",
     "colors": "Black, White"
-   }
+   },
+   "options": [
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Black",
+       "default": true
+      },
+      {
+       "label": "White"
+      }
+     ]
+    }
+   ]
   },
   {
    "sku": "TK-EPSON-ET8550",
@@ -331,13 +367,14 @@
    "description": "The EcoTank Photo ET-8550 is a wireless all-in-one that delivers lab-quality, wide-format color photos, graphics and documents up to 13 x 19 inches using a six-color cartridge-free ink system with Photo Black and Gray. It accepts cardstock, CD/DVDs and specialty media up to 1.3 mm thick, supports auto 2-sided printing and has a 4.3-inch touchscreen.",
    "keywords": "photo printer 13x19 wide format creator ecotank",
    "specs": {
-    "technology": "Inkjet supertank, 6-color photo",
+    "technology": "Inkjet (supertank)",
     "color": true,
     "ppm": 16,
     "duplex": true,
     "functions": "Print, copy, scan",
     "connectivity": "Wi-Fi 5 (802.11ac), Ethernet, Hi-Speed USB, Wi-Fi Direct"
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-RING-BATTDOORBELL4KPRO",
@@ -365,7 +402,27 @@
     "power": "Quick Release Ultra Battery Pack (optional doorbell wiring)",
     "resolution": "Retinal 4K",
     "colors": "Deep Silver, Polished Night Navy, Polished Mocha, Polished Sandstone"
-   }
+   },
+   "options": [
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Deep Silver",
+       "default": true
+      },
+      {
+       "label": "Polished Night Navy"
+      },
+      {
+       "label": "Polished Mocha"
+      },
+      {
+       "label": "Polished Sandstone"
+      }
+     ]
+    }
+   ]
   },
   {
    "sku": "TK-RING-WIREDDOORBELL4KPRO",
@@ -393,7 +450,27 @@
     "power": "Hardwired (16-24 VAC doorbell system)",
     "resolution": "Retinal 4K",
     "colors": "Deep Silver, Polished Night Navy, Polished Mocha, Polished Sandstone"
-   }
+   },
+   "options": [
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Deep Silver",
+       "default": true
+      },
+      {
+       "label": "Polished Night Navy"
+      },
+      {
+       "label": "Polished Mocha"
+      },
+      {
+       "label": "Polished Sandstone"
+      }
+     ]
+    }
+   ]
   },
   {
    "sku": "TK-RING-FLOODLIGHT4KPRO",
@@ -421,7 +498,21 @@
     "power": "Hardwired (110-240V) or plug-in",
     "resolution": "4K",
     "colors": "White, Black"
-   }
+   },
+   "options": [
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "White",
+       "default": true
+      },
+      {
+       "label": "Black"
+      }
+     ]
+    }
+   ]
   },
   {
    "sku": "TK-RING-OUTDOORCAM4KPRO",
@@ -449,7 +540,21 @@
     "power": "Plug-in USB-C (wired and PoE versions available)",
     "resolution": "4K",
     "colors": "White, Black"
-   }
+   },
+   "options": [
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "White",
+       "default": true
+      },
+      {
+       "label": "Black"
+      }
+     ]
+    }
+   ]
   },
   {
    "sku": "TK-RING-SPOTLIGHT4KPRO",
@@ -477,7 +582,21 @@
     "power": "Plug-in USB-C (wired and PoE versions available)",
     "resolution": "4K",
     "colors": "White, Black"
-   }
+   },
+   "options": [
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "White",
+       "default": true
+      },
+      {
+       "label": "Black"
+      }
+     ]
+    }
+   ]
   },
   {
    "sku": "TK-RING-ELITE360",
@@ -504,7 +623,8 @@
     "connectivity": "Wi-Fi 6 (802.11ax) dual-band or PoE Type 4",
     "power": "USB-C adapter or PoE Type 4",
     "resolution": "4K"
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-EUFY-DOORBELLS4",
@@ -531,7 +651,8 @@
     "connectivity": "Wi-Fi 6 dual-band 2.4/5 GHz",
     "power": "Wired (16-24 VAC doorbell wiring)",
     "resolution": "9 MP (180° x 180°)"
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-EUFY-WALLLIGHTCAMS4",
@@ -559,7 +680,8 @@
     "power": "Solar panel + 10,000 mAh built-in battery",
     "resolution": "4K (8 MP)",
     "colors": "White"
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-EUFY-INDOORCAMS350",
@@ -585,7 +707,8 @@
     "ecosystem": "eufy Security app; HomeBase S380 compatible",
     "resolution": "4K wide-angle + 2K telephoto",
     "colors": "White"
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-EUFY-NVRS4MAX",
@@ -615,7 +738,8 @@
     "power": "PoE from NVR",
     "localStorage": "4 TB HDD, upgradeable to 16 TB",
     "subscriptionRequired": false
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-HUE-BRIDGEPRO",
@@ -641,7 +765,8 @@
     "ecosystem": "Philips Hue app; Alexa, Google Home, Apple Home, SmartThings, Matter",
     "connectivity": "Zigbee, Bluetooth, Wi-Fi or Ethernet to router",
     "power": "AC adapter (100-240 V)"
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-HUE-SYNCBOX8K",
@@ -670,7 +795,8 @@
     "connectivity": "4x HDMI 2.1 in, Wi-Fi, Bluetooth 5, Zigbee",
     "power": "AC adapter (100-240 V)",
     "resolution": "8K 60Hz / 4K 120Hz passthrough"
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-HUE-PLAYWALLWASHER",
@@ -697,7 +823,8 @@
     "connectivity": "Bluetooth, Zigbee (Hue Bridge)",
     "power": "Mains power supply (included)",
     "colors": "White"
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-HUE-GOPORTABLE",
@@ -724,7 +851,8 @@
     "connectivity": "Bluetooth, Zigbee (Hue Bridge)",
     "power": "Built-in rechargeable battery",
     "colors": "Black"
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-HUE-SIGNEGRADIENT",
@@ -751,7 +879,8 @@
     "connectivity": "Bluetooth, Zigbee (Hue Bridge)",
     "power": "Mains power adapter (included)",
     "colors": "Oak"
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-HUE-ESSENTIALA19-4PK",
@@ -777,7 +906,8 @@
     "ecosystem": "Philips Hue app; Alexa, Google Home, Apple Home, SmartThings, Matter",
     "connectivity": "Bluetooth, Zigbee (Hue Bridge)",
     "power": "E26 socket, 120V, 8.8W"
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-HUE-VIDEODOORBELL",
@@ -805,7 +935,8 @@
     "power": "Wired (existing doorbell wiring)",
     "resolution": "2K QHD",
     "colors": "Black"
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-SWITCHBOT-HUB3",
@@ -831,7 +962,8 @@
     "ecosystem": "SwitchBot app; Matter, Apple Home, Home Assistant, Alexa, Google Assistant",
     "connectivity": "Matter bridge, infrared (IR), Bluetooth to SwitchBot devices",
     "display": "Front display with Dial Master knob and scene buttons"
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-NANOLEAF-LINES-9",
@@ -861,7 +993,39 @@
     "power": "Plug-in power supply (included)",
     "configurations": "White, 60°, 9 Lines – $199.99 · White, 60°, 15 Lines – $269.99 · Black, 60°, 9 Lines – $229.99",
     "colors": "White, Black"
-   }
+   },
+   "options": [
+    {
+     "name": "Configuration",
+     "values": [
+      {
+       "label": "White, 60°, 9 Lines",
+       "price": "199.99",
+       "default": true
+      },
+      {
+       "label": "White, 60°, 15 Lines",
+       "price": "269.99"
+      },
+      {
+       "label": "Black, 60°, 9 Lines",
+       "price": "229.99"
+      }
+     ]
+    },
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "White",
+       "default": true
+      },
+      {
+       "label": "Black"
+      }
+     ]
+    }
+   ]
   },
   {
    "sku": "TK-NANOLEAF-BLOCKS-COMBO",
@@ -888,7 +1052,31 @@
     "connectivity": "Wi-Fi 2.4 GHz",
     "power": "Plug-in power supply",
     "configurations": "Mixed Squares Combo – $159.99 · Mixed Squares Combo XL – $199.99 · Large Squares 6-pack – $179.99 · Large Squares 10-pack – $299.97"
-   }
+   },
+   "options": [
+    {
+     "name": "Configuration",
+     "values": [
+      {
+       "label": "Mixed Squares Combo",
+       "price": "159.99",
+       "default": true
+      },
+      {
+       "label": "Mixed Squares Combo XL",
+       "price": "199.99"
+      },
+      {
+       "label": "Large Squares 6-pack",
+       "price": "179.99"
+      },
+      {
+       "label": "Large Squares 10-pack",
+       "price": "299.97"
+      }
+     ]
+    }
+   ]
   },
   {
    "sku": "TK-NANOLEAF-SKYLIGHT-3",
@@ -913,7 +1101,8 @@
    "specs": {
     "ecosystem": "Nanoleaf app, Apple Home, Google Home, Alexa, SmartThings",
     "connectivity": "Thread (integrated Thread Border Router)"
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-ECOBEE-PREMIUM",
@@ -942,7 +1131,8 @@
     "display": "4 in. full-color LCD touchscreen, 540 x 540",
     "subscriptionRequired": false,
     "colors": "Black"
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-ECOBEE-ESSENTIAL",
@@ -968,7 +1158,8 @@
     "ecosystem": "ecobee app, Apple Home, Google Assistant, Alexa",
     "connectivity": "Wi-Fi 6 (2.4 GHz), Bluetooth LE 5.4",
     "display": "2.8 in. full-color LCD touchscreen, 240 x 320"
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-REOLINK-OMVI3IPOE",
@@ -998,7 +1189,8 @@
     "power": "PoE (DC port also available)",
     "localStorage": "microSD up to 512 GB; Reolink NVR or NAS",
     "subscriptionRequired": false
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-REOLINK-ARGUS4PRO",
@@ -1025,7 +1217,8 @@
     "power": "5000 mAh rechargeable battery (solar panel supported)",
     "localStorage": "microSD up to 512 GB; Reolink Home Hub",
     "subscriptionRequired": false
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-REOLINK-HOMEHUBPRO",
@@ -1054,7 +1247,8 @@
     "power": "AC power supply",
     "localStorage": "2 TB HDD option, up to 16 TB HDD",
     "subscriptionRequired": false
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-REOLINK-TRACKFLEXFLOOD",
@@ -1081,7 +1275,8 @@
     "power": "Hardwired",
     "localStorage": "microSD up to 512 GB; Reolink NVR",
     "subscriptionRequired": false
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-AQARA-HUBM3",
@@ -1109,7 +1304,8 @@
     "ecosystem": "Aqara Home app; Matter, Apple Home, Google Home, Alexa, SmartThings",
     "connectivity": "Zigbee 3.0, Thread, Matter, IR, dual-band Wi-Fi, Ethernet (PoE)",
     "power": "PoE or USB-C"
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-AQARA-W200",
@@ -1136,7 +1332,8 @@
     "connectivity": "Matter 1.4 (local)",
     "power": "24VAC C wire (C-Wire Adapter sold separately)",
     "display": "Color touchscreen"
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-AQARA-CAMHUBG350",
@@ -1162,7 +1359,8 @@
     "ecosystem": "Aqara Home app; Matter",
     "resolution": "4K wide-angle + 2.5K telephoto",
     "colors": "White"
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-AQARA-DOORBELLG410",
@@ -1189,7 +1387,21 @@
     "connectivity": "Zigbee 3.0 hub, Thread Border Router, Matter controller",
     "resolution": "2K",
     "colors": "Black, Gray"
-   }
+   },
+   "options": [
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Black",
+       "default": true
+      },
+      {
+       "label": "Gray"
+      }
+     ]
+    }
+   ]
   }
  ]
 }

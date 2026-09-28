@@ -29,7 +29,8 @@
     "maxSpeedGbps": 25,
     "managed": true,
     "rackMountable": true
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-UBNT-EF-CORE",
@@ -60,7 +61,8 @@
     "managed": true,
     "rackMountable": true,
     "firewallThroughputGbps": 79
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-UBNT-UCG-FIBER",
@@ -90,7 +92,8 @@
     "maxSpeedGbps": 10,
     "managed": true,
     "rackMountable": false
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-UBNT-UCG-MAX",
@@ -120,7 +123,8 @@
     "maxSpeedGbps": 2.5,
     "managed": true,
     "rackMountable": false
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-UBNT-UCG-ULTRA",
@@ -149,7 +153,8 @@
     "maxSpeedGbps": 2.5,
     "managed": true,
     "rackMountable": false
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-UBNT-UDR7",
@@ -179,8 +184,10 @@
     "maxSpeedGbps": 10,
     "managed": true,
     "rackMountable": false,
-    "wifiStandard": "Wi-Fi 7 (802.11be), tri-band 2.4/5/6 GHz"
-   }
+    "wifiStandard": "Wi-Fi 7",
+    "wifiDetails": "Wi-Fi 7 (802.11be), tri-band 2.4/5/6 GHz"
+   },
+   "options": []
   },
   {
    "sku": "TK-UBNT-UX7",
@@ -209,9 +216,11 @@
     "maxSpeedGbps": 10,
     "managed": true,
     "rackMountable": false,
-    "wifiStandard": "Wi-Fi 7 (802.11be), tri-band 2.4/5/6 GHz",
-    "nodes": 1
-   }
+    "wifiStandard": "Wi-Fi 7",
+    "nodes": 1,
+    "wifiDetails": "Wi-Fi 7 (802.11be), tri-band 2.4/5/6 GHz"
+   },
+   "options": []
   },
   {
    "sku": "TK-UBNT-USW-PROMAX-24POE",
@@ -244,7 +253,8 @@
     "rackMountable": true,
     "poe": 400,
     "switchingCapacityGbps": 112
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-UBNT-USW-PROMAX-48POE",
@@ -276,7 +286,8 @@
     "rackMountable": true,
     "poe": 720,
     "switchingCapacityGbps": 224
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-UBNT-USW-PROXG-24",
@@ -308,7 +319,8 @@
     "managed": true,
     "rackMountable": true,
     "switchingCapacityGbps": 460
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-UBNT-USW-PROXG-10POE",
@@ -340,7 +352,8 @@
     "rackMountable": true,
     "poe": 400,
     "switchingCapacityGbps": 240
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-UBNT-USW-PROHD-24",
@@ -370,7 +383,8 @@
     "managed": true,
     "rackMountable": true,
     "switchingCapacityGbps": 230
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-UBNT-USW-PROXG-AGG",
@@ -400,7 +414,8 @@
     "managed": true,
     "rackMountable": true,
     "switchingCapacityGbps": 1600
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-UBNT-ECS-AGG",
@@ -430,7 +445,8 @@
     "managed": true,
     "rackMountable": true,
     "switchingCapacityGbps": 3600
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-UBNT-USW-FLEXMINI-25G",
@@ -460,7 +476,8 @@
     "managed": true,
     "rackMountable": false,
     "switchingCapacityGbps": 25
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-UBNT-U7-PRO-MAX",
@@ -490,8 +507,10 @@
     "maxSpeedGbps": 2.5,
     "managed": true,
     "rackMountable": false,
-    "wifiStandard": "Wi-Fi 7 (802.11be), tri-band 2.4/5/6 GHz, 8 spatial streams"
-   }
+    "wifiStandard": "Wi-Fi 7",
+    "wifiDetails": "Wi-Fi 7 (802.11be), tri-band 2.4/5/6 GHz, 8 spatial streams"
+   },
+   "options": []
   },
   {
    "sku": "TK-UBNT-U7-PRO-XG",
@@ -521,8 +540,10 @@
     "maxSpeedGbps": 10,
     "managed": true,
     "rackMountable": false,
-    "wifiStandard": "Wi-Fi 7 (802.11be), tri-band 2.4/5/6 GHz, 6 spatial streams"
-   }
+    "wifiStandard": "Wi-Fi 7",
+    "wifiDetails": "Wi-Fi 7 (802.11be), tri-band 2.4/5/6 GHz, 6 spatial streams"
+   },
+   "options": []
   },
   {
    "sku": "TK-UBNT-U7-PRO-XGS",
@@ -552,8 +573,10 @@
     "maxSpeedGbps": 10,
     "managed": true,
     "rackMountable": false,
-    "wifiStandard": "Wi-Fi 7 (802.11be), tri-band 2.4/5/6 GHz, 8 spatial streams"
-   }
+    "wifiStandard": "Wi-Fi 7",
+    "wifiDetails": "Wi-Fi 7 (802.11be), tri-band 2.4/5/6 GHz, 8 spatial streams"
+   },
+   "options": []
   },
   {
    "sku": "TK-UBNT-E7",
@@ -583,8 +606,10 @@
     "maxSpeedGbps": 10,
     "managed": true,
     "rackMountable": false,
-    "wifiStandard": "Wi-Fi 7 (802.11be), 10 spatial streams"
-   }
+    "wifiStandard": "Wi-Fi 7",
+    "wifiDetails": "Wi-Fi 7 (802.11be), 10 spatial streams"
+   },
+   "options": []
   },
   {
    "sku": "TK-UBNT-U7-PRO-OUTDOOR",
@@ -613,8 +638,10 @@
     "maxSpeedGbps": 2.5,
     "managed": true,
     "rackMountable": false,
-    "wifiStandard": "Wi-Fi 7 (802.11be), tri-band with AFC 6 GHz, 6 spatial streams"
-   }
+    "wifiStandard": "Wi-Fi 7",
+    "wifiDetails": "Wi-Fi 7 (802.11be), tri-band with AFC 6 GHz, 6 spatial streams"
+   },
+   "options": []
   },
   {
    "sku": "TK-UBNT-DAC-SFP28",
@@ -644,7 +671,8 @@
     "maxSpeedGbps": 25,
     "managed": false,
     "rackMountable": false
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-UBNT-DAC-QSFP28",
@@ -673,7 +701,8 @@
     "maxSpeedGbps": 100,
     "managed": false,
     "rackMountable": false
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-UBNT-PATCH-C6A-PREMIUM",
@@ -702,7 +731,8 @@
     "maxSpeedGbps": 10,
     "managed": false,
     "rackMountable": false
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-UBNT-OM-SFP28-SR",
@@ -733,7 +763,8 @@
     "managed": false,
     "rackMountable": false,
     "interface": "SFP28 (25GBASE-SR, 850 nm, MMF)"
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-UBNT-USW-PROXG-48POE",
@@ -765,7 +796,8 @@
     "rackMountable": true,
     "poe": 1080,
     "switchingCapacityGbps": 920
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-UBNT-U7-LITE",
@@ -794,8 +826,10 @@
     "maxSpeedGbps": 2.5,
     "managed": true,
     "rackMountable": false,
-    "wifiStandard": "Wi-Fi 7 (802.11be), 4 spatial streams"
-   }
+    "wifiStandard": "Wi-Fi 7",
+    "wifiDetails": "Wi-Fi 7 (802.11be), 4 spatial streams"
+   },
+   "options": []
   },
   {
    "sku": "TK-UBNT-OM-QSFP28-SR4",
@@ -826,7 +860,8 @@
     "managed": false,
     "rackMountable": false,
     "interface": "QSFP28 (100GBASE-SR4, 850 nm, MMF)"
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-NETGATE-4200-MAX",
@@ -858,7 +893,8 @@
     "managed": true,
     "rackMountable": false,
     "firewallThroughputGbps": 8.61
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-NETGATE-8300-BASE",
@@ -889,7 +925,8 @@
     "managed": true,
     "rackMountable": true,
     "firewallThroughputGbps": 26.8
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-MIKROTIK-RB5009UPR",
@@ -919,7 +956,8 @@
     "maxSpeedGbps": 10,
     "managed": true,
     "rackMountable": false
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-MIKROTIK-CCR2116",
@@ -949,7 +987,8 @@
     "maxSpeedGbps": 10,
     "managed": true,
     "rackMountable": true
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-MIKROTIK-CCR2216",
@@ -979,7 +1018,8 @@
     "maxSpeedGbps": 100,
     "managed": true,
     "rackMountable": true
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-MIKROTIK-HAPBE3-MEDIA",
@@ -1008,8 +1048,10 @@
     "maxSpeedGbps": 2.5,
     "managed": true,
     "rackMountable": false,
-    "wifiStandard": "Wi-Fi 7 (802.11be) BE9300, tri-band 2.4/5/6 GHz"
-   }
+    "wifiStandard": "Wi-Fi 7",
+    "wifiDetails": "Wi-Fi 7 (802.11be) BE9300, tri-band 2.4/5/6 GHz"
+   },
+   "options": []
   },
   {
    "sku": "TK-MIKROTIK-CRS326-4C20G2Q",
@@ -1039,7 +1081,8 @@
     "maxSpeedGbps": 40,
     "managed": true,
     "rackMountable": true
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-MIKROTIK-CRS520",
@@ -1069,7 +1112,8 @@
     "maxSpeedGbps": 100,
     "managed": true,
     "rackMountable": true
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-MIKROTIK-CRS812-DDQ",
@@ -1099,7 +1143,8 @@
     "maxSpeedGbps": 400,
     "managed": true,
     "rackMountable": true
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-MIKROTIK-CRS304-4XG",
@@ -1129,7 +1174,8 @@
     "maxSpeedGbps": 10,
     "managed": true,
     "rackMountable": false
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-NETGEAR-RBE973S",
@@ -1158,9 +1204,11 @@
     "maxSpeedGbps": 10,
     "managed": false,
     "rackMountable": false,
-    "wifiStandard": "Wi-Fi 7 (802.11be) BE27000 quad-band",
-    "nodes": 3
-   }
+    "wifiStandard": "Wi-Fi 7",
+    "nodes": 3,
+    "wifiDetails": "Wi-Fi 7 (802.11be) BE27000 quad-band"
+   },
+   "options": []
   },
   {
    "sku": "TK-NETGEAR-XS508MV2",
@@ -1190,7 +1238,8 @@
     "maxSpeedGbps": 10,
     "managed": false,
     "rackMountable": false
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-TPLINK-DECO-BE85-3P",
@@ -1219,9 +1268,11 @@
     "maxSpeedGbps": 10,
     "managed": false,
     "rackMountable": false,
-    "wifiStandard": "Wi-Fi 7 (802.11be) BE22000 tri-band",
-    "nodes": 3
-   }
+    "wifiStandard": "Wi-Fi 7",
+    "nodes": 3,
+    "wifiDetails": "Wi-Fi 7 (802.11be) BE22000 tri-band"
+   },
+   "options": []
   },
   {
    "sku": "TK-TPLINK-OMADA-EAP773",
@@ -1251,8 +1302,10 @@
     "maxSpeedGbps": 10,
     "managed": true,
     "rackMountable": false,
-    "wifiStandard": "Wi-Fi 7 (802.11be) BE11000 tri-band 2.4/5/6 GHz"
-   }
+    "wifiStandard": "Wi-Fi 7",
+    "wifiDetails": "Wi-Fi 7 (802.11be) BE11000 tri-band 2.4/5/6 GHz"
+   },
+   "options": []
   },
   {
    "sku": "TK-SONICWALL-TZ680",
@@ -1283,7 +1336,8 @@
     "managed": true,
     "rackMountable": false,
     "firewallThroughputGbps": 5
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-SONICWALL-TZ480",
@@ -1314,7 +1368,8 @@
     "managed": true,
     "rackMountable": false,
     "firewallThroughputGbps": 4
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-FORTINET-FG90G",
@@ -1345,7 +1400,8 @@
     "managed": true,
     "rackMountable": false,
     "firewallThroughputGbps": 28
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-CISCO-SFW-1220CX",
@@ -1376,7 +1432,8 @@
     "managed": true,
     "rackMountable": false,
     "firewallThroughputGbps": 9
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-CISCO-CW9172I",
@@ -1406,8 +1463,10 @@
     "maxSpeedGbps": 2.5,
     "managed": true,
     "rackMountable": false,
-    "wifiStandard": "Wi-Fi 7 (802.11be) tri-radio 2.4/5/6 GHz, 2x2"
-   }
+    "wifiStandard": "Wi-Fi 7",
+    "wifiDetails": "Wi-Fi 7 (802.11be) tri-radio 2.4/5/6 GHz, 2x2"
+   },
+   "options": []
   },
   {
    "sku": "TK-RUCKUS-R770",
@@ -1436,8 +1495,10 @@
     "maxSpeedGbps": 10,
     "managed": true,
     "rackMountable": false,
-    "wifiStandard": "Wi-Fi 7 (802.11be) tri-radio 2.4/5/6 GHz"
-   }
+    "wifiStandard": "Wi-Fi 7",
+    "wifiDetails": "Wi-Fi 7 (802.11be) tri-radio 2.4/5/6 GHz"
+   },
+   "options": []
   }
  ]
 }

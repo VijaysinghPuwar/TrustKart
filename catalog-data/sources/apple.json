@@ -1842,6 +1842,15 @@
         "product": "https://www.apple.com/ipad-pro/",
         "specs": "https://www.apple.com/ipad-pro/specs/",
         "retrievedAt": "2026-09-28"
+      },
+      "image": {
+        "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-pro-13-select-wifi-spaceblack-202405?wid=2000&hei=2000&fmt=png-alpha",
+        "page": "https://www.apple.com/shop/buy-ipad/ipad-pro",
+        "sourceType": "manufacturer-product-page",
+        "rights": "Official Apple Store product image (store.storeimages.cdn-apple.com); Apple has not granted a reuse license - rights not verified.",
+        "credit": "Apple",
+        "alt": "Apple iPad Pro 13-inch in Space Black, front and back views",
+        "match": "PRODUCT_LINE"
       }
     },
     {
@@ -3303,6 +3312,15 @@
       "sources": {
         "product": "https://www.apple.com/airtag/",
         "retrievedAt": "2026-09-28"
+      },
+      "image": {
+        "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/airtag-gallery2-202601?wid=2000&hei=2000&fmt=png-alpha",
+        "page": "https://www.apple.com/shop/buy-airtag/airtag",
+        "sourceType": "manufacturer-product-page",
+        "rights": "Official Apple Store product image (store.storeimages.cdn-apple.com); Apple has not granted a reuse license - rights not verified.",
+        "credit": "Apple",
+        "alt": "Apple AirTag (2nd generation), angled view of the stainless steel back with the Apple logo",
+        "match": "EXACT"
       }
     }
   ]

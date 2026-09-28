@@ -31,7 +31,8 @@
     "connectivity": "Wi-Fi 7 (compatible with Wi-Fi 6 and Wi-Fi 5 routers)",
     "colors": "White",
     "configurations": "2 TB digital (disc drive sold separately)"
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-SONY-PS5-1TB",
@@ -61,7 +62,8 @@
     "output": "4K HDR on compatible TVs; ray tracing in supported games",
     "colors": "White",
     "configurations": "1 TB with Ultra HD Blu-ray disc drive"
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-SONY-PS5-DIGITAL-825GB",
@@ -89,7 +91,8 @@
     "output": "4K HDR on compatible TVs; ray tracing in supported games",
     "colors": "White",
     "configurations": "825 GB digital (disc drive sold separately)"
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-SONY-PS-PORTAL",
@@ -112,11 +115,26 @@
    "description": "PlayStation Portal Remote Player streams games from your PS5 console over Wi-Fi with console-quality controls. It has an 8-inch LCD screen capable of 1080p at up to 60fps and supports DualSense haptic feedback and adaptive triggers in supported games.",
    "keywords": "ps portal remote player handheld playstation streaming",
    "specs": {
-    "platform": "PS5 Remote Play (requires a PS5 console)",
+    "platform": "PlayStation 5",
     "display": "8-inch LCD, 1080p, up to 60fps",
     "connectivity": "Wi-Fi; PlayStation Link audio",
-    "colors": "White, Midnight Black"
-   }
+    "colors": "White, Midnight Black",
+    "compatibility": "PS5 Remote Play (requires a PS5 console)"
+   },
+   "options": [
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "White",
+       "default": true
+      },
+      {
+       "label": "Midnight Black"
+      }
+     ]
+    }
+   ]
   },
   {
    "sku": "TK-SONY-DUALSENSE",
@@ -139,11 +157,38 @@
    "description": "DualSense brings haptic feedback and adaptive triggers to supported PS5 games, plus a built-in microphone and Create button. It charges and plays over USB Type-C and also connects by Bluetooth to Windows PC, Mac, Android and iOS devices.",
    "keywords": "dualsense ps5 controller gamepad haptic adaptive triggers",
    "specs": {
-    "platform": "PS5, PC, Mac, iOS, Android",
+    "platform": "PlayStation 5",
     "connectivity": "Bluetooth; USB Type-C",
     "battery": "Built-in rechargeable battery",
-    "colors": "White, Sterling Silver, Volcanic Red, Cobalt Blue, Chroma Pearl, Cosmic Red"
-   }
+    "colors": "White, Sterling Silver, Volcanic Red, Cobalt Blue, Chroma Pearl, Cosmic Red",
+    "compatibility": "PS5, PC, Mac, iOS, Android"
+   },
+   "options": [
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "White",
+       "default": true
+      },
+      {
+       "label": "Sterling Silver"
+      },
+      {
+       "label": "Volcanic Red"
+      },
+      {
+       "label": "Cobalt Blue"
+      },
+      {
+       "label": "Chroma Pearl"
+      },
+      {
+       "label": "Cosmic Red"
+      }
+     ]
+    }
+   ]
   },
   {
    "sku": "TK-SONY-DUALSENSE-EDGE",
@@ -168,10 +213,25 @@
    "description": "The DualSense Edge lets you create custom control profiles, remap buttons and fit back buttons, with replaceable stick modules. It ships with a 9.1 ft braided USB cable with a lockable connector housing and also works on PC via USB or Bluetooth.",
    "keywords": "dualsense edge pro controller ps5 back buttons",
    "specs": {
-    "platform": "PS5, PC",
+    "platform": "PlayStation 5",
     "connectivity": "Bluetooth; USB Type-C (9.1 ft braided cable included)",
-    "colors": "White, Midnight Black"
-   }
+    "colors": "White, Midnight Black",
+    "compatibility": "PS5, PC"
+   },
+   "options": [
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "White",
+       "default": true
+      },
+      {
+       "label": "Midnight Black"
+      }
+     ]
+    }
+   ]
   },
   {
    "sku": "TK-SONY-ACCESS-CONTROLLER",
@@ -194,10 +254,12 @@
    "description": "The Access controller kit is designed to help players with disabilities play more comfortably for longer. It can be operated from any 360-degree orientation, used on flat surfaces or attached to an AMPS pattern mount, and comes with swappable button caps and stick caps.",
    "keywords": "access controller accessibility adaptive ps5",
    "specs": {
-    "platform": "PS5",
+    "platform": "PlayStation 5",
     "connectivity": "Wireless to PS5; USB cable included",
-    "colors": "White"
-   }
+    "colors": "White",
+    "compatibility": "PS5"
+   },
+   "options": []
   },
   {
    "sku": "TK-SONY-PULSE-ELITE",
@@ -223,7 +285,21 @@
     "connection": "PlayStation Link (USB adapter included), Bluetooth",
     "colors": "White, Midnight Black",
     "batteryHours": 30
-   }
+   },
+   "options": [
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "White",
+       "default": true
+      },
+      {
+       "label": "Midnight Black"
+      }
+     ]
+    }
+   ]
   },
   {
    "sku": "TK-SONY-PULSE-EXPLORE",
@@ -246,11 +322,26 @@
    "description": "PULSE Explore earbuds pair planar magnetic drivers with PlayStation Link lossless wireless audio for PS5, PS Portal, PC and Mac, and also connect over Bluetooth. They offer up to 5 hours of battery life plus up to 10 more from the charging case, and include a PlayStation Link USB adapter.",
    "keywords": "pulse explore earbuds ps5 portal playstation link planar",
    "specs": {
-    "connectivity": "PlayStation Link (USB adapter included), Bluetooth",
+    "connectivity": "Bluetooth",
     "batteryHours": 5,
     "drivers": "Planar magnetic",
-    "colors": "White, Midnight Black"
-   }
+    "colors": "White, Midnight Black",
+    "connectionDetails": "PlayStation Link (USB adapter included), Bluetooth"
+   },
+   "options": [
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "White",
+       "default": true
+      },
+      {
+       "label": "Midnight Black"
+      }
+     ]
+    }
+   ]
   },
   {
    "sku": "TK-SONY-PULSE-ELEVATE",
@@ -275,7 +366,21 @@
    "specs": {
     "connection": "PlayStation Link, Bluetooth",
     "colors": "White, Midnight Black"
-   }
+   },
+   "options": [
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "White",
+       "default": true
+      },
+      {
+       "label": "Midnight Black"
+      }
+     ]
+    }
+   ]
   },
   {
    "sku": "TK-SONY-PS-GAMING-MONITOR-27",
@@ -301,12 +406,13 @@
    "keywords": "playstation monitor 27 inch qhd 240hz ps5 gaming monitor",
    "specs": {
     "sizeIn": 27,
-    "resolution": "2560 x 1440 (QHD)",
+    "resolution": "2560x1440",
     "refreshHz": 240,
     "panel": "IPS",
     "hdr": "HDR support",
     "inputs": "2x HDMI 2.1, 1x DisplayPort 1.4, USB-B upstream, 2x USB-A, 1x USB-C (5Gbps)"
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-NINTENDO-SWITCH2",
@@ -342,7 +448,27 @@
     "weightG": 535,
     "configurations": "Nintendo Switch 2 system – $499.99 · + Nintendo Switch Sports Resort bundle – $529.99 · + Mario Kart World bundle – $549.99",
     "colors": "Gray with Light Blue / Light Red Joy-Con 2"
-   }
+   },
+   "options": [
+    {
+     "name": "Configuration",
+     "values": [
+      {
+       "label": "Nintendo Switch 2 system",
+       "price": "499.99",
+       "default": true
+      },
+      {
+       "label": "+ Nintendo Switch Sports Resort bundle",
+       "price": "529.99"
+      },
+      {
+       "label": "+ Mario Kart World bundle",
+       "price": "549.99"
+      }
+     ]
+    }
+   ]
   },
   {
    "sku": "TK-NINTENDO-SWITCH2-PRO-CTRL",
@@ -368,7 +494,8 @@
     "platform": "Nintendo Switch 2",
     "connectivity": "Wireless; USB-C charging cable included; 3.5mm audio jack",
     "colors": "Black"
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-NINTENDO-JOYCON2-PAIR",
@@ -395,7 +522,24 @@
     "connectivity": "Bluetooth, NFC (R)",
     "battery": "500 mAh; approx. 20 hours",
     "colors": "Light Blue / Light Red, Light Purple / Light Green, Blue / Light Yellow"
-   }
+   },
+   "options": [
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Light Blue / Light Red",
+       "default": true
+      },
+      {
+       "label": "Light Purple / Light Green"
+      },
+      {
+       "label": "Blue / Light Yellow"
+      }
+     ]
+    }
+   ]
   },
   {
    "sku": "TK-NINTENDO-GAMECUBE-CTRL-NS2",
@@ -418,10 +562,12 @@
    "description": "This controller recreates the original Nintendo GameCube controller with modern Switch 2 features: a Capture Button, a C Button for GameChat and motion controls. It is only compatible with Nintendo Switch 2, pairs and charges via the included USB cable, and requires a paid Nintendo Switch Online membership to purchase.",
    "keywords": "gamecube controller switch 2 nintendo classics online",
    "specs": {
-    "platform": "Nintendo Switch 2 only",
+    "platform": "Nintendo Switch 2",
     "connectivity": "Wireless; USB cable included for pairing and charging",
-    "colors": "Indigo"
-   }
+    "colors": "Indigo",
+    "compatibility": "Nintendo Switch 2 only"
+   },
+   "options": []
   },
   {
    "sku": "TK-VALVE-STEAMDECK-OLED",
@@ -456,7 +602,23 @@
     "battery": "50 Whr; 3-12 hours of gameplay",
     "weightG": 640,
     "configurations": "512 GB OLED – $789 · 1 TB OLED – $949"
-   }
+   },
+   "options": [
+    {
+     "name": "Storage",
+     "values": [
+      {
+       "label": "512 GB OLED",
+       "price": "789.00",
+       "default": true
+      },
+      {
+       "label": "1 TB OLED",
+       "price": "949.00"
+      }
+     ]
+    }
+   ]
   },
   {
    "sku": "TK-VALVE-STEAM-MACHINE",
@@ -491,7 +653,31 @@
     "networking": "2x2 Wi-Fi 6E, Bluetooth 5.3, integrated Steam Controller adapter",
     "ports": "DisplayPort 1.4, HDMI 2.0, microSD slot",
     "configurations": "512 GB – $1,049 · 512 GB with Steam Controller – $1,128 · 2 TB – $1,349 · 2 TB with Steam Controller – $1,428"
-   }
+   },
+   "options": [
+    {
+     "name": "Storage",
+     "values": [
+      {
+       "label": "512 GB",
+       "price": "1049.00",
+       "default": true
+      },
+      {
+       "label": "512 GB with Steam Controller",
+       "price": "1128.00"
+      },
+      {
+       "label": "2 TB",
+       "price": "1349.00"
+      },
+      {
+       "label": "2 TB with Steam Controller",
+       "price": "1428.00"
+      }
+     ]
+    }
+   ]
   },
   {
    "sku": "TK-VALVE-STEAM-CONTROLLER",
@@ -514,11 +700,13 @@
    "description": "Steam Controller has the same familiar inputs as Steam Deck and works with PC, Steam Machine, Steam Deck and Steam Frame. It connects over a 2.4 GHz link (about 8 ms end-to-end) through the USB-C Steam Controller Puck, which supports up to four controllers, and its 8.39 Wh battery lasts 35+ hours.",
    "keywords": "steam controller valve gamepad trackpad 2026",
    "specs": {
-    "platform": "Steam (PC, Steam Deck, Steam Machine, Steam Frame)",
+    "platform": "SteamOS",
     "connectivity": "2.4 GHz wireless via USB-C Steam Controller Puck",
     "battery": "8.39 Wh Li-ion; 35+ hours",
-    "colors": "Black"
-   }
+    "colors": "Black",
+    "compatibility": "Steam (PC, Steam Deck, Steam Machine, Steam Frame)"
+   },
+   "options": []
   },
   {
    "sku": "TK-VALVE-STEAM-FRAME",
@@ -547,7 +735,23 @@
     "chip": "Snapdragon 8 Series, 16 GB LPDDR5X",
     "display": "2160 x 2160 LCD per eye, 72-144 Hz, pancake lenses",
     "configurations": "256 GB kit – $1,059 · 1 TB kit – $1,299"
-   }
+   },
+   "options": [
+    {
+     "name": "Storage",
+     "values": [
+      {
+       "label": "256 GB kit",
+       "price": "1059.00",
+       "default": true
+      },
+      {
+       "label": "1 TB kit",
+       "price": "1299.00"
+      }
+     ]
+    }
+   ]
   },
   {
    "sku": "TK-META-QUEST-3S",
@@ -574,7 +778,23 @@
     "chip": "Snapdragon XR2 Gen 2, 8 GB RAM",
     "display": "1832x1920 per eye, Fresnel lenses, 72/90/120 Hz, 96° x 90° FOV",
     "configurations": "128 GB – $349.99 · 256 GB – $449.99"
-   }
+   },
+   "options": [
+    {
+     "name": "Storage",
+     "values": [
+      {
+       "label": "128 GB",
+       "price": "349.99",
+       "default": true
+      },
+      {
+       "label": "256 GB",
+       "price": "449.99"
+      }
+     ]
+    }
+   ]
   },
   {
    "sku": "TK-SONY-BRAVIA9-II",
@@ -601,16 +821,41 @@
    "specs": {
     "sizeIn": 65,
     "sizes": "65, 75, 85, 115 inch",
-    "resolution": "4K (3840 x 2160)",
-    "panel": "LCD with True RGB LED backlight, local dimming",
+    "resolution": "3840x2160",
+    "panel": "RGB LED",
     "refreshHz": 120,
     "hdr": "HDR10, HLG, Dolby Vision",
     "processor": "XR Processor",
     "gaming": "HDMI 2.1: 4K120, VRR, ALLM, eARC",
     "smartPlatform": "Google TV",
     "audio": "Acoustic Multi-Audio+ with Beam Tweeters (2 subwoofers, 2 full range, 2 tweeters, 2 beam tweeters)",
+    "panelDetails": "LCD with True RGB LED backlight, local dimming",
     "configurations": "65\" class – $3,599.99 · 75\" class – $4,599.99 · 85\" class – $6,499.99 · 115\" class – $30,999.99"
-   }
+   },
+   "options": [
+    {
+     "name": "Size",
+     "values": [
+      {
+       "label": "65\" class",
+       "price": "3599.99",
+       "default": true
+      },
+      {
+       "label": "75\" class",
+       "price": "4599.99"
+      },
+      {
+       "label": "85\" class",
+       "price": "6499.99"
+      },
+      {
+       "label": "115\" class",
+       "price": "30999.99"
+      }
+     ]
+    }
+   ]
   },
   {
    "sku": "TK-SONY-BRAVIA7-II",
@@ -635,16 +880,49 @@
    "specs": {
     "sizeIn": 65,
     "sizes": "50, 55, 65, 75, 85, 98 inch",
-    "resolution": "4K (3840 x 2160)",
-    "panel": "LCD with True RGB LED backlight, local dimming",
+    "resolution": "3840x2160",
+    "panel": "RGB LED",
     "refreshHz": 120,
     "hdr": "HDR10, HLG, Dolby Vision",
     "processor": "XR Processor",
     "gaming": "HDMI 2.1: 4K120, VRR, ALLM, eARC",
     "smartPlatform": "Google TV",
     "audio": "2 full range + 2 subwoofers",
+    "panelDetails": "LCD with True RGB LED backlight, local dimming",
     "configurations": "50\" class – $1,599.99 · 55\" class – $2,099.99 · 65\" class – $2,599.99 · 75\" class – $3,099.99 · 85\" class – $3,999.99 · 98\" class – $8,999.99"
-   }
+   },
+   "options": [
+    {
+     "name": "Size",
+     "values": [
+      {
+       "label": "50\" class",
+       "price": "1599.99"
+      },
+      {
+       "label": "55\" class",
+       "price": "2099.99"
+      },
+      {
+       "label": "65\" class",
+       "price": "2599.99",
+       "default": true
+      },
+      {
+       "label": "75\" class",
+       "price": "3099.99"
+      },
+      {
+       "label": "85\" class",
+       "price": "3999.99"
+      },
+      {
+       "label": "98\" class",
+       "price": "8999.99"
+      }
+     ]
+    }
+   ]
   },
   {
    "sku": "TK-SONY-BRAVIA8-II",
@@ -672,14 +950,30 @@
    "specs": {
     "sizeIn": 65,
     "sizes": "55, 65 inch",
-    "resolution": "4K (3840 x 2160)",
+    "resolution": "3840x2160",
     "panel": "QD-OLED",
     "hdr": "HDR10, HLG, Dolby Vision",
     "gaming": "HDMI 2.1: 4K120, VRR, ALLM, eARC, SBTM",
     "smartPlatform": "Google TV",
     "audio": "2 actuators + 2 subwoofers",
     "configurations": "55\" class – $2,599.99 · 65\" class – $2,499.99"
-   }
+   },
+   "options": [
+    {
+     "name": "Size",
+     "values": [
+      {
+       "label": "55\" class",
+       "price": "2599.99"
+      },
+      {
+       "label": "65\" class",
+       "price": "2499.99",
+       "default": true
+      }
+     ]
+    }
+   ]
   },
   {
    "sku": "TK-SONY-BRAVIA6-OLED",
@@ -706,12 +1000,40 @@
    "specs": {
     "sizeIn": 65,
     "sizes": "48, 55, 65, 77, 83 inch",
-    "resolution": "4K (3840 x 2160)",
+    "resolution": "3840x2160",
     "panel": "OLED",
     "hdr": "HDR10, HLG, Dolby Vision",
     "smartPlatform": "Google TV",
     "configurations": "48\" class – $1,099.99 · 55\" class – $1,399.99 · 65\" class – $1,699.99 · 77\" class – $2,199.99 · 83\" class – $3,999.99"
-   }
+   },
+   "options": [
+    {
+     "name": "Size",
+     "values": [
+      {
+       "label": "48\" class",
+       "price": "1099.99"
+      },
+      {
+       "label": "55\" class",
+       "price": "1399.99"
+      },
+      {
+       "label": "65\" class",
+       "price": "1699.99",
+       "default": true
+      },
+      {
+       "label": "77\" class",
+       "price": "2199.99"
+      },
+      {
+       "label": "83\" class",
+       "price": "3999.99"
+      }
+     ]
+    }
+   ]
   },
   {
    "sku": "TK-SONY-BRAVIA5",
@@ -736,15 +1058,44 @@
    "specs": {
     "sizeIn": 55,
     "sizes": "55, 65, 75, 85, 98 inch",
-    "resolution": "4K (3840 x 2160)",
-    "panel": "LCD Mini LED, local dimming",
+    "resolution": "3840x2160",
+    "panel": "Mini LED",
     "refreshHz": 120,
     "hdr": "HDR10, HLG, Dolby Vision",
     "gaming": "HDMI 2.1: 4K120, VRR, ALLM, eARC, SBTM",
     "smartPlatform": "Google TV",
     "audio": "2 full range (bass reflex) + 2 tweeters",
+    "panelDetails": "LCD Mini LED, local dimming",
     "configurations": "55\" class – $1,399.99 · 65\" class – $1,499.99 · 75\" class – $1,999.99 · 85\" class – $2,399.99 · 98\" class – $4,999.99"
-   }
+   },
+   "options": [
+    {
+     "name": "Size",
+     "values": [
+      {
+       "label": "55\" class",
+       "price": "1399.99",
+       "default": true
+      },
+      {
+       "label": "65\" class",
+       "price": "1499.99"
+      },
+      {
+       "label": "75\" class",
+       "price": "1999.99"
+      },
+      {
+       "label": "85\" class",
+       "price": "2399.99"
+      },
+      {
+       "label": "98\" class",
+       "price": "4999.99"
+      }
+     ]
+    }
+   ]
   },
   {
    "sku": "TK-SONY-WF1000XM6",
@@ -767,14 +1118,29 @@
    "description": "WF-1000XM6 are Sony's top truly wireless noise-cancelling earbuds, with 8.4 mm driver units and support for SBC, AAC, LDAC and LC3 codecs. Battery life is up to 5 hours with noise cancelling on (5.5 hours off), and each earbud weighs about 6.5 g.",
    "keywords": "wf-1000xm6 sony earbuds noise cancelling ldac",
    "specs": {
-    "connectivity": "Bluetooth (SBC, AAC, LDAC, LC3)",
+    "connectivity": "Bluetooth",
     "noiseCancelling": true,
     "batteryHours": 5,
     "drivers": "8.4 mm",
     "codecs": "SBC, AAC, LDAC, LC3",
     "weightG": 6.5,
-    "colors": "Black, Silver"
-   }
+    "colors": "Black, Silver",
+    "connectionDetails": "Bluetooth (SBC, AAC, LDAC, LC3)"
+   },
+   "options": [
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Black",
+       "default": true
+      },
+      {
+       "label": "Silver"
+      }
+     ]
+    }
+   ]
   },
   {
    "sku": "TK-SONY-ULT-WEAR",
@@ -797,14 +1163,32 @@
    "description": "ULT WEAR is part of Sony's ULT POWER SOUND series, with 40 mm dome drivers, noise cancelling and SBC, AAC and LDAC support. Battery life is up to 30 hours with noise cancelling on or 40 hours off, and the headphones weigh about 255 g.",
    "keywords": "ult wear sony headphones bass noise cancelling",
    "specs": {
-    "connectivity": "Bluetooth (SBC, AAC, LDAC)",
+    "connectivity": "Bluetooth",
     "noiseCancelling": true,
     "batteryHours": 30,
     "drivers": "40 mm dome",
     "codecs": "SBC, AAC, LDAC",
     "weightG": 255,
-    "colors": "Black, Forest Gray, Off White"
-   }
+    "colors": "Black, Forest Gray, Off White",
+    "connectionDetails": "Bluetooth (SBC, AAC, LDAC)"
+   },
+   "options": [
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Black",
+       "default": true
+      },
+      {
+       "label": "Forest Gray"
+      },
+      {
+       "label": "Off White"
+      }
+     ]
+    }
+   ]
   },
   {
    "sku": "TK-SONY-BRAVIA-THEATER-BAR9",
@@ -828,9 +1212,11 @@
    "keywords": "bravia theater bar 9 soundbar dolby atmos sony",
    "specs": {
     "channels": "13ch",
-    "connectivity": "HDMI eARC, HDMI in, Wi-Fi, Bluetooth 5.2",
-    "colors": "Black"
-   }
+    "connectivity": "Wi-Fi + Bluetooth",
+    "colors": "Black",
+    "connectionDetails": "HDMI eARC, HDMI in, Wi-Fi, Bluetooth 5.2"
+   },
+   "options": []
   },
   {
    "sku": "TK-SONY-BRAVIA-THEATER-BAR8",
@@ -854,9 +1240,11 @@
    "keywords": "bravia theater bar 8 soundbar dolby atmos sony",
    "specs": {
     "channels": "11ch",
-    "connectivity": "HDMI eARC, Bluetooth 5.2",
-    "colors": "Black"
-   }
+    "connectivity": "Bluetooth",
+    "colors": "Black",
+    "connectionDetails": "HDMI eARC, Bluetooth 5.2"
+   },
+   "options": []
   },
   {
    "sku": "TK-SONY-BRAVIA-THEATER-BAR6",
@@ -880,9 +1268,11 @@
    "keywords": "bravia theater bar 6 soundbar subwoofer dolby atmos sony",
    "specs": {
     "channels": "3.1.2ch",
-    "connectivity": "HDMI eARC, optical, Bluetooth 5.3",
-    "colors": "Black"
-   }
+    "connectivity": "Bluetooth",
+    "colors": "Black",
+    "connectionDetails": "HDMI eARC, optical, Bluetooth 5.3"
+   },
+   "options": []
   },
   {
    "sku": "TK-SONY-BRAVIA-THEATER-QUAD",
@@ -908,9 +1298,11 @@
    "keywords": "bravia theater quad home theater wireless speakers dolby atmos sony",
    "specs": {
     "channels": "16ch",
-    "connectivity": "HDMI eARC, Bluetooth 5.2",
-    "colors": "Gray"
-   }
+    "connectivity": "Bluetooth",
+    "colors": "Gray",
+    "connectionDetails": "HDMI eARC, Bluetooth 5.2"
+   },
+   "options": []
   },
   {
    "sku": "TK-SONY-A1-II",
@@ -939,11 +1331,12 @@
     "megapixels": 50.1,
     "video": "8K and 4K recording",
     "stabilization": "In-body, 8.5 stops centre / 7.0 stops periphery (CIPA 2024)",
-    "mount": "Sony E-mount",
+    "mount": "Sony E",
     "battery": "NP-FZ100",
     "weightG": 658,
     "autofocus": "Fast Hybrid AF, 759 phase-detection points"
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-SONY-A7R-VI",
@@ -971,11 +1364,12 @@
     "sensor": "35mm full frame (35.9 x 24.0 mm) Exmor RS CMOS",
     "megapixels": 66.8,
     "video": "8K and 4K recording",
-    "mount": "Sony E-mount",
+    "mount": "Sony E",
     "battery": "NP-SA100",
     "weightG": 622,
     "autofocus": "759 phase-detection points"
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-SONY-A7-V",
@@ -1000,12 +1394,28 @@
    "specs": {
     "sensor": "35mm full frame (35.9 x 23.9 mm) Exmor RS CMOS",
     "megapixels": 33.0,
-    "mount": "Sony E-mount",
+    "mount": "Sony E",
     "battery": "NP-FZ100",
     "weightG": 610,
     "autofocus": "759 phase-detection points",
     "configurations": "Body only – $2,899.99 · Kit (ilce7m5mb) – $3,099.99"
-   }
+   },
+   "options": [
+    {
+     "name": "Configuration",
+     "values": [
+      {
+       "label": "Body only",
+       "price": "2899.99",
+       "default": true
+      },
+      {
+       "label": "Kit (ilce7m5mb)",
+       "price": "3099.99"
+      }
+     ]
+    }
+   ]
   },
   {
    "sku": "TK-SONY-A9-III",
@@ -1031,11 +1441,12 @@
     "sensor": "35mm full frame (35.6 x 23.8 mm) Exmor RS CMOS",
     "megapixels": 24.6,
     "stabilization": "5-axis sensor-shift",
-    "mount": "Sony E-mount",
+    "mount": "Sony E",
     "battery": "NP-FZ100",
     "weightG": 617,
     "autofocus": "759 phase-detection points (stills)"
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-SONY-ZV-E1",
@@ -1064,12 +1475,40 @@
     "megapixels": 12.1,
     "video": "4K recording",
     "stabilization": "In-body, 5.0 stops (CIPA)",
-    "mount": "Sony E-mount",
+    "mount": "Sony E",
     "weightG": 399,
     "autofocus": "759 phase-detection points (stills)",
     "configurations": "Body only – $2,499.99 · Lens kit – $2,799.99",
     "colors": "White, Black"
-   }
+   },
+   "options": [
+    {
+     "name": "Configuration",
+     "values": [
+      {
+       "label": "Body only",
+       "price": "2499.99",
+       "default": true
+      },
+      {
+       "label": "Lens kit",
+       "price": "2799.99"
+      }
+     ]
+    },
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "White",
+       "default": true
+      },
+      {
+       "label": "Black"
+      }
+     ]
+    }
+   ]
   },
   {
    "sku": "TK-SONY-FX3",
@@ -1097,9 +1536,10 @@
     "sensor": "35mm full frame (35.6 x 23.8 mm) Exmor R CMOS",
     "megapixels": 12.1,
     "stabilization": "In-body, 5.5 stops (CIPA)",
-    "mount": "Sony E-mount",
+    "mount": "Sony E",
     "autofocus": "627 points (movie), 759 points (stills)"
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-SONY-ZV-E10-II",
@@ -1124,13 +1564,41 @@
    "specs": {
     "sensor": "APS-C (23.3 x 15.5 mm) Exmor R CMOS",
     "megapixels": 26.0,
-    "mount": "Sony E-mount",
+    "mount": "Sony E",
     "battery": "NP-FZ100",
     "weightG": 292,
     "autofocus": "759 phase-detection points (stills)",
     "configurations": "Body only – $1,199.99 · Kit – $1,299.99",
     "colors": "Black, White"
-   }
+   },
+   "options": [
+    {
+     "name": "Configuration",
+     "values": [
+      {
+       "label": "Body only",
+       "price": "1199.99",
+       "default": true
+      },
+      {
+       "label": "Kit",
+       "price": "1299.99"
+      }
+     ]
+    },
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Black",
+       "default": true
+      },
+      {
+       "label": "White"
+      }
+     ]
+    }
+   ]
   },
   {
    "sku": "TK-SONY-FE-2470-GM2",
@@ -1155,11 +1623,12 @@
    "specs": {
     "focalLength": "24-70mm",
     "maxAperture": "F2.8",
-    "mount": "Sony E-mount",
+    "mount": "Sony E",
     "sensor": "35mm full frame",
     "stabilization": "None in lens (uses in-body stabilization)",
     "weightG": 695
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-SONY-FE-70200-GM2",
@@ -1184,11 +1653,12 @@
    "specs": {
     "focalLength": "70-200mm",
     "maxAperture": "F2.8",
-    "mount": "Sony E-mount",
+    "mount": "Sony E",
     "sensor": "35mm full frame",
     "stabilization": "Optical SteadyShot",
     "weightG": 1045
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-SONY-FE-1635-GM2",
@@ -1213,11 +1683,12 @@
    "specs": {
     "focalLength": "16-35mm",
     "maxAperture": "F2.8",
-    "mount": "Sony E-mount",
+    "mount": "Sony E",
     "sensor": "35mm full frame",
     "stabilization": "None in lens (uses in-body stabilization)",
     "weightG": 547
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-SONY-FE-85F14-GM2",
@@ -1242,11 +1713,12 @@
    "specs": {
     "focalLength": "85mm",
     "maxAperture": "F1.4",
-    "mount": "Sony E-mount",
+    "mount": "Sony E",
     "sensor": "35mm full frame",
     "stabilization": "None in lens (uses in-body stabilization)",
     "weightG": 642
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-SONY-FE-50F12-GM",
@@ -1271,11 +1743,12 @@
    "specs": {
     "focalLength": "50mm",
     "maxAperture": "F1.2",
-    "mount": "Sony E-mount",
+    "mount": "Sony E",
     "sensor": "35mm full frame",
     "stabilization": "None in lens (uses in-body stabilization)",
     "weightG": 778
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-TCL-X11L",
@@ -1302,13 +1775,34 @@
    "specs": {
     "sizeIn": 75,
     "sizes": "75, 85, 98 inch",
-    "resolution": "4K UHD",
-    "panel": "SQD-Mini LED, WHVA 2.0 Ultra panel, up to 20,000 dimming zones",
+    "resolution": "3840x2160",
+    "panel": "Mini LED",
     "hdr": "Up to 10,000 peak nits",
     "smartPlatform": "Google TV",
     "audio": "Audio by Bang & Olufsen",
+    "panelDetails": "SQD-Mini LED, WHVA 2.0 Ultra panel, up to 20,000 dimming zones",
     "configurations": "75\" class – $4,499.99 · 85\" class – $6,499.99 · 98\" class – $8,999.99"
-   }
+   },
+   "options": [
+    {
+     "name": "Size",
+     "values": [
+      {
+       "label": "75\" class",
+       "price": "4499.99",
+       "default": true
+      },
+      {
+       "label": "85\" class",
+       "price": "6499.99"
+      },
+      {
+       "label": "98\" class",
+       "price": "8999.99"
+      }
+     ]
+    }
+   ]
   },
   {
    "sku": "TK-TCL-RM9L",
@@ -1333,16 +1827,37 @@
    "specs": {
     "sizeIn": 85,
     "sizes": "85, 98, 115 inch",
-    "resolution": "4K UHD",
-    "panel": "RGB-Mini LED, WHVA Ultra low-reflection panel, 5,600+ dimming zones",
+    "resolution": "3840x2160",
+    "panel": "Mini LED",
     "refreshHz": 288,
     "hdr": "Dolby Vision IQ; up to 9,000 nits",
     "processor": "TSR AI Pro",
     "gaming": "Game Accelerator 288 VRR, HDMI 2.1",
     "smartPlatform": "Google TV",
     "audio": "Dolby Atmos, Bang & Olufsen",
+    "panelDetails": "RGB-Mini LED, WHVA Ultra low-reflection panel, 5,600+ dimming zones",
     "configurations": "85\" class – $5,999.99 · 98\" class – $8,499.99 · 115\" class – $24,999.99"
-   }
+   },
+   "options": [
+    {
+     "name": "Size",
+     "values": [
+      {
+       "label": "85\" class",
+       "price": "5999.99",
+       "default": true
+      },
+      {
+       "label": "98\" class",
+       "price": "8499.99"
+      },
+      {
+       "label": "115\" class",
+       "price": "24999.99"
+      }
+     ]
+    }
+   ]
   },
   {
    "sku": "TK-TCL-QM8L",
@@ -1369,16 +1884,41 @@
    "specs": {
     "sizeIn": 65,
     "sizes": "65, 75, 85, 98 inch",
-    "resolution": "4K UHD",
-    "panel": "SQD-Mini LED, WHVA Ultra panel, 4,000+ local dimming zones",
+    "resolution": "3840x2160",
+    "panel": "Mini LED",
     "refreshHz": 288,
     "hdr": "Dolby Vision IQ; up to 6,000 nits",
     "processor": "TSR AI Pro",
     "gaming": "Game Accelerator 288 VRR, HDMI 2.1",
     "smartPlatform": "Google TV",
     "audio": "Dolby Atmos, Bang & Olufsen",
+    "panelDetails": "SQD-Mini LED, WHVA Ultra panel, 4,000+ local dimming zones",
     "configurations": "65\" class – $1,499.99 · 75\" class – $1,799.99 · 85\" class – $2,499.99 · 98\" class – $3,999.99"
-   }
+   },
+   "options": [
+    {
+     "name": "Size",
+     "values": [
+      {
+       "label": "65\" class",
+       "price": "1499.99",
+       "default": true
+      },
+      {
+       "label": "75\" class",
+       "price": "1799.99"
+      },
+      {
+       "label": "85\" class",
+       "price": "2499.99"
+      },
+      {
+       "label": "98\" class",
+       "price": "3999.99"
+      }
+     ]
+    }
+   ]
   },
   {
    "sku": "TK-TCL-QM7L",
@@ -1403,15 +1943,44 @@
    "specs": {
     "sizeIn": 55,
     "sizes": "55, 65, 75, 85, 98 inch",
-    "resolution": "4K UHD",
-    "panel": "SQD-Mini LED, 2,100+ local dimming zones",
+    "resolution": "3840x2160",
+    "panel": "Mini LED",
     "refreshHz": 144,
     "hdr": "Dolby Vision IQ; up to 3,000 nits",
     "gaming": "Game Accelerator 288 VRR, FreeSync",
     "smartPlatform": "Google TV",
     "audio": "Dolby Atmos",
+    "panelDetails": "SQD-Mini LED, 2,100+ local dimming zones",
     "configurations": "55\" class – $799.99 · 65\" class – $999.99 · 75\" class – $1,199.99 · 85\" class – $1,499.99 · 98\" class – $2,499.99"
-   }
+   },
+   "options": [
+    {
+     "name": "Size",
+     "values": [
+      {
+       "label": "55\" class",
+       "price": "799.99",
+       "default": true
+      },
+      {
+       "label": "65\" class",
+       "price": "999.99"
+      },
+      {
+       "label": "75\" class",
+       "price": "1199.99"
+      },
+      {
+       "label": "85\" class",
+       "price": "1499.99"
+      },
+      {
+       "label": "98\" class",
+       "price": "2499.99"
+      }
+     ]
+    }
+   ]
   },
   {
    "sku": "TK-HISENSE-UR9",
@@ -1436,14 +2005,31 @@
    "specs": {
     "sizeIn": 65,
     "sizes": "65, 75, 85, 100 inch",
-    "resolution": "4K UHD",
-    "panel": "RGB MiniLED (Chromagic), ultra-low reflection panel",
+    "resolution": "3840x2160",
+    "panel": "RGB Mini LED",
     "refreshHz": 180,
     "processor": "Hi-View AI Engine RGB",
     "smartPlatform": "Google TV",
     "audio": "4.1.2 multi-channel, tuned by Devialet, Dolby Atmos",
+    "panelDetails": "RGB MiniLED (Chromagic), ultra-low reflection panel",
     "configurations": "65\" class – $3,499.99 · 100\" class – $8,999.99"
-   }
+   },
+   "options": [
+    {
+     "name": "Size",
+     "values": [
+      {
+       "label": "65\" class",
+       "price": "3499.99",
+       "default": true
+      },
+      {
+       "label": "100\" class",
+       "price": "8999.99"
+      }
+     ]
+    }
+   ]
   },
   {
    "sku": "TK-HISENSE-U7SG",
@@ -1468,13 +2054,15 @@
    "specs": {
     "sizeIn": 55,
     "sizes": "55, 65, 75, 85, 100, 116 inch",
-    "resolution": "4K UHD",
-    "panel": "Hi-QLED MiniLED Pro, full-array local dimming",
+    "resolution": "3840x2160",
+    "panel": "Mini LED",
     "refreshHz": 165,
     "processor": "Hi-View AI Engine Pro",
     "smartPlatform": "Google TV",
-    "audio": "50W 2.1.2, Dolby Atmos, DTS Virtual:X"
-   }
+    "audio": "50W 2.1.2, Dolby Atmos, DTS Virtual:X",
+    "panelDetails": "Hi-QLED MiniLED Pro, full-array local dimming"
+   },
+   "options": []
   },
   {
    "sku": "TK-8BITDO-ULTIMATE-2-BT",
@@ -1497,11 +2085,29 @@
    "description": "The Ultimate 2 Bluetooth Controller works with Switch (and Switch 2 via firmware update) and Windows over Bluetooth, 2.4G or USB. It has TMR joysticks with a 12-bit ADC, Hall Effect triggers that switch between linear and tactile modes, and a charging dock that also extends the wireless signal. It weighs 246 g.",
    "keywords": "8bitdo ultimate 2 controller switch pc tmr hall effect",
    "specs": {
-    "platform": "Nintendo Switch, Switch 2 (firmware update), Windows",
+    "platform": "Nintendo Switch 2",
     "connectivity": "Bluetooth, 2.4G, wired USB",
     "weightG": 246,
-    "colors": "Black, White, Yellow"
-   }
+    "colors": "Black, White, Yellow",
+    "compatibility": "Nintendo Switch, Switch 2 (firmware update), Windows"
+   },
+   "options": [
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Black",
+       "default": true
+      },
+      {
+       "label": "White"
+      },
+      {
+       "label": "Yellow"
+      }
+     ]
+    }
+   ]
   },
   {
    "sku": "TK-8BITDO-PRO-3",
@@ -1524,11 +2130,32 @@
    "description": "The 8BitDo Pro 3 connects over 2.4G, Bluetooth or USB to Switch 1/2, Windows, SteamOS, Android and Apple devices. It has TMR joysticks, triggers that switch between linear Hall Effect and tactile modes, two remappable L4/R4 back buttons, a 1000mAh battery and a charging dock.",
    "keywords": "8bitdo pro 3 controller retro switch pc steam deck",
    "specs": {
-    "platform": "Switch 1/2, Windows, SteamOS, Android, Apple",
+    "platform": "Nintendo Switch",
     "connectivity": "2.4G, Bluetooth, wired USB",
     "battery": "1000 mAh",
-    "colors": "Orange, Purple, G Classic, Gray"
-   }
+    "colors": "Orange, Purple, G Classic, Gray",
+    "compatibility": "Switch 1/2, Windows, SteamOS, Android, Apple"
+   },
+   "options": [
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Orange",
+       "default": true
+      },
+      {
+       "label": "Purple"
+      },
+      {
+       "label": "G Classic"
+      },
+      {
+       "label": "Gray"
+      }
+     ]
+    }
+   ]
   },
   {
    "sku": "TK-8BITDO-ULTIMATE-3E-XBOX",
@@ -1551,10 +2178,12 @@
    "description": "The Ultimate 3E is 8BitDo's pro-level, officially licensed controller for Xbox Series X|S, Windows and mobile. It offers swappable ABXY modules (silicone or micro-switch), joysticks and D-pads, TMR joysticks with a 12-bit ADC, a contactless magnetic wireless charging dock and 1000Hz polling on PC.",
    "keywords": "8bitdo ultimate 3e xbox controller modular tmr",
    "specs": {
-    "platform": "Xbox Series X|S, Windows, mobile",
+    "platform": "Xbox",
     "connectivity": "Wireless; 1000Hz polling on PC",
-    "colors": "Black"
-   }
+    "colors": "Black",
+    "compatibility": "Xbox Series X|S, Windows, mobile"
+   },
+   "options": []
   }
  ]
 }

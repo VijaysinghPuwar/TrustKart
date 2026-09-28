@@ -756,6 +756,20 @@
   "sourcePx": 736
  },
  {
+  "productId": "TK-APPLE-AIRTAG2",
+  "slug": "apple-airtag-2nd-generation",
+  "productName": "Apple AirTag (2nd generation)",
+  "brand": "Apple",
+  "sourcePage": "https://www.apple.com/shop/buy-airtag/airtag",
+  "assetUrl": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/airtag-gallery2-202601?wid=2000&hei=2000&fmt=png-alpha",
+  "localAsset": "frontend/public/images/catalog/apple-airtag-2nd-generation-800.webp",
+  "sourceType": "manufacturer-product-page",
+  "match": "EXACT",
+  "retrievedAt": "2026-09-28",
+  "rights": "Official Apple Store product image (store.storeimages.cdn-apple.com); Apple has not granted a reuse license - rights not verified.",
+  "sourcePx": 890
+ },
+ {
   "productId": "TK-APPLE-EARPODS-USBC",
   "slug": "apple-earpods-usb-c",
   "productName": "Apple EarPods (USB-C)",
@@ -866,6 +880,20 @@
   "retrievedAt": "2026-09-28",
   "rights": "Official Apple Store product image (store.storeimages.cdn-apple.com); Apple has not granted a reuse license - rights not verified.",
   "sourcePx": 1176
+ },
+ {
+  "productId": "TK-APPLE-IPADPRO13-M5",
+  "slug": "apple-ipad-pro-13-m5",
+  "productName": "Apple iPad Pro 13-inch (M5)",
+  "brand": "Apple",
+  "sourcePage": "https://www.apple.com/shop/buy-ipad/ipad-pro",
+  "assetUrl": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-pro-13-select-wifi-spaceblack-202405?wid=2000&hei=2000&fmt=png-alpha",
+  "localAsset": "frontend/public/images/catalog/apple-ipad-pro-13-m5-800.webp",
+  "sourceType": "manufacturer-product-page",
+  "match": "PRODUCT_LINE",
+  "retrievedAt": "2026-09-28",
+  "rights": "Official Apple Store product image (store.storeimages.cdn-apple.com); Apple has not granted a reuse license - rights not verified.",
+  "sourcePx": 2000
  },
  {
   "productId": "TK-APPLE-IPHONE16",
@@ -4270,6 +4298,20 @@
   "sourcePx": 1071
  },
  {
+  "productId": "TK-GOOGLE-NESTHUB2",
+  "slug": "google-nest-hub-2nd-gen",
+  "productName": "Google Nest Hub (2nd gen)",
+  "brand": "Google",
+  "sourcePage": "https://store.google.com/us/config/nest_hub_2nd_gen",
+  "assetUrl": "https://lh3.googleusercontent.com/e5A_WAg_qQrDADl0d-kLb859l7ujETU7KTV0G1cvd2UYee2-M-YDwSt_UeFhzpoi_ojGlAI75ElwS27qSZljP0VAxVF2OW7IoQM=s2000",
+  "localAsset": "frontend/public/images/catalog/google-nest-hub-2nd-gen-800.webp",
+  "sourceType": "manufacturer-product-page",
+  "match": "EXACT",
+  "retrievedAt": "2026-09-28",
+  "rights": "Official Google Store product image (store.google.com); Google has not granted a reuse license — rights not verified.",
+  "sourcePx": 1298
+ },
+ {
   "productId": "TK-GOOGLE-NESTLEARNING4",
   "slug": "google-nest-learning-thermostat-4th-gen",
   "productName": "Google Nest Learning Thermostat (4th gen)",
@@ -5374,6 +5416,34 @@
   "retrievedAt": "2026-09-28",
   "rights": "Official LG.com US product gallery image (media.us.lg.com); LG has not granted a reuse license — rights not verified.",
   "sourcePx": 1034
+ },
+ {
+  "productId": "TK-LG-39GX950B",
+  "slug": "lg-ultragear-oled-evo-39gx950b",
+  "productName": "LG UltraGear OLED evo 39GX950B 39\" 5K2K Curved",
+  "brand": "LG",
+  "sourcePage": "https://www.lg.com/us/monitors/lg-39gx950b-b-gaming-monitor",
+  "assetUrl": "https://media.us.lg.com/transform/ecomm-PDPGalleryZoom-1600x1062/77a21f15-e17b-4da5-a3ec-d68758e45f8e/Monitor-39GX950B-B-gallery-13_5000x5000",
+  "localAsset": "frontend/public/images/catalog/lg-ultragear-oled-evo-39gx950b-800.webp",
+  "sourceType": "manufacturer-product-page",
+  "match": "EXACT",
+  "retrievedAt": "2026-09-28",
+  "rights": "Official LG.com US product gallery image (media.us.lg.com); LG has not granted a reuse license — rights not verified.",
+  "sourcePx": 1034
+ },
+ {
+  "productId": "TK-LG-45GX950B",
+  "slug": "lg-ultragear-oled-evo-45gx950b",
+  "productName": "LG UltraGear OLED evo 45GX950B 45\" 5K2K 800R",
+  "brand": "LG",
+  "sourcePage": "https://www.lg.com/us/monitors/lg-45gx950b-b-gaming-monitor",
+  "assetUrl": "https://media.us.lg.com/transform/ecomm-PDPGalleryZoom-1600x1062/e2706cfa-37b1-4d03-a6b8-cb53a19741ed/Monitor-45GX950B-B-gallery_16_5000x5000",
+  "localAsset": "frontend/public/images/catalog/lg-ultragear-oled-evo-45gx950b-800.webp",
+  "sourceType": "manufacturer-product-page",
+  "match": "EXACT",
+  "retrievedAt": "2026-09-28",
+  "rights": "Official LG.com US product gallery image (media.us.lg.com); LG has not granted a reuse license — rights not verified.",
+  "sourcePx": 1036
  },
  {
   "productId": "TK-LG-86MRGB95",
@@ -7084,6 +7154,20 @@
   "sourcePx": 945
  },
  {
+  "productId": "TK-RAZER-COBRAPRO",
+  "slug": "razer-cobra-pro",
+  "productName": "Razer Cobra Pro",
+  "brand": "Razer",
+  "sourcePage": "https://www.razer.com/gaming-mice/razer-cobra-pro",
+  "assetUrl": "https://assets2.razerzone.com/images/pnx.assets/608eb80ec16513e41c1a62caf1fb9b55/razer-cobra-pro-hero.webp",
+  "localAsset": "frontend/public/images/catalog/razer-cobra-pro-800.webp",
+  "sourceType": "manufacturer-product-page",
+  "match": "EXACT",
+  "retrievedAt": "2026-09-28",
+  "rights": "Official Razer product image from razer.com (assets2.razerzone.com); Razer has not granted a reuse license — rights not verified.",
+  "sourcePx": 487
+ },
+ {
   "productId": "TK-RING-BATTDOORBELL4KPRO",
   "slug": "ring-battery-doorbell-4k-pro",
   "productName": "Ring Battery Doorbell 4K Pro",
@@ -7336,6 +7420,34 @@
   "sourcePx": 1198
  },
  {
+  "productId": "TK-SAMSUNG-GALAXY-BOOK6",
+  "slug": "samsung-galaxy-book6",
+  "productName": "Samsung Galaxy Book6",
+  "brand": "Samsung",
+  "sourcePage": "https://www.samsungmobilepress.com/media-assets/galaxy-book6",
+  "assetUrl": "https://api.samsungmobilepress.com/api/v1/file/698A15C62BB8B3EFE76287CDB1D0D23956465567E4456CA01B833DE819CF78CB1A8AE242DE2E8269CABADE05EBFC4E5B31495FC2714AA81C852AED4BD5142FAA80C1507E0B61B0DACA1FB8D4FDE5EC972AB86B8113A9F4133EADE483A26133FB47790F79EF04123AB887C5EEE27A546486F6E0667CD324784249D171BAA741F4",
+  "localAsset": "frontend/public/images/catalog/samsung-galaxy-book6-800.webp",
+  "sourceType": "manufacturer-media-library",
+  "match": "EXACT",
+  "retrievedAt": "2026-09-28",
+  "rights": "Samsung Mobile Press media-asset image (samsungmobilepress.com, public press asset); no general license verified.",
+  "sourcePx": 618
+ },
+ {
+  "productId": "TK-SAMSUNG-GALAXY-BOOK6-EDGE",
+  "slug": "samsung-galaxy-book6-edge",
+  "productName": "Samsung Galaxy Book6 Edge",
+  "brand": "Samsung",
+  "sourcePage": "https://news.samsung.com/fr/le-galaxy-book6-edge-est-desormais-disponible-un-pc-performant-et-booste-a-lia-dans-un-format-ultraportable",
+  "assetUrl": "https://img.global.news.samsung.com/fr/wp-content/uploads/2026/06/Book6-Edge_16_US_009_Top-L-Perspective_RGB-2-scaled.jpg",
+  "localAsset": "frontend/public/images/catalog/samsung-galaxy-book6-edge-800.webp",
+  "sourceType": "manufacturer-press",
+  "match": "EXACT",
+  "retrievedAt": "2026-09-28",
+  "rights": "Samsung Newsroom (France) press image; published for media use; no general license verified.",
+  "sourcePx": 1922
+ },
+ {
   "productId": "TK-SAMSUNG-GALAXY-BOOK6-PRO-14",
   "slug": "samsung-galaxy-book6-pro-14",
   "productName": "Samsung Galaxy Book6 Pro 14\"",
@@ -7362,6 +7474,20 @@
   "retrievedAt": "2026-09-28",
   "rights": "Samsung Newsroom press image; published for media use; no general license verified.",
   "sourcePx": 2446
+ },
+ {
+  "productId": "TK-SAMSUNG-GALAXY-BOOK6-ULTRA",
+  "slug": "samsung-galaxy-book6-ultra",
+  "productName": "Samsung Galaxy Book6 Ultra",
+  "brand": "Samsung",
+  "sourcePage": "https://www.samsungmobilepress.com/media-assets/galaxy-book6-ultra",
+  "assetUrl": "https://api.samsungmobilepress.com/api/v1/file/B9DD9CCC3F24B7A55F41A9B7271E7D4E1B83D3D0F631E280FB31C98546BBFB245ABAFC57301D304F79453E088CEFEF1B9D5A4E57C65F86B3EE73B8AFA068AAE70DB8BFF4963F6105D6E85E6BDBBAB8414229871B2DD954950D055DC15893B0CB44156927BBFE1761E0C5D1D6A7AA8C70B5D42813AB7339F3072253BCFEEB161C632B4C70152686A9E3586B0B092FE232",
+  "localAsset": "frontend/public/images/catalog/samsung-galaxy-book6-ultra-800.webp",
+  "sourceType": "manufacturer-media-library",
+  "match": "EXACT",
+  "retrievedAt": "2026-09-28",
+  "rights": "Samsung Mobile Press media-asset image (samsungmobilepress.com, public press asset); no general license verified.",
+  "sourcePx": 601
  },
  {
   "productId": "TK-SAMSUNG-GALAXY-BUDS3-FE",
@@ -9616,6 +9742,20 @@
   "retrievedAt": "2026-09-28",
   "rights": "Official UGREEN product image from the official UGREEN NAS US store (ai.ugreen.com / nas.ugreen.com); UGREEN has not granted a general reuse license — rights not verified.",
   "sourcePx": 1343
+ },
+ {
+  "productId": "TK-VALVE-STEAMDECK-OLED",
+  "slug": "valve-steam-deck-oled",
+  "productName": "Valve Steam Deck OLED",
+  "brand": "Valve",
+  "sourcePage": "https://www.steamdeck.com/en/press",
+  "assetUrl": "https://cdn.akamai.steamstatic.com/steamdeck/images/press/renderings/press_oled_front_english.png",
+  "localAsset": "frontend/public/images/catalog/valve-steam-deck-oled-800.webp",
+  "sourceType": "manufacturer-press",
+  "match": "EXACT",
+  "retrievedAt": "2026-09-28",
+  "rights": "Official Valve Steam Deck press kit rendering (steamdeck.com/en/press); provided for press use, reuse license not verified.",
+  "sourcePx": 2307
  },
  {
   "productId": "TK-WD-PURPLEPRO-26TB",

@@ -695,6 +695,18 @@
   "licenseUrl": "https://www.apple.com/shop/product/mfhp4ll/a",
   "filePage": "https://www.apple.com/shop/product/mfhp4ll/a"
  },
+ "apple-airtag-2nd-generation": {
+  "large": "/images/catalog/apple-airtag-2nd-generation-800.webp",
+  "small": "/images/catalog/apple-airtag-2nd-generation-400.webp",
+  "width": 800,
+  "height": 800,
+  "alt": "Apple AirTag (2nd generation), angled view of the stainless steel back with the Apple logo",
+  "match": "EXACT",
+  "author": "Apple",
+  "license": "Manufacturer product image",
+  "licenseUrl": "https://www.apple.com/shop/buy-airtag/airtag",
+  "filePage": "https://www.apple.com/shop/buy-airtag/airtag"
+ },
  "apple-earpods-usb-c": {
   "large": "/images/catalog/apple-earpods-usb-c-800.webp",
   "small": "/images/catalog/apple-earpods-usb-c-400.webp",
@@ -785,6 +797,18 @@
   "width": 800,
   "height": 800,
   "alt": "Apple iPad Pro 11-inch in Space Black, front and rear view",
+  "match": "PRODUCT_LINE",
+  "author": "Apple",
+  "license": "Manufacturer product image",
+  "licenseUrl": "https://www.apple.com/shop/buy-ipad/ipad-pro",
+  "filePage": "https://www.apple.com/shop/buy-ipad/ipad-pro"
+ },
+ "apple-ipad-pro-13-m5": {
+  "large": "/images/catalog/apple-ipad-pro-13-m5-800.webp",
+  "small": "/images/catalog/apple-ipad-pro-13-m5-400.webp",
+  "width": 800,
+  "height": 800,
+  "alt": "Apple iPad Pro 13-inch in Space Black, front and back views",
   "match": "PRODUCT_LINE",
   "author": "Apple",
   "license": "Manufacturer product image",
@@ -3659,6 +3683,18 @@
   "licenseUrl": "https://store.google.com/us/config/nest_doorbell_wired_3rd_gen",
   "filePage": "https://store.google.com/us/config/nest_doorbell_wired_3rd_gen"
  },
+ "google-nest-hub-2nd-gen": {
+  "large": "/images/catalog/google-nest-hub-2nd-gen-800.webp",
+  "small": "/images/catalog/google-nest-hub-2nd-gen-400.webp",
+  "width": 800,
+  "height": 800,
+  "alt": "Google Nest Hub (2nd gen) in Chalk, rear view showing the fabric-covered speaker base and power cable",
+  "match": "EXACT",
+  "author": "Google",
+  "license": "Manufacturer product image",
+  "licenseUrl": "https://store.google.com/us/config/nest_hub_2nd_gen",
+  "filePage": "https://store.google.com/us/config/nest_hub_2nd_gen"
+ },
  "google-nest-learning-thermostat-4th-gen": {
   "large": "/images/catalog/google-nest-learning-thermostat-4th-gen-800.webp",
   "small": "/images/catalog/google-nest-learning-thermostat-4th-gen-400.webp",
@@ -4630,6 +4666,30 @@
   "license": "Manufacturer product image",
   "licenseUrl": "https://www.lg.com/us/monitors/lg-34gx90sb-w-gaming-monitor",
   "filePage": "https://www.lg.com/us/monitors/lg-34gx90sb-w-gaming-monitor"
+ },
+ "lg-ultragear-oled-evo-39gx950b": {
+  "large": "/images/catalog/lg-ultragear-oled-evo-39gx950b-800.webp",
+  "small": "/images/catalog/lg-ultragear-oled-evo-39gx950b-400.webp",
+  "width": 800,
+  "height": 800,
+  "alt": "LG UltraGear OLED evo 39GX950B 39-inch curved monitor, front view on its stand",
+  "match": "EXACT",
+  "author": "LG Electronics",
+  "license": "Manufacturer product image",
+  "licenseUrl": "https://www.lg.com/us/monitors/lg-39gx950b-b-gaming-monitor",
+  "filePage": "https://www.lg.com/us/monitors/lg-39gx950b-b-gaming-monitor"
+ },
+ "lg-ultragear-oled-evo-45gx950b": {
+  "large": "/images/catalog/lg-ultragear-oled-evo-45gx950b-800.webp",
+  "small": "/images/catalog/lg-ultragear-oled-evo-45gx950b-400.webp",
+  "width": 800,
+  "height": 800,
+  "alt": "LG UltraGear OLED evo 45GX950B 45-inch curved monitor, angled front view on its stand",
+  "match": "EXACT",
+  "author": "LG Electronics",
+  "license": "Manufacturer product image",
+  "licenseUrl": "https://www.lg.com/us/monitors/lg-45gx950b-b-gaming-monitor",
+  "filePage": "https://www.lg.com/us/monitors/lg-45gx950b-b-gaming-monitor"
  },
  "lg-xboom-stage-501": {
   "large": "/images/catalog/lg-xboom-stage-501-800.webp",
@@ -6071,6 +6131,18 @@
   "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
   "filePage": "https://commons.wikimedia.org/wiki/File:23551-raspberry-pi-5.jpg"
  },
+ "razer-cobra-pro": {
+  "large": "/images/catalog/razer-cobra-pro-800.webp",
+  "small": "/images/catalog/razer-cobra-pro-400.webp",
+  "width": 800,
+  "height": 800,
+  "alt": "Razer Cobra Pro wireless gaming mouse in black, top-down view with Chroma RGB underglow",
+  "match": "EXACT",
+  "author": "Razer Inc.",
+  "license": "Manufacturer product image",
+  "licenseUrl": "https://www.razer.com/gaming-mice/razer-cobra-pro",
+  "filePage": "https://www.razer.com/gaming-mice/razer-cobra-pro"
+ },
  "ring-battery-doorbell-4k-pro": {
   "large": "/images/catalog/ring-battery-doorbell-4k-pro-800.webp",
   "small": "/images/catalog/ring-battery-doorbell-4k-pro-400.webp",
@@ -6275,6 +6347,30 @@
   "licenseUrl": "https://www.samsung.com/us/smartphones/galaxy-a57-5g/buy/",
   "filePage": "https://www.samsung.com/us/smartphones/galaxy-a57-5g/buy/"
  },
+ "samsung-galaxy-book6": {
+  "large": "/images/catalog/samsung-galaxy-book6-800.webp",
+  "small": "/images/catalog/samsung-galaxy-book6-400.webp",
+  "width": 800,
+  "height": 800,
+  "alt": "Samsung Galaxy Book6 14-inch in Gray, open front view",
+  "match": "EXACT",
+  "author": "Samsung",
+  "license": "Manufacturer product image (media library)",
+  "licenseUrl": "https://www.samsungmobilepress.com/media-assets/galaxy-book6",
+  "filePage": "https://www.samsungmobilepress.com/media-assets/galaxy-book6"
+ },
+ "samsung-galaxy-book6-edge": {
+  "large": "/images/catalog/samsung-galaxy-book6-edge-800.webp",
+  "small": "/images/catalog/samsung-galaxy-book6-edge-400.webp",
+  "width": 800,
+  "height": 800,
+  "alt": "Samsung Galaxy Book6 Edge 16-inch in Gray Blue, open three-quarter view showing keyboard and AMOLED display",
+  "match": "EXACT",
+  "author": "Samsung",
+  "license": "Manufacturer product image (press kit)",
+  "licenseUrl": "https://news.samsung.com/fr/le-galaxy-book6-edge-est-desormais-disponible-un-pc-performant-et-booste-a-lia-dans-un-format-ultraportable",
+  "filePage": "https://news.samsung.com/fr/le-galaxy-book6-edge-est-desormais-disponible-un-pc-performant-et-booste-a-lia-dans-un-format-ultraportable"
+ },
  "samsung-galaxy-book6-pro-14": {
   "large": "/images/catalog/samsung-galaxy-book6-pro-14-800.webp",
   "small": "/images/catalog/samsung-galaxy-book6-pro-14-400.webp",
@@ -6298,6 +6394,18 @@
   "license": "Manufacturer product image (press kit)",
   "licenseUrl": "https://news.samsung.com/global/engineered-for-perfection-galaxy-book6-delivers-advanced-performance-and-al-powered-productivity-in-a-sleek-new-design",
   "filePage": "https://news.samsung.com/global/engineered-for-perfection-galaxy-book6-delivers-advanced-performance-and-al-powered-productivity-in-a-sleek-new-design"
+ },
+ "samsung-galaxy-book6-ultra": {
+  "large": "/images/catalog/samsung-galaxy-book6-ultra-800.webp",
+  "small": "/images/catalog/samsung-galaxy-book6-ultra-400.webp",
+  "width": 800,
+  "height": 800,
+  "alt": "Samsung Galaxy Book6 Ultra 16-inch in Gray, open three-quarter view showing keyboard and AMOLED display",
+  "match": "EXACT",
+  "author": "Samsung",
+  "license": "Manufacturer product image (media library)",
+  "licenseUrl": "https://www.samsungmobilepress.com/media-assets/galaxy-book6-ultra",
+  "filePage": "https://www.samsungmobilepress.com/media-assets/galaxy-book6-ultra"
  },
  "samsung-galaxy-buds3-fe": {
   "large": "/images/catalog/samsung-galaxy-buds3-fe-800.webp",
@@ -8242,6 +8350,18 @@
   "license": "Manufacturer product image",
   "licenseUrl": "https://www.uaudio.com/products/volt-276-usb-audio-interface",
   "filePage": "https://www.uaudio.com/products/volt-276-usb-audio-interface"
+ },
+ "valve-steam-deck-oled": {
+  "large": "/images/catalog/valve-steam-deck-oled-800.webp",
+  "small": "/images/catalog/valve-steam-deck-oled-400.webp",
+  "width": 800,
+  "height": 800,
+  "alt": "Valve Steam Deck OLED, front view with the Steam library on screen",
+  "match": "EXACT",
+  "author": "Valve",
+  "license": "Manufacturer product image (press kit)",
+  "licenseUrl": "https://www.steamdeck.com/en/press",
+  "filePage": "https://www.steamdeck.com/en/press"
  },
  "wd-purple-pro-26tb-surveillance-hdd": {
   "large": "/images/catalog/wd-purple-pro-26tb-surveillance-hdd-800.webp",

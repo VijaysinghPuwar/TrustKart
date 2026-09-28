@@ -37,7 +37,23 @@
     "wireless": "Intel Wi-Fi 7 BE213 2x2 + Bluetooth 6.0",
     "configurations": "Build your own (starting configuration) – $699.99 · Intel Core 5 320 / 8 GB / 512 GB (featured) – $799.99",
     "colors": "Sky"
-   }
+   },
+   "options": [
+    {
+     "name": "Configuration",
+     "values": [
+      {
+       "label": "Build your own (starting configuration)",
+       "price": "699.99"
+      },
+      {
+       "label": "Intel Core 5 320 / 8 GB / 512 GB (featured)",
+       "price": "799.99",
+       "default": true
+      }
+     ]
+    }
+   ]
   },
   {
    "sku": "TK-DELL-XPS14-DA14260",
@@ -72,12 +88,28 @@
     "display": "14.0\" 2K (1920x1200) non-touch, 1-120Hz, 500 nits (2.8K OLED optional)",
     "batteryWh": 70,
     "weightKg": 1.38,
-    "os": "Windows 11 Home (Copilot+ PC)",
+    "os": "Windows 11 Home",
     "ports": "3x Thunderbolt 4 (USB-C) with DisplayPort 2.1 and Power Delivery",
     "wireless": "Intel Wi-Fi 7 BE211 2x2 + Bluetooth 6.0",
     "configurations": "Build your own (starting configuration) – $2,249.99 · Core Ultra X7 358H / 32 GB / 1 TB (featured) – $2,999.99",
     "colors": "Graphite"
-   }
+   },
+   "options": [
+    {
+     "name": "Configuration",
+     "values": [
+      {
+       "label": "Build your own (starting configuration)",
+       "price": "2249.99"
+      },
+      {
+       "label": "Core Ultra X7 358H / 32 GB / 1 TB (featured)",
+       "price": "2999.99",
+       "default": true
+      }
+     ]
+    }
+   ]
   },
   {
    "sku": "TK-DELL-XPS16-DA16260",
@@ -111,12 +143,28 @@
     "display": "16.0\" 2K non-touch, 1-120Hz, 500 nits (3.2K OLED optional)",
     "batteryWh": 70,
     "weightKg": 1.74,
-    "os": "Windows 11 Home (Copilot+ PC)",
+    "os": "Windows 11 Home",
     "ports": "3x Thunderbolt 4 (USB-C) with DisplayPort 2.1 and Power Delivery",
     "wireless": "Intel Wi-Fi 7 BE211 2x2 + Bluetooth 6.0",
     "configurations": "Build your own (starting configuration) – $2,399.99 · Core Ultra 7 355 / 16 GB / 1 TB (featured) – $2,649.99",
     "colors": "Graphite"
-   }
+   },
+   "options": [
+    {
+     "name": "Configuration",
+     "values": [
+      {
+       "label": "Build your own (starting configuration)",
+       "price": "2399.99"
+      },
+      {
+       "label": "Core Ultra 7 355 / 16 GB / 1 TB (featured)",
+       "price": "2649.99",
+       "default": true
+      }
+     ]
+    }
+   ]
   },
   {
    "sku": "TK-DELL-14PLUS-DB14250",
@@ -148,12 +196,13 @@
     "display": "14\" QHD+ (2560x1600) anti-glare, 120Hz, 300 nits",
     "batteryWh": 64,
     "weightKg": 1.55,
-    "os": "Windows 11 Home (Copilot+ PC)",
+    "os": "Windows 11 Home",
     "npuTops": 40,
     "ports": "1x Thunderbolt 4 (DP 2.1, PD), 1x USB-C 10Gbps (DP 1.4, PD), 1x USB-A 5Gbps, HDMI 2.1, audio jack",
     "wireless": "Intel Wi-Fi 7 BE201 2x2 + Bluetooth 5.4",
     "colors": "Ice Blue"
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-DELL-16PLUS-DB16250",
@@ -185,12 +234,13 @@
     "display": "16\" QHD+ anti-glare, 60Hz, 300 nits",
     "batteryWh": 64,
     "weightKg": 1.87,
-    "os": "Windows 11 Home (Copilot+ PC)",
+    "os": "Windows 11 Home",
     "npuTops": 47,
     "ports": "1x Thunderbolt 4 (DP 2.1, PD), 1x USB-C 10Gbps (DP 1.4, PD), 1x USB-A 5Gbps, HDMI 2.1, audio jack",
     "wireless": "Intel Wi-Fi 7 BE201",
     "colors": "Ice Blue"
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-DELL-PRO14PREMIUM-PA14260",
@@ -223,12 +273,28 @@
     "display": "14\" WUXGA (1920x1200) non-touch, 400 nits, anti-glare",
     "batteryWh": 60,
     "weightKg": 1.31,
-    "os": "Windows 11 Pro (Copilot+ PC)",
+    "os": "Windows 11 Pro",
     "npuTops": 49,
     "ports": "2x Thunderbolt 4 (40Gbps, USB4, PD, DP Alt Mode), 1x USB-A 5Gbps, HDMI 2.1, headset jack",
     "wireless": "Intel Wi-Fi 7 BE211 2x2 + Bluetooth 6.0",
     "configurations": "Build your own (starting configuration) – $2,736 · Core Ultra 7 365 vPro / 32 GB / 512 GB (featured) – $3,671"
-   }
+   },
+   "options": [
+    {
+     "name": "Configuration",
+     "values": [
+      {
+       "label": "Build your own (starting configuration)",
+       "price": "2736.00"
+      },
+      {
+       "label": "Core Ultra 7 365 vPro / 32 GB / 512 GB (featured)",
+       "price": "3671.00",
+       "default": true
+      }
+     ]
+    }
+   ]
   },
   {
    "sku": "TK-DELL-PRO7-14-P714260",
@@ -261,12 +327,28 @@
     "display": "14\" WUXGA (1920x1200) non-touch, 400 nits, 62.5% sRGB, anti-glare, low power",
     "batteryWh": 55.8,
     "weightKg": 1.27,
-    "os": "Windows 11 Pro (Copilot+ PC)",
+    "os": "Windows 11 Pro",
     "npuTops": 47,
     "ports": "2x Thunderbolt 4/USB4 (40Gbps), 1x USB-C 20Gbps or USB-A, 1x USB-A 5Gbps, HDMI 2.1, headset jack",
     "wireless": "Intel Wi-Fi 7 BE211 + Bluetooth 6.0",
     "configurations": "Build your own (starting configuration) – $2,184 · Core Ultra 5 335 vPro / 32 GB / 512 GB (featured) – $2,866"
-   }
+   },
+   "options": [
+    {
+     "name": "Configuration",
+     "values": [
+      {
+       "label": "Build your own (starting configuration)",
+       "price": "2184.00"
+      },
+      {
+       "label": "Core Ultra 5 335 vPro / 32 GB / 512 GB (featured)",
+       "price": "2866.00",
+       "default": true
+      }
+     ]
+    }
+   ]
   },
   {
    "sku": "TK-DELL-PRO14PLUS-PB14250",
@@ -300,11 +382,12 @@
     "display": "14\" FHD+ (1920x1200) IPS anti-glare, 60Hz, 300 nits",
     "batteryWh": 55,
     "weightKg": 1.4,
-    "os": "Windows 11 Pro (Copilot+ PC)",
+    "os": "Windows 11 Pro",
     "npuTops": 40,
     "ports": "2x Thunderbolt 4 (40Gbps), 2x USB-A 5Gbps, HDMI 2.1, RJ45 1GbE, audio jack",
     "wireless": "Intel Wi-Fi 7 BE201 2x2 + Bluetooth 5.4"
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-DELL-PROMAX16PLUS-MB16250",
@@ -342,7 +425,8 @@
     "os": "Windows 11 Pro",
     "ports": "2x Thunderbolt 5 (80Gbps), 1x Thunderbolt 4, 2x USB-A 5Gbps, HDMI 2.1, RJ45 2.5GbE, SD slot, headset jack",
     "wireless": "Intel Wi-Fi 7 BE200"
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-DELL-PROMAX18PLUS-MB18250",
@@ -379,7 +463,8 @@
     "os": "Windows 11 Pro",
     "ports": "2x Thunderbolt 5 (80Gbps), 1x Thunderbolt 4, 2x USB-A 5Gbps, HDMI 2.1, RJ45 2.5GbE, SD slot, audio jack",
     "wireless": "Intel Wi-Fi 7 BE200"
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-DELL-PRECISION7-16-PW716260",
@@ -413,11 +498,12 @@
     "display": "16\" WUXGA (1920x1200) anti-glare, VRR 120Hz, 500 nits, 100% DCI-P3",
     "batteryWh": 96,
     "weightKg": 2.17,
-    "os": "Windows 11 Pro (Copilot+ PC)",
+    "os": "Windows 11 Pro",
     "npuTops": 50,
     "ports": "2x Thunderbolt 5 (80/120Gbps), 1x Thunderbolt 4, HDMI 2.1, SD slot, headset jack",
     "wireless": "Intel Wi-Fi 7 BE211"
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-DELL-PRECISION5-14S-PW514260",
@@ -450,11 +536,12 @@
     "display": "14\" WUXGA (1920x1200) non-touch, 400 nits",
     "batteryWh": 57,
     "weightKg": 1.42,
-    "os": "Windows 11 Pro (Copilot+ PC)",
+    "os": "Windows 11 Pro",
     "npuTops": 47,
     "ports": "2x Thunderbolt 4 (PD, DP 1.4), 2x USB-A 5Gbps, HDMI 2.1, RJ45 1GbE, audio jack",
     "wireless": "Intel Wi-Fi 7 BE211 + Bluetooth 6.0"
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-DELL-PROMAX14PREM-MA14250",
@@ -492,7 +579,8 @@
     "os": "Windows 11 Pro",
     "ports": "2x Thunderbolt 5 (80/120Gbps), 2x Thunderbolt 4 (40Gbps), microSD, headset jack",
     "wireless": "Intel Wi-Fi 7 BE201"
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-ALIENWARE-18AREA51-AA18250",
@@ -529,7 +617,8 @@
     "os": "Windows 11 Home",
     "wireless": "Intel Killer Wi-Fi 7 BE1750 2x2 + Bluetooth 5.4",
     "colors": "Liquid Teal"
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-ALIENWARE-16AREA51-AA16250",
@@ -566,7 +655,8 @@
     "ports": "2x Thunderbolt 4 (Thunderbolt 5 with RTX 5070 Ti and above), 3x USB-A 5Gbps, HDMI 2.1, SD slot, headset jack",
     "wireless": "Intel Killer Wi-Fi 7 BE1750 2x2 + Bluetooth 5.4",
     "colors": "Liquid Teal"
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-ALIENWARE-16XAURORA-AC16251",
@@ -603,7 +693,8 @@
     "os": "Windows 11 Home",
     "ports": "1x Thunderbolt 4 (DP 2.1), 1x USB-C 10Gbps (PD), 2x USB-A 5Gbps, HDMI 2.1, RJ45 1GbE, audio jack",
     "wireless": "MediaTek Wi-Fi 7 MT7925 2x2 + Bluetooth"
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-ALIENWARE-AREA51-AAT2265",
@@ -639,7 +730,8 @@
     "networking": "2.5GbE RJ45, MediaTek Wi-Fi 7 MT7925 + Bluetooth",
     "ports": "Top: 2x USB-A 5Gbps, 2x USB-C 10Gbps, audio; Rear: 2x USB4 40Gbps (DP Alt, PD), 2x USB-C 10Gbps, USB-A, 5x USB 2.0, S/PDIF",
     "configurations": "AMD Ryzen 9 9950X3D2 / RTX 5080 / 32 GB / 1 TB (featured) – $5,699.99"
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-ALIENWARE-AURORA-ACT1250",
@@ -672,7 +764,8 @@
     "os": "Windows 11 Home",
     "networking": "RJ45 Ethernet, Intel Wi-Fi 7 BE200",
     "ports": "Front: USB-C 10Gbps, 3x USB-A 5Gbps, headset; Rear: USB4 20Gbps (PD), USB-C 10Gbps, 2x USB-A 5Gbps, 2x USB 2.0, S/PDIF"
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-DELL-PRECISION9-T6-PW9T6260",
@@ -707,7 +800,8 @@
     "os": "Windows 11 Pro for Workstations",
     "networking": "10GbE RJ45 + 1GbE RJ45",
     "ports": "Front: USB-C 20Gbps, USB-C 10Gbps, 2x USB-A 10Gbps; Rear: USB-C 20Gbps, 2x USB-C 10Gbps, 4x USB-A 10Gbps, serial, PS/2"
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-DELL-PRECISION9-T4-PW9T4260",
@@ -740,7 +834,8 @@
     "os": "Windows 11 Pro for Workstations",
     "networking": "10GbE RJ45 + 1GbE RJ45",
     "ports": "Front: USB-C 20Gbps, USB-C 10Gbps, 2x USB-A 10Gbps; Rear: USB-C 20Gbps, 2x USB-C 10Gbps, 4x USB-A 10Gbps, serial, PS/2"
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-DELL-PRECISION7-T1-PW7T1260",
@@ -771,7 +866,8 @@
     "os": "Windows 11 Pro",
     "networking": "RJ45 1GbE (optional 5GbE module)",
     "ports": "Front: USB-C 20Gbps, USB-A 10Gbps, 2x USB 2.0; Rear: 3x DisplayPort 1.4a, USB-C 10Gbps, 3x USB-A 5Gbps, 2x USB 2.0"
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-DELL-PROMAX-GB10-FCM1253",
@@ -805,7 +901,8 @@
     "aiPerformance": "Up to 1000 TFLOPs FP4; models up to 200B parameters",
     "storage": "4 TB M.2 2242 PCIe Gen4 NVMe SED",
     "network": "ConnectX-7 SmartNIC (2x 200G QSFP), 10GbE RJ45, Wi-Fi 7, Bluetooth 5.4"
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-DELL-PROMAX-GB300-FCT6263",
@@ -839,7 +936,8 @@
     "aiPerformance": "Up to 20,000 TFLOPs FP4; models up to 1 trillion parameters",
     "storage": "16 TB (4x 4 TB M.2 PCIe Gen4 NVMe SED)",
     "network": "ConnectX-8 SuperNIC (2x QSFP112 400Gbps), 10GbE + 1GbE RJ45"
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-DELL-PROMICROPLUS-QBM1250",
@@ -871,7 +969,8 @@
     "os": "Windows 11 Pro",
     "networking": "RJ45 1GbE, MediaTek Wi-Fi 6 MT7920 + Bluetooth",
     "ports": "Front: USB-C 20Gbps, 2x USB-A 10Gbps, headset; Rear: USB-C 10Gbps, 2x USB-A 10Gbps, 2x USB-A 5Gbps, 3x DisplayPort 1.4a, optional module"
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-DELL-PRO5MICRO-P5M1260",
@@ -899,10 +998,11 @@
     "cpu": "Intel Core Ultra 5 335 (8 cores, up to 4.6 GHz)",
     "cpuBrand": "Intel",
     "ramGb": 16,
-    "os": "Windows 11 Pro (Copilot+ PC)",
+    "os": "Windows 11 Pro",
     "networking": "RJ45 1GbE, Intel BE211 Wi-Fi 7 + Bluetooth",
     "ports": "Front: USB-C 10Gbps, USB-A 5Gbps, headset; Rear: HDMI 2.1, DisplayPort 1.4a, USB-C (100W input), 2x USB-A 5Gbps, 2x USB 2.0, optional module"
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-DELL-27AIO-EC27260",
@@ -930,11 +1030,12 @@
     "gpu": "Intel Graphics",
     "ramGb": 16,
     "storageTb": 0.512,
-    "os": "Windows 11 Home (Copilot+ PC)",
+    "os": "Windows 11 Home",
     "networking": "RJ45 Ethernet, Intel Wi-Fi 7 BE213 + Bluetooth 6.0",
     "ports": "HDMI-in 1.4, HDMI-out 2.1, USB-C 10Gbps, 2x USB-A 10Gbps, USB 2.0, headset",
     "displayIn": 27
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-DELL-PRO24AIO-QC24250",
@@ -967,7 +1068,8 @@
     "networking": "RJ45 1GbE, Intel AX211 wireless",
     "ports": "USB-C 20Gbps, USB-C 10Gbps, 4x USB-A 10Gbps, 2x USB-A 5Gbps, DisplayPort++ 1.4a, HDMI-out 2.1, HDMI-in 1.4, SD",
     "displayIn": 23.8
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-ALIENWARE-AW3926QW",
@@ -995,14 +1097,16 @@
    "keywords": "alienware 39 5k2k oled ultrawide gaming monitor dual resolution 330hz",
    "specs": {
     "sizeIn": 38.9,
-    "resolution": "5120 x 2160 (5K2K); 2560 x 1080 at 330Hz dual-resolution mode",
+    "resolution": "5120x2160",
     "refreshHz": 165,
-    "panel": "RGB-stripe tandem OLED, 1500R curved",
+    "panel": "OLED",
     "hdr": "VESA DisplayHDR True Black 500, Dolby Vision, 1300 nits peak",
     "colorGamut": "99% DCI-P3",
     "inputs": "2x HDMI 2.1 (FRL), 1x DisplayPort 2.1, 1x USB-C (DP 2.1 Alt Mode, 90W PD), USB hub",
-    "usbCPowerW": 90
-   }
+    "usbCPowerW": 90,
+    "panelDetails": "RGB-stripe tandem OLED, 1500R curved"
+   },
+   "options": []
   },
   {
    "sku": "TK-ALIENWARE-AW3426DW",
@@ -1029,13 +1133,15 @@
    "keywords": "alienware 34 qd-oled ultrawide 280hz gaming monitor aw3426dw",
    "specs": {
     "sizeIn": 34,
-    "resolution": "3440 x 1440 (UWQHD)",
+    "resolution": "3440x1440",
     "refreshHz": 280,
-    "panel": "QD-OLED, 1800R curvature",
+    "panel": "QD-OLED",
     "hdr": "Dolby Vision, 1300 nits peak",
     "colorGamut": "99% DCI-P3",
-    "inputs": "2x HDMI 2.1 (FRL), 1x DisplayPort 1.4, USB 5Gbps hub with USB-C (15W)"
-   }
+    "inputs": "2x HDMI 2.1 (FRL), 1x DisplayPort 1.4, USB 5Gbps hub with USB-C (15W)",
+    "panelDetails": "QD-OLED, 1800R curvature"
+   },
+   "options": []
   },
   {
    "sku": "TK-ALIENWARE-AW2726DM",
@@ -1062,13 +1168,14 @@
    "keywords": "alienware 27 qd-oled 240hz qhd gaming monitor budget aw2726dm",
    "specs": {
     "sizeIn": 26.5,
-    "resolution": "2560 x 1440 (QHD)",
+    "resolution": "2560x1440",
     "refreshHz": 240,
     "panel": "QD-OLED",
     "hdr": "400 nits peak",
     "colorGamut": "99% DCI-P3",
     "inputs": "2x HDMI 2.1 (TMDS, up to 120Hz), 1x DisplayPort 1.4 (up to 240Hz)"
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-ALIENWARE-AW2725Q",
@@ -1095,14 +1202,15 @@
    "keywords": "alienware 27 4k qd-oled 240hz gaming monitor aw2725q dolby vision",
    "specs": {
     "sizeIn": 26.7,
-    "resolution": "3840 x 2160 (4K UHD)",
+    "resolution": "3840x2160",
     "refreshHz": 240,
     "panel": "QD-OLED",
     "hdr": "Dolby Vision, 1000 nits peak",
     "colorGamut": "99% DCI-P3",
     "inputs": "1x DisplayPort 1.4, 2x HDMI 2.1 (FRL, one eARC), USB 5Gbps hub (3x USB-A, 1x USB-C)",
     "colors": "Dark Blue"
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-DELL-U5226KW",
@@ -1129,15 +1237,32 @@
    "keywords": "dell ultrasharp 52 6k ultrawide thunderbolt hub monitor ips black u5226kw",
    "specs": {
     "sizeIn": 51.5,
-    "resolution": "6144 x 2560 (6K)",
+    "resolution": "6144x2560",
     "refreshHz": 120,
-    "panel": "IPS Black, 4200R curved",
+    "panel": "IPS Black",
     "colorGamut": "99% DCI-P3, 100% sRGB, 100% BT.709",
     "inputs": "Thunderbolt 4 upstream (140W EPR), 3x USB-C upstream, 2x HDMI 2.1, 2x DisplayPort 1.4, RJ45 2.5GbE, USB-A 10Gbps hub",
     "usbCPowerW": 140,
+    "panelDetails": "IPS Black, 4200R curved",
     "configurations": "With stand – $2,999.99 · Without stand (U5226KW WOST) – $2,799.99",
     "colors": "Platinum Silver"
-   }
+   },
+   "options": [
+    {
+     "name": "Configuration",
+     "values": [
+      {
+       "label": "With stand",
+       "price": "2999.99",
+       "default": true
+      },
+      {
+       "label": "Without stand (U5226KW WOST)",
+       "price": "2799.99"
+      }
+     ]
+    }
+   ]
   },
   {
    "sku": "TK-DELL-U3226Q",
@@ -1164,7 +1289,7 @@
    "keywords": "dell ultrasharp 32 qd-oled 4k professional monitor thunderbolt u3226q",
    "specs": {
     "sizeIn": 31.5,
-    "resolution": "3840 x 2160 (4K UHD)",
+    "resolution": "3840x2160",
     "refreshHz": 120,
     "panel": "QD-OLED",
     "hdr": "Dolby Vision, 1000 nits peak",
@@ -1172,7 +1297,8 @@
     "inputs": "Thunderbolt 4 upstream (140W EPR) + Thunderbolt 4 downstream, USB-C upstream, 2x HDMI 2.1, 1x DisplayPort 1.4, RJ45",
     "usbCPowerW": 140,
     "colors": "Dark Gray"
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-DELL-U4025QW",
@@ -1198,14 +1324,16 @@
    "keywords": "dell ultrasharp 40 5k2k curved thunderbolt ultrawide u4025qw",
    "specs": {
     "sizeIn": 39.7,
-    "resolution": "5120 x 2160 (5K2K WUHD)",
+    "resolution": "5120x2160",
     "refreshHz": 120,
-    "panel": "IPS Black, 2500R curved",
+    "panel": "IPS Black",
     "hdr": "VESA DisplayHDR 600",
     "colorGamut": "99% DCI-P3, 100% sRGB, 100% BT.709",
     "inputs": "Thunderbolt 4 upstream (140W EPR) + downstream, HDMI 2.1, DisplayPort 1.4, RJ45, USB hub",
-    "usbCPowerW": 140
-   }
+    "usbCPowerW": 140,
+    "panelDetails": "IPS Black, 2500R curved"
+   },
+   "options": []
   },
   {
    "sku": "TK-DELL-U2725QE",
@@ -1232,7 +1360,7 @@
    "keywords": "dell ultrasharp 27 4k ips black thunderbolt hub monitor u2725qe",
    "specs": {
     "sizeIn": 27,
-    "resolution": "3840 x 2160 (4K UHD)",
+    "resolution": "3840x2160",
     "refreshHz": 120,
     "panel": "IPS Black",
     "hdr": "600 nits peak",
@@ -1240,7 +1368,8 @@
     "inputs": "Thunderbolt 4 upstream (140W EPR) + downstream, HDMI 2.1, DisplayPort 1.4 in, DisplayPort out, USB-C upstream, RJ45",
     "usbCPowerW": 140,
     "colors": "Silver"
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-DELL-P2726HE",
@@ -1266,14 +1395,15 @@
    "keywords": "dell pro p27 usb-c hub office monitor p2726he 120hz",
    "specs": {
     "sizeIn": 27,
-    "resolution": "1920 x 1080 (FHD)",
+    "resolution": "1920x1080",
     "refreshHz": 120,
     "panel": "IPS",
     "colorGamut": "99% sRGB, 99% BT.709",
     "inputs": "USB-C upstream (DP Alt Mode, 100W PD), HDMI, DisplayPort 1.4 in + out, RJ45 1GbE, 2x USB-C + 2x USB-A downstream",
     "usbCPowerW": 100,
     "colors": "Dark Gray"
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-DELL-P3426WEB",
@@ -1299,14 +1429,16 @@
    "keywords": "dell pro p34 conferencing monitor webcam curved ultrawide usb-c p3426web",
    "specs": {
     "sizeIn": 34.1,
-    "resolution": "3440 x 1440 (WQHD)",
+    "resolution": "3440x1440",
     "refreshHz": 100,
-    "panel": "IPS, 3800R curved",
+    "panel": "IPS",
     "colorGamut": "99% sRGB",
     "inputs": "USB-C upstream (DP Alt Mode, 90W PD), HDMI, DisplayPort 1.4, USB-B upstream, RJ45 1GbE, USB hub; 4MP webcam",
     "usbCPowerW": 90,
+    "panelDetails": "IPS, 3800R curved",
     "colors": "Dark Gray"
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-DELL-SD25TB5",
@@ -1333,7 +1465,8 @@
    "specs": {
     "interface": "Thunderbolt 5 (host); 2x Thunderbolt 5, 2x DisplayPort 2.1, HDMI 2.1, 2x USB-C, 4x USB-A 10Gbps, 2.5GbE",
     "powerDeliveryW": 300
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-DELL-WD25TB5",
@@ -1358,7 +1491,8 @@
    "specs": {
     "interface": "Thunderbolt 5 (host); 2x Thunderbolt 5, 2x DisplayPort 2.1, HDMI 2.1, 2x USB-C, 4x USB-A 10Gbps, 2.5GbE",
     "powerDeliveryW": 300
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-DELL-POWEREDGE-R770",
@@ -1394,7 +1528,8 @@
     "raid": "PERC 12 H365i (front)",
     "network": "Broadcom 57414 dual-port 25GbE SFP28 OCP 3.0",
     "psu": "1100W hot-plug MHS (single as configured; redundant options)"
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-DELL-POWEREDGE-R670",
@@ -1429,7 +1564,8 @@
     "raid": "PERC 12 H365i (front)",
     "network": "Broadcom 57414 dual-port 25GbE SFP28 OCP 3.0",
     "psu": "1100W hot-plug MHS (single as configured)"
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-DELL-POWEREDGE-R470",
@@ -1465,7 +1601,8 @@
     "raid": "PERC H365i",
     "network": "Broadcom 57414 dual-port 25GbE SFP28 OCP 3.0",
     "psu": "800W hot-plug MHS (single as configured)"
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-DELL-POWEREDGE-R570",
@@ -1501,7 +1638,8 @@
     "raid": "PERC 12 H365i",
     "network": "Broadcom 57414 dual-port 25GbE SFP28 OCP 3.0",
     "psu": "800W hot-plug MHS (single as configured)"
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-DELL-POWEREDGE-R7725",
@@ -1537,7 +1675,8 @@
     "raid": "PERC 12 H365i (front)",
     "network": "Broadcom 57414 dual-port 25GbE SFP28 OCP 3.0",
     "psu": "2x 1500W Titanium hot-plug MHS"
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-DELL-POWEREDGE-T560",
@@ -1572,7 +1711,8 @@
     "raid": "HBA355i as configured (PERC H965i/H755/H355 options)",
     "network": "2x 1GbE LOM (OCP 3.0 optional)",
     "psu": "800W hot-plug (single as configured)"
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-DELL-POWEREDGE-T360",
@@ -1606,7 +1746,8 @@
     "raid": "Embedded SATA / software RAID as configured (PERC H355/H755 options)",
     "network": "2x 1GbE LOM",
     "psu": "Cabled power supply as configured (hot-swap 600W/700W options)"
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-DELL-POWEREDGE-XE9780",
@@ -1640,7 +1781,8 @@
     "memoryGb": 4096,
     "storage": "Up to 16x E3.S NVMe (122.88 TB) or 10x U.2 NVMe",
     "network": "8x NVIDIA ConnectX-8 OSFP (B300), 1x OCP 3.0"
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-DELL-POWEREDGE-XE9785",
@@ -1673,7 +1815,8 @@
     "memoryGb": 6144,
     "storage": "Up to 16x E3.S NVMe (245.76 TB) or 10x U.2 Gen5 NVMe",
     "network": "1x OCP 3.0; 8x ConnectX-8 OSFP with B300"
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-DELL-POWEREDGE-XE7745",
@@ -1705,7 +1848,8 @@
     "memoryGb": 3072,
     "storage": "Up to 8x E3.S Gen5 NVMe (122.88 TB)",
     "network": "OCP 3.0 plus 8 front-serviceable PCIe Gen5 slots for AI networking"
-   }
+   },
+   "options": []
   }
  ]
 }

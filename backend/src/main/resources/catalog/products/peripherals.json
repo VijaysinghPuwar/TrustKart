@@ -25,13 +25,27 @@
    "keywords": "75% knob gasket aluminum 8k polling silk pom hot-swap qmk tri-mode",
    "specs": {
     "connection": "2.4 GHz, Bluetooth, USB-C wired",
-    "layout": "75% ANSI with knob",
+    "layout": "75%",
     "switchType": "Keychron Silk POM (Red / Brown / Banana)",
     "mechanical": true,
     "hotSwappable": true,
     "macSupport": true,
     "colors": "Black, White"
-   }
+   },
+   "options": [
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Black",
+       "default": true
+      },
+      {
+       "label": "White"
+      }
+     ]
+    }
+   ]
   },
   {
    "sku": "TK-KEYCHRON-Q1-HE-8K",
@@ -57,13 +71,27 @@
    "keywords": "hall effect magnetic rapid trigger 75% knob 8k gaming wired aluminum",
    "specs": {
     "connection": "USB-C wired",
-    "layout": "75% ANSI with knob",
+    "layout": "75%",
     "switchType": "Keychron Ultra-fast Lime magnetic (Hall effect)",
     "mechanical": false,
     "hotSwappable": true,
     "macSupport": true,
     "colors": "Black, White"
-   }
+   },
+   "options": [
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Black",
+       "default": true
+      },
+      {
+       "label": "White"
+      }
+     ]
+    }
+   ]
   },
   {
    "sku": "TK-KEYCHRON-K3-ULTRA-8K",
@@ -90,13 +118,27 @@
    "keywords": "low profile slim 75% wood zmk 8k wireless milk pom hot-swap mac",
    "specs": {
     "connection": "2.4 GHz, Bluetooth, USB-C wired",
-    "layout": "75% (ANSI; ISO versions listed)",
+    "layout": "75%",
     "switchType": "Keychron Milk POM low-profile (Red / Brown / Banana)",
     "mechanical": true,
     "hotSwappable": true,
     "macSupport": true,
     "colors": "Black, White"
-   }
+   },
+   "options": [
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Black",
+       "default": true
+      },
+      {
+       "label": "White"
+      }
+     ]
+    }
+   ]
   },
   {
    "sku": "TK-KEYCHRON-G3",
@@ -126,7 +168,35 @@
     "weightG": 44,
     "configurations": "Frosted Gray – $84.99 · Black (Carbon Fiber) – $109.99",
     "colors": "Frosted Gray, Black (Carbon Fiber)"
-   }
+   },
+   "options": [
+    {
+     "name": "Configuration",
+     "values": [
+      {
+       "label": "Frosted Gray",
+       "price": "84.99",
+       "default": true
+      },
+      {
+       "label": "Black (Carbon Fiber)",
+       "price": "109.99"
+      }
+     ]
+    },
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Frosted Gray",
+       "default": true
+      },
+      {
+       "label": "Black (Carbon Fiber)"
+      }
+     ]
+    }
+   ]
   },
   {
    "sku": "TK-KEYCHRON-NAPE-PRO",
@@ -154,7 +224,21 @@
     "connection": "2.4 GHz, Bluetooth, USB-C wired",
     "buttons": 6,
     "colors": "Black, White"
-   }
+   },
+   "options": [
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Black",
+       "default": true
+      },
+      {
+       "label": "White"
+      }
+     ]
+    }
+   ]
   },
   {
    "sku": "TK-KEYCHRON-TB5-DOCK",
@@ -181,7 +265,8 @@
    "specs": {
     "interface": "Thunderbolt 5 (80 Gbps, 120 Gbps Bandwidth Boost)",
     "powerDeliveryW": 140
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-GLORIOUS-MODEL-O3-WL",
@@ -211,7 +296,21 @@
     "weightG": 66,
     "buttons": 6,
     "colors": "White, Black"
-   }
+   },
+   "options": [
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "White",
+       "default": true
+      },
+      {
+       "label": "Black"
+      }
+     ]
+    }
+   ]
   },
   {
    "sku": "TK-GLORIOUS-GMMK3-PRO-HE-WL",
@@ -237,14 +336,42 @@
    "keywords": "hall effect rapid trigger gasket aluminum 65% 75% knob wireless gaming modular",
    "specs": {
     "connection": "2.4 GHz, Bluetooth, wired",
-    "layout": "65% or 75% with knob",
+    "layout": "75%",
     "switchType": "Glorious linear magnetic (Hall effect)",
     "mechanical": false,
     "hotSwappable": true,
     "macSupport": true,
     "configurations": "65% (US) – $379.99 · 75% (US) – $399.99",
     "colors": "Black, Silver"
-   }
+   },
+   "options": [
+    {
+     "name": "Configuration",
+     "values": [
+      {
+       "label": "65% (US)",
+       "price": "379.99",
+       "default": true
+      },
+      {
+       "label": "75% (US)",
+       "price": "399.99"
+      }
+     ]
+    },
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Black",
+       "default": true
+      },
+      {
+       "label": "Silver"
+      }
+     ]
+    }
+   ]
   },
   {
    "sku": "TK-SATECHI-TB5-CUBEDOCK",
@@ -271,7 +398,8 @@
    "specs": {
     "interface": "Thunderbolt 5 (80/120 Gbps)",
     "powerDeliveryW": 140
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-SATECHI-SM3",
@@ -297,12 +425,26 @@
    "keywords": "low profile full size mechanical mac windows backlit bluetooth numeric keypad",
    "specs": {
     "connection": "Bluetooth 5.0, 2.4 GHz receiver, USB-C wired",
-    "layout": "Full-size 108-key",
+    "layout": "Full size",
     "switchType": "Low-profile tactile brown",
     "mechanical": true,
     "macSupport": true,
     "colors": "Light, Dark"
-   }
+   },
+   "options": [
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Light",
+       "default": true
+      },
+      {
+       "label": "Dark"
+      }
+     ]
+    }
+   ]
   },
   {
    "sku": "TK-SATECHI-CHARGEVIEW-140W",
@@ -327,7 +469,8 @@
    "specs": {
     "interface": "4x USB-C (GaN charger)",
     "powerDeliveryW": 140
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-LOGI-MX-MASTER-4",
@@ -358,7 +501,24 @@
     "weightG": 150,
     "buttons": 8,
     "colors": "Graphite, Pale Gray, Black"
-   }
+   },
+   "options": [
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Graphite",
+       "default": true
+      },
+      {
+       "label": "Pale Gray"
+      },
+      {
+       "label": "Black"
+      }
+     ]
+    }
+   ]
   },
   {
    "sku": "TK-LOGI-MX-ANYWHERE-3S",
@@ -388,7 +548,21 @@
     "weightG": 99,
     "buttons": 6,
     "colors": "Graphite, Pale Grey"
-   }
+   },
+   "options": [
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Graphite",
+       "default": true
+      },
+      {
+       "label": "Pale Grey"
+      }
+     ]
+    }
+   ]
   },
   {
    "sku": "TK-LOGI-MX-ERGO-S",
@@ -416,7 +590,8 @@
     "weightG": 164,
     "buttons": 8,
     "colors": "Graphite"
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-LOGI-LIFT-VERTICAL",
@@ -444,7 +619,27 @@
     "weightG": 125,
     "buttons": 6,
     "colors": "Off-white, Sand, Rose, Graphite"
-   }
+   },
+   "options": [
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Off-white",
+       "default": true
+      },
+      {
+       "label": "Sand"
+      },
+      {
+       "label": "Rose"
+      },
+      {
+       "label": "Graphite"
+      }
+     ]
+    }
+   ]
   },
   {
    "sku": "TK-LOGI-MX-MECHANICAL",
@@ -470,12 +665,13 @@
    "keywords": "full size low profile mechanical wireless backlit easy-switch mac windows",
    "specs": {
     "connection": "Bluetooth LE, Logi Bolt receiver",
-    "layout": "Full-size with numpad",
+    "layout": "Full size",
     "switchType": "Low-profile Tactile Quiet / Clicky / Linear",
     "mechanical": true,
     "macSupport": true,
     "colors": "Graphite"
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-LOGI-MX-CREATIVE-CONSOLE",
@@ -502,7 +698,21 @@
    "specs": {
     "connection": "Keypad: USB-C; Dialpad: Bluetooth LE / Logi Bolt",
     "colors": "Pale Grey, Graphite"
-   }
+   },
+   "options": [
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Pale Grey",
+       "default": true
+      },
+      {
+       "label": "Graphite"
+      }
+     ]
+    }
+   ]
   },
   {
    "sku": "TK-LOGI-MX-BRIO",
@@ -531,7 +741,24 @@
     "resolution": "4K Ultra HD",
     "privacyShutter": true,
     "colors": "Pale Gray, Graphite, Black"
-   }
+   },
+   "options": [
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Pale Gray",
+       "default": true
+      },
+      {
+       "label": "Graphite"
+      },
+      {
+       "label": "Black"
+      }
+     ]
+    }
+   ]
   },
   {
    "sku": "TK-LOGI-LITRA-BEAM-LX",
@@ -558,7 +785,8 @@
    "specs": {
     "connection": "USB power; Bluetooth or USB control",
     "colors": "Graphite"
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-LOGI-G-PRO-X3-SUPERSTRIKE",
@@ -588,7 +816,21 @@
     "weightG": 59,
     "buttons": 5,
     "colors": "Magenta Eclipse, Midnight Black"
-   }
+   },
+   "options": [
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Magenta Eclipse",
+       "default": true
+      },
+      {
+       "label": "Midnight Black"
+      }
+     ]
+    }
+   ]
   },
   {
    "sku": "TK-LOGI-G-PRO-X-SUPERLIGHT-2C",
@@ -618,7 +860,24 @@
     "weightG": 51,
     "buttons": 5,
     "colors": "White, Black, Magenta"
-   }
+   },
+   "options": [
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "White",
+       "default": true
+      },
+      {
+       "label": "Black"
+      },
+      {
+       "label": "Magenta"
+      }
+     ]
+    }
+   ]
   },
   {
    "sku": "TK-LOGI-G915-X-TKL",
@@ -644,12 +903,26 @@
    "keywords": "low profile tkl wireless gaming keyboard gl switches lightsync",
    "specs": {
     "connection": "LIGHTSPEED 2.4 GHz, Bluetooth, USB-C wired",
-    "layout": "Tenkeyless (TKL)",
+    "layout": "TKL",
     "switchType": "Low-profile GL Linear / Tactile / Clicky",
     "mechanical": true,
     "hotSwappable": false,
     "colors": "Black, White"
-   }
+   },
+   "options": [
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Black",
+       "default": true
+      },
+      {
+       "label": "White"
+      }
+     ]
+    }
+   ]
   },
   {
    "sku": "TK-LOGI-G-PRO-X2-RAPID",
@@ -675,11 +948,28 @@
    "keywords": "hall effect analog rapid trigger tkl 8khz oled socd esports",
    "specs": {
     "connection": "USB wired",
-    "layout": "Tenkeyless (TKL)",
+    "layout": "TKL",
     "switchType": "High Profile Analog Linear (Hall effect)",
     "mechanical": false,
     "colors": "Black, White, Magenta"
-   }
+   },
+   "options": [
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Black",
+       "default": true
+      },
+      {
+       "label": "White"
+      },
+      {
+       "label": "Magenta"
+      }
+     ]
+    }
+   ]
   },
   {
    "sku": "TK-LOGI-G-PRO-X3-LIGHTSPEED",
@@ -708,7 +998,24 @@
     "batteryHours": 70,
     "boomMic": true,
     "colors": "Black, White, Magenta"
-   }
+   },
+   "options": [
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Black",
+       "default": true
+      },
+      {
+       "label": "White"
+      },
+      {
+       "label": "Magenta"
+      }
+     ]
+    }
+   ]
   },
   {
    "sku": "TK-CORSAIR-VANGUARD-PRO-96",
@@ -734,13 +1041,14 @@
    "keywords": "hall effect magnetic rapid trigger 96% lcd g-keys 8000hz stream deck icue",
    "specs": {
     "connection": "USB wired",
-    "layout": "96% compact with numpad",
+    "layout": "96%",
     "switchType": "CORSAIR MGX Hyperdrive magnetic (Hall effect)",
     "mechanical": false,
     "hotSwappable": true,
     "macSupport": true,
     "colors": "Black"
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-CORSAIR-GALLEON-100-SD",
@@ -766,12 +1074,13 @@
    "keywords": "stream deck keyboard lcd keys dials creator streaming full size mechanical",
    "specs": {
     "connection": "USB wired",
-    "layout": "Full-size with Stream Deck panel",
+    "layout": "Full size",
     "switchType": "CORSAIR MLX Pulse mechanical",
     "mechanical": true,
     "macSupport": true,
     "colors": "Black"
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-CORSAIR-K65-PLUS-WL-TACTILE",
@@ -800,7 +1109,8 @@
     "mechanical": true,
     "hotSwappable": true,
     "colors": "Black"
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-CORSAIR-SABRE-V2-PRO-UL",
@@ -829,7 +1139,8 @@
     "sensorDpi": 33000,
     "weightG": 36,
     "colors": "Black"
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-CORSAIR-VIRTUOSO-MAX",
@@ -859,7 +1170,8 @@
     "batteryHours": 60,
     "boomMic": true,
     "colors": "Carbon"
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-ELGATO-STREAM-DECK-PLUS-XL",
@@ -887,7 +1199,8 @@
    "specs": {
     "connection": "USB-C",
     "colors": "Black"
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-ELGATO-STREAM-DECK-PLUS",
@@ -915,7 +1228,21 @@
    "specs": {
     "connection": "USB-C (USB 2.0)",
     "colors": "Black, White"
-   }
+   },
+   "options": [
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Black",
+       "default": true
+      },
+      {
+       "label": "White"
+      }
+     ]
+    }
+   ]
   },
   {
    "sku": "TK-ELGATO-STREAM-DECK-SCISSOR",
@@ -942,7 +1269,8 @@
    "specs": {
     "connection": "USB-C (USB 2.0)",
     "colors": "Black"
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-ELGATO-GAME-CAPTURE-4K-X",
@@ -970,7 +1298,8 @@
     "cardType": "External USB game capture",
     "interface": "USB 3.2 Type-C; HDMI 2.1 in/out",
     "maxResolution": "4K144 (recording & passthrough)"
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-ELGATO-KEY-LIGHT",
@@ -997,7 +1326,8 @@
    "specs": {
     "connection": "Wi-Fi 2.4 / 5 GHz",
     "colors": "Black"
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-ELGATO-FACECAM-4K",
@@ -1027,7 +1357,27 @@
     "fps": 60,
     "privacyShutter": false,
     "colors": "Black, Carbon, Pine, White"
-   }
+   },
+   "options": [
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Black",
+       "default": true
+      },
+      {
+       "label": "Carbon"
+      },
+      {
+       "label": "Pine"
+      },
+      {
+       "label": "White"
+      }
+     ]
+    }
+   ]
   },
   {
    "sku": "TK-ELGATO-WAVE-NEO",
@@ -1054,7 +1404,8 @@
     "micType": "Condenser",
     "polarPattern": "Cardioid",
     "colors": "White"
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-STEELSERIES-AEROX-3-WL-G2",
@@ -1082,7 +1433,24 @@
     "connection": "2.4 GHz wireless, Bluetooth",
     "sensorDpi": 26000,
     "colors": "Shadow, Ghost, Magenta Haze"
-   }
+   },
+   "options": [
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Shadow",
+       "default": true
+      },
+      {
+       "label": "Ghost"
+      },
+      {
+       "label": "Magenta Haze"
+      }
+     ]
+    }
+   ]
   },
   {
    "sku": "TK-STEELSERIES-NOVA-ELITE",
@@ -1111,7 +1479,21 @@
     "noiseCancelling": true,
     "boomMic": true,
     "colors": "Sage Gold, Black"
-   }
+   },
+   "options": [
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Sage Gold",
+       "default": true
+      },
+      {
+       "label": "Black"
+      }
+     ]
+    }
+   ]
   },
   {
    "sku": "TK-STEELSERIES-NOVA-PRO-OMNI",
@@ -1140,7 +1522,24 @@
     "noiseCancelling": true,
     "boomMic": true,
     "colors": "Black, Midnight Blue, White"
-   }
+   },
+   "options": [
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Black",
+       "default": true
+      },
+      {
+       "label": "Midnight Blue"
+      },
+      {
+       "label": "White"
+      }
+     ]
+    }
+   ]
   }
  ]
 }

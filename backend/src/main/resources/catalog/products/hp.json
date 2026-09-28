@@ -37,7 +37,8 @@
     "ports": "3x Thunderbolt 4 (USB-C 40Gbps, PD 3.1, DP 2.1), headphone/mic combo",
     "wireless": "Intel Wi-Fi 7 BE211 (2x2), Bluetooth 6.0",
     "colors": "Eclipse gray"
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-HP-OMNIBOOK-X-FLIP-16",
@@ -72,7 +73,8 @@
     "os": "Windows 11 Home",
     "ports": "Thunderbolt 4, 2x USB-A 10Gbps, HDMI 2.1, headphone/mic combo",
     "wireless": "Intel Wi-Fi 6E AX211 (2x2), Bluetooth 5.3"
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-HP-ELITEBOOK-X-G2I-14",
@@ -110,7 +112,8 @@
     "npuTops": 50,
     "ports": "2x Thunderbolt 4 (40Gbps, DP 2.1), USB-A 5Gbps, HDMI 2.1, headphone/mic combo",
     "wireless": "Intel Wi-Fi 7 BE211, Bluetooth 6, HP R15 5G WWAN"
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-HP-ELITEBOOK-8-G2I-16",
@@ -147,7 +150,8 @@
     "ports": "2x Thunderbolt 4 (40Gbps), USB-A 10Gbps, HDMI 2.1, headphone/mic combo",
     "wireless": "Intel Wi-Fi 7 BE211 (2x2), Bluetooth 6.0",
     "colors": "Glacier silver"
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-HP-PROBOOK-4-G2I-14",
@@ -186,7 +190,8 @@
     "ports": "2x USB-C 20Gbps (PD, DP 1.4), 2x USB-A 5Gbps, HDMI 2.1, headphone/mic combo",
     "wireless": "Intel Wi-Fi 7 BE211 (2x2), Bluetooth 6",
     "colors": "Pike silver"
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-HP-HYPERX-OMEN-MAX-16",
@@ -221,7 +226,8 @@
     "display": "16-inch 2.5K (2560 x 1600) IPS, up to 240 Hz, 3 ms, 500 nits, 100% sRGB",
     "os": "Windows 11 Home",
     "npuTops": 13
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-HP-HYPERX-OMEN-15",
@@ -252,7 +258,8 @@
     "displayIn": 15.3,
     "display": "15.3-inch 1920 x 1200 IPS, up to 165 Hz, 300 nits, VRR",
     "os": "Windows 11 Home"
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-HP-HYPERX-OMEN-35L-GT18",
@@ -283,7 +290,8 @@
     "ramGb": 16,
     "os": "Windows 11 Home",
     "networking": "Wi-Fi 7 (2x2) and Bluetooth 6.0 available"
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-HP-HYPERX-OMEN-MAX-45L",
@@ -314,7 +322,8 @@
     "gpu": "NVIDIA GeForce RTX 5070 (12 GB GDDR7)",
     "ramGb": 32,
     "os": "Windows 11 Home"
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-HP-ZBOOK-ULTRA-G1A-14",
@@ -354,7 +363,8 @@
     "ports": "Thunderbolt 4 (40Gbps), USB-C 10Gbps, HDMI 2.1, headphone/mic combo",
     "wireless": "MediaTek Wi-Fi 7 MT7925 (2x2), Bluetooth 5.4",
     "colors": "Meteor silver"
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-HP-ZBOOK-8-G2I-16",
@@ -390,7 +400,8 @@
     "ports": "2x Thunderbolt 4 (40Gbps), USB-A 5Gbps, HDMI 2.1, RJ-45, audio combo",
     "wireless": "Intel Wi-Fi 7 BE211 (2x2), Bluetooth 6.0",
     "colors": "Meteor silver"
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-HP-ZBOOK-X-G1I-16",
@@ -428,7 +439,8 @@
     "npuTops": 13,
     "ports": "2x Thunderbolt 4 (USB4 40Gbps), USB-A 5Gbps, HDMI 2.1, headphone/mic combo",
     "wireless": "Intel Wi-Fi 7 BE201 (2x2), Bluetooth 5.4"
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-HP-ZBOOK-FURY-G1I-16",
@@ -467,7 +479,8 @@
     "npuTops": 13,
     "ports": "2x Thunderbolt 5 (80Gbps), USB-A 10Gbps, HDMI 2.1, SD card reader, RJ-45, headphone/mic combo",
     "wireless": "Intel Wi-Fi 7 BE200 (2x2), Bluetooth 5.4"
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-HP-ZGX-NANO-G1N",
@@ -500,7 +513,8 @@
     "storage": "4 TB PCIe Gen5 NVMe SED SSD",
     "network": "10GbE RJ-45, 2x QSFP 200Gbps, Wi-Fi 7, Bluetooth 5.4",
     "powerKw": 0.28
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-HP-Z2-MINI-G1A",
@@ -535,7 +549,8 @@
     "networking": "RJ-45, MediaTek Wi-Fi 7 MT7925 (2x2), Bluetooth 5.4",
     "psuW": 300,
     "ports": "Thunderbolt, USB-C 10Gbps, 3x USB-A 10Gbps, RJ-45, headphone/mic combo"
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-HP-Z2-TOWER-G1I",
@@ -565,7 +580,8 @@
     "ramGb": 16,
     "os": "Windows 11 Pro",
     "ports": "Front: 2x USB-C 20Gbps, 4x USB-A 10Gbps, audio combo; Rear: USB-A 10Gbps, 2x DisplayPort 1.4, RJ-45"
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-HP-Z4-G6I",
@@ -596,7 +612,8 @@
     "gpu": "NVIDIA RTX A400 (4 GB GDDR6)",
     "ramGb": 16,
     "os": "Windows 11 Pro"
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-HP-ELITEDESK-8-MINI-G1I",
@@ -630,7 +647,8 @@
     "networking": "RJ-45, Intel Wi-Fi 7 BE200 (2x2), Bluetooth 5.4",
     "psuW": 90,
     "ports": "Front: USB-C 20Gbps, 2x USB-A 10Gbps; Rear: 2x USB-A 10Gbps, HDMI 2.1, 2x DisplayPort 2.1, Thunderbolt, RJ-45"
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-HP-CHROMEBOOK-X360-14BT",
@@ -666,7 +684,8 @@
     "ports": "USB-C 10Gbps (PD 3.1, DP 1.4), USB-A 5Gbps, headphone/mic combo",
     "wireless": "Realtek Wi-Fi 6 (2x2), Bluetooth 5.4",
     "colors": "Meteor silver"
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-HP-GOOGLEBOOK-14",
@@ -704,7 +723,8 @@
     "npuTops": 45,
     "ports": "2x USB-C 10Gbps (PD 3.0, DP 1.4), headphone/mic combo",
     "wireless": "Qualcomm FastConnect 7800 Wi-Fi 7 (2x2), Bluetooth 5.4"
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-HP-OMNISTUDIO-X-32",
@@ -733,7 +753,8 @@
     "psuW": 280,
     "displayIn": 31.5,
     "ports": "Side: USB-C 10Gbps, 2x USB-A 10Gbps; Rear: 2x USB-A 10Gbps, USB-C 20Gbps (DP 1.4 in/out), RJ-45, headphone/mic combo"
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-HP-OMNIBOOK-7-AERO-13",
@@ -769,7 +790,8 @@
     "ports": "2x USB-C 10Gbps (PD 3.1, DP 2.1), USB-A 10Gbps, USB-A 5Gbps, HDMI 2.1, headphone/mic combo",
     "wireless": "Realtek Wi-Fi 6 (2x2), Bluetooth 5.4",
     "colors": "Glacier silver"
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-HP-OMNIBOOK-X-17",
@@ -806,7 +828,8 @@
     "ports": "Thunderbolt 4 (40Gbps), USB-C 10Gbps, 3x USB-A 10Gbps, HDMI 2.1, headphone/mic combo",
     "wireless": "Intel Wi-Fi 7 BE201 (2x2), Bluetooth 5.4",
     "colors": "Glacier silver"
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-HP-OMNIBOOK-X-FLIP-14-KB",
@@ -843,7 +866,8 @@
     "ports": "2x Thunderbolt 4 (40Gbps, DP 2.1), 2x USB-A 10Gbps, HDMI 2.1, headphone/mic combo",
     "wireless": "MediaTek Wi-Fi 7 MT7925 (2x2), Bluetooth 6.0",
     "colors": "Atmospheric Blue"
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-HYPERX-CLOUD-III-S-WL",
@@ -871,7 +895,8 @@
     "connection": "2.4 GHz wireless (USB), Bluetooth",
     "colors": "Black-Red",
     "batteryHours": 120
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-HYPERX-ALLOY-RISE",
@@ -898,10 +923,11 @@
    "specs": {
     "connection": "Wired USB",
     "colors": "Black",
-    "layout": "Full size (US)",
+    "layout": "Full size",
     "switchType": "HyperX Linear",
     "mechanical": true
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-HYPERX-HASTE-2-S-WL",
@@ -931,7 +957,8 @@
     "sensorDpi": 26000,
     "weightG": 63,
     "buttons": 6
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-HP-OMEN-TRANSCEND-32",
@@ -958,12 +985,13 @@
    "keywords": "omen transcend 32 qd-oled 4k 240hz gaming monitor displayport 2.1",
    "specs": {
     "sizeIn": 31.5,
-    "resolution": "3840 x 2160 (4K UHD)",
+    "resolution": "3840x2160",
     "refreshHz": 240,
     "panel": "QD-OLED",
     "inputs": "1x DisplayPort 2.1, 2x HDMI 2.1, USB-C (DP alt mode)",
     "usbCPowerW": 140
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-HP-OMEN-34C-G2",
@@ -987,11 +1015,13 @@
    "keywords": "omen 34c g2 curved ultrawide 180hz gaming monitor wqhd",
    "specs": {
     "sizeIn": 34,
-    "resolution": "3440 x 1440 (WQHD)",
+    "resolution": "3440x1440",
     "refreshHz": 180,
-    "panel": "VA (curved)",
-    "inputs": "1x DisplayPort 1.4, 2x HDMI 2.0"
-   }
+    "panel": "VA",
+    "inputs": "1x DisplayPort 1.4, 2x HDMI 2.0",
+    "panelDetails": "VA (curved)"
+   },
+   "options": []
   },
   {
    "sku": "TK-HP-SERIES-7-PRO-727PK",
@@ -1017,11 +1047,12 @@
    "keywords": "hp series 7 pro 727pk 27 4k thunderbolt 4 ips black monitor",
    "specs": {
     "sizeIn": 27,
-    "resolution": "3840 x 2160 (4K UHD)",
+    "resolution": "3840x2160",
     "panel": "IPS Black",
     "inputs": "Thunderbolt 4, DisplayPort 1.4 (+ DP out), HDMI 2.0",
     "usbCPowerW": 100
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-HP-SERIES-7-PRO-734PM",
@@ -1048,11 +1079,12 @@
    "keywords": "hp series 7 pro 734pm ultrawide conferencing monitor webcam thunderbolt",
    "specs": {
     "sizeIn": 34,
-    "resolution": "3440 x 1440 (WQHD)",
+    "resolution": "3440x1440",
     "panel": "IPS Black",
     "inputs": "Thunderbolt 4, DisplayPort 1.4 (+ DP out), HDMI 2.0",
     "usbCPowerW": 100
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-HP-LJ-PRO-4001DN",
@@ -1082,7 +1114,8 @@
     "ppm": 42,
     "functions": "Print",
     "connectivity": "Hi-Speed USB 2.0, Gigabit Ethernet, AirPrint/Mopria"
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-HP-CLJ-PRO-MFP-3301FDW",
@@ -1113,7 +1146,8 @@
     "duplex": true,
     "functions": "Print, copy, scan, fax",
     "connectivity": "Hi-Speed USB 2.0, dual-band Wi-Fi 802.11ac"
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-HP-OFFICEJET-PRO-9135",
@@ -1138,13 +1172,14 @@
    "description": "The HP OfficeJet Pro 9135 (C2WM0A) is a thermal inkjet all-in-one that prints, copies, scans and faxes at ISO speeds of up to 25 ppm black and 20 ppm color. It has a single-pass two-sided ADF, automatic duplex printing, Ethernet, USB and dual-band Wi-Fi.",
    "keywords": "officejet pro 9135 inkjet all-in-one office printer duplex adf",
    "specs": {
-    "technology": "HP Thermal Inkjet",
+    "technology": "Inkjet",
     "color": true,
     "ppm": 25,
     "duplex": true,
     "functions": "Print, copy, scan, fax",
     "connectivity": "Ethernet, Hi-Speed USB 2.0, dual-band Wi-Fi 802.11ac"
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-HP-SMART-TANK-7603",
@@ -1167,13 +1202,14 @@
    "description": "The HP Smart Tank 7603 (D34F7A) is a refillable ink-tank all-in-one that prints, copies, scans and faxes, with an ADF and automatic duplex printing. HP rates it at up to 15 ppm black and 9 ppm color (ISO), with dual-band Wi-Fi, Wi-Fi Direct and USB.",
    "keywords": "smart tank 7603 ink tank all-in-one refillable printer wireless",
    "specs": {
-    "technology": "HP Thermal Inkjet (refillable ink tank)",
+    "technology": "Inkjet (supertank)",
     "color": true,
     "ppm": 15,
     "duplex": true,
     "functions": "Print, copy, scan, fax, ADF",
     "connectivity": "Dual-band Wi-Fi, Wi-Fi Direct, Hi-Speed USB 2.0"
-   }
+   },
+   "options": []
   },
   {
    "sku": "TK-HPE-DL360-GEN12",
@@ -1205,7 +1241,8 @@
     "maxMemoryTb": 8,
     "ecc": true,
     "driveBays": 20
-   }
+   },
+   "options": []
   }
  ]
 }

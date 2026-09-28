@@ -653,7 +653,16 @@
         "retrievedAt": "2026-09-28",
         "specs": "https://store.google.com/us/product/nest_hub_2nd_gen_specs"
       },
-      "notes": "No image: the only clean official render shows a photo of a child on the screen, which breaks the no-people image rule. Google Store showed Charcoal and Mist out of stock on 2026-09-28."
+      "notes": "Google Store showed Charcoal and Mist out of stock on 2026-09-28.",
+      "image": {
+        "url": "https://lh3.googleusercontent.com/e5A_WAg_qQrDADl0d-kLb859l7ujETU7KTV0G1cvd2UYee2-M-YDwSt_UeFhzpoi_ojGlAI75ElwS27qSZljP0VAxVF2OW7IoQM=s2000",
+        "page": "https://store.google.com/us/config/nest_hub_2nd_gen",
+        "sourceType": "manufacturer-product-page",
+        "rights": "Official Google Store product image (store.google.com); Google has not granted a reuse license — rights not verified.",
+        "credit": "Google",
+        "alt": "Google Nest Hub (2nd gen) in Chalk, rear view showing the fabric-covered speaker base and power cable",
+        "match": "EXACT"
+      }
     },
     {
       "brand": "Google",
