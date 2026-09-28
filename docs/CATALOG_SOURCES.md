@@ -8,9 +8,9 @@ Every product records the official page its details were read from. Prices are T
 - **starting-at**: manufacturer's published starting price; the configurations spec lists the options.
 - **estimate**: no public manufacturer price (quote-only enterprise hardware, or price not published). The number is a TrustKart simulation value and must not be read as a quote.
 
-Built 2026-09-28. 1079 products from 23 source files.
+Built 2026-09-28. 1151 products from 24 source files.
 
-## acer-msi-gigabyte (48)
+## acer-msi-gigabyte (49)
 
 Acer (incl. Predator, Nitro), MSI and Gigabyte/AORUS products researched 2026-09-28 from official manufacturer sites and stores (us-store.msi.com, store.acer.com / acer.com, gigabyte.com). MSI prices are MSI-US store list prices (sale prices ignored).
 
@@ -64,6 +64,7 @@ Acer (incl. Predator, Nitro), MSI and Gigabyte/AORUS products researched 2026-09
 | `TK-GIGA-AORUSFO32U2P` | AORUS FO32U2P | gaming-monitors | $1,099 | estimate |  | [link](https://www.gigabyte.com/us/Monitor/AORUS-FO32U2P) | [link](https://www.gigabyte.com/us/Monitor/AORUS-FO32U2P/sp) | 2026-09-28 |
 | `TK-GIGA-AITOPATOM` | GIGABYTE AI TOP ATOM | ai-systems | $5,999 | estimate |  | [link](https://www.gigabyte.com/AI-TOP-PC/GIGABYTE-AI-TOP-ATOM) | [link](https://www.gigabyte.com/AI-TOP-PC/GIGABYTE-AI-TOP-ATOM/sp) | 2026-09-28 |
 | `TK-GIGA-G893ZD1AAX5` | GIGABYTE G893-ZD1-AAX5 HGX B200 GPU Server | ai-systems | $450,000 | estimate |  | [link](https://www.gigabyte.com/Enterprise/GPU-Server/G893-ZD1-AAX5) | [link](https://www.gigabyte.com/Enterprise/GPU-Server/G893-ZD1-AAX5/sp) | 2026-09-28 |
+| `TK-ACER-PO6-605` | Acer Predator Orion 6000 (PO6-605) | gaming-desktops | $3,599.99 | msrp | 2026-09-28 | [link](https://www.acer.com/us-en/predator/desktops-and-all-in-ones) | [link](https://store.acer.com/en-us/predator-orion-6000-gaming-desktop-po6-605-ur18w) | 2026-09-28 |
 
 ## apple (61)
 
@@ -195,7 +196,7 @@ ASUS (incl. ROG, TUF Gaming, ProArt, Zenbook, Vivobook, ExpertBook, NUC, Ascent,
 | `TK-ASUS-ZENWIFI-BT10-1PK` | ASUS ZenWiFi BT10 Tri-Band Wi-Fi 7 Mesh (1-Pack) | mesh-wifi | $359.99 | msrp | 2026-09-28 | [link](https://www.asus.com/us/networking-iot-servers/whole-home-mesh-systems/asus-zenwifi/asus-zenwifi-bt10/) | [link](https://eshop.asus.com/us/asus-zenwifi-bt10.html) | 2026-09-28 |
 | `TK-ASUS-ZENWIFI-BD5-1PK` | ASUS ZenWiFi BD5 Dual-Band Wi-Fi 7 Mesh (1-Pack) | mesh-wifi | $179.99 | msrp | 2026-09-28 | [link](https://www.asus.com/us/networking-iot-servers/whole-home-mesh-systems/asus-zenwifi/asus-zenwifi-bd5/) | [link](https://eshop.asus.com/us/asus-zenwifi-bd5.html) | 2026-09-28 |
 
-## audio (41)
+## audio (42)
 
 Audio catalog: headphones, earbuds, speakers & soundbars, studio audio (interfaces, monitors, studio headphones, DAC/amps) and microphones. Researched 2026-09-28 from official manufacturer stores, spec pages and press/media kits. Sonos.com blocks automated requests (HTTP 403), so Sonos prices come from Sonos Newsroom launch announcements (2026 launches) or are marked estimate (older models). Brands already in demo data (Jabra Evolve2 75, Shure MV7+, Audioengine A2+, Elgato Wave:3) are not duplicated.
 
@@ -242,6 +243,7 @@ Audio catalog: headphones, earbuds, speakers & soundbars, studio audio (interfac
 | `TK-RODE-NT-USB-PLUS` | RØDE NT-USB+ | microphones | $179 | msrp | 2026-09-28 | [link](https://rode.com/en-us/products/nt-usb-plus) | same | 2026-09-28 |
 | `TK-RODE-NT1-GEN5` | RØDE NT1 5th Generation | microphones | $249 | msrp | 2026-09-28 | [link](https://rode.com/en-us/products/nt1-5th-generation) | same | 2026-09-28 |
 | `TK-RODE-RODECASTER-PRO-II` | RØDE RØDECaster Pro II | studio-audio | $699 | msrp | 2026-09-28 | [link](https://rode.com/en-us/products/rodecaster-pro-ii) | same | 2026-09-28 |
+| `TK-SHURE-SM7DB` | Shure SM7dB | microphones | $549 | msrp | 2026-09-28 | [link](https://www.shure.com/en-US/products/microphones/sm7db) | same | 2026-09-28 |
 
 ## cameras-drones (37)
 
@@ -313,7 +315,7 @@ PC components, storage, server memory/storage and controllers from component mak
 | `TK-NOCTUA-NFA12X25G2` | Noctua NF-A12x25 G2 PWM 120 mm Fan | cooling | $39.95 | estimate |  | [link](https://www.noctua.at/en/products/nf-a12x25-g2-pwm) | [link](https://www.noctua.at/en/products/nf-a12x25-g2-pwm/specifications) | 2026-09-28 |
 | `TK-NOCTUA-NHU12A-CHROMAX` | Noctua NH-U12A chromax.black CPU Cooler | cooling | $149.95 | estimate |  | [link](https://www.noctua.at/en/products/nh-u12a-chromax-black) | [link](https://www.noctua.at/en/products/nh-u12a-chromax-black/specifications) | 2026-09-28 |
 
-## dell (46)
+## dell (49)
 
 Dell and Alienware current lineup (dell.com US), researched 2026-09-28: 2026 XPS relaunch, Dell / Dell Plus, Dell Pro (Premium, 7 Series, Plus), Dell Pro Max and Dell Pro Precision mobile and tower workstations, Dell Pro Max with GB10/GB300, Alienware Area-51/Aurora, Alienware/UltraSharp/Dell Pro monitors, Dell Pro Thunderbolt 5 docks and 17G PowerEdge rack, tower and XE AI servers. PC prices are the dell.com price of the pre-configured model shown on each product page (specs describe that configuration); 'build your own' starting prices are listed in variants where Dell shows one. Monitor and dock prices come from dell.com listing pages when the product page did not render a price. PowerEdge R/T prices are dell.com 'Starting at' configure-to-order prices; XE AI servers and the Pro Max GB300 are quote-only, so their prices are estimates. Images are dell.com product gallery images from i.dell.com (rights not verified). Dell gallery images are cropped edge-to-edge; build.py detects the white studio background from the corners and re-pads them. The PowerEdge R670 URL returned the same asset as the R470 and was dropped.
 
@@ -365,6 +367,9 @@ Dell and Alienware current lineup (dell.com US), researched 2026-09-28: 2026 XPS
 | `TK-DELL-POWEREDGE-XE9780` | Dell PowerEdge XE9780 AI Server (8x NVIDIA HGX B300) | ai-systems | $450,000 | estimate |  | [link](https://www.dell.com/en-us/shop/ipovw/poweredge-xe9780) | same | 2026-09-28 |
 | `TK-DELL-POWEREDGE-XE9785` | Dell PowerEdge XE9785 AI Server (8x AMD Instinct MI355X) | ai-systems | $400,000 | estimate |  | [link](https://www.dell.com/en-us/shop/ipovw/poweredge-xe9785) | same | 2026-09-28 |
 | `TK-DELL-POWEREDGE-XE7745` | Dell PowerEdge XE7745 4U PCIe GPU Server | ai-systems | $150,000 | estimate |  | [link](https://www.dell.com/en-us/shop/ipovw/poweredge-xe7745) | [link](https://www.delltechnologies.com/asset/en-us/products/servers/technical-support/poweredge-xe7745-spec-sheet.pdf) | 2026-09-28 |
+| `TK-DELL-U3226Q` | Dell UltraSharp 32 4K QD-OLED Monitor (U3226Q) | professional-monitors | $2,599.99 | msrp | 2026-09-28 | [link](https://www.dell.com/en-us/shop/monitors/apd/dell-ultrasharp-32-4k-qd-oled-monitor-u3226q/u3226q/-) | same | 2026-09-28 |
+| `TK-DELL-P3426WEB` | Dell Pro P 34 USB-C Hub Conferencing Monitor (P3426WEB) | office-monitors | $749.99 | msrp | 2026-09-28 | [link](https://www.dell.com/en-us/shop/monitors/apd/dell-pro-p-34-usb-c-hub-conferencing-monitor-p3426web/p3426web/-) | same | 2026-09-28 |
+| `TK-DELL-POWEREDGE-R670` | Dell PowerEdge R670 1U Rack Server | rack-servers | $25,798.99 | starting-at | 2026-09-28 | [link](https://www.dell.com/en-us/shop/servers-storage-and-networking/poweredge-r670/spd/poweredge-r670/pe_r670_tm_vi_vp_sb) | [link](https://www.delltechnologies.com/asset/en-us/products/servers/technical-support/poweredge-r670-spec-sheet.pdf) | 2026-09-28 |
 
 ## google-microsoft (44)
 
@@ -458,6 +463,61 @@ HP (incl. HyperX, OMEN) and HPE products researched 2026-09-28 on hp.com US stor
 | `TK-HP-CLJ-PRO-MFP-3301FDW` | HP Color LaserJet Pro MFP 3301fdw | multifunction-printers | $639 | msrp | 2026-09-28 | [link](https://www.hp.com/us-en/shop/pdp/hp-color-laserjet-pro-mfp-3301fdw) | [link](https://www.hp.com/us-en/shop/pdp/hp-color-laserjet-pro-mfp-3301fdw) | 2026-09-28 |
 | `TK-HP-OFFICEJET-PRO-9135` | HP OfficeJet Pro 9135 All-in-One Printer | inkjet-printers | $429.99 | msrp | 2026-09-28 | [link](https://www.hp.com/us-en/shop/pdp/hp-officejet-pro-9135-all-in-one-printer) | [link](https://www.hp.com/us-en/shop/pdp/hp-officejet-pro-9135-all-in-one-printer) | 2026-09-28 |
 | `TK-HP-SMART-TANK-7603` | HP Smart Tank 7603 All-in-One Printer | inkjet-printers | $469.99 | msrp | 2026-09-28 | [link](https://www.hp.com/us-en/shop/pdp/hp-smart-tank-7603-all-in-one-printer-p-d34f7a-b1h-1) | [link](https://www.hp.com/us-en/shop/pdp/hp-smart-tank-7603-all-in-one-printer-p-d34f7a-b1h-1) | 2026-09-28 |
+
+## lenovo (48)
+
+Lenovo consumer and commercial client lineup from lenovo.com (US), researched 2026-09-28: ThinkPad X1/X9/T/E/X13 and P-series mobile workstations, ThinkBook, Yoga, Lenovo Slim/Pro, IdeaPad, Legion laptops and towers, Legion Go S, Lenovo tablets, and Legion/Yoga/ThinkVision monitors. Existing Lenovo items (demo ThinkPad X1 Carbon Gen 13, P16 Gen 2, ThinkStation PX, ThinkCentre, ThinkSystem servers) are not duplicated. Specs come from the lenovo.com product-page tech-spec tables (cross-linked to psref.lenovo.com). Prices are the lenovo.com 'starting at' price of each series page on the retrieval date (Lenovo's current sale price; Lenovo's higher pre-discount web price is recorded in priceNote); spec values describe the entry option listed on that page. Images: lenovo.com product-gallery PNGs at their native 584 px (the CDN's ?width= parameter only upscales, so it is not used) or, where cleaner/larger, 2000 px PSREF renders from psrefstuff.lenovo.com; PSREF renders carrying Intel/Copilot+ badges were rejected. Temporarily unavailable models (Legion Go Gen 2, Yoga Book 9i, ThinkBook Plus Rollable, LOQ 15AHP11, Chromebook Plus 14 MediaTek) and the Legion 7i Gen 10 / Legion R45w-30 (no clean official image) were left out.
+
+| SKU (TrustKart) | Product | Category | Price | Basis | Price as of | Official page | Spec source | Retrieved |
+|---|---|---|---|---|---|---|---|---|
+| `TK-LENOVO-X1C-G14` | Lenovo ThinkPad X1 Carbon Gen 14 Aura Edition (14" Intel) | business-laptops | $2,407.30 | starting-at | 2026-09-28 | [link](https://www.lenovo.com/us/en/p/laptops/thinkpad/thinkpadx1/lenovo-thinkpad-x1-carbon-gen-14-aura-edition-14-inch-intel/len101t0159) | [link](https://psref.lenovo.com/Product/ThinkPad/ThinkPad_X1_Carbon_Gen_14_Aura_Edition) | 2026-09-28 |
+| `TK-LENOVO-X1-2IN1-G11` | Lenovo ThinkPad X1 2-in-1 Gen 11 Aura Edition (14" Intel) | business-laptops | $2,544.10 | starting-at | 2026-09-28 | [link](https://www.lenovo.com/us/en/p/laptops/thinkpad/thinkpadx1/lenovo-thinkpad-x1-2-in-1-gen--11-aura-edition-14-inch-intel/len101t0160) | [link](https://psref.lenovo.com/Product/ThinkPad/ThinkPad_X1_2_in_1_Gen_11_Aura_Edition) | 2026-09-28 |
+| `TK-LENOVO-X9-14-G1` | Lenovo ThinkPad X9 14 Gen 1 Aura Edition (14" Intel) | business-laptops | $1,689 | starting-at | 2026-09-28 | [link](https://www.lenovo.com/us/en/p/laptops/thinkpad/thinkpadx9/thinkpad-x9-14-aura-edition-14-inch-intel/len101t0110) | [link](https://psref.lenovo.com/Product/ThinkPad/ThinkPad_X9_14_Gen_1_Aura_Edition) | 2026-09-28 |
+| `TK-LENOVO-X9-15-G1` | Lenovo ThinkPad X9 15 Gen 1 Aura Edition (15" Intel) | business-laptops | $1,659 | starting-at | 2026-09-28 | [link](https://www.lenovo.com/us/en/p/laptops/thinkpad/thinkpadx9/thinkpad-x9-aura-edition-15-inch-intel/len101t0111) | [link](https://psref.lenovo.com/Product/ThinkPad/ThinkPad_X9_15_Gen_1_Aura_Edition) | 2026-09-28 |
+| `TK-LENOVO-X9-15P-G1` | Lenovo ThinkPad X9 15p Gen 1 Aura Edition (15" Intel) | business-laptops | $2,334 | starting-at | 2026-09-28 | [link](https://www.lenovo.com/us/en/p/laptops/thinkpad/thinkpadx9/thinkpad-x9-15p-aura-edition-15-inch-intel/len101t0162) | [link](https://psref.lenovo.com/Product/ThinkPad/ThinkPad_X9_15p_Gen_1_Aura_Edition) | 2026-09-28 |
+| `TK-LENOVO-T14-G7-INTEL` | Lenovo ThinkPad T14 Gen 7 (14" Intel) | business-laptops | $1,751.80 | starting-at | 2026-09-28 | [link](https://www.lenovo.com/us/en/p/laptops/thinkpad/thinkpadt/lenovo-thinkpad-t14-gen-7-14-inch-intel-laptop/len101t0154) | [link](https://psref.lenovo.com/Product/ThinkPad/ThinkPad_T14_Gen_7_Intel) | 2026-09-28 |
+| `TK-LENOVO-T14S-G7-INTEL` | Lenovo ThinkPad T14s Gen 7 (14" Intel) | business-laptops | $1,956.05 | starting-at | 2026-09-28 | [link](https://www.lenovo.com/us/en/p/laptops/thinkpad/thinkpadt/lenovo-thinkpad-t14s-gen-7-14-inch-intel-/len101t0155) | [link](https://psref.lenovo.com/Product/ThinkPad/ThinkPad_T14s_Gen_7_Intel) | 2026-09-28 |
+| `TK-LENOVO-T14S-G7-SD` | Lenovo ThinkPad T14s Gen 7 (14" Snapdragon) | business-laptops | $1,903.80 | starting-at | 2026-09-28 | [link](https://www.lenovo.com/us/en/p/laptops/thinkpad/thinkpadt/lenovo-thinkpad-t14s-gen-7-14-inch-snapdragon/len101t0184) | [link](https://psref.lenovo.com/Product/ThinkPad/ThinkPad_T14s_Gen_7_Snapdragon) | 2026-09-28 |
+| `TK-LENOVO-T16-G5-INTEL` | Lenovo ThinkPad T16 Gen 5 (16" Intel) | business-laptops | $1,975.05 | starting-at | 2026-09-28 | [link](https://www.lenovo.com/us/en/p/laptops/thinkpad/thinkpadt/lenovo-thinkpad-t16-gen-5-16-inch-intel/len101t0158) | [link](https://psref.lenovo.com/Product/ThinkPad/ThinkPad_T16_Gen_5_Intel) | 2026-09-28 |
+| `TK-LENOVO-E14-G8-INTEL` | Lenovo ThinkPad E14 Gen 8 (14" Intel) | business-laptops | $1,399 | starting-at | 2026-09-28 | [link](https://www.lenovo.com/us/en/p/laptops/thinkpad/thinkpade/thinkpad-e14-gen-8-14-inch-intel/len101t0187) | [link](https://psref.lenovo.com/Product/ThinkPad/ThinkPad_E14_Gen_8_Intel) | 2026-09-28 |
+| `TK-LENOVO-X13-G7-INTEL` | Lenovo ThinkPad X13 Gen 7 (13" Intel) | business-laptops | $1,614.05 | starting-at | 2026-09-28 | [link](https://www.lenovo.com/us/en/p/laptops/thinkpad/thinkpadx/thinkpad-x13-gen-7-13-inch-intel-laptop/len101t0172) | [link](https://psref.lenovo.com/Product/ThinkPad/ThinkPad_X13_Gen_7_Intel) | 2026-09-28 |
+| `TK-LENOVO-P14S-G7-INTEL` | Lenovo ThinkPad P14s Gen 7 (14" Intel) Mobile Workstation | workstation-laptops | $2,589 | starting-at | 2026-09-28 | [link](https://www.lenovo.com/us/en/p/laptops/thinkpad/thinkpadp/lenovo-thinkpad-p14s-gen-7-14-inch-intel/len101t0169) | [link](https://psref.lenovo.com/Product/ThinkPad/ThinkPad_P14s_Gen_7_Intel) | 2026-09-28 |
+| `TK-LENOVO-P16S-G5-AMD` | Lenovo ThinkPad P16s Gen 5 AMD (16") Mobile Workstation | workstation-laptops | $2,169 | starting-at | 2026-09-28 | [link](https://www.lenovo.com/us/en/p/laptops/thinkpad/thinkpadp/lenovo-thinkpad-p16s-gen-5-16-inch-amd-mobile-workstation/len101t0173) | [link](https://psref.lenovo.com/Product/ThinkPad/ThinkPad_P16s_Gen_5_AMD) | 2026-09-28 |
+| `TK-LENOVO-P1-G9` | Lenovo ThinkPad P1 Gen 9 (16" Intel) Mobile Workstation | workstation-laptops | $3,514 | starting-at | 2026-09-28 | [link](https://www.lenovo.com/us/en/p/laptops/thinkpad/thinkpadp/thinkpad-p1-gen-9-16-inch-intel-mobile-workstation/len101t0180) | [link](https://psref.lenovo.com/Product/ThinkPad/ThinkPad_P1_Gen_9) | 2026-09-28 |
+| `TK-LENOVO-P16-G3` | Lenovo ThinkPad P16 Gen 3 (16" Intel) Mobile Workstation | workstation-laptops | $3,220 | starting-at | 2026-09-28 | [link](https://www.lenovo.com/us/en/p/laptops/thinkpad/thinkpadp/lenovo-thinkpad-p16-gen-3-16-inch-intel-mobile-workstation/len101t0147) | [link](https://psref.lenovo.com/Product/ThinkPad/ThinkPad_P16_Gen_3) | 2026-09-28 |
+| `TK-LENOVO-TB14-G9-INTEL` | Lenovo ThinkBook 14 Gen 9 (14" Intel) | business-laptops | $1,194 | starting-at | 2026-09-28 | [link](https://www.lenovo.com/us/en/p/laptops/thinkbook/thinkbook-series/lenovo-thinkbook-14-gen-9-14-inch-intel/len101b0058) | [link](https://psref.lenovo.com/Product/ThinkBook/ThinkBook_14_G9_IRL) | 2026-09-28 |
+| `TK-LENOVO-TB16-G9-INTEL` | Lenovo ThinkBook 16 Gen 9 (16" Intel) | business-laptops | $939 | starting-at | 2026-09-28 | [link](https://www.lenovo.com/us/en/p/laptops/thinkbook/thinkbook-series/lenovo-thinkbook-16-gen-9-16-inch-intel/len101b0059) | [link](https://psref.lenovo.com/Product/ThinkBook/ThinkBook_16_G9_IRL) | 2026-09-28 |
+| `TK-LENOVO-TB14X-INTEL` | Lenovo ThinkBook 14x (14" Intel) | business-laptops | $849 | starting-at | 2026-09-28 | [link](https://www.lenovo.com/us/en/p/laptops/thinkbook/thinkbook-x/thinkbook-14x-14-inch-intel/len101b0066) | [link](https://psref.lenovo.com/Product/ThinkBook/ThinkBook_14x_ILL) | 2026-09-28 |
+| `TK-LENOVO-YOGA-SLIM7X-G11` | Lenovo Yoga Slim 7x Gen 11 (14" Snapdragon) | premium-laptops | $1,829.99 | starting-at | 2026-09-28 | [link](https://www.lenovo.com/us/en/p/laptops/yoga/yoga-slim-series/lenovo-yoga-slim-7x-gen-11-14-inch-snapdragon/len101y0066) | [link](https://psref.lenovo.com/Product/Yoga/Yoga_Slim_7_14Q8Y11) | 2026-09-28 |
+| `TK-LENOVO-YOGA-SLIM7I-ULTRA` | Lenovo Yoga Slim 7i Ultra Aura Edition (14" Intel) | premium-laptops | $2,049.99 | starting-at | 2026-09-28 | [link](https://www.lenovo.com/us/en/p/laptops/yoga/yoga-slim-series/lenovo-yoga-slim-7i-ultra-gen-11-aura-edition-14-inch-intel/len101y0064) | [link](https://psref.lenovo.com/Product/Yoga/Yoga_Slim_7_Ultra_14IPH11) | 2026-09-28 |
+| `TK-LENOVO-SLIM7I-G11` | Lenovo Slim 7i Gen 11 Aura Edition (14" Intel) | premium-laptops | $1,499.99 | starting-at | 2026-09-28 | [link](https://www.lenovo.com/us/en/p/laptops/lenovo/lenovo_slim_series/lenovo-slim-7i-gen-11-aura-edition-14-inch-intel/len101l0068) | [link](https://psref.lenovo.com/Product/Lenovo/Lenovo_Slim_7_14IPH11) | 2026-09-28 |
+| `TK-LENOVO-PRO9I-G11` | Lenovo Pro 9i Gen 11 Aura Edition (16" Intel) | creator-laptops | $2,939.99 | starting-at | 2026-09-28 | [link](https://www.lenovo.com/us/en/p/laptops/yoga/yoga-pro-series/lenovo-pro-9i-gen-11-aura-edition-16-inch-intel/len101l0069) | [link](https://psref.lenovo.com/Product/Lenovo/Lenovo_Pro_9_16IPH11) | 2026-09-28 |
+| `TK-LENOVO-YOGA-PRO7I-G11` | Lenovo Yoga Pro 7i Gen 11 Aura Edition (15" Intel) | creator-laptops | $2,599.99 | starting-at | 2026-09-28 | [link](https://www.lenovo.com/us/en/p/laptops/yoga/yoga-pro-series/lenovo-yoga-pro-7i-gen-11-aura-edition-15-inch-intel/len101y0068) | [link](https://psref.lenovo.com/Product/Yoga/Yoga_Pro_7_15IPH11) | 2026-09-28 |
+| `TK-LENOVO-YOGA-9I-2IN1-G11` | Lenovo Yoga 9i 2-in-1 Gen 11 Aura Edition (14" Intel) | premium-laptops | $2,379.99 | starting-at | 2026-09-28 | [link](https://www.lenovo.com/us/en/p/laptops/yoga/yoga-2-in-1-series/lenovo-yoga-9i-2-in-1-gen-11-aura-edition-14-inch-intel/len101y0074) | [link](https://psref.lenovo.com/Product/Yoga/Yoga_9_2_in_1_14IPH11) | 2026-09-28 |
+| `TK-LENOVO-YOGA-7I-2IN1-G11` | Lenovo Yoga 7i 2-in-1 Gen 11 Aura Edition (14" Intel) | premium-laptops | $1,229.99 | starting-at | 2026-09-28 | [link](https://www.lenovo.com/us/en/p/laptops/yoga/yoga-2-in-1-series/yoga-7i-2-in-1-gen-11-aura-edition-14-inch-intel/len101y0071) | [link](https://psref.lenovo.com/Product/Yoga/Yoga_7_2_in_1_14IPH11) | 2026-09-28 |
+| `TK-LENOVO-IDEAPAD-SLIM5I-16-G11` | Lenovo IdeaPad Slim 5i Gen 11 (16" Intel) | premium-laptops | $1,379.99 | starting-at | 2026-09-28 | [link](https://www.lenovo.com/us/en/p/laptops/ideapad/ideapad-slim-series/lenovo-ideapad-slim-5i-gen-11-16-inch-intel-laptop/len101i0132) | [link](https://psref.lenovo.com/Product/IdeaPad/IdeaPad_Slim_5_16IPH11) | 2026-09-28 |
+| `TK-LENOVO-IDEAPAD-PRO5I-16-G11` | Lenovo IdeaPad Pro 5i Gen 11 (16" Intel) | creator-laptops | $2,749.99 | starting-at | 2026-09-28 | [link](https://www.lenovo.com/us/en/p/laptops/ideapad/ideapad-pro-series/ideapad-pro-5i-gen-11-16-inch-intel/len101i0129) | [link](https://psref.lenovo.com/Product/IdeaPad/IdeaPad_Pro_5_16IPH11) | 2026-09-28 |
+| `TK-LENOVO-IDEAPAD-SLIM5X-15-G11` | Lenovo IdeaPad Slim 5x Gen 11 (15" Snapdragon) | premium-laptops | $969.99 | starting-at | 2026-09-28 | [link](https://www.lenovo.com/us/en/p/laptops/ideapad/ideapad-slim-series/lenovo-ideapad-slim-5x-gen-11-15-inch-snapdragon/len101i0145) | [link](https://psref.lenovo.com/Product/IdeaPad/IdeaPad_Slim_5_15Q8Y11) | 2026-09-28 |
+| `TK-LENOVO-LEGION-PRO7I-G10` | Lenovo Legion Pro 7i Gen 10 (16" Intel) | gaming-laptops | $3,279.99 | starting-at | 2026-09-28 | [link](https://www.lenovo.com/us/en/p/laptops/legion-laptops/legion-pro-series/legion-pro-7i-gen-10-16-inch-intel/len101g0039) | [link](https://psref.lenovo.com/Product/Legion/Legion_Pro_7_16IAX10H) | 2026-09-28 |
+| `TK-LENOVO-LEGION-PRO5I-G10` | Lenovo Legion Pro 5i Gen 10 (16" Intel) | gaming-laptops | $1,799.99 | starting-at | 2026-09-28 | [link](https://www.lenovo.com/us/en/p/laptops/legion-laptops/legion-pro-series/legion-pro-5i-gen-10-16-inch-intel/len101g0040) | [link](https://psref.lenovo.com/Product/Legion/Legion_Pro_5_16IAX10) | 2026-09-28 |
+| `TK-LENOVO-LEGION-7A-G11` | Lenovo Legion 7a Gen 11 (16" AMD) | gaming-laptops | $2,279.99 | starting-at | 2026-09-28 | [link](https://www.lenovo.com/us/en/p/laptops/legion-laptops/legion-7-series/legion-7-gen-11-16-inch-amd/len101g0052) | [link](https://psref.lenovo.com/Product/Legion/Legion_7_16AGP11) | 2026-09-28 |
+| `TK-LENOVO-LEGION-5I-G11` | Lenovo Legion 5i Gen 11 (15" Intel) | gaming-laptops | $1,780.02 | starting-at | 2026-09-28 | [link](https://www.lenovo.com/us/en/p/laptops/legion-laptops/legion-5-series/legion-5i-gen-11-15-inch-intel-laptop/len101g0053) | [link](https://psref.lenovo.com/Product/Legion/Legion_5_15IAX11) | 2026-09-28 |
+| `TK-LENOVO-LEGION-9I-G10` | Lenovo Legion 9i Gen 10 (18" Intel) | gaming-laptops | $3,979.86 | starting-at | 2026-09-28 | [link](https://www.lenovo.com/us/en/p/laptops/legion-laptops/legion-9-series/legion-9i-gen-10-18-inch-intel/len101g0043) | [link](https://psref.lenovo.com/Product/Legion/Legion_9_18IAX10) | 2026-09-28 |
+| `TK-LENOVO-CHROMEBOOK-I-14` | Lenovo Chromebook i (14" Intel) | chromebooks | $469.99 | starting-at | 2026-09-28 | [link](https://www.lenovo.com/us/en/p/laptops/lenovo/lenovo-edu-chromebooks/lenovo-chromebook-plus-i-gen-11-14-inch-intel-laptop/83su0001us) | [link](https://psref.lenovo.com/Product/Lenovo/Lenovo_Chrome_14ITN11) | 2026-09-28 |
+| `TK-LENOVO-LEGION-T7I-G10` | Lenovo Legion Tower 7i Gen 10 | gaming-desktops | $3,249.99 | starting-at | 2026-09-28 | [link](https://www.lenovo.com/us/en/p/desktops/legion-desktops/legion-t-series-towers/legion-tower-7i-gen-10/len102g0010) | [link](https://psref.lenovo.com/Product/Legion/Legion_T7_34IAS10) | 2026-09-28 |
+| `TK-LENOVO-LEGION-T5I-G10` | Lenovo Legion Tower 5i Gen 10 (Intel) | gaming-desktops | $2,889.99 | starting-at | 2026-09-28 | [link](https://www.lenovo.com/us/en/p/desktops/legion-desktops/legion-t-series-towers/lenovo-legion-tower-5i-gen-10-intel/len102g0009) | [link](https://psref.lenovo.com/Product/Legion/Legion_T5_30IAS10) | 2026-09-28 |
+| `TK-LENOVO-LEGION-GO-S` | Lenovo Legion Go S (8" AMD Ryzen Z2 Go) | handhelds | $699.99 | starting-at | 2026-09-28 | [link](https://www.lenovo.com/us/en/p/handheld/legion-go-s/len106g0002) | [link](https://psref.lenovo.com/Product/Legion/Legion_Go_S_8ARP1) | 2026-09-28 |
+| `TK-LENOVO-LEGION-TAB-G5` | Lenovo Legion Tab Gen 5 (8.8" Snapdragon) | tablets | $679.99 | starting-at | 2026-09-28 | [link](https://www.lenovo.com/us/en/p/tablets/android-tablets/legion-tab-series/lenovo-legion-tab-gen-5-8.8-inch-snapdragon/len103g0003) | [link](https://psref.lenovo.com/Product/Lenovo_Tablets/Legion_Tab_8_8_5) | 2026-09-28 |
+| `TK-LENOVO-YOGA-TAB-G2` | Lenovo Yoga Tab Gen 2 (11.1") | tablets | $599.99 | starting-at | 2026-09-28 | [link](https://www.lenovo.com/us/en/p/tablets/android-tablets/yoga-tab-series/lenovo-yoga-tab-gen-2/len103y0003) | same | 2026-09-28 |
+| `TK-LENOVO-TAB-PLUS-G2` | Lenovo Tab Plus Gen 2 (12.1") | tablets | $269.99 | starting-at | 2026-09-28 | [link](https://www.lenovo.com/us/en/p/tablets/android-tablets/lenovo-tab-series/lenovo-tab-plus-gen-2-12.1-inch-mediatek/zaht0078us) | [link](https://psref.lenovo.com/Product/Lenovo_Tablets/Tab_Plus_Gen_2) | 2026-09-28 |
+| `TK-LENOVO-IDEA-TAB-PRO-G2` | Lenovo Idea Tab Pro Gen 2 (13") | tablets | $419.99 | starting-at | 2026-09-28 | [link](https://www.lenovo.com/us/en/p/tablets/android-tablets/idea-tab-series/lenovo-idea-tab-pro-gen-2/len103l0036) | [link](https://psref.lenovo.com/Product/Lenovo_Tablets/Idea_Tab_Pro_Gen_2) | 2026-09-28 |
+| `TK-LENOVO-LEGION-PRO-32UD-10` | Lenovo Legion Pro 32UD-10 32" 4K OLED 240Hz Gaming Monitor | gaming-monitors | $799.99 | starting-at | 2026-09-28 | [link](https://www.lenovo.com/us/en/p/accessories-and-software/monitors/gaming/69d0gacbus) | same | 2026-09-28 |
+| `TK-LENOVO-LEGION-PRO-27UD-10` | Lenovo Legion Pro 27UD-10 27" 4K OLED 240Hz Gaming Monitor | gaming-monitors | $699.99 | starting-at | 2026-09-28 | [link](https://www.lenovo.com/us/en/p/accessories-and-software/monitors/gaming/68cegacbus) | same | 2026-09-28 |
+| `TK-LENOVO-LEGION-PRO-27Q-10` | Lenovo Legion Pro 27Q-10 27" QHD OLED 280Hz Gaming Monitor | gaming-monitors | $499.99 | starting-at | 2026-09-28 | [link](https://www.lenovo.com/us/en/p/accessories-and-software/monitors/gaming/68cfgacbus) | same | 2026-09-28 |
+| `TK-LENOVO-LEGION-PRO-34WD-10` | Lenovo Legion Pro 34WD-10 34" Curved OLED 240Hz Gaming Monitor | ultrawide-monitors | $859.99 | starting-at | 2026-09-28 | [link](https://www.lenovo.com/us/en/p/accessories-and-software/monitors/gaming/67c9uac1us) | same | 2026-09-28 |
+| `TK-LENOVO-YOGA-PRO-27UD-10` | Lenovo Yoga Pro 27UD-10 27" 4K OLED Creator Monitor | professional-monitors | $1,279.99 | starting-at | 2026-09-28 | [link](https://www.lenovo.com/us/en/p/accessories-and-software/monitors/home/67e5rac2us) | same | 2026-09-28 |
+| `TK-LENOVO-TV-P34WD-40` | Lenovo ThinkVision P34WD-40 34" WQHD Curved USB-C Docking Monitor | ultrawide-monitors | $549 | starting-at | 2026-09-28 | [link](https://www.lenovo.com/us/en/p/accessories-and-software/monitors/professional/64adgar1uz) | [link](https://psref.lenovo.com/Product/ThinkVision/ThinkVision_P34WD_40) | 2026-09-28 |
+| `TK-LENOVO-TV-P24QD-40` | Lenovo ThinkVision P24QD-40 24" QHD 120Hz USB-C Monitor | office-monitors | $427 | starting-at | 2026-09-28 | [link](https://www.lenovo.com/us/en/p/accessories-and-software/monitors/professional/64b1gar1uz) | [link](https://psref.lenovo.com/Product/ThinkVision/ThinkVision_P24QD_40) | 2026-09-28 |
 
 ## net-enterprise (52)
 
@@ -641,7 +701,7 @@ Homelab servers, mini PCs, firewall appliances, NICs, optics and Ethernet adapte
 | `TK-SONNET-SOLO25G-USB` | Sonnet Solo2.5G USB-C to 2.5 Gigabit Ethernet Adapter | network-adapters | $29.99 | msrp | 2026-09-28 | [link](https://www.sonnetstore.com/products/solo25g-usb-adapter) | same | 2026-09-28 |
 | `TK-PROTECTLI-VP6650` | Protectli Vault Pro VP6650 | firewalls | $749 | starting-at | 2026-09-28 | [link](https://protectli.com/product/vp6650/) | same | 2026-09-28 |
 
-## net-rack-servers-storage (40)
+## net-rack-servers-storage (49)
 
 Rack/tower servers, rackmount NAS, SAN arrays, NAS/enterprise HDDs and enterprise SSDs for homelab and small data-center racks (net-rack-servers-storage). Researched 2026-09-28 from official manufacturer sites (synology.com, qnap.com, asustor.com, truenas.com, dell.com, seagate.com, westerndigital.com, toshiba-storage.com, solidigm.com, americas.kioxia.com, micron.com, lenovopress.lenovo.com, hpe.com search-indexed text). Quote-only enterprise items use priceBasis=estimate. Gigabyte (gigabyte.com) and ASRock Rack (Incapsula) blocked automated access, so no products were added for them.
 
@@ -687,8 +747,17 @@ Rack/tower servers, rackmount NAS, SAN arrays, NAS/enterprise HDDs and enterpris
 | `TK-LENOVO-ST50V3` | Lenovo ThinkSystem ST50 V3 | tower-servers | $1,299 | estimate |  | [link](https://lenovopress.lenovo.com/lp1907-thinksystem-st50-v3-server) | [link](https://lenovopress.lenovo.com/lp1907-thinksystem-st50-v3-server#technical-specifications) | 2026-09-28 |
 | `TK-LENOVO-ST250V3` | Lenovo ThinkSystem ST250 V3 | tower-servers | $2,299 | estimate |  | [link](https://lenovopress.lenovo.com/lp1803-thinksystem-st250-v3-server) | [link](https://lenovopress.lenovo.com/lp1803-thinksystem-st250-v3-server#technical-specifications) | 2026-09-28 |
 | `TK-LENOVO-ST650V3` | Lenovo ThinkSystem ST650 V3 | tower-servers | $6,999 | estimate |  | [link](https://lenovopress.lenovo.com/lp1604-thinksystem-st650-v3-server) | [link](https://lenovopress.lenovo.com/lp1604-thinksystem-st650-v3-server#technical-specifications) | 2026-09-28 |
+| `TK-TRUENAS-MINIX` | TrueNAS Mini X | nas | $1,199 | estimate |  | [link](https://www.truenas.com/truenas-mini/) | [link](https://www.truenas.com/truenas-mini/#specifications) | 2026-09-28 |
+| `TK-TOSHIBA-MG11-24TB` | Toshiba MG11 24 TB Enterprise Capacity Hard Drive | hard-drives | $649 | estimate |  | [link](https://www.toshiba-storage.com/products/enterprise-capacity-hard-drive-mg-series/) | same | 2026-09-28 |
+| `TK-TOSHIBA-N300-22TB` | Toshiba N300 22 TB NAS Hard Drive | hard-drives | $499 | estimate |  | [link](https://www.toshiba-storage.com/products/toshiba-internal-hard-drives-n300/) | same | 2026-09-28 |
+| `TK-SOLIDIGM-PS1010-7T68` | Solidigm D7-PS1010 7.68 TB PCIe 5.0 Data Center SSD | enterprise-ssds | $1,799 | estimate |  | [link](https://www.solidigm.com/products/data-center/d7/ps1010.html) | [link](https://www.solidigm.com/content/dam/solidigm/en/site/products/data-center/product-briefs/ps1010-ps1030/solidigm-d7-ps1010-d7-ps1030-product-brief.pdf) | 2026-09-28 |
+| `TK-SOLIDIGM-P5520-3T84` | Solidigm D7-P5520 3.84 TB PCIe 4.0 Data Center SSD | enterprise-ssds | $699 | estimate |  | [link](https://www.solidigm.com/products/data-center/d7/p5520.html) | [link](https://www.solidigm.com/content/dam/solidigm/en/site/products/data-center/d7/p5520/documents/P5520-P5620-Product-Brief.pdf) | 2026-09-28 |
+| `TK-SOLIDIGM-S4520-3T84` | Solidigm D3-S4520 3.84 TB SATA Data Center SSD | enterprise-ssds | $649 | estimate |  | [link](https://www.solidigm.com/products/data-center/d3/s4520.html) | [link](https://www.solidigm.com/content/dam/solidigm/en/site/products/data-center/d3/s4520/documents/d3-s4520-series-product-brief.pdf) | 2026-09-28 |
+| `TK-KIOXIA-CD9PR-7T68` | KIOXIA CD9P-R 7.68 TB PCIe 5.0 Data Center SSD | enterprise-ssds | $1,699 | estimate |  | [link](https://americas.kioxia.com/en-us/business/ssd/data-center-ssd/cd9p-r.html) | same | 2026-09-28 |
+| `TK-MICRON-7600PRO-7T68` | Micron 7600 PRO 7.68 TB PCIe Gen5 Data Center SSD | enterprise-ssds | $1,499 | estimate |  | [link](https://www.micron.com/products/storage/ssd/data-center-ssd/7600-ssd) | [link](https://www.micron.com/content/dam/micron/global/public/products/storage/ssds/data-center/7600/7600-nvme-ssd-product-brief.pdf) | 2026-09-28 |
+| `TK-MICRON-5400PRO-3T84` | Micron 5400 PRO 3.84 TB SATA Data Center SSD | enterprise-ssds | $599 | estimate |  | [link](https://www.micron.com/products/storage/ssd/data-center-ssd/5400-sata-ssd) | [link](https://assets.micron.com/adobe/assets/urn:aaid:aem:0eed6388-5671-428a-9231-6e83459c86ea/renditions/original/as/5400-product-brief.pdf) | 2026-09-28 |
 
-## net-racks-cabling (50)
+## net-racks-cabling (51)
 
 Networking racks, cabling, patch panels, rack PDUs, rackmount UPS, KVM and network tools (net-racks-cabling agent). Researched 2026-09-28 from official manufacturer pages: startech.com, cyberpowersystems.com, se.com (APC, read via WebFetch; images from download.se.com), vertiv.com, legrandav.com (Middle Atlantic), navepoint.com, sysracks.com, cablematters.com, store.leviton.com, panduit.com, kleintools.com, flukenetworks.com. Tripp Lite/Eaton (tripplite.eaton.com and eaton.com timed out / expired certificate) and Monoprice (HTTP 403) could not be reached, so none are included. NETSCOUT handheld testers are now sold by NetAlly and Ideal Networks' site was unreachable, so neither is included. Lifetime-warranty items omit the numeric warranty field. Prices marked 'estimate' are where the maker publishes no US price.
 
@@ -744,6 +813,7 @@ Networking racks, cabling, patch panels, rack PDUs, rackmount UPS, KVM and netwo
 | `TK-FLUKENET-LINKIQ-LIQ100` | Fluke Networks LinkIQ Cable+Network Tester (LIQ-100) | network-tools | $1,995 | estimate |  | [link](https://www.flukenetworks.com/enterprise-network/network-testing/linkiq-cable-and-network-tester) | [link](https://www.flukenetworks.com/edocs/linkiqtm-cablenetwork-tester) | 2026-09-28 |
 | `TK-FLUKENET-DSX-8000` | Fluke Networks Versiv DSX-8000 CableAnalyzer Certifier Kit | network-tools | $24,500 | estimate |  | [link](https://www.flukenetworks.com/datacom-cabling/Versiv/dsx-cableanalyzer-series) | same | 2026-09-28 |
 | `TK-FLUKENET-MS-POE-KIT` | Fluke Networks MicroScanner PoE Cable Verifier Kit (MS-POE-KIT) | network-tools | $1,350 | estimate |  | [link](https://www.flukenetworks.com/edocs/datasheet-the-microscanner-series) | same | 2026-09-28 |
+| `TK-SYSRACKS-SRW-12-600-G` | Sysracks 12U 24 in Deep Wall-Mount Enclosure (SRW 12.600 G) | racks-infrastructure | $262.50 | msrp | 2026-09-28 | [link](https://www.sysracks.com/product/12u-24-depth-24x24x245-wall-mount-19-enclosure-sysracks-srw-12-600-g/) | same | 2026-09-28 |
 
 ## net-ubiquiti-mikrotik (66)
 
@@ -818,7 +888,7 @@ Ubiquiti (UniFi switches, access points, gateways, consoles, power, racks, cabli
 | `TK-GLINET-COMET-PRO-RM10` | GL.iNet Comet Pro (GL-RM10) Remote KVM | network-tools | $179.99 | msrp | 2026-09-28 | [link](https://www.gl-inet.com/products/gl-rm10) | same | 2026-09-28 |
 | `TK-GLINET-COMET-RM1` | GL.iNet Comet (GL-RM1) Remote KVM | network-tools | $99.99 | msrp | 2026-09-28 | [link](https://www.gl-inet.com/products/gl-rm1) | same | 2026-09-28 |
 
-## networking (43)
+## networking (46)
 
 Networking catalog: gateways/routers, firewalls, managed and unmanaged switches, Wi-Fi 7 access points, mesh Wi-Fi, optics and DAC/patch cables from Ubiquiti, Cisco, TP-Link, Netgear, MikroTik, Fortinet, SonicWall, Netgate, FS and others. Researched 2026-09-28 from official manufacturer sites/stores only. Ubiquiti prices are UI Store US base list prices; the UI Store currently adds a separately itemized memory surcharge (~8%) at checkout, recorded in priceNote. Products with no official US list price use priceBasis=estimate and say so in notes.
 
@@ -867,6 +937,9 @@ Networking catalog: gateways/routers, firewalls, managed and unmanaged switches,
 | `TK-SONICWALL-TZ680` | SonicWall TZ680 Gen 8 Next-Generation Firewall | firewalls | $1,995 | estimate |  | [link](https://www.sonicwall.com/products/firewalls/entry-level) | [link](https://assets-cms.sonicwall.com/v3/assets/blt281ecbfc2563bf9b/bltfceea0a5f8cce06e/6a0db8a8e87c5601f98dfaf4/Gen_8_TZ_Series_Datasheet.pdf) | 2026-09-28 |
 | `TK-SONICWALL-TZ480` | SonicWall TZ480 Gen 8 Next-Generation Firewall | firewalls | $1,095 | estimate |  | [link](https://www.sonicwall.com/products/firewalls/entry-level) | [link](https://assets-cms.sonicwall.com/v3/assets/blt281ecbfc2563bf9b/bltfceea0a5f8cce06e/6a0db8a8e87c5601f98dfaf4/Gen_8_TZ_Series_Datasheet.pdf) | 2026-09-28 |
 | `TK-RUCKUS-R770` | RUCKUS R770 Wi-Fi 7 Indoor Access Point | access-points | $1,695 | estimate |  | [link](https://www.ruckusnetworks.com/products/wireless-access-points/r770/) | same | 2026-09-28 |
+| `TK-NETGEAR-RBE973S` | NETGEAR Orbi 970 Series Quad-Band WiFi 7 Mesh System (3-Pack) | mesh-wifi | $1,999.99 | msrp | 2026-09-28 | [link](https://www.netgear.com/home/wifi/mesh/rbe973s/) | same | 2026-09-28 |
+| `TK-CISCO-SFW-1220CX` | Cisco Secure Firewall 1220CX | firewalls | $1,995 | estimate |  | [link](https://www.cisco.com/c/en/us/products/collateral/security/firewalls/secure-firewall-1200-series-ds.html) | same | 2026-09-28 |
+| `TK-CISCO-CW9172I` | Cisco Wireless CW9172I Wi-Fi 7 Access Point | access-points | $895 | estimate |  | [link](https://www.cisco.com/site/us/en/products/networking/wireless/access-points/meraki-access-points/cw9172i.html) | [link](https://www.cisco.com/c/en/us/products/collateral/wireless/catalyst-9100ax-access-points/wireless-9172-series-access-points-ds.html) | 2026-09-28 |
 
 ## peripherals (39)
 
@@ -1038,7 +1111,7 @@ Samsung current official US lineup (phones, foldables, tablets, wearables, Galax
 | `TK-SAMSUNG-THE-FRAME-PRO-LS03HW` | Samsung The Frame Pro LS03HW Neo QLED 4K Art TV (2026) | led-tvs | $1,499.99 | starting-at | 2026-09-28 | [link](https://www.samsung.com/us/lifestyle-tvs/the-frame/55-inch-the-frame-pro-neo-qled-4k-tv-ls03hw-sku-qn55ls03hwfxza/) | [link](https://www.samsung.com/us/lifestyle-tvs/the-frame/55-inch-the-frame-pro-neo-qled-4k-tv-ls03hw-sku-qn55ls03hwfxza/) | 2026-09-28 |
 | `TK-SAMSUNG-THE-FRAME-LS03HE` | Samsung The Frame LS03HE QLED 4K Art TV (2026) | led-tvs | $1,199.99 | starting-at | 2026-09-28 | [link](https://www.samsung.com/us/lifestyle-tvs/the-frame/55-inch-the-frame-qled-4k-tv-ls03he-sku-qn55ls03hefxza/) | [link](https://www.samsung.com/us/lifestyle-tvs/the-frame/55-inch-the-frame-qled-4k-tv-ls03he-sku-qn55ls03hefxza/) | 2026-09-28 |
 
-## servers-nas-power (45)
+## servers-nas-power (48)
 
 Servers, NAS, UPS/power, racks/PDU/KVM and homelab mini PCs. Researched 2026-09-28 from official manufacturer sites and official manufacturer web stores. Enterprise and quote-only items (Supermicro, Synology, ASUSTOR and others without an official US store price) use priceBasis=estimate; see each record's notes.
 
@@ -1089,8 +1162,11 @@ Servers, NAS, UPS/power, racks/PDU/KVM and homelab mini PCs. Researched 2026-09-
 | `TK-BEELINK-SER10MAX` | Beelink SER10 MAX | mini-pcs | $1,399 | starting-at | 2026-09-28 | [link](https://www.bee-link.com/products/beelink-ser10-max-amd-pro-ryzen-ai-9-hx-470) | same | 2026-09-28 |
 | `TK-BEELINK-GTR9PRO` | Beelink GTR9 Pro | mini-pcs | $4,349 | msrp | 2026-09-28 | [link](https://www.bee-link.com/products/beelink-gtr9-pro-amd-ryzen-ai-max-395) | same | 2026-09-28 |
 | `TK-RASPBERRYPI-PI5-16GB` | Raspberry Pi 5 (16GB) | mini-pcs | $305 | msrp | 2026-09-28 | [link](https://www.raspberrypi.com/products/raspberry-pi-5/) | [link](https://www.raspberrypi.com/products/raspberry-pi-5/) | 2026-09-28 |
+| `TK-APC-SRT3000RMXLA` | APC Smart-UPS On-Line SRT 3000VA 2U (SRT3000RMXLA) | ups | $2,899 | estimate |  | [link](https://www.se.com/us/en/product/SRT3000RMXLA/) | same | 2026-09-28 |
+| `TK-APC-SRTL5KRM2UT` | APC Smart-UPS Ultra On-Line 5kVA Lithium-ion (SRTL5KRM2UT) | ups | $6,999 | estimate |  | [link](https://www.se.com/us/en/product/SRTL5KRM2UT/) | same | 2026-09-28 |
+| `TK-APC-AR3100B2` | APC NetShelter SX Gen 2 42U Server Rack (AR3100B2) | racks-infrastructure | $2,399 | estimate |  | [link](https://www.se.com/us/en/product/AR3100B2/) | same | 2026-09-28 |
 
-## silicon (52)
+## silicon (53)
 
 NVIDIA, AMD and Intel own-branded silicon (GPUs, CPUs, server CPUs, AI accelerators/systems, NICs). Researched 2026-09-28 from nvidia.com, nvidianews.nvidia.com, blogs.nvidia.com, amd.com, shop-us-en.amd.com (AMD Direct), ir.amd.com and intel.com (ARK, newsroom). Enterprise items (DGX, Instinct, RTX PRO, Gaudi) have no public list price and use estimates. NVIDIA product imagery on nvidia.com is all on dark backgrounds, so NVIDIA records have no image.
 
@@ -1148,6 +1224,7 @@ NVIDIA, AMD and Intel own-branded silicon (GPUs, CPUs, server CPUs, AI accelerat
 | `TK-INTEL-ARC-PRO-B70` | Intel Arc Pro B70 32 GB | gpus | $949 | starting-at | 2026-09-28 | [link](https://www.intel.com/content/www/us/en/products/details/discrete-gpus/arc/workstations/b-series.html) | [link](https://www.intel.com/content/www/us/en/products/sku/245797/intel-arc-pro-b70-graphics/specifications.html) | 2026-09-28 |
 | `TK-INTEL-ARC-PRO-B60` | Intel Arc Pro B60 24 GB | gpus | $649 | estimate |  | [link](https://www.intel.com/content/www/us/en/products/details/discrete-gpus/arc/workstations/b-series.html) | [link](https://www.intel.com/content/www/us/en/products/sku/243916/intel-arc-pro-b60-graphics/specifications.html) | 2026-09-28 |
 | `TK-INTEL-ARC-PRO-B50` | Intel Arc Pro B50 16 GB | gpus | $349 | estimate |  | [link](https://www.intel.com/content/www/us/en/products/details/discrete-gpus/arc/workstations/b-series.html) | [link](https://www.intel.com/content/www/us/en/products/sku/242615/intel-arc-pro-b50-graphics/specifications.html) | 2026-09-28 |
+| `TK-INTEL-E610-XT2` | Intel Ethernet Network Adapter E610-XT2 | network-adapters | $270 | msrp | 2026-09-28 | [link](https://www.intel.com/content/www/us/en/products/sku/237052/intel-ethernet-network-adapter-e610xt2/specifications.html) | same | 2026-09-28 |
 
 ## smarthome-printers (42)
 
@@ -1198,7 +1275,7 @@ Smart home (Amazon Echo/Ring/Blink/eero, ecobee, Philips Hue, Nanoleaf, LIFX, Ar
 | `TK-AQARA-CAMHUBG350` | Aqara Camera Hub G350 | home-cameras-doorbells | $139.99 | msrp | 2026-09-28 | [link](https://us.aqara.com/products/camera-hub-g350) | same | 2026-09-28 |
 | `TK-AQARA-DOORBELLG410` | Aqara Doorbell Camera Hub G410 | home-cameras-doorbells | $144.99 | msrp | 2026-09-28 | [link](https://us.aqara.com/products/video-doorbell-g410) | same | 2026-09-28 |
 
-## sony-gaming-tv (45)
+## sony-gaming-tv (47)
 
 Sony (PlayStation, BRAVIA, audio, Alpha/ZV cameras and G Master lenses), Nintendo, Valve, Meta Quest, TCL, Hisense and gaming controller brands. Researched 2026-09-28 from official manufacturer sites/stores (direct.playstation.com API, nintendo.com store data, Steam store API, meta.com, electronics.sony.com, tcl.com, hisense-usa.com). Prices are the manufacturer's own US store prices on that date unless priceBasis is estimate.
 
@@ -1249,5 +1326,7 @@ Sony (PlayStation, BRAVIA, audio, Alpha/ZV cameras and G Master lenses), Nintend
 | `TK-8BITDO-ULTIMATE-2-BT` | 8BitDo Ultimate 2 Bluetooth Controller | controllers | $69.99 | msrp | 2026-09-28 | [link](https://www.8bitdo.com/ultimate-2-bluetooth-controller/) | same | 2026-09-28 |
 | `TK-8BITDO-PRO-3` | 8BitDo Pro 3 Bluetooth Gamepad | controllers | $69.99 | msrp | 2026-09-28 | [link](https://www.8bitdo.com/pro3/) | same | 2026-09-28 |
 | `TK-8BITDO-ULTIMATE-3E-XBOX` | 8BitDo Ultimate 3E Controller for Xbox | controllers | $149.99 | msrp | 2026-09-28 | [link](https://www.8bitdo.com/ultimate-3e-controller-xbox/) | same | 2026-09-28 |
+| `TK-META-QUEST-3S` | Meta Quest 3S | vr | $349.99 | starting-at | 2026-09-28 | [link](https://www.meta.com/quest/quest-3s/) | [link](https://www.meta.com/quest/compare/) | 2026-09-28 |
+| `TK-SONY-BRAVIA7-II` | Sony BRAVIA 7 II True RGB 4K HDR Google TV (2026) | led-tvs | $2,599.99 | starting-at | 2026-09-28 | [link](https://electronics.sony.com/tv-video/televisions/all-tvs/p/k65xr70m2) | same | 2026-09-28 |
 
 SKUs beginning `TK-` are TrustKart identifiers, not manufacturer part numbers.

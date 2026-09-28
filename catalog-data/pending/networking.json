@@ -4,38 +4,6 @@
  },
  "products": [
   {
-   "sku": "TK-NETGEAR-RBE973S",
-   "slug": "netgear-orbi-970-wifi-7-mesh-system-3-pack",
-   "name": "NETGEAR Orbi 970 Series Quad-Band WiFi 7 Mesh System (3-Pack)",
-   "brand": "NETGEAR",
-   "category": "mesh-wifi",
-   "price": "1999.99",
-   "priceBasis": "msrp",
-   "priceSource": "https://www.netgear.com/home/wifi/mesh/rbe973s/",
-   "priceAsOf": "2026-09-28",
-   "summary": "BE27000 quad-band Wi-Fi 7 mesh system (router + 2 satellites) with a 10 Gig internet port and up to 10,000 sq ft of coverage.",
-   "description": "The Orbi 970 3-Pack (RBE973S) pairs one RBE971 router with two RBE970 satellites for BE27000 quad-band Wi-Fi 7 with NETGEAR's Enhanced Dedicated Backhaul. The router has a 10 Gig internet port, a 10 Gbps LAN port and four 2.5 Gbps LAN ports; each satellite has one 10 Gbps and two 2.5 Gbps ports. NETGEAR rates the system for up to 10,000 sq ft and 200 devices.",
-   "keywords": "orbi 970 rbe973s wifi 7 mesh quad band 10 gig netgear",
-   "specs": {
-    "ports": "Router: 1x 10G WAN, 1x 10G LAN, 4x 2.5G LAN; each satellite: 1x 10G, 2x 2.5G",
-    "maxSpeedGbps": 10,
-    "managed": false,
-    "rackMountable": false,
-    "wifiStandard": "Wi-Fi 7 (802.11be) BE27000 quad-band",
-    "nodes": 3
-   },
-   "collections": [
-    "homelab-starter"
-   ],
-   "warranty": 12,
-   "priceNote": "netgear.com price for the 3-pack; 2-pack $1,499.99; router alone $599.99 (on sale from $799.99).",
-   "notes": "NETGEAR's official product images are only served at ~780 px on a padded canvas (too small after trimming), so the image is omitted.",
-   "sources": {
-    "product": "https://www.netgear.com/home/wifi/mesh/rbe973s/",
-    "retrievedAt": "2026-09-28"
-   }
-  },
-  {
    "sku": "TK-FORTINET-FG90G",
    "slug": "fortinet-fortigate-90g",
    "name": "Fortinet FortiGate 90G Next-Generation Firewall",
@@ -62,65 +30,6 @@
    "sources": {
     "product": "https://www.fortinet.com/products/next-generation-firewall/entry-level",
     "specs": "https://www.fortinet.com/content/dam/fortinet/assets/data-sheets/pdf/fortigate-fortiwifi-90g-series.pdf",
-    "retrievedAt": "2026-09-28"
-   }
-  },
-  {
-   "sku": "TK-CISCO-SFW-1220CX",
-   "slug": "cisco-secure-firewall-1220cx",
-   "name": "Cisco Secure Firewall 1220CX",
-   "brand": "Cisco",
-   "category": "firewalls",
-   "price": "1995.00",
-   "priceBasis": "estimate",
-   "summary": "Compact Cisco Secure Firewall with 8x 1GbE and 2x 10G SFP+ ports, 9 Gbps firewall and 9 Gbps IPS throughput.",
-   "description": "The Secure Firewall 1220CX is a compact desktop model in Cisco's Secure Firewall 1200 Series for branch offices and small businesses. Cisco's datasheet lists eight 1000BASE-T ports plus two 1/10 Gbps SFP+ ports, 9.0 Gbps firewall throughput and 9.0 Gbps IPS/threat throughput.",
-   "keywords": "cisco secure firewall 1220cx 1200 series ftd asa branch",
-   "specs": {
-    "ports": "8x 1GbE RJ45, 2x 1/10G SFP+",
-    "maxSpeedGbps": 10,
-    "managed": true,
-    "rackMountable": false,
-    "firewallThroughputGbps": 9
-   },
-   "collections": [
-    "security-lab",
-    "small-business"
-   ],
-   "warranty": 12,
-   "notes": "No manufacturer US list price is published (sold through partners/quote only); price is a TrustKart estimate. cisco.com blocks automated image downloads, so no image is included.",
-   "sources": {
-    "product": "https://www.cisco.com/c/en/us/products/collateral/security/firewalls/secure-firewall-1200-series-ds.html",
-    "retrievedAt": "2026-09-28"
-   }
-  },
-  {
-   "sku": "TK-CISCO-CW9172I",
-   "slug": "cisco-wireless-cw9172i-wifi-7-access-point",
-   "name": "Cisco Wireless CW9172I Wi-Fi 7 Access Point",
-   "brand": "Cisco",
-   "category": "access-points",
-   "price": "895.00",
-   "priceBasis": "estimate",
-   "summary": "Indoor tri-radio Wi-Fi 7 access point with up to 9 Gbps PHY rate and a 2.5G multigigabit uplink.",
-   "description": "The Cisco Wireless 9172I is an entry indoor Wi-Fi 7 access point with 2x2 radios on 2.4, 5 and 6 GHz (or 2x2 2.4 GHz plus 4x4 5 GHz), PHY rates up to 9 Gbps and a 100M/1G/2.5G multigigabit RJ-45 uplink. It runs on 802.3bt Class 5 (32 W), with reduced operation on 802.3at or 802.3af PoE, and is also offered as a Meraki-managed model.",
-   "keywords": "cisco cw9172i wifi 7 meraki catalyst access point",
-   "specs": {
-    "ports": "1x 2.5G multigigabit RJ45 (PoE in)",
-    "maxSpeedGbps": 2.5,
-    "managed": true,
-    "rackMountable": false,
-    "wifiStandard": "Wi-Fi 7 (802.11be) tri-radio 2.4/5/6 GHz, 2x2"
-   },
-   "collections": [
-    "enterprise-lab",
-    "small-business"
-   ],
-   "warranty": 12,
-   "notes": "No manufacturer US list price is published (sold through partners/quote only); price is a TrustKart estimate. Licensing (Meraki or Cisco Networking subscription) is extra. cisco.com blocks automated image downloads, so no image is included.",
-   "sources": {
-    "product": "https://www.cisco.com/site/us/en/products/networking/wireless/access-points/meraki-access-points/cw9172i.html",
-    "specs": "https://www.cisco.com/c/en/us/products/collateral/wireless/catalyst-9100ax-access-points/wireless-9172-series-access-points-ds.html",
     "retrievedAt": "2026-09-28"
    }
   }

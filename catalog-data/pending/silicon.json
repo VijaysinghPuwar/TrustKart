@@ -129,37 +129,6 @@
     "retrievedAt": "2026-09-28"
    },
    "priceAsOf": "2026-09-28"
-  },
-  {
-   "sku": "TK-INTEL-E610-XT2",
-   "slug": "intel-ethernet-e610-xt2",
-   "name": "Intel Ethernet Network Adapter E610-XT2",
-   "brand": "Intel",
-   "category": "network-adapters",
-   "price": "270.00",
-   "priceBasis": "msrp",
-   "priceSource": "https://www.intel.com/content/www/us/en/products/sku/237052/intel-ethernet-network-adapter-e610xt2/specifications.html",
-   "priceNote": "Intel ARK Recommended Customer Price. (lower bound of the $270-$281 range).",
-   "releaseYear": 2025,
-   "summary": "Dual-port 10GBASE-T RJ45 adapter supporting 10/5/2.5/1GbE on the Intel E610 controller.",
-   "description": "The E610-XT2 is a dual-port Intel Ethernet adapter using the E610-XAT2 controller, with RJ45 copper ports that run at 10GbE, 5GbE, 2.5GbE or 1GbE.",
-   "keywords": "intel e610 xt2 10gbe rj45 10gbase-t nic multi-gig",
-   "specs": {
-    "ports": "2x RJ45 (10/5/2.5/1GbE)",
-    "maxSpeedGbps": 10,
-    "managed": false,
-    "rackMountable": false,
-    "interface": "PCIe"
-   },
-   "collections": [
-    "homelab-essentials",
-    "small-business"
-   ],
-   "sources": {
-    "product": "https://www.intel.com/content/www/us/en/products/sku/237052/intel-ethernet-network-adapter-e610xt2/specifications.html",
-    "retrievedAt": "2026-09-28"
-   },
-   "priceAsOf": "2026-09-28"
   }
  ]
 }

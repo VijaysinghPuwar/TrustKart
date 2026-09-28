@@ -1369,6 +1369,104 @@
     "wifiDetails": "Wi-Fi 7 (802.11be) tri-radio 2.4/5/6 GHz"
    },
    "options": []
+  },
+  {
+   "sku": "TK-NETGEAR-RBE973S",
+   "slug": "netgear-orbi-970-wifi-7-mesh-system-3-pack",
+   "name": "NETGEAR Orbi 970 Series Quad-Band WiFi 7 Mesh System (3-Pack)",
+   "brand": "NETGEAR",
+   "category": "mesh-wifi",
+   "price": "1999.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    9,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "homelab-starter"
+   ],
+   "summary": "BE27000 quad-band Wi-Fi 7 mesh system (router + 2 satellites) with a 10 Gig internet port and up to 10,000 sq ft of coverage.",
+   "description": "The Orbi 970 3-Pack (RBE973S) pairs one RBE971 router with two RBE970 satellites for BE27000 quad-band Wi-Fi 7 with NETGEAR's Enhanced Dedicated Backhaul. The router has a 10 Gig internet port, a 10 Gbps LAN port and four 2.5 Gbps LAN ports; each satellite has one 10 Gbps and two 2.5 Gbps ports. NETGEAR rates the system for up to 10,000 sq ft and 200 devices.",
+   "keywords": "orbi 970 rbe973s wifi 7 mesh quad band 10 gig netgear",
+   "specs": {
+    "ports": "Router: 1x 10G WAN, 1x 10G LAN, 4x 2.5G LAN; each satellite: 1x 10G, 2x 2.5G",
+    "maxSpeedGbps": 10,
+    "managed": false,
+    "rackMountable": false,
+    "wifiStandard": "Wi-Fi 7",
+    "nodes": 3,
+    "wifiDetails": "Wi-Fi 7 (802.11be) BE27000 quad-band"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-CISCO-SFW-1220CX",
+   "slug": "cisco-secure-firewall-1220cx",
+   "name": "Cisco Secure Firewall 1220CX",
+   "brand": "Cisco",
+   "category": "firewalls",
+   "price": "1995.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    28,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "security-lab",
+    "small-business"
+   ],
+   "summary": "Compact Cisco Secure Firewall with 8x 1GbE and 2x 10G SFP+ ports, 9 Gbps firewall and 9 Gbps IPS throughput.",
+   "description": "The Secure Firewall 1220CX is a compact desktop model in Cisco's Secure Firewall 1200 Series for branch offices and small businesses. Cisco's datasheet lists eight 1000BASE-T ports plus two 1/10 Gbps SFP+ ports, 9.0 Gbps firewall throughput and 9.0 Gbps IPS/threat throughput.",
+   "keywords": "cisco secure firewall 1220cx 1200 series ftd asa branch",
+   "specs": {
+    "ports": "8x 1GbE RJ45, 2x 1/10G SFP+",
+    "maxSpeedGbps": 10,
+    "managed": true,
+    "rackMountable": false,
+    "firewallThroughputGbps": 9
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-CISCO-CW9172I",
+   "slug": "cisco-wireless-cw9172i-wifi-7-access-point",
+   "name": "Cisco Wireless CW9172I Wi-Fi 7 Access Point",
+   "brand": "Cisco",
+   "category": "access-points",
+   "price": "895.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    9,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "enterprise-lab",
+    "small-business"
+   ],
+   "summary": "Indoor tri-radio Wi-Fi 7 access point with up to 9 Gbps PHY rate and a 2.5G multigigabit uplink.",
+   "description": "The Cisco Wireless 9172I is an entry indoor Wi-Fi 7 access point with 2x2 radios on 2.4, 5 and 6 GHz (or 2x2 2.4 GHz plus 4x4 5 GHz), PHY rates up to 9 Gbps and a 100M/1G/2.5G multigigabit RJ-45 uplink. It runs on 802.3bt Class 5 (32 W), with reduced operation on 802.3at or 802.3af PoE, and is also offered as a Meraki-managed model.",
+   "keywords": "cisco cw9172i wifi 7 meraki catalyst access point",
+   "specs": {
+    "ports": "1x 2.5G multigigabit RJ45 (PoE in)",
+    "maxSpeedGbps": 2.5,
+    "managed": true,
+    "rackMountable": false,
+    "wifiStandard": "Wi-Fi 7",
+    "wifiDetails": "Wi-Fi 7 (802.11be) tri-radio 2.4/5/6 GHz, 2x2"
+   },
+   "options": []
   }
  ]
 }
