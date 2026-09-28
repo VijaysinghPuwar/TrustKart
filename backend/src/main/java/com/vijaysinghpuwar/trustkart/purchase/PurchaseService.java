@@ -161,8 +161,8 @@ public class PurchaseService {
         for (int i = 0; i < lines.size(); i++) {
             Priced line = lines.get(i);
             ProductSummary p = line.product();
-            items.add(new VirtualPurchaseItem(p.id(), p.slug(), p.name(), p.categoryName(),
-                    p.image() == null ? null : p.image().small(), line.optionsLabel(), line.unitPrice(), line.quantity(),
+            items.add(new VirtualPurchaseItem(p.id(), p.slug(), p.name(), p.categoryName(), line.imageUrl(),
+                    line.optionsLabel(), line.unitPrice(), line.quantity(),
                     committed[i]));
         }
 
@@ -275,7 +275,8 @@ public class PurchaseService {
 
     private record Requested(long productId, int quantity, Map<String, String> options) {}
 
-    private record Priced(ProductSummary product, int quantity, String optionsLabel, BigDecimal unitPrice,
+    /** {@code imageUrl}: the configuration's own photo (e.g. the chosen colour) or else the product's. */
+    private record Priced(ProductSummary product, int quantity, String optionsLabel, String imageUrl, BigDecimal unitPrice,
             BigDecimal lineTotal, String issue) {}
 
     private List<Requested> requestedLines(long shopperId, InstantLine instant) {
@@ -306,17 +307,21 @@ public class PurchaseService {
             // bought until the shopper picks again; an instant-buy request with a bad option is a plain 400.
             BigDecimal unit = p.price();
             String label = null;
+            String image = p.image() == null ? null : p.image().small();
             // Resolve without throwing: an exception inside this transaction would mark it rollback-only.
             var resolved = catalog.resolveOptionsIfValid(p.id(), r.options());
             if (resolved.isPresent()) {
                 unit = resolved.get().unitPrice();
                 label = resolved.get().label();
+                if (resolved.get().imageSmall() != null) {
+                    image = resolved.get().imageSmall();
+                }
             } else if (single) {
                 throw new ValidationException("options", "That configuration isn't available for this product.");
             } else {
                 issue = "OPTION_UNAVAILABLE";
             }
-            out.add(new Priced(p, r.quantity(), label, unit, unit.multiply(BigDecimal.valueOf(r.quantity())), issue));
+            out.add(new Priced(p, r.quantity(), label, image, unit, unit.multiply(BigDecimal.valueOf(r.quantity())), issue));
         }
         return out;
     }
@@ -329,7 +334,7 @@ public class PurchaseService {
         boolean ok = !lines.isEmpty() && lines.stream().allMatch(l -> l.issue() == null) && shortfall == null;
         List<QuoteLine> quoteLines = lines.stream()
                 .map(l -> new QuoteLine(l.product().id(), l.product().slug(), l.product().name(), l.optionsLabel(),
-                        l.product().image() == null ? null : l.product().image().small(), MoneyWire.format(l.unitPrice()),
+                        l.imageUrl(), MoneyWire.format(l.unitPrice()),
                         l.quantity(), MoneyWire.format(l.lineTotal()), l.issue()))
                 .toList();
         return new Quote(quoteLines, lines.stream().mapToInt(Priced::quantity).sum(), MoneyWire.format(total), "0.00",

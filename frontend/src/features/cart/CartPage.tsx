@@ -1,4 +1,5 @@
 import { ShoppingCart } from 'lucide-react'
+import { lineImage } from '@/components/commerce/lineImage'
 import { Link } from 'react-router'
 import { ProductImage } from '@/components/commerce/ProductImage'
 import { cartIssueText } from '@/components/commerce/cartIssue'
@@ -131,7 +132,7 @@ function CartRow({ line, saved = false }: { line: CartLine; saved?: boolean }) {
         aria-hidden="true"
         className="tk-img-well flex size-24 shrink-0 items-center justify-center rounded-control bg-surface-2 p-2"
       >
-        <ProductImage image={line.product.image} sizes="96px" />
+        <ProductImage image={lineImage(line)} sizes="96px" />
       </Link>
       <div className="flex min-w-0 flex-1 flex-col gap-2">
         <div className="flex flex-wrap items-start gap-x-4 gap-y-1">

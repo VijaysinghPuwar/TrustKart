@@ -196,6 +196,8 @@ export interface CartLine {
   product: ProductCard
   options: OptionSelection
   optionsLabel?: string
+  /** The chosen configuration's own photo (e.g. the colour), when it has one. */
+  optionImage?: string
   quantity: number
   unitPrice: Money
   lineTotal: Money
