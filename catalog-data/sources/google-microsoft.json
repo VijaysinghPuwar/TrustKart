@@ -561,7 +561,7 @@
         "specs": "https://store.google.com/us/product/pixel_buds_2a_specs"
       },
       "image": {
-        "url": "https://lh3.googleusercontent.com/nS71FTvcI-dQ850v45TYTc0k43GPjHYLv0838DWVaAeR8JU_iosUtB68hGjnVnQTDn31wa3ns7Wv_ZDdZu40qCFYKPGSYibJPw=s1600",
+        "url": "https://lh3.googleusercontent.com/sZDRmkrx9XBVK28qUwM1o6LT5mcY64_y0o7b-gH43nsKv9OspOq7wBO9V1raZPs-kV5dfyWf6qlLLkoMJmGXP8KLgdcwIRPaEhU=s1600",
         "page": "https://store.google.com/us/product/pixel_buds_2a",
         "sourceType": "manufacturer-product-page",
         "rights": "Official Google Store product image (store.google.com); Google has not granted a reuse license — rights not verified.",
@@ -689,7 +689,7 @@
         "specs": "https://store.google.com/us/product/nest_cam_battery_specs"
       },
       "image": {
-        "url": "https://lh3.googleusercontent.com/LTJ1-nKNhyXhRrFbc4dkexcjsTOyurFdX3Om7AKbBmAnQ8FMWuzic_mzPNXsFIiuCaZuly23dMM98qLofDY2bSf7NJBrcSHSIA=s1600",
+        "url": "https://lh3.googleusercontent.com/69h9kDWBLJCfz53Oa9dCCCCI8l5oLVBCgRl9AMeeMMkdmRqRvBWB757PRsGLook1frkfa5AdFDha9mQ9-xpMGjzKAyVTlUQQMLdy=s1600",
         "page": "https://store.google.com/us/config/nest_cam_battery",
         "sourceType": "manufacturer-product-page",
         "rights": "Official Google Store product image (store.google.com); Google has not granted a reuse license — rights not verified.",
@@ -697,7 +697,15 @@
         "alt": "Google Nest Cam (battery) in Snow on its magnetic mount, angled front view",
         "match": "EXACT"
       },
-      "notes": "Price is the 1-pack; a 2-pack is also sold on the Google Store."
+      "variants": [
+        {
+          "label": "1 pack",
+          "price": "199.99"
+        },
+        {
+          "label": "2 pack"
+        }
+      ]
     },
     {
       "brand": "Google",
@@ -778,7 +786,7 @@
         "specs": "https://store.google.com/us/product/nest_cam_indoor_wired_3rd_gen_specs"
       },
       "image": {
-        "url": "https://lh3.googleusercontent.com/81sZCY_pEVkXlUS3Hi3PsJVZ3oIG1hhPPe5kdGAvJlFQwvOz1PYAg4IgUDyulpUlMs2iakQOmYFkIqIubLx-cqtH_VIyqZUk8A=s1600",
+        "url": "https://lh3.googleusercontent.com/2l9hvEFDfnq-zLyDnVEqSyI6DJpc77j9O-9pmeI0cEu_KG-fhprvps-oeCcW8Oj1bbwJOVdoEAEJf5hUHERYbTvNu_6p2zgn5mnO=s1600",
         "page": "https://store.google.com/us/config/nest_cam_indoor_wired_3rd_gen",
         "sourceType": "manufacturer-product-page",
         "rights": "Official Google Store product image (store.google.com); Google has not granted a reuse license — rights not verified.",
@@ -822,7 +830,7 @@
         "specs": "https://store.google.com/us/product/nest_cam_outdoor_wired_2nd_gen_specs"
       },
       "image": {
-        "url": "https://lh3.googleusercontent.com/3EQ8uY3hAc--xmxWkaZxz1ubxbT_NyyfcPZMFb2TsbS6FCdHoX8tvXUOJ3dRPRYYlyeldgD7Mmfw-QgWhnJxz7ygGvESnMS43-o=s1600",
+        "url": "https://lh3.googleusercontent.com/iUekub70qLolHXbQhcw7RpvzKBhm3Sis-GaDgIG5aUHZqIE6rpcTujQYknExVKa8OcCK026DQ6xe6WxWgt_vKjNV8KqKQu2Brp8=s1600",
         "page": "https://store.google.com/us/config/nest_cam_outdoor_wired_2nd_gen",
         "sourceType": "manufacturer-product-page",
         "rights": "Official Google Store product image (store.google.com); Google has not granted a reuse license — rights not verified.",
@@ -830,7 +838,15 @@
         "alt": "Google Nest Cam Outdoor (wired, 2nd gen) in Snow, angled front view on its wall mount",
         "match": "EXACT"
       },
-      "notes": "Price is the 1-pack; a 2-pack is also sold on the Google Store."
+      "variants": [
+        {
+          "label": "1 pack",
+          "price": "199.99"
+        },
+        {
+          "label": "2 pack"
+        }
+      ]
     },
     {
       "brand": "Google",
@@ -1050,7 +1066,7 @@
         "specs": "https://store.google.com/us/product/nest_wifi_pro_specs"
       },
       "image": {
-        "url": "https://lh3.googleusercontent.com/UvC7FhnksWDUOn20ehkCEdk7ka_e-dI7Q34Qdj4Q5UOCeTBjC8RTmBQYyVsYaKCM6Dogfm_ULV6Gp4d0dIUs04vKx0qED0n5Rdo=s1600",
+        "url": "https://lh3.googleusercontent.com/cf9DUL_B-Ml1ss7-ddBEZMcnns6y2q7rnhtvxWExIdXBsDUUXpWfaTqmTjbVlaEtkPB0vXOeKaGbsTpgcTmDN6JjkTGSiK6_07Y=s1600",
         "page": "https://store.google.com/us/config/nest_wifi_pro",
         "sourceType": "manufacturer-product-page",
         "rights": "Official Google Store product image (store.google.com); Google has not granted a reuse license — rights not verified.",
@@ -1058,7 +1074,25 @@
         "alt": "Google Nest Wifi Pro router in Snow, front view",
         "match": "EXACT"
       },
-      "notes": "Price is the 1-pack; 2-pack (up to 4,400 sq ft) and 3-pack (up to 6,600 sq ft) prices were not shown in the static page. Colours: Snow, Fog, Linen, Lemongrass."
+      "notes": "2-pack and 3-pack prices were not shown in the static page.",
+      "variants": [
+        {
+          "label": "1-pack (up to 2,200 sq ft)",
+          "price": "199.99"
+        },
+        {
+          "label": "2-pack (up to 4,400 sq ft)"
+        },
+        {
+          "label": "3-pack (up to 6,600 sq ft)"
+        }
+      ],
+      "colors": [
+        "Snow",
+        "Fog",
+        "Linen",
+        "Lemongrass"
+      ]
     },
     {
       "brand": "Google",
@@ -1096,7 +1130,18 @@
         "alt": "Google Titan Security Key USB-A/NFC in white with gold contact pad",
         "match": "PRODUCT_LINE"
       },
-      "notes": "Google Store shows 'From $30' for the USB-C/NFC and USB-A/NFC keys; per-variant prices were not in the static page. Colour: White."
+      "notes": "Google Store shows 'From $30'; per-variant prices were not in the static page.",
+      "variants": [
+        {
+          "label": "USB-C/NFC"
+        },
+        {
+          "label": "USB-A/NFC"
+        }
+      ],
+      "colors": [
+        "White"
+      ]
     },
     {
       "brand": "Microsoft",
@@ -1155,7 +1200,7 @@
         "specs": "https://www.microsoft.com/en-us/surface/devices/surface-laptop"
       },
       "image": {
-        "url": "https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/b00-Surface-Laptop-SnapdragonX2-13-2Ed-Violet-Front?wid=1600&fmt=png-alpha",
+        "url": "https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/b00-Surface-Laptop-SnapdragonX2-13-2Ed-Violet-Front?wid=1600&fmt=png-alpha&extendN=0.05,0.05,0.05,0.05",
         "page": "https://www.microsoft.com/en-us/d/surface-laptop-13-inch-2nd-edition/8wg5vqp0x4bd",
         "sourceType": "manufacturer-product-page",
         "rights": "Official Microsoft Store product image (microsoft.com); Microsoft has not granted a reuse license — rights not verified.",
@@ -1237,7 +1282,7 @@
         "specs": "https://www.microsoft.com/en-us/surface/devices/surface-laptop"
       },
       "image": {
-        "url": "https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/b00-Surface-Laptop-Snapdragon-8Ed-HR-Front?wid=1600&fmt=png-alpha",
+        "url": "https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/b00-Surface-Laptop-Snapdragon-8Ed-HR-Front?wid=1600&fmt=png-alpha&extendN=0.05,0.05,0.05,0.05",
         "page": "https://www.microsoft.com/en-us/d/surface-laptop-138-inch-8th-edition/8mzbmmcjzpmf",
         "sourceType": "manufacturer-product-page",
         "rights": "Official Microsoft Store product image (microsoft.com); Microsoft has not granted a reuse license — rights not verified.",
@@ -1317,7 +1362,7 @@
         "specs": "https://www.microsoft.com/en-us/surface/devices/surface-laptop"
       },
       "image": {
-        "url": "https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/b00-Surface-Laptop-Snapdragon-8Ed-JC-Front?wid=1600&fmt=png-alpha",
+        "url": "https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/b00-Surface-Laptop-Snapdragon-8Ed-JC-Front?wid=1600&fmt=png-alpha&extendN=0.05,0.05,0.05,0.05",
         "page": "https://www.microsoft.com/en-us/d/surface-laptop-15-inch-8th-edition/8mzbmmcjzp9w",
         "sourceType": "manufacturer-product-page",
         "rights": "Official Microsoft Store product image (microsoft.com); Microsoft has not granted a reuse license — rights not verified.",
@@ -1366,7 +1411,7 @@
         "retrievedAt": "2026-09-28"
       },
       "image": {
-        "url": "https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/b00-Surface-Laptop-Intel-8Ed-HD-Front?wid=1600&fmt=png-alpha",
+        "url": "https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/b00-Surface-Laptop-Intel-8Ed-HD-Front?wid=1600&fmt=png-alpha&extendN=0.05,0.05,0.05,0.05",
         "page": "https://www.microsoft.com/en-us/d/surface-laptop-for-business-138-and-15-inch-8th-edition-intel/8mzbmmcjzpn5",
         "sourceType": "manufacturer-product-page",
         "rights": "Official Microsoft Store product image (microsoft.com); Microsoft has not granted a reuse license — rights not verified.",
@@ -1431,7 +1476,7 @@
         "specs": "https://www.microsoft.com/en-us/surface/devices/surface-pro"
       },
       "image": {
-        "url": "https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/b00-Surface-Pro-SnapdragonX2-12-2Ed-Violet-Front?wid=1600&fmt=png-alpha",
+        "url": "https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/b00-Surface-Pro-SnapdragonX2-12-2Ed-Violet-Front?wid=1600&fmt=png-alpha&extendN=0.05,0.05,0.05,0.05",
         "page": "https://www.microsoft.com/en-us/d/surface-pro-12-inch-2nd-edition/8wg5vqp0x4bw",
         "sourceType": "manufacturer-product-page",
         "rights": "Official Microsoft Store product image (microsoft.com); Microsoft has not granted a reuse license — rights not verified.",
@@ -1513,7 +1558,7 @@
         "specs": "https://www.microsoft.com/en-us/surface/devices/surface-pro"
       },
       "image": {
-        "url": "https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/b00-Surface-Pro-Snapdragon-12Ed-MB-Front?wid=1600&fmt=png-alpha",
+        "url": "https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/b00-Surface-Pro-Snapdragon-12Ed-MB-Front?wid=1600&fmt=png-alpha&extendN=0.05,0.05,0.05,0.05",
         "page": "https://www.microsoft.com/en-us/d/surface-pro-13-inch-12th-edition/8mzbmmcjzpmr",
         "sourceType": "manufacturer-product-page",
         "rights": "Official Microsoft Store product image (microsoft.com); Microsoft has not granted a reuse license — rights not verified.",
@@ -1556,7 +1601,7 @@
         "retrievedAt": "2026-09-28"
       },
       "image": {
-        "url": "https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/SPW5C-2000x1500-BB-00?wid=1600&fmt=png-alpha",
+        "url": "https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/SPW5C-2000x1500-BB-00?wid=1600&fmt=png-alpha&extendN=0.05,0.05,0.05,0.05",
         "page": "https://www.microsoft.com/en-us/d/surface-pro-13-inch-flex-keyboard/91xw9xj8bm7l",
         "sourceType": "manufacturer-product-page",
         "rights": "Official Microsoft Store product image (microsoft.com); Microsoft has not granted a reuse license — rights not verified.",
@@ -1564,7 +1609,16 @@
         "alt": "Microsoft Surface Pro 13-inch Flex Keyboard in Black, top view with pen storage slot",
         "match": "EXACT"
       },
-      "priceSource": "https://www.microsoft.com/en-us/d/surface-pro-13-inch-flex-keyboard/91xw9xj8bm7l"
+      "priceSource": "https://www.microsoft.com/en-us/d/surface-pro-13-inch-flex-keyboard/91xw9xj8bm7l",
+      "variants": [
+        {
+          "label": "Black",
+          "price": "399.99"
+        },
+        {
+          "label": "Black with bold keyset"
+        }
+      ]
     },
     {
       "brand": "Microsoft",
@@ -1597,7 +1651,7 @@
         "retrievedAt": "2026-09-28"
       },
       "image": {
-        "url": "https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/B02-Surface-Pro-12-inch-Keyboard-Slate-Top?wid=1600&fmt=png-alpha",
+        "url": "https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/B02-Surface-Pro-12-inch-Keyboard-Slate-Top?wid=1600&fmt=png-alpha&extendN=0.05,0.05,0.05,0.05",
         "page": "https://www.microsoft.com/en-us/d/surface-pro-12-inch-keyboard/8mzbmmcjzqv0",
         "sourceType": "manufacturer-product-page",
         "rights": "Official Microsoft Store product image (microsoft.com); Microsoft has not granted a reuse license — rights not verified.",
@@ -1606,7 +1660,21 @@
         "match": "EXACT"
       },
       "priceSource": "https://www.microsoft.com/en-us/d/surface-pro-12-inch-keyboard/8mzbmmcjzqv0",
-      "notes": "Also sold as 'Slate with bold keyset'."
+      "variants": [
+        {
+          "label": "Slate",
+          "price": "149.99"
+        },
+        {
+          "label": "Ocean"
+        },
+        {
+          "label": "Violet"
+        },
+        {
+          "label": "Slate with bold keyset"
+        }
+      ]
     },
     {
       "brand": "Microsoft",
@@ -1636,7 +1704,7 @@
         "retrievedAt": "2026-09-28"
       },
       "image": {
-        "url": "https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/RW1noW3?wid=1600&fmt=png-alpha",
+        "url": "https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/RW1noW3?wid=1600&fmt=png-alpha&extendN=0.05,0.05,0.05,0.05",
         "page": "https://www.microsoft.com/en-us/d/surface-keyboard-2nd-edition/93d9l5tctr0b",
         "sourceType": "manufacturer-product-page",
         "rights": "Official Microsoft Store product image (microsoft.com); Microsoft has not granted a reuse license — rights not verified.",
@@ -1677,7 +1745,7 @@
         "retrievedAt": "2026-09-28"
       },
       "image": {
-        "url": "https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/B00-Surface-Arc-Mouse-Rational-Violet?wid=1600&fmt=png-alpha",
+        "url": "https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/B00-Surface-Arc-Mouse-Rational-Violet?wid=1600&fmt=png-alpha&extendN=0.05,0.05,0.05,0.05",
         "page": "https://www.microsoft.com/en-us/d/surface-arc-mouse/8mzbmmcjzqtx",
         "sourceType": "manufacturer-product-page",
         "rights": "Official Microsoft Store product image (microsoft.com); Microsoft has not granted a reuse license — rights not verified.",
@@ -1720,7 +1788,7 @@
         "retrievedAt": "2026-09-28"
       },
       "image": {
-        "url": "https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/b00-Surface-Mouse-2Ed-Black-Front-Right?wid=1600&fmt=png-alpha",
+        "url": "https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/b00-Surface-Mouse-2Ed-Black-Front-Right?wid=1600&fmt=png-alpha&extendN=0.05,0.05,0.05,0.05",
         "page": "https://www.microsoft.com/en-us/d/surface-mouse-2nd-edition/8wg5vqp0x4bv",
         "sourceType": "manufacturer-product-page",
         "rights": "Official Microsoft Store product image (microsoft.com); Microsoft has not granted a reuse license — rights not verified.",
@@ -1754,7 +1822,7 @@
         "retrievedAt": "2026-09-28"
       },
       "image": {
-        "url": "https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/B00-Slim-Pen-2-Feature-02?wid=1600&fmt=png-alpha",
+        "url": "https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/B00-Slim-Pen-2-Feature-02?wid=1600&fmt=png-alpha&extendN=0.05,0.05,0.05,0.05",
         "page": "https://www.microsoft.com/en-us/d/surface-slim-pen/8tb9xw8rwc14",
         "sourceType": "manufacturer-product-page",
         "rights": "Official Microsoft Store product image (microsoft.com); Microsoft has not granted a reuse license — rights not verified.",
@@ -1763,7 +1831,9 @@
         "match": "EXACT"
       },
       "priceSource": "https://www.microsoft.com/en-us/d/surface-slim-pen/8tb9xw8rwc14",
-      "notes": "Colour: Matte Black."
+      "colors": [
+        "Matte Black"
+      ]
     },
     {
       "brand": "Microsoft",
@@ -1792,7 +1862,7 @@
         "retrievedAt": "2026-09-28"
       },
       "image": {
-        "url": "https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/BuyBox-SA1C-b00?wid=1600&fmt=png-alpha",
+        "url": "https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/BuyBox-SA1C-b00?wid=1600&fmt=png-alpha&extendN=0.05,0.05,0.05,0.05",
         "page": "https://www.microsoft.com/en-us/d/surface-thunderbolt-4-dock/8x7cgh1n2tb2",
         "sourceType": "manufacturer-product-page",
         "rights": "Official Microsoft Store product image (microsoft.com); Microsoft has not granted a reuse license — rights not verified.",
@@ -1829,7 +1899,7 @@
         "retrievedAt": "2026-09-28"
       },
       "image": {
-        "url": "https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/B00-Surface-USB4-Dock-Black-Rear-004?wid=1600&fmt=png-alpha",
+        "url": "https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/B00-Surface-USB4-Dock-Black-Rear-004?wid=1600&fmt=png-alpha&extendN=0.05,0.05,0.05,0.05",
         "page": "https://www.microsoft.com/en-us/d/surface-usb4-dock/8mzbmmcjzqsf",
         "sourceType": "manufacturer-product-page",
         "rights": "Official Microsoft Store product image (microsoft.com); Microsoft has not granted a reuse license — rights not verified.",
@@ -1874,7 +1944,7 @@
         "retrievedAt": "2026-09-28"
       },
       "image": {
-        "url": "https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/b00-XSX-Teaser-Dec-2019?wid=1600&fmt=png-alpha",
+        "url": "https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/b00-XSX-Teaser-Dec-2019?wid=1600&fmt=png-alpha&extendN=0.05,0.05,0.05,0.05",
         "page": "https://www.microsoft.com/en-us/d/xbox-series-x/8wj714n3rbtl",
         "sourceType": "manufacturer-product-page",
         "rights": "Official Microsoft Store product image (microsoft.com); Microsoft has not granted a reuse license — rights not verified.",
@@ -1918,7 +1988,7 @@
         "retrievedAt": "2026-09-28"
       },
       "image": {
-        "url": "https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/66743890_Image-Buy-Box-0_2000x2000-1?wid=1600&fmt=png-alpha",
+        "url": "https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/66743890_Image-Buy-Box-0_2000x2000-1?wid=1600&fmt=png-alpha&extendN=0.05,0.05,0.05,0.05",
         "page": "https://www.microsoft.com/en-us/d/xbox-series-x-1tb-digital-edition-white/8z1l85h2g116",
         "sourceType": "manufacturer-product-page",
         "rights": "Official Microsoft Store product image (microsoft.com); Microsoft has not granted a reuse license — rights not verified.",
@@ -1962,7 +2032,7 @@
         "retrievedAt": "2026-09-28"
       },
       "image": {
-        "url": "https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/XSS_Image-Buy-Box_Boxshot_2555x1994?wid=1600&fmt=png-alpha",
+        "url": "https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/XSS_Image-Buy-Box_Boxshot_2555x1994?wid=1600&fmt=png-alpha&extendN=0.05,0.05,0.05,0.05",
         "page": "https://www.microsoft.com/en-us/d/xbox-series-s/942j774tp9jn",
         "sourceType": "manufacturer-product-page",
         "rights": "Official Microsoft Store product image (microsoft.com); Microsoft has not granted a reuse license — rights not verified.",
@@ -2003,13 +2073,13 @@
         "retrievedAt": "2026-09-28"
       },
       "image": {
-        "url": "https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/3522201_Image-Buy-Box-0_2000x2000-1?wid=1600&fmt=png-alpha",
+        "url": "https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/3522201_Image-Buy-Box-0_2000x2000-1?wid=1600&fmt=png-alpha&extendN=0.05,0.05,0.05,0.05",
         "page": "https://www.microsoft.com/en-us/d/xbox-series-s-1tb-white/8r02lkf9q26r",
         "sourceType": "manufacturer-product-page",
         "rights": "Official Microsoft Store product image (microsoft.com); Microsoft has not granted a reuse license — rights not verified.",
         "credit": "Microsoft",
         "alt": "Microsoft Xbox Series S 1TB in Robot White standing upright with white controller",
-        "match": "EXACT"
+        "match": "PRODUCT_LINE"
       },
       "priceSource": "https://www.microsoft.com/en-us/d/xbox-series-s-1tb-white/8r02lkf9q26r"
     },
@@ -2073,7 +2143,7 @@
         "retrievedAt": "2026-09-28"
       },
       "image": {
-        "url": "https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/gldn-Xbox-Cntrl-Black-b00?wid=1600&fmt=png-alpha",
+        "url": "https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/gldn-Xbox-Cntrl-Black-b00?wid=1600&fmt=png-alpha&extendN=0.05,0.05,0.05,0.05",
         "page": "https://www.microsoft.com/en-us/d/xbox-wireless-controller/8xn59crbsqgz",
         "sourceType": "manufacturer-product-page",
         "rights": "Official Microsoft Store product image (microsoft.com); Microsoft has not granted a reuse license — rights not verified.",
@@ -2115,7 +2185,7 @@
         "retrievedAt": "2026-09-28"
       },
       "image": {
-        "url": "https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/gldn-Xbox-3131-D-b00-1?wid=1600&fmt=png-alpha",
+        "url": "https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/gldn-Xbox-3131-D-b00-1?wid=1600&fmt=png-alpha&extendN=0.05,0.05,0.05,0.05",
         "page": "https://www.microsoft.com/en-us/d/xbox-elite-wireless-controller-series-2/8rsn7j6375gg",
         "sourceType": "manufacturer-product-page",
         "rights": "Official Microsoft Store product image (microsoft.com); Microsoft has not granted a reuse license — rights not verified.",
@@ -2156,7 +2226,7 @@
         "retrievedAt": "2026-09-28"
       },
       "image": {
-        "url": "https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/b00-Xbox-Elite-Controller-right-angle-Series-2-White?wid=1600&fmt=png-alpha",
+        "url": "https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/b00-Xbox-Elite-Controller-right-angle-Series-2-White?wid=1600&fmt=png-alpha&extendN=0.05,0.05,0.05,0.05",
         "page": "https://www.microsoft.com/en-us/d/xbox-elite-wireless-controller-series-2-core/8v7m3k0bsh52",
         "sourceType": "manufacturer-product-page",
         "rights": "Official Microsoft Store product image (microsoft.com); Microsoft has not granted a reuse license — rights not verified.",
@@ -2193,7 +2263,7 @@
         "retrievedAt": "2026-09-28"
       },
       "image": {
-        "url": "https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/gldn-Xbox-Z-BuyBoxImage-b00?wid=1600&fmt=png-alpha",
+        "url": "https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/gldn-Xbox-Z-BuyBoxImage-b00?wid=1600&fmt=png-alpha&extendN=0.05,0.05,0.05,0.05",
         "page": "https://www.microsoft.com/en-us/d/xbox-adaptive-controller/8nsdbhz1n3d8",
         "sourceType": "manufacturer-product-page",
         "rights": "Official Microsoft Store product image (microsoft.com); Microsoft has not granted a reuse license — rights not verified.",

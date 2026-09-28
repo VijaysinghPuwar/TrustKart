@@ -1,0 +1,1591 @@
+{
+ "meta": {
+  "notes": "HP (incl. HyperX, OMEN) and HPE products researched 2026-09-28 on hp.com US store (HP Store PDPs read in a normal browser) and buy.hpe.com. Prices are HP/HPE Store MSRP or configurable starting-at (list) prices, not sale prices; several items had instant savings on the day. HP business SKUs (EliteBook/ZBook/Z) carry HP's high list MSRPs incl. 3-yr warranty + Wolf Pro Security. HP rebranded gaming to 'HyperX OMEN' in 2026. Images are HP Store gallery images from hp.widen.net. Research cut short by usage limits; HPE Aruba networking, more ProLiant models and LaserJet Enterprise not covered."
+ },
+ "products": [
+  {
+   "sku": "TK-HP-OMNIBOOK-ULTRA-14-KD",
+   "slug": "hp-omnibook-ultra-14-intel",
+   "name": "HP OmniBook Ultra 14 (Intel, 14t-kd000)",
+   "brand": "HP",
+   "category": "premium-laptops",
+   "price": "1819.99",
+   "priceBasis": "starting-at",
+   "priceSource": "https://www.hp.com/us-en/shop/pdp/hp-omnibook-ultra-laptop-next-gen-ai-14t-kd000-14-c2nm8av-1",
+   "priceAsOf": "2026-09-28",
+   "releaseYear": 2026,
+   "summary": "HP's flagship 14-inch OmniBook Ultra with Intel Core Ultra 7 356H, 50 NPU TOPS, a 3K 120 Hz OLED touch display and three Thunderbolt 4 ports.",
+   "description": "The configurable OmniBook Ultra 14t-kd000 starts with an Intel Core Ultra 7 356H (16 cores) with Intel AI Boost rated at 50 NPU TOPS, 16 GB onboard memory and a 512 GB PCIe Gen5 SSD. The 14-inch 2880 x 1800 OLED multitouch panel runs up to 120 Hz with 500 nits SDR / 1100 nits HDR and 100% DCI-P3. It has Wi-Fi 7 with Bluetooth 6.0, a 70 Wh battery and weighs 2.81 lb.",
+   "keywords": "omnibook ultra copilot+ pc panther lake core ultra series 3 oled thunderbolt ai laptop",
+   "specs": {
+    "cpu": "Intel Core Ultra 7 356H (16 cores, up to 4.7 GHz)",
+    "cpuBrand": "Intel",
+    "gpu": "Intel Graphics (integrated)",
+    "ramGb": 16,
+    "storageTb": 0.5,
+    "displayIn": 14,
+    "display": "14-inch 3K (2880 x 1800) OLED touch, up to 120 Hz, 500 nits SDR / 1100 nits HDR, 100% DCI-P3",
+    "batteryWh": 70,
+    "weightKg": 1.27,
+    "os": "Windows 11 Home",
+    "npuTops": 50,
+    "ports": "3x Thunderbolt 4 (USB-C 40Gbps, PD 3.1, DP 2.1), headphone/mic combo",
+    "wireless": "Intel Wi-Fi 7 BE211 (2x2), Bluetooth 6.0",
+    "colors": "Eclipse gray"
+   },
+   "featured": true,
+   "warranty": 12,
+   "sources": {
+    "product": "https://www.hp.com/us-en/shop/pdp/hp-omnibook-ultra-laptop-next-gen-ai-14t-kd000-14-c2nm8av-1",
+    "specs": "https://www.hp.com/us-en/shop/pdp/hp-omnibook-ultra-laptop-next-gen-ai-14t-kd000-14-c2nm8av-1",
+    "retrievedAt": "2026-09-28"
+   },
+   "colors": [
+    "Eclipse gray"
+   ],
+   "collections": [
+    "premium-laptops"
+   ],
+   "image": {
+    "url": "https://hp.widen.net/content/jcrmpwc3nn/png/jcrmpwc3nn.png?w=1400&h=1400",
+    "page": "https://www.hp.com/us-en/shop/pdp/hp-omnibook-ultra-laptop-next-gen-ai-14t-kd000-14-c2nm8av-1",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official HP Store product gallery image (HP Widen DAM); HP has not granted a reuse license — rights not verified.",
+    "alt": "HP OmniBook Ultra 14 laptop in Eclipse gray, front view with lid open showing the OLED display",
+    "match": "PRODUCT_LINE"
+   }
+  },
+  {
+   "sku": "TK-HP-OMNIBOOK-X-FLIP-16",
+   "slug": "hp-omnibook-x-flip-16",
+   "name": "HP OmniBook X Flip 16 2-in-1 (16t-as00)",
+   "brand": "HP",
+   "category": "premium-laptops",
+   "price": "1429.99",
+   "priceBasis": "starting-at",
+   "priceSource": "https://www.hp.com/us-en/shop/pdp/hp-omnibook-x-flip-16-inch-2-in-1-laptop-next-gen-ai-pc-b88cwav-1",
+   "priceAsOf": "2026-09-28",
+   "releaseYear": 2024,
+   "summary": "16-inch convertible OmniBook X Flip with Intel Core Ultra 7 256V, Arc 140V graphics, a touch display and an included rechargeable pen.",
+   "description": "The configurable OmniBook X Flip 16t-as00 starts with an Intel Core Ultra 7 256V (8 cores) with Intel Arc 140V GPU and 16 GB onboard memory, plus a 512 GB PCIe NVMe SSD. It has a 16-inch 1920 x 1200 IPS multitouch display and ships with the HP USB-C Rechargeable MPP2.0 Tilt Pen. Wi-Fi 6E, a 68 Wh battery and a 4.15 lb chassis round out the base configuration.",
+   "keywords": "omnibook x flip 2-in-1 convertible lunar lake copilot+ pen touch 16 inch",
+   "specs": {
+    "cpu": "Intel Core Ultra 7 256V (8 cores, up to 4.8 GHz)",
+    "cpuBrand": "Intel",
+    "gpu": "Intel Arc 140V GPU",
+    "ramGb": 16,
+    "storageTb": 0.5,
+    "displayIn": 16,
+    "display": "16-inch 1920 x 1200 IPS multitouch, edge-to-edge glass",
+    "batteryWh": 68,
+    "weightKg": 1.88,
+    "os": "Windows 11 Home",
+    "ports": "Thunderbolt 4, 2x USB-A 10Gbps, HDMI 2.1, headphone/mic combo",
+    "wireless": "Intel Wi-Fi 6E AX211 (2x2), Bluetooth 5.3"
+   },
+   "featured": false,
+   "warranty": 12,
+   "sources": {
+    "product": "https://www.hp.com/us-en/shop/pdp/hp-omnibook-x-flip-16-inch-2-in-1-laptop-next-gen-ai-pc-b88cwav-1",
+    "specs": "https://www.hp.com/us-en/shop/pdp/hp-omnibook-x-flip-16-inch-2-in-1-laptop-next-gen-ai-pc-b88cwav-1",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://hp.widen.net/content/ulockcjchm/png/ulockcjchm.png?w=1400&h=1400",
+    "page": "https://www.hp.com/us-en/shop/pdp/hp-omnibook-x-flip-16-inch-2-in-1-laptop-next-gen-ai-pc-b88cwav-1",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official HP Store product gallery image (HP Widen DAM); HP has not granted a reuse license — rights not verified.",
+    "alt": "HP OmniBook X Flip 16 2-in-1 laptop, front view with the touch display open",
+    "match": "PRODUCT_LINE"
+   }
+  },
+  {
+   "sku": "TK-HP-ELITEBOOK-X-G2I-14",
+   "slug": "hp-elitebook-x-g2i-14",
+   "name": "HP EliteBook X G2i 14 Next Gen AI PC",
+   "brand": "HP",
+   "category": "business-laptops",
+   "price": "6270.00",
+   "priceBasis": "msrp",
+   "priceSource": "https://www.hp.com/us-en/shop/pdp/hp-elitebook-x-g2i-14-inch-notebook-next-gen-ai-pc-wolf-pro-security-edition",
+   "priceAsOf": "2026-09-28",
+   "releaseYear": 2026,
+   "summary": "Premium 14-inch EliteBook X G2i with Intel Core Ultra X7 358H, Arc B390 graphics, 32 GB RAM, 1 TB Gen5 SSD, 3K OLED and 5G.",
+   "description": "This EliteBook X G2i configuration (D4VH8UA) pairs an Intel Core Ultra X7 358H (16 cores) and Intel Arc B390 GPU with 32 GB LPDDR5x-9600 and a 1 TB PCIe Gen5 SSD. The 14-inch 2880 x 1800 OLED runs at 120 Hz with 500 nits and 100% DCI-P3. It includes HP R15 5G WWAN, Wi-Fi 7, a 5 MP IR camera, a 68 Wh battery, 3 years of Wolf Pro Security and weighs from 2.2 lb.",
+   "keywords": "elitebook x g2i business laptop 5g oled wolf pro security panther lake copilot+",
+   "specs": {
+    "cpu": "Intel Core Ultra X7 358H (16 cores, up to 4.8 GHz)",
+    "cpuBrand": "Intel",
+    "gpu": "Intel Arc B390 GPU",
+    "ramGb": 32,
+    "storageTb": 1,
+    "displayIn": 14,
+    "display": "14-inch 3K (2880 x 1800) OLED, 120 Hz, anti-glare, 500 nits, 100% DCI-P3",
+    "batteryWh": 68,
+    "weightKg": 1.0,
+    "os": "Windows 11 Pro",
+    "npuTops": 50,
+    "ports": "2x Thunderbolt 4 (40Gbps, DP 2.1), USB-A 5Gbps, HDMI 2.1, headphone/mic combo",
+    "wireless": "Intel Wi-Fi 7 BE211, Bluetooth 6, HP R15 5G WWAN"
+   },
+   "featured": false,
+   "warranty": 36,
+   "sources": {
+    "product": "https://www.hp.com/us-en/shop/pdp/hp-elitebook-x-g2i-14-inch-notebook-next-gen-ai-pc-wolf-pro-security-edition",
+    "specs": "https://www.hp.com/us-en/shop/pdp/hp-elitebook-x-g2i-14-inch-notebook-next-gen-ai-pc-wolf-pro-security-edition",
+    "retrievedAt": "2026-09-28"
+   },
+   "collections": [
+    "premium-laptops"
+   ],
+   "image": {
+    "url": "https://hp.widen.net/content/g1a4vbcjvi/png/g1a4vbcjvi.png?w=1400&h=1400",
+    "page": "https://www.hp.com/us-en/shop/pdp/hp-elitebook-x-g2i-14-inch-notebook-next-gen-ai-pc-wolf-pro-security-edition",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official HP Store product gallery image (HP Widen DAM); HP has not granted a reuse license — rights not verified.",
+    "alt": "HP EliteBook X G2i 14 business laptop, front view with the display open",
+    "match": "EXACT"
+   }
+  },
+  {
+   "sku": "TK-HP-ELITEBOOK-8-G2I-16",
+   "slug": "hp-elitebook-8-g2i-16",
+   "name": "HP EliteBook 8 G2i 16 Next Gen AI PC",
+   "brand": "HP",
+   "category": "business-laptops",
+   "price": "3492.00",
+   "priceBasis": "msrp",
+   "priceSource": "https://www.hp.com/us-en/shop/pdp/hp-elitebook-8-g2i-16-inch-notebook-next-gen-ai-pc-wolf-pro-security-edition-p-dl8d4ua-aba-1",
+   "priceAsOf": "2026-09-28",
+   "releaseYear": 2026,
+   "summary": "16-inch EliteBook 8 G2i with Intel Core Ultra 5 335, 47 NPU TOPS, 16 GB DDR5, 512 GB Gen5 SSD and Wi-Fi 7.",
+   "description": "This EliteBook 8 G2i 16 configuration (DL8D4UA) uses an Intel Core Ultra 5 335 with Intel AI Boost (47 NPU TOPS), 16 GB DDR5-5600 and a 512 GB PCIe Gen5 SSD. It has a 16-inch WUXGA IPS anti-glare display at 400 nits, two Thunderbolt 4 ports, HDMI 2.1 and USB-A, Wi-Fi 7 with Bluetooth 6.0 and a 77 Wh battery. It ships with a 3-year warranty and Wolf Pro Security.",
+   "keywords": "elitebook 8 g2i 16 business laptop wolf pro security copilot+",
+   "specs": {
+    "cpu": "Intel Core Ultra 5 335 (up to 4.6 GHz)",
+    "cpuBrand": "Intel",
+    "gpu": "Intel Graphics (integrated)",
+    "ramGb": 16,
+    "storageTb": 0.5,
+    "displayIn": 16,
+    "display": "16-inch WUXGA (1920 x 1200) IPS, anti-glare, 400 nits, 100% sRGB",
+    "batteryWh": 77,
+    "weightKg": 1.7,
+    "os": "Windows 11 Pro",
+    "npuTops": 47,
+    "ports": "2x Thunderbolt 4 (40Gbps), USB-A 10Gbps, HDMI 2.1, headphone/mic combo",
+    "wireless": "Intel Wi-Fi 7 BE211 (2x2), Bluetooth 6.0",
+    "colors": "Glacier silver aluminium"
+   },
+   "featured": false,
+   "warranty": 36,
+   "sources": {
+    "product": "https://www.hp.com/us-en/shop/pdp/hp-elitebook-8-g2i-16-inch-notebook-next-gen-ai-pc-wolf-pro-security-edition-p-dl8d4ua-aba-1",
+    "specs": "https://www.hp.com/us-en/shop/pdp/hp-elitebook-8-g2i-16-inch-notebook-next-gen-ai-pc-wolf-pro-security-edition-p-dl8d4ua-aba-1",
+    "retrievedAt": "2026-09-28"
+   },
+   "colors": [
+    "Glacier silver"
+   ],
+   "image": {
+    "url": "https://hp.widen.net/content/inhk8wypc3/png/inhk8wypc3.png?w=1400&h=1400",
+    "page": "https://www.hp.com/us-en/shop/pdp/hp-elitebook-8-g2i-16-inch-notebook-next-gen-ai-pc-wolf-pro-security-edition-p-dl8d4ua-aba-1",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official HP Store product gallery image (HP Widen DAM); HP has not granted a reuse license — rights not verified.",
+    "alt": "HP EliteBook 8 G2i 16 laptop in Glacier silver, front view with the display open",
+    "match": "EXACT"
+   }
+  },
+  {
+   "sku": "TK-HP-PROBOOK-4-G2I-14",
+   "slug": "hp-probook-4-g2i-14",
+   "name": "HP ProBook 4 G2i 14 Next Gen AI PC",
+   "brand": "HP",
+   "category": "business-laptops",
+   "price": "2369.00",
+   "priceBasis": "msrp",
+   "priceSource": "https://www.hp.com/us-en/shop/pdp/hp-probook-4-g2i-14-inch-notebook-next-gen-ai-pc-wolf-pro-security-edition-p-dc5k8ua-aba-1",
+   "priceAsOf": "2026-09-28",
+   "releaseYear": 2026,
+   "summary": "14-inch ProBook 4 G2i with Intel Core Ultra 5 325, 47 NPU TOPS, 16 GB RAM, 512 GB SSD and a WUXGA touch display.",
+   "description": "This ProBook 4 G2i 14 configuration (DC5K8UA) has an Intel Core Ultra 5 325 with Intel AI Boost (47 NPU TOPS), 16 GB DDR5-5600 and a 512 GB PCIe NVMe SSD. The 14-inch WUXGA IPS touch display is anti-glare at 300 nits. Ports include two USB-C 20Gbps, two USB-A 5Gbps and HDMI 2.1, with Wi-Fi 7, a 68 Wh battery and a 65 W USB-C GaN adapter.",
+   "keywords": "probook 4 g2i business laptop small business wolf pro security",
+   "specs": {
+    "cpu": "Intel Core Ultra 5 325",
+    "cpuBrand": "Intel",
+    "gpu": "Intel Graphics (integrated)",
+    "ramGb": 16,
+    "storageTb": 0.5,
+    "displayIn": 14,
+    "display": "14-inch WUXGA (1920 x 1200) IPS touch, anti-glare, 300 nits",
+    "batteryWh": 68,
+    "weightKg": 1.4,
+    "os": "Windows 11 Pro",
+    "npuTops": 47,
+    "ports": "2x USB-C 20Gbps (PD, DP 1.4), 2x USB-A 5Gbps, HDMI 2.1, headphone/mic combo",
+    "wireless": "Intel Wi-Fi 7 BE211 (2x2), Bluetooth 6",
+    "colors": "Pike silver aluminum"
+   },
+   "featured": false,
+   "warranty": 36,
+   "sources": {
+    "product": "https://www.hp.com/us-en/shop/pdp/hp-probook-4-g2i-14-inch-notebook-next-gen-ai-pc-wolf-pro-security-edition-p-dc5k8ua-aba-1",
+    "specs": "https://www.hp.com/us-en/shop/pdp/hp-probook-4-g2i-14-inch-notebook-next-gen-ai-pc-wolf-pro-security-edition-p-dc5k8ua-aba-1",
+    "retrievedAt": "2026-09-28"
+   },
+   "colors": [
+    "Pike silver"
+   ],
+   "collections": [
+    "small-business"
+   ],
+   "image": {
+    "url": "https://hp.widen.net/content/afglyqpnly/png/afglyqpnly.png?w=1400&h=1400",
+    "page": "https://www.hp.com/us-en/shop/pdp/hp-probook-4-g2i-14-inch-notebook-next-gen-ai-pc-wolf-pro-security-edition-p-dc5k8ua-aba-1",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official HP Store product gallery image (HP Widen DAM); HP has not granted a reuse license — rights not verified.",
+    "alt": "HP ProBook 4 G2i 14 laptop in Pike silver, front view with the display open",
+    "match": "EXACT"
+   }
+  },
+  {
+   "sku": "TK-HP-HYPERX-OMEN-MAX-16",
+   "slug": "hyperx-omen-max-16",
+   "name": "HyperX OMEN MAX 16 Gaming Laptop (16t-ah100)",
+   "brand": "HyperX",
+   "category": "gaming-laptops",
+   "price": "2799.99",
+   "priceBasis": "starting-at",
+   "priceSource": "https://www.hp.com/us-en/shop/pdp/hyperx-omen-max-gaming-laptop-16t-ah100-16-cn3g9av-1",
+   "priceAsOf": "2026-09-28",
+   "releaseYear": 2026,
+   "summary": "HP's HyperX OMEN MAX 16 starts with an Intel Core Ultra 7 270HX Plus, GeForce RTX 5070 Ti Laptop GPU and a 240 Hz 2.5K display.",
+   "description": "The configurable HyperX OMEN MAX 16t-ah100 starts with an Intel Core Ultra 7 270HX Plus (20 cores, up to 5.3 GHz) and an NVIDIA GeForce RTX 5070 Ti Laptop GPU with 12 GB. The base build has 16 GB DDR5-5600 and a 512 GB PCIe Gen4 SSD. Its 16-inch 2560 x 1600 IPS panel runs up to 240 Hz at 500 nits with 100% sRGB.",
+   "keywords": "hyperx omen max 16 gaming laptop rtx 5070 ti 240hz arrow lake refresh",
+   "specs": {
+    "cpu": "Intel Core Ultra 7 270HX Plus (20 cores, up to 5.3 GHz)",
+    "cpuBrand": "Intel",
+    "gpu": "NVIDIA GeForce RTX 5070 Ti Laptop GPU (12 GB)",
+    "ramGb": 16,
+    "storageTb": 0.5,
+    "displayIn": 16,
+    "display": "16-inch 2.5K (2560 x 1600) IPS, up to 240 Hz, 3 ms, 500 nits, 100% sRGB",
+    "os": "Windows 11 Home",
+    "npuTops": 13
+   },
+   "featured": true,
+   "warranty": 12,
+   "sources": {
+    "product": "https://www.hp.com/us-en/shop/pdp/hyperx-omen-max-gaming-laptop-16t-ah100-16-cn3g9av-1",
+    "specs": "https://www.hp.com/us-en/shop/pdp/hyperx-omen-max-gaming-laptop-16t-ah100-16-cn3g9av-1",
+    "retrievedAt": "2026-09-28"
+   },
+   "collections": [
+    "gaming-monsters",
+    "ultimate-gaming-setup"
+   ],
+   "image": {
+    "url": "https://hp.widen.net/content/bu62pravgr/png/bu62pravgr.png?w=1400&h=1400",
+    "page": "https://www.hp.com/us-en/shop/pdp/hyperx-omen-max-gaming-laptop-16t-ah100-16-cn3g9av-1",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official HP Store product gallery image (HP Widen DAM); HP has not granted a reuse license — rights not verified.",
+    "alt": "HyperX OMEN MAX 16 gaming laptop, front view with the display open",
+    "match": "PRODUCT_LINE"
+   }
+  },
+  {
+   "sku": "TK-HP-HYPERX-OMEN-15",
+   "slug": "hyperx-omen-15",
+   "name": "HyperX OMEN 15 Gaming Laptop (15t-ga000)",
+   "brand": "HyperX",
+   "category": "gaming-laptops",
+   "price": "1699.99",
+   "priceBasis": "starting-at",
+   "priceSource": "https://www.hp.com/us-en/shop/pdp/hyperx-omen-gaming-laptop-15t-ga000-15-c52b1av-1",
+   "priceAsOf": "2026-09-28",
+   "releaseYear": 2026,
+   "summary": "Entry HyperX OMEN 15 with Intel Core i5-14500HX, GeForce RTX 5050 Laptop GPU and a 165 Hz 15.3-inch display.",
+   "description": "The configurable HyperX OMEN 15t-ga000 starts with an Intel Core i5-14500HX (14 cores, 20 threads) and an NVIDIA GeForce RTX 5050 Laptop GPU with 8 GB GDDR7. The base build has 8 GB DDR5-5600 and a 512 GB PCIe Gen4 SSD. The 15.3-inch 1920 x 1200 IPS display runs up to 165 Hz with variable refresh rate support.",
+   "keywords": "hyperx omen 15 gaming laptop rtx 5050 165hz budget",
+   "specs": {
+    "cpu": "Intel Core i5-14500HX (14 cores, 20 threads, up to 4.9 GHz)",
+    "cpuBrand": "Intel",
+    "gpu": "NVIDIA GeForce RTX 5050 Laptop GPU (8 GB GDDR7)",
+    "ramGb": 8,
+    "storageTb": 0.5,
+    "displayIn": 15.3,
+    "display": "15.3-inch 1920 x 1200 IPS, up to 165 Hz, 300 nits, VRR",
+    "os": "Windows 11 Home"
+   },
+   "featured": false,
+   "warranty": 12,
+   "sources": {
+    "product": "https://www.hp.com/us-en/shop/pdp/hyperx-omen-gaming-laptop-15t-ga000-15-c52b1av-1",
+    "specs": "https://www.hp.com/us-en/shop/pdp/hyperx-omen-gaming-laptop-15t-ga000-15-c52b1av-1",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://hp.widen.net/content/swidppotiw/png/swidppotiw.png?w=1400&h=1400",
+    "page": "https://www.hp.com/us-en/shop/pdp/hyperx-omen-gaming-laptop-15t-ga000-15-c52b1av-1",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official HP Store product gallery image (HP Widen DAM); HP has not granted a reuse license — rights not verified.",
+    "alt": "HyperX OMEN 15 gaming laptop, front view with the display open",
+    "match": "PRODUCT_LINE"
+   }
+  },
+  {
+   "sku": "TK-HP-HYPERX-OMEN-35L-GT18",
+   "slug": "hyperx-omen-35l-gt18",
+   "name": "HyperX OMEN 35L Gaming Desktop (GT18-0000t)",
+   "brand": "HyperX",
+   "category": "gaming-desktops",
+   "price": "2699.99",
+   "priceBasis": "starting-at",
+   "priceSource": "https://www.hp.com/us-en/shop/pdp/hyperx-omen-35l-gaming-desktop-pc-gt18-0000t-d0ul7av-1",
+   "priceAsOf": "2026-09-28",
+   "releaseYear": 2026,
+   "summary": "HyperX OMEN 35L tower starting with an Intel Core Ultra 5 250KF Plus, GeForce RTX 5060 Ti and Kingston FURY DDR5-6000.",
+   "description": "The configurable HyperX OMEN 35L GT18-0000t starts with an Intel Core Ultra 5 250KF Plus (18 cores, up to 5.3 GHz), an NVIDIA GeForce RTX 5060 Ti with 8 GB GDDR7 and 16 GB Kingston FURY DDR5-6000 RGB memory. HP lists options up to 128 GB of memory, 2 TB PCIe Gen5 storage and Realtek Wi-Fi 7 with Bluetooth 6.0, and the chassis uses HyperX-branded components tuned for airflow.",
+   "keywords": "hyperx omen 35l gaming desktop rtx 5060 ti kingston fury tower",
+   "specs": {
+    "cpu": "Intel Core Ultra 5 250KF Plus (18 cores, up to 5.3 GHz)",
+    "cpuBrand": "Intel",
+    "gpu": "NVIDIA GeForce RTX 5060 Ti (8 GB GDDR7)",
+    "ramGb": 16,
+    "os": "Windows 11 Home",
+    "networking": "Wi-Fi 7 (2x2) and Bluetooth 6.0 available"
+   },
+   "featured": false,
+   "warranty": 12,
+   "sources": {
+    "product": "https://www.hp.com/us-en/shop/pdp/hyperx-omen-35l-gaming-desktop-pc-gt18-0000t-d0ul7av-1",
+    "specs": "https://www.hp.com/us-en/shop/pdp/hyperx-omen-35l-gaming-desktop-pc-gt18-0000t-d0ul7av-1",
+    "retrievedAt": "2026-09-28"
+   },
+   "collections": [
+    "gaming-monsters"
+   ],
+   "image": {
+    "url": "https://hp.widen.net/content/mimxlo3fio/png/mimxlo3fio.png?w=1400&h=1400",
+    "page": "https://www.hp.com/us-en/shop/pdp/hyperx-omen-35l-gaming-desktop-pc-gt18-0000t-d0ul7av-1",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official HP Store product gallery image (HP Widen DAM); HP has not granted a reuse license — rights not verified.",
+    "alt": "HyperX OMEN 35L gaming desktop tower, front three-quarter view",
+    "match": "PRODUCT_LINE"
+   }
+  },
+  {
+   "sku": "TK-HP-HYPERX-OMEN-MAX-45L",
+   "slug": "hyperx-omen-max-45l-gt24",
+   "name": "HyperX OMEN MAX 45L Gaming Desktop (GT24-0000t)",
+   "brand": "HyperX",
+   "category": "gaming-desktops",
+   "price": "3699.99",
+   "priceBasis": "starting-at",
+   "priceSource": "https://www.hp.com/us-en/shop/pdp/hyperx-omen-max-45l-gaming-desktop-pc-gt24-0000t-cw9m6av-1",
+   "priceAsOf": "2026-09-28",
+   "releaseYear": 2026,
+   "summary": "Flagship HyperX OMEN MAX 45L starting with an Intel Core Ultra 7 270K Plus, GeForce RTX 5070 and 32 GB Kingston FURY DDR5-6000.",
+   "description": "The configurable HyperX OMEN MAX 45L GT24-0000t starts with an Intel Core Ultra 7 270K Plus (24 cores, up to 5.4 GHz), an NVIDIA GeForce RTX 5070 with 12 GB GDDR7 and 32 GB (2 x 16 GB) Kingston FURY DDR5-6000 RGB memory. It is HP's top gaming tower and can be configured with higher-end graphics.",
+   "keywords": "hyperx omen max 45l flagship gaming desktop rtx 5070 cryo chamber",
+   "specs": {
+    "cpu": "Intel Core Ultra 7 270K Plus (24 cores, up to 5.4 GHz)",
+    "cpuBrand": "Intel",
+    "gpu": "NVIDIA GeForce RTX 5070 (12 GB GDDR7)",
+    "ramGb": 32,
+    "os": "Windows 11 Home"
+   },
+   "featured": true,
+   "warranty": 12,
+   "sources": {
+    "product": "https://www.hp.com/us-en/shop/pdp/hyperx-omen-max-45l-gaming-desktop-pc-gt24-0000t-cw9m6av-1",
+    "specs": "https://www.hp.com/us-en/shop/pdp/hyperx-omen-max-45l-gaming-desktop-pc-gt24-0000t-cw9m6av-1",
+    "retrievedAt": "2026-09-28"
+   },
+   "collections": [
+    "gaming-monsters",
+    "dream-gaming"
+   ],
+   "image": {
+    "url": "https://hp.widen.net/content/qo14bcubhx/png/qo14bcubhx.png?w=1400&h=1400",
+    "page": "https://www.hp.com/us-en/shop/pdp/hyperx-omen-max-45l-gaming-desktop-pc-gt24-0000t-cw9m6av-1",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official HP Store product gallery image (HP Widen DAM); HP has not granted a reuse license — rights not verified.",
+    "alt": "HyperX OMEN MAX 45L gaming desktop tower, front three-quarter view",
+    "match": "PRODUCT_LINE"
+   }
+  },
+  {
+   "sku": "TK-HP-ZBOOK-ULTRA-G1A-14",
+   "slug": "hp-zbook-ultra-g1a-14",
+   "name": "HP ZBook Ultra G1a 14 Mobile Workstation",
+   "brand": "HP",
+   "category": "workstation-laptops",
+   "price": "11856.00",
+   "priceBasis": "msrp",
+   "priceSource": "https://www.hp.com/us-en/shop/pdp/hp-zbook-ultra-14-inch-g1a-mobile-workstation-pc-wolf-pro-security-edition-p-bn2v1ua-aba-1",
+   "priceAsOf": "2026-09-28",
+   "releaseYear": 2025,
+   "summary": "14-inch ZBook Ultra G1a with AMD Ryzen AI Max+ PRO 395, Radeon 8060S graphics and 128 GB unified LPDDR5x memory.",
+   "description": "This ZBook Ultra G1a configuration (BN2V1UA) has an AMD Ryzen AI Max+ PRO 395 (16 cores, 32 threads, up to 5.1 GHz) with Radeon 8060S graphics and a 50 TOPS NPU, 128 GB LPDDR5x-8533 onboard memory and a 1 TB PCIe Gen4 SSD. It has a 14-inch WUXGA IPS display, Thunderbolt 4, USB-C 10Gbps and HDMI 2.1, MediaTek Wi-Fi 7, a 74.5 Wh battery and weighs 3.46 lb.",
+   "keywords": "zbook ultra g1a strix halo ryzen ai max+ pro 395 128gb local llm mobile workstation",
+   "specs": {
+    "cpu": "AMD Ryzen AI Max+ PRO 395 (16 cores, 32 threads, up to 5.1 GHz)",
+    "cpuBrand": "AMD",
+    "gpu": "AMD Radeon 8060S Graphics (integrated)",
+    "ramGb": 128,
+    "storageTb": 1,
+    "displayIn": 14,
+    "display": "14-inch WUXGA (1920 x 1200) IPS, anti-glare, 400 nits, 100% sRGB",
+    "batteryWh": 74.5,
+    "weightKg": 1.57,
+    "os": "Windows 11 Pro",
+    "npuTops": 50,
+    "ports": "Thunderbolt 4 (40Gbps), USB-C 10Gbps, HDMI 2.1, headphone/mic combo",
+    "wireless": "MediaTek Wi-Fi 7 MT7925 (2x2), Bluetooth 5.4",
+    "colors": "Meteor silver aluminium"
+   },
+   "featured": true,
+   "warranty": 36,
+   "sources": {
+    "product": "https://www.hp.com/us-en/shop/pdp/hp-zbook-ultra-14-inch-g1a-mobile-workstation-pc-wolf-pro-security-edition-p-bn2v1ua-aba-1",
+    "specs": "https://www.hp.com/us-en/shop/pdp/hp-zbook-ultra-14-inch-g1a-mobile-workstation-pc-wolf-pro-security-edition-p-bn2v1ua-aba-1",
+    "retrievedAt": "2026-09-28"
+   },
+   "colors": [
+    "Meteor silver"
+   ],
+   "collections": [
+    "ai-workstations",
+    "creator-workstations"
+   ],
+   "image": {
+    "url": "https://hp.widen.net/content/estuzcj3jp/png/estuzcj3jp.png?w=1400&h=1400",
+    "page": "https://www.hp.com/us-en/shop/pdp/hp-zbook-ultra-14-inch-g1a-mobile-workstation-pc-wolf-pro-security-edition-p-bn2v1ua-aba-1",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official HP Store product gallery image (HP Widen DAM); HP has not granted a reuse license — rights not verified.",
+    "alt": "HP ZBook Ultra G1a 14 mobile workstation in Meteor silver, front view with the display open",
+    "match": "EXACT"
+   }
+  },
+  {
+   "sku": "TK-HP-ZBOOK-8-G2I-16",
+   "slug": "hp-zbook-8-g2i-16",
+   "name": "HP ZBook 8 G2i 16 Mobile Workstation",
+   "brand": "HP",
+   "category": "workstation-laptops",
+   "price": "6174.00",
+   "priceBasis": "msrp",
+   "priceSource": "https://www.hp.com/us-en/shop/pdp/hp-zbook-8-g2i-16-inch-mobile-workstation-pc-wolf-pro-security-edition-p-df9j8ua-aba-1",
+   "priceAsOf": "2026-09-28",
+   "releaseYear": 2026,
+   "summary": "16-inch ZBook 8 G2i with Intel Core Ultra 7 366H, NVIDIA RTX PRO 500 Blackwell, 32 GB RAM and 1 TB Gen5 SSD.",
+   "description": "This ZBook 8 G2i 16 configuration (DF9J8UA) has an Intel Core Ultra 7 366H (16 cores) with 50 NPU TOPS, an NVIDIA RTX PRO 500 Blackwell Laptop GPU with 6 GB GDDR7, 32 GB DDR5-5600 and a 1 TB PCIe Gen5 SSD. The 16-inch WUXGA IPS touch display is anti-glare at 400 nits. Ports include two Thunderbolt 4, HDMI 2.1, USB-A and RJ-45, with Wi-Fi 7 and a 77 Wh battery.",
+   "keywords": "zbook 8 g2i mobile workstation rtx pro 500 blackwell isv certified",
+   "specs": {
+    "cpu": "Intel Core Ultra 7 366H (16 cores, up to 4.8 GHz)",
+    "cpuBrand": "Intel",
+    "gpu": "NVIDIA RTX PRO 500 Blackwell Laptop GPU (6 GB GDDR7)",
+    "ramGb": 32,
+    "storageTb": 1,
+    "displayIn": 16,
+    "display": "16-inch WUXGA (1920 x 1200) IPS touch, anti-glare, 400 nits, 100% sRGB",
+    "batteryWh": 77,
+    "os": "Windows 11 Pro",
+    "npuTops": 50,
+    "ports": "2x Thunderbolt 4 (40Gbps), USB-A 5Gbps, HDMI 2.1, RJ-45, audio combo",
+    "wireless": "Intel Wi-Fi 7 BE211 (2x2), Bluetooth 6.0",
+    "colors": "Meteor silver aluminium"
+   },
+   "featured": false,
+   "warranty": 36,
+   "sources": {
+    "product": "https://www.hp.com/us-en/shop/pdp/hp-zbook-8-g2i-16-inch-mobile-workstation-pc-wolf-pro-security-edition-p-df9j8ua-aba-1",
+    "specs": "https://www.hp.com/us-en/shop/pdp/hp-zbook-8-g2i-16-inch-mobile-workstation-pc-wolf-pro-security-edition-p-df9j8ua-aba-1",
+    "retrievedAt": "2026-09-28"
+   },
+   "colors": [
+    "Meteor silver"
+   ],
+   "image": {
+    "url": "https://hp.widen.net/content/idwjtbjdvu/png/idwjtbjdvu.png?w=1400&h=1400",
+    "page": "https://www.hp.com/us-en/shop/pdp/hp-zbook-8-g2i-16-inch-mobile-workstation-pc-wolf-pro-security-edition-p-df9j8ua-aba-1",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official HP Store product gallery image (HP Widen DAM); HP has not granted a reuse license — rights not verified.",
+    "alt": "HP ZBook 8 G2i 16 mobile workstation in Meteor silver, front view with the display open",
+    "match": "EXACT"
+   }
+  },
+  {
+   "sku": "TK-HP-ZBOOK-X-G1I-16",
+   "slug": "hp-zbook-x-g1i-16",
+   "name": "HP ZBook X G1i 16 Mobile Workstation",
+   "brand": "HP",
+   "category": "workstation-laptops",
+   "price": "7194.00",
+   "priceBasis": "msrp",
+   "priceSource": "https://www.hp.com/us-en/shop/pdp/hp-zbook-x-g1i-16-inch-mobile-workstation-pc-wolf-pro-security-edition-p-c44yqua-aba-1",
+   "priceAsOf": "2026-09-28",
+   "releaseYear": 2025,
+   "summary": "16-inch ZBook X G1i with Intel Core Ultra 7 255H, NVIDIA RTX PRO 2000 Blackwell, 32 GB DDR5 and 1 TB SSD.",
+   "description": "This ZBook X G1i 16 configuration (C44YQUA) has an Intel Core Ultra 7 255H (16 cores, up to 5.1 GHz), an NVIDIA RTX PRO 2000 Blackwell Laptop GPU with 8 GB GDDR7, 32 GB DDR5-5600 (2 x 16 GB) and a 1 TB PCIe Gen4 SSD. It has a 16-inch WUXGA IPS display, two Thunderbolt 4 ports, HDMI 2.1, Wi-Fi 7, an 83 Wh battery and weighs from 4.5 lb.",
+   "keywords": "zbook x g1i mobile workstation rtx pro 2000 blackwell creator",
+   "specs": {
+    "cpu": "Intel Core Ultra 7 255H (16 cores, up to 5.1 GHz)",
+    "cpuBrand": "Intel",
+    "gpu": "NVIDIA RTX PRO 2000 Blackwell Laptop GPU (8 GB GDDR7)",
+    "ramGb": 32,
+    "storageTb": 1,
+    "displayIn": 16,
+    "display": "16-inch WUXGA (1920 x 1200) IPS, anti-glare, 400 nits, 100% sRGB",
+    "batteryWh": 83,
+    "weightKg": 2.04,
+    "os": "Windows 11 Pro",
+    "npuTops": 13,
+    "ports": "2x Thunderbolt 4 (USB4 40Gbps), USB-A 5Gbps, HDMI 2.1, headphone/mic combo",
+    "wireless": "Intel Wi-Fi 7 BE201 (2x2), Bluetooth 5.4"
+   },
+   "featured": false,
+   "warranty": 36,
+   "sources": {
+    "product": "https://www.hp.com/us-en/shop/pdp/hp-zbook-x-g1i-16-inch-mobile-workstation-pc-wolf-pro-security-edition-p-c44yqua-aba-1",
+    "specs": "https://www.hp.com/us-en/shop/pdp/hp-zbook-x-g1i-16-inch-mobile-workstation-pc-wolf-pro-security-edition-p-c44yqua-aba-1",
+    "retrievedAt": "2026-09-28"
+   },
+   "collections": [
+    "creator-workstations"
+   ],
+   "image": {
+    "url": "https://hp.widen.net/content/h33lghixup/png/h33lghixup.png?w=1400&h=1400",
+    "page": "https://www.hp.com/us-en/shop/pdp/hp-zbook-x-g1i-16-inch-mobile-workstation-pc-wolf-pro-security-edition-p-c44yqua-aba-1",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official HP Store product gallery image (HP Widen DAM); HP has not granted a reuse license — rights not verified.",
+    "alt": "HP ZBook X G1i 16 mobile workstation, front view with the display open",
+    "match": "EXACT"
+   }
+  },
+  {
+   "sku": "TK-HP-ZBOOK-FURY-G1I-16",
+   "slug": "hp-zbook-fury-g1i-16",
+   "name": "HP ZBook Fury G1i 16 Mobile Workstation",
+   "brand": "HP",
+   "category": "workstation-laptops",
+   "price": "18940.00",
+   "priceBasis": "msrp",
+   "priceSource": "https://www.hp.com/us-en/shop/pdp/hp-zbook-fury-g1i-16-inch-mobile-workstation-pc-wolf-pro-security-edition-p-c3fl5ua-aba-1",
+   "priceAsOf": "2026-09-28",
+   "releaseYear": 2025,
+   "summary": "HP's most powerful 16-inch mobile workstation: Core Ultra 9 285HX, NVIDIA RTX PRO 3000 Blackwell, 64 GB ECC and 3 TB of SSD.",
+   "description": "This ZBook Fury G1i 16 configuration (C3FL5UA) has an Intel Core Ultra 9 285HX (24 cores, up to 5.5 GHz), an NVIDIA RTX PRO 3000 Blackwell Laptop GPU with 12 GB GDDR7, 64 GB DDR5-5600 ECC and 1 TB + 2 TB PCIe Gen4 SSDs. It offers two Thunderbolt 5 (80Gbps) ports, HDMI 2.1, an SD reader and RJ-45, Wi-Fi 7, a 99 Wh battery and weighs from 5.36 lb.",
+   "keywords": "zbook fury g1i 16 mobile workstation rtx pro 3000 blackwell thunderbolt 5 ecc",
+   "specs": {
+    "cpu": "Intel Core Ultra 9 285HX (24 cores, up to 5.5 GHz)",
+    "cpuBrand": "Intel",
+    "gpu": "NVIDIA RTX PRO 3000 Blackwell Laptop GPU (12 GB GDDR7)",
+    "ramGb": 64,
+    "storageTb": 3,
+    "displayIn": 16,
+    "display": "16-inch WUXGA (1920 x 1200) IPS, anti-glare, 400 nits, 100% sRGB",
+    "batteryWh": 99,
+    "weightKg": 2.43,
+    "os": "Windows 11 Pro",
+    "npuTops": 13,
+    "ports": "2x Thunderbolt 5 (80Gbps), USB-A 10Gbps, HDMI 2.1, SD card reader, RJ-45, headphone/mic combo",
+    "wireless": "Intel Wi-Fi 7 BE200 (2x2), Bluetooth 5.4"
+   },
+   "featured": false,
+   "warranty": 36,
+   "sources": {
+    "product": "https://www.hp.com/us-en/shop/pdp/hp-zbook-fury-g1i-16-inch-mobile-workstation-pc-wolf-pro-security-edition-p-c3fl5ua-aba-1",
+    "specs": "https://www.hp.com/us-en/shop/pdp/hp-zbook-fury-g1i-16-inch-mobile-workstation-pc-wolf-pro-security-edition-p-c3fl5ua-aba-1",
+    "retrievedAt": "2026-09-28"
+   },
+   "collections": [
+    "creator-workstations",
+    "servers-workstations"
+   ],
+   "image": {
+    "url": "https://hp.widen.net/content/vr0fmeevwz/png/vr0fmeevwz.png?w=1400&h=1400",
+    "page": "https://www.hp.com/us-en/shop/pdp/hp-zbook-fury-g1i-16-inch-mobile-workstation-pc-wolf-pro-security-edition-p-c3fl5ua-aba-1",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official HP Store product gallery image (HP Widen DAM); HP has not granted a reuse license — rights not verified.",
+    "alt": "HP ZBook Fury G1i 16 mobile workstation, front view with the display open",
+    "match": "EXACT"
+   }
+  },
+  {
+   "sku": "TK-HP-ZGX-NANO-G1N",
+   "slug": "hp-zgx-nano-g1n",
+   "name": "HP ZGX Nano G1n AI Station",
+   "brand": "HP",
+   "category": "ai-systems",
+   "price": "6699.00",
+   "priceBasis": "msrp",
+   "priceSource": "https://www.hp.com/us-en/shop/pdp/hp-zgx-nano-g1n-ai-station-p-cz2v8ut-aba-1",
+   "priceAsOf": "2026-09-28",
+   "releaseYear": 2025,
+   "summary": "Palm-sized AI developer station with the NVIDIA GB10 Grace Blackwell Superchip, 128 GB unified memory and 4 TB Gen5 SSD.",
+   "description": "The HP ZGX Nano G1n (CZ2V8UT) is built on the NVIDIA GB10 Grace Blackwell Superchip with a 20-core Arm CPU (10 Cortex-X925 + 10 Cortex-A725) and Blackwell GPU, 128 GB LPDDR5x-8533 unified memory and a 4 TB PCIe Gen5 self-encrypting SSD. Rear I/O includes 10 GbE RJ-45, two QSFP 200 Gbps ports, three USB-C 20Gbps and HDMI 2.1a, powered by a 280 W internal supply. It weighs from 2.76 lb.",
+   "keywords": "zgx nano gb10 grace blackwell dgx spark ai station local llm developer",
+   "specs": {
+    "formFactor": "Compact desktop AI station",
+    "cpu": "NVIDIA GB10 Grace Blackwell Superchip (20-core Arm: 10 Cortex-X925 + 10 Cortex-A725)",
+    "gpus": "NVIDIA Blackwell GPU (integrated in GB10)",
+    "memoryGb": 128,
+    "storage": "4 TB PCIe Gen5 NVMe SED SSD",
+    "network": "10GbE RJ-45, 2x QSFP 200Gbps, Wi-Fi 7, Bluetooth 5.4",
+    "powerKw": 0.28
+   },
+   "featured": true,
+   "warranty": 36,
+   "sources": {
+    "product": "https://www.hp.com/us-en/shop/pdp/hp-zgx-nano-g1n-ai-station-p-cz2v8ut-aba-1",
+    "specs": "https://www.hp.com/us-en/shop/pdp/hp-zgx-nano-g1n-ai-station-p-cz2v8ut-aba-1",
+    "retrievedAt": "2026-09-28"
+   },
+   "collections": [
+    "ai-lab",
+    "ai-workstations"
+   ],
+   "image": {
+    "url": "https://hp.widen.net/content/msaniswk8a/png/msaniswk8a.png?w=1400&h=1400",
+    "page": "https://www.hp.com/us-en/shop/pdp/hp-zgx-nano-g1n-ai-station-p-cz2v8ut-aba-1",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official HP Store product gallery image (HP Widen DAM); HP has not granted a reuse license — rights not verified.",
+    "alt": "HP ZGX Nano G1n AI Station compact desktop unit, three-quarter view",
+    "match": "EXACT"
+   }
+  },
+  {
+   "sku": "TK-HP-Z2-MINI-G1A",
+   "slug": "hp-z2-mini-g1a",
+   "name": "HP Z2 Mini G1a Workstation",
+   "brand": "HP",
+   "category": "workstations",
+   "price": "4764.00",
+   "priceBasis": "msrp",
+   "priceSource": "https://www.hp.com/us-en/shop/pdp/hp-z2-mini-g1a-workstation-desktop-pc-wolf-pro-security-edition-p-bn8e1ua-aba-1",
+   "priceAsOf": "2026-09-28",
+   "releaseYear": 2025,
+   "summary": "Mini workstation with AMD Ryzen AI MAX PRO 385, Radeon 8050S graphics, 32 GB LPDDR5x and a 300 W internal supply.",
+   "description": "This Z2 Mini G1a configuration (BN8E1UA) has an AMD Ryzen AI MAX PRO 385 (8 cores, 16 threads, up to 5.0 GHz) with Radeon 8050S graphics, 32 GB LPDDR5x-8533 memory and a 512 GB PCIe Gen4 SSD. It has a 300 W internal power adapter, Thunderbolt, USB-C and USB-A 10Gbps, RJ-45 and MediaTek Wi-Fi 7, and weighs from 5.07 lb.",
+   "keywords": "z2 mini g1a strix halo ryzen ai max pro mini workstation",
+   "specs": {
+    "cpu": "AMD Ryzen AI MAX PRO 385 (8 cores, 16 threads, up to 5.0 GHz)",
+    "cpuBrand": "AMD",
+    "gpu": "AMD Radeon 8050S Graphics (integrated)",
+    "ramGb": 32,
+    "storageTb": 0.5,
+    "os": "Windows 11 Pro",
+    "networking": "RJ-45, MediaTek Wi-Fi 7 MT7925 (2x2), Bluetooth 5.4",
+    "psuW": 300,
+    "ports": "Thunderbolt, USB-C 10Gbps, 3x USB-A 10Gbps, RJ-45, headphone/mic combo"
+   },
+   "featured": false,
+   "warranty": 36,
+   "sources": {
+    "product": "https://www.hp.com/us-en/shop/pdp/hp-z2-mini-g1a-workstation-desktop-pc-wolf-pro-security-edition-p-bn8e1ua-aba-1",
+    "specs": "https://www.hp.com/us-en/shop/pdp/hp-z2-mini-g1a-workstation-desktop-pc-wolf-pro-security-edition-p-bn8e1ua-aba-1",
+    "retrievedAt": "2026-09-28"
+   },
+   "collections": [
+    "ai-workstations",
+    "developer-setup"
+   ],
+   "image": {
+    "url": "https://hp.widen.net/content/0jnrmxo6jw/png/0jnrmxo6jw.png?w=1400&h=1400",
+    "page": "https://www.hp.com/us-en/shop/pdp/hp-z2-mini-g1a-workstation-desktop-pc-wolf-pro-security-edition-p-bn8e1ua-aba-1",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official HP Store product gallery image (HP Widen DAM); HP has not granted a reuse license — rights not verified.",
+    "alt": "HP Z2 Mini G1a compact workstation, front three-quarter view",
+    "match": "EXACT"
+   }
+  },
+  {
+   "sku": "TK-HP-Z2-TOWER-G1I",
+   "slug": "hp-z2-tower-g1i",
+   "name": "HP Z2 Tower G1i Workstation",
+   "brand": "HP",
+   "category": "workstations",
+   "price": "3569.00",
+   "priceBasis": "starting-at",
+   "priceSource": "https://www.hp.com/us-en/shop/pdp/hp-z2-tower-g1i-workstation-desktop-pc-customizable-b04f0av-mb",
+   "priceAsOf": "2026-09-28",
+   "releaseYear": 2025,
+   "summary": "Entry tower workstation with Intel Core Ultra 200S processors, DDR5 and NVIDIA RTX professional graphics options.",
+   "description": "The configurable HP Z2 Tower G1i starts with an Intel Core Ultra 5 225 (10 cores, 65 W) and 16 GB DDR5-5600 UDIMM memory, with NVIDIA RTX professional graphics options starting at the RTX A400. Front I/O includes two USB-C 20Gbps and four USB-A 10Gbps, with DisplayPort 1.4 and RJ-45 on the rear. It weighs from 19 lb.",
+   "keywords": "z2 tower g1i workstation core ultra customizable rtx",
+   "specs": {
+    "cpu": "Intel Core Ultra 5 225 (10 cores, up to 4.9 GHz, 65 W)",
+    "cpuBrand": "Intel",
+    "ramGb": 16,
+    "os": "Windows 11 Pro",
+    "ports": "Front: 2x USB-C 20Gbps, 4x USB-A 10Gbps, audio combo; Rear: USB-A 10Gbps, 2x DisplayPort 1.4, RJ-45"
+   },
+   "featured": false,
+   "warranty": 36,
+   "sources": {
+    "product": "https://www.hp.com/us-en/shop/pdp/hp-z2-tower-g1i-workstation-desktop-pc-customizable-b04f0av-mb",
+    "specs": "https://www.hp.com/us-en/shop/pdp/hp-z2-tower-g1i-workstation-desktop-pc-customizable-b04f0av-mb",
+    "retrievedAt": "2026-09-28"
+   },
+   "collections": [
+    "servers-workstations"
+   ],
+   "image": {
+    "url": "https://hp.widen.net/content/zansv3yslk/png/zansv3yslk.png?w=1400&h=1400",
+    "page": "https://www.hp.com/us-en/shop/pdp/hp-z2-tower-g1i-workstation-desktop-pc-customizable-b04f0av-mb",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official HP Store product gallery image (HP Widen DAM); HP has not granted a reuse license — rights not verified.",
+    "alt": "HP Z2 Tower G1i workstation tower, front three-quarter view",
+    "match": "PRODUCT_LINE"
+   }
+  },
+  {
+   "sku": "TK-HP-Z4-G6I",
+   "slug": "hp-z4-g6i",
+   "name": "HP Z4 G6i Workstation",
+   "brand": "HP",
+   "category": "workstations",
+   "price": "8219.00",
+   "priceBasis": "starting-at",
+   "priceSource": "https://www.hp.com/us-en/shop/pdp/hp-z4-g6i-workstation-desktop-pc-customizable-b50txav-mb",
+   "priceAsOf": "2026-09-28",
+   "releaseYear": 2026,
+   "summary": "Single-socket Intel Xeon 600 workstation with DDR5-6400 ECC RDIMM memory and NVIDIA RTX graphics, successor to the Z4 G5.",
+   "description": "The configurable HP Z4 G6i starts with an Intel Xeon 634 (12 cores, 2.7 GHz up to 4.6 GHz, 150 W), NVIDIA RTX A400 graphics with 4 GB GDDR6 and 16 GB DDR5-6400 ECC registered memory. Storage options include HP Z Turbo Drive Quad Pro PCIe Gen5 SSDs up to 4 TB per drive. It weighs from 30.4 lb.",
+   "keywords": "z4 g6i xeon 600 workstation ecc ddr5 rtx customizable",
+   "specs": {
+    "cpu": "Intel Xeon 634 (12 cores, 2.7 GHz, up to 4.6 GHz, 150 W)",
+    "cpuBrand": "Intel",
+    "gpu": "NVIDIA RTX A400 (4 GB GDDR6)",
+    "ramGb": 16,
+    "os": "Windows 11 Pro"
+   },
+   "featured": false,
+   "warranty": 36,
+   "sources": {
+    "product": "https://www.hp.com/us-en/shop/pdp/hp-z4-g6i-workstation-desktop-pc-customizable-b50txav-mb",
+    "specs": "https://www.hp.com/us-en/shop/pdp/hp-z4-g6i-workstation-desktop-pc-customizable-b50txav-mb",
+    "retrievedAt": "2026-09-28"
+   },
+   "collections": [
+    "creator-workstations",
+    "servers-workstations"
+   ],
+   "image": {
+    "url": "https://hp.widen.net/content/qtkl1yxqvg/png/qtkl1yxqvg.png?w=1400&h=1400",
+    "page": "https://www.hp.com/us-en/shop/pdp/hp-z4-g6i-workstation-desktop-pc-customizable-b50txav-mb",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official HP Store product gallery image (HP Widen DAM); HP has not granted a reuse license — rights not verified.",
+    "alt": "HP Z4 G6i workstation tower, front three-quarter view",
+    "match": "PRODUCT_LINE"
+   }
+  },
+  {
+   "sku": "TK-HP-ELITEDESK-8-MINI-G1I",
+   "slug": "hp-elitedesk-8-mini-g1i",
+   "name": "HP EliteDesk 8 Mini G1i Desktop AI PC",
+   "brand": "HP",
+   "category": "mini-pcs",
+   "price": "2300.00",
+   "priceBasis": "msrp",
+   "priceSource": "https://www.hp.com/us-en/shop/pdp/hp-elitedesk-8-mini-g1i-desktop-ai-pc-wolf-pro-security-edition-p-c6tx4ua-aba-1",
+   "priceAsOf": "2026-09-28",
+   "releaseYear": 2025,
+   "summary": "Business mini desktop with Intel Core Ultra 7 265T, vPro Q870 chipset, Wi-Fi 7 and Thunderbolt in a 2.97 lb chassis.",
+   "description": "This EliteDesk 8 Mini G1i configuration (C6TX4UA) has an Intel Core Ultra 7 265T on the Intel Q870 (vPro) chipset, 16 GB DDR5-5600 and a 512 GB PCIe NVMe SSD. It has front USB-C 20Gbps and USB-A, rear HDMI 2.1, two DisplayPort 2.1 and RJ-45, Wi-Fi 7 with Bluetooth 5.4 and a 90 W external adapter. HP includes a wired keyboard and mouse.",
+   "keywords": "elitedesk 8 mini g1i business mini pc vpro small form factor",
+   "specs": {
+    "cpu": "Intel Core Ultra 7 265T",
+    "cpuBrand": "Intel",
+    "gpu": "Intel Graphics (integrated)",
+    "ramGb": 16,
+    "storageTb": 0.5,
+    "os": "Windows 11 Pro",
+    "networking": "RJ-45, Intel Wi-Fi 7 BE200 (2x2), Bluetooth 5.4",
+    "psuW": 90,
+    "ports": "Front: USB-C 20Gbps, 2x USB-A 10Gbps; Rear: 2x USB-A 10Gbps, HDMI 2.1, 2x DisplayPort 2.1, Thunderbolt, RJ-45"
+   },
+   "featured": false,
+   "warranty": 36,
+   "sources": {
+    "product": "https://www.hp.com/us-en/shop/pdp/hp-elitedesk-8-mini-g1i-desktop-ai-pc-wolf-pro-security-edition-p-c6tx4ua-aba-1",
+    "specs": "https://www.hp.com/us-en/shop/pdp/hp-elitedesk-8-mini-g1i-desktop-ai-pc-wolf-pro-security-edition-p-c6tx4ua-aba-1",
+    "retrievedAt": "2026-09-28"
+   },
+   "collections": [
+    "small-business"
+   ],
+   "image": {
+    "url": "https://hp.widen.net/content/lprmejrgdj/png/lprmejrgdj.png?w=1400&h=1400",
+    "page": "https://www.hp.com/us-en/shop/pdp/hp-elitedesk-8-mini-g1i-desktop-ai-pc-wolf-pro-security-edition-p-c6tx4ua-aba-1",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official HP Store product gallery image (HP Widen DAM); HP has not granted a reuse license — rights not verified.",
+    "alt": "HP EliteDesk 8 Mini G1i mini desktop, front three-quarter view",
+    "match": "EXACT"
+   }
+  },
+  {
+   "sku": "TK-HP-CHROMEBOOK-X360-14BT",
+   "slug": "hp-chromebook-x360-14bt-ce000",
+   "name": "HP Chromebook x360 14 (14bt-ce000)",
+   "brand": "HP",
+   "category": "chromebooks",
+   "price": "549.99",
+   "priceBasis": "starting-at",
+   "priceSource": "https://www.hp.com/us-en/shop/pdp/hp-chromebook-x360-14bt-ce000-14-c53glav-1",
+   "priceAsOf": "2026-09-28",
+   "releaseYear": 2025,
+   "summary": "Convertible 14-inch Chromebook with Intel N150, a 1920 x 1200 touch display and Wi-Fi 6.",
+   "description": "The configurable HP Chromebook x360 14bt-ce000 starts with an Intel N150 (4 cores, up to 3.6 GHz), 4 GB onboard memory and 64 GB eMMC storage running ChromeOS. It has a 14-inch 1920 x 1200 IPS multitouch display, USB-C 10Gbps and USB-A 5Gbps, Realtek Wi-Fi 6 with Bluetooth 5.4, a 41 Wh battery and weighs 3.04 lb.",
+   "keywords": "chromebook x360 14 convertible chromeos student n150",
+   "specs": {
+    "cpu": "Intel N150 (4 cores, up to 3.6 GHz)",
+    "cpuBrand": "Intel",
+    "gpu": "Intel Graphics (integrated)",
+    "ramGb": 4,
+    "storageTb": 0.064,
+    "displayIn": 14,
+    "display": "14-inch 1920 x 1200 IPS multitouch, 300 nits",
+    "batteryWh": 41,
+    "weightKg": 1.38,
+    "os": "ChromeOS",
+    "ports": "USB-C 10Gbps (PD 3.1, DP 1.4), USB-A 5Gbps, headphone/mic combo",
+    "wireless": "Realtek Wi-Fi 6 (2x2), Bluetooth 5.4",
+    "colors": "Meteor silver"
+   },
+   "featured": false,
+   "warranty": 12,
+   "sources": {
+    "product": "https://www.hp.com/us-en/shop/pdp/hp-chromebook-x360-14bt-ce000-14-c53glav-1",
+    "specs": "https://www.hp.com/us-en/shop/pdp/hp-chromebook-x360-14bt-ce000-14-c53glav-1",
+    "retrievedAt": "2026-09-28"
+   },
+   "colors": [
+    "Meteor silver"
+   ],
+   "image": {
+    "url": "https://hp.widen.net/content/jqzk0npkh8/png/jqzk0npkh8.png?w=1400&h=1400",
+    "page": "https://www.hp.com/us-en/shop/pdp/hp-chromebook-x360-14bt-ce000-14-c53glav-1",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official HP Store product gallery image (HP Widen DAM); HP has not granted a reuse license — rights not verified.",
+    "alt": "HP Chromebook x360 14 in Meteor silver, front view with the touch display open",
+    "match": "PRODUCT_LINE"
+   }
+  },
+  {
+   "sku": "TK-HP-GOOGLEBOOK-14",
+   "slug": "hp-googlebook-14",
+   "name": "HP Googlebook 14",
+   "brand": "HP",
+   "category": "premium-laptops",
+   "price": "1199.99",
+   "priceBasis": "starting-at",
+   "priceSource": "https://www.hp.com/us-en/shop/pdp/hp-googlebook-14-cj7x9av-1",
+   "priceAsOf": "2026-09-28",
+   "releaseYear": 2026,
+   "summary": "One of the first Googlebook laptops, built around Gemini, with Snapdragon X Elite, a 3K 120 Hz OLED touch display and Android phone integration.",
+   "description": "The configurable HP Googlebook 14 runs Googlebook OS with Google Gemini built in and starts with a Snapdragon X Elite X1E-80-100 (12 cores, 45 NPU TOPS), 16 GB LPDDR5x and a 256 GB PCIe Gen4 SSD. It has a 14-inch 2880 x 1800 OLED multitouch display up to 120 Hz, Wi-Fi 7, a 70 Wh battery and weighs 2.74 lb. HP highlights phone app casting and task continuity with Android phones.",
+   "keywords": "googlebook gemini snapdragon x elite oled android laptop google",
+   "specs": {
+    "cpu": "Snapdragon X Elite X1E-80-100 (12 cores, up to 4.0 GHz)",
+    "cpuBrand": "Qualcomm",
+    "gpu": "Qualcomm Adreno GPU",
+    "ramGb": 16,
+    "storageTb": 0.256,
+    "displayIn": 14,
+    "display": "14-inch 3K (2880 x 1800) OLED multitouch, up to 120 Hz",
+    "batteryWh": 70,
+    "weightKg": 1.24,
+    "os": "Googlebook OS",
+    "npuTops": 45,
+    "ports": "2x USB-C 10Gbps (PD 3.0, DP 1.4), headphone/mic combo",
+    "wireless": "Qualcomm FastConnect 7800 Wi-Fi 7 (2x2), Bluetooth 5.4"
+   },
+   "featured": true,
+   "warranty": 12,
+   "sources": {
+    "product": "https://www.hp.com/us-en/laptops/home-laptops/googlebook.html",
+    "specs": "https://www.hp.com/us-en/shop/pdp/hp-googlebook-14-cj7x9av-1",
+    "retrievedAt": "2026-09-28"
+   },
+   "collections": [
+    "pixel-google"
+   ],
+   "image": {
+    "url": "https://hp.widen.net/content/kgw9ozulpy/png/kgw9ozulpy.png?w=1400&h=1400",
+    "page": "https://www.hp.com/us-en/shop/pdp/hp-googlebook-14-cj7x9av-1",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official HP Store product gallery image (HP Widen DAM); HP has not granted a reuse license — rights not verified.",
+    "alt": "HP Googlebook 14 laptop, front view with the OLED display open",
+    "match": "PRODUCT_LINE"
+   }
+  },
+  {
+   "sku": "TK-HP-OMNISTUDIO-X-32",
+   "slug": "hp-omnistudio-x-32-aio",
+   "name": "HP OmniStudio X 32 All-in-One (32-cs0000t)",
+   "brand": "HP",
+   "category": "all-in-ones",
+   "price": "2519.99",
+   "priceBasis": "starting-at",
+   "priceSource": "https://www.hp.com/us-en/shop/pdp/hp-omnistudio-x-all-in-one-desktop-next-gen-ai-32-cs0000t-pc-315-a31vhav-1",
+   "priceAsOf": "2026-09-28",
+   "releaseYear": 2025,
+   "summary": "31.5-inch 4K all-in-one with an HDR 600, 95% DCI-P3 display and USB-C DisplayPort in/out.",
+   "description": "The configurable HP OmniStudio X 32-cs0000t all-in-one has a 31.5-inch 4K UHD IPS display with 550 nits, HDR 600 and 95% DCI-P3. The base build includes a 512 GB PCIe Gen4 SSD, Realtek Wi-Fi 6 with Bluetooth 5.4 and a 280 W 80 Plus Platinum power supply, and it offers a USB-C 20Gbps port with DisplayPort in/out plus USB-A 10Gbps and RJ-45.",
+   "keywords": "omnistudio x 32 all-in-one 4k aio desktop",
+   "specs": {
+    "storageTb": 0.5,
+    "os": "Windows 11 Home",
+    "networking": "RJ-45, Realtek Wi-Fi 6 (2x2), Bluetooth 5.4",
+    "psuW": 280,
+    "displayIn": 31.5,
+    "ports": "Side: USB-C 10Gbps, 2x USB-A 10Gbps; Rear: 2x USB-A 10Gbps, USB-C 20Gbps (DP 1.4 in/out), RJ-45, headphone/mic combo"
+   },
+   "featured": false,
+   "warranty": 12,
+   "sources": {
+    "product": "https://www.hp.com/us-en/shop/pdp/hp-omnistudio-x-all-in-one-desktop-next-gen-ai-32-cs0000t-pc-315-a31vhav-1",
+    "specs": "https://www.hp.com/us-en/shop/pdp/hp-omnistudio-x-all-in-one-desktop-next-gen-ai-32-cs0000t-pc-315-a31vhav-1",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://hp.widen.net/content/s5gzgtxmg1/png/s5gzgtxmg1.png?w=1400&h=1400",
+    "page": "https://www.hp.com/us-en/shop/pdp/hp-omnistudio-x-all-in-one-desktop-next-gen-ai-32-cs0000t-pc-315-a31vhav-1",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official HP Store product gallery image (HP Widen DAM); HP has not granted a reuse license — rights not verified.",
+    "alt": "HP OmniStudio X 32 all-in-one desktop, front view of the 31.5-inch display",
+    "match": "PRODUCT_LINE"
+   }
+  },
+  {
+   "sku": "TK-HP-OMNIBOOK-7-AERO-13",
+   "slug": "hp-omnibook-7-aero-13",
+   "name": "HP OmniBook 7 Aero 13 (13-bg1059nr)",
+   "brand": "HP",
+   "category": "premium-laptops",
+   "price": "1779.99",
+   "priceBasis": "msrp",
+   "priceSource": "https://www.hp.com/us-en/shop/pdp/hp-omnibook-7-aero-laptop-next-gen-ai-13-bg1059nr",
+   "priceAsOf": "2026-09-28",
+   "releaseYear": 2025,
+   "summary": "Ultralight 13.3-inch OmniBook 7 Aero under 2.2 lb with AMD Ryzen AI 7 350, 50 NPU TOPS and a 1 TB SSD.",
+   "description": "The OmniBook 7 Aero 13-bg1059nr (CF7H2UA) has an AMD Ryzen AI 7 350 with Radeon 860M graphics and a 50 TOPS NPU, 16 GB LPDDR5x-7500 and a 1 TB PCIe Gen4 SSD. The 13.3-inch 1920 x 1200 IPS display is anti-glare at 400 nits with 100% sRGB. It has two USB-C 10Gbps, two USB-A and HDMI 2.1, Wi-Fi 6, a 43 Wh battery and weighs under 2.2 lb.",
+   "keywords": "omnibook 7 aero 13 ultralight ryzen ai copilot+ laptop",
+   "specs": {
+    "cpu": "AMD Ryzen AI 7 350",
+    "cpuBrand": "AMD",
+    "gpu": "AMD Radeon 860M Graphics",
+    "ramGb": 16,
+    "storageTb": 1,
+    "displayIn": 13.3,
+    "display": "13.3-inch 1920 x 1200 IPS, anti-glare, 400 nits, 100% sRGB",
+    "batteryWh": 43,
+    "os": "Windows 11 Home",
+    "npuTops": 50,
+    "ports": "2x USB-C 10Gbps (PD 3.1, DP 2.1), USB-A 10Gbps, USB-A 5Gbps, HDMI 2.1, headphone/mic combo",
+    "wireless": "Realtek Wi-Fi 6 (2x2), Bluetooth 5.4",
+    "colors": "Glacier silver aluminum"
+   },
+   "featured": false,
+   "warranty": 12,
+   "sources": {
+    "product": "https://www.hp.com/us-en/shop/pdp/hp-omnibook-7-aero-laptop-next-gen-ai-13-bg1059nr",
+    "specs": "https://www.hp.com/us-en/shop/pdp/hp-omnibook-7-aero-laptop-next-gen-ai-13-bg1059nr",
+    "retrievedAt": "2026-09-28"
+   },
+   "colors": [
+    "Glacier silver"
+   ],
+   "image": {
+    "url": "https://hp.widen.net/content/nmsr64uw3x/png/nmsr64uw3x.png?w=1400&h=1400",
+    "page": "https://www.hp.com/us-en/shop/pdp/hp-omnibook-7-aero-laptop-next-gen-ai-13-bg1059nr",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official HP Store product gallery image (HP Widen DAM); HP has not granted a reuse license — rights not verified.",
+    "alt": "HP OmniBook 7 Aero 13 laptop in Glacier silver, front view with the display open",
+    "match": "EXACT"
+   }
+  },
+  {
+   "sku": "TK-HP-OMNIBOOK-X-17",
+   "slug": "hp-omnibook-x-17",
+   "name": "HP OmniBook X 17 (17-dd0047nr)",
+   "brand": "HP",
+   "category": "premium-laptops",
+   "price": "1399.99",
+   "priceBasis": "msrp",
+   "priceSource": "https://www.hp.com/us-en/shop/pdp/hp-omnibook-x-ngai-17-dd0047nr",
+   "priceAsOf": "2026-09-28",
+   "releaseYear": 2025,
+   "summary": "17.3-inch OmniBook X with Intel Core Ultra 7 256V, Arc 140V graphics, a touch display and an 83 Wh battery.",
+   "description": "The OmniBook X 17-dd0047nr (B88A2UA) has an Intel Core Ultra 7 256V with Intel Arc 140V GPU and 47 NPU TOPS, 16 GB LPDDR5x-8533 and a 512 GB PCIe Gen4 SSD. The 17.3-inch FHD IPS multitouch display is rated at 400 nits. Ports include Thunderbolt 4, USB-C 10Gbps, three USB-A 10Gbps and HDMI 2.1, with Wi-Fi 7, an 83 Wh battery and a 5.31 lb aluminum chassis.",
+   "keywords": "omnibook x 17 large screen copilot+ lunar lake laptop",
+   "specs": {
+    "cpu": "Intel Core Ultra 7 256V",
+    "cpuBrand": "Intel",
+    "gpu": "Intel Arc 140V GPU",
+    "ramGb": 16,
+    "storageTb": 0.5,
+    "displayIn": 17.3,
+    "display": "17.3-inch FHD (1920 x 1080) IPS multitouch, 400 nits",
+    "batteryWh": 83,
+    "weightKg": 2.41,
+    "os": "Windows 11 Home",
+    "npuTops": 47,
+    "ports": "Thunderbolt 4 (40Gbps), USB-C 10Gbps, 3x USB-A 10Gbps, HDMI 2.1, headphone/mic combo",
+    "wireless": "Intel Wi-Fi 7 BE201 (2x2), Bluetooth 5.4",
+    "colors": "Glacier silver aluminum"
+   },
+   "featured": false,
+   "warranty": 12,
+   "sources": {
+    "product": "https://www.hp.com/us-en/shop/pdp/hp-omnibook-x-ngai-17-dd0047nr",
+    "specs": "https://www.hp.com/us-en/shop/pdp/hp-omnibook-x-ngai-17-dd0047nr",
+    "retrievedAt": "2026-09-28"
+   },
+   "colors": [
+    "Glacier silver"
+   ],
+   "image": {
+    "url": "https://hp.widen.net/content/yz1cwyyxcz/png/yz1cwyyxcz.png?w=1400&h=1400",
+    "page": "https://www.hp.com/us-en/shop/pdp/hp-omnibook-x-ngai-17-dd0047nr",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official HP Store product gallery image (HP Widen DAM); HP has not granted a reuse license — rights not verified.",
+    "alt": "HP OmniBook X 17 laptop in Glacier silver, front view with the display open",
+    "match": "EXACT"
+   }
+  },
+  {
+   "sku": "TK-HP-OMNIBOOK-X-FLIP-14-KB",
+   "slug": "hp-omnibook-x-flip-14-kb000",
+   "name": "HP OmniBook X Flip 14 (14t-kb000)",
+   "brand": "HP",
+   "category": "premium-laptops",
+   "price": "1399.99",
+   "priceBasis": "starting-at",
+   "priceSource": "https://www.hp.com/us-en/shop/pdp/hp-omnibook-x-flip-laptop-next-gen-ai-14t-kb000-14-c33d6av-1",
+   "priceAsOf": "2026-09-28",
+   "releaseYear": 2026,
+   "summary": "14-inch convertible OmniBook X Flip with Intel Core Ultra 5 325, 47 NPU TOPS, two Thunderbolt 4 ports and Wi-Fi 7.",
+   "description": "The configurable OmniBook X Flip 14t-kb000 starts with an Intel Core Ultra 5 325 with Intel AI Boost (47 NPU TOPS), 16 GB onboard memory and a 512 GB PCIe Gen4 SSD. It has a 14-inch 1920 x 1200 IPS multitouch display, two Thunderbolt 4 ports, two USB-A 10Gbps and HDMI 2.1, MediaTek Wi-Fi 7 with Bluetooth 6.0, a 59 Wh battery and weighs 3.09 lb.",
+   "keywords": "omnibook x flip 14 2-in-1 convertible panther lake copilot+",
+   "specs": {
+    "cpu": "Intel Core Ultra 5 325",
+    "cpuBrand": "Intel",
+    "gpu": "Intel Graphics (integrated)",
+    "ramGb": 16,
+    "storageTb": 0.5,
+    "displayIn": 14,
+    "display": "14-inch 1920 x 1200 IPS multitouch, edge-to-edge glass",
+    "batteryWh": 59,
+    "weightKg": 1.4,
+    "os": "Windows 11 Home",
+    "npuTops": 47,
+    "ports": "2x Thunderbolt 4 (40Gbps, DP 2.1), 2x USB-A 10Gbps, HDMI 2.1, headphone/mic combo",
+    "wireless": "MediaTek Wi-Fi 7 MT7925 (2x2), Bluetooth 6.0",
+    "colors": "Atmospheric Blue"
+   },
+   "featured": false,
+   "warranty": 12,
+   "sources": {
+    "product": "https://www.hp.com/us-en/shop/pdp/hp-omnibook-x-flip-laptop-next-gen-ai-14t-kb000-14-c33d6av-1",
+    "specs": "https://www.hp.com/us-en/shop/pdp/hp-omnibook-x-flip-laptop-next-gen-ai-14t-kb000-14-c33d6av-1",
+    "retrievedAt": "2026-09-28"
+   },
+   "colors": [
+    "Atmospheric Blue"
+   ],
+   "image": {
+    "url": "https://hp.widen.net/content/q7hfcdrjqy/png/q7hfcdrjqy.png?w=1400&h=1400",
+    "page": "https://www.hp.com/us-en/shop/pdp/hp-omnibook-x-flip-laptop-next-gen-ai-14t-kb000-14-c33d6av-1",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official HP Store product gallery image (HP Widen DAM); HP has not granted a reuse license — rights not verified.",
+    "alt": "HP OmniBook X Flip 14 2-in-1 laptop in Atmospheric Blue, front view",
+    "match": "PRODUCT_LINE"
+   }
+  },
+  {
+   "sku": "TK-HYPERX-CLOUD-III-S-WL",
+   "slug": "hyperx-cloud-iii-s-wireless",
+   "name": "HyperX Cloud III S Wireless Gaming Headset",
+   "brand": "HyperX",
+   "category": "headsets",
+   "price": "179.99",
+   "priceBasis": "msrp",
+   "priceSource": "https://www.hp.com/us-en/shop/pdp/hyperx-cloud-iii-s-wireless-gaming-headset-(black-red)",
+   "priceAsOf": "2026-09-28",
+   "releaseYear": 2025,
+   "summary": "Dual-wireless (2.4 GHz + Bluetooth) HyperX headset with 53 mm drivers and up to 120 hours of battery life.",
+   "description": "The HyperX Cloud III S Wireless (A59Z0AA) is a closed-back over-ear headset with 53 mm dynamic neodymium drivers, memory-foam leatherette cushions and an aluminum fork frame. It connects over 2.4 GHz wireless or Bluetooth with up to 20 m range, and HyperX rates battery life at up to 120 hours on 2.4 GHz. It uses an electret condenser microphone.",
+   "keywords": "hyperx cloud iii s wireless gaming headset bluetooth 120 hour",
+   "specs": {
+    "connection": "2.4 GHz wireless (USB), Bluetooth",
+    "colors": "Black-Red",
+    "batteryHours": 120
+   },
+   "featured": false,
+   "warranty": 24,
+   "sources": {
+    "product": "https://www.hp.com/us-en/shop/pdp/hyperx-cloud-iii-s-wireless-gaming-headset-(black-red)",
+    "specs": "https://www.hp.com/us-en/shop/pdp/hyperx-cloud-iii-s-wireless-gaming-headset-(black-red)",
+    "retrievedAt": "2026-09-28"
+   },
+   "colors": [
+    "Black-Red"
+   ],
+   "collections": [
+    "ultimate-gaming-setup"
+   ],
+   "image": {
+    "url": "https://hp.widen.net/content/ehbgpefiak/png/ehbgpefiak.png?w=1400&h=1400",
+    "page": "https://www.hp.com/us-en/shop/pdp/hyperx-cloud-iii-s-wireless-gaming-headset-(black-red)",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official HP Store product gallery image (HP Widen DAM); HP has not granted a reuse license — rights not verified.",
+    "alt": "HyperX Cloud III S Wireless gaming headset in black and red, three-quarter view",
+    "match": "EXACT"
+   }
+  },
+  {
+   "sku": "TK-HYPERX-ALLOY-RISE",
+   "slug": "hyperx-alloy-rise",
+   "name": "HyperX Alloy Rise Gaming Keyboard",
+   "brand": "HyperX",
+   "category": "keyboards",
+   "price": "199.99",
+   "priceBasis": "msrp",
+   "priceSource": "https://www.hp.com/us-en/shop/pdp/hyperx-alloy-rise-gaming-keyboards",
+   "priceAsOf": "2026-09-28",
+   "releaseYear": 2024,
+   "summary": "Full-size HyperX mechanical keyboard with linear switches, per-key RGB and a replaceable magnetic top plate.",
+   "description": "The HyperX Alloy Rise (7G7A3AA) is a full-size mechanical keyboard with HyperX Linear switches (40 g, 2 mm actuation), per-key RGB lighting and a replaceable magnetic top plate. It supports N-key rollover and 100% anti-ghosting, stores 10 onboard profiles and uses a 5.9 ft cable.",
+   "keywords": "hyperx alloy rise mechanical gaming keyboard rgb linear",
+   "specs": {
+    "connection": "Wired USB",
+    "colors": "Black",
+    "layout": "Full size (US)",
+    "switchType": "HyperX Linear",
+    "mechanical": true
+   },
+   "featured": false,
+   "warranty": 24,
+   "sources": {
+    "product": "https://www.hp.com/us-en/shop/pdp/hyperx-alloy-rise-gaming-keyboards",
+    "specs": "https://www.hp.com/us-en/shop/pdp/hyperx-alloy-rise-gaming-keyboards",
+    "retrievedAt": "2026-09-28"
+   },
+   "colors": [
+    "Black"
+   ],
+   "collections": [
+    "ultimate-gaming-setup"
+   ],
+   "image": {
+    "url": "https://hp.widen.net/content/slpnzxinzj/png/slpnzxinzj.png?w=1400&h=1400",
+    "page": "https://www.hp.com/us-en/shop/pdp/hyperx-alloy-rise-gaming-keyboards",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official HP Store product gallery image (HP Widen DAM); HP has not granted a reuse license — rights not verified.",
+    "alt": "HyperX Alloy Rise full-size mechanical gaming keyboard in black, top view",
+    "match": "EXACT"
+   }
+  },
+  {
+   "sku": "TK-HYPERX-HASTE-2-S-WL",
+   "slug": "hyperx-pulsefire-haste-2-s-wireless",
+   "name": "HyperX Pulsefire Haste 2 S Wireless Gaming Mouse",
+   "brand": "HyperX",
+   "category": "mice",
+   "price": "149.99",
+   "priceBasis": "msrp",
+   "priceSource": "https://www.hp.com/us-en/shop/pdp/hyperx-pulsefire-haste-2-s-navy-wireless-gaming-mouse",
+   "priceAsOf": "2026-09-28",
+   "releaseYear": 2025,
+   "summary": "Lightweight tri-mode HyperX mouse with the HyperX 26K sensor, 2.4 GHz/Bluetooth/wired connectivity and up to 120 hours of battery.",
+   "description": "The HyperX Pulsefire Haste 2 S Wireless (9B001AA) uses the HyperX 26K sensor (up to 26,000 DPI, 650 IPS) with six buttons and HyperX switches rated for 100 million clicks. It connects over 2.4 GHz wireless, Bluetooth 5.1 or a 5.9 ft cable, with up to 120 hours of battery life.",
+   "keywords": "hyperx pulsefire haste 2 s wireless lightweight gaming mouse 26k",
+   "specs": {
+    "connection": "2.4 GHz wireless, Bluetooth 5.1, wired",
+    "colors": "Navy",
+    "sensorDpi": 26000,
+    "weightG": 63,
+    "buttons": 6
+   },
+   "featured": false,
+   "warranty": 24,
+   "sources": {
+    "product": "https://www.hp.com/us-en/shop/pdp/hyperx-pulsefire-haste-2-s-navy-wireless-gaming-mouse",
+    "specs": "https://www.hp.com/us-en/shop/pdp/hyperx-pulsefire-haste-2-s-navy-wireless-gaming-mouse",
+    "retrievedAt": "2026-09-28"
+   },
+   "colors": [
+    "Navy"
+   ],
+   "collections": [
+    "ultimate-gaming-setup"
+   ],
+   "image": {
+    "url": "https://hp.widen.net/content/ivbb0bzhfn/png/ivbb0bzhfn.png?w=1400&h=1400",
+    "page": "https://www.hp.com/us-en/shop/pdp/hyperx-pulsefire-haste-2-s-navy-wireless-gaming-mouse",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official HP Store product gallery image (HP Widen DAM); HP has not granted a reuse license — rights not verified.",
+    "alt": "HyperX Pulsefire Haste 2 S Wireless gaming mouse in navy, three-quarter view",
+    "match": "EXACT"
+   }
+  },
+  {
+   "sku": "TK-HP-OMEN-TRANSCEND-32",
+   "slug": "omen-transcend-32",
+   "name": "OMEN Transcend 32 4K 240 Hz QD-OLED Gaming Monitor",
+   "brand": "HP",
+   "category": "gaming-monitors",
+   "price": "1299.99",
+   "priceBasis": "msrp",
+   "priceSource": "https://www.hp.com/us-en/shop/pdp/omen-transcend-315-inch-uhd-240hz-oled-gaming-monitor-omen-transcend-32",
+   "priceAsOf": "2026-09-28",
+   "releaseYear": 2025,
+   "summary": "31.5-inch 4K QD-OLED gaming monitor at 240 Hz with 0.03 ms response, HDMI 2.1, DisplayPort 2.1 and 140 W USB-C.",
+   "description": "The OMEN Transcend 32 (9R181AA) is a 31.5-inch 4K UHD QD-OLED monitor with a 240 Hz refresh rate and 0.03 ms GtG response. Inputs include DisplayPort 2.1, two HDMI 2.1 and a USB-C port with up to 140 W power delivery and DisplayPort alt mode, plus a USB hub. The stand offers height, tilt and pivot adjustment.",
+   "keywords": "omen transcend 32 qd-oled 4k 240hz gaming monitor displayport 2.1",
+   "specs": {
+    "sizeIn": 31.5,
+    "resolution": "3840 x 2160 (4K UHD)",
+    "refreshHz": 240,
+    "panel": "QD-OLED",
+    "inputs": "1x DisplayPort 2.1, 2x HDMI 2.1, USB-C (DP alt mode)",
+    "usbCPowerW": 140
+   },
+   "featured": true,
+   "warranty": 36,
+   "sources": {
+    "product": "https://www.hp.com/us-en/shop/pdp/omen-transcend-315-inch-uhd-240hz-oled-gaming-monitor-omen-transcend-32",
+    "specs": "https://www.hp.com/us-en/shop/pdp/omen-transcend-315-inch-uhd-240hz-oled-gaming-monitor-omen-transcend-32",
+    "retrievedAt": "2026-09-28"
+   },
+   "collections": [
+    "oled-displays",
+    "dream-gaming"
+   ],
+   "image": {
+    "url": "https://hp.widen.net/content/akaqqenpjw/png/akaqqenpjw.png?w=1400&h=1400",
+    "page": "https://www.hp.com/us-en/shop/pdp/omen-transcend-315-inch-uhd-240hz-oled-gaming-monitor-omen-transcend-32",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official HP Store product gallery image (HP Widen DAM); HP has not granted a reuse license — rights not verified.",
+    "alt": "OMEN Transcend 32 QD-OLED gaming monitor, front view on its stand",
+    "match": "EXACT"
+   }
+  },
+  {
+   "sku": "TK-HP-OMEN-34C-G2",
+   "slug": "omen-34c-g2",
+   "name": "OMEN 34c G2 WQHD 180 Hz Curved Gaming Monitor",
+   "brand": "HP",
+   "category": "gaming-monitors",
+   "price": "529.99",
+   "priceBasis": "msrp",
+   "priceSource": "https://www.hp.com/us-en/shop/pdp/omen-34-inch-wqhd-180hz-curved-gaming-monitor-omen-34c-g2",
+   "priceAsOf": "2026-09-28",
+   "releaseYear": 2025,
+   "summary": "34-inch curved VA ultrawide gaming monitor at 3440 x 1440 and 180 Hz.",
+   "description": "The OMEN 34c G2 (AV4C1AA) is a curved 34-inch VA monitor with a 3440 x 1440 WQHD resolution, 180 Hz refresh, 400 nits and 1 ms MPRT response. It has one DisplayPort 1.4 and two HDMI 2.0 inputs.",
+   "keywords": "omen 34c g2 curved ultrawide 180hz gaming monitor wqhd",
+   "specs": {
+    "sizeIn": 34,
+    "resolution": "3440 x 1440 (WQHD)",
+    "refreshHz": 180,
+    "panel": "VA (curved)",
+    "inputs": "1x DisplayPort 1.4, 2x HDMI 2.0"
+   },
+   "featured": false,
+   "warranty": 12,
+   "sources": {
+    "product": "https://www.hp.com/us-en/shop/pdp/omen-34-inch-wqhd-180hz-curved-gaming-monitor-omen-34c-g2",
+    "specs": "https://www.hp.com/us-en/shop/pdp/omen-34-inch-wqhd-180hz-curved-gaming-monitor-omen-34c-g2",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://hp.widen.net/content/nbswbbbc2h/png/nbswbbbc2h.png?w=1400&h=1400",
+    "page": "https://www.hp.com/us-en/shop/pdp/omen-34-inch-wqhd-180hz-curved-gaming-monitor-omen-34c-g2",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official HP Store product gallery image (HP Widen DAM); HP has not granted a reuse license — rights not verified.",
+    "alt": "OMEN 34c G2 curved ultrawide gaming monitor, front view",
+    "match": "EXACT"
+   }
+  },
+  {
+   "sku": "TK-HP-SERIES-7-PRO-727PK",
+   "slug": "hp-series-7-pro-27-4k-727pk",
+   "name": "HP Series 7 Pro 27 4K Thunderbolt 4 Monitor (727pk)",
+   "brand": "HP",
+   "category": "professional-monitors",
+   "price": "759.00",
+   "priceBasis": "msrp",
+   "priceSource": "https://www.hp.com/us-en/shop/pdp/hp-series-7-pro-27-inch-4k-thunderbolt-4-monitor-727pk",
+   "priceAsOf": "2026-09-28",
+   "releaseYear": 2024,
+   "summary": "27-inch 4K IPS Black monitor with Thunderbolt 4 (100 W), DisplayPort out for daisy-chaining and a USB-C hub.",
+   "description": "The HP Series 7 Pro 727pk (8J9G2AA) is a 27-inch 4K UHD IPS Black monitor rated at 400 nits and 5 ms GtG. It connects via Thunderbolt 4 with up to 100 W power delivery, DisplayPort 1.4 in and out and HDMI 2.0, with additional USB-C 10Gbps ports.",
+   "keywords": "hp series 7 pro 727pk 27 4k thunderbolt 4 ips black monitor",
+   "specs": {
+    "sizeIn": 27,
+    "resolution": "3840 x 2160 (4K UHD)",
+    "panel": "IPS Black",
+    "inputs": "Thunderbolt 4, DisplayPort 1.4 (+ DP out), HDMI 2.0",
+    "usbCPowerW": 100
+   },
+   "featured": false,
+   "warranty": 36,
+   "sources": {
+    "product": "https://www.hp.com/us-en/shop/pdp/hp-series-7-pro-27-inch-4k-thunderbolt-4-monitor-727pk",
+    "specs": "https://www.hp.com/us-en/shop/pdp/hp-series-7-pro-27-inch-4k-thunderbolt-4-monitor-727pk",
+    "retrievedAt": "2026-09-28"
+   },
+   "collections": [
+    "developer-setup"
+   ],
+   "image": {
+    "url": "https://hp.widen.net/content/6ukjdba4wt/png/6ukjdba4wt.png?w=1400&h=1400",
+    "page": "https://www.hp.com/us-en/shop/pdp/hp-series-7-pro-27-inch-4k-thunderbolt-4-monitor-727pk",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official HP Store product gallery image (HP Widen DAM); HP has not granted a reuse license — rights not verified.",
+    "alt": "HP Series 7 Pro 27-inch 4K monitor 727pk, front view on its stand",
+    "match": "EXACT"
+   }
+  },
+  {
+   "sku": "TK-HP-SERIES-7-PRO-734PM",
+   "slug": "hp-series-7-pro-34-734pm",
+   "name": "HP Series 7 Pro 34 WQHD Conferencing Monitor (734pm)",
+   "brand": "HP",
+   "category": "ultrawide-monitors",
+   "price": "1229.00",
+   "priceBasis": "msrp",
+   "priceSource": "https://www.hp.com/us-en/shop/pdp/hp-series-7-pro-34-inch-wqhd-conferencing-monitor-734pm-p-8k157ut-aba-1",
+   "priceAsOf": "2026-09-28",
+   "releaseYear": 2024,
+   "summary": "34-inch WQHD IPS Black ultrawide with a built-in 5 MP HDR camera and Thunderbolt 4 (100 W) for video conferencing.",
+   "description": "The HP Series 7 Pro 734pm (8K157UT) is a 34-inch 3440 x 1440 IPS Black conferencing monitor rated at 400 nits with a 5 MP HDR camera. It connects via Thunderbolt 4 with up to 100 W power delivery, DisplayPort 1.4 in and out and HDMI 2.0.",
+   "keywords": "hp series 7 pro 734pm ultrawide conferencing monitor webcam thunderbolt",
+   "specs": {
+    "sizeIn": 34,
+    "resolution": "3440 x 1440 (WQHD)",
+    "panel": "IPS Black",
+    "inputs": "Thunderbolt 4, DisplayPort 1.4 (+ DP out), HDMI 2.0",
+    "usbCPowerW": 100
+   },
+   "featured": false,
+   "warranty": 36,
+   "sources": {
+    "product": "https://www.hp.com/us-en/shop/pdp/hp-series-7-pro-34-inch-wqhd-conferencing-monitor-734pm-p-8k157ut-aba-1",
+    "specs": "https://www.hp.com/us-en/shop/pdp/hp-series-7-pro-34-inch-wqhd-conferencing-monitor-734pm-p-8k157ut-aba-1",
+    "retrievedAt": "2026-09-28"
+   },
+   "collections": [
+    "developer-setup",
+    "small-business"
+   ],
+   "image": {
+    "url": "https://hp.widen.net/content/gk7wrkb0xx/png/gk7wrkb0xx.png?w=1400&h=1400",
+    "page": "https://www.hp.com/us-en/shop/pdp/hp-series-7-pro-34-inch-wqhd-conferencing-monitor-734pm-p-8k157ut-aba-1",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official HP Store product gallery image (HP Widen DAM); HP has not granted a reuse license — rights not verified.",
+    "alt": "HP Series 7 Pro 34-inch conferencing monitor 734pm, front view with built-in camera",
+    "match": "EXACT"
+   }
+  },
+  {
+   "sku": "TK-HP-LJ-PRO-4001DN",
+   "slug": "hp-laserjet-pro-4001dn",
+   "name": "HP LaserJet Pro 4001dn Printer",
+   "brand": "HP",
+   "category": "laser-printers",
+   "price": "449.00",
+   "priceBasis": "msrp",
+   "priceSource": "https://www.hp.com/us-en/shop/pdp/hp-laserjet-pro-4001dn-printer",
+   "priceAsOf": "2026-09-28",
+   "releaseYear": 2023,
+   "summary": "Networked monochrome laser printer rated at up to 42 ppm with Gigabit Ethernet.",
+   "description": "The HP LaserJet Pro 4001dn (2Z600F) is a monochrome laser printer rated at up to 42 ppm with a 1200 MHz processor. It connects via Hi-Speed USB 2.0 and Gigabit Ethernet and supports Apple AirPrint, Mopria and the HP app.",
+   "keywords": "laserjet pro 4001dn mono laser printer office ethernet",
+   "specs": {
+    "technology": "Laser",
+    "color": false,
+    "ppm": 42,
+    "functions": "Print",
+    "connectivity": "Hi-Speed USB 2.0, Gigabit Ethernet, AirPrint/Mopria"
+   },
+   "featured": false,
+   "warranty": 12,
+   "sources": {
+    "product": "https://www.hp.com/us-en/shop/pdp/hp-laserjet-pro-4001dn-printer",
+    "specs": "https://www.hp.com/us-en/shop/pdp/hp-laserjet-pro-4001dn-printer",
+    "retrievedAt": "2026-09-28"
+   },
+   "collections": [
+    "small-business"
+   ],
+   "image": {
+    "url": "https://hp.widen.net/content/pl8axi5lpt/png/pl8axi5lpt.png?w=1400&h=1400",
+    "page": "https://www.hp.com/us-en/shop/pdp/hp-laserjet-pro-4001dn-printer",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official HP Store product gallery image (HP Widen DAM); HP has not granted a reuse license — rights not verified.",
+    "alt": "HP LaserJet Pro 4001dn monochrome laser printer, front three-quarter view",
+    "match": "EXACT"
+   }
+  },
+  {
+   "sku": "TK-HP-CLJ-PRO-MFP-3301FDW",
+   "slug": "hp-color-laserjet-pro-mfp-3301fdw",
+   "name": "HP Color LaserJet Pro MFP 3301fdw",
+   "brand": "HP",
+   "category": "multifunction-printers",
+   "price": "639.00",
+   "priceBasis": "msrp",
+   "priceSource": "https://www.hp.com/us-en/shop/pdp/hp-color-laserjet-pro-mfp-3301fdw",
+   "priceAsOf": "2026-09-28",
+   "releaseYear": 2024,
+   "summary": "Color laser all-in-one (print, copy, scan, fax) at up to 26 ppm with dual-band Wi-Fi and automatic duplex.",
+   "description": "The HP Color LaserJet Pro MFP 3301fdw (499Q5F) prints, copies, scans and faxes at up to 26 ppm in black and color. It offers automatic duplex printing, Hi-Speed USB 2.0 and dual-band Wi-Fi 802.11ac connectivity.",
+   "keywords": "color laserjet pro mfp 3301fdw all-in-one color laser wireless fax",
+   "specs": {
+    "technology": "Laser",
+    "color": true,
+    "ppm": 26,
+    "duplex": true,
+    "functions": "Print, copy, scan, fax",
+    "connectivity": "Hi-Speed USB 2.0, dual-band Wi-Fi 802.11ac"
+   },
+   "featured": false,
+   "warranty": 12,
+   "sources": {
+    "product": "https://www.hp.com/us-en/shop/pdp/hp-color-laserjet-pro-mfp-3301fdw",
+    "specs": "https://www.hp.com/us-en/shop/pdp/hp-color-laserjet-pro-mfp-3301fdw",
+    "retrievedAt": "2026-09-28"
+   },
+   "collections": [
+    "small-business"
+   ],
+   "image": {
+    "url": "https://hp.widen.net/content/vjm0amcdx9/png/vjm0amcdx9.png?w=1400&h=1400",
+    "page": "https://www.hp.com/us-en/shop/pdp/hp-color-laserjet-pro-mfp-3301fdw",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official HP Store product gallery image (HP Widen DAM); HP has not granted a reuse license — rights not verified.",
+    "alt": "HP Color LaserJet Pro MFP 3301fdw all-in-one printer, front three-quarter view",
+    "match": "EXACT"
+   }
+  },
+  {
+   "sku": "TK-HP-OFFICEJET-PRO-9135",
+   "slug": "hp-officejet-pro-9135",
+   "name": "HP OfficeJet Pro 9135 All-in-One Printer",
+   "brand": "HP",
+   "category": "inkjet-printers",
+   "price": "429.99",
+   "priceBasis": "msrp",
+   "priceSource": "https://www.hp.com/us-en/shop/pdp/hp-officejet-pro-9135-all-in-one-printer",
+   "priceAsOf": "2026-09-28",
+   "releaseYear": 2024,
+   "summary": "Business inkjet all-in-one with a single-pass two-sided ADF, automatic duplex, Ethernet and dual-band Wi-Fi.",
+   "description": "The HP OfficeJet Pro 9135 (C2WM0A) is a thermal inkjet all-in-one that prints, copies, scans and faxes at ISO speeds of up to 25 ppm black and 20 ppm color. It has a single-pass two-sided ADF, automatic duplex printing, Ethernet, USB and dual-band Wi-Fi.",
+   "keywords": "officejet pro 9135 inkjet all-in-one office printer duplex adf",
+   "specs": {
+    "technology": "HP Thermal Inkjet",
+    "color": true,
+    "ppm": 25,
+    "duplex": true,
+    "functions": "Print, copy, scan, fax",
+    "connectivity": "Ethernet, Hi-Speed USB 2.0, dual-band Wi-Fi 802.11ac"
+   },
+   "featured": false,
+   "warranty": 12,
+   "sources": {
+    "product": "https://www.hp.com/us-en/shop/pdp/hp-officejet-pro-9135-all-in-one-printer",
+    "specs": "https://www.hp.com/us-en/shop/pdp/hp-officejet-pro-9135-all-in-one-printer",
+    "retrievedAt": "2026-09-28"
+   },
+   "collections": [
+    "small-business"
+   ],
+   "image": {
+    "url": "https://hp.widen.net/content/bww9xzlybp/png/bww9xzlybp.png?w=1400&h=1400",
+    "page": "https://www.hp.com/us-en/shop/pdp/hp-officejet-pro-9135-all-in-one-printer",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official HP Store product gallery image (HP Widen DAM); HP has not granted a reuse license — rights not verified.",
+    "alt": "HP OfficeJet Pro 9135 all-in-one printer, front three-quarter view",
+    "match": "EXACT"
+   }
+  },
+  {
+   "sku": "TK-HP-SMART-TANK-7603",
+   "slug": "hp-smart-tank-7603",
+   "name": "HP Smart Tank 7603 All-in-One Printer",
+   "brand": "HP",
+   "category": "inkjet-printers",
+   "price": "469.99",
+   "priceBasis": "msrp",
+   "priceSource": "https://www.hp.com/us-en/shop/pdp/hp-smart-tank-7603-all-in-one-printer-p-d34f7a-b1h-1",
+   "priceAsOf": "2026-09-28",
+   "releaseYear": 2025,
+   "summary": "Refillable ink-tank all-in-one with ADF, fax, automatic duplex and dual-band Wi-Fi.",
+   "description": "The HP Smart Tank 7603 (D34F7A) is a refillable ink-tank all-in-one that prints, copies, scans and faxes, with an ADF and automatic duplex printing. HP rates it at up to 15 ppm black and 9 ppm color (ISO), with dual-band Wi-Fi, Wi-Fi Direct and USB.",
+   "keywords": "smart tank 7603 ink tank all-in-one refillable printer wireless",
+   "specs": {
+    "technology": "HP Thermal Inkjet (refillable ink tank)",
+    "color": true,
+    "ppm": 15,
+    "duplex": true,
+    "functions": "Print, copy, scan, fax, ADF",
+    "connectivity": "Dual-band Wi-Fi, Wi-Fi Direct, Hi-Speed USB 2.0"
+   },
+   "featured": false,
+   "warranty": 12,
+   "sources": {
+    "product": "https://www.hp.com/us-en/shop/pdp/hp-smart-tank-7603-all-in-one-printer-p-d34f7a-b1h-1",
+    "specs": "https://www.hp.com/us-en/shop/pdp/hp-smart-tank-7603-all-in-one-printer-p-d34f7a-b1h-1",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://hp.widen.net/content/aa1xxuqbqt/png/aa1xxuqbqt.png?w=1400&h=1400",
+    "page": "https://www.hp.com/us-en/shop/pdp/hp-smart-tank-7603-all-in-one-printer-p-d34f7a-b1h-1",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official HP Store product gallery image (HP Widen DAM); HP has not granted a reuse license — rights not verified.",
+    "alt": "HP Smart Tank 7603 all-in-one ink tank printer, front three-quarter view",
+    "match": "EXACT"
+   }
+  },
+  {
+   "sku": "TK-HPE-DL360-GEN12",
+   "slug": "hpe-proliant-compute-dl360-gen12",
+   "name": "HPE ProLiant Compute DL360 Gen12",
+   "brand": "HPE",
+   "category": "rack-servers",
+   "price": "10108.00",
+   "priceBasis": "starting-at",
+   "priceSource": "https://buy.hpe.com/us/en/compute/rack-servers/proliant-dl300-servers/hpe-proliant-compute-dl360-gen12/p/1014865649",
+   "priceAsOf": "2026-09-28",
+   "releaseYear": 2025,
+   "summary": "Compact 1U dual-socket Intel Xeon 6 server with up to 144 cores per processor, up to 8 TB of memory and 20 E3.S NVMe drives.",
+   "description": "The HPE ProLiant Compute DL360 Gen12 is a 1U two-processor server powered by Intel Xeon 6 processors with up to 144 cores, supporting up to 8 TB of memory and up to 20 EDSFF E3.S NVMe drives. A hybrid front storage cage also supports SFF drives, an OS boot device and optional front OCP NICs. HPE sells it from a starting configuration on the HPE Store.",
+   "keywords": "hpe proliant dl360 gen12 1u xeon 6 rack server ilo 7",
+   "specs": {
+    "rackUnits": 1,
+    "cpu": "Intel Xeon 6 (up to 144 cores)",
+    "socketCount": 2,
+    "maxMemoryTb": 8,
+    "ecc": true,
+    "driveBays": 20
+   },
+   "featured": false,
+   "warranty": 36,
+   "sources": {
+    "product": "https://www.hpe.com/us/en/products/compute/proliant/dl360-gen12.html",
+    "specs": "https://buy.hpe.com/us/en/compute/rack-servers/proliant-dl300-servers/hpe-proliant-compute-dl360-gen12/p/1014865649",
+    "retrievedAt": "2026-09-28"
+   },
+   "collections": [
+    "enterprise-servers",
+    "enterprise-lab"
+   ]
+  }
+ ]
+}

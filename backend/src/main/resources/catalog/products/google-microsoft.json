@@ -433,6 +433,7 @@
     "power": "Built-in rechargeable 6 Ah battery",
     "resolution": "1080p HDR at 30 FPS",
     "subscriptionRequired": false,
+    "configurations": "1 pack – $199.99 · 2 pack",
     "colors": "Snow"
    }
   },
@@ -526,6 +527,7 @@
     "power": "Wired, 12V 0.75A, 18 ft outdoor-rated cable",
     "resolution": "2K HDR at 30 FPS",
     "subscriptionRequired": false,
+    "configurations": "1 pack – $199.99 · 2 pack",
     "colors": "Snow, Hazel"
    }
   },
@@ -684,7 +686,9 @@
     "managed": false,
     "rackMountable": false,
     "wifiStandard": "Wi-Fi 6E (802.11ax), tri-band AXE5400",
-    "nodes": 1
+    "nodes": 1,
+    "configurations": "1-pack (up to 2,200 sq ft) – $199.99 · 2-pack (up to 4,400 sq ft) · 3-pack (up to 6,600 sq ft)",
+    "colors": "Snow, Fog, Linen, Lemongrass"
    }
   },
   {
@@ -712,7 +716,9 @@
    "specs": {
     "connector": "USB-C or USB-A (with USB-C adapter)",
     "nfc": true,
-    "protocols": "FIDO2 (FIDO open standards)"
+    "protocols": "FIDO2 (FIDO open standards)",
+    "configurations": "USB-C/NFC · USB-A/NFC",
+    "colors": "White"
    }
   },
   {
@@ -972,6 +978,7 @@
     "layout": "Full-size backlit keyboard with haptic touchpad and Copilot key",
     "mechanical": false,
     "macSupport": false,
+    "configurations": "Black – $399.99 · Black with bold keyset",
     "colors": "Black, Black with bold keyset"
    }
   },
@@ -1000,6 +1007,7 @@
     "layout": "Full-size backlit keyboard with precision touchpad",
     "mechanical": false,
     "macSupport": false,
+    "configurations": "Slate – $149.99 · Ocean · Violet · Slate with bold keyset",
     "colors": "Slate, Ocean, Violet"
    }
   },
@@ -1110,7 +1118,8 @@
    "description": "Surface Slim Pen has a flat, slim design, a fine tip with tilt and 4,096 levels of pressure sensitivity, zero-force inking and customizable haptic feedback on Windows 11. It stores and charges magnetically on the back of Surface Pro 12-inch or in compatible Surface Pro keyboards.",
    "keywords": "surface slim pen stylus haptic 4096 pressure",
    "specs": {
-    "compatibility": "Surface Pro 12-inch and 13-inch (keyboards with pen storage) and other Slim Pen-compatible Surface devices"
+    "compatibility": "Surface Pro 12-inch and 13-inch (keyboards with pen storage) and other Slim Pen-compatible Surface devices",
+    "colors": "Matte Black"
    }
   },
   {

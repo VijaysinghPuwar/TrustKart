@@ -917,6 +917,575 @@
    }
   },
   {
+   "sku": "TK-SAMSUNG-9100PRO",
+   "slug": "samsung-9100-pro-nvme-ssd",
+   "name": "Samsung 9100 PRO PCIe 5.0 NVMe M.2 SSD",
+   "brand": "Samsung",
+   "category": "ssds",
+   "price": "339.99",
+   "compareAt": null,
+   "warranty": 60,
+   "stock": [
+    41,
+    5
+   ],
+   "featured": true,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "high-end-storage",
+    "samsung-ecosystem",
+    "developer-setup",
+    "ultimate-gaming-setup"
+   ],
+   "summary": "Samsung's PCIe 5.0 x4 NVMe 2.0 M.2 2280 SSD with up to 14,800 MB/s sequential reads, offered from 1TB to 8TB with an optional heatsink.",
+   "description": "The 9100 PRO uses a Samsung in-house controller, Samsung V-NAND TLC and LPDDR4X cache for PCIe 5.0 x4 / NVMe 2.0 performance. The 1TB model is rated at up to 14,700 MB/s sequential read and 13,300 MB/s sequential write with 600 TBW endurance, and larger capacities reach 14,800 / 13,400 MB/s. It carries a 5-year limited warranty and is also sold in a heatsink version for desktops and PlayStation 5.",
+   "keywords": "pcie gen5 gen 5 nvme m.2 2280 ssd 9100pro heatsink ps5 playstation 8tb",
+   "specs": {
+    "capacityTb": 1,
+    "interface": "PCIe 5.0 x4, NVMe 2.0",
+    "formFactor": "M.2 2280",
+    "readMbps": 14700,
+    "writeMbps": 13300,
+    "enduranceTbw": 600,
+    "configurations": "1TB – $339.99 · 2TB – $679.99 · 4TB – $1,359.99 · 8TB – $2,719.99 · 1TB with Heatsink – $359.99 · 2TB with Heatsink – $709.99 · 4TB with Heatsink – $1,399.99 · 8TB with Heatsink – $2,769.99"
+   }
+  },
+  {
+   "sku": "TK-SAMSUNG-990PRO-HEATSINK",
+   "slug": "samsung-990-pro-with-heatsink",
+   "name": "Samsung 990 PRO with Heatsink PCIe 4.0 NVMe M.2 SSD",
+   "brand": "Samsung",
+   "category": "ssds",
+   "price": "339.99",
+   "compareAt": null,
+   "warranty": 60,
+   "stock": [
+    8,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "high-end-storage",
+    "ultimate-gaming-setup"
+   ],
+   "summary": "PCIe 4.0 NVMe M.2 SSD with an integrated heatsink, rated up to 7,450 / 6,900 MB/s and sized for desktops and PlayStation 5.",
+   "description": "The 990 PRO with Heatsink pairs Samsung V-NAND TLC and LPDDR4 DRAM cache with a PCIe Gen 4.0 x4 / NVMe 2.0 interface for up to 7,450 MB/s sequential read and 6,900 MB/s sequential write. With the heatsink fitted its maximum dimensions are 80.15 x 25 x 8.88 mm. Endurance is 600 TBW for 1TB, 1,200 TBW for 2TB and 2,400 TBW for 4TB, backed by a 5-year limited warranty.",
+   "keywords": "990pro heatsink pcie gen4 nvme m.2 ps5 playstation gaming ssd",
+   "specs": {
+    "capacityTb": 1,
+    "interface": "PCIe 4.0 x4, NVMe 2.0",
+    "formFactor": "M.2 2280 with heatsink",
+    "readMbps": 7450,
+    "writeMbps": 6900,
+    "enduranceTbw": 600,
+    "configurations": "1TB – $339.99 · 2TB – $669.99 · 4TB – $1,139.99"
+   }
+  },
+  {
+   "sku": "TK-SAMSUNG-990EVOPLUS",
+   "slug": "samsung-990-evo-plus-nvme-ssd",
+   "name": "Samsung 990 EVO Plus NVMe M.2 SSD",
+   "brand": "Samsung",
+   "category": "ssds",
+   "price": "289.99",
+   "compareAt": null,
+   "warranty": 60,
+   "stock": [
+    14,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "high-end-storage",
+    "developer-setup"
+   ],
+   "summary": "DRAM-less HMB NVMe M.2 SSD that runs on PCIe 4.0 x4 or PCIe 5.0 x2, rated up to 7,250 MB/s reads, in 1TB to 4TB.",
+   "description": "The 990 EVO Plus combines Samsung V-NAND TLC with Host Memory Buffer caching and a hybrid PCIe 4.0 x4 / PCIe 5.0 x2 NVMe 2.0 interface. The 1TB model is rated at 7,150 MB/s sequential read and 6,300 MB/s sequential write, with 2TB and 4TB reaching 7,250 MB/s reads. Endurance ranges from 600 TBW (1TB) to 2,400 TBW (4TB) under a 5-year limited warranty.",
+   "keywords": "990 evo plus nvme m.2 2280 pcie gen4 gen5 x2 hmb ssd laptop",
+   "specs": {
+    "capacityTb": 1,
+    "interface": "PCIe 4.0 x4 / PCIe 5.0 x2, NVMe 2.0",
+    "formFactor": "M.2 2280",
+    "readMbps": 7150,
+    "writeMbps": 6300,
+    "enduranceTbw": 600,
+    "configurations": "1TB – $289.99 · 2TB – $579.99 · 4TB – $1,049.99"
+   }
+  },
+  {
+   "sku": "TK-SAMSUNG-870EVO",
+   "slug": "samsung-870-evo-sata-ssd",
+   "name": "Samsung 870 EVO 2.5-inch SATA SSD",
+   "brand": "Samsung",
+   "category": "ssds",
+   "price": "299.99",
+   "compareAt": null,
+   "warranty": 60,
+   "stock": [
+    47,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "homelab-essentials",
+    "high-end-storage"
+   ],
+   "summary": "2.5-inch SATA 6 Gb/s SSD rated up to 560 / 530 MB/s, the go-to upgrade for older PCs, laptops and NAS bays, from 500GB to 8TB.",
+   "description": "The 870 EVO uses Samsung's MKX controller and V-NAND 3-bit MLC behind a SATA 6 Gb/s interface in a 100 x 69.85 x 6.8 mm 2.5-inch body. Sequential performance is rated up to 560 MB/s read and 530 MB/s write with Intelligent TurboWrite. The 500GB model is rated for 300 TBW, scaling to 2,400 TBW at 4TB, with a 5-year limited warranty.",
+   "keywords": "870evo sata 2.5 inch ssd upgrade laptop desktop nas",
+   "specs": {
+    "capacityTb": 0.5,
+    "interface": "SATA 6 Gb/s",
+    "formFactor": "2.5-inch",
+    "readMbps": 560,
+    "writeMbps": 530,
+    "enduranceTbw": 300,
+    "configurations": "500GB – $299.99 · 1TB – $414.99 · 2TB – $879.99 · 4TB – $1,759.99 · 8TB – $3,519.99"
+   }
+  },
+  {
+   "sku": "TK-SAMSUNG-T7-SHIELD",
+   "slug": "samsung-portable-ssd-t7-shield",
+   "name": "Samsung Portable SSD T7 Shield",
+   "brand": "Samsung",
+   "category": "external-storage",
+   "price": "287.99",
+   "compareAt": null,
+   "warranty": 36,
+   "stock": [
+    46,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "high-end-storage",
+    "samsung-ecosystem"
+   ],
+   "summary": "Rugged IP65 USB 3.2 Gen 2 portable SSD with a rubberised shell, rated up to 1,050 / 1,000 MB/s, in 1TB, 2TB and 4TB.",
+   "description": "T7 Shield connects over USB 3.2 Gen 2 (10 Gbps) with sequential read/write speeds of up to 1,050 / 1,000 MB/s. Its rubber-coated body is IP65 rated for dust and water resistance, measures 88 x 59 x 13 mm and weighs 98 grams. It ships with USB-C to C and USB-C to A cables and a 3-year limited warranty.",
+   "keywords": "t7 shield portable ssd rugged ip65 usb-c external drive creators",
+   "specs": {
+    "capacityTb": 1,
+    "interface": "USB 3.2 Gen 2 (10 Gbps), USB-C",
+    "readMbps": 1050,
+    "configurations": "1TB – $287.99 · 2TB – $574.99 · 4TB – $1,144.99",
+    "colors": "Black, Blue, Beige"
+   }
+  },
+  {
+   "sku": "TK-SAMSUNG-T7",
+   "slug": "samsung-portable-ssd-t7",
+   "name": "Samsung Portable SSD T7",
+   "brand": "Samsung",
+   "category": "external-storage",
+   "price": "274.99",
+   "compareAt": null,
+   "warranty": 36,
+   "stock": [
+    22,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "samsung-ecosystem"
+   ],
+   "summary": "Pocket-sized aluminium USB 3.2 Gen 2 portable SSD rated up to 1,050 / 1,000 MB/s, now offered up to 4TB.",
+   "description": "The Portable SSD T7 uses a USB 3.2 Gen 2 (10 Gbps) interface for sequential read/write speeds of up to 1,050 / 1,000 MB/s. The aluminium unibody measures 85 x 57 x 8 mm and weighs 58 grams. It is covered by a 3-year limited warranty.",
+   "keywords": "t7 portable ssd usb-c external drive aluminium slim",
+   "specs": {
+    "capacityTb": 1,
+    "interface": "USB 3.2 Gen 2 (10 Gbps), USB-C",
+    "readMbps": 1050,
+    "configurations": "1TB – $274.99 · 2TB – $549.99 · 4TB – $1,094.99",
+    "colors": "Gray, Blue"
+   }
+  },
+  {
+   "sku": "TK-SAMSUNG-T5-EVO",
+   "slug": "samsung-portable-ssd-t5-evo",
+   "name": "Samsung Portable SSD T5 EVO",
+   "brand": "Samsung",
+   "category": "external-storage",
+   "price": "289.99",
+   "compareAt": null,
+   "warranty": 36,
+   "stock": [
+    16,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "homelab-essentials"
+   ],
+   "summary": "High-capacity USB 3.2 Gen 1 portable SSD in 2TB, 4TB and 8TB, rated up to 460 MB/s in a compact 102 g body.",
+   "description": "The T5 EVO targets large portable libraries with capacities up to 8TB over USB 3.2 Gen 1 (5 Gbps), rated for up to 460 MB/s sequential read and write. It measures 40 x 95 x 17 mm, weighs 102 grams and supports AES 256-bit hardware encryption. It carries a 3-year limited warranty.",
+   "keywords": "t5 evo portable ssd 8tb usb-c external drive backup",
+   "specs": {
+    "capacityTb": 2,
+    "interface": "USB 3.2 Gen 1 (5 Gbps), USB-C",
+    "readMbps": 460,
+    "configurations": "2TB – $289.99 · 4TB – $579.99 · 8TB – $1,119.99",
+    "colors": "Black"
+   }
+  },
+  {
+   "sku": "TK-SAMSUNG-P9-EXPRESS",
+   "slug": "samsung-p9-express-microsd-express-card",
+   "name": "Samsung P9 Express microSD Express Card",
+   "brand": "Samsung",
+   "category": "external-storage",
+   "price": "79.99",
+   "compareAt": null,
+   "warranty": 36,
+   "stock": [
+    35,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "samsung-ecosystem"
+   ],
+   "summary": "microSD Express card with a PCIe Gen 3.0 x1 / NVMe interface, rated up to 800 MB/s reads, compatible with Nintendo Switch 2.",
+   "description": "The P9 Express is a microSDXC Express card that uses PCIe Gen 3.0 x1 with NVMe 1.3 (SD 7.1) for sequential reads up to 800 MB/s in SD Express hosts, falling back to UHS-I (up to 90 MB/s) in standard slots. It is offered in 256GB and 512GB and carries a 3-year limited warranty.",
+   "keywords": "microsd express p9 nintendo switch 2 memory card 800mb/s",
+   "specs": {
+    "capacityTb": 0.256,
+    "interface": "microSD Express (PCIe 3.0 x1, NVMe 1.3, SD 7.1)",
+    "readMbps": 800,
+    "configurations": "256GB – $79.99 · 512GB – $149.99"
+   }
+  },
+  {
+   "sku": "TK-SAMSUNG-PM1763",
+   "slug": "samsung-pm1763-enterprise-ssd",
+   "name": "Samsung PM1763 PCIe 6.0 Enterprise SSD",
+   "brand": "Samsung",
+   "category": "enterprise-ssds",
+   "price": "3899.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    11,
+    3
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "enterprise-servers",
+    "high-end-storage",
+    "ai-lab"
+   ],
+   "summary": "PCIe 6.0 x4 enterprise NVMe SSD rated up to 28,400 MB/s reads, in 2.5-inch, E1.S and E3.S up to 61.44TB for AI and hyperscale servers.",
+   "description": "PM1763 is Samsung's PCIe Gen6 enterprise SSD, rated up to 28,400 MB/s sequential read, 21,000 MB/s sequential write and 6,800K random read IOPS. It is offered in 2.5-inch, E1.S and E3.S form factors from 3.84TB to 61.44TB (the U.2 version runs at PCIe Gen5), is NVMe 2.1 and OCP 2.6 compliant, and is rated for 1 DWPD over 5 years.",
+   "keywords": "enterprise datacenter nvme ssd server samsung pm1763 pcie 6.0 enterprise ssd",
+   "specs": {
+    "capacityTb": 7.68,
+    "interface": "PCIe 6.0 x4, NVMe 2.1",
+    "formFactor": "2.5-inch U.2, E1.S, E3.S",
+    "readMbps": 28400,
+    "dwpd": 1,
+    "configurations": "3.84TB · 7.68TB · 15.36TB · 30.72TB · 61.44TB"
+   }
+  },
+  {
+   "sku": "TK-SAMSUNG-PM1753",
+   "slug": "samsung-pm1753-enterprise-ssd",
+   "name": "Samsung PM1753 PCIe 5.0 Enterprise SSD",
+   "brand": "Samsung",
+   "category": "enterprise-ssds",
+   "price": "2899.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    54,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "enterprise-servers",
+    "high-end-storage",
+    "ai-lab"
+   ],
+   "summary": "PCIe 5.0 x4 enterprise NVMe SSD rated up to 14,500 MB/s and 3,300K IOPS, with PLP and encryption, up to 30.72TB.",
+   "description": "PM1753 delivers up to 14,500 MB/s sequential read, 10,000 MB/s sequential write and 3,300K random read IOPS over PCIe 5.0 x4. It integrates power-loss protection, AES-XTS 256-bit encryption and OCP compliance, comes in 2.5-inch, E1.S and E3.S form factors from 1.92TB to 30.72TB, and is rated for 1 DWPD over 5 years.",
+   "keywords": "enterprise datacenter nvme ssd server samsung pm1753 pcie 5.0 enterprise ssd",
+   "specs": {
+    "capacityTb": 7.68,
+    "interface": "PCIe 5.0 x4, NVMe",
+    "formFactor": "2.5-inch U.2, E1.S, E3.S",
+    "readMbps": 14500,
+    "dwpd": 1,
+    "configurations": "1.92TB · 3.84TB · 7.68TB · 15.36TB · 30.72TB"
+   }
+  },
+  {
+   "sku": "TK-SAMSUNG-PM1743",
+   "slug": "samsung-pm1743-enterprise-ssd",
+   "name": "Samsung PM1743 PCIe 5.0 Enterprise SSD",
+   "brand": "Samsung",
+   "category": "enterprise-ssds",
+   "price": "1499.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    35,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "enterprise-servers",
+    "high-end-storage",
+    "ai-lab"
+   ],
+   "summary": "PCIe 5.0 x4 enterprise NVMe SSD rated up to 14,000 MB/s and 2,500K IOPS, in 2.5-inch and E3.S from 1.92TB to 15.36TB.",
+   "description": "PM1743 is a PCIe 5.0 x4 enterprise SSD rated up to 14,000 MB/s sequential read, 7,100 MB/s sequential write and 2,500K random read IOPS. It includes power-loss protection, LDPC ECC and Opal 2.01 security, and is offered in 2.5-inch and E3.S form factors from 1.92TB to 15.36TB with 1 DWPD over 5 years.",
+   "keywords": "enterprise datacenter nvme ssd server samsung pm1743 pcie 5.0 enterprise ssd",
+   "specs": {
+    "capacityTb": 3.84,
+    "interface": "PCIe 5.0 x4, NVMe",
+    "formFactor": "2.5-inch U.2, E3.S",
+    "readMbps": 14000,
+    "dwpd": 1,
+    "configurations": "1.92TB · 3.84TB · 7.68TB · 15.36TB"
+   }
+  },
+  {
+   "sku": "TK-SAMSUNG-PM9D3A",
+   "slug": "samsung-pm9d3a-datacenter-ssd",
+   "name": "Samsung PM9D3a PCIe 5.0 Data Center SSD",
+   "brand": "Samsung",
+   "category": "enterprise-ssds",
+   "price": "1349.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    42,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "enterprise-servers",
+    "high-end-storage",
+    "ai-lab"
+   ],
+   "summary": "PCIe 5.0 data center NVMe SSD rated up to 12,000 MB/s and 2,000K IOPS, in U.2, E1.S and E3.S from 960GB to 30.72TB.",
+   "description": "PM9D3a is Samsung's PCIe 5.0 data center SSD, rated up to 12,000 MB/s sequential read, 6,800 MB/s sequential write and 2,000K random read IOPS. It comes in 2.5-inch U.2, E1.S and E3.S form factors from 960GB to 30.72TB, with enhanced power-loss protection, OCP 2.5 compliance and 1 DWPD over 5 years.",
+   "keywords": "enterprise datacenter nvme ssd server samsung pm9d3a pcie 5.0 data center ssd",
+   "specs": {
+    "capacityTb": 3.84,
+    "interface": "PCIe 5.0 x4, NVMe",
+    "formFactor": "2.5-inch U.2, E1.S, E3.S",
+    "readMbps": 12000,
+    "dwpd": 1,
+    "configurations": "960GB · 1.92TB · 3.84TB · 7.68TB · 15.36TB · 30.72TB"
+   }
+  },
+  {
+   "sku": "TK-SAMSUNG-HW-Q990H",
+   "slug": "samsung-hw-q990h-soundbar",
+   "name": "Samsung HW-Q990H 11.1.4ch Q-Series Soundbar",
+   "brand": "Samsung",
+   "category": "home-audio",
+   "price": "1999.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    32,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "samsung-ecosystem"
+   ],
+   "summary": "Samsung's 2026 flagship 11.1.4-channel Dolby Atmos soundbar system with a dual-driver wireless subwoofer and up-firing wireless rear speakers.",
+   "description": "The HW-Q990H delivers true 11.1.4-channel sound from 23 speakers across the soundbar, a compact subwoofer with dual 8-inch active units and two up-firing wireless rear speakers. It supports Wireless Dolby Atmos, HDMI 2.1 with eARC and 4K 120Hz pass-through, and adds 2026 AI features including SpaceFit Sound Pro, AI Dynamic Bass Control, Sound Elevation and Auto Volume.",
+   "keywords": "q990h soundbar dolby atmos 11.1.4 home theater subwoofer rear speakers q-symphony",
+   "specs": {
+    "channels": "11.1.4",
+    "drivers": "23 speakers incl. subwoofer with dual 8-inch active units",
+    "connectivity": "2x HDMI in, HDMI out (eARC), optical, Wi-Fi, Bluetooth 5.3",
+    "codecs": "Dolby Atmos, Dolby TrueHD, Dolby Digital Plus; MP3, AAC, OGG, FLAC, WAV, ALAC, AIFF",
+    "weightG": 7300,
+    "colors": "Titan Black"
+   }
+  },
+  {
+   "sku": "TK-SAMSUNG-HW-QS90H",
+   "slug": "samsung-hw-qs90h-soundbar",
+   "name": "Samsung HW-QS90H 7.1.2ch All-in-One Soundbar",
+   "brand": "Samsung",
+   "category": "home-audio",
+   "price": "999.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    35,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "samsung-ecosystem"
+   ],
+   "summary": "Samsung's first all-in-one Q-Series soundbar: 7.1.2 channels with four built-in woofers and no separate subwoofer.",
+   "description": "The HW-QS90H packs 13 speakers, including four built-in woofers, into a single bar for 7.1.2-channel Dolby Atmos sound without a separate subwoofer. A gyro sensor detects whether it is on a stand or wall-mounted and tunes the sound for that position. It shares the Q990H's 2026 AI features: SpaceFit Sound Pro, Adaptive Sound, AI Dynamic Bass Control, Sound Elevation and Auto Volume.",
+   "keywords": "qs90h all in one soundbar dolby atmos 7.1.2 wall mount",
+   "specs": {
+    "channels": "7.1.2",
+    "drivers": "13 speakers incl. 4 built-in woofers",
+    "connectivity": "HDMI in, HDMI out (eARC), optical, Wi-Fi, Bluetooth 5.3",
+    "codecs": "Dolby Atmos, Dolby TrueHD, Dolby Digital Plus; MP3, AAC, OGG, FLAC, WAV, ALAC, AIFF",
+    "weightG": 6700,
+    "colors": "Graphite Black"
+   }
+  },
+  {
+   "sku": "TK-SAMSUNG-HW-Q800H",
+   "slug": "samsung-hw-q800h-soundbar",
+   "name": "Samsung HW-Q800H 5.1.2ch Q-Series Soundbar",
+   "brand": "Samsung",
+   "category": "home-audio",
+   "price": "1099.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    38,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "samsung-ecosystem"
+   ],
+   "summary": "5.1.2-channel Dolby Atmos soundbar with wireless subwoofer, up-firing speakers and Samsung's 2026 AI sound features.",
+   "description": "The HW-Q800H uses 11 speakers, including up-firing and side-firing drivers, plus a wireless subwoofer for 5.1.2-channel Dolby Atmos. It supports Wireless Dolby Atmos, HDMI eARC and Q-Symphony with compatible Samsung TVs, and can be expanded with the SWA-9500S rear speaker kit.",
+   "keywords": "q800h soundbar dolby atmos 5.1.2 subwoofer q-symphony",
+   "specs": {
+    "channels": "5.1.2",
+    "drivers": "11 speakers plus wireless subwoofer",
+    "connectivity": "HDMI in, HDMI out (eARC), optical, Wi-Fi, Bluetooth 5.3",
+    "codecs": "Dolby Atmos, Dolby TrueHD, Dolby Digital Plus; MP3, AAC, OGG, FLAC, WAV, ALAC, AIFF",
+    "weightG": 5100,
+    "colors": "Black"
+   }
+  },
+  {
+   "sku": "TK-SAMSUNG-HW-LS70H",
+   "slug": "samsung-music-studio-7-hw-ls70h",
+   "name": "Samsung Music Studio 7 HW-LS70H Wi-Fi Speaker",
+   "brand": "Samsung",
+   "category": "home-audio",
+   "price": "499.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    34,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "samsung-ecosystem"
+   ],
+   "summary": "Sculptural 3.1.1-channel Dolby Atmos Wi-Fi speaker that doubles as a Q-Symphony TV speaker.",
+   "description": "Music Studio 7 is a 3.1.1-channel Wi-Fi and Bluetooth speaker with five drivers, including up-firing and side-firing speakers, for Dolby Atmos music and TV sound. It supports Spotify Connect, Tidal Connect, AirPlay, Chromecast and Roon Ready, connects to a TV over HDMI eARC or optical, and joins Samsung Q-Symphony setups.",
+   "keywords": "music studio 7 ls70h wifi speaker dolby atmos airplay chromecast",
+   "specs": {
+    "channels": "3.1.1",
+    "drivers": "5 speakers incl. up-firing and side-firing",
+    "connectivity": "Wi-Fi, Bluetooth 6.0, HDMI (eARC), optical",
+    "codecs": "Dolby Atmos, Dolby TrueHD, Dolby Digital Plus; MP3, AAC, OGG, FLAC, WAV, ALAC, AIFF",
+    "weightG": 5600,
+    "colors": "Black"
+   }
+  },
+  {
+   "sku": "TK-SAMSUNG-PREMIERE7-LPU7D",
+   "slug": "samsung-the-premiere-7-lpu7d",
+   "name": "Samsung The Premiere 7 LPU7D 4K Laser Projector",
+   "brand": "Samsung",
+   "category": "projectors",
+   "price": "2999.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    34,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "samsung-ecosystem"
+   ],
+   "summary": "4K ultra-short-throw smart laser projector with 2,500 ISO lumens, HDR10+, Dolby Atmos and Tizen apps.",
+   "description": "The Premiere 7 is a 4K laser ultra-short-throw projector rated at 2,500 ISO lumens, driven by Samsung's NQP AI Processor with HDR10+ and Filmmaker Mode. It has a 30W 2.2-channel speaker with Dolby Atmos, three HDMI inputs with 4K 60Hz and eARC, Wi-Fi 5 and Bluetooth 5.2, and runs Tizen with Samsung Gaming Hub.",
+   "keywords": "premiere lpu7d ust ultra short throw laser 4k projector home theater",
+   "specs": {
+    "resolution": "4K UHD",
+    "brightnessLumens": 2500,
+    "lightSource": "Laser",
+    "throwType": "Ultra short throw"
+   }
+  },
+  {
+   "sku": "TK-SAMSUNG-FREESTYLE-PLUS",
+   "slug": "samsung-the-freestyle-plus",
+   "name": "Samsung The Freestyle+ Portable Projector",
+   "brand": "Samsung",
+   "category": "projectors",
+   "price": "1199.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    10,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "samsung-ecosystem"
+   ],
+   "summary": "2026 portable Full HD smart projector with 430 ISO lumens, 180-degree rotating cradle and AI OptiScreen auto-calibration.",
+   "description": "The Freestyle+ is a compact cylindrical Full HD (1920 x 1080) LED projector rated at 430 ISO lumens, nearly twice the brightness of the previous generation. AI OptiScreen adds 3D Auto Keystone, Real-time Focus, Screen Fit and Wall Calibration, and its 180-degree cradle projects onto walls, floors and ceilings. It has a 360-degree speaker, streaming apps and Samsung Gaming Hub built in.",
+   "keywords": "freestyle plus portable projector 1080p smart tizen gaming hub",
+   "specs": {
+    "resolution": "Full HD 1920 x 1080",
+    "brightnessLumens": 430,
+    "lightSource": "LED",
+    "throwType": "Standard throw (1.2:1)",
+    "colors": "White"
+   }
+  },
+  {
    "sku": "TK-SAMSUNG-ODYSSEY-OLED-G8-G80SH",
    "slug": "samsung-odyssey-oled-g8-g80sh",
    "name": "Samsung Odyssey OLED G8 G80SH 4K 240Hz Gaming Monitor",

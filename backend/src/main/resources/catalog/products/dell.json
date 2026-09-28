@@ -1100,7 +1100,8 @@
     "panel": "QD-OLED",
     "hdr": "Dolby Vision, 1000 nits peak",
     "colorGamut": "99% DCI-P3",
-    "inputs": "1x DisplayPort 1.4, 2x HDMI 2.1 (FRL, one eARC), USB 5Gbps hub (3x USB-A, 1x USB-C)"
+    "inputs": "1x DisplayPort 1.4, 2x HDMI 2.1 (FRL, one eARC), USB 5Gbps hub (3x USB-A, 1x USB-C)",
+    "colors": "Dark Blue"
    }
   },
   {
@@ -1134,7 +1135,8 @@
     "colorGamut": "99% DCI-P3, 100% sRGB, 100% BT.709",
     "inputs": "Thunderbolt 4 upstream (140W EPR), 3x USB-C upstream, 2x HDMI 2.1, 2x DisplayPort 1.4, RJ45 2.5GbE, USB-A 10Gbps hub",
     "usbCPowerW": 140,
-    "configurations": "With stand – $2,999.99 · Without stand (U5226KW WOST) – $2,799.99"
+    "configurations": "With stand – $2,999.99 · Without stand (U5226KW WOST) – $2,799.99",
+    "colors": "Platinum Silver"
    }
   },
   {
@@ -1168,7 +1170,8 @@
     "hdr": "Dolby Vision, 1000 nits peak",
     "colorGamut": "99% DCI-P3, 94% Adobe RGB, 80% BT.2020, 100% sRGB",
     "inputs": "Thunderbolt 4 upstream (140W EPR) + Thunderbolt 4 downstream, USB-C upstream, 2x HDMI 2.1, 1x DisplayPort 1.4, RJ45",
-    "usbCPowerW": 140
+    "usbCPowerW": 140,
+    "colors": "Dark Gray"
    }
   },
   {
@@ -1235,7 +1238,8 @@
     "hdr": "600 nits peak",
     "colorGamut": "99% DCI-P3, 100% sRGB, 100% BT.709",
     "inputs": "Thunderbolt 4 upstream (140W EPR) + downstream, HDMI 2.1, DisplayPort 1.4 in, DisplayPort out, USB-C upstream, RJ45",
-    "usbCPowerW": 140
+    "usbCPowerW": 140,
+    "colors": "Silver"
    }
   },
   {
@@ -1267,7 +1271,8 @@
     "panel": "IPS",
     "colorGamut": "99% sRGB, 99% BT.709",
     "inputs": "USB-C upstream (DP Alt Mode, 100W PD), HDMI, DisplayPort 1.4 in + out, RJ45 1GbE, 2x USB-C + 2x USB-A downstream",
-    "usbCPowerW": 100
+    "usbCPowerW": 100,
+    "colors": "Dark Gray"
    }
   },
   {
@@ -1299,7 +1304,8 @@
     "panel": "IPS, 3800R curved",
     "colorGamut": "99% sRGB",
     "inputs": "USB-C upstream (DP Alt Mode, 90W PD), HDMI, DisplayPort 1.4, USB-B upstream, RJ45 1GbE, USB hub; 4MP webcam",
-    "usbCPowerW": 90
+    "usbCPowerW": 90,
+    "colors": "Dark Gray"
    }
   },
   {

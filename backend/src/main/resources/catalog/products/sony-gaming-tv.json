@@ -1067,7 +1067,8 @@
     "mount": "Sony E-mount",
     "weightG": 399,
     "autofocus": "759 phase-detection points (stills)",
-    "configurations": "Body only – $2,499.99 · Lens kit – $2,799.99"
+    "configurations": "Body only – $2,499.99 · Lens kit – $2,799.99",
+    "colors": "White, Black"
    }
   },
   {
@@ -1127,7 +1128,8 @@
     "battery": "NP-FZ100",
     "weightG": 292,
     "autofocus": "759 phase-detection points (stills)",
-    "configurations": "Body only – $1,199.99 · Kit – $1,299.99"
+    "configurations": "Body only – $1,199.99 · Kit – $1,299.99",
+    "colors": "Black, White"
    }
   },
   {
@@ -1273,6 +1275,285 @@
     "sensor": "35mm full frame",
     "stabilization": "None in lens (uses in-body stabilization)",
     "weightG": 778
+   }
+  },
+  {
+   "sku": "TK-TCL-X11L",
+   "slug": "tcl-x11l-sqd-mini-led",
+   "name": "TCL X11L SQD-Mini LED 4K Google TV",
+   "brand": "TCL",
+   "category": "led-tvs",
+   "price": "4499.99",
+   "compareAt": "5999.99",
+   "warranty": 12,
+   "stock": [
+    6,
+    3
+   ],
+   "featured": true,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "dream-gaming"
+   ],
+   "summary": "TCL's flagship SQD-Mini LED TV with up to 20,000 dimming zones, up to 10,000 peak nits and Bang & Olufsen audio.",
+   "description": "The X11L is TCL's top SQD-Mini LED 4K Google TV, with up to 20,000 precise dimming zones, up to 10,000 peak nits, a WHVA 2.0 Ultra panel, TCL Halo Control System and an ultra-thin design. Audio is by Bang & Olufsen.",
+   "keywords": "tcl mini led tv 4k google tv x11l",
+   "specs": {
+    "sizeIn": 75,
+    "sizes": "75, 85, 98 inch",
+    "resolution": "4K UHD",
+    "panel": "SQD-Mini LED, WHVA 2.0 Ultra panel, up to 20,000 dimming zones",
+    "hdr": "Up to 10,000 peak nits",
+    "smartPlatform": "Google TV",
+    "audio": "Audio by Bang & Olufsen",
+    "configurations": "75\" class – $4,499.99 · 85\" class – $6,499.99 · 98\" class – $8,999.99"
+   }
+  },
+  {
+   "sku": "TK-TCL-RM9L",
+   "slug": "tcl-rm9l-rgb-mini-led",
+   "name": "TCL RM9L RGB-Mini LED 4K Google TV",
+   "brand": "TCL",
+   "category": "led-tvs",
+   "price": "5999.99",
+   "compareAt": "7999.99",
+   "warranty": 12,
+   "stock": [
+    12,
+    3
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [],
+   "summary": "RGB-Mini LED 4K TV with up to 9,000 nits, 5,600+ dimming zones, 100% BT.2020 colour and 288Hz VRR gaming.",
+   "description": "The RM9L uses an RGB Mini LED backlight with 5,600+ dimming zones (16,000+ colour zones), up to 9,000 nits and 100% BT.2020 colour. It has a low-reflection WHVA Ultra panel, the TSR AI Pro processor, Game Accelerator 288 VRR with HDMI 2.1, and Dolby Vision IQ with Dolby Atmos audio by Bang & Olufsen.",
+   "keywords": "tcl mini led tv 4k google tv rm9l",
+   "specs": {
+    "sizeIn": 85,
+    "sizes": "85, 98, 115 inch",
+    "resolution": "4K UHD",
+    "panel": "RGB-Mini LED, WHVA Ultra low-reflection panel, 5,600+ dimming zones",
+    "refreshHz": 288,
+    "hdr": "Dolby Vision IQ; up to 9,000 nits",
+    "processor": "TSR AI Pro",
+    "gaming": "Game Accelerator 288 VRR, HDMI 2.1",
+    "smartPlatform": "Google TV",
+    "audio": "Dolby Atmos, Bang & Olufsen",
+    "configurations": "85\" class – $5,999.99 · 98\" class – $8,499.99 · 115\" class – $24,999.99"
+   }
+  },
+  {
+   "sku": "TK-TCL-QM8L",
+   "slug": "tcl-qm8l-sqd-mini-led",
+   "name": "TCL QM8L SQD-Mini LED 4K Google TV",
+   "brand": "TCL",
+   "category": "led-tvs",
+   "price": "1499.99",
+   "compareAt": "2499.99",
+   "warranty": 12,
+   "stock": [
+    31,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "gaming-monsters"
+   ],
+   "summary": "SQD-Mini LED 4K TV with up to 6,000 nits, 4,000+ local dimming zones, 288Hz VRR gaming and Bang & Olufsen audio.",
+   "description": "The QM8L has an SQD Mini LED display with up to 6,000 nits and 4,000+ local dimming zones, 100% BT.2020 quantum-dot colour and a ZeroBorder WHVA Ultra panel. The TSR AI Pro processor, Game Accelerator 288 VRR with HDMI 2.1, and Dolby Vision IQ plus Dolby Atmos audio by Bang & Olufsen round it out.",
+   "keywords": "tcl mini led tv 4k google tv qm8l",
+   "specs": {
+    "sizeIn": 65,
+    "sizes": "65, 75, 85, 98 inch",
+    "resolution": "4K UHD",
+    "panel": "SQD-Mini LED, WHVA Ultra panel, 4,000+ local dimming zones",
+    "refreshHz": 288,
+    "hdr": "Dolby Vision IQ; up to 6,000 nits",
+    "processor": "TSR AI Pro",
+    "gaming": "Game Accelerator 288 VRR, HDMI 2.1",
+    "smartPlatform": "Google TV",
+    "audio": "Dolby Atmos, Bang & Olufsen",
+    "configurations": "65\" class – $1,499.99 · 75\" class – $1,799.99 · 85\" class – $2,499.99 · 98\" class – $3,999.99"
+   }
+  },
+  {
+   "sku": "TK-TCL-QM7L",
+   "slug": "tcl-qm7l-sqd-mini-led",
+   "name": "TCL QM7L SQD-Mini LED 4K Google TV",
+   "brand": "TCL",
+   "category": "led-tvs",
+   "price": "799.99",
+   "compareAt": "1199.99",
+   "warranty": 12,
+   "stock": [
+    16,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [],
+   "summary": "SQD-Mini LED 4K TV with up to 3,000 nits, 2,100+ local dimming zones, 144Hz panel and 288 VRR FreeSync gaming.",
+   "description": "The QM7L brings SQD Mini LED to a wider range of sizes, with up to 3,000 nits, 2,100+ local dimming zones and 100% BT.2020 quantum-dot colour. It has a 144Hz refresh rate, Game Accelerator 288 VRR with FreeSync, AI picture optimisation, and Dolby Vision IQ with Dolby Atmos.",
+   "keywords": "tcl mini led tv 4k google tv qm7l",
+   "specs": {
+    "sizeIn": 55,
+    "sizes": "55, 65, 75, 85, 98 inch",
+    "resolution": "4K UHD",
+    "panel": "SQD-Mini LED, 2,100+ local dimming zones",
+    "refreshHz": 144,
+    "hdr": "Dolby Vision IQ; up to 3,000 nits",
+    "gaming": "Game Accelerator 288 VRR, FreeSync",
+    "smartPlatform": "Google TV",
+    "audio": "Dolby Atmos",
+    "configurations": "55\" class – $799.99 · 65\" class – $999.99 · 75\" class – $1,199.99 · 85\" class – $1,499.99 · 98\" class – $2,499.99"
+   }
+  },
+  {
+   "sku": "TK-HISENSE-UR9",
+   "slug": "hisense-ur9-rgb-miniled",
+   "name": "Hisense UR9 RGB MiniLED 4K Google TV",
+   "brand": "Hisense",
+   "category": "led-tvs",
+   "price": "3499.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    9,
+    3
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [],
+   "summary": "Hisense's 2026 RGB MiniLED TV with 100% BT.2020 colour, native 180Hz refresh and 4.1.2 Devialet-tuned sound.",
+   "description": "The UR9 uses RGB MiniLED powered by Hisense Chromagic technology, generating red, green and blue light individually for True 100% BT.2020 coverage with Pantone Validated colour. It adds the Hi-View AI Engine RGB, an ultra-low reflection panel, a native 180Hz refresh rate and a 4.1.2 multi-channel sound system tuned by Devialet.",
+   "keywords": "hisense ur9 rgb miniled tv 4k google tv",
+   "specs": {
+    "sizeIn": 65,
+    "sizes": "65, 75, 85, 100 inch",
+    "resolution": "4K UHD",
+    "panel": "RGB MiniLED (Chromagic), ultra-low reflection panel",
+    "refreshHz": 180,
+    "processor": "Hi-View AI Engine RGB",
+    "smartPlatform": "Google TV",
+    "audio": "4.1.2 multi-channel, tuned by Devialet, Dolby Atmos",
+    "configurations": "65\" class – $3,499.99 · 100\" class – $8,999.99"
+   }
+  },
+  {
+   "sku": "TK-HISENSE-U7SG",
+   "slug": "hisense-u7-miniled-uled",
+   "name": "Hisense U7 Series MiniLED ULED 4K Google TV (2026)",
+   "brand": "Hisense",
+   "category": "led-tvs",
+   "price": "1299.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    44,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [],
+   "summary": "2026 MiniLED ULED 4K TV with a native 165Hz refresh rate, full-array local dimming and 2.1.2 Dolby Atmos audio, up to 116 inches.",
+   "description": "The 2026 U7 Series (U7SG with Google TV) uses Hi-QLED MiniLED Pro with full-array local dimming, the Hi-View AI Engine Pro and a native 165Hz refresh rate. It includes 50W 2.1.2 multi-channel audio with Dolby Atmos and DTS Virtual:X, in sizes up to 116 inches.",
+   "keywords": "hisense u7 u7sg miniled uled tv 165hz google tv",
+   "specs": {
+    "sizeIn": 55,
+    "sizes": "55, 65, 75, 85, 100, 116 inch",
+    "resolution": "4K UHD",
+    "panel": "Hi-QLED MiniLED Pro, full-array local dimming",
+    "refreshHz": 165,
+    "processor": "Hi-View AI Engine Pro",
+    "smartPlatform": "Google TV",
+    "audio": "50W 2.1.2, Dolby Atmos, DTS Virtual:X"
+   }
+  },
+  {
+   "sku": "TK-8BITDO-ULTIMATE-2-BT",
+   "slug": "8bitdo-ultimate-2-bluetooth-controller",
+   "name": "8BitDo Ultimate 2 Bluetooth Controller",
+   "brand": "8BitDo",
+   "category": "controllers",
+   "price": "69.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    22,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [],
+   "summary": "Switch and Windows controller with TMR sticks, switchable Hall-effect triggers and a charging dock.",
+   "description": "The Ultimate 2 Bluetooth Controller works with Switch (and Switch 2 via firmware update) and Windows over Bluetooth, 2.4G or USB. It has TMR joysticks with a 12-bit ADC, Hall Effect triggers that switch between linear and tactile modes, and a charging dock that also extends the wireless signal. It weighs 246 g.",
+   "keywords": "8bitdo ultimate 2 controller switch pc tmr hall effect",
+   "specs": {
+    "platform": "Nintendo Switch, Switch 2 (firmware update), Windows",
+    "connectivity": "Bluetooth, 2.4G, wired USB",
+    "weightG": 246,
+    "colors": "Black, White, Yellow"
+   }
+  },
+  {
+   "sku": "TK-8BITDO-PRO-3",
+   "slug": "8bitdo-pro-3-bluetooth-gamepad",
+   "name": "8BitDo Pro 3 Bluetooth Gamepad",
+   "brand": "8BitDo",
+   "category": "controllers",
+   "price": "69.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    52,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [],
+   "summary": "Retro-styled pro gamepad for Switch, PC, SteamOS, Apple and Android with TMR sticks, dual-mode triggers and back paddles.",
+   "description": "The 8BitDo Pro 3 connects over 2.4G, Bluetooth or USB to Switch 1/2, Windows, SteamOS, Android and Apple devices. It has TMR joysticks, triggers that switch between linear Hall Effect and tactile modes, two remappable L4/R4 back buttons, a 1000mAh battery and a charging dock.",
+   "keywords": "8bitdo pro 3 controller retro switch pc steam deck",
+   "specs": {
+    "platform": "Switch 1/2, Windows, SteamOS, Android, Apple",
+    "connectivity": "2.4G, Bluetooth, wired USB",
+    "battery": "1000 mAh",
+    "colors": "Orange, Purple, G Classic, Gray"
+   }
+  },
+  {
+   "sku": "TK-8BITDO-ULTIMATE-3E-XBOX",
+   "slug": "8bitdo-ultimate-3e-controller-xbox",
+   "name": "8BitDo Ultimate 3E Controller for Xbox",
+   "brand": "8BitDo",
+   "category": "controllers",
+   "price": "149.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    22,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [],
+   "summary": "Officially licensed Xbox controller with swappable ABXY, stick and D-pad modules, TMR sticks and a wireless charging dock.",
+   "description": "The Ultimate 3E is 8BitDo's pro-level, officially licensed controller for Xbox Series X|S, Windows and mobile. It offers swappable ABXY modules (silicone or micro-switch), joysticks and D-pads, TMR joysticks with a 12-bit ADC, a contactless magnetic wireless charging dock and 1000Hz polling on PC.",
+   "keywords": "8bitdo ultimate 3e xbox controller modular tmr",
+   "specs": {
+    "platform": "Xbox Series X|S, Windows, mobile",
+    "connectivity": "Wireless; 1000Hz polling on PC",
+    "colors": "Black"
    }
   }
  ]

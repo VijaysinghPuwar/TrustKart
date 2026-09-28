@@ -196,7 +196,7 @@
         "rights": "Official MSI-US Store product gallery image; MSI has not granted a general reuse license — rights not verified.",
         "credit": "MSI",
         "alt": "MSI Stealth A18 AI+ laptop in Midnight Black, open front view",
-        "match": "EXACT"
+        "match": "PRODUCT_LINE"
       },
       "colors": [
         "Midnight Black"
@@ -1447,21 +1447,13 @@
         "specs": "https://store.acer.com/en-us/predator-orion-6000-gaming-desktop-po6-605-ur18w",
         "retrievedAt": "2026-09-28"
       },
-      "image": {
-        "url": "https://static-ecpa.acer.com/media/catalog/product/i/m/image_1_2_ud.p02aa.07x.png",
-        "page": "https://store.acer.com/en-us/predator-orion-6000-gaming-desktop-po6-605-ur18w",
-        "sourceType": "manufacturer-product-page",
-        "rights": "Official Acer Store (store.acer.com) product gallery image; Acer has not granted a general reuse license — rights not verified.",
-        "credit": "Acer",
-        "alt": "Acer Predator Orion 6000 gaming desktop tower in white, front three-quarter view",
-        "match": "EXACT"
-      },
       "colors": [
         "White"
       ],
       "collections": [
         "dream-gaming"
       ],
+      "notes": "Store gallery image shows the tower with bundled keyboard and mouse, so no image is used.",
       "keywords": "predator orion rtx 5080 prebuilt gaming pc"
     },
     {
@@ -1648,10 +1640,10 @@
       },
       "notes": "GIGABYTE does not sell direct in the US and publishes no MSRP on gigabyte.com; price is a TrustKart estimate based on comparable official-store pricing (MSI-US / Acer Store) on 2026-09-28.",
       "image": {
-        "url": "https://static.gigabyte.com/StaticFile/Image/Global/f47d04caa3302884d29447244da78e6c/ProductRemoveBg/48733",
+        "url": "https://static.gigabyte.com/StaticFile/Image/Global/f47d04caa3302884d29447244da78e6c/Product/48733/png/2000",
         "page": "https://www.gigabyte.com/us/Laptop/AORUS-MASTER-16-AM6J",
         "sourceType": "manufacturer-product-page",
-        "rights": "Official GIGABYTE product image (background-removed product shot served by static.gigabyte.com for the product page); GIGABYTE has not granted a general reuse license — rights not verified.",
+        "rights": "Official GIGABYTE product image (product-page gallery image served by static.gigabyte.com); GIGABYTE has not granted a general reuse license — rights not verified.",
         "credit": "GIGABYTE",
         "alt": "AORUS MASTER 16 AM6J gaming laptop in black, open front view",
         "match": "EXACT"
@@ -1696,10 +1688,10 @@
       },
       "notes": "GIGABYTE does not sell direct in the US and publishes no MSRP on gigabyte.com; price is a TrustKart estimate based on comparable official-store pricing (MSI-US / Acer Store) on 2026-09-28.",
       "image": {
-        "url": "https://static.gigabyte.com/StaticFile/Image/Global/7cbbfbf7d4315d4b6da834647647a3cc/ProductRemoveBg/48734",
+        "url": "https://static.gigabyte.com/StaticFile/Image/Global/7cbbfbf7d4315d4b6da834647647a3cc/Product/48734/png/2000",
         "page": "https://www.gigabyte.com/us/Laptop/AORUS-MASTER-18-AM8H",
         "sourceType": "manufacturer-product-page",
-        "rights": "Official GIGABYTE product image (background-removed product shot served by static.gigabyte.com for the product page); GIGABYTE has not granted a general reuse license — rights not verified.",
+        "rights": "Official GIGABYTE product image (product-page gallery image served by static.gigabyte.com); GIGABYTE has not granted a general reuse license — rights not verified.",
         "credit": "GIGABYTE",
         "alt": "AORUS MASTER 18 AM8H gaming laptop in black, open front view",
         "match": "EXACT"
@@ -1743,10 +1735,10 @@
       },
       "notes": "GIGABYTE does not sell direct in the US and publishes no MSRP on gigabyte.com; price is a TrustKart estimate based on comparable official-store pricing (MSI-US / Acer Store) on 2026-09-28.",
       "image": {
-        "url": "https://static.gigabyte.com/StaticFile/Image/Global/2840e39738a18b65fc4644b6ede4953e/ProductRemoveBg/48777",
+        "url": "https://static.gigabyte.com/StaticFile/Image/Global/2840e39738a18b65fc4644b6ede4953e/Product/48777/png/2000",
         "page": "https://www.gigabyte.com/us/Laptop/GIGABYTE-GAMING-A18-PRO-GA8J",
         "sourceType": "manufacturer-product-page",
-        "rights": "Official GIGABYTE product image (background-removed product shot served by static.gigabyte.com for the product page); GIGABYTE has not granted a general reuse license — rights not verified.",
+        "rights": "Official GIGABYTE product image (product-page gallery image served by static.gigabyte.com); GIGABYTE has not granted a general reuse license — rights not verified.",
         "credit": "GIGABYTE",
         "alt": "GIGABYTE GAMING A18 PRO laptop in Titanium Black, open front view",
         "match": "EXACT"
@@ -1786,10 +1778,10 @@
       },
       "notes": "GIGABYTE does not sell direct in the US and publishes no MSRP on gigabyte.com; price is a TrustKart estimate based on comparable official-store pricing (MSI-US / Acer Store) on 2026-09-28.",
       "image": {
-        "url": "https://static.gigabyte.com/StaticFile/Image/Global/b59e2926cfa3ccda82cfab37eed7b2c2/ProductRemoveBg/48742",
+        "url": "https://static.gigabyte.com/StaticFile/Image/Global/b59e2926cfa3ccda82cfab37eed7b2c2/Product/48742/png/2000",
         "page": "https://www.gigabyte.com/us/Laptop/GIGABYTE-AERO-X16-EG64H",
         "sourceType": "manufacturer-product-page",
-        "rights": "Official GIGABYTE product image (background-removed product shot served by static.gigabyte.com for the product page); GIGABYTE has not granted a general reuse license — rights not verified.",
+        "rights": "Official GIGABYTE product image (product-page gallery image served by static.gigabyte.com); GIGABYTE has not granted a general reuse license — rights not verified.",
         "credit": "GIGABYTE",
         "alt": "GIGABYTE AERO X16 creator laptop, open front view",
         "match": "EXACT"
@@ -1832,10 +1824,10 @@
       },
       "notes": "GIGABYTE does not sell direct in the US and publishes no MSRP on gigabyte.com; price is a TrustKart estimate based on comparable official-store pricing (MSI-US / Acer Store) on 2026-09-28.",
       "image": {
-        "url": "https://static.gigabyte.com/StaticFile/Image/Global/e9149e2bd4d3b3e5aab07e7c668f07b3/ProductRemoveBg/47055",
+        "url": "https://static.gigabyte.com/StaticFile/Image/Global/e9149e2bd4d3b3e5aab07e7c668f07b3/Product/47055/png/2000",
         "page": "https://www.gigabyte.com/us/Motherboard/X870E-AORUS-XTREME-X3D-AI-TOP",
         "sourceType": "manufacturer-product-page",
-        "rights": "Official GIGABYTE product image (background-removed product shot served by static.gigabyte.com for the product page); GIGABYTE has not granted a general reuse license — rights not verified.",
+        "rights": "Official GIGABYTE product image (product-page gallery image served by static.gigabyte.com); GIGABYTE has not granted a general reuse license — rights not verified.",
         "credit": "GIGABYTE",
         "alt": "GIGABYTE X870E AORUS XTREME X3D AI TOP E-ATX motherboard, top view",
         "match": "EXACT"
@@ -1875,10 +1867,10 @@
       },
       "notes": "GIGABYTE does not sell direct in the US and publishes no MSRP on gigabyte.com; price is a TrustKart estimate based on comparable official-store pricing (MSI-US / Acer Store) on 2026-09-28.",
       "image": {
-        "url": "https://static.gigabyte.com/StaticFile/Image/Global/9452f7706c628f6503332260cf1adbd4/ProductRemoveBg/47080",
+        "url": "https://static.gigabyte.com/StaticFile/Image/Global/9452f7706c628f6503332260cf1adbd4/Product/47080/png/2000",
         "page": "https://www.gigabyte.com/us/Motherboard/X870E-AORUS-MASTER-X3D",
         "sourceType": "manufacturer-product-page",
-        "rights": "Official GIGABYTE product image (background-removed product shot served by static.gigabyte.com for the product page); GIGABYTE has not granted a general reuse license — rights not verified.",
+        "rights": "Official GIGABYTE product image (product-page gallery image served by static.gigabyte.com); GIGABYTE has not granted a general reuse license — rights not verified.",
         "credit": "GIGABYTE",
         "alt": "GIGABYTE X870E AORUS MASTER X3D ATX motherboard, top view",
         "match": "EXACT"
@@ -1914,10 +1906,10 @@
       },
       "notes": "GIGABYTE does not sell direct in the US and publishes no MSRP on gigabyte.com; price is a TrustKart estimate based on comparable official-store pricing (MSI-US / Acer Store) on 2026-09-28.",
       "image": {
-        "url": "https://static.gigabyte.com/StaticFile/Image/Global/e7fdbd75dac4a8871d2455462f96b052/ProductRemoveBg/42045",
+        "url": "https://static.gigabyte.com/StaticFile/Image/Global/e7fdbd75dac4a8871d2455462f96b052/Product/42045/png/2000",
         "page": "https://www.gigabyte.com/us/Motherboard/Z890-AORUS-MASTER",
         "sourceType": "manufacturer-product-page",
-        "rights": "Official GIGABYTE product image (background-removed product shot served by static.gigabyte.com for the product page); GIGABYTE has not granted a general reuse license — rights not verified.",
+        "rights": "Official GIGABYTE product image (product-page gallery image served by static.gigabyte.com); GIGABYTE has not granted a general reuse license — rights not verified.",
         "credit": "GIGABYTE",
         "alt": "GIGABYTE Z890 AORUS MASTER ATX motherboard, top view",
         "match": "EXACT"
@@ -1952,10 +1944,10 @@
       },
       "notes": "GIGABYTE does not sell direct in the US and publishes no MSRP on gigabyte.com; price is a TrustKart estimate based on comparable official-store pricing (MSI-US / Acer Store) on 2026-09-28.",
       "image": {
-        "url": "https://static.gigabyte.com/StaticFile/Image/Global/a67d9b9d9fe4c2d45c95946aec6375ee/ProductRemoveBg/43834",
+        "url": "https://static.gigabyte.com/StaticFile/Image/Global/a67d9b9d9fe4c2d45c95946aec6375ee/Product/43834/png/2000",
         "page": "https://www.gigabyte.com/us/Graphics-Card/GV-N5090AORUS-M-32GD",
         "sourceType": "manufacturer-product-page",
-        "rights": "Official GIGABYTE product image (background-removed product shot served by static.gigabyte.com for the product page); GIGABYTE has not granted a general reuse license — rights not verified.",
+        "rights": "Official GIGABYTE product image (product-page gallery image served by static.gigabyte.com); GIGABYTE has not granted a general reuse license — rights not verified.",
         "credit": "GIGABYTE",
         "alt": "AORUS GeForce RTX 5090 MASTER 32G graphics card, angled front view",
         "match": "EXACT"
@@ -1995,10 +1987,10 @@
       },
       "notes": "GIGABYTE does not sell direct in the US and publishes no MSRP on gigabyte.com; price is a TrustKart estimate based on comparable official-store pricing (MSI-US / Acer Store) on 2026-09-28.",
       "image": {
-        "url": "https://static.gigabyte.com/StaticFile/Image/Global/c4b99c1cd9127a925f55f34e7853d49a/ProductRemoveBg/43869",
+        "url": "https://static.gigabyte.com/StaticFile/Image/Global/c4b99c1cd9127a925f55f34e7853d49a/Product/43869/png/2000",
         "page": "https://www.gigabyte.com/us/Graphics-Card/GV-N5080AORUS-M-16GD",
         "sourceType": "manufacturer-product-page",
-        "rights": "Official GIGABYTE product image (background-removed product shot served by static.gigabyte.com for the product page); GIGABYTE has not granted a general reuse license — rights not verified.",
+        "rights": "Official GIGABYTE product image (product-page gallery image served by static.gigabyte.com); GIGABYTE has not granted a general reuse license — rights not verified.",
         "credit": "GIGABYTE",
         "alt": "AORUS GeForce RTX 5080 MASTER 16G graphics card, angled front view",
         "match": "EXACT"
@@ -2036,10 +2028,10 @@
       },
       "notes": "GIGABYTE does not sell direct in the US and publishes no MSRP on gigabyte.com; price is a TrustKart estimate based on comparable official-store pricing (MSI-US / Acer Store) on 2026-09-28.",
       "image": {
-        "url": "https://static.gigabyte.com/StaticFile/Image/Global/b456806454c82f2cf286d7c95a892515/ProductRemoveBg/43913",
+        "url": "https://static.gigabyte.com/StaticFile/Image/Global/b456806454c82f2cf286d7c95a892515/Product/43913/png/2000",
         "page": "https://www.gigabyte.com/us/Graphics-Card/GV-N507TWF3OC-16GD",
         "sourceType": "manufacturer-product-page",
-        "rights": "Official GIGABYTE product image (background-removed product shot served by static.gigabyte.com for the product page); GIGABYTE has not granted a general reuse license — rights not verified.",
+        "rights": "Official GIGABYTE product image (product-page gallery image served by static.gigabyte.com); GIGABYTE has not granted a general reuse license — rights not verified.",
         "credit": "GIGABYTE",
         "alt": "GIGABYTE GeForce RTX 5070 Ti WINDFORCE OC SFF triple-fan graphics card",
         "match": "EXACT"
@@ -2075,10 +2067,10 @@
       },
       "notes": "GIGABYTE does not sell direct in the US and publishes no MSRP on gigabyte.com; price is a TrustKart estimate based on comparable official-store pricing (MSI-US / Acer Store) on 2026-09-28.",
       "image": {
-        "url": "https://static.gigabyte.com/StaticFile/Image/Global/96c04682d3125d110beab8909a50d85a/ProductRemoveBg/45474",
+        "url": "https://static.gigabyte.com/StaticFile/Image/Global/96c04682d3125d110beab8909a50d85a/Product/45474/png/2000",
         "page": "https://www.gigabyte.com/us/Monitor/AORUS-FO27Q5P",
         "sourceType": "manufacturer-product-page",
-        "rights": "Official GIGABYTE product image (background-removed product shot served by static.gigabyte.com for the product page); GIGABYTE has not granted a general reuse license — rights not verified.",
+        "rights": "Official GIGABYTE product image (product-page gallery image served by static.gigabyte.com); GIGABYTE has not granted a general reuse license — rights not verified.",
         "credit": "GIGABYTE",
         "alt": "AORUS FO27Q5P 27-inch QD-OLED gaming monitor, front view",
         "match": "EXACT"
@@ -2117,10 +2109,10 @@
       },
       "notes": "GIGABYTE does not sell direct in the US and publishes no MSRP on gigabyte.com; price is a TrustKart estimate based on comparable official-store pricing (MSI-US / Acer Store) on 2026-09-28.",
       "image": {
-        "url": "https://static.gigabyte.com/StaticFile/Image/Global/c01fa3d45ae3b850fc03279e529eaf1b/ProductRemoveBg/45046",
+        "url": "https://static.gigabyte.com/StaticFile/Image/Global/c01fa3d45ae3b850fc03279e529eaf1b/Product/45046/png/2000",
         "page": "https://www.gigabyte.com/us/Monitor/AORUS-FO32U2P",
         "sourceType": "manufacturer-product-page",
-        "rights": "Official GIGABYTE product image (background-removed product shot served by static.gigabyte.com for the product page); GIGABYTE has not granted a general reuse license — rights not verified.",
+        "rights": "Official GIGABYTE product image (product-page gallery image served by static.gigabyte.com); GIGABYTE has not granted a general reuse license — rights not verified.",
         "credit": "GIGABYTE",
         "alt": "AORUS FO32U2P 31.5-inch 4K OLED gaming monitor, front view",
         "match": "EXACT"
@@ -2159,10 +2151,10 @@
       },
       "notes": "GIGABYTE does not sell direct in the US and publishes no MSRP on gigabyte.com; price is a TrustKart estimate based on comparable official-store pricing (MSI-US / Acer Store) on 2026-09-28. Priced in line with MSI's GB10-based EdgeXpert on the MSI-US store.",
       "image": {
-        "url": "https://static.gigabyte.com/StaticFile/Image/Global/f7f1b46feebd54aa2a9ed4fd79d7b26c/ProductRemoveBg/46106",
+        "url": "https://static.gigabyte.com/StaticFile/Image/Global/f7f1b46feebd54aa2a9ed4fd79d7b26c/Product/46106/png/2000",
         "page": "https://www.gigabyte.com/AI-TOP-PC/GIGABYTE-AI-TOP-ATOM",
         "sourceType": "manufacturer-product-page",
-        "rights": "Official GIGABYTE product image (background-removed product shot served by static.gigabyte.com for the product page); GIGABYTE has not granted a general reuse license — rights not verified.",
+        "rights": "Official GIGABYTE product image (product-page gallery image served by static.gigabyte.com); GIGABYTE has not granted a general reuse license — rights not verified.",
         "credit": "GIGABYTE",
         "alt": "GIGABYTE AI TOP ATOM compact AI supercomputer, front three-quarter view",
         "match": "EXACT"
@@ -2202,7 +2194,7 @@
         "url": "https://static.gigabyte.com/StaticFile/Image/Global/c6220aa7e0b9c4e1125d3b182051043f/Product/43273/png/2000",
         "page": "https://www.gigabyte.com/Enterprise/GPU-Server/G893-ZD1-AAX5",
         "sourceType": "manufacturer-product-page",
-        "rights": "Official GIGABYTE product image (background-removed product shot served by static.gigabyte.com for the product page); GIGABYTE has not granted a general reuse license — rights not verified.",
+        "rights": "Official GIGABYTE product image (product-page gallery image served by static.gigabyte.com); GIGABYTE has not granted a general reuse license — rights not verified.",
         "credit": "GIGABYTE",
         "alt": "GIGABYTE G893-ZD1-AAX5 8U GPU server chassis, front three-quarter view",
         "match": "EXACT"

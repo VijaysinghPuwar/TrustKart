@@ -408,16 +408,15 @@ def normalize_image(data: bytes):
     w, h = im.size
     notes = []
 
-    # Background detection from a 2% border ring.
-    b = max(2, int(min(w, h) * 0.02))
-    ring = [im.crop((0, 0, w, b)), im.crop((0, h - b, w, h)), im.crop((0, 0, b, h)), im.crop((w - b, 0, w, h))]
-    means, devs = [], []
-    for r in ring:
-        st = ImageStat.Stat(r)
-        means.append(st.mean)
-        devs.append(max(st.stddev))
-    bgc = [sum(m[c] for m in means) / 4 for c in range(3)]
-    uniform = max(devs) < 6
+    # Background detection from the four corner patches. Corners (not the whole border) so that product shots
+    # cropped edge-to-edge, where the product touches a side, still read as studio white. 3 of 4 must agree.
+    b = max(3, int(min(w, h) * 0.03))
+    corners = [im.crop((0, 0, b, b)), im.crop((w - b, 0, w, b)), im.crop((0, h - b, b, h)), im.crop((w - b, h - b, w, h))]
+    stats = [ImageStat.Stat(c) for c in corners]
+    clean = [st for st in stats if max(st.stddev) < 6 and min(st.mean) >= 228]
+    uniform = len(clean) >= 3
+    ref = clean if clean else stats
+    bgc = [sum(st.mean[c] for st in ref) / len(ref) for c in range(3)]
     bright = min(bgc) >= 228
     if not (uniform and bright):
         notes.append("non-white background")

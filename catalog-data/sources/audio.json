@@ -990,7 +990,7 @@
       "sources": {
         "product": "https://www.uaudio.com/products/apollo-twin-x",
         "retrievedAt": "2026-09-28",
-        "notes": "UA's product page shows 'price displayed at checkout'; the price is the variant price published in UA's own store data (uaudio.com). Variants: DUO Essentials+ $1,499; DUO Studio+ $1,899; QUAD Essentials+ $1,899; QUAD Studio+ $2,299."
+        "notes": "UA's product page shows 'price displayed at checkout'; the price is the variant price published in UA's own store data (uaudio.com)."
       },
       "image": {
         "url": "https://cdn.shopify.com/s/files/1/0558/1724/0665/files/apollo_twin_x_gallery_2_0f59949a-223d-49bb-ba1a-e3464b557151.png?v=1771946781",
@@ -1000,7 +1000,25 @@
         "credit": "Universal Audio",
         "alt": "Universal Audio Apollo Twin X desktop interface in silver, top-front view showing the monitor knob and meters",
         "match": "EXACT"
-      }
+      },
+      "variants": [
+        {
+          "label": "DUO, Essentials+ bundle",
+          "price": "1499.00"
+        },
+        {
+          "label": "DUO, Studio+ bundle",
+          "price": "1899.00"
+        },
+        {
+          "label": "QUAD, Essentials+ bundle",
+          "price": "1899.00"
+        },
+        {
+          "label": "QUAD, Studio+ bundle",
+          "price": "2299.00"
+        }
+      ]
     },
     {
       "sku": "TK-UA-APOLLO-X4",
@@ -1023,7 +1041,7 @@
       "sources": {
         "product": "https://www.uaudio.com/products/apollo-x4",
         "retrievedAt": "2026-09-28",
-        "notes": "UA's product page shows 'price displayed at checkout'; the price is the variant price published in UA's own store data (uaudio.com). Variants: Essentials+ $2,499; Studio+ $2,899."
+        "notes": "UA's product page shows 'price displayed at checkout'; the price is the variant price published in UA's own store data (uaudio.com)."
       },
       "image": {
         "url": "https://cdn.shopify.com/s/files/1/0558/1724/0665/files/apollo_x4_gallery_2_00d24f49-66d4-4070-9dea-21eb523ea106.png?v=1742246525",
@@ -1033,7 +1051,17 @@
         "credit": "Universal Audio",
         "alt": "Universal Audio Apollo x4 desktop interface in silver, top-front view with front-panel inputs",
         "match": "EXACT"
-      }
+      },
+      "variants": [
+        {
+          "label": "Essentials+ bundle",
+          "price": "2499.00"
+        },
+        {
+          "label": "Studio+ bundle",
+          "price": "2899.00"
+        }
+      ]
     },
     {
       "sku": "TK-UA-VOLT-276",
@@ -1489,6 +1517,157 @@
         "rights": "Official beyerdynamic North America store product image; no reuse license verified.",
         "credit": "beyerdynamic",
         "alt": "beyerdynamic AVENTHO Y wireless headphones in Liquid Black, perspective view",
+        "match": "EXACT"
+      }
+    },
+    {
+      "sku": "TK-RODE-PODMIC-USB",
+      "slug": "rode-podmic-usb",
+      "name": "RØDE PodMic USB",
+      "brand": "RØDE",
+      "category": "microphones",
+      "price": "209.00",
+      "priceBasis": "msrp",
+      "priceSource": "https://rode.com/en-us/products/podmic-usb",
+      "priceAsOf": "2026-09-28",
+      "summary": "Broadcast dynamic microphone with both USB-C and XLR outputs, APHEX-powered onboard DSP and zero-latency headphone monitoring.",
+      "description": "PodMic USB is a broadcast-quality dynamic microphone with a high-power neodymium capsule and both XLR and USB-C outputs. Onboard DSP powered by APHEX includes VoxLab, high-pass filter, noise gate, compressor, Aural Exciter and Big Bottom, and it adds an internal pop filter and shockmount, an integrated swing mount and zero-latency headphone monitoring.",
+      "keywords": "rode podmic usb dynamic podcast microphone usb-c xlr aphex streaming",
+      "specs": {
+        "connection": "USB-C and XLR",
+        "micType": "Dynamic"
+      },
+      "colors": [
+        "Black",
+        "White"
+      ],
+      "collections": [
+        "creator-workstations"
+      ],
+      "featured": true,
+      "sources": {
+        "product": "https://rode.com/en-us/products/podmic-usb",
+        "retrievedAt": "2026-09-28"
+      },
+      "image": {
+        "url": "https://edge.rode.com//images/products/variants/183/rode-podmic-usb-black-hero-3-quater-tilted-4000x4000-rgb-2000x2000-064a3d6.png",
+        "page": "https://rode.com/en-us/products/podmic-usb",
+        "sourceType": "manufacturer-product-page",
+        "rights": "Official RØDE product image from rode.com; no reuse license verified.",
+        "credit": "RØDE",
+        "alt": "RØDE PodMic USB dynamic microphone in black on its swing mount, three-quarter tilted view",
+        "match": "EXACT"
+      }
+    },
+    {
+      "sku": "TK-RODE-NT-USB-PLUS",
+      "slug": "rode-nt-usb-plus",
+      "name": "RØDE NT-USB+",
+      "brand": "RØDE",
+      "category": "microphones",
+      "price": "179.00",
+      "priceBasis": "msrp",
+      "priceSource": "https://rode.com/en-us/products/nt-usb-plus",
+      "priceAsOf": "2026-09-28",
+      "summary": "USB-C studio condenser microphone with a tight cardioid capsule, Revolution Preamp, APHEX processing and zero-latency headphone output.",
+      "description": "NT-USB+ is a professional USB microphone with a studio-grade condenser capsule and tight cardioid polar pattern, an ultra-low-noise Revolution Preamp and high-resolution conversion. APHEX processing (compressor, noise gate, high-pass filter, Aural Exciter and Big Bottom) is available in RØDE software, and a high-power headphone output provides zero-latency monitoring.",
+      "keywords": "rode nt-usb+ plus usb condenser microphone streaming podcast",
+      "specs": {
+        "connection": "USB-C",
+        "micType": "Condenser",
+        "polarPattern": "Cardioid"
+      },
+      "colors": [
+        "Black"
+      ],
+      "sources": {
+        "product": "https://rode.com/en-us/products/nt-usb-plus",
+        "retrievedAt": "2026-09-28"
+      },
+      "image": {
+        "url": "https://edge.rode.com//images/page/2072/modules/6597/rode-nt-usb-plus-three-quater-hero-1080x1080-rgb.png",
+        "page": "https://rode.com/en-us/products/nt-usb-plus",
+        "sourceType": "manufacturer-product-page",
+        "rights": "Official RØDE product image from rode.com; no reuse license verified.",
+        "credit": "RØDE",
+        "alt": "RØDE NT-USB+ USB condenser microphone on its tripod desk stand, three-quarter view",
+        "match": "EXACT"
+      }
+    },
+    {
+      "sku": "TK-RODE-NT1-GEN5",
+      "slug": "rode-nt1-5th-generation",
+      "name": "RØDE NT1 5th Generation",
+      "brand": "RØDE",
+      "category": "microphones",
+      "price": "249.00",
+      "priceBasis": "msrp",
+      "priceSource": "https://rode.com/en-us/products/nt1-5th-generation",
+      "priceAsOf": "2026-09-28",
+      "summary": "Large-diaphragm cardioid condenser with Dual Connect XLR and USB-C outputs, 32-bit float conversion and 4 dBA self-noise.",
+      "description": "The NT1 5th Generation is a large-diaphragm cardioid condenser built around a 1-inch HF6 capsule with 4 dBA self-noise. Its Dual Connect output offers both XLR and USB-C, with 32-bit float digital output up to 192 kHz and APHEX onboard processing. A shock mount, pop filter, XLR cable and USB-C cable are included.",
+      "keywords": "rode nt1 5th gen condenser studio microphone 32-bit float usb xlr vocal",
+      "specs": {
+        "connection": "XLR and USB-C (Dual Connect)",
+        "micType": "Large-diaphragm condenser (1-in HF6 capsule)",
+        "polarPattern": "Cardioid"
+      },
+      "colors": [
+        "Black",
+        "Silver"
+      ],
+      "collections": [
+        "creator-workstations"
+      ],
+      "sources": {
+        "product": "https://rode.com/en-us/products/nt1-5th-generation",
+        "retrievedAt": "2026-09-28"
+      },
+      "image": {
+        "url": "https://edge.rode.com//images/products/variants/165/rode-nt1-5th-generation-black-3-quarter-with-shock-mount-and-pop-shield-5464x8192-rgb-2000x2000-4f7630d.png",
+        "page": "https://rode.com/en-us/products/nt1-5th-generation",
+        "sourceType": "manufacturer-product-page",
+        "rights": "Official RØDE product image from rode.com; no reuse license verified.",
+        "credit": "RØDE",
+        "alt": "RØDE NT1 5th Generation condenser microphone in black in its shock mount with pop filter",
+        "match": "EXACT"
+      }
+    },
+    {
+      "sku": "TK-RODE-RODECASTER-PRO-II",
+      "slug": "rode-rodecaster-pro-ii",
+      "name": "RØDE RØDECaster Pro II",
+      "brand": "RØDE",
+      "category": "studio-audio",
+      "price": "699.00",
+      "priceBasis": "msrp",
+      "priceSource": "https://rode.com/en-us/products/rodecaster-pro-ii",
+      "priceAsOf": "2026-09-28",
+      "summary": "Podcast and streaming production studio with four Revolution Preamp combo inputs, dual USB-C, Bluetooth, a 5.5-inch touchscreen and six faders.",
+      "description": "RØDECaster Pro II is an all-in-one audio production console with four Neutrik combo inputs on Revolution Preamps (-131.5 dBV EIN, 76 dB gain), four headphone outputs and balanced line outputs. Dual USB-C interfaces connect two computers or mobile devices, Bluetooth and a built-in Series IV wireless receiver add sources, and a 5.5-inch haptic touchscreen, six physical faders and eight SMART pads handle control and multitrack recording.",
+      "keywords": "rodecaster pro ii podcast mixer audio interface streaming rode",
+      "specs": {
+        "connectivity": "Dual USB-C, Bluetooth, built-in RØDE Series IV wireless receiver",
+        "inputs": "4 Neutrik combo inputs (Revolution Preamps); 4 headphone outputs; balanced 1/4-in line outputs"
+      },
+      "colors": [
+        "Black",
+        "White"
+      ],
+      "collections": [
+        "creator-workstations"
+      ],
+      "sources": {
+        "product": "https://rode.com/en-us/products/rodecaster-pro-ii",
+        "retrievedAt": "2026-09-28"
+      },
+      "image": {
+        "url": "https://edge.rode.com//images/products/variants/291/rode-rodecaster-pro-II-top-down-3840x2157-rgb-2000x2000-44fd209.png",
+        "page": "https://rode.com/en-us/products/rodecaster-pro-ii",
+        "sourceType": "manufacturer-product-page",
+        "rights": "Official RØDE product image from rode.com; no reuse license verified.",
+        "credit": "RØDE",
+        "alt": "RØDE RØDECaster Pro II production console in black, top-down view of faders, pads and touchscreen",
         "match": "EXACT"
       }
     }

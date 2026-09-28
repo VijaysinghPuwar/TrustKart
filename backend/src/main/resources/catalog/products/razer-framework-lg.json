@@ -1402,7 +1402,8 @@
     "hdr": "VESA DisplayHDR True Black 400",
     "colorGamut": "98.5% DCI-P3",
     "inputs": "2x HDMI 2.1, 1x DisplayPort 1.4, 1x USB-C",
-    "usbCPowerW": 65
+    "usbCPowerW": 65,
+    "colors": "White"
    }
   },
   {
@@ -1437,7 +1438,8 @@
     "hdr": "VESA DisplayHDR 600",
     "colorGamut": "98% DCI-P3, 99.5% Adobe RGB",
     "inputs": "Thunderbolt 5, DisplayPort 2.1, HDMI 2.1, 2x USB-C downstream",
-    "usbCPowerW": 96
+    "usbCPowerW": 96,
+    "colors": "Silver"
    }
   },
   {

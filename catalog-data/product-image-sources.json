@@ -1,5 +1,33 @@
 [
  {
+  "productId": "TK-8BITDO-PRO-3",
+  "slug": "8bitdo-pro-3-bluetooth-gamepad",
+  "productName": "8BitDo Pro 3 Bluetooth Gamepad",
+  "brand": "8BitDo",
+  "sourcePage": "https://shop.8bitdo.com/products/8bitdo-pro-3",
+  "assetUrl": "https://cdn.shopify.com/s/files/1/0621/8894/5585/files/18_1c059893-dbd1-4158-937b-4725a6d2992a.jpg?width=1400",
+  "localAsset": "frontend/public/images/catalog/8bitdo-pro-3-bluetooth-gamepad-800.webp",
+  "sourceType": "manufacturer-product-page",
+  "match": "EXACT",
+  "retrievedAt": "2026-09-28",
+  "rights": "Official 8BitDo store product image (shop.8bitdo.com Shopify CDN); 8BitDo has not granted a reuse license — rights not verified.",
+  "sourcePx": 730
+ },
+ {
+  "productId": "TK-8BITDO-ULTIMATE-2-BT",
+  "slug": "8bitdo-ultimate-2-bluetooth-controller",
+  "productName": "8BitDo Ultimate 2 Bluetooth Controller",
+  "brand": "8BitDo",
+  "sourcePage": "https://shop.8bitdo.com/products/8bitdo-ultimate-2-bluetooth-controller",
+  "assetUrl": "https://cdn.shopify.com/s/files/1/0621/8894/5585/files/1_f6d13192-9ca8-4ef5-b9c4-e9f25da84021.jpg?width=1400",
+  "localAsset": "frontend/public/images/catalog/8bitdo-ultimate-2-bluetooth-controller-800.webp",
+  "sourceType": "manufacturer-product-page",
+  "match": "EXACT",
+  "retrievedAt": "2026-09-28",
+  "rights": "Official 8BitDo store product image (shop.8bitdo.com Shopify CDN); 8BitDo has not granted a reuse license — rights not verified.",
+  "sourcePx": 693
+ },
+ {
   "productId": "TK-ACER-AN16S-61",
   "slug": "acer-nitro-16s-ai",
   "productName": "Acer Nitro 16S AI",
@@ -68,20 +96,6 @@
   "retrievedAt": "2026-09-28",
   "rights": "Official Acer Store (store.acer.com) product gallery image; Acer has not granted a general reuse license — rights not verified.",
   "sourcePx": 784
- },
- {
-  "productId": "TK-ACER-PO6-605",
-  "slug": "acer-predator-orion-6000-po6-605",
-  "productName": "Acer Predator Orion 6000 (PO6-605)",
-  "brand": "Acer",
-  "sourcePage": "https://store.acer.com/en-us/predator-orion-6000-gaming-desktop-po6-605-ur18w",
-  "assetUrl": "https://static-ecpa.acer.com/media/catalog/product/i/m/image_1_2_ud.p02aa.07x.png",
-  "localAsset": "frontend/public/images/catalog/acer-predator-orion-6000-po6-605-800.webp",
-  "sourceType": "manufacturer-product-page",
-  "match": "EXACT",
-  "retrievedAt": "2026-09-28",
-  "rights": "Official Acer Store (store.acer.com) product gallery image; Acer has not granted a general reuse license — rights not verified.",
-  "sourcePx": 1124
  },
  {
   "productId": "TK-ACER-PREDX27UF5",
@@ -179,7 +193,7 @@
   "match": "EXACT",
   "retrievedAt": "2026-09-28",
   "rights": "Official Dell product-page gallery image (i.dell.com); Dell has not granted a reuse license - rights not verified.",
-  "sourcePx": 1400
+  "sourcePx": 1239
  },
  {
   "productId": "TK-ALIENWARE-16XAURORA-AC16251",
@@ -193,7 +207,7 @@
   "match": "EXACT",
   "retrievedAt": "2026-09-28",
   "rights": "Official Dell product-page gallery image (i.dell.com); Dell has not granted a reuse license - rights not verified.",
-  "sourcePx": 1400
+  "sourcePx": 1354
  },
  {
   "productId": "TK-ALIENWARE-18AREA51-AA18250",
@@ -221,7 +235,7 @@
   "match": "EXACT",
   "retrievedAt": "2026-09-28",
   "rights": "Official Dell product-page gallery image (i.dell.com); Dell has not granted a reuse license - rights not verified.",
-  "sourcePx": 1432
+  "sourcePx": 1386
  },
  {
   "productId": "TK-ALIENWARE-AURORA-ACT1250",
@@ -249,7 +263,7 @@
   "match": "EXACT",
   "retrievedAt": "2026-09-28",
   "rights": "Official Dell product-page gallery image (i.dell.com); Dell has not granted a reuse license - rights not verified.",
-  "sourcePx": 1400
+  "sourcePx": 1000
  },
  {
   "productId": "TK-ALIENWARE-AW2726DM",
@@ -292,6 +306,314 @@
   "retrievedAt": "2026-09-28",
   "rights": "Official Dell product-page gallery image (i.dell.com); Dell has not granted a reuse license - rights not verified.",
   "sourcePx": 1400
+ },
+ {
+  "productId": "TK-AMD-EPYC-9356",
+  "slug": "amd-epyc-9356",
+  "productName": "AMD EPYC 9356",
+  "brand": "AMD",
+  "sourcePage": "https://www.amd.com/en/products/processors/server/epyc/9006-series.html",
+  "assetUrl": "https://www.amd.com/content/dam/amd/en/images/products/data-centers/5039650-epyc-9006-chips.png",
+  "localAsset": "frontend/public/images/catalog/amd-epyc-9356-800.webp",
+  "sourceType": "manufacturer-product-page",
+  "match": "PRODUCT_LINE",
+  "retrievedAt": "2026-09-28",
+  "rights": "Official AMD product image published on amd.com; AMD has not granted a general reuse license - rights not verified.",
+  "sourcePx": 995
+ },
+ {
+  "productId": "TK-AMD-EPYC-9556",
+  "slug": "amd-epyc-9556",
+  "productName": "AMD EPYC 9556",
+  "brand": "AMD",
+  "sourcePage": "https://www.amd.com/en/products/processors/server/epyc/9006-series.html",
+  "assetUrl": "https://www.amd.com/content/dam/amd/en/images/products/data-centers/5039650-epyc-9006-chips.png",
+  "localAsset": "frontend/public/images/catalog/amd-epyc-9556-800.webp",
+  "sourceType": "manufacturer-product-page",
+  "match": "PRODUCT_LINE",
+  "retrievedAt": "2026-09-28",
+  "rights": "Official AMD product image published on amd.com; AMD has not granted a general reuse license - rights not verified.",
+  "sourcePx": 995
+ },
+ {
+  "productId": "TK-AMD-EPYC-9576F",
+  "slug": "amd-epyc-9576f",
+  "productName": "AMD EPYC 9576F",
+  "brand": "AMD",
+  "sourcePage": "https://www.amd.com/en/products/processors/server/epyc/9006-series.html",
+  "assetUrl": "https://www.amd.com/content/dam/amd/en/images/products/data-centers/5039650-epyc-9006-chips.png",
+  "localAsset": "frontend/public/images/catalog/amd-epyc-9576f-800.webp",
+  "sourceType": "manufacturer-product-page",
+  "match": "PRODUCT_LINE",
+  "retrievedAt": "2026-09-28",
+  "rights": "Official AMD product image published on amd.com; AMD has not granted a general reuse license - rights not verified.",
+  "sourcePx": 995
+ },
+ {
+  "productId": "TK-AMD-EPYC-9656",
+  "slug": "amd-epyc-9656",
+  "productName": "AMD EPYC 9656",
+  "brand": "AMD",
+  "sourcePage": "https://www.amd.com/en/products/processors/server/epyc/9006-series.html",
+  "assetUrl": "https://www.amd.com/content/dam/amd/en/images/products/data-centers/5039650-epyc-9006-chips.png",
+  "localAsset": "frontend/public/images/catalog/amd-epyc-9656-800.webp",
+  "sourceType": "manufacturer-product-page",
+  "match": "PRODUCT_LINE",
+  "retrievedAt": "2026-09-28",
+  "rights": "Official AMD product image published on amd.com; AMD has not granted a general reuse license - rights not verified.",
+  "sourcePx": 995
+ },
+ {
+  "productId": "TK-AMD-EPYC-9756",
+  "slug": "amd-epyc-9756",
+  "productName": "AMD EPYC 9756",
+  "brand": "AMD",
+  "sourcePage": "https://www.amd.com/en/products/processors/server/epyc/9006-series.html",
+  "assetUrl": "https://www.amd.com/content/dam/amd/en/images/products/data-centers/5039650-epyc-9006-chips.png",
+  "localAsset": "frontend/public/images/catalog/amd-epyc-9756-800.webp",
+  "sourceType": "manufacturer-product-page",
+  "match": "PRODUCT_LINE",
+  "retrievedAt": "2026-09-28",
+  "rights": "Official AMD product image published on amd.com; AMD has not granted a general reuse license - rights not verified.",
+  "sourcePx": 995
+ },
+ {
+  "productId": "TK-AMD-EPYC-9966",
+  "slug": "amd-epyc-9966",
+  "productName": "AMD EPYC 9966",
+  "brand": "AMD",
+  "sourcePage": "https://www.amd.com/en/products/processors/server/epyc/9006-series.html",
+  "assetUrl": "https://www.amd.com/content/dam/amd/en/images/products/data-centers/5039650-epyc-9006-chips.png",
+  "localAsset": "frontend/public/images/catalog/amd-epyc-9966-800.webp",
+  "sourceType": "manufacturer-product-page",
+  "match": "PRODUCT_LINE",
+  "retrievedAt": "2026-09-28",
+  "rights": "Official AMD product image published on amd.com; AMD has not granted a general reuse license - rights not verified.",
+  "sourcePx": 995
+ },
+ {
+  "productId": "TK-AMD-EPYC-9996",
+  "slug": "amd-epyc-9996",
+  "productName": "AMD EPYC 9996",
+  "brand": "AMD",
+  "sourcePage": "https://www.amd.com/en/products/processors/server/epyc/9006-series.html",
+  "assetUrl": "https://www.amd.com/content/dam/amd/en/images/products/data-centers/5039650-epyc-9006-chips.png",
+  "localAsset": "frontend/public/images/catalog/amd-epyc-9996-800.webp",
+  "sourceType": "manufacturer-product-page",
+  "match": "PRODUCT_LINE",
+  "retrievedAt": "2026-09-28",
+  "rights": "Official AMD product image published on amd.com; AMD has not granted a general reuse license - rights not verified.",
+  "sourcePx": 995
+ },
+ {
+  "productId": "TK-AMD-INSTINCT-MI350P",
+  "slug": "amd-instinct-mi350p",
+  "productName": "AMD Instinct MI350P PCIe Card",
+  "brand": "AMD",
+  "sourcePage": "https://www.amd.com/en/products/accelerators/instinct/mi350/mi350p.html",
+  "assetUrl": "https://www.amd.com/content/dam/amd/en/images/products/data-centers/4711051-instinct-accelerator-mi350p-pcle-prod-front.jpg",
+  "localAsset": "frontend/public/images/catalog/amd-instinct-mi350p-800.webp",
+  "sourceType": "manufacturer-product-page",
+  "match": "EXACT",
+  "retrievedAt": "2026-09-28",
+  "rights": "Official AMD product image published on amd.com; AMD has not granted a general reuse license - rights not verified.",
+  "sourcePx": 1043
+ },
+ {
+  "productId": "TK-AMD-INSTINCT-MI350X",
+  "slug": "amd-instinct-mi350x",
+  "productName": "AMD Instinct MI350X",
+  "brand": "AMD",
+  "sourcePage": "https://www.amd.com/en/products/accelerators/instinct/mi350/mi350x.html",
+  "assetUrl": "https://www.amd.com/content/dam/amd/en/images/products/data-centers/3366850-instinct-accelerator-mi350x-prod-front.jpg",
+  "localAsset": "frontend/public/images/catalog/amd-instinct-mi350x-800.webp",
+  "sourceType": "manufacturer-product-page",
+  "match": "EXACT",
+  "retrievedAt": "2026-09-28",
+  "rights": "Official AMD product image published on amd.com; AMD has not granted a general reuse license - rights not verified.",
+  "sourcePx": 1055
+ },
+ {
+  "productId": "TK-AMD-INSTINCT-MI355X",
+  "slug": "amd-instinct-mi355x",
+  "productName": "AMD Instinct MI355X",
+  "brand": "AMD",
+  "sourcePage": "https://www.amd.com/en/products/accelerators/instinct/mi350/mi350x.html",
+  "assetUrl": "https://www.amd.com/content/dam/amd/en/images/products/data-centers/3366850-instinct-accelerator-mi350x-prod-front.jpg",
+  "localAsset": "frontend/public/images/catalog/amd-instinct-mi355x-800.webp",
+  "sourceType": "manufacturer-product-page",
+  "match": "PRODUCT_LINE",
+  "retrievedAt": "2026-09-28",
+  "rights": "Official AMD product image published on amd.com; AMD has not granted a general reuse license - rights not verified.",
+  "sourcePx": 1055
+ },
+ {
+  "productId": "TK-AMD-RADEON-AIPRO-R9600D",
+  "slug": "amd-radeon-ai-pro-r9600d",
+  "productName": "AMD Radeon AI PRO R9600D 32 GB",
+  "brand": "AMD",
+  "sourcePage": "https://www.amd.com/en/products/graphics/workstations/radeon-ai-pro/ai-9000-series/amd-radeon-ai-pro-r9600d.html",
+  "assetUrl": "https://www.amd.com/content/dam/amd/en/images/products/graphics/4082302-radeon-ai-pro-r9600d-product.jpg",
+  "localAsset": "frontend/public/images/catalog/amd-radeon-ai-pro-r9600d-800.webp",
+  "sourceType": "manufacturer-product-page",
+  "match": "EXACT",
+  "retrievedAt": "2026-09-28",
+  "rights": "Official AMD product image published on amd.com; AMD has not granted a general reuse license - rights not verified.",
+  "sourcePx": 1143
+ },
+ {
+  "productId": "TK-AMD-RADEON-AIPRO-R9700",
+  "slug": "amd-radeon-ai-pro-r9700",
+  "productName": "AMD Radeon AI PRO R9700 32 GB",
+  "brand": "AMD",
+  "sourcePage": "https://www.amd.com/en/products/graphics/workstations/radeon-ai-pro/ai-9000-series/amd-radeon-ai-pro-r9700.html",
+  "assetUrl": "https://www.amd.com/content/dam/amd/en/images/products/graphics/3402302-amd-radeon-ai-pro-r9700-product.jpg",
+  "localAsset": "frontend/public/images/catalog/amd-radeon-ai-pro-r9700-800.webp",
+  "sourceType": "manufacturer-product-page",
+  "match": "EXACT",
+  "retrievedAt": "2026-09-28",
+  "rights": "Official AMD product image published on amd.com; AMD has not granted a general reuse license - rights not verified.",
+  "sourcePx": 875
+ },
+ {
+  "productId": "TK-AMD-RADEON-PRO-W7900",
+  "slug": "amd-radeon-pro-w7900",
+  "productName": "AMD Radeon PRO W7900 48 GB",
+  "brand": "AMD",
+  "sourcePage": "https://www.amd.com/en/products/graphics/workstations/radeon-pro/w7900.html",
+  "assetUrl": "https://www.amd.com/content/dam/amd/en/images/products/graphics/2198982-amd-radeon-pro-graphics-product.jpg",
+  "localAsset": "frontend/public/images/catalog/amd-radeon-pro-w7900-800.webp",
+  "sourceType": "manufacturer-product-page",
+  "match": "EXACT",
+  "retrievedAt": "2026-09-28",
+  "rights": "Official AMD product image published on amd.com; AMD has not granted a general reuse license - rights not verified.",
+  "sourcePx": 848
+ },
+ {
+  "productId": "TK-AMD-RX9060XT-16G",
+  "slug": "amd-radeon-rx-9060-xt-16gb",
+  "productName": "AMD Radeon RX 9060 XT 16 GB",
+  "brand": "AMD",
+  "sourcePage": "https://www.amd.com/en/products/graphics/desktops/radeon/9000-series/amd-radeon-rx-9060xt.html",
+  "assetUrl": "https://www.amd.com/content/dam/amd/en/images/products/graphics/radeon-rx-9060xt/3248000-radeon-rx-9060xt-product.jpg",
+  "localAsset": "frontend/public/images/catalog/amd-radeon-rx-9060-xt-16gb-800.webp",
+  "sourceType": "manufacturer-product-page",
+  "match": "EXACT",
+  "retrievedAt": "2026-09-28",
+  "rights": "Official AMD product image published on amd.com; AMD has not granted a general reuse license - rights not verified.",
+  "sourcePx": 776
+ },
+ {
+  "productId": "TK-AMD-RX9070",
+  "slug": "amd-radeon-rx-9070",
+  "productName": "AMD Radeon RX 9070 16 GB",
+  "brand": "AMD",
+  "sourcePage": "https://www.amd.com/en/products/graphics/desktops/radeon/9000-series/amd-radeon-rx-9070.html",
+  "assetUrl": "https://www.amd.com/content/dam/amd/en/images/products/graphics/radeon-rx-9070/2922918-radeon-rx-9070-product.jpg",
+  "localAsset": "frontend/public/images/catalog/amd-radeon-rx-9070-800.webp",
+  "sourceType": "manufacturer-product-page",
+  "match": "EXACT",
+  "retrievedAt": "2026-09-28",
+  "rights": "Official AMD product image published on amd.com; AMD has not granted a general reuse license - rights not verified.",
+  "sourcePx": 806
+ },
+ {
+  "productId": "TK-AMD-RYZEN5-9600X",
+  "slug": "amd-ryzen-5-9600x",
+  "productName": "AMD Ryzen 5 9600X",
+  "brand": "AMD",
+  "sourcePage": "https://www.amd.com/en/products/processors/desktops/ryzen/9000-series/amd-ryzen-7-9850x3d.html",
+  "assetUrl": "https://www.amd.com/content/dam/amd/en/images/products/processors/ryzen/3764700-ryzen-9000-product.jpg",
+  "localAsset": "frontend/public/images/catalog/amd-ryzen-5-9600x-800.webp",
+  "sourceType": "manufacturer-product-page",
+  "match": "PRODUCT_LINE",
+  "retrievedAt": "2026-09-28",
+  "rights": "Official AMD product image published on amd.com; AMD has not granted a general reuse license - rights not verified.",
+  "sourcePx": 881
+ },
+ {
+  "productId": "TK-AMD-RYZEN7-9700X",
+  "slug": "amd-ryzen-7-9700x",
+  "productName": "AMD Ryzen 7 9700X",
+  "brand": "AMD",
+  "sourcePage": "https://www.amd.com/en/products/processors/desktops/ryzen/9000-series/amd-ryzen-7-9850x3d.html",
+  "assetUrl": "https://www.amd.com/content/dam/amd/en/images/products/processors/ryzen/3764700-ryzen-9000-product.jpg",
+  "localAsset": "frontend/public/images/catalog/amd-ryzen-7-9700x-800.webp",
+  "sourceType": "manufacturer-product-page",
+  "match": "PRODUCT_LINE",
+  "retrievedAt": "2026-09-28",
+  "rights": "Official AMD product image published on amd.com; AMD has not granted a general reuse license - rights not verified.",
+  "sourcePx": 881
+ },
+ {
+  "productId": "TK-AMD-RYZEN7-9850X3D",
+  "slug": "amd-ryzen-7-9850x3d",
+  "productName": "AMD Ryzen 7 9850X3D",
+  "brand": "AMD",
+  "sourcePage": "https://www.amd.com/en/products/processors/desktops/ryzen/9000-series/amd-ryzen-7-9850x3d.html",
+  "assetUrl": "https://www.amd.com/content/dam/amd/en/images/products/processors/ryzen/3764700-ryzen-9000-product.jpg",
+  "localAsset": "frontend/public/images/catalog/amd-ryzen-7-9850x3d-800.webp",
+  "sourceType": "manufacturer-product-page",
+  "match": "PRODUCT_LINE",
+  "retrievedAt": "2026-09-28",
+  "rights": "Official AMD product image published on amd.com; AMD has not granted a general reuse license - rights not verified.",
+  "sourcePx": 881
+ },
+ {
+  "productId": "TK-AMD-RYZEN9-9900X",
+  "slug": "amd-ryzen-9-9900x",
+  "productName": "AMD Ryzen 9 9900X",
+  "brand": "AMD",
+  "sourcePage": "https://www.amd.com/en/products/processors/desktops/ryzen/9000-series/amd-ryzen-7-9850x3d.html",
+  "assetUrl": "https://www.amd.com/content/dam/amd/en/images/products/processors/ryzen/3764700-ryzen-9000-product.jpg",
+  "localAsset": "frontend/public/images/catalog/amd-ryzen-9-9900x-800.webp",
+  "sourceType": "manufacturer-product-page",
+  "match": "PRODUCT_LINE",
+  "retrievedAt": "2026-09-28",
+  "rights": "Official AMD product image published on amd.com; AMD has not granted a general reuse license - rights not verified.",
+  "sourcePx": 881
+ },
+ {
+  "productId": "TK-AMD-RYZEN9-9900X3D",
+  "slug": "amd-ryzen-9-9900x3d",
+  "productName": "AMD Ryzen 9 9900X3D",
+  "brand": "AMD",
+  "sourcePage": "https://www.amd.com/en/products/processors/desktops/ryzen/9000-series/amd-ryzen-7-9850x3d.html",
+  "assetUrl": "https://www.amd.com/content/dam/amd/en/images/products/processors/ryzen/3764700-ryzen-9000-product.jpg",
+  "localAsset": "frontend/public/images/catalog/amd-ryzen-9-9900x3d-800.webp",
+  "sourceType": "manufacturer-product-page",
+  "match": "PRODUCT_LINE",
+  "retrievedAt": "2026-09-28",
+  "rights": "Official AMD product image published on amd.com; AMD has not granted a general reuse license - rights not verified.",
+  "sourcePx": 881
+ },
+ {
+  "productId": "TK-AMD-RYZEN9-9950X3D",
+  "slug": "amd-ryzen-9-9950x3d",
+  "productName": "AMD Ryzen 9 9950X3D",
+  "brand": "AMD",
+  "sourcePage": "https://www.amd.com/en/products/processors/desktops/ryzen/9000-series/amd-ryzen-7-9850x3d.html",
+  "assetUrl": "https://www.amd.com/content/dam/amd/en/images/products/processors/ryzen/3764700-ryzen-9000-product.jpg",
+  "localAsset": "frontend/public/images/catalog/amd-ryzen-9-9950x3d-800.webp",
+  "sourceType": "manufacturer-product-page",
+  "match": "PRODUCT_LINE",
+  "retrievedAt": "2026-09-28",
+  "rights": "Official AMD product image published on amd.com; AMD has not granted a general reuse license - rights not verified.",
+  "sourcePx": 881
+ },
+ {
+  "productId": "TK-AMD-RYZEN9-9950X3D2",
+  "slug": "amd-ryzen-9-9950x3d2-dual-edition",
+  "productName": "AMD Ryzen 9 9950X3D2 Dual Edition",
+  "brand": "AMD",
+  "sourcePage": "https://www.amd.com/en/products/processors/desktops/ryzen/9000-series/amd-ryzen-7-9850x3d.html",
+  "assetUrl": "https://www.amd.com/content/dam/amd/en/images/products/processors/ryzen/3764700-ryzen-9000-product.jpg",
+  "localAsset": "frontend/public/images/catalog/amd-ryzen-9-9950x3d2-dual-edition-800.webp",
+  "sourceType": "manufacturer-product-page",
+  "match": "PRODUCT_LINE",
+  "retrievedAt": "2026-09-28",
+  "rights": "Official AMD product image published on amd.com; AMD has not granted a general reuse license - rights not verified.",
+  "sourcePx": 881
  },
  {
   "productId": "TK-APPLE-140W-USBC-ADAPTER",
@@ -544,20 +866,6 @@
   "retrievedAt": "2026-09-28",
   "rights": "Official Apple Store product image (store.storeimages.cdn-apple.com); Apple has not granted a reuse license - rights not verified.",
   "sourcePx": 1176
- },
- {
-  "productId": "TK-APPLE-IPADPRO13-M5",
-  "slug": "apple-ipad-pro-13-m5",
-  "productName": "Apple iPad Pro 13-inch (M5)",
-  "brand": "Apple",
-  "sourcePage": "https://www.apple.com/shop/buy-ipad/ipad-pro",
-  "assetUrl": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-pro-13-select-wifi-spaceblack-202405?wid=1400&hei=1400&fmt=png-alpha",
-  "localAsset": "frontend/public/images/catalog/apple-ipad-pro-13-m5-800.webp",
-  "sourceType": "manufacturer-product-page",
-  "match": "PRODUCT_LINE",
-  "retrievedAt": "2026-09-28",
-  "rights": "Official Apple Store product image (store.storeimages.cdn-apple.com); Apple has not granted a reuse license - rights not verified.",
-  "sourcePx": 1400
  },
  {
   "productId": "TK-APPLE-IPHONE16",
@@ -2562,20 +2870,6 @@
   "sourcePx": 1400
  },
  {
-  "productId": "TK-DELL-P3426WEB",
-  "slug": "dell-pro-p-34-usb-c-hub-conferencing-p3426web",
-  "productName": "Dell Pro P 34 USB-C Hub Conferencing Monitor (P3426WEB)",
-  "brand": "Dell",
-  "sourcePage": "https://www.dell.com/en-us/shop/monitors/apd/dell-pro-p-34-usb-c-hub-conferencing-monitor-p3426web/p3426web/-",
-  "assetUrl": "https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/peripherals/monitors/p-series/p3426web/mg/monitor-p3426web-black-gallery-1.psd?fmt=png-alpha&pscan=auto&scl=1&wid=1400&qlt=100,0&resMode=sharp2",
-  "localAsset": "frontend/public/images/catalog/dell-pro-p-34-usb-c-hub-conferencing-p3426web-800.webp",
-  "sourceType": "manufacturer-product-page",
-  "match": "EXACT",
-  "retrievedAt": "2026-09-28",
-  "rights": "Official Dell product-page gallery image (i.dell.com); Dell has not granted a reuse license - rights not verified.",
-  "sourcePx": 1400
- },
- {
   "productId": "TK-DELL-POWEREDGE-R470",
   "slug": "dell-poweredge-r470",
   "productName": "Dell PowerEdge R470 1U Rack Server",
@@ -2602,20 +2896,6 @@
   "retrievedAt": "2026-09-28",
   "rights": "Official Dell product-page gallery image (i.dell.com); Dell has not granted a reuse license - rights not verified.",
   "sourcePx": 1308
- },
- {
-  "productId": "TK-DELL-POWEREDGE-R670",
-  "slug": "dell-poweredge-r670",
-  "productName": "Dell PowerEdge R670 1U Rack Server",
-  "brand": "Dell",
-  "sourcePage": "https://www.dell.com/en-us/shop/servers-storage-and-networking/poweredge-r670/spd/poweredge-r670/pe_r670_tm_vi_vp_sb",
-  "assetUrl": "https://i.dell.com/is/image/DellContent/content/dam/images/products/servers/poweredge/r670/dell-per670-10x2-5-dell-bezel-lf.psd?fmt=png-alpha&pscan=auto&scl=1&wid=1400&qlt=100,0&resMode=sharp2",
-  "localAsset": "frontend/public/images/catalog/dell-poweredge-r670-800.webp",
-  "sourceType": "manufacturer-product-page",
-  "match": "EXACT",
-  "retrievedAt": "2026-09-28",
-  "rights": "Official Dell product-page gallery image (i.dell.com); Dell has not granted a reuse license - rights not verified.",
-  "sourcePx": 1251
  },
  {
   "productId": "TK-DELL-POWEREDGE-R770",
@@ -2699,7 +2979,7 @@
   "match": "EXACT",
   "retrievedAt": "2026-09-28",
   "rights": "Official Dell product-page gallery image (i.dell.com); Dell has not granted a reuse license - rights not verified.",
-  "sourcePx": 1400
+  "sourcePx": 1377
  },
  {
   "productId": "TK-DELL-POWEREDGE-XE9785",
@@ -2727,7 +3007,7 @@
   "match": "EXACT",
   "retrievedAt": "2026-09-28",
   "rights": "Official Dell product-page gallery image (i.dell.com); Dell has not granted a reuse license - rights not verified.",
-  "sourcePx": 1400
+  "sourcePx": 1351
  },
  {
   "productId": "TK-DELL-PRECISION7-16-PW716260",
@@ -2741,7 +3021,7 @@
   "match": "EXACT",
   "retrievedAt": "2026-09-28",
   "rights": "Official Dell product-page gallery image (i.dell.com); Dell has not granted a reuse license - rights not verified.",
-  "sourcePx": 1400
+  "sourcePx": 1349
  },
  {
   "productId": "TK-DELL-PRECISION7-T1-PW7T1260",
@@ -2755,7 +3035,7 @@
   "match": "EXACT",
   "retrievedAt": "2026-09-28",
   "rights": "Official Dell product-page gallery image (i.dell.com); Dell has not granted a reuse license - rights not verified.",
-  "sourcePx": 2215
+  "sourcePx": 2186
  },
  {
   "productId": "TK-DELL-PRECISION9-T4-PW9T4260",
@@ -2769,7 +3049,7 @@
   "match": "EXACT",
   "retrievedAt": "2026-09-28",
   "rights": "Official Dell product-page gallery image (i.dell.com); Dell has not granted a reuse license - rights not verified.",
-  "sourcePx": 2052
+  "sourcePx": 2032
  },
  {
   "productId": "TK-DELL-PRECISION9-T6-PW9T6260",
@@ -2783,7 +3063,7 @@
   "match": "EXACT",
   "retrievedAt": "2026-09-28",
   "rights": "Official Dell product-page gallery image (i.dell.com); Dell has not granted a reuse license - rights not verified.",
-  "sourcePx": 1825
+  "sourcePx": 1814
  },
  {
   "productId": "TK-DELL-PRO14PLUS-PB14250",
@@ -2811,7 +3091,7 @@
   "match": "EXACT",
   "retrievedAt": "2026-09-28",
   "rights": "Official Dell product-page gallery image (i.dell.com); Dell has not granted a reuse license - rights not verified.",
-  "sourcePx": 1400
+  "sourcePx": 1376
  },
  {
   "productId": "TK-DELL-PRO24AIO-QC24250",
@@ -2881,7 +3161,7 @@
   "match": "EXACT",
   "retrievedAt": "2026-09-28",
   "rights": "Official Dell product-page gallery image (i.dell.com); Dell has not granted a reuse license - rights not verified.",
-  "sourcePx": 1987
+  "sourcePx": 1971
  },
  {
   "productId": "TK-DELL-PROMAX14PREM-MA14250",
@@ -2895,7 +3175,7 @@
   "match": "EXACT",
   "retrievedAt": "2026-09-28",
   "rights": "Official Dell product-page gallery image (i.dell.com); Dell has not granted a reuse license - rights not verified.",
-  "sourcePx": 1400
+  "sourcePx": 1349
  },
  {
   "productId": "TK-DELL-PROMAX16PLUS-MB16250",
@@ -2909,7 +3189,7 @@
   "match": "EXACT",
   "retrievedAt": "2026-09-28",
   "rights": "Official Dell product-page gallery image (i.dell.com); Dell has not granted a reuse license - rights not verified.",
-  "sourcePx": 1400
+  "sourcePx": 1335
  },
  {
   "productId": "TK-DELL-PROMAX18PLUS-MB18250",
@@ -2923,7 +3203,7 @@
   "match": "EXACT",
   "retrievedAt": "2026-09-28",
   "rights": "Official Dell product-page gallery image (i.dell.com); Dell has not granted a reuse license - rights not verified.",
-  "sourcePx": 1400
+  "sourcePx": 1309
  },
  {
   "productId": "TK-DELL-PROMICROPLUS-QBM1250",
@@ -2951,7 +3231,7 @@
   "match": "EXACT",
   "retrievedAt": "2026-09-28",
   "rights": "Official Dell product-page gallery image (i.dell.com); Dell has not granted a reuse license - rights not verified.",
-  "sourcePx": 1400
+  "sourcePx": 1345
  },
  {
   "productId": "TK-DELL-U2725QE",
@@ -2961,20 +3241,6 @@
   "sourcePage": "https://www.dell.com/en-us/shop/monitors/apd/dell-ultrasharp-27-4k-thunderbolt-hub-monitor-u2725qe/u2725qe_monitor/-",
   "assetUrl": "https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/peripherals/monitors/u-series/u2725qe/media-gallery/monitor-ultrasharp-u2725qe-gy-gallery-1.psd?fmt=png-alpha&pscan=auto&scl=1&wid=1400&qlt=100,0&resMode=sharp2",
   "localAsset": "frontend/public/images/catalog/dell-ultrasharp-27-4k-thunderbolt-u2725qe-800.webp",
-  "sourceType": "manufacturer-product-page",
-  "match": "EXACT",
-  "retrievedAt": "2026-09-28",
-  "rights": "Official Dell product-page gallery image (i.dell.com); Dell has not granted a reuse license - rights not verified.",
-  "sourcePx": 1400
- },
- {
-  "productId": "TK-DELL-U3226Q",
-  "slug": "dell-ultrasharp-32-4k-qd-oled-u3226q",
-  "productName": "Dell UltraSharp 32 4K QD-OLED Monitor (U3226Q)",
-  "brand": "Dell",
-  "sourcePage": "https://www.dell.com/en-us/shop/monitors/apd/dell-ultrasharp-32-4k-qd-oled-monitor-u3226q/u3226q/-",
-  "assetUrl": "https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/peripherals/monitors/u-series/u3226q/mg/monitor-ultrasharp-u3226q-black-gallery-1.psd?fmt=png-alpha&pscan=auto&scl=1&wid=1400&qlt=100,0&resMode=sharp2",
-  "localAsset": "frontend/public/images/catalog/dell-ultrasharp-32-4k-qd-oled-u3226q-800.webp",
   "sourceType": "manufacturer-product-page",
   "match": "EXACT",
   "retrievedAt": "2026-09-28",
@@ -3687,13 +3953,13 @@
   "productName": "GIGABYTE GAMING A18 PRO (GA8J)",
   "brand": "GIGABYTE",
   "sourcePage": "https://www.gigabyte.com/us/Laptop/GIGABYTE-GAMING-A18-PRO-GA8J",
-  "assetUrl": "https://static.gigabyte.com/StaticFile/Image/Global/2840e39738a18b65fc4644b6ede4953e/ProductRemoveBg/48777",
+  "assetUrl": "https://static.gigabyte.com/StaticFile/Image/Global/2840e39738a18b65fc4644b6ede4953e/Product/48777/png/2000",
   "localAsset": "frontend/public/images/catalog/gigabyte-gaming-a18-pro-ga8j-800.webp",
   "sourceType": "manufacturer-product-page",
   "match": "EXACT",
   "retrievedAt": "2026-09-28",
-  "rights": "Official GIGABYTE product image (background-removed product shot served by static.gigabyte.com for the product page); GIGABYTE has not granted a general reuse license — rights not verified.",
-  "sourcePx": 1916
+  "rights": "Official GIGABYTE product image (product-page gallery image served by static.gigabyte.com); GIGABYTE has not granted a general reuse license — rights not verified.",
+  "sourcePx": 1924
  },
  {
   "productId": "TK-GIGA-AEROX16EG64H",
@@ -3701,13 +3967,13 @@
   "productName": "GIGABYTE AERO X16 (EG64H)",
   "brand": "GIGABYTE",
   "sourcePage": "https://www.gigabyte.com/us/Laptop/GIGABYTE-AERO-X16-EG64H",
-  "assetUrl": "https://static.gigabyte.com/StaticFile/Image/Global/b59e2926cfa3ccda82cfab37eed7b2c2/ProductRemoveBg/48742",
+  "assetUrl": "https://static.gigabyte.com/StaticFile/Image/Global/b59e2926cfa3ccda82cfab37eed7b2c2/Product/48742/png/2000",
   "localAsset": "frontend/public/images/catalog/gigabyte-aero-x16-eg64h-800.webp",
   "sourceType": "manufacturer-product-page",
   "match": "EXACT",
   "retrievedAt": "2026-09-28",
-  "rights": "Official GIGABYTE product image (background-removed product shot served by static.gigabyte.com for the product page); GIGABYTE has not granted a general reuse license — rights not verified.",
-  "sourcePx": 1891
+  "rights": "Official GIGABYTE product image (product-page gallery image served by static.gigabyte.com); GIGABYTE has not granted a general reuse license — rights not verified.",
+  "sourcePx": 1896
  },
  {
   "productId": "TK-GIGA-AITOPATOM",
@@ -3715,13 +3981,13 @@
   "productName": "GIGABYTE AI TOP ATOM",
   "brand": "GIGABYTE",
   "sourcePage": "https://www.gigabyte.com/AI-TOP-PC/GIGABYTE-AI-TOP-ATOM",
-  "assetUrl": "https://static.gigabyte.com/StaticFile/Image/Global/f7f1b46feebd54aa2a9ed4fd79d7b26c/ProductRemoveBg/46106",
+  "assetUrl": "https://static.gigabyte.com/StaticFile/Image/Global/f7f1b46feebd54aa2a9ed4fd79d7b26c/Product/46106/png/2000",
   "localAsset": "frontend/public/images/catalog/gigabyte-ai-top-atom-800.webp",
   "sourceType": "manufacturer-product-page",
   "match": "EXACT",
   "retrievedAt": "2026-09-28",
-  "rights": "Official GIGABYTE product image (background-removed product shot served by static.gigabyte.com for the product page); GIGABYTE has not granted a general reuse license — rights not verified.",
-  "sourcePx": 1584
+  "rights": "Official GIGABYTE product image (product-page gallery image served by static.gigabyte.com); GIGABYTE has not granted a general reuse license — rights not verified.",
+  "sourcePx": 1588
  },
  {
   "productId": "TK-GIGA-AORUSFO27Q5P",
@@ -3729,13 +3995,13 @@
   "productName": "AORUS FO27Q5P",
   "brand": "AORUS",
   "sourcePage": "https://www.gigabyte.com/us/Monitor/AORUS-FO27Q5P",
-  "assetUrl": "https://static.gigabyte.com/StaticFile/Image/Global/96c04682d3125d110beab8909a50d85a/ProductRemoveBg/45474",
+  "assetUrl": "https://static.gigabyte.com/StaticFile/Image/Global/96c04682d3125d110beab8909a50d85a/Product/45474/png/2000",
   "localAsset": "frontend/public/images/catalog/aorus-fo27q5p-800.webp",
   "sourceType": "manufacturer-product-page",
   "match": "EXACT",
   "retrievedAt": "2026-09-28",
-  "rights": "Official GIGABYTE product image (background-removed product shot served by static.gigabyte.com for the product page); GIGABYTE has not granted a general reuse license — rights not verified.",
-  "sourcePx": 1686
+  "rights": "Official GIGABYTE product image (product-page gallery image served by static.gigabyte.com); GIGABYTE has not granted a general reuse license — rights not verified.",
+  "sourcePx": 1652
  },
  {
   "productId": "TK-GIGA-AORUSFO32U2P",
@@ -3743,13 +4009,13 @@
   "productName": "AORUS FO32U2P",
   "brand": "AORUS",
   "sourcePage": "https://www.gigabyte.com/us/Monitor/AORUS-FO32U2P",
-  "assetUrl": "https://static.gigabyte.com/StaticFile/Image/Global/c01fa3d45ae3b850fc03279e529eaf1b/ProductRemoveBg/45046",
+  "assetUrl": "https://static.gigabyte.com/StaticFile/Image/Global/c01fa3d45ae3b850fc03279e529eaf1b/Product/45046/png/2000",
   "localAsset": "frontend/public/images/catalog/aorus-fo32u2p-800.webp",
   "sourceType": "manufacturer-product-page",
   "match": "EXACT",
   "retrievedAt": "2026-09-28",
-  "rights": "Official GIGABYTE product image (background-removed product shot served by static.gigabyte.com for the product page); GIGABYTE has not granted a general reuse license — rights not verified.",
-  "sourcePx": 1718
+  "rights": "Official GIGABYTE product image (product-page gallery image served by static.gigabyte.com); GIGABYTE has not granted a general reuse license — rights not verified.",
+  "sourcePx": 1723
  },
  {
   "productId": "TK-GIGA-AORUSM16AM6J",
@@ -3757,13 +4023,13 @@
   "productName": "AORUS MASTER 16 Gen 2 (AM6J)",
   "brand": "AORUS",
   "sourcePage": "https://www.gigabyte.com/us/Laptop/AORUS-MASTER-16-AM6J",
-  "assetUrl": "https://static.gigabyte.com/StaticFile/Image/Global/f47d04caa3302884d29447244da78e6c/ProductRemoveBg/48733",
+  "assetUrl": "https://static.gigabyte.com/StaticFile/Image/Global/f47d04caa3302884d29447244da78e6c/Product/48733/png/2000",
   "localAsset": "frontend/public/images/catalog/aorus-master-16-am6j-800.webp",
   "sourceType": "manufacturer-product-page",
   "match": "EXACT",
   "retrievedAt": "2026-09-28",
-  "rights": "Official GIGABYTE product image (background-removed product shot served by static.gigabyte.com for the product page); GIGABYTE has not granted a general reuse license — rights not verified.",
-  "sourcePx": 1887
+  "rights": "Official GIGABYTE product image (product-page gallery image served by static.gigabyte.com); GIGABYTE has not granted a general reuse license — rights not verified.",
+  "sourcePx": 1890
  },
  {
   "productId": "TK-GIGA-AORUSM18AM8H",
@@ -3771,13 +4037,13 @@
   "productName": "AORUS MASTER 18 (AM8H)",
   "brand": "AORUS",
   "sourcePage": "https://www.gigabyte.com/us/Laptop/AORUS-MASTER-18-AM8H",
-  "assetUrl": "https://static.gigabyte.com/StaticFile/Image/Global/7cbbfbf7d4315d4b6da834647647a3cc/ProductRemoveBg/48734",
+  "assetUrl": "https://static.gigabyte.com/StaticFile/Image/Global/7cbbfbf7d4315d4b6da834647647a3cc/Product/48734/png/2000",
   "localAsset": "frontend/public/images/catalog/aorus-master-18-am8h-800.webp",
   "sourceType": "manufacturer-product-page",
   "match": "EXACT",
   "retrievedAt": "2026-09-28",
-  "rights": "Official GIGABYTE product image (background-removed product shot served by static.gigabyte.com for the product page); GIGABYTE has not granted a general reuse license — rights not verified.",
-  "sourcePx": 1948
+  "rights": "Official GIGABYTE product image (product-page gallery image served by static.gigabyte.com); GIGABYTE has not granted a general reuse license — rights not verified.",
+  "sourcePx": 1926
  },
  {
   "productId": "TK-GIGA-G893ZD1AAX5",
@@ -3790,7 +4056,7 @@
   "sourceType": "manufacturer-product-page",
   "match": "EXACT",
   "retrievedAt": "2026-09-28",
-  "rights": "Official GIGABYTE product image (background-removed product shot served by static.gigabyte.com for the product page); GIGABYTE has not granted a general reuse license — rights not verified.",
+  "rights": "Official GIGABYTE product image (product-page gallery image served by static.gigabyte.com); GIGABYTE has not granted a general reuse license — rights not verified.",
   "sourcePx": 884
  },
  {
@@ -3799,13 +4065,13 @@
   "productName": "GIGABYTE GeForce RTX 5070 Ti WINDFORCE OC SFF 16G",
   "brand": "GIGABYTE",
   "sourcePage": "https://www.gigabyte.com/us/Graphics-Card/GV-N507TWF3OC-16GD",
-  "assetUrl": "https://static.gigabyte.com/StaticFile/Image/Global/b456806454c82f2cf286d7c95a892515/ProductRemoveBg/43913",
+  "assetUrl": "https://static.gigabyte.com/StaticFile/Image/Global/b456806454c82f2cf286d7c95a892515/Product/43913/png/2000",
   "localAsset": "frontend/public/images/catalog/gigabyte-geforce-rtx-5070-ti-windforce-oc-sff-16g-800.webp",
   "sourceType": "manufacturer-product-page",
   "match": "EXACT",
   "retrievedAt": "2026-09-28",
-  "rights": "Official GIGABYTE product image (background-removed product shot served by static.gigabyte.com for the product page); GIGABYTE has not granted a general reuse license — rights not verified.",
-  "sourcePx": 1717
+  "rights": "Official GIGABYTE product image (product-page gallery image served by static.gigabyte.com); GIGABYTE has not granted a general reuse license — rights not verified.",
+  "sourcePx": 1722
  },
  {
   "productId": "TK-GIGA-RTX5080AORUSM",
@@ -3813,13 +4079,13 @@
   "productName": "AORUS GeForce RTX 5080 MASTER 16G",
   "brand": "AORUS",
   "sourcePage": "https://www.gigabyte.com/us/Graphics-Card/GV-N5080AORUS-M-16GD",
-  "assetUrl": "https://static.gigabyte.com/StaticFile/Image/Global/c4b99c1cd9127a925f55f34e7853d49a/ProductRemoveBg/43869",
+  "assetUrl": "https://static.gigabyte.com/StaticFile/Image/Global/c4b99c1cd9127a925f55f34e7853d49a/Product/43869/png/2000",
   "localAsset": "frontend/public/images/catalog/gigabyte-aorus-geforce-rtx-5080-master-16g-800.webp",
   "sourceType": "manufacturer-product-page",
   "match": "EXACT",
   "retrievedAt": "2026-09-28",
-  "rights": "Official GIGABYTE product image (background-removed product shot served by static.gigabyte.com for the product page); GIGABYTE has not granted a general reuse license — rights not verified.",
-  "sourcePx": 1861
+  "rights": "Official GIGABYTE product image (product-page gallery image served by static.gigabyte.com); GIGABYTE has not granted a general reuse license — rights not verified.",
+  "sourcePx": 1865
  },
  {
   "productId": "TK-GIGA-RTX5090AORUSM",
@@ -3827,13 +4093,13 @@
   "productName": "AORUS GeForce RTX 5090 MASTER 32G",
   "brand": "AORUS",
   "sourcePage": "https://www.gigabyte.com/us/Graphics-Card/GV-N5090AORUS-M-32GD",
-  "assetUrl": "https://static.gigabyte.com/StaticFile/Image/Global/a67d9b9d9fe4c2d45c95946aec6375ee/ProductRemoveBg/43834",
+  "assetUrl": "https://static.gigabyte.com/StaticFile/Image/Global/a67d9b9d9fe4c2d45c95946aec6375ee/Product/43834/png/2000",
   "localAsset": "frontend/public/images/catalog/gigabyte-aorus-geforce-rtx-5090-master-32g-800.webp",
   "sourceType": "manufacturer-product-page",
   "match": "EXACT",
   "retrievedAt": "2026-09-28",
-  "rights": "Official GIGABYTE product image (background-removed product shot served by static.gigabyte.com for the product page); GIGABYTE has not granted a general reuse license — rights not verified.",
-  "sourcePx": 1861
+  "rights": "Official GIGABYTE product image (product-page gallery image served by static.gigabyte.com); GIGABYTE has not granted a general reuse license — rights not verified.",
+  "sourcePx": 1866
  },
  {
   "productId": "TK-GIGA-X870EMASTX3D",
@@ -3841,12 +4107,12 @@
   "productName": "GIGABYTE X870E AORUS MASTER X3D",
   "brand": "GIGABYTE",
   "sourcePage": "https://www.gigabyte.com/us/Motherboard/X870E-AORUS-MASTER-X3D",
-  "assetUrl": "https://static.gigabyte.com/StaticFile/Image/Global/9452f7706c628f6503332260cf1adbd4/ProductRemoveBg/47080",
+  "assetUrl": "https://static.gigabyte.com/StaticFile/Image/Global/9452f7706c628f6503332260cf1adbd4/Product/47080/png/2000",
   "localAsset": "frontend/public/images/catalog/gigabyte-x870e-aorus-master-x3d-800.webp",
   "sourceType": "manufacturer-product-page",
   "match": "EXACT",
   "retrievedAt": "2026-09-28",
-  "rights": "Official GIGABYTE product image (background-removed product shot served by static.gigabyte.com for the product page); GIGABYTE has not granted a general reuse license — rights not verified.",
+  "rights": "Official GIGABYTE product image (product-page gallery image served by static.gigabyte.com); GIGABYTE has not granted a general reuse license — rights not verified.",
   "sourcePx": 1923
  },
  {
@@ -3855,13 +4121,13 @@
   "productName": "GIGABYTE X870E AORUS XTREME X3D AI TOP",
   "brand": "GIGABYTE",
   "sourcePage": "https://www.gigabyte.com/us/Motherboard/X870E-AORUS-XTREME-X3D-AI-TOP",
-  "assetUrl": "https://static.gigabyte.com/StaticFile/Image/Global/e9149e2bd4d3b3e5aab07e7c668f07b3/ProductRemoveBg/47055",
+  "assetUrl": "https://static.gigabyte.com/StaticFile/Image/Global/e9149e2bd4d3b3e5aab07e7c668f07b3/Product/47055/png/2000",
   "localAsset": "frontend/public/images/catalog/gigabyte-x870e-aorus-xtreme-x3d-ai-top-800.webp",
   "sourceType": "manufacturer-product-page",
   "match": "EXACT",
   "retrievedAt": "2026-09-28",
-  "rights": "Official GIGABYTE product image (background-removed product shot served by static.gigabyte.com for the product page); GIGABYTE has not granted a general reuse license — rights not verified.",
-  "sourcePx": 1933
+  "rights": "Official GIGABYTE product image (product-page gallery image served by static.gigabyte.com); GIGABYTE has not granted a general reuse license — rights not verified.",
+  "sourcePx": 1928
  },
  {
   "productId": "TK-GIGA-Z890MASTER",
@@ -3869,13 +4135,13 @@
   "productName": "GIGABYTE Z890 AORUS MASTER",
   "brand": "GIGABYTE",
   "sourcePage": "https://www.gigabyte.com/us/Motherboard/Z890-AORUS-MASTER",
-  "assetUrl": "https://static.gigabyte.com/StaticFile/Image/Global/e7fdbd75dac4a8871d2455462f96b052/ProductRemoveBg/42045",
+  "assetUrl": "https://static.gigabyte.com/StaticFile/Image/Global/e7fdbd75dac4a8871d2455462f96b052/Product/42045/png/2000",
   "localAsset": "frontend/public/images/catalog/gigabyte-z890-aorus-master-800.webp",
   "sourceType": "manufacturer-product-page",
   "match": "EXACT",
   "retrievedAt": "2026-09-28",
-  "rights": "Official GIGABYTE product image (background-removed product shot served by static.gigabyte.com for the product page); GIGABYTE has not granted a general reuse license — rights not verified.",
-  "sourcePx": 1921
+  "rights": "Official GIGABYTE product image (product-page gallery image served by static.gigabyte.com); GIGABYTE has not granted a general reuse license — rights not verified.",
+  "sourcePx": 1919
  },
  {
   "productId": "TK-GLORIOUS-GMMK3-PRO-HE-WL",
@@ -3925,13 +4191,13 @@
   "productName": "Google Nest Cam (outdoor or indoor, battery)",
   "brand": "Google",
   "sourcePage": "https://store.google.com/us/config/nest_cam_battery",
-  "assetUrl": "https://lh3.googleusercontent.com/LTJ1-nKNhyXhRrFbc4dkexcjsTOyurFdX3Om7AKbBmAnQ8FMWuzic_mzPNXsFIiuCaZuly23dMM98qLofDY2bSf7NJBrcSHSIA=s1600",
+  "assetUrl": "https://lh3.googleusercontent.com/69h9kDWBLJCfz53Oa9dCCCCI8l5oLVBCgRl9AMeeMMkdmRqRvBWB757PRsGLook1frkfa5AdFDha9mQ9-xpMGjzKAyVTlUQQMLdy=s1600",
   "localAsset": "frontend/public/images/catalog/google-nest-cam-battery-800.webp",
   "sourceType": "manufacturer-product-page",
   "match": "EXACT",
   "retrievedAt": "2026-09-28",
   "rights": "Official Google Store product image (store.google.com); Google has not granted a reuse license — rights not verified.",
-  "sourcePx": 485
+  "sourcePx": 598
  },
  {
   "productId": "TK-GOOGLE-NESTCAM-FLOODLIGHT",
@@ -3946,6 +4212,34 @@
   "retrievedAt": "2026-09-28",
   "rights": "Official Google Store product image (store.google.com); Google has not granted a reuse license — rights not verified.",
   "sourcePx": 1293
+ },
+ {
+  "productId": "TK-GOOGLE-NESTCAM-INDOOR3",
+  "slug": "google-nest-cam-indoor-wired-3rd-gen",
+  "productName": "Google Nest Cam Indoor (wired, 3rd gen)",
+  "brand": "Google",
+  "sourcePage": "https://store.google.com/us/config/nest_cam_indoor_wired_3rd_gen",
+  "assetUrl": "https://lh3.googleusercontent.com/2l9hvEFDfnq-zLyDnVEqSyI6DJpc77j9O-9pmeI0cEu_KG-fhprvps-oeCcW8Oj1bbwJOVdoEAEJf5hUHERYbTvNu_6p2zgn5mnO=s1600",
+  "localAsset": "frontend/public/images/catalog/google-nest-cam-indoor-wired-3rd-gen-800.webp",
+  "sourceType": "manufacturer-product-page",
+  "match": "EXACT",
+  "retrievedAt": "2026-09-28",
+  "rights": "Official Google Store product image (store.google.com); Google has not granted a reuse license — rights not verified.",
+  "sourcePx": 1249
+ },
+ {
+  "productId": "TK-GOOGLE-NESTCAM-OUTDOOR2",
+  "slug": "google-nest-cam-outdoor-wired-2nd-gen",
+  "productName": "Google Nest Cam Outdoor (wired, 2nd gen)",
+  "brand": "Google",
+  "sourcePage": "https://store.google.com/us/config/nest_cam_outdoor_wired_2nd_gen",
+  "assetUrl": "https://lh3.googleusercontent.com/iUekub70qLolHXbQhcw7RpvzKBhm3Sis-GaDgIG5aUHZqIE6rpcTujQYknExVKa8OcCK026DQ6xe6WxWgt_vKjNV8KqKQu2Brp8=s1600",
+  "localAsset": "frontend/public/images/catalog/google-nest-cam-outdoor-wired-2nd-gen-800.webp",
+  "sourceType": "manufacturer-product-page",
+  "match": "EXACT",
+  "retrievedAt": "2026-09-28",
+  "rights": "Official Google Store product image (store.google.com); Google has not granted a reuse license — rights not verified.",
+  "sourcePx": 1102
  },
  {
   "productId": "TK-GOOGLE-NESTDOORBELL-BATT",
@@ -4002,6 +4296,20 @@
   "retrievedAt": "2026-09-28",
   "rights": "Official Google Store product image (store.google.com); Google has not granted a reuse license — rights not verified.",
   "sourcePx": 869
+ },
+ {
+  "productId": "TK-GOOGLE-NESTWIFIPRO",
+  "slug": "google-nest-wifi-pro",
+  "productName": "Google Nest Wifi Pro",
+  "brand": "Google",
+  "sourcePage": "https://store.google.com/us/config/nest_wifi_pro",
+  "assetUrl": "https://lh3.googleusercontent.com/cf9DUL_B-Ml1ss7-ddBEZMcnns6y2q7rnhtvxWExIdXBsDUUXpWfaTqmTjbVlaEtkPB0vXOeKaGbsTpgcTmDN6JjkTGSiK6_07Y=s1600",
+  "localAsset": "frontend/public/images/catalog/google-nest-wifi-pro-800.webp",
+  "sourceType": "manufacturer-product-page",
+  "match": "EXACT",
+  "retrievedAt": "2026-09-28",
+  "rights": "Official Google Store product image (store.google.com); Google has not granted a reuse license — rights not verified.",
+  "sourcePx": 1115
  },
  {
   "productId": "TK-GOOGLE-PIXEL10A",
@@ -4072,6 +4380,20 @@
   "retrievedAt": "2026-09-28",
   "rights": "Official Google Store product image (store.google.com); Google has not granted a reuse license — rights not verified.",
   "sourcePx": 1009
+ },
+ {
+  "productId": "TK-GOOGLE-PIXELBUDS2A",
+  "slug": "google-pixel-buds-2a",
+  "productName": "Google Pixel Buds 2a",
+  "brand": "Google",
+  "sourcePage": "https://store.google.com/us/product/pixel_buds_2a",
+  "assetUrl": "https://lh3.googleusercontent.com/sZDRmkrx9XBVK28qUwM1o6LT5mcY64_y0o7b-gH43nsKv9OspOq7wBO9V1raZPs-kV5dfyWf6qlLLkoMJmGXP8KLgdcwIRPaEhU=s1600",
+  "localAsset": "frontend/public/images/catalog/google-pixel-buds-2a-800.webp",
+  "sourceType": "manufacturer-product-page",
+  "match": "EXACT",
+  "retrievedAt": "2026-09-28",
+  "rights": "Official Google Store product image (store.google.com); Google has not granted a reuse license — rights not verified.",
+  "sourcePx": 704
  },
  {
   "productId": "TK-GOOGLE-PIXELBUDSPRO2",
@@ -4172,6 +4494,454 @@
   "sourcePx": 853
  },
  {
+  "productId": "TK-HP-CHROMEBOOK-X360-14BT",
+  "slug": "hp-chromebook-x360-14bt-ce000",
+  "productName": "HP Chromebook x360 14 (14bt-ce000)",
+  "brand": "HP",
+  "sourcePage": "https://www.hp.com/us-en/shop/pdp/hp-chromebook-x360-14bt-ce000-14-c53glav-1",
+  "assetUrl": "https://hp.widen.net/content/jqzk0npkh8/png/jqzk0npkh8.png?w=1400&h=1400",
+  "localAsset": "frontend/public/images/catalog/hp-chromebook-x360-14bt-ce000-800.webp",
+  "sourceType": "manufacturer-product-page",
+  "match": "PRODUCT_LINE",
+  "retrievedAt": "2026-09-28",
+  "rights": "Official HP Store product gallery image (HP Widen DAM); HP has not granted a reuse license — rights not verified.",
+  "sourcePx": 1180
+ },
+ {
+  "productId": "TK-HP-CLJ-PRO-MFP-3301FDW",
+  "slug": "hp-color-laserjet-pro-mfp-3301fdw",
+  "productName": "HP Color LaserJet Pro MFP 3301fdw",
+  "brand": "HP",
+  "sourcePage": "https://www.hp.com/us-en/shop/pdp/hp-color-laserjet-pro-mfp-3301fdw",
+  "assetUrl": "https://hp.widen.net/content/vjm0amcdx9/png/vjm0amcdx9.png?w=1400&h=1400",
+  "localAsset": "frontend/public/images/catalog/hp-color-laserjet-pro-mfp-3301fdw-800.webp",
+  "sourceType": "manufacturer-product-page",
+  "match": "EXACT",
+  "retrievedAt": "2026-09-28",
+  "rights": "Official HP Store product gallery image (HP Widen DAM); HP has not granted a reuse license — rights not verified.",
+  "sourcePx": 1298
+ },
+ {
+  "productId": "TK-HP-ELITEBOOK-8-G2I-16",
+  "slug": "hp-elitebook-8-g2i-16",
+  "productName": "HP EliteBook 8 G2i 16 Next Gen AI PC",
+  "brand": "HP",
+  "sourcePage": "https://www.hp.com/us-en/shop/pdp/hp-elitebook-8-g2i-16-inch-notebook-next-gen-ai-pc-wolf-pro-security-edition-p-dl8d4ua-aba-1",
+  "assetUrl": "https://hp.widen.net/content/inhk8wypc3/png/inhk8wypc3.png?w=1400&h=1400",
+  "localAsset": "frontend/public/images/catalog/hp-elitebook-8-g2i-16-800.webp",
+  "sourceType": "manufacturer-product-page",
+  "match": "EXACT",
+  "retrievedAt": "2026-09-28",
+  "rights": "Official HP Store product gallery image (HP Widen DAM); HP has not granted a reuse license — rights not verified.",
+  "sourcePx": 1290
+ },
+ {
+  "productId": "TK-HP-ELITEBOOK-X-G2I-14",
+  "slug": "hp-elitebook-x-g2i-14",
+  "productName": "HP EliteBook X G2i 14 Next Gen AI PC",
+  "brand": "HP",
+  "sourcePage": "https://www.hp.com/us-en/shop/pdp/hp-elitebook-x-g2i-14-inch-notebook-next-gen-ai-pc-wolf-pro-security-edition",
+  "assetUrl": "https://hp.widen.net/content/g1a4vbcjvi/png/g1a4vbcjvi.png?w=1400&h=1400",
+  "localAsset": "frontend/public/images/catalog/hp-elitebook-x-g2i-14-800.webp",
+  "sourceType": "manufacturer-product-page",
+  "match": "EXACT",
+  "retrievedAt": "2026-09-28",
+  "rights": "Official HP Store product gallery image (HP Widen DAM); HP has not granted a reuse license — rights not verified.",
+  "sourcePx": 1249
+ },
+ {
+  "productId": "TK-HP-ELITEDESK-8-MINI-G1I",
+  "slug": "hp-elitedesk-8-mini-g1i",
+  "productName": "HP EliteDesk 8 Mini G1i Desktop AI PC",
+  "brand": "HP",
+  "sourcePage": "https://www.hp.com/us-en/shop/pdp/hp-elitedesk-8-mini-g1i-desktop-ai-pc-wolf-pro-security-edition-p-c6tx4ua-aba-1",
+  "assetUrl": "https://hp.widen.net/content/lprmejrgdj/png/lprmejrgdj.png?w=1400&h=1400",
+  "localAsset": "frontend/public/images/catalog/hp-elitedesk-8-mini-g1i-800.webp",
+  "sourceType": "manufacturer-product-page",
+  "match": "EXACT",
+  "retrievedAt": "2026-09-28",
+  "rights": "Official HP Store product gallery image (HP Widen DAM); HP has not granted a reuse license — rights not verified.",
+  "sourcePx": 1238
+ },
+ {
+  "productId": "TK-HP-GOOGLEBOOK-14",
+  "slug": "hp-googlebook-14",
+  "productName": "HP Googlebook 14",
+  "brand": "HP",
+  "sourcePage": "https://www.hp.com/us-en/shop/pdp/hp-googlebook-14-cj7x9av-1",
+  "assetUrl": "https://hp.widen.net/content/kgw9ozulpy/png/kgw9ozulpy.png?w=1400&h=1400",
+  "localAsset": "frontend/public/images/catalog/hp-googlebook-14-800.webp",
+  "sourceType": "manufacturer-product-page",
+  "match": "PRODUCT_LINE",
+  "retrievedAt": "2026-09-28",
+  "rights": "Official HP Store product gallery image (HP Widen DAM); HP has not granted a reuse license — rights not verified.",
+  "sourcePx": 1190
+ },
+ {
+  "productId": "TK-HP-HYPERX-OMEN-15",
+  "slug": "hyperx-omen-15",
+  "productName": "HyperX OMEN 15 Gaming Laptop (15t-ga000)",
+  "brand": "HyperX",
+  "sourcePage": "https://www.hp.com/us-en/shop/pdp/hyperx-omen-gaming-laptop-15t-ga000-15-c52b1av-1",
+  "assetUrl": "https://hp.widen.net/content/swidppotiw/png/swidppotiw.png?w=1400&h=1400",
+  "localAsset": "frontend/public/images/catalog/hyperx-omen-15-800.webp",
+  "sourceType": "manufacturer-product-page",
+  "match": "PRODUCT_LINE",
+  "retrievedAt": "2026-09-28",
+  "rights": "Official HP Store product gallery image (HP Widen DAM); HP has not granted a reuse license — rights not verified.",
+  "sourcePx": 1108
+ },
+ {
+  "productId": "TK-HP-HYPERX-OMEN-35L-GT18",
+  "slug": "hyperx-omen-35l-gt18",
+  "productName": "HyperX OMEN 35L Gaming Desktop (GT18-0000t)",
+  "brand": "HyperX",
+  "sourcePage": "https://www.hp.com/us-en/shop/pdp/hyperx-omen-35l-gaming-desktop-pc-gt18-0000t-d0ul7av-1",
+  "assetUrl": "https://hp.widen.net/content/mimxlo3fio/png/mimxlo3fio.png?w=1400&h=1400",
+  "localAsset": "frontend/public/images/catalog/hyperx-omen-35l-gt18-800.webp",
+  "sourceType": "manufacturer-product-page",
+  "match": "PRODUCT_LINE",
+  "retrievedAt": "2026-09-28",
+  "rights": "Official HP Store product gallery image (HP Widen DAM); HP has not granted a reuse license — rights not verified.",
+  "sourcePx": 1001
+ },
+ {
+  "productId": "TK-HP-HYPERX-OMEN-MAX-16",
+  "slug": "hyperx-omen-max-16",
+  "productName": "HyperX OMEN MAX 16 Gaming Laptop (16t-ah100)",
+  "brand": "HyperX",
+  "sourcePage": "https://www.hp.com/us-en/shop/pdp/hyperx-omen-max-gaming-laptop-16t-ah100-16-cn3g9av-1",
+  "assetUrl": "https://hp.widen.net/content/bu62pravgr/png/bu62pravgr.png?w=1400&h=1400",
+  "localAsset": "frontend/public/images/catalog/hyperx-omen-max-16-800.webp",
+  "sourceType": "manufacturer-product-page",
+  "match": "PRODUCT_LINE",
+  "retrievedAt": "2026-09-28",
+  "rights": "Official HP Store product gallery image (HP Widen DAM); HP has not granted a reuse license — rights not verified.",
+  "sourcePx": 1118
+ },
+ {
+  "productId": "TK-HP-HYPERX-OMEN-MAX-45L",
+  "slug": "hyperx-omen-max-45l-gt24",
+  "productName": "HyperX OMEN MAX 45L Gaming Desktop (GT24-0000t)",
+  "brand": "HyperX",
+  "sourcePage": "https://www.hp.com/us-en/shop/pdp/hyperx-omen-max-45l-gaming-desktop-pc-gt24-0000t-cw9m6av-1",
+  "assetUrl": "https://hp.widen.net/content/qo14bcubhx/png/qo14bcubhx.png?w=1400&h=1400",
+  "localAsset": "frontend/public/images/catalog/hyperx-omen-max-45l-gt24-800.webp",
+  "sourceType": "manufacturer-product-page",
+  "match": "PRODUCT_LINE",
+  "retrievedAt": "2026-09-28",
+  "rights": "Official HP Store product gallery image (HP Widen DAM); HP has not granted a reuse license — rights not verified.",
+  "sourcePx": 1063
+ },
+ {
+  "productId": "TK-HP-LJ-PRO-4001DN",
+  "slug": "hp-laserjet-pro-4001dn",
+  "productName": "HP LaserJet Pro 4001dn Printer",
+  "brand": "HP",
+  "sourcePage": "https://www.hp.com/us-en/shop/pdp/hp-laserjet-pro-4001dn-printer",
+  "assetUrl": "https://hp.widen.net/content/pl8axi5lpt/png/pl8axi5lpt.png?w=1400&h=1400",
+  "localAsset": "frontend/public/images/catalog/hp-laserjet-pro-4001dn-800.webp",
+  "sourceType": "manufacturer-product-page",
+  "match": "EXACT",
+  "retrievedAt": "2026-09-28",
+  "rights": "Official HP Store product gallery image (HP Widen DAM); HP has not granted a reuse license — rights not verified.",
+  "sourcePx": 1069
+ },
+ {
+  "productId": "TK-HP-OFFICEJET-PRO-9135",
+  "slug": "hp-officejet-pro-9135",
+  "productName": "HP OfficeJet Pro 9135 All-in-One Printer",
+  "brand": "HP",
+  "sourcePage": "https://www.hp.com/us-en/shop/pdp/hp-officejet-pro-9135-all-in-one-printer",
+  "assetUrl": "https://hp.widen.net/content/bww9xzlybp/png/bww9xzlybp.png?w=1400&h=1400",
+  "localAsset": "frontend/public/images/catalog/hp-officejet-pro-9135-800.webp",
+  "sourceType": "manufacturer-product-page",
+  "match": "EXACT",
+  "retrievedAt": "2026-09-28",
+  "rights": "Official HP Store product gallery image (HP Widen DAM); HP has not granted a reuse license — rights not verified.",
+  "sourcePx": 1253
+ },
+ {
+  "productId": "TK-HP-OMEN-34C-G2",
+  "slug": "omen-34c-g2",
+  "productName": "OMEN 34c G2 WQHD 180 Hz Curved Gaming Monitor",
+  "brand": "HP",
+  "sourcePage": "https://www.hp.com/us-en/shop/pdp/omen-34-inch-wqhd-180hz-curved-gaming-monitor-omen-34c-g2",
+  "assetUrl": "https://hp.widen.net/content/nbswbbbc2h/png/nbswbbbc2h.png?w=1400&h=1400",
+  "localAsset": "frontend/public/images/catalog/omen-34c-g2-800.webp",
+  "sourceType": "manufacturer-product-page",
+  "match": "EXACT",
+  "retrievedAt": "2026-09-28",
+  "rights": "Official HP Store product gallery image (HP Widen DAM); HP has not granted a reuse license — rights not verified.",
+  "sourcePx": 1294
+ },
+ {
+  "productId": "TK-HP-OMEN-TRANSCEND-32",
+  "slug": "omen-transcend-32",
+  "productName": "OMEN Transcend 32 4K 240 Hz QD-OLED Gaming Monitor",
+  "brand": "HP",
+  "sourcePage": "https://www.hp.com/us-en/shop/pdp/omen-transcend-315-inch-uhd-240hz-oled-gaming-monitor-omen-transcend-32",
+  "assetUrl": "https://hp.widen.net/content/akaqqenpjw/png/akaqqenpjw.png?w=1400&h=1400",
+  "localAsset": "frontend/public/images/catalog/omen-transcend-32-800.webp",
+  "sourceType": "manufacturer-product-page",
+  "match": "EXACT",
+  "retrievedAt": "2026-09-28",
+  "rights": "Official HP Store product gallery image (HP Widen DAM); HP has not granted a reuse license — rights not verified.",
+  "sourcePx": 1332
+ },
+ {
+  "productId": "TK-HP-OMNIBOOK-7-AERO-13",
+  "slug": "hp-omnibook-7-aero-13",
+  "productName": "HP OmniBook 7 Aero 13 (13-bg1059nr)",
+  "brand": "HP",
+  "sourcePage": "https://www.hp.com/us-en/shop/pdp/hp-omnibook-7-aero-laptop-next-gen-ai-13-bg1059nr",
+  "assetUrl": "https://hp.widen.net/content/nmsr64uw3x/png/nmsr64uw3x.png?w=1400&h=1400",
+  "localAsset": "frontend/public/images/catalog/hp-omnibook-7-aero-13-800.webp",
+  "sourceType": "manufacturer-product-page",
+  "match": "EXACT",
+  "retrievedAt": "2026-09-28",
+  "rights": "Official HP Store product gallery image (HP Widen DAM); HP has not granted a reuse license — rights not verified.",
+  "sourcePx": 1196
+ },
+ {
+  "productId": "TK-HP-OMNIBOOK-ULTRA-14-KD",
+  "slug": "hp-omnibook-ultra-14-intel",
+  "productName": "HP OmniBook Ultra 14 (Intel, 14t-kd000)",
+  "brand": "HP",
+  "sourcePage": "https://www.hp.com/us-en/shop/pdp/hp-omnibook-ultra-laptop-next-gen-ai-14t-kd000-14-c2nm8av-1",
+  "assetUrl": "https://hp.widen.net/content/jcrmpwc3nn/png/jcrmpwc3nn.png?w=1400&h=1400",
+  "localAsset": "frontend/public/images/catalog/hp-omnibook-ultra-14-intel-800.webp",
+  "sourceType": "manufacturer-product-page",
+  "match": "PRODUCT_LINE",
+  "retrievedAt": "2026-09-28",
+  "rights": "Official HP Store product gallery image (HP Widen DAM); HP has not granted a reuse license — rights not verified.",
+  "sourcePx": 1212
+ },
+ {
+  "productId": "TK-HP-OMNIBOOK-X-17",
+  "slug": "hp-omnibook-x-17",
+  "productName": "HP OmniBook X 17 (17-dd0047nr)",
+  "brand": "HP",
+  "sourcePage": "https://www.hp.com/us-en/shop/pdp/hp-omnibook-x-ngai-17-dd0047nr",
+  "assetUrl": "https://hp.widen.net/content/yz1cwyyxcz/png/yz1cwyyxcz.png?w=1400&h=1400",
+  "localAsset": "frontend/public/images/catalog/hp-omnibook-x-17-800.webp",
+  "sourceType": "manufacturer-product-page",
+  "match": "EXACT",
+  "retrievedAt": "2026-09-28",
+  "rights": "Official HP Store product gallery image (HP Widen DAM); HP has not granted a reuse license — rights not verified.",
+  "sourcePx": 1264
+ },
+ {
+  "productId": "TK-HP-OMNIBOOK-X-FLIP-14-KB",
+  "slug": "hp-omnibook-x-flip-14-kb000",
+  "productName": "HP OmniBook X Flip 14 (14t-kb000)",
+  "brand": "HP",
+  "sourcePage": "https://www.hp.com/us-en/shop/pdp/hp-omnibook-x-flip-laptop-next-gen-ai-14t-kb000-14-c33d6av-1",
+  "assetUrl": "https://hp.widen.net/content/q7hfcdrjqy/png/q7hfcdrjqy.png?w=1400&h=1400",
+  "localAsset": "frontend/public/images/catalog/hp-omnibook-x-flip-14-kb000-800.webp",
+  "sourceType": "manufacturer-product-page",
+  "match": "PRODUCT_LINE",
+  "retrievedAt": "2026-09-28",
+  "rights": "Official HP Store product gallery image (HP Widen DAM); HP has not granted a reuse license — rights not verified.",
+  "sourcePx": 1187
+ },
+ {
+  "productId": "TK-HP-OMNIBOOK-X-FLIP-16",
+  "slug": "hp-omnibook-x-flip-16",
+  "productName": "HP OmniBook X Flip 16 2-in-1 (16t-as00)",
+  "brand": "HP",
+  "sourcePage": "https://www.hp.com/us-en/shop/pdp/hp-omnibook-x-flip-16-inch-2-in-1-laptop-next-gen-ai-pc-b88cwav-1",
+  "assetUrl": "https://hp.widen.net/content/ulockcjchm/png/ulockcjchm.png?w=1400&h=1400",
+  "localAsset": "frontend/public/images/catalog/hp-omnibook-x-flip-16-800.webp",
+  "sourceType": "manufacturer-product-page",
+  "match": "PRODUCT_LINE",
+  "retrievedAt": "2026-09-28",
+  "rights": "Official HP Store product gallery image (HP Widen DAM); HP has not granted a reuse license — rights not verified.",
+  "sourcePx": 1186
+ },
+ {
+  "productId": "TK-HP-OMNISTUDIO-X-32",
+  "slug": "hp-omnistudio-x-32-aio",
+  "productName": "HP OmniStudio X 32 All-in-One (32-cs0000t)",
+  "brand": "HP",
+  "sourcePage": "https://www.hp.com/us-en/shop/pdp/hp-omnistudio-x-all-in-one-desktop-next-gen-ai-32-cs0000t-pc-315-a31vhav-1",
+  "assetUrl": "https://hp.widen.net/content/s5gzgtxmg1/png/s5gzgtxmg1.png?w=1400&h=1400",
+  "localAsset": "frontend/public/images/catalog/hp-omnistudio-x-32-aio-800.webp",
+  "sourceType": "manufacturer-product-page",
+  "match": "PRODUCT_LINE",
+  "retrievedAt": "2026-09-28",
+  "rights": "Official HP Store product gallery image (HP Widen DAM); HP has not granted a reuse license — rights not verified.",
+  "sourcePx": 1113
+ },
+ {
+  "productId": "TK-HP-PROBOOK-4-G2I-14",
+  "slug": "hp-probook-4-g2i-14",
+  "productName": "HP ProBook 4 G2i 14 Next Gen AI PC",
+  "brand": "HP",
+  "sourcePage": "https://www.hp.com/us-en/shop/pdp/hp-probook-4-g2i-14-inch-notebook-next-gen-ai-pc-wolf-pro-security-edition-p-dc5k8ua-aba-1",
+  "assetUrl": "https://hp.widen.net/content/afglyqpnly/png/afglyqpnly.png?w=1400&h=1400",
+  "localAsset": "frontend/public/images/catalog/hp-probook-4-g2i-14-800.webp",
+  "sourceType": "manufacturer-product-page",
+  "match": "EXACT",
+  "retrievedAt": "2026-09-28",
+  "rights": "Official HP Store product gallery image (HP Widen DAM); HP has not granted a reuse license — rights not verified.",
+  "sourcePx": 1165
+ },
+ {
+  "productId": "TK-HP-SERIES-7-PRO-727PK",
+  "slug": "hp-series-7-pro-27-4k-727pk",
+  "productName": "HP Series 7 Pro 27 4K Thunderbolt 4 Monitor (727pk)",
+  "brand": "HP",
+  "sourcePage": "https://www.hp.com/us-en/shop/pdp/hp-series-7-pro-27-inch-4k-thunderbolt-4-monitor-727pk",
+  "assetUrl": "https://hp.widen.net/content/6ukjdba4wt/png/6ukjdba4wt.png?w=1400&h=1400",
+  "localAsset": "frontend/public/images/catalog/hp-series-7-pro-27-4k-727pk-800.webp",
+  "sourceType": "manufacturer-product-page",
+  "match": "EXACT",
+  "retrievedAt": "2026-09-28",
+  "rights": "Official HP Store product gallery image (HP Widen DAM); HP has not granted a reuse license — rights not verified.",
+  "sourcePx": 1286
+ },
+ {
+  "productId": "TK-HP-SERIES-7-PRO-734PM",
+  "slug": "hp-series-7-pro-34-734pm",
+  "productName": "HP Series 7 Pro 34 WQHD Conferencing Monitor (734pm)",
+  "brand": "HP",
+  "sourcePage": "https://www.hp.com/us-en/shop/pdp/hp-series-7-pro-34-inch-wqhd-conferencing-monitor-734pm-p-8k157ut-aba-1",
+  "assetUrl": "https://hp.widen.net/content/gk7wrkb0xx/png/gk7wrkb0xx.png?w=1400&h=1400",
+  "localAsset": "frontend/public/images/catalog/hp-series-7-pro-34-734pm-800.webp",
+  "sourceType": "manufacturer-product-page",
+  "match": "EXACT",
+  "retrievedAt": "2026-09-28",
+  "rights": "Official HP Store product gallery image (HP Widen DAM); HP has not granted a reuse license — rights not verified.",
+  "sourcePx": 1325
+ },
+ {
+  "productId": "TK-HP-SMART-TANK-7603",
+  "slug": "hp-smart-tank-7603",
+  "productName": "HP Smart Tank 7603 All-in-One Printer",
+  "brand": "HP",
+  "sourcePage": "https://www.hp.com/us-en/shop/pdp/hp-smart-tank-7603-all-in-one-printer-p-d34f7a-b1h-1",
+  "assetUrl": "https://hp.widen.net/content/aa1xxuqbqt/png/aa1xxuqbqt.png?w=1400&h=1400",
+  "localAsset": "frontend/public/images/catalog/hp-smart-tank-7603-800.webp",
+  "sourceType": "manufacturer-product-page",
+  "match": "EXACT",
+  "retrievedAt": "2026-09-28",
+  "rights": "Official HP Store product gallery image (HP Widen DAM); HP has not granted a reuse license — rights not verified.",
+  "sourcePx": 1185
+ },
+ {
+  "productId": "TK-HP-Z2-MINI-G1A",
+  "slug": "hp-z2-mini-g1a",
+  "productName": "HP Z2 Mini G1a Workstation",
+  "brand": "HP",
+  "sourcePage": "https://www.hp.com/us-en/shop/pdp/hp-z2-mini-g1a-workstation-desktop-pc-wolf-pro-security-edition-p-bn8e1ua-aba-1",
+  "assetUrl": "https://hp.widen.net/content/0jnrmxo6jw/png/0jnrmxo6jw.png?w=1400&h=1400",
+  "localAsset": "frontend/public/images/catalog/hp-z2-mini-g1a-800.webp",
+  "sourceType": "manufacturer-product-page",
+  "match": "EXACT",
+  "retrievedAt": "2026-09-28",
+  "rights": "Official HP Store product gallery image (HP Widen DAM); HP has not granted a reuse license — rights not verified.",
+  "sourcePx": 995
+ },
+ {
+  "productId": "TK-HP-Z2-TOWER-G1I",
+  "slug": "hp-z2-tower-g1i",
+  "productName": "HP Z2 Tower G1i Workstation",
+  "brand": "HP",
+  "sourcePage": "https://www.hp.com/us-en/shop/pdp/hp-z2-tower-g1i-workstation-desktop-pc-customizable-b04f0av-mb",
+  "assetUrl": "https://hp.widen.net/content/zansv3yslk/png/zansv3yslk.png?w=1400&h=1400",
+  "localAsset": "frontend/public/images/catalog/hp-z2-tower-g1i-800.webp",
+  "sourceType": "manufacturer-product-page",
+  "match": "PRODUCT_LINE",
+  "retrievedAt": "2026-09-28",
+  "rights": "Official HP Store product gallery image (HP Widen DAM); HP has not granted a reuse license — rights not verified.",
+  "sourcePx": 1093
+ },
+ {
+  "productId": "TK-HP-Z4-G6I",
+  "slug": "hp-z4-g6i",
+  "productName": "HP Z4 G6i Workstation",
+  "brand": "HP",
+  "sourcePage": "https://www.hp.com/us-en/shop/pdp/hp-z4-g6i-workstation-desktop-pc-customizable-b50txav-mb",
+  "assetUrl": "https://hp.widen.net/content/qtkl1yxqvg/png/qtkl1yxqvg.png?w=1400&h=1400",
+  "localAsset": "frontend/public/images/catalog/hp-z4-g6i-800.webp",
+  "sourceType": "manufacturer-product-page",
+  "match": "PRODUCT_LINE",
+  "retrievedAt": "2026-09-28",
+  "rights": "Official HP Store product gallery image (HP Widen DAM); HP has not granted a reuse license — rights not verified.",
+  "sourcePx": 1058
+ },
+ {
+  "productId": "TK-HP-ZBOOK-8-G2I-16",
+  "slug": "hp-zbook-8-g2i-16",
+  "productName": "HP ZBook 8 G2i 16 Mobile Workstation",
+  "brand": "HP",
+  "sourcePage": "https://www.hp.com/us-en/shop/pdp/hp-zbook-8-g2i-16-inch-mobile-workstation-pc-wolf-pro-security-edition-p-df9j8ua-aba-1",
+  "assetUrl": "https://hp.widen.net/content/idwjtbjdvu/png/idwjtbjdvu.png?w=1400&h=1400",
+  "localAsset": "frontend/public/images/catalog/hp-zbook-8-g2i-16-800.webp",
+  "sourceType": "manufacturer-product-page",
+  "match": "EXACT",
+  "retrievedAt": "2026-09-28",
+  "rights": "Official HP Store product gallery image (HP Widen DAM); HP has not granted a reuse license — rights not verified.",
+  "sourcePx": 1283
+ },
+ {
+  "productId": "TK-HP-ZBOOK-FURY-G1I-16",
+  "slug": "hp-zbook-fury-g1i-16",
+  "productName": "HP ZBook Fury G1i 16 Mobile Workstation",
+  "brand": "HP",
+  "sourcePage": "https://www.hp.com/us-en/shop/pdp/hp-zbook-fury-g1i-16-inch-mobile-workstation-pc-wolf-pro-security-edition-p-c3fl5ua-aba-1",
+  "assetUrl": "https://hp.widen.net/content/vr0fmeevwz/png/vr0fmeevwz.png?w=1400&h=1400",
+  "localAsset": "frontend/public/images/catalog/hp-zbook-fury-g1i-16-800.webp",
+  "sourceType": "manufacturer-product-page",
+  "match": "EXACT",
+  "retrievedAt": "2026-09-28",
+  "rights": "Official HP Store product gallery image (HP Widen DAM); HP has not granted a reuse license — rights not verified.",
+  "sourcePx": 1194
+ },
+ {
+  "productId": "TK-HP-ZBOOK-ULTRA-G1A-14",
+  "slug": "hp-zbook-ultra-g1a-14",
+  "productName": "HP ZBook Ultra G1a 14 Mobile Workstation",
+  "brand": "HP",
+  "sourcePage": "https://www.hp.com/us-en/shop/pdp/hp-zbook-ultra-14-inch-g1a-mobile-workstation-pc-wolf-pro-security-edition-p-bn2v1ua-aba-1",
+  "assetUrl": "https://hp.widen.net/content/estuzcj3jp/png/estuzcj3jp.png?w=1400&h=1400",
+  "localAsset": "frontend/public/images/catalog/hp-zbook-ultra-g1a-14-800.webp",
+  "sourceType": "manufacturer-product-page",
+  "match": "EXACT",
+  "retrievedAt": "2026-09-28",
+  "rights": "Official HP Store product gallery image (HP Widen DAM); HP has not granted a reuse license — rights not verified.",
+  "sourcePx": 1270
+ },
+ {
+  "productId": "TK-HP-ZBOOK-X-G1I-16",
+  "slug": "hp-zbook-x-g1i-16",
+  "productName": "HP ZBook X G1i 16 Mobile Workstation",
+  "brand": "HP",
+  "sourcePage": "https://www.hp.com/us-en/shop/pdp/hp-zbook-x-g1i-16-inch-mobile-workstation-pc-wolf-pro-security-edition-p-c44yqua-aba-1",
+  "assetUrl": "https://hp.widen.net/content/h33lghixup/png/h33lghixup.png?w=1400&h=1400",
+  "localAsset": "frontend/public/images/catalog/hp-zbook-x-g1i-16-800.webp",
+  "sourceType": "manufacturer-product-page",
+  "match": "EXACT",
+  "retrievedAt": "2026-09-28",
+  "rights": "Official HP Store product gallery image (HP Widen DAM); HP has not granted a reuse license — rights not verified.",
+  "sourcePx": 1228
+ },
+ {
+  "productId": "TK-HP-ZGX-NANO-G1N",
+  "slug": "hp-zgx-nano-g1n",
+  "productName": "HP ZGX Nano G1n AI Station",
+  "brand": "HP",
+  "sourcePage": "https://www.hp.com/us-en/shop/pdp/hp-zgx-nano-g1n-ai-station-p-cz2v8ut-aba-1",
+  "assetUrl": "https://hp.widen.net/content/msaniswk8a/png/msaniswk8a.png?w=1400&h=1400",
+  "localAsset": "frontend/public/images/catalog/hp-zgx-nano-g1n-800.webp",
+  "sourceType": "manufacturer-product-page",
+  "match": "EXACT",
+  "retrievedAt": "2026-09-28",
+  "rights": "Official HP Store product gallery image (HP Widen DAM); HP has not granted a reuse license — rights not verified.",
+  "sourcePx": 1284
+ },
+ {
   "productId": "TK-HUE-ESSENTIALA19-4PK",
   "slug": "philips-hue-essential-a19-color-4-pack",
   "productName": "Philips Hue Essential A19 White and Color Smart Bulb (4-pack)",
@@ -4254,6 +5024,132 @@
   "retrievedAt": "2026-09-28",
   "rights": "Official Philips Hue (Signify) product image from philips-hue.com; no reuse license granted — rights not verified.",
   "sourcePx": 1103
+ },
+ {
+  "productId": "TK-HYPERX-ALLOY-RISE",
+  "slug": "hyperx-alloy-rise",
+  "productName": "HyperX Alloy Rise Gaming Keyboard",
+  "brand": "HyperX",
+  "sourcePage": "https://www.hp.com/us-en/shop/pdp/hyperx-alloy-rise-gaming-keyboards",
+  "assetUrl": "https://hp.widen.net/content/slpnzxinzj/png/slpnzxinzj.png?w=1400&h=1400",
+  "localAsset": "frontend/public/images/catalog/hyperx-alloy-rise-800.webp",
+  "sourceType": "manufacturer-product-page",
+  "match": "EXACT",
+  "retrievedAt": "2026-09-28",
+  "rights": "Official HP Store product gallery image (HP Widen DAM); HP has not granted a reuse license — rights not verified.",
+  "sourcePx": 1142
+ },
+ {
+  "productId": "TK-HYPERX-CLOUD-III-S-WL",
+  "slug": "hyperx-cloud-iii-s-wireless",
+  "productName": "HyperX Cloud III S Wireless Gaming Headset",
+  "brand": "HyperX",
+  "sourcePage": "https://www.hp.com/us-en/shop/pdp/hyperx-cloud-iii-s-wireless-gaming-headset-(black-red)",
+  "assetUrl": "https://hp.widen.net/content/ehbgpefiak/png/ehbgpefiak.png?w=1400&h=1400",
+  "localAsset": "frontend/public/images/catalog/hyperx-cloud-iii-s-wireless-800.webp",
+  "sourceType": "manufacturer-product-page",
+  "match": "EXACT",
+  "retrievedAt": "2026-09-28",
+  "rights": "Official HP Store product gallery image (HP Widen DAM); HP has not granted a reuse license — rights not verified.",
+  "sourcePx": 1142
+ },
+ {
+  "productId": "TK-HYPERX-HASTE-2-S-WL",
+  "slug": "hyperx-pulsefire-haste-2-s-wireless",
+  "productName": "HyperX Pulsefire Haste 2 S Wireless Gaming Mouse",
+  "brand": "HyperX",
+  "sourcePage": "https://www.hp.com/us-en/shop/pdp/hyperx-pulsefire-haste-2-s-navy-wireless-gaming-mouse",
+  "assetUrl": "https://hp.widen.net/content/ivbb0bzhfn/png/ivbb0bzhfn.png?w=1400&h=1400",
+  "localAsset": "frontend/public/images/catalog/hyperx-pulsefire-haste-2-s-wireless-800.webp",
+  "sourceType": "manufacturer-product-page",
+  "match": "EXACT",
+  "retrievedAt": "2026-09-28",
+  "rights": "Official HP Store product gallery image (HP Widen DAM); HP has not granted a reuse license — rights not verified.",
+  "sourcePx": 1143
+ },
+ {
+  "productId": "TK-INTEL-ARC-PRO-B50",
+  "slug": "intel-arc-pro-b50",
+  "productName": "Intel Arc Pro B50 16 GB",
+  "brand": "Intel",
+  "sourcePage": "https://www.intel.com/content/www/us/en/products/details/discrete-gpus/arc/workstations/b-series.html",
+  "assetUrl": "https://intelcorp.scene7.com/is/image/intelcorp/arc-pro-b50-alpha-06?fmt=png&wid=2000",
+  "localAsset": "frontend/public/images/catalog/intel-arc-pro-b50-800.webp",
+  "sourceType": "manufacturer-product-page",
+  "match": "EXACT",
+  "retrievedAt": "2026-09-28",
+  "rights": "Official Intel product image served from Intel's intelcorp.scene7.com asset CDN (used on intel.com); Intel has not granted a general reuse license - rights not verified.",
+  "sourcePx": 1983
+ },
+ {
+  "productId": "TK-INTEL-ARC-PRO-B60",
+  "slug": "intel-arc-pro-b60",
+  "productName": "Intel Arc Pro B60 24 GB",
+  "brand": "Intel",
+  "sourcePage": "https://www.intel.com/content/www/us/en/products/details/discrete-gpus/arc/workstations/b-series.html",
+  "assetUrl": "https://intelcorp.scene7.com/is/image/intelcorp/arc-pro-b60?fmt=png&wid=2000",
+  "localAsset": "frontend/public/images/catalog/intel-arc-pro-b60-800.webp",
+  "sourceType": "manufacturer-product-page",
+  "match": "EXACT",
+  "retrievedAt": "2026-09-28",
+  "rights": "Official Intel product image served from Intel's intelcorp.scene7.com asset CDN (used on intel.com); Intel has not granted a general reuse license - rights not verified.",
+  "sourcePx": 2117
+ },
+ {
+  "productId": "TK-INTEL-ARC-PRO-B70",
+  "slug": "intel-arc-pro-b70",
+  "productName": "Intel Arc Pro B70 32 GB",
+  "brand": "Intel",
+  "sourcePage": "https://www.intel.com/content/www/us/en/products/details/discrete-gpus/arc/workstations/b-series.html",
+  "assetUrl": "https://intelcorp.scene7.com/is/image/intelcorp/arc-pro-b70?fmt=png&wid=2000",
+  "localAsset": "frontend/public/images/catalog/intel-arc-pro-b70-800.webp",
+  "sourceType": "manufacturer-product-page",
+  "match": "EXACT",
+  "retrievedAt": "2026-09-28",
+  "rights": "Official Intel product image served from Intel's intelcorp.scene7.com asset CDN (used on intel.com); Intel has not granted a general reuse license - rights not verified.",
+  "sourcePx": 1690
+ },
+ {
+  "productId": "TK-INTEL-XEON-6787P",
+  "slug": "intel-xeon-6787p",
+  "productName": "Intel Xeon 6787P Processor",
+  "brand": "Intel",
+  "sourcePage": "https://www.intel.com/content/www/us/en/products/details/processors/xeon.html",
+  "assetUrl": "https://intelcorp.scene7.com/is/image/intelcorp/intel-xeon-p-cores-1080x1080?fmt=png-alpha&wid=1080",
+  "localAsset": "frontend/public/images/catalog/intel-xeon-6787p-800.webp",
+  "sourceType": "manufacturer-product-page",
+  "match": "PRODUCT_LINE",
+  "retrievedAt": "2026-09-28",
+  "rights": "Official Intel product image served from Intel's intelcorp.scene7.com asset CDN (used on intel.com); Intel has not granted a general reuse license - rights not verified.",
+  "sourcePx": 1295
+ },
+ {
+  "productId": "TK-INTEL-XEON-6972P",
+  "slug": "intel-xeon-6972p",
+  "productName": "Intel Xeon 6972P Processor",
+  "brand": "Intel",
+  "sourcePage": "https://www.intel.com/content/www/us/en/products/details/processors/xeon.html",
+  "assetUrl": "https://intelcorp.scene7.com/is/image/intelcorp/intel-xeon-p-cores-1080x1080?fmt=png-alpha&wid=1080",
+  "localAsset": "frontend/public/images/catalog/intel-xeon-6972p-800.webp",
+  "sourceType": "manufacturer-product-page",
+  "match": "PRODUCT_LINE",
+  "retrievedAt": "2026-09-28",
+  "rights": "Official Intel product image served from Intel's intelcorp.scene7.com asset CDN (used on intel.com); Intel has not granted a general reuse license - rights not verified.",
+  "sourcePx": 1295
+ },
+ {
+  "productId": "TK-INTEL-XEON-6980P",
+  "slug": "intel-xeon-6980p",
+  "productName": "Intel Xeon 6980P Processor",
+  "brand": "Intel",
+  "sourcePage": "https://www.intel.com/content/www/us/en/products/details/processors/xeon.html",
+  "assetUrl": "https://intelcorp.scene7.com/is/image/intelcorp/intel-xeon-p-cores-1080x1080?fmt=png-alpha&wid=1080",
+  "localAsset": "frontend/public/images/catalog/intel-xeon-6980p-800.webp",
+  "sourceType": "manufacturer-product-page",
+  "match": "PRODUCT_LINE",
+  "retrievedAt": "2026-09-28",
+  "rights": "Official Intel product image served from Intel's intelcorp.scene7.com asset CDN (used on intel.com); Intel has not granted a general reuse license - rights not verified.",
+  "sourcePx": 1295
  },
  {
   "productId": "TK-JBL-PULSE-6",
@@ -4480,34 +5376,6 @@
   "sourcePx": 1034
  },
  {
-  "productId": "TK-LG-39GX950B",
-  "slug": "lg-ultragear-oled-evo-39gx950b",
-  "productName": "LG UltraGear OLED evo 39GX950B 39\" 5K2K Curved",
-  "brand": "LG",
-  "sourcePage": "https://www.lg.com/us/monitors/lg-39gx950b-b-gaming-monitor",
-  "assetUrl": "https://media.us.lg.com/transform/ecomm-PDPGalleryZoom-1600x1062/38a0864a-6c88-44b5-b0f2-9be63158d79d/Monitor-39GX950B-B-gallery-01-new-5000x5000",
-  "localAsset": "frontend/public/images/catalog/lg-ultragear-oled-evo-39gx950b-800.webp",
-  "sourceType": "manufacturer-product-page",
-  "match": "EXACT",
-  "retrievedAt": "2026-09-28",
-  "rights": "Official LG.com US product gallery image (media.us.lg.com); LG has not granted a reuse license — rights not verified.",
-  "sourcePx": 1600
- },
- {
-  "productId": "TK-LG-45GX950B",
-  "slug": "lg-ultragear-oled-evo-45gx950b",
-  "productName": "LG UltraGear OLED evo 45GX950B 45\" 5K2K 800R",
-  "brand": "LG",
-  "sourcePage": "https://www.lg.com/us/monitors/lg-45gx950b-b-gaming-monitor",
-  "assetUrl": "https://media.us.lg.com/transform/ecomm-PDPGalleryZoom-1600x1062/d2a5943b-db8d-440d-90f0-58a27ed2ab49/Monitor-45GX950B-B-gallery_01_5000x5000",
-  "localAsset": "frontend/public/images/catalog/lg-ultragear-oled-evo-45gx950b-800.webp",
-  "sourceType": "manufacturer-product-page",
-  "match": "EXACT",
-  "retrievedAt": "2026-09-28",
-  "rights": "Official LG.com US product gallery image (media.us.lg.com); LG has not granted a reuse license — rights not verified.",
-  "sourcePx": 1600
- },
- {
   "productId": "TK-LG-86MRGB95",
   "slug": "lg-micro-rgb-evo-mrgb95-86-2026",
   "productName": "LG Micro RGB evo AI MRGB95 86\" 4K Smart TV (2026, 86MRGB95BUA)",
@@ -4597,13 +5465,13 @@
   "productName": "LG OLED evo AI C6 65\" 4K Smart TV (2026, OLED65C6PUA)",
   "brand": "LG",
   "sourcePage": "https://www.lg.com/us/tvs/lg-oled65c6pua-oled-4k-tv",
-  "assetUrl": "https://media.us.lg.com/transform/ecomm-PDPGalleryZoom-1600x1062/878ec6b4-e72e-4793-a701-ada394094e6a/TV-OLED65C6PUA-Gallery-01_5000x5000",
+  "assetUrl": "https://media.us.lg.com/transform/ecomm-PDPGalleryZoom-1600x1062/2d2188e8-c041-4b39-97ef-4c96aee29a28/TVs_OLED65C6PUA_gallery-02_3000x3000",
   "localAsset": "frontend/public/images/catalog/lg-oled-evo-c6-65-2026-800.webp",
   "sourceType": "manufacturer-product-page",
   "match": "EXACT",
   "retrievedAt": "2026-09-28",
   "rights": "Official LG.com US product gallery image (media.us.lg.com); LG has not granted a reuse license — rights not verified.",
-  "sourcePx": 960
+  "sourcePx": 814
  },
  {
   "productId": "TK-LG-OLED65G6",
@@ -4611,13 +5479,13 @@
   "productName": "LG OLED evo AI G6 65\" 4K Smart TV (2026, OLED65G6WUA)",
   "brand": "LG",
   "sourcePage": "https://www.lg.com/us/tvs/lg-oled65g6wua-oled-4k-tv",
-  "assetUrl": "https://media.us.lg.com/transform/ecomm-PDPGalleryZoom-1600x1062/8aa4aaf4-2f73-4c6f-87e1-6e5c7d28e6f9/TV-OLED65G6WUA-Gallery-01_5000x5000",
+  "assetUrl": "https://media.us.lg.com/transform/ecomm-PDPGalleryZoom-1600x1062/7607d5e2-310a-4ffb-9090-b61525e13ae9/TVs_OLED65G6WUA_gallery-02_3000x3000",
   "localAsset": "frontend/public/images/catalog/lg-oled-evo-g6-65-2026-800.webp",
   "sourceType": "manufacturer-product-page",
   "match": "EXACT",
   "retrievedAt": "2026-09-28",
   "rights": "Official LG.com US product gallery image (media.us.lg.com); LG has not granted a reuse license — rights not verified.",
-  "sourcePx": 956
+  "sourcePx": 834
  },
  {
   "productId": "TK-LG-OLED77W6",
@@ -4858,20 +5726,6 @@
   "sourcePx": 923
  },
  {
-  "productId": "TK-MICRON-RDIMM-64G-6400",
-  "slug": "micron-ddr5-6400-rdimm-64gb",
-  "productName": "Micron 64 GB DDR5-6400 RDIMM 2Rx4 CL52",
-  "brand": "Micron",
-  "sourcePage": "https://www.crucial.com/memory/server-ddr5/mtc40f2046s1rc64br",
-  "assetUrl": "https://assets.micron.com/adobe/assets/urn:aaid:aem:d10edce6-c977-45d1-8b47-821b8b2f178d/renditions/transformpng-1024-1024.png/as/micron-ddr5-rdimm-64GB-2Rx4-front-image.png",
-  "localAsset": "frontend/public/images/catalog/micron-ddr5-6400-rdimm-64gb-800.webp",
-  "sourceType": "manufacturer-product-page",
-  "match": "EXACT",
-  "retrievedAt": "2026-09-28",
-  "rights": "Official Micron/Crucial product image (assets.micron.com); Micron has not granted a reuse license — rights not verified.",
-  "sourcePx": 1024
- },
- {
   "productId": "TK-MIKROTIK-CCR2116",
   "slug": "mikrotik-ccr2116-12g-4s-plus",
   "productName": "MikroTik CCR2116-12G-4S+",
@@ -5059,13 +5913,13 @@
   "productName": "Microsoft Surface Arc Mouse",
   "brand": "Microsoft",
   "sourcePage": "https://www.microsoft.com/en-us/d/surface-arc-mouse/8mzbmmcjzqtx",
-  "assetUrl": "https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/B00-Surface-Arc-Mouse-Rational-Violet?wid=1600&fmt=png-alpha",
+  "assetUrl": "https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/B00-Surface-Arc-Mouse-Rational-Violet?wid=1600&fmt=png-alpha&extendN=0.05,0.05,0.05,0.05",
   "localAsset": "frontend/public/images/catalog/microsoft-surface-arc-mouse-800.webp",
   "sourceType": "manufacturer-product-page",
   "match": "EXACT",
   "retrievedAt": "2026-09-28",
   "rights": "Official Microsoft Store product image (microsoft.com); Microsoft has not granted a reuse license — rights not verified.",
-  "sourcePx": 1600
+  "sourcePx": 1430
  },
  {
   "productId": "TK-MSFT-SURFACEKB-2E",
@@ -5073,13 +5927,13 @@
   "productName": "Microsoft Surface Keyboard (2nd Edition)",
   "brand": "Microsoft",
   "sourcePage": "https://www.microsoft.com/en-us/d/surface-keyboard-2nd-edition/93d9l5tctr0b",
-  "assetUrl": "https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/RW1noW3?wid=1600&fmt=png-alpha",
+  "assetUrl": "https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/RW1noW3?wid=1600&fmt=png-alpha&extendN=0.05,0.05,0.05,0.05",
   "localAsset": "frontend/public/images/catalog/microsoft-surface-keyboard-2nd-edition-800.webp",
   "sourceType": "manufacturer-product-page",
   "match": "EXACT",
   "retrievedAt": "2026-09-28",
   "rights": "Official Microsoft Store product image (microsoft.com); Microsoft has not granted a reuse license — rights not verified.",
-  "sourcePx": 1510
+  "sourcePx": 1373
  },
  {
   "productId": "TK-MSFT-SURFACELAPTOP13-2E",
@@ -5087,13 +5941,13 @@
   "productName": "Microsoft Surface Laptop, 13-inch (2nd Edition)",
   "brand": "Microsoft",
   "sourcePage": "https://www.microsoft.com/en-us/d/surface-laptop-13-inch-2nd-edition/8wg5vqp0x4bd",
-  "assetUrl": "https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/b00-Surface-Laptop-SnapdragonX2-13-2Ed-Violet-Front?wid=1600&fmt=png-alpha",
+  "assetUrl": "https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/b00-Surface-Laptop-SnapdragonX2-13-2Ed-Violet-Front?wid=1600&fmt=png-alpha&extendN=0.05,0.05,0.05,0.05",
   "localAsset": "frontend/public/images/catalog/microsoft-surface-laptop-13-inch-2nd-edition-800.webp",
   "sourceType": "manufacturer-product-page",
   "match": "EXACT",
   "retrievedAt": "2026-09-28",
   "rights": "Official Microsoft Store product image (microsoft.com); Microsoft has not granted a reuse license — rights not verified.",
-  "sourcePx": 1161
+  "sourcePx": 1057
  },
  {
   "productId": "TK-MSFT-SURFACELAPTOP138-8E",
@@ -5101,13 +5955,13 @@
   "productName": "Microsoft Surface Laptop, 13.8-inch (8th Edition)",
   "brand": "Microsoft",
   "sourcePage": "https://www.microsoft.com/en-us/d/surface-laptop-138-inch-8th-edition/8mzbmmcjzpmf",
-  "assetUrl": "https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/b00-Surface-Laptop-Snapdragon-8Ed-HR-Front?wid=1600&fmt=png-alpha",
+  "assetUrl": "https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/b00-Surface-Laptop-Snapdragon-8Ed-HR-Front?wid=1600&fmt=png-alpha&extendN=0.05,0.05,0.05,0.05",
   "localAsset": "frontend/public/images/catalog/microsoft-surface-laptop-13-8-inch-8th-edition-800.webp",
   "sourceType": "manufacturer-product-page",
   "match": "EXACT",
   "retrievedAt": "2026-09-28",
   "rights": "Official Microsoft Store product image (microsoft.com); Microsoft has not granted a reuse license — rights not verified.",
-  "sourcePx": 1243
+  "sourcePx": 1130
  },
  {
   "productId": "TK-MSFT-SURFACELAPTOP15-8E",
@@ -5115,13 +5969,13 @@
   "productName": "Microsoft Surface Laptop, 15-inch (8th Edition)",
   "brand": "Microsoft",
   "sourcePage": "https://www.microsoft.com/en-us/d/surface-laptop-15-inch-8th-edition/8mzbmmcjzp9w",
-  "assetUrl": "https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/b00-Surface-Laptop-Snapdragon-8Ed-JC-Front?wid=1600&fmt=png-alpha",
+  "assetUrl": "https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/b00-Surface-Laptop-Snapdragon-8Ed-JC-Front?wid=1600&fmt=png-alpha&extendN=0.05,0.05,0.05,0.05",
   "localAsset": "frontend/public/images/catalog/microsoft-surface-laptop-15-inch-8th-edition-800.webp",
   "sourceType": "manufacturer-product-page",
   "match": "EXACT",
   "retrievedAt": "2026-09-28",
   "rights": "Official Microsoft Store product image (microsoft.com); Microsoft has not granted a reuse license — rights not verified.",
-  "sourcePx": 1381
+  "sourcePx": 1259
  },
  {
   "productId": "TK-MSFT-SURFACELAPTOPBIZ-8E-INTEL",
@@ -5129,13 +5983,13 @@
   "productName": "Microsoft Surface Laptop for Business, 13.8 or 15-inch (8th Edition) Intel",
   "brand": "Microsoft",
   "sourcePage": "https://www.microsoft.com/en-us/d/surface-laptop-for-business-138-and-15-inch-8th-edition-intel/8mzbmmcjzpn5",
-  "assetUrl": "https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/b00-Surface-Laptop-Intel-8Ed-HD-Front?wid=1600&fmt=png-alpha",
+  "assetUrl": "https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/b00-Surface-Laptop-Intel-8Ed-HD-Front?wid=1600&fmt=png-alpha&extendN=0.05,0.05,0.05,0.05",
   "localAsset": "frontend/public/images/catalog/microsoft-surface-laptop-for-business-8th-edition-intel-800.webp",
   "sourceType": "manufacturer-product-page",
   "match": "PRODUCT_LINE",
   "retrievedAt": "2026-09-28",
   "rights": "Official Microsoft Store product image (microsoft.com); Microsoft has not granted a reuse license — rights not verified.",
-  "sourcePx": 1388
+  "sourcePx": 1262
  },
  {
   "productId": "TK-MSFT-SURFACEMOUSE-2E",
@@ -5143,13 +5997,13 @@
   "productName": "Microsoft Surface Mouse (2nd Edition)",
   "brand": "Microsoft",
   "sourcePage": "https://www.microsoft.com/en-us/d/surface-mouse-2nd-edition/8wg5vqp0x4bv",
-  "assetUrl": "https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/b00-Surface-Mouse-2Ed-Black-Front-Right?wid=1600&fmt=png-alpha",
+  "assetUrl": "https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/b00-Surface-Mouse-2Ed-Black-Front-Right?wid=1600&fmt=png-alpha&extendN=0.05,0.05,0.05,0.05",
   "localAsset": "frontend/public/images/catalog/microsoft-surface-mouse-2nd-edition-800.webp",
   "sourceType": "manufacturer-product-page",
   "match": "EXACT",
   "retrievedAt": "2026-09-28",
   "rights": "Official Microsoft Store product image (microsoft.com); Microsoft has not granted a reuse license — rights not verified.",
-  "sourcePx": 1454
+  "sourcePx": 1321
  },
  {
   "productId": "TK-MSFT-SURFACEPRO12-2E",
@@ -5157,13 +6011,13 @@
   "productName": "Microsoft Surface Pro, 12-inch (2nd Edition)",
   "brand": "Microsoft",
   "sourcePage": "https://www.microsoft.com/en-us/d/surface-pro-12-inch-2nd-edition/8wg5vqp0x4bw",
-  "assetUrl": "https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/b00-Surface-Pro-SnapdragonX2-12-2Ed-Violet-Front?wid=1600&fmt=png-alpha",
+  "assetUrl": "https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/b00-Surface-Pro-SnapdragonX2-12-2Ed-Violet-Front?wid=1600&fmt=png-alpha&extendN=0.05,0.05,0.05,0.05",
   "localAsset": "frontend/public/images/catalog/microsoft-surface-pro-12-inch-2nd-edition-800.webp",
   "sourceType": "manufacturer-product-page",
   "match": "EXACT",
   "retrievedAt": "2026-09-28",
   "rights": "Official Microsoft Store product image (microsoft.com); Microsoft has not granted a reuse license — rights not verified.",
-  "sourcePx": 1381
+  "sourcePx": 1256
  },
  {
   "productId": "TK-MSFT-SURFACEPRO12-KB",
@@ -5171,13 +6025,13 @@
   "productName": "Microsoft Surface Pro 12-inch Keyboard",
   "brand": "Microsoft",
   "sourcePage": "https://www.microsoft.com/en-us/d/surface-pro-12-inch-keyboard/8mzbmmcjzqv0",
-  "assetUrl": "https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/B02-Surface-Pro-12-inch-Keyboard-Slate-Top?wid=1600&fmt=png-alpha",
+  "assetUrl": "https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/B02-Surface-Pro-12-inch-Keyboard-Slate-Top?wid=1600&fmt=png-alpha&extendN=0.05,0.05,0.05,0.05",
   "localAsset": "frontend/public/images/catalog/microsoft-surface-pro-12-inch-keyboard-800.webp",
   "sourceType": "manufacturer-product-page",
   "match": "EXACT",
   "retrievedAt": "2026-09-28",
   "rights": "Official Microsoft Store product image (microsoft.com); Microsoft has not granted a reuse license — rights not verified.",
-  "sourcePx": 1240
+  "sourcePx": 1128
  },
  {
   "productId": "TK-MSFT-SURFACEPRO13-12E",
@@ -5185,13 +6039,13 @@
   "productName": "Microsoft Surface Pro, 13-inch (12th Edition)",
   "brand": "Microsoft",
   "sourcePage": "https://www.microsoft.com/en-us/d/surface-pro-13-inch-12th-edition/8mzbmmcjzpmr",
-  "assetUrl": "https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/b00-Surface-Pro-Snapdragon-12Ed-MB-Front?wid=1600&fmt=png-alpha",
+  "assetUrl": "https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/b00-Surface-Pro-Snapdragon-12Ed-MB-Front?wid=1600&fmt=png-alpha&extendN=0.05,0.05,0.05,0.05",
   "localAsset": "frontend/public/images/catalog/microsoft-surface-pro-13-inch-12th-edition-800.webp",
   "sourceType": "manufacturer-product-page",
   "match": "EXACT",
   "retrievedAt": "2026-09-28",
   "rights": "Official Microsoft Store product image (microsoft.com); Microsoft has not granted a reuse license — rights not verified.",
-  "sourcePx": 1436
+  "sourcePx": 1309
  },
  {
   "productId": "TK-MSFT-SURFACEPRO13-FLEXKB",
@@ -5199,13 +6053,13 @@
   "productName": "Microsoft Surface Pro 13-inch Flex Keyboard",
   "brand": "Microsoft",
   "sourcePage": "https://www.microsoft.com/en-us/d/surface-pro-13-inch-flex-keyboard/91xw9xj8bm7l",
-  "assetUrl": "https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/SPW5C-2000x1500-BB-00?wid=1600&fmt=png-alpha",
+  "assetUrl": "https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/SPW5C-2000x1500-BB-00?wid=1600&fmt=png-alpha&extendN=0.05,0.05,0.05,0.05",
   "localAsset": "frontend/public/images/catalog/microsoft-surface-pro-13-inch-flex-keyboard-800.webp",
   "sourceType": "manufacturer-product-page",
   "match": "EXACT",
   "retrievedAt": "2026-09-28",
   "rights": "Official Microsoft Store product image (microsoft.com); Microsoft has not granted a reuse license — rights not verified.",
-  "sourcePx": 1370
+  "sourcePx": 1248
  },
  {
   "productId": "TK-MSFT-SURFACESLIMPEN",
@@ -5213,13 +6067,13 @@
   "productName": "Microsoft Surface Slim Pen",
   "brand": "Microsoft",
   "sourcePage": "https://www.microsoft.com/en-us/d/surface-slim-pen/8tb9xw8rwc14",
-  "assetUrl": "https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/B00-Slim-Pen-2-Feature-02?wid=1600&fmt=png-alpha",
+  "assetUrl": "https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/B00-Slim-Pen-2-Feature-02?wid=1600&fmt=png-alpha&extendN=0.05,0.05,0.05,0.05",
   "localAsset": "frontend/public/images/catalog/microsoft-surface-slim-pen-800.webp",
   "sourceType": "manufacturer-product-page",
   "match": "EXACT",
   "retrievedAt": "2026-09-28",
   "rights": "Official Microsoft Store product image (microsoft.com); Microsoft has not granted a reuse license — rights not verified.",
-  "sourcePx": 1600
+  "sourcePx": 1460
  },
  {
   "productId": "TK-MSFT-SURFACETB4DOCK",
@@ -5227,13 +6081,13 @@
   "productName": "Microsoft Surface Thunderbolt 4 Dock",
   "brand": "Microsoft",
   "sourcePage": "https://www.microsoft.com/en-us/d/surface-thunderbolt-4-dock/8x7cgh1n2tb2",
-  "assetUrl": "https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/BuyBox-SA1C-b00?wid=1600&fmt=png-alpha",
+  "assetUrl": "https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/BuyBox-SA1C-b00?wid=1600&fmt=png-alpha&extendN=0.05,0.05,0.05,0.05",
   "localAsset": "frontend/public/images/catalog/microsoft-surface-thunderbolt-4-dock-800.webp",
   "sourceType": "manufacturer-product-page",
   "match": "EXACT",
   "retrievedAt": "2026-09-28",
   "rights": "Official Microsoft Store product image (microsoft.com); Microsoft has not granted a reuse license — rights not verified.",
-  "sourcePx": 1440
+  "sourcePx": 1313
  },
  {
   "productId": "TK-MSFT-SURFACEUSB4DOCK",
@@ -5241,13 +6095,13 @@
   "productName": "Microsoft Surface USB4 Dock",
   "brand": "Microsoft",
   "sourcePage": "https://www.microsoft.com/en-us/d/surface-usb4-dock/8mzbmmcjzqsf",
-  "assetUrl": "https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/B00-Surface-USB4-Dock-Black-Rear-004?wid=1600&fmt=png-alpha",
+  "assetUrl": "https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/B00-Surface-USB4-Dock-Black-Rear-004?wid=1600&fmt=png-alpha&extendN=0.05,0.05,0.05,0.05",
   "localAsset": "frontend/public/images/catalog/microsoft-surface-usb4-dock-800.webp",
   "sourceType": "manufacturer-product-page",
   "match": "EXACT",
   "retrievedAt": "2026-09-28",
   "rights": "Official Microsoft Store product image (microsoft.com); Microsoft has not granted a reuse license — rights not verified.",
-  "sourcePx": 1600
+  "sourcePx": 1313
  },
  {
   "productId": "TK-MSFT-XBOXADAPTIVE",
@@ -5255,13 +6109,13 @@
   "productName": "Microsoft Xbox Adaptive Controller",
   "brand": "Microsoft",
   "sourcePage": "https://www.microsoft.com/en-us/d/xbox-adaptive-controller/8nsdbhz1n3d8",
-  "assetUrl": "https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/gldn-Xbox-Z-BuyBoxImage-b00?wid=1600&fmt=png-alpha",
+  "assetUrl": "https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/gldn-Xbox-Z-BuyBoxImage-b00?wid=1600&fmt=png-alpha&extendN=0.05,0.05,0.05,0.05",
   "localAsset": "frontend/public/images/catalog/microsoft-xbox-adaptive-controller-800.webp",
   "sourceType": "manufacturer-product-page",
   "match": "EXACT",
   "retrievedAt": "2026-09-28",
   "rights": "Official Microsoft Store product image (microsoft.com); Microsoft has not granted a reuse license — rights not verified.",
-  "sourcePx": 1435
+  "sourcePx": 1305
  },
  {
   "productId": "TK-MSFT-XBOXELITE2",
@@ -5269,13 +6123,13 @@
   "productName": "Microsoft Xbox Elite Wireless Controller Series 2",
   "brand": "Microsoft",
   "sourcePage": "https://www.microsoft.com/en-us/d/xbox-elite-wireless-controller-series-2/8rsn7j6375gg",
-  "assetUrl": "https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/gldn-Xbox-3131-D-b00-1?wid=1600&fmt=png-alpha",
+  "assetUrl": "https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/gldn-Xbox-3131-D-b00-1?wid=1600&fmt=png-alpha&extendN=0.05,0.05,0.05,0.05",
   "localAsset": "frontend/public/images/catalog/microsoft-xbox-elite-wireless-controller-series-2-800.webp",
   "sourceType": "manufacturer-product-page",
   "match": "EXACT",
   "retrievedAt": "2026-09-28",
   "rights": "Official Microsoft Store product image (microsoft.com); Microsoft has not granted a reuse license — rights not verified.",
-  "sourcePx": 1600
+  "sourcePx": 1434
  },
  {
   "productId": "TK-MSFT-XBOXELITE2-CORE",
@@ -5283,13 +6137,13 @@
   "productName": "Microsoft Xbox Elite Wireless Controller Series 2 – Core (White)",
   "brand": "Microsoft",
   "sourcePage": "https://www.microsoft.com/en-us/d/xbox-elite-wireless-controller-series-2-core/8v7m3k0bsh52",
-  "assetUrl": "https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/b00-Xbox-Elite-Controller-right-angle-Series-2-White?wid=1600&fmt=png-alpha",
+  "assetUrl": "https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/b00-Xbox-Elite-Controller-right-angle-Series-2-White?wid=1600&fmt=png-alpha&extendN=0.05,0.05,0.05,0.05",
   "localAsset": "frontend/public/images/catalog/microsoft-xbox-elite-wireless-controller-series-2-core-800.webp",
   "sourceType": "manufacturer-product-page",
   "match": "EXACT",
   "retrievedAt": "2026-09-28",
   "rights": "Official Microsoft Store product image (microsoft.com); Microsoft has not granted a reuse license — rights not verified.",
-  "sourcePx": 1600
+  "sourcePx": 1138
  },
  {
   "productId": "TK-MSFT-XBOXSERIESS",
@@ -5297,13 +6151,13 @@
   "productName": "Microsoft Xbox Series S",
   "brand": "Microsoft",
   "sourcePage": "https://www.microsoft.com/en-us/d/xbox-series-s/942j774tp9jn",
-  "assetUrl": "https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/XSS_Image-Buy-Box_Boxshot_2555x1994?wid=1600&fmt=png-alpha",
+  "assetUrl": "https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/XSS_Image-Buy-Box_Boxshot_2555x1994?wid=1600&fmt=png-alpha&extendN=0.05,0.05,0.05,0.05",
   "localAsset": "frontend/public/images/catalog/microsoft-xbox-series-s-800.webp",
   "sourceType": "manufacturer-product-page",
   "match": "EXACT",
   "retrievedAt": "2026-09-28",
   "rights": "Official Microsoft Store product image (microsoft.com); Microsoft has not granted a reuse license — rights not verified.",
-  "sourcePx": 1600
+  "sourcePx": 1043
  },
  {
   "productId": "TK-MSFT-XBOXSERIESS-1TB",
@@ -5311,13 +6165,13 @@
   "productName": "Microsoft Xbox Series S – 1TB (White)",
   "brand": "Microsoft",
   "sourcePage": "https://www.microsoft.com/en-us/d/xbox-series-s-1tb-white/8r02lkf9q26r",
-  "assetUrl": "https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/3522201_Image-Buy-Box-0_2000x2000-1?wid=1600&fmt=png-alpha",
+  "assetUrl": "https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/3522201_Image-Buy-Box-0_2000x2000-1?wid=1600&fmt=png-alpha&extendN=0.05,0.05,0.05,0.05",
   "localAsset": "frontend/public/images/catalog/microsoft-xbox-series-s-1tb-800.webp",
   "sourceType": "manufacturer-product-page",
-  "match": "EXACT",
+  "match": "PRODUCT_LINE",
   "retrievedAt": "2026-09-28",
   "rights": "Official Microsoft Store product image (microsoft.com); Microsoft has not granted a reuse license — rights not verified.",
-  "sourcePx": 1600
+  "sourcePx": 1043
  },
  {
   "productId": "TK-MSFT-XBOXSERIESX",
@@ -5325,13 +6179,13 @@
   "productName": "Microsoft Xbox Series X",
   "brand": "Microsoft",
   "sourcePage": "https://www.microsoft.com/en-us/d/xbox-series-x/8wj714n3rbtl",
-  "assetUrl": "https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/b00-XSX-Teaser-Dec-2019?wid=1600&fmt=png-alpha",
+  "assetUrl": "https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/b00-XSX-Teaser-Dec-2019?wid=1600&fmt=png-alpha&extendN=0.05,0.05,0.05,0.05",
   "localAsset": "frontend/public/images/catalog/microsoft-xbox-series-x-800.webp",
   "sourceType": "manufacturer-product-page",
   "match": "EXACT",
   "retrievedAt": "2026-09-28",
   "rights": "Official Microsoft Store product image (microsoft.com); Microsoft has not granted a reuse license — rights not verified.",
-  "sourcePx": 793
+  "sourcePx": 721
  },
  {
   "productId": "TK-MSFT-XBOXSERIESX-DIGITAL",
@@ -5339,13 +6193,13 @@
   "productName": "Microsoft Xbox Series X – 1TB Digital Edition (White)",
   "brand": "Microsoft",
   "sourcePage": "https://www.microsoft.com/en-us/d/xbox-series-x-1tb-digital-edition-white/8z1l85h2g116",
-  "assetUrl": "https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/66743890_Image-Buy-Box-0_2000x2000-1?wid=1600&fmt=png-alpha",
+  "assetUrl": "https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/66743890_Image-Buy-Box-0_2000x2000-1?wid=1600&fmt=png-alpha&extendN=0.05,0.05,0.05,0.05",
   "localAsset": "frontend/public/images/catalog/microsoft-xbox-series-x-1tb-digital-edition-800.webp",
   "sourceType": "manufacturer-product-page",
   "match": "EXACT",
   "retrievedAt": "2026-09-28",
   "rights": "Official Microsoft Store product image (microsoft.com); Microsoft has not granted a reuse license — rights not verified.",
-  "sourcePx": 740
+  "sourcePx": 669
  },
  {
   "productId": "TK-MSFT-XBOXWIRELESSCTRL",
@@ -5353,13 +6207,13 @@
   "productName": "Microsoft Xbox Wireless Controller",
   "brand": "Microsoft",
   "sourcePage": "https://www.microsoft.com/en-us/d/xbox-wireless-controller/8xn59crbsqgz",
-  "assetUrl": "https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/gldn-Xbox-Cntrl-Black-b00?wid=1600&fmt=png-alpha",
+  "assetUrl": "https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/gldn-Xbox-Cntrl-Black-b00?wid=1600&fmt=png-alpha&extendN=0.05,0.05,0.05,0.05",
   "localAsset": "frontend/public/images/catalog/microsoft-xbox-wireless-controller-800.webp",
   "sourceType": "manufacturer-product-page",
   "match": "EXACT",
   "retrievedAt": "2026-09-28",
   "rights": "Official Microsoft Store product image (microsoft.com); Microsoft has not granted a reuse license — rights not verified.",
-  "sourcePx": 1253
+  "sourcePx": 1139
  },
  {
   "productId": "TK-MSFT-XBOXWIRELESSHEADSET",
@@ -5594,7 +6448,7 @@
   "assetUrl": "https://asset-us-store.msi.com/image/catalog/Pd_page/Laptops/2025/STEALTHA18AIP/STEALTHA18AIP1.png",
   "localAsset": "frontend/public/images/catalog/msi-stealth-a18-ai-plus-800.webp",
   "sourceType": "manufacturer-product-page",
-  "match": "EXACT",
+  "match": "PRODUCT_LINE",
   "retrievedAt": "2026-09-28",
   "rights": "Official MSI-US Store product gallery image; MSI has not granted a general reuse license — rights not verified.",
   "sourcePx": 864
@@ -6230,34 +7084,6 @@
   "sourcePx": 945
  },
  {
-  "productId": "TK-RAZER-BLACKWIDOWV4PRO",
-  "slug": "razer-blackwidow-v4-pro",
-  "productName": "Razer BlackWidow V4 Pro",
-  "brand": "Razer",
-  "sourcePage": "https://www.razer.com/gaming-keyboards/razer-blackwidow-v4-pro",
-  "assetUrl": "https://medias-p1.phoenix.razer.com/sys-master-phoenix-images-container/hc7/hd5/10045164027934/blackwidow-v3-black-5-500x500.png",
-  "localAsset": "frontend/public/images/catalog/razer-blackwidow-v4-pro-800.webp",
-  "sourceType": "manufacturer-product-page",
-  "match": "PRODUCT_LINE",
-  "retrievedAt": "2026-09-28",
-  "rights": "Official Razer.com store product image (medias-p1.phoenix.razer.com); Razer has not granted a reuse license — rights not verified.",
-  "sourcePx": 500
- },
- {
-  "productId": "TK-RAZER-TB5-DOCK",
-  "slug": "razer-thunderbolt-5-dock-chroma",
-  "productName": "Razer Thunderbolt 5 Dock Chroma",
-  "brand": "Razer",
-  "sourcePage": "https://www.razer.com/gaming-pc-accessories/razer-thunderbolt-5-dock",
-  "assetUrl": "https://medias-p1.phoenix.razer.com/sys-master-phoenix-images-container/h8a/ha6/9932979666974/thunderbolt-5-dock-chroma-500x500.png",
-  "localAsset": "frontend/public/images/catalog/razer-thunderbolt-5-dock-chroma-800.webp",
-  "sourceType": "manufacturer-product-page",
-  "match": "EXACT",
-  "retrievedAt": "2026-09-28",
-  "rights": "Official Razer.com store product image (medias-p1.phoenix.razer.com); Razer has not granted a reuse license — rights not verified.",
-  "sourcePx": 500
- },
- {
   "productId": "TK-RING-BATTDOORBELL4KPRO",
   "slug": "ring-battery-doorbell-4k-pro",
   "productName": "Ring Battery Doorbell 4K Pro",
@@ -6342,6 +7168,62 @@
   "sourcePx": 1261
  },
  {
+  "productId": "TK-RODE-NT-USB-PLUS",
+  "slug": "rode-nt-usb-plus",
+  "productName": "RØDE NT-USB+",
+  "brand": "RØDE",
+  "sourcePage": "https://rode.com/en-us/products/nt-usb-plus",
+  "assetUrl": "https://edge.rode.com//images/page/2072/modules/6597/rode-nt-usb-plus-three-quater-hero-1080x1080-rgb.png",
+  "localAsset": "frontend/public/images/catalog/rode-nt-usb-plus-800.webp",
+  "sourceType": "manufacturer-product-page",
+  "match": "EXACT",
+  "retrievedAt": "2026-09-28",
+  "rights": "Official RØDE product image from rode.com; no reuse license verified.",
+  "sourcePx": 830
+ },
+ {
+  "productId": "TK-RODE-NT1-GEN5",
+  "slug": "rode-nt1-5th-generation",
+  "productName": "RØDE NT1 5th Generation",
+  "brand": "RØDE",
+  "sourcePage": "https://rode.com/en-us/products/nt1-5th-generation",
+  "assetUrl": "https://edge.rode.com//images/products/variants/165/rode-nt1-5th-generation-black-3-quarter-with-shock-mount-and-pop-shield-5464x8192-rgb-2000x2000-4f7630d.png",
+  "localAsset": "frontend/public/images/catalog/rode-nt1-5th-generation-800.webp",
+  "sourceType": "manufacturer-product-page",
+  "match": "EXACT",
+  "retrievedAt": "2026-09-28",
+  "rights": "Official RØDE product image from rode.com; no reuse license verified.",
+  "sourcePx": 1653
+ },
+ {
+  "productId": "TK-RODE-PODMIC-USB",
+  "slug": "rode-podmic-usb",
+  "productName": "RØDE PodMic USB",
+  "brand": "RØDE",
+  "sourcePage": "https://rode.com/en-us/products/podmic-usb",
+  "assetUrl": "https://edge.rode.com//images/products/variants/183/rode-podmic-usb-black-hero-3-quater-tilted-4000x4000-rgb-2000x2000-064a3d6.png",
+  "localAsset": "frontend/public/images/catalog/rode-podmic-usb-800.webp",
+  "sourceType": "manufacturer-product-page",
+  "match": "EXACT",
+  "retrievedAt": "2026-09-28",
+  "rights": "Official RØDE product image from rode.com; no reuse license verified.",
+  "sourcePx": 1408
+ },
+ {
+  "productId": "TK-RODE-RODECASTER-PRO-II",
+  "slug": "rode-rodecaster-pro-ii",
+  "productName": "RØDE RØDECaster Pro II",
+  "brand": "RØDE",
+  "sourcePage": "https://rode.com/en-us/products/rodecaster-pro-ii",
+  "assetUrl": "https://edge.rode.com//images/products/variants/291/rode-rodecaster-pro-II-top-down-3840x2157-rgb-2000x2000-44fd209.png",
+  "localAsset": "frontend/public/images/catalog/rode-rodecaster-pro-ii-800.webp",
+  "sourceType": "manufacturer-product-page",
+  "match": "EXACT",
+  "retrievedAt": "2026-09-28",
+  "rights": "Official RØDE product image from rode.com; no reuse license verified.",
+  "sourcePx": 1745
+ },
+ {
   "productId": "TK-RUCKUS-R770",
   "slug": "ruckus-r770-wifi-7-access-point",
   "productName": "RUCKUS R770 Wi-Fi 7 Indoor Access Point",
@@ -6354,6 +7236,76 @@
   "retrievedAt": "2026-09-28",
   "rights": "RUCKUS product image from the official product media library linked on ruckusnetworks.com; no reuse license verified.",
   "sourcePx": 892
+ },
+ {
+  "productId": "TK-SAMSUNG-870EVO",
+  "slug": "samsung-870-evo-sata-ssd",
+  "productName": "Samsung 870 EVO 2.5-inch SATA SSD",
+  "brand": "Samsung",
+  "sourcePage": "https://www.samsung.com/us/memory-storage/sata-ssd/870-evo-sata-2-5-ssd-1tb-sku-mz-77e1t0b-am/",
+  "assetUrl": "https://images.samsung.com/is/image/samsung/p6pim/us/mz-77e1t0b-am/gallery/us-sata-ssd-mz-77e1t0b-am-----evo---tb-ssd-sata-----inch-black-553784920?$2052_1641_PNG$",
+  "localAsset": "frontend/public/images/catalog/samsung-870-evo-sata-ssd-800.webp",
+  "sourceType": "manufacturer-product-page",
+  "match": "PRODUCT_LINE",
+  "retrievedAt": "2026-09-28",
+  "rights": "Official Samsung US store product gallery image (images.samsung.com); Samsung has not granted a reuse license - rights not verified.",
+  "sourcePx": 995
+ },
+ {
+  "productId": "TK-SAMSUNG-9100PRO",
+  "slug": "samsung-9100-pro-nvme-ssd",
+  "productName": "Samsung 9100 PRO PCIe 5.0 NVMe M.2 SSD",
+  "brand": "Samsung",
+  "sourcePage": "https://www.samsung.com/us/memory-storage/nvme-ssd/9100-pro-nvme-ssd-sku-mz-vap1t0b-am/",
+  "assetUrl": "https://images.samsung.com/is/image/samsung/p6pim/us/mz-vap1t0b-am/gallery/us-9100-pro-nvme-m2-ssd-mz-vap1t0b-am-550644965?$2052_1641_PNG$",
+  "localAsset": "frontend/public/images/catalog/samsung-9100-pro-nvme-ssd-800.webp",
+  "sourceType": "manufacturer-product-page",
+  "match": "EXACT",
+  "retrievedAt": "2026-09-28",
+  "rights": "Official Samsung US store product gallery image (images.samsung.com); Samsung has not granted a reuse license - rights not verified.",
+  "sourcePx": 1394
+ },
+ {
+  "productId": "TK-SAMSUNG-990EVOPLUS",
+  "slug": "samsung-990-evo-plus-nvme-ssd",
+  "productName": "Samsung 990 EVO Plus NVMe M.2 SSD",
+  "brand": "Samsung",
+  "sourcePage": "https://www.samsung.com/us/memory-storage/nvme-ssd/990-evo-plus-gen4-nvme-ssd-1tb-sku-mz-v9s1t0b-am/",
+  "assetUrl": "https://images.samsung.com/is/image/samsung/p6pim/us/mz-v9s1t0b-am/gallery/us-990-evo-plus-nvme-m2-ssd-mz-v9s1t0b-am-000?$2052_1641_PNG$",
+  "localAsset": "frontend/public/images/catalog/samsung-990-evo-plus-nvme-ssd-800.webp",
+  "sourceType": "manufacturer-product-page",
+  "match": "EXACT",
+  "retrievedAt": "2026-09-28",
+  "rights": "Official Samsung US store product gallery image (images.samsung.com); Samsung has not granted a reuse license - rights not verified.",
+  "sourcePx": 698
+ },
+ {
+  "productId": "TK-SAMSUNG-990PRO-HEATSINK",
+  "slug": "samsung-990-pro-with-heatsink",
+  "productName": "Samsung 990 PRO with Heatsink PCIe 4.0 NVMe M.2 SSD",
+  "brand": "Samsung",
+  "sourcePage": "https://www.samsung.com/us/memory-storage/nvme-ssd/990-pro-w-heatsink-pcie-4-0-nvme-ssd-4tb-sku-mz-v9p4t0cw/",
+  "assetUrl": "https://images.samsung.com/is/image/samsung/p6pim/us/mz-v9p4t0cw/gallery/us-990-pro-with-heatsink-nvme-m2-ssd-mz-v9p4t0cw-550538668?$2052_1641_PNG$",
+  "localAsset": "frontend/public/images/catalog/samsung-990-pro-with-heatsink-800.webp",
+  "sourceType": "manufacturer-product-page",
+  "match": "PRODUCT_LINE",
+  "retrievedAt": "2026-09-28",
+  "rights": "Official Samsung US store product gallery image (images.samsung.com); Samsung has not granted a reuse license - rights not verified.",
+  "sourcePx": 698
+ },
+ {
+  "productId": "TK-SAMSUNG-FREESTYLE-PLUS",
+  "slug": "samsung-the-freestyle-plus",
+  "productName": "Samsung The Freestyle+ Portable Projector",
+  "brand": "Samsung",
+  "sourcePage": "https://www.samsung.com/us/projectors/the-freestyle/the-freestyle-portable-projector-sku-sp-lff3hlaxxza/",
+  "assetUrl": "https://images.samsung.com/is/image/samsung/p6pim/us/sp-lff3hlaxxza/gallery/us-the-freestyle-lff3h-sp-lff3hlaxxza-553614278?$2052_1641_PNG$",
+  "localAsset": "frontend/public/images/catalog/samsung-the-freestyle-plus-800.webp",
+  "sourceType": "manufacturer-product-page",
+  "match": "EXACT",
+  "retrievedAt": "2026-09-28",
+  "rights": "Official Samsung US store product gallery image (images.samsung.com); Samsung has not granted a reuse license - rights not verified.",
+  "sourcePx": 1037
  },
  {
   "productId": "TK-SAMSUNG-GALAXY-A37-5G",
@@ -6529,13 +7481,13 @@
   "productName": "Samsung Galaxy Tab S10 FE+",
   "brand": "Samsung",
   "sourcePage": "https://www.samsung.com/us/tablets/galaxy-tab-s10-fe/buy/galaxy-tab-s10-fe-plus-blue-128gb-sku-sm-x620nlbaxar",
-  "assetUrl": "https://images.samsung.com/is/image/samsung/p6pim/us/sm-x620nlbaxar/gallery/us-galaxy-tab-s10-fe-plus-sm-x626-sm-x620nlbaxar-553655025?$2052_1641_PNG$",
+  "assetUrl": "https://images.samsung.com/is/image/samsung/p6pim/us/sm-x620nlbaxar/gallery/us-galaxy-tab-s10-fe-plus-sm-x626-sm-x620nlbaxar-545760935?$2052_1641_PNG$",
   "localAsset": "frontend/public/images/catalog/samsung-galaxy-tab-s10-fe-plus-800.webp",
   "sourceType": "manufacturer-product-page",
   "match": "EXACT",
   "retrievedAt": "2026-09-28",
   "rights": "Official Samsung US store product gallery image (images.samsung.com); Samsung has not granted a reuse license — rights not verified.",
-  "sourcePx": 655
+  "sourcePx": 1822
  },
  {
   "productId": "TK-SAMSUNG-GALAXY-TAB-S11",
@@ -6543,13 +7495,13 @@
   "productName": "Samsung Galaxy Tab S11",
   "brand": "Samsung",
   "sourcePage": "https://www.samsung.com/us/tablets/galaxy-tab-s11/buy/galaxy-tab-s11-128gb-gray-wi-fi-sku-sm-x730nzaaxar",
-  "assetUrl": "https://images.samsung.com/is/image/samsung/p6pim/us/sm-x730nzaaxar/gallery/us-galaxy-tab-s11-sm-x730-sm-x730nzaaxar-553558440?$2052_1641_PNG$",
+  "assetUrl": "https://images.samsung.com/is/image/samsung/p6pim/us/sm-x730nzaaxar/gallery/us-galaxy-tab-s11-sm-x730-sm-x730nzaaxar-550443947?$2052_1641_PNG$",
   "localAsset": "frontend/public/images/catalog/samsung-galaxy-tab-s11-800.webp",
   "sourceType": "manufacturer-product-page",
   "match": "EXACT",
   "retrievedAt": "2026-09-28",
   "rights": "Official Samsung US store product gallery image (images.samsung.com); Samsung has not granted a reuse license — rights not verified.",
-  "sourcePx": 654
+  "sourcePx": 1477
  },
  {
   "productId": "TK-SAMSUNG-GALAXY-TAB-S11-ULTRA",
@@ -6648,6 +7600,62 @@
   "retrievedAt": "2026-09-28",
   "rights": "Official Samsung US store product gallery image (images.samsung.com); Samsung has not granted a reuse license — rights not verified.",
   "sourcePx": 1265
+ },
+ {
+  "productId": "TK-SAMSUNG-HW-LS70H",
+  "slug": "samsung-music-studio-7-hw-ls70h",
+  "productName": "Samsung Music Studio 7 HW-LS70H Wi-Fi Speaker",
+  "brand": "Samsung",
+  "sourcePage": "https://www.samsung.com/us/audio-devices/wireless-speaker/music-studio-7-dolby-atmos-speaker-sku-hw-ls70h-za/",
+  "assetUrl": "https://images.samsung.com/is/image/samsung/p6pim/us/hw-ls70h-za/gallery/us-music-studio7-ls70h-hw-ls70h-za-551891829?$2052_1641_PNG$",
+  "localAsset": "frontend/public/images/catalog/samsung-music-studio-7-hw-ls70h-800.webp",
+  "sourceType": "manufacturer-product-page",
+  "match": "EXACT",
+  "retrievedAt": "2026-09-28",
+  "rights": "Official Samsung US store product gallery image (images.samsung.com); Samsung has not granted a reuse license - rights not verified.",
+  "sourcePx": 1304
+ },
+ {
+  "productId": "TK-SAMSUNG-HW-Q800H",
+  "slug": "samsung-hw-q800h-soundbar",
+  "productName": "Samsung HW-Q800H 5.1.2ch Q-Series Soundbar",
+  "brand": "Samsung",
+  "sourcePage": "https://www.samsung.com/us/audio-devices/soundbar/q-series-5-1-2-ch-soundbar-subwoofer-sku-hw-q800h-za/",
+  "assetUrl": "https://images.samsung.com/is/image/samsung/p6pim/us/hw-q800h-za/gallery/us-q-series-soundbar-hw-q800h-hw-q800h-za-551891608?$2052_1641_PNG$",
+  "localAsset": "frontend/public/images/catalog/samsung-hw-q800h-soundbar-800.webp",
+  "sourceType": "manufacturer-product-page",
+  "match": "EXACT",
+  "retrievedAt": "2026-09-28",
+  "rights": "Official Samsung US store product gallery image (images.samsung.com); Samsung has not granted a reuse license - rights not verified.",
+  "sourcePx": 1874
+ },
+ {
+  "productId": "TK-SAMSUNG-HW-Q990H",
+  "slug": "samsung-hw-q990h-soundbar",
+  "productName": "Samsung HW-Q990H 11.1.4ch Q-Series Soundbar",
+  "brand": "Samsung",
+  "sourcePage": "https://www.samsung.com/us/audio-devices/soundbar/q-series-soundbars-sku-hw-q990h-za/",
+  "assetUrl": "https://images.samsung.com/is/image/samsung/p6pim/us/hw-q990h-za/gallery/us-q-series-soundbar-hw-q990h-hw-q990h-za-551828346?$2052_1641_PNG$",
+  "localAsset": "frontend/public/images/catalog/samsung-hw-q990h-soundbar-800.webp",
+  "sourceType": "manufacturer-product-page",
+  "match": "EXACT",
+  "retrievedAt": "2026-09-28",
+  "rights": "Official Samsung US store product gallery image (images.samsung.com); Samsung has not granted a reuse license - rights not verified.",
+  "sourcePx": 1874
+ },
+ {
+  "productId": "TK-SAMSUNG-HW-QS90H",
+  "slug": "samsung-hw-qs90h-soundbar",
+  "productName": "Samsung HW-QS90H 7.1.2ch All-in-One Soundbar",
+  "brand": "Samsung",
+  "sourcePage": "https://www.samsung.com/us/audio-devices/soundbar/q-series-7-1-2-ch-soundbar-surround-sound-sku-hw-qs90h-za/",
+  "assetUrl": "https://images.samsung.com/is/image/samsung/p6pim/us/hw-qs90h-za/gallery/us-q-series-soundbar-hw-qs90h-hw-qs90h-za-552168149?$2052_1641_PNG$",
+  "localAsset": "frontend/public/images/catalog/samsung-hw-qs90h-soundbar-800.webp",
+  "sourceType": "manufacturer-product-page",
+  "match": "EXACT",
+  "retrievedAt": "2026-09-28",
+  "rights": "Official Samsung US store product gallery image (images.samsung.com); Samsung has not granted a reuse license - rights not verified.",
+  "sourcePx": 1875
  },
  {
   "productId": "TK-SAMSUNG-MICRO-RGB-R85H",
@@ -6832,6 +7840,90 @@
   "sourcePx": 882
  },
  {
+  "productId": "TK-SAMSUNG-P9-EXPRESS",
+  "slug": "samsung-p9-express-microsd-express-card",
+  "productName": "Samsung P9 Express microSD Express Card",
+  "brand": "Samsung",
+  "sourcePage": "https://www.samsung.com/us/memory-storage/memory-card/p9-256gb-microsd-express-card-sku-mb-mk256t-am/",
+  "assetUrl": "https://images.samsung.com/is/image/samsung/p6pim/us/mb-mk256t-am/gallery/us-memory-cardp9-express-microsd-express-card-567074-mb-mk256t-am-549800589?$2052_1641_PNG$",
+  "localAsset": "frontend/public/images/catalog/samsung-p9-express-microsd-express-card-800.webp",
+  "sourceType": "manufacturer-product-page",
+  "match": "EXACT",
+  "retrievedAt": "2026-09-28",
+  "rights": "Official Samsung US store product gallery image (images.samsung.com); Samsung has not granted a reuse license - rights not verified.",
+  "sourcePx": 999
+ },
+ {
+  "productId": "TK-SAMSUNG-PM1743",
+  "slug": "samsung-pm1743-enterprise-ssd",
+  "productName": "Samsung PM1743 PCIe 5.0 Enterprise SSD",
+  "brand": "Samsung",
+  "sourcePage": "https://semiconductor.samsung.com/ssd/enterprise-ssd/pm1743/",
+  "assetUrl": "https://image.semiconductor.samsung.com/image/samsung/p6/semiconductor/products/pf-layout/spec-ssd-epssd-pm1743.png",
+  "localAsset": "frontend/public/images/catalog/samsung-pm1743-enterprise-ssd-800.webp",
+  "sourceType": "manufacturer-media-library",
+  "match": "PRODUCT_LINE",
+  "retrievedAt": "2026-09-28",
+  "rights": "Official Samsung Semiconductor product image (semiconductor.samsung.com); no reuse license verified.",
+  "sourcePx": 872
+ },
+ {
+  "productId": "TK-SAMSUNG-PM1753",
+  "slug": "samsung-pm1753-enterprise-ssd",
+  "productName": "Samsung PM1753 PCIe 5.0 Enterprise SSD",
+  "brand": "Samsung",
+  "sourcePage": "https://semiconductor.samsung.com/ssd/enterprise-ssd/",
+  "assetUrl": "https://image.semiconductor.samsung.com/image/samsung/p6/semiconductor/products/pf-layout/spec-ssd-epssd-pm1753.png",
+  "localAsset": "frontend/public/images/catalog/samsung-pm1753-enterprise-ssd-800.webp",
+  "sourceType": "manufacturer-media-library",
+  "match": "PRODUCT_LINE",
+  "retrievedAt": "2026-09-28",
+  "rights": "Official Samsung Semiconductor product image (semiconductor.samsung.com); no reuse license verified.",
+  "sourcePx": 804
+ },
+ {
+  "productId": "TK-SAMSUNG-PM1763",
+  "slug": "samsung-pm1763-enterprise-ssd",
+  "productName": "Samsung PM1763 PCIe 6.0 Enterprise SSD",
+  "brand": "Samsung",
+  "sourcePage": "https://semiconductor.samsung.com/ssd/enterprise-ssd/pm1763/",
+  "assetUrl": "https://image.semiconductor.samsung.com/image/samsung/p6/semiconductor/products/ssd/pm1763/spec-ssd-pcssd-pm9e1.png",
+  "localAsset": "frontend/public/images/catalog/samsung-pm1763-enterprise-ssd-800.webp",
+  "sourceType": "manufacturer-media-library",
+  "match": "PRODUCT_LINE",
+  "retrievedAt": "2026-09-28",
+  "rights": "Official Samsung Semiconductor product image (semiconductor.samsung.com); no reuse license verified.",
+  "sourcePx": 808
+ },
+ {
+  "productId": "TK-SAMSUNG-PM9D3A",
+  "slug": "samsung-pm9d3a-datacenter-ssd",
+  "productName": "Samsung PM9D3a PCIe 5.0 Data Center SSD",
+  "brand": "Samsung",
+  "sourcePage": "https://semiconductor.samsung.com/ssd/datacenter-ssd/",
+  "assetUrl": "https://image.semiconductor.samsung.com/image/samsung/p6/semiconductor/products/pf-layout/spec-ssd-dcssd-pm9d3a.png",
+  "localAsset": "frontend/public/images/catalog/samsung-pm9d3a-datacenter-ssd-800.webp",
+  "sourceType": "manufacturer-media-library",
+  "match": "PRODUCT_LINE",
+  "retrievedAt": "2026-09-28",
+  "rights": "Official Samsung Semiconductor product image (semiconductor.samsung.com); no reuse license verified.",
+  "sourcePx": 872
+ },
+ {
+  "productId": "TK-SAMSUNG-PREMIERE7-LPU7D",
+  "slug": "samsung-the-premiere-7-lpu7d",
+  "productName": "Samsung The Premiere 7 LPU7D 4K Laser Projector",
+  "brand": "Samsung",
+  "sourcePage": "https://www.samsung.com/us/projectors/the-premiere/120-class-the-premiere-lpu7d-4k-smart-laser-projector-sku-sp-lpu7dsaxxza/",
+  "assetUrl": "https://images.samsung.com/is/image/samsung/p6pim/us/sp-lpu7dsaxxza/gallery/us-the-premiere-lpu7d-sp-lpu7dsaxxza-550396967?$2052_1641_PNG$",
+  "localAsset": "frontend/public/images/catalog/samsung-the-premiere-7-lpu7d-800.webp",
+  "sourceType": "manufacturer-product-page",
+  "match": "EXACT",
+  "retrievedAt": "2026-09-28",
+  "rights": "Official Samsung US store product gallery image (images.samsung.com); Samsung has not granted a reuse license - rights not verified.",
+  "sourcePx": 1872
+ },
+ {
   "productId": "TK-SAMSUNG-SMART-MONITOR-M8-M80F",
   "slug": "samsung-smart-monitor-m8-m80f-32",
   "productName": "Samsung Smart Monitor M8 M80F 32\" 4K",
@@ -6858,6 +7950,48 @@
   "retrievedAt": "2026-09-28",
   "rights": "Official Samsung US product-page gallery image (images.samsung.com); Samsung has not granted a reuse license — rights not verified.",
   "sourcePx": 828
+ },
+ {
+  "productId": "TK-SAMSUNG-T5-EVO",
+  "slug": "samsung-portable-ssd-t5-evo",
+  "productName": "Samsung Portable SSD T5 EVO",
+  "brand": "Samsung",
+  "sourcePage": "https://news.samsung.com/global/samsung-unveils-new-portable-ssd-t5-evo-that-offers-8tb-capacity-in-a-compact-design",
+  "assetUrl": "https://img.global.news.samsung.com/global/wp-content/uploads/2023/11/Portable-SSD-T5-EVO_dl3.jpg",
+  "localAsset": "frontend/public/images/catalog/samsung-portable-ssd-t5-evo-800.webp",
+  "sourceType": "manufacturer-press",
+  "match": "PRODUCT_LINE",
+  "retrievedAt": "2026-09-28",
+  "rights": "Samsung Newsroom press image; published for media use; no general license verified.",
+  "sourcePx": 1804
+ },
+ {
+  "productId": "TK-SAMSUNG-T7",
+  "slug": "samsung-portable-ssd-t7",
+  "productName": "Samsung Portable SSD T7",
+  "brand": "Samsung",
+  "sourcePage": "https://www.samsung.com/us/memory-storage/portable-ssd/portable-ssd-t7-usb-3-2-1tb-blue-sku-mu-pc1t0h-am/",
+  "assetUrl": "https://images.samsung.com/is/image/samsung/p6pim/us/mu-pc1t0h-am/gallery/us-portable-ssd-t7-574760-mu-pc1t0h-am-550551663?$2052_1641_PNG$",
+  "localAsset": "frontend/public/images/catalog/samsung-portable-ssd-t7-800.webp",
+  "sourceType": "manufacturer-product-page",
+  "match": "PRODUCT_LINE",
+  "retrievedAt": "2026-09-28",
+  "rights": "Official Samsung US store product gallery image (images.samsung.com); Samsung has not granted a reuse license - rights not verified.",
+  "sourcePx": 1202
+ },
+ {
+  "productId": "TK-SAMSUNG-T7-SHIELD",
+  "slug": "samsung-portable-ssd-t7-shield",
+  "productName": "Samsung Portable SSD T7 Shield",
+  "brand": "Samsung",
+  "sourcePage": "https://news.samsung.com/global/samsungs-rugged-t7-shield-portable-ssd-offers-durability-and-fast-sustained-performance-for-creative-professionals-and-consumers-on-the-go",
+  "assetUrl": "https://img.global.news.samsung.com/global/wp-content/uploads/2022/04/T7-Shield_Black.jpg",
+  "localAsset": "frontend/public/images/catalog/samsung-portable-ssd-t7-shield-800.webp",
+  "sourceType": "manufacturer-press",
+  "match": "PRODUCT_LINE",
+  "retrievedAt": "2026-09-28",
+  "rights": "Samsung Newsroom press image; published for media use; no general license verified.",
+  "sourcePx": 3904
  },
  {
   "productId": "TK-SAMSUNG-THE-FRAME-LS03HE",
@@ -7350,48 +8484,6 @@
   "sourcePx": 1200
  },
  {
-  "productId": "TK-SONY-BRAVIA5",
-  "slug": "sony-bravia-5-mini-led",
-  "productName": "Sony BRAVIA 5 Mini LED 4K HDR Google TV",
-  "brand": "Sony",
-  "sourcePage": "https://electronics.sony.com/tv-video/televisions/all-tvs/p/k65xr50",
-  "assetUrl": "https://d1ncau8tqf99kp.cloudfront.net/converted/125726_original_local_1200x1050_v3_converted.webp",
-  "localAsset": "frontend/public/images/catalog/sony-bravia-5-mini-led-800.webp",
-  "sourceType": "manufacturer-product-page",
-  "match": "EXACT",
-  "retrievedAt": "2026-09-28",
-  "rights": "Official Sony Electronics US store product image (electronics.sony.com CDN); Sony has not granted a reuse license — rights not verified.",
-  "sourcePx": 1200
- },
- {
-  "productId": "TK-SONY-BRAVIA6-OLED",
-  "slug": "sony-bravia-6-oled",
-  "productName": "Sony BRAVIA 6 OLED 4K HDR Google TV (2026)",
-  "brand": "Sony",
-  "sourcePage": "https://electronics.sony.com/tv-video/televisions/all-tvs/p/k65a60",
-  "assetUrl": "https://d1ncau8tqf99kp.cloudfront.net/converted/156864_original_local_1200x1050_v3_converted.webp",
-  "localAsset": "frontend/public/images/catalog/sony-bravia-6-oled-800.webp",
-  "sourceType": "manufacturer-product-page",
-  "match": "EXACT",
-  "retrievedAt": "2026-09-28",
-  "rights": "Official Sony Electronics US store product image (electronics.sony.com CDN); Sony has not granted a reuse license — rights not verified.",
-  "sourcePx": 1200
- },
- {
-  "productId": "TK-SONY-BRAVIA7-II",
-  "slug": "sony-bravia-7-ii",
-  "productName": "Sony BRAVIA 7 II True RGB 4K HDR Google TV (2026)",
-  "brand": "Sony",
-  "sourcePage": "https://electronics.sony.com/tv-video/televisions/all-tvs/p/k65xr70m2",
-  "assetUrl": "https://d1ncau8tqf99kp.cloudfront.net/converted/154832_original_local_1200x1050_v3_converted.webp",
-  "localAsset": "frontend/public/images/catalog/sony-bravia-7-ii-800.webp",
-  "sourceType": "manufacturer-product-page",
-  "match": "EXACT",
-  "retrievedAt": "2026-09-28",
-  "rights": "Official Sony Electronics US store product image (electronics.sony.com CDN); Sony has not granted a reuse license — rights not verified.",
-  "sourcePx": 1200
- },
- {
   "productId": "TK-SONY-BRAVIA8-II",
   "slug": "sony-bravia-8-ii",
   "productName": "Sony BRAVIA 8 II QD-OLED 4K HDR Google TV",
@@ -7399,20 +8491,6 @@
   "sourcePage": "https://electronics.sony.com/tv-video/televisions/all-tvs/p/k65xr80m2",
   "assetUrl": "https://d1ncau8tqf99kp.cloudfront.net/converted/125820_original_local_1200x1050_v3_converted.webp",
   "localAsset": "frontend/public/images/catalog/sony-bravia-8-ii-800.webp",
-  "sourceType": "manufacturer-product-page",
-  "match": "EXACT",
-  "retrievedAt": "2026-09-28",
-  "rights": "Official Sony Electronics US store product image (electronics.sony.com CDN); Sony has not granted a reuse license — rights not verified.",
-  "sourcePx": 1200
- },
- {
-  "productId": "TK-SONY-BRAVIA9-II",
-  "slug": "sony-bravia-9-ii",
-  "productName": "Sony BRAVIA 9 II True RGB 4K HDR Google TV (2026)",
-  "brand": "Sony",
-  "sourcePage": "https://electronics.sony.com/tv-video/televisions/all-tvs/p/k65xr90m2",
-  "assetUrl": "https://d1ncau8tqf99kp.cloudfront.net/converted/154790_original_local_1200x1050_v3_converted.webp",
-  "localAsset": "frontend/public/images/catalog/sony-bravia-9-ii-800.webp",
   "sourceType": "manufacturer-product-page",
   "match": "EXACT",
   "retrievedAt": "2026-09-28",
@@ -7922,6 +9000,62 @@
   "retrievedAt": "2026-09-28",
   "rights": "Official Synology product image served from synology.com product page gallery; Synology has not granted a general reuse license — rights not verified.",
   "sourcePx": 935
+ },
+ {
+  "productId": "TK-TCL-QM7L",
+  "slug": "tcl-qm7l-sqd-mini-led",
+  "productName": "TCL QM7L SQD-Mini LED 4K Google TV",
+  "brand": "TCL",
+  "sourcePage": "https://us.tcl.com/products/qm7l-series-sqd-mini-led-4k-uhd-hdr-smart-tv-with-google-tv",
+  "assetUrl": "https://cdn.shopify.com/s/files/1/0687/7151/2385/files/55QM7L_3.png?width=1400",
+  "localAsset": "frontend/public/images/catalog/tcl-qm7l-sqd-mini-led-800.webp",
+  "sourceType": "manufacturer-product-page",
+  "match": "EXACT",
+  "retrievedAt": "2026-09-28",
+  "rights": "Official TCL US store product image (us.tcl.com Shopify CDN); TCL has not granted a reuse license — rights not verified.",
+  "sourcePx": 911
+ },
+ {
+  "productId": "TK-TCL-QM8L",
+  "slug": "tcl-qm8l-sqd-mini-led",
+  "productName": "TCL QM8L SQD-Mini LED 4K Google TV",
+  "brand": "TCL",
+  "sourcePage": "https://us.tcl.com/products/qm8l-series-sqd-mini-led-4k-uhd-hdr-smart-tv-with-google-tv",
+  "assetUrl": "https://cdn.shopify.com/s/files/1/0687/7151/2385/files/65-85QM8L_3.png?width=1400",
+  "localAsset": "frontend/public/images/catalog/tcl-qm8l-sqd-mini-led-800.webp",
+  "sourceType": "manufacturer-product-page",
+  "match": "EXACT",
+  "retrievedAt": "2026-09-28",
+  "rights": "Official TCL US store product image (us.tcl.com Shopify CDN); TCL has not granted a reuse license — rights not verified.",
+  "sourcePx": 1169
+ },
+ {
+  "productId": "TK-TCL-RM9L",
+  "slug": "tcl-rm9l-rgb-mini-led",
+  "productName": "TCL RM9L RGB-Mini LED 4K Google TV",
+  "brand": "TCL",
+  "sourcePage": "https://us.tcl.com/products/rm9l-series-4k-uhd-hdr-rgb-mini-led-smart-tv-with-google-tv",
+  "assetUrl": "https://cdn.shopify.com/s/files/1/0687/7151/2385/files/85-98RM9L_NFL_Angled-Left_HQ_1.png?width=1400",
+  "localAsset": "frontend/public/images/catalog/tcl-rm9l-rgb-mini-led-800.webp",
+  "sourceType": "manufacturer-product-page",
+  "match": "EXACT",
+  "retrievedAt": "2026-09-28",
+  "rights": "Official TCL US store product image (us.tcl.com Shopify CDN); TCL has not granted a reuse license — rights not verified.",
+  "sourcePx": 1171
+ },
+ {
+  "productId": "TK-TCL-X11L",
+  "slug": "tcl-x11l-sqd-mini-led",
+  "productName": "TCL X11L SQD-Mini LED 4K Google TV",
+  "brand": "TCL",
+  "sourcePage": "https://us.tcl.com/products/x11l-series-4k-uhd-hdr-sqd-mini-led-smart-tv-with-google-tv",
+  "assetUrl": "https://cdn.shopify.com/s/files/1/0687/7151/2385/files/85X11L_1.png?width=1400",
+  "localAsset": "frontend/public/images/catalog/tcl-x11l-sqd-mini-led-800.webp",
+  "sourceType": "manufacturer-product-page",
+  "match": "EXACT",
+  "retrievedAt": "2026-09-28",
+  "rights": "Official TCL US store product image (us.tcl.com Shopify CDN); TCL has not granted a reuse license — rights not verified.",
+  "sourcePx": 1220
  },
  {
   "productId": "TK-TERRAMASTER-F4425PRO",

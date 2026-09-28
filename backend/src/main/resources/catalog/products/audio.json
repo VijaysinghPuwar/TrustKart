@@ -734,7 +734,8 @@
    "specs": {
     "connectivity": "Thunderbolt 3",
     "inputs": "2 Unison mic/line preamps, Hi-Z instrument input, optical (ADAT/S/PDIF); 10 x 6 I/O",
-    "resolution": "24-bit/192 kHz"
+    "resolution": "24-bit/192 kHz",
+    "configurations": "DUO, Essentials+ bundle – $1,499 · DUO, Studio+ bundle – $1,899 · QUAD, Essentials+ bundle – $1,899 · QUAD, Studio+ bundle – $2,299"
    }
   },
   {
@@ -760,7 +761,8 @@
    "specs": {
     "connectivity": "Thunderbolt 3",
     "inputs": "4 Unison mic preamps, 2 Hi-Z inputs, optical (ADAT/S/PDIF); 12 x 18 I/O",
-    "resolution": "24-bit/192 kHz"
+    "resolution": "24-bit/192 kHz",
+    "configurations": "Essentials+ bundle – $2,499 · Studio+ bundle – $2,899"
    }
   },
   {
@@ -1099,6 +1101,118 @@
     "codecs": "SBC, AAC",
     "weightG": 316,
     "colors": "Liquid Black, Blue Fusion, Peach Blush, Soft Jade"
+   }
+  },
+  {
+   "sku": "TK-RODE-PODMIC-USB",
+   "slug": "rode-podmic-usb",
+   "name": "RØDE PodMic USB",
+   "brand": "RØDE",
+   "category": "microphones",
+   "price": "209.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    18,
+    5
+   ],
+   "featured": true,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "creator-workstations"
+   ],
+   "summary": "Broadcast dynamic microphone with both USB-C and XLR outputs, APHEX-powered onboard DSP and zero-latency headphone monitoring.",
+   "description": "PodMic USB is a broadcast-quality dynamic microphone with a high-power neodymium capsule and both XLR and USB-C outputs. Onboard DSP powered by APHEX includes VoxLab, high-pass filter, noise gate, compressor, Aural Exciter and Big Bottom, and it adds an internal pop filter and shockmount, an integrated swing mount and zero-latency headphone monitoring.",
+   "keywords": "rode podmic usb dynamic podcast microphone usb-c xlr aphex streaming",
+   "specs": {
+    "connection": "USB-C and XLR",
+    "micType": "Dynamic",
+    "colors": "Black, White"
+   }
+  },
+  {
+   "sku": "TK-RODE-NT-USB-PLUS",
+   "slug": "rode-nt-usb-plus",
+   "name": "RØDE NT-USB+",
+   "brand": "RØDE",
+   "category": "microphones",
+   "price": "179.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    22,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [],
+   "summary": "USB-C studio condenser microphone with a tight cardioid capsule, Revolution Preamp, APHEX processing and zero-latency headphone output.",
+   "description": "NT-USB+ is a professional USB microphone with a studio-grade condenser capsule and tight cardioid polar pattern, an ultra-low-noise Revolution Preamp and high-resolution conversion. APHEX processing (compressor, noise gate, high-pass filter, Aural Exciter and Big Bottom) is available in RØDE software, and a high-power headphone output provides zero-latency monitoring.",
+   "keywords": "rode nt-usb+ plus usb condenser microphone streaming podcast",
+   "specs": {
+    "connection": "USB-C",
+    "micType": "Condenser",
+    "polarPattern": "Cardioid",
+    "colors": "Black"
+   }
+  },
+  {
+   "sku": "TK-RODE-NT1-GEN5",
+   "slug": "rode-nt1-5th-generation",
+   "name": "RØDE NT1 5th Generation",
+   "brand": "RØDE",
+   "category": "microphones",
+   "price": "249.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    29,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "creator-workstations"
+   ],
+   "summary": "Large-diaphragm cardioid condenser with Dual Connect XLR and USB-C outputs, 32-bit float conversion and 4 dBA self-noise.",
+   "description": "The NT1 5th Generation is a large-diaphragm cardioid condenser built around a 1-inch HF6 capsule with 4 dBA self-noise. Its Dual Connect output offers both XLR and USB-C, with 32-bit float digital output up to 192 kHz and APHEX onboard processing. A shock mount, pop filter, XLR cable and USB-C cable are included.",
+   "keywords": "rode nt1 5th gen condenser studio microphone 32-bit float usb xlr vocal",
+   "specs": {
+    "connection": "XLR and USB-C (Dual Connect)",
+    "micType": "Large-diaphragm condenser (1-in HF6 capsule)",
+    "polarPattern": "Cardioid",
+    "colors": "Black, Silver"
+   }
+  },
+  {
+   "sku": "TK-RODE-RODECASTER-PRO-II",
+   "slug": "rode-rodecaster-pro-ii",
+   "name": "RØDE RØDECaster Pro II",
+   "brand": "RØDE",
+   "category": "studio-audio",
+   "price": "699.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    24,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "creator-workstations"
+   ],
+   "summary": "Podcast and streaming production studio with four Revolution Preamp combo inputs, dual USB-C, Bluetooth, a 5.5-inch touchscreen and six faders.",
+   "description": "RØDECaster Pro II is an all-in-one audio production console with four Neutrik combo inputs on Revolution Preamps (-131.5 dBV EIN, 76 dB gain), four headphone outputs and balanced line outputs. Dual USB-C interfaces connect two computers or mobile devices, Bluetooth and a built-in Series IV wireless receiver add sources, and a 5.5-inch haptic touchscreen, six physical faders and eight SMART pads handle control and multitrack recording.",
+   "keywords": "rodecaster pro ii podcast mixer audio interface streaming rode",
+   "specs": {
+    "connectivity": "Dual USB-C, Bluetooth, built-in RØDE Series IV wireless receiver",
+    "inputs": "4 Neutrik combo inputs (Revolution Preamps); 4 headphone outputs; balanced 1/4-in line outputs",
+    "colors": "Black, White"
    }
   }
  ]
