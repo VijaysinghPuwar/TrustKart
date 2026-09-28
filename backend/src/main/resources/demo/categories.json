@@ -1,0 +1,352 @@
+{
+  "categories": [
+    { "slug": "computers", "name": "Desktops & Workstations", "description": "Gaming desktops, creator and AI workstations, business PCs and mini PCs.",
+      "specs": [
+        { "key": "cpu", "label": "Processor", "type": "TEXT", "group": "Performance", "filterable": false },
+        { "key": "cpuBrand", "label": "CPU brand", "type": "TEXT", "group": "Performance", "filterable": true, "comparable": false },
+        { "key": "gpu", "label": "Graphics", "type": "TEXT", "group": "Performance" },
+        { "key": "ramGb", "label": "Memory", "type": "NUMBER", "unit": "GB", "group": "Performance", "filterable": true },
+        { "key": "storageTb", "label": "Storage", "type": "NUMBER", "unit": "TB", "group": "Storage", "filterable": true },
+        { "key": "os", "label": "Operating system", "type": "TEXT", "group": "Software", "filterable": true },
+        { "key": "networking", "label": "Networking", "type": "TEXT", "group": "Connectivity" },
+        { "key": "psuW", "label": "Power supply", "type": "NUMBER", "unit": "W", "group": "Power" }
+      ],
+      "children": [
+        { "slug": "gaming-desktops", "name": "Gaming desktops" },
+        { "slug": "workstations", "name": "Creator & AI workstations" },
+        { "slug": "mini-pcs", "name": "Mini PCs & business desktops" },
+        { "slug": "all-in-ones", "name": "All-in-one PCs",
+          "specs": [ { "key": "displayIn", "label": "Display size", "type": "NUMBER", "unit": "in", "group": "Display" } ] }
+      ] },
+    { "slug": "laptops", "name": "Laptops", "description": "Gaming, business, developer and mobile workstation laptops.",
+      "specs": [
+        { "key": "cpu", "label": "Processor", "type": "TEXT", "group": "Performance" },
+        { "key": "cpuBrand", "label": "CPU brand", "type": "TEXT", "group": "Performance", "filterable": true, "comparable": false },
+        { "key": "gpu", "label": "Graphics", "type": "TEXT", "group": "Performance" },
+        { "key": "ramGb", "label": "Memory", "type": "NUMBER", "unit": "GB", "group": "Performance", "filterable": true },
+        { "key": "storageTb", "label": "Storage", "type": "NUMBER", "unit": "TB", "group": "Storage", "filterable": true },
+        { "key": "displayIn", "label": "Screen size", "type": "NUMBER", "unit": "in", "group": "Display", "filterable": true },
+        { "key": "display", "label": "Display", "type": "TEXT", "group": "Display" },
+        { "key": "batteryWh", "label": "Battery", "type": "NUMBER", "unit": "Wh", "group": "Portability" },
+        { "key": "weightKg", "label": "Weight", "type": "NUMBER", "unit": "kg", "group": "Portability", "filterable": true },
+        { "key": "os", "label": "Operating system", "type": "TEXT", "group": "Software", "filterable": true }
+      ],
+      "children": [
+        { "slug": "gaming-laptops", "name": "Gaming laptops" },
+        { "slug": "business-laptops", "name": "Business laptops" },
+        { "slug": "developer-laptops", "name": "Developer laptops & ultrabooks" },
+        { "slug": "workstation-laptops", "name": "Mobile workstations" }
+      ] },
+    { "slug": "components", "name": "PC Components", "description": "CPUs, graphics cards, motherboards, memory, SSDs, power supplies, cases and cooling.",
+      "children": [
+        { "slug": "cpus", "name": "Processors (CPUs)",
+          "specs": [
+            { "key": "cores", "label": "Cores", "type": "NUMBER", "group": "Cores", "filterable": true },
+            { "key": "threads", "label": "Threads", "type": "NUMBER", "group": "Cores" },
+            { "key": "boostGhz", "label": "Max boost clock", "type": "NUMBER", "unit": "GHz", "group": "Clocks" },
+            { "key": "socket", "label": "Socket", "type": "TEXT", "group": "Platform", "filterable": true },
+            { "key": "architecture", "label": "Architecture", "type": "TEXT", "group": "Platform" },
+            { "key": "tdpW", "label": "TDP", "type": "NUMBER", "unit": "W", "group": "Power", "filterable": true },
+            { "key": "memoryType", "label": "Memory support", "type": "TEXT", "group": "Platform" },
+            { "key": "integratedGraphics", "label": "Integrated graphics", "type": "BOOLEAN", "group": "Platform", "filterable": true }
+          ] },
+        { "slug": "gpus", "name": "Graphics cards (GPUs)",
+          "specs": [
+            { "key": "chipset", "label": "GPU", "type": "TEXT", "group": "GPU", "filterable": true },
+            { "key": "architecture", "label": "Architecture", "type": "TEXT", "group": "GPU" },
+            { "key": "vramGb", "label": "Video memory", "type": "NUMBER", "unit": "GB", "group": "Memory", "filterable": true },
+            { "key": "memoryType", "label": "Memory type", "type": "TEXT", "group": "Memory", "filterable": true },
+            { "key": "interface", "label": "Interface", "type": "TEXT", "group": "Platform", "filterable": true },
+            { "key": "boardPowerW", "label": "Board power", "type": "NUMBER", "unit": "W", "group": "Power" },
+            { "key": "recommendedPsuW", "label": "Recommended PSU", "type": "NUMBER", "unit": "W", "group": "Power" },
+            { "key": "lengthMm", "label": "Card length", "type": "NUMBER", "unit": "mm", "group": "Dimensions" },
+            { "key": "slots", "label": "Slot width", "type": "NUMBER", "group": "Dimensions" }
+          ] },
+        { "slug": "motherboards", "name": "Motherboards",
+          "specs": [
+            { "key": "socket", "label": "Socket", "type": "TEXT", "group": "Platform", "filterable": true },
+            { "key": "chipset", "label": "Chipset", "type": "TEXT", "group": "Platform", "filterable": true },
+            { "key": "formFactor", "label": "Form factor", "type": "TEXT", "group": "Platform", "filterable": true },
+            { "key": "memoryType", "label": "Memory type", "type": "TEXT", "group": "Memory", "filterable": true },
+            { "key": "memorySlots", "label": "Memory slots", "type": "NUMBER", "group": "Memory" },
+            { "key": "maxMemoryGb", "label": "Max memory", "type": "NUMBER", "unit": "GB", "group": "Memory" },
+            { "key": "m2Slots", "label": "M.2 slots", "type": "NUMBER", "group": "Storage" },
+            { "key": "wifi", "label": "Wi-Fi", "type": "TEXT", "group": "Connectivity" },
+            { "key": "lan", "label": "Ethernet", "type": "TEXT", "group": "Connectivity" }
+          ] },
+        { "slug": "memory", "name": "Memory (RAM)",
+          "specs": [
+            { "key": "capacityGb", "label": "Total capacity", "type": "NUMBER", "unit": "GB", "group": "Memory", "filterable": true },
+            { "key": "modules", "label": "Modules", "type": "TEXT", "group": "Memory" },
+            { "key": "memoryType", "label": "Type", "type": "TEXT", "group": "Memory", "filterable": true },
+            { "key": "speedMts", "label": "Speed", "type": "NUMBER", "unit": "MT/s", "group": "Performance", "filterable": true },
+            { "key": "casLatency", "label": "CAS latency", "type": "NUMBER", "group": "Performance" },
+            { "key": "ecc", "label": "ECC", "type": "BOOLEAN", "group": "Memory", "filterable": true }
+          ] },
+        { "slug": "ssds", "name": "SSDs",
+          "specs": [
+            { "key": "capacityTb", "label": "Capacity", "type": "NUMBER", "unit": "TB", "group": "Storage", "filterable": true },
+            { "key": "interface", "label": "Interface", "type": "TEXT", "group": "Storage", "filterable": true },
+            { "key": "formFactor", "label": "Form factor", "type": "TEXT", "group": "Storage", "filterable": true },
+            { "key": "readMbps", "label": "Sequential read", "type": "NUMBER", "unit": "MB/s", "group": "Performance" },
+            { "key": "writeMbps", "label": "Sequential write", "type": "NUMBER", "unit": "MB/s", "group": "Performance" },
+            { "key": "enduranceTbw", "label": "Endurance", "type": "NUMBER", "unit": "TBW", "group": "Reliability" }
+          ] },
+        { "slug": "power-supplies", "name": "Power supplies",
+          "specs": [
+            { "key": "wattage", "label": "Wattage", "type": "NUMBER", "unit": "W", "group": "Power", "filterable": true },
+            { "key": "efficiency", "label": "Efficiency rating", "type": "TEXT", "group": "Power", "filterable": true },
+            { "key": "modular", "label": "Modularity", "type": "TEXT", "group": "Design" },
+            { "key": "atxVersion", "label": "ATX version", "type": "TEXT", "group": "Design" },
+            { "key": "formFactor", "label": "Form factor", "type": "TEXT", "group": "Design" }
+          ] },
+        { "slug": "cases", "name": "PC cases",
+          "specs": [
+            { "key": "caseType", "label": "Type", "type": "TEXT", "group": "Design", "filterable": true },
+            { "key": "motherboardSupport", "label": "Motherboard support", "type": "TEXT", "group": "Compatibility" },
+            { "key": "maxGpuLengthMm", "label": "Max GPU length", "type": "NUMBER", "unit": "mm", "group": "Compatibility" },
+            { "key": "maxCoolerHeightMm", "label": "Max CPU cooler height", "type": "NUMBER", "unit": "mm", "group": "Compatibility" },
+            { "key": "radiatorSupport", "label": "Radiator support", "type": "TEXT", "group": "Compatibility" }
+          ] },
+        { "slug": "cooling", "name": "Cooling & thermal",
+          "specs": [
+            { "key": "coolerType", "label": "Type", "type": "TEXT", "group": "Cooling", "filterable": true },
+            { "key": "sockets", "label": "Socket support", "type": "TEXT", "group": "Compatibility" },
+            { "key": "heightMm", "label": "Height", "type": "NUMBER", "unit": "mm", "group": "Dimensions" },
+            { "key": "radiatorMm", "label": "Radiator size", "type": "NUMBER", "unit": "mm", "group": "Dimensions" },
+            { "key": "noiseDba", "label": "Max noise", "type": "NUMBER", "unit": "dB(A)", "group": "Acoustics" }
+          ] }
+      ] },
+    { "slug": "servers", "name": "Servers", "description": "Rack and tower servers, AI/GPU servers, server CPUs, ECC memory, RAID and rack infrastructure.",
+      "children": [
+        { "slug": "rack-servers", "name": "Rack & GPU servers",
+          "specs": [
+            { "key": "rackUnits", "label": "Rack units", "type": "NUMBER", "unit": "U", "group": "Chassis", "filterable": true },
+            { "key": "cpu", "label": "Processors", "type": "TEXT", "group": "Compute" },
+            { "key": "socketCount", "label": "CPU sockets", "type": "NUMBER", "group": "Compute", "filterable": true },
+            { "key": "totalCores", "label": "Total cores", "type": "NUMBER", "group": "Compute", "filterable": true },
+            { "key": "memoryGb", "label": "Memory installed", "type": "NUMBER", "unit": "GB", "group": "Memory", "filterable": true },
+            { "key": "maxMemoryTb", "label": "Max memory", "type": "NUMBER", "unit": "TB", "group": "Memory" },
+            { "key": "ecc", "label": "ECC memory", "type": "BOOLEAN", "group": "Memory" },
+            { "key": "gpus", "label": "Accelerators", "type": "TEXT", "group": "Compute" },
+            { "key": "driveBays", "label": "Drive bays", "type": "NUMBER", "group": "Storage", "filterable": true },
+            { "key": "raid", "label": "RAID", "type": "TEXT", "group": "Storage" },
+            { "key": "network", "label": "Network", "type": "TEXT", "group": "Connectivity" },
+            { "key": "psu", "label": "Power supplies", "type": "TEXT", "group": "Power" }
+          ] },
+        { "slug": "tower-servers", "name": "Tower servers",
+          "specs": [
+            { "key": "cpu", "label": "Processor", "type": "TEXT", "group": "Compute" },
+            { "key": "socketCount", "label": "CPU sockets", "type": "NUMBER", "group": "Compute" },
+            { "key": "memoryGb", "label": "Memory installed", "type": "NUMBER", "unit": "GB", "group": "Memory" },
+            { "key": "ecc", "label": "ECC memory", "type": "BOOLEAN", "group": "Memory" },
+            { "key": "driveBays", "label": "Drive bays", "type": "NUMBER", "group": "Storage" },
+            { "key": "raid", "label": "RAID", "type": "TEXT", "group": "Storage" },
+            { "key": "network", "label": "Network", "type": "TEXT", "group": "Connectivity" },
+            { "key": "psu", "label": "Power supplies", "type": "TEXT", "group": "Power" }
+          ] },
+        { "slug": "server-cpus", "name": "Server processors",
+          "specs": [
+            { "key": "cores", "label": "Cores", "type": "NUMBER", "group": "Cores", "filterable": true },
+            { "key": "threads", "label": "Threads", "type": "NUMBER", "group": "Cores" },
+            { "key": "baseGhz", "label": "Base clock", "type": "NUMBER", "unit": "GHz", "group": "Clocks" },
+            { "key": "boostGhz", "label": "Max boost clock", "type": "NUMBER", "unit": "GHz", "group": "Clocks" },
+            { "key": "socket", "label": "Socket", "type": "TEXT", "group": "Platform", "filterable": true },
+            { "key": "tdpW", "label": "TDP", "type": "NUMBER", "unit": "W", "group": "Power" },
+            { "key": "memoryChannels", "label": "Memory channels", "type": "NUMBER", "group": "Platform" }
+          ] },
+        { "slug": "server-memory", "name": "Server memory",
+          "specs": [
+            { "key": "capacityGb", "label": "Capacity", "type": "NUMBER", "unit": "GB", "group": "Memory", "filterable": true },
+            { "key": "memoryType", "label": "Type", "type": "TEXT", "group": "Memory", "filterable": true },
+            { "key": "speedMts", "label": "Speed", "type": "NUMBER", "unit": "MT/s", "group": "Memory" },
+            { "key": "ecc", "label": "ECC", "type": "BOOLEAN", "group": "Memory" },
+            { "key": "registered", "label": "Registered (RDIMM)", "type": "BOOLEAN", "group": "Memory" }
+          ] },
+        { "slug": "raid-controllers", "name": "RAID & storage controllers",
+          "specs": [
+            { "key": "ports", "label": "Internal ports", "type": "NUMBER", "group": "Storage" },
+            { "key": "raidLevels", "label": "RAID levels", "type": "TEXT", "group": "Storage" },
+            { "key": "cacheGb", "label": "Cache", "type": "NUMBER", "unit": "GB", "group": "Performance" },
+            { "key": "interface", "label": "Host interface", "type": "TEXT", "group": "Platform" }
+          ] },
+        { "slug": "enterprise-ssds", "name": "Enterprise SSDs",
+          "specs": [
+            { "key": "capacityTb", "label": "Capacity", "type": "NUMBER", "unit": "TB", "group": "Storage", "filterable": true },
+            { "key": "interface", "label": "Interface", "type": "TEXT", "group": "Storage", "filterable": true },
+            { "key": "formFactor", "label": "Form factor", "type": "TEXT", "group": "Storage" },
+            { "key": "readMbps", "label": "Sequential read", "type": "NUMBER", "unit": "MB/s", "group": "Performance" },
+            { "key": "dwpd", "label": "Endurance", "type": "NUMBER", "unit": "DWPD", "group": "Reliability" }
+          ] },
+        { "slug": "racks-infrastructure", "name": "Racks & infrastructure",
+          "specs": [
+            { "key": "rackUnits", "label": "Height", "type": "NUMBER", "unit": "U", "group": "Chassis" },
+            { "key": "rackType", "label": "Type", "type": "TEXT", "group": "Chassis" },
+            { "key": "loadCapacityKg", "label": "Load capacity", "type": "NUMBER", "unit": "kg", "group": "Chassis" }
+          ] }
+      ] },
+    { "slug": "networking", "name": "Networking", "description": "Routers, firewalls, managed switches, Wi-Fi, adapters, optics and cabling.",
+      "specs": [
+        { "key": "ports", "label": "Ports", "type": "TEXT", "group": "Connectivity" },
+        { "key": "maxSpeedGbps", "label": "Fastest port", "type": "NUMBER", "unit": "Gbps", "group": "Connectivity", "filterable": true },
+        { "key": "managed", "label": "Managed", "type": "BOOLEAN", "group": "Management", "filterable": true },
+        { "key": "rackMountable", "label": "Rack mountable", "type": "BOOLEAN", "group": "Chassis", "filterable": true }
+      ],
+      "children": [
+        { "slug": "routers-gateways", "name": "Routers & gateways",
+          "specs": [ { "key": "wifiStandard", "label": "Wi-Fi", "type": "TEXT", "group": "Wireless", "filterable": true } ] },
+        { "slug": "firewalls", "name": "Firewalls",
+          "specs": [ { "key": "firewallThroughputGbps", "label": "Firewall throughput", "type": "NUMBER", "unit": "Gbps", "group": "Performance" } ] },
+        { "slug": "switches", "name": "Managed switches",
+          "specs": [
+            { "key": "poe", "label": "PoE budget", "type": "NUMBER", "unit": "W", "group": "Power", "filterable": true },
+            { "key": "switchingCapacityGbps", "label": "Switching capacity", "type": "NUMBER", "unit": "Gbps", "group": "Performance" }
+          ] },
+        { "slug": "access-points", "name": "Wi-Fi access points",
+          "specs": [ { "key": "wifiStandard", "label": "Wi-Fi", "type": "TEXT", "group": "Wireless", "filterable": true } ] },
+        { "slug": "network-adapters", "name": "Network adapters & optics",
+          "specs": [ { "key": "interface", "label": "Host interface", "type": "TEXT", "group": "Platform" } ] },
+        { "slug": "cables", "name": "Cables" }
+      ] },
+    { "slug": "storage", "name": "Storage", "description": "NAS, hard drives, external storage and backup.",
+      "specs": [
+        { "key": "capacityTb", "label": "Capacity", "type": "NUMBER", "unit": "TB", "group": "Storage", "filterable": true },
+        { "key": "interface", "label": "Interface", "type": "TEXT", "group": "Storage", "filterable": true }
+      ],
+      "children": [
+        { "slug": "nas", "name": "NAS",
+          "specs": [
+            { "key": "bays", "label": "Drive bays", "type": "NUMBER", "group": "Storage", "filterable": true },
+            { "key": "cpu", "label": "Processor", "type": "TEXT", "group": "Compute" },
+            { "key": "ramGb", "label": "Memory", "type": "NUMBER", "unit": "GB", "group": "Compute" },
+            { "key": "network", "label": "Network", "type": "TEXT", "group": "Connectivity" },
+            { "key": "rackMountable", "label": "Rack mountable", "type": "BOOLEAN", "group": "Chassis", "filterable": true }
+          ] },
+        { "slug": "hard-drives", "name": "Hard drives",
+          "specs": [
+            { "key": "rpm", "label": "Spindle speed", "type": "NUMBER", "unit": "RPM", "group": "Performance" },
+            { "key": "cacheMb", "label": "Cache", "type": "NUMBER", "unit": "MB", "group": "Performance" },
+            { "key": "workloadTbYr", "label": "Workload rating", "type": "NUMBER", "unit": "TB/yr", "group": "Reliability" }
+          ] },
+        { "slug": "external-storage", "name": "External & portable" },
+        { "slug": "backup", "name": "Backup & tape" }
+      ] },
+    { "slug": "printers", "name": "Printers", "description": "Laser, multifunction, label and enterprise printers.",
+      "specs": [
+        { "key": "technology", "label": "Technology", "type": "TEXT", "group": "Printing", "filterable": true },
+        { "key": "color", "label": "Color printing", "type": "BOOLEAN", "group": "Printing", "filterable": true },
+        { "key": "ppm", "label": "Print speed", "type": "NUMBER", "unit": "ppm", "group": "Printing", "filterable": true },
+        { "key": "duplex", "label": "Automatic duplex", "type": "BOOLEAN", "group": "Printing", "filterable": true },
+        { "key": "functions", "label": "Functions", "type": "TEXT", "group": "Printing" },
+        { "key": "connectivity", "label": "Connectivity", "type": "TEXT", "group": "Connectivity" }
+      ],
+      "children": [
+        { "slug": "laser-printers", "name": "Laser printers" },
+        { "slug": "multifunction-printers", "name": "Multifunction & enterprise" },
+        { "slug": "label-printers", "name": "Label printers" },
+        { "slug": "inkjet-printers", "name": "Inkjet & tank printers" }
+      ] },
+    { "slug": "monitors", "name": "Monitors", "description": "Gaming, 4K, professional color and ultrawide displays.",
+      "specs": [
+        { "key": "sizeIn", "label": "Screen size", "type": "NUMBER", "unit": "in", "group": "Display", "filterable": true },
+        { "key": "resolution", "label": "Resolution", "type": "TEXT", "group": "Display", "filterable": true },
+        { "key": "refreshHz", "label": "Refresh rate", "type": "NUMBER", "unit": "Hz", "group": "Display", "filterable": true },
+        { "key": "panel", "label": "Panel type", "type": "TEXT", "group": "Display", "filterable": true },
+        { "key": "hdr", "label": "HDR", "type": "TEXT", "group": "Display" },
+        { "key": "colorGamut", "label": "Color gamut", "type": "TEXT", "group": "Color" },
+        { "key": "inputs", "label": "Inputs", "type": "TEXT", "group": "Connectivity" },
+        { "key": "usbCPowerW", "label": "USB-C power delivery", "type": "NUMBER", "unit": "W", "group": "Connectivity" }
+      ],
+      "children": [
+        { "slug": "gaming-monitors", "name": "Gaming monitors" },
+        { "slug": "professional-monitors", "name": "Professional & 4K" },
+        { "slug": "ultrawide-monitors", "name": "Ultrawide" },
+        { "slug": "office-monitors", "name": "Office monitors" }
+      ] },
+    { "slug": "peripherals", "name": "Peripherals", "description": "Keyboards, mice, webcams, headsets, microphones and speakers.",
+      "specs": [
+        { "key": "connection", "label": "Connection", "type": "TEXT", "group": "Connectivity", "filterable": true }
+      ],
+      "children": [
+        { "slug": "keyboards", "name": "Keyboards",
+          "specs": [
+            { "key": "layout", "label": "Layout", "type": "TEXT", "group": "Design", "filterable": true },
+            { "key": "switchType", "label": "Switches", "type": "TEXT", "group": "Typing", "filterable": true },
+            { "key": "mechanical", "label": "Mechanical", "type": "BOOLEAN", "group": "Typing", "filterable": true },
+            { "key": "quiet", "label": "Quiet switches", "type": "BOOLEAN", "group": "Typing", "filterable": true },
+            { "key": "hotSwappable", "label": "Hot-swappable", "type": "BOOLEAN", "group": "Typing" },
+            { "key": "macSupport", "label": "Mac layout support", "type": "BOOLEAN", "group": "Compatibility", "filterable": true }
+          ] },
+        { "slug": "mice", "name": "Mice",
+          "specs": [
+            { "key": "sensorDpi", "label": "Max DPI", "type": "NUMBER", "group": "Performance" },
+            { "key": "weightG", "label": "Weight", "type": "NUMBER", "unit": "g", "group": "Design" },
+            { "key": "buttons", "label": "Buttons", "type": "NUMBER", "group": "Design" }
+          ] },
+        { "slug": "webcams", "name": "Webcams",
+          "specs": [
+            { "key": "resolution", "label": "Max resolution", "type": "TEXT", "group": "Video", "filterable": true },
+            { "key": "fps", "label": "Frame rate", "type": "NUMBER", "unit": "fps", "group": "Video" },
+            { "key": "privacyShutter", "label": "Privacy shutter", "type": "BOOLEAN", "group": "Privacy", "filterable": true }
+          ] },
+        { "slug": "headsets", "name": "Headphones & headsets",
+          "specs": [
+            { "key": "noiseCancelling", "label": "Active noise cancelling", "type": "BOOLEAN", "group": "Audio", "filterable": true },
+            { "key": "batteryHours", "label": "Battery life", "type": "NUMBER", "unit": "h", "group": "Battery" },
+            { "key": "boomMic", "label": "Boom microphone", "type": "BOOLEAN", "group": "Audio" }
+          ] },
+        { "slug": "microphones", "name": "Microphones",
+          "specs": [
+            { "key": "micType", "label": "Capsule", "type": "TEXT", "group": "Audio" },
+            { "key": "polarPattern", "label": "Polar pattern", "type": "TEXT", "group": "Audio" }
+          ] },
+        { "slug": "speakers", "name": "Speakers",
+          "specs": [ { "key": "powerW", "label": "Output power", "type": "NUMBER", "unit": "W", "group": "Audio" } ] }
+      ] },
+    { "slug": "security-power", "name": "Security & Power", "description": "Hardware security keys, cameras, NVRs and UPS battery backup.",
+      "children": [
+        { "slug": "security-keys", "name": "Hardware security keys",
+          "specs": [
+            { "key": "connector", "label": "Connector", "type": "TEXT", "group": "Hardware", "filterable": true },
+            { "key": "nfc", "label": "NFC", "type": "BOOLEAN", "group": "Hardware", "filterable": true },
+            { "key": "protocols", "label": "Protocols", "type": "TEXT", "group": "Security" }
+          ] },
+        { "slug": "security-cameras", "name": "Security cameras & NVRs",
+          "specs": [
+            { "key": "resolution", "label": "Resolution", "type": "TEXT", "group": "Video" },
+            { "key": "power", "label": "Power", "type": "TEXT", "group": "Power" },
+            { "key": "localStorage", "label": "Local recording", "type": "TEXT", "group": "Storage" },
+            { "key": "subscriptionRequired", "label": "Subscription required", "type": "BOOLEAN", "group": "Service", "filterable": true }
+          ] },
+        { "slug": "ups", "name": "UPS & battery backup",
+          "specs": [
+            { "key": "capacityVa", "label": "Capacity", "type": "NUMBER", "unit": "VA", "group": "Power", "filterable": true },
+            { "key": "outputW", "label": "Output", "type": "NUMBER", "unit": "W", "group": "Power" },
+            { "key": "waveform", "label": "Output waveform", "type": "TEXT", "group": "Power" },
+            { "key": "rackMountable", "label": "Rack mountable", "type": "BOOLEAN", "group": "Chassis", "filterable": true },
+            { "key": "outlets", "label": "Outlets", "type": "NUMBER", "group": "Power" }
+          ] }
+      ] },
+    { "slug": "more-tech", "name": "Tablets, VR & More", "description": "Tablets, docks, cables, VR headsets and projectors.",
+      "children": [
+        { "slug": "tablets", "name": "Tablets",
+          "specs": [
+            { "key": "chip", "label": "Chip", "type": "TEXT", "group": "Performance" },
+            { "key": "storageGb", "label": "Storage", "type": "NUMBER", "unit": "GB", "group": "Storage" },
+            { "key": "displayIn", "label": "Display", "type": "NUMBER", "unit": "in", "group": "Display" }
+          ] },
+        { "slug": "docks-adapters", "name": "Docks, adapters & cables",
+          "specs": [
+            { "key": "interface", "label": "Interface", "type": "TEXT", "group": "Connectivity" },
+            { "key": "powerDeliveryW", "label": "Power delivery", "type": "NUMBER", "unit": "W", "group": "Power" }
+          ] },
+        { "slug": "vr", "name": "VR headsets",
+          "specs": [ { "key": "storageGb", "label": "Storage", "type": "NUMBER", "unit": "GB", "group": "Storage" } ] },
+        { "slug": "projectors", "name": "Projectors",
+          "specs": [
+            { "key": "resolution", "label": "Resolution", "type": "TEXT", "group": "Display" },
+            { "key": "brightnessLumens", "label": "Brightness", "type": "NUMBER", "unit": "lm", "group": "Display" }
+          ] }
+      ] }
+  ]
+}
