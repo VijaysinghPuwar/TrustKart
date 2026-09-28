@@ -60,6 +60,17 @@ jobs:
       - name: Audit production dependencies (high and critical only)
         run: npm audit --omit=dev --audit-level=high
 
+  images:
+    name: Product image validation
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7
+      - uses: actions/setup-python@v6
+        with:
+          python-version: '3.13'
+      - name: Every product has a real, attributed image
+        run: python3 scripts/validate_images.py
+
   docker:
     name: Backend image builds
     runs-on: ubuntu-latest
