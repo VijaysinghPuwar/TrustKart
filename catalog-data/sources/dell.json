@@ -1,0 +1,2289 @@
+{
+  "meta": {
+    "notes": "Dell and Alienware current lineup (dell.com US), researched 2026-09-28: 2026 XPS relaunch, Dell / Dell Plus, Dell Pro (Premium, 7 Series, Plus), Dell Pro Max and Dell Pro Precision mobile and tower workstations, Dell Pro Max with GB10/GB300, Alienware Area-51/Aurora, Alienware/UltraSharp/Dell Pro monitors, Dell Pro Thunderbolt 5 docks and 17G PowerEdge rack, tower and XE AI servers. PC prices are the dell.com price of the pre-configured model shown on each product page (specs describe that configuration); 'build your own' starting prices are listed in variants where Dell shows one. Monitor and dock prices come from dell.com listing pages when the product page did not render a price. PowerEdge R/T prices are dell.com 'Starting at' configure-to-order prices; XE AI servers and the Pro Max GB300 are quote-only, so their prices are estimates. Images are dell.com product gallery images from i.dell.com (rights not verified)."
+  },
+  "products": [
+    {
+      "sku": "TK-DELL-XPS13-DX13260",
+      "slug": "dell-xps-13-dx13260",
+      "name": "Dell XPS 13 Laptop (DX13260)",
+      "brand": "Dell",
+      "category": "premium-laptops",
+      "price": "799.99",
+      "priceBasis": "msrp",
+      "priceSource": "https://www.dell.com/en-us/shop/laptop-computers/spd/xps13dx13260",
+      "priceAsOf": "2026-09-28",
+      "priceNote": "Dell.com US price of the pre-configured model shown on the product page (specs describe this configuration). Build-your-own configurations start at $699.99.",
+      "releaseYear": 2026,
+      "summary": "13.4-inch 2.5K touch XPS 13 with a Series 3 Intel Core 5 320 processor, CNC aluminum chassis and a 2.2 lb starting weight.",
+      "description": "The 2026 XPS 13 (model DX13260) pairs a 13.4-inch 2.5K (2560x1600) 30-120Hz touch display rated at 500 nits with Intel Series 3 processors. The featured configuration uses an Intel Core 5 320 (6 cores, up to 4.6 GHz), 8 GB LPDDR5x memory and a 512 GB SSD in a CNC aluminum chassis finished in Sky. Dell lists a 52 Whr battery, Intel Wi-Fi 7 with Bluetooth 6.0 and a starting weight of 2.2 lb (1 kg).",
+      "keywords": "xps 13 ultrabook thin light intel series 3 touch 2.5k dx13260",
+      "specs": {
+        "cpu": "Intel Core 5 320 (Series 3, 6 cores, up to 4.6 GHz)",
+        "cpuBrand": "Intel",
+        "gpu": "Intel Graphics",
+        "ramGb": 8,
+        "storageTb": 0.512,
+        "displayIn": 13.4,
+        "display": "13.4\" 2.5K (2560x1600) touch, 30-120Hz, 500 nits, InfinityEdge",
+        "batteryWh": 52,
+        "weightKg": 1.0,
+        "os": "Windows 11 Home",
+        "ports": "2x USB-C (Thunderbolt 4 with DisplayPort 2.1 and Power Delivery on Intel Core Ultra configurations)",
+        "wireless": "Intel Wi-Fi 7 BE213 2x2 + Bluetooth 6.0"
+      },
+      "variants": [
+        {
+          "label": "Build your own (starting configuration)",
+          "price": "699.99"
+        },
+        {
+          "label": "Intel Core 5 320 / 8 GB / 512 GB (featured)",
+          "price": "799.99"
+        }
+      ],
+      "colors": [
+        "Sky"
+      ],
+      "collections": [
+        "premium-laptops"
+      ],
+      "featured": false,
+      "sources": {
+        "product": "https://www.dell.com/en-us/shop/laptop-computers/spd/xps13dx13260",
+        "retrievedAt": "2026-09-28"
+      },
+      "image": {
+        "url": "https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/notebooks/xps-notebooks/xps-13-dx13260/media-gallery/sky/laptop-xps-13-sky-dx13260-silver-gallery-1.psd?fmt=png-alpha&pscan=auto&scl=1&wid=1400&qlt=100,0&resMode=sharp2",
+        "page": "https://www.dell.com/en-us/shop/laptop-computers/spd/xps13dx13260",
+        "sourceType": "manufacturer-product-page",
+        "rights": "Official Dell product-page gallery image (i.dell.com); Dell has not granted a reuse license - rights not verified.",
+        "credit": "Dell Technologies",
+        "alt": "Dell XPS 13 DX13260 laptop in Sky, opened, front view of the 13.4-inch display and keyboard",
+        "match": "EXACT"
+      }
+    },
+    {
+      "sku": "TK-DELL-XPS14-DA14260",
+      "slug": "dell-xps-14-da14260",
+      "name": "Dell XPS 14 Laptop (DA14260)",
+      "brand": "Dell",
+      "category": "premium-laptops",
+      "price": "2999.99",
+      "priceBasis": "msrp",
+      "priceSource": "https://www.dell.com/en-us/shop/laptop-computers/spd/xps14da14260",
+      "priceAsOf": "2026-09-28",
+      "priceNote": "Dell.com US price of the pre-configured model shown on the product page (specs describe this configuration). Build-your-own configurations start at $2249.99.",
+      "releaseYear": 2026,
+      "summary": "Dell's thinnest 14-inch XPS with a Series 3 Intel Core Ultra X7 358H, 32 GB LPDDR5x, 1 TB SSD and three Thunderbolt 4 ports.",
+      "description": "The XPS 14 (DA14260) is built for creation on the go and, per Dell, is its thinnest 14-inch laptop. The featured configuration has a Series 3 Intel Core Ultra X7 358H (16 cores, up to 4.8 GHz) with Intel Arc graphics, 32 GB LPDDR5x at up to 9600 MT/s, a 1 TB Gen4 SSD and a 14-inch 2K 1-120Hz 500-nit display; a 2.8K OLED panel is optional. It has a 70 Whr battery, a Gorilla Glass 3 palm rest and weighs from 3.00 lb with OLED.",
+      "keywords": "xps 14 copilot+ pc core ultra x7 358h arc oled creator thin",
+      "specs": {
+        "cpu": "Intel Core Ultra X7 358H (Series 3, 16 cores, up to 4.8 GHz)",
+        "cpuBrand": "Intel",
+        "gpu": "Intel Arc graphics",
+        "ramGb": 32,
+        "storageTb": 1,
+        "displayIn": 14.0,
+        "display": "14.0\" 2K (1920x1200) non-touch, 1-120Hz, 500 nits (2.8K OLED optional)",
+        "batteryWh": 70,
+        "weightKg": 1.38,
+        "os": "Windows 11 Home (Copilot+ PC)",
+        "ports": "3x Thunderbolt 4 (USB-C) with DisplayPort 2.1 and Power Delivery",
+        "wireless": "Intel Wi-Fi 7 BE211 2x2 + Bluetooth 6.0"
+      },
+      "variants": [
+        {
+          "label": "Build your own (starting configuration)",
+          "price": "2249.99"
+        },
+        {
+          "label": "Core Ultra X7 358H / 32 GB / 1 TB (featured)",
+          "price": "2999.99"
+        }
+      ],
+      "colors": [
+        "Graphite"
+      ],
+      "collections": [
+        "premium-laptops",
+        "developer-favorites"
+      ],
+      "featured": true,
+      "sources": {
+        "product": "https://www.dell.com/en-us/shop/laptop-computers/spd/xps14da14260",
+        "retrievedAt": "2026-09-28"
+      },
+      "image": {
+        "url": "https://i.dell.com/is/image/DellContent/content/dam/images/products/laptops-and-2-in-1s/xps/14-da14260-touch/dell-da14260t-laptop-c-15000ff100-gy-oled.psd?fmt=png-alpha&pscan=auto&scl=1&wid=1400&qlt=100,0&resMode=sharp2",
+        "page": "https://www.dell.com/en-us/shop/laptop-computers/spd/xps14da14260",
+        "sourceType": "manufacturer-product-page",
+        "rights": "Official Dell product-page gallery image (i.dell.com); Dell has not granted a reuse license - rights not verified.",
+        "credit": "Dell Technologies",
+        "alt": "Dell XPS 14 DA14260 laptop in Graphite, open front view showing the edge-to-edge 14-inch display",
+        "match": "EXACT"
+      }
+    },
+    {
+      "sku": "TK-DELL-XPS16-DA16260",
+      "slug": "dell-xps-16-da16260",
+      "name": "Dell XPS 16 Laptop (DA16260)",
+      "brand": "Dell",
+      "category": "creator-laptops",
+      "price": "2649.99",
+      "priceBasis": "msrp",
+      "priceSource": "https://www.dell.com/en-us/shop/laptop-computers/spd/xps16da16260",
+      "priceAsOf": "2026-09-28",
+      "priceNote": "Dell.com US price of the pre-configured model shown on the product page (specs describe this configuration). Build-your-own configurations start at $2399.99.",
+      "releaseYear": 2026,
+      "summary": "16-inch XPS with a Series 3 Intel Core Ultra 7 355, 16 GB LPDDR5x, 1 TB SSD, 1-120Hz display and three Thunderbolt 4 ports.",
+      "description": "The XPS 16 (DA16260) brings the 2026 XPS design to a 16-inch screen. The featured configuration uses a Series 3 Intel Core Ultra 7 355 (8 cores, up to 4.7 GHz), 16 GB LPDDR5x, a 1 TB Gen4 SSD and a 16-inch 2K 1-120Hz 500-nit panel, with a 3.2K OLED option. Dell lists a 70 Whr battery, Wi-Fi 7 with Bluetooth 6.0, three Thunderbolt 4 ports and a Gorilla Glass 3 palm rest.",
+      "keywords": "xps 16 creator laptop core ultra 7 355 oled large screen",
+      "specs": {
+        "cpu": "Intel Core Ultra 7 355 (Series 3, 8 cores, up to 4.7 GHz)",
+        "cpuBrand": "Intel",
+        "gpu": "Intel Graphics",
+        "ramGb": 16,
+        "storageTb": 1,
+        "displayIn": 16.0,
+        "display": "16.0\" 2K non-touch, 1-120Hz, 500 nits (3.2K OLED optional)",
+        "batteryWh": 70,
+        "weightKg": 1.74,
+        "os": "Windows 11 Home (Copilot+ PC)",
+        "ports": "3x Thunderbolt 4 (USB-C) with DisplayPort 2.1 and Power Delivery",
+        "wireless": "Intel Wi-Fi 7 BE211 2x2 + Bluetooth 6.0"
+      },
+      "variants": [
+        {
+          "label": "Build your own (starting configuration)",
+          "price": "2399.99"
+        },
+        {
+          "label": "Core Ultra 7 355 / 16 GB / 1 TB (featured)",
+          "price": "2649.99"
+        }
+      ],
+      "colors": [
+        "Graphite"
+      ],
+      "collections": [
+        "premium-laptops"
+      ],
+      "featured": false,
+      "sources": {
+        "product": "https://www.dell.com/en-us/shop/laptop-computers/spd/xps16da16260",
+        "retrievedAt": "2026-09-28"
+      },
+      "image": {
+        "url": "https://i.dell.com/assetlink/img/global/notebook-da16260-t-gray-mg-1-dl12pds3-large.png?fmt=png-alpha&pscan=auto&scl=1&wid=1400&qlt=100,0&resMode=sharp2",
+        "page": "https://www.dell.com/en-us/shop/laptop-computers/spd/xps16da16260",
+        "sourceType": "manufacturer-product-page",
+        "rights": "Official Dell product-page gallery image (i.dell.com); Dell has not granted a reuse license - rights not verified.",
+        "credit": "Dell Technologies",
+        "alt": "Dell XPS 16 DA16260 laptop in Graphite, open front view of the 16-inch display and keyboard",
+        "match": "EXACT"
+      }
+    },
+    {
+      "sku": "TK-DELL-14PLUS-DB14250",
+      "slug": "dell-14-plus-db14250",
+      "name": "Dell 14 Plus Laptop (DB14250)",
+      "brand": "Dell",
+      "category": "premium-laptops",
+      "price": "1109.99",
+      "priceBasis": "msrp",
+      "priceSource": "https://www.dell.com/en-us/shop/laptop-computers/spd/dellplus14laptopdb14250",
+      "priceAsOf": "2026-09-28",
+      "priceNote": "Dell.com US price of the pre-configured model shown on the product page (specs describe this configuration).",
+      "releaseYear": 2025,
+      "summary": "14-inch Copilot+ PC with Intel Core Ultra 5 226V, 16 GB LPDDR5x, QHD+ 120Hz display and an aluminum cover in Ice Blue.",
+      "description": "The Dell 14 Plus (DB14250) is an everyday Copilot+ PC with an aluminum lid and base. This configuration pairs an Intel Core Ultra 5 226V (8 cores, up to 4.5 GHz, 40 TOPS NPU) with 16 GB LPDDR5x and a 512 GB SSD. The 14-inch QHD+ (2560x1600) anti-glare panel runs at 120 Hz and 300 nits, and Dell lists a 64 Whr battery, Thunderbolt 4, HDMI 2.1 and Wi-Fi 7.",
+      "keywords": "dell 14 plus copilot+ pc lunar lake core ultra 5 226v everyday laptop",
+      "specs": {
+        "cpu": "Intel Core Ultra 5 226V (8 cores, up to 4.5 GHz)",
+        "cpuBrand": "Intel",
+        "gpu": "Intel Arc graphics",
+        "ramGb": 16,
+        "storageTb": 0.512,
+        "displayIn": 14,
+        "display": "14\" QHD+ (2560x1600) anti-glare, 120Hz, 300 nits",
+        "batteryWh": 64,
+        "weightKg": 1.55,
+        "os": "Windows 11 Home (Copilot+ PC)",
+        "npuTops": 40,
+        "ports": "1x Thunderbolt 4 (DP 2.1, PD), 1x USB-C 10Gbps (DP 1.4, PD), 1x USB-A 5Gbps, HDMI 2.1, audio jack",
+        "wireless": "Intel Wi-Fi 7 BE201 2x2 + Bluetooth 5.4"
+      },
+      "colors": [
+        "Ice Blue"
+      ],
+      "featured": false,
+      "sources": {
+        "product": "https://www.dell.com/en-us/shop/laptop-computers/spd/dellplus14laptopdb14250",
+        "retrievedAt": "2026-09-28"
+      },
+      "image": {
+        "url": "https://i.dell.com/assetlink/img/en/laptop-dell-db14250nt-fpr-laptop-bl-gallery-1-dl1evkv-large.png?fmt=png-alpha&pscan=auto&scl=1&wid=1400&qlt=100,0&resMode=sharp2",
+        "page": "https://www.dell.com/en-us/shop/laptop-computers/spd/dellplus14laptopdb14250",
+        "sourceType": "manufacturer-product-page",
+        "rights": "Official Dell product-page gallery image (i.dell.com); Dell has not granted a reuse license - rights not verified.",
+        "credit": "Dell Technologies",
+        "alt": "Dell 14 Plus DB14250 laptop in Ice Blue, open front view with fingerprint power button",
+        "match": "EXACT"
+      }
+    },
+    {
+      "sku": "TK-DELL-16PLUS-DB16250",
+      "slug": "dell-16-plus-db16250",
+      "name": "Dell 16 Plus Laptop (DB16250)",
+      "brand": "Dell",
+      "category": "premium-laptops",
+      "price": "1559.99",
+      "priceBasis": "msrp",
+      "priceSource": "https://www.dell.com/en-us/shop/laptop-computers/spd/dellplus16laptopdb16250",
+      "priceAsOf": "2026-09-28",
+      "priceNote": "Dell.com US price of the pre-configured model shown on the product page (specs describe this configuration).",
+      "releaseYear": 2025,
+      "summary": "16-inch Copilot+ PC with Intel Core Ultra 7 256V, 16 GB LPDDR5x, 1 TB SSD, QHD+ display and numeric keypad.",
+      "description": "The Dell 16 Plus (DB16250) is a large-screen everyday laptop with an aluminum cover and base. This configuration uses an Intel Core Ultra 7 256V (8 cores, up to 4.8 GHz, 47 TOPS NPU), 16 GB LPDDR5x and a 1 TB SSD. It has a 16-inch QHD+ anti-glare 300-nit display, a backlit keyboard with numeric keypad, a 64 Whr battery and Thunderbolt 4 plus HDMI 2.1.",
+      "keywords": "dell 16 plus copilot+ pc core ultra 7 256v large screen numeric keypad",
+      "specs": {
+        "cpu": "Intel Core Ultra 7 256V (8 cores, up to 4.8 GHz)",
+        "cpuBrand": "Intel",
+        "gpu": "Intel Arc graphics",
+        "ramGb": 16,
+        "storageTb": 1,
+        "displayIn": 16,
+        "display": "16\" QHD+ anti-glare, 60Hz, 300 nits",
+        "batteryWh": 64,
+        "weightKg": 1.87,
+        "os": "Windows 11 Home (Copilot+ PC)",
+        "npuTops": 47,
+        "ports": "1x Thunderbolt 4 (DP 2.1, PD), 1x USB-C 10Gbps (DP 1.4, PD), 1x USB-A 5Gbps, HDMI 2.1, audio jack",
+        "wireless": "Intel Wi-Fi 7 BE201"
+      },
+      "colors": [
+        "Ice Blue"
+      ],
+      "featured": false,
+      "sources": {
+        "product": "https://www.dell.com/en-us/shop/laptop-computers/spd/dellplus16laptopdb16250",
+        "retrievedAt": "2026-09-28"
+      },
+      "image": {
+        "url": "https://i.dell.com/assetlink/img/en/notebook-db16250nt-fpr-bl-gallery-1-dl1ezap-large.png?fmt=png-alpha&pscan=auto&scl=1&wid=1400&qlt=100,0&resMode=sharp2",
+        "page": "https://www.dell.com/en-us/shop/laptop-computers/spd/dellplus16laptopdb16250",
+        "sourceType": "manufacturer-product-page",
+        "rights": "Official Dell product-page gallery image (i.dell.com); Dell has not granted a reuse license - rights not verified.",
+        "credit": "Dell Technologies",
+        "alt": "Dell 16 Plus DB16250 laptop in Ice Blue, open front view showing the full-size keyboard with numeric keypad",
+        "match": "EXACT"
+      }
+    },
+    {
+      "sku": "TK-DELL-PRO14PREMIUM-PA14260",
+      "slug": "dell-pro-14-premium-pa14260",
+      "name": "Dell Pro 14 Premium Laptop (PA14260)",
+      "brand": "Dell",
+      "category": "business-laptops",
+      "price": "3671.00",
+      "priceBasis": "msrp",
+      "priceSource": "https://www.dell.com/en-us/shop/laptop-computers/spd/dellpropremium14pa14260",
+      "priceAsOf": "2026-09-28",
+      "priceNote": "Dell.com US price of the pre-configured model shown on the product page (specs describe this configuration). Build-your-own configurations start at $2736.00.",
+      "releaseYear": 2026,
+      "summary": "Premium 14-inch business Copilot+ PC with Intel Core Ultra 7 365 vPro, 32 GB LPDDR5x, 8MP IR camera and a 2.54 lb minimum weight.",
+      "description": "The Dell Pro 14 Premium (PA14260) is Dell's flagship thin-and-light business laptop for 2026. This configuration pairs a Series 3 Intel Core Ultra 7 365 vPro (8 cores, up to 4.8 GHz, 49 TOPS NPU) with 32 GB LPDDR5x and a 512 GB SSD, behind a 14-inch WUXGA 400-nit anti-glare display. It includes an 8MP HDR + IR camera with presence detection, two Thunderbolt 4 ports, HDMI 2.1, Wi-Fi 7 and a 60 Wh ExpressCharge battery; FHD lightweight, WQXGA IPS and tandem OLED displays are also offered.",
+      "keywords": "dell pro premium business vpro copilot+ pc thin light executive",
+      "specs": {
+        "cpu": "Intel Core Ultra 7 365 vPro (Series 3, 8 cores, up to 4.8 GHz)",
+        "cpuBrand": "Intel",
+        "ramGb": 32,
+        "storageTb": 0.512,
+        "displayIn": 14,
+        "display": "14\" WUXGA (1920x1200) non-touch, 400 nits, anti-glare",
+        "batteryWh": 60,
+        "weightKg": 1.31,
+        "os": "Windows 11 Pro (Copilot+ PC)",
+        "npuTops": 49,
+        "ports": "2x Thunderbolt 4 (40Gbps, USB4, PD, DP Alt Mode), 1x USB-A 5Gbps, HDMI 2.1, headset jack",
+        "wireless": "Intel Wi-Fi 7 BE211 2x2 + Bluetooth 6.0"
+      },
+      "variants": [
+        {
+          "label": "Build your own (starting configuration)",
+          "price": "2736.00"
+        },
+        {
+          "label": "Core Ultra 7 365 vPro / 32 GB / 512 GB (featured)",
+          "price": "3671.00"
+        }
+      ],
+      "collections": [
+        "small-business"
+      ],
+      "featured": false,
+      "sources": {
+        "product": "https://www.dell.com/en-us/shop/laptop-computers/spd/dellpropremium14pa14260",
+        "retrievedAt": "2026-09-28"
+      },
+      "image": {
+        "url": "https://i.dell.com/assetlink/img/global/notebook-pa14260-nt-pro-entry-gray-gallery-1-dl11082j-large.png?fmt=png-alpha&pscan=auto&scl=1&wid=1400&qlt=100,0&resMode=sharp2",
+        "page": "https://www.dell.com/en-us/shop/laptop-computers/spd/dellpropremium14pa14260",
+        "sourceType": "manufacturer-product-page",
+        "rights": "Official Dell product-page gallery image (i.dell.com); Dell has not granted a reuse license - rights not verified.",
+        "credit": "Dell Technologies",
+        "alt": "Dell Pro 14 Premium PA14260 business laptop in gray, open front view of display and keyboard",
+        "match": "EXACT"
+      }
+    },
+    {
+      "sku": "TK-DELL-PRO7-14-P714260",
+      "slug": "dell-pro-7-series-14-p714260",
+      "name": "Dell Pro 7 Series 14 Laptop (P714260)",
+      "brand": "Dell",
+      "category": "business-laptops",
+      "price": "2866.00",
+      "priceBasis": "msrp",
+      "priceSource": "https://www.dell.com/en-us/shop/laptop-computers/spd/dellpro714p714260",
+      "priceAsOf": "2026-09-28",
+      "priceNote": "Dell.com US price of the pre-configured model shown on the product page (specs describe this configuration). Build-your-own configurations start at $2184.00.",
+      "releaseYear": 2026,
+      "summary": "14-inch aluminum business laptop with Intel Core Ultra 5 335 vPro, 32 GB LPDDR5x, 8MP IR camera and Thunderbolt 4/USB4.",
+      "description": "The Dell Pro 7 Series 14 (P714260) is part of Dell's 2026 Dell Pro lineup. This configuration pairs an Intel Core Ultra 5 335 vPro (8 cores, up to 4.6 GHz, 47 TOPS NPU) with 32 GB LPDDR5x and a 512 GB SSD in an aluminum chassis. It has a 14-inch WUXGA 400-nit anti-glare low-power display, an 8MP HDR + IR camera, two Thunderbolt 4/USB4 ports, HDMI 2.1, Wi-Fi 7 and a 55.8 Wh battery, starting at 2.80 lb.",
+      "keywords": "dell pro 7 series business laptop vpro copilot+ aluminum",
+      "specs": {
+        "cpu": "Intel Core Ultra 5 335 vPro (8 cores, up to 4.6 GHz)",
+        "cpuBrand": "Intel",
+        "ramGb": 32,
+        "storageTb": 0.512,
+        "displayIn": 14,
+        "display": "14\" WUXGA (1920x1200) non-touch, 400 nits, 62.5% sRGB, anti-glare, low power",
+        "batteryWh": 55.8,
+        "weightKg": 1.27,
+        "os": "Windows 11 Pro (Copilot+ PC)",
+        "npuTops": 47,
+        "ports": "2x Thunderbolt 4/USB4 (40Gbps), 1x USB-C 20Gbps or USB-A, 1x USB-A 5Gbps, HDMI 2.1, headset jack",
+        "wireless": "Intel Wi-Fi 7 BE211 + Bluetooth 6.0"
+      },
+      "variants": [
+        {
+          "label": "Build your own (starting configuration)",
+          "price": "2184.00"
+        },
+        {
+          "label": "Core Ultra 5 335 vPro / 32 GB / 512 GB (featured)",
+          "price": "2866.00"
+        }
+      ],
+      "collections": [
+        "small-business"
+      ],
+      "featured": false,
+      "sources": {
+        "product": "https://www.dell.com/en-us/shop/laptop-computers/spd/dellpro714p714260",
+        "retrievedAt": "2026-09-28"
+      },
+      "image": {
+        "url": "https://i.dell.com/assetlink/img/global/dell-pro-p714260-laptop-c-15000ff100-gy-wwan-fhd-ir-camera-dl1zya3-large.png?fmt=png-alpha&pscan=auto&scl=1&wid=1400&qlt=100,0&resMode=sharp2",
+        "page": "https://www.dell.com/en-us/shop/laptop-computers/spd/dellpro714p714260",
+        "sourceType": "manufacturer-product-page",
+        "rights": "Official Dell product-page gallery image (i.dell.com); Dell has not granted a reuse license - rights not verified.",
+        "credit": "Dell Technologies",
+        "alt": "Dell Pro 7 Series 14 P714260 laptop in gray, open front view with IR camera above the display",
+        "match": "EXACT"
+      }
+    },
+    {
+      "sku": "TK-DELL-PRO14PLUS-PB14250",
+      "slug": "dell-pro-14-plus-pb14250",
+      "name": "Dell Pro 14 Plus Laptop (PB14250)",
+      "brand": "Dell",
+      "category": "business-laptops",
+      "price": "1418.00",
+      "priceBasis": "msrp",
+      "priceSource": "https://www.dell.com/en-us/shop/laptop-computers/spd/dellproplus14laptoppb14250",
+      "priceAsOf": "2026-09-28",
+      "priceNote": "Dell.com US price of the pre-configured model shown on the product page (specs describe this configuration).",
+      "releaseYear": 2025,
+      "summary": "Mainstream 14-inch business Copilot+ PC with Intel Core Ultra 5 236V vPro, MIL-STD-tested aluminum chassis and RJ45 Ethernet.",
+      "description": "The Dell Pro 14 Plus (PB14250) is a scalable mainstream business laptop with a durable aluminum chassis that passes MIL-STD testing. This configuration uses an Intel Core Ultra 5 236V vPro (8 cores, up to 4.7 GHz, 40 TOPS NPU) with 16 GB LPDDR5x and a 256 GB SSD, and a 14-inch FHD+ IPS 300-nit display with FHD IR camera. Ports include two Thunderbolt 4, two USB-A, HDMI 2.1 and 1GbE RJ45; Dell lists a 55 Wh battery and a 3.09 lb starting weight.",
+      "keywords": "dell pro 14 plus business laptop vpro lunar lake copilot+ rj45",
+      "specs": {
+        "cpu": "Intel Core Ultra 5 236V vPro (8 cores, up to 4.7 GHz)",
+        "cpuBrand": "Intel",
+        "gpu": "Intel Arc graphics",
+        "ramGb": 16,
+        "storageTb": 0.256,
+        "displayIn": 14,
+        "display": "14\" FHD+ (1920x1200) IPS anti-glare, 60Hz, 300 nits",
+        "batteryWh": 55,
+        "weightKg": 1.4,
+        "os": "Windows 11 Pro (Copilot+ PC)",
+        "npuTops": 40,
+        "ports": "2x Thunderbolt 4 (40Gbps), 2x USB-A 5Gbps, HDMI 2.1, RJ45 1GbE, audio jack",
+        "wireless": "Intel Wi-Fi 7 BE201 2x2 + Bluetooth 5.4"
+      },
+      "collections": [
+        "small-business"
+      ],
+      "featured": false,
+      "sources": {
+        "product": "https://www.dell.com/en-us/shop/laptop-computers/spd/dellproplus14laptoppb14250",
+        "retrievedAt": "2026-09-28"
+      },
+      "image": {
+        "url": "https://i.dell.com/assetlink/img/en/laptop-dellpro-pb14520nt-gy-80mm-wlan-gallery-1-dl1evog-large.png?fmt=png-alpha&pscan=auto&scl=1&wid=1400&qlt=100,0&resMode=sharp2",
+        "page": "https://www.dell.com/en-us/shop/laptop-computers/spd/dellproplus14laptoppb14250",
+        "sourceType": "manufacturer-product-page",
+        "rights": "Official Dell product-page gallery image (i.dell.com); Dell has not granted a reuse license - rights not verified.",
+        "credit": "Dell Technologies",
+        "alt": "Dell Pro 14 Plus PB14250 business laptop in gray, open front view of the 14-inch display",
+        "match": "EXACT"
+      }
+    },
+    {
+      "sku": "TK-DELL-PROMAX16PLUS-MB16250",
+      "slug": "dell-pro-max-16-plus-mb16250",
+      "name": "Dell Pro Max 16 Plus Mobile Workstation (MB16250)",
+      "brand": "Dell",
+      "category": "workstation-laptops",
+      "price": "5887.00",
+      "priceBasis": "msrp",
+      "priceSource": "https://www.dell.com/en-us/shop/laptop-computers/spd/dellpromaxplus16laptopmb16250",
+      "priceAsOf": "2026-09-28",
+      "priceNote": "Dell.com US price of the pre-configured model shown on the product page (specs describe this configuration).",
+      "releaseYear": 2025,
+      "summary": "16-inch mobile workstation with Intel Core Ultra 7 265HX vPro, NVIDIA RTX PRO 2000 Blackwell and two Thunderbolt 5 ports.",
+      "description": "The Dell Pro Max 16 Plus (MB16250) is a high-performance mobile workstation. This configuration combines an Intel Core Ultra 7 265HX vPro (20 cores) with NVIDIA RTX PRO 2000 Blackwell 8 GB GDDR7 graphics, 32 GB DDR5 CSoDIMM memory and a 512 GB self-encrypting SSD. It has a 16-inch WUXGA 500-nit 120Hz display, two Thunderbolt 5 (80 Gbps) ports plus Thunderbolt 4, 2.5GbE RJ45, an SD slot and a 96 Whr battery.",
+      "keywords": "dell pro max plus mobile workstation rtx pro blackwell thunderbolt 5 isv",
+      "specs": {
+        "cpu": "Intel Core Ultra 7 265HX vPro (20 cores)",
+        "cpuBrand": "Intel",
+        "gpu": "NVIDIA RTX PRO 2000 Blackwell 8GB GDDR7",
+        "ramGb": 32,
+        "storageTb": 0.512,
+        "displayIn": 16,
+        "display": "16\" WUXGA (1920x1200) anti-glare, 120Hz, 500 nits",
+        "batteryWh": 96,
+        "weightKg": 2.55,
+        "os": "Windows 11 Pro",
+        "ports": "2x Thunderbolt 5 (80Gbps), 1x Thunderbolt 4, 2x USB-A 5Gbps, HDMI 2.1, RJ45 2.5GbE, SD slot, headset jack",
+        "wireless": "Intel Wi-Fi 7 BE200"
+      },
+      "collections": [
+        "creator-workstations",
+        "ai-workstations"
+      ],
+      "featured": true,
+      "sources": {
+        "product": "https://www.dell.com/en-us/shop/laptop-computers/spd/dellpromaxplus16laptopmb16250",
+        "retrievedAt": "2026-09-28"
+      },
+      "image": {
+        "url": "https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/notebooks/dell-pro-max-plus/mb16250/media-gallery/notebook-pro-max-mb16250nt-bk-ir-fpr-gallery-1.psd?fmt=png-alpha&pscan=auto&scl=1&wid=1400&qlt=100,0&resMode=sharp2",
+        "page": "https://www.dell.com/en-us/shop/laptop-computers/spd/dellpromaxplus16laptopmb16250",
+        "sourceType": "manufacturer-product-page",
+        "rights": "Official Dell product-page gallery image (i.dell.com); Dell has not granted a reuse license - rights not verified.",
+        "credit": "Dell Technologies",
+        "alt": "Dell Pro Max 16 Plus MB16250 mobile workstation in black, open front view with numeric keypad",
+        "match": "EXACT"
+      }
+    },
+    {
+      "sku": "TK-DELL-PROMAX18PLUS-MB18250",
+      "slug": "dell-pro-max-18-plus-mb18250",
+      "name": "Dell Pro Max 18 Plus Mobile Workstation (MB18250)",
+      "brand": "Dell",
+      "category": "workstation-laptops",
+      "price": "4319.00",
+      "priceBasis": "msrp",
+      "priceSource": "https://www.dell.com/en-us/shop/laptop-computers/spd/dellpromaxplus18laptopmb18250",
+      "priceAsOf": "2026-09-28",
+      "priceNote": "Dell.com US price of the pre-configured model shown on the product page (specs describe this configuration).",
+      "releaseYear": 2025,
+      "summary": "18-inch WQXGA mobile workstation with Intel Core Ultra 5 245HX vPro, two Thunderbolt 5 ports and a 96 Whr battery.",
+      "description": "The Dell Pro Max 18 Plus (MB18250) is Dell's large-display mobile workstation. This entry configuration uses an Intel Core Ultra 5 245HX vPro (14 cores) with integrated Intel graphics, 16 GB DDR5 CSoDIMM and a 512 GB SSD; discrete NVIDIA RTX PRO GPUs are configurable. It has an 18-inch WQXGA (2560x1600) 500-nit display, two Thunderbolt 5 ports, Thunderbolt 4, 2.5GbE RJ45, an SD slot and a 96 Whr battery.",
+      "keywords": "dell pro max 18 plus mobile workstation 18 inch thunderbolt 5",
+      "specs": {
+        "cpu": "Intel Core Ultra 5 245HX vPro (14 cores)",
+        "cpuBrand": "Intel",
+        "gpu": "Intel integrated graphics",
+        "ramGb": 16,
+        "storageTb": 0.512,
+        "displayIn": 18,
+        "display": "18\" WQXGA (2560x1600) anti-glare, 60Hz, 500 nits",
+        "batteryWh": 96,
+        "weightKg": 3.25,
+        "os": "Windows 11 Pro",
+        "ports": "2x Thunderbolt 5 (80Gbps), 1x Thunderbolt 4, 2x USB-A 5Gbps, HDMI 2.1, RJ45 2.5GbE, SD slot, audio jack",
+        "wireless": "Intel Wi-Fi 7 BE200"
+      },
+      "collections": [
+        "creator-workstations"
+      ],
+      "featured": false,
+      "sources": {
+        "product": "https://www.dell.com/en-us/shop/laptop-computers/spd/dellpromaxplus18laptopmb18250",
+        "retrievedAt": "2026-09-28"
+      },
+      "image": {
+        "url": "https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/notebooks/dell-pro-max-plus/mb18250/media-gallery/laptop-dell-pro-max-mb18250nt-bk-ir-fpr-gallery-1.psd?fmt=png-alpha&pscan=auto&scl=1&wid=1400&qlt=100,0&resMode=sharp2",
+        "page": "https://www.dell.com/en-us/shop/laptop-computers/spd/dellpromaxplus18laptopmb18250",
+        "sourceType": "manufacturer-product-page",
+        "rights": "Official Dell product-page gallery image (i.dell.com); Dell has not granted a reuse license - rights not verified.",
+        "credit": "Dell Technologies",
+        "alt": "Dell Pro Max 18 Plus MB18250 mobile workstation in black, open front view of the 18-inch display",
+        "match": "EXACT"
+      }
+    },
+    {
+      "sku": "TK-DELL-PRECISION7-16-PW716260",
+      "slug": "dell-pro-precision-7-series-16-pw716260",
+      "name": "Dell Pro Precision 7 Series 16 Mobile Workstation (PW716260)",
+      "brand": "Dell",
+      "category": "workstation-laptops",
+      "price": "3665.00",
+      "priceBasis": "msrp",
+      "priceSource": "https://www.dell.com/en-us/shop/laptop-computers/spd/dellproprecision716pw716260",
+      "priceAsOf": "2026-09-28",
+      "priceNote": "Dell.com US price of the pre-configured model shown on the product page (specs describe this configuration).",
+      "releaseYear": 2026,
+      "summary": "16-inch Dell Pro Precision mobile workstation with Intel Core Ultra 7 356H, 100% DCI-P3 120Hz display and two Thunderbolt 5 ports.",
+      "description": "The Dell Pro Precision 7 Series 16 (PW716260) is a 2026 mobile workstation in an aluminum and magnesium chassis. This configuration pairs an Intel Core Ultra 7 356H (16 cores, up to 4.7 GHz, 50 TOPS NPU) with Intel Arc/Arc Pro graphics, 16 GB LPDDR5x and a 512 GB SSD. The 16-inch WUXGA VRR 120Hz display covers 100% DCI-P3 at 500 nits, and the system has two Thunderbolt 5 (80/120 Gbps) ports, Thunderbolt 4, HDMI 2.1, an SD slot and a 96 Whr battery.",
+      "keywords": "dell pro precision 7 series mobile workstation thunderbolt 5 dci-p3 copilot+",
+      "specs": {
+        "cpu": "Intel Core Ultra 7 356H (16 cores, up to 4.7 GHz)",
+        "cpuBrand": "Intel",
+        "gpu": "Intel Arc / Arc Pro GPU",
+        "ramGb": 16,
+        "storageTb": 0.512,
+        "displayIn": 16,
+        "display": "16\" WUXGA (1920x1200) anti-glare, VRR 120Hz, 500 nits, 100% DCI-P3",
+        "batteryWh": 96,
+        "weightKg": 2.17,
+        "os": "Windows 11 Pro (Copilot+ PC)",
+        "npuTops": 50,
+        "ports": "2x Thunderbolt 5 (80/120Gbps), 1x Thunderbolt 4, HDMI 2.1, SD slot, headset jack",
+        "wireless": "Intel Wi-Fi 7 BE211"
+      },
+      "collections": [
+        "creator-workstations"
+      ],
+      "featured": false,
+      "sources": {
+        "product": "https://www.dell.com/en-us/shop/laptop-computers/spd/dellproprecision716pw716260",
+        "retrievedAt": "2026-09-28"
+      },
+      "image": {
+        "url": "https://i.dell.com/assetlink/img/global/notebook-precision-pw716260nt-black-gallery-1-dl11080z-large.png?fmt=png-alpha&pscan=auto&scl=1&wid=1400&qlt=100,0&resMode=sharp2",
+        "page": "https://www.dell.com/en-us/shop/laptop-computers/spd/dellproprecision716pw716260",
+        "sourceType": "manufacturer-product-page",
+        "rights": "Official Dell product-page gallery image (i.dell.com); Dell has not granted a reuse license - rights not verified.",
+        "credit": "Dell Technologies",
+        "alt": "Dell Pro Precision 7 Series 16 PW716260 mobile workstation in black, open front view",
+        "match": "EXACT"
+      }
+    },
+    {
+      "sku": "TK-DELL-PRECISION5-14S-PW514260",
+      "slug": "dell-pro-precision-5-series-14s-pw514260",
+      "name": "Dell Pro Precision 5 Series 14S Mobile Workstation (PW514260)",
+      "brand": "Dell",
+      "category": "developer-laptops",
+      "price": "2718.00",
+      "priceBasis": "msrp",
+      "priceSource": "https://www.dell.com/en-us/shop/laptop-computers/spd/dellproprecision514spw514260",
+      "priceAsOf": "2026-09-28",
+      "priceNote": "Dell.com US price of the pre-configured model shown on the product page (specs describe this configuration).",
+      "releaseYear": 2026,
+      "summary": "Thin 14-inch Dell Pro Precision workstation with Intel Core Ultra 5 336H vPro, LPCAMM2 memory, RJ45 and a 3.12 lb starting weight.",
+      "description": "The Dell Pro Precision 5 Series 14S (PW514260) is a compact 14-inch workstation laptop suited to developers and engineers on the move. This configuration uses an Intel Core Ultra 5 336H vPro (12 cores, up to 4.6 GHz, 47 TOPS NPU), 16 GB LPCAMM2 memory and a 256 GB SSD with a 14-inch WUXGA 400-nit display. It has an aluminum chassis, two Thunderbolt 4 ports, two USB-A, HDMI 2.1, 1GbE RJ45 and a 57 Wh ExpressCharge battery.",
+      "keywords": "dell pro precision 5 14s developer laptop lpcamm2 vpro copilot+",
+      "specs": {
+        "cpu": "Intel Core Ultra 5 336H vPro (12 cores, up to 4.6 GHz)",
+        "cpuBrand": "Intel",
+        "ramGb": 16,
+        "storageTb": 0.256,
+        "displayIn": 14,
+        "display": "14\" WUXGA (1920x1200) non-touch, 400 nits",
+        "batteryWh": 57,
+        "weightKg": 1.42,
+        "os": "Windows 11 Pro (Copilot+ PC)",
+        "npuTops": 47,
+        "ports": "2x Thunderbolt 4 (PD, DP 1.4), 2x USB-A 5Gbps, HDMI 2.1, RJ45 1GbE, audio jack",
+        "wireless": "Intel Wi-Fi 7 BE211 + Bluetooth 6.0"
+      },
+      "collections": [
+        "developer-setup"
+      ],
+      "featured": false,
+      "sources": {
+        "product": "https://www.dell.com/en-us/shop/laptop-computers/spd/dellproprecision514spw514260",
+        "retrievedAt": "2026-09-28"
+      },
+      "image": {
+        "url": "https://i.dell.com/assetlink/img/global/notebook-pw514260-fpr-8mp-ir-camera-wwan-gray-gallery-1-dl1108en-large.png?fmt=png-alpha&pscan=auto&scl=1&wid=1400&qlt=100,0&resMode=sharp2",
+        "page": "https://www.dell.com/en-us/shop/laptop-computers/spd/dellproprecision514spw514260",
+        "sourceType": "manufacturer-product-page",
+        "rights": "Official Dell product-page gallery image (i.dell.com); Dell has not granted a reuse license - rights not verified.",
+        "credit": "Dell Technologies",
+        "alt": "Dell Pro Precision 5 Series 14S PW514260 laptop in gray, open front view of the 14-inch display",
+        "match": "EXACT"
+      }
+    },
+    {
+      "sku": "TK-DELL-PROMAX14PREM-MA14250",
+      "slug": "dell-pro-max-14-premium-ma14250",
+      "name": "Dell Pro Max 14 Premium Mobile Workstation (MA14250)",
+      "brand": "Dell",
+      "category": "developer-laptops",
+      "price": "3312.00",
+      "priceBasis": "msrp",
+      "priceSource": "https://www.dell.com/en-us/shop/laptop-computers/spd/dellpromaxpremium14laptopma14250",
+      "priceAsOf": "2026-09-28",
+      "priceNote": "Dell.com US price of the pre-configured model shown on the product page (specs describe this configuration).",
+      "releaseYear": 2025,
+      "summary": "Premium 14-inch Dell Pro Max with Intel Core Ultra 7 255H, two Thunderbolt 5 and two Thunderbolt 4 ports and 72 Whr battery.",
+      "description": "The Dell Pro Max 14 Premium (MA14250) is a thin premium mobile workstation. This configuration uses an Intel Core Ultra 7 255H (16 cores, up to 5.1 GHz) with Intel Arc/Arc Pro graphics, 16 GB LPDDR5x and a 256 GB SSD, and a 14-inch WUXGA 400-nit 100% sRGB display with 8MP + IR camera. Connectivity includes two Thunderbolt 5 (80/120 Gbps) and two Thunderbolt 4 ports and a microSD slot, with a 72 Whr battery and a 3.55 lb starting weight.",
+      "keywords": "dell pro max premium 14 developer workstation thunderbolt 5 arc pro",
+      "specs": {
+        "cpu": "Intel Core Ultra 7 255H (16 cores, up to 5.1 GHz)",
+        "cpuBrand": "Intel",
+        "gpu": "Intel Arc / Arc Pro GPU",
+        "ramGb": 16,
+        "storageTb": 0.256,
+        "displayIn": 14,
+        "display": "14\" WUXGA (1920x1200) non-touch, 60Hz, 400 nits, 100% sRGB",
+        "batteryWh": 72,
+        "weightKg": 1.61,
+        "os": "Windows 11 Pro",
+        "ports": "2x Thunderbolt 5 (80/120Gbps), 2x Thunderbolt 4 (40Gbps), microSD, headset jack",
+        "wireless": "Intel Wi-Fi 7 BE201"
+      },
+      "collections": [
+        "developer-setup",
+        "developer-favorites"
+      ],
+      "featured": false,
+      "sources": {
+        "product": "https://www.dell.com/en-us/shop/laptop-computers/spd/dellpromaxpremium14laptopma14250",
+        "retrievedAt": "2026-09-28"
+      },
+      "image": {
+        "url": "https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/notebooks/dell-pro-max-premium/ma14250/media-gallery/notebook-dell-pro-premium-ma14250nt-bk-fpr-gallery-1.psd?fmt=png-alpha&pscan=auto&scl=1&wid=1400&qlt=100,0&resMode=sharp2",
+        "page": "https://www.dell.com/en-us/shop/laptop-computers/spd/dellpromaxpremium14laptopma14250",
+        "sourceType": "manufacturer-product-page",
+        "rights": "Official Dell product-page gallery image (i.dell.com); Dell has not granted a reuse license - rights not verified.",
+        "credit": "Dell Technologies",
+        "alt": "Dell Pro Max 14 Premium MA14250 workstation laptop in black, open front view of the display and keyboard",
+        "match": "EXACT"
+      }
+    },
+    {
+      "sku": "TK-ALIENWARE-18AREA51-AA18250",
+      "slug": "alienware-18-area-51-aa18250",
+      "name": "Alienware 18 Area-51 Gaming Laptop (AA18250)",
+      "brand": "Alienware",
+      "category": "gaming-laptops",
+      "price": "3999.99",
+      "priceBasis": "msrp",
+      "priceSource": "https://www.dell.com/en-us/shop/laptop-computers/spd/alienware18area51aa18250",
+      "priceAsOf": "2026-09-28",
+      "priceNote": "Dell.com US price of the pre-configured model shown on the product page (specs describe this configuration).",
+      "releaseYear": 2025,
+      "summary": "18-inch Alienware flagship with Intel Core Ultra 9 290HX Plus, GeForce RTX 5070, 300Hz WQXGA display and per-key AlienFX RGB.",
+      "description": "The Alienware 18 Area-51 (AA18250) is Alienware's largest gaming laptop. This configuration pairs an Intel Core Ultra 9 290HX Plus (24 cores, up to 5.5 GHz) with an NVIDIA GeForce RTX 5070 8 GB GDDR7, 32 GB DDR5 and a 1 TB SSD. The 18-inch WQXGA display runs at 300 Hz with 500 nits, 100% DCI-P3, G-SYNC and Advanced Optimus; the chassis has a per-key AlienFX RGB keyboard, Killer Wi-Fi 7 and a 96 Whr battery. Higher RTX 50 Series GPUs are configurable.",
+      "keywords": "alienware area-51 18 gaming laptop rtx 50 core ultra 9 290hx plus 300hz",
+      "specs": {
+        "cpu": "Intel Core Ultra 9 290HX Plus (24 cores, up to 5.5 GHz)",
+        "cpuBrand": "Intel",
+        "gpu": "NVIDIA GeForce RTX 5070 8GB GDDR7",
+        "ramGb": 32,
+        "storageTb": 1,
+        "displayIn": 18,
+        "display": "18\" WQXGA, 300Hz, 500 nits, 100% DCI-P3, G-SYNC, Advanced Optimus",
+        "batteryWh": 96,
+        "os": "Windows 11 Home",
+        "wireless": "Intel Killer Wi-Fi 7 BE1750 2x2 + Bluetooth 5.4",
+        "colors": "Liquid Teal"
+      },
+      "colors": [
+        "Liquid Teal"
+      ],
+      "collections": [
+        "gaming-monsters",
+        "dream-gaming"
+      ],
+      "featured": true,
+      "sources": {
+        "product": "https://www.dell.com/en-us/shop/laptop-computers/spd/alienware18area51aa18250",
+        "retrievedAt": "2026-09-28"
+      },
+      "image": {
+        "url": "https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/notebooks/alienware-notebooks/aa18250/media-gallery/laptop-alienware-aa18250nt-gallery-1.psd?fmt=png-alpha&pscan=auto&scl=1&wid=1400&qlt=100,0&resMode=sharp2",
+        "page": "https://www.dell.com/en-us/shop/laptop-computers/spd/alienware18area51aa18250",
+        "sourceType": "manufacturer-product-page",
+        "rights": "Official Dell product-page gallery image (i.dell.com); Dell has not granted a reuse license - rights not verified.",
+        "credit": "Dell Technologies",
+        "alt": "Alienware 18 Area-51 AA18250 gaming laptop in Liquid Teal, open front view with RGB keyboard",
+        "match": "EXACT"
+      }
+    },
+    {
+      "sku": "TK-ALIENWARE-16AREA51-AA16250",
+      "slug": "alienware-16-area-51-aa16250",
+      "name": "Alienware 16 Area-51 Gaming Laptop (AA16250)",
+      "brand": "Alienware",
+      "category": "gaming-laptops",
+      "price": "3899.99",
+      "priceBasis": "msrp",
+      "priceSource": "https://www.dell.com/en-us/shop/laptop-computers/spd/alienware16area51aa16250",
+      "priceAsOf": "2026-09-28",
+      "priceNote": "Dell.com US price of the pre-configured model shown on the product page (specs describe this configuration).",
+      "releaseYear": 2025,
+      "summary": "16-inch Alienware Area-51 with Intel Core Ultra 9 290HX Plus, GeForce RTX 5070 and a 240Hz WQXGA OLED display.",
+      "description": "The Alienware 16 Area-51 (AA16250) packs Area-51 performance into a 16-inch chassis. This configuration has an Intel Core Ultra 9 290HX Plus (24 cores, up to 5.5 GHz), NVIDIA GeForce RTX 5070 8 GB GDDR7, 32 GB DDR5 and a 1 TB SSD. Its 16-inch WQXGA anti-glare OLED runs at 240 Hz with 620-nit HDR peak and G-SYNC; Thunderbolt 5 ports come with RTX 5070 Ti and above, while this configuration has two Thunderbolt 4 ports.",
+      "keywords": "alienware area-51 16 oled gaming laptop rtx 50 core ultra 9",
+      "specs": {
+        "cpu": "Intel Core Ultra 9 290HX Plus (24 cores, up to 5.5 GHz)",
+        "cpuBrand": "Intel",
+        "gpu": "NVIDIA GeForce RTX 5070 8GB GDDR7",
+        "ramGb": 32,
+        "storageTb": 1,
+        "displayIn": 16,
+        "display": "16\" WQXGA anti-glare OLED, 240Hz, 620 nits HDR, 120% DCI-P3 colour volume, G-SYNC",
+        "batteryWh": 96,
+        "os": "Windows 11 Home",
+        "ports": "2x Thunderbolt 4 (Thunderbolt 5 with RTX 5070 Ti and above), 3x USB-A 5Gbps, HDMI 2.1, SD slot, headset jack",
+        "wireless": "Intel Killer Wi-Fi 7 BE1750 2x2 + Bluetooth 5.4",
+        "colors": "Liquid Teal"
+      },
+      "colors": [
+        "Liquid Teal"
+      ],
+      "collections": [
+        "gaming-monsters"
+      ],
+      "featured": false,
+      "sources": {
+        "product": "https://www.dell.com/en-us/shop/laptop-computers/spd/alienware16area51aa16250",
+        "retrievedAt": "2026-09-28"
+      },
+      "image": {
+        "url": "https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/notebooks/alienware-notebooks/aa16250/media-gallery/mb2/laptop-alienware-aa16250nt-mb2-gallery-1.psd?fmt=png-alpha&pscan=auto&scl=1&wid=1400&qlt=100,0&resMode=sharp2",
+        "page": "https://www.dell.com/en-us/shop/laptop-computers/spd/alienware16area51aa16250",
+        "sourceType": "manufacturer-product-page",
+        "rights": "Official Dell product-page gallery image (i.dell.com); Dell has not granted a reuse license - rights not verified.",
+        "credit": "Dell Technologies",
+        "alt": "Alienware 16 Area-51 AA16250 gaming laptop in Liquid Teal, open front view of the OLED display and keyboard",
+        "match": "EXACT"
+      }
+    },
+    {
+      "sku": "TK-ALIENWARE-16XAURORA-AC16251",
+      "slug": "alienware-16x-aurora-ac16251",
+      "name": "Alienware 16X Aurora Gaming Laptop (AC16251)",
+      "brand": "Alienware",
+      "category": "gaming-laptops",
+      "price": "2699.99",
+      "priceBasis": "msrp",
+      "priceSource": "https://www.dell.com/en-us/shop/laptop-computers/spd/alienware16xauroraac16251",
+      "priceAsOf": "2026-09-28",
+      "priceNote": "Dell.com US price of the pre-configured model shown on the product page (specs describe this configuration).",
+      "releaseYear": 2026,
+      "summary": "16-inch Alienware 16X Aurora with Intel Core Ultra 7 270HX Plus, GeForce RTX 5070 and a 240Hz anti-glare OLED display.",
+      "description": "The Alienware 16X Aurora (AC16251) has an anodized aluminum lid and bottom cover. This configuration pairs an Intel Core Ultra 7 270HX Plus (20 cores, up to 5.3 GHz) with an NVIDIA GeForce RTX 5070 8 GB GDDR7, 16 GB DDR5 and a 1 TB SSD. The 16-inch WQXGA anti-glare OLED runs at 240 Hz with G-SYNC, and ports include Thunderbolt 4, USB-C 10 Gbps, HDMI 2.1 and 1GbE RJ45 with a 96 Whr battery.",
+      "keywords": "alienware 16x aurora oled gaming laptop rtx 5070 core ultra 7 270hx plus",
+      "specs": {
+        "cpu": "Intel Core Ultra 7 270HX Plus (20 cores, up to 5.3 GHz)",
+        "cpuBrand": "Intel",
+        "gpu": "NVIDIA GeForce RTX 5070 8GB GDDR7",
+        "ramGb": 16,
+        "storageTb": 1,
+        "displayIn": 16,
+        "display": "16\" WQXGA anti-glare OLED, 240Hz, 620 nits HDR, G-SYNC",
+        "batteryWh": 96,
+        "weightKg": 2.57,
+        "os": "Windows 11 Home",
+        "ports": "1x Thunderbolt 4 (DP 2.1), 1x USB-C 10Gbps (PD), 2x USB-A 5Gbps, HDMI 2.1, RJ45 1GbE, audio jack",
+        "wireless": "MediaTek Wi-Fi 7 MT7925 2x2 + Bluetooth"
+      },
+      "collections": [
+        "gaming-monsters"
+      ],
+      "featured": false,
+      "sources": {
+        "product": "https://www.dell.com/en-us/shop/laptop-computers/spd/alienware16xauroraac16251",
+        "retrievedAt": "2026-09-28"
+      },
+      "image": {
+        "url": "https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/notebooks/alienware-notebooks/ac16251/media-gallery/laptop-alienware-ac16251-blue-ff-gallery-1.psd?fmt=png-alpha&pscan=auto&scl=1&wid=1400&qlt=100,0&resMode=sharp2",
+        "page": "https://www.dell.com/en-us/shop/laptop-computers/spd/alienware16xauroraac16251",
+        "sourceType": "manufacturer-product-page",
+        "rights": "Official Dell product-page gallery image (i.dell.com); Dell has not granted a reuse license - rights not verified.",
+        "credit": "Dell Technologies",
+        "alt": "Alienware 16X Aurora AC16251 gaming laptop, open front view of the OLED display and keyboard",
+        "match": "EXACT"
+      }
+    },
+    {
+      "sku": "TK-ALIENWARE-AREA51-AAT2265",
+      "slug": "alienware-area-51-desktop-aat2265",
+      "name": "Alienware Area-51 Gaming Desktop (AAT2265, AMD)",
+      "brand": "Alienware",
+      "category": "gaming-desktops",
+      "price": "5699.99",
+      "priceBasis": "msrp",
+      "priceSource": "https://www.dell.com/en-us/shop/desktop-computers/spd/alienwarearea51aat2265",
+      "priceAsOf": "2026-09-28",
+      "priceNote": "Dell.com US price of the pre-configured model shown on the product page (specs describe this configuration).",
+      "releaseYear": 2026,
+      "summary": "Alienware's flagship tower with an AMD Ryzen 9 9950X3D2, GeForce RTX 5080 16 GB, liquid cooling, USB4 and a clear side panel.",
+      "description": "The AMD-based Alienware Area-51 desktop (AAT2265) is Alienware's top gaming tower. This configuration uses an AMD Ryzen 9 9950X3D2 (16 cores, 208 MB total cache, up to 5.6 GHz), NVIDIA GeForce RTX 5080 16 GB GDDR7, 32 GB DDR5 XMP and a 1 TB Gen5 SSD. It offers 240 mm or 360 mm CPU liquid cooling with a clear side panel, two USB4 40 Gbps rear ports, 2.5GbE and Wi-Fi 7. An Intel Core Ultra version (AAT2250) is also sold.",
+      "keywords": "alienware area-51 gaming desktop ryzen 9 9950x3d2 rtx 5080 liquid cooled",
+      "specs": {
+        "cpu": "AMD Ryzen 9 9950X3D2 (16 cores, 208MB total cache, up to 5.6 GHz)",
+        "cpuBrand": "AMD",
+        "gpu": "NVIDIA GeForce RTX 5080 16GB GDDR7",
+        "ramGb": 32,
+        "storageTb": 1,
+        "os": "Windows 11 Home",
+        "networking": "2.5GbE RJ45, MediaTek Wi-Fi 7 MT7925 + Bluetooth",
+        "ports": "Top: 2x USB-A 5Gbps, 2x USB-C 10Gbps, audio; Rear: 2x USB4 40Gbps (DP Alt, PD), 2x USB-C 10Gbps, USB-A, 5x USB 2.0, S/PDIF"
+      },
+      "variants": [
+        {
+          "label": "AMD Ryzen 9 9950X3D2 / RTX 5080 / 32 GB / 1 TB (featured)",
+          "price": "5699.99"
+        }
+      ],
+      "collections": [
+        "gaming-monsters",
+        "ultimate-gaming-setup",
+        "dream-gaming"
+      ],
+      "featured": true,
+      "sources": {
+        "product": "https://www.dell.com/en-us/shop/desktop-computers/spd/alienwarearea51aat2265",
+        "retrievedAt": "2026-09-28"
+      },
+      "image": {
+        "url": "https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/desktops/alienware/aat2265/media-gallery/desktop-alienware-aat2265-360mm-gy-gallery-hero.psd?fmt=png-alpha&pscan=auto&scl=1&wid=1400&qlt=100,0&resMode=sharp2",
+        "page": "https://www.dell.com/en-us/shop/desktop-computers/spd/alienwarearea51aat2265",
+        "sourceType": "manufacturer-product-page",
+        "rights": "Official Dell product-page gallery image (i.dell.com); Dell has not granted a reuse license - rights not verified.",
+        "credit": "Dell Technologies",
+        "alt": "Alienware Area-51 AAT2265 gaming desktop tower in gray with clear side panel and 360 mm liquid cooler",
+        "match": "EXACT"
+      }
+    },
+    {
+      "sku": "TK-ALIENWARE-AURORA-ACT1250",
+      "slug": "alienware-aurora-desktop-act1250",
+      "name": "Alienware Aurora Gaming Desktop (ACT1250)",
+      "brand": "Alienware",
+      "category": "gaming-desktops",
+      "price": "2329.99",
+      "priceBasis": "msrp",
+      "priceSource": "https://www.dell.com/en-us/shop/desktop-computers/spd/alienwareauroraact1250",
+      "priceAsOf": "2026-09-28",
+      "priceNote": "Dell.com US price of the pre-configured model shown on the product page (specs describe this configuration).",
+      "releaseYear": 2025,
+      "summary": "Alienware Aurora tower with an Intel Core Ultra 7 265F, GeForce RTX 5060 Ti 8 GB, 16 GB DDR5, 1 TB SSD and Wi-Fi 7.",
+      "description": "The Alienware Aurora (ACT1250) is Alienware's mainstream gaming tower. This configuration has an Intel Core Ultra 7 265F (20 cores, up to 5.3 GHz), NVIDIA GeForce RTX 5060 Ti 8 GB GDDR7, 16 GB DDR5 and a 1 TB Gen4 SSD. Front I/O includes USB-C 10 Gbps and three USB-A ports, the rear adds USB4 (20 Gbps) and optical S/PDIF, and Intel Wi-Fi 7 BE200 is built in.",
+      "keywords": "alienware aurora gaming desktop core ultra 7 265f rtx 5060 ti",
+      "specs": {
+        "cpu": "Intel Core Ultra 7 265F (20 cores, up to 5.3 GHz)",
+        "cpuBrand": "Intel",
+        "gpu": "NVIDIA GeForce RTX 5060 Ti 8GB GDDR7",
+        "ramGb": 16,
+        "storageTb": 1,
+        "os": "Windows 11 Home",
+        "networking": "RJ45 Ethernet, Intel Wi-Fi 7 BE200",
+        "ports": "Front: USB-C 10Gbps, 3x USB-A 5Gbps, headset; Rear: USB4 20Gbps (PD), USB-C 10Gbps, 2x USB-A 5Gbps, 2x USB 2.0, S/PDIF"
+      },
+      "collections": [
+        "gaming-monsters"
+      ],
+      "featured": false,
+      "sources": {
+        "product": "https://www.dell.com/en-us/shop/desktop-computers/spd/alienwareauroraact1250",
+        "retrievedAt": "2026-09-28"
+      },
+      "image": {
+        "url": "https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/desktops/alienware-aurora-r16-arl/media-gallery/240mm/desktop-alienware-act1250-240mm-bk-gallery-3.psd?fmt=png-alpha&pscan=auto&scl=1&wid=1400&qlt=100,0&resMode=sharp2",
+        "page": "https://www.dell.com/en-us/shop/desktop-computers/spd/alienwareauroraact1250",
+        "sourceType": "manufacturer-product-page",
+        "rights": "Official Dell product-page gallery image (i.dell.com); Dell has not granted a reuse license - rights not verified.",
+        "credit": "Dell Technologies",
+        "alt": "Alienware Aurora ACT1250 gaming desktop tower in black, angled front view",
+        "match": "EXACT"
+      }
+    },
+    {
+      "sku": "TK-DELL-PRECISION9-T6-PW9T6260",
+      "slug": "dell-pro-precision-9-t6-pw9t6260",
+      "name": "Dell Pro Precision 9 T6 Tower Workstation (PW9T6260)",
+      "brand": "Dell",
+      "category": "workstations",
+      "price": "7946.00",
+      "priceBasis": "msrp",
+      "priceSource": "https://www.dell.com/en-us/shop/laptop-computers/spd/dellproprecision9t6pw9t6260",
+      "priceAsOf": "2026-09-28",
+      "priceNote": "Dell.com US price of the pre-configured model shown on the product page (specs describe this configuration).",
+      "releaseYear": 2026,
+      "summary": "Flagship Dell Pro Precision 9 T6 tower with an Intel Xeon 654, ECC DDR5 RDIMM, six full-height PCIe slots and 10GbE.",
+      "description": "The Dell Pro Precision 9 T6 (PW9T6260) is a high-end tower workstation built on Intel Xeon. This configuration has an Intel Xeon 654 (18 cores, up to 4.8 GHz, 200 W), NVIDIA RTX A400 4 GB, 16 GB DDR5 RDIMM ECC and a 512 GB SED SSD with Windows 11 Pro for Workstations. The chassis provides six full-height PCIe slots (two Gen5 x16), three Gen5 M.2 NVMe slots, up to four front NVMe drives, 10GbE plus 1GbE, and front USB 20 Gbps Type-C. Higher-end NVIDIA RTX PRO GPUs are configurable.",
+      "keywords": "dell pro precision 9 t6 xeon workstation tower ecc pcie gen5 10gbe",
+      "specs": {
+        "cpu": "Intel Xeon 654 (18 cores, up to 4.8 GHz, 200W)",
+        "cpuBrand": "Intel",
+        "gpu": "NVIDIA RTX A400 4GB GDDR6",
+        "ramGb": 16,
+        "storageTb": 0.512,
+        "os": "Windows 11 Pro for Workstations",
+        "networking": "10GbE RJ45 + 1GbE RJ45",
+        "ports": "Front: USB-C 20Gbps, USB-C 10Gbps, 2x USB-A 10Gbps; Rear: USB-C 20Gbps, 2x USB-C 10Gbps, 4x USB-A 10Gbps, serial, PS/2"
+      },
+      "collections": [
+        "creator-workstations",
+        "ai-workstations",
+        "servers-workstations"
+      ],
+      "featured": false,
+      "sources": {
+        "product": "https://www.dell.com/en-us/shop/laptop-computers/spd/dellproprecision9t6pw9t6260",
+        "retrievedAt": "2026-09-28"
+      },
+      "image": {
+        "url": "https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/workstations/fixed-workstations/precision/dell-pro-precision-9-t6-pw9t6260/media-gallery/desktop-precision-pw9t6260-black-gallery-1.psd?fmt=png-alpha&pscan=auto&scl=1&wid=1400&qlt=100,0&resMode=sharp2",
+        "page": "https://www.dell.com/en-us/shop/laptop-computers/spd/dellproprecision9t6pw9t6260",
+        "sourceType": "manufacturer-product-page",
+        "rights": "Official Dell product-page gallery image (i.dell.com); Dell has not granted a reuse license - rights not verified.",
+        "credit": "Dell Technologies",
+        "alt": "Dell Pro Precision 9 T6 PW9T6260 tower workstation in black, angled front view",
+        "match": "EXACT"
+      }
+    },
+    {
+      "sku": "TK-DELL-PRECISION9-T4-PW9T4260",
+      "slug": "dell-pro-precision-9-t4-pw9t4260",
+      "name": "Dell Pro Precision 9 T4 Tower Workstation (PW9T4260)",
+      "brand": "Dell",
+      "category": "workstations",
+      "price": "5860.00",
+      "priceBasis": "msrp",
+      "priceSource": "https://www.dell.com/en-us/shop/laptop-computers/spd/dellproprecision9t4pw9t4260",
+      "priceAsOf": "2026-09-28",
+      "priceNote": "Dell.com US price of the pre-configured model shown on the product page (specs describe this configuration).",
+      "releaseYear": 2026,
+      "summary": "Dell Pro Precision 9 T4 Xeon tower workstation with ECC DDR5 RDIMM, Intel VROC, PCIe Gen5 slots and 10GbE networking.",
+      "description": "The Dell Pro Precision 9 T4 (PW9T4260) is a Xeon tower workstation. This configuration has an Intel Xeon 634 (12 cores, up to 4.6 GHz, 150 W), NVIDIA RTX A400 4 GB, 16 GB DDR5 RDIMM ECC and a 512 GB SED NVMe drive with Intel VROC software RAID and Windows 11 Pro for Workstations. It provides six full-height PCIe slots (two Gen5 x16), Gen5 M.2 storage, 10GbE and 1GbE ports and front USB 20 Gbps Type-C.",
+      "keywords": "dell pro precision 9 t4 xeon 634 workstation ecc vroc",
+      "specs": {
+        "cpu": "Intel Xeon 634 (12 cores, up to 4.6 GHz, 150W)",
+        "cpuBrand": "Intel",
+        "gpu": "NVIDIA RTX A400 4GB GDDR6",
+        "ramGb": 16,
+        "storageTb": 0.512,
+        "os": "Windows 11 Pro for Workstations",
+        "networking": "10GbE RJ45 + 1GbE RJ45",
+        "ports": "Front: USB-C 20Gbps, USB-C 10Gbps, 2x USB-A 10Gbps; Rear: USB-C 20Gbps, 2x USB-C 10Gbps, 4x USB-A 10Gbps, serial, PS/2"
+      },
+      "collections": [
+        "creator-workstations"
+      ],
+      "featured": false,
+      "sources": {
+        "product": "https://www.dell.com/en-us/shop/laptop-computers/spd/dellproprecision9t4pw9t4260",
+        "retrievedAt": "2026-09-28"
+      },
+      "image": {
+        "url": "https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/workstations/fixed-workstations/precision/dell-pro-precision-9-t4-pw9t4260/media-gallery/desktop-dell-pro-precision-pw9t4260-premium-gallery-1.psd?fmt=png-alpha&pscan=auto&scl=1&wid=1400&qlt=100,0&resMode=sharp2",
+        "page": "https://www.dell.com/en-us/shop/laptop-computers/spd/dellproprecision9t4pw9t4260",
+        "sourceType": "manufacturer-product-page",
+        "rights": "Official Dell product-page gallery image (i.dell.com); Dell has not granted a reuse license - rights not verified.",
+        "credit": "Dell Technologies",
+        "alt": "Dell Pro Precision 9 T4 PW9T4260 tower workstation, angled front view",
+        "match": "EXACT"
+      }
+    },
+    {
+      "sku": "TK-DELL-PRECISION7-T1-PW7T1260",
+      "slug": "dell-pro-precision-7-t1-pw7t1260",
+      "name": "Dell Pro Precision 7 T1 Tower Workstation (PW7T1260)",
+      "brand": "Dell",
+      "category": "workstations",
+      "price": "1404.00",
+      "priceBasis": "msrp",
+      "priceSource": "https://www.dell.com/en-us/shop/laptop-computers/spd/dellproprecision7t1pw7t1260",
+      "priceAsOf": "2026-09-28",
+      "priceNote": "Dell.com US price of the pre-configured model shown on the product page (specs describe this configuration).",
+      "releaseYear": 2026,
+      "summary": "Entry Dell Pro Precision 7 T1 tower workstation with Intel Core Ultra 5 235, PCIe Gen4 x16 slot and three DisplayPort outputs.",
+      "description": "The Dell Pro Precision 7 T1 (PW7T1260) is Dell's entry tower workstation. This configuration uses an Intel Core Ultra 5 235 (14 cores, up to 5.0 GHz, 65 W) with integrated Intel graphics, 8 GB DDR5 and a 256 GB SSD. It has a full-height PCIe Gen4 x16 slot plus three more PCIe slots, three M.2 SSD slots, three DisplayPort 1.4a outputs and optional modules such as Thunderbolt 4 or 5GbE.",
+      "keywords": "dell pro precision 7 t1 entry workstation tower core ultra",
+      "specs": {
+        "cpu": "Intel Core Ultra 5 235 (14 cores, up to 5.0 GHz, 65W)",
+        "cpuBrand": "Intel",
+        "gpu": "Intel integrated graphics",
+        "ramGb": 8,
+        "storageTb": 0.256,
+        "os": "Windows 11 Pro",
+        "networking": "RJ45 1GbE (optional 5GbE module)",
+        "ports": "Front: USB-C 20Gbps, USB-A 10Gbps, 2x USB 2.0; Rear: 3x DisplayPort 1.4a, USB-C 10Gbps, 3x USB-A 5Gbps, 2x USB 2.0"
+      },
+      "featured": false,
+      "sources": {
+        "product": "https://www.dell.com/en-us/shop/laptop-computers/spd/dellproprecision7t1pw7t1260",
+        "retrievedAt": "2026-09-28"
+      },
+      "image": {
+        "url": "https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/workstations/fixed-workstations/precision/dell-pro-precision-7-t1-pw7t1260/media-gallery/desktop-precision-pw7t1260-tower-black-gallery-1.psd?fmt=png-alpha&pscan=auto&scl=1&wid=1400&qlt=100,0&resMode=sharp2",
+        "page": "https://www.dell.com/en-us/shop/laptop-computers/spd/dellproprecision7t1pw7t1260",
+        "sourceType": "manufacturer-product-page",
+        "rights": "Official Dell product-page gallery image (i.dell.com); Dell has not granted a reuse license - rights not verified.",
+        "credit": "Dell Technologies",
+        "alt": "Dell Pro Precision 7 T1 PW7T1260 tower workstation in black, angled front view",
+        "match": "EXACT"
+      }
+    },
+    {
+      "sku": "TK-DELL-PROMAX-GB10-FCM1253",
+      "slug": "dell-pro-max-with-gb10-fcm1253",
+      "name": "Dell Pro Max with GB10 (FCM1253)",
+      "brand": "Dell",
+      "category": "ai-systems",
+      "price": "9007.00",
+      "priceBasis": "msrp",
+      "priceSource": "https://www.dell.com/en-us/shop/desktop-computers/dell-pro-max-with-gb10/spd/dell-pro-max-fcm1253-micro",
+      "priceAsOf": "2026-09-28",
+      "priceNote": "Dell.com US price of the pre-configured model shown on the product page (specs describe this configuration).",
+      "releaseYear": 2025,
+      "summary": "Compact AI developer desktop with the NVIDIA GB10 Grace Blackwell Superchip, 128 GB unified memory, 4 TB SSD and ConnectX-7.",
+      "description": "The Dell Pro Max with GB10 (FCM1253) is a 150 x 150 mm AI developer system running NVIDIA DGX OS 7. It uses the NVIDIA GB10 Grace Blackwell Superchip with 128 GB LPDDR5x unified memory and, per Dell, supports models up to 200 billion parameters with up to 1000 TFLOPs of FP4 compute. This configuration has a 4 TB self-encrypting NVMe SSD, 10GbE, a ConnectX-7 SmartNIC with two 200G QSFP ports for linking two units, three USB-C 20 Gbps ports, HDMI 2.1b and Wi-Fi 7.",
+      "keywords": "dell pro max gb10 grace blackwell dgx os ai developer desktop llm",
+      "specs": {
+        "formFactor": "Micro desktop (150 x 150 x 51 mm, 1.31 kg)",
+        "cpu": "NVIDIA GB10 Grace Blackwell Superchip",
+        "gpus": "NVIDIA Blackwell GPU (GB10 Superchip)",
+        "memoryGb": 128,
+        "aiPerformance": "Up to 1000 TFLOPs FP4; models up to 200B parameters",
+        "storage": "4 TB M.2 2242 PCIe Gen4 NVMe SED",
+        "network": "ConnectX-7 SmartNIC (2x 200G QSFP), 10GbE RJ45, Wi-Fi 7, Bluetooth 5.4"
+      },
+      "collections": [
+        "ai-lab",
+        "ai-workstations",
+        "developer-favorites"
+      ],
+      "featured": true,
+      "sources": {
+        "product": "https://www.dell.com/en-us/shop/desktop-computers/dell-pro-max-with-gb10/spd/dell-pro-max-fcm1253-micro",
+        "retrievedAt": "2026-09-28",
+        "specs": "https://www.dell.com/en-us/learn/lp/dell-pro-max-nvidia-ai-dev"
+      },
+      "image": {
+        "url": "https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/desktops/dell-pro-max/fcm1253/media-gallery/desktop-dell-pro-max-fcm1253-micro-bk-gallery-1.psd?fmt=png-alpha&pscan=auto&scl=1&wid=1400&qlt=100,0&resMode=sharp2",
+        "page": "https://www.dell.com/en-us/shop/desktop-computers/dell-pro-max-with-gb10/spd/dell-pro-max-fcm1253-micro",
+        "sourceType": "manufacturer-product-page",
+        "rights": "Official Dell product-page gallery image (i.dell.com); Dell has not granted a reuse license - rights not verified.",
+        "credit": "Dell Technologies",
+        "alt": "Dell Pro Max with GB10 FCM1253 compact AI desktop in black, front angled view",
+        "match": "EXACT"
+      }
+    },
+    {
+      "sku": "TK-DELL-PROMAX-GB300-FCT6263",
+      "slug": "dell-pro-max-with-gb300-fct6263",
+      "name": "Dell Pro Max with GB300 (FCT6263)",
+      "brand": "Dell",
+      "category": "ai-systems",
+      "price": "95000.00",
+      "priceBasis": "estimate",
+      "releaseYear": 2026,
+      "summary": "Deskside AI supercomputer with the NVIDIA GB300 Grace Blackwell Ultra Desktop Superchip, 496 GB LPDDR5X and 252 GB HBM3e.",
+      "description": "The Dell Pro Max with GB300 (FCT6263) brings the NVIDIA GB300 Grace Blackwell Ultra Desktop Superchip to a deskside tower. Dell lists 496 GB LPDDR5X CPU memory, 252 GB HBM3e GPU memory, up to 20,000 TFLOPs of FP4 compute and support for models up to 1 trillion parameters. The configuration shown pairs a 72-core NVIDIA Grace (Neoverse V2) CPU with 16 TB of NVMe storage, a ConnectX-8 SuperNIC with two 400 Gbps QSFP112 ports, 10GbE and 1GbE, running Ubuntu Pro 24.04 with NVIDIA AI developer tools.",
+      "keywords": "dell pro max gb300 grace blackwell ultra deskside ai supercomputer hbm3e",
+      "specs": {
+        "formFactor": "Deskside tower (569 x 232 x 611 mm)",
+        "cpu": "NVIDIA Grace 72-core Arm Neoverse V2",
+        "gpus": "NVIDIA GB300 Grace Blackwell Ultra Desktop Superchip",
+        "gpuMemoryGb": 252,
+        "memoryGb": 496,
+        "aiPerformance": "Up to 20,000 TFLOPs FP4; models up to 1 trillion parameters",
+        "storage": "16 TB (4x 4 TB M.2 PCIe Gen4 NVMe SED)",
+        "network": "ConnectX-8 SuperNIC (2x QSFP112 400Gbps), 10GbE + 1GbE RJ45"
+      },
+      "collections": [
+        "ai-lab",
+        "ai-workstations"
+      ],
+      "featured": false,
+      "sources": {
+        "product": "https://www.dell.com/en-us/shop/desktop-computers/dell-pro-max-with-gb300/spd/dell-pro-max-fct6263-desktop",
+        "retrievedAt": "2026-09-28",
+        "specs": "https://www.dell.com/en-us/learn/lp/dell-pro-max-nvidia-ai-dev"
+      },
+      "image": {
+        "url": "https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/desktops/dell-pro-max/fct6263/media-gallery/desktop-dell-pro-max-fct6263-bk-gallery-1.psd?fmt=png-alpha&pscan=auto&scl=1&wid=1400&qlt=100,0&resMode=sharp2",
+        "page": "https://www.dell.com/en-us/shop/desktop-computers/dell-pro-max-with-gb300/spd/dell-pro-max-fct6263-desktop",
+        "sourceType": "manufacturer-product-page",
+        "rights": "Official Dell product-page gallery image (i.dell.com); Dell has not granted a reuse license - rights not verified.",
+        "credit": "Dell Technologies",
+        "alt": "Dell Pro Max with GB300 FCT6263 deskside AI tower in black and magnetite, angled front view",
+        "match": "EXACT"
+      },
+      "notes": "Price is an estimate: dell.com US shows this configuration as unavailable with no price and directs buyers to a sales advisor (1-866-929-3355). Specs from the dell.com product page and the Dell Pro Max NVIDIA AI landing page."
+    },
+    {
+      "sku": "TK-DELL-PROMICROPLUS-QBM1250",
+      "slug": "dell-pro-micro-plus-qbm1250",
+      "name": "Dell Pro Micro Plus Desktop (QBM1250)",
+      "brand": "Dell",
+      "category": "mini-pcs",
+      "price": "1764.00",
+      "priceBasis": "msrp",
+      "priceSource": "https://www.dell.com/en-us/shop/desktop-computers/spd/dellpromicroplusqbm1250",
+      "priceAsOf": "2026-09-28",
+      "priceNote": "Dell.com US price of the pre-configured model shown on the product page (specs describe this configuration).",
+      "releaseYear": 2025,
+      "summary": "Ultra-compact business desktop with an Intel Core Ultra 5 235T, Intel vPro Enterprise, three DisplayPort outputs and a modular I/O port.",
+      "description": "The Dell Pro Micro Plus (QBM1250) is a mini business desktop weighing from 2.71 lb. This configuration pairs an Intel Core Ultra 5 235T (14 cores, up to 5.0 GHz, 13 TOPS NPU) with 16 GB DDR5 and Windows 11 Pro with Intel vPro Enterprise enabled. It offers front USB-C 20 Gbps, three DisplayPort 1.4a outputs, two M.2 Gen4 SSD slots, 1GbE and an optional module port for Thunderbolt 4, HDMI 2.1, DisplayPort 2.1, serial or 5GbE.",
+      "keywords": "dell pro micro plus mini pc business desktop core ultra vpro",
+      "specs": {
+        "cpu": "Intel Core Ultra 5 235T (14 cores, up to 5.0 GHz)",
+        "cpuBrand": "Intel",
+        "ramGb": 16,
+        "os": "Windows 11 Pro",
+        "networking": "RJ45 1GbE, MediaTek Wi-Fi 6 MT7920 + Bluetooth",
+        "ports": "Front: USB-C 20Gbps, 2x USB-A 10Gbps, headset; Rear: USB-C 10Gbps, 2x USB-A 10Gbps, 2x USB-A 5Gbps, 3x DisplayPort 1.4a, optional module"
+      },
+      "collections": [
+        "small-business",
+        "homelab-starter"
+      ],
+      "featured": false,
+      "sources": {
+        "product": "https://www.dell.com/en-us/shop/desktop-computers/spd/dellpromicroplusqbm1250",
+        "retrievedAt": "2026-09-28"
+      },
+      "image": {
+        "url": "https://i.dell.com/assetlink/img/global/desktop-pro-qbm1250-micro-black-gallery-1-dup11224216579468106-dl11bg12-large.png?fmt=png-alpha&pscan=auto&scl=1&wid=1400&qlt=100,0&resMode=sharp2",
+        "page": "https://www.dell.com/en-us/shop/desktop-computers/spd/dellpromicroplusqbm1250",
+        "sourceType": "manufacturer-product-page",
+        "rights": "Official Dell product-page gallery image (i.dell.com); Dell has not granted a reuse license - rights not verified.",
+        "credit": "Dell Technologies",
+        "alt": "Dell Pro Micro Plus QBM1250 mini desktop in black, standing upright, front angled view",
+        "match": "EXACT"
+      }
+    },
+    {
+      "sku": "TK-DELL-PRO5MICRO-P5M1260",
+      "slug": "dell-pro-5-micro-p5m1260",
+      "name": "Dell Pro 5 Micro Desktop (P5M1260)",
+      "brand": "Dell",
+      "category": "mini-pcs",
+      "price": "1617.00",
+      "priceBasis": "msrp",
+      "priceSource": "https://www.dell.com/en-us/shop/desktop-computers/spd/dellpro5microp5m1260",
+      "priceAsOf": "2026-09-28",
+      "priceNote": "Dell.com US price of the pre-configured model shown on the product page (specs describe this configuration).",
+      "releaseYear": 2026,
+      "summary": "Ultracompact Copilot+ business desktop with Intel Core Ultra 5 335 (47 TOPS NPU), USB-C power input and Wi-Fi 7.",
+      "description": "The Dell Pro 5 Micro (P5M1260) is an ultracompact Copilot+ PC for business, starting at 2.42 lb. This configuration uses an Intel Core Ultra 5 335 (8 cores, up to 4.6 GHz, 47 TOPS NPU) with 16 GB DDR5 and Windows 11 Pro. Rear I/O includes HDMI 2.1, DisplayPort 1.4a, a full-featured USB-C port with up to 100 W power input, 1GbE and an optional module port; Intel BE211 wireless is included.",
+      "keywords": "dell pro 5 micro copilot+ mini pc panther lake business",
+      "specs": {
+        "cpu": "Intel Core Ultra 5 335 (8 cores, up to 4.6 GHz)",
+        "cpuBrand": "Intel",
+        "ramGb": 16,
+        "os": "Windows 11 Pro (Copilot+ PC)",
+        "networking": "RJ45 1GbE, Intel BE211 Wi-Fi 7 + Bluetooth",
+        "ports": "Front: USB-C 10Gbps, USB-A 5Gbps, headset; Rear: HDMI 2.1, DisplayPort 1.4a, USB-C (100W input), 2x USB-A 5Gbps, 2x USB 2.0, optional module"
+      },
+      "collections": [
+        "small-business"
+      ],
+      "featured": false,
+      "sources": {
+        "product": "https://www.dell.com/en-us/shop/desktop-computers/spd/dellpro5microp5m1260",
+        "retrievedAt": "2026-09-28"
+      },
+      "image": {
+        "url": "https://i.dell.com/assetlink/img/global/dell-pro-p5m1260-micro-desktop-c-30030rf000-bk-dl169my-large.png?fmt=png-alpha&pscan=auto&scl=1&wid=1400&qlt=100,0&resMode=sharp2",
+        "page": "https://www.dell.com/en-us/shop/desktop-computers/spd/dellpro5microp5m1260",
+        "sourceType": "manufacturer-product-page",
+        "rights": "Official Dell product-page gallery image (i.dell.com); Dell has not granted a reuse license - rights not verified.",
+        "credit": "Dell Technologies",
+        "alt": "Dell Pro 5 Micro P5M1260 mini desktop in black, upright angled view",
+        "match": "EXACT"
+      }
+    },
+    {
+      "sku": "TK-DELL-27AIO-EC27260",
+      "slug": "dell-27-all-in-one-ec27260",
+      "name": "Dell 27 All-in-One Desktop (EC27260)",
+      "brand": "Dell",
+      "category": "all-in-ones",
+      "price": "1549.99",
+      "priceBasis": "msrp",
+      "priceSource": "https://www.dell.com/en-us/shop/desktop-computers/spd/dell27allinoneec27260",
+      "priceAsOf": "2026-09-28",
+      "priceNote": "Dell.com US price of the pre-configured model shown on the product page (specs describe this configuration).",
+      "releaseYear": 2026,
+      "summary": "27-inch touch all-in-one Copilot+ PC with a Series 3 Intel Core Ultra 5 325, 16 GB DDR5, FHD IR camera and Wi-Fi 7.",
+      "description": "The Dell 27 All-in-One (EC27260) is a home and office all-in-one. This configuration has a Series 3 Intel Core Ultra 5 325 (8 cores, up to 4.5 GHz), 16 GB DDR5 and a 512 GB SSD behind a 27-inch FHD narrow-border touch display. It includes an FHD IR camera, HDMI-in and HDMI-out, USB-C 10 Gbps, Ethernet and Intel Wi-Fi 7 with Bluetooth 6.0; a QHD non-touch panel is also offered.",
+      "keywords": "dell 27 all in one touch copilot+ pc core ultra 5 325",
+      "specs": {
+        "cpu": "Intel Core Ultra 5 325 (Series 3, 8 cores, up to 4.5 GHz)",
+        "cpuBrand": "Intel",
+        "gpu": "Intel Graphics",
+        "ramGb": 16,
+        "storageTb": 0.512,
+        "os": "Windows 11 Home (Copilot+ PC)",
+        "networking": "RJ45 Ethernet, Intel Wi-Fi 7 BE213 + Bluetooth 6.0",
+        "ports": "HDMI-in 1.4, HDMI-out 2.1, USB-C 10Gbps, 2x USB-A 10Gbps, USB 2.0, headset",
+        "displayIn": 27
+      },
+      "featured": false,
+      "sources": {
+        "product": "https://www.dell.com/en-us/shop/desktop-computers/spd/dell27allinoneec27260",
+        "retrievedAt": "2026-09-28"
+      },
+      "image": {
+        "url": "https://i.dell.com/assetlink/img/en/aio-dell-27-ec27260t-gy-gallery-1-dl1f7d9-large.png?fmt=png-alpha&pscan=auto&scl=1&wid=1400&qlt=100,0&resMode=sharp2",
+        "page": "https://www.dell.com/en-us/shop/desktop-computers/spd/dell27allinoneec27260",
+        "sourceType": "manufacturer-product-page",
+        "rights": "Official Dell product-page gallery image (i.dell.com); Dell has not granted a reuse license - rights not verified.",
+        "credit": "Dell Technologies",
+        "alt": "Dell 27 All-in-One EC27260 desktop, front view of the 27-inch touch display on its stand",
+        "match": "EXACT"
+      }
+    },
+    {
+      "sku": "TK-DELL-PRO24AIO-QC24250",
+      "slug": "dell-pro-24-all-in-one-qc24250",
+      "name": "Dell Pro 24 All-in-One Desktop 65W (QC24250)",
+      "brand": "Dell",
+      "category": "all-in-ones",
+      "price": "1810.00",
+      "priceBasis": "msrp",
+      "priceSource": "https://www.dell.com/en-us/shop/desktop-computers/spd/dellpro24allinone65wqc24250",
+      "priceAsOf": "2026-09-28",
+      "priceNote": "Dell.com US price of the pre-configured model shown on the product page (specs describe this configuration).",
+      "releaseYear": 2025,
+      "summary": "24-inch business all-in-one with a 65 W Intel Core Ultra 5 235, 100Hz FHD IPS display, HDMI-in and USB-C 20 Gbps.",
+      "description": "The Dell Pro 24 All-in-One (QC24250) is a business all-in-one built around 65 W desktop processors. This configuration uses an Intel Core Ultra 5 235 (14 cores, up to 5.0 GHz), 16 GB DDR5 and a 512 GB SSD with a 23.8-inch FHD IPS 100Hz anti-glare display. Rear I/O includes USB-C 20 Gbps, three USB-A 10 Gbps, DisplayPort++ 1.4a, HDMI-out 2.1, HDMI-in and 1GbE, with an SD card slot and textured black chassis.",
+      "keywords": "dell pro 24 all in one business aio core ultra 65w",
+      "specs": {
+        "cpu": "Intel Core Ultra 5 235 (14 cores, up to 5.0 GHz, 65W)",
+        "cpuBrand": "Intel",
+        "ramGb": 16,
+        "storageTb": 0.512,
+        "os": "Windows 11 Pro",
+        "networking": "RJ45 1GbE, Intel AX211 wireless",
+        "ports": "USB-C 20Gbps, USB-C 10Gbps, 4x USB-A 10Gbps, 2x USB-A 5Gbps, DisplayPort++ 1.4a, HDMI-out 2.1, HDMI-in 1.4, SD",
+        "displayIn": 23.8
+      },
+      "collections": [
+        "small-business"
+      ],
+      "featured": false,
+      "sources": {
+        "product": "https://www.dell.com/en-us/shop/desktop-computers/spd/dellpro24allinone65wqc24250",
+        "retrievedAt": "2026-09-28"
+      },
+      "image": {
+        "url": "https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/desktops/dell-pro/qc24250/media-gallery/desktop-aio-dell-pro-qc24250-fixst-cam-bk-gallery-1.psd?fmt=png-alpha&pscan=auto&scl=1&wid=1400&qlt=100,0&resMode=sharp2",
+        "page": "https://www.dell.com/en-us/shop/desktop-computers/spd/dellpro24allinone65wqc24250",
+        "sourceType": "manufacturer-product-page",
+        "rights": "Official Dell product-page gallery image (i.dell.com); Dell has not granted a reuse license - rights not verified.",
+        "credit": "Dell Technologies",
+        "alt": "Dell Pro 24 All-in-One QC24250 in black on a fixed stand, front view with pop-up camera",
+        "match": "EXACT"
+      }
+    },
+    {
+      "sku": "TK-ALIENWARE-AW3926QW",
+      "slug": "alienware-39-5k-oled-aw3926qw",
+      "name": "Alienware 39 5K OLED Gaming Monitor (AW3926QW)",
+      "brand": "Alienware",
+      "category": "gaming-monitors",
+      "price": "1099.99",
+      "priceBasis": "msrp",
+      "priceSource": "https://www.dell.com/en-us/shop/monitors/apd/alienware-39-5k-oled-gaming-monitor-aw3926qw/aw3926qw/-",
+      "priceAsOf": "2026-09-28",
+      "priceNote": "Dell.com US price.",
+      "releaseYear": 2026,
+      "summary": "38.9-inch 5K2K curved OLED with 165Hz (330Hz dual-resolution mode), Dolby Vision, DisplayHDR True Black 500 and 90 W USB-C.",
+      "description": "Dell describes the AW3926QW as the world's first 39-inch 5K monitor with RGB-stripe tandem OLED technology. The 1500R curved 21:9 panel runs 5120 x 2160 at 165 Hz or 2560 x 1080 at 330 Hz, with 0.03 ms GTG response, 99% DCI-P3 and 1300-nit peak brightness. It carries VESA DisplayHDR True Black 500 and Dolby Vision, G-SYNC Compatible and FreeSync Premium Pro, two HDMI 2.1, DisplayPort 2.1 and a USB-C upstream port with 90 W power delivery and KVM. A 3-year warranty covers OLED burn-in.",
+      "keywords": "alienware 39 5k2k oled ultrawide gaming monitor dual resolution 330hz",
+      "specs": {
+        "sizeIn": 38.9,
+        "resolution": "5120 x 2160 (5K2K); 2560 x 1080 at 330Hz dual-resolution mode",
+        "refreshHz": 165,
+        "panel": "RGB-stripe tandem OLED, 1500R curved",
+        "hdr": "VESA DisplayHDR True Black 500, Dolby Vision, 1300 nits peak",
+        "colorGamut": "99% DCI-P3",
+        "inputs": "2x HDMI 2.1 (FRL), 1x DisplayPort 2.1, 1x USB-C (DP 2.1 Alt Mode, 90W PD), USB hub",
+        "usbCPowerW": 90
+      },
+      "collections": [
+        "oled-displays",
+        "ultimate-gaming-setup",
+        "dream-gaming"
+      ],
+      "featured": true,
+      "warranty": 36,
+      "sources": {
+        "product": "https://www.dell.com/en-us/shop/monitors/apd/alienware-39-5k-oled-gaming-monitor-aw3926qw/aw3926qw/-",
+        "retrievedAt": "2026-09-28"
+      },
+      "image": {
+        "url": "https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/peripherals/monitors/alienware/aw3926qw/media-gallery/monitor-aw3926qw-black-gallery-1.psd?fmt=png-alpha&pscan=auto&scl=1&wid=1400&qlt=100,0&resMode=sharp2",
+        "page": "https://www.dell.com/en-us/shop/monitors/apd/alienware-39-5k-oled-gaming-monitor-aw3926qw/aw3926qw/-",
+        "sourceType": "manufacturer-product-page",
+        "rights": "Official Dell product-page gallery image (i.dell.com); Dell has not granted a reuse license - rights not verified.",
+        "credit": "Dell Technologies",
+        "alt": "Alienware 39 5K OLED AW3926QW curved ultrawide gaming monitor in black on its stand, front view",
+        "match": "EXACT"
+      }
+    },
+    {
+      "sku": "TK-ALIENWARE-AW3426DW",
+      "slug": "alienware-34-280hz-qd-oled-aw3426dw",
+      "name": "Alienware 34 280Hz QD-OLED Gaming Monitor (AW3426DW)",
+      "brand": "Alienware",
+      "category": "ultrawide-monitors",
+      "price": "799.99",
+      "priceBasis": "msrp",
+      "priceSource": "https://www.dell.com/en-us/shop/monitors/apd/alienware-34-280hz-qd-oled-gaming-monitor-aw3426dw/aw3426dw/-",
+      "priceAsOf": "2026-09-28",
+      "priceNote": "Dell.com US price.",
+      "releaseYear": 2026,
+      "summary": "34-inch 3440x1440 QD-OLED ultrawide at 280Hz with 0.03 ms response, Dolby Vision and 99% DCI-P3.",
+      "description": "The Alienware AW3426DW is a 34-inch 21:9 QD-OLED gaming monitor running 3440 x 1440 at 280 Hz with 0.03 ms GTG response. Dell lists 1800R curvature, 99% DCI-P3, Dolby Vision HDR with 1300-nit peak brightness, FreeSync Premium Pro and G-SYNC Compatible, two HDMI 2.1 ports, DisplayPort 1.4 and a USB hub. It carries a 3-year warranty including OLED burn-in.",
+      "keywords": "alienware 34 qd-oled ultrawide 280hz gaming monitor aw3426dw",
+      "specs": {
+        "sizeIn": 34,
+        "resolution": "3440 x 1440 (UWQHD)",
+        "refreshHz": 280,
+        "panel": "QD-OLED, 1800R curvature",
+        "hdr": "Dolby Vision, 1300 nits peak",
+        "colorGamut": "99% DCI-P3",
+        "inputs": "2x HDMI 2.1 (FRL), 1x DisplayPort 1.4, USB 5Gbps hub with USB-C (15W)"
+      },
+      "collections": [
+        "oled-displays",
+        "ultimate-gaming-setup"
+      ],
+      "featured": false,
+      "warranty": 36,
+      "sources": {
+        "product": "https://www.dell.com/en-us/shop/monitors/apd/alienware-34-280hz-qd-oled-gaming-monitor-aw3426dw/aw3426dw/-",
+        "retrievedAt": "2026-09-28"
+      },
+      "image": {
+        "url": "https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/peripherals/monitors/alienware/aw3426dw/media-gallery/monitor-aw3426dw-black-gallery-1.psd?fmt=png-alpha&pscan=auto&scl=1&wid=1400&qlt=100,0&resMode=sharp2",
+        "page": "https://www.dell.com/en-us/shop/monitors/apd/alienware-34-280hz-qd-oled-gaming-monitor-aw3426dw/aw3426dw/-",
+        "sourceType": "manufacturer-product-page",
+        "rights": "Official Dell product-page gallery image (i.dell.com); Dell has not granted a reuse license - rights not verified.",
+        "credit": "Dell Technologies",
+        "alt": "Alienware 34 AW3426DW QD-OLED ultrawide gaming monitor in black, front view on stand",
+        "match": "EXACT"
+      }
+    },
+    {
+      "sku": "TK-ALIENWARE-AW2726DM",
+      "slug": "alienware-27-240hz-qd-oled-aw2726dm",
+      "name": "Alienware 27 240Hz QD-OLED Gaming Monitor (AW2726DM)",
+      "brand": "Alienware",
+      "category": "gaming-monitors",
+      "price": "349.99",
+      "priceBasis": "msrp",
+      "priceSource": "https://www.dell.com/en-us/shop/computer-monitors/sac/monitors/all-monitors",
+      "priceAsOf": "2026-09-28",
+      "priceNote": "Dell.com US price as listed on the all-monitors page on 2026-09-28 (the product page did not render a price).",
+      "releaseYear": 2026,
+      "summary": "Affordable 26.5-inch QHD QD-OLED gaming monitor at 240Hz with 0.03 ms response and 99% DCI-P3.",
+      "description": "The Alienware AW2726DM brings QD-OLED to a lower price point: a 26.5-inch 2560 x 1440 panel running at 240 Hz over DisplayPort with 0.03 ms GTG response. Dell lists 99% DCI-P3, 400-nit peak brightness, VESA Adaptive Sync / FreeSync Premium, two HDMI 2.1 (TMDS, up to 120 Hz) ports and one DisplayPort 1.4, plus a height-adjustable stand and 3-year warranty.",
+      "keywords": "alienware 27 qd-oled 240hz qhd gaming monitor budget aw2726dm",
+      "specs": {
+        "sizeIn": 26.5,
+        "resolution": "2560 x 1440 (QHD)",
+        "refreshHz": 240,
+        "panel": "QD-OLED",
+        "hdr": "400 nits peak",
+        "colorGamut": "99% DCI-P3",
+        "inputs": "2x HDMI 2.1 (TMDS, up to 120Hz), 1x DisplayPort 1.4 (up to 240Hz)"
+      },
+      "collections": [
+        "oled-displays",
+        "deals"
+      ],
+      "featured": false,
+      "warranty": 36,
+      "sources": {
+        "product": "https://www.dell.com/en-us/shop/monitors/apd/alienware-27-240hz-qd-oled-gaming-monitor-aw2726dm/aw2726dm/-",
+        "retrievedAt": "2026-09-28"
+      },
+      "image": {
+        "url": "https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/peripherals/monitors/alienware/aw2726dm/media-gallery/monitor-aw2726dm-black-gallery-1.psd?fmt=png-alpha&pscan=auto&scl=1&wid=1400&qlt=100,0&resMode=sharp2",
+        "page": "https://www.dell.com/en-us/shop/monitors/apd/alienware-27-240hz-qd-oled-gaming-monitor-aw2726dm/aw2726dm/-",
+        "sourceType": "manufacturer-product-page",
+        "rights": "Official Dell product-page gallery image (i.dell.com); Dell has not granted a reuse license - rights not verified.",
+        "credit": "Dell Technologies",
+        "alt": "Alienware 27 AW2726DM QD-OLED gaming monitor in black, front view on height-adjustable stand",
+        "match": "EXACT"
+      }
+    },
+    {
+      "sku": "TK-ALIENWARE-AW2725Q",
+      "slug": "alienware-27-4k-qd-oled-aw2725q",
+      "name": "Alienware 27 4K QD-OLED Gaming Monitor (AW2725Q)",
+      "brand": "Alienware",
+      "category": "gaming-monitors",
+      "price": "899.99",
+      "priceBasis": "msrp",
+      "priceSource": "https://www.dell.com/en-us/shop/computer-monitors/sac/monitors/all-monitors",
+      "priceAsOf": "2026-09-28",
+      "priceNote": "Dell.com US price as listed on the all-monitors page on 2026-09-28 (the product page did not render a price).",
+      "releaseYear": 2025,
+      "summary": "26.7-inch 4K QD-OLED gaming monitor at 240Hz with 166 PPI, Dolby Vision, 1000-nit peak and HDMI 2.1 eARC.",
+      "description": "The Alienware AW2725Q is a 26.7-inch 3840 x 2160 QD-OLED gaming monitor running at 240 Hz with 0.03 ms GTG response and 166 PPI. Dell lists 99% DCI-P3, Dolby Vision with 1000-nit peak brightness, G-SYNC Compatible and FreeSync Premium Pro, one DisplayPort 1.4, two HDMI 2.1 ports (one with eARC for Dolby Atmos pass-through) and a USB 5 Gbps hub, finished in Dark Blue.",
+      "keywords": "alienware 27 4k qd-oled 240hz gaming monitor aw2725q dolby vision",
+      "specs": {
+        "sizeIn": 26.7,
+        "resolution": "3840 x 2160 (4K UHD)",
+        "refreshHz": 240,
+        "panel": "QD-OLED",
+        "hdr": "Dolby Vision, 1000 nits peak",
+        "colorGamut": "99% DCI-P3",
+        "inputs": "1x DisplayPort 1.4, 2x HDMI 2.1 (FRL, one eARC), USB 5Gbps hub (3x USB-A, 1x USB-C)"
+      },
+      "collections": [
+        "oled-displays",
+        "ultimate-gaming-setup"
+      ],
+      "featured": false,
+      "warranty": 36,
+      "sources": {
+        "product": "https://www.dell.com/en-us/shop/monitors/apd/alienware-27-4k-qd-oled-gaming-monitor-aw2725q/aw2725q_monitor/-",
+        "retrievedAt": "2026-09-28"
+      },
+      "image": {
+        "url": "https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/peripherals/monitors/alienware/aw2725q/media-gallery/monitor-aw2725q-black-gallery-1.psd?fmt=png-alpha&pscan=auto&scl=1&wid=1400&qlt=100,0&resMode=sharp2",
+        "page": "https://www.dell.com/en-us/shop/monitors/apd/alienware-27-4k-qd-oled-gaming-monitor-aw2725q/aw2725q_monitor/-",
+        "sourceType": "manufacturer-product-page",
+        "rights": "Official Dell product-page gallery image (i.dell.com); Dell has not granted a reuse license - rights not verified.",
+        "credit": "Dell Technologies",
+        "alt": "Alienware 27 4K QD-OLED AW2725Q gaming monitor, front view on stand",
+        "match": "EXACT"
+      }
+    },
+    {
+      "sku": "TK-DELL-U5226KW",
+      "slug": "dell-ultrasharp-52-thunderbolt-hub-u5226kw",
+      "name": "Dell UltraSharp 52 Thunderbolt Hub Monitor (U5226KW)",
+      "brand": "Dell",
+      "category": "ultrawide-monitors",
+      "price": "2999.99",
+      "priceBasis": "msrp",
+      "priceSource": "https://www.dell.com/en-us/shop/monitors/apd/dell-ultrasharp-52-thunderbolt-hub-monitor-u5226kw/u5226kw/-",
+      "priceAsOf": "2026-09-28",
+      "priceNote": "Dell.com US price.",
+      "releaseYear": 2026,
+      "summary": "51.5-inch 6K (6144x2560) curved IPS Black ultrawide at 120Hz with Thunderbolt 4 (140 W), 2.5GbE and built-in speakers.",
+      "description": "The UltraSharp 52 (U5226KW) is a 51.5-inch 21:9 IPS Black monitor with a 6144 x 2560 resolution at 120 Hz and 4200R curvature. Dell lists 99% DCI-P3 and 100% sRGB/BT.709 coverage, 400 nits, 2,000:1 contrast, an ambient light sensor and 2 x 9 W speakers. Connectivity includes Thunderbolt 4 with up to 140 W EPR power delivery, three USB-C upstream ports for multi-PC use, two HDMI 2.1, two DisplayPort 1.4 and 2.5GbE.",
+      "keywords": "dell ultrasharp 52 6k ultrawide thunderbolt hub monitor ips black u5226kw",
+      "specs": {
+        "sizeIn": 51.5,
+        "resolution": "6144 x 2560 (6K)",
+        "refreshHz": 120,
+        "panel": "IPS Black, 4200R curved",
+        "colorGamut": "99% DCI-P3, 100% sRGB, 100% BT.709",
+        "inputs": "Thunderbolt 4 upstream (140W EPR), 3x USB-C upstream, 2x HDMI 2.1, 2x DisplayPort 1.4, RJ45 2.5GbE, USB-A 10Gbps hub",
+        "usbCPowerW": 140
+      },
+      "variants": [
+        {
+          "label": "With stand",
+          "price": "2999.99"
+        },
+        {
+          "label": "Without stand (U5226KW WOST)",
+          "price": "2799.99"
+        }
+      ],
+      "collections": [
+        "developer-setup",
+        "creator-workstations"
+      ],
+      "featured": true,
+      "warranty": 36,
+      "sources": {
+        "product": "https://www.dell.com/en-us/shop/monitors/apd/dell-ultrasharp-52-thunderbolt-hub-monitor-u5226kw/u5226kw/-",
+        "retrievedAt": "2026-09-28"
+      },
+      "image": {
+        "url": "https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/peripherals/monitors/u-series/u5226kw/mg/monitor-ultrasharp-u5226kw-gallery-2.psd?fmt=png-alpha&pscan=auto&scl=1&wid=1400&qlt=100,0&resMode=sharp2",
+        "page": "https://www.dell.com/en-us/shop/monitors/apd/dell-ultrasharp-52-thunderbolt-hub-monitor-u5226kw/u5226kw/-",
+        "sourceType": "manufacturer-product-page",
+        "rights": "Official Dell product-page gallery image (i.dell.com); Dell has not granted a reuse license - rights not verified.",
+        "credit": "Dell Technologies",
+        "alt": "Dell UltraSharp 52 U5226KW curved ultrawide monitor in platinum silver on its stand",
+        "match": "EXACT"
+      }
+    },
+    {
+      "sku": "TK-DELL-U3226Q",
+      "slug": "dell-ultrasharp-32-4k-qd-oled-u3226q",
+      "name": "Dell UltraSharp 32 4K QD-OLED Monitor (U3226Q)",
+      "brand": "Dell",
+      "category": "professional-monitors",
+      "price": "2599.99",
+      "priceBasis": "msrp",
+      "priceSource": "https://www.dell.com/en-us/shop/monitors/apd/dell-ultrasharp-32-4k-qd-oled-monitor-u3226q/u3226q/-",
+      "priceAsOf": "2026-09-28",
+      "priceNote": "Dell.com US price.",
+      "releaseYear": 2026,
+      "summary": "31.5-inch 4K QD-OLED UltraSharp at 120Hz with Dolby Vision, 99% DCI-P3 / 94% Adobe RGB, Thunderbolt 4 (140 W) and daisy-chain.",
+      "description": "The UltraSharp 32 4K QD-OLED (U3226Q) is Dell's first QD-OLED UltraSharp for colour-critical work. The 31.5-inch 3840 x 2160 panel runs at 120 Hz with 1,500,000:1 contrast and 1000-nit peak Dolby Vision HDR. Dell lists 99% DCI-P3, 94% Adobe RGB and 80% BT.2020 coverage with colour calibration, plus Thunderbolt 4 upstream with 140 W EPR power, a Thunderbolt 4 downstream port for daisy-chaining, two HDMI 2.1, DisplayPort 1.4, RJ45 and KVM. Its 3-year warranty covers burn-in.",
+      "keywords": "dell ultrasharp 32 qd-oled 4k professional monitor thunderbolt u3226q",
+      "specs": {
+        "sizeIn": 31.5,
+        "resolution": "3840 x 2160 (4K UHD)",
+        "refreshHz": 120,
+        "panel": "QD-OLED",
+        "hdr": "Dolby Vision, 1000 nits peak",
+        "colorGamut": "99% DCI-P3, 94% Adobe RGB, 80% BT.2020, 100% sRGB",
+        "inputs": "Thunderbolt 4 upstream (140W EPR) + Thunderbolt 4 downstream, USB-C upstream, 2x HDMI 2.1, 1x DisplayPort 1.4, RJ45",
+        "usbCPowerW": 140
+      },
+      "collections": [
+        "oled-displays",
+        "creator-workstations"
+      ],
+      "featured": false,
+      "warranty": 36,
+      "sources": {
+        "product": "https://www.dell.com/en-us/shop/monitors/apd/dell-ultrasharp-32-4k-qd-oled-monitor-u3226q/u3226q/-",
+        "retrievedAt": "2026-09-28"
+      },
+      "image": {
+        "url": "https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/peripherals/monitors/u-series/u3226q/mg/monitor-ultrasharp-u3226q-black-gallery-1.psd?fmt=png-alpha&pscan=auto&scl=1&wid=1400&qlt=100,0&resMode=sharp2",
+        "page": "https://www.dell.com/en-us/shop/monitors/apd/dell-ultrasharp-32-4k-qd-oled-monitor-u3226q/u3226q/-",
+        "sourceType": "manufacturer-product-page",
+        "rights": "Official Dell product-page gallery image (i.dell.com); Dell has not granted a reuse license - rights not verified.",
+        "credit": "Dell Technologies",
+        "alt": "Dell UltraSharp 32 4K QD-OLED U3226Q monitor in dark gray, front view on stand",
+        "match": "EXACT"
+      }
+    },
+    {
+      "sku": "TK-DELL-U4025QW",
+      "slug": "dell-ultrasharp-40-curved-thunderbolt-u4025qw",
+      "name": "Dell UltraSharp 40 Curved Thunderbolt Hub Monitor (U4025QW)",
+      "brand": "Dell",
+      "category": "ultrawide-monitors",
+      "price": "2399.99",
+      "priceBasis": "msrp",
+      "priceSource": "https://www.dell.com/en-us/shop/computer-monitors/sac/monitors/all-monitors",
+      "priceAsOf": "2026-09-28",
+      "priceNote": "Dell.com US price as listed on the all-monitors page on 2026-09-28.",
+      "releaseYear": 2025,
+      "summary": "39.7-inch 5K2K curved IPS Black ultrawide at 120Hz with Thunderbolt 4 (140 W), DisplayHDR 600, KVM and speakers.",
+      "description": "The UltraSharp 40 Curved Thunderbolt Hub Monitor (U4025QW) has a 39.7-inch 5120 x 2160 IPS Black panel at 120 Hz with 2500R curvature and 140 PPI. Dell lists VESA DisplayHDR 600, 99% DCI-P3 and 100% sRGB coverage, an ambient light sensor, built-in speakers and KVM. It connects through Thunderbolt 4 with up to 140 W EPR power delivery, a Thunderbolt 4 downstream port for daisy-chaining, HDMI 2.1, DisplayPort 1.4, RJ45 and a USB hub.",
+      "keywords": "dell ultrasharp 40 5k2k curved thunderbolt ultrawide u4025qw",
+      "specs": {
+        "sizeIn": 39.7,
+        "resolution": "5120 x 2160 (5K2K WUHD)",
+        "refreshHz": 120,
+        "panel": "IPS Black, 2500R curved",
+        "hdr": "VESA DisplayHDR 600",
+        "colorGamut": "99% DCI-P3, 100% sRGB, 100% BT.709",
+        "inputs": "Thunderbolt 4 upstream (140W EPR) + downstream, HDMI 2.1, DisplayPort 1.4, RJ45, USB hub",
+        "usbCPowerW": 140
+      },
+      "collections": [
+        "developer-setup"
+      ],
+      "featured": false,
+      "warranty": 36,
+      "sources": {
+        "product": "https://www.dell.com/en-us/shop/monitors/apd/dell-ultrasharp-40-curved-thunderbolt-hub-monitor-u4025qw/u4025qw_monitor/-",
+        "retrievedAt": "2026-09-28"
+      },
+      "image": {
+        "url": "https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/peripherals/monitors/u-series/u4025qw/media-gallery/monitor-ultrasharp-u4025qw-gray-gallery-1.psd?fmt=png-alpha&pscan=auto&scl=1&wid=1400&qlt=100,0&resMode=sharp2",
+        "page": "https://www.dell.com/en-us/shop/monitors/apd/dell-ultrasharp-40-curved-thunderbolt-hub-monitor-u4025qw/u4025qw_monitor/-",
+        "sourceType": "manufacturer-product-page",
+        "rights": "Official Dell product-page gallery image (i.dell.com); Dell has not granted a reuse license - rights not verified.",
+        "credit": "Dell Technologies",
+        "alt": "Dell UltraSharp 40 Curved U4025QW 5K2K ultrawide monitor in gray, front view on stand",
+        "match": "EXACT"
+      }
+    },
+    {
+      "sku": "TK-DELL-U2725QE",
+      "slug": "dell-ultrasharp-27-4k-thunderbolt-u2725qe",
+      "name": "Dell UltraSharp 27 4K Thunderbolt Hub Monitor (U2725QE)",
+      "brand": "Dell",
+      "category": "professional-monitors",
+      "price": "849.99",
+      "priceBasis": "msrp",
+      "priceSource": "https://www.dell.com/en-us/shop/monitors/apd/dell-ultrasharp-27-4k-thunderbolt-hub-monitor-u2725qe/u2725qe_monitor/-",
+      "priceAsOf": "2026-09-28",
+      "priceNote": "Dell.com US price.",
+      "releaseYear": 2025,
+      "summary": "27-inch 4K IPS Black UltraSharp at 120Hz with 3,000:1 contrast, Thunderbolt 4 (140 W) hub, daisy-chain and RJ45.",
+      "description": "The UltraSharp 27 4K Thunderbolt Hub Monitor (U2725QE) uses a 27-inch 3840 x 2160 IPS Black panel at 120 Hz with 3,000:1 native contrast, 163 PPI and ComfortView Plus. Dell lists 99% DCI-P3 and 100% sRGB coverage, 450 nits typical (600 peak), and a Thunderbolt 4 upstream port with up to 140 W EPR power delivery, a Thunderbolt 4 downstream port for daisy-chaining, HDMI 2.1, DisplayPort in and out, RJ45 and a USB-C KVM upstream port.",
+      "keywords": "dell ultrasharp 27 4k ips black thunderbolt hub monitor u2725qe",
+      "specs": {
+        "sizeIn": 27,
+        "resolution": "3840 x 2160 (4K UHD)",
+        "refreshHz": 120,
+        "panel": "IPS Black",
+        "hdr": "600 nits peak",
+        "colorGamut": "99% DCI-P3, 100% sRGB, 100% BT.709",
+        "inputs": "Thunderbolt 4 upstream (140W EPR) + downstream, HDMI 2.1, DisplayPort 1.4 in, DisplayPort out, USB-C upstream, RJ45",
+        "usbCPowerW": 140
+      },
+      "collections": [
+        "developer-setup",
+        "developer-favorites"
+      ],
+      "featured": false,
+      "warranty": 36,
+      "sources": {
+        "product": "https://www.dell.com/en-us/shop/monitors/apd/dell-ultrasharp-27-4k-thunderbolt-hub-monitor-u2725qe/u2725qe_monitor/-",
+        "retrievedAt": "2026-09-28"
+      },
+      "image": {
+        "url": "https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/peripherals/monitors/u-series/u2725qe/media-gallery/monitor-ultrasharp-u2725qe-gy-gallery-1.psd?fmt=png-alpha&pscan=auto&scl=1&wid=1400&qlt=100,0&resMode=sharp2",
+        "page": "https://www.dell.com/en-us/shop/monitors/apd/dell-ultrasharp-27-4k-thunderbolt-hub-monitor-u2725qe/u2725qe_monitor/-",
+        "sourceType": "manufacturer-product-page",
+        "rights": "Official Dell product-page gallery image (i.dell.com); Dell has not granted a reuse license - rights not verified.",
+        "credit": "Dell Technologies",
+        "alt": "Dell UltraSharp 27 4K U2725QE monitor in silver, front view on stand",
+        "match": "EXACT"
+      }
+    },
+    {
+      "sku": "TK-DELL-P2726HE",
+      "slug": "dell-pro-p-27-usb-c-hub-p2726he",
+      "name": "Dell Pro P 27 USB-C Hub Monitor (P2726HE)",
+      "brand": "Dell",
+      "category": "office-monitors",
+      "price": "379.99",
+      "priceBasis": "msrp",
+      "priceSource": "https://www.dell.com/en-us/shop/computer-monitors/sac/monitors/all-monitors",
+      "priceAsOf": "2026-09-28",
+      "priceNote": "Dell.com US price as listed on the all-monitors page on 2026-09-28 (the product page did not render a price).",
+      "releaseYear": 2026,
+      "summary": "27-inch FHD 120Hz IPS office monitor with a USB-C hub (100 W power delivery), RJ45 and DisplayPort daisy-chain output.",
+      "description": "The Dell Pro P 27 USB-C Hub Monitor (P2726HE) is a 27-inch 1920 x 1080 IPS office display running at 120 Hz with 300 nits and 99% sRGB. Its USB-C upstream port provides DisplayPort Alt Mode and up to 100 W power delivery for Dell notebooks, alongside HDMI, DisplayPort 1.4 in and out, 1GbE RJ45, two USB-C and two USB-A downstream ports.",
+      "keywords": "dell pro p27 usb-c hub office monitor p2726he 120hz",
+      "specs": {
+        "sizeIn": 27,
+        "resolution": "1920 x 1080 (FHD)",
+        "refreshHz": 120,
+        "panel": "IPS",
+        "colorGamut": "99% sRGB, 99% BT.709",
+        "inputs": "USB-C upstream (DP Alt Mode, 100W PD), HDMI, DisplayPort 1.4 in + out, RJ45 1GbE, 2x USB-C + 2x USB-A downstream",
+        "usbCPowerW": 100
+      },
+      "collections": [
+        "small-business"
+      ],
+      "featured": false,
+      "warranty": 36,
+      "sources": {
+        "product": "https://www.dell.com/en-us/shop/monitors/apd/dell-pro-p-27-usb-c-hub-monitor-p2726he/p2726he/-",
+        "retrievedAt": "2026-09-28"
+      },
+      "image": {
+        "url": "https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/peripherals/monitors/p-series/p2726he/mg/monitor-p2726he-black-gallery-1.psd?fmt=png-alpha&pscan=auto&scl=1&wid=1400&qlt=100,0&resMode=sharp2",
+        "page": "https://www.dell.com/en-us/shop/monitors/apd/dell-pro-p-27-usb-c-hub-monitor-p2726he/p2726he/-",
+        "sourceType": "manufacturer-product-page",
+        "rights": "Official Dell product-page gallery image (i.dell.com); Dell has not granted a reuse license - rights not verified.",
+        "credit": "Dell Technologies",
+        "alt": "Dell Pro P 27 P2726HE USB-C hub monitor in dark gray, front view on stand",
+        "match": "EXACT"
+      }
+    },
+    {
+      "sku": "TK-DELL-P3426WEB",
+      "slug": "dell-pro-p-34-usb-c-hub-conferencing-p3426web",
+      "name": "Dell Pro P 34 USB-C Hub Conferencing Monitor (P3426WEB)",
+      "brand": "Dell",
+      "category": "office-monitors",
+      "price": "749.99",
+      "priceBasis": "msrp",
+      "priceSource": "https://www.dell.com/en-us/shop/computer-monitors/sac/monitors/all-monitors",
+      "priceAsOf": "2026-09-28",
+      "compareAt": "799.99",
+      "priceNote": "Dell.com US sale price listed on the all-monitors page on 2026-09-28; regular Dell price $799.99.",
+      "releaseYear": 2026,
+      "summary": "34-inch curved WQHD conferencing monitor with a 4MP webcam, speakers, 100Hz and a USB-C hub with 90 W power delivery.",
+      "description": "The Dell Pro P 34 USB-C Hub Conferencing Monitor (P3426WEB) is a 34.1-inch 3440 x 1440 curved (3800R) IPS display at 100 Hz with 350 nits and 99% sRGB. It integrates a 4MP webcam and two speakers for video calls, plus a USB-C upstream port with 90 W power delivery, HDMI, DisplayPort 1.4, 1GbE RJ45 and a USB hub.",
+      "keywords": "dell pro p34 conferencing monitor webcam curved ultrawide usb-c p3426web",
+      "specs": {
+        "sizeIn": 34.1,
+        "resolution": "3440 x 1440 (WQHD)",
+        "refreshHz": 100,
+        "panel": "IPS, 3800R curved",
+        "colorGamut": "99% sRGB",
+        "inputs": "USB-C upstream (DP Alt Mode, 90W PD), HDMI, DisplayPort 1.4, USB-B upstream, RJ45 1GbE, USB hub; 4MP webcam",
+        "usbCPowerW": 90
+      },
+      "collections": [
+        "small-business"
+      ],
+      "featured": false,
+      "warranty": 36,
+      "sources": {
+        "product": "https://www.dell.com/en-us/shop/monitors/apd/dell-pro-p-34-usb-c-hub-conferencing-monitor-p3426web/p3426web/-",
+        "retrievedAt": "2026-09-28"
+      },
+      "image": {
+        "url": "https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/peripherals/monitors/p-series/p3426web/mg/monitor-p3426web-black-gallery-1.psd?fmt=png-alpha&pscan=auto&scl=1&wid=1400&qlt=100,0&resMode=sharp2",
+        "page": "https://www.dell.com/en-us/shop/monitors/apd/dell-pro-p-34-usb-c-hub-conferencing-monitor-p3426web/p3426web/-",
+        "sourceType": "manufacturer-product-page",
+        "rights": "Official Dell product-page gallery image (i.dell.com); Dell has not granted a reuse license - rights not verified.",
+        "credit": "Dell Technologies",
+        "alt": "Dell Pro P 34 P3426WEB curved conferencing monitor in dark gray with pop-up webcam, front view",
+        "match": "EXACT"
+      }
+    },
+    {
+      "sku": "TK-DELL-SD25TB5",
+      "slug": "dell-pro-thunderbolt-5-smart-dock-sd25tb5",
+      "name": "Dell Pro Thunderbolt 5 Smart Dock (SD25TB5)",
+      "brand": "Dell",
+      "category": "docks-adapters",
+      "price": "624.99",
+      "priceBasis": "msrp",
+      "priceSource": "https://www.dell.com/en-us/shop/docks-and-stands/ar/docking-stations-accessories",
+      "priceAsOf": "2026-09-28",
+      "priceNote": "Dell.com US price as listed on the docking stations page on 2026-09-28.",
+      "releaseYear": 2025,
+      "summary": "Thunderbolt 5 smart dock with up to 300 W to Dell PCs, four 4K 120Hz displays, 2.5GbE and cloud-manageable firmware.",
+      "description": "Dell calls the SD25TB5 the industry's first Thunderbolt 5 smart dock. It delivers up to 300 W over one cable to Dell systems (240 W to others), drives up to four 4K 120Hz displays or a single 8K 60Hz display, and has two Thunderbolt 5 ports, two DisplayPort 2.1, HDMI 2.1, a USB-C multi-function DisplayPort, USB-C 10 Gbps, four USB-A 10 Gbps and 2.5GbE. Management features include MAC address pass-through, PXE boot, Wake-on-LAN and Intel AMT over Thunderbolt with select vPro PCs.",
+      "keywords": "dell pro thunderbolt 5 smart dock sd25tb5 300w 4k 120hz",
+      "specs": {
+        "interface": "Thunderbolt 5 (host); 2x Thunderbolt 5, 2x DisplayPort 2.1, HDMI 2.1, 2x USB-C, 4x USB-A 10Gbps, 2.5GbE",
+        "powerDeliveryW": 300
+      },
+      "collections": [
+        "developer-setup"
+      ],
+      "featured": false,
+      "warranty": 36,
+      "sources": {
+        "product": "https://www.dell.com/en-us/shop/docks/apd/dell-pro-thunderbolt-5-smart-dock-sd25tb5/sd25tb5/-",
+        "retrievedAt": "2026-09-28"
+      },
+      "image": {
+        "url": "https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/peripherals/docks/sd25tb5/mg/dock-dell-pro-sd25tb5-bk-gallery-1.psd?fmt=png-alpha&pscan=auto&scl=1&wid=1400&qlt=100,0&resMode=sharp2",
+        "page": "https://www.dell.com/en-us/shop/docks/apd/dell-pro-thunderbolt-5-smart-dock-sd25tb5/sd25tb5/-",
+        "sourceType": "manufacturer-product-page",
+        "rights": "Official Dell product-page gallery image (i.dell.com); Dell has not granted a reuse license - rights not verified.",
+        "credit": "Dell Technologies",
+        "alt": "Dell Pro Thunderbolt 5 Smart Dock SD25TB5 in black, angled view of front ports",
+        "match": "EXACT"
+      }
+    },
+    {
+      "sku": "TK-DELL-WD25TB5",
+      "slug": "dell-pro-thunderbolt-5-dock-wd25tb5",
+      "name": "Dell Pro Thunderbolt 5 Dock (WD25TB5)",
+      "brand": "Dell",
+      "category": "docks-adapters",
+      "price": "534.99",
+      "priceBasis": "msrp",
+      "priceSource": "https://www.dell.com/en-us/shop/docks-and-stands/ar/docking-stations-accessories",
+      "priceAsOf": "2026-09-28",
+      "priceNote": "Dell.com US price as listed on the docking stations page on 2026-09-28.",
+      "releaseYear": 2025,
+      "summary": "Thunderbolt 5 dock with up to 300 W to Dell PCs (240 W others), support for four 4K 120Hz displays and 2.5GbE.",
+      "description": "The Dell Pro Thunderbolt 5 Dock (WD25TB5) connects over a single Thunderbolt 5 cable and supplies up to 300 W to Dell systems or 240 W to other USB-C PD 3.1 EPR laptops. It supports up to four 4K 120Hz displays, one 8K 60Hz or two 6K 60Hz displays, with two Thunderbolt 5 downstream ports, two DisplayPort 2.1, HDMI 2.1, two USB-C, four USB-A 10 Gbps and 2.5GbE, plus Dell Device Management Console firmware management.",
+      "keywords": "dell pro thunderbolt 5 dock wd25tb5 300w",
+      "specs": {
+        "interface": "Thunderbolt 5 (host); 2x Thunderbolt 5, 2x DisplayPort 2.1, HDMI 2.1, 2x USB-C, 4x USB-A 10Gbps, 2.5GbE",
+        "powerDeliveryW": 300
+      },
+      "featured": false,
+      "warranty": 36,
+      "sources": {
+        "product": "https://www.dell.com/en-us/shop/docks/apd/dell-pro-thunderbolt-5-dock-wd25tb5/wd25tb5/-",
+        "retrievedAt": "2026-09-28"
+      },
+      "image": {
+        "url": "https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/peripherals/docks/wd25tb5/media-gallery/dock-dell-pro-wd25tb5-bk-gallery-1.psd?fmt=png-alpha&pscan=auto&scl=1&wid=1400&qlt=100,0&resMode=sharp2",
+        "page": "https://www.dell.com/en-us/shop/docks/apd/dell-pro-thunderbolt-5-dock-wd25tb5/wd25tb5/-",
+        "sourceType": "manufacturer-product-page",
+        "rights": "Official Dell product-page gallery image (i.dell.com); Dell has not granted a reuse license - rights not verified.",
+        "credit": "Dell Technologies",
+        "alt": "Dell Pro Thunderbolt 5 Dock WD25TB5 in black, angled view of the dock and ports",
+        "match": "EXACT"
+      }
+    },
+    {
+      "sku": "TK-DELL-POWEREDGE-R770",
+      "slug": "dell-poweredge-r770",
+      "name": "Dell PowerEdge R770 2U Rack Server",
+      "brand": "Dell",
+      "category": "rack-servers",
+      "price": "26299.03",
+      "priceBasis": "starting-at",
+      "priceSource": "https://www.dell.com/en-us/shop/servers-storage-and-networking/poweredge-r770/spd/poweredge-r770/pe_r770_tm_vi_vp_sb",
+      "priceAsOf": "2026-09-28",
+      "priceNote": "Dell.com US 'Starting at' price for the default configuration of this model (configure-to-order).",
+      "releaseYear": 2025,
+      "summary": "17th-generation 2U two-socket rack server for Intel Xeon 6 processors with 32 DDR5 slots (8 TB), PCIe Gen5 and iDRAC10.",
+      "description": "The PowerEdge R770 is a 2U, two-socket rack server for Intel Xeon 6 processors with up to 144 E-cores or 86 P-cores per processor. It has 32 DDR5 RDIMM slots supporting up to 8 TB at 6400 MT/s, PERC 12/13 RAID, EDSFF E3.S and 2.5-inch drive options, GPU support and iDRAC10 management. Dell's starting configuration includes a Xeon 6 6507P, 2 x 64 GB RDIMM, a 16-bay 2.5-inch SAS/SATA chassis with PERC H365i, a 960 GB SSD, a dual-port 25GbE OCP NIC and 3-year ProSupport.",
+      "keywords": "poweredge r770 17g xeon 6 2u rack server idrac10 granite rapids",
+      "specs": {
+        "rackUnits": 2,
+        "cpu": "Intel Xeon 6 Performance 6507P (8C/16T, 3.5 GHz) as configured; up to 2x Xeon 6 (144 E-cores / 86 P-cores each)",
+        "socketCount": 2,
+        "memoryGb": 128,
+        "maxMemoryTb": 8,
+        "ecc": true,
+        "driveBays": 16,
+        "raid": "PERC 12 H365i (front)",
+        "network": "Broadcom 57414 dual-port 25GbE SFP28 OCP 3.0",
+        "psu": "1100W hot-plug MHS (single as configured; redundant options)"
+      },
+      "collections": [
+        "enterprise-servers",
+        "servers-workstations"
+      ],
+      "featured": false,
+      "warranty": 36,
+      "sources": {
+        "product": "https://www.dell.com/en-us/shop/servers-storage-and-networking/poweredge-r770/spd/poweredge-r770/pe_r770_tm_vi_vp_sb",
+        "retrievedAt": "2026-09-28",
+        "specs": "https://www.delltechnologies.com/asset/en-us/products/servers/technical-support/poweredge-r770-spec-sheet.pdf"
+      },
+      "image": {
+        "url": "https://i.dell.com/is/image/DellContent/content/dam/images/products/servers/poweredge/r770/dell-per770-16x2-5-dell-bezel-lf.psd?fmt=png-alpha&pscan=auto&scl=1&wid=1400&qlt=100,0&resMode=sharp2",
+        "page": "https://www.dell.com/en-us/shop/servers-storage-and-networking/poweredge-r770/spd/poweredge-r770/pe_r770_tm_vi_vp_sb",
+        "sourceType": "manufacturer-product-page",
+        "rights": "Official Dell product-page gallery image (i.dell.com); Dell has not granted a reuse license - rights not verified.",
+        "credit": "Dell Technologies",
+        "alt": "Dell PowerEdge R770 2U rack server with 16-bay 2.5-inch front and Dell bezel, left angled view",
+        "match": "EXACT"
+      }
+    },
+    {
+      "sku": "TK-DELL-POWEREDGE-R670",
+      "slug": "dell-poweredge-r670",
+      "name": "Dell PowerEdge R670 1U Rack Server",
+      "brand": "Dell",
+      "category": "rack-servers",
+      "price": "25798.99",
+      "priceBasis": "starting-at",
+      "priceSource": "https://www.dell.com/en-us/shop/servers-storage-and-networking/poweredge-r670/spd/poweredge-r670/pe_r670_tm_vi_vp_sb",
+      "priceAsOf": "2026-09-28",
+      "priceNote": "Dell.com US 'Starting at' price for the default configuration of this model (configure-to-order).",
+      "releaseYear": 2025,
+      "summary": "17th-generation 1U two-socket Intel Xeon 6 rack server with 32 DDR5 slots (8 TB), EDSFF E3.S options and iDRAC10.",
+      "description": "The PowerEdge R670 is a 1U, two-socket rack server for Intel Xeon 6 processors with up to 144 E-cores or 86 P-cores per processor and 32 DDR5 RDIMM slots (up to 8 TB). Front storage options include up to 16 EDSFF E3.S Gen5 NVMe drives, and it is offered in rear-I/O hot-aisle and front-I/O cold-aisle versions. Dell's starting configuration includes a Xeon 6 6507P, 2 x 64 GB RDIMM, an 8-bay SAS/SATA chassis with PERC H365i, a 960 GB SSD and dual-port 25GbE.",
+      "keywords": "poweredge r670 17g 1u xeon 6 rack server dense compute",
+      "specs": {
+        "rackUnits": 1,
+        "cpu": "Intel Xeon 6 Performance 6507P (8C/16T, 3.5 GHz) as configured; up to 2x Xeon 6",
+        "socketCount": 2,
+        "memoryGb": 128,
+        "maxMemoryTb": 8,
+        "ecc": true,
+        "driveBays": 8,
+        "raid": "PERC 12 H365i (front)",
+        "network": "Broadcom 57414 dual-port 25GbE SFP28 OCP 3.0",
+        "psu": "1100W hot-plug MHS (single as configured)"
+      },
+      "collections": [
+        "enterprise-servers"
+      ],
+      "featured": false,
+      "warranty": 36,
+      "sources": {
+        "product": "https://www.dell.com/en-us/shop/servers-storage-and-networking/poweredge-r670/spd/poweredge-r670/pe_r670_tm_vi_vp_sb",
+        "retrievedAt": "2026-09-28",
+        "specs": "https://www.delltechnologies.com/asset/en-us/products/servers/technical-support/poweredge-r670-spec-sheet.pdf"
+      },
+      "image": {
+        "url": "https://i.dell.com/is/image/DellContent/content/dam/images/products/servers/poweredge/r670/dell-per670-10x2-5-dell-bezel-lf.psd?fmt=png-alpha&pscan=auto&scl=1&wid=1400&qlt=100,0&resMode=sharp2",
+        "page": "https://www.dell.com/en-us/shop/servers-storage-and-networking/poweredge-r670/spd/poweredge-r670/pe_r670_tm_vi_vp_sb",
+        "sourceType": "manufacturer-product-page",
+        "rights": "Official Dell product-page gallery image (i.dell.com); Dell has not granted a reuse license - rights not verified.",
+        "credit": "Dell Technologies",
+        "alt": "Dell PowerEdge R670 1U rack server with Dell bezel, left angled front view",
+        "match": "EXACT"
+      }
+    },
+    {
+      "sku": "TK-DELL-POWEREDGE-R470",
+      "slug": "dell-poweredge-r470",
+      "name": "Dell PowerEdge R470 1U Rack Server",
+      "brand": "Dell",
+      "category": "rack-servers",
+      "price": "15699.02",
+      "priceBasis": "starting-at",
+      "priceSource": "https://www.dell.com/en-us/shop/servers-storage-and-networking/poweredge-r470/spd/poweredge-r470/pe_r470_tm_vi_vp_sb",
+      "priceAsOf": "2026-09-28",
+      "priceNote": "Dell.com US 'Starting at' price for the default configuration of this model (configure-to-order).",
+      "releaseYear": 2025,
+      "summary": "17th-generation 1U single-socket Intel Xeon 6 rack server with 16 DDR5 slots, E3.S NVMe options and iDRAC10.",
+      "description": "The PowerEdge R470 is a 1U, one-socket rack server tailored for budget-conscious, power-efficient data center deployments. It supports one Intel Xeon 6 E-core processor with up to 144 cores or a P-core processor with up to 86 cores, and 16 DDR5 slots (up to 4 TB with P-core R1S processors). Dell's starting configuration includes a Xeon 6 6507P, 64 GB RDIMM, an 8-bay 2.5-inch SAS/SATA chassis with H365i, a 960 GB SSD, dual-port 25GbE and an 800 W PSU.",
+      "keywords": "poweredge r470 17g 1u single socket xeon 6 rack server",
+      "specs": {
+        "rackUnits": 1,
+        "cpu": "Intel Xeon 6 Performance 6507P (8C/16T, 3.5 GHz) as configured",
+        "socketCount": 1,
+        "memoryGb": 64,
+        "maxMemoryTb": 4,
+        "ecc": true,
+        "driveBays": 8,
+        "raid": "PERC H365i",
+        "network": "Broadcom 57414 dual-port 25GbE SFP28 OCP 3.0",
+        "psu": "800W hot-plug MHS (single as configured)"
+      },
+      "collections": [
+        "enterprise-servers",
+        "small-business"
+      ],
+      "featured": false,
+      "warranty": 36,
+      "sources": {
+        "product": "https://www.dell.com/en-us/shop/servers-storage-and-networking/poweredge-r470/spd/poweredge-r470/pe_r470_tm_vi_vp_sb",
+        "retrievedAt": "2026-09-28",
+        "specs": "https://www.delltechnologies.com/asset/en-us/products/servers/technical-support/poweredge-r470-spec-sheet.pdf"
+      },
+      "image": {
+        "url": "https://i.dell.com/is/image/DellContent/content/dam/images/products/servers/poweredge/r470/dell-per470-10x2-5-bezel-lf.psd?fmt=png-alpha&pscan=auto&scl=1&wid=1400&qlt=100,0&resMode=sharp2",
+        "page": "https://www.dell.com/en-us/shop/servers-storage-and-networking/poweredge-r470/spd/poweredge-r470/pe_r470_tm_vi_vp_sb",
+        "sourceType": "manufacturer-product-page",
+        "rights": "Official Dell product-page gallery image (i.dell.com); Dell has not granted a reuse license - rights not verified.",
+        "credit": "Dell Technologies",
+        "alt": "Dell PowerEdge R470 1U rack server with bezel, left angled front view",
+        "match": "EXACT"
+      }
+    },
+    {
+      "sku": "TK-DELL-POWEREDGE-R570",
+      "slug": "dell-poweredge-r570",
+      "name": "Dell PowerEdge R570 2U Rack Server",
+      "brand": "Dell",
+      "category": "rack-servers",
+      "price": "16599.01",
+      "priceBasis": "starting-at",
+      "priceSource": "https://www.dell.com/en-us/shop/servers-storage-and-networking/poweredge-r570/spd/poweredge-r570/na_promo_per570_2",
+      "priceAsOf": "2026-09-28",
+      "priceNote": "Dell.com US 'Starting at' price for the default configuration of this model (configure-to-order).",
+      "releaseYear": 2025,
+      "summary": "17th-generation 2U single-socket Intel Xeon 6 rack server with up to 24 x 2.5-inch drive bays and double-wide GPU support.",
+      "description": "The PowerEdge R570 is a 2U, one-socket rack server for a single Intel Xeon 6 processor (up to 144 E-cores or 86 P-cores), with 16 DDR5 slots and up to 4 TB with P-core R1S processors. It supports up to three 400 W double-wide GPUs and many drive options. Dell's starting configuration includes a Xeon 6 6507P, 64 GB RDIMM, a 24-bay 2.5-inch SAS/SATA chassis with PERC 12 H365i, a 960 GB SSD, dual-port 25GbE, an 800 W PSU and basic deployment.",
+      "keywords": "poweredge r570 17g 2u single socket xeon 6 storage dense gpu",
+      "specs": {
+        "rackUnits": 2,
+        "cpu": "Intel Xeon 6 Performance 6507P (8C/16T, 3.5 GHz) as configured",
+        "socketCount": 1,
+        "memoryGb": 64,
+        "maxMemoryTb": 4,
+        "ecc": true,
+        "driveBays": 24,
+        "raid": "PERC 12 H365i",
+        "network": "Broadcom 57414 dual-port 25GbE SFP28 OCP 3.0",
+        "psu": "800W hot-plug MHS (single as configured)"
+      },
+      "collections": [
+        "enterprise-servers",
+        "homelab-essentials"
+      ],
+      "featured": false,
+      "warranty": 36,
+      "sources": {
+        "product": "https://www.dell.com/en-us/shop/servers-storage-and-networking/poweredge-r570/spd/poweredge-r570/na_promo_per570_2",
+        "retrievedAt": "2026-09-28",
+        "specs": "https://www.delltechnologies.com/asset/en-us/products/servers/technical-support/poweredge-r570-spec-sheet.pdf"
+      },
+      "image": {
+        "url": "https://i.dell.com/is/image/DellContent/content/dam/images/products/servers/poweredge/r570/dell-per570-12x3-5-sas-sata-4xe3-bezel-lf.psd?fmt=png-alpha&pscan=auto&scl=1&wid=1400&qlt=100,0&resMode=sharp2",
+        "page": "https://www.dell.com/en-us/shop/servers-storage-and-networking/poweredge-r570/spd/poweredge-r570/na_promo_per570_2",
+        "sourceType": "manufacturer-product-page",
+        "rights": "Official Dell product-page gallery image (i.dell.com); Dell has not granted a reuse license - rights not verified.",
+        "credit": "Dell Technologies",
+        "alt": "Dell PowerEdge R570 2U rack server with bezel, left angled front view",
+        "match": "PRODUCT_LINE"
+      }
+    },
+    {
+      "sku": "TK-DELL-POWEREDGE-R7725",
+      "slug": "dell-poweredge-r7725",
+      "name": "Dell PowerEdge R7725 2U Rack Server (AMD EPYC 9005)",
+      "brand": "Dell",
+      "category": "rack-servers",
+      "price": "28299.01",
+      "priceBasis": "starting-at",
+      "priceSource": "https://www.dell.com/en-us/shop/servers-storage-and-networking/poweredge-r7725/spd/poweredge-r7725/pe_r7725_tm_vi_vp_sb",
+      "priceAsOf": "2026-09-28",
+      "priceNote": "Dell.com US 'Starting at' price for the default configuration of this model (configure-to-order).",
+      "releaseYear": 2025,
+      "summary": "2U two-socket AMD EPYC 9005 rack server with up to 192 cores per CPU, 24 DDR5 slots (6 TB) and up to 8 PCIe Gen5 slots.",
+      "description": "The PowerEdge R7725 is a 2U, two-socket rack server for 5th Generation AMD EPYC 9005 processors with up to 192 cores each. It has 24 DDR5 RDIMM slots supporting up to 6 TB at 6400 MT/s, up to 8 PCIe Gen5 slots with dual OCP, and support for up to two 450 W double-wide GPUs. Dell's starting configuration includes an AMD EPYC 9015, 2 x 64 GB RDIMM, a 16-bay 2.5-inch chassis with PERC H365i, a 960 GB SSD, dual-port 25GbE and dual 1500 W Titanium PSUs.",
+      "keywords": "poweredge r7725 amd epyc 9005 turin 2u rack server 192 cores",
+      "specs": {
+        "rackUnits": 2,
+        "cpu": "AMD EPYC 9015 (8C/16T, 3.6 GHz) as configured; up to 2x EPYC 9005 with 192 cores each",
+        "socketCount": 2,
+        "memoryGb": 128,
+        "maxMemoryTb": 6,
+        "ecc": true,
+        "driveBays": 16,
+        "raid": "PERC 12 H365i (front)",
+        "network": "Broadcom 57414 dual-port 25GbE SFP28 OCP 3.0",
+        "psu": "2x 1500W Titanium hot-plug MHS"
+      },
+      "collections": [
+        "enterprise-servers",
+        "ai-lab"
+      ],
+      "featured": false,
+      "sources": {
+        "product": "https://www.dell.com/en-us/shop/servers-storage-and-networking/poweredge-r7725/spd/poweredge-r7725/pe_r7725_tm_vi_vp_sb",
+        "retrievedAt": "2026-09-28",
+        "specs": "https://www.delltechnologies.com/asset/en-us/products/servers/technical-support/poweredge-r7725-spec-sheet.pdf"
+      },
+      "image": {
+        "url": "https://i.dell.com/is/image/DellContent/content/dam/images/products/servers/poweredge/r7725/dell-per7725-24x2-5-lf.psd?fmt=png-alpha&pscan=auto&scl=1&wid=1400&qlt=100,0&resMode=sharp2",
+        "page": "https://www.dell.com/en-us/shop/servers-storage-and-networking/poweredge-r7725/spd/poweredge-r7725/pe_r7725_tm_vi_vp_sb",
+        "sourceType": "manufacturer-product-page",
+        "rights": "Official Dell product-page gallery image (i.dell.com); Dell has not granted a reuse license - rights not verified.",
+        "credit": "Dell Technologies",
+        "alt": "Dell PowerEdge R7725 2U rack server with 24-bay 2.5-inch front, left angled view",
+        "match": "PRODUCT_LINE"
+      }
+    },
+    {
+      "sku": "TK-DELL-POWEREDGE-T560",
+      "slug": "dell-poweredge-t560",
+      "name": "Dell PowerEdge T560 Tower Server",
+      "brand": "Dell",
+      "category": "tower-servers",
+      "price": "14999.00",
+      "priceBasis": "starting-at",
+      "priceSource": "https://www.dell.com/en-us/shop/servers-storage-and-networking/poweredge-t560/spd/poweredge-t560/pe_t560_tm_vi_vp_sb",
+      "priceAsOf": "2026-09-28",
+      "priceNote": "Dell.com US 'Starting at' price for the default configuration of this model (configure-to-order).",
+      "releaseYear": 2023,
+      "summary": "Office-friendly two-socket Intel Xeon tower server with 16 DDR5 slots, up to 12 x 3.5-inch drives and GPU options.",
+      "description": "The PowerEdge T560 is a 4.5U tower server with office-friendly acoustics for remote and branch offices. It supports up to two 4th or 5th Generation Intel Xeon Scalable processors, 16 DDR5 RDIMM slots (up to 1.5 TB), up to 12 x 3.5-inch drives and up to two 300 W double-wide GPUs. Dell's starting configuration includes a Xeon Gold 5512U (28 cores), 64 GB RDIMM, an 8-bay 3.5-inch chassis with HBA355i, a 2 TB SATA drive, dual 1GbE LOM and an 800 W PSU.",
+      "keywords": "poweredge t560 tower server xeon scalable office remote branch gpu",
+      "specs": {
+        "cpu": "Intel Xeon Gold 5512U (28C/56T, 2.1 GHz) as configured; up to two Xeon Scalable (4th/5th Gen)",
+        "socketCount": 2,
+        "memoryGb": 64,
+        "ecc": true,
+        "driveBays": 8,
+        "raid": "HBA355i as configured (PERC H965i/H755/H355 options)",
+        "network": "2x 1GbE LOM (OCP 3.0 optional)",
+        "psu": "800W hot-plug (single as configured)"
+      },
+      "collections": [
+        "enterprise-servers",
+        "small-business",
+        "homelab-essentials"
+      ],
+      "featured": false,
+      "warranty": 36,
+      "sources": {
+        "product": "https://www.dell.com/en-us/shop/servers-storage-and-networking/poweredge-t560/spd/poweredge-t560/pe_t560_tm_vi_vp_sb",
+        "retrievedAt": "2026-09-28",
+        "specs": "https://www.delltechnologies.com/asset/en-us/products/servers/technical-support/poweredge-t560-spec-sheet.pdf"
+      },
+      "image": {
+        "url": "https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-enterprise-products/enterprise-systems/poweredge/t560/media-gallery/server-poweredge-t560-silver-gallery-2.psd?fmt=png-alpha&pscan=auto&scl=1&wid=1400&qlt=100,0&resMode=sharp2",
+        "page": "https://www.dell.com/en-us/shop/servers-storage-and-networking/poweredge-t560/spd/poweredge-t560/pe_t560_tm_vi_vp_sb",
+        "sourceType": "manufacturer-product-page",
+        "rights": "Official Dell product-page gallery image (i.dell.com); Dell has not granted a reuse license - rights not verified.",
+        "credit": "Dell Technologies",
+        "alt": "Dell PowerEdge T560 tower server in silver and black, front angled view",
+        "match": "EXACT"
+      }
+    },
+    {
+      "sku": "TK-DELL-POWEREDGE-T360",
+      "slug": "dell-poweredge-t360",
+      "name": "Dell PowerEdge T360 Tower Server",
+      "brand": "Dell",
+      "category": "tower-servers",
+      "price": "5298.99",
+      "priceBasis": "starting-at",
+      "priceSource": "https://www.dell.com/en-us/shop/servers-storage-and-networking/poweredge-t360/spd/poweredge-t360/pe_t360_tm_vi_vp_sb",
+      "priceAsOf": "2026-09-28",
+      "priceNote": "Dell.com US 'Starting at' price for the default configuration of this model (configure-to-order).",
+      "releaseYear": 2023,
+      "summary": "Single-socket 4.5U tower server for Intel Xeon 6300 / E-2400 processors with ECC DDR5 and up to 8 x 3.5-inch drives.",
+      "description": "The PowerEdge T360 is an office-friendly single-socket tower server for small businesses, supporting Intel Xeon 6300 series or Xeon E-2400 series processors, four DDR5 ECC UDIMM slots and up to eight 3.5-inch drives, plus an NVIDIA A2 GPU option. Dell's starting configuration includes a Xeon E-2434 (4 cores, 3.4 GHz), 32 GB DDR5 ECC UDIMM, a 4-bay hot-plug 3.5-inch chassis with software RAID, a 2 TB SATA drive, dual 1GbE LOM and a cabled power supply.",
+      "keywords": "poweredge t360 small business tower server xeon e-2400 ecc",
+      "specs": {
+        "cpu": "Intel Xeon E-2434 (4C/8T, 3.4 GHz) as configured; Xeon 6300 / E-2400 supported",
+        "socketCount": 1,
+        "memoryGb": 32,
+        "ecc": true,
+        "driveBays": 4,
+        "raid": "Embedded SATA / software RAID as configured (PERC H355/H755 options)",
+        "network": "2x 1GbE LOM",
+        "psu": "Cabled power supply as configured (hot-swap 600W/700W options)"
+      },
+      "collections": [
+        "small-business",
+        "homelab-starter"
+      ],
+      "featured": false,
+      "warranty": 12,
+      "sources": {
+        "product": "https://www.dell.com/en-us/shop/servers-storage-and-networking/poweredge-t360/spd/poweredge-t360/pe_t360_tm_vi_vp_sb",
+        "retrievedAt": "2026-09-28",
+        "specs": "https://www.delltechnologies.com/asset/en-us/products/servers/technical-support/poweredge-t360-spec-sheet.pdf"
+      },
+      "image": {
+        "url": "https://i.dell.com/is/image/DellContent/content/dam/images/products/servers/poweredge/t360/dell-t360-8x3-5-dell-logo-bezel-lf.psd?fmt=png-alpha&pscan=auto&scl=1&wid=1400&qlt=100,0&resMode=sharp2",
+        "page": "https://www.dell.com/en-us/shop/servers-storage-and-networking/poweredge-t360/spd/poweredge-t360/pe_t360_tm_vi_vp_sb",
+        "sourceType": "manufacturer-product-page",
+        "rights": "Official Dell product-page gallery image (i.dell.com); Dell has not granted a reuse license - rights not verified.",
+        "credit": "Dell Technologies",
+        "alt": "Dell PowerEdge T360 tower server with Dell logo bezel, left angled front view",
+        "match": "PRODUCT_LINE"
+      }
+    },
+    {
+      "sku": "TK-DELL-POWEREDGE-XE9780",
+      "slug": "dell-poweredge-xe9780",
+      "name": "Dell PowerEdge XE9780 AI Server (8x NVIDIA HGX B300)",
+      "brand": "Dell",
+      "category": "ai-systems",
+      "price": "450000.00",
+      "priceBasis": "estimate",
+      "releaseYear": 2025,
+      "summary": "Air-cooled 8-GPU AI server with NVIDIA HGX B300 NVL8 (270 GB each), two Intel Xeon 6 CPUs and 8x ConnectX-8 OSFP.",
+      "description": "The PowerEdge XE9780 is Dell's air-cooled Intel-based 8-GPU AI training and inference server. It takes two Intel Xeon 6 processors with up to 86 cores each and eight NVIDIA HGX B300 NVL8 270 GB SXM6 GPUs (or eight HGX B200 180 GB) fully interconnected with NVLink. Dell lists 32 DDR5 slots (up to 4 TB), up to 16 E3.S or 10 U.2 NVMe drives, eight ConnectX-8 OSFP ports on B300 configurations and twelve 3200 W Titanium power supplies.",
+      "keywords": "poweredge xe9780 hgx b300 blackwell ultra ai server 8 gpu",
+      "specs": {
+        "formFactor": "Air-cooled rack server, 17.3 in (439.5 mm) tall",
+        "cpu": "2x Intel Xeon 6 (up to 86 cores each)",
+        "gpus": "8x NVIDIA HGX B300 NVL8 270GB SXM6 (NVLink); HGX B200 option",
+        "gpuMemoryGb": 2160,
+        "memoryGb": 4096,
+        "storage": "Up to 16x E3.S NVMe (122.88 TB) or 10x U.2 NVMe",
+        "network": "8x NVIDIA ConnectX-8 OSFP (B300), 1x OCP 3.0"
+      },
+      "collections": [
+        "ai-lab",
+        "enterprise-servers",
+        "dream-gpus"
+      ],
+      "featured": true,
+      "sources": {
+        "product": "https://www.dell.com/en-us/shop/ipovw/poweredge-xe9780",
+        "retrievedAt": "2026-09-28"
+      },
+      "image": {
+        "url": "https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-enterprise-products/enterprise-systems/poweredge/xe9780/mg/server-dell-xe9780-c-gallery-1.psd?fmt=png-alpha&pscan=auto&scl=1&wid=1400&qlt=100,0&resMode=sharp2",
+        "page": "https://www.dell.com/en-us/shop/ipovw/poweredge-xe9780",
+        "sourceType": "manufacturer-product-page",
+        "rights": "Official Dell product-page gallery image (i.dell.com); Dell has not granted a reuse license - rights not verified.",
+        "credit": "Dell Technologies",
+        "alt": "Dell PowerEdge XE9780 air-cooled 8-GPU AI server chassis, left angled front view",
+        "match": "EXACT"
+      },
+      "notes": "Price is an estimate: dell.com lists this AI server for quote only ('Contact Sales'); no public price is published. Specs from the dell.com PowerEdge product page. memoryGb is the maximum supported RAM (4 TB)."
+    },
+    {
+      "sku": "TK-DELL-POWEREDGE-XE9785",
+      "slug": "dell-poweredge-xe9785",
+      "name": "Dell PowerEdge XE9785 AI Server (8x AMD Instinct MI355X)",
+      "brand": "Dell",
+      "category": "ai-systems",
+      "price": "400000.00",
+      "priceBasis": "estimate",
+      "releaseYear": 2025,
+      "summary": "10U air-cooled AI server with two AMD EPYC 9005 CPUs and eight AMD Instinct MI355X 288 GB OAM accelerators (or HGX B300).",
+      "description": "The PowerEdge XE9785 is a 10U air-cooled AI server with two 5th Generation AMD EPYC 9005 processors (up to 192 cores each). It accepts eight AMD Instinct MI355X 288 GB OAM accelerators connected by AMD Infinity Fabric, or eight NVIDIA HGX B300 NVL8 GPUs. Dell lists 24 DDR5 slots (up to 6 TB), up to 16 E3.S NVMe drives (245.76 TB), twelve 3200 W Titanium PSUs and a fully populated MI355X weight of 379.86 lb.",
+      "keywords": "poweredge xe9785 amd instinct mi355x epyc ai server 10u",
+      "specs": {
+        "formFactor": "10U rack server, air-cooled",
+        "cpu": "2x AMD EPYC 9005 (up to 192 cores each)",
+        "gpus": "8x AMD Instinct MI355X 288GB OAM (Infinity Fabric) or 8x NVIDIA HGX B300 NVL8",
+        "gpuMemoryGb": 2304,
+        "memoryGb": 6144,
+        "storage": "Up to 16x E3.S NVMe (245.76 TB) or 10x U.2 Gen5 NVMe",
+        "network": "1x OCP 3.0; 8x ConnectX-8 OSFP with B300"
+      },
+      "collections": [
+        "ai-lab",
+        "enterprise-servers"
+      ],
+      "featured": false,
+      "sources": {
+        "product": "https://www.dell.com/en-us/shop/ipovw/poweredge-xe9785",
+        "retrievedAt": "2026-09-28"
+      },
+      "image": {
+        "url": "https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-enterprise-products/enterprise-systems/poweredge/xe9785/media-gallery/server-xe9785-silver-gallery-1.psd?fmt=png-alpha&pscan=auto&scl=1&wid=1400&qlt=100,0&resMode=sharp2",
+        "page": "https://www.dell.com/en-us/shop/ipovw/poweredge-xe9785",
+        "sourceType": "manufacturer-product-page",
+        "rights": "Official Dell product-page gallery image (i.dell.com); Dell has not granted a reuse license - rights not verified.",
+        "credit": "Dell Technologies",
+        "alt": "Dell PowerEdge XE9785 10U AI server in silver, left angled front view",
+        "match": "EXACT"
+      },
+      "notes": "Price is an estimate: dell.com lists this AI server for quote only ('Contact Sales'); no public price is published. Specs from the dell.com PowerEdge product page. gpuMemoryGb assumes the MI355X configuration (8 x 288 GB); memoryGb is the maximum supported RAM (6 TB)."
+    },
+    {
+      "sku": "TK-DELL-POWEREDGE-XE7745",
+      "slug": "dell-poweredge-xe7745",
+      "name": "Dell PowerEdge XE7745 4U PCIe GPU Server",
+      "brand": "Dell",
+      "category": "ai-systems",
+      "price": "150000.00",
+      "priceBasis": "estimate",
+      "releaseYear": 2025,
+      "summary": "Air-cooled 4U AMD EPYC 9005 server for up to eight 600 W double-wide PCIe GPUs such as NVIDIA RTX PRO 6000.",
+      "description": "The PowerEdge XE7745 is a 4U air-cooled server for enterprise AI fine-tuning and inference with PCIe accelerators. It pairs two AMD EPYC 9005 processors (up to 192 cores each) with up to eight double-wide 600 W PCIe Gen5 GPUs such as the NVIDIA RTX PRO 6000, or sixteen 75 W single-wide cards. Dell lists 24 DDR5 slots (up to 3 TB), up to eight E3.S NVMe drives, eight additional front-serviceable PCIe slots for AI networking, an OCP 3.0 module and 3200 W Titanium PSUs.",
+      "keywords": "poweredge xe7745 pcie gpu server rtx pro 6000 amd epyc 4u",
+      "specs": {
+        "formFactor": "4U rack server, air-cooled",
+        "cpu": "2x AMD EPYC 9005 (up to 192 cores each)",
+        "gpus": "Up to 8x double-wide 600W PCIe Gen5 GPUs (e.g. NVIDIA RTX PRO 6000) or 16x 75W single-wide",
+        "memoryGb": 3072,
+        "storage": "Up to 8x E3.S Gen5 NVMe (122.88 TB)",
+        "network": "OCP 3.0 plus 8 front-serviceable PCIe Gen5 slots for AI networking"
+      },
+      "collections": [
+        "ai-lab",
+        "enterprise-servers"
+      ],
+      "featured": false,
+      "sources": {
+        "product": "https://www.dell.com/en-us/shop/ipovw/poweredge-xe7745",
+        "retrievedAt": "2026-09-28",
+        "specs": "https://www.delltechnologies.com/asset/en-us/products/servers/technical-support/poweredge-xe7745-spec-sheet.pdf"
+      },
+      "image": {
+        "url": "https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-enterprise-products/enterprise-systems/poweredge/pexe7745/media-gallery/server-dell-poweredge-pexe7745-gallery-1.psd?fmt=png-alpha&pscan=auto&scl=1&wid=1400&qlt=100,0&resMode=sharp2",
+        "page": "https://www.dell.com/en-us/shop/ipovw/poweredge-xe7745",
+        "sourceType": "manufacturer-product-page",
+        "rights": "Official Dell product-page gallery image (i.dell.com); Dell has not granted a reuse license - rights not verified.",
+        "credit": "Dell Technologies",
+        "alt": "Dell PowerEdge XE7745 4U GPU server, left angled front view",
+        "match": "EXACT"
+      },
+      "notes": "Price is an estimate: dell.com lists this server for quote only ('Contact Sales'). Specs from the Dell PowerEdge XE7745 spec sheet. memoryGb is the maximum supported RAM (3 TB)."
+    }
+  ]
+}

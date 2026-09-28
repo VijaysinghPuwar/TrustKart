@@ -1,0 +1,2601 @@
+{
+  "meta": {
+    "notes": "ASUS (incl. ROG, TUF Gaming, ProArt, Zenbook, Vivobook, ExpertBook, NUC, Ascent, ESC servers). Researched 2026-09-28. Prices are ASUS eShop USA (eshop.asus.com / shop.asus.com, ASUS's own store) list prices read that day; where a temporary sale was shown the regular price is used. Specs are from the ASUS eShop 'Tech Specs' tab for the exact priced SKU, the rog.asus.com spec API, or asus.com techspec pages. Images are ASUS eShop / asus.com product-page assets."
+  },
+  "products": [
+    {
+      "sku": "TK-ASUS-ZENBOOK-A16-UX3607",
+      "slug": "asus-zenbook-a16-ux3607",
+      "name": "ASUS Zenbook A16 (UX3607) Copilot+ PC",
+      "brand": "ASUS",
+      "category": "premium-laptops",
+      "price": "1799.99",
+      "priceBasis": "starting-at",
+      "priceSource": "https://eshop.asus.com/us/33489-us-cnf-auto.html",
+      "priceAsOf": "2026-09-28",
+      "releaseYear": 2026,
+      "summary": "16-inch Ceraluminum Copilot+ PC with Snapdragon X-series processors, OLED display, 70Wh battery and a 1.10 kg starting weight.",
+      "description": "The Zenbook A16 is a 16-inch Snapdragon-powered Copilot+ PC built in ASUS's Ceraluminum material. The base configuration pairs a Snapdragon X X1-26-100 with 32GB LPDDR5X, a 1TB PCIe 4.0 SSD and a WUXGA OLED panel, while the top model moves to the 18-core Snapdragon X2 Elite Extreme with 48GB memory and a 3K 120Hz OLED. Both use a 70Wh battery, two USB4 ports, HDMI 2.1 and USB-A.",
+      "keywords": "zenbook a16 snapdragon x2 elite copilot+ pc ceraluminum oled 16 inch arm laptop",
+      "specs": {
+        "cpu": "Snapdragon X X1-26-100 (8 cores, up to 2.97GHz)",
+        "cpuBrand": "Qualcomm",
+        "gpu": "Qualcomm Adreno GPU",
+        "ramGb": 32,
+        "storageTb": 1,
+        "displayIn": 16,
+        "display": "16\" WUXGA (1920x1200) OLED, 60Hz, 95% DCI-P3",
+        "batteryWh": 70,
+        "weightKg": 1.1,
+        "os": "Windows 11 Home",
+        "npuTops": 45,
+        "ports": "2x USB4 Type-C, 1x USB 3.2 Gen 2 Type-A, HDMI 2.1, 3.5mm audio",
+        "wireless": "Wi-Fi 6E, Bluetooth 5.3"
+      },
+      "variants": [
+        {
+          "label": "Snapdragon X / 32GB / 1TB / WUXGA OLED",
+          "price": "1799.99"
+        },
+        {
+          "label": "Snapdragon X2 Elite Extreme / 48GB / 1TB / 3K 120Hz OLED (UX3607OA-XS99)",
+          "price": "2199.99"
+        }
+      ],
+      "colors": [
+        "Zabriskie Beige"
+      ],
+      "collections": [
+        "premium-laptops"
+      ],
+      "featured": true,
+      "sources": {
+        "product": "https://www.asus.com/us/laptops/for-home/zenbook/asus-zenbook-a16-ux3607/",
+        "specs": "https://eshop.asus.com/us/33489-us-cnf-auto.html",
+        "retrievedAt": "2026-09-28"
+      },
+      "image": {
+        "url": "https://eshop.asus.com/media/catalog/product/z/e/zenbook_a16_ux3607_product_photo_2d_zabriskie_beige_11_2400x2400.jpg",
+        "page": "https://eshop.asus.com/us/33489-us-cnf-auto.html",
+        "sourceType": "manufacturer-product-page",
+        "rights": "Official ASUS eShop (US) product image; ASUS has not granted a general reuse license — rights not verified.",
+        "credit": "ASUS",
+        "alt": "ASUS Zenbook A16 UX3607 laptop in Zabriskie Beige, open at a three-quarter angle showing keyboard and display",
+        "match": "EXACT"
+      }
+    },
+    {
+      "sku": "TK-ASUS-ZENBOOK-A14-UX3407",
+      "slug": "asus-zenbook-a14-ux3407",
+      "name": "ASUS Zenbook A14 (UX3407) Copilot+ PC",
+      "brand": "ASUS",
+      "category": "premium-laptops",
+      "price": "1599.99",
+      "priceBasis": "starting-at",
+      "priceSource": "https://eshop.asus.com/us/30811-us-cnf-auto.html",
+      "priceAsOf": "2026-09-28",
+      "releaseYear": 2026,
+      "summary": "ASUS's lightest Zenbook: a 14-inch Ceraluminum Copilot+ PC under 1 kg with Snapdragon processors and a 70Wh battery.",
+      "description": "ASUS calls the Zenbook A14 its lightest Zenbook, built from full-body Ceraluminum and weighing 0.98 kg in the base model. It runs Snapdragon X-series processors with a Hexagon NPU, a 14-inch WUXGA OLED panel with 100% DCI-P3 and a 70Wh battery. The 2026 configuration steps up to an 18-core Snapdragon X2 Elite with Wi-Fi 7.",
+      "keywords": "zenbook a14 lightest snapdragon x2 elite ultralight copilot+",
+      "specs": {
+        "cpu": "Snapdragon X X1-26-100 (8 cores, up to 2.97GHz)",
+        "cpuBrand": "Qualcomm",
+        "gpu": "Qualcomm Adreno GPU",
+        "ramGb": 32,
+        "storageTb": 1,
+        "displayIn": 14,
+        "display": "14\" WUXGA (1920x1200) OLED, 60Hz, 100% DCI-P3",
+        "batteryWh": 70,
+        "weightKg": 0.98,
+        "os": "Windows 11 Home",
+        "npuTops": 45,
+        "ports": "2x USB4 Type-C, 1x USB 3.2 Gen 2 Type-A, HDMI 2.1, 3.5mm audio",
+        "wireless": "Wi-Fi 6E, Bluetooth 5.3"
+      },
+      "variants": [
+        {
+          "label": "Snapdragon X / 32GB / 1TB (Iceland Gray)",
+          "price": "1599.99"
+        },
+        {
+          "label": "Snapdragon X2 Elite 18-core / 32GB / 1TB, Wi-Fi 7 (UX3407NA-PS77)",
+          "price": "1999.99"
+        }
+      ],
+      "colors": [
+        "Iceland Gray",
+        "Zabriskie Beige"
+      ],
+      "collections": [
+        "premium-laptops"
+      ],
+      "featured": false,
+      "sources": {
+        "product": "https://www.asus.com/us/laptops/for-home/zenbook/asus-zenbook-a14-ux3407/",
+        "specs": "https://eshop.asus.com/us/30811-us-cnf-auto.html",
+        "retrievedAt": "2026-09-28"
+      },
+      "image": {
+        "url": "https://eshop.asus.com/media/catalog/product/z/e/zenbook_a14_ux3407na_product_photo_2d_zabriskie_beige_10.jpg",
+        "page": "https://eshop.asus.com/us/90nb1711-m008x0-asus-zenbook-a14-ux3407-copilot-pc.html",
+        "sourceType": "manufacturer-product-page",
+        "rights": "Official ASUS eShop (US) product image; ASUS has not granted a general reuse license — rights not verified.",
+        "credit": "ASUS",
+        "alt": "ASUS Zenbook A14 UX3407 in Zabriskie Beige, open laptop at an angle showing the keyboard and OLED screen",
+        "match": "PRODUCT_LINE"
+      }
+    },
+    {
+      "sku": "TK-ASUS-ZENBOOK-S14-UX5406-2026",
+      "slug": "asus-zenbook-s14-ux5406-2026",
+      "name": "ASUS Zenbook S14 (UX5406, 2026) Copilot+ PC",
+      "brand": "ASUS",
+      "category": "premium-laptops",
+      "price": "1999.99",
+      "priceBasis": "msrp",
+      "priceSource": "https://eshop.asus.com/us/90nb16q5-m00e00-asus-zenbook-s14-ux5406-copilot-pc.html",
+      "priceAsOf": "2026-09-28",
+      "releaseYear": 2026,
+      "summary": "Ultra-thin 14-inch Ceraluminum Copilot+ PC with Intel Core Ultra 7 356H, 3K 120Hz OLED touch display and a 77Wh battery.",
+      "description": "The 2026 Zenbook S14 pairs an Intel Core Ultra 7 356H (16 cores, NPU up to 50 TOPS) with 32GB LPDDR5X and a 1TB SSD in a 1.20 kg Ceraluminum chassis that is 1.19-1.29 cm thin. Its 14-inch 3K OLED touchscreen runs at 120Hz with 1100-nit HDR peak brightness and stylus support, and connectivity includes two Thunderbolt 4 ports, HDMI 2.1 and Wi-Fi 7.",
+      "keywords": "zenbook s14 intel core ultra series 3 panther lake 3k oled thin light",
+      "specs": {
+        "cpu": "Intel Core Ultra 7 356H (16 cores, up to 4.7GHz)",
+        "cpuBrand": "Intel",
+        "gpu": "Intel Graphics",
+        "ramGb": 32,
+        "storageTb": 1,
+        "displayIn": 14,
+        "display": "14\" 3K (2880x1800) OLED touch, 120Hz, 1100 nits HDR peak, 100% DCI-P3",
+        "batteryWh": 77,
+        "weightKg": 1.2,
+        "os": "Windows 11 Pro",
+        "npuTops": 50,
+        "ports": "2x Thunderbolt 4, 1x USB 3.2 Gen 2 Type-A, HDMI 2.1, 3.5mm audio",
+        "wireless": "Wi-Fi 7, Bluetooth 6.0"
+      },
+      "colors": [
+        "Antrim Gray"
+      ],
+      "collections": [
+        "premium-laptops"
+      ],
+      "featured": false,
+      "sources": {
+        "product": "https://www.asus.com/us/laptops/for-home/zenbook/asus-zenbook-s-14-ux5406/",
+        "specs": "https://eshop.asus.com/us/90nb16q5-m00e00-asus-zenbook-s14-ux5406-copilot-pc.html",
+        "retrievedAt": "2026-09-28"
+      },
+      "image": {
+        "url": "https://dlcdnwebimgs.asus.com/gain/b72e575d-58a6-4b38-9f56-2d44cb3aab0c",
+        "page": "https://www.asus.com/us/laptops/for-home/zenbook/asus-zenbook-s-14-ux5406/",
+        "sourceType": "manufacturer-product-page",
+        "rights": "Official ASUS product-page image (dlcdnwebimgs.asus.com); no general reuse license verified.",
+        "credit": "ASUS",
+        "alt": "ASUS Zenbook S14 UX5406 in Antrim Gray, thin open laptop at a three-quarter angle",
+        "match": "PRODUCT_LINE"
+      }
+    },
+    {
+      "sku": "TK-ASUS-ZENBOOK-S16-UM5606-2026",
+      "slug": "asus-zenbook-s16-um5606-2026",
+      "name": "ASUS Zenbook S16 (UM5606, 2026) Copilot+ PC",
+      "brand": "ASUS",
+      "category": "premium-laptops",
+      "price": "1999.99",
+      "priceBasis": "starting-at",
+      "priceSource": "https://eshop.asus.com/us/90nb17h4-m00ka0-asus-zenbook-s-16-um5606-copilot-pc.html",
+      "priceAsOf": "2026-09-28",
+      "releaseYear": 2026,
+      "summary": "0.47-inch-thin 16-inch Ceraluminum Copilot+ PC with AMD Ryzen AI 400-series, 3K 120Hz OLED touch display and 83Wh battery.",
+      "description": "The Zenbook S16 is a 1.50 kg, 1.19 cm-thin 16-inch laptop built from Ceraluminum. The base 2026 model uses an AMD Ryzen AI 7 445 with a 50 TOPS XDNA NPU, 32GB LPDDR5X and 1TB SSD; ASUS also sells a Ryzen AI 9 HX 470 version. Both have a 16-inch 3K 120Hz OLED touchscreen with 1100-nit HDR peak, a six-speaker system and an 83Wh battery.",
+      "keywords": "zenbook s16 ryzen ai 9 hx 470 amd copilot+ 16 inch oled thin",
+      "specs": {
+        "cpu": "AMD Ryzen AI 7 445 (6 cores, up to 4.6GHz)",
+        "cpuBrand": "AMD",
+        "gpu": "AMD Radeon Graphics",
+        "ramGb": 32,
+        "storageTb": 1,
+        "displayIn": 16,
+        "display": "16\" 3K (2880x1800) OLED touch, 120Hz, 1100 nits HDR peak, 100% DCI-P3",
+        "batteryWh": 83,
+        "weightKg": 1.5,
+        "os": "Windows 11 Pro",
+        "npuTops": 50,
+        "ports": "2x USB4 Type-C, 1x USB 3.2 Gen 2 Type-A, HDMI 2.1, 3.5mm audio",
+        "wireless": "Wi-Fi 7, Bluetooth 5.4"
+      },
+      "variants": [
+        {
+          "label": "Ryzen AI 7 445 / 32GB / 1TB, Windows 11 Pro (UM5606GA-XS79T)",
+          "price": "1999.99"
+        },
+        {
+          "label": "Ryzen AI 9 HX 470 / 32GB / 1TB, Windows 11 Home (UM5606GA-PS99T)",
+          "price": "2299.99"
+        }
+      ],
+      "colors": [
+        "Scandinavian White"
+      ],
+      "collections": [
+        "premium-laptops"
+      ],
+      "featured": false,
+      "sources": {
+        "product": "https://www.asus.com/us/laptops/for-home/zenbook/asus-zenbook-s-16-um5606/",
+        "specs": "https://eshop.asus.com/us/90nb17h4-m00ka0-asus-zenbook-s-16-um5606-copilot-pc.html",
+        "retrievedAt": "2026-09-28"
+      },
+      "image": {
+        "url": "https://dlcdnwebimgs.asus.com/gain/a46d2371-a041-437e-b9de-6ee321c7b58a",
+        "page": "https://www.asus.com/us/laptops/for-home/zenbook/asus-zenbook-s-16-um5606/",
+        "sourceType": "manufacturer-product-page",
+        "rights": "Official ASUS product-page image (dlcdnwebimgs.asus.com); no general reuse license verified.",
+        "credit": "ASUS",
+        "alt": "ASUS Zenbook S16 UM5606 in Scandinavian White, open slim laptop viewed from the front-left angle",
+        "match": "PRODUCT_LINE"
+      }
+    },
+    {
+      "sku": "TK-ASUS-ZENBOOK-DUO-UX8407",
+      "slug": "asus-zenbook-duo-ux8407",
+      "name": "ASUS Zenbook DUO (UX8407) Copilot+ PC",
+      "brand": "ASUS",
+      "category": "premium-laptops",
+      "price": "2699.99",
+      "priceBasis": "msrp",
+      "priceSource": "https://shop.asus.com/us/90nb16v1-m00j80-asus-zenbook-duo-ux8407-copilot-pc.html",
+      "priceAsOf": "2026-09-28",
+      "releaseYear": 2026,
+      "summary": "Dual-screen 14-inch laptop with two 3K 144Hz OLED touchscreens, Intel Core Ultra 9 386H, 32GB RAM and a 99Wh battery.",
+      "description": "The Zenbook DUO combines two 14-inch 3K OLED touchscreens with a detachable keyboard for dual-screen, desktop, laptop and sharing modes. The US ASUS Store model uses an Intel Core Ultra 9 386H, 32GB LPDDR5X and a 1TB SSD, and ships with a stylus and sleeve. A 99Wh battery, two Thunderbolt 4 ports and Wi-Fi 7 round out the Ceraluminum chassis.",
+      "keywords": "zenbook duo dual screen two oled screens multitasking",
+      "specs": {
+        "cpu": "Intel Core Ultra 9 386H (16 cores, up to 4.9GHz)",
+        "cpuBrand": "Intel",
+        "gpu": "Intel Graphics",
+        "ramGb": 32,
+        "storageTb": 1,
+        "displayIn": 14,
+        "display": "Dual 14\" 3K (2880x1800) OLED touchscreens, 144Hz, 1000 nits HDR peak",
+        "batteryWh": 99,
+        "weightKg": 1.65,
+        "os": "Windows 11 Home",
+        "npuTops": 50,
+        "ports": "2x Thunderbolt 4, 1x USB 3.2 Gen 2 Type-A, 3.5mm audio",
+        "wireless": "Wi-Fi 7, Bluetooth 5.4"
+      },
+      "colors": [
+        "Moher Gray"
+      ],
+      "collections": [
+        "premium-laptops",
+        "developer-favorites"
+      ],
+      "featured": false,
+      "sources": {
+        "product": "https://www.asus.com/us/laptops/for-home/zenbook/asus-zenbook-duo-ux8407/",
+        "specs": "https://shop.asus.com/us/90nb16v1-m00j80-asus-zenbook-duo-ux8407-copilot-pc.html",
+        "retrievedAt": "2026-09-28"
+      },
+      "image": {
+        "url": "https://eshop.asus.com/media/catalog/product/5/c/5c60cc36c6e7cadcdddf940a7e05a104_4.png",
+        "page": "https://shop.asus.com/us/90nb16v1-m00j80-asus-zenbook-duo-ux8407-copilot-pc.html",
+        "sourceType": "manufacturer-product-page",
+        "rights": "Official ASUS eShop (US) product image; ASUS has not granted a general reuse license — rights not verified.",
+        "credit": "ASUS",
+        "alt": "ASUS Zenbook DUO UX8407 in Moher Gray with both OLED screens stacked and the detachable keyboard in front",
+        "match": "EXACT"
+      }
+    },
+    {
+      "sku": "TK-ASUS-ZENBOOK-14-UM3406-2026",
+      "slug": "asus-zenbook-14-um3406-2026",
+      "name": "ASUS Zenbook 14 (UM3406, 2026) Copilot+ PC",
+      "brand": "ASUS",
+      "category": "premium-laptops",
+      "price": "1499.99",
+      "priceBasis": "msrp",
+      "priceSource": "https://eshop.asus.com/us/90nb17r1-m00d70-asus-zenbook-14-oled-um3406-copilot-pc.html",
+      "priceAsOf": "2026-09-28",
+      "releaseYear": 2026,
+      "summary": "Everyday 14-inch Copilot+ PC with AMD Ryzen AI 7 445, 32GB RAM, 1TB SSD, WUXGA OLED display and a 75Wh battery.",
+      "description": "The 2026 Zenbook 14 is a 1.20 kg, 1.49 cm-thin laptop with an AMD Ryzen AI 7 445 and a 50 TOPS XDNA NPU. This ASUS Store configuration has 32GB LPDDR5X, a 1TB PCIe 4.0 SSD, a 14-inch WUXGA OLED panel with 100% DCI-P3, a 75Wh battery and Windows 11 Pro, with USB4, USB-C, USB-A and HDMI 2.1 ports.",
+      "keywords": "zenbook 14 ryzen ai oled everyday laptop",
+      "specs": {
+        "cpu": "AMD Ryzen AI 7 445 (6 cores, up to 4.6GHz)",
+        "cpuBrand": "AMD",
+        "gpu": "AMD Radeon Graphics",
+        "ramGb": 32,
+        "storageTb": 1,
+        "displayIn": 14,
+        "display": "14\" WUXGA (1920x1200) OLED, 60Hz, 100% DCI-P3",
+        "batteryWh": 75,
+        "weightKg": 1.2,
+        "os": "Windows 11 Pro",
+        "npuTops": 50,
+        "ports": "1x USB4 Type-C, 1x USB 3.2 Gen 2 Type-C, 1x USB 3.2 Gen 1 Type-A, HDMI 2.1, 3.5mm audio",
+        "wireless": "Wi-Fi 6E, Bluetooth 5.4"
+      },
+      "colors": [
+        "Jade Black"
+      ],
+      "featured": false,
+      "sources": {
+        "product": "https://www.asus.com/us/laptops/for-home/zenbook/asus-zenbook-14-oled-um3406/",
+        "specs": "https://eshop.asus.com/us/90nb17r1-m00d70-asus-zenbook-14-oled-um3406-copilot-pc.html",
+        "retrievedAt": "2026-09-28"
+      },
+      "image": {
+        "url": "https://eshop.asus.com/media/catalog/product/z/e/zenbook_14_um3406ga_product_photo_jade_black_2k_etail_06_smart_gesture.jpg",
+        "page": "https://eshop.asus.com/us/90nb17r1-m00d70-asus-zenbook-14-oled-um3406-copilot-pc.html",
+        "sourceType": "manufacturer-product-page",
+        "rights": "Official ASUS eShop (US) product image; ASUS has not granted a general reuse license — rights not verified.",
+        "credit": "ASUS",
+        "alt": "ASUS Zenbook 14 UM3406 in Jade Black, open laptop with OLED display",
+        "match": "EXACT"
+      }
+    },
+    {
+      "sku": "TK-ASUS-VIVOBOOK-S16-S3607Q",
+      "slug": "asus-vivobook-s16-s3607q",
+      "name": "ASUS Vivobook S16 (S3607Q, 2026) Copilot+ PC",
+      "brand": "ASUS",
+      "category": "premium-laptops",
+      "price": "1599.99",
+      "priceBasis": "msrp",
+      "priceSource": "https://eshop.asus.com/us/90nb17p5-m00440-asus-vivobook-s16-s3607qa-copilot-pc.html",
+      "priceAsOf": "2026-09-28",
+      "releaseYear": 2026,
+      "summary": "16-inch Copilot+ PC with an 18-core Snapdragon X2 Elite, 80 TOPS NPU, WUXGA OLED display and 70Wh battery.",
+      "description": "The 2026 Vivobook S16 (S3607Q) runs the 18-core Snapdragon X2 Elite X2E88100 with a Hexagon NPU rated up to 80 TOPS. The ASUS Store configuration includes 16GB LPDDR5X, a 1TB PCIe 4.0 SSD, a 16-inch WUXGA OLED panel, a 70Wh battery and Wi-Fi 7, with two USB4 ports, two USB-A ports and HDMI 2.1.",
+      "keywords": "vivobook s16 snapdragon x2 elite 80 tops copilot+ arm",
+      "specs": {
+        "cpu": "Snapdragon X2 Elite X2E88100 (18 cores, up to 4.7GHz)",
+        "cpuBrand": "Qualcomm",
+        "gpu": "Qualcomm Adreno GPU",
+        "ramGb": 16,
+        "storageTb": 1,
+        "displayIn": 16,
+        "display": "16\" WUXGA (1920x1200) OLED, 60Hz, 95% DCI-P3",
+        "batteryWh": 70,
+        "weightKg": 1.68,
+        "os": "Windows 11 Home",
+        "npuTops": 80,
+        "ports": "2x USB4 Type-C, 1x USB 3.2 Gen 2 Type-A, 1x USB 3.2 Gen 1 Type-A, HDMI 2.1, 3.5mm audio",
+        "wireless": "Wi-Fi 7, Bluetooth 5.4"
+      },
+      "colors": [
+        "Mist Blue"
+      ],
+      "featured": false,
+      "sources": {
+        "product": "https://www.asus.com/us/laptops/for-home/vivobook/asus-vivobook-s16-s3607q/",
+        "specs": "https://eshop.asus.com/us/90nb17p5-m00440-asus-vivobook-s16-s3607qa-copilot-pc.html",
+        "retrievedAt": "2026-09-28"
+      },
+      "image": {
+        "url": "https://eshop.asus.com/media/catalog/product/a/s/asus_vivobook_s16_s3607na_product_photo_2b_mist_blue_10.jpg",
+        "page": "https://eshop.asus.com/us/90nb17p5-m00440-asus-vivobook-s16-s3607qa-copilot-pc.html",
+        "sourceType": "manufacturer-product-page",
+        "rights": "Official ASUS eShop (US) product image; ASUS has not granted a general reuse license — rights not verified.",
+        "credit": "ASUS",
+        "alt": "ASUS Vivobook S16 S3607 in Mist Blue, open 16-inch laptop at a three-quarter angle",
+        "match": "EXACT"
+      }
+    },
+    {
+      "sku": "TK-ASUS-VIVOBOOK-S14-S3407",
+      "slug": "asus-vivobook-s14-s3407",
+      "name": "ASUS Vivobook S14 (S3407, 2026) Copilot+ PC",
+      "brand": "ASUS",
+      "category": "premium-laptops",
+      "price": "1699.99",
+      "priceBasis": "msrp",
+      "priceSource": "https://eshop.asus.com/us/90nb1762-m005x0-asus-vivobook-s14-s3407-copilot-pc.html",
+      "priceAsOf": "2026-09-28",
+      "releaseYear": 2026,
+      "summary": "14-inch Copilot+ PC with Intel Core Ultra 7 355, 32GB RAM (16GB onboard + 16GB SO-DIMM), 1TB SSD and WUXGA OLED display.",
+      "description": "The 2026 Vivobook S14 uses an Intel Core Ultra 7 355 with an NPU rated up to 49 TOPS. This ASUS Store configuration combines 16GB of onboard DDR5 with a 16GB SO-DIMM for 32GB total, a 1TB PCIe 4.0 SSD, a 14-inch WUXGA OLED display and a 70Wh battery in a 1.40 kg chassis.",
+      "keywords": "vivobook s14 intel core ultra 7 355 oled copilot+",
+      "specs": {
+        "cpu": "Intel Core Ultra 7 355 (8 cores, up to 4.7GHz)",
+        "cpuBrand": "Intel",
+        "gpu": "Intel Graphics",
+        "ramGb": 32,
+        "storageTb": 1,
+        "displayIn": 14,
+        "display": "14\" WUXGA (1920x1200) OLED, 60Hz, 95% DCI-P3",
+        "batteryWh": 70,
+        "weightKg": 1.4,
+        "os": "Windows 11 Home",
+        "npuTops": 49,
+        "ports": "2x USB 3.2 Gen 1 Type-A, HDMI 2.1, 3.5mm audio",
+        "wireless": "Wi-Fi 6, Bluetooth 5.4"
+      },
+      "colors": [
+        "Matte Gray"
+      ],
+      "featured": false,
+      "sources": {
+        "product": "https://www.asus.com/us/laptops/for-home/vivobook/asus-vivobook-s14-s3407/",
+        "specs": "https://eshop.asus.com/us/90nb1762-m005x0-asus-vivobook-s14-s3407-copilot-pc.html",
+        "retrievedAt": "2026-09-28"
+      },
+      "image": {
+        "url": "https://eshop.asus.com/media/catalog/product/a/s/asus_vivobook_s14_s3407aa_product_photo_2g_matte_gray_10_2400x2400.jpg",
+        "page": "https://eshop.asus.com/us/90nb1762-m005x0-asus-vivobook-s14-s3407-copilot-pc.html",
+        "sourceType": "manufacturer-product-page",
+        "rights": "Official ASUS eShop (US) product image; ASUS has not granted a general reuse license — rights not verified.",
+        "credit": "ASUS",
+        "alt": "ASUS Vivobook S14 S3407 in Matte Gray, open laptop at a three-quarter angle",
+        "match": "EXACT"
+      }
+    },
+    {
+      "sku": "TK-ASUS-EXPERTBOOK-P5-G2-14",
+      "slug": "asus-expertbook-p5-g2-14-intel",
+      "name": "ASUS ExpertBook P5 G2 14 (Intel)",
+      "brand": "ASUS",
+      "category": "business-laptops",
+      "price": "2979.99",
+      "priceBasis": "msrp",
+      "priceSource": "https://eshop.asus.com/us/90nx0a91-m00190-asus-expertbook-p5-g2-14-intel-copilot-pc.html",
+      "priceAsOf": "2026-09-28",
+      "releaseYear": 2026,
+      "summary": "14-inch business laptop with Intel Core Ultra 7 356H, 32GB upgradeable DDR5, PCIe 5.0 SSD, Thunderbolt 4 and RJ45.",
+      "description": "The ExpertBook P5 G2 14 is a 1.38 kg business laptop with an Intel Core Ultra 7 356H (NPU up to 50 TOPS) and Windows 11 Pro. Unlike many thin laptops it keeps two DDR5 SO-DIMM slots (up to 64GB), a PCIe 5.0-capable M.2 slot plus a second M.2 2230 slot, Gigabit Ethernet and two Thunderbolt 4 ports, and it meets US MIL-STD 810H.",
+      "keywords": "expertbook p5 business laptop vpro upgradeable ram ethernet",
+      "specs": {
+        "cpu": "Intel Core Ultra 7 356H (16 cores, up to 4.7GHz)",
+        "cpuBrand": "Intel",
+        "gpu": "Intel Graphics",
+        "ramGb": 32,
+        "storageTb": 1,
+        "displayIn": 14,
+        "display": "14\" WQXGA (2560x1600) anti-glare",
+        "batteryWh": 63,
+        "weightKg": 1.38,
+        "os": "Windows 11 Pro",
+        "npuTops": 50,
+        "ports": "2x Thunderbolt 4, 2x USB 3.2 Gen 1 Type-A, HDMI 2.1, RJ45 Gigabit Ethernet, 3.5mm audio",
+        "wireless": "Wi-Fi 7, Bluetooth 5.4"
+      },
+      "colors": [
+        "Misty Grey"
+      ],
+      "collections": [
+        "small-business"
+      ],
+      "featured": false,
+      "sources": {
+        "product": "https://www.asus.com/us/laptops/for-work/expertbook/asus-expertbook-p5-g2-14-intel/",
+        "specs": "https://eshop.asus.com/us/90nx0a91-m00190-asus-expertbook-p5-g2-14-intel-copilot-pc.html",
+        "retrievedAt": "2026-09-28"
+      },
+      "image": {
+        "url": "https://eshop.asus.com/media/catalog/product/9/7/97666dd4bf55bfe72941adcc7779759f_2.png",
+        "page": "https://eshop.asus.com/us/90nx0a91-m00190-asus-expertbook-p5-g2-14-intel-copilot-pc.html",
+        "sourceType": "manufacturer-product-page",
+        "rights": "Official ASUS eShop (US) product image; ASUS has not granted a general reuse license — rights not verified.",
+        "credit": "ASUS",
+        "alt": "ASUS ExpertBook P5 G2 14-inch business laptop in Misty Grey, open at an angle",
+        "match": "EXACT"
+      }
+    },
+    {
+      "sku": "TK-ASUS-EXPERTBOOK-P5-G2-16",
+      "slug": "asus-expertbook-p5-g2-16-amd",
+      "name": "ASUS ExpertBook P5 G2 16 (AMD)",
+      "brand": "ASUS",
+      "category": "business-laptops",
+      "price": "2679.99",
+      "priceBasis": "msrp",
+      "priceSource": "https://eshop.asus.com/us/90nx0ab1-m002e0-asus-expertbook-p5-g2-16-amd-copilot-pc.html",
+      "priceAsOf": "2026-09-28",
+      "releaseYear": 2026,
+      "summary": "16-inch business laptop with AMD Ryzen AI 9 HX 470, Radeon 890M, 32GB DDR5 (up to 96GB), RJ45 and USB4.",
+      "description": "The ExpertBook P5 G2 16 pairs an AMD Ryzen AI 9 HX 470 (12 cores, NPU 55 TOPS) and Radeon 890M graphics with 32GB of SO-DIMM DDR5 that can be expanded to 96GB. It has a 16-inch WQXGA anti-glare display, a 70Wh battery, a numeric keypad, 5MP IR camera, Gigabit Ethernet and USB4, and weighs from 1.62 kg.",
+      "keywords": "expertbook p5 16 amd ryzen ai 9 hx 470 business laptop",
+      "specs": {
+        "cpu": "AMD Ryzen AI 9 HX 470 (12 cores, up to 5.2GHz)",
+        "cpuBrand": "AMD",
+        "gpu": "AMD Radeon 890M",
+        "ramGb": 32,
+        "storageTb": 1,
+        "displayIn": 16,
+        "display": "16\" WQXGA (2560x1600) anti-glare",
+        "batteryWh": 70,
+        "weightKg": 1.62,
+        "os": "Windows 11 Pro",
+        "npuTops": 55,
+        "ports": "1x USB4 Type-C, 1x USB 3.2 Gen 2 Type-C, 2x USB 3.2 Gen 1 Type-A, HDMI 2.1, RJ45 Gigabit Ethernet, 3.5mm audio",
+        "wireless": "Wi-Fi 7, Bluetooth 5.4"
+      },
+      "colors": [
+        "Misty Grey"
+      ],
+      "collections": [
+        "small-business"
+      ],
+      "featured": false,
+      "sources": {
+        "product": "https://www.asus.com/us/laptops/for-work/expertbook/asus-expertbook-p5-g2-16-amd/",
+        "specs": "https://eshop.asus.com/us/90nx0ab1-m002e0-asus-expertbook-p5-g2-16-amd-copilot-pc.html",
+        "retrievedAt": "2026-09-28"
+      },
+      "image": {
+        "url": "https://dlcdnwebimgs.asus.com/gain/49a9444c-ae97-4afa-86dc-f077f2f853b5",
+        "page": "https://www.asus.com/us/laptops/for-work/expertbook/asus-expertbook-p5-g2-16-amd/",
+        "sourceType": "manufacturer-product-page",
+        "rights": "Official ASUS product-page image (dlcdnwebimgs.asus.com); no general reuse license verified.",
+        "credit": "ASUS",
+        "alt": "ASUS ExpertBook P5 G2 16-inch business laptop in Misty Grey, open at a three-quarter angle showing numeric keypad",
+        "match": "EXACT"
+      }
+    },
+    {
+      "sku": "TK-ASUS-GOOGLEBOOK-14",
+      "slug": "asus-googlebook-14",
+      "name": "ASUS Googlebook 14",
+      "brand": "ASUS",
+      "category": "chromebooks",
+      "price": "1299.00",
+      "priceBasis": "msrp",
+      "priceSource": "https://eshop.asus.com/us/90cb0a71-m003d0-asus-googlebook-14.html",
+      "priceAsOf": "2026-09-28",
+      "releaseYear": 2026,
+      "summary": "ASUS's first laptop designed for Gemini Intelligence: 14-inch 3K OLED touch, Intel Core Ultra 5 325, Googlebook OS, 0.99 kg.",
+      "description": "ASUS describes the Googlebook 14 as its first laptop designed for Gemini Intelligence, running Googlebook OS on an Intel Core Ultra Series 3 processor. The launch configuration has an Intel Core Ultra 5 325, 16GB LPDDR5X, a 256GB PCIe 4.0 SSD and a 14-inch 2880x1800 OLED touchscreen with Gorilla Glass, in a 0.43-inch, 0.99 kg chassis. The ASUS Store lists it as a pre-order.",
+      "keywords": "googlebook gemini intelligence google laptop cx9406",
+      "specs": {
+        "cpu": "Intel Core Ultra 5 325 (8 cores, up to 4.5GHz)",
+        "cpuBrand": "Intel",
+        "gpu": "Intel Graphics",
+        "ramGb": 16,
+        "storageTb": 0.256,
+        "displayIn": 14,
+        "display": "14\" WQXGA+ (2880x1800) OLED touch, 100% DCI-P3, Gorilla Glass",
+        "batteryWh": 70,
+        "weightKg": 0.99,
+        "os": "Googlebook OS",
+        "npuTops": 47,
+        "ports": "2x Thunderbolt 4, 2x USB 3.2 Gen 2 Type-A, HDMI 2.1, 3.5mm audio",
+        "wireless": "Wi-Fi 7, Bluetooth 6.0"
+      },
+      "colors": [
+        "Dusk Ash"
+      ],
+      "featured": false,
+      "sources": {
+        "product": "https://www.asus.com/us/laptops/for-home/googlebook/asus-googlebook-14/",
+        "specs": "https://eshop.asus.com/us/90cb0a71-m003d0-asus-googlebook-14.html",
+        "retrievedAt": "2026-09-28"
+      },
+      "notes": "Listed as PreOrder on the ASUS eShop at research time.",
+      "image": {
+        "url": "https://eshop.asus.com/media/catalog/product/e/2/e2275d49cc4c1b4c4378217fd9e70f53.png",
+        "page": "https://eshop.asus.com/us/90cb0a71-m003d0-asus-googlebook-14.html",
+        "sourceType": "manufacturer-product-page",
+        "rights": "Official ASUS eShop (US) product image; ASUS has not granted a general reuse license — rights not verified.",
+        "credit": "ASUS",
+        "alt": "ASUS Googlebook 14 CX9406 in Dusk Ash, open laptop showing the OLED touchscreen",
+        "match": "EXACT"
+      }
+    },
+    {
+      "sku": "TK-ASUS-CHROMEBOOK-PLUS-CX34",
+      "slug": "asus-chromebook-plus-cx34-cx3402",
+      "name": "ASUS Chromebook Plus CX34 (CX3402)",
+      "brand": "ASUS",
+      "category": "chromebooks",
+      "price": "659.99",
+      "priceBasis": "msrp",
+      "priceSource": "https://eshop.asus.com/us/90nx09h2-m000d0-asus-chromebook-plus-cx34-cx3402.html",
+      "priceAsOf": "2026-09-28",
+      "summary": "14-inch Chromebook Plus with Google AI features, Intel Core 3 100U, 8GB RAM, 128GB UFS and a MIL-STD 810H chassis.",
+      "description": "The Chromebook Plus CX34 is a 14-inch ChromeOS laptop with Google AI features. The ASUS Store configuration uses an Intel Core 3 100U (6 cores), 8GB LPDDR5, 128GB UFS storage and a 14-inch anti-glare display, with a backlit keyboard, privacy-shutter camera, Wi-Fi 6E and US MIL-STD 810H durability.",
+      "keywords": "chromebook plus cx34 chromeos google ai student",
+      "specs": {
+        "cpu": "Intel Core 3 100U (6 cores, up to 4.7GHz)",
+        "cpuBrand": "Intel",
+        "gpu": "Intel Graphics",
+        "ramGb": 8,
+        "storageTb": 0.128,
+        "displayIn": 14,
+        "display": "14\" FHD anti-glare",
+        "weightKg": 1.44,
+        "os": "ChromeOS",
+        "ports": "2x USB 3.2 Gen 1 Type-A, USB-C charging, 3.5mm audio",
+        "wireless": "Wi-Fi 6E, Bluetooth 5.4"
+      },
+      "colors": [
+        "Rocky Grey"
+      ],
+      "featured": false,
+      "sources": {
+        "product": "https://www.asus.com/us/laptops/for-home/chromebook/asus-chromebook-plus-cx34-cx3402/",
+        "specs": "https://eshop.asus.com/us/90nx09h2-m000d0-asus-chromebook-plus-cx34-cx3402.html",
+        "retrievedAt": "2026-09-28"
+      },
+      "image": {
+        "url": "https://eshop.asus.com/media/catalog/product/1/c/1ce7ba21c840e6a1065df73ef214dca0_22.png",
+        "page": "https://eshop.asus.com/us/90nx09h2-m000d0-asus-chromebook-plus-cx34-cx3402.html",
+        "sourceType": "manufacturer-product-page",
+        "rights": "Official ASUS eShop (US) product image; ASUS has not granted a general reuse license — rights not verified.",
+        "credit": "ASUS",
+        "alt": "ASUS Chromebook Plus CX34 CX3402 in Rocky Grey, open laptop at an angle",
+        "match": "EXACT"
+      }
+    },
+    {
+      "sku": "TK-ASUS-PROART-P16-H7606-5070",
+      "slug": "asus-proart-p16-h7606-rtx5070",
+      "name": "ASUS ProArt P16 (H7606, RTX 5070)",
+      "brand": "ASUS",
+      "category": "creator-laptops",
+      "price": "3999.99",
+      "priceBasis": "starting-at",
+      "priceSource": "https://eshop.asus.com/us/90nb15k1-m00rp0-proart-p16-h7606-copilot-pc.html",
+      "priceAsOf": "2026-09-28",
+      "summary": "NVIDIA Studio-validated 16-inch 4K OLED creator laptop with Ryzen AI 9 HX 370, GeForce RTX 5070 and 64GB RAM.",
+      "description": "The ProArt P16 is a 16-inch creator laptop with a Pantone-validated 4K OLED touchscreen with stylus support and ASUS DialPad on the touchpad. This configuration combines an AMD Ryzen AI 9 HX 370, NVIDIA GeForce RTX 5070 Laptop GPU (8GB GDDR7), 64GB LPDDR5X and a 2TB SSD with a 90Wh battery in a 1.85 kg chassis. ASUS also sells an RTX 5090 version with a Lumina Pro OLED and 2x 2TB SSDs.",
+      "keywords": "proart p16 creator laptop 4k oled rtx 5070 rtx 5090 studio",
+      "specs": {
+        "cpu": "AMD Ryzen AI 9 HX 370 (12 cores, up to 5.1GHz)",
+        "cpuBrand": "AMD",
+        "gpu": "NVIDIA GeForce RTX 5070 Laptop GPU, 8GB GDDR7",
+        "ramGb": 64,
+        "storageTb": 2,
+        "displayIn": 16,
+        "display": "16\" 4K OLED touch, 100% DCI-P3, Pantone Validated, stylus support",
+        "batteryWh": 90,
+        "weightKg": 1.85,
+        "os": "Windows 11 Pro",
+        "npuTops": 50,
+        "ports": "1x USB4 Type-C, 1x USB 3.2 Gen 2 Type-C, DC-in, 3.5mm audio",
+        "wireless": "Wi-Fi 7, Bluetooth 5.4"
+      },
+      "variants": [
+        {
+          "label": "RTX 5070 / 64GB / 2TB (H7606WP-PB99T)",
+          "price": "3999.99"
+        },
+        {
+          "label": "RTX 5090 / 64GB / 2x 2TB, Lumina Pro OLED",
+          "price": "5499.99"
+        }
+      ],
+      "colors": [
+        "Nano Black"
+      ],
+      "collections": [
+        "creator-workstations"
+      ],
+      "featured": false,
+      "sources": {
+        "product": "https://www.asus.com/us/laptops/for-creators/proart/proart-p16-h7606/",
+        "specs": "https://eshop.asus.com/us/90nb15k1-m00rp0-proart-p16-h7606-copilot-pc.html",
+        "retrievedAt": "2026-09-28"
+      },
+      "image": {
+        "url": "https://eshop.asus.com/media/catalog/product/e/f/ef6ad65efe5220dfa97efc4bdc29ac75_17.png",
+        "page": "https://eshop.asus.com/us/90nb15k1-m00rp0-proart-p16-h7606-copilot-pc.html",
+        "sourceType": "manufacturer-product-page",
+        "rights": "Official ASUS eShop (US) product image; ASUS has not granted a general reuse license — rights not verified.",
+        "credit": "ASUS",
+        "alt": "ASUS ProArt P16 H7606 in Nano Black, open creator laptop at a three-quarter angle",
+        "match": "EXACT"
+      }
+    },
+    {
+      "sku": "TK-ASUS-PROART-PX13-HN7306",
+      "slug": "asus-proart-px13-hn7306",
+      "name": "ASUS ProArt PX13 (HN7306)",
+      "brand": "ASUS",
+      "category": "creator-laptops",
+      "price": "2799.99",
+      "priceBasis": "msrp",
+      "priceSource": "https://eshop.asus.com/us/90nb17x1-m008s0-proart-px13-hn7306-copilot-pc.html",
+      "priceAsOf": "2026-09-28",
+      "summary": "13.3-inch 360-degree convertible creator laptop with AMD Ryzen AI Max+ 395, 64GB unified memory and 3K OLED touchscreen.",
+      "description": "The ProArt PX13 is a 1.39 kg 360-degree convertible powered by the AMD Ryzen AI Max+ 395 (16 cores, 32 threads) with 64GB of LPDDR5X unified memory for AI and video workloads. It has a 13.3-inch Pantone-validated 3K OLED touchscreen with stylus support, DialPad, two USB4 ports, a microSD 4.0 reader and a 73Wh battery.",
+      "keywords": "proart px13 ryzen ai max+ 395 strix halo convertible 2-in-1 creator",
+      "specs": {
+        "cpu": "AMD Ryzen AI Max+ 395 (16 cores, up to 5.1GHz)",
+        "cpuBrand": "AMD",
+        "gpu": "AMD Radeon Graphics (integrated)",
+        "ramGb": 64,
+        "storageTb": 1,
+        "displayIn": 13.3,
+        "display": "13.3\" 3K (2880x1800) OLED touch, 100% DCI-P3, Pantone Validated",
+        "batteryWh": 73,
+        "weightKg": 1.39,
+        "os": "Windows 11 Pro",
+        "npuTops": 50,
+        "ports": "2x USB4 Type-C, 1x USB 3.2 Gen 2 Type-A, microSD 4.0 reader, DC-in, 3.5mm audio",
+        "wireless": "Wi-Fi 7, Bluetooth 5.4"
+      },
+      "colors": [
+        "Nano Black"
+      ],
+      "collections": [
+        "creator-workstations",
+        "ai-workstations"
+      ],
+      "featured": false,
+      "sources": {
+        "product": "https://www.asus.com/us/laptops/for-creators/proart/proart-px13-hn7306/",
+        "specs": "https://eshop.asus.com/us/90nb17x1-m008s0-proart-px13-hn7306-copilot-pc.html",
+        "retrievedAt": "2026-09-28"
+      },
+      "image": {
+        "url": "https://eshop.asus.com/media/catalog/product/f/8/f8915f92f3390e274b94601207122ac4_5.png",
+        "page": "https://eshop.asus.com/us/90nb17x1-m008s0-proart-px13-hn7306-copilot-pc.html",
+        "sourceType": "manufacturer-product-page",
+        "rights": "Official ASUS eShop (US) product image; ASUS has not granted a general reuse license — rights not verified.",
+        "credit": "ASUS",
+        "alt": "ASUS ProArt PX13 HN7306 convertible laptop in Nano Black, open at an angle",
+        "match": "EXACT"
+      }
+    },
+    {
+      "sku": "TK-ASUS-ROG-ZEPHYRUS-G14-2026",
+      "slug": "asus-rog-zephyrus-g14-2026",
+      "name": "ASUS ROG Zephyrus G14 (2026) GU405",
+      "brand": "ASUS",
+      "category": "gaming-laptops",
+      "price": "3599.99",
+      "priceBasis": "msrp",
+      "priceSource": "https://eshop.asus.com/us/90nr0p94-m00450-rog-zephyrus-g14-2026-gu405.html",
+      "priceAsOf": "2026-09-28",
+      "releaseYear": 2026,
+      "summary": "1.58 kg 14-inch gaming laptop with Intel Core Ultra 9 386H, RTX 5070 Ti Laptop GPU and a 3K 120Hz OLED ROG Nebula display.",
+      "description": "The 2026 Zephyrus G14 (GU405) moves to an Intel Core Ultra 9 386H and NVIDIA GeForce RTX 5070 Ti Laptop GPU (12GB GDDR7, up to 130W in Manual mode) inside a CNC-machined aluminium chassis 0.72 inches thin. Its 14-inch 3K OLED ROG Nebula Display HDR runs at 120Hz with 1100-nit HDR peak, and it has 32GB LPDDR5X, a 1TB SSD, Thunderbolt 4, Wi-Fi 7 and a 73Wh battery.",
+      "keywords": "zephyrus g14 2026 rtx 5070 ti oled compact gaming laptop",
+      "specs": {
+        "cpu": "Intel Core Ultra 9 386H (16 cores, up to 4.9GHz)",
+        "cpuBrand": "Intel",
+        "gpu": "NVIDIA GeForce RTX 5070 Ti Laptop GPU, 12GB GDDR7",
+        "ramGb": 32,
+        "storageTb": 1,
+        "displayIn": 14,
+        "display": "14\" 3K (2880x1800) OLED ROG Nebula HDR, 120Hz",
+        "batteryWh": 73,
+        "weightKg": 1.58,
+        "os": "Windows 11 Pro",
+        "npuTops": 50,
+        "ports": "1x Thunderbolt 4, 1x USB 3.2 Gen 2 Type-C, 2x USB 3.2 Gen 2 Type-A, 3.5mm audio",
+        "wireless": "Wi-Fi 7, Bluetooth 6.0"
+      },
+      "collections": [
+        "gaming-monsters"
+      ],
+      "featured": true,
+      "sources": {
+        "product": "https://rog.asus.com/us/laptops/rog-zephyrus/rog-zephyrus-g14-2026-gu405/",
+        "specs": "https://eshop.asus.com/us/90nr0p94-m00450-rog-zephyrus-g14-2026-gu405.html",
+        "retrievedAt": "2026-09-28"
+      },
+      "image": {
+        "url": "https://eshop.asus.com/media/catalog/product/e/0/e0eddb6577fb9358ccf047be07735702_3.png",
+        "page": "https://eshop.asus.com/us/90nr0p94-m00450-rog-zephyrus-g14-2026-gu405.html",
+        "sourceType": "manufacturer-product-page",
+        "rights": "Official ASUS eShop (US) product image; ASUS has not granted a general reuse license — rights not verified.",
+        "credit": "ASUS",
+        "alt": "ASUS ROG Zephyrus G14 2026 GU405 gaming laptop, open at a three-quarter angle",
+        "match": "EXACT"
+      }
+    },
+    {
+      "sku": "TK-ASUS-ROG-ZEPHYRUS-G16-2026",
+      "slug": "asus-rog-zephyrus-g16-2026",
+      "name": "ASUS ROG Zephyrus G16 (2026) GU606",
+      "brand": "ASUS",
+      "category": "gaming-laptops",
+      "price": "3699.99",
+      "priceBasis": "msrp",
+      "priceSource": "https://eshop.asus.com/us/90nr0pc1-m006m0-rog-zephyrus-g16-2026.html",
+      "priceAsOf": "2026-09-28",
+      "releaseYear": 2026,
+      "summary": "2026 16-inch Zephyrus with Intel Core Ultra 9 386H, RTX 5070 Ti Laptop GPU and a 2.5K 240Hz OLED ROG Nebula display.",
+      "description": "The 2026 Zephyrus G16 (GU606) is a 1.95 kg, 0.70-inch aluminium gaming laptop with an Intel Core Ultra 9 386H and NVIDIA GeForce RTX 5070 Ti Laptop GPU (12GB GDDR7, up to 140W). Its 16-inch 2.5K OLED ROG Nebula display runs at 240Hz with 1100-nit HDR peak; it has 32GB LPDDR5X, a 1TB SSD, a 90Wh battery and XG Mobile support. An RTX 5080 / 64GB configuration is also sold.",
+      "keywords": "zephyrus g16 2026 gu606 rtx 5070 ti 240hz oled",
+      "specs": {
+        "cpu": "Intel Core Ultra 9 386H (16 cores, up to 4.9GHz)",
+        "cpuBrand": "Intel",
+        "gpu": "NVIDIA GeForce RTX 5070 Ti Laptop GPU, 12GB GDDR7",
+        "ramGb": 32,
+        "storageTb": 1,
+        "displayIn": 16,
+        "display": "16\" 2.5K OLED ROG Nebula HDR, 240Hz",
+        "batteryWh": 90,
+        "weightKg": 1.95,
+        "os": "Windows 11 Pro",
+        "npuTops": 50,
+        "ports": "1x Thunderbolt 4, 1x USB 3.2 Gen 2 Type-C, 2x USB 3.2 Gen 2 Type-A, 3.5mm audio",
+        "wireless": "Wi-Fi 7, Bluetooth 6.0"
+      },
+      "collections": [
+        "gaming-monsters"
+      ],
+      "featured": false,
+      "sources": {
+        "product": "https://rog.asus.com/us/laptops/rog-zephyrus/rog-zephyrus-g16-2026/",
+        "specs": "https://eshop.asus.com/us/90nr0pc1-m006m0-rog-zephyrus-g16-2026.html",
+        "retrievedAt": "2026-09-28"
+      },
+      "image": {
+        "url": "https://eshop.asus.com/media/catalog/product/3/5/35cd06560fcc1f26ea0cdf98adfa23c1_4.png",
+        "page": "https://eshop.asus.com/us/90nr0pc1-m006m0-rog-zephyrus-g16-2026.html",
+        "sourceType": "manufacturer-product-page",
+        "rights": "Official ASUS eShop (US) product image; ASUS has not granted a general reuse license — rights not verified.",
+        "credit": "ASUS",
+        "alt": "ASUS ROG Zephyrus G16 2026 GU606 gaming laptop, open at a three-quarter angle",
+        "match": "EXACT"
+      }
+    },
+    {
+      "sku": "TK-ASUS-ROG-ZEPHYRUS-DUO-2026",
+      "slug": "asus-rog-zephyrus-duo-2026",
+      "name": "ASUS ROG Zephyrus Duo (2026) GX651",
+      "brand": "ASUS",
+      "category": "gaming-laptops",
+      "price": "4499.99",
+      "priceBasis": "starting-at",
+      "priceSource": "https://eshop.asus.com/us/90nr0nr2-m003p0-rog-zephyrus-duo-2026.html",
+      "priceAsOf": "2026-09-28",
+      "releaseYear": 2026,
+      "summary": "Dual-screen gaming laptop with two 16-inch 3K OLED touch displays, Intel Core Ultra 9 386H and up to RTX 5090 Laptop GPU.",
+      "description": "The ROG Zephyrus Duo (GX651) combines two 16-inch 3K 120Hz OLED ROG Nebula touch displays with laptop, dual-screen, book, sharing and tent modes. The base configuration pairs an Intel Core Ultra 9 386H with an RTX 5070 Ti Laptop GPU, 32GB LPDDR5X and a 1TB SSD; an RTX 5090 (24GB GDDR7) version is also sold. It has a 90Wh battery, two Thunderbolt 4 ports and HDMI 2.1, and weighs 2.82 kg.",
+      "keywords": "zephyrus duo dual screen gaming laptop rtx 5090 gx651",
+      "specs": {
+        "cpu": "Intel Core Ultra 9 386H (16 cores, up to 4.9GHz)",
+        "cpuBrand": "Intel",
+        "gpu": "NVIDIA GeForce RTX 5070 Ti Laptop GPU, 12GB GDDR7",
+        "ramGb": 32,
+        "storageTb": 1,
+        "displayIn": 16,
+        "display": "Dual 16\" 3K (2880x1800) OLED ROG Nebula touch displays, 120Hz, stylus support",
+        "batteryWh": 90,
+        "weightKg": 2.82,
+        "os": "Windows 11 Home",
+        "npuTops": 50,
+        "ports": "2x Thunderbolt 4, 2x USB 3.2 Gen 2 Type-A, HDMI 2.1 FRL, 3.5mm audio",
+        "wireless": "Wi-Fi 7, Bluetooth 6.0"
+      },
+      "variants": [
+        {
+          "label": "RTX 5070 Ti / 32GB / 1TB",
+          "price": "4499.99"
+        },
+        {
+          "label": "RTX 5090 (24GB) / 32GB / 1TB",
+          "price": "5499.99"
+        }
+      ],
+      "collections": [
+        "gaming-monsters",
+        "dream-gaming"
+      ],
+      "featured": false,
+      "sources": {
+        "product": "https://rog.asus.com/us/laptops/rog-zephyrus/rog-zephyrus-duo-2026/",
+        "specs": "https://eshop.asus.com/us/90nr0nr2-m003p0-rog-zephyrus-duo-2026.html",
+        "retrievedAt": "2026-09-28"
+      },
+      "image": {
+        "url": "https://eshop.asus.com/media/catalog/product/a/0/a08e025b227f2c5d385300d9dbde39ab_4.png",
+        "page": "https://eshop.asus.com/us/90nr0nt2-m005u0-rog-zephyrus-duo-2026.html",
+        "sourceType": "manufacturer-product-page",
+        "rights": "Official ASUS eShop (US) product image; ASUS has not granted a general reuse license — rights not verified.",
+        "credit": "ASUS",
+        "alt": "ASUS ROG Zephyrus Duo 2026 GX651 with its two 16-inch OLED screens opened",
+        "match": "EXACT"
+      }
+    },
+    {
+      "sku": "TK-ASUS-ROG-STRIX-SCAR-18-2026",
+      "slug": "asus-rog-strix-scar-18-2026",
+      "name": "ASUS ROG Strix SCAR 18 (2026) G835",
+      "brand": "ASUS",
+      "category": "gaming-laptops",
+      "price": "4299.99",
+      "priceBasis": "starting-at",
+      "priceSource": "https://eshop.asus.com/us/90nr0li1-m00d70-rog-strix-scar-18-2026.html",
+      "priceAsOf": "2026-09-28",
+      "releaseYear": 2026,
+      "summary": "Flagship 18-inch gaming laptop with Core Ultra 9 290HX Plus, 175W RTX 5080/5090 and a 4K 240Hz ROG Nebula HDR display.",
+      "description": "The 2026 Strix SCAR 18 (G835) is ROG's 18-inch flagship, pairing an Intel Core Ultra 9 290HX Plus (24 cores) with a 175W NVIDIA GeForce RTX 5080 Laptop GPU (16GB GDDR7) in the base configuration, or an RTX 5090. It has an 18-inch 4K (3840x2400) ROG Nebula HDR panel that reaches 240Hz in Ultimate GPU mode, 32GB DDR5-6400 (up to 128GB), two Thunderbolt 5 ports, 2.5G LAN, a 90Wh battery and a 450W adapter.",
+      "keywords": "strix scar 18 2026 rtx 5090 rtx 5080 4k 240hz thunderbolt 5 desktop replacement",
+      "specs": {
+        "cpu": "Intel Core Ultra 9 290HX Plus (24 cores, up to 5.5GHz)",
+        "cpuBrand": "Intel",
+        "gpu": "NVIDIA GeForce RTX 5080 Laptop GPU, 16GB GDDR7, 175W",
+        "ramGb": 32,
+        "storageTb": 1,
+        "displayIn": 18,
+        "display": "18\" 4K (3840x2400) ROG Nebula HDR, up to 240Hz, 100% DCI-P3",
+        "batteryWh": 90,
+        "weightKg": 3.7,
+        "os": "Windows 11 Home",
+        "npuTops": 13,
+        "ports": "2x Thunderbolt 5, 3x USB 3.2 Gen 2 Type-A, 2.5G LAN, 3.5mm audio",
+        "wireless": "Wi-Fi 7, Bluetooth 5.4"
+      },
+      "variants": [
+        {
+          "label": "RTX 5080 / 32GB / 1TB (G835LWG-DB96)",
+          "price": "4299.99"
+        },
+        {
+          "label": "RTX 5090 / 32GB / 1TB (G835LXG-DB96)",
+          "price": "4999.99"
+        },
+        {
+          "label": "RTX 5090 / 32GB / 2TB, Windows 11 Pro (G835LXG-XB97)",
+          "price": "5299.99"
+        }
+      ],
+      "collections": [
+        "gaming-monsters",
+        "dream-gaming",
+        "ultimate-gaming-setup"
+      ],
+      "featured": false,
+      "sources": {
+        "product": "https://rog.asus.com/us/laptops/rog-strix/rog-strix-scar-18-2026/",
+        "specs": "https://eshop.asus.com/us/90nr0li1-m00d70-rog-strix-scar-18-2026.html",
+        "retrievedAt": "2026-09-28"
+      },
+      "notes": "ASUS eShop listed all SCAR 18 (2026) configurations as OutOfStock on the research date; prices are the listed ASUS Store prices.",
+      "image": {
+        "url": "https://eshop.asus.com/media/catalog/product/0/e/0e90fa4926512081ca977f17d0589c9a.png",
+        "page": "https://eshop.asus.com/us/90nr0li1-m00d70-rog-strix-scar-18-2026.html",
+        "sourceType": "manufacturer-product-page",
+        "rights": "Official ASUS eShop (US) product image; ASUS has not granted a general reuse license — rights not verified.",
+        "credit": "ASUS",
+        "alt": "ASUS ROG Strix SCAR 18 2026 G835 gaming laptop, open at a three-quarter angle with RGB light bar",
+        "match": "EXACT"
+      }
+    },
+    {
+      "sku": "TK-ASUS-ROG-FLOW-Z13-2025",
+      "slug": "asus-rog-flow-z13-2025",
+      "name": "ASUS ROG Flow Z13 (2025) GZ302",
+      "brand": "ASUS",
+      "category": "gaming-laptops",
+      "price": "2099.99",
+      "priceBasis": "starting-at",
+      "priceSource": "https://eshop.asus.com/us/90nr0jy1-m001l0-rog-flow-z13-2025.html",
+      "priceAsOf": "2026-09-28",
+      "releaseYear": 2025,
+      "summary": "13.4-inch 2-in-1 gaming tablet with AMD Ryzen AI Max-series APU, 180Hz 2.5K touchscreen, kickstand and detachable keyboard.",
+      "description": "The 2025 ROG Flow Z13 is a 1.20 kg 2-in-1 gaming tablet with a 170-degree kickstand and detachable keyboard. The base configuration uses an AMD Ryzen AI Max 390 (12 cores) with Radeon 8050S graphics and 32GB quad-channel LPDDR5X-8000; a Ryzen AI Max+ 395 / Radeon 8060S version is also sold. Its 13.4-inch 2.5K 180Hz touchscreen covers 100% DCI-P3 and it supports XG Mobile.",
+      "keywords": "flow z13 2-in-1 gaming tablet ryzen ai max strix halo",
+      "specs": {
+        "cpu": "AMD Ryzen AI Max 390 (12 cores, up to 5.0GHz)",
+        "cpuBrand": "AMD",
+        "gpu": "AMD Radeon 8050S Graphics",
+        "ramGb": 32,
+        "storageTb": 1,
+        "displayIn": 13.4,
+        "display": "13.4\" 2.5K (2560x1600) IPS-level touch, 180Hz, 100% DCI-P3",
+        "batteryWh": 70,
+        "weightKg": 1.2,
+        "os": "Windows 11 Home",
+        "npuTops": 50,
+        "ports": "2x USB4 Type-C, 1x USB 3.2 Gen 2 Type-A, microSD (UHS-II), 3.5mm audio",
+        "wireless": "Wi-Fi 7, Bluetooth 5.4"
+      },
+      "variants": [
+        {
+          "label": "Ryzen AI Max 390 / 32GB / 1TB (GZ302EA)",
+          "price": "2099.99"
+        },
+        {
+          "label": "Ryzen AI Max+ 395 / 32GB / 1TB, Windows 11 Pro (GZ302EA-XS96)",
+          "price": "2399.99"
+        }
+      ],
+      "collections": [
+        "gaming-monsters"
+      ],
+      "featured": false,
+      "sources": {
+        "product": "https://rog.asus.com/us/laptops/rog-flow/rog-flow-z13-2025/",
+        "specs": "https://eshop.asus.com/us/90nr0jy1-m001l0-rog-flow-z13-2025.html",
+        "retrievedAt": "2026-09-28"
+      },
+      "image": {
+        "url": "https://eshop.asus.com/media/catalog/product/c/a/ca77fa0a9d68533aaf1a3f777b25eddc_1.png",
+        "page": "https://eshop.asus.com/us/90nr0jy1-m001l0-rog-flow-z13-2025.html",
+        "sourceType": "manufacturer-product-page",
+        "rights": "Official ASUS eShop (US) product image; ASUS has not granted a general reuse license — rights not verified.",
+        "credit": "ASUS",
+        "alt": "ASUS ROG Flow Z13 2025 gaming tablet with kickstand deployed and detachable keyboard attached",
+        "match": "EXACT"
+      }
+    },
+    {
+      "sku": "TK-ASUS-TUF-GAMING-A14-2026",
+      "slug": "asus-tuf-gaming-a14-2026",
+      "name": "ASUS TUF Gaming A14 (2026) FA401EA",
+      "brand": "ASUS",
+      "category": "gaming-laptops",
+      "price": "2199.99",
+      "priceBasis": "msrp",
+      "priceSource": "https://eshop.asus.com/us/90nr0pm1-m000m0-asus-tuf-gaming-a14-2026-fa401ea.html",
+      "priceAsOf": "2026-09-28",
+      "releaseYear": 2026,
+      "summary": "14-inch TUF gaming Copilot+ PC powered by AMD Ryzen AI Max+ 392 with Radeon 8060S graphics and a 2.5K 165Hz display.",
+      "description": "The 2026 TUF Gaming A14 (FA401EA) uses the AMD Ryzen AI Max+ 392 APU (12 cores) with Radeon 8060S integrated graphics instead of a discrete GPU. This configuration has 32GB of memory, a 1TB PCIe 4.0 SSD, a 14-inch 2.5K 165Hz anti-glare display, a 73Wh battery, USB4, HDMI 2.1 and XG Mobile support, at 1.48 kg.",
+      "keywords": "tuf a14 ryzen ai max+ 392 radeon 8060s budget gaming copilot+",
+      "specs": {
+        "cpu": "AMD Ryzen AI Max+ 392 (12 cores, up to 5.0GHz)",
+        "cpuBrand": "AMD",
+        "gpu": "AMD Radeon 8060S Graphics",
+        "ramGb": 32,
+        "storageTb": 1,
+        "displayIn": 14,
+        "display": "14\" 2.5K (2560x1600) IPS-level, 165Hz, 100% sRGB",
+        "batteryWh": 73,
+        "weightKg": 1.48,
+        "os": "Windows 11 Home",
+        "npuTops": 50,
+        "ports": "1x USB4 Type-C, 1x USB 3.2 Gen 2 Type-C, 2x USB 3.2 Gen 2 Type-A, HDMI 2.1 FRL, microSD, 3.5mm audio",
+        "wireless": "Wi-Fi 6E, Bluetooth 5.4"
+      },
+      "featured": false,
+      "sources": {
+        "product": "https://www.asus.com/us/laptops/for-gaming/tuf-gaming/asus-tuf-gaming-a14-2026-fa401ea/",
+        "specs": "https://eshop.asus.com/us/90nr0pm1-m000m0-asus-tuf-gaming-a14-2026-fa401ea.html",
+        "retrievedAt": "2026-09-28"
+      },
+      "image": {
+        "url": "https://eshop.asus.com/media/catalog/product/1/c/1c0e4fc3465a7c48ae02013519557073.png",
+        "page": "https://eshop.asus.com/us/90nr0pm1-m000m0-asus-tuf-gaming-a14-2026-fa401ea.html",
+        "sourceType": "manufacturer-product-page",
+        "rights": "Official ASUS eShop (US) product image; ASUS has not granted a general reuse license — rights not verified.",
+        "credit": "ASUS",
+        "alt": "ASUS TUF Gaming A14 2026 FA401 gaming laptop, open at a three-quarter angle",
+        "match": "EXACT"
+      }
+    },
+    {
+      "sku": "TK-ASUS-TUF-GAMING-F16-2026",
+      "slug": "asus-tuf-gaming-f16-2026",
+      "name": "ASUS TUF Gaming F16 (2026)",
+      "brand": "ASUS",
+      "category": "gaming-laptops",
+      "price": "2399.99",
+      "priceBasis": "msrp",
+      "priceSource": "https://eshop.asus.com/us/90nr0k11-m000y0-asus-tuf-gaming-f16-2026.html",
+      "priceAsOf": "2026-09-28",
+      "releaseYear": 2026,
+      "summary": "16-inch TUF gaming laptop with Intel Core Ultra 9 290HX Plus, RTX 5070 and a 2.5K 165Hz OLED display.",
+      "description": "The 2026 TUF Gaming F16 pairs an Intel Core Ultra 9 290HX Plus (24 cores) with a 115W NVIDIA GeForce RTX 5070 Laptop GPU (8GB GDDR7), MUX Switch and Advanced Optimus. It has a 16-inch 2.5K 165Hz OLED display with 100% DCI-P3, 16GB DDR5-5600 (two SO-DIMM slots, up to 64GB), a 1TB SSD, Thunderbolt 4, RJ45 LAN and a 90Wh battery.",
+      "keywords": "tuf f16 2026 rtx 5070 oled 165hz core ultra 9 290hx",
+      "specs": {
+        "cpu": "Intel Core Ultra 9 290HX Plus (24 cores, up to 5.5GHz)",
+        "cpuBrand": "Intel",
+        "gpu": "NVIDIA GeForce RTX 5070 Laptop GPU, 8GB GDDR7, 115W",
+        "ramGb": 16,
+        "storageTb": 1,
+        "displayIn": 16,
+        "display": "16\" 2.5K (2560x1600) OLED, 165Hz, 100% DCI-P3, G-Sync",
+        "batteryWh": 90,
+        "weightKg": 2.2,
+        "os": "Windows 11 Home",
+        "npuTops": 13,
+        "ports": "1x Thunderbolt 4, 1x USB 3.2 Gen 2 Type-C, 3x USB 3.2 Gen 2 Type-A, HDMI 2.1 FRL, RJ45 LAN, 3.5mm audio",
+        "wireless": "Wi-Fi 6E, Bluetooth 5.4"
+      },
+      "colors": [
+        "Jaeger Gray"
+      ],
+      "featured": false,
+      "sources": {
+        "product": "https://www.asus.com/us/laptops/for-gaming/tuf-gaming/asus-tuf-gaming-f16-2026/",
+        "specs": "https://eshop.asus.com/us/90nr0k11-m000y0-asus-tuf-gaming-f16-2026.html",
+        "retrievedAt": "2026-09-28"
+      },
+      "image": {
+        "url": "https://eshop.asus.com/media/catalog/product/d/6/d6513e7d912cf87acbbc585b4be6e961.png",
+        "page": "https://eshop.asus.com/us/90nr0k11-m000y0-asus-tuf-gaming-f16-2026.html",
+        "sourceType": "manufacturer-product-page",
+        "rights": "Official ASUS eShop (US) product image; ASUS has not granted a general reuse license — rights not verified.",
+        "credit": "ASUS",
+        "alt": "ASUS TUF Gaming F16 2026 in Jaeger Gray, open gaming laptop at a three-quarter angle",
+        "match": "EXACT"
+      }
+    },
+    {
+      "sku": "TK-ASUS-ROG-XBOX-ALLY-X",
+      "slug": "asus-rog-xbox-ally-x",
+      "name": "ASUS ROG Xbox Ally X",
+      "brand": "ASUS",
+      "category": "handhelds",
+      "price": "999.99",
+      "priceBasis": "msrp",
+      "priceSource": "https://eshop.asus.com/us/90nv00h2-m005p0-rog-xbox-ally-x-2025.html",
+      "priceAsOf": "2026-09-28",
+      "releaseYear": 2025,
+      "summary": "Windows 11 gaming handheld with AMD Ryzen AI Z2 Extreme, 24GB LPDDR5X, 1TB SSD, 7-inch 120Hz FHD screen and 80Wh battery.",
+      "description": "The ROG Xbox Ally X is a Windows 11 handheld built with Xbox, powered by the AMD Ryzen AI Z2 Extreme (8 cores, NPU up to 50 TOPS). It has 24GB LPDDR5X, a 1TB M.2 2280 SSD, a 7-inch 1080p 120Hz IPS-level touchscreen with FreeSync Premium, Hall Effect triggers, HD haptics, a USB4 port and an 80Wh battery, at 715 g.",
+      "keywords": "rog xbox ally x handheld pc ryzen z2 extreme windows handheld",
+      "specs": {
+        "platform": "Windows 11 Home (Xbox full screen experience)",
+        "chip": "AMD Ryzen AI Z2 Extreme (8 cores, 16 threads)",
+        "storage": "1TB PCIe 4.0 M.2 2280 SSD",
+        "display": "7\" FHD (1920x1080) IPS-level touch, 120Hz, 500 nits, FreeSync Premium",
+        "output": "USB4 (DisplayPort 1.4), USB 3.2 Gen 2 Type-C (DisplayPort)",
+        "connectivity": "Wi-Fi 6E, Bluetooth 5.4",
+        "battery": "80Wh",
+        "weightG": 715
+      },
+      "colors": [
+        "Black"
+      ],
+      "collections": [
+        "gaming-monsters"
+      ],
+      "featured": true,
+      "sources": {
+        "product": "https://rog.asus.com/us/gaming-handhelds/rog-ally/rog-xbox-ally-x-2025/",
+        "specs": "https://eshop.asus.com/us/90nv00h2-m005p0-rog-xbox-ally-x-2025.html",
+        "retrievedAt": "2026-09-28"
+      },
+      "image": {
+        "url": "https://eshop.asus.com/media/catalog/product/b/1/b1d2e561c2b122a4dd28d28bde81aa31_6.png",
+        "page": "https://eshop.asus.com/us/90nv00h2-m005p0-rog-xbox-ally-x-2025.html",
+        "sourceType": "manufacturer-product-page",
+        "rights": "Official ASUS eShop (US) product image; ASUS has not granted a general reuse license — rights not verified.",
+        "credit": "ASUS",
+        "alt": "ASUS ROG Xbox Ally X handheld in black, front view showing the 7-inch screen and controls",
+        "match": "EXACT"
+      }
+    },
+    {
+      "sku": "TK-ASUS-ROG-XBOX-ALLY",
+      "slug": "asus-rog-xbox-ally",
+      "name": "ASUS ROG Xbox Ally",
+      "brand": "ASUS",
+      "category": "handhelds",
+      "price": "599.99",
+      "priceBasis": "msrp",
+      "priceSource": "https://eshop.asus.com/us/rog-xbox-ally.html",
+      "priceAsOf": "2026-09-28",
+      "releaseYear": 2025,
+      "summary": "Entry Windows 11 gaming handheld with AMD Ryzen Z2 A, 16GB LPDDR5, 512GB SSD and a 7-inch 120Hz FHD touchscreen.",
+      "description": "The ROG Xbox Ally is the lighter, lower-priced sibling of the Ally X, using an AMD Ryzen Z2 A (4 cores, 8 threads) with 16GB LPDDR5-6400 and a 512GB M.2 2280 SSD. It shares the 7-inch 1080p 120Hz touchscreen and Xbox-style grips, with two USB-C ports, a UHS-II microSD reader and a 60Wh battery, at 670 g.",
+      "keywords": "rog xbox ally handheld z2 a entry",
+      "specs": {
+        "platform": "Windows 11 Home (Xbox full screen experience)",
+        "chip": "AMD Ryzen Z2 A (4 cores, 8 threads)",
+        "storage": "512GB PCIe 4.0 M.2 2280 SSD",
+        "display": "7\" FHD (1920x1080) IPS-level touch, 120Hz, 500 nits, FreeSync Premium",
+        "output": "2x USB 3.2 Gen 2 Type-C (DisplayPort)",
+        "connectivity": "Wi-Fi 6E, Bluetooth 5.4",
+        "battery": "60Wh",
+        "weightG": 670
+      },
+      "colors": [
+        "White"
+      ],
+      "featured": false,
+      "sources": {
+        "product": "https://rog.asus.com/us/gaming-handhelds/rog-ally/rog-xbox-ally-2025/",
+        "specs": "https://eshop.asus.com/us/rog-xbox-ally.html",
+        "retrievedAt": "2026-09-28"
+      },
+      "image": {
+        "url": "https://eshop.asus.com/media/catalog/product/2/b/2b12c4bc201a46e0a07d7cc7ba83cb46.png",
+        "page": "https://eshop.asus.com/us/rog-xbox-ally.html",
+        "sourceType": "manufacturer-product-page",
+        "rights": "Official ASUS eShop (US) product image; ASUS has not granted a general reuse license — rights not verified.",
+        "credit": "ASUS",
+        "alt": "ASUS ROG Xbox Ally handheld in white, front view showing the screen and controls",
+        "match": "EXACT"
+      }
+    },
+    {
+      "sku": "TK-ASUS-ROG-XBOX-ALLY-X20",
+      "slug": "asus-rog-xbox-ally-x20",
+      "name": "ASUS ROG Xbox Ally X20 (2026)",
+      "brand": "ASUS",
+      "category": "handhelds",
+      "price": "1299.99",
+      "priceBasis": "msrp",
+      "priceSource": "https://eshop.asus.com/us/90nv00k1-m001u0-rog-xbox-ally-x20-2026.html",
+      "priceAsOf": "2026-09-28",
+      "releaseYear": 2026,
+      "summary": "ROG 20th-anniversary handheld with a 7.4-inch 120Hz OLED HDR display, Ryzen AI Z2 Extreme, 24GB RAM and TMR joysticks.",
+      "description": "The ROG Xbox Ally X20 is a translucent black-and-gold collector's edition marking 20 years of ROG. It keeps the Ryzen AI Z2 Extreme, 24GB LPDDR5X and 1TB SSD, but adds a larger 7.4-inch 1080p 120Hz OLED (1400 nits HDR, Dolby Vision), contact-free TMR joysticks, a transforming D-pad and a microSD Express reader. The ASUS Store listed it as a pre-order.",
+      "keywords": "rog xbox ally x20 20th anniversary oled handheld tmr joysticks",
+      "specs": {
+        "platform": "Windows 11 Home (Xbox full screen experience)",
+        "chip": "AMD Ryzen AI Z2 Extreme (8 cores, 16 threads)",
+        "storage": "1TB PCIe 4.0 M.2 2280 SSD",
+        "display": "7.4\" FHD (1920x1080) OLED touch, 120Hz, 1400 nits HDR, 100% DCI-P3, Dolby Vision",
+        "output": "USB4 (DisplayPort 2.1), USB 3.2 Gen 2 Type-C (DisplayPort)",
+        "connectivity": "Wi-Fi 6E, Bluetooth 5.4",
+        "battery": "80Wh",
+        "weightG": 756
+      },
+      "colors": [
+        "Translucent black and gold"
+      ],
+      "collections": [
+        "dream-gaming"
+      ],
+      "featured": false,
+      "sources": {
+        "product": "https://rog.asus.com/us/gaming-handhelds/rog-ally/rog-xbox-ally-x20-2026/",
+        "specs": "https://eshop.asus.com/us/90nv00k1-m001u0-rog-xbox-ally-x20-2026.html",
+        "retrievedAt": "2026-09-28"
+      },
+      "notes": "Listed as PreOrder on the ASUS eShop at research time.",
+      "image": {
+        "url": "https://eshop.asus.com/media/catalog/product/4/2/427e45dfa6957c434902f357b9214018.png",
+        "page": "https://eshop.asus.com/us/90nv00k1-m001u0-rog-xbox-ally-x20-2026.html",
+        "sourceType": "manufacturer-product-page",
+        "rights": "Official ASUS eShop (US) product image; ASUS has not granted a general reuse license — rights not verified.",
+        "credit": "ASUS",
+        "alt": "ASUS ROG Xbox Ally X20 anniversary handheld in translucent black with gold accents, front view",
+        "match": "EXACT"
+      }
+    },
+    {
+      "sku": "TK-ASUS-ROG-G1000-2026",
+      "slug": "asus-rog-g1000-2026",
+      "name": "ASUS ROG G1000 (2026) GM1000 Gaming Desktop",
+      "brand": "ASUS",
+      "category": "gaming-desktops",
+      "price": "4999.99",
+      "priceBasis": "msrp",
+      "priceSource": "https://eshop.asus.com/us/90pf0651-m004y0-rog-g1000-2026-gm1000.html",
+      "priceAsOf": "2026-09-28",
+      "releaseYear": 2026,
+      "summary": "Full-tower ROG gaming PC with AMD Ryzen 7 9800X3D, ROG GeForce RTX 5080 16GB, 32GB DDR5 and 2TB SSD.",
+      "description": "The 2026 ROG G1000 (GM1000) is a full-tower gaming desktop with an AMD Ryzen 7 9800X3D and an ROG GeForce RTX 5080 16GB OC graphics card. It ships with 32GB DDR5 (4 DIMM slots, up to 128GB), a 2TB PCIe 4.0 SSD, a 1000W 80+ Gold power supply, two USB4 ports and four M.2 slots.",
+      "keywords": "rog g1000 gaming pc 9800x3d rtx 5080 prebuilt",
+      "specs": {
+        "cpu": "AMD Ryzen 7 9800X3D (8 cores, up to 5.2GHz)",
+        "cpuBrand": "AMD",
+        "gpu": "ROG GeForce RTX 5080 16GB GDDR7 OC",
+        "ramGb": 32,
+        "storageTb": 2,
+        "os": "Windows 11 Home",
+        "networking": "Gigabit Ethernet",
+        "psuW": 1000,
+        "ports": "2x USB4 Type-C, USB 3.2 Gen 2 Type-C, USB 3.2 Gen 1 Type-A, USB 2.0, HDMI 2.1b, 7.1 audio"
+      },
+      "colors": [
+        "Black"
+      ],
+      "collections": [
+        "ultimate-gaming-setup",
+        "dream-gaming"
+      ],
+      "featured": false,
+      "sources": {
+        "product": "https://rog.asus.com/us/desktops/full-tower/rog-g1000-2026-gm1000/",
+        "specs": "https://eshop.asus.com/us/90pf0651-m004y0-rog-g1000-2026-gm1000.html",
+        "retrievedAt": "2026-09-28"
+      },
+      "image": {
+        "url": "https://dlcdnwebimgs.asus.com/gain/2632990D-D75B-4F11-BBE4-8B9EA8D51B8B",
+        "page": "https://rog.asus.com/us/desktops/full-tower/rog-g1000-2026-gm1000/",
+        "sourceType": "manufacturer-product-page",
+        "rights": "Official ASUS product-page image (dlcdnwebimgs.asus.com); no general reuse license verified.",
+        "credit": "ASUS",
+        "alt": "ASUS ROG G1000 2026 full-tower gaming desktop in black, front three-quarter view",
+        "match": "EXACT"
+      }
+    },
+    {
+      "sku": "TK-ASUS-ROG-G700-G700TF",
+      "slug": "asus-rog-g700-g700tf",
+      "name": "ASUS ROG G700 (G700TF) Gaming Desktop",
+      "brand": "ASUS",
+      "category": "gaming-desktops",
+      "price": "2599.99",
+      "priceBasis": "msrp",
+      "priceSource": "https://eshop.asus.com/us/90pf05q1-m003y0-rog-g700-2025-g700.html",
+      "priceAsOf": "2026-09-28",
+      "summary": "ROG tower gaming PC with Intel Core Ultra 7 265KF, GeForce RTX 5070 Ti 16GB, 32GB DDR5 and an 850W Gold PSU.",
+      "description": "The ROG G700 (G700TF) is a tower gaming desktop built on an Intel B860 platform with an Intel Core Ultra 7 265KF (20 cores) and an ASUS Prime GeForce RTX 5070 Ti 16GB. It includes 32GB DDR5 (up to 128GB), a 1TB PCIe 4.0 SSD, an 850W 80+ Gold PSU and Windows 11 Pro.",
+      "keywords": "rog g700 gaming desktop rtx 5070 ti core ultra 7 265kf",
+      "specs": {
+        "cpu": "Intel Core Ultra 7 265KF (20 cores, up to 5.5GHz)",
+        "cpuBrand": "Intel",
+        "gpu": "ASUS Prime GeForce RTX 5070 Ti 16GB GDDR7",
+        "ramGb": 32,
+        "storageTb": 1,
+        "os": "Windows 11 Pro",
+        "networking": "Gigabit Ethernet",
+        "psuW": 850,
+        "ports": "USB 3.2 Gen 2 Type-C, USB 3.2 Gen 2 Type-A, USB 3.2 Gen 1 Type-A/C, USB 2.0, DisplayPort 1.4, 7.1 audio"
+      },
+      "colors": [
+        "Black"
+      ],
+      "collections": [
+        "ultimate-gaming-setup"
+      ],
+      "featured": false,
+      "sources": {
+        "product": "https://rog.asus.com/us/desktops/full-tower/rog-g700-2025-g700/",
+        "specs": "https://eshop.asus.com/us/90pf05q1-m003y0-rog-g700-2025-g700.html",
+        "retrievedAt": "2026-09-28"
+      },
+      "notes": "ASUS eShop showed a temporary sale price of $2,349.99 against a regular price of $2,599.99 on the research date; the regular price is used.",
+      "image": {
+        "url": "https://eshop.asus.com/media/catalog/product/6/b/6b11a6cf075c7d371c21d365d45759e0_99.png",
+        "page": "https://eshop.asus.com/us/90pf05q1-m003y0-rog-g700-2025-g700.html",
+        "sourceType": "manufacturer-product-page",
+        "rights": "Official ASUS eShop (US) product image; ASUS has not granted a general reuse license — rights not verified.",
+        "credit": "ASUS",
+        "alt": "ASUS ROG G700 gaming desktop tower in black, front three-quarter view with RGB lighting",
+        "match": "EXACT"
+      }
+    },
+    {
+      "sku": "TK-ASUS-ROG-NUC-16",
+      "slug": "asus-rog-nuc-16",
+      "name": "ASUS ROG NUC 16 Gaming Mini PC",
+      "brand": "ASUS",
+      "category": "mini-pcs",
+      "price": "3199.00",
+      "priceBasis": "starting-at",
+      "priceSource": "https://eshop.asus.com/us/90as00s1-m00270-rog-nuc-16.html",
+      "priceAsOf": "2026-09-28",
+      "releaseYear": 2026,
+      "summary": "Compact gaming mini PC with Intel Core Ultra 9 290HX Plus and RTX 5070 Ti or RTX 5080 Laptop GPU, Wi-Fi 7 and 2.5G LAN.",
+      "description": "The ROG NUC 16 packs an Intel Core Ultra 9 290HX Plus (cTDP 45-160W) and a discrete NVIDIA GeForce RTX 5070 Ti Laptop GPU (12GB GDDR7) into a 3.12 kg mini PC; an RTX 5080 version is also sold. It ships with 32GB DDR5-6400 CSO-DIMM (up to 64GB), a 1TB SSD with PCIe 5.0 expansion support, Thunderbolt 4, dual HDMI 2.1 and dual DisplayPort 2.1 outputs, Killer Wi-Fi 7 and 2.5G Ethernet.",
+      "keywords": "rog nuc 16 mini gaming pc rtx 5080 small form factor",
+      "specs": {
+        "cpu": "Intel Core Ultra 9 290HX Plus",
+        "cpuBrand": "Intel",
+        "gpu": "NVIDIA GeForce RTX 5070 Ti Laptop GPU, 12GB GDDR7",
+        "ramGb": 32,
+        "storageTb": 1,
+        "os": "Windows 11 Home",
+        "networking": "Killer Wi-Fi 7 BE1750x, Bluetooth 5.4, 2.5G LAN",
+        "psuW": 380,
+        "ports": "1x Thunderbolt 4, 6x USB 3.2 Gen 2 Type-A, 1x USB 3.2 Gen 2 Type-C, 2x HDMI 2.1 FRL, 2x DisplayPort 2.1"
+      },
+      "variants": [
+        {
+          "label": "RTX 5070 Ti / 32GB / 1TB",
+          "price": "3199.00"
+        },
+        {
+          "label": "RTX 5080 / 32GB / 1TB",
+          "price": "3799.00"
+        }
+      ],
+      "colors": [
+        "Black"
+      ],
+      "collections": [
+        "gaming-monsters"
+      ],
+      "featured": false,
+      "sources": {
+        "product": "https://rog.asus.com/us/desktops/mini-pc/rog-nuc-16/",
+        "specs": "https://eshop.asus.com/us/90as00s1-m00270-rog-nuc-16.html",
+        "retrievedAt": "2026-09-28"
+      },
+      "image": {
+        "url": "https://dlcdnwebimgs.asus.com/gain/D8A3DEE6-B21F-4749-A2D3-62E538FF11E2",
+        "page": "https://rog.asus.com/us/desktops/mini-pc/rog-nuc-16/",
+        "sourceType": "manufacturer-product-page",
+        "rights": "Official ASUS product-page image (dlcdnwebimgs.asus.com); no general reuse license verified.",
+        "credit": "ASUS",
+        "alt": "ASUS ROG NUC 16 gaming mini PC in black standing upright with illuminated ROG logo, three-quarter view",
+        "match": "EXACT"
+      }
+    },
+    {
+      "sku": "TK-ASUS-NUC-15-PRO-PLUS",
+      "slug": "asus-nuc-15-pro-plus",
+      "name": "ASUS NUC 15 Pro+ Kit",
+      "brand": "ASUS",
+      "category": "mini-pcs",
+      "price": "615.00",
+      "priceBasis": "starting-at",
+      "priceSource": "https://eshop.asus.com/us/asus-nuc-15-pro-plus.html",
+      "priceAsOf": "2026-09-28",
+      "releaseYear": 2025,
+      "summary": "Barebone mini PC kit with Intel Core Ultra 5 225H, Arc graphics, two Thunderbolt 4, Wi-Fi 7 and 2.5G Ethernet.",
+      "description": "The ASUS NUC 15 Pro+ is a 144 x 112 x 41.8 mm mini PC kit that ships without memory, storage or OS, with support for Windows 11, Red Hat Enterprise Linux and Ubuntu 24.04. The base kit uses an Intel Core Ultra 5 225H with Intel Arc graphics; a Core Ultra 7 255H kit is also sold. It takes up to 96GB DDR5 across two SO-DIMMs and has a PCIe 5.0 x4 M.2 slot, two Thunderbolt 4 ports, two HDMI 2.1 outputs, Wi-Fi 7 and 2.5G Ethernet.",
+      "keywords": "nuc 15 pro+ barebone mini pc kit homelab arrow lake",
+      "specs": {
+        "cpu": "Intel Core Ultra 5 225H (cTDP 40W)",
+        "cpuBrand": "Intel",
+        "gpu": "Intel Arc GPU (integrated)",
+        "os": "None (supports Windows 11, RHEL, Ubuntu 24.04)",
+        "networking": "Intel Wi-Fi 7 BE201, Bluetooth 5.4, Intel I226-V 2.5G LAN",
+        "psuW": 120,
+        "ports": "2x Thunderbolt 4, 1x USB 3.2 Gen 2x2 Type-C, 3x USB 3.2 Gen 2 Type-A, 1x USB 2.0, 2x HDMI 2.1"
+      },
+      "variants": [
+        {
+          "label": "Core Ultra 5 225H kit (no RAM/SSD/OS)",
+          "price": "615.00"
+        },
+        {
+          "label": "Core Ultra 7 255H kit (no RAM/SSD/OS)",
+          "price": "720.00"
+        }
+      ],
+      "colors": [
+        "Silver"
+      ],
+      "collections": [
+        "homelab-starter",
+        "developer-setup"
+      ],
+      "featured": false,
+      "sources": {
+        "product": "https://www.asus.com/us/displays-desktops/nucs/nuc-mini-pcs/asus-nuc-15-pro-plus/",
+        "specs": "https://eshop.asus.com/us/asus-nuc-15-pro-plus.html",
+        "retrievedAt": "2026-09-28"
+      },
+      "image": {
+        "url": "https://eshop.asus.com/media/catalog/product/6/8/6819078a3dd074221612cc51d1ecd8df.png",
+        "page": "https://eshop.asus.com/us/90ar00p3-m001b0-asus-nuc-15-pro.html",
+        "sourceType": "manufacturer-product-page",
+        "rights": "Official ASUS eShop (US) product image; ASUS has not granted a general reuse license — rights not verified.",
+        "credit": "ASUS",
+        "alt": "ASUS NUC 15 Pro+ mini PC in silver, front three-quarter view",
+        "match": "PRODUCT_LINE"
+      }
+    },
+    {
+      "sku": "TK-ASUS-ASCENT-GX10",
+      "slug": "asus-ascent-gx10",
+      "name": "ASUS Ascent GX10 Personal AI Supercomputer",
+      "brand": "ASUS",
+      "category": "ai-systems",
+      "price": "5999.00",
+      "priceBasis": "starting-at",
+      "priceSource": "https://eshop.asus.com/us/90ms0371-m000a0-asus-ascent-gx10.html",
+      "priceAsOf": "2026-09-28",
+      "summary": "150 mm desktop AI supercomputer on NVIDIA GB10 Grace Blackwell with 128GB unified memory, 1 PFLOP AI and ConnectX-7 networking.",
+      "description": "The Ascent GX10 is ASUS's NVIDIA GB10-based desktop AI system, combining an Arm v9.2-A CPU with an integrated Blackwell GPU (5th-gen Tensor Cores, up to 1 PFLOP of tensor performance) and 128GB of LPDDR5x unified memory. It measures 150 x 150 x 51 mm, runs a customized Ubuntu-based OS, and includes an NVIDIA ConnectX-7 SmartNIC, 10G Ethernet, Wi-Fi 7 and up to 4TB of M.2 storage. ASUS notes all GX10 sales are final.",
+      "keywords": "ascent gx10 dgx spark gb10 grace blackwell local llm ai supercomputer",
+      "specs": {
+        "formFactor": "Desktop mini (150 x 150 x 51 mm)",
+        "cpu": "Arm v9.2-A CPU (NVIDIA GB10)",
+        "gpus": "NVIDIA Blackwell GPU (GB10, integrated), 5th-gen Tensor Cores",
+        "memoryGb": 128,
+        "aiPerformance": "1 PFLOP tensor performance",
+        "storage": "1TB M.2 NVMe PCIe 4.0 SSD (up to 4TB)",
+        "network": "NVIDIA ConnectX-7 SmartNIC, 10G Ethernet, Wi-Fi 7, Bluetooth 5.4"
+      },
+      "variants": [
+        {
+          "label": "1TB SSD (90MS0371-M000A0)",
+          "price": "5999.00"
+        },
+        {
+          "label": "90MS0371-M000M0 (storage size not stated by ASUS)",
+          "price": "6999.00"
+        }
+      ],
+      "collections": [
+        "ai-lab",
+        "ai-workstations"
+      ],
+      "featured": true,
+      "sources": {
+        "product": "https://www.asus.com/us/networking-iot-servers/desktop-ai-supercomputer/ultra-small-ai-supercomputers/asus-ascent-gx10/",
+        "specs": "https://eshop.asus.com/us/90ms0371-m000a0-asus-ascent-gx10.html",
+        "retrievedAt": "2026-09-28"
+      },
+      "notes": "The 1TB configuration was OutOfStock on the ASUS eShop at research time.",
+      "image": {
+        "url": "https://eshop.asus.com/media/catalog/product/c/c/cc877f350c801b1c8a8a675293ed0735.png",
+        "page": "https://eshop.asus.com/us/90ms0371-m000a0-asus-ascent-gx10.html",
+        "sourceType": "manufacturer-product-page",
+        "rights": "Official ASUS eShop (US) product image; ASUS has not granted a general reuse license — rights not verified.",
+        "credit": "ASUS",
+        "alt": "ASUS Ascent GX10 compact AI supercomputer in Stellar Grey, front three-quarter view",
+        "match": "EXACT"
+      }
+    },
+    {
+      "sku": "TK-ASUS-ESC8000A-E13P",
+      "slug": "asus-esc8000a-e13p",
+      "name": "ASUS ESC8000A-E13P GPU Server",
+      "brand": "ASUS",
+      "category": "rack-servers",
+      "price": "45000.00",
+      "priceBasis": "estimate",
+      "summary": "4U dual AMD EPYC 9005/9004 NVIDIA MGX server for eight dual-slot GPUs such as H200 or RTX PRO 6000 Blackwell Server Edition.",
+      "description": "The ESC8000A-E13P is a 4U NVIDIA MGX-compatible GPU server with dual AMD EPYC 9005/9004 processors (up to 192 Zen 5c cores and 500W per socket), 24 DIMM slots of 12-channel DDR5-6400 and eight 2.5-inch NVMe bays. It accepts eight dual-slot GPUs of up to 600W each, including NVIDIA H200, RTX PRO 6000/4500 Blackwell Server Edition or AMD Instinct MI350P, plus five PCIe 5.0 slots for NICs and DPUs.",
+      "keywords": "esc8000a-e13p gpu server epyc 9005 mgx h200 rtx pro 6000 8 gpu",
+      "specs": {
+        "rackUnits": 4,
+        "cpu": "Dual AMD EPYC 9005/9004 (up to 192 cores per socket, 500W TDP)",
+        "socketCount": 2,
+        "gpus": "Up to 8 dual-slot GPUs (NVIDIA H200, RTX PRO 6000/4500 Blackwell Server Edition, AMD Instinct MI350P), up to 600W each",
+        "driveBays": 8,
+        "network": "Five PCIe 5.0 slots for NICs/DPUs"
+      },
+      "collections": [
+        "enterprise-servers",
+        "ai-lab"
+      ],
+      "featured": false,
+      "sources": {
+        "product": "https://servers.asus.com/products/servers/gpu-servers/ESC8000A-E13P",
+        "specs": "https://servers.asus.com/products/servers/gpu-servers/ESC8000A-E13P",
+        "retrievedAt": "2026-09-28"
+      },
+      "notes": "ASUS sells this server through sales/partners and publishes no price; $45,000 is an estimate for a barebone/entry configuration without GPUs and will vary widely with GPU selection.",
+      "image": {
+        "url": "https://dlcdnwebimgs.asus.com/gain/3c2ab55c-2e31-4225-9fde-0bdcb899c49b",
+        "page": "https://servers.asus.com/products/servers/gpu-servers",
+        "sourceType": "manufacturer-product-page",
+        "rights": "Official ASUS product-page image (dlcdnwebimgs.asus.com); no general reuse license verified.",
+        "credit": "ASUS",
+        "alt": "ASUS ESC8000A-E13P 4U GPU server chassis, front three-quarter view",
+        "match": "EXACT"
+      }
+    },
+    {
+      "sku": "TK-ASUS-ROG-MAXIMUS-Z890-HERO",
+      "slug": "asus-rog-maximus-z890-hero",
+      "name": "ASUS ROG Maximus Z890 Hero",
+      "brand": "ASUS",
+      "category": "motherboards",
+      "price": "449.99",
+      "priceBasis": "msrp",
+      "priceSource": "https://eshop.asus.com/us/90mb1id0-mvaay0-rog-maximus-z890-hero.html",
+      "priceAsOf": "2026-09-28",
+      "releaseYear": 2024,
+      "summary": "LGA1851 Z890 ATX flagship with four DDR5 slots up to 256GB, six M.2 slots, Wi-Fi 7 and 5Gb + 2.5Gb Ethernet.",
+      "description": "The ROG Maximus Z890 Hero is an ATX board for Intel Core Ultra (Series 2) processors on socket LGA1851. It supports up to 256GB of DDR5 across four DIMM slots with speeds up to 9200+ MT/s (OC) and CUDIMM support, up to six M.2 slots plus SlimSAS and four SATA ports, Wi-Fi 7 with 320MHz channels, and Intel 2.5Gb plus Realtek 5Gb Ethernet.",
+      "keywords": "maximus z890 hero lga1851 arrow lake core ultra 200s motherboard",
+      "specs": {
+        "socket": "LGA1851",
+        "chipset": "Intel Z890",
+        "formFactor": "ATX",
+        "memoryType": "DDR5 (CUDIMM supported)",
+        "memorySlots": 4,
+        "maxMemoryGb": 256,
+        "m2Slots": 6,
+        "wifi": "Wi-Fi 7 (2x2, 320MHz), Bluetooth 5.4",
+        "lan": "Intel 2.5Gb + Realtek 5Gb Ethernet"
+      },
+      "collections": [
+        "ultimate-gaming-setup"
+      ],
+      "featured": false,
+      "sources": {
+        "product": "https://rog.asus.com/us/motherboards/rog-maximus/rog-maximus-z890-hero/",
+        "specs": "https://rog.asus.com/us/motherboards/rog-maximus/rog-maximus-z890-hero/spec/",
+        "retrievedAt": "2026-09-28"
+      },
+      "image": {
+        "url": "https://eshop.asus.com/media/catalog/product/c/4/c4c81dcec61ac248f2e61172c760baf2_1.png",
+        "page": "https://eshop.asus.com/us/90mb1id0-mvaay0-rog-maximus-z890-hero.html",
+        "sourceType": "manufacturer-product-page",
+        "rights": "Official ASUS eShop (US) product image; ASUS has not granted a general reuse license — rights not verified.",
+        "credit": "ASUS",
+        "alt": "ASUS ROG Maximus Z890 Hero ATX motherboard, angled view showing heatsinks and DIMM slots",
+        "match": "EXACT"
+      }
+    },
+    {
+      "sku": "TK-ASUS-ROG-MAXIMUS-Z890-APEX",
+      "slug": "asus-rog-maximus-z890-apex",
+      "name": "ASUS ROG Maximus Z890 Apex",
+      "brand": "ASUS",
+      "category": "motherboards",
+      "price": "599.99",
+      "priceBasis": "msrp",
+      "priceSource": "https://eshop.asus.com/us/90mb1ip0-m0aay0-rog-maximus-z890-apex.html",
+      "priceAsOf": "2026-09-28",
+      "releaseYear": 2024,
+      "summary": "Overclocking-focused Z890 board with two DDR5 slots rated to 9600+ MT/s, six M.2 slots, Wi-Fi 7 and 5Gb Ethernet.",
+      "description": "The ROG Maximus Z890 Apex is ASUS's memory-overclocking Z890 board: two DDR5 DIMM slots (up to 128GB) support speeds up to 9600+ MT/s (OC) including CUDIMM. It supports six M.2 slots and four SATA ports, two Thunderbolt 4 ports, 2x2 Wi-Fi 7 with 320MHz channels and Realtek 5Gb Ethernet on an ATX PCB.",
+      "keywords": "maximus z890 apex overclocking ddr5 9600 lga1851",
+      "specs": {
+        "socket": "LGA1851",
+        "chipset": "Intel Z890",
+        "formFactor": "ATX",
+        "memoryType": "DDR5 (CUDIMM supported)",
+        "memorySlots": 2,
+        "maxMemoryGb": 128,
+        "m2Slots": 6,
+        "wifi": "Wi-Fi 7 (2x2, 320MHz), Bluetooth 5.4",
+        "lan": "Realtek 5Gb Ethernet"
+      },
+      "featured": false,
+      "sources": {
+        "product": "https://rog.asus.com/us/motherboards/rog-maximus/rog-maximus-z890-apex/",
+        "specs": "https://eshop.asus.com/us/90mb1ip0-m0aay0-rog-maximus-z890-apex.html",
+        "retrievedAt": "2026-09-28"
+      },
+      "image": {
+        "url": "https://eshop.asus.com/media/catalog/product/c/b/cbc0f8aff686a5fc818d6e6592856a95.png",
+        "page": "https://eshop.asus.com/us/90mb1ip0-m0aay0-rog-maximus-z890-apex.html",
+        "sourceType": "manufacturer-product-page",
+        "rights": "Official ASUS eShop (US) product image; ASUS has not granted a general reuse license — rights not verified.",
+        "credit": "ASUS",
+        "alt": "ASUS ROG Maximus Z890 Apex motherboard, angled view of the overclocking ATX board",
+        "match": "EXACT"
+      }
+    },
+    {
+      "sku": "TK-ASUS-ROG-CROSSHAIR-X870E-DARK-HERO",
+      "slug": "asus-rog-crosshair-x870e-dark-hero",
+      "name": "ASUS ROG Crosshair X870E Dark Hero",
+      "brand": "ASUS",
+      "category": "motherboards",
+      "price": "719.99",
+      "priceBasis": "msrp",
+      "priceSource": "https://eshop.asus.com/us/90mb1nt0-m0vay0-rog-crosshair-x870e-dark-hero.html",
+      "priceAsOf": "2026-09-28",
+      "releaseYear": 2025,
+      "summary": "AM5 X870E ATX flagship with 10Gb + 5Gb Ethernet, Wi-Fi 7, five M.2 slots and DDR5 up to 256GB.",
+      "description": "The ROG Crosshair X870E Dark Hero is an ATX board for AMD Ryzen 9000, 8000 and 7000 desktop processors on socket AM5. It supports up to 256GB of DDR5 across four slots (up to 8600+ MT/s OC with Ryzen 9000), five M.2 slots and four SATA ports, and pairs Realtek 10Gb and 5Gb Ethernet with MediaTek Wi-Fi 7 (320MHz) and Bluetooth 5.4.",
+      "keywords": "crosshair x870e dark hero am5 ryzen 9000 10gbe motherboard",
+      "specs": {
+        "socket": "AM5",
+        "chipset": "AMD X870E",
+        "formFactor": "ATX",
+        "memoryType": "DDR5",
+        "memorySlots": 4,
+        "maxMemoryGb": 256,
+        "m2Slots": 5,
+        "wifi": "Wi-Fi 7 (MediaTek MT7927, 320MHz), Bluetooth 5.4",
+        "lan": "Realtek 10Gb + Realtek 5Gb Ethernet"
+      },
+      "collections": [
+        "ultimate-gaming-setup"
+      ],
+      "featured": false,
+      "sources": {
+        "product": "https://rog.asus.com/us/motherboards/rog-crosshair/rog-crosshair-x870e-dark-hero/",
+        "specs": "https://rog.asus.com/us/motherboards/rog-crosshair/rog-crosshair-x870e-dark-hero/spec/",
+        "retrievedAt": "2026-09-28"
+      },
+      "image": {
+        "url": "https://dlcdnwebimgs.asus.com/gain/32F561D3-87D9-4BC7-92A9-57308DD2681A",
+        "page": "https://rog.asus.com/us/motherboards/rog-crosshair/rog-crosshair-x870e-dark-hero/",
+        "sourceType": "manufacturer-product-page",
+        "rights": "Official ASUS product-page image (dlcdnwebimgs.asus.com); no general reuse license verified.",
+        "credit": "ASUS",
+        "alt": "ASUS ROG Crosshair X870E Dark Hero ATX motherboard with dark heatsinks, angled view",
+        "match": "EXACT"
+      }
+    },
+    {
+      "sku": "TK-ASUS-ROG-STRIX-X870E-E-NEO",
+      "slug": "asus-rog-strix-x870e-e-gaming-wifi7-neo",
+      "name": "ASUS ROG Strix X870E-E Gaming WiFi7 NEO",
+      "brand": "ASUS",
+      "category": "motherboards",
+      "price": "599.99",
+      "priceBasis": "msrp",
+      "priceSource": "https://eshop.asus.com/us/90mb1p20-m0vay0-rog-strix-x870e-e-gaming-wifi7-neo.html",
+      "priceAsOf": "2026-09-28",
+      "releaseYear": 2025,
+      "summary": "AM5 X870E ATX board with four DDR5 slots up to 256GB, five M.2 slots, MediaTek Wi-Fi 7 and 5Gb Ethernet.",
+      "description": "The ROG Strix X870E-E Gaming WiFi7 NEO is an ATX X870E board for AMD Ryzen 9000/8000/7000 processors. It supports up to 256GB DDR5 (up to 8600+ MT/s OC with Ryzen 9000), five M.2 slots with two PCIe 5.0 x4 slots on Ryzen 9000/7000, four SATA ports, Realtek 5Gb Ethernet and MediaTek MT7927 Wi-Fi 7 with 320MHz channels.",
+      "keywords": "strix x870e-e neo am5 wifi 7 ryzen 9000 motherboard",
+      "specs": {
+        "socket": "AM5",
+        "chipset": "AMD X870E",
+        "formFactor": "ATX",
+        "memoryType": "DDR5",
+        "memorySlots": 4,
+        "maxMemoryGb": 256,
+        "m2Slots": 5,
+        "wifi": "Wi-Fi 7 (MediaTek MT7927, 320MHz)",
+        "lan": "Realtek 5Gb Ethernet"
+      },
+      "featured": false,
+      "sources": {
+        "product": "https://rog.asus.com/us/motherboards/rog-strix/rog-strix-x870e-e-gaming-wifi7-neo/",
+        "specs": "https://rog.asus.com/us/motherboards/rog-strix/rog-strix-x870e-e-gaming-wifi7-neo/spec/",
+        "retrievedAt": "2026-09-28"
+      },
+      "notes": "ASUS eShop showed a temporary sale price of $559.99 against a regular price of $599.99 on the research date; the regular price is used.",
+      "image": {
+        "url": "https://dlcdnwebimgs.asus.com/gain/38460501-ED11-4ADB-B4DD-6C9FE5BE2684",
+        "page": "https://rog.asus.com/us/motherboards/rog-strix/rog-strix-x870e-e-gaming-wifi7-neo/",
+        "sourceType": "manufacturer-product-page",
+        "rights": "Official ASUS product-page image (dlcdnwebimgs.asus.com); no general reuse license verified.",
+        "credit": "ASUS",
+        "alt": "ASUS ROG Strix X870E-E Gaming WiFi7 NEO ATX motherboard, angled view",
+        "match": "EXACT"
+      }
+    },
+    {
+      "sku": "TK-ASUS-PROART-Z890-CREATOR-WIFI",
+      "slug": "asus-proart-z890-creator-wifi",
+      "name": "ASUS ProArt Z890-Creator WiFi",
+      "brand": "ASUS",
+      "category": "motherboards",
+      "price": "489.99",
+      "priceBasis": "msrp",
+      "priceSource": "https://eshop.asus.com/us/90mb1jd0-mvaay0-proart-z890-creator-wifi.html",
+      "priceAsOf": "2026-09-28",
+      "releaseYear": 2024,
+      "summary": "Creator-focused LGA1851 Z890 ATX board with 10Gb + 2.5Gb Ethernet, Wi-Fi 7, five M.2 slots and up to 256GB DDR5.",
+      "description": "The ProArt Z890-Creator WiFi targets content-creation builds on Intel Core Ultra (Series 2). It supports up to 256GB DDR5 across four slots (up to 9066+ MT/s OC, CUDIMM supported), five M.2 slots and four SATA ports, Marvell AQtion 10Gb plus Intel 2.5Gb Ethernet, and 2x2 Wi-Fi 7 with 320MHz channels.",
+      "keywords": "proart z890 creator 10gbe lga1851 workstation motherboard",
+      "specs": {
+        "socket": "LGA1851",
+        "chipset": "Intel Z890",
+        "formFactor": "ATX",
+        "memoryType": "DDR5 (CUDIMM supported)",
+        "memorySlots": 4,
+        "maxMemoryGb": 256,
+        "m2Slots": 5,
+        "wifi": "Wi-Fi 7 (2x2, 320MHz), Bluetooth 5.4",
+        "lan": "Marvell AQtion 10Gb + Intel 2.5Gb Ethernet"
+      },
+      "collections": [
+        "creator-workstations"
+      ],
+      "featured": false,
+      "sources": {
+        "product": "https://www.asus.com/us/motherboards-components/motherboards/proart/proart-z890-creator-wifi/",
+        "specs": "https://www.asus.com/us/motherboards-components/motherboards/proart/proart-z890-creator-wifi/techspec/",
+        "retrievedAt": "2026-09-28"
+      },
+      "image": {
+        "url": "https://eshop.asus.com/media/catalog/product/5/-/5-proart-z890-creator-wifi_3d.png",
+        "page": "https://eshop.asus.com/us/90mb1jd0-mvaay0-proart-z890-creator-wifi.html",
+        "sourceType": "manufacturer-product-page",
+        "rights": "Official ASUS eShop (US) product image; ASUS has not granted a general reuse license — rights not verified.",
+        "credit": "ASUS",
+        "alt": "ASUS ProArt Z890-Creator WiFi ATX motherboard in black and gold, angled three-quarter view",
+        "match": "EXACT"
+      }
+    },
+    {
+      "sku": "TK-ASUS-TUF-GAMING-X870-PLUS-WIFI",
+      "slug": "asus-tuf-gaming-x870-plus-wifi",
+      "name": "ASUS TUF Gaming X870-Plus WiFi",
+      "brand": "ASUS",
+      "category": "motherboards",
+      "price": "249.99",
+      "priceBasis": "msrp",
+      "priceSource": "https://eshop.asus.com/us/90mb1iu0-m0aay0-tuf-gaming-x870-plus-wifi.html",
+      "priceAsOf": "2026-09-28",
+      "releaseYear": 2024,
+      "summary": "Value AM5 X870 ATX board with two PCIe 5.0 M.2 slots, four DDR5 slots up to 256GB, USB4, Wi-Fi 7 and 2.5Gb Ethernet.",
+      "description": "The TUF Gaming X870-Plus WiFi is an ATX board for AMD Ryzen 9000/8000/7000 processors. It supports up to 256GB DDR5 (8000+ MT/s OC), four M.2 slots (two PCIe 5.0 x4 with Ryzen 9000/7000) and two SATA ports, two USB4 40Gbps ports, Wi-Fi 7 (160MHz) and Realtek 2.5Gb Ethernet.",
+      "keywords": "tuf x870 plus wifi am5 budget motherboard usb4",
+      "specs": {
+        "socket": "AM5",
+        "chipset": "AMD X870",
+        "formFactor": "ATX",
+        "memoryType": "DDR5 (ECC and non-ECC UDIMM)",
+        "memorySlots": 4,
+        "maxMemoryGb": 256,
+        "m2Slots": 4,
+        "wifi": "Wi-Fi 7 (2x2, 160MHz), Bluetooth 5.4",
+        "lan": "Realtek 2.5Gb Ethernet"
+      },
+      "featured": false,
+      "sources": {
+        "product": "https://www.asus.com/us/motherboards-components/motherboards/tuf-gaming/tuf-gaming-x870-plus-wifi/",
+        "specs": "https://eshop.asus.com/us/90mb1iu0-m0aay0-tuf-gaming-x870-plus-wifi.html",
+        "retrievedAt": "2026-09-28"
+      },
+      "image": {
+        "url": "https://dlcdnwebimgs.asus.com/gain/64c122cf-1bab-4bac-aa97-591e1573dd29",
+        "page": "https://www.asus.com/us/motherboards-components/motherboards/tuf-gaming/tuf-gaming-x870-plus-wifi/",
+        "sourceType": "manufacturer-product-page",
+        "rights": "Official ASUS product-page image (dlcdnwebimgs.asus.com); no general reuse license verified.",
+        "credit": "ASUS",
+        "alt": "ASUS TUF Gaming X870-Plus WiFi ATX motherboard, angled view",
+        "match": "EXACT"
+      }
+    },
+    {
+      "sku": "TK-ASUS-ROG-ASTRAL-RTX5090-ED20",
+      "slug": "asus-rog-astral-rtx5090-edition-20",
+      "name": "ASUS ROG Astral GeForce RTX 5090 32GB Edition 20",
+      "brand": "ASUS",
+      "category": "gpus",
+      "price": "5999.99",
+      "priceBasis": "msrp",
+      "priceSource": "https://eshop.asus.com/us/90yv0nf3-mvaa00-rog-astral-rtx5090-p32g-edition-20.html",
+      "priceAsOf": "2026-09-28",
+      "releaseYear": 2026,
+      "summary": "ROG 20th-anniversary RTX 5090 with 32GB GDDR7, 2760 MHz OC boost, detachable AMOLED display and BTF high-power connector.",
+      "description": "The ROG Astral RTX 5090 Edition 20 is a collector's version of ASUS's flagship card with 21,760 CUDA cores, 32GB of 28Gbps GDDR7 on a 512-bit bus and a 2760 MHz OC-mode boost clock. It adds a detachable AMOLED display, a detachable glass backplate and support for the GC-HPWR gold-finger power connector; the 4.7-slot card measures 361 mm and ASUS recommends a 1200W+ PSU.",
+      "keywords": "rog astral rtx 5090 edition 20 anniversary 32gb flagship gpu",
+      "specs": {
+        "chipset": "NVIDIA GeForce RTX 5090",
+        "architecture": "NVIDIA Blackwell",
+        "vramGb": 32,
+        "memoryType": "GDDR7",
+        "interface": "PCI Express 5.0",
+        "recommendedPsuW": 1200,
+        "lengthMm": 361,
+        "slots": 4.7
+      },
+      "collections": [
+        "dream-gpus",
+        "dream-gaming"
+      ],
+      "featured": true,
+      "sources": {
+        "product": "https://rog.asus.com/us/graphics-cards/graphics-cards/rog-astral/rog-astral-rtx5090-p32g-edition-20/",
+        "specs": "https://eshop.asus.com/us/90yv0nf3-mvaa00-rog-astral-rtx5090-p32g-edition-20.html",
+        "retrievedAt": "2026-09-28"
+      },
+      "image": {
+        "url": "https://dlcdnwebimgs.asus.com/gain/E319A9C4-7E48-444B-9406-3BAF3EA17917/w2000/h1470",
+        "page": "https://rog.asus.com/us/graphics-cards/graphics-cards/rog-astral/rog-astral-rtx5090-p32g-edition-20/",
+        "sourceType": "manufacturer-product-page",
+        "rights": "Official ASUS product-page image (dlcdnwebimgs.asus.com); no general reuse license verified.",
+        "credit": "ASUS",
+        "alt": "ASUS ROG Astral GeForce RTX 5090 Edition 20 graphics card in black and gold, angled view of the triple-fan shroud",
+        "match": "EXACT"
+      }
+    },
+    {
+      "sku": "TK-ASUS-ROG-ASTRAL-RTX5080-WHITE",
+      "slug": "asus-rog-astral-rtx5080-o16g-white",
+      "name": "ASUS ROG Astral GeForce RTX 5080 16GB OC White",
+      "brand": "ASUS",
+      "category": "gpus",
+      "price": "2149.99",
+      "priceBasis": "msrp",
+      "priceSource": "https://eshop.asus.com/us/90yv0lv4-mvaa00-rog-astral-rtx5080-o16g-white.html",
+      "priceAsOf": "2026-09-28",
+      "releaseYear": 2025,
+      "summary": "White ROG Astral RTX 5080 with 16GB GDDR7, 2790 MHz OC boost, quad-fan 3.8-slot cooler and ARGB lighting.",
+      "description": "The ROG Astral RTX 5080 OC White Edition has 10,752 CUDA cores and 16GB of 30Gbps GDDR7 on a 256-bit bus, with a 2790 MHz OC-mode boost clock. The 3.8-slot, 357.6 mm card uses a single 16-pin connector, provides two HDMI 2.1b and three DisplayPort 2.1b outputs, and ASUS recommends an 850W PSU.",
+      "keywords": "rog astral rtx 5080 white edition gpu",
+      "specs": {
+        "chipset": "NVIDIA GeForce RTX 5080",
+        "architecture": "NVIDIA Blackwell",
+        "vramGb": 16,
+        "memoryType": "GDDR7",
+        "interface": "PCI Express 5.0",
+        "recommendedPsuW": 850,
+        "lengthMm": 357.6,
+        "slots": 3.8
+      },
+      "collections": [
+        "dream-gpus"
+      ],
+      "featured": false,
+      "sources": {
+        "product": "https://rog.asus.com/us/graphics-cards/graphics-cards/rog-astral/rog-astral-rtx5080-o16g-white/",
+        "specs": "https://eshop.asus.com/us/90yv0lv4-mvaa00-rog-astral-rtx5080-o16g-white.html",
+        "retrievedAt": "2026-09-28"
+      },
+      "image": {
+        "url": "https://dlcdnwebimgs.asus.com/gain/1E0D88BB-FAB4-45D6-BF27-167E6114ED7E/w2000/h1470",
+        "page": "https://rog.asus.com/us/graphics-cards/graphics-cards/rog-astral/rog-astral-rtx5080-o16g-white/",
+        "sourceType": "manufacturer-product-page",
+        "rights": "Official ASUS product-page image (dlcdnwebimgs.asus.com); no general reuse license verified.",
+        "credit": "ASUS",
+        "alt": "ASUS ROG Astral GeForce RTX 5080 White graphics card, angled view of the white triple-fan cooler with ARGB ring",
+        "match": "EXACT"
+      }
+    },
+    {
+      "sku": "TK-ASUS-TUF-RTX5080-O16G",
+      "slug": "asus-tuf-gaming-rtx5080-o16g",
+      "name": "ASUS TUF Gaming GeForce RTX 5080 16GB OC Edition",
+      "brand": "ASUS",
+      "category": "gpus",
+      "price": "1899.99",
+      "priceBasis": "msrp",
+      "priceSource": "https://eshop.asus.com/us/90yv0m30-mvaa00-asus-tuf-gaming-geforce-rtxtm-5080-16gb-gddr7-oc-edition.html",
+      "priceAsOf": "2026-09-28",
+      "releaseYear": 2025,
+      "summary": "TUF Gaming RTX 5080 with 16GB GDDR7, 2730 MHz OC boost, 3.6-slot triple-fan cooler and 850W PSU recommendation.",
+      "description": "The TUF Gaming RTX 5080 OC Edition has 10,752 CUDA cores, 16GB of 30Gbps GDDR7 and a 2730 MHz OC-mode boost clock. The 348 mm, 3.6-slot card uses one 16-pin connector and provides two HDMI 2.1b and three DisplayPort 2.1b outputs.",
+      "keywords": "tuf rtx 5080 oc gpu",
+      "specs": {
+        "chipset": "NVIDIA GeForce RTX 5080",
+        "architecture": "NVIDIA Blackwell",
+        "vramGb": 16,
+        "memoryType": "GDDR7",
+        "interface": "PCI Express 5.0",
+        "recommendedPsuW": 850,
+        "lengthMm": 348,
+        "slots": 3.6
+      },
+      "featured": false,
+      "sources": {
+        "product": "https://www.asus.com/us/motherboards-components/graphics-cards/tuf-gaming/tuf-rtx5080-o16g-gaming/",
+        "specs": "https://eshop.asus.com/us/90yv0m30-mvaa00-asus-tuf-gaming-geforce-rtxtm-5080-16gb-gddr7-oc-edition.html",
+        "retrievedAt": "2026-09-28"
+      },
+      "image": {
+        "url": "https://dlcdnwebimgs.asus.com/gain/844c1ce7-da33-4dd0-9c84-6c6a12e5d9bf",
+        "page": "https://www.asus.com/us/motherboards-components/graphics-cards/tuf-gaming/tuf-rtx5080-o16g-gaming/",
+        "sourceType": "manufacturer-product-page",
+        "rights": "Official ASUS product-page image (dlcdnwebimgs.asus.com); no general reuse license verified.",
+        "credit": "ASUS",
+        "alt": "ASUS TUF Gaming GeForce RTX 5080 OC graphics card, angled view of the triple-fan cooler",
+        "match": "EXACT"
+      }
+    },
+    {
+      "sku": "TK-ASUS-PROART-RTX5080-O16G",
+      "slug": "asus-proart-rtx5080-o16g",
+      "name": "ASUS ProArt GeForce RTX 5080 16GB OC Edition",
+      "brand": "ASUS",
+      "category": "gpus",
+      "price": "1899.99",
+      "priceBasis": "msrp",
+      "priceSource": "https://eshop.asus.com/us/90yv0n30-mvaa00-proart-geforce-rtxtm-5080-16gb-gddr7-oc-edition.html",
+      "priceAsOf": "2026-09-28",
+      "releaseYear": 2025,
+      "summary": "SFF-ready 2.5-slot RTX 5080 for creators with 16GB GDDR7, USB-C output and 304 mm length.",
+      "description": "The ProArt RTX 5080 OC Edition fits the full RTX 5080 (10,752 CUDA cores, 16GB 30Gbps GDDR7, 2730 MHz OC boost) into a 2.5-slot, 304 mm SFF-Ready design. It provides one HDMI 2.1b, two DisplayPort 2.1b and one USB Type-C output, uses a single 16-pin connector and ASUS recommends an 850W PSU.",
+      "keywords": "proart rtx 5080 sff creator gpu usb-c",
+      "specs": {
+        "chipset": "NVIDIA GeForce RTX 5080",
+        "architecture": "NVIDIA Blackwell",
+        "vramGb": 16,
+        "memoryType": "GDDR7",
+        "interface": "PCI Express 5.0",
+        "recommendedPsuW": 850,
+        "lengthMm": 304,
+        "slots": 2.5
+      },
+      "collections": [
+        "creator-workstations"
+      ],
+      "featured": false,
+      "sources": {
+        "product": "https://www.asus.com/us/motherboards-components/graphics-cards/proart/proart-rtx5080-o16g/",
+        "specs": "https://eshop.asus.com/us/90yv0n30-mvaa00-proart-geforce-rtxtm-5080-16gb-gddr7-oc-edition.html",
+        "retrievedAt": "2026-09-28"
+      },
+      "image": {
+        "url": "https://dlcdnwebimgs.asus.com/gain/09b7b85a-d86d-4116-aa6e-75ec67adf28e",
+        "page": "https://www.asus.com/us/motherboards-components/graphics-cards/proart/proart-rtx5080-o16g/",
+        "sourceType": "manufacturer-product-page",
+        "rights": "Official ASUS product-page image (dlcdnwebimgs.asus.com); no general reuse license verified.",
+        "credit": "ASUS",
+        "alt": "ASUS ProArt GeForce RTX 5080 OC graphics card in black with bronze fan hubs, straight-on fan-side view",
+        "match": "EXACT"
+      }
+    },
+    {
+      "sku": "TK-ASUS-PRIME-RTX5070TI-O16G",
+      "slug": "asus-prime-rtx5070ti-o16g",
+      "name": "ASUS Prime GeForce RTX 5070 Ti 16GB OC Edition",
+      "brand": "ASUS",
+      "category": "gpus",
+      "price": "1229.99",
+      "priceBasis": "msrp",
+      "priceSource": "https://eshop.asus.com/us/90yv0mf0-mvaa00-asus-prime-geforce-rtxtm-5070-ti-16gb-gddr7-oc-edition.html",
+      "priceAsOf": "2026-09-28",
+      "releaseYear": 2025,
+      "summary": "SFF-ready 2.5-slot RTX 5070 Ti with 16GB GDDR7, 2527 MHz OC boost and 750W PSU recommendation.",
+      "description": "The Prime RTX 5070 Ti OC Edition has 8,960 CUDA cores, 16GB of 28Gbps GDDR7 on a 256-bit bus and a 2527 MHz OC-mode boost. Its 304 mm, 2.5-slot triple-fan design is SFF-Ready, with one HDMI 2.1b and three DisplayPort 2.1b outputs and one 16-pin power connector.",
+      "keywords": "prime rtx 5070 ti sff gpu 16gb",
+      "specs": {
+        "chipset": "NVIDIA GeForce RTX 5070 Ti",
+        "architecture": "NVIDIA Blackwell",
+        "vramGb": 16,
+        "memoryType": "GDDR7",
+        "interface": "PCI Express 5.0",
+        "recommendedPsuW": 750,
+        "lengthMm": 304,
+        "slots": 2.5
+      },
+      "featured": false,
+      "sources": {
+        "product": "https://www.asus.com/us/motherboards-components/graphics-cards/prime/prime-rtx5070ti-o16g/",
+        "specs": "https://eshop.asus.com/us/90yv0mf0-mvaa00-asus-prime-geforce-rtxtm-5070-ti-16gb-gddr7-oc-edition.html",
+        "retrievedAt": "2026-09-28"
+      },
+      "image": {
+        "url": "https://dlcdnwebimgs.asus.com/gain/1eca5412-6d8c-405d-8bfb-3770f202d4dd",
+        "page": "https://www.asus.com/us/motherboards-components/graphics-cards/prime/prime-rtx5070ti-o16g/",
+        "sourceType": "manufacturer-product-page",
+        "rights": "Official ASUS product-page image (dlcdnwebimgs.asus.com); no general reuse license verified.",
+        "credit": "ASUS",
+        "alt": "ASUS Prime GeForce RTX 5070 Ti OC graphics card, angled view of the triple-fan shroud",
+        "match": "EXACT"
+      }
+    },
+    {
+      "sku": "TK-ASUS-TUF-RTX5070-O12G",
+      "slug": "asus-tuf-gaming-rtx5070-o12g",
+      "name": "ASUS TUF Gaming GeForce RTX 5070 12GB OC Edition",
+      "brand": "ASUS",
+      "category": "gpus",
+      "price": "949.99",
+      "priceBasis": "msrp",
+      "priceSource": "https://eshop.asus.com/us/90yv0lz0-mvaa00-asus-tuf-gaming-geforce-rtxtm-5070-12gb-gddr7-oc-edition.html",
+      "priceAsOf": "2026-09-28",
+      "releaseYear": 2025,
+      "summary": "TUF Gaming RTX 5070 with 12GB GDDR7, 2640 MHz OC boost and a 3.125-slot triple-fan cooler.",
+      "description": "The TUF Gaming RTX 5070 OC Edition has 6,144 CUDA cores, 12GB of 28Gbps GDDR7 on a 192-bit bus and a 2640 MHz OC-mode boost clock. The 329 mm, 3.125-slot card offers two HDMI 2.1b and three DisplayPort 2.1b outputs and ASUS recommends a 750W PSU.",
+      "keywords": "tuf rtx 5070 12gb gpu",
+      "specs": {
+        "chipset": "NVIDIA GeForce RTX 5070",
+        "architecture": "NVIDIA Blackwell",
+        "vramGb": 12,
+        "memoryType": "GDDR7",
+        "interface": "PCI Express 5.0",
+        "recommendedPsuW": 750,
+        "lengthMm": 329,
+        "slots": 3.125
+      },
+      "featured": false,
+      "sources": {
+        "product": "https://www.asus.com/us/motherboards-components/graphics-cards/tuf-gaming/tuf-rtx5070-o12g-gaming/",
+        "specs": "https://eshop.asus.com/us/90yv0lz0-mvaa00-asus-tuf-gaming-geforce-rtxtm-5070-12gb-gddr7-oc-edition.html",
+        "retrievedAt": "2026-09-28"
+      },
+      "image": {
+        "url": "https://dlcdnwebimgs.asus.com/gain/e7c76362-0568-4f09-9123-e0b577b386ee",
+        "page": "https://www.asus.com/us/motherboards-components/graphics-cards/tuf-gaming/tuf-rtx5070-o12g-gaming/",
+        "sourceType": "manufacturer-product-page",
+        "rights": "Official ASUS product-page image (dlcdnwebimgs.asus.com); no general reuse license verified.",
+        "credit": "ASUS",
+        "alt": "ASUS TUF Gaming GeForce RTX 5070 OC graphics card, angled view of the triple-fan cooler",
+        "match": "EXACT"
+      }
+    },
+    {
+      "sku": "TK-ASUS-PRIME-RX9070XT-O16G",
+      "slug": "asus-prime-rx9070xt-o16g",
+      "name": "ASUS Prime Radeon RX 9070 XT 16GB OC Edition",
+      "brand": "ASUS",
+      "category": "gpus",
+      "price": "829.99",
+      "priceBasis": "msrp",
+      "priceSource": "https://eshop.asus.com/us/90yv0l71-mvaa00-asus-prime-radeontm-rx-9070-xt-oc-edition-16gb-gddr6.html",
+      "priceAsOf": "2026-09-28",
+      "releaseYear": 2025,
+      "summary": "2.5-slot Radeon RX 9070 XT with 16GB GDDR6, up to 3030 MHz OC boost and three 8-pin power connectors.",
+      "description": "The Prime Radeon RX 9070 XT OC Edition has 4,096 stream processors and 16GB of 20Gbps GDDR6 on a 256-bit bus, with up to 3030 MHz boost in GPU Tweak III OC mode. The 312 mm, 2.5-slot card uses three 8-pin connectors, offers one HDMI 2.1b and three DisplayPort 2.1a outputs, and ASUS recommends a 750W PSU.",
+      "keywords": "prime rx 9070 xt radeon rdna 4 gpu",
+      "specs": {
+        "chipset": "AMD Radeon RX 9070 XT",
+        "architecture": "AMD RDNA 4",
+        "vramGb": 16,
+        "memoryType": "GDDR6",
+        "interface": "PCI Express 5.0",
+        "recommendedPsuW": 750,
+        "lengthMm": 312,
+        "slots": 2.5
+      },
+      "featured": false,
+      "sources": {
+        "product": "https://www.asus.com/us/motherboards-components/graphics-cards/prime/prime-rx9070xt-o16g/",
+        "specs": "https://eshop.asus.com/us/90yv0l71-mvaa00-asus-prime-radeontm-rx-9070-xt-oc-edition-16gb-gddr6.html",
+        "retrievedAt": "2026-09-28"
+      },
+      "image": {
+        "url": "https://eshop.asus.com/media/catalog/product/5/4/5466308a69ea782b06dd7f049f37a19a_1.png",
+        "page": "https://eshop.asus.com/us/90yv0l71-mvaa00-asus-prime-radeontm-rx-9070-xt-oc-edition-16gb-gddr6.html",
+        "sourceType": "manufacturer-product-page",
+        "rights": "Official ASUS eShop (US) product image; ASUS has not granted a general reuse license — rights not verified.",
+        "credit": "ASUS",
+        "alt": "ASUS Prime Radeon RX 9070 XT OC graphics card, angled view of the triple-fan shroud",
+        "match": "EXACT"
+      }
+    },
+    {
+      "sku": "TK-ASUS-ROG-SWIFT-PG32UCDM3",
+      "slug": "asus-rog-swift-oled-pg32ucdm3",
+      "name": "ASUS ROG Swift OLED PG32UCDM Gen3 (PG32UCDM3)",
+      "brand": "ASUS",
+      "category": "gaming-monitors",
+      "price": "1299.00",
+      "priceBasis": "msrp",
+      "priceSource": "https://eshop.asus.com/us/90lm0cl0-b019b2-rog-swift-oled-pg32ucdm-gen3-pg32ucdm3.html",
+      "priceAsOf": "2026-09-28",
+      "releaseYear": 2026,
+      "summary": "32-inch 4K 240Hz Tandem QD-OLED gaming monitor with DisplayHDR 500 True Black, DisplayPort 2.1 and 90W USB-C.",
+      "description": "The third-generation PG32UCDM uses a 31.5-inch 4K (3840x2160) Tandem QD-OLED panel at 240Hz with ASUS's BlackShield film, Dolby Vision support, VESA DisplayHDR 500 True Black and 99% DCI-P3. Inputs include DisplayPort 2.1, two HDMI 2.1 (FRL) and USB-C with 90W power delivery, and ASUS's warranty covers panel burn-in for three years. The ASUS Store listed it as a pre-order.",
+      "keywords": "pg32ucdm3 gen3 4k 240hz qd-oled 32 inch gaming monitor",
+      "specs": {
+        "sizeIn": 31.5,
+        "resolution": "3840x2160",
+        "refreshHz": 240,
+        "panel": "Tandem QD-OLED",
+        "hdr": "VESA DisplayHDR 500 True Black, Dolby Vision",
+        "colorGamut": "99% DCI-P3",
+        "inputs": "1x DisplayPort 2.1, 2x HDMI 2.1 (FRL), 1x USB-C (DP Alt Mode), 3x USB-A hub",
+        "usbCPowerW": 90
+      },
+      "collections": [
+        "oled-displays",
+        "ultimate-gaming-setup"
+      ],
+      "featured": true,
+      "warranty": 36,
+      "sources": {
+        "product": "https://rog.asus.com/us/monitors/27-to-31-5-inches/rog-swift-oled-pg32ucdm-gen3-pg32ucdm3/",
+        "specs": "https://eshop.asus.com/us/90lm0cl0-b019b2-rog-swift-oled-pg32ucdm-gen3-pg32ucdm3.html",
+        "retrievedAt": "2026-09-28"
+      },
+      "notes": "Listed as PreOrder on the ASUS eShop at research time.",
+      "image": {
+        "url": "https://dlcdnwebimgs.asus.com/gain/851B28C4-FEDF-4AE6-BDEC-20CF40A64900",
+        "page": "https://rog.asus.com/us/monitors/27-to-31-5-inches/rog-swift-oled-pg32ucdm-gen3-pg32ucdm3/",
+        "sourceType": "manufacturer-product-page",
+        "rights": "Official ASUS product-page image (dlcdnwebimgs.asus.com); no general reuse license verified.",
+        "credit": "ASUS",
+        "alt": "ASUS ROG Swift OLED PG32UCDM3 32-inch gaming monitor on its stand, front view",
+        "match": "EXACT"
+      }
+    },
+    {
+      "sku": "TK-ASUS-ROG-SWIFT-PG27UCDM",
+      "slug": "asus-rog-swift-oled-pg27ucdm",
+      "name": "ASUS ROG Swift OLED PG27UCDM",
+      "brand": "ASUS",
+      "category": "gaming-monitors",
+      "price": "1099.00",
+      "priceBasis": "msrp",
+      "priceSource": "https://eshop.asus.com/us/90lm0b30-b019b2-rog-swift-oled-pg27ucdm.html",
+      "priceAsOf": "2026-09-28",
+      "releaseYear": 2025,
+      "summary": "26.5-inch 4K 240Hz 4th-gen Tandem QD-OLED gaming monitor with DisplayPort 2.1, 90W USB-C and 3-year burn-in warranty.",
+      "description": "The PG27UCDM is a 26.5-inch 4K (3840x2160) gaming monitor using a fourth-generation Tandem QD-OLED panel at 240Hz. It is VESA DisplayHDR 400 True Black certified with Dolby Vision support and 145% sRGB, supports FreeSync Premium Pro and G-SYNC Compatible, and offers DisplayPort 2.1, two HDMI 2.1 and 90W USB-C.",
+      "keywords": "pg27ucdm 27 inch 4k 240hz qd-oled",
+      "specs": {
+        "sizeIn": 26.5,
+        "resolution": "3840x2160",
+        "refreshHz": 240,
+        "panel": "Tandem QD-OLED (4th gen)",
+        "hdr": "VESA DisplayHDR 400 True Black, Dolby Vision",
+        "colorGamut": "145% sRGB",
+        "inputs": "1x DisplayPort 2.1, 2x HDMI 2.1 (FRL), 1x USB-C (DP Alt Mode), 3x USB-A hub",
+        "usbCPowerW": 90
+      },
+      "collections": [
+        "oled-displays"
+      ],
+      "featured": false,
+      "warranty": 36,
+      "sources": {
+        "product": "https://rog.asus.com/us/monitors/27-to-31-5-inches/rog-swift-oled-pg27ucdm/",
+        "specs": "https://eshop.asus.com/us/90lm0b30-b019b2-rog-swift-oled-pg27ucdm.html",
+        "retrievedAt": "2026-09-28"
+      },
+      "image": {
+        "url": "https://dlcdnwebimgs.asus.com/gain/D26349C3-97F2-4A59-8087-E09882C0D455/w2000/h1470",
+        "page": "https://rog.asus.com/us/monitors/27-to-31-5-inches/rog-swift-oled-pg27ucdm/",
+        "sourceType": "manufacturer-product-page",
+        "rights": "Official ASUS product-page image (dlcdnwebimgs.asus.com); no general reuse license verified.",
+        "credit": "ASUS",
+        "alt": "ASUS ROG Swift OLED PG27UCDM 27-inch 4K gaming monitor on its stand, front view",
+        "match": "EXACT"
+      }
+    },
+    {
+      "sku": "TK-ASUS-ROG-SWIFT-PG32UCWM",
+      "slug": "asus-rog-swift-oled-pg32ucwm",
+      "name": "ASUS ROG Swift OLED PG32UCWM",
+      "brand": "ASUS",
+      "category": "gaming-monitors",
+      "price": "1399.00",
+      "priceBasis": "msrp",
+      "priceSource": "https://eshop.asus.com/us/90lm0dn0-b019b1-rog-swift-oled-pg32ucwm.html",
+      "priceAsOf": "2026-09-28",
+      "releaseYear": 2026,
+      "summary": "32-inch dual-mode WOLED monitor: 4K at 240Hz or 1080p at 480Hz, TrueBlack Glossy surface and 90W USB-C.",
+      "description": "The PG32UCWM uses a 31.5-inch 4K WOLED panel with a TrueBlack Glossy surface and Dual Mode, switching between 4K 240Hz and 1080p 480Hz. It carries VESA DisplayHDR 400 True Black and Dolby Vision support, with two HDMI 2.1 (48Gbps) inputs, USB-C with 90W power delivery and a three-port USB hub. The ASUS Store listed it as a pre-order.",
+      "keywords": "pg32ucwm woled dual mode 480hz 4k glossy",
+      "specs": {
+        "sizeIn": 31.5,
+        "resolution": "3840x2160",
+        "refreshHz": 240,
+        "panel": "WOLED (TrueBlack Glossy)",
+        "hdr": "VESA DisplayHDR 400 True Black, Dolby Vision",
+        "inputs": "2x HDMI 2.1 (FRL, 48Gbps), 1x USB-C (DP Alt Mode), 3x USB-A hub",
+        "usbCPowerW": 90,
+        "configurations": "Dual Mode: 4K 240Hz / 1080p 480Hz"
+      },
+      "collections": [
+        "oled-displays"
+      ],
+      "featured": false,
+      "warranty": 36,
+      "sources": {
+        "product": "https://rog.asus.com/us/monitors/27-to-31-5-inches/rog-swift-oled-pg32ucwm/",
+        "specs": "https://eshop.asus.com/us/90lm0dn0-b019b1-rog-swift-oled-pg32ucwm.html",
+        "retrievedAt": "2026-09-28"
+      },
+      "notes": "Listed as PreOrder on the ASUS eShop at research time.",
+      "image": {
+        "url": "https://dlcdnwebimgs.asus.com/gain/1838F10E-2750-4042-87BF-209B3C3EB3EB",
+        "page": "https://rog.asus.com/us/monitors/27-to-31-5-inches/rog-swift-oled-pg32ucwm/",
+        "sourceType": "manufacturer-product-page",
+        "rights": "Official ASUS product-page image (dlcdnwebimgs.asus.com); no general reuse license verified.",
+        "credit": "ASUS",
+        "alt": "ASUS ROG Swift OLED PG32UCWM 32-inch WOLED gaming monitor on its stand, front view",
+        "match": "EXACT"
+      }
+    },
+    {
+      "sku": "TK-ASUS-ROG-STRIX-XG34WCDG",
+      "slug": "asus-rog-strix-oled-xg34wcdg",
+      "name": "ASUS ROG Strix OLED XG34WCDG",
+      "brand": "ASUS",
+      "category": "ultrawide-monitors",
+      "price": "749.00",
+      "priceBasis": "msrp",
+      "priceSource": "https://eshop.asus.com/us/90lm0b70-b011c1-rog-strix-oled-xg34wcdg.html",
+      "priceAsOf": "2026-09-28",
+      "releaseYear": 2025,
+      "summary": "34-inch 1800R curved 3440x1440 QD-OLED ultrawide gaming monitor at 175Hz with DisplayHDR 400 True Black.",
+      "description": "The ROG Strix OLED XG34WCDG is a 34-inch 1800R curved ultrawide with a 3440x1440 QD-OLED panel running at 175Hz. It covers 99.3% DCI-P3, is VESA DisplayHDR 400 True Black certified and G-SYNC Compatible, and has DisplayPort 1.4 DSC, two HDMI 2.1 and USB-C inputs.",
+      "keywords": "xg34wcdg 34 inch ultrawide qd-oled 175hz curved",
+      "specs": {
+        "sizeIn": 34,
+        "resolution": "3440x1440",
+        "refreshHz": 175,
+        "panel": "QD-OLED, 1800R curved",
+        "hdr": "VESA DisplayHDR 400 True Black",
+        "colorGamut": "99.3% DCI-P3",
+        "inputs": "1x DisplayPort 1.4 DSC, 2x HDMI 2.1 (FRL), 1x USB-C (DP Alt Mode), USB hub",
+        "usbCPowerW": 15
+      },
+      "collections": [
+        "oled-displays"
+      ],
+      "featured": false,
+      "warranty": 36,
+      "sources": {
+        "product": "https://rog.asus.com/us/monitors/32-to-34-inches/rog-strix-oled-xg34wcdg/",
+        "specs": "https://eshop.asus.com/us/90lm0b70-b011c1-rog-strix-oled-xg34wcdg.html",
+        "retrievedAt": "2026-09-28"
+      },
+      "image": {
+        "url": "https://dlcdnwebimgs.asus.com/gain/251BB234-6102-472E-AFB5-927152237C7C",
+        "page": "https://rog.asus.com/us/monitors/32-to-34-inches/rog-strix-oled-xg34wcdg/",
+        "sourceType": "manufacturer-product-page",
+        "rights": "Official ASUS product-page image (dlcdnwebimgs.asus.com); no general reuse license verified.",
+        "credit": "ASUS",
+        "alt": "ASUS ROG Strix OLED XG34WCDG 34-inch curved ultrawide monitor, front view",
+        "match": "EXACT"
+      }
+    },
+    {
+      "sku": "TK-ASUS-PROART-PA27JCV",
+      "slug": "asus-proart-display-pa27jcv",
+      "name": "ASUS ProArt Display 5K PA27JCV",
+      "brand": "ASUS",
+      "category": "professional-monitors",
+      "price": "699.00",
+      "priceBasis": "msrp",
+      "priceSource": "https://eshop.asus.com/us/90lm0al1-b01kb2-proart-display-pa27jcv.html",
+      "priceAsOf": "2026-09-28",
+      "summary": "27-inch 5K (5120x2880) 218 ppi IPS professional monitor with 99% DCI-P3, 96W USB-C and factory calibration report.",
+      "description": "The ProArt Display PA27JCV is a 27-inch 5K (5120x2880, 218 ppi) IPS monitor with an anti-glare low-reflection surface, 99% DCI-P3, 95% Adobe RGB and 10-bit color. It supports HDR10 with 500-nit peak brightness, offers USB-C with 96W power delivery, DisplayPort 1.4 and HDMI 2.1 inputs, a KVM switch and a fully adjustable stand, and ships with a color pre-calibration report.",
+      "keywords": "proart pa27jcv 5k monitor mac studio display alternative usb-c 96w",
+      "specs": {
+        "sizeIn": 27,
+        "resolution": "5120x2880",
+        "refreshHz": 60,
+        "panel": "IPS (AGLR)",
+        "hdr": "HDR10, 500 nits peak",
+        "colorGamut": "99% DCI-P3, 95% Adobe RGB, 100% sRGB",
+        "inputs": "1x USB-C (DP Alt Mode), 1x DisplayPort 1.4, 1x HDMI 2.1, USB hub",
+        "usbCPowerW": 96
+      },
+      "collections": [
+        "creator-workstations",
+        "developer-setup"
+      ],
+      "featured": false,
+      "sources": {
+        "product": "https://www.asus.com/us/displays-desktops/monitors/proart/proart-display-5k-pa27jcv/",
+        "specs": "https://eshop.asus.com/us/90lm0al1-b01kb2-proart-display-pa27jcv.html",
+        "retrievedAt": "2026-09-28"
+      },
+      "image": {
+        "url": "https://dlcdnwebimgs.asus.com/gain/c77c7367-fe93-49b0-a89f-ac3efb1083b6",
+        "page": "https://www.asus.com/us/displays-desktops/monitors/proart/proart-display-5k-pa27jcv/",
+        "sourceType": "manufacturer-product-page",
+        "rights": "Official ASUS product-page image (dlcdnwebimgs.asus.com); no general reuse license verified.",
+        "credit": "ASUS",
+        "alt": "ASUS ProArt Display 5K PA27JCV 27-inch monitor on its silver height-adjustable stand, angled front view",
+        "match": "EXACT"
+      }
+    },
+    {
+      "sku": "TK-ASUS-ROG-RAPTURE-GT-BE98-PRO",
+      "slug": "asus-rog-rapture-gt-be98-pro",
+      "name": "ASUS ROG Rapture GT-BE98 Pro Quad-Band Wi-Fi 7 Router",
+      "brand": "ASUS",
+      "category": "routers-gateways",
+      "price": "699.99",
+      "priceBasis": "msrp",
+      "priceSource": "https://eshop.asus.com/us/90ig08g0-ma1a0v-rog-rapture-gt-be98-pro.html",
+      "priceAsOf": "2026-09-28",
+      "releaseYear": 2024,
+      "summary": "BE30000 quad-band Wi-Fi 7 gaming router with dual 6GHz bands, 320MHz channels, two 10G ports and four 2.5G ports.",
+      "description": "The ROG Rapture GT-BE98 Pro is a quad-band (2.4GHz, 5GHz and two 6GHz) Wi-Fi 7 router rated at BE30000, with 4x4 streams per band and 320MHz channels on 6GHz. A 2.6GHz quad-core processor with 2GB RAM drives two 10Gbps ports, four 2.5Gbps ports and one Gigabit port, and it supports AiMesh and gaming features such as Game Boost and a dedicated gaming port.",
+      "keywords": "gt-be98 pro quad band wifi 7 router 10g gaming",
+      "specs": {
+        "ports": "1x 10G WAN/LAN, 1x 10G LAN, 1x 2.5G WAN/LAN, 3x 2.5G LAN, 1x 1G LAN, USB 3.2 Gen 1, USB 2.0",
+        "maxSpeedGbps": 30,
+        "managed": false,
+        "rackMountable": false,
+        "wifiStandard": "Wi-Fi 7 (802.11be), quad-band BE30000"
+      },
+      "collections": [
+        "networking-lab",
+        "ultimate-gaming-setup"
+      ],
+      "featured": false,
+      "sources": {
+        "product": "https://rog.asus.com/us/networking/rog-rapture-gt-be98-pro/",
+        "specs": "https://eshop.asus.com/us/90ig08g0-ma1a0v-rog-rapture-gt-be98-pro.html",
+        "retrievedAt": "2026-09-28"
+      },
+      "image": {
+        "url": "https://eshop.asus.com/media/catalog/product/6/3/63dfc066c1f8b6bebac4850e8d75f55c.png",
+        "page": "https://eshop.asus.com/us/90ig08g0-ma1a0v-rog-rapture-gt-be98-pro.html",
+        "sourceType": "manufacturer-product-page",
+        "rights": "Official ASUS eShop (US) product image; ASUS has not granted a general reuse license — rights not verified.",
+        "credit": "ASUS",
+        "alt": "ASUS ROG Rapture GT-BE98 Pro gaming router with eight external antennas raised",
+        "match": "EXACT"
+      }
+    },
+    {
+      "sku": "TK-ASUS-ROG-RAPTURE-GT-BE19000AI",
+      "slug": "asus-rog-rapture-gt-be19000ai",
+      "name": "ASUS ROG Rapture GT-BE19000AI Wi-Fi 7 Router",
+      "brand": "ASUS",
+      "category": "routers-gateways",
+      "price": "899.99",
+      "priceBasis": "msrp",
+      "priceSource": "https://eshop.asus.com/us/90ig09s0-ma1a0v-rog-rapture-gt-be19000ai.html",
+      "priceAsOf": "2026-09-28",
+      "releaseYear": 2025,
+      "summary": "Tri-band BE19000 Wi-Fi 7 gaming router with a separate AI core (4GB RAM, 32GB flash), dual 10G and four 2.5G ports.",
+      "description": "The GT-BE19000AI is a tri-band Wi-Fi 7 gaming router rated at BE19000 with 4x4 streams on each band and 320MHz channels on 6GHz. Alongside the 2.6GHz quad-core router processor it carries a dedicated AI core, each with 4GB RAM and 32GB flash, and offers two 10Gbps ports, four 2.5Gbps ports, a Gigabit port and AiMesh support.",
+      "keywords": "gt-be19000ai ai router wifi 7 tri-band 10g",
+      "specs": {
+        "ports": "1x 10G WAN/LAN, 1x 10G LAN, 1x 2.5G WAN/LAN, 3x 2.5G LAN, 1x 1G LAN, USB 3.2 Gen 1, USB 2.0",
+        "maxSpeedGbps": 19,
+        "managed": false,
+        "rackMountable": false,
+        "wifiStandard": "Wi-Fi 7 (802.11be), tri-band BE19000"
+      },
+      "collections": [
+        "networking-lab"
+      ],
+      "featured": false,
+      "sources": {
+        "product": "https://rog.asus.com/us/networking/rog-rapture-gt-be19000ai/",
+        "specs": "https://eshop.asus.com/us/90ig09s0-ma1a0v-rog-rapture-gt-be19000ai.html",
+        "retrievedAt": "2026-09-28"
+      },
+      "image": {
+        "url": "https://eshop.asus.com/media/catalog/product/7/2/723e33186d215b24a14917551f94135c.png",
+        "page": "https://eshop.asus.com/us/90ig09s0-ma1a0v-rog-rapture-gt-be19000ai.html",
+        "sourceType": "manufacturer-product-page",
+        "rights": "Official ASUS eShop (US) product image; ASUS has not granted a general reuse license — rights not verified.",
+        "credit": "ASUS",
+        "alt": "ASUS ROG Rapture GT-BE19000AI gaming router with its eight antennas raised",
+        "match": "EXACT"
+      }
+    },
+    {
+      "sku": "TK-ASUS-RT-BE88U",
+      "slug": "asus-rt-be88u",
+      "name": "ASUS RT-BE88U Dual-Band Wi-Fi 7 Router",
+      "brand": "ASUS",
+      "category": "routers-gateways",
+      "price": "349.99",
+      "priceBasis": "msrp",
+      "priceSource": "https://eshop.asus.com/us/90ig08v0-ma1n0v-rt-be88u.html",
+      "priceAsOf": "2026-09-28",
+      "releaseYear": 2024,
+      "summary": "BE7200 dual-band Wi-Fi 7 router with a 10G RJ45 port, a 10G SFP+ port, four 2.5G ports and four Gigabit LAN ports.",
+      "description": "The RT-BE88U is a dual-band Wi-Fi 7 router (BE7200, 4x4 on both 2.4GHz and 5GHz) built around a 2.6GHz quad-core processor with 2GB RAM. Its wired side is unusually rich: a 10Gbps RJ45 WAN/LAN, a 10Gbps SFP+ port, a 2.5Gbps WAN/LAN, three 2.5Gbps LAN and four Gigabit LAN ports, plus USB 3.2 and AiMesh support.",
+      "keywords": "rt-be88u sfp+ 10g wifi 7 router homelab",
+      "specs": {
+        "ports": "1x 10G WAN/LAN, 1x 10G SFP+, 1x 2.5G WAN/LAN, 3x 2.5G LAN, 4x 1G LAN, USB 3.2 Gen 1",
+        "maxSpeedGbps": 7.2,
+        "managed": false,
+        "rackMountable": false,
+        "wifiStandard": "Wi-Fi 7 (802.11be), dual-band BE7200"
+      },
+      "collections": [
+        "homelab-essentials",
+        "networking-lab"
+      ],
+      "featured": false,
+      "sources": {
+        "product": "https://www.asus.com/us/networking-iot-servers/wifi-routers/asus-gaming-routers/rt-be88u/",
+        "specs": "https://eshop.asus.com/us/90ig08v0-ma1n0v-rt-be88u.html",
+        "retrievedAt": "2026-09-28"
+      },
+      "image": {
+        "url": "https://eshop.asus.com/media/catalog/product/9/e/9ebc1579dfd0e98f5436b5e0056ba824.png",
+        "page": "https://eshop.asus.com/us/90ig08v0-ma1n0v-rt-be88u.html",
+        "sourceType": "manufacturer-product-page",
+        "rights": "Official ASUS eShop (US) product image; ASUS has not granted a general reuse license — rights not verified.",
+        "credit": "ASUS",
+        "alt": "ASUS RT-BE88U Wi-Fi 7 router with four external antennas, front view",
+        "match": "EXACT"
+      }
+    },
+    {
+      "sku": "TK-ASUS-RT-BE58U",
+      "slug": "asus-rt-be58u",
+      "name": "ASUS RT-BE58U Dual-Band Wi-Fi 7 Router",
+      "brand": "ASUS",
+      "category": "routers-gateways",
+      "price": "149.99",
+      "priceBasis": "msrp",
+      "priceSource": "https://eshop.asus.com/us/90ig0a70-ma1c0v-rt-be58u.html",
+      "priceAsOf": "2026-09-28",
+      "summary": "Affordable BE3600 dual-band Wi-Fi 7 router with a 2.5G WAN/LAN port, four Gigabit ports, USB 3.2 and AiMesh.",
+      "description": "The RT-BE58U is an entry Wi-Fi 7 router rated at BE3600 (2x2 on 2.4GHz and 5GHz) with 4096-QAM and 160MHz channels. It uses a 2.0GHz quad-core processor with 1GB RAM and offers one 2.5Gbps WAN/LAN port, one Gigabit WAN/LAN port, three Gigabit LAN ports and USB 3.2, with AiMesh support.",
+      "keywords": "rt-be58u budget wifi 7 router 2.5g",
+      "specs": {
+        "ports": "1x 2.5G WAN/LAN, 1x 1G WAN/LAN, 3x 1G LAN, USB 3.2 Gen 1",
+        "maxSpeedGbps": 3.6,
+        "managed": false,
+        "rackMountable": false,
+        "wifiStandard": "Wi-Fi 7 (802.11be), dual-band BE3600"
+      },
+      "collections": [
+        "homelab-starter"
+      ],
+      "featured": false,
+      "sources": {
+        "product": "https://www.asus.com/us/networking-iot-servers/wifi-7/all-series/rt-be58u/",
+        "specs": "https://eshop.asus.com/us/90ig0a70-ma1c0v-rt-be58u.html",
+        "retrievedAt": "2026-09-28"
+      },
+      "image": {
+        "url": "https://eshop.asus.com/media/catalog/product/9/7/971cdaf2fdc1f0d3c28f1c4987a9b48f_5.png",
+        "page": "https://eshop.asus.com/us/90ig0a70-ma1c0v-rt-be58u.html",
+        "sourceType": "manufacturer-product-page",
+        "rights": "Official ASUS eShop (US) product image; ASUS has not granted a general reuse license — rights not verified.",
+        "credit": "ASUS",
+        "alt": "ASUS RT-BE58U Wi-Fi 7 router with four external antennas, front view",
+        "match": "EXACT"
+      }
+    },
+    {
+      "sku": "TK-ASUS-ZENWIFI-BQ16-PRO-2PK",
+      "slug": "asus-zenwifi-bq16-pro-2-pack",
+      "name": "ASUS ZenWiFi BQ16 Pro Quad-Band Wi-Fi 7 Mesh (2-Pack)",
+      "brand": "ASUS",
+      "category": "mesh-wifi",
+      "price": "1699.99",
+      "priceBasis": "msrp",
+      "priceSource": "https://eshop.asus.com/us/90ig08z0-ma1n2v-asus-zenwifi-bq16-pro.html",
+      "priceAsOf": "2026-09-28",
+      "releaseYear": 2024,
+      "summary": "Two-node BE30000 quad-band Wi-Fi 7 mesh system with dual 6GHz bands, 320MHz channels and two 10G ports per node.",
+      "description": "The ZenWiFi BQ16 Pro is ASUS's quad-band (2.4GHz, 5GHz and two 6GHz) Wi-Fi 7 mesh system rated at BE30000, with 12 internal antennas and 4x4 streams on every band. Each node has a 10G WAN/LAN port, a 10G LAN port, a Gigabit WAN/LAN, two Gigabit LAN ports and USB, with 2GB RAM. This listing is the two-pack.",
+      "keywords": "zenwifi bq16 pro mesh wifi 7 quad band 10g whole home",
+      "specs": {
+        "ports": "Per node: 1x 10G WAN/LAN, 1x 10G LAN, 1x 1G WAN/LAN, 2x 1G LAN, USB 3.0",
+        "maxSpeedGbps": 30,
+        "managed": false,
+        "rackMountable": false,
+        "wifiStandard": "Wi-Fi 7 (802.11be), quad-band BE30000",
+        "nodes": 2
+      },
+      "collections": [
+        "networking-lab"
+      ],
+      "featured": false,
+      "sources": {
+        "product": "https://www.asus.com/us/networking-iot-servers/whole-home-mesh-systems/asus-zenwifi/asus-zenwifi-bq16-pro/",
+        "specs": "https://eshop.asus.com/us/90ig08z0-ma1n2v-asus-zenwifi-bq16-pro.html",
+        "retrievedAt": "2026-09-28"
+      },
+      "notes": "Price and specs verified on the ASUS eShop listing (BQ16 Pro W-2-PK).",
+      "image": {
+        "url": "https://eshop.asus.com/media/catalog/product/9/8/9824cfdf5d221638ae1bdd804a015b31.png",
+        "page": "https://eshop.asus.com/us/90ig08z0-ma1n2v-asus-zenwifi-bq16-pro.html",
+        "sourceType": "manufacturer-product-page",
+        "rights": "Official ASUS eShop (US) product image; ASUS has not granted a general reuse license — rights not verified.",
+        "credit": "ASUS",
+        "alt": "ASUS ZenWiFi BQ16 Pro mesh Wi-Fi 7 system, two white nodes side by side",
+        "match": "EXACT"
+      }
+    },
+    {
+      "sku": "TK-ASUS-ZENWIFI-BT10-1PK",
+      "slug": "asus-zenwifi-bt10",
+      "name": "ASUS ZenWiFi BT10 Tri-Band Wi-Fi 7 Mesh (1-Pack)",
+      "brand": "ASUS",
+      "category": "mesh-wifi",
+      "price": "359.99",
+      "priceBasis": "msrp",
+      "priceSource": "https://eshop.asus.com/us/asus-zenwifi-bt10.html",
+      "priceAsOf": "2026-09-28",
+      "releaseYear": 2024,
+      "summary": "BE18000 tri-band Wi-Fi 7 mesh node with 320MHz 6GHz band, two 10G ports and AiMesh; sold singly to start or extend a mesh.",
+      "description": "The ZenWiFi BT10 is a tri-band Wi-Fi 7 mesh unit rated at BE18000 (2x2 on 2.4GHz, 4x4 on 5GHz and 6GHz) with 320MHz channels on 6GHz and eight internal antennas. It has a 10G WAN/LAN port, a 10G LAN port, a Gigabit WAN/LAN port and USB, runs on a 2.0GHz quad-core processor with 2GB RAM, and can act as router, AiMesh node or access point.",
+      "keywords": "zenwifi bt10 mesh wifi 7 tri band 10g",
+      "specs": {
+        "ports": "1x 10G WAN/LAN, 1x 10G LAN, 1x 1G WAN/LAN, USB 3.0",
+        "maxSpeedGbps": 18,
+        "managed": false,
+        "rackMountable": false,
+        "wifiStandard": "Wi-Fi 7 (802.11be), tri-band BE18000",
+        "nodes": 1
+      },
+      "featured": false,
+      "sources": {
+        "product": "https://www.asus.com/us/networking-iot-servers/whole-home-mesh-systems/asus-zenwifi/asus-zenwifi-bt10/",
+        "specs": "https://eshop.asus.com/us/asus-zenwifi-bt10.html",
+        "retrievedAt": "2026-09-28"
+      },
+      "notes": "Price and specs verified on the ASUS eShop listing (BT10 W-1-PK).",
+      "image": {
+        "url": "https://eshop.asus.com/media/catalog/product/1/7/17b6c77ada38142972f577aa1678ebb2.png",
+        "page": "https://eshop.asus.com/us/asus-zenwifi-bt10.html",
+        "sourceType": "manufacturer-product-page",
+        "rights": "Official ASUS eShop (US) product image; ASUS has not granted a general reuse license — rights not verified.",
+        "credit": "ASUS",
+        "alt": "ASUS ZenWiFi BT10 white mesh Wi-Fi 7 node, front three-quarter view",
+        "match": "EXACT"
+      }
+    },
+    {
+      "sku": "TK-ASUS-ZENWIFI-BD5-1PK",
+      "slug": "asus-zenwifi-bd5",
+      "name": "ASUS ZenWiFi BD5 Dual-Band Wi-Fi 7 Mesh (1-Pack)",
+      "brand": "ASUS",
+      "category": "mesh-wifi",
+      "price": "179.99",
+      "priceBasis": "msrp",
+      "priceSource": "https://eshop.asus.com/us/asus-zenwifi-bd5.html",
+      "priceAsOf": "2026-09-28",
+      "summary": "Compact BE5000 dual-band Wi-Fi 7 mesh node with two auto-detecting 2.5G ports and AiMesh support.",
+      "description": "The ZenWiFi BD5 is a compact dual-band Wi-Fi 7 mesh unit rated at BE5000 (2x2 on 2.4GHz and 5GHz) with 4096-QAM and up to 240MHz channels where permitted. It measures 140 x 70 x 140 mm, has two 2.5G ports that auto-detect WAN/LAN, and works as a router, AiMesh node or access point.",
+      "keywords": "zenwifi bd5 budget mesh wifi 7 2.5g",
+      "specs": {
+        "ports": "2x 2.5G (WAN/LAN auto-detect)",
+        "maxSpeedGbps": 5,
+        "managed": false,
+        "rackMountable": false,
+        "wifiStandard": "Wi-Fi 7 (802.11be), dual-band BE5000",
+        "nodes": 1
+      },
+      "featured": false,
+      "sources": {
+        "product": "https://www.asus.com/us/networking-iot-servers/whole-home-mesh-systems/asus-zenwifi/asus-zenwifi-bd5/",
+        "specs": "https://eshop.asus.com/us/asus-zenwifi-bd5.html",
+        "retrievedAt": "2026-09-28"
+      },
+      "notes": "Price and specs verified on the ASUS eShop listing (BD5 W-1-PK).",
+      "image": {
+        "url": "https://dlcdnwebimgs.asus.com/gain/44035a50-5a84-4245-a65d-cf068ab4ff63",
+        "page": "https://www.asus.com/us/networking-iot-servers/whole-home-mesh-systems/asus-zenwifi/asus-zenwifi-bd5/",
+        "sourceType": "manufacturer-product-page",
+        "rights": "Official ASUS product-page image (dlcdnwebimgs.asus.com); no general reuse license verified.",
+        "credit": "ASUS",
+        "alt": "ASUS ZenWiFi BD5 compact white mesh Wi-Fi 7 node, single unit front three-quarter view",
+        "match": "EXACT"
+      }
+    }
+  ]
+}

@@ -30,6 +30,22 @@ const COLLECTION_TITLES: Record<string, string> = {
   'dream-gaming': 'Dream gaming setup',
   'small-business': 'Small business',
   'servers-workstations': 'Servers & workstations',
+  'latest-iphones': 'Latest iPhones',
+  'apple-ecosystem': 'Apple ecosystem',
+  'galaxy-flagships': 'Galaxy flagships',
+  'samsung-ecosystem': 'Samsung ecosystem',
+  'pixel-google': 'Pixel & Google',
+  'premium-laptops': 'Premium laptops',
+  'developer-favorites': 'Developer favorites',
+  'gaming-monsters': 'Gaming monsters',
+  'ultimate-gaming-setup': 'Ultimate gaming setup',
+  'creator-workstations': 'Creator workstations',
+  'ai-workstations': 'AI workstations',
+  'enterprise-servers': 'Enterprise servers',
+  'homelab-essentials': 'Homelab essentials',
+  'oled-displays': '4K & OLED displays',
+  'high-end-storage': 'High-end storage',
+  'networking-lab': 'Networking lab',
 }
 
 interface SearchPageProps {

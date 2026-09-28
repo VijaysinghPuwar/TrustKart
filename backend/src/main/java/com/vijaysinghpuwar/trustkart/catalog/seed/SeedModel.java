@@ -1,5 +1,6 @@
 package com.vijaysinghpuwar.trustkart.catalog.seed;
 
+import java.util.ArrayList;
 import java.util.List;
 import java.util.Map;
 
@@ -10,7 +11,32 @@ final class SeedModel {
 
     record CategoryFile(List<CategorySeed> categories) {}
 
+    /** {@code catalog/categories.json}: specs/children grafted onto existing categories, plus new top-level ones. */
+    record CategoryExtensionFile(List<CategoryExtension> extensions, List<CategorySeed> categories) {
+        List<CategoryExtension> extensionsOrEmpty() {
+            return extensions == null ? List.of() : extensions;
+        }
+
+        List<CategorySeed> categoriesOrEmpty() {
+            return categories == null ? List.of() : categories;
+        }
+    }
+
+    record CategoryExtension(String extend, List<SpecSeed> specs, List<CategorySeed> children) {}
+
     record CategorySeed(String slug, String name, String description, List<SpecSeed> specs, List<CategorySeed> children) {
+        CategorySeed extendedWith(CategoryExtension e) {
+            List<SpecSeed> s = new ArrayList<>(specsOrEmpty());
+            s.addAll(e.specs() == null ? List.of() : e.specs());
+            List<CategorySeed> c = new ArrayList<>(childrenOrEmpty());
+            c.addAll(e.children() == null ? List.of() : e.children());
+            return new CategorySeed(slug, name, description, s, c);
+        }
+
+        CategorySeed withChildren(List<CategorySeed> newChildren) {
+            return new CategorySeed(slug, name, description, specs, newChildren);
+        }
+
         List<SpecSeed> specsOrEmpty() {
             return specs == null ? List.of() : specs;
         }

@@ -1,0 +1,1669 @@
+{
+ "products": [
+  {
+   "sku": "TK-MSI-TITAN18HXA2W",
+   "slug": "msi-titan-18-hx-a2w",
+   "name": "MSI Titan 18 HX A2W",
+   "brand": "MSI",
+   "category": "gaming-laptops",
+   "price": "6699.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    15,
+    3
+   ],
+   "featured": true,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "gaming-monsters",
+    "dream-gaming"
+   ],
+   "summary": "MSI's flagship 18-inch gaming laptop with Core Ultra 9 290HX Plus, RTX 5090 Laptop GPU and a 240 Hz UHD+ Mini LED display.",
+   "description": "The Titan 18 HX A2WJ-1258US pairs an Intel Core Ultra 9 290HX Plus with a GeForce RTX 5090 Laptop GPU (24 GB GDDR7). It has an 18-inch UHD+ 240 Hz Mini LED panel with VESA DisplayHDR 1000, 64 GB DDR5-6400, 4 TB of NVMe storage (Gen5 + Gen4), two Thunderbolt 5 ports and a Cherry mechanical per-key RGB keyboard.",
+   "keywords": "titan rtx 5090 mini led flagship gaming laptop 18 inch",
+   "specs": {
+    "cpu": "Intel Core Ultra 9 290HX Plus",
+    "cpuBrand": "Intel",
+    "gpu": "NVIDIA GeForce RTX 5090 Laptop GPU 24 GB GDDR7",
+    "ramGb": 64,
+    "storageTb": 4,
+    "displayIn": 18,
+    "display": "18\" UHD+ (3840x2400) 240 Hz Mini LED, 100% DCI-P3, DisplayHDR 1000",
+    "batteryWh": 99.9,
+    "weightKg": 3.6,
+    "os": "Windows 11 Pro",
+    "ports": "2x Thunderbolt 5, 3x USB-A 3.2 Gen2, HDMI 2.1, 2.5GbE, SD Express",
+    "wireless": "Killer Wi-Fi 7 BE1750, Bluetooth 5.4",
+    "colors": "Core Black"
+   }
+  },
+  {
+   "sku": "TK-MSI-RAIDERA18HXA9W",
+   "slug": "msi-raider-a18-hx-a9w",
+   "name": "MSI Raider A18 HX A9W",
+   "brand": "MSI",
+   "category": "gaming-laptops",
+   "price": "3299.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    14,
+    3
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "gaming-monsters"
+   ],
+   "summary": "18-inch AMD gaming laptop with Ryzen 9 9955HX3D, GeForce RTX 5080 Laptop GPU and a 240 Hz QHD+ panel.",
+   "description": "The Raider A18 HX A9WIG-272US uses the AMD Ryzen 9 9955HX3D with 3D V-Cache and a GeForce RTX 5080 Laptop GPU with 16 GB GDDR7. It ships with 32 GB DDR5-5600, a 2 TB PCIe Gen5 SSD, an 18-inch QHD+ 240 Hz IPS-level display and a 99.9 Wh battery.",
+   "keywords": "raider ryzen 9955hx3d rtx 5080 18 inch",
+   "specs": {
+    "cpu": "AMD Ryzen 9 9955HX3D",
+    "cpuBrand": "AMD",
+    "gpu": "NVIDIA GeForce RTX 5080 Laptop GPU 16 GB GDDR7",
+    "ramGb": 32,
+    "storageTb": 2,
+    "displayIn": 18,
+    "display": "18\" QHD+ (2560x1600) 240 Hz IPS-level, 100% DCI-P3",
+    "batteryWh": 99.9,
+    "weightKg": 3.6,
+    "os": "Windows 11 Home",
+    "ports": "2x USB4 (Thunderbolt 4 compatible), 3x USB-A, HDMI 2.1",
+    "wireless": "Killer Wi-Fi 7 BE1750",
+    "colors": "Core Black"
+   }
+  },
+  {
+   "sku": "TK-MSI-STEALTH18HXAI",
+   "slug": "msi-stealth-18-hx-ai",
+   "name": "MSI Stealth 18 HX AI",
+   "brand": "MSI",
+   "category": "gaming-laptops",
+   "price": "3149.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    16,
+    3
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "gaming-monsters"
+   ],
+   "summary": "Thin 18-inch gaming laptop with Core Ultra 9 275HX, RTX 5080 Laptop GPU and a 240 Hz QHD+ display.",
+   "description": "The Stealth 18 HX AI A2XWIG-028US combines an Intel Core Ultra 9 275HX with a GeForce RTX 5080 Laptop GPU (16 GB GDDR7), 32 GB DDR5-5600 and a 2 TB Gen4 SSD. The 18-inch QHD+ panel runs at 240 Hz with 100% DCI-P3, and two Thunderbolt 4 ports support 140 W charging.",
+   "keywords": "stealth thin gaming laptop rtx 5080 core ultra 9",
+   "specs": {
+    "cpu": "Intel Core Ultra 9 275HX",
+    "cpuBrand": "Intel",
+    "gpu": "NVIDIA GeForce RTX 5080 Laptop GPU 16 GB GDDR7",
+    "ramGb": 32,
+    "storageTb": 2,
+    "displayIn": 18,
+    "display": "18\" QHD+ (2560x1600) 240 Hz, 100% DCI-P3",
+    "batteryWh": 99.9,
+    "weightKg": 2.9,
+    "os": "Windows 11 Pro",
+    "ports": "2x Thunderbolt 4 (DP 2.1, PD 3.1 140 W), 2x USB-A 3.2 Gen2, HDMI 2.1",
+    "wireless": "Killer Wi-Fi 7 BE1750",
+    "colors": "Midnight Black"
+   }
+  },
+  {
+   "sku": "TK-MSI-STEALTHA18AI",
+   "slug": "msi-stealth-a18-ai-plus",
+   "name": "MSI Stealth A18 AI+",
+   "brand": "MSI",
+   "category": "gaming-laptops",
+   "price": "3099.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    7,
+    3
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "gaming-monsters"
+   ],
+   "summary": "18-inch Copilot+ gaming laptop with AMD Ryzen AI 9 365 and GeForce RTX 5080 Laptop GPU.",
+   "description": "The Stealth A18 AI+ A3HWIG-019US is an AMD-based Copilot+ PC with a Ryzen AI 9 365 and a GeForce RTX 5080 Laptop GPU (16 GB GDDR7). It has 32 GB DDR5-5600, a 1 TB Gen4 SSD, an 18-inch QHD+ 240 Hz display and a 99.9 Wh battery.",
+   "keywords": "stealth ryzen ai copilot+ rtx 5080 18 inch",
+   "specs": {
+    "cpu": "AMD Ryzen AI 9 365",
+    "cpuBrand": "AMD",
+    "gpu": "NVIDIA GeForce RTX 5080 Laptop GPU 16 GB GDDR7",
+    "ramGb": 32,
+    "storageTb": 1,
+    "displayIn": 18,
+    "display": "18\" QHD+ (2560x1600) 240 Hz, 100% DCI-P3",
+    "batteryWh": 99.9,
+    "weightKg": 2.9,
+    "os": "Windows 11 Home",
+    "ports": "2x USB4 Type-C (DP, PD 3.1), 2x USB-A 3.2 Gen2, HDMI 2.1",
+    "wireless": "MediaTek Wi-Fi 7",
+    "colors": "Midnight Black"
+   }
+  },
+  {
+   "sku": "TK-MSI-VECTOR16HXAI",
+   "slug": "msi-vector-16-hx-ai",
+   "name": "MSI Vector 16 HX AI",
+   "brand": "MSI",
+   "category": "gaming-laptops",
+   "price": "1999.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    56,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [],
+   "summary": "16-inch performance gaming laptop with Core Ultra 7 255HX, RTX 5070 Ti Laptop GPU and two Thunderbolt 5 ports.",
+   "description": "The Vector 16 HX AI A2XWHG-061US pairs an Intel Core Ultra 7 255HX with a GeForce RTX 5070 Ti Laptop GPU (12 GB GDDR7). The base configuration has 16 GB DDR5-5600, a 512 GB Gen4 SSD, a 16-inch FHD+ 144 Hz IPS-level panel and a 90 Wh battery.",
+   "keywords": "vector gaming laptop rtx 5070 ti thunderbolt 5",
+   "specs": {
+    "cpu": "Intel Core Ultra 7 255HX",
+    "cpuBrand": "Intel",
+    "gpu": "NVIDIA GeForce RTX 5070 Ti Laptop GPU 12 GB GDDR7",
+    "ramGb": 16,
+    "storageTb": 0.5,
+    "displayIn": 16,
+    "display": "16\" FHD+ 144 Hz IPS-level",
+    "batteryWh": 90,
+    "weightKg": 2.7,
+    "os": "Windows 11 Home",
+    "ports": "2x Thunderbolt 5, 2x USB-A 3.2 Gen2, HDMI 2.1",
+    "wireless": "Intel Wi-Fi 6E AX211",
+    "configurations": "Core Ultra 7 255HX / RTX 5070 Ti / 16 GB / 512 GB – $1,999.99 · Core Ultra 9 / RTX 5080 (A2XWIG-050US) – $2,599.99",
+    "colors": "Cosmo Gray"
+   }
+  },
+  {
+   "sku": "TK-MSI-CROSSHAIRA18HX",
+   "slug": "msi-crosshair-a18-hx",
+   "name": "MSI Crosshair A18 HX",
+   "brand": "MSI",
+   "category": "gaming-laptops",
+   "price": "1949.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    15,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [],
+   "summary": "18-inch AMD gaming laptop with Ryzen 9 8940HX, RTX 5070 Laptop GPU and a 240 Hz QHD+ display.",
+   "description": "The Crosshair A18 HX A8WGKG-009US uses an AMD Ryzen 9 8940HX and a GeForce RTX 5070 Laptop GPU with 8 GB GDDR7. It includes 32 GB DDR5-5600, a 1 TB Gen4 SSD, an 18-inch QHD+ 240 Hz display and a 90 Wh battery.",
+   "keywords": "crosshair ryzen gaming laptop rtx 5070 18 inch",
+   "specs": {
+    "cpu": "AMD Ryzen 9 8940HX",
+    "cpuBrand": "AMD",
+    "gpu": "NVIDIA GeForce RTX 5070 Laptop GPU 8 GB GDDR7",
+    "ramGb": 32,
+    "storageTb": 1,
+    "displayIn": 18,
+    "display": "18\" QHD+ (2560x1600) 240 Hz, 100% DCI-P3",
+    "batteryWh": 90,
+    "weightKg": 3.1,
+    "os": "Windows 11 Home",
+    "ports": "1x USB-C 3.2 Gen2 (DP, PD 3.0), 3x USB-A 3.2 Gen2, HDMI 2.1",
+    "wireless": "AMD RZ616 Wi-Fi 6E",
+    "colors": "Black"
+   }
+  },
+  {
+   "sku": "TK-MSI-PRESTIGE16FLIPAI",
+   "slug": "msi-prestige-16-flip-ai-plus",
+   "name": "MSI Prestige 16 Flip AI+",
+   "brand": "MSI",
+   "category": "business-laptops",
+   "price": "2149.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    15,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "premium-laptops"
+   ],
+   "summary": "16-inch 2.8K OLED convertible with Intel Core Ultra 7 355, 32 GB LPDDR5X and Wi-Fi 7.",
+   "description": "The Prestige 16 Flip AI+ C3MTG-058US is a 3.53 lb 2-in-1 with an Intel Core Ultra 7 355, 32 GB LPDDR5X-8533 and a 1 TB SSD. Its 16-inch 2.8K OLED touchscreen runs at 120 Hz with 100% DCI-P3 and Gorilla Glass, and supports the MSI Nano Pen.",
+   "keywords": "prestige flip 2-in-1 oled business convertible",
+   "specs": {
+    "cpu": "Intel Core Ultra 7 355",
+    "cpuBrand": "Intel",
+    "gpu": "Intel Arc Graphics",
+    "ramGb": 32,
+    "storageTb": 1,
+    "displayIn": 16,
+    "display": "16\" 2.8K OLED 120 Hz touch, 100% DCI-P3, Gorilla Glass",
+    "batteryWh": 81,
+    "weightKg": 1.6,
+    "os": "Windows 11 Home",
+    "ports": "2x Thunderbolt 4, 2x USB-A 3.2 Gen1, HDMI 2.1",
+    "wireless": "Intel Killer Wi-Fi 7 BE1775",
+    "colors": "Platinum Gray"
+   }
+  },
+  {
+   "sku": "TK-MSI-SUMMIT13AIEVO",
+   "slug": "msi-summit-13-ai-plus-evo",
+   "name": "MSI Summit 13 AI+ Evo",
+   "brand": "MSI",
+   "category": "business-laptops",
+   "price": "1399.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    37,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "small-business"
+   ],
+   "summary": "13.3-inch 2-in-1 business laptop with Core Ultra 7 256V, 70 Wh battery and MSI Pen 2 support.",
+   "description": "The Summit 13 AI+ Evo A2VMTG-016US is a 2.98 lb convertible built on the Intel Core Ultra 7 256V with 16 GB LPDDR5X-8533 and a 1 TB SSD. It has a 13.3-inch FHD+ touchscreen that supports the MSI Pen 2, two Thunderbolt 4 ports and Killer Wi-Fi 7.",
+   "keywords": "summit 2-in-1 evo lunar lake business",
+   "specs": {
+    "cpu": "Intel Core Ultra 7 256V",
+    "cpuBrand": "Intel",
+    "gpu": "Intel Arc Graphics",
+    "ramGb": 16,
+    "storageTb": 1,
+    "displayIn": 13.3,
+    "display": "13.3\" FHD+ 16:10 IPS-level touch, MSI Pen 2 support",
+    "batteryWh": 70,
+    "weightKg": 1.35,
+    "os": "Windows 11 Home",
+    "ports": "2x Thunderbolt 4, 2x USB-A 3.2 Gen2, HDMI 2.1",
+    "wireless": "Intel Killer Wi-Fi 7 BE1750",
+    "colors": "Ink Black"
+   }
+  },
+  {
+   "sku": "TK-MSI-CLAW8AIPLUS",
+   "slug": "msi-claw-8-ai-plus",
+   "name": "MSI Claw 8 AI+",
+   "brand": "MSI",
+   "category": "handhelds",
+   "price": "1299.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    53,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "gaming-monsters"
+   ],
+   "summary": "8-inch Windows handheld gaming PC with Intel Core Ultra 7 258V, 32 GB memory and an 80 Wh battery.",
+   "description": "The Claw 8 AI+ A2VM-001US runs Windows 11 on an Intel Core Ultra 7 258V with Intel Arc 140V graphics and 32 GB LPDDR5X-8533. It has an 8-inch FHD+ 120 Hz touchscreen, a 1 TB M.2 2230 SSD, Killer Wi-Fi 7 and an 80 Wh battery, and weighs 1.75 lb.",
+   "keywords": "claw handheld pc lunar lake portable gaming",
+   "specs": {
+    "platform": "Windows 11 Home",
+    "chip": "Intel Core Ultra 7 258V (Intel Arc 140V)",
+    "storage": "1 TB NVMe SSD (M.2 2230)",
+    "display": "8\" FHD+ (1920x1200) 120 Hz IPS-level touch",
+    "connectivity": "Killer Wi-Fi 7 BE1750",
+    "battery": "80 Wh",
+    "weightG": 795,
+    "colors": "Black"
+   }
+  },
+  {
+   "sku": "TK-MSI-CLAWA8",
+   "slug": "msi-claw-a8",
+   "name": "MSI Claw A8",
+   "brand": "MSI",
+   "category": "handhelds",
+   "price": "1299.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    15,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [],
+   "summary": "8-inch Windows handheld with AMD Ryzen Z2 Extreme, 24 GB memory and a 120 Hz VRR touchscreen.",
+   "description": "The Claw A8 BZ2EM-070US is MSI's AMD-based handheld, using the Ryzen Z2 Extreme with Radeon 890M graphics and 24 GB LPDDR5X. It has an 8-inch FHD+ 120 Hz VRR touchscreen, a 1 TB M.2 2280 SSD, Wi-Fi 7 and an 80 Wh battery, and weighs 1.68 lb.",
+   "keywords": "claw a8 ryzen z2 extreme handheld",
+   "specs": {
+    "platform": "Windows 11 Home",
+    "chip": "AMD Ryzen Z2 Extreme (Radeon 890M)",
+    "storage": "1 TB NVMe SSD (M.2 2280)",
+    "display": "8\" FHD+ (1920x1200) 120 Hz VRR touch",
+    "connectivity": "Wi-Fi 7, Bluetooth 5.4",
+    "battery": "80 Wh",
+    "weightG": 762,
+    "colors": "White"
+   }
+  },
+  {
+   "sku": "TK-MSI-RTX5090-SUPRIMLIQ",
+   "slug": "msi-geforce-rtx-5090-32g-suprim-liquid-soc",
+   "name": "MSI GeForce RTX 5090 32G SUPRIM LIQUID SOC",
+   "brand": "MSI",
+   "category": "gpus",
+   "price": "5299.99",
+   "compareAt": null,
+   "warranty": 36,
+   "stock": [
+    13,
+    3
+   ],
+   "featured": true,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "dream-gpus",
+    "ai-workstations"
+   ],
+   "summary": "Liquid-cooled GeForce RTX 5090 with 32 GB GDDR7 and a 360 mm radiator.",
+   "description": "MSI's SUPRIM LIQUID SOC version of the GeForce RTX 5090 pairs 32 GB of GDDR7 with an all-in-one liquid cooler and a 360 mm-class radiator. It uses a PCIe 5.0 x16 interface, draws up to 600 W in Gaming mode and MSI recommends a 1000 W power supply.",
+   "keywords": "rtx 5090 liquid cooled suprim gpu",
+   "specs": {
+    "chipset": "NVIDIA GeForce RTX 5090",
+    "architecture": "NVIDIA Blackwell",
+    "vramGb": 32,
+    "memoryType": "GDDR7",
+    "interface": "PCIe 5.0 x16",
+    "boardPowerW": 600,
+    "recommendedPsuW": 1000,
+    "lengthMm": 280
+   }
+  },
+  {
+   "sku": "TK-MSI-RTX5080-SUPRIMLIQ",
+   "slug": "msi-geforce-rtx-5080-16g-suprim-liquid-soc",
+   "name": "MSI GeForce RTX 5080 16G SUPRIM LIQUID SOC",
+   "brand": "MSI",
+   "category": "gpus",
+   "price": "1999.99",
+   "compareAt": null,
+   "warranty": 36,
+   "stock": [
+    18,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "dream-gpus"
+   ],
+   "summary": "Liquid-cooled GeForce RTX 5080 with 16 GB GDDR7 and a 2760 MHz Extreme Performance boost clock.",
+   "description": "The SUPRIM LIQUID SOC RTX 5080 carries 16 GB GDDR7 at 30 Gbps on a 256-bit bus and 10,752 CUDA cores. It is rated at 360 W with a single 16-pin connector, and MSI lists an 850 W minimum power supply.",
+   "keywords": "rtx 5080 liquid suprim gpu",
+   "specs": {
+    "chipset": "NVIDIA GeForce RTX 5080",
+    "architecture": "NVIDIA Blackwell",
+    "vramGb": 16,
+    "memoryType": "GDDR7",
+    "interface": "PCIe 5.0 x16",
+    "boardPowerW": 360,
+    "recommendedPsuW": 850,
+    "lengthMm": 280
+   }
+  },
+  {
+   "sku": "TK-MSI-RTX5070TI-GTRIO",
+   "slug": "msi-geforce-rtx-5070-ti-16g-gaming-trio-oc",
+   "name": "MSI GeForce RTX 5070 Ti 16G GAMING TRIO OC",
+   "brand": "MSI",
+   "category": "gpus",
+   "price": "1249.99",
+   "compareAt": null,
+   "warranty": 36,
+   "stock": [
+    19,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [],
+   "summary": "Triple-fan GeForce RTX 5070 Ti with 16 GB GDDR7.",
+   "description": "MSI's GAMING TRIO OC RTX 5070 Ti uses a triple-fan TRI FROZR cooler on a 338 mm card with 16 GB of GDDR7. It is rated at 300 W and MSI recommends a 750 W power supply.",
+   "keywords": "rtx 5070 ti gaming trio gpu",
+   "specs": {
+    "chipset": "NVIDIA GeForce RTX 5070 Ti",
+    "architecture": "NVIDIA Blackwell",
+    "vramGb": 16,
+    "memoryType": "GDDR7",
+    "interface": "PCIe 5.0 x16",
+    "boardPowerW": 300,
+    "recommendedPsuW": 750,
+    "lengthMm": 338
+   }
+  },
+  {
+   "sku": "TK-MSI-X870EGODLIKEMAX",
+   "slug": "msi-meg-x870e-godlike-max",
+   "name": "MSI MEG X870E GODLIKE MAX",
+   "brand": "MSI",
+   "category": "motherboards",
+   "price": "1299.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    10,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "ultimate-gaming-setup"
+   ],
+   "summary": "Flagship E-ATX AM5 motherboard with X870E, 10 GbE + 5 GbE and Wi-Fi 7.",
+   "description": "The MEG X870E GODLIKE MAX is MSI's top AM5 board: E-ATX, four DDR5 DIMMs rated to 9200+ MT/s (OC), a Marvell AQC 10 Gbps LAN plus a Realtek 5 Gbps LAN, and Wi-Fi 7.",
+   "keywords": "godlike x870e am5 flagship motherboard",
+   "specs": {
+    "socket": "AM5",
+    "chipset": "AMD X870E",
+    "formFactor": "E-ATX",
+    "memoryType": "DDR5",
+    "memorySlots": 4,
+    "wifi": "Wi-Fi 7",
+    "lan": "10GbE (Marvell AQC) + 5GbE (Realtek)"
+   }
+  },
+  {
+   "sku": "TK-MSI-X870ECARBONWIFI",
+   "slug": "msi-mpg-x870e-carbon-wifi",
+   "name": "MSI MPG X870E CARBON WIFI",
+   "brand": "MSI",
+   "category": "motherboards",
+   "price": "429.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    35,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [],
+   "summary": "ATX AM5 motherboard with X870E, 5 GbE + 2.5 GbE LAN and Wi-Fi 7.",
+   "description": "The MPG X870E CARBON WIFI is an ATX AM5 board with four DDR5 UDIMM slots (up to 256 GB, 8400+ MT/s OC), Realtek 5G and 2.5G LAN, and a pre-installed Wi-Fi 7 module.",
+   "keywords": "carbon x870e am5 motherboard",
+   "specs": {
+    "socket": "AM5",
+    "chipset": "AMD X870E",
+    "formFactor": "ATX",
+    "memoryType": "DDR5",
+    "memorySlots": 4,
+    "maxMemoryGb": 256,
+    "wifi": "Wi-Fi 7",
+    "lan": "5GbE + 2.5GbE (Realtek)"
+   }
+  },
+  {
+   "sku": "TK-MSI-X870ETOMAHAWKMAX",
+   "slug": "msi-mag-x870e-tomahawk-max-wifi",
+   "name": "MSI MAG X870E TOMAHAWK MAX WIFI",
+   "brand": "MSI",
+   "category": "motherboards",
+   "price": "329.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    45,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [],
+   "summary": "ATX AM5 motherboard with X870E, 5 GbE LAN and Wi-Fi 7.",
+   "description": "The MAG X870E TOMAHAWK MAX WIFI is an ATX AM5 board with four DDR5 DIMMs rated to 8400+ MT/s (OC), Realtek 5G LAN and Wi-Fi 7. It is the newer X870E successor to the B650 Tomahawk line.",
+   "keywords": "tomahawk x870e am5 motherboard",
+   "specs": {
+    "socket": "AM5",
+    "chipset": "AMD X870E",
+    "formFactor": "ATX",
+    "memoryType": "DDR5",
+    "memorySlots": 4,
+    "wifi": "Wi-Fi 7",
+    "lan": "5GbE (Realtek)"
+   }
+  },
+  {
+   "sku": "TK-MSI-Z890ACE",
+   "slug": "msi-meg-z890-ace",
+   "name": "MSI MEG Z890 ACE",
+   "brand": "MSI",
+   "category": "motherboards",
+   "price": "659.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    58,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [],
+   "summary": "High-end ATX LGA 1851 motherboard with Z890, 10 GbE and Wi-Fi 7.",
+   "description": "The MEG Z890 ACE is an ATX board for Intel Core Ultra (LGA 1851) processors with four DDR5 UDIMM slots (up to 256 GB, 9200 MT/s OC), a Marvell AQC113CS 10 Gbps LAN and an Intel Killer BE1750x Wi-Fi 7 module.",
+   "keywords": "z890 ace lga1851 intel motherboard",
+   "specs": {
+    "socket": "LGA 1851",
+    "chipset": "Intel Z890",
+    "formFactor": "ATX",
+    "memoryType": "DDR5",
+    "memorySlots": 4,
+    "maxMemoryGb": 256,
+    "wifi": "Intel Killer BE1750x Wi-Fi 7",
+    "lan": "10GbE (Marvell AQC113CS)"
+   }
+  },
+  {
+   "sku": "TK-MSI-MPG271QRX50",
+   "slug": "msi-mpg-271qr-qd-oled-x50",
+   "name": "MSI MPG 271QR QD-OLED X50",
+   "brand": "MSI",
+   "category": "gaming-monitors",
+   "price": "729.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    33,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "oled-displays",
+    "gaming-monsters"
+   ],
+   "summary": "27-inch QHD QD-OLED esports monitor with a 500 Hz refresh rate.",
+   "description": "The MPG 271QR QD-OLED X50 is a 27-inch 2560x1440 QD-OLED monitor running at 500 Hz with 0.03 ms (GtG) response. Inputs are two HDMI 2.1, one DisplayPort 2.1a and a USB-C port with DP Alt Mode and 98 W charging.",
+   "keywords": "500hz qd-oled esports monitor 27 inch",
+   "specs": {
+    "sizeIn": 27,
+    "resolution": "2560x1440 (QHD)",
+    "refreshHz": 500,
+    "panel": "QD-OLED",
+    "inputs": "2x HDMI 2.1, 1x DisplayPort 2.1a, 1x USB-C (DP Alt)",
+    "usbCPowerW": 98
+   }
+  },
+  {
+   "sku": "TK-MSI-MPG322URX",
+   "slug": "msi-mpg-322urx-qd-oled",
+   "name": "MSI MPG 322URX QD-OLED",
+   "brand": "MSI",
+   "category": "gaming-monitors",
+   "price": "1199.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    12,
+    5
+   ],
+   "featured": true,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "oled-displays",
+    "ultimate-gaming-setup"
+   ],
+   "summary": "32-inch 4K 240 Hz QD-OLED gaming monitor with DisplayPort 2.1.",
+   "description": "The MPG 322URX QD-OLED is a 32-inch 3840x2160 QD-OLED monitor at 240 Hz with 0.03 ms (GtG) response. It has two HDMI 2.1 ports, one DisplayPort 2.1 and a USB-C port with DP Alt Mode and 98 W charging.",
+   "keywords": "4k 240hz qd-oled 32 inch dp 2.1",
+   "specs": {
+    "sizeIn": 32,
+    "resolution": "3840x2160 (UHD)",
+    "refreshHz": 240,
+    "panel": "QD-OLED",
+    "inputs": "2x HDMI 2.1, 1x DisplayPort 2.1, 1x USB-C (DP Alt)",
+    "usbCPowerW": 98
+   }
+  },
+  {
+   "sku": "TK-MSI-MAG272QPX24",
+   "slug": "msi-mag-272qp-qd-oled-x24",
+   "name": "MSI MAG 272QP QD-OLED X24",
+   "brand": "MSI",
+   "category": "gaming-monitors",
+   "price": "399.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    40,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "oled-displays"
+   ],
+   "summary": "27-inch QHD 240 Hz QD-OLED gaming monitor.",
+   "description": "The MAG 272QP QD-OLED X24 is a 27-inch 2560x1440 QD-OLED monitor at 240 Hz with 0.03 ms (GtG) response, with two HDMI 2.1 ports, DisplayPort 1.4a and USB-C with DP Alt Mode.",
+   "keywords": "qd-oled 1440p 240hz budget oled monitor",
+   "specs": {
+    "sizeIn": 27,
+    "resolution": "2560x1440 (QHD)",
+    "refreshHz": 240,
+    "panel": "QD-OLED",
+    "inputs": "2x HDMI 2.1, 1x DisplayPort 1.4a, 1x USB-C (DP Alt)"
+   }
+  },
+  {
+   "sku": "TK-MSI-MPG491CQPX",
+   "slug": "msi-mpg-491cqpx-qd-oled",
+   "name": "MSI MPG 491CQPX QD-OLED",
+   "brand": "MSI",
+   "category": "ultrawide-monitors",
+   "price": "1099.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    8,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "oled-displays"
+   ],
+   "summary": "49-inch curved 5120x1440 QD-OLED super-ultrawide at 240 Hz.",
+   "description": "The MPG 491CQPX QD-OLED is a 49-inch curved 32:9 monitor with a 5120x1440 (DQHD) QD-OLED panel at 240 Hz and 0.03 ms (GtG) response. It offers two HDMI 2.1, one DisplayPort 1.4a and a USB-C port with DP Alt Mode.",
+   "keywords": "49 inch super ultrawide qd-oled 32:9",
+   "specs": {
+    "sizeIn": 49,
+    "resolution": "5120x1440 (DQHD)",
+    "refreshHz": 240,
+    "panel": "QD-OLED",
+    "inputs": "2x HDMI 2.1, 1x DisplayPort 1.4a, 1x USB-C (DP Alt)"
+   }
+  },
+  {
+   "sku": "TK-MSI-INFINITEZS",
+   "slug": "msi-infinite-zs",
+   "name": "MSI Infinite ZS",
+   "brand": "MSI",
+   "category": "gaming-desktops",
+   "price": "7799.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    11,
+    3
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "dream-gaming"
+   ],
+   "summary": "Gaming desktop with AMD Ryzen 9 9950X3D, GeForce RTX 5090 32 GB and a 1300 W PSU.",
+   "description": "The Infinite ZS 9NVZ-2261US pairs an AMD Ryzen 9 9950X3D (360 mm liquid cooler) with a GeForce RTX 5090 32 GB GDDR7. It ships with 32 GB DDR5, a 2 TB M.2 NVMe SSD, 2.5 GbE, Wi-Fi 7 and a 1300 W power supply.",
+   "keywords": "rtx 5090 prebuilt gaming pc 9950x3d",
+   "specs": {
+    "cpu": "AMD Ryzen 9 9950X3D",
+    "cpuBrand": "AMD",
+    "gpu": "NVIDIA GeForce RTX 5090 32 GB GDDR7",
+    "ramGb": 32,
+    "storageTb": 2,
+    "os": "Windows 11 Home",
+    "networking": "2.5GbE (Realtek 8125D), Wi-Fi 7",
+    "psuW": 1300
+   }
+  },
+  {
+   "sku": "TK-MSI-AEGISRS2AI",
+   "slug": "msi-aegis-rs2-ai",
+   "name": "MSI Aegis RS2 AI",
+   "brand": "MSI",
+   "category": "gaming-desktops",
+   "price": "2999.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    26,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [],
+   "summary": "Gaming desktop with Intel Core Ultra 7 270K Plus, GeForce RTX 5070 and a 360 mm liquid cooler.",
+   "description": "The Aegis RS2 AI A2NVP7-2209US uses an Intel Core Ultra 7 270K Plus on a Z890 chipset with a 360 mm liquid cooler and a GeForce RTX 5070 12 GB. It includes 32 GB DDR5, a 2 TB Gen4 SSD, 2.5 GbE, Wi-Fi 6E and a 750 W 80 Plus Gold power supply.",
+   "keywords": "aegis prebuilt gaming pc core ultra rtx 5070",
+   "specs": {
+    "cpu": "Intel Core Ultra 7 270K Plus",
+    "cpuBrand": "Intel",
+    "gpu": "NVIDIA GeForce RTX 5070 12 GB GDDR7",
+    "ramGb": 32,
+    "storageTb": 2,
+    "os": "Windows 11 Home",
+    "networking": "2.5GbE, Wi-Fi 6E",
+    "psuW": 750
+   }
+  },
+  {
+   "sku": "TK-MSI-EDGEXPERT",
+   "slug": "msi-edgexpert-ai-supercomputer",
+   "name": "MSI EdgeXpert AI Supercomputer",
+   "brand": "MSI",
+   "category": "ai-systems",
+   "price": "5999.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    16,
+    3
+   ],
+   "featured": true,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "ai-lab",
+    "ai-workstations"
+   ],
+   "summary": "Palm-sized NVIDIA GB10 Grace Blackwell AI desktop with 128 GB unified memory and DGX OS.",
+   "description": "The EdgeXpert-11SUS is MSI's desktop AI supercomputer built on the NVIDIA GB10 superchip: a 20-core Arm CPU (10 Cortex-X925 + 10 Cortex-A725) with a Blackwell GPU sharing 128 GB of LPDDR5X unified memory at 273 GB/s. It ships with NVIDIA DGX OS, a 4 TB self-encrypting NVMe SSD and Wi-Fi 7, in a 5.95 x 5.95 x 2.05 inch chassis powered by a 240 W adapter.",
+   "keywords": "gb10 dgx spark grace blackwell ai desktop",
+   "specs": {
+    "formFactor": "Compact desktop (151 x 151 x 52 mm)",
+    "cpu": "20-core Arm (10x Cortex-X925 + 10x Cortex-A725)",
+    "gpus": "NVIDIA GB10 Grace Blackwell (Blackwell GPU)",
+    "memoryGb": 128,
+    "storage": "4 TB NVMe Gen4 (self-encrypting)",
+    "network": "Wi-Fi 7",
+    "powerKw": 0.24
+   }
+  },
+  {
+   "sku": "TK-ACER-PHN16I71",
+   "slug": "acer-predator-helios-neo-16-ai-phn16-i71",
+   "name": "Acer Predator Helios Neo 16 AI (PHN16-I71)",
+   "brand": "Acer",
+   "category": "gaming-laptops",
+   "price": "2749.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    34,
+    5
+   ],
+   "featured": true,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "gaming-monsters"
+   ],
+   "summary": "16-inch gaming laptop with Intel Core Ultra 9 290HX Plus, GeForce RTX 5070 Ti and a 240 Hz WQXGA display.",
+   "description": "The Predator Helios Neo 16 AI PHN16-I71-905P pairs a 24-core Intel Core Ultra 9 290HX Plus with an NVIDIA GeForce RTX 5070 Ti Laptop GPU (12 GB GDDR7). The configuration sold on the Acer Store has 16 GB DDR5, a 512 GB PCIe Gen4 SSD and a 16-inch 2560x1600 IPS panel at 240 Hz.",
+   "keywords": "predator helios neo rtx 5070 ti core ultra 9 290hx gaming laptop",
+   "specs": {
+    "cpu": "Intel Core Ultra 9 290HX Plus (24 cores)",
+    "cpuBrand": "Intel",
+    "gpu": "NVIDIA GeForce RTX 5070 Ti Laptop GPU 12 GB GDDR7",
+    "ramGb": 16,
+    "storageTb": 0.5,
+    "displayIn": 16,
+    "display": "16\" WQXGA (2560x1600) IPS 240 Hz, matte",
+    "weightKg": 2.7,
+    "os": "Windows 11 Home",
+    "wireless": "Intel Killer Wi-Fi 6E AX1675i, Bluetooth 5.4",
+    "colors": "Abyssal Black"
+   }
+  },
+  {
+   "sku": "TK-ACER-PHN14-71",
+   "slug": "acer-predator-helios-neo-14-ai",
+   "name": "Acer Predator Helios Neo 14 AI",
+   "brand": "Acer",
+   "category": "gaming-laptops",
+   "price": "2199.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    13,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "gaming-monsters"
+   ],
+   "summary": "Compact 14.5-inch gaming laptop with Core Ultra 9 285H, RTX 5070 and 32 GB LPDDR5X.",
+   "description": "The Predator Helios Neo 14 AI PHN14-71-906J packs an Intel Core Ultra 9 285H and an NVIDIA GeForce RTX 5070 Laptop GPU (8 GB) into a 4.19 lb chassis. It has 32 GB LPDDR5X, a 1 TB SSD and a 14.5-inch 2560x1600 IPS display at 165 Hz.",
+   "keywords": "predator helios neo 14 compact gaming laptop rtx 5070",
+   "specs": {
+    "cpu": "Intel Core Ultra 9 285H",
+    "cpuBrand": "Intel",
+    "gpu": "NVIDIA GeForce RTX 5070 Laptop GPU 8 GB",
+    "ramGb": 32,
+    "storageTb": 1,
+    "displayIn": 14.5,
+    "display": "14.5\" WQXGA (2560x1600) IPS 165 Hz, matte",
+    "weightKg": 1.9,
+    "os": "Windows 11 Home",
+    "wireless": "Intel Killer Wi-Fi 6E AX1675i",
+    "colors": "Abyssal Black"
+   }
+  },
+  {
+   "sku": "TK-ACER-ANV16-61",
+   "slug": "acer-nitro-v-16-ai",
+   "name": "Acer Nitro V 16 AI",
+   "brand": "Acer",
+   "category": "gaming-laptops",
+   "price": "1299.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    46,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [],
+   "summary": "Entry gaming laptop with AMD Ryzen 5 340, GeForce RTX 5060 and a 180 Hz 16-inch display.",
+   "description": "The Nitro V 16 AI ANV16-61-R2QY is a Copilot+ PC with an AMD Ryzen 5 340 and an NVIDIA GeForce RTX 5060 Laptop GPU (8 GB). It ships with 16 GB DDR5, a 512 GB SSD and a 16-inch 1920x1200 IPS panel at 180 Hz.",
+   "keywords": "nitro v budget gaming laptop rtx 5060 copilot+",
+   "specs": {
+    "cpu": "AMD Ryzen 5 340",
+    "cpuBrand": "AMD",
+    "gpu": "NVIDIA GeForce RTX 5060 Laptop GPU 8 GB",
+    "ramGb": 16,
+    "storageTb": 0.5,
+    "displayIn": 16,
+    "display": "16\" WUXGA (1920x1200) IPS 180 Hz",
+    "weightKg": 2.43,
+    "os": "Windows 11 Home",
+    "configurations": "Ryzen 5 340 / 16 GB / 512 GB (ANV16-61-R2QY) – $1,299.99 · Ryzen 7 350 (ANV16-61-R9MV) – $1,399.99",
+    "colors": "Obsidian Black"
+   }
+  },
+  {
+   "sku": "TK-ACER-AN16S-61",
+   "slug": "acer-nitro-16s-ai",
+   "name": "Acer Nitro 16S AI",
+   "brand": "Acer",
+   "category": "gaming-laptops",
+   "price": "1499.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    13,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [],
+   "summary": "Slim 16-inch gaming laptop with AMD Ryzen 7 350, RTX 5060 and a 1 TB SSD.",
+   "description": "The Nitro 16S AI AN16S-61-R7YL uses an AMD Ryzen 7 350 with an NVIDIA GeForce RTX 5060 Laptop GPU (8 GB). It has 16 GB DDR5, a 1 TB SSD and a 16-inch 1920x1200 IPS display at 180 Hz, and weighs 4.81 lb.",
+   "keywords": "nitro 16s slim gaming laptop ryzen",
+   "specs": {
+    "cpu": "AMD Ryzen 7 350",
+    "cpuBrand": "AMD",
+    "gpu": "NVIDIA GeForce RTX 5060 Laptop GPU 8 GB",
+    "ramGb": 16,
+    "storageTb": 1,
+    "displayIn": 16,
+    "display": "16\" WUXGA (1920x1200) IPS 180 Hz",
+    "weightKg": 2.18,
+    "os": "Windows 11 Home",
+    "configurations": "Ryzen 7 350 / RTX 5060 / 1 TB (AN16S-61-R7YL) – $1,499.99 · AN16S-61-R5FY – $1,849.99",
+    "colors": "Black"
+   }
+  },
+  {
+   "sku": "TK-ACER-SFX14-73G",
+   "slug": "acer-swift-x-14-sfx14-73g",
+   "name": "Acer Swift X 14 (SFX14-73G)",
+   "brand": "Acer",
+   "category": "creator-laptops",
+   "price": "1599.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    51,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "creator-workstations"
+   ],
+   "summary": "14.5-inch creator laptop with Core Ultra 7 255H, GeForce RTX 5050 and a 2.8K 120 Hz touchscreen.",
+   "description": "The Swift X 14 SFX14-73G-71XL combines an Intel Core Ultra 7 255H with an NVIDIA GeForce RTX 5050 Laptop GPU (8 GB). It has 16 GB LPDDR5X, a 1 TB SSD, a 14.5-inch 2880x1800 120 Hz touchscreen and ships with a stylus, in a 3.48 lb Titanium Gray chassis.",
+   "keywords": "swift x creator laptop rtx 5050 touchscreen stylus",
+   "specs": {
+    "cpu": "Intel Core Ultra 7 255H",
+    "cpuBrand": "Intel",
+    "gpu": "NVIDIA GeForce RTX 5050 Laptop GPU 8 GB",
+    "ramGb": 16,
+    "storageTb": 1,
+    "displayIn": 14.5,
+    "display": "14.5\" WQXGA+ (2880x1800) 120 Hz touchscreen",
+    "weightKg": 1.58,
+    "os": "Windows 11 Home",
+    "wireless": "Intel Killer Wi-Fi 6E AX1675i",
+    "colors": "Titanium Gray"
+   }
+  },
+  {
+   "sku": "TK-ACER-SFG16-I71T",
+   "slug": "acer-swift-go-16-ai-sfg16-i71t",
+   "name": "Acer Swift Go 16 AI (SFG16-I71T)",
+   "brand": "Acer",
+   "category": "premium-laptops",
+   "price": "1699.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    37,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "premium-laptops"
+   ],
+   "summary": "16-inch thin-and-light touchscreen laptop with Intel Core Ultra 7 355, 32 GB memory and Wi-Fi 7.",
+   "description": "The Swift Go 16 AI SFG16-I71T-79Q6 runs an Intel Core Ultra 7 355 (Series 3) with 32 GB LPDDR5X and a 1 TB SSD. It has a 16-inch 1920x1200 touchscreen, Intel Wi-Fi 7 BE211 and weighs 3 lb.",
+   "keywords": "swift go 16 panther lake core ultra series 3 thin light",
+   "specs": {
+    "cpu": "Intel Core Ultra 7 355",
+    "cpuBrand": "Intel",
+    "gpu": "Intel Graphics",
+    "ramGb": 32,
+    "storageTb": 1,
+    "displayIn": 16,
+    "display": "16\" WUXGA (1920x1200) touchscreen, glossy",
+    "weightKg": 1.36,
+    "os": "Windows 11 Home",
+    "wireless": "Intel Wi-Fi 7 BE211",
+    "colors": "Vapor Silver"
+   }
+  },
+  {
+   "sku": "TK-ACER-CB314-2H",
+   "slug": "acer-chromebook-314-cboa314-2h",
+   "name": "Acer Chromebook 314 (CBOA314-2H)",
+   "brand": "Acer",
+   "category": "chromebooks",
+   "price": "349.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    29,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [],
+   "summary": "14-inch ChromeOS laptop with an octa-core MediaTek processor and a 1920x1200 display.",
+   "description": "The Chromebook 314 CBOA314-2H-8878 runs ChromeOS on an octa-core MediaTek MT8189 processor with 4 GB LPDDR5X and 64 GB eMMC storage, with a 14-inch 1920x1200 IPS display.",
+   "keywords": "chromebook chromeos student laptop",
+   "specs": {
+    "cpu": "MediaTek MT8189 (octa-core)",
+    "cpuBrand": "MediaTek",
+    "gpu": "MediaTek integrated",
+    "ramGb": 4,
+    "storageTb": 0.064,
+    "displayIn": 14,
+    "display": "14\" WUXGA (1920x1200) IPS",
+    "os": "ChromeOS",
+    "colors": "Moonlight Silver"
+   }
+  },
+  {
+   "sku": "TK-ACER-PO6-605",
+   "slug": "acer-predator-orion-6000-po6-605",
+   "name": "Acer Predator Orion 6000 (PO6-605)",
+   "brand": "Acer",
+   "category": "gaming-desktops",
+   "price": "3599.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    16,
+    3
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "dream-gaming"
+   ],
+   "summary": "Gaming desktop with Intel Core Ultra 9 285K, GeForce RTX 5080 and an 850 W 80 Plus Gold PSU.",
+   "description": "The Predator Orion 6000 PO6-605-UR18W pairs an Intel Core Ultra 9 285K (up to 5.7 GHz) with an NVIDIA GeForce RTX 5080. It ships with 32 GB DDR5, a 1 TB M.2 PCIe Gen4 SSD, Wi-Fi 7, Bluetooth 5.4 and an 850 W 80 Plus Gold power supply in a white chassis.",
+   "keywords": "predator orion rtx 5080 prebuilt gaming pc",
+   "specs": {
+    "cpu": "Intel Core Ultra 9 285K",
+    "cpuBrand": "Intel",
+    "gpu": "NVIDIA GeForce RTX 5080",
+    "ramGb": 32,
+    "storageTb": 1,
+    "os": "Windows 11 Home",
+    "networking": "Realtek Ethernet, Wi-Fi 7, Bluetooth 5.4",
+    "psuW": 850,
+    "colors": "White"
+   }
+  },
+  {
+   "sku": "TK-ACER-PREDX27UF5",
+   "slug": "acer-predator-x27u-f5",
+   "name": "Acer Predator X27U F5",
+   "brand": "Acer",
+   "category": "gaming-monitors",
+   "price": "799.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    53,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "oled-displays"
+   ],
+   "summary": "26.5-inch QD-OLED WQHD gaming monitor running at 500 Hz.",
+   "description": "The Predator X27U F5 is a 26.5-inch 2560x1440 QD-OLED gaming monitor with a 500 Hz refresh rate, 0.03 ms (GtG) response and up to 1000 nits peak brightness. It supports AMD FreeSync Premium Pro and has two HDMI 2.1 ports, DisplayPort and USB-C.",
+   "keywords": "predator 500hz qd-oled esports monitor",
+   "specs": {
+    "sizeIn": 26.5,
+    "resolution": "2560x1440 (WQHD)",
+    "refreshHz": 500,
+    "panel": "QD-OLED",
+    "inputs": "2x HDMI 2.1, DisplayPort, USB-C"
+   }
+  },
+  {
+   "sku": "TK-ACER-PREDX34X5",
+   "slug": "acer-predator-x34-x5",
+   "name": "Acer Predator X34 X5",
+   "brand": "Acer",
+   "category": "ultrawide-monitors",
+   "price": "999.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    30,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "oled-displays"
+   ],
+   "summary": "34-inch curved OLED UWQHD ultrawide gaming monitor at 240 Hz.",
+   "description": "The Predator X34 X5 is a 34-inch curved OLED ultrawide with a 3440x1440 resolution, a 240 Hz refresh rate and 0.03 ms (GtG) response. It supports AMD FreeSync Premium and has two HDMI 2.1 ports, DisplayPort and USB-C.",
+   "keywords": "predator ultrawide oled 34 inch curved 240hz",
+   "specs": {
+    "sizeIn": 34,
+    "resolution": "3440x1440 (UWQHD)",
+    "refreshHz": 240,
+    "panel": "OLED (curved)",
+    "inputs": "2x HDMI 2.1, DisplayPort, USB-C"
+   }
+  },
+  {
+   "sku": "TK-ACER-PREDX49X",
+   "slug": "acer-predator-x49-x",
+   "name": "Acer Predator X49 X",
+   "brand": "Acer",
+   "category": "ultrawide-monitors",
+   "price": "1299.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    35,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [],
+   "summary": "49-inch curved Dual QHD 240 Hz super-ultrawide gaming monitor with 1000-nit peak brightness.",
+   "description": "The Predator X49 X is a 49-inch curved 32:9 gaming monitor with a 5120x1440 (Dual QHD) resolution, 240 Hz refresh rate, 0.03 ms (GtG) response and up to 1000 nits brightness. Inputs are HDMI 2.1, DisplayPort and USB-C.",
+   "keywords": "predator 49 inch super ultrawide 32:9 240hz",
+   "specs": {
+    "sizeIn": 49,
+    "resolution": "5120x1440 (Dual QHD)",
+    "refreshHz": 240,
+    "inputs": "1x HDMI 2.1, DisplayPort, USB-C"
+   }
+  },
+  {
+   "sku": "TK-ACER-PREDXB273UF5",
+   "slug": "acer-predator-xb273u-f5",
+   "name": "Acer Predator XB273U F5",
+   "brand": "Acer",
+   "category": "gaming-monitors",
+   "price": "649.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    55,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [],
+   "summary": "27-inch QHD IPS esports monitor at up to 360 Hz over DisplayPort.",
+   "description": "The Predator XB3 XB273U F5 is a 27-inch 2560x1440 IPS gaming monitor that reaches 360 Hz over DisplayPort (120 Hz over HDMI), with 0.5 ms response and 400 nits brightness. It has two HDMI 2.1 ports and DisplayPort.",
+   "keywords": "predator xb3 360hz ips esports monitor",
+   "specs": {
+    "sizeIn": 27,
+    "resolution": "2560x1440 (QHD)",
+    "refreshHz": 360,
+    "panel": "IPS",
+    "inputs": "2x HDMI 2.1, DisplayPort"
+   }
+  },
+  {
+   "sku": "TK-GIGA-AORUSM16AM6J",
+   "slug": "aorus-master-16-am6j",
+   "name": "AORUS MASTER 16 Gen 2 (AM6J)",
+   "brand": "AORUS",
+   "category": "gaming-laptops",
+   "price": "4499.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    10,
+    3
+   ],
+   "featured": true,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "gaming-monsters",
+    "dream-gaming"
+   ],
+   "summary": "16-inch flagship gaming laptop with Ryzen 9 9955HX3D, RTX 5090 Laptop GPU and a 240 Hz OLED display.",
+   "description": "The AORUS MASTER 16 Gen 2 (AM6J) pairs the AMD Ryzen 9 9955HX3D (16 cores, 128 MB cache) with an NVIDIA GeForce RTX 5090 Laptop GPU (24 GB GDDR7, 175 W max graphics power). Its 16-inch 2560x1600 OLED runs at 240 Hz with 100% DCI-P3, VESA DisplayHDR True Black 1000 and a MUX switch; memory goes up to 64 GB DDR5 across two SO-DIMMs, with Gen5 + Gen4 M.2 slots, Wi-Fi 7 and a 99 Wh battery.",
+   "keywords": "aorus master rtx 5090 oled 9955hx3d gaming laptop",
+   "specs": {
+    "cpu": "AMD Ryzen 9 9955HX3D",
+    "cpuBrand": "AMD",
+    "gpu": "NVIDIA GeForce RTX 5090 Laptop GPU 24 GB GDDR7 (175 W)",
+    "displayIn": 16,
+    "display": "16\" WQXGA (2560x1600) OLED 240 Hz, 100% DCI-P3, DisplayHDR True Black 1000",
+    "batteryWh": 99,
+    "weightKg": 2.3,
+    "os": "Windows 11 Pro / Home",
+    "ports": "USB4 Type-C (DP 1.4, PD 3.0), HDMI 2.1, USB-A 3.2 Gen2, RJ-45",
+    "wireless": "Wi-Fi 7, Bluetooth 5.4",
+    "colors": "5-degree Black"
+   }
+  },
+  {
+   "sku": "TK-GIGA-AORUSM18AM8H",
+   "slug": "aorus-master-18-am8h",
+   "name": "AORUS MASTER 18 (AM8H)",
+   "brand": "AORUS",
+   "category": "gaming-laptops",
+   "price": "4999.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    13,
+    3
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "gaming-monsters"
+   ],
+   "summary": "18-inch gaming laptop with Core Ultra 9 275HX, RTX 5090 Laptop GPU and a 240 Hz Mini LED display.",
+   "description": "The AORUS MASTER 18 (AM8H) combines an Intel Core Ultra 9 275HX with an NVIDIA GeForce RTX 5090 Laptop GPU (24 GB GDDR7, 175 W). The 18-inch 2560x1600 Mini LED panel runs at 240 Hz with 2,304 dimming zones and 1200 nits; four SO-DIMM sockets support up to 128 GB DDR5, and it has Wi-Fi 7, 2.5 GbE and a 99 Wh battery.",
+   "keywords": "aorus master 18 mini led rtx 5090 gaming laptop",
+   "specs": {
+    "cpu": "Intel Core Ultra 9 275HX",
+    "cpuBrand": "Intel",
+    "gpu": "NVIDIA GeForce RTX 5090 Laptop GPU 24 GB GDDR7 (175 W)",
+    "displayIn": 18,
+    "display": "18\" WQXGA (2560x1600) Mini LED 240 Hz, 2,304 zones, 1200 nits, 100% DCI-P3",
+    "batteryWh": 99,
+    "weightKg": 3.5,
+    "os": "Windows 11",
+    "wireless": "Wi-Fi 7, Bluetooth 5.4, 2.5GbE LAN",
+    "colors": "5-degree Black"
+   }
+  },
+  {
+   "sku": "TK-GIGA-A18PROGA8J",
+   "slug": "gigabyte-gaming-a18-pro-ga8j",
+   "name": "GIGABYTE GAMING A18 PRO (GA8J)",
+   "brand": "GIGABYTE",
+   "category": "gaming-laptops",
+   "price": "2599.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    29,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [],
+   "summary": "18-inch gaming laptop with Intel Core 7 240H, GeForce RTX 5080 Laptop GPU and a 165 Hz WQXGA display.",
+   "description": "The GIGABYTE GAMING A18 PRO (GA8J) uses an Intel Core 7 240H with an NVIDIA GeForce RTX 5080 Laptop GPU (16 GB GDDR7) and 32 GB LPDDR5X. It has an 18-inch 2560x1600 IPS display at 165 Hz with 100% DCI-P3 and a MUX switch, two Gen4 M.2 slots, Wi-Fi 6E and a 76 Wh battery.",
+   "keywords": "gigabyte gaming a18 pro rtx 5080 18 inch",
+   "specs": {
+    "cpu": "Intel Core 7 240H",
+    "cpuBrand": "Intel",
+    "gpu": "NVIDIA GeForce RTX 5080 Laptop GPU 16 GB GDDR7",
+    "ramGb": 32,
+    "displayIn": 18,
+    "display": "18\" WQXGA (2560x1600) IPS 165 Hz, 100% DCI-P3, MUX switch",
+    "batteryWh": 76,
+    "weightKg": 2.9,
+    "os": "Windows 11",
+    "wireless": "Wi-Fi 6E, Bluetooth 5.3",
+    "colors": "Titanium Black"
+   }
+  },
+  {
+   "sku": "TK-GIGA-AEROX16EG64H",
+   "slug": "gigabyte-aero-x16-eg64h",
+   "name": "GIGABYTE AERO X16 (EG64H)",
+   "brand": "GIGABYTE",
+   "category": "creator-laptops",
+   "price": "2099.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    14,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "creator-workstations"
+   ],
+   "summary": "Thin 16-inch Copilot+ creator laptop with Ryzen AI 9 465 and GeForce RTX 5070 Laptop GPU.",
+   "description": "The AERO X16 (EG64H) is a 1.9 kg Copilot+ PC with an AMD Ryzen AI 9 465 and an NVIDIA GeForce RTX 5070 Laptop GPU (8 GB GDDR7). Its 16-inch 2560x1600 IPS display runs at 165 Hz with 100% sRGB and Pantone validation; memory goes up to 64 GB DDR5 and it has a 76 Wh battery.",
+   "keywords": "aero x16 copilot+ creator laptop ryzen ai",
+   "specs": {
+    "cpu": "AMD Ryzen AI 9 465",
+    "cpuBrand": "AMD",
+    "gpu": "NVIDIA GeForce RTX 5070 Laptop GPU 8 GB GDDR7",
+    "displayIn": 16,
+    "display": "16\" WQXGA (2560x1600) IPS 165 Hz, 100% sRGB, 500 nits, Pantone Validated",
+    "batteryWh": 76,
+    "weightKg": 1.9,
+    "os": "Windows 11",
+    "wireless": "Wi-Fi 6E, Bluetooth 5.3",
+    "colors": "Lunar White, Space Gray"
+   }
+  },
+  {
+   "sku": "TK-GIGA-X870EXTRX3D",
+   "slug": "gigabyte-x870e-aorus-xtreme-x3d-ai-top",
+   "name": "GIGABYTE X870E AORUS XTREME X3D AI TOP",
+   "brand": "GIGABYTE",
+   "category": "motherboards",
+   "price": "1099.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    49,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "ultimate-gaming-setup",
+    "ai-workstations"
+   ],
+   "summary": "Flagship E-ATX AM5 motherboard for Ryzen X3D with dual 10 GbE and Wi-Fi 7.",
+   "description": "The X870E AORUS XTREME X3D AI TOP is an E-ATX AM5 board built around AMD Ryzen X3D processors with X3D Turbo Mode 2.0. It has four DDR5 DIMM slots supporting up to 256 GB and 9000 MT/s (OC), two Realtek 10GbE LAN controllers, MediaTek Wi-Fi 7 and dual USB4 Type-C.",
+   "keywords": "aorus xtreme x870e x3d ai top am5 flagship",
+   "specs": {
+    "socket": "AM5",
+    "chipset": "AMD X870E",
+    "formFactor": "E-ATX",
+    "memoryType": "DDR5",
+    "memorySlots": 4,
+    "maxMemoryGb": 256,
+    "wifi": "Wi-Fi 7 (MediaTek MT7927)",
+    "lan": "2x 10GbE (Realtek)"
+   }
+  },
+  {
+   "sku": "TK-GIGA-X870EMASTX3D",
+   "slug": "gigabyte-x870e-aorus-master-x3d",
+   "name": "GIGABYTE X870E AORUS MASTER X3D",
+   "brand": "GIGABYTE",
+   "category": "motherboards",
+   "price": "549.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    54,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [],
+   "summary": "ATX AM5 motherboard tuned for Ryzen X3D with 10 GbE + 5 GbE and Wi-Fi 7.",
+   "description": "The X870E AORUS MASTER X3D is an ATX AM5 board with four DDR5 DIMM slots (up to 256 GB), a Realtek 5GbE plus a Realtek 10GbE LAN, and MediaTek Wi-Fi 7, with GIGABYTE's X3D Turbo Mode tuning for Ryzen X3D processors.",
+   "keywords": "aorus master x870e x3d am5 motherboard",
+   "specs": {
+    "socket": "AM5",
+    "chipset": "AMD X870E",
+    "formFactor": "ATX",
+    "memoryType": "DDR5",
+    "memorySlots": 4,
+    "maxMemoryGb": 256,
+    "wifi": "Wi-Fi 7 (MediaTek MT7927)",
+    "lan": "10GbE + 5GbE (Realtek)"
+   }
+  },
+  {
+   "sku": "TK-GIGA-Z890MASTER",
+   "slug": "gigabyte-z890-aorus-master",
+   "name": "GIGABYTE Z890 AORUS MASTER",
+   "brand": "GIGABYTE",
+   "category": "motherboards",
+   "price": "599.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    55,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [],
+   "summary": "ATX LGA 1851 motherboard with Z890, 10 GbE and Wi-Fi 7 for Intel Core Ultra desktop CPUs.",
+   "description": "The Z890 AORUS MASTER is an ATX board for Intel Core Ultra (LGA 1851) processors on the Z890 chipset. It has four DDR5 DIMM slots supporting up to 256 GB and up to 9500 MT/s (OC), a Marvell AQtion AQC113C 10GbE LAN and Intel Wi-Fi 7 BE200.",
+   "keywords": "aorus master z890 lga1851 intel motherboard",
+   "specs": {
+    "socket": "LGA 1851",
+    "chipset": "Intel Z890",
+    "formFactor": "ATX",
+    "memoryType": "DDR5",
+    "memorySlots": 4,
+    "maxMemoryGb": 256,
+    "wifi": "Intel Wi-Fi 7 BE200",
+    "lan": "10GbE (Marvell AQtion AQC113C)"
+   }
+  },
+  {
+   "sku": "TK-GIGA-RTX5090AORUSM",
+   "slug": "gigabyte-aorus-geforce-rtx-5090-master-32g",
+   "name": "AORUS GeForce RTX 5090 MASTER 32G",
+   "brand": "AORUS",
+   "category": "gpus",
+   "price": "5199.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    13,
+    3
+   ],
+   "featured": true,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "dream-gpus",
+    "ai-workstations"
+   ],
+   "summary": "Flagship air-cooled GeForce RTX 5090 with 32 GB GDDR7 and a 2655 MHz boost clock.",
+   "description": "The AORUS GeForce RTX 5090 MASTER 32G (GV-N5090AORUS-M-32GD) has 21,760 CUDA cores, 32 GB of GDDR7 on a 512-bit bus and a 2655 MHz core clock (reference 2407 MHz). The 360 mm card uses a single 16-pin connector, outputs three DisplayPort 2.1b and one HDMI 2.1b, and GIGABYTE recommends a 1000 W PSU.",
+   "keywords": "aorus rtx 5090 master gpu",
+   "specs": {
+    "chipset": "NVIDIA GeForce RTX 5090",
+    "architecture": "NVIDIA Blackwell",
+    "vramGb": 32,
+    "memoryType": "GDDR7",
+    "interface": "PCIe 5.0",
+    "recommendedPsuW": 1000,
+    "lengthMm": 360
+   }
+  },
+  {
+   "sku": "TK-GIGA-RTX5080AORUSM",
+   "slug": "gigabyte-aorus-geforce-rtx-5080-master-16g",
+   "name": "AORUS GeForce RTX 5080 MASTER 16G",
+   "brand": "AORUS",
+   "category": "gpus",
+   "price": "1899.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    21,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "dream-gpus"
+   ],
+   "summary": "Premium GeForce RTX 5080 with 16 GB GDDR7 and a 2805 MHz boost clock.",
+   "description": "The AORUS GeForce RTX 5080 MASTER 16G (GV-N5080AORUS-M-16GD) carries 16 GB of GDDR7 on a 256-bit bus with a 2805 MHz core clock (reference 2617 MHz). It is a 360 mm card with a 16-pin power connector, and GIGABYTE recommends an 850 W PSU.",
+   "keywords": "aorus rtx 5080 master gpu",
+   "specs": {
+    "chipset": "NVIDIA GeForce RTX 5080",
+    "architecture": "NVIDIA Blackwell",
+    "vramGb": 16,
+    "memoryType": "GDDR7",
+    "interface": "PCIe 5.0",
+    "recommendedPsuW": 850,
+    "lengthMm": 360
+   }
+  },
+  {
+   "sku": "TK-GIGA-RTX5070TIWFSFF",
+   "slug": "gigabyte-geforce-rtx-5070-ti-windforce-oc-sff-16g",
+   "name": "GIGABYTE GeForce RTX 5070 Ti WINDFORCE OC SFF 16G",
+   "brand": "GIGABYTE",
+   "category": "gpus",
+   "price": "1149.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    28,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [],
+   "summary": "SFF-ready triple-fan GeForce RTX 5070 Ti with 16 GB GDDR7.",
+   "description": "The GeForce RTX 5070 Ti WINDFORCE OC SFF 16G (GV-N507TWF3OC-16GD) is a 304 mm, triple-fan card with 16 GB of GDDR7 on a 256-bit bus and a 2497 MHz core clock (reference 2452 MHz). GIGABYTE recommends a 750 W PSU.",
+   "keywords": "windforce rtx 5070 ti sff gpu",
+   "specs": {
+    "chipset": "NVIDIA GeForce RTX 5070 Ti",
+    "architecture": "NVIDIA Blackwell",
+    "vramGb": 16,
+    "memoryType": "GDDR7",
+    "interface": "PCIe 5.0",
+    "recommendedPsuW": 750,
+    "lengthMm": 304
+   }
+  },
+  {
+   "sku": "TK-GIGA-AORUSFO27Q5P",
+   "slug": "aorus-fo27q5p",
+   "name": "AORUS FO27Q5P",
+   "brand": "AORUS",
+   "category": "gaming-monitors",
+   "price": "799.00",
+   "compareAt": null,
+   "warranty": 36,
+   "stock": [
+    22,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "oled-displays"
+   ],
+   "summary": "27-inch QHD QD-OLED gaming monitor at 500 Hz with DisplayPort 2.1 UHBR20.",
+   "description": "The AORUS FO27Q5P is a 27-inch 2560x1440 QD-OLED monitor with a 500 Hz refresh rate, 0.03 ms (GtG) response, 99% DCI-P3 and VESA DisplayHDR True Black 500. Inputs include two HDMI 2.1, DisplayPort 2.1 UHBR20, Mini DP 2.1 UHBR20 and USB-C.",
+   "keywords": "aorus 500hz qd-oled dp 2.1 uhbr20",
+   "specs": {
+    "sizeIn": 27,
+    "resolution": "2560x1440 (QHD)",
+    "refreshHz": 500,
+    "panel": "QD-OLED",
+    "hdr": "VESA DisplayHDR True Black 500",
+    "colorGamut": "99% DCI-P3",
+    "inputs": "2x HDMI 2.1, DP 2.1 UHBR20, Mini DP 2.1 UHBR20, USB-C (PD 18 W)",
+    "usbCPowerW": 18
+   }
+  },
+  {
+   "sku": "TK-GIGA-AORUSFO32U2P",
+   "slug": "aorus-fo32u2p",
+   "name": "AORUS FO32U2P",
+   "brand": "AORUS",
+   "category": "gaming-monitors",
+   "price": "1099.00",
+   "compareAt": null,
+   "warranty": 36,
+   "stock": [
+    15,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "oled-displays"
+   ],
+   "summary": "31.5-inch 4K QD-OLED gaming monitor at 240 Hz with DisplayPort 2.1 UHBR20 and 65 W USB-C.",
+   "description": "The AORUS FO32U2P is a 31.5-inch 3840x2160 OLED monitor at 240 Hz with 0.03 ms (GtG) response, 99% DCI-P3 and VESA DisplayHDR True Black 400. It has two HDMI 2.1, DisplayPort 2.1 UHBR20, Mini DP 2.1 and USB-C with 65 W Power Delivery.",
+   "keywords": "aorus 4k 240hz oled 32 inch uhbr20",
+   "specs": {
+    "sizeIn": 31.5,
+    "resolution": "3840x2160 (UHD)",
+    "refreshHz": 240,
+    "panel": "OLED",
+    "hdr": "VESA DisplayHDR True Black 400",
+    "colorGamut": "99% DCI-P3",
+    "inputs": "2x HDMI 2.1, DP 2.1 UHBR20, Mini DP 2.1 UHBR20, USB-C (PD 65 W)",
+    "usbCPowerW": 65
+   }
+  },
+  {
+   "sku": "TK-GIGA-AITOPATOM",
+   "slug": "gigabyte-ai-top-atom",
+   "name": "GIGABYTE AI TOP ATOM",
+   "brand": "GIGABYTE",
+   "category": "ai-systems",
+   "price": "5999.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    15,
+    3
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "ai-lab",
+    "ai-workstations"
+   ],
+   "summary": "1-liter personal AI supercomputer on NVIDIA GB10 Grace Blackwell with 128 GB unified memory and ConnectX-7.",
+   "description": "The AI TOP ATOM is built on the NVIDIA GB10 Grace Blackwell Superchip: a 20-core Arm CPU (10 Cortex-X925 + 10 Cortex-A725) and a Blackwell GPU sharing 128 GB of LPDDR5X unified memory at 273 GB/s, rated at up to 1 petaFLOP of AI performance. It has a 4 TB PCIe 5.0 SSD, 10GbE, Wi-Fi 7 and two 200 Gb/s QSFP ports (ConnectX-7) for linking two units, and runs NVIDIA DGX OS.",
+   "keywords": "ai top atom gb10 dgx spark grace blackwell",
+   "specs": {
+    "formFactor": "1 L compact desktop (150 x 150 x 50.5 mm)",
+    "cpu": "20-core Arm (10x Cortex-X925 + 10x Cortex-A725)",
+    "gpus": "NVIDIA GB10 Grace Blackwell Superchip (Blackwell GPU)",
+    "memoryGb": 128,
+    "aiPerformance": "Up to 1 petaFLOP (FP4)",
+    "storage": "4 TB M.2 NVMe PCIe 5.0",
+    "network": "10GbE, 2x QSFP 200 Gb/s (ConnectX-7), Wi-Fi 7",
+    "powerKw": 0.24
+   }
+  },
+  {
+   "sku": "TK-GIGA-G893ZD1AAX5",
+   "slug": "gigabyte-g893-zd1-aax5-hgx-b200-server",
+   "name": "GIGABYTE G893-ZD1-AAX5 HGX B200 GPU Server",
+   "brand": "GIGABYTE",
+   "category": "ai-systems",
+   "price": "450000.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    5,
+    2
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "enterprise-servers",
+    "ai-lab"
+   ],
+   "summary": "8U dual-socket AMD EPYC 9005 server with an 8-GPU NVIDIA HGX B200 baseboard.",
+   "description": "The G893-ZD1-AAX5 (Giga Computing) is an 8U HPC/AI server for two AMD EPYC 9005/9004 processors (SP5, cTDP up to 500 W) with 24 DDR5 RDIMM slots and an NVIDIA HGX B200 board carrying eight SXM GPUs. It has eight front hot-swap 2.5-inch Gen5 NVMe bays, 12 PCIe Gen5 x16 FHHL slots, dual 10 GbE and 6+6 3000 W 80 PLUS Titanium redundant power supplies.",
+   "keywords": "hgx b200 8u gpu server epyc giga computing",
+   "specs": {
+    "formFactor": "8U rack",
+    "cpu": "2x AMD EPYC 9005/9004 (SP5, up to 500 W cTDP)",
+    "gpus": "NVIDIA HGX B200, 8x SXM GPUs",
+    "storage": "8x 2.5\" Gen5 NVMe hot-swap, 1x M.2",
+    "network": "2x 10GbE (Intel X710-AT2) + management LAN"
+   }
+  }
+ ]
+}
