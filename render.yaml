@@ -1,7 +1,23 @@
-# Render Blueprint for the TrustKart API (Dashboard → New → Blueprint → pick this repository).
-# The website itself is on Vercel; vercel.json forwards /api/* to this service.
-# Values marked `sync: false` are secrets: Render asks for them when you create the Blueprint.
+# Render Blueprint: the TrustKart API, its PostgreSQL database and its Redis (Key Value) instance, wired together.
+# Dashboard → New → Blueprint → pick this repository → Apply. No secrets to type: Render connects the pieces.
+# The website itself is on Vercel; vercel.json forwards /api/* to the API service below.
+databases:
+  - name: trustkart-db
+    plan: free            # free Render Postgres expires after 30 days; upgrade or move it before then
+    region: oregon
+    postgresMajorVersion: "17"
+    databaseName: trustkart
+    user: trustkart
+    ipAllowList: []       # reachable only from Render services, never from the internet
+
 services:
+  - type: keyvalue
+    name: trustkart-redis
+    plan: free
+    region: oregon
+    maxmemoryPolicy: allkeys-lru
+    ipAllowList: []       # internal only
+
   - type: web
     name: trustkart-api
     runtime: docker
@@ -18,28 +34,22 @@ services:
       # (about 420 MB used, no out-of-memory).
       - key: JAVA_TOOL_OPTIONS
         value: -XX:MaxRAMPercentage=60 -XX:+UseSerialGC -Xss512k -XX:ReservedCodeCacheSize=64m -XX:MaxMetaspaceSize=192m -XX:+ExitOnOutOfMemoryError
-      # PostgreSQL (e.g. Neon). Use the direct host, not the "-pooler" one, and keep sslmode=require:
-      # jdbc:postgresql://<host>/<database>?sslmode=require
-      - key: TRUSTKART_DB_URL
-        sync: false
+      - key: TRUSTKART_DB_HOST
+        fromDatabase: { name: trustkart-db, property: host }
+      - key: TRUSTKART_DB_PORT
+        fromDatabase: { name: trustkart-db, property: port }
+      - key: TRUSTKART_DB_NAME
+        fromDatabase: { name: trustkart-db, property: database }
       - key: TRUSTKART_DB_USER
-        sync: false
+        fromDatabase: { name: trustkart-db, property: user }
       - key: TRUSTKART_DB_PASSWORD
-        sync: false
-      # Free database plans allow few connections.
+        fromDatabase: { name: trustkart-db, property: password }
       - key: TRUSTKART_DB_POOL_SIZE
         value: "5"
-      # Redis (e.g. Upstash): endpoint host, port 6379, username "default", password; TLS on.
       - key: TRUSTKART_REDIS_HOST
-        sync: false
+        fromService: { type: keyvalue, name: trustkart-redis, property: host }
       - key: TRUSTKART_REDIS_PORT
-        value: "6379"
-      - key: TRUSTKART_REDIS_USERNAME
-        value: default
-      - key: TRUSTKART_REDIS_PASSWORD
-        sync: false
-      - key: TRUSTKART_REDIS_SSL
-        value: "true"
+        fromService: { type: keyvalue, name: trustkart-redis, property: port }
       # Signs login tokens; Render generates a random value once.
       - key: TRUSTKART_JWT_SECRET
         generateValue: true
