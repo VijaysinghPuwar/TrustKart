@@ -4,6 +4,11 @@ title = "TrustKart gitleaks config"
 useDefault = true
 
 [allowlist]
-description = "Documented placeholders, not secrets"
+description = "Documented placeholders and the weak-password denylist, not secrets"
 regexes = ['''change-me-[a-z0-9-]+''']
-paths = ['''\.env\.example$''', '''frontend/package-lock\.json$''']
+paths = [
+  '''\.env\.example$''',
+  '''frontend/package-lock\.json$''',
+  # Well-known weak passwords the app refuses; flagged as generic keys by entropy.
+  '''auth/application/PasswordPolicy\.java$''',
+]
