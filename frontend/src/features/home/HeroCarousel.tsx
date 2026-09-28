@@ -83,6 +83,7 @@ export function HeroCarousel({ slides }: { slides: ProductCard[] | undefined }) 
   if (!slides) return <Skeleton className="h-[420px] rounded-tile sm:h-[360px]" />
   if (count === 0) return null
   const p = slides[Math.min(index, count - 1)]
+  if (!p) return null
 
   return (
     <section

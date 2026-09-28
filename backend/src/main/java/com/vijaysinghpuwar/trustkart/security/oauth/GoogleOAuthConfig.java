@@ -19,11 +19,15 @@ class GoogleOAuthConfig {
     @Bean
     ClientRegistrationRepository clientRegistrationRepository(
             @Value("${trustkart.oauth.google.client-id}") String clientId,
-            @Value("${trustkart.oauth.google.client-secret}") String clientSecret) {
+            @Value("${trustkart.oauth.google.client-secret}") String clientSecret,
+            @Value("${trustkart.public-origin:}") String publicOrigin) {
+        // Behind a hosting proxy (e.g. a Vercel rewrite) the backend sees its own host, not the one the browser used,
+        // so the callback must be pinned to the public origin; locally {baseUrl} resolves correctly on its own.
+        String base = publicOrigin.isBlank() ? "{baseUrl}" : publicOrigin.replaceAll("/+$", "");
         return new InMemoryClientRegistrationRepository(CommonOAuth2Provider.GOOGLE.getBuilder("google")
                 .clientId(clientId)
                 .clientSecret(clientSecret)
-                .redirectUri("{baseUrl}/api/v1/auth/oauth2/callback/{registrationId}")
+                .redirectUri(base + "/api/v1/auth/oauth2/callback/{registrationId}")
                 .scope("openid", "profile", "email")
                 .build());
     }

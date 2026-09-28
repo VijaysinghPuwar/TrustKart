@@ -39,6 +39,11 @@ server:
   # Tomcat's RemoteIpValve only honours X-Forwarded-For from internal proxies (private ranges by default),
   # so clients can't spoof their IP to dodge rate limits.
   forward-headers-strategy: native
+  tomcat:
+    remoteip:
+      # Proxies whose X-Forwarded-* headers are believed. Defaults to private ranges; a hosted deployment behind an
+      # edge proxy sets TRUSTKART_TRUSTED_PROXIES to that proxy's address pattern (see docs/DEPLOYMENT.md).
+      internal-proxies: ${TRUSTKART_TRUSTED_PROXIES:10\.\d{1,3}\.\d{1,3}\.\d{1,3}|192\.168\.\d{1,3}\.\d{1,3}|169\.254\.\d{1,3}\.\d{1,3}|127\.\d{1,3}\.\d{1,3}\.\d{1,3}|100\.6[4-9]\.\d{1,3}\.\d{1,3}|100\.[7-9]\d\.\d{1,3}\.\d{1,3}|100\.1[0-1]\d\.\d{1,3}\.\d{1,3}|100\.12[0-7]\.\d{1,3}\.\d{1,3}|172\.1[6-9]\.\d{1,3}\.\d{1,3}|172\.2\d\.\d{1,3}\.\d{1,3}|172\.3[0-1]\.\d{1,3}\.\d{1,3}|0:0:0:0:0:0:0:1|::1}
   error:
     include-stacktrace: never
     include-message: never
@@ -83,6 +88,9 @@ trustkart:
       # <frontend origin>/api/v1/auth/oauth2/callback/google
       client-id: ${GOOGLE_CLIENT_ID:}
       client-secret: ${GOOGLE_CLIENT_SECRET:}
+  # The origin browsers use, e.g. https://trustkart.vercel.app. Pins the Google sign-in callback when the API is
+  # reached through a hosting proxy. Empty locally.
+  public-origin: ${TRUSTKART_PUBLIC_ORIGIN:}
   cors:
     allowed-origins: ${TRUSTKART_ALLOWED_ORIGINS:http://localhost:5173}
   demo:
