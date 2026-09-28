@@ -1,0 +1,81 @@
+{
+ "meta": {
+  "notes": "Researched products parked until an official, professional product image can be sourced."
+ },
+ "products": [
+  {
+   "sku": "TK-MSI-INFINITEZS",
+   "slug": "msi-infinite-zs",
+   "name": "MSI Infinite ZS",
+   "brand": "MSI",
+   "category": "gaming-desktops",
+   "price": "7799.00",
+   "priceBasis": "msrp",
+   "priceSource": "https://us-store.msi.com/Desktops/gaming-pcs/infinite-series/Infinite-ZS-9NVZ-2261US",
+   "priceAsOf": "2026-09-28",
+   "releaseYear": 2025,
+   "summary": "Gaming desktop with AMD Ryzen 9 9950X3D, GeForce RTX 5090 32 GB and a 1300 W PSU.",
+   "description": "The Infinite ZS 9NVZ-2261US pairs an AMD Ryzen 9 9950X3D (360 mm liquid cooler) with a GeForce RTX 5090 32 GB GDDR7. It ships with 32 GB DDR5, a 2 TB M.2 NVMe SSD, 2.5 GbE, Wi-Fi 7 and a 1300 W power supply.",
+   "specs": {
+    "cpu": "AMD Ryzen 9 9950X3D",
+    "cpuBrand": "AMD",
+    "gpu": "NVIDIA GeForce RTX 5090 32 GB GDDR7",
+    "ramGb": 32,
+    "storageTb": 2,
+    "os": "Windows 11 Home",
+    "networking": "2.5GbE (Realtek 8125D), Wi-Fi 7",
+    "psuW": 1300
+   },
+   "warranty": 12,
+   "sources": {
+    "product": "https://us-store.msi.com/Desktops/gaming-pcs/infinite-series/Infinite-ZS-9NVZ-2261US",
+    "specs": "https://us-store.msi.com/Desktops/gaming-pcs/infinite-series/Infinite-ZS-9NVZ-2261US",
+    "retrievedAt": "2026-09-28"
+   },
+   "collections": [
+    "dream-gaming"
+   ],
+   "keywords": "rtx 5090 prebuilt gaming pc 9950x3d",
+   "notes": "No clean image: the store gallery for this SKU shows an older Infinite RS chassis."
+  },
+  {
+   "sku": "TK-ACER-PO6-605",
+   "slug": "acer-predator-orion-6000-po6-605",
+   "name": "Acer Predator Orion 6000 (PO6-605)",
+   "brand": "Acer",
+   "category": "gaming-desktops",
+   "price": "3599.99",
+   "priceBasis": "msrp",
+   "priceSource": "https://store.acer.com/en-us/predator-orion-6000-gaming-desktop-po6-605-ur18w",
+   "priceAsOf": "2026-09-28",
+   "releaseYear": 2025,
+   "summary": "Gaming desktop with Intel Core Ultra 9 285K, GeForce RTX 5080 and an 850 W 80 Plus Gold PSU.",
+   "description": "The Predator Orion 6000 PO6-605-UR18W pairs an Intel Core Ultra 9 285K (up to 5.7 GHz) with an NVIDIA GeForce RTX 5080. It ships with 32 GB DDR5, a 1 TB M.2 PCIe Gen4 SSD, Wi-Fi 7, Bluetooth 5.4 and an 850 W 80 Plus Gold power supply in a white chassis.",
+   "specs": {
+    "cpu": "Intel Core Ultra 9 285K",
+    "cpuBrand": "Intel",
+    "gpu": "NVIDIA GeForce RTX 5080",
+    "ramGb": 32,
+    "storageTb": 1,
+    "os": "Windows 11 Home",
+    "networking": "Realtek Ethernet, Wi-Fi 7, Bluetooth 5.4",
+    "psuW": 850,
+    "colors": "White"
+   },
+   "warranty": 12,
+   "sources": {
+    "product": "https://www.acer.com/us-en/predator/desktops-and-all-in-ones",
+    "specs": "https://store.acer.com/en-us/predator-orion-6000-gaming-desktop-po6-605-ur18w",
+    "retrievedAt": "2026-09-28"
+   },
+   "colors": [
+    "White"
+   ],
+   "collections": [
+    "dream-gaming"
+   ],
+   "notes": "Store gallery image shows the tower with bundled keyboard and mouse, so no image is used.",
+   "keywords": "predator orion rtx 5080 prebuilt gaming pc"
+  }
+ ]
+}

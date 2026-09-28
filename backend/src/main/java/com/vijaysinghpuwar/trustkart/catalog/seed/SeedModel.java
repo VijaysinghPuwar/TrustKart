@@ -25,6 +25,9 @@ final class SeedModel {
 
     record CategoryExtension(String extend, List<SpecSeed> specs, List<CategorySeed> children) {}
 
+    /** {@code catalog/parked.json}: SKUs moved to catalog-data/pending because no official image exists yet. */
+    record ParkedFile(List<String> skus) {}
+
     record CategorySeed(String slug, String name, String description, List<SpecSeed> specs, List<CategorySeed> children) {
         CategorySeed extendedWith(CategoryExtension e) {
             List<SpecSeed> s = new ArrayList<>(specsOrEmpty());

@@ -1,0 +1,303 @@
+{
+ "meta": {
+  "notes": "Researched products parked until an official, professional product image can be sourced."
+ },
+ "products": [
+  {
+   "sku": "TK-VALVE-STEAM-MACHINE",
+   "slug": "valve-steam-machine",
+   "name": "Valve Steam Machine",
+   "brand": "Valve",
+   "category": "gaming-desktops",
+   "price": "1049.00",
+   "priceBasis": "starting-at",
+   "priceSource": "https://store.steampowered.com/sale/steammachine",
+   "priceAsOf": "2026-09-28",
+   "releaseYear": 2026,
+   "summary": "Compact SteamOS living-room gaming PC with a semi-custom AMD Zen 4 CPU and RDNA3 GPU, up to 4K gaming with FSR 4.1.",
+   "description": "Steam Machine is a small SteamOS gaming PC with a semi-custom AMD Zen 4 6C/12T CPU (up to 4.8 GHz) and a 28 CU RDNA3 GPU with 8 GB GDDR6, plus 16 GB DDR5. It outputs up to 4K 240Hz over DisplayPort 1.4 or 4K 120Hz over HDMI 2.0, includes a built-in Steam Controller wireless adapter, and remains an open PC you can install other software on.",
+   "keywords": "steam machine valve steamos console pc living room",
+   "specs": {
+    "cpu": "Semi-custom AMD Zen 4, 6C/12T, up to 4.8 GHz",
+    "cpuBrand": "AMD",
+    "gpu": "Semi-custom AMD RDNA3, 28 CUs, 8 GB GDDR6",
+    "ramGb": 16,
+    "storageTb": 0.5,
+    "os": "SteamOS",
+    "networking": "2x2 Wi-Fi 6E, Bluetooth 5.3, integrated Steam Controller adapter",
+    "ports": "DisplayPort 1.4, HDMI 2.0, microSD slot"
+   },
+   "variants": [
+    {
+     "label": "512 GB",
+     "price": "1049.00"
+    },
+    {
+     "label": "512 GB with Steam Controller",
+     "price": "1128.00"
+    },
+    {
+     "label": "2 TB",
+     "price": "1349.00"
+    },
+    {
+     "label": "2 TB with Steam Controller",
+     "price": "1428.00"
+    }
+   ],
+   "collections": [
+    "gaming-monsters",
+    "dream-gaming"
+   ],
+   "featured": true,
+   "warranty": 12,
+   "sources": {
+    "product": "https://store.steampowered.com/sale/steammachine",
+    "retrievedAt": "2026-09-28"
+   },
+   "notes": "Prices from the Steam store app API (app 4165910) for the US on 2026-09-28; sales have used a reservation queue. Image omitted: Valve's store assets are lifestyle photos on coloured backgrounds."
+  },
+  {
+   "sku": "TK-VALVE-STEAM-CONTROLLER",
+   "slug": "valve-steam-controller",
+   "name": "Valve Steam Controller",
+   "brand": "Valve",
+   "category": "controllers",
+   "price": "99.00",
+   "priceBasis": "msrp",
+   "priceSource": "https://store.steampowered.com/sale/steamcontroller",
+   "priceAsOf": "2026-09-28",
+   "releaseYear": 2026,
+   "summary": "Valve's 2026 Steam Controller with Steam Deck-style inputs, a USB-C wireless puck and 35+ hours of battery.",
+   "description": "Steam Controller has the same familiar inputs as Steam Deck and works with PC, Steam Machine, Steam Deck and Steam Frame. It connects over a 2.4 GHz link (about 8 ms end-to-end) through the USB-C Steam Controller Puck, which supports up to four controllers, and its 8.39 Wh battery lasts 35+ hours.",
+   "keywords": "steam controller valve gamepad trackpad 2026",
+   "specs": {
+    "platform": "Steam (PC, Steam Deck, Steam Machine, Steam Frame)",
+    "connectivity": "2.4 GHz wireless via USB-C Steam Controller Puck",
+    "battery": "8.39 Wh Li-ion; 35+ hours",
+    "colors": "Black"
+   },
+   "colors": [
+    "Black"
+   ],
+   "featured": false,
+   "warranty": 12,
+   "sources": {
+    "product": "https://store.steampowered.com/sale/steamcontroller",
+    "retrievedAt": "2026-09-28"
+   },
+   "notes": "Price from the Steam store app API (app 4165870) on 2026-09-28. Image omitted: no clean white-background official asset found."
+  },
+  {
+   "sku": "TK-VALVE-STEAM-FRAME",
+   "slug": "valve-steam-frame",
+   "name": "Valve Steam Frame",
+   "brand": "Valve",
+   "category": "vr",
+   "price": "1059.00",
+   "priceBasis": "starting-at",
+   "priceSource": "https://store.steampowered.com/sale/steamframe",
+   "priceAsOf": "2026-09-28",
+   "releaseYear": 2026,
+   "summary": "Streaming-first wireless VR headset running SteamOS on Snapdragon, with 2160x2160 LCDs per eye and standalone play.",
+   "description": "Steam Frame is a wireless VR headset and PC that streams your Steam library from a PC over an included 6 GHz adapter or runs games standalone on a Snapdragon 8 Series processor with 16 GB LPDDR5X. It uses pancake lenses with 2160x2160 LCD panels per eye at 72-144 Hz, inside-out tracking with four cameras, and controllers that run about 40 hours on one AA battery.",
+   "keywords": "steam frame vr headset valve steamos wireless",
+   "specs": {
+    "storageGb": 256,
+    "chip": "Snapdragon 8 Series, 16 GB LPDDR5X",
+    "display": "2160 x 2160 LCD per eye, 72-144 Hz, pancake lenses"
+   },
+   "variants": [
+    {
+     "label": "256 GB kit",
+     "price": "1059.00"
+    },
+    {
+     "label": "1 TB kit",
+     "price": "1299.00"
+    }
+   ],
+   "collections": [
+    "dream-gaming"
+   ],
+   "featured": false,
+   "warranty": 12,
+   "sources": {
+    "product": "https://store.steampowered.com/sale/steamframe",
+    "retrievedAt": "2026-09-28"
+   },
+   "notes": "Prices from the Steam store app API (app 4165890) on 2026-09-28. Image omitted: no clean white-background official asset found."
+  },
+  {
+   "sku": "TK-META-QUEST-3S",
+   "slug": "meta-quest-3s",
+   "name": "Meta Quest 3S",
+   "brand": "Meta",
+   "category": "vr",
+   "price": "349.99",
+   "priceBasis": "starting-at",
+   "priceSource": "https://www.meta.com/quest/quest-3s/buy-now/",
+   "priceAsOf": "2026-09-28",
+   "summary": "Affordable mixed-reality headset with Snapdragon XR2 Gen 2, 8 GB RAM, 1832x1920 per-eye displays and full-colour passthrough.",
+   "description": "Meta Quest 3S blends games, workouts and entertainment into your space with full-colour 4MP passthrough. It uses the Snapdragon XR2 Gen 2 with 8 GB of memory, 1832x1920-per-eye displays with Fresnel lenses at up to 120 Hz, and a 4324 mAh battery rated for about 2.5 hours; Touch Plus controllers are included.",
+   "keywords": "meta quest 3s vr headset mixed reality oculus",
+   "specs": {
+    "storageGb": 128,
+    "chip": "Snapdragon XR2 Gen 2, 8 GB RAM",
+    "display": "1832x1920 per eye, Fresnel lenses, 72/90/120 Hz, 96° x 90° FOV"
+   },
+   "variants": [
+    {
+     "label": "128 GB",
+     "price": "349.99"
+    },
+    {
+     "label": "256 GB",
+     "price": "449.99"
+    }
+   ],
+   "featured": false,
+   "warranty": 12,
+   "sources": {
+    "product": "https://www.meta.com/quest/quest-3s/",
+    "specs": "https://www.meta.com/quest/compare/",
+    "retrievedAt": "2026-09-28"
+   },
+   "notes": "Image omitted: Meta store images are served from signed, expiring fbcdn URLs."
+  },
+  {
+   "sku": "TK-SONY-BRAVIA7-II",
+   "slug": "sony-bravia-7-ii",
+   "name": "Sony BRAVIA 7 II True RGB 4K HDR Google TV (2026)",
+   "brand": "Sony",
+   "category": "led-tvs",
+   "price": "2599.99",
+   "priceBasis": "starting-at",
+   "priceSource": "https://electronics.sony.com/tv-video/televisions/all-tvs/p/k65xr70m2",
+   "priceAsOf": "2026-09-28",
+   "releaseYear": 2026,
+   "summary": "2026 True RGB 4K Google TV with XR Processor, local dimming, 120Hz panel and HDMI 2.1 gaming, from 50 to 98 inches.",
+   "description": "BRAVIA 7 II brings Sony's True RGB LED backlight with local dimming to a wider range of sizes, powered by the XR Processor with XR Motion Clarity on a 120Hz native 4K panel. It runs Google TV, supports HDR10, HLG and Dolby Vision and offers 4K120, VRR, ALLM and eARC over HDMI 2.1.",
+   "keywords": "bravia 7 ii rgb led tv 4k google tv sony 2026",
+   "specs": {
+    "sizeIn": 65,
+    "sizes": "50, 55, 65, 75, 85, 98 inch",
+    "resolution": "4K (3840 x 2160)",
+    "panel": "LCD with True RGB LED backlight, local dimming",
+    "refreshHz": 120,
+    "hdr": "HDR10, HLG, Dolby Vision",
+    "processor": "XR Processor",
+    "gaming": "HDMI 2.1: 4K120, VRR, ALLM, eARC",
+    "smartPlatform": "Google TV",
+    "audio": "2 full range + 2 subwoofers"
+   },
+   "variants": [
+    {
+     "label": "50\" class",
+     "price": "1599.99"
+    },
+    {
+     "label": "55\" class",
+     "price": "2099.99"
+    },
+    {
+     "label": "65\" class",
+     "price": "2599.99"
+    },
+    {
+     "label": "75\" class",
+     "price": "3099.99"
+    },
+    {
+     "label": "85\" class",
+     "price": "3999.99"
+    },
+    {
+     "label": "98\" class",
+     "price": "8999.99"
+    }
+   ],
+   "featured": false,
+   "warranty": 12,
+   "sources": {
+    "product": "https://electronics.sony.com/tv-video/televisions/all-tvs/p/k65xr70m2",
+    "retrievedAt": "2026-09-28"
+   },
+   "notes": "Prices read from Sony Electronics' US store (electronics.sony.com) product data on 2026-09-28; Sony's store may be showing sale pricing. Base price shown is the 65-inch model; the 50-inch starts at $1,599.99. Image omitted: the official asset's screen artwork fills the frame, so it normalizes onto a tinted, non-white background."
+  },
+  {
+   "sku": "TK-HISENSE-UR9",
+   "slug": "hisense-ur9-rgb-miniled",
+   "name": "Hisense UR9 RGB MiniLED 4K Google TV",
+   "brand": "Hisense",
+   "category": "led-tvs",
+   "price": "3499.99",
+   "priceBasis": "starting-at",
+   "priceSource": "https://www.prnewswire.com/news-releases/hisense-opens-ur9-rgb-miniled-tv-pre-orders-with-a-complimentary-55-inch-canvastv-for-early-orders-302726299.html",
+   "priceAsOf": "2026-09-28",
+   "releaseYear": 2026,
+   "summary": "Hisense's 2026 RGB MiniLED TV with 100% BT.2020 colour, native 180Hz refresh and 4.1.2 Devialet-tuned sound.",
+   "description": "The UR9 uses RGB MiniLED powered by Hisense Chromagic technology, generating red, green and blue light individually for True 100% BT.2020 coverage with Pantone Validated colour. It adds the Hi-View AI Engine RGB, an ultra-low reflection panel, a native 180Hz refresh rate and a 4.1.2 multi-channel sound system tuned by Devialet.",
+   "keywords": "hisense ur9 rgb miniled tv 4k google tv",
+   "specs": {
+    "sizeIn": 65,
+    "sizes": "65, 75, 85, 100 inch",
+    "resolution": "4K UHD",
+    "panel": "RGB MiniLED (Chromagic), ultra-low reflection panel",
+    "refreshHz": 180,
+    "processor": "Hi-View AI Engine RGB",
+    "smartPlatform": "Google TV",
+    "audio": "4.1.2 multi-channel, tuned by Devialet, Dolby Atmos"
+   },
+   "variants": [
+    {
+     "label": "65\" class",
+     "price": "3499.99"
+    },
+    {
+     "label": "100\" class",
+     "price": "8999.99"
+    }
+   ],
+   "featured": false,
+   "warranty": 12,
+   "sources": {
+    "product": "https://www.hisense-usa.com/product-page/televisions-75-class-ur9-series-rgb-miniled-4k-google-tv-75ur9sg",
+    "retrievedAt": "2026-09-28"
+   },
+   "notes": "Hisense does not sell direct in the US; MSRP is from Hisense's own press release (PR Newswire, March 2026). 75 and 85-inch MSRPs were not stated. Image omitted: the official asset's screen artwork fills the frame, so it normalizes onto a tinted, non-white background."
+  },
+  {
+   "sku": "TK-HISENSE-U7SG",
+   "slug": "hisense-u7-miniled-uled",
+   "name": "Hisense U7 Series MiniLED ULED 4K Google TV (2026)",
+   "brand": "Hisense",
+   "category": "led-tvs",
+   "price": "1299.00",
+   "priceBasis": "starting-at",
+   "priceSource": "https://www.prnewswire.com/news-releases/hisense-2026-uled-miniled-tvs-bringing-premium-big-screen-experiences-home-at-every-budget-302708259.html",
+   "priceAsOf": "2026-09-28",
+   "releaseYear": 2026,
+   "summary": "2026 MiniLED ULED 4K TV with a native 165Hz refresh rate, full-array local dimming and 2.1.2 Dolby Atmos audio, up to 116 inches.",
+   "description": "The 2026 U7 Series (U7SG with Google TV) uses Hi-QLED MiniLED Pro with full-array local dimming, the Hi-View AI Engine Pro and a native 165Hz refresh rate. It includes 50W 2.1.2 multi-channel audio with Dolby Atmos and DTS Virtual:X, in sizes up to 116 inches.",
+   "keywords": "hisense u7 u7sg miniled uled tv 165hz google tv",
+   "specs": {
+    "sizeIn": 55,
+    "sizes": "55, 65, 75, 85, 100, 116 inch",
+    "resolution": "4K UHD",
+    "panel": "Hi-QLED MiniLED Pro, full-array local dimming",
+    "refreshHz": 165,
+    "processor": "Hi-View AI Engine Pro",
+    "smartPlatform": "Google TV",
+    "audio": "50W 2.1.2, Dolby Atmos, DTS Virtual:X"
+   },
+   "featured": false,
+   "warranty": 12,
+   "sources": {
+    "product": "https://www.hisense-usa.com/product-page/televisions-75-class-u7-series-uled-miniled-4k-google-tv-75u7sg",
+    "retrievedAt": "2026-09-28"
+   },
+   "notes": "Hisense does not sell direct in the US; 'starting MSRP $1,299' is from Hisense's own 2026 ULED press release (PR Newswire); the size it applies to was not stated. Image omitted: the official asset's screen artwork fills the frame, so it normalizes onto a tinted, non-white background."
+  }
+ ]
+}

@@ -1,0 +1,2480 @@
+{
+ "meta": {
+  "notes": "Ubiquiti (UniFi switches, access points, gateways, consoles, power, racks, cabling and UISP), MikroTik and GL.iNet networking gear complementing networking.json. Researched 2026-09-28 from store.ui.com (product JSON on the official US store), mikrotik.com product pages ('Suggested price') and the official GL.iNet store (www.gl-inet.com, which store.gl-inet.com redirects to). Ubiquiti prices are UI Store US base list prices; the store currently itemizes a separate memory surcharge at checkout for many products, recorded in priceNote. Only products shown as Available on the official stores on 2026-09-28 were included (Slate 7 Pro NA version was temporarily out of stock; noted)."
+ },
+ "products": [
+  {
+   "sku": "TK-UBNT-USW-FLEX-MINI",
+   "slug": "ubiquiti-unifi-switch-flex-mini",
+   "name": "Ubiquiti UniFi Switch Flex Mini",
+   "brand": "Ubiquiti",
+   "category": "switches",
+   "price": "29.00",
+   "priceBasis": "msrp",
+   "priceSource": "https://store.ui.com/us/en/products/usw-flex-mini",
+   "priceAsOf": "2026-09-28",
+   "summary": "Compact 5-port Gigabit managed UniFi switch that can be powered by PoE or a 5V USB-C adapter.",
+   "description": "The Switch Flex Mini (USW-Flex-Mini) is a compact 5-port Layer 2 UniFi switch with 10 Gbps switching capacity, powered either by PoE on its uplink port or by the 5V USB-C adapter included with single units. It draws 2.5 W max, supports VLANs, port mirroring and storm control, and is managed from UniFi Network.",
+   "releaseYear": 2020,
+   "keywords": "usw flex mini 5 port gigabit usb-c poe desk switch",
+   "specs": {
+    "ports": "5x 1GbE RJ45 (1 PoE in)",
+    "maxSpeedGbps": 1,
+    "managed": true,
+    "rackMountable": false,
+    "switchingCapacityGbps": 10
+   },
+   "variants": [
+    {
+     "label": "Single",
+     "price": "29.00"
+    },
+    {
+     "label": "3-pack",
+     "price": "85.00"
+    },
+    {
+     "label": "5-pack",
+     "price": "140.00"
+    }
+   ],
+   "collections": [
+    "homelab-starter"
+   ],
+   "warranty": 12,
+   "priceNote": "Official UI Store options: Single $29.00; 3-pack $85.00; 5-pack $140.00.",
+   "sources": {
+    "product": "https://store.ui.com/us/en/products/usw-flex-mini",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://cdn.ecomm.ui.com/products/5a176b22-af34-40f2-820c-958610df1825/19394e07-5146-4f8c-b72d-7fdbdf679c97.png",
+    "page": "https://store.ui.com/us/en/products/usw-flex-mini",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official Ubiquiti Store product image (cdn.ecomm.ui.com); Ubiquiti has not granted a reuse license - rights not verified.",
+    "alt": "Ubiquiti UniFi Switch Flex Mini compact white 5-port switch, front three-quarter view",
+    "match": "EXACT"
+   }
+  },
+  {
+   "sku": "TK-UBNT-USW-LITE-8-POE",
+   "slug": "ubiquiti-unifi-switch-lite-8-poe",
+   "name": "Ubiquiti UniFi Switch Lite 8 PoE",
+   "brand": "Ubiquiti",
+   "category": "switches",
+   "price": "109.00",
+   "priceBasis": "msrp",
+   "priceSource": "https://store.ui.com/us/en/products/usw-lite-8-poe",
+   "priceAsOf": "2026-09-28",
+   "summary": "Fanless 8-port Gigabit Layer 2 UniFi switch with four PoE+ ports and 52 W total PoE budget.",
+   "description": "The Switch Lite 8 PoE (USW-Lite-8-POE) is a silent, fanless 8-port Gigabit Layer 2 switch for desks and walls. Four ports supply PoE+ (30 W per port, 52 W total from the included 60 W adapter), and it offers 16 Gbps switching capacity with VLANs, LACP, IGMP snooping and 802.1X managed in UniFi Network.",
+   "keywords": "usw lite 8 poe fanless gigabit poe+ switch",
+   "specs": {
+    "ports": "8x 1GbE RJ45 (4 PoE+)",
+    "maxSpeedGbps": 1,
+    "managed": true,
+    "rackMountable": false,
+    "poe": 52,
+    "switchingCapacityGbps": 16
+   },
+   "collections": [
+    "homelab-starter"
+   ],
+   "warranty": 12,
+   "priceNote": "UI Store US list price $109.00; the store also itemizes a separate memory surcharge, bringing the checkout total to $117.00.",
+   "sources": {
+    "product": "https://store.ui.com/us/en/products/usw-lite-8-poe",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://cdn.ecomm.ui.com/products/75c44878-4e73-446e-8e86-f207db6b2b7c/53b8b06b-69c7-424f-bb81-2f8405356c65.png",
+    "page": "https://store.ui.com/us/en/products/usw-lite-8-poe",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official Ubiquiti Store product image (cdn.ecomm.ui.com); Ubiquiti has not granted a reuse license - rights not verified.",
+    "alt": "Ubiquiti UniFi Switch Lite 8 PoE white desktop switch, front view with eight ports",
+    "match": "EXACT"
+   }
+  },
+  {
+   "sku": "TK-UBNT-USW-LITE-16-POE",
+   "slug": "ubiquiti-unifi-switch-lite-16-poe",
+   "name": "Ubiquiti UniFi Switch Lite 16 PoE",
+   "brand": "Ubiquiti",
+   "category": "switches",
+   "price": "199.00",
+   "priceBasis": "msrp",
+   "priceSource": "https://store.ui.com/us/en/products/usw-lite-16-poe",
+   "priceAsOf": "2026-09-28",
+   "summary": "Wall-mountable, fanless 16-port Gigabit Layer 2 switch with eight PoE+ ports and 45 W PoE budget.",
+   "description": "The Switch Lite 16 PoE (USW-Lite-16-POE) is a fanless 16-port Gigabit Layer 2 UniFi switch for desktop or wall mounting. Eight ports provide PoE+ with a 45 W total budget, and Ubiquiti lists 32 Gbps switching capacity with the full UniFi Layer 2 feature set.",
+   "keywords": "usw lite 16 poe fanless gigabit switch",
+   "specs": {
+    "ports": "16x 1GbE RJ45 (8 PoE+)",
+    "maxSpeedGbps": 1,
+    "managed": true,
+    "rackMountable": false,
+    "poe": 45,
+    "switchingCapacityGbps": 32
+   },
+   "collections": [
+    "homelab-starter",
+    "small-business"
+   ],
+   "warranty": 12,
+   "priceNote": "UI Store US list price $199.00; the store also itemizes a separate memory surcharge, bringing the checkout total to $214.00.",
+   "sources": {
+    "product": "https://store.ui.com/us/en/products/usw-lite-16-poe",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://cdn.ecomm.ui.com/products/e726eace-a772-4f12-bfad-c68baf20e51f/9ecfc657-5e31-4135-89b5-46b3537b35fc.png",
+    "page": "https://store.ui.com/us/en/products/usw-lite-16-poe",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official Ubiquiti Store product image (cdn.ecomm.ui.com); Ubiquiti has not granted a reuse license - rights not verified.",
+    "alt": "Ubiquiti UniFi Switch Lite 16 PoE white fanless switch, front view with sixteen ports",
+    "match": "EXACT"
+   }
+  },
+  {
+   "sku": "TK-UBNT-USW-24-POE",
+   "slug": "ubiquiti-unifi-switch-24-poe",
+   "name": "Ubiquiti UniFi Switch 24 PoE",
+   "brand": "Ubiquiti",
+   "category": "switches",
+   "price": "379.00",
+   "priceBasis": "msrp",
+   "priceSource": "https://store.ui.com/us/en/products/usw-24-poe",
+   "priceAsOf": "2026-09-28",
+   "summary": "Fanless 1U 24-port Gigabit Layer 2 switch with 16 PoE+ ports, 95 W PoE budget and two 1G SFP uplinks.",
+   "description": "The Switch 24 PoE (USW-24-POE) is a fanless 1U rack-mount Layer 2 UniFi switch with 24 Gigabit ports, 16 of them PoE+, and two 1G SFP ports. It has a 95 W total PoE budget and 52 Gbps switching capacity.",
+   "keywords": "usw 24 poe rackmount gigabit poe+ switch fanless",
+   "specs": {
+    "ports": "24x 1GbE RJ45 (16 PoE+), 2x 1G SFP",
+    "maxSpeedGbps": 1,
+    "managed": true,
+    "rackMountable": true,
+    "poe": 95,
+    "switchingCapacityGbps": 52
+   },
+   "collections": [
+    "small-business"
+   ],
+   "warranty": 12,
+   "priceNote": "UI Store US list price $379.00; the store also itemizes a separate memory surcharge, bringing the checkout total to $408.00.",
+   "sources": {
+    "product": "https://store.ui.com/us/en/products/usw-24-poe",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://cdn.ecomm.ui.com/products/467359c4-e5c3-487b-ae00-f6b7de29c6fc/1fd41f67-8fd9-4689-989e-c03b43217e3a.png",
+    "page": "https://store.ui.com/us/en/products/usw-24-poe",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official Ubiquiti Store product image (cdn.ecomm.ui.com); Ubiquiti has not granted a reuse license - rights not verified.",
+    "alt": "Ubiquiti UniFi Switch 24 PoE 1U rack switch, front view with 24 ports and SFP uplinks",
+    "match": "EXACT"
+   }
+  },
+  {
+   "sku": "TK-UBNT-USW-48-POE",
+   "slug": "ubiquiti-unifi-switch-48-poe",
+   "name": "Ubiquiti UniFi Switch 48 PoE",
+   "brand": "Ubiquiti",
+   "category": "switches",
+   "price": "589.00",
+   "priceBasis": "msrp",
+   "priceSource": "https://store.ui.com/us/en/products/usw-48-poe",
+   "priceAsOf": "2026-09-28",
+   "summary": "Silent fanless 1U 48-port Gigabit Layer 2 switch with 32 PoE+ ports, 195 W PoE and four 1G SFP ports.",
+   "description": "The Switch 48 PoE (USW-48-POE) is a 48-port Gigabit Layer 2 UniFi switch in a fanless 1U chassis. Thirty-two ports provide PoE+ with a 195 W total budget, four 1G SFP ports handle uplinks, and Ubiquiti lists 104 Gbps switching capacity.",
+   "keywords": "usw 48 poe rackmount gigabit poe+ switch fanless",
+   "specs": {
+    "ports": "48x 1GbE RJ45 (32 PoE+), 4x 1G SFP",
+    "maxSpeedGbps": 1,
+    "managed": true,
+    "rackMountable": true,
+    "poe": 195,
+    "switchingCapacityGbps": 104
+   },
+   "collections": [
+    "small-business"
+   ],
+   "warranty": 12,
+   "priceNote": "UI Store US list price $589.00; the store also itemizes a separate memory surcharge, bringing the checkout total to $635.00.",
+   "sources": {
+    "product": "https://store.ui.com/us/en/products/usw-48-poe",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://cdn.ecomm.ui.com/products/147e90c2-da47-44ad-ad19-b98e223cb54b/378bcc80-2ebd-45f1-a2fc-0e66669824e1.png",
+    "page": "https://store.ui.com/us/en/products/usw-48-poe",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official Ubiquiti Store product image (cdn.ecomm.ui.com); Ubiquiti has not granted a reuse license - rights not verified.",
+    "alt": "Ubiquiti UniFi Switch 48 PoE 1U rack switch, front view with 48 ports",
+    "match": "EXACT"
+   }
+  },
+  {
+   "sku": "TK-UBNT-USW-PRO-24-POE",
+   "slug": "ubiquiti-unifi-switch-pro-24-poe",
+   "name": "Ubiquiti UniFi Switch Pro 24 PoE",
+   "brand": "Ubiquiti",
+   "category": "switches",
+   "price": "699.00",
+   "priceBasis": "msrp",
+   "priceSource": "https://store.ui.com/us/en/products/usw-pro-24-poe",
+   "priceAsOf": "2026-09-28",
+   "summary": "1U Layer 3 switch with 24 Gigabit ports (16 PoE+, 8 PoE++), 400 W PoE budget and two 10G SFP+ uplinks.",
+   "description": "The Switch Pro 24 PoE (USW-Pro-24-POE) is a Layer 3 UniFi switch with 24 Gigabit ports - 16 PoE+ and 8 high-power PoE++ - plus two 10G SFP+ uplinks. It has a 400 W PoE budget, 88 Gbps switching capacity, DC power backup support and Layer 3 features such as inter-VLAN routing, static routes and DHCP server.",
+   "keywords": "usw pro 24 poe layer 3 poe++ 10g sfp+ switch",
+   "specs": {
+    "ports": "24x 1GbE RJ45 (16 PoE+, 8 PoE++), 2x 10G SFP+",
+    "maxSpeedGbps": 10,
+    "managed": true,
+    "rackMountable": true,
+    "poe": 400,
+    "switchingCapacityGbps": 88
+   },
+   "collections": [
+    "small-business",
+    "networking-lab"
+   ],
+   "warranty": 12,
+   "priceNote": "UI Store US list price $699.00; the store also itemizes a separate memory surcharge, bringing the checkout total to $754.00.",
+   "sources": {
+    "product": "https://store.ui.com/us/en/products/usw-pro-24-poe",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://cdn.ecomm.ui.com/products/5b69cdb5-e7ea-44e6-ae16-8714339038fb/18d39964-78e7-45f9-874d-e331f1408730.png",
+    "page": "https://store.ui.com/us/en/products/usw-pro-24-poe",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official Ubiquiti Store product image (cdn.ecomm.ui.com); Ubiquiti has not granted a reuse license - rights not verified.",
+    "alt": "Ubiquiti UniFi Switch Pro 24 PoE 1U rack switch with touchscreen, front view",
+    "match": "EXACT"
+   }
+  },
+  {
+   "sku": "TK-UBNT-USW-PRO-48-POE",
+   "slug": "ubiquiti-unifi-switch-pro-48-poe",
+   "name": "Ubiquiti UniFi Switch Pro 48 PoE",
+   "brand": "Ubiquiti",
+   "category": "switches",
+   "price": "1099.00",
+   "priceBasis": "msrp",
+   "priceSource": "https://store.ui.com/us/en/products/usw-pro-48-poe",
+   "priceAsOf": "2026-09-28",
+   "summary": "1U Layer 3 switch with 48 Gigabit ports (40 PoE+, 8 PoE++), 600 W PoE budget and four 10G SFP+ ports.",
+   "description": "The Switch Pro 48 PoE (USW-Pro-48-POE) is a 48-port Layer 3 UniFi switch with 40 PoE+ and 8 PoE++ ports, four 10G SFP+ uplinks and a 600 W PoE budget. Ubiquiti lists 176 Gbps switching capacity, DC power backup support and Layer 3 inter-VLAN and static routing.",
+   "keywords": "usw pro 48 poe layer 3 poe++ 10g sfp+ switch",
+   "specs": {
+    "ports": "48x 1GbE RJ45 (40 PoE+, 8 PoE++), 4x 10G SFP+",
+    "maxSpeedGbps": 10,
+    "managed": true,
+    "rackMountable": true,
+    "poe": 600,
+    "switchingCapacityGbps": 176
+   },
+   "collections": [
+    "small-business",
+    "enterprise-lab"
+   ],
+   "warranty": 12,
+   "priceNote": "UI Store US list price $1,099.00; the store also itemizes a separate memory surcharge, bringing the checkout total to $1,185.00.",
+   "sources": {
+    "product": "https://store.ui.com/us/en/products/usw-pro-48-poe",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://cdn.ecomm.ui.com/products/6e019f0c-26b5-4fdf-b4e1-994abd9ce6e1/483da8b5-c584-4100-a4f2-18d11fa7187e.png",
+    "page": "https://store.ui.com/us/en/products/usw-pro-48-poe",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official Ubiquiti Store product image (cdn.ecomm.ui.com); Ubiquiti has not granted a reuse license - rights not verified.",
+    "alt": "Ubiquiti UniFi Switch Pro 48 PoE 1U rack switch with touchscreen, front view",
+    "match": "EXACT"
+   }
+  },
+  {
+   "sku": "TK-UBNT-USW-PRO-MAX-16",
+   "slug": "ubiquiti-unifi-switch-pro-max-16",
+   "name": "Ubiquiti UniFi Switch Pro Max 16",
+   "brand": "Ubiquiti",
+   "category": "switches",
+   "price": "279.00",
+   "priceBasis": "msrp",
+   "priceSource": "https://store.ui.com/us/en/products/usw-pro-max-16",
+   "priceAsOf": "2026-09-28",
+   "summary": "Compact 16-port Layer 3 Etherlighting switch with four 2.5 GbE ports and two 10G SFP+ uplinks.",
+   "description": "The Switch Pro Max 16 (USW-Pro-Max-16) is a Layer 3 UniFi switch with Etherlighting port LEDs, twelve Gigabit ports, four 2.5 GbE ports and two 10G SFP+ ports. It can be rack-, desk- or wall-mounted and Ubiquiti lists 84 Gbps switching capacity.",
+   "keywords": "usw pro max 16 etherlighting 2.5g layer 3 switch",
+   "specs": {
+    "ports": "12x 1GbE RJ45, 4x 2.5GbE RJ45, 2x 10G SFP+",
+    "maxSpeedGbps": 10,
+    "managed": true,
+    "rackMountable": true,
+    "switchingCapacityGbps": 84
+   },
+   "collections": [
+    "homelab-essentials"
+   ],
+   "warranty": 12,
+   "priceNote": "UI Store US list price $279.00; the store also itemizes a separate memory surcharge, bringing the checkout total to $301.00.",
+   "sources": {
+    "product": "https://store.ui.com/us/en/products/usw-pro-max-16",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://cdn.ecomm.ui.com/products/065e9d0f-19c7-4b9e-8b36-8e900363af80/b888cf82-f499-4460-943a-5e92a7a9cf79.png",
+    "page": "https://store.ui.com/us/en/products/usw-pro-max-16",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official Ubiquiti Store product image (cdn.ecomm.ui.com); Ubiquiti has not granted a reuse license - rights not verified.",
+    "alt": "Ubiquiti UniFi Switch Pro Max 16 compact Etherlighting switch, front view",
+    "match": "EXACT"
+   }
+  },
+  {
+   "sku": "TK-UBNT-USW-PRO-MAX-48",
+   "slug": "ubiquiti-unifi-switch-pro-max-48",
+   "name": "Ubiquiti UniFi Switch Pro Max 48",
+   "brand": "Ubiquiti",
+   "category": "switches",
+   "price": "649.00",
+   "priceBasis": "msrp",
+   "priceSource": "https://store.ui.com/us/en/products/usw-pro-max-48",
+   "priceAsOf": "2026-09-28",
+   "summary": "1U 48-port Layer 3 Etherlighting switch with sixteen 2.5 GbE ports and four 10G SFP+ uplinks.",
+   "description": "The Switch Pro Max 48 (USW-Pro-Max-48) is a non-PoE 48-port Layer 3 Etherlighting switch with 32 Gigabit ports, 16 2.5 GbE ports and four 10G SFP+ ports. It offers 224 Gbps switching capacity and DC power backup support.",
+   "keywords": "usw pro max 48 etherlighting 2.5g layer 3 switch",
+   "specs": {
+    "ports": "32x 1GbE RJ45, 16x 2.5GbE RJ45, 4x 10G SFP+",
+    "maxSpeedGbps": 10,
+    "managed": true,
+    "rackMountable": true,
+    "switchingCapacityGbps": 224
+   },
+   "collections": [
+    "small-business"
+   ],
+   "warranty": 12,
+   "priceNote": "UI Store US list price $649.00; the store also itemizes a separate memory surcharge, bringing the checkout total to $700.00.",
+   "sources": {
+    "product": "https://store.ui.com/us/en/products/usw-pro-max-48",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://cdn.ecomm.ui.com/products/0966f626-63a9-4dc6-b07d-2e0b40e2cead/9bfb5a25-50a7-4c22-b2b9-ee3c8b4a82c0.png",
+    "page": "https://store.ui.com/us/en/products/usw-pro-max-48",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official Ubiquiti Store product image (cdn.ecomm.ui.com); Ubiquiti has not granted a reuse license - rights not verified.",
+    "alt": "Ubiquiti UniFi Switch Pro Max 48 1U Etherlighting rack switch, front view",
+    "match": "EXACT"
+   }
+  },
+  {
+   "sku": "TK-UBNT-USW-PRO-XG-8-POE",
+   "slug": "ubiquiti-unifi-switch-pro-xg-8-poe",
+   "name": "Ubiquiti UniFi Switch Pro XG 8 PoE",
+   "brand": "Ubiquiti",
+   "category": "switches",
+   "price": "499.00",
+   "priceBasis": "msrp",
+   "priceSource": "https://store.ui.com/us/en/products/usw-pro-xg-8-poe",
+   "priceAsOf": "2026-09-28",
+   "summary": "Compact Layer 3 Etherlighting switch with eight 10 GbE PoE++ ports, two 10G SFP+ and 155 W PoE.",
+   "description": "The Switch Pro XG 8 PoE (USW-Pro-XG-8-PoE) is a desktop/wall-mountable Layer 3 Etherlighting switch with eight 10 GbE RJ45 ports that all supply PoE++, plus two 10G SFP+ ports. It has a 155 W PoE budget and 200 Gbps switching capacity - suited to powering Wi-Fi 7 access points at multi-gig speeds.",
+   "keywords": "usw pro xg 8 poe 10gbe poe++ etherlighting switch multigig",
+   "specs": {
+    "ports": "8x 10GbE RJ45 (all PoE++), 2x 10G SFP+",
+    "maxSpeedGbps": 10,
+    "managed": true,
+    "rackMountable": false,
+    "poe": 155,
+    "switchingCapacityGbps": 200
+   },
+   "collections": [
+    "homelab-essentials",
+    "networking-lab"
+   ],
+   "featured": true,
+   "warranty": 12,
+   "priceNote": "UI Store US list price $499.00; the store also itemizes a separate memory surcharge, bringing the checkout total to $538.00.",
+   "sources": {
+    "product": "https://store.ui.com/us/en/products/usw-pro-xg-8-poe",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://cdn.ecomm.ui.com/products/104a0f86-8c2e-462d-a95c-ebbc5675ebb8/a78f6eeb-f4ef-4401-aae4-4d8a50e30fce.png",
+    "page": "https://store.ui.com/us/en/products/usw-pro-xg-8-poe",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official Ubiquiti Store product image (cdn.ecomm.ui.com); Ubiquiti has not granted a reuse license - rights not verified.",
+    "alt": "Ubiquiti UniFi Switch Pro XG 8 PoE compact 10G switch, front view",
+    "match": "EXACT"
+   }
+  },
+  {
+   "sku": "TK-UBNT-USW-PRO-XG-48",
+   "slug": "ubiquiti-unifi-switch-pro-xg-48",
+   "name": "Ubiquiti UniFi Switch Pro XG 48",
+   "brand": "Ubiquiti",
+   "category": "switches",
+   "price": "1999.00",
+   "priceBasis": "msrp",
+   "priceSource": "https://store.ui.com/us/en/products/usw-pro-xg-48",
+   "priceAsOf": "2026-09-28",
+   "summary": "1U Layer 3 Etherlighting switch with 32x 10 GbE, 16x 2.5 GbE and four 25G SFP28 ports; 920 Gbps capacity.",
+   "description": "The Switch Pro XG 48 (USW-Pro-XG-48) is a professional 48-port Layer 3 Etherlighting switch with 32 10 GbE ports, 16 2.5 GbE ports and four 25G SFP28 uplinks. Ubiquiti lists 920 Gbps switching capacity and DC power backup support.",
+   "keywords": "usw pro xg 48 10gbe 25g sfp28 layer 3 switch",
+   "specs": {
+    "ports": "32x 10GbE RJ45, 16x 2.5GbE RJ45, 4x 25G SFP28",
+    "maxSpeedGbps": 25,
+    "managed": true,
+    "rackMountable": true,
+    "switchingCapacityGbps": 920
+   },
+   "collections": [
+    "enterprise-lab"
+   ],
+   "warranty": 12,
+   "priceNote": "UI Store US list price $1,999.00; the store also itemizes a separate memory surcharge, bringing the checkout total to $2,156.00.",
+   "sources": {
+    "product": "https://store.ui.com/us/en/products/usw-pro-xg-48",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://cdn.ecomm.ui.com/products/3ecbd029-ba8a-4f82-aa5e-0f2902f60576/1ee9bf0b-ece0-4fe9-bfec-64e21a8eed7e.png",
+    "page": "https://store.ui.com/us/en/products/usw-pro-xg-48",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official Ubiquiti Store product image (cdn.ecomm.ui.com); Ubiquiti has not granted a reuse license - rights not verified.",
+    "alt": "Ubiquiti UniFi Switch Pro XG 48 1U 10G Etherlighting rack switch, front view",
+    "match": "EXACT"
+   }
+  },
+  {
+   "sku": "TK-UBNT-USW-AGGREGATION",
+   "slug": "ubiquiti-unifi-switch-aggregation",
+   "name": "Ubiquiti UniFi Switch Aggregation",
+   "brand": "Ubiquiti",
+   "category": "switches",
+   "price": "269.00",
+   "priceBasis": "msrp",
+   "priceSource": "https://store.ui.com/us/en/products/usw-aggregation",
+   "priceAsOf": "2026-09-28",
+   "summary": "1U 8-port 10G SFP+ Layer 2 aggregation switch with 160 Gbps switching capacity.",
+   "description": "The Switch Aggregation (USW-Aggregation) is a 1U Layer 2 UniFi switch with eight 10G SFP+ ports for aggregating 10G uplinks from access switches, NAS and servers. Ubiquiti lists 160 Gbps switching capacity and 36 W max power draw including SFP modules.",
+   "keywords": "usw aggregation 10g sfp+ fiber switch homelab",
+   "specs": {
+    "ports": "8x 10G SFP+",
+    "maxSpeedGbps": 10,
+    "managed": true,
+    "rackMountable": true,
+    "switchingCapacityGbps": 160
+   },
+   "collections": [
+    "homelab-essentials",
+    "networking-lab"
+   ],
+   "warranty": 12,
+   "priceNote": "UI Store US list price $269.00; the store also itemizes a separate memory surcharge, bringing the checkout total to $290.00.",
+   "sources": {
+    "product": "https://store.ui.com/us/en/products/usw-aggregation",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://cdn.ecomm.ui.com/products/1c748fb1-b4df-43ef-83e0-d5ed26f9db7c/b06fde87-241d-4b4e-8319-8d7d29f6f6c2.png",
+    "page": "https://store.ui.com/us/en/products/usw-aggregation",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official Ubiquiti Store product image (cdn.ecomm.ui.com); Ubiquiti has not granted a reuse license - rights not verified.",
+    "alt": "Ubiquiti UniFi Switch Aggregation 1U switch with eight SFP+ ports, front view",
+    "match": "EXACT"
+   }
+  },
+  {
+   "sku": "TK-UBNT-USW-PRO-AGGREGATION",
+   "slug": "ubiquiti-unifi-switch-hi-capacity-aggregation",
+   "name": "Ubiquiti UniFi Switch Hi-Capacity Aggregation",
+   "brand": "Ubiquiti",
+   "category": "switches",
+   "price": "899.00",
+   "priceBasis": "msrp",
+   "priceSource": "https://store.ui.com/us/en/products/usw-pro-aggregation",
+   "priceAsOf": "2026-09-28",
+   "summary": "1U 32-port Layer 3 aggregation switch with 28x 10G SFP+ and 4x 25G SFP28 ports; 760 Gbps capacity.",
+   "description": "The Switch Hi-Capacity Aggregation (USW-Pro-Aggregation) is a 1U Layer 3 UniFi switch with 28 10G SFP+ ports and four 25G SFP28 ports for high-capacity fiber cores. Ubiquiti lists 760 Gbps switching capacity and DC power backup support.",
+   "keywords": "usw pro aggregation 25g sfp28 10g sfp+ layer 3 core switch",
+   "specs": {
+    "ports": "28x 10G SFP+, 4x 25G SFP28",
+    "maxSpeedGbps": 25,
+    "managed": true,
+    "rackMountable": true,
+    "switchingCapacityGbps": 760
+   },
+   "collections": [
+    "enterprise-lab",
+    "networking-lab"
+   ],
+   "warranty": 12,
+   "priceNote": "UI Store US list price $899.00; the store also itemizes a separate memory surcharge, bringing the checkout total to $970.00.",
+   "sources": {
+    "product": "https://store.ui.com/us/en/products/usw-pro-aggregation",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://cdn.ecomm.ui.com/products/35879d83-6169-4d6b-abf6-d3b98b1e8367/f8726fbe-a4fa-4c3b-b9d7-ee426646c1be.png",
+    "page": "https://store.ui.com/us/en/products/usw-pro-aggregation",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official Ubiquiti Store product image (cdn.ecomm.ui.com); Ubiquiti has not granted a reuse license - rights not verified.",
+    "alt": "Ubiquiti UniFi Switch Hi-Capacity Aggregation 1U fiber switch, front view",
+    "match": "EXACT"
+   }
+  },
+  {
+   "sku": "TK-UBNT-ECS-24-POE",
+   "slug": "ubiquiti-unifi-switch-enterprise-campus-24-poe",
+   "name": "Ubiquiti UniFi Switch Enterprise Campus 24 PoE",
+   "brand": "Ubiquiti",
+   "category": "switches",
+   "price": "2499.00",
+   "priceBasis": "msrp",
+   "priceSource": "https://store.ui.com/us/en/products/ecs-24-poe",
+   "priceAsOf": "2026-09-28",
+   "summary": "Enterprise 1U Layer 3 Etherlighting switch with 24 PoE+++ multi-gig ports, 25G SFP28 uplinks and hot-swap PSUs.",
+   "description": "The Switch Enterprise Campus 24 PoE (ECS-24-PoE) is a full-depth 1U Layer 3 Etherlighting switch with 16 10 GbE and 8 2.5 GbE ports, all supplying PoE+++, plus two 25G SFP28 uplinks. It has two hot-swappable PSUs and four hot-swappable fans; PoE budget depends on the installed power modules (1,050 W shared mode with two 600 W modules at 100-240 V AC).",
+   "keywords": "ecs 24 poe enterprise campus poe+++ 10gbe 25g switch",
+   "specs": {
+    "ports": "16x 10GbE RJ45 + 8x 2.5GbE RJ45 (all PoE+++), 2x 25G SFP28",
+    "maxSpeedGbps": 25,
+    "managed": true,
+    "rackMountable": true,
+    "poe": 1050,
+    "switchingCapacityGbps": 460
+   },
+   "collections": [
+    "enterprise-lab"
+   ],
+   "warranty": 12,
+   "priceNote": "UI Store US list price $2,499.00; the store also itemizes a separate memory surcharge, bringing the checkout total to $2,696.00.",
+   "sources": {
+    "product": "https://store.ui.com/us/en/products/ecs-24-poe",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://cdn.ecomm.ui.com/products/f83443e3-38b7-415b-85cd-e3da1d0c044c/6cae8c8d-f8ab-4207-b0f9-111898f30f66.png",
+    "page": "https://store.ui.com/us/en/products/ecs-24-poe",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official Ubiquiti Store product image (cdn.ecomm.ui.com); Ubiquiti has not granted a reuse license - rights not verified.",
+    "alt": "Ubiquiti UniFi Switch Enterprise Campus 24 PoE full-depth 1U switch, front view",
+    "match": "EXACT"
+   }
+  },
+  {
+   "sku": "TK-UBNT-USW-FLEX-25G-8-POE",
+   "slug": "ubiquiti-unifi-switch-flex-2-5g-poe",
+   "name": "Ubiquiti UniFi Switch Flex 2.5G PoE",
+   "brand": "Ubiquiti",
+   "category": "switches",
+   "price": "199.00",
+   "priceBasis": "msrp",
+   "priceSource": "https://store.ui.com/us/en/products/usw-flex-2-5g-8-poe",
+   "priceAsOf": "2026-09-28",
+   "summary": "Compact 8-port 2.5 GbE PoE++ switch with a 10 GbE/SFP+ combo uplink, powered by PoE+++ or AC.",
+   "description": "The Switch Flex 2.5G PoE (USW-Flex-2.5G-8-PoE) has eight 2.5 GbE PoE++ ports and a 10 GbE RJ45 / 10G SFP+ uplink pair. It can be powered by PoE+++ on its 10 GbE port (76 W PoE output) or by the 210 W AC adapter (196 W output), and mounts on desks, walls, DIN rails or magnetically.",
+   "keywords": "usw flex 2.5g poe 8 port multigig poe++ switch",
+   "specs": {
+    "ports": "8x 2.5GbE RJ45 (PoE++), 1x 10GbE RJ45 (PoE+++ in), 1x 10G SFP+",
+    "maxSpeedGbps": 10,
+    "managed": true,
+    "rackMountable": false,
+    "poe": 196,
+    "switchingCapacityGbps": 60
+   },
+   "collections": [
+    "homelab-starter"
+   ],
+   "warranty": 12,
+   "priceNote": "UI Store US list price $199.00; the store also itemizes a separate memory surcharge, bringing the checkout total to $214.00.",
+   "sources": {
+    "product": "https://store.ui.com/us/en/products/usw-flex-2-5g-8-poe",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://cdn.ecomm.ui.com/products/e9d97121-f363-4261-83db-5f74e093a304/dd55113e-93b2-40da-b10b-945ab4d609d0.png",
+    "page": "https://store.ui.com/us/en/products/usw-flex-2-5g-8-poe",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official Ubiquiti Store product image (cdn.ecomm.ui.com); Ubiquiti has not granted a reuse license - rights not verified.",
+    "alt": "Ubiquiti UniFi Switch Flex 2.5G PoE compact 8-port switch, front view",
+    "match": "EXACT"
+   }
+  },
+  {
+   "sku": "TK-UBNT-U7-LR",
+   "slug": "ubiquiti-unifi-u7-long-range",
+   "name": "Ubiquiti UniFi U7 Long-Range Access Point",
+   "brand": "Ubiquiti",
+   "category": "access-points",
+   "price": "159.00",
+   "priceBasis": "msrp",
+   "priceSource": "https://store.ui.com/us/en/products/u7-lr",
+   "priceAsOf": "2026-09-28",
+   "summary": "Ceiling-mount Wi-Fi 7 access point with 5 spatial streams, extended range and a 2.5 GbE uplink.",
+   "description": "The U7 Long-Range (U7-LR) is a compact ceiling-mounted Wi-Fi 7 access point with 5 spatial streams tuned for extended signal range. Ubiquiti rates it for 160 m² (1,750 ft²) coverage and 300+ clients over a 2.5 GbE PoE uplink.",
+   "keywords": "u7 lr long range wifi 7 access point",
+   "specs": {
+    "ports": "1x 2.5GbE RJ45 (PoE in)",
+    "maxSpeedGbps": 2.5,
+    "managed": true,
+    "rackMountable": false,
+    "wifiStandard": "Wi-Fi 7 (802.11be), 5 spatial streams"
+   },
+   "collections": [
+    "homelab-starter"
+   ],
+   "warranty": 12,
+   "priceNote": "UI Store US list price $159.00; the store also itemizes a separate memory surcharge, bringing the checkout total to $171.00.",
+   "sources": {
+    "product": "https://store.ui.com/us/en/products/u7-lr",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://cdn.ecomm.ui.com/products/7455fa2b-3074-47a0-b82f-a2cd701d4a8f/06752627-8180-42ea-afe3-4cfac57c10eb.png",
+    "page": "https://store.ui.com/us/en/products/u7-lr",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official Ubiquiti Store product image (cdn.ecomm.ui.com); Ubiquiti has not granted a reuse license - rights not verified.",
+    "alt": "Ubiquiti UniFi U7 Long-Range white round ceiling access point, top view",
+    "match": "EXACT"
+   }
+  },
+  {
+   "sku": "TK-UBNT-U7-OUTDOOR",
+   "slug": "ubiquiti-unifi-u7-outdoor",
+   "name": "Ubiquiti UniFi U7 Outdoor Access Point",
+   "brand": "Ubiquiti",
+   "category": "access-points",
+   "price": "199.00",
+   "priceBasis": "msrp",
+   "priceSource": "https://store.ui.com/us/en/products/u7-outdoor",
+   "priceAsOf": "2026-09-28",
+   "summary": "IPX6 all-weather Wi-Fi 7 access point with 4 spatial streams and an integrated directional super antenna.",
+   "description": "The U7 Outdoor is an all-weather (IPX6) Wi-Fi 7 access point with 4 spatial streams and an integrated directional super antenna, plus wall and pole mounts. Ubiquiti rates it for 465 m² (5,000 ft²) coverage and 250+ clients, powered by PoE+ over a 2.5 GbE uplink.",
+   "keywords": "u7 outdoor wifi 7 weatherproof access point",
+   "specs": {
+    "ports": "1x 2.5GbE RJ45 (PoE+ in)",
+    "maxSpeedGbps": 2.5,
+    "managed": true,
+    "rackMountable": false,
+    "wifiStandard": "Wi-Fi 7 (802.11be), 4 spatial streams, IPX6 outdoor"
+   },
+   "warranty": 12,
+   "priceNote": "UI Store US list price $199.00; the store also itemizes a separate memory surcharge, bringing the checkout total to $214.00.",
+   "sources": {
+    "product": "https://store.ui.com/us/en/products/u7-outdoor",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://cdn.ecomm.ui.com/products/62cc30b7-9559-480f-9668-b9edf40c0772/f2010c22-ff34-48e5-81f4-e7dad275d3c0.png",
+    "page": "https://store.ui.com/us/en/products/u7-outdoor",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official Ubiquiti Store product image (cdn.ecomm.ui.com); Ubiquiti has not granted a reuse license - rights not verified.",
+    "alt": "Ubiquiti UniFi U7 Outdoor weatherproof access point with directional antenna, front view",
+    "match": "EXACT"
+   }
+  },
+  {
+   "sku": "TK-UBNT-U7-MESH",
+   "slug": "ubiquiti-unifi-u7-mesh",
+   "name": "Ubiquiti UniFi U7 Mesh Access Point",
+   "brand": "Ubiquiti",
+   "category": "access-points",
+   "price": "199.00",
+   "priceBasis": "msrp",
+   "priceSource": "https://store.ui.com/us/en/products/u7-mesh",
+   "priceAsOf": "2026-09-28",
+   "summary": "Compact indoor/outdoor Wi-Fi 7 mesh access point with a long-range antenna system and IPX6 rating.",
+   "description": "The U7 Mesh is a slim indoor/outdoor Wi-Fi 7 access point with 4 spatial streams and an integrated long-range antenna system, weatherproof to IPX6 with the outdoor mount. It covers 140 m² (1,500 ft²), serves 200+ clients and uses a 2.5 GbE PoE uplink.",
+   "keywords": "u7 mesh wifi 7 outdoor indoor access point",
+   "specs": {
+    "ports": "1x 2.5GbE RJ45 (PoE in)",
+    "maxSpeedGbps": 2.5,
+    "managed": true,
+    "rackMountable": false,
+    "wifiStandard": "Wi-Fi 7 (802.11be), 4 spatial streams, indoor/outdoor"
+   },
+   "warranty": 12,
+   "priceNote": "UI Store US list price $199.00; the store also itemizes a separate memory surcharge, bringing the checkout total to $214.00.",
+   "sources": {
+    "product": "https://store.ui.com/us/en/products/u7-mesh",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://cdn.ecomm.ui.com/products/3d6c28a3-3ba8-468c-b084-a7daf9d91d31/dd12539d-4c7e-4246-af89-b322f0ab7128.png",
+    "page": "https://store.ui.com/us/en/products/u7-mesh",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official Ubiquiti Store product image (cdn.ecomm.ui.com); Ubiquiti has not granted a reuse license - rights not verified.",
+    "alt": "Ubiquiti UniFi U7 Mesh slim cylindrical access point, front view",
+    "match": "EXACT"
+   }
+  },
+  {
+   "sku": "TK-UBNT-U7-PRO-WALL",
+   "slug": "ubiquiti-unifi-u7-pro-wall",
+   "name": "Ubiquiti UniFi U7 Pro Wall Access Point",
+   "brand": "Ubiquiti",
+   "category": "access-points",
+   "price": "199.00",
+   "priceBasis": "msrp",
+   "priceSource": "https://store.ui.com/us/en/products/u7-pro-wall",
+   "priceAsOf": "2026-09-28",
+   "summary": "Wall-mounted tri-band Wi-Fi 7 access point with 6 spatial streams, 6 GHz support and a 2.5 GbE uplink.",
+   "description": "The U7 Pro Wall is a wall-mounted Wi-Fi 7 access point with 6 spatial streams and 6 GHz support, designed for home builders and clean installations. It covers 140 m² (1,500 ft²), handles 300+ clients and is powered by PoE+ over 2.5 GbE.",
+   "keywords": "u7 pro wall wifi 7 6ghz wall access point",
+   "specs": {
+    "ports": "1x 2.5GbE RJ45 (PoE+ in)",
+    "maxSpeedGbps": 2.5,
+    "managed": true,
+    "rackMountable": false,
+    "wifiStandard": "Wi-Fi 7 (802.11be) tri-band 2.4/5/6 GHz, 6 spatial streams"
+   },
+   "warranty": 12,
+   "priceNote": "UI Store US list price $199.00; the store also itemizes a separate memory surcharge, bringing the checkout total to $214.00.",
+   "sources": {
+    "product": "https://store.ui.com/us/en/products/u7-pro-wall",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://cdn.ecomm.ui.com/products/7dacb4f6-b703-4154-9264-784f2eb0dbda/f1cb65a5-c557-4e02-bcbb-090502a95b84.png",
+    "page": "https://store.ui.com/us/en/products/u7-pro-wall",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official Ubiquiti Store product image (cdn.ecomm.ui.com); Ubiquiti has not granted a reuse license - rights not verified.",
+    "alt": "Ubiquiti UniFi U7 Pro Wall white wall-mounted access point, front view",
+    "match": "EXACT"
+   }
+  },
+  {
+   "sku": "TK-UBNT-U7-IW",
+   "slug": "ubiquiti-unifi-u7-in-wall",
+   "name": "Ubiquiti UniFi U7 In-Wall Access Point",
+   "brand": "Ubiquiti",
+   "category": "access-points",
+   "price": "149.00",
+   "priceBasis": "msrp",
+   "priceSource": "https://store.ui.com/us/en/products/u7-iw",
+   "priceAsOf": "2026-09-28",
+   "summary": "In-wall Wi-Fi 7 access point with 4 spatial streams and an integrated 2.5 GbE PoE switch for hospitality.",
+   "description": "The U7 In-Wall (U7-IW) is a wall-plate Wi-Fi 7 access point with 4 spatial streams and an integrated 2.5 GbE switch that can pass PoE to one device when fed with PoE+. It covers 115 m² (1,250 ft²) and 200+ clients, aimed at hotel rooms and apartments.",
+   "keywords": "u7 in-wall iw wifi 7 hospitality access point",
+   "specs": {
+    "ports": "1x 2.5GbE RJ45 uplink (PoE in), integrated 2.5GbE switch ports (1 PoE out)",
+    "maxSpeedGbps": 2.5,
+    "managed": true,
+    "rackMountable": false,
+    "wifiStandard": "Wi-Fi 7 (802.11be), 4 spatial streams"
+   },
+   "warranty": 12,
+   "priceNote": "UI Store US list price $149.00; the store also itemizes a separate memory surcharge, bringing the checkout total to $160.00.",
+   "sources": {
+    "product": "https://store.ui.com/us/en/products/u7-iw",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://cdn.ecomm.ui.com/products/9ea6158e-bc26-4ac7-946a-55eca465b059/566b1098-3514-46b6-8aee-4fde454d1205.png",
+    "page": "https://store.ui.com/us/en/products/u7-iw",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official Ubiquiti Store product image (cdn.ecomm.ui.com); Ubiquiti has not granted a reuse license - rights not verified.",
+    "alt": "Ubiquiti UniFi U7 In-Wall white wall-plate access point, front view",
+    "match": "EXACT"
+   }
+  },
+  {
+   "sku": "TK-UBNT-U6-PLUS",
+   "slug": "ubiquiti-unifi-u6-plus",
+   "name": "Ubiquiti UniFi U6+ Access Point",
+   "brand": "Ubiquiti",
+   "category": "access-points",
+   "price": "129.00",
+   "priceBasis": "msrp",
+   "priceSource": "https://store.ui.com/us/en/products/u6-plus",
+   "priceAsOf": "2026-09-28",
+   "summary": "Compact ceiling-mount dual-band Wi-Fi 6 access point with 4 spatial streams for small and medium businesses.",
+   "description": "The U6+ is a compact ceiling-mounted Wi-Fi 6 access point with 4 spatial streams that improves on the U6 Lite with higher performance. Ubiquiti rates it for 140 m² (1,500 ft²) and 300+ clients on a Gigabit PoE uplink.",
+   "keywords": "u6 plus wifi 6 budget access point",
+   "specs": {
+    "ports": "1x 1GbE RJ45 (PoE in)",
+    "maxSpeedGbps": 1,
+    "managed": true,
+    "rackMountable": false,
+    "wifiStandard": "Wi-Fi 6 (802.11ax) dual-band, 4 spatial streams"
+   },
+   "warranty": 12,
+   "priceNote": "UI Store US list price $129.00; the store also itemizes a separate memory surcharge, bringing the checkout total to $139.00.",
+   "sources": {
+    "product": "https://store.ui.com/us/en/products/u6-plus",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://cdn.ecomm.ui.com/products/6d5c6141-e2e9-416a-b789-53e59416bb1a/853bc73b-f65b-4e59-a171-75c9a4a4615e.png",
+    "page": "https://store.ui.com/us/en/products/u6-plus",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official Ubiquiti Store product image (cdn.ecomm.ui.com); Ubiquiti has not granted a reuse license - rights not verified.",
+    "alt": "Ubiquiti UniFi U6+ compact white round ceiling access point, top view",
+    "match": "EXACT"
+   }
+  },
+  {
+   "sku": "TK-UBNT-U6-PRO",
+   "slug": "ubiquiti-unifi-u6-pro",
+   "name": "Ubiquiti UniFi U6 Pro Access Point",
+   "brand": "Ubiquiti",
+   "category": "access-points",
+   "price": "159.00",
+   "priceBasis": "msrp",
+   "priceSource": "https://store.ui.com/us/en/products/u6-pro",
+   "priceAsOf": "2026-09-28",
+   "summary": "Ceiling-mount Wi-Fi 6 access point with 6 spatial streams designed for large offices.",
+   "description": "The U6 Pro is a ceiling-mounted Wi-Fi 6 access point with 6 spatial streams, rated for 140 m² (1,500 ft²) and 250+ clients. It is powered by PoE over a Gigabit uplink and carries an IP54 rating.",
+   "keywords": "u6 pro wifi 6 office access point",
+   "specs": {
+    "ports": "1x 1GbE RJ45 (PoE in)",
+    "maxSpeedGbps": 1,
+    "managed": true,
+    "rackMountable": false,
+    "wifiStandard": "Wi-Fi 6 (802.11ax) dual-band, 6 spatial streams"
+   },
+   "warranty": 12,
+   "priceNote": "UI Store US list price $159.00; the store also itemizes a separate memory surcharge, bringing the checkout total to $171.00.",
+   "sources": {
+    "product": "https://store.ui.com/us/en/products/u6-pro",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://cdn.ecomm.ui.com/products/8e88b222-7a55-4cf0-8677-ae9b6347fe84/e16aa122-b5e5-4ffb-9f1a-27ee14d9ab3d.png",
+    "page": "https://store.ui.com/us/en/products/u6-pro",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official Ubiquiti Store product image (cdn.ecomm.ui.com); Ubiquiti has not granted a reuse license - rights not verified.",
+    "alt": "Ubiquiti UniFi U6 Pro white round ceiling access point, top view",
+    "match": "EXACT"
+   }
+  },
+  {
+   "sku": "TK-UBNT-U6-ENTERPRISE",
+   "slug": "ubiquiti-unifi-u6-enterprise",
+   "name": "Ubiquiti UniFi U6 Enterprise Access Point",
+   "brand": "Ubiquiti",
+   "category": "access-points",
+   "price": "279.00",
+   "priceBasis": "msrp",
+   "priceSource": "https://store.ui.com/us/en/products/u6-enterprise",
+   "priceAsOf": "2026-09-28",
+   "summary": "Ceiling-mount tri-band Wi-Fi 6E access point with 10 spatial streams, 6 GHz and a 2.5 GbE uplink.",
+   "description": "The U6 Enterprise is a ceiling-mounted Wi-Fi 6E access point with 10 spatial streams across 2.4, 5 and 6 GHz for high client density. Ubiquiti rates it for 600+ clients and 140 m² (1,500 ft²), powered by PoE+ over 2.5 GbE.",
+   "keywords": "u6 enterprise wifi 6e 6ghz high density access point",
+   "specs": {
+    "ports": "1x 2.5GbE RJ45 (PoE+ in)",
+    "maxSpeedGbps": 2.5,
+    "managed": true,
+    "rackMountable": false,
+    "wifiStandard": "Wi-Fi 6E (802.11ax) tri-band 2.4/5/6 GHz, 10 spatial streams"
+   },
+   "warranty": 12,
+   "priceNote": "UI Store US list price $279.00; the store also itemizes a separate memory surcharge, bringing the checkout total to $301.00.",
+   "sources": {
+    "product": "https://store.ui.com/us/en/products/u6-enterprise",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://cdn.ecomm.ui.com/products/f9118c0f-060b-4fd7-99ce-ace671c7a1fe/6f2a87a4-193d-43e0-b253-aa0ea0795694.png",
+    "page": "https://store.ui.com/us/en/products/u6-enterprise",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official Ubiquiti Store product image (cdn.ecomm.ui.com); Ubiquiti has not granted a reuse license - rights not verified.",
+    "alt": "Ubiquiti UniFi U6 Enterprise large white round ceiling access point, top view",
+    "match": "EXACT"
+   }
+  },
+  {
+   "sku": "TK-UBNT-U6-MESH",
+   "slug": "ubiquiti-unifi-u6-mesh",
+   "name": "Ubiquiti UniFi U6 Mesh Access Point",
+   "brand": "Ubiquiti",
+   "category": "access-points",
+   "price": "179.00",
+   "priceBasis": "msrp",
+   "priceSource": "https://store.ui.com/us/en/products/u6-mesh",
+   "priceAsOf": "2026-09-28",
+   "summary": "Sleek indoor/outdoor Wi-Fi 6 mesh access point with 6 spatial streams and IPX5 weather resistance.",
+   "description": "The U6 Mesh is a slim indoor/outdoor Wi-Fi 6 access point with 6 spatial streams designed for mesh deployments. It is IPX5 weatherproof when mounted LED side up, covers 140 m² (1,500 ft²) and supports 250+ clients on a Gigabit PoE uplink.",
+   "keywords": "u6 mesh wifi 6 outdoor access point",
+   "specs": {
+    "ports": "1x 1GbE RJ45 (PoE in)",
+    "maxSpeedGbps": 1,
+    "managed": true,
+    "rackMountable": false,
+    "wifiStandard": "Wi-Fi 6 (802.11ax) dual-band, 6 spatial streams, indoor/outdoor"
+   },
+   "warranty": 12,
+   "priceNote": "UI Store US list price $179.00; the store also itemizes a separate memory surcharge, bringing the checkout total to $193.00.",
+   "sources": {
+    "product": "https://store.ui.com/us/en/products/u6-mesh",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://cdn.ecomm.ui.com/products/7b8f8da5-d684-4170-be1f-71b53af8d7f9/fdce5345-80e9-4edd-bf5b-93cf9141649e.png",
+    "page": "https://store.ui.com/us/en/products/u6-mesh",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official Ubiquiti Store product image (cdn.ecomm.ui.com); Ubiquiti has not granted a reuse license - rights not verified.",
+    "alt": "Ubiquiti UniFi U6 Mesh slim white cylindrical access point, front view",
+    "match": "EXACT"
+   }
+  },
+  {
+   "sku": "TK-UBNT-UDM-PRO",
+   "slug": "ubiquiti-unifi-dream-machine-pro",
+   "name": "Ubiquiti UniFi Dream Machine Pro",
+   "brand": "Ubiquiti",
+   "category": "routers-gateways",
+   "price": "379.00",
+   "priceBasis": "msrp",
+   "priceSource": "https://store.ui.com/us/en/products/udm-pro",
+   "priceAsOf": "2026-09-28",
+   "summary": "1U 10G UniFi Cloud Gateway with 3.5 Gbps IPS routing, a 3.5-inch NVR bay and support for 1,000+ clients.",
+   "description": "The Dream Machine Pro (UDM-Pro) is a 1U UniFi Cloud Gateway that runs Network, Protect, Access, Talk and Connect. It has 3.5 Gbps IDS/IPS throughput, supports 100+ UniFi devices and 1,000+ clients, and provides nine Gigabit ports and two 10G SFP+ ports with Shadow Mode gateway failover.",
+   "keywords": "udm pro dream machine gateway ids ips nvr 10g",
+   "specs": {
+    "ports": "9x 1GbE RJ45, 2x 10G SFP+",
+    "maxSpeedGbps": 10,
+    "managed": true,
+    "rackMountable": true
+   },
+   "collections": [
+    "homelab-essentials",
+    "small-business"
+   ],
+   "warranty": 12,
+   "priceNote": "UI Store US list price $379.00; the store also itemizes a separate memory surcharge, bringing the checkout total to $408.00.",
+   "sources": {
+    "product": "https://store.ui.com/us/en/products/udm-pro",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://cdn.ecomm.ui.com/products/9df27ed4-c4ae-471a-8982-f5b0650da76a/2ede4300-385f-4043-8d96-e0400a22465f.png",
+    "page": "https://store.ui.com/us/en/products/udm-pro",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official Ubiquiti Store product image (cdn.ecomm.ui.com); Ubiquiti has not granted a reuse license - rights not verified.",
+    "alt": "Ubiquiti UniFi Dream Machine Pro 1U rack gateway, front view with display and ports",
+    "match": "EXACT"
+   }
+  },
+  {
+   "sku": "TK-UBNT-UDM-SE",
+   "slug": "ubiquiti-unifi-dream-machine-se",
+   "name": "Ubiquiti UniFi Dream Machine Special Edition",
+   "brand": "Ubiquiti",
+   "category": "routers-gateways",
+   "price": "499.00",
+   "priceBasis": "msrp",
+   "priceSource": "https://store.ui.com/us/en/products/udm-se",
+   "priceAsOf": "2026-09-28",
+   "summary": "1U 10G UniFi Cloud Gateway with built-in PoE switching, 2.5 GbE WAN and 3.5 Gbps IPS routing.",
+   "description": "The Dream Machine Special Edition (UDM-SE) is a 1U UniFi Cloud Gateway with 3.5 Gbps IDS/IPS throughput, eight Gigabit ports with built-in PoE switching, a 2.5 GbE WAN port and two 10G SFP+ ports. It supports 100+ UniFi devices and 1,000+ clients and runs the full UniFi application suite.",
+   "keywords": "udm se dream machine special edition poe gateway",
+   "specs": {
+    "ports": "8x 1GbE RJ45 (PoE switching), 1x 2.5GbE RJ45 WAN, 2x 10G SFP+",
+    "maxSpeedGbps": 10,
+    "managed": true,
+    "rackMountable": true
+   },
+   "collections": [
+    "homelab-essentials",
+    "small-business"
+   ],
+   "warranty": 12,
+   "priceNote": "UI Store US list price $499.00; the store also itemizes a separate memory surcharge, bringing the checkout total to $538.00.",
+   "sources": {
+    "product": "https://store.ui.com/us/en/products/udm-se",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://cdn.ecomm.ui.com/products/1b6fcc08-a6b8-4496-a831-6125a47c412f/1aaaac38-597b-4125-b0de-7a2671580b21.png",
+    "page": "https://store.ui.com/us/en/products/udm-se",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official Ubiquiti Store product image (cdn.ecomm.ui.com); Ubiquiti has not granted a reuse license - rights not verified.",
+    "alt": "Ubiquiti UniFi Dream Machine SE 1U rack gateway, front view",
+    "match": "EXACT"
+   }
+  },
+  {
+   "sku": "TK-UBNT-UXG-LITE",
+   "slug": "ubiquiti-unifi-gateway-lite",
+   "name": "Ubiquiti UniFi Gateway Lite",
+   "brand": "Ubiquiti",
+   "category": "routers-gateways",
+   "price": "69.00",
+   "priceBasis": "msrp",
+   "priceSource": "https://store.ui.com/us/en/products/uxg-lite",
+   "priceAsOf": "2026-09-28",
+   "summary": "Compact UniFi gateway with Gigabit WAN/LAN, 1 Gbps IPS routing and a full suite of routing and security features.",
+   "description": "The Gateway Lite (UXG-Lite) is a compact independent UniFi gateway with one Gigabit WAN and one Gigabit LAN port. It delivers 1 Gbps IDS/IPS throughput and policy-based WAN/VPN routing; it is managed by a separate UniFi console or hosted UniFi Network.",
+   "keywords": "uxg lite gateway router budget unifi",
+   "specs": {
+    "ports": "2x 1GbE RJ45 (1 WAN, 1 LAN)",
+    "maxSpeedGbps": 1,
+    "managed": true,
+    "rackMountable": false
+   },
+   "collections": [
+    "homelab-starter"
+   ],
+   "warranty": 12,
+   "sources": {
+    "product": "https://store.ui.com/us/en/products/uxg-lite",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://cdn.ecomm.ui.com/products/2eb8bbf3-3f14-4d50-a4b7-e575310eccf2/1cef231b-5cd2-443c-9b75-6844a84d55c5.png",
+    "page": "https://store.ui.com/us/en/products/uxg-lite",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official Ubiquiti Store product image (cdn.ecomm.ui.com); Ubiquiti has not granted a reuse license - rights not verified.",
+    "alt": "Ubiquiti UniFi Gateway Lite compact white square gateway, front three-quarter view",
+    "match": "EXACT"
+   }
+  },
+  {
+   "sku": "TK-UBNT-UXG-MAX",
+   "slug": "ubiquiti-unifi-gateway-max",
+   "name": "Ubiquiti UniFi Gateway Max",
+   "brand": "Ubiquiti",
+   "category": "routers-gateways",
+   "price": "199.00",
+   "priceBasis": "msrp",
+   "priceSource": "https://store.ui.com/us/en/products/uxg-max",
+   "priceAsOf": "2026-09-28",
+   "summary": "Compact multi-WAN UniFi gateway with five 2.5 GbE ports and 2.3 Gbps IPS routing.",
+   "description": "The Gateway Max (UXG-Max) is a compact independent UniFi gateway with five 2.5 GbE ports, up to four of which can be WANs for load balancing. It delivers 2.3 Gbps IDS/IPS throughput and draws 9.6 W max.",
+   "keywords": "uxg max 2.5g multi wan gateway",
+   "specs": {
+    "ports": "5x 2.5GbE RJ45",
+    "maxSpeedGbps": 2.5,
+    "managed": true,
+    "rackMountable": false
+   },
+   "collections": [
+    "homelab-starter"
+   ],
+   "warranty": 12,
+   "priceNote": "UI Store US list price $199.00; the store also itemizes a separate memory surcharge, bringing the checkout total to $214.00.",
+   "sources": {
+    "product": "https://store.ui.com/us/en/products/uxg-max",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://cdn.ecomm.ui.com/products/8733d39f-7799-4268-bb24-3185c7cd0877/f94c1ece-2a1a-4760-afb2-167c7c46337f.png",
+    "page": "https://store.ui.com/us/en/products/uxg-max",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official Ubiquiti Store product image (cdn.ecomm.ui.com); Ubiquiti has not granted a reuse license - rights not verified.",
+    "alt": "Ubiquiti UniFi Gateway Max compact white gateway, front view with five ports",
+    "match": "EXACT"
+   }
+  },
+  {
+   "sku": "TK-UBNT-UXG-FIBER",
+   "slug": "ubiquiti-unifi-gateway-fiber",
+   "name": "Ubiquiti UniFi Gateway Fiber",
+   "brand": "Ubiquiti",
+   "category": "routers-gateways",
+   "price": "279.00",
+   "priceBasis": "msrp",
+   "priceSource": "https://store.ui.com/us/en/products/uxg-fiber",
+   "priceAsOf": "2026-09-28",
+   "summary": "Desktop 10G UniFi gateway with 10 GbE and SFP+ WAN, a 4-port 2.5 GbE switch and 5 Gbps IPS routing.",
+   "description": "The Gateway Fiber (UXG-Fiber) is a desktop independent UniFi gateway with a 10 GbE RJ45 port, two 10G SFP+ ports and an integrated four-port 2.5 GbE switch. It delivers 5 Gbps IDS/IPS throughput and supports up to six WANs.",
+   "keywords": "uxg fiber 10g gateway sfp+ multi-gig",
+   "specs": {
+    "ports": "1x 10GbE RJ45, 2x 10G SFP+, 4x 2.5GbE RJ45",
+    "maxSpeedGbps": 10,
+    "managed": true,
+    "rackMountable": false
+   },
+   "collections": [
+    "homelab-essentials"
+   ],
+   "warranty": 12,
+   "priceNote": "UI Store US list price $279.00; the store also itemizes a separate memory surcharge, bringing the checkout total to $301.00.",
+   "sources": {
+    "product": "https://store.ui.com/us/en/products/uxg-fiber",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://cdn.ecomm.ui.com/products/7310b331-fede-4e5f-9392-b6661ffce39f/cc4c2f12-1c52-4fbd-99b8-da3eb6422800.png",
+    "page": "https://store.ui.com/us/en/products/uxg-fiber",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official Ubiquiti Store product image (cdn.ecomm.ui.com); Ubiquiti has not granted a reuse license - rights not verified.",
+    "alt": "Ubiquiti UniFi Gateway Fiber white desktop gateway, front view",
+    "match": "EXACT"
+   }
+  },
+  {
+   "sku": "TK-UBNT-UXG-ENTERPRISE",
+   "slug": "ubiquiti-unifi-gateway-enterprise",
+   "name": "Ubiquiti UniFi Gateway Enterprise",
+   "brand": "Ubiquiti",
+   "category": "routers-gateways",
+   "price": "1999.00",
+   "priceBasis": "msrp",
+   "priceSource": "https://store.ui.com/us/en/products/uxg-enterprise",
+   "priceAsOf": "2026-09-28",
+   "summary": "1U 25G UniFi gateway with 12.5 Gbps IPS routing, 10 million sessions and dual hot-swap PSUs.",
+   "description": "The Gateway Enterprise (UXG-Enterprise) is a 1U independent UniFi gateway with two 25G SFP28, two 10G SFP+ and two 2.5 GbE ports. Ubiquiti lists 12.5 Gbps IDS/IPS throughput, 10 million concurrent sessions, SSL/TLS inspection and redundant hot-swappable power supplies.",
+   "keywords": "uxg enterprise 25g gateway firewall ips",
+   "specs": {
+    "ports": "2x 25G SFP28, 2x 10G SFP+, 2x 2.5GbE RJ45",
+    "maxSpeedGbps": 25,
+    "managed": true,
+    "rackMountable": true
+   },
+   "collections": [
+    "enterprise-lab"
+   ],
+   "warranty": 12,
+   "priceNote": "UI Store US list price $1,999.00; the store also itemizes a separate memory surcharge, bringing the checkout total to $2,156.00.",
+   "sources": {
+    "product": "https://store.ui.com/us/en/products/uxg-enterprise",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://cdn.ecomm.ui.com/products/3dbb7c83-aa76-4110-9ddf-7bfd7d8511cc/53b4a089-6728-4971-9668-3d76513637f9.png",
+    "page": "https://store.ui.com/us/en/products/uxg-enterprise",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official Ubiquiti Store product image (cdn.ecomm.ui.com); Ubiquiti has not granted a reuse license - rights not verified.",
+    "alt": "Ubiquiti UniFi Gateway Enterprise 1U rack gateway, front view",
+    "match": "EXACT"
+   }
+  },
+  {
+   "sku": "TK-UBNT-UDR-5G-MAX",
+   "slug": "ubiquiti-unifi-dream-router-5g-max",
+   "name": "Ubiquiti UniFi Dream Router 5G Max",
+   "brand": "Ubiquiti",
+   "category": "routers-gateways",
+   "price": "499.00",
+   "priceBasis": "msrp",
+   "priceSource": "https://store.ui.com/us/en/products/udr-5g-max",
+   "priceAsOf": "2026-09-28",
+   "summary": "Desktop UniFi Cloud Gateway with built-in 5G (up to 3.4 Gbps), Wi-Fi 7, 10G SFP+ and a 2.5 GbE PoE switch.",
+   "description": "The Dream Router 5G Max (UDR-5G-Max) combines a 5G modem (up to 3.4 Gbps), a Wi-Fi 7 access point, a 10G SFP+ port and a four-port 2.5 GbE switch with one PoE port in a desktop UniFi Cloud Gateway. It delivers 2.3 Gbps IDS/IPS throughput, supports 30+ UniFi devices and 300+ clients, and runs Network, Protect, Access, Talk and Connect.",
+   "keywords": "udr 5g max dream router cellular wifi 7 gateway",
+   "specs": {
+    "ports": "4x 2.5GbE RJ45 (1 PoE), 1x 10G SFP+, 5G modem",
+    "maxSpeedGbps": 10,
+    "managed": true,
+    "rackMountable": false,
+    "wifiStandard": "Wi-Fi 7 (802.11be)"
+   },
+   "warranty": 12,
+   "priceNote": "UI Store US list price $499.00; the store also itemizes a separate memory surcharge, bringing the checkout total to $538.00.",
+   "sources": {
+    "product": "https://store.ui.com/us/en/products/udr-5g-max",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://cdn.ecomm.ui.com/products/59acabe1-9d17-43dc-8015-dfb95897fa11/7da91ff3-a17a-4c0d-80f5-f9f611c6c094.png",
+    "page": "https://store.ui.com/us/en/products/udr-5g-max",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official Ubiquiti Store product image (cdn.ecomm.ui.com); Ubiquiti has not granted a reuse license - rights not verified.",
+    "alt": "Ubiquiti UniFi Dream Router 5G Max white tower router, front view",
+    "match": "EXACT"
+   }
+  },
+  {
+   "sku": "TK-UBNT-UCK-G2-SSD",
+   "slug": "ubiquiti-unifi-cloudkey-plus-ssd",
+   "name": "Ubiquiti UniFi CloudKey+ SSD",
+   "brand": "Ubiquiti",
+   "category": "routers-gateways",
+   "price": "249.00",
+   "priceBasis": "msrp",
+   "priceSource": "https://store.ui.com/us/en/products/uck-g2-ssd",
+   "priceAsOf": "2026-09-28",
+   "summary": "Compact UniFi Console with a 1 TB SSD that hosts UniFi Network, Protect, Access, Talk and Connect.",
+   "description": "The CloudKey+ SSD (UCK-G2-SSD) is a compact UniFi Console that connects to Site Manager at unifi.ui.com for multi-application management. It ships with a user-upgradeable 1 TB 2.5-inch SATA SSD, has a Gigabit Ethernet port and supports up to 24 HD cameras in UniFi Protect.",
+   "keywords": "cloudkey plus ssd unifi console controller protect nvr",
+   "specs": {
+    "ports": "1x 1GbE RJ45",
+    "maxSpeedGbps": 1,
+    "managed": true,
+    "rackMountable": false
+   },
+   "collections": [
+    "small-business"
+   ],
+   "warranty": 12,
+   "priceNote": "UI Store US list price $249.00; the store also itemizes a separate memory surcharge, bringing the checkout total to $268.00.",
+   "sources": {
+    "product": "https://store.ui.com/us/en/products/uck-g2-ssd",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://cdn.ecomm.ui.com/products/5fe44300-c1bc-4d1a-aaf7-a2db93cca730/86d6fdfc-093e-4a58-9eb7-ca310f42c58b.png",
+    "page": "https://store.ui.com/us/en/products/uck-g2-ssd",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official Ubiquiti Store product image (cdn.ecomm.ui.com); Ubiquiti has not granted a reuse license - rights not verified.",
+    "alt": "Ubiquiti UniFi CloudKey+ SSD compact console, front three-quarter view",
+    "match": "EXACT"
+   }
+  },
+  {
+   "sku": "TK-UBNT-CK-ENTERPRISE",
+   "slug": "ubiquiti-unifi-cloudkey-enterprise",
+   "name": "Ubiquiti UniFi CloudKey Enterprise",
+   "brand": "Ubiquiti",
+   "category": "routers-gateways",
+   "price": "4999.00",
+   "priceBasis": "msrp",
+   "priceSource": "https://store.ui.com/us/en/products/cloud-key-enterprise",
+   "priceAsOf": "2026-09-28",
+   "summary": "1U UniFi Console for massive-scale networks: 1,000 UniFi devices, 10,000 clients and dual hot-swap PSUs.",
+   "description": "The CloudKey Enterprise (CK-Enterprise) is a 1U UniFi Console built to manage very large UniFi Networks, rated for 1,000 UniFi devices and 10,000 simultaneous clients. It has a 10G SFP+ port, a Gigabit port, a dedicated management port and two hot-swappable power supplies.",
+   "keywords": "cloudkey enterprise unifi console controller large scale",
+   "specs": {
+    "ports": "1x 10G SFP+, 1x 1GbE RJ45, 1x 1GbE management",
+    "maxSpeedGbps": 10,
+    "managed": true,
+    "rackMountable": true
+   },
+   "collections": [
+    "enterprise-lab"
+   ],
+   "warranty": 12,
+   "priceNote": "UI Store US list price $4,999.00; the store also itemizes a separate memory surcharge, bringing the checkout total to $5,393.00.",
+   "sources": {
+    "product": "https://store.ui.com/us/en/products/cloud-key-enterprise",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://cdn.ecomm.ui.com/products/93fdc127-8fe8-4f0e-a677-f3d8b9460fba/77ddde3d-ace1-4f27-b22b-d4690e1c8d8a.png",
+    "page": "https://store.ui.com/us/en/products/cloud-key-enterprise",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official Ubiquiti Store product image (cdn.ecomm.ui.com); Ubiquiti has not granted a reuse license - rights not verified.",
+    "alt": "Ubiquiti UniFi CloudKey Enterprise 1U rack console, front view",
+    "match": "EXACT"
+   }
+  },
+  {
+   "sku": "TK-UBNT-USP-PDU-PRO",
+   "slug": "ubiquiti-unifi-power-distribution-pro",
+   "name": "Ubiquiti UniFi Power Distribution Pro",
+   "brand": "Ubiquiti",
+   "category": "pdus",
+   "price": "279.00",
+   "priceBasis": "msrp",
+   "priceSource": "https://store.ui.com/us/en/products/usp-pdu-pro",
+   "priceAsOf": "2026-09-28",
+   "summary": "Rack PDU with 16 individually controllable 125 V outlets, 4 USB-C ports, a touchscreen and UniFi management.",
+   "description": "The Power Distribution Pro (USP-PDU-Pro) supplies an entire UniFi rack and lets each outlet be managed remotely from UniFi. It has 16 power-control outlets (1,875 W max total at 125 V AC, 15 A), four USB-C ports, a 1.3-inch touchscreen and Ethernet management.",
+   "keywords": "usp pdu pro switched rack pdu managed outlets unifi",
+   "specs": {
+    "pduType": "Switched",
+    "outletCount": 16,
+    "inputPower": "125V AC, 15A max, 50/60 Hz (1,875 W)"
+   },
+   "collections": [
+    "homelab-essentials",
+    "small-business"
+   ],
+   "warranty": 12,
+   "priceNote": "UI Store US list price $279.00; the store also itemizes a separate memory surcharge, bringing the checkout total to $301.00.",
+   "sources": {
+    "product": "https://store.ui.com/us/en/products/usp-pdu-pro",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://cdn.ecomm.ui.com/products/b178b896-3499-4fa3-8c56-ce2822be933f/deb6718c-8791-46a3-ab20-7e126f743f60.png",
+    "page": "https://store.ui.com/us/en/products/usp-pdu-pro",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official Ubiquiti Store product image (cdn.ecomm.ui.com); Ubiquiti has not granted a reuse license - rights not verified.",
+    "alt": "Ubiquiti UniFi Power Distribution Pro rack PDU with 16 outlets, front view",
+    "match": "EXACT"
+   }
+  },
+  {
+   "sku": "TK-UBNT-UPS-TOWER",
+   "slug": "ubiquiti-unifi-ups-tower",
+   "name": "Ubiquiti UniFi UPS Tower",
+   "brand": "Ubiquiti",
+   "category": "ups",
+   "price": "159.00",
+   "priceBasis": "msrp",
+   "priceSource": "https://store.ui.com/us/en/products/ups-tower-us",
+   "priceAsOf": "2026-09-28",
+   "summary": "UniFi-managed 1,000 VA / 600 W line-interactive UPS with 5 battery and 5 surge outlets and a hot-swap battery.",
+   "description": "The UPS Tower (UPS-Tower-US) is a desktop line-interactive UPS rated 1,000 VA / 600 W, managed from UniFi. It has five battery-backup and five surge-only NEMA 5-15R outlets, a hot-swappable 108 Wh lead-acid battery (about 7 minutes at 300 W half load) and supports graceful shutdown of UNVR/UNAS plus NUT for third-party devices.",
+   "keywords": "unifi ups tower battery backup managed nut",
+   "specs": {
+    "capacityVa": 1000,
+    "outputW": 600,
+    "waveform": "Simulated sine wave (battery mode)",
+    "rackMountable": false,
+    "outlets": 10
+   },
+   "collections": [
+    "homelab-starter"
+   ],
+   "warranty": 12,
+   "priceNote": "UI Store US list price $159.00; the store also itemizes a separate memory surcharge, bringing the checkout total to $171.00.",
+   "sources": {
+    "product": "https://store.ui.com/us/en/products/ups-tower-us",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://cdn.ecomm.ui.com/products/79ba566f-afed-4047-96d5-efdaf848add3/0374750d-d450-4268-9a23-784b29c70d91.png",
+    "page": "https://store.ui.com/us/en/products/ups-tower-us",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official Ubiquiti Store product image (cdn.ecomm.ui.com); Ubiquiti has not granted a reuse license - rights not verified.",
+    "alt": "Ubiquiti UniFi UPS Tower white desktop UPS, front three-quarter view",
+    "match": "EXACT"
+   }
+  },
+  {
+   "sku": "TK-UBNT-TOOLLESS-MINI-RACK",
+   "slug": "ubiquiti-unifi-toolless-mini-rack",
+   "name": "Ubiquiti UniFi Toolless Mini Rack",
+   "brand": "Ubiquiti",
+   "category": "racks-infrastructure",
+   "price": "299.00",
+   "priceBasis": "msrp",
+   "priceSource": "https://store.ui.com/us/en/products/toolless-mini-rack",
+   "priceAsOf": "2026-09-28",
+   "summary": "Compact, stackable 6U open-frame rack with toolless assembly, a handle and lockable casters.",
+   "description": "The Toolless Mini Rack (U-Rack-6U-TL) is a silver 6U open-frame floor rack designed for UniFi rack-mount devices. It assembles without tools, stacks with a second unit using the stacking kit, and holds 80 kg static or 45 kg when rolling on its lockable casters.",
+   "keywords": "unifi mini rack 6u open frame toolless homelab rack",
+   "specs": {
+    "rackUnits": 6,
+    "rackType": "Open frame (stackable)",
+    "loadCapacityKg": 80,
+    "colors": "Silver"
+   },
+   "collections": [
+    "homelab-starter",
+    "homelab-essentials"
+   ],
+   "featured": true,
+   "warranty": 12,
+   "sources": {
+    "product": "https://store.ui.com/us/en/products/toolless-mini-rack",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://cdn.ecomm.ui.com/products/12f6ef8d-1787-4dd6-bd95-6f113965bda0/91fe261b-dfae-4387-bfdf-64371aa75b08.png",
+    "page": "https://store.ui.com/us/en/products/toolless-mini-rack",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official Ubiquiti Store product image (cdn.ecomm.ui.com); Ubiquiti has not granted a reuse license - rights not verified.",
+    "alt": "Ubiquiti UniFi Toolless Mini Rack 6U silver open-frame rack with handle and casters, empty, three-quarter view",
+    "match": "EXACT"
+   }
+  },
+  {
+   "sku": "TK-UBNT-RACK-42U-800-G",
+   "slug": "ubiquiti-unifi-42u-rack-cabinet-800mm-glass",
+   "name": "Ubiquiti UniFi 42U Rack Cabinet, 800 mm, Glass Door",
+   "brand": "Ubiquiti",
+   "category": "racks-infrastructure",
+   "price": "999.00",
+   "priceBasis": "msrp",
+   "priceSource": "https://store.ui.com/us/en/products/uacc-rack-42u-800-g",
+   "priceAsOf": "2026-09-28",
+   "summary": "Fully assembled white 42U floor cabinet with tempered-glass door, built-in fans and 800 kg static capacity.",
+   "description": "The 42U Rack Cabinet, 800 mm (UACC-Rack-42U-800-G) is a fully assembled four-post enclosed floor cabinet with a tempered-glass front door, solid rear door, four lockable removable side panels and two pre-installed 120 mm fans. It uses square mounting holes, has adjustable mounting depth and supports 800 kg static or 320 kg rolling.",
+   "keywords": "unifi 42u rack cabinet server rack glass door",
+   "specs": {
+    "rackUnits": 42,
+    "rackType": "4-post enclosed cabinet, 600 x 800 mm",
+    "loadCapacityKg": 800,
+    "colors": "White"
+   },
+   "collections": [
+    "enterprise-lab",
+    "small-business"
+   ],
+   "warranty": 12,
+   "sources": {
+    "product": "https://store.ui.com/us/en/products/uacc-rack-42u-800-g",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://cdn.ecomm.ui.com/products/70fcffb0-a14b-434f-89b8-3d12bc5cd562/f9c2bc67-6071-4c7e-b3ff-bf204b3f65d3.png",
+    "page": "https://store.ui.com/us/en/products/uacc-rack-42u-800-g",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official Ubiquiti Store product image (cdn.ecomm.ui.com); Ubiquiti has not granted a reuse license - rights not verified.",
+    "alt": "Ubiquiti UniFi 42U white rack cabinet with glass door, front three-quarter view",
+    "match": "EXACT"
+   }
+  },
+  {
+   "sku": "TK-UBNT-RACK-12U-WALL-450-G",
+   "slug": "ubiquiti-unifi-12u-wall-rack-cabinet-450mm-glass",
+   "name": "Ubiquiti UniFi 12U Wall Rack Cabinet, 450 mm, Glass Door",
+   "brand": "Ubiquiti",
+   "category": "racks-infrastructure",
+   "price": "279.00",
+   "priceBasis": "msrp",
+   "priceSource": "https://store.ui.com/us/en/products/uacc-rack-12u-wall-450-g",
+   "priceAsOf": "2026-09-28",
+   "summary": "Fully assembled white 12U wall-mount cabinet with glass door, two built-in fans and 50 kg capacity.",
+   "description": "The 12U Rack Cabinet, 450 mm (UACC-Rack-12U-Wall-450-G) is a fully assembled wall-mount enclosed cabinet with a tempered-glass front door, lockable removable side panels and two pre-installed 120 mm fans. It holds 50 kg and fits Ubiquiti rack-mount devices up to 325 mm deep.",
+   "keywords": "unifi 12u wall rack cabinet network cabinet glass",
+   "specs": {
+    "rackUnits": 12,
+    "rackType": "Wall-mount enclosed cabinet, 450 mm deep",
+    "loadCapacityKg": 50,
+    "colors": "White"
+   },
+   "collections": [
+    "homelab-essentials",
+    "small-business"
+   ],
+   "warranty": 12,
+   "sources": {
+    "product": "https://store.ui.com/us/en/products/uacc-rack-12u-wall-450-g",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://cdn.ecomm.ui.com/products/5f3039de-f2f8-4c08-958c-f2546d363e7b/60c38f22-b12f-443d-bb11-d4750ae75847.png",
+    "page": "https://store.ui.com/us/en/products/uacc-rack-12u-wall-450-g",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official Ubiquiti Store product image (cdn.ecomm.ui.com); Ubiquiti has not granted a reuse license - rights not verified.",
+    "alt": "Ubiquiti UniFi 12U white wall-mount rack cabinet with glass door, front view",
+    "match": "EXACT"
+   }
+  },
+  {
+   "sku": "TK-UBNT-KEYSTONE-C6A-12",
+   "slug": "ubiquiti-unifi-cat6a-keystone-jack-12-pack",
+   "name": "Ubiquiti UniFi Cat6A Keystone Jack, 12-Pack",
+   "brand": "Ubiquiti",
+   "category": "patch-panels",
+   "price": "39.00",
+   "priceBasis": "msrp",
+   "priceSource": "https://store.ui.com/us/en/products/uacc-keystone-jack-c6a",
+   "priceAsOf": "2026-09-28",
+   "summary": "Toolless Cat6A keystone jacks (12-pack) that terminate without a punch-down or crimping tool.",
+   "description": "UniFi Cat6A Keystone Jacks (UACC-Keystone-Jack-C6A) terminate Cat6A cable without a punch-down or crimp tool. They are zinc-alloy, TIA-568A/568B compatible, accept 23-26 AWG cable and snap into keystone patch panels and wall plates.",
+   "keywords": "unifi keystone jack cat6a toolless patch panel",
+   "specs": {
+    "cableCategory": "Cat6A",
+    "ports": "12 keystone jacks",
+    "rackMountable": false
+   },
+   "collections": [
+    "homelab-essentials"
+   ],
+   "warranty": 12,
+   "sources": {
+    "product": "https://store.ui.com/us/en/products/uacc-keystone-jack-c6a",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://cdn.ecomm.ui.com/products/b78c6ae3-515b-439d-86e6-079719ef5fca/c0e353a5-43e9-4fe0-8038-b2d7a27c62d3.png",
+    "page": "https://store.ui.com/us/en/products/uacc-keystone-jack-c6a",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official Ubiquiti Store product image (cdn.ecomm.ui.com); Ubiquiti has not granted a reuse license - rights not verified.",
+    "alt": "Ubiquiti UniFi Cat6A toolless keystone jack, product view",
+    "match": "EXACT"
+   }
+  },
+  {
+   "sku": "TK-UBNT-DAC-SFP10",
+   "slug": "ubiquiti-unifi-10g-direct-attach-cable",
+   "name": "Ubiquiti UniFi 10G Direct Attach Cable (SFP+)",
+   "brand": "Ubiquiti",
+   "category": "cables",
+   "price": "13.00",
+   "priceBasis": "msrp",
+   "priceSource": "https://store.ui.com/us/en/products/10gbps-direct-attach-cable",
+   "priceAsOf": "2026-09-28",
+   "summary": "Copper SFP+ to SFP+ direct attach cable for 1/10 Gbps links, in 0.5, 1 and 3 m lengths.",
+   "description": "The UniFi 10G Direct Attach Cable (UACC-DAC-SFP10) is a passive copper SFP+ to SFP+ cable for 1 and 10 Gbps connections between switches, gateways and servers. It is offered in 0.5 m, 1 m and 3 m lengths with a black PVC jacket.",
+   "keywords": "unifi 10g dac sfp+ direct attach copper cable",
+   "specs": {
+    "cableCategory": "SFP+ DAC",
+    "lengthM": 0.5,
+    "maxSpeedGbps": 10
+   },
+   "variants": [
+    {
+     "label": "0.5 m",
+     "price": "13.00"
+    },
+    {
+     "label": "1 m",
+     "price": "15.00"
+    },
+    {
+     "label": "3 m",
+     "price": "20.00"
+    }
+   ],
+   "collections": [
+    "homelab-essentials",
+    "networking-lab"
+   ],
+   "warranty": 12,
+   "priceNote": "Official UI Store options: 0.5 m $13.00; 1 m $15.00; 3 m $20.00.",
+   "sources": {
+    "product": "https://store.ui.com/us/en/products/10gbps-direct-attach-cable",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://cdn.ecomm.ui.com/products/984725ff-e0cc-4bf9-8673-88a6515cf0d4/49fa943a-6c12-4211-b204-09c98b9f793c.png",
+    "page": "https://store.ui.com/us/en/products/10gbps-direct-attach-cable",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official Ubiquiti Store product image (cdn.ecomm.ui.com); Ubiquiti has not granted a reuse license - rights not verified.",
+    "alt": "Ubiquiti UniFi 10G SFP+ direct attach copper cable, coiled",
+    "match": "EXACT"
+   }
+  },
+  {
+   "sku": "TK-UBNT-ADAPTER-10GE-USBC",
+   "slug": "ubiquiti-unifi-10g-ethernet-adapter",
+   "name": "Ubiquiti UniFi 10G Ethernet Adapter",
+   "brand": "Ubiquiti",
+   "category": "network-adapters",
+   "price": "169.00",
+   "priceBasis": "msrp",
+   "priceSource": "https://store.ui.com/us/en/products/uacc-adapter-rj45-usbc-10ge",
+   "priceAsOf": "2026-09-28",
+   "summary": "Plug-and-play USB-C to 10 GbE RJ45 adapter for USB4 and Thunderbolt 3/4 hosts.",
+   "description": "The UniFi 10G Ethernet Adapter (UACC-Adapter-RJ45-USBC-10GE) adds a 10 GbE RJ45 port to laptops and desktops over USB-C. It requires a USB4, Thunderbolt 3 or Thunderbolt 4 host port and supports macOS 14.2+, Windows and Linux.",
+   "keywords": "unifi 10g ethernet adapter thunderbolt usb4 10gbe",
+   "specs": {
+    "ports": "1x 10GbE RJ45",
+    "maxSpeedGbps": 10,
+    "interface": "USB-C (USB4 / Thunderbolt 3 / Thunderbolt 4)"
+   },
+   "collections": [
+    "homelab-essentials"
+   ],
+   "warranty": 12,
+   "sources": {
+    "product": "https://store.ui.com/us/en/products/uacc-adapter-rj45-usbc-10ge",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://cdn.ecomm.ui.com/products/c8b53955-634c-4cfc-9d2e-c88be24e5df5/f813c9f1-da32-4178-97fc-3b809e8801d6.png",
+    "page": "https://store.ui.com/us/en/products/uacc-adapter-rj45-usbc-10ge",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official Ubiquiti Store product image (cdn.ecomm.ui.com); Ubiquiti has not granted a reuse license - rights not verified.",
+    "alt": "Ubiquiti UniFi 10G Ethernet Adapter with USB-C cable, product view",
+    "match": "EXACT"
+   }
+  },
+  {
+   "sku": "TK-UBNT-UISP-R-PRO",
+   "slug": "ubiquiti-uisp-router-pro",
+   "name": "Ubiquiti UISP Router Pro",
+   "brand": "Ubiquiti",
+   "category": "routers-gateways",
+   "price": "399.00",
+   "priceBasis": "msrp",
+   "priceSource": "https://store.ui.com/us/en/products/uisp-r-pro",
+   "priceAsOf": "2026-09-28",
+   "summary": "1U ISP router with nine Gigabit ports, four 10G SFP+ ports and up to 9.5 Gbps NAT throughput.",
+   "description": "The UISP Router Pro (UISP-R-Pro) is a 1U router for ISP applications with a quad-core ARM Cortex-A57 CPU, 4 GB DDR4, nine Gigabit ports and four 10G SFP+ ports. Ubiquiti lists up to 9,500 Mbps NAT throughput, OSPF routing, traffic shaping with automated customer suspension and a Power TransPort DC input for redundancy.",
+   "keywords": "uisp router pro isp wisp 10g sfp+ ospf",
+   "specs": {
+    "ports": "9x 1GbE RJ45, 4x 10G SFP+",
+    "maxSpeedGbps": 10,
+    "managed": true,
+    "rackMountable": true
+   },
+   "collections": [
+    "networking-lab"
+   ],
+   "warranty": 12,
+   "sources": {
+    "product": "https://store.ui.com/us/en/products/uisp-r-pro",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://cdn.ecomm.ui.com/products/ec0e908b-2c89-439e-b139-62fb87782396/a93491d0-0c95-4721-90be-c068afca6675.png",
+    "page": "https://store.ui.com/us/en/products/uisp-r-pro",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official Ubiquiti Store product image (cdn.ecomm.ui.com); Ubiquiti has not granted a reuse license - rights not verified.",
+    "alt": "Ubiquiti UISP Router Pro 1U rack router, front view",
+    "match": "EXACT"
+   }
+  },
+  {
+   "sku": "TK-UBNT-UISP-R",
+   "slug": "ubiquiti-uisp-router",
+   "name": "Ubiquiti UISP Router",
+   "brand": "Ubiquiti",
+   "category": "routers-gateways",
+   "price": "79.00",
+   "priceBasis": "msrp",
+   "priceSource": "https://store.ui.com/us/en/products/uisp-r",
+   "priceAsOf": "2026-09-28",
+   "summary": "Eight-port Gigabit MicroPoP router with 27V passive PoE on every port and up to 1 Gbps NAT throughput.",
+   "description": "The UISP Router (UISP-R) is an eight-port Gigabit router for MicroPoP sites, with 27V passive PoE output on all eight ports (110 W total with the included adapter) and a 1G SFP port. Ubiquiti lists up to 1 Gbps NAT throughput, OSPF routing and traffic shaping, managed from UISP.",
+   "keywords": "uisp router micropop wisp passive poe",
+   "specs": {
+    "ports": "8x 1GbE RJ45 (27V passive PoE), 1x 1G SFP",
+    "maxSpeedGbps": 1,
+    "managed": true,
+    "rackMountable": false
+   },
+   "warranty": 12,
+   "sources": {
+    "product": "https://store.ui.com/us/en/products/uisp-r",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://cdn.ecomm.ui.com/products/1b680862-945b-4a5c-9bd4-1e078ea98a59/6e5a6144-d951-47d8-aed6-2f4dd104cfb5.png",
+    "page": "https://store.ui.com/us/en/products/uisp-r",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official Ubiquiti Store product image (cdn.ecomm.ui.com); Ubiquiti has not granted a reuse license - rights not verified.",
+    "alt": "Ubiquiti UISP Router compact 8-port PoE router, front view",
+    "match": "EXACT"
+   }
+  },
+  {
+   "sku": "TK-UBNT-WAVE-MLO5",
+   "slug": "ubiquiti-uisp-wave-mlo5",
+   "name": "Ubiquiti UISP Wave MLO5",
+   "brand": "Ubiquiti",
+   "category": "access-points",
+   "price": "199.00",
+   "priceBasis": "msrp",
+   "priceSource": "https://store.ui.com/us/en/products/wave-mlo5",
+   "priceAsOf": "2026-09-28",
+   "summary": "Point-to-point 5 GHz bridge with dual Wi-Fi 7-based radios and Multi-Link Operation for 5+ Gbps throughput.",
+   "description": "The Wave MLO5 is a pole-mounted point-to-point wireless bridge with two 5 GHz Wi-Fi 7-based radios bonded by Multi-Link Operation. Ubiquiti lists 5+ Gbps total throughput and up to 100 km range, with a 10 GbE RJ45 and a 10G SFP+ port, GPS and IPX6 weatherproofing.",
+   "keywords": "wave mlo5 ptp bridge wireless backhaul wifi 7 uisp",
+   "specs": {
+    "ports": "1x 10GbE RJ45 (PoE in), 1x 10G SFP+",
+    "maxSpeedGbps": 10,
+    "managed": true,
+    "rackMountable": false,
+    "wifiStandard": "Wi-Fi 7-based dual 5 GHz PtP radios with MLO"
+   },
+   "warranty": 12,
+   "sources": {
+    "product": "https://store.ui.com/us/en/products/wave-mlo5",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://cdn.ecomm.ui.com/products/af789021-2af0-45fd-8fbd-bc464002706d/adeea40e-1f30-429d-b5e2-f9a24822d038.png",
+    "page": "https://store.ui.com/us/en/products/wave-mlo5",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official Ubiquiti Store product image (cdn.ecomm.ui.com); Ubiquiti has not granted a reuse license - rights not verified.",
+    "alt": "Ubiquiti UISP Wave MLO5 point-to-point bridge radio, front view",
+    "match": "EXACT"
+   }
+  },
+  {
+   "sku": "TK-UBNT-NBE-5AC",
+   "slug": "ubiquiti-airmax-nanobeam-5ac",
+   "name": "Ubiquiti airMAX NanoBeam 5AC",
+   "brand": "Ubiquiti",
+   "category": "access-points",
+   "price": "99.00",
+   "priceBasis": "msrp",
+   "priceSource": "https://store.ui.com/us/en/products/nanobeam-5ac",
+   "priceAsOf": "2026-09-28",
+   "summary": "Compact 5 GHz airMAX ac bridge/CPE with a 19 dBi antenna, dual Gigabit ports and enhanced surge protection.",
+   "description": "The airMAX NanoBeam 5AC (NBE-5AC-Gen2) is a compact UISP-ready 5 GHz wireless bridge and CPE with a 19 dBi dual-linear antenna and two Gigabit RJ45 ports. It runs airMAX ac in access point or station mode, is powered by 24V passive PoE (adapter included) and is rated for 200 km/h winds.",
+   "keywords": "nanobeam 5ac airmax bridge cpe wisp ptp",
+   "specs": {
+    "ports": "2x 1GbE RJ45 (24V passive PoE in)",
+    "maxSpeedGbps": 1,
+    "managed": true,
+    "rackMountable": false,
+    "wifiStandard": "airMAX ac 5 GHz, 19 dBi"
+   },
+   "warranty": 12,
+   "priceNote": "UI Store US list price $99.00; the store also itemizes a separate memory surcharge, bringing the checkout total to $106.00.",
+   "sources": {
+    "product": "https://store.ui.com/us/en/products/nanobeam-5ac",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://cdn.ecomm.ui.com/products/75529694-2bf4-483a-878f-71ccf550dc54/da0f7bdd-fc2b-49a3-8273-f75f861fd86c.png",
+    "page": "https://store.ui.com/us/en/products/nanobeam-5ac",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official Ubiquiti Store product image (cdn.ecomm.ui.com); Ubiquiti has not granted a reuse license - rights not verified.",
+    "alt": "Ubiquiti airMAX NanoBeam 5AC white dish bridge radio, front three-quarter view",
+    "match": "EXACT"
+   }
+  },
+  {
+   "sku": "TK-MIKROTIK-HAP-AX3",
+   "slug": "mikrotik-hap-ax3",
+   "name": "MikroTik hAP ax³",
+   "brand": "MikroTik",
+   "category": "routers-gateways",
+   "price": "139.00",
+   "priceBasis": "msrp",
+   "priceSource": "https://mikrotik.com/product/hap_ax3",
+   "priceAsOf": "2026-09-28",
+   "summary": "Dual-band AX1800 Wi-Fi 6 home router with a quad-core CPU, 1 GB RAM, 2.5 GbE port and USB 3.0.",
+   "description": "The hAP ax³ (C53UiG+5HPaxD2HPaxD) is a RouterOS v7 home router with a quad-core IPQ-6010 CPU (up to 1.8 GHz), 1 GB RAM and 2x2 Wi-Fi 6 on 2.4 and 5 GHz (AX1800) via external antennas. It has four Gigabit ports (one with PoE-out), one 2.5 GbE port and a USB 3.0 port.",
+   "keywords": "mikrotik hap ax3 wifi 6 router routeros 2.5g",
+   "specs": {
+    "ports": "4x 1GbE RJ45 (1 PoE-out), 1x 2.5GbE RJ45, 1x USB 3.0",
+    "maxSpeedGbps": 2.5,
+    "managed": true,
+    "rackMountable": false,
+    "wifiStandard": "Wi-Fi 6 (802.11ax) AX1800 dual-band"
+   },
+   "collections": [
+    "homelab-starter"
+   ],
+   "warranty": 12,
+   "priceNote": "MikroTik 'Suggested price' on the official product page (MikroTik sells through distributors).",
+   "sources": {
+    "product": "https://mikrotik.com/product/hap_ax3",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://cdn.mikrotik.com/web-assets/rb_images/2211_hi_res.png",
+    "page": "https://mikrotik.com/product/hap_ax3",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official MikroTik product image (cdn.mikrotik.com high-resolution download on the product page); MikroTik has not granted a general reuse license - rights not verified.",
+    "alt": "MikroTik hAP ax3 black Wi-Fi 6 router with external antennas, front view",
+    "match": "EXACT"
+   }
+  },
+  {
+   "sku": "TK-MIKROTIK-HAP-AX2",
+   "slug": "mikrotik-hap-ax2",
+   "name": "MikroTik hAP ax²",
+   "brand": "MikroTik",
+   "category": "routers-gateways",
+   "price": "99.00",
+   "priceBasis": "msrp",
+   "priceSource": "https://mikrotik.com/product/hap_ax2",
+   "priceAsOf": "2026-09-28",
+   "summary": "Compact dual-band AX1800 Wi-Fi 6 router with five Gigabit ports, PoE-in and PoE-out.",
+   "description": "The hAP ax² (C52iG-5HaxD2HaxD-TC) is a compact RouterOS v7 Wi-Fi 6 router with a quad-core IPQ-6010 CPU, 1 GB RAM and 2x2 AX1800 dual-band wireless. It has five Gigabit ports, accepts passive PoE-in and provides PoE-out on port 1.",
+   "keywords": "mikrotik hap ax2 wifi 6 router routeros",
+   "specs": {
+    "ports": "5x 1GbE RJ45 (1 PoE-out)",
+    "maxSpeedGbps": 1,
+    "managed": true,
+    "rackMountable": false,
+    "wifiStandard": "Wi-Fi 6 (802.11ax) AX1800 dual-band"
+   },
+   "warranty": 12,
+   "priceNote": "MikroTik 'Suggested price' on the official product page (MikroTik sells through distributors).",
+   "sources": {
+    "product": "https://mikrotik.com/product/hap_ax2",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://cdn.mikrotik.com/web-assets/rb_images/2203_hi_res.png",
+    "page": "https://mikrotik.com/product/hap_ax2",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official MikroTik product image (cdn.mikrotik.com high-resolution download on the product page); MikroTik has not granted a general reuse license - rights not verified.",
+    "alt": "MikroTik hAP ax2 black desktop Wi-Fi 6 router on its stand, front view",
+    "match": "EXACT"
+   }
+  },
+  {
+   "sku": "TK-MIKROTIK-HAP-AX-LITE",
+   "slug": "mikrotik-hap-ax-lite",
+   "name": "MikroTik hAP ax lite",
+   "brand": "MikroTik",
+   "category": "routers-gateways",
+   "price": "59.00",
+   "priceBasis": "msrp",
+   "priceSource": "https://mikrotik.com/product/hap_ax_lite",
+   "priceAsOf": "2026-09-28",
+   "summary": "Tiny 2.4 GHz Wi-Fi 6 router with four Gigabit ports and USB-C power, running RouterOS v7.",
+   "description": "The hAP ax lite (L41G-2axD) is MikroTik's low-cost Wi-Fi 6 router, with a dual-core IPQ-5010 CPU, 256 MB RAM, 2x2 2.4 GHz 802.11ax wireless (AX600) and four Gigabit Ethernet ports. It is powered over USB-C (5 V) and draws up to 8 W.",
+   "keywords": "mikrotik hap ax lite budget wifi 6 router travel",
+   "specs": {
+    "ports": "4x 1GbE RJ45",
+    "maxSpeedGbps": 1,
+    "managed": true,
+    "rackMountable": false,
+    "wifiStandard": "Wi-Fi 6 (802.11ax) AX600, 2.4 GHz only"
+   },
+   "warranty": 12,
+   "priceNote": "MikroTik 'Suggested price' on the official product page (MikroTik sells through distributors).",
+   "sources": {
+    "product": "https://mikrotik.com/product/hap_ax_lite",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://cdn.mikrotik.com/web-assets/rb_images/2225_hi_res.png",
+    "page": "https://mikrotik.com/product/hap_ax_lite",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official MikroTik product image (cdn.mikrotik.com high-resolution download on the product page); MikroTik has not granted a general reuse license - rights not verified.",
+    "alt": "MikroTik hAP ax lite small white and teal router, front three-quarter view",
+    "match": "EXACT"
+   }
+  },
+  {
+   "sku": "TK-MIKROTIK-CHATEAU-5G-AX",
+   "slug": "mikrotik-chateau-5g-ax",
+   "name": "MikroTik Chateau 5G ax",
+   "brand": "MikroTik",
+   "category": "routers-gateways",
+   "price": "595.00",
+   "priceBasis": "msrp",
+   "priceSource": "https://mikrotik.com/product/chateau_5g_ax",
+   "priceAsOf": "2026-09-28",
+   "summary": "5G/LTE Wi-Fi 6 home and office router with a Cat20 LTE / 5G SA-NSA modem, 2.5 GbE and RouterOS v7.",
+   "description": "The Chateau 5G ax (S53UG+M-5HaxD2HaxD-TC&RG502Q-EA) pairs a 5G modem (SA and NSA, LTE Category 20) with 2x2 dual-band Wi-Fi 6, a quad-core IPQ-6010 CPU and 1 GB RAM. It has four Gigabit ports, one 2.5 GbE port, a USB port and an M.2 slot, and runs RouterOS v7.",
+   "keywords": "mikrotik chateau 5g ax cellular lte router wifi 6",
+   "specs": {
+    "ports": "4x 1GbE RJ45, 1x 2.5GbE RJ45, 1x USB, Micro SIM",
+    "maxSpeedGbps": 2.5,
+    "managed": true,
+    "rackMountable": false,
+    "wifiStandard": "Wi-Fi 6 (802.11ax) dual-band"
+   },
+   "warranty": 12,
+   "priceNote": "MikroTik 'Suggested price' on the official product page (MikroTik sells through distributors).",
+   "sources": {
+    "product": "https://mikrotik.com/product/chateau_5g_ax",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://cdn.mikrotik.com/web-assets/rb_images/2208_hi_res.png",
+    "page": "https://mikrotik.com/product/chateau_5g_ax",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official MikroTik product image (cdn.mikrotik.com high-resolution download on the product page); MikroTik has not granted a general reuse license - rights not verified.",
+    "alt": "MikroTik Chateau 5G ax white 5G Wi-Fi 6 router, front view",
+    "match": "EXACT"
+   }
+  },
+  {
+   "sku": "TK-MIKROTIK-L009UIGS-RM",
+   "slug": "mikrotik-l009uigs-rm",
+   "name": "MikroTik L009UiGS-RM",
+   "brand": "MikroTik",
+   "category": "routers-gateways",
+   "price": "119.00",
+   "priceBasis": "msrp",
+   "priceSource": "https://mikrotik.com/product/l009uigs_rm",
+   "priceAsOf": "2026-09-28",
+   "summary": "Eight-port Gigabit RouterOS v7 router with a 2.5G SFP port, PoE-out, container support and 1U rack kit.",
+   "description": "The L009UiGS-RM is the successor to the RB2011 line: a dual-core ARM router with 512 MB RAM, eight Gigabit Ethernet ports (PoE-out on port 8), an SFP port with 2.5G support, USB 3.0 and an RJ45 serial console. It supports RouterOS v7 containers and ships with 1U rack-mount accessories.",
+   "keywords": "mikrotik l009 router rackmount routeros containers homelab",
+   "specs": {
+    "ports": "8x 1GbE RJ45 (1 PoE-out), 1x SFP (2.5G), USB 3.0, serial console",
+    "maxSpeedGbps": 2.5,
+    "managed": true,
+    "rackMountable": true
+   },
+   "collections": [
+    "homelab-starter",
+    "networking-lab"
+   ],
+   "warranty": 12,
+   "priceNote": "MikroTik 'Suggested price' on the official product page (MikroTik sells through distributors).",
+   "sources": {
+    "product": "https://mikrotik.com/product/l009uigs_rm",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://cdn.mikrotik.com/web-assets/rb_images/2267_hi_res.png",
+    "page": "https://mikrotik.com/product/l009uigs_rm",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official MikroTik product image (cdn.mikrotik.com high-resolution download on the product page); MikroTik has not granted a general reuse license - rights not verified.",
+    "alt": "MikroTik L009UiGS-RM red rack-mount router, front view",
+    "match": "EXACT"
+   }
+  },
+  {
+   "sku": "TK-MIKROTIK-CCR2004-16G-2S",
+   "slug": "mikrotik-ccr2004-16g-2s-plus",
+   "name": "MikroTik CCR2004-16G-2S+",
+   "brand": "MikroTik",
+   "category": "routers-gateways",
+   "price": "465.00",
+   "priceBasis": "msrp",
+   "priceSource": "https://mikrotik.com/product/ccr2004_16g_2splus",
+   "priceAsOf": "2026-09-28",
+   "summary": "1U Cloud Core Router with 16 Gigabit ports, 2x 10G SFP+, a quad-core Alpine v2 CPU and dual PSUs.",
+   "description": "The CCR2004-16G-2S+ is a 1U Cloud Core Router with an Annapurna Labs Alpine v2 quad-core ARM CPU at 1.7 GHz, 4 GB DDR4 RAM, sixteen Gigabit ports, two 10G SFP+ cages, a USB port and an RJ45 console. It has dual redundant AC power supplies and active cooling.",
+   "keywords": "mikrotik ccr2004 16g cloud core router bgp 10g",
+   "specs": {
+    "ports": "16x 1GbE RJ45, 2x 10G SFP+, USB, console",
+    "maxSpeedGbps": 10,
+    "managed": true,
+    "rackMountable": true
+   },
+   "collections": [
+    "networking-lab"
+   ],
+   "warranty": 12,
+   "priceNote": "MikroTik 'Suggested price' on the official product page (MikroTik sells through distributors).",
+   "sources": {
+    "product": "https://mikrotik.com/product/ccr2004_16g_2splus",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://cdn.mikrotik.com/web-assets/rb_images/2563_hi_res.png",
+    "page": "https://mikrotik.com/product/ccr2004_16g_2splus",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official MikroTik product image (cdn.mikrotik.com high-resolution download on the product page); MikroTik has not granted a general reuse license - rights not verified.",
+    "alt": "MikroTik CCR2004-16G-2S+ white 1U Cloud Core Router, front view",
+    "match": "EXACT"
+   }
+  },
+  {
+   "sku": "TK-MIKROTIK-CCR2004-1G-12S-2XS",
+   "slug": "mikrotik-ccr2004-1g-12s-2xs",
+   "name": "MikroTik CCR2004-1G-12S+2XS",
+   "brand": "MikroTik",
+   "category": "routers-gateways",
+   "price": "595.00",
+   "priceBasis": "msrp",
+   "priceSource": "https://mikrotik.com/product/ccr2004_1g_12s_2xs",
+   "priceAsOf": "2026-09-28",
+   "summary": "1U connectivity router with twelve 10G SFP+ and two 25G SFP28 ports on a quad-core ARM CPU.",
+   "description": "The CCR2004-1G-12S+2XS is a 1U Cloud Core Router focused on fiber connectivity, with twelve 10G SFP+ ports, two 25G SFP28 ports and one Gigabit port. It uses a 1.7 GHz quad-core Alpine v2 CPU with 4 GB RAM and dual AC inputs; MikroTik cites up to 3.4 Gbps single-tunnel performance.",
+   "keywords": "mikrotik ccr2004 sfp+ sfp28 25g router fiber",
+   "specs": {
+    "ports": "12x 10G SFP+, 2x 25G SFP28, 1x 1GbE RJ45, console",
+    "maxSpeedGbps": 25,
+    "managed": true,
+    "rackMountable": true
+   },
+   "collections": [
+    "networking-lab",
+    "enterprise-lab"
+   ],
+   "warranty": 12,
+   "priceNote": "MikroTik 'Suggested price' on the official product page (MikroTik sells through distributors).",
+   "sources": {
+    "product": "https://mikrotik.com/product/ccr2004_1g_12s_2xs",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://cdn.mikrotik.com/web-assets/rb_images/1935_hi_res.png",
+    "page": "https://mikrotik.com/product/ccr2004_1g_12s_2xs",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official MikroTik product image (cdn.mikrotik.com high-resolution download on the product page); MikroTik has not granted a general reuse license - rights not verified.",
+    "alt": "MikroTik CCR2004-1G-12S+2XS white 1U SFP+ router, front view",
+    "match": "EXACT"
+   }
+  },
+  {
+   "sku": "TK-MIKROTIK-CRS310-8G-2S",
+   "slug": "mikrotik-crs310-8g-2s-in",
+   "name": "MikroTik CRS310-8G+2S+IN",
+   "brand": "MikroTik",
+   "category": "switches",
+   "price": "219.00",
+   "priceBasis": "msrp",
+   "priceSource": "https://mikrotik.com/product/crs310_8g_2s_in",
+   "priceAsOf": "2026-09-28",
+   "summary": "Desktop RouterOS v7 / SwitchOS switch with eight 2.5 GbE ports and two 10G SFP+ cages.",
+   "description": "The CRS310-8G+2S+IN is a compact Cloud Router Switch with eight 2.5 GbE ports and two multi-rate SFP+ cages (1/2.5/10G), built on a Marvell 98DX226S switch chip. It runs RouterOS v7 or SwitchOS and supports VLANs, jumbo frames, link aggregation and ACLs.",
+   "keywords": "mikrotik crs310 2.5g switch sfp+ multigig homelab",
+   "specs": {
+    "ports": "8x 2.5GbE RJ45, 2x 10G SFP+",
+    "maxSpeedGbps": 10,
+    "managed": true,
+    "rackMountable": false
+   },
+   "collections": [
+    "homelab-essentials"
+   ],
+   "featured": true,
+   "warranty": 12,
+   "priceNote": "MikroTik 'Suggested price' on the official product page (MikroTik sells through distributors).",
+   "sources": {
+    "product": "https://mikrotik.com/product/crs310_8g_2s_in",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://cdn.mikrotik.com/web-assets/rb_images/2280_hi_res.png",
+    "page": "https://mikrotik.com/product/crs310_8g_2s_in",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official MikroTik product image (cdn.mikrotik.com high-resolution download on the product page); MikroTik has not granted a general reuse license - rights not verified.",
+    "alt": "MikroTik CRS310-8G+2S+IN desktop 2.5G switch, front view",
+    "match": "EXACT"
+   }
+  },
+  {
+   "sku": "TK-MIKROTIK-CRS328-24P-4S",
+   "slug": "mikrotik-crs328-24p-4s-rm",
+   "name": "MikroTik CRS328-24P-4S+RM",
+   "brand": "MikroTik",
+   "category": "switches",
+   "price": "489.00",
+   "priceBasis": "msrp",
+   "priceSource": "https://mikrotik.com/product/crs328_24p_4s_rm",
+   "priceAsOf": "2026-09-28",
+   "summary": "1U 24-port Gigabit PoE switch (802.3af/at and passive PoE) with four 10G SFP+ ports.",
+   "description": "The CRS328-24P-4S+RM is a 1U Cloud Router Switch with 24 Gigabit ports that all support PoE-out (802.3af/at with auto-sensing, plus passive PoE) and four 10G SFP+ ports. It runs RouterOS or SwitchOS and draws up to 494 W including PoE.",
+   "keywords": "mikrotik crs328 24 port poe switch sfp+",
+   "specs": {
+    "ports": "24x 1GbE RJ45 (PoE-out), 4x 10G SFP+, console",
+    "maxSpeedGbps": 10,
+    "managed": true,
+    "rackMountable": true
+   },
+   "collections": [
+    "small-business"
+   ],
+   "warranty": 12,
+   "priceNote": "MikroTik 'Suggested price' on the official product page (MikroTik sells through distributors).",
+   "sources": {
+    "product": "https://mikrotik.com/product/crs328_24p_4s_rm",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://cdn.mikrotik.com/web-assets/rb_images/1493_hi_res.png",
+    "page": "https://mikrotik.com/product/crs328_24p_4s_rm",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official MikroTik product image (cdn.mikrotik.com high-resolution download on the product page); MikroTik has not granted a general reuse license - rights not verified.",
+    "alt": "MikroTik CRS328-24P-4S+RM 1U PoE switch, front view",
+    "match": "EXACT"
+   }
+  },
+  {
+   "sku": "TK-MIKROTIK-CRS317-1G-16S",
+   "slug": "mikrotik-crs317-1g-16s-rm",
+   "name": "MikroTik CRS317-1G-16S+RM",
+   "brand": "MikroTik",
+   "category": "switches",
+   "price": "499.00",
+   "priceBasis": "msrp",
+   "priceSource": "https://mikrotik.com/product/crs317_1g_16s_rm",
+   "priceAsOf": "2026-09-28",
+   "summary": "1U wire-speed switch with sixteen 10G SFP+ ports, a Gigabit management port and dual PSUs.",
+   "description": "The CRS317-1G-16S+RM is a 1U Layer 3-capable Cloud Router Switch with sixteen 10G SFP+ ports at wire speed and one Gigabit copper management port. It runs RouterOS or SwitchOS, supports hardware STP and LACP, and has dual redundant AC power supplies.",
+   "keywords": "mikrotik crs317 16 port sfp+ 10g switch",
+   "specs": {
+    "ports": "16x 10G SFP+, 1x 1GbE RJ45, console",
+    "maxSpeedGbps": 10,
+    "managed": true,
+    "rackMountable": true
+   },
+   "collections": [
+    "homelab-essentials",
+    "networking-lab"
+   ],
+   "warranty": 12,
+   "priceNote": "MikroTik 'Suggested price' on the official product page (MikroTik sells through distributors).",
+   "sources": {
+    "product": "https://mikrotik.com/product/crs317_1g_16s_rm",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://cdn.mikrotik.com/web-assets/rb_images/1324_hi_res.png",
+    "page": "https://mikrotik.com/product/crs317_1g_16s_rm",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official MikroTik product image (cdn.mikrotik.com high-resolution download on the product page); MikroTik has not granted a general reuse license - rights not verified.",
+    "alt": "MikroTik CRS317-1G-16S+RM 1U 10G SFP+ switch, front view",
+    "match": "EXACT"
+   }
+  },
+  {
+   "sku": "TK-MIKROTIK-CSS610-8G-2S",
+   "slug": "mikrotik-css610-8g-2s-in",
+   "name": "MikroTik CSS610-8G-2S+IN",
+   "brand": "MikroTik",
+   "category": "switches",
+   "price": "119.00",
+   "priceBasis": "msrp",
+   "priceSource": "https://mikrotik.com/product/css610_8g_2s_in",
+   "priceAsOf": "2026-09-28",
+   "summary": "Passively cooled 8-port Gigabit smart switch with two 10G SFP+ uplinks and SwitchOS Lite.",
+   "description": "The CSS610-8G-2S+IN is a Cloud Smart Switch with eight Gigabit ports and two 10G SFP+ ports running browser-managed SwitchOS Lite, with VLANs, port mirroring, MAC filters and bandwidth limits. It is passively cooled and can be powered by DC jack or PoE-in.",
+   "keywords": "mikrotik css610 smart switch sfp+ budget homelab",
+   "specs": {
+    "ports": "8x 1GbE RJ45, 2x 10G SFP+",
+    "maxSpeedGbps": 10,
+    "managed": true,
+    "rackMountable": false
+   },
+   "collections": [
+    "homelab-starter"
+   ],
+   "warranty": 12,
+   "priceNote": "MikroTik 'Suggested price' on the official product page (MikroTik sells through distributors).",
+   "sources": {
+    "product": "https://mikrotik.com/product/css610_8g_2s_in",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://cdn.mikrotik.com/web-assets/rb_images/1980_hi_res.png",
+    "page": "https://mikrotik.com/product/css610_8g_2s_in",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official MikroTik product image (cdn.mikrotik.com high-resolution download on the product page); MikroTik has not granted a general reuse license - rights not verified.",
+    "alt": "MikroTik CSS610-8G-2S+IN desktop smart switch, front view",
+    "match": "EXACT"
+   }
+  },
+  {
+   "sku": "TK-MIKROTIK-CRS504-4XQ",
+   "slug": "mikrotik-crs504-4xq-in",
+   "name": "MikroTik CRS504-4XQ-IN",
+   "brand": "MikroTik",
+   "category": "switches",
+   "price": "799.00",
+   "priceBasis": "msrp",
+   "priceSource": "https://mikrotik.com/product/crs504_4xq_in",
+   "priceAsOf": "2026-09-28",
+   "summary": "Desktop 100G switch with four QSFP28 ports that each break out to 4x 25G, running RouterOS v7.",
+   "description": "The CRS504-4XQ-IN is a compact Cloud Router Switch with four 100G QSFP28 ports, each able to run as 100/40G or break out to four 25/10G links (up to 16x 25G devices). It has dual AC inputs plus DC and 802.3bt PoE-in power options and runs RouterOS v7.",
+   "keywords": "mikrotik crs504 100g qsfp28 switch breakout 25g",
+   "specs": {
+    "ports": "4x 100G QSFP28, 1x 100M RJ45 management",
+    "maxSpeedGbps": 100,
+    "managed": true,
+    "rackMountable": false
+   },
+   "collections": [
+    "networking-lab",
+    "enterprise-lab"
+   ],
+   "featured": true,
+   "warranty": 12,
+   "priceNote": "MikroTik 'Suggested price' on the official product page (MikroTik sells through distributors).",
+   "sources": {
+    "product": "https://mikrotik.com/product/crs504_4xq_in",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://cdn.mikrotik.com/web-assets/rb_images/2156_hi_res.png",
+    "page": "https://mikrotik.com/product/crs504_4xq_in",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official MikroTik product image (cdn.mikrotik.com high-resolution download on the product page); MikroTik has not granted a general reuse license - rights not verified.",
+    "alt": "MikroTik CRS504-4XQ-IN desktop 100G QSFP28 switch, front view",
+    "match": "EXACT"
+   }
+  },
+  {
+   "sku": "TK-MIKROTIK-CAP-AX",
+   "slug": "mikrotik-cap-ax",
+   "name": "MikroTik cAP ax",
+   "brand": "MikroTik",
+   "category": "access-points",
+   "price": "129.00",
+   "priceBasis": "msrp",
+   "priceSource": "https://mikrotik.com/product/cap_ax",
+   "priceAsOf": "2026-09-28",
+   "summary": "Ceiling-mount dual-band AX1800 Wi-Fi 6 access point with two Gigabit ports, PoE-in and PoE-out.",
+   "description": "The cAP ax (cAPGi-5HaxD2HaxD) is a ceiling access point with a quad-core IPQ-6010 CPU, 1 GB RAM and 2x2 dual-band Wi-Fi 6 (AX1800). It has two Gigabit ports - one 802.3af/at PoE-in and one passive PoE-out - and runs RouterOS v7.",
+   "keywords": "mikrotik cap ax ceiling access point wifi 6 routeros",
+   "specs": {
+    "ports": "2x 1GbE RJ45 (PoE-in, PoE-out)",
+    "maxSpeedGbps": 1,
+    "managed": true,
+    "rackMountable": false,
+    "wifiStandard": "Wi-Fi 6 (802.11ax) AX1800 dual-band"
+   },
+   "warranty": 12,
+   "priceNote": "MikroTik 'Suggested price' on the official product page (MikroTik sells through distributors).",
+   "sources": {
+    "product": "https://mikrotik.com/product/cap_ax",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://cdn.mikrotik.com/web-assets/rb_images/2247_hi_res.png",
+    "page": "https://mikrotik.com/product/cap_ax",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official MikroTik product image (cdn.mikrotik.com high-resolution download on the product page); MikroTik has not granted a general reuse license - rights not verified.",
+    "alt": "MikroTik cAP ax white round ceiling access point, top view",
+    "match": "EXACT"
+   }
+  },
+  {
+   "sku": "TK-GLINET-FLINT4-BE14000",
+   "slug": "gl-inet-flint-4-gl-be14000",
+   "name": "GL.iNet Flint 4 (GL-BE14000) Wi-Fi 7 Router",
+   "brand": "GL.iNet",
+   "category": "routers-gateways",
+   "price": "369.99",
+   "priceBasis": "msrp",
+   "priceSource": "https://www.gl-inet.com/products/gl-be14000",
+   "priceAsOf": "2026-09-28",
+   "summary": "Tri-band Wi-Fi 7 home router with 10 GbE and 10G SFP+ WAN/LAN, 2.5 GbE ports and OpenWrt-based firmware.",
+   "description": "Flint 4 (GL-BE14000) is GL.iNet's flagship tri-band Wi-Fi 7 home router, with a quad-core MediaTek Cortex-A73 CPU at 1.8 GHz, 2 GB DDR4 and 64 GB eMMC. It has a 10 GbE RJ45 and a 10G SFP+ WAN/LAN port, four 2.5 GbE ports, four Gigabit LAN ports and USB 3.0 Type-A and Type-C; GL.iNet lists up to 688/4323/8646 Mbps on 2.4/5/6 GHz.",
+   "releaseYear": 2026,
+   "keywords": "gl.inet flint 4 be14000 wifi 7 10g sfp+ openwrt router vpn",
+   "specs": {
+    "ports": "1x 10GbE RJ45, 1x 10G SFP+, 4x 2.5GbE RJ45, 4x 1GbE RJ45, USB 3.0 A + C",
+    "maxSpeedGbps": 10,
+    "managed": true,
+    "rackMountable": false,
+    "wifiStandard": "Wi-Fi 7 (802.11be) BE14000 tri-band 2.4/5/6 GHz"
+   },
+   "collections": [
+    "homelab-essentials"
+   ],
+   "featured": true,
+   "warranty": 12,
+   "priceNote": "Official GL.iNet online store price (US plug / NA version).",
+   "sources": {
+    "product": "https://www.gl-inet.com/products/gl-be14000",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0711/7733/9063/files/BE14000-__1000x1000_944d85f0-8e1b-4294-8f48-9c3f5dc868ee.png?v=1785806434",
+    "page": "https://www.gl-inet.com/products/gl-be14000",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official GL.iNet store product image (cdn.shopify.com, store of www.gl-inet.com); GL.iNet has not granted a general reuse license - rights not verified.",
+    "alt": "GL.iNet Flint 4 GL-BE14000 Wi-Fi 7 router with six antennas, front view",
+    "match": "EXACT"
+   }
+  },
+  {
+   "sku": "TK-GLINET-FLINT3-BE9300",
+   "slug": "gl-inet-flint-3-gl-be9300",
+   "name": "GL.iNet Flint 3 (GL-BE9300) Wi-Fi 7 Router",
+   "brand": "GL.iNet",
+   "category": "routers-gateways",
+   "price": "209.99",
+   "priceBasis": "msrp",
+   "priceSource": "https://www.gl-inet.com/products/gl-be9300",
+   "priceAsOf": "2026-09-28",
+   "summary": "Tri-band BE9300 Wi-Fi 7 home router with five 2.5 GbE ports, USB 3.0 and OpenWrt-based firmware.",
+   "description": "Flint 3 (GL-BE9300) is a tri-band Wi-Fi 7 home router with a quad-core Qualcomm CPU at 1.5 GHz, 1 GB DDR4 and 8 GB eMMC. It has five 2.5 GbE ports (one WAN, one WAN/LAN, three LAN), a USB 3.0 port and four foldable antennas; GL.iNet lists up to 688/2882/5765 Mbps on 2.4/5/6 GHz.",
+   "keywords": "gl.inet flint 3 be9300 wifi 7 2.5g openwrt router",
+   "specs": {
+    "ports": "5x 2.5GbE RJ45, 1x USB 3.0",
+    "maxSpeedGbps": 2.5,
+    "managed": true,
+    "rackMountable": false,
+    "wifiStandard": "Wi-Fi 7 (802.11be) BE9300 tri-band 2.4/5/6 GHz"
+   },
+   "collections": [
+    "homelab-starter"
+   ],
+   "warranty": 12,
+   "priceNote": "Official GL.iNet online store price (US plug / NA version).",
+   "sources": {
+    "product": "https://www.gl-inet.com/products/gl-be9300",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0711/7733/9063/files/homerouter-be9300.png?v=1774430793",
+    "page": "https://www.gl-inet.com/products/gl-be9300",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official GL.iNet store product image (cdn.shopify.com, store of www.gl-inet.com); GL.iNet has not granted a general reuse license - rights not verified.",
+    "alt": "GL.iNet Flint 3 GL-BE9300 Wi-Fi 7 router with four antennas, front view",
+    "match": "EXACT"
+   }
+  },
+  {
+   "sku": "TK-GLINET-SLATE7PRO-BE10000",
+   "slug": "gl-inet-slate-7-pro-gl-be10000",
+   "name": "GL.iNet Slate 7 Pro (GL-BE10000) Travel Router",
+   "brand": "GL.iNet",
+   "category": "routers-gateways",
+   "price": "239.99",
+   "priceBasis": "msrp",
+   "priceSource": "https://www.gl-inet.com/products/gl-be10000",
+   "priceAsOf": "2026-09-28",
+   "summary": "Tri-band Wi-Fi 7 travel router with a 2.8-inch touchscreen, two 2.5 GbE ports and USB-C PD power.",
+   "description": "Slate 7 Pro (GL-BE10000) is a tri-band Wi-Fi 7 travel router with a quad-core MediaTek CPU at 2.0 GHz, 1 GB DDR4 and 512 MB NAND. It has 2.5 GbE WAN and LAN ports, a 2.8-inch color touchscreen, USB 3.0 Type-C and USB-C PD power input; GL.iNet lists up to 688/2882/5764 Mbps on 2.4/5/6 GHz.",
+   "releaseYear": 2026,
+   "keywords": "gl.inet slate 7 pro be10000 travel router wifi 7 vpn touchscreen",
+   "specs": {
+    "ports": "2x 2.5GbE RJ45, 1x USB 3.0 Type-C",
+    "maxSpeedGbps": 2.5,
+    "managed": true,
+    "rackMountable": false,
+    "wifiStandard": "Wi-Fi 7 (802.11be) tri-band 2.4/5/6 GHz"
+   },
+   "warranty": 12,
+   "priceNote": "Official GL.iNet online store price (US plug / NA version).",
+   "notes": "The NA version was shown out of stock on the official store on 2026-09-28; EU and AU versions were available at the same price.",
+   "sources": {
+    "product": "https://www.gl-inet.com/products/gl-be10000",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0711/7733/9063/files/travelrouter-be10000.png?v=1774430262",
+    "page": "https://www.gl-inet.com/products/gl-be10000",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official GL.iNet store product image (cdn.shopify.com, store of www.gl-inet.com); GL.iNet has not granted a general reuse license - rights not verified.",
+    "alt": "GL.iNet Slate 7 Pro GL-BE10000 travel router with touchscreen and folding antennas",
+    "match": "EXACT"
+   }
+  },
+  {
+   "sku": "TK-GLINET-SLATE7-BE3600",
+   "slug": "gl-inet-slate-7-gl-be3600",
+   "name": "GL.iNet Slate 7 (GL-BE3600) Travel Router",
+   "brand": "GL.iNet",
+   "category": "routers-gateways",
+   "price": "159.99",
+   "priceBasis": "msrp",
+   "priceSource": "https://www.gl-inet.com/products/gl-be3600",
+   "priceAsOf": "2026-09-28",
+   "summary": "Dual-band Wi-Fi 7 travel router with a touchscreen, two 2.5 GbE ports and USB-C power.",
+   "description": "Slate 7 (GL-BE3600) is a dual-band Wi-Fi 7 travel router with a quad-core Qualcomm CPU at 1.1 GHz, 1 GB DDR4 and 512 MB NAND. It has 2.5 GbE WAN and LAN ports, a USB 3.0 port, a touchscreen and USB-C power; GL.iNet lists up to 688/2882 Mbps on 2.4/5 GHz.",
+   "keywords": "gl.inet slate 7 be3600 travel router wifi 7 vpn",
+   "specs": {
+    "ports": "2x 2.5GbE RJ45, 1x USB 3.0",
+    "maxSpeedGbps": 2.5,
+    "managed": true,
+    "rackMountable": false,
+    "wifiStandard": "Wi-Fi 7 (802.11be) BE3600 dual-band"
+   },
+   "warranty": 12,
+   "priceNote": "Official GL.iNet online store price (US plug / NA version).",
+   "sources": {
+    "product": "https://www.gl-inet.com/products/gl-be3600",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0711/7733/9063/files/travelrouter-be3600.png?v=1774437340",
+    "page": "https://www.gl-inet.com/products/gl-be3600",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official GL.iNet store product image (cdn.shopify.com, store of www.gl-inet.com); GL.iNet has not granted a general reuse license - rights not verified.",
+    "alt": "GL.iNet Slate 7 GL-BE3600 travel router with touchscreen, front view",
+    "match": "EXACT"
+   }
+  },
+  {
+   "sku": "TK-GLINET-BERYL7-MT3600BE",
+   "slug": "gl-inet-beryl-7-gl-mt3600be",
+   "name": "GL.iNet Beryl 7 (GL-MT3600BE) Travel Router",
+   "brand": "GL.iNet",
+   "category": "routers-gateways",
+   "price": "129.99",
+   "priceBasis": "msrp",
+   "priceSource": "https://www.gl-inet.com/products/gl-mt3600be",
+   "priceAsOf": "2026-09-28",
+   "summary": "Pocket-size dual-band Wi-Fi 7 travel router with two 2.5 GbE ports and USB-C power.",
+   "description": "Beryl 7 (GL-MT3600BE) is a compact dual-band Wi-Fi 7 travel router with a quad-core MediaTek CPU at 2.0 GHz, 512 MB DDR4 and 512 MB NAND. It has 2.5 GbE WAN and LAN ports, USB 3.0 and USB-C power, weighs 205 g, and GL.iNet lists up to 688/2882 Mbps on 2.4/5 GHz.",
+   "releaseYear": 2026,
+   "keywords": "gl.inet beryl 7 mt3600be travel router wifi 7 pocket",
+   "specs": {
+    "ports": "2x 2.5GbE RJ45, 1x USB 3.0",
+    "maxSpeedGbps": 2.5,
+    "managed": true,
+    "rackMountable": false,
+    "wifiStandard": "Wi-Fi 7 (802.11be) dual-band"
+   },
+   "warranty": 12,
+   "priceNote": "Official GL.iNet online store price (US plug / NA version).",
+   "sources": {
+    "product": "https://www.gl-inet.com/products/gl-mt3600be",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0711/7733/9063/files/travelrouter-mt3600be.png?v=1774433014",
+    "page": "https://www.gl-inet.com/products/gl-mt3600be",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official GL.iNet store product image (cdn.shopify.com, store of www.gl-inet.com); GL.iNet has not granted a general reuse license - rights not verified.",
+    "alt": "GL.iNet Beryl 7 GL-MT3600BE mint green compact travel router with folding antennas",
+    "match": "EXACT"
+   }
+  },
+  {
+   "sku": "TK-GLINET-BRUME3-MT5000",
+   "slug": "gl-inet-brume-3-gl-mt5000",
+   "name": "GL.iNet Brume 3 (GL-MT5000) VPN Security Gateway",
+   "brand": "GL.iNet",
+   "category": "firewalls",
+   "price": "129.99",
+   "priceBasis": "msrp",
+   "priceSource": "https://www.gl-inet.com/products/gl-mt5000",
+   "priceAsOf": "2026-09-28",
+   "summary": "Palm-size VPN security gateway with three 2.5 GbE ports, a quad-core 2.0 GHz CPU and USB-C power.",
+   "description": "Brume 3 (GL-MT5000) is a wired VPN and security gateway with a quad-core MediaTek CPU at 2.0 GHz, 1 GB DDR4 and 8 GB eMMC. It has one 2.5 GbE WAN and two 2.5 GbE LAN ports, a USB 3.0 port and USB-C power at under 5 W, and runs GL.iNet's OpenWrt-based firmware with WireGuard and OpenVPN.",
+   "keywords": "gl.inet brume 3 mt5000 vpn gateway wireguard 2.5g",
+   "specs": {
+    "ports": "3x 2.5GbE RJ45 (1 WAN, 2 LAN), 1x USB 3.0",
+    "maxSpeedGbps": 2.5,
+    "managed": true,
+    "rackMountable": false
+   },
+   "collections": [
+    "security-lab",
+    "homelab-starter"
+   ],
+   "warranty": 12,
+   "priceNote": "Official GL.iNet online store price (US plug / NA version).",
+   "sources": {
+    "product": "https://www.gl-inet.com/products/gl-mt5000",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0711/7733/9063/files/securitygateway-mt5000.png?v=1774431964",
+    "page": "https://www.gl-inet.com/products/gl-mt5000",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official GL.iNet store product image (cdn.shopify.com, store of www.gl-inet.com); GL.iNet has not granted a general reuse license - rights not verified.",
+    "alt": "GL.iNet Brume 3 GL-MT5000 compact lavender VPN security gateway, front view",
+    "match": "EXACT"
+   }
+  },
+  {
+   "sku": "TK-GLINET-COMET-PRO-RM10",
+   "slug": "gl-inet-comet-pro-gl-rm10",
+   "name": "GL.iNet Comet Pro (GL-RM10) Remote KVM",
+   "brand": "GL.iNet",
+   "category": "network-tools",
+   "price": "179.99",
+   "priceBasis": "msrp",
+   "priceSource": "https://www.gl-inet.com/products/gl-rm10",
+   "priceAsOf": "2026-09-28",
+   "summary": "4K30 KVM-over-IP with a 2.22-inch touchscreen, Wi-Fi 6, Gigabit Ethernet and HDMI loop-out.",
+   "description": "Comet Pro (GL-RM10) is a remote KVM that captures a machine's HDMI output at up to 4K@30fps and emulates keyboard and mouse over USB-C, for BIOS-level remote control over the internet. It has a quad-core Cortex-A53 CPU, 1 GB RAM, 32 GB eMMC, Wi-Fi 6, a Gigabit port, HDMI in and out, and a 2.22-inch touchscreen.",
+   "keywords": "gl.inet comet pro rm10 kvm over ip remote kvm 4k homelab",
+   "specs": {
+    "toolType": "KVM over IP (remote KVM)",
+    "ports": "1x 1GbE RJ45, HDMI in, HDMI out, USB-C (HID), USB 2.0 Type-A",
+    "maxSpeedGbps": 1
+   },
+   "collections": [
+    "homelab-essentials"
+   ],
+   "warranty": 12,
+   "priceNote": "Official GL.iNet online store price (US plug / NA version).",
+   "sources": {
+    "product": "https://www.gl-inet.com/products/gl-rm10",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0711/7733/9063/files/rm10_1.jpg?v=1774434318",
+    "page": "https://www.gl-inet.com/products/gl-rm10",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official GL.iNet store product image (cdn.shopify.com, store of www.gl-inet.com); GL.iNet has not granted a general reuse license - rights not verified.",
+    "alt": "GL.iNet Comet Pro GL-RM10 dark grey remote KVM with touchscreen, front three-quarter view",
+    "match": "EXACT"
+   }
+  },
+  {
+   "sku": "TK-GLINET-COMET-RM1",
+   "slug": "gl-inet-comet-gl-rm1",
+   "name": "GL.iNet Comet (GL-RM1) Remote KVM",
+   "brand": "GL.iNet",
+   "category": "network-tools",
+   "price": "99.99",
+   "priceBasis": "msrp",
+   "priceSource": "https://www.gl-inet.com/products/gl-rm1",
+   "priceAsOf": "2026-09-28",
+   "summary": "Compact 4K30 KVM-over-IP device with Gigabit Ethernet for remote BIOS-level control of servers and PCs.",
+   "description": "Comet (GL-RM1) is a compact remote KVM that captures HDMI at up to 4K@30fps and emulates keyboard and mouse over USB, giving browser or app access to a machine from power-on. It has a quad-core Cortex-A7 CPU, 1 GB DDR3, 8 GB eMMC and a Gigabit Ethernet port, powered by 5 V USB-C.",
+   "keywords": "gl.inet comet rm1 kvm over ip remote kvm homelab server",
+   "specs": {
+    "toolType": "KVM over IP (remote KVM)",
+    "ports": "1x 1GbE RJ45, HDMI in, USB-C (HID), USB 2.0",
+    "maxSpeedGbps": 1
+   },
+   "collections": [
+    "homelab-starter"
+   ],
+   "warranty": 12,
+   "priceNote": "Official GL.iNet online store price (US plug / NA version).",
+   "sources": {
+    "product": "https://www.gl-inet.com/products/gl-rm1",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0711/7733/9063/files/kvm-rm1.png?v=1774431388",
+    "page": "https://www.gl-inet.com/products/gl-rm1",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official GL.iNet store product image (cdn.shopify.com, store of www.gl-inet.com); GL.iNet has not granted a general reuse license - rights not verified.",
+    "alt": "GL.iNet Comet GL-RM1 compact remote KVM device, front three-quarter view",
+    "match": "EXACT"
+   }
+  }
+ ]
+}

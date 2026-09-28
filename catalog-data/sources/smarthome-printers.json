@@ -863,10 +863,17 @@
    },
    "featured": true,
    "warranty": 24,
-   "notes": "Only official images carry an award badge or dimension overlay, so no image is included.",
    "sources": {
     "product": "https://www.philips-hue.com/en-us/p/hue-bridge-pro/046677582111",
     "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://www.assets.signify.com/is/image/Signify/046677582111-929003582615-Hue-Bridge-NAM-RTP?wid=1400&fmt=png-alpha",
+    "page": "https://www.philips-hue.com/en-us/p/hue-bridge-pro/046677582111",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official Philips Hue (Signify) product image from assets.signify.com; reuse rights not verified.",
+    "alt": "Philips Hue Bridge Pro, black square hub, front view",
+    "match": "EXACT"
    }
   },
   {
@@ -1330,10 +1337,17 @@
    },
    "featured": false,
    "warranty": 12,
-   "notes": "No clean studio image on ecobee.com (lifestyle photos only), so no image is included.",
    "sources": {
     "product": "https://www.ecobee.com/en-us/smart-thermostats/smart-thermostat-essential/",
     "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://images.ctfassets.net/a3qyhfznts9y/4SNuF3WPw4e6KvXvp8G3fl/4b60c47551f357104061a5b8cffa2d3d/Lite_FrontRender_US1.png",
+    "page": "https://www.ecobee.com/en-us/smart-thermostats/",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official ecobee product render (captioned 'Photo of Smart Thermostat Essential' on ecobee.com); reuse rights not verified.",
+    "alt": "ecobee Smart Thermostat Essential, front view with white frame and black touchscreen",
+    "match": "EXACT"
    }
   },
   {
@@ -1366,7 +1380,14 @@
     "product": "https://reolink.com/product/omvi-3i-poe/",
     "retrievedAt": "2026-09-28"
    },
-   "notes": "Official image too small (<480px after trimming); no image."
+   "image": {
+    "url": "https://reolink-storage.s3.us-east-1.amazonaws.com/website/uploads/assets/app/model-images/OMVI+3i+PoE/product.png",
+    "page": "https://reolink.com/product/omvi-3i-poe/",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official Reolink product image (model image published by Reolink's download center on its reolink-storage CDN); reuse rights not verified.",
+    "alt": "Reolink OMVI 3i PoE triple-lens camera, front view with dual upper lenses and pan-tilt dome",
+    "match": "EXACT"
+   }
   },
   {
    "sku": "TK-REOLINK-ARGUS4PRO",
@@ -1394,7 +1415,14 @@
     "product": "https://reolink.com/product/argus-4-pro/",
     "retrievedAt": "2026-09-28"
    },
-   "notes": "Official image too small (<480px after trimming); no image."
+   "image": {
+    "url": "https://reolink-storage.s3.us-east-1.amazonaws.com/website/uploads/assets/app/model-images/Argus+4+Pro/product.png",
+    "page": "https://reolink.com/product/argus-4-pro/",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official Reolink product image (model image published by Reolink's download center on its reolink-storage CDN); reuse rights not verified.",
+    "alt": "Reolink Argus 4 Pro wire-free dual-lens 180-degree camera on its mount, angled front view",
+    "match": "EXACT"
+   }
   },
   {
    "sku": "TK-REOLINK-HOMEHUBPRO",
@@ -1420,10 +1448,18 @@
    ],
    "featured": false,
    "warranty": 12,
-   "notes": "reolink.com lists $199.99; the hub is sold with or without a 2 TB HDD — confirm configuration at purchase. Official image too small (<480px after trimming); no image.",
+   "notes": "reolink.com lists $199.99; the hub is sold with or without a 2 TB HDD — confirm configuration at purchase.",
    "sources": {
     "product": "https://reolink.com/product/reolink-home-hub-pro/",
     "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://reolink-storage.s3.us-east-1.amazonaws.com/website/uploads/assets/app/model-images/Reolink+Home+Hub+Pro/product.png",
+    "page": "https://reolink.com/product/reolink-home-hub-pro/",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official Reolink product image (model image published by Reolink's download center on its reolink-storage CDN); reuse rights not verified.",
+    "alt": "Reolink Home Hub Pro white security hub, angled front view",
+    "match": "EXACT"
    }
   },
   {
@@ -1452,7 +1488,14 @@
     "product": "https://reolink.com/product/trackflex-floodlight-wifi/",
     "retrievedAt": "2026-09-28"
    },
-   "notes": "Official image too small (<480px after trimming); no image."
+   "image": {
+    "url": "https://reolink-storage.s3.us-east-1.amazonaws.com/website/uploads/assets/app/model-images/TrackFlex+Floodlight+WiFi/product.png",
+    "page": "https://reolink.com/product/trackflex-floodlight-wifi/",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official Reolink product image (model image published by Reolink's download center on its reolink-storage CDN); reuse rights not verified.",
+    "alt": "Reolink TrackFlex Floodlight WiFi with twin floodlight panels and dual-lens tracking camera",
+    "match": "EXACT"
+   }
   },
   {
    "sku": "TK-AQARA-HUBM3",

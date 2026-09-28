@@ -1363,7 +1363,15 @@
         "product": "https://www.elgato.com/us/en/p/game-capture-4k-x",
         "retrievedAt": "2026-09-28"
       },
-      "notes": "No clean light-background product image found on elgato.com (only dark/lifestyle shots), so image omitted."
+      "image": {
+        "url": "https://res.cloudinary.com/elgato-pwa/image/upload/w_2400/v1706208713/Products/10GBH9901/Special%20Animation%20-%20Sticky%20Image%20Text%20Reveal/4KX_AngledFrontal_002__2_.png",
+        "page": "https://www.elgato.com/us/en/p/game-capture-4k-x",
+        "sourceType": "manufacturer-product-page",
+        "rights": "Official Elgato product image (elgato.com, Cloudinary CDN); Corsair/Elgato has not granted a reuse license — rights not verified.",
+        "credit": "Elgato",
+        "alt": "Elgato Game Capture 4K X, angled front view of the black capture unit with status LED",
+        "match": "EXACT"
+      }
     },
     {
       "sku": "TK-ELGATO-KEY-LIGHT",

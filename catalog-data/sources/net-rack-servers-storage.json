@@ -1,0 +1,1787 @@
+{
+ "meta": {
+  "notes": "Rack/tower servers, rackmount NAS, SAN arrays, NAS/enterprise HDDs and enterprise SSDs for homelab and small data-center racks (net-rack-servers-storage). Researched 2026-09-28 from official manufacturer sites (synology.com, qnap.com, asustor.com, truenas.com, dell.com, seagate.com, westerndigital.com, toshiba-storage.com, solidigm.com, americas.kioxia.com, micron.com, lenovopress.lenovo.com, hpe.com search-indexed text). Quote-only enterprise items use priceBasis=estimate. Gigabyte (gigabyte.com) and ASRock Rack (Incapsula) blocked automated access, so no products were added for them."
+ },
+ "products": [
+  {
+   "sku": "TK-SYNOLOGY-RS826P",
+   "slug": "synology-rackstation-rs826-plus",
+   "name": "Synology RackStation RS826+",
+   "brand": "Synology",
+   "category": "nas",
+   "price": "1399.00",
+   "priceBasis": "estimate",
+   "summary": "Compact 1U 4-bay RackStation with an AMD Ryzen V1500B, 4 GB DDR4 ECC memory and four 1GbE ports, expandable to 8 bays.",
+   "description": "The RS826+ is a 1U, 4-bay rackmount NAS built on a 4-core/8-thread AMD Ryzen V1500B (2.2 GHz) with 4 GB of DDR4 ECC memory (up to 32 GB). It has four 1GbE RJ-45 ports, a PCIe Gen3 x8 slot (x4 link) for 10/25GbE upgrades, and scales to 8 drives with one RX426 expansion unit. The RS826RP+ sibling adds a redundant power supply.",
+   "keywords": "synology rackstation 1u 4 bay rack nas ryzen v1500b dsm edge",
+   "specs": {
+    "bays": 4,
+    "cpu": "AMD Ryzen V1500B (4C/8T, 2.2 GHz)",
+    "ramGb": 4,
+    "network": "4 x 1GbE RJ-45",
+    "interface": "4 x 3.5\"/2.5\" SATA, 1 x PCIe Gen3 x8 (x4 link)",
+    "rackMountable": true
+   },
+   "variants": [
+    {
+     "label": "RS826+ (single PSU)"
+    },
+    {
+     "label": "RS826RP+ (redundant PSU)"
+    }
+   ],
+   "collections": [
+    "homelab-essentials",
+    "small-business"
+   ],
+   "notes": "Synology publishes no US list price for this model (quote-only / sold through resellers); price is a TrustKart estimate for the diskless unit.",
+   "sources": {
+    "product": "https://www.synology.com/en-us/products/RS826+",
+    "specs": "https://www.synology.com/en-us/products/RS826+#specs",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://www.synology.com/api/products/getPhoto?product=RS826%2B&type=img&sort=1",
+    "page": "https://www.synology.com/en-us/products/RS826%2B",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official Synology product image served from the synology.com product page gallery; Synology has not granted a general reuse license - rights not verified.",
+    "credit": "Synology",
+    "alt": "Synology RackStation RS826+ 1U 4-bay rackmount NAS, front view with four drive trays",
+    "match": "EXACT"
+   }
+  },
+  {
+   "sku": "TK-SYNOLOGY-RS1226P",
+   "slug": "synology-rackstation-rs1226-plus",
+   "name": "Synology RackStation RS1226+",
+   "brand": "Synology",
+   "category": "nas",
+   "price": "1699.00",
+   "priceBasis": "estimate",
+   "summary": "2U 8-bay RackStation with an AMD Ryzen V1500B, two M.2 NVMe slots and dual 2.5GbE, expandable to 12 bays.",
+   "description": "The RS1226+ is a 2U, 8-bay RackStation powered by a 4-core/8-thread AMD Ryzen V1500B with 4 GB of DDR4 ECC memory (up to 32 GB). It adds two M.2 2280 NVMe slots, two 2.5GbE RJ-45 ports and a PCIe Gen3 x8 slot (x4 link), and scales to 12 drives with an RX426. The RS1226RP+ version adds redundant power.",
+   "keywords": "synology rackstation 2u 8 bay rack nas nvme 2.5gbe",
+   "specs": {
+    "bays": 8,
+    "cpu": "AMD Ryzen V1500B (4C/8T, 2.2 GHz)",
+    "ramGb": 4,
+    "network": "2 x 2.5GbE RJ-45",
+    "interface": "8 x 3.5\"/2.5\" SATA, 2 x M.2 2280 NVMe, 1 x PCIe Gen3 x8 (x4 link)",
+    "rackMountable": true
+   },
+   "variants": [
+    {
+     "label": "RS1226+ (single PSU)"
+    },
+    {
+     "label": "RS1226RP+ (redundant PSU)"
+    }
+   ],
+   "collections": [
+    "homelab-essentials",
+    "small-business"
+   ],
+   "notes": "Synology publishes no US list price for this model (quote-only / sold through resellers); price is a TrustKart estimate for the diskless unit.",
+   "sources": {
+    "product": "https://www.synology.com/en-us/products/RS1226+",
+    "specs": "https://www.synology.com/en-us/products/RS1226+#specs",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://www.synology.com/api/products/getPhoto?product=RS1226%2B&type=img&sort=1",
+    "page": "https://www.synology.com/en-us/products/RS1226%2B",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official Synology product image served from the synology.com product page gallery; Synology has not granted a general reuse license - rights not verified.",
+    "credit": "Synology",
+    "alt": "Synology RackStation RS1226+ 2U 8-bay rackmount NAS, front view",
+    "match": "EXACT"
+   }
+  },
+  {
+   "sku": "TK-SYNOLOGY-RS4826XSP",
+   "slug": "synology-rackstation-rs4826xs-plus",
+   "name": "Synology RackStation RS4826xs+",
+   "brand": "Synology",
+   "category": "nas",
+   "price": "5499.00",
+   "priceBasis": "estimate",
+   "summary": "2U 12-bay RackStation with an 8-core Intel Xeon D-1739, 16 GB DDR4 ECC RDIMM, dual 10GbE and redundant power, expandable to 48 bays.",
+   "description": "The RS4826xs+ is a 2U, 12-bay business RackStation with an 8-core/16-thread Intel Xeon D-1739 (3.0/3.5 GHz) and 16 GB DDR4 ECC RDIMM (up to 96 GB). It includes two 10GbE RJ-45 ports plus an out-of-band management port, two PCIe Gen4 x8 slots, 550 W redundant power supplies and scales to 48 drives with three RX1225RP units. Synology covers it with a 5-year warranty.",
+   "keywords": "synology rackstation xs+ 2u 12 bay xeon d 10gbe redundant psu enterprise nas",
+   "specs": {
+    "bays": 12,
+    "cpu": "Intel Xeon D-1739 (8C/16T, 3.0/3.5 GHz)",
+    "ramGb": 16,
+    "network": "2 x 10GbE RJ-45 + 1 x OOB management",
+    "interface": "12 x 3.5\"/2.5\" SATA, 2 x PCIe Gen4 x8",
+    "rackMountable": true
+   },
+   "collections": [
+    "enterprise-lab",
+    "high-end-storage",
+    "small-business"
+   ],
+   "warranty": 60,
+   "notes": "Synology publishes no US list price for this model (quote-only / sold through resellers); price is a TrustKart estimate for the diskless unit.",
+   "sources": {
+    "product": "https://www.synology.com/en-us/products/RS4826xs+",
+    "specs": "https://www.synology.com/en-us/products/RS4826xs+#specs",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://www.synology.com/api/products/getPhoto?product=RS4826xs%2B&type=img&sort=1",
+    "page": "https://www.synology.com/en-us/products/RS4826xs%2B",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official Synology product image served from the synology.com product page gallery; Synology has not granted a general reuse license - rights not verified.",
+    "credit": "Synology",
+    "alt": "Synology RackStation RS4826xs+ 2U 12-bay rackmount NAS, front view",
+    "match": "EXACT"
+   }
+  },
+  {
+   "sku": "TK-SYNOLOGY-RS6426XSP",
+   "slug": "synology-rackstation-rs6426xs-plus",
+   "name": "Synology RackStation RS6426xs+",
+   "brand": "Synology",
+   "category": "nas",
+   "price": "7499.00",
+   "priceBasis": "estimate",
+   "summary": "3U 16-bay RackStation with an Intel Xeon D-1739, 16 GB ECC RDIMM, dual 10GbE and redundant 550 W power, scaling to 64 bays.",
+   "description": "The RS6426xs+ is a 3U, 16-bay RackStation built on an 8-core/16-thread Intel Xeon D-1739 with 16 GB DDR4 ECC RDIMM (up to 96 GB). It has two 10GbE RJ-45 ports and an out-of-band management port, two PCIe Gen4 x8 slots and redundant 550 W power, and expands to 64 drives with four RX1225RP units. It carries a 5-year warranty.",
+   "keywords": "synology rackstation 3u 16 bay xeon d 10gbe redundant enterprise nas",
+   "specs": {
+    "bays": 16,
+    "cpu": "Intel Xeon D-1739 (8C/16T, 3.0/3.5 GHz)",
+    "ramGb": 16,
+    "network": "2 x 10GbE RJ-45 + 1 x OOB management",
+    "interface": "16 x 3.5\"/2.5\" SATA, 2 x PCIe Gen4 x8",
+    "rackMountable": true
+   },
+   "collections": [
+    "enterprise-lab",
+    "high-end-storage"
+   ],
+   "warranty": 60,
+   "notes": "Synology publishes no US list price for this model (quote-only / sold through resellers); price is a TrustKart estimate for the diskless unit.",
+   "sources": {
+    "product": "https://www.synology.com/en-us/products/RS6426xs+",
+    "specs": "https://www.synology.com/en-us/products/RS6426xs+#specs",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://www.synology.com/api/products/getPhoto?product=RS6426xs%2B&type=img&sort=1",
+    "page": "https://www.synology.com/en-us/products/RS6426xs%2B",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official Synology product image served from the synology.com product page gallery; Synology has not granted a general reuse license - rights not verified.",
+    "credit": "Synology",
+    "alt": "Synology RackStation RS6426xs+ 3U 16-bay rackmount NAS, front view",
+    "match": "EXACT"
+   }
+  },
+  {
+   "sku": "TK-SYNOLOGY-SA3610",
+   "slug": "synology-sa3610",
+   "name": "Synology SA3610",
+   "brand": "Synology",
+   "category": "nas",
+   "price": "7999.00",
+   "priceBasis": "estimate",
+   "summary": "2U 12-bay SAS storage server with a 12-core Xeon D-1567, 16 GB ECC RDIMM, dual 10GbE and expansion to 96 drives.",
+   "description": "The SA3610 is a 2U, 12-bay Synology storage server for SAS or SATA drives, powered by a 12-core/24-thread Intel Xeon D-1567 with 16 GB DDR4 ECC RDIMM (up to 128 GB). It has four 1GbE and two 10GbE RJ-45 ports plus out-of-band management, and scales to 96 drives with seven RX1222sas expansion units over Mini-SAS HD.",
+   "keywords": "synology sa3610 sas 2u 12 bay xeon storage server",
+   "specs": {
+    "bays": 12,
+    "cpu": "Intel Xeon D-1567 (12C/24T, 2.1/2.7 GHz)",
+    "ramGb": 16,
+    "network": "4 x 1GbE + 2 x 10GbE RJ-45 + OOB management",
+    "interface": "12 x 3.5\"/2.5\" SAS/SATA, Mini-SAS HD expansion",
+    "rackMountable": true
+   },
+   "collections": [
+    "enterprise-lab",
+    "high-end-storage"
+   ],
+   "notes": "Synology publishes no US list price for this model (quote-only / sold through resellers); price is a TrustKart estimate for the diskless unit.",
+   "sources": {
+    "product": "https://www.synology.com/en-us/products/SA3610",
+    "specs": "https://www.synology.com/en-us/products/SA3610#specs",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://www.synology.com/api/products/getPhoto?product=SA3610&type=img&sort=1",
+    "page": "https://www.synology.com/en-us/products/SA3610",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official Synology product image served from the synology.com product page gallery; Synology has not granted a general reuse license - rights not verified.",
+    "credit": "Synology",
+    "alt": "Synology SA3610 2U 12-bay SAS storage server, front view",
+    "match": "EXACT"
+   }
+  },
+  {
+   "sku": "TK-SYNOLOGY-HD6500",
+   "slug": "synology-hd6500",
+   "name": "Synology HD6500",
+   "brand": "Synology",
+   "category": "nas",
+   "price": "29999.00",
+   "priceBasis": "estimate",
+   "summary": "4U 60-bay high-density storage server with dual Xeon Silver 4210R, 64 GB ECC RDIMM and expansion to 300 drives.",
+   "description": "The HD6500 is a 4U, 60-bay Synology storage server for SAS HDDs, powered by two 10-core Intel Xeon Silver 4210R processors with 64 GB DDR4 ECC RDIMM (up to 512 GB). It has two 1GbE and two 10GbE RJ-45 ports plus out-of-band management, two dedicated 2.5-inch SATA system drives, a 1600 W redundant power supply, and scales to 300 drives with four RX6025sas units.",
+   "keywords": "synology hd6500 60 bay 4u petabyte storage server xeon silver",
+   "specs": {
+    "bays": 60,
+    "cpu": "2 x Intel Xeon Silver 4210R (10C/20T, 2.4/3.2 GHz)",
+    "ramGb": 64,
+    "network": "2 x 1GbE + 2 x 10GbE RJ-45 + OOB management",
+    "interface": "60 x 3.5\" SAS HDD / 2.5\" SATA SSD, 2 x 2.5\" SATA system drives, Mini-SAS HD expansion",
+    "rackMountable": true
+   },
+   "collections": [
+    "enterprise-lab",
+    "high-end-storage"
+   ],
+   "notes": "Synology publishes no US list price for this model (quote-only / sold through resellers); price is a TrustKart estimate for the diskless unit.",
+   "sources": {
+    "product": "https://www.synology.com/en-us/products/HD6500",
+    "specs": "https://www.synology.com/en-us/products/HD6500#specs",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://www.synology.com/api/products/getPhoto?product=HD6500&type=img&sort=1",
+    "page": "https://www.synology.com/en-us/products/HD6500",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official Synology product image served from the synology.com product page gallery; Synology has not granted a general reuse license - rights not verified.",
+    "credit": "Synology",
+    "alt": "Synology HD6500 4U 60-bay high-density storage server, front view",
+    "match": "EXACT"
+   }
+  },
+  {
+   "sku": "TK-QNAP-TS464U",
+   "slug": "qnap-ts-464u",
+   "name": "QNAP TS-464U",
+   "brand": "QNAP",
+   "category": "nas",
+   "price": "999.00",
+   "priceBasis": "estimate",
+   "summary": "1U 4-bay rackmount NAS with an Intel Celeron N5095, 8 GB DDR4, dual 2.5GbE and a PCIe Gen3 slot.",
+   "description": "The TS-464U is a 1U, 4-bay rackmount NAS with a 4-core Intel Celeron N5095 (burst to 2.9 GHz) and 8 GB DDR4 (up to 16 GB). It has two 2.5GbE ports, a PCIe Gen3 x2 slot for 10GbE or M.2 adapters, two USB 3.2 Gen 2 ports and HDMI 1.4b output, with a 250 W power supply.",
+   "keywords": "qnap 1u 4 bay rack nas celeron 2.5gbe homelab",
+   "specs": {
+    "bays": 4,
+    "cpu": "Intel Celeron N5095 (4C/4T, up to 2.9 GHz)",
+    "ramGb": 8,
+    "network": "2 x 2.5GbE RJ-45",
+    "interface": "4 x 3.5\" SATA 6Gb/s, 1 x PCIe Gen3 x2",
+    "rackMountable": true
+   },
+   "collections": [
+    "homelab-starter",
+    "homelab-essentials"
+   ],
+   "warranty": 36,
+   "notes": "QNAP publishes no US list price for this model (quote-only / sold through resellers); price is a TrustKart estimate for the base configuration.",
+   "sources": {
+    "product": "https://www.qnap.com/en-us/product/ts-464u",
+    "specs": "https://www.qnap.com/en-us/product/ts-464u/specs/hardware",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://www.qnap.com/i/_attach_file/product/photo/1000_625/621_1639020787_TS-464U-SP_right.png",
+    "page": "https://www.qnap.com/en-us/product/ts-464u",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official QNAP product image from the qnap.com product page gallery; QNAP has not granted a general reuse license - rights not verified.",
+    "credit": "QNAP",
+    "alt": "QNAP TS-464U 1U 4-bay rackmount NAS, angled right front view",
+    "match": "EXACT"
+   },
+   "variants": [
+    {
+     "label": "TS-464U (single PSU)"
+    },
+    {
+     "label": "TS-464U-RP (redundant PSU)"
+    }
+   ]
+  },
+  {
+   "sku": "TK-QNAP-TS873AEU",
+   "slug": "qnap-ts-873aeu",
+   "name": "QNAP TS-873AeU",
+   "brand": "QNAP",
+   "category": "nas",
+   "price": "1399.00",
+   "priceBasis": "estimate",
+   "summary": "Short-depth 2U 8-bay rackmount NAS with an AMD Ryzen V1500B, two M.2 NVMe slots and dual 2.5GbE.",
+   "description": "The TS-873AeU is a 2U short-depth (about 11.7 in) 8-bay NAS for shallow racks and wall cabinets. It uses a 4-core/8-thread AMD Ryzen Embedded V1500B with 4 GB DDR4 (up to 64 GB, ECC supported), two M.2 2280 PCIe Gen3 slots for SSD cache, two 2.5GbE ports and a PCIe Gen3 x8 slot for 10GbE upgrades.",
+   "keywords": "qnap short depth 2u 8 bay rack nas ryzen nvme 2.5gbe",
+   "specs": {
+    "bays": 8,
+    "cpu": "AMD Ryzen Embedded V1500B (4C/8T, 2.2 GHz)",
+    "ramGb": 4,
+    "network": "2 x 2.5GbE RJ-45",
+    "interface": "8 x 3.5\" SATA, 2 x M.2 2280 NVMe (PCIe Gen3 x1), 1 x PCIe Gen3 x8",
+    "rackMountable": true
+   },
+   "collections": [
+    "homelab-essentials",
+    "small-business"
+   ],
+   "warranty": 36,
+   "notes": "QNAP publishes no US list price for this model (quote-only / sold through resellers); price is a TrustKart estimate for the base configuration.",
+   "sources": {
+    "product": "https://www.qnap.com/en-us/product/ts-873aeu",
+    "specs": "https://www.qnap.com/en-us/product/ts-873aeu/specs/hardware",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://www.qnap.com/i/_attach_file/product/photo/1000_625/630_1641527025_TS-873AeU-SP_front.png",
+    "page": "https://www.qnap.com/en-us/product/ts-873aeu",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official QNAP product image from the qnap.com product page gallery; QNAP has not granted a general reuse license - rights not verified.",
+    "credit": "QNAP",
+    "alt": "QNAP TS-873AeU short-depth 2U 8-bay rackmount NAS, front view",
+    "match": "EXACT"
+   },
+   "variants": [
+    {
+     "label": "TS-873AeU (single PSU)"
+    },
+    {
+     "label": "TS-873AeU-RP (redundant PSU)"
+    }
+   ]
+  },
+  {
+   "sku": "TK-QNAP-TS864EU",
+   "slug": "qnap-ts-864eu",
+   "name": "QNAP TS-864eU",
+   "brand": "QNAP",
+   "category": "nas",
+   "price": "1149.00",
+   "priceBasis": "estimate",
+   "summary": "Short-depth 2U 8-bay rackmount NAS with an Intel Celeron N5095, 8 GB DDR4 and dual 2.5GbE.",
+   "description": "The TS-864eU is a 2U short-depth 8-bay rackmount NAS with a 4-core Intel Celeron N5095 (burst to 2.9 GHz) and 8 GB DDR4 (up to 16 GB). It has two 2.5GbE ports, a PCIe slot for 10GbE or M.2 adapters and a 300 W power supply, suited to shallow network cabinets.",
+   "keywords": "qnap short depth 2u 8 bay rack nas celeron 2.5gbe",
+   "specs": {
+    "bays": 8,
+    "cpu": "Intel Celeron N5095 (4C/4T, up to 2.9 GHz)",
+    "ramGb": 8,
+    "network": "2 x 2.5GbE RJ-45",
+    "interface": "8 x 3.5\" SATA 6Gb/s, 1 x PCIe slot",
+    "rackMountable": true
+   },
+   "collections": [
+    "homelab-essentials",
+    "small-business"
+   ],
+   "warranty": 36,
+   "notes": "QNAP publishes no US list price for this model (quote-only / sold through resellers); price is a TrustKart estimate for the base configuration.",
+   "sources": {
+    "product": "https://www.qnap.com/en-us/product/ts-864eu",
+    "specs": "https://www.qnap.com/en-us/product/ts-864eu/specs/hardware",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://www.qnap.com/i/_attach_file/product/photo/1000_625/627_1639625273_TS-864eU_right.png",
+    "page": "https://www.qnap.com/en-us/product/ts-864eu",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official QNAP product image from the qnap.com product page gallery; QNAP has not granted a general reuse license - rights not verified.",
+    "credit": "QNAP",
+    "alt": "QNAP TS-864eU short-depth 2U 8-bay rackmount NAS, angled right front view",
+    "match": "EXACT"
+   },
+   "variants": [
+    {
+     "label": "TS-864eU (single PSU)"
+    },
+    {
+     "label": "TS-864eU-RP (redundant PSU)"
+    }
+   ]
+  },
+  {
+   "sku": "TK-QNAP-TS432PXU",
+   "slug": "qnap-ts-432pxu",
+   "name": "QNAP TS-432PXU",
+   "brand": "QNAP",
+   "category": "nas",
+   "price": "699.00",
+   "priceBasis": "estimate",
+   "summary": "1U 4-bay ARM rackmount NAS with dual 10GbE SFP+ and dual 2.5GbE for budget 10G storage.",
+   "description": "The TS-432PXU is a 1U, 4-bay rackmount NAS with a quad-core AnnapurnaLabs Alpine AL324 (Arm Cortex-A57, 1.7 GHz) and 2 GB DDR4 (up to 16 GB). It includes two 10GbE SFP+ ports and two 2.5GbE ports, plus a PCIe Gen2 x2 slot.",
+   "keywords": "qnap 1u 4 bay 10gbe sfp+ arm rack nas budget",
+   "specs": {
+    "bays": 4,
+    "cpu": "AnnapurnaLabs Alpine AL324 (4-core Arm Cortex-A57, 1.7 GHz)",
+    "ramGb": 2,
+    "network": "2 x 10GbE SFP+ + 2 x 2.5GbE RJ-45",
+    "interface": "4 x 3.5\" SATA 6Gb/s, 1 x PCIe Gen2 x2",
+    "rackMountable": true
+   },
+   "collections": [
+    "homelab-starter",
+    "networking-lab"
+   ],
+   "warranty": 36,
+   "notes": "QNAP publishes no US list price for this model (quote-only / sold through resellers); price is a TrustKart estimate for the base configuration.",
+   "sources": {
+    "product": "https://www.qnap.com/en-us/product/ts-432pxu",
+    "specs": "https://www.qnap.com/en-us/product/ts-432pxu/specs/hardware",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://www.qnap.com/i/_attach_file/product/photo/1000_625/479_1593507188_E794A2E59381E59C96_TS-432PXU_right.png",
+    "page": "https://www.qnap.com/en-us/product/ts-432pxu",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official QNAP product image from the qnap.com product page gallery; QNAP has not granted a general reuse license - rights not verified.",
+    "credit": "QNAP",
+    "alt": "QNAP TS-432PXU 1U 4-bay rackmount NAS, angled right front view",
+    "match": "EXACT"
+   },
+   "variants": [
+    {
+     "label": "TS-432PXU (single PSU)"
+    },
+    {
+     "label": "TS-432PXU-RP (redundant PSU)"
+    }
+   ]
+  },
+  {
+   "sku": "TK-QNAP-TSH1277AXURP",
+   "slug": "qnap-ts-h1277axu-rp",
+   "name": "QNAP TS-h1277AXU-RP",
+   "brand": "QNAP",
+   "category": "nas",
+   "price": "3999.00",
+   "priceBasis": "estimate",
+   "summary": "2U 12-bay ZFS (QuTS hero) NAS with an 8-core AMD Ryzen 7 7000-series CPU, 32 GB DDR5, dual 10GbE and PCIe Gen5 M.2 slots.",
+   "description": "The TS-h1277AXU-RP is a 2U, 12-bay QuTS hero NAS with an 8-core/16-thread AMD Ryzen 7 7000-series processor (up to 5.3 GHz) and 32 GB DDR5 (up to 192 GB, optional ECC). It adds two M.2 2280 PCIe Gen5 x2 slots, two 10GBASE-T and two 2.5GbE ports, three PCIe Gen4 slots and redundant 550 W power supplies.",
+   "keywords": "qnap quts hero zfs 2u 12 bay ryzen ddr5 10gbe redundant psu",
+   "specs": {
+    "bays": 12,
+    "cpu": "AMD Ryzen 7 7000 series (8C/16T, up to 5.3 GHz)",
+    "ramGb": 32,
+    "network": "2 x 10GBASE-T + 2 x 2.5GbE RJ-45",
+    "interface": "12 x 3.5\" SATA, 2 x M.2 2280 PCIe Gen5 x2, 3 x PCIe Gen4",
+    "rackMountable": true
+   },
+   "collections": [
+    "enterprise-lab",
+    "high-end-storage"
+   ],
+   "warranty": 60,
+   "notes": "QNAP publishes no US list price for this model (quote-only / sold through resellers); price is a TrustKart estimate for the base configuration.",
+   "sources": {
+    "product": "https://www.qnap.com/en-us/product/ts-h1277axu-rp",
+    "specs": "https://www.qnap.com/en-us/product/ts-h1277axu-rp/specs/hardware",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://www.qnap.com/i/_attach_file/product/photo/1000_625/767_1701057438_TS-h1277AXU-RP_Front.png",
+    "page": "https://www.qnap.com/en-us/product/ts-h1277axu-rp",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official QNAP product image from the qnap.com product page gallery; QNAP has not granted a general reuse license - rights not verified.",
+    "credit": "QNAP",
+    "alt": "QNAP TS-h1277AXU-RP 2U 12-bay rackmount NAS, front view",
+    "match": "EXACT"
+   }
+  },
+  {
+   "sku": "TK-QNAP-TSH1887XURP",
+   "slug": "qnap-ts-h1887xu-rp",
+   "name": "QNAP TS-h1887XU-RP",
+   "brand": "QNAP",
+   "category": "nas",
+   "price": "4299.00",
+   "priceBasis": "estimate",
+   "summary": "2U 18-bay (12 x 3.5\" + 6 x 2.5\") ZFS NAS with a Xeon E-2334, 16 GB ECC DDR4, dual 10GbE and redundant power.",
+   "description": "The TS-h1887XU-RP is a 2U QuTS hero NAS with twelve 3.5-inch and six 2.5-inch SATA bays, powered by a 4-core/8-thread Intel Xeon E-2334 (up to 4.8 GHz) with 16 GB ECC DDR4 (up to 128 GB). It has two 10GBASE-T and two 2.5GbE ports, three PCIe Gen4 slots and redundant 550 W power supplies.",
+   "keywords": "qnap quts hero zfs 2u 18 bay xeon ecc 10gbe",
+   "specs": {
+    "bays": 18,
+    "cpu": "Intel Xeon E-2334 (4C/8T, 3.4/4.8 GHz)",
+    "ramGb": 16,
+    "network": "2 x 10GBASE-T + 2 x 2.5GbE RJ-45",
+    "interface": "12 x 3.5\" SATA + 6 x 2.5\" SATA, 3 x PCIe Gen4",
+    "rackMountable": true
+   },
+   "collections": [
+    "enterprise-lab",
+    "high-end-storage"
+   ],
+   "warranty": 60,
+   "notes": "QNAP publishes no US list price for this model (quote-only / sold through resellers); price is a TrustKart estimate for the base configuration.",
+   "sources": {
+    "product": "https://www.qnap.com/en-us/product/ts-h1887xu-rp",
+    "specs": "https://www.qnap.com/en-us/product/ts-h1887xu-rp/specs/hardware",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://www.qnap.com/i/_attach_file/product/photo/1000_625/730_1657779085_E794A2E59381E59C96_TS-h1887XU_right.png",
+    "page": "https://www.qnap.com/en-us/product/ts-h1887xu-rp",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official QNAP product image from the qnap.com product page gallery; QNAP has not granted a general reuse license - rights not verified.",
+    "credit": "QNAP",
+    "alt": "QNAP TS-h1887XU-RP 2U 18-bay rackmount NAS, angled right front view",
+    "match": "EXACT"
+   }
+  },
+  {
+   "sku": "TK-QNAP-TSH987XURP",
+   "slug": "qnap-ts-h987xu-rp",
+   "name": "QNAP TS-h987XU-RP",
+   "brand": "QNAP",
+   "category": "nas",
+   "price": "2999.00",
+   "priceBasis": "estimate",
+   "summary": "1U 9-bay hybrid NAS (4 x 3.5\" SATA + 5 x U.2 NVMe/SATA) with a Xeon E-2334, 16 GB ECC and dual 10GbE.",
+   "description": "The TS-h987XU-RP is a 1U QuTS hero NAS that mixes four 3.5-inch SATA bays with five 2.5-inch U.2 PCIe/SATA bays for all-flash tiers. It runs a 4-core/8-thread Intel Xeon E-2334 with 16 GB ECC DDR4 (up to 128 GB), two 10GBASE-T and two 2.5GbE ports, a PCIe Gen4 x8 slot and redundant 300 W power.",
+   "keywords": "qnap 1u u.2 nvme hybrid nas xeon zfs 10gbe",
+   "specs": {
+    "bays": 9,
+    "cpu": "Intel Xeon E-2334 (4C/8T, 3.4/4.8 GHz)",
+    "ramGb": 16,
+    "network": "2 x 10GBASE-T + 2 x 2.5GbE RJ-45",
+    "interface": "4 x 3.5\" SATA + 5 x 2.5\" U.2 NVMe (PCIe Gen3 x2)/SATA, 1 x PCIe Gen4 x8",
+    "rackMountable": true
+   },
+   "collections": [
+    "enterprise-lab",
+    "high-end-storage"
+   ],
+   "warranty": 60,
+   "notes": "QNAP publishes no US list price for this model (quote-only / sold through resellers); price is a TrustKart estimate for the base configuration.",
+   "sources": {
+    "product": "https://www.qnap.com/en-us/product/ts-h987xu-rp",
+    "specs": "https://www.qnap.com/en-us/product/ts-h987xu-rp/specs/hardware",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://www.qnap.com/i/_attach_file/product/photo/1000_625/729_1657782272_E794A2E59381E59C96_TS-h987XU-RP_right.png",
+    "page": "https://www.qnap.com/en-us/product/ts-h987xu-rp",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official QNAP product image from the qnap.com product page gallery; QNAP has not granted a general reuse license - rights not verified.",
+    "credit": "QNAP",
+    "alt": "QNAP TS-h987XU-RP 1U 9-bay hybrid rackmount NAS, angled right front view",
+    "match": "EXACT"
+   }
+  },
+  {
+   "sku": "TK-QNAP-TSH3087XURP",
+   "slug": "qnap-ts-h3087xu-rp",
+   "name": "QNAP TS-h3087XU-RP",
+   "brand": "QNAP",
+   "category": "nas",
+   "price": "7999.00",
+   "priceBasis": "estimate",
+   "summary": "4U 30-bay (24 x 3.5\" + 6 x 2.5\") ZFS NAS with an 8-core Xeon E-2378, 64 GB ECC and redundant 800 W power.",
+   "description": "The TS-h3087XU-RP is a 4U QuTS hero NAS with twenty-four 3.5-inch and six 2.5-inch SATA bays. It uses an 8-core/16-thread Intel Xeon E-2378 (up to 4.8 GHz) with 64 GB ECC DDR4 (up to 128 GB), two 10GBASE-T and two 2.5GbE ports, three PCIe Gen4 slots and redundant 800 W power supplies.",
+   "keywords": "qnap 4u 30 bay zfs xeon petabyte nas",
+   "specs": {
+    "bays": 30,
+    "cpu": "Intel Xeon E-2378 (8C/16T, 2.6/4.8 GHz)",
+    "ramGb": 64,
+    "network": "2 x 10GBASE-T + 2 x 2.5GbE RJ-45",
+    "interface": "24 x 3.5\" SATA + 6 x 2.5\" SATA, 3 x PCIe Gen4",
+    "rackMountable": true
+   },
+   "collections": [
+    "enterprise-lab",
+    "high-end-storage"
+   ],
+   "warranty": 60,
+   "notes": "QNAP publishes no US list price for this model (quote-only / sold through resellers); price is a TrustKart estimate for the base configuration.",
+   "sources": {
+    "product": "https://www.qnap.com/en-us/product/ts-h3087xu-rp",
+    "specs": "https://www.qnap.com/en-us/product/ts-h3087xu-rp/specs/hardware",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://www.qnap.com/i/_attach_file/product/photo/1000_625/732_1657780512_TS-h3087XU_right.png",
+    "page": "https://www.qnap.com/en-us/product/ts-h3087xu-rp",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official QNAP product image from the qnap.com product page gallery; QNAP has not granted a general reuse license - rights not verified.",
+    "credit": "QNAP",
+    "alt": "QNAP TS-h3087XU-RP 4U 30-bay rackmount NAS, angled right front view",
+    "match": "EXACT"
+   }
+  },
+  {
+   "sku": "TK-QNAP-TSH1090FU",
+   "slug": "qnap-ts-h1090fu",
+   "name": "QNAP TS-h1090FU",
+   "brand": "QNAP",
+   "category": "nas",
+   "price": "9499.00",
+   "priceBasis": "estimate",
+   "summary": "1U 10-bay all-flash U.2 NVMe NAS with a 16-core AMD EPYC 7302P, 256 GB ECC RDIMM and dual 25GbE SFP28.",
+   "description": "The TS-h1090FU is a 1U all-flash QuTS hero NAS with ten 2.5-inch U.2 NVMe Gen4 x4 / SATA bays. It is powered by a 16-core/32-thread AMD EPYC 7302P with 256 GB DDR4 ECC RDIMM (up to 1 TB+ across 12 slots), two 25GbE SFP28 SmartNIC ports, two 2.5GbE ports, two PCIe Gen4 x16 slots and redundant 550 W power.",
+   "keywords": "qnap all flash nvme u.2 1u epyc 25gbe nas",
+   "specs": {
+    "bays": 10,
+    "cpu": "AMD EPYC 7302P (16C/32T, up to 3.3 GHz)",
+    "ramGb": 256,
+    "network": "2 x 25GbE SFP28 + 2 x 2.5GbE RJ-45",
+    "interface": "10 x 2.5\" U.2 NVMe Gen4 x4 / SATA, 2 x PCIe Gen4 x16",
+    "rackMountable": true
+   },
+   "collections": [
+    "enterprise-lab",
+    "high-end-storage",
+    "ai-lab"
+   ],
+   "warranty": 60,
+   "notes": "QNAP publishes no US list price for this model (quote-only / sold through resellers); price is a TrustKart estimate for the base configuration.",
+   "sources": {
+    "product": "https://www.qnap.com/en-us/product/ts-h1090fu",
+    "specs": "https://www.qnap.com/en-us/product/ts-h1090fu/specs/hardware",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://www.qnap.com/i/_attach_file/product/photo/1000_625/715_1651558242_TS-h1090FU_right.png",
+    "page": "https://www.qnap.com/en-us/product/ts-h1090fu",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official QNAP product image from the qnap.com product page gallery; QNAP has not granted a general reuse license - rights not verified.",
+    "credit": "QNAP",
+    "alt": "QNAP TS-h1090FU 1U 10-bay all-flash NVMe rackmount NAS, angled right front view",
+    "match": "EXACT"
+   }
+  },
+  {
+   "sku": "TK-ASUSTOR-AS7212RDX",
+   "slug": "asustor-lockerstor-12r-pro-gen2-as7212rdx",
+   "name": "ASUSTOR Lockerstor 12R Pro Gen2 (AS7212RDX)",
+   "brand": "ASUSTOR",
+   "category": "nas",
+   "price": "3299.00",
+   "priceBasis": "estimate",
+   "summary": "2U 12-bay rackmount NAS with an AMD Ryzen 7 Pro 7745, 16 GB DDR5 ECC, dual 10GbE, a PCIe 5.0 M.2 slot and redundant 550 W power.",
+   "description": "The Lockerstor 12R Pro Gen2 is a 2U, 12-bay ASUSTOR NAS built on an AMD Ryzen 7 Pro 7745 (3.8 GHz up to 5.3 GHz) with 16 GB DDR5-4800 ECC UDIMM (up to 192 GB). It adds an M.2 2280 NVMe slot on PCIe 5.0 x4, two 10GbE and two 1GbE ports, PCIe Gen5 x8 and x4 slots for 25/50GbE or SAS cards, redundant 550 W power and a 5-year warranty.",
+   "keywords": "asustor lockerstor 12r pro gen2 2u rack nas ryzen ddr5 ecc 10gbe",
+   "specs": {
+    "bays": 12,
+    "cpu": "AMD Ryzen 7 Pro 7745 (3.8 GHz, up to 5.3 GHz)",
+    "ramGb": 16,
+    "network": "2 x 10GbE + 2 x 1GbE RJ-45",
+    "interface": "12 x 3.5\"/2.5\" SATA, 1 x M.2 2280 NVMe (PCIe 5.0 x4), PCIe Gen5 x8 + x4",
+    "rackMountable": true
+   },
+   "collections": [
+    "enterprise-lab",
+    "high-end-storage"
+   ],
+   "warranty": 60,
+   "notes": "ASUSTOR publishes no US list price for this model (quote-only / sold through resellers); price is a TrustKart estimate for the diskless unit.",
+   "sources": {
+    "product": "https://www.asustor.com/en/product?p_id=92",
+    "specs": "https://www.asustor.com/en/product/spec?p_id=92",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://www.asustor.com/images/product_img/sm/AS7212RDX/AS7212RDX_R1.png",
+    "page": "https://www.asustor.com/en/product?p_id=92",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official ASUSTOR product image from asustor.com product media; ASUSTOR has not granted a general reuse license - rights not verified.",
+    "credit": "ASUSTOR",
+    "alt": "ASUSTOR Lockerstor 12R Pro Gen2 AS7212RDX 2U 12-bay rackmount NAS, angled front view",
+    "match": "EXACT"
+   }
+  },
+  {
+   "sku": "TK-ASUSTOR-AS6512RD",
+   "slug": "asustor-lockerstor-12rd-as6512rd",
+   "name": "ASUSTOR Lockerstor 12RD (AS6512RD)",
+   "brand": "ASUSTOR",
+   "category": "nas",
+   "price": "2299.00",
+   "priceBasis": "estimate",
+   "summary": "2U 12-bay rackmount NAS with an Intel Atom C3538, 8 GB DDR4, dual 2.5GbE plus dual 1GbE and redundant 350 W power.",
+   "description": "The Lockerstor 12RD is a 2U, 12-bay ASUSTOR NAS with a quad-core Intel Atom C3538 (2.1 GHz) and 8 GB DDR4 (up to 128 GB). It has two 2.5GbE and two 1GbE ports, a PCIe 3.0 x8 slot (x4 link), redundant 350 W power supplies and scales to 28 drives with expansion units.",
+   "keywords": "asustor lockerstor 12rd 2u 12 bay rack nas atom redundant psu",
+   "specs": {
+    "bays": 12,
+    "cpu": "Intel Atom C3538 (4 cores, 2.1 GHz)",
+    "ramGb": 8,
+    "network": "2 x 2.5GbE + 2 x 1GbE RJ-45",
+    "interface": "12 x 3.5\"/2.5\" SATA, 1 x PCIe 3.0 x8 (x4 link)",
+    "rackMountable": true
+   },
+   "collections": [
+    "small-business",
+    "homelab-essentials"
+   ],
+   "warranty": 36,
+   "notes": "ASUSTOR publishes no US list price for this model (quote-only / sold through resellers); price is a TrustKart estimate for the diskless unit.",
+   "sources": {
+    "product": "https://www.asustor.com/en/product?p_id=75",
+    "specs": "https://www.asustor.com/en/product/spec?p_id=75",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://www.asustor.com/images/product_img/sm/AS6512RD/AS6512RD_R1.png",
+    "page": "https://www.asustor.com/en/product?p_id=75",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official ASUSTOR product image from asustor.com product media; ASUSTOR has not granted a general reuse license - rights not verified.",
+    "credit": "ASUSTOR",
+    "alt": "ASUSTOR Lockerstor 12RD AS6512RD 2U 12-bay rackmount NAS, angled front view",
+    "match": "EXACT"
+   }
+  },
+  {
+   "sku": "TK-ASUSTOR-AS6504RD",
+   "slug": "asustor-lockerstor-4rd-as6504rd",
+   "name": "ASUSTOR Lockerstor 4RD (AS6504RD)",
+   "brand": "ASUSTOR",
+   "category": "nas",
+   "price": "1099.00",
+   "priceBasis": "estimate",
+   "summary": "1U 4-bay rackmount NAS with an Intel Atom C3538, 8 GB DDR4, dual 2.5GbE plus dual 1GbE and redundant 250 W power.",
+   "description": "The Lockerstor 4RD is a 1U, 4-bay ASUSTOR NAS with a quad-core Intel Atom C3538 (2.1 GHz) and 8 GB DDR4 (up to 128 GB). It offers two 2.5GbE and two 1GbE ports, a PCIe 3.0 x8 slot (x4 link) and dual 250 W redundant power supplies, and expands to 20 drives. The AS6504RS variant has a single power supply.",
+   "keywords": "asustor lockerstor 4rd 1u 4 bay rack nas redundant psu homelab",
+   "specs": {
+    "bays": 4,
+    "cpu": "Intel Atom C3538 (4 cores, 2.1 GHz)",
+    "ramGb": 8,
+    "network": "2 x 2.5GbE + 2 x 1GbE RJ-45",
+    "interface": "4 x 3.5\"/2.5\" SATA, 1 x PCIe 3.0 x8 (x4 link)",
+    "rackMountable": true
+   },
+   "variants": [
+    {
+     "label": "AS6504RD (redundant PSU)"
+    },
+    {
+     "label": "AS6504RS (single PSU)"
+    }
+   ],
+   "collections": [
+    "homelab-essentials",
+    "small-business"
+   ],
+   "warranty": 36,
+   "notes": "ASUSTOR publishes no US list price for this model (quote-only / sold through resellers); price is a TrustKart estimate for the diskless unit.",
+   "sources": {
+    "product": "https://www.asustor.com/en/product?p_id=74",
+    "specs": "https://www.asustor.com/en/product/spec?p_id=74",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://www.asustor.com/images/product_img/sm/AS6504RD/AS6504RD_R1.png",
+    "page": "https://www.asustor.com/en/product?p_id=74",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official ASUSTOR product image from asustor.com product media; ASUSTOR has not granted a general reuse license - rights not verified.",
+    "credit": "ASUSTOR",
+    "alt": "ASUSTOR Lockerstor 4RD AS6504RD 1U 4-bay rackmount NAS, angled front view",
+    "match": "EXACT"
+   }
+  },
+  {
+   "sku": "TK-TRUENAS-MINIXPLUS",
+   "slug": "truenas-mini-x-plus",
+   "name": "TrueNAS Mini X+",
+   "brand": "TrueNAS",
+   "category": "nas",
+   "price": "1699.00",
+   "priceBasis": "estimate",
+   "summary": "5+2-bay OpenZFS appliance with an 8-core Intel Atom C3758, 32 GB ECC DDR4, dual 10GBase-T and IPMI.",
+   "description": "The TrueNAS Mini X+ shares the Mini X 5+2-bay enclosure but steps up to an octa-core Intel Atom C3758 with 32 GB DDR4 ECC (upgradeable to 64 GB), two RJ45 1/10GBase-T ports, a dedicated IPMI port and a PCIe 3.0 x4 slot for an optional dual SFP+ card.",
+   "keywords": "truenas mini x+ ixsystems zfs 10gbe nas ecc",
+   "specs": {
+    "bays": 7,
+    "cpu": "Intel Atom C3758 (8 cores)",
+    "ramGb": 32,
+    "network": "2 x 1/10GBase-T RJ45 + IPMI",
+    "interface": "5 x 3.5\" SATA + 2 x 2.5\" SATA SSD hot-swap, 1 x PCIe 3.0 x4",
+    "rackMountable": false
+   },
+   "collections": [
+    "homelab-essentials",
+    "small-business"
+   ],
+   "warranty": 12,
+   "featured": true,
+   "notes": "iXsystems publishes no fixed US list price on truenas.com; price is a TrueNAS diskless-unit estimate.",
+   "sources": {
+    "product": "https://www.truenas.com/truenas-mini/",
+    "specs": "https://www.truenas.com/truenas-mini/#specifications",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://www.truenas.com/wp-content/uploads/2021/06/Mini_X_Open-1.png",
+    "page": "https://www.truenas.com/truenas-mini/",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official TrueNAS (iXsystems) product image from truenas.com; iXsystems has not granted a general reuse license - rights not verified.",
+    "credit": "iXsystems",
+    "alt": "TrueNAS Mini X+ compact 5+2-bay ZFS appliance (shared Mini X enclosure), front view with door open",
+    "match": "PRODUCT_LINE"
+   }
+  },
+  {
+   "sku": "TK-TRUENAS-MINIR",
+   "slug": "truenas-mini-r",
+   "name": "TrueNAS Mini R",
+   "brand": "TrueNAS",
+   "category": "nas",
+   "price": "2799.00",
+   "priceBasis": "estimate",
+   "summary": "12-bay 2U rackmount OpenZFS appliance with an 8-core Intel Atom C3758, 32 GB ECC DDR4, dual 10GBase-T and IPMI.",
+   "description": "The TrueNAS Mini R is a 12-bay rackmount (2U, 17.2 x 21 x 3.5 in) OpenZFS appliance with an octa-core Intel Atom C3758 and 32 GB DDR4 ECC (upgradeable to 64 GB). It has two 1/10GBase-T ports, dedicated IPMI, a PCIe 3.0 x4 slot for optional SFP+ and supports up to 216 TB raw; a short rail kit is included.",
+   "keywords": "truenas mini r 12 bay rackmount zfs 10gbe ixsystems",
+   "specs": {
+    "bays": 12,
+    "cpu": "Intel Atom C3758 (8 cores)",
+    "ramGb": 32,
+    "network": "2 x 1/10GBase-T RJ45 + IPMI",
+    "interface": "12 x 3.5\" SATA hot-swap, 1 x PCIe 3.0 x4",
+    "rackMountable": true
+   },
+   "collections": [
+    "homelab-essentials",
+    "small-business"
+   ],
+   "warranty": 12,
+   "notes": "iXsystems publishes no fixed US list price on truenas.com; price is a TrueNAS diskless-unit estimate.",
+   "sources": {
+    "product": "https://www.truenas.com/truenas-mini/",
+    "specs": "https://www.truenas.com/truenas-mini/#specifications",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://www.truenas.com/wp-content/uploads/2023/02/Mini_R_Drives_Front_1000_comp.png",
+    "page": "https://www.truenas.com/truenas-mini/",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official TrueNAS (iXsystems) product image from truenas.com; iXsystems has not granted a general reuse license - rights not verified.",
+    "credit": "iXsystems",
+    "alt": "TrueNAS Mini R 12-bay rackmount ZFS appliance, front view with drive trays",
+    "match": "EXACT"
+   }
+  },
+  {
+   "sku": "TK-DELL-POWERVAULT-ME5212",
+   "slug": "dell-powervault-me5212",
+   "name": "Dell PowerVault ME5212 Storage Array",
+   "brand": "Dell",
+   "category": "nas",
+   "price": "15498.99",
+   "priceBasis": "starting-at",
+   "priceSource": "https://www.dell.com/en-us/shop/ipovw/powervault-me5212",
+   "priceAsOf": "2026-09-28",
+   "summary": "2U 12-bay 3.5-inch entry SAN block storage array with single or dual controllers and a choice of iSCSI, SAS or Fibre Channel host ports.",
+   "description": "The PowerVault ME5212 is a 2U, 12-drive (3.5-inch) member of Dell's ME5 entry storage family for direct-attach and SAN block storage. It is offered with 10Gb iSCSI Base-T, 12Gb SAS, 25Gb iSCSI or 32Gb FC controllers in single- or dual-controller form, scales to 6.336 PB raw with up to 9 x 2U or 3 x 5U enclosures, and Dell quotes family performance of up to 840K IOPS.",
+   "keywords": "dell powervault me5212 me5 san block storage array iscsi fibre channel sas 12 bay",
+   "specs": {
+    "bays": 12,
+    "interface": "12 x 3.5-inch SAS HDD/SSD hot-plug",
+    "network": "10Gb iSCSI Base-T, 12Gb SAS, 25Gb iSCSI or 32Gb FC controllers",
+    "rackMountable": true,
+    "configurations": "Single or dual controller"
+   },
+   "collections": [
+    "enterprise-lab",
+    "high-end-storage"
+   ],
+   "sources": {
+    "product": "https://www.dell.com/en-us/shop/ipovw/powervault-me5212",
+    "specs": "https://www.dell.com/en-us/shop/storage-servers-and-networking-for-business/sf/powervault",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://i.dell.com/is/image/DellContent/content/dam/images/products/storage/powervault/me5212/powervault-me5212-2u-front-top.png?fmt=png-alpha&pscan=auto&scl=1&wid=1400&qlt=100,1&resMode=sharp2",
+    "page": "https://www.dell.com/en-us/shop/ipovw/powervault-me5212",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official Dell product-page gallery image (i.dell.com); Dell has not granted a reuse license - rights not verified.",
+    "credit": "Dell Technologies",
+    "alt": "Dell PowerVault ME5212 2U storage array, front view",
+    "match": "EXACT"
+   }
+  },
+  {
+   "sku": "TK-DELL-POWERVAULT-ME5224",
+   "slug": "dell-powervault-me5224",
+   "name": "Dell PowerVault ME5224 Storage Array",
+   "brand": "Dell",
+   "category": "nas",
+   "price": "20298.99",
+   "priceBasis": "starting-at",
+   "priceSource": "https://www.dell.com/en-us/shop/ipovw/powervault-me5224",
+   "priceAsOf": "2026-09-28",
+   "summary": "2U 24-bay 2.5-inch entry SAN block storage array with single or dual controllers and a choice of iSCSI, SAS or Fibre Channel host ports.",
+   "description": "The PowerVault ME5224 is a 2U, 24-drive (2.5-inch) member of Dell's ME5 entry storage family for direct-attach and SAN block storage. It is offered with 10Gb iSCSI Base-T, 12Gb SAS, 25Gb iSCSI or 32Gb FC controllers in single- or dual-controller form, scales to 6.232 PB raw with up to 9 x 2U or 3 x 5U enclosures, and Dell quotes family performance of up to 840K IOPS.",
+   "keywords": "dell powervault me5224 me5 san block storage array iscsi fibre channel sas 24 bay",
+   "specs": {
+    "bays": 24,
+    "interface": "24 x 2.5-inch SAS HDD/SSD hot-plug",
+    "network": "10Gb iSCSI Base-T, 12Gb SAS, 25Gb iSCSI or 32Gb FC controllers",
+    "rackMountable": true,
+    "configurations": "Single or dual controller"
+   },
+   "collections": [
+    "enterprise-lab",
+    "high-end-storage"
+   ],
+   "sources": {
+    "product": "https://www.dell.com/en-us/shop/ipovw/powervault-me5224",
+    "specs": "https://www.dell.com/en-us/shop/storage-servers-and-networking-for-business/sf/powervault",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-enterprise-products/storage/power-vault/me5224/spi/storage-powervault-me5224-black-category-franchise-left-hero-685x350-ng.psd?fmt=png-alpha&pscan=auto&scl=1&wid=1400&qlt=100,1&resMode=sharp2",
+    "page": "https://www.dell.com/en-us/shop/ipovw/powervault-me5224",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official Dell product-page gallery image (i.dell.com); Dell has not granted a reuse license - rights not verified.",
+    "credit": "Dell Technologies",
+    "alt": "Dell PowerVault ME5224 2U storage array, front view",
+    "match": "EXACT"
+   }
+  },
+  {
+   "sku": "TK-DELL-POWERVAULT-ME5284",
+   "slug": "dell-powervault-me5284",
+   "name": "Dell PowerVault ME5284 Storage Array",
+   "brand": "Dell",
+   "category": "nas",
+   "price": "60599.07",
+   "priceBasis": "starting-at",
+   "priceSource": "https://www.dell.com/en-us/shop/ipovw/powervault-me5284",
+   "priceAsOf": "2026-09-28",
+   "summary": "5U 84-bay 3.5-inch entry SAN block storage array with single or dual controllers and a choice of iSCSI, SAS or Fibre Channel host ports.",
+   "description": "The PowerVault ME5284 is a 5U, 84-drive (3.5-inch) member of Dell's ME5 entry storage family for direct-attach and SAN block storage. It is offered with 10Gb iSCSI Base-T, 12Gb SAS, 25Gb iSCSI or 32Gb FC controllers in dual-controller form, scales to 8.064 PB raw with up to 3 x 5U enclosures, and Dell quotes family performance of up to 840K IOPS.",
+   "keywords": "dell powervault me5284 me5 san block storage array iscsi fibre channel sas 84 bay",
+   "specs": {
+    "bays": 84,
+    "interface": "84 x 3.5-inch SAS HDD/SSD hot-plug",
+    "network": "10Gb iSCSI Base-T, 12Gb SAS, 25Gb iSCSI or 32Gb FC controllers",
+    "rackMountable": true,
+    "configurations": "Dual controller"
+   },
+   "collections": [
+    "enterprise-lab",
+    "high-end-storage"
+   ],
+   "sources": {
+    "product": "https://www.dell.com/en-us/shop/ipovw/powervault-me5284",
+    "specs": "https://www.dell.com/en-us/shop/storage-servers-and-networking-for-business/sf/powervault",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-enterprise-products/storage/power-vault/me5284/spi/storage-powervault-me5284-black-category-franchise-left-hero-685x350-ng.psd?fmt=png-alpha&pscan=auto&scl=1&wid=1400&qlt=100,1&resMode=sharp2",
+    "page": "https://www.dell.com/en-us/shop/ipovw/powervault-me5284",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official Dell product-page gallery image (i.dell.com); Dell has not granted a reuse license - rights not verified.",
+    "credit": "Dell Technologies",
+    "alt": "Dell PowerVault ME5284 5U storage array, front view",
+    "match": "EXACT"
+   }
+  },
+  {
+   "sku": "TK-SEAGATE-IRONWOLFPRO-32TB",
+   "slug": "seagate-ironwolf-pro-32tb",
+   "name": "Seagate IronWolf Pro 32 TB NAS Hard Drive",
+   "brand": "Seagate",
+   "category": "hard-drives",
+   "price": "1159.99",
+   "priceBasis": "msrp",
+   "priceSource": "https://www.seagate.com/products/nas-drives/ironwolf-pro-hard-drive/?sku=ST32000NT000",
+   "priceAsOf": "2026-09-28",
+   "summary": "32 TB 3.5-inch SATA 6 Gb/s all-CMR NAS drive rated for 550 TB/year and 2.5M-hour MTBF, with a 5-year warranty and Rescue data recovery.",
+   "description": "IronWolf Pro is Seagate's drive for 24x7 multi-user NAS and small enterprise arrays. The 32 TB model (ST32000NT000) is a 3.5-inch SATA 6 Gb/s CMR drive with up to 550 TB/year workload rating, 2.5 million-hour MTBF, a 5-year limited warranty, three years of Rescue Data Recovery Services and IronWolf Health Management.",
+   "keywords": "seagate ironwolf pro 32tb nas hdd cmr ST32000NT000 homelab",
+   "specs": {
+    "capacityTb": 32,
+    "interface": "SATA 6 Gb/s",
+    "workloadTbYr": 550
+   },
+   "variants": [
+    {
+     "label": "32 TB (ST32000NT000)",
+     "price": "1159.99"
+    },
+    {
+     "label": "28 TB (ST28000NT000)",
+     "price": "1019.99"
+    },
+    {
+     "label": "24 TB (ST24000NT002)",
+     "price": "859.99"
+    },
+    {
+     "label": "16 TB (ST16000NT001)",
+     "price": "579.99"
+    }
+   ],
+   "collections": [
+    "homelab-essentials",
+    "high-end-storage"
+   ],
+   "warranty": 60,
+   "featured": true,
+   "notes": "Price from Seagate's US store listing for ST32000NT000 (shown out of stock on 2026-09-28).",
+   "sources": {
+    "product": "https://www.seagate.com/products/nas-drives/ironwolf-pro-hard-drive/?sku=ST32000NT000",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://www.seagate.com/content/dam/seagate/assets/products/nas-drives/ironwolf-pro-hard-drive/images/ironwolf-pro-32tb-front.png",
+    "page": "https://www.seagate.com/products/nas-drives/ironwolf-pro-hard-drive/?sku=ST32000NT000",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official Seagate product-page image (seagate.com DAM); Seagate has not granted a reuse license - rights not verified.",
+    "credit": "Seagate",
+    "alt": "Seagate IronWolf Pro 32TB 3.5-inch NAS hard drive, front label view",
+    "match": "EXACT"
+   }
+  },
+  {
+   "sku": "TK-SEAGATE-IRONWOLF-12TB",
+   "slug": "seagate-ironwolf-12tb",
+   "name": "Seagate IronWolf 12 TB NAS Hard Drive",
+   "brand": "Seagate",
+   "category": "hard-drives",
+   "price": "429.99",
+   "priceBasis": "msrp",
+   "priceSource": "https://www.seagate.com/products/nas-drives/ironwolf-hard-drive/?sku=ST12000VN0008",
+   "priceAsOf": "2026-09-28",
+   "summary": "12 TB 3.5-inch SATA 7200 RPM helium NAS drive with 256 MB cache for 1-8 bay home and small-office NAS.",
+   "description": "Seagate IronWolf targets always-on home and small-business NAS enclosures. The 12 TB model (ST12000VN0008) is a 3.5-inch SATA 6 Gb/s helium drive spinning at 7200 RPM with 256 MB cache and a 3-year limited warranty; smaller capacities use air-filled designs at 5400 or 7200 RPM.",
+   "keywords": "seagate ironwolf 12tb nas hdd 7200rpm ST12000VN0008 home nas",
+   "specs": {
+    "capacityTb": 12,
+    "interface": "SATA 6 Gb/s",
+    "rpm": 7200,
+    "cacheMb": 256
+   },
+   "variants": [
+    {
+     "label": "12 TB (ST12000VN0008)",
+     "price": "429.99"
+    },
+    {
+     "label": "10 TB (ST10000VN000)",
+     "price": "329.99"
+    },
+    {
+     "label": "8 TB (ST8000VN004)",
+     "price": "329.99"
+    },
+    {
+     "label": "6 TB (ST6000VN006)",
+     "price": "214.99"
+    },
+    {
+     "label": "4 TB (ST4000VN006)",
+     "price": "189.99"
+    }
+   ],
+   "collections": [
+    "homelab-starter"
+   ],
+   "warranty": 36,
+   "notes": "Price from Seagate's US store listing for ST12000VN0008 (shown out of stock on 2026-09-28).",
+   "sources": {
+    "product": "https://www.seagate.com/products/nas-drives/ironwolf-hard-drive/?sku=ST12000VN0008",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://www.seagate.com/content/dam/seagate/assets/products/nas-drives/ironwolf-hard-drive/ironwolf-hdd-product-card-image.png",
+    "page": "https://www.seagate.com/products/nas-drives/ironwolf-hard-drive/",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official Seagate product-page image (seagate.com DAM); Seagate has not granted a reuse license - rights not verified.",
+    "credit": "Seagate",
+    "alt": "Seagate IronWolf 3.5-inch NAS hard drive, front label view",
+    "match": "PRODUCT_LINE"
+   }
+  },
+  {
+   "sku": "TK-WD-ULTRASTAR-HC590-26TB",
+   "slug": "wd-ultrastar-dc-hc590-26tb",
+   "name": "WD Ultrastar DC HC590 26 TB Data Center Hard Drive",
+   "brand": "Western Digital",
+   "category": "hard-drives",
+   "price": "1389.99",
+   "priceBasis": "msrp",
+   "priceSource": "https://www.westerndigital.com/products/internal-drives/data-center-drives/ultrastar-dc-hc590-hdd?sku=0F65672",
+   "priceAsOf": "2026-09-28",
+   "summary": "26 TB 3.5-inch 7200 RPM CMR data center HDD with 512 MB cache, ArmorCache and a 550 TB/year workload rating.",
+   "description": "The Ultrastar DC HC590 is Western Digital's 11-disk CMR helium platform for enterprise and cloud storage. The 26 TB SATA SE model (0F65672) spins at 7200 RPM with 512 MB cache, adds ArmorCache write-cache protection and is rated for 550 TB/year; SAS and TCG-encrypted versions and a 24 TB capacity are also offered.",
+   "keywords": "wd ultrastar hc590 26tb data center hdd cmr 7200rpm sata sas",
+   "specs": {
+    "capacityTb": 26,
+    "interface": "SATA 6 Gb/s (SAS 12 Gb/s option)",
+    "rpm": 7200,
+    "cacheMb": 512,
+    "workloadTbYr": 550
+   },
+   "variants": [
+    {
+     "label": "26 TB SATA SE (0F65672)",
+     "price": "1389.99"
+    },
+    {
+     "label": "24 TB SATA SE (0F65684)",
+     "price": "1289.99"
+    },
+    {
+     "label": "26 TB SAS SE (0F59375)",
+     "price": "1399.99"
+    },
+    {
+     "label": "24 TB SAS SE (0F59373)",
+     "price": "1299.99"
+    }
+   ],
+   "collections": [
+    "enterprise-servers",
+    "high-end-storage"
+   ],
+   "warranty": 60,
+   "notes": "Price read from Western Digital's US store commerce service for 0F65672 (in stock) on 2026-09-28.",
+   "sources": {
+    "product": "https://www.westerndigital.com/products/internal-drives/data-center-drives/ultrastar-dc-hc590-hdd?sku=0F65672",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://www.westerndigital.com/content/dam/store/en-us/assets/products/internal-storage/ultrastar-dc-hc590-hdd/gallery/ultrastar-dc-hc590-hdd-24tb-left.png",
+    "page": "https://www.westerndigital.com/products/internal-drives/data-center-drives/ultrastar-dc-hc590-hdd",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official Western Digital store product image (westerndigital.com); Western Digital has not granted a reuse license - rights not verified.",
+    "credit": "Western Digital",
+    "alt": "WD Ultrastar DC HC590 3.5-inch data center hard drive, angled left view",
+    "match": "PRODUCT_LINE"
+   }
+  },
+  {
+   "sku": "TK-WD-GOLD-22TB",
+   "slug": "wd-gold-22tb-enterprise-hdd",
+   "name": "WD Gold 22 TB Enterprise Class SATA HDD",
+   "brand": "Western Digital",
+   "category": "hard-drives",
+   "price": "1179.99",
+   "priceBasis": "msrp",
+   "priceSource": "https://www.westerndigital.com/products/internal-drives/wd-gold-sata-hdd?sku=WD221KRYZ",
+   "priceAsOf": "2026-09-28",
+   "summary": "22 TB 3.5-inch 7200 RPM enterprise-class SATA drive with 512 MB cache, 550 TB/year rating and 2.5M-hour MTBF.",
+   "description": "WD Gold is Western Digital's enterprise-class SATA line for servers and storage arrays. The 22 TB model (WD221KRYZ) spins at 7200 RPM with 512 MB cache, is rated for 550 TB/year and a 2.5 million-hour MTBF, and carries a 5-year limited warranty.",
+   "keywords": "wd gold 22tb enterprise hdd 7200rpm sata WD221KRYZ server",
+   "specs": {
+    "capacityTb": 22,
+    "interface": "SATA 6 Gb/s",
+    "rpm": 7200,
+    "cacheMb": 512,
+    "workloadTbYr": 550
+   },
+   "variants": [
+    {
+     "label": "22 TB (WD221KRYZ)",
+     "price": "1179.99"
+    },
+    {
+     "label": "20 TB (WD203KRYZ)",
+     "price": "1069.99"
+    },
+    {
+     "label": "18 TB (WD181KRYZ)",
+     "price": "964.99"
+    },
+    {
+     "label": "16 TB (WD161KRYZ)",
+     "price": "859.99"
+    },
+    {
+     "label": "26 TB (WD261KRYZ)",
+     "price": "1389.99"
+    }
+   ],
+   "collections": [
+    "enterprise-servers",
+    "homelab-essentials"
+   ],
+   "warranty": 60,
+   "notes": "Price read from Western Digital's US store commerce service for WD221KRYZ (in stock) on 2026-09-28.",
+   "sources": {
+    "product": "https://www.westerndigital.com/products/internal-drives/wd-gold-sata-hdd?sku=WD221KRYZ",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://www.westerndigital.com/content/dam/store/en-us/assets/products/internal-storage/wd-gold-sata-hdd/gallery/WD-GOLD-22TB.png",
+    "page": "https://www.westerndigital.com/products/internal-drives/wd-gold-sata-hdd?sku=WD221KRYZ",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official Western Digital store product image (westerndigital.com); Western Digital has not granted a reuse license - rights not verified.",
+    "credit": "Western Digital",
+    "alt": "WD Gold 22TB 3.5-inch enterprise hard drive, front label view",
+    "match": "EXACT"
+   }
+  },
+  {
+   "sku": "TK-KIOXIA-CM9R-7T68",
+   "slug": "kioxia-cm9-r-7-68tb",
+   "name": "KIOXIA CM9-R 7.68 TB PCIe 5.0 Enterprise SSD",
+   "brand": "KIOXIA",
+   "category": "enterprise-ssds",
+   "price": "2199.00",
+   "priceBasis": "estimate",
+   "summary": "Dual-port PCIe 5.0 NVMe enterprise SSD with BiCS FLASH TLC, up to 14,800 MB/s reads and 1 DWPD.",
+   "description": "The CM9-R is KIOXIA's read-intensive enterprise NVMe SSD in the 2.5-inch 15 mm form factor, supporting PCIe 5.0 single x4 or dual x2 ports and NVMe 2.0. It uses BiCS FLASH TLC in 1.92 TB to 61.44 TB capacities, with sustained sequential reads up to 14,800 MB/s, random reads up to 3.4M IOPS, power-loss protection, SIE/SED/FIPS options, 1 DWPD and a 5-year warranty.",
+   "keywords": "kioxia cm9 cm9-r pcie gen5 dual port enterprise nvme ssd u.3",
+   "specs": {
+    "capacityTb": 7.68,
+    "interface": "PCIe 5.0 NVMe 2.0 (single x4 / dual x2)",
+    "formFactor": "2.5-inch 15 mm",
+    "readMbps": 14800,
+    "dwpd": 1
+   },
+   "variants": [
+    {
+     "label": "1.92 TB"
+    },
+    {
+     "label": "3.84 TB"
+    },
+    {
+     "label": "7.68 TB"
+    },
+    {
+     "label": "15.36 TB"
+    },
+    {
+     "label": "30.72 TB"
+    },
+    {
+     "label": "61.44 TB"
+    }
+   ],
+   "collections": [
+    "enterprise-servers",
+    "high-end-storage"
+   ],
+   "warranty": 60,
+   "notes": "KIOXIA publishes no US list price for this model (quote-only / sold through resellers); price is a TrustKart estimate for the 7.68 TB SIE model.",
+   "sources": {
+    "product": "https://americas.kioxia.com/en-us/business/ssd/enterprise-ssd/cm9-r.html",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://americas.kioxia.com/content/dam/kioxia/shared/business/ssd/enterprise-ssd/img/cm9_img_001.png",
+    "page": "https://americas.kioxia.com/en-us/business/ssd/enterprise-ssd/cm9-r.html",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official KIOXIA product image from americas.kioxia.com; KIOXIA has not granted a general reuse license - rights not verified.",
+    "credit": "KIOXIA",
+    "alt": "KIOXIA CM9 Series 2.5-inch enterprise NVMe SSD, product view",
+    "match": "PRODUCT_LINE"
+   }
+  },
+  {
+   "sku": "TK-KIOXIA-LC9-122TB",
+   "slug": "kioxia-lc9-122-88tb",
+   "name": "KIOXIA LC9 122.88 TB PCIe 5.0 High-Capacity SSD",
+   "brand": "KIOXIA",
+   "category": "enterprise-ssds",
+   "price": "17999.00",
+   "priceBasis": "estimate",
+   "summary": "122.88 TB dual-port PCIe 5.0 NVMe QLC SSD in 2.5-inch U.3 for AI data lakes, up to 12,000 MB/s reads.",
+   "description": "The LC9 Series is KIOXIA's high-capacity enterprise SSD built on BiCS FLASH generation 8 QLC, reaching 122.88 TB in the 2.5-inch 15 mm (U.3) form factor. It supports PCIe 5.0 and NVMe 2.0 with a dual-port design, sequential reads up to 12,000 MB/s and random reads up to 1,350K IOPS, power-loss protection and SIE/SED/FIPS options, aimed at AI training, inference and data-lake repositories.",
+   "keywords": "kioxia lc9 122tb qlc high capacity ssd ai data lake pcie gen5",
+   "specs": {
+    "capacityTb": 122.88,
+    "interface": "PCIe 5.0 NVMe 2.0 (dual-port)",
+    "formFactor": "2.5-inch 15 mm U.3 (also E3.L)",
+    "readMbps": 12000
+   },
+   "variants": [
+    {
+     "label": "30.72 TB"
+    },
+    {
+     "label": "61.44 TB"
+    },
+    {
+     "label": "122.88 TB"
+    }
+   ],
+   "collections": [
+    "ai-lab",
+    "high-end-storage",
+    "enterprise-servers"
+   ],
+   "featured": true,
+   "notes": "KIOXIA publishes no US list price for this model (quote-only / sold through resellers); price is a TrustKart estimate for the 122.88 TB model; enterprise QLC pricing varies widely.",
+   "sources": {
+    "product": "https://americas.kioxia.com/en-us/business/ssd/enterprise-ssd/lc9.html",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://americas.kioxia.com/content/dam/kioxia/shared/business/ssd/enterprise-ssd/img/lc9_img_001.png",
+    "page": "https://americas.kioxia.com/en-us/business/ssd/enterprise-ssd/lc9.html",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official KIOXIA product image from americas.kioxia.com; KIOXIA has not granted a general reuse license - rights not verified.",
+    "credit": "KIOXIA",
+    "alt": "KIOXIA LC9 Series 2.5-inch high-capacity enterprise SSD, product view",
+    "match": "EXACT"
+   }
+  },
+  {
+   "sku": "TK-LENOVO-SR630V4",
+   "slug": "lenovo-thinksystem-sr630-v4",
+   "name": "Lenovo ThinkSystem SR630 V4",
+   "brand": "Lenovo",
+   "category": "rack-servers",
+   "price": "9999.00",
+   "priceBasis": "estimate",
+   "summary": "1U two-socket Intel Xeon 6 rack server with 32 DDR5 DIMMs (up to 8 TB), up to 12 x 2.5-inch or 16 x E3.S bays and PCIe 5.0.",
+   "description": "The ThinkSystem SR630 V4 is a 1U 2-socket server for one or two Intel Xeon 6700P/6500P (up to 86 cores) or Xeon 6700E (up to 144 cores) processors. It has 32 DDR5 DIMM slots (RDIMMs up to 6400 MHz, MRDIMMs up to 8000 MHz) for up to 8 TB, up to 12 x 2.5-inch or 16 x E3.S NVMe bays, two OCP 3.0 slots and three PCIe 5.0 slots, with 800-2000 W redundant power options.",
+   "keywords": "lenovo thinksystem sr630 v4 1u xeon 6 granite rapids rack server",
+   "specs": {
+    "rackUnits": 1,
+    "cpu": "1-2 x Intel Xeon 6 (6700P/6500P up to 86 cores; 6700E up to 144 cores)",
+    "socketCount": 2,
+    "maxMemoryTb": 8,
+    "ecc": true,
+    "driveBays": 12,
+    "gpus": "Up to 3 x single-wide",
+    "raid": "Intel VROC NVMe RAID, tri-mode / 12 Gb SAS RAID adapters",
+    "network": "2 x OCP 3.0 (PCIe 5.0), 1/10/25/100 GbE options",
+    "psu": "2 x hot-swap 800 W / 1300 W / 2000 W, Platinum or Titanium"
+   },
+   "collections": [
+    "enterprise-servers",
+    "enterprise-lab"
+   ],
+   "warranty": 36,
+   "notes": "Lenovo sells ThinkSystem servers configure-to-order; no list price could be read (lenovo.com blocked automated access), so the price is a TrustKart estimate for an entry configuration.",
+   "sources": {
+    "product": "https://lenovopress.lenovo.com/lp1971-thinksystem-sr630-v4-server",
+    "specs": "https://lenovopress.lenovo.com/lp1971-thinksystem-sr630-v4-server#technical-specifications",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://lenovopress.lenovo.com/assets/images/LP1971/SR630%20V4%20Hydra%20Security%20Bezel%20Front%20Left.jpg",
+    "page": "https://lenovopress.lenovo.com/lp1971-thinksystem-sr630-v4-server",
+    "sourceType": "manufacturer-media-library",
+    "rights": "Official Lenovo product image published in the Lenovo Press product guide (lenovopress.lenovo.com); Lenovo has not granted a general reuse license - rights not verified.",
+    "credit": "Lenovo",
+    "alt": "Lenovo ThinkSystem SR630 V4 1U rack server with security bezel, front left angled view",
+    "match": "EXACT"
+   },
+   "featured": true
+  },
+  {
+   "sku": "TK-LENOVO-SR650V4",
+   "slug": "lenovo-thinksystem-sr650-v4",
+   "name": "Lenovo ThinkSystem SR650 V4",
+   "brand": "Lenovo",
+   "category": "rack-servers",
+   "price": "11999.00",
+   "priceBasis": "estimate",
+   "summary": "2U two-socket Intel Xeon 6 rack server with up to 8 TB DDR5, up to 40 x 2.5-inch or 16 x 3.5-inch bays and GPU support.",
+   "description": "The ThinkSystem SR650 V4 is Lenovo's mainstream 2U 2-socket server for one or two Intel Xeon 6700P/6500P processors (up to 86 cores each). It offers 32 DDR5 DIMM slots (up to 8 TB), up to 40 x 2.5-inch, 16 x 3.5-inch or 32 x E3.S drive bays, two OCP 3.0 slots with up to 400 GbE, support for up to two double-wide GPUs and 800-3200 W redundant power options.",
+   "keywords": "lenovo thinksystem sr650 v4 2u xeon 6 rack server gpu",
+   "specs": {
+    "rackUnits": 2,
+    "cpu": "1-2 x Intel Xeon 6700P/6500P (up to 86 cores each)",
+    "socketCount": 2,
+    "maxMemoryTb": 8,
+    "ecc": true,
+    "driveBays": 40,
+    "gpus": "Up to 10 x single-wide or 2 x double-wide",
+    "raid": "Intel VROC NVMe RAID, tri-mode / 12 Gb SAS RAID adapters",
+    "network": "2 x OCP 3.0 (PCIe 5.0), up to 400 GbE",
+    "psu": "2 x hot-swap 800-3200 W, Platinum or Titanium"
+   },
+   "collections": [
+    "enterprise-servers",
+    "enterprise-lab"
+   ],
+   "warranty": 36,
+   "notes": "Lenovo sells ThinkSystem servers configure-to-order; no list price could be read (lenovo.com blocked automated access), so the price is a TrustKart estimate for an entry configuration.",
+   "sources": {
+    "product": "https://lenovopress.lenovo.com/lp2127-thinksystem-sr650-v4-server",
+    "specs": "https://lenovopress.lenovo.com/lp2127-thinksystem-sr650-v4-server#technical-specifications",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://lenovopress.lenovo.com/assets/images/LP2127/SR650%20V4%20Santorini%20Security%20Bezel%2024x25%20Front%20Left.jpg",
+    "page": "https://lenovopress.lenovo.com/lp2127-thinksystem-sr650-v4-server",
+    "sourceType": "manufacturer-media-library",
+    "rights": "Official Lenovo product image published in the Lenovo Press product guide (lenovopress.lenovo.com); Lenovo has not granted a general reuse license - rights not verified.",
+    "credit": "Lenovo",
+    "alt": "Lenovo ThinkSystem SR650 V4 2U rack server with 24-bay front and security bezel, front left angled view",
+    "match": "EXACT"
+   }
+  },
+  {
+   "sku": "TK-LENOVO-SR630V3",
+   "slug": "lenovo-thinksystem-sr630-v3",
+   "name": "Lenovo ThinkSystem SR630 V3",
+   "brand": "Lenovo",
+   "category": "rack-servers",
+   "price": "7999.00",
+   "priceBasis": "estimate",
+   "summary": "1U two-socket 4th/5th Gen Xeon Scalable rack server with 32 DDR5 DIMMs (up to 8 TB) and up to 12 x 2.5-inch bays.",
+   "description": "The ThinkSystem SR630 V3 is a 1U 2-socket server for one or two 5th or 4th Gen Intel Xeon Scalable processors (up to 64 cores, 385 W). It has 32 DDR5 DIMM slots (up to 5600 MHz) for up to 8 TB, up to 12 x 2.5-inch, 4 x 3.5-inch or 16 x E1.S bays, an OCP 3.0 slot with up to 100 GbE and 750-1800 W redundant power options.",
+   "keywords": "lenovo thinksystem sr630 v3 1u xeon scalable rack server",
+   "specs": {
+    "rackUnits": 1,
+    "cpu": "1-2 x 5th/4th Gen Intel Xeon Scalable (up to 64 cores each)",
+    "socketCount": 2,
+    "maxMemoryTb": 8,
+    "ecc": true,
+    "driveBays": 12,
+    "gpus": "Up to 3 x single-wide",
+    "network": "OCP 3.0 (PCIe 5.0 x16), 1/10/25/100 GbE options",
+    "psu": "2 x hot-swap 750 / 1100 / 1800 W, Platinum or Titanium"
+   },
+   "collections": [
+    "enterprise-servers",
+    "enterprise-lab"
+   ],
+   "warranty": 36,
+   "notes": "Lenovo sells ThinkSystem servers configure-to-order; no list price could be read (lenovo.com blocked automated access), so the price is a TrustKart estimate for an entry configuration.",
+   "sources": {
+    "product": "https://lenovopress.lenovo.com/lp1600-thinksystem-sr630-v3-server",
+    "specs": "https://lenovopress.lenovo.com/lp1600-thinksystem-sr630-v3-server#technical-specifications",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://lenovopress.lenovo.com/assets/images/LP1600/SR630%20V3%20New%20York%2010x25%20front%20angled%20left.jpg",
+    "page": "https://lenovopress.lenovo.com/lp1600-thinksystem-sr630-v3-server",
+    "sourceType": "manufacturer-media-library",
+    "rights": "Official Lenovo product image published in the Lenovo Press product guide (lenovopress.lenovo.com); Lenovo has not granted a general reuse license - rights not verified.",
+    "credit": "Lenovo",
+    "alt": "Lenovo ThinkSystem SR630 V3 1U rack server with 10 x 2.5-inch bays, front left angled view",
+    "match": "EXACT"
+   }
+  },
+  {
+   "sku": "TK-LENOVO-SR665V3",
+   "slug": "lenovo-thinksystem-sr665-v3",
+   "name": "Lenovo ThinkSystem SR665 V3",
+   "brand": "Lenovo",
+   "category": "rack-servers",
+   "price": "10999.00",
+   "priceBasis": "estimate",
+   "summary": "2U two-socket AMD EPYC 9005/9004 rack server with 24 DDR5 DIMMs (up to 6 TB) and up to 40 x 2.5-inch or 20 x 3.5-inch bays.",
+   "description": "The ThinkSystem SR665 V3 is a 2U 2-socket server for one or two AMD EPYC 9005 (Turin) or 9004 (Genoa) processors, up to 160 cores and 400 W each. It has 24 DDR5 DIMM slots at up to 6400 MHz for up to 6 TB, up to 40 x 2.5-inch or 20 x 3.5-inch bays, a PCIe 5.0 OCP 3.0 slot and 750-2600 W redundant power options.",
+   "keywords": "lenovo thinksystem sr665 v3 2u amd epyc turin genoa rack server",
+   "specs": {
+    "rackUnits": 2,
+    "cpu": "1-2 x AMD EPYC 9005/9004 (up to 160 cores each)",
+    "socketCount": 2,
+    "maxMemoryTb": 6,
+    "ecc": true,
+    "driveBays": 40,
+    "network": "OCP 3.0 (PCIe 5.0 x16), 1/10/25 GbE options",
+    "psu": "2 x hot-swap 750-2600 W, Platinum or Titanium"
+   },
+   "collections": [
+    "enterprise-servers",
+    "enterprise-lab"
+   ],
+   "warranty": 36,
+   "notes": "Lenovo sells ThinkSystem servers configure-to-order; no list price could be read (lenovo.com blocked automated access), so the price is a TrustKart estimate for an entry configuration.",
+   "sources": {
+    "product": "https://lenovopress.lenovo.com/lp1608-thinksystem-sr665-v3-server",
+    "specs": "https://lenovopress.lenovo.com/lp1608-thinksystem-sr665-v3-server#technical-specifications",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://lenovopress.lenovo.com/assets/images/LP1608/ThinkSystem-SR665-V3.jpg",
+    "page": "https://lenovopress.lenovo.com/lp1608-thinksystem-sr665-v3-server",
+    "sourceType": "manufacturer-media-library",
+    "rights": "Official Lenovo product image published in the Lenovo Press product guide (lenovopress.lenovo.com); Lenovo has not granted a general reuse license - rights not verified.",
+    "credit": "Lenovo",
+    "alt": "Lenovo ThinkSystem SR665 V3 2U AMD EPYC rack server, front angled view",
+    "match": "EXACT"
+   }
+  },
+  {
+   "sku": "TK-LENOVO-SR645V3",
+   "slug": "lenovo-thinksystem-sr645-v3",
+   "name": "Lenovo ThinkSystem SR645 V3",
+   "brand": "Lenovo",
+   "category": "rack-servers",
+   "price": "9499.00",
+   "priceBasis": "estimate",
+   "summary": "1U two-socket AMD EPYC 9005/9004 rack server with 24 DDR5 DIMMs (up to 6 TB) and up to 12 x 2.5-inch or 16 x E1.S bays.",
+   "description": "The ThinkSystem SR645 V3 is a dense 1U 2-socket server for AMD EPYC 9005 or 9004 processors (up to 160 cores each). It supports 24 DDR5 DIMMs at up to 6400 MHz (up to 6 TB), up to 4 x 3.5-inch, 12 x 2.5-inch or 16 x E1.S bays, up to five single-wide GPUs, an OCP 3.0 slot and 500-1800 W redundant power options.",
+   "keywords": "lenovo thinksystem sr645 v3 1u amd epyc rack server",
+   "specs": {
+    "rackUnits": 1,
+    "cpu": "1-2 x AMD EPYC 9005/9004 (up to 160 cores each)",
+    "socketCount": 2,
+    "maxMemoryTb": 6,
+    "ecc": true,
+    "driveBays": 12,
+    "gpus": "Up to 5 x single-wide",
+    "network": "OCP 3.0 (PCIe 5.0 x16), 1/10/25 GbE options",
+    "psu": "2 x hot-swap 500-1800 W, Platinum or Titanium"
+   },
+   "collections": [
+    "enterprise-servers",
+    "enterprise-lab"
+   ],
+   "warranty": 36,
+   "notes": "Lenovo sells ThinkSystem servers configure-to-order; no list price could be read (lenovo.com blocked automated access), so the price is a TrustKart estimate for an entry configuration.",
+   "sources": {
+    "product": "https://lenovopress.lenovo.com/lp1607-thinksystem-sr645-v3-server",
+    "specs": "https://lenovopress.lenovo.com/lp1607-thinksystem-sr645-v3-server#technical-specifications",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://lenovopress.lenovo.com/assets/images/LP1607/ThinkSystem-SR645-V3.jpg",
+    "page": "https://lenovopress.lenovo.com/lp1607-thinksystem-sr645-v3-server",
+    "sourceType": "manufacturer-media-library",
+    "rights": "Official Lenovo product image published in the Lenovo Press product guide (lenovopress.lenovo.com); Lenovo has not granted a general reuse license - rights not verified.",
+    "credit": "Lenovo",
+    "alt": "Lenovo ThinkSystem SR645 V3 1U AMD EPYC rack server, front angled view",
+    "match": "EXACT"
+   }
+  },
+  {
+   "sku": "TK-LENOVO-SR635V3",
+   "slug": "lenovo-thinksystem-sr635-v3",
+   "name": "Lenovo ThinkSystem SR635 V3",
+   "brand": "Lenovo",
+   "category": "rack-servers",
+   "price": "6999.00",
+   "priceBasis": "estimate",
+   "summary": "1U single-socket AMD EPYC 9005/9004 rack server with 12 DDR5 DIMMs (up to 3 TB) and up to 12 x 2.5-inch bays.",
+   "description": "The ThinkSystem SR635 V3 is a 1U 1-socket server for one AMD EPYC 9005 or 9004 processor (up to 160 cores, 400 W). It has 12 DDR5 DIMM slots (up to 3 TB), up to 12 x 2.5-inch or 16 x E1.S bays, up to five single-wide GPUs, a PCIe 5.0 OCP 3.0 slot and 750-1800 W redundant power, with a 3-year warranty.",
+   "keywords": "lenovo thinksystem sr635 v3 1u single socket amd epyc",
+   "specs": {
+    "rackUnits": 1,
+    "cpu": "1 x AMD EPYC 9005/9004 (up to 160 cores)",
+    "socketCount": 1,
+    "maxMemoryTb": 3,
+    "ecc": true,
+    "driveBays": 12,
+    "gpus": "Up to 5 x single-wide",
+    "network": "OCP 3.0 (PCIe 5.0 x16), 1/10/25 GbE options",
+    "psu": "2 x hot-swap 750 / 1100 / 1800 W, Platinum or Titanium"
+   },
+   "collections": [
+    "enterprise-servers",
+    "enterprise-lab"
+   ],
+   "warranty": 36,
+   "notes": "Lenovo sells ThinkSystem servers configure-to-order; no list price could be read (lenovo.com blocked automated access), so the price is a TrustKart estimate for an entry configuration.",
+   "sources": {
+    "product": "https://lenovopress.lenovo.com/lp1609-thinksystem-sr635-v3-server",
+    "specs": "https://lenovopress.lenovo.com/lp1609-thinksystem-sr635-v3-server#technical-specifications",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://lenovopress.lenovo.com/assets/images/LP1609/ThinkSystem-SR635-V3.jpg",
+    "page": "https://lenovopress.lenovo.com/lp1609-thinksystem-sr635-v3-server",
+    "sourceType": "manufacturer-media-library",
+    "rights": "Official Lenovo product image published in the Lenovo Press product guide (lenovopress.lenovo.com); Lenovo has not granted a general reuse license - rights not verified.",
+    "credit": "Lenovo",
+    "alt": "Lenovo ThinkSystem SR635 V3 1U single-socket AMD EPYC rack server, front angled view",
+    "match": "EXACT"
+   }
+  },
+  {
+   "sku": "TK-LENOVO-SR655V3",
+   "slug": "lenovo-thinksystem-sr655-v3",
+   "name": "Lenovo ThinkSystem SR655 V3",
+   "brand": "Lenovo",
+   "category": "rack-servers",
+   "price": "7999.00",
+   "priceBasis": "estimate",
+   "summary": "2U single-socket AMD EPYC 9005/9004 rack server with up to 3 TB DDR5 and up to 40 x 2.5-inch or 20 x 3.5-inch bays.",
+   "description": "The ThinkSystem SR655 V3 is a 2U 1-socket server for one AMD EPYC 9005 or 9004 processor (up to 160 cores). It has 12 DDR5 DIMM slots for up to 3 TB, up to 40 x 2.5-inch or 20 x 3.5-inch front, mid and rear bays for storage-heavy builds, an OCP 3.0 slot and 750-2600 W redundant power options.",
+   "keywords": "lenovo thinksystem sr655 v3 2u single socket amd epyc storage server",
+   "specs": {
+    "rackUnits": 2,
+    "cpu": "1 x AMD EPYC 9005/9004 (up to 160 cores)",
+    "socketCount": 1,
+    "maxMemoryTb": 3,
+    "ecc": true,
+    "driveBays": 40,
+    "network": "OCP 3.0 (PCIe 4.0 x16), 1/10/25 GbE options",
+    "psu": "2 x hot-swap 750-2600 W, Platinum or Titanium"
+   },
+   "collections": [
+    "enterprise-servers",
+    "enterprise-lab"
+   ],
+   "warranty": 36,
+   "notes": "Lenovo sells ThinkSystem servers configure-to-order; no list price could be read (lenovo.com blocked automated access), so the price is a TrustKart estimate for an entry configuration.",
+   "sources": {
+    "product": "https://lenovopress.lenovo.com/lp1610-thinksystem-sr655-v3-server",
+    "specs": "https://lenovopress.lenovo.com/lp1610-thinksystem-sr655-v3-server#technical-specifications",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://lenovopress.lenovo.com/assets/images/LP1610/ThinkSystem-SR655-V3.jpg",
+    "page": "https://lenovopress.lenovo.com/lp1610-thinksystem-sr655-v3-server",
+    "sourceType": "manufacturer-media-library",
+    "rights": "Official Lenovo product image published in the Lenovo Press product guide (lenovopress.lenovo.com); Lenovo has not granted a general reuse license - rights not verified.",
+    "credit": "Lenovo",
+    "alt": "Lenovo ThinkSystem SR655 V3 2U single-socket AMD EPYC rack server, front angled view",
+    "match": "EXACT"
+   }
+  },
+  {
+   "sku": "TK-LENOVO-SR250V3",
+   "slug": "lenovo-thinksystem-sr250-v3",
+   "name": "Lenovo ThinkSystem SR250 V3",
+   "brand": "Lenovo",
+   "category": "rack-servers",
+   "price": "2499.00",
+   "priceBasis": "estimate",
+   "summary": "Entry 1U single-socket Xeon 6300 / Xeon E-2400 rack server with up to 128 GB ECC DDR5 and up to 10 x 2.5-inch bays.",
+   "description": "The ThinkSystem SR250 V3 is an entry 1U 1-socket server for small business and edge, taking an Intel Xeon 6300, Xeon E-2400 or Pentium G7400 processor. It has four DDR5 ECC UDIMM slots (up to 128 GB), 4 x 3.5-inch or up to 10 x 2.5-inch bays, two onboard 1GbE ports plus a dedicated XCC port, and a fixed 300 W or redundant 800 W power supplies.",
+   "keywords": "lenovo thinksystem sr250 v3 1u entry rack server xeon e small business homelab",
+   "specs": {
+    "rackUnits": 1,
+    "cpu": "1 x Intel Xeon 6300 / Xeon E-2400 (up to 8 cores) or Pentium G7400",
+    "socketCount": 1,
+    "maxMemoryTb": 0.128,
+    "ecc": true,
+    "driveBays": 10,
+    "network": "2 x 1GbE RJ-45 (Broadcom BCM5720) + 1GbE XCC management",
+    "psu": "Fixed 300 W Gold or 2 x hot-swap 800 W Platinum/Titanium"
+   },
+   "collections": [
+    "homelab-starter",
+    "small-business"
+   ],
+   "warranty": 36,
+   "notes": "Lenovo sells ThinkSystem servers configure-to-order; no list price could be read (lenovo.com blocked automated access), so the price is a TrustKart estimate for an entry configuration.",
+   "sources": {
+    "product": "https://lenovopress.lenovo.com/lp1802-thinksystem-sr250-v3-server",
+    "specs": "https://lenovopress.lenovo.com/lp1802-thinksystem-sr250-v3-server#technical-specifications",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://lenovopress.lenovo.com/assets/images/LP1802/SR250%20V3%20Cayuga%20front%20angled%20left%204x35.jpg",
+    "page": "https://lenovopress.lenovo.com/lp1802-thinksystem-sr250-v3-server",
+    "sourceType": "manufacturer-media-library",
+    "rights": "Official Lenovo product image published in the Lenovo Press product guide (lenovopress.lenovo.com); Lenovo has not granted a general reuse license - rights not verified.",
+    "credit": "Lenovo",
+    "alt": "Lenovo ThinkSystem SR250 V3 1U rack server with four 3.5-inch bays, front left angled view",
+    "match": "EXACT"
+   }
+  },
+  {
+   "sku": "TK-LENOVO-ST50V3",
+   "slug": "lenovo-thinksystem-st50-v3",
+   "name": "Lenovo ThinkSystem ST50 V3",
+   "brand": "Lenovo",
+   "category": "tower-servers",
+   "price": "1299.00",
+   "priceBasis": "estimate",
+   "summary": "Entry single-socket tower server with Xeon 6300 / Xeon E-2400 options, up to 128 GB ECC DDR5 and three 3.5-inch bays.",
+   "description": "The ThinkSystem ST50 V3 is Lenovo's entry tower server for small offices, taking one Intel Xeon 6300, Xeon E-2400 or Pentium G7400 processor. It has four DDR5 ECC UDIMM slots (up to 128 GB), three 3.5-inch and one 2.5-inch non-hot-swap SATA bays plus optional M.2, two 1GbE ports plus a dedicated XCC port, and a 300 W or 500 W power supply.",
+   "keywords": "lenovo thinksystem st50 v3 tower server small business xeon e",
+   "specs": {
+    "cpu": "1 x Intel Xeon 6300 / Xeon E-2400 (up to 8 cores) or Pentium G7400",
+    "socketCount": 1,
+    "ecc": true,
+    "driveBays": 4,
+    "network": "2 x 1GbE RJ-45 + 1GbE XCC management",
+    "psu": "Fixed 300 W Gold or 500 W Platinum"
+   },
+   "collections": [
+    "homelab-starter",
+    "small-business"
+   ],
+   "warranty": 36,
+   "notes": "Lenovo sells ThinkSystem servers configure-to-order; no list price could be read (lenovo.com blocked automated access), so the price is a TrustKart estimate for an entry configuration.",
+   "sources": {
+    "product": "https://lenovopress.lenovo.com/lp1907-thinksystem-st50-v3-server",
+    "specs": "https://lenovopress.lenovo.com/lp1907-thinksystem-st50-v3-server#technical-specifications",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://lenovopress.lenovo.com/assets/images/LP1907/ST50%20V3%20Owasco%20front%20angled%20right.jpg",
+    "page": "https://lenovopress.lenovo.com/lp1907-thinksystem-st50-v3-server",
+    "sourceType": "manufacturer-media-library",
+    "rights": "Official Lenovo product image published in the Lenovo Press product guide (lenovopress.lenovo.com); Lenovo has not granted a general reuse license - rights not verified.",
+    "credit": "Lenovo",
+    "alt": "Lenovo ThinkSystem ST50 V3 tower server, front right angled view",
+    "match": "EXACT"
+   }
+  },
+  {
+   "sku": "TK-LENOVO-ST250V3",
+   "slug": "lenovo-thinksystem-st250-v3",
+   "name": "Lenovo ThinkSystem ST250 V3",
+   "brand": "Lenovo",
+   "category": "tower-servers",
+   "price": "2299.00",
+   "priceBasis": "estimate",
+   "summary": "Single-socket tower server with Xeon 6300 / Xeon E-2400 options, up to 128 GB ECC DDR5 and up to 8 x 3.5-inch or 16 x 2.5-inch bays.",
+   "description": "The ThinkSystem ST250 V3 is a 1-socket tower (rack-convertible) server for Intel Xeon 6300, Xeon E-2400 or Pentium G7400 processors. It supports four DDR5 ECC UDIMMs (up to 128 GB), up to 8 x 3.5-inch or 16 x 2.5-inch hot-swap SAS/SATA bays, two 1GbE ports plus dedicated XCC management, and fixed or redundant 800 W power options.",
+   "keywords": "lenovo thinksystem st250 v3 tower server hot swap small business",
+   "specs": {
+    "cpu": "1 x Intel Xeon 6300 / Xeon E-2400 (up to 8 cores) or Pentium G7400",
+    "socketCount": 1,
+    "ecc": true,
+    "driveBays": 8,
+    "network": "2 x 1GbE RJ-45 + 1GbE XCC management",
+    "psu": "Fixed 300 W / 500 W or 2 x hot-swap 800 W Platinum"
+   },
+   "collections": [
+    "homelab-essentials",
+    "small-business"
+   ],
+   "warranty": 36,
+   "notes": "Lenovo sells ThinkSystem servers configure-to-order; no list price could be read (lenovo.com blocked automated access), so the price is a TrustKart estimate for an entry configuration.",
+   "sources": {
+    "product": "https://lenovopress.lenovo.com/lp1803-thinksystem-st250-v3-server",
+    "specs": "https://lenovopress.lenovo.com/lp1803-thinksystem-st250-v3-server#technical-specifications",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://lenovopress.lenovo.com/assets/images/LP1803/ST250%20V3%20front%20angled%20right%208x35%20HS.jpg",
+    "page": "https://lenovopress.lenovo.com/lp1803-thinksystem-st250-v3-server",
+    "sourceType": "manufacturer-media-library",
+    "rights": "Official Lenovo product image published in the Lenovo Press product guide (lenovopress.lenovo.com); Lenovo has not granted a general reuse license - rights not verified.",
+    "credit": "Lenovo",
+    "alt": "Lenovo ThinkSystem ST250 V3 tower server with eight 3.5-inch hot-swap bays, front right angled view",
+    "match": "EXACT"
+   }
+  },
+  {
+   "sku": "TK-LENOVO-ST650V3",
+   "slug": "lenovo-thinksystem-st650-v3",
+   "name": "Lenovo ThinkSystem ST650 V3",
+   "brand": "Lenovo",
+   "category": "tower-servers",
+   "price": "6999.00",
+   "priceBasis": "estimate",
+   "summary": "Two-socket 4U tower/rack server with 4th/5th Gen Xeon Scalable, up to 4 TB DDR5, up to 32 x 2.5-inch bays and dual 10GBASE-T.",
+   "description": "The ThinkSystem ST650 V3 is a 2-socket tower server that converts to 4U rack, for one or two 5th or 4th Gen Intel Xeon Scalable processors (up to 32 cores). It has 32 DDR5 DIMM slots (up to 4 TB), up to 32 x 2.5-inch or 16 x 3.5-inch hot-swap bays, two onboard 10GBASE-T ports, support for up to four double-wide GPUs and 750-2600 W redundant power.",
+   "keywords": "lenovo thinksystem st650 v3 tower server dual xeon gpu",
+   "specs": {
+    "cpu": "1-2 x 5th/4th Gen Intel Xeon Scalable (up to 32 cores each)",
+    "socketCount": 2,
+    "ecc": true,
+    "driveBays": 32,
+    "network": "2 x 10GBASE-T RJ-45 (Broadcom BCM57416) + 1GbE XCC management",
+    "psu": "2 x hot-swap 750-2600 W, Platinum or Titanium"
+   },
+   "collections": [
+    "enterprise-servers",
+    "small-business"
+   ],
+   "warranty": 36,
+   "notes": "Lenovo sells ThinkSystem servers configure-to-order; no list price could be read (lenovo.com blocked automated access), so the price is a TrustKart estimate for an entry configuration.",
+   "sources": {
+    "product": "https://lenovopress.lenovo.com/lp1604-thinksystem-st650-v3-server",
+    "specs": "https://lenovopress.lenovo.com/lp1604-thinksystem-st650-v3-server#technical-specifications",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://lenovopress.lenovo.com/assets/images/LP1604/ST650%20V3%20Madrid%2032x25%20front%20angled%20left.jpg",
+    "page": "https://lenovopress.lenovo.com/lp1604-thinksystem-st650-v3-server",
+    "sourceType": "manufacturer-media-library",
+    "rights": "Official Lenovo product image published in the Lenovo Press product guide (lenovopress.lenovo.com); Lenovo has not granted a general reuse license - rights not verified.",
+    "credit": "Lenovo",
+    "alt": "Lenovo ThinkSystem ST650 V3 tower server with 32 x 2.5-inch bays, front left angled view",
+    "match": "EXACT"
+   }
+  }
+ ]
+}

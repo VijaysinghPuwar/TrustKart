@@ -197,6 +197,24 @@ public class Product {
         return Map.copyOf(specs);
     }
 
+    /** Hides the product from the storefront (DRAFT) without deleting it. Returns whether anything changed. */
+    public boolean park() {
+        if (status == ProductStatus.DRAFT) {
+            return false;
+        }
+        this.status = ProductStatus.DRAFT;
+        return true;
+    }
+
+    /** Returns a parked product to sale once it is back in the catalog seed. */
+    public boolean unpark() {
+        if (status != ProductStatus.DRAFT) {
+            return false;
+        }
+        this.status = ProductStatus.ACTIVE;
+        return true;
+    }
+
     public List<ProductOptions.Group> getOptions() {
         return ProductOptions.fromJson(options);
     }

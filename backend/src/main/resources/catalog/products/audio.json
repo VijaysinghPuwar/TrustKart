@@ -617,35 +617,6 @@
    ]
   },
   {
-   "sku": "TK-SONOS-ACE-ULTRA",
-   "slug": "sonos-ace-ultra",
-   "name": "Sonos Ace Ultra",
-   "brand": "Sonos",
-   "category": "headphones",
-   "price": "449.00",
-   "compareAt": null,
-   "warranty": 12,
-   "stock": [
-    52,
-    5
-   ],
-   "featured": true,
-   "backorder": false,
-   "discontinued": false,
-   "collections": [],
-   "summary": "Sonos' newest premium over-ear headphones with a Sonos-designed 40 mm driver, 10-mic adaptive ANC, up to 35 hours with ANC and direct Sonos system linking.",
-   "description": "Sonos Ace Ultra is built around a new Sonos-designed 40 mm driver and next-generation Adaptive ANC powered by ten microphones, with up to 35 hours of battery life with ANC on. It is the first headphone on Headphone Engine 2, which links it directly to a Sonos system so a single press moves sound from speakers to headphones. It also connects over USB-C and 3.5 mm.",
-   "keywords": "sonos ace ultra headphones anc over-ear 2026",
-   "specs": {
-    "connectivity": "Bluetooth",
-    "noiseCancelling": true,
-    "batteryHours": 35,
-    "drivers": "40 mm Sonos-designed dynamic drivers",
-    "connectionDetails": "Bluetooth, USB-C audio, 3.5 mm, Sonos system linking"
-   },
-   "options": []
-  },
-  {
    "sku": "TK-SONOS-ARC-ULTRA",
    "slug": "sonos-arc-ultra",
    "name": "Sonos Arc Ultra",
@@ -976,36 +947,6 @@
     "resolution": "24-bit/192 kHz",
     "weightG": 3304,
     "connectionDetails": "USB-C (USB 2.0); ADAT, S/PDIF and MIDI I/O",
-    "colors": "Black"
-   },
-   "options": []
-  },
-  {
-   "sku": "TK-SHURE-SM7DB",
-   "slug": "shure-sm7db",
-   "name": "Shure SM7dB",
-   "brand": "Shure",
-   "category": "microphones",
-   "price": "549.00",
-   "compareAt": null,
-   "warranty": 12,
-   "stock": [
-    29,
-    5
-   ],
-   "featured": false,
-   "backorder": false,
-   "discontinued": false,
-   "collections": [
-    "creator-workstations"
-   ],
-   "summary": "Dynamic cardioid vocal microphone based on the SM7B with a built-in, switchable +18/+28 dB preamp powered by phantom power.",
-   "description": "SM7dB is Shure's dynamic vocal microphone with a built-in preamp offering +18 dB or +28 dB of extra gain, or bypass. It keeps the classic cardioid pattern and 50 Hz to 20 kHz response, adds internal shock isolation plus bass roll-off and presence boost controls, and needs +48 V phantom power to run the preamp.",
-   "keywords": "sm7db shure dynamic microphone podcast broadcast built-in preamp xlr",
-   "specs": {
-    "connection": "XLR (+48 V phantom power for the built-in preamp)",
-    "micType": "Dynamic with built-in active preamp",
-    "polarPattern": "Cardioid",
     "colors": "Black"
    },
    "options": []
