@@ -1,77 +1,78 @@
-# Catalog expansion: integration notes
+# Catalog expansion notes
 
-Written for whoever merges this branch alongside the main TrustKart work.
+Built on `trustkart-catalog-expansion` (worktree `apps/TrustKart-catalog`) alongside the main
+`trustkart-rebuild` work, and merged into `trustkart-rebuild` in several steps (latest `a7bb8f3`), which is
+pushed as PR #1.
 
-- **Branch / worktree:** `trustkart-catalog-expansion`, worktree `apps/TrustKart-catalog`, branched from `50bbee9`.
-  It was built in parallel with the uncommitted `trustkart-rebuild` work and never touched that checkout.
-- **Result:** 113 → **905** products (792 new), 88 new-catalog brands, 18 departments (7 new), 689 new product images.
-- **Tests:** full backend suite, 106 tests, 0 failures. The frontend build passes. The seed was checked visually against
-  an isolated stack: Postgres on :5443, Redis on :6390, API on :8090, Vite on :5183.
+## Result
 
-## What was added
-
-| Area | Files |
+| | |
 |---|---|
-| Researched source data (edit these) | `catalog-data/sources/*.json` (17 files, one per brand group) |
-| Build + validation pipeline | `scripts/catalog/build.py`, `catalog-data/README.md` |
-| Generated seed data (do not edit) | `backend/src/main/resources/catalog/products/*.json`, `catalog/images.json` |
-| Category/spec extensions | `backend/src/main/resources/catalog/categories.json` |
-| Images (generated) | `frontend/public/images/catalog/<slug>-{800,400}.webp` |
-| Provenance | `docs/CATALOG_SOURCES.md`, `docs/CATALOG_ASSET_SOURCES.md`, `catalog-data/product-image-sources.json` |
+| Storefront products | 113 → **1,192** (1,079 researched catalog products + the original 113) |
+| Brands (catalog) | 106 |
+| Departments | 11 → **18** (Phones, Watches & Wearables, Audio, TVs, Cameras & Drones, Gaming, Smart Home) |
+| Images | every visible product has an official manufacturer photo (1,079 catalog images); 0 "Image unavailable" |
+| Products with selectable options | 311 (storage, size, pack, configuration, color), with server-resolved prices |
+| Prices | 675 `msrp`, 208 `starting-at`, 196 `estimate` (quote-only enterprise gear or no published US price) |
+| Parked | 44 researched products with no obtainable official image, hidden (see below) |
+| Tests | 122 backend tests pass on the merged tree; `scripts/validate_images.py` 0 errors; `scripts/catalog/check_live.py` 0 problems on 5173 |
 
-`demo/categories.json`, `demo/products.json` and `demo/images.json` are **unchanged**, and so are the 113 existing
-products and their images.
+Largest departments: Networking 296, Laptops 106, Servers 102, PC Components 101, Peripherals 86, Storage 72.
 
-## Code changes outside data
+## How the catalog is built
 
-| File | Change | Conflict risk |
-|---|---|---|
-| `catalog/seed/DemoCatalogSeeder.java` | Loads `catalog/categories.json` (grafted onto the demo tree in memory), every `catalog/products/*.json` and `catalog/images.json`. Brands are looked up **by slug** (fixes a crash: `CORSAIR` vs `Corsair` collided on `brand_slug_key`). A product that already exists and has no image gets its seed image. Otherwise still insert-only. | **High.** The main checkout also has uncommitted edits to this file. Keep both sides' changes. |
-| `catalog/seed/SeedModel.java` | `CategoryExtensionFile`, `CategoryExtension`, `CategorySeed.extendedWith/withChildren` | Low |
-| `catalog/infra/BrandRepository.java` | `findBySlug` | Low |
-| `search/application/QueryInterpreter.java` | Search phrases for the new departments (phone, tv, earbuds, drone, console...), plus guards so "raid controller" and "nintendo switch" aren't misread as gaming controllers or network switches | Low |
-| `frontend/src/features/search/SearchPage.tsx` | Titles for the new collection tags | Low (main has not modified it) |
-| `CatalogApiIT`, `QueryInterpreterTest` | Assertions no longer pin demo-era counts. Adds a department-seeding test and phrase-collision tests. | Low |
+| Path | Role |
+|---|---|
+| `catalog-data/sources/*.json` | Researched records with provenance: official product/spec URL, price basis and date, image source and rights. Edit these. |
+| `catalog-data/pending/*.json` | Researched products parked until an official image exists |
+| `scripts/catalog/build.py` | Validates, normalizes facets, derives options, downloads and normalizes images, emits seed data and docs |
+| `scripts/catalog/park_imageless.py` | Moves imageless products to `pending/` |
+| `scripts/catalog/check_live.py` | End-to-end check against a running site: every product page, every image, no parked product visible |
+| `backend/src/main/resources/catalog/` | Generated seed files: `products/*.json`, `images.json`, `categories.json` (extensions), `parked.json` |
+| `frontend/public/images/catalog/` | Generated 800/400 px WebP images, plus `categories/` department tiles |
+| `docs/CATALOG_SOURCES.md`, `docs/CATALOG_ASSET_SOURCES.md`, `catalog-data/product-image-sources.json` | Provenance, generated |
 
-No migration. The schema is unchanged: variants are expressed as specs (below).
+Typical loop: edit sources, run `python3 scripts/catalog/build.py` (it must report 0 errors), restart the backend,
+then run `python3 scripts/catalog/check_live.py http://localhost:5173`.
 
-## Schema assumptions / things the main terminal should know
+## Behaviour worth knowing
 
-1. **No variant table.** Storage, colour and RAM options are rendered as the `configurations` spec
-   ("256 GB – $1,199 · 512 GB – $1,399") and the `colors` spec. The price shown is the base configuration. A real
-   `product_variant` table (plus product-page selector and cart line variant) is the natural follow-up, but it touches
-   the product page and cart, so it was left to the main terminal.
-2. **18 departments.** The header category bar overflows at 1440 px ("Watches & Wearables" is clipped). The header
-   belongs to the main terminal. Consider a "More" menu, or showing only the top N departments.
-3. **Image credit text.** In this branch's older `ProductPage.tsx`, manufacturer images show "via Wikimedia Commons".
-   Main's uncommitted `ProductPage.tsx` already branches on `sourceUrl`, so this is fixed on merge. Keep main's version.
-4. **Category tiles.** `features/home/categoryImages.json` has no entries for the 7 new departments, so their tiles
-   render without a photo.
-5. **Existing 113 products' images** are the main terminal's (renders/Commons). This branch provides an optional
-   hook, `catalog-data/demo-image-overrides/*.json`, for official photos of existing products. It is empty.
-6. **Prices:** 528 `msrp`, 184 `starting-at`, 80 `estimate`. Estimates are quote-only enterprise hardware, or brands
-   with no published US price. Every estimate is labelled in `docs/CATALOG_SOURCES.md`. None is presented as a live price.
-7. **Image rights.** New images are official manufacturer store or press images. Their `rights` field says
-   "not verified". None is claimed as licensed. Review before any public or commercial deployment.
+- **Seeding** (`DemoCatalogSeeder`):
+  - Insert-only by SKU.
+  - On restart, existing catalog products pick up new images and options.
+  - SKUs in `catalog/parked.json` are set to DRAFT, which hides them from search, product pages and counts.
+  - A parked product returns once it's back in the seeds.
+  - Brands are looked up by slug, which fixed a crash from brand names differing only in case (`CORSAIR`/`Corsair`).
+- **Options** (V9 `product.options`):
+  - At most one priced group per product, and its default equals `product.price`.
+  - `CatalogService.resolveOptions()` is the only source of option prices.
+  - The cart/checkout side (V10) is the main terminal's.
+- **Facets:** filterable text specs (resolution, panel, socket, OS, Wi-Fi, layout, platform, mount, printer technology, audio connectivity) are normalized at build time to the demo catalog's formats. The original wording is kept in a detail spec.
+- **Images:**
+  - Official manufacturer sources only, never retailer or reseller CDNs.
+  - Flattened onto white, trimmed and centered.
+  - Two flagged exceptions, set per image after a visual check:
+    - `allowLowRes`: the maker publishes nothing ≥480 px (Razer's 500 px studio PNGs).
+    - `darkBackground`: official dark studio renders (NVIDIA RTX PRO / DGX).
+  - The download retries once as `curl` when a CDN rejects browser-like agents (cisco.com, i.dell.com, supermicro.com). No other protection is worked around.
+- **Rights:** manufacturer images are recorded as "rights not verified" and never claimed as licensed. Review before any public or commercial deployment.
 
-## Integration steps
+## Parked (44) — why
 
-1. Merge `trustkart-catalog-expansion` after main commits its work. Resolve `DemoCatalogSeeder.java` by keeping main's
-   changes plus: the `withExtensions` / `catalogProducts` / `backfillImage` methods, the catalog reads in `seed()`, and
-   brand lookup by slug.
-2. `python3 scripts/catalog/build.py`. It must print `0 errors`.
-3. `./mvnw verify` (all 106 tests).
-4. Restart with seeding enabled. Existing databases just gain the new categories and products.
+- **Sites block all automated access:** Cisco, APC/Schneider, HPE.
+- **No clean single-product official image:**
+  - Valve Steam Machine, Controller and Frame (beige scenes)
+  - Hisense UR9 and U7, Sony BRAVIA 7 II (text on screen art)
+  - Meta Quest 3S (expiring signed URLs)
+  - FortiGate 90G, Micron and Solidigm enterprise SSDs, several Intel NICs, Xeon 698X, Gaudi 3 PCIe
+  - a few Sysracks, Toshiba and KIOXIA drives, MSI/Acer desktops, Sonos Ace Ultra, Shure SM7dB
+- Full list: `catalog-data/pending/`.
 
-## Known gaps (next session)
+## Known gaps / next steps
 
-- **Lenovo:** no source file. The agent hit the usage limit before writing it.
-- **Thin coverage:** components (20), security keys (Yubico researched, not added), Canon and Insta360 cameras,
-  Kingston, be quiet!, Fractal, Eaton/Tripp Lite, and HP (36 products; the agent was cut short).
-- **103 products without images:**
-  - All Razer items (only 500 px studio assets exist).
-  - Supermicro, APC and Cisco (their sites block scripted downloads).
-  - About half of NVIDIA/AMD/Intel.
-  - Several TVs (screen art on tinted backgrounds).
-  - Full list in `docs/CATALOG_ASSET_SOURCES.md`.
-- `catalog-data/build/report.json` has per-brand and per-category counts after each build.
+- **Brands still thin or missing:**
+  - Kingston, be quiet!, Fractal and ASRock (blocked or no US pricing)
+  - Juniper, HPE Aruba, Arista and Gigabyte servers (blocked)
+  - Canon and Insta360 cameras, Tripp Lite / Eaton, Monoprice
+- **Lenovo:** covered by the networking batches (ThinkSystem servers, ThinkCentre Tiny), but it still has no consumer-laptop source file.
+- **Web search:** research agents share a 200-web-search budget per session.
