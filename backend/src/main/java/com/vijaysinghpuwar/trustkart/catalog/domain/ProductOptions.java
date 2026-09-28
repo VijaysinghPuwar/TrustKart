@@ -16,7 +16,15 @@ import java.util.Set;
  */
 public final class ProductOptions {
 
-    public record Value(String label, BigDecimal price, boolean isDefault) {}
+    /** Photo of this choice (e.g. the product in this colour); served paths under /images/catalog. */
+    public record Image(String small, String large, int width, int height, String alt) {}
+
+    public record Value(String label, BigDecimal price, boolean isDefault, Image image) {
+
+        public Value(String label, BigDecimal price, boolean isDefault) {
+            this(label, price, isDefault, null);
+        }
+    }
 
     public record Group(String name, List<Value> values) {
 
@@ -48,13 +56,22 @@ public final class ProductOptions {
                     if (o instanceof Map<?, ?> v) {
                         Object price = v.get("price");
                         values.add(new Value(String.valueOf(v.get("label")),
-                                price == null ? null : new BigDecimal(price.toString()), Boolean.TRUE.equals(v.get("default"))));
+                                price == null ? null : new BigDecimal(price.toString()), Boolean.TRUE.equals(v.get("default")),
+                                image(v.get("image"))));
                     }
                 }
             }
             groups.add(new Group(String.valueOf(g.get("name")), List.copyOf(values)));
         }
         return List.copyOf(groups);
+    }
+
+    private static Image image(Object raw) {
+        if (!(raw instanceof Map<?, ?> m) || m.get("small") == null || m.get("large") == null) {
+            return null;
+        }
+        return new Image(String.valueOf(m.get("small")), String.valueOf(m.get("large")),
+                ((Number) m.get("width")).intValue(), ((Number) m.get("height")).intValue(), String.valueOf(m.get("alt")));
     }
 
     public static List<Map<String, Object>> toJson(List<Group> groups) {
@@ -69,6 +86,15 @@ public final class ProductOptions {
                 }
                 if (v.isDefault()) {
                     m.put("default", true);
+                }
+                if (v.image() != null) {
+                    Map<String, Object> img = new LinkedHashMap<>();
+                    img.put("small", v.image().small());
+                    img.put("large", v.image().large());
+                    img.put("width", v.image().width());
+                    img.put("height", v.image().height());
+                    img.put("alt", v.image().alt());
+                    m.put("image", img);
                 }
                 values.add(m);
             }
@@ -98,6 +124,10 @@ public final class ProductOptions {
                 }
                 if (v.price() != null && v.price().signum() <= 0) {
                     throw new IllegalArgumentException("option prices must be positive");
+                }
+                if (v.image() != null && (!v.image().small().startsWith("/images/") || !v.image().large().startsWith("/images/")
+                        || v.image().width() <= 0 || v.image().height() <= 0 || v.image().alt().isBlank())) {
+                    throw new IllegalArgumentException("option images must be local /images/ paths with size and alt text");
                 }
             }
             if (g.values().stream().filter(Value::isDefault).count() != 1) {

@@ -8,6 +8,7 @@ import com.vijaysinghpuwar.trustkart.catalog.application.CatalogViews.FacetsDto;
 import com.vijaysinghpuwar.trustkart.catalog.application.CatalogViews.HomeDto;
 import com.vijaysinghpuwar.trustkart.catalog.application.CatalogViews.ImageCreditDto;
 import com.vijaysinghpuwar.trustkart.catalog.application.CatalogViews.OptionGroupDto;
+import com.vijaysinghpuwar.trustkart.catalog.application.CatalogViews.OptionImageDto;
 import com.vijaysinghpuwar.trustkart.catalog.application.CatalogViews.OptionValueDto;
 import com.vijaysinghpuwar.trustkart.catalog.application.CatalogViews.PriceRangeDto;
 import com.vijaysinghpuwar.trustkart.catalog.application.CatalogViews.ProductCardDto;
@@ -180,7 +181,9 @@ public class CatalogService {
 
         List<OptionGroupDto> options = product.getOptions().stream()
                 .map(g -> new OptionGroupDto(g.name(), g.values().stream()
-                        .map(v -> new OptionValueDto(v.label(), v.price() == null ? null : MoneyWire.format(v.price()), v.isDefault()))
+                        .map(v -> new OptionValueDto(v.label(), v.price() == null ? null : MoneyWire.format(v.price()), v.isDefault(),
+                                v.image() == null ? null : new OptionImageDto(v.image().small(), v.image().large(),
+                                        v.image().width(), v.image().height(), v.image().alt())))
                         .toList()))
                 .toList();
         return new ProductDetailDto(CatalogMapper.card(summary), product.getDescription(), product.getWarrantyMonths(),

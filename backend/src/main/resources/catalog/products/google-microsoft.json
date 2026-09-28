@@ -60,16 +60,44 @@
      "values": [
       {
        "label": "Frost",
-       "default": true
+       "default": true,
+       "image": {
+        "small": "/images/catalog/google-pixel-11--frost-400.webp",
+        "large": "/images/catalog/google-pixel-11--frost-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Google Pixel 11 in Frost, rear view"
+       }
       },
       {
-       "label": "Hibiscus"
+       "label": "Hibiscus",
+       "image": {
+        "small": "/images/catalog/google-pixel-11--hibiscus-400.webp",
+        "large": "/images/catalog/google-pixel-11--hibiscus-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Google Pixel 11 in Hibiscus, rear view"
+       }
       },
       {
-       "label": "Pistachio"
+       "label": "Pistachio",
+       "image": {
+        "small": "/images/catalog/google-pixel-11--pistachio-400.webp",
+        "large": "/images/catalog/google-pixel-11--pistachio-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Google Pixel 11 in Pistachio, rear view"
+       }
       },
       {
-       "label": "Obsidian"
+       "label": "Obsidian",
+       "image": {
+        "small": "/images/catalog/google-pixel-11--obsidian-400.webp",
+        "large": "/images/catalog/google-pixel-11--obsidian-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Google Pixel 11 in Obsidian, rear view"
+       }
       }
      ]
     }
@@ -139,16 +167,44 @@
      "values": [
       {
        "label": "Canyon",
-       "default": true
+       "default": true,
+       "image": {
+        "small": "/images/catalog/google-pixel-11-pro--canyon-400.webp",
+        "large": "/images/catalog/google-pixel-11-pro--canyon-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Google Pixel 11 Pro in Canyon, rear view"
+       }
       },
       {
-       "label": "Olive"
+       "label": "Olive",
+       "image": {
+        "small": "/images/catalog/google-pixel-11-pro--olive-400.webp",
+        "large": "/images/catalog/google-pixel-11-pro--olive-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Google Pixel 11 Pro in Olive, rear view"
+       }
       },
       {
-       "label": "Fog"
+       "label": "Fog",
+       "image": {
+        "small": "/images/catalog/google-pixel-11-pro--fog-400.webp",
+        "large": "/images/catalog/google-pixel-11-pro--fog-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Google Pixel 11 Pro in Fog, rear view"
+       }
       },
       {
-       "label": "Obsidian (Matte)"
+       "label": "Obsidian (Matte)",
+       "image": {
+        "small": "/images/catalog/google-pixel-11-pro--obsidian-matte-400.webp",
+        "large": "/images/catalog/google-pixel-11-pro--obsidian-matte-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Google Pixel 11 Pro in Obsidian (Matte), rear view"
+       }
       }
      ]
     }
@@ -200,16 +256,44 @@
      "values": [
       {
        "label": "Canyon",
-       "default": true
+       "default": true,
+       "image": {
+        "small": "/images/catalog/google-pixel-11-pro-xl--canyon-400.webp",
+        "large": "/images/catalog/google-pixel-11-pro-xl--canyon-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Google Pixel 11 Pro XL in Canyon, rear view"
+       }
       },
       {
-       "label": "Olive"
+       "label": "Olive",
+       "image": {
+        "small": "/images/catalog/google-pixel-11-pro-xl--olive-400.webp",
+        "large": "/images/catalog/google-pixel-11-pro-xl--olive-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Google Pixel 11 Pro XL in Olive, rear view"
+       }
       },
       {
-       "label": "Fog"
+       "label": "Fog",
+       "image": {
+        "small": "/images/catalog/google-pixel-11-pro-xl--fog-400.webp",
+        "large": "/images/catalog/google-pixel-11-pro-xl--fog-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Google Pixel 11 Pro XL in Fog, rear view"
+       }
       },
       {
-       "label": "Obsidian (Matte)"
+       "label": "Obsidian (Matte)",
+       "image": {
+        "small": "/images/catalog/google-pixel-11-pro-xl--obsidian-matte-400.webp",
+        "large": "/images/catalog/google-pixel-11-pro-xl--obsidian-matte-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Google Pixel 11 Pro XL in Obsidian (Matte), rear view"
+       }
       }
      ]
     }
@@ -280,10 +364,24 @@
      "values": [
       {
        "label": "Olive",
-       "default": true
+       "default": true,
+       "image": {
+        "small": "/images/catalog/google-pixel-11-pro-fold--olive-400.webp",
+        "large": "/images/catalog/google-pixel-11-pro-fold--olive-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Google Pixel 11 Pro Fold in Olive, folded, rear view"
+       }
       },
       {
-       "label": "Obsidian"
+       "label": "Obsidian",
+       "image": {
+        "small": "/images/catalog/google-pixel-11-pro-fold--obsidian-400.webp",
+        "large": "/images/catalog/google-pixel-11-pro-fold--obsidian-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Google Pixel 11 Pro Fold in Obsidian, folded, rear view"
+       }
       }
      ]
     }
@@ -336,16 +434,44 @@
      "values": [
       {
        "label": "Lavender",
-       "default": true
+       "default": true,
+       "image": {
+        "small": "/images/catalog/google-pixel-10a--lavender-400.webp",
+        "large": "/images/catalog/google-pixel-10a--lavender-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Google Pixel 10a in Lavender, rear view"
+       }
       },
       {
-       "label": "Berry"
+       "label": "Berry",
+       "image": {
+        "small": "/images/catalog/google-pixel-10a--berry-400.webp",
+        "large": "/images/catalog/google-pixel-10a--berry-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Google Pixel 10a in Berry, rear view"
+       }
       },
       {
-       "label": "Fog"
+       "label": "Fog",
+       "image": {
+        "small": "/images/catalog/google-pixel-10a--fog-400.webp",
+        "large": "/images/catalog/google-pixel-10a--fog-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Google Pixel 10a in Fog, rear view"
+       }
       },
       {
-       "label": "Obsidian"
+       "label": "Obsidian",
+       "image": {
+        "small": "/images/catalog/google-pixel-10a--obsidian-400.webp",
+        "large": "/images/catalog/google-pixel-10a--obsidian-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Google Pixel 10a in Obsidian, rear view"
+       }
       }
      ]
     }
@@ -406,16 +532,44 @@
      "values": [
       {
        "label": "Polished Silver Aluminum / Fog",
-       "default": true
+       "default": true,
+       "image": {
+        "small": "/images/catalog/google-pixel-watch-5-41mm--polished-silver-aluminum-fog-400.webp",
+        "large": "/images/catalog/google-pixel-watch-5-41mm--polished-silver-aluminum-fog-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Google Pixel Watch 5 (41mm) in Polished Silver Aluminum / Fog, angled view with Active Band"
+       }
       },
       {
-       "label": "Champagne Gold Aluminum / Canyon"
+       "label": "Champagne Gold Aluminum / Canyon",
+       "image": {
+        "small": "/images/catalog/google-pixel-watch-5-41mm--champagne-gold-aluminum-canyon-400.webp",
+        "large": "/images/catalog/google-pixel-watch-5-41mm--champagne-gold-aluminum-canyon-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Google Pixel Watch 5 (41mm) in Champagne Gold Aluminum / Canyon, angled view with Active Band"
+       }
       },
       {
-       "label": "Satin Pyrite Aluminum / Olive"
+       "label": "Satin Pyrite Aluminum / Olive",
+       "image": {
+        "small": "/images/catalog/google-pixel-watch-5-41mm--satin-pyrite-aluminum-olive-400.webp",
+        "large": "/images/catalog/google-pixel-watch-5-41mm--satin-pyrite-aluminum-olive-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Google Pixel Watch 5 (41mm) in Satin Pyrite Aluminum / Olive, angled view with Active Band"
+       }
       },
       {
-       "label": "Matte Black Aluminum / Obsidian"
+       "label": "Matte Black Aluminum / Obsidian",
+       "image": {
+        "small": "/images/catalog/google-pixel-watch-5-41mm--matte-black-aluminum-obsidian-400.webp",
+        "large": "/images/catalog/google-pixel-watch-5-41mm--matte-black-aluminum-obsidian-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Google Pixel Watch 5 (41mm) in Matte Black Aluminum / Obsidian, angled view with Active Band"
+       }
       }
      ]
     }
@@ -454,7 +608,7 @@
     "battery": "465 mAh; up to 40 hours with AOD, up to 72 hours with Battery Saver",
     "weightG": 36.7,
     "configurations": "45mm Bluetooth/Wi-Fi – $429.99 · 45mm 4G LTE · 45mm Special Edition Stephen Curry (LTE) – $579.99",
-    "colors": "Polished Silver Aluminum / Fog, Champagne Gold Aluminum / Canyon, Satin Pyrite Aluminum / Olive, Matte Black Aluminum / Obsidian"
+    "colors": "Polished Silver Aluminum / Fog, Satin Pyrite Aluminum / Olive, Matte Black Aluminum / Obsidian"
    },
    "options": [
     {
@@ -476,16 +630,34 @@
      "values": [
       {
        "label": "Polished Silver Aluminum / Fog",
-       "default": true
+       "default": true,
+       "image": {
+        "small": "/images/catalog/google-pixel-watch-5-45mm--polished-silver-aluminum-fog-400.webp",
+        "large": "/images/catalog/google-pixel-watch-5-45mm--polished-silver-aluminum-fog-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Google Pixel Watch 5 (45mm) in Polished Silver Aluminum / Fog, angled view with Active Band"
+       }
       },
       {
-       "label": "Champagne Gold Aluminum / Canyon"
+       "label": "Satin Pyrite Aluminum / Olive",
+       "image": {
+        "small": "/images/catalog/google-pixel-watch-5-45mm--satin-pyrite-aluminum-olive-400.webp",
+        "large": "/images/catalog/google-pixel-watch-5-45mm--satin-pyrite-aluminum-olive-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Google Pixel Watch 5 (45mm) in Satin Pyrite Aluminum / Olive, angled view with Active Band"
+       }
       },
       {
-       "label": "Satin Pyrite Aluminum / Olive"
-      },
-      {
-       "label": "Matte Black Aluminum / Obsidian"
+       "label": "Matte Black Aluminum / Obsidian",
+       "image": {
+        "small": "/images/catalog/google-pixel-watch-5-45mm--matte-black-aluminum-obsidian-400.webp",
+        "large": "/images/catalog/google-pixel-watch-5-45mm--matte-black-aluminum-obsidian-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Google Pixel Watch 5 (45mm) in Matte Black Aluminum / Obsidian, angled view with Active Band"
+       }
       }
      ]
     }
@@ -529,16 +701,44 @@
      "values": [
       {
        "label": "Porcelain",
-       "default": true
+       "default": true,
+       "image": {
+        "small": "/images/catalog/google-pixel-buds-pro-2--porcelain-400.webp",
+        "large": "/images/catalog/google-pixel-buds-pro-2--porcelain-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Google Pixel Buds Pro 2 in Porcelain, earbuds in the open charging case"
+       }
       },
       {
-       "label": "Olive"
+       "label": "Olive",
+       "image": {
+        "small": "/images/catalog/google-pixel-buds-pro-2--olive-400.webp",
+        "large": "/images/catalog/google-pixel-buds-pro-2--olive-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Google Pixel Buds Pro 2 in Olive, earbuds in the open charging case"
+       }
       },
       {
-       "label": "Peony"
+       "label": "Peony",
+       "image": {
+        "small": "/images/catalog/google-pixel-buds-pro-2--peony-400.webp",
+        "large": "/images/catalog/google-pixel-buds-pro-2--peony-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Google Pixel Buds Pro 2 in Peony, earbuds in the open charging case"
+       }
       },
       {
-       "label": "Hazel"
+       "label": "Hazel",
+       "image": {
+        "small": "/images/catalog/google-pixel-buds-pro-2--hazel-400.webp",
+        "large": "/images/catalog/google-pixel-buds-pro-2--hazel-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Google Pixel Buds Pro 2 in Hazel, earbuds in the open charging case"
+       }
       }
      ]
     }
@@ -582,10 +782,24 @@
      "values": [
       {
        "label": "Fog",
-       "default": true
+       "default": true,
+       "image": {
+        "small": "/images/catalog/google-pixel-buds-2a--fog-400.webp",
+        "large": "/images/catalog/google-pixel-buds-2a--fog-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Google Pixel Buds 2a in Fog, earbuds in the open charging case"
+       }
       },
       {
-       "label": "Berry"
+       "label": "Berry",
+       "image": {
+        "small": "/images/catalog/google-pixel-buds-2a--berry-400.webp",
+        "large": "/images/catalog/google-pixel-buds-2a--berry-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Google Pixel Buds 2a in Berry, earbuds in the open charging case"
+       }
       },
       {
        "label": "Iris"
@@ -632,16 +846,44 @@
      "values": [
       {
        "label": "Berry",
-       "default": true
+       "default": true,
+       "image": {
+        "small": "/images/catalog/google-home-speaker--berry-400.webp",
+        "large": "/images/catalog/google-home-speaker--berry-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Google Home Speaker in Berry, front view"
+       }
       },
       {
-       "label": "Porcelain"
+       "label": "Porcelain",
+       "image": {
+        "small": "/images/catalog/google-home-speaker--porcelain-400.webp",
+        "large": "/images/catalog/google-home-speaker--porcelain-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Google Home Speaker in Porcelain, front view"
+       }
       },
       {
-       "label": "Hazel"
+       "label": "Hazel",
+       "image": {
+        "small": "/images/catalog/google-home-speaker--hazel-400.webp",
+        "large": "/images/catalog/google-home-speaker--hazel-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Google Home Speaker in Hazel, front view"
+       }
       },
       {
-       "label": "Jade"
+       "label": "Jade",
+       "image": {
+        "small": "/images/catalog/google-home-speaker--jade-400.webp",
+        "large": "/images/catalog/google-home-speaker--jade-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Google Home Speaker in Jade, front view"
+       }
       }
      ]
     }
@@ -684,16 +926,44 @@
      "values": [
       {
        "label": "Chalk",
-       "default": true
+       "default": true,
+       "image": {
+        "small": "/images/catalog/google-nest-hub-2nd-gen--chalk-400.webp",
+        "large": "/images/catalog/google-nest-hub-2nd-gen--chalk-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Google Nest Hub (2nd gen) in Chalk, rear view showing the fabric back"
+       }
       },
       {
-       "label": "Charcoal"
+       "label": "Charcoal",
+       "image": {
+        "small": "/images/catalog/google-nest-hub-2nd-gen--charcoal-400.webp",
+        "large": "/images/catalog/google-nest-hub-2nd-gen--charcoal-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Google Nest Hub (2nd gen) in Charcoal, rear view showing the fabric back"
+       }
       },
       {
-       "label": "Sand"
+       "label": "Sand",
+       "image": {
+        "small": "/images/catalog/google-nest-hub-2nd-gen--sand-400.webp",
+        "large": "/images/catalog/google-nest-hub-2nd-gen--sand-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Google Nest Hub (2nd gen) in Sand, rear view showing the fabric back"
+       }
       },
       {
-       "label": "Mist"
+       "label": "Mist",
+       "image": {
+        "small": "/images/catalog/google-nest-hub-2nd-gen--mist-400.webp",
+        "large": "/images/catalog/google-nest-hub-2nd-gen--mist-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Google Nest Hub (2nd gen) in Mist, rear view showing the fabric back"
+       }
       }
      ]
     }
@@ -800,13 +1070,34 @@
      "values": [
       {
        "label": "Snow",
-       "default": true
+       "default": true,
+       "image": {
+        "small": "/images/catalog/google-nest-cam-indoor-wired-3rd-gen--snow-400.webp",
+        "large": "/images/catalog/google-nest-cam-indoor-wired-3rd-gen--snow-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Google Nest Cam Indoor (wired, 3rd gen) in Snow, angled front view on its stand"
+       }
       },
       {
-       "label": "Hazel"
+       "label": "Hazel",
+       "image": {
+        "small": "/images/catalog/google-nest-cam-indoor-wired-3rd-gen--hazel-400.webp",
+        "large": "/images/catalog/google-nest-cam-indoor-wired-3rd-gen--hazel-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Google Nest Cam Indoor (wired, 3rd gen) in Hazel, angled front view on its stand"
+       }
       },
       {
-       "label": "Berry"
+       "label": "Berry",
+       "image": {
+        "small": "/images/catalog/google-nest-cam-indoor-wired-3rd-gen--berry-400.webp",
+        "large": "/images/catalog/google-nest-cam-indoor-wired-3rd-gen--berry-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Google Nest Cam Indoor (wired, 3rd gen) in Berry, angled front view on its stand"
+       }
       }
      ]
     }
@@ -849,10 +1140,24 @@
      "values": [
       {
        "label": "Snow",
-       "default": true
+       "default": true,
+       "image": {
+        "small": "/images/catalog/google-nest-cam-outdoor-wired-2nd-gen--snow-400.webp",
+        "large": "/images/catalog/google-nest-cam-outdoor-wired-2nd-gen--snow-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Google Nest Cam Outdoor (wired, 2nd gen) in Snow, angled view on its wall mount"
+       }
       },
       {
-       "label": "Hazel"
+       "label": "Hazel",
+       "image": {
+        "small": "/images/catalog/google-nest-cam-outdoor-wired-2nd-gen--hazel-400.webp",
+        "large": "/images/catalog/google-nest-cam-outdoor-wired-2nd-gen--hazel-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Google Nest Cam Outdoor (wired, 2nd gen) in Hazel, angled view on its wall mount"
+       }
       }
      ]
     }
@@ -945,13 +1250,34 @@
      "values": [
       {
        "label": "Snow",
-       "default": true
+       "default": true,
+       "image": {
+        "small": "/images/catalog/google-nest-doorbell-wired-3rd-gen--snow-400.webp",
+        "large": "/images/catalog/google-nest-doorbell-wired-3rd-gen--snow-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Google Nest Doorbell (wired, 3rd gen) in Snow, front view"
+       }
       },
       {
-       "label": "Hazel"
+       "label": "Hazel",
+       "image": {
+        "small": "/images/catalog/google-nest-doorbell-wired-3rd-gen--hazel-400.webp",
+        "large": "/images/catalog/google-nest-doorbell-wired-3rd-gen--hazel-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Google Nest Doorbell (wired, 3rd gen) in Hazel, front view"
+       }
       },
       {
-       "label": "Linen"
+       "label": "Linen",
+       "image": {
+        "small": "/images/catalog/google-nest-doorbell-wired-3rd-gen--linen-400.webp",
+        "large": "/images/catalog/google-nest-doorbell-wired-3rd-gen--linen-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Google Nest Doorbell (wired, 3rd gen) in Linen, front view"
+       }
       }
      ]
     }
@@ -994,13 +1320,34 @@
      "values": [
       {
        "label": "Polished Silver",
-       "default": true
+       "default": true,
+       "image": {
+        "small": "/images/catalog/google-nest-learning-thermostat-4th-gen--polished-silver-400.webp",
+        "large": "/images/catalog/google-nest-learning-thermostat-4th-gen--polished-silver-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Google Nest Learning Thermostat (4th gen) in Polished Silver, angled view with Nest Temperature Sensor"
+       }
       },
       {
-       "label": "Polished Obsidian"
+       "label": "Polished Obsidian",
+       "image": {
+        "small": "/images/catalog/google-nest-learning-thermostat-4th-gen--polished-obsidian-400.webp",
+        "large": "/images/catalog/google-nest-learning-thermostat-4th-gen--polished-obsidian-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Google Nest Learning Thermostat (4th gen) in Polished Obsidian, angled view with Nest Temperature Sensor"
+       }
       },
       {
-       "label": "Polished Gold"
+       "label": "Polished Gold",
+       "image": {
+        "small": "/images/catalog/google-nest-learning-thermostat-4th-gen--polished-gold-400.webp",
+        "large": "/images/catalog/google-nest-learning-thermostat-4th-gen--polished-gold-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Google Nest Learning Thermostat (4th gen) in Polished Gold, angled view with Nest Temperature Sensor"
+       }
       }
      ]
     }
@@ -1043,16 +1390,44 @@
      "values": [
       {
        "label": "Snow",
-       "default": true
+       "default": true,
+       "image": {
+        "small": "/images/catalog/google-nest-thermostat--snow-400.webp",
+        "large": "/images/catalog/google-nest-thermostat--snow-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Google Nest Thermostat in Snow, front view"
+       }
       },
       {
-       "label": "Sand"
+       "label": "Sand",
+       "image": {
+        "small": "/images/catalog/google-nest-thermostat--sand-400.webp",
+        "large": "/images/catalog/google-nest-thermostat--sand-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Google Nest Thermostat in Sand, front view"
+       }
       },
       {
-       "label": "Fog"
+       "label": "Fog",
+       "image": {
+        "small": "/images/catalog/google-nest-thermostat--fog-400.webp",
+        "large": "/images/catalog/google-nest-thermostat--fog-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Google Nest Thermostat in Fog, front view"
+       }
       },
       {
-       "label": "Charcoal"
+       "label": "Charcoal",
+       "image": {
+        "small": "/images/catalog/google-nest-thermostat--charcoal-400.webp",
+        "large": "/images/catalog/google-nest-thermostat--charcoal-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Google Nest Thermostat in Charcoal, front view"
+       }
       }
      ]
     }
