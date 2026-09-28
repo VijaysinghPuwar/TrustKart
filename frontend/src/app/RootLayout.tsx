@@ -5,7 +5,6 @@ import { CompareTray } from '@/components/commerce/CompareTray'
 import { SiteFooter } from '@/components/layout/SiteFooter'
 import { SiteHeader } from '@/components/layout/SiteHeader'
 import { SkipLink } from '@/components/layout/SkipLink'
-import { VirtualBar } from '@/components/layout/VirtualBar'
 import { PageSpinner } from '@/components/ui/PageSpinner'
 
 export function RootLayout() {
@@ -18,7 +17,6 @@ export function RootLayout() {
   return (
     <div className="flex min-h-dvh flex-col">
       <SkipLink />
-      <VirtualBar />
       <SiteHeader />
       <main
         id="main"

@@ -8,6 +8,7 @@ import { ApiError } from '@/lib/api'
 import { formatMoney } from '@/lib/money'
 import { usePlaceVirtualOrder } from '@/features/checkout/usePlaceVirtualOrder'
 import { WalletSummary } from '@/features/checkout/WalletSummary'
+import { ProcessingOverlay } from '@/features/checkout/ProcessingOverlay'
 import type { ProductCard } from '@/lib/types'
 
 /** Instant Virtual Buy always asks for confirmation, priced by the server, so one stray click never buys. */
@@ -27,12 +28,13 @@ export function InstantBuyDialog({
   const q = quote.data
   const error = place.error instanceof ApiError ? place.error : null
 
+  if (place.processing) return <ProcessingOverlay done={place.confirmed} />
   return (
     <Dialog
       open={open}
       onClose={onClose}
-      title="Confirm Instant Virtual Buy"
-      description="Paid from your TrustKart Wallet. No real money is used and nothing ships."
+      title="Confirm your order"
+      description="Paid with your TrustKart Wallet. Free delivery."
       footer={
         q && (
           <div className="flex flex-col gap-2">
@@ -48,11 +50,11 @@ export function InstantBuyDialog({
                 })
               }
             >
-              Place Virtual Order · {formatMoney(q.total)}
+              Place order · {formatMoney(q.total)}
             </Button>
             {q.shortfall && (
               <Link to="/wallet?add=1" className="text-center text-sm font-semibold" onClick={onClose}>
-                Add virtual funds
+                Add funds to wallet
               </Link>
             )}
           </div>
@@ -71,7 +73,8 @@ export function InstantBuyDialog({
           <WalletSummary quote={q} />
           {q.shortfall && (
             <p className="text-sm text-danger">
-              You need {formatMoney(q.shortfall)} more virtual funds, or switch to Unlimited mode.
+              Your wallet is {formatMoney(q.shortfall)} short for this order. Add funds or switch to Unlimited
+              mode.
             </p>
           )}
           {error && (

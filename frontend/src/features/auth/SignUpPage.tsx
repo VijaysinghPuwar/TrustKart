@@ -30,10 +30,7 @@ export default function SignUpPage() {
 
   return (
     <div className="py-8">
-      <AuthCard
-        title="Create your account"
-        subtitle="No payment details, ever. Just an email and a strong password."
-      >
+      <AuthCard title="Create your account" subtitle="Shop faster and keep your collection on every device.">
         <GoogleButton label="Sign up with Google" />
         <form onSubmit={submit} className="flex flex-col gap-4" noValidate>
           <Field

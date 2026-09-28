@@ -28,9 +28,7 @@ export default function AddressesPage() {
       <div className="flex flex-wrap items-end gap-3">
         <div className="flex-1">
           <h1 className="text-[28px] font-bold leading-9">Addresses</h1>
-          <p className="text-sm text-ink-muted">
-            Where your virtual orders “ship”. Nothing is ever delivered, so any address is fine.
-          </p>
+          <p className="text-sm text-ink-muted">Saved delivery addresses for faster checkout.</p>
         </div>
         {editing === null && list.length < 10 && (
           <Button variant="secondary" onClick={() => setEditing('new')}>

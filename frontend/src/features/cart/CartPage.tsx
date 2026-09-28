@@ -55,22 +55,22 @@ export default function CartPage() {
               </div>
               <div className="flex text-ink-muted">
                 <dt>Shipping</dt>
-                <dd className="ml-auto">$0.00 (nothing ships)</dd>
+                <dd className="ml-auto">Free</dd>
               </div>
               <div className="flex border-t border-border pt-2 text-base font-bold">
-                <dt>Virtual total</dt>
+                <dt>Total</dt>
                 <dd className="ml-auto">{formatMoney(subtotal)}</dd>
               </div>
               {wallet && (
                 <>
                   <div className="flex text-ink-muted">
-                    <dt>Virtual balance</dt>
+                    <dt>Wallet balance</dt>
                     <dd className="ml-auto">{unlimited ? '∞ Unlimited' : formatMoney(wallet.balance)}</dd>
                   </div>
                   {!unlimited && remaining && (
                     <div className="flex">
                       <dt className={short ? 'text-danger' : 'text-ink-muted'}>
-                        {short ? 'Virtual funds needed' : 'Remaining after purchase'}
+                        {short ? 'Wallet short by' : 'Remaining after purchase'}
                       </dt>
                       <dd className={short ? 'ml-auto font-semibold text-danger' : 'ml-auto font-semibold'}>
                         {formatMoney(remaining.replace('-', ''))}
@@ -86,19 +86,18 @@ export default function CartPage() {
               aria-disabled={blocked || undefined}
               className={blocked ? 'pointer-events-none opacity-50' : undefined}
             >
-              Proceed to Virtual Checkout
+              Proceed to checkout
             </ButtonLink>
             {blocked && (
               <p className="text-[13px] text-danger">Resolve the items marked above to continue.</p>
             )}
             {short && (
               <Link to="/wallet?add=1" className="text-center text-sm font-semibold">
-                Add virtual funds
+                Add funds to wallet
               </Link>
             )}
             <p className="text-center text-[13px] text-ink-muted">
-              Totals are recalculated by TrustKart at checkout. Simulation only: nothing is charged or
-              shipped.
+              Free delivery on every order. Final total confirmed at checkout.
             </p>
           </aside>
         </div>

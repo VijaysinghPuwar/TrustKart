@@ -8,6 +8,7 @@ import { Dialog } from '@/components/ui/Dialog'
 import { ErrorState } from '@/components/ui/ErrorState'
 import { PageSpinner } from '@/components/ui/PageSpinner'
 import { useToast } from '@/components/ui/Toast'
+import { useMe } from '@/data/account'
 import { usePurchase, useRefund } from '@/data/shopping'
 import { formatMoney } from '@/lib/money'
 import { usePageTitle } from '@/lib/usePageTitle'
@@ -19,6 +20,7 @@ export default function ReceiptPage() {
   const { id = '' } = useParams()
   const [params, setParams] = useSearchParams()
   const purchase = usePurchase(id)
+  const { data: me } = useMe()
   const refund = useRefund()
   const { notify } = useToast()
   const [confirmRefund, setConfirmRefund] = useState(false)
@@ -34,7 +36,7 @@ export default function ReceiptPage() {
     <div className="flex flex-col gap-5">
       <div className="flex flex-wrap items-center gap-3">
         <Link to="/account/purchases" className="text-sm">
-          ← All virtual purchases
+          ← All orders
         </Link>
         <Button variant="secondary" size="sm" className="ml-auto print:hidden" onClick={() => window.print()}>
           <Printer className="size-4" aria-hidden="true" />
@@ -44,7 +46,7 @@ export default function ReceiptPage() {
       <article className="flex flex-col gap-5 rounded-card border border-border bg-surface p-6">
         <header className="flex flex-wrap items-start gap-4">
           <div>
-            <p className="text-sm font-semibold text-ink-muted">TrustKart · Virtual purchase receipt</p>
+            <p className="text-sm font-semibold text-ink-muted">TrustKart · Order receipt</p>
             <h1 className="font-mono text-2xl font-bold">{p.orderNumber}</h1>
             <p className="text-sm text-ink-muted">
               {date.toLocaleDateString('en-US', { month: 'short', day: 'numeric', year: 'numeric' })} at{' '}
@@ -52,7 +54,7 @@ export default function ReceiptPage() {
             </p>
           </div>
           <Badge tone={p.status === 'COMPLETED' ? 'trust' : 'neutral'} className="ml-auto h-7 px-3 text-xs">
-            {p.status === 'COMPLETED' ? '✓ Completed · Added to collection' : 'Refunded'}
+            {p.status === 'COMPLETED' ? '✓ Order confirmed' : 'Cancelled · Refunded'}
           </Badge>
         </header>
         <table className="w-full text-sm">
@@ -94,25 +96,23 @@ export default function ReceiptPage() {
           <dd className="text-right">{formatMoney(p.subtotal)}</dd>
           <dt className="text-ink-muted">Shipping</dt>
           <dd className="text-right">{formatMoney(p.shipping)}</dd>
-          <dt className="font-bold">Virtual total</dt>
+          <dt className="font-bold">Total</dt>
           <dd className="text-right font-bold">{formatMoney(p.total)}</dd>
           <dt className="text-ink-muted">Paid with</dt>
-          <dd className="text-right">
-            TrustKart Wallet ({p.walletMode === 'UNLIMITED' ? 'Unlimited' : 'Budget'})
-          </dd>
+          <dd className="text-right">TrustKart Wallet</dd>
           {p.balanceBefore && (
             <>
-              <dt className="text-ink-muted">Virtual balance before</dt>
+              <dt className="text-ink-muted">Wallet balance before</dt>
               <dd className="text-right">{formatMoney(p.balanceBefore)}</dd>
             </>
           )}
           {p.balanceAfter && (
             <>
-              <dt className="text-ink-muted">Virtual balance after</dt>
+              <dt className="text-ink-muted">Wallet balance after</dt>
               <dd className="text-right">{formatMoney(p.balanceAfter)}</dd>
             </>
           )}
-          <dt className="text-ink-muted">Delivered to (simulation)</dt>
+          <dt className="text-ink-muted">Deliver to</dt>
           <dd className="text-right">
             {p.simulationAddress?.label ?? presetLabel(p.deliveryPreset)}
             {p.simulationAddress?.line1 && (
@@ -124,24 +124,25 @@ export default function ReceiptPage() {
           </dd>
         </dl>
         <footer className="border-t border-border pt-4 text-center text-xs text-ink-muted">
-          Simulation receipt. No financial transaction occurred and nothing was shipped.
+          Thank you for shopping with TrustKart. Questions about this order? See our{' '}
+          <a href="/about">store policy</a>.
         </footer>
       </article>
       {p.status === 'COMPLETED' && (
         <div className="print:hidden">
           <Button variant="secondary" onClick={() => setConfirmRefund(true)}>
-            Undo this virtual purchase
+            Cancel this order
           </Button>
         </div>
       )}
       <Dialog
         open={confirmRefund}
         onClose={() => setConfirmRefund(false)}
-        title="Undo this virtual purchase?"
+        title="Cancel this order?"
         description={
           p.walletMode === 'BUDGET'
-            ? `${formatMoney(p.total)} goes back to your virtual balance and the items leave your collection.`
-            : 'The items leave your collection. Unlimited-mode purchases didn’t use your balance.'
+            ? `${formatMoney(p.total)} goes back to your wallet and the items leave your collection.`
+            : 'The items leave your collection.'
         }
         footer={
           <div className="flex justify-end gap-2">
@@ -155,19 +156,20 @@ export default function ReceiptPage() {
                 refund.mutate(p.id, {
                   onSuccess: () => {
                     setConfirmRefund(false)
-                    notify('Virtual purchase refunded')
+                    notify('Order cancelled and refunded to your wallet')
                   },
                 })
               }
             >
-              Refund virtually
+              Cancel and refund
             </Button>
           </div>
         }
       >
-        <p className="text-sm text-ink-muted">No real money is involved either way.</p>
+        <p className="text-sm text-ink-muted">Refunds go straight back to your TrustKart Wallet.</p>
       </Dialog>
       <Celebration
+        name={me?.profile?.displayName}
         purchase={p}
         open={placed}
         onClose={() => {

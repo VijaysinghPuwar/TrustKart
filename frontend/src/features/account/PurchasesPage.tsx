@@ -10,7 +10,7 @@ import { usePageTitle } from '@/lib/usePageTitle'
 import { Pagination } from '@/features/search/Pagination'
 
 export default function PurchasesPage() {
-  usePageTitle('Virtual purchases')
+  usePageTitle('Your orders')
   const [page, setPage] = useState(0)
   const purchases = usePurchases(page)
   if (purchases.isPending) return <PageSpinner />
@@ -19,14 +19,12 @@ export default function PurchasesPage() {
   return (
     <div className="flex flex-col gap-4">
       <div>
-        <h1 className="text-[28px] font-bold leading-9">Virtual purchases</h1>
-        <p className="text-sm text-ink-muted">
-          Simulated orders paid with virtual funds. Nothing here was charged or shipped.
-        </p>
+        <h1 className="text-[28px] font-bold leading-9">Your orders</h1>
+        <p className="text-sm text-ink-muted">Orders paid with your TrustKart Wallet.</p>
       </div>
       {items.length === 0 ? (
         <div className="flex flex-col items-start gap-3 rounded-card border border-border bg-surface p-6">
-          <p className="font-semibold">No virtual purchases yet.</p>
+          <p className="font-semibold">No orders yet.</p>
           <ButtonLink to="/" variant="secondary">
             Find something you’d love
           </ButtonLink>
@@ -64,7 +62,7 @@ export default function PurchasesPage() {
                 </div>
                 <span className="font-bold tabular">{formatMoney(p.total)}</span>
                 <Badge tone={p.status === 'COMPLETED' ? 'trust' : 'neutral'}>
-                  {p.status === 'COMPLETED' ? '✓ Completed' : 'Refunded'}
+                  {p.status === 'COMPLETED' ? '✓ Confirmed' : 'Cancelled'}
                 </Badge>
               </Link>
             </li>

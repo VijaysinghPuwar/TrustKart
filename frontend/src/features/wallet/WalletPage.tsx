@@ -2,11 +2,10 @@ import { useState } from 'react'
 import { Link, useSearchParams } from 'react-router'
 import { Badge } from '@/components/ui/Badge'
 import { Button } from '@/components/ui/Button'
-import { Dialog } from '@/components/ui/Dialog'
 import { ErrorState } from '@/components/ui/ErrorState'
 import { PageSpinner } from '@/components/ui/PageSpinner'
 import { useToast } from '@/components/ui/Toast'
-import { useResetWallet, useSetWalletMode, useWallet, useWalletTransactions } from '@/data/shopping'
+import { useSetWalletMode, useWallet, useWalletTransactions } from '@/data/shopping'
 import { cn } from '@/lib/cn'
 import { formatMoney } from '@/lib/money'
 import { usePageTitle } from '@/lib/usePageTitle'
@@ -16,7 +15,7 @@ import { AddFundsDialog } from './AddFundsDialog'
 
 const TX_LABEL = {
   CREDIT: 'Added funds',
-  PURCHASE: 'Virtual purchase',
+  PURCHASE: 'Order',
   REFUND: 'Refund',
   RESET: 'Reset',
 } as const
@@ -28,9 +27,7 @@ export default function WalletPage() {
   const [page, setPage] = useState(0)
   const tx = useWalletTransactions(page)
   const setMode = useSetWalletMode()
-  const reset = useResetWallet()
   const { notify } = useToast()
-  const [confirmReset, setConfirmReset] = useState(false)
   const addOpen = params.get('add') === '1'
 
   if (wallet.isPending) return <PageSpinner />
@@ -50,30 +47,19 @@ export default function WalletPage() {
       <h1 className="text-[32px] font-bold leading-10">TrustKart Wallet</h1>
       <div className="grid gap-4 md:grid-cols-[minmax(0,3fr)_minmax(0,2fr)]">
         <section
-          aria-label="Virtual balance"
+          aria-label="Wallet balance"
           className="flex flex-col gap-4 rounded-tile bg-primary p-6 text-on-primary"
         >
           <div className="flex items-center gap-2">
-            <span className="text-sm font-semibold">Virtual balance</span>
-            <span className="rounded-badge bg-on-primary px-2 py-0.5 text-xs font-semibold text-primary-hover">
-              For simulation only
-            </span>
+            <span className="text-sm font-semibold">Wallet balance</span>
           </div>
           <p className="text-[clamp(32px,5vw,48px)] font-bold leading-none tabular">
             {unlimited ? '∞ Unlimited' : formatMoney(w.balance)}
           </p>
-          <p className="text-sm">Virtual funds. No real monetary value.</p>
+          <p className="text-sm">Use your balance for any order. Top up any time.</p>
           <div className="flex flex-wrap gap-2">
             <Button variant="inverse" size="lg" onClick={() => openAdd(true)}>
-              Add virtual funds
-            </Button>
-            <Button
-              variant="ghost"
-              size="lg"
-              className="text-on-primary hover:bg-white/15"
-              onClick={() => setConfirmReset(true)}
-            >
-              Reset wallet
+              Add funds
             </Button>
           </div>
         </section>
@@ -88,7 +74,7 @@ export default function WalletPage() {
             <legend className="sr-only">Shopping mode</legend>
             {(
               [
-                ['BUDGET', 'Budget mode', 'Purchases draw down your virtual balance. You can run out.'],
+                ['BUDGET', 'Budget mode', 'Orders are paid from your balance. Top up any time.'],
                 [
                   'UNLIMITED',
                   'Unlimited mode',
@@ -132,8 +118,7 @@ export default function WalletPage() {
         </h2>
         {!w.exists ? (
           <p className="rounded-card border border-border bg-surface p-5 text-sm text-ink-muted">
-            Your wallet starts with {formatMoney(w.startingBalance)} in virtual funds the first time you use
-            it.
+            Your wallet starts with {formatMoney(w.startingBalance)} the first time you use it.
           </p>
         ) : tx.data && tx.data.items.length > 0 ? (
           <div
@@ -212,35 +197,6 @@ export default function WalletPage() {
       </section>
 
       <AddFundsDialog open={addOpen} onClose={() => openAdd(false)} />
-      <Dialog
-        open={confirmReset}
-        onClose={() => setConfirmReset(false)}
-        title="Reset your wallet?"
-        description={`Your virtual balance goes back to ${formatMoney(w.startingBalance)}. Purchases and your collection stay as they are.`}
-        footer={
-          <div className="flex justify-end gap-2">
-            <Button variant="secondary" onClick={() => setConfirmReset(false)}>
-              Cancel
-            </Button>
-            <Button
-              variant="danger"
-              loading={reset.isPending}
-              onClick={() =>
-                reset.mutate(undefined, {
-                  onSuccess: () => {
-                    setConfirmReset(false)
-                    notify('Wallet reset')
-                  },
-                })
-              }
-            >
-              Reset wallet
-            </Button>
-          </div>
-        }
-      >
-        <p className="text-sm text-ink-muted">This only affects virtual funds.</p>
-      </Dialog>
     </div>
   )
 }

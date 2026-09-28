@@ -2,52 +2,52 @@ import { Link } from 'react-router'
 import { usePageTitle } from '@/lib/usePageTitle'
 import { Prose } from './Prose'
 
+/** Store Policy: the one place that explains, plainly, how TrustKart works. Linked from the footer and checkout. */
 export default function AboutPage() {
-  usePageTitle('How TrustKart works')
+  usePageTitle('Store policy')
   return (
-    <Prose
-      title="How TrustKart works"
-      lead="A realistic technology store where every purchase is virtual. Browse, dream, check out, collect. Spend nothing."
-    >
-      <h2>What’s real and what isn’t</h2>
+    <Prose title="Store policy" lead="How TrustKart works, in plain language.">
+      <h2>TrustKart is a virtual store</h2>
+      <p>
+        TrustKart is a portfolio project that recreates the complete experience of shopping for technology.
+        Browsing, carts, checkout, order confirmation and your collection all work like a real store, but
+        every purchase is virtual:
+      </p>
       <ul>
-        <li>The catalog describes real technology products with realistic prices and specifications.</li>
         <li>
-          TrustKart does not sell them. Nothing is charged, nothing ships, and no order reaches any
-          manufacturer or retailer.
+          No real money is ever charged, and TrustKart never asks for card numbers, bank details or billing
+          information.
         </li>
+        <li>Products are not sold or shipped. No order reaches any manufacturer, retailer or carrier.</li>
         <li>
           Brand and product names belong to their owners. TrustKart is not affiliated with, authorized by or
           endorsed by any of them.
         </li>
       </ul>
-      <h2>Your TrustKart Wallet</h2>
+      <h2>TrustKart Wallet</h2>
       <p>
-        Every shopper starts with $100,000.00 in virtual funds. You can add more at any time, from $1 to
-        $10,000,000 per top-up. Virtual funds have no monetary value and can’t be withdrawn, transferred or
-        exchanged.
+        Every shopper starts with a $100,000.00 wallet balance, and you can add more at any time, from $1 to
+        $10,000,000 per top-up. The balance is store credit for this demo only: it has no monetary value and
+        can’t be withdrawn, transferred or exchanged.
       </p>
       <ul>
         <li>
-          <strong>Budget mode</strong> works like a real balance: purchases draw it down and you can run out.
+          <strong>Budget mode</strong> works like a real balance: orders are paid from it and you can run out.
         </li>
         <li>
-          <strong>Unlimited mode</strong> lets you buy anything; your balance stays put.
+          <strong>Unlimited mode</strong> lets you buy anything without using your balance.
         </li>
       </ul>
-      <h2>No financial information, ever</h2>
+      <h2>Orders, delivery and cancellations</h2>
       <p>
-        TrustKart never asks for card numbers, bank details, billing addresses or any financial identity.
-        Checkout “delivery” is a preset such as Home or Dream setup, or a fictional place you name yourself.
+        Delivery is always free and addresses are used only to show on your order, so you can use any address
+        you like. You can cancel any order from its order page; the full amount returns to your wallet
+        immediately and the items leave <Link to="/collection">your collection</Link>.
       </p>
-      <h2>Your collection</h2>
+      <h2>Your data</h2>
       <p>
-        Everything you buy virtually joins <Link to="/collection">My collection</Link>, with its virtual value
-        and a few achievements. You can undo any purchase, which returns the virtual funds and removes the
-        items.
-      </p>
-      <p>
-        Curious how it’s built? Read <Link to="/about/project">about this project</Link>.
+        See the <Link to="/about/privacy">privacy notice</Link> for exactly what TrustKart stores. Curious how
+        it’s built? Read <Link to="/about/project">about this project</Link>.
       </p>
     </Prose>
   )

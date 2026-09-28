@@ -1,13 +1,13 @@
 import { Check } from 'lucide-react'
 
 const promises = [
-  'No real payments',
-  'No financial info required',
-  'Secure accounts',
-  'Virtual purchases only',
+  'Secure checkout',
+  'Free delivery on every order',
+  'Easy returns',
+  'Pay with TrustKart Wallet',
 ]
 
-/** The design's trust strip, restated as TrustKart's virtual-store promises. Green is kept for trust meaning. */
+/** The design's trust strip: TrustKart's store promises. Green is kept for trust meaning. */
 export function TrustStrip() {
   return (
     <section aria-label="Why shop with TrustKart">

@@ -29,7 +29,7 @@ const PRESETS: {
   {
     preset: 'COLLECTION',
     label: 'My collection',
-    hint: 'No address, just collect it',
+    hint: 'Add straight to your collection',
     icon: <Archive className="size-5" />,
   },
 ]
@@ -59,13 +59,8 @@ export function DeliveryStep({ value, onChange }: DeliveryStepProps) {
 
   return (
     <div className="flex flex-col gap-5">
-      <p className="rounded-control bg-surface-2 p-3 text-sm">
-        <strong>No physical product will be shipped.</strong> Choose where this order lives in the simulation.
-        Addresses can be fictional.
-      </p>
-
       <fieldset className="flex flex-col gap-2.5">
-        <legend className="mb-2 font-semibold">Ship to an address</legend>
+        <legend className="mb-2 font-semibold">Saved addresses</legend>
         {saved.map((a) => (
           <label key={a.id} className={card(value?.kind === 'saved' && value.address.id === a.id)}>
             <input
@@ -157,7 +152,7 @@ export function DeliveryStep({ value, onChange }: DeliveryStepProps) {
       </fieldset>
 
       <fieldset className="flex flex-col gap-2.5">
-        <legend className="mb-2 font-semibold">Or keep it virtual</legend>
+        <legend className="mb-2 font-semibold">Other delivery options</legend>
         <div className="grid gap-2.5 sm:grid-cols-3">
           {PRESETS.map((p) => (
             <label key={p.preset} className={card(value?.kind === 'preset' && value.preset === p.preset)}>
@@ -180,11 +175,11 @@ export function DeliveryStep({ value, onChange }: DeliveryStepProps) {
         </div>
         <div className="flex flex-wrap items-end gap-2">
           <Field
-            label="Or name a fictional place"
+            label="Or name another place"
             className="min-w-0 flex-1"
             maxLength={60}
             value={customLabel}
-            placeholder="Moon base"
+            placeholder="Studio, cabin, lab…"
             onChange={(e) => {
               setCustomLabel(e.target.value)
               if (e.target.value.trim())

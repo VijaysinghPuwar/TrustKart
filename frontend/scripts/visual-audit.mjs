@@ -2,13 +2,14 @@
 import { chromium } from '@playwright/test'
 import AxeBuilder from '@axe-core/playwright'
 
-const OUT = process.env.OUT ?? '/private/tmp/claude-501/-Users-vijay-macbookm5-Desktop-Projects-Random-git-apps-TrustKart/8e3e6042-f7be-464d-a7a3-8c8dd62036c3/scratchpad/shots'
+const OUT = process.env.OUT ?? 'visual-audit-output'
 const BASE = process.env.BASE ?? 'http://localhost:5173'
 const pages = (process.env.PAGES ?? '/').split(',')
 const widths = (process.env.WIDTHS ?? '1440').split(',').map(Number)
 const themes = (process.env.THEMES ?? 'light').split(',')
 const full = process.env.FULL !== '0'
 
+await import('node:fs').then((fs) => fs.mkdirSync(OUT, { recursive: true }))
 const browser = await chromium.launch()
 const summary = []
 for (const theme of themes) {

@@ -141,8 +141,6 @@ export const useAddFunds = () =>
     api<Wallet>('POST', '/wallet/credits', { body: { amount: v.amount }, idempotencyKey: v.key }),
   )
 
-export const useResetWallet = () => useWalletMutation(() => api<Wallet>('POST', '/wallet/reset'))
-
 export const useSetWalletMode = () =>
   useWalletMutation((mode: WalletMode) => api<Wallet>('PUT', '/wallet/mode', { body: { mode } }))
 

@@ -3,7 +3,7 @@ import { cn } from '@/lib/cn'
 
 const links = [
   ['/account', 'Overview', true],
-  ['/account/purchases', 'Virtual purchases', false],
+  ['/account/purchases', 'Orders', false],
   ['/wallet', 'TrustKart Wallet', false],
   ['/collection', 'My collection', false],
   ['/wishlist', 'Wishlists', false],

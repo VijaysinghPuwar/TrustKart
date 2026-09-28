@@ -68,9 +68,6 @@ export function AddressForm({
 
   return (
     <form onSubmit={submit} noValidate className="flex flex-col gap-4">
-      <p className="rounded-control bg-surface-2 p-3 text-[13px] text-ink-muted">
-        Nothing is ever shipped. Use any address you like; it can be completely made up.
-      </p>
       <div className="grid gap-3 sm:grid-cols-2">
         <Field
           label="Address name"

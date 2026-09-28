@@ -44,7 +44,7 @@ export default function AccountOverview() {
       <div className="grid gap-3 sm:grid-cols-3">
         <Summary
           to="/wallet"
-          label="Virtual balance"
+          label="Wallet balance"
           value={wallet ? (wallet.mode === 'UNLIMITED' ? '∞ Unlimited' : formatMoney(wallet.balance)) : '…'}
         />
         <Summary
@@ -54,7 +54,7 @@ export default function AccountOverview() {
         />
         <Summary
           to="/account/purchases"
-          label="Virtual purchases"
+          label="Orders"
           value={collection ? String(collection.stats.purchases) : '…'}
         />
       </div>

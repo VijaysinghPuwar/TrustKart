@@ -17,14 +17,14 @@ const columns = [
     links: [
       ['TrustKart Wallet', '/wallet'],
       ['My collection', '/collection'],
-      ['Virtual purchases', '/account/purchases'],
+      ['Your orders', '/account/purchases'],
       ['Wishlists', '/wishlist'],
     ],
   },
   {
     title: 'About',
     links: [
-      ['How TrustKart works', '/about'],
+      ['Store policy', '/about'],
       ['About this project', '/about/project'],
       ['Privacy', '/about/privacy'],
       ['Image credits', '/about/credits'],
@@ -48,11 +48,13 @@ export function SiteFooter() {
           </nav>
         ))}
         <div className="flex flex-col gap-2.5 text-sm sm:col-span-2">
-          <h2 className="font-semibold">A virtual shopping experience</h2>
+          <h2 className="font-semibold">TrustKart</h2>
           <p className="max-w-[420px] text-ink-muted">
-            TrustKart is a portfolio simulation. Browse real technology, build a dream cart and check out with
-            virtual funds. Products are not for sale, nothing is charged, and no financial information is ever
-            requested.
+            Premium technology, from phones and laptops to GPUs, servers and networking gear. Pay with your
+            TrustKart Wallet.{' '}
+            <a href="/about" className="text-ink-muted underline">
+              Store policy
+            </a>
           </p>
           <button
             type="button"

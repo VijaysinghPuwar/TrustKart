@@ -38,7 +38,7 @@ export function HomePage() {
           wallet && [
             {
               key: 'balance',
-              label: 'Virtual balance',
+              label: 'Wallet balance',
               meta: wallet.mode === 'UNLIMITED' ? '∞' : formatMoney(wallet.balance),
               to: '/wallet',
             },
@@ -49,7 +49,7 @@ export function HomePage() {
               to: '/wallet',
             },
             { key: 'cards', label: 'Payment details needed', meta: 'None', metaTone: 'trust', to: '/about' },
-            { key: 'ship', label: 'Real money spent', meta: '$0.00', metaTone: 'trust', to: '/about' },
+            { key: 'ship', label: 'Delivery', meta: 'Free', metaTone: 'trust', to: '/about' },
           ]
         }
       />

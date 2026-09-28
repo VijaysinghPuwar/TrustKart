@@ -57,16 +57,15 @@ export function AddFundsDialog({ open, onClose }: { open: boolean; onClose: () =
     <Dialog
       open={open}
       onClose={close}
-      title={added ? `${formatMoneyWhole(added.amount)} added` : 'Add virtual funds'}
+      title={added ? `${formatMoneyWhole(added.amount)} added` : 'Add funds'}
     >
       {added ? (
         <div className="flex flex-col items-center gap-3 py-2 text-center" role="status">
           <span className="tk-pop flex size-14 items-center justify-center rounded-full bg-trust text-white">
             <Check className="size-8" strokeWidth={3} aria-hidden="true" />
           </span>
-          <p className="text-ink-muted">Your virtual balance is now</p>
+          <p className="text-ink-muted">Your wallet balance is now</p>
           <p className="text-3xl font-bold tabular">{formatMoney(added.balance)}</p>
-          <p className="text-xs text-ink-muted">No real money was deposited.</p>
           <Button className="mt-2" onClick={close}>
             Done
           </Button>
@@ -101,14 +100,12 @@ export function AddFundsDialog({ open, onClose }: { open: boolean; onClose: () =
           </fieldset>
           {choice === 'custom' && (
             <Field
-              label="Custom amount (USD, virtual)"
+              label="Custom amount (USD)"
               inputMode="decimal"
               value={custom}
               onChange={(e) => setCustom(e.target.value)}
               placeholder="500000"
-              hint={
-                AMOUNT.test(amount) ? `+${formatMoney(amount)} virtual balance` : 'From $1 to $10,000,000'
-              }
+              hint={AMOUNT.test(amount) ? `+${formatMoney(amount)} to your wallet` : 'From $1 to $10,000,000'}
             />
           )}
           {error && (
@@ -120,7 +117,7 @@ export function AddFundsDialog({ open, onClose }: { open: boolean; onClose: () =
             Add to Wallet
           </Button>
           <p className="text-center text-xs text-ink-muted">
-            Virtual funds only. No bank, card or payment provider is involved.
+            Funds are added instantly. See our <a href="/about">store policy</a>.
           </p>
         </form>
       )}

@@ -136,7 +136,7 @@ export default function ProductPage() {
                   {justAdded === p.id ? 'Added ✓' : 'Add to cart'}
                 </Button>
                 <Button size="lg" className="flex-1" onClick={() => setInstantOpen(true)}>
-                  Instant Virtual Buy
+                  Buy now
                 </Button>
               </div>
             </div>
@@ -169,12 +169,12 @@ export default function ProductPage() {
           >
             <p className="flex items-center gap-2 font-semibold text-trust">
               <ShieldCheck className="size-4" aria-hidden="true" />
-              Virtual purchase
+              Secure checkout
             </p>
-            <p>Paid from your TrustKart Wallet. No payment details are ever requested.</p>
+            <p>Pay with your TrustKart Wallet. Free delivery on every order.</p>
             <p className="text-ink-muted">
-              Nothing is charged or shipped. Bought items join your collection, and you can undo a purchase
-              any time.
+              Changed your mind? Cancel any order from your order page and the full amount returns to your
+              wallet.
             </p>
             <p className="text-ink-muted">
               Manufacturer warranty (for reference):{' '}

@@ -45,7 +45,7 @@ export function SiteHeader() {
             className={`${navItem} hidden sm:flex`}
             aria-label={balanceLabel(wallet?.mode, wallet?.balance)}
           >
-            <span className="text-xs text-header-ink-muted">Virtual balance</span>
+            <span className="text-xs text-header-ink-muted">Wallet balance</span>
             <span className="text-sm font-bold tabular">
               {wallet
                 ? wallet.mode === 'UNLIMITED'
@@ -82,7 +82,7 @@ export function SiteHeader() {
               </span>
             </Link>
             <Link to="/account/purchases" className={`${navItem} hidden sm:flex`}>
-              <span className="text-xs text-header-ink-muted">Purchases</span>
+              <span className="text-xs text-header-ink-muted">Orders</span>
               <span className="text-sm font-bold">&amp; Collection</span>
             </Link>
             <button
@@ -108,8 +108,8 @@ export function SiteHeader() {
 }
 
 function balanceLabel(mode?: string, balance?: string): string {
-  if (!balance) return 'Virtual wallet'
+  if (!balance) return 'TrustKart Wallet'
   return mode === 'UNLIMITED'
-    ? 'Virtual wallet, unlimited mode'
-    : `Virtual wallet, balance ${formatMoneyWhole(balance)}`
+    ? 'TrustKart Wallet, unlimited mode'
+    : `TrustKart Wallet, balance ${formatMoneyWhole(balance)}`
 }

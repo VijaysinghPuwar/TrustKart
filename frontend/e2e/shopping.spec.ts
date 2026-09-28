@@ -6,7 +6,7 @@ async function openFirstResult(page: Page, query: string) {
   await search.press('Enter')
   await expect(page.getByRole('heading', { level: 1 })).toContainText(query)
   await page.getByRole('main').getByRole('article').first().getByRole('link').first().click()
-  await expect(page.getByRole('button', { name: 'Instant Virtual Buy' })).toBeVisible()
+  await expect(page.getByRole('button', { name: 'Buy now' })).toBeVisible()
 }
 
 test('natural-language search is interpreted into chips', async ({ page }) => {
@@ -17,22 +17,23 @@ test('natural-language search is interpreted into chips', async ({ page }) => {
   await expect(page.getByRole('main').getByRole('article').first()).toContainText('Keychron V3 Max')
 })
 
-test('search, add to cart, virtual checkout with an address, receipt and collection', async ({ page }) => {
+test('search, add to cart, checkout with an address, confirmation and collection', async ({ page }) => {
   await page.goto('/')
   await openFirstResult(page, 'YubiKey')
-  await page.getByRole('button', { name: /^Add to cart$/ }).first().click()
+  await page
+    .getByRole('button', { name: /^Add to cart$/ })
+    .first()
+    .click()
   await expect(page.getByRole('status').filter({ hasText: 'Added to cart' })).toBeVisible()
 
   await page.goto('/cart')
   await expect(page.getByRole('heading', { name: 'Cart' })).toBeVisible()
-  await page.getByRole('link', { name: 'Proceed to Virtual Checkout' }).click()
+  await page.getByRole('link', { name: 'Proceed to checkout' }).click()
 
-  // Step 1: review
-  await expect(page.getByRole('heading', { name: 'Review cart' })).toBeVisible()
+  await expect(page.getByRole('heading', { name: 'Your cart' })).toBeVisible()
   await page.getByRole('button', { name: 'Continue' }).click()
 
-  // Step 2: a fictional address
-  await expect(page.getByText('No physical product will be shipped.')).toBeVisible()
+  await expect(page.getByRole('heading', { name: 'Delivery address' })).toBeVisible()
   await page.getByLabel('Full name').fill('Maya Chen')
   await page.getByLabel('Street address').fill('1 Test Lane')
   await page.getByLabel('City').fill('Springfield')
@@ -40,32 +41,32 @@ test('search, add to cart, virtual checkout with an address, receipt and collect
   await page.getByRole('button', { name: 'Use this address' }).click()
   await page.getByRole('button', { name: 'Continue' }).click()
 
-  // Step 3: virtual payment, no card fields anywhere
-  await expect(page.getByText('TrustKart Virtual Balance')).toBeVisible()
-  await expect(page.getByText('No real payment information is required.')).toBeVisible()
-  await expect(page.getByLabel(/card number|cvv|cvc/i)).toHaveCount(0)
+  // Payment: the wallet, and no card or bank fields anywhere.
+  await expect(page.getByRole('heading', { name: 'Payment method' })).toBeVisible()
+  await expect(page.getByText('Available balance')).toBeVisible()
+  await expect(page.getByLabel(/card number|cvv|cvc|iban|routing/i)).toHaveCount(0)
   await page.getByRole('button', { name: 'Continue' }).click()
 
-  // Step 4: review and place
-  await expect(page.getByText('No real money will be charged')).toBeVisible()
-  await page.getByRole('button', { name: 'Place Virtual Order' }).click()
+  await expect(page.getByRole('heading', { name: 'Review your order' })).toBeVisible()
+  await expect(page.getByText('Maya Chen')).toBeVisible()
+  await page.getByRole('button', { name: /^Place order/ }).click()
 
-  const dialog = page.getByRole('dialog', { name: 'Virtual purchase complete!' })
-  await expect(dialog).toBeVisible()
-  await expect(dialog).toContainText('This was a simulated purchase')
+  await expect(page.getByRole('alertdialog', { name: 'Processing your order' })).toBeVisible()
+  const dialog = page.getByRole('dialog', { name: 'Order placed!' })
+  await expect(dialog).toBeVisible({ timeout: 10_000 })
+  await expect(dialog).toContainText('Order TK-')
   await dialog.getByRole('link', { name: 'View my collection' }).click()
   await expect(page.getByRole('heading', { name: 'My collection' })).toBeVisible()
   await expect(page.getByRole('main')).toContainText('YubiKey')
 })
 
-test('wallet: add virtual funds', async ({ page }) => {
+test('wallet: add funds', async ({ page }) => {
   await page.goto('/wallet')
-  await page.getByRole('button', { name: 'Add virtual funds' }).click()
-  const dialog = page.getByRole('dialog', { name: 'Add virtual funds' })
+  await page.getByRole('button', { name: 'Add funds' }).click()
+  const dialog = page.getByRole('dialog', { name: 'Add funds' })
   await dialog.getByText('+$1,000,000').click()
   await dialog.getByRole('button', { name: 'Add to Wallet' }).click()
   await expect(page.getByRole('dialog', { name: '$1,000,000 added' })).toBeVisible()
-  await expect(page.getByText('No real money was deposited.')).toBeVisible()
 })
 
 test('compare two CPUs and show differences only', async ({ page }) => {

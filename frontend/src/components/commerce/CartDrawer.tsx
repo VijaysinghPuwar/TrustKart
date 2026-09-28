@@ -40,12 +40,12 @@ export function CartDrawer() {
               {wallet && (
                 <>
                   <div className="flex text-ink-muted">
-                    <dt>Virtual balance</dt>
+                    <dt>Wallet balance</dt>
                     <dd className="ml-auto">{unlimited ? '∞ Unlimited' : formatMoney(wallet.balance)}</dd>
                   </div>
                   {!unlimited && remaining !== null && (
                     <div className="flex text-ink-muted">
-                      <dt>{short ? 'Virtual funds needed' : 'Remaining after purchase'}</dt>
+                      <dt>{short ? 'Wallet short by' : 'Remaining after purchase'}</dt>
                       <dd className={short ? 'ml-auto font-semibold text-danger' : 'ml-auto'}>
                         {formatMoney(remaining.replace('-', ''))}
                       </dd>
@@ -61,14 +61,12 @@ export function CartDrawer() {
                 void navigate('/checkout')
               }}
             >
-              Proceed to Virtual Checkout
+              Proceed to checkout
             </Button>
             <ButtonLink to="/cart" variant="secondary" onClick={hide}>
               View cart
             </ButtonLink>
-            <p className="text-center text-[13px] text-ink-muted">
-              Simulation only. Nothing is charged or shipped.
-            </p>
+            <p className="text-center text-[13px] text-ink-muted">Free delivery. Taxes included.</p>
           </div>
         )
       }

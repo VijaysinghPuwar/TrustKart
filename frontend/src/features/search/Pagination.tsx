@@ -14,8 +14,10 @@ export function Pagination({
   const pages = Array.from({ length: totalPages }, (_, i) => i).filter(
     (i) => i === 0 || i === totalPages - 1 || Math.abs(i - page) <= 1,
   )
-  const btn =
-    'flex h-10 min-w-10 items-center justify-center rounded-control border border-border-strong bg-surface px-3 text-sm font-semibold hover:bg-surface-2 disabled:opacity-40'
+  const base =
+    'flex h-10 min-w-10 items-center justify-center rounded-control border px-3 text-sm font-semibold'
+  const btn = cn(base, 'border-border-strong bg-surface text-ink hover:bg-surface-2 disabled:opacity-40')
+  const current = cn(base, 'border-primary bg-primary text-on-primary')
   return (
     <nav aria-label="Pagination" className="flex flex-wrap items-center justify-center gap-1.5">
       <button
@@ -32,7 +34,7 @@ export function Pagination({
           {idx > 0 && p - (pages[idx - 1] ?? p) > 1 && <span aria-hidden="true">…</span>}
           <button
             type="button"
-            className={cn(btn, p === page && 'border-primary bg-primary text-on-primary hover:bg-primary')}
+            className={p === page ? current : btn}
             aria-current={p === page ? 'page' : undefined}
             onClick={() => onPage(p)}
           >

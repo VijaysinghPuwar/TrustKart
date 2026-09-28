@@ -50,7 +50,7 @@ export default function WishlistPage() {
       <div className="flex flex-wrap items-end gap-4">
         <div className="flex-1">
           <h1 className="text-[32px] font-bold leading-10">Wishlists</h1>
-          <p className="text-sm text-ink-muted">Save dream setups now, buy them virtually later.</p>
+          <p className="text-sm text-ink-muted">Save dream setups now, buy them later.</p>
         </div>
         <form onSubmit={createList} className="flex gap-2">
           <label htmlFor="new-list" className="sr-only">

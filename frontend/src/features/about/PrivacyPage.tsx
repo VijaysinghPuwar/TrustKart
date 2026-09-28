@@ -17,6 +17,10 @@ export default function PrivacyPage() {
         <li>Sign-in history for your security: time, IP address and browser type of each attempt.</li>
         <li>Your cart, wishlists, virtual wallet ledger and virtual purchases.</li>
         <li>
+          Delivery addresses you choose to save or enter at checkout. They are only shown back to you on your
+          orders; nothing is ever shipped. Delete saved addresses any time from your account.
+        </li>
+        <li>
           Guests get an anonymous random cookie instead of an account. Guest data is deleted after 30 days of
           inactivity.
         </li>
@@ -24,7 +28,6 @@ export default function PrivacyPage() {
       <h2>What we never collect</h2>
       <ul>
         <li>Card numbers, bank details, billing addresses or any other financial information.</li>
-        <li>Real delivery addresses. Checkout only offers presets and fictional places.</li>
       </ul>
       <h2>In your browser only</h2>
       <p>

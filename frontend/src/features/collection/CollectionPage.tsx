@@ -20,14 +20,14 @@ export default function CollectionPage() {
       <div>
         <h1 className="text-[32px] font-bold leading-10">My collection</h1>
         <p className="text-sm text-ink-muted">
-          Everything you’ve bought virtually. Values are virtual catalog values, for fun only.
+          Everything you’ve bought on TrustKart, valued at today’s prices.
         </p>
       </div>
       <section aria-label="Collection value" className="grid gap-3 sm:grid-cols-2 lg:grid-cols-4">
         <Stat
           label="Collection value"
           value={formatMoney(stats.collectionValue)}
-          note="Virtual catalog value"
+          note="At today’s prices"
           strong
         />
         <Stat
@@ -36,9 +36,9 @@ export default function CollectionPage() {
           note={`${String(stats.distinctProducts)} different products`}
         />
         <Stat
-          label="Total virtual spend"
+          label="Total spent"
           value={formatMoney(stats.totalVirtualSpend)}
-          note={`${String(stats.purchases)} virtual purchases`}
+          note={`${String(stats.purchases)} orders`}
         />
         <Stat
           label="Favorite category"
@@ -50,7 +50,7 @@ export default function CollectionPage() {
       {items.length === 0 ? (
         <div className="flex flex-col items-start gap-3 rounded-card border border-border bg-surface p-6">
           <p className="font-semibold">Your collection is empty.</p>
-          <p className="text-sm text-ink-muted">Every product you buy virtually shows up here.</p>
+          <p className="text-sm text-ink-muted">Every product you buy shows up here.</p>
           <ButtonLink to="/" variant="secondary">
             Start your dream setup
           </ButtonLink>
@@ -126,9 +126,7 @@ export default function CollectionPage() {
           ))}
         </ul>
         {achievements.length === 0 && (
-          <p className="text-sm text-ink-muted">
-            Make your first virtual purchase to start earning achievements.
-          </p>
+          <p className="text-sm text-ink-muted">Place your first order to start earning achievements.</p>
         )}
       </section>
     </div>
