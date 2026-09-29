@@ -118,6 +118,13 @@ export default function NotificationsPage() {
           disabled={update.isPending}
           onChange={(v) => setPref({ deliveryUpdates: v })}
         />
+        <Toggle
+          label="Rank updates"
+          hint="Reaching a new tier on the leaderboards, and your result when a month ends."
+          checked={prefs.data.leaderboardUpdates}
+          disabled={update.isPending}
+          onChange={(v) => setPref({ leaderboardUpdates: v })}
+        />
         {browserAlertsSupported() && (
           <div>
             <Toggle

@@ -40,6 +40,13 @@ a real browser where it has UI. Last reviewed 2026-09-28.
 | Notification center (bell, unread count, preferences, browser alerts) | TESTED | idempotent milestone notifications | bell + notifications page | OrderTrackingIT, browser | P1 |
 | My Collection + value + stats | TESTED | collection module | collection page | API | P0 |
 | Achievements (76, bronze → legendary, "Up next", group filters) | TESTED | computed from history on read | achievements section | unit + browser | P1 |
+| Monthly leaderboard (Top 50, UTC calendar month) | TESTED | `LeaderboardService`, ranked from completed orders | /rankings "This Month" tab, podium, table / cards | LeaderboardIT (boundaries, limit, ties), E2E | P1 |
+| All-time leaderboard (Top 100) | TESTED | same query, no period filter | "All Time" tab, member since | LeaderboardIT, E2E | P1 |
+| Personal rank outside the top lists, gap to the list | TESTED | window-function lookup | "Your position" card, account overview | LeaderboardIT, E2E | P1 |
+| Leaderboard privacy (anonymous by default, public name, photo opt-in) | TESTED | `leaderboard_profile` (V11), reserved names | account/rankings settings | LeaderboardIT (no email or account name exposed) | P1 |
+| Leaderboard notifications (milestones, month-end result) | TESTED | idempotent keys per month and tier | "Rank updates" preference | LeaderboardIT | P2 |
+| Historical monthly results | IMPLEMENTED | any past month is recomputable from order history | month-end notification only (no archive page yet) | LeaderboardIT | P2 |
+| Leaderboard admin: status, reconcile, cache refresh | TESTED | `/api/v1/admin/leaderboards` (analytics permission) | n/a (no admin UI yet) | LeaderboardIT (403 / 401, 0 mismatches) | P2 |
 | Product comparison (2-4, differences only) | TESTED | compare API | compare tray + page | API + E2E | P1 |
 | Security Center: sessions, login history | TESTED | auth module | account/security | AuthIT | P1 |
 | Build Your Dream PC (compatibility rules) | PLANNED | builder module | builder UI | unit (rules) | P2 |
@@ -56,5 +63,5 @@ a real browser where it has UI. Last reviewed 2026-09-28.
 | Accessibility (WCAG 2.2 AA target) | IMPLEMENTED | n/a | all | axe visual audit; manual review pending | P0 |
 | Playwright E2E suite | TESTED | n/a | n/a | desktop + Pixel 7 | P0 |
 | Load / stress test | TESTED | n/a | n/a | `scripts/stress_test.py` (browse, rate-limit, checkout, oversell, invariants) | P1 |
-| Deployment (Vercel frontend, container backend) | IMPLEMENTED | Dockerfile, proxy + OAuth config | `vercel.json` | see docs/DEPLOYMENT.md; not yet deployed | P1 |
+| Deployment (Vercel frontend, container backend) | TESTED | Dockerfile, proxy + OAuth config | `vercel.json` | live: Vercel (site) + Render (API, Postgres); see docs/DEPLOYMENT.md | P1 |
 | `/about/project` page | TESTED | n/a | page | visual | P2 |

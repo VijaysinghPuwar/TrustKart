@@ -56,6 +56,7 @@ nothing ships, so anyone can try the full shopping experience safely.
 | 🚚 **Order tracking** | A seven-day delivery timeline with a tracking number; cancel before it ships, return within 30 days |
 | 🔔 **Notifications** | A bell that alerts you when an order ships, goes out for delivery and arrives |
 | 🏆 **Achievements** | 76 goals from *First purchase* to *Centibillionaire* ($100 billion spent), bronze to legendary |
+| 🥇 **Rankings** | Monthly Top 50 and all-time Top 100 by virtual spend. You appear anonymously unless you pick a public name |
 | 🔐 **Accounts** | Email sign-up (Google sign-in is built in and turns on once configured); shop as a guest and your cart follows you when you sign in |
 | 🌗 **Design** | Light and dark themes, works on phones, keyboard and screen-reader friendly |
 
@@ -175,7 +176,7 @@ Actions.
 ## Project layout
 
 ```
-backend/        Spring Boot API: catalog, cart, checkout, wallet, orders, notifications
+backend/        Spring Boot API: catalog, cart, checkout, wallet, orders, notifications, rankings
 frontend/       React website
 catalog-data/   Product research and image sources used to build the catalog
 scripts/        Stress test, image validation and catalog tools
@@ -188,6 +189,7 @@ vercel.json     Vercel setup: builds the website and forwards /api to Render
 
 - [Deployment guide](docs/DEPLOYMENT.md): hosting on Vercel and Render, every setting explained
 - [Feature list](docs/FEATURE_MATRIX.md): what's built, what's tested and what's planned
+- [Leaderboard design](docs/adr/001-leaderboard-architecture.md): how rankings are computed and kept private
 - [Image credits](docs/ASSET_SOURCES.md): where every product photo comes from
 
 ---

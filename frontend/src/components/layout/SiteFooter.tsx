@@ -19,6 +19,7 @@ const columns = [
       ['My collection', '/collection'],
       ['Your orders', '/account/purchases'],
       ['Wishlists', '/wishlist'],
+      ['Rankings', '/rankings'],
     ],
   },
   {

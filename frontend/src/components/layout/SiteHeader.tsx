@@ -1,3 +1,4 @@
+import { Trophy } from 'lucide-react'
 import { Link } from 'react-router'
 import { useMe } from '@/data/account'
 import { useCart, useWallet } from '@/data/shopping'
@@ -85,6 +86,14 @@ export function SiteHeader() {
             <Link to="/account/purchases" className={`${navItem} hidden sm:flex`}>
               <span className="text-xs text-header-ink-muted">Orders</span>
               <span className="text-sm font-bold">&amp; Collection</span>
+            </Link>
+            <Link
+              to="/rankings"
+              aria-label="Rankings"
+              className="flex size-[46px] items-center justify-center rounded-chip text-white hover:bg-white/10 lg:w-auto lg:gap-1.5 lg:px-2.5"
+            >
+              <Trophy className="size-[20px]" aria-hidden="true" />
+              <span className="hidden text-sm font-bold lg:inline">Rankings</span>
             </Link>
             <NotificationBell />
             <button

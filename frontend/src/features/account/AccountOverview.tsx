@@ -2,6 +2,7 @@ import { Link, useNavigate } from 'react-router'
 import { Button, ButtonLink } from '@/components/ui/Button'
 import { PageSpinner } from '@/components/ui/PageSpinner'
 import { useMe, useSignOut } from '@/data/account'
+import { useLeaderboardStanding } from '@/data/leaderboards'
 import { useCollection, useWallet } from '@/data/shopping'
 import { formatMoney } from '@/lib/money'
 import { usePageTitle } from '@/lib/usePageTitle'
@@ -58,6 +59,7 @@ export default function AccountOverview() {
           value={collection ? String(collection.stats.purchases) : '…'}
         />
       </div>
+      {profile && <RankCard />}
       {profile && (
         <section className="rounded-card border border-border bg-surface p-5">
           <div className="mb-3 flex items-center gap-3">
@@ -104,5 +106,35 @@ function Summary({ to, label, value }: { to: string; label: string; value: strin
       <span className="text-sm text-ink-muted">{label}</span>
       <span className="truncate text-2xl font-bold tabular">{value}</span>
     </Link>
+  )
+}
+
+/** "Your rankings" summary; all amounts are virtual. */
+function RankCard() {
+  const { data: s } = useLeaderboardStanding(true)
+  const line = (label: string, rank?: number, spend?: string) => (
+    <div>
+      <dt className="text-xs text-ink-muted">{label}</dt>
+      <dd className="text-xl font-bold tabular">
+        {rank ? `#${rank.toLocaleString('en-US')}` : 'Not ranked'}
+      </dd>
+      {spend && <dd className="text-xs text-ink-muted tabular">{formatMoney(spend)} virtual spent</dd>}
+    </div>
+  )
+  return (
+    <section aria-labelledby="rank-card" className="rounded-card border border-border bg-surface p-5">
+      <div className="mb-3 flex items-center gap-3">
+        <h2 id="rank-card" className="flex-1 font-semibold">
+          Your rankings
+        </h2>
+        <Link to="/rankings" className="text-sm">
+          View leaderboard
+        </Link>
+      </div>
+      <dl className="grid grid-cols-2 gap-4">
+        {line('This month', s?.monthly?.rank, s?.monthly?.virtualSpend)}
+        {line('All time', s?.allTime?.rank, s?.allTime?.virtualSpend)}
+      </dl>
+    </section>
   )
 }

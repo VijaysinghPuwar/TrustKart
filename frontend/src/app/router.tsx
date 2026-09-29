@@ -19,6 +19,8 @@ const SignUpPage = lazy(() => import('@/features/auth/SignUpPage'))
 const AccountLayout = lazy(() => import('@/features/account/AccountLayout'))
 const AccountOverview = lazy(() => import('@/features/account/AccountOverview'))
 const NotificationsPage = lazy(() => import('@/features/account/NotificationsPage'))
+const LeaderboardSettings = lazy(() => import('@/features/account/LeaderboardSettings'))
+const RankingsPage = lazy(() => import('@/features/rankings/RankingsPage'))
 const PurchasesPage = lazy(() => import('@/features/account/PurchasesPage'))
 const ReceiptPage = lazy(() => import('@/features/account/ReceiptPage'))
 const SecurityCenter = lazy(() => import('@/features/account/SecurityCenter'))
@@ -48,6 +50,7 @@ export const router = createBrowserRouter([
       { path: 'wallet', element: <WalletPage /> },
       { path: 'collection', element: <CollectionPage /> },
       { path: 'wishlist', element: <WishlistPage /> },
+      { path: 'rankings', element: <RankingsPage /> },
       { path: 'signin', element: <SignInPage /> },
       { path: 'signup', element: <SignUpPage /> },
       {
@@ -58,6 +61,7 @@ export const router = createBrowserRouter([
           { path: 'purchases', element: <PurchasesPage /> },
           { path: 'purchases/:id', element: <ReceiptPage /> },
           { path: 'notifications', element: <NotificationsPage /> },
+          { path: 'rankings', element: <LeaderboardSettings /> },
           { path: 'security', element: <SecurityCenter /> },
           { path: 'addresses', element: <AddressesPage /> },
         ],
