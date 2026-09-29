@@ -1,8 +1,9 @@
 name: Keep API warm
 
-# Render's free plan puts the API to sleep after 15 minutes without traffic, and waking it takes about a minute.
-# A light health check every 10 minutes keeps the live demo responsive. Delete this file (or disable the
-# workflow in the Actions tab) to let the API sleep again.
+# Render's free plan puts the API to sleep after 15 minutes without traffic, and waking it takes a few minutes.
+# A light health check every 10 minutes keeps the live demo responsive. GitHub may delay or skip scheduled runs,
+# so the site doesn't depend on this: public catalog data is also served from Vercel's CDN while the API wakes.
+# Delete this file (or disable the workflow in the Actions tab) to let the API sleep again.
 on:
   schedule:
     - cron: '*/10 * * * *'
@@ -19,9 +20,14 @@ jobs:
         run: |
           for attempt in 1 2 3; do
             if curl -fsS --max-time 90 https://trustkart-api-2ufo.onrender.com/actuator/health/liveness; then
-              exit 0
+              break
+            fi
+            if [ "$attempt" = 3 ]; then
+              echo "API did not answer after 3 attempts" >&2
+              exit 1
             fi
             sleep 10
           done
-          echo "API did not answer after 3 attempts" >&2
-          exit 1
+      # Through the site as a visitor would, so the CDN's copy of the home catalog stays fresh too.
+      - name: Refresh CDN copy of the home page data
+        run: curl -fsS --max-time 90 -o /dev/null https://trustkart-xi.vercel.app/api/v1/catalog/home

@@ -131,7 +131,7 @@ class CatalogApiIT {
     void homeReturnsHeroTilesDealsAndCategories() throws Exception {
         mvc.perform(get("/api/v1/catalog/home"))
                 .andExpect(status().isOk())
-                .andExpect(header().string("Cache-Control", "max-age=60, public"))
+                .andExpect(header().string("Cache-Control", "max-age=60, public, s-maxage=300, stale-if-error=604800, stale-while-revalidate=604800"))
                 .andExpect(jsonPath("$.hero.slug").isNotEmpty())
                 .andExpect(jsonPath("$.tiles", hasSize(greaterThanOrEqualTo(6))))
                 .andExpect(jsonPath("$.tiles[0].key").value("latest-iphones"))

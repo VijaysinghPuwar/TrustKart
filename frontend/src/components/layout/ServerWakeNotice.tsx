@@ -1,6 +1,7 @@
 import { useIsFetching } from '@tanstack/react-query'
 import { Loader2 } from 'lucide-react'
 import { useEffect, useState } from 'react'
+import { useLocation } from 'react-router'
 
 const SLOW_AFTER_MS = 6_000
 
@@ -8,8 +9,34 @@ const SLOW_AFTER_MS = 6_000
  * The hosted API sleeps after a quiet spell and takes up to a minute to start again. When data is still loading
  * after a few seconds, say so instead of leaving the visitor looking at empty placeholders.
  */
+/**
+ * Header data every page loads in the background (account, balance, cart count, bell, suggestions). The catalog is
+ * served from the CDN even while the API sleeps, so waiting on these alone shouldn't put a banner over a page that
+ * is already showing; they count only on the page where they are the main content.
+ */
+const BACKGROUND: Record<string, string | undefined> = {
+  me: '/account',
+  wallet: '/wallet',
+  cart: '/cart',
+  wishlist: '/wishlist',
+  notifications: '/account/notifications',
+  suggest: undefined,
+  'auth-providers': '/signin',
+}
+
 export function ServerWakeNotice() {
-  const fetching = useIsFetching() > 0
+  const { pathname } = useLocation()
+  const fetching =
+    useIsFetching({
+      predicate: (q) => {
+        const root = String(q.queryKey[0])
+        if (!(root in BACKGROUND)) return true
+        const home = BACKGROUND[root]
+        return (
+          home !== undefined && (pathname.startsWith(home) || (root === 'cart' && pathname === '/checkout'))
+        )
+      },
+    }) > 0
   const [slow, setSlow] = useState(false)
 
   useEffect(() => {
