@@ -82,7 +82,7 @@ function Podium({ top, allTime }: { top: LeaderboardEntry[]; allTime: boolean })
     <li
       key={`${String(e.rank)}-${e.displayName}`}
       className={cn(
-        'flex flex-col items-center gap-2 rounded-card border bg-surface p-5 text-center',
+        'flex flex-col items-center gap-2 rounded-card border bg-surface p-5 text-center sm:w-[calc((100%-2rem)/3)]',
         e.currentUser ? 'border-primary' : 'border-border',
         raised && 'sm:-translate-y-3 sm:shadow-lg',
       )}
@@ -103,7 +103,7 @@ function Podium({ top, allTime }: { top: LeaderboardEntry[]; allTime: boolean })
   )
   return (
     <>
-      <ol className="hidden grid-cols-3 items-end gap-4 sm:grid" aria-label="Top three">
+      <ol className="hidden items-end justify-center gap-4 sm:flex" aria-label="Top three">
         {desktopOrder.map((e) => card(e, e.rank === 1))}
       </ol>
       <ol className="flex flex-col gap-3 sm:hidden" aria-label="Top three">
