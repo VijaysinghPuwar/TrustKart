@@ -173,6 +173,20 @@ Open **http://localhost:5173**. Every new visitor starts with $100,000 of virtua
 Every push runs the server tests, website checks, image validation, a Docker build and a secret scan in GitHub
 Actions.
 
+## Performance and responsive design
+
+- **Loads only what a page needs:** every page except Home is its own code chunk (the entry bundle is 85 KB
+  gzipped), product photos are pre-sized WebP with `srcset` and lazy loading, and listings are paginated.
+- **No layout jumps:** placeholders match the real content, so pages don't shift as data arrives (CLS 0 to 0.005
+  on every measured page, down from up to 0.39).
+- **Light on the server:** the home page and category tree are cached in memory for a minute, the notification
+  bell polls every two minutes with read-only queries, and cart and checkout load all their products in one query.
+- **Works from 320 to 1920 px:** checked on 20 pages at 13 widths, with automated tests guarding against sideways
+  scrolling.
+
+Measured before and after in [docs/PERFORMANCE_AUDIT.md](docs/PERFORMANCE_AUDIT.md); how it works in
+[docs/PERFORMANCE.md](docs/PERFORMANCE.md).
+
 ## Project layout
 
 ```
@@ -189,6 +203,7 @@ vercel.json     Vercel setup: builds the website and forwards /api to Render
 
 - [Deployment guide](docs/DEPLOYMENT.md): hosting on Vercel and Render, every setting explained
 - [Feature list](docs/FEATURE_MATRIX.md): what's built, what's tested and what's planned
+- [Performance](docs/PERFORMANCE.md) and [audit results](docs/PERFORMANCE_AUDIT.md): what was measured and changed
 - [Leaderboard design](docs/adr/001-leaderboard-architecture.md): how rankings are computed and kept private
 - [Image credits](docs/ASSET_SOURCES.md): where every product photo comes from
 
