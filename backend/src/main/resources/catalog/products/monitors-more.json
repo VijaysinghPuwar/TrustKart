@@ -1,0 +1,1872 @@
+{
+ "products": [
+  {
+   "sku": "TK-BENQ-EX271UZ",
+   "slug": "benq-mobiuz-ex271uz",
+   "name": "BenQ MOBIUZ EX271UZ 27\" 4K 240Hz QD-OLED Gaming Monitor",
+   "brand": "BenQ",
+   "category": "gaming-monitors",
+   "price": "1049.99",
+   "compareAt": null,
+   "warranty": 36,
+   "stock": [
+    40,
+    5
+   ],
+   "featured": true,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "oled-displays",
+    "gaming-monsters"
+   ],
+   "summary": "26.5-inch 4K 240 Hz QD-OLED gaming monitor with 99% P3, DisplayHDR True Black 400 and 90 W USB-C.",
+   "description": "The MOBIUZ EX271UZ uses a 26.5-inch 3840x2160 QD-OLED panel at 240 Hz with 0.03 ms (GtG) response, 99% P3 colour and VESA DisplayHDR True Black 400 (1000-nit HDR peak). It has two HDMI 2.1 ports (one with eARC), DisplayPort 1.4 and USB-C with 90 W charging, plus a built-in KVM and a remote control.",
+   "keywords": "benq mobiuz 4k oled 240hz qd-oled 27 inch",
+   "specs": {
+    "sizeIn": 26.5,
+    "resolution": "3840x2160",
+    "refreshHz": 240,
+    "panel": "QD-OLED",
+    "hdr": "VESA DisplayHDR True Black 400",
+    "colorGamut": "99% P3",
+    "inputs": "2x HDMI 2.1 (1 eARC), 1x DisplayPort 1.4, 1x USB-C (DP Alt)",
+    "usbCPowerW": 90,
+    "responseTimeMs": 0.03,
+    "brightnessNits": 250,
+    "adaptiveSync": "AMD FreeSync Premium Pro",
+    "stand": "Height 100 mm, tilt -5/+15 deg, swivel +/-15 deg",
+    "curvature": "Flat"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-BENQ-EX321UZ",
+   "slug": "benq-mobiuz-ex321uz",
+   "name": "BenQ MOBIUZ EX321UZ 32\" 4K 240Hz QD-OLED Gaming Monitor",
+   "brand": "BenQ",
+   "category": "gaming-monitors",
+   "price": "1199.99",
+   "compareAt": null,
+   "warranty": 36,
+   "stock": [
+    46,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "oled-displays",
+    "ultimate-gaming-setup"
+   ],
+   "summary": "31.5-inch 4K 240 Hz QD-OLED gaming monitor with DisplayPort 2.1, True Black 500 HDR and 90 W USB-C.",
+   "description": "The MOBIUZ EX321UZ pairs a 31.5-inch 3840x2160 QD-OLED panel at 240 Hz and 0.03 ms (GtG) with 99% P3 colour and VESA DisplayHDR True Black 500 (1000-nit peak). Connectivity covers two HDMI 2.1 (one eARC), DisplayPort 2.1 and USB-C with 90 W Power Delivery.",
+   "keywords": "benq mobiuz 32 inch 4k 240hz oled dp 2.1",
+   "specs": {
+    "sizeIn": 31.5,
+    "resolution": "3840x2160",
+    "refreshHz": 240,
+    "panel": "QD-OLED",
+    "hdr": "VESA DisplayHDR True Black 500",
+    "colorGamut": "99% P3",
+    "inputs": "2x HDMI 2.1 (1 eARC), 1x DisplayPort 2.1, 1x USB-C upstream",
+    "usbCPowerW": 90,
+    "responseTimeMs": 0.03,
+    "brightnessNits": 300,
+    "adaptiveSync": "AMD FreeSync Premium Pro",
+    "stand": "Height 100 mm, tilt -5/+15 deg, swivel +/-15 deg",
+    "curvature": "Flat"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-BENQ-EX271QZ",
+   "slug": "benq-mobiuz-ex271qz",
+   "name": "BenQ MOBIUZ EX271QZ 27\" QHD 500Hz QD-OLED Gaming Monitor",
+   "brand": "BenQ",
+   "category": "gaming-monitors",
+   "price": "899.99",
+   "compareAt": null,
+   "warranty": 36,
+   "stock": [
+    52,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "oled-displays",
+    "gaming-monsters"
+   ],
+   "summary": "26.5-inch QHD QD-OLED esports monitor running at 500 Hz with True Black 500 HDR.",
+   "description": "The MOBIUZ EX271QZ is a 26.5-inch 2560x1440 QD-OLED monitor at 500 Hz with 0.03 ms (GtG) response, 99% P3 colour and VESA DisplayHDR True Black 500. It offers two HDMI 2.1 ports (one with eARC), DisplayPort 1.4 and a USB-C upstream port.",
+   "keywords": "benq 500hz oled esports qhd",
+   "specs": {
+    "sizeIn": 26.5,
+    "resolution": "2560x1440",
+    "refreshHz": 500,
+    "panel": "QD-OLED",
+    "hdr": "VESA DisplayHDR True Black 500",
+    "colorGamut": "99% P3",
+    "inputs": "2x HDMI 2.1 (1 eARC), 1x DisplayPort 1.4, 1x USB-C upstream",
+    "responseTimeMs": 0.03,
+    "brightnessNits": 300,
+    "adaptiveSync": "AMD FreeSync Premium Pro",
+    "stand": "Height 100 mm, tilt -5/+15 deg, swivel +/-15 deg",
+    "curvature": "Flat"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-BENQ-SW272U",
+   "slug": "benq-sw272u",
+   "name": "BenQ SW272U 27\" 4K Photographer Monitor",
+   "brand": "BenQ",
+   "category": "professional-monitors",
+   "price": "1999.99",
+   "compareAt": null,
+   "warranty": 36,
+   "stock": [
+    31,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "creator-workstations"
+   ],
+   "summary": "27-inch 4K IPS photo-editing monitor with 99% Adobe RGB, hardware calibration and 90 W USB-C.",
+   "description": "The SW272U is a 27-inch 3840x2160 IPS monitor for photographers covering 99% Adobe RGB, 99% P3 and 100% sRGB, with HDR10/HLG support and 400-nit brightness. It has two HDMI 2.0, DisplayPort 1.4 and USB-C with 90 W charging, a fully adjustable stand with pivot and the Hotkey Puck G3.",
+   "keywords": "benq photographer adobe rgb hardware calibration 4k",
+   "specs": {
+    "sizeIn": 27,
+    "resolution": "3840x2160",
+    "refreshHz": 60,
+    "panel": "IPS",
+    "hdr": "HDR10, HLG",
+    "colorGamut": "99% Adobe RGB, 99% P3, 100% sRGB",
+    "inputs": "2x HDMI 2.0, 1x DisplayPort 1.4, 1x USB-C (DP Alt)",
+    "usbCPowerW": 90,
+    "responseTimeMs": 5,
+    "brightnessNits": 400,
+    "stand": "Height 140 mm, tilt -5/+20 deg, swivel 30/30 deg, pivot 90 deg",
+    "curvature": "Flat"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-BENQ-SW321C",
+   "slug": "benq-sw321c",
+   "name": "BenQ SW321C 32\" 4K Photo & Video Editing Monitor",
+   "brand": "BenQ",
+   "category": "professional-monitors",
+   "price": "1999.99",
+   "compareAt": null,
+   "warranty": 36,
+   "stock": [
+    47,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "creator-workstations"
+   ],
+   "summary": "31.5-inch 4K IPS colour-critical monitor with 99% Adobe RGB, 95% P3 and 60 W USB-C.",
+   "description": "The SW321C is a 31.5-inch 3840x2160 IPS monitor with a Nano Matte Panel Pro coating covering 99% Adobe RGB, 95% P3 and 100% sRGB, with HDR10 and HLG support. It has two HDMI 2.0, DisplayPort 1.4 and USB-C with 60 W charging, plus a height-adjustable stand with pivot.",
+   "keywords": "benq sw321c adobe rgb photo video",
+   "specs": {
+    "sizeIn": 31.5,
+    "resolution": "3840x2160",
+    "refreshHz": 60,
+    "panel": "IPS",
+    "hdr": "HDR10, HLG",
+    "colorGamut": "99% Adobe RGB, 95% P3, 100% sRGB",
+    "inputs": "2x HDMI 2.0, 1x DisplayPort 1.4, 1x USB-C (PD)",
+    "usbCPowerW": 60,
+    "responseTimeMs": 5,
+    "brightnessNits": 250,
+    "stand": "Height 150 mm, tilt -5/+20 deg, swivel 45/45 deg, pivot 90 deg",
+    "curvature": "Flat"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-BENQ-PD2730S",
+   "slug": "benq-pd2730s",
+   "name": "BenQ PD2730S 27\" 5K Thunderbolt 4 Designer Monitor",
+   "brand": "BenQ",
+   "category": "professional-monitors",
+   "price": "999.99",
+   "compareAt": null,
+   "warranty": 36,
+   "stock": [
+    13,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "creator-workstations",
+    "developer-setup"
+   ],
+   "summary": "27-inch 5K IPS designer monitor with 98% P3, DisplayHDR 400 and Thunderbolt 4 with 90 W charging.",
+   "description": "The PD2730S is a 27-inch 5120x2880 IPS monitor covering 98% P3 and 100% sRGB with HDR10 and VESA DisplayHDR 400. It has Thunderbolt 4 in (90 W) and out for daisy-chaining, HDMI 2.1, DisplayPort 1.4 and a USB hub, on a stand with height, swivel and pivot adjustment.",
+   "keywords": "benq 5k thunderbolt 4 mac designer",
+   "specs": {
+    "sizeIn": 27,
+    "resolution": "5120x2880",
+    "refreshHz": 60,
+    "panel": "IPS",
+    "hdr": "HDR10, VESA DisplayHDR 400",
+    "colorGamut": "98% P3, 100% sRGB",
+    "inputs": "1x Thunderbolt 4 in, 1x Thunderbolt 4 out, 1x HDMI 2.1, 1x DisplayPort 1.4",
+    "usbCPowerW": 90,
+    "responseTimeMs": 5,
+    "brightnessNits": 400,
+    "stand": "Height 150 mm, tilt -5/+20 deg, swivel 30/30 deg, pivot 90 deg",
+    "curvature": "Flat"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-BENQ-PD3226G",
+   "slug": "benq-pd3226g",
+   "name": "BenQ PD3226G 32\" 4K 144Hz Thunderbolt 4 Designer Monitor",
+   "brand": "BenQ",
+   "category": "professional-monitors",
+   "price": "1099.99",
+   "compareAt": null,
+   "warranty": 36,
+   "stock": [
+    51,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "creator-workstations"
+   ],
+   "summary": "31.5-inch 4K 144 Hz IPS designer monitor with Pantone validation and dual Thunderbolt 4.",
+   "description": "The PD3226G is a 31.5-inch 3840x2160 IPS panel running at 144 Hz with 1 ms (GtG) response, 95% P3 and factory calibration (Delta E <= 2). It has two Thunderbolt 4 ports (one with 90 W charging), HDMI 2.1, DisplayPort 1.4, a KVM switch and the Hotkey Puck G3.",
+   "keywords": "benq 144hz 4k designer thunderbolt pantone",
+   "specs": {
+    "sizeIn": 31.5,
+    "resolution": "3840x2160",
+    "refreshHz": 144,
+    "panel": "IPS",
+    "hdr": "HDR10, VESA DisplayHDR 400",
+    "colorGamut": "95% P3, 100% sRGB",
+    "inputs": "2x Thunderbolt 4, 1x HDMI 2.1, 1x DisplayPort 1.4",
+    "usbCPowerW": 90,
+    "responseTimeMs": 1,
+    "brightnessNits": 400,
+    "stand": "Height 150 mm, tilt -5/+20 deg, swivel 30/30 deg, pivot 90 deg",
+    "curvature": "Flat"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-BENQ-RD280U",
+   "slug": "benq-rd280u",
+   "name": "BenQ RD280U 28\" 4K+ Programming Monitor",
+   "brand": "BenQ",
+   "category": "office-monitors",
+   "price": "599.99",
+   "compareAt": null,
+   "warranty": 36,
+   "stock": [
+    31,
+    5
+   ],
+   "featured": true,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "developer-setup",
+    "developer-favorites"
+   ],
+   "summary": "28.2-inch 3:2 4K+ (3840x2560) coding monitor with MoonHalo backlight, Nano Matte panel and 90 W USB-C.",
+   "description": "The RD280U is built for programmers: a 28.2-inch 3840x2560 IPS panel in a 3:2 ratio with a Nano Matte coating, 95% P3 and DisplayHDR 400. It has HDMI 2.0, DisplayPort 1.4 and USB-C with 90 W charging and MST daisy-chain, a built-in KVM and a rear MoonHalo backlight.",
+   "keywords": "benq programming coding monitor 3:2 moonhalo",
+   "specs": {
+    "sizeIn": 28.2,
+    "resolution": "3840x2560",
+    "refreshHz": 60,
+    "panel": "IPS",
+    "hdr": "HDR10, VESA DisplayHDR 400",
+    "colorGamut": "95% P3",
+    "inputs": "1x HDMI 2.0, 1x DisplayPort 1.4, 1x USB-C",
+    "usbCPowerW": 90,
+    "responseTimeMs": 5,
+    "brightnessNits": 350,
+    "stand": "Height 110 mm, tilt -5/+20 deg, swivel +/-15 deg",
+    "curvature": "Flat"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-BENQ-RD320U",
+   "slug": "benq-rd320u",
+   "name": "BenQ RD320U 32\" 4K Programming Monitor",
+   "brand": "BenQ",
+   "category": "office-monitors",
+   "price": "699.99",
+   "compareAt": null,
+   "warranty": 36,
+   "stock": [
+    44,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "developer-setup"
+   ],
+   "summary": "31.5-inch 4K coding monitor with MoonHalo backlight, Nano Matte panel, pivot and 90 W USB-C.",
+   "description": "The RD320U is a 31.5-inch 3840x2160 IPS programming monitor with a Nano Matte coating, 98% P3 and DisplayHDR 400. It offers two HDMI 2.0, DisplayPort 1.4 and USB-C with 90 W charging, plus a stand with height, swivel and 90-degree pivot and a rear MoonHalo backlight.",
+   "keywords": "benq programming coding 32 inch 4k",
+   "specs": {
+    "sizeIn": 31.5,
+    "resolution": "3840x2160",
+    "refreshHz": 60,
+    "panel": "IPS",
+    "hdr": "HDR10, VESA DisplayHDR 400",
+    "colorGamut": "98% P3",
+    "inputs": "2x HDMI 2.0, 1x DisplayPort 1.4, 1x USB-C",
+    "usbCPowerW": 90,
+    "responseTimeMs": 5,
+    "brightnessNits": 400,
+    "stand": "Height 110 mm, tilt -5/+20 deg, swivel +/-15 deg, pivot 90 deg",
+    "curvature": "Flat"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-BENQ-MA270S",
+   "slug": "benq-ma270s",
+   "name": "BenQ MA270S 27\" 5K Monitor for MacBook",
+   "brand": "BenQ",
+   "category": "professional-monitors",
+   "price": "999.99",
+   "compareAt": null,
+   "warranty": 36,
+   "stock": [
+    21,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "creator-workstations",
+    "developer-setup"
+   ],
+   "summary": "27-inch 5K (218 ppi) Nano Gloss IPS monitor for Mac with Thunderbolt 4 (96 W) and 99% P3.",
+   "description": "The MA270S is a 27-inch 5120x2880 IPS monitor tuned for MacBooks, with a Nano Gloss coating, 450-nit brightness, 99% P3 and DisplayHDR 400. It has Thunderbolt 4 in with 96 W charging, Thunderbolt 4 out, a 35 W USB-C port and two HDMI 2.1, on a stand with height, swivel and pivot.",
+   "keywords": "benq 5k mac monitor thunderbolt 4 218 ppi",
+   "specs": {
+    "sizeIn": 27,
+    "resolution": "5120x2880",
+    "refreshHz": 70,
+    "panel": "IPS",
+    "hdr": "HDR10, VESA DisplayHDR 400",
+    "colorGamut": "99% P3, 99% sRGB",
+    "inputs": "1x Thunderbolt 4 in, 1x Thunderbolt 4 out, 1x USB-C, 2x HDMI 2.1",
+    "usbCPowerW": 96,
+    "responseTimeMs": 5,
+    "brightnessNits": 450,
+    "stand": "Height 150 mm, tilt -5/+20 deg, swivel 15/15 deg, pivot 90 deg",
+    "curvature": "Flat"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-VIEWSONIC-VX27382KOLED",
+   "slug": "viewsonic-vx2738-2k-oled",
+   "name": "ViewSonic VX2738-2K-OLED 27\" QHD 240Hz QD-OLED Gaming Monitor",
+   "brand": "ViewSonic",
+   "category": "gaming-monitors",
+   "price": "449.99",
+   "compareAt": null,
+   "warranty": 36,
+   "stock": [
+    39,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "oled-displays",
+    "gaming-monsters"
+   ],
+   "summary": "27-inch 1440p QD-OLED gaming monitor at 240 Hz and 0.03 ms with a fully adjustable stand.",
+   "description": "The VX2738-2K-OLED uses a 27-inch 2560x1440 QD-OLED panel at 240 Hz with 0.03 ms (GtG) response, 10-bit colour and HDR10. It has two HDMI 2.1 and two DisplayPort inputs, FreeSync Premium and G-SYNC Compatible support, and a stand with 130 mm height, swivel and pivot plus burn-in mitigation features.",
+   "keywords": "viewsonic qd-oled 240hz 1440p budget oled",
+   "specs": {
+    "sizeIn": 27,
+    "resolution": "2560x1440",
+    "refreshHz": 240,
+    "panel": "QD-OLED",
+    "hdr": "HDR10",
+    "inputs": "2x HDMI 2.1, 2x DisplayPort",
+    "responseTimeMs": 0.03,
+    "brightnessNits": 200,
+    "adaptiveSync": "AMD FreeSync Premium, NVIDIA G-SYNC Compatible",
+    "stand": "Height 130 mm, tilt -5/+20 deg, swivel +/-45 deg, pivot 90 deg",
+    "curvature": "Flat"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-VIEWSONIC-XG2536",
+   "slug": "viewsonic-xg2536",
+   "name": "ViewSonic XG2536 25\" FHD 280Hz Esports Gaming Monitor",
+   "brand": "ViewSonic",
+   "category": "gaming-monitors",
+   "price": "239.99",
+   "compareAt": null,
+   "warranty": 36,
+   "stock": [
+    53,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [],
+   "summary": "24.5-inch 1080p IPS esports monitor at 280 Hz (OC) with 65 W USB-C and a fully adjustable stand.",
+   "description": "The XG2536 is a 24.5-inch 1920x1080 IPS monitor overclockable to 280 Hz with 0.5 ms MPRT response. It offers two HDMI 2.0, DisplayPort and USB-C with 65 W charging, FreeSync Premium and G-SYNC Compatible support, and a stand with 130 mm height, swivel and pivot.",
+   "keywords": "viewsonic esports 280hz 1080p usb-c",
+   "specs": {
+    "sizeIn": 24.5,
+    "resolution": "1920x1080",
+    "refreshHz": 280,
+    "panel": "IPS",
+    "inputs": "2x HDMI 2.0, 1x DisplayPort, 1x USB-C",
+    "usbCPowerW": 65,
+    "responseTimeMs": 0.5,
+    "brightnessNits": 300,
+    "adaptiveSync": "AMD FreeSync Premium, NVIDIA G-SYNC Compatible",
+    "stand": "Height 130 mm, tilt 0/+20 deg, swivel 45 deg, pivot 90 deg",
+    "curvature": "Flat"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-VIEWSONIC-XG27362K",
+   "slug": "viewsonic-xg2736-2k",
+   "name": "ViewSonic XG2736-2K 27\" QHD 240Hz IPS Gaming Monitor",
+   "brand": "ViewSonic",
+   "category": "gaming-monitors",
+   "price": "319.99",
+   "compareAt": null,
+   "warranty": 36,
+   "stock": [
+    59,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [],
+   "summary": "27-inch 1440p IPS gaming monitor at 240 Hz with HDMI 2.1, 65 W USB-C and an ergonomic stand.",
+   "description": "The XG2736-2K pairs a 27-inch 2560x1440 IPS panel at 240 Hz with 0.5 ms MPRT response and 1.07 billion colours. It has two HDMI 2.1, DisplayPort and USB-C with 65 W charging, FreeSync Premium and G-SYNC Compatible support, and a stand with 130 mm height, swivel and pivot.",
+   "keywords": "viewsonic 1440p 240hz ips usb-c",
+   "specs": {
+    "sizeIn": 27,
+    "resolution": "2560x1440",
+    "refreshHz": 240,
+    "panel": "IPS",
+    "inputs": "2x HDMI 2.1, 1x DisplayPort, 1x USB-C",
+    "usbCPowerW": 65,
+    "responseTimeMs": 0.5,
+    "brightnessNits": 300,
+    "adaptiveSync": "AMD FreeSync Premium, NVIDIA G-SYNC Compatible",
+    "stand": "Height 130 mm, tilt -5/+20 deg, swivel 45 deg, pivot 90 deg",
+    "curvature": "Flat"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-VIEWSONIC-VX2730D4K",
+   "slug": "viewsonic-vx2730d-4k",
+   "name": "ViewSonic VX2730D-4K 27\" Dual-Mode 4K 144Hz / FHD 288Hz Gaming Monitor",
+   "brand": "ViewSonic",
+   "category": "gaming-monitors",
+   "price": "279.99",
+   "compareAt": null,
+   "warranty": 36,
+   "stock": [
+    56,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [],
+   "summary": "27-inch 4K IPS gaming monitor that switches between 4K at 144 Hz and 1080p at 288 Hz.",
+   "description": "The VX2730D-4K is a 27-inch 3840x2160 IPS monitor with switchable refresh: 144 Hz at 4K or 288 Hz at Full HD, with 0.5 ms MPRT response. It has two HDMI 2.1 and one DisplayPort input, FreeSync Premium and G-SYNC Compatible support, and a stand with 120 mm height and pivot.",
+   "keywords": "viewsonic dual mode 4k 144hz 1080p 288hz",
+   "specs": {
+    "sizeIn": 27,
+    "resolution": "3840x2160",
+    "refreshHz": 144,
+    "panel": "IPS",
+    "inputs": "2x HDMI 2.1, 1x DisplayPort",
+    "responseTimeMs": 0.5,
+    "brightnessNits": 250,
+    "adaptiveSync": "AMD FreeSync Premium, NVIDIA G-SYNC Compatible",
+    "stand": "Height 120 mm, tilt -5/+20 deg, pivot 90 deg",
+    "curvature": "Flat"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-VIEWSONIC-VP27885K",
+   "slug": "viewsonic-colorpro-vp2788-5k",
+   "name": "ViewSonic ColorPro VP2788-5K 27\" 5K Thunderbolt 4 Monitor",
+   "brand": "ViewSonic",
+   "category": "professional-monitors",
+   "price": "929.99",
+   "compareAt": null,
+   "warranty": 36,
+   "stock": [
+    45,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "creator-workstations"
+   ],
+   "summary": "27-inch 5K IPS ColorPro monitor for Mac with 99% DCI-P3, 500 nits and dual Thunderbolt 4 (100 W).",
+   "description": "The ColorPro VP2788-5K is a 27-inch 5120x2880 IPS monitor with a low-reflection matte finish, 500-nit brightness, 99% DCI-P3 and HDR400. Two Thunderbolt 4 ports (100 W upstream, daisy-chain downstream), HDMI 2.1, DisplayPort and a USB hub make it a single-cable Mac dock.",
+   "keywords": "viewsonic 5k mac thunderbolt 4 colorpro",
+   "specs": {
+    "sizeIn": 27,
+    "resolution": "5120x2880",
+    "refreshHz": 60,
+    "panel": "IPS",
+    "hdr": "HDR400",
+    "colorGamut": "99% DCI-P3, 100% sRGB",
+    "inputs": "2x Thunderbolt 4, 1x HDMI 2.1, 1x DisplayPort, 2x USB-C, 2x USB-A",
+    "usbCPowerW": 100,
+    "responseTimeMs": 14,
+    "brightnessNits": 500,
+    "stand": "Height 120 mm, tilt -5/+22 deg, swivel 60 deg, pivot 90 deg",
+    "curvature": "Flat"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-VIEWSONIC-VP2776T4K",
+   "slug": "viewsonic-colorpro-vp2776t-4k",
+   "name": "ViewSonic ColorPro VP2776T-4K 27\" 4K Thunderbolt 4 Docking Monitor",
+   "brand": "ViewSonic",
+   "category": "professional-monitors",
+   "price": "699.99",
+   "compareAt": null,
+   "warranty": 36,
+   "stock": [
+    45,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "creator-workstations",
+    "developer-setup"
+   ],
+   "summary": "27-inch 4K IPS ColorPro docking monitor with 98% DCI-P3, Thunderbolt 4 (100 W) and 2.5 GbE.",
+   "description": "The ColorPro VP2776T-4K is a 27-inch 3840x2160 IPS monitor covering 98% DCI-P3 and 100% sRGB with HDR400. Two Thunderbolt 4 ports (100 W upstream), two HDMI 2.1, DisplayPort, three USB-A and 2.5 GbE Ethernet turn it into a docking station.",
+   "keywords": "viewsonic thunderbolt dock monitor 4k 2.5gbe",
+   "specs": {
+    "sizeIn": 27,
+    "resolution": "3840x2160",
+    "refreshHz": 60,
+    "panel": "IPS",
+    "hdr": "HDR400",
+    "colorGamut": "98% DCI-P3, 100% sRGB",
+    "inputs": "2x Thunderbolt 4, 2x HDMI 2.1, 1x DisplayPort, 1x USB-C, RJ45 2.5GbE",
+    "usbCPowerW": 100,
+    "responseTimeMs": 5,
+    "brightnessNits": 400,
+    "stand": "Height 120 mm, tilt -3/+22 deg, swivel 120 deg, pivot 90 deg",
+    "curvature": "Flat"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-VIEWSONIC-VP3456A",
+   "slug": "viewsonic-colorpro-vp3456a",
+   "name": "ViewSonic ColorPro VP3456a 34\" Curved UWQHD USB-C Monitor",
+   "brand": "ViewSonic",
+   "category": "ultrawide-monitors",
+   "price": "659.99",
+   "compareAt": null,
+   "warranty": 36,
+   "stock": [
+    40,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "small-business"
+   ],
+   "summary": "34-inch 3440x1440 1800R curved ColorPro monitor with 100 W USB-C, RJ45 and 99% sRGB.",
+   "description": "The ColorPro VP3456a is a 34-inch 21:9 3440x1440 VA monitor with 1800R curvature, 75 Hz, 99% sRGB and Delta E < 2. USB-C with 100 W charging, RJ45 Ethernet, DisplayPort and two HDMI 2.0 inputs support single-cable laptop setups.",
+   "keywords": "viewsonic ultrawide 34 usb-c rj45 curved",
+   "specs": {
+    "sizeIn": 34,
+    "resolution": "3440x1440",
+    "refreshHz": 75,
+    "panel": "VA",
+    "colorGamut": "99% sRGB",
+    "inputs": "1x USB-C, 1x DisplayPort, 2x HDMI 2.0, RJ45",
+    "usbCPowerW": 100,
+    "responseTimeMs": 5,
+    "brightnessNits": 400,
+    "adaptiveSync": "AMD FreeSync",
+    "stand": "Height 130 mm, tilt -6/+21 deg, swivel 120 deg",
+    "curvature": "1800R"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-VIEWSONIC-VG1457",
+   "slug": "viewsonic-vg1457",
+   "name": "ViewSonic VG1457 Dual 14\" WUXGA Portable Monitor",
+   "brand": "ViewSonic",
+   "category": "office-monitors",
+   "price": "349.99",
+   "compareAt": null,
+   "warranty": 36,
+   "stock": [
+    32,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "small-business"
+   ],
+   "summary": "Stacked dual 14-inch 1920x1200 IPS portable monitor with 65 W USB-C and a 340-degree swivel stand.",
+   "description": "The VG1457 combines two 14-inch 1920x1200 IPS screens in one 2.6 lb portable unit. Three USB-C ports with 65 W bidirectional power let one or two devices drive the screens at once, and the stand swivels 340 degrees and pivots to portrait.",
+   "keywords": "dual screen portable monitor usb-c laptop",
+   "specs": {
+    "sizeIn": 14,
+    "resolution": "1920x1200",
+    "refreshHz": 60,
+    "panel": "IPS",
+    "inputs": "3x USB-C",
+    "usbCPowerW": 65,
+    "brightnessNits": 250,
+    "stand": "340 deg swivel, 0-180 deg pivot, tilt 15/45 deg",
+    "curvature": "Flat"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-CORSAIR-XENEON34WQHD240C",
+   "slug": "corsair-xeneon-34wqhd240-c",
+   "name": "CORSAIR XENEON 34WQHD240-C 34\" Curved QD-OLED Gaming Monitor",
+   "brand": "Corsair",
+   "category": "ultrawide-monitors",
+   "price": "1199.99",
+   "compareAt": null,
+   "warranty": 36,
+   "stock": [
+    46,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "oled-displays",
+    "ultimate-gaming-setup"
+   ],
+   "summary": "34-inch 3440x1440 1800R QD-OLED ultrawide at 240 Hz with True Black 400 and 65 W USB-C.",
+   "description": "The XENEON 34WQHD240-C is a 34-inch 21:9 QD-OLED monitor with 1800R curvature, 240 Hz and 0.03 ms (GtG) response, 99% DCI-P3 and VESA DisplayHDR True Black 400. It has two HDMI 2.1, DisplayPort 1.4 and USB-C DP Alt Mode with 65 W charging, plus a four-port USB hub with KVM.",
+   "keywords": "corsair xeneon ultrawide qd-oled 240hz 1800r",
+   "specs": {
+    "sizeIn": 34,
+    "resolution": "3440x1440",
+    "refreshHz": 240,
+    "panel": "QD-OLED",
+    "hdr": "VESA DisplayHDR True Black 400",
+    "colorGamut": "99% DCI-P3, 100% sRGB",
+    "inputs": "2x HDMI 2.1, 1x DisplayPort 1.4, 1x USB-C (DP Alt)",
+    "usbCPowerW": 65,
+    "responseTimeMs": 0.03,
+    "adaptiveSync": "NVIDIA G-SYNC Compatible",
+    "stand": "Height 89 mm, VESA 100x100",
+    "curvature": "1800R"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-CORSAIR-XENEONFLEX45",
+   "slug": "corsair-xeneon-flex-45wqhd240",
+   "name": "CORSAIR XENEON FLEX 45WQHD240 45\" Bendable OLED Gaming Monitor",
+   "brand": "Corsair",
+   "category": "ultrawide-monitors",
+   "price": "1999.99",
+   "compareAt": null,
+   "warranty": 36,
+   "stock": [
+    54,
+    5
+   ],
+   "featured": true,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "oled-displays",
+    "dream-gaming"
+   ],
+   "summary": "45-inch 3440x1440 240 Hz OLED gaming monitor that bends by hand from flat to 800R.",
+   "description": "The XENEON FLEX 45WQHD240 is a 45-inch 21:9 WOLED monitor at 240 Hz with 0.03 ms (GtG) response, 98.5% DCI-P3 and up to 1,000 nits peak HDR brightness. Its panel bends from flat to an 800R curve, and it has two HDMI 2.1, DisplayPort 1.4, USB-C DP Alt Mode and a USB hub.",
+   "keywords": "corsair xeneon flex bendable oled 45 inch ultrawide",
+   "specs": {
+    "sizeIn": 45,
+    "resolution": "3440x1440",
+    "refreshHz": 240,
+    "panel": "OLED",
+    "colorGamut": "98.5% DCI-P3, 100% sRGB",
+    "inputs": "2x HDMI 2.1, 1x DisplayPort 1.4, 1x USB-C (DP Alt), 1x USB-C upstream",
+    "responseTimeMs": 0.03,
+    "brightnessNits": 1000,
+    "adaptiveSync": "AMD FreeSync Premium, NVIDIA G-SYNC Compatible",
+    "stand": "Removable legs, 22 deg tilt range",
+    "curvature": "Bendable, flat to 800R",
+    "panelDetails": "OLED (WOLED)"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-CORSAIR-XENEON32UHD144A",
+   "slug": "corsair-xeneon-32uhd144-a",
+   "name": "CORSAIR XENEON 32UHD144-A 32\" 4K 144Hz IPS Gaming Monitor",
+   "brand": "Corsair",
+   "category": "gaming-monitors",
+   "price": "799.99",
+   "compareAt": null,
+   "warranty": 36,
+   "stock": [
+    36,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [],
+   "summary": "32-inch 4K 144 Hz quantum-dot IPS monitor with DisplayHDR 600 and 100% Adobe RGB.",
+   "description": "The XENEON 32UHD144-A uses a 32-inch 3840x2160 Fast IPS panel with quantum dots at 144 Hz, covering 100% Adobe RGB and 98% DCI-P3 with VESA DisplayHDR 600. It offers two HDMI 2.1, DisplayPort 1.4 and USB-C DP Alt Mode, and a stand with 110 mm height adjustment.",
+   "keywords": "corsair xeneon 4k 144hz hdr600 ips",
+   "specs": {
+    "sizeIn": 32,
+    "resolution": "3840x2160",
+    "refreshHz": 144,
+    "panel": "IPS",
+    "hdr": "VESA DisplayHDR 600",
+    "colorGamut": "100% Adobe RGB, 98% DCI-P3, 100% sRGB",
+    "inputs": "2x HDMI 2.1, 1x DisplayPort 1.4, 1x USB-C (DP Alt)",
+    "responseTimeMs": 1,
+    "brightnessNits": 400,
+    "adaptiveSync": "AMD FreeSync Premium, NVIDIA G-SYNC Compatible",
+    "stand": "Height 110 mm, tilt -5/+20 deg",
+    "curvature": "Flat",
+    "panelDetails": "IPS (Quantum Dot)"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-CORSAIR-XENEON27QHD240",
+   "slug": "corsair-xeneon-27qhd240",
+   "name": "CORSAIR XENEON 27QHD240 27\" QHD 240Hz OLED Gaming Monitor",
+   "brand": "Corsair",
+   "category": "gaming-monitors",
+   "price": "799.99",
+   "compareAt": null,
+   "warranty": 36,
+   "stock": [
+    21,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "oled-displays"
+   ],
+   "summary": "27-inch 1440p 240 Hz OLED gaming monitor with 98.5% DCI-P3 and a height/swivel/pivot stand.",
+   "description": "The XENEON 27QHD240 is a 27-inch 2560x1440 OLED monitor at 240 Hz with 0.03 ms (GtG) response, 98.5% DCI-P3 and up to 1,000 nits peak at 3% APL. It has two HDMI 2.1, DisplayPort 1.4 and USB-C DP Alt Mode inputs and a stand with 100 mm height, tilt, swivel and pivot.",
+   "keywords": "corsair xeneon oled 1440p 240hz",
+   "specs": {
+    "sizeIn": 27,
+    "resolution": "2560x1440",
+    "refreshHz": 240,
+    "panel": "OLED",
+    "colorGamut": "98.5% DCI-P3, 100% sRGB",
+    "inputs": "2x HDMI 2.1, 1x DisplayPort 1.4, 1x USB-C (DP Alt)",
+    "responseTimeMs": 0.03,
+    "brightnessNits": 450,
+    "adaptiveSync": "NVIDIA G-SYNC Compatible",
+    "stand": "Height 100 mm, tilt, swivel, pivot",
+    "curvature": "Flat",
+    "panelDetails": "OLED (WOLED)"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-EIZO-CG3200X",
+   "slug": "eizo-coloredge-cg3200x",
+   "name": "EIZO ColorEdge CG3200X 31.5\" 4K QD-OLED Colour Management Monitor",
+   "brand": "EIZO",
+   "category": "professional-monitors",
+   "price": "5499.00",
+   "compareAt": null,
+   "warranty": 60,
+   "stock": [
+    14,
+    3
+   ],
+   "featured": true,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "oled-displays",
+    "creator-workstations"
+   ],
+   "summary": "31.5-inch 4K QD-OLED reference monitor with built-in calibration sensor, 99% DCI-P3 and HLG/PQ HDR.",
+   "description": "The ColorEdge CG3200X is EIZO's QD-OLED colour-management monitor: 31.5 inches, 3840x2160, 1,000 cd/m2 peak and 1,500,000:1 contrast, covering 99% DCI-P3 and 94% Adobe RGB with HLG and PQ curves. It has a built-in calibration sensor, USB-C with 60 W charging, DisplayPort and HDMI, and a stand with height, swivel and pivot.",
+   "keywords": "eizo coloredge oled reference hdr grading calibration sensor",
+   "specs": {
+    "sizeIn": 31.5,
+    "resolution": "3840x2160",
+    "refreshHz": 60,
+    "panel": "QD-OLED",
+    "hdr": "HLG, PQ",
+    "colorGamut": "99% DCI-P3, 94% Adobe RGB",
+    "inputs": "USB-C (DP Alt), DisplayPort, HDMI",
+    "usbCPowerW": 60,
+    "brightnessNits": 1000,
+    "stand": "Height 142 mm, tilt 35 up/5 down, swivel 344 deg, pivot 90 deg",
+    "curvature": "Flat",
+    "panelDetails": "Built-in calibration sensor; proprietary ABL control"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-EIZO-CG2700X",
+   "slug": "eizo-coloredge-cg2700x",
+   "name": "EIZO ColorEdge CG2700X 27\" 4K Colour Management Monitor",
+   "brand": "EIZO",
+   "category": "professional-monitors",
+   "price": "2999.00",
+   "compareAt": null,
+   "warranty": 60,
+   "stock": [
+    40,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "creator-workstations"
+   ],
+   "summary": "27-inch 4K IPS colour-management monitor with built-in sensor, 99% Adobe RGB, 94 W USB-C and LAN.",
+   "description": "The ColorEdge CG2700X is a 26.9-inch 3840x2160 IPS monitor with 500 cd/m2, 99% Adobe RGB and 98% DCI-P3, HLG/PQ support and a built-in calibration sensor. USB-C (94 W), DisplayPort, HDMI, gigabit LAN and a USB hub are included, with a shading hood and ColorNavigator 7.",
+   "keywords": "eizo coloredge 4k adobe rgb calibration",
+   "specs": {
+    "sizeIn": 26.9,
+    "resolution": "3840x2160",
+    "refreshHz": 60,
+    "panel": "IPS",
+    "hdr": "HLG, PQ",
+    "colorGamut": "99% Adobe RGB, 98% DCI-P3",
+    "inputs": "USB-C (DP Alt), DisplayPort, HDMI, RJ-45 LAN",
+    "usbCPowerW": 94,
+    "brightnessNits": 500,
+    "stand": "Height 155 mm, tilt 35 up/5 down, swivel 344 deg, pivot 90 deg",
+    "curvature": "Flat",
+    "panelDetails": "Built-in calibration sensor; light-shielding hood included"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-EIZO-CS2740",
+   "slug": "eizo-coloredge-cs2740",
+   "name": "EIZO ColorEdge CS2740 27\" 4K Colour Management Monitor",
+   "brand": "EIZO",
+   "category": "professional-monitors",
+   "price": "1899.00",
+   "compareAt": null,
+   "warranty": 60,
+   "stock": [
+    48,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "creator-workstations"
+   ],
+   "summary": "27-inch 4K IPS ColorEdge monitor with 99% Adobe RGB and single-cable USB-C (60 W).",
+   "description": "The ColorEdge CS2740 is a 26.9-inch 3840x2160 IPS monitor covering 99% Adobe RGB, with hardware calibration support and optional HLG/PQ curves. It connects over USB-C (DP Alt Mode, 60 W), DisplayPort or HDMI, on a stand with 155 mm height, 344-degree swivel and pivot.",
+   "keywords": "eizo coloredge cs2740 adobe rgb photo",
+   "specs": {
+    "sizeIn": 26.9,
+    "resolution": "3840x2160",
+    "refreshHz": 60,
+    "panel": "IPS",
+    "hdr": "Optional HLG/PQ",
+    "colorGamut": "99% Adobe RGB",
+    "inputs": "USB-C (DP Alt), DisplayPort, HDMI",
+    "usbCPowerW": 60,
+    "brightnessNits": 350,
+    "stand": "Height 155 mm, tilt 35 up/5 down, swivel 344 deg, pivot 90 deg",
+    "curvature": "Flat"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-EIZO-EV2740X",
+   "slug": "eizo-flexscan-ev2740x",
+   "name": "EIZO FlexScan EV2740X 27\" 4K USB-C Monitor",
+   "brand": "EIZO",
+   "category": "office-monitors",
+   "price": "1199.00",
+   "compareAt": null,
+   "warranty": 60,
+   "stock": [
+    28,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "small-business",
+    "developer-setup"
+   ],
+   "summary": "27-inch 4K IPS business monitor with 94 W USB-C, LAN via USB-C and a 195 mm FlexStand.",
+   "description": "The FlexScan EV2740X is a frameless 27-inch 3840x2160 IPS monitor for business. A single USB-C cable carries video, 94 W charging and gigabit LAN, alongside DisplayPort, two HDMI and a USB hub; the removable FlexStand offers 195 mm height, swivel and pivot.",
+   "keywords": "eizo flexscan 4k usb-c business",
+   "specs": {
+    "sizeIn": 27,
+    "resolution": "3840x2160",
+    "refreshHz": 60,
+    "panel": "IPS",
+    "colorGamut": "sRGB",
+    "inputs": "USB-C (DP Alt), DisplayPort, 2x HDMI, RJ-45 LAN",
+    "usbCPowerW": 94,
+    "brightnessNits": 350,
+    "stand": "Height 195 mm, tilt 35 up/5 down, swivel 90 deg, pivot 90 deg",
+    "curvature": "Flat"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-EIZO-EV3450XC",
+   "slug": "eizo-flexscan-ev3450xc",
+   "name": "EIZO FlexScan EV3450XC 34\" Curved Ultrawide Monitor with Webcam",
+   "brand": "EIZO",
+   "category": "ultrawide-monitors",
+   "price": "1399.00",
+   "compareAt": null,
+   "warranty": 60,
+   "stock": [
+    50,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "small-business"
+   ],
+   "summary": "34.1-inch 3440x1440 curved IPS ultrawide with 5 MP webcam, microphone, 94 W USB-C and LAN.",
+   "description": "The FlexScan EV3450XC is a curved 34.1-inch 3440x1440 IPS monitor and EIZO's first with a built-in 5 MP webcam (Windows Hello) and noise-cancelling microphone. USB-C with 94 W charging and gigabit LAN, DisplayPort, two HDMI and 4 W + 4 W speakers make it a single-cable conferencing workstation.",
+   "keywords": "eizo ultrawide webcam conferencing usb-c",
+   "specs": {
+    "sizeIn": 34.1,
+    "resolution": "3440x1440",
+    "refreshHz": 60,
+    "panel": "IPS",
+    "inputs": "USB-C (DP Alt), DisplayPort, 2x HDMI, RJ-45 LAN",
+    "usbCPowerW": 94,
+    "brightnessNits": 300,
+    "stand": "Removable FlexStand, VESA 100x100",
+    "curvature": "Curved",
+    "panelDetails": "Built-in 5 MP webcam with Windows Hello and microphone"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-AOC-AG276QSG2",
+   "slug": "aoc-agon-pro-ag276qsg2",
+   "name": "AOC AGON PRO AG276QSG2 27\" QHD 360Hz G-SYNC Pulsar Gaming Monitor",
+   "brand": "AOC",
+   "category": "gaming-monitors",
+   "price": "599.99",
+   "compareAt": null,
+   "warranty": 36,
+   "stock": [
+    47,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "gaming-monsters"
+   ],
+   "summary": "27-inch 1440p Fast IPS esports monitor at 360 Hz with NVIDIA G-SYNC Pulsar and ULMB 2.",
+   "description": "The AGON PRO AG276QSG2 is a 27-inch 2560x1440 Fast IPS monitor running at 360 Hz with 1 ms (GtG) response, 450 nits and 97.3% DCI-P3. It supports NVIDIA G-SYNC Pulsar, ULMB 2 and G-SYNC Ambient Adaptive, with three HDMI 2.1, DisplayPort 1.4 and a USB hub on a height/swivel/pivot stand.",
+   "keywords": "aoc agon pro 360hz gsync pulsar esports 1440p",
+   "specs": {
+    "sizeIn": 27,
+    "resolution": "2560x1440",
+    "refreshHz": 360,
+    "panel": "IPS",
+    "hdr": "HDR10",
+    "colorGamut": "97.3% DCI-P3, 94.8% Adobe RGB",
+    "inputs": "3x HDMI 2.1, 1x DisplayPort 1.4, USB hub",
+    "responseTimeMs": 1,
+    "brightnessNits": 450,
+    "adaptiveSync": "NVIDIA G-SYNC Pulsar, G-SYNC Compatible, ULMB 2",
+    "stand": "Height 130 mm, tilt -3.5/+18.5 deg, swivel +/-18.5 deg, pivot 90 deg",
+    "curvature": "Flat",
+    "panelDetails": "Fast IPS"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-AOC-Q27G41ZDF",
+   "slug": "aoc-agon-q27g41zdf",
+   "name": "AOC Q27G41ZDF 27\" QHD 240Hz QD-OLED Gaming Monitor",
+   "brand": "AOC",
+   "category": "gaming-monitors",
+   "price": "329.99",
+   "compareAt": null,
+   "warranty": 36,
+   "stock": [
+    30,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "oled-displays"
+   ],
+   "summary": "26.5-inch 1440p QD-OLED gaming monitor at 240 Hz and 0.03 ms with 99% DCI-P3.",
+   "description": "The Q27G41ZDF is an affordable 26.5-inch 2560x1440 QD-OLED monitor at 240 Hz with 0.03 ms (GtG) response, 99.1% DCI-P3 and HDR10. It has HDMI 2.0 and DisplayPort 1.4 inputs, Adaptive Sync with G-SYNC Compatible support and a tilt stand with VESA mounting.",
+   "keywords": "aoc cheap qd-oled 240hz 1440p",
+   "specs": {
+    "sizeIn": 26.5,
+    "resolution": "2560x1440",
+    "refreshHz": 240,
+    "panel": "QD-OLED",
+    "hdr": "HDR10",
+    "colorGamut": "99.1% DCI-P3, 98% Adobe RGB",
+    "inputs": "1x HDMI 2.0, 1x DisplayPort 1.4",
+    "responseTimeMs": 0.03,
+    "brightnessNits": 400,
+    "adaptiveSync": "Adaptive Sync, NVIDIA G-SYNC Compatible",
+    "stand": "Tilt -3/+21.5 deg, VESA 100x100",
+    "curvature": "Flat"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-BENQ-EX480UZ",
+   "slug": "benq-mobiuz-ex480uz",
+   "name": "BenQ MOBIUZ EX480UZ 48\" 4K 120Hz OLED Gaming Monitor",
+   "brand": "BenQ",
+   "category": "gaming-monitors",
+   "price": "1299.99",
+   "compareAt": null,
+   "warranty": 36,
+   "stock": [
+    13,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "oled-displays"
+   ],
+   "summary": "48-inch 4K 120 Hz OLED gaming monitor with HDMI 2.1, 90 W USB-C and a remote.",
+   "description": "The MOBIUZ EX480UZ is a 48-inch 3840x2160 OLED display at 120 Hz with 0.1 ms (GtG) response, 98% P3 and HDR10, aimed at console and PC gaming. It has two HDMI 2.1, DisplayPort 1.4 and USB-C with 90 W charging, built-in speakers and a remote control.",
+   "keywords": "benq 48 inch oled console 4k 120hz",
+   "specs": {
+    "sizeIn": 48,
+    "resolution": "3840x2160",
+    "refreshHz": 120,
+    "panel": "OLED",
+    "hdr": "HDR10",
+    "colorGamut": "98% P3",
+    "inputs": "2x HDMI 2.1, 1x DisplayPort 1.4, 1x USB-C",
+    "usbCPowerW": 90,
+    "responseTimeMs": 0.1,
+    "brightnessNits": 450,
+    "adaptiveSync": "AMD FreeSync Premium",
+    "stand": "Tilt -2/+15 deg",
+    "curvature": "Flat",
+    "panelDetails": "OLED (WOLED)"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-BENQ-EX3415R",
+   "slug": "benq-mobiuz-ex3415r",
+   "name": "BenQ MOBIUZ EX3415R 34\" Curved UWQHD 144Hz Gaming Monitor",
+   "brand": "BenQ",
+   "category": "ultrawide-monitors",
+   "price": "699.99",
+   "compareAt": null,
+   "warranty": 36,
+   "stock": [
+    15,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [],
+   "summary": "34-inch 3440x1440 1900R curved IPS gaming ultrawide at 144 Hz with DisplayHDR 400.",
+   "description": "The MOBIUZ EX3415R is a 34-inch 21:9 3440x1440 IPS monitor with 1900R curvature, 144 Hz over DisplayPort (120 Hz over HDMI), 98% P3 and VESA DisplayHDR 400. It has DisplayPort 1.4, two HDMI 2.0, a USB hub, FreeSync Premium and a remote control.",
+   "keywords": "benq ultrawide curved 144hz 3440x1440",
+   "specs": {
+    "sizeIn": 34,
+    "resolution": "3440x1440",
+    "refreshHz": 144,
+    "panel": "IPS",
+    "hdr": "HDR10, VESA DisplayHDR 400",
+    "colorGamut": "98% P3",
+    "inputs": "1x DisplayPort 1.4, 2x HDMI 2.0, USB hub",
+    "responseTimeMs": 1,
+    "brightnessNits": 200,
+    "adaptiveSync": "AMD FreeSync Premium",
+    "stand": "Height 100 mm, tilt -5/+15 deg, swivel 15/15 deg",
+    "curvature": "1900R"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-BENQ-PD3420Q",
+   "slug": "benq-pd3420q",
+   "name": "BenQ PD3420Q 34\" WQHD Ultrawide Designer Monitor",
+   "brand": "BenQ",
+   "category": "ultrawide-monitors",
+   "price": "599.99",
+   "compareAt": null,
+   "warranty": 36,
+   "stock": [
+    16,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "creator-workstations"
+   ],
+   "summary": "34-inch 3440x1440 IPS ultrawide designer monitor with 98% P3, DisplayHDR 400 and 65 W USB-C.",
+   "description": "The PD3420Q is a 34-inch 21:9 3440x1440 IPS monitor for designers covering 98% P3 and 100% sRGB/Rec.709 with VESA DisplayHDR 400. It has two HDMI 2.0, DisplayPort 1.4 and USB-C with 65 W charging, plus a stand with 150 mm height and swivel.",
+   "keywords": "benq ultrawide designer usb-c p3",
+   "specs": {
+    "sizeIn": 34,
+    "resolution": "3440x1440",
+    "refreshHz": 60,
+    "panel": "IPS",
+    "hdr": "HDR10, VESA DisplayHDR 400",
+    "colorGamut": "98% P3, 100% sRGB, 100% Rec.709",
+    "inputs": "2x HDMI 2.0, 1x DisplayPort 1.4, 1x USB-C (DP Alt)",
+    "usbCPowerW": 65,
+    "responseTimeMs": 5,
+    "brightnessNits": 350,
+    "stand": "Height 150 mm, tilt -5/+20 deg, swivel 30/30 deg",
+    "curvature": "Flat"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-BENQ-SW272Q",
+   "slug": "benq-sw272q",
+   "name": "BenQ SW272Q 27\" 2K Photographer Monitor",
+   "brand": "BenQ",
+   "category": "professional-monitors",
+   "price": "1099.99",
+   "compareAt": null,
+   "warranty": 36,
+   "stock": [
+    26,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "creator-workstations"
+   ],
+   "summary": "27-inch 2560x1440 IPS photo monitor with 99% Adobe RGB, 90 W USB-C and an SD card reader.",
+   "description": "The SW272Q is a 27-inch 2560x1440 IPS monitor for photographers covering 99% Adobe RGB, 98% P3 and 100% sRGB with HDR10. It has two HDMI 2.0, DisplayPort 1.4, USB-C with 90 W charging and an SD card reader, plus a stand with 140 mm height, swivel and pivot.",
+   "keywords": "benq photographer adobe rgb 1440p",
+   "specs": {
+    "sizeIn": 27,
+    "resolution": "2560x1440",
+    "refreshHz": 60,
+    "panel": "IPS",
+    "hdr": "HDR10",
+    "colorGamut": "99% Adobe RGB, 98% P3, 100% sRGB",
+    "inputs": "2x HDMI 2.0, 1x DisplayPort 1.4, 1x USB-C, SD card reader",
+    "usbCPowerW": 90,
+    "responseTimeMs": 5,
+    "brightnessNits": 300,
+    "stand": "Height 140 mm, tilt -5/+20 deg, swivel 30/30 deg, pivot 90 deg",
+    "curvature": "Flat"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-BENQ-MA320UG",
+   "slug": "benq-ma320ug",
+   "name": "BenQ MA320UG 32\" 4K 120Hz Monitor for MacBook",
+   "brand": "BenQ",
+   "category": "professional-monitors",
+   "price": "999.99",
+   "compareAt": null,
+   "warranty": 36,
+   "stock": [
+    28,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "creator-workstations",
+    "developer-setup"
+   ],
+   "summary": "31.5-inch 4K 120 Hz Nano Gloss IPS monitor for Mac with Thunderbolt 4 (96 W) and DisplayHDR 400.",
+   "description": "The MA320UG is a 31.5-inch 3840x2160 IPS monitor with a Nano Gloss coating, 120 Hz, 450 nits, 98% P3 and VESA DisplayHDR 400, tuned for MacBooks. It has Thunderbolt 4 in (96 W) and out, a 35 W USB-C input, two HDMI 2.1 and a USB hub, on a stand with height, swivel and pivot.",
+   "keywords": "benq mac monitor 4k 120hz thunderbolt 4",
+   "specs": {
+    "sizeIn": 31.5,
+    "resolution": "3840x2160",
+    "refreshHz": 120,
+    "panel": "IPS",
+    "hdr": "HDR10, VESA DisplayHDR 400",
+    "colorGamut": "98% P3, 99% sRGB",
+    "inputs": "1x Thunderbolt 4 in, 1x Thunderbolt 4 out, 1x USB-C, 2x HDMI 2.1",
+    "usbCPowerW": 96,
+    "responseTimeMs": 5,
+    "brightnessNits": 450,
+    "stand": "Height 150 mm, tilt -5/+20 deg, swivel 15/15 deg, pivot 90 deg",
+    "curvature": "Flat"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-VIEWSONIC-VX1754",
+   "slug": "viewsonic-vx1754",
+   "name": "ViewSonic VX1754 17.3\" FHD 144Hz Portable Gaming Monitor",
+   "brand": "ViewSonic",
+   "category": "gaming-monitors",
+   "price": "199.99",
+   "compareAt": null,
+   "warranty": 36,
+   "stock": [
+    28,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [],
+   "summary": "17.3-inch 1080p 144 Hz IPS portable gaming monitor with dual 60 W USB-C and mini-HDMI.",
+   "description": "The VX1754 is a 2 lb, 0.7-inch-thin 17.3-inch 1920x1080 IPS portable monitor running at 144 Hz with FreeSync. Two USB-C ports with 60 W bidirectional charging and a mini-HDMI input connect laptops and consoles; a built-in stand supports portrait and landscape.",
+   "keywords": "portable gaming monitor 144hz usb-c console travel",
+   "specs": {
+    "sizeIn": 17.3,
+    "resolution": "1920x1080",
+    "refreshHz": 144,
+    "panel": "IPS",
+    "inputs": "2x USB-C, 1x mini-HDMI",
+    "usbCPowerW": 60,
+    "responseTimeMs": 4,
+    "brightnessNits": 250,
+    "adaptiveSync": "AMD FreeSync",
+    "stand": "Built-in stand, portrait/landscape",
+    "curvature": "Flat"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-VIEWSONIC-VP3256A4K",
+   "slug": "viewsonic-colorpro-vp3256a-4k",
+   "name": "ViewSonic ColorPro VP3256a-4K 32\" 4K USB-C Monitor",
+   "brand": "ViewSonic",
+   "category": "professional-monitors",
+   "price": "559.99",
+   "compareAt": null,
+   "warranty": 36,
+   "stock": [
+    37,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "creator-workstations",
+    "small-business"
+   ],
+   "summary": "32-inch 4K IPS ColorPro monitor with Pantone validation, Delta E < 2 and 100 W USB-C.",
+   "description": "The ColorPro VP3256a-4K is a 32-inch 3840x2160 IPS monitor with 100% sRGB, factory calibration (Delta E < 2) and Pantone validation. USB-C with 100 W charging, two HDMI 2.1, DisplayPort and a USB hub support single-cable laptop setups on a stand with height, swivel and pivot.",
+   "keywords": "viewsonic 32 4k usb-c 100w pantone",
+   "specs": {
+    "sizeIn": 32,
+    "resolution": "3840x2160",
+    "refreshHz": 60,
+    "panel": "IPS",
+    "colorGamut": "100% sRGB",
+    "inputs": "1x USB-C, 2x HDMI 2.1, 1x DisplayPort, 3x USB-A",
+    "usbCPowerW": 100,
+    "responseTimeMs": 5,
+    "brightnessNits": 350,
+    "stand": "Height 130 mm, tilt -5/+21 deg, swivel 120 deg, pivot 90 deg",
+    "curvature": "Flat"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-BENQ-EX321UX",
+   "slug": "benq-mobiuz-ex321ux",
+   "name": "BenQ MOBIUZ EX321UX 32\" 4K 144Hz Mini LED Gaming Monitor",
+   "brand": "BenQ",
+   "category": "gaming-monitors",
+   "price": "1299.99",
+   "compareAt": null,
+   "warranty": 36,
+   "stock": [
+    46,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [],
+   "summary": "31.5-inch 4K 144 Hz Mini LED gaming monitor with 1152 dimming zones and DisplayHDR 1000.",
+   "description": "The MOBIUZ EX321UX uses a 31.5-inch 3840x2160 IPS panel with a 1152-zone Mini LED backlight, running at 144 Hz with 1 ms (GtG) response, 700 nits typical and 1,000 nits peak (VESA DisplayHDR 1000), covering 99% Adobe RGB and 99% P3. It has three HDMI 2.1 (one eARC), DisplayPort 2.1 and USB-C with 65 W charging.",
+   "keywords": "benq mini led 4k 144hz hdr1000",
+   "specs": {
+    "sizeIn": 31.5,
+    "resolution": "3840x2160",
+    "refreshHz": 144,
+    "panel": "IPS Mini LED",
+    "hdr": "HDR10, VESA DisplayHDR 1000",
+    "colorGamut": "99% Adobe RGB, 99% P3",
+    "inputs": "3x HDMI 2.1 (1 eARC), 1x DisplayPort 2.1, 1x USB-C upstream",
+    "usbCPowerW": 65,
+    "responseTimeMs": 1,
+    "brightnessNits": 700,
+    "adaptiveSync": "AMD FreeSync Premium Pro",
+    "stand": "Height 100 mm, tilt -5/+15 deg, swivel 15/15 deg",
+    "curvature": "Flat",
+    "panelDetails": "IPS Mini LED (1152 zones)"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-BENQ-SW242Q",
+   "slug": "benq-sw242q",
+   "name": "BenQ SW242Q 24\" 2K Photographer Monitor",
+   "brand": "BenQ",
+   "category": "professional-monitors",
+   "price": "699.99",
+   "compareAt": null,
+   "warranty": 36,
+   "stock": [
+    35,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "creator-workstations"
+   ],
+   "summary": "24.1-inch 2560x1600 IPS photo monitor with 99% Adobe RGB, 98% P3 and 90 W USB-C.",
+   "description": "The SW242Q is a compact 24.1-inch 16:10 2560x1600 IPS monitor for photographers covering 99% Adobe RGB, 98% P3 and 100% sRGB with HDR10 and 400 nits. It has DisplayPort 1.4, HDMI 2.0 and USB-C with 90 W charging, on a stand with height, swivel and pivot.",
+   "keywords": "benq photographer 16:10 adobe rgb compact",
+   "specs": {
+    "sizeIn": 24.1,
+    "resolution": "2560x1600",
+    "refreshHz": 60,
+    "panel": "IPS",
+    "hdr": "HDR10",
+    "colorGamut": "99% Adobe RGB, 98% P3, 100% sRGB",
+    "inputs": "1x DisplayPort 1.4, 1x HDMI 2.0, 1x USB-C (DP Alt)",
+    "usbCPowerW": 90,
+    "responseTimeMs": 5,
+    "brightnessNits": 400,
+    "stand": "Height 120 mm, tilt -5/+20 deg, swivel 30/30 deg, pivot 90 deg",
+    "curvature": "Flat"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-BENQ-PD2706U",
+   "slug": "benq-pd2706u",
+   "name": "BenQ PD2706U 27\" 4K USB-C Designer Monitor",
+   "brand": "BenQ",
+   "category": "professional-monitors",
+   "price": "549.99",
+   "compareAt": null,
+   "warranty": 36,
+   "stock": [
+    31,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "creator-workstations",
+    "developer-setup"
+   ],
+   "summary": "27-inch 4K IPS designer monitor with 95% P3, DisplayHDR 400 and 90 W USB-C.",
+   "description": "The PD2706U is a 27-inch 3840x2160 IPS monitor for designers covering 95% P3 and 100% sRGB/Rec.709 with VESA DisplayHDR 400. It has DisplayPort 1.4, HDMI 2.0 and USB-C with 90 W charging, plus a stand with height, swivel and pivot and the Hotkey Puck.",
+   "keywords": "benq 4k usb-c designer monitor",
+   "specs": {
+    "sizeIn": 27,
+    "resolution": "3840x2160",
+    "refreshHz": 60,
+    "panel": "IPS",
+    "hdr": "HDR10, VESA DisplayHDR 400",
+    "colorGamut": "95% P3, 100% sRGB, 100% Rec.709",
+    "inputs": "1x DisplayPort 1.4, 1x HDMI 2.0, 1x USB-C upstream, 1x USB-C downstream",
+    "usbCPowerW": 90,
+    "responseTimeMs": 5,
+    "brightnessNits": 350,
+    "stand": "Height 110 mm, tilt -5/+20 deg, swivel +/-15 deg, pivot 90 deg",
+    "curvature": "Flat"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-EIZO-CG2700S",
+   "slug": "eizo-coloredge-cg2700s",
+   "name": "EIZO ColorEdge CG2700S 27\" WQHD Colour Management Monitor",
+   "brand": "EIZO",
+   "category": "professional-monitors",
+   "price": "1999.00",
+   "compareAt": null,
+   "warranty": 60,
+   "stock": [
+    40,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "creator-workstations"
+   ],
+   "summary": "27-inch 2560x1440 IPS colour-management monitor with built-in sensor, 99% Adobe RGB and 92 W USB-C.",
+   "description": "The ColorEdge CG2700S is a 27-inch 2560x1440 IPS monitor with a wide-gamut backlight covering 99% Adobe RGB and 98% DCI-P3, HLG/PQ curves and a built-in calibration sensor. It connects over USB-C (92 W), DisplayPort or HDMI, with LAN via USB-C and a fully adjustable stand.",
+   "keywords": "eizo coloredge wqhd calibration sensor",
+   "specs": {
+    "sizeIn": 27,
+    "resolution": "2560x1440",
+    "refreshHz": 60,
+    "panel": "IPS",
+    "hdr": "HLG, PQ",
+    "colorGamut": "99% Adobe RGB, 98% DCI-P3",
+    "inputs": "USB-C (DP Alt), DisplayPort, HDMI",
+    "usbCPowerW": 92,
+    "brightnessNits": 400,
+    "stand": "Height, tilt, swivel, pivot",
+    "curvature": "Flat",
+    "panelDetails": "Built-in calibration sensor; 10-bit simultaneous display"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-EIZO-EV3895",
+   "slug": "eizo-flexscan-ev3895",
+   "name": "EIZO FlexScan EV3895 37.5\" Curved UWQHD+ USB-C Monitor",
+   "brand": "EIZO",
+   "category": "ultrawide-monitors",
+   "price": "1699.00",
+   "compareAt": null,
+   "warranty": 60,
+   "stock": [
+    27,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "small-business",
+    "developer-setup"
+   ],
+   "summary": "37.5-inch 3840x1600 curved IPS ultrawide with 85 W USB-C, LAN and a 193 mm height-adjustable stand.",
+   "description": "The FlexScan EV3895 is a curved 37.5-inch 3840x1600 (24:10) IPS monitor with 100% sRGB and 94% DCI-P3. USB-C with 85 W charging and gigabit LAN, DisplayPort, two HDMI and a four-port USB hub make it a single-cable docking display, on a stand with 192.7 mm height, tilt and swivel.",
+   "keywords": "eizo 38 inch ultrawide usb-c curved",
+   "specs": {
+    "sizeIn": 37.5,
+    "resolution": "3840x1600",
+    "refreshHz": 60,
+    "panel": "IPS",
+    "colorGamut": "100% sRGB, 94% DCI-P3",
+    "inputs": "USB-C (DP Alt), DisplayPort, 2x HDMI, RJ-45 LAN",
+    "usbCPowerW": 85,
+    "responseTimeMs": 5,
+    "brightnessNits": 300,
+    "stand": "Height 192.7 mm, tilt 35 up/5 down, swivel 70 deg",
+    "curvature": "Curved"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-EIZO-EV2495",
+   "slug": "eizo-flexscan-ev2495",
+   "name": "EIZO FlexScan EV2495 24.1\" WUXGA USB-C Docking Monitor",
+   "brand": "EIZO",
+   "category": "office-monitors",
+   "price": "649.00",
+   "compareAt": null,
+   "warranty": 60,
+   "stock": [
+    46,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "small-business"
+   ],
+   "summary": "24.1-inch 1920x1200 IPS docking monitor with 70 W USB-C, LAN, KVM and daisy chain.",
+   "description": "The FlexScan EV2495 is a frameless 24.1-inch 16:10 1920x1200 IPS monitor built as a USB-C dock: 70 W charging, gigabit LAN, a KVM switch, three USB-A ports and daisy chain for up to four displays. The stand offers 182 mm height, 344-degree swivel and pivot, backed by a 5-year warranty.",
+   "keywords": "eizo usb-c dock monitor 16:10 daisy chain",
+   "specs": {
+    "sizeIn": 24.1,
+    "resolution": "1920x1200",
+    "refreshHz": 60,
+    "panel": "IPS",
+    "inputs": "USB-C (DP Alt), DisplayPort, HDMI, RJ-45 LAN",
+    "usbCPowerW": 70,
+    "brightnessNits": 350,
+    "stand": "Height 182 mm, tilt 35 up/5 down, swivel 344 deg, pivot 90 deg",
+    "curvature": "Flat",
+    "colors": "White, Black"
+   },
+   "options": [
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "White",
+       "default": true,
+       "image": {
+        "small": "/images/catalog/eizo-flexscan-ev2495--white-400.webp",
+        "large": "/images/catalog/eizo-flexscan-ev2495--white-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "EIZO FlexScan EV2495 24-inch USB-C monitor in White, front view"
+       }
+      },
+      {
+       "label": "Black",
+       "image": {
+        "small": "/images/catalog/eizo-flexscan-ev2495--black-400.webp",
+        "large": "/images/catalog/eizo-flexscan-ev2495--black-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "EIZO FlexScan EV2495 24-inch USB-C monitor in Black, front view"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "sku": "TK-EIZO-EV3240X",
+   "slug": "eizo-flexscan-ev3240x",
+   "name": "EIZO FlexScan EV3240X 31.5\" 4K USB-C Monitor",
+   "brand": "EIZO",
+   "category": "office-monitors",
+   "price": "1399.00",
+   "compareAt": null,
+   "warranty": 60,
+   "stock": [
+    10,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "small-business",
+    "developer-setup"
+   ],
+   "summary": "31.5-inch 4K IPS business monitor with 94 W USB-C, built-in LAN and a 195 mm height stand.",
+   "description": "The FlexScan EV3240X is a four-side frameless 31.5-inch 3840x2160 IPS monitor with 2000:1 contrast. USB-C with 94 W charging, built-in gigabit LAN, DisplayPort, two HDMI and a USB hub support single-cable workstations, on a stand with 195 mm height, swivel and pivot.",
+   "keywords": "eizo 32 inch 4k usb-c lan business",
+   "specs": {
+    "sizeIn": 31.5,
+    "resolution": "3840x2160",
+    "refreshHz": 60,
+    "panel": "IPS",
+    "colorGamut": "sRGB",
+    "inputs": "USB-C (DP Alt), DisplayPort, 2x HDMI, RJ-45 LAN",
+    "usbCPowerW": 94,
+    "responseTimeMs": 5,
+    "brightnessNits": 350,
+    "stand": "Height 195 mm, tilt 35 up/5 down, swivel 90 deg, pivot 90 deg",
+    "curvature": "Flat"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-EIZO-FLT",
+   "slug": "eizo-flexscan-flt",
+   "name": "EIZO FlexScan FLT 23.8\" Low-Power USB-C Monitor",
+   "brand": "EIZO",
+   "category": "office-monitors",
+   "price": "449.00",
+   "compareAt": null,
+   "warranty": 60,
+   "stock": [
+    42,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "small-business"
+   ],
+   "summary": "23.8-inch 1080p IPS eco monitor drawing about 6 W, powered and driven by a single 60 W USB-C cable, with a removable arm.",
+   "description": "The FlexScan FLT is a 23.8-inch 1920x1080 IPS monitor designed around low energy use: typical power consumption is about 6 W and it is TCO Certified Gen 10 and EPEAT Gold. A single USB-C input carries video and up to 60 W of laptop charging, and the FLT-BK model ships with a removable monitor arm.",
+   "keywords": "eizo low power eco monitor usb-c arm",
+   "specs": {
+    "sizeIn": 23.8,
+    "resolution": "1920x1080",
+    "refreshHz": 60,
+    "panel": "IPS",
+    "inputs": "1x USB-C (DP Alt)",
+    "usbCPowerW": 60,
+    "brightnessNits": 250,
+    "stand": "Removable monitor arm (FLT-BK)",
+    "curvature": "Flat",
+    "panelDetails": "Typical power consumption about 6 W; TCO Certified Gen 10, EPEAT Gold"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-EIZO-CS2400S",
+   "slug": "eizo-coloredge-cs2400s",
+   "name": "EIZO ColorEdge CS2400S 24.1\" WUXGA Colour Management Monitor",
+   "brand": "EIZO",
+   "category": "professional-monitors",
+   "price": "1049.00",
+   "compareAt": null,
+   "warranty": 60,
+   "stock": [
+    47,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "creator-workstations"
+   ],
+   "summary": "24.1-inch 1920x1200 IPS ColorEdge monitor with 99% Adobe RGB, 16-bit LUT and 70 W USB-C.",
+   "description": "The ColorEdge CS2400S is a 24.1-inch 16:10 1920x1200 IPS monitor with a wide-gamut backlight covering 99% Adobe RGB and 10-bit display from a 16-bit LUT, calibrated with ColorNavigator 7. It connects over USB-C (70 W), DisplayPort or HDMI on a stand with 155 mm height, swivel and pivot.",
+   "keywords": "eizo coloredge 24 inch adobe rgb photo",
+   "specs": {
+    "sizeIn": 24.1,
+    "resolution": "1920x1200",
+    "refreshHz": 60,
+    "panel": "IPS",
+    "colorGamut": "99% Adobe RGB",
+    "inputs": "USB-C (DP Alt), DisplayPort, HDMI",
+    "usbCPowerW": 70,
+    "brightnessNits": 410,
+    "stand": "Height 155 mm, tilt 35 up/5 down, swivel 344 deg, pivot 90 deg",
+    "curvature": "Flat"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-AOC-C27G4ZH",
+   "slug": "aoc-c27g4zh",
+   "name": "AOC C27G4ZH 27\" Curved FHD 280Hz Gaming Monitor",
+   "brand": "AOC",
+   "category": "gaming-monitors",
+   "price": "199.99",
+   "compareAt": null,
+   "warranty": 36,
+   "stock": [
+    32,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [],
+   "summary": "27-inch 1500R curved 1080p VA gaming monitor running at 280 Hz with 0.3 ms MPRT.",
+   "description": "The C27G4ZH is a 27-inch 1920x1080 VA gaming monitor with a 1500R curve, 280 Hz over DisplayPort 1.4 and 0.3 ms MPRT response, with Adaptive Sync from 48 to 280 Hz. Inputs are two HDMI 2.0 and one DisplayPort 1.4.",
+   "keywords": "aoc curved 280hz budget esports",
+   "specs": {
+    "sizeIn": 27,
+    "resolution": "1920x1080",
+    "refreshHz": 280,
+    "panel": "VA",
+    "inputs": "2x HDMI 2.0, 1x DisplayPort 1.4",
+    "responseTimeMs": 0.3,
+    "brightnessNits": 300,
+    "adaptiveSync": "Adaptive Sync (48-280 Hz)",
+    "curvature": "1500R"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-VIEWSONIC-VX34182K",
+   "slug": "viewsonic-vx3418-2k",
+   "name": "ViewSonic VX3418-2K 34\" UWQHD 165Hz Gaming Monitor",
+   "brand": "ViewSonic",
+   "category": "ultrawide-monitors",
+   "price": "279.99",
+   "compareAt": null,
+   "warranty": 36,
+   "stock": [
+    30,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [],
+   "summary": "34-inch 3440x1440 21:9 VA gaming ultrawide at 165 Hz with FreeSync Premium and a 140 mm height stand.",
+   "description": "The VX3418-2K is a 34-inch 21:9 3440x1440 MVA monitor running at 165 Hz over DisplayPort with 1 ms MPRT response and 4,000:1 contrast. It has two HDMI 2.0 and DisplayPort 1.4, AMD FreeSync Premium, and a stand with 140 mm height, tilt and swivel.",
+   "keywords": "viewsonic cheap ultrawide 165hz 3440x1440",
+   "specs": {
+    "sizeIn": 34,
+    "resolution": "3440x1440",
+    "refreshHz": 165,
+    "panel": "VA",
+    "inputs": "2x HDMI 2.0, 1x DisplayPort 1.4",
+    "responseTimeMs": 1,
+    "brightnessNits": 300,
+    "adaptiveSync": "AMD FreeSync Premium",
+    "stand": "Height 140 mm, tilt -5/+20 deg, swivel 90 deg"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-BENQ-RD280UG",
+   "slug": "benq-rd280ug",
+   "name": "BenQ RD280UG 28\" 4K+ 120Hz Programming Monitor",
+   "brand": "BenQ",
+   "category": "office-monitors",
+   "price": "699.99",
+   "compareAt": null,
+   "warranty": 36,
+   "stock": [
+    40,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "developer-setup",
+    "developer-favorites"
+   ],
+   "summary": "28.2-inch 3:2 3840x2560 coding monitor at 120 Hz with MoonHalo backlight, Nano Matte panel and 90 W USB-C.",
+   "description": "The RD280UG is the 120 Hz version of BenQ's 3:2 programming monitor: a 28.2-inch 3840x2560 Nano Matte IPS panel with 95% P3, DisplayHDR 400 and coding colour modes. It has HDMI 2.1, DisplayPort 1.4 and USB-C with 90 W charging, a rear MoonHalo light and a 150 mm height stand with pivot.",
+   "keywords": "benq programming 120hz 3:2 coding monitor",
+   "specs": {
+    "sizeIn": 28.2,
+    "resolution": "3840x2560",
+    "refreshHz": 120,
+    "panel": "IPS",
+    "hdr": "HDR10, VESA DisplayHDR 400",
+    "colorGamut": "95% P3",
+    "inputs": "1x HDMI 2.1, 1x DisplayPort 1.4, 1x USB-C (DP Alt)",
+    "usbCPowerW": 90,
+    "responseTimeMs": 5,
+    "brightnessNits": 350,
+    "stand": "Height 150 mm, tilt -5/+20 deg, swivel +/-15 deg, pivot 90 deg",
+    "curvature": "Flat"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-BENQ-PD3225U",
+   "slug": "benq-pd3225u",
+   "name": "BenQ PD3225U 32\" 4K Thunderbolt 3 Designer Monitor",
+   "brand": "BenQ",
+   "category": "professional-monitors",
+   "price": "999.99",
+   "compareAt": null,
+   "warranty": 36,
+   "stock": [
+    24,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "creator-workstations"
+   ],
+   "summary": "31.5-inch 4K IPS Mac-friendly designer monitor with 98% P3 and Thunderbolt 3 in/out (85 W).",
+   "description": "The PD3225U is a 31.5-inch 3840x2160 IPS monitor with a matte coating, 98% P3 and 100% sRGB/Rec.709 and VESA DisplayHDR 400. Thunderbolt 3 in (85 W) and out allow single-cable Mac connection and daisy-chaining, on a stand with 150 mm height, swivel and pivot.",
+   "keywords": "benq 32 inch 4k thunderbolt mac designer",
+   "specs": {
+    "sizeIn": 31.5,
+    "resolution": "3840x2160",
+    "refreshHz": 60,
+    "panel": "IPS",
+    "hdr": "HDR10, VESA DisplayHDR 400",
+    "colorGamut": "98% P3, 100% sRGB, 100% Rec.709",
+    "inputs": "1x Thunderbolt 3 in, 1x Thunderbolt 3 out, HDMI, DisplayPort",
+    "usbCPowerW": 85,
+    "responseTimeMs": 5,
+    "brightnessNits": 400,
+    "stand": "Height 150 mm, tilt -5/+20 deg, swivel 30/30 deg, pivot 90 deg",
+    "curvature": "Flat"
+   },
+   "options": []
+  }
+ ]
+}
