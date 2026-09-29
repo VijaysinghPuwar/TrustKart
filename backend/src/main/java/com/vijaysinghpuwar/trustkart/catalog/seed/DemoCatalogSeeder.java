@@ -22,15 +22,20 @@ import com.vijaysinghpuwar.trustkart.catalog.seed.SeedModel.SpecSeed;
 import java.io.IOException;
 import java.io.InputStream;
 import java.math.BigDecimal;
+import java.nio.charset.StandardCharsets;
+import java.security.MessageDigest;
+import java.security.NoSuchAlgorithmException;
 import java.text.Normalizer;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Comparator;
+import java.util.HexFormat;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Locale;
 import java.util.Map;
 import java.util.Objects;
+import java.util.Optional;
 import java.util.Set;
 import java.util.stream.Collectors;
 import org.slf4j.Logger;
@@ -38,8 +43,10 @@ import org.slf4j.LoggerFactory;
 import org.springframework.core.io.ClassPathResource;
 import org.springframework.core.io.Resource;
 import org.springframework.core.io.support.PathMatchingResourcePatternResolver;
+import org.springframework.jdbc.core.simple.JdbcClient;
 import org.springframework.stereotype.Component;
-import org.springframework.transaction.annotation.Transactional;
+import org.springframework.transaction.PlatformTransactionManager;
+import org.springframework.transaction.support.TransactionTemplate;
 import tools.jackson.core.type.TypeReference;
 import tools.jackson.databind.ObjectMapper;
 
@@ -49,6 +56,11 @@ import tools.jackson.databind.ObjectMapper;
  * category, spec definition, brand and product, and never overwrites a product that already exists (so
  * admin edits survive restarts). The one exception: a product that has no image gets the seed's image once one is
  * sourced. It is only invoked when {@code trustkart.demo.seed-catalog=true}.
+ *
+ * <p>Products are written in chunks, each in its own transaction, so the persistence context stays small (one
+ * transaction for the whole catalog made every query re-check every loaded product and took minutes). A run that is
+ * interrupted keeps the chunks already written; the next run finishes the job. After a complete run the seed files'
+ * fingerprint is stored, and a restart with the same files skips seeding entirely.
  */
 @Component
 public class DemoCatalogSeeder {
@@ -60,6 +72,12 @@ public class DemoCatalogSeeder {
     private static final String CATALOG_IMAGES = "catalog/images.json";
     private static final String CATALOG_PARKED = "catalog/parked.json";
 
+    private static final String[] SEED_FILES = {"demo/categories.json", "demo/products.json", "demo/images.json",
+            CATALOG_CATEGORIES, CATALOG_IMAGES, CATALOG_PARKED};
+    /** Bump when the seeding logic changes in a way that should re-run it over unchanged files. */
+    private static final int SEED_LOGIC_VERSION = 1;
+    private static final int CHUNK = 100;
+
     private static final Logger log = LoggerFactory.getLogger(DemoCatalogSeeder.class);
     private static final int BACKORDER_CAP = 0;
 
@@ -69,10 +87,15 @@ public class DemoCatalogSeeder {
     private final BrandRepository brands;
     private final ProductRepository products;
     private final CatalogFacetRepository facets;
+    private final JdbcClient jdbc;
+    private final TransactionTemplate tx;
 
     public DemoCatalogSeeder(ObjectMapper mapper, CategoryRepository categories, SpecDefinitionRepository specDefinitions,
-            BrandRepository brands, ProductRepository products, CatalogFacetRepository facets) {
+            BrandRepository brands, ProductRepository products, CatalogFacetRepository facets, JdbcClient jdbc,
+            PlatformTransactionManager transactions) {
         this.mapper = mapper;
+        this.jdbc = jdbc;
+        this.tx = new TransactionTemplate(transactions);
         this.categories = categories;
         this.specDefinitions = specDefinitions;
         this.brands = brands;
@@ -80,13 +103,19 @@ public class DemoCatalogSeeder {
         this.facets = facets;
     }
 
-    @Transactional
     public Result seed() {
         List<CategorySeed> categorySeeds = withExtensions(
                 read("demo/categories.json", SeedModel.CategoryFile.class).categories());
         List<ProductSeed> productSeeds = new ArrayList<>(read("demo/products.json", SeedModel.ProductFile.class).products());
         List<ProductSeed> catalogSeeds = catalogProducts();
         productSeeds.addAll(catalogSeeds);
+
+        String fingerprint = fingerprint();
+        if (fingerprint.equals(storedFingerprint())) {
+            log.info("Demo catalog unchanged since the last complete seed ({} products); skipping", productSeeds.size());
+            return new Result(0, 0, productSeeds.size());
+        }
+
         Set<String> catalogSkus = catalogSeeds.stream().map(ProductSeed::sku).collect(Collectors.toSet());
         Map<String, ImageSeed> images = new HashMap<>(
                 read("demo/images.json", new TypeReference<Map<String, ImageSeed>>() {}));
@@ -94,41 +123,105 @@ public class DemoCatalogSeeder {
             images.putAll(read(CATALOG_IMAGES, new TypeReference<Map<String, ImageSeed>>() {}));
         }
 
-        Map<String, Category> bySlug = new HashMap<>();
         Map<String, List<SpecSeed>> effectiveSpecs = new HashMap<>();
         int[] created = {0};
-        for (int i = 0; i < categorySeeds.size(); i++) {
-            upsertCategory(categorySeeds.get(i), null, i, List.of(), bySlug, effectiveSpecs, created);
-        }
-
-        int productsCreated = 0;
-        int skipped = 0;
-        int imagesRefreshed = 0;
-        for (ProductSeed seed : productSeeds) {
-            if (products.existsBySku(seed.sku())) {
-                // Existing products keep their data, but pick up replaced product images (or a first image).
-                if (refreshImage(seed, images)) {
-                    imagesRefreshed++;
-                } else {
-                    backfillImage(seed, images);
-                }
-                refreshOptions(seed);
-                if (seed.sku().startsWith("TK-") && catalogSkus.contains(seed.sku())) {
-                    products.findBySku(seed.sku()).ifPresent(Product::unpark);
-                }
-                skipped++;
-                continue;
+        tx.executeWithoutResult(status -> {
+            Map<String, Category> bySlug = new HashMap<>();
+            for (int i = 0; i < categorySeeds.size(); i++) {
+                upsertCategory(categorySeeds.get(i), null, i, List.of(), bySlug, effectiveSpecs, created);
             }
-            createProduct(seed, bySlug, effectiveSpecs, images);
-            productsCreated++;
+        });
+
+        int[] counts = new int[3]; // created, already present, images refreshed
+        for (int from = 0; from < productSeeds.size(); from += CHUNK) {
+            List<ProductSeed> chunk = productSeeds.subList(from, Math.min(from + CHUNK, productSeeds.size()));
+            tx.executeWithoutResult(status -> {
+                Map<String, Category> bySlug = categories.findAll().stream()
+                        .collect(Collectors.toMap(Category::getSlug, c -> c));
+                for (ProductSeed seed : chunk) {
+                    if (products.existsBySku(seed.sku())) {
+                        counts[2] += refreshExisting(seed, images, catalogSkus) ? 1 : 0;
+                        counts[1]++;
+                    } else {
+                        createProduct(seed, bySlug, effectiveSpecs, images);
+                        counts[0]++;
+                    }
+                }
+            });
         }
-        int parked = parkProducts();
-        if (parked > 0) {
-            log.info("{} catalog products parked (hidden) until an official image is sourced", parked);
-        }
+        tx.executeWithoutResult(status -> {
+            int parked = parkProducts();
+            if (parked > 0) {
+                log.info("{} catalog products parked (hidden) until an official image is sourced", parked);
+            }
+            jdbc.sql("""
+                            INSERT INTO catalog_seed_state (id, fingerprint, products) VALUES (1, :f, :n)
+                            ON CONFLICT (id) DO UPDATE SET fingerprint = :f, products = :n, seeded_at = now()""")
+                    .param("f", fingerprint).param("n", productSeeds.size()).update();
+        });
         log.info("Demo catalog seeded: {} categories created, {} products created, {} already present ({} images refreshed)",
-                created[0], productsCreated, skipped, imagesRefreshed);
-        return new Result(created[0], productsCreated, skipped);
+                created[0], counts[0], counts[1], counts[2]);
+        return new Result(created[0], counts[0], counts[1]);
+    }
+
+    /**
+     * Existing products keep their data, but pick up replaced product images (or a first image), the seed's current
+     * purchase options, and come out of parking once they are in the catalog again. Returns whether an image was
+     * replaced.
+     */
+    private boolean refreshExisting(ProductSeed seed, Map<String, ImageSeed> images, Set<String> catalogSkus) {
+        Product product = products.findWithDetailsBySlug(seed.slug()).orElse(null);
+        boolean refreshed = false;
+        ImageSeed image = images.get(seed.slug());
+        if (product != null && image != null) {
+            refreshed = product.getImages().stream().filter(i -> i.getSortOrder() == 0).findFirst()
+                    .map(i -> i.replaceWith(image.large(), image.small(), image.width(), image.height(), image.alt(),
+                            ImageMatch.valueOf(image.match()), image.author() + ", " + image.license(), image.filePage()))
+                    .orElse(false);
+            if (!refreshed && product.getSku().equals(seed.sku()) && product.getImages().isEmpty()) {
+                product.addImage(toImage(image));
+            }
+        }
+        if (product != null && product.getSku().equals(seed.sku())) {
+            applyOptions(product, seed);
+        }
+        if (seed.sku().startsWith("TK-") && catalogSkus.contains(seed.sku())) {
+            (product != null && product.getSku().equals(seed.sku()) ? Optional.of(product)
+                    : products.findBySku(seed.sku())).ifPresent(Product::unpark);
+        }
+        return refreshed;
+    }
+
+    private String storedFingerprint() {
+        return jdbc.sql("SELECT fingerprint FROM catalog_seed_state WHERE id = 1").query(String.class).optional()
+                .orElse(null);
+    }
+
+    /** SHA-256 over every seed file (name and bytes) plus the seeding logic version. */
+    private String fingerprint() {
+        try {
+            MessageDigest digest = MessageDigest.getInstance("SHA-256");
+            digest.update(("v" + SEED_LOGIC_VERSION).getBytes(StandardCharsets.UTF_8));
+            List<Resource> files = new ArrayList<>();
+            for (String path : SEED_FILES) {
+                ClassPathResource r = new ClassPathResource(path);
+                if (r.exists()) {
+                    files.add(r);
+                }
+            }
+            Resource[] products = new PathMatchingResourcePatternResolver().getResources(CATALOG_PRODUCTS);
+            Arrays.sort(products, Comparator.comparing(r -> Objects.requireNonNullElse(r.getFilename(), "")));
+            files.addAll(Arrays.asList(products));
+            for (Resource file : files) {
+                digest.update(Objects.requireNonNullElse(file.getFilename(), "").getBytes(StandardCharsets.UTF_8));
+                try (InputStream in = file.getInputStream()) {
+                    digest.update(in.readAllBytes());
+                }
+            }
+            return HexFormat.of().formatHex(digest.digest());
+        } catch (IOException | NoSuchAlgorithmException e) {
+            throw new IllegalStateException("Cannot fingerprint the demo catalog", e);
+        }
     }
 
     /** Grafts {@code catalog/categories.json} onto the demo tree before anything is written. */
@@ -178,17 +271,6 @@ public class DemoCatalogSeeder {
         } catch (IOException e) {
             throw new IllegalStateException("Cannot read " + CATALOG_PRODUCTS, e);
         }
-    }
-
-    /** Gives an already-seeded product the image sourced for it later, without touching anything else. */
-    private void backfillImage(ProductSeed seed, Map<String, ImageSeed> images) {
-        ImageSeed image = images.get(seed.slug());
-        if (image == null) {
-            return;
-        }
-        products.findWithDetailsBySlug(seed.slug())
-                .filter(p -> p.getSku().equals(seed.sku()) && p.getImages().isEmpty())
-                .ifPresent(p -> p.addImage(toImage(image)));
     }
 
     private static ProductImage toImage(ImageSeed image) {
@@ -271,13 +353,6 @@ public class DemoCatalogSeeder {
         return count;
     }
 
-    /** Purchase options are catalog data: an existing product picks up the seed's current options on restart. */
-    private void refreshOptions(ProductSeed seed) {
-        products.findWithDetailsBySlug(seed.slug())
-                .filter(p -> p.getSku().equals(seed.sku()))
-                .ifPresent(p -> applyOptions(p, seed));
-    }
-
     private static void applyOptions(Product product, ProductSeed seed) {
         List<ProductOptions.Group> groups = seed.options() == null ? List.of() : seed.options().stream()
                 .map(g -> new ProductOptions.Group(g.name(), g.values().stream()
@@ -292,18 +367,6 @@ public class DemoCatalogSeeder {
         } catch (IllegalArgumentException e) {
             throw new IllegalStateException(seed.sku() + ": invalid options: " + e.getMessage(), e);
         }
-    }
-
-    private boolean refreshImage(ProductSeed seed, Map<String, ImageSeed> images) {
-        ImageSeed image = images.get(seed.slug());
-        if (image == null) {
-            return false;
-        }
-        return products.findWithDetailsBySlug(seed.slug())
-                .flatMap(p -> p.getImages().stream().filter(i -> i.getSortOrder() == 0).findFirst())
-                .map(i -> i.replaceWith(image.large(), image.small(), image.width(), image.height(), image.alt(),
-                        ImageMatch.valueOf(image.match()), image.author() + ", " + image.license(), image.filePage()))
-                .orElse(false);
     }
 
     private static void validateSpecs(ProductSeed seed, List<SpecSeed> definitions) {
