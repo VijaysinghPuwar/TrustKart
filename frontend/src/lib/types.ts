@@ -387,6 +387,7 @@ export interface NotificationPage {
 export interface NotificationPreferences {
   orderUpdates: boolean
   deliveryUpdates: boolean
+  leaderboardUpdates: boolean
 }
 
 export interface WishlistList {
@@ -435,4 +436,53 @@ export interface Achievement {
   /** Human progress, e.g. "$1.2M / $1B" or "3 / 5". */
   progress: string
   percent: number
+}
+
+// ---- Leaderboards (all amounts virtual) -----------------------------------------------------------------------
+
+export interface LeaderboardEntry {
+  rank: number
+  displayName: string
+  avatarUrl?: string
+  anonymous: boolean
+  virtualSpend: Money
+  orderCount: number
+  memberSince?: string
+  currentUser: boolean
+}
+
+export interface LeaderboardBoard {
+  type: 'MONTHLY' | 'ALL_TIME'
+  period: string
+  periodLabel: string
+  limit: number
+  rankedCount: number
+  generatedAt: string
+  periodEndsAt?: string
+  entries: LeaderboardEntry[]
+}
+
+export interface LeaderboardPosition {
+  rank: number
+  rankedCount: number
+  virtualSpend: Money
+  orderCount: number
+  inTopList: boolean
+  gapToTopList?: Money
+  gapToTop10?: Money
+}
+
+export interface LeaderboardStanding {
+  period: string
+  periodLabel: string
+  monthly?: LeaderboardPosition
+  allTime?: LeaderboardPosition
+  displayName?: string
+  visible: boolean
+}
+
+export interface LeaderboardProfile {
+  displayName: string
+  visible: boolean
+  showAvatar: boolean
 }

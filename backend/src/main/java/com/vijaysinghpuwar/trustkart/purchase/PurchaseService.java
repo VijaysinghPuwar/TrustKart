@@ -13,6 +13,7 @@ import com.vijaysinghpuwar.trustkart.common.error.ErrorCode;
 import com.vijaysinghpuwar.trustkart.common.error.NotFoundException;
 import com.vijaysinghpuwar.trustkart.common.error.ValidationException;
 import com.vijaysinghpuwar.trustkart.common.money.MoneyWire;
+import com.vijaysinghpuwar.trustkart.leaderboard.LeaderboardChanged;
 import com.vijaysinghpuwar.trustkart.purchase.PurchaseViews.ItemView;
 import com.vijaysinghpuwar.trustkart.purchase.PurchaseViews.PurchasePage;
 import com.vijaysinghpuwar.trustkart.purchase.PurchaseViews.PurchaseSummary;
@@ -37,6 +38,7 @@ import java.util.Map;
 import java.util.Objects;
 import java.util.UUID;
 import java.util.regex.Pattern;
+import org.springframework.context.ApplicationEventPublisher;
 import org.springframework.context.event.EventListener;
 import org.springframework.data.domain.Page;
 import org.springframework.data.domain.PageRequest;
@@ -75,9 +77,11 @@ public class PurchaseService {
     private final JdbcClient jdbc;
     private final AddressService addresses;
     private final Clock clock;
+    private final ApplicationEventPublisher events;
 
     public PurchaseService(CartService cart, CatalogService catalog, InventoryRepository inventory, WalletService wallets,
-            VirtualPurchaseRepository purchases, RateLimiter rateLimiter, JdbcClient jdbc, AddressService addresses, Clock clock) {
+            VirtualPurchaseRepository purchases, RateLimiter rateLimiter, JdbcClient jdbc, AddressService addresses, Clock clock,
+            ApplicationEventPublisher events) {
         this.cart = cart;
         this.catalog = catalog;
         this.inventory = inventory;
@@ -87,6 +91,7 @@ public class PurchaseService {
         this.jdbc = jdbc;
         this.addresses = addresses;
         this.clock = clock;
+        this.events = events;
     }
 
     /** Read-only preview priced by the server. Creates the wallet (with its starting balance) if needed. */
@@ -179,6 +184,7 @@ public class PurchaseService {
         if (request.instant() == null) {
             cart.removeLines(cartLines);
         }
+        events.publishEvent(new LeaderboardChanged());
         return toView(purchase);
     }
 
@@ -217,6 +223,7 @@ public class PurchaseService {
             wallets.refund(wallet, purchase.getTotal(), purchase.getOrderNumber());
         }
         purchase.close(outcome, now);
+        events.publishEvent(new LeaderboardChanged());
         return toView(purchase);
     }
 
@@ -247,6 +254,7 @@ public class PurchaseService {
     public void onShopperMerged(ShopperMergedEvent event) {
         jdbc.sql("UPDATE virtual_purchase SET shopper_id = :to WHERE shopper_id = :from")
                 .param("to", event.toShopperId()).param("from", event.fromShopperId()).update();
+        events.publishEvent(new LeaderboardChanged());
     }
 
     /**

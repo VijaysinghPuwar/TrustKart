@@ -23,4 +23,7 @@ export const qk = {
   notifications: ['notifications'] as const,
   notificationCount: ['notifications', 'count'] as const,
   notificationPrefs: ['notifications', 'preferences'] as const,
+  leaderboard: (type: 'monthly' | 'all-time') => ['leaderboard', type] as const,
+  leaderboardMe: ['leaderboard', 'me'] as const,
+  leaderboardProfile: ['leaderboard', 'profile'] as const,
 }

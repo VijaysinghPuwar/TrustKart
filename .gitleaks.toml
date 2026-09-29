@@ -5,7 +5,7 @@ useDefault = true
 
 [allowlist]
 description = "Documented placeholders and the weak-password denylist, not secrets"
-regexes = ['''change-me-[a-z0-9-]+''']
+regexes = ['''change-me-[a-z0-9-]+''', '''correct-horse-battery-staple-42''']  # the second is a test-only password
 paths = [
   '''\.env\.example$''',
   '''frontend/package-lock\.json$''',

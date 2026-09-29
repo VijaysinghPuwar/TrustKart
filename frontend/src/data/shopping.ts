@@ -195,9 +195,17 @@ export function usePlaceOrder() {
       client.setQueryData(qk.purchase(purchase.id), purchase)
       void client.invalidateQueries({
         predicate: (q) =>
-          ['cart', 'wallet', 'quote', 'purchases', 'collection', 'home', 'product', 'search'].includes(
-            String(q.queryKey[0]),
-          ),
+          [
+            'cart',
+            'wallet',
+            'quote',
+            'purchases',
+            'collection',
+            'home',
+            'product',
+            'search',
+            'leaderboard',
+          ].includes(String(q.queryKey[0])),
       })
     },
   })
@@ -229,7 +237,9 @@ export function useRefund() {
       client.setQueryData(qk.purchase(purchase.id), purchase)
       void client.invalidateQueries({
         predicate: (q) =>
-          ['wallet', 'purchases', 'collection', 'quote', 'notifications'].includes(String(q.queryKey[0])),
+          ['wallet', 'purchases', 'collection', 'quote', 'notifications', 'leaderboard'].includes(
+            String(q.queryKey[0]),
+          ),
       })
     },
   })

@@ -33,7 +33,8 @@ import org.springframework.web.bind.annotation.RestController;
 @Tag(name = "Notifications", description = "Order and delivery updates for the current shopper")
 class NotificationController {
 
-    record PreferencesBody(@NotNull Boolean orderUpdates, @NotNull Boolean deliveryUpdates) {}
+    /** {@code leaderboardUpdates} is optional so older clients keep working; omitted means unchanged. */
+    record PreferencesBody(@NotNull Boolean orderUpdates, @NotNull Boolean deliveryUpdates, Boolean leaderboardUpdates) {}
 
     private final NotificationService notifications;
     private final ShopperService shoppers;
@@ -70,12 +71,16 @@ class NotificationController {
 
     @GetMapping("/preferences")
     Preferences preferences(HttpServletRequest request) {
-        return shoppers.current(request).map(s -> notifications.preferences(s.getId())).orElse(new Preferences(true, true));
+        return shoppers.current(request).map(s -> notifications.preferences(s.getId())).orElse(new Preferences(true, true, true));
     }
 
     @PutMapping("/preferences")
     Preferences updatePreferences(@Valid @RequestBody PreferencesBody body, HttpServletRequest request) {
-        return notifications.updatePreferences(shopperId(request), new Preferences(body.orderUpdates(), body.deliveryUpdates()));
+        long shopperId = shopperId(request);
+        boolean leaderboard = body.leaderboardUpdates() != null ? body.leaderboardUpdates()
+                : notifications.preferences(shopperId).leaderboardUpdates();
+        return notifications.updatePreferences(shopperId,
+                new Preferences(body.orderUpdates(), body.deliveryUpdates(), leaderboard));
     }
 
     private long shopperId(HttpServletRequest request) {

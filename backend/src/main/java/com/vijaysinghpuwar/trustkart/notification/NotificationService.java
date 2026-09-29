@@ -2,6 +2,8 @@ package com.vijaysinghpuwar.trustkart.notification;
 
 import com.fasterxml.jackson.annotation.JsonInclude;
 import com.vijaysinghpuwar.trustkart.common.error.NotFoundException;
+import com.vijaysinghpuwar.trustkart.leaderboard.LeaderboardPeriod;
+import com.vijaysinghpuwar.trustkart.leaderboard.LeaderboardService;
 import com.vijaysinghpuwar.trustkart.purchase.OrderTracking;
 import com.vijaysinghpuwar.trustkart.purchase.TrackingStage;
 import com.vijaysinghpuwar.trustkart.shopper.ShopperMergedEvent;
@@ -48,17 +50,20 @@ public class NotificationService {
 
     public record NotificationPage(List<NotificationView> items, long unreadCount, int page, int size, long totalItems) {}
 
-    public record Preferences(boolean orderUpdates, boolean deliveryUpdates) {}
+    /** {@code leaderboardUpdates}: rank milestones and monthly results. */
+    public record Preferences(boolean orderUpdates, boolean deliveryUpdates, boolean leaderboardUpdates) {}
 
     private record Order(UUID id, String orderNumber, String status, Instant createdAt, Instant closedAt, int itemCount,
             String firstItem, String imageUrl) {}
 
     private final JdbcClient jdbc;
     private final Clock clock;
+    private final LeaderboardService leaderboards;
 
-    public NotificationService(JdbcClient jdbc, Clock clock) {
+    public NotificationService(JdbcClient jdbc, Clock clock, LeaderboardService leaderboards) {
         this.jdbc = jdbc;
         this.clock = clock;
+        this.leaderboards = leaderboards;
     }
 
     @Transactional
@@ -101,20 +106,23 @@ public class NotificationService {
 
     @Transactional(readOnly = true)
     public Preferences preferences(long shopperId) {
-        return jdbc.sql("SELECT order_updates, delivery_updates FROM notification_preference WHERE shopper_id = :s")
+        return jdbc.sql("""
+                        SELECT order_updates, delivery_updates, leaderboard_updates FROM notification_preference
+                        WHERE shopper_id = :s""")
                 .param("s", shopperId)
-                .query((rs, n) -> new Preferences(rs.getBoolean(1), rs.getBoolean(2)))
-                .optional().orElse(new Preferences(true, true));
+                .query((rs, n) -> new Preferences(rs.getBoolean(1), rs.getBoolean(2), rs.getBoolean(3)))
+                .optional().orElse(new Preferences(true, true, true));
     }
 
     @Transactional
     public Preferences updatePreferences(long shopperId, Preferences p) {
         jdbc.sql("""
-                        INSERT INTO notification_preference (shopper_id, order_updates, delivery_updates, updated_at)
-                        VALUES (:s, :o, :d, :now)
+                        INSERT INTO notification_preference (shopper_id, order_updates, delivery_updates, leaderboard_updates, updated_at)
+                        VALUES (:s, :o, :d, :l, :now)
                         ON CONFLICT (shopper_id) DO UPDATE
-                        SET order_updates = :o, delivery_updates = :d, updated_at = :now""")
+                        SET order_updates = :o, delivery_updates = :d, leaderboard_updates = :l, updated_at = :now""")
                 .param("s", shopperId).param("o", p.orderUpdates()).param("d", p.deliveryUpdates())
+                .param("l", p.leaderboardUpdates())
                 .param("now", Timestamp.from(clock.instant())).update();
         return p;
     }
@@ -150,11 +158,83 @@ public class NotificationService {
                         .param("at", Timestamp.from(m.at())).update();
             }
         }
+        if (prefs.leaderboardUpdates()) {
+            syncLeaderboard(shopperId, now);
+        }
         // Keep the newest KEEP rows per shopper so the table can't grow without bound.
         jdbc.sql("""
                         DELETE FROM notification WHERE shopper_id = :s AND id NOT IN
                         (SELECT id FROM notification WHERE shopper_id = :s ORDER BY created_at DESC, id DESC LIMIT :keep)""")
                 .param("s", shopperId).param("keep", KEEP).update();
+    }
+
+    // ---- Leaderboard milestones -----------------------------------------------------------------------------------
+
+    /** Tiers, best first: a notification is sent only on reaching a better tier than any already notified. */
+    private static final int[] MONTHLY_TIERS = {1, 3, 10, 50};
+    private static final int[] ALL_TIME_TIERS = {10, 25, 100};
+
+    private void syncLeaderboard(long shopperId, Instant now) {
+        Long userId = jdbc.sql("SELECT user_id FROM shopper WHERE id = :s").param("s", shopperId)
+                .query(Long.class).optional().orElse(null);
+        if (userId == null) {
+            return;
+        }
+        LeaderboardPeriod month = LeaderboardPeriod.currentMonth(clock);
+        leaderboards.position(month, userId).ifPresent(p ->
+                milestone(shopperId, "lb:" + month.key(), MONTHLY_TIERS, p.rank(), now,
+                        tier -> tier == 1 ? "You're #1 this month" : "You're in this month's Top " + tier,
+                        tier -> "Your virtual spending ranks #" + p.rank() + " for " + month.label() + "."));
+        leaderboards.position(LeaderboardPeriod.allTime(), userId).ifPresent(p ->
+                milestone(shopperId, "lb:all-time", ALL_TIME_TIERS, p.rank(), now,
+                        tier -> "You entered the all-time Top " + tier,
+                        tier -> "Your lifetime virtual spending ranks #" + p.rank() + "."));
+        // Last month's final result, once the month is over.
+        LeaderboardPeriod previous = LeaderboardPeriod.month(month.month().minusMonths(1));
+        leaderboards.position(previous, userId).ifPresent(p -> insert(shopperId, "LEADERBOARD_RESULT",
+                "lb:" + previous.key() + ":result", "Your " + previous.label() + " result",
+                "Final rank #" + p.rank() + " of " + p.rankedCount() + " with " + usd(p.virtualSpend())
+                        + " in virtual spending across " + p.orderCount() + (p.orderCount() == 1 ? " order." : " orders."),
+                "/rankings", null, previous.to()));
+    }
+
+    private void milestone(long shopperId, String period, int[] tiers, int rank, Instant now,
+            java.util.function.IntFunction<String> title, java.util.function.IntFunction<String> body) {
+        Integer reached = null;
+        for (int tier : tiers) {
+            if (rank <= tier) {
+                reached = tier; // tiers ascend by size, so the first match is the best tier reached
+                break;
+            }
+        }
+        if (reached == null) {
+            return;
+        }
+        Integer bestNotified = jdbc.sql("""
+                        SELECT min(substring(dedupe_key FROM ':top([0-9]+)$')::int) FROM notification
+                        WHERE shopper_id = :s AND dedupe_key LIKE :prefix""")
+                .param("s", shopperId).param("prefix", period + ":top%")
+                .query(Integer.class).optional().orElse(null);
+        if (bestNotified != null && bestNotified <= reached) {
+            return;
+        }
+        insert(shopperId, "LEADERBOARD_MILESTONE", period + ":top" + reached, title.apply(reached), body.apply(reached),
+                "/rankings", null, now);
+    }
+
+    private void insert(long shopperId, String type, String key, String title, String body, String link, String image,
+            Instant at) {
+        jdbc.sql("""
+                        INSERT INTO notification (public_id, shopper_id, type, dedupe_key, title, body, link, image_url, created_at)
+                        VALUES (:id, :s, :type, :key, :title, :body, :link, :img, :at)
+                        ON CONFLICT (shopper_id, dedupe_key) DO NOTHING""")
+                .param("id", UUID.randomUUID()).param("s", shopperId).param("type", type).param("key", key)
+                .param("title", title).param("body", body).param("link", link).param("img", image)
+                .param("at", Timestamp.from(at)).update();
+    }
+
+    private static String usd(String amount) {
+        return java.text.NumberFormat.getCurrencyInstance(java.util.Locale.US).format(new java.math.BigDecimal(amount));
     }
 
     private record Milestone(Type type, String title, String body, Instant at) {}
