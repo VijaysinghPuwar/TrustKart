@@ -1,0 +1,57 @@
+{
+ "meta": {
+  "notes": "Researched products parked until an official, professional product image can be sourced."
+ },
+ "products": [
+  {
+   "sku": "TK-KYOCERA-DURAFORCE-PRO-3",
+   "slug": "kyocera-duraforce-pro-3",
+   "name": "Kyocera DuraForce PRO 3",
+   "brand": "Kyocera",
+   "category": "smartphones",
+   "price": "899.99",
+   "priceBasis": "msrp",
+   "priceSource": "https://www.kyoceramobile.com/rugged-devices/duraforce-pro-3",
+   "priceAsOf": "2026-09-28",
+   "releaseYear": 2025,
+   "summary": "Ultra-rugged 5G business phone (Verizon) with IP68, MIL-STD-810H and HazLoc certification, a 5.38-inch glove-friendly OLED, Snapdragon 7 Gen 1 and a removable battery.",
+   "description": "DuraForce PRO 3 is Kyocera's ultra-rugged 5G smartphone sold through Verizon. It is IP68 waterproof, MIL-STD-810H drop tested to 5 ft on concrete and HazLoc certified, with a 5.38-inch FHD+ OLED that works with gloves and wet hands. It runs Android 15 (Android Enterprise Recommended) on a Snapdragon 7 Gen 1 with 6 GB RAM and 128 GB storage, has a 64 MP main plus 16 MP wide-angle and 2 MP macro camera and a 4,270 mAh removable battery with Qi wireless charging.",
+   "keywords": "kyocera duraforce pro 3 rugged verizon hazloc business phone",
+   "specs": {
+    "chip": "Qualcomm Snapdragon 7 Gen 1",
+    "storageGb": 128,
+    "ramGb": 6,
+    "displayIn": 5.38,
+    "display": "5.38-inch OLED, 2160 x 1080, glove and wet touch",
+    "rearCamera": "64 MP main + 16 MP wide-angle + 2 MP macro",
+    "frontCamera": "8 MP",
+    "battery": "4,270 mAh removable Li-Po",
+    "charging": "Qi wireless (8.1W) and charging contacts",
+    "connectivity": "5G (Sub-6 + mmWave), Wi-Fi 6E, Bluetooth 5.2, NFC",
+    "durability": "IP68, MIL-STD-810H (5 ft drops), HazLoc certified",
+    "os": "Android 15 (Android Enterprise Recommended)",
+    "weightG": 237,
+    "dimensions": "6.06 x 2.95 x 0.57 in"
+   },
+   "variants": [
+    {
+     "label": "128 GB / 6 GB RAM (Verizon)",
+     "price": "899.99"
+    }
+   ],
+   "colors": [
+    "Black"
+   ],
+   "collections": [
+    "small-business"
+   ],
+   "featured": false,
+   "warranty": 12,
+   "sources": {
+    "product": "https://www.kyoceramobile.com/rugged-devices/duraforce-pro-3",
+    "retrievedAt": "2026-09-28"
+   },
+   "notes": "MSRP published on kyoceramobile.com; sold through Verizon (not direct). No image: the only clean studio render on the official page carries an iF Design Award badge."
+  }
+ ]
+}

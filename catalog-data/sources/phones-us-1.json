@@ -1,0 +1,2382 @@
+{
+  "meta": {
+    "notes": "phones-us-1: Motorola and Nothing phones, foldables and companion audio/wearables sold on the brands' official US stores (motorola.com/us, us.nothing.tech). Researched 2026-09-28. Prices are the official US store prices on that date; where the store shows a sale, `price` is the sale price and `compareAt` the list price. Motorola colour names drop the 'PANTONE' prefix. OnePlus was in the brief but is intentionally absent: oneplus.com/us posts a 'Notice of Business Adjustment' (OnePlus has concluded product rollouts in North America) and every US store listing (OnePlus 15, 15R, Buds 4, Buds Pro 3, Watch 3, Pad accessories) is out of stock or 'stop sale'. Nothing Ear (3) and Headphone (1) are already in audio.json and were skipped."
+  },
+  "products": [
+    {
+      "sku": "TK-MOTOROLA-RAZR-FOLD",
+      "slug": "motorola-razr-fold",
+      "name": "Motorola razr fold",
+      "brand": "Motorola",
+      "category": "foldables",
+      "price": "1899.99",
+      "priceBasis": "msrp",
+      "priceSource": "https://www.motorola.com/us/en/p/phones/razr/motorola-razr-fold/pmipmjj43my",
+      "priceAsOf": "2026-09-28",
+      "releaseYear": 2026,
+      "summary": "Motorola's book-style foldable with an 8.1-inch 2K main display, 6.6-inch cover screen, Snapdragon 8 Gen 5 and a triple 50 MP camera with 3x periscope telephoto.",
+      "description": "The razr fold opens to an 8.1-inch 2484 x 2232 LTPO pOLED display and has a 6.6-inch 165 Hz cover screen protected by Corning Gorilla Glass Ceramic 3. It runs a Snapdragon 8 Gen 5 with 16 GB RAM and 512 GB UFS 4.1 storage, carries a 6,000 mAh silicon-carbon battery with 80 W wired and 50 W wireless charging, and is rated IP49.",
+      "keywords": "razr fold foldable book fold motorola snapdragon 8 gen 5 periscope 2026",
+      "specs": {
+        "chip": "Snapdragon 8 Gen 5",
+        "storageGb": 512,
+        "ramGb": 16,
+        "displayIn": 8.1,
+        "display": "8.1-inch 2484 x 2232 (2K) LTPO pOLED main display",
+        "coverDisplay": "6.6-inch 2520 x 1080 LTPO pOLED, 165 Hz, up to 6,000 nits peak, Gorilla Glass Ceramic 3",
+        "rearCamera": "50 MP wide (f/1.6, OIS) + 50 MP ultrawide/macro (f/2.0) + 50 MP 3x periscope telephoto (f/2.4)",
+        "frontCamera": "20 MP cover camera + 32 MP inner camera",
+        "battery": "6,000 mAh silicon-carbon",
+        "charging": "80 W wired, 50 W wireless, 5 W reverse",
+        "connectivity": "5G, Wi-Fi 7",
+        "durability": "IP49",
+        "os": "Android 16",
+        "weightG": 243,
+        "dimensions": "Closed 160.05 x 73.6 x 10.04 mm; open 144.47 x 160.05 x 4.7 mm"
+      },
+      "variants": [
+        {
+          "label": "512 GB / 16 GB RAM, Unlocked",
+          "price": "1899.99"
+        }
+      ],
+      "colors": [
+        "Blackened Blue",
+        "Lily White"
+      ],
+      "featured": true,
+      "warranty": 12,
+      "sources": {
+        "product": "https://www.motorola.com/us/en/p/phones/razr/motorola-razr-fold/pmipmjj43my",
+        "specs": "https://www.motorola.com/us/en/p/phones/razr/motorola-razr-fold/pmipmjj43my",
+        "retrievedAt": "2026-09-28"
+      },
+      "image": {
+        "url": "https://p2-ofp.static.pub//fes/cms/2026/05/12/vcqo4sy1wsqaedxnhsd1pbufpavwjj071466.png",
+        "page": "https://www.motorola.com/us/en/p/phones/razr/motorola-razr-fold/pmipmjj43my",
+        "sourceType": "manufacturer-product-page",
+        "rights": "Official Motorola US store product render (static.pub CDN used by motorola.com); Motorola has not granted a reuse license - rights not verified.",
+        "alt": "Motorola razr fold in Blackened Blue, unfolded front with rear camera view, official Motorola product render",
+        "match": "EXACT",
+        "credit": "Motorola"
+      },
+      "colorImages": {
+        "Blackened Blue": {
+          "url": "https://p2-ofp.static.pub//fes/cms/2026/05/12/vcqo4sy1wsqaedxnhsd1pbufpavwjj071466.png",
+          "page": "https://www.motorola.com/us/en/p/phones/razr/motorola-razr-fold/pmipmjj43my",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Motorola US store product render (static.pub CDN used by motorola.com); Motorola has not granted a reuse license - rights not verified.",
+          "alt": "Motorola razr fold in Blackened Blue, unfolded front with rear camera view, official Motorola product render",
+          "match": "EXACT",
+          "credit": "Motorola"
+        },
+        "Lily White": {
+          "url": "https://p4-ofp.static.pub//fes/cms/2026/05/12/u0essr1ni8ntvsbfojbtqwt5lvtma4971042.png",
+          "page": "https://www.motorola.com/us/en/p/phones/razr/motorola-razr-fold/pmipmjj43my",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Motorola US store product render (static.pub CDN used by motorola.com); Motorola has not granted a reuse license - rights not verified.",
+          "alt": "Motorola razr fold in Lily White, unfolded front with rear camera view, official Motorola product render",
+          "match": "EXACT",
+          "credit": "Motorola"
+        }
+      },
+      "notes": "Colour names drop the 'PANTONE' prefix Motorola uses (PANTONE Blackened Blue / PANTONE Lily White)."
+    },
+    {
+      "sku": "TK-MOTOROLA-RAZR-ULTRA-2026",
+      "slug": "motorola-razr-ultra-2026",
+      "name": "Motorola razr ultra 2026",
+      "brand": "Motorola",
+      "category": "foldables",
+      "price": "1499.99",
+      "priceBasis": "msrp",
+      "priceSource": "https://www.motorola.com/us/en/p/phones/razr/razr-ultra-2026/pmipmjk44m3",
+      "priceAsOf": "2026-09-28",
+      "releaseYear": 2026,
+      "summary": "Motorola's top flip phone for 2026 with a 7-inch 165 Hz main display, 4-inch cover screen, Snapdragon 8 Elite, 16 GB RAM and 512 GB storage.",
+      "description": "The razr ultra 2026 pairs a 7.0-inch 1.5K Extreme AMOLED main display (up to 5,000 nits) with a 4.0-inch 165 Hz cover display under Gorilla Glass Ceramic 3. It uses the Snapdragon 8 Elite, a 50 MP LOFIC main camera with OIS plus a 50 MP ultrawide, and a 5,000 mAh silicon-carbon battery with 68 W wired and 30 W wireless charging.",
+      "keywords": "razr ultra 2026 flip phone foldable snapdragon 8 elite motorola",
+      "specs": {
+        "chip": "Snapdragon 8 Elite",
+        "storageGb": 512,
+        "ramGb": 16,
+        "displayIn": 7.0,
+        "display": "7.0-inch 2992 x 1224 (1.5K) Extreme AMOLED, 165 Hz, up to 5,000 nits peak",
+        "coverDisplay": "4.0-inch 1272 x 1080 Extreme AMOLED, 165 Hz, up to 3,000 nits peak, Gorilla Glass Ceramic 3",
+        "rearCamera": "50 MP wide with LOFIC sensor (f/1.8, OIS) + 50 MP ultrawide (f/2.0)",
+        "frontCamera": "50 MP (f/2.0)",
+        "battery": "5,000 mAh silicon-carbon",
+        "charging": "68 W wired, 30 W wireless, 5 W reverse",
+        "connectivity": "5G, Wi-Fi 7",
+        "durability": "IP48",
+        "os": "Android 16",
+        "weightG": 199,
+        "dimensions": "Open 171.48 x 73.99 x 7.19 mm; closed 88.12 x 73.99 x 15.69 mm"
+      },
+      "variants": [
+        {
+          "label": "512 GB / 16 GB RAM, Unlocked",
+          "price": "1499.99"
+        }
+      ],
+      "colors": [
+        "Orient Blue",
+        "Cocoa"
+      ],
+      "featured": true,
+      "warranty": 12,
+      "sources": {
+        "product": "https://www.motorola.com/us/en/p/phones/razr/razr-ultra-2026/pmipmjk44m3",
+        "specs": "https://www.motorola.com/us/en/p/phones/razr/razr-ultra-2026/pmipmjk44m3",
+        "retrievedAt": "2026-09-28"
+      },
+      "image": {
+        "url": "https://p2-ofp.static.pub//fes/cms/2026/04/26/xw325yx9ctisx4ocwoljvjqhfbs2oh551549.png",
+        "page": "https://www.motorola.com/us/en/p/phones/razr/razr-ultra-2026/pmipmjk44m3",
+        "sourceType": "manufacturer-product-page",
+        "rights": "Official Motorola US store product render (static.pub CDN used by motorola.com); Motorola has not granted a reuse license - rights not verified.",
+        "alt": "Motorola razr ultra 2026 in Orient Blue, closed, rear cover-screen view, official Motorola product render",
+        "match": "EXACT",
+        "credit": "Motorola"
+      },
+      "colorImages": {
+        "Orient Blue": {
+          "url": "https://p2-ofp.static.pub//fes/cms/2026/04/26/xw325yx9ctisx4ocwoljvjqhfbs2oh551549.png",
+          "page": "https://www.motorola.com/us/en/p/phones/razr/razr-ultra-2026/pmipmjk44m3",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Motorola US store product render (static.pub CDN used by motorola.com); Motorola has not granted a reuse license - rights not verified.",
+          "alt": "Motorola razr ultra 2026 in Orient Blue, closed, rear cover-screen view, official Motorola product render",
+          "match": "EXACT",
+          "credit": "Motorola"
+        },
+        "Cocoa": {
+          "url": "https://p4-ofp.static.pub//fes/cms/2026/04/29/mnbgdxq4ws7vjuz2yc1pzju7qb6l24565841.png",
+          "page": "https://www.motorola.com/us/en/p/phones/razr/razr-ultra-2026/pmipmjk44m3",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Motorola US store product render (static.pub CDN used by motorola.com); Motorola has not granted a reuse license - rights not verified.",
+          "alt": "Motorola razr ultra 2026 in Cocoa, closed, rear cover-screen view, official Motorola product render",
+          "match": "EXACT",
+          "credit": "Motorola"
+        }
+      }
+    },
+    {
+      "sku": "TK-MOTOROLA-RAZR-PLUS-2026",
+      "slug": "motorola-razr-plus-2026",
+      "name": "Motorola razr+ 2026",
+      "brand": "Motorola",
+      "category": "foldables",
+      "price": "1099.99",
+      "priceBasis": "msrp",
+      "priceSource": "https://www.motorola.com/us/en/p/phones/razr/razr-plus-2026/pmipmjq44ms",
+      "priceAsOf": "2026-09-28",
+      "releaseYear": 2026,
+      "summary": "Flip phone with a 6.9-inch 165 Hz main display, 4-inch cover screen, Snapdragon 8s Gen 3, 12 GB RAM and dual 50 MP cameras.",
+      "description": "The razr+ 2026 has a 6.9-inch LTPO Extreme AMOLED main display and a 4.0-inch 165 Hz cover display protected by Gorilla Glass Victus. It runs a Snapdragon 8s Gen 3 with 12 GB RAM and 256 GB storage, has 50 MP wide and ultrawide rear cameras, and a 4,500 mAh battery with 45 W wired and 15 W wireless charging.",
+      "keywords": "razr plus razr+ 2026 flip phone foldable motorola",
+      "specs": {
+        "chip": "Snapdragon 8s Gen 3",
+        "storageGb": 256,
+        "ramGb": 12,
+        "displayIn": 6.9,
+        "display": "6.9-inch 2640 x 1084 FHD+ LTPO Extreme AMOLED, 165 Hz, up to 3,000 nits peak",
+        "coverDisplay": "4.0-inch 1272 x 1080 LTPS Extreme AMOLED, 165 Hz, Gorilla Glass Victus",
+        "rearCamera": "50 MP wide (f/1.8, OIS) + 50 MP ultrawide (f/2.0)",
+        "frontCamera": "32 MP (f/2.4)",
+        "battery": "4,500 mAh silicon-carbon",
+        "charging": "45 W wired, 15 W wireless, 5 W reverse",
+        "connectivity": "5G, Wi-Fi 7",
+        "durability": "IP48",
+        "os": "Android 16",
+        "weightG": 189,
+        "dimensions": "Open 171.42 x 73.99 x 7.09 mm; closed 88.09 x 73.99 x 15.32 mm"
+      },
+      "variants": [
+        {
+          "label": "256 GB / 12 GB RAM, Unlocked",
+          "price": "1099.99"
+        }
+      ],
+      "colors": [
+        "Mountain View"
+      ],
+      "featured": false,
+      "warranty": 12,
+      "sources": {
+        "product": "https://www.motorola.com/us/en/p/phones/razr/razr-plus-2026/pmipmjq44ms",
+        "specs": "https://www.motorola.com/us/en/p/phones/razr/razr-plus-2026/pmipmjq44ms",
+        "retrievedAt": "2026-09-28"
+      },
+      "image": {
+        "url": "https://p4-ofp.static.pub//fes/cms/2026/04/26/7989y53xmbksy8db7auibl1at7e55g193912.png",
+        "page": "https://www.motorola.com/us/en/p/phones/razr/razr-plus-2026/pmipmjq44ms",
+        "sourceType": "manufacturer-product-page",
+        "rights": "Official Motorola US store product render (static.pub CDN used by motorola.com); Motorola has not granted a reuse license - rights not verified.",
+        "alt": "Motorola razr+ 2026 in Mountain View, closed, rear cover-screen view, official Motorola product render",
+        "match": "EXACT",
+        "credit": "Motorola"
+      },
+      "notes": "motorola.com US currently sells the unlocked razr+ 2026 in PANTONE Mountain View only."
+    },
+    {
+      "sku": "TK-MOTOROLA-RAZR-2026",
+      "slug": "motorola-razr-2026",
+      "name": "Motorola razr 2026",
+      "brand": "Motorola",
+      "category": "foldables",
+      "price": "799.99",
+      "priceBasis": "msrp",
+      "priceSource": "https://www.motorola.com/us/en/p/phones/razr/razr-2026/pmipmjl44m7",
+      "priceAsOf": "2026-09-28",
+      "releaseYear": 2026,
+      "summary": "Entry razr flip phone for 2026 with a 6.9-inch 120 Hz main display, 3.6-inch cover screen, MediaTek Dimensity 7450X and dual 50 MP cameras.",
+      "description": "The razr 2026 combines a 6.9-inch LTPO Extreme AMOLED main screen with a 3.6-inch 90 Hz cover display. It uses a MediaTek Dimensity 7450X with 8 GB RAM and 256 GB storage, 50 MP wide (OIS) and 50 MP ultrawide rear cameras, a 4,800 mAh silicon-carbon battery, IP48 protection and MIL-STD 810H certification.",
+      "keywords": "razr 2026 flip phone foldable motorola dimensity",
+      "specs": {
+        "chip": "MediaTek Dimensity 7450X",
+        "storageGb": 256,
+        "ramGb": 8,
+        "displayIn": 6.9,
+        "display": "6.9-inch 2640 x 1080 LTPO Extreme AMOLED, 120 Hz, up to 3,000 nits peak",
+        "coverDisplay": "3.6-inch 1056 x 1066 LTPS Extreme AMOLED, 90 Hz, up to 1,700 nits peak",
+        "rearCamera": "50 MP wide (f/1.7, OIS) + 50 MP ultrawide (f/2.0)",
+        "frontCamera": "32 MP (f/2.4)",
+        "battery": "4,800 mAh silicon-carbon",
+        "charging": "30 W wired, 15 W wireless",
+        "connectivity": "5G, Wi-Fi 6E",
+        "durability": "IP48, MIL-STD 810H",
+        "os": "Android 16",
+        "weightG": 188,
+        "dimensions": "Open 171.30 x 73.99 x 7.25 mm; closed 88.08 x 73.99 x 15.85 mm"
+      },
+      "variants": [
+        {
+          "label": "256 GB / 8 GB RAM, Unlocked",
+          "price": "799.99"
+        }
+      ],
+      "colors": [
+        "Hematite",
+        "Violet Ice",
+        "Bright White",
+        "Sporting Green"
+      ],
+      "featured": false,
+      "warranty": 12,
+      "sources": {
+        "product": "https://www.motorola.com/us/en/p/phones/razr/razr-2026/pmipmjl44m7",
+        "specs": "https://www.motorola.com/us/en/p/phones/razr/razr-2026/pmipmjl44m7",
+        "retrievedAt": "2026-09-28"
+      },
+      "image": {
+        "url": "https://p2-ofp.static.pub//fes/cms/2026/04/26/un7kktj32f7uo94m0te6hvx9mrkv1i443919.png",
+        "page": "https://www.motorola.com/us/en/p/phones/razr/razr-2026/pmipmjl44m7",
+        "sourceType": "manufacturer-product-page",
+        "rights": "Official Motorola US store product render (static.pub CDN used by motorola.com); Motorola has not granted a reuse license - rights not verified.",
+        "alt": "Motorola razr 2026 in Hematite, closed, rear cover-screen view, official Motorola product render",
+        "match": "EXACT",
+        "credit": "Motorola"
+      },
+      "colorImages": {
+        "Hematite": {
+          "url": "https://p2-ofp.static.pub//fes/cms/2026/04/26/un7kktj32f7uo94m0te6hvx9mrkv1i443919.png",
+          "page": "https://www.motorola.com/us/en/p/phones/razr/razr-2026/pmipmjl44m7",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Motorola US store product render (static.pub CDN used by motorola.com); Motorola has not granted a reuse license - rights not verified.",
+          "alt": "Motorola razr 2026 in Hematite, closed, rear cover-screen view, official Motorola product render",
+          "match": "EXACT",
+          "credit": "Motorola"
+        },
+        "Violet Ice": {
+          "url": "https://p3-ofp.static.pub//fes/cms/2026/04/29/u514rtql75jtky8iyh4y1atnoezm2k218021.png",
+          "page": "https://www.motorola.com/us/en/p/phones/razr/razr-2026/pmipmjl44m7",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Motorola US store product render (static.pub CDN used by motorola.com); Motorola has not granted a reuse license - rights not verified.",
+          "alt": "Motorola razr 2026 in Violet Ice, closed, rear cover-screen view, official Motorola product render",
+          "match": "EXACT",
+          "credit": "Motorola"
+        },
+        "Bright White": {
+          "url": "https://p4-ofp.static.pub//fes/cms/2026/04/29/y66pcwnt7r1dr7aq22uc6tum475m8y493821.png",
+          "page": "https://www.motorola.com/us/en/p/phones/razr/razr-2026/pmipmjl44m7",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Motorola US store product render (static.pub CDN used by motorola.com); Motorola has not granted a reuse license - rights not verified.",
+          "alt": "Motorola razr 2026 in Bright White, closed, rear cover-screen view, official Motorola product render",
+          "match": "EXACT",
+          "credit": "Motorola"
+        },
+        "Sporting Green": {
+          "url": "https://p1-ofp.static.pub//fes/cms/2026/04/29/d65yauixyfnnbwsm0adhm9zkux10y2558693.png",
+          "page": "https://www.motorola.com/us/en/p/phones/razr/razr-2026/pmipmjl44m7",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Motorola US store product render (static.pub CDN used by motorola.com); Motorola has not granted a reuse license - rights not verified.",
+          "alt": "Motorola razr 2026 in Sporting Green, closed, rear cover-screen view, official Motorola product render",
+          "match": "EXACT",
+          "credit": "Motorola"
+        }
+      },
+      "notes": "A PANTONE Meteorite 'with Crystals by Swarovski' edition is sold at the same price but is a separate special edition; not included."
+    },
+    {
+      "sku": "TK-MOTOROLA-RAZR-ULTRA-2025",
+      "slug": "motorola-razr-ultra-2025",
+      "name": "Motorola razr ultra 2025",
+      "brand": "Motorola",
+      "category": "foldables",
+      "price": "799.99",
+      "priceBasis": "starting-at",
+      "priceSource": "https://www.motorola.com/us/en/p/phones/razr/razr-ultra/pmipmhn40ms",
+      "priceAsOf": "2026-09-28",
+      "compareAt": "1299.99",
+      "releaseYear": 2025,
+      "summary": "2025 razr ultra flip phone with a 7-inch 165 Hz main display, 4-inch cover screen, Snapdragon 8 Elite and 16 GB RAM, now at a reduced official price.",
+      "description": "The razr ultra 2025 has a 7.0-inch Super HD LTPO foldable AMOLED display (up to 165 Hz) and a 4.0-inch pOLED cover screen. It runs the Snapdragon 8 Elite with 16 GB RAM, offers 512 GB or 1 TB (motorola.com only) storage, 50 MP main and 50 MP ultrawide cameras, a 50 MP selfie camera, and a 4,700 mAh battery with 68 W wired and 30 W wireless charging.",
+      "keywords": "razr ultra 2025 flip phone foldable snapdragon 8 elite 1tb alcantara wood",
+      "specs": {
+        "chip": "Snapdragon 8 Elite",
+        "storageGb": 512,
+        "ramGb": 16,
+        "displayIn": 7.0,
+        "display": "7.0-inch 2992 x 1224 Super HD LTPO foldable AMOLED, up to 165 Hz, HDR10+",
+        "coverDisplay": "4.0-inch 1272 x 1080 LTPO pOLED",
+        "rearCamera": "50 MP main (f/1.8, OIS) + 50 MP ultrawide/macro (f/2.0)",
+        "frontCamera": "50 MP (f/2.0)",
+        "battery": "4,700 mAh",
+        "charging": "68 W wired, 30 W wireless, 5 W reverse",
+        "connectivity": "5G",
+        "durability": "IP48",
+        "os": "Android 15",
+        "weightG": 199,
+        "dimensions": "Open 171.48 x 73.99 x 7.29 mm; closed 88.12 x 73.99 x 15.69 mm"
+      },
+      "variants": [
+        {
+          "label": "512 GB / 16 GB RAM (list $1,299.99)",
+          "price": "799.99"
+        },
+        {
+          "label": "1 TB / 16 GB RAM (list $1,499.99)",
+          "price": "799.99"
+        }
+      ],
+      "colors": [
+        "Scarab",
+        "Cabaret",
+        "Mountain Trail",
+        "Rio Red"
+      ],
+      "featured": false,
+      "warranty": 12,
+      "sources": {
+        "product": "https://www.motorola.com/us/en/p/phones/razr/razr-ultra/pmipmhn40ms",
+        "specs": "https://www.motorola.com/us/en/p/phones/razr/razr-ultra/pmipmhn40ms",
+        "retrievedAt": "2026-09-28"
+      },
+      "image": {
+        "url": "https://p1-ofp.static.pub//fes/cms/2025/05/07/kdt9rs85cyfferhu43tix7tuv6wm97445851.png",
+        "page": "https://www.motorola.com/us/en/p/phones/razr/razr-ultra/pmipmhn40ms",
+        "sourceType": "manufacturer-product-page",
+        "rights": "Official Motorola US store product render (static.pub CDN used by motorola.com); Motorola has not granted a reuse license - rights not verified.",
+        "alt": "Motorola razr ultra 2025 in Scarab, closed, rear cover-screen view, official Motorola product render",
+        "match": "EXACT",
+        "credit": "Motorola"
+      },
+      "colorImages": {
+        "Scarab": {
+          "url": "https://p1-ofp.static.pub//fes/cms/2025/05/07/kdt9rs85cyfferhu43tix7tuv6wm97445851.png",
+          "page": "https://www.motorola.com/us/en/p/phones/razr/razr-ultra/pmipmhn40ms",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Motorola US store product render (static.pub CDN used by motorola.com); Motorola has not granted a reuse license - rights not verified.",
+          "alt": "Motorola razr ultra 2025 in Scarab, closed, rear cover-screen view, official Motorola product render",
+          "match": "EXACT",
+          "credit": "Motorola"
+        },
+        "Cabaret": {
+          "url": "https://p3-ofp.static.pub//fes/cms/2025/05/07/w019jq39h5ljahot3kxfzja4iz3euu800156.png",
+          "page": "https://www.motorola.com/us/en/p/phones/razr/razr-ultra/pmipmhn40ms",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Motorola US store product render (static.pub CDN used by motorola.com); Motorola has not granted a reuse license - rights not verified.",
+          "alt": "Motorola razr ultra 2025 in Cabaret, closed, rear cover-screen view, official Motorola product render",
+          "match": "EXACT",
+          "credit": "Motorola"
+        },
+        "Mountain Trail": {
+          "url": "https://p3-ofp.static.pub//fes/cms/2025/05/03/e6wwrezr9p7ln4gu3igwh3g2betwrr981658.png",
+          "page": "https://www.motorola.com/us/en/p/phones/razr/razr-ultra/pmipmhn40ms",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Motorola US store product render (static.pub CDN used by motorola.com); Motorola has not granted a reuse license - rights not verified.",
+          "alt": "Motorola razr ultra 2025 in Mountain Trail, closed, rear cover-screen view, official Motorola product render",
+          "match": "EXACT",
+          "credit": "Motorola"
+        },
+        "Rio Red": {
+          "url": "https://p1-ofp.static.pub//fes/cms/2025/05/03/zfbq54wwdi719w7p13xpxi6r3fjp71036734.png",
+          "page": "https://www.motorola.com/us/en/p/phones/razr/razr-ultra/pmipmhn40ms",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Motorola US store product render (static.pub CDN used by motorola.com); Motorola has not granted a reuse license - rights not verified.",
+          "alt": "Motorola razr ultra 2025 in Rio Red, closed, rear cover-screen view, official Motorola product render",
+          "match": "EXACT",
+          "credit": "Motorola"
+        }
+      },
+      "notes": "motorola.com shows $799.99 sale price against list $1,299.99 (512 GB) / $1,499.99 (1 TB). Cabaret is sold in 512 GB only, Rio Red in 1 TB only."
+    },
+    {
+      "sku": "TK-MOTOROLA-RAZR-2025",
+      "slug": "motorola-razr-2025",
+      "name": "Motorola razr 2025",
+      "brand": "Motorola",
+      "category": "foldables",
+      "price": "549.99",
+      "priceBasis": "msrp",
+      "priceSource": "https://www.motorola.com/us/en/p/phones/razr/razr-gen-5/pmipmhv41mo",
+      "priceAsOf": "2026-09-28",
+      "compareAt": "699.99",
+      "releaseYear": 2025,
+      "summary": "2025 razr flip phone with a 6.9-inch 120 Hz main display, 3.6-inch cover screen, MediaTek Dimensity 7400X and 256 GB storage.",
+      "description": "The razr 2025 has a 6.9-inch FHD+ LTPO pOLED main display and a 3.6-inch 90 Hz external display. It runs a MediaTek Dimensity 7400X with 8 GB RAM and 256 GB storage, has a 50 MP main camera with OIS and a 13 MP ultrawide/macro camera, and a 4,500 mAh battery with 30 W wired and 15 W wireless charging.",
+      "keywords": "razr 2025 flip phone foldable motorola budget",
+      "specs": {
+        "chip": "MediaTek Dimensity 7400X",
+        "storageGb": 256,
+        "ramGb": 8,
+        "displayIn": 6.9,
+        "display": "6.9-inch 2640 x 1080 FHD+ LTPO pOLED, up to 120 Hz, 3,000 nits peak",
+        "coverDisplay": "3.6-inch 1056 x 1066 pOLED, up to 90 Hz",
+        "rearCamera": "50 MP main (f/1.7, OIS) + 13 MP ultrawide/macro (f/2.2)",
+        "frontCamera": "32 MP (f/2.4)",
+        "battery": "4,500 mAh",
+        "charging": "30 W wired, 15 W wireless",
+        "connectivity": "5G, Wi-Fi 6E",
+        "durability": "IP48",
+        "os": "Android 15",
+        "weightG": 188,
+        "dimensions": "Open 171.30 x 73.99 x 7.25 mm; closed 88.08 x 73.99 x 15.85 mm"
+      },
+      "variants": [
+        {
+          "label": "256 GB / 8 GB RAM, Unlocked",
+          "price": "549.99"
+        }
+      ],
+      "colors": [
+        "Parfait Pink",
+        "Spring Bud",
+        "Lightest Sky"
+      ],
+      "featured": false,
+      "warranty": 12,
+      "sources": {
+        "product": "https://www.motorola.com/us/en/p/phones/razr/razr-gen-5/pmipmhv41mo",
+        "specs": "https://www.motorola.com/us/en/p/phones/razr/razr-gen-5/pmipmhv41mo",
+        "retrievedAt": "2026-09-28"
+      },
+      "image": {
+        "url": "https://p2-ofp.static.pub//fes/cms/2025/05/03/vnz94g5mou4l2x3pc4pmeos57pvl77395087.png",
+        "page": "https://www.motorola.com/us/en/p/phones/razr/razr-gen-5/pmipmhv41mo",
+        "sourceType": "manufacturer-product-page",
+        "rights": "Official Motorola US store product render (static.pub CDN used by motorola.com); Motorola has not granted a reuse license - rights not verified.",
+        "alt": "Motorola razr 2025 in Parfait Pink, closed, rear cover-screen view, official Motorola product render",
+        "match": "EXACT",
+        "credit": "Motorola"
+      },
+      "colorImages": {
+        "Parfait Pink": {
+          "url": "https://p2-ofp.static.pub//fes/cms/2025/05/03/vnz94g5mou4l2x3pc4pmeos57pvl77395087.png",
+          "page": "https://www.motorola.com/us/en/p/phones/razr/razr-gen-5/pmipmhv41mo",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Motorola US store product render (static.pub CDN used by motorola.com); Motorola has not granted a reuse license - rights not verified.",
+          "alt": "Motorola razr 2025 in Parfait Pink, closed, rear cover-screen view, official Motorola product render",
+          "match": "EXACT",
+          "credit": "Motorola"
+        },
+        "Spring Bud": {
+          "url": "https://p4-ofp.static.pub//fes/cms/2025/05/03/bnpsyetcwrl9ubuxowve9uyfkpky7s431388.png",
+          "page": "https://www.motorola.com/us/en/p/phones/razr/razr-gen-5/pmipmhv41mo",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Motorola US store product render (static.pub CDN used by motorola.com); Motorola has not granted a reuse license - rights not verified.",
+          "alt": "Motorola razr 2025 in Spring Bud, closed, rear cover-screen view, official Motorola product render",
+          "match": "EXACT",
+          "credit": "Motorola"
+        },
+        "Lightest Sky": {
+          "url": "https://p1-ofp.static.pub//fes/cms/2025/05/03/sbk5apfore8cyajcmu68fl51rm5xjn171433.png",
+          "page": "https://www.motorola.com/us/en/p/phones/razr/razr-gen-5/pmipmhv41mo",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Motorola US store product render (static.pub CDN used by motorola.com); Motorola has not granted a reuse license - rights not verified.",
+          "alt": "Motorola razr 2025 in Lightest Sky, closed, rear cover-screen view, official Motorola product render",
+          "match": "EXACT",
+          "credit": "Motorola"
+        }
+      },
+      "notes": "Official sale price $549.99; list $699.99."
+    },
+    {
+      "sku": "TK-MOTOROLA-EDGE-2026",
+      "slug": "motorola-edge-2026",
+      "name": "Motorola edge 2026",
+      "brand": "Motorola",
+      "category": "smartphones",
+      "price": "599.99",
+      "priceBasis": "msrp",
+      "priceSource": "https://www.motorola.com/us/en/p/phones/motorola-edge/edge-2026/pmipmjr44mu",
+      "priceAsOf": "2026-09-28",
+      "releaseYear": 2026,
+      "summary": "Compact 6.3-inch Motorola with a 5,200-nit Extreme AMOLED display, Dimensity 7450, triple camera with 3x telephoto and IP68/IP69 protection.",
+      "description": "The edge 2026 has a 6.3-inch 2640 x 1216 Extreme AMOLED display at up to 120 Hz and 5,200 nits peak. It uses a MediaTek Dimensity 7450 with 8 GB RAM and 128 GB storage, a 50 MP Sony LYTIA 710 main camera, 50 MP ultrawide and 10 MP 3x telephoto, and a 5,000 mAh battery with 60 W wired and 15 W wireless charging.",
+      "keywords": "motorola edge 2026 compact phone telephoto ip69 dimensity",
+      "specs": {
+        "chip": "MediaTek Dimensity 7450",
+        "storageGb": 128,
+        "ramGb": 8,
+        "displayIn": 6.3,
+        "display": "6.3-inch 2640 x 1216 Super HD Extreme AMOLED, up to 120 Hz, 5,200 nits peak",
+        "rearCamera": "50 MP main (Sony LYTIA 710, f/1.8, OIS) + 50 MP ultrawide/macro (f/2.0) + 10 MP 3x telephoto (OIS)",
+        "frontCamera": "50 MP (f/1.95)",
+        "battery": "5,000 mAh",
+        "charging": "60 W wired, 15 W wireless",
+        "connectivity": "5G, Wi-Fi 6E, NFC",
+        "durability": "IP68/IP69, MIL-STD 810H, Gorilla Glass 7i",
+        "os": "Android 16",
+        "weightG": 160.5,
+        "dimensions": "152.3 x 71.98 x 7.22 mm"
+      },
+      "variants": [
+        {
+          "label": "128 GB / 8 GB RAM, Unlocked",
+          "price": "599.99"
+        }
+      ],
+      "colors": [
+        "Martini Olive"
+      ],
+      "featured": false,
+      "warranty": 12,
+      "sources": {
+        "product": "https://www.motorola.com/us/en/p/phones/motorola-edge/edge-2026/pmipmjr44mu",
+        "specs": "https://www.motorola.com/us/en/p/phones/motorola-edge/edge-2026/pmipmjr44mu",
+        "retrievedAt": "2026-09-28"
+      },
+      "image": {
+        "url": "https://p2-ofp.static.pub//fes/cms/2026/06/02/qam0j2nmsldb03x7mksjsvm7f3djla789039.png",
+        "page": "https://www.motorola.com/us/en/p/phones/motorola-edge/edge-2026/pmipmjr44mu",
+        "sourceType": "manufacturer-product-page",
+        "rights": "Official Motorola US store product render (static.pub CDN used by motorola.com); Motorola has not granted a reuse license - rights not verified.",
+        "alt": "Motorola edge 2026 in Martini Olive, rear and front angled view, official Motorola product render",
+        "match": "EXACT",
+        "credit": "Motorola"
+      }
+    },
+    {
+      "sku": "TK-MOTOROLA-EDGE-2025",
+      "slug": "motorola-edge-2025",
+      "name": "Motorola edge 2025",
+      "brand": "Motorola",
+      "category": "smartphones",
+      "price": "349.99",
+      "priceBasis": "msrp",
+      "priceSource": "https://www.motorola.com/us/en/p/phones/motorola-edge/edge-gen-6/pmipmhp40mv",
+      "priceAsOf": "2026-09-28",
+      "compareAt": "549.99",
+      "releaseYear": 2025,
+      "summary": "6.7-inch pOLED Motorola with Dimensity 7400, triple 50 MP + 50 MP + 10 MP 3x telephoto cameras, 5,200 mAh battery and IP68/IP69 rating.",
+      "description": "The edge 2025 has a 6.7-inch 2712 x 1220 pOLED display at 120 Hz and up to 4,500 nits. It runs a MediaTek Dimensity 7400 with 8 GB RAM and 256 GB storage, uses a 50 MP Sony LYTIA 700C main camera with OIS, a 50 MP ultrawide and a 10 MP 3x telephoto, and has a 5,200 mAh battery with 68 W wired and 15 W wireless charging.",
+      "keywords": "motorola edge 2025 telephoto ip69 military grade",
+      "specs": {
+        "chip": "MediaTek Dimensity 7400",
+        "storageGb": 256,
+        "ramGb": 8,
+        "displayIn": 6.7,
+        "display": "6.7-inch 2712 x 1220 Super HD pOLED, 120 Hz, 4,500 nits peak",
+        "rearCamera": "50 MP main (Sony LYTIA 700C, f/1.8, OIS) + 50 MP ultrawide/macro (f/2.0) + 10 MP 3x telephoto (OIS)",
+        "frontCamera": "50 MP (f/1.9)",
+        "battery": "5,200 mAh",
+        "charging": "68 W wired, 15 W wireless",
+        "connectivity": "5G, Wi-Fi 6E, NFC",
+        "durability": "IP68/IP69, MIL-STD-810H",
+        "os": "Android 15",
+        "weightG": 181,
+        "dimensions": "161.19 x 73.06 x 7.99 mm"
+      },
+      "variants": [
+        {
+          "label": "256 GB / 8 GB RAM, Unlocked",
+          "price": "349.99"
+        }
+      ],
+      "colors": [
+        "Deep Forest"
+      ],
+      "featured": false,
+      "warranty": 12,
+      "sources": {
+        "product": "https://www.motorola.com/us/en/p/phones/motorola-edge/edge-gen-6/pmipmhp40mv",
+        "specs": "https://www.motorola.com/us/en/p/phones/motorola-edge/edge-gen-6/pmipmhp40mv",
+        "retrievedAt": "2026-09-28"
+      },
+      "image": {
+        "url": "https://p1-ofp.static.pub//fes/cms/2025/06/04/hl3ic6s4cvfdrqwdfocv7fwkijtvyd113169.png",
+        "page": "https://www.motorola.com/us/en/p/phones/motorola-edge/edge-gen-6/pmipmhp40mv",
+        "sourceType": "manufacturer-product-page",
+        "rights": "Official Motorola US store product render (static.pub CDN used by motorola.com); Motorola has not granted a reuse license - rights not verified.",
+        "alt": "Motorola edge 2025 in Deep Forest, rear and front angled view, official Motorola product render",
+        "match": "EXACT",
+        "credit": "Motorola"
+      },
+      "notes": "Official sale price $349.99; list $549.99."
+    },
+    {
+      "sku": "TK-MOTOROLA-G-STYLUS-2026",
+      "slug": "motorola-moto-g-stylus-2026",
+      "name": "Motorola moto g stylus 2026",
+      "brand": "Motorola",
+      "category": "smartphones",
+      "price": "499.99",
+      "priceBasis": "starting-at",
+      "priceSource": "https://www.motorola.com/us/en/p/phones/moto-g/g-stylus-2026/pmipmjg43mp",
+      "priceAsOf": "2026-09-28",
+      "releaseYear": 2026,
+      "summary": "Stylus phone with a 6.7-inch 1.5K Extreme AMOLED display, built-in moto stylus, Snapdragon 6 Gen 3, 5,200 mAh battery and 68 W charging.",
+      "description": "The moto g stylus 2026 has a 6.7-inch 2712 x 1220 Extreme AMOLED display at up to 120 Hz and 5,000 nits peak, with a built-in rechargeable moto stylus. It runs a Snapdragon 6 Gen 3 with 8 GB RAM, has a 50 MP Sony LYTIA 700C main camera with OIS plus a 13 MP ultrawide, and a 5,200 mAh battery with 68 W wired and 15 W wireless charging.",
+      "keywords": "moto g stylus 2026 pen stylus phone snapdragon 6 gen 3",
+      "specs": {
+        "chip": "Snapdragon 6 Gen 3",
+        "storageGb": 128,
+        "ramGb": 8,
+        "displayIn": 6.7,
+        "display": "6.7-inch 2712 x 1220 (1.5K) Extreme AMOLED, up to 120 Hz, 5,000 nits peak",
+        "rearCamera": "50 MP main (Sony LYTIA 700C, f/1.8, OIS) + 13 MP ultrawide/macro (f/2.2)",
+        "frontCamera": "32 MP (f/2.2)",
+        "battery": "5,200 mAh",
+        "charging": "68 W wired, 15 W wireless",
+        "connectivity": "5G, Wi-Fi 6E, NFC",
+        "durability": "IP68/IP69, MIL-STD-810H",
+        "os": "Android 16",
+        "weightG": 192.3,
+        "dimensions": "162.15 x 74.78 x 8.29 mm"
+      },
+      "variants": [
+        {
+          "label": "128 GB / 8 GB RAM",
+          "price": "499.99"
+        },
+        {
+          "label": "256 GB / 8 GB RAM (motorola.com exclusive)",
+          "price": "599.99"
+        }
+      ],
+      "colors": [
+        "Coal Smoke",
+        "Lavender Mist"
+      ],
+      "featured": false,
+      "warranty": 12,
+      "sources": {
+        "product": "https://www.motorola.com/us/en/p/phones/moto-g/g-stylus-2026/pmipmjg43mp",
+        "specs": "https://www.motorola.com/us/en/p/phones/moto-g/g-stylus-2026/pmipmjg43mp",
+        "retrievedAt": "2026-09-28"
+      },
+      "image": {
+        "url": "https://p2-ofp.static.pub//fes/cms/2026/04/14/hgdllev3mv459gt4ic33vh33quu0yi364973.png",
+        "page": "https://www.motorola.com/us/en/p/phones/moto-g/g-stylus-2026/pmipmjg43mp",
+        "sourceType": "manufacturer-product-page",
+        "rights": "Official Motorola US store product render (static.pub CDN used by motorola.com); Motorola has not granted a reuse license - rights not verified.",
+        "alt": "Motorola moto g stylus 2026 in Coal Smoke, rear and front angled view, official Motorola product render",
+        "match": "EXACT",
+        "credit": "Motorola"
+      },
+      "colorImages": {
+        "Coal Smoke": {
+          "url": "https://p2-ofp.static.pub//fes/cms/2026/04/14/hgdllev3mv459gt4ic33vh33quu0yi364973.png",
+          "page": "https://www.motorola.com/us/en/p/phones/moto-g/g-stylus-2026/pmipmjg43mp",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Motorola US store product render (static.pub CDN used by motorola.com); Motorola has not granted a reuse license - rights not verified.",
+          "alt": "Motorola moto g stylus 2026 in Coal Smoke, rear and front angled view, official Motorola product render",
+          "match": "EXACT",
+          "credit": "Motorola"
+        },
+        "Lavender Mist": {
+          "url": "https://p4-ofp.static.pub//fes/cms/2026/04/14/vpvmq0lnt3h4shuzhvmj5g18i6q9ti417131.png",
+          "page": "https://www.motorola.com/us/en/p/phones/moto-g/g-stylus-2026/pmipmjg43mp",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Motorola US store product render (static.pub CDN used by motorola.com); Motorola has not granted a reuse license - rights not verified.",
+          "alt": "Motorola moto g stylus 2026 in Lavender Mist, rear and front angled view, official Motorola product render",
+          "match": "EXACT",
+          "credit": "Motorola"
+        }
+      }
+    },
+    {
+      "sku": "TK-MOTOROLA-G-STYLUS-2025",
+      "slug": "motorola-moto-g-stylus-2025",
+      "name": "Motorola moto g stylus 2025",
+      "brand": "Motorola",
+      "category": "smartphones",
+      "price": "299.99",
+      "priceBasis": "msrp",
+      "priceSource": "https://www.motorola.com/us/en/p/phones/moto-g/g-stylus-gen-5/pmipmhl40me",
+      "priceAsOf": "2026-09-28",
+      "compareAt": "399.99",
+      "releaseYear": 2025,
+      "summary": "2025 stylus phone with a 6.7-inch pOLED display, built-in stylus, Snapdragon 6 Gen 3, 256 GB storage and 68 W charging.",
+      "description": "The moto g stylus 2025 has a 6.7-inch 2712 x 1220 pOLED display with adaptive refresh up to 120 Hz and a built-in stylus. It runs a Snapdragon 6 Gen 3 with 8 GB RAM and 256 GB storage (microSD up to 1 TB), a 50 MP Sony LYTIA 700C main camera with OIS, a 13 MP ultrawide, and a 5,000 mAh battery with 68 W wired and 15 W wireless charging.",
+      "keywords": "moto g stylus 2025 pen phone",
+      "specs": {
+        "chip": "Snapdragon 6 Gen 3",
+        "storageGb": 256,
+        "ramGb": 8,
+        "displayIn": 6.7,
+        "display": "6.7-inch 2712 x 1220 pOLED, up to 120 Hz, 3,000 nits HDR peak",
+        "rearCamera": "50 MP main (Sony LYTIA 700C, f/1.8, OIS) + 13 MP ultrawide/macro (f/2.2)",
+        "frontCamera": "32 MP (f/2.2)",
+        "battery": "5,000 mAh",
+        "charging": "68 W wired, 15 W wireless",
+        "connectivity": "5G, Wi-Fi 6E",
+        "durability": "IP68, MIL-STD-810H",
+        "os": "Android 15",
+        "weightG": 191,
+        "dimensions": "162.15 x 74.78 x 8.29 mm"
+      },
+      "variants": [
+        {
+          "label": "256 GB / 8 GB RAM, Unlocked",
+          "price": "299.99"
+        }
+      ],
+      "colors": [
+        "Gibraltar Sea",
+        "Surf the Web"
+      ],
+      "featured": false,
+      "warranty": 12,
+      "sources": {
+        "product": "https://www.motorola.com/us/en/p/phones/moto-g/g-stylus-gen-5/pmipmhl40me",
+        "specs": "https://www.motorola.com/us/en/p/phones/moto-g/g-stylus-gen-5/pmipmhl40me",
+        "retrievedAt": "2026-09-28"
+      },
+      "image": {
+        "url": "https://p2-ofp.static.pub//fes/cms/2025/04/14/wy1mqwgd5r85uvqa3xii6hzwk83jnh475525.png",
+        "page": "https://www.motorola.com/us/en/p/phones/moto-g/g-stylus-gen-5/pmipmhl40me",
+        "sourceType": "manufacturer-product-page",
+        "rights": "Official Motorola US store product render (static.pub CDN used by motorola.com); Motorola has not granted a reuse license - rights not verified.",
+        "alt": "Motorola moto g stylus 2025 in Gibraltar Sea, front and rear view, official Motorola product render",
+        "match": "EXACT",
+        "credit": "Motorola"
+      },
+      "colorImages": {
+        "Gibraltar Sea": {
+          "url": "https://p2-ofp.static.pub//fes/cms/2025/04/14/wy1mqwgd5r85uvqa3xii6hzwk83jnh475525.png",
+          "page": "https://www.motorola.com/us/en/p/phones/moto-g/g-stylus-gen-5/pmipmhl40me",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Motorola US store product render (static.pub CDN used by motorola.com); Motorola has not granted a reuse license - rights not verified.",
+          "alt": "Motorola moto g stylus 2025 in Gibraltar Sea, front and rear view, official Motorola product render",
+          "match": "EXACT",
+          "credit": "Motorola"
+        },
+        "Surf the Web": {
+          "url": "https://p4-ofp.static.pub//fes/cms/2025/04/14/cx7faavj94108p1zny3yqgjmgesgxg673553.png",
+          "page": "https://www.motorola.com/us/en/p/phones/moto-g/g-stylus-gen-5/pmipmhl40me",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Motorola US store product render (static.pub CDN used by motorola.com); Motorola has not granted a reuse license - rights not verified.",
+          "alt": "Motorola moto g stylus 2025 in Surf the Web, front and rear view, official Motorola product render",
+          "match": "EXACT",
+          "credit": "Motorola"
+        }
+      },
+      "notes": "Official sale price $299.99; list $399.99."
+    },
+    {
+      "sku": "TK-MOTOROLA-G-POWER-2026",
+      "slug": "motorola-moto-g-power-2026",
+      "name": "Motorola moto g power 2026",
+      "brand": "Motorola",
+      "category": "smartphones",
+      "price": "399.99",
+      "priceBasis": "msrp",
+      "priceSource": "https://www.motorola.com/us/en/p/phones/moto-g/moto-g-power-2026/pmipmjb42mv",
+      "priceAsOf": "2026-09-28",
+      "releaseYear": 2026,
+      "summary": "Long-battery Motorola with a 6.8-inch 120 Hz FHD+ display, Dimensity 6300, 8 GB RAM, 5,200 mAh battery and IP68/IP69 rating.",
+      "description": "The moto g power 2026 has a 6.8-inch 2388 x 1080 LCD at 120 Hz behind Gorilla Glass 7i. It runs a MediaTek Dimensity 6300 with 8 GB RAM and 128 GB storage (microSD up to 1 TB), has a 50 MP main camera with OIS and an 8 MP ultrawide/macro, and a 5,200 mAh battery with 30 W charging.",
+      "keywords": "moto g power 2026 battery phone budget",
+      "specs": {
+        "chip": "MediaTek Dimensity 6300",
+        "storageGb": 128,
+        "ramGb": 8,
+        "displayIn": 6.8,
+        "display": "6.8-inch 2388 x 1080 FHD+ LCD, 120 Hz, up to 1,000 nits HBM",
+        "rearCamera": "50 MP main (f/1.8, OIS) + 8 MP ultrawide/macro (f/2.2)",
+        "frontCamera": "32 MP (f/2.2)",
+        "battery": "5,200 mAh",
+        "charging": "30 W wired",
+        "connectivity": "5G, Wi-Fi 5",
+        "durability": "IP68/IP69, MIL-STD-810H, Gorilla Glass 7i",
+        "os": "Android 16",
+        "weightG": 208,
+        "dimensions": "166.62 x 77.10 x 8.72 mm"
+      },
+      "variants": [
+        {
+          "label": "128 GB / 8 GB RAM, Unlocked",
+          "price": "399.99"
+        }
+      ],
+      "colors": [
+        "Pure Cashmere",
+        "Evening Blue"
+      ],
+      "featured": false,
+      "warranty": 12,
+      "sources": {
+        "product": "https://www.motorola.com/us/en/p/phones/moto-g/moto-g-power-2026/pmipmjb42mv",
+        "specs": "https://www.motorola.com/us/en/p/phones/moto-g/moto-g-power-2026/pmipmjb42mv",
+        "retrievedAt": "2026-09-28"
+      },
+      "image": {
+        "url": "https://p3-ofp.static.pub//fes/cms/2026/01/07/ruomrf9cyu990v47alfp6vg9yfajgp516168.png",
+        "page": "https://www.motorola.com/us/en/p/phones/moto-g/moto-g-power-2026/pmipmjb42mv",
+        "sourceType": "manufacturer-product-page",
+        "rights": "Official Motorola US store product render (static.pub CDN used by motorola.com); Motorola has not granted a reuse license - rights not verified.",
+        "alt": "Motorola moto g power 2026 in Pure Cashmere, rear view, official Motorola product render",
+        "match": "EXACT",
+        "credit": "Motorola"
+      },
+      "colorImages": {
+        "Pure Cashmere": {
+          "url": "https://p3-ofp.static.pub//fes/cms/2026/01/07/ruomrf9cyu990v47alfp6vg9yfajgp516168.png",
+          "page": "https://www.motorola.com/us/en/p/phones/moto-g/moto-g-power-2026/pmipmjb42mv",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Motorola US store product render (static.pub CDN used by motorola.com); Motorola has not granted a reuse license - rights not verified.",
+          "alt": "Motorola moto g power 2026 in Pure Cashmere, rear view, official Motorola product render",
+          "match": "EXACT",
+          "credit": "Motorola"
+        },
+        "Evening Blue": {
+          "url": "https://p3-ofp.static.pub//fes/cms/2026/01/07/6z0dlkg7ejkqng4nvc72d1oft9a298955168.png",
+          "page": "https://www.motorola.com/us/en/p/phones/moto-g/moto-g-power-2026/pmipmjb42mv",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Motorola US store product render (static.pub CDN used by motorola.com); Motorola has not granted a reuse license - rights not verified.",
+          "alt": "Motorola moto g power 2026 in Evening Blue, rear view, official Motorola product render",
+          "match": "EXACT",
+          "credit": "Motorola"
+        }
+      }
+    },
+    {
+      "sku": "TK-MOTOROLA-G-POWER-2025",
+      "slug": "motorola-moto-g-power-2025",
+      "name": "Motorola moto g power 2025",
+      "brand": "Motorola",
+      "category": "smartphones",
+      "price": "199.99",
+      "priceBasis": "msrp",
+      "priceSource": "https://www.motorola.com/us/en/p/phones/moto-g/moto-g-power-2025/pmipmhi39mv",
+      "priceAsOf": "2026-09-28",
+      "compareAt": "299.99",
+      "releaseYear": 2025,
+      "summary": "Budget 5G Motorola with a 6.8-inch 120 Hz FHD+ display, Dimensity 6300, 5,000 mAh battery, wireless charging and IP68/IP69 rating.",
+      "description": "The moto g power 2025 has a 6.8-inch 2388 x 1080 LCD at 120 Hz and runs a MediaTek Dimensity 6300 with 8 GB RAM and 128 GB storage. It has a 50 MP main camera with OIS, an 8 MP ultrawide/macro and a 16 MP selfie camera, and a 5,000 mAh battery with 30 W wired and 15 W wireless charging.",
+      "keywords": "moto g power 2025 budget 5g phone",
+      "specs": {
+        "chip": "MediaTek Dimensity 6300",
+        "storageGb": 128,
+        "ramGb": 8,
+        "displayIn": 6.8,
+        "display": "6.8-inch 2388 x 1080 FHD+ LCD, 120 Hz",
+        "rearCamera": "50 MP main (f/1.8, OIS) + 8 MP ultrawide/macro (f/2.2)",
+        "frontCamera": "16 MP (f/2.4)",
+        "battery": "5,000 mAh",
+        "charging": "30 W wired, 15 W wireless",
+        "connectivity": "5G, Wi-Fi 5",
+        "durability": "IP68/IP69, MIL-STD 810H",
+        "os": "Android 15",
+        "weightG": 208,
+        "dimensions": "166.62 x 77.10 x 8.72 mm"
+      },
+      "variants": [
+        {
+          "label": "128 GB / 8 GB RAM, Unlocked",
+          "price": "199.99"
+        }
+      ],
+      "colors": [
+        "Leaf Green",
+        "Slate Gray"
+      ],
+      "featured": false,
+      "warranty": 12,
+      "sources": {
+        "product": "https://www.motorola.com/us/en/p/phones/moto-g/moto-g-power-2025/pmipmhi39mv",
+        "specs": "https://www.motorola.com/us/en/p/phones/moto-g/moto-g-power-2025/pmipmhi39mv",
+        "retrievedAt": "2026-09-28"
+      },
+      "image": {
+        "url": "https://p1-ofp.static.pub//fes/cms/2025/02/04/wlisqtilj5cg9w3bxzpme8nxs4cyj5325281.png",
+        "page": "https://www.motorola.com/us/en/p/phones/moto-g/moto-g-power-2025/pmipmhi39mv",
+        "sourceType": "manufacturer-product-page",
+        "rights": "Official Motorola US store product render (static.pub CDN used by motorola.com); Motorola has not granted a reuse license - rights not verified.",
+        "alt": "Motorola moto g power 2025 in Leaf Green, front and rear view, official Motorola product render",
+        "match": "EXACT",
+        "credit": "Motorola"
+      },
+      "colorImages": {
+        "Leaf Green": {
+          "url": "https://p1-ofp.static.pub//fes/cms/2025/02/04/wlisqtilj5cg9w3bxzpme8nxs4cyj5325281.png",
+          "page": "https://www.motorola.com/us/en/p/phones/moto-g/moto-g-power-2025/pmipmhi39mv",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Motorola US store product render (static.pub CDN used by motorola.com); Motorola has not granted a reuse license - rights not verified.",
+          "alt": "Motorola moto g power 2025 in Leaf Green, front and rear view, official Motorola product render",
+          "match": "EXACT",
+          "credit": "Motorola"
+        },
+        "Slate Gray": {
+          "url": "https://p4-ofp.static.pub//fes/cms/2025/02/04/g5a12btk2ovpub3d354lxbatsq5r4h913849.png",
+          "page": "https://www.motorola.com/us/en/p/phones/moto-g/moto-g-power-2025/pmipmhi39mv",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Motorola US store product render (static.pub CDN used by motorola.com); Motorola has not granted a reuse license - rights not verified.",
+          "alt": "Motorola moto g power 2025 in Slate Gray, front and rear view, official Motorola product render",
+          "match": "EXACT",
+          "credit": "Motorola"
+        }
+      },
+      "notes": "Official sale price $199.99; list $299.99."
+    },
+    {
+      "sku": "TK-MOTOROLA-G-2026",
+      "slug": "motorola-moto-g-2026",
+      "name": "Motorola moto g 2026",
+      "brand": "Motorola",
+      "category": "smartphones",
+      "price": "249.99",
+      "priceBasis": "msrp",
+      "priceSource": "https://www.motorola.com/us/en/p/phones/moto-g/moto-g-2026/pmipmhz42mm",
+      "priceAsOf": "2026-09-28",
+      "compareAt": "299.99",
+      "releaseYear": 2026,
+      "summary": "Affordable 5G Motorola with a 6.7-inch 120 Hz display, Dimensity 6300, 128 GB storage, 50 MP camera and 5,200 mAh battery.",
+      "description": "The moto g 2026 has a 6.7-inch HD+ LCD at 120 Hz under Gorilla Glass 3, a MediaTek Dimensity 6300 with 4 GB RAM and 128 GB storage (microSD up to 1 TB). It has a 50 MP main camera plus a 2 MP macro, a 32 MP selfie camera, and a 5,200 mAh battery with 30 W charging.",
+      "keywords": "moto g 2026 budget 5g phone",
+      "specs": {
+        "chip": "MediaTek Dimensity 6300",
+        "storageGb": 128,
+        "ramGb": 4,
+        "displayIn": 6.7,
+        "display": "6.7-inch 1604 x 720 HD+ LCD, 120 Hz, Gorilla Glass 3",
+        "rearCamera": "50 MP main (f/1.8) + 2 MP macro (f/2.5)",
+        "frontCamera": "32 MP (f/2.2)",
+        "battery": "5,200 mAh",
+        "charging": "30 W wired",
+        "connectivity": "5G, Wi-Fi 5",
+        "durability": "Water-repellent design",
+        "os": "Android 16",
+        "weightG": 202,
+        "dimensions": "167.15 x 76.40 x 8.44 mm"
+      },
+      "variants": [
+        {
+          "label": "128 GB / 4 GB RAM, Unlocked",
+          "price": "249.99"
+        }
+      ],
+      "colors": [
+        "Slipstream",
+        "Cattleya Orchid"
+      ],
+      "featured": false,
+      "warranty": 12,
+      "sources": {
+        "product": "https://www.motorola.com/us/en/p/phones/moto-g/moto-g-2026/pmipmhz42mm",
+        "specs": "https://www.motorola.com/us/en/p/phones/moto-g/moto-g-2026/pmipmhz42mm",
+        "retrievedAt": "2026-09-28"
+      },
+      "image": {
+        "url": "https://p4-ofp.static.pub//fes/cms/2025/12/10/ip6bwadl2zq09pu0cbd5aoxzhzot9p354479.png",
+        "page": "https://www.motorola.com/us/en/p/phones/moto-g/moto-g-2026/pmipmhz42mm",
+        "sourceType": "manufacturer-product-page",
+        "rights": "Official Motorola US store product render (static.pub CDN used by motorola.com); Motorola has not granted a reuse license - rights not verified.",
+        "alt": "Motorola moto g 2026 in Slipstream, rear and front angled view, official Motorola product render",
+        "match": "EXACT",
+        "credit": "Motorola"
+      },
+      "colorImages": {
+        "Slipstream": {
+          "url": "https://p4-ofp.static.pub//fes/cms/2025/12/10/ip6bwadl2zq09pu0cbd5aoxzhzot9p354479.png",
+          "page": "https://www.motorola.com/us/en/p/phones/moto-g/moto-g-2026/pmipmhz42mm",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Motorola US store product render (static.pub CDN used by motorola.com); Motorola has not granted a reuse license - rights not verified.",
+          "alt": "Motorola moto g 2026 in Slipstream, rear and front angled view, official Motorola product render",
+          "match": "EXACT",
+          "credit": "Motorola"
+        },
+        "Cattleya Orchid": {
+          "url": "https://p1-ofp.static.pub//fes/cms/2025/12/10/k3bi3gpaiokeg87bbs1xc0g915yxsl727002.png",
+          "page": "https://www.motorola.com/us/en/p/phones/moto-g/moto-g-2026/pmipmhz42mm",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Motorola US store product render (static.pub CDN used by motorola.com); Motorola has not granted a reuse license - rights not verified.",
+          "alt": "Motorola moto g 2026 in Cattleya Orchid, rear and front angled view, official Motorola product render",
+          "match": "EXACT",
+          "credit": "Motorola"
+        }
+      },
+      "notes": "Official sale price $249.99; list $299.99."
+    },
+    {
+      "sku": "TK-MOTOROLA-G-PLAY-2026",
+      "slug": "motorola-moto-g-play-2026",
+      "name": "Motorola moto g play 2026",
+      "brand": "Motorola",
+      "category": "smartphones",
+      "price": "199.99",
+      "priceBasis": "msrp",
+      "priceSource": "https://www.motorola.com/us/en/p/phones/moto-g/moto-g-play-2026/pmipmja42mq",
+      "priceAsOf": "2026-09-28",
+      "compareAt": "249.99",
+      "releaseYear": 2026,
+      "summary": "Entry-level Motorola with a 6.7-inch 120 Hz display, Dimensity 6300, 64 GB storage, 32 MP camera and 5,200 mAh battery.",
+      "description": "The moto g play 2026 has a 6.7-inch HD+ LCD at 120 Hz with Gorilla Glass 3 and runs a MediaTek Dimensity 6300 with 4 GB RAM and 64 GB storage (microSD up to 1 TB). It has a 32 MP rear camera, an 8 MP selfie camera and a 5,200 mAh battery with 18 W charging.",
+      "keywords": "moto g play 2026 budget phone",
+      "specs": {
+        "chip": "MediaTek Dimensity 6300",
+        "storageGb": 64,
+        "ramGb": 4,
+        "displayIn": 6.7,
+        "display": "6.7-inch 1604 x 720 HD+ LCD, 120 Hz, Gorilla Glass 3",
+        "rearCamera": "32 MP (f/2.2, PDAF)",
+        "frontCamera": "8 MP (f/2.0)",
+        "battery": "5,200 mAh",
+        "charging": "18 W wired",
+        "connectivity": "Wi-Fi 5",
+        "durability": "Water-repellent design",
+        "os": "Android 16",
+        "weightG": 202,
+        "dimensions": "167.15 x 76.40 x 8.44 mm"
+      },
+      "variants": [
+        {
+          "label": "64 GB / 4 GB RAM, Unlocked",
+          "price": "199.99"
+        }
+      ],
+      "colors": [
+        "Tapestry"
+      ],
+      "featured": false,
+      "warranty": 12,
+      "sources": {
+        "product": "https://www.motorola.com/us/en/p/phones/moto-g/moto-g-play-2026/pmipmja42mq",
+        "specs": "https://www.motorola.com/us/en/p/phones/moto-g/moto-g-play-2026/pmipmja42mq",
+        "retrievedAt": "2026-09-28"
+      },
+      "image": {
+        "url": "https://p2-ofp.static.pub//fes/cms/2025/11/12/ejwv4uz6ajzkmp8yfytx03sbwrl9hj997423.png",
+        "page": "https://www.motorola.com/us/en/p/phones/moto-g/moto-g-play-2026/pmipmja42mq",
+        "sourceType": "manufacturer-product-page",
+        "rights": "Official Motorola US store product render (static.pub CDN used by motorola.com); Motorola has not granted a reuse license - rights not verified.",
+        "alt": "Motorola moto g play 2026 in Tapestry, rear and front angled view, official Motorola product render",
+        "match": "EXACT",
+        "credit": "Motorola"
+      },
+      "notes": "Official sale price $199.99; list $249.99."
+    },
+    {
+      "sku": "TK-MOTOROLA-WATCH-ULTRA-2026",
+      "slug": "motorola-moto-watch-ultra-2026",
+      "name": "Motorola moto watch ultra 2026",
+      "brand": "Motorola",
+      "category": "smartwatches",
+      "price": "349.99",
+      "priceBasis": "msrp",
+      "priceSource": "https://www.motorola.com/us/en/p/wearables/moto-watch-ultra-2026/pwipwia11w1",
+      "priceAsOf": "2026-09-28",
+      "releaseYear": 2026,
+      "summary": "LTE Wear OS-class smartwatch from Motorola with a 1.5-inch 2,700-nit pOLED display, Snapdragon W5+ Gen 1, stainless steel case and Polar health features.",
+      "description": "The moto watch ultra 2026 has a 1.5-inch 466 x 466 curved pOLED display (1-60 Hz, up to 2,700 nits) under Gorilla Glass 3 in a stainless steel case. It runs a Snapdragon W5+ Gen 1 with 32 GB storage, supports eSIM LTE, NFC payments and Wi-Fi, and includes Polar features such as Sleep Plus Stages and Nightly Recharge. Offered for pre-order on motorola.com at research time.",
+      "keywords": "moto watch ultra 2026 smartwatch lte esim polar snapdragon w5",
+      "specs": {
+        "caseSizes": "46.26 mm",
+        "chip": "Snapdragon W5+ Gen 1",
+        "display": "1.5-inch 466 x 466 pOLED, 1-60 Hz, up to 2,700 nits, Gorilla Glass 3",
+        "battery": "Up to 2 days",
+        "health": "Polar features: Sleep Plus Stages, Nightly Recharge, Activity Score, Smart Calories, Serene",
+        "connectivity": "LTE (eSIM), Bluetooth 5.3, Wi-Fi 802.11a/b/g/n, NFC payments",
+        "weightG": 51
+      },
+      "colors": [
+        "Black Beauty",
+        "Mountain View"
+      ],
+      "featured": false,
+      "warranty": 12,
+      "sources": {
+        "product": "https://www.motorola.com/us/en/p/wearables/moto-watch-ultra-2026/pwipwia11w1",
+        "specs": "https://www.motorola.com/us/en/p/wearables/moto-watch-ultra-2026/pwipwia11w1",
+        "retrievedAt": "2026-09-28"
+      },
+      "image": {
+        "url": "https://p1-ofp.static.pub//fes/cms/2026/09/02/hwl7xen44p6uf0kkc303jm0mxo9z06652677.png",
+        "page": "https://www.motorola.com/us/en/p/wearables/moto-watch-ultra-2026/pwipwia11w1",
+        "sourceType": "manufacturer-product-page",
+        "rights": "Official Motorola US store product render (static.pub CDN used by motorola.com); Motorola has not granted a reuse license - rights not verified.",
+        "alt": "Motorola moto watch ultra 2026 in Black Beauty, front view, official Motorola product render",
+        "match": "EXACT",
+        "credit": "Motorola"
+      },
+      "colorImages": {
+        "Black Beauty": {
+          "url": "https://p1-ofp.static.pub//fes/cms/2026/09/02/hwl7xen44p6uf0kkc303jm0mxo9z06652677.png",
+          "page": "https://www.motorola.com/us/en/p/wearables/moto-watch-ultra-2026/pwipwia11w1",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Motorola US store product render (static.pub CDN used by motorola.com); Motorola has not granted a reuse license - rights not verified.",
+          "alt": "Motorola moto watch ultra 2026 in Black Beauty, front view, official Motorola product render",
+          "match": "EXACT",
+          "credit": "Motorola"
+        },
+        "Mountain View": {
+          "url": "https://p4-ofp.static.pub//fes/cms/2026/09/02/xnjfylhjc2e68ge8e9601xensrz3lf181835.png",
+          "page": "https://www.motorola.com/us/en/p/wearables/moto-watch-ultra-2026/pwipwia11w1",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Motorola US store product render (static.pub CDN used by motorola.com); Motorola has not granted a reuse license - rights not verified.",
+          "alt": "Motorola moto watch ultra 2026 in Mountain View, front view, official Motorola product render",
+          "match": "EXACT",
+          "credit": "Motorola"
+        }
+      },
+      "notes": "Pre-order status on motorola.com on 2026-09-28."
+    },
+    {
+      "sku": "TK-MOTOROLA-WATCH-2026",
+      "slug": "motorola-moto-watch-2026",
+      "name": "Motorola moto watch 2026",
+      "brand": "Motorola",
+      "category": "smartwatches",
+      "price": "129.99",
+      "priceBasis": "msrp",
+      "priceSource": "https://www.motorola.com/us/en/p/motoaccessories/moto-watch-2026/pg38c08256",
+      "priceAsOf": "2026-09-28",
+      "compareAt": "149.99",
+      "releaseYear": 2026,
+      "summary": "Lightweight Motorola smartwatch with a 1.43-inch round OLED display, up to 13 days of battery, dual-frequency GPS and IP68 rating.",
+      "description": "The moto watch 2026 has a 1.43-inch round OLED display under Gorilla Glass 3, weighs 40 g and is rated IP68 / 1 ATM. It offers up to 13 days of battery life, dual-frequency L1/L5 GPS, Bluetooth 5.3 and Polar-powered fitness tracking, and works with Android 12 and up.",
+      "keywords": "moto watch 2026 smartwatch polar gps budget",
+      "specs": {
+        "caseSizes": "47 mm",
+        "display": "1.43-inch round OLED, Gorilla Glass 3",
+        "battery": "Up to 13 days",
+        "waterResistance": "IP68, 1 ATM",
+        "connectivity": "Bluetooth 5.3 + BLE, dual-frequency GPS (L1/L5)",
+        "compatibility": "Android 12 and up",
+        "weightG": 40
+      },
+      "colors": [
+        "Volcanic Ash"
+      ],
+      "featured": false,
+      "warranty": 12,
+      "sources": {
+        "product": "https://www.motorola.com/us/en/p/motoaccessories/moto-watch-2026/pg38c08256",
+        "specs": "https://www.motorola.com/us/en/p/motoaccessories/moto-watch-2026/pg38c08256",
+        "retrievedAt": "2026-09-28"
+      },
+      "image": {
+        "url": "https://p4-ofp.static.pub//fes/cms/2026/01/21/6lgie3wt64e7t0eelgkugjlqgopd8p851595.png",
+        "page": "https://www.motorola.com/us/en/p/motoaccessories/moto-watch-2026/pg38c08256",
+        "sourceType": "manufacturer-product-page",
+        "rights": "Official Motorola US store product render (static.pub CDN used by motorola.com); Motorola has not granted a reuse license - rights not verified.",
+        "alt": "Motorola moto watch 2026 in Volcanic Ash, front view, official Motorola product render",
+        "match": "EXACT",
+        "credit": "Motorola"
+      },
+      "notes": "Official sale price $129.99; list $149.99."
+    },
+    {
+      "sku": "TK-MOTOROLA-BUDS-2-PLUS",
+      "slug": "motorola-moto-buds-2-plus",
+      "name": "Motorola moto buds 2 plus",
+      "brand": "Motorola",
+      "category": "earbuds",
+      "price": "129.99",
+      "priceBasis": "msrp",
+      "priceSource": "https://www.motorola.com/us/en/p/motoaccessories/moto-buds-2-plus/pg38c08065",
+      "priceAsOf": "2026-09-28",
+      "compareAt": "149.99",
+      "releaseYear": 2026,
+      "summary": "Motorola ANC earbuds with sound by Bose, Bluetooth 6.0, up to 9 hours per charge and 40 hours with the case.",
+      "description": "moto buds 2 plus are tuned with sound by Bose and support active noise cancellation, Bluetooth 6.0, customizable EQ with bass boost and a low-latency gaming mode. Each earbud weighs 4.6 g and lasts up to 9 hours per charge (40 hours with the case), and 10 minutes of charging gives about 2 hours of playback.",
+      "keywords": "moto buds 2 plus bose anc earbuds bluetooth 6.0",
+      "specs": {
+        "connectivity": "Bluetooth 6.0",
+        "noiseCancelling": true,
+        "batteryHours": 9,
+        "drivers": "Sound by Bose tuning",
+        "waterResistance": "IP54 earbuds, IPX2 case",
+        "weightG": 4.6
+      },
+      "colors": [
+        "Silhouette",
+        "Cool White"
+      ],
+      "featured": false,
+      "warranty": 12,
+      "sources": {
+        "product": "https://www.motorola.com/us/en/p/motoaccessories/moto-buds-2-plus/pg38c08065",
+        "specs": "https://www.motorola.com/us/en/p/motoaccessories/moto-buds-2-plus/pg38c08065",
+        "retrievedAt": "2026-09-28"
+      },
+      "image": {
+        "url": "https://p1-ofp.static.pub//fes/cms/2026/04/27/ivn4qc59n9fgqp9wgm58id5h28z1zs721739.png",
+        "page": "https://www.motorola.com/us/en/p/motoaccessories/moto-buds-2-plus/pg38c08065",
+        "sourceType": "manufacturer-product-page",
+        "rights": "Official Motorola US store product render (static.pub CDN used by motorola.com); Motorola has not granted a reuse license - rights not verified.",
+        "alt": "Motorola moto buds 2 plus in Silhouette, earbuds pair view, official Motorola product render",
+        "match": "EXACT",
+        "credit": "Motorola"
+      },
+      "colorImages": {
+        "Silhouette": {
+          "url": "https://p1-ofp.static.pub//fes/cms/2026/04/27/ivn4qc59n9fgqp9wgm58id5h28z1zs721739.png",
+          "page": "https://www.motorola.com/us/en/p/motoaccessories/moto-buds-2-plus/pg38c08065",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Motorola US store product render (static.pub CDN used by motorola.com); Motorola has not granted a reuse license - rights not verified.",
+          "alt": "Motorola moto buds 2 plus in Silhouette, earbuds pair view, official Motorola product render",
+          "match": "EXACT",
+          "credit": "Motorola"
+        },
+        "Cool White": {
+          "url": "https://p1-ofp.static.pub//fes/cms/2026/06/29/ytwtldz8ko7ioe3ii6pj9kychrfirp121401.png",
+          "page": "https://www.motorola.com/us/en/p/motoaccessories/moto-buds-2-plus/pg38c08065",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Motorola US store product render (static.pub CDN used by motorola.com); Motorola has not granted a reuse license - rights not verified.",
+          "alt": "Motorola moto buds 2 plus in Cool White, earbuds pair view, official Motorola product render",
+          "match": "EXACT",
+          "credit": "Motorola"
+        }
+      },
+      "notes": "Official sale price $129.99; list $149.99. Spec page lists water resistance as 'IPX54' (earbud); recorded as IP54."
+    },
+    {
+      "sku": "TK-MOTOROLA-BUDS-2",
+      "slug": "motorola-moto-buds-2",
+      "name": "Motorola moto buds 2",
+      "brand": "Motorola",
+      "category": "earbuds",
+      "price": "79.99",
+      "priceBasis": "msrp",
+      "priceSource": "https://www.motorola.com/us/en/p/motoaccessories/moto-buds-2/pg38c08166",
+      "priceAsOf": "2026-09-28",
+      "compareAt": "99.99",
+      "releaseYear": 2026,
+      "summary": "Budget Motorola ANC earbuds with up to 55 dB noise cancellation, Bluetooth 6.0, 11 hours per charge and 48 hours with the case.",
+      "description": "moto buds 2 offer up to 55 dB active noise cancellation, Bluetooth 6.0 and hi-res audio support. They last up to 11 hours per charge and 48 hours with the charging case, and 10 minutes of charging provides up to 3 hours of playback.",
+      "keywords": "moto buds 2 anc earbuds budget",
+      "specs": {
+        "connectivity": "Bluetooth 6.0",
+        "noiseCancelling": true,
+        "batteryHours": 11,
+        "waterResistance": "IP54 earbuds, IPX2 case"
+      },
+      "colors": [
+        "Carbon"
+      ],
+      "featured": false,
+      "warranty": 12,
+      "sources": {
+        "product": "https://www.motorola.com/us/en/p/motoaccessories/moto-buds-2/pg38c08166",
+        "specs": "https://www.motorola.com/us/en/p/motoaccessories/moto-buds-2/pg38c08166",
+        "retrievedAt": "2026-09-28"
+      },
+      "image": {
+        "url": "https://p2-ofp.static.pub//fes/cms/2026/06/30/rbo4nlgphxvddcryovfquubauewlqj257875.png",
+        "page": "https://www.motorola.com/us/en/p/motoaccessories/moto-buds-2/pg38c08166",
+        "sourceType": "manufacturer-product-page",
+        "rights": "Official Motorola US store product render (static.pub CDN used by motorola.com); Motorola has not granted a reuse license - rights not verified.",
+        "alt": "Motorola moto buds 2 in Carbon, earbuds pair view, official Motorola product render",
+        "match": "EXACT",
+        "credit": "Motorola"
+      },
+      "notes": "Official sale price $79.99; list $99.99. Spec page footnote digits make IP rating read 'IP544'; recorded as IP54."
+    },
+    {
+      "sku": "TK-MOTOROLA-BUDS-LOOP",
+      "slug": "motorola-moto-buds-loop",
+      "name": "Motorola moto buds loop",
+      "brand": "Motorola",
+      "category": "earbuds",
+      "price": "199.99",
+      "priceBasis": "msrp",
+      "priceSource": "https://www.motorola.com/us/en/p/motoaccessories/moto-buds-loop/pg38c07168",
+      "priceAsOf": "2026-09-28",
+      "compareAt": "249.99",
+      "releaseYear": 2025,
+      "summary": "Open-ear clip-style earbuds with sound by Bose, 12 mm drivers, up to 8 hours of playback and 37 hours with the case.",
+      "description": "moto buds loop are open-ear earbuds with sound by Bose and 12 mm ironless drivers, a dual-microphone system with CrystalTalk AI, and a water-repellent design. They play up to 8 hours per charge (37 hours with the case) and 10 minutes of quick charging gives up to 3 hours.",
+      "keywords": "moto buds loop open ear clip earbuds bose",
+      "specs": {
+        "noiseCancelling": false,
+        "batteryHours": 8,
+        "drivers": "12 mm ironless drivers, sound by Bose",
+        "waterResistance": "Water-repellent design"
+      },
+      "colors": [
+        "Trekking Green"
+      ],
+      "featured": false,
+      "warranty": 12,
+      "sources": {
+        "product": "https://www.motorola.com/us/en/p/motoaccessories/moto-buds-loop/pg38c07168",
+        "specs": "https://www.motorola.com/us/en/p/motoaccessories/moto-buds-loop/pg38c07168",
+        "retrievedAt": "2026-09-28"
+      },
+      "image": {
+        "url": "https://p2-ofp.static.pub//fes/cms/2026/06/09/nfkwwqx7kg9gu3dot3vitgpy2qxvre699385.png",
+        "page": "https://www.motorola.com/us/en/p/motoaccessories/moto-buds-loop/pg38c07168",
+        "sourceType": "manufacturer-product-page",
+        "rights": "Official Motorola US store product render (static.pub CDN used by motorola.com); Motorola has not granted a reuse license - rights not verified.",
+        "alt": "Motorola moto buds loop in Trekking Green, front view, official Motorola product render",
+        "match": "EXACT",
+        "credit": "Motorola"
+      },
+      "notes": "Official sale price $199.99; list $249.99. French Oak is sold only as a Swarovski edition ($299.99) and is not included."
+    },
+    {
+      "sku": "TK-NOTHING-PHONE-3",
+      "slug": "nothing-phone-3",
+      "name": "Nothing Phone (3)",
+      "brand": "Nothing",
+      "category": "smartphones",
+      "price": "699.00",
+      "priceBasis": "starting-at",
+      "priceSource": "https://us.nothing.tech/products/phone-3",
+      "priceAsOf": "2026-09-28",
+      "compareAt": "799.00",
+      "releaseYear": 2025,
+      "summary": "Nothing's flagship with a Glyph Matrix back, Snapdragon 8s Gen 4, four 50 MP cameras including a 3x periscope, 6.67-inch 120 Hz AMOLED and 5,150 mAh battery.",
+      "description": "Phone (3) has a 6.67-inch 1260 x 2800 flexible AMOLED display (up to 4,500 nits peak) under Gorilla Glass 7i and runs a Snapdragon 8s Gen 4. Its rear has 50 MP main, 50 MP 3x periscope and 50 MP ultrawide cameras plus a 50 MP selfie camera, and a 5,150 mAh silicon-carbon battery supports 65 W wired and 15 W wireless charging. Nothing promises 5 years of Android updates and 7 years of security patches.",
+      "keywords": "nothing phone 3 glyph snapdragon 8s gen 4 periscope flagship",
+      "specs": {
+        "chip": "Snapdragon 8s Gen 4",
+        "storageGb": 256,
+        "ramGb": 12,
+        "displayIn": 6.67,
+        "display": "6.67-inch 1260 x 2800 flexible AMOLED, 120 Hz adaptive, 4,500 nits peak, Gorilla Glass 7i",
+        "rearCamera": "50 MP main (f/1.68, 1/1.3\", OIS) + 50 MP 3x periscope (f/2.68, OIS) + 50 MP ultrawide (f/2.2)",
+        "frontCamera": "50 MP (f/2.2)",
+        "battery": "5,150 mAh silicon-carbon",
+        "charging": "65 W wired, 15 W wireless, 5 W reverse wireless",
+        "connectivity": "5G, Wi-Fi 7, NFC, eSIM",
+        "durability": "IP68",
+        "os": "Nothing OS 4 (Android 16)",
+        "weightG": 218,
+        "dimensions": "160.60 x 75.59 x 8.99 mm"
+      },
+      "variants": [
+        {
+          "label": "12 GB + 256 GB",
+          "price": "699.00"
+        },
+        {
+          "label": "16 GB + 512 GB",
+          "price": "799.00"
+        }
+      ],
+      "colors": [
+        "White",
+        "Black"
+      ],
+      "featured": true,
+      "warranty": 12,
+      "sources": {
+        "product": "https://us.nothing.tech/products/phone-3",
+        "specs": "https://us.nothing.tech/products/phone-3",
+        "retrievedAt": "2026-09-28"
+      },
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0579/8091/1768/files/0000s_0011_Phone-3-white.png?v=1753686747",
+        "page": "https://us.nothing.tech/products/phone-3",
+        "sourceType": "manufacturer-product-page",
+        "rights": "Official Nothing US store product image (cdn.shopify.com asset served by us.nothing.tech); Nothing has not granted a reuse license - rights not verified.",
+        "alt": "Nothing Phone (3) in White, rear view, official Nothing product image",
+        "match": "EXACT",
+        "credit": "Nothing"
+      },
+      "colorImages": {
+        "White": {
+          "url": "https://cdn.shopify.com/s/files/1/0579/8091/1768/files/0000s_0011_Phone-3-white.png?v=1753686747",
+          "page": "https://us.nothing.tech/products/phone-3",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Nothing US store product image (cdn.shopify.com asset served by us.nothing.tech); Nothing has not granted a reuse license - rights not verified.",
+          "alt": "Nothing Phone (3) in White, rear view, official Nothing product image",
+          "match": "EXACT",
+          "credit": "Nothing"
+        },
+        "Black": {
+          "url": "https://cdn.shopify.com/s/files/1/0579/8091/1768/files/0000s_0012_Phone-3-black.png?v=1753686747",
+          "page": "https://us.nothing.tech/products/phone-3",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Nothing US store product image (cdn.shopify.com asset served by us.nothing.tech); Nothing has not granted a reuse license - rights not verified.",
+          "alt": "Nothing Phone (3) in Black, rear view, official Nothing product image",
+          "match": "EXACT",
+          "credit": "Nothing"
+        }
+      },
+      "notes": "us.nothing.tech sale prices $699 / $799 against compare-at $799 / $899."
+    },
+    {
+      "sku": "TK-NOTHING-PHONE-4A-PRO",
+      "slug": "nothing-phone-4a-pro",
+      "name": "Nothing Phone (4a) Pro",
+      "brand": "Nothing",
+      "category": "smartphones",
+      "price": "499.00",
+      "priceBasis": "starting-at",
+      "priceSource": "https://us.nothing.tech/products/phone-4a-pro",
+      "priceAsOf": "2026-09-28",
+      "releaseYear": 2026,
+      "summary": "Mid-range Nothing phone with a 6.83-inch 144 Hz AMOLED, Snapdragon 7 Gen 4, 50 MP main plus 50 MP 3.5x periscope camera and 5,080 mAh battery.",
+      "description": "Phone (4a) Pro has a 6.83-inch 1260 x 2800 flexible AMOLED display at up to 144 Hz and 5,000 nits peak under Gorilla Glass 7i. It runs a Snapdragon 7 Gen 4 with LPDDR5X and UFS 3.1, has a 50 MP main camera, a 50 MP 3.5x periscope with up to 140x ultra zoom and an ultrawide, a 32 MP selfie camera, and a 5,080 mAh battery with 50 W charging.",
+      "keywords": "nothing phone 4a pro periscope 140x zoom snapdragon 7 gen 4",
+      "specs": {
+        "chip": "Snapdragon 7 Gen 4",
+        "storageGb": 128,
+        "ramGb": 8,
+        "displayIn": 6.83,
+        "display": "6.83-inch 1260 x 2800 flexible AMOLED, up to 144 Hz, 5,000 nits peak, Gorilla Glass 7i",
+        "rearCamera": "50 MP main (f/1.88, 1/1.56\", OIS) + 50 MP 3.5x periscope (f/2.88, OIS) + ultrawide (f/2.2, 120 deg)",
+        "frontCamera": "32 MP (f/2.2)",
+        "battery": "5,080 mAh",
+        "charging": "50 W wired, 7.5 W reverse wired",
+        "connectivity": "5G, Wi-Fi 6, NFC",
+        "durability": "IP65",
+        "os": "Nothing OS 4.1 (Android 16)",
+        "weightG": 210,
+        "dimensions": "163.6 x 76.6 x 7.9 mm"
+      },
+      "variants": [
+        {
+          "label": "8 GB + 128 GB",
+          "price": "499.00"
+        },
+        {
+          "label": "12 GB + 256 GB",
+          "price": "599.00"
+        }
+      ],
+      "colors": [
+        "Silver",
+        "Black",
+        "Pink"
+      ],
+      "featured": true,
+      "warranty": 12,
+      "sources": {
+        "product": "https://us.nothing.tech/products/phone-4a-pro",
+        "specs": "https://us.nothing.tech/products/phone-4a-pro",
+        "retrievedAt": "2026-09-28"
+      },
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0579/8091/1768/files/Phone-4a-Pro-White.png?v=1772251081",
+        "page": "https://us.nothing.tech/products/phone-4a-pro",
+        "sourceType": "manufacturer-product-page",
+        "rights": "Official Nothing US store product image (cdn.shopify.com asset served by us.nothing.tech); Nothing has not granted a reuse license - rights not verified.",
+        "alt": "Nothing Phone (4a) Pro in Silver, rear view, official Nothing product image",
+        "match": "EXACT",
+        "credit": "Nothing"
+      },
+      "colorImages": {
+        "Silver": {
+          "url": "https://cdn.shopify.com/s/files/1/0579/8091/1768/files/Phone-4a-Pro-White.png?v=1772251081",
+          "page": "https://us.nothing.tech/products/phone-4a-pro",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Nothing US store product image (cdn.shopify.com asset served by us.nothing.tech); Nothing has not granted a reuse license - rights not verified.",
+          "alt": "Nothing Phone (4a) Pro in Silver, rear view, official Nothing product image",
+          "match": "EXACT",
+          "credit": "Nothing"
+        },
+        "Black": {
+          "url": "https://cdn.shopify.com/s/files/1/0579/8091/1768/files/Phone-4a-Pro-Black.png?v=1772251082",
+          "page": "https://us.nothing.tech/products/phone-4a-pro",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Nothing US store product image (cdn.shopify.com asset served by us.nothing.tech); Nothing has not granted a reuse license - rights not verified.",
+          "alt": "Nothing Phone (4a) Pro in Black, rear view, official Nothing product image",
+          "match": "EXACT",
+          "credit": "Nothing"
+        }
+      },
+      "notes": "Pink is sold in 12 GB + 256 GB only. The store's 'Phone-4a-Pro-Pink.png' asset is byte-identical to the silver render, so Pink is left out of colorImages."
+    },
+    {
+      "sku": "TK-NOTHING-EAR-3A",
+      "slug": "nothing-ear-3a",
+      "name": "Nothing Ear (3a)",
+      "brand": "Nothing",
+      "category": "earbuds",
+      "price": "99.00",
+      "priceBasis": "msrp",
+      "priceSource": "https://us.nothing.tech/products/ear-3a",
+      "priceAsOf": "2026-09-28",
+      "releaseYear": 2026,
+      "summary": "Transparent-design ANC earbuds with 12 mm drivers, up to 45 dB adaptive ANC, LDAC, Bluetooth 6.0 and up to 42 hours with the case.",
+      "description": "Ear (3a) use 12 mm dynamic drivers with LDAC Hi-Res Wireless certification and adaptive ANC up to 45 dB. They connect over Bluetooth 6.0 with dual connection, are IP54 rated, and play up to 10 hours with ANC off (42 hours with the case).",
+      "keywords": "nothing ear 3a anc earbuds ldac transparent",
+      "specs": {
+        "connectivity": "Bluetooth 6.0, dual connection",
+        "noiseCancelling": true,
+        "batteryHours": 10,
+        "drivers": "12 mm dynamic",
+        "codecs": "SBC, AAC, LDAC",
+        "waterResistance": "IP54 (buds and case)",
+        "weightG": 4.53
+      },
+      "colors": [
+        "White",
+        "Black",
+        "Yellow",
+        "Pink"
+      ],
+      "featured": false,
+      "warranty": 12,
+      "sources": {
+        "product": "https://us.nothing.tech/products/ear-3a",
+        "specs": "https://us.nothing.tech/products/ear-3a",
+        "retrievedAt": "2026-09-28"
+      },
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0579/8091/1768/files/product-thumbnail-white.png?v=1783059091",
+        "page": "https://us.nothing.tech/products/ear-3a",
+        "sourceType": "manufacturer-product-page",
+        "rights": "Official Nothing US store product image (cdn.shopify.com asset served by us.nothing.tech); Nothing has not granted a reuse license - rights not verified.",
+        "alt": "Nothing Ear (3a) in White, earbuds in open case, official Nothing product image",
+        "match": "EXACT",
+        "credit": "Nothing"
+      },
+      "colorImages": {
+        "White": {
+          "url": "https://cdn.shopify.com/s/files/1/0579/8091/1768/files/product-thumbnail-white.png?v=1783059091",
+          "page": "https://us.nothing.tech/products/ear-3a",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Nothing US store product image (cdn.shopify.com asset served by us.nothing.tech); Nothing has not granted a reuse license - rights not verified.",
+          "alt": "Nothing Ear (3a) in White, earbuds in open case, official Nothing product image",
+          "match": "EXACT",
+          "credit": "Nothing"
+        },
+        "Black": {
+          "url": "https://cdn.shopify.com/s/files/1/0579/8091/1768/files/product-thumbnail-black.png?v=1783059092",
+          "page": "https://us.nothing.tech/products/ear-3a",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Nothing US store product image (cdn.shopify.com asset served by us.nothing.tech); Nothing has not granted a reuse license - rights not verified.",
+          "alt": "Nothing Ear (3a) in Black, earbuds in open case, official Nothing product image",
+          "match": "EXACT",
+          "credit": "Nothing"
+        },
+        "Yellow": {
+          "url": "https://cdn.shopify.com/s/files/1/0579/8091/1768/files/product-thumbnail-yellow.png?v=1783059092",
+          "page": "https://us.nothing.tech/products/ear-3a",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Nothing US store product image (cdn.shopify.com asset served by us.nothing.tech); Nothing has not granted a reuse license - rights not verified.",
+          "alt": "Nothing Ear (3a) in Yellow, earbuds in open case, official Nothing product image",
+          "match": "EXACT",
+          "credit": "Nothing"
+        },
+        "Pink": {
+          "url": "https://cdn.shopify.com/s/files/1/0579/8091/1768/files/product-thumbnail-pink.png?v=1783059092",
+          "page": "https://us.nothing.tech/products/ear-3a",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Nothing US store product image (cdn.shopify.com asset served by us.nothing.tech); Nothing has not granted a reuse license - rights not verified.",
+          "alt": "Nothing Ear (3a) in Pink, earbuds in open case, official Nothing product image",
+          "match": "EXACT",
+          "credit": "Nothing"
+        }
+      }
+    },
+    {
+      "sku": "TK-NOTHING-EAR-A",
+      "slug": "nothing-ear-a",
+      "name": "Nothing Ear (a)",
+      "brand": "Nothing",
+      "category": "earbuds",
+      "price": "79.00",
+      "priceBasis": "msrp",
+      "priceSource": "https://us.nothing.tech/products/ear-a",
+      "priceAsOf": "2026-09-28",
+      "compareAt": "99.00",
+      "releaseYear": 2024,
+      "summary": "Nothing ANC earbuds with 11 mm drivers, up to 45 dB adaptive ANC, LDAC and up to 42.5 hours with the case.",
+      "description": "Ear (a) have 11 mm dynamic drivers, adaptive ANC up to 45 dB and support AAC, SBC and LDAC over Bluetooth 5.3. They last up to 9.5 hours with ANC off (42.5 hours with the case) and are IP54 rated (case IPX2).",
+      "keywords": "nothing ear a anc earbuds ldac yellow",
+      "specs": {
+        "connectivity": "Bluetooth 5.3",
+        "noiseCancelling": true,
+        "batteryHours": 9.5,
+        "drivers": "11 mm dynamic",
+        "codecs": "SBC, AAC, LDAC",
+        "waterResistance": "IP54 earbuds, IPX2 case",
+        "weightG": 4.6
+      },
+      "colors": [
+        "White",
+        "Black",
+        "Yellow"
+      ],
+      "featured": false,
+      "warranty": 12,
+      "sources": {
+        "product": "https://us.nothing.tech/products/ear-a",
+        "specs": "https://us.nothing.tech/products/ear-a",
+        "retrievedAt": "2026-09-28"
+      },
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0579/8091/1768/files/0000s_0026_Ear-a-white.png?v=1753686836",
+        "page": "https://us.nothing.tech/products/ear-a",
+        "sourceType": "manufacturer-product-page",
+        "rights": "Official Nothing US store product image (cdn.shopify.com asset served by us.nothing.tech); Nothing has not granted a reuse license - rights not verified.",
+        "alt": "Nothing Ear (a) in White, earbuds in open case, official Nothing product image",
+        "match": "EXACT",
+        "credit": "Nothing"
+      },
+      "colorImages": {
+        "White": {
+          "url": "https://cdn.shopify.com/s/files/1/0579/8091/1768/files/0000s_0026_Ear-a-white.png?v=1753686836",
+          "page": "https://us.nothing.tech/products/ear-a",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Nothing US store product image (cdn.shopify.com asset served by us.nothing.tech); Nothing has not granted a reuse license - rights not verified.",
+          "alt": "Nothing Ear (a) in White, earbuds in open case, official Nothing product image",
+          "match": "EXACT",
+          "credit": "Nothing"
+        },
+        "Black": {
+          "url": "https://cdn.shopify.com/s/files/1/0579/8091/1768/files/0000s_0027_Ear-a-black.png?v=1753686837",
+          "page": "https://us.nothing.tech/products/ear-a",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Nothing US store product image (cdn.shopify.com asset served by us.nothing.tech); Nothing has not granted a reuse license - rights not verified.",
+          "alt": "Nothing Ear (a) in Black, earbuds in open case, official Nothing product image",
+          "match": "EXACT",
+          "credit": "Nothing"
+        },
+        "Yellow": {
+          "url": "https://cdn.shopify.com/s/files/1/0579/8091/1768/files/0000s_0025_Ear-a-yellow.png?v=1753686837",
+          "page": "https://us.nothing.tech/products/ear-a",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Nothing US store product image (cdn.shopify.com asset served by us.nothing.tech); Nothing has not granted a reuse license - rights not verified.",
+          "alt": "Nothing Ear (a) in Yellow, earbuds in open case, official Nothing product image",
+          "match": "EXACT",
+          "credit": "Nothing"
+        }
+      }
+    },
+    {
+      "sku": "TK-NOTHING-EAR",
+      "slug": "nothing-ear",
+      "name": "Nothing Ear",
+      "brand": "Nothing",
+      "category": "earbuds",
+      "price": "109.00",
+      "priceBasis": "msrp",
+      "priceSource": "https://us.nothing.tech/products/ear",
+      "priceAsOf": "2026-09-28",
+      "releaseYear": 2024,
+      "summary": "Nothing's ceramic-driver ANC earbuds with LDAC and LHDC 5.0, up to 45 dB adaptive ANC and up to 40.5 hours with the case.",
+      "description": "Ear use 11 mm dynamic drivers with ceramic diaphragms, adaptive ANC up to 45 dB and support AAC, SBC, LDAC and LHDC 5.0 over Bluetooth 5.3. They play up to 8.5 hours with ANC off (40.5 hours with the case), with IP54 earbuds and an IP55 case.",
+      "keywords": "nothing ear anc earbuds ceramic ldac lhdc",
+      "specs": {
+        "connectivity": "Bluetooth 5.3",
+        "noiseCancelling": true,
+        "batteryHours": 8.5,
+        "drivers": "11 mm dynamic, ceramic diaphragm",
+        "codecs": "SBC, AAC, LDAC, LHDC 5.0",
+        "waterResistance": "IP54 earbuds, IP55 case",
+        "weightG": 4.62
+      },
+      "colors": [
+        "Black",
+        "White"
+      ],
+      "featured": false,
+      "warranty": 12,
+      "sources": {
+        "product": "https://us.nothing.tech/products/ear",
+        "specs": "https://us.nothing.tech/products/ear",
+        "retrievedAt": "2026-09-28"
+      },
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0579/8091/1768/files/0000s_0024_Ear-black.png?v=1753686623",
+        "page": "https://us.nothing.tech/products/ear",
+        "sourceType": "manufacturer-product-page",
+        "rights": "Official Nothing US store product image (cdn.shopify.com asset served by us.nothing.tech); Nothing has not granted a reuse license - rights not verified.",
+        "alt": "Nothing Ear in Black, earbuds in open case, official Nothing product image",
+        "match": "EXACT",
+        "credit": "Nothing"
+      },
+      "colorImages": {
+        "Black": {
+          "url": "https://cdn.shopify.com/s/files/1/0579/8091/1768/files/0000s_0024_Ear-black.png?v=1753686623",
+          "page": "https://us.nothing.tech/products/ear",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Nothing US store product image (cdn.shopify.com asset served by us.nothing.tech); Nothing has not granted a reuse license - rights not verified.",
+          "alt": "Nothing Ear in Black, earbuds in open case, official Nothing product image",
+          "match": "EXACT",
+          "credit": "Nothing"
+        },
+        "White": {
+          "url": "https://cdn.shopify.com/s/files/1/0579/8091/1768/files/0000s_0023_Ear-white.png?v=1753686623",
+          "page": "https://us.nothing.tech/products/ear",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Nothing US store product image (cdn.shopify.com asset served by us.nothing.tech); Nothing has not granted a reuse license - rights not verified.",
+          "alt": "Nothing Ear in White, earbuds in open case, official Nothing product image",
+          "match": "EXACT",
+          "credit": "Nothing"
+        }
+      }
+    },
+    {
+      "sku": "TK-NOTHING-EAR-OPEN",
+      "slug": "nothing-ear-open",
+      "name": "Nothing Ear (open)",
+      "brand": "Nothing",
+      "category": "earbuds",
+      "price": "99.00",
+      "priceBasis": "msrp",
+      "priceSource": "https://us.nothing.tech/products/ear-open",
+      "priceAsOf": "2026-09-28",
+      "compareAt": "129.00",
+      "releaseYear": 2024,
+      "summary": "Open-ear Nothing earbuds with 14.2 mm titanium-coated drivers, up to 8 hours per charge and 30 hours with the case.",
+      "description": "Ear (open) are open-ear earbuds with 14.2 mm dynamic drivers using a titanium-coated diaphragm, weighing 8.1 g each. They connect over Bluetooth 5.3 with AAC and SBC, play up to 8 hours (30 hours with the case) and are IP54 rated.",
+      "keywords": "nothing ear open open-ear earbuds",
+      "specs": {
+        "connectivity": "Bluetooth 5.3",
+        "noiseCancelling": false,
+        "batteryHours": 8,
+        "drivers": "14.2 mm dynamic, titanium-coated",
+        "codecs": "SBC, AAC",
+        "waterResistance": "IP54 (buds and case)",
+        "weightG": 8.1
+      },
+      "colors": [
+        "White"
+      ],
+      "featured": false,
+      "warranty": 12,
+      "sources": {
+        "product": "https://us.nothing.tech/products/ear-open",
+        "specs": "https://us.nothing.tech/products/ear-open",
+        "retrievedAt": "2026-09-28"
+      },
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0579/8091/1768/files/0000s_0028_Ear-_open_-white.png?v=1753684318",
+        "page": "https://us.nothing.tech/products/ear-open",
+        "sourceType": "manufacturer-product-page",
+        "rights": "Official Nothing US store product image (cdn.shopify.com asset served by us.nothing.tech); Nothing has not granted a reuse license - rights not verified.",
+        "alt": "Nothing Ear (open) in White, earbuds in open case, official Nothing product image",
+        "match": "EXACT",
+        "credit": "Nothing"
+      },
+      "notes": "Blue is listed but not available for sale on us.nothing.tech at research time; not included."
+    },
+    {
+      "sku": "TK-NOTHING-HEADPHONE-A",
+      "slug": "nothing-headphone-a",
+      "name": "Nothing Headphone (a)",
+      "brand": "Nothing",
+      "category": "headphones",
+      "price": "199.00",
+      "priceBasis": "msrp",
+      "priceSource": "https://us.nothing.tech/products/headphone-a",
+      "priceAsOf": "2026-09-28",
+      "releaseYear": 2026,
+      "summary": "Over-ear Nothing headphones with 40 mm drivers, up to 40 dB adaptive ANC, LDAC and up to 135 hours of playback with ANC off.",
+      "description": "Headphone (a) use 40 mm titanium-coated PEN+PU drivers with adaptive ANC up to 40 dB and LDAC Hi-Res certification. They connect over Bluetooth 5.4 with dual connection and deliver up to 135 hours (ANC off) or 75 hours (ANC on) of AAC playback; 5 minutes of charging gives up to 8 hours.",
+      "keywords": "nothing headphone a over-ear anc ldac long battery",
+      "specs": {
+        "connectivity": "Bluetooth 5.4, dual connection",
+        "noiseCancelling": true,
+        "batteryHours": 135,
+        "drivers": "40 mm dynamic, titanium-coated PEN+PU dome",
+        "codecs": "SBC, AAC, LDAC",
+        "waterResistance": "IP52",
+        "weightG": 310
+      },
+      "colors": [
+        "White",
+        "Black",
+        "Pink",
+        "Yellow"
+      ],
+      "featured": false,
+      "warranty": 12,
+      "sources": {
+        "product": "https://us.nothing.tech/products/headphone-a",
+        "specs": "https://us.nothing.tech/products/headphone-a",
+        "retrievedAt": "2026-09-28"
+      },
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0579/8091/1768/files/headphone-a-white-3_4-view-thumbnail.webp?v=1788842815",
+        "page": "https://us.nothing.tech/products/headphone-a",
+        "sourceType": "manufacturer-product-page",
+        "rights": "Official Nothing US store product image (cdn.shopify.com asset served by us.nothing.tech); Nothing has not granted a reuse license - rights not verified.",
+        "alt": "Nothing Headphone (a) in White, three-quarter view, official Nothing product image",
+        "match": "EXACT",
+        "credit": "Nothing"
+      },
+      "colorImages": {
+        "White": {
+          "url": "https://cdn.shopify.com/s/files/1/0579/8091/1768/files/headphone-a-white-3_4-view-thumbnail.webp?v=1788842815",
+          "page": "https://us.nothing.tech/products/headphone-a",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Nothing US store product image (cdn.shopify.com asset served by us.nothing.tech); Nothing has not granted a reuse license - rights not verified.",
+          "alt": "Nothing Headphone (a) in White, three-quarter view, official Nothing product image",
+          "match": "EXACT",
+          "credit": "Nothing"
+        },
+        "Black": {
+          "url": "https://cdn.shopify.com/s/files/1/0579/8091/1768/files/headphone-a-black-3_4-view-thumbnail.webp?v=1788842816",
+          "page": "https://us.nothing.tech/products/headphone-a",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Nothing US store product image (cdn.shopify.com asset served by us.nothing.tech); Nothing has not granted a reuse license - rights not verified.",
+          "alt": "Nothing Headphone (a) in Black, three-quarter view, official Nothing product image",
+          "match": "EXACT",
+          "credit": "Nothing"
+        },
+        "Pink": {
+          "url": "https://cdn.shopify.com/s/files/1/0579/8091/1768/files/headphone-a-pink-3_4-view-thumbnail.webp?v=1788842816",
+          "page": "https://us.nothing.tech/products/headphone-a",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Nothing US store product image (cdn.shopify.com asset served by us.nothing.tech); Nothing has not granted a reuse license - rights not verified.",
+          "alt": "Nothing Headphone (a) in Pink, three-quarter view, official Nothing product image",
+          "match": "EXACT",
+          "credit": "Nothing"
+        },
+        "Yellow": {
+          "url": "https://cdn.shopify.com/s/files/1/0579/8091/1768/files/headphone-a-yellow-3_4-view-thumbnail.webp?v=1788842815",
+          "page": "https://us.nothing.tech/products/headphone-a",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Nothing US store product image (cdn.shopify.com asset served by us.nothing.tech); Nothing has not granted a reuse license - rights not verified.",
+          "alt": "Nothing Headphone (a) in Yellow, three-quarter view, official Nothing product image",
+          "match": "EXACT",
+          "credit": "Nothing"
+        }
+      }
+    },
+    {
+      "sku": "TK-NOTHING-CMF-HEADPHONE-PRO",
+      "slug": "nothing-cmf-headphone-pro",
+      "name": "CMF by Nothing Headphone Pro",
+      "brand": "Nothing",
+      "category": "headphones",
+      "price": "79.00",
+      "priceBasis": "msrp",
+      "priceSource": "https://us.nothing.tech/products/cmf-headphone-pro",
+      "priceAsOf": "2026-09-28",
+      "compareAt": "99.00",
+      "releaseYear": 2025,
+      "summary": "Budget over-ear headphones from Nothing's CMF line with 40 mm drivers, hybrid ANC up to 40 dB, LDAC and up to 100 hours of playback.",
+      "description": "CMF Headphone Pro have 40 mm drivers, hybrid ANC up to 40 dB and LDAC Hi-Res certification (wired and wireless). They connect over Bluetooth 5.4 with dual connection and play up to 100 hours with ANC off or 50 hours with ANC on (AAC, 50% volume).",
+      "keywords": "cmf headphone pro nothing over-ear anc ldac budget",
+      "specs": {
+        "connectivity": "Bluetooth 5.4, dual connection",
+        "noiseCancelling": true,
+        "batteryHours": 100,
+        "drivers": "40 mm dynamic, PEN+PU dome",
+        "codecs": "SBC, AAC, LDAC",
+        "waterResistance": "IPX2",
+        "weightG": 283
+      },
+      "colors": [
+        "Light Green",
+        "Light Grey",
+        "Dark Grey"
+      ],
+      "featured": false,
+      "warranty": 12,
+      "sources": {
+        "product": "https://us.nothing.tech/products/cmf-headphone-pro",
+        "specs": "https://us.nothing.tech/products/cmf-headphone-pro",
+        "retrievedAt": "2026-09-28"
+      },
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0579/8091/1768/files/cmf-headphone-pro-light-green-3_4-view-thumbnail.webp?v=1788842816",
+        "page": "https://us.nothing.tech/products/cmf-headphone-pro",
+        "sourceType": "manufacturer-product-page",
+        "rights": "Official Nothing US store product image (cdn.shopify.com asset served by us.nothing.tech); Nothing has not granted a reuse license - rights not verified.",
+        "alt": "CMF by Nothing Headphone Pro in Light Green, three-quarter view, official Nothing product image",
+        "match": "EXACT",
+        "credit": "Nothing"
+      },
+      "colorImages": {
+        "Light Green": {
+          "url": "https://cdn.shopify.com/s/files/1/0579/8091/1768/files/cmf-headphone-pro-light-green-3_4-view-thumbnail.webp?v=1788842816",
+          "page": "https://us.nothing.tech/products/cmf-headphone-pro",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Nothing US store product image (cdn.shopify.com asset served by us.nothing.tech); Nothing has not granted a reuse license - rights not verified.",
+          "alt": "CMF by Nothing Headphone Pro in Light Green, three-quarter view, official Nothing product image",
+          "match": "EXACT",
+          "credit": "Nothing"
+        },
+        "Light Grey": {
+          "url": "https://cdn.shopify.com/s/files/1/0579/8091/1768/files/cmf-headphone-pro-light-grey-3_4-view-thumbnail.webp?v=1788842815",
+          "page": "https://us.nothing.tech/products/cmf-headphone-pro",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Nothing US store product image (cdn.shopify.com asset served by us.nothing.tech); Nothing has not granted a reuse license - rights not verified.",
+          "alt": "CMF by Nothing Headphone Pro in Light Grey, three-quarter view, official Nothing product image",
+          "match": "EXACT",
+          "credit": "Nothing"
+        },
+        "Dark Grey": {
+          "url": "https://cdn.shopify.com/s/files/1/0579/8091/1768/files/cmf-headphone-pro-dark-grey-3_4-view-thumbnail.webp?v=1788842816",
+          "page": "https://us.nothing.tech/products/cmf-headphone-pro",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Nothing US store product image (cdn.shopify.com asset served by us.nothing.tech); Nothing has not granted a reuse license - rights not verified.",
+          "alt": "CMF by Nothing Headphone Pro in Dark Grey, three-quarter view, official Nothing product image",
+          "match": "EXACT",
+          "credit": "Nothing"
+        }
+      }
+    },
+    {
+      "sku": "TK-NOTHING-CMF-BUDS-2",
+      "slug": "nothing-cmf-buds-2",
+      "name": "CMF by Nothing Buds 2",
+      "brand": "Nothing",
+      "category": "earbuds",
+      "price": "49.00",
+      "priceBasis": "msrp",
+      "priceSource": "https://us.nothing.tech/products/cmf-buds-2",
+      "priceAsOf": "2026-09-28",
+      "compareAt": "59.00",
+      "releaseYear": 2025,
+      "summary": "Budget ANC earbuds with 11 mm drivers, up to 48 dB adaptive ANC, Bluetooth 5.4 and up to 55 hours with the case.",
+      "description": "CMF Buds 2 use custom 11 mm dynamic drivers tuned with Dirac, offer adaptive ANC up to 48 dB and connect over Bluetooth 5.4 with dual connection. They last up to 13.5 hours with ANC off (55 hours with the case); earbuds are IP55 rated.",
+      "keywords": "cmf buds 2 nothing budget anc earbuds",
+      "specs": {
+        "connectivity": "Bluetooth 5.4, dual connection",
+        "noiseCancelling": true,
+        "batteryHours": 13.5,
+        "drivers": "Custom 11 mm dynamic",
+        "codecs": "SBC, AAC",
+        "waterResistance": "IP55 earbuds, IPX2 case",
+        "weightG": 4.5
+      },
+      "colors": [
+        "Light Green",
+        "Dark Grey",
+        "Orange"
+      ],
+      "featured": false,
+      "warranty": 12,
+      "sources": {
+        "product": "https://us.nothing.tech/products/cmf-buds-2",
+        "specs": "https://us.nothing.tech/products/cmf-buds-2",
+        "retrievedAt": "2026-09-28"
+      },
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0579/8091/1768/files/0000s_0077_CMF-Buds-2-case-lightgreen.png?v=1753683533",
+        "page": "https://us.nothing.tech/products/cmf-buds-2",
+        "sourceType": "manufacturer-product-page",
+        "rights": "Official Nothing US store product image (cdn.shopify.com asset served by us.nothing.tech); Nothing has not granted a reuse license - rights not verified.",
+        "alt": "CMF by Nothing Buds 2 in Light Green, earbuds in open case, official Nothing product image",
+        "match": "EXACT",
+        "credit": "Nothing"
+      },
+      "colorImages": {
+        "Light Green": {
+          "url": "https://cdn.shopify.com/s/files/1/0579/8091/1768/files/0000s_0077_CMF-Buds-2-case-lightgreen.png?v=1753683533",
+          "page": "https://us.nothing.tech/products/cmf-buds-2",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Nothing US store product image (cdn.shopify.com asset served by us.nothing.tech); Nothing has not granted a reuse license - rights not verified.",
+          "alt": "CMF by Nothing Buds 2 in Light Green, earbuds in open case, official Nothing product image",
+          "match": "EXACT",
+          "credit": "Nothing"
+        },
+        "Dark Grey": {
+          "url": "https://cdn.shopify.com/s/files/1/0579/8091/1768/files/0000s_0078_CMF-Buds-2-case-darkgrey.png?v=1753683532",
+          "page": "https://us.nothing.tech/products/cmf-buds-2",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Nothing US store product image (cdn.shopify.com asset served by us.nothing.tech); Nothing has not granted a reuse license - rights not verified.",
+          "alt": "CMF by Nothing Buds 2 in Dark Grey, earbuds in open case, official Nothing product image",
+          "match": "EXACT",
+          "credit": "Nothing"
+        },
+        "Orange": {
+          "url": "https://cdn.shopify.com/s/files/1/0579/8091/1768/files/0000s_0076_CMF-Buds-2-case-orange.png?v=1753683533",
+          "page": "https://us.nothing.tech/products/cmf-buds-2",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Nothing US store product image (cdn.shopify.com asset served by us.nothing.tech); Nothing has not granted a reuse license - rights not verified.",
+          "alt": "CMF by Nothing Buds 2 in Orange, earbuds in open case, official Nothing product image",
+          "match": "EXACT",
+          "credit": "Nothing"
+        }
+      }
+    },
+    {
+      "sku": "TK-NOTHING-CMF-BUDS-2-PLUS",
+      "slug": "nothing-cmf-buds-2-plus",
+      "name": "CMF by Nothing Buds 2 Plus",
+      "brand": "Nothing",
+      "category": "earbuds",
+      "price": "59.00",
+      "priceBasis": "msrp",
+      "priceSource": "https://us.nothing.tech/products/cmf-buds-2-plus",
+      "priceAsOf": "2026-09-28",
+      "compareAt": "69.00",
+      "releaseYear": 2025,
+      "summary": "CMF earbuds with 12 mm LCP drivers, LDAC, up to 50 dB adaptive ANC and up to 61.5 hours with the case.",
+      "description": "CMF Buds 2 Plus use custom 12 mm LCP drivers with LDAC support and Personal Sound Profile, adaptive ANC up to 50 dB and Bluetooth 5.4 with dual connection. They last up to 14 hours with ANC off (61.5 hours with the case); earbuds are IP55 rated.",
+      "keywords": "cmf buds 2 plus nothing ldac anc earbuds",
+      "specs": {
+        "connectivity": "Bluetooth 5.4, dual connection",
+        "noiseCancelling": true,
+        "batteryHours": 14,
+        "drivers": "Custom 12 mm dynamic, LCP + PU",
+        "codecs": "SBC, AAC, LDAC",
+        "waterResistance": "IP55 earbuds, IPX2 case",
+        "weightG": 4.5
+      },
+      "colors": [
+        "Light Grey",
+        "Blue"
+      ],
+      "featured": false,
+      "warranty": 12,
+      "sources": {
+        "product": "https://us.nothing.tech/products/cmf-buds-2-plus",
+        "specs": "https://us.nothing.tech/products/cmf-buds-2-plus",
+        "retrievedAt": "2026-09-28"
+      },
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0579/8091/1768/files/0000s_0079_CMF-Buds-2-Plus-case-lightgrey.png?v=1753683284",
+        "page": "https://us.nothing.tech/products/cmf-buds-2-plus",
+        "sourceType": "manufacturer-product-page",
+        "rights": "Official Nothing US store product image (cdn.shopify.com asset served by us.nothing.tech); Nothing has not granted a reuse license - rights not verified.",
+        "alt": "CMF by Nothing Buds 2 Plus in Light Grey, earbuds in open case, official Nothing product image",
+        "match": "EXACT",
+        "credit": "Nothing"
+      },
+      "colorImages": {
+        "Light Grey": {
+          "url": "https://cdn.shopify.com/s/files/1/0579/8091/1768/files/0000s_0079_CMF-Buds-2-Plus-case-lightgrey.png?v=1753683284",
+          "page": "https://us.nothing.tech/products/cmf-buds-2-plus",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Nothing US store product image (cdn.shopify.com asset served by us.nothing.tech); Nothing has not granted a reuse license - rights not verified.",
+          "alt": "CMF by Nothing Buds 2 Plus in Light Grey, earbuds in open case, official Nothing product image",
+          "match": "EXACT",
+          "credit": "Nothing"
+        },
+        "Blue": {
+          "url": "https://cdn.shopify.com/s/files/1/0579/8091/1768/files/0000s_0080_CMF-Buds-2-Plus-case-blue.png?v=1753683285",
+          "page": "https://us.nothing.tech/products/cmf-buds-2-plus",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Nothing US store product image (cdn.shopify.com asset served by us.nothing.tech); Nothing has not granted a reuse license - rights not verified.",
+          "alt": "CMF by Nothing Buds 2 Plus in Blue, earbuds in open case, official Nothing product image",
+          "match": "EXACT",
+          "credit": "Nothing"
+        }
+      }
+    },
+    {
+      "sku": "TK-NOTHING-CMF-BUDS-2A",
+      "slug": "nothing-cmf-buds-2a",
+      "name": "CMF by Nothing Buds 2a",
+      "brand": "Nothing",
+      "category": "earbuds",
+      "price": "29.00",
+      "priceBasis": "msrp",
+      "priceSource": "https://us.nothing.tech/products/cmf-buds-2a",
+      "priceAsOf": "2026-09-28",
+      "compareAt": "49.00",
+      "releaseYear": 2025,
+      "summary": "Entry CMF ANC earbuds with 12.4 mm drivers, up to 42 dB ANC, Bluetooth 5.4 and up to 35.5 hours with the case.",
+      "description": "CMF Buds 2a have custom 12.4 mm dynamic drivers tuned with Dirac, ANC up to 42 dB and Bluetooth 5.4 with dual connection. They play up to 8 hours with ANC off (35.5 hours with the case); earbuds are IP54 rated.",
+      "keywords": "cmf buds 2a nothing cheap anc earbuds",
+      "specs": {
+        "connectivity": "Bluetooth 5.4, dual connection",
+        "noiseCancelling": true,
+        "batteryHours": 8,
+        "drivers": "Custom 12.4 mm dynamic",
+        "codecs": "SBC, AAC",
+        "waterResistance": "IP54 earbuds, IPX2 case",
+        "weightG": 4.28
+      },
+      "colors": [
+        "Orange",
+        "Light Grey",
+        "Dark Grey"
+      ],
+      "featured": false,
+      "warranty": 12,
+      "sources": {
+        "product": "https://us.nothing.tech/products/cmf-buds-2a",
+        "specs": "https://us.nothing.tech/products/cmf-buds-2a",
+        "retrievedAt": "2026-09-28"
+      },
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0579/8091/1768/files/0000s_0073_CMF-Buds-2a-case-orange.png?v=1753683147",
+        "page": "https://us.nothing.tech/products/cmf-buds-2a",
+        "sourceType": "manufacturer-product-page",
+        "rights": "Official Nothing US store product image (cdn.shopify.com asset served by us.nothing.tech); Nothing has not granted a reuse license - rights not verified.",
+        "alt": "CMF by Nothing Buds 2a in Orange, earbuds in open case, official Nothing product image",
+        "match": "EXACT",
+        "credit": "Nothing"
+      },
+      "colorImages": {
+        "Orange": {
+          "url": "https://cdn.shopify.com/s/files/1/0579/8091/1768/files/0000s_0073_CMF-Buds-2a-case-orange.png?v=1753683147",
+          "page": "https://us.nothing.tech/products/cmf-buds-2a",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Nothing US store product image (cdn.shopify.com asset served by us.nothing.tech); Nothing has not granted a reuse license - rights not verified.",
+          "alt": "CMF by Nothing Buds 2a in Orange, earbuds in open case, official Nothing product image",
+          "match": "EXACT",
+          "credit": "Nothing"
+        },
+        "Light Grey": {
+          "url": "https://cdn.shopify.com/s/files/1/0579/8091/1768/files/0000s_0074_CMF-Buds-2a-case-lightgrey.png?v=1753683146",
+          "page": "https://us.nothing.tech/products/cmf-buds-2a",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Nothing US store product image (cdn.shopify.com asset served by us.nothing.tech); Nothing has not granted a reuse license - rights not verified.",
+          "alt": "CMF by Nothing Buds 2a in Light Grey, earbuds in open case, official Nothing product image",
+          "match": "EXACT",
+          "credit": "Nothing"
+        },
+        "Dark Grey": {
+          "url": "https://cdn.shopify.com/s/files/1/0579/8091/1768/files/0000s_0075_CMF-Buds-2a-case-black.png?v=1753683144",
+          "page": "https://us.nothing.tech/products/cmf-buds-2a",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Nothing US store product image (cdn.shopify.com asset served by us.nothing.tech); Nothing has not granted a reuse license - rights not verified.",
+          "alt": "CMF by Nothing Buds 2a in Dark Grey, earbuds in open case, official Nothing product image",
+          "match": "EXACT",
+          "credit": "Nothing"
+        }
+      }
+    },
+    {
+      "sku": "TK-NOTHING-CMF-BUDS-PRO-2",
+      "slug": "nothing-cmf-buds-pro-2",
+      "name": "CMF by Nothing Buds Pro 2",
+      "brand": "Nothing",
+      "category": "earbuds",
+      "price": "49.00",
+      "priceBasis": "msrp",
+      "priceSource": "https://us.nothing.tech/products/cmf-buds-pro-2",
+      "priceAsOf": "2026-09-28",
+      "compareAt": "69.00",
+      "releaseYear": 2024,
+      "summary": "CMF dual-driver earbuds with an 11 mm bass driver plus 6 mm micro-planar tweeter, up to 50 dB ANC and up to 43 hours with the case.",
+      "description": "CMF Buds Pro 2 pair an 11 mm bass driver with a 6 mm micro-planar tweeter, offer adaptive ANC up to 50 dB and connect over Bluetooth 5.4. They last up to 11 hours with ANC off (43 hours with the case); earbuds are IP55 rated.",
+      "keywords": "cmf buds pro 2 nothing dual driver anc earbuds",
+      "specs": {
+        "connectivity": "Bluetooth 5.4",
+        "noiseCancelling": true,
+        "batteryHours": 11,
+        "drivers": "11 mm bass driver + 6 mm micro-planar tweeter",
+        "waterResistance": "IP55 earbuds",
+        "weightG": 4.9
+      },
+      "colors": [
+        "Orange",
+        "Dark Grey",
+        "Light Grey",
+        "Blue"
+      ],
+      "featured": false,
+      "warranty": 12,
+      "sources": {
+        "product": "https://us.nothing.tech/products/cmf-buds-pro-2",
+        "specs": "https://us.nothing.tech/products/cmf-buds-pro-2",
+        "retrievedAt": "2026-09-28"
+      },
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0579/8091/1768/files/0000s_0070_CMF-Buds-Pro-2-case-lightgrey.png?v=1753686351",
+        "page": "https://us.nothing.tech/products/cmf-buds-pro-2",
+        "sourceType": "manufacturer-product-page",
+        "rights": "Official Nothing US store product image (cdn.shopify.com asset served by us.nothing.tech); Nothing has not granted a reuse license - rights not verified.",
+        "alt": "CMF by Nothing Buds Pro 2 in Orange, earbuds in open case, official Nothing product image",
+        "match": "EXACT",
+        "credit": "Nothing"
+      },
+      "colorImages": {
+        "Orange": {
+          "url": "https://cdn.shopify.com/s/files/1/0579/8091/1768/files/0000s_0070_CMF-Buds-Pro-2-case-lightgrey.png?v=1753686351",
+          "page": "https://us.nothing.tech/products/cmf-buds-pro-2",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Nothing US store product image (cdn.shopify.com asset served by us.nothing.tech); Nothing has not granted a reuse license - rights not verified.",
+          "alt": "CMF by Nothing Buds Pro 2 in Orange, earbuds in open case, official Nothing product image",
+          "match": "EXACT",
+          "credit": "Nothing"
+        },
+        "Dark Grey": {
+          "url": "https://cdn.shopify.com/s/files/1/0579/8091/1768/files/0000s_0072_CMF-Buds-Pro-2-case-black.png?v=1753686351",
+          "page": "https://us.nothing.tech/products/cmf-buds-pro-2",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Nothing US store product image (cdn.shopify.com asset served by us.nothing.tech); Nothing has not granted a reuse license - rights not verified.",
+          "alt": "CMF by Nothing Buds Pro 2 in Dark Grey, earbuds in open case, official Nothing product image",
+          "match": "EXACT",
+          "credit": "Nothing"
+        },
+        "Light Grey": {
+          "url": "https://cdn.shopify.com/s/files/1/0579/8091/1768/files/0000s_0069_CMF-Buds-Pro-2-case-orange.png?v=1753686350",
+          "page": "https://us.nothing.tech/products/cmf-buds-pro-2",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Nothing US store product image (cdn.shopify.com asset served by us.nothing.tech); Nothing has not granted a reuse license - rights not verified.",
+          "alt": "CMF by Nothing Buds Pro 2 in Light Grey, earbuds in open case, official Nothing product image",
+          "match": "EXACT",
+          "credit": "Nothing"
+        },
+        "Blue": {
+          "url": "https://cdn.shopify.com/s/files/1/0579/8091/1768/files/0000s_0071_CMF-Buds-Pro-2-case-blue.png?v=1753686351",
+          "page": "https://us.nothing.tech/products/cmf-buds-pro-2",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Nothing US store product image (cdn.shopify.com asset served by us.nothing.tech); Nothing has not granted a reuse license - rights not verified.",
+          "alt": "CMF by Nothing Buds Pro 2 in Blue, earbuds in open case, official Nothing product image",
+          "match": "EXACT",
+          "credit": "Nothing"
+        }
+      },
+      "notes": "Nothing's asset filenames for Orange/Light Grey are swapped; images were assigned by the variant the store returns and visually verified to show the right colour."
+    },
+    {
+      "sku": "TK-NOTHING-CMF-CLIP-PRO",
+      "slug": "nothing-cmf-clip-pro",
+      "name": "CMF by Nothing Clip Pro",
+      "brand": "Nothing",
+      "category": "earbuds",
+      "price": "99.00",
+      "priceBasis": "msrp",
+      "priceSource": "https://us.nothing.tech/products/cmf-clip-pro",
+      "priceAsOf": "2026-09-28",
+      "releaseYear": 2026,
+      "summary": "Clip-style open-ear earbuds with 10.8 mm drivers, LDAC Hi-Res certification, Bluetooth 5.4 and up to 36 hours with the case.",
+      "description": "CMF Clip Pro are clip-on open-ear earbuds with 10.8 mm dynamic drivers, LDAC Hi-Res Wireless certification and static spatial audio. They connect over Bluetooth 5.4 with dual connection, last up to 10 hours per charge (up to 36 hours with the case in long battery mode) and are IP54 rated.",
+      "keywords": "cmf clip pro nothing open ear clip earbuds ldac",
+      "specs": {
+        "connectivity": "Bluetooth 5.4, dual connection",
+        "noiseCancelling": false,
+        "batteryHours": 10,
+        "drivers": "10.8 mm dynamic",
+        "codecs": "SBC, AAC, LDAC",
+        "waterResistance": "IP54 earbuds, IPX2 case",
+        "weightG": 5.92
+      },
+      "colors": [
+        "Coral",
+        "Light Grey",
+        "Dark Grey"
+      ],
+      "featured": false,
+      "warranty": 12,
+      "sources": {
+        "product": "https://us.nothing.tech/products/cmf-clip-pro",
+        "specs": "https://us.nothing.tech/products/cmf-clip-pro",
+        "retrievedAt": "2026-09-28"
+      },
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0579/8091/1768/files/product-thumbnail-orange.webp?v=1785495283",
+        "page": "https://us.nothing.tech/products/cmf-clip-pro",
+        "sourceType": "manufacturer-product-page",
+        "rights": "Official Nothing US store product image (cdn.shopify.com asset served by us.nothing.tech); Nothing has not granted a reuse license - rights not verified.",
+        "alt": "CMF by Nothing Clip Pro in Coral, earbuds in open case, official Nothing product image",
+        "match": "EXACT",
+        "credit": "Nothing"
+      },
+      "colorImages": {
+        "Coral": {
+          "url": "https://cdn.shopify.com/s/files/1/0579/8091/1768/files/product-thumbnail-orange.webp?v=1785495283",
+          "page": "https://us.nothing.tech/products/cmf-clip-pro",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Nothing US store product image (cdn.shopify.com asset served by us.nothing.tech); Nothing has not granted a reuse license - rights not verified.",
+          "alt": "CMF by Nothing Clip Pro in Coral, earbuds in open case, official Nothing product image",
+          "match": "EXACT",
+          "credit": "Nothing"
+        },
+        "Light Grey": {
+          "url": "https://cdn.shopify.com/s/files/1/0579/8091/1768/files/product-thumbnail-white_5a7706a7-4862-48a0-b0a1-345b3cb22943.webp?v=1785495275",
+          "page": "https://us.nothing.tech/products/cmf-clip-pro",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Nothing US store product image (cdn.shopify.com asset served by us.nothing.tech); Nothing has not granted a reuse license - rights not verified.",
+          "alt": "CMF by Nothing Clip Pro in Light Grey, earbuds in open case, official Nothing product image",
+          "match": "EXACT",
+          "credit": "Nothing"
+        },
+        "Dark Grey": {
+          "url": "https://cdn.shopify.com/s/files/1/0579/8091/1768/files/product-thumbnail-black_ddfb1399-f33a-487b-8cd4-2fa233e41a4f.webp?v=1785495264",
+          "page": "https://us.nothing.tech/products/cmf-clip-pro",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Nothing US store product image (cdn.shopify.com asset served by us.nothing.tech); Nothing has not granted a reuse license - rights not verified.",
+          "alt": "CMF by Nothing Clip Pro in Dark Grey, earbuds in open case, official Nothing product image",
+          "match": "EXACT",
+          "credit": "Nothing"
+        }
+      }
+    },
+    {
+      "sku": "TK-NOTHING-CMF-WATCH-3-PRO",
+      "slug": "nothing-cmf-watch-3-pro",
+      "name": "CMF by Nothing Watch 3 Pro",
+      "brand": "Nothing",
+      "category": "smartwatches",
+      "price": "79.00",
+      "priceBasis": "msrp",
+      "priceSource": "https://us.nothing.tech/products/cmf-watch-3-pro",
+      "priceAsOf": "2026-09-28",
+      "compareAt": "99.00",
+      "releaseYear": 2025,
+      "summary": "Budget smartwatch with a 1.43-inch AMOLED display, metal body, GPS, 131 sport modes and up to 13 days of typical battery life.",
+      "description": "CMF Watch 3 Pro has a 1.43-inch 466 x 466 AMOLED display, a metal body and removable liquid-silicone strap. It tracks heart rate, SpO2, sleep and stress across 131 sport modes, supports Bluetooth calls, and its 350 mAh battery lasts up to 13 days of typical use (17.2 hours of GPS use).",
+      "keywords": "cmf watch 3 pro nothing smartwatch gps amoled budget",
+      "specs": {
+        "display": "1.43-inch 466 x 466 AMOLED (326 ppi), 60 Hz",
+        "battery": "350 mAh, up to 13 days typical use",
+        "health": "24-hour heart rate, SpO2, sleep and stress tracking, 131 sport modes",
+        "connectivity": "Bluetooth calling, GPS",
+        "weightG": 51.9
+      },
+      "colors": [
+        "Light Green",
+        "Orange",
+        "Dark Grey"
+      ],
+      "featured": false,
+      "warranty": 12,
+      "sources": {
+        "product": "https://us.nothing.tech/products/cmf-watch-3-pro",
+        "specs": "https://us.nothing.tech/products/cmf-watch-3-pro",
+        "retrievedAt": "2026-09-28"
+      },
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0579/8091/1768/files/20260911-113857.webp?v=1789126027",
+        "page": "https://us.nothing.tech/products/cmf-watch-3-pro",
+        "sourceType": "manufacturer-product-page",
+        "rights": "Official Nothing US store product image (cdn.shopify.com asset served by us.nothing.tech); Nothing has not granted a reuse license - rights not verified.",
+        "alt": "CMF by Nothing Watch 3 Pro in Light Green, front view, official Nothing product image",
+        "match": "EXACT",
+        "credit": "Nothing"
+      },
+      "colorImages": {
+        "Light Green": {
+          "url": "https://cdn.shopify.com/s/files/1/0579/8091/1768/files/20260911-113857.webp?v=1789126027",
+          "page": "https://us.nothing.tech/products/cmf-watch-3-pro",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Nothing US store product image (cdn.shopify.com asset served by us.nothing.tech); Nothing has not granted a reuse license - rights not verified.",
+          "alt": "CMF by Nothing Watch 3 Pro in Light Green, front view, official Nothing product image",
+          "match": "EXACT",
+          "credit": "Nothing"
+        },
+        "Orange": {
+          "url": "https://cdn.shopify.com/s/files/1/0579/8091/1768/files/0000s_0043_CMF-Watch-3-Pro-Orange.png?v=1753682899",
+          "page": "https://us.nothing.tech/products/cmf-watch-3-pro",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Nothing US store product image (cdn.shopify.com asset served by us.nothing.tech); Nothing has not granted a reuse license - rights not verified.",
+          "alt": "CMF by Nothing Watch 3 Pro in Orange, front view, official Nothing product image",
+          "match": "EXACT",
+          "credit": "Nothing"
+        },
+        "Dark Grey": {
+          "url": "https://cdn.shopify.com/s/files/1/0579/8091/1768/files/0000s_0045_CMF-Watch-3-Pro-dark-grey.png?v=1753682898",
+          "page": "https://us.nothing.tech/products/cmf-watch-3-pro",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Nothing US store product image (cdn.shopify.com asset served by us.nothing.tech); Nothing has not granted a reuse license - rights not verified.",
+          "alt": "CMF by Nothing Watch 3 Pro in Dark Grey, front view, official Nothing product image",
+          "match": "EXACT",
+          "credit": "Nothing"
+        }
+      },
+      "notes": "Light Grey is listed but not available for sale on us.nothing.tech at research time; not included."
+    }
+  ]
+}

@@ -1,0 +1,1448 @@
+{
+ "products": [
+  {
+   "sku": "TK-CISCO-C9300X-48HX",
+   "slug": "cisco-catalyst-9300x-48hx",
+   "name": "Cisco Catalyst 9300X-48HX 48-Port 10G mGig UPOE+ Switch",
+   "brand": "Cisco",
+   "category": "switches",
+   "price": "16500.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    15,
+    3
+   ],
+   "featured": true,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "enterprise-lab",
+    "networking-lab"
+   ],
+   "summary": "Stackable access switch with 48x 10G multigigabit UPOE+ (90W) ports, modular uplinks and 1.76 Tbps switching capacity.",
+   "description": "The Catalyst 9300X-48HX is a 1RU stackable Catalyst 9300X access switch with 48 Cisco UPOE+ ports running at 10G/5G/2.5G/1G/100M and a modular uplink slot. Cisco's data sheet lists 1,760 Gbps switching capacity (2,760 Gbps with stacking) and a 1100W AC default power supply. It is also offered as a Meraki cloud-managed Catalyst 9300-M model.",
+   "keywords": "cisco catalyst 9300x 48hx c9300x-48hx multigigabit upoe+ 10g stackable access switch meraki 9300-m",
+   "specs": {
+    "ports": "48x 10G mGig RJ-45 (UPOE+), modular uplink slot",
+    "maxSpeedGbps": 100,
+    "managed": true,
+    "rackMountable": true,
+    "switchingCapacityGbps": 1760
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-CISCO-C9300X-24Y",
+   "slug": "cisco-catalyst-9300x-24y",
+   "name": "Cisco Catalyst 9300X-24Y 24-Port 25G Fiber Switch",
+   "brand": "Cisco",
+   "category": "switches",
+   "price": "17500.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    4,
+    3
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "enterprise-lab"
+   ],
+   "summary": "Stackable 1RU switch with 24x 25G/10G/1G SFP28 ports, modular uplinks and 2 Tbps switching capacity.",
+   "description": "The Catalyst 9300X-24Y is a 24-port 25G/10G/1G SFP28 fiber model in the Catalyst 9300X family with a modular uplink slot. Cisco lists 2,000 Gbps switching capacity (3,000 Gbps with stacking), 1,488 Mpps forwarding and a 715W AC default power supply.",
+   "keywords": "cisco catalyst 9300x-24y c9300x-24y sfp28 25g fiber aggregation stackable",
+   "specs": {
+    "ports": "24x 1/10/25G SFP28, modular uplink slot",
+    "maxSpeedGbps": 100,
+    "managed": true,
+    "rackMountable": true,
+    "switchingCapacityGbps": 2000
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-CISCO-C9500X-28C8D",
+   "slug": "cisco-catalyst-9500x-28c8d",
+   "name": "Cisco Catalyst 9500X-28C8D 400G Core Switch",
+   "brand": "Cisco",
+   "category": "switches",
+   "price": "62000.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    2,
+    2
+   ],
+   "featured": true,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "enterprise-lab"
+   ],
+   "summary": "Silicon One Q200 core switch with 28x 100G and 8x 400G ports and up to 12 Tbps switching capacity.",
+   "description": "The C9500X-28C8D is the Catalyst 9500X core and aggregation switch with 28 x 40/100 Gigabit Ethernet QSFP28 ports plus 8 x 40/100/200/400 Gigabit Ethernet ports. Cisco's data sheet lists up to 12 Tbps switching capacity and 8 Bpps forwarding on the Silicon One Q200 ASIC.",
+   "keywords": "cisco catalyst 9500 c9500x-28c8d core aggregation switch campus",
+   "specs": {
+    "ports": "28x 40/100G QSFP28, 8x 40/100/200/400G QSFP-DD",
+    "maxSpeedGbps": 400,
+    "managed": true,
+    "rackMountable": true,
+    "switchingCapacityGbps": 12000
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-CISCO-C9500X-60L4D",
+   "slug": "cisco-catalyst-9500x-60l4d",
+   "name": "Cisco Catalyst 9500X-60L4D 50G/400G Switch",
+   "brand": "Cisco",
+   "category": "switches",
+   "price": "56000.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    4,
+    2
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "enterprise-lab"
+   ],
+   "summary": "Catalyst 9500X aggregation switch with 60x 50G and 4x 400G ports and up to 9.2 Tbps switching capacity.",
+   "description": "The C9500X-60L4D is a Catalyst 9500X switch with 60 x 10/25/50 Gigabit Ethernet ports plus 4 x 40/100/200/400G ports. Cisco lists up to 9.2 Tbps switching capacity and 8 Bpps forwarding on the Silicon One Q200 ASIC.",
+   "keywords": "cisco catalyst 9500 c9500x-60l4d core aggregation switch campus",
+   "specs": {
+    "ports": "60x 10/25/50G, 4x 40/100/200/400G",
+    "maxSpeedGbps": 400,
+    "managed": true,
+    "rackMountable": true,
+    "switchingCapacityGbps": 9200
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-CISCO-C9500-32C",
+   "slug": "cisco-catalyst-9500-32c",
+   "name": "Cisco Catalyst 9500-32C 100G Core Switch",
+   "brand": "Cisco",
+   "category": "switches",
+   "price": "45000.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    3,
+    2
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "enterprise-lab"
+   ],
+   "summary": "High-performance Catalyst 9500 core switch with 32x 100G QSFP28 ports and up to 6.4 Tbps switching capacity.",
+   "description": "The C9500-32C is a Catalyst 9500 Series high-performance switch with 32 x 100 Gigabit Ethernet QSFP28 ports (breakout to 96 x 10G/25G). Cisco lists up to 6.4 Tbps switching capacity and 2 Bpps forwarding on UADP 3.0.",
+   "keywords": "cisco catalyst 9500 c9500-32c core aggregation switch campus",
+   "specs": {
+    "ports": "32x 40/100G QSFP28",
+    "maxSpeedGbps": 100,
+    "managed": true,
+    "rackMountable": true,
+    "switchingCapacityGbps": 6400
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-CISCO-C9500-48Y4C",
+   "slug": "cisco-catalyst-9500-48y4c",
+   "name": "Cisco Catalyst 9500-48Y4C 25G Aggregation Switch",
+   "brand": "Cisco",
+   "category": "switches",
+   "price": "30000.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    5,
+    2
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "enterprise-lab"
+   ],
+   "summary": "Catalyst 9500 aggregation switch with 48x 25G SFP28 and 4x 100G QSFP28 uplinks, up to 3.2 Tbps.",
+   "description": "The C9500-48Y4C is a Catalyst 9500 Series high-performance switch with 48 x 1/10/25 Gigabit Ethernet ports and 4 x 40/100 Gigabit Ethernet uplink ports. Cisco lists up to 3.2 Tbps switching capacity and 1 Bpps forwarding on UADP 3.0.",
+   "keywords": "cisco catalyst 9500 c9500-48y4c core aggregation switch campus",
+   "specs": {
+    "ports": "48x 1/10/25G SFP28, 4x 40/100G QSFP28",
+    "maxSpeedGbps": 100,
+    "managed": true,
+    "rackMountable": true,
+    "switchingCapacityGbps": 3200
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-CISCO-C9404R",
+   "slug": "cisco-catalyst-c9404r",
+   "name": "Cisco Catalyst C9404R 4-Slot Modular Switch Chassis",
+   "brand": "Cisco",
+   "category": "switches",
+   "price": "5500.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    13,
+    3
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "enterprise-lab"
+   ],
+   "summary": "Catalyst 9400 modular access/distribution chassis with 4 slots (2 line-card slots), 6RU, up to 480 Gbps per slot.",
+   "description": "The Catalyst C9404R is a 4-slot Catalyst 9400 Series chassis with 2 line-card slots and two supervisor slots, 4 power-supply bays and 6 rack units. Cisco's data sheet lists up to 480 Gbps per line-card slot with the C9400X-SUP-2XL and up to 4,320W PoE per slot.",
+   "keywords": "cisco catalyst 9400 c9404r modular chassis campus access distribution upoe",
+   "specs": {
+    "ports": "2 line-card slots, 2 supervisor slots",
+    "managed": true,
+    "rackMountable": true
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-CISCO-C9407R",
+   "slug": "cisco-catalyst-c9407r",
+   "name": "Cisco Catalyst C9407R 7-Slot Modular Switch Chassis",
+   "brand": "Cisco",
+   "category": "switches",
+   "price": "9500.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    16,
+    3
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "enterprise-lab"
+   ],
+   "summary": "Catalyst 9400 modular access/distribution chassis with 7 slots (5 line-card slots), 10RU, up to 480 Gbps per slot.",
+   "description": "The Catalyst C9407R is a 7-slot Catalyst 9400 Series chassis with 5 line-card slots and two supervisor slots, 8 power-supply bays and 10 rack units. Cisco's data sheet lists up to 480 Gbps per line-card slot with the C9400X-SUP-2XL and up to 4,320W PoE per slot.",
+   "keywords": "cisco catalyst 9400 c9407r modular chassis campus access distribution upoe",
+   "specs": {
+    "ports": "5 line-card slots, 2 supervisor slots",
+    "managed": true,
+    "rackMountable": true
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-CISCO-C9410R",
+   "slug": "cisco-catalyst-c9410r",
+   "name": "Cisco Catalyst C9410R 10-Slot Modular Switch Chassis",
+   "brand": "Cisco",
+   "category": "switches",
+   "price": "12500.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    16,
+    3
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "enterprise-lab"
+   ],
+   "summary": "Catalyst 9400 modular access/distribution chassis with 10 slots (8 line-card slots), 13RU, up to 480 Gbps per slot.",
+   "description": "The Catalyst C9410R is a 10-slot Catalyst 9400 Series chassis with 8 line-card slots and two supervisor slots, 8 power-supply bays and 13 rack units. Cisco's data sheet lists up to 480 Gbps per line-card slot with the C9400X-SUP-2XL and up to 4,320W PoE per slot.",
+   "keywords": "cisco catalyst 9400 c9410r modular chassis campus access distribution upoe",
+   "specs": {
+    "ports": "8 line-card slots, 2 supervisor slots",
+    "managed": true,
+    "rackMountable": true
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-CISCO-C9606R",
+   "slug": "cisco-catalyst-c9606r",
+   "name": "Cisco Catalyst C9606R 6-Slot Core Switch Chassis",
+   "brand": "Cisco",
+   "category": "switches",
+   "price": "16000.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    10,
+    3
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "enterprise-lab"
+   ],
+   "summary": "Catalyst 9600 modular core chassis: 6 slots, 4 line-card slots, up to 25.6 Tbps with Supervisor Engine 2, 8RU.",
+   "description": "The Catalyst 9606R is the 6-slot Catalyst 9600 Series chassis with four line-card slots and two supervisor slots, four power-supply bays and a fan tray with nine redundant fans. Cisco lists up to 25.6 Tbps (12.8 Tbps full duplex) of switching capacity and up to 6.4 Tbps per slot with the C9600X-SUP-2.",
+   "keywords": "cisco catalyst 9600 c9606r modular core switch chassis 400g",
+   "specs": {
+    "ports": "4 line-card slots, 2 supervisor slots",
+    "maxSpeedGbps": 400,
+    "managed": true,
+    "rackMountable": true,
+    "switchingCapacityGbps": 25600
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-CISCO-MS130-48",
+   "slug": "cisco-meraki-ms130-48",
+   "name": "Cisco Meraki MS130-48 Cloud-Managed Switch",
+   "brand": "Cisco",
+   "category": "switches",
+   "price": "4200.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    9,
+    3
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "small-business",
+    "networking-lab"
+   ],
+   "summary": "Full-size 48-port cloud-managed Meraki access switch, with 740W PoE+ on the 48P/48X models and optional mGig/10G uplinks.",
+   "description": "The Meraki MS130-48 is a 1U rack-mount 48-port Layer 2 access switch managed from the Meraki dashboard. Cisco lists 740W PoE+ on the MS130-48P and MS130-48X, and the X model adds 8x 2.5 GbE mGig ports and 4x 10G SFP+ uplinks.",
+   "keywords": "cisco meraki ms130-48 ms130-48p ms130-48x cloud managed switch poe+",
+   "specs": {
+    "ports": "48x 1GbE RJ-45 (48X: 8x 2.5G mGig) + SFP/SFP+ uplinks",
+    "maxSpeedGbps": 10,
+    "managed": true,
+    "rackMountable": true,
+    "poe": 740
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-CISCO-MX450",
+   "slug": "cisco-meraki-mx450",
+   "name": "Cisco Meraki MX450 Security & SD-WAN Appliance",
+   "brand": "Cisco",
+   "category": "firewalls",
+   "price": "24000.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    3,
+    2
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "security-lab",
+    "enterprise-lab"
+   ],
+   "summary": "Rack-mount Meraki security and SD-WAN appliance for up to 10,000 users with 6 Gbps firewall throughput.",
+   "description": "The Meraki MX450 is a large-branch, campus or data-center security and SD-WAN appliance for up to 10,000 users. Cisco lists two 10 GbE SFP+ WAN ports, LAN ports of 8x GbE RJ-45, 8x GbE SFP and 8x 10 GbE SFP+, 6 Gbps firewall throughput and 2 Gbps site-to-site VPN throughput.",
+   "keywords": "cisco meraki mx450 sd-wan security appliance firewall branch",
+   "specs": {
+    "ports": "WAN: 2x 10G SFP+; LAN: 8x 1G RJ-45, 8x 1G SFP, 8x 10G SFP+",
+    "managed": true,
+    "rackMountable": true,
+    "firewallThroughputGbps": 6
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-CISCO-MX67W",
+   "slug": "cisco-meraki-mx67w",
+   "name": "Cisco Meraki MX67W Security & SD-WAN Appliance with Wi-Fi",
+   "brand": "Cisco",
+   "category": "firewalls",
+   "price": "950.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    46,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "security-lab",
+    "small-business"
+   ],
+   "summary": "Desktop Meraki security and SD-WAN appliance with integrated 802.11ac Wave 2 Wi-Fi for up to 50 users.",
+   "description": "The Meraki MX67W is a small-branch security and SD-WAN appliance with integrated Wi-Fi for up to 50 users. Cisco lists 2 GbE WAN and 4 GbE LAN ports (one usable as WAN or LAN), 802.11ac Wave 2 Wi-Fi, 700 Mbps firewall throughput and 300 Mbps site-to-site VPN throughput.",
+   "keywords": "cisco meraki mx67w sd-wan security appliance firewall branch",
+   "specs": {
+    "ports": "WAN: 2x 1GbE; LAN: 4x 1GbE (1 WAN/LAN)",
+    "managed": true,
+    "rackMountable": false,
+    "firewallThroughputGbps": 0.7,
+    "wifiDetails": "802.11ac Wave 2"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-CISCO-MX68W",
+   "slug": "cisco-meraki-mx68w",
+   "name": "Cisco Meraki MX68W Security & SD-WAN Appliance with Wi-Fi and PoE",
+   "brand": "Cisco",
+   "category": "firewalls",
+   "price": "1300.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    37,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "security-lab",
+    "small-business"
+   ],
+   "summary": "Desktop Meraki SD-WAN appliance with 10 GbE LAN ports (two PoE+) and 802.11ac Wave 2 Wi-Fi for up to 50 users.",
+   "description": "The Meraki MX68W is a small-branch security and SD-WAN appliance for up to 50 users. Cisco lists 2 GbE WAN ports, 10 GbE LAN ports with two PoE+ ports, 802.11ac Wave 2 Wi-Fi, 700 Mbps firewall throughput and 300 Mbps site-to-site VPN throughput.",
+   "keywords": "cisco meraki mx68w sd-wan security appliance firewall branch",
+   "specs": {
+    "ports": "WAN: 2x 1GbE; LAN: 10x 1GbE (2x PoE+)",
+    "managed": true,
+    "rackMountable": false,
+    "firewallThroughputGbps": 0.7,
+    "wifiDetails": "802.11ac Wave 2"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-CISCO-MX68CW",
+   "slug": "cisco-meraki-mx68cw",
+   "name": "Cisco Meraki MX68CW Security & SD-WAN Appliance with Wi-Fi and LTE",
+   "brand": "Cisco",
+   "category": "firewalls",
+   "price": "1900.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    27,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "security-lab",
+    "small-business"
+   ],
+   "summary": "Desktop Meraki SD-WAN appliance with integrated Cat 6 LTE modem, Wi-Fi and two PoE+ ports for up to 50 users.",
+   "description": "The Meraki MX68CW adds an integrated Cat 6 cellular modem to the MX68W design for small branches of up to 50 users. Cisco lists 2 GbE WAN ports plus the cellular modem and a USB port for failover, 10 GbE LAN ports with two PoE+, 802.11ac Wave 2 Wi-Fi, 700 Mbps firewall and 300 Mbps site-to-site VPN throughput.",
+   "keywords": "cisco meraki mx68cw sd-wan security appliance firewall branch",
+   "specs": {
+    "ports": "WAN: 2x 1GbE + Cat 6 LTE + USB; LAN: 10x 1GbE (2x PoE+)",
+    "managed": true,
+    "rackMountable": false,
+    "firewallThroughputGbps": 0.7,
+    "wifiDetails": "802.11ac Wave 2"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-CISCO-Z4",
+   "slug": "cisco-meraki-z4",
+   "name": "Cisco Meraki Z4 Teleworker Gateway",
+   "brand": "Cisco",
+   "category": "routers-gateways",
+   "price": "450.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    42,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "small-business"
+   ],
+   "summary": "Cloud-managed Meraki teleworker gateway with Wi-Fi 6, four LAN ports (one PoE) and Auto VPN back to the office.",
+   "description": "The Meraki Z4 is a secure remote-work gateway with integrated dual-band 2x2 Wi-Fi 6. Cisco lists 1 GbE WAN and 4 GbE LAN ports (one PoE-enabled), 500 Mbps firewall throughput and 250 Mbps site-to-site VPN throughput, with Auto VPN to the corporate network and cloud management from the Meraki dashboard.",
+   "keywords": "cisco meraki z4 teleworker gateway remote work wifi 6 auto vpn",
+   "specs": {
+    "ports": "WAN: 1x 1GbE; LAN: 4x 1GbE (1x PoE)",
+    "managed": true,
+    "rackMountable": false,
+    "wifiStandard": "Wi-Fi 6",
+    "wifiDetails": "Dual-band 2x2 Wi-Fi 6"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-CISCO-CW9178I",
+   "slug": "cisco-wireless-cw9178i",
+   "name": "Cisco Wireless CW9178I Wi-Fi 7 Access Point",
+   "brand": "Cisco",
+   "category": "access-points",
+   "price": "1900.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    51,
+    5
+   ],
+   "featured": true,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "enterprise-lab",
+    "networking-lab"
+   ],
+   "summary": "Flagship quad-radio Wi-Fi 7 indoor AP (4x4, 16 spatial streams) with dual 10 Gbps ports, UWB and GNSS.",
+   "description": "The CW9178I is Cisco's top indoor Wi-Fi 7 access point, manageable from the Meraki dashboard or Catalyst Center. Cisco lists a quad-radio 4x4 design with 16 spatial streams (2.4 GHz, dual 5 GHz and 6 GHz), a dedicated IoT radio, integrated ultra-wideband, built-in GNSS/GPS and dual 10 Gbps ports for redundancy.",
+   "keywords": "cisco wireless meraki cw9178i wifi 7 access point quad radio 6ghz",
+   "specs": {
+    "ports": "2x 10 Gbps mGig",
+    "maxSpeedGbps": 10,
+    "managed": true,
+    "wifiStandard": "Wi-Fi 7",
+    "wifiDetails": "Quad radio 4x4, 16 spatial streams; 2.4 GHz, dual 5 GHz, 6 GHz; IoT radio, UWB, GNSS"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-CISCO-CW9163E",
+   "slug": "cisco-meraki-cw9163e",
+   "name": "Cisco Meraki CW9163E Outdoor Wi-Fi 6E Access Point",
+   "brand": "Cisco",
+   "category": "access-points",
+   "price": "1500.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    20,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "enterprise-lab"
+   ],
+   "summary": "Outdoor tri-band Wi-Fi 6E access point (2x2:2, up to 3.9 Gbps aggregate) with external antenna connectors and GPS.",
+   "description": "The CW9163E is an outdoor Wi-Fi 6E access point with 2.4 GHz, 5 GHz and 6 GHz radios plus a dedicated tri-band auxiliary radio and 2.4 GHz IoT radio. Cisco lists 2x2:2 MU-MIMO 802.11ax with up to 3.9 Gbps tri-radio aggregate frame rate, a built-in GPS antenna and omnidirectional dipole antennas sold separately.",
+   "keywords": "cisco meraki cw9163e outdoor wifi 6e access point external antenna",
+   "specs": {
+    "managed": true,
+    "wifiStandard": "Wi-Fi 6E",
+    "wifiDetails": "2x2:2 MU-MIMO tri-radio (2.4/5/6 GHz), up to 3.9 Gbps aggregate; aux + IoT radio; GPS"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-CISCO-MV23X",
+   "slug": "cisco-meraki-mv23x",
+   "name": "Cisco Meraki MV23X Indoor Dome Smart Camera",
+   "brand": "Cisco",
+   "category": "security-cameras",
+   "price": "1800.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    32,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "security-lab",
+    "small-business"
+   ],
+   "summary": "Indoor varifocal dome camera with 8.4MP sensor, 36-112 degree lens, 30 m IR and 1TB onboard SSD.",
+   "description": "The Meraki MV23X is a cloud-managed indoor dome camera with an 8.4MP sensor and Smart Codec encoding, a 36-112 degree varifocal lens, IR illumination up to 30 m, 802.11ac wireless and a 1TB high-write-endurance SSD for on-camera storage.",
+   "keywords": "cisco meraki mv23x smart camera security cloud managed",
+   "specs": {
+    "resolution": "8.4MP",
+    "localStorage": "1TB SSD"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-CISCO-MV73X",
+   "slug": "cisco-meraki-mv73x",
+   "name": "Cisco Meraki MV73X Outdoor Dome Smart Camera",
+   "brand": "Cisco",
+   "category": "security-cameras",
+   "price": "2400.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    31,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "security-lab",
+    "small-business"
+   ],
+   "summary": "Outdoor IP67/IK10+ varifocal dome camera with 8.4MP sensor, 30 m IR and 1TB onboard SSD.",
+   "description": "The Meraki MV73X is a cloud-managed outdoor dome camera with an 8.4MP sensor and Smart Codec encoding, a 36-112 degree varifocal lens, IR illumination up to 30 m, 802.11ac wireless and a 1TB SSD. It is IP67 weather resistant and IK10+ vandal resistant.",
+   "keywords": "cisco meraki mv73x smart camera security cloud managed",
+   "specs": {
+    "resolution": "8.4MP",
+    "localStorage": "1TB SSD"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-CISCO-MV63",
+   "slug": "cisco-meraki-mv63",
+   "name": "Cisco Meraki MV63 Outdoor Dome Smart Camera",
+   "brand": "Cisco",
+   "category": "security-cameras",
+   "price": "1500.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    20,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "security-lab",
+    "small-business"
+   ],
+   "summary": "Outdoor fixed-lens dome camera with 8.4MP recording, IR illumination and 256GB onboard storage.",
+   "description": "The Meraki MV63 is a cloud-managed outdoor dome camera recording 8.4MP video with Smart Codec encoding, a fixed-focus lens with IR illumination and 256GB of high-write-endurance solid-state storage on the camera.",
+   "keywords": "cisco meraki mv63 smart camera security cloud managed",
+   "specs": {
+    "resolution": "8.4MP",
+    "localStorage": "256GB SSD"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-CISCO-MV93",
+   "slug": "cisco-meraki-mv93",
+   "name": "Cisco Meraki MV93 Outdoor Fisheye Smart Camera",
+   "brand": "Cisco",
+   "category": "security-cameras",
+   "price": "2000.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    11,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "security-lab",
+    "small-business"
+   ],
+   "summary": "Outdoor 360-degree fisheye camera with 12.4MP sensor, 2112x2112 recording and 256GB onboard storage.",
+   "description": "The Meraki MV93 is a cloud-managed outdoor fisheye camera with a 12.4MP sensor recording up to 2112x2112 and 180-degree horizontal and vertical fields of view, with 256GB of high-write-endurance solid-state storage.",
+   "keywords": "cisco meraki mv93 smart camera security cloud managed",
+   "specs": {
+    "resolution": "12.4MP (2112x2112 recording)",
+    "localStorage": "256GB SSD"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-CISCO-C8130-G2",
+   "slug": "cisco-8130-g2-secure-router",
+   "name": "Cisco 8130-G2 Secure Router",
+   "brand": "Cisco",
+   "category": "routers-gateways",
+   "price": "900.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    45,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "enterprise-lab",
+    "networking-lab"
+   ],
+   "summary": "Compact branch secure router (Cisco 8100 Series) with 1.9 Gbps forwarding and 1.5 Gbps IPsec.",
+   "description": "The C8130-G2 is a desktop member of the Cisco 8100 Series Secure Routers. Cisco lists one 1GE RJ-45 WAN plus one 1GE RJ-45/SFP combo WAN port, two 1GE LAN ports, 1.9 Gbps forwarding and 1.5 Gbps IPsec throughput (512B).",
+   "keywords": "cisco 8000 secure router c8130-g2 sd-wan branch edge ios xe",
+   "specs": {
+    "ports": "WAN: 1x 1GE RJ-45 + 1x 1GE RJ-45/SFP combo; LAN: 2x 1GE",
+    "maxSpeedGbps": 1,
+    "managed": true,
+    "rackMountable": false
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-CISCO-C8235-G2",
+   "slug": "cisco-8235-g2-secure-router",
+   "name": "Cisco 8235-G2 Secure Router",
+   "brand": "Cisco",
+   "category": "routers-gateways",
+   "price": "3800.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    7,
+    3
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "enterprise-lab",
+    "networking-lab"
+   ],
+   "summary": "Branch secure router (Cisco 8200 Series) with 10G SFP+ WAN, 2.5G mGig UPOE+ ports and 19 Gbps forwarding.",
+   "description": "The C8235-G2 is a Cisco 8200 Series Secure Router. Cisco lists 2x 1/10GE SFP+ and 2x 2.5GE mGig (UPOE+) WAN ports, 2x 2.5GE flex ports, 4x 2.5GE LAN ports, a PIM cellular slot, 16GB DRAM, 19 Gbps forwarding, 5 Gbps IPsec, 4 Gbps SD-WAN and 2.4 Gbps threat-protection throughput.",
+   "keywords": "cisco 8000 secure router c8235-g2 sd-wan branch edge ios xe",
+   "specs": {
+    "ports": "WAN: 2x 10G SFP+, 2x 2.5G mGig UPOE+; flex: 2x 2.5G; LAN: 4x 2.5G mGig; PIM slot",
+    "maxSpeedGbps": 10,
+    "managed": true,
+    "rackMountable": false
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-CISCO-C8375-E-G2",
+   "slug": "cisco-8375-e-g2-secure-router",
+   "name": "Cisco 8375-E-G2 Secure Router",
+   "brand": "Cisco",
+   "category": "routers-gateways",
+   "price": "13000.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    13,
+    3
+   ],
+   "featured": true,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "enterprise-lab",
+    "networking-lab"
+   ],
+   "summary": "Modular 8300 Series secure router with NIM and SM slots, 38 Gbps forwarding and 20 Gbps IPsec.",
+   "description": "The C8375-E-G2 is a Cisco 8300 Series Secure Router for large branches. Cisco lists 2x 10G SFP/SFP+ and 4x 2.5G mGig WAN ports (two UPOE+), one NIM and one SM expansion slot, a PIM cellular slot, 16GB DRAM (upgradable to 32GB), 38 Gbps forwarding, 20 Gbps IPsec and 12 Gbps SD-WAN throughput.",
+   "keywords": "cisco 8000 secure router c8375-e-g2 sd-wan branch edge ios xe",
+   "specs": {
+    "ports": "WAN: 2x 10G SFP+, 4x 2.5G mGig (2x UPOE+); 1x NIM, 1x SM, 1x PIM",
+    "maxSpeedGbps": 10,
+    "managed": true,
+    "rackMountable": true
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-CISCO-C8455-G2",
+   "slug": "cisco-8455-g2-secure-router",
+   "name": "Cisco 8455-G2 Secure Router",
+   "brand": "Cisco",
+   "category": "routers-gateways",
+   "price": "22000.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    4,
+    2
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "enterprise-lab",
+    "networking-lab"
+   ],
+   "summary": "Campus/data-center edge secure router with 25G SFP28 WAN ports, up to 67 Gbps forwarding and 31 Gbps IPsec.",
+   "description": "The C8455-G2 is a Cisco 8400 Series Secure Router. Cisco lists 8x 1GE SFP, 2x 1/10GE SFP+ and 2x 10/25GE SFP28 WAN ports, 32GB DRAM, 64GB storage by default, up to 67 Gbps forwarding, 31 Gbps IPsec and 15.5 Gbps SD-WAN throughput.",
+   "keywords": "cisco 8000 secure router c8455-g2 sd-wan branch edge ios xe",
+   "specs": {
+    "ports": "8x 1G SFP, 2x 10G SFP+, 2x 25G SFP28",
+    "maxSpeedGbps": 25,
+    "managed": true,
+    "rackMountable": true
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-CISCO-C8550-G2",
+   "slug": "cisco-8550-g2-secure-router",
+   "name": "Cisco 8550-G2 Secure Router",
+   "brand": "Cisco",
+   "category": "routers-gateways",
+   "price": "36000.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    7,
+    2
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "enterprise-lab",
+    "networking-lab"
+   ],
+   "summary": "High-end 8500 Series secure router with 12x 10G SFP+, up to 115 Gbps forwarding and 48 Gbps IPsec.",
+   "description": "The C8550-G2 is a Cisco 8500 Series Secure Router for headend and aggregation. Cisco lists 12x 1/10GE SFP+ WAN ports, 32GB DRAM (64GB option), 480GB storage, 750W AC power, up to 115 Gbps forwarding, 48 Gbps IPsec and 19 Gbps SD-WAN throughput.",
+   "keywords": "cisco 8000 secure router c8550-g2 sd-wan branch edge ios xe",
+   "specs": {
+    "ports": "12x 1/10G SFP+",
+    "maxSpeedGbps": 10,
+    "managed": true,
+    "rackMountable": true
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-CISCO-SFW-220",
+   "slug": "cisco-secure-firewall-220",
+   "name": "Cisco Secure Firewall 220",
+   "brand": "Cisco",
+   "category": "firewalls",
+   "price": "950.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    29,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "security-lab",
+    "small-business"
+   ],
+   "summary": "Fanless desktop next-generation firewall with 1.5 Gbps NGFW throughput for small branches.",
+   "description": "The Secure Firewall 220 is a compact, fanless desktop firewall running Cisco Firewall Threat Defense. Cisco lists 4x 1000BASE-T and 1x 1G SFP fixed ports, 1.5 Gbps FW+AVC+IPS throughput, 1.2 Gbps IPsec VPN and 0.7 Gbps TLS decryption, managed via Security Cloud Control.",
+   "keywords": "cisco secure firewall 220 ngfw threat defense ftd",
+   "specs": {
+    "ports": "4x 1GbE RJ-45, 1x 1G SFP",
+    "maxSpeedGbps": 1,
+    "managed": true,
+    "rackMountable": false,
+    "firewallThroughputGbps": 1.5
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-CISCO-SFW-1230",
+   "slug": "cisco-secure-firewall-1230",
+   "name": "Cisco Secure Firewall 1230",
+   "brand": "Cisco",
+   "category": "firewalls",
+   "price": "4200.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    4,
+    3
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "security-lab",
+    "small-business"
+   ],
+   "summary": "1U branch NGFW with 8x 1GbE and 4x 10G SFP+ ports, 13 Gbps firewall and 9 Gbps threat-defense throughput.",
+   "description": "The Secure Firewall 1230 is a 1U model in the Secure Firewall 1200 Series. Cisco lists eight 1000BASE-T and four 1/10G SFP+ ports, 13 Gbps firewall throughput, 9.0 Gbps threat defense, 13 Gbps IPS and 2.5 Gbps TLS decryption.",
+   "keywords": "cisco secure firewall 1230 ngfw threat defense ftd",
+   "specs": {
+    "ports": "8x 1GbE RJ-45, 4x 1/10G SFP+",
+    "maxSpeedGbps": 10,
+    "managed": true,
+    "rackMountable": true,
+    "firewallThroughputGbps": 13
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-CISCO-SFW-3105",
+   "slug": "cisco-secure-firewall-3105",
+   "name": "Cisco Secure Firewall 3105",
+   "brand": "Cisco",
+   "category": "firewalls",
+   "price": "18000.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    12,
+    3
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "security-lab"
+   ],
+   "summary": "1RU NGFW with 8x RJ-45 and 8x 10G SFP+ ports, network-module slot and 10 Gbps threat-defense throughput.",
+   "description": "The Secure Firewall 3105 is the entry model of the Secure Firewall 3100 Series. Cisco lists eight RJ-45 and eight 1/10G SFP+ ports plus a network module slot, 10 Gbps firewall, FW+AVC+IPS and IPS throughput, 3.2 Gbps TLS and up to 1.5 million concurrent sessions.",
+   "keywords": "cisco secure firewall 3105 ngfw threat defense ftd",
+   "specs": {
+    "ports": "8x 1GbE RJ-45, 8x 1/10G SFP+, 1x network module slot",
+    "maxSpeedGbps": 10,
+    "managed": true,
+    "rackMountable": true,
+    "firewallThroughputGbps": 10
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-CISCO-SFW-3130",
+   "slug": "cisco-secure-firewall-3130",
+   "name": "Cisco Secure Firewall 3130",
+   "brand": "Cisco",
+   "category": "firewalls",
+   "price": "88000.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    2,
+    2
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "security-lab",
+    "enterprise-lab"
+   ],
+   "summary": "1RU NGFW with 25G SFP ports, 40G network-module option and 38 Gbps threat-defense throughput.",
+   "description": "The Secure Firewall 3130 is a Secure Firewall 3100 Series model with eight RJ-45 and eight 1/10/25G SFP ports plus a network module slot for 10G/25G/40G modules. Cisco lists 42 Gbps firewall throughput, 38 Gbps FW+AVC+IPS, 9.1 Gbps TLS and up to 6 million concurrent sessions.",
+   "keywords": "cisco secure firewall 3130 ngfw threat defense ftd",
+   "specs": {
+    "ports": "8x 1GbE RJ-45, 8x 1/10/25G SFP, 1x network module slot",
+    "maxSpeedGbps": 40,
+    "managed": true,
+    "rackMountable": true,
+    "firewallThroughputGbps": 38
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-CISCO-SFW-4215",
+   "slug": "cisco-secure-firewall-4215",
+   "name": "Cisco Secure Firewall 4215",
+   "brand": "Cisco",
+   "category": "firewalls",
+   "price": "150000.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    3,
+    2
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "security-lab",
+    "enterprise-lab"
+   ],
+   "summary": "1RU data-center NGFW with 8x 25G SFP28 ports, two network-module slots and 65 Gbps threat-defense throughput.",
+   "description": "The Secure Firewall 4215 is the entry model of the Secure Firewall 4200 Series. Cisco lists 8x 1/10/25G SFP28 fixed ports, two network module slots, 65 Gbps FW+AVC+IPS throughput, 20 Gbps hardware TLS decryption, 15 million concurrent sessions and up to 10 multi-instance containers.",
+   "keywords": "cisco secure firewall 4215 ngfw threat defense ftd",
+   "specs": {
+    "ports": "8x 1/10/25G SFP28, 2x network module slots",
+    "maxSpeedGbps": 25,
+    "managed": true,
+    "rackMountable": true,
+    "firewallThroughputGbps": 65
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-CISCO-SFW-4245",
+   "slug": "cisco-secure-firewall-4245",
+   "name": "Cisco Secure Firewall 4245",
+   "brand": "Cisco",
+   "category": "firewalls",
+   "price": "340000.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    4,
+    2
+   ],
+   "featured": true,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "security-lab",
+    "enterprise-lab"
+   ],
+   "summary": "1RU data-center NGFW with 140 Gbps threat-defense throughput, 45 Gbps TLS and 60 million sessions.",
+   "description": "The Secure Firewall 4245 is the top model of the Secure Firewall 4200 Series. Cisco lists 8x 1/10/25G SFP28 fixed ports with two network module slots, 140 Gbps FW+AVC+IPS throughput, 45 Gbps hardware TLS decryption, 60 million concurrent sessions and up to 34 instances.",
+   "keywords": "cisco secure firewall 4245 ngfw threat defense ftd",
+   "specs": {
+    "ports": "8x 1/10/25G SFP28, 2x network module slots",
+    "maxSpeedGbps": 25,
+    "managed": true,
+    "rackMountable": true,
+    "firewallThroughputGbps": 140
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-CISCO-SFW-6160",
+   "slug": "cisco-secure-firewall-6160",
+   "name": "Cisco Secure Firewall 6160",
+   "brand": "Cisco",
+   "category": "firewalls",
+   "price": "520000.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    5,
+    2
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "security-lab",
+    "enterprise-lab"
+   ],
+   "summary": "2RU carrier-class NGFW with 50G/200G ports, 600 Gbps firewall and 550 Gbps NGFW throughput.",
+   "description": "The Secure Firewall 6160 is a Secure Firewall 6100 Series model in a 2RU chassis. Cisco lists 12x 1/10/25/50G SFP56 and 4x 40/100/200G QSFP56 fixed ports with two network module slots, 600 Gbps FW+AVC throughput, 550 Gbps FW+AVC+IPS and 100 Gbps TLS decryption.",
+   "keywords": "cisco secure firewall 6160 ngfw threat defense ftd",
+   "specs": {
+    "ports": "12x 1/10/25/50G SFP56, 4x 40/100/200G QSFP56, 2x network module slots",
+    "maxSpeedGbps": 200,
+    "managed": true,
+    "rackMountable": true,
+    "firewallThroughputGbps": 550
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-CISCO-N9K-9332D-GX2B",
+   "slug": "cisco-nexus-9332d-gx2b",
+   "name": "Cisco Nexus 9332D-GX2B 400G Switch",
+   "brand": "Cisco",
+   "category": "switches",
+   "price": "62000.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    4,
+    2
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "enterprise-lab",
+    "enterprise-servers"
+   ],
+   "summary": "Compact 1RU 32-port 400G QSFP-DD data-center switch with 25.6 Tbps of bandwidth.",
+   "description": "The N9332D-GX2B is a 1RU Nexus 9300-GX2 switch with 32 x 400-Gbps QSFP-DD ports and 2 x 1/10-Gbps SFP+ ports, supporting 25.6 Tbps. It runs as an ACI spine or leaf or in NX-OS mode.",
+   "keywords": "cisco nexus n9k 9332d-gx2b data center switch nx-os aci",
+   "specs": {
+    "ports": "32x 400G QSFP-DD, 2x 1/10G SFP+",
+    "maxSpeedGbps": 400,
+    "managed": true,
+    "rackMountable": true,
+    "switchingCapacityGbps": 25600
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-CISCO-N9K-9348D-GX2A",
+   "slug": "cisco-nexus-9348d-gx2a",
+   "name": "Cisco Nexus 9348D-GX2A 400G Switch",
+   "brand": "Cisco",
+   "category": "switches",
+   "price": "110000.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    5,
+    2
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "enterprise-lab",
+    "enterprise-servers"
+   ],
+   "summary": "2RU 48-port 400G QSFP-DD data-center switch with 38.4 Tbps of bandwidth.",
+   "description": "The N9348D-GX2A is a 2RU Nexus 9300-GX2 switch with 48 x 400-Gbps QSFP-DD ports and 2 x 1/10-Gbps SFP+ ports, supporting 38.4 Tbps, with a 120MB buffer and 32GB system memory.",
+   "keywords": "cisco nexus n9k 9348d-gx2a data center switch nx-os aci",
+   "specs": {
+    "ports": "48x 400G QSFP-DD, 2x 1/10G SFP+",
+    "maxSpeedGbps": 400,
+    "managed": true,
+    "rackMountable": true,
+    "switchingCapacityGbps": 38400
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-CISCO-N9K-9332D-H2R",
+   "slug": "cisco-nexus-9332d-h2r",
+   "name": "Cisco Nexus 9332D-H2R 400G Deep-Buffer Switch",
+   "brand": "Cisco",
+   "category": "switches",
+   "price": "72000.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    4,
+    2
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "enterprise-lab",
+    "enterprise-servers"
+   ],
+   "summary": "1RU 32-port 400G switch with 25.6 Tbps, 80MB on-die buffer plus 8GB HBM and MACsec.",
+   "description": "The N9332D-H2R is a 1RU 32-port 400 Gigabit Ethernet Nexus switch built on Cisco Cloud Scale technology. Cisco lists 25.6 Tbps of bandwidth and 4.98 Bpps, 80MB of on-die packet buffer and 8GB of high-bandwidth memory, with MACsec capability.",
+   "keywords": "cisco nexus n9k 9332d-h2r data center switch nx-os aci",
+   "specs": {
+    "ports": "32x 400G QSFP-DD",
+    "maxSpeedGbps": 400,
+    "managed": true,
+    "rackMountable": true,
+    "switchingCapacityGbps": 25600
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-CISCO-N9K-93400LD-H1",
+   "slug": "cisco-nexus-93400ld-h1",
+   "name": "Cisco Nexus 93400LD-H1 50G Leaf Switch",
+   "brand": "Cisco",
+   "category": "switches",
+   "price": "42000.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    3,
+    2
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "enterprise-lab",
+    "enterprise-servers"
+   ],
+   "summary": "1RU leaf with 48x 50G and 4x 400G ports, 8 Tbps of bandwidth and MACsec on all ports.",
+   "description": "The N93400LD-H1 is a 1RU Nexus switch with 48 x 50 Gigabit Ethernet ports and 4 x 400 Gigabit Ethernet ports. Cisco lists 8 Tbps of bandwidth and 40MB of on-die packet buffer, with MACsec capability on all ports.",
+   "keywords": "cisco nexus n9k 93400ld-h1 data center switch nx-os aci",
+   "specs": {
+    "ports": "48x 50G SFP56, 4x 400G QSFP-DD",
+    "maxSpeedGbps": 400,
+    "managed": true,
+    "rackMountable": true,
+    "switchingCapacityGbps": 8000
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-CISCO-N9K-9364C-H1",
+   "slug": "cisco-nexus-9364c-h1",
+   "name": "Cisco Nexus 9364C-H1 100G Spine Switch",
+   "brand": "Cisco",
+   "category": "switches",
+   "price": "46000.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    5,
+    2
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "enterprise-lab",
+    "enterprise-servers"
+   ],
+   "summary": "2RU 64-port 100G QSFP28 switch with 12.8 Tbps and 2.5 Bpps.",
+   "description": "The N9364C-H1 is a 2RU 64-port 100 Gigabit Ethernet Nexus switch. Cisco lists 12.8 Tbps of bandwidth and 2.5 Bpps across all ports, 40MB of on-die packet buffer and MACsec capability on 16 ports.",
+   "keywords": "cisco nexus n9k 9364c-h1 data center switch nx-os aci",
+   "specs": {
+    "ports": "64x 100G QSFP28",
+    "maxSpeedGbps": 100,
+    "managed": true,
+    "rackMountable": true,
+    "switchingCapacityGbps": 12800
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-CISCO-N9K-93600CD-GX",
+   "slug": "cisco-nexus-93600cd-gx",
+   "name": "Cisco Nexus 93600CD-GX 100G/400G Switch",
+   "brand": "Cisco",
+   "category": "switches",
+   "price": "45000.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    4,
+    2
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "enterprise-lab",
+    "enterprise-servers"
+   ],
+   "summary": "1RU switch with 28x 100G QSFP28 and 8x 400G QSFP-DD ports, 12 Tbps and 4 Bpps.",
+   "description": "The N93600CD-GX is a 1RU Nexus 9300-GX switch with 28 fixed 40/100G QSFP28 ports and 8 fixed 10/25/40/50/100/200/400G QSFP-DD ports. Cisco lists 12 Tbps of bandwidth and 4.0 Bpps.",
+   "keywords": "cisco nexus n9k 93600cd-gx data center switch nx-os aci",
+   "specs": {
+    "ports": "28x 40/100G QSFP28, 8x 400G QSFP-DD",
+    "maxSpeedGbps": 400,
+    "managed": true,
+    "rackMountable": true,
+    "switchingCapacityGbps": 12000
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-CISCO-N9K-9364E-SG2",
+   "slug": "cisco-nexus-9364e-sg2",
+   "name": "Cisco Nexus 9364E-SG2 800G AI Fabric Switch",
+   "brand": "Cisco",
+   "category": "switches",
+   "price": "260000.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    4,
+    2
+   ],
+   "featured": true,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "enterprise-lab",
+    "enterprise-servers"
+   ],
+   "summary": "2RU Silicon One switch with 64x 800G ports and 102.4 Tbps for AI/ML back-end fabrics.",
+   "description": "The N9364E-SG2 is a 2RU Nexus switch based on Cisco Silicon One with 64 ports of 800 Gigabit Ethernet, offered in QSFP-DD and OSFP versions. Cisco lists 102.4 Tbps of switch bandwidth and 256MB of on-die packet buffer.",
+   "keywords": "cisco nexus n9k 9364e-sg2-q data center switch nx-os aci",
+   "specs": {
+    "ports": "64x 800G (QSFP-DD or OSFP)",
+    "maxSpeedGbps": 800,
+    "managed": true,
+    "rackMountable": true,
+    "switchingCapacityGbps": 102400
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-CISCO-N9K-9408",
+   "slug": "cisco-nexus-9408",
+   "name": "Cisco Nexus 9408 Modular Switch Chassis",
+   "brand": "Cisco",
+   "category": "switches",
+   "price": "58000.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    2,
+    2
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "enterprise-lab",
+    "enterprise-servers"
+   ],
+   "summary": "4RU centralized-modular Nexus chassis with 8 line-card expansion module (LEM) slots, scaling to 25.6 Tbps.",
+   "description": "The Nexus 9408 is a 4RU chassis in the Nexus 9400 Series with eight LEM slots, one supervisor slot, four power supplies (2+2) and five fans. Cisco lists a centralized modular architecture that scales to 25.6 Tbps, with LEMs such as 8x 400G QSFP-DD, 16x 100/200G and 22x 10/25/50G.",
+   "keywords": "cisco nexus n9k 9408 data center switch nx-os aci",
+   "specs": {
+    "ports": "8x LEM slots (e.g. 8x 400G QSFP-DD per LEM)",
+    "maxSpeedGbps": 400,
+    "managed": true,
+    "rackMountable": true,
+    "switchingCapacityGbps": 25600
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-CISCO-UCS-C220-M8",
+   "slug": "cisco-ucs-c220-m8",
+   "name": "Cisco UCS C220 M8 Rack Server",
+   "brand": "Cisco",
+   "category": "rack-servers",
+   "price": "13000.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    8,
+    3
+   ],
+   "featured": true,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "enterprise-servers",
+    "servers-workstations"
+   ],
+   "summary": "1RU dual-socket Intel Xeon 6 rack server with up to 4TB DDR5, 10 SFF or 16 E3.S NVMe drives and PCIe Gen5.",
+   "description": "The UCS C220 M8 is a 1RU, 2-socket rack server supporting up to two Intel Xeon 6700P or 6500P processors, 32 DDR5 DIMM slots (up to 4TB at 6400 MT/s, or MRDIMMs at 8000 MT/s), up to three PCIe 5.0 slots and up to 10 SFF or 16 E3.S NVMe drives. It is managed with Cisco Intersight or IMC.",
+   "keywords": "cisco ucs c220 m8 rack server 1u xeon 6 ddr5 intersight",
+   "specs": {
+    "rackUnits": 1,
+    "cpu": "Up to 2x Intel Xeon 6700P / 6500P",
+    "socketCount": 2,
+    "maxMemoryTb": 4,
+    "ecc": true,
+    "driveBays": 10,
+    "raid": "Cisco 24G tri-mode RAID / HBA",
+    "psu": "1050W DC, 1200W/1600W/2300W AC (redundant)",
+    "gpus": "Up to 3 single-wide"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-CISCO-UCS-C240-M8",
+   "slug": "cisco-ucs-c240-m8",
+   "name": "Cisco UCS C240 M8 Rack Server",
+   "brand": "Cisco",
+   "category": "rack-servers",
+   "price": "16500.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    10,
+    3
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "enterprise-servers",
+    "servers-workstations",
+    "ai-workstations"
+   ],
+   "summary": "2RU dual-socket Intel Xeon 6 storage/GPU server with up to 8TB DDR5, 28 SFF drives and up to three double-wide GPUs.",
+   "description": "The UCS C240 M8 is a 2RU, 2-socket rack server with up to two Intel Xeon 6700P or 6500P processors, 32 DDR5 DIMM slots for up to 8TB, up to 8 PCIe 5.0 slots and storage options of up to 28 SFF, 36 E3.S NVMe or 16 LFF drives. Cisco lists support for up to three double-wide GPUs such as NVIDIA RTX PRO 6000 Blackwell Server Edition.",
+   "keywords": "cisco ucs c240 m8 rack server 2u xeon 6 gpu storage rtx pro blackwell",
+   "specs": {
+    "rackUnits": 2,
+    "cpu": "Up to 2x Intel Xeon 6700P / 6500P",
+    "socketCount": 2,
+    "maxMemoryTb": 8,
+    "ecc": true,
+    "driveBays": 28,
+    "raid": "Cisco 24G tri-mode RAID / HBA",
+    "psu": "1050W DC, 1200W/1600W/2300W AC (redundant)",
+    "gpus": "Up to 3 double-wide or 8 single-wide"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-CISCO-UCS-C225-M8",
+   "slug": "cisco-ucs-c225-m8",
+   "name": "Cisco UCS C225 M8 Rack Server",
+   "brand": "Cisco",
+   "category": "rack-servers",
+   "price": "9500.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    6,
+    3
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "enterprise-servers",
+    "homelab-essentials"
+   ],
+   "summary": "1RU single-socket AMD EPYC (4th/5th Gen) rack server with up to 3TB DDR5 and 10 SFF drive bays.",
+   "description": "The UCS C225 M8 is a 1RU single-socket rack server for 5th or 4th Gen AMD EPYC processors with 12 DDR5 DIMM slots (up to 3TB at 6000 MT/s with 5th Gen EPYC), up to three PCIe 4.0 or two PCIe 5.0 slots and up to 10 x 2.5-inch drives.",
+   "keywords": "cisco ucs c225 m8 rack server 1u amd epyc ddr5",
+   "specs": {
+    "rackUnits": 1,
+    "cpu": "1x AMD EPYC 5th or 4th Gen",
+    "socketCount": 1,
+    "maxMemoryTb": 3,
+    "ecc": true,
+    "driveBays": 10,
+    "raid": "Cisco 24G tri-mode RAID / HBA",
+    "psu": "1050W DC, 1200W/1600W/2300W AC (redundant)"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-CISCO-UCS-X9508",
+   "slug": "cisco-ucs-x9508-chassis",
+   "name": "Cisco UCS X9508 Modular Chassis",
+   "brand": "Cisco",
+   "category": "rack-servers",
+   "price": "21000.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    6,
+    2
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "enterprise-servers",
+    "servers-workstations"
+   ],
+   "summary": "7RU UCS X-Series chassis with 8 compute-node slots, 6x 2800W Titanium PSUs and 25G/100G Intelligent Fabric Modules.",
+   "description": "The UCS X9508 is the 7RU chassis of the Cisco UCS X-Series Modular System with eight node slots for compute, GPU and PCIe nodes. Cisco lists 2x Intelligent Fabric Modules (9108 25G or 100G), optional X-Fabric modules, four hot-swappable fans and six 2800W Titanium power supplies, managed by Cisco Intersight.",
+   "keywords": "cisco ucs x9508 x-series modular chassis intersight compute nodes",
+   "specs": {
+    "rackUnits": 7,
+    "network": "2x UCS 9108 25G or 100G Intelligent Fabric Modules",
+    "psu": "6x 2800W Titanium"
+   },
+   "options": []
+  }
+ ]
+}

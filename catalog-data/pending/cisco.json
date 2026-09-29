@@ -1,0 +1,128 @@
+{
+ "meta": {
+  "notes": "Researched products parked until an official, professional product image can be sourced."
+ },
+ "products": [
+  {
+   "sku": "TK-CISCO-CW9176I",
+   "slug": "cisco-wireless-cw9176i",
+   "name": "Cisco Wireless CW9176I Wi-Fi 7 Access Point",
+   "brand": "Cisco",
+   "category": "access-points",
+   "price": "1500.00",
+   "priceBasis": "estimate",
+   "summary": "Tri-radio Wi-Fi 7 indoor AP (4x4, 12 spatial streams) with a 10 Gbps mGig port, scan and IoT radios, UWB and GNSS.",
+   "description": "The CW9176I is a high-density indoor Wi-Fi 7 access point. Cisco lists a tri-radio 4x4 design with 12 spatial streams across 2.4/5 GHz, 5 GHz and 6 GHz, a dedicated scan radio and IoT radio, integrated ultra-wideband, built-in GNSS/GPS and a single 10 Gbps mGig port.",
+   "keywords": "cisco wireless meraki cw9176i wifi 7 access point tri radio 6ghz",
+   "specs": {
+    "ports": "1x 10 Gbps mGig",
+    "maxSpeedGbps": 10,
+    "managed": true,
+    "wifiStandard": "Wi-Fi 7",
+    "wifiDetails": "Tri-radio 4x4, 12 spatial streams; 2.4/5 GHz, 5 GHz, 6 GHz; scan + IoT radio, UWB, GNSS"
+   },
+   "collections": [
+    "enterprise-lab"
+   ],
+   "featured": false,
+   "warranty": 12,
+   "notes": "Cisco publishes no US list price for this product (sold through partners / quote only); price is a TrustKart estimate. No clean model-specific Cisco image found (the product page reuses the CW9178I photo), so no image is set.",
+   "sources": {
+    "product": "https://www.cisco.com/site/us/en/products/networking/wireless/access-points/meraki-access-points/cw9176i.html",
+    "retrievedAt": "2026-09-28"
+   }
+  },
+  {
+   "sku": "TK-CISCO-SFW-1210CE",
+   "slug": "cisco-secure-firewall-1210ce",
+   "name": "Cisco Secure Firewall 1210CE",
+   "brand": "Cisco",
+   "category": "firewalls",
+   "price": "1500.00",
+   "priceBasis": "estimate",
+   "summary": "Compact desktop NGFW with 8x 1GbE ports, 6.5 Gbps firewall and 6 Gbps threat-defense throughput.",
+   "description": "The Secure Firewall 1210CE is the entry desktop model of Cisco's Secure Firewall 1200 Series. Cisco's data sheet lists eight 1000BASE-T ports, 6.5 Gbps firewall throughput, 6.0 Gbps threat defense and IPS throughput and 1.0 Gbps TLS decryption.",
+   "keywords": "cisco secure firewall 1210ce ngfw threat defense ftd",
+   "specs": {
+    "ports": "8x 1GbE RJ-45",
+    "maxSpeedGbps": 1,
+    "managed": true,
+    "rackMountable": false,
+    "firewallThroughputGbps": 6.5
+   },
+   "collections": [
+    "security-lab",
+    "small-business"
+   ],
+   "featured": false,
+   "warranty": 12,
+   "notes": "Cisco publishes no US list price for this product (sold through partners / quote only); price is a TrustKart estimate. Threat/malware/URL subscriptions are extra. firewallThroughputGbps is Cisco's FW+AVC+IPS (1024B) figure, except 1200/220 models where the threat-defense figure is used. The only official image is an off-white data-sheet front-panel drawing, so no image is set.",
+   "sources": {
+    "product": "https://www.cisco.com/site/us/en/products/security/firewalls/secure-firewall-1200-series/index.html",
+    "retrievedAt": "2026-09-28",
+    "specs": "https://www.cisco.com/c/en/us/products/collateral/security/firewalls/secure-firewall-1200-series-ds.html"
+   }
+  },
+  {
+   "sku": "TK-CISCO-SFW-1210CP",
+   "slug": "cisco-secure-firewall-1210cp",
+   "name": "Cisco Secure Firewall 1210CP PoE",
+   "brand": "Cisco",
+   "category": "firewalls",
+   "price": "1900.00",
+   "priceBasis": "estimate",
+   "summary": "Compact desktop NGFW with 8x 1GbE ports (4 PoE, 120W) and 6.5 Gbps firewall throughput.",
+   "description": "The Secure Firewall 1210CP is the PoE version of the 1210 desktop firewall. Cisco lists eight 1000BASE-T ports with four PoE ports delivering up to 120W, 6.5 Gbps firewall throughput, 6.0 Gbps threat defense/IPS and 1.0 Gbps TLS decryption.",
+   "keywords": "cisco secure firewall 1210cp ngfw threat defense ftd",
+   "specs": {
+    "ports": "8x 1GbE RJ-45 (4x PoE, 120W)",
+    "maxSpeedGbps": 1,
+    "managed": true,
+    "rackMountable": false,
+    "firewallThroughputGbps": 6.5
+   },
+   "collections": [
+    "security-lab",
+    "small-business"
+   ],
+   "featured": false,
+   "warranty": 12,
+   "notes": "Cisco publishes no US list price for this product (sold through partners / quote only); price is a TrustKart estimate. Threat/malware/URL subscriptions are extra. firewallThroughputGbps is Cisco's FW+AVC+IPS (1024B) figure, except 1200/220 models where the threat-defense figure is used. The only official image is an off-white data-sheet front-panel drawing, so no image is set.",
+   "sources": {
+    "product": "https://www.cisco.com/site/us/en/products/security/firewalls/secure-firewall-1200-series/index.html",
+    "retrievedAt": "2026-09-28",
+    "specs": "https://www.cisco.com/c/en/us/products/collateral/security/firewalls/secure-firewall-1200-series-ds.html"
+   }
+  },
+  {
+   "sku": "TK-CISCO-UCS-X210C-M8",
+   "slug": "cisco-ucs-x210c-m8",
+   "name": "Cisco UCS X210c M8 Compute Node",
+   "brand": "Cisco",
+   "category": "rack-servers",
+   "price": "14000.00",
+   "priceBasis": "estimate",
+   "summary": "Dual-socket Intel Xeon 6 compute node for the UCS X9508 with up to 32 DDR5 DIMMs and 9 E3.S NVMe drives.",
+   "description": "The UCS X210c M8 is a compute node for the UCS X-Series chassis supporting up to two Intel Xeon 6 processors and up to 32 DDR5 DIMMs (RDIMMs up to 6400 MT/s, MRDIMMs up to 8000 MT/s). Front mezzanine options include up to 9 E3.S NVMe drives or 6 SAS/SATA/NVMe drives, or a GPU mezzanine.",
+   "keywords": "cisco ucs x210c m8 compute node blade xeon 6 x-series",
+   "specs": {
+    "cpu": "Up to 2x Intel Xeon 6",
+    "socketCount": 2,
+    "ecc": true,
+    "driveBays": 9,
+    "network": "mLOM Cisco UCS VIC 15420 or 15230"
+   },
+   "collections": [
+    "enterprise-servers"
+   ],
+   "featured": false,
+   "warranty": 12,
+   "notes": "Cisco publishes no US list price for this product (sold through partners / quote only); price is a TrustKart estimate. Requires a UCS X9508 chassis. No clean official M8 image found (support images show the M6/M7 node), so no image is set.",
+   "sources": {
+    "product": "https://www.cisco.com/c/en/us/support/servers-unified-computing/ucs-x-series-modular-system/series.html",
+    "retrievedAt": "2026-09-28",
+    "specs": "https://www.cisco.com/c/en/us/products/collateral/servers-unified-computing/ucs-x-series-modular-system/ucs-x210c-m8-compute-node-ds.html"
+   }
+  }
+ ]
+}

@@ -1,0 +1,2438 @@
+{
+ "meta": {
+  "notes": "Flash drives & memory cards (SanDisk, Samsung, ProGrade Digital, Lexar and others). Researched 2026-09-28 from official manufacturer stores/pages only: shop.sandisk.com (list prices from SanDisk store price API, not sale prices), samsung.com/us (msrpPrice), shop.progradedigital.com (Shopify single-card prices), americas.lexar.com (specs; Lexar US site shows no prices, so Lexar prices are estimates), pny.com (specs/images; prices render client-side, so PNY prices are estimates), apricorn.com (starting prices) and angelbird.com (JSON-LD USD offers). Kingston could not be researched: kingston.com / shop.kingston.com serve a bot-verification challenge, which was not bypassed. Card readers intentionally excluded."
+ },
+ "products": [
+  {
+   "category": "flash-drives-memory-cards",
+   "priceAsOf": "2026-09-28",
+   "sku": "TK-SANDISK-EXTPRO-USBC-FD",
+   "slug": "sandisk-extreme-pro-flash-drive-usb-c",
+   "name": "SanDisk Extreme PRO Flash Drive with USB-C",
+   "brand": "SanDisk",
+   "price": "94.99",
+   "priceBasis": "starting-at",
+   "priceSource": "https://www.sandisk.com/products/usb-flash-drives/sandisk-extreme-pro-flash-drive-usb-c",
+   "releaseYear": 2025,
+   "summary": "Solid-state USB-C flash drive rated up to 1000MB/s reads and 900MB/s writes over USB 3.2 Gen 2, in capacities up to 2TB.",
+   "description": "The SanDisk Extreme PRO Flash Drive with USB-C uses a USB 3.2 Gen 2 interface for sequential reads up to 1000MB/s and writes up to 900MB/s. It is offered from 256GB to 2TB, weighs 26 g and carries a lifetime limited warranty.",
+   "keywords": "usb-c flash drive solid state 1000mb/s extreme pro thumb drive",
+   "specs": {
+    "capacityTb": 0.256,
+    "interface": "USB 3.2 Gen 2 (USB-C)",
+    "mediaType": "USB flash drive",
+    "readMbps": 1000,
+    "writeMbps": 900
+   },
+   "variants": [
+    {
+     "label": "256GB",
+     "price": "94.99"
+    },
+    {
+     "label": "512GB",
+     "price": "168.99"
+    },
+    {
+     "label": "1TB",
+     "price": "324.99"
+    },
+    {
+     "label": "2TB",
+     "price": "624.99"
+    }
+   ],
+   "sources": {
+    "product": "https://www.sandisk.com/products/usb-flash-drives/sandisk-extreme-pro-flash-drive-usb-c",
+    "retrievedAt": "2026-09-28"
+   },
+   "featured": true,
+   "image": {
+    "url": "https://www.sandisk.com/content/dam/sandisk/en-us/assets/products/usb-flash-drives/extreme-pro-flash-drive-usb-c/gallery/extreme-pro-flash-drive-usb-c-right.png",
+    "page": "https://www.sandisk.com/products/usb-flash-drives/sandisk-extreme-pro-flash-drive-usb-c",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official SanDisk store product image (www.sandisk.com); SanDisk has not granted a reuse license - rights not verified.",
+    "alt": "SanDisk Extreme PRO Flash Drive with USB-C, grey metal solid-state thumb drive, angled right view",
+    "match": "EXACT",
+    "credit": "SanDisk"
+   }
+  },
+  {
+   "category": "flash-drives-memory-cards",
+   "priceAsOf": "2026-09-28",
+   "sku": "TK-SANDISK-EXTPRO-USBA-FD",
+   "slug": "sandisk-extreme-pro-flash-drive-usb-a",
+   "name": "SanDisk Extreme PRO Flash Drive with USB-A",
+   "brand": "SanDisk",
+   "price": "94.99",
+   "priceBasis": "starting-at",
+   "priceSource": "https://www.sandisk.com/products/usb-flash-drives/sandisk-extreme-pro-flash-drive-usb-a",
+   "releaseYear": 2025,
+   "summary": "USB-A solid-state flash drive with SSD-like transfer speeds up to 1000MB/s over USB 3.2 Gen 2, available up to 2TB.",
+   "description": "The SanDisk Extreme PRO Flash Drive with USB-A connects over USB 3.2 Gen 2 and SanDisk rates it for SSD-like transfer speeds of up to 1000MB/s. Capacities run from 256GB to 2TB; the drive weighs 28 g and has a lifetime limited warranty.",
+   "keywords": "usb-a flash drive solid state 1000mb/s extreme pro thumb drive",
+   "specs": {
+    "capacityTb": 0.256,
+    "interface": "USB 3.2 Gen 2 (USB-A)",
+    "mediaType": "USB flash drive",
+    "readMbps": 1000
+   },
+   "variants": [
+    {
+     "label": "256GB",
+     "price": "94.99"
+    },
+    {
+     "label": "512GB",
+     "price": "168.99"
+    },
+    {
+     "label": "1TB",
+     "price": "324.99"
+    },
+    {
+     "label": "2TB",
+     "price": "624.99"
+    }
+   ],
+   "sources": {
+    "product": "https://www.sandisk.com/products/usb-flash-drives/sandisk-extreme-pro-flash-drive-usb-a",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://www.sandisk.com/content/dam/sandisk/en-us/assets/products/usb-flash-drives/extreme-pro-flash-drive-usb-a/gallery/extreme-pro-flash-drive-usb-a-right.png",
+    "page": "https://www.sandisk.com/products/usb-flash-drives/sandisk-extreme-pro-flash-drive-usb-a",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official SanDisk store product image (www.sandisk.com); SanDisk has not granted a reuse license - rights not verified.",
+    "alt": "SanDisk Extreme PRO Flash Drive with USB-A, metal solid-state thumb drive, angled right view",
+    "match": "EXACT",
+    "credit": "SanDisk"
+   },
+   "featured": false
+  },
+  {
+   "category": "flash-drives-memory-cards",
+   "priceAsOf": "2026-09-28",
+   "sku": "TK-SANDISK-EXTREME-FIT-USBC",
+   "slug": "sandisk-extreme-fit-usb-c-flash-drive",
+   "name": "SanDisk Extreme Fit USB-C Flash Drive",
+   "brand": "SanDisk",
+   "price": "34.99",
+   "priceBasis": "starting-at",
+   "priceSource": "https://www.sandisk.com/products/usb-flash-drives/sandisk-extreme-fit-usb-c",
+   "releaseYear": 2025,
+   "summary": "SanDisk's smallest high-capacity USB-C flash drive: a 3 g plug-and-stay design with reads up to 400MB/s (128GB and up) and up to 1TB.",
+   "description": "The SanDisk Extreme Fit is a tiny USB-C drive (0.73 x 0.54 x 0.63 in, 3 g) on USB 3.2 Gen 1. The 64GB model reads up to 300MB/s and the 128GB-1TB models up to 400MB/s. It carries a 5-year limited warranty.",
+   "keywords": "usb-c low profile flash drive tiny laptop phone extreme fit",
+   "specs": {
+    "capacityTb": 0.064,
+    "interface": "USB 3.2 Gen 1 (USB-C)",
+    "mediaType": "USB flash drive",
+    "readMbps": 300
+   },
+   "variants": [
+    {
+     "label": "64GB",
+     "price": "34.99"
+    },
+    {
+     "label": "128GB",
+     "price": "48.99"
+    },
+    {
+     "label": "256GB",
+     "price": "84.99"
+    },
+    {
+     "label": "512GB",
+     "price": "162.99"
+    },
+    {
+     "label": "1TB",
+     "price": "312.99"
+    }
+   ],
+   "warranty": 60,
+   "sources": {
+    "product": "https://www.sandisk.com/products/usb-flash-drives/sandisk-extreme-fit-usb-c",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://www.sandisk.com/content/dam/sandisk/en-us/assets/products/usb-flash-drives/extreme-fit-usb-c/gallery/extreme-fit-usb-c-side.png",
+    "page": "https://www.sandisk.com/products/usb-flash-drives/sandisk-extreme-fit-usb-c",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official SanDisk store product image (www.sandisk.com); SanDisk has not granted a reuse license - rights not verified.",
+    "alt": "SanDisk Extreme Fit USB-C flash drive, tiny black low-profile drive with USB-C plug, side view",
+    "match": "EXACT",
+    "credit": "SanDisk"
+   },
+   "featured": false
+  },
+  {
+   "category": "flash-drives-memory-cards",
+   "priceAsOf": "2026-09-28",
+   "sku": "TK-SANDISK-ULTRA-DUAL-LUXE",
+   "slug": "sandisk-ultra-dual-drive-luxe-usb-c",
+   "name": "SanDisk Ultra Dual Drive Luxe USB Type-C Flash Drive",
+   "brand": "SanDisk",
+   "price": "27.99",
+   "priceBasis": "starting-at",
+   "priceSource": "https://www.sandisk.com/products/usb-flash-drives/sandisk-ultra-dual-drive-luxe-usb-3-1-type-c",
+   "releaseYear": 2020,
+   "summary": "All-metal dual-connector flash drive with USB Type-C and USB-A plugs, reads up to 400MB/s (64GB and up) and capacities to 2TB.",
+   "description": "The Ultra Dual Drive Luxe has a swivel all-metal body with both USB Type-C and USB Type-A connectors for moving files between phones, tablets and computers. It uses USB 3.2 Gen 1; the 32GB model reads up to 150MB/s and 64GB-2TB models up to 400MB/s. 5-year limited warranty.",
+   "keywords": "dual drive usb-c usb-a phone android flash drive luxe metal",
+   "specs": {
+    "capacityTb": 0.032,
+    "interface": "USB 3.2 Gen 1 (USB-C + USB-A)",
+    "mediaType": "USB flash drive",
+    "readMbps": 150
+   },
+   "variants": [
+    {
+     "label": "32GB",
+     "price": "27.99"
+    },
+    {
+     "label": "64GB",
+     "price": "33.99"
+    },
+    {
+     "label": "128GB",
+     "price": "41.99"
+    },
+    {
+     "label": "256GB",
+     "price": "59.99"
+    },
+    {
+     "label": "512GB",
+     "price": "168.99"
+    },
+    {
+     "label": "1TB",
+     "price": "224.99"
+    },
+    {
+     "label": "2TB",
+     "price": "662.99"
+    }
+   ],
+   "warranty": 60,
+   "sources": {
+    "product": "https://www.sandisk.com/products/usb-flash-drives/sandisk-ultra-dual-drive-luxe-usb-3-1-type-c",
+    "retrievedAt": "2026-09-28"
+   },
+   "notes": "Variant prices are the Silver finish list prices; SanDisk also lists 128GB/256GB/512GB in Gold (512GB Gold listed at $103.99). Only a Silver product image was found, so no colour options are exposed.",
+   "image": {
+    "url": "https://www.sandisk.com/content/dam/store/en-us/assets/products/usb-flash-drives/ultra-dual-drive-luxe-usb-3-1-type-c/gallery/ultra-dual-drive-luxe-usb-3-1-type-c-2.png",
+    "page": "https://www.sandisk.com/products/usb-flash-drives/sandisk-ultra-dual-drive-luxe-usb-3-1-type-c",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official SanDisk store product image (www.sandisk.com); SanDisk has not granted a reuse license - rights not verified.",
+    "alt": "SanDisk Ultra Dual Drive Luxe USB Type-C flash drive in silver metal with USB-C and USB-A connectors",
+    "match": "EXACT",
+    "credit": "SanDisk"
+   },
+   "featured": false
+  },
+  {
+   "category": "flash-drives-memory-cards",
+   "priceAsOf": "2026-09-28",
+   "sku": "TK-SANDISK-EXTPRO-SD-UHSI",
+   "slug": "sandisk-extreme-pro-sd-uhs-i-card",
+   "name": "SanDisk Extreme PRO SD UHS-I Card (2026)",
+   "brand": "SanDisk",
+   "price": "38.99",
+   "priceBasis": "starting-at",
+   "priceSource": "https://www.sandisk.com/products/memory-cards/sd-cards/sandisk-extreme-pro-sd-uhs-i",
+   "releaseYear": 2026,
+   "summary": "2026 Extreme PRO SD UHS-I card for cameras, up to 250MB/s reads and 170MB/s writes (256GB-1TB), in capacities from 32GB to 2TB.",
+   "description": "The refreshed SanDisk Extreme PRO SD UHS-I card spans 32GB (SDHC) to 2TB (SDXC). Read speeds rise from up to 100MB/s (32GB) to up to 250MB/s (128GB and above), with writes up to 170MB/s on 256GB-1TB models. Lifetime limited warranty.",
+   "keywords": "sd card camera extreme pro uhs-i sdxc 4k photography",
+   "specs": {
+    "capacityTb": 0.032,
+    "interface": "UHS-I",
+    "mediaType": "SD",
+    "readMbps": 100,
+    "writeMbps": 90
+   },
+   "variants": [
+    {
+     "label": "32GB",
+     "price": "38.99"
+    },
+    {
+     "label": "64GB",
+     "price": "46.99"
+    },
+    {
+     "label": "128GB",
+     "price": "83.99"
+    },
+    {
+     "label": "256GB",
+     "price": "144.99"
+    },
+    {
+     "label": "512GB",
+     "price": "277.99"
+    },
+    {
+     "label": "1TB",
+     "price": "477.99"
+    },
+    {
+     "label": "2TB",
+     "price": "687.99"
+    }
+   ],
+   "sources": {
+    "product": "https://www.sandisk.com/products/memory-cards/sd-cards/sandisk-extreme-pro-sd-uhs-i",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://www.sandisk.com/content/dam/sandisk/en-us/assets/products/memory-cards/extreme-pro-sd-uhs-i/gallery/extreme-pro-sd-uhs-i-128gb-front.png",
+    "page": "https://www.sandisk.com/products/memory-cards/sd-cards/sandisk-extreme-pro-sd-uhs-i",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official SanDisk store product image (www.sandisk.com); SanDisk has not granted a reuse license - rights not verified.",
+    "alt": "SanDisk Extreme PRO SD UHS-I 128GB card, black and red label, front view",
+    "match": "EXACT",
+    "credit": "SanDisk"
+   },
+   "featured": false
+  },
+  {
+   "category": "flash-drives-memory-cards",
+   "priceAsOf": "2026-09-28",
+   "sku": "TK-SANDISK-EXTPRO-SD-V90",
+   "slug": "sandisk-extreme-pro-sd-uhs-ii-v90-card",
+   "name": "SanDisk Extreme PRO SD UHS-II V90 Card",
+   "brand": "SanDisk",
+   "price": "362.99",
+   "priceBasis": "starting-at",
+   "priceSource": "https://www.sandisk.com/products/memory-cards/sd-cards/sandisk-extreme-pro-sd-uhs-ii-v90-310-mbs",
+   "releaseYear": 2026,
+   "summary": "V90 UHS-II SDXC card for 8K video, rated up to 310MB/s reads and 304-305MB/s writes, from 128GB to 2TB.",
+   "description": "SanDisk's Extreme PRO SD UHS-II V90 card targets 8K and high-bitrate video, with sequential reads up to 310MB/s and writes of 304MB/s (128GB/256GB) or 305MB/s (512GB-2TB). It is sold from 128GB to 2TB with a lifetime limited warranty.",
+   "keywords": "uhs-ii v90 sd card 8k video extreme pro 310mb/s",
+   "specs": {
+    "capacityTb": 0.128,
+    "interface": "UHS-II",
+    "mediaType": "SD",
+    "readMbps": 310,
+    "writeMbps": 304,
+    "speedClass": "V90"
+   },
+   "variants": [
+    {
+     "label": "128GB",
+     "price": "362.99"
+    },
+    {
+     "label": "256GB",
+     "price": "449.99"
+    },
+    {
+     "label": "512GB",
+     "price": "749.99"
+    },
+    {
+     "label": "1TB",
+     "price": "1499.99"
+    },
+    {
+     "label": "2TB",
+     "price": "2874.99"
+    }
+   ],
+   "sources": {
+    "product": "https://www.sandisk.com/products/memory-cards/sd-cards/sandisk-extreme-pro-sd-uhs-ii-v90-310-mbs",
+    "retrievedAt": "2026-09-28"
+   },
+   "collections": [
+    "creator-workstations"
+   ],
+   "image": {
+    "url": "https://www.sandisk.com/content/dam/sandisk/en-us/assets/products/memory-cards/extreme-pro-sd-uhs-ii-v90-310-mbs/gallery/extreme-pro-sd-uhs-ii-v90-310-128gb-angled.png",
+    "page": "https://www.sandisk.com/products/memory-cards/sd-cards/sandisk-extreme-pro-sd-uhs-ii-v90-310-mbs",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official SanDisk store product image (www.sandisk.com); SanDisk has not granted a reuse license - rights not verified.",
+    "alt": "SanDisk Extreme PRO SD UHS-II V90 128GB card, angled front view",
+    "match": "EXACT",
+    "credit": "SanDisk"
+   },
+   "featured": false
+  },
+  {
+   "category": "flash-drives-memory-cards",
+   "priceAsOf": "2026-09-28",
+   "sku": "TK-SANDISK-EXTPRO-MICROSD",
+   "slug": "sandisk-extreme-pro-microsd-uhs-i-card",
+   "name": "SanDisk Extreme PRO microSD UHS-I Card (2026)",
+   "brand": "SanDisk",
+   "price": "37.99",
+   "priceBasis": "starting-at",
+   "priceSource": "https://www.sandisk.com/products/memory-cards/microsd-cards/sandisk-extreme-pro-microsd-uhs-i",
+   "releaseYear": 2026,
+   "summary": "2026 Extreme PRO microSD with reads up to 250MB/s and writes up to 170MB/s (256GB-1TB), sold from 32GB to 2TB.",
+   "description": "The SanDisk Extreme PRO microSD UHS-I card is built for action cameras, drones and handhelds. Reads run from up to 100MB/s (32GB) to up to 250MB/s (128GB and above), with writes up to 170MB/s on 256GB-1TB cards; the lineup tops out at 2TB. Lifetime limited warranty.",
+   "keywords": "microsd extreme pro drone action camera 2tb uhs-i",
+   "specs": {
+    "capacityTb": 0.032,
+    "interface": "UHS-I",
+    "mediaType": "microSD",
+    "readMbps": 100,
+    "writeMbps": 90
+   },
+   "variants": [
+    {
+     "label": "32GB",
+     "price": "37.99"
+    },
+    {
+     "label": "64GB",
+     "price": "45.99"
+    },
+    {
+     "label": "128GB",
+     "price": "60.99"
+    },
+    {
+     "label": "256GB",
+     "price": "104.99"
+    },
+    {
+     "label": "512GB",
+     "price": "209.99"
+    },
+    {
+     "label": "1TB",
+     "price": "379.99"
+    },
+    {
+     "label": "2TB",
+     "price": "569.99"
+    }
+   ],
+   "sources": {
+    "product": "https://www.sandisk.com/products/memory-cards/microsd-cards/sandisk-extreme-pro-microsd-uhs-i",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://www.sandisk.com/content/dam/sandisk/en-us/assets/products/memory-cards/extreme-pro-microsd-uhs-i/gallery/extreme-pro-microsd-uhs-i-128gb-front.png",
+    "page": "https://www.sandisk.com/products/memory-cards/microsd-cards/sandisk-extreme-pro-microsd-uhs-i",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official SanDisk store product image (www.sandisk.com); SanDisk has not granted a reuse license - rights not verified.",
+    "alt": "SanDisk Extreme PRO microSD UHS-I 128GB card, front view",
+    "match": "EXACT",
+    "credit": "SanDisk"
+   },
+   "featured": false
+  },
+  {
+   "category": "flash-drives-memory-cards",
+   "priceAsOf": "2026-09-28",
+   "sku": "TK-SANDISK-EXTREME-MICROSD",
+   "slug": "sandisk-extreme-microsd-uhs-i-card",
+   "name": "SanDisk Extreme microSD UHS-I Card (2026)",
+   "brand": "SanDisk",
+   "price": "32.99",
+   "priceBasis": "starting-at",
+   "priceSource": "https://www.sandisk.com/products/memory-cards/microsd-cards/sandisk-extreme-uhs-i-microsd-a2",
+   "releaseYear": 2026,
+   "summary": "Popular Extreme microSD refreshed for 2026, up to 245MB/s reads and 170MB/s writes (256GB-1TB), capacities up to 2TB.",
+   "description": "The SanDisk Extreme microSD UHS-I card is aimed at phones, handheld consoles and 5K point-of-view video. Reads reach up to 245MB/s on 128GB and larger cards and writes up to 170MB/s on 256GB-1TB models; capacities run from 32GB to 2TB with a lifetime limited warranty.",
+   "keywords": "microsd extreme a2 steam deck switch phone action camera",
+   "specs": {
+    "capacityTb": 0.032,
+    "interface": "UHS-I",
+    "mediaType": "microSD",
+    "readMbps": 100,
+    "writeMbps": 60
+   },
+   "variants": [
+    {
+     "label": "32GB",
+     "price": "32.99"
+    },
+    {
+     "label": "64GB",
+     "price": "39.99"
+    },
+    {
+     "label": "128GB",
+     "price": "49.99"
+    },
+    {
+     "label": "256GB",
+     "price": "93.99"
+    },
+    {
+     "label": "512GB",
+     "price": "174.99"
+    },
+    {
+     "label": "1TB",
+     "price": "337.99"
+    },
+    {
+     "label": "2TB",
+     "price": "674.99"
+    }
+   ],
+   "sources": {
+    "product": "https://www.sandisk.com/products/memory-cards/microsd-cards/sandisk-extreme-uhs-i-microsd-a2",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://www.sandisk.com/content/dam/sandisk/en-us/assets/products/memory-cards/extreme-uhs-i-microsd-a2/gallery/extreme-uhs-i-microsd-a2-128gb-front.png",
+    "page": "https://www.sandisk.com/products/memory-cards/microsd-cards/sandisk-extreme-uhs-i-microsd-a2",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official SanDisk store product image (www.sandisk.com); SanDisk has not granted a reuse license - rights not verified.",
+    "alt": "SanDisk Extreme microSD UHS-I 128GB card, front view",
+    "match": "EXACT",
+    "credit": "SanDisk"
+   },
+   "featured": false
+  },
+  {
+   "category": "flash-drives-memory-cards",
+   "priceAsOf": "2026-09-28",
+   "sku": "TK-SANDISK-ULTRA-MICROSD",
+   "slug": "sandisk-ultra-microsd-uhs-i-card",
+   "name": "SanDisk Ultra microSD UHS-I Card (2026)",
+   "brand": "SanDisk",
+   "price": "26.99",
+   "priceBasis": "starting-at",
+   "priceSource": "https://www.sandisk.com/products/memory-cards/microsd-cards/sandisk-ultra-microsd-uhs-i-v10",
+   "releaseYear": 2026,
+   "summary": "Everyday A1 microSD for phones and tablets with reads up to 195MB/s (128GB and up) and capacities up to 1.5TB.",
+   "description": "The SanDisk Ultra microSD UHS-I card is optimised for loading apps faster with an A1 rating. Reads are rated at 125MB/s (32GB), 145MB/s (64GB) and 195MB/s for 128GB-1.5TB. It carries a 10-year limited warranty.",
+   "keywords": "microsd ultra phone tablet a1 1.5tb memory card",
+   "specs": {
+    "capacityTb": 0.032,
+    "interface": "UHS-I",
+    "mediaType": "microSD",
+    "readMbps": 125
+   },
+   "variants": [
+    {
+     "label": "32GB",
+     "price": "26.99"
+    },
+    {
+     "label": "64GB",
+     "price": "31.99"
+    },
+    {
+     "label": "128GB",
+     "price": "44.99"
+    },
+    {
+     "label": "256GB",
+     "price": "77.99"
+    },
+    {
+     "label": "512GB",
+     "price": "149.99"
+    },
+    {
+     "label": "1TB",
+     "price": "324.99"
+    },
+    {
+     "label": "1.5TB",
+     "price": "449.99"
+    }
+   ],
+   "warranty": 120,
+   "sources": {
+    "product": "https://www.sandisk.com/products/memory-cards/microsd-cards/sandisk-ultra-microsd-uhs-i-v10",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://www.sandisk.com/content/dam/sandisk/en-us/assets/products/memory-cards/sandisk-ultra-microsd-uhs-i-v10/gallery/ultra-microsd-uhs-i-v10-128gb-front.png",
+    "page": "https://www.sandisk.com/products/memory-cards/microsd-cards/sandisk-ultra-microsd-uhs-i-v10",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official SanDisk store product image (www.sandisk.com); SanDisk has not granted a reuse license - rights not verified.",
+    "alt": "SanDisk Ultra microSD UHS-I 128GB card, front view",
+    "match": "EXACT",
+    "credit": "SanDisk"
+   },
+   "featured": false
+  },
+  {
+   "category": "flash-drives-memory-cards",
+   "priceAsOf": "2026-09-28",
+   "sku": "TK-SANDISK-EXTREME-SD-V30",
+   "slug": "sandisk-extreme-sd-uhs-i-card",
+   "name": "SanDisk Extreme SD UHS-I Card (2026)",
+   "brand": "SanDisk",
+   "price": "32.99",
+   "priceBasis": "starting-at",
+   "priceSource": "https://www.sandisk.com/products/memory-cards/sd-cards/sandisk-extreme-uhs-i-sd-v30",
+   "releaseYear": 2026,
+   "summary": "V30 SD card for 4K UHD video with reads up to 230MB/s and writes up to 160MB/s on 256GB and 512GB models.",
+   "description": "The SanDisk Extreme SD UHS-I card carries a V30 video speed class for 4K UHD recording. Reads range from 100MB/s (32GB) to 230MB/s (128GB-512GB), with writes up to 160MB/s on the 256GB and 512GB cards. Lifetime limited warranty.",
+   "keywords": "sd card extreme v30 4k camera uhs-i",
+   "specs": {
+    "capacityTb": 0.032,
+    "interface": "UHS-I",
+    "mediaType": "SD",
+    "readMbps": 100,
+    "writeMbps": 60,
+    "speedClass": "V30"
+   },
+   "variants": [
+    {
+     "label": "32GB",
+     "price": "32.99"
+    },
+    {
+     "label": "64GB",
+     "price": "37.99"
+    },
+    {
+     "label": "128GB",
+     "price": "56.99"
+    },
+    {
+     "label": "256GB",
+     "price": "99.99"
+    },
+    {
+     "label": "512GB",
+     "price": "180.99"
+    }
+   ],
+   "sources": {
+    "product": "https://www.sandisk.com/products/memory-cards/sd-cards/sandisk-extreme-uhs-i-sd-v30",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://www.sandisk.com/content/dam/sandisk/en-us/assets/products/memory-cards/extreme-uhs-i-sd-v30/gallery/extreme-uhs-i-sd-v30-128gb-angled.png",
+    "page": "https://www.sandisk.com/products/memory-cards/sd-cards/sandisk-extreme-uhs-i-sd-v30",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official SanDisk store product image (www.sandisk.com); SanDisk has not granted a reuse license - rights not verified.",
+    "alt": "SanDisk Extreme SD UHS-I V30 128GB card, angled front view",
+    "match": "EXACT",
+    "credit": "SanDisk"
+   },
+   "featured": false
+  },
+  {
+   "category": "flash-drives-memory-cards",
+   "priceAsOf": "2026-09-28",
+   "sku": "TK-SANDISK-EXTPRO-CFE4-B",
+   "slug": "sandisk-extreme-pro-cfexpress-4-type-b",
+   "name": "SanDisk Extreme PRO CFexpress 4.0 Type B Card",
+   "brand": "SanDisk",
+   "price": "249.99",
+   "priceBasis": "starting-at",
+   "priceSource": "https://www.sandisk.com/products/memory-cards/cfast-cfexpress-compactflash/sandisk-extreme-pro-cfexpress-4-0-type-b",
+   "releaseYear": 2026,
+   "summary": "PCIe Gen4 CFexpress 4.0 Type B card rated up to 3700MB/s reads and 3500MB/s writes, for up to 12K video, 128GB to 4TB.",
+   "description": "SanDisk's Extreme PRO CFexpress 4.0 Type B card uses PCIe Gen4 for reads up to 3700MB/s and writes up to 3500MB/s. Minimum sustained writes are 900MB/s (128GB-400GB), 1950MB/s (1TB) and 3100MB/s (2TB-4TB). Lifetime limited warranty.",
+   "keywords": "cfexpress type b 4.0 12k video extreme pro camera card vpg",
+   "specs": {
+    "capacityTb": 0.128,
+    "interface": "CFexpress 4.0 (PCIe Gen4)",
+    "mediaType": "CFexpress Type B",
+    "readMbps": 3700,
+    "writeMbps": 3500
+   },
+   "variants": [
+    {
+     "label": "128GB",
+     "price": "249.99"
+    },
+    {
+     "label": "256GB",
+     "price": "412.99"
+    },
+    {
+     "label": "400GB",
+     "price": "499.99"
+    },
+    {
+     "label": "1TB",
+     "price": "1124.99"
+    },
+    {
+     "label": "2TB",
+     "price": "1499.99"
+    },
+    {
+     "label": "4TB",
+     "price": "2249.99"
+    }
+   ],
+   "sources": {
+    "product": "https://www.sandisk.com/products/memory-cards/cfast-cfexpress-compactflash/sandisk-extreme-pro-cfexpress-4-0-type-b",
+    "retrievedAt": "2026-09-28"
+   },
+   "featured": true,
+   "collections": [
+    "creator-workstations"
+   ],
+   "image": {
+    "url": "https://www.sandisk.com/content/dam/sandisk/en-us/assets/products/memory-cards/extreme-pro-cfexpress-4-0-type-b/gallery/extreme-pro-cfexpress-4-0-type-b-128gb-angled.png",
+    "page": "https://www.sandisk.com/products/memory-cards/cfast-cfexpress-compactflash/sandisk-extreme-pro-cfexpress-4-0-type-b",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official SanDisk store product image (www.sandisk.com); SanDisk has not granted a reuse license - rights not verified.",
+    "alt": "SanDisk Extreme PRO CFexpress 4.0 Type B 128GB card, angled front view",
+    "match": "EXACT",
+    "credit": "SanDisk"
+   }
+  },
+  {
+   "category": "flash-drives-memory-cards",
+   "priceAsOf": "2026-09-28",
+   "sku": "TK-SANDISK-MSDEXP-SWITCH2",
+   "slug": "sandisk-microsd-express-card-nintendo-switch-2",
+   "name": "SanDisk microSD Express Card for Nintendo Switch 2",
+   "brand": "SanDisk",
+   "price": "81.99",
+   "priceBasis": "starting-at",
+   "priceSource": "https://www.sandisk.com/products/memory-cards/microsd-cards/sandisk-microsd-express-card-for-nintendo-switch-2",
+   "releaseYear": 2026,
+   "summary": "Nintendo-licensed microSD Express card for Switch 2, rated up to 880MB/s reads, in 256GB, 512GB and 1TB.",
+   "description": "SanDisk's licensed microSD Express card for Nintendo Switch 2 is rated for reads up to 880MB/s and writes up to 650MB/s (256GB/512GB) or 800MB/s (1TB). It carries a lifetime limited warranty.",
+   "keywords": "microsd express nintendo switch 2 game storage 1tb",
+   "specs": {
+    "capacityTb": 0.256,
+    "interface": "microSD Express",
+    "mediaType": "microSD Express",
+    "readMbps": 880,
+    "writeMbps": 650
+   },
+   "variants": [
+    {
+     "label": "256GB",
+     "price": "81.99"
+    },
+    {
+     "label": "512GB",
+     "price": "249.99"
+    },
+    {
+     "label": "1TB",
+     "price": "499.99"
+    }
+   ],
+   "sources": {
+    "product": "https://www.sandisk.com/products/memory-cards/microsd-cards/sandisk-microsd-express-card-for-nintendo-switch-2",
+    "retrievedAt": "2026-09-28"
+   },
+   "collections": [
+    "gaming-monsters"
+   ],
+   "image": {
+    "url": "https://www.sandisk.com/content/dam/store/en-us/assets/products/memory-cards/microsd-express-memory-card-nintendo-switch-2/gallery/microsd-express-card-nintendo-switch-2-256gb-front.png",
+    "page": "https://www.sandisk.com/products/memory-cards/microsd-cards/sandisk-microsd-express-card-for-nintendo-switch-2",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official SanDisk store product image (www.sandisk.com); SanDisk has not granted a reuse license - rights not verified.",
+    "alt": "SanDisk microSD Express Card for Nintendo Switch 2, 256GB, front view",
+    "match": "EXACT",
+    "credit": "SanDisk"
+   },
+   "featured": false
+  },
+  {
+   "category": "flash-drives-memory-cards",
+   "priceAsOf": "2026-09-28",
+   "sku": "TK-SANDISK-PROCINEMA-CFE-A",
+   "slug": "sandisk-pro-cinema-cfexpress-type-a",
+   "name": "SanDisk PRO-CINEMA CFexpress Type A Card",
+   "brand": "SanDisk",
+   "price": "574.99",
+   "priceBasis": "starting-at",
+   "priceSource": "https://www.sandisk.com/products/memory-cards/cfast-cfexpress-compactflash/sandisk-pro-cinema-cfexpress-type-a-memory-card",
+   "releaseYear": 2025,
+   "summary": "Cinema-grade CFexpress Type A card on PCIe Gen 4.0, up to 1800MB/s reads and 1650MB/s writes, 480GB or 960GB.",
+   "description": "The SanDisk PRO-CINEMA CFexpress Type A card uses a PCIe Gen 4.0 interface with sequential reads up to 1800MB/s and writes up to 1650MB/s, sized for demanding photo and video workflows in Type A cameras. Offered in 480GB and 960GB with a lifetime limited warranty.",
+   "keywords": "cfexpress type a pro-cinema sony camera video card",
+   "specs": {
+    "capacityTb": 0.48,
+    "interface": "PCIe Gen 4.0",
+    "mediaType": "CFexpress Type A",
+    "readMbps": 1800,
+    "writeMbps": 1650
+   },
+   "variants": [
+    {
+     "label": "480GB",
+     "price": "574.99"
+    },
+    {
+     "label": "960GB",
+     "price": "1124.99"
+    }
+   ],
+   "sources": {
+    "product": "https://www.sandisk.com/products/memory-cards/cfast-cfexpress-compactflash/sandisk-pro-cinema-cfexpress-type-a-memory-card",
+    "retrievedAt": "2026-09-28"
+   },
+   "collections": [
+    "creator-workstations"
+   ],
+   "image": {
+    "url": "https://www.sandisk.com/content/dam/store/en-us/assets/products/memory-cards/pro-cinema-cfexpress-type-a-memory-card/gallery/sandisk-pro-cinema-cfexpress-type-a-480gb-front.png",
+    "page": "https://www.sandisk.com/products/memory-cards/cfast-cfexpress-compactflash/sandisk-pro-cinema-cfexpress-type-a-memory-card",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official SanDisk store product image (www.sandisk.com); SanDisk has not granted a reuse license - rights not verified.",
+    "alt": "SanDisk PRO-CINEMA CFexpress Type A 480GB card, front view",
+    "match": "EXACT",
+    "credit": "SanDisk"
+   },
+   "featured": false
+  },
+  {
+   "category": "flash-drives-memory-cards",
+   "priceAsOf": "2026-09-28",
+   "sku": "TK-PROGRADE-CFE4-B-IRIDIUM",
+   "slug": "prograde-digital-cfexpress-4-type-b-iridium",
+   "name": "ProGrade Digital CFexpress Type B 4.0 Memory Card (Iridium)",
+   "brand": "ProGrade Digital",
+   "price": "499.99",
+   "priceBasis": "starting-at",
+   "priceSource": "https://shop.progradedigital.com/products/cfexpress-type-b-4-0-memory-card-iridium",
+   "releaseYear": 2024,
+   "summary": "VPG400-rated CFexpress 4.0 Type B card on PCIe Gen 4 / NVMe with reads up to 3550MB/s, in 400GB, 800GB and 1.6TB.",
+   "description": "ProGrade's Iridium CFexpress Type B 4.0 cards use a PCIe Gen 4 interconnect with an NVMe host interface, reading at up to 3550MB/s. Sustained writes are up to 850MB/s (400GB) and 1500MB/s on larger capacities, and the cards are VPG400 rated for RAW 4K/6K capture.",
+   "keywords": "cfexpress type b 4.0 iridium vpg400 raw video prograde",
+   "specs": {
+    "capacityTb": 0.4,
+    "interface": "CFexpress 4.0 (PCIe Gen 4, NVMe)",
+    "mediaType": "CFexpress Type B",
+    "readMbps": 3550,
+    "writeMbps": 850,
+    "speedClass": "VPG400"
+   },
+   "variants": [
+    {
+     "label": "400GB",
+     "price": "499.99"
+    },
+    {
+     "label": "800GB",
+     "price": "799.99"
+    },
+    {
+     "label": "1.6TB",
+     "price": "1249.99"
+    }
+   ],
+   "sources": {
+    "product": "https://shop.progradedigital.com/products/cfexpress-type-b-4-0-memory-card-iridium",
+    "retrievedAt": "2026-09-28"
+   },
+   "collections": [
+    "creator-workstations"
+   ],
+   "notes": "Prices are single-card prices; 2-pack options also sold. writeMbps is the 400GB sustained write figure.",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/2526/3692/files/CFexpress_4.0_Type_B_Iridium_400GB_1Pack_898x898px.png",
+    "page": "https://shop.progradedigital.com/products/cfexpress-type-b-4-0-memory-card-iridium",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official ProGrade Digital store product image (shop.progradedigital.com, Shopify CDN); ProGrade Digital has not granted a reuse license - rights not verified.",
+    "alt": "ProGrade Digital CFexpress Type B 4.0 Iridium 400GB card, silver label, front view",
+    "match": "EXACT",
+    "credit": "ProGrade Digital",
+    "allowLowRes": false
+   },
+   "featured": false
+  },
+  {
+   "category": "flash-drives-memory-cards",
+   "priceAsOf": "2026-09-28",
+   "sku": "TK-PROGRADE-CFE4-B-GOLD",
+   "slug": "prograde-digital-cfexpress-4-type-b-gold",
+   "name": "ProGrade Digital CFexpress Type B 4.0 Memory Card (Gold)",
+   "brand": "ProGrade Digital",
+   "price": "259.99",
+   "priceBasis": "starting-at",
+   "priceSource": "https://shop.progradedigital.com/products/cfexpress-type-b-4-0-memory-card-gold",
+   "releaseYear": 2023,
+   "summary": "Gold-class CFexpress 4.0 Type B card with reads up to 3400MB/s and sustained writes from 700MB/s, in 240GB to 2TB.",
+   "description": "ProGrade's Gold CFexpress Type B 4.0 cards leverage PCIe Gen 4 with NVMe for read speeds up to 3400MB/s. Sustained writes are 700MB/s (240GB), 850MB/s (512GB) and 1500MB/s (1TB and 2TB).",
+   "keywords": "cfexpress type b 4.0 gold prograde camera card",
+   "specs": {
+    "capacityTb": 0.24,
+    "interface": "CFexpress 4.0 (PCIe Gen 4, NVMe)",
+    "mediaType": "CFexpress Type B",
+    "writeMbps": 700
+   },
+   "variants": [
+    {
+     "label": "240GB",
+     "price": "259.99"
+    },
+    {
+     "label": "512GB",
+     "price": "399.99"
+    },
+    {
+     "label": "1TB",
+     "price": "699.99"
+    },
+    {
+     "label": "2TB",
+     "price": "1099.99"
+    }
+   ],
+   "sources": {
+    "product": "https://shop.progradedigital.com/products/cfexpress-type-b-4-0-memory-card-gold",
+    "retrievedAt": "2026-09-28"
+   },
+   "notes": "Single-card prices. readMbps omitted: the page states 'up to 3400MB/s' for the line, while the 240GB card label shows 3100MB/s.",
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/2526/3692/files/CFexpress_4.0_Type_B_Gold_240GB_1Pack_898x898px.png",
+    "page": "https://shop.progradedigital.com/products/cfexpress-type-b-4-0-memory-card-gold",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official ProGrade Digital store product image (shop.progradedigital.com, Shopify CDN); ProGrade Digital has not granted a reuse license - rights not verified.",
+    "alt": "ProGrade Digital CFexpress Type B 4.0 Gold 240GB card, gold label, front view",
+    "match": "EXACT",
+    "credit": "ProGrade Digital",
+    "allowLowRes": false
+   },
+   "featured": false
+  },
+  {
+   "category": "flash-drives-memory-cards",
+   "priceAsOf": "2026-09-28",
+   "sku": "TK-PROGRADE-CFE4-A-IRID-DVPG",
+   "slug": "prograde-digital-cfexpress-4-type-a-iridium-dual-vpg",
+   "name": "ProGrade Digital CFexpress Type A 4.0 Memory Card (Iridium) Dual VPG",
+   "brand": "ProGrade Digital",
+   "price": "569.99",
+   "priceBasis": "starting-at",
+   "priceSource": "https://shop.progradedigital.com/products/cfexpress-type-a-4-0-memory-card-iridium-dual-vpg",
+   "releaseYear": 2026,
+   "summary": "Dual VPG CFexpress 4.0 Type A card, VPG400 certified with a path to VPG800, up to 1800MB/s reads and 1500MB/s sustained writes.",
+   "description": "ProGrade's Dual VPG Iridium CFexpress Type A 4.0 card supports VPG200 and VPG400 recording today and is designed for next-generation VPG800 cameras. It reads at up to 1800MB/s and sustains writes of 1500MB/s for 8K RAW and 4K 120p/240p capture. Offered in 512GB and 1TB.",
+   "keywords": "cfexpress type a 4.0 iridium dual vpg vpg800 sony",
+   "specs": {
+    "capacityTb": 0.512,
+    "interface": "CFexpress 4.0",
+    "mediaType": "CFexpress Type A",
+    "readMbps": 1800,
+    "writeMbps": 1500,
+    "speedClass": "VPG400"
+   },
+   "variants": [
+    {
+     "label": "512GB",
+     "price": "569.99"
+    },
+    {
+     "label": "1TB",
+     "price": "949.99"
+    }
+   ],
+   "sources": {
+    "product": "https://shop.progradedigital.com/products/cfexpress-type-a-4-0-memory-card-iridium-dual-vpg",
+    "retrievedAt": "2026-09-28"
+   },
+   "featured": true,
+   "collections": [
+    "creator-workstations"
+   ],
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/2526/3692/files/CFexpress_4.0_Type_A_Iridium_Dual_VPG_512GB_1Pack_898x1104px.png",
+    "page": "https://shop.progradedigital.com/products/cfexpress-type-a-4-0-memory-card-iridium-dual-vpg",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official ProGrade Digital store product image (shop.progradedigital.com, Shopify CDN); ProGrade Digital has not granted a reuse license - rights not verified.",
+    "alt": "ProGrade Digital CFexpress Type A 4.0 Iridium Dual VPG 512GB card, front view",
+    "match": "EXACT",
+    "credit": "ProGrade Digital",
+    "allowLowRes": false
+   }
+  },
+  {
+   "category": "flash-drives-memory-cards",
+   "priceAsOf": "2026-09-28",
+   "sku": "TK-PROGRADE-SDXC-V90-IRIDIUM",
+   "slug": "prograde-digital-sdxc-uhs-ii-v90-iridium",
+   "name": "ProGrade Digital SDXC UHS-II V90 300R Iridium Memory Card",
+   "brand": "ProGrade Digital",
+   "price": "179.99",
+   "priceBasis": "starting-at",
+   "priceSource": "https://shop.progradedigital.com/products/sdxc-uhs-ii-v90-300r-iridium-memory-card",
+   "releaseYear": 2025,
+   "summary": "V90 UHS-II SDXC card with reads up to 300MB/s and writes up to 200MB/s (128GB) or 275MB/s (256GB and up).",
+   "description": "The Iridium UHS-II SDXC V90 card reads at up to 300MB/s and writes at up to 200MB/s (128GB) or 275MB/s (256GB, 512GB, 1TB). V90 guarantees at least 90MB/s sustained writes for 6K/5K/4K video; the card tolerates -13 to 185 F and has a write-protect switch.",
+   "keywords": "sd card v90 uhs-ii iridium prograde 6k video",
+   "specs": {
+    "capacityTb": 0.128,
+    "interface": "UHS-II",
+    "mediaType": "SD",
+    "readMbps": 300,
+    "writeMbps": 200,
+    "speedClass": "V90"
+   },
+   "variants": [
+    {
+     "label": "128GB",
+     "price": "179.99"
+    },
+    {
+     "label": "256GB",
+     "price": "299.99"
+    },
+    {
+     "label": "512GB",
+     "price": "529.99"
+    },
+    {
+     "label": "1TB",
+     "price": "1049.99"
+    }
+   ],
+   "sources": {
+    "product": "https://shop.progradedigital.com/products/sdxc-uhs-ii-v90-300r-iridium-memory-card",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/2526/3692/files/SDXC_V90_Iridium_128GB_1Pack_898x898px.png",
+    "page": "https://shop.progradedigital.com/products/sdxc-uhs-ii-v90-300r-iridium-memory-card",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official ProGrade Digital store product image (shop.progradedigital.com, Shopify CDN); ProGrade Digital has not granted a reuse license - rights not verified.",
+    "alt": "ProGrade Digital SDXC UHS-II V90 Iridium 128GB card, front view",
+    "match": "EXACT",
+    "credit": "ProGrade Digital",
+    "allowLowRes": false
+   },
+   "featured": false
+  },
+  {
+   "category": "flash-drives-memory-cards",
+   "priceAsOf": "2026-09-28",
+   "sku": "TK-PROGRADE-SDXC-V60-GOLD",
+   "slug": "prograde-digital-sdxc-uhs-ii-v60-gold",
+   "name": "ProGrade Digital SDXC UHS-II V60 250R Gold Memory Card",
+   "brand": "ProGrade Digital",
+   "price": "129.99",
+   "priceBasis": "starting-at",
+   "priceSource": "https://shop.progradedigital.com/products/sdxc-uhs-ii-v60-250r-gold-memory-card",
+   "releaseYear": 2019,
+   "summary": "V60 UHS-II SDXC card with reads up to 250MB/s and writes up to 130MB/s, in 128GB to 1TB.",
+   "description": "ProGrade's Gold UHS-II SDXC V60 card reads at up to 250MB/s and writes at up to 130MB/s, with V60 guaranteeing 60MB/s minimum writes for 4K video in DSLRs, mirrorless and cinema cameras. It is X-ray proof and shockproof and has a write-protect switch.",
+   "keywords": "sd card v60 uhs-ii gold prograde 4k",
+   "specs": {
+    "capacityTb": 0.128,
+    "interface": "UHS-II",
+    "mediaType": "SD",
+    "readMbps": 250,
+    "writeMbps": 130,
+    "speedClass": "V60"
+   },
+   "variants": [
+    {
+     "label": "128GB",
+     "price": "129.99"
+    },
+    {
+     "label": "256GB",
+     "price": "219.99"
+    },
+    {
+     "label": "512GB",
+     "price": "379.99"
+    },
+    {
+     "label": "1TB",
+     "price": "759.99"
+    }
+   ],
+   "sources": {
+    "product": "https://shop.progradedigital.com/products/sdxc-uhs-ii-v60-250r-gold-memory-card",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/2526/3692/files/SDXC_V60_Gold_128GB_1Pack_898x898px.png",
+    "page": "https://shop.progradedigital.com/products/sdxc-uhs-ii-v60-250r-gold-memory-card",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official ProGrade Digital store product image (shop.progradedigital.com, Shopify CDN); ProGrade Digital has not granted a reuse license - rights not verified.",
+    "alt": "ProGrade Digital SDXC UHS-II V60 Gold 128GB card, front view",
+    "match": "EXACT",
+    "credit": "ProGrade Digital",
+    "allowLowRes": false
+   },
+   "featured": false
+  },
+  {
+   "category": "flash-drives-memory-cards",
+   "priceAsOf": "2026-09-28",
+   "sku": "TK-PROGRADE-MICROSD-V60",
+   "slug": "prograde-digital-microsdxc-uhs-ii-v60",
+   "name": "ProGrade Digital microSDXC UHS-II V60 Memory Card (250MBps)",
+   "brand": "ProGrade Digital",
+   "price": "130.99",
+   "priceBasis": "starting-at",
+   "priceSource": "https://shop.progradedigital.com/products/microsdxc-uhs-ii-v60-memory-card-250mbps",
+   "releaseYear": 2020,
+   "summary": "UHS-II V60 microSDXC card for drones and action cameras with reads up to 250MB/s, in 128GB to 512GB.",
+   "description": "ProGrade's microSDXC UHS-II cards are designed for aerial and action cameras and are tested like full-size SD cards. They read at up to 250MB/s and also carry UHS-I DDR-104 and U3 ratings for broad compatibility. Capacities range from 128GB to 512GB.",
+   "keywords": "microsd uhs-ii v60 drone action camera prograde",
+   "specs": {
+    "capacityTb": 0.128,
+    "interface": "UHS-II",
+    "mediaType": "microSD",
+    "readMbps": 250,
+    "speedClass": "V60"
+   },
+   "variants": [
+    {
+     "label": "128GB",
+     "price": "130.99"
+    },
+    {
+     "label": "256GB",
+     "price": "220.99"
+    },
+    {
+     "label": "512GB",
+     "price": "380.99"
+    }
+   ],
+   "sources": {
+    "product": "https://shop.progradedigital.com/products/microsdxc-uhs-ii-v60-memory-card-250mbps",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/2526/3692/files/microSDXC_V60_Gold_128GB_1Pack_898x898px.png",
+    "page": "https://shop.progradedigital.com/products/microsdxc-uhs-ii-v60-memory-card-250mbps",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official ProGrade Digital store product image (shop.progradedigital.com, Shopify CDN); ProGrade Digital has not granted a reuse license - rights not verified.",
+    "alt": "ProGrade Digital microSDXC UHS-II V60 128GB card, front view",
+    "match": "EXACT",
+    "credit": "ProGrade Digital",
+    "allowLowRes": false
+   },
+   "featured": false
+  },
+  {
+   "category": "flash-drives-memory-cards",
+   "priceAsOf": "2026-09-28",
+   "sku": "TK-SAMSUNG-T9-MICROSD",
+   "slug": "samsung-t9-microsdxc-uhs-i-card",
+   "name": "Samsung T9 microSDXC UHS-I Card",
+   "brand": "Samsung",
+   "price": "62.99",
+   "priceBasis": "starting-at",
+   "priceSource": "https://www.samsung.com/us/memory-storage/memory-card/128gb-t9-microsdxc-card-uhs-i-sku-mb-mh128t-am/",
+   "summary": "Samsung's fastest UHS-I microSD, rated up to 200MB/s reads and 130MB/s writes for gamers and creators, 128GB to 512GB.",
+   "description": "The Samsung T9 microSDXC UHS-I card is rated for read/write speeds up to 200/130MB/s and carries U3, A2 and V30 ratings. It comes in 128GB, 256GB and 512GB and offers 6-proof protection with a 3-year limited warranty.",
+   "keywords": "samsung t9 microsd 200mb/s gaming handheld creator a2 v30",
+   "specs": {
+    "capacityTb": 0.128,
+    "interface": "UHS-I",
+    "mediaType": "microSD",
+    "readMbps": 200,
+    "writeMbps": 130,
+    "speedClass": "V30"
+   },
+   "variants": [
+    {
+     "label": "128GB",
+     "price": "62.99"
+    },
+    {
+     "label": "256GB",
+     "price": "99.99"
+    },
+    {
+     "label": "512GB",
+     "price": "199.99"
+    }
+   ],
+   "warranty": 36,
+   "sources": {
+    "product": "https://www.samsung.com/us/memory-storage/memory-card/128gb-t9-microsdxc-card-uhs-i-sku-mb-mh128t-am/",
+    "retrievedAt": "2026-09-28"
+   },
+   "featured": true,
+   "collections": [
+    "samsung-ecosystem"
+   ],
+   "notes": "Price is Samsung US msrpPrice for the listed configuration; several capacities showed as out of stock on samsung.com on the research date.",
+   "image": {
+    "url": "https://images.samsung.com/is/image/samsung/p6pim/us/mb-mh128t-am/gallery/us-t9-microsd-card-mb-mh128t-am-552410413?$2052_1641_PNG$",
+    "page": "https://www.samsung.com/us/memory-storage/memory-card/128gb-t9-microsdxc-card-uhs-i-sku-mb-mh128t-am/",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official Samsung US store product gallery image (images.samsung.com); Samsung has not granted a reuse license - rights not verified.",
+    "alt": "Samsung T9 128GB microSDXC card, black with red T9 logo, angled view",
+    "match": "EXACT",
+    "credit": "Samsung"
+   }
+  },
+  {
+   "category": "flash-drives-memory-cards",
+   "priceAsOf": "2026-09-28",
+   "sku": "TK-SAMSUNG-T7-MICROSD",
+   "slug": "samsung-t7-microsdxc-uhs-i-card",
+   "name": "Samsung T7 microSDXC UHS-I Card",
+   "brand": "Samsung",
+   "price": "50.99",
+   "priceBasis": "starting-at",
+   "priceSource": "https://www.samsung.com/us/memory-storage/memory-card/128gb-t7-microsdxc-card-uhs-i-sku-mb-mb128t-am/",
+   "summary": "All-purpose U3/A2/V30 microSD card with transfer speeds up to 170MB/s, from 128GB to 1TB.",
+   "description": "The Samsung T7 microSDXC UHS-I card offers transfer speeds up to 170MB/s with U3, A2 and V30 ratings for phones, tablets, laptops and handheld consoles. It is available from 128GB to 1TB with 6-proof protection and a 3-year limited warranty.",
+   "keywords": "samsung t7 microsd 170mb/s phone tablet handheld",
+   "specs": {
+    "capacityTb": 0.128,
+    "interface": "UHS-I",
+    "mediaType": "microSD",
+    "readMbps": 170,
+    "speedClass": "V30"
+   },
+   "variants": [
+    {
+     "label": "128GB",
+     "price": "50.99"
+    },
+    {
+     "label": "256GB",
+     "price": "79.99"
+    },
+    {
+     "label": "512GB",
+     "price": "159.99"
+    },
+    {
+     "label": "1TB",
+     "price": "319.99"
+    }
+   ],
+   "warranty": 36,
+   "sources": {
+    "product": "https://www.samsung.com/us/memory-storage/memory-card/128gb-t7-microsdxc-card-uhs-i-sku-mb-mb128t-am/",
+    "retrievedAt": "2026-09-28"
+   },
+   "collections": [
+    "samsung-ecosystem"
+   ],
+   "notes": "Price is Samsung US msrpPrice for the listed configuration; several capacities showed as out of stock on samsung.com on the research date.",
+   "image": {
+    "url": "https://images.samsung.com/is/image/samsung/p6pim/us/mb-mb128t-am/gallery/us-t7-microsd-card-mb-mb128t-am-552361636?$2052_1641_PNG$",
+    "page": "https://www.samsung.com/us/memory-storage/memory-card/128gb-t7-microsdxc-card-uhs-i-sku-mb-mb128t-am/",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official Samsung US store product gallery image (images.samsung.com); Samsung has not granted a reuse license - rights not verified.",
+    "alt": "Samsung T7 128GB microSDXC card in blue, angled view",
+    "match": "EXACT",
+    "credit": "Samsung"
+   },
+   "featured": false
+  },
+  {
+   "category": "flash-drives-memory-cards",
+   "priceAsOf": "2026-09-28",
+   "sku": "TK-SAMSUNG-PROPLUS-MICROSD",
+   "slug": "samsung-pro-plus-microsd-card",
+   "name": "Samsung PRO Plus microSDXC Card with Adapter",
+   "brand": "Samsung",
+   "price": "50.99",
+   "priceBasis": "starting-at",
+   "priceSource": "https://www.samsung.com/us/memory-storage/memory-card/pro-plus-adapter-microsdxc-128gb-sku-mb-md128sa-am/",
+   "summary": "PRO Plus microSD for drones, action cams and consoles with 180MB/s reads and 130MB/s writes, up to 1TB.",
+   "description": "Samsung's PRO Plus microSDXC UHS-I card is rated for 180MB/s reads and 130MB/s writes with U3, A2 and V30 ratings, suited to 4K UHD video in drones and action cameras. This configuration ships with an SD adapter; capacities run from 128GB to 1TB.",
+   "keywords": "samsung pro plus microsd 180mb/s drone action camera",
+   "specs": {
+    "capacityTb": 0.128,
+    "interface": "UHS-I",
+    "mediaType": "microSD",
+    "readMbps": 180,
+    "writeMbps": 130,
+    "speedClass": "V30"
+   },
+   "variants": [
+    {
+     "label": "128GB",
+     "price": "50.99"
+    },
+    {
+     "label": "256GB",
+     "price": "79.99"
+    },
+    {
+     "label": "512GB",
+     "price": "143.99"
+    },
+    {
+     "label": "1TB",
+     "price": "287.99"
+    }
+   ],
+   "sources": {
+    "product": "https://www.samsung.com/us/memory-storage/memory-card/pro-plus-adapter-microsdxc-128gb-sku-mb-md128sa-am/",
+    "retrievedAt": "2026-09-28"
+   },
+   "collections": [
+    "samsung-ecosystem"
+   ],
+   "notes": "Price is Samsung US msrpPrice for the listed configuration; several capacities showed as out of stock on samsung.com on the research date.",
+   "image": {
+    "url": "https://images.samsung.com/is/image/samsung/p6pim/us/mb-md128sa-am/gallery/us-memory-cardpro-plus-microsd-card-581266-mb-md128sa-am-551165242?$2052_1641_PNG$",
+    "page": "https://www.samsung.com/us/memory-storage/memory-card/pro-plus-adapter-microsdxc-128gb-sku-mb-md128sa-am/",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official Samsung US store product gallery image (images.samsung.com); Samsung has not granted a reuse license - rights not verified.",
+    "alt": "Samsung PRO Plus 128GB microSDXC card in blue with white SD adapter",
+    "match": "EXACT",
+    "credit": "Samsung"
+   },
+   "featured": false
+  },
+  {
+   "category": "flash-drives-memory-cards",
+   "priceAsOf": "2026-09-28",
+   "sku": "TK-SAMSUNG-PROULT-MICROSD",
+   "slug": "samsung-pro-ultimate-microsd-card",
+   "name": "Samsung PRO Ultimate microSDXC Card with Adapter",
+   "brand": "Samsung",
+   "price": "62.99",
+   "priceBasis": "starting-at",
+   "priceSource": "https://www.samsung.com/us/memory-storage/memory-card/pro-ultimate-adapter-microsdxc-128gb-sku-mb-my128sa-am/",
+   "summary": "PRO Ultimate microSD rated for 200MB/s reads and 130MB/s writes, for drones and action cams, 128GB to 512GB.",
+   "description": "The Samsung PRO Ultimate microSDXC UHS-I card is rated for 200MB/s reads and 130MB/s writes for demanding capture in drones and action cameras. This configuration includes an SD adapter; capacities are 128GB, 256GB and 512GB.",
+   "keywords": "samsung pro ultimate microsd 200mb/s drone action cam",
+   "specs": {
+    "capacityTb": 0.128,
+    "interface": "UHS-I",
+    "mediaType": "microSD",
+    "readMbps": 200,
+    "writeMbps": 130
+   },
+   "variants": [
+    {
+     "label": "128GB",
+     "price": "62.99"
+    },
+    {
+     "label": "256GB",
+     "price": "99.99"
+    },
+    {
+     "label": "512GB",
+     "price": "199.99"
+    }
+   ],
+   "sources": {
+    "product": "https://www.samsung.com/us/memory-storage/memory-card/pro-ultimate-adapter-microsdxc-128gb-sku-mb-my128sa-am/",
+    "retrievedAt": "2026-09-28"
+   },
+   "collections": [
+    "samsung-ecosystem"
+   ],
+   "notes": "Price is Samsung US msrpPrice for the listed configuration; several capacities showed as out of stock on samsung.com on the research date.",
+   "image": {
+    "url": "https://images.samsung.com/is/image/samsung/p6pim/us/mb-my128sa-am/gallery/us--mb-my128sa-am-550279755?$2052_1641_PNG$",
+    "page": "https://www.samsung.com/us/memory-storage/memory-card/pro-ultimate-adapter-microsdxc-128gb-sku-mb-my128sa-am/",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official Samsung US store product gallery image (images.samsung.com); Samsung has not granted a reuse license - rights not verified.",
+    "alt": "Samsung PRO Ultimate 128GB microSDXC card in navy with white SD adapter",
+    "match": "EXACT",
+    "credit": "Samsung"
+   },
+   "featured": false
+  },
+  {
+   "category": "flash-drives-memory-cards",
+   "priceAsOf": "2026-09-28",
+   "sku": "TK-SAMSUNG-PROPLUS-SD-2023",
+   "slug": "samsung-pro-plus-sd-card-2023",
+   "name": "Samsung PRO Plus SDXC Card (2023)",
+   "brand": "Samsung",
+   "price": "14.99",
+   "priceBasis": "starting-at",
+   "priceSource": "https://www.samsung.com/us/memory-storage/memory-card/pro-plus-full-size-sdxc-card-64gb-sku-mb-sd64s-am/",
+   "releaseYear": 2023,
+   "summary": "Full-size PRO Plus SD card with 180MB/s reads and 130MB/s writes for photographers and 4K UHD video, 64GB to 512GB.",
+   "description": "Samsung's PRO Plus SD card (2023) is a UHS-I SDXC card rated for 180MB/s reads and 130MB/s writes for burst shooting and 4K UHD video. It is sold in 64GB, 128GB, 256GB and 512GB, with optional USB reader bundles.",
+   "keywords": "samsung pro plus sd card 180mb/s camera 4k",
+   "specs": {
+    "capacityTb": 0.064,
+    "interface": "UHS-I",
+    "mediaType": "SD",
+    "readMbps": 180,
+    "writeMbps": 130
+   },
+   "variants": [
+    {
+     "label": "64GB",
+     "price": "14.99"
+    },
+    {
+     "label": "128GB",
+     "price": "19.99"
+    },
+    {
+     "label": "256GB",
+     "price": "31.99"
+    },
+    {
+     "label": "512GB",
+     "price": "53.99"
+    }
+   ],
+   "sources": {
+    "product": "https://www.samsung.com/us/memory-storage/memory-card/pro-plus-full-size-sdxc-card-64gb-sku-mb-sd64s-am/",
+    "retrievedAt": "2026-09-28"
+   },
+   "collections": [
+    "samsung-ecosystem"
+   ],
+   "notes": "Price is Samsung US msrpPrice for the listed configuration; several capacities showed as out of stock on samsung.com on the research date. Card-only prices; + Reader bundles cost more.",
+   "image": {
+    "url": "https://images.samsung.com/is/image/samsung/p6pim/us/mb-sd64s-am/gallery/us--mb-sd64s-am-550280967?$2052_1641_PNG$",
+    "page": "https://www.samsung.com/us/memory-storage/memory-card/pro-plus-full-size-sdxc-card-64gb-sku-mb-sd64s-am/",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official Samsung US store product gallery image (images.samsung.com); Samsung has not granted a reuse license - rights not verified.",
+    "alt": "Samsung PRO Plus 64GB SDXC card, white and blue, angled view",
+    "match": "EXACT",
+    "credit": "Samsung"
+   },
+   "featured": false
+  },
+  {
+   "category": "flash-drives-memory-cards",
+   "priceAsOf": "2026-09-28",
+   "sku": "TK-SAMSUNG-EVOSELECT-2024",
+   "slug": "samsung-evo-select-microsd-2024",
+   "name": "Samsung EVO Select microSDXC Card with Adapter (2024)",
+   "brand": "Samsung",
+   "price": "31.99",
+   "priceBasis": "starting-at",
+   "priceSource": "https://www.samsung.com/us/memory-storage/memory-card/evo-select-adapter-microsdxc-64gb-sku-mb-me64sa-am/",
+   "releaseYear": 2024,
+   "summary": "Everyday microSD for smartphones and tablets with reads up to 160MB/s, from 64GB to 1TB.",
+   "description": "The 2024 Samsung EVO Select microSDXC UHS-I card offers read speeds up to 160MB/s for phones and tablets and ships with an SD adapter. Capacities run from 64GB to 1TB.",
+   "keywords": "samsung evo select microsd 160mb/s phone tablet",
+   "specs": {
+    "capacityTb": 0.064,
+    "interface": "UHS-I",
+    "mediaType": "microSD",
+    "readMbps": 160
+   },
+   "variants": [
+    {
+     "label": "64GB",
+     "price": "31.99"
+    },
+    {
+     "label": "128GB",
+     "price": "44.99"
+    },
+    {
+     "label": "256GB",
+     "price": "72.99"
+    },
+    {
+     "label": "512GB",
+     "price": "145.99"
+    },
+    {
+     "label": "1TB",
+     "price": "291.99"
+    }
+   ],
+   "sources": {
+    "product": "https://www.samsung.com/us/memory-storage/memory-card/evo-select-adapter-microsdxc-64gb-sku-mb-me64sa-am/",
+    "retrievedAt": "2026-09-28"
+   },
+   "collections": [
+    "samsung-ecosystem"
+   ],
+   "notes": "Price is Samsung US msrpPrice for the listed configuration; several capacities showed as out of stock on samsung.com on the research date.",
+   "image": {
+    "url": "https://images.samsung.com/is/image/samsung/p6pim/us/mb-me64sa-am/gallery/us--mb-me64sa-am-550282300?$2052_1641_PNG$",
+    "page": "https://www.samsung.com/us/memory-storage/memory-card/evo-select-adapter-microsdxc-64gb-sku-mb-me64sa-am/",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official Samsung US store product gallery image (images.samsung.com); Samsung has not granted a reuse license - rights not verified.",
+    "alt": "Samsung EVO Select 64GB microSDXC card in teal, angled view",
+    "match": "EXACT",
+    "credit": "Samsung"
+   },
+   "featured": false
+  },
+  {
+   "category": "flash-drives-memory-cards",
+   "priceAsOf": "2026-09-28",
+   "sku": "TK-SAMSUNG-PRO-ENDURANCE",
+   "slug": "samsung-pro-endurance-microsd-card",
+   "name": "Samsung PRO Endurance microSDXC Card with Adapter",
+   "brand": "Samsung",
+   "price": "11.99",
+   "priceBasis": "starting-at",
+   "priceSource": "https://www.samsung.com/us/memory-storage/memory-card/pro-endurance-adapter-microsdxc-256gb-sku-mb-mj256ka-am/",
+   "summary": "High-endurance microSD for dash cams and security cameras, 100MB/s reads, 40MB/s writes, rated for up to 140K hours of recording.",
+   "description": "Samsung's PRO Endurance microSD card is built for monitoring devices such as dash cams, body cams and CCTV, rated for up to 140,000 hours of recording and rewriting. It reads at 100MB/s and writes at 40MB/s, records Full HD/4K, and ships with an SD adapter in 32GB to 256GB.",
+   "keywords": "samsung pro endurance microsd dash cam security camera high endurance",
+   "specs": {
+    "capacityTb": 0.032,
+    "interface": "UHS-I",
+    "mediaType": "microSD",
+    "readMbps": 100,
+    "writeMbps": 40
+   },
+   "variants": [
+    {
+     "label": "32GB",
+     "price": "11.99"
+    },
+    {
+     "label": "64GB",
+     "price": "54.99"
+    },
+    {
+     "label": "128GB",
+     "price": "76.99"
+    },
+    {
+     "label": "256GB",
+     "price": "153.99"
+    }
+   ],
+   "sources": {
+    "product": "https://www.samsung.com/us/memory-storage/memory-card/pro-endurance-adapter-microsdxc-256gb-sku-mb-mj256ka-am/",
+    "retrievedAt": "2026-09-28"
+   },
+   "collections": [
+    "samsung-ecosystem",
+    "security-lab"
+   ],
+   "notes": "Price is Samsung US msrpPrice for the listed configuration; several capacities showed as out of stock on samsung.com on the research date.",
+   "image": {
+    "url": "https://images.samsung.com/is/image/samsung/p6pim/us/mb-mj256ka-am/gallery/us--mb-mj256ka-am-550351830?$2052_1641_PNG$",
+    "page": "https://www.samsung.com/us/memory-storage/memory-card/pro-endurance-adapter-microsdxc-256gb-sku-mb-mj256ka-am/",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official Samsung US store product gallery image (images.samsung.com); Samsung has not granted a reuse license - rights not verified.",
+    "alt": "Samsung PRO Endurance 256GB microSDXC card in white with SD adapter",
+    "match": "EXACT",
+    "credit": "Samsung"
+   },
+   "featured": false
+  },
+  {
+   "category": "flash-drives-memory-cards",
+   "priceAsOf": "2026-09-28",
+   "sku": "TK-SAMSUNG-BAR-PLUS",
+   "slug": "samsung-bar-plus-usb-flash-drive",
+   "name": "Samsung BAR Plus USB 3.2 Gen 1 Flash Drive",
+   "brand": "Samsung",
+   "price": "31.99",
+   "priceBasis": "starting-at",
+   "priceSource": "https://www.samsung.com/us/memory-storage/usb-flash-drive/usb-3-1-flash-drive-bar-plus-128gb-titan-gray-sku-muf-128be4-am/",
+   "summary": "Metal-bodied USB-A flash drive with reads up to 400MB/s, water resistance and a key-ring loop, 64GB to 512GB.",
+   "description": "The Samsung BAR Plus is a USB 3.2 Gen 1 Type-A flash drive with a sturdy metal body and key-ring loop, rated for data transfer speeds up to 400MB/s and waterproof. It comes in Titan Gray and Champagne Silver from 64GB to 512GB with a 5-year limited warranty.",
+   "keywords": "samsung bar plus usb flash drive metal 400mb/s",
+   "specs": {
+    "capacityTb": 0.064,
+    "interface": "USB 3.2 Gen 1 (USB-A)",
+    "mediaType": "USB flash drive",
+    "readMbps": 400
+   },
+   "variants": [
+    {
+     "label": "64GB",
+     "price": "31.99"
+    },
+    {
+     "label": "128GB",
+     "price": "39.99"
+    },
+    {
+     "label": "256GB",
+     "price": "79.99"
+    },
+    {
+     "label": "512GB",
+     "price": "145.99"
+    }
+   ],
+   "colors": [
+    "Titan Gray",
+    "Champagne Silver"
+   ],
+   "colorImages": {
+    "Titan Gray": {
+     "url": "https://images.samsung.com/is/image/samsung/p6pim/us/muf-128be4-am/gallery/us-usb-flash-drive-bar-plus-titan-gray-582581-muf-128be4-am-551348220?$2052_1641_PNG$",
+     "page": "https://www.samsung.com/us/memory-storage/usb-flash-drive/usb-3-1-flash-drive-bar-plus-128gb-titan-gray-sku-muf-128be4-am/",
+     "sourceType": "manufacturer-product-page",
+     "rights": "Official Samsung US store product gallery image (images.samsung.com); Samsung has not granted a reuse license - rights not verified.",
+     "alt": "Samsung BAR Plus USB flash drive in Titan Gray metal, angled view",
+     "match": "EXACT",
+     "credit": "Samsung"
+    },
+    "Champagne Silver": {
+     "url": "https://images.samsung.com/is/image/samsung/p6pim/us/muf-256be3-am/gallery/us-usb-flash-drive-muf-256be3-am-bar-plus-usb-----gen---flash-drive-champagne-silver-champagne-silver-551120073?$2052_1641_PNG$",
+     "page": "https://www.samsung.com/us/memory-storage/usb-flash-drive/usb-3-1-flash-drive-bar-plus-256gb-champagne-silver-sku-muf-256be3-am/",
+     "sourceType": "manufacturer-product-page",
+     "rights": "Official Samsung US store product gallery image (images.samsung.com); Samsung has not granted a reuse license - rights not verified.",
+     "alt": "Samsung BAR Plus USB flash drive in Champagne Silver metal, angled view",
+     "match": "EXACT",
+     "credit": "Samsung"
+    }
+   },
+   "warranty": 60,
+   "sources": {
+    "product": "https://www.samsung.com/us/memory-storage/usb-flash-drive/usb-3-1-flash-drive-bar-plus-128gb-titan-gray-sku-muf-128be4-am/",
+    "retrievedAt": "2026-09-28"
+   },
+   "collections": [
+    "samsung-ecosystem"
+   ],
+   "notes": "Price is Samsung US msrpPrice for the listed configuration; several capacities showed as out of stock on samsung.com on the research date.",
+   "image": {
+    "url": "https://images.samsung.com/is/image/samsung/p6pim/us/muf-128be4-am/gallery/us-usb-flash-drive-bar-plus-titan-gray-582581-muf-128be4-am-551348220?$2052_1641_PNG$",
+    "page": "https://www.samsung.com/us/memory-storage/usb-flash-drive/usb-3-1-flash-drive-bar-plus-128gb-titan-gray-sku-muf-128be4-am/",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official Samsung US store product gallery image (images.samsung.com); Samsung has not granted a reuse license - rights not verified.",
+    "alt": "Samsung BAR Plus USB flash drive in Titan Gray metal, angled view",
+    "match": "EXACT",
+    "credit": "Samsung"
+   },
+   "featured": false
+  },
+  {
+   "category": "flash-drives-memory-cards",
+   "priceAsOf": "2026-09-28",
+   "sku": "TK-SAMSUNG-USBC-FLASH",
+   "slug": "samsung-usb-type-c-flash-drive",
+   "name": "Samsung USB Type-C Flash Drive",
+   "brand": "Samsung",
+   "price": "31.99",
+   "priceBasis": "starting-at",
+   "priceSource": "https://www.samsung.com/us/memory-storage/usb-flash-drive/usb-type-c-256gb-sku-muf-256da-am/",
+   "summary": "Slim blue USB Type-C flash drive with reads up to 400MB/s and 5-proof durability, 64GB to 512GB.",
+   "description": "Samsung's USB Type-C Flash Drive has an ultra-sleek body with a Type-C connector and read speeds up to 400MB/s (writes are lower). It features 5-proof durability and a 5-year limited warranty, in capacities from 64GB to 512GB.",
+   "keywords": "samsung usb-c flash drive type-c 400mb/s blue",
+   "specs": {
+    "capacityTb": 0.064,
+    "interface": "USB 3.1 (USB-C)",
+    "mediaType": "USB flash drive",
+    "readMbps": 400
+   },
+   "variants": [
+    {
+     "label": "64GB",
+     "price": "31.99"
+    },
+    {
+     "label": "128GB",
+     "price": "39.99"
+    },
+    {
+     "label": "256GB",
+     "price": "79.99"
+    },
+    {
+     "label": "512GB",
+     "price": "145.99"
+    }
+   ],
+   "warranty": 60,
+   "sources": {
+    "product": "https://www.samsung.com/us/memory-storage/usb-flash-drive/usb-type-c-256gb-sku-muf-256da-am/",
+    "retrievedAt": "2026-09-28"
+   },
+   "collections": [
+    "samsung-ecosystem"
+   ],
+   "notes": "Price is Samsung US msrpPrice for the listed configuration; several capacities showed as out of stock on samsung.com on the research date.",
+   "image": {
+    "url": "https://images.samsung.com/is/image/samsung/p6pim/us/muf-256da-am/gallery/us-usb-3-1-flash-drive-type-c-muf-256da-am-550538462?$2052_1641_PNG$",
+    "page": "https://www.samsung.com/us/memory-storage/usb-flash-drive/usb-type-c-256gb-sku-muf-256da-am/",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official Samsung US store product gallery image (images.samsung.com); Samsung has not granted a reuse license - rights not verified.",
+    "alt": "Samsung USB Type-C flash drive in blue, side view with 256 capacity marking",
+    "match": "EXACT",
+    "credit": "Samsung"
+   },
+   "featured": false
+  },
+  {
+   "category": "flash-drives-memory-cards",
+   "sku": "TK-LEXAR-PRO-DIAMOND-CFE4-B",
+   "slug": "lexar-professional-diamond-cfexpress-4-type-b",
+   "name": "Lexar Professional DIAMOND CFexpress 4.0 Type B Card",
+   "brand": "Lexar",
+   "price": "249.99",
+   "priceBasis": "estimate",
+   "summary": "Lexar's flagship CFexpress 4.0 Type B card: up to 3700MB/s reads, 3400MB/s writes and 3200MB/s sustained writes with pSLC and VPG400.",
+   "description": "The Lexar Professional DIAMOND CFexpress 4.0 Type B card uses pSLC technology for reads up to 3700MB/s, writes up to 3400MB/s and a 3200MB/s sustained write speed. It is VPG400 rated for 8K RAW video and offered in 128GB, 256GB, 512GB and 1TB.",
+   "keywords": "lexar diamond cfexpress type b 4.0 pslc vpg400 8k raw",
+   "specs": {
+    "capacityTb": 0.128,
+    "interface": "CFexpress 4.0",
+    "mediaType": "CFexpress Type B",
+    "readMbps": 3700,
+    "writeMbps": 3400,
+    "speedClass": "VPG400",
+    "configurations": "128GB, 256GB, 512GB, 1TB"
+   },
+   "sources": {
+    "product": "https://americas.lexar.com/product/lexar-professional-diamond-cfexpress-4-0-type-b-card/",
+    "retrievedAt": "2026-09-28"
+   },
+   "notes": "Estimated USD street price: americas.lexar.com lists no direct price (only 'Where to buy' retailer links), so the price is a TrustKart estimate for the base capacity.",
+   "image": {
+    "url": "https://americas.lexar.com/wp-content/uploads/2024/10/Pro_CFe_TypeB_DIAMOND_1TB_Photo1-1.png",
+    "page": "https://americas.lexar.com/product/lexar-professional-diamond-cfexpress-4-0-type-b-card/",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official Lexar product image (americas.lexar.com product page media); Lexar has not granted a reuse license - rights not verified.",
+    "alt": "Lexar Professional DIAMOND CFexpress 4.0 Type B 1TB card, silver and black, front view",
+    "match": "EXACT",
+    "credit": "Lexar"
+   },
+   "featured": true,
+   "collections": [
+    "creator-workstations"
+   ]
+  },
+  {
+   "category": "flash-drives-memory-cards",
+   "sku": "TK-LEXAR-PRO-GOLD-CFE4-B",
+   "slug": "lexar-professional-gold-cfexpress-4-type-b",
+   "name": "Lexar Professional GOLD CFexpress 4.0 Type B Card",
+   "brand": "Lexar",
+   "price": "159.99",
+   "priceBasis": "estimate",
+   "summary": "CFexpress 4.0 Type B card with reads up to 3600MB/s, writes up to 3300MB/s and 3000MB/s sustained writes, 128GB to 4TB.",
+   "description": "The Lexar Professional GOLD CFexpress 4.0 Type B card is rated for up to 3600MB/s reads and 3300MB/s writes, with a sustained write speed of 3000MB/s. It is built to withstand harsh environments and is available from 128GB up to 4TB.",
+   "keywords": "lexar gold cfexpress type b 4.0 4tb camera card",
+   "specs": {
+    "capacityTb": 0.128,
+    "interface": "CFexpress 4.0",
+    "mediaType": "CFexpress Type B",
+    "readMbps": 3600,
+    "writeMbps": 3300,
+    "configurations": "128GB, 256GB, 512GB, 1TB, 2TB, 4TB"
+   },
+   "sources": {
+    "product": "https://americas.lexar.com/product/lexar-professional-gold-cfexpress-4-0-type-b-card/",
+    "retrievedAt": "2026-09-28"
+   },
+   "notes": "Estimated USD street price: americas.lexar.com lists no direct price (only 'Where to buy' retailer links), so the price is a TrustKart estimate for the base capacity.",
+   "image": {
+    "url": "https://americas.lexar.com/wp-content/uploads/2024/10/Pro_CFe_TypeB_GOLD_4TB_Photo1.png",
+    "page": "https://americas.lexar.com/product/lexar-professional-gold-cfexpress-4-0-type-b-card/",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official Lexar product image (americas.lexar.com product page media); Lexar has not granted a reuse license - rights not verified.",
+    "alt": "Lexar Professional GOLD CFexpress 4.0 Type B 4TB card with gold label, front view",
+    "match": "EXACT",
+    "credit": "Lexar"
+   },
+   "featured": false
+  },
+  {
+   "category": "flash-drives-memory-cards",
+   "sku": "TK-LEXAR-PRO-GOLD-CFE4-A",
+   "slug": "lexar-professional-gold-cfexpress-4-type-a",
+   "name": "Lexar Professional GOLD CFexpress 4.0 Type A Card",
+   "brand": "Lexar",
+   "price": "249.99",
+   "priceBasis": "estimate",
+   "summary": "VPG400-certified CFexpress 4.0 Type A card, up to 1800MB/s reads and 1650MB/s writes, 256GB to 2TB.",
+   "description": "The Lexar Professional GOLD CFexpress 4.0 Type A card reads at up to 1800MB/s and writes at up to 1650MB/s, with sustained writes of 1000MB/s (256GB) or 1400MB/s (larger capacities). It is VPG400 certified for 8K video and sold in 256GB, 512GB, 640GB, 1TB and 2TB.",
+   "keywords": "lexar gold cfexpress type a 4.0 sony vpg400",
+   "specs": {
+    "capacityTb": 0.256,
+    "interface": "CFexpress 4.0",
+    "mediaType": "CFexpress Type A",
+    "readMbps": 1800,
+    "writeMbps": 1650,
+    "speedClass": "VPG400",
+    "configurations": "256GB, 512GB, 640GB, 1TB, 2TB"
+   },
+   "sources": {
+    "product": "https://americas.lexar.com/product/lexar-professional-gold-cfexpress-4-0-type-a-card/",
+    "retrievedAt": "2026-09-28"
+   },
+   "notes": "Estimated USD street price: americas.lexar.com lists no direct price (only 'Where to buy' retailer links), so the price is a TrustKart estimate for the base capacity.",
+   "image": {
+    "url": "https://americas.lexar.com/wp-content/uploads/2024/10/Pro_CFe_TypeA_GOLD_2TB_Photo1-1.png",
+    "page": "https://americas.lexar.com/product/lexar-professional-gold-cfexpress-4-0-type-a-card/",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official Lexar product image (americas.lexar.com product page media); Lexar has not granted a reuse license - rights not verified.",
+    "alt": "Lexar Professional GOLD CFexpress 4.0 Type A 2TB card, front view",
+    "match": "EXACT",
+    "credit": "Lexar"
+   },
+   "featured": false
+  },
+  {
+   "category": "flash-drives-memory-cards",
+   "sku": "TK-LEXAR-PRO-SILVER-CFE4-A",
+   "slug": "lexar-professional-silver-cfexpress-4-type-a",
+   "name": "Lexar Professional SILVER CFexpress 4.0 Type A Card",
+   "brand": "Lexar",
+   "price": "179.99",
+   "priceBasis": "estimate",
+   "summary": "IP68-rated CFexpress 4.0 Type A card with reads up to 1750MB/s, writes up to 1650MB/s and VPG200 for 8K, 256GB to 2TB.",
+   "description": "The Lexar Professional SILVER CFexpress 4.0 Type A card reads at up to 1750MB/s and writes at up to 1650MB/s, with sustained writes of 600MB/s, 900MB/s or 1300MB/s depending on capacity. VPG200 enables 8K recording, and the card is IP68 dust- and water-resistant and drop-proof to 5 m.",
+   "keywords": "lexar silver cfexpress type a 4.0 vpg200 ip68",
+   "specs": {
+    "capacityTb": 0.256,
+    "interface": "CFexpress 4.0",
+    "mediaType": "CFexpress Type A",
+    "readMbps": 1750,
+    "writeMbps": 1650,
+    "speedClass": "VPG200",
+    "configurations": "256GB, 512GB, 1TB, 2TB"
+   },
+   "sources": {
+    "product": "https://americas.lexar.com/product/lexar-professional-silver-cfexpress-4-0-type-a-card/",
+    "retrievedAt": "2026-09-28"
+   },
+   "notes": "Estimated USD street price: americas.lexar.com lists no direct price (only 'Where to buy' retailer links), so the price is a TrustKart estimate for the base capacity.",
+   "image": {
+    "url": "https://americas.lexar.com/wp-content/uploads/2025/10/Pro_CFe_4.0-TypeA_SILVER_2TB_Photo1.png",
+    "page": "https://americas.lexar.com/product/lexar-professional-silver-cfexpress-4-0-type-a-card/",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official Lexar product image (americas.lexar.com product page media); Lexar has not granted a reuse license - rights not verified.",
+    "alt": "Lexar Professional SILVER CFexpress 4.0 Type A 2TB card, front view",
+    "match": "EXACT",
+    "credit": "Lexar"
+   },
+   "featured": false
+  },
+  {
+   "category": "flash-drives-memory-cards",
+   "sku": "TK-LEXAR-ARMOR-GOLD-SD",
+   "slug": "lexar-armor-gold-sdxc-uhs-ii",
+   "name": "Lexar ARMOR GOLD SDXC UHS-II Card",
+   "brand": "Lexar",
+   "price": "89.99",
+   "priceBasis": "estimate",
+   "summary": "Stainless-steel UHS-II V60 SD card, IP68 rated, with reads up to 280MB/s and writes up to 210MB/s.",
+   "description": "Lexar's ARMOR GOLD SDXC UHS-II card has a stainless steel body that Lexar says is 37x stronger than typical SD cards, with no ribs or write-protect switch. It is IP68 rated, drop-resistant to 5 m, V60 rated for 6K footage, and reads at up to 280MB/s with writes up to 210MB/s (128GB) or 205MB/s. Lifetime limited warranty.",
+   "keywords": "lexar armor gold stainless steel sd card uhs-ii v60 ip68",
+   "specs": {
+    "capacityTb": 0.128,
+    "interface": "UHS-II",
+    "mediaType": "SD",
+    "readMbps": 280,
+    "writeMbps": 210,
+    "speedClass": "V60",
+    "configurations": "128GB, 256GB, 512GB, 1TB"
+   },
+   "sources": {
+    "product": "https://americas.lexar.com/product/lexar-armor-gold-sdxc-uhs-ii-card/",
+    "retrievedAt": "2026-09-28"
+   },
+   "notes": "Estimated USD street price: americas.lexar.com lists no direct price (only 'Where to buy' retailer links), so the price is a TrustKart estimate for the base capacity.",
+   "image": {
+    "url": "https://americas.lexar.com/wp-content/uploads/2025/04/ARMOR-GOLD_1TB_Photo1-1.png",
+    "page": "https://americas.lexar.com/product/lexar-armor-gold-sdxc-uhs-ii-card/",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official Lexar product image (americas.lexar.com product page media); Lexar has not granted a reuse license - rights not verified.",
+    "alt": "Lexar ARMOR GOLD 1TB SDXC UHS-II card, gold stainless steel body, front view",
+    "match": "EXACT",
+    "credit": "Lexar"
+   },
+   "collections": [
+    "creator-workstations"
+   ],
+   "featured": false
+  },
+  {
+   "category": "flash-drives-memory-cards",
+   "sku": "TK-LEXAR-ARMOR-SILVERPRO-SD",
+   "slug": "lexar-armor-silver-pro-sdxc-uhs-ii",
+   "name": "Lexar ARMOR SILVER PRO SDXC UHS-II Card",
+   "brand": "Lexar",
+   "price": "59.99",
+   "priceBasis": "estimate",
+   "summary": "Stainless-steel V60 UHS-II SD card with IP68 protection, reads up to 280MB/s and writes up to 160MB/s.",
+   "description": "The Lexar ARMOR SILVER PRO SDXC UHS-II card shares ARMOR's stainless steel, rib-free construction and IP68 rating. It reads at up to 280MB/s with writes of 120MB/s (128GB) or 160MB/s on larger cards, and is V60 rated for 6K footage.",
+   "keywords": "lexar armor silver pro stainless steel sd card v60",
+   "specs": {
+    "capacityTb": 0.128,
+    "interface": "UHS-II",
+    "mediaType": "SD",
+    "readMbps": 280,
+    "writeMbps": 120,
+    "speedClass": "V60",
+    "configurations": "128GB, 256GB, 512GB, 1TB"
+   },
+   "sources": {
+    "product": "https://americas.lexar.com/product/lexar-armor-silver-pro-sdxc-uhs-ii-card/",
+    "retrievedAt": "2026-09-28"
+   },
+   "notes": "Estimated USD street price: americas.lexar.com lists no direct price (only 'Where to buy' retailer links), so the price is a TrustKart estimate for the base capacity.",
+   "image": {
+    "url": "https://americas.lexar.com/wp-content/uploads/2025/04/ARMOR-SILVER-PRO_1TB_Photo1.png",
+    "page": "https://americas.lexar.com/product/lexar-armor-silver-pro-sdxc-uhs-ii-card/",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official Lexar product image (americas.lexar.com product page media); Lexar has not granted a reuse license - rights not verified.",
+    "alt": "Lexar ARMOR SILVER PRO 1TB SDXC UHS-II card, silver stainless steel body, front view",
+    "match": "EXACT",
+    "credit": "Lexar"
+   },
+   "featured": false
+  },
+  {
+   "category": "flash-drives-memory-cards",
+   "sku": "TK-LEXAR-PRO-2000X-SD-GOLD",
+   "slug": "lexar-professional-2000x-sdxc-uhs-ii-gold",
+   "name": "Lexar Professional 2000x SDXC UHS-II Card GOLD Series",
+   "brand": "Lexar",
+   "price": "54.99",
+   "priceBasis": "estimate",
+   "summary": "V90 UHS-II SD card with reads up to 300MB/s and writes up to 260MB/s for professional video, 64GB to 512GB.",
+   "description": "The Lexar Professional 2000x SDXC UHS-II GOLD Series card reads at up to 300MB/s and writes at up to 260MB/s. Its V90 video speed class and UHS-II/U3 interface target professional video capture and fast card-to-computer transfers.",
+   "keywords": "lexar 2000x gold sd card uhs-ii v90",
+   "specs": {
+    "capacityTb": 0.064,
+    "interface": "UHS-II",
+    "mediaType": "SD",
+    "readMbps": 300,
+    "writeMbps": 260,
+    "speedClass": "V90",
+    "configurations": "64GB, 128GB, 256GB, 512GB"
+   },
+   "sources": {
+    "product": "https://americas.lexar.com/product/lexar-professional-2000x-sdhc-sdxc-uhs-ii-card-gold-series/",
+    "retrievedAt": "2026-09-28"
+   },
+   "notes": "Estimated USD street price: americas.lexar.com lists no direct price (only 'Where to buy' retailer links), so the price is a TrustKart estimate for the base capacity.",
+   "image": {
+    "url": "https://americas.lexar.com/wp-content/uploads/2023/12/2000x_SDHC_SDXC_256GB_Photo1.png",
+    "page": "https://americas.lexar.com/product/lexar-professional-2000x-sdhc-sdxc-uhs-ii-card-gold-series/",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official Lexar product image (americas.lexar.com product page media); Lexar has not granted a reuse license - rights not verified.",
+    "alt": "Lexar Professional 2000x SDXC UHS-II GOLD Series 256GB card, front view",
+    "match": "EXACT",
+    "credit": "Lexar"
+   },
+   "featured": false
+  },
+  {
+   "category": "flash-drives-memory-cards",
+   "sku": "TK-LEXAR-SILVERPLUS-MICROSD",
+   "slug": "lexar-professional-silver-plus-microsdxc",
+   "name": "Lexar Professional SILVER PLUS microSDXC UHS-I Card",
+   "brand": "Lexar",
+   "price": "14.99",
+   "priceBasis": "estimate",
+   "summary": "V30/A2 microSD with reads up to 205MB/s and writes up to 150MB/s, for drones, action cams and handhelds.",
+   "description": "Lexar's Professional SILVER PLUS microSDXC UHS-I card is rated for up to 205MB/s reads and up to 150MB/s writes (100MB/s on 64GB), and V30 for 4K 60fps video. It is IPX7 waterproof, comes with an SD adapter and a lifetime limited warranty, in 64GB to 1TB (2TB announced).",
+   "keywords": "lexar silver plus microsd v30 a2 205mb/s drone",
+   "specs": {
+    "capacityTb": 0.064,
+    "interface": "UHS-I",
+    "mediaType": "microSD",
+    "readMbps": 205,
+    "writeMbps": 100,
+    "speedClass": "V30",
+    "configurations": "64GB, 128GB, 256GB, 512GB, 1TB"
+   },
+   "sources": {
+    "product": "https://americas.lexar.com/product/lexar-professional-silver-plus-microsdxc-uhs-i-card/",
+    "retrievedAt": "2026-09-28"
+   },
+   "notes": "Estimated USD street price: americas.lexar.com lists no direct price (only 'Where to buy' retailer links), so the price is a TrustKart estimate for the base capacity.",
+   "image": {
+    "url": "https://americas.lexar.com/wp-content/uploads/2024/05/SILVER_PLUS_microSDXC_256GB_Photo1.png",
+    "page": "https://americas.lexar.com/product/lexar-professional-silver-plus-microsdxc-uhs-i-card/",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official Lexar product image (americas.lexar.com product page media); Lexar has not granted a reuse license - rights not verified.",
+    "alt": "Lexar Professional SILVER PLUS 256GB microSDXC card, silver and black, front view",
+    "match": "EXACT",
+    "credit": "Lexar",
+    "allowLowRes": true
+   },
+   "featured": false
+  },
+  {
+   "category": "flash-drives-memory-cards",
+   "sku": "TK-LEXAR-PLAY-PRO-MSDEXP",
+   "slug": "lexar-play-pro-microsdxc-express",
+   "name": "Lexar PLAY PRO microSDXC Express Card",
+   "brand": "Lexar",
+   "price": "69.99",
+   "priceBasis": "estimate",
+   "summary": "microSD Express card for Nintendo Switch 2 with reads up to 900MB/s and writes up to 600MB/s, 256GB to 1TB.",
+   "description": "The Lexar PLAY PRO microSDXC Express card reads at up to 900MB/s and writes at up to 600MB/s, which Lexar positions as 4x faster performance on Nintendo Switch 2. It is backwards compatible with UHS-I and UHS-II hosts at UHS-I speeds, in 256GB, 512GB and 1TB.",
+   "keywords": "lexar play pro microsd express nintendo switch 2",
+   "specs": {
+    "capacityTb": 0.256,
+    "interface": "microSD Express",
+    "mediaType": "microSD Express",
+    "readMbps": 900,
+    "writeMbps": 600,
+    "configurations": "256GB, 512GB, 1TB"
+   },
+   "sources": {
+    "product": "https://americas.lexar.com/product/lexar-play-pro-microsdxc-express-card/",
+    "retrievedAt": "2026-09-28"
+   },
+   "notes": "Estimated USD street price: americas.lexar.com lists no direct price (only 'Where to buy' retailer links), so the price is a TrustKart estimate for the base capacity.",
+   "image": {
+    "url": "https://americas.lexar.com/wp-content/uploads/2025/03/PLAY_Pro_microSDXC_1TB_Photo1-1.png",
+    "page": "https://americas.lexar.com/product/lexar-play-pro-microsdxc-express-card/",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official Lexar product image (americas.lexar.com product page media); Lexar has not granted a reuse license - rights not verified.",
+    "alt": "Lexar PLAY PRO 1TB microSDXC Express card, red with play icon, front view",
+    "match": "EXACT",
+    "credit": "Lexar",
+    "allowLowRes": true
+   },
+   "collections": [
+    "gaming-monsters"
+   ],
+   "featured": false
+  },
+  {
+   "category": "flash-drives-memory-cards",
+   "sku": "TK-LEXAR-PLAY-MICROSD",
+   "slug": "lexar-play-microsdxc-uhs-i",
+   "name": "Lexar PLAY microSDXC UHS-I Card",
+   "brand": "Lexar",
+   "price": "29.99",
+   "priceBasis": "estimate",
+   "summary": "A2 microSD for handhelds, phones and tablets with reads up to 205MB/s and writes up to 140MB/s, 256GB to 1TB.",
+   "description": "The Lexar PLAY microSDXC UHS-I card is aimed at portable gaming devices, smartphones and tablets, with reads up to 205MB/s, writes up to 140MB/s and A2-rated app performance. It is offered in 256GB, 512GB and 1TB.",
+   "keywords": "lexar play microsd steam deck handheld a2",
+   "specs": {
+    "capacityTb": 0.256,
+    "interface": "UHS-I",
+    "mediaType": "microSD",
+    "readMbps": 205,
+    "writeMbps": 140,
+    "configurations": "256GB, 512GB, 1TB"
+   },
+   "sources": {
+    "product": "https://americas.lexar.com/product/lexar-play-microsdxc-uhs-i-card/",
+    "retrievedAt": "2026-09-28"
+   },
+   "notes": "Estimated USD street price: americas.lexar.com lists no direct price (only 'Where to buy' retailer links), so the price is a TrustKart estimate for the base capacity.",
+   "image": {
+    "url": "https://americas.lexar.com/wp-content/uploads/2025/04/PLAY_microSDXC_UHS-I-Card_205MBs_1TB_Photo1.png",
+    "page": "https://americas.lexar.com/product/lexar-play-microsdxc-uhs-i-card/",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official Lexar product image (americas.lexar.com product page media); Lexar has not granted a reuse license - rights not verified.",
+    "alt": "Lexar PLAY 1TB microSDXC UHS-I card, red with play icon, front view",
+    "match": "EXACT",
+    "credit": "Lexar",
+    "allowLowRes": true
+   },
+   "featured": false
+  },
+  {
+   "category": "flash-drives-memory-cards",
+   "sku": "TK-LEXAR-JUMPDRIVE-D500",
+   "slug": "lexar-jumpdrive-solid-state-dual-drive-d500",
+   "name": "Lexar JumpDrive Solid State Dual Drive D500 USB 3.2 Gen 1",
+   "brand": "Lexar",
+   "price": "39.99",
+   "priceBasis": "estimate",
+   "summary": "Metal dual-connector (USB-A and USB-C) flash drive with reads up to 400MB/s and writes up to 360-400MB/s, 128GB to 1TB.",
+   "description": "The Lexar JumpDrive Solid State Dual Drive D500 is a cable-free USB 3.2 Gen 1 drive with both USB-A and USB-C connectors in a metal housing. Lexar rates it at up to 400MB/s reads and 360MB/s writes (128GB), with photo backup through the Lexar App on iOS and Android. Capacities run to 1TB.",
+   "keywords": "lexar jumpdrive d500 dual drive usb-c usb-a solid state",
+   "specs": {
+    "capacityTb": 0.128,
+    "interface": "USB 3.2 Gen 1 (USB-C + USB-A)",
+    "mediaType": "USB flash drive",
+    "readMbps": 400,
+    "writeMbps": 360,
+    "configurations": "128GB, 256GB, 512GB, 1TB"
+   },
+   "sources": {
+    "product": "https://americas.lexar.com/product/lexar-jumpdrive-solid-state-dual-drive-d500-usb-3-2-gen-1-type-c/",
+    "retrievedAt": "2026-09-28"
+   },
+   "notes": "Estimated USD street price: americas.lexar.com lists no direct price (only 'Where to buy' retailer links), so the price is a TrustKart estimate for the base capacity.",
+   "image": {
+    "url": "https://americas.lexar.com/wp-content/uploads/2026/03/D500_USB_Photo1.png",
+    "page": "https://americas.lexar.com/product/lexar-jumpdrive-solid-state-dual-drive-d500-usb-3-2-gen-1-type-c/",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official Lexar product image (americas.lexar.com product page media); Lexar has not granted a reuse license - rights not verified.",
+    "alt": "Lexar JumpDrive Solid State Dual Drive D500 in dark grey metal, vertical view showing USB-C connector",
+    "match": "EXACT",
+    "credit": "Lexar"
+   },
+   "featured": false
+  },
+  {
+   "category": "flash-drives-memory-cards",
+   "priceAsOf": "2026-09-28",
+   "sku": "TK-SANDISK-EXTPRO-DUAL-DRIVE",
+   "slug": "sandisk-extreme-pro-dual-drive",
+   "name": "SanDisk Extreme PRO Dual Drive",
+   "brand": "SanDisk",
+   "price": "96.99",
+   "priceBasis": "starting-at",
+   "priceSource": "https://www.sandisk.com/products/usb-flash-drives/sandisk-extreme-pro-dual-drive-usb",
+   "releaseYear": 2025,
+   "summary": "Metal USB-C/USB-A dual flash drive with up to 1000MB/s reads and 900MB/s writes over USB 3.2 Gen 2, 256GB to 2TB.",
+   "description": "The SanDisk Extreme PRO Dual Drive combines USB-C and USB-A connectors in a metal body and runs at up to 1000MB/s reads and 900MB/s writes over USB 3.2 Gen 2. It weighs 23 g, is sold from 256GB to 2TB, and carries a lifetime limited warranty.",
+   "keywords": "sandisk extreme pro dual drive usb-c usb-a 1000mb/s metal",
+   "specs": {
+    "capacityTb": 0.256,
+    "interface": "USB 3.2 Gen 2 (USB-C + USB-A)",
+    "mediaType": "USB flash drive",
+    "readMbps": 1000,
+    "writeMbps": 900
+   },
+   "variants": [
+    {
+     "label": "256GB",
+     "price": "96.99"
+    },
+    {
+     "label": "512GB",
+     "price": "172.99"
+    },
+    {
+     "label": "1TB",
+     "price": "337.99"
+    },
+    {
+     "label": "2TB",
+     "price": "649.99"
+    }
+   ],
+   "sources": {
+    "product": "https://www.sandisk.com/products/usb-flash-drives/sandisk-extreme-pro-dual-drive-usb",
+    "retrievedAt": "2026-09-28"
+   },
+   "collections": [
+    "developer-setup"
+   ],
+   "image": {
+    "url": "https://www.sandisk.com/content/dam/store/en-us/assets/products/usb-flash-drives/extreme-pro-dual-drive-usb/gallery/sandisk-extreme-pro-dual-drive-usb-closed.png",
+    "page": "https://www.sandisk.com/products/usb-flash-drives/sandisk-extreme-pro-dual-drive-usb",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official SanDisk store product image (www.sandisk.com); SanDisk has not granted a reuse license - rights not verified.",
+    "alt": "SanDisk Extreme PRO Dual Drive, metal dual USB-C and USB-A flash drive, closed",
+    "match": "EXACT",
+    "credit": "SanDisk"
+   },
+   "featured": false
+  },
+  {
+   "category": "flash-drives-memory-cards",
+   "priceAsOf": "2026-09-28",
+   "sku": "TK-SANDISK-CREATOR-SD-UHSII",
+   "slug": "sandisk-creator-sd-uhs-ii-card",
+   "name": "SanDisk Creator SD UHS-II Card",
+   "brand": "SanDisk",
+   "price": "149.99",
+   "priceBasis": "starting-at",
+   "priceSource": "https://www.sandisk.com/products/memory-cards/sd-cards/sandisk-creator-sd-uhs-ii-memory-card",
+   "releaseYear": 2024,
+   "summary": "Creator Series UHS-II SD card with reads up to 280MB/s and writes up to 150MB/s (256GB and up), for 6K video.",
+   "description": "Part of the SanDisk Creator Series, this UHS-II SDXC card reads at up to 280MB/s and writes at 100MB/s (128GB) or 150MB/s (256GB-1TB), keeping up with 6K video in UHS-II cameras. Lifetime limited warranty.",
+   "keywords": "sandisk creator sd uhs-ii 6k video content creator",
+   "specs": {
+    "capacityTb": 0.128,
+    "interface": "UHS-II",
+    "mediaType": "SD",
+    "readMbps": 280,
+    "writeMbps": 100
+   },
+   "variants": [
+    {
+     "label": "128GB",
+     "price": "149.99"
+    },
+    {
+     "label": "256GB",
+     "price": "288.99"
+    },
+    {
+     "label": "512GB",
+     "price": "424.99"
+    },
+    {
+     "label": "1TB",
+     "price": "699.99"
+    }
+   ],
+   "sources": {
+    "product": "https://www.sandisk.com/products/memory-cards/sd-cards/sandisk-creator-sd-uhs-ii-memory-card",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://www.sandisk.com/content/dam/store/en-us/assets/products/memory-cards/creator-sd-uhs-ii-memory-card/gallery/creator-sd-uhs-ii-memory-card-128gb-angle.png",
+    "page": "https://www.sandisk.com/products/memory-cards/sd-cards/sandisk-creator-sd-uhs-ii-memory-card",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official SanDisk store product image (www.sandisk.com); SanDisk has not granted a reuse license - rights not verified.",
+    "alt": "SanDisk Creator SD UHS-II 128GB card, angled front view",
+    "match": "EXACT",
+    "credit": "SanDisk"
+   },
+   "featured": false
+  },
+  {
+   "category": "flash-drives-memory-cards",
+   "sku": "TK-PNY-PRO-ELITE-V3-USBC",
+   "slug": "pny-pro-elite-v3-type-c-flash-drive",
+   "name": "PNY PRO Elite V3 Type-C USB 3.2 Gen 2 Flash Drive",
+   "brand": "PNY",
+   "price": "34.99",
+   "priceBasis": "estimate",
+   "summary": "USB-C flash drive with reads up to 1000MB/s and writes up to 800MB/s, for iPhone 15 and newer, iPad, Android and computers.",
+   "description": "The PNY PRO Elite V3 Type-C uses USB 3.2 Gen 2 for reads up to 1000MB/s and writes up to 800MB/s, and plugs straight into Type-C phones and tablets such as iPhone 15 and newer for access from the built-in Files app. It is offered in 256GB, 512GB, 1TB and 2TB.",
+   "keywords": "pny pro elite v3 usb-c flash drive 1000mb/s iphone",
+   "specs": {
+    "capacityTb": 0.256,
+    "interface": "USB 3.2 Gen 2 (USB-C)",
+    "mediaType": "USB flash drive",
+    "readMbps": 1000,
+    "writeMbps": 800,
+    "configurations": "256GB, 512GB, 1TB, 2TB"
+   },
+   "sources": {
+    "product": "https://www.pny.com/pro-elite-v3-type-c-usb-3-2-gen-2-flash-drive",
+    "retrievedAt": "2026-09-28"
+   },
+   "notes": "Estimated USD price: pny.com renders prices client-side and no official price could be read with a normal request, so the base-capacity price is a TrustKart estimate.",
+   "image": {
+    "url": "https://d2vfia6k6wrouk.cloudfront.net/productimages/f95a2b9f-bad5-482e-8a93-b27a00b73475/images/pny-pro-elite-v3-type-c-usb-3.2-ra.png",
+    "page": "https://www.pny.com/pro-elite-v3-type-c-usb-3-2-gen-2-flash-drive",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official PNY product image (pny.com product gallery, CloudFront CDN); PNY has not granted a reuse license - rights not verified.",
+    "alt": "PNY PRO Elite V3 Type-C flash drive, black sliding design, angled view",
+    "match": "EXACT",
+    "credit": "PNY"
+   },
+   "featured": false
+  },
+  {
+   "category": "flash-drives-memory-cards",
+   "sku": "TK-PNY-PRO-ELITE-V3-USBA",
+   "slug": "pny-pro-elite-v3-usb-flash-drive",
+   "name": "PNY PRO Elite V3 USB 3.2 Gen 2 Flash Drive",
+   "brand": "PNY",
+   "price": "34.99",
+   "priceBasis": "estimate",
+   "summary": "Metal USB-A flash drive rated up to 1000MB/s reads and 800MB/s writes over USB 3.2 Gen 2, 256GB to 1TB.",
+   "description": "The PNY PRO Elite V3 is a USB 3.2 Gen 2 Type-A flash drive in a premium metal housing, with reads up to 1000MB/s and writes up to 800MB/s for large files and 4K video. It is offered in 256GB, 512GB and 1TB.",
+   "keywords": "pny pro elite v3 usb-a flash drive metal 1000mb/s",
+   "specs": {
+    "capacityTb": 0.256,
+    "interface": "USB 3.2 Gen 2 (USB-A)",
+    "mediaType": "USB flash drive",
+    "readMbps": 1000,
+    "writeMbps": 800,
+    "configurations": "256GB, 512GB, 1TB"
+   },
+   "sources": {
+    "product": "https://www.pny.com/pro-elite-v3-usb-3-2-gen-2-flash-drive",
+    "retrievedAt": "2026-09-28"
+   },
+   "notes": "Estimated USD price: pny.com renders prices client-side and no official price could be read with a normal request, so the base-capacity price is a TrustKart estimate.",
+   "image": {
+    "url": "https://d2vfia6k6wrouk.cloudfront.net/productimages/f3673213-4b87-4a35-a162-b22d00a3212d/images/pny-pro-elite-v3-usb-3.2-1tb-ra.png",
+    "page": "https://www.pny.com/pro-elite-v3-usb-3-2-gen-2-flash-drive",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official PNY product image (pny.com product gallery, CloudFront CDN); PNY has not granted a reuse license - rights not verified.",
+    "alt": "PNY PRO Elite V3 USB-A flash drive 1TB, black metal, angled view with USB connector",
+    "match": "EXACT",
+    "credit": "PNY"
+   },
+   "featured": false
+  },
+  {
+   "category": "flash-drives-memory-cards",
+   "sku": "TK-PNY-ELITEX-PRO90-SD",
+   "slug": "pny-elitex-pro90-uhs-ii-sd-card",
+   "name": "PNY EliteX-PRO90 Class 10 U3 V90 UHS-II SD Card",
+   "brand": "PNY",
+   "price": "39.99",
+   "priceBasis": "estimate",
+   "summary": "V90 UHS-II SD card for 8K video with reads up to 300MB/s and writes up to 280MB/s, 64GB to 256GB.",
+   "description": "PNY's EliteX-PRO90 UHS-II SDXC cards are rated Class 10, U3 and V90, with reads up to 300MB/s and writes up to 280MB/s for sustained 8K capture. They work in UHS-II cameras and fall back to UHS-I speeds in older devices, and carry a lifetime limited warranty.",
+   "keywords": "pny elitex pro90 sd card v90 uhs-ii 8k",
+   "specs": {
+    "capacityTb": 0.064,
+    "interface": "UHS-II",
+    "mediaType": "SD",
+    "readMbps": 300,
+    "writeMbps": 280,
+    "speedClass": "V90",
+    "configurations": "64GB, 128GB, 256GB"
+   },
+   "sources": {
+    "product": "https://www.pny.com/elitex-pro-90-class-10-u3-v90-uhs-ii-sd-flash-memory-card",
+    "retrievedAt": "2026-09-28"
+   },
+   "notes": "Estimated USD price: pny.com renders prices client-side and no official price could be read with a normal request, so the base-capacity price is a TrustKart estimate.",
+   "image": {
+    "url": "https://d2vfia6k6wrouk.cloudfront.net/productimages/a824b4aa-3f77-49d4-9aee-add500bbec71/images/02-pny-flash-memory-cards-sdxc-elitex-pro90-class-10-256gb-la.png",
+    "page": "https://www.pny.com/elitex-pro-90-class-10-u3-v90-uhs-ii-sd-flash-memory-card",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official PNY product image (pny.com product gallery, CloudFront CDN); PNY has not granted a reuse license - rights not verified.",
+    "alt": "PNY EliteX-PRO90 256GB UHS-II SD card, black with green label, angled view",
+    "match": "EXACT",
+    "credit": "PNY"
+   },
+   "featured": false
+  },
+  {
+   "category": "flash-drives-memory-cards",
+   "sku": "TK-PNY-MICROSD-EXPRESS",
+   "slug": "pny-microsd-express-card",
+   "name": "PNY microSD Express Flash Memory Card",
+   "brand": "PNY",
+   "price": "59.99",
+   "priceBasis": "estimate",
+   "summary": "PCIe Gen 3x1 microSD Express card with reads up to 890MB/s and writes up to 850MB/s for Nintendo Switch 2, 128GB to 1TB.",
+   "description": "PNY's microSD Express card uses PCIe Gen 3x1 for reads up to 890MB/s and writes up to 850MB/s, which PNY rates as up to 4.4x faster than standard UHS-I microSD. It is aimed at next-generation hosts such as Nintendo Switch 2 and comes in 128GB, 256GB, 512GB and 1TB.",
+   "keywords": "pny microsd express nintendo switch 2 890mb/s",
+   "specs": {
+    "capacityTb": 0.128,
+    "interface": "microSD Express (PCIe Gen 3x1)",
+    "mediaType": "microSD Express",
+    "readMbps": 890,
+    "writeMbps": 850,
+    "speedClass": "V30",
+    "configurations": "128GB, 256GB, 512GB, 1TB"
+   },
+   "sources": {
+    "product": "https://www.pny.com/pny-microsd-express-u3-v30-a1-microsd-flash-memory-card",
+    "retrievedAt": "2026-09-28"
+   },
+   "notes": "Estimated USD price: pny.com renders prices client-side and no official price could be read with a normal request, so the base-capacity price is a TrustKart estimate.",
+   "image": {
+    "url": "https://d2vfia6k6wrouk.cloudfront.net/productimages/3eaff6cb-c52a-4e2a-97ab-b2df00aa7fbc/images/pny-flash-memory-cards-microsdxc-microsd-express-1tb-ra.png",
+    "page": "https://www.pny.com/pny-microsd-express-u3-v30-a1-microsd-flash-memory-card",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official PNY product image (pny.com product gallery, CloudFront CDN); PNY has not granted a reuse license - rights not verified.",
+    "alt": "PNY microSD Express 1TB card, white with red lettering, angled view",
+    "match": "EXACT",
+    "credit": "PNY"
+   },
+   "collections": [
+    "gaming-monsters"
+   ],
+   "featured": false
+  },
+  {
+   "category": "flash-drives-memory-cards",
+   "priceAsOf": "2026-09-28",
+   "sku": "TK-APRICORN-ASK-3NXC",
+   "slug": "apricorn-aegis-secure-key-3nxc",
+   "name": "Apricorn Aegis Secure Key 3NXC",
+   "brand": "Apricorn",
+   "price": "129.00",
+   "priceBasis": "starting-at",
+   "priceSource": "https://apricorn.com/encrypted-flash-keys/aegis-secure-key-3nxc/",
+   "summary": "FIPS 140-2 Level 3 hardware-encrypted USB-C flash key with an onboard PIN keypad, 4GB to 512GB.",
+   "description": "The Aegis Secure Key 3NXC is a hardware-encrypted USB Type-C flash drive with a built-in keypad for PIN authentication and a rugged, tamper-evident extruded aluminium casing. It is FIPS 140-2 Level 3 certified (NIST cert #4420), transfers at up to 171MB/s read and 160MB/s write over 5Gbps USB-C, and carries a 3-year limited warranty.",
+   "keywords": "apricorn aegis secure key 3nxc encrypted usb-c fips 140-2 keypad",
+   "specs": {
+    "capacityTb": 0.004,
+    "interface": "USB 5Gbps (USB-C)",
+    "mediaType": "Encrypted USB flash drive",
+    "readMbps": 171,
+    "writeMbps": 160,
+    "configurations": "4GB, 8GB, 16GB, 32GB, 64GB, 128GB, 256GB, 512GB"
+   },
+   "warranty": 36,
+   "sources": {
+    "product": "https://apricorn.com/encrypted-flash-keys/aegis-secure-key-3nxc/",
+    "retrievedAt": "2026-09-28"
+   },
+   "collections": [
+    "security-lab"
+   ],
+   "notes": "Apricorn lists a $129.00-$959.00 range across capacities; per-capacity prices are selected client-side and were not captured.",
+   "image": {
+    "url": "https://cdn11.bigcommerce.com/s-f03ct9juwu/images/stencil/1280x1280/products/1120/3433/ask3nxc_diagonal_unsheath_metalsleeve_1280__45724.1752274112.png",
+    "page": "https://apricorn.com/encrypted-flash-keys/aegis-secure-key-3nxc/",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official Apricorn store product image (apricorn.com, BigCommerce CDN); Apricorn has not granted a reuse license - rights not verified.",
+    "alt": "Apricorn Aegis Secure Key 3NXC encrypted USB-C drive with keypad, shown beside its sleeve",
+    "match": "EXACT",
+    "credit": "Apricorn"
+   },
+   "featured": false
+  },
+  {
+   "category": "flash-drives-memory-cards",
+   "priceAsOf": "2026-09-28",
+   "sku": "TK-APRICORN-ASK-3NX",
+   "slug": "apricorn-aegis-secure-key-3nx",
+   "name": "Apricorn Aegis Secure Key 3NX",
+   "brand": "Apricorn",
+   "price": "129.00",
+   "priceBasis": "starting-at",
+   "priceSource": "https://apricorn.com/encrypted-flash-keys/aegis-secure-key-3nx/",
+   "summary": "FIPS 140-2 Level 3 hardware-encrypted USB-A flash key with PIN keypad, IP67 rated, 2GB to 512GB.",
+   "description": "The Aegis Secure Key 3NX is Apricorn's USB Type-A hardware-encrypted flash key with onboard keypad authentication. It is FIPS 140-2 Level 3 certified (NIST cert #4420), IP67 rated, transfers at up to 171MB/s read and 160MB/s write, and carries a 3-year limited warranty.",
+   "keywords": "apricorn aegis secure key 3nx encrypted usb fips keypad",
+   "specs": {
+    "capacityTb": 0.002,
+    "interface": "USB 5Gbps (USB-A)",
+    "mediaType": "Encrypted USB flash drive",
+    "readMbps": 171,
+    "writeMbps": 160,
+    "configurations": "2GB, 4GB, 8GB, 16GB, 32GB, 64GB, 128GB, 256GB, 512GB"
+   },
+   "warranty": 36,
+   "sources": {
+    "product": "https://apricorn.com/encrypted-flash-keys/aegis-secure-key-3nx/",
+    "retrievedAt": "2026-09-28"
+   },
+   "collections": [
+    "security-lab"
+   ],
+   "notes": "Apricorn lists a $129.00-$959.00 range across capacities; per-capacity prices were not captured.",
+   "image": {
+    "url": "https://cdn11.bigcommerce.com/s-f03ct9juwu/images/stencil/1280x1280/products/247/3437/ask3nx_diagonal_unsheath_metalsleeve1280__94837.1752275389.png",
+    "page": "https://apricorn.com/encrypted-flash-keys/aegis-secure-key-3nx/",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official Apricorn store product image (apricorn.com, BigCommerce CDN); Apricorn has not granted a reuse license - rights not verified.",
+    "alt": "Apricorn Aegis Secure Key 3NX encrypted USB-A drive with keypad, shown beside its sleeve",
+    "match": "EXACT",
+    "credit": "Apricorn"
+   },
+   "featured": false
+  },
+  {
+   "category": "flash-drives-memory-cards",
+   "priceAsOf": "2026-09-28",
+   "sku": "TK-APRICORN-ASK-3-0",
+   "slug": "apricorn-aegis-secure-key-3-0",
+   "name": "Apricorn Aegis Secure Key 3.0",
+   "brand": "Apricorn",
+   "price": "169.00",
+   "priceBasis": "starting-at",
+   "priceSource": "https://apricorn.com/aegis-secure-key-3-0/",
+   "summary": "FIPS 140-3 Level 3 validated encrypted flash key with keypad, up to 220MB/s reads, capacities from 16GB to 4TB.",
+   "description": "The Aegis Secure Key 3.0 is a keypad-authenticated, hardware-encrypted USB 3.2 flash key that is FIPS 140-3 Level 3 validated (certification #5517) and IP68 rated. It transfers at up to 220MB/s read and 210MB/s write, is offered from 16GB to 4TB, and carries a 3-year limited warranty.",
+   "keywords": "apricorn aegis secure key 3.0 fips 140-3 encrypted 4tb",
+   "specs": {
+    "capacityTb": 0.016,
+    "interface": "USB 3.2 (USB-A)",
+    "mediaType": "Encrypted USB flash drive",
+    "readMbps": 220,
+    "writeMbps": 210,
+    "configurations": "16GB, 30GB, 60GB, 120GB, 240GB, 480GB, 1TB, 2TB, 4TB"
+   },
+   "warranty": 36,
+   "sources": {
+    "product": "https://apricorn.com/aegis-secure-key-3-0/",
+    "retrievedAt": "2026-09-28"
+   },
+   "collections": [
+    "security-lab"
+   ],
+   "featured": true,
+   "notes": "Apricorn lists a $169.00-$2,999.00 range across capacities; per-capacity prices were not captured.",
+   "image": {
+    "url": "https://cdn11.bigcommerce.com/s-f03ct9juwu/images/stencil/1280x1280/products/216/3454/product_page_aegis_secure_key_3_carousel1__85016.1783980922.png",
+    "page": "https://apricorn.com/aegis-secure-key-3-0/",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official Apricorn store product image (apricorn.com, BigCommerce CDN); Apricorn has not granted a reuse license - rights not verified.",
+    "alt": "Apricorn Aegis Secure Key 3.0 encrypted drive with keypad and blue ring, beside its sleeve",
+    "match": "EXACT",
+    "credit": "Apricorn"
+   }
+  }
+ ]
+}
