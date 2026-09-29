@@ -27,6 +27,7 @@ import com.vijaysinghpuwar.trustkart.catalog.infra.CategoryRepository;
 import com.vijaysinghpuwar.trustkart.catalog.infra.ProductRepository;
 import com.vijaysinghpuwar.trustkart.catalog.infra.ProductSearchRepository;
 import com.vijaysinghpuwar.trustkart.catalog.infra.SpecDefinitionRepository;
+import com.vijaysinghpuwar.trustkart.common.cache.Memo;
 import com.vijaysinghpuwar.trustkart.common.error.ApiError;
 import com.vijaysinghpuwar.trustkart.common.error.ApiException;
 import com.vijaysinghpuwar.trustkart.common.error.ErrorCode;
@@ -35,11 +36,14 @@ import com.vijaysinghpuwar.trustkart.common.error.ValidationException;
 import com.vijaysinghpuwar.trustkart.common.money.MoneyWire;
 import java.math.BigDecimal;
 import java.time.Clock;
+import java.time.Duration;
 import java.time.LocalDate;
 import java.util.ArrayList;
 import java.util.Collection;
 import java.util.Collections;
 import java.util.Comparator;
+import java.util.HashMap;
+import java.util.HashSet;
 import java.util.LinkedHashMap;
 import java.util.LinkedHashSet;
 import java.util.List;
@@ -48,6 +52,7 @@ import java.util.Objects;
 import java.util.Optional;
 import java.util.Set;
 import java.util.stream.Collectors;
+import org.springframework.context.event.EventListener;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
 
@@ -78,6 +83,14 @@ public class CatalogService {
     private final ProductSearchRepository search;
     private final CatalogFacetRepository facets;
     private final Clock clock;
+    /**
+     * Home and the category tree are public, identical for every visitor and already sent with
+     * {@code Cache-Control: public, max-age=60}; building them costs about 20 queries. Cached briefly in process and
+     * dropped whenever the catalog is reseeded. Stock counts on home cards can therefore be up to a minute old; the
+     * product page and checkout always read live stock.
+     */
+    private final Memo<HomeDto> homeCache = new Memo<>(Duration.ofSeconds(60), this::buildHome);
+    private final Memo<List<CategoryDto>> treeCache = new Memo<>(Duration.ofMinutes(5), this::buildCategoryTree);
 
     public CatalogService(CategoryRepository categories, SpecDefinitionRepository specDefinitions,
             ProductRepository products, ProductSearchRepository search, CatalogFacetRepository facets, Clock clock) {
@@ -94,6 +107,16 @@ public class CatalogService {
     }
 
     public List<CategoryDto> categoryTree() {
+        return treeCache.get();
+    }
+
+    @EventListener
+    void onCatalogChanged(CatalogChanged event) {
+        homeCache.clear();
+        treeCache.clear();
+    }
+
+    private List<CategoryDto> buildCategoryTree() {
         CategoryTree tree = tree();
         Map<Long, Long> direct = facets.countsByCategory();
         return tree.roots().stream().map(r -> toCategoryDto(tree, r, direct)).toList();
@@ -212,6 +235,33 @@ public class CatalogService {
         }
     }
 
+    /** Prices option choices for a set of products loaded up front. */
+    @FunctionalInterface
+    public interface OptionPricer {
+        /** Empty when the product is gone or the stored choice no longer exists; never throws. */
+        Optional<ResolvedOptions> resolveIfValid(long productId, Map<String, String> selection);
+    }
+
+    /**
+     * Loads every product once (one query) so a cart or checkout with many lines doesn't look each product up again
+     * per line. Must be used inside the caller's transaction.
+     */
+    public OptionPricer optionPricer(Collection<Long> productIds) {
+        Map<Long, Product> byId = new HashMap<>();
+        products.findAllById(new HashSet<>(productIds)).forEach(p -> byId.put(p.getId(), p));
+        return (productId, selection) -> {
+            Product product = byId.get(productId);
+            if (product == null) {
+                return Optional.empty();
+            }
+            try {
+                return Optional.of(resolve(product, selection == null ? Map.of() : selection));
+            } catch (ValidationException e) {
+                return Optional.empty();
+            }
+        };
+    }
+
     private static ResolvedOptions resolve(Product product, Map<String, String> selection) {
         List<ProductOptions.Group> groups = product.getOptions();
         List<ApiError.FieldError> errors = new ArrayList<>();
@@ -315,6 +365,10 @@ public class CatalogService {
     private static final int HERO_SLIDES = 5;
 
     public HomeDto home() {
+        return homeCache.get();
+    }
+
+    private HomeDto buildHome() {
         List<ProductSummary> dealSummaries = search.search(ProductQuery.browse(24).withOnSale(ProductSort.DISCOUNT)).items();
         List<ProductCardDto> deals = dealSummaries.stream().limit(12).map(CatalogMapper::card).toList();
         ProductQuery featuredQuery = new ProductQuery(List.of(), false, List.of(), List.of(), null, null, false, false,

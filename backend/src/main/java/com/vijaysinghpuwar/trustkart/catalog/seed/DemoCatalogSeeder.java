@@ -1,5 +1,6 @@
 package com.vijaysinghpuwar.trustkart.catalog.seed;
 
+import com.vijaysinghpuwar.trustkart.catalog.application.CatalogChanged;
 import com.vijaysinghpuwar.trustkart.catalog.domain.Brand;
 import com.vijaysinghpuwar.trustkart.catalog.domain.Category;
 import com.vijaysinghpuwar.trustkart.catalog.domain.ImageMatch;
@@ -40,6 +41,7 @@ import java.util.Set;
 import java.util.stream.Collectors;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
+import org.springframework.context.ApplicationEventPublisher;
 import org.springframework.core.io.ClassPathResource;
 import org.springframework.core.io.Resource;
 import org.springframework.core.io.support.PathMatchingResourcePatternResolver;
@@ -89,11 +91,13 @@ public class DemoCatalogSeeder {
     private final CatalogFacetRepository facets;
     private final JdbcClient jdbc;
     private final TransactionTemplate tx;
+    private final ApplicationEventPublisher events;
 
     public DemoCatalogSeeder(ObjectMapper mapper, CategoryRepository categories, SpecDefinitionRepository specDefinitions,
             BrandRepository brands, ProductRepository products, CatalogFacetRepository facets, JdbcClient jdbc,
-            PlatformTransactionManager transactions) {
+            PlatformTransactionManager transactions, ApplicationEventPublisher events) {
         this.mapper = mapper;
+        this.events = events;
         this.jdbc = jdbc;
         this.tx = new TransactionTemplate(transactions);
         this.categories = categories;
@@ -159,6 +163,7 @@ public class DemoCatalogSeeder {
                             ON CONFLICT (id) DO UPDATE SET fingerprint = :f, products = :n, seeded_at = now()""")
                     .param("f", fingerprint).param("n", productSeeds.size()).update();
         });
+        events.publishEvent(new CatalogChanged());
         log.info("Demo catalog seeded: {} categories created, {} products created, {} already present ({} images refreshed)",
                 created[0], counts[0], counts[1], counts[2]);
         return new Result(created[0], counts[0], counts[1]);

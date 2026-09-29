@@ -104,6 +104,15 @@ public class LeaderboardService {
         });
     }
 
+    /**
+     * The user's rank if they are on the (cached) top list for the period, without running a ranking query. Enough for
+     * milestone checks, whose tiers all sit inside the top lists.
+     */
+    @Transactional(readOnly = true)
+    public java.util.OptionalInt topListRank(LeaderboardPeriod period, long userId) {
+        return cached(period).rows().stream().filter(r -> r.userId() == userId).mapToInt(Row::rank).findFirst();
+    }
+
     /** Ranked rows with internal ids, for the admin reconciliation only; never serialized to clients. */
     @Transactional(readOnly = true)
     List<Row> rows(LeaderboardPeriod period) {

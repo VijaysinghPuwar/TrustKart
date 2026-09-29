@@ -97,7 +97,8 @@ public class PurchaseService {
     /** Read-only preview priced by the server. Creates the wallet (with its starting balance) if needed. */
     @Transactional
     public Quote quote(long shopperId, InstantLine instant) {
-        VirtualWallet wallet = wallets.lock(shopperId);
+        // A preview: read the balance without the row lock. Placing the order locks and re-checks everything.
+        VirtualWallet wallet = wallets.current(shopperId);
         List<Priced> lines = price(requestedLines(shopperId, instant), instant != null);
         return toQuote(lines, wallet);
     }
@@ -298,6 +299,7 @@ public class PurchaseService {
     private List<Priced> price(List<Requested> requested, boolean single) {
         Map<Long, ProductSummary> products = catalog.summariesById(requested.stream().map(Requested::productId).toList());
         List<Priced> out = new ArrayList<>();
+        CatalogService.OptionPricer pricer = catalog.optionPricer(requested.stream().map(Requested::productId).toList());
         for (Requested r : requested) {
             ProductSummary p = products.get(r.productId());
             if (p == null) {
@@ -317,7 +319,7 @@ public class PurchaseService {
             String label = null;
             String image = p.image() == null ? null : p.image().small();
             // Resolve without throwing: an exception inside this transaction would mark it rollback-only.
-            var resolved = catalog.resolveOptionsIfValid(p.id(), r.options());
+            var resolved = pricer.resolveIfValid(p.id(), r.options());
             if (resolved.isPresent()) {
                 unit = resolved.get().unitPrice();
                 label = resolved.get().label();

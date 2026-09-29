@@ -37,7 +37,9 @@ public class CartService {
     @Transactional(readOnly = true)
     public CartView view(long shopperId) {
         List<CartItem> all = items.findByShopperIdOrderByAddedAtAsc(shopperId);
-        Map<Long, ProductSummary> products = catalog.summariesById(all.stream().map(CartItem::getProductId).toList());
+        List<Long> ids = all.stream().map(CartItem::getProductId).toList();
+        Map<Long, ProductSummary> products = catalog.summariesById(ids);
+        CatalogService.OptionPricer pricer = catalog.optionPricer(ids);
         List<CartView.Line> active = new ArrayList<>();
         List<CartView.Line> saved = new ArrayList<>();
         BigDecimal subtotal = BigDecimal.ZERO;
@@ -51,7 +53,7 @@ public class CartService {
             BigDecimal unit = p.price();
             String label = null;
             String image = null;
-            var resolved = catalog.resolveOptionsIfValid(p.id(), item.getOptions());
+            var resolved = pricer.resolveIfValid(p.id(), item.getOptions());
             if (resolved.isPresent()) {
                 unit = resolved.get().unitPrice();
                 label = resolved.get().label();
