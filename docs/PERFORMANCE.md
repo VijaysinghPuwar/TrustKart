@@ -16,7 +16,14 @@ A short guide to the performance decisions in this codebase and where to find th
   loads. Placeholders share their real component's sizing (the home banner reuses the same class constants), the
   banner reserves the same lines on every slide, and images carry width and height.
 - **Caching headers.** Hashed assets under `/assets` are `immutable` for a year; HTML is revalidated on every visit;
-  product photos are cached for a week (`vercel.json`). Catalog API responses are `public, max-age=60`.
+  product photos are cached for a week (`vercel.json`).
+- **The catalog doesn't wait for a sleeping server.** The API runs on a free instance that sleeps after 15 idle
+  minutes and takes minutes to wake. Public catalog and search responses are sent with
+  `max-age=60, s-maxage=300, stale-while-revalidate=604800, stale-if-error=604800` (`common/web/PublicCache.java`),
+  so Vercel's edge serves its last copy instantly and refreshes it in the background; the visit itself wakes the
+  API. These responses never set cookies (the CSRF cookie is skipped for them; writes are still checked), so they
+  are safe to share. Only small personal header data (account, balance, cart count) waits for the API, and the
+  "starting up" notice ignores it.
 
 ## Images
 

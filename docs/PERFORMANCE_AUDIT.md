@@ -139,5 +139,8 @@ and 1920 px as a signed-in shopper with orders and a cart.
 - **Phone product cards use the 800 px image** on 3x screens (about 38 KB each). A 600 px variant would cut that
   by roughly a third without visible loss; it belongs in the catalog image pipeline.
 - **Facets** still run one query per filterable spec (16 for laptops). Cached HTTP responses hide most of it.
-- **Render cold starts** (free plan) take about 3 minutes; the keep-warm workflow and the "starting up" notice
-  cover it.
+- **Render cold starts** (free plan) take about 3 minutes. Since 2026-09-29 the public catalog is served from
+  Vercel's edge while the API wakes: on the live site, home data and categories return `x-vercel-cache: HIT` in
+  0.1 to 0.4 s with no cookie, and a fresh browser showed the home banner after 274 ms. The edge cache is per
+  region, so the very first visitor in a region can still wait for the API; the keep-warm workflow (GitHub may
+  delay scheduled runs) or an external uptime monitor pinging `/api/v1/catalog/home` covers that.
