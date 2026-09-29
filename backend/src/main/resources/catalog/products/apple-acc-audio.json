@@ -1,0 +1,3106 @@
+{
+ "products": [
+  {
+   "sku": "TK-BEATS-360",
+   "slug": "beats-360-over-ear-headphones",
+   "name": "Beats 360 Over-Ear Headphones",
+   "brand": "Beats",
+   "category": "headphones",
+   "price": "349.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    39,
+    5
+   ],
+   "featured": true,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "apple-ecosystem"
+   ],
+   "summary": "Beats' sport-focused over-ear noise-cancelling headphones with IPX4 sweat and water resistance and swappable ear and headband cushions.",
+   "description": "Beats 360 are over-ear Active Noise Cancelling headphones built for active lifestyles, with interchangeable, detachable cushions for the ear cups and headband. Apple says ANC delivers up to 1.75x more noise cancellation than Beats Studio Pro, and they are Beats' first sweat- and water-resistant over-ear headphones (IPX4). Beats rates battery life at up to 32 hours with ANC on.",
+   "keywords": "beats 360 over ear anc sport headphones ipx4 workout",
+   "specs": {
+    "connectivity": "Bluetooth",
+    "noiseCancelling": true,
+    "batteryHours": 32,
+    "waterResistance": "IPX4",
+    "weightG": 294.5,
+    "connectionDetails": "Wireless Bluetooth; interchangeable performance knit or UltraPlush cushions",
+    "colors": "Black with Black, Cloud with Cloud, Pink with Pink, Sky with Sky"
+   },
+   "options": [
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Black with Black",
+       "default": true,
+       "image": {
+        "small": "/images/catalog/beats-360-over-ear-headphones--black-with-black-400.webp",
+        "large": "/images/catalog/beats-360-over-ear-headphones--black-with-black-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Beats 360 Over-Ear Headphones in Black with Black, official Apple Store product image"
+       }
+      },
+      {
+       "label": "Cloud with Cloud",
+       "image": {
+        "small": "/images/catalog/beats-360-over-ear-headphones--cloud-with-cloud-400.webp",
+        "large": "/images/catalog/beats-360-over-ear-headphones--cloud-with-cloud-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Beats 360 Over-Ear Headphones in Cloud with Cloud, official Apple Store product image"
+       }
+      },
+      {
+       "label": "Pink with Pink",
+       "image": {
+        "small": "/images/catalog/beats-360-over-ear-headphones--pink-with-pink-400.webp",
+        "large": "/images/catalog/beats-360-over-ear-headphones--pink-with-pink-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Beats 360 Over-Ear Headphones in Pink with Pink, official Apple Store product image"
+       }
+      },
+      {
+       "label": "Sky with Sky",
+       "image": {
+        "small": "/images/catalog/beats-360-over-ear-headphones--sky-with-sky-400.webp",
+        "large": "/images/catalog/beats-360-over-ear-headphones--sky-with-sky-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Beats 360 Over-Ear Headphones in Sky with Sky, official Apple Store product image"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "sku": "TK-BEATS-STUDIOPRO",
+   "slug": "beats-studio-pro",
+   "name": "Beats Studio Pro Wireless Headphones",
+   "brand": "Beats",
+   "category": "headphones",
+   "price": "299.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    36,
+    5
+   ],
+   "featured": true,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "apple-ecosystem"
+   ],
+   "summary": "Over-ear wireless headphones with Active Noise Cancelling, Transparency mode, USB-C lossless audio and up to 40 hours of battery life.",
+   "description": "Beats Studio Pro are over-ear wireless headphones with Active Noise Cancelling and Transparency mode, Personalized Spatial Audio and Beats' most powerful custom acoustic platform. They connect over Class 1 Bluetooth, USB-C audio or a 3.5 mm analog input, and deliver up to 40 hours of battery life with ANC off (up to 24 hours with ANC or Transparency on). Fast Fuel gives up to 4 hours of playback from a 10-minute charge.",
+   "keywords": "beats studio pro anc over ear wireless headphones usb-c lossless",
+   "specs": {
+    "connectivity": "Bluetooth",
+    "noiseCancelling": true,
+    "batteryHours": 40,
+    "weightG": 260,
+    "connectionDetails": "Class 1 Bluetooth; USB-C lossless audio; 3.5 mm analog input",
+    "colors": "Black, Navy, Sandstone, Deep Brown"
+   },
+   "options": [
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Black",
+       "default": true,
+       "image": {
+        "small": "/images/catalog/beats-studio-pro--black-400.webp",
+        "large": "/images/catalog/beats-studio-pro--black-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Beats Studio Pro Wireless Headphones in Black, official Apple Store product image"
+       }
+      },
+      {
+       "label": "Navy",
+       "image": {
+        "small": "/images/catalog/beats-studio-pro--navy-400.webp",
+        "large": "/images/catalog/beats-studio-pro--navy-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Beats Studio Pro Wireless Headphones in Navy, official Apple Store product image"
+       }
+      },
+      {
+       "label": "Sandstone",
+       "image": {
+        "small": "/images/catalog/beats-studio-pro--sandstone-400.webp",
+        "large": "/images/catalog/beats-studio-pro--sandstone-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Beats Studio Pro Wireless Headphones in Sandstone, official Apple Store product image"
+       }
+      },
+      {
+       "label": "Deep Brown",
+       "image": {
+        "small": "/images/catalog/beats-studio-pro--deep-brown-400.webp",
+        "large": "/images/catalog/beats-studio-pro--deep-brown-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Beats Studio Pro Wireless Headphones in Deep Brown, official Apple Store product image"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "sku": "TK-BEATS-SOLO4",
+   "slug": "beats-solo-4",
+   "name": "Beats Solo 4 On-Ear Wireless Headphones",
+   "brand": "Beats",
+   "category": "headphones",
+   "price": "199.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    12,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "apple-ecosystem"
+   ],
+   "summary": "Lightweight 217 g on-ear wireless headphones with up to 50 hours of battery life, Spatial Audio and lossless audio over USB-C or 3.5 mm.",
+   "description": "Beats Solo 4 use custom 40 mm transducers and Personalized Spatial Audio with dynamic head tracking. They offer up to 50 hours of battery life, Fast Fuel (10 minutes gives up to 5 hours), and lossless audio via USB-C or the 3.5 mm cable, which needs no battery power. Solo 4 weigh 217 g and support one-touch pairing and Find My on iOS and Android.",
+   "keywords": "beats solo 4 on ear wireless headphones 50 hour battery",
+   "specs": {
+    "connectivity": "Bluetooth",
+    "noiseCancelling": false,
+    "batteryHours": 50,
+    "drivers": "40 mm custom transducers",
+    "weightG": 217,
+    "connectionDetails": "Class 1 Bluetooth; USB-C and 3.5 mm lossless audio",
+    "colors": "Matte Black, Slate Blue, Cloud Pink"
+   },
+   "options": [
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Matte Black",
+       "default": true,
+       "image": {
+        "small": "/images/catalog/beats-solo-4--matte-black-400.webp",
+        "large": "/images/catalog/beats-solo-4--matte-black-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Beats Solo 4 On-Ear Wireless Headphones in Matte Black, official Apple Store product image"
+       }
+      },
+      {
+       "label": "Slate Blue",
+       "image": {
+        "small": "/images/catalog/beats-solo-4--slate-blue-400.webp",
+        "large": "/images/catalog/beats-solo-4--slate-blue-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Beats Solo 4 On-Ear Wireless Headphones in Slate Blue, official Apple Store product image"
+       }
+      },
+      {
+       "label": "Cloud Pink",
+       "image": {
+        "small": "/images/catalog/beats-solo-4--cloud-pink-400.webp",
+        "large": "/images/catalog/beats-solo-4--cloud-pink-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Beats Solo 4 On-Ear Wireless Headphones in Cloud Pink, official Apple Store product image"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "sku": "TK-BEATS-POWERBEATSPRO2",
+   "slug": "beats-powerbeats-pro-2",
+   "name": "Beats Powerbeats Pro 2",
+   "brand": "Beats",
+   "category": "earbuds",
+   "price": "249.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    41,
+    5
+   ],
+   "featured": true,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "apple-ecosystem"
+   ],
+   "summary": "Ear-hook sport earbuds with Apple H2 chip, Active Noise Cancelling, heart rate monitoring, IPX4 and up to 45 hours with the case.",
+   "description": "Powerbeats Pro 2 are high-performance ear-hook earbuds powered by the Apple H2 chip, with Active Noise Cancelling, Transparency mode, Personalized Spatial Audio and built-in heart rate monitoring for workouts. Each bud plays up to 10 hours, up to 45 hours with the charging case, which is 33% smaller and supports wireless charging. They are sweat and water resistant (IPX4).",
+   "keywords": "powerbeats pro 2 earbuds ear hook heart rate h2 anc workout",
+   "specs": {
+    "connectivity": "Bluetooth",
+    "noiseCancelling": true,
+    "batteryHours": 45,
+    "waterResistance": "IPX4",
+    "connectionDetails": "Apple H2 chip; Class 1 Bluetooth; wireless-charging case",
+    "colors": "Jet Black, Quick Sand, Hyper Purple, Electric Orange"
+   },
+   "options": [
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Jet Black",
+       "default": true,
+       "image": {
+        "small": "/images/catalog/beats-powerbeats-pro-2--jet-black-400.webp",
+        "large": "/images/catalog/beats-powerbeats-pro-2--jet-black-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Beats Powerbeats Pro 2 in Jet Black, official Apple Store product image"
+       }
+      },
+      {
+       "label": "Quick Sand",
+       "image": {
+        "small": "/images/catalog/beats-powerbeats-pro-2--quick-sand-400.webp",
+        "large": "/images/catalog/beats-powerbeats-pro-2--quick-sand-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Beats Powerbeats Pro 2 in Quick Sand, official Apple Store product image"
+       }
+      },
+      {
+       "label": "Hyper Purple",
+       "image": {
+        "small": "/images/catalog/beats-powerbeats-pro-2--hyper-purple-400.webp",
+        "large": "/images/catalog/beats-powerbeats-pro-2--hyper-purple-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Beats Powerbeats Pro 2 in Hyper Purple, official Apple Store product image"
+       }
+      },
+      {
+       "label": "Electric Orange",
+       "image": {
+        "small": "/images/catalog/beats-powerbeats-pro-2--electric-orange-400.webp",
+        "large": "/images/catalog/beats-powerbeats-pro-2--electric-orange-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Beats Powerbeats Pro 2 in Electric Orange, official Apple Store product image"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "sku": "TK-BEATS-POWERBEATSPRO2-NIKE",
+   "slug": "beats-powerbeats-pro-2-nike-special-edition",
+   "name": "Beats Powerbeats Pro 2 Nike Special Edition",
+   "brand": "Beats",
+   "category": "earbuds",
+   "price": "249.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    37,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "apple-ecosystem"
+   ],
+   "summary": "Beats x Nike special edition of Powerbeats Pro 2 in Black/Volt, with ANC, heart rate monitoring and the Apple H2 chip.",
+   "description": "The Nike Special Edition of Powerbeats Pro 2 is the Beats x Nike version of Beats' ear-hook workout earbuds, finished in Black/Volt. It has the same Apple H2 chip, Active Noise Cancelling, heart rate monitoring, IPX4 sweat and water resistance and up to 45 hours of battery with the charging case.",
+   "keywords": "powerbeats pro 2 nike special edition black volt earbuds",
+   "specs": {
+    "connectivity": "Bluetooth",
+    "noiseCancelling": true,
+    "batteryHours": 45,
+    "waterResistance": "IPX4",
+    "connectionDetails": "Apple H2 chip; Class 1 Bluetooth"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-BEATS-POWERBEATSFIT",
+   "slug": "beats-powerbeats-fit",
+   "name": "Beats Powerbeats Fit",
+   "brand": "Beats",
+   "category": "earbuds",
+   "price": "199.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    46,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "apple-ecosystem"
+   ],
+   "summary": "Wingtip fitness earbuds with Active Noise Cancelling, Apple H1 chip, IPX4 and up to 30 hours of battery with the charging case.",
+   "description": "Powerbeats Fit are true wireless fitness earbuds with secure-fit wingtips, Active Noise Cancelling and Transparency mode. The Apple H1 chip brings Automatic Switching, Audio Sharing, hands-free Siri and Find My on iOS, and they also work with Android. Each bud delivers up to 7 hours of playback, up to 30 hours with the case, and they are IPX4 sweat and water resistant.",
+   "keywords": "powerbeats fit wingtip earbuds anc workout",
+   "specs": {
+    "connectivity": "Bluetooth",
+    "noiseCancelling": true,
+    "batteryHours": 30,
+    "waterResistance": "IPX4",
+    "connectionDetails": "Apple H1 chip; Class 1 Bluetooth",
+    "colors": "Jet Black, Gravel Grey, Spark Orange, Power Pink"
+   },
+   "options": [
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Jet Black",
+       "default": true,
+       "image": {
+        "small": "/images/catalog/beats-powerbeats-fit--jet-black-400.webp",
+        "large": "/images/catalog/beats-powerbeats-fit--jet-black-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Beats Powerbeats Fit in Jet Black, official Apple Store product image"
+       }
+      },
+      {
+       "label": "Gravel Grey",
+       "image": {
+        "small": "/images/catalog/beats-powerbeats-fit--gravel-grey-400.webp",
+        "large": "/images/catalog/beats-powerbeats-fit--gravel-grey-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Beats Powerbeats Fit in Gravel Grey, official Apple Store product image"
+       }
+      },
+      {
+       "label": "Spark Orange",
+       "image": {
+        "small": "/images/catalog/beats-powerbeats-fit--spark-orange-400.webp",
+        "large": "/images/catalog/beats-powerbeats-fit--spark-orange-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Beats Powerbeats Fit in Spark Orange, official Apple Store product image"
+       }
+      },
+      {
+       "label": "Power Pink",
+       "image": {
+        "small": "/images/catalog/beats-powerbeats-fit--power-pink-400.webp",
+        "large": "/images/catalog/beats-powerbeats-fit--power-pink-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Beats Powerbeats Fit in Power Pink, official Apple Store product image"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "sku": "TK-BEATS-SOLOBUDS",
+   "slug": "beats-solo-buds",
+   "name": "Beats Solo Buds",
+   "brand": "Beats",
+   "category": "earbuds",
+   "price": "79.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    28,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "apple-ecosystem"
+   ],
+   "summary": "Beats' smallest-case true wireless earbuds with custom dual-layer drivers and up to 18 hours of playback from the buds.",
+   "description": "Beats Solo Buds pack custom dual-layer drivers into Beats' tiniest case. The buds deliver up to 18 hours of playback, and a 5-minute Fast Fuel charge gives up to 1 hour; the case can charge directly from a phone, tablet or laptop over USB-C. Class 1 Bluetooth gives extended range with fewer dropouts.",
+   "keywords": "beats solo buds true wireless earbuds small case",
+   "specs": {
+    "connectivity": "Bluetooth",
+    "noiseCancelling": false,
+    "batteryHours": 18,
+    "drivers": "Custom dual-layer drivers",
+    "connectionDetails": "Class 1 Bluetooth",
+    "colors": "Matte Black, Storm Gray, Arctic Purple, Transparent Red"
+   },
+   "options": [
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Matte Black",
+       "default": true,
+       "image": {
+        "small": "/images/catalog/beats-solo-buds--matte-black-400.webp",
+        "large": "/images/catalog/beats-solo-buds--matte-black-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Beats Solo Buds in Matte Black, official Apple Store product image"
+       }
+      },
+      {
+       "label": "Storm Gray",
+       "image": {
+        "small": "/images/catalog/beats-solo-buds--storm-gray-400.webp",
+        "large": "/images/catalog/beats-solo-buds--storm-gray-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Beats Solo Buds in Storm Gray, official Apple Store product image"
+       }
+      },
+      {
+       "label": "Arctic Purple",
+       "image": {
+        "small": "/images/catalog/beats-solo-buds--arctic-purple-400.webp",
+        "large": "/images/catalog/beats-solo-buds--arctic-purple-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Beats Solo Buds in Arctic Purple, official Apple Store product image"
+       }
+      },
+      {
+       "label": "Transparent Red",
+       "image": {
+        "small": "/images/catalog/beats-solo-buds--transparent-red-400.webp",
+        "large": "/images/catalog/beats-solo-buds--transparent-red-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Beats Solo Buds in Transparent Red, official Apple Store product image"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "sku": "TK-BEATS-STUDIOBUDSPLUS",
+   "slug": "beats-studio-buds-plus",
+   "name": "Beats Studio Buds +",
+   "brand": "Beats",
+   "category": "earbuds",
+   "price": "169.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    8,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "apple-ecosystem"
+   ],
+   "summary": "True wireless noise-cancelling earbuds with Transparency mode, IPX4 and up to 36 hours of total battery life.",
+   "description": "Beats Studio Buds + are true wireless earbuds with Active Noise Cancelling that adapts to your fit, plus Transparency mode. They deliver up to 9 hours from the earbuds and up to 36 hours in total with the charging case, and Fast Fuel gives 1 hour from a 5-minute charge. The earbuds are IPX4 sweat and water resistant.",
+   "keywords": "beats studio buds plus anc earbuds transparent",
+   "specs": {
+    "connectivity": "Bluetooth",
+    "noiseCancelling": true,
+    "batteryHours": 36,
+    "waterResistance": "IPX4",
+    "connectionDetails": "Class 1 Bluetooth",
+    "colors": "Black / Gold, Ivory, Transparent"
+   },
+   "options": [
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Black / Gold",
+       "default": true,
+       "image": {
+        "small": "/images/catalog/beats-studio-buds-plus--black-gold-400.webp",
+        "large": "/images/catalog/beats-studio-buds-plus--black-gold-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Beats Studio Buds + in Black / Gold, official Apple Store product image"
+       }
+      },
+      {
+       "label": "Ivory",
+       "image": {
+        "small": "/images/catalog/beats-studio-buds-plus--ivory-400.webp",
+        "large": "/images/catalog/beats-studio-buds-plus--ivory-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Beats Studio Buds + in Ivory, official Apple Store product image"
+       }
+      },
+      {
+       "label": "Transparent",
+       "image": {
+        "small": "/images/catalog/beats-studio-buds-plus--transparent-400.webp",
+        "large": "/images/catalog/beats-studio-buds-plus--transparent-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Beats Studio Buds + in Transparent, official Apple Store product image"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "sku": "TK-BEATS-FLEX",
+   "slug": "beats-flex",
+   "name": "Beats Flex Wireless Earphones",
+   "brand": "Beats",
+   "category": "earbuds",
+   "price": "69.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    46,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "apple-ecosystem"
+   ],
+   "summary": "Neckband-style all-day wireless earphones with the Apple W1 chip and up to 12 hours of listening time.",
+   "description": "Beats Flex are all-day wireless earphones joined by a flexible neckband cable, powered by the Apple W1 chip with Class 1 Bluetooth. They offer up to 12 hours of listening time, and 10-minute Fast Fuel charging gives 1.5 hours of playback.",
+   "keywords": "beats flex neckband wireless earphones w1",
+   "specs": {
+    "connectivity": "Bluetooth",
+    "noiseCancelling": false,
+    "batteryHours": 12,
+    "weightG": 18.6,
+    "connectionDetails": "Apple W1 chip; Class 1 Bluetooth",
+    "colors": "Flame Blue, Beats Black, Smoke Gray, Yuzu Yellow"
+   },
+   "options": [
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Flame Blue",
+       "default": true,
+       "image": {
+        "small": "/images/catalog/beats-flex--flame-blue-400.webp",
+        "large": "/images/catalog/beats-flex--flame-blue-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Beats Flex Wireless Earphones in Flame Blue, official Apple Store product image"
+       }
+      },
+      {
+       "label": "Beats Black",
+       "image": {
+        "small": "/images/catalog/beats-flex--beats-black-400.webp",
+        "large": "/images/catalog/beats-flex--beats-black-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Beats Flex Wireless Earphones in Beats Black, official Apple Store product image"
+       }
+      },
+      {
+       "label": "Smoke Gray",
+       "image": {
+        "small": "/images/catalog/beats-flex--smoke-gray-400.webp",
+        "large": "/images/catalog/beats-flex--smoke-gray-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Beats Flex Wireless Earphones in Smoke Gray, official Apple Store product image"
+       }
+      },
+      {
+       "label": "Yuzu Yellow",
+       "image": {
+        "small": "/images/catalog/beats-flex--yuzu-yellow-400.webp",
+        "large": "/images/catalog/beats-flex--yuzu-yellow-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Beats Flex Wireless Earphones in Yuzu Yellow, official Apple Store product image"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "sku": "TK-BEATS-PILL",
+   "slug": "beats-pill",
+   "name": "Beats Pill Wireless Bluetooth Speaker",
+   "brand": "Beats",
+   "category": "home-audio",
+   "price": "149.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    14,
+    5
+   ],
+   "featured": true,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "apple-ecosystem"
+   ],
+   "summary": "Portable Bluetooth speaker with IP67 dust and water resistance, up to 24 hours of playback and USB-C audio and charge-out.",
+   "description": "The Beats Pill has an upgraded acoustic architecture for fuller, room-filling sound and bigger bass. It is IP67 dust and water resistant, plays up to 24 hours on a charge, can charge your phone over USB-C and doubles as a speakerphone. Two Pills can be paired in Amplify or Stereo mode.",
+   "keywords": "beats pill portable bluetooth speaker ip67",
+   "specs": {
+    "connectivity": "Bluetooth",
+    "connectionDetails": "Class 1 Bluetooth; USB-C audio and charge-out",
+    "batteryHours": 24,
+    "waterResistance": "IP67",
+    "weightG": 680,
+    "colors": "Matte Black, Statement Red, Champagne Gold"
+   },
+   "options": [
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Matte Black",
+       "default": true,
+       "image": {
+        "small": "/images/catalog/beats-pill--matte-black-400.webp",
+        "large": "/images/catalog/beats-pill--matte-black-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Beats Pill Wireless Bluetooth Speaker in Matte Black, official Apple Store product image"
+       }
+      },
+      {
+       "label": "Statement Red",
+       "image": {
+        "small": "/images/catalog/beats-pill--statement-red-400.webp",
+        "large": "/images/catalog/beats-pill--statement-red-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Beats Pill Wireless Bluetooth Speaker in Statement Red, official Apple Store product image"
+       }
+      },
+      {
+       "label": "Champagne Gold",
+       "image": {
+        "small": "/images/catalog/beats-pill--champagne-gold-400.webp",
+        "large": "/images/catalog/beats-pill--champagne-gold-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Beats Pill Wireless Bluetooth Speaker in Champagne Gold, official Apple Store product image"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "sku": "TK-BEATS-360-KNIT-CUSHIONS",
+   "slug": "beats-360-cushion-kit-performance-knit",
+   "name": "Beats 360 Cushion Kit - Performance Knit",
+   "brand": "Beats",
+   "category": "tablet-accessories",
+   "price": "9.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    33,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [],
+   "summary": "Replacement performance knit ear-cup and headband cushion set for Beats 360 headphones.",
+   "description": "An extra set of interchangeable ear and headband cushions for Beats 360, built from plush memory foam. Performance knit cushions have a soft, airy feel suited to workouts, with each strand of the diamond knit made of 36 micro-threads for durability. Beats 360 headphones sold separately.",
+   "keywords": "beats 360 cushions ear pads headband replacement knit",
+   "specs": {
+    "compatibility": "Beats 360 Over-Ear Headphones",
+    "configurations": "Ear cup cushions + headband cushion (memory foam, performance knit)",
+    "colors": "Black, Cloud, Pink, Sky, Navy, Volt"
+   },
+   "options": [
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Black",
+       "default": true,
+       "image": {
+        "small": "/images/catalog/beats-360-cushion-kit-performance-knit--black-400.webp",
+        "large": "/images/catalog/beats-360-cushion-kit-performance-knit--black-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Beats 360 Cushion Kit - Performance Knit in Black, official Apple Store product image"
+       }
+      },
+      {
+       "label": "Cloud",
+       "image": {
+        "small": "/images/catalog/beats-360-cushion-kit-performance-knit--cloud-400.webp",
+        "large": "/images/catalog/beats-360-cushion-kit-performance-knit--cloud-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Beats 360 Cushion Kit - Performance Knit in Cloud, official Apple Store product image"
+       }
+      },
+      {
+       "label": "Pink",
+       "image": {
+        "small": "/images/catalog/beats-360-cushion-kit-performance-knit--pink-400.webp",
+        "large": "/images/catalog/beats-360-cushion-kit-performance-knit--pink-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Beats 360 Cushion Kit - Performance Knit in Pink, official Apple Store product image"
+       }
+      },
+      {
+       "label": "Sky",
+       "image": {
+        "small": "/images/catalog/beats-360-cushion-kit-performance-knit--sky-400.webp",
+        "large": "/images/catalog/beats-360-cushion-kit-performance-knit--sky-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Beats 360 Cushion Kit - Performance Knit in Sky, official Apple Store product image"
+       }
+      },
+      {
+       "label": "Navy",
+       "image": {
+        "small": "/images/catalog/beats-360-cushion-kit-performance-knit--navy-400.webp",
+        "large": "/images/catalog/beats-360-cushion-kit-performance-knit--navy-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Beats 360 Cushion Kit - Performance Knit in Navy, official Apple Store product image"
+       }
+      },
+      {
+       "label": "Volt",
+       "image": {
+        "small": "/images/catalog/beats-360-cushion-kit-performance-knit--volt-400.webp",
+        "large": "/images/catalog/beats-360-cushion-kit-performance-knit--volt-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Beats 360 Cushion Kit - Performance Knit in Volt, official Apple Store product image"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "sku": "TK-BEATS-360-ULTRAPLUSH",
+   "slug": "beats-360-cushion-kit-ultraplush",
+   "name": "Beats 360 Cushion Kit - UltraPlush",
+   "brand": "Beats",
+   "category": "tablet-accessories",
+   "price": "9.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    45,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [],
+   "summary": "Replacement UltraPlush ear-cup and headband cushion set for Beats 360 headphones.",
+   "description": "An extra set of interchangeable ear and headband cushions for Beats 360. UltraPlush cushions have the classic soft Beats feel for extended comfort, with acoustically engineered memory foam ear cushions shaped for an optimal seal. Beats 360 headphones sold separately.",
+   "keywords": "beats 360 cushions ultraplush ear pads replacement",
+   "specs": {
+    "compatibility": "Beats 360 Over-Ear Headphones",
+    "configurations": "Ear cup cushions + headband cushion (memory foam, UltraPlush)",
+    "colors": "Black, Cloud"
+   },
+   "options": [
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Black",
+       "default": true,
+       "image": {
+        "small": "/images/catalog/beats-360-cushion-kit-ultraplush--black-400.webp",
+        "large": "/images/catalog/beats-360-cushion-kit-ultraplush--black-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Beats 360 Cushion Kit - UltraPlush in Black, official Apple Store product image"
+       }
+      },
+      {
+       "label": "Cloud",
+       "image": {
+        "small": "/images/catalog/beats-360-cushion-kit-ultraplush--cloud-400.webp",
+        "large": "/images/catalog/beats-360-cushion-kit-ultraplush--cloud-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Beats 360 Cushion Kit - UltraPlush in Cloud, official Apple Store product image"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "sku": "TK-BEATS-CASE-STD-IP17",
+   "slug": "beats-iphone-17-case-magsafe",
+   "name": "Beats iPhone 17 Case with MagSafe and Camera Control",
+   "brand": "Beats",
+   "category": "cases-protection",
+   "price": "45.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    37,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [],
+   "summary": "Beats case for iPhone 17: thin polycarbonate hardshell with shock-absorbing sidewalls, MagSafe and Camera Control support.",
+   "description": "Built to protect your iPhone 17 from scratches and drops, this Beats case has undergone thousands of hours of testing. The strong polycarbonate back is paired with flexible, shock-absorbing sidewalls to keep the case thin and light; a matte exterior hides scratches and fingerprints and a microfiber lining protects the iPhone. Built-in magnets make it MagSafe compatible, and a conductive layer passes finger movements through to Camera Control.",
+   "keywords": "beats iphone case magsafe iphone 17 ",
+   "specs": {
+    "accessoryType": "Phone case",
+    "compatibility": "iPhone 17",
+    "material": "Polycarbonate back, flexible sidewalls, microfiber lining",
+    "magsafe": true,
+    "colors": "Lime Stone, Pebble Pink, Bedrock Blue, Granite Gray"
+   },
+   "options": [
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Lime Stone",
+       "default": true,
+       "image": {
+        "small": "/images/catalog/beats-iphone-17-case-magsafe--lime-stone-400.webp",
+        "large": "/images/catalog/beats-iphone-17-case-magsafe--lime-stone-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Beats iPhone 17 Case with MagSafe and Camera Control in Lime Stone, official Apple Store product image"
+       }
+      },
+      {
+       "label": "Pebble Pink",
+       "image": {
+        "small": "/images/catalog/beats-iphone-17-case-magsafe--pebble-pink-400.webp",
+        "large": "/images/catalog/beats-iphone-17-case-magsafe--pebble-pink-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Beats iPhone 17 Case with MagSafe and Camera Control in Pebble Pink, official Apple Store product image"
+       }
+      },
+      {
+       "label": "Bedrock Blue",
+       "image": {
+        "small": "/images/catalog/beats-iphone-17-case-magsafe--bedrock-blue-400.webp",
+        "large": "/images/catalog/beats-iphone-17-case-magsafe--bedrock-blue-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Beats iPhone 17 Case with MagSafe and Camera Control in Bedrock Blue, official Apple Store product image"
+       }
+      },
+      {
+       "label": "Granite Gray",
+       "image": {
+        "small": "/images/catalog/beats-iphone-17-case-magsafe--granite-gray-400.webp",
+        "large": "/images/catalog/beats-iphone-17-case-magsafe--granite-gray-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Beats iPhone 17 Case with MagSafe and Camera Control in Granite Gray, official Apple Store product image"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "sku": "TK-BEATS-CASE-STD-IP17PRO",
+   "slug": "beats-iphone-17-pro-case-magsafe",
+   "name": "Beats iPhone 17 Pro Case with MagSafe and Camera Control",
+   "brand": "Beats",
+   "category": "cases-protection",
+   "price": "45.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    10,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [],
+   "summary": "Beats case for iPhone 17 Pro: thin polycarbonate hardshell with shock-absorbing sidewalls, MagSafe and Camera Control support.",
+   "description": "Built to protect your iPhone 17 Pro from scratches and drops, this Beats case has undergone thousands of hours of testing. The strong polycarbonate back is paired with flexible, shock-absorbing sidewalls to keep the case thin and light; a matte exterior hides scratches and fingerprints and a microfiber lining protects the iPhone. Built-in magnets make it MagSafe compatible, and a conductive layer passes finger movements through to Camera Control.",
+   "keywords": "beats iphone case magsafe iphone 17 pro ",
+   "specs": {
+    "accessoryType": "Phone case",
+    "compatibility": "iPhone 17 Pro",
+    "material": "Polycarbonate back, flexible sidewalls, microfiber lining",
+    "magsafe": true,
+    "colors": "Lime Stone, Pebble Pink, Bedrock Blue, Granite Gray"
+   },
+   "options": [
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Lime Stone",
+       "default": true,
+       "image": {
+        "small": "/images/catalog/beats-iphone-17-pro-case-magsafe--lime-stone-400.webp",
+        "large": "/images/catalog/beats-iphone-17-pro-case-magsafe--lime-stone-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Beats iPhone 17 Pro Case with MagSafe and Camera Control in Lime Stone, official Apple Store product image"
+       }
+      },
+      {
+       "label": "Pebble Pink",
+       "image": {
+        "small": "/images/catalog/beats-iphone-17-pro-case-magsafe--pebble-pink-400.webp",
+        "large": "/images/catalog/beats-iphone-17-pro-case-magsafe--pebble-pink-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Beats iPhone 17 Pro Case with MagSafe and Camera Control in Pebble Pink, official Apple Store product image"
+       }
+      },
+      {
+       "label": "Bedrock Blue",
+       "image": {
+        "small": "/images/catalog/beats-iphone-17-pro-case-magsafe--bedrock-blue-400.webp",
+        "large": "/images/catalog/beats-iphone-17-pro-case-magsafe--bedrock-blue-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Beats iPhone 17 Pro Case with MagSafe and Camera Control in Bedrock Blue, official Apple Store product image"
+       }
+      },
+      {
+       "label": "Granite Gray",
+       "image": {
+        "small": "/images/catalog/beats-iphone-17-pro-case-magsafe--granite-gray-400.webp",
+        "large": "/images/catalog/beats-iphone-17-pro-case-magsafe--granite-gray-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Beats iPhone 17 Pro Case with MagSafe and Camera Control in Granite Gray, official Apple Store product image"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "sku": "TK-BEATS-CASE-STD-IP17PROMAX",
+   "slug": "beats-iphone-17-pro-max-case-magsafe",
+   "name": "Beats iPhone 17 Pro Max Case with MagSafe and Camera Control",
+   "brand": "Beats",
+   "category": "cases-protection",
+   "price": "45.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    18,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [],
+   "summary": "Beats case for iPhone 17 Pro Max: thin polycarbonate hardshell with shock-absorbing sidewalls, MagSafe and Camera Control support.",
+   "description": "Built to protect your iPhone 17 Pro Max from scratches and drops, this Beats case has undergone thousands of hours of testing. The strong polycarbonate back is paired with flexible, shock-absorbing sidewalls to keep the case thin and light; a matte exterior hides scratches and fingerprints and a microfiber lining protects the iPhone. Built-in magnets make it MagSafe compatible, and a conductive layer passes finger movements through to Camera Control.",
+   "keywords": "beats iphone case magsafe iphone 17 pro max ",
+   "specs": {
+    "accessoryType": "Phone case",
+    "compatibility": "iPhone 17 Pro Max",
+    "material": "Polycarbonate back, flexible sidewalls, microfiber lining",
+    "magsafe": true,
+    "colors": "Lime Stone, Pebble Pink, Bedrock Blue, Granite Gray"
+   },
+   "options": [
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Lime Stone",
+       "default": true,
+       "image": {
+        "small": "/images/catalog/beats-iphone-17-pro-max-case-magsafe--lime-stone-400.webp",
+        "large": "/images/catalog/beats-iphone-17-pro-max-case-magsafe--lime-stone-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Beats iPhone 17 Pro Max Case with MagSafe and Camera Control in Lime Stone, official Apple Store product image"
+       }
+      },
+      {
+       "label": "Pebble Pink",
+       "image": {
+        "small": "/images/catalog/beats-iphone-17-pro-max-case-magsafe--pebble-pink-400.webp",
+        "large": "/images/catalog/beats-iphone-17-pro-max-case-magsafe--pebble-pink-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Beats iPhone 17 Pro Max Case with MagSafe and Camera Control in Pebble Pink, official Apple Store product image"
+       }
+      },
+      {
+       "label": "Bedrock Blue",
+       "image": {
+        "small": "/images/catalog/beats-iphone-17-pro-max-case-magsafe--bedrock-blue-400.webp",
+        "large": "/images/catalog/beats-iphone-17-pro-max-case-magsafe--bedrock-blue-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Beats iPhone 17 Pro Max Case with MagSafe and Camera Control in Bedrock Blue, official Apple Store product image"
+       }
+      },
+      {
+       "label": "Granite Gray",
+       "image": {
+        "small": "/images/catalog/beats-iphone-17-pro-max-case-magsafe--granite-gray-400.webp",
+        "large": "/images/catalog/beats-iphone-17-pro-max-case-magsafe--granite-gray-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Beats iPhone 17 Pro Max Case with MagSafe and Camera Control in Granite Gray, official Apple Store product image"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "sku": "TK-BEATS-CASE-STD-IPAIR",
+   "slug": "beats-iphone-air-case-magsafe",
+   "name": "Beats iPhone Air Case with MagSafe and Camera Control",
+   "brand": "Beats",
+   "category": "cases-protection",
+   "price": "45.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    21,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [],
+   "summary": "Beats case for iPhone Air: thin polycarbonate hardshell with shock-absorbing sidewalls, MagSafe and Camera Control support.",
+   "description": "Built to protect your iPhone Air from scratches and drops, this Beats case has undergone thousands of hours of testing. The strong polycarbonate back is paired with flexible, shock-absorbing sidewalls to keep the case thin and light; a matte exterior hides scratches and fingerprints and a microfiber lining protects the iPhone. Built-in magnets make it MagSafe compatible, and a conductive layer passes finger movements through to Camera Control.",
+   "keywords": "beats iphone case magsafe iphone air ",
+   "specs": {
+    "accessoryType": "Phone case",
+    "compatibility": "iPhone Air",
+    "material": "Polycarbonate back, flexible sidewalls, microfiber lining",
+    "magsafe": true,
+    "colors": "Lime Stone, Pebble Pink, Bedrock Blue, Granite Gray"
+   },
+   "options": [
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Lime Stone",
+       "default": true,
+       "image": {
+        "small": "/images/catalog/beats-iphone-air-case-magsafe--lime-stone-400.webp",
+        "large": "/images/catalog/beats-iphone-air-case-magsafe--lime-stone-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Beats iPhone Air Case with MagSafe and Camera Control in Lime Stone, official Apple Store product image"
+       }
+      },
+      {
+       "label": "Pebble Pink",
+       "image": {
+        "small": "/images/catalog/beats-iphone-air-case-magsafe--pebble-pink-400.webp",
+        "large": "/images/catalog/beats-iphone-air-case-magsafe--pebble-pink-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Beats iPhone Air Case with MagSafe and Camera Control in Pebble Pink, official Apple Store product image"
+       }
+      },
+      {
+       "label": "Bedrock Blue",
+       "image": {
+        "small": "/images/catalog/beats-iphone-air-case-magsafe--bedrock-blue-400.webp",
+        "large": "/images/catalog/beats-iphone-air-case-magsafe--bedrock-blue-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Beats iPhone Air Case with MagSafe and Camera Control in Bedrock Blue, official Apple Store product image"
+       }
+      },
+      {
+       "label": "Granite Gray",
+       "image": {
+        "small": "/images/catalog/beats-iphone-air-case-magsafe--granite-gray-400.webp",
+        "large": "/images/catalog/beats-iphone-air-case-magsafe--granite-gray-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Beats iPhone Air Case with MagSafe and Camera Control in Granite Gray, official Apple Store product image"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "sku": "TK-BEATS-CASE-STD-IP17E",
+   "slug": "beats-iphone-17e-case-magsafe",
+   "name": "Beats iPhone 17e Case with MagSafe",
+   "brand": "Beats",
+   "category": "cases-protection",
+   "price": "45.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    34,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [],
+   "summary": "Beats case for iPhone 17e: thin, light hardshell with shock-absorbing sidewalls and MagSafe.",
+   "description": "Built to protect your iPhone 17e from scratches and drops, the thin, light Beats case pairs a polycarbonate back with shock-absorbing sidewalls, a matte finish and a microfiber lining, and is MagSafe compatible.",
+   "keywords": "beats iphone case magsafe iphone 17e ",
+   "specs": {
+    "accessoryType": "Phone case",
+    "compatibility": "iPhone 17e",
+    "material": "Hard plastic (polycarbonate) back, flexible sidewalls, microfiber lining",
+    "magsafe": true,
+    "colors": "Lime Stone, Bedrock Blue"
+   },
+   "options": [
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Lime Stone",
+       "default": true,
+       "image": {
+        "small": "/images/catalog/beats-iphone-17e-case-magsafe--lime-stone-400.webp",
+        "large": "/images/catalog/beats-iphone-17e-case-magsafe--lime-stone-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Beats iPhone 17e Case with MagSafe in Lime Stone, official Apple Store product image"
+       }
+      },
+      {
+       "label": "Bedrock Blue",
+       "image": {
+        "small": "/images/catalog/beats-iphone-17e-case-magsafe--bedrock-blue-400.webp",
+        "large": "/images/catalog/beats-iphone-17e-case-magsafe--bedrock-blue-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Beats iPhone 17e Case with MagSafe in Bedrock Blue, official Apple Store product image"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "sku": "TK-BEATS-CASE-KICK-IP17",
+   "slug": "beats-iphone-17-kickstand-case-magsafe",
+   "name": "Beats iPhone 17 Kickstand Case with MagSafe and Camera Control",
+   "brand": "Beats",
+   "category": "cases-protection",
+   "price": "59.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    37,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [],
+   "summary": "Beats kickstand case for iPhone 17: removable lanyard that doubles as a magnetic kickstand, MagSafe and Camera Control support.",
+   "description": "Built to protect your iPhone 17 from scratches and drops, this Beats kickstand case has undergone thousands of hours of testing. It adds a removable lanyard whose end slides open and attaches magnetically to the side of the case to form a kickstand for hands-free landscape viewing. The strong polycarbonate back is paired with flexible, shock-absorbing sidewalls to keep the case thin and light; a matte exterior hides scratches and fingerprints and a microfiber lining protects the iPhone. Built-in magnets make it MagSafe compatible, and a conductive layer passes finger movements through to Camera Control.",
+   "keywords": "beats iphone case magsafe iphone 17 kickstand lanyard",
+   "specs": {
+    "accessoryType": "Phone case",
+    "compatibility": "iPhone 17",
+    "material": "Polycarbonate back, flexible sidewalls, microfiber lining",
+    "magsafe": true,
+    "colors": "Lime Stone, Pebble Pink, Bedrock Blue, Granite Gray"
+   },
+   "options": [
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Lime Stone",
+       "default": true,
+       "image": {
+        "small": "/images/catalog/beats-iphone-17-kickstand-case-magsafe--lime-stone-400.webp",
+        "large": "/images/catalog/beats-iphone-17-kickstand-case-magsafe--lime-stone-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Beats iPhone 17 Kickstand Case with MagSafe and Camera Control in Lime Stone, official Apple Store product image"
+       }
+      },
+      {
+       "label": "Pebble Pink",
+       "image": {
+        "small": "/images/catalog/beats-iphone-17-kickstand-case-magsafe--pebble-pink-400.webp",
+        "large": "/images/catalog/beats-iphone-17-kickstand-case-magsafe--pebble-pink-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Beats iPhone 17 Kickstand Case with MagSafe and Camera Control in Pebble Pink, official Apple Store product image"
+       }
+      },
+      {
+       "label": "Bedrock Blue",
+       "image": {
+        "small": "/images/catalog/beats-iphone-17-kickstand-case-magsafe--bedrock-blue-400.webp",
+        "large": "/images/catalog/beats-iphone-17-kickstand-case-magsafe--bedrock-blue-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Beats iPhone 17 Kickstand Case with MagSafe and Camera Control in Bedrock Blue, official Apple Store product image"
+       }
+      },
+      {
+       "label": "Granite Gray",
+       "image": {
+        "small": "/images/catalog/beats-iphone-17-kickstand-case-magsafe--granite-gray-400.webp",
+        "large": "/images/catalog/beats-iphone-17-kickstand-case-magsafe--granite-gray-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Beats iPhone 17 Kickstand Case with MagSafe and Camera Control in Granite Gray, official Apple Store product image"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "sku": "TK-BEATS-CASE-KICK-IP17PRO",
+   "slug": "beats-iphone-17-pro-kickstand-case-magsafe",
+   "name": "Beats iPhone 17 Pro Kickstand Case with MagSafe and Camera Control",
+   "brand": "Beats",
+   "category": "cases-protection",
+   "price": "59.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    52,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [],
+   "summary": "Beats kickstand case for iPhone 17 Pro: removable lanyard that doubles as a magnetic kickstand, MagSafe and Camera Control support.",
+   "description": "Built to protect your iPhone 17 Pro from scratches and drops, this Beats kickstand case has undergone thousands of hours of testing. It adds a removable lanyard whose end slides open and attaches magnetically to the side of the case to form a kickstand for hands-free landscape viewing. The strong polycarbonate back is paired with flexible, shock-absorbing sidewalls to keep the case thin and light; a matte exterior hides scratches and fingerprints and a microfiber lining protects the iPhone. Built-in magnets make it MagSafe compatible, and a conductive layer passes finger movements through to Camera Control.",
+   "keywords": "beats iphone case magsafe iphone 17 pro kickstand lanyard",
+   "specs": {
+    "accessoryType": "Phone case",
+    "compatibility": "iPhone 17 Pro",
+    "material": "Polycarbonate back, flexible sidewalls, microfiber lining",
+    "magsafe": true,
+    "colors": "Lime Stone, Pebble Pink, Bedrock Blue, Granite Gray"
+   },
+   "options": [
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Lime Stone",
+       "default": true,
+       "image": {
+        "small": "/images/catalog/beats-iphone-17-pro-kickstand-case-magsafe--lime-stone-400.webp",
+        "large": "/images/catalog/beats-iphone-17-pro-kickstand-case-magsafe--lime-stone-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Beats iPhone 17 Pro Kickstand Case with MagSafe and Camera Control in Lime Stone, official Apple Store product image"
+       }
+      },
+      {
+       "label": "Pebble Pink",
+       "image": {
+        "small": "/images/catalog/beats-iphone-17-pro-kickstand-case-magsafe--pebble-pink-400.webp",
+        "large": "/images/catalog/beats-iphone-17-pro-kickstand-case-magsafe--pebble-pink-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Beats iPhone 17 Pro Kickstand Case with MagSafe and Camera Control in Pebble Pink, official Apple Store product image"
+       }
+      },
+      {
+       "label": "Bedrock Blue",
+       "image": {
+        "small": "/images/catalog/beats-iphone-17-pro-kickstand-case-magsafe--bedrock-blue-400.webp",
+        "large": "/images/catalog/beats-iphone-17-pro-kickstand-case-magsafe--bedrock-blue-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Beats iPhone 17 Pro Kickstand Case with MagSafe and Camera Control in Bedrock Blue, official Apple Store product image"
+       }
+      },
+      {
+       "label": "Granite Gray",
+       "image": {
+        "small": "/images/catalog/beats-iphone-17-pro-kickstand-case-magsafe--granite-gray-400.webp",
+        "large": "/images/catalog/beats-iphone-17-pro-kickstand-case-magsafe--granite-gray-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Beats iPhone 17 Pro Kickstand Case with MagSafe and Camera Control in Granite Gray, official Apple Store product image"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "sku": "TK-BEATS-CASE-KICK-IP17PROMAX",
+   "slug": "beats-iphone-17-pro-max-kickstand-case-magsafe",
+   "name": "Beats iPhone 17 Pro Max Kickstand Case with MagSafe and Camera Control",
+   "brand": "Beats",
+   "category": "cases-protection",
+   "price": "59.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    40,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [],
+   "summary": "Beats kickstand case for iPhone 17 Pro Max: removable lanyard that doubles as a magnetic kickstand, MagSafe and Camera Control support.",
+   "description": "Built to protect your iPhone 17 Pro Max from scratches and drops, this Beats kickstand case has undergone thousands of hours of testing. It adds a removable lanyard whose end slides open and attaches magnetically to the side of the case to form a kickstand for hands-free landscape viewing. The strong polycarbonate back is paired with flexible, shock-absorbing sidewalls to keep the case thin and light; a matte exterior hides scratches and fingerprints and a microfiber lining protects the iPhone. Built-in magnets make it MagSafe compatible, and a conductive layer passes finger movements through to Camera Control.",
+   "keywords": "beats iphone case magsafe iphone 17 pro max kickstand lanyard",
+   "specs": {
+    "accessoryType": "Phone case",
+    "compatibility": "iPhone 17 Pro Max",
+    "material": "Polycarbonate back, flexible sidewalls, microfiber lining",
+    "magsafe": true,
+    "colors": "Lime Stone, Pebble Pink, Bedrock Blue, Granite Gray"
+   },
+   "options": [
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Lime Stone",
+       "default": true,
+       "image": {
+        "small": "/images/catalog/beats-iphone-17-pro-max-kickstand-case-magsafe--lime-stone-400.webp",
+        "large": "/images/catalog/beats-iphone-17-pro-max-kickstand-case-magsafe--lime-stone-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Beats iPhone 17 Pro Max Kickstand Case with MagSafe and Camera Control in Lime Stone, official Apple Store product image"
+       }
+      },
+      {
+       "label": "Pebble Pink",
+       "image": {
+        "small": "/images/catalog/beats-iphone-17-pro-max-kickstand-case-magsafe--pebble-pink-400.webp",
+        "large": "/images/catalog/beats-iphone-17-pro-max-kickstand-case-magsafe--pebble-pink-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Beats iPhone 17 Pro Max Kickstand Case with MagSafe and Camera Control in Pebble Pink, official Apple Store product image"
+       }
+      },
+      {
+       "label": "Bedrock Blue",
+       "image": {
+        "small": "/images/catalog/beats-iphone-17-pro-max-kickstand-case-magsafe--bedrock-blue-400.webp",
+        "large": "/images/catalog/beats-iphone-17-pro-max-kickstand-case-magsafe--bedrock-blue-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Beats iPhone 17 Pro Max Kickstand Case with MagSafe and Camera Control in Bedrock Blue, official Apple Store product image"
+       }
+      },
+      {
+       "label": "Granite Gray",
+       "image": {
+        "small": "/images/catalog/beats-iphone-17-pro-max-kickstand-case-magsafe--granite-gray-400.webp",
+        "large": "/images/catalog/beats-iphone-17-pro-max-kickstand-case-magsafe--granite-gray-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Beats iPhone 17 Pro Max Kickstand Case with MagSafe and Camera Control in Granite Gray, official Apple Store product image"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "sku": "TK-BEATS-CASE-RUG-IP17",
+   "slug": "beats-iphone-17-rugged-case-magsafe",
+   "name": "Beats iPhone 17 Rugged Case with MagSafe and Camera Control",
+   "brand": "Beats",
+   "category": "cases-protection",
+   "price": "79.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    33,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [],
+   "summary": "Beats rugged case for iPhone 17: triple-shot rugged design with impact-absorbing corners, enclosed bottom, MagSafe and Camera Control support.",
+   "description": "Built to protect your iPhone 17 from scratches and drops, this Beats rugged case has undergone thousands of hours of testing. A rugged polymer back, extra impact-absorbing sidewalls and corners and an enclosed bottom give added drop protection, with a textured matte exterior for grip and a microfiber lining. It is MagSafe compatible and passes finger movements through to Camera Control.",
+   "keywords": "beats iphone case magsafe iphone 17 rugged drop protection",
+   "specs": {
+    "accessoryType": "Phone case",
+    "compatibility": "iPhone 17",
+    "material": "Rugged polymer back, impact-absorbing sidewalls, microfiber lining",
+    "magsafe": true,
+    "colors": "Sierra Orange, Rocky Blue, Alpine Gray, Everest Black"
+   },
+   "options": [
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Sierra Orange",
+       "default": true,
+       "image": {
+        "small": "/images/catalog/beats-iphone-17-rugged-case-magsafe--sierra-orange-400.webp",
+        "large": "/images/catalog/beats-iphone-17-rugged-case-magsafe--sierra-orange-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Beats iPhone 17 Rugged Case with MagSafe and Camera Control in Sierra Orange, official Apple Store product image"
+       }
+      },
+      {
+       "label": "Rocky Blue",
+       "image": {
+        "small": "/images/catalog/beats-iphone-17-rugged-case-magsafe--rocky-blue-400.webp",
+        "large": "/images/catalog/beats-iphone-17-rugged-case-magsafe--rocky-blue-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Beats iPhone 17 Rugged Case with MagSafe and Camera Control in Rocky Blue, official Apple Store product image"
+       }
+      },
+      {
+       "label": "Alpine Gray",
+       "image": {
+        "small": "/images/catalog/beats-iphone-17-rugged-case-magsafe--alpine-gray-400.webp",
+        "large": "/images/catalog/beats-iphone-17-rugged-case-magsafe--alpine-gray-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Beats iPhone 17 Rugged Case with MagSafe and Camera Control in Alpine Gray, official Apple Store product image"
+       }
+      },
+      {
+       "label": "Everest Black",
+       "image": {
+        "small": "/images/catalog/beats-iphone-17-rugged-case-magsafe--everest-black-400.webp",
+        "large": "/images/catalog/beats-iphone-17-rugged-case-magsafe--everest-black-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Beats iPhone 17 Rugged Case with MagSafe and Camera Control in Everest Black, official Apple Store product image"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "sku": "TK-BEATS-CASE-RUG-IP17PRO",
+   "slug": "beats-iphone-17-pro-rugged-case-magsafe",
+   "name": "Beats iPhone 17 Pro Rugged Case with MagSafe and Camera Control",
+   "brand": "Beats",
+   "category": "cases-protection",
+   "price": "79.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    29,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [],
+   "summary": "Beats rugged case for iPhone 17 Pro: triple-shot rugged design with impact-absorbing corners, enclosed bottom, MagSafe and Camera Control support.",
+   "description": "Built to protect your iPhone 17 Pro from scratches and drops, this Beats rugged case has undergone thousands of hours of testing. A rugged polymer back, extra impact-absorbing sidewalls and corners and an enclosed bottom give added drop protection, with a textured matte exterior for grip and a microfiber lining. It is MagSafe compatible and passes finger movements through to Camera Control.",
+   "keywords": "beats iphone case magsafe iphone 17 pro rugged drop protection",
+   "specs": {
+    "accessoryType": "Phone case",
+    "compatibility": "iPhone 17 Pro",
+    "material": "Rugged polymer back, impact-absorbing sidewalls, microfiber lining",
+    "magsafe": true,
+    "colors": "Sierra Orange, Rocky Blue, Alpine Gray, Everest Black"
+   },
+   "options": [
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Sierra Orange",
+       "default": true,
+       "image": {
+        "small": "/images/catalog/beats-iphone-17-pro-rugged-case-magsafe--sierra-orange-400.webp",
+        "large": "/images/catalog/beats-iphone-17-pro-rugged-case-magsafe--sierra-orange-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Beats iPhone 17 Pro Rugged Case with MagSafe and Camera Control in Sierra Orange, official Apple Store product image"
+       }
+      },
+      {
+       "label": "Rocky Blue",
+       "image": {
+        "small": "/images/catalog/beats-iphone-17-pro-rugged-case-magsafe--rocky-blue-400.webp",
+        "large": "/images/catalog/beats-iphone-17-pro-rugged-case-magsafe--rocky-blue-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Beats iPhone 17 Pro Rugged Case with MagSafe and Camera Control in Rocky Blue, official Apple Store product image"
+       }
+      },
+      {
+       "label": "Alpine Gray",
+       "image": {
+        "small": "/images/catalog/beats-iphone-17-pro-rugged-case-magsafe--alpine-gray-400.webp",
+        "large": "/images/catalog/beats-iphone-17-pro-rugged-case-magsafe--alpine-gray-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Beats iPhone 17 Pro Rugged Case with MagSafe and Camera Control in Alpine Gray, official Apple Store product image"
+       }
+      },
+      {
+       "label": "Everest Black",
+       "image": {
+        "small": "/images/catalog/beats-iphone-17-pro-rugged-case-magsafe--everest-black-400.webp",
+        "large": "/images/catalog/beats-iphone-17-pro-rugged-case-magsafe--everest-black-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Beats iPhone 17 Pro Rugged Case with MagSafe and Camera Control in Everest Black, official Apple Store product image"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "sku": "TK-BEATS-CASE-RUG-IP17PROMAX",
+   "slug": "beats-iphone-17-pro-max-rugged-case-magsafe",
+   "name": "Beats iPhone 17 Pro Max Rugged Case with MagSafe and Camera Control",
+   "brand": "Beats",
+   "category": "cases-protection",
+   "price": "79.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    45,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [],
+   "summary": "Beats rugged case for iPhone 17 Pro Max: triple-shot rugged design with impact-absorbing corners, enclosed bottom, MagSafe and Camera Control support.",
+   "description": "Built to protect your iPhone 17 Pro Max from scratches and drops, this Beats rugged case has undergone thousands of hours of testing. A rugged polymer back, extra impact-absorbing sidewalls and corners and an enclosed bottom give added drop protection, with a textured matte exterior for grip and a microfiber lining. It is MagSafe compatible and passes finger movements through to Camera Control.",
+   "keywords": "beats iphone case magsafe iphone 17 pro max rugged drop protection",
+   "specs": {
+    "accessoryType": "Phone case",
+    "compatibility": "iPhone 17 Pro Max",
+    "material": "Rugged polymer back, impact-absorbing sidewalls, microfiber lining",
+    "magsafe": true,
+    "colors": "Sierra Orange, Rocky Blue, Alpine Gray, Everest Black"
+   },
+   "options": [
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Sierra Orange",
+       "default": true,
+       "image": {
+        "small": "/images/catalog/beats-iphone-17-pro-max-rugged-case-magsafe--sierra-orange-400.webp",
+        "large": "/images/catalog/beats-iphone-17-pro-max-rugged-case-magsafe--sierra-orange-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Beats iPhone 17 Pro Max Rugged Case with MagSafe and Camera Control in Sierra Orange, official Apple Store product image"
+       }
+      },
+      {
+       "label": "Rocky Blue",
+       "image": {
+        "small": "/images/catalog/beats-iphone-17-pro-max-rugged-case-magsafe--rocky-blue-400.webp",
+        "large": "/images/catalog/beats-iphone-17-pro-max-rugged-case-magsafe--rocky-blue-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Beats iPhone 17 Pro Max Rugged Case with MagSafe and Camera Control in Rocky Blue, official Apple Store product image"
+       }
+      },
+      {
+       "label": "Alpine Gray",
+       "image": {
+        "small": "/images/catalog/beats-iphone-17-pro-max-rugged-case-magsafe--alpine-gray-400.webp",
+        "large": "/images/catalog/beats-iphone-17-pro-max-rugged-case-magsafe--alpine-gray-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Beats iPhone 17 Pro Max Rugged Case with MagSafe and Camera Control in Alpine Gray, official Apple Store product image"
+       }
+      },
+      {
+       "label": "Everest Black",
+       "image": {
+        "small": "/images/catalog/beats-iphone-17-pro-max-rugged-case-magsafe--everest-black-400.webp",
+        "large": "/images/catalog/beats-iphone-17-pro-max-rugged-case-magsafe--everest-black-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Beats iPhone 17 Pro Max Rugged Case with MagSafe and Camera Control in Everest Black, official Apple Store product image"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "sku": "TK-BEATS-CASE-IP16",
+   "slug": "beats-iphone-16-case-magsafe",
+   "name": "Beats iPhone 16 Case with MagSafe",
+   "brand": "Beats",
+   "category": "cases-protection",
+   "price": "49.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    24,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [],
+   "summary": "Beats MagSafe case for iPhone 16 with a glossy polycarbonate back, TPU sidewalls and a sapphire-crystal Camera Control cover.",
+   "description": "Precisely crafted for iPhone 16, the Beats iPhone Case with MagSafe pairs a hardshell polycarbonate back with flexible thermoplastic polyurethane sidewalls, a glossy scratch-resistant coating and a soft microfiber lining. A sapphire crystal coupled to a conductive layer passes finger movements to Camera Control, and built-in magnets align with MagSafe. Sold in four core colours plus two Special Edition colourways (Sunrise Pink, Twilight Blue) at the same price; made with post-consumer recycled materials.",
+   "keywords": "beats iphone case magsafe iphone 16 special edition",
+   "specs": {
+    "accessoryType": "Phone case",
+    "compatibility": "iPhone 16",
+    "material": "Polycarbonate back, TPU sidewalls, microfiber lining",
+    "magsafe": true,
+    "colors": "Midnight Black, Summit Stone, Riptide Blue, Sunset Purple, Sunrise Pink (Special Edition), Twilight Blue (Special Edition)"
+   },
+   "options": [
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Midnight Black",
+       "default": true,
+       "image": {
+        "small": "/images/catalog/beats-iphone-16-case-magsafe--midnight-black-400.webp",
+        "large": "/images/catalog/beats-iphone-16-case-magsafe--midnight-black-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Beats iPhone 16 Case with MagSafe in Midnight Black, official Apple Store product image"
+       }
+      },
+      {
+       "label": "Summit Stone",
+       "image": {
+        "small": "/images/catalog/beats-iphone-16-case-magsafe--summit-stone-400.webp",
+        "large": "/images/catalog/beats-iphone-16-case-magsafe--summit-stone-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Beats iPhone 16 Case with MagSafe in Summit Stone, official Apple Store product image"
+       }
+      },
+      {
+       "label": "Riptide Blue",
+       "image": {
+        "small": "/images/catalog/beats-iphone-16-case-magsafe--riptide-blue-400.webp",
+        "large": "/images/catalog/beats-iphone-16-case-magsafe--riptide-blue-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Beats iPhone 16 Case with MagSafe in Riptide Blue, official Apple Store product image"
+       }
+      },
+      {
+       "label": "Sunset Purple",
+       "image": {
+        "small": "/images/catalog/beats-iphone-16-case-magsafe--sunset-purple-400.webp",
+        "large": "/images/catalog/beats-iphone-16-case-magsafe--sunset-purple-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Beats iPhone 16 Case with MagSafe in Sunset Purple, official Apple Store product image"
+       }
+      },
+      {
+       "label": "Sunrise Pink (Special Edition)",
+       "image": {
+        "small": "/images/catalog/beats-iphone-16-case-magsafe--sunrise-pink-special-edition-400.webp",
+        "large": "/images/catalog/beats-iphone-16-case-magsafe--sunrise-pink-special-edition-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Beats iPhone 16 Case with MagSafe in Sunrise Pink (Special Edition), official Apple Store product image"
+       }
+      },
+      {
+       "label": "Twilight Blue (Special Edition)",
+       "image": {
+        "small": "/images/catalog/beats-iphone-16-case-magsafe--twilight-blue-special-edition-400.webp",
+        "large": "/images/catalog/beats-iphone-16-case-magsafe--twilight-blue-special-edition-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Beats iPhone 16 Case with MagSafe in Twilight Blue (Special Edition), official Apple Store product image"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "sku": "TK-BEATS-CASE-IP16PLUS",
+   "slug": "beats-iphone-16-plus-case-magsafe",
+   "name": "Beats iPhone 16 Plus Case with MagSafe",
+   "brand": "Beats",
+   "category": "cases-protection",
+   "price": "49.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    47,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [],
+   "summary": "Beats MagSafe case for iPhone 16 Plus with a glossy polycarbonate back, TPU sidewalls and a sapphire-crystal Camera Control cover.",
+   "description": "Precisely crafted for iPhone 16 Plus, the Beats iPhone Case with MagSafe pairs a hardshell polycarbonate back with flexible thermoplastic polyurethane sidewalls, a glossy scratch-resistant coating and a soft microfiber lining. A sapphire crystal coupled to a conductive layer passes finger movements to Camera Control, and built-in magnets align with MagSafe. Sold in four core colours plus two Special Edition colourways (Sunrise Pink, Twilight Blue) at the same price; made with post-consumer recycled materials.",
+   "keywords": "beats iphone case magsafe iphone 16 plus special edition",
+   "specs": {
+    "accessoryType": "Phone case",
+    "compatibility": "iPhone 16 Plus",
+    "material": "Polycarbonate back, TPU sidewalls, microfiber lining",
+    "magsafe": true,
+    "colors": "Midnight Black, Summit Stone, Riptide Blue, Sunset Purple, Sunrise Pink (Special Edition), Twilight Blue (Special Edition)"
+   },
+   "options": [
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Midnight Black",
+       "default": true,
+       "image": {
+        "small": "/images/catalog/beats-iphone-16-plus-case-magsafe--midnight-black-400.webp",
+        "large": "/images/catalog/beats-iphone-16-plus-case-magsafe--midnight-black-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Beats iPhone 16 Plus Case with MagSafe in Midnight Black, official Apple Store product image"
+       }
+      },
+      {
+       "label": "Summit Stone",
+       "image": {
+        "small": "/images/catalog/beats-iphone-16-plus-case-magsafe--summit-stone-400.webp",
+        "large": "/images/catalog/beats-iphone-16-plus-case-magsafe--summit-stone-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Beats iPhone 16 Plus Case with MagSafe in Summit Stone, official Apple Store product image"
+       }
+      },
+      {
+       "label": "Riptide Blue",
+       "image": {
+        "small": "/images/catalog/beats-iphone-16-plus-case-magsafe--riptide-blue-400.webp",
+        "large": "/images/catalog/beats-iphone-16-plus-case-magsafe--riptide-blue-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Beats iPhone 16 Plus Case with MagSafe in Riptide Blue, official Apple Store product image"
+       }
+      },
+      {
+       "label": "Sunset Purple",
+       "image": {
+        "small": "/images/catalog/beats-iphone-16-plus-case-magsafe--sunset-purple-400.webp",
+        "large": "/images/catalog/beats-iphone-16-plus-case-magsafe--sunset-purple-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Beats iPhone 16 Plus Case with MagSafe in Sunset Purple, official Apple Store product image"
+       }
+      },
+      {
+       "label": "Sunrise Pink (Special Edition)",
+       "image": {
+        "small": "/images/catalog/beats-iphone-16-plus-case-magsafe--sunrise-pink-special-edition-400.webp",
+        "large": "/images/catalog/beats-iphone-16-plus-case-magsafe--sunrise-pink-special-edition-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Beats iPhone 16 Plus Case with MagSafe in Sunrise Pink (Special Edition), official Apple Store product image"
+       }
+      },
+      {
+       "label": "Twilight Blue (Special Edition)",
+       "image": {
+        "small": "/images/catalog/beats-iphone-16-plus-case-magsafe--twilight-blue-special-edition-400.webp",
+        "large": "/images/catalog/beats-iphone-16-plus-case-magsafe--twilight-blue-special-edition-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Beats iPhone 16 Plus Case with MagSafe in Twilight Blue (Special Edition), official Apple Store product image"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "sku": "TK-BEATS-CASE-IP16PRO",
+   "slug": "beats-iphone-16-pro-case-magsafe",
+   "name": "Beats iPhone 16 Pro Case with MagSafe",
+   "brand": "Beats",
+   "category": "cases-protection",
+   "price": "49.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    30,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [],
+   "summary": "Beats MagSafe case for iPhone 16 Pro with a glossy polycarbonate back, TPU sidewalls and a sapphire-crystal Camera Control cover.",
+   "description": "Precisely crafted for iPhone 16 Pro, the Beats iPhone Case with MagSafe pairs a hardshell polycarbonate back with flexible thermoplastic polyurethane sidewalls, a glossy scratch-resistant coating and a soft microfiber lining. A sapphire crystal coupled to a conductive layer passes finger movements to Camera Control, and built-in magnets align with MagSafe. Sold in four core colours plus two Special Edition colourways (Sunrise Pink, Twilight Blue) at the same price; made with post-consumer recycled materials.",
+   "keywords": "beats iphone case magsafe iphone 16 pro special edition",
+   "specs": {
+    "accessoryType": "Phone case",
+    "compatibility": "iPhone 16 Pro",
+    "material": "Polycarbonate back, TPU sidewalls, microfiber lining",
+    "magsafe": true,
+    "colors": "Midnight Black, Summit Stone, Riptide Blue, Sunset Purple, Sunrise Pink (Special Edition), Twilight Blue (Special Edition)"
+   },
+   "options": [
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Midnight Black",
+       "default": true,
+       "image": {
+        "small": "/images/catalog/beats-iphone-16-pro-case-magsafe--midnight-black-400.webp",
+        "large": "/images/catalog/beats-iphone-16-pro-case-magsafe--midnight-black-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Beats iPhone 16 Pro Case with MagSafe in Midnight Black, official Apple Store product image"
+       }
+      },
+      {
+       "label": "Summit Stone",
+       "image": {
+        "small": "/images/catalog/beats-iphone-16-pro-case-magsafe--summit-stone-400.webp",
+        "large": "/images/catalog/beats-iphone-16-pro-case-magsafe--summit-stone-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Beats iPhone 16 Pro Case with MagSafe in Summit Stone, official Apple Store product image"
+       }
+      },
+      {
+       "label": "Riptide Blue",
+       "image": {
+        "small": "/images/catalog/beats-iphone-16-pro-case-magsafe--riptide-blue-400.webp",
+        "large": "/images/catalog/beats-iphone-16-pro-case-magsafe--riptide-blue-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Beats iPhone 16 Pro Case with MagSafe in Riptide Blue, official Apple Store product image"
+       }
+      },
+      {
+       "label": "Sunset Purple",
+       "image": {
+        "small": "/images/catalog/beats-iphone-16-pro-case-magsafe--sunset-purple-400.webp",
+        "large": "/images/catalog/beats-iphone-16-pro-case-magsafe--sunset-purple-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Beats iPhone 16 Pro Case with MagSafe in Sunset Purple, official Apple Store product image"
+       }
+      },
+      {
+       "label": "Sunrise Pink (Special Edition)",
+       "image": {
+        "small": "/images/catalog/beats-iphone-16-pro-case-magsafe--sunrise-pink-special-edition-400.webp",
+        "large": "/images/catalog/beats-iphone-16-pro-case-magsafe--sunrise-pink-special-edition-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Beats iPhone 16 Pro Case with MagSafe in Sunrise Pink (Special Edition), official Apple Store product image"
+       }
+      },
+      {
+       "label": "Twilight Blue (Special Edition)",
+       "image": {
+        "small": "/images/catalog/beats-iphone-16-pro-case-magsafe--twilight-blue-special-edition-400.webp",
+        "large": "/images/catalog/beats-iphone-16-pro-case-magsafe--twilight-blue-special-edition-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Beats iPhone 16 Pro Case with MagSafe in Twilight Blue (Special Edition), official Apple Store product image"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "sku": "TK-BEATS-CASE-IP16PROMAX",
+   "slug": "beats-iphone-16-pro-max-case-magsafe",
+   "name": "Beats iPhone 16 Pro Max Case with MagSafe",
+   "brand": "Beats",
+   "category": "cases-protection",
+   "price": "49.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    36,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [],
+   "summary": "Beats MagSafe case for iPhone 16 Pro Max with a glossy polycarbonate back, TPU sidewalls and a sapphire-crystal Camera Control cover.",
+   "description": "Precisely crafted for iPhone 16 Pro Max, the Beats iPhone Case with MagSafe pairs a hardshell polycarbonate back with flexible thermoplastic polyurethane sidewalls, a glossy scratch-resistant coating and a soft microfiber lining. A sapphire crystal coupled to a conductive layer passes finger movements to Camera Control, and built-in magnets align with MagSafe. Sold in four core colours plus two Special Edition colourways (Sunrise Pink, Twilight Blue) at the same price; made with post-consumer recycled materials.",
+   "keywords": "beats iphone case magsafe iphone 16 pro max special edition",
+   "specs": {
+    "accessoryType": "Phone case",
+    "compatibility": "iPhone 16 Pro Max",
+    "material": "Polycarbonate back, TPU sidewalls, microfiber lining",
+    "magsafe": true,
+    "colors": "Midnight Black, Summit Stone, Riptide Blue, Sunset Purple, Sunrise Pink (Special Edition), Twilight Blue (Special Edition)"
+   },
+   "options": [
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Midnight Black",
+       "default": true,
+       "image": {
+        "small": "/images/catalog/beats-iphone-16-pro-max-case-magsafe--midnight-black-400.webp",
+        "large": "/images/catalog/beats-iphone-16-pro-max-case-magsafe--midnight-black-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Beats iPhone 16 Pro Max Case with MagSafe in Midnight Black, official Apple Store product image"
+       }
+      },
+      {
+       "label": "Summit Stone",
+       "image": {
+        "small": "/images/catalog/beats-iphone-16-pro-max-case-magsafe--summit-stone-400.webp",
+        "large": "/images/catalog/beats-iphone-16-pro-max-case-magsafe--summit-stone-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Beats iPhone 16 Pro Max Case with MagSafe in Summit Stone, official Apple Store product image"
+       }
+      },
+      {
+       "label": "Riptide Blue",
+       "image": {
+        "small": "/images/catalog/beats-iphone-16-pro-max-case-magsafe--riptide-blue-400.webp",
+        "large": "/images/catalog/beats-iphone-16-pro-max-case-magsafe--riptide-blue-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Beats iPhone 16 Pro Max Case with MagSafe in Riptide Blue, official Apple Store product image"
+       }
+      },
+      {
+       "label": "Sunset Purple",
+       "image": {
+        "small": "/images/catalog/beats-iphone-16-pro-max-case-magsafe--sunset-purple-400.webp",
+        "large": "/images/catalog/beats-iphone-16-pro-max-case-magsafe--sunset-purple-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Beats iPhone 16 Pro Max Case with MagSafe in Sunset Purple, official Apple Store product image"
+       }
+      },
+      {
+       "label": "Sunrise Pink (Special Edition)",
+       "image": {
+        "small": "/images/catalog/beats-iphone-16-pro-max-case-magsafe--sunrise-pink-special-edition-400.webp",
+        "large": "/images/catalog/beats-iphone-16-pro-max-case-magsafe--sunrise-pink-special-edition-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Beats iPhone 16 Pro Max Case with MagSafe in Sunrise Pink (Special Edition), official Apple Store product image"
+       }
+      },
+      {
+       "label": "Twilight Blue (Special Edition)",
+       "image": {
+        "small": "/images/catalog/beats-iphone-16-pro-max-case-magsafe--twilight-blue-special-edition-400.webp",
+        "large": "/images/catalog/beats-iphone-16-pro-max-case-magsafe--twilight-blue-special-edition-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Beats iPhone 16 Pro Max Case with MagSafe in Twilight Blue (Special Edition), official Apple Store product image"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "sku": "TK-APPLE-AIRPODSPRO3-EARTIPS",
+   "slug": "apple-airpods-pro-3-ear-tips",
+   "name": "Apple AirPods Pro 3 Ear Tips",
+   "brand": "Apple",
+   "category": "tablet-accessories",
+   "price": "14.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    33,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "apple-ecosystem"
+   ],
+   "summary": "Genuine Apple silicone replacement ear tips for AirPods Pro 3, as a five-size multipack or two-set single-size packs.",
+   "description": "Made by Apple, these silicone ear tips are compatible with AirPods Pro 3. The multipack includes one pair each in XXS, XS, S, M and L so you can find the size that gives a more secure fit and improved audio performance; single-size packs contain two sets.",
+   "keywords": "airpods pro 3 ear tips replacement silicone xxs",
+   "specs": {
+    "compatibility": "AirPods Pro 3",
+    "configurations": "5 pairs (XXS, XS, S, M, L) – $14.99 · 2 sets (XXS) – $9.99 · 2 sets (XS) – $9.99 · 2 sets (S) – $9.99 · 2 sets (M) – $9.99 · 2 sets (L) – $9.99"
+   },
+   "options": [
+    {
+     "name": "Configuration",
+     "values": [
+      {
+       "label": "5 pairs (XXS, XS, S, M, L)",
+       "price": "14.99",
+       "default": true
+      },
+      {
+       "label": "2 sets (XXS)",
+       "price": "9.99"
+      },
+      {
+       "label": "2 sets (XS)",
+       "price": "9.99"
+      },
+      {
+       "label": "2 sets (S)",
+       "price": "9.99"
+      },
+      {
+       "label": "2 sets (M)",
+       "price": "9.99"
+      },
+      {
+       "label": "2 sets (L)",
+       "price": "9.99"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "sku": "TK-APPLE-AIRPODSPRO2-EARTIPS",
+   "slug": "apple-airpods-pro-2-ear-tips",
+   "name": "Apple AirPods Pro 2 Ear Tips",
+   "brand": "Apple",
+   "category": "tablet-accessories",
+   "price": "12.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    34,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [],
+   "summary": "Genuine Apple silicone replacement ear tips for AirPods Pro 2, as a four-size multipack or two-set single-size packs.",
+   "description": "Made by Apple, these silicone ear tips are compatible with AirPods Pro 2. The 4-pair multipack includes extra-small, small, medium and large tips so you can find a more comfortable fit and improved audio performance; single-size packs contain two sets.",
+   "keywords": "airpods pro 2 ear tips replacement silicone",
+   "specs": {
+    "compatibility": "AirPods Pro 2",
+    "configurations": "4 pairs (XS, S, M, L) – $12.99 · 2 sets (Extra Small) – $9.99 · 2 sets (Small) – $9.99 · 2 sets (Medium) – $9.99 · 2 sets (Large) – $9.99"
+   },
+   "options": [
+    {
+     "name": "Configuration",
+     "values": [
+      {
+       "label": "4 pairs (XS, S, M, L)",
+       "price": "12.99",
+       "default": true
+      },
+      {
+       "label": "2 sets (Extra Small)",
+       "price": "9.99"
+      },
+      {
+       "label": "2 sets (Small)",
+       "price": "9.99"
+      },
+      {
+       "label": "2 sets (Medium)",
+       "price": "9.99"
+      },
+      {
+       "label": "2 sets (Large)",
+       "price": "9.99"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "sku": "TK-APPLE-AIRPODSMAX-CUSHIONS",
+   "slug": "apple-airpods-max-ear-cushions",
+   "name": "Apple AirPods Max Ear Cushions",
+   "brand": "Apple",
+   "category": "tablet-accessories",
+   "price": "69.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    40,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [],
+   "summary": "Replacement memory foam and mesh ear cushions for AirPods Max (USB-C), made by Apple in five colours.",
+   "description": "Replacement ear cushions for AirPods Max, made of acoustically engineered memory foam and a mesh textile for a comfortable fit. The box contains one set of ear cushions, made by Apple.",
+   "keywords": "airpods max ear cushions replacement pads",
+   "specs": {
+    "compatibility": "AirPods Max (USB-C) and AirPods Max 2",
+    "configurations": "One set (left and right)",
+    "colors": "Blue, Purple, Midnight, Starlight, Orange"
+   },
+   "options": [
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Blue",
+       "default": true,
+       "image": {
+        "small": "/images/catalog/apple-airpods-max-ear-cushions--blue-400.webp",
+        "large": "/images/catalog/apple-airpods-max-ear-cushions--blue-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple AirPods Max Ear Cushions in Blue, official Apple Store product image"
+       }
+      },
+      {
+       "label": "Purple",
+       "image": {
+        "small": "/images/catalog/apple-airpods-max-ear-cushions--purple-400.webp",
+        "large": "/images/catalog/apple-airpods-max-ear-cushions--purple-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple AirPods Max Ear Cushions in Purple, official Apple Store product image"
+       }
+      },
+      {
+       "label": "Midnight",
+       "image": {
+        "small": "/images/catalog/apple-airpods-max-ear-cushions--midnight-400.webp",
+        "large": "/images/catalog/apple-airpods-max-ear-cushions--midnight-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple AirPods Max Ear Cushions in Midnight, official Apple Store product image"
+       }
+      },
+      {
+       "label": "Starlight",
+       "image": {
+        "small": "/images/catalog/apple-airpods-max-ear-cushions--starlight-400.webp",
+        "large": "/images/catalog/apple-airpods-max-ear-cushions--starlight-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple AirPods Max Ear Cushions in Starlight, official Apple Store product image"
+       }
+      },
+      {
+       "label": "Orange",
+       "image": {
+        "small": "/images/catalog/apple-airpods-max-ear-cushions--orange-400.webp",
+        "large": "/images/catalog/apple-airpods-max-ear-cushions--orange-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple AirPods Max Ear Cushions in Orange, official Apple Store product image"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "sku": "TK-APPLE-AIRPODSMAX-LTG-CUSHIONS",
+   "slug": "apple-airpods-max-lightning-ear-cushions",
+   "name": "Apple AirPods Max (Lightning Connector) Ear Cushions",
+   "brand": "Apple",
+   "category": "tablet-accessories",
+   "price": "69.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    41,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [],
+   "summary": "Replacement memory foam and mesh ear cushions for the original Lightning-connector AirPods Max, in five colours.",
+   "description": "Replacement ear cushions for AirPods Max (Lightning Connector), made of acoustically engineered memory foam and a mesh textile for a comfortable fit. The box contains one set of ear cushions, made by Apple.",
+   "keywords": "airpods max lightning ear cushions replacement",
+   "specs": {
+    "compatibility": "AirPods Max (Lightning Connector)",
+    "configurations": "One set (left and right)",
+    "colors": "Sky Blue, Silver, Green, Black, Red"
+   },
+   "options": [
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Sky Blue",
+       "default": true,
+       "image": {
+        "small": "/images/catalog/apple-airpods-max-lightning-ear-cushions--sky-blue-400.webp",
+        "large": "/images/catalog/apple-airpods-max-lightning-ear-cushions--sky-blue-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple AirPods Max (Lightning Connector) Ear Cushions in Sky Blue, official Apple Store product image"
+       }
+      },
+      {
+       "label": "Silver",
+       "image": {
+        "small": "/images/catalog/apple-airpods-max-lightning-ear-cushions--silver-400.webp",
+        "large": "/images/catalog/apple-airpods-max-lightning-ear-cushions--silver-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple AirPods Max (Lightning Connector) Ear Cushions in Silver, official Apple Store product image"
+       }
+      },
+      {
+       "label": "Green",
+       "image": {
+        "small": "/images/catalog/apple-airpods-max-lightning-ear-cushions--green-400.webp",
+        "large": "/images/catalog/apple-airpods-max-lightning-ear-cushions--green-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple AirPods Max (Lightning Connector) Ear Cushions in Green, official Apple Store product image"
+       }
+      },
+      {
+       "label": "Black",
+       "image": {
+        "small": "/images/catalog/apple-airpods-max-lightning-ear-cushions--black-400.webp",
+        "large": "/images/catalog/apple-airpods-max-lightning-ear-cushions--black-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple AirPods Max (Lightning Connector) Ear Cushions in Black, official Apple Store product image"
+       }
+      },
+      {
+       "label": "Red",
+       "image": {
+        "small": "/images/catalog/apple-airpods-max-lightning-ear-cushions--red-400.webp",
+        "large": "/images/catalog/apple-airpods-max-lightning-ear-cushions--red-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple AirPods Max (Lightning Connector) Ear Cushions in Red, official Apple Store product image"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "sku": "TK-TECH21-EVOCLEAR-AIRPODS5",
+   "slug": "tech21-evoclear-case-airpods-5",
+   "name": "Tech21 EvoClear Case for AirPods 5",
+   "brand": "Tech21",
+   "category": "cases-protection",
+   "price": "34.95",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    53,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [],
+   "summary": "Clear, scratch- and UV-resistant Tech21 protective case for AirPods 5, sold on apple.com.",
+   "description": "Designed for AirPods 5, the Tech21 EvoClear case combines impact protection with a clear look. It uses Tech21's Bio-Spice ingredient (over 98% biodegradable per Tech21), UV-resistant agents that prevent yellowing and brittleness, and a self-healing scratch-resistant formula, with clean cutouts for ports and easy opening.",
+   "keywords": "tech21 evoclear clear case airpods 5",
+   "specs": {
+    "accessoryType": "AirPods case",
+    "compatibility": "AirPods 5",
+    "material": "Clear plastic with Bio-Spice additive",
+    "magsafe": false
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-TECH21-EVOCLEAR-AIRPODSPRO3",
+   "slug": "tech21-evoclear-case-airpods-pro-3",
+   "name": "Tech21 EvoClear Case for AirPods Pro 3",
+   "brand": "Tech21",
+   "category": "cases-protection",
+   "price": "34.95",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    45,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [],
+   "summary": "Clear, scratch- and UV-resistant Tech21 protective case for AirPods Pro 3, sold on apple.com.",
+   "description": "The Tech21 EvoClear case for AirPods Pro 3 is a slim, crystal-clear impact-protection case with UV- and scratch-resistant materials and MicroDot technology for lasting clarity. It opens and closes smoothly, with cutouts for the charging port and lanyard attachment and integrated button access, and uses Tech21's Bio-Spice ingredient.",
+   "keywords": "tech21 evoclear clear case airpods pro 3",
+   "specs": {
+    "accessoryType": "AirPods case",
+    "compatibility": "AirPods Pro 3",
+    "material": "Clear plastic with Bio-Spice additive",
+    "magsafe": false
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-TECH21-EVOCLEAR-AIRPODSMAX",
+   "slug": "tech21-evoclear-airpods-max",
+   "name": "Tech21 EvoClear Case for AirPods Max",
+   "brand": "Tech21",
+   "category": "cases-protection",
+   "price": "44.95",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    27,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [],
+   "summary": "Clear, scratch- and UV-resistant Tech21 protective case for AirPods Max, sold on apple.com.",
+   "description": "The Tech21 EvoClear for AirPods Max is a clear protective cover made with Tech21's Bio-Spice ingredient (over 60% biodegradable per Tech21), UV-resistant anti-yellowing agents, a self-healing scratch-resistant formula and Microdot for clarity, with an ergonomic opening and clear port cutouts.",
+   "keywords": "tech21 evoclear clear case airpods max",
+   "specs": {
+    "accessoryType": "AirPods case",
+    "compatibility": "AirPods Max",
+    "material": "Clear plastic with Bio-Spice additive",
+    "magsafe": false
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-BELKIN-AIRPODS-CLEANING-KIT",
+   "slug": "belkin-airpods-cleaning-kit",
+   "name": "Belkin AirPods Cleaning Kit",
+   "brand": "Belkin",
+   "category": "tablet-accessories",
+   "price": "12.95",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    32,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [],
+   "summary": "Reusable Belkin cleaning kit for AirPods with brush, cleaning liquid, deionized water and microfiber cloth.",
+   "description": "The Belkin AirPods Cleaning Kit includes everything needed to clean AirPods: a cleaning brush, cleaning liquid, deionized water, a microfiber cloth and how-to instructions. The tools can be reused for multiple cleanings.",
+   "keywords": "belkin airpods cleaning kit brush earbuds",
+   "specs": {
+    "compatibility": "AirPods, AirPods Pro, AirPods Max",
+    "configurations": "Brush, cleaning liquid, deionized water, microfiber cloth"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-COMFYABLE-PUFFER-AIRPODS",
+   "slug": "comfyable-puffer-airpods-case",
+   "name": "Comfyable Puffer AirPods Case",
+   "brand": "Comfyable",
+   "category": "cases-protection",
+   "price": "19.95",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    59,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [],
+   "summary": "Quilted puffer pouch for any AirPods case with a magnetic closure and zinc-alloy carabiner.",
+   "description": "The Comfyable Puffer AirPods Case has a pillow-like quilted design in lightweight, water-repellent nylon that fits all AirPods models with their charging case, plus coins or cards. A magnetic closure keeps things secure and the included zinc-alloy carabiner clips to bags or straps.",
+   "keywords": "comfyable puffer airpods case pouch carabiner",
+   "specs": {
+    "accessoryType": "AirPods pouch",
+    "compatibility": "All AirPods models with charging case",
+    "material": "Water-repellent nylon, zinc-alloy carabiner",
+    "magsafe": false,
+    "colors": "Black, Sage"
+   },
+   "options": [
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Black",
+       "default": true,
+       "image": {
+        "small": "/images/catalog/comfyable-puffer-airpods-case--black-400.webp",
+        "large": "/images/catalog/comfyable-puffer-airpods-case--black-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Comfyable Puffer AirPods Case in Black, official Apple Store product image"
+       }
+      },
+      {
+       "label": "Sage",
+       "image": {
+        "small": "/images/catalog/comfyable-puffer-airpods-case--sage-400.webp",
+        "large": "/images/catalog/comfyable-puffer-airpods-case--sage-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Comfyable Puffer AirPods Case in Sage, official Apple Store product image"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "sku": "TK-HERSCHEL-AIRPODS-TOTE-CHARM",
+   "slug": "herschel-airpods-tote-bag-charm",
+   "name": "Herschel AirPods Tote Bag Charm",
+   "brand": "Herschel Supply",
+   "category": "cases-protection",
+   "price": "19.95",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    47,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [],
+   "summary": "Miniature tote-bag pouch for AirPods with zippered closure and metal keyring, in recycled polyester.",
+   "description": "The Herschel AirPods Charm is a tiny take on a classic tote bag: a zippered pouch for AirPods made from 100% recycled 300D polyester (excluding trims) with twill webbing details and a metal keyring to attach to a bag or keys.",
+   "keywords": "herschel airpods charm tote pouch keyring",
+   "specs": {
+    "accessoryType": "AirPods pouch",
+    "compatibility": "AirPods",
+    "material": "Recycled 300D polyester",
+    "magsafe": false,
+    "colors": "Blue, Green"
+   },
+   "options": [
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Blue",
+       "default": true,
+       "image": {
+        "small": "/images/catalog/herschel-airpods-tote-bag-charm--blue-400.webp",
+        "large": "/images/catalog/herschel-airpods-tote-bag-charm--blue-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Herschel AirPods Tote Bag Charm in Blue, official Apple Store product image"
+       }
+      },
+      {
+       "label": "Green",
+       "image": {
+        "small": "/images/catalog/herschel-airpods-tote-bag-charm--green-400.webp",
+        "large": "/images/catalog/herschel-airpods-tote-bag-charm--green-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Herschel AirPods Tote Bag Charm in Green, official Apple Store product image"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "sku": "TK-HERSCHEL-CLOUDFORM-AIRPODS",
+   "slug": "herschel-cloudform-airpods-charm",
+   "name": "Herschel Cloudform AirPods Charm",
+   "brand": "Herschel Supply",
+   "category": "cases-protection",
+   "price": "24.95",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    16,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [],
+   "summary": "Padded Herschel Cloudform pouch for AirPods with zippered closure and metal keyring.",
+   "description": "Herschel's Cloudform AirPods Charm keeps AirPods safe in a padded, lightweight pouch with polyfill batting and 100% recycled polyester (excluding trims), a zippered closure and a metal keyring for easy attachment.",
+   "keywords": "herschel cloudform airpods charm padded pouch",
+   "specs": {
+    "accessoryType": "AirPods pouch",
+    "compatibility": "AirPods",
+    "material": "Recycled polyester with polyfill batting",
+    "magsafe": false,
+    "colors": "Blue, Pink"
+   },
+   "options": [
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Blue",
+       "default": true,
+       "image": {
+        "small": "/images/catalog/herschel-cloudform-airpods-charm--blue-400.webp",
+        "large": "/images/catalog/herschel-cloudform-airpods-charm--blue-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Herschel Cloudform AirPods Charm in Blue, official Apple Store product image"
+       }
+      },
+      {
+       "label": "Pink",
+       "image": {
+        "small": "/images/catalog/herschel-cloudform-airpods-charm--pink-400.webp",
+        "large": "/images/catalog/herschel-cloudform-airpods-charm--pink-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Herschel Cloudform AirPods Charm in Pink, official Apple Store product image"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "sku": "TK-INCASE-AIRPODS-LANYARD",
+   "slug": "incase-lanyard-airpods",
+   "name": "Incase Lanyard for AirPods Pro",
+   "brand": "Incase",
+   "category": "tablet-accessories",
+   "price": "12.95",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    28,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [],
+   "summary": "Soft braided wrist lanyard with integrated clip for AirPods Pro charging cases.",
+   "description": "The Incase Lanyard for AirPods Pro is a soft braided cord you can wear as a wrist loop, or attach with its integrated clip to a backpack or handbag to keep the case safe and accessible.",
+   "keywords": "incase lanyard airpods pro wrist strap",
+   "specs": {
+    "compatibility": "AirPods Pro (2nd generation) charging case"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-TECH21-LANYARD-2PACK",
+   "slug": "tech21-lanyard-2-pack",
+   "name": "Tech21 Lanyard 2-Pack",
+   "brand": "Tech21",
+   "category": "tablet-accessories",
+   "price": "19.95",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    41,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [],
+   "summary": "Two adjustable soft-touch nylon lanyards for iPhone or AirPods Pro.",
+   "description": "These Tech21 lanyards are made from soft-touch nylon with gold metallic thread and attach to an iPhone or AirPods Pro for extra grip and hands-free carrying. An adjustable clip sets the size; two lanyards are included in 100% recycled packaging.",
+   "keywords": "tech21 lanyard airpods pro iphone crossbody nylon",
+   "specs": {
+    "compatibility": "iPhone and AirPods Pro cases with lanyard loop",
+    "configurations": "2 lanyards, black and gray"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-TECH21-WRIST-LANYARD-2PK",
+   "slug": "tech21-wrist-lanyard-2-pack",
+   "name": "Tech21 Wrist Lanyard (2 Pack)",
+   "brand": "Tech21",
+   "category": "tablet-accessories",
+   "price": "19.95",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    19,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [],
+   "summary": "Two adjustable soft-touch wrist lanyards (gray and black) for iPhone or AirPods Pro.",
+   "description": "Tech21 wrist lanyards are made from soft-touch nylon and attach to an iPhone or AirPods Pro for extra grip and hands-free carrying, with an adjustable clip. The pack includes a gray and a black wrist lanyard in 100% recycled packaging.",
+   "keywords": "tech21 wrist lanyard airpods pro iphone",
+   "specs": {
+    "compatibility": "iPhone and AirPods Pro cases with lanyard loop",
+    "configurations": "2 wrist lanyards, gray and black"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-APPLE-AIRTAG-FINEWOVEN-KEYRING",
+   "slug": "apple-airtag-finewoven-key-ring",
+   "name": "Apple AirTag FineWoven Key Ring",
+   "brand": "Apple",
+   "category": "tablet-accessories",
+   "price": "35.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    54,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "apple-ecosystem"
+   ],
+   "summary": "Apple's FineWoven microtwill and stainless steel key ring that holds AirTag snugly.",
+   "description": "The AirTag FineWoven Key Ring pairs a stainless steel ring with durable, suede-like FineWoven microtwill made from 68 percent post-consumer recycled content. It fits snugly over AirTag so it will not fall out. AirTag sold separately.",
+   "keywords": "airtag key ring finewoven keychain holder",
+   "specs": {
+    "compatibility": "AirTag (1st and 2nd generation)",
+    "configurations": "FineWoven microtwill, stainless steel ring",
+    "colors": "Dark Olive, Burgundy, Wildflower Blue, Navy, Black"
+   },
+   "options": [
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Dark Olive",
+       "default": true,
+       "image": {
+        "small": "/images/catalog/apple-airtag-finewoven-key-ring--dark-olive-400.webp",
+        "large": "/images/catalog/apple-airtag-finewoven-key-ring--dark-olive-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple AirTag FineWoven Key Ring in Dark Olive, official Apple Store product image"
+       }
+      },
+      {
+       "label": "Burgundy",
+       "image": {
+        "small": "/images/catalog/apple-airtag-finewoven-key-ring--burgundy-400.webp",
+        "large": "/images/catalog/apple-airtag-finewoven-key-ring--burgundy-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple AirTag FineWoven Key Ring in Burgundy, official Apple Store product image"
+       }
+      },
+      {
+       "label": "Wildflower Blue",
+       "image": {
+        "small": "/images/catalog/apple-airtag-finewoven-key-ring--wildflower-blue-400.webp",
+        "large": "/images/catalog/apple-airtag-finewoven-key-ring--wildflower-blue-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple AirTag FineWoven Key Ring in Wildflower Blue, official Apple Store product image"
+       }
+      },
+      {
+       "label": "Navy",
+       "image": {
+        "small": "/images/catalog/apple-airtag-finewoven-key-ring--navy-400.webp",
+        "large": "/images/catalog/apple-airtag-finewoven-key-ring--navy-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple AirTag FineWoven Key Ring in Navy, official Apple Store product image"
+       }
+      },
+      {
+       "label": "Black",
+       "image": {
+        "small": "/images/catalog/apple-airtag-finewoven-key-ring--black-400.webp",
+        "large": "/images/catalog/apple-airtag-finewoven-key-ring--black-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple AirTag FineWoven Key Ring in Black, official Apple Store product image"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "sku": "TK-MOPHIE-LOOP-AIRTAG",
+   "slug": "mophie-loop-airtag-case",
+   "name": "mophie Knit Loop AirTag Case",
+   "brand": "mophie",
+   "category": "tablet-accessories",
+   "price": "14.95",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    41,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [],
+   "summary": "Knit-finish twist-on AirTag holder with an integrated lanyard loop and ID colour bands.",
+   "description": "The mophie Knit Loop for AirTag wraps AirTag in a durable knit fabric finish with a compact, low-bulk build. It installs with an easy twist and has an integrated lanyard loop to attach to keys or bags; three ID colour bands are included.",
+   "keywords": "mophie airtag loop holder keychain knit",
+   "specs": {
+    "compatibility": "AirTag",
+    "configurations": "Nylon, hard plastic and fabric; 3 ID colour bands",
+    "colors": "Black, Gray, Blue, Pink"
+   },
+   "options": [
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Black",
+       "default": true,
+       "image": {
+        "small": "/images/catalog/mophie-loop-airtag-case--black-400.webp",
+        "large": "/images/catalog/mophie-loop-airtag-case--black-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "mophie Knit Loop AirTag Case in Black, official Apple Store product image"
+       }
+      },
+      {
+       "label": "Gray",
+       "image": {
+        "small": "/images/catalog/mophie-loop-airtag-case--gray-400.webp",
+        "large": "/images/catalog/mophie-loop-airtag-case--gray-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "mophie Knit Loop AirTag Case in Gray, official Apple Store product image"
+       }
+      },
+      {
+       "label": "Blue",
+       "image": {
+        "small": "/images/catalog/mophie-loop-airtag-case--blue-400.webp",
+        "large": "/images/catalog/mophie-loop-airtag-case--blue-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "mophie Knit Loop AirTag Case in Blue, official Apple Store product image"
+       }
+      },
+      {
+       "label": "Pink",
+       "image": {
+        "small": "/images/catalog/mophie-loop-airtag-case--pink-400.webp",
+        "large": "/images/catalog/mophie-loop-airtag-case--pink-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "mophie Knit Loop AirTag Case in Pink, official Apple Store product image"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "sku": "TK-MOPHIE-KNIT-PUCK-AIRTAG",
+   "slug": "mophie-knit-puck-for-airtag",
+   "name": "mophie Knit Puck for AirTag",
+   "brand": "mophie",
+   "category": "tablet-accessories",
+   "price": "18.95",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    22,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [],
+   "summary": "Screw-lock knit-wrapped AirTag enclosure with ID colour bands, sold singly or in a 4-pack.",
+   "description": "The mophie Knit Puck for AirTag encloses AirTag with a secure screw-lock design and a rugged, low-profile build that protects against bumps and drops. It is wrapped in premium knit fabric and comes with three ID colour bands and a mini screwdriver.",
+   "keywords": "mophie airtag puck holder screw lock knit",
+   "specs": {
+    "compatibility": "AirTag",
+    "configurations": "1 pack – $18.95 · 4 pack (Black or Gray) – $64.95",
+    "colors": "Black, Gray, Blue, Pink"
+   },
+   "options": [
+    {
+     "name": "Pack",
+     "values": [
+      {
+       "label": "1 pack",
+       "price": "18.95",
+       "default": true
+      },
+      {
+       "label": "4 pack (Black or Gray)",
+       "price": "64.95"
+      }
+     ]
+    },
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Black",
+       "default": true,
+       "image": {
+        "small": "/images/catalog/mophie-knit-puck-for-airtag--black-400.webp",
+        "large": "/images/catalog/mophie-knit-puck-for-airtag--black-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "mophie Knit Puck for AirTag in Black, official Apple Store product image"
+       }
+      },
+      {
+       "label": "Gray",
+       "image": {
+        "small": "/images/catalog/mophie-knit-puck-for-airtag--gray-400.webp",
+        "large": "/images/catalog/mophie-knit-puck-for-airtag--gray-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "mophie Knit Puck for AirTag in Gray, official Apple Store product image"
+       }
+      },
+      {
+       "label": "Blue",
+       "image": {
+        "small": "/images/catalog/mophie-knit-puck-for-airtag--blue-400.webp",
+        "large": "/images/catalog/mophie-knit-puck-for-airtag--blue-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "mophie Knit Puck for AirTag in Blue, official Apple Store product image"
+       }
+      },
+      {
+       "label": "Pink",
+       "image": {
+        "small": "/images/catalog/mophie-knit-puck-for-airtag--pink-400.webp",
+        "large": "/images/catalog/mophie-knit-puck-for-airtag--pink-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "mophie Knit Puck for AirTag in Pink, official Apple Store product image"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "sku": "TK-HERSCHEL-AIRTAG-CHARM",
+   "slug": "herschel-airtag-charm",
+   "name": "Herschel AirTag Charm",
+   "brand": "Herschel Supply",
+   "category": "tablet-accessories",
+   "price": "19.95",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    21,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [],
+   "summary": "Miniature zippered tote-bag pouch for AirTag with a metal keyring, in recycled polyester.",
+   "description": "The Herschel AirTag Charm is a tiny take on a classic tote bag: a zippered pouch for AirTag made from 100% recycled 300D polyester (excluding trims) with twill webbing details and a metal keyring to attach to bags or keys.",
+   "keywords": "herschel airtag charm pouch keyring holder",
+   "specs": {
+    "compatibility": "AirTag",
+    "configurations": "Recycled 300D polyester pouch with metal keyring",
+    "colors": "Dark Green, Blue, Pink, Green"
+   },
+   "options": [
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Dark Green",
+       "default": true,
+       "image": {
+        "small": "/images/catalog/herschel-airtag-charm--dark-green-400.webp",
+        "large": "/images/catalog/herschel-airtag-charm--dark-green-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Herschel AirTag Charm in Dark Green, official Apple Store product image"
+       }
+      },
+      {
+       "label": "Blue",
+       "image": {
+        "small": "/images/catalog/herschel-airtag-charm--blue-400.webp",
+        "large": "/images/catalog/herschel-airtag-charm--blue-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Herschel AirTag Charm in Blue, official Apple Store product image"
+       }
+      },
+      {
+       "label": "Pink",
+       "image": {
+        "small": "/images/catalog/herschel-airtag-charm--pink-400.webp",
+        "large": "/images/catalog/herschel-airtag-charm--pink-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Herschel AirTag Charm in Pink, official Apple Store product image"
+       }
+      },
+      {
+       "label": "Green",
+       "image": {
+        "small": "/images/catalog/herschel-airtag-charm--green-400.webp",
+        "large": "/images/catalog/herschel-airtag-charm--green-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Herschel AirTag Charm in Green, official Apple Store product image"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "sku": "TK-APPLE-SIRI-REMOTE-3",
+   "slug": "apple-siri-remote-3rd-generation",
+   "name": "Apple Siri Remote (3rd generation)",
+   "brand": "Apple",
+   "category": "tablet-accessories",
+   "price": "59.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    43,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "apple-ecosystem"
+   ],
+   "summary": "USB-C Siri Remote for Apple TV 4K with touch-enabled clickpad, Siri microphone and IR transmitter.",
+   "description": "The Siri Remote (3rd generation) controls Apple TV 4K with a touch-enabled clickpad for selecting and swiping, and a circular gesture on the outer ring to scrub through video. It has a microphone for Siri, an IR transmitter, Bluetooth 5.0 and a rechargeable battery that lasts months, charged via its USB-C port. It weighs 66 g.",
+   "keywords": "siri remote apple tv 4k usb-c replacement remote",
+   "specs": {
+    "compatibility": "Apple TV 4K",
+    "configurations": "Bluetooth 5.0, IR, USB-C charging"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-INNOVELIS-TOTALMOUNT-APPLETV",
+   "slug": "innovelis-totalmount-pro-apple-tv",
+   "name": "Innovelis TotalMount Pro Apple TV Installation System",
+   "brand": "Innovelis",
+   "category": "tablet-accessories",
+   "price": "39.95",
+   "compareAt": null,
+   "warranty": 24,
+   "stock": [
+    51,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [],
+   "summary": "Mount that attaches Apple TV 4K to the back of a wall-mounted TV, with Siri Remote case, remote holder and cable managers.",
+   "description": "The TotalMount Pro Apple TV Installation System attaches Apple TV to the back of a wall-mounted television, protecting it from falls while giving direct access to the TV's ports. Flexible feet secure the mount and ventilation channels manage heat. It includes an Air Rim remote case, a remote holder and two cable managers.",
+   "keywords": "innovelis totalmount apple tv mount wall tv bracket",
+   "specs": {
+    "compatibility": "Apple TV 4K; wall-mounted televisions",
+    "configurations": "Mount, remote case, remote holder, 2 cable managers"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-STEELSERIES-NIMBUS-CLOUD",
+   "slug": "steelseries-nimbus-cloud-controller",
+   "name": "SteelSeries Nimbus Dual-Mode Cloud Controller",
+   "brand": "SteelSeries",
+   "category": "controllers",
+   "price": "149.95",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    59,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [],
+   "summary": "Dual-mode controller that works as a phone-mounted controller or full-size Bluetooth gamepad for Apple TV, iPhone, iPad and Mac.",
+   "description": "The SteelSeries Nimbus Cloud switches between a mobile controller that holds an iPhone and a full-size wireless Bluetooth controller. It has Hall-effect magnetic sensors on the triggers and thumbsticks, up to 20 hours of wireless battery life with USB-C pass-through charging, and works with iOS 16, iPadOS 16, tvOS 16 and macOS Ventura or later.",
+   "keywords": "steelseries nimbus cloud controller apple tv gamepad hall effect",
+   "specs": {
+    "platform": "PC (Windows)",
+    "compatibility": "tvOS 16+, iOS 16+, iPadOS 16+, macOS 13+",
+    "connectivity": "Bluetooth, USB-C",
+    "battery": "Up to 20 hours wireless",
+    "weightG": 230
+   },
+   "options": []
+  }
+ ]
+}

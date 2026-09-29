@@ -1,0 +1,4356 @@
+{
+ "products": [
+  {
+   "sku": "TK-APPLE-SILICONE-CASE-18PRO",
+   "slug": "apple-iphone-18-pro-silicone-case-magsafe",
+   "name": "Apple iPhone 18 Pro Silicone Case with MagSafe",
+   "brand": "Apple",
+   "category": "cases-protection",
+   "price": "49.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    47,
+    5
+   ],
+   "featured": true,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "apple-ecosystem"
+   ],
+   "summary": "Apple-designed silicone case for iPhone 18 Pro with built-in MagSafe magnets, Camera Control support and strap attachment points.",
+   "description": "Designed by Apple for iPhone 18 Pro, this case has a silky soft-touch silicone exterior and a soft microfiber lining. A sapphire crystal coupled to a conductive layer passes finger movements to Camera Control, built-in magnets align with MagSafe and Qi2 25W chargers, and the case attaches to the Apple Wrist Strap or Crossbody Strap.",
+   "keywords": "iphone 18 pro case silicone magsafe apple cover",
+   "specs": {
+    "accessoryType": "Case",
+    "compatibility": "iPhone 18 Pro",
+    "material": "Silicone exterior, microfiber lining",
+    "magsafe": true,
+    "colors": "Burgundy, Olive, Crisp Blue, Navy Blue, Magenta, Black"
+   },
+   "options": [
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Burgundy",
+       "default": true,
+       "image": {
+        "small": "/images/catalog/apple-iphone-18-pro-silicone-case-magsafe--burgundy-400.webp",
+        "large": "/images/catalog/apple-iphone-18-pro-silicone-case-magsafe--burgundy-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple iPhone 18 Pro Silicone Case with MagSafe in Burgundy, product view"
+       }
+      },
+      {
+       "label": "Olive",
+       "image": {
+        "small": "/images/catalog/apple-iphone-18-pro-silicone-case-magsafe--olive-400.webp",
+        "large": "/images/catalog/apple-iphone-18-pro-silicone-case-magsafe--olive-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple iPhone 18 Pro Silicone Case with MagSafe in Olive, product view"
+       }
+      },
+      {
+       "label": "Crisp Blue",
+       "image": {
+        "small": "/images/catalog/apple-iphone-18-pro-silicone-case-magsafe--crisp-blue-400.webp",
+        "large": "/images/catalog/apple-iphone-18-pro-silicone-case-magsafe--crisp-blue-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple iPhone 18 Pro Silicone Case with MagSafe in Crisp Blue, product view"
+       }
+      },
+      {
+       "label": "Navy Blue",
+       "image": {
+        "small": "/images/catalog/apple-iphone-18-pro-silicone-case-magsafe--navy-blue-400.webp",
+        "large": "/images/catalog/apple-iphone-18-pro-silicone-case-magsafe--navy-blue-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple iPhone 18 Pro Silicone Case with MagSafe in Navy Blue, product view"
+       }
+      },
+      {
+       "label": "Magenta",
+       "image": {
+        "small": "/images/catalog/apple-iphone-18-pro-silicone-case-magsafe--magenta-400.webp",
+        "large": "/images/catalog/apple-iphone-18-pro-silicone-case-magsafe--magenta-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple iPhone 18 Pro Silicone Case with MagSafe in Magenta, product view"
+       }
+      },
+      {
+       "label": "Black",
+       "image": {
+        "small": "/images/catalog/apple-iphone-18-pro-silicone-case-magsafe--black-400.webp",
+        "large": "/images/catalog/apple-iphone-18-pro-silicone-case-magsafe--black-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple iPhone 18 Pro Silicone Case with MagSafe in Black, product view"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "sku": "TK-APPLE-SILICONE-CASE-18PROMAX",
+   "slug": "apple-iphone-18-pro-max-silicone-case-magsafe",
+   "name": "Apple iPhone 18 Pro Max Silicone Case with MagSafe",
+   "brand": "Apple",
+   "category": "cases-protection",
+   "price": "49.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    10,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "apple-ecosystem"
+   ],
+   "summary": "Apple-designed silicone case for iPhone 18 Pro Max with built-in MagSafe magnets, Camera Control support and strap attachment points.",
+   "description": "Designed by Apple for iPhone 18 Pro Max, this case has a silky soft-touch silicone exterior and a soft microfiber lining. A sapphire crystal coupled to a conductive layer passes finger movements to Camera Control, built-in magnets align with MagSafe and Qi2 25W chargers, and the case attaches to the Apple Wrist Strap or Crossbody Strap.",
+   "keywords": "iphone 18 pro case silicone magsafe apple cover",
+   "specs": {
+    "accessoryType": "Case",
+    "compatibility": "iPhone 18 Pro Max",
+    "material": "Silicone exterior, microfiber lining",
+    "magsafe": true,
+    "colors": "Burgundy, Olive, Crisp Blue, Navy Blue, Magenta, Black"
+   },
+   "options": [
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Burgundy",
+       "default": true,
+       "image": {
+        "small": "/images/catalog/apple-iphone-18-pro-max-silicone-case-magsafe--burgundy-400.webp",
+        "large": "/images/catalog/apple-iphone-18-pro-max-silicone-case-magsafe--burgundy-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple iPhone 18 Pro Max Silicone Case with MagSafe in Burgundy, product view"
+       }
+      },
+      {
+       "label": "Olive",
+       "image": {
+        "small": "/images/catalog/apple-iphone-18-pro-max-silicone-case-magsafe--olive-400.webp",
+        "large": "/images/catalog/apple-iphone-18-pro-max-silicone-case-magsafe--olive-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple iPhone 18 Pro Max Silicone Case with MagSafe in Olive, product view"
+       }
+      },
+      {
+       "label": "Crisp Blue",
+       "image": {
+        "small": "/images/catalog/apple-iphone-18-pro-max-silicone-case-magsafe--crisp-blue-400.webp",
+        "large": "/images/catalog/apple-iphone-18-pro-max-silicone-case-magsafe--crisp-blue-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple iPhone 18 Pro Max Silicone Case with MagSafe in Crisp Blue, product view"
+       }
+      },
+      {
+       "label": "Navy Blue",
+       "image": {
+        "small": "/images/catalog/apple-iphone-18-pro-max-silicone-case-magsafe--navy-blue-400.webp",
+        "large": "/images/catalog/apple-iphone-18-pro-max-silicone-case-magsafe--navy-blue-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple iPhone 18 Pro Max Silicone Case with MagSafe in Navy Blue, product view"
+       }
+      },
+      {
+       "label": "Magenta",
+       "image": {
+        "small": "/images/catalog/apple-iphone-18-pro-max-silicone-case-magsafe--magenta-400.webp",
+        "large": "/images/catalog/apple-iphone-18-pro-max-silicone-case-magsafe--magenta-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple iPhone 18 Pro Max Silicone Case with MagSafe in Magenta, product view"
+       }
+      },
+      {
+       "label": "Black",
+       "image": {
+        "small": "/images/catalog/apple-iphone-18-pro-max-silicone-case-magsafe--black-400.webp",
+        "large": "/images/catalog/apple-iphone-18-pro-max-silicone-case-magsafe--black-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple iPhone 18 Pro Max Silicone Case with MagSafe in Black, product view"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "sku": "TK-APPLE-TECHWOVEN-CASE-18PRO",
+   "slug": "apple-iphone-18-pro-techwoven-case-magsafe",
+   "name": "Apple iPhone 18 Pro TechWoven Case with MagSafe",
+   "brand": "Apple",
+   "category": "cases-protection",
+   "price": "59.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    39,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "apple-ecosystem"
+   ],
+   "summary": "Apple TechWoven case for iPhone 18 Pro: a Jacquard-woven recycled-polyester fabric back with MagSafe and two strap connection points.",
+   "description": "The TechWoven Case is made from a custom technical woven fabric of 100 percent recycled polyester, with multiple coloured yarns woven on a Jacquard loom for a dimensional texture. The sides are coated in lightly textured TPU for grip, the buttons are anodized aluminum, and built-in magnets align with MagSafe and Qi2 25W chargers. Two connection points attach the Wrist Strap or Crossbody Strap.",
+   "keywords": "iphone 18 pro case techwoven fabric woven magsafe apple",
+   "specs": {
+    "accessoryType": "Case",
+    "compatibility": "iPhone 18 Pro",
+    "material": "TechWoven fabric (100% recycled polyester), TPU sides, anodized aluminum buttons",
+    "magsafe": true,
+    "colors": "Burgundy, Olive, Taupe, Chambray Blue, Mulberry, Black"
+   },
+   "options": [
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Burgundy",
+       "default": true,
+       "image": {
+        "small": "/images/catalog/apple-iphone-18-pro-techwoven-case-magsafe--burgundy-400.webp",
+        "large": "/images/catalog/apple-iphone-18-pro-techwoven-case-magsafe--burgundy-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple iPhone 18 Pro TechWoven Case with MagSafe in Burgundy, product view"
+       }
+      },
+      {
+       "label": "Olive",
+       "image": {
+        "small": "/images/catalog/apple-iphone-18-pro-techwoven-case-magsafe--olive-400.webp",
+        "large": "/images/catalog/apple-iphone-18-pro-techwoven-case-magsafe--olive-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple iPhone 18 Pro TechWoven Case with MagSafe in Olive, product view"
+       }
+      },
+      {
+       "label": "Taupe",
+       "image": {
+        "small": "/images/catalog/apple-iphone-18-pro-techwoven-case-magsafe--taupe-400.webp",
+        "large": "/images/catalog/apple-iphone-18-pro-techwoven-case-magsafe--taupe-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple iPhone 18 Pro TechWoven Case with MagSafe in Taupe, product view"
+       }
+      },
+      {
+       "label": "Chambray Blue",
+       "image": {
+        "small": "/images/catalog/apple-iphone-18-pro-techwoven-case-magsafe--chambray-blue-400.webp",
+        "large": "/images/catalog/apple-iphone-18-pro-techwoven-case-magsafe--chambray-blue-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple iPhone 18 Pro TechWoven Case with MagSafe in Chambray Blue, product view"
+       }
+      },
+      {
+       "label": "Mulberry",
+       "image": {
+        "small": "/images/catalog/apple-iphone-18-pro-techwoven-case-magsafe--mulberry-400.webp",
+        "large": "/images/catalog/apple-iphone-18-pro-techwoven-case-magsafe--mulberry-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple iPhone 18 Pro TechWoven Case with MagSafe in Mulberry, product view"
+       }
+      },
+      {
+       "label": "Black",
+       "image": {
+        "small": "/images/catalog/apple-iphone-18-pro-techwoven-case-magsafe--black-400.webp",
+        "large": "/images/catalog/apple-iphone-18-pro-techwoven-case-magsafe--black-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple iPhone 18 Pro TechWoven Case with MagSafe in Black, product view"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "sku": "TK-APPLE-TECHWOVEN-CASE-18PROMAX",
+   "slug": "apple-iphone-18-pro-max-techwoven-case-magsafe",
+   "name": "Apple iPhone 18 Pro Max TechWoven Case with MagSafe",
+   "brand": "Apple",
+   "category": "cases-protection",
+   "price": "59.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    10,
+    5
+   ],
+   "featured": true,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "apple-ecosystem"
+   ],
+   "summary": "Apple TechWoven case for iPhone 18 Pro Max: a Jacquard-woven recycled-polyester fabric back with MagSafe and two strap connection points.",
+   "description": "The TechWoven Case is made from a custom technical woven fabric of 100 percent recycled polyester, with multiple coloured yarns woven on a Jacquard loom for a dimensional texture. The sides are coated in lightly textured TPU for grip, the buttons are anodized aluminum, and built-in magnets align with MagSafe and Qi2 25W chargers. Two connection points attach the Wrist Strap or Crossbody Strap.",
+   "keywords": "iphone 18 pro case techwoven fabric woven magsafe apple",
+   "specs": {
+    "accessoryType": "Case",
+    "compatibility": "iPhone 18 Pro Max",
+    "material": "TechWoven fabric (100% recycled polyester), TPU sides, anodized aluminum buttons",
+    "magsafe": true,
+    "colors": "Burgundy, Olive, Taupe, Chambray Blue, Mulberry, Black"
+   },
+   "options": [
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Burgundy",
+       "default": true,
+       "image": {
+        "small": "/images/catalog/apple-iphone-18-pro-max-techwoven-case-magsafe--burgundy-400.webp",
+        "large": "/images/catalog/apple-iphone-18-pro-max-techwoven-case-magsafe--burgundy-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple iPhone 18 Pro Max TechWoven Case with MagSafe in Burgundy, product view"
+       }
+      },
+      {
+       "label": "Olive",
+       "image": {
+        "small": "/images/catalog/apple-iphone-18-pro-max-techwoven-case-magsafe--olive-400.webp",
+        "large": "/images/catalog/apple-iphone-18-pro-max-techwoven-case-magsafe--olive-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple iPhone 18 Pro Max TechWoven Case with MagSafe in Olive, product view"
+       }
+      },
+      {
+       "label": "Taupe",
+       "image": {
+        "small": "/images/catalog/apple-iphone-18-pro-max-techwoven-case-magsafe--taupe-400.webp",
+        "large": "/images/catalog/apple-iphone-18-pro-max-techwoven-case-magsafe--taupe-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple iPhone 18 Pro Max TechWoven Case with MagSafe in Taupe, product view"
+       }
+      },
+      {
+       "label": "Chambray Blue",
+       "image": {
+        "small": "/images/catalog/apple-iphone-18-pro-max-techwoven-case-magsafe--chambray-blue-400.webp",
+        "large": "/images/catalog/apple-iphone-18-pro-max-techwoven-case-magsafe--chambray-blue-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple iPhone 18 Pro Max TechWoven Case with MagSafe in Chambray Blue, product view"
+       }
+      },
+      {
+       "label": "Mulberry",
+       "image": {
+        "small": "/images/catalog/apple-iphone-18-pro-max-techwoven-case-magsafe--mulberry-400.webp",
+        "large": "/images/catalog/apple-iphone-18-pro-max-techwoven-case-magsafe--mulberry-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple iPhone 18 Pro Max TechWoven Case with MagSafe in Mulberry, product view"
+       }
+      },
+      {
+       "label": "Black",
+       "image": {
+        "small": "/images/catalog/apple-iphone-18-pro-max-techwoven-case-magsafe--black-400.webp",
+        "large": "/images/catalog/apple-iphone-18-pro-max-techwoven-case-magsafe--black-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple iPhone 18 Pro Max TechWoven Case with MagSafe in Black, product view"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "sku": "TK-APPLE-CLEAR-CASE-18PRO",
+   "slug": "apple-iphone-18-pro-clear-case-magsafe",
+   "name": "Apple iPhone 18 Pro Clear Case with MagSafe",
+   "brand": "Apple",
+   "category": "cases-protection",
+   "price": "49.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    55,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "apple-ecosystem"
+   ],
+   "summary": "Thin, light Apple clear case for iPhone 18 Pro that shows off the phone finish, with MagSafe, Camera Control and strap attachment.",
+   "description": "Crafted from a blend of optically clear polycarbonate and flexible materials, this Apple case shows off the finish of iPhone 18 Pro. A scratch-resistant coating covers the interior and exterior and all materials are optimized to prevent yellowing. It supports Camera Control, MagSafe and Qi2 25W charging, and attaches to the Wrist Strap or Crossbody Strap.",
+   "keywords": "iphone 18 pro clear case transparent magsafe apple",
+   "specs": {
+    "accessoryType": "Case",
+    "compatibility": "iPhone 18 Pro",
+    "material": "Optically clear polycarbonate and flexible materials",
+    "magsafe": true
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-APPLE-CLEAR-CASE-18PROMAX",
+   "slug": "apple-iphone-18-pro-max-clear-case-magsafe",
+   "name": "Apple iPhone 18 Pro Max Clear Case with MagSafe",
+   "brand": "Apple",
+   "category": "cases-protection",
+   "price": "49.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    24,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "apple-ecosystem"
+   ],
+   "summary": "Thin, light Apple clear case for iPhone 18 Pro Max that shows off the phone finish, with MagSafe, Camera Control and strap attachment.",
+   "description": "Crafted from a blend of optically clear polycarbonate and flexible materials, this Apple case shows off the finish of iPhone 18 Pro Max. A scratch-resistant coating covers the interior and exterior and all materials are optimized to prevent yellowing. It supports Camera Control, MagSafe and Qi2 25W charging, and attaches to the Wrist Strap or Crossbody Strap.",
+   "keywords": "iphone 18 pro clear case transparent magsafe apple",
+   "specs": {
+    "accessoryType": "Case",
+    "compatibility": "iPhone 18 Pro Max",
+    "material": "Optically clear polycarbonate and flexible materials",
+    "magsafe": true
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-APPLE-AIR-CASE-MAGSAFE",
+   "slug": "apple-iphone-air-case-magsafe",
+   "name": "Apple iPhone Air Case with MagSafe",
+   "brand": "Apple",
+   "category": "cases-protection",
+   "price": "49.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    27,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "apple-ecosystem"
+   ],
+   "summary": "Ultrathin translucent Apple case for iPhone Air with a 0.9 mm back panel, MagSafe, Camera Control and Crossbody Strap connection points.",
+   "description": "This ultrathin translucent case complements iPhone Air: the back panel is just 0.9 mm, reinforced with a polycarbonate frame, frosted inside and high-gloss outside. It supports Camera Control, MagSafe and Qi2 25W charging, and two connection points let it attach to the Crossbody Strap.",
+   "keywords": "iphone air case thin translucent magsafe apple frost shadow",
+   "specs": {
+    "accessoryType": "Case",
+    "compatibility": "iPhone Air",
+    "material": "Translucent 0.9 mm back panel, polycarbonate frame",
+    "magsafe": true,
+    "colors": "Frost, Shadow"
+   },
+   "options": [
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Frost",
+       "default": true,
+       "image": {
+        "small": "/images/catalog/apple-iphone-air-case-magsafe--frost-400.webp",
+        "large": "/images/catalog/apple-iphone-air-case-magsafe--frost-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple iPhone Air Case with MagSafe in Frost, product view"
+       }
+      },
+      {
+       "label": "Shadow",
+       "image": {
+        "small": "/images/catalog/apple-iphone-air-case-magsafe--shadow-400.webp",
+        "large": "/images/catalog/apple-iphone-air-case-magsafe--shadow-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple iPhone Air Case with MagSafe in Shadow, product view"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "sku": "TK-APPLE-AIR-BUMPER",
+   "slug": "apple-iphone-air-bumper",
+   "name": "Apple iPhone Air Bumper",
+   "brand": "Apple",
+   "category": "cases-protection",
+   "price": "39.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    48,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "apple-ecosystem"
+   ],
+   "summary": "Slim, lightweight reinforced-polycarbonate bumper that frames iPhone Air, with Camera Control support and Crossbody Strap connection points.",
+   "description": "The Bumper is made from reinforced polycarbonate for added edge protection and frames the thin design of iPhone Air. It has a new button design with a crisp click, works with Camera Control through a sapphire crystal and conductive layer, and has two connection points for the Crossbody Strap.",
+   "keywords": "iphone air bumper edge frame apple",
+   "specs": {
+    "accessoryType": "Bumper",
+    "compatibility": "iPhone Air",
+    "material": "Reinforced polycarbonate",
+    "magsafe": false,
+    "colors": "Light Blue, Tan, Light Gray, Black"
+   },
+   "options": [
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Light Blue",
+       "default": true,
+       "image": {
+        "small": "/images/catalog/apple-iphone-air-bumper--light-blue-400.webp",
+        "large": "/images/catalog/apple-iphone-air-bumper--light-blue-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple iPhone Air Bumper in Light Blue, product view"
+       }
+      },
+      {
+       "label": "Tan",
+       "image": {
+        "small": "/images/catalog/apple-iphone-air-bumper--tan-400.webp",
+        "large": "/images/catalog/apple-iphone-air-bumper--tan-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple iPhone Air Bumper in Tan, product view"
+       }
+      },
+      {
+       "label": "Light Gray",
+       "image": {
+        "small": "/images/catalog/apple-iphone-air-bumper--light-gray-400.webp",
+        "large": "/images/catalog/apple-iphone-air-bumper--light-gray-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple iPhone Air Bumper in Light Gray, product view"
+       }
+      },
+      {
+       "label": "Black",
+       "image": {
+        "small": "/images/catalog/apple-iphone-air-bumper--black-400.webp",
+        "large": "/images/catalog/apple-iphone-air-bumper--black-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple iPhone Air Bumper in Black, product view"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "sku": "TK-APPLE-SILICONE-CASE-17",
+   "slug": "apple-iphone-17-silicone-case-magsafe",
+   "name": "Apple iPhone 17 Silicone Case with MagSafe",
+   "brand": "Apple",
+   "category": "cases-protection",
+   "price": "49.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    45,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "apple-ecosystem"
+   ],
+   "summary": "Apple silicone case for iPhone 17 with MagSafe, Camera Control support and Crossbody Strap attachment.",
+   "description": "Designed by Apple for iPhone 17, this case has a silky soft-touch silicone exterior and a soft microfiber lining. It works with Camera Control, aligns with MagSafe and Qi2 25W chargers, and attaches to the Crossbody Strap.",
+   "keywords": "iphone 17 case silicone magsafe apple",
+   "specs": {
+    "accessoryType": "Case",
+    "compatibility": "iPhone 17",
+    "material": "Silicone exterior, microfiber lining",
+    "magsafe": true,
+    "colors": "Bright Guava, Vanilla, Electric Lavender, Light Moss, Anchor Blue, Purple Fog, Black"
+   },
+   "options": [
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Bright Guava",
+       "default": true,
+       "image": {
+        "small": "/images/catalog/apple-iphone-17-silicone-case-magsafe--bright-guava-400.webp",
+        "large": "/images/catalog/apple-iphone-17-silicone-case-magsafe--bright-guava-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple iPhone 17 Silicone Case with MagSafe in Bright Guava, product view"
+       }
+      },
+      {
+       "label": "Vanilla",
+       "image": {
+        "small": "/images/catalog/apple-iphone-17-silicone-case-magsafe--vanilla-400.webp",
+        "large": "/images/catalog/apple-iphone-17-silicone-case-magsafe--vanilla-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple iPhone 17 Silicone Case with MagSafe in Vanilla, product view"
+       }
+      },
+      {
+       "label": "Electric Lavender",
+       "image": {
+        "small": "/images/catalog/apple-iphone-17-silicone-case-magsafe--electric-lavender-400.webp",
+        "large": "/images/catalog/apple-iphone-17-silicone-case-magsafe--electric-lavender-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple iPhone 17 Silicone Case with MagSafe in Electric Lavender, product view"
+       }
+      },
+      {
+       "label": "Light Moss",
+       "image": {
+        "small": "/images/catalog/apple-iphone-17-silicone-case-magsafe--light-moss-400.webp",
+        "large": "/images/catalog/apple-iphone-17-silicone-case-magsafe--light-moss-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple iPhone 17 Silicone Case with MagSafe in Light Moss, product view"
+       }
+      },
+      {
+       "label": "Anchor Blue",
+       "image": {
+        "small": "/images/catalog/apple-iphone-17-silicone-case-magsafe--anchor-blue-400.webp",
+        "large": "/images/catalog/apple-iphone-17-silicone-case-magsafe--anchor-blue-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple iPhone 17 Silicone Case with MagSafe in Anchor Blue, product view"
+       }
+      },
+      {
+       "label": "Purple Fog",
+       "image": {
+        "small": "/images/catalog/apple-iphone-17-silicone-case-magsafe--purple-fog-400.webp",
+        "large": "/images/catalog/apple-iphone-17-silicone-case-magsafe--purple-fog-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple iPhone 17 Silicone Case with MagSafe in Purple Fog, product view"
+       }
+      },
+      {
+       "label": "Black",
+       "image": {
+        "small": "/images/catalog/apple-iphone-17-silicone-case-magsafe--black-400.webp",
+        "large": "/images/catalog/apple-iphone-17-silicone-case-magsafe--black-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple iPhone 17 Silicone Case with MagSafe in Black, product view"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "sku": "TK-APPLE-CLEAR-CASE-17",
+   "slug": "apple-iphone-17-clear-case-magsafe",
+   "name": "Apple iPhone 17 Clear Case with MagSafe",
+   "brand": "Apple",
+   "category": "cases-protection",
+   "price": "49.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    25,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "apple-ecosystem"
+   ],
+   "summary": "Thin, light Apple clear case for iPhone 17 with MagSafe and Camera Control support.",
+   "description": "Crafted from optically clear polycarbonate and flexible materials, this case shows off the colour of iPhone 17. A scratch-resistant coating covers both sides and materials are optimized to prevent yellowing. It supports Camera Control and MagSafe or Qi2 25W charging.",
+   "keywords": "iphone 17 clear case transparent magsafe apple",
+   "specs": {
+    "accessoryType": "Case",
+    "compatibility": "iPhone 17",
+    "material": "Optically clear polycarbonate and flexible materials",
+    "magsafe": true
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-APPLE-SILICONE-CASE-17E",
+   "slug": "apple-iphone-17e-silicone-case-magsafe",
+   "name": "Apple iPhone 17e Silicone Case with MagSafe",
+   "brand": "Apple",
+   "category": "cases-protection",
+   "price": "49.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    33,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "apple-ecosystem"
+   ],
+   "summary": "Apple silicone case for iPhone 17e with built-in MagSafe magnets and a soft microfiber lining.",
+   "description": "Designed by Apple for iPhone 17e, this case has a silky soft-touch silicone exterior and a soft microfiber lining. Built-in magnets align with iPhone 17e for MagSafe and Qi2 charging with the case on, and it attaches to the Crossbody Strap.",
+   "keywords": "iphone 17e case silicone magsafe apple",
+   "specs": {
+    "accessoryType": "Case",
+    "compatibility": "iPhone 17e",
+    "material": "Silicone exterior, microfiber lining",
+    "magsafe": true,
+    "colors": "Soft Pink, Bright Guava, Vanilla, Light Moss, Anchor Blue, Black"
+   },
+   "options": [
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Soft Pink",
+       "default": true,
+       "image": {
+        "small": "/images/catalog/apple-iphone-17e-silicone-case-magsafe--soft-pink-400.webp",
+        "large": "/images/catalog/apple-iphone-17e-silicone-case-magsafe--soft-pink-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple iPhone 17e Silicone Case with MagSafe in Soft Pink, product view"
+       }
+      },
+      {
+       "label": "Bright Guava",
+       "image": {
+        "small": "/images/catalog/apple-iphone-17e-silicone-case-magsafe--bright-guava-400.webp",
+        "large": "/images/catalog/apple-iphone-17e-silicone-case-magsafe--bright-guava-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple iPhone 17e Silicone Case with MagSafe in Bright Guava, product view"
+       }
+      },
+      {
+       "label": "Vanilla",
+       "image": {
+        "small": "/images/catalog/apple-iphone-17e-silicone-case-magsafe--vanilla-400.webp",
+        "large": "/images/catalog/apple-iphone-17e-silicone-case-magsafe--vanilla-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple iPhone 17e Silicone Case with MagSafe in Vanilla, product view"
+       }
+      },
+      {
+       "label": "Light Moss",
+       "image": {
+        "small": "/images/catalog/apple-iphone-17e-silicone-case-magsafe--light-moss-400.webp",
+        "large": "/images/catalog/apple-iphone-17e-silicone-case-magsafe--light-moss-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple iPhone 17e Silicone Case with MagSafe in Light Moss, product view"
+       }
+      },
+      {
+       "label": "Anchor Blue",
+       "image": {
+        "small": "/images/catalog/apple-iphone-17e-silicone-case-magsafe--anchor-blue-400.webp",
+        "large": "/images/catalog/apple-iphone-17e-silicone-case-magsafe--anchor-blue-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple iPhone 17e Silicone Case with MagSafe in Anchor Blue, product view"
+       }
+      },
+      {
+       "label": "Black",
+       "image": {
+        "small": "/images/catalog/apple-iphone-17e-silicone-case-magsafe--black-400.webp",
+        "large": "/images/catalog/apple-iphone-17e-silicone-case-magsafe--black-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple iPhone 17e Silicone Case with MagSafe in Black, product view"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "sku": "TK-APPLE-CLEAR-CASE-17E",
+   "slug": "apple-iphone-17e-clear-case-magsafe",
+   "name": "Apple iPhone 17e Clear Case with MagSafe",
+   "brand": "Apple",
+   "category": "cases-protection",
+   "price": "49.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    46,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "apple-ecosystem"
+   ],
+   "summary": "Thin, light Apple clear case for iPhone 17e with MagSafe.",
+   "description": "This Apple-designed clear case shows off the finish of iPhone 17e. It is made from optically clear polycarbonate and flexible materials with a scratch-resistant coating inside and out, resists yellowing, and supports MagSafe and Qi2 charging.",
+   "keywords": "iphone 17e clear case transparent magsafe apple",
+   "specs": {
+    "accessoryType": "Case",
+    "compatibility": "iPhone 17e",
+    "material": "Optically clear polycarbonate and flexible materials",
+    "magsafe": true
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-APPLE-SILICONE-CASE-16",
+   "slug": "apple-iphone-16-silicone-case-magsafe",
+   "name": "Apple iPhone 16 Silicone Case with MagSafe",
+   "brand": "Apple",
+   "category": "cases-protection",
+   "price": "49.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    55,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "apple-ecosystem"
+   ],
+   "summary": "Apple silicone case for iPhone 16 with MagSafe and Camera Control support, in ten colours.",
+   "description": "Designed by Apple for iPhone 16, this case has a silky soft-touch silicone exterior and a soft microfiber lining. It works with Camera Control through a sapphire crystal and conductive layer, and built-in magnets align with MagSafe and Qi2 chargers.",
+   "keywords": "iphone 16 case silicone magsafe apple",
+   "specs": {
+    "accessoryType": "Case",
+    "compatibility": "iPhone 16",
+    "material": "Silicone exterior, microfiber lining",
+    "magsafe": true,
+    "colors": "Periwinkle, Aquamarine, Tangerine, Star Fruit, Ultramarine, Plum, Fuchsia, Lake Green, Black, Denim"
+   },
+   "options": [
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Periwinkle",
+       "default": true,
+       "image": {
+        "small": "/images/catalog/apple-iphone-16-silicone-case-magsafe--periwinkle-400.webp",
+        "large": "/images/catalog/apple-iphone-16-silicone-case-magsafe--periwinkle-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple iPhone 16 Silicone Case with MagSafe in Periwinkle, product view"
+       }
+      },
+      {
+       "label": "Aquamarine",
+       "image": {
+        "small": "/images/catalog/apple-iphone-16-silicone-case-magsafe--aquamarine-400.webp",
+        "large": "/images/catalog/apple-iphone-16-silicone-case-magsafe--aquamarine-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple iPhone 16 Silicone Case with MagSafe in Aquamarine, product view"
+       }
+      },
+      {
+       "label": "Tangerine",
+       "image": {
+        "small": "/images/catalog/apple-iphone-16-silicone-case-magsafe--tangerine-400.webp",
+        "large": "/images/catalog/apple-iphone-16-silicone-case-magsafe--tangerine-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple iPhone 16 Silicone Case with MagSafe in Tangerine, product view"
+       }
+      },
+      {
+       "label": "Star Fruit",
+       "image": {
+        "small": "/images/catalog/apple-iphone-16-silicone-case-magsafe--star-fruit-400.webp",
+        "large": "/images/catalog/apple-iphone-16-silicone-case-magsafe--star-fruit-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple iPhone 16 Silicone Case with MagSafe in Star Fruit, product view"
+       }
+      },
+      {
+       "label": "Ultramarine",
+       "image": {
+        "small": "/images/catalog/apple-iphone-16-silicone-case-magsafe--ultramarine-400.webp",
+        "large": "/images/catalog/apple-iphone-16-silicone-case-magsafe--ultramarine-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple iPhone 16 Silicone Case with MagSafe in Ultramarine, product view"
+       }
+      },
+      {
+       "label": "Plum",
+       "image": {
+        "small": "/images/catalog/apple-iphone-16-silicone-case-magsafe--plum-400.webp",
+        "large": "/images/catalog/apple-iphone-16-silicone-case-magsafe--plum-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple iPhone 16 Silicone Case with MagSafe in Plum, product view"
+       }
+      },
+      {
+       "label": "Fuchsia",
+       "image": {
+        "small": "/images/catalog/apple-iphone-16-silicone-case-magsafe--fuchsia-400.webp",
+        "large": "/images/catalog/apple-iphone-16-silicone-case-magsafe--fuchsia-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple iPhone 16 Silicone Case with MagSafe in Fuchsia, product view"
+       }
+      },
+      {
+       "label": "Lake Green",
+       "image": {
+        "small": "/images/catalog/apple-iphone-16-silicone-case-magsafe--lake-green-400.webp",
+        "large": "/images/catalog/apple-iphone-16-silicone-case-magsafe--lake-green-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple iPhone 16 Silicone Case with MagSafe in Lake Green, product view"
+       }
+      },
+      {
+       "label": "Black",
+       "image": {
+        "small": "/images/catalog/apple-iphone-16-silicone-case-magsafe--black-400.webp",
+        "large": "/images/catalog/apple-iphone-16-silicone-case-magsafe--black-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple iPhone 16 Silicone Case with MagSafe in Black, product view"
+       }
+      },
+      {
+       "label": "Denim",
+       "image": {
+        "small": "/images/catalog/apple-iphone-16-silicone-case-magsafe--denim-400.webp",
+        "large": "/images/catalog/apple-iphone-16-silicone-case-magsafe--denim-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple iPhone 16 Silicone Case with MagSafe in Denim, product view"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "sku": "TK-APPLE-CLEAR-CASE-16",
+   "slug": "apple-iphone-16-clear-case-magsafe",
+   "name": "Apple iPhone 16 Clear Case with MagSafe",
+   "brand": "Apple",
+   "category": "cases-protection",
+   "price": "49.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    31,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "apple-ecosystem"
+   ],
+   "summary": "Thin, light Apple clear case for iPhone 16 with MagSafe and Camera Control support.",
+   "description": "Crafted with a blend of optically clear polycarbonate and flexible materials, this case shows off the colour of iPhone 16. Scratch-resistant coating is applied inside and out, materials are optimized to prevent yellowing, and it supports Camera Control and MagSafe or Qi2 charging.",
+   "keywords": "iphone 16 clear case transparent magsafe apple",
+   "specs": {
+    "accessoryType": "Case",
+    "compatibility": "iPhone 16",
+    "material": "Optically clear polycarbonate and flexible materials",
+    "magsafe": true
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-APPLE-DUO-CASE",
+   "slug": "apple-iphone-duo-case",
+   "name": "Apple iPhone Duo Case",
+   "brand": "Apple",
+   "category": "cases-protection",
+   "price": "79.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    23,
+    5
+   ],
+   "featured": true,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "apple-ecosystem"
+   ],
+   "summary": "Apple two-part matte polycarbonate case that wraps both halves of iPhone Duo, with built-in MagSafe magnets.",
+   "description": "This thin, light two-part case wraps around both sides of iPhone Duo to protect it front to back. It is made from polycarbonate with a matte coating, and built-in magnets align with MagSafe and Qi2 25W chargers so it can stay on while charging.",
+   "keywords": "iphone duo case foldable fold apple magsafe",
+   "specs": {
+    "accessoryType": "Case",
+    "compatibility": "iPhone Duo",
+    "material": "Polycarbonate with matte coating",
+    "magsafe": true,
+    "colors": "Navy Blue, Sand"
+   },
+   "options": [
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Navy Blue",
+       "default": true,
+       "image": {
+        "small": "/images/catalog/apple-iphone-duo-case--navy-blue-400.webp",
+        "large": "/images/catalog/apple-iphone-duo-case--navy-blue-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple iPhone Duo Case in Navy Blue, closed back view showing the camera cutout"
+       }
+      },
+      {
+       "label": "Sand",
+       "image": {
+        "small": "/images/catalog/apple-iphone-duo-case--sand-400.webp",
+        "large": "/images/catalog/apple-iphone-duo-case--sand-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple iPhone Duo Case in Sand, closed back view showing the camera cutout"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "sku": "TK-APPLE-DUO-FOLIO-KICKSTAND",
+   "slug": "apple-iphone-duo-folio-kickstand",
+   "name": "Apple iPhone Duo Folio with Kickstand",
+   "brand": "Apple",
+   "category": "cases-protection",
+   "price": "129.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    47,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "apple-ecosystem"
+   ],
+   "summary": "Thin, light TechWoven folio for iPhone Duo with an integrated kickstand for reading, viewing and FaceTime.",
+   "description": "Designed by Apple for iPhone Duo, this folio uses TechWoven custom technical fabric and has an integrated kickstand that holds a range of angles and snaps back when not needed. Built-in magnets support MagSafe, Qi2 25W or Qi charging from the outside or behind the open kickstand.",
+   "keywords": "iphone duo folio kickstand case foldable techwoven apple",
+   "specs": {
+    "accessoryType": "Folio",
+    "compatibility": "iPhone Duo",
+    "material": "TechWoven technical fabric",
+    "magsafe": true,
+    "colors": "Navy Blue, Taupe"
+   },
+   "options": [
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Navy Blue",
+       "default": true,
+       "image": {
+        "small": "/images/catalog/apple-iphone-duo-folio-kickstand--navy-blue-400.webp",
+        "large": "/images/catalog/apple-iphone-duo-folio-kickstand--navy-blue-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple iPhone Duo Folio with Kickstand in Navy Blue, product view"
+       }
+      },
+      {
+       "label": "Taupe",
+       "image": {
+        "small": "/images/catalog/apple-iphone-duo-folio-kickstand--taupe-400.webp",
+        "large": "/images/catalog/apple-iphone-duo-folio-kickstand--taupe-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple iPhone Duo Folio with Kickstand in Taupe, product view"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "sku": "TK-APPLE-FINEWOVEN-WALLET",
+   "slug": "apple-iphone-finewoven-wallet-magsafe",
+   "name": "Apple iPhone FineWoven Wallet with MagSafe",
+   "brand": "Apple",
+   "category": "cases-protection",
+   "price": "59.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    17,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "apple-ecosystem"
+   ],
+   "summary": "Apple FineWoven MagSafe wallet that holds up to three cards, is shielded for credit cards and supports Find My.",
+   "description": "Made from durable FineWoven microtwill with 100 percent post-consumer recycled content, the wallet snaps onto the back of iPhone with strong built-in magnets and can stack on a MagSafe case. It holds up to three cards, is shielded so it is safe for credit cards, and supports Find My so you can see its last known location if it separates from your iPhone.",
+   "keywords": "magsafe wallet finewoven card holder find my apple",
+   "specs": {
+    "accessoryType": "MagSafe wallet",
+    "compatibility": "iPhone 12 and later with MagSafe, incl. iPhone 18 Pro/Pro Max, iPhone Air, iPhone 17, 17e and 16 (per apple.com compatibility list)",
+    "material": "FineWoven microtwill (100% post-consumer recycled)",
+    "magsafe": true,
+    "colors": "Dark Olive, Burgundy, Wildflower Blue, Magenta, Navy, Black"
+   },
+   "options": [
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Dark Olive",
+       "default": true,
+       "image": {
+        "small": "/images/catalog/apple-iphone-finewoven-wallet-magsafe--dark-olive-400.webp",
+        "large": "/images/catalog/apple-iphone-finewoven-wallet-magsafe--dark-olive-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple iPhone FineWoven Wallet with MagSafe in Dark Olive, product view"
+       }
+      },
+      {
+       "label": "Burgundy",
+       "image": {
+        "small": "/images/catalog/apple-iphone-finewoven-wallet-magsafe--burgundy-400.webp",
+        "large": "/images/catalog/apple-iphone-finewoven-wallet-magsafe--burgundy-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple iPhone FineWoven Wallet with MagSafe in Burgundy, product view"
+       }
+      },
+      {
+       "label": "Wildflower Blue",
+       "image": {
+        "small": "/images/catalog/apple-iphone-finewoven-wallet-magsafe--wildflower-blue-400.webp",
+        "large": "/images/catalog/apple-iphone-finewoven-wallet-magsafe--wildflower-blue-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple iPhone FineWoven Wallet with MagSafe in Wildflower Blue, product view"
+       }
+      },
+      {
+       "label": "Magenta",
+       "image": {
+        "small": "/images/catalog/apple-iphone-finewoven-wallet-magsafe--magenta-400.webp",
+        "large": "/images/catalog/apple-iphone-finewoven-wallet-magsafe--magenta-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple iPhone FineWoven Wallet with MagSafe in Magenta, product view"
+       }
+      },
+      {
+       "label": "Navy",
+       "image": {
+        "small": "/images/catalog/apple-iphone-finewoven-wallet-magsafe--navy-400.webp",
+        "large": "/images/catalog/apple-iphone-finewoven-wallet-magsafe--navy-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple iPhone FineWoven Wallet with MagSafe in Navy, product view"
+       }
+      },
+      {
+       "label": "Black",
+       "image": {
+        "small": "/images/catalog/apple-iphone-finewoven-wallet-magsafe--black-400.webp",
+        "large": "/images/catalog/apple-iphone-finewoven-wallet-magsafe--black-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple iPhone FineWoven Wallet with MagSafe in Black, product view"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "sku": "TK-APPLE-CROSSBODY-STRAP",
+   "slug": "apple-crossbody-strap",
+   "name": "Apple Crossbody Strap",
+   "brand": "Apple",
+   "category": "cases-protection",
+   "price": "59.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    32,
+    5
+   ],
+   "featured": true,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "apple-ecosystem"
+   ],
+   "summary": "Adjustable woven Apple strap that attaches to select Apple iPhone cases for hands-free wear, 42.5 to 81.9 inches long.",
+   "description": "The Crossbody Strap attaches to select Apple cases for a hands-free way to wear iPhone. It is woven from 100 percent recycled PET yarns, and embedded flexible magnets with stainless steel sliding mechanisms adjust the length between 42.5 inches (1080 mm) and 81.9 inches (2080 mm).",
+   "keywords": "crossbody strap lanyard iphone apple hands-free",
+   "specs": {
+    "accessoryType": "Crossbody strap",
+    "compatibility": "Select Apple cases: iPhone 18 Pro/Pro Max TechWoven, Silicone and Clear; iPhone 17 Pro/Pro Max TechWoven and Silicone; iPhone 17 and 17e Silicone; iPhone Air Bumper and Air Case",
+    "material": "100% recycled PET yarn, stainless steel sliders, embedded magnets",
+    "magsafe": false,
+    "colors": "Burgundy, Olive, Crisp Blue, Navy Blue, Taupe, Magenta, Light Gray, Black, Sand"
+   },
+   "options": [
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Burgundy",
+       "default": true,
+       "image": {
+        "small": "/images/catalog/apple-crossbody-strap--burgundy-400.webp",
+        "large": "/images/catalog/apple-crossbody-strap--burgundy-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple Crossbody Strap in Burgundy, product view"
+       }
+      },
+      {
+       "label": "Olive",
+       "image": {
+        "small": "/images/catalog/apple-crossbody-strap--olive-400.webp",
+        "large": "/images/catalog/apple-crossbody-strap--olive-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple Crossbody Strap in Olive, product view"
+       }
+      },
+      {
+       "label": "Crisp Blue",
+       "image": {
+        "small": "/images/catalog/apple-crossbody-strap--crisp-blue-400.webp",
+        "large": "/images/catalog/apple-crossbody-strap--crisp-blue-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple Crossbody Strap in Crisp Blue, product view"
+       }
+      },
+      {
+       "label": "Navy Blue",
+       "image": {
+        "small": "/images/catalog/apple-crossbody-strap--navy-blue-400.webp",
+        "large": "/images/catalog/apple-crossbody-strap--navy-blue-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple Crossbody Strap in Navy Blue, product view"
+       }
+      },
+      {
+       "label": "Taupe",
+       "image": {
+        "small": "/images/catalog/apple-crossbody-strap--taupe-400.webp",
+        "large": "/images/catalog/apple-crossbody-strap--taupe-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple Crossbody Strap in Taupe, product view"
+       }
+      },
+      {
+       "label": "Magenta",
+       "image": {
+        "small": "/images/catalog/apple-crossbody-strap--magenta-400.webp",
+        "large": "/images/catalog/apple-crossbody-strap--magenta-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple Crossbody Strap in Magenta, product view"
+       }
+      },
+      {
+       "label": "Light Gray",
+       "image": {
+        "small": "/images/catalog/apple-crossbody-strap--light-gray-400.webp",
+        "large": "/images/catalog/apple-crossbody-strap--light-gray-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple Crossbody Strap in Light Gray, product view"
+       }
+      },
+      {
+       "label": "Black",
+       "image": {
+        "small": "/images/catalog/apple-crossbody-strap--black-400.webp",
+        "large": "/images/catalog/apple-crossbody-strap--black-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple Crossbody Strap in Black, product view"
+       }
+      },
+      {
+       "label": "Sand",
+       "image": {
+        "small": "/images/catalog/apple-crossbody-strap--sand-400.webp",
+        "large": "/images/catalog/apple-crossbody-strap--sand-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple Crossbody Strap in Sand, product view"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "sku": "TK-APPLE-WRIST-STRAP",
+   "slug": "apple-wrist-strap",
+   "name": "Apple Wrist Strap",
+   "brand": "Apple",
+   "category": "cases-protection",
+   "price": "29.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    48,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "apple-ecosystem"
+   ],
+   "summary": "Apple woven wrist strap, 15.4 inches long, that attaches to select Apple iPhone cases and AirPods Pro 2 or later.",
+   "description": "The Wrist Strap attaches to select Apple iPhone cases and to AirPods Pro 2 or later for a convenient, hands-free way to carry them. It is crafted from 100 percent recycled PET yarns with embedded flexible magnets that keep the strap aligned, and measures 15.4 inches (391 mm).",
+   "keywords": "wrist strap lanyard iphone airpods pro apple",
+   "specs": {
+    "accessoryType": "Wrist strap",
+    "compatibility": "Select Apple cases (iPhone 18 Pro/Pro Max, 17 Pro/Pro Max, 17, 17e, Air) and AirPods Pro 2 or later",
+    "material": "100% recycled PET yarn, embedded magnets",
+    "magsafe": false,
+    "colors": "Burgundy, Olive, Crisp Blue, Taupe, Magenta, Black"
+   },
+   "options": [
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Burgundy",
+       "default": true,
+       "image": {
+        "small": "/images/catalog/apple-wrist-strap--burgundy-400.webp",
+        "large": "/images/catalog/apple-wrist-strap--burgundy-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple Wrist Strap in Burgundy, product view"
+       }
+      },
+      {
+       "label": "Olive",
+       "image": {
+        "small": "/images/catalog/apple-wrist-strap--olive-400.webp",
+        "large": "/images/catalog/apple-wrist-strap--olive-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple Wrist Strap in Olive, product view"
+       }
+      },
+      {
+       "label": "Crisp Blue",
+       "image": {
+        "small": "/images/catalog/apple-wrist-strap--crisp-blue-400.webp",
+        "large": "/images/catalog/apple-wrist-strap--crisp-blue-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple Wrist Strap in Crisp Blue, product view"
+       }
+      },
+      {
+       "label": "Taupe",
+       "image": {
+        "small": "/images/catalog/apple-wrist-strap--taupe-400.webp",
+        "large": "/images/catalog/apple-wrist-strap--taupe-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple Wrist Strap in Taupe, product view"
+       }
+      },
+      {
+       "label": "Magenta",
+       "image": {
+        "small": "/images/catalog/apple-wrist-strap--magenta-400.webp",
+        "large": "/images/catalog/apple-wrist-strap--magenta-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple Wrist Strap in Magenta, product view"
+       }
+      },
+      {
+       "label": "Black",
+       "image": {
+        "small": "/images/catalog/apple-wrist-strap--black-400.webp",
+        "large": "/images/catalog/apple-wrist-strap--black-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple Wrist Strap in Black, product view"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "sku": "TK-MOPHIE-CHECK-CASE-17",
+   "slug": "mophie-check-case-iphone-17",
+   "name": "mophie Check Case for iPhone 17",
+   "brand": "mophie",
+   "category": "cases-protection",
+   "price": "59.95",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    54,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "apple-ecosystem"
+   ],
+   "summary": "Apple-exclusive mophie case for iPhone 17 with a checked pattern, soft-touch matte finish, micro-suede lining, MagSafe and Camera Control.",
+   "description": "Designed exclusively for Apple, the mophie Check Case adds a checked pattern in a lightweight soft-touch material with a matte finish. A micro-suede interior cushions the phone, a raised frame lifts the camera lenses off surfaces, a responsive Camera Control button is built in, and magnets keep MagSafe, Qi2 and Qi chargers working.",
+   "keywords": "mophie check case iphone 17 pattern magsafe",
+   "specs": {
+    "accessoryType": "Case",
+    "compatibility": "iPhone 17",
+    "material": "Soft-touch shell, micro-suede lining",
+    "magsafe": true
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-MOPHIE-CHECK-CASE-AIR",
+   "slug": "mophie-check-case-iphone-air",
+   "name": "mophie Check Case for iPhone Air",
+   "brand": "mophie",
+   "category": "cases-protection",
+   "price": "59.95",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    37,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "apple-ecosystem"
+   ],
+   "summary": "Apple-exclusive mophie case for iPhone Air with a checked pattern, soft-touch matte finish, micro-suede lining, MagSafe and Camera Control.",
+   "description": "Designed exclusively for Apple, the mophie Check Case adds a checked pattern in a lightweight soft-touch material with a matte finish. A micro-suede interior cushions the phone, a raised frame lifts the camera lenses off surfaces, a responsive Camera Control button is built in, and magnets keep MagSafe, Qi2 and Qi chargers working.",
+   "keywords": "mophie check case iphone air pattern magsafe",
+   "specs": {
+    "accessoryType": "Case",
+    "compatibility": "iPhone Air",
+    "material": "Soft-touch shell, micro-suede lining",
+    "magsafe": true
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-MOPHIE-OPTICAL-CHECK-17",
+   "slug": "mophie-optical-check-case-iphone-17",
+   "name": "mophie Optical Check Case for iPhone 17",
+   "brand": "mophie",
+   "category": "cases-protection",
+   "price": "59.95",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    9,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "apple-ecosystem"
+   ],
+   "summary": "Apple-exclusive mophie case for iPhone 17 with an optical check pattern, soft-touch matte finish, micro-suede lining, MagSafe and Camera Control.",
+   "description": "Designed exclusively for Apple, the mophie Optical Check Case adds an optical check pattern in a lightweight soft-touch material with a matte finish. A micro-suede interior cushions the phone, a raised frame lifts the camera off surfaces, a Camera Control button is built in, and magnets keep MagSafe, Qi2 and Qi chargers working.",
+   "keywords": "mophie optical check case iphone 17 pattern magsafe",
+   "specs": {
+    "accessoryType": "Case",
+    "compatibility": "iPhone 17",
+    "material": "Soft-touch shell, micro-suede lining",
+    "magsafe": true
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-MOPHIE-OPTICAL-CHECK-AIR",
+   "slug": "mophie-optical-check-case-iphone-air",
+   "name": "mophie Optical Check Case for iPhone Air",
+   "brand": "mophie",
+   "category": "cases-protection",
+   "price": "59.95",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    43,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "apple-ecosystem"
+   ],
+   "summary": "Apple-exclusive mophie case for iPhone Air with an optical check pattern, soft-touch matte finish, micro-suede lining, MagSafe and Camera Control.",
+   "description": "Designed exclusively for Apple, the mophie Optical Check Case adds an optical check pattern in a lightweight soft-touch material with a matte finish. A micro-suede interior cushions the phone, a raised frame lifts the camera off surfaces, a Camera Control button is built in, and magnets keep MagSafe, Qi2 and Qi chargers working.",
+   "keywords": "mophie optical check case iphone air pattern magsafe",
+   "specs": {
+    "accessoryType": "Case",
+    "compatibility": "iPhone Air",
+    "material": "Soft-touch shell, micro-suede lining",
+    "magsafe": true
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-TECH21-FLEXQUARTZ-17",
+   "slug": "tech21-flexquartz-case-iphone-17",
+   "name": "Tech21 FlexQuartz Case for iPhone 17 (MagSafe compatible)",
+   "brand": "Tech21",
+   "category": "cases-protection",
+   "price": "54.95",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    22,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "apple-ecosystem"
+   ],
+   "summary": "Gradient-finish Tech21 case for iPhone 17 with FlexShock 16 ft (4.9 m) multi-drop protection and MagSafe compatibility.",
+   "description": "The Tech21 FlexQuartz Case has an ombre gradient finish and FlexShock impact absorption rated for 16-foot (4.9 m) multi-drop protection. It is made with Bio-Spice to help break down its plastic parts (excluding magnets) in anaerobic environments, has a durable metallic MagSafe ring, and ships in 100% recycled packaging.",
+   "keywords": "tech21 flexquartz case iphone 17 drop protection magsafe gradient",
+   "specs": {
+    "accessoryType": "Case",
+    "compatibility": "iPhone 17",
+    "material": "FlexShock impact material with Bio-Spice additive, metallic MagSafe ring",
+    "magsafe": true,
+    "colors": "Blue, Pink"
+   },
+   "options": [
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Blue",
+       "default": true,
+       "image": {
+        "small": "/images/catalog/tech21-flexquartz-case-iphone-17--blue-400.webp",
+        "large": "/images/catalog/tech21-flexquartz-case-iphone-17--blue-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Tech21 FlexQuartz Case for iPhone 17 (MagSafe compatible) in Blue, product view"
+       }
+      },
+      {
+       "label": "Pink",
+       "image": {
+        "small": "/images/catalog/tech21-flexquartz-case-iphone-17--pink-400.webp",
+        "large": "/images/catalog/tech21-flexquartz-case-iphone-17--pink-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Tech21 FlexQuartz Case for iPhone 17 (MagSafe compatible) in Pink, product view"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "sku": "TK-TECH21-FLEXQUARTZ-AIR",
+   "slug": "tech21-flexquartz-case-iphone-air",
+   "name": "Tech21 FlexQuartz Case for iPhone Air (MagSafe compatible)",
+   "brand": "Tech21",
+   "category": "cases-protection",
+   "price": "54.95",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    14,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "apple-ecosystem"
+   ],
+   "summary": "Gradient-finish Tech21 case for iPhone Air with FlexShock 16 ft (4.9 m) multi-drop protection and MagSafe compatibility.",
+   "description": "The Tech21 FlexQuartz Case has an ombre gradient finish and FlexShock impact absorption rated for 16-foot (4.9 m) multi-drop protection. It is made with Bio-Spice to help break down its plastic parts (excluding magnets) in anaerobic environments, has a durable metallic MagSafe ring, and ships in 100% recycled packaging.",
+   "keywords": "tech21 flexquartz case iphone air drop protection magsafe gradient",
+   "specs": {
+    "accessoryType": "Case",
+    "compatibility": "iPhone Air",
+    "material": "FlexShock impact material with Bio-Spice additive, metallic MagSafe ring",
+    "magsafe": true,
+    "colors": "Blue, Pink"
+   },
+   "options": [
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Blue",
+       "default": true,
+       "image": {
+        "small": "/images/catalog/tech21-flexquartz-case-iphone-air--blue-400.webp",
+        "large": "/images/catalog/tech21-flexquartz-case-iphone-air--blue-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Tech21 FlexQuartz Case for iPhone Air (MagSafe compatible) in Blue, product view"
+       }
+      },
+      {
+       "label": "Pink",
+       "image": {
+        "small": "/images/catalog/tech21-flexquartz-case-iphone-air--pink-400.webp",
+        "large": "/images/catalog/tech21-flexquartz-case-iphone-air--pink-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Tech21 FlexQuartz Case for iPhone Air (MagSafe compatible) in Pink, product view"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "sku": "TK-BELKIN-UG2-18PRO",
+   "slug": "belkin-ultraglass-2-iphone-18-pro",
+   "name": "Belkin UltraGlass 2 Screen Protector for iPhone 18 Pro | iPhone 17 Pro",
+   "brand": "Belkin",
+   "category": "cases-protection",
+   "price": "39.95",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    35,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "apple-ecosystem"
+   ],
+   "summary": "Belkin UltraGlass 2 for iPhone 18 Pro and 17 Pro: 0.29 mm LAS glass, up to 25x stronger than traditional glass protectors, drop-rated to 7.2 ft.",
+   "description": "Belkin UltraGlass 2 is lithium aluminosilicate (LAS) glass chemically toughened by double ion-exchange, just 0.29 mm thin, with full-screen coverage and an Easy Align tray for bubble-free application at home. Belkin rates it up to 25x stronger than traditional glass protectors with drop protection from up to 7.2 feet.",
+   "keywords": "belkin ultraglass 2 screen protector iphone 18 pro glass",
+   "specs": {
+    "accessoryType": "Screen protector",
+    "compatibility": "iPhone 18 Pro, iPhone 17 Pro",
+    "material": "Lithium aluminosilicate (LAS) glass, 0.29 mm",
+    "magsafe": false
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-BELKIN-UG2-18PROMAX",
+   "slug": "belkin-ultraglass-2-iphone-18-pro-max",
+   "name": "Belkin UltraGlass 2 Screen Protector for iPhone 18 Pro Max | iPhone 17 Pro Max",
+   "brand": "Belkin",
+   "category": "cases-protection",
+   "price": "39.95",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    41,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "apple-ecosystem"
+   ],
+   "summary": "Belkin UltraGlass 2 for iPhone 18 Pro Max and 17 Pro Max: 0.29 mm LAS glass, up to 25x stronger than traditional glass protectors, drop-rated to 7.2 ft.",
+   "description": "Belkin UltraGlass 2 is lithium aluminosilicate (LAS) glass chemically toughened by double ion-exchange, just 0.29 mm thin, with full-screen coverage and an Easy Align tray for bubble-free application at home. Belkin rates it up to 25x stronger than traditional glass protectors with drop protection from up to 7.2 feet.",
+   "keywords": "belkin ultraglass 2 screen protector iphone 18 pro max glass",
+   "specs": {
+    "accessoryType": "Screen protector",
+    "compatibility": "iPhone 18 Pro Max, iPhone 17 Pro Max",
+    "material": "Lithium aluminosilicate (LAS) glass, 0.29 mm",
+    "magsafe": false
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-BELKIN-UG2-AIR",
+   "slug": "belkin-ultraglass-2-iphone-air",
+   "name": "Belkin UltraGlass 2 Screen Protector for iPhone Air",
+   "brand": "Belkin",
+   "category": "cases-protection",
+   "price": "39.95",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    30,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "apple-ecosystem"
+   ],
+   "summary": "Belkin UltraGlass 2 for iPhone Air: 0.29 mm LAS glass, up to 25x stronger than traditional glass protectors, drop-rated to 7.2 ft.",
+   "description": "Belkin UltraGlass 2 is lithium aluminosilicate (LAS) glass chemically toughened by double ion-exchange, just 0.29 mm thin, with full-screen coverage and an Easy Align tray for bubble-free application at home. Belkin rates it up to 25x stronger than traditional glass protectors with drop protection from up to 7.2 feet.",
+   "keywords": "belkin ultraglass 2 screen protector iphone air glass",
+   "specs": {
+    "accessoryType": "Screen protector",
+    "compatibility": "iPhone Air",
+    "material": "Lithium aluminosilicate (LAS) glass, 0.29 mm",
+    "magsafe": false
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-BELKIN-UG2-17",
+   "slug": "belkin-ultraglass-2-iphone-17-16-pro",
+   "name": "Belkin UltraGlass 2 Screen Protector for iPhone 17 | iPhone 16 Pro",
+   "brand": "Belkin",
+   "category": "cases-protection",
+   "price": "39.95",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    19,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "apple-ecosystem"
+   ],
+   "summary": "Belkin UltraGlass 2 for iPhone 17 and iPhone 16 Pro: 0.29 mm double ion-exchanged LAS glass, up to 2.7x stronger than tempered glass protectors.",
+   "description": "Belkin UltraGlass 2 is lithium aluminosilicate (LAS) glass chemically toughened by double ion-exchange, just 0.29 mm thin, with full-screen coverage and an Easy Align tray for bubble-free application at home. Belkin rates it up to 2.7x stronger than tempered glass protectors with up to 24% better drop performance than the previous UltraGlass.",
+   "keywords": "belkin ultraglass 2 screen protector iphone 17 16 pro glass",
+   "specs": {
+    "accessoryType": "Screen protector",
+    "compatibility": "iPhone 17, iPhone 16 Pro",
+    "material": "Lithium aluminosilicate (LAS) glass, 0.29 mm",
+    "magsafe": false
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-BELKIN-UG2-16",
+   "slug": "belkin-ultraglass-2-iphone-16-15",
+   "name": "Belkin UltraGlass 2 Screen Protector for iPhone 16 | 15",
+   "brand": "Belkin",
+   "category": "cases-protection",
+   "price": "39.95",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    37,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "apple-ecosystem"
+   ],
+   "summary": "Belkin UltraGlass 2 for iPhone 16 and iPhone 15: 0.29 mm double ion-exchanged LAS glass, up to 2.7x stronger than tempered glass protectors.",
+   "description": "Belkin UltraGlass 2 is lithium aluminosilicate (LAS) glass chemically toughened by double ion-exchange, just 0.29 mm thin, with full-screen coverage and an Easy Align tray for bubble-free application at home. Belkin rates it up to 2.7x stronger than tempered glass protectors with up to 24% better drop performance than the previous UltraGlass.",
+   "keywords": "belkin ultraglass 2 screen protector iphone 16 15 glass",
+   "specs": {
+    "accessoryType": "Screen protector",
+    "compatibility": "iPhone 16, iPhone 15",
+    "material": "Lithium aluminosilicate (LAS) glass, 0.29 mm",
+    "magsafe": false
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-BELKIN-UG-17E",
+   "slug": "belkin-ultraglass-iphone-17e",
+   "name": "Belkin UltraGlass Screen Protector for iPhone 17e",
+   "brand": "Belkin",
+   "category": "cases-protection",
+   "price": "39.95",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    52,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "apple-ecosystem"
+   ],
+   "summary": "Belkin UltraGlass for iPhone 17e: 0.29 mm double ion-exchanged LAS glass, up to 2x stronger than tempered glass protectors.",
+   "description": "Belkin UltraGlass is lithium aluminosilicate glass chemically strengthened by double ion-exchange and just 0.29 mm thin. Belkin rates it up to 2x stronger than tempered glass protectors, and it includes an Easy Align tray for precise application at home.",
+   "keywords": "belkin ultraglass screen protector iphone 17e glass",
+   "specs": {
+    "accessoryType": "Screen protector",
+    "compatibility": "iPhone 17e, iPhone 16e, iPhone 14, iPhone 13, iPhone 13 Pro",
+    "material": "Lithium aluminosilicate (LAS) glass, 0.29 mm",
+    "magsafe": false
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-BELKIN-UG2-PRIVACY-17",
+   "slug": "belkin-ultraglass-2-privacy-iphone-17",
+   "name": "Belkin UltraGlass 2 Privacy Screen Protector for iPhone 17",
+   "brand": "Belkin",
+   "category": "cases-protection",
+   "price": "44.95",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    36,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "apple-ecosystem"
+   ],
+   "summary": "Belkin UltraGlass 2 Privacy for iPhone 17: 0.29 mm LAS glass with a full-screen privacy filter, up to 25x stronger than traditional glass protectors, drop-rated to 7.2 ft.",
+   "description": "This Belkin UltraGlass 2 Privacy protector adds a full-screen privacy filter that keeps texts, emails and sensitive content private. It is 0.29 mm lithium aluminosilicate glass, rated up to 25x stronger than traditional glass protectors, drop-rated to 7.2 ft, and includes an Easy Align tray for bubble-free application.",
+   "keywords": "belkin ultraglass 2 privacy screen protector iphone 17 glass",
+   "specs": {
+    "accessoryType": "Privacy screen protector",
+    "compatibility": "iPhone 17",
+    "material": "Lithium aluminosilicate (LAS) glass with privacy filter, 0.29 mm",
+    "magsafe": false
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-BELKIN-UG2-PRIVACY-AIR",
+   "slug": "belkin-ultraglass-2-privacy-iphone-air",
+   "name": "Belkin UltraGlass 2 Privacy Screen Protector for iPhone Air",
+   "brand": "Belkin",
+   "category": "cases-protection",
+   "price": "44.95",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    23,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "apple-ecosystem"
+   ],
+   "summary": "Belkin UltraGlass 2 Privacy for iPhone Air: 0.29 mm LAS glass with a full-screen privacy filter, up to 25x stronger than traditional glass protectors, drop-rated to 7.2 ft.",
+   "description": "This Belkin UltraGlass 2 Privacy protector adds a full-screen privacy filter that keeps texts, emails and sensitive content private. It is 0.29 mm lithium aluminosilicate glass, rated up to 25x stronger than traditional glass protectors, drop-rated to 7.2 ft, and includes an Easy Align tray for bubble-free application.",
+   "keywords": "belkin ultraglass 2 privacy screen protector iphone air glass",
+   "specs": {
+    "accessoryType": "Privacy screen protector",
+    "compatibility": "iPhone Air",
+    "material": "Lithium aluminosilicate (LAS) glass with privacy filter, 0.29 mm",
+    "magsafe": false
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-BELKIN-UG2-PRIVACY-17E",
+   "slug": "belkin-ultraglass-2-privacy-iphone-17e",
+   "name": "Belkin UltraGlass 2 Privacy Screen Protector for iPhone 17e",
+   "brand": "Belkin",
+   "category": "cases-protection",
+   "price": "44.95",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    32,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "apple-ecosystem"
+   ],
+   "summary": "Belkin UltraGlass 2 Privacy for iPhone 17e: 0.29 mm LAS glass with a full-screen privacy filter, up to 2.7x stronger than tempered glass protectors.",
+   "description": "This Belkin UltraGlass 2 Privacy protector adds a full-screen privacy filter that keeps texts, emails and sensitive content private. It is 0.29 mm lithium aluminosilicate glass, rated up to 2.7x stronger than tempered glass protectors, and includes an Easy Align tray for bubble-free application.",
+   "keywords": "belkin ultraglass 2 privacy screen protector iphone 17e glass",
+   "specs": {
+    "accessoryType": "Privacy screen protector",
+    "compatibility": "iPhone 17e, iPhone 16e, iPhone 14, iPhone 13, iPhone 13 Pro",
+    "material": "Lithium aluminosilicate (LAS) glass with privacy filter, 0.29 mm",
+    "magsafe": false
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-POPSOCKETS-KICKOUT-GRIP",
+   "slug": "popsockets-kick-out-grip-stand-magsafe",
+   "name": "PopSockets Kick-Out Grip & Stand (MagSafe compatible)",
+   "brand": "PopSockets",
+   "category": "cases-protection",
+   "price": "39.95",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    21,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "apple-ecosystem"
+   ],
+   "summary": "Magnetic PopSockets grip with a kick-out stand for portrait or landscape viewing and a swappable top; adaptor ring included.",
+   "description": "The PopSockets Kick-Out Grip & Stand snaps on and off magnetically, gives a secure hold and opens into an adjustable stand for portrait and landscape viewing. The grip top is swappable, magnets are up to 2x stronger, it works with all PopSockets magnetic mounts, and an included adaptor ring makes any case MagSafe compatible.",
+   "keywords": "popsockets kick-out grip stand magsafe phone grip",
+   "specs": {
+    "accessoryType": "Grip and stand",
+    "compatibility": "iPhone 12 and later with MagSafe, incl. iPhone 18 Pro/Pro Max, iPhone Air, iPhone 17, 17e and 16 (per apple.com compatibility list)",
+    "magsafe": true,
+    "colors": "Dark Green, Clear, Black, Multicolor"
+   },
+   "options": [
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Dark Green",
+       "default": true,
+       "image": {
+        "small": "/images/catalog/popsockets-kick-out-grip-stand-magsafe--dark-green-400.webp",
+        "large": "/images/catalog/popsockets-kick-out-grip-stand-magsafe--dark-green-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "PopSockets Kick-Out Grip & Stand (MagSafe compatible) in Dark Green, product view"
+       }
+      },
+      {
+       "label": "Clear",
+       "image": {
+        "small": "/images/catalog/popsockets-kick-out-grip-stand-magsafe--clear-400.webp",
+        "large": "/images/catalog/popsockets-kick-out-grip-stand-magsafe--clear-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "PopSockets Kick-Out Grip & Stand (MagSafe compatible) in Clear, product view"
+       }
+      },
+      {
+       "label": "Black",
+       "image": {
+        "small": "/images/catalog/popsockets-kick-out-grip-stand-magsafe--black-400.webp",
+        "large": "/images/catalog/popsockets-kick-out-grip-stand-magsafe--black-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "PopSockets Kick-Out Grip & Stand (MagSafe compatible) in Black, product view"
+       }
+      },
+      {
+       "label": "Multicolor",
+       "image": {
+        "small": "/images/catalog/popsockets-kick-out-grip-stand-magsafe--multicolor-400.webp",
+        "large": "/images/catalog/popsockets-kick-out-grip-stand-magsafe--multicolor-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "PopSockets Kick-Out Grip & Stand (MagSafe compatible) in Multicolor, product view"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "sku": "TK-POPSOCKETS-LOWPRO-GRIP",
+   "slug": "popsockets-low-pro-grip-stand-magsafe",
+   "name": "PopSockets Low-Pro Grip & Stand (MagSafe compatible)",
+   "brand": "PopSockets",
+   "category": "cases-protection",
+   "price": "39.95",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    14,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "apple-ecosystem"
+   ],
+   "summary": "PopSockets thinnest magnetic grip and stand at 2.6 mm, with charge-through capability and portrait or landscape viewing.",
+   "description": "At just 2.6 mm thin, the PopSockets Low-Pro Grip & Stand is an ultra-slim magnetic grip that snaps onto MagSafe iPhones and cases, works as a low-profile stand in portrait or landscape, supports charge-through, and mounts to metal surfaces or any PopSockets mount.",
+   "keywords": "popsockets low-pro grip stand thin magsafe",
+   "specs": {
+    "accessoryType": "Grip and stand",
+    "compatibility": "iPhone 12 and later with MagSafe, incl. iPhone 18 Pro/Pro Max, iPhone Air, iPhone 17, 17e and 16 (per apple.com compatibility list)",
+    "magsafe": true,
+    "colors": "Blue, Pink, Navy, Black"
+   },
+   "options": [
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Blue",
+       "default": true,
+       "image": {
+        "small": "/images/catalog/popsockets-low-pro-grip-stand-magsafe--blue-400.webp",
+        "large": "/images/catalog/popsockets-low-pro-grip-stand-magsafe--blue-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "PopSockets Low-Pro Grip & Stand (MagSafe compatible) in Blue, product view"
+       }
+      },
+      {
+       "label": "Pink",
+       "image": {
+        "small": "/images/catalog/popsockets-low-pro-grip-stand-magsafe--pink-400.webp",
+        "large": "/images/catalog/popsockets-low-pro-grip-stand-magsafe--pink-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "PopSockets Low-Pro Grip & Stand (MagSafe compatible) in Pink, product view"
+       }
+      },
+      {
+       "label": "Navy",
+       "image": {
+        "small": "/images/catalog/popsockets-low-pro-grip-stand-magsafe--navy-400.webp",
+        "large": "/images/catalog/popsockets-low-pro-grip-stand-magsafe--navy-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "PopSockets Low-Pro Grip & Stand (MagSafe compatible) in Navy, product view"
+       }
+      },
+      {
+       "label": "Black",
+       "image": {
+        "small": "/images/catalog/popsockets-low-pro-grip-stand-magsafe--black-400.webp",
+        "large": "/images/catalog/popsockets-low-pro-grip-stand-magsafe--black-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "PopSockets Low-Pro Grip & Stand (MagSafe compatible) in Black, product view"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "sku": "TK-POPSOCKETS-SUCKUP-GRIP",
+   "slug": "popsockets-suck-up-grip-mount-magsafe",
+   "name": "PopSockets Suck-Up Grip & Mount for iPhone (MagSafe compatible)",
+   "brand": "PopSockets",
+   "category": "cases-protection",
+   "price": "29.95",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    38,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "apple-ecosystem"
+   ],
+   "summary": "Compact PopSockets MagSafe grip that suctions to smooth surfaces as a mount and doubles as a stand; adaptor ring included.",
+   "description": "The PopSockets Suck-Up Grip & Mount combines strong suction, a comfortable grip and a hands-free stand in one compact accessory. It sticks to smooth surfaces, has a swappable top, snaps on and off magnetically, and includes an adaptor ring that makes any iPhone case MagSafe compatible.",
+   "keywords": "popsockets suck-up grip mount suction magsafe",
+   "specs": {
+    "accessoryType": "Grip and mount",
+    "compatibility": "iPhone 12 and later with MagSafe, incl. iPhone 18 Pro/Pro Max, iPhone Air, iPhone 17, 17e and 16 (per apple.com compatibility list)",
+    "magsafe": true
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-BAILEYHIKAWA-GRIP-STAND",
+   "slug": "bailey-hikawa-grip-stand-iphone-magsafe",
+   "name": "Hikawa Grip & Stand for iPhone (MagSafe Compatible)",
+   "brand": "Bailey Hikawa",
+   "category": "cases-protection",
+   "price": "54.95",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    24,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "apple-ecosystem"
+   ],
+   "summary": "Accessibility-focused magnetic MagSafe grip and stand by Bailey Hikawa, exclusive colours at Apple.",
+   "description": "Designed by Bailey Hikawa with input from people with disabilities affecting muscle strength, dexterity and hand control, this ergonomic silicone grip snaps onto any MagSafe iPhone, removes easily and doubles as a stand at two viewing angles in portrait or landscape. It is developed and produced by PopSockets.",
+   "keywords": "hikawa grip stand accessibility adaptive magsafe popsockets",
+   "specs": {
+    "accessoryType": "Grip and stand",
+    "compatibility": "iPhone 12 and later with MagSafe, incl. iPhone 18 Pro/Pro Max, iPhone Air, iPhone 17, 17e and 16 (per apple.com compatibility list)",
+    "material": "Premium silicone",
+    "magsafe": true,
+    "colors": "Blue, Stone, Orange"
+   },
+   "options": [
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Blue",
+       "default": true,
+       "image": {
+        "small": "/images/catalog/bailey-hikawa-grip-stand-iphone-magsafe--blue-400.webp",
+        "large": "/images/catalog/bailey-hikawa-grip-stand-iphone-magsafe--blue-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Hikawa Grip & Stand for iPhone (MagSafe Compatible) in Blue, product view"
+       }
+      },
+      {
+       "label": "Stone",
+       "image": {
+        "small": "/images/catalog/bailey-hikawa-grip-stand-iphone-magsafe--stone-400.webp",
+        "large": "/images/catalog/bailey-hikawa-grip-stand-iphone-magsafe--stone-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Hikawa Grip & Stand for iPhone (MagSafe Compatible) in Stone, product view"
+       }
+      },
+      {
+       "label": "Orange",
+       "image": {
+        "small": "/images/catalog/bailey-hikawa-grip-stand-iphone-magsafe--orange-400.webp",
+        "large": "/images/catalog/bailey-hikawa-grip-stand-iphone-magsafe--orange-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Hikawa Grip & Stand for iPhone (MagSafe Compatible) in Orange, product view"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "sku": "TK-MOFT-SNAP-FIELD-WALLET",
+   "slug": "moft-snap-field-magsafe-wallet-stand",
+   "name": "MOFT Snap Field MagSafe Wallet Stand",
+   "brand": "MOFT",
+   "category": "cases-protection",
+   "price": "49.95",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    30,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "apple-ecosystem"
+   ],
+   "summary": "MOFT MagSafe wallet and stand with room for up to 8 cards plus coins, a fold-over cover and MOVAS vegan leather.",
+   "description": "The MOFT Snap Field attaches magnetically, holds up to 8 cards plus coins and more in a one-piece design that unfolds into order, and flips into a hands-free stand. A fold-over cover shields cards, and it is made with MOVAS vegan leather.",
+   "keywords": "moft snap field magsafe wallet stand vegan leather",
+   "specs": {
+    "accessoryType": "MagSafe wallet stand",
+    "compatibility": "iPhone 12 and later with MagSafe, incl. iPhone 18 Pro/Pro Max, iPhone Air, iPhone 17, 17e and 16 (per apple.com compatibility list)",
+    "material": "MOVAS vegan leather",
+    "magsafe": true,
+    "colors": "Purple, Green, Black"
+   },
+   "options": [
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Purple",
+       "default": true,
+       "image": {
+        "small": "/images/catalog/moft-snap-field-magsafe-wallet-stand--purple-400.webp",
+        "large": "/images/catalog/moft-snap-field-magsafe-wallet-stand--purple-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "MOFT Snap Field MagSafe Wallet Stand in Purple, product view"
+       }
+      },
+      {
+       "label": "Green",
+       "image": {
+        "small": "/images/catalog/moft-snap-field-magsafe-wallet-stand--green-400.webp",
+        "large": "/images/catalog/moft-snap-field-magsafe-wallet-stand--green-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "MOFT Snap Field MagSafe Wallet Stand in Green, product view"
+       }
+      },
+      {
+       "label": "Black",
+       "image": {
+        "small": "/images/catalog/moft-snap-field-magsafe-wallet-stand--black-400.webp",
+        "large": "/images/catalog/moft-snap-field-magsafe-wallet-stand--black-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "MOFT Snap Field MagSafe Wallet Stand in Black, product view"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "sku": "TK-MOFT-FINDMY-WALLET",
+   "slug": "moft-find-my-magsafe-wallet-stand",
+   "name": "MOFT Find My MagSafe Wallet Stand",
+   "brand": "MOFT",
+   "category": "cases-protection",
+   "price": "49.95",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    53,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "apple-ecosystem"
+   ],
+   "summary": "MOFT two-card MagSafe wallet stand trackable in Apple Find My, with an 80mAh wirelessly rechargeable battery.",
+   "description": "The MOFT Find My MagSafe Wallet Stand can be tracked in the Apple Find My app and alerts you if it is left behind. It holds 2 cards, has a 15N magnetic hold, is splash-resistant, has an 80mAh wirelessly rechargeable battery, a 40 m close-up tracking range and a 70dB alarm.",
+   "keywords": "moft find my wallet stand magsafe tracker",
+   "specs": {
+    "accessoryType": "MagSafe wallet stand",
+    "compatibility": "iPhone 12 and later with MagSafe, incl. iPhone 18 Pro/Pro Max, iPhone Air, iPhone 17, 17e and 16 (per apple.com compatibility list)",
+    "magsafe": true,
+    "colors": "White, Black"
+   },
+   "options": [
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "White",
+       "default": true,
+       "image": {
+        "small": "/images/catalog/moft-find-my-magsafe-wallet-stand--white-400.webp",
+        "large": "/images/catalog/moft-find-my-magsafe-wallet-stand--white-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "MOFT Find My MagSafe Wallet Stand in White, product view"
+       }
+      },
+      {
+       "label": "Black",
+       "image": {
+        "small": "/images/catalog/moft-find-my-magsafe-wallet-stand--black-400.webp",
+        "large": "/images/catalog/moft-find-my-magsafe-wallet-stand--black-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "MOFT Find My MagSafe Wallet Stand in Black, product view"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "sku": "TK-NATIVEUNION-ACTIVE-WALLET",
+   "slug": "native-union-active-wallet-magnetic-stand",
+   "name": "Native Union Active Wallet Magnetic Stand (MagSafe Compatible)",
+   "brand": "Native Union",
+   "category": "cases-protection",
+   "price": "39.95",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    15,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "apple-ecosystem"
+   ],
+   "summary": "Slim Native Union MagSafe wallet for 4 cards that unfolds into a portrait or landscape phone stand.",
+   "description": "The Native Union Active Wallet Magnetic Stand holds four cards, unfolds into a phone stand in portrait or landscape, attaches to MagSafe iPhones and cases with strong built-in magnets, and is made from a durable recycled, animal-free leather alternative with a rear card-access port.",
+   "keywords": "native union active wallet stand magsafe card holder",
+   "specs": {
+    "accessoryType": "MagSafe wallet stand",
+    "compatibility": "iPhone 12 and later with MagSafe, incl. iPhone 18 Pro/Pro Max, iPhone Air, iPhone 17, 17e and 16 (per apple.com compatibility list)",
+    "material": "Recycled animal-free leather alternative",
+    "magsafe": true,
+    "colors": "Orange, Black, Sand"
+   },
+   "options": [
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Orange",
+       "default": true,
+       "image": {
+        "small": "/images/catalog/native-union-active-wallet-magnetic-stand--orange-400.webp",
+        "large": "/images/catalog/native-union-active-wallet-magnetic-stand--orange-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Native Union Active Wallet Magnetic Stand (MagSafe Compatible) in Orange, product view"
+       }
+      },
+      {
+       "label": "Black",
+       "image": {
+        "small": "/images/catalog/native-union-active-wallet-magnetic-stand--black-400.webp",
+        "large": "/images/catalog/native-union-active-wallet-magnetic-stand--black-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Native Union Active Wallet Magnetic Stand (MagSafe Compatible) in Black, product view"
+       }
+      },
+      {
+       "label": "Sand",
+       "image": {
+        "small": "/images/catalog/native-union-active-wallet-magnetic-stand--sand-400.webp",
+        "large": "/images/catalog/native-union-active-wallet-magnetic-stand--sand-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Native Union Active Wallet Magnetic Stand (MagSafe Compatible) in Sand, product view"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "sku": "TK-HERSCHEL-CLOUD-SLING-IPHONE",
+   "slug": "herschel-cloud-sling-for-iphone",
+   "name": "Herschel Cloud Sling for iPhone",
+   "brand": "Herschel Supply",
+   "category": "tablet-accessories",
+   "price": "59.95",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    9,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "apple-ecosystem"
+   ],
+   "summary": "Padded Herschel sling for carrying iPhone crossbody, with a zippered closure, AirTag slot and adjustable strap.",
+   "description": "The Herschel Cloud Sling for iPhone is made from padded, lightweight 100% recycled polyester (excluding trims) with polyfill batting. It has a zippered closure, a padded slot for AirTag, an adjustable twill webbing shoulder strap and a 3D injected logo.",
+   "keywords": "herschel cloud sling iphone crossbody bag pouch",
+   "specs": {
+    "compatibility": "iPhone 12 and later, including iPhone 18 Pro/Pro Max, Air, 17, 17e and 16 (per apple.com)",
+    "colors": "Pink, Black"
+   },
+   "options": [
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Pink",
+       "default": true,
+       "image": {
+        "small": "/images/catalog/herschel-cloud-sling-for-iphone--pink-400.webp",
+        "large": "/images/catalog/herschel-cloud-sling-for-iphone--pink-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Herschel Cloud Sling for iPhone in Pink, product view"
+       }
+      },
+      {
+       "label": "Black",
+       "image": {
+        "small": "/images/catalog/herschel-cloud-sling-for-iphone--black-400.webp",
+        "large": "/images/catalog/herschel-cloud-sling-for-iphone--black-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Herschel Cloud Sling for iPhone in Black, product view"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "sku": "TK-HERSCHEL-CLOUDFORM-BURRARD",
+   "slug": "herschel-cloudform-burrard-organizer-tech",
+   "name": "Herschel Cloudform Burrard Organizer Tech",
+   "brand": "Herschel Supply",
+   "category": "tablet-accessories",
+   "price": "58.95",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    56,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "apple-ecosystem"
+   ],
+   "summary": "Compact padded Herschel tech organizer that opens flat for cables, chargers and small devices.",
+   "description": "Made with padded, lightweight 100% recycled polyester (excluding trims), the Herschel Cloudform Burrard Organizer Tech opens flat and has zippered closures, a zippered front storage sleeve, an internal mesh sleeve, internal organizer pockets and elastic cable organizers.",
+   "keywords": "herschel organizer tech pouch cable organizer travel",
+   "specs": {
+    "compatibility": "Cables, chargers and small devices for iPhone, AirPods and more",
+    "colors": "Blue, Pink"
+   },
+   "options": [
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Blue",
+       "default": true,
+       "image": {
+        "small": "/images/catalog/herschel-cloudform-burrard-organizer-tech--blue-400.webp",
+        "large": "/images/catalog/herschel-cloudform-burrard-organizer-tech--blue-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Herschel Cloudform Burrard Organizer Tech in Blue, product view"
+       }
+      },
+      {
+       "label": "Pink",
+       "image": {
+        "small": "/images/catalog/herschel-cloudform-burrard-organizer-tech--pink-400.webp",
+        "large": "/images/catalog/herschel-cloudform-burrard-organizer-tech--pink-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Herschel Cloudform Burrard Organizer Tech in Pink, product view"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "sku": "TK-NATIVEUNION-ACTIVE-ORGANIZER",
+   "slug": "native-union-active-organizer",
+   "name": "Native Union Active Organizer",
+   "brand": "Native Union",
+   "category": "tablet-accessories",
+   "price": "29.95",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    57,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "apple-ecosystem"
+   ],
+   "summary": "Ultralight Native Union organizer pouch in water-resistant 100% recycled ripstop with flexible pockets and exterior loops.",
+   "description": "The Native Union Active Organizer is an ultralight pouch in water-resistant 100% recycled ripstop fabric with flexible internal pockets, a quick-access exterior pocket, a water-resistant zipper and exterior loops for a carabiner or sling (not included).",
+   "keywords": "native union active organizer pouch tech travel",
+   "specs": {
+    "compatibility": "Tech and daily essentials for iPhone, AirPods and more",
+    "colors": "Green, Black"
+   },
+   "options": [
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Green",
+       "default": true,
+       "image": {
+        "small": "/images/catalog/native-union-active-organizer--green-400.webp",
+        "large": "/images/catalog/native-union-active-organizer--green-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Native Union Active Organizer in Green, product view"
+       }
+      },
+      {
+       "label": "Black",
+       "image": {
+        "small": "/images/catalog/native-union-active-organizer--black-400.webp",
+        "large": "/images/catalog/native-union-active-organizer--black-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Native Union Active Organizer in Black, product view"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "sku": "TK-AER-CABLE-KIT-3",
+   "slug": "aer-cable-kit-3-organizer",
+   "name": "Aer Cable Kit 3 Organizer",
+   "brand": "Aer",
+   "category": "tablet-accessories",
+   "price": "59.95",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    59,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "apple-ecosystem"
+   ],
+   "summary": "Aer tech organizer in 1680D Cordura ballistic nylon with a wide-access main compartment, multiple pockets and a grab handle.",
+   "description": "The Aer Cable Kit 3 has a 1680D Cordura ballistic nylon exterior (bluesign approved), an 840D nylon face with a weather-resistant coating, YKK zippers and a soft recycled nylon lining. A wide-access main compartment, pockets in several sizes and a quick-grab handle keep tech essentials organized.",
+   "keywords": "aer cable kit 3 organizer tech pouch cordura",
+   "specs": {
+    "compatibility": "Cables and tech essentials for iPhone, Apple Watch, AirPods and more"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-AER-SPLIT-KIT",
+   "slug": "aer-split-kit-storage-pouch",
+   "name": "Aer Split Kit Storage Pouch",
+   "brand": "Aer",
+   "category": "tablet-accessories",
+   "price": "39.95",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    41,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "apple-ecosystem"
+   ],
+   "summary": "Slim expandable Aer pouch in 1680D Cordura ballistic nylon for cables, pens and small items.",
+   "description": "The Aer Split Kit is a slim storage pouch with a 1680D Cordura ballistic nylon exterior, YKK zippers, a quick-access main compartment and front pocket, an expandable design for larger items and a webbing loop for carrying or hanging.",
+   "keywords": "aer split kit pouch cable organizer cordura",
+   "specs": {
+    "compatibility": "Cables, pens and small items"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-BELLROY-TRAVEL-ORGANIZER",
+   "slug": "bellroy-travel-organizer",
+   "name": "Bellroy Travel Organizer",
+   "brand": "Bellroy",
+   "category": "tablet-accessories",
+   "price": "59.95",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    12,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "apple-ecosystem"
+   ],
+   "summary": "Generously sized Bellroy tech kit in water-resistant recycled woven fabric that zips out flat.",
+   "description": "The Bellroy Travel Organizer keeps tech accessories in one place without tangles. It is made from durable, water-resistant woven fabric from recycled materials, zips out flat, has stretch mesh pockets and a floating wall with an elastic cable organizer, and is leather free.",
+   "keywords": "bellroy travel organizer tech kit pouch cable",
+   "specs": {
+    "compatibility": "Tech accessories for iPhone, MacBook and more"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-APPLE-SILICONE-CASE-17PRO",
+   "slug": "apple-iphone-17-pro-silicone-case-magsafe",
+   "name": "Apple iPhone 17 Pro Silicone Case with MagSafe",
+   "brand": "Apple",
+   "category": "cases-protection",
+   "price": "49.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    57,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "apple-ecosystem"
+   ],
+   "summary": "Apple silicone case for iPhone 17 Pro with built-in MagSafe magnets and a soft microfiber lining, plus Camera Control support.",
+   "description": "Designed by Apple for iPhone 17 Pro, this case has a silky soft-touch silicone exterior and a soft microfiber lining. It works with Camera Control through a sapphire crystal and conductive layer, and built-in magnets align with MagSafe and Qi2 chargers so it can stay on while charging.",
+   "keywords": "iphone 17 pro case silicone magsafe apple",
+   "specs": {
+    "accessoryType": "Case",
+    "compatibility": "iPhone 17 Pro",
+    "material": "Silicone exterior, microfiber lining",
+    "magsafe": true,
+    "colors": "Bright Guava, Vanilla, Midnight, Terra Cotta, Purple Fog, Orange, Black"
+   },
+   "options": [
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Bright Guava",
+       "default": true,
+       "image": {
+        "small": "/images/catalog/apple-iphone-17-pro-silicone-case-magsafe--bright-guava-400.webp",
+        "large": "/images/catalog/apple-iphone-17-pro-silicone-case-magsafe--bright-guava-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple iPhone 17 Pro Silicone Case with MagSafe in Bright Guava, product view"
+       }
+      },
+      {
+       "label": "Vanilla",
+       "image": {
+        "small": "/images/catalog/apple-iphone-17-pro-silicone-case-magsafe--vanilla-400.webp",
+        "large": "/images/catalog/apple-iphone-17-pro-silicone-case-magsafe--vanilla-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple iPhone 17 Pro Silicone Case with MagSafe in Vanilla, product view"
+       }
+      },
+      {
+       "label": "Midnight",
+       "image": {
+        "small": "/images/catalog/apple-iphone-17-pro-silicone-case-magsafe--midnight-400.webp",
+        "large": "/images/catalog/apple-iphone-17-pro-silicone-case-magsafe--midnight-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple iPhone 17 Pro Silicone Case with MagSafe in Midnight, product view"
+       }
+      },
+      {
+       "label": "Terra Cotta",
+       "image": {
+        "small": "/images/catalog/apple-iphone-17-pro-silicone-case-magsafe--terra-cotta-400.webp",
+        "large": "/images/catalog/apple-iphone-17-pro-silicone-case-magsafe--terra-cotta-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple iPhone 17 Pro Silicone Case with MagSafe in Terra Cotta, product view"
+       }
+      },
+      {
+       "label": "Purple Fog",
+       "image": {
+        "small": "/images/catalog/apple-iphone-17-pro-silicone-case-magsafe--purple-fog-400.webp",
+        "large": "/images/catalog/apple-iphone-17-pro-silicone-case-magsafe--purple-fog-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple iPhone 17 Pro Silicone Case with MagSafe in Purple Fog, product view"
+       }
+      },
+      {
+       "label": "Orange",
+       "image": {
+        "small": "/images/catalog/apple-iphone-17-pro-silicone-case-magsafe--orange-400.webp",
+        "large": "/images/catalog/apple-iphone-17-pro-silicone-case-magsafe--orange-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple iPhone 17 Pro Silicone Case with MagSafe in Orange, product view"
+       }
+      },
+      {
+       "label": "Black",
+       "image": {
+        "small": "/images/catalog/apple-iphone-17-pro-silicone-case-magsafe--black-400.webp",
+        "large": "/images/catalog/apple-iphone-17-pro-silicone-case-magsafe--black-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple iPhone 17 Pro Silicone Case with MagSafe in Black, product view"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "sku": "TK-APPLE-SILICONE-CASE-17PROMAX",
+   "slug": "apple-iphone-17-pro-max-silicone-case-magsafe",
+   "name": "Apple iPhone 17 Pro Max Silicone Case with MagSafe",
+   "brand": "Apple",
+   "category": "cases-protection",
+   "price": "49.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    47,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "apple-ecosystem"
+   ],
+   "summary": "Apple silicone case for iPhone 17 Pro Max with built-in MagSafe magnets and a soft microfiber lining, plus Camera Control support.",
+   "description": "Designed by Apple for iPhone 17 Pro Max, this case has a silky soft-touch silicone exterior and a soft microfiber lining. It works with Camera Control through a sapphire crystal and conductive layer, and built-in magnets align with MagSafe and Qi2 chargers so it can stay on while charging.",
+   "keywords": "iphone 17 pro max case silicone magsafe apple",
+   "specs": {
+    "accessoryType": "Case",
+    "compatibility": "iPhone 17 Pro Max",
+    "material": "Silicone exterior, microfiber lining",
+    "magsafe": true,
+    "colors": "Bright Guava, Vanilla, Midnight, Terra Cotta, Purple Fog, Orange, Black"
+   },
+   "options": [
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Bright Guava",
+       "default": true,
+       "image": {
+        "small": "/images/catalog/apple-iphone-17-pro-max-silicone-case-magsafe--bright-guava-400.webp",
+        "large": "/images/catalog/apple-iphone-17-pro-max-silicone-case-magsafe--bright-guava-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple iPhone 17 Pro Max Silicone Case with MagSafe in Bright Guava, product view"
+       }
+      },
+      {
+       "label": "Vanilla",
+       "image": {
+        "small": "/images/catalog/apple-iphone-17-pro-max-silicone-case-magsafe--vanilla-400.webp",
+        "large": "/images/catalog/apple-iphone-17-pro-max-silicone-case-magsafe--vanilla-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple iPhone 17 Pro Max Silicone Case with MagSafe in Vanilla, product view"
+       }
+      },
+      {
+       "label": "Midnight",
+       "image": {
+        "small": "/images/catalog/apple-iphone-17-pro-max-silicone-case-magsafe--midnight-400.webp",
+        "large": "/images/catalog/apple-iphone-17-pro-max-silicone-case-magsafe--midnight-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple iPhone 17 Pro Max Silicone Case with MagSafe in Midnight, product view"
+       }
+      },
+      {
+       "label": "Terra Cotta",
+       "image": {
+        "small": "/images/catalog/apple-iphone-17-pro-max-silicone-case-magsafe--terra-cotta-400.webp",
+        "large": "/images/catalog/apple-iphone-17-pro-max-silicone-case-magsafe--terra-cotta-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple iPhone 17 Pro Max Silicone Case with MagSafe in Terra Cotta, product view"
+       }
+      },
+      {
+       "label": "Purple Fog",
+       "image": {
+        "small": "/images/catalog/apple-iphone-17-pro-max-silicone-case-magsafe--purple-fog-400.webp",
+        "large": "/images/catalog/apple-iphone-17-pro-max-silicone-case-magsafe--purple-fog-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple iPhone 17 Pro Max Silicone Case with MagSafe in Purple Fog, product view"
+       }
+      },
+      {
+       "label": "Orange",
+       "image": {
+        "small": "/images/catalog/apple-iphone-17-pro-max-silicone-case-magsafe--orange-400.webp",
+        "large": "/images/catalog/apple-iphone-17-pro-max-silicone-case-magsafe--orange-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple iPhone 17 Pro Max Silicone Case with MagSafe in Orange, product view"
+       }
+      },
+      {
+       "label": "Black",
+       "image": {
+        "small": "/images/catalog/apple-iphone-17-pro-max-silicone-case-magsafe--black-400.webp",
+        "large": "/images/catalog/apple-iphone-17-pro-max-silicone-case-magsafe--black-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple iPhone 17 Pro Max Silicone Case with MagSafe in Black, product view"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "sku": "TK-APPLE-SILICONE-CASE-16PLUS",
+   "slug": "apple-iphone-16-plus-silicone-case-magsafe",
+   "name": "Apple iPhone 16 Plus Silicone Case with MagSafe",
+   "brand": "Apple",
+   "category": "cases-protection",
+   "price": "49.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    13,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "apple-ecosystem"
+   ],
+   "summary": "Apple silicone case for iPhone 16 Plus with built-in MagSafe magnets and a soft microfiber lining, plus Camera Control support.",
+   "description": "Designed by Apple for iPhone 16 Plus, this case has a silky soft-touch silicone exterior and a soft microfiber lining. It works with Camera Control through a sapphire crystal and conductive layer, and built-in magnets align with MagSafe and Qi2 chargers so it can stay on while charging.",
+   "keywords": "iphone 16 plus case silicone magsafe apple",
+   "specs": {
+    "accessoryType": "Case",
+    "compatibility": "iPhone 16 Plus",
+    "material": "Silicone exterior, microfiber lining",
+    "magsafe": true,
+    "colors": "Periwinkle, Aquamarine, Tangerine, Star Fruit, Ultramarine, Plum, Fuchsia, Lake Green, Black, Stone Gray, Denim"
+   },
+   "options": [
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Periwinkle",
+       "default": true,
+       "image": {
+        "small": "/images/catalog/apple-iphone-16-plus-silicone-case-magsafe--periwinkle-400.webp",
+        "large": "/images/catalog/apple-iphone-16-plus-silicone-case-magsafe--periwinkle-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple iPhone 16 Plus Silicone Case with MagSafe in Periwinkle, product view"
+       }
+      },
+      {
+       "label": "Aquamarine",
+       "image": {
+        "small": "/images/catalog/apple-iphone-16-plus-silicone-case-magsafe--aquamarine-400.webp",
+        "large": "/images/catalog/apple-iphone-16-plus-silicone-case-magsafe--aquamarine-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple iPhone 16 Plus Silicone Case with MagSafe in Aquamarine, product view"
+       }
+      },
+      {
+       "label": "Tangerine",
+       "image": {
+        "small": "/images/catalog/apple-iphone-16-plus-silicone-case-magsafe--tangerine-400.webp",
+        "large": "/images/catalog/apple-iphone-16-plus-silicone-case-magsafe--tangerine-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple iPhone 16 Plus Silicone Case with MagSafe in Tangerine, product view"
+       }
+      },
+      {
+       "label": "Star Fruit",
+       "image": {
+        "small": "/images/catalog/apple-iphone-16-plus-silicone-case-magsafe--star-fruit-400.webp",
+        "large": "/images/catalog/apple-iphone-16-plus-silicone-case-magsafe--star-fruit-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple iPhone 16 Plus Silicone Case with MagSafe in Star Fruit, product view"
+       }
+      },
+      {
+       "label": "Ultramarine",
+       "image": {
+        "small": "/images/catalog/apple-iphone-16-plus-silicone-case-magsafe--ultramarine-400.webp",
+        "large": "/images/catalog/apple-iphone-16-plus-silicone-case-magsafe--ultramarine-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple iPhone 16 Plus Silicone Case with MagSafe in Ultramarine, product view"
+       }
+      },
+      {
+       "label": "Plum",
+       "image": {
+        "small": "/images/catalog/apple-iphone-16-plus-silicone-case-magsafe--plum-400.webp",
+        "large": "/images/catalog/apple-iphone-16-plus-silicone-case-magsafe--plum-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple iPhone 16 Plus Silicone Case with MagSafe in Plum, product view"
+       }
+      },
+      {
+       "label": "Fuchsia",
+       "image": {
+        "small": "/images/catalog/apple-iphone-16-plus-silicone-case-magsafe--fuchsia-400.webp",
+        "large": "/images/catalog/apple-iphone-16-plus-silicone-case-magsafe--fuchsia-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple iPhone 16 Plus Silicone Case with MagSafe in Fuchsia, product view"
+       }
+      },
+      {
+       "label": "Lake Green",
+       "image": {
+        "small": "/images/catalog/apple-iphone-16-plus-silicone-case-magsafe--lake-green-400.webp",
+        "large": "/images/catalog/apple-iphone-16-plus-silicone-case-magsafe--lake-green-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple iPhone 16 Plus Silicone Case with MagSafe in Lake Green, product view"
+       }
+      },
+      {
+       "label": "Black",
+       "image": {
+        "small": "/images/catalog/apple-iphone-16-plus-silicone-case-magsafe--black-400.webp",
+        "large": "/images/catalog/apple-iphone-16-plus-silicone-case-magsafe--black-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple iPhone 16 Plus Silicone Case with MagSafe in Black, product view"
+       }
+      },
+      {
+       "label": "Stone Gray",
+       "image": {
+        "small": "/images/catalog/apple-iphone-16-plus-silicone-case-magsafe--stone-gray-400.webp",
+        "large": "/images/catalog/apple-iphone-16-plus-silicone-case-magsafe--stone-gray-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple iPhone 16 Plus Silicone Case with MagSafe in Stone Gray, product view"
+       }
+      },
+      {
+       "label": "Denim",
+       "image": {
+        "small": "/images/catalog/apple-iphone-16-plus-silicone-case-magsafe--denim-400.webp",
+        "large": "/images/catalog/apple-iphone-16-plus-silicone-case-magsafe--denim-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple iPhone 16 Plus Silicone Case with MagSafe in Denim, product view"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "sku": "TK-APPLE-SILICONE-CASE-16PRO",
+   "slug": "apple-iphone-16-pro-silicone-case-magsafe",
+   "name": "Apple iPhone 16 Pro Silicone Case with MagSafe",
+   "brand": "Apple",
+   "category": "cases-protection",
+   "price": "49.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    36,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "apple-ecosystem"
+   ],
+   "summary": "Apple silicone case for iPhone 16 Pro with built-in MagSafe magnets and a soft microfiber lining, plus Camera Control support.",
+   "description": "Designed by Apple for iPhone 16 Pro, this case has a silky soft-touch silicone exterior and a soft microfiber lining. It works with Camera Control through a sapphire crystal and conductive layer, and built-in magnets align with MagSafe and Qi2 chargers so it can stay on while charging.",
+   "keywords": "iphone 16 pro case silicone magsafe apple",
+   "specs": {
+    "accessoryType": "Case",
+    "compatibility": "iPhone 16 Pro",
+    "material": "Silicone exterior, microfiber lining",
+    "magsafe": true,
+    "colors": "Periwinkle, Peony, Aquamarine, Tangerine, Plum, Fuchsia, Lake Green, Black, Stone Gray, Denim"
+   },
+   "options": [
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Periwinkle",
+       "default": true,
+       "image": {
+        "small": "/images/catalog/apple-iphone-16-pro-silicone-case-magsafe--periwinkle-400.webp",
+        "large": "/images/catalog/apple-iphone-16-pro-silicone-case-magsafe--periwinkle-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple iPhone 16 Pro Silicone Case with MagSafe in Periwinkle, product view"
+       }
+      },
+      {
+       "label": "Peony",
+       "image": {
+        "small": "/images/catalog/apple-iphone-16-pro-silicone-case-magsafe--peony-400.webp",
+        "large": "/images/catalog/apple-iphone-16-pro-silicone-case-magsafe--peony-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple iPhone 16 Pro Silicone Case with MagSafe in Peony, product view"
+       }
+      },
+      {
+       "label": "Aquamarine",
+       "image": {
+        "small": "/images/catalog/apple-iphone-16-pro-silicone-case-magsafe--aquamarine-400.webp",
+        "large": "/images/catalog/apple-iphone-16-pro-silicone-case-magsafe--aquamarine-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple iPhone 16 Pro Silicone Case with MagSafe in Aquamarine, product view"
+       }
+      },
+      {
+       "label": "Tangerine",
+       "image": {
+        "small": "/images/catalog/apple-iphone-16-pro-silicone-case-magsafe--tangerine-400.webp",
+        "large": "/images/catalog/apple-iphone-16-pro-silicone-case-magsafe--tangerine-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple iPhone 16 Pro Silicone Case with MagSafe in Tangerine, product view"
+       }
+      },
+      {
+       "label": "Plum",
+       "image": {
+        "small": "/images/catalog/apple-iphone-16-pro-silicone-case-magsafe--plum-400.webp",
+        "large": "/images/catalog/apple-iphone-16-pro-silicone-case-magsafe--plum-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple iPhone 16 Pro Silicone Case with MagSafe in Plum, product view"
+       }
+      },
+      {
+       "label": "Fuchsia",
+       "image": {
+        "small": "/images/catalog/apple-iphone-16-pro-silicone-case-magsafe--fuchsia-400.webp",
+        "large": "/images/catalog/apple-iphone-16-pro-silicone-case-magsafe--fuchsia-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple iPhone 16 Pro Silicone Case with MagSafe in Fuchsia, product view"
+       }
+      },
+      {
+       "label": "Lake Green",
+       "image": {
+        "small": "/images/catalog/apple-iphone-16-pro-silicone-case-magsafe--lake-green-400.webp",
+        "large": "/images/catalog/apple-iphone-16-pro-silicone-case-magsafe--lake-green-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple iPhone 16 Pro Silicone Case with MagSafe in Lake Green, product view"
+       }
+      },
+      {
+       "label": "Black",
+       "image": {
+        "small": "/images/catalog/apple-iphone-16-pro-silicone-case-magsafe--black-400.webp",
+        "large": "/images/catalog/apple-iphone-16-pro-silicone-case-magsafe--black-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple iPhone 16 Pro Silicone Case with MagSafe in Black, product view"
+       }
+      },
+      {
+       "label": "Stone Gray",
+       "image": {
+        "small": "/images/catalog/apple-iphone-16-pro-silicone-case-magsafe--stone-gray-400.webp",
+        "large": "/images/catalog/apple-iphone-16-pro-silicone-case-magsafe--stone-gray-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple iPhone 16 Pro Silicone Case with MagSafe in Stone Gray, product view"
+       }
+      },
+      {
+       "label": "Denim",
+       "image": {
+        "small": "/images/catalog/apple-iphone-16-pro-silicone-case-magsafe--denim-400.webp",
+        "large": "/images/catalog/apple-iphone-16-pro-silicone-case-magsafe--denim-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple iPhone 16 Pro Silicone Case with MagSafe in Denim, product view"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "sku": "TK-APPLE-SILICONE-CASE-16PROMAX",
+   "slug": "apple-iphone-16-pro-max-silicone-case-magsafe",
+   "name": "Apple iPhone 16 Pro Max Silicone Case with MagSafe",
+   "brand": "Apple",
+   "category": "cases-protection",
+   "price": "49.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    43,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "apple-ecosystem"
+   ],
+   "summary": "Apple silicone case for iPhone 16 Pro Max with built-in MagSafe magnets and a soft microfiber lining, plus Camera Control support.",
+   "description": "Designed by Apple for iPhone 16 Pro Max, this case has a silky soft-touch silicone exterior and a soft microfiber lining. It works with Camera Control through a sapphire crystal and conductive layer, and built-in magnets align with MagSafe and Qi2 chargers so it can stay on while charging.",
+   "keywords": "iphone 16 pro max case silicone magsafe apple",
+   "specs": {
+    "accessoryType": "Case",
+    "compatibility": "iPhone 16 Pro Max",
+    "material": "Silicone exterior, microfiber lining",
+    "magsafe": true,
+    "colors": "Periwinkle, Peony, Aquamarine, Tangerine, Ultramarine, Plum, Lake Green, Black, Stone Gray, Denim"
+   },
+   "options": [
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Periwinkle",
+       "default": true,
+       "image": {
+        "small": "/images/catalog/apple-iphone-16-pro-max-silicone-case-magsafe--periwinkle-400.webp",
+        "large": "/images/catalog/apple-iphone-16-pro-max-silicone-case-magsafe--periwinkle-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple iPhone 16 Pro Max Silicone Case with MagSafe in Periwinkle, product view"
+       }
+      },
+      {
+       "label": "Peony",
+       "image": {
+        "small": "/images/catalog/apple-iphone-16-pro-max-silicone-case-magsafe--peony-400.webp",
+        "large": "/images/catalog/apple-iphone-16-pro-max-silicone-case-magsafe--peony-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple iPhone 16 Pro Max Silicone Case with MagSafe in Peony, product view"
+       }
+      },
+      {
+       "label": "Aquamarine",
+       "image": {
+        "small": "/images/catalog/apple-iphone-16-pro-max-silicone-case-magsafe--aquamarine-400.webp",
+        "large": "/images/catalog/apple-iphone-16-pro-max-silicone-case-magsafe--aquamarine-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple iPhone 16 Pro Max Silicone Case with MagSafe in Aquamarine, product view"
+       }
+      },
+      {
+       "label": "Tangerine",
+       "image": {
+        "small": "/images/catalog/apple-iphone-16-pro-max-silicone-case-magsafe--tangerine-400.webp",
+        "large": "/images/catalog/apple-iphone-16-pro-max-silicone-case-magsafe--tangerine-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple iPhone 16 Pro Max Silicone Case with MagSafe in Tangerine, product view"
+       }
+      },
+      {
+       "label": "Ultramarine",
+       "image": {
+        "small": "/images/catalog/apple-iphone-16-pro-max-silicone-case-magsafe--ultramarine-400.webp",
+        "large": "/images/catalog/apple-iphone-16-pro-max-silicone-case-magsafe--ultramarine-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple iPhone 16 Pro Max Silicone Case with MagSafe in Ultramarine, product view"
+       }
+      },
+      {
+       "label": "Plum",
+       "image": {
+        "small": "/images/catalog/apple-iphone-16-pro-max-silicone-case-magsafe--plum-400.webp",
+        "large": "/images/catalog/apple-iphone-16-pro-max-silicone-case-magsafe--plum-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple iPhone 16 Pro Max Silicone Case with MagSafe in Plum, product view"
+       }
+      },
+      {
+       "label": "Lake Green",
+       "image": {
+        "small": "/images/catalog/apple-iphone-16-pro-max-silicone-case-magsafe--lake-green-400.webp",
+        "large": "/images/catalog/apple-iphone-16-pro-max-silicone-case-magsafe--lake-green-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple iPhone 16 Pro Max Silicone Case with MagSafe in Lake Green, product view"
+       }
+      },
+      {
+       "label": "Black",
+       "image": {
+        "small": "/images/catalog/apple-iphone-16-pro-max-silicone-case-magsafe--black-400.webp",
+        "large": "/images/catalog/apple-iphone-16-pro-max-silicone-case-magsafe--black-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple iPhone 16 Pro Max Silicone Case with MagSafe in Black, product view"
+       }
+      },
+      {
+       "label": "Stone Gray",
+       "image": {
+        "small": "/images/catalog/apple-iphone-16-pro-max-silicone-case-magsafe--stone-gray-400.webp",
+        "large": "/images/catalog/apple-iphone-16-pro-max-silicone-case-magsafe--stone-gray-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple iPhone 16 Pro Max Silicone Case with MagSafe in Stone Gray, product view"
+       }
+      },
+      {
+       "label": "Denim",
+       "image": {
+        "small": "/images/catalog/apple-iphone-16-pro-max-silicone-case-magsafe--denim-400.webp",
+        "large": "/images/catalog/apple-iphone-16-pro-max-silicone-case-magsafe--denim-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple iPhone 16 Pro Max Silicone Case with MagSafe in Denim, product view"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "sku": "TK-APPLE-SILICONE-CASE-15",
+   "slug": "apple-iphone-15-silicone-case-magsafe",
+   "name": "Apple iPhone 15 Silicone Case with MagSafe",
+   "brand": "Apple",
+   "category": "cases-protection",
+   "price": "49.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    41,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "apple-ecosystem"
+   ],
+   "summary": "Apple silicone case for iPhone 15 with built-in MagSafe magnets and a soft microfiber lining.",
+   "description": "Designed by Apple for iPhone 15, this case has a silky soft-touch silicone exterior and a soft microfiber lining. Built-in magnets align with iPhone 15 for MagSafe and Qi2 or Qi charging with the case on.",
+   "keywords": "iphone 15 case silicone magsafe apple",
+   "specs": {
+    "accessoryType": "Case",
+    "compatibility": "iPhone 15",
+    "material": "Silicone exterior, microfiber lining",
+    "magsafe": true,
+    "colors": "Storm Blue, Clay, Black, Light Pink"
+   },
+   "options": [
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Storm Blue",
+       "default": true,
+       "image": {
+        "small": "/images/catalog/apple-iphone-15-silicone-case-magsafe--storm-blue-400.webp",
+        "large": "/images/catalog/apple-iphone-15-silicone-case-magsafe--storm-blue-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple iPhone 15 Silicone Case with MagSafe in Storm Blue, product view"
+       }
+      },
+      {
+       "label": "Clay",
+       "image": {
+        "small": "/images/catalog/apple-iphone-15-silicone-case-magsafe--clay-400.webp",
+        "large": "/images/catalog/apple-iphone-15-silicone-case-magsafe--clay-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple iPhone 15 Silicone Case with MagSafe in Clay, product view"
+       }
+      },
+      {
+       "label": "Black",
+       "image": {
+        "small": "/images/catalog/apple-iphone-15-silicone-case-magsafe--black-400.webp",
+        "large": "/images/catalog/apple-iphone-15-silicone-case-magsafe--black-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple iPhone 15 Silicone Case with MagSafe in Black, product view"
+       }
+      },
+      {
+       "label": "Light Pink",
+       "image": {
+        "small": "/images/catalog/apple-iphone-15-silicone-case-magsafe--light-pink-400.webp",
+        "large": "/images/catalog/apple-iphone-15-silicone-case-magsafe--light-pink-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple iPhone 15 Silicone Case with MagSafe in Light Pink, product view"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "sku": "TK-APPLE-SILICONE-CASE-15PLUS",
+   "slug": "apple-iphone-15-plus-silicone-case-magsafe",
+   "name": "Apple iPhone 15 Plus Silicone Case with MagSafe",
+   "brand": "Apple",
+   "category": "cases-protection",
+   "price": "49.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    33,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "apple-ecosystem"
+   ],
+   "summary": "Apple silicone case for iPhone 15 Plus with built-in MagSafe magnets and a soft microfiber lining.",
+   "description": "Designed by Apple for iPhone 15 Plus, this case has a silky soft-touch silicone exterior and a soft microfiber lining. Built-in magnets align with iPhone 15 Plus for MagSafe and Qi2 or Qi charging with the case on.",
+   "keywords": "iphone 15 plus case silicone magsafe apple",
+   "specs": {
+    "accessoryType": "Case",
+    "compatibility": "iPhone 15 Plus",
+    "material": "Silicone exterior, microfiber lining",
+    "magsafe": true,
+    "colors": "Storm Blue, Clay, Black, Light Pink"
+   },
+   "options": [
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Storm Blue",
+       "default": true,
+       "image": {
+        "small": "/images/catalog/apple-iphone-15-plus-silicone-case-magsafe--storm-blue-400.webp",
+        "large": "/images/catalog/apple-iphone-15-plus-silicone-case-magsafe--storm-blue-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple iPhone 15 Plus Silicone Case with MagSafe in Storm Blue, product view"
+       }
+      },
+      {
+       "label": "Clay",
+       "image": {
+        "small": "/images/catalog/apple-iphone-15-plus-silicone-case-magsafe--clay-400.webp",
+        "large": "/images/catalog/apple-iphone-15-plus-silicone-case-magsafe--clay-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple iPhone 15 Plus Silicone Case with MagSafe in Clay, product view"
+       }
+      },
+      {
+       "label": "Black",
+       "image": {
+        "small": "/images/catalog/apple-iphone-15-plus-silicone-case-magsafe--black-400.webp",
+        "large": "/images/catalog/apple-iphone-15-plus-silicone-case-magsafe--black-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple iPhone 15 Plus Silicone Case with MagSafe in Black, product view"
+       }
+      },
+      {
+       "label": "Light Pink",
+       "image": {
+        "small": "/images/catalog/apple-iphone-15-plus-silicone-case-magsafe--light-pink-400.webp",
+        "large": "/images/catalog/apple-iphone-15-plus-silicone-case-magsafe--light-pink-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple iPhone 15 Plus Silicone Case with MagSafe in Light Pink, product view"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "sku": "TK-APPLE-SILICONE-CASE-15PROMAX",
+   "slug": "apple-iphone-15-pro-max-silicone-case-magsafe",
+   "name": "Apple iPhone 15 Pro Max Silicone Case with MagSafe",
+   "brand": "Apple",
+   "category": "cases-protection",
+   "price": "49.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    22,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "apple-ecosystem"
+   ],
+   "summary": "Apple silicone case for iPhone 15 Pro Max with built-in MagSafe magnets and a soft microfiber lining.",
+   "description": "Designed by Apple for iPhone 15 Pro Max, this case has a silky soft-touch silicone exterior and a soft microfiber lining. Built-in magnets align with iPhone 15 Pro Max for MagSafe and Qi2 or Qi charging with the case on.",
+   "keywords": "iphone 15 pro max case silicone magsafe apple",
+   "specs": {
+    "accessoryType": "Case",
+    "compatibility": "iPhone 15 Pro Max",
+    "material": "Silicone exterior, microfiber lining",
+    "magsafe": true,
+    "colors": "Storm Blue, Light Pink"
+   },
+   "options": [
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Storm Blue",
+       "default": true,
+       "image": {
+        "small": "/images/catalog/apple-iphone-15-pro-max-silicone-case-magsafe--storm-blue-400.webp",
+        "large": "/images/catalog/apple-iphone-15-pro-max-silicone-case-magsafe--storm-blue-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple iPhone 15 Pro Max Silicone Case with MagSafe in Storm Blue, product view"
+       }
+      },
+      {
+       "label": "Light Pink",
+       "image": {
+        "small": "/images/catalog/apple-iphone-15-pro-max-silicone-case-magsafe--light-pink-400.webp",
+        "large": "/images/catalog/apple-iphone-15-pro-max-silicone-case-magsafe--light-pink-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple iPhone 15 Pro Max Silicone Case with MagSafe in Light Pink, product view"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "sku": "TK-APPLE-TECHWOVEN-CASE-17PRO",
+   "slug": "apple-iphone-17-pro-techwoven-case-magsafe",
+   "name": "Apple iPhone 17 Pro TechWoven Case with MagSafe",
+   "brand": "Apple",
+   "category": "cases-protection",
+   "price": "59.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    53,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "apple-ecosystem"
+   ],
+   "summary": "Apple TechWoven case for iPhone 17 Pro: a Jacquard-woven recycled-polyester fabric back with MagSafe and Crossbody Strap connection points.",
+   "description": "The TechWoven Case is made from a custom technical woven fabric of 100 percent recycled polyester, woven on a Jacquard loom for a dimensional texture. The sides are coated in lightly textured TPU for grip, the buttons are anodized aluminum, built-in magnets align with MagSafe and Qi2 25W chargers, and two connection points attach the Crossbody Strap.",
+   "keywords": "iphone 17 pro case techwoven fabric woven magsafe apple",
+   "specs": {
+    "accessoryType": "Case",
+    "compatibility": "iPhone 17 Pro",
+    "material": "TechWoven fabric (recycled polyester)",
+    "magsafe": true,
+    "colors": "Blue, Purple, Sienna, Green, Black"
+   },
+   "options": [
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Blue",
+       "default": true,
+       "image": {
+        "small": "/images/catalog/apple-iphone-17-pro-techwoven-case-magsafe--blue-400.webp",
+        "large": "/images/catalog/apple-iphone-17-pro-techwoven-case-magsafe--blue-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple iPhone 17 Pro TechWoven Case with MagSafe in Blue, product view"
+       }
+      },
+      {
+       "label": "Purple",
+       "image": {
+        "small": "/images/catalog/apple-iphone-17-pro-techwoven-case-magsafe--purple-400.webp",
+        "large": "/images/catalog/apple-iphone-17-pro-techwoven-case-magsafe--purple-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple iPhone 17 Pro TechWoven Case with MagSafe in Purple, product view"
+       }
+      },
+      {
+       "label": "Sienna",
+       "image": {
+        "small": "/images/catalog/apple-iphone-17-pro-techwoven-case-magsafe--sienna-400.webp",
+        "large": "/images/catalog/apple-iphone-17-pro-techwoven-case-magsafe--sienna-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple iPhone 17 Pro TechWoven Case with MagSafe in Sienna, product view"
+       }
+      },
+      {
+       "label": "Green",
+       "image": {
+        "small": "/images/catalog/apple-iphone-17-pro-techwoven-case-magsafe--green-400.webp",
+        "large": "/images/catalog/apple-iphone-17-pro-techwoven-case-magsafe--green-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple iPhone 17 Pro TechWoven Case with MagSafe in Green, product view"
+       }
+      },
+      {
+       "label": "Black",
+       "image": {
+        "small": "/images/catalog/apple-iphone-17-pro-techwoven-case-magsafe--black-400.webp",
+        "large": "/images/catalog/apple-iphone-17-pro-techwoven-case-magsafe--black-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple iPhone 17 Pro TechWoven Case with MagSafe in Black, product view"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "sku": "TK-APPLE-TECHWOVEN-CASE-17PROMAX",
+   "slug": "apple-iphone-17-pro-max-techwoven-case-magsafe",
+   "name": "Apple iPhone 17 Pro Max TechWoven Case with MagSafe",
+   "brand": "Apple",
+   "category": "cases-protection",
+   "price": "59.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    23,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "apple-ecosystem"
+   ],
+   "summary": "Apple TechWoven case for iPhone 17 Pro Max: a Jacquard-woven recycled-polyester fabric back with MagSafe and Crossbody Strap connection points.",
+   "description": "The TechWoven Case is made from a custom technical woven fabric of 100 percent recycled polyester, woven on a Jacquard loom for a dimensional texture. The sides are coated in lightly textured TPU for grip, the buttons are anodized aluminum, built-in magnets align with MagSafe and Qi2 25W chargers, and two connection points attach the Crossbody Strap.",
+   "keywords": "iphone 17 pro max case techwoven fabric woven magsafe apple",
+   "specs": {
+    "accessoryType": "Case",
+    "compatibility": "iPhone 17 Pro Max",
+    "material": "TechWoven fabric (recycled polyester)",
+    "magsafe": true,
+    "colors": "Blue, Purple, Sienna, Green, Black"
+   },
+   "options": [
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Blue",
+       "default": true,
+       "image": {
+        "small": "/images/catalog/apple-iphone-17-pro-max-techwoven-case-magsafe--blue-400.webp",
+        "large": "/images/catalog/apple-iphone-17-pro-max-techwoven-case-magsafe--blue-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple iPhone 17 Pro Max TechWoven Case with MagSafe in Blue, product view"
+       }
+      },
+      {
+       "label": "Purple",
+       "image": {
+        "small": "/images/catalog/apple-iphone-17-pro-max-techwoven-case-magsafe--purple-400.webp",
+        "large": "/images/catalog/apple-iphone-17-pro-max-techwoven-case-magsafe--purple-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple iPhone 17 Pro Max TechWoven Case with MagSafe in Purple, product view"
+       }
+      },
+      {
+       "label": "Sienna",
+       "image": {
+        "small": "/images/catalog/apple-iphone-17-pro-max-techwoven-case-magsafe--sienna-400.webp",
+        "large": "/images/catalog/apple-iphone-17-pro-max-techwoven-case-magsafe--sienna-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple iPhone 17 Pro Max TechWoven Case with MagSafe in Sienna, product view"
+       }
+      },
+      {
+       "label": "Green",
+       "image": {
+        "small": "/images/catalog/apple-iphone-17-pro-max-techwoven-case-magsafe--green-400.webp",
+        "large": "/images/catalog/apple-iphone-17-pro-max-techwoven-case-magsafe--green-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple iPhone 17 Pro Max TechWoven Case with MagSafe in Green, product view"
+       }
+      },
+      {
+       "label": "Black",
+       "image": {
+        "small": "/images/catalog/apple-iphone-17-pro-max-techwoven-case-magsafe--black-400.webp",
+        "large": "/images/catalog/apple-iphone-17-pro-max-techwoven-case-magsafe--black-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple iPhone 17 Pro Max TechWoven Case with MagSafe in Black, product view"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "sku": "TK-APPLE-CLEAR-CASE-17PRO",
+   "slug": "apple-iphone-17-pro-clear-case-magsafe",
+   "name": "Apple iPhone 17 Pro Clear Case with MagSafe",
+   "brand": "Apple",
+   "category": "cases-protection",
+   "price": "49.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    33,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "apple-ecosystem"
+   ],
+   "summary": "Thin, light Apple clear case for iPhone 17 Pro that shows off the phone finish, with built-in MagSafe magnets.",
+   "description": "Crafted from a blend of optically clear polycarbonate and flexible materials, this Apple case shows off the finish of iPhone 17 Pro and fits right over the buttons. A scratch-resistant coating is applied inside and out, materials are optimized to prevent yellowing, and built-in magnets support MagSafe and Qi2 charging with the case on.",
+   "keywords": "iphone 17 pro clear case transparent magsafe apple",
+   "specs": {
+    "accessoryType": "Case",
+    "compatibility": "iPhone 17 Pro",
+    "material": "Optically clear polycarbonate and flexible materials",
+    "magsafe": true
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-APPLE-CLEAR-CASE-17PROMAX",
+   "slug": "apple-iphone-17-pro-max-clear-case-magsafe",
+   "name": "Apple iPhone 17 Pro Max Clear Case with MagSafe",
+   "brand": "Apple",
+   "category": "cases-protection",
+   "price": "49.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    29,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "apple-ecosystem"
+   ],
+   "summary": "Thin, light Apple clear case for iPhone 17 Pro Max that shows off the phone finish, with built-in MagSafe magnets.",
+   "description": "Crafted from a blend of optically clear polycarbonate and flexible materials, this Apple case shows off the finish of iPhone 17 Pro Max and fits right over the buttons. A scratch-resistant coating is applied inside and out, materials are optimized to prevent yellowing, and built-in magnets support MagSafe and Qi2 charging with the case on.",
+   "keywords": "iphone 17 pro max clear case transparent magsafe apple",
+   "specs": {
+    "accessoryType": "Case",
+    "compatibility": "iPhone 17 Pro Max",
+    "material": "Optically clear polycarbonate and flexible materials",
+    "magsafe": true
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-APPLE-CLEAR-CASE-16PLUS",
+   "slug": "apple-iphone-16-plus-clear-case-magsafe",
+   "name": "Apple iPhone 16 Plus Clear Case with MagSafe",
+   "brand": "Apple",
+   "category": "cases-protection",
+   "price": "49.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    47,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "apple-ecosystem"
+   ],
+   "summary": "Thin, light Apple clear case for iPhone 16 Plus that shows off the phone finish, with built-in MagSafe magnets.",
+   "description": "Crafted from a blend of optically clear polycarbonate and flexible materials, this Apple case shows off the finish of iPhone 16 Plus and fits right over the buttons. A scratch-resistant coating is applied inside and out, materials are optimized to prevent yellowing, and built-in magnets support MagSafe and Qi2 charging with the case on.",
+   "keywords": "iphone 16 plus clear case transparent magsafe apple",
+   "specs": {
+    "accessoryType": "Case",
+    "compatibility": "iPhone 16 Plus",
+    "material": "Optically clear polycarbonate and flexible materials",
+    "magsafe": true
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-APPLE-CLEAR-CASE-16PRO",
+   "slug": "apple-iphone-16-pro-clear-case-magsafe",
+   "name": "Apple iPhone 16 Pro Clear Case with MagSafe",
+   "brand": "Apple",
+   "category": "cases-protection",
+   "price": "49.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    12,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "apple-ecosystem"
+   ],
+   "summary": "Thin, light Apple clear case for iPhone 16 Pro that shows off the phone finish, with built-in MagSafe magnets.",
+   "description": "Crafted from a blend of optically clear polycarbonate and flexible materials, this Apple case shows off the finish of iPhone 16 Pro and fits right over the buttons. A scratch-resistant coating is applied inside and out, materials are optimized to prevent yellowing, and built-in magnets support MagSafe and Qi2 charging with the case on.",
+   "keywords": "iphone 16 pro clear case transparent magsafe apple",
+   "specs": {
+    "accessoryType": "Case",
+    "compatibility": "iPhone 16 Pro",
+    "material": "Optically clear polycarbonate and flexible materials",
+    "magsafe": true
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-APPLE-CLEAR-CASE-16PROMAX",
+   "slug": "apple-iphone-16-pro-max-clear-case-magsafe",
+   "name": "Apple iPhone 16 Pro Max Clear Case with MagSafe",
+   "brand": "Apple",
+   "category": "cases-protection",
+   "price": "49.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    49,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "apple-ecosystem"
+   ],
+   "summary": "Thin, light Apple clear case for iPhone 16 Pro Max that shows off the phone finish, with built-in MagSafe magnets.",
+   "description": "Crafted from a blend of optically clear polycarbonate and flexible materials, this Apple case shows off the finish of iPhone 16 Pro Max and fits right over the buttons. A scratch-resistant coating is applied inside and out, materials are optimized to prevent yellowing, and built-in magnets support MagSafe and Qi2 charging with the case on.",
+   "keywords": "iphone 16 pro max clear case transparent magsafe apple",
+   "specs": {
+    "accessoryType": "Case",
+    "compatibility": "iPhone 16 Pro Max",
+    "material": "Optically clear polycarbonate and flexible materials",
+    "magsafe": true
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-APPLE-CLEAR-CASE-15",
+   "slug": "apple-iphone-15-clear-case-magsafe",
+   "name": "Apple iPhone 15 Clear Case with MagSafe",
+   "brand": "Apple",
+   "category": "cases-protection",
+   "price": "49.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    29,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "apple-ecosystem"
+   ],
+   "summary": "Thin, light Apple clear case for iPhone 15 that shows off the phone finish, with built-in MagSafe magnets.",
+   "description": "Crafted from a blend of optically clear polycarbonate and flexible materials, this Apple case shows off the finish of iPhone 15 and fits right over the buttons. A scratch-resistant coating is applied inside and out, materials are optimized to prevent yellowing, and built-in magnets support MagSafe and Qi2 charging with the case on.",
+   "keywords": "iphone 15 clear case transparent magsafe apple",
+   "specs": {
+    "accessoryType": "Case",
+    "compatibility": "iPhone 15",
+    "material": "Optically clear polycarbonate and flexible materials",
+    "magsafe": true
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-APPLE-CLEAR-CASE-15PLUS",
+   "slug": "apple-iphone-15-plus-clear-case-magsafe",
+   "name": "Apple iPhone 15 Plus Clear Case with MagSafe",
+   "brand": "Apple",
+   "category": "cases-protection",
+   "price": "49.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    39,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "apple-ecosystem"
+   ],
+   "summary": "Thin, light Apple clear case for iPhone 15 Plus that shows off the phone finish, with built-in MagSafe magnets.",
+   "description": "Crafted from a blend of optically clear polycarbonate and flexible materials, this Apple case shows off the finish of iPhone 15 Plus and fits right over the buttons. A scratch-resistant coating is applied inside and out, materials are optimized to prevent yellowing, and built-in magnets support MagSafe and Qi2 charging with the case on.",
+   "keywords": "iphone 15 plus clear case transparent magsafe apple",
+   "specs": {
+    "accessoryType": "Case",
+    "compatibility": "iPhone 15 Plus",
+    "material": "Optically clear polycarbonate and flexible materials",
+    "magsafe": true
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-APPLE-SILICONE-CASE-16E",
+   "slug": "apple-iphone-16e-silicone-case",
+   "name": "Apple iPhone 16e Silicone Case",
+   "brand": "Apple",
+   "category": "cases-protection",
+   "price": "39.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    36,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "apple-ecosystem"
+   ],
+   "summary": "Apple silicone case for iPhone 16e with a silky soft-touch finish and microfiber lining.",
+   "description": "Designed by Apple to complement iPhone 16e, the Silicone Case has a silky, soft-touch exterior and a soft microfiber lining. Like every Apple-designed case it undergoes thousands of hours of testing to protect iPhone from scratches and drops.",
+   "keywords": "iphone 16e case silicone apple",
+   "specs": {
+    "accessoryType": "Case",
+    "compatibility": "iPhone 16e",
+    "material": "Silicone exterior, microfiber lining",
+    "magsafe": false,
+    "colors": "Neon Yellow, Fuchsia, White, Winter Blue, Lake Green, Black"
+   },
+   "options": [
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Neon Yellow",
+       "default": true,
+       "image": {
+        "small": "/images/catalog/apple-iphone-16e-silicone-case--neon-yellow-400.webp",
+        "large": "/images/catalog/apple-iphone-16e-silicone-case--neon-yellow-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple iPhone 16e Silicone Case in Neon Yellow, product view"
+       }
+      },
+      {
+       "label": "Fuchsia",
+       "image": {
+        "small": "/images/catalog/apple-iphone-16e-silicone-case--fuchsia-400.webp",
+        "large": "/images/catalog/apple-iphone-16e-silicone-case--fuchsia-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple iPhone 16e Silicone Case in Fuchsia, product view"
+       }
+      },
+      {
+       "label": "White",
+       "image": {
+        "small": "/images/catalog/apple-iphone-16e-silicone-case--white-400.webp",
+        "large": "/images/catalog/apple-iphone-16e-silicone-case--white-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple iPhone 16e Silicone Case in White, product view"
+       }
+      },
+      {
+       "label": "Winter Blue",
+       "image": {
+        "small": "/images/catalog/apple-iphone-16e-silicone-case--winter-blue-400.webp",
+        "large": "/images/catalog/apple-iphone-16e-silicone-case--winter-blue-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple iPhone 16e Silicone Case in Winter Blue, product view"
+       }
+      },
+      {
+       "label": "Lake Green",
+       "image": {
+        "small": "/images/catalog/apple-iphone-16e-silicone-case--lake-green-400.webp",
+        "large": "/images/catalog/apple-iphone-16e-silicone-case--lake-green-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple iPhone 16e Silicone Case in Lake Green, product view"
+       }
+      },
+      {
+       "label": "Black",
+       "image": {
+        "small": "/images/catalog/apple-iphone-16e-silicone-case--black-400.webp",
+        "large": "/images/catalog/apple-iphone-16e-silicone-case--black-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple iPhone 16e Silicone Case in Black, product view"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "sku": "TK-MOPHIE-CHECK-CASE-17PRO",
+   "slug": "mophie-check-case-iphone-17-pro",
+   "name": "mophie Check Case for iPhone 17 Pro",
+   "brand": "mophie",
+   "category": "cases-protection",
+   "price": "59.95",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    35,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "apple-ecosystem"
+   ],
+   "summary": "Apple-exclusive mophie case for iPhone 17 Pro with a checked pattern, soft-touch matte finish, micro-suede lining, MagSafe and Camera Control.",
+   "description": "Designed exclusively for Apple, the mophie Check Case adds a checked pattern in a lightweight soft-touch material with a matte finish. A micro-suede interior cushions the phone, a raised frame lifts the camera lenses off surfaces, a responsive Camera Control button is built in, and magnets keep MagSafe, Qi2 and Qi chargers working.",
+   "keywords": "mophie check case iphone 17 pro pattern magsafe",
+   "specs": {
+    "accessoryType": "Case",
+    "compatibility": "iPhone 17 Pro",
+    "material": "Soft-touch shell, micro-suede lining",
+    "magsafe": true
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-MOPHIE-CHECK-CASE-17PROMAX",
+   "slug": "mophie-check-case-iphone-17-pro-max",
+   "name": "mophie Check Case for iPhone 17 Pro Max",
+   "brand": "mophie",
+   "category": "cases-protection",
+   "price": "59.95",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    50,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "apple-ecosystem"
+   ],
+   "summary": "Apple-exclusive mophie case for iPhone 17 Pro Max with a checked pattern, soft-touch matte finish, micro-suede lining, MagSafe and Camera Control.",
+   "description": "Designed exclusively for Apple, the mophie Check Case adds a checked pattern in a lightweight soft-touch material with a matte finish. A micro-suede interior cushions the phone, a raised frame lifts the camera lenses off surfaces, a responsive Camera Control button is built in, and magnets keep MagSafe, Qi2 and Qi chargers working.",
+   "keywords": "mophie check case iphone 17 pro max pattern magsafe",
+   "specs": {
+    "accessoryType": "Case",
+    "compatibility": "iPhone 17 Pro Max",
+    "material": "Soft-touch shell, micro-suede lining",
+    "magsafe": true
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-MOPHIE-OPTICAL-CHECK-17PRO",
+   "slug": "mophie-optical-check-case-iphone-17-pro",
+   "name": "mophie Optical Check Case for iPhone 17 Pro",
+   "brand": "mophie",
+   "category": "cases-protection",
+   "price": "59.95",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    34,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "apple-ecosystem"
+   ],
+   "summary": "Apple-exclusive mophie case for iPhone 17 Pro with a optical check pattern, soft-touch matte finish, micro-suede lining, MagSafe and Camera Control.",
+   "description": "Designed exclusively for Apple, the mophie Optical Check Case adds a optical check pattern in a lightweight soft-touch material with a matte finish. A micro-suede interior cushions the phone, a raised frame lifts the camera lenses off surfaces, a responsive Camera Control button is built in, and magnets keep MagSafe, Qi2 and Qi chargers working.",
+   "keywords": "mophie optical check case iphone 17 pro pattern magsafe",
+   "specs": {
+    "accessoryType": "Case",
+    "compatibility": "iPhone 17 Pro",
+    "material": "Soft-touch shell, micro-suede lining",
+    "magsafe": true
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-MOPHIE-OPTICAL-CHECK-17PROMAX",
+   "slug": "mophie-optical-check-case-iphone-17-pro-max",
+   "name": "mophie Optical Check Case for iPhone 17 Pro Max",
+   "brand": "mophie",
+   "category": "cases-protection",
+   "price": "59.95",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    50,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "apple-ecosystem"
+   ],
+   "summary": "Apple-exclusive mophie case for iPhone 17 Pro Max with a optical check pattern, soft-touch matte finish, micro-suede lining, MagSafe and Camera Control.",
+   "description": "Designed exclusively for Apple, the mophie Optical Check Case adds a optical check pattern in a lightweight soft-touch material with a matte finish. A micro-suede interior cushions the phone, a raised frame lifts the camera lenses off surfaces, a responsive Camera Control button is built in, and magnets keep MagSafe, Qi2 and Qi chargers working.",
+   "keywords": "mophie optical check case iphone 17 pro max pattern magsafe",
+   "specs": {
+    "accessoryType": "Case",
+    "compatibility": "iPhone 17 Pro Max",
+    "material": "Soft-touch shell, micro-suede lining",
+    "magsafe": true
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-TECH21-FLEXQUARTZ-17PRO",
+   "slug": "tech21-flexquartz-case-iphone-17-pro",
+   "name": "Tech21 FlexQuartz Case for iPhone 17 Pro (MagSafe compatible)",
+   "brand": "Tech21",
+   "category": "cases-protection",
+   "price": "54.95",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    26,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "apple-ecosystem"
+   ],
+   "summary": "Gradient-finish Tech21 case for iPhone 17 Pro with FlexShock 16 ft (4.9 m) multi-drop protection and MagSafe compatibility.",
+   "description": "The Tech21 FlexQuartz Case has an ombre gradient finish and FlexShock impact absorption rated for 16-foot (4.9 m) multi-drop protection. It is made with Bio-Spice to help break down its plastic parts (excluding magnets) in anaerobic environments, has a durable metallic MagSafe ring, and ships in 100% recycled packaging.",
+   "keywords": "tech21 flexquartz case iphone 17 pro drop protection magsafe gradient",
+   "specs": {
+    "accessoryType": "Case",
+    "compatibility": "iPhone 17 Pro",
+    "material": "FlexShock impact material with Bio-Spice additive, metallic MagSafe ring",
+    "magsafe": true,
+    "colors": "Blue, Pink"
+   },
+   "options": [
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Blue",
+       "default": true,
+       "image": {
+        "small": "/images/catalog/tech21-flexquartz-case-iphone-17-pro--blue-400.webp",
+        "large": "/images/catalog/tech21-flexquartz-case-iphone-17-pro--blue-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Tech21 FlexQuartz Case for iPhone 17 Pro (MagSafe compatible) in Blue, product view"
+       }
+      },
+      {
+       "label": "Pink",
+       "image": {
+        "small": "/images/catalog/tech21-flexquartz-case-iphone-17-pro--pink-400.webp",
+        "large": "/images/catalog/tech21-flexquartz-case-iphone-17-pro--pink-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Tech21 FlexQuartz Case for iPhone 17 Pro (MagSafe compatible) in Pink, product view"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "sku": "TK-TECH21-FLEXQUARTZ-17PROMAX",
+   "slug": "tech21-flexquartz-case-iphone-17-pro-max",
+   "name": "Tech21 FlexQuartz Case for iPhone 17 Pro Max (MagSafe compatible)",
+   "brand": "Tech21",
+   "category": "cases-protection",
+   "price": "54.95",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    53,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "apple-ecosystem"
+   ],
+   "summary": "Gradient-finish Tech21 case for iPhone 17 Pro Max with FlexShock 16 ft (4.9 m) multi-drop protection and MagSafe compatibility.",
+   "description": "The Tech21 FlexQuartz Case has an ombre gradient finish and FlexShock impact absorption rated for 16-foot (4.9 m) multi-drop protection. It is made with Bio-Spice to help break down its plastic parts (excluding magnets) in anaerobic environments, has a durable metallic MagSafe ring, and ships in 100% recycled packaging.",
+   "keywords": "tech21 flexquartz case iphone 17 pro max drop protection magsafe gradient",
+   "specs": {
+    "accessoryType": "Case",
+    "compatibility": "iPhone 17 Pro Max",
+    "material": "FlexShock impact material with Bio-Spice additive, metallic MagSafe ring",
+    "magsafe": true,
+    "colors": "Blue, Pink"
+   },
+   "options": [
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Blue",
+       "default": true,
+       "image": {
+        "small": "/images/catalog/tech21-flexquartz-case-iphone-17-pro-max--blue-400.webp",
+        "large": "/images/catalog/tech21-flexquartz-case-iphone-17-pro-max--blue-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Tech21 FlexQuartz Case for iPhone 17 Pro Max (MagSafe compatible) in Blue, product view"
+       }
+      },
+      {
+       "label": "Pink",
+       "image": {
+        "small": "/images/catalog/tech21-flexquartz-case-iphone-17-pro-max--pink-400.webp",
+        "large": "/images/catalog/tech21-flexquartz-case-iphone-17-pro-max--pink-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Tech21 FlexQuartz Case for iPhone 17 Pro Max (MagSafe compatible) in Pink, product view"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "sku": "TK-BELKIN-UG2-PRIVACY-17PRO",
+   "slug": "belkin-ultraglass-2-privacy-iphone-17-pro",
+   "name": "Belkin UltraGlass 2 Privacy Screen Protector for iPhone 17 Pro",
+   "brand": "Belkin",
+   "category": "cases-protection",
+   "price": "44.95",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    15,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "apple-ecosystem"
+   ],
+   "summary": "Belkin UltraGlass 2 Privacy for iPhone 17 Pro: 0.29 mm LAS glass with a full-screen privacy filter, up to 25x stronger than traditional glass protectors, drop-rated to 7.2 ft.",
+   "description": "This Belkin UltraGlass 2 Privacy protector adds a full-screen privacy filter that keeps texts, emails and sensitive content private. It is 0.29 mm lithium aluminosilicate glass strengthened by double ion-exchange, rated up to 25x stronger than traditional glass protectors with drops from up to 7.2 ft, and includes an Easy Align tray.",
+   "keywords": "belkin ultraglass 2 privacy screen protector iphone 17 pro glass",
+   "specs": {
+    "accessoryType": "Privacy screen protector",
+    "compatibility": "iPhone 17 Pro",
+    "material": "Lithium aluminosilicate (LAS) glass with privacy filter, 0.29 mm",
+    "magsafe": false
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-BELKIN-UG2-PRIVACY-17PROMAX",
+   "slug": "belkin-ultraglass-2-privacy-iphone-17-pro-max",
+   "name": "Belkin UltraGlass 2 Privacy Screen Protector for iPhone 17 Pro Max",
+   "brand": "Belkin",
+   "category": "cases-protection",
+   "price": "44.95",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    59,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "apple-ecosystem"
+   ],
+   "summary": "Belkin UltraGlass 2 Privacy for iPhone 17 Pro Max: 0.29 mm LAS glass with a full-screen privacy filter, up to 25x stronger than traditional glass protectors, drop-rated to 7.2 ft.",
+   "description": "This Belkin UltraGlass 2 Privacy protector adds a full-screen privacy filter that keeps texts, emails and sensitive content private. It is 0.29 mm lithium aluminosilicate glass strengthened by double ion-exchange, rated up to 25x stronger than traditional glass protectors with drops from up to 7.2 ft, and includes an Easy Align tray.",
+   "keywords": "belkin ultraglass 2 privacy screen protector iphone 17 pro max glass",
+   "specs": {
+    "accessoryType": "Privacy screen protector",
+    "compatibility": "iPhone 17 Pro Max",
+    "material": "Lithium aluminosilicate (LAS) glass with privacy filter, 0.29 mm",
+    "magsafe": false
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-BELKIN-UG2-16PROMAX",
+   "slug": "belkin-ultraglass-2-iphone-16-pro-max",
+   "name": "Belkin UltraGlass 2 Screen Protector for iPhone 16 Pro Max",
+   "brand": "Belkin",
+   "category": "cases-protection",
+   "price": "39.95",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    20,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "apple-ecosystem"
+   ],
+   "summary": "Belkin UltraGlass 2 for iPhone 16 Pro Max: 0.29 mm double ion-exchanged LAS glass, up to 2.7x stronger than tempered glass protectors.",
+   "description": "Belkin UltraGlass 2 is lithium aluminosilicate (LAS) glass chemically toughened by double ion-exchange, just 0.29 mm thin, with full-screen coverage and an Easy Align tray for bubble-free application at home. Belkin rates it up to 2.7x stronger than tempered glass protectors with up to 24% better drop performance than the previous UltraGlass.",
+   "keywords": "belkin ultraglass 2 screen protector iphone 16 pro max glass",
+   "specs": {
+    "accessoryType": "Screen protector",
+    "compatibility": "iPhone 16 Pro Max",
+    "material": "Lithium aluminosilicate (LAS) glass, 0.29 mm",
+    "magsafe": false
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-BELKIN-UG2-16PLUS",
+   "slug": "belkin-ultraglass-2-iphone-16-plus-15-plus",
+   "name": "Belkin UltraGlass 2 Screen Protector for iPhone 16 Plus | 15 Plus",
+   "brand": "Belkin",
+   "category": "cases-protection",
+   "price": "39.95",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    50,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "apple-ecosystem"
+   ],
+   "summary": "Belkin UltraGlass 2 for iPhone 16 Plus and 15 Plus: 0.29 mm double ion-exchanged LAS glass, up to 2.7x stronger than tempered glass protectors.",
+   "description": "Belkin UltraGlass 2 is lithium aluminosilicate (LAS) glass chemically toughened by double ion-exchange, just 0.29 mm thin, with full-screen coverage and an Easy Align tray for bubble-free application at home. Belkin rates it up to 2.7x stronger than tempered glass protectors with up to 24% better drop performance than the previous UltraGlass.",
+   "keywords": "belkin ultraglass 2 screen protector iphone 16 plus 15 plus glass",
+   "specs": {
+    "accessoryType": "Screen protector",
+    "compatibility": "iPhone 16 Plus, iPhone 15 Plus",
+    "material": "Lithium aluminosilicate (LAS) glass, 0.29 mm",
+    "magsafe": false
+   },
+   "options": []
+  }
+ ]
+}
