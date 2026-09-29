@@ -1,4 +1,4 @@
-import { Trophy } from 'lucide-react'
+import { Trophy, UserRound } from 'lucide-react'
 import { Link } from 'react-router'
 import { useMe } from '@/data/account'
 import { useCart, useWallet } from '@/data/shopping'
@@ -39,21 +39,27 @@ export function SiteHeader() {
               height={34}
               className="size-[34px] rounded-control"
             />
-            <span className="text-[21px] font-bold tracking-[-0.015em] text-white">TrustKart</span>
+            {/* Under 375px the mark alone fits beside the four icons; the link keeps its accessible name. */}
+            <span className="text-[21px] font-bold tracking-[-0.015em] text-white max-[374px]:hidden">
+              TrustKart
+            </span>
           </Link>
 
-          <Link
-            to="/wallet"
-            className={`${navItem} hidden sm:flex`}
-            aria-label={balanceLabel(wallet?.mode, wallet?.balance)}
-          >
+          {/* min-width reserves room for the balance so the search box doesn't shift when it loads. */}
+          <Link to="/wallet" className={`${navItem} hidden min-w-[104px] sm:flex`}>
             <span className="text-xs text-header-ink-muted">Wallet balance</span>
             <span className="text-sm font-bold tabular">
-              {wallet
-                ? wallet.mode === 'UNLIMITED'
-                  ? '∞ Unlimited'
-                  : formatMoneyWhole(wallet.balance)
-                : '…'}
+              {wallet ? (
+                wallet.mode === 'UNLIMITED' ? (
+                  <>
+                    <span aria-hidden="true">∞ </span>Unlimited
+                  </>
+                ) : (
+                  formatMoneyWhole(wallet.balance)
+                )
+              ) : (
+                '…'
+              )}
             </span>
           </Link>
 
@@ -62,11 +68,12 @@ export function SiteHeader() {
           </div>
 
           <nav aria-label="Account" className="order-2 ml-auto flex items-center gap-0.5">
+            {/* Phones get an icon; the "Hello, name / Account" pair wrapped the header onto an extra row. */}
             <Link
               to={me?.authenticated ? '/account' : '/signin'}
-              className={`${navItem} ${me?.profile?.avatarUrl ? 'flex-row items-center gap-2' : ''}`}
+              className={`${navItem} max-sm:w-11 max-sm:items-center ${me?.profile?.avatarUrl ? 'flex-row items-center gap-2' : ''}`}
             >
-              {me?.profile?.avatarUrl && (
+              {me?.profile?.avatarUrl ? (
                 <img
                   src={me.profile.avatarUrl}
                   alt=""
@@ -75,8 +82,10 @@ export function SiteHeader() {
                   referrerPolicy="no-referrer"
                   className="size-7 rounded-full"
                 />
+              ) : (
+                <UserRound className="size-[22px] sm:hidden" aria-hidden="true" />
               )}
-              <span className="flex flex-col">
+              <span className="flex flex-col max-sm:sr-only">
                 <span className="text-xs text-header-ink-muted">
                   {name ? `Hello, ${name}` : 'Hello, sign in'}
                 </span>
@@ -90,7 +99,7 @@ export function SiteHeader() {
             <Link
               to="/rankings"
               aria-label="Rankings"
-              className="flex size-[46px] items-center justify-center rounded-chip text-white hover:bg-white/10 lg:w-auto lg:gap-1.5 lg:px-2.5"
+              className="flex size-11 items-center justify-center rounded-chip text-white hover:bg-white/10 sm:size-[46px] lg:w-auto lg:gap-1.5 lg:px-2.5"
             >
               <Trophy className="size-[20px]" aria-hidden="true" />
               <span className="hidden text-sm font-bold lg:inline">Rankings</span>
@@ -99,8 +108,7 @@ export function SiteHeader() {
             <button
               type="button"
               onClick={drawer.show}
-              aria-label={`Cart, ${String(count)} ${count === 1 ? 'item' : 'items'}`}
-              className="flex h-[46px] items-center gap-2 whitespace-nowrap rounded-chip px-2.5 text-sm font-bold text-white hover:bg-white/10"
+              className="flex h-11 min-w-11 items-center justify-center gap-2 whitespace-nowrap rounded-chip px-2 text-sm font-bold text-white hover:bg-white/10 sm:h-[46px] sm:px-2.5"
             >
               <span
                 key={count}
@@ -108,7 +116,8 @@ export function SiteHeader() {
               >
                 {count}
               </span>
-              Cart
+              <span className="max-sm:sr-only">Cart</span>
+              <span className="sr-only"> {count === 1 ? 'item' : 'items'}</span>
             </button>
           </nav>
         </div>
@@ -116,11 +125,4 @@ export function SiteHeader() {
       <CategoryNav />
     </header>
   )
-}
-
-function balanceLabel(mode?: string, balance?: string): string {
-  if (!balance) return 'TrustKart Wallet'
-  return mode === 'UNLIMITED'
-    ? 'TrustKart Wallet, unlimited mode'
-    : `TrustKart Wallet, balance ${formatMoneyWhole(balance)}`
 }

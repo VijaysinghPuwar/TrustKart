@@ -27,9 +27,16 @@ export function HomePage() {
 
   return (
     <div className="flex flex-col gap-9">
+      {/* The hero carries the visual headline; this names the page for screen readers and search engines. */}
+      <h1 className="sr-only">TrustKart: premium technology, bought with virtual money</h1>
       <HeroCarousel slides={home.isPending ? undefined : home.data.heroSlides} />
 
-      <section aria-label="Shop by collection" className="grid grid-cols-2 gap-3.5 sm:grid-cols-3">
+      {/* Phones: a swipeable row of wide tiles (two columns of 2x2 mini-grids made names and prices unreadable).
+          From sm up: a three-column grid. */}
+      <section
+        aria-label="Shop by collection"
+        className="gutter-bleed no-scrollbar flex snap-x snap-mandatory gap-3 overflow-x-auto sm:mx-0 sm:grid sm:grid-cols-3 sm:gap-3.5 sm:overflow-visible sm:px-0"
+      >
         {hasRecent && (
           <CollectionTile
             title="Pick up where you left off"

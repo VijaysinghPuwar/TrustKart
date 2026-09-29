@@ -13,7 +13,7 @@ export function CollectionTile({
   items?: TileItem[]
 }) {
   return (
-    <section className="flex flex-col gap-3 rounded-tile border border-border bg-surface p-4">
+    <section className="flex w-[82%] max-w-sm shrink-0 snap-start flex-col gap-3 rounded-tile border border-border bg-surface p-4 sm:w-auto sm:max-w-none">
       <h2 className="text-[17px] font-semibold leading-6">{title}</h2>
       <ul className="grid flex-1 grid-cols-2 gap-2.5">
         {(items ?? Array.from({ length: 4 }, () => undefined)).map((item, i) => (
@@ -29,7 +29,7 @@ export function CollectionTile({
                       <ProductImage image={item.image} sizes="120px" />
                     </span>
                     <span className="truncate text-xs leading-4">{item.label}</span>
-                    <span className="text-[13px] font-semibold tabular">{item.meta}</span>
+                    <span className="truncate text-[13px] font-semibold tabular">{item.meta}</span>
                   </>
                 ) : (
                   <>

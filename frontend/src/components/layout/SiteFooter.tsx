@@ -39,10 +39,10 @@ export function SiteFooter() {
     <footer className="border-t border-border bg-surface">
       <div className="page-width page-gutter grid grid-cols-[repeat(auto-fit,minmax(150px,1fr))] gap-7 pb-5 pt-9">
         {columns.map((col) => (
-          <nav key={col.title} aria-label={col.title} className="flex flex-col gap-2.5 text-sm">
+          <nav key={col.title} aria-label={col.title} className="flex flex-col gap-0.5 text-sm sm:gap-2.5">
             <h2 className="font-semibold">{col.title}</h2>
             {col.links.map(([label, to]) => (
-              <Link key={to} to={to} className="text-ink-muted">
+              <Link key={to} to={to} className="py-2 text-ink-muted sm:py-0">
                 {label}
               </Link>
             ))}

@@ -28,7 +28,7 @@ export function WishlistButton({
         )
       }
       className={cn(
-        'flex size-9 items-center justify-center rounded-control border border-border bg-surface transition-colors hover:border-border-strong',
+        'flex size-10 items-center justify-center rounded-control border border-border bg-surface transition-colors hover:border-border-strong',
         saved ? 'text-danger' : 'text-ink-muted',
         className,
       )}

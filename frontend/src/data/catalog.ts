@@ -13,10 +13,22 @@ import type {
 } from '@/lib/types'
 import { qk } from './keys'
 
+declare global {
+  interface Window {
+    /** Home data requested early by /theme-init.js; consumed by the first home query. */
+    __tkHome?: Promise<Home | null>
+  }
+}
+
 export function useHome() {
   return useQuery({
     queryKey: qk.home,
-    queryFn: ({ signal }) => get<Home>('/catalog/home', signal),
+    queryFn: async ({ signal }) => {
+      const early = window.__tkHome
+      window.__tkHome = undefined
+      const data = early ? await early : null
+      return data ?? get<Home>('/catalog/home', signal)
+    },
     staleTime: 60_000,
   })
 }
@@ -55,10 +67,14 @@ export function useSearch(qs: string) {
   })
 }
 
+/** Suggestions start at two characters; an empty box shows recent and example searches without a request. */
+export const SUGGEST_MIN_LENGTH = 2
+
 export function useSuggestions(q: string) {
   return useQuery({
     queryKey: qk.suggest(q),
     queryFn: ({ signal }) => get<Suggestions>(`/search/suggest${queryString({ q })}`, signal),
+    enabled: q.length >= SUGGEST_MIN_LENGTH,
     staleTime: 60_000,
     placeholderData: keepPreviousData,
   })

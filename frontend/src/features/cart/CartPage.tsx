@@ -81,14 +81,16 @@ export default function CartPage() {
                 </>
               )}
             </dl>
-            <ButtonLink
-              to="/checkout"
-              size="lg"
-              aria-disabled={blocked || undefined}
-              className={blocked ? 'pointer-events-none opacity-50' : undefined}
-            >
-              Proceed to checkout
-            </ButtonLink>
+            {/* A real disabled button while blocked: an aria-disabled link could still be followed from the keyboard. */}
+            {blocked ? (
+              <Button size="lg" disabled>
+                Proceed to checkout
+              </Button>
+            ) : (
+              <ButtonLink to="/checkout" size="lg">
+                Proceed to checkout
+              </ButtonLink>
+            )}
             {blocked && (
               <p className="text-[13px] text-danger">Resolve the items marked above to continue.</p>
             )}

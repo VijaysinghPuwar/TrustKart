@@ -113,6 +113,7 @@
 @layer base {
   html {
     -webkit-text-size-adjust: 100%;
+    --tk-gutter: clamp(12px, 3vw, 24px);
   }
   body {
     @apply bg-bg font-sans text-ink antialiased;
@@ -140,7 +141,15 @@
 }
 
 @utility page-gutter {
-  padding-inline: clamp(12px, 3vw, 24px);
+  padding-inline: var(--tk-gutter);
+}
+
+/* A horizontal scroller that runs edge to edge inside the page gutter, keeping its first card aligned with the
+   content above it. */
+@utility gutter-bleed {
+  margin-inline: calc(-1 * var(--tk-gutter));
+  padding-inline: var(--tk-gutter);
+  scroll-padding-inline: var(--tk-gutter);
 }
 
 @utility page-width {

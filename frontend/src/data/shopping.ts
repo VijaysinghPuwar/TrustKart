@@ -165,7 +165,11 @@ export interface InstantLine {
   options?: OptionSelection
 }
 
-export function useQuote(instant?: InstantLine) {
+/**
+ * Server-priced quote for the cart, or for a single "Buy now" line. Pass {@code enabled: false} while nothing is on
+ * screen that needs it: a quote locks the wallet row and prices every line, so it should not run in the background.
+ */
+export function useQuote(instant?: InstantLine, { enabled = true }: { enabled?: boolean } = {}) {
   const options =
     instant?.options && Object.keys(instant.options).length ? JSON.stringify(instant.options) : undefined
   const qs = instant ? queryString({ productId: instant.productId, quantity: instant.quantity, options }) : ''
@@ -174,6 +178,7 @@ export function useQuote(instant?: InstantLine) {
       instant ? `${String(instant.productId)}x${String(instant.quantity)}${options ?? ''}` : undefined,
     ),
     queryFn: ({ signal }) => get<Quote>(`/checkout/quote${qs}`, signal),
+    enabled,
   })
 }
 

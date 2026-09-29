@@ -19,8 +19,8 @@ export function QuantityStepper({
   size = 'md',
   disabled,
 }: QuantityStepperProps) {
-  const h = size === 'sm' ? 'h-9' : 'h-11'
-  const w = size === 'sm' ? 'w-9' : 'w-11'
+  const h = size === 'sm' ? 'h-10' : 'h-11'
+  const w = size === 'sm' ? 'w-10' : 'w-11'
   return (
     <div
       role="group"

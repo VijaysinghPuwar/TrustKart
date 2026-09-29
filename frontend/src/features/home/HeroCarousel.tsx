@@ -3,6 +3,13 @@ import { useCallback, useEffect, useRef, useState } from 'react'
 import { Link } from 'react-router'
 import { Button, ButtonLink } from '@/components/ui/Button'
 import { Skeleton } from '@/components/ui/Skeleton'
+
+/** Shared by the banner and its loading placeholder so both have the same height. */
+const HERO_COPY = 'flex flex-col justify-center gap-3 px-6 pb-14 pt-1 md:py-10 md:pl-12 md:pr-4'
+const HERO_TITLE =
+  'line-clamp-3 min-h-[3lh] text-[clamp(24px,3vw,38px)] font-bold leading-tight tracking-[-0.02em] md:line-clamp-2 md:min-h-[2lh]'
+const HERO_SUMMARY = 'line-clamp-2 min-h-[2lh] max-w-[52ch] text-[15px]'
+const HERO_PRICE_ROW = 'flex items-end gap-x-3'
 import { useAddToCartAction } from '@/components/commerce/useAddToCart'
 import { cn } from '@/lib/cn'
 import { formatMoney } from '@/lib/money'
@@ -80,7 +87,31 @@ export function HeroCarousel({ slides }: { slides: ProductCard[] | undefined }) 
     return () => window.clearTimeout(t)
   }, [rotating, index, go])
 
-  if (!slides) return <Skeleton className="h-[420px] rounded-tile sm:h-[360px]" />
+  // The placeholder follows the loaded banner's shape (photo on top, then copy, on phones), so nothing below it
+  // moves when the deals arrive.
+  if (!slides)
+    return (
+      <div
+        aria-hidden="true"
+        className="grid grid-cols-1 rounded-tile bg-surface-2 md:min-h-[360px] md:grid-cols-[1fr_auto]"
+      >
+        <div className="order-first flex items-center justify-center p-5 md:order-last md:py-8 md:pl-2 md:pr-16">
+          <Skeleton className="aspect-[4/3] w-full max-w-[520px] rounded-card bg-surface md:h-[240px] md:w-auto lg:h-[300px]" />
+        </div>
+        <div className={HERO_COPY}>
+          <Skeleton className="h-6 w-48 rounded-full bg-surface" />
+          <div className={HERO_TITLE}>
+            <Skeleton className="h-[1lh] w-4/5 bg-surface" />
+          </div>
+          <p className={HERO_SUMMARY} />
+          {/* An invisible price keeps the placeholder exactly as tall as the real price row. */}
+          <div className={cn(HERO_PRICE_ROW, 'invisible')}>
+            <BigPrice amount="9999.99" />
+          </div>
+          <Skeleton className="mt-1 h-11 w-56 bg-surface" />
+        </div>
+      </div>
+    )
   if (count === 0) return null
   const p = slides[Math.min(index, count - 1)]
   if (!p) return null
@@ -109,11 +140,12 @@ export function HeroCarousel({ slides }: { slides: ProductCard[] | undefined }) 
           className="relative order-first flex items-center justify-center p-5 md:order-last md:justify-start md:py-8 md:pl-2 md:pr-16"
         >
           <span className="absolute inset-6 rounded-full bg-white/25 blur-3xl" />
-          <span className="tk-img-well relative flex aspect-[4/3] w-full max-w-[520px] items-center justify-center rounded-card bg-white p-5 shadow-2xl md:h-[300px] md:w-auto">
+          <span className="tk-img-well relative flex aspect-[4/3] w-full max-w-[520px] items-center justify-center rounded-card bg-white p-5 shadow-2xl md:h-[240px] md:w-auto lg:h-[300px]">
             {p.image && (
               <img
                 src={p.image.small}
                 srcSet={`${p.image.small} 400w, ${p.image.large} 800w`}
+                // Keep srcset and sizes in step with the preload in public/theme-init.js.
                 sizes="(max-width: 768px) 90vw, 400px"
                 width={p.image.width}
                 height={p.image.height}
@@ -125,23 +157,25 @@ export function HeroCarousel({ slides }: { slides: ProductCard[] | undefined }) 
           </span>
         </Link>
 
-        <div className="flex flex-col justify-center gap-3 px-6 pb-14 pt-1 md:py-10 md:pl-12 md:pr-4">
-          <p className="w-fit rounded-full bg-white/15 px-3 py-1 text-xs font-semibold uppercase tracking-wide">
+        {/* Every slide reserves the same lines (one-line eyebrow, title, two-line summary, list price) so the
+            banner keeps one height as it rotates and nothing below it jumps. */}
+        <div className={HERO_COPY}>
+          <p className="w-fit max-w-full truncate rounded-full bg-white/15 px-3 py-1 text-xs font-semibold uppercase tracking-wide">
             {eyebrow(p)}
           </p>
-          <h2 className="text-balance text-[clamp(24px,3vw,38px)] font-bold leading-tight tracking-[-0.02em]">
+          <h2 className={cn(HERO_TITLE, 'text-balance')}>
             <Link to={`/p/${p.slug}`} className="text-white no-underline hover:text-white hover:underline">
               {p.name}
             </Link>
           </h2>
-          {p.summary && <p className="line-clamp-2 max-w-[52ch] text-[15px] text-white/85">{p.summary}</p>}
-          <div className="flex flex-wrap items-end gap-x-3 gap-y-1">
+          <p className={cn(HERO_SUMMARY, 'text-white/85')}>{p.summary}</p>
+          <div className={HERO_PRICE_ROW}>
             <BigPrice amount={p.price} />
-            {p.compareAtPrice && (
-              <span className="pb-1 text-sm text-white/75">
-                List price <span className="line-through">{formatMoney(p.compareAtPrice)}</span>
-              </span>
-            )}
+            <span
+              className={cn('min-w-0 truncate pb-1 text-sm text-white/75', !p.compareAtPrice && 'invisible')}
+            >
+              List price <span className="line-through">{formatMoney(p.compareAtPrice ?? p.price)}</span>
+            </span>
           </div>
           <div className="mt-1 flex flex-wrap gap-2">
             <Button
@@ -178,19 +212,22 @@ export function HeroCarousel({ slides }: { slides: ProductCard[] | undefined }) 
           >
             <ChevronRight className="size-5" aria-hidden="true" />
           </button>
-          <div className="absolute bottom-4 left-6 flex items-center gap-2 md:left-12">
+          {/* Dots stay small visually but each control has a 40px hit area. */}
+          <div className="absolute bottom-2 left-4 flex items-center md:left-10">
             {!reducedMotion && (
               <button
                 type="button"
                 onClick={() => setPaused((v) => !v)}
                 aria-label={paused ? 'Resume rotating deals' : 'Pause rotating deals'}
-                className="flex size-7 items-center justify-center rounded-full bg-black/35 text-white hover:bg-black/55"
+                className="group flex size-10 items-center justify-center rounded-full text-white"
               >
-                {paused ? (
-                  <Play className="size-3.5" aria-hidden="true" />
-                ) : (
-                  <Pause className="size-3.5" aria-hidden="true" />
-                )}
+                <span className="flex size-7 items-center justify-center rounded-full bg-black/35 group-hover:bg-black/55">
+                  {paused ? (
+                    <Play className="size-3.5" aria-hidden="true" />
+                  ) : (
+                    <Pause className="size-3.5" aria-hidden="true" />
+                  )}
+                </span>
               </button>
             )}
             {slides.map((s, i) => (
@@ -200,7 +237,7 @@ export function HeroCarousel({ slides }: { slides: ProductCard[] | undefined }) 
                 onClick={() => go(i)}
                 aria-label={`Show deal ${String(i + 1)}: ${s.name}`}
                 aria-current={i === index}
-                className="flex size-6 items-center justify-center"
+                className="flex h-10 min-w-8 items-center justify-center px-1"
               >
                 <span
                   className={cn(
