@@ -1,0 +1,2575 @@
+{
+ "products": [
+  {
+   "sku": "TK-LOGI-ZONE-WIRELESS-2",
+   "slug": "logitech-zone-wireless-2",
+   "name": "Logitech Zone Wireless 2",
+   "brand": "Logitech",
+   "category": "headsets",
+   "price": "249.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    49,
+    5
+   ],
+   "featured": true,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "small-business",
+    "developer-setup"
+   ],
+   "summary": "Premium wireless ANC business headset with 5 MEMS mics, 40 mm drivers, 50 m range and certifications for Teams, Zoom and Google Meet.",
+   "description": "Zone Wireless 2 is Logitech's flagship wireless headset for hybrid work, with hybrid ANC, 40 mm drivers and five omni-directional MEMS mics with AI noise suppression. It connects over Bluetooth 5.2 or the included USB-C receiver with USB-A adapter, reaches up to 50 m, weighs 230 g and gives up to 18 hours of talk time (ANC off). It is certified for Microsoft Teams, Zoom and Google Meet depending on version.",
+   "keywords": "office headset uc teams zoom google meet anc bluetooth receiver logitech zone",
+   "specs": {
+    "connection": "Bluetooth 5.2, USB-C receiver with USB-A adapter, USB-C audio",
+    "noiseCancelling": true,
+    "batteryHours": 18,
+    "boomMic": true,
+    "drivers": "40 mm",
+    "microphone": "5 omni-directional MEMS mics",
+    "platforms": "Certified for Microsoft Teams, Zoom, Zoom Contact Center, Google Meet and Google Voice (version dependent)",
+    "weightG": 230,
+    "headsetType": "Office / UC",
+    "configurations": "Teams or UC version with receiver – $249.99 · Teams version, native Bluetooth – $229.99",
+    "colors": "Graphite, Off-white, Rose"
+   },
+   "options": [
+    {
+     "name": "Configuration",
+     "values": [
+      {
+       "label": "Teams or UC version with receiver",
+       "price": "249.99",
+       "default": true
+      },
+      {
+       "label": "Teams version, native Bluetooth",
+       "price": "229.99"
+      }
+     ]
+    },
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Graphite",
+       "default": true,
+       "image": {
+        "small": "/images/catalog/logitech-zone-wireless-2--graphite-400.webp",
+        "large": "/images/catalog/logitech-zone-wireless-2--graphite-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Logitech Zone Wireless 2 wireless headset in Graphite, three-quarter view"
+       }
+      },
+      {
+       "label": "Off-white",
+       "image": {
+        "small": "/images/catalog/logitech-zone-wireless-2--off-white-400.webp",
+        "large": "/images/catalog/logitech-zone-wireless-2--off-white-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Logitech Zone Wireless 2 wireless headset in Off-white, three-quarter view"
+       }
+      },
+      {
+       "label": "Rose",
+       "image": {
+        "small": "/images/catalog/logitech-zone-wireless-2--rose-400.webp",
+        "large": "/images/catalog/logitech-zone-wireless-2--rose-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Logitech Zone Wireless 2 wireless headset in Rose, three-quarter view"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "sku": "TK-LOGI-ZONE-WIRELESS-2-ES",
+   "slug": "logitech-zone-wireless-2-es",
+   "name": "Logitech Zone Wireless 2 ES",
+   "brand": "Logitech",
+   "category": "headsets",
+   "price": "159.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    44,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [],
+   "summary": "Wireless adaptive hybrid-ANC headset with 40 mm drivers, AI noise-canceling mics, 270° boom and up to 25 hours of talk time.",
+   "description": "Zone Wireless 2 ES brings adaptive hybrid ANC, 40 mm drivers and two AI-assisted noise-canceling mics on a 270° rotating boom to a lighter 212 g headset. It connects over Bluetooth 5.3 or a USB-C receiver with USB-A adapter and lasts up to 25 hours of talk time with ANC off. Versions are compatible with Microsoft Teams, Zoom and Google Meet.",
+   "keywords": "office headset uc teams zoom anc bluetooth receiver logitech zone es",
+   "specs": {
+    "connection": "Bluetooth 5.3, USB-C receiver with USB-A adapter (receiver versions), USB-C audio",
+    "noiseCancelling": true,
+    "batteryHours": 25,
+    "boomMic": true,
+    "drivers": "40 mm",
+    "microphone": "2 noise-canceling mics with AI algorithms and Mic EQ",
+    "platforms": "Microsoft Teams, Zoom, Google Meet, Google Voice (version dependent)",
+    "weightG": 212,
+    "headsetType": "Office / UC",
+    "configurations": "Native Bluetooth – $159.99 · With USB-C receiver – $179.99",
+    "colors": "Graphite, Off-white, Rose"
+   },
+   "options": [
+    {
+     "name": "Configuration",
+     "values": [
+      {
+       "label": "Native Bluetooth",
+       "price": "159.99",
+       "default": true
+      },
+      {
+       "label": "With USB-C receiver",
+       "price": "179.99"
+      }
+     ]
+    },
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Graphite",
+       "default": true,
+       "image": {
+        "small": "/images/catalog/logitech-zone-wireless-2-es--graphite-400.webp",
+        "large": "/images/catalog/logitech-zone-wireless-2-es--graphite-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Logitech Zone Wireless 2 ES wireless headset in Graphite, three-quarter front view"
+       }
+      },
+      {
+       "label": "Off-white",
+       "image": {
+        "small": "/images/catalog/logitech-zone-wireless-2-es--off-white-400.webp",
+        "large": "/images/catalog/logitech-zone-wireless-2-es--off-white-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Logitech Zone Wireless 2 ES wireless headset in Off-white, three-quarter front view"
+       }
+      },
+      {
+       "label": "Rose",
+       "image": {
+        "small": "/images/catalog/logitech-zone-wireless-2-es--rose-400.webp",
+        "large": "/images/catalog/logitech-zone-wireless-2-es--rose-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Logitech Zone Wireless 2 ES wireless headset in Rose, three-quarter front view"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "sku": "TK-LOGI-ZONE-WIRED-2",
+   "slug": "logitech-zone-wired-2",
+   "name": "Logitech Zone Wired 2",
+   "brand": "Logitech",
+   "category": "headsets",
+   "price": "129.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    38,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "small-business"
+   ],
+   "summary": "Wired USB-C/USB-A headset with adaptive hybrid ANC, 40 mm drivers and AI noise-canceling mics on a 270° boom.",
+   "description": "Zone Wired 2 is a corded USB headset with adaptive hybrid ANC, 40 mm drivers and two noise-canceling mics with AI-based algorithms. It connects via USB-C or USB-A on a 1.9 m cable, weighs 223.5 g and is certified for Microsoft Teams, Zoom, Google Meet and Google Voice depending on version.",
+   "keywords": "wired usb-c office headset anc teams zoom logitech zone",
+   "specs": {
+    "connection": "Wired USB-C or USB-A (1.9 m cable)",
+    "noiseCancelling": true,
+    "boomMic": true,
+    "drivers": "40 mm",
+    "microphone": "2 noise-canceling mics with AI algorithms and Mic EQ",
+    "platforms": "Certified for Microsoft Teams, Zoom, Google Meet, Google Voice (version dependent)",
+    "weightG": 223.5,
+    "headsetType": "Office / UC",
+    "colors": "Graphite, Off-white, Rose"
+   },
+   "options": [
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Graphite",
+       "default": true,
+       "image": {
+        "small": "/images/catalog/logitech-zone-wired-2--graphite-400.webp",
+        "large": "/images/catalog/logitech-zone-wired-2--graphite-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Logitech Zone Wired 2 wired headset in Graphite, three-quarter view"
+       }
+      },
+      {
+       "label": "Off-white",
+       "image": {
+        "small": "/images/catalog/logitech-zone-wired-2--off-white-400.webp",
+        "large": "/images/catalog/logitech-zone-wired-2--off-white-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Logitech Zone Wired 2 wired headset in Off-white, three-quarter view"
+       }
+      },
+      {
+       "label": "Rose",
+       "image": {
+        "small": "/images/catalog/logitech-zone-wired-2--rose-400.webp",
+        "large": "/images/catalog/logitech-zone-wired-2--rose-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Logitech Zone Wired 2 wired headset in Rose, three-quarter view"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "sku": "TK-LOGI-ZONE-950",
+   "slug": "logitech-zone-950",
+   "name": "Logitech Zone 950",
+   "brand": "Logitech",
+   "category": "headsets",
+   "price": "299.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    20,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [],
+   "summary": "Premium wireless headset with hybrid ANC, AI noise suppression, 4 noise-canceling mics and 40 mm drivers.",
+   "description": "Zone 950 is Logitech's premium wireless headset for calls and music, with hybrid ANC and transparency mode, AI noise suppression and four noise-canceling mics. Large 40 mm drivers with dynamic EQ, a boom that can be worn on either side and Personal EQ in the Logi Tune app round it out.",
+   "keywords": "wireless headset anc premium calls music logitech zone 950",
+   "specs": {
+    "noiseCancelling": true,
+    "boomMic": true,
+    "drivers": "40 mm",
+    "microphone": "4 noise-canceling mics with AI noise suppression",
+    "headsetType": "Office / UC",
+    "colors": "Graphite"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-LOGI-ZONE-VIBE-100",
+   "slug": "logitech-zone-vibe-100",
+   "name": "Logitech Zone Vibe 100",
+   "brand": "Logitech",
+   "category": "headsets",
+   "price": "99.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    28,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [],
+   "summary": "Lightweight over-ear wireless headphones with a flip-down mic, 40 mm speakers, multipoint Bluetooth and 18 hours of talk time.",
+   "description": "Zone Vibe 100 is a light over-ear wireless headset for work and home, with 40 mm speakers, a mic boom that flips down for calls and multipoint Bluetooth. It offers up to 20 hours of listening and 18 hours of talk time, with memory-foam cushions and 25% post-consumer recycled plastic.",
+   "keywords": "wireless headphones work from home bluetooth multipoint logitech zone vibe",
+   "specs": {
+    "connection": "Bluetooth (multipoint)",
+    "noiseCancelling": false,
+    "batteryHours": 18,
+    "boomMic": true,
+    "drivers": "40 mm",
+    "headsetType": "Office / UC",
+    "colors": "Graphite, Rose, Off-white"
+   },
+   "options": [
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Graphite",
+       "default": true,
+       "image": {
+        "small": "/images/catalog/logitech-zone-vibe-100--graphite-400.webp",
+        "large": "/images/catalog/logitech-zone-vibe-100--graphite-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Logitech Zone Vibe 100 wireless headphones in Graphite, three-quarter view"
+       }
+      },
+      {
+       "label": "Rose",
+       "image": {
+        "small": "/images/catalog/logitech-zone-vibe-100--rose-400.webp",
+        "large": "/images/catalog/logitech-zone-vibe-100--rose-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Logitech Zone Vibe 100 wireless headphones in Rose, three-quarter view"
+       }
+      },
+      {
+       "label": "Off-white",
+       "image": {
+        "small": "/images/catalog/logitech-zone-vibe-100--off-white-400.webp",
+        "large": "/images/catalog/logitech-zone-vibe-100--off-white-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Logitech Zone Vibe 100 wireless headphones in Off-white, three-quarter view"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "sku": "TK-LOGI-ZONE-300",
+   "slug": "logitech-zone-300",
+   "name": "Logitech Zone 300",
+   "brand": "Logitech",
+   "category": "headsets",
+   "price": "69.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    59,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [],
+   "summary": "Essential 122 g on-ear Bluetooth headset with dual noise-canceling boom mics, multipoint and up to 16 hours of talk time.",
+   "description": "Zone 300 is an ultra-light on-ear wireless headset with dual noise-canceling mics on an extended boom. Multipoint Bluetooth pairs up to six devices and connects two at once with up to 30 m range; battery gives up to 16 hours of talk and 20 hours of listening.",
+   "keywords": "budget bluetooth headset work from home boom mic logitech zone 300",
+   "specs": {
+    "connection": "Bluetooth (multipoint, up to 30 m)",
+    "noiseCancelling": false,
+    "batteryHours": 16,
+    "boomMic": true,
+    "microphone": "Dual noise-canceling mics on extended boom",
+    "weightG": 122,
+    "headsetType": "Office / UC",
+    "colors": "Midnight Black, Off-white, Rose"
+   },
+   "options": [
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Midnight Black",
+       "default": true,
+       "image": {
+        "small": "/images/catalog/logitech-zone-300--midnight-black-400.webp",
+        "large": "/images/catalog/logitech-zone-300--midnight-black-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Logitech Zone 300 wireless headset in Midnight Black, three-quarter view"
+       }
+      },
+      {
+       "label": "Off-white",
+       "image": {
+        "small": "/images/catalog/logitech-zone-300--off-white-400.webp",
+        "large": "/images/catalog/logitech-zone-300--off-white-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Logitech Zone 300 wireless headset in Off-white, three-quarter view"
+       }
+      },
+      {
+       "label": "Rose",
+       "image": {
+        "small": "/images/catalog/logitech-zone-300--rose-400.webp",
+        "large": "/images/catalog/logitech-zone-300--rose-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Logitech Zone 300 wireless headset in Rose, three-quarter view"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "sku": "TK-RODE-NTH-100",
+   "slug": "rode-nth-100",
+   "name": "RØDE NTH-100",
+   "brand": "RØDE",
+   "category": "headsets",
+   "price": "159.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    56,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "creator-workstations"
+   ],
+   "summary": "Professional closed over-ear headphones with 40 mm custom-matched drivers, 5 Hz-35 kHz response and Alcantara cushions.",
+   "description": "NTH-100 is RØDE's professional over-ear headphone for monitoring, mixing and mastering. Custom-matched 40 mm dynamic drivers deliver a 5 Hz-35 kHz response at 32 Ω, the circumaural design gives 20 dBA of ambient attenuation, and dual TRRS cable attachments let the 2.4 m cable run to either side. It weighs 350 g.",
+   "keywords": "studio headphones monitoring mixing podcast creator closed-back rode nth100",
+   "specs": {
+    "connection": "Wired, 2.4 m cable, dual TRRS attachments",
+    "noiseCancelling": false,
+    "boomMic": false,
+    "drivers": "40 mm dynamic, 32 Ω, 5 Hz-35 kHz",
+    "weightG": 350,
+    "headsetType": "Studio",
+    "colors": "Black, White"
+   },
+   "options": [
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Black",
+       "default": true,
+       "image": {
+        "small": "/images/catalog/rode-nth-100--black-400.webp",
+        "large": "/images/catalog/rode-nth-100--black-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "RØDE NTH-100 professional over-ear headphones in Black, three-quarter view"
+       }
+      },
+      {
+       "label": "White",
+       "image": {
+        "small": "/images/catalog/rode-nth-100--white-400.webp",
+        "large": "/images/catalog/rode-nth-100--white-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "RØDE NTH-100 professional over-ear headphones in White, three-quarter view"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "sku": "TK-RODE-NTH-100M",
+   "slug": "rode-nth-100m",
+   "name": "RØDE NTH-100M",
+   "brand": "RØDE",
+   "category": "headsets",
+   "price": "199.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    17,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "creator-workstations"
+   ],
+   "summary": "NTH-100 professional headphones paired with the NTH-Mic omnidirectional condenser headset microphone.",
+   "description": "NTH-100M combines the NTH-100 over-ear headphones with the NTH-Mic, an omnidirectional permanently polarized condenser headset microphone (20 Hz-20 kHz) that clips to the earcup. The headphones use 40 mm, 32 Ω dynamic drivers with a 5 Hz-35 kHz response and weigh 350 g; the mic adds 5 g.",
+   "keywords": "headset microphone streaming podcast broadcast creator rode nth100m boom",
+   "specs": {
+    "connection": "Wired, 2.4 m cable",
+    "noiseCancelling": false,
+    "boomMic": true,
+    "drivers": "40 mm dynamic, 32 Ω, 5 Hz-35 kHz",
+    "microphone": "NTH-Mic omnidirectional condenser headset mic",
+    "weightG": 355,
+    "headsetType": "Studio / broadcast headset"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-RODE-NTH-50",
+   "slug": "rode-nth-50",
+   "name": "RØDE NTH-50",
+   "brand": "RØDE",
+   "category": "headsets",
+   "price": "99.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    25,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [],
+   "summary": "Closed on-ear professional headphones with 40 mm drivers, 5 Hz-35 kHz response, 21 dBA isolation and a 220 g weight.",
+   "description": "NTH-50 are RØDE's on-ear professional headphones with custom-built 40 mm dynamic drivers and a resonant chamber design for clear audio. The closed, supra-aural design gives 21 dBA of ambient attenuation, impedance is 32 Ω, and they ship with a 1.7 m coiled cable using dual TRRS attachments. Weight is 220 g.",
+   "keywords": "on-ear studio headphones monitoring creator closed rode nth50",
+   "specs": {
+    "connection": "Wired, 1.7 m coiled cable, dual TRRS attachments",
+    "noiseCancelling": false,
+    "boomMic": false,
+    "drivers": "40 mm dynamic, 32 Ω, 5 Hz-35 kHz",
+    "weightG": 220,
+    "headsetType": "Studio"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-SHOKZ-OPENCOMM2-UC-2025",
+   "slug": "shokz-opencomm2-uc-2025",
+   "name": "Shokz OpenComm2 UC (2025 Upgrade)",
+   "brand": "Shokz",
+   "category": "headsets",
+   "price": "199.95",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    10,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "small-business"
+   ],
+   "summary": "Open-ear bone conduction office headset with a DSP noise-canceling boom mic, Loop110 USB adapter and 16-hour talk time.",
+   "description": "OpenComm2 UC is an open-ear bone conduction headset for calls that leaves the ears free for situational awareness. It uses 7th-generation bone conduction, an adjustable dual noise-canceling DSP boom mic, and the Shokz Loop110 wireless adapter (USB-A or USB-C) for Mac or PC, with up to 16 hours of talk time and USB-C quick charge. Shokz highlights its Zoom certification.",
+   "keywords": "bone conduction open-ear headset office uc zoom boom mic shokz opencomm",
+   "specs": {
+    "connection": "Bluetooth, Loop110 USB-A or USB-C adapter",
+    "noiseCancelling": false,
+    "batteryHours": 16,
+    "boomMic": true,
+    "drivers": "7th-generation bone conduction",
+    "microphone": "Dual noise-canceling DSP boom mic",
+    "platforms": "Zoom certified",
+    "headsetType": "Office / UC (open-ear)",
+    "configurations": "USB-A adapter – $199.95 · USB-C adapter – $199.95"
+   },
+   "options": [
+    {
+     "name": "Configuration",
+     "values": [
+      {
+       "label": "USB-A adapter",
+       "price": "199.95",
+       "default": true
+      },
+      {
+       "label": "USB-C adapter",
+       "price": "199.95"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "sku": "TK-SHOKZ-OPENCOMM2-2025",
+   "slug": "shokz-opencomm2-2025",
+   "name": "Shokz OpenComm2 (2025 Upgrade)",
+   "brand": "Shokz",
+   "category": "headsets",
+   "price": "159.95",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    39,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [],
+   "summary": "Open-ear bone conduction Bluetooth headset with DSP noise-canceling boom mic for calls on the go.",
+   "description": "OpenComm2 is Shokz's Bluetooth bone conduction headset for mobile work, with 7th-generation bone conduction, a DSP noise-canceling boom microphone and an open-ear design that keeps you aware of your surroundings. This version connects over Bluetooth without the USB adapter of the UC model.",
+   "keywords": "bone conduction open-ear bluetooth headset boom mic shokz opencomm",
+   "specs": {
+    "connection": "Bluetooth",
+    "noiseCancelling": false,
+    "boomMic": true,
+    "drivers": "7th-generation bone conduction",
+    "microphone": "DSP noise-canceling boom mic",
+    "headsetType": "Office / UC (open-ear)"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-BEYER-DT-700-PRO-X",
+   "slug": "beyerdynamic-dt-700-pro-x",
+   "name": "beyerdynamic DT 700 PRO X",
+   "brand": "beyerdynamic",
+   "category": "headsets",
+   "price": "319.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    43,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "creator-workstations"
+   ],
+   "summary": "Closed studio headphones for recording, monitoring and mixing with 48 Ω drivers, 5-40,000 Hz response and detachable mini-XLR cable.",
+   "description": "DT 700 PRO X is beyerdynamic's closed-back studio headphone for recording, monitoring and mixing. It has 48 Ω drivers with a 5-40,000 Hz response and 100 dB SPL sensitivity, velour circumaural pads, and a detachable 3 m or 1.8 m straight cable with 3-pin mini-XLR and 3.5 mm plug plus 6.35 mm adapter. It weighs 350 g without cable.",
+   "keywords": "closed-back studio headphones recording monitoring mixing beyerdynamic dt700 pro x",
+   "specs": {
+    "connection": "Wired, detachable mini-XLR cable (3 m / 1.8 m), 3.5 mm + 6.35 mm adapter",
+    "noiseCancelling": false,
+    "boomMic": false,
+    "drivers": "Dynamic, 48 Ω, 5-40,000 Hz",
+    "weightG": 350,
+    "headsetType": "Studio"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-BEYER-DT-990-PRO-X",
+   "slug": "beyerdynamic-dt-990-pro-x",
+   "name": "beyerdynamic DT 990 PRO X",
+   "brand": "beyerdynamic",
+   "category": "headsets",
+   "price": "229.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    54,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "creator-workstations"
+   ],
+   "summary": "Open-back studio headphones for critical listening and editing with 48 Ω drivers, 5-40,000 Hz response and 292 g weight.",
+   "description": "DT 990 PRO X updates the open-back studio classic for critical listening and editing, with 48 Ω drivers that work with mobile devices and studio gear alike, a 5-40,000 Hz response, velour pads and a detachable cable. It weighs 292 g without cable.",
+   "keywords": "open-back studio headphones critical listening editing mixing beyerdynamic dt990 pro x",
+   "specs": {
+    "connection": "Wired, detachable cable",
+    "noiseCancelling": false,
+    "boomMic": false,
+    "drivers": "Dynamic, 48 Ω, 5-40,000 Hz",
+    "weightG": 292,
+    "headsetType": "Studio"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-BEYER-DT-770-PRO",
+   "slug": "beyerdynamic-dt-770-pro",
+   "name": "beyerdynamic DT 770 PRO",
+   "brand": "beyerdynamic",
+   "category": "headsets",
+   "price": "199.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    20,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [],
+   "summary": "The classic closed-back studio headphone, made in Germany, in 32, 80 or 250 Ω versions with 5-35,000 Hz response.",
+   "description": "DT 770 PRO is the closed-back model of beyerdynamic's classic DT 770/880/990 PRO studio range, prized for detailed resolution and transparent sound. It is offered in 32 Ω (mobile devices), 80 Ω (universal studio) and 250 Ω (professional devices) versions with a 5-35,000 Hz response, circumaural pads and a straight 3.5 mm cable with 6.35 mm adapter.",
+   "keywords": "closed-back studio headphones tracking monitoring made in germany beyerdynamic dt770",
+   "specs": {
+    "connection": "Wired, straight cable, 3.5 mm with 6.35 mm adapter",
+    "noiseCancelling": false,
+    "boomMic": false,
+    "drivers": "Dynamic, 80 Ω, 5-35,000 Hz",
+    "headsetType": "Studio",
+    "configurations": "80 Ω – $199.99 · 32 Ω – $199.99 · 250 Ω – $199.99"
+   },
+   "options": [
+    {
+     "name": "Configuration",
+     "values": [
+      {
+       "label": "80 Ω",
+       "price": "199.99",
+       "default": true
+      },
+      {
+       "label": "32 Ω",
+       "price": "199.99"
+      },
+      {
+       "label": "250 Ω",
+       "price": "199.99"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "sku": "TK-BEYER-DT-990-PRO",
+   "slug": "beyerdynamic-dt-990-pro",
+   "name": "beyerdynamic DT 990 PRO",
+   "brand": "beyerdynamic",
+   "category": "headsets",
+   "price": "199.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    57,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [],
+   "summary": "The classic open-back studio headphone for mixing and mastering, 80 or 250 Ω, 5-35,000 Hz, 250 g.",
+   "description": "DT 990 PRO is the open-back studio legend in beyerdynamic's classic range, used for mixing, mastering and critical listening. It is offered in 80 Ω and 250 Ω versions with a 5-35,000 Hz response, circumaural pads and a straight 3.5 mm cable with 6.35 mm adapter, and weighs 250 g without cable.",
+   "keywords": "open-back studio headphones mixing mastering made in germany beyerdynamic dt990",
+   "specs": {
+    "connection": "Wired, straight cable, 3.5 mm with 6.35 mm adapter",
+    "noiseCancelling": false,
+    "boomMic": false,
+    "drivers": "Dynamic, 80 Ω or 250 Ω, 5-35,000 Hz",
+    "weightG": 250,
+    "headsetType": "Studio",
+    "configurations": "80 Ω – $199.99 · 250 Ω – $199.99"
+   },
+   "options": [
+    {
+     "name": "Configuration",
+     "values": [
+      {
+       "label": "80 Ω",
+       "price": "199.99",
+       "default": true
+      },
+      {
+       "label": "250 Ω",
+       "price": "199.99"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "sku": "TK-POLY-VOYAGER-FOCUS-2",
+   "slug": "poly-voyager-focus-2",
+   "name": "HP Poly Voyager Focus 2",
+   "brand": "Poly",
+   "category": "headsets",
+   "price": "299.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    47,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "small-business"
+   ],
+   "summary": "Stereo Bluetooth office headset with 3-level digital hybrid ANC, Acoustic Fence mic boom and up to 25 hours of talk time.",
+   "description": "Voyager Focus 2 is HP Poly's stereo Bluetooth headset for hybrid work, with three levels of advanced digital hybrid ANC and a multi-microphone boom with Acoustic Fence technology. Smart sensors answer calls and pause music, and it gives up to 25 hours of talk time (ANC off) or runs corded over USB. It is certified for Microsoft Teams (USB and native Bluetooth), Zoom, Google Meet and Google Voice.",
+   "keywords": "bluetooth office headset anc teams zoom poly voyager focus 2 charging stand",
+   "specs": {
+    "connection": "Bluetooth (USB-A or USB-C adapter), USB audio",
+    "noiseCancelling": true,
+    "batteryHours": 25,
+    "boomMic": true,
+    "microphone": "Multi-mic boom with Acoustic Fence",
+    "platforms": "Certified for Microsoft Teams, Zoom, Google Meet and Google Voice",
+    "headsetType": "Office / UC"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-POLY-VOYAGER-SURROUND-80",
+   "slug": "poly-voyager-surround-80-uc",
+   "name": "HP Poly Voyager Surround 80 UC",
+   "brand": "Poly",
+   "category": "headsets",
+   "price": "329.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    58,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [],
+   "summary": "Over-ear stereo Bluetooth headset with adaptive ANC, 6 boomless mics and up to 21 hours of talk time.",
+   "description": "Voyager Surround 80 UC is an over-ear stereo Bluetooth headset with adaptive ANC and six built-in microphones in a boomless design. Slanted drivers and an ergonomic headband gap improve comfort, and it offers up to 21 hours of talk or 24 hours of listening. It is certified for Microsoft Teams; the Voyager Surround 85 UC is the sister model in the same series.",
+   "keywords": "over-ear bluetooth office headset anc boomless teams poly voyager surround",
+   "specs": {
+    "connection": "Bluetooth",
+    "noiseCancelling": true,
+    "batteryHours": 21,
+    "boomMic": false,
+    "microphone": "6 built-in microphones (boomless)",
+    "platforms": "Certified for Microsoft Teams",
+    "headsetType": "Office / UC"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-POLY-VOYAGER-FREE-60",
+   "slug": "poly-voyager-free-60",
+   "name": "HP Poly Voyager Free 60",
+   "brand": "Poly",
+   "category": "headsets",
+   "price": "229.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    25,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [],
+   "summary": "True wireless work earbuds with adaptive ANC, three mics per bud, Poly NoiseBlockAI and a touchscreen charge case.",
+   "description": "Voyager Free 60 earbuds bring adaptive hybrid ANC and a three-mic array per earbud with Poly NoiseBlockAI and WindSmart to calls and music. The touchscreen charge case includes a 3.5 mm connector for in-flight entertainment, and the series is UC platform certified.",
+   "keywords": "wireless earbuds work anc uc poly voyager free 60",
+   "specs": {
+    "connection": "Bluetooth (USB adapter on UC versions)",
+    "noiseCancelling": true,
+    "boomMic": false,
+    "microphone": "3 mics per earbud with Poly NoiseBlockAI",
+    "platforms": "UC platform certified",
+    "headsetType": "Office / UC earbuds"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-POLY-BLACKWIRE-5220",
+   "slug": "poly-blackwire-5220",
+   "name": "HP Poly Blackwire 5220",
+   "brand": "Poly",
+   "category": "headsets",
+   "price": "99.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    8,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [],
+   "summary": "Corded stereo USB-C headset with tethered USB-A adapter, 3.5 mm for mobile, noise-canceling mic and dynamic EQ.",
+   "description": "Blackwire 5200 Series is a corded headset with a USB-C cord and tethered USB-A adapter for PCs plus 3.5 mm for mobiles and tablets. It offers wideband PC audio, a noise-canceling microphone with DSP and dynamic EQ, and is certified for Microsoft Teams, Zoom, Chromebook, Google Meet and Google Voice. Blackwire 5220 is the stereo model; 5210 is mono.",
+   "keywords": "corded usb-c headset stereo teams zoom poly blackwire 5220",
+   "specs": {
+    "connection": "Wired USB-C with tethered USB-A adapter, 3.5 mm",
+    "noiseCancelling": false,
+    "boomMic": true,
+    "microphone": "Noise-canceling boom mic with DSP",
+    "platforms": "Certified for Microsoft Teams, Zoom, Chromebook, Google Meet and Google Voice",
+    "headsetType": "Office / UC",
+    "configurations": "Blackwire 5220 (stereo) – $99 · Blackwire 5210 (mono) – $89"
+   },
+   "options": [
+    {
+     "name": "Configuration",
+     "values": [
+      {
+       "label": "Blackwire 5220 (stereo)",
+       "price": "99.00",
+       "default": true
+      },
+      {
+       "label": "Blackwire 5210 (mono)",
+       "price": "89.00"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "sku": "TK-POLY-ENCOREPRO-525",
+   "slug": "poly-encorepro-525",
+   "name": "HP Poly EncorePro 525",
+   "brand": "Poly",
+   "category": "headsets",
+   "price": "149.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    8,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [],
+   "summary": "Stereo contact-centre headset with USB-A/USB-C cable, noise-canceling mic, SoundGuard Digital and Teams button.",
+   "description": "EncorePro 500 Series smart digital headsets are built for contact centres and hybrid agents. The USB models put USB-A and USB-C connectors on the same cable, add a noise-canceling microphone and SoundGuard Digital hearing protection, and EncorePro 515/525 Teams models include a dedicated Teams button. The series is certified for Microsoft Teams, Zoom and Chromebook.",
+   "keywords": "contact center headset usb-c teams zoom poly encorepro 525",
+   "specs": {
+    "connection": "Wired USB-A and USB-C (same cable)",
+    "noiseCancelling": false,
+    "boomMic": true,
+    "microphone": "Noise-canceling boom mic",
+    "platforms": "Certified for Microsoft Teams, Zoom and Chromebook",
+    "headsetType": "Contact center",
+    "configurations": "EncorePro 525 (stereo) – $149 · EncorePro 515 (mono) – $139"
+   },
+   "options": [
+    {
+     "name": "Configuration",
+     "values": [
+      {
+       "label": "EncorePro 525 (stereo)",
+       "price": "149.00",
+       "default": true
+      },
+      {
+       "label": "EncorePro 515 (mono)",
+       "price": "139.00"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "sku": "TK-JABRA-EVOLVE3-85",
+   "slug": "jabra-evolve3-85",
+   "name": "Jabra Evolve3 85",
+   "brand": "Jabra",
+   "category": "headsets",
+   "price": "649.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    16,
+    5
+   ],
+   "featured": true,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "small-business",
+    "developer-setup"
+   ],
+   "summary": "Over-ear Bluetooth work headset with Jabra ClearVoice AI voice isolation, Advanced ANC, 6 hidden mics and up to 25 hours of talk time.",
+   "description": "Evolve3 85 is Jabra's flagship over-ear work headset, with no microphone arm: six digital MEMS mics and AI-based ClearVoice isolate your voice. Jabra Advanced ANC adapts to fit and surroundings, it weighs 220 g, and it is certified for Microsoft Teams, Zoom and Google Meet. Talk time is up to 25 hours and music up to 120 hours, with wireless charging and a replaceable battery.",
+   "keywords": "office headset uc teams zoom anc bluetooth busylight evolve3 over-ear hybrid work",
+   "specs": {
+    "connection": "Bluetooth 5.3 (Link 390 USB-A or USB-C adapter), USB-C cable, 3.5 mm",
+    "noiseCancelling": true,
+    "batteryHours": 25,
+    "boomMic": false,
+    "drivers": "32 mm",
+    "microphone": "6 digital MEMS mics, Jabra ClearVoice AI voice isolation",
+    "platforms": "Certified for Microsoft Teams, Zoom and Google Meet",
+    "weightG": 220,
+    "headsetType": "Office / UC",
+    "configurations": "MS or UC, USB-A/USB-C adapter – $649 · With wireless charging pad – $720",
+    "colors": "Black, Warm Grey"
+   },
+   "options": [
+    {
+     "name": "Configuration",
+     "values": [
+      {
+       "label": "MS or UC, USB-A/USB-C adapter",
+       "price": "649.00",
+       "default": true
+      },
+      {
+       "label": "With wireless charging pad",
+       "price": "720.00"
+      }
+     ]
+    },
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Black",
+       "default": true,
+       "image": {
+        "small": "/images/catalog/jabra-evolve3-85--black-400.webp",
+        "large": "/images/catalog/jabra-evolve3-85--black-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Jabra Evolve3 85 over-ear work headset in Black, angled view with busylight"
+       }
+      },
+      {
+       "label": "Warm Grey",
+       "image": {
+        "small": "/images/catalog/jabra-evolve3-85--warm-grey-400.webp",
+        "large": "/images/catalog/jabra-evolve3-85--warm-grey-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Jabra Evolve3 85 over-ear work headset in Warm Grey, angled view"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "sku": "TK-JABRA-EVOLVE3-75",
+   "slug": "jabra-evolve3-75",
+   "name": "Jabra Evolve3 75",
+   "brand": "Jabra",
+   "category": "headsets",
+   "price": "463.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    47,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "small-business"
+   ],
+   "summary": "On-ear Bluetooth work headset with AI-powered ClearVoice, adaptive Advanced ANC, 6 mics, 180 g weight and up to 22 hours of talk time.",
+   "description": "Evolve3 75 is an on-ear hybrid-work headset with Jabra Advanced ANC with adaptive technology and six digital MEMS microphones instead of a boom arm. It connects over Bluetooth 5.3 with a USB-A or USB-C adapter or a USB-C cable, weighs 180 g and offers up to 22 hours of talk time or 110 hours of music.",
+   "keywords": "office headset uc teams anc bluetooth busylight evolve3 on-ear hybrid work",
+   "specs": {
+    "connection": "Bluetooth 5.3 (USB-A or USB-C adapter), USB-C cable",
+    "noiseCancelling": true,
+    "batteryHours": 22,
+    "boomMic": false,
+    "drivers": "32 mm",
+    "microphone": "6 digital MEMS mics with Jabra ClearVoice",
+    "platforms": "Microsoft Teams (MS version) or Zoom, Google Meet and other UC platforms (UC version)",
+    "weightG": 180,
+    "headsetType": "Office / UC",
+    "configurations": "MS or UC, USB-A/USB-C adapter – $463 · With wireless charging pad – $530",
+    "colors": "Black, Warm Grey"
+   },
+   "options": [
+    {
+     "name": "Configuration",
+     "values": [
+      {
+       "label": "MS or UC, USB-A/USB-C adapter",
+       "price": "463.00",
+       "default": true
+      },
+      {
+       "label": "With wireless charging pad",
+       "price": "530.00"
+      }
+     ]
+    },
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Black",
+       "default": true,
+       "image": {
+        "small": "/images/catalog/jabra-evolve3-75--black-400.webp",
+        "large": "/images/catalog/jabra-evolve3-75--black-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Jabra Evolve3 75 on-ear work headset in Black, angled view"
+       }
+      },
+      {
+       "label": "Warm Grey",
+       "image": {
+        "small": "/images/catalog/jabra-evolve3-75--warm-grey-400.webp",
+        "large": "/images/catalog/jabra-evolve3-75--warm-grey-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Jabra Evolve3 75 on-ear work headset in Warm Grey, angled view"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "sku": "TK-JABRA-EVOLVE3-65-FLEX",
+   "slug": "jabra-evolve3-65-flex",
+   "name": "Jabra Evolve3 65 Flex",
+   "brand": "Jabra",
+   "category": "headsets",
+   "price": "389.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    53,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [],
+   "summary": "Foldable on-ear Bluetooth work headset with adaptive ANC, six mics, 143 g weight and up to 16.5 hours of talk time.",
+   "description": "Evolve3 65 Flex is a compact, foldable on-ear headset for mobile workers. It has adaptive ANC, 28 mm speakers and six digital MEMS microphones, connects over Bluetooth 5.3 with a USB-A or USB-C adapter or USB-C cable, and weighs 143 g. Talk time is up to 16.5 hours and music up to 80 hours.",
+   "keywords": "foldable office headset uc teams anc bluetooth evolve3 travel",
+   "specs": {
+    "connection": "Bluetooth 5.3 (USB-A or USB-C adapter), USB-C cable",
+    "noiseCancelling": true,
+    "batteryHours": 16.5,
+    "boomMic": false,
+    "drivers": "28 mm",
+    "microphone": "6 digital MEMS mics",
+    "platforms": "Microsoft Teams (MS version) or Zoom, Google Meet and other UC platforms (UC version)",
+    "weightG": 143,
+    "headsetType": "Office / UC",
+    "configurations": "MS or UC, USB-A/USB-C adapter – $389 · With wireless charging pad – $459"
+   },
+   "options": [
+    {
+     "name": "Configuration",
+     "values": [
+      {
+       "label": "MS or UC, USB-A/USB-C adapter",
+       "price": "389.00",
+       "default": true
+      },
+      {
+       "label": "With wireless charging pad",
+       "price": "459.00"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "sku": "TK-JABRA-EVOLVE3-65",
+   "slug": "jabra-evolve3-65",
+   "name": "Jabra Evolve3 65",
+   "brand": "Jabra",
+   "category": "headsets",
+   "price": "299.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    54,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [],
+   "summary": "On-ear stereo Bluetooth work headset with adaptive ANC, six mics, 131 g weight and up to 31 hours of talk time.",
+   "description": "Evolve3 65 is an on-ear wireless office headset available in stereo and mono. It has adaptive ANC, 28 mm speakers and six microphones, connects over Bluetooth 5.3 with a USB-A or USB-C adapter or USB-C cable, and offers up to 31 hours of talk time. The stereo version weighs 131 g.",
+   "keywords": "office headset uc teams anc bluetooth evolve3 mono stereo",
+   "specs": {
+    "connection": "Bluetooth 5.3 (USB-A or USB-C adapter), USB-C cable",
+    "noiseCancelling": true,
+    "batteryHours": 31,
+    "boomMic": false,
+    "drivers": "28 mm",
+    "microphone": "6 MEMS mics (4 analog, 2 digital)",
+    "platforms": "Microsoft Teams (MS version) or Zoom, Google Meet and other UC platforms (UC version)",
+    "weightG": 131,
+    "headsetType": "Office / UC",
+    "configurations": "Stereo – $299 · Mono – $284 · Stereo with charging stand – $360"
+   },
+   "options": [
+    {
+     "name": "Configuration",
+     "values": [
+      {
+       "label": "Stereo",
+       "price": "299.00",
+       "default": true
+      },
+      {
+       "label": "Mono",
+       "price": "284.00"
+      },
+      {
+       "label": "Stereo with charging stand",
+       "price": "360.00"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "sku": "TK-JABRA-EVOLVE3-45",
+   "slug": "jabra-evolve3-45",
+   "name": "Jabra Evolve3 45",
+   "brand": "Jabra",
+   "category": "headsets",
+   "price": "199.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    56,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [],
+   "summary": "Entry wireless on-ear work headset with ANC, four mics, 102 g stereo weight and up to 21 hours of talk time.",
+   "description": "Evolve3 45 is Jabra's entry Evolve3 wireless headset, in stereo and mono versions. It has active noise cancellation, 20 mm speakers and four microphones, connects over Bluetooth 5.3 with a USB-A or USB-C adapter or USB-C cable, and gives up to 21 hours of talk time. The stereo version weighs 102 g.",
+   "keywords": "office headset uc teams anc bluetooth evolve3 budget mono stereo",
+   "specs": {
+    "connection": "Bluetooth 5.3 (USB-A or USB-C adapter), USB-C cable",
+    "noiseCancelling": true,
+    "batteryHours": 21,
+    "boomMic": false,
+    "drivers": "20 mm",
+    "microphone": "4 MEMS mics (2 analog, 2 digital)",
+    "platforms": "Microsoft Teams (MS version) or Zoom, Google Meet and other UC platforms (UC version)",
+    "weightG": 102,
+    "headsetType": "Office / UC",
+    "configurations": "Stereo – $199 · Mono – $187 · Stereo with charging stand – $259"
+   },
+   "options": [
+    {
+     "name": "Configuration",
+     "values": [
+      {
+       "label": "Stereo",
+       "price": "199.00",
+       "default": true
+      },
+      {
+       "label": "Mono",
+       "price": "187.00"
+      },
+      {
+       "label": "Stereo with charging stand",
+       "price": "259.00"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "sku": "TK-JABRA-EVOLVE2-85",
+   "slug": "jabra-evolve2-85",
+   "name": "Jabra Evolve2 85",
+   "brand": "Jabra",
+   "category": "headsets",
+   "price": "649.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    37,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [],
+   "summary": "Over-ear wireless ANC headset with a fold-away boom arm, 10 mics, 40 mm speakers and up to 26 hours of talk time.",
+   "description": "Evolve2 85 is Jabra's over-ear professional headset with hybrid ANC, 40 mm speakers and a 10-microphone call technology with a boom arm that hides in the headband. It connects via a USB-A or USB-C Bluetooth adapter, Bluetooth or 3.5 mm and offers up to 26 hours of talk time or 37 hours of music.",
+   "keywords": "office headset uc teams anc bluetooth evolve2 over-ear boom",
+   "specs": {
+    "connection": "Bluetooth (Link380 USB-A or USB-C adapter), USB cable, 3.5 mm",
+    "noiseCancelling": true,
+    "batteryHours": 26,
+    "boomMic": true,
+    "drivers": "40 mm",
+    "microphone": "10 MEMS mics (4 analog, 6 digital) with fold-away boom",
+    "platforms": "Microsoft Teams (MS version) or Zoom, Google Meet and other UC platforms (UC version)",
+    "weightG": 286,
+    "headsetType": "Office / UC",
+    "configurations": "MS or UC, USB-A/USB-C – $649 · With charging stand – $720",
+    "colors": "Black, Beige"
+   },
+   "options": [
+    {
+     "name": "Configuration",
+     "values": [
+      {
+       "label": "MS or UC, USB-A/USB-C",
+       "price": "649.00",
+       "default": true
+      },
+      {
+       "label": "With charging stand",
+       "price": "720.00"
+      }
+     ]
+    },
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Black",
+       "default": true,
+       "image": {
+        "small": "/images/catalog/jabra-evolve2-85--black-400.webp",
+        "large": "/images/catalog/jabra-evolve2-85--black-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Jabra Evolve2 85 over-ear headset in Black with boom arm, three-quarter view"
+       }
+      },
+      {
+       "label": "Beige",
+       "image": {
+        "small": "/images/catalog/jabra-evolve2-85--beige-400.webp",
+        "large": "/images/catalog/jabra-evolve2-85--beige-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Jabra Evolve2 85 over-ear headset in Beige with boom arm"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "sku": "TK-JABRA-EVOLVE2-65-FLEX",
+   "slug": "jabra-evolve2-65-flex",
+   "name": "Jabra Evolve2 65 Flex",
+   "brand": "Jabra",
+   "category": "headsets",
+   "price": "378.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    54,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [],
+   "summary": "Foldable stereo Bluetooth headset with hybrid ANC, a flexible boom mic, 136 g weight and up to 20 hours of talk time.",
+   "description": "Evolve2 65 Flex folds flat for travel and pairs hybrid ANC with a boom-arm microphone system of six mics. It connects via a USB-A or USB-C Bluetooth adapter with up to 30 m range, weighs 136 g and lasts up to 20 hours of talk or 32 hours of music; a wireless-charging bundle is available.",
+   "keywords": "foldable office headset uc teams anc bluetooth evolve2 boom",
+   "specs": {
+    "connection": "Bluetooth (USB-A or USB-C adapter)",
+    "noiseCancelling": true,
+    "batteryHours": 20,
+    "boomMic": true,
+    "drivers": "28 mm",
+    "microphone": "6 MEMS mics (2 analog, 4 digital)",
+    "platforms": "Microsoft Teams (MS version) or Zoom, Google Meet and other UC platforms (UC version)",
+    "weightG": 136,
+    "headsetType": "Office / UC",
+    "configurations": "MS or UC, USB-A/USB-C – $378 · With wireless charging pad – $447"
+   },
+   "options": [
+    {
+     "name": "Configuration",
+     "values": [
+      {
+       "label": "MS or UC, USB-A/USB-C",
+       "price": "378.00",
+       "default": true
+      },
+      {
+       "label": "With wireless charging pad",
+       "price": "447.00"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "sku": "TK-JABRA-EVOLVE2-55",
+   "slug": "jabra-evolve2-55",
+   "name": "Jabra Evolve2 55",
+   "brand": "Jabra",
+   "category": "headsets",
+   "price": "269.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    44,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [],
+   "summary": "Wireless on-ear ANC headset with boom mic, Link390 adapter, 130 g stereo weight and up to 16 hours of talk time.",
+   "description": "Evolve2 55 is a wireless on-ear office headset with ANC, 28 mm speakers and a boom-arm microphone. It connects over Bluetooth 5.2 through a Link390 USB-A or USB-C adapter and gives up to 16 hours of talk time. Stereo and mono versions are available, with an optional charging stand.",
+   "keywords": "office headset uc teams anc bluetooth evolve2 boom mono stereo",
+   "specs": {
+    "connection": "Bluetooth 5.2 (Link390 USB-A or USB-C adapter)",
+    "noiseCancelling": true,
+    "batteryHours": 16,
+    "boomMic": true,
+    "drivers": "28 mm",
+    "microphone": "4 MEMS mics on boom arm (stereo)",
+    "platforms": "Microsoft Teams (MS version) or Zoom, Google Meet and other UC platforms (UC version)",
+    "weightG": 130,
+    "headsetType": "Office / UC",
+    "configurations": "Stereo – $269 · Mono – $259 · Stereo with charging stand – $319"
+   },
+   "options": [
+    {
+     "name": "Configuration",
+     "values": [
+      {
+       "label": "Stereo",
+       "price": "269.00",
+       "default": true
+      },
+      {
+       "label": "Mono",
+       "price": "259.00"
+      },
+      {
+       "label": "Stereo with charging stand",
+       "price": "319.00"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "sku": "TK-JABRA-EVOLVE2-50",
+   "slug": "jabra-evolve2-50",
+   "name": "Jabra Evolve2 50",
+   "brand": "Jabra",
+   "category": "headsets",
+   "price": "199.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    15,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [],
+   "summary": "Hybrid wired/Bluetooth on-ear headset with ANC and boom mic, USB-C cable with USB-A adapter, 148.9 g stereo weight.",
+   "description": "Evolve2 50 combines a USB cable and Bluetooth in one ANC on-ear headset with 28 mm speakers and a boom-arm microphone. It is sold in stereo and mono, with a USB-C/A cable version or a version with a Bluetooth adapter.",
+   "keywords": "office headset uc teams anc usb-c wired bluetooth evolve2 boom",
+   "specs": {
+    "connection": "USB-C cable with USB-A adapter, Bluetooth 5.2",
+    "noiseCancelling": true,
+    "boomMic": true,
+    "drivers": "28 mm",
+    "microphone": "4 MEMS mics on boom arm (stereo)",
+    "platforms": "Microsoft Teams (MS version) or Zoom, Google Meet and other UC platforms (UC version)",
+    "weightG": 148.9,
+    "headsetType": "Office / UC",
+    "configurations": "Stereo, USB-C/A – $199 · Mono, USB-C/A – $189 · Stereo with Bluetooth adapter – $229"
+   },
+   "options": [
+    {
+     "name": "Configuration",
+     "values": [
+      {
+       "label": "Stereo, USB-C/A",
+       "price": "199.00",
+       "default": true
+      },
+      {
+       "label": "Mono, USB-C/A",
+       "price": "189.00"
+      },
+      {
+       "label": "Stereo with Bluetooth adapter",
+       "price": "229.00"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "sku": "TK-JABRA-EVOLVE2-40-SE",
+   "slug": "jabra-evolve2-40-se",
+   "name": "Jabra Evolve2 40 SE",
+   "brand": "Jabra",
+   "category": "headsets",
+   "price": "218.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    22,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [],
+   "summary": "Wired USB on-ear headset with 40 mm speakers, a 3-mic boom and passive noise isolation, 168.5 g without cable.",
+   "description": "Evolve2 40 SE is a corded USB-A or USB-C headset for focused office work, with 40 mm speakers, three digital MEMS microphones on the boom and passive noise cancellation. It meets Microsoft Teams Open Office requirements and comes in stereo and mono versions.",
+   "keywords": "wired office headset usb teams uc evolve2 boom",
+   "specs": {
+    "connection": "USB-A, USB-C or USB-C/A cable",
+    "noiseCancelling": false,
+    "boomMic": true,
+    "drivers": "40 mm",
+    "microphone": "3 digital MEMS mics on boom",
+    "platforms": "Microsoft Teams (MS version) or Zoom, Google Meet and other UC platforms (UC version)",
+    "weightG": 168.5,
+    "headsetType": "Office / UC",
+    "configurations": "Stereo – $218 · Mono – $203"
+   },
+   "options": [
+    {
+     "name": "Configuration",
+     "values": [
+      {
+       "label": "Stereo",
+       "price": "218.00",
+       "default": true
+      },
+      {
+       "label": "Mono",
+       "price": "203.00"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "sku": "TK-JABRA-EVOLVE2-30-SE",
+   "slug": "jabra-evolve2-30-se",
+   "name": "Jabra Evolve2 30 SE",
+   "brand": "Jabra",
+   "category": "headsets",
+   "price": "120.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    50,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "small-business"
+   ],
+   "summary": "Lightweight wired USB-C/A headset with 28 mm speakers and a 2-mic boom, weighing 102 g in stereo without the cable.",
+   "description": "Evolve2 30 SE is a lightweight corded headset for everyday calls, with 28 mm speakers and a two-microphone boom. It connects by USB-C with a USB-A adapter, meets Microsoft Teams Open Office requirements and comes in stereo and mono versions.",
+   "keywords": "wired office headset usb-c teams uc evolve2 budget",
+   "specs": {
+    "connection": "USB-C cable with USB-A adapter",
+    "noiseCancelling": false,
+    "boomMic": true,
+    "drivers": "28 mm",
+    "microphone": "2 mics on boom (analog MEMS + ECM)",
+    "platforms": "Microsoft Teams (MS version) or Zoom, Google Meet and other UC platforms (UC version)",
+    "weightG": 102,
+    "headsetType": "Office / UC",
+    "configurations": "Stereo, USB-C/A – $120 · Mono, USB-C/A – $108"
+   },
+   "options": [
+    {
+     "name": "Configuration",
+     "values": [
+      {
+       "label": "Stereo, USB-C/A",
+       "price": "120.00",
+       "default": true
+      },
+      {
+       "label": "Mono, USB-C/A",
+       "price": "108.00"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "sku": "TK-JABRA-EVOLVE2-BUDS",
+   "slug": "jabra-evolve2-buds",
+   "name": "Jabra Evolve2 Buds",
+   "brand": "Jabra",
+   "category": "headsets",
+   "price": "404.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    33,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [],
+   "summary": "Certified true wireless work earbuds with ANC, 6 mics and a USB-A or USB-C Bluetooth adapter; up to 33 hours with the case.",
+   "description": "Evolve2 Buds are true wireless earbuds built for work calls, with ANC, 6 mm speakers and six MEMS microphones. They include a USB-A or USB-C Bluetooth adapter with up to 20 m range, and deliver up to 10 hours of music per charge (33 hours total with the case).",
+   "keywords": "wireless earbuds work uc teams anc bluetooth evolve2 buds",
+   "specs": {
+    "connection": "Bluetooth 5.2 (USB-A or USB-C adapter)",
+    "noiseCancelling": true,
+    "batteryHours": 10,
+    "boomMic": false,
+    "drivers": "6 mm",
+    "microphone": "6 MEMS mics",
+    "platforms": "Microsoft Teams (MS version) or Zoom, Google Meet and other UC platforms (UC version)",
+    "headsetType": "Office / UC earbuds",
+    "configurations": "MS or UC, USB-A/USB-C – $404 · With wireless charging pad – $456"
+   },
+   "options": [
+    {
+     "name": "Configuration",
+     "values": [
+      {
+       "label": "MS or UC, USB-A/USB-C",
+       "price": "404.00",
+       "default": true
+      },
+      {
+       "label": "With wireless charging pad",
+       "price": "456.00"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "sku": "TK-JABRA-ENGAGE-75-SE",
+   "slug": "jabra-engage-75-se",
+   "name": "Jabra Engage 75 SE",
+   "brand": "Jabra",
+   "category": "headsets",
+   "price": "644.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    50,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [],
+   "summary": "DECT wireless contact-centre headset with up to 150 m range, connections for desk phone, USB phone, softphone and Bluetooth.",
+   "description": "Engage 75 SE is a professional DECT wireless headset whose base connects to desk phones, USB desk phones, softphones and Bluetooth mobiles. Range is up to 150 m, talk time is up to 13 hours, and the stereo headset weighs 82 g. Stereo, mono and convertible versions are available.",
+   "keywords": "dect wireless headset contact center call center desk phone softphone engage",
+   "specs": {
+    "connection": "DECT wireless base (desk phone, USB, softphone), Bluetooth 5.0",
+    "noiseCancelling": false,
+    "batteryHours": 13,
+    "boomMic": true,
+    "platforms": "Desk phones, softphones and UC clients",
+    "weightG": 82,
+    "headsetType": "Contact center / DECT",
+    "configurations": "Stereo – $644 · Mono – $615 · Convertible – $644"
+   },
+   "options": [
+    {
+     "name": "Configuration",
+     "values": [
+      {
+       "label": "Stereo",
+       "price": "644.00",
+       "default": true
+      },
+      {
+       "label": "Mono",
+       "price": "615.00"
+      },
+      {
+       "label": "Convertible",
+       "price": "644.00"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "sku": "TK-JABRA-ENGAGE-55-SE",
+   "slug": "jabra-engage-55-se",
+   "name": "Jabra Engage 55 SE",
+   "brand": "Jabra",
+   "category": "headsets",
+   "price": "416.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    18,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [],
+   "summary": "DECT wireless USB headset for Teams and UC with up to 150 m range, 83 g stereo weight and up to 13 hours of talk time.",
+   "description": "Engage 55 SE is a DECT wireless headset with a USB-A or USB-C dongle, certified for Amazon Chime, Google Meet, Microsoft Teams and Zoom. It reaches up to 150 m, gives up to 13 hours of talk time and comes in stereo, mono and convertible styles, with or without a charging stand.",
+   "keywords": "dect wireless usb headset contact center teams zoom engage",
+   "specs": {
+    "connection": "DECT wireless, USB-A or USB-C dongle",
+    "noiseCancelling": false,
+    "batteryHours": 13,
+    "boomMic": true,
+    "microphone": "Dual ECM microphone",
+    "platforms": "Certified for Amazon Chime, Google Meet, Microsoft Teams and Zoom",
+    "weightG": 83,
+    "headsetType": "Contact center / DECT",
+    "configurations": "Stereo – $416 · Mono – $389 · Stereo with stand – $482"
+   },
+   "options": [
+    {
+     "name": "Configuration",
+     "values": [
+      {
+       "label": "Stereo",
+       "price": "416.00",
+       "default": true
+      },
+      {
+       "label": "Mono",
+       "price": "389.00"
+      },
+      {
+       "label": "Stereo with stand",
+       "price": "482.00"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "sku": "TK-JABRA-ENGAGE-50-II",
+   "slug": "jabra-engage-50-ii",
+   "name": "Jabra Engage 50 II",
+   "brand": "Jabra",
+   "category": "headsets",
+   "price": "274.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    48,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [],
+   "summary": "Corded contact-centre headset with 20 mm speakers, dual-mic boom and USB-A or USB-C connection; 68 g.",
+   "description": "Engage 50 II is a 68 g corded USB headset for contact centres, with 20 mm speakers and a two-MEMS-microphone boom. It is available with USB-A or USB-C and with the optional Engage 50 II Link control unit, in stereo or mono.",
+   "keywords": "corded usb headset contact center call center engage",
+   "specs": {
+    "connection": "USB-A or USB-C cable",
+    "noiseCancelling": false,
+    "boomMic": true,
+    "drivers": "20 mm",
+    "microphone": "2 MEMS mics on boom",
+    "platforms": "Microsoft Teams (MS version) or Zoom, Google Meet and other UC platforms (UC version)",
+    "weightG": 68,
+    "headsetType": "Contact center",
+    "configurations": "Stereo – $274 · Mono – $249 · Stereo with Engage 50 II Link – $374"
+   },
+   "options": [
+    {
+     "name": "Configuration",
+     "values": [
+      {
+       "label": "Stereo",
+       "price": "274.00",
+       "default": true
+      },
+      {
+       "label": "Mono",
+       "price": "249.00"
+      },
+      {
+       "label": "Stereo with Engage 50 II Link",
+       "price": "374.00"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "sku": "TK-JABRA-ENGAGE-40",
+   "slug": "jabra-engage-40",
+   "name": "Jabra Engage 40",
+   "brand": "Jabra",
+   "category": "headsets",
+   "price": "220.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    34,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [],
+   "summary": "Lightweight corded contact-centre headset (63 g stereo) with 20 mm speakers, dual-mic boom and USB-A or USB-C.",
+   "description": "Engage 40 is a light corded contact-centre headset with 20 mm speakers and a two-MEMS-microphone boom, weighing 63 g in stereo. It connects over USB-A or USB-C and is also sold with an in-line control link, in stereo or mono.",
+   "keywords": "corded usb headset contact center call center engage",
+   "specs": {
+    "connection": "USB-A or USB-C cable",
+    "noiseCancelling": false,
+    "boomMic": true,
+    "drivers": "20 mm",
+    "microphone": "2 MEMS mics on boom",
+    "platforms": "Microsoft Teams (MS version) or Zoom, Google Meet and other UC platforms (UC version)",
+    "weightG": 63,
+    "headsetType": "Contact center",
+    "configurations": "Stereo – $220 · Mono – $194 · Stereo with in-line link – $272"
+   },
+   "options": [
+    {
+     "name": "Configuration",
+     "values": [
+      {
+       "label": "Stereo",
+       "price": "220.00",
+       "default": true
+      },
+      {
+       "label": "Mono",
+       "price": "194.00"
+      },
+      {
+       "label": "Stereo with in-line link",
+       "price": "272.00"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "sku": "TK-SENN-HD-25",
+   "slug": "sennheiser-hd-25",
+   "name": "Sennheiser HD 25",
+   "brand": "Sennheiser",
+   "category": "headsets",
+   "price": "149.95",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    28,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "creator-workstations"
+   ],
+   "summary": "Closed-back on-ear monitoring headphones, the long-time industry standard for DJs, broadcast and ENG, at just 140 g.",
+   "description": "HD 25 is Sennheiser's closed-back on-ear professional monitoring headphone, known for high SPL handling and strong isolation in a rugged 140 g design with a split headband. It uses 70 Ω dynamic transducers covering 16-22,000 Hz with a 3.5 mm connection. The HD 25 Plus bundle adds extra cables, ear pads and a pouch.",
+   "keywords": "dj monitoring headphones broadcast closed-back on-ear studio sennheiser hd25",
+   "specs": {
+    "connection": "Wired, 3.5 mm",
+    "noiseCancelling": false,
+    "boomMic": false,
+    "drivers": "Dynamic, 70 Ω, 16-22,000 Hz",
+    "weightG": 140,
+    "headsetType": "Studio / DJ monitoring",
+    "configurations": "HD 25 – $149.95 · HD 25 Plus (extra cables, pads, pouch) – $199.95"
+   },
+   "options": [
+    {
+     "name": "Configuration",
+     "values": [
+      {
+       "label": "HD 25",
+       "price": "149.95",
+       "default": true
+      },
+      {
+       "label": "HD 25 Plus (extra cables, pads, pouch)",
+       "price": "199.95"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "sku": "TK-SENN-HD-280-PRO",
+   "slug": "sennheiser-hd-280-pro",
+   "name": "Sennheiser HD 280 PRO",
+   "brand": "Sennheiser",
+   "category": "headsets",
+   "price": "99.95",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    50,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "creator-workstations"
+   ],
+   "summary": "Closed-back studio monitoring headphones with extreme passive isolation, 64 Ω drivers, 8-25,000 Hz response and a coiled cable.",
+   "description": "HD 280 PRO is Sennheiser's classic closed-back monitoring headphone, offering strong passive noise isolation, comfort and rugged build quality. It has 64 Ω dynamic drivers with an 8-25,000 Hz response, a 113 dB max SPL, a coiled cable (1.3-3 m) with 3.5 mm plug, and weighs 285 g.",
+   "keywords": "studio monitoring headphones closed-back tracking sennheiser hd280",
+   "specs": {
+    "connection": "Wired, 3.5 mm coiled cable (1.3-3 m)",
+    "noiseCancelling": false,
+    "boomMic": false,
+    "drivers": "Dynamic, 64 Ω, 8-25,000 Hz",
+    "weightG": 285,
+    "headsetType": "Studio"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-SENN-HD-300-PRO",
+   "slug": "sennheiser-hd-300-pro",
+   "name": "Sennheiser HD 300 PRO",
+   "brand": "Sennheiser",
+   "category": "headsets",
+   "price": "219.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    39,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [],
+   "summary": "High-resolution closed-back monitoring headphones with up to 32 dB passive attenuation, 6-25,000 Hz response and 297 g weight.",
+   "description": "HD 300 PRO is a circumaural closed-back headphone for detailed monitoring in studio, stage and broadcast. It offers linear sound with a 6 Hz-25 kHz response, up to 32 dB of passive noise attenuation, viscoelastic ear pads, a low-noise coiled cable and 64 Ω impedance, weighing about 297 g without cable.",
+   "keywords": "studio monitoring headphones closed-back broadcast stage sennheiser hd300",
+   "specs": {
+    "connection": "Wired, coiled cable",
+    "noiseCancelling": false,
+    "boomMic": false,
+    "drivers": "Dynamic, 64 Ω, 6-25,000 Hz",
+    "weightG": 297,
+    "headsetType": "Studio"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-SENN-HD-400-PRO",
+   "slug": "sennheiser-hd-400-pro",
+   "name": "Sennheiser HD 400 PRO",
+   "brand": "Sennheiser",
+   "category": "headsets",
+   "price": "279.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    33,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "creator-workstations"
+   ],
+   "summary": "Open-back studio reference headphones with angled 120 Ω drivers, 6-38,000 Hz response and a light 240 g build.",
+   "description": "HD 400 PRO is an open-back reference headphone for mixing, mastering and editing. Angled transducers with 120 Ω drivers give a wide, natural stereo image and a 6-38,000 Hz (-10 dB) response, while soft velour pads and a 240 g weight suit long sessions.",
+   "keywords": "open-back studio reference headphones mixing mastering sennheiser hd400",
+   "specs": {
+    "connection": "Wired, detachable straight cable",
+    "noiseCancelling": false,
+    "boomMic": false,
+    "drivers": "Dynamic, angled, 120 Ω, 6-38,000 Hz",
+    "weightG": 240,
+    "headsetType": "Studio"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-SENN-HD-480-PRO",
+   "slug": "sennheiser-hd-480-pro",
+   "name": "Sennheiser HD 480 PRO",
+   "brand": "Sennheiser",
+   "category": "headsets",
+   "price": "399.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    24,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "creator-workstations"
+   ],
+   "summary": "Closed-back studio monitoring headphones with 130 Ω drivers, 3-28,700 Hz response, mini-XLR cable and 272 g weight.",
+   "description": "HD 480 PRO is the closed-back sibling of the HD 490 PRO, built for accurate monitoring when recording and producing. It has 130 Ω dynamic drivers with a 3 Hz-28.7 kHz response, a detachable mini-XLR (4-pin) cable with 3.5 mm plug and 6.3 mm adapter, velour pads and a 272 g weight.",
+   "keywords": "closed-back studio headphones tracking recording monitoring sennheiser hd480",
+   "specs": {
+    "connection": "Wired, detachable mini-XLR cable, 3.5 mm with 6.3 mm adapter",
+    "noiseCancelling": false,
+    "boomMic": false,
+    "drivers": "Dynamic, 130 Ω, 3-28,700 Hz",
+    "weightG": 272,
+    "headsetType": "Studio"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-SENN-HD-490-PRO",
+   "slug": "sennheiser-hd-490-pro",
+   "name": "Sennheiser HD 490 PRO",
+   "brand": "Sennheiser",
+   "category": "headsets",
+   "price": "429.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    13,
+    5
+   ],
+   "featured": true,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "creator-workstations"
+   ],
+   "summary": "Open-back reference headphones for mixing and mastering with 130 Ω drivers, 5-36,000 Hz response and swappable mixing/producing pads.",
+   "description": "HD 490 PRO is Sennheiser's open-back studio reference headphone for mixing and mastering, with a wide, dimensional sound stage and precise localization. It uses 130 Ω dynamic drivers (5-36,000 Hz, -10 dB), weighs 260 g and ships with both mixing and producing ear pad sets. The HD 490 PRO Plus adds a premium case, 3 m cable and extra headband padding.",
+   "keywords": "open-back studio reference headphones mixing mastering sennheiser hd490",
+   "specs": {
+    "connection": "Wired, detachable cable (1.8 m)",
+    "noiseCancelling": false,
+    "boomMic": false,
+    "drivers": "Dynamic, 130 Ω, 5-36,000 Hz",
+    "weightG": 260,
+    "headsetType": "Studio",
+    "configurations": "HD 490 PRO – $429 · HD 490 PRO Plus (case, 3 m cable, extra padding) – $499"
+   },
+   "options": [
+    {
+     "name": "Configuration",
+     "values": [
+      {
+       "label": "HD 490 PRO",
+       "price": "429.00",
+       "default": true
+      },
+      {
+       "label": "HD 490 PRO Plus (case, 3 m cable, extra padding)",
+       "price": "499.00"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "sku": "TK-NEUMANN-NDH-20",
+   "slug": "neumann-ndh-20",
+   "name": "Neumann NDH 20",
+   "brand": "Neumann",
+   "category": "headsets",
+   "price": "599.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    18,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "creator-workstations"
+   ],
+   "summary": "Closed-back studio headphones for monitoring, editing and mixing, with 38 mm neodymium transducers, 150 Ω and 5-30,000 Hz response.",
+   "description": "NDH 20 is Neumann's closed-back circumaural studio headphone for monitoring, editing and mixing. It uses 38 mm dynamic transducers with neodymium magnets, 150 Ω impedance and a 5-30,000 Hz response, and weighs 390 g without cable. It is also offered as the NDH 20 Black Edition at the same price.",
+   "keywords": "closed-back studio headphones monitoring mixing neumann ndh20",
+   "specs": {
+    "connection": "Wired, detachable cable",
+    "noiseCancelling": false,
+    "boomMic": false,
+    "drivers": "38 mm dynamic, 150 Ω, 5-30,000 Hz",
+    "weightG": 390,
+    "headsetType": "Studio",
+    "colors": "Silver, Black Edition"
+   },
+   "options": [
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Silver",
+       "default": true,
+       "image": {
+        "small": "/images/catalog/neumann-ndh-20--silver-400.webp",
+        "large": "/images/catalog/neumann-ndh-20--silver-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Neumann NDH 20 closed-back studio headphones, silver and black finish"
+       }
+      },
+      {
+       "label": "Black Edition",
+       "image": {
+        "small": "/images/catalog/neumann-ndh-20--black-edition-400.webp",
+        "large": "/images/catalog/neumann-ndh-20--black-edition-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Neumann NDH 20 Black Edition closed-back studio headphones in all black"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "sku": "TK-NEUMANN-NDH-30",
+   "slug": "neumann-ndh-30",
+   "name": "Neumann NDH 30",
+   "brand": "Neumann",
+   "category": "headsets",
+   "price": "699.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    19,
+    5
+   ],
+   "featured": true,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "creator-workstations"
+   ],
+   "summary": "Reference-class open-back studio headphones for editing, mixing and mastering, with 38 mm transducers, 120 Ω and 352 g weight.",
+   "description": "NDH 30 is Neumann's open-back reference headphone for editing, mixing and mastering. It uses 38 mm dynamic neodymium transducers with 120 Ω impedance in a circumaural design, weighs 352 g without cable and includes a cloth-covered symmetric cable option. It is also offered as the NDH 30 Black Edition.",
+   "keywords": "open-back reference studio headphones mixing mastering neumann ndh30",
+   "specs": {
+    "connection": "Wired, detachable cable",
+    "noiseCancelling": false,
+    "boomMic": false,
+    "drivers": "38 mm dynamic, 120 Ω",
+    "weightG": 352,
+    "headsetType": "Studio",
+    "colors": "Silver, Black Edition"
+   },
+   "options": [
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Silver",
+       "default": true,
+       "image": {
+        "small": "/images/catalog/neumann-ndh-30--silver-400.webp",
+        "large": "/images/catalog/neumann-ndh-30--silver-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Neumann NDH 30 open-back studio headphones, silver and black finish"
+       }
+      },
+      {
+       "label": "Black Edition",
+       "image": {
+        "small": "/images/catalog/neumann-ndh-30--black-edition-400.webp",
+        "large": "/images/catalog/neumann-ndh-30--black-edition-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Neumann NDH 30 Black Edition open-back studio headphones in all black"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "sku": "TK-JABRA-EVOLVE2-65",
+   "slug": "jabra-evolve2-65",
+   "name": "Jabra Evolve2 65",
+   "brand": "Jabra",
+   "category": "headsets",
+   "price": "391.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    19,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [],
+   "summary": "Wireless on-ear Bluetooth headset with 40 mm speakers, 3-mic boom, busylight and up to 35 hours of talk time.",
+   "description": "Evolve2 65 is a wireless on-ear office headset with 40 mm speakers and three digital MEMS microphones on the boom arm, meeting Microsoft Teams Open Office requirements. It connects via a USB-A or USB-C Bluetooth adapter with up to 30 m range and gives up to 35 hours of talk time or 37 hours of music; the stereo version weighs 176.4 g.",
+   "keywords": "wireless office headset uc teams bluetooth busylight evolve2 boom mono stereo",
+   "specs": {
+    "connection": "Bluetooth (USB-A or USB-C adapter)",
+    "noiseCancelling": false,
+    "batteryHours": 35,
+    "boomMic": true,
+    "drivers": "40 mm",
+    "microphone": "3 digital MEMS mics on boom",
+    "platforms": "Microsoft Teams (MS version) or Zoom, Google Meet and other UC platforms (UC version)",
+    "weightG": 176.4,
+    "headsetType": "Office / UC",
+    "configurations": "Stereo – $391 · Mono – $376 · Stereo with charging stand – $471",
+    "colors": "Black, Beige"
+   },
+   "options": [
+    {
+     "name": "Configuration",
+     "values": [
+      {
+       "label": "Stereo",
+       "price": "391.00",
+       "default": true
+      },
+      {
+       "label": "Mono",
+       "price": "376.00"
+      },
+      {
+       "label": "Stereo with charging stand",
+       "price": "471.00"
+      }
+     ]
+    },
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Black",
+       "default": true,
+       "image": {
+        "small": "/images/catalog/jabra-evolve2-65--black-400.webp",
+        "large": "/images/catalog/jabra-evolve2-65--black-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Jabra Evolve2 65 stereo wireless headset in Black with boom mic"
+       }
+      },
+      {
+       "label": "Beige",
+       "image": {
+        "small": "/images/catalog/jabra-evolve2-65--beige-400.webp",
+        "large": "/images/catalog/jabra-evolve2-65--beige-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Jabra Evolve2 65 stereo wireless headset in Beige with boom mic"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "sku": "TK-JABRA-ENGAGE-65-SE",
+   "slug": "jabra-engage-65-se",
+   "name": "Jabra Engage 65 SE",
+   "brand": "Jabra",
+   "category": "headsets",
+   "price": "549.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    46,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [],
+   "summary": "DECT wireless headset with a base for desk phone and softphone, up to 13 hours of talk time and an 83 g stereo headset.",
+   "description": "Engage 65 SE is a professional DECT wireless headset whose base connects to a desk phone and a PC softphone. It gives up to 13 hours of talk time, is Zoom-certified, and comes in stereo (83 g), mono (57 g) and convertible styles.",
+   "keywords": "dect wireless headset desk phone softphone contact center engage",
+   "specs": {
+    "connection": "DECT wireless base (desk phone and softphone)",
+    "noiseCancelling": false,
+    "batteryHours": 13,
+    "boomMic": true,
+    "platforms": "Desk phones and softphones; Zoom-certified",
+    "weightG": 83,
+    "headsetType": "Contact center / DECT",
+    "configurations": "Stereo – $549 · Mono – $509 · Convertible – $539"
+   },
+   "options": [
+    {
+     "name": "Configuration",
+     "values": [
+      {
+       "label": "Stereo",
+       "price": "549.00",
+       "default": true
+      },
+      {
+       "label": "Mono",
+       "price": "509.00"
+      },
+      {
+       "label": "Convertible",
+       "price": "539.00"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "sku": "TK-LOGI-H390",
+   "slug": "logitech-h390",
+   "name": "Logitech H390 USB Computer Headset",
+   "brand": "Logitech",
+   "category": "headsets",
+   "price": "24.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    58,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "small-business"
+   ],
+   "summary": "Plug-and-play USB-A computer headset with a noise-canceling boom mic and in-line volume and mute controls.",
+   "description": "H390 is Logitech's simple USB computer headset for calls and video meetings, with a rotating noise-canceling boom microphone, padded ear cushions and in-line controls for volume and mute. It connects by USB-A with no drivers required.",
+   "keywords": "usb headset budget office calls boom mic logitech h390",
+   "specs": {
+    "connection": "Wired USB-A",
+    "noiseCancelling": false,
+    "boomMic": true,
+    "microphone": "Noise-canceling boom mic",
+    "headsetType": "Office / UC",
+    "colors": "Black, Rose"
+   },
+   "options": [
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Black",
+       "default": true,
+       "image": {
+        "small": "/images/catalog/logitech-h390--black-400.webp",
+        "large": "/images/catalog/logitech-h390--black-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Logitech H390 USB computer headset in Black, front view"
+       }
+      },
+      {
+       "label": "Rose",
+       "image": {
+        "small": "/images/catalog/logitech-h390--rose-400.webp",
+        "large": "/images/catalog/logitech-h390--rose-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Logitech H390 USB computer headset in Rose, front view"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "sku": "TK-EPOS-IMPACT-1000",
+   "slug": "epos-impact-1000",
+   "name": "EPOS IMPACT 1000",
+   "brand": "EPOS",
+   "category": "headsets",
+   "price": "449.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    37,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [],
+   "summary": "Premium wireless office headset with EPOS AI noise-cancelling beamforming mics, hybrid adaptive ANC and wireless charging.",
+   "description": "IMPACT 1000 is EPOS's flagship wireless office headset. Its microphone uses EPOS AI with hybrid adaptive beamforming that scans the environment 32,000 times per second, while hybrid adaptive ANC controls surrounding noise. It supports a dongle or certified native Bluetooth, connects to up to three devices and charges wirelessly; the native Bluetooth version is certified for Microsoft Teams.",
+   "keywords": "wireless office headset anc teams bluetooth epos impact 1000 ai",
+   "specs": {
+    "connection": "Bluetooth (native or USB dongle), up to 3 devices",
+    "noiseCancelling": true,
+    "boomMic": true,
+    "microphone": "EPOS AI hybrid adaptive beamforming mic",
+    "platforms": "Certified for Microsoft Teams (native Bluetooth version)",
+    "headsetType": "Office / UC"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-EPOS-IMPACT-500",
+   "slug": "epos-impact-500",
+   "name": "EPOS IMPACT 500",
+   "brand": "EPOS",
+   "category": "headsets",
+   "price": "299.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    11,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [],
+   "summary": "Wireless hybrid-ANC office headset with EPOS AI mics, dongle or native Bluetooth and up to 36 hours of talk time.",
+   "description": "IMPACT 500 pairs EPOS AI-tuned microphones with hybrid ANC for focus and clear calls. It connects via dongle or native Bluetooth (certified for Microsoft Teams) and offers up to 36 hours of talk time and 89 hours of listening, with talk-through mode and boom-arm call control.",
+   "keywords": "wireless office headset anc teams bluetooth epos impact 500",
+   "specs": {
+    "connection": "Bluetooth (native or USB dongle)",
+    "noiseCancelling": true,
+    "batteryHours": 36,
+    "boomMic": true,
+    "microphone": "EPOS AI-tuned boom microphone",
+    "platforms": "Certified for Microsoft Teams",
+    "headsetType": "Office / UC"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-EPOS-IMPACT-800",
+   "slug": "epos-impact-800",
+   "name": "EPOS IMPACT 800",
+   "brand": "EPOS",
+   "category": "headsets",
+   "price": "249.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    32,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [],
+   "summary": "USB-C wired open-office headset with hybrid adaptive ANC, EPOS AI beamforming mic and super wideband stereo sound.",
+   "description": "IMPACT 800 is a corded USB-C headset for open offices, with hybrid adaptive ANC adjustable in EPOS Connect and a beamforming microphone powered by EPOS AI that scans the environment 32,000 times per second. It delivers super wideband stereo sound and meets Microsoft Teams Open Office requirements.",
+   "keywords": "wired usb-c office headset anc open office teams epos impact 800",
+   "specs": {
+    "connection": "Wired USB-C",
+    "noiseCancelling": true,
+    "boomMic": true,
+    "microphone": "EPOS AI beamforming boom mic",
+    "platforms": "Meets Microsoft Teams Open Office requirements",
+    "headsetType": "Office / UC"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-EPOS-IMPACT-700",
+   "slug": "epos-impact-700",
+   "name": "EPOS IMPACT 700",
+   "brand": "EPOS",
+   "category": "headsets",
+   "price": "189.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    37,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [],
+   "summary": "Wired contact-centre headset with three EPOS AI beamforming mics, inline controller and ActiveGard acoustic shock protection.",
+   "description": "IMPACT 700 is a corded contact-centre headset with three beamforming mics powered by EPOS AI to suppress noise and transmit natural voice. It has soft leatherette ear pads, an ergonomic inline controller, passive noise dampening and ActiveGard acoustic shock protection, plus a USB-C to USB-A adapter.",
+   "keywords": "wired usb contact center headset call center epos impact 700",
+   "specs": {
+    "connection": "Wired USB-C with USB-A adapter",
+    "noiseCancelling": false,
+    "boomMic": true,
+    "microphone": "3 beamforming mics with EPOS AI",
+    "platforms": "Meets Microsoft Teams Open Office requirements (Teams versions)",
+    "headsetType": "Contact center"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-EPOS-IMPACT-100",
+   "slug": "epos-impact-100",
+   "name": "EPOS IMPACT 100",
+   "brand": "EPOS",
+   "category": "headsets",
+   "price": "59.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    27,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [],
+   "summary": "Entry-level certified wired headset, 76 g in stereo, with noise-cancelling mic and USB-C plus USB-A adapter.",
+   "description": "IMPACT 100 is EPOS's entry-level corded headset, certified for Microsoft Teams and leading UC platforms. The stereo version weighs just 76 g, and a uni-directional microphone with noise-cancelling algorithms improves call quality. It connects by USB-C with an included USB-A adapter.",
+   "keywords": "wired usb headset budget office teams epos impact 100",
+   "specs": {
+    "connection": "Wired USB-C with USB-A adapter",
+    "noiseCancelling": false,
+    "boomMic": true,
+    "microphone": "Uni-directional noise-cancelling mic",
+    "platforms": "Certified for Microsoft Teams and leading UC platforms",
+    "weightG": 76,
+    "headsetType": "Office / UC"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-EPOS-IMPACT-5000",
+   "slug": "epos-impact-5000",
+   "name": "EPOS IMPACT 5000",
+   "brand": "EPOS",
+   "category": "headsets",
+   "price": "399.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    14,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [],
+   "summary": "DECT wireless headset series with up to 180 m range, two-mic noise cancelling and super wideband stereo sound.",
+   "description": "IMPACT 5000 Series DECT headsets pair to desk phones, softphones and mobiles from one base, with wireless range up to 180 m. A two-microphone noise-cancelling system with own-voice detection meets Teams Open Office specifications, and a busylight and noise-dampening ear pads help agents focus.",
+   "keywords": "dect wireless headset contact center desk phone softphone epos impact 5000",
+   "specs": {
+    "connection": "DECT wireless base (desk phone, softphone, mobile)",
+    "noiseCancelling": false,
+    "boomMic": true,
+    "microphone": "Two-microphone noise-cancelling system",
+    "platforms": "Meets Microsoft Teams Open Office specifications",
+    "headsetType": "Contact center / DECT"
+   },
+   "options": []
+  }
+ ]
+}

@@ -1,0 +1,2135 @@
+{
+ "products": [
+  {
+   "sku": "TK-ALIENWARE-AW2725DF",
+   "slug": "alienware-27-360hz-qd-oled-aw2725df",
+   "name": "Alienware 27 360Hz QD-OLED Gaming Monitor (AW2725DF)",
+   "brand": "Alienware",
+   "category": "gaming-monitors",
+   "price": "649.99",
+   "compareAt": null,
+   "warranty": 36,
+   "stock": [
+    39,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "gaming-monsters",
+    "oled-displays",
+    "ultimate-gaming-setup"
+   ],
+   "summary": "27-inch QHD QD-OLED esports monitor running at 360 Hz with 0.03 ms response, DisplayHDR True Black 400 and FreeSync Premium Pro.",
+   "description": "The Alienware AW2725DF pairs a 26.7-inch 2560 x 1440 Quantum Dot OLED panel with a 360 Hz refresh rate and 0.03 ms gray-to-gray response. Dell lists 99.3% DCI-P3 coverage, 1,000-nit peak brightness, VESA DisplayHDR True Black 400 and VESA Adaptive Sync / AMD FreeSync Premium Pro. It connects over two DisplayPort 1.4 inputs and HDMI 2.1, and Dell's 3-year warranty includes OLED burn-in coverage.",
+   "keywords": "alienware aw2725df 27 qd-oled 360hz qhd esports gaming monitor",
+   "specs": {
+    "sizeIn": 26.7,
+    "resolution": "2560x1440",
+    "refreshHz": 360,
+    "panel": "QD-OLED",
+    "hdr": "VESA DisplayHDR True Black 400",
+    "colorGamut": "99.3% DCI-P3",
+    "inputs": "2x DisplayPort 1.4, HDMI 2.1, USB 5Gbps hub (USB-B up, USB-A/USB-C down)",
+    "responseTimeMs": 0.03,
+    "brightnessNits": 1000,
+    "adaptiveSync": "VESA Adaptive Sync, AMD FreeSync Premium Pro",
+    "stand": "Height, tilt, swivel, pivot",
+    "colors": "Dark Gray"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-ALIENWARE-AW3425DW",
+   "slug": "alienware-34-240hz-qd-oled-aw3425dw",
+   "name": "Alienware 34 240Hz QD-OLED Gaming Monitor (AW3425DW)",
+   "brand": "Alienware",
+   "category": "ultrawide-monitors",
+   "price": "749.99",
+   "compareAt": "799.99",
+   "warranty": 36,
+   "stock": [
+    40,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "gaming-monsters",
+    "oled-displays"
+   ],
+   "summary": "34-inch 1800R curved WQHD QD-OLED ultrawide at 240 Hz with 0.03 ms response and G-Sync Compatible / FreeSync Premium Pro.",
+   "description": "The Alienware AW3425DW is a 34.2-inch 3440 x 1440 Quantum Dot OLED ultrawide with an 1800R curve, 240 Hz refresh rate and 0.03 ms gray-to-gray response. Dell lists 99.3% DCI-P3 coverage and 1,000-nit peak brightness, with VESA Adaptive Sync, AMD FreeSync Premium Pro and NVIDIA G-Sync Compatible support. Inputs are one DisplayPort 1.4 and two HDMI 2.1 ports, plus a 5Gbps USB hub.",
+   "keywords": "alienware aw3425dw 34 ultrawide curved qd-oled 240hz wqhd",
+   "specs": {
+    "sizeIn": 34.2,
+    "resolution": "3440x1440",
+    "refreshHz": 240,
+    "panel": "QD-OLED",
+    "colorGamut": "99.3% DCI-P3",
+    "inputs": "DisplayPort 1.4, 2x HDMI 2.1, USB 5Gbps hub (USB-B up, USB-A + USB-C 15W down)",
+    "responseTimeMs": 0.03,
+    "brightnessNits": 1000,
+    "adaptiveSync": "VESA Adaptive Sync, AMD FreeSync Premium Pro, NVIDIA G-Sync Compatible",
+    "curvature": "1800R",
+    "colors": "Dark Blue"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-ALIENWARE-AW3225QF",
+   "slug": "alienware-32-4k-qd-oled-aw3225qf",
+   "name": "Alienware 32 4K QD-OLED Gaming Monitor (AW3225QF)",
+   "brand": "Alienware",
+   "category": "gaming-monitors",
+   "price": "999.99",
+   "compareAt": null,
+   "warranty": 36,
+   "stock": [
+    58,
+    5
+   ],
+   "featured": true,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "gaming-monsters",
+    "oled-displays",
+    "ultimate-gaming-setup"
+   ],
+   "summary": "32-inch 1700R curved 4K QD-OLED gaming monitor at 240 Hz with 0.03 ms response, Dolby Vision HDR and HDMI 2.1 eARC.",
+   "description": "The Alienware AW3225QF uses a 31.6-inch 3840 x 2160 Quantum Dot OLED panel with a subtle 1700R curve, 240 Hz refresh and 0.03 ms gray-to-gray response. Dell lists 99% DCI-P3 coverage, up to 1,000 nits and G-Sync Compatible / VESA Adaptive Sync support. It has one DisplayPort 1.4 and two HDMI 2.1 inputs (one with eARC for Dolby Atmos pass-through), and a 3-year warranty that covers OLED burn-in.",
+   "keywords": "alienware aw3225qf 32 4k qd-oled 240hz curved gaming monitor dolby vision",
+   "specs": {
+    "sizeIn": 31.6,
+    "resolution": "3840x2160",
+    "refreshHz": 240,
+    "panel": "QD-OLED",
+    "colorGamut": "99% DCI-P3",
+    "inputs": "DisplayPort 1.4, 2x HDMI 2.1 FRL (one with eARC), USB 5Gbps hub",
+    "responseTimeMs": 0.03,
+    "brightnessNits": 1000,
+    "adaptiveSync": "VESA Adaptive Sync, NVIDIA G-Sync Compatible",
+    "curvature": "1700R",
+    "stand": "Height, tilt, swivel"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-ALIENWARE-AW2725QF",
+   "slug": "alienware-27-4k-dual-resolution-aw2725qf",
+   "name": "Alienware 27 4K Dual-Resolution Gaming Monitor (AW2725QF)",
+   "brand": "Alienware",
+   "category": "gaming-monitors",
+   "price": "499.99",
+   "compareAt": null,
+   "warranty": 36,
+   "stock": [
+    59,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "gaming-monsters"
+   ],
+   "summary": "27-inch 4K IPS gaming monitor that switches between 4K at 180 Hz and FHD at 330 Hz, with DisplayHDR 600 and Dolby Vision.",
+   "description": "The Alienware AW2725QF is a 27-inch 3840 x 2160 IPS gaming monitor rated at 180 Hz (overclocked) in 4K, with a dual-resolution mode that runs 1920 x 1080 at 330 Hz. Dell lists 95% DCI-P3 coverage, 400 nits typical and 600 nits peak brightness, VESA DisplayHDR 600, Dolby Vision, 0.5 ms gray-to-gray response and NVIDIA G-Sync Compatible / VESA Adaptive Sync support. It has two HDMI 2.1 ports (one with eARC) and a DisplayPort 1.4 input.",
+   "keywords": "alienware aw2725qf 27 4k 180hz dual resolution 330hz ips gaming monitor",
+   "specs": {
+    "sizeIn": 27,
+    "resolution": "3840x2160",
+    "refreshHz": 180,
+    "panel": "IPS",
+    "hdr": "VESA DisplayHDR 600, Dolby Vision",
+    "colorGamut": "95% DCI-P3",
+    "inputs": "2x HDMI 2.1 (one with eARC), DisplayPort 1.4, USB 5Gbps hub",
+    "responseTimeMs": 0.5,
+    "brightnessNits": 600,
+    "adaptiveSync": "NVIDIA G-Sync Compatible, VESA Adaptive Sync",
+    "panelDetails": "Fast IPS",
+    "colors": "Dark Gray"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-ALIENWARE-AW2525HM",
+   "slug": "alienware-25-320hz-aw2525hm",
+   "name": "Alienware 25 320Hz Gaming Monitor (AW2525HM)",
+   "brand": "Alienware",
+   "category": "gaming-monitors",
+   "price": "229.99",
+   "compareAt": "249.99",
+   "warranty": 36,
+   "stock": [
+    15,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "gaming-monsters"
+   ],
+   "summary": "24.5-inch FHD Fast IPS esports monitor running at 320 Hz over DisplayPort with 0.5 ms response and FreeSync Premium.",
+   "description": "The Alienware AW2525HM is a 24.5-inch 1920 x 1080 Fast IPS esports monitor that runs at 320 Hz over DisplayPort 1.4 and 255 Hz over HDMI. Dell lists 0.5 ms gray-to-gray response, 400 nits, 99% sRGB coverage and AMD FreeSync Premium / VESA Adaptive Sync with G-Sync compatibility, on a stand with height, tilt, swivel and pivot adjustment.",
+   "keywords": "alienware aw2525hm 25 320hz fhd esports gaming monitor fast ips",
+   "specs": {
+    "sizeIn": 24.5,
+    "resolution": "1920x1080",
+    "refreshHz": 320,
+    "panel": "IPS",
+    "colorGamut": "99% sRGB",
+    "inputs": "DisplayPort 1.4 (320 Hz), 2x HDMI (255 Hz), USB 5Gbps hub",
+    "responseTimeMs": 0.5,
+    "brightnessNits": 400,
+    "adaptiveSync": "AMD FreeSync Premium, VESA Adaptive Sync, NVIDIA G-Sync Compatible",
+    "stand": "Height, tilt, swivel, pivot",
+    "panelDetails": "Fast IPS",
+    "colors": "Dark Blue"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-ALIENWARE-AW3226DM",
+   "slug": "alienware-32-240hz-aw3226dm",
+   "name": "Alienware 32 240Hz Gaming Monitor (AW3226DM)",
+   "brand": "Alienware",
+   "category": "gaming-monitors",
+   "price": "299.99",
+   "compareAt": null,
+   "warranty": 36,
+   "stock": [
+    19,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "gaming-monsters"
+   ],
+   "summary": "32-inch 1500R curved QHD VA gaming monitor at 240 Hz with 3,000:1 contrast, DisplayHDR 400 and Dolby Vision.",
+   "description": "The Alienware AW3226DM is a 31.5-inch 2560 x 1440 VA gaming monitor with a 1500R curve, 240 Hz refresh and 1 ms gray-to-gray response (Extreme mode). Dell lists 3,000:1 native contrast, 95% DCI-P3 coverage, 400 nits (450 peak), VESA DisplayHDR 400 and Dolby Vision HDR, with AMD FreeSync Premium / VESA Adaptive Sync. Inputs include two HDMI 2.1 ports and DisplayPort 1.4.",
+   "keywords": "alienware aw3226dm 32 curved qhd 240hz va gaming monitor",
+   "specs": {
+    "sizeIn": 31.5,
+    "resolution": "2560x1440",
+    "refreshHz": 240,
+    "panel": "VA",
+    "hdr": "VESA DisplayHDR 400, Dolby Vision",
+    "colorGamut": "95% DCI-P3",
+    "inputs": "2x HDMI 2.1, DisplayPort 1.4, USB 5Gbps hub (USB-C 15W down)",
+    "responseTimeMs": 1,
+    "brightnessNits": 450,
+    "adaptiveSync": "AMD FreeSync Premium, VESA Adaptive Sync",
+    "curvature": "1500R",
+    "colors": "Black"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-DELL-S3225QC",
+   "slug": "dell-32-plus-4k-qd-oled-s3225qc",
+   "name": "Dell 32 Plus 4K QD-OLED Monitor (S3225QC)",
+   "brand": "Dell",
+   "category": "professional-monitors",
+   "price": "799.99",
+   "compareAt": null,
+   "warranty": 36,
+   "stock": [
+    24,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "oled-displays",
+    "creator-workstations"
+   ],
+   "summary": "32-inch 4K QD-OLED monitor at 120 Hz with 99% DCI-P3, Dolby Vision, five built-in speakers and 90 W USB-C.",
+   "description": "The Dell 32 Plus 4K QD-OLED Monitor (S3225QC) uses a 31.6-inch 3840 x 2160 Quantum Dot OLED panel at 120 Hz with 0.03 ms response and 1,000-nit peak brightness. Dell lists 99% DCI-P3 coverage, Dolby Vision and AMD FreeSync Premium Pro, plus a five-speaker 25 W sound system. A USB-C upstream port carries DisplayPort Alt Mode and up to 90 W power delivery, alongside HDMI 2.1 and two USB-C downstream ports.",
+   "keywords": "dell s3225qc 32 plus 4k qd-oled monitor usb-c dolby vision speakers",
+   "specs": {
+    "sizeIn": 31.6,
+    "resolution": "3840x2160",
+    "refreshHz": 120,
+    "panel": "QD-OLED",
+    "hdr": "Dolby Vision",
+    "colorGamut": "99% DCI-P3",
+    "inputs": "USB-C upstream (DP 1.4 Alt Mode, 90W PD), HDMI 2.1, 2x USB-C 5Gbps downstream (15W)",
+    "usbCPowerW": 90,
+    "responseTimeMs": 0.03,
+    "brightnessNits": 1000,
+    "adaptiveSync": "AMD FreeSync Premium Pro",
+    "colors": "Ash White"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-DELL-S2725QC",
+   "slug": "dell-27-plus-4k-usb-c-s2725qc",
+   "name": "Dell 27 Plus 4K USB-C Monitor (S2725QC)",
+   "brand": "Dell",
+   "category": "office-monitors",
+   "price": "329.99",
+   "compareAt": "349.99",
+   "warranty": 12,
+   "stock": [
+    41,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "developer-setup"
+   ],
+   "summary": "27-inch 4K IPS monitor at 120 Hz with a 65 W USB-C connection, HDMI 2.1 and built-in 5 W speakers.",
+   "description": "The Dell 27 Plus 4K USB-C Monitor (S2725QC) is a 27-inch 3840 x 2160 IPS display running at 120 Hz with 350 nits, 1,500:1 contrast and 99% sRGB coverage. A single USB-C upstream port carries DisplayPort 1.4 Alt Mode and up to 65 W power delivery; it also has two HDMI 2.1 ports, USB-A and USB-C downstream ports, dual 5 W speakers and AMD FreeSync Premium.",
+   "keywords": "dell s2725qc 27 plus 4k usb-c monitor 120hz ips",
+   "specs": {
+    "sizeIn": 27,
+    "resolution": "3840x2160",
+    "refreshHz": 120,
+    "panel": "IPS",
+    "colorGamut": "99% sRGB",
+    "inputs": "USB-C upstream (DP 1.4 Alt Mode, 65W PD), 2x HDMI 2.1, USB-A + USB-C downstream",
+    "usbCPowerW": 65,
+    "responseTimeMs": 4,
+    "brightnessNits": 350,
+    "adaptiveSync": "AMD FreeSync Premium",
+    "stand": "Height, tilt, swivel, pivot",
+    "colors": "Ash White"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-DELL-S3425DW",
+   "slug": "dell-34-plus-usb-c-s3425dw",
+   "name": "Dell 34 Plus USB-C Monitor (S3425DW)",
+   "brand": "Dell",
+   "category": "ultrawide-monitors",
+   "price": "419.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    29,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "developer-setup"
+   ],
+   "summary": "34-inch 1800R curved WQHD VA ultrawide at 120 Hz with 3,000:1 contrast, 65 W USB-C and dual 5 W speakers.",
+   "description": "The Dell 34 Plus USB-C Monitor (S3425DW) is a 34-inch 3440 x 1440 VA ultrawide with an 1800R curve, 120 Hz refresh and 3,000:1 native contrast. Dell lists 95% DCI-P3 and 99% sRGB coverage, 300 nits, HDR10 and AMD FreeSync Premium. It connects over two HDMI 2.1 ports and USB-C with DisplayPort Alt Mode and up to 65 W power delivery, and includes two 5 W speakers.",
+   "keywords": "dell s3425dw 34 plus curved ultrawide wqhd usb-c monitor 120hz",
+   "specs": {
+    "sizeIn": 34,
+    "resolution": "3440x1440",
+    "refreshHz": 120,
+    "panel": "VA",
+    "hdr": "HDR10",
+    "colorGamut": "95% DCI-P3, 99% sRGB",
+    "inputs": "2x HDMI 2.1, USB-C upstream (DP 1.4 Alt Mode, 65W PD), USB-A + USB-C downstream",
+    "usbCPowerW": 65,
+    "responseTimeMs": 1,
+    "brightnessNits": 300,
+    "adaptiveSync": "AMD FreeSync Premium",
+    "curvature": "1800R",
+    "colors": "Ash White"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-DELL-U3425WE",
+   "slug": "dell-ultrasharp-34-curved-thunderbolt-u3425we",
+   "name": "Dell UltraSharp 34 Curved Thunderbolt Hub Monitor (U3425WE)",
+   "brand": "Dell",
+   "category": "ultrawide-monitors",
+   "price": "1049.99",
+   "compareAt": null,
+   "warranty": 36,
+   "stock": [
+    53,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "developer-setup",
+    "developer-favorites",
+    "creator-workstations"
+   ],
+   "summary": "34-inch 1900R curved WQHD IPS Black ultrawide at 120 Hz with 100% Adobe RGB, Thunderbolt 4 hub and daisy-chain.",
+   "description": "The Dell UltraSharp 34 Curved Thunderbolt Hub Monitor (U3425WE) is a 34.1-inch 3440 x 1440 IPS Black ultrawide with a 1900R curve, 120 Hz refresh and 2,000:1 native contrast. Dell lists 100% Adobe RGB, 100% sRGB and 98% DCI-P3 coverage, an ambient light sensor and dual 5 W speakers. Connectivity centres on Thunderbolt 4 upstream and downstream ports (for daisy-chaining) with up to 90 W power delivery, plus HDMI, DisplayPort 1.4, 2.5GbE RJ45 and a built-in KVM.",
+   "keywords": "dell ultrasharp u3425we 34 curved thunderbolt 4 ips black ultrawide 120hz",
+   "specs": {
+    "sizeIn": 34.1,
+    "resolution": "3440x1440",
+    "refreshHz": 120,
+    "panel": "IPS Black",
+    "colorGamut": "100% Adobe RGB, 100% sRGB, 98% DCI-P3",
+    "inputs": "Thunderbolt 4 upstream (DP 1.4 Alt Mode, 90W PD), Thunderbolt 4 downstream (daisy-chain), HDMI, DisplayPort 1.4, RJ45 2.5GbE, 10Gbps USB-A/USB-C hub, KVM",
+    "usbCPowerW": 90,
+    "responseTimeMs": 5,
+    "brightnessNits": 300,
+    "curvature": "1900R",
+    "stand": "Height, tilt, swivel",
+    "colors": "Silver"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-DELL-U4924DW",
+   "slug": "dell-ultrasharp-49-curved-usb-c-u4924dw",
+   "name": "Dell UltraSharp 49 Curved USB-C Hub Monitor (U4924DW)",
+   "brand": "Dell",
+   "category": "ultrawide-monitors",
+   "price": "1499.99",
+   "compareAt": null,
+   "warranty": 36,
+   "stock": [
+    53,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "developer-setup"
+   ],
+   "summary": "49-inch 32:9 Dual QHD (5120 x 1440) IPS Black super-ultrawide with 90 W USB-C, 10Gbps USB hub and PbP/PiP.",
+   "description": "The Dell UltraSharp 49 Curved USB-C Hub Monitor (U4924DW) is a 49-inch 5120 x 1440 IPS Black super-ultrawide with a 3800R curve, 2,000:1 contrast and 350 nits. Dell lists 100% sRGB/Rec. 709 and 98% DCI-P3 coverage. It has a USB-C upstream with DisplayPort 1.4 Alt Mode and up to 90 W power delivery, a second data-only USB-C upstream for multi-PC use, a 10Gbps USB hub, 2.5GbE RJ45, Picture-by-Picture and dual 9 W speakers.",
+   "keywords": "dell ultrasharp u4924dw 49 super ultrawide dual qhd 5120x1440 usb-c",
+   "specs": {
+    "sizeIn": 49,
+    "resolution": "5120x1440",
+    "refreshHz": 60,
+    "panel": "IPS Black",
+    "colorGamut": "100% sRGB, 100% Rec. 709, 98% DCI-P3",
+    "inputs": "USB-C upstream (DP 1.4 Alt Mode, 90W PD), USB-C 10Gbps data upstream, HDMI, 5x USB-A + 2x USB-C 10Gbps downstream, RJ45 2.5GbE",
+    "usbCPowerW": 90,
+    "responseTimeMs": 5,
+    "brightnessNits": 350,
+    "curvature": "3800R",
+    "stand": "Height, tilt, swivel",
+    "colors": "Silver"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-DELL-P1425",
+   "slug": "dell-pro-14-plus-portable-p1425",
+   "name": "Dell Pro 14 Plus Portable Monitor (P1425)",
+   "brand": "Dell",
+   "category": "office-monitors",
+   "price": "259.99",
+   "compareAt": null,
+   "warranty": 36,
+   "stock": [
+    35,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "developer-setup",
+    "small-business"
+   ],
+   "summary": "14-inch WUXGA (1920 x 1200) IPS portable monitor with two USB-C ports, 65 W pass-through power and an auto-rotation sensor.",
+   "description": "The Dell Pro 14 Plus Portable Monitor (P1425) is a 14-inch 1920 x 1200 16:10 IPS display at 60 Hz with 400 nits and 100% sRGB coverage, weighing about 1.26 lb. Both USB-C ports support DisplayPort 1.2 Alt Mode and up to 65 W power pass-through, it includes an auto-rotation sensor and a tilt stand, and Dell covers it with a 3-year warranty.",
+   "keywords": "dell p1425 pro 14 plus portable monitor usb-c travel second screen",
+   "specs": {
+    "sizeIn": 14,
+    "resolution": "1920x1200",
+    "refreshHz": 60,
+    "panel": "IPS",
+    "colorGamut": "100% sRGB",
+    "inputs": "2x USB-C (DP 1.2 Alt Mode, 65W power pass-through)",
+    "usbCPowerW": 65,
+    "responseTimeMs": 7,
+    "brightnessNits": 400,
+    "stand": "Integrated tilt stand"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-DELL-P2725QE",
+   "slug": "dell-pro-27-plus-4k-usb-c-hub-p2725qe",
+   "name": "Dell Pro 27 Plus 4K USB-C Hub Monitor (P2725QE)",
+   "brand": "Dell",
+   "category": "office-monitors",
+   "price": "509.99",
+   "compareAt": "539.99",
+   "warranty": 36,
+   "stock": [
+    29,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "small-business",
+    "developer-setup"
+   ],
+   "summary": "27-inch 4K IPS business monitor at 100 Hz with a 90 W USB-C hub, RJ45 Ethernet and DisplayPort daisy-chain.",
+   "description": "The Dell Pro 27 Plus 4K USB-C Hub Monitor (P2725QE) is a 27-inch 3840 x 2160 IPS display at 100 Hz with 350 nits and 99% sRGB coverage. A USB-C upstream port provides DisplayPort 1.4 Alt Mode and up to 90 W power delivery, and the hub adds RJ45 Ethernet, USB-C and three USB-A downstream ports, HDMI 2.1 and DisplayPort 1.4 with daisy-chain support.",
+   "keywords": "dell p2725qe pro 27 plus 4k usb-c hub business monitor rj45",
+   "specs": {
+    "sizeIn": 27,
+    "resolution": "3840x2160",
+    "refreshHz": 100,
+    "panel": "IPS",
+    "colorGamut": "99% sRGB",
+    "inputs": "USB-C upstream (DP 1.4 Alt Mode, 90W PD), HDMI 2.1, DisplayPort 1.4, RJ45, USB-C + 3x USB-A downstream",
+    "usbCPowerW": 90,
+    "responseTimeMs": 5,
+    "brightnessNits": 350,
+    "stand": "Height, tilt, swivel, pivot"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-DELL-U2424HE",
+   "slug": "dell-ultrasharp-24-usb-c-hub-u2424he",
+   "name": "Dell UltraSharp 24 USB-C Hub Monitor (U2424HE)",
+   "brand": "Dell",
+   "category": "office-monitors",
+   "price": "369.99",
+   "compareAt": null,
+   "warranty": 36,
+   "stock": [
+    21,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "small-business"
+   ],
+   "summary": "23.8-inch FHD IPS UltraSharp at 120 Hz with a USB-C hub, RJ45, DisplayPort MST out and an ambient light sensor.",
+   "description": "The Dell UltraSharp 24 USB-C Hub Monitor (U2424HE) is a 23.8-inch 1920 x 1080 IPS display running at 120 Hz with 100% sRGB, 100% BT.709 and 85% DCI-P3 coverage. It adds an ambient light sensor, ComfortView Plus, a USB-C upstream with DisplayPort Alt Mode and up to 90 W power delivery, a 10Gbps USB hub with KVM, 2.5GbE RJ45 Ethernet and DisplayPort 1.4 out with MST for daisy-chaining, backed by Dell's 3-year Advanced Exchange service.",
+   "keywords": "dell ultrasharp u2424he 24 usb-c hub monitor 120hz rj45",
+   "specs": {
+    "sizeIn": 23.8,
+    "resolution": "1920x1080",
+    "refreshHz": 120,
+    "panel": "IPS",
+    "colorGamut": "100% sRGB, 100% BT.709, 85% DCI-P3",
+    "inputs": "USB-C upstream (DP 1.4 Alt Mode, 90W PD), USB-C data upstream, DisplayPort 1.4 in, DisplayPort 1.4 out (MST), HDMI, RJ45 2.5GbE, 10Gbps USB hub, KVM",
+    "usbCPowerW": 90,
+    "responseTimeMs": 5,
+    "brightnessNits": 250,
+    "stand": "Height, tilt, swivel, pivot",
+    "colors": "Silver"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-DELL-U4323QE",
+   "slug": "dell-ultrasharp-43-4k-usb-c-hub-u4323qe",
+   "name": "Dell UltraSharp 43 4K USB-C Hub Monitor (U4323QE)",
+   "brand": "Dell",
+   "category": "professional-monitors",
+   "price": "1124.99",
+   "compareAt": "1199.99",
+   "warranty": 36,
+   "stock": [
+    37,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "developer-setup"
+   ],
+   "summary": "42.5-inch 4K IPS monitor that can show four FHD partitions from multiple PCs, with a USB-C hub, RJ45 and KVM.",
+   "description": "The Dell UltraSharp 43 4K USB-C Hub Monitor (U4323QE) is a 42.5-inch 3840 x 2160 IPS display with 350 nits and 95% sRGB coverage. Dell highlights multi-PC connectivity with four unique FHD partitions via iMST, ComfortView Plus, a USB-C connection and wired RJ45 Ethernet, on a stand with height, tilt, swivel and pivot adjustment.",
+   "keywords": "dell ultrasharp u4323qe 43 4k large monitor usb-c hub multi pc kvm",
+   "specs": {
+    "sizeIn": 42.5,
+    "resolution": "3840x2160",
+    "panel": "IPS",
+    "colorGamut": "95% sRGB",
+    "inputs": "USB-C, HDMI, RJ45, USB hub",
+    "brightnessNits": 350,
+    "stand": "Height, tilt, swivel, pivot",
+    "colors": "Silver"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-DELL-SE2726HGS",
+   "slug": "dell-27-240hz-adjustable-stand-se2726hgs",
+   "name": "Dell 27 240Hz Adjustable Stand Monitor (SE2726HGS)",
+   "brand": "Dell",
+   "category": "gaming-monitors",
+   "price": "149.99",
+   "compareAt": "169.99",
+   "warranty": 36,
+   "stock": [
+    54,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [],
+   "summary": "27-inch FHD IPS monitor at 240 Hz with 0.5 ms response, FreeSync Premium and a height/swivel-adjustable stand.",
+   "description": "The Dell 27 240Hz Adjustable Stand Monitor (SE2726HGS) is a 27-inch 1920 x 1080 IPS display running at 240 Hz with 0.5 ms gray-to-gray response, 300 nits and 99% sRGB coverage. It supports AMD FreeSync Premium, connects via two HDMI ports and DisplayPort 1.4, and sits on a stand with height and swivel adjustment.",
+   "keywords": "dell se2726hgs 27 240hz budget gaming monitor fhd ips",
+   "specs": {
+    "sizeIn": 27,
+    "resolution": "1920x1080",
+    "refreshHz": 240,
+    "panel": "IPS",
+    "colorGamut": "99% sRGB",
+    "inputs": "2x HDMI, DisplayPort 1.4",
+    "responseTimeMs": 0.5,
+    "brightnessNits": 300,
+    "adaptiveSync": "AMD FreeSync Premium",
+    "stand": "Height, tilt, swivel",
+    "colors": "Black"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-LG-25G590B",
+   "slug": "lg-ultragear-25g590b-1000hz",
+   "name": "LG UltraGear 25G590B 24.5\" FHD 1000 Hz Gaming Monitor",
+   "brand": "LG",
+   "category": "gaming-monitors",
+   "price": "999.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    39,
+    5
+   ],
+   "featured": true,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "gaming-monsters",
+    "ultimate-gaming-setup"
+   ],
+   "summary": "24.5-inch FHD IPS esports monitor running at 1000 Hz (1100 Hz overclocked) with DisplayPort 2.1, HDMI 2.1 and DisplayHDR 400.",
+   "description": "The LG UltraGear 25G590B is a 24.5-inch 1920 x 1080 IPS esports monitor rated for a 1000 Hz refresh rate, overclockable to 1100 Hz. LG lists 1 ms gray-to-gray response, 400 nits, 99% sRGB coverage, VESA DisplayHDR 400, NVIDIA G-Sync Compatible and AMD FreeSync Premium support. It connects over DisplayPort 2.1 and two HDMI 2.1 ports and sits on a tilt/height/swivel stand.",
+   "keywords": "lg ultragear 25g590b 1000hz 1100hz esports fhd gaming monitor displayport 2.1",
+   "specs": {
+    "sizeIn": 24.5,
+    "resolution": "1920x1080",
+    "refreshHz": 1000,
+    "panel": "IPS",
+    "hdr": "VESA DisplayHDR 400, HDR10",
+    "colorGamut": "99% sRGB",
+    "inputs": "DisplayPort 2.1, 2x HDMI 2.1, USB-C upstream (USB hub)",
+    "responseTimeMs": 1,
+    "brightnessNits": 400,
+    "adaptiveSync": "NVIDIA G-Sync Compatible, AMD FreeSync Premium",
+    "stand": "Tilt, height, swivel"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-LG-34GX900A",
+   "slug": "lg-ultragear-oled-34gx900a",
+   "name": "LG UltraGear OLED 34GX900A 34\" WQHD 240 Hz Curved Gaming Monitor",
+   "brand": "LG",
+   "category": "ultrawide-monitors",
+   "price": "799.99",
+   "compareAt": "1299.99",
+   "warranty": 12,
+   "stock": [
+    41,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "gaming-monsters",
+    "oled-displays"
+   ],
+   "summary": "34-inch 800R curved WQHD OLED ultrawide at 240 Hz with 0.03 ms response, DisplayHDR True Black 400 and 65 W USB-C.",
+   "description": "The LG UltraGear OLED 34GX900A is a 34-inch 3440 x 1440 21:9 OLED gaming monitor with a tight 800R curve, 240 Hz refresh and 0.03 ms gray-to-gray response. LG lists 98.5% DCI-P3 coverage, 1.5M:1 contrast, VESA DisplayHDR True Black 400, AMD FreeSync Premium Pro and NVIDIA G-Sync compatibility. Connectivity includes DisplayPort, two HDMI 2.1 ports and USB-C with 65 W power delivery, plus built-in speakers.",
+   "keywords": "lg ultragear oled 34gx900a 34 ultrawide 800r 240hz wqhd",
+   "specs": {
+    "sizeIn": 34,
+    "resolution": "3440x1440",
+    "refreshHz": 240,
+    "panel": "OLED",
+    "hdr": "VESA DisplayHDR True Black 400, HDR10",
+    "colorGamut": "98.5% DCI-P3",
+    "inputs": "DisplayPort, 2x HDMI 2.1, USB-C (data, 65W PD)",
+    "usbCPowerW": 65,
+    "responseTimeMs": 0.03,
+    "adaptiveSync": "AMD FreeSync Premium Pro, NVIDIA G-Sync Compatible",
+    "curvature": "800R"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-LG-45GX900A",
+   "slug": "lg-ultragear-oled-45gx900a",
+   "name": "LG UltraGear OLED 45GX900A 45\" WQHD 240 Hz Curved Gaming Monitor",
+   "brand": "LG",
+   "category": "ultrawide-monitors",
+   "price": "1699.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    44,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "gaming-monsters",
+    "oled-displays"
+   ],
+   "summary": "45-inch 800R curved WQHD OLED ultrawide at 240 Hz with 0.03 ms response, DisplayHDR True Black 400 and 65 W USB-C.",
+   "description": "The LG UltraGear OLED 45GX900A is a 45-inch 21:9 WQHD OLED gaming monitor with an 800R curve, 240 Hz refresh rate and 0.03 ms gray-to-gray response. LG lists 98.5% DCI-P3 coverage, 1.5M:1 contrast, VESA DisplayHDR True Black 400, AMD FreeSync Premium Pro and NVIDIA G-Sync compatibility. It has DisplayPort, two HDMI 2.1 ports, USB-C with 65 W power delivery and built-in speakers.",
+   "keywords": "lg ultragear oled 45gx900a 45 ultrawide 800r 240hz",
+   "specs": {
+    "sizeIn": 45,
+    "resolution": "3440x1440",
+    "refreshHz": 240,
+    "panel": "OLED",
+    "hdr": "VESA DisplayHDR True Black 400, HDR10",
+    "colorGamut": "98.5% DCI-P3",
+    "inputs": "DisplayPort, 2x HDMI 2.1, USB-C (data, 65W PD)",
+    "usbCPowerW": 65,
+    "responseTimeMs": 0.03,
+    "adaptiveSync": "AMD FreeSync Premium Pro, NVIDIA G-Sync Compatible",
+    "curvature": "800R"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-LG-27GS93QE",
+   "slug": "lg-ultragear-oled-27gs93qe",
+   "name": "LG UltraGear OLED 27GS93QE 27\" QHD 240 Hz Gaming Monitor",
+   "brand": "LG",
+   "category": "gaming-monitors",
+   "price": "899.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    49,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "gaming-monsters",
+    "oled-displays"
+   ],
+   "summary": "27-inch QHD OLED gaming monitor at 240 Hz with 0.03 ms response, 1,300-nit HDR peak and DisplayHDR True Black 400.",
+   "description": "The LG UltraGear OLED 27GS93QE is a 27-inch 2560 x 1440 OLED gaming monitor running at 240 Hz with 0.03 ms gray-to-gray response. LG lists 98.5% DCI-P3 coverage, 1.5M:1 contrast, 275 nits typical and up to 1,300 nits peak (1.5% APL), VESA DisplayHDR True Black 400, AMD FreeSync Premium Pro and G-Sync compatibility. It has one DisplayPort 1.4 and two HDMI 2.1 inputs on a height, tilt, swivel and pivot stand.",
+   "keywords": "lg ultragear oled 27gs93qe 27 qhd 240hz oled gaming monitor",
+   "specs": {
+    "sizeIn": 27,
+    "resolution": "2560x1440",
+    "refreshHz": 240,
+    "panel": "OLED",
+    "hdr": "VESA DisplayHDR True Black 400, HDR10",
+    "colorGamut": "98.5% DCI-P3",
+    "inputs": "DisplayPort 1.4, 2x HDMI 2.1",
+    "responseTimeMs": 0.03,
+    "brightnessNits": 1300,
+    "adaptiveSync": "AMD FreeSync Premium Pro, NVIDIA G-Sync Compatible, VESA Adaptive-Sync",
+    "stand": "Height 110 mm, tilt, swivel, pivot"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-LG-27US500W",
+   "slug": "lg-ultrafine-27us500-w-4k",
+   "name": "LG UltraFine 27US500-W 27\" 4K UHD IPS Monitor",
+   "brand": "LG",
+   "category": "office-monitors",
+   "price": "249.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    10,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [],
+   "summary": "27-inch 4K UHD IPS monitor with HDR10, 90% DCI-P3, two HDMI ports and DisplayPort 1.4 in a white finish.",
+   "description": "The LG UltraFine 27US500-W is a 27-inch 3840 x 2160 IPS monitor at 60 Hz with 300 nits, 1,000:1 contrast and 90% DCI-P3 coverage. It supports HDR10 and connects over two HDMI 2.0 ports and a DisplayPort 1.4 input, on a tilt-adjustable stand.",
+   "keywords": "lg ultrafine 27us500 27 4k uhd ips monitor white hdr10",
+   "specs": {
+    "sizeIn": 27,
+    "resolution": "3840x2160",
+    "refreshHz": 60,
+    "panel": "IPS",
+    "hdr": "HDR10",
+    "colorGamut": "90% DCI-P3",
+    "inputs": "2x HDMI 2.0, DisplayPort 1.4",
+    "responseTimeMs": 5,
+    "brightnessNits": 300,
+    "stand": "Tilt",
+    "colors": "White"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-LG-32U701B",
+   "slug": "lg-ultrafine-32u701b-4k",
+   "name": "LG UltraFine 32U701B 32\" 4K UHD Monitor",
+   "brand": "LG",
+   "category": "office-monitors",
+   "price": "249.99",
+   "compareAt": "299.99",
+   "warranty": 12,
+   "stock": [
+    20,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [],
+   "summary": "32-inch 4K UHD monitor with 3,000:1 contrast, HDR10, 99% sRGB and HDMI 2.0 / DisplayPort 1.4 inputs.",
+   "description": "The LG UltraFine 32U701B is a 32-inch 3840 x 2160 monitor at 60 Hz with 3,000:1 contrast, 250 nits and 99% sRGB coverage. It supports HDR10 and connects via HDMI 2.0 and DisplayPort 1.4.",
+   "keywords": "lg ultrafine 32u701b 32 4k uhd monitor hdr10 budget",
+   "specs": {
+    "sizeIn": 32,
+    "resolution": "3840x2160",
+    "refreshHz": 60,
+    "hdr": "HDR10",
+    "colorGamut": "99% sRGB",
+    "inputs": "HDMI 2.0, DisplayPort 1.4",
+    "responseTimeMs": 5,
+    "brightnessNits": 250
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-LG-34WR55QK",
+   "slug": "lg-ultrawide-34wr55qk",
+   "name": "LG UltraWide 34WR55QK 34\" WQHD 100 Hz Curved USB-C Monitor",
+   "brand": "LG",
+   "category": "ultrawide-monitors",
+   "price": "349.99",
+   "compareAt": "499.99",
+   "warranty": 12,
+   "stock": [
+    40,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "developer-setup",
+    "small-business"
+   ],
+   "summary": "34-inch 1800R curved WQHD ultrawide at 100 Hz with 3,000:1 contrast, HDR10 and 65 W USB-C.",
+   "description": "The LG UltraWide 34WR55QK is a 34-inch 3440 x 1440 curved (1800R) monitor running at 100 Hz with 3,000:1 contrast, 300 nits and 99% sRGB coverage. It supports HDR10 and connects via two HDMI 2.0 ports, DisplayPort 1.4 and USB-C with data and 65 W power delivery, on a height- and tilt-adjustable stand.",
+   "keywords": "lg ultrawide 34wr55qk 34 curved wqhd usb-c 100hz monitor",
+   "specs": {
+    "sizeIn": 34,
+    "resolution": "3440x1440",
+    "refreshHz": 100,
+    "hdr": "HDR10",
+    "colorGamut": "99% sRGB",
+    "inputs": "2x HDMI 2.0, DisplayPort 1.4, USB-C (data, 65W PD)",
+    "usbCPowerW": 65,
+    "responseTimeMs": 5,
+    "brightnessNits": 300,
+    "curvature": "1800R",
+    "stand": "Height 110 mm, tilt"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-LG-34SR65QC",
+   "slug": "lg-myview-smart-monitor-34sr65qc",
+   "name": "LG MyView Smart Monitor 34SR65QC 34\" WQHD Curved webOS Monitor",
+   "brand": "LG",
+   "category": "ultrawide-monitors",
+   "price": "349.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    22,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [],
+   "summary": "34-inch 1800R curved WQHD smart monitor with webOS streaming apps, 100 Hz, HDR10, LAN and built-in speakers.",
+   "description": "The LG 34SR65QC is a 34-inch 3440 x 1440 curved (1800R) smart monitor running webOS, so it can stream apps without a PC. LG lists 100 Hz refresh, 3,000:1 contrast, 300 nits, 99% sRGB coverage, HDR10, automatic brightness, two HDMI 2.0 ports, a LAN port and built-in speakers, on a height- and tilt-adjustable stand.",
+   "keywords": "lg myview smart monitor 34sr65qc webos curved ultrawide streaming",
+   "specs": {
+    "sizeIn": 34,
+    "resolution": "3440x1440",
+    "refreshHz": 100,
+    "hdr": "HDR10",
+    "colorGamut": "99% sRGB",
+    "inputs": "2x HDMI 2.0, LAN, Wi-Fi (webOS)",
+    "responseTimeMs": 5,
+    "brightnessNits": 300,
+    "curvature": "1800R",
+    "stand": "Height 110 mm, tilt"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-LG-37U730SAW",
+   "slug": "lg-smart-monitor-37u730sa-w",
+   "name": "LG Smart Monitor 37U730SA-W 37\" 4K webOS Monitor",
+   "brand": "LG",
+   "category": "office-monitors",
+   "price": "599.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    19,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [],
+   "summary": "37-inch 4K UHD IPS webOS smart monitor with 65 W USB-C, HDR10, 90% DCI-P3 and built-in speakers.",
+   "description": "The LG 37U730SA-W is a 37-inch 4K UHD IPS smart monitor with webOS for streaming apps without a PC. LG lists 60 Hz refresh, 300 nits, 1,000:1 contrast, 90% DCI-P3 coverage, HDR10 and automatic brightness, with HDMI 2.0, USB-C with data and 65 W power delivery, and built-in speakers.",
+   "keywords": "lg smart monitor 37u730sa 37 4k webos usb-c white",
+   "specs": {
+    "sizeIn": 37,
+    "resolution": "3840x2160",
+    "refreshHz": 60,
+    "panel": "IPS",
+    "hdr": "HDR10",
+    "colorGamut": "90% DCI-P3",
+    "inputs": "HDMI 2.0, USB-C (data, 65W PD), Wi-Fi (webOS)",
+    "usbCPowerW": 65,
+    "responseTimeMs": 5,
+    "brightnessNits": 300,
+    "colors": "White"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-SAMSUNG-LS27FG60DENXZA",
+   "slug": "samsung-odyssey-g6-g60f-27-qhd-350hz",
+   "name": "Samsung Odyssey G6 G60F 27\" QHD 350Hz Gaming Monitor",
+   "brand": "Samsung",
+   "category": "gaming-monitors",
+   "price": "299.99",
+   "compareAt": "499.99",
+   "warranty": 12,
+   "stock": [
+    15,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "gaming-monsters"
+   ],
+   "summary": "27-inch QHD Fast IPS gaming monitor at 350 Hz with 1 ms GTG, DisplayHDR 400 and FreeSync Premium / G-Sync Compatible.",
+   "description": "The Samsung Odyssey G6 G60F is a 27-inch 2560 x 1440 IPS gaming monitor with a 350 Hz maximum refresh rate and 1 ms gray-to-gray response. Samsung lists 350 nits, 99% sRGB coverage, VESA DisplayHDR 400, AMD FreeSync Premium and G-Sync compatibility, with DisplayPort 1.4 and HDMI 2.1 inputs and a stand that adjusts for height, tilt, swivel and pivot.",
+   "keywords": "samsung odyssey g6 g60f 27 qhd 350hz ips gaming monitor ls27fg60denxza",
+   "specs": {
+    "sizeIn": 27,
+    "resolution": "2560x1440",
+    "refreshHz": 350,
+    "panel": "IPS",
+    "hdr": "VESA DisplayHDR 400",
+    "colorGamut": "99% sRGB",
+    "inputs": "DisplayPort 1.4, HDMI 2.1, headphone out",
+    "responseTimeMs": 1,
+    "brightnessNits": 350,
+    "adaptiveSync": "AMD FreeSync Premium, G-Sync Compatible",
+    "stand": "Height 120 mm, tilt, swivel, pivot",
+    "colors": "Black"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-SAMSUNG-LS27HG802EFXZA",
+   "slug": "samsung-odyssey-g8-g80hf-27-5k",
+   "name": "Samsung Odyssey G8 G80HF 27\" 5K Dual-Mode Gaming Monitor",
+   "brand": "Samsung",
+   "category": "gaming-monitors",
+   "price": "699.99",
+   "compareAt": "949.99",
+   "warranty": 12,
+   "stock": [
+    9,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "gaming-monsters",
+    "creator-workstations"
+   ],
+   "summary": "27-inch 5K (5120 x 2880) IPS gaming monitor at 180 Hz with a QHD 360 Hz dual mode, DisplayPort 2.1 and factory calibration.",
+   "description": "The Samsung Odyssey G8 G80HF (2026) is a 27-inch 5120 x 2880 IPS gaming monitor running at up to 180 Hz in 5K, with a Dual Mode that switches to 2560 x 1440 at 360 Hz. Samsung lists 1 ms gray-to-gray response, 350 nits (400 peak), 99% sRGB coverage, HDR10+ Gaming, FreeSync Premium and G-Sync compatibility. It has DisplayPort 2.1, two HDMI 2.1 ports, a USB hub, a factory calibration report and a height/tilt/swivel/pivot stand.",
+   "keywords": "samsung odyssey g8 g80hf 27 5k 180hz 360hz dual mode gaming monitor ls27hg802efxza",
+   "specs": {
+    "sizeIn": 27,
+    "resolution": "5120x2880",
+    "refreshHz": 180,
+    "panel": "IPS",
+    "hdr": "HDR10, HDR10+ Gaming",
+    "colorGamut": "99% sRGB",
+    "inputs": "DisplayPort 2.1, 2x HDMI 2.1, USB-B upstream, 2x USB-A 5Gbps",
+    "responseTimeMs": 1,
+    "brightnessNits": 400,
+    "adaptiveSync": "AMD FreeSync Premium, G-Sync Compatible",
+    "stand": "Height 120 mm, tilt, swivel, pivot",
+    "colors": "Black"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-SAMSUNG-LS27FG500SNXZA",
+   "slug": "samsung-odyssey-oled-g5-g50sf-27",
+   "name": "Samsung Odyssey OLED G5 G50SF 27\" QHD 180Hz Gaming Monitor",
+   "brand": "Samsung",
+   "category": "gaming-monitors",
+   "price": "328.99",
+   "compareAt": "499.99",
+   "warranty": 12,
+   "stock": [
+    41,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "oled-displays",
+    "gaming-monsters"
+   ],
+   "summary": "27-inch QHD QD-OLED gaming monitor at 180 Hz with 0.03 ms response, 99% DCI-P3 and a glare-free finish.",
+   "description": "The Samsung Odyssey OLED G5 G50SF is an entry-level 27-inch 2560 x 1440 OLED gaming monitor with Quantum Dot color, 180 Hz over DisplayPort (144 Hz over HDMI) and 0.03 ms gray-to-gray response. Samsung lists 99% DCI-P3 coverage, 1,000,000:1 contrast, HDR10, FreeSync and G-Sync compatibility, UL Glare Free certification and Pantone validation, with DisplayPort 1.4 and HDMI 2.0 inputs.",
+   "keywords": "samsung odyssey oled g5 g50sf 27 qhd 180hz budget oled gaming monitor",
+   "specs": {
+    "sizeIn": 27,
+    "resolution": "2560x1440",
+    "refreshHz": 180,
+    "panel": "QD-OLED",
+    "hdr": "HDR10",
+    "colorGamut": "99% DCI-P3",
+    "inputs": "DisplayPort 1.4, HDMI 2.0",
+    "responseTimeMs": 0.03,
+    "brightnessNits": 200,
+    "adaptiveSync": "AMD FreeSync, G-Sync Compatible",
+    "stand": "Tilt",
+    "colors": "Black"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-SAMSUNG-LS27FG810SNXZA",
+   "slug": "samsung-odyssey-oled-g8-g81sf-4k-240hz",
+   "name": "Samsung Odyssey OLED G8 G81SF 4K 240Hz Gaming Monitor",
+   "brand": "Samsung",
+   "category": "gaming-monitors",
+   "price": "899.99",
+   "compareAt": "1299.99",
+   "warranty": 12,
+   "stock": [
+    56,
+    5
+   ],
+   "featured": true,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "oled-displays",
+    "gaming-monsters",
+    "ultimate-gaming-setup"
+   ],
+   "summary": "4K QD-OLED gaming monitor at 240 Hz in 27- or 32-inch sizes with 0.03 ms response, DisplayHDR True Black 400 and a glare-free screen.",
+   "description": "The Samsung Odyssey OLED G8 G81SF is a 3840 x 2160 QD-OLED gaming monitor at up to 240 Hz with 0.03 ms gray-to-gray response, offered in 27-inch and 32-inch sizes at the same price. Samsung lists 99% DCI-P3 coverage, VESA DisplayHDR True Black 400, HDR10+ Gaming, FreeSync Premium Pro and G-Sync compatibility, Samsung OLED Safeguard+ burn-in protection and UL Glare Free certification. It has DisplayPort 1.4, two HDMI 2.1 ports and a USB hub on a height/tilt/swivel/pivot stand. Specs describe the 27-inch model.",
+   "keywords": "samsung odyssey oled g8 g81sf 4k 240hz qd-oled 27 32 gaming monitor",
+   "specs": {
+    "sizeIn": 27,
+    "resolution": "3840x2160",
+    "refreshHz": 240,
+    "panel": "QD-OLED",
+    "hdr": "VESA DisplayHDR True Black 400, HDR10+ Gaming",
+    "colorGamut": "99% DCI-P3",
+    "inputs": "DisplayPort 1.4, 2x HDMI 2.1, USB-B upstream, 2x USB-A 5Gbps",
+    "responseTimeMs": 0.03,
+    "brightnessNits": 250,
+    "adaptiveSync": "AMD FreeSync Premium Pro, G-Sync Compatible",
+    "stand": "Height 120 mm, tilt, swivel, pivot",
+    "configurations": "27-inch (LS27FG810SNXZA) – $899.99 · 32-inch (LS32FG810SNXZA) – $899.99",
+    "colors": "Silver"
+   },
+   "options": [
+    {
+     "name": "Size",
+     "values": [
+      {
+       "label": "27-inch (LS27FG810SNXZA)",
+       "price": "899.99",
+       "default": true
+      },
+      {
+       "label": "32-inch (LS32FG810SNXZA)",
+       "price": "899.99"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "sku": "TK-SAMSUNG-LS32HG732SNXZA",
+   "slug": "samsung-odyssey-oled-g7-g73sh-32-4k",
+   "name": "Samsung Odyssey OLED G7 G73SH 32\" 4K Dual-Mode Gaming Monitor",
+   "brand": "Samsung",
+   "category": "gaming-monitors",
+   "price": "749.99",
+   "compareAt": "1099.99",
+   "warranty": 12,
+   "stock": [
+    12,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "oled-displays",
+    "gaming-monsters"
+   ],
+   "summary": "32-inch 4K OLED gaming monitor at 165 Hz with an FHD 330 Hz dual mode, 1,300-nit peak and DisplayHDR True Black 400.",
+   "description": "The Samsung Odyssey OLED G7 G73SH (2026) is a 32-inch 3840 x 2160 OLED gaming monitor running at 165 Hz in 4K, with a Dual Mode for 1920 x 1080 at 330 Hz. Samsung lists 0.03 ms gray-to-gray response, 275 nits typical and 1,300 nits peak (1.5% APL), 98.5% DCI-P3 coverage, VESA DisplayHDR True Black 400, HDR10+ Gaming and FreeSync Premium Pro, with DisplayPort 1.4 and HDMI 2.1 on a height/tilt/swivel/pivot stand.",
+   "keywords": "samsung odyssey oled g7 g73sh 32 4k 165hz 330hz dual mode oled gaming monitor",
+   "specs": {
+    "sizeIn": 32,
+    "resolution": "3840x2160",
+    "refreshHz": 165,
+    "panel": "OLED",
+    "hdr": "VESA DisplayHDR True Black 400, HDR10+ Gaming",
+    "colorGamut": "98.5% DCI-P3",
+    "inputs": "DisplayPort 1.4, HDMI 2.1",
+    "responseTimeMs": 0.03,
+    "brightnessNits": 1300,
+    "adaptiveSync": "AMD FreeSync Premium Pro",
+    "stand": "Height 105 mm, tilt, swivel, pivot",
+    "colors": "Black"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-SAMSUNG-LS37FG75DENXZA",
+   "slug": "samsung-odyssey-g7-g75f-37-4k-curved",
+   "name": "Samsung Odyssey G7 G75F 37\" 4K 165Hz Curved Gaming Monitor",
+   "brand": "Samsung",
+   "category": "gaming-monitors",
+   "price": "549.99",
+   "compareAt": "899.99",
+   "warranty": 12,
+   "stock": [
+    13,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "gaming-monsters"
+   ],
+   "summary": "37-inch 1000R curved 4K VA gaming monitor at 165 Hz with DisplayHDR 600, HDR10+ Gaming and FreeSync Premium Pro.",
+   "description": "The Samsung Odyssey G7 G75F is a 37-inch 16:9 3840 x 2160 VA gaming monitor with a 1000R curve, 165 Hz refresh and 1 ms response. Samsung lists 3,000:1 contrast, 350 nits, 90% DCI-P3 / 99% sRGB coverage, VESA DisplayHDR 600, HDR10+ Gaming and FreeSync Premium Pro, plus Picture-in-Picture, DisplayPort 1.4, two HDMI 2.1 ports and a USB hub on a height/tilt/swivel stand.",
+   "keywords": "samsung odyssey g7 g75f 37 4k 165hz curved va gaming monitor",
+   "specs": {
+    "sizeIn": 37,
+    "resolution": "3840x2160",
+    "refreshHz": 165,
+    "panel": "VA",
+    "hdr": "VESA DisplayHDR 600, HDR10+ Gaming",
+    "colorGamut": "90% DCI-P3, 99% sRGB",
+    "inputs": "DisplayPort 1.4, 2x HDMI 2.1, USB-B upstream, 2x USB-A 5Gbps",
+    "responseTimeMs": 1,
+    "brightnessNits": 350,
+    "adaptiveSync": "AMD FreeSync Premium Pro",
+    "curvature": "1000R",
+    "stand": "Height 120 mm, tilt, swivel",
+    "colors": "Black"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-SAMSUNG-LS40FG75DENXZA",
+   "slug": "samsung-odyssey-g7-g75f-40-wuhd",
+   "name": "Samsung Odyssey G7 G75F 40\" WUHD 180Hz Curved Gaming Monitor",
+   "brand": "Samsung",
+   "category": "ultrawide-monitors",
+   "price": "699.99",
+   "compareAt": "999.99",
+   "warranty": 12,
+   "stock": [
+    29,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "gaming-monsters"
+   ],
+   "summary": "40-inch 21:9 WUHD (5120 x 2160) 1000R curved VA gaming monitor at 180 Hz with DisplayHDR 600 and PiP/PbP.",
+   "description": "The Samsung Odyssey G7 G75F 40-inch is a 5120 x 2160 (WUHD) 21:9 ultrawide VA gaming monitor with a 1000R curve, 180 Hz refresh and 1 ms response. Samsung lists 3,000:1 contrast, 350 nits, 90% DCI-P3 / 99% sRGB coverage, VESA DisplayHDR 600, HDR10+ Gaming and FreeSync Premium Pro, Picture-in-Picture and Picture-by-Picture, DisplayPort 1.4, two HDMI 2.1 ports and a USB hub.",
+   "keywords": "samsung odyssey g7 g75f 40 wuhd 5k2k 180hz ultrawide curved gaming monitor ls40fg75denxza",
+   "specs": {
+    "sizeIn": 40,
+    "resolution": "5120x2160",
+    "refreshHz": 180,
+    "panel": "VA",
+    "hdr": "VESA DisplayHDR 600, HDR10+ Gaming",
+    "colorGamut": "90% DCI-P3, 99% sRGB",
+    "inputs": "DisplayPort 1.4, 2x HDMI 2.1, USB-B upstream, 2x USB-A 5Gbps",
+    "responseTimeMs": 1,
+    "brightnessNits": 350,
+    "adaptiveSync": "AMD FreeSync Premium Pro",
+    "curvature": "1000R",
+    "stand": "Height 120 mm, tilt, swivel",
+    "colors": "Black"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-SAMSUNG-LS49FG910ENXZA",
+   "slug": "samsung-odyssey-g9-g91f-49-dqhd",
+   "name": "Samsung Odyssey G9 G91F 49\" DQHD 144Hz Curved Gaming Monitor",
+   "brand": "Samsung",
+   "category": "ultrawide-monitors",
+   "price": "649.99",
+   "compareAt": "999.99",
+   "warranty": 12,
+   "stock": [
+    50,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "gaming-monsters",
+    "ultimate-gaming-setup"
+   ],
+   "summary": "49-inch 32:9 Dual QHD (5120 x 1440) 1000R curved VA super-ultrawide at 144 Hz with DisplayHDR 600.",
+   "description": "The Samsung Odyssey G9 G91F is a 49-inch 32:9 5120 x 1440 VA super-ultrawide gaming monitor with a 1000R curve, 144 Hz refresh and 1 ms gray-to-gray response. Samsung lists 2,500:1 contrast, 350 nits, 92% DCI-P3 coverage, VESA DisplayHDR 600, HDR10+ Gaming and FreeSync Premium Pro, with Picture-by-Picture, DisplayPort 1.4, two HDMI 2.1 ports and a USB hub on a height-adjustable stand.",
+   "keywords": "samsung odyssey g9 g91f 49 dqhd super ultrawide 144hz curved gaming monitor",
+   "specs": {
+    "sizeIn": 49,
+    "resolution": "5120x1440",
+    "refreshHz": 144,
+    "panel": "VA",
+    "hdr": "VESA DisplayHDR 600, HDR10+ Gaming",
+    "colorGamut": "92% DCI-P3",
+    "inputs": "DisplayPort 1.4, 2x HDMI 2.1, USB-B upstream, 2x USB-A 5Gbps",
+    "responseTimeMs": 1,
+    "brightnessNits": 350,
+    "adaptiveSync": "AMD FreeSync Premium Pro",
+    "curvature": "1000R",
+    "stand": "Height 120 mm, tilt, swivel",
+    "colors": "Black"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-SAMSUNG-LS27H802UANXZA",
+   "slug": "samsung-viewfinity-s8-s80uh-4k",
+   "name": "Samsung ViewFinity S8 S80UH 4K UHD USB-C Monitor",
+   "brand": "Samsung",
+   "category": "professional-monitors",
+   "price": "399.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    8,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "developer-setup",
+    "small-business"
+   ],
+   "summary": "27- or 32-inch 4K IPS business monitor with 90 W USB-C, KVM switch, RJ45 LAN and a height/tilt/swivel/pivot stand.",
+   "description": "The Samsung ViewFinity S8 S80UH (2026) is a 3840 x 2160 IPS monitor offered in 27-inch and 32-inch sizes. Samsung lists 350 nits, 99% sRGB coverage and HDR10, and a USB-C port with 90 W charging, a built-in KVM switch, Ethernet LAN, a USB 3.2 hub, HDMI 2.0 and DisplayPort 1.2, plus PiP/PbP. Specs describe the 27-inch model.",
+   "keywords": "samsung viewfinity s8 s80uh 4k usb-c 90w kvm business monitor 27 32",
+   "specs": {
+    "sizeIn": 27,
+    "resolution": "3840x2160",
+    "refreshHz": 60,
+    "panel": "IPS",
+    "hdr": "HDR10",
+    "colorGamut": "99% sRGB",
+    "inputs": "USB-C (90W charging), HDMI 2.0, DisplayPort 1.2, RJ45 LAN, USB-B upstream, 3x USB-A + USB-C downstream, KVM",
+    "usbCPowerW": 90,
+    "responseTimeMs": 5,
+    "brightnessNits": 350,
+    "stand": "Height 120 mm, tilt, swivel, pivot",
+    "configurations": "27-inch (LS27H802UANXZA) – $399.99 · 32-inch (LS32H802UANXZA) – $429.99",
+    "colors": "Black"
+   },
+   "options": [
+    {
+     "name": "Size",
+     "values": [
+      {
+       "label": "27-inch (LS27H802UANXZA)",
+       "price": "399.99",
+       "default": true
+      },
+      {
+       "label": "32-inch (LS32H802UANXZA)",
+       "price": "429.99"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "sku": "TK-SAMSUNG-LS32FM701UNXZA",
+   "slug": "samsung-movingstyle-essential-4k-smart-monitor",
+   "name": "Samsung The MovingStyle Essential 4K Smart Monitor with Rolling Stand",
+   "brand": "Samsung",
+   "category": "office-monitors",
+   "price": "499.99",
+   "compareAt": "699.99",
+   "warranty": 12,
+   "stock": [
+    18,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [],
+   "summary": "4K UHD smart monitor on a height-adjustable rolling stand with Tizen streaming apps, 65 W USB-C, Wi-Fi 5 and speakers.",
+   "description": "The Samsung MovingStyle Essential pairs a 4K UHD (3840 x 2160) VA smart monitor with a white rolling floor stand that adjusts height by 8 inches and supports tilt, swing and pivot. Samsung lists 300 nits, 3,000:1 contrast and HDR10, built-in streaming apps and Samsung Gaming Hub, wireless screen mirroring, Wi-Fi 5, Bluetooth 5.2, two HDMI 2.0 ports, USB-C with 65 W charging and built-in speakers. It comes in 32-inch (10 W speakers) and 43-inch (20 W) sizes; specs describe the 32-inch model.",
+   "keywords": "samsung movingstyle essential smart monitor rolling stand 4k tizen 32 43 m7",
+   "specs": {
+    "sizeIn": 32,
+    "resolution": "3840x2160",
+    "refreshHz": 60,
+    "panel": "VA",
+    "hdr": "HDR10",
+    "inputs": "2x HDMI 2.0, USB-C (65W charging), Wi-Fi 5, Bluetooth 5.2",
+    "usbCPowerW": 65,
+    "responseTimeMs": 4,
+    "brightnessNits": 300,
+    "stand": "Rolling floor stand: height (8 in), tilt, swing, pivot",
+    "configurations": "32-inch (LS32FM701UNXZA) – $499.99 · 43-inch (LS43FM70YUNXZA) – $699.99",
+    "colors": "White"
+   },
+   "options": [
+    {
+     "name": "Size",
+     "values": [
+      {
+       "label": "32-inch (LS32FM701UNXZA)",
+       "price": "499.99",
+       "default": true
+      },
+      {
+       "label": "43-inch (LS43FM70YUNXZA)",
+       "price": "699.99"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "sku": "TK-ASUS-PG27AQDP",
+   "slug": "asus-rog-swift-oled-pg27aqdp",
+   "name": "ASUS ROG Swift OLED PG27AQDP",
+   "brand": "ASUS",
+   "category": "gaming-monitors",
+   "price": "799.00",
+   "compareAt": null,
+   "warranty": 36,
+   "stock": [
+    46,
+    5
+   ],
+   "featured": true,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "gaming-monsters",
+    "oled-displays",
+    "ultimate-gaming-setup"
+   ],
+   "summary": "26.5-inch QHD WOLED esports monitor with a native 480 Hz refresh rate, 0.03 ms response and OLED Care+ burn-in protection.",
+   "description": "The ROG Swift OLED PG27AQDP is a 26.5-inch 2560 x 1440 WOLED gaming monitor with a native 480 Hz refresh rate and 0.03 ms response time. ASUS pairs it with OLED Care+ functions, a custom heatsink and anti-flicker technology, FreeSync Premium and G-Sync compatibility, and connects over DisplayPort 1.4 (DSC) and two HDMI 2.1 ports; the warranty is 3 years including panel burn-in.",
+   "keywords": "asus rog swift oled pg27aqdp 480hz woled qhd esports gaming monitor",
+   "specs": {
+    "sizeIn": 26.5,
+    "resolution": "2560x1440",
+    "refreshHz": 480,
+    "panel": "OLED",
+    "inputs": "DisplayPort 1.4 DSC, 2x HDMI 2.1 (FRL), 2x USB 3.2 Gen 1 Type-A hub, earphone jack",
+    "responseTimeMs": 0.03,
+    "adaptiveSync": "FreeSync Premium, G-Sync Compatible",
+    "stand": "Tilt",
+    "panelDetails": "WOLED"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-ASUS-XG32UCWG",
+   "slug": "asus-rog-strix-oled-xg32ucwg",
+   "name": "ASUS ROG Strix OLED XG32UCWG",
+   "brand": "ASUS",
+   "category": "gaming-monitors",
+   "price": "799.00",
+   "compareAt": null,
+   "warranty": 36,
+   "stock": [
+    9,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "gaming-monsters",
+    "oled-displays"
+   ],
+   "summary": "32-inch 4K TrueBlack Glossy WOLED gaming monitor with dual mode (4K 165 Hz / FHD 330 Hz), DisplayHDR True Black 400 and 99% DCI-P3.",
+   "description": "The ROG Strix OLED XG32UCWG is a 31.5-inch 3840 x 2160 WOLED gaming monitor with a TrueBlack Glossy surface and a dual mode that runs 4K at 165 Hz or FHD at 330 Hz. ASUS lists VESA DisplayHDR 400 True Black, 99% DCI-P3, true 10-bit color and Delta E < 2, FreeSync Premium Pro and G-Sync compatibility, OLED Care Pro with a proximity sensor, and DisplayPort 1.4 (DSC), two HDMI 2.1 ports and USB-C with 15 W power delivery.",
+   "keywords": "asus rog strix oled xg32ucwg 32 4k 165hz 330hz dual mode woled glossy",
+   "specs": {
+    "sizeIn": 31.5,
+    "resolution": "3840x2160",
+    "refreshHz": 165,
+    "panel": "OLED",
+    "hdr": "VESA DisplayHDR 400 True Black",
+    "colorGamut": "99% DCI-P3",
+    "inputs": "DisplayPort 1.4 DSC, 2x HDMI 2.1 (FRL), USB-C (DP Alt Mode, 15W PD), 3x USB 3.2 Gen 1 Type-A hub",
+    "usbCPowerW": 15,
+    "adaptiveSync": "FreeSync Premium Pro, G-Sync Compatible",
+    "stand": "Tilt, swivel",
+    "panelDetails": "WOLED"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-ASUS-XG27UCGR",
+   "slug": "asus-rog-strix-xg27ucg-gen2-xg27ucgr",
+   "name": "ASUS ROG Strix XG27UCG Gen2 (XG27UCGR)",
+   "brand": "ASUS",
+   "category": "gaming-monitors",
+   "price": "399.00",
+   "compareAt": null,
+   "warranty": 36,
+   "stock": [
+    18,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "gaming-monsters"
+   ],
+   "summary": "27-inch 4K Fast IPS gaming monitor with dual mode (4K 162 Hz / FHD 485 Hz), 0.3 ms response, 95% DCI-P3 and USB-C.",
+   "description": "The ROG Strix XG27UCG Gen2 (XG27UCGR) is a 27-inch 3840 x 2160 Fast IPS gaming monitor with a dual mode that switches between 4K at 162 Hz and FHD at 485 Hz. ASUS lists 0.3 ms (min.) response, 400 nits, 1,300:1 contrast, 95% DCI-P3, ELMB Sync and Adaptive-Sync, with DisplayPort 1.4, HDMI 2.1 and USB-C (DP Alt Mode, 15 W). It is sold in black and in a white XG27UCGR-W version.",
+   "keywords": "asus rog strix xg27ucg gen2 xg27ucgr 4k 162hz 485hz dual mode ips gaming monitor white",
+   "specs": {
+    "sizeIn": 27,
+    "resolution": "3840x2160",
+    "refreshHz": 162,
+    "panel": "IPS",
+    "colorGamut": "95% DCI-P3",
+    "inputs": "DisplayPort 1.4, HDMI 2.1, USB-C (DP Alt Mode, 15W PD), earphone jack",
+    "usbCPowerW": 15,
+    "responseTimeMs": 0.3,
+    "brightnessNits": 400,
+    "adaptiveSync": "Adaptive-Sync, ELMB Sync",
+    "stand": "Tilt, swivel",
+    "panelDetails": "Fast IPS",
+    "configurations": "Black (XG27UCGR) – $399 · White (XG27UCGR-W) – $429",
+    "colors": "Black, White"
+   },
+   "options": [
+    {
+     "name": "Configuration",
+     "values": [
+      {
+       "label": "Black (XG27UCGR)",
+       "price": "399.00",
+       "default": true
+      },
+      {
+       "label": "White (XG27UCGR-W)",
+       "price": "429.00"
+      }
+     ]
+    },
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Black",
+       "default": true,
+       "image": {
+        "small": "/images/catalog/asus-rog-strix-xg27ucg-gen2-xg27ucgr--black-400.webp",
+        "large": "/images/catalog/asus-rog-strix-xg27ucg-gen2-xg27ucgr--black-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "ASUS ROG Strix XG27UCG Gen2 gaming monitor in black, front view on its stand"
+       }
+      },
+      {
+       "label": "White",
+       "image": {
+        "small": "/images/catalog/asus-rog-strix-xg27ucg-gen2-xg27ucgr--white-400.webp",
+        "large": "/images/catalog/asus-rog-strix-xg27ucg-gen2-xg27ucgr--white-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "ASUS ROG Strix XG27UCG-W Gen2 gaming monitor in white, front view on its stand"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "sku": "TK-ASUS-PA32KCX",
+   "slug": "asus-proart-display-8k-pa32kcx",
+   "name": "ASUS ProArt Display 8K PA32KCX",
+   "brand": "ASUS",
+   "category": "professional-monitors",
+   "price": "8799.00",
+   "compareAt": null,
+   "warranty": 36,
+   "stock": [
+    8,
+    3
+   ],
+   "featured": true,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "creator-workstations"
+   ],
+   "summary": "32-inch 8K (7680 x 4320) Mini-LED IPS reference monitor with 1,200-nit HDR peak, Dolby Vision, dual Thunderbolt 4 and DisplayPort 2.1.",
+   "description": "The ASUS ProArt Display PA32KCX is a 32-inch 7680 x 4320 IPS monitor with a Mini-LED backlight, 275 PPI and an anti-glare low-reflection surface. ASUS lists 97% DCI-P3, 95% Adobe RGB and 99% sRGB coverage, 1,000 nits typical and 1,200 nits HDR peak, Dolby Vision support and ProArt hardware calibration. I/O includes two Thunderbolt 4 ports with daisy-chain, DisplayPort 2.1, two HDMI 2.1 ports, a USB hub, 96 W USB-C power delivery and a KVM switch.",
+   "keywords": "asus proart pa32kcx 8k mini-led reference monitor dolby vision thunderbolt 4",
+   "specs": {
+    "sizeIn": 32,
+    "resolution": "7680x4320",
+    "refreshHz": 60,
+    "panel": "IPS Mini LED",
+    "hdr": "Dolby Vision, HDR10",
+    "colorGamut": "97% DCI-P3, 95% Adobe RGB, 99% sRGB",
+    "inputs": "2x Thunderbolt 4 (daisy chain), DisplayPort 2.1, 2x HDMI 2.1, USB-C + 3x USB-A 10Gbps hub, KVM",
+    "usbCPowerW": 96,
+    "responseTimeMs": 5,
+    "brightnessNits": 1200,
+    "stand": "Height 100 mm, tilt, swivel, pivot",
+    "panelDetails": "IPS, Mini-LED backlight"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-ASUS-PA32UCDM",
+   "slug": "asus-proart-display-oled-pa32ucdm",
+   "name": "ASUS ProArt Display OLED PA32UCDM",
+   "brand": "ASUS",
+   "category": "professional-monitors",
+   "price": "1699.00",
+   "compareAt": null,
+   "warranty": 36,
+   "stock": [
+    58,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "creator-workstations",
+    "oled-displays"
+   ],
+   "summary": "32-inch 4K QD-OLED ProArt monitor at 240 Hz with 99% DCI-P3, Dolby Vision, dual Thunderbolt 4 and 96 W power delivery.",
+   "description": "The ASUS ProArt Display OLED PA32UCDM is a 31.5-inch 3840 x 2160 QD-OLED monitor with a 240 Hz refresh rate and 0.1 ms response. ASUS lists 99% DCI-P3 and 100% sRGB coverage, 250 nits typical and 1,000 nits HDR peak, Dolby Vision, ProArt hardware calibration and HDR preview. It has two Thunderbolt 4 ports with daisy-chain, HDMI 2.1, a USB hub, 96 W USB-C power delivery and a height/tilt/pivot stand.",
+   "keywords": "asus proart oled pa32ucdm 32 4k qd-oled 240hz thunderbolt creator monitor",
+   "specs": {
+    "sizeIn": 31.5,
+    "resolution": "3840x2160",
+    "refreshHz": 240,
+    "panel": "QD-OLED",
+    "hdr": "Dolby Vision",
+    "colorGamut": "99% DCI-P3, 100% sRGB",
+    "inputs": "2x Thunderbolt 4 (daisy chain), HDMI 2.1, USB-C + USB-A 10Gbps hub",
+    "usbCPowerW": 96,
+    "responseTimeMs": 0.1,
+    "brightnessNits": 1000,
+    "stand": "Height 130 mm, tilt, pivot"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-ASUS-PA32QCV",
+   "slug": "asus-proart-display-6k-pa32qcv",
+   "name": "ASUS ProArt Display 6K PA32QCV",
+   "brand": "ASUS",
+   "category": "professional-monitors",
+   "price": "1299.00",
+   "compareAt": null,
+   "warranty": 36,
+   "stock": [
+    9,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "creator-workstations",
+    "developer-setup"
+   ],
+   "summary": "32-inch 6K (6016 x 3384) IPS creator monitor with 98% DCI-P3, dual Thunderbolt 4, 96 W power delivery and a KVM switch.",
+   "description": "The ASUS ProArt Display 6K PA32QCV is a 31.5-inch 6016 x 3384 IPS monitor with an anti-glare low-reflection surface. ASUS lists 98% DCI-P3 and 100% sRGB coverage, 400 nits typical and 600 nits HDR peak, 3,000:1 contrast and HDR10. I/O includes two Thunderbolt 4 ports with daisy-chain, DisplayPort 1.4 (DSC), HDMI 2.1, a USB hub, 96 W USB-C power delivery and a built-in KVM, on a height/tilt/swivel/pivot stand.",
+   "keywords": "asus proart pa32qcv 6k 32 thunderbolt 4 creator monitor mac",
+   "specs": {
+    "sizeIn": 31.5,
+    "resolution": "6016x3384",
+    "refreshHz": 60,
+    "panel": "IPS",
+    "hdr": "HDR10",
+    "colorGamut": "98% DCI-P3, 100% sRGB",
+    "inputs": "2x Thunderbolt 4 (daisy chain), DisplayPort 1.4 DSC, HDMI 2.1, USB-C + 2x USB-A hub, KVM",
+    "usbCPowerW": 96,
+    "responseTimeMs": 5,
+    "brightnessNits": 600,
+    "stand": "Height 130 mm, tilt, swivel, pivot"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-ASUS-PA169CDV",
+   "slug": "asus-proart-display-pa169cdv",
+   "name": "ASUS ProArt Display PA169CDV Portable Pen Display",
+   "brand": "ASUS",
+   "category": "professional-monitors",
+   "price": "649.00",
+   "compareAt": null,
+   "warranty": 36,
+   "stock": [
+    26,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "creator-workstations"
+   ],
+   "summary": "15.6-inch 4K IPS portable pen display with 10-point touch, bundled Wacom EMR ProArt Pen, 100% sRGB and Calman-verified accuracy.",
+   "description": "The ASUS ProArt Display PA169CDV is a 15.6-inch 3840 x 2160 IPS portable monitor with capacitive 10-point touch and a bundled ProArt Pen using Wacom EMR technology. ASUS lists 100% sRGB, 92% Adobe RGB and 88% DCI-P3 coverage, 450 nits typical, factory calibration to Delta E < 2, the ASUS Dial, two kickstands, and USB-C (DP Alt Mode) plus HDMI 2.0 inputs.",
+   "keywords": "asus proart pa169cdv portable 4k pen display touch wacom emr creator",
+   "specs": {
+    "sizeIn": 15.6,
+    "resolution": "3840x2160",
+    "refreshHz": 60,
+    "panel": "IPS",
+    "hdr": "HDR10",
+    "colorGamut": "100% sRGB, 92% Adobe RGB, 88% DCI-P3",
+    "inputs": "USB-C (DP Alt Mode), HDMI 2.0",
+    "responseTimeMs": 10,
+    "brightnessNits": 450,
+    "stand": "Two built-in kickstands (tilt), pivot",
+    "panelDetails": "IPS, 10-point touch"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-ASUS-MQ16FC",
+   "slug": "asus-zenscreen-oled-mq16fc",
+   "name": "ASUS ZenScreen OLED MQ16FC Portable Monitor",
+   "brand": "ASUS",
+   "category": "office-monitors",
+   "price": "279.00",
+   "compareAt": null,
+   "warranty": 36,
+   "stock": [
+    25,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "developer-setup"
+   ],
+   "summary": "16-inch 16:10 FHD+ OLED portable monitor with two USB-C ports, mini-HDMI, power pass-through and auto-rotation.",
+   "description": "The ASUS ZenScreen OLED MQ16FC is a 16-inch 1920 x 1200 (16:10) OLED portable monitor with an 89% screen-to-body ratio, 95% DCI-P3 coverage, 300 nits and 1 ms response. It has two full-function USB-C ports and a mini-HDMI port, supports power pass-through charging, and switches automatically between landscape and portrait via DisplayWidget Center.",
+   "keywords": "asus zenscreen oled mq16fc portable monitor 16 usb-c travel laptop second screen",
+   "specs": {
+    "sizeIn": 16,
+    "resolution": "1920x1200",
+    "refreshHz": 60,
+    "panel": "OLED",
+    "colorGamut": "95% DCI-P3",
+    "inputs": "2x USB-C (DP Alt Mode, power pass-through), mini-HDMI, earphone jack",
+    "responseTimeMs": 1,
+    "brightnessNits": 300
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-ASUS-VG34WQ5F",
+   "slug": "asus-tuf-gaming-vg34wq5f",
+   "name": "ASUS TUF Gaming VG34WQ5F",
+   "brand": "ASUS",
+   "category": "ultrawide-monitors",
+   "price": "369.00",
+   "compareAt": null,
+   "warranty": 36,
+   "stock": [
+    29,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "gaming-monsters"
+   ],
+   "summary": "34-inch 1500R curved WQHD Fast VA ultrawide with dual mode (WQHD 200 Hz / HD 400 Hz), 0.5 ms response and FreeSync Premium.",
+   "description": "The ASUS TUF Gaming VG34WQ5F is a 34-inch 3440 x 1440 Fast VA gaming monitor with a 1500R curve and a dual mode that runs WQHD at 200 Hz or HD at 400 Hz. ASUS lists 0.5 ms (min.) response, 400 nits, 4,000:1 contrast, HDR10, FreeSync Premium and ELMB Sync, with two DisplayPort 1.4 and two HDMI 2.1 ports, a USB hub and 2 W speakers.",
+   "keywords": "asus tuf gaming vg34wq5f 34 ultrawide curved 200hz 400hz budget",
+   "specs": {
+    "sizeIn": 34,
+    "resolution": "3440x1440",
+    "refreshHz": 200,
+    "panel": "VA",
+    "hdr": "HDR10",
+    "inputs": "2x DisplayPort 1.4, 2x HDMI 2.1, 2x USB 3.2 Gen 1 Type-A hub, earphone jack",
+    "responseTimeMs": 0.5,
+    "brightnessNits": 400,
+    "adaptiveSync": "FreeSync Premium, ELMB Sync",
+    "curvature": "1500R",
+    "stand": "Tilt",
+    "panelDetails": "Fast VA"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-ASUS-VG279QM5F",
+   "slug": "asus-tuf-gaming-vg279qm5f",
+   "name": "ASUS TUF Gaming VG279QM5F",
+   "brand": "ASUS",
+   "category": "gaming-monitors",
+   "price": "199.00",
+   "compareAt": null,
+   "warranty": 36,
+   "stock": [
+    29,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [],
+   "summary": "27-inch FHD Fast IPS esports monitor overclockable to 260 Hz with 0.3 ms response, FreeSync Premium and G-Sync compatibility.",
+   "description": "The ASUS TUF Gaming VG279QM5F is a 27-inch 1920 x 1080 Fast IPS gaming monitor with a refresh rate overclockable to 260 Hz and a 0.3 ms (min.) response time. ASUS lists 300 nits, 99% sRGB, HDR10, FreeSync Premium and G-Sync compatibility, ELMB Sync, DisplayPort 1.4 and two HDMI 2.1 ports, and 2 W speakers.",
+   "keywords": "asus tuf gaming vg279qm5f 27 fhd 260hz fast ips budget esports",
+   "specs": {
+    "sizeIn": 27,
+    "resolution": "1920x1080",
+    "refreshHz": 260,
+    "panel": "IPS",
+    "hdr": "HDR10",
+    "colorGamut": "99% sRGB",
+    "inputs": "DisplayPort 1.4, 2x HDMI 2.1, earphone jack",
+    "responseTimeMs": 0.3,
+    "brightnessNits": 300,
+    "adaptiveSync": "FreeSync Premium, G-Sync Compatible, ELMB Sync",
+    "stand": "Tilt",
+    "panelDetails": "Fast IPS"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-LENOVO-LEGION-R45W-30",
+   "slug": "lenovo-legion-r45w-30",
+   "name": "Lenovo Legion R45w-30 44.5\" Curved DQHD 170Hz Gaming Monitor",
+   "brand": "Lenovo",
+   "category": "ultrawide-monitors",
+   "price": "899.99",
+   "compareAt": "1199.99",
+   "warranty": 12,
+   "stock": [
+    34,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "gaming-monsters"
+   ],
+   "summary": "44.5-inch 32:9 Dual QHD (5120 x 1440) curved VA super-ultrawide at 165 Hz (170 Hz OC) with USB-C, Ethernet and KVM.",
+   "description": "The Lenovo Legion R45w-30 is a 44.5-inch 32:9 curved VA gaming monitor with a 5120 x 1440 resolution, 165 Hz refresh (170 Hz overclocked) and 1 ms MPRT response. Lenovo lists 450 nits, 3,000:1 contrast and 95% DCI-P3 coverage, True Split, PiP/PbP, a KVM switch and dual 3 W speakers. Connectivity includes USB-C (DP 1.4 Alt Mode), two HDMI 2.1 ports, DisplayPort 1.4, Ethernet and a USB hub, on a height/tilt/swivel stand.",
+   "keywords": "lenovo legion r45w-30 45 super ultrawide dqhd 165hz 170hz curved usb-c kvm",
+   "specs": {
+    "sizeIn": 44.5,
+    "resolution": "5120x1440",
+    "refreshHz": 170,
+    "panel": "VA",
+    "colorGamut": "95% DCI-P3, 99% sRGB",
+    "inputs": "USB-C (DP 1.4 Alt Mode), 2x HDMI 2.1, DisplayPort 1.4, Ethernet, USB-B up + 3x USB-A 5Gbps, KVM",
+    "responseTimeMs": 1,
+    "brightnessNits": 450,
+    "stand": "Height 135 mm, tilt, swivel"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-LENOVO-LEGION-R34W-30",
+   "slug": "lenovo-legion-r34w-30",
+   "name": "Lenovo Legion R34w-30 34\" Curved WQHD 180Hz Gaming Monitor",
+   "brand": "Lenovo",
+   "category": "ultrawide-monitors",
+   "price": "289.99",
+   "compareAt": "449.99",
+   "warranty": 12,
+   "stock": [
+    58,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "gaming-monsters"
+   ],
+   "summary": "34-inch 21:9 curved WQHD VA gaming monitor at 180 Hz with 0.5 ms MPRT, 90% DCI-P3 and built-in speakers.",
+   "description": "The Lenovo Legion R34w-30 is a 34-inch 3440 x 1440 curved VA gaming monitor running at 180 Hz with 0.5 ms MPRT response. Lenovo lists 350 nits, 3,000:1 contrast, 99% sRGB / 90% DCI-P3 coverage, ClearMR 8000 certification and dual 3 W speakers, with two HDMI 2.1 ports and DisplayPort 1.4 on a height/tilt/swivel stand.",
+   "keywords": "lenovo legion r34w-30 34 ultrawide curved wqhd 180hz budget gaming monitor",
+   "specs": {
+    "sizeIn": 34,
+    "resolution": "3440x1440",
+    "refreshHz": 180,
+    "panel": "VA",
+    "colorGamut": "99% sRGB, 90% DCI-P3",
+    "inputs": "2x HDMI 2.1, DisplayPort 1.4, audio out",
+    "responseTimeMs": 0.5,
+    "brightnessNits": 350,
+    "stand": "Height 135 mm, tilt, swivel"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-LENOVO-LEGION-27U-10",
+   "slug": "lenovo-legion-27u-10",
+   "name": "Lenovo Legion 27U-10 27\" 4K 160Hz / FHD 320Hz Dual-Mode Gaming Monitor",
+   "brand": "Lenovo",
+   "category": "gaming-monitors",
+   "price": "269.99",
+   "compareAt": "399.99",
+   "warranty": 12,
+   "stock": [
+    49,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "gaming-monsters"
+   ],
+   "summary": "27-inch 4K IPS gaming monitor with a dual-resolution mode (4K 160 Hz / FHD 320 Hz), 95% DCI-P3 and a height/pivot stand.",
+   "description": "The Lenovo Legion 27U-10 is a 27-inch 3840 x 2160 IPS gaming monitor with a dual-resolution mode that runs 4K at 160 Hz or FHD at 320 Hz. Lenovo lists 0.5 ms MPRT response, 300 nits, 10-bit color and 99% sRGB / 95% DCI-P3 coverage, with two HDMI 2.1 ports and DisplayPort 1.4 on a stand with height, tilt, swivel and pivot adjustment.",
+   "keywords": "lenovo legion 27u-10 4k 160hz 320hz dual mode ips gaming monitor",
+   "specs": {
+    "sizeIn": 27,
+    "resolution": "3840x2160",
+    "refreshHz": 160,
+    "panel": "IPS",
+    "colorGamut": "99% sRGB, 95% DCI-P3",
+    "inputs": "2x HDMI 2.1, DisplayPort 1.4, audio out",
+    "responseTimeMs": 0.5,
+    "brightnessNits": 300,
+    "stand": "Height 135 mm, tilt, swivel, pivot"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-LENOVO-LEGION-27Q-10-OLED",
+   "slug": "lenovo-legion-27q-10-oled",
+   "name": "Lenovo Legion 27Q-10 OLED 27\" QHD 240Hz Gaming Monitor",
+   "brand": "Lenovo",
+   "category": "gaming-monitors",
+   "price": "399.99",
+   "compareAt": "629.99",
+   "warranty": 12,
+   "stock": [
+    22,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "oled-displays",
+    "gaming-monsters"
+   ],
+   "summary": "26.5-inch QHD OLED gaming monitor at 240 Hz with 0.3 ms MPRT, 99% DCI-P3, true 10-bit color and Delta E < 2.",
+   "description": "The Lenovo Legion 27Q-10 OLED is a 26.5-inch 2560 x 1440 OLED gaming monitor running at 240 Hz with 0.3 ms MPRT response and 1,500,000:1 contrast. Lenovo lists 99% sRGB and 99% DCI-P3 coverage, true 10-bit color and average Delta E < 2, with DisplayPort 1.4 and two HDMI 2.1 inputs on a height/tilt/swivel/pivot stand.",
+   "keywords": "lenovo legion 27q-10 oled qhd 240hz budget oled gaming monitor",
+   "specs": {
+    "sizeIn": 26.5,
+    "resolution": "2560x1440",
+    "refreshHz": 240,
+    "panel": "OLED",
+    "colorGamut": "99% DCI-P3, 99% sRGB",
+    "inputs": "DisplayPort 1.4, 2x HDMI 2.1",
+    "responseTimeMs": 0.3,
+    "brightnessNits": 200,
+    "stand": "Height 135 mm, tilt, swivel, pivot"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-LENOVO-LEGION-25-10",
+   "slug": "lenovo-legion-25-10",
+   "name": "Lenovo Legion 25-10 24.5\" FHD 320Hz Gaming Monitor",
+   "brand": "Lenovo",
+   "category": "gaming-monitors",
+   "price": "129.99",
+   "compareAt": "189.99",
+   "warranty": 12,
+   "stock": [
+    38,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [],
+   "summary": "24.5-inch FHD IPS esports monitor at 320 Hz with 0.5 ms MPRT and a height, tilt, swivel and pivot stand.",
+   "description": "The Lenovo Legion 25-10 is a 24.5-inch 1920 x 1080 IPS gaming monitor running at 320 Hz with 0.5 ms MPRT response. Lenovo lists 300 nits, 1,000:1 contrast and 99% sRGB coverage, with HDMI 2.1 and DisplayPort 1.4 inputs and a stand with height, tilt, swivel and pivot adjustment.",
+   "keywords": "lenovo legion 25-10 320hz fhd esports budget gaming monitor",
+   "specs": {
+    "sizeIn": 24.5,
+    "resolution": "1920x1080",
+    "refreshHz": 320,
+    "panel": "IPS",
+    "colorGamut": "99% sRGB",
+    "inputs": "HDMI 2.1, DisplayPort 1.4, audio out",
+    "responseTimeMs": 0.5,
+    "brightnessNits": 300,
+    "stand": "Height 135 mm, tilt, swivel, pivot"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-LENOVO-THINKVISION-T34WD-40",
+   "slug": "lenovo-thinkvision-t34wd-40",
+   "name": "Lenovo ThinkVision T34WD-40 34\" WQHD 120Hz Curved USB-C Monitor",
+   "brand": "Lenovo",
+   "category": "ultrawide-monitors",
+   "price": "295.00",
+   "compareAt": "623.00",
+   "warranty": 12,
+   "stock": [
+    39,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "small-business",
+    "developer-setup"
+   ],
+   "summary": "34-inch curved WQHD VA business ultrawide at 120 Hz with a USB-C hub, RJ45 and a height/swivel/pivot stand.",
+   "description": "The Lenovo ThinkVision T34WD-40 is a 34-inch 3440 x 1440 curved VA monitor at 120 Hz with 300 nits, 3,000:1 contrast and 99% sRGB coverage. It has HDMI 2.1, DisplayPort 1.4, a USB-C upstream port, three USB-A and one USB-C downstream ports, RJ45 Ethernet and support for an optional soundbar and ThinkCentre Tiny, on a stand with height, tilt, swivel and pivot adjustment.",
+   "keywords": "lenovo thinkvision t34wd-40 34 curved ultrawide usb-c rj45 business monitor",
+   "specs": {
+    "sizeIn": 34,
+    "resolution": "3440x1440",
+    "refreshHz": 120,
+    "panel": "VA",
+    "colorGamut": "99% sRGB, 99% BT.709",
+    "inputs": "HDMI 2.1, DisplayPort 1.4, USB-C upstream, 3x USB-A + USB-C (15W) downstream, RJ45",
+    "responseTimeMs": 4,
+    "brightnessNits": 300,
+    "stand": "Height 155 mm, tilt, swivel, pivot"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-LENOVO-THINKVISION-P27U-20",
+   "slug": "lenovo-thinkvision-p27u-20",
+   "name": "Lenovo ThinkVision P27u-20 27\" 4K Thunderbolt 4 Monitor",
+   "brand": "Lenovo",
+   "category": "professional-monitors",
+   "price": "499.00",
+   "compareAt": "884.00",
+   "warranty": 12,
+   "stock": [
+    56,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "creator-workstations",
+    "developer-setup"
+   ],
+   "summary": "27-inch 4K IPS monitor with 99.5% Adobe RGB / 99.1% DCI-P3, Delta E < 1, Thunderbolt 4 in/out and RJ45.",
+   "description": "The Lenovo ThinkVision P27u-20 is a 27-inch 3840 x 2160 IPS monitor with 400 nits typical (450 peak) and factory calibration to an average Delta E < 1. Lenovo lists 99.1% DCI-P3, 99.5% Adobe RGB and 100% sRGB coverage. Connectivity includes Thunderbolt 4 in and out, two HDMI 2.0 ports, DisplayPort 1.2, RJ45 and a USB hub, plus dual 3 W speakers and a lift/tilt/swivel/pivot stand.",
+   "keywords": "lenovo thinkvision p27u-20 27 4k thunderbolt 4 color accurate adobe rgb",
+   "specs": {
+    "sizeIn": 27,
+    "resolution": "3840x2160",
+    "refreshHz": 60,
+    "panel": "IPS",
+    "colorGamut": "99.1% DCI-P3, 99.5% Adobe RGB, 100% sRGB",
+    "inputs": "Thunderbolt 4 in + out, 2x HDMI 2.0, DisplayPort 1.2, RJ45, 3x USB-A + USB-C downstream",
+    "responseTimeMs": 4,
+    "brightnessNits": 450,
+    "stand": "Lift, tilt, swivel, pivot"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-LENOVO-L32P-30",
+   "slug": "lenovo-l32p-30",
+   "name": "Lenovo L32p-30 31.5\" 4K USB-C Monitor",
+   "brand": "Lenovo",
+   "category": "office-monitors",
+   "price": "339.99",
+   "compareAt": "469.99",
+   "warranty": 12,
+   "stock": [
+    18,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [],
+   "summary": "31.5-inch 4K IPS monitor with USB-C (DP Alt Mode), 90% DCI-P3, FreeSync and dual 3 W speakers.",
+   "description": "The Lenovo L32p-30 is a 31.5-inch 3840 x 2160 IPS monitor at 60 Hz with 350 nits, 1,000:1 contrast and 90% DCI-P3 coverage. It connects via HDMI 2.0, DisplayPort 1.2 and USB-C with DisplayPort Alt Mode, supports AMD FreeSync and has dual 3 W speakers on a tilt stand.",
+   "keywords": "lenovo l32p-30 32 4k usb-c monitor ips speakers",
+   "specs": {
+    "sizeIn": 31.5,
+    "resolution": "3840x2160",
+    "refreshHz": 60,
+    "panel": "IPS",
+    "colorGamut": "90% DCI-P3",
+    "inputs": "HDMI 2.0, DisplayPort 1.2, USB-C (DP 1.2 Alt Mode), audio out",
+    "responseTimeMs": 4,
+    "brightnessNits": 350,
+    "adaptiveSync": "AMD FreeSync",
+    "stand": "Tilt"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-LENOVO-THINKVISION-M14T-G2",
+   "slug": "lenovo-thinkvision-m14t-gen-2",
+   "name": "Lenovo ThinkVision M14t Gen 2 14\" Portable Touch Monitor",
+   "brand": "Lenovo",
+   "category": "office-monitors",
+   "price": "297.00",
+   "compareAt": "459.00",
+   "warranty": 12,
+   "stock": [
+    58,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "developer-setup",
+    "small-business"
+   ],
+   "summary": "14-inch 2240 x 1400 IPS portable touch monitor with pen support, 100% sRGB and two USB-C ports.",
+   "description": "The Lenovo ThinkVision M14t Gen 2 is a 14-inch 16:10 portable touchscreen monitor with a 2240 x 1400 IPS panel, pen/digitizer support, 300 nits and 100% sRGB coverage. It connects over two USB-C ports with DisplayPort 1.2 Alt Mode and has a built-in stand with tilt, lift and pivot.",
+   "keywords": "lenovo thinkvision m14t gen 2 portable touch monitor pen usb-c travel",
+   "specs": {
+    "sizeIn": 14,
+    "resolution": "2240x1400",
+    "refreshHz": 60,
+    "panel": "IPS",
+    "colorGamut": "100% sRGB",
+    "inputs": "2x USB-C (DP 1.2 Alt Mode)",
+    "responseTimeMs": 6,
+    "brightnessNits": 300,
+    "stand": "Built-in stand: tilt, lift, pivot",
+    "panelDetails": "IPS, touch with pen support"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-LENOVO-L15",
+   "slug": "lenovo-l15-portable-monitor",
+   "name": "Lenovo L15 15.6\" FHD USB-C Portable Monitor",
+   "brand": "Lenovo",
+   "category": "office-monitors",
+   "price": "149.99",
+   "compareAt": "239.99",
+   "warranty": 12,
+   "stock": [
+    58,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [],
+   "summary": "15.6-inch FHD IPS portable monitor with two USB-C ports (DP Alt Mode) and a fold-out stand.",
+   "description": "The Lenovo L15 is a 15.6-inch 1920 x 1080 IPS portable monitor at 60 Hz with 250 nits and 1,000:1 contrast. It connects to laptops over either of two USB-C ports with DisplayPort 1.2 Alt Mode and includes a USB-C cable and a tilting stand.",
+   "keywords": "lenovo l15 portable monitor 15.6 usb-c laptop second screen",
+   "specs": {
+    "sizeIn": 15.6,
+    "resolution": "1920x1080",
+    "refreshHz": 60,
+    "panel": "IPS",
+    "colorGamut": "45% NTSC",
+    "inputs": "2x USB-C (DP 1.2 Alt Mode)",
+    "responseTimeMs": 6,
+    "brightnessNits": 250,
+    "stand": "Built-in stand: tilt"
+   },
+   "options": []
+  }
+ ]
+}
