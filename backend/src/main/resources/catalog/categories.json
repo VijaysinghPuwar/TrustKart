@@ -1,5 +1,9 @@
 {
   "extensions": [
+    { "extend": "more-tech", "children": [
+        { "slug": "cases-protection", "name": "Cases & screen protection",
+          "specs": [ { "key": "accessoryType", "label": "Type", "type": "TEXT", "group": "Design", "filterable": true }, { "key": "compatibility", "label": "Fits", "type": "TEXT", "group": "Compatibility", "filterable": true },
+                     { "key": "material", "label": "Material", "type": "TEXT", "group": "Design" }, { "key": "magsafe", "label": "MagSafe", "type": "BOOLEAN", "group": "Compatibility", "filterable": true } ] } ] },
     { "extend": "storage", "children": [
         { "slug": "flash-drives-memory-cards", "name": "USB flash drives & memory cards",
           "specs": [ { "key": "mediaType", "label": "Type", "type": "TEXT", "group": "Storage", "filterable": true }, { "key": "readMbps", "label": "Read speed", "type": "NUMBER", "unit": "MB/s", "group": "Performance" },
@@ -188,7 +192,10 @@
       ],
       "children": [
         { "slug": "smartwatches", "name": "Smartwatches" },
-        { "slug": "smart-rings", "name": "Smart rings & trackers" }
+        { "slug": "smart-rings", "name": "Smart rings & trackers" },
+        { "slug": "watch-bands", "name": "Watch bands",
+          "specs": [ { "key": "bandType", "label": "Band type", "type": "TEXT", "group": "Design", "filterable": true }, { "key": "fitsCaseMm", "label": "Fits case sizes", "type": "TEXT", "group": "Compatibility", "filterable": true },
+                     { "key": "material", "label": "Material", "type": "TEXT", "group": "Design" }, { "key": "bandSize", "label": "Band sizes", "type": "TEXT", "group": "Design" } ] }
       ] },
     { "slug": "audio", "name": "Audio", "description": "Headphones, earbuds, speakers, soundbars and studio audio.",
       "specs": [

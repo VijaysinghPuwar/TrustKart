@@ -1,0 +1,4609 @@
+{
+ "products": [
+  {
+   "sku": "TK-APPLE-AWSPORTBAND-40",
+   "slug": "apple-watch-sport-band-40mm",
+   "name": "Apple Watch Sport Band (40mm)",
+   "brand": "Apple",
+   "category": "watch-bands",
+   "price": "49.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    10,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "apple-ecosystem"
+   ],
+   "summary": "Apple Sport Band for 38mm, 40mm, 41mm Apple Watch cases, offered in 8 colors and 2 band sizes; $49 at the Apple Store.",
+   "description": "Made from a custom high-performance rubber, the Sport Band is durable and strong, yet surprisingly soft. The smooth, dense material drapes elegantly across your wrist and feels comfortable next to your skin. An innovative pin-and-tuck closure ensures a clean fit.",
+   "keywords": "apple watch band strap sport 40mm",
+   "specs": {
+    "bandType": "Sport Band (pin-and-tuck)",
+    "fitsCaseMm": "38mm, 40mm, 41mm",
+    "material": "Rubber",
+    "bandSize": "S/M, M/L",
+    "compatibility": "Apple Watch with 38mm, 40mm, 41mm case",
+    "configurations": "S/M – $49 · M/L – $49",
+    "colors": "Navy Blue, Magenta, Olive, Burgundy, Wildflower Blue, Pale Succulent, Sand, Black"
+   },
+   "options": [
+    {
+     "name": "Configuration",
+     "values": [
+      {
+       "label": "S/M",
+       "price": "49.00",
+       "default": true
+      },
+      {
+       "label": "M/L",
+       "price": "49.00"
+      }
+     ]
+    },
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Navy Blue",
+       "default": true,
+       "image": {
+        "small": "/images/catalog/apple-watch-sport-band-40mm--navy-blue-400.webp",
+        "large": "/images/catalog/apple-watch-sport-band-40mm--navy-blue-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple Watch Sport Band (40mm) in Navy Blue, front view of the band on a white background"
+       }
+      },
+      {
+       "label": "Magenta",
+       "image": {
+        "small": "/images/catalog/apple-watch-sport-band-40mm--magenta-400.webp",
+        "large": "/images/catalog/apple-watch-sport-band-40mm--magenta-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple Watch Sport Band (40mm) in Magenta, front view of the band on a white background"
+       }
+      },
+      {
+       "label": "Olive",
+       "image": {
+        "small": "/images/catalog/apple-watch-sport-band-40mm--olive-400.webp",
+        "large": "/images/catalog/apple-watch-sport-band-40mm--olive-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple Watch Sport Band (40mm) in Olive, front view of the band on a white background"
+       }
+      },
+      {
+       "label": "Burgundy",
+       "image": {
+        "small": "/images/catalog/apple-watch-sport-band-40mm--burgundy-400.webp",
+        "large": "/images/catalog/apple-watch-sport-band-40mm--burgundy-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple Watch Sport Band (40mm) in Burgundy, front view of the band on a white background"
+       }
+      },
+      {
+       "label": "Wildflower Blue",
+       "image": {
+        "small": "/images/catalog/apple-watch-sport-band-40mm--wildflower-blue-400.webp",
+        "large": "/images/catalog/apple-watch-sport-band-40mm--wildflower-blue-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple Watch Sport Band (40mm) in Wildflower Blue, front view of the band on a white background"
+       }
+      },
+      {
+       "label": "Pale Succulent",
+       "image": {
+        "small": "/images/catalog/apple-watch-sport-band-40mm--pale-succulent-400.webp",
+        "large": "/images/catalog/apple-watch-sport-band-40mm--pale-succulent-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple Watch Sport Band (40mm) in Pale Succulent, front view of the band on a white background"
+       }
+      },
+      {
+       "label": "Sand",
+       "image": {
+        "small": "/images/catalog/apple-watch-sport-band-40mm--sand-400.webp",
+        "large": "/images/catalog/apple-watch-sport-band-40mm--sand-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple Watch Sport Band (40mm) in Sand, front view of the band on a white background"
+       }
+      },
+      {
+       "label": "Black",
+       "image": {
+        "small": "/images/catalog/apple-watch-sport-band-40mm--black-400.webp",
+        "large": "/images/catalog/apple-watch-sport-band-40mm--black-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple Watch Sport Band (40mm) in Black, front view of the band on a white background"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "sku": "TK-APPLE-AWSPORTBAND-42",
+   "slug": "apple-watch-sport-band-42mm",
+   "name": "Apple Watch Sport Band (42mm)",
+   "brand": "Apple",
+   "category": "watch-bands",
+   "price": "49.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    50,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "apple-ecosystem"
+   ],
+   "summary": "Apple Sport Band for 38mm, 40mm, 41mm, 42mm Apple Watch cases, offered in 8 colors and 2 band sizes; $49 at the Apple Store.",
+   "description": "Made from a custom high-performance rubber, the Sport Band is durable and strong, yet surprisingly soft. The smooth, dense material drapes elegantly across your wrist and feels comfortable next to your skin. An innovative pin-and-tuck closure ensures a clean fit.",
+   "keywords": "apple watch band strap sport 42mm",
+   "specs": {
+    "bandType": "Sport Band (pin-and-tuck)",
+    "fitsCaseMm": "38mm, 40mm, 41mm, 42mm",
+    "material": "Rubber",
+    "bandSize": "S/M, M/L",
+    "compatibility": "Apple Watch with 38mm, 40mm, 41mm, 42mm case",
+    "configurations": "S/M – $49 · M/L – $49",
+    "colors": "Navy Blue, Magenta, Olive, Burgundy, Wildflower Blue, Pale Succulent, Sand, Black"
+   },
+   "options": [
+    {
+     "name": "Configuration",
+     "values": [
+      {
+       "label": "S/M",
+       "price": "49.00",
+       "default": true
+      },
+      {
+       "label": "M/L",
+       "price": "49.00"
+      }
+     ]
+    },
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Navy Blue",
+       "default": true,
+       "image": {
+        "small": "/images/catalog/apple-watch-sport-band-42mm--navy-blue-400.webp",
+        "large": "/images/catalog/apple-watch-sport-band-42mm--navy-blue-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple Watch Sport Band (42mm) in Navy Blue, front view of the band on a white background"
+       }
+      },
+      {
+       "label": "Magenta",
+       "image": {
+        "small": "/images/catalog/apple-watch-sport-band-42mm--magenta-400.webp",
+        "large": "/images/catalog/apple-watch-sport-band-42mm--magenta-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple Watch Sport Band (42mm) in Magenta, front view of the band on a white background"
+       }
+      },
+      {
+       "label": "Olive",
+       "image": {
+        "small": "/images/catalog/apple-watch-sport-band-42mm--olive-400.webp",
+        "large": "/images/catalog/apple-watch-sport-band-42mm--olive-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple Watch Sport Band (42mm) in Olive, front view of the band on a white background"
+       }
+      },
+      {
+       "label": "Burgundy",
+       "image": {
+        "small": "/images/catalog/apple-watch-sport-band-42mm--burgundy-400.webp",
+        "large": "/images/catalog/apple-watch-sport-band-42mm--burgundy-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple Watch Sport Band (42mm) in Burgundy, front view of the band on a white background"
+       }
+      },
+      {
+       "label": "Wildflower Blue",
+       "image": {
+        "small": "/images/catalog/apple-watch-sport-band-42mm--wildflower-blue-400.webp",
+        "large": "/images/catalog/apple-watch-sport-band-42mm--wildflower-blue-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple Watch Sport Band (42mm) in Wildflower Blue, front view of the band on a white background"
+       }
+      },
+      {
+       "label": "Pale Succulent",
+       "image": {
+        "small": "/images/catalog/apple-watch-sport-band-42mm--pale-succulent-400.webp",
+        "large": "/images/catalog/apple-watch-sport-band-42mm--pale-succulent-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple Watch Sport Band (42mm) in Pale Succulent, front view of the band on a white background"
+       }
+      },
+      {
+       "label": "Sand",
+       "image": {
+        "small": "/images/catalog/apple-watch-sport-band-42mm--sand-400.webp",
+        "large": "/images/catalog/apple-watch-sport-band-42mm--sand-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple Watch Sport Band (42mm) in Sand, front view of the band on a white background"
+       }
+      },
+      {
+       "label": "Black",
+       "image": {
+        "small": "/images/catalog/apple-watch-sport-band-42mm--black-400.webp",
+        "large": "/images/catalog/apple-watch-sport-band-42mm--black-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple Watch Sport Band (42mm) in Black, front view of the band on a white background"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "sku": "TK-APPLE-AWSPORTBAND-46",
+   "slug": "apple-watch-sport-band-46mm",
+   "name": "Apple Watch Sport Band (46mm)",
+   "brand": "Apple",
+   "category": "watch-bands",
+   "price": "49.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    23,
+    5
+   ],
+   "featured": true,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "apple-ecosystem"
+   ],
+   "summary": "Apple Sport Band for 44mm, 45mm, 46mm, 49mm Apple Watch cases, offered in 8 colors and 3 band sizes; $49 at the Apple Store.",
+   "description": "Made from a custom high-performance rubber, the Sport Band is durable and strong, yet surprisingly soft. The smooth, dense material drapes elegantly across your wrist and feels comfortable next to your skin. An innovative pin-and-tuck closure ensures a clean fit.",
+   "keywords": "apple watch band strap sport 46mm",
+   "specs": {
+    "bandType": "Sport Band (pin-and-tuck)",
+    "fitsCaseMm": "44mm, 45mm, 46mm, 49mm",
+    "material": "Rubber",
+    "bandSize": "S/M, M/L, XL",
+    "compatibility": "Apple Watch with 44mm, 45mm, 46mm, 49mm case",
+    "configurations": "S/M – $49 · M/L – $49 · XL (Black only) – $49",
+    "colors": "Navy Blue, Magenta, Olive, Burgundy, Wildflower Blue, Pale Succulent, Sand, Black"
+   },
+   "options": [
+    {
+     "name": "Configuration",
+     "values": [
+      {
+       "label": "S/M",
+       "price": "49.00",
+       "default": true
+      },
+      {
+       "label": "M/L",
+       "price": "49.00"
+      },
+      {
+       "label": "XL (Black only)",
+       "price": "49.00"
+      }
+     ]
+    },
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Navy Blue",
+       "default": true,
+       "image": {
+        "small": "/images/catalog/apple-watch-sport-band-46mm--navy-blue-400.webp",
+        "large": "/images/catalog/apple-watch-sport-band-46mm--navy-blue-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple Watch Sport Band (46mm) in Navy Blue, front view of the band on a white background"
+       }
+      },
+      {
+       "label": "Magenta",
+       "image": {
+        "small": "/images/catalog/apple-watch-sport-band-46mm--magenta-400.webp",
+        "large": "/images/catalog/apple-watch-sport-band-46mm--magenta-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple Watch Sport Band (46mm) in Magenta, front view of the band on a white background"
+       }
+      },
+      {
+       "label": "Olive",
+       "image": {
+        "small": "/images/catalog/apple-watch-sport-band-46mm--olive-400.webp",
+        "large": "/images/catalog/apple-watch-sport-band-46mm--olive-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple Watch Sport Band (46mm) in Olive, front view of the band on a white background"
+       }
+      },
+      {
+       "label": "Burgundy",
+       "image": {
+        "small": "/images/catalog/apple-watch-sport-band-46mm--burgundy-400.webp",
+        "large": "/images/catalog/apple-watch-sport-band-46mm--burgundy-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple Watch Sport Band (46mm) in Burgundy, front view of the band on a white background"
+       }
+      },
+      {
+       "label": "Wildflower Blue",
+       "image": {
+        "small": "/images/catalog/apple-watch-sport-band-46mm--wildflower-blue-400.webp",
+        "large": "/images/catalog/apple-watch-sport-band-46mm--wildflower-blue-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple Watch Sport Band (46mm) in Wildflower Blue, front view of the band on a white background"
+       }
+      },
+      {
+       "label": "Pale Succulent",
+       "image": {
+        "small": "/images/catalog/apple-watch-sport-band-46mm--pale-succulent-400.webp",
+        "large": "/images/catalog/apple-watch-sport-band-46mm--pale-succulent-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple Watch Sport Band (46mm) in Pale Succulent, front view of the band on a white background"
+       }
+      },
+      {
+       "label": "Sand",
+       "image": {
+        "small": "/images/catalog/apple-watch-sport-band-46mm--sand-400.webp",
+        "large": "/images/catalog/apple-watch-sport-band-46mm--sand-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple Watch Sport Band (46mm) in Sand, front view of the band on a white background"
+       }
+      },
+      {
+       "label": "Black",
+       "image": {
+        "small": "/images/catalog/apple-watch-sport-band-46mm--black-400.webp",
+        "large": "/images/catalog/apple-watch-sport-band-46mm--black-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple Watch Sport Band (46mm) in Black, front view of the band on a white background"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "sku": "TK-APPLE-AWSPORTLOOP-40",
+   "slug": "apple-watch-sport-loop-40mm",
+   "name": "Apple Watch Sport Loop (40mm)",
+   "brand": "Apple",
+   "category": "watch-bands",
+   "price": "49.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    31,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "apple-ecosystem"
+   ],
+   "summary": "Apple Sport Loop for 38mm, 40mm, 41mm Apple Watch cases, offered in 8 colors; $49 at the Apple Store.",
+   "description": "Soft, breathable, and lightweight, the Sport Loop features a hook-and-loop fastener for quick and easy adjustment. The double-layer nylon weave has dense loops on the skin side that provide soft cushioning while allowing moisture to escape.",
+   "keywords": "apple watch band strap sport loop 40mm",
+   "specs": {
+    "bandType": "Sport Loop (hook-and-loop)",
+    "fitsCaseMm": "38mm, 40mm, 41mm",
+    "material": "80% recycled nylon, 100% recycled polyester, 100% recycled spandex",
+    "compatibility": "Apple Watch with 38mm, 40mm, 41mm case",
+    "colors": "Olive, Light Umber Plaid, Burgundy, Burgundy Plaid, Limestone, Magenta, Chambray Blue, Pride Edition"
+   },
+   "options": [
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Olive",
+       "default": true,
+       "image": {
+        "small": "/images/catalog/apple-watch-sport-loop-40mm--olive-400.webp",
+        "large": "/images/catalog/apple-watch-sport-loop-40mm--olive-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple Watch Sport Loop (40mm) in Olive, front view of the band on a white background"
+       }
+      },
+      {
+       "label": "Light Umber Plaid",
+       "image": {
+        "small": "/images/catalog/apple-watch-sport-loop-40mm--light-umber-plaid-400.webp",
+        "large": "/images/catalog/apple-watch-sport-loop-40mm--light-umber-plaid-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple Watch Sport Loop (40mm) in Light Umber Plaid, front view of the band on a white background"
+       }
+      },
+      {
+       "label": "Burgundy",
+       "image": {
+        "small": "/images/catalog/apple-watch-sport-loop-40mm--burgundy-400.webp",
+        "large": "/images/catalog/apple-watch-sport-loop-40mm--burgundy-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple Watch Sport Loop (40mm) in Burgundy, front view of the band on a white background"
+       }
+      },
+      {
+       "label": "Burgundy Plaid",
+       "image": {
+        "small": "/images/catalog/apple-watch-sport-loop-40mm--burgundy-plaid-400.webp",
+        "large": "/images/catalog/apple-watch-sport-loop-40mm--burgundy-plaid-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple Watch Sport Loop (40mm) in Burgundy Plaid, front view of the band on a white background"
+       }
+      },
+      {
+       "label": "Limestone",
+       "image": {
+        "small": "/images/catalog/apple-watch-sport-loop-40mm--limestone-400.webp",
+        "large": "/images/catalog/apple-watch-sport-loop-40mm--limestone-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple Watch Sport Loop (40mm) in Limestone, front view of the band on a white background"
+       }
+      },
+      {
+       "label": "Magenta",
+       "image": {
+        "small": "/images/catalog/apple-watch-sport-loop-40mm--magenta-400.webp",
+        "large": "/images/catalog/apple-watch-sport-loop-40mm--magenta-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple Watch Sport Loop (40mm) in Magenta, front view of the band on a white background"
+       }
+      },
+      {
+       "label": "Chambray Blue",
+       "image": {
+        "small": "/images/catalog/apple-watch-sport-loop-40mm--chambray-blue-400.webp",
+        "large": "/images/catalog/apple-watch-sport-loop-40mm--chambray-blue-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple Watch Sport Loop (40mm) in Chambray Blue, front view of the band on a white background"
+       }
+      },
+      {
+       "label": "Pride Edition",
+       "image": {
+        "small": "/images/catalog/apple-watch-sport-loop-40mm--pride-edition-400.webp",
+        "large": "/images/catalog/apple-watch-sport-loop-40mm--pride-edition-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple Watch Sport Loop (40mm) in Pride Edition, front view of the band on a white background"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "sku": "TK-APPLE-AWSPORTLOOP-42",
+   "slug": "apple-watch-sport-loop-42mm",
+   "name": "Apple Watch Sport Loop (42mm)",
+   "brand": "Apple",
+   "category": "watch-bands",
+   "price": "49.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    19,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "apple-ecosystem"
+   ],
+   "summary": "Apple Sport Loop for 38mm, 40mm, 41mm, 42mm Apple Watch cases, offered in 9 colors; $49 at the Apple Store.",
+   "description": "Soft, breathable, and lightweight, the Sport Loop features a hook-and-loop fastener for quick and easy adjustment. The double-layer nylon weave has dense loops on the skin side that provide soft cushioning while allowing moisture to escape.",
+   "keywords": "apple watch band strap sport loop 42mm",
+   "specs": {
+    "bandType": "Sport Loop (hook-and-loop)",
+    "fitsCaseMm": "38mm, 40mm, 41mm, 42mm",
+    "material": "80% recycled nylon, 100% recycled polyester, 100% recycled spandex",
+    "compatibility": "Apple Watch with 38mm, 40mm, 41mm, 42mm case",
+    "colors": "Olive, Light Umber Plaid, Burgundy, Burgundy Plaid, Limestone, Magenta, Chambray Blue, Pride Edition, Black Unity (Unity Rhythm)"
+   },
+   "options": [
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Olive",
+       "default": true,
+       "image": {
+        "small": "/images/catalog/apple-watch-sport-loop-42mm--olive-400.webp",
+        "large": "/images/catalog/apple-watch-sport-loop-42mm--olive-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple Watch Sport Loop (42mm) in Olive, front view of the band on a white background"
+       }
+      },
+      {
+       "label": "Light Umber Plaid",
+       "image": {
+        "small": "/images/catalog/apple-watch-sport-loop-42mm--light-umber-plaid-400.webp",
+        "large": "/images/catalog/apple-watch-sport-loop-42mm--light-umber-plaid-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple Watch Sport Loop (42mm) in Light Umber Plaid, front view of the band on a white background"
+       }
+      },
+      {
+       "label": "Burgundy",
+       "image": {
+        "small": "/images/catalog/apple-watch-sport-loop-42mm--burgundy-400.webp",
+        "large": "/images/catalog/apple-watch-sport-loop-42mm--burgundy-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple Watch Sport Loop (42mm) in Burgundy, front view of the band on a white background"
+       }
+      },
+      {
+       "label": "Burgundy Plaid",
+       "image": {
+        "small": "/images/catalog/apple-watch-sport-loop-42mm--burgundy-plaid-400.webp",
+        "large": "/images/catalog/apple-watch-sport-loop-42mm--burgundy-plaid-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple Watch Sport Loop (42mm) in Burgundy Plaid, front view of the band on a white background"
+       }
+      },
+      {
+       "label": "Limestone",
+       "image": {
+        "small": "/images/catalog/apple-watch-sport-loop-42mm--limestone-400.webp",
+        "large": "/images/catalog/apple-watch-sport-loop-42mm--limestone-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple Watch Sport Loop (42mm) in Limestone, front view of the band on a white background"
+       }
+      },
+      {
+       "label": "Magenta",
+       "image": {
+        "small": "/images/catalog/apple-watch-sport-loop-42mm--magenta-400.webp",
+        "large": "/images/catalog/apple-watch-sport-loop-42mm--magenta-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple Watch Sport Loop (42mm) in Magenta, front view of the band on a white background"
+       }
+      },
+      {
+       "label": "Chambray Blue",
+       "image": {
+        "small": "/images/catalog/apple-watch-sport-loop-42mm--chambray-blue-400.webp",
+        "large": "/images/catalog/apple-watch-sport-loop-42mm--chambray-blue-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple Watch Sport Loop (42mm) in Chambray Blue, front view of the band on a white background"
+       }
+      },
+      {
+       "label": "Pride Edition",
+       "image": {
+        "small": "/images/catalog/apple-watch-sport-loop-42mm--pride-edition-400.webp",
+        "large": "/images/catalog/apple-watch-sport-loop-42mm--pride-edition-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple Watch Sport Loop (42mm) in Pride Edition, front view of the band on a white background"
+       }
+      },
+      {
+       "label": "Black Unity (Unity Rhythm)",
+       "image": {
+        "small": "/images/catalog/apple-watch-sport-loop-42mm--black-unity-unity-rhythm-400.webp",
+        "large": "/images/catalog/apple-watch-sport-loop-42mm--black-unity-unity-rhythm-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple Watch Sport Loop (42mm) in Black Unity (Unity Rhythm), front view of the band on a white background"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "sku": "TK-APPLE-AWSPORTLOOP-46",
+   "slug": "apple-watch-sport-loop-46mm",
+   "name": "Apple Watch Sport Loop (46mm)",
+   "brand": "Apple",
+   "category": "watch-bands",
+   "price": "49.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    10,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "apple-ecosystem"
+   ],
+   "summary": "Apple Sport Loop for 44mm, 45mm, 46mm, 49mm Apple Watch cases, offered in 9 colors and 2 band sizes; $49 at the Apple Store.",
+   "description": "Soft, breathable, and lightweight, the Sport Loop features a hook-and-loop fastener for quick and easy adjustment. The double-layer nylon weave has dense loops on the skin side that provide soft cushioning while allowing moisture to escape.",
+   "keywords": "apple watch band strap sport loop 46mm",
+   "specs": {
+    "bandType": "Sport Loop (hook-and-loop)",
+    "fitsCaseMm": "44mm, 45mm, 46mm, 49mm",
+    "material": "80% recycled nylon, 100% recycled polyester, 100% recycled spandex",
+    "bandSize": "Standard, XL",
+    "compatibility": "Apple Watch with 44mm, 45mm, 46mm, 49mm case",
+    "configurations": "Standard – $49 · XL (Olive only) – $49",
+    "colors": "Olive, Light Umber Plaid, Burgundy, Burgundy Plaid, Limestone, Magenta, Chambray Blue, Pride Edition, Black Unity (Unity Rhythm)"
+   },
+   "options": [
+    {
+     "name": "Configuration",
+     "values": [
+      {
+       "label": "Standard",
+       "price": "49.00",
+       "default": true
+      },
+      {
+       "label": "XL (Olive only)",
+       "price": "49.00"
+      }
+     ]
+    },
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Olive",
+       "default": true,
+       "image": {
+        "small": "/images/catalog/apple-watch-sport-loop-46mm--olive-400.webp",
+        "large": "/images/catalog/apple-watch-sport-loop-46mm--olive-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple Watch Sport Loop (46mm) in Olive, front view of the band on a white background"
+       }
+      },
+      {
+       "label": "Light Umber Plaid",
+       "image": {
+        "small": "/images/catalog/apple-watch-sport-loop-46mm--light-umber-plaid-400.webp",
+        "large": "/images/catalog/apple-watch-sport-loop-46mm--light-umber-plaid-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple Watch Sport Loop (46mm) in Light Umber Plaid, front view of the band on a white background"
+       }
+      },
+      {
+       "label": "Burgundy",
+       "image": {
+        "small": "/images/catalog/apple-watch-sport-loop-46mm--burgundy-400.webp",
+        "large": "/images/catalog/apple-watch-sport-loop-46mm--burgundy-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple Watch Sport Loop (46mm) in Burgundy, front view of the band on a white background"
+       }
+      },
+      {
+       "label": "Burgundy Plaid",
+       "image": {
+        "small": "/images/catalog/apple-watch-sport-loop-46mm--burgundy-plaid-400.webp",
+        "large": "/images/catalog/apple-watch-sport-loop-46mm--burgundy-plaid-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple Watch Sport Loop (46mm) in Burgundy Plaid, front view of the band on a white background"
+       }
+      },
+      {
+       "label": "Limestone",
+       "image": {
+        "small": "/images/catalog/apple-watch-sport-loop-46mm--limestone-400.webp",
+        "large": "/images/catalog/apple-watch-sport-loop-46mm--limestone-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple Watch Sport Loop (46mm) in Limestone, front view of the band on a white background"
+       }
+      },
+      {
+       "label": "Magenta",
+       "image": {
+        "small": "/images/catalog/apple-watch-sport-loop-46mm--magenta-400.webp",
+        "large": "/images/catalog/apple-watch-sport-loop-46mm--magenta-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple Watch Sport Loop (46mm) in Magenta, front view of the band on a white background"
+       }
+      },
+      {
+       "label": "Chambray Blue",
+       "image": {
+        "small": "/images/catalog/apple-watch-sport-loop-46mm--chambray-blue-400.webp",
+        "large": "/images/catalog/apple-watch-sport-loop-46mm--chambray-blue-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple Watch Sport Loop (46mm) in Chambray Blue, front view of the band on a white background"
+       }
+      },
+      {
+       "label": "Pride Edition",
+       "image": {
+        "small": "/images/catalog/apple-watch-sport-loop-46mm--pride-edition-400.webp",
+        "large": "/images/catalog/apple-watch-sport-loop-46mm--pride-edition-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple Watch Sport Loop (46mm) in Pride Edition, front view of the band on a white background"
+       }
+      },
+      {
+       "label": "Black Unity (Unity Rhythm)",
+       "image": {
+        "small": "/images/catalog/apple-watch-sport-loop-46mm--black-unity-unity-rhythm-400.webp",
+        "large": "/images/catalog/apple-watch-sport-loop-46mm--black-unity-unity-rhythm-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple Watch Sport Loop (46mm) in Black Unity (Unity Rhythm), front view of the band on a white background"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "sku": "TK-APPLE-AWALPINELOOP-49",
+   "slug": "apple-watch-alpine-loop-49mm",
+   "name": "Apple Watch Alpine Loop (49mm)",
+   "brand": "Apple",
+   "category": "watch-bands",
+   "price": "99.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    40,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "apple-ecosystem"
+   ],
+   "summary": "Apple Alpine Loop for 44mm, 45mm, 46mm, 49mm Apple Watch cases, offered in 3 colors and 3 band sizes; $99 at the Apple Store.",
+   "description": "The rugged Alpine Loop is made from two textile layers woven together into one continuous piece without stitching. High-strength yarns reinforce the top loops, and the corrosion-resistant titanium G-hook slides easily into the loops for secure fit.",
+   "keywords": "apple watch band strap alpine loop 49mm ultra",
+   "specs": {
+    "bandType": "Alpine Loop (G-hook)",
+    "fitsCaseMm": "44mm, 45mm, 46mm, 49mm",
+    "material": "95% recycled polyester, 100% recycled spandex, 95% recycled titanium",
+    "bandSize": "Small, Medium, Large",
+    "compatibility": "Apple Watch with 44mm, 45mm, 46mm, 49mm case",
+    "configurations": "Small, Natural Titanium finish – $99 · Small, Black Titanium finish – $99 · Medium, Natural Titanium finish – $99 · Medium, Black Titanium finish – $99 · Large, Natural Titanium finish – $99 · Large, Black Titanium finish – $99",
+    "colors": "Dark Olive, Desert, Burgundy"
+   },
+   "options": [
+    {
+     "name": "Configuration",
+     "values": [
+      {
+       "label": "Small, Natural Titanium finish",
+       "price": "99.00",
+       "default": true
+      },
+      {
+       "label": "Small, Black Titanium finish",
+       "price": "99.00"
+      },
+      {
+       "label": "Medium, Natural Titanium finish",
+       "price": "99.00"
+      },
+      {
+       "label": "Medium, Black Titanium finish",
+       "price": "99.00"
+      },
+      {
+       "label": "Large, Natural Titanium finish",
+       "price": "99.00"
+      },
+      {
+       "label": "Large, Black Titanium finish",
+       "price": "99.00"
+      }
+     ]
+    },
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Dark Olive",
+       "default": true,
+       "image": {
+        "small": "/images/catalog/apple-watch-alpine-loop-49mm--dark-olive-400.webp",
+        "large": "/images/catalog/apple-watch-alpine-loop-49mm--dark-olive-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple Watch Alpine Loop (49mm) in Dark Olive with natural titanium finish, front view of the band on a white background"
+       }
+      },
+      {
+       "label": "Desert",
+       "image": {
+        "small": "/images/catalog/apple-watch-alpine-loop-49mm--desert-400.webp",
+        "large": "/images/catalog/apple-watch-alpine-loop-49mm--desert-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple Watch Alpine Loop (49mm) in Desert with natural titanium finish, front view of the band on a white background"
+       }
+      },
+      {
+       "label": "Burgundy",
+       "image": {
+        "small": "/images/catalog/apple-watch-alpine-loop-49mm--burgundy-400.webp",
+        "large": "/images/catalog/apple-watch-alpine-loop-49mm--burgundy-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple Watch Alpine Loop (49mm) in Burgundy with natural titanium finish, front view of the band on a white background"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "sku": "TK-APPLE-AWTRAILLOOP-49",
+   "slug": "apple-watch-trail-loop-49mm",
+   "name": "Apple Watch Trail Loop (49mm)",
+   "brand": "Apple",
+   "category": "watch-bands",
+   "price": "99.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    8,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "apple-ecosystem"
+   ],
+   "summary": "Apple Trail Loop for 44mm, 45mm, 46mm, 49mm Apple Watch cases, offered in 3 colors and 2 band sizes; $99 at the Apple Store.",
+   "description": "This ultrathin, lightweight, and stretchy band is made from a nylon weave for increased elasticity and a comfortable fit. The band is infinitely adjustable with a convenient pull tab for quick adjustments on the go, and it now features reflective yarn woven into its distinct edges.",
+   "keywords": "apple watch band strap trail loop 49mm ultra",
+   "specs": {
+    "bandType": "Trail Loop (hook-and-loop)",
+    "fitsCaseMm": "44mm, 45mm, 46mm, 49mm",
+    "material": "90% recycled polyester, 100% recycled spandex, 60% recycled nylon, 90% recycled titanium",
+    "bandSize": "S/M, M/L",
+    "compatibility": "Apple Watch with 44mm, 45mm, 46mm, 49mm case",
+    "configurations": "S/M, Natural Titanium finish – $99 · S/M, Black Titanium finish – $99 · M/L, Natural Titanium finish – $99 · M/L, Black Titanium finish – $99",
+    "colors": "Dark Umber, Sand, Burgundy"
+   },
+   "options": [
+    {
+     "name": "Configuration",
+     "values": [
+      {
+       "label": "S/M, Natural Titanium finish",
+       "price": "99.00",
+       "default": true
+      },
+      {
+       "label": "S/M, Black Titanium finish",
+       "price": "99.00"
+      },
+      {
+       "label": "M/L, Natural Titanium finish",
+       "price": "99.00"
+      },
+      {
+       "label": "M/L, Black Titanium finish",
+       "price": "99.00"
+      }
+     ]
+    },
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Dark Umber",
+       "default": true,
+       "image": {
+        "small": "/images/catalog/apple-watch-trail-loop-49mm--dark-umber-400.webp",
+        "large": "/images/catalog/apple-watch-trail-loop-49mm--dark-umber-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple Watch Trail Loop (49mm) in Dark Umber with natural titanium finish, front view of the band on a white background"
+       }
+      },
+      {
+       "label": "Sand",
+       "image": {
+        "small": "/images/catalog/apple-watch-trail-loop-49mm--sand-400.webp",
+        "large": "/images/catalog/apple-watch-trail-loop-49mm--sand-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple Watch Trail Loop (49mm) in Sand with natural titanium finish, front view of the band on a white background"
+       }
+      },
+      {
+       "label": "Burgundy",
+       "image": {
+        "small": "/images/catalog/apple-watch-trail-loop-49mm--burgundy-400.webp",
+        "large": "/images/catalog/apple-watch-trail-loop-49mm--burgundy-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple Watch Trail Loop (49mm) in Burgundy with natural titanium finish, front view of the band on a white background"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "sku": "TK-APPLE-AWOCEANBAND-49",
+   "slug": "apple-watch-ocean-band-49mm",
+   "name": "Apple Watch Ocean Band (49mm)",
+   "brand": "Apple",
+   "category": "watch-bands",
+   "price": "99.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    59,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "apple-ecosystem"
+   ],
+   "summary": "Apple Ocean Band for 44mm, 45mm, 46mm, 49mm Apple Watch cases, offered in 3 colors; $99 at the Apple Store.",
+   "description": "The Ocean Band is molded in a high-performance silicone with a tubular geometry allowing it to stretch for a perfect fit, even over a wetsuit. The corrosion-resistant titanium buckle and adjustable loop secure the strap during high-speed water sports. An extension band is sold separately — perfect if you need extra length to wear the band over your wetsuit.",
+   "keywords": "apple watch band strap ocean 49mm ultra",
+   "specs": {
+    "bandType": "Ocean Band (tubular, titanium buckle)",
+    "fitsCaseMm": "44mm, 45mm, 46mm, 49mm",
+    "material": "Silicone",
+    "compatibility": "Apple Watch with 44mm, 45mm, 46mm, 49mm case",
+    "configurations": "Natural Titanium finish – $99 · Black Titanium finish – $99",
+    "colors": "Translucent Gray, Translucent Kelp, Translucent Black"
+   },
+   "options": [
+    {
+     "name": "Configuration",
+     "values": [
+      {
+       "label": "Natural Titanium finish",
+       "price": "99.00",
+       "default": true
+      },
+      {
+       "label": "Black Titanium finish",
+       "price": "99.00"
+      }
+     ]
+    },
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Translucent Gray",
+       "default": true,
+       "image": {
+        "small": "/images/catalog/apple-watch-ocean-band-49mm--translucent-gray-400.webp",
+        "large": "/images/catalog/apple-watch-ocean-band-49mm--translucent-gray-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple Watch Ocean Band (49mm) in Translucent Gray with natural titanium finish, front view of the band on a white background"
+       }
+      },
+      {
+       "label": "Translucent Kelp",
+       "image": {
+        "small": "/images/catalog/apple-watch-ocean-band-49mm--translucent-kelp-400.webp",
+        "large": "/images/catalog/apple-watch-ocean-band-49mm--translucent-kelp-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple Watch Ocean Band (49mm) in Translucent Kelp with natural titanium finish, front view of the band on a white background"
+       }
+      },
+      {
+       "label": "Translucent Black",
+       "image": {
+        "small": "/images/catalog/apple-watch-ocean-band-49mm--translucent-black-400.webp",
+        "large": "/images/catalog/apple-watch-ocean-band-49mm--translucent-black-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple Watch Ocean Band (49mm) in Translucent Black with natural titanium finish, front view of the band on a white background"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "sku": "TK-APPLE-AWOCEANBANDEXTENSION-49",
+   "slug": "apple-watch-ocean-band-extension-49mm",
+   "name": "Apple Watch Ocean Band Extension (49mm)",
+   "brand": "Apple",
+   "category": "watch-bands",
+   "price": "49.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    32,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "apple-ecosystem"
+   ],
+   "summary": "Apple Ocean Band Extension for 44mm, 45mm, 46mm, 49mm Apple Watch cases, offered in 3 colors; $49 at the Apple Store.",
+   "description": "Made from the same high-performance silicone as the Ocean Band, this band extension lengthens the 49mm Ocean Band by an additional 50 millimeters — perfect if you need extra length to wear the band over your wetsuit. The extension comes with an extra adjustable, corrosion-resistant titanium loop, which you can place in any tube to tuck the excess band into. This extension must be used with the regular Ocean Band.",
+   "keywords": "apple watch band strap ocean extension 49mm ultra",
+   "specs": {
+    "bandType": "Ocean Band Extension",
+    "fitsCaseMm": "44mm, 45mm, 46mm, 49mm",
+    "material": "Silicone",
+    "compatibility": "Apple Watch with 44mm, 45mm, 46mm, 49mm case",
+    "configurations": "Natural Titanium finish – $49 · Black Titanium finish – $49",
+    "colors": "Translucent Gray, Translucent Kelp, Translucent Black"
+   },
+   "options": [
+    {
+     "name": "Configuration",
+     "values": [
+      {
+       "label": "Natural Titanium finish",
+       "price": "49.00",
+       "default": true
+      },
+      {
+       "label": "Black Titanium finish",
+       "price": "49.00"
+      }
+     ]
+    },
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Translucent Gray",
+       "default": true,
+       "image": {
+        "small": "/images/catalog/apple-watch-ocean-band-extension-49mm--translucent-gray-400.webp",
+        "large": "/images/catalog/apple-watch-ocean-band-extension-49mm--translucent-gray-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple Watch Ocean Band Extension (49mm) in Translucent Gray with natural titanium finish, front view of the band on a white background"
+       }
+      },
+      {
+       "label": "Translucent Kelp",
+       "image": {
+        "small": "/images/catalog/apple-watch-ocean-band-extension-49mm--translucent-kelp-400.webp",
+        "large": "/images/catalog/apple-watch-ocean-band-extension-49mm--translucent-kelp-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple Watch Ocean Band Extension (49mm) in Translucent Kelp with natural titanium finish, front view of the band on a white background"
+       }
+      },
+      {
+       "label": "Translucent Black",
+       "image": {
+        "small": "/images/catalog/apple-watch-ocean-band-extension-49mm--translucent-black-400.webp",
+        "large": "/images/catalog/apple-watch-ocean-band-extension-49mm--translucent-black-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple Watch Ocean Band Extension (49mm) in Translucent Black with natural titanium finish, front view of the band on a white background"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "sku": "TK-APPLE-AWTITANIUMMILANESELOOP-49",
+   "slug": "apple-watch-titanium-milanese-loop-49mm",
+   "name": "Apple Watch Ultra Titanium Milanese Loop (49mm)",
+   "brand": "Apple",
+   "category": "watch-bands",
+   "price": "199.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    39,
+    5
+   ],
+   "featured": true,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "apple-ecosystem"
+   ],
+   "summary": "Apple Titanium Milanese Loop for 44mm, 45mm, 46mm, 49mm Apple Watch cases, offered in 2 colors and 3 band sizes; $199 at the Apple Store.",
+   "description": "The Titanium Milanese Loop features aerospace-grade titanium mesh with a secure parachute-style buckle. Inspired by stainless steel mesh historically used by divers, the band is designed for ocean activities. Made of lightweight titanium, it’s perfect for any occasion.",
+   "keywords": "apple watch band strap titanium milanese loop 49mm ultra",
+   "specs": {
+    "bandType": "Titanium Milanese Loop (mesh)",
+    "fitsCaseMm": "44mm, 45mm, 46mm, 49mm",
+    "material": "95% recycled titanium",
+    "bandSize": "Small, Medium, Large",
+    "compatibility": "Apple Watch with 44mm, 45mm, 46mm, 49mm case",
+    "configurations": "Small – $199 · Medium – $199 · Large – $199",
+    "colors": "Natural, Black"
+   },
+   "options": [
+    {
+     "name": "Configuration",
+     "values": [
+      {
+       "label": "Small",
+       "price": "199.00",
+       "default": true
+      },
+      {
+       "label": "Medium",
+       "price": "199.00"
+      },
+      {
+       "label": "Large",
+       "price": "199.00"
+      }
+     ]
+    },
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Natural",
+       "default": true,
+       "image": {
+        "small": "/images/catalog/apple-watch-titanium-milanese-loop-49mm--natural-400.webp",
+        "large": "/images/catalog/apple-watch-titanium-milanese-loop-49mm--natural-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple Watch Ultra Titanium Milanese Loop (49mm) in Natural, front view of the band on a white background"
+       }
+      },
+      {
+       "label": "Black",
+       "image": {
+        "small": "/images/catalog/apple-watch-titanium-milanese-loop-49mm--black-400.webp",
+        "large": "/images/catalog/apple-watch-titanium-milanese-loop-49mm--black-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple Watch Ultra Titanium Milanese Loop (49mm) in Black, front view of the band on a white background"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "sku": "TK-APPLE-AWMILANESELOOP-40",
+   "slug": "apple-watch-milanese-loop-40mm",
+   "name": "Apple Watch Milanese Loop (40mm)",
+   "brand": "Apple",
+   "category": "watch-bands",
+   "price": "99.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    21,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "apple-ecosystem"
+   ],
+   "summary": "Apple Milanese Loop for 38mm, 40mm, 41mm Apple Watch cases, offered in 3 colors; $99 at the Apple Store.",
+   "description": "A modern interpretation of a design developed in Milan at the end of the 19th century. Woven on specialized Italian machines, the smooth stainless steel mesh wraps fluidly around your wrist. And because it’s fully magnetic, the Milanese Loop is infinitely adjustable, ensuring a perfect fit. An additional physical vapor deposition (PVD) layer gives the stainless steel its distinctive finish.",
+   "keywords": "apple watch band strap milanese loop 40mm",
+   "specs": {
+    "bandType": "Milanese Loop (magnetic mesh)",
+    "fitsCaseMm": "38mm, 40mm, 41mm",
+    "material": "60% recycled stainless steel, 100% recycled rare earth elements in all magnets",
+    "compatibility": "Apple Watch with 38mm, 40mm, 41mm case",
+    "colors": "Dark Bronze, Radiant Gold, Natural"
+   },
+   "options": [
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Dark Bronze",
+       "default": true,
+       "image": {
+        "small": "/images/catalog/apple-watch-milanese-loop-40mm--dark-bronze-400.webp",
+        "large": "/images/catalog/apple-watch-milanese-loop-40mm--dark-bronze-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple Watch Milanese Loop (40mm) in Dark Bronze, front view of the band on a white background"
+       }
+      },
+      {
+       "label": "Radiant Gold",
+       "image": {
+        "small": "/images/catalog/apple-watch-milanese-loop-40mm--radiant-gold-400.webp",
+        "large": "/images/catalog/apple-watch-milanese-loop-40mm--radiant-gold-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple Watch Milanese Loop (40mm) in Radiant Gold, front view of the band on a white background"
+       }
+      },
+      {
+       "label": "Natural",
+       "image": {
+        "small": "/images/catalog/apple-watch-milanese-loop-40mm--natural-400.webp",
+        "large": "/images/catalog/apple-watch-milanese-loop-40mm--natural-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple Watch Milanese Loop (40mm) in Natural, front view of the band on a white background"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "sku": "TK-APPLE-AWMILANESELOOP-42",
+   "slug": "apple-watch-milanese-loop-42mm",
+   "name": "Apple Watch Milanese Loop (42mm)",
+   "brand": "Apple",
+   "category": "watch-bands",
+   "price": "99.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    25,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "apple-ecosystem"
+   ],
+   "summary": "Apple Milanese Loop for 38mm, 40mm, 41mm, 42mm Apple Watch cases, offered in 3 colors; $99 at the Apple Store.",
+   "description": "A modern interpretation of a design developed in Milan at the end of the 19th century. Woven on specialized Italian machines, the smooth stainless steel mesh wraps fluidly around your wrist. And because it’s fully magnetic, the Milanese Loop is infinitely adjustable, ensuring a perfect fit. An additional physical vapor deposition (PVD) layer gives the stainless steel its distinctive finish.",
+   "keywords": "apple watch band strap milanese loop 42mm",
+   "specs": {
+    "bandType": "Milanese Loop (magnetic mesh)",
+    "fitsCaseMm": "38mm, 40mm, 41mm, 42mm",
+    "material": "60% recycled stainless steel, 100% recycled rare earth elements in all magnets",
+    "compatibility": "Apple Watch with 38mm, 40mm, 41mm, 42mm case",
+    "colors": "Dark Bronze, Radiant Gold, Natural"
+   },
+   "options": [
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Dark Bronze",
+       "default": true,
+       "image": {
+        "small": "/images/catalog/apple-watch-milanese-loop-42mm--dark-bronze-400.webp",
+        "large": "/images/catalog/apple-watch-milanese-loop-42mm--dark-bronze-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple Watch Milanese Loop (42mm) in Dark Bronze, front view of the band on a white background"
+       }
+      },
+      {
+       "label": "Radiant Gold",
+       "image": {
+        "small": "/images/catalog/apple-watch-milanese-loop-42mm--radiant-gold-400.webp",
+        "large": "/images/catalog/apple-watch-milanese-loop-42mm--radiant-gold-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple Watch Milanese Loop (42mm) in Radiant Gold, front view of the band on a white background"
+       }
+      },
+      {
+       "label": "Natural",
+       "image": {
+        "small": "/images/catalog/apple-watch-milanese-loop-42mm--natural-400.webp",
+        "large": "/images/catalog/apple-watch-milanese-loop-42mm--natural-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple Watch Milanese Loop (42mm) in Natural, front view of the band on a white background"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "sku": "TK-APPLE-AWMILANESELOOP-46",
+   "slug": "apple-watch-milanese-loop-46mm",
+   "name": "Apple Watch Milanese Loop (46mm)",
+   "brand": "Apple",
+   "category": "watch-bands",
+   "price": "99.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    8,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "apple-ecosystem"
+   ],
+   "summary": "Apple Milanese Loop for 44mm, 45mm, 46mm, 49mm Apple Watch cases, offered in 3 colors and 2 band sizes; $99 at the Apple Store.",
+   "description": "A modern interpretation of a design developed in Milan at the end of the 19th century. Woven on specialized Italian machines, the smooth stainless steel mesh wraps fluidly around your wrist. And because it’s fully magnetic, the Milanese Loop is infinitely adjustable, ensuring a perfect fit. An additional physical vapor deposition (PVD) layer gives the stainless steel its distinctive finish.",
+   "keywords": "apple watch band strap milanese loop 46mm",
+   "specs": {
+    "bandType": "Milanese Loop (magnetic mesh)",
+    "fitsCaseMm": "44mm, 45mm, 46mm, 49mm",
+    "material": "60% recycled stainless steel, 100% recycled rare earth elements in all magnets",
+    "bandSize": "S/M, M/L",
+    "compatibility": "Apple Watch with 44mm, 45mm, 46mm, 49mm case",
+    "configurations": "S/M – $99 · M/L – $99",
+    "colors": "Dark Bronze, Radiant Gold, Natural"
+   },
+   "options": [
+    {
+     "name": "Configuration",
+     "values": [
+      {
+       "label": "S/M",
+       "price": "99.00",
+       "default": true
+      },
+      {
+       "label": "M/L",
+       "price": "99.00"
+      }
+     ]
+    },
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Dark Bronze",
+       "default": true,
+       "image": {
+        "small": "/images/catalog/apple-watch-milanese-loop-46mm--dark-bronze-400.webp",
+        "large": "/images/catalog/apple-watch-milanese-loop-46mm--dark-bronze-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple Watch Milanese Loop (46mm) in Dark Bronze, front view of the band on a white background"
+       }
+      },
+      {
+       "label": "Radiant Gold",
+       "image": {
+        "small": "/images/catalog/apple-watch-milanese-loop-46mm--radiant-gold-400.webp",
+        "large": "/images/catalog/apple-watch-milanese-loop-46mm--radiant-gold-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple Watch Milanese Loop (46mm) in Radiant Gold, front view of the band on a white background"
+       }
+      },
+      {
+       "label": "Natural",
+       "image": {
+        "small": "/images/catalog/apple-watch-milanese-loop-46mm--natural-400.webp",
+        "large": "/images/catalog/apple-watch-milanese-loop-46mm--natural-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple Watch Milanese Loop (46mm) in Natural, front view of the band on a white background"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "sku": "TK-APPLE-AWLINKBRACELET-42",
+   "slug": "apple-watch-link-bracelet-42mm",
+   "name": "Apple Watch Link Bracelet (42mm)",
+   "brand": "Apple",
+   "category": "watch-bands",
+   "price": "349.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    38,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "apple-ecosystem"
+   ],
+   "summary": "Apple Link Bracelet for 40mm, 41mm, 42mm Apple Watch cases, offered in 2 colors; $349 at the Apple Store.",
+   "description": "Crafted from 316L stainless steel alloy, the Link Bracelet has more than 100 components. The machining process is so precise, it takes nearly nine hours to cut the links for a single band. The custom butterfly closure folds neatly within the bracelet. And several links feature a simple release button, so you can add and remove links without any special tools.",
+   "keywords": "apple watch band strap link bracelet 42mm",
+   "specs": {
+    "bandType": "Link Bracelet (butterfly closure)",
+    "fitsCaseMm": "40mm, 41mm, 42mm",
+    "material": "70% recycled stainless steel",
+    "compatibility": "Apple Watch with 40mm, 41mm, 42mm case",
+    "colors": "Radiant Gold, Natural"
+   },
+   "options": [
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Radiant Gold",
+       "default": true,
+       "image": {
+        "small": "/images/catalog/apple-watch-link-bracelet-42mm--radiant-gold-400.webp",
+        "large": "/images/catalog/apple-watch-link-bracelet-42mm--radiant-gold-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple Watch Link Bracelet (42mm) in Radiant Gold, front view of the band on a white background"
+       }
+      },
+      {
+       "label": "Natural",
+       "image": {
+        "small": "/images/catalog/apple-watch-link-bracelet-42mm--natural-400.webp",
+        "large": "/images/catalog/apple-watch-link-bracelet-42mm--natural-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple Watch Link Bracelet (42mm) in Natural, front view of the band on a white background"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "sku": "TK-APPLE-AWLINKBRACELET-46",
+   "slug": "apple-watch-link-bracelet-46mm",
+   "name": "Apple Watch Link Bracelet (46mm)",
+   "brand": "Apple",
+   "category": "watch-bands",
+   "price": "349.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    43,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "apple-ecosystem"
+   ],
+   "summary": "Apple Link Bracelet for 44mm, 45mm, 46mm, 49mm Apple Watch cases, offered in 2 colors; $349 at the Apple Store.",
+   "description": "Crafted from 316L stainless steel alloy, the Link Bracelet has more than 100 components. The machining process is so precise, it takes nearly nine hours to cut the links for a single band. The custom butterfly closure folds neatly within the bracelet. And several links feature a simple release button, so you can add and remove links without any special tools.",
+   "keywords": "apple watch band strap link bracelet 46mm",
+   "specs": {
+    "bandType": "Link Bracelet (butterfly closure)",
+    "fitsCaseMm": "44mm, 45mm, 46mm, 49mm",
+    "material": "70% recycled stainless steel",
+    "compatibility": "Apple Watch with 44mm, 45mm, 46mm, 49mm case",
+    "colors": "Radiant Gold, Natural"
+   },
+   "options": [
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Radiant Gold",
+       "default": true,
+       "image": {
+        "small": "/images/catalog/apple-watch-link-bracelet-46mm--radiant-gold-400.webp",
+        "large": "/images/catalog/apple-watch-link-bracelet-46mm--radiant-gold-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple Watch Link Bracelet (46mm) in Radiant Gold, front view of the band on a white background"
+       }
+      },
+      {
+       "label": "Natural",
+       "image": {
+        "small": "/images/catalog/apple-watch-link-bracelet-46mm--natural-400.webp",
+        "large": "/images/catalog/apple-watch-link-bracelet-46mm--natural-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple Watch Link Bracelet (46mm) in Natural, front view of the band on a white background"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "sku": "TK-APPLE-AWLINKBRACELETKIT-46",
+   "slug": "apple-watch-link-bracelet-kit-46mm",
+   "name": "Apple Watch Link Bracelet Kit (46mm)",
+   "brand": "Apple",
+   "category": "watch-bands",
+   "price": "49.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    18,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "apple-ecosystem"
+   ],
+   "summary": "Apple Link Bracelet Kit for 44mm, 45mm, 46mm, 49mm Apple Watch cases, offered in 2 colors; $49 at the Apple Store.",
+   "description": "Crafted from a stainless steel alloy, these links extend the 46mm stainless steel Link Bracelet by an additional 40mm. And thanks to a simple release button, you can add and remove them without any special tools.",
+   "keywords": "apple watch band strap link bracelet kit 46mm",
+   "specs": {
+    "bandType": "Link Bracelet Kit (extra links)",
+    "fitsCaseMm": "44mm, 45mm, 46mm, 49mm",
+    "material": "Stainless steel",
+    "compatibility": "Apple Watch with 44mm, 45mm, 46mm, 49mm case",
+    "colors": "Radiant Gold, Natural"
+   },
+   "options": [
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Radiant Gold",
+       "default": true,
+       "image": {
+        "small": "/images/catalog/apple-watch-link-bracelet-kit-46mm--radiant-gold-400.webp",
+        "large": "/images/catalog/apple-watch-link-bracelet-kit-46mm--radiant-gold-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple Watch Link Bracelet Kit (46mm) in Radiant Gold, front view of the band on a white background"
+       }
+      },
+      {
+       "label": "Natural",
+       "image": {
+        "small": "/images/catalog/apple-watch-link-bracelet-kit-46mm--natural-400.webp",
+        "large": "/images/catalog/apple-watch-link-bracelet-kit-46mm--natural-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple Watch Link Bracelet Kit (46mm) in Natural, front view of the band on a white background"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "sku": "TK-APPLE-AWNIKESPORTBAND-40",
+   "slug": "apple-watch-nike-sport-band-40mm",
+   "name": "Apple Watch Nike Sport Band (40mm)",
+   "brand": "Apple",
+   "category": "watch-bands",
+   "price": "49.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    39,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "apple-ecosystem"
+   ],
+   "summary": "Apple Nike Sport Band for 38mm, 40mm, 41mm Apple Watch cases, offered in 5 colors and 2 band sizes; $49 at the Apple Store.",
+   "description": "Made with compression-molded perforations for breathability, the Nike Sport Band is durable and strong, yet surprisingly soft. It features a unique pattern of organic shapes inspired by nature. The smooth, dense material drapes elegantly across your wrist and feels comfortable next to your skin. An aluminum pin-and-tuck closure — carefully etched with the Run Swoosh logo — has a fresh matte finish.",
+   "keywords": "apple watch band strap nike sport 40mm",
+   "specs": {
+    "bandType": "Nike Sport Band (pin-and-tuck)",
+    "fitsCaseMm": "38mm, 40mm, 41mm",
+    "material": "Rubber",
+    "bandSize": "S/M, M/L",
+    "compatibility": "Apple Watch with 38mm, 40mm, 41mm case",
+    "configurations": "S/M – $49 · M/L – $49",
+    "colors": "After Dark Black, Green Spark, Essential White, Chalk Calm, Pavement Grey"
+   },
+   "options": [
+    {
+     "name": "Configuration",
+     "values": [
+      {
+       "label": "S/M",
+       "price": "49.00",
+       "default": true
+      },
+      {
+       "label": "M/L",
+       "price": "49.00"
+      }
+     ]
+    },
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "After Dark Black",
+       "default": true,
+       "image": {
+        "small": "/images/catalog/apple-watch-nike-sport-band-40mm--after-dark-black-400.webp",
+        "large": "/images/catalog/apple-watch-nike-sport-band-40mm--after-dark-black-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple Watch Nike Sport Band (40mm) in After Dark Black, front view of the band on a white background"
+       }
+      },
+      {
+       "label": "Green Spark",
+       "image": {
+        "small": "/images/catalog/apple-watch-nike-sport-band-40mm--green-spark-400.webp",
+        "large": "/images/catalog/apple-watch-nike-sport-band-40mm--green-spark-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple Watch Nike Sport Band (40mm) in Green Spark, front view of the band on a white background"
+       }
+      },
+      {
+       "label": "Essential White",
+       "image": {
+        "small": "/images/catalog/apple-watch-nike-sport-band-40mm--essential-white-400.webp",
+        "large": "/images/catalog/apple-watch-nike-sport-band-40mm--essential-white-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple Watch Nike Sport Band (40mm) in Essential White, front view of the band on a white background"
+       }
+      },
+      {
+       "label": "Chalk Calm",
+       "image": {
+        "small": "/images/catalog/apple-watch-nike-sport-band-40mm--chalk-calm-400.webp",
+        "large": "/images/catalog/apple-watch-nike-sport-band-40mm--chalk-calm-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple Watch Nike Sport Band (40mm) in Chalk Calm, front view of the band on a white background"
+       }
+      },
+      {
+       "label": "Pavement Grey",
+       "image": {
+        "small": "/images/catalog/apple-watch-nike-sport-band-40mm--pavement-grey-400.webp",
+        "large": "/images/catalog/apple-watch-nike-sport-band-40mm--pavement-grey-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple Watch Nike Sport Band (40mm) in Pavement Grey, front view of the band on a white background"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "sku": "TK-APPLE-AWNIKESPORTBAND-42",
+   "slug": "apple-watch-nike-sport-band-42mm",
+   "name": "Apple Watch Nike Sport Band (42mm)",
+   "brand": "Apple",
+   "category": "watch-bands",
+   "price": "49.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    23,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "apple-ecosystem"
+   ],
+   "summary": "Apple Nike Sport Band for 38mm, 40mm, 41mm, 42mm Apple Watch cases, offered in 5 colors and 2 band sizes; $49 at the Apple Store.",
+   "description": "Made with compression-molded perforations for breathability, the Nike Sport Band is durable and strong, yet surprisingly soft. It features a unique pattern of organic shapes inspired by nature. The smooth, dense material drapes elegantly across your wrist and feels comfortable next to your skin. An aluminum pin-and-tuck closure — carefully etched with the Run Swoosh logo — has a fresh matte finish.",
+   "keywords": "apple watch band strap nike sport 42mm",
+   "specs": {
+    "bandType": "Nike Sport Band (pin-and-tuck)",
+    "fitsCaseMm": "38mm, 40mm, 41mm, 42mm",
+    "material": "Rubber",
+    "bandSize": "S/M, M/L",
+    "compatibility": "Apple Watch with 38mm, 40mm, 41mm, 42mm case",
+    "configurations": "S/M – $49 · M/L – $49",
+    "colors": "After Dark Black, Green Spark, Essential White, Chalk Calm, Pavement Grey"
+   },
+   "options": [
+    {
+     "name": "Configuration",
+     "values": [
+      {
+       "label": "S/M",
+       "price": "49.00",
+       "default": true
+      },
+      {
+       "label": "M/L",
+       "price": "49.00"
+      }
+     ]
+    },
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "After Dark Black",
+       "default": true,
+       "image": {
+        "small": "/images/catalog/apple-watch-nike-sport-band-42mm--after-dark-black-400.webp",
+        "large": "/images/catalog/apple-watch-nike-sport-band-42mm--after-dark-black-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple Watch Nike Sport Band (42mm) in After Dark Black, front view of the band on a white background"
+       }
+      },
+      {
+       "label": "Green Spark",
+       "image": {
+        "small": "/images/catalog/apple-watch-nike-sport-band-42mm--green-spark-400.webp",
+        "large": "/images/catalog/apple-watch-nike-sport-band-42mm--green-spark-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple Watch Nike Sport Band (42mm) in Green Spark, front view of the band on a white background"
+       }
+      },
+      {
+       "label": "Essential White",
+       "image": {
+        "small": "/images/catalog/apple-watch-nike-sport-band-42mm--essential-white-400.webp",
+        "large": "/images/catalog/apple-watch-nike-sport-band-42mm--essential-white-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple Watch Nike Sport Band (42mm) in Essential White, front view of the band on a white background"
+       }
+      },
+      {
+       "label": "Chalk Calm",
+       "image": {
+        "small": "/images/catalog/apple-watch-nike-sport-band-42mm--chalk-calm-400.webp",
+        "large": "/images/catalog/apple-watch-nike-sport-band-42mm--chalk-calm-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple Watch Nike Sport Band (42mm) in Chalk Calm, front view of the band on a white background"
+       }
+      },
+      {
+       "label": "Pavement Grey",
+       "image": {
+        "small": "/images/catalog/apple-watch-nike-sport-band-42mm--pavement-grey-400.webp",
+        "large": "/images/catalog/apple-watch-nike-sport-band-42mm--pavement-grey-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple Watch Nike Sport Band (42mm) in Pavement Grey, front view of the band on a white background"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "sku": "TK-APPLE-AWNIKESPORTBAND-46",
+   "slug": "apple-watch-nike-sport-band-46mm",
+   "name": "Apple Watch Nike Sport Band (46mm)",
+   "brand": "Apple",
+   "category": "watch-bands",
+   "price": "49.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    10,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "apple-ecosystem"
+   ],
+   "summary": "Apple Nike Sport Band for 44mm, 45mm, 46mm, 49mm Apple Watch cases, offered in 5 colors and 2 band sizes; $49 at the Apple Store.",
+   "description": "Made with compression-molded perforations for breathability, the Nike Sport Band is durable and strong, yet surprisingly soft. It features a unique pattern of organic shapes inspired by nature. The smooth, dense material drapes elegantly across your wrist and feels comfortable next to your skin. An aluminum pin-and-tuck closure — carefully etched with the Run Swoosh logo — has a fresh matte finish.",
+   "keywords": "apple watch band strap nike sport 46mm",
+   "specs": {
+    "bandType": "Nike Sport Band (pin-and-tuck)",
+    "fitsCaseMm": "44mm, 45mm, 46mm, 49mm",
+    "material": "Rubber",
+    "bandSize": "S/M, M/L",
+    "compatibility": "Apple Watch with 44mm, 45mm, 46mm, 49mm case",
+    "configurations": "S/M – $49 · M/L – $49",
+    "colors": "After Dark Black, Green Spark, Essential White, Chalk Calm, Pavement Grey"
+   },
+   "options": [
+    {
+     "name": "Configuration",
+     "values": [
+      {
+       "label": "S/M",
+       "price": "49.00",
+       "default": true
+      },
+      {
+       "label": "M/L",
+       "price": "49.00"
+      }
+     ]
+    },
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "After Dark Black",
+       "default": true,
+       "image": {
+        "small": "/images/catalog/apple-watch-nike-sport-band-46mm--after-dark-black-400.webp",
+        "large": "/images/catalog/apple-watch-nike-sport-band-46mm--after-dark-black-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple Watch Nike Sport Band (46mm) in After Dark Black, front view of the band on a white background"
+       }
+      },
+      {
+       "label": "Green Spark",
+       "image": {
+        "small": "/images/catalog/apple-watch-nike-sport-band-46mm--green-spark-400.webp",
+        "large": "/images/catalog/apple-watch-nike-sport-band-46mm--green-spark-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple Watch Nike Sport Band (46mm) in Green Spark, front view of the band on a white background"
+       }
+      },
+      {
+       "label": "Essential White",
+       "image": {
+        "small": "/images/catalog/apple-watch-nike-sport-band-46mm--essential-white-400.webp",
+        "large": "/images/catalog/apple-watch-nike-sport-band-46mm--essential-white-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple Watch Nike Sport Band (46mm) in Essential White, front view of the band on a white background"
+       }
+      },
+      {
+       "label": "Chalk Calm",
+       "image": {
+        "small": "/images/catalog/apple-watch-nike-sport-band-46mm--chalk-calm-400.webp",
+        "large": "/images/catalog/apple-watch-nike-sport-band-46mm--chalk-calm-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple Watch Nike Sport Band (46mm) in Chalk Calm, front view of the band on a white background"
+       }
+      },
+      {
+       "label": "Pavement Grey",
+       "image": {
+        "small": "/images/catalog/apple-watch-nike-sport-band-46mm--pavement-grey-400.webp",
+        "large": "/images/catalog/apple-watch-nike-sport-band-46mm--pavement-grey-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple Watch Nike Sport Band (46mm) in Pavement Grey, front view of the band on a white background"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "sku": "TK-APPLE-AWNIKESPORTLOOP-40",
+   "slug": "apple-watch-nike-sport-loop-40mm",
+   "name": "Apple Watch Nike Sport Loop (40mm)",
+   "brand": "Apple",
+   "category": "watch-bands",
+   "price": "49.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    10,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "apple-ecosystem"
+   ],
+   "summary": "Apple Nike Sport Loop for 38mm, 40mm, 41mm Apple Watch cases, offered in 5 colors; $49 at the Apple Store.",
+   "description": "The Nike Sport Loop is a soft, breathable, and lightweight band with a pattern of organic shapes inspired by nature. A hook-and-loop fastener and a woven pull tab featuring the Run Swoosh logo make it easy to adjust on the go. The double-layer nylon weave has dense loops on the skin side that provide soft cushioning while allowing moisture to escape.",
+   "keywords": "apple watch band strap nike sport loop 40mm",
+   "specs": {
+    "bandType": "Nike Sport Loop (hook-and-loop)",
+    "fitsCaseMm": "38mm, 40mm, 41mm",
+    "material": "80% recycled nylon",
+    "compatibility": "Apple Watch with 38mm, 40mm, 41mm case",
+    "colors": "Essential White, Chalk Calm, Green Spark, Pavement Grey, After Dark Black"
+   },
+   "options": [
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Essential White",
+       "default": true,
+       "image": {
+        "small": "/images/catalog/apple-watch-nike-sport-loop-40mm--essential-white-400.webp",
+        "large": "/images/catalog/apple-watch-nike-sport-loop-40mm--essential-white-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple Watch Nike Sport Loop (40mm) in Essential White, front view of the band on a white background"
+       }
+      },
+      {
+       "label": "Chalk Calm",
+       "image": {
+        "small": "/images/catalog/apple-watch-nike-sport-loop-40mm--chalk-calm-400.webp",
+        "large": "/images/catalog/apple-watch-nike-sport-loop-40mm--chalk-calm-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple Watch Nike Sport Loop (40mm) in Chalk Calm, front view of the band on a white background"
+       }
+      },
+      {
+       "label": "Green Spark",
+       "image": {
+        "small": "/images/catalog/apple-watch-nike-sport-loop-40mm--green-spark-400.webp",
+        "large": "/images/catalog/apple-watch-nike-sport-loop-40mm--green-spark-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple Watch Nike Sport Loop (40mm) in Green Spark, front view of the band on a white background"
+       }
+      },
+      {
+       "label": "Pavement Grey",
+       "image": {
+        "small": "/images/catalog/apple-watch-nike-sport-loop-40mm--pavement-grey-400.webp",
+        "large": "/images/catalog/apple-watch-nike-sport-loop-40mm--pavement-grey-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple Watch Nike Sport Loop (40mm) in Pavement Grey, front view of the band on a white background"
+       }
+      },
+      {
+       "label": "After Dark Black",
+       "image": {
+        "small": "/images/catalog/apple-watch-nike-sport-loop-40mm--after-dark-black-400.webp",
+        "large": "/images/catalog/apple-watch-nike-sport-loop-40mm--after-dark-black-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple Watch Nike Sport Loop (40mm) in After Dark Black, front view of the band on a white background"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "sku": "TK-APPLE-AWNIKESPORTLOOP-42",
+   "slug": "apple-watch-nike-sport-loop-42mm",
+   "name": "Apple Watch Nike Sport Loop (42mm)",
+   "brand": "Apple",
+   "category": "watch-bands",
+   "price": "49.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    50,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "apple-ecosystem"
+   ],
+   "summary": "Apple Nike Sport Loop for 38mm, 40mm, 41mm, 42mm Apple Watch cases, offered in 5 colors; $49 at the Apple Store.",
+   "description": "The Nike Sport Loop is a soft, breathable, and lightweight band with a pattern of organic shapes inspired by nature. A hook-and-loop fastener and a woven pull tab featuring the Run Swoosh logo make it easy to adjust on the go. The double-layer nylon weave has dense loops on the skin side that provide soft cushioning while allowing moisture to escape.",
+   "keywords": "apple watch band strap nike sport loop 42mm",
+   "specs": {
+    "bandType": "Nike Sport Loop (hook-and-loop)",
+    "fitsCaseMm": "38mm, 40mm, 41mm, 42mm",
+    "material": "80% recycled nylon",
+    "compatibility": "Apple Watch with 38mm, 40mm, 41mm, 42mm case",
+    "colors": "Essential White, Chalk Calm, Green Spark, Pavement Grey, After Dark Black"
+   },
+   "options": [
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Essential White",
+       "default": true,
+       "image": {
+        "small": "/images/catalog/apple-watch-nike-sport-loop-42mm--essential-white-400.webp",
+        "large": "/images/catalog/apple-watch-nike-sport-loop-42mm--essential-white-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple Watch Nike Sport Loop (42mm) in Essential White, front view of the band on a white background"
+       }
+      },
+      {
+       "label": "Chalk Calm",
+       "image": {
+        "small": "/images/catalog/apple-watch-nike-sport-loop-42mm--chalk-calm-400.webp",
+        "large": "/images/catalog/apple-watch-nike-sport-loop-42mm--chalk-calm-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple Watch Nike Sport Loop (42mm) in Chalk Calm, front view of the band on a white background"
+       }
+      },
+      {
+       "label": "Green Spark",
+       "image": {
+        "small": "/images/catalog/apple-watch-nike-sport-loop-42mm--green-spark-400.webp",
+        "large": "/images/catalog/apple-watch-nike-sport-loop-42mm--green-spark-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple Watch Nike Sport Loop (42mm) in Green Spark, front view of the band on a white background"
+       }
+      },
+      {
+       "label": "Pavement Grey",
+       "image": {
+        "small": "/images/catalog/apple-watch-nike-sport-loop-42mm--pavement-grey-400.webp",
+        "large": "/images/catalog/apple-watch-nike-sport-loop-42mm--pavement-grey-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple Watch Nike Sport Loop (42mm) in Pavement Grey, front view of the band on a white background"
+       }
+      },
+      {
+       "label": "After Dark Black",
+       "image": {
+        "small": "/images/catalog/apple-watch-nike-sport-loop-42mm--after-dark-black-400.webp",
+        "large": "/images/catalog/apple-watch-nike-sport-loop-42mm--after-dark-black-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple Watch Nike Sport Loop (42mm) in After Dark Black, front view of the band on a white background"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "sku": "TK-APPLE-AWNIKESPORTLOOP-46",
+   "slug": "apple-watch-nike-sport-loop-46mm",
+   "name": "Apple Watch Nike Sport Loop (46mm)",
+   "brand": "Apple",
+   "category": "watch-bands",
+   "price": "49.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    39,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "apple-ecosystem"
+   ],
+   "summary": "Apple Nike Sport Loop for 44mm, 45mm, 46mm, 49mm Apple Watch cases, offered in 5 colors; $49 at the Apple Store.",
+   "description": "The Nike Sport Loop is a soft, breathable, and lightweight band with a pattern of organic shapes inspired by nature. A hook-and-loop fastener and a woven pull tab featuring the Run Swoosh logo make it easy to adjust on the go. The double-layer nylon weave has dense loops on the skin side that provide soft cushioning while allowing moisture to escape.",
+   "keywords": "apple watch band strap nike sport loop 46mm",
+   "specs": {
+    "bandType": "Nike Sport Loop (hook-and-loop)",
+    "fitsCaseMm": "44mm, 45mm, 46mm, 49mm",
+    "material": "80% recycled nylon",
+    "compatibility": "Apple Watch with 44mm, 45mm, 46mm, 49mm case",
+    "colors": "Essential White, Chalk Calm, Green Spark, Pavement Grey, After Dark Black"
+   },
+   "options": [
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Essential White",
+       "default": true,
+       "image": {
+        "small": "/images/catalog/apple-watch-nike-sport-loop-46mm--essential-white-400.webp",
+        "large": "/images/catalog/apple-watch-nike-sport-loop-46mm--essential-white-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple Watch Nike Sport Loop (46mm) in Essential White, front view of the band on a white background"
+       }
+      },
+      {
+       "label": "Chalk Calm",
+       "image": {
+        "small": "/images/catalog/apple-watch-nike-sport-loop-46mm--chalk-calm-400.webp",
+        "large": "/images/catalog/apple-watch-nike-sport-loop-46mm--chalk-calm-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple Watch Nike Sport Loop (46mm) in Chalk Calm, front view of the band on a white background"
+       }
+      },
+      {
+       "label": "Green Spark",
+       "image": {
+        "small": "/images/catalog/apple-watch-nike-sport-loop-46mm--green-spark-400.webp",
+        "large": "/images/catalog/apple-watch-nike-sport-loop-46mm--green-spark-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple Watch Nike Sport Loop (46mm) in Green Spark, front view of the band on a white background"
+       }
+      },
+      {
+       "label": "Pavement Grey",
+       "image": {
+        "small": "/images/catalog/apple-watch-nike-sport-loop-46mm--pavement-grey-400.webp",
+        "large": "/images/catalog/apple-watch-nike-sport-loop-46mm--pavement-grey-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple Watch Nike Sport Loop (46mm) in Pavement Grey, front view of the band on a white background"
+       }
+      },
+      {
+       "label": "After Dark Black",
+       "image": {
+        "small": "/images/catalog/apple-watch-nike-sport-loop-46mm--after-dark-black-400.webp",
+        "large": "/images/catalog/apple-watch-nike-sport-loop-46mm--after-dark-black-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple Watch Nike Sport Loop (46mm) in After Dark Black, front view of the band on a white background"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "sku": "TK-APPLE-AWSOLOLOOP-42",
+   "slug": "apple-watch-solo-loop-42mm",
+   "name": "Apple Watch Solo Loop (42mm)",
+   "brand": "Apple",
+   "category": "watch-bands",
+   "price": "49.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    55,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "apple-ecosystem"
+   ],
+   "summary": "Apple Solo Loop for 40mm, 41mm, 42mm Apple Watch cases, offered in 5 colors and 10 band sizes; $49 at the Apple Store.",
+   "description": "Made from silicone, the Solo Loop features a unique, stretchable design with no clasps, buckles, or overlapping parts, so it’s ultracomfortable to wear and easy to slip on and off your wrist. Each band is specially treated with UV to give the band a silky, smooth finish. It’s also swimproof and sweatproof, so it can go just about anywhere you want to wear it.",
+   "keywords": "apple watch band strap solo loop 42mm",
+   "specs": {
+    "bandType": "Solo Loop (stretchable, no clasp)",
+    "fitsCaseMm": "40mm, 41mm, 42mm",
+    "material": "Silicone",
+    "bandSize": "Size 0, Size 1, Size 2, Size 3, Size 4, Size 5, Size 6, Size 7, Size 8, Size 9",
+    "compatibility": "Apple Watch with 40mm, 41mm, 42mm case",
+    "configurations": "Size 0 – $49 · Size 1 – $49 · Size 2 – $49 · Size 3 – $49 · Size 4 – $49 · Size 5 – $49 · Size 6 – $49 · Size 7 – $49 · Size 8 – $49 · Size 9 – $49",
+    "colors": "Wildflower Blue, Burgundy, Olive, Navy Blue, Black"
+   },
+   "options": [
+    {
+     "name": "Configuration",
+     "values": [
+      {
+       "label": "Size 0",
+       "price": "49.00",
+       "default": true
+      },
+      {
+       "label": "Size 1",
+       "price": "49.00"
+      },
+      {
+       "label": "Size 2",
+       "price": "49.00"
+      },
+      {
+       "label": "Size 3",
+       "price": "49.00"
+      },
+      {
+       "label": "Size 4",
+       "price": "49.00"
+      },
+      {
+       "label": "Size 5",
+       "price": "49.00"
+      },
+      {
+       "label": "Size 6",
+       "price": "49.00"
+      },
+      {
+       "label": "Size 7",
+       "price": "49.00"
+      },
+      {
+       "label": "Size 8",
+       "price": "49.00"
+      },
+      {
+       "label": "Size 9",
+       "price": "49.00"
+      }
+     ]
+    },
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Wildflower Blue",
+       "default": true,
+       "image": {
+        "small": "/images/catalog/apple-watch-solo-loop-42mm--wildflower-blue-400.webp",
+        "large": "/images/catalog/apple-watch-solo-loop-42mm--wildflower-blue-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple Watch Solo Loop (42mm) in Wildflower Blue, front view of the band on a white background"
+       }
+      },
+      {
+       "label": "Burgundy",
+       "image": {
+        "small": "/images/catalog/apple-watch-solo-loop-42mm--burgundy-400.webp",
+        "large": "/images/catalog/apple-watch-solo-loop-42mm--burgundy-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple Watch Solo Loop (42mm) in Burgundy, front view of the band on a white background"
+       }
+      },
+      {
+       "label": "Olive",
+       "image": {
+        "small": "/images/catalog/apple-watch-solo-loop-42mm--olive-400.webp",
+        "large": "/images/catalog/apple-watch-solo-loop-42mm--olive-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple Watch Solo Loop (42mm) in Olive, front view of the band on a white background"
+       }
+      },
+      {
+       "label": "Navy Blue",
+       "image": {
+        "small": "/images/catalog/apple-watch-solo-loop-42mm--navy-blue-400.webp",
+        "large": "/images/catalog/apple-watch-solo-loop-42mm--navy-blue-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple Watch Solo Loop (42mm) in Navy Blue, front view of the band on a white background"
+       }
+      },
+      {
+       "label": "Black",
+       "image": {
+        "small": "/images/catalog/apple-watch-solo-loop-42mm--black-400.webp",
+        "large": "/images/catalog/apple-watch-solo-loop-42mm--black-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple Watch Solo Loop (42mm) in Black, front view of the band on a white background"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "sku": "TK-APPLE-AWSOLOLOOP-46",
+   "slug": "apple-watch-solo-loop-46mm",
+   "name": "Apple Watch Solo Loop (46mm)",
+   "brand": "Apple",
+   "category": "watch-bands",
+   "price": "49.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    14,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "apple-ecosystem"
+   ],
+   "summary": "Apple Solo Loop for 44mm, 45mm, 46mm, 49mm Apple Watch cases, offered in 5 colors and 13 band sizes; $49 at the Apple Store.",
+   "description": "Made from silicone, the Solo Loop features a unique, stretchable design with no clasps, buckles, or overlapping parts, so it’s ultracomfortable to wear and easy to slip on and off your wrist. Each band is specially treated with UV to give the band a silky, smooth finish. It’s also swimproof and sweatproof, so it can go just about anywhere you want to wear it.",
+   "keywords": "apple watch band strap solo loop 46mm",
+   "specs": {
+    "bandType": "Solo Loop (stretchable, no clasp)",
+    "fitsCaseMm": "44mm, 45mm, 46mm, 49mm",
+    "material": "Silicone",
+    "bandSize": "Size 0, Size 1, Size 2, Size 3, Size 4, Size 5, Size 6, Size 7, Size 8, Size 9, Size 10, Size 11, Size 12",
+    "compatibility": "Apple Watch with 44mm, 45mm, 46mm, 49mm case",
+    "configurations": "Size 0 – $49 · Size 1 – $49 · Size 2 – $49 · Size 3 – $49 · Size 4 – $49 · Size 5 – $49 · Size 6 – $49 · Size 7 – $49 · Size 8 – $49 · Size 9 – $49 · Size 10 – $49 · Size 11 – $49 · Size 12 – $49",
+    "colors": "Wildflower Blue, Burgundy, Olive, Navy Blue, Black"
+   },
+   "options": [
+    {
+     "name": "Configuration",
+     "values": [
+      {
+       "label": "Size 0",
+       "price": "49.00",
+       "default": true
+      },
+      {
+       "label": "Size 1",
+       "price": "49.00"
+      },
+      {
+       "label": "Size 2",
+       "price": "49.00"
+      },
+      {
+       "label": "Size 3",
+       "price": "49.00"
+      },
+      {
+       "label": "Size 4",
+       "price": "49.00"
+      },
+      {
+       "label": "Size 5",
+       "price": "49.00"
+      },
+      {
+       "label": "Size 6",
+       "price": "49.00"
+      },
+      {
+       "label": "Size 7",
+       "price": "49.00"
+      },
+      {
+       "label": "Size 8",
+       "price": "49.00"
+      },
+      {
+       "label": "Size 9",
+       "price": "49.00"
+      },
+      {
+       "label": "Size 10",
+       "price": "49.00"
+      },
+      {
+       "label": "Size 11",
+       "price": "49.00"
+      },
+      {
+       "label": "Size 12",
+       "price": "49.00"
+      }
+     ]
+    },
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Wildflower Blue",
+       "default": true,
+       "image": {
+        "small": "/images/catalog/apple-watch-solo-loop-46mm--wildflower-blue-400.webp",
+        "large": "/images/catalog/apple-watch-solo-loop-46mm--wildflower-blue-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple Watch Solo Loop (46mm) in Wildflower Blue, front view of the band on a white background"
+       }
+      },
+      {
+       "label": "Burgundy",
+       "image": {
+        "small": "/images/catalog/apple-watch-solo-loop-46mm--burgundy-400.webp",
+        "large": "/images/catalog/apple-watch-solo-loop-46mm--burgundy-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple Watch Solo Loop (46mm) in Burgundy, front view of the band on a white background"
+       }
+      },
+      {
+       "label": "Olive",
+       "image": {
+        "small": "/images/catalog/apple-watch-solo-loop-46mm--olive-400.webp",
+        "large": "/images/catalog/apple-watch-solo-loop-46mm--olive-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple Watch Solo Loop (46mm) in Olive, front view of the band on a white background"
+       }
+      },
+      {
+       "label": "Navy Blue",
+       "image": {
+        "small": "/images/catalog/apple-watch-solo-loop-46mm--navy-blue-400.webp",
+        "large": "/images/catalog/apple-watch-solo-loop-46mm--navy-blue-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple Watch Solo Loop (46mm) in Navy Blue, front view of the band on a white background"
+       }
+      },
+      {
+       "label": "Black",
+       "image": {
+        "small": "/images/catalog/apple-watch-solo-loop-46mm--black-400.webp",
+        "large": "/images/catalog/apple-watch-solo-loop-46mm--black-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple Watch Solo Loop (46mm) in Black, front view of the band on a white background"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "sku": "TK-APPLE-AWBRAIDEDSOLOLOOP-42",
+   "slug": "apple-watch-braided-solo-loop-42mm",
+   "name": "Apple Watch Braided Solo Loop (42mm)",
+   "brand": "Apple",
+   "category": "watch-bands",
+   "price": "99.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    24,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "apple-ecosystem"
+   ],
+   "summary": "Apple Braided Solo Loop for 40mm, 41mm, 42mm Apple Watch cases, offered in 8 colors and 10 band sizes; $99 at the Apple Store.",
+   "description": "Each Braided Solo Loop band features a unique, stretchable design that’s ultracomfortable and easy to slip on and off your wrist. Created by weaving 16,000 recycled polyester yarn filaments around ultrathin silicone threads using advanced, precision-braiding machinery, then laser cutting the band to an exact length for a custom fit. The band offers a soft, textured feel and is both sweat and water resistant.",
+   "keywords": "apple watch band strap braided solo loop 42mm",
+   "specs": {
+    "bandType": "Braided Solo Loop (stretchable, no clasp)",
+    "fitsCaseMm": "40mm, 41mm, 42mm",
+    "material": "100% recycled polyester, 65% recycled stainless steel",
+    "bandSize": "Size 0, Size 1, Size 2, Size 3, Size 4, Size 5, Size 6, Size 7, Size 8, Size 9",
+    "compatibility": "Apple Watch with 40mm, 41mm, 42mm case",
+    "configurations": "Size 0 – $99 · Size 1 – $99 · Size 2 – $99 · Size 3 – $99 · Size 4 – $99 · Size 5 – $99 · Size 6 – $99 · Size 7 – $99 · Size 8 – $99 · Size 9 – $99",
+    "colors": "Olive, Magenta, Wildflower Blue, Burgundy, Navy Blue, Black, Black Unity (Unity Connection), Pride Edition"
+   },
+   "options": [
+    {
+     "name": "Configuration",
+     "values": [
+      {
+       "label": "Size 0",
+       "price": "99.00",
+       "default": true
+      },
+      {
+       "label": "Size 1",
+       "price": "99.00"
+      },
+      {
+       "label": "Size 2",
+       "price": "99.00"
+      },
+      {
+       "label": "Size 3",
+       "price": "99.00"
+      },
+      {
+       "label": "Size 4",
+       "price": "99.00"
+      },
+      {
+       "label": "Size 5",
+       "price": "99.00"
+      },
+      {
+       "label": "Size 6",
+       "price": "99.00"
+      },
+      {
+       "label": "Size 7",
+       "price": "99.00"
+      },
+      {
+       "label": "Size 8",
+       "price": "99.00"
+      },
+      {
+       "label": "Size 9",
+       "price": "99.00"
+      }
+     ]
+    },
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Olive",
+       "default": true,
+       "image": {
+        "small": "/images/catalog/apple-watch-braided-solo-loop-42mm--olive-400.webp",
+        "large": "/images/catalog/apple-watch-braided-solo-loop-42mm--olive-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple Watch Braided Solo Loop (42mm) in Olive, front view of the band on a white background"
+       }
+      },
+      {
+       "label": "Magenta",
+       "image": {
+        "small": "/images/catalog/apple-watch-braided-solo-loop-42mm--magenta-400.webp",
+        "large": "/images/catalog/apple-watch-braided-solo-loop-42mm--magenta-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple Watch Braided Solo Loop (42mm) in Magenta, front view of the band on a white background"
+       }
+      },
+      {
+       "label": "Wildflower Blue",
+       "image": {
+        "small": "/images/catalog/apple-watch-braided-solo-loop-42mm--wildflower-blue-400.webp",
+        "large": "/images/catalog/apple-watch-braided-solo-loop-42mm--wildflower-blue-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple Watch Braided Solo Loop (42mm) in Wildflower Blue, front view of the band on a white background"
+       }
+      },
+      {
+       "label": "Burgundy",
+       "image": {
+        "small": "/images/catalog/apple-watch-braided-solo-loop-42mm--burgundy-400.webp",
+        "large": "/images/catalog/apple-watch-braided-solo-loop-42mm--burgundy-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple Watch Braided Solo Loop (42mm) in Burgundy, front view of the band on a white background"
+       }
+      },
+      {
+       "label": "Navy Blue",
+       "image": {
+        "small": "/images/catalog/apple-watch-braided-solo-loop-42mm--navy-blue-400.webp",
+        "large": "/images/catalog/apple-watch-braided-solo-loop-42mm--navy-blue-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple Watch Braided Solo Loop (42mm) in Navy Blue, front view of the band on a white background"
+       }
+      },
+      {
+       "label": "Black",
+       "image": {
+        "small": "/images/catalog/apple-watch-braided-solo-loop-42mm--black-400.webp",
+        "large": "/images/catalog/apple-watch-braided-solo-loop-42mm--black-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple Watch Braided Solo Loop (42mm) in Black, front view of the band on a white background"
+       }
+      },
+      {
+       "label": "Black Unity (Unity Connection)",
+       "image": {
+        "small": "/images/catalog/apple-watch-braided-solo-loop-42mm--black-unity-unity-connection-400.webp",
+        "large": "/images/catalog/apple-watch-braided-solo-loop-42mm--black-unity-unity-connection-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple Watch Braided Solo Loop (42mm) in Black Unity (Unity Connection), front view of the band on a white background"
+       }
+      },
+      {
+       "label": "Pride Edition",
+       "image": {
+        "small": "/images/catalog/apple-watch-braided-solo-loop-42mm--pride-edition-400.webp",
+        "large": "/images/catalog/apple-watch-braided-solo-loop-42mm--pride-edition-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple Watch Braided Solo Loop (42mm) in Pride Edition, front view of the band on a white background"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "sku": "TK-APPLE-AWBRAIDEDSOLOLOOP-46",
+   "slug": "apple-watch-braided-solo-loop-46mm",
+   "name": "Apple Watch Braided Solo Loop (46mm)",
+   "brand": "Apple",
+   "category": "watch-bands",
+   "price": "99.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    17,
+    5
+   ],
+   "featured": true,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "apple-ecosystem"
+   ],
+   "summary": "Apple Braided Solo Loop for 44mm, 45mm, 46mm, 49mm Apple Watch cases, offered in 8 colors and 13 band sizes; $99 at the Apple Store.",
+   "description": "Each Braided Solo Loop band features a unique, stretchable design that’s ultracomfortable and easy to slip on and off your wrist. Created by weaving 16,000 recycled polyester yarn filaments around ultrathin silicone threads using advanced, precision-braiding machinery, then laser cutting the band to an exact length for a custom fit. The band offers a soft, textured feel and is both sweat and water resistant.",
+   "keywords": "apple watch band strap braided solo loop 46mm",
+   "specs": {
+    "bandType": "Braided Solo Loop (stretchable, no clasp)",
+    "fitsCaseMm": "44mm, 45mm, 46mm, 49mm",
+    "material": "100% recycled polyester, 65% recycled stainless steel",
+    "bandSize": "Size 0, Size 1, Size 2, Size 3, Size 4, Size 5, Size 6, Size 7, Size 8, Size 9, Size 10, Size 11, Size 12",
+    "compatibility": "Apple Watch with 44mm, 45mm, 46mm, 49mm case",
+    "configurations": "Size 0 – $99 · Size 1 – $99 · Size 2 – $99 · Size 3 – $99 · Size 4 – $99 · Size 5 – $99 · Size 6 – $99 · Size 7 – $99 · Size 8 – $99 · Size 9 – $99 · Size 10 – $99 · Size 11 – $99 · Size 12 – $99",
+    "colors": "Olive, Magenta, Wildflower Blue, Burgundy, Navy Blue, Black, Black Unity (Unity Connection), Pride Edition"
+   },
+   "options": [
+    {
+     "name": "Configuration",
+     "values": [
+      {
+       "label": "Size 0",
+       "price": "99.00",
+       "default": true
+      },
+      {
+       "label": "Size 1",
+       "price": "99.00"
+      },
+      {
+       "label": "Size 2",
+       "price": "99.00"
+      },
+      {
+       "label": "Size 3",
+       "price": "99.00"
+      },
+      {
+       "label": "Size 4",
+       "price": "99.00"
+      },
+      {
+       "label": "Size 5",
+       "price": "99.00"
+      },
+      {
+       "label": "Size 6",
+       "price": "99.00"
+      },
+      {
+       "label": "Size 7",
+       "price": "99.00"
+      },
+      {
+       "label": "Size 8",
+       "price": "99.00"
+      },
+      {
+       "label": "Size 9",
+       "price": "99.00"
+      },
+      {
+       "label": "Size 10",
+       "price": "99.00"
+      },
+      {
+       "label": "Size 11",
+       "price": "99.00"
+      },
+      {
+       "label": "Size 12",
+       "price": "99.00"
+      }
+     ]
+    },
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Olive",
+       "default": true,
+       "image": {
+        "small": "/images/catalog/apple-watch-braided-solo-loop-46mm--olive-400.webp",
+        "large": "/images/catalog/apple-watch-braided-solo-loop-46mm--olive-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple Watch Braided Solo Loop (46mm) in Olive, front view of the band on a white background"
+       }
+      },
+      {
+       "label": "Magenta",
+       "image": {
+        "small": "/images/catalog/apple-watch-braided-solo-loop-46mm--magenta-400.webp",
+        "large": "/images/catalog/apple-watch-braided-solo-loop-46mm--magenta-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple Watch Braided Solo Loop (46mm) in Magenta, front view of the band on a white background"
+       }
+      },
+      {
+       "label": "Wildflower Blue",
+       "image": {
+        "small": "/images/catalog/apple-watch-braided-solo-loop-46mm--wildflower-blue-400.webp",
+        "large": "/images/catalog/apple-watch-braided-solo-loop-46mm--wildflower-blue-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple Watch Braided Solo Loop (46mm) in Wildflower Blue, front view of the band on a white background"
+       }
+      },
+      {
+       "label": "Burgundy",
+       "image": {
+        "small": "/images/catalog/apple-watch-braided-solo-loop-46mm--burgundy-400.webp",
+        "large": "/images/catalog/apple-watch-braided-solo-loop-46mm--burgundy-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple Watch Braided Solo Loop (46mm) in Burgundy, front view of the band on a white background"
+       }
+      },
+      {
+       "label": "Navy Blue",
+       "image": {
+        "small": "/images/catalog/apple-watch-braided-solo-loop-46mm--navy-blue-400.webp",
+        "large": "/images/catalog/apple-watch-braided-solo-loop-46mm--navy-blue-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple Watch Braided Solo Loop (46mm) in Navy Blue, front view of the band on a white background"
+       }
+      },
+      {
+       "label": "Black",
+       "image": {
+        "small": "/images/catalog/apple-watch-braided-solo-loop-46mm--black-400.webp",
+        "large": "/images/catalog/apple-watch-braided-solo-loop-46mm--black-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple Watch Braided Solo Loop (46mm) in Black, front view of the band on a white background"
+       }
+      },
+      {
+       "label": "Black Unity (Unity Connection)",
+       "image": {
+        "small": "/images/catalog/apple-watch-braided-solo-loop-46mm--black-unity-unity-connection-400.webp",
+        "large": "/images/catalog/apple-watch-braided-solo-loop-46mm--black-unity-unity-connection-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple Watch Braided Solo Loop (46mm) in Black Unity (Unity Connection), front view of the band on a white background"
+       }
+      },
+      {
+       "label": "Pride Edition",
+       "image": {
+        "small": "/images/catalog/apple-watch-braided-solo-loop-46mm--pride-edition-400.webp",
+        "large": "/images/catalog/apple-watch-braided-solo-loop-46mm--pride-edition-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple Watch Braided Solo Loop (46mm) in Pride Edition, front view of the band on a white background"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "sku": "TK-APPLE-AWMODERNBUCKLE-42",
+   "slug": "apple-watch-modern-buckle-42mm",
+   "name": "Apple Watch Modern Buckle (42mm)",
+   "brand": "Apple",
+   "category": "watch-bands",
+   "price": "199.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    41,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "apple-ecosystem"
+   ],
+   "summary": "Apple Modern Buckle for 38mm, 40mm, 41mm, 42mm Apple Watch cases, offered in 4 colors and 3 band sizes; $199 at the Apple Store.",
+   "description": "The Modern Buckle is exquisitely crafted for an elegant look. The woven band has a subtle texture with small, integrated flecks of color for a visually rich and dynamic feel. What looks like a solid buckle is actually a two-piece magnetic closure that’s delightfully simple to secure. Select colors feature a golden buckle detail, which pairs perfectly with the Apple Watch Series 12 radiant gold titanium case.",
+   "keywords": "apple watch band strap modern buckle 42mm",
+   "specs": {
+    "bandType": "Modern Buckle",
+    "fitsCaseMm": "38mm, 40mm, 41mm, 42mm",
+    "material": "Polyester, 50% recycled stainless steel, 100% recycled rare earth elements in all magnets",
+    "bandSize": "Small, Medium, Large",
+    "compatibility": "Apple Watch with 38mm, 40mm, 41mm, 42mm case",
+    "configurations": "Small – $199 · Medium – $199 · Large – $199",
+    "colors": "Mulberry, Camel, Sage, Navy Blue"
+   },
+   "options": [
+    {
+     "name": "Configuration",
+     "values": [
+      {
+       "label": "Small",
+       "price": "199.00",
+       "default": true
+      },
+      {
+       "label": "Medium",
+       "price": "199.00"
+      },
+      {
+       "label": "Large",
+       "price": "199.00"
+      }
+     ]
+    },
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Mulberry",
+       "default": true,
+       "image": {
+        "small": "/images/catalog/apple-watch-modern-buckle-42mm--mulberry-400.webp",
+        "large": "/images/catalog/apple-watch-modern-buckle-42mm--mulberry-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple Watch Modern Buckle (42mm) in Mulberry, front view of the band on a white background"
+       }
+      },
+      {
+       "label": "Camel",
+       "image": {
+        "small": "/images/catalog/apple-watch-modern-buckle-42mm--camel-400.webp",
+        "large": "/images/catalog/apple-watch-modern-buckle-42mm--camel-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple Watch Modern Buckle (42mm) in Camel, front view of the band on a white background"
+       }
+      },
+      {
+       "label": "Sage",
+       "image": {
+        "small": "/images/catalog/apple-watch-modern-buckle-42mm--sage-400.webp",
+        "large": "/images/catalog/apple-watch-modern-buckle-42mm--sage-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple Watch Modern Buckle (42mm) in Sage, front view of the band on a white background"
+       }
+      },
+      {
+       "label": "Navy Blue",
+       "image": {
+        "small": "/images/catalog/apple-watch-modern-buckle-42mm--navy-blue-400.webp",
+        "large": "/images/catalog/apple-watch-modern-buckle-42mm--navy-blue-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple Watch Modern Buckle (42mm) in Navy Blue, front view of the band on a white background"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "sku": "TK-APPLE-AWMAGNETICLINK-42",
+   "slug": "apple-watch-magnetic-link-42mm",
+   "name": "Apple Watch Magnetic Link (42mm)",
+   "brand": "Apple",
+   "category": "watch-bands",
+   "price": "99.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    36,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "apple-ecosystem"
+   ],
+   "summary": "Apple Magnetic Link for 38mm, 40mm, 41mm, 42mm Apple Watch cases, offered in 4 colors and 2 band sizes; $99 at the Apple Store.",
+   "description": "Made from durable microtwill, the Magnetic Link with FineWoven has a soft, suedelike feel. It wraps elegantly around the wrist and magically attaches with molded magnets that gently flex to help maintain security and comfort throughout the day.",
+   "keywords": "apple watch band strap magnetic link 42mm",
+   "specs": {
+    "bandType": "Magnetic Link",
+    "fitsCaseMm": "38mm, 40mm, 41mm, 42mm",
+    "material": "95% recycled polyester, 100% recycled rare earth elements",
+    "bandSize": "S/M, M/L",
+    "compatibility": "Apple Watch with 38mm, 40mm, 41mm, 42mm case",
+    "configurations": "S/M – $99 · M/L – $99",
+    "colors": "Wildflower Blue, Burgundy, Camel, Midnight"
+   },
+   "options": [
+    {
+     "name": "Configuration",
+     "values": [
+      {
+       "label": "S/M",
+       "price": "99.00",
+       "default": true
+      },
+      {
+       "label": "M/L",
+       "price": "99.00"
+      }
+     ]
+    },
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Wildflower Blue",
+       "default": true,
+       "image": {
+        "small": "/images/catalog/apple-watch-magnetic-link-42mm--wildflower-blue-400.webp",
+        "large": "/images/catalog/apple-watch-magnetic-link-42mm--wildflower-blue-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple Watch Magnetic Link (42mm) in Wildflower Blue, front view of the band on a white background"
+       }
+      },
+      {
+       "label": "Burgundy",
+       "image": {
+        "small": "/images/catalog/apple-watch-magnetic-link-42mm--burgundy-400.webp",
+        "large": "/images/catalog/apple-watch-magnetic-link-42mm--burgundy-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple Watch Magnetic Link (42mm) in Burgundy, front view of the band on a white background"
+       }
+      },
+      {
+       "label": "Camel",
+       "image": {
+        "small": "/images/catalog/apple-watch-magnetic-link-42mm--camel-400.webp",
+        "large": "/images/catalog/apple-watch-magnetic-link-42mm--camel-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple Watch Magnetic Link (42mm) in Camel, front view of the band on a white background"
+       }
+      },
+      {
+       "label": "Midnight",
+       "image": {
+        "small": "/images/catalog/apple-watch-magnetic-link-42mm--midnight-400.webp",
+        "large": "/images/catalog/apple-watch-magnetic-link-42mm--midnight-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple Watch Magnetic Link (42mm) in Midnight, front view of the band on a white background"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "sku": "TK-APPLE-AWMAGNETICLINK-46",
+   "slug": "apple-watch-magnetic-link-46mm",
+   "name": "Apple Watch Magnetic Link (46mm)",
+   "brand": "Apple",
+   "category": "watch-bands",
+   "price": "99.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    53,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "apple-ecosystem"
+   ],
+   "summary": "Apple Magnetic Link for 44mm, 45mm, 46mm, 49mm Apple Watch cases, offered in 4 colors and 2 band sizes; $99 at the Apple Store.",
+   "description": "Made from durable microtwill, the Magnetic Link with FineWoven has a soft, suedelike feel. It wraps elegantly around the wrist and magically attaches with molded magnets that gently flex to help maintain security and comfort throughout the day.",
+   "keywords": "apple watch band strap magnetic link 46mm",
+   "specs": {
+    "bandType": "Magnetic Link",
+    "fitsCaseMm": "44mm, 45mm, 46mm, 49mm",
+    "material": "95% recycled polyester, 100% recycled rare earth elements",
+    "bandSize": "S/M, M/L",
+    "compatibility": "Apple Watch with 44mm, 45mm, 46mm, 49mm case",
+    "configurations": "S/M – $99 · M/L – $99",
+    "colors": "Wildflower Blue, Burgundy, Camel, Midnight"
+   },
+   "options": [
+    {
+     "name": "Configuration",
+     "values": [
+      {
+       "label": "S/M",
+       "price": "99.00",
+       "default": true
+      },
+      {
+       "label": "M/L",
+       "price": "99.00"
+      }
+     ]
+    },
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Wildflower Blue",
+       "default": true,
+       "image": {
+        "small": "/images/catalog/apple-watch-magnetic-link-46mm--wildflower-blue-400.webp",
+        "large": "/images/catalog/apple-watch-magnetic-link-46mm--wildflower-blue-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple Watch Magnetic Link (46mm) in Wildflower Blue, front view of the band on a white background"
+       }
+      },
+      {
+       "label": "Burgundy",
+       "image": {
+        "small": "/images/catalog/apple-watch-magnetic-link-46mm--burgundy-400.webp",
+        "large": "/images/catalog/apple-watch-magnetic-link-46mm--burgundy-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple Watch Magnetic Link (46mm) in Burgundy, front view of the band on a white background"
+       }
+      },
+      {
+       "label": "Camel",
+       "image": {
+        "small": "/images/catalog/apple-watch-magnetic-link-46mm--camel-400.webp",
+        "large": "/images/catalog/apple-watch-magnetic-link-46mm--camel-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple Watch Magnetic Link (46mm) in Camel, front view of the band on a white background"
+       }
+      },
+      {
+       "label": "Midnight",
+       "image": {
+        "small": "/images/catalog/apple-watch-magnetic-link-46mm--midnight-400.webp",
+        "large": "/images/catalog/apple-watch-magnetic-link-46mm--midnight-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple Watch Magnetic Link (46mm) in Midnight, front view of the band on a white background"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "sku": "TK-HERMES-AWENMER-49",
+   "slug": "hermes-apple-watch-en-mer-49mm",
+   "name": "Apple Watch Hermès En Mer (49mm)",
+   "brand": "Hermès",
+   "category": "watch-bands",
+   "price": "549.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    53,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "apple-ecosystem"
+   ],
+   "summary": "Apple Watch Hermès En Mer for 44mm, 45mm, 46mm, 49mm Apple Watch cases, offered in 4 colors; $549 at the Apple Store.",
+   "description": "With a distinctive pillowed stripe that echoes the pattern of ocean waves and a subtle “H“ motif, this water-resistant band with a titanium buckle is suitable for all kinds of aquatic adventures.",
+   "keywords": "apple watch band strap en mer 49mm hermes ultra",
+   "specs": {
+    "bandType": "Hermès En Mer",
+    "fitsCaseMm": "44mm, 45mm, 46mm, 49mm",
+    "material": "Polyamide Yarn",
+    "compatibility": "Apple Watch with 44mm, 45mm, 46mm, 49mm case",
+    "colors": "Argile, Bordeaux, Bleu Nuit, Orange"
+   },
+   "options": [
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Argile",
+       "default": true,
+       "image": {
+        "small": "/images/catalog/hermes-apple-watch-en-mer-49mm--argile-400.webp",
+        "large": "/images/catalog/hermes-apple-watch-en-mer-49mm--argile-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple Watch Hermès En Mer (49mm) in Argile, front view of the band on a white background"
+       }
+      },
+      {
+       "label": "Bordeaux",
+       "image": {
+        "small": "/images/catalog/hermes-apple-watch-en-mer-49mm--bordeaux-400.webp",
+        "large": "/images/catalog/hermes-apple-watch-en-mer-49mm--bordeaux-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple Watch Hermès En Mer (49mm) in Bordeaux, front view of the band on a white background"
+       }
+      },
+      {
+       "label": "Bleu Nuit",
+       "image": {
+        "small": "/images/catalog/hermes-apple-watch-en-mer-49mm--bleu-nuit-400.webp",
+        "large": "/images/catalog/hermes-apple-watch-en-mer-49mm--bleu-nuit-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple Watch Hermès En Mer (49mm) in Bleu Nuit, front view of the band on a white background"
+       }
+      },
+      {
+       "label": "Orange",
+       "image": {
+        "small": "/images/catalog/hermes-apple-watch-en-mer-49mm--orange-400.webp",
+        "large": "/images/catalog/hermes-apple-watch-en-mer-49mm--orange-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple Watch Hermès En Mer (49mm) in Orange, front view of the band on a white background"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "sku": "TK-HERMES-AWSCUBHDIVING-49",
+   "slug": "hermes-apple-watch-scubh-diving-49mm",
+   "name": "Apple Watch Hermès Scub’H Diving (49mm)",
+   "brand": "Hermès",
+   "category": "watch-bands",
+   "price": "549.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    46,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "apple-ecosystem"
+   ],
+   "summary": "Apple Watch Hermès Scub’H Diving for 44mm, 45mm, 46mm, 49mm Apple Watch cases, offered in 4 colors; $549 at the Apple Store.",
+   "description": "The Scub’H Diving band features clean, sporty lines and circular porthole-like cutouts. Molded from high-performance rubber, it’s breathable, exceptionally light, and can withstand extreme water sports. A secure titanium buckle and adjustable loop lend a sleek finish.",
+   "keywords": "apple watch band strap scub’h diving 49mm hermes ultra",
+   "specs": {
+    "bandType": "Hermès Scub’H Diving",
+    "fitsCaseMm": "44mm, 45mm, 46mm, 49mm",
+    "material": "Rubber",
+    "compatibility": "Apple Watch with 44mm, 45mm, 46mm, 49mm case",
+    "colors": "Vert Vertigo, Gris Titane, Bleu De Malte, Noir"
+   },
+   "options": [
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Vert Vertigo",
+       "default": true,
+       "image": {
+        "small": "/images/catalog/hermes-apple-watch-scubh-diving-49mm--vert-vertigo-400.webp",
+        "large": "/images/catalog/hermes-apple-watch-scubh-diving-49mm--vert-vertigo-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple Watch Hermès Scub’H Diving (49mm) in Vert Vertigo, front view of the band on a white background"
+       }
+      },
+      {
+       "label": "Gris Titane",
+       "image": {
+        "small": "/images/catalog/hermes-apple-watch-scubh-diving-49mm--gris-titane-400.webp",
+        "large": "/images/catalog/hermes-apple-watch-scubh-diving-49mm--gris-titane-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple Watch Hermès Scub’H Diving (49mm) in Gris Titane, front view of the band on a white background"
+       }
+      },
+      {
+       "label": "Bleu De Malte",
+       "image": {
+        "small": "/images/catalog/hermes-apple-watch-scubh-diving-49mm--bleu-de-malte-400.webp",
+        "large": "/images/catalog/hermes-apple-watch-scubh-diving-49mm--bleu-de-malte-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple Watch Hermès Scub’H Diving (49mm) in Bleu De Malte, front view of the band on a white background"
+       }
+      },
+      {
+       "label": "Noir",
+       "image": {
+        "small": "/images/catalog/hermes-apple-watch-scubh-diving-49mm--noir-400.webp",
+        "large": "/images/catalog/hermes-apple-watch-scubh-diving-49mm--noir-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple Watch Hermès Scub’H Diving (49mm) in Noir, front view of the band on a white background"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "sku": "TK-HERMES-AWGRANDH-42",
+   "slug": "hermes-apple-watch-grand-h-42mm",
+   "name": "Apple Watch Hermès Grand H (42mm)",
+   "brand": "Hermès",
+   "category": "watch-bands",
+   "price": "1299.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    26,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "apple-ecosystem"
+   ],
+   "summary": "Apple Watch Hermès Grand H for 38mm, 40mm, 41mm, 42mm Apple Watch cases and 3 band sizes; $1299 at the Apple Store.",
+   "description": "The Grand H Fin band is a slimmer, more refined take on the classic Grand H. Interpreting a storied watchmaking style for today, the bands exemplify technical precision and material fluidity. Both bands are bookended by the iconic “H” motif and lock into place with a butterfly clasp.",
+   "keywords": "apple watch band strap grand h 42mm hermes",
+   "specs": {
+    "bandType": "Hermès Grand H bracelet",
+    "fitsCaseMm": "38mm, 40mm, 41mm, 42mm",
+    "material": "Stainless steel",
+    "bandSize": "Small, Medium, Large",
+    "compatibility": "Apple Watch with 38mm, 40mm, 41mm, 42mm case",
+    "configurations": "Small – $1,299 · Medium – $1,299 · Large – $1,299"
+   },
+   "options": [
+    {
+     "name": "Configuration",
+     "values": [
+      {
+       "label": "Small",
+       "price": "1299.00",
+       "default": true
+      },
+      {
+       "label": "Medium",
+       "price": "1299.00"
+      },
+      {
+       "label": "Large",
+       "price": "1299.00"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "sku": "TK-HERMES-AWGRANDH-46",
+   "slug": "hermes-apple-watch-grand-h-46mm",
+   "name": "Apple Watch Hermès Grand H (46mm)",
+   "brand": "Hermès",
+   "category": "watch-bands",
+   "price": "1299.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    27,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "apple-ecosystem"
+   ],
+   "summary": "Apple Watch Hermès Grand H for 44mm, 45mm, 46mm, 49mm Apple Watch cases and 3 band sizes; $1299 at the Apple Store.",
+   "description": "The Grand H Fin band is a slimmer, more refined take on the classic Grand H. Interpreting a storied watchmaking style for today, the bands exemplify technical precision and material fluidity. Both bands are bookended by the iconic “H” motif and lock into place with a butterfly clasp.",
+   "keywords": "apple watch band strap grand h 46mm hermes",
+   "specs": {
+    "bandType": "Hermès Grand H bracelet",
+    "fitsCaseMm": "44mm, 45mm, 46mm, 49mm",
+    "material": "Stainless steel",
+    "bandSize": "Small, Medium, Large",
+    "compatibility": "Apple Watch with 44mm, 45mm, 46mm, 49mm case",
+    "configurations": "Small – $1,299 · Medium – $1,299 · Large – $1,299"
+   },
+   "options": [
+    {
+     "name": "Configuration",
+     "values": [
+      {
+       "label": "Small",
+       "price": "1299.00",
+       "default": true
+      },
+      {
+       "label": "Medium",
+       "price": "1299.00"
+      },
+      {
+       "label": "Large",
+       "price": "1299.00"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "sku": "TK-HERMES-AWGRANDHFIN-42",
+   "slug": "hermes-apple-watch-grand-h-fin-42mm",
+   "name": "Apple Watch Hermès Grand H Fin (42mm)",
+   "brand": "Hermès",
+   "category": "watch-bands",
+   "price": "1299.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    20,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "apple-ecosystem"
+   ],
+   "summary": "Apple Watch Hermès Grand H Fin for 38mm, 40mm, 41mm, 42mm Apple Watch cases and 3 band sizes; $1299 at the Apple Store.",
+   "description": "The Grand H Fin band is a slimmer, more refined take on the classic Grand H. Interpreting a storied watchmaking style for today, the bands exemplify technical precision and material fluidity. Both bands are bookended by the iconic “H” motif and lock into place with a butterfly clasp.",
+   "keywords": "apple watch band strap grand h fin 42mm hermes",
+   "specs": {
+    "bandType": "Hermès Grand H Fin bracelet",
+    "fitsCaseMm": "38mm, 40mm, 41mm, 42mm",
+    "material": "Stainless steel",
+    "bandSize": "Small, Medium, Large",
+    "compatibility": "Apple Watch with 38mm, 40mm, 41mm, 42mm case",
+    "configurations": "Small – $1,299 · Medium – $1,299 · Large – $1,299"
+   },
+   "options": [
+    {
+     "name": "Configuration",
+     "values": [
+      {
+       "label": "Small",
+       "price": "1299.00",
+       "default": true
+      },
+      {
+       "label": "Medium",
+       "price": "1299.00"
+      },
+      {
+       "label": "Large",
+       "price": "1299.00"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "sku": "TK-HERMES-AWGRANDHTITANE-49",
+   "slug": "hermes-apple-watch-grand-h-titane-49mm",
+   "name": "Apple Watch Hermès Grand H Titane (49mm)",
+   "brand": "Hermès",
+   "category": "watch-bands",
+   "price": "2199.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    56,
+    5
+   ],
+   "featured": true,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "apple-ecosystem"
+   ],
+   "summary": "Apple Watch Hermès Grand H Titane for 44mm, 45mm, 46mm, 49mm Apple Watch cases and 3 band sizes; $2199 at the Apple Store.",
+   "description": "Inspired by classic diving watches, the Grand H Titane is as elegant as it is practical. Meticulously crafted from lightweight, corrosion-resistant titanium, it has two removable links for a customized fit, and a unique built-in extension mechanism that allows the band to be lengthened up to 10 millimeters to fit over a wetsuit.",
+   "keywords": "apple watch band strap grand h titane 49mm hermes ultra",
+   "specs": {
+    "bandType": "Hermès Grand H Titane bracelet",
+    "fitsCaseMm": "44mm, 45mm, 46mm, 49mm",
+    "material": "Titanium",
+    "bandSize": "Small, Medium, Large",
+    "compatibility": "Apple Watch with 44mm, 45mm, 46mm, 49mm case",
+    "configurations": "Small – $2,199 · Medium – $2,199 · Large – $2,199"
+   },
+   "options": [
+    {
+     "name": "Configuration",
+     "values": [
+      {
+       "label": "Small",
+       "price": "2199.00",
+       "default": true
+      },
+      {
+       "label": "Medium",
+       "price": "2199.00"
+      },
+      {
+       "label": "Large",
+       "price": "2199.00"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "sku": "TK-HERMES-AWROCABARCLUB-42",
+   "slug": "hermes-apple-watch-rocabar-club-42mm",
+   "name": "Apple Watch Hermès Rocabar Club (42mm)",
+   "brand": "Hermès",
+   "category": "watch-bands",
+   "price": "499.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    54,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "apple-ecosystem"
+   ],
+   "summary": "Apple Watch Hermès Rocabar Club for 38mm, 40mm, 41mm, 42mm Apple Watch cases, offered in 4 colors; $499 at the Apple Store.",
+   "description": "The Rocabar Club is a bold and timeless knit band that is supple and comfortable. The contrasting color stripes and “H” motif reference the Hermès legacy in equine sports, from jumping poles to the colors often found in traditional horse blankets. Miniaturized knitting techniques create a beautiful 3D texture.",
+   "keywords": "apple watch band strap rocabar club 42mm hermes",
+   "specs": {
+    "bandType": "Hermès Rocabar Club knit band",
+    "fitsCaseMm": "38mm, 40mm, 41mm, 42mm",
+    "material": "Polyamide Yarn",
+    "compatibility": "Apple Watch with 38mm, 40mm, 41mm, 42mm case",
+    "colors": "Bleu Nuit/Gris Titane, Bleu Nuit/Orange, Bleu Nuit/Bleu Brighton, Bleu Nuit/Vert"
+   },
+   "options": [
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Bleu Nuit/Gris Titane",
+       "default": true,
+       "image": {
+        "small": "/images/catalog/hermes-apple-watch-rocabar-club-42mm--bleu-nuit-gris-titane-400.webp",
+        "large": "/images/catalog/hermes-apple-watch-rocabar-club-42mm--bleu-nuit-gris-titane-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple Watch Hermès Rocabar Club (42mm) in Bleu Nuit/Gris Titane, front view of the band on a white background"
+       }
+      },
+      {
+       "label": "Bleu Nuit/Orange",
+       "image": {
+        "small": "/images/catalog/hermes-apple-watch-rocabar-club-42mm--bleu-nuit-orange-400.webp",
+        "large": "/images/catalog/hermes-apple-watch-rocabar-club-42mm--bleu-nuit-orange-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple Watch Hermès Rocabar Club (42mm) in Bleu Nuit/Orange, front view of the band on a white background"
+       }
+      },
+      {
+       "label": "Bleu Nuit/Bleu Brighton",
+       "image": {
+        "small": "/images/catalog/hermes-apple-watch-rocabar-club-42mm--bleu-nuit-bleu-brighton-400.webp",
+        "large": "/images/catalog/hermes-apple-watch-rocabar-club-42mm--bleu-nuit-bleu-brighton-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple Watch Hermès Rocabar Club (42mm) in Bleu Nuit/Bleu Brighton, front view of the band on a white background"
+       }
+      },
+      {
+       "label": "Bleu Nuit/Vert",
+       "image": {
+        "small": "/images/catalog/hermes-apple-watch-rocabar-club-42mm--bleu-nuit-vert-400.webp",
+        "large": "/images/catalog/hermes-apple-watch-rocabar-club-42mm--bleu-nuit-vert-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple Watch Hermès Rocabar Club (42mm) in Bleu Nuit/Vert, front view of the band on a white background"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "sku": "TK-HERMES-AWROCABARCLUB-46",
+   "slug": "hermes-apple-watch-rocabar-club-46mm",
+   "name": "Apple Watch Hermès Rocabar Club (46mm)",
+   "brand": "Hermès",
+   "category": "watch-bands",
+   "price": "499.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    11,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "apple-ecosystem"
+   ],
+   "summary": "Apple Watch Hermès Rocabar Club for 44mm, 45mm, 46mm, 49mm Apple Watch cases, offered in 4 colors; $499 at the Apple Store.",
+   "description": "The Rocabar Club is a bold and timeless knit band that is supple and comfortable. The contrasting color stripes and “H” motif reference the Hermès legacy in equine sports, from jumping poles to the colors often found in traditional horse blankets. Miniaturized knitting techniques create a beautiful 3D texture.",
+   "keywords": "apple watch band strap rocabar club 46mm hermes",
+   "specs": {
+    "bandType": "Hermès Rocabar Club knit band",
+    "fitsCaseMm": "44mm, 45mm, 46mm, 49mm",
+    "material": "Polyamide Yarn",
+    "compatibility": "Apple Watch with 44mm, 45mm, 46mm, 49mm case",
+    "colors": "Bleu Nuit/Gris Titane, Bleu Nuit/Orange, Bleu Nuit/Bleu Brighton, Bleu Nuit/Vert"
+   },
+   "options": [
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Bleu Nuit/Gris Titane",
+       "default": true,
+       "image": {
+        "small": "/images/catalog/hermes-apple-watch-rocabar-club-46mm--bleu-nuit-gris-titane-400.webp",
+        "large": "/images/catalog/hermes-apple-watch-rocabar-club-46mm--bleu-nuit-gris-titane-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple Watch Hermès Rocabar Club (46mm) in Bleu Nuit/Gris Titane, front view of the band on a white background"
+       }
+      },
+      {
+       "label": "Bleu Nuit/Orange",
+       "image": {
+        "small": "/images/catalog/hermes-apple-watch-rocabar-club-46mm--bleu-nuit-orange-400.webp",
+        "large": "/images/catalog/hermes-apple-watch-rocabar-club-46mm--bleu-nuit-orange-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple Watch Hermès Rocabar Club (46mm) in Bleu Nuit/Orange, front view of the band on a white background"
+       }
+      },
+      {
+       "label": "Bleu Nuit/Bleu Brighton",
+       "image": {
+        "small": "/images/catalog/hermes-apple-watch-rocabar-club-46mm--bleu-nuit-bleu-brighton-400.webp",
+        "large": "/images/catalog/hermes-apple-watch-rocabar-club-46mm--bleu-nuit-bleu-brighton-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple Watch Hermès Rocabar Club (46mm) in Bleu Nuit/Bleu Brighton, front view of the band on a white background"
+       }
+      },
+      {
+       "label": "Bleu Nuit/Vert",
+       "image": {
+        "small": "/images/catalog/hermes-apple-watch-rocabar-club-46mm--bleu-nuit-vert-400.webp",
+        "large": "/images/catalog/hermes-apple-watch-rocabar-club-46mm--bleu-nuit-vert-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple Watch Hermès Rocabar Club (46mm) in Bleu Nuit/Vert, front view of the band on a white background"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "sku": "TK-HERMES-AWSATINCLOUDESELLE-42",
+   "slug": "hermes-apple-watch-satin-clou-de-selle-42mm",
+   "name": "Apple Watch Hermès Satin Clou de Selle (42mm)",
+   "brand": "Hermès",
+   "category": "watch-bands",
+   "price": "499.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    32,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "apple-ecosystem"
+   ],
+   "summary": "Apple Watch Hermès Satin Clou de Selle for 38mm, 40mm, 41mm, 42mm Apple Watch cases; $499 at the Apple Store.",
+   "description": "An exclusive pairing for the Apple Watch Hermès radiant gold titanium case, Satin Clou de Selle is a vision of elegance. The sophisticated black woven textile has a satin sheen that delicately reflects light and features an iconic Hermès golden Clou de Selle detail. A golden watch face completes the look.",
+   "keywords": "apple watch band strap satin clou de selle 42mm hermes",
+   "specs": {
+    "bandType": "Hermès Satin Clou de Selle",
+    "fitsCaseMm": "38mm, 40mm, 41mm, 42mm",
+    "material": "Polyamide Yarn",
+    "compatibility": "Apple Watch with 38mm, 40mm, 41mm, 42mm case"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-HERMES-AWSATINCLOUDESELLE-46",
+   "slug": "hermes-apple-watch-satin-clou-de-selle-46mm",
+   "name": "Apple Watch Hermès Satin Clou de Selle (46mm)",
+   "brand": "Hermès",
+   "category": "watch-bands",
+   "price": "499.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    41,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "apple-ecosystem"
+   ],
+   "summary": "Apple Watch Hermès Satin Clou de Selle for 44mm, 45mm, 46mm, 49mm Apple Watch cases; $499 at the Apple Store.",
+   "description": "An exclusive pairing for the Apple Watch Hermès radiant gold titanium case, Satin Clou de Selle is a vision of elegance. The sophisticated black woven textile has a satin sheen that delicately reflects light and features an iconic Hermès golden Clou de Selle detail. A golden watch face completes the look.",
+   "keywords": "apple watch band strap satin clou de selle 46mm hermes",
+   "specs": {
+    "bandType": "Hermès Satin Clou de Selle",
+    "fitsCaseMm": "44mm, 45mm, 46mm, 49mm",
+    "material": "Polyamide Yarn",
+    "compatibility": "Apple Watch with 44mm, 45mm, 46mm, 49mm case"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-HERMES-AWTOILEHSINGLETOUR-42",
+   "slug": "hermes-apple-watch-toile-h-single-tour-42mm",
+   "name": "Apple Watch Hermès Toile H Single Tour (42mm)",
+   "brand": "Hermès",
+   "category": "watch-bands",
+   "price": "499.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    9,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "apple-ecosystem"
+   ],
+   "summary": "Apple Watch Hermès Toile H Single Tour for 38mm, 40mm, 41mm, 42mm Apple Watch cases; $499 at the Apple Store.",
+   "description": "Toile H Single Tour is a silky, woven interpretation of Hermès’ signature checked canvas. This pattern, particularly in gold/écru, has been a hallmark of the brand for nearly a century.",
+   "keywords": "apple watch band strap toile h single tour 42mm hermes",
+   "specs": {
+    "bandType": "Hermès Toile H Single Tour",
+    "fitsCaseMm": "38mm, 40mm, 41mm, 42mm",
+    "material": "Polyamide Yarn",
+    "compatibility": "Apple Watch with 38mm, 40mm, 41mm, 42mm case"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-HERMES-AWTOILEHSINGLETOUR-46",
+   "slug": "hermes-apple-watch-toile-h-single-tour-46mm",
+   "name": "Apple Watch Hermès Toile H Single Tour (46mm)",
+   "brand": "Hermès",
+   "category": "watch-bands",
+   "price": "499.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    24,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "apple-ecosystem"
+   ],
+   "summary": "Apple Watch Hermès Toile H Single Tour for 44mm, 45mm, 46mm, 49mm Apple Watch cases; $499 at the Apple Store.",
+   "description": "Toile H Single Tour is a silky, woven interpretation of Hermès’ signature checked canvas. This pattern, particularly in gold/écru, has been a hallmark of the brand for nearly a century.",
+   "keywords": "apple watch band strap toile h single tour 46mm hermes",
+   "specs": {
+    "bandType": "Hermès Toile H Single Tour",
+    "fitsCaseMm": "44mm, 45mm, 46mm, 49mm",
+    "material": "Polyamide Yarn",
+    "compatibility": "Apple Watch with 44mm, 45mm, 46mm, 49mm case"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-HERMES-AWKILIMSINGLETOUR-42",
+   "slug": "hermes-apple-watch-kilim-single-tour-42mm",
+   "name": "Apple Watch Hermès Kilim Single Tour (42mm)",
+   "brand": "Hermès",
+   "category": "watch-bands",
+   "price": "499.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    19,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "apple-ecosystem"
+   ],
+   "summary": "Apple Watch Hermès Kilim Single Tour for 38mm, 40mm, 41mm, 42mm Apple Watch cases, offered in 5 colors; $499 at the Apple Store.",
+   "description": "Sporty with a splash of sophistication, Kilim is made from soft, waterproof molded rubber with an “H” motif. The band’s convenient deployment buckle can be set for a perfect fit, then easily opens or locks when you slip it on or off.",
+   "keywords": "apple watch band strap kilim single tour 42mm hermes",
+   "specs": {
+    "bandType": "Hermès Kilim Single Tour",
+    "fitsCaseMm": "38mm, 40mm, 41mm, 42mm",
+    "material": "Rubber",
+    "compatibility": "Apple Watch with 38mm, 40mm, 41mm, 42mm case",
+    "colors": "Bleu De Malte, Cuivre, Orange, Béton, Noir"
+   },
+   "options": [
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Bleu De Malte",
+       "default": true,
+       "image": {
+        "small": "/images/catalog/hermes-apple-watch-kilim-single-tour-42mm--bleu-de-malte-400.webp",
+        "large": "/images/catalog/hermes-apple-watch-kilim-single-tour-42mm--bleu-de-malte-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple Watch Hermès Kilim Single Tour (42mm) in Bleu De Malte, front view of the band on a white background"
+       }
+      },
+      {
+       "label": "Cuivre",
+       "image": {
+        "small": "/images/catalog/hermes-apple-watch-kilim-single-tour-42mm--cuivre-400.webp",
+        "large": "/images/catalog/hermes-apple-watch-kilim-single-tour-42mm--cuivre-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple Watch Hermès Kilim Single Tour (42mm) in Cuivre, front view of the band on a white background"
+       }
+      },
+      {
+       "label": "Orange",
+       "image": {
+        "small": "/images/catalog/hermes-apple-watch-kilim-single-tour-42mm--orange-400.webp",
+        "large": "/images/catalog/hermes-apple-watch-kilim-single-tour-42mm--orange-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple Watch Hermès Kilim Single Tour (42mm) in Orange, front view of the band on a white background"
+       }
+      },
+      {
+       "label": "Béton",
+       "image": {
+        "small": "/images/catalog/hermes-apple-watch-kilim-single-tour-42mm--beton-400.webp",
+        "large": "/images/catalog/hermes-apple-watch-kilim-single-tour-42mm--beton-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple Watch Hermès Kilim Single Tour (42mm) in Béton, front view of the band on a white background"
+       }
+      },
+      {
+       "label": "Noir",
+       "image": {
+        "small": "/images/catalog/hermes-apple-watch-kilim-single-tour-42mm--noir-400.webp",
+        "large": "/images/catalog/hermes-apple-watch-kilim-single-tour-42mm--noir-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple Watch Hermès Kilim Single Tour (42mm) in Noir, front view of the band on a white background"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "sku": "TK-HERMES-AWKILIMSINGLETOUR-46",
+   "slug": "hermes-apple-watch-kilim-single-tour-46mm",
+   "name": "Apple Watch Hermès Kilim Single Tour (46mm)",
+   "brand": "Hermès",
+   "category": "watch-bands",
+   "price": "499.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    42,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "apple-ecosystem"
+   ],
+   "summary": "Apple Watch Hermès Kilim Single Tour for 44mm, 45mm, 46mm, 49mm Apple Watch cases, offered in 5 colors; $499 at the Apple Store.",
+   "description": "Sporty with a splash of sophistication, Kilim is made from soft, waterproof molded rubber with an “H” motif. The band’s convenient deployment buckle can be set for a perfect fit, then easily opens or locks when you slip it on or off.",
+   "keywords": "apple watch band strap kilim single tour 46mm hermes",
+   "specs": {
+    "bandType": "Hermès Kilim Single Tour",
+    "fitsCaseMm": "44mm, 45mm, 46mm, 49mm",
+    "material": "Rubber",
+    "compatibility": "Apple Watch with 44mm, 45mm, 46mm, 49mm case",
+    "colors": "Bleu De Malte, Cuivre, Orange, Béton, Noir"
+   },
+   "options": [
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Bleu De Malte",
+       "default": true,
+       "image": {
+        "small": "/images/catalog/hermes-apple-watch-kilim-single-tour-46mm--bleu-de-malte-400.webp",
+        "large": "/images/catalog/hermes-apple-watch-kilim-single-tour-46mm--bleu-de-malte-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple Watch Hermès Kilim Single Tour (46mm) in Bleu De Malte, front view of the band on a white background"
+       }
+      },
+      {
+       "label": "Cuivre",
+       "image": {
+        "small": "/images/catalog/hermes-apple-watch-kilim-single-tour-46mm--cuivre-400.webp",
+        "large": "/images/catalog/hermes-apple-watch-kilim-single-tour-46mm--cuivre-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple Watch Hermès Kilim Single Tour (46mm) in Cuivre, front view of the band on a white background"
+       }
+      },
+      {
+       "label": "Orange",
+       "image": {
+        "small": "/images/catalog/hermes-apple-watch-kilim-single-tour-46mm--orange-400.webp",
+        "large": "/images/catalog/hermes-apple-watch-kilim-single-tour-46mm--orange-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple Watch Hermès Kilim Single Tour (46mm) in Orange, front view of the band on a white background"
+       }
+      },
+      {
+       "label": "Béton",
+       "image": {
+        "small": "/images/catalog/hermes-apple-watch-kilim-single-tour-46mm--beton-400.webp",
+        "large": "/images/catalog/hermes-apple-watch-kilim-single-tour-46mm--beton-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple Watch Hermès Kilim Single Tour (46mm) in Béton, front view of the band on a white background"
+       }
+      },
+      {
+       "label": "Noir",
+       "image": {
+        "small": "/images/catalog/hermes-apple-watch-kilim-single-tour-46mm--noir-400.webp",
+        "large": "/images/catalog/hermes-apple-watch-kilim-single-tour-46mm--noir-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Apple Watch Hermès Kilim Single Tour (46mm) in Noir, front view of the band on a white background"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "sku": "TK-APPLE-AWMAGFASTCHARGERUSBC",
+   "slug": "apple-watch-magnetic-fast-charger-usb-c-1m",
+   "name": "Apple Watch Magnetic Fast Charger to USB-C Cable (1 m)",
+   "brand": "Apple",
+   "category": "docks-adapters",
+   "price": "29.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    20,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "apple-ecosystem"
+   ],
+   "summary": "Woven 1 m USB-C cable with a magnetic fast-charging puck for Apple Watch; fast-charges supported models with a 20W USB-C adapter.",
+   "description": "Durable, woven cable with fast-charging capabilities for select Apple Watch models. Simply hold the connector near the back of the watch, where magnets cause it to snap into place automatically. This charger is fast-charging capable when paired with an Apple 20W USB-C Power Adapter (Model A2305). Just 15 minutes of charging: — Adds 8 hours of battery life to Apple Watch SE 3 — Adds 12 hours of battery life to Apple Watch Series 12 — Adds 18 hours of battery life to Apple Watch Ultra 4 To learn more about battery and charging, see this detailed page",
+   "keywords": "apple watch charger usb-c magnetic fast charging cable puck",
+   "specs": {
+    "interface": "USB-C to Apple Watch magnetic fast-charging connector, 1 m woven cable",
+    "configurations": "1 m woven cable"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-APPLE-AWMAGCHARGINGCABLE1M",
+   "slug": "apple-watch-magnetic-charging-cable-1m",
+   "name": "Apple Watch Magnetic Charging Cable (1 m)",
+   "brand": "Apple",
+   "category": "docks-adapters",
+   "price": "29.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    14,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "apple-ecosystem"
+   ],
+   "summary": "1 m Apple Watch Magnetic Charging Cable with a USB-A connector and a magnetic inductive charging puck.",
+   "description": "We wanted to make charging your Apple Watch utterly effortless. So we arrived at a solution that combines our MagSafe technology with inductive charging. It’s a completely sealed system free of exposed contacts. And it’s very forgiving, requiring no precise alignment.",
+   "keywords": "apple watch charger usb-a magnetic charging cable",
+   "specs": {
+    "interface": "USB-A to Apple Watch magnetic charging connector, 1 m cable",
+    "configurations": "1 m cable"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-SCOSCHE-WATCHITKEYCHAIN",
+   "slug": "scosche-watchit-keychain-apple-watch-fast-charger",
+   "name": "Scosche WatchIt Keychain Apple Watch Magnetic Fast Charger",
+   "brand": "Scosche",
+   "category": "docks-adapters",
+   "price": "29.95",
+   "compareAt": null,
+   "warranty": 36,
+   "stock": [
+    40,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "apple-ecosystem"
+   ],
+   "summary": "MFi-certified keychain Apple Watch magnetic fast charger with a flip-out USB-C connector, sold by the Apple Store.",
+   "description": "Destined to become your favorite, the Scosche WatchIt Keychain Apple Watch Magnetic Fast Charger With USB-C Connector is a compact and convenient MFi-certified keychain designed to keep your Watch charged and ready, wherever you go. Simply hold the magnetic module to the back of your Watch and feel the magnets snap it into perfect alignment for fast charging.",
+   "keywords": "scosche watchit keychain apple watch charger usb-c travel",
+   "specs": {
+    "interface": "Flip-out USB-C connector with Apple Watch magnetic fast-charging module",
+    "configurations": "Keychain charger, white"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-BELKIN-BCPRO-PB10K-AW",
+   "slug": "belkin-boostcharge-pro-power-bank-10k-apple-watch",
+   "name": "Belkin BoostCharge Pro Power Bank 10K with Apple Watch Charger",
+   "brand": "Belkin",
+   "category": "docks-adapters",
+   "price": "99.95",
+   "compareAt": null,
+   "warranty": 24,
+   "stock": [
+    24,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "apple-ecosystem"
+   ],
+   "summary": "10,000 mAh 3-in-1 power bank with a built-in Apple Watch charger, integrated USB-C cable and a 45W USB-C port.",
+   "description": "The Belkin BoostCharge Pro Power Bank 10K with Apple Watch Charger is an ultra-compact 3-in-1 power bank and charger. It features a built-in Apple Watch charger, integrated USB-C braided cable, and USB-C port that can fuel everything from smartphones to gaming consoles while on-the-go. Made using recycled materials, it also comes with a digital display and keychain loop to travel smarter.",
+   "keywords": "belkin power bank apple watch charger 10000mah usb-c portable",
+   "specs": {
+    "interface": "Built-in Apple Watch charger, integrated USB-C cable, USB-C port; 10,000 mAh battery",
+    "powerDeliveryW": 45,
+    "colors": "Black, Sand"
+   },
+   "options": [
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Black",
+       "default": true,
+       "image": {
+        "small": "/images/catalog/belkin-boostcharge-pro-power-bank-10k-apple-watch--black-400.webp",
+        "large": "/images/catalog/belkin-boostcharge-pro-power-bank-10k-apple-watch--black-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Belkin BoostCharge Pro Power Bank 10K with Apple Watch Charger in Black"
+       }
+      },
+      {
+       "label": "Sand",
+       "image": {
+        "small": "/images/catalog/belkin-boostcharge-pro-power-bank-10k-apple-watch--sand-400.webp",
+        "large": "/images/catalog/belkin-boostcharge-pro-power-bank-10k-apple-watch--sand-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Belkin BoostCharge Pro Power Bank 10K with Apple Watch Charger in Sand"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "sku": "TK-BELKIN-UCPRO-2IN1-CONV",
+   "slug": "belkin-ultracharge-pro-2-in-1-convertible-magnetic-charger",
+   "name": "Belkin UltraCharge Pro 2-in-1 Convertible Magnetic Charger",
+   "brand": "Belkin",
+   "category": "docks-adapters",
+   "price": "129.95",
+   "compareAt": null,
+   "warranty": 24,
+   "stock": [
+    11,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "apple-ecosystem"
+   ],
+   "summary": "Qi2 25W-certified convertible stand/pad that charges iPhone and Apple Watch at the same time; 45W power supply included.",
+   "description": "The Belkin UltraCharge Pro 2-in-1 Convertible Magnetic Charger powers your new iPhone with the latest in wireless charging technology. Engineered to reduce heat, you can safely charge two devices (iPhone and Apple Watch) simultaneously. The charger is certified for both Qi2 25W and Qi standard charging, so it can be used to wirelessly charge your MagSafe enabled iPhone, as well as AirPods models with a wireless charging case. The convertible design supports iPhone in both stand or pad mode and can adjust the angle to charge and view device in both landscape or portrait.",
+   "keywords": "belkin ultracharge qi2 25w 2-in-1 iphone apple watch charger stand",
+   "specs": {
+    "interface": "Qi2 25W magnetic iPhone pad + Apple Watch fast charger; USB-C input",
+    "powerDeliveryW": 25,
+    "colors": "Gray, Sand"
+   },
+   "options": [
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Gray",
+       "default": true,
+       "image": {
+        "small": "/images/catalog/belkin-ultracharge-pro-2-in-1-convertible-magnetic-charger--gray-400.webp",
+        "large": "/images/catalog/belkin-ultracharge-pro-2-in-1-convertible-magnetic-charger--gray-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Belkin UltraCharge Pro 2-in-1 Convertible Magnetic Charger in Gray, iPhone pad and Apple Watch charger"
+       }
+      },
+      {
+       "label": "Sand",
+       "image": {
+        "small": "/images/catalog/belkin-ultracharge-pro-2-in-1-convertible-magnetic-charger--sand-400.webp",
+        "large": "/images/catalog/belkin-ultracharge-pro-2-in-1-convertible-magnetic-charger--sand-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Belkin UltraCharge Pro 2-in-1 Convertible Magnetic Charger in Sand, iPhone pad and Apple Watch charger"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "sku": "TK-BELKIN-UCPRO-3IN1-DOCK",
+   "slug": "belkin-ultracharge-pro-3-in-1-magnetic-charging-dock",
+   "name": "Belkin UltraCharge Pro 3-in-1 Magnetic Charging Dock",
+   "brand": "Belkin",
+   "category": "docks-adapters",
+   "price": "149.95",
+   "compareAt": null,
+   "warranty": 24,
+   "stock": [
+    41,
+    5
+   ],
+   "featured": true,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "apple-ecosystem"
+   ],
+   "summary": "Qi2 25W magnetic dock that charges iPhone, Apple Watch and AirPods at once, with an adjustable weighted base and 45W power supply.",
+   "description": "With the stylish Belkin UltraCharge Pro 3-in-1 Magnetic Charging Dock, you can enjoy the fastest wireless charging ever with 25W of speed capable for compatible iPhones. Beautifully designed to power up to 3 devices simultaneously, its magnetic alignment ensures optimal charging and the movable base easily adjusts to your preferred dock setup.",
+   "keywords": "belkin ultracharge qi2 3-in-1 dock iphone apple watch airpods",
+   "specs": {
+    "interface": "Qi2 25W magnetic iPhone charger + Apple Watch charger + AirPods pad; USB-C input",
+    "powerDeliveryW": 25,
+    "colors": "Blue, Charcoal, Sand"
+   },
+   "options": [
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Blue",
+       "default": true,
+       "image": {
+        "small": "/images/catalog/belkin-ultracharge-pro-3-in-1-magnetic-charging-dock--blue-400.webp",
+        "large": "/images/catalog/belkin-ultracharge-pro-3-in-1-magnetic-charging-dock--blue-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Belkin UltraCharge Pro 3-in-1 Magnetic Charging Dock in Blue for iPhone, Apple Watch and AirPods"
+       }
+      },
+      {
+       "label": "Charcoal",
+       "image": {
+        "small": "/images/catalog/belkin-ultracharge-pro-3-in-1-magnetic-charging-dock--charcoal-400.webp",
+        "large": "/images/catalog/belkin-ultracharge-pro-3-in-1-magnetic-charging-dock--charcoal-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Belkin UltraCharge Pro 3-in-1 Magnetic Charging Dock in Charcoal for iPhone, Apple Watch and AirPods"
+       }
+      },
+      {
+       "label": "Sand",
+       "image": {
+        "small": "/images/catalog/belkin-ultracharge-pro-3-in-1-magnetic-charging-dock--sand-400.webp",
+        "large": "/images/catalog/belkin-ultracharge-pro-3-in-1-magnetic-charging-dock--sand-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Belkin UltraCharge Pro 3-in-1 Magnetic Charging Dock in Sand for iPhone, Apple Watch and AirPods"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "sku": "TK-BELKIN-BCPRO-2IN1-DOCK-MS",
+   "slug": "belkin-boostcharge-pro-2-in-1-wireless-charging-dock-magsafe",
+   "name": "Belkin BOOST↑CHARGE PRO 2-in-1 Wireless Charging Dock with MagSafe",
+   "brand": "Belkin",
+   "category": "docks-adapters",
+   "price": "119.95",
+   "compareAt": null,
+   "warranty": 24,
+   "stock": [
+    50,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "apple-ecosystem"
+   ],
+   "summary": "StandBy-friendly MagSafe dock with 15W iPhone charging and an Apple Watch fast charger; 30W USB-C power supply included.",
+   "description": "The Belkin BOOST↑CHARGE™ PRO 2-in-1 Wireless Charging Dock with MagSafe is designed to support StandBy for a full-screen experience on your iPhone while charging on its side with MagSafe. This dock enables perfect viewing angles of your MagSafe-enabled iPhone, making it ideal for your nightstand, kitchen counter, or desk. For each place you charge with this MagSafe dock, StandBy will remember your preferred view, whether it’s a clock, photos, or widgets. This ultraconvenient charging dock delivers 15W of fast wireless charging to your iPhone 15, iPhone 14, or MagSafe-compatible models while simultaneously fast charging your Apple Watch Ultra 2, Apple Watch Series 9, or other fast-charge-compatible Apple Watch models.",
+   "keywords": "belkin boostcharge magsafe 2-in-1 dock apple watch standby",
+   "specs": {
+    "interface": "MagSafe 15W iPhone charger + Apple Watch fast charger; braided USB-C cable",
+    "powerDeliveryW": 15,
+    "colors": "Charcoal, Sand"
+   },
+   "options": [
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Charcoal",
+       "default": true,
+       "image": {
+        "small": "/images/catalog/belkin-boostcharge-pro-2-in-1-wireless-charging-dock-magsafe--charcoal-400.webp",
+        "large": "/images/catalog/belkin-boostcharge-pro-2-in-1-wireless-charging-dock-magsafe--charcoal-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Belkin BOOST CHARGE PRO 2-in-1 Wireless Charging Dock with MagSafe in Charcoal"
+       }
+      },
+      {
+       "label": "Sand",
+       "image": {
+        "small": "/images/catalog/belkin-boostcharge-pro-2-in-1-wireless-charging-dock-magsafe--sand-400.webp",
+        "large": "/images/catalog/belkin-boostcharge-pro-2-in-1-wireless-charging-dock-magsafe--sand-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Belkin BOOST CHARGE PRO 2-in-1 Wireless Charging Dock with MagSafe in Sand"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "sku": "TK-MOPHIE-3IN1-CHARGESTAND",
+   "slug": "mophie-3-in-1-wireless-charge-stand",
+   "name": "mophie 3-in-1 Wireless Charge Stand",
+   "brand": "mophie",
+   "category": "docks-adapters",
+   "price": "149.95",
+   "compareAt": null,
+   "warranty": 24,
+   "stock": [
+    51,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "apple-ecosystem"
+   ],
+   "summary": "Qi2.2-certified stand charging iPhone at up to 25W, Apple Watch at up to 7.5W and AirPods at up to 5W, fanless and silent.",
+   "description": "The Wireless Charge Stand delivers up to 25W to your iPhone with StealthCharge Technology™, up to 7.5W to your Apple Watch, and up to 5W to your AirPods. Charge all three at once, all at full speed. StealthCharge Technology runs fanless and silent, engineered to keep heat away from your iPhone while charging. The iPhone charging surface offers an adjustable viewing angle so you can tilt it flat for the nightstand or upright for video calls at your desk, and StandBy mode turns your iPhone into a bedside display with time, widgets, and notifications while it charges overnight.",
+   "keywords": "mophie 3-in-1 qi2 wireless charge stand apple watch airpods",
+   "specs": {
+    "interface": "Qi2.2 25W iPhone + Apple Watch fast charger + AirPods pad; USB-C input",
+    "powerDeliveryW": 25,
+    "colors": "White, Gold, Black"
+   },
+   "options": [
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "White",
+       "default": true,
+       "image": {
+        "small": "/images/catalog/mophie-3-in-1-wireless-charge-stand--white-400.webp",
+        "large": "/images/catalog/mophie-3-in-1-wireless-charge-stand--white-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "mophie 3-in-1 Wireless Charge Stand in White for iPhone, Apple Watch and AirPods"
+       }
+      },
+      {
+       "label": "Gold",
+       "image": {
+        "small": "/images/catalog/mophie-3-in-1-wireless-charge-stand--gold-400.webp",
+        "large": "/images/catalog/mophie-3-in-1-wireless-charge-stand--gold-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "mophie 3-in-1 Wireless Charge Stand in Gold for iPhone, Apple Watch and AirPods"
+       }
+      },
+      {
+       "label": "Black",
+       "image": {
+        "small": "/images/catalog/mophie-3-in-1-wireless-charge-stand--black-400.webp",
+        "large": "/images/catalog/mophie-3-in-1-wireless-charge-stand--black-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "mophie 3-in-1 Wireless Charge Stand in Black for iPhone, Apple Watch and AirPods"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "sku": "TK-MOPHIE-4IN1-CHARGESTAND",
+   "slug": "mophie-4-in-1-wireless-charge-stand",
+   "name": "mophie 4-in-1 Wireless Charge Stand",
+   "brand": "mophie",
+   "category": "docks-adapters",
+   "price": "179.95",
+   "compareAt": null,
+   "warranty": 24,
+   "stock": [
+    38,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "apple-ecosystem"
+   ],
+   "summary": "Qi2.2 stand for iPhone (25W), Apple Watch (7.5W) and AirPods (5W) plus a retractable 60W USB-C cable; 100W adapter included.",
+   "description": "The mophie 4-in-1 Wireless Charge Stand brings fast, silent wireless charging for your iPhone, Apple Watch, and AirPods together in one compact design, with a retractable 60W USB-C cable built into the stand for your MacBook or iPad. It's Qi2.2-certified and MagSafe compatible, so your iPhone snaps magnetically into place on the charging surface for an uninterrupted flow of wireless charging power. The Wireless Charge Stand delivers up to 25W to your iPhone with StealthCharge Technology™, up to 7.5W to your Apple Watch, and up to 5W to your AirPods, while the built-in retractable USB-C cable outputs up to 60W for anything from iPad to MacBook. StealthCharge Technology runs fanless and silent, engineered to keep heat away from your iPhone while charging.",
+   "keywords": "mophie 4-in-1 qi2 wireless charge stand apple watch usb-c 60w",
+   "specs": {
+    "interface": "Qi2.2 25W iPhone + Apple Watch + AirPods wireless; retractable 60W USB-C cable",
+    "powerDeliveryW": 60,
+    "colors": "White, Gold, Black"
+   },
+   "options": [
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "White",
+       "default": true,
+       "image": {
+        "small": "/images/catalog/mophie-4-in-1-wireless-charge-stand--white-400.webp",
+        "large": "/images/catalog/mophie-4-in-1-wireless-charge-stand--white-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "mophie 4-in-1 Wireless Charge Stand in White with retractable USB-C cable"
+       }
+      },
+      {
+       "label": "Gold",
+       "image": {
+        "small": "/images/catalog/mophie-4-in-1-wireless-charge-stand--gold-400.webp",
+        "large": "/images/catalog/mophie-4-in-1-wireless-charge-stand--gold-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "mophie 4-in-1 Wireless Charge Stand in Gold with retractable USB-C cable"
+       }
+      },
+      {
+       "label": "Black",
+       "image": {
+        "small": "/images/catalog/mophie-4-in-1-wireless-charge-stand--black-400.webp",
+        "large": "/images/catalog/mophie-4-in-1-wireless-charge-stand--black-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "mophie 4-in-1 Wireless Charge Stand in Black with retractable USB-C cable"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "sku": "TK-MOPHIE-ROAM-3IN1-TRAVEL",
+   "slug": "mophie-roam-3-in-1-travel-charger",
+   "name": "mophie Roam 3-in-1 Travel Charger",
+   "brand": "mophie",
+   "category": "docks-adapters",
+   "price": "149.95",
+   "compareAt": null,
+   "warranty": 24,
+   "stock": [
+    46,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "apple-ecosystem"
+   ],
+   "summary": "Foldable Qi2.2 travel charger for iPhone (25W), Apple Watch (7.5W) and AirPods (5W) with a 40W international adapter and case.",
+   "description": "The mophie Roam 3-in-1 Travel Charger offers fast, silent wireless charging for your iPhone, Apple Watch, and AirPods into one compact, foldable design. It's Qi2.2-certified and MagSafe compatible, so your devices snap magnetically into place on the charging surfaces for an uninterrupted flow of wireless charging power. The Travel Charger delivers up to 25W to your iPhone powered by StealthCharge Technology™, up to 7.5W to your Apple Watch, and up to 5W to your AirPods. Charge all three at once, all at full speed.",
+   "keywords": "mophie roam 3-in-1 travel charger foldable qi2 apple watch",
+   "specs": {
+    "interface": "Qi2.2 25W iPhone + Apple Watch fast charger + AirPods pad; USB-C input",
+    "powerDeliveryW": 25,
+    "colors": "Cream, Black"
+   },
+   "options": [
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Cream",
+       "default": true,
+       "image": {
+        "small": "/images/catalog/mophie-roam-3-in-1-travel-charger--cream-400.webp",
+        "large": "/images/catalog/mophie-roam-3-in-1-travel-charger--cream-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "mophie Roam 3-in-1 Travel Charger in Cream, foldable charger for iPhone, Apple Watch and AirPods"
+       }
+      },
+      {
+       "label": "Black",
+       "image": {
+        "small": "/images/catalog/mophie-roam-3-in-1-travel-charger--black-400.webp",
+        "large": "/images/catalog/mophie-roam-3-in-1-travel-charger--black-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "mophie Roam 3-in-1 Travel Charger in Black, foldable charger for iPhone, Apple Watch and AirPods"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "sku": "TK-NIMBLE-PODIUM-3IN1",
+   "slug": "nimble-podium-3-in-1-wireless-charger",
+   "name": "Nimble Podium 3-in-1 Wireless Charger",
+   "brand": "Nimble",
+   "category": "docks-adapters",
+   "price": "139.95",
+   "compareAt": null,
+   "warranty": 24,
+   "stock": [
+    11,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "apple-ecosystem"
+   ],
+   "summary": "Low-profile Qi2-certified 3-in-1 charger for iPhone (up to 25W), Apple Watch and AirPods, built from recycled plastic and aluminum.",
+   "description": "The Nimble Podium 3-in-1 Wireless Charger is a versatile charging solution designed to power your iPhone, AirPods, and Apple Watch all at once. With Qi2 Certification and MagSafe compatibility, it delivers up to 25W of power for the fastest, most efficient charge possible. Whether standing upright or lying flat, Podium adapts to your needs. Built from 100% recycled plastic and aluminum, it’s as durable as it is eco-minded.",
+   "keywords": "nimble podium 3-in-1 qi2 wireless charger apple watch recycled",
+   "specs": {
+    "interface": "Qi2 25W iPhone + Apple Watch fast charger + AirPods pad; 45W USB-C adapter",
+    "powerDeliveryW": 25,
+    "colors": "White, Black"
+   },
+   "options": [
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "White",
+       "default": true,
+       "image": {
+        "small": "/images/catalog/nimble-podium-3-in-1-wireless-charger--white-400.webp",
+        "large": "/images/catalog/nimble-podium-3-in-1-wireless-charger--white-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Nimble Podium 3-in-1 Wireless Charger in White for iPhone, Apple Watch and AirPods"
+       }
+      },
+      {
+       "label": "Black",
+       "image": {
+        "small": "/images/catalog/nimble-podium-3-in-1-wireless-charger--black-400.webp",
+        "large": "/images/catalog/nimble-podium-3-in-1-wireless-charger--black-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Nimble Podium 3-in-1 Wireless Charger in Black for iPhone, Apple Watch and AirPods"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "sku": "TK-ZENS-4IN1-WIRELESS",
+   "slug": "zens-4-in-1-wireless-charger",
+   "name": "Zens 4-1 Wireless Charger",
+   "brand": "Zens",
+   "category": "docks-adapters",
+   "price": "149.95",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    22,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "apple-ecosystem"
+   ],
+   "summary": "Aluminum Qi2 station charging iPhone at 15W, Apple Watch up to 7.5W and AirPods at 5W, plus a 60W USB-C port.",
+   "description": "The Zens 4-1 Wireless Charger in white/silver delivers up to 60W of power while keeping all your devices organized and ready to go. Fast charge your smartphone at 15W, power up your Apple Watch up to 7.5W, and wirelessly recharge your AirPods up to 5W. The additional 60W USB-C port offers the flexibility to charge a fourth device via cable. Simplify your setup with a dedicated spot for everything you need, all in one beautifully designed station.",
+   "keywords": "zens 4-in-1 qi2 wireless charger apple watch aluminum 60w usb-c",
+   "specs": {
+    "interface": "Qi2 15W iPhone + Apple Watch + AirPods wireless; 60W USB-C output",
+    "powerDeliveryW": 60,
+    "configurations": "4-device station, white/silver; 65W adapter included"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-ANKER-3IN1-CUBE-QI2",
+   "slug": "anker-3-in-1-cube-with-qi2",
+   "name": "Anker 3-in-1 Cube with Qi2",
+   "brand": "Anker",
+   "category": "docks-adapters",
+   "price": "109.95",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    32,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "apple-ecosystem"
+   ],
+   "summary": "Compact cube-shaped Qi2 charger for iPhone (up to 15W), Apple Watch and AirPods, with a 40W adapter and US/UK/EU plugs.",
+   "description": "The Anker 3-in-1 Cube with Qi2 provides a safe, fast, and simultaneous charging experience for your iPhone, AirPods, and Apple Watch. Its cube-shaped design is ultra-compact and portable, keeping you powered up whether you're on vacation or a business trip. Charge your phone vertically or horizontally with adjustable viewing angles. Qi2-Certified Using the official Qi2 technology, enjoy fast wireless charging of up to 15W for your iPhone.",
+   "keywords": "anker 3-in-1 cube qi2 magsafe apple watch travel charger",
+   "specs": {
+    "interface": "Qi2 15W iPhone + Apple Watch + AirPods; USB-C input, 40W adapter",
+    "powerDeliveryW": 15,
+    "colors": "White, Gray"
+   },
+   "options": [
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "White",
+       "default": true,
+       "image": {
+        "small": "/images/catalog/anker-3-in-1-cube-with-qi2--white-400.webp",
+        "large": "/images/catalog/anker-3-in-1-cube-with-qi2--white-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Anker 3-in-1 Cube with Qi2 in White, compact charger for iPhone, Apple Watch and AirPods"
+       }
+      },
+      {
+       "label": "Gray",
+       "image": {
+        "small": "/images/catalog/anker-3-in-1-cube-with-qi2--gray-400.webp",
+        "large": "/images/catalog/anker-3-in-1-cube-with-qi2--gray-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Anker 3-in-1 Cube with Qi2 in Gray, compact charger for iPhone, Apple Watch and AirPods"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "sku": "TK-TWELVESOUTH-TIMEPORTER",
+   "slug": "twelve-south-timeporter-apple-watch-band-wall-mount",
+   "name": "Twelve South TimePorter Apple Watch Band Wall Mount (2 Pack)",
+   "brand": "Twelve South",
+   "category": "watch-bands",
+   "price": "39.95",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    36,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "apple-ecosystem"
+   ],
+   "summary": "Two glossy white wall mounts that each hold and display up to six Apple Watch bands; installs with 3M Command Strips.",
+   "description": "The Twelve South TimePorter Wall Mount keeps your Apple Watch bands neatly stored and easily accessible. Its glossy white finish blends seamlessly into any space—whether it’s your closet, bathroom, or another spot that could use a little more organization. With 3M Command Strips, installation is a breeze, and removal is just as simple. Need more space?",
+   "keywords": "twelve south timeporter apple watch band storage wall mount organizer",
+   "specs": {
+    "bandType": "Band storage / display wall mount",
+    "material": "Hard plastic",
+    "compatibility": "Apple Watch bands (loops and two-piece bands); holds up to 6 bands per mount",
+    "weightG": 65
+   },
+   "options": []
+  }
+ ]
+}
