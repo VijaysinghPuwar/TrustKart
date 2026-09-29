@@ -2,29 +2,37 @@ package com.vijaysinghpuwar.trustkart.config;
 
 import com.vijaysinghpuwar.trustkart.common.error.ErrorCode;
 import com.vijaysinghpuwar.trustkart.common.web.JsonErrorWriter;
+import com.vijaysinghpuwar.trustkart.security.AuthProperties;
 import com.vijaysinghpuwar.trustkart.security.CookieJwtAuthenticationFilter;
 import com.vijaysinghpuwar.trustkart.security.RateLimitFilter;
 import com.vijaysinghpuwar.trustkart.security.RateLimiter;
-import com.vijaysinghpuwar.trustkart.security.AuthProperties;
 import com.vijaysinghpuwar.trustkart.security.oauth.OAuthHandlers;
 import com.vijaysinghpuwar.trustkart.security.oauth.RedisAuthorizationRequestRepository;
-import org.springframework.beans.factory.ObjectProvider;
-import org.springframework.data.redis.core.StringRedisTemplate;
-import org.springframework.security.oauth2.client.registration.ClientRegistrationRepository;
+import jakarta.servlet.http.HttpServletRequest;
+import jakarta.servlet.http.HttpServletResponse;
 import java.util.List;
+import org.springframework.beans.factory.ObjectProvider;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.core.annotation.Order;
+import org.springframework.data.redis.core.StringRedisTemplate;
 import org.springframework.http.HttpMethod;
-import org.springframework.security.config.annotation.web.builders.HttpSecurity;
 import org.springframework.security.config.annotation.method.configuration.EnableMethodSecurity;
+import org.springframework.security.config.annotation.web.builders.HttpSecurity;
 import org.springframework.security.config.annotation.web.configuration.EnableWebSecurity;
 import org.springframework.security.config.http.SessionCreationPolicy;
-import org.springframework.security.oauth2.server.resource.authentication.JwtAuthenticationConverter;
+import org.springframework.security.oauth2.client.registration.ClientRegistrationRepository;
 import org.springframework.security.oauth2.jwt.JwtDecoder;
+import org.springframework.security.oauth2.server.resource.authentication.JwtAuthenticationConverter;
 import org.springframework.security.web.SecurityFilterChain;
 import org.springframework.security.web.authentication.AnonymousAuthenticationFilter;
+import org.springframework.security.web.csrf.CookieCsrfTokenRepository;
+import org.springframework.security.web.csrf.CsrfToken;
+import org.springframework.security.web.csrf.CsrfTokenRepository;
 import org.springframework.security.web.header.writers.ReferrerPolicyHeaderWriter;
+import org.springframework.security.web.servlet.util.matcher.PathPatternRequestMatcher;
+import org.springframework.security.web.util.matcher.OrRequestMatcher;
+import org.springframework.security.web.util.matcher.RequestMatcher;
 import org.springframework.web.cors.CorsConfiguration;
 import org.springframework.web.cors.CorsConfigurationSource;
 import org.springframework.web.cors.UrlBasedCorsConfigurationSource;
@@ -72,7 +80,7 @@ class SecurityConfig {
                 .cors(cors -> {})
                 // Auth travels in cookies, so CSRF protection stays on: the SPA echoes the XSRF-TOKEN cookie
                 // back in the X-XSRF-TOKEN header on every state-changing request.
-                .csrf(csrf -> csrf.spa())
+                .csrf(csrf -> csrf.spa().csrfTokenRepository(csrfTokens()))
                 .formLogin(f -> f.disable())
                 .httpBasic(b -> b.disable())
                 .logout(l -> l.disable())
@@ -104,6 +112,36 @@ class SecurityConfig {
                         .requestMatchers("/error").permitAll()
                         .anyRequest().denyAll());
         return http.build();
+    }
+
+    /**
+     * The SPA cookie repository, except that public catalog and search reads never set the cookie: those responses
+     * are shared through the CDN, and a cached Set-Cookie would hand every visitor the same token. The app fetches a
+     * token from /api/v1/auth/csrf before its first state-changing request, and every such request is still checked.
+     */
+    private static CsrfTokenRepository csrfTokens() {
+        CookieCsrfTokenRepository cookies = CookieCsrfTokenRepository.withHttpOnlyFalse();
+        RequestMatcher publicReads = new OrRequestMatcher(
+                PathPatternRequestMatcher.withDefaults().matcher(HttpMethod.GET, "/api/v1/catalog/**"),
+                PathPatternRequestMatcher.withDefaults().matcher(HttpMethod.GET, "/api/v1/search/**"));
+        return new CsrfTokenRepository() {
+            @Override
+            public CsrfToken generateToken(HttpServletRequest request) {
+                return cookies.generateToken(request);
+            }
+
+            @Override
+            public void saveToken(CsrfToken token, HttpServletRequest request, HttpServletResponse response) {
+                if (!publicReads.matches(request)) {
+                    cookies.saveToken(token, request, response);
+                }
+            }
+
+            @Override
+            public CsrfToken loadToken(HttpServletRequest request) {
+                return cookies.loadToken(request);
+            }
+        };
     }
 
     @Bean

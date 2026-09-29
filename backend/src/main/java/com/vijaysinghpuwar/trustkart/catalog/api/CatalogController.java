@@ -13,6 +13,7 @@ import com.vijaysinghpuwar.trustkart.catalog.application.CatalogViews.ProductDet
 import com.vijaysinghpuwar.trustkart.catalog.application.ListingParams;
 import com.vijaysinghpuwar.trustkart.catalog.application.PageResult;
 import com.vijaysinghpuwar.trustkart.catalog.application.ProductSort;
+import com.vijaysinghpuwar.trustkart.common.web.PublicCache;
 import com.vijaysinghpuwar.trustkart.search.application.QueryInterpreter;
 import io.swagger.v3.oas.annotations.Operation;
 import io.swagger.v3.oas.annotations.tags.Tag;
@@ -20,7 +21,6 @@ import jakarta.validation.constraints.Max;
 import jakarta.validation.constraints.Min;
 import jakarta.validation.constraints.Pattern;
 import jakarta.validation.constraints.Size;
-import java.time.Duration;
 import java.util.List;
 import org.springframework.http.CacheControl;
 import org.springframework.http.ResponseEntity;
@@ -37,8 +37,8 @@ import org.springframework.web.bind.annotation.RestController;
 class CatalogController {
 
     private static final String SLUG = "[a-z0-9]+(-[a-z0-9]+)*";
-    /** Catalog responses are public and not personalised; a short shared cache keeps them fast. */
-    private static final CacheControl PUBLIC_SHORT = CacheControl.maxAge(Duration.ofSeconds(60)).cachePublic();
+    /** Catalog responses are public and not personalised, so browsers and the CDN may share them. */
+    private static final CacheControl PUBLIC_SHORT = PublicCache.CATALOG;
 
     private final CatalogService catalog;
     private final CatalogQueryBuilder queries;
@@ -79,8 +79,8 @@ class CatalogController {
 
     @GetMapping("/products/lookup")
     @Operation(summary = "Product cards by id, in the given order (recently viewed, wishlists)")
-    List<ProductCardDto> lookup(@RequestParam @Size(max = CatalogService.MAX_LOOKUP) List<@Min(1) Long> ids) {
-        return catalog.lookup(ids);
+    ResponseEntity<List<ProductCardDto>> lookup(@RequestParam @Size(max = CatalogService.MAX_LOOKUP) List<@Min(1) Long> ids) {
+        return ResponseEntity.ok().cacheControl(PUBLIC_SHORT).body(catalog.lookup(ids));
     }
 
     @GetMapping("/products/{slug}")
@@ -90,13 +90,14 @@ class CatalogController {
 
     @GetMapping("/compare")
     @Operation(summary = "Side-by-side comparison of 2 to 4 products")
-    CompareDto compare(@RequestParam @Size(min = 2, max = CatalogService.MAX_COMPARE) List<@Pattern(regexp = SLUG) String> slugs) {
-        return catalog.compare(slugs);
+    ResponseEntity<CompareDto> compare(
+            @RequestParam @Size(min = 2, max = CatalogService.MAX_COMPARE) List<@Pattern(regexp = SLUG) String> slugs) {
+        return ResponseEntity.ok().cacheControl(PUBLIC_SHORT).body(catalog.compare(slugs));
     }
 
     @GetMapping("/collections/{tag}")
-    List<ProductCardDto> collection(@PathVariable @Pattern(regexp = SLUG) @Size(max = 60) String tag,
+    ResponseEntity<List<ProductCardDto>> collection(@PathVariable @Pattern(regexp = SLUG) @Size(max = 60) String tag,
             @RequestParam(defaultValue = "12") @Min(1) @Max(48) int limit) {
-        return catalog.collection(tag, limit);
+        return ResponseEntity.ok().cacheControl(PUBLIC_SHORT).body(catalog.collection(tag, limit));
     }
 }
