@@ -3,6 +3,7 @@ import { Outlet, ScrollRestoration, useLocation } from 'react-router'
 import { CartDrawer } from '@/components/commerce/CartDrawer'
 import { CompareTray } from '@/components/commerce/CompareTray'
 import { SiteFooter } from '@/components/layout/SiteFooter'
+import { ServerWakeNotice } from '@/components/layout/ServerWakeNotice'
 import { SiteHeader } from '@/components/layout/SiteHeader'
 import { SkipLink } from '@/components/layout/SkipLink'
 import { PageSpinner } from '@/components/ui/PageSpinner'
@@ -18,6 +19,7 @@ export function RootLayout() {
     <div className="flex min-h-dvh flex-col">
       <SkipLink />
       <SiteHeader />
+      <ServerWakeNotice />
       <main
         id="main"
         tabIndex={-1}

@@ -13,9 +13,11 @@ function createQueryClient() {
       queries: {
         staleTime: 30_000,
         refetchOnWindowFocus: false,
-        // Client errors (404, validation, auth) won't fix themselves; retry only transient failures.
+        // Client errors (404, validation, auth) won't fix themselves; retry only transient failures. Those are
+        // retried for about 90 seconds, long enough for a sleeping free-tier API to boot.
         retry: (count, error) =>
-          count < 2 && !(error instanceof ApiError && error.status >= 400 && error.status < 500),
+          count < 8 && !(error instanceof ApiError && error.status >= 400 && error.status < 500),
+        retryDelay: (attempt) => Math.min(2_000 * 2 ** attempt, 15_000),
       },
     },
   })

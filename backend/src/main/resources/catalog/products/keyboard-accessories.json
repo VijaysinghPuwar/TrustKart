@@ -1,0 +1,2445 @@
+{
+ "products": [
+  {
+   "sku": "TK-KEYCHRON-SILK-POM-SW",
+   "slug": "keychron-silk-pom-switch",
+   "name": "Keychron Silk POM Mechanical Switch Set",
+   "brand": "Keychron",
+   "category": "keyboard-accessories",
+   "price": "14.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    13,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "developer-setup"
+   ],
+   "summary": "Keychron Silk POM mechanical switches in Red, Brown or Banana, sold in 45- or 110-switch packs.",
+   "description": "The Keychron Silk POM Mechanical Switch Set is sold in 45-switch and 110-switch packs. It is offered in Red, Brown and Banana versions for hot-swappable MX-style keyboards.",
+   "keywords": "mechanical switch pom silk red brown banana hot swap mx",
+   "specs": {
+    "accessoryType": "Switches",
+    "compatibility": "Hot-swappable MX-style mechanical keyboards",
+    "configurations": "45 switches – $14.99 · 110 switches – $29.99"
+   },
+   "options": [
+    {
+     "name": "Configuration",
+     "values": [
+      {
+       "label": "45 switches",
+       "price": "14.99",
+       "default": true
+      },
+      {
+       "label": "110 switches",
+       "price": "29.99"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "sku": "TK-KEYCHRON-LIME-MAG-SW",
+   "slug": "keychron-ultra-fast-lime-magnetic-switch",
+   "name": "Keychron Ultra-Fast Lime Magnetic Switch Set",
+   "brand": "Keychron",
+   "category": "keyboard-accessories",
+   "price": "29.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    49,
+    5
+   ],
+   "featured": true,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "ultimate-gaming-setup"
+   ],
+   "summary": "110-pack of Keychron Ultra-Fast Lime Hall-effect magnetic switches for Keychron HE 8K and Lemokey L0/L5 HE boards.",
+   "description": "The Keychron Ultra-Fast Lime Magnetic Switch Set comes with 110 switches and a bottle. It is compatible with Keychron HE 8K series, Keychron HE 1K Ultra-fast Lime version keyboards and Lemokey L0 HE and L5 HE keyboards, and is not compatible with mechanical keyboards or the Lemokey L1 HE.",
+   "keywords": "hall effect magnetic switch rapid trigger lime banana silent he 8k",
+   "specs": {
+    "accessoryType": "Switches (magnetic / Hall effect)",
+    "compatibility": "Keychron HE 8K series, HE 1K Ultra-fast Lime versions, Lemokey L0 HE and L5 HE",
+    "configurations": "Lime (110) – $29.99 · Banana (110) – $29.99 · Silent Red (110) – $34.99 · Silent Banana (110) – $34.99"
+   },
+   "options": [
+    {
+     "name": "Configuration",
+     "values": [
+      {
+       "label": "Lime (110)",
+       "price": "29.99",
+       "default": true
+      },
+      {
+       "label": "Banana (110)",
+       "price": "29.99"
+      },
+      {
+       "label": "Silent Red (110)",
+       "price": "34.99"
+      },
+      {
+       "label": "Silent Banana (110)",
+       "price": "34.99"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "sku": "TK-KEYCHRON-SWTESTER-100MAX",
+   "slug": "keychron-switch-tester-100-max-edition",
+   "name": "Keychron Switch Tester 100 Max Edition",
+   "brand": "Keychron",
+   "category": "keyboard-accessories",
+   "price": "59.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    33,
+    5
+   ],
+   "featured": true,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "developer-setup"
+   ],
+   "summary": "100-switch tester with 88 mechanical and 12 magnetic switches from Huano, Keychron, Gateron and Kailh, plus clear keycaps.",
+   "description": "Each Keychron Switch Tester 100 Max Edition comes with 100 switches, including 88 mechanical switches and 12 magnetic switches from Huano, Keychron, Gateron and Kailh, plus transparent ABS keycaps. It lets you compare feel, sound and force before committing to a build; Version 2 includes Keychron Apex switches in place of Super switches.",
+   "keywords": "switch tester sampler gateron kailh huano magnetic mechanical",
+   "specs": {
+    "accessoryType": "Switch tester",
+    "compatibility": "Standalone tester (88 mechanical + 12 magnetic switches)",
+    "configurations": "Version 2 (Keychron Apex switches)"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-KEYCHRON-2IN1-PULLER",
+   "slug": "keychron-2-in-1-switch-and-keycap-puller",
+   "name": "Keychron 2-in-1 Switch and Keycap Puller",
+   "brand": "Keychron",
+   "category": "keyboard-accessories",
+   "price": "13.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    22,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [],
+   "summary": "Dual-ended tool with a wire-loop keycap puller on one end and a switch clamp on the other.",
+   "description": "The Keychron 2-in-1 puller combines a wire-loop keycap puller with a specialised switch clamp that grips the upper and lower latches of a switch, so both keycaps and hot-swap switches can be removed with one tool.",
+   "keywords": "keycap puller switch puller tool hot swap",
+   "specs": {
+    "accessoryType": "Keycap and switch puller",
+    "compatibility": "MX-style keycaps and hot-swap switches",
+    "colors": "Black"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-KEYCHRON-SILICONE-PALM",
+   "slug": "keychron-silicone-palm-rest",
+   "name": "Keychron Silicone Palm Rest",
+   "brand": "Keychron",
+   "category": "keyboard-accessories",
+   "price": "14.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    45,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [],
+   "summary": "Premium silicone palm rest sized for Keychron layouts from numpad and 60% to 100%, Alice and split boards.",
+   "description": "The Keychron Silicone Palm Rest is made from premium silicone for ergonomic support while typing or gaming. It is offered in lengths matched to Keychron keyboard sizes, including 60%, 65/75%, 80%, 96%, 100%, Alice, split and numpad versions; the keyboard is not included.",
+   "keywords": "palm rest wrist rest silicone ergonomic keychron",
+   "specs": {
+    "accessoryType": "Wrist rest",
+    "compatibility": "Keychron keyboards (numpad, 60%-100%, Alice, split layouts)",
+    "configurations": "Standard sizes (60%-100%) – $14.99 · Alice layouts – $19.99",
+    "colors": "Black, Gray, Light Purple, Light Pink"
+   },
+   "options": [
+    {
+     "name": "Configuration",
+     "values": [
+      {
+       "label": "Standard sizes (60%-100%)",
+       "price": "14.99",
+       "default": true
+      },
+      {
+       "label": "Alice layouts",
+       "price": "19.99"
+      }
+     ]
+    },
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Black",
+       "default": true,
+       "image": {
+        "small": "/images/catalog/keychron-silicone-palm-rest--black-400.webp",
+        "large": "/images/catalog/keychron-silicone-palm-rest--black-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Keychron Silicone Palm Rest in Black, product shot"
+       }
+      },
+      {
+       "label": "Gray",
+       "image": {
+        "small": "/images/catalog/keychron-silicone-palm-rest--gray-400.webp",
+        "large": "/images/catalog/keychron-silicone-palm-rest--gray-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Keychron Silicone Palm Rest in Gray, product shot"
+       }
+      },
+      {
+       "label": "Light Purple",
+       "image": {
+        "small": "/images/catalog/keychron-silicone-palm-rest--light-purple-400.webp",
+        "large": "/images/catalog/keychron-silicone-palm-rest--light-purple-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Keychron Silicone Palm Rest in Light Purple, product shot"
+       }
+      },
+      {
+       "label": "Light Pink",
+       "image": {
+        "small": "/images/catalog/keychron-silicone-palm-rest--light-pink-400.webp",
+        "large": "/images/catalog/keychron-silicone-palm-rest--light-pink-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Keychron Silicone Palm Rest in Light Pink, product shot"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "sku": "TK-KEYCHRON-COILED-AVIATOR-8K",
+   "slug": "keychron-coiled-aviator-cable-8k",
+   "name": "Keychron Coiled Aviator Cable 8K",
+   "brand": "Keychron",
+   "category": "keyboard-accessories",
+   "price": "19.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    28,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [],
+   "summary": "Coiled USB-C aviator keyboard cable for 8K polling keyboards, with straight or angled connector in up to 10 colours.",
+   "description": "The Keychron Coiled Aviator Cable 8K is available with a straight connector in 10 colours or an angled connector in 8 colours. It is designed for Keychron keyboards with 8 kHz polling.",
+   "keywords": "coiled cable aviator usb-c keyboard cable 8k",
+   "specs": {
+    "accessoryType": "Cable",
+    "connection": "USB-C, coiled with aviator connector",
+    "compatibility": "Keychron 8 kHz polling keyboards",
+    "configurations": "Straight connector – $19.99 · Angled connector – $19.99",
+    "colors": "Black, Blue, Gray, White, Pink Orange, Light Pink, Yellow, Light Purple, Mint, Light Blue"
+   },
+   "options": [
+    {
+     "name": "Configuration",
+     "values": [
+      {
+       "label": "Straight connector",
+       "price": "19.99",
+       "default": true
+      },
+      {
+       "label": "Angled connector",
+       "price": "19.99"
+      }
+     ]
+    },
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Black",
+       "default": true,
+       "image": {
+        "small": "/images/catalog/keychron-coiled-aviator-cable-8k--black-400.webp",
+        "large": "/images/catalog/keychron-coiled-aviator-cable-8k--black-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Keychron Coiled Aviator Cable 8K in Black, coiled USB-C cable product shot"
+       }
+      },
+      {
+       "label": "Blue",
+       "image": {
+        "small": "/images/catalog/keychron-coiled-aviator-cable-8k--blue-400.webp",
+        "large": "/images/catalog/keychron-coiled-aviator-cable-8k--blue-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Keychron Coiled Aviator Cable 8K in Blue, coiled USB-C cable product shot"
+       }
+      },
+      {
+       "label": "Gray",
+       "image": {
+        "small": "/images/catalog/keychron-coiled-aviator-cable-8k--gray-400.webp",
+        "large": "/images/catalog/keychron-coiled-aviator-cable-8k--gray-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Keychron Coiled Aviator Cable 8K in Gray, coiled USB-C cable product shot"
+       }
+      },
+      {
+       "label": "White",
+       "image": {
+        "small": "/images/catalog/keychron-coiled-aviator-cable-8k--white-400.webp",
+        "large": "/images/catalog/keychron-coiled-aviator-cable-8k--white-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Keychron Coiled Aviator Cable 8K in White, coiled USB-C cable product shot"
+       }
+      },
+      {
+       "label": "Pink Orange",
+       "image": {
+        "small": "/images/catalog/keychron-coiled-aviator-cable-8k--pink-orange-400.webp",
+        "large": "/images/catalog/keychron-coiled-aviator-cable-8k--pink-orange-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Keychron Coiled Aviator Cable 8K in Pink Orange, coiled USB-C cable product shot"
+       }
+      },
+      {
+       "label": "Light Pink",
+       "image": {
+        "small": "/images/catalog/keychron-coiled-aviator-cable-8k--light-pink-400.webp",
+        "large": "/images/catalog/keychron-coiled-aviator-cable-8k--light-pink-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Keychron Coiled Aviator Cable 8K in Light Pink, coiled USB-C cable product shot"
+       }
+      },
+      {
+       "label": "Yellow",
+       "image": {
+        "small": "/images/catalog/keychron-coiled-aviator-cable-8k--yellow-400.webp",
+        "large": "/images/catalog/keychron-coiled-aviator-cable-8k--yellow-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Keychron Coiled Aviator Cable 8K in Yellow, coiled USB-C cable product shot"
+       }
+      },
+      {
+       "label": "Light Purple",
+       "image": {
+        "small": "/images/catalog/keychron-coiled-aviator-cable-8k--light-purple-400.webp",
+        "large": "/images/catalog/keychron-coiled-aviator-cable-8k--light-purple-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Keychron Coiled Aviator Cable 8K in Light Purple, coiled USB-C cable product shot"
+       }
+      },
+      {
+       "label": "Mint",
+       "image": {
+        "small": "/images/catalog/keychron-coiled-aviator-cable-8k--mint-400.webp",
+        "large": "/images/catalog/keychron-coiled-aviator-cable-8k--mint-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Keychron Coiled Aviator Cable 8K in Mint, coiled USB-C cable product shot"
+       }
+      },
+      {
+       "label": "Light Blue",
+       "image": {
+        "small": "/images/catalog/keychron-coiled-aviator-cable-8k--light-blue-400.webp",
+        "large": "/images/catalog/keychron-coiled-aviator-cable-8k--light-blue-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Keychron Coiled Aviator Cable 8K in Light Blue, coiled USB-C cable product shot"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "sku": "TK-KEYCHRON-GEEK-CABLE-8K",
+   "slug": "keychron-double-sleeved-geek-cable-8k",
+   "name": "Keychron Double-Sleeved Geek Cable 8K",
+   "brand": "Keychron",
+   "category": "keyboard-accessories",
+   "price": "19.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    31,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [],
+   "summary": "Double-sleeved USB-C keyboard cable for Keychron 8 kHz polling keyboards in White, Black, Orange or Purple.",
+   "description": "The Keychron Double-Sleeved Geek Cable 8K is a Type-C cable offered in White, Black, Orange and Purple. It is intended for Keychron keyboards with 8 kHz polling rate.",
+   "keywords": "keyboard cable sleeved usb-c 8k geek",
+   "specs": {
+    "accessoryType": "Cable",
+    "connection": "USB-C",
+    "compatibility": "Keychron 8 kHz polling keyboards",
+    "colors": "White, Black, Orange, Purple"
+   },
+   "options": [
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "White",
+       "default": true,
+       "image": {
+        "small": "/images/catalog/keychron-double-sleeved-geek-cable-8k--white-400.webp",
+        "large": "/images/catalog/keychron-double-sleeved-geek-cable-8k--white-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Keychron Double-Sleeved Geek Cable 8K in White, product shot"
+       }
+      },
+      {
+       "label": "Black",
+       "image": {
+        "small": "/images/catalog/keychron-double-sleeved-geek-cable-8k--black-400.webp",
+        "large": "/images/catalog/keychron-double-sleeved-geek-cable-8k--black-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Keychron Double-Sleeved Geek Cable 8K in Black, product shot"
+       }
+      },
+      {
+       "label": "Orange",
+       "image": {
+        "small": "/images/catalog/keychron-double-sleeved-geek-cable-8k--orange-400.webp",
+        "large": "/images/catalog/keychron-double-sleeved-geek-cable-8k--orange-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Keychron Double-Sleeved Geek Cable 8K in Orange, product shot"
+       }
+      },
+      {
+       "label": "Purple",
+       "image": {
+        "small": "/images/catalog/keychron-double-sleeved-geek-cable-8k--purple-400.webp",
+        "large": "/images/catalog/keychron-double-sleeved-geek-cable-8k--purple-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Keychron Double-Sleeved Geek Cable 8K in Purple, product shot"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "sku": "TK-KEYCHRON-PREMIUM-AVIATOR",
+   "slug": "keychron-premium-coiled-aviator-cable",
+   "name": "Keychron Premium Coiled Aviator Cable",
+   "brand": "Keychron",
+   "category": "keyboard-accessories",
+   "price": "24.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    58,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [],
+   "summary": "Premium coiled aviator USB-C cable in Red, Purple or rainbow-plated Black/Blue, with straight or angled connector.",
+   "description": "The Keychron Premium Coiled Aviator Cable comes in Red, Purple, Rainbow Plated Blue and Rainbow Plated Black. The straight version suits Q, Q Pro, Q Max, 81 Pro, K10 Pro, V and V Max keyboards; the angled version suits K, K Pro and K Max keyboards (with listed exceptions).",
+   "keywords": "coiled aviator cable premium rainbow plated usb-c",
+   "specs": {
+    "accessoryType": "Cable",
+    "connection": "USB-C, coiled with aviator connector",
+    "compatibility": "Keychron Q, V, K series (straight or angled connector)",
+    "configurations": "Red / Purple – $24.99 · Rainbow Plated Black / Blue – $34.99",
+    "colors": "Rainbow Plated Black, Rainbow Plated Blue, Purple, Red"
+   },
+   "options": [
+    {
+     "name": "Configuration",
+     "values": [
+      {
+       "label": "Red / Purple",
+       "price": "24.99",
+       "default": true
+      },
+      {
+       "label": "Rainbow Plated Black / Blue",
+       "price": "34.99"
+      }
+     ]
+    },
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Rainbow Plated Black",
+       "default": true,
+       "image": {
+        "small": "/images/catalog/keychron-premium-coiled-aviator-cable--rainbow-plated-black-400.webp",
+        "large": "/images/catalog/keychron-premium-coiled-aviator-cable--rainbow-plated-black-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Keychron Premium Coiled Aviator Cable in Rainbow Plated Black, product shot"
+       }
+      },
+      {
+       "label": "Rainbow Plated Blue",
+       "image": {
+        "small": "/images/catalog/keychron-premium-coiled-aviator-cable--rainbow-plated-blue-400.webp",
+        "large": "/images/catalog/keychron-premium-coiled-aviator-cable--rainbow-plated-blue-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Keychron Premium Coiled Aviator Cable in Rainbow Plated Blue, product shot"
+       }
+      },
+      {
+       "label": "Purple",
+       "image": {
+        "small": "/images/catalog/keychron-premium-coiled-aviator-cable--purple-400.webp",
+        "large": "/images/catalog/keychron-premium-coiled-aviator-cable--purple-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Keychron Premium Coiled Aviator Cable in Purple, product shot"
+       }
+      },
+      {
+       "label": "Red",
+       "image": {
+        "small": "/images/catalog/keychron-premium-coiled-aviator-cable--red-400.webp",
+        "large": "/images/catalog/keychron-premium-coiled-aviator-cable--red-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Keychron Premium Coiled Aviator Cable in Red, product shot"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "sku": "TK-KEYCHRON-SUPER-SW",
+   "slug": "keychron-super-switch",
+   "name": "Keychron Super Switch Set",
+   "brand": "Keychron",
+   "category": "keyboard-accessories",
+   "price": "5.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    15,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [],
+   "summary": "Keychron Super mechanical switches in Red, Brown or Banana, in 45- or 110-switch sets.",
+   "description": "Each Keychron Super Switch Set comes in 45-switch or 110-switch options, in Red, Brown and Banana versions for hot-swappable MX-style keyboards.",
+   "keywords": "keychron super switch red brown banana mechanical",
+   "specs": {
+    "accessoryType": "Switches",
+    "compatibility": "Hot-swappable MX-style mechanical keyboards",
+    "configurations": "45 switches (Red/Brown) – $5.99 · 45 switches (Banana) – $6.99 · 110 switches – $14.99"
+   },
+   "options": [
+    {
+     "name": "Configuration",
+     "values": [
+      {
+       "label": "45 switches (Red/Brown)",
+       "price": "5.99",
+       "default": true
+      },
+      {
+       "label": "45 switches (Banana)",
+       "price": "6.99"
+      },
+      {
+       "label": "110 switches",
+       "price": "14.99"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "sku": "TK-KEYCHRON-KPRO-SW",
+   "slug": "keychron-k-pro-switch",
+   "name": "Keychron K Pro Switch Set",
+   "brand": "Keychron",
+   "category": "keyboard-accessories",
+   "price": "5.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    15,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [],
+   "summary": "Keychron K Pro mechanical switches in seven versions, in packs of 45 to 110 switches with a bottle.",
+   "description": "Each Keychron K Pro Switch Set comes with 110, 90, 70 or 45 switches and a bottle. Versions include Red, Blue, Brown, Yellow, Silver, Banana and Mint.",
+   "keywords": "k pro switch red blue brown yellow silver banana mint",
+   "specs": {
+    "accessoryType": "Switches",
+    "compatibility": "Hot-swappable MX-style mechanical keyboards",
+    "configurations": "45 switches – $6.99 · 110 switches – $14.99"
+   },
+   "options": [
+    {
+     "name": "Configuration",
+     "values": [
+      {
+       "label": "Configuration shown",
+       "price": "5.99",
+       "default": true
+      },
+      {
+       "label": "45 switches",
+       "price": "6.99"
+      },
+      {
+       "label": "110 switches",
+       "price": "14.99"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "sku": "TK-KEYCHRON-MILK-POM-LP-SW",
+   "slug": "keychron-milk-pom-low-profile-switch",
+   "name": "Keychron Milk POM Low Profile Switch Set",
+   "brand": "Keychron",
+   "category": "keyboard-accessories",
+   "price": "14.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    19,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [],
+   "summary": "Low-profile Keychron Milk POM switches in Red, Brown or Banana, in 45- or 110-switch sets.",
+   "description": "Each Keychron Milk POM Low Profile Mechanical Switch Set comes in 45-switch or 110-switch options, in Red, Brown and Banana versions for Keychron low-profile hot-swappable keyboards.",
+   "keywords": "low profile switch milk pom red brown banana",
+   "specs": {
+    "accessoryType": "Switches (low profile)",
+    "compatibility": "Keychron low-profile hot-swappable keyboards",
+    "configurations": "45 switches – $14.99 · 110 switches – $29.99"
+   },
+   "options": [
+    {
+     "name": "Configuration",
+     "values": [
+      {
+       "label": "45 switches",
+       "price": "14.99",
+       "default": true
+      },
+      {
+       "label": "110 switches",
+       "price": "29.99"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "sku": "TK-KEYCHRON-LP-SILENT-SW",
+   "slug": "keychron-low-profile-silent-switch",
+   "name": "Keychron Low Profile Silent Switch Set",
+   "brand": "Keychron",
+   "category": "keyboard-accessories",
+   "price": "24.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    36,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [],
+   "summary": "110 low-profile silent Red mechanical switches with bottle for Keychron low-profile keyboards.",
+   "description": "Each Keychron Low Profile Silent Mechanical Switch Set comes with 110 silent Red switches and a bottle, for Keychron low-profile hot-swappable keyboards.",
+   "keywords": "low profile silent red switch quiet",
+   "specs": {
+    "accessoryType": "Switches (low profile, silent)",
+    "compatibility": "Keychron low-profile hot-swappable keyboards",
+    "configurations": "Silent Red, 110 switches"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-KEYCHRON-CHERRY-DS-SHINE",
+   "slug": "keychron-cherry-profile-double-shot-pbt-shine-through-keycaps",
+   "name": "Keychron Cherry Profile Double-Shot PBT Shine-Through Keycap Set",
+   "brand": "Keychron",
+   "category": "keyboard-accessories",
+   "price": "33.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    18,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [],
+   "summary": "121-key black double-shot PBT Cherry-profile shine-through keycap set for Keychron K and C series ANSI boards.",
+   "description": "This 121-key set is compatible with ANSI layout K2, K2 HE, K4, K4 HE, K6 HE, K8, K8 HE, K10, K10 HE, C1, C2, C3 Pro and P1 HE keyboards. Legends are printed top-centre and shine through with backlighting; the keyboard is not included.",
+   "keywords": "keycaps pbt double shot cherry profile shine through black",
+   "specs": {
+    "accessoryType": "Keycap set",
+    "compatibility": "ANSI Keychron K2/K4/K6 HE/K8/K10, C1/C2/C3 Pro, P1 HE",
+    "configurations": "121 keys",
+    "colors": "Black"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-KEYCHRON-OSA-DS-PBT",
+   "slug": "keychron-double-shot-pbt-osa-full-keycap-set",
+   "name": "Keychron Double Shot PBT OSA Full Keycap Set",
+   "brand": "Keychron",
+   "category": "keyboard-accessories",
+   "price": "33.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    12,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [],
+   "summary": "141-key double-shot PBT OSA-profile keycap set in seven colourways, for ANSI Keychron Q, V, K and Lemokey boards.",
+   "description": "This 141-key double-shot PBT OSA set fits ANSI layout Keychron Q, Q Max, Q Pro, Q HE, Q Ultra, V, V Max, 81 Pro, K2/K4 and many other Keychron and Lemokey keyboards (Q60 excluded). The keyboard is not included.",
+   "keywords": "osa keycaps pbt double shot full set",
+   "specs": {
+    "accessoryType": "Keycap set",
+    "compatibility": "ANSI Keychron Q, V, K and Lemokey series (excluding Q60)",
+    "configurations": "141 keys",
+    "colors": "Black On White, Blue and White, Retro, White On Black, Grey, Purple, Dark Grey"
+   },
+   "options": [
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Black On White",
+       "default": true,
+       "image": {
+        "small": "/images/catalog/keychron-double-shot-pbt-osa-full-keycap-set--black-on-white-400.webp",
+        "large": "/images/catalog/keychron-double-shot-pbt-osa-full-keycap-set--black-on-white-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Keychron double-shot PBT OSA full keycap set in Black On White colourway, product shot"
+       }
+      },
+      {
+       "label": "Blue and White",
+       "image": {
+        "small": "/images/catalog/keychron-double-shot-pbt-osa-full-keycap-set--blue-and-white-400.webp",
+        "large": "/images/catalog/keychron-double-shot-pbt-osa-full-keycap-set--blue-and-white-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Keychron double-shot PBT OSA full keycap set in Blue and White colourway, product shot"
+       }
+      },
+      {
+       "label": "Retro",
+       "image": {
+        "small": "/images/catalog/keychron-double-shot-pbt-osa-full-keycap-set--retro-400.webp",
+        "large": "/images/catalog/keychron-double-shot-pbt-osa-full-keycap-set--retro-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Keychron double-shot PBT OSA full keycap set in Retro colourway, product shot"
+       }
+      },
+      {
+       "label": "White On Black",
+       "image": {
+        "small": "/images/catalog/keychron-double-shot-pbt-osa-full-keycap-set--white-on-black-400.webp",
+        "large": "/images/catalog/keychron-double-shot-pbt-osa-full-keycap-set--white-on-black-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Keychron double-shot PBT OSA full keycap set in White On Black colourway, product shot"
+       }
+      },
+      {
+       "label": "Grey",
+       "image": {
+        "small": "/images/catalog/keychron-double-shot-pbt-osa-full-keycap-set--grey-400.webp",
+        "large": "/images/catalog/keychron-double-shot-pbt-osa-full-keycap-set--grey-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Keychron double-shot PBT OSA full keycap set in Grey colourway, product shot"
+       }
+      },
+      {
+       "label": "Purple",
+       "image": {
+        "small": "/images/catalog/keychron-double-shot-pbt-osa-full-keycap-set--purple-400.webp",
+        "large": "/images/catalog/keychron-double-shot-pbt-osa-full-keycap-set--purple-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Keychron double-shot PBT OSA full keycap set in Purple colourway, product shot"
+       }
+      },
+      {
+       "label": "Dark Grey",
+       "image": {
+        "small": "/images/catalog/keychron-double-shot-pbt-osa-full-keycap-set--dark-grey-400.webp",
+        "large": "/images/catalog/keychron-double-shot-pbt-osa-full-keycap-set--dark-grey-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Keychron double-shot PBT OSA full keycap set in Dark Grey colourway, product shot"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "sku": "TK-KEYCHRON-KSA-DS-PBT",
+   "slug": "keychron-double-shot-ksa-pbt-full-keycap-set",
+   "name": "Keychron Double Shot KSA PBT Full Keycap Set",
+   "brand": "Keychron",
+   "category": "keyboard-accessories",
+   "price": "34.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    22,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [],
+   "summary": "Tall KSA-profile double-shot PBT keycap set for Keychron Q, Q Pro, Q Max, V and K series keyboards.",
+   "description": "This double-shot PBT KSA set has the keycaps for Keychron Q series, Q Pro, Q Max, Q HE and V series keyboards (with listed exceptions). It is offered in several colourways; the keyboard is not included.",
+   "keywords": "ksa keycaps pbt double shot spherical",
+   "specs": {
+    "accessoryType": "Keycap set",
+    "compatibility": "Keychron Q, Q Pro, Q Max, Q HE, V series (listed exceptions)",
+    "colors": "White on Black, Deep Gray and Black, Deep Gray and White, Black on White, Dark Gray and Grayish Blue, Dark Gray and White Smoke, Light Gray and White"
+   },
+   "options": [
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "White on Black",
+       "default": true,
+       "image": {
+        "small": "/images/catalog/keychron-double-shot-ksa-pbt-full-keycap-set--white-on-black-400.webp",
+        "large": "/images/catalog/keychron-double-shot-ksa-pbt-full-keycap-set--white-on-black-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Keychron double-shot KSA PBT keycap set in White on Black colourway, product shot"
+       }
+      },
+      {
+       "label": "Deep Gray and Black",
+       "image": {
+        "small": "/images/catalog/keychron-double-shot-ksa-pbt-full-keycap-set--deep-gray-and-black-400.webp",
+        "large": "/images/catalog/keychron-double-shot-ksa-pbt-full-keycap-set--deep-gray-and-black-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Keychron double-shot KSA PBT keycap set in Deep Gray and Black colourway, product shot"
+       }
+      },
+      {
+       "label": "Deep Gray and White",
+       "image": {
+        "small": "/images/catalog/keychron-double-shot-ksa-pbt-full-keycap-set--deep-gray-and-white-400.webp",
+        "large": "/images/catalog/keychron-double-shot-ksa-pbt-full-keycap-set--deep-gray-and-white-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Keychron double-shot KSA PBT keycap set in Deep Gray and White colourway, product shot"
+       }
+      },
+      {
+       "label": "Black on White",
+       "image": {
+        "small": "/images/catalog/keychron-double-shot-ksa-pbt-full-keycap-set--black-on-white-400.webp",
+        "large": "/images/catalog/keychron-double-shot-ksa-pbt-full-keycap-set--black-on-white-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Keychron double-shot KSA PBT keycap set in Black on White colourway, product shot"
+       }
+      },
+      {
+       "label": "Dark Gray and Grayish Blue",
+       "image": {
+        "small": "/images/catalog/keychron-double-shot-ksa-pbt-full-keycap-set--dark-gray-and-grayish-blue-400.webp",
+        "large": "/images/catalog/keychron-double-shot-ksa-pbt-full-keycap-set--dark-gray-and-grayish-blue-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Keychron double-shot KSA PBT keycap set in Dark Gray and Grayish Blue colourway, product shot"
+       }
+      },
+      {
+       "label": "Dark Gray and White Smoke",
+       "image": {
+        "small": "/images/catalog/keychron-double-shot-ksa-pbt-full-keycap-set--dark-gray-and-white-smoke-400.webp",
+        "large": "/images/catalog/keychron-double-shot-ksa-pbt-full-keycap-set--dark-gray-and-white-smoke-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Keychron double-shot KSA PBT keycap set in Dark Gray and White Smoke colourway, product shot"
+       }
+      },
+      {
+       "label": "Light Gray and White",
+       "image": {
+        "small": "/images/catalog/keychron-double-shot-ksa-pbt-full-keycap-set--light-gray-and-white-400.webp",
+        "large": "/images/catalog/keychron-double-shot-ksa-pbt-full-keycap-set--light-gray-and-white-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Keychron double-shot KSA PBT keycap set in Light Gray and White colourway, product shot"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "sku": "TK-KEYCHRON-LSA-LP-DS-V2",
+   "slug": "keychron-low-profile-double-shot-pbt-lsa-keycap-set-v2",
+   "name": "Keychron Low Profile Double Shot PBT LSA Keycap Set Version 2",
+   "brand": "Keychron",
+   "category": "keyboard-accessories",
+   "price": "29.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    19,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [],
+   "summary": "133-key low-profile LSA double-shot PBT keycap set for Keychron K Pro, K Max and S series low-profile boards.",
+   "description": "This low-profile LSA PBT keycap set is compatible with Keychron K1 Version 6, K3 Version 3, K5 Version 2, K Pro, K Max and S series low-profile ANSI keyboards in 60% to 100% layouts. It is offered in Knight, Camel, Royal and Carbon colourways.",
+   "keywords": "low profile keycaps lsa pbt double shot",
+   "specs": {
+    "accessoryType": "Keycap set (low profile)",
+    "compatibility": "Keychron low-profile K Pro, K Max, S series and K1 v6/K3 v3/K5 v2 (ANSI)",
+    "configurations": "133 keys",
+    "colors": "Knight, Camel, Royal, Carbon"
+   },
+   "options": [
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Knight",
+       "default": true,
+       "image": {
+        "small": "/images/catalog/keychron-low-profile-double-shot-pbt-lsa-keycap-set-v2--knight-400.webp",
+        "large": "/images/catalog/keychron-low-profile-double-shot-pbt-lsa-keycap-set-v2--knight-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Keychron low profile LSA double-shot PBT keycap set in Knight colourway, product shot"
+       }
+      },
+      {
+       "label": "Camel",
+       "image": {
+        "small": "/images/catalog/keychron-low-profile-double-shot-pbt-lsa-keycap-set-v2--camel-400.webp",
+        "large": "/images/catalog/keychron-low-profile-double-shot-pbt-lsa-keycap-set-v2--camel-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Keychron low profile LSA double-shot PBT keycap set in Camel colourway, product shot"
+       }
+      },
+      {
+       "label": "Royal",
+       "image": {
+        "small": "/images/catalog/keychron-low-profile-double-shot-pbt-lsa-keycap-set-v2--royal-400.webp",
+        "large": "/images/catalog/keychron-low-profile-double-shot-pbt-lsa-keycap-set-v2--royal-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Keychron low profile LSA double-shot PBT keycap set in Royal colourway, product shot"
+       }
+      },
+      {
+       "label": "Carbon",
+       "image": {
+        "small": "/images/catalog/keychron-low-profile-double-shot-pbt-lsa-keycap-set-v2--carbon-400.webp",
+        "large": "/images/catalog/keychron-low-profile-double-shot-pbt-lsa-keycap-set-v2--carbon-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Keychron low profile LSA double-shot PBT keycap set in Carbon colourway, product shot"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "sku": "TK-KEYCHRON-KC-BLUE-PLANET",
+   "slug": "keychron-blue-planet-cherry-dye-sub-pbt-keycaps",
+   "name": "Keychron Blue Planet Cherry Profile Dye-Sub PBT Full Keycap Set",
+   "brand": "Keychron",
+   "category": "keyboard-accessories",
+   "price": "39.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    20,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [],
+   "summary": "140-key dye-sub PBT Cherry-profile full keycap set in the Blue Planet design for ANSI Keychron Q, V, K and Lemokey boards.",
+   "description": "A 140-key full keycap set in dye-sublimated PBT, Cherry profile, in the Blue Planet colourway. It is compatible with ANSI layout Keychron Q, Q Pro, Q HE, Q Max, V and V Max series, 81 Pro, Lemokey L series and K normal-profile keyboards (Q60 and other listed models excluded). The keyboard is not included.",
+   "keywords": "keycaps cherry profile dye sub pbt full set blue planet",
+   "specs": {
+    "accessoryType": "Keycap set",
+    "compatibility": "ANSI Keychron Q, V, K normal-profile and Lemokey series (listed exceptions)",
+    "colors": "Blue Planet"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-KEYCHRON-KC-UNKNOWN-MINT",
+   "slug": "keychron-unknown-number-mint-cherry-dye-sub-pbt-keycaps",
+   "name": "Keychron Unknown Number Mint Cherry Profile Dye-Sub PBT Full Keycap Set",
+   "brand": "Keychron",
+   "category": "keyboard-accessories",
+   "price": "39.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    19,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [],
+   "summary": "141-key dye-sub PBT Cherry-profile full keycap set in the Unknown Number Mint design for ANSI Keychron Q, V, K and Lemokey boards.",
+   "description": "A 141-key full keycap set in dye-sublimated PBT, Cherry profile, in the Unknown Number Mint colourway. It is compatible with ANSI layout Keychron Q, Q Pro, Q HE, Q Max, V and V Max series, 81 Pro, Lemokey L series and K normal-profile keyboards (Q60 and other listed models excluded). The keyboard is not included.",
+   "keywords": "keycaps cherry profile dye sub pbt full set unknown number mint",
+   "specs": {
+    "accessoryType": "Keycap set",
+    "compatibility": "ANSI Keychron Q, V, K normal-profile and Lemokey series (listed exceptions)",
+    "colors": "Unknown Number Mint"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-KEYCHRON-KC-BIO-INDIVIDUAL",
+   "slug": "keychron-bio-individual-shine-through-dye-sub-pbt-keycaps",
+   "name": "Keychron Bio-Individual Nuclear Power Shine-through Dye-Sub PBT Full Keycap Set",
+   "brand": "Keychron",
+   "category": "keyboard-accessories",
+   "price": "49.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    48,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [],
+   "summary": "141-key shine-through dye-sub PBT Cherry-profile full keycap set in the Bio-Individual design for ANSI Keychron Q, V, K and Lemokey boards.",
+   "description": "A 141-key shine-through full keycap set in dye-sublimated PBT, Cherry profile, in the Bio-Individual colourway. It is compatible with ANSI layout Keychron Q, Q Pro, Q HE, Q Max, V and V Max series, 81 Pro, Lemokey L series and K normal-profile keyboards (Q60 and other listed models excluded). The keyboard is not included.",
+   "keywords": "keycaps cherry profile dye sub pbt full set bio-individual",
+   "specs": {
+    "accessoryType": "Keycap set",
+    "compatibility": "ANSI Keychron Q, V, K normal-profile and Lemokey series (listed exceptions)",
+    "colors": "Bio-Individual"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-GLORIOUS-GPBT-HIGH-TIDE",
+   "slug": "glorious-gpbt-high-tide-keycaps",
+   "name": "Glorious GPBT High Tide Keycaps",
+   "brand": "Glorious",
+   "category": "keyboard-accessories",
+   "price": "79.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    16,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [],
+   "summary": "Limited-edition sunny, ocean-themed GPBT keycap set in PBT for MX-style keyboards, US English layout.",
+   "description": "Glorious GPBT High Tide is a limited-edition sunny, ocean-themed keycap set made from PBT, sold in the US English layout on the Glorious store. Glorious notes limited quantities are available.",
+   "keywords": "gpbt keycaps pbt limited edition glorious high tide",
+   "specs": {
+    "accessoryType": "Keycap set",
+    "compatibility": "MX-style keyboards (US English layout)",
+    "colors": "High Tide"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-GLORIOUS-GPBT-POWER-PANEL",
+   "slug": "glorious-gpbt-power-panel-keycaps",
+   "name": "Glorious GPBT Power Panel Keycaps",
+   "brand": "Glorious",
+   "category": "keyboard-accessories",
+   "price": "69.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    33,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [],
+   "summary": "Limited-edition punk-inspired pink-and-purple graffiti-style GPBT keycap set in PBT for MX-style keyboards, US English layout.",
+   "description": "Glorious GPBT Power Panel is a limited-edition punk-inspired pink-and-purple graffiti-style keycap set made from PBT, sold in the US English layout on the Glorious store. Glorious notes limited quantities are available.",
+   "keywords": "gpbt keycaps pbt limited edition glorious power panel",
+   "specs": {
+    "accessoryType": "Keycap set",
+    "compatibility": "MX-style keyboards (US English layout)",
+    "colors": "Power Panel"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-GLORIOUS-GPBT-ZERO-ONE",
+   "slug": "glorious-gpbt-zero-one-keycaps",
+   "name": "Glorious GPBT Zero One Keycaps",
+   "brand": "Glorious",
+   "category": "keyboard-accessories",
+   "price": "69.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    17,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [],
+   "summary": "Limited-edition mecha-anime-inspired GPBT keycap set in PBT for MX-style keyboards, US English layout.",
+   "description": "Glorious GPBT Zero One is a limited-edition mecha-anime-inspired keycap set made from PBT, sold in the US English layout on the Glorious store. Glorious notes limited quantities are available.",
+   "keywords": "gpbt keycaps pbt limited edition glorious zero one",
+   "specs": {
+    "accessoryType": "Keycap set",
+    "compatibility": "MX-style keyboards (US English layout)",
+    "colors": "Zero One"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-GLORIOUS-GPBT-INK-NOIR",
+   "slug": "glorious-gpbt-ink-noir-keycaps",
+   "name": "Glorious GPBT Ink Noir Keycaps",
+   "brand": "Glorious",
+   "category": "keyboard-accessories",
+   "price": "69.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    16,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [],
+   "summary": "Limited-edition dark comic-noir vigilante-themed GPBT keycap set in PBT for MX-style keyboards, US English layout.",
+   "description": "Glorious GPBT Ink Noir is a limited-edition dark comic-noir vigilante-themed keycap set made from PBT, sold in the US English layout on the Glorious store. Glorious notes limited quantities are available.",
+   "keywords": "gpbt keycaps pbt limited edition glorious ink noir",
+   "specs": {
+    "accessoryType": "Keycap set",
+    "compatibility": "MX-style keyboards (US English layout)",
+    "colors": "Ink Noir"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-GLORIOUS-GPBT-AURA-V3",
+   "slug": "glorious-gpbt-aura-v3-keycaps",
+   "name": "Glorious GPBT Aura V3 Keycaps",
+   "brand": "Glorious",
+   "category": "keyboard-accessories",
+   "price": "39.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    17,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [],
+   "summary": "Pudding-style double-shot PBT keycaps with translucent sides to show off RGB lighting, in Black or White.",
+   "description": "GPBT Aura V3 are pudding-style keycaps with crisp double-shot legends made from PBT, designed to showcase RGB backlighting. They are offered in Black and White; US English sets are $39.99 on the Glorious store.",
+   "keywords": "pudding keycaps pbt double shot rgb aura",
+   "specs": {
+    "accessoryType": "Keycap set",
+    "compatibility": "MX-style keyboards (US English layout)",
+    "colors": "Black, White"
+   },
+   "options": [
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Black",
+       "default": true,
+       "image": {
+        "small": "/images/catalog/glorious-gpbt-aura-v3-keycaps--black-400.webp",
+        "large": "/images/catalog/glorious-gpbt-aura-v3-keycaps--black-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Glorious GPBT Aura V3 pudding keycaps in Black, top view"
+       }
+      },
+      {
+       "label": "White",
+       "image": {
+        "small": "/images/catalog/glorious-gpbt-aura-v3-keycaps--white-400.webp",
+        "large": "/images/catalog/glorious-gpbt-aura-v3-keycaps--white-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Glorious GPBT Aura V3 pudding keycaps in White, top view"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "sku": "TK-GLORIOUS-POLYCHROMA-V2",
+   "slug": "glorious-polychroma-v2-rgb-keycaps",
+   "name": "Glorious Polychroma V2 RGB Keycaps",
+   "brand": "Glorious",
+   "category": "keyboard-accessories",
+   "price": "49.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    50,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [],
+   "summary": "Fully translucent polycarbonate keycaps that let backlighting shine brightly and evenly across the board.",
+   "description": "Polychroma V2 RGB Keycaps are made from translucent polycarbonate so backlighting shines brightly and evenly across the entire keyboard. The US English set is $49.99 on the Glorious store.",
+   "keywords": "translucent keycaps polycarbonate rgb polychroma",
+   "specs": {
+    "accessoryType": "Keycap set",
+    "compatibility": "MX-style keyboards (US English layout)",
+    "colors": "Translucent"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-GLORIOUS-GPBT-NEBULA-V2",
+   "slug": "glorious-gpbt-nebula-v2-keycaps",
+   "name": "Glorious GPBT Nebula V2 Keycaps",
+   "brand": "Glorious",
+   "category": "keyboard-accessories",
+   "price": "59.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    59,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [],
+   "summary": "Gradient-colour GPBT keycap set in PBT in the Nebula colourway.",
+   "description": "GPBT Nebula V2 is a gradient keycap set made from premium PBT, bringing a wave of colour to a keyboard build. The US English set is $59.99 on the Glorious store.",
+   "keywords": "gradient keycaps pbt nebula gpbt",
+   "specs": {
+    "accessoryType": "Keycap set",
+    "compatibility": "MX-style keyboards (US English layout)",
+    "colors": "Nebula"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-GLORIOUS-GPBT-RAINFOREST-V2",
+   "slug": "glorious-gpbt-rain-forest-v2-keycaps",
+   "name": "Glorious GPBT Rain Forest V2 Keycaps",
+   "brand": "Glorious",
+   "category": "keyboard-accessories",
+   "price": "59.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    58,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [],
+   "summary": "Gradient-colour GPBT keycap set in PBT in the green Rain Forest colourway.",
+   "description": "GPBT Rain Forest V2 is a gradient keycap set made from premium PBT, bringing a wave of colour to a keyboard build. The US English set is $59.99 on the Glorious store.",
+   "keywords": "gradient keycaps pbt rain forest green gpbt",
+   "specs": {
+    "accessoryType": "Keycap set",
+    "compatibility": "MX-style keyboards (US English layout)",
+    "colors": "Rain Forest"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-GLORIOUS-PANDA-MX-36",
+   "slug": "glorious-panda-mx-switches",
+   "name": "Glorious Panda MX Tactile Switches (36-pack)",
+   "brand": "Glorious",
+   "category": "keyboard-accessories",
+   "price": "29.99",
+   "compareAt": "34.99",
+   "warranty": 12,
+   "stock": [
+    44,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [],
+   "summary": "36 Glorious Panda MX-style tactile switches with a strong tactile bump, 49 g actuation and 60 g bottom-out.",
+   "description": "Glorious Panda tactile switches offer smooth operation with a snappy tactile bump. They are 3-pin plate-mount MX-style switches with an RGB light hole, 49 g actuation and 60 g bottom-out force, sold 36 per box and compatible with all GMMK keyboards.",
+   "keywords": "panda tactile switch glorious mx 36 pack",
+   "specs": {
+    "accessoryType": "Switches",
+    "compatibility": "All GMMK keyboards; MX-style hot-swap boards (3-pin)",
+    "configurations": "36 switches, unlubed"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-GLORIOUS-PANDA-HE-36",
+   "slug": "glorious-panda-he-switches",
+   "name": "Glorious Panda HE Switches (36-pack)",
+   "brand": "Glorious",
+   "category": "keyboard-accessories",
+   "price": "44.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    38,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [],
+   "summary": "36 Hall-effect magnetic switches for GMMK 3 HE keyboards with a rounded tactile bump.",
+   "description": "Designed for GMMK 3 HE keyboards, these magnetic Hall-effect switches offer a rounded tactile bump and two acoustic options: Standard or whisper-quiet Silent. They are sold in 36-switch packs for $44.99 on the Glorious store.",
+   "keywords": "hall effect magnetic switches gmmk 3 he glorious",
+   "specs": {
+    "accessoryType": "Switches (magnetic / Hall effect)",
+    "compatibility": "Glorious GMMK 3 HE keyboards",
+    "configurations": "36 switches; Standard or Silent"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-GLORIOUS-LYNX-HE-36",
+   "slug": "glorious-lynx-he-switches",
+   "name": "Glorious Lynx HE Switches (36-pack)",
+   "brand": "Glorious",
+   "category": "keyboard-accessories",
+   "price": "44.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    9,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [],
+   "summary": "36 Hall-effect magnetic switches for GMMK 3 HE keyboards with Glorious's smoothest linear press.",
+   "description": "Designed for GMMK 3 HE keyboards, these magnetic Hall-effect switches offer Glorious's smoothest linear press and two acoustic options: Standard or whisper-quiet Silent. They are sold in 36-switch packs for $44.99 on the Glorious store.",
+   "keywords": "hall effect magnetic switches gmmk 3 he glorious",
+   "specs": {
+    "accessoryType": "Switches (magnetic / Hall effect)",
+    "compatibility": "Glorious GMMK 3 HE keyboards",
+    "configurations": "36 switches; Standard or Silent"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-GLORIOUS-RAPTOR-HE-36",
+   "slug": "glorious-raptor-he-switches",
+   "name": "Glorious Raptor HE Switches (36-pack)",
+   "brand": "Glorious",
+   "category": "keyboard-accessories",
+   "price": "44.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    39,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [],
+   "summary": "36 Hall-effect magnetic switches for GMMK 3 HE keyboards with Hall-effect precision.",
+   "description": "Designed for GMMK 3 HE keyboards, these magnetic Hall-effect switches offer Hall-effect precision and responsiveness aimed at competitive gamers. They are sold in 36-switch packs for $44.99 on the Glorious store.",
+   "keywords": "hall effect magnetic switches gmmk 3 he glorious",
+   "specs": {
+    "accessoryType": "Switches (magnetic / Hall effect)",
+    "compatibility": "Glorious GMMK 3 HE keyboards",
+    "configurations": "36 switches; Standard"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-GLORIOUS-WOOD-WRIST-GMMK3",
+   "slug": "glorious-wood-ergonomic-wrist-rest",
+   "name": "Glorious Wood Ergonomic Wrist Rest",
+   "brand": "Glorious",
+   "category": "keyboard-accessories",
+   "price": "34.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    34,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [],
+   "summary": "USA-sourced hardwood wrist rest designed for GMMK 3 keyboards in 65%/75%, TKL and 100% sizes.",
+   "description": "Designed for GMMK 3 keyboards, this ergonomic wrist rest is made from USA-sourced hardwood for a premium look that is easy to clean. It comes in 65% & 75%, TKL and 100% sizes.",
+   "keywords": "wood wrist rest ergonomic gmmk 3 hardwood",
+   "specs": {
+    "accessoryType": "Wrist rest",
+    "compatibility": "Glorious GMMK 3 keyboards (65/75%, TKL, 100%)",
+    "configurations": "65% & 75% – $34.99 · TKL – $34.99 · 100% – $39.99"
+   },
+   "options": [
+    {
+     "name": "Configuration",
+     "values": [
+      {
+       "label": "65% & 75%",
+       "price": "34.99",
+       "default": true
+      },
+      {
+       "label": "TKL",
+       "price": "34.99"
+      },
+      {
+       "label": "100%",
+       "price": "39.99"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "sku": "TK-GLORIOUS-PADDED-WRIST",
+   "slug": "glorious-padded-keyboard-wrist-rest",
+   "name": "Glorious Padded Keyboard Wrist Rest",
+   "brand": "Glorious",
+   "category": "keyboard-accessories",
+   "price": "23.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    41,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [],
+   "summary": "Cloth-covered foam wrist rest with anti-slip rubber base in Full Size, TKL and Compact lengths, Regular or Slim.",
+   "description": "The Glorious padded wrist rest has a smooth cloth surface, a medium-firm foam core, an anti-slip rubber base and dual-lock stitched edges to prevent fraying. Sizes are Full Size (44 x 10 cm), Tenkeyless (36 x 10 cm) and Compact (30 x 10 cm), in Regular (25 mm) or Slim (17 mm) thickness.",
+   "keywords": "padded wrist rest cloth foam keyboard",
+   "specs": {
+    "accessoryType": "Wrist rest",
+    "compatibility": "Any keyboard (Full Size, TKL, Compact)",
+    "configurations": "Full Size – $23.99 · Tenkeyless – $23.99 · Compact – $23.99",
+    "colors": "Black"
+   },
+   "options": [
+    {
+     "name": "Configuration",
+     "values": [
+      {
+       "label": "Full Size",
+       "price": "23.99",
+       "default": true
+      },
+      {
+       "label": "Tenkeyless",
+       "price": "23.99"
+      },
+      {
+       "label": "Compact",
+       "price": "23.99"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "sku": "TK-HYPERX-PUDDING-KEYCAPS-2",
+   "slug": "hyperx-pudding-keycaps-2",
+   "name": "HyperX Pudding Keycaps 2 Full Key Set (PBT)",
+   "brand": "HyperX",
+   "category": "keyboard-accessories",
+   "price": "29.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    41,
+    5
+   ],
+   "featured": true,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [],
+   "summary": "Translucent double-shot PBT pudding keycaps with 65%/75% extras, two custom space bars and a keycap removal tool.",
+   "description": "HyperX Pudding Keycaps 2 use a translucent dual-layer design and the HyperX font for extra RGB brilliance. The thick double-shot PBT keycaps resist shine, include special keys for 65% and 75% keyboards and 2 custom space bars, and ship with a HyperX keycap removal tool.",
+   "keywords": "pudding keycaps pbt double shot translucent hyperx",
+   "specs": {
+    "accessoryType": "Keycap set",
+    "compatibility": "HyperX and most mechanical keyboards (US layout, incl. 65%/75%)",
+    "colors": "Black, White, Pink"
+   },
+   "options": [
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Black",
+       "default": true,
+       "image": {
+        "small": "/images/catalog/hyperx-pudding-keycaps-2--black-400.webp",
+        "large": "/images/catalog/hyperx-pudding-keycaps-2--black-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "HyperX Pudding Keycaps 2 in Black, full key set product view"
+       }
+      },
+      {
+       "label": "White",
+       "image": {
+        "small": "/images/catalog/hyperx-pudding-keycaps-2--white-400.webp",
+        "large": "/images/catalog/hyperx-pudding-keycaps-2--white-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "HyperX Pudding Keycaps 2 in White, full key set product view"
+       }
+      },
+      {
+       "label": "Pink",
+       "image": {
+        "small": "/images/catalog/hyperx-pudding-keycaps-2--pink-400.webp",
+        "large": "/images/catalog/hyperx-pudding-keycaps-2--pink-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "HyperX Pudding Keycaps 2 in Pink, full key set product view"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "sku": "TK-HYPERX-PBT-KEYCAPS",
+   "slug": "hyperx-pbt-keycaps-full-key-set",
+   "name": "HyperX Full Key Set Keycaps (PBT)",
+   "brand": "HyperX",
+   "category": "keyboard-accessories",
+   "price": "29.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    20,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [],
+   "summary": "Double-shot PBT full keycap set with shine-through legends and a HyperX keycap removal tool.",
+   "description": "HyperX PBT Keycaps are durable double-shot PBT keycaps with a shine-through font designed to enhance RGB lighting. They are compatible with most HyperX mechanical keyboards and include a HyperX keycap removal tool; keyboard not included.",
+   "keywords": "pbt keycaps double shot hyperx full set",
+   "specs": {
+    "accessoryType": "Keycap set",
+    "compatibility": "Most HyperX mechanical keyboards (US layout)",
+    "colors": "White, Pink"
+   },
+   "options": [
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "White",
+       "default": true,
+       "image": {
+        "small": "/images/catalog/hyperx-pbt-keycaps-full-key-set--white-400.webp",
+        "large": "/images/catalog/hyperx-pbt-keycaps-full-key-set--white-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "HyperX PBT full key set keycaps in White, angled product view"
+       }
+      },
+      {
+       "label": "Pink",
+       "image": {
+        "small": "/images/catalog/hyperx-pbt-keycaps-full-key-set--pink-400.webp",
+        "large": "/images/catalog/hyperx-pbt-keycaps-full-key-set--pink-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "HyperX PBT full key set keycaps in Pink, angled product view"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "sku": "TK-HYPERX-USBC-COILED-CABLE",
+   "slug": "hyperx-usb-c-coiled-cable",
+   "name": "HyperX USB-C Coiled Cable",
+   "brand": "HyperX",
+   "category": "keyboard-accessories",
+   "price": "32.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    43,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [],
+   "summary": "Dual-sheathed coiled USB-C to USB-A keyboard cable with a quick-detach 5-pin aviator connector, in six colours.",
+   "description": "The HyperX Coiled Cable uses a USB-C to USB-A connection with a quick-detach 5-pin aviator connector. Its dual-sheathed design is durable and flexible, and the coil reduces desk clutter; it is compatible with most USB-C keyboards.",
+   "keywords": "coiled cable aviator usb-c keyboard hyperx",
+   "specs": {
+    "accessoryType": "Cable",
+    "connection": "USB-C to USB-A, 5-pin aviator connector",
+    "compatibility": "Most USB-C keyboards",
+    "colors": "Gray, Light Blue, Light Green, Purple, Gunmetal Gray, Red"
+   },
+   "options": [
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Gray",
+       "default": true,
+       "image": {
+        "small": "/images/catalog/hyperx-usb-c-coiled-cable--gray-400.webp",
+        "large": "/images/catalog/hyperx-usb-c-coiled-cable--gray-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "HyperX USB-C Coiled Cable in Gray, coiled cable product shot"
+       }
+      },
+      {
+       "label": "Light Blue",
+       "image": {
+        "small": "/images/catalog/hyperx-usb-c-coiled-cable--light-blue-400.webp",
+        "large": "/images/catalog/hyperx-usb-c-coiled-cable--light-blue-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "HyperX USB-C Coiled Cable in Light Blue, coiled cable product shot"
+       }
+      },
+      {
+       "label": "Light Green",
+       "image": {
+        "small": "/images/catalog/hyperx-usb-c-coiled-cable--light-green-400.webp",
+        "large": "/images/catalog/hyperx-usb-c-coiled-cable--light-green-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "HyperX USB-C Coiled Cable in Light Green, coiled cable product shot"
+       }
+      },
+      {
+       "label": "Purple",
+       "image": {
+        "small": "/images/catalog/hyperx-usb-c-coiled-cable--purple-400.webp",
+        "large": "/images/catalog/hyperx-usb-c-coiled-cable--purple-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "HyperX USB-C Coiled Cable in Purple, coiled cable product shot"
+       }
+      },
+      {
+       "label": "Gunmetal Gray",
+       "image": {
+        "small": "/images/catalog/hyperx-usb-c-coiled-cable--gunmetal-gray-400.webp",
+        "large": "/images/catalog/hyperx-usb-c-coiled-cable--gunmetal-gray-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "HyperX USB-C Coiled Cable in Gunmetal Gray, coiled cable product shot"
+       }
+      },
+      {
+       "label": "Red",
+       "image": {
+        "small": "/images/catalog/hyperx-usb-c-coiled-cable--red-400.webp",
+        "large": "/images/catalog/hyperx-usb-c-coiled-cable--red-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "HyperX USB-C Coiled Cable in Red, coiled cable product shot"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "sku": "TK-HYPERX-WRIST-REST-KB",
+   "slug": "hyperx-wrist-rest-keyboard",
+   "name": "HyperX Wrist Rest (Keyboard)",
+   "brand": "HyperX",
+   "category": "keyboard-accessories",
+   "price": "22.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    13,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [],
+   "summary": "Cooling-gel memory foam keyboard wrist rest with anti-slip grip, in Full Size, Tenkeyless and Compact 60%/65% sizes.",
+   "description": "The HyperX Wrist Rest uses cool gel memory foam for cushioning, a stable anti-slip grip and durable anti-fray stitching. It is sold in Full Size, Tenkeyless and Compact (60%/65%) keyboard versions at the same price.",
+   "keywords": "wrist rest gel memory foam keyboard hyperx",
+   "specs": {
+    "accessoryType": "Wrist rest",
+    "compatibility": "Full-size, TKL and 60%/65% keyboards",
+    "configurations": "Full Size – $22.99 · Tenkeyless – $22.99 · Compact 60%/65% – $22.99",
+    "colors": "Black"
+   },
+   "options": [
+    {
+     "name": "Configuration",
+     "values": [
+      {
+       "label": "Full Size",
+       "price": "22.99",
+       "default": true
+      },
+      {
+       "label": "Tenkeyless",
+       "price": "22.99"
+      },
+      {
+       "label": "Compact 60%/65%",
+       "price": "22.99"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "sku": "TK-HYPERX-LINEAR-SW",
+   "slug": "hyperx-linear-switches",
+   "name": "HyperX Linear Switches",
+   "brand": "HyperX",
+   "category": "keyboard-accessories",
+   "price": "28.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    43,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [],
+   "summary": "Pre-lubed 5-pin linear (Red) switches with POM half-wall stems, 1.8 mm actuation and 80-million-keystroke rating.",
+   "description": "HyperX Linear Switches are pre-lubed 5-pin switches compatible with most 5-pin hot-swappable keyboards. They have POM half-wall stems for keycap stability, a nylon base with a clear polycarbonate top, 1.8 mm actuation travel and a rating of up to 80 million keystrokes.",
+   "keywords": "hyperx linear switches hot swap 5 pin pre-lubed red",
+   "specs": {
+    "accessoryType": "Switches",
+    "compatibility": "Most 5-pin hot-swappable keyboards",
+    "configurations": "Linear (Red)"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-HYPERX-TACTILE-SW",
+   "slug": "hyperx-tactile-switches",
+   "name": "HyperX Tactile Switches",
+   "brand": "HyperX",
+   "category": "keyboard-accessories",
+   "price": "28.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    38,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [],
+   "summary": "Pre-lubed 5-pin tactile (Aqua) switches with POM half-wall stems, 1.8 mm actuation and 80-million-keystroke rating.",
+   "description": "HyperX Tactile Switches are pre-lubed 5-pin switches compatible with most 5-pin hot-swappable keyboards. They have POM half-wall stems for keycap stability, a nylon base with a clear polycarbonate top, 1.8 mm actuation travel and a rating of up to 80 million keystrokes.",
+   "keywords": "hyperx tactile switches hot swap 5 pin pre-lubed aqua",
+   "specs": {
+    "accessoryType": "Switches",
+    "compatibility": "Most 5-pin hot-swappable keyboards",
+    "configurations": "Tactile (Aqua)"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-WOOTING-LEKKER-L60-V2",
+   "slug": "wooting-lekker-v2-l60-linear-switch",
+   "name": "Wooting Lekker V2 L60 Linear Switch",
+   "brand": "Wooting",
+   "category": "keyboard-accessories",
+   "price": "9.99",
+   "compareAt": null,
+   "warranty": 24,
+   "stock": [
+    19,
+    5
+   ],
+   "featured": true,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "ultimate-gaming-setup",
+    "gaming-monsters"
+   ],
+   "summary": "Medium (40-60 gf) Hall-effect analog linear switch with 4 mm travel, sold in 20-, 70- and 90-packs.",
+   "description": "The Lekker V2 L60 is Wooting's upgraded analog magnetic switch with improved stability, a refined sound and more lubrication. It is a medium linear switch (40-60 gf) using contactless Hall-effect sensing, with no metal pins and a smooth 4 mm travel. It works only in Hall-effect keyboards such as Wooting boards, not standard mechanical keyboards.",
+   "keywords": "lekker l60 v2 hall effect analog magnetic switch wooting rapid trigger",
+   "specs": {
+    "accessoryType": "Switches (magnetic / Hall effect)",
+    "compatibility": "Hall-effect keyboards such as Wooting 60HE/80HE (not mechanical keyboards)",
+    "configurations": "20 pack – $9.99 · 70 pack – $29.99 · 90 pack – $39.99"
+   },
+   "options": [
+    {
+     "name": "Pack",
+     "values": [
+      {
+       "label": "20 pack",
+       "price": "9.99",
+       "default": true
+      },
+      {
+       "label": "70 pack",
+       "price": "29.99"
+      },
+      {
+       "label": "90 pack",
+       "price": "39.99"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "sku": "TK-WOOTING-LEKKER-TIKKEN-MED",
+   "slug": "wooting-lekker-tikken-medium-switch",
+   "name": "Wooting Lekker Tikken Medium Switch",
+   "brand": "Wooting",
+   "category": "keyboard-accessories",
+   "price": "11.99",
+   "compareAt": null,
+   "warranty": 24,
+   "stock": [
+    33,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [],
+   "summary": "Closed-bottom, deeper-sounding medium Hall-effect linear switch (42-54 gf) with full 4 mm travel.",
+   "description": "The Lekker Tikken Medium is a slightly muted, deeper-sounding Hall-effect switch with a fully closed-bottom housing and the full 4 mm travel. A longer 22 mm spring gives 42 gf start and 54 gf end force; it has a POM stem, PC top and nylon bottom housing, medium factory lube, and requires a keyboard with Hall sensors.",
+   "keywords": "lekker tikken hall effect magnetic switch closed bottom wooting",
+   "specs": {
+    "accessoryType": "Switches (magnetic / Hall effect)",
+    "compatibility": "Keyboards with Hall sensors (e.g. Wooting)",
+    "configurations": "20 pack – $11.99 · 70 pack – $39.99 · 90 pack – $49.99"
+   },
+   "options": [
+    {
+     "name": "Pack",
+     "values": [
+      {
+       "label": "20 pack",
+       "price": "11.99",
+       "default": true
+      },
+      {
+       "label": "70 pack",
+       "price": "39.99"
+      },
+      {
+       "label": "90 pack",
+       "price": "49.99"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "sku": "TK-WOOTING-WRIST-REST-80HE",
+   "slug": "wooting-80he-wrist-rest",
+   "name": "Wooting 80HE(+) Wrist Rest",
+   "brand": "Wooting",
+   "category": "keyboard-accessories",
+   "price": "29.99",
+   "compareAt": null,
+   "warranty": 24,
+   "stock": [
+    55,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [],
+   "summary": "Ergonomic wrist rest shaped to the Wooting 80HE angle, balancing a soft feel with a firm surface.",
+   "description": "The Wooting 80 Wrist Rest elevates the palms to relieve stress on finger tendons and help prevent early hand fatigue. Its design follows the Wooting 80HE's ergonomic angle, and the material balances a soft feel with a firm surface to promote good posture.",
+   "keywords": "wrist rest wooting 80he ergonomic",
+   "specs": {
+    "accessoryType": "Wrist rest",
+    "compatibility": "Wooting 80HE and 80HE+",
+    "colors": "Black, White"
+   },
+   "options": [
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Black",
+       "default": true,
+       "image": {
+        "small": "/images/catalog/wooting-80he-wrist-rest--black-400.webp",
+        "large": "/images/catalog/wooting-80he-wrist-rest--black-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Wooting 80HE wrist rest in Black, product shot"
+       }
+      },
+      {
+       "label": "White",
+       "image": {
+        "small": "/images/catalog/wooting-80he-wrist-rest--white-400.webp",
+        "large": "/images/catalog/wooting-80he-wrist-rest--white-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Wooting 80HE wrist rest in White, product shot"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "sku": "TK-WOOTING-DS-PBT-KEYCAPS",
+   "slug": "wooting-double-shot-pbt-backlit-keycap-set",
+   "name": "Wooting Double-shot PBT Backlit Keycap Set",
+   "brand": "Wooting",
+   "category": "keyboard-accessories",
+   "price": "39.99",
+   "compareAt": null,
+   "warranty": 24,
+   "stock": [
+    10,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [],
+   "summary": "141-key ANSI OEM-profile double-shot PBT backlit keycap set with 1.5 mm walls, split spacebars and Wooting keys.",
+   "description": "Wooting's backlit keycaps use double-shot PBT with 1.5 mm thick walls, an OEM profile, textured surface and seamless legends. The ANSI US set has 141 keys covering full-size layouts plus 60%, 65% and 75% extras, split spacebar keys and Wooting A1-A3/Mode keys, and fits MX cross-stem switches including Lekker.",
+   "keywords": "double shot pbt keycaps backlit oem wooting ansi",
+   "specs": {
+    "accessoryType": "Keycap set",
+    "compatibility": "MX cross-stem switches incl. Wooting Lekker; ANSI US full-size, 60/65/75%",
+    "colors": "Just Black, Just White"
+   },
+   "options": [
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Just Black",
+       "default": true,
+       "image": {
+        "small": "/images/catalog/wooting-double-shot-pbt-backlit-keycap-set--just-black-400.webp",
+        "large": "/images/catalog/wooting-double-shot-pbt-backlit-keycap-set--just-black-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Wooting double-shot PBT backlit keycap set in Just Black, ANSI US layout"
+       }
+      },
+      {
+       "label": "Just White",
+       "image": {
+        "small": "/images/catalog/wooting-double-shot-pbt-backlit-keycap-set--just-white-400.webp",
+        "large": "/images/catalog/wooting-double-shot-pbt-backlit-keycap-set--just-white-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Wooting double-shot PBT backlit keycap set in Just White, ANSI US layout"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "sku": "TK-WOOTING-PREMIUM-CABLE-SET",
+   "slug": "wooting-premium-cable-set",
+   "name": "Wooting Premium Cable Set",
+   "brand": "Wooting",
+   "category": "keyboard-accessories",
+   "price": "49.99",
+   "compareAt": null,
+   "warranty": 24,
+   "stock": [
+    17,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [],
+   "summary": "Detachable USB-C cable set with FGG/PHG connector, coiled and straight ends and a USB-C to USB-A adapter.",
+   "description": "The Wooting Premium Cable Set uses a two-part design with a durable FGG/PHG connector and includes both a coiled and a short straight USB-C end, a 150 cm main cable and a USB-C to USB-A adapter. The USB 2.0 cable is intended for keyboards and works with true 8 kHz polling on the Wooting 80HE and 60HE v2.",
+   "keywords": "coiled cable aviator usb-c wooting fgg phg 8khz",
+   "specs": {
+    "accessoryType": "Cable",
+    "connection": "USB-C to USB-C (USB 2.0) with FGG/PHG connector; USB-A adapter",
+    "compatibility": "Wooting 80HE / 60HE v2 and other USB-C keyboards",
+    "colors": "Stealth, Lekker, Cyber Teal, Take Control, Just White"
+   },
+   "options": [
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Stealth",
+       "default": true,
+       "image": {
+        "small": "/images/catalog/wooting-premium-cable-set--stealth-400.webp",
+        "large": "/images/catalog/wooting-premium-cable-set--stealth-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Wooting Premium Cable Set in Stealth colourway, coiled and straight cables"
+       }
+      },
+      {
+       "label": "Lekker",
+       "image": {
+        "small": "/images/catalog/wooting-premium-cable-set--lekker-400.webp",
+        "large": "/images/catalog/wooting-premium-cable-set--lekker-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Wooting Premium Cable Set in Lekker colourway, coiled and straight cables"
+       }
+      },
+      {
+       "label": "Cyber Teal",
+       "image": {
+        "small": "/images/catalog/wooting-premium-cable-set--cyber-teal-400.webp",
+        "large": "/images/catalog/wooting-premium-cable-set--cyber-teal-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Wooting Premium Cable Set in Cyber Teal colourway, coiled and straight cables"
+       }
+      },
+      {
+       "label": "Take Control",
+       "image": {
+        "small": "/images/catalog/wooting-premium-cable-set--take-control-400.webp",
+        "large": "/images/catalog/wooting-premium-cable-set--take-control-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Wooting Premium Cable Set in Take Control colourway, coiled and straight cables"
+       }
+      },
+      {
+       "label": "Just White",
+       "image": {
+        "small": "/images/catalog/wooting-premium-cable-set--just-white-400.webp",
+        "large": "/images/catalog/wooting-premium-cable-set--just-white-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Wooting Premium Cable Set in Just White colourway, coiled and straight cables"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "sku": "TK-LOGITECH-MX-PALM-REST",
+   "slug": "logitech-mx-palm-rest",
+   "name": "Logitech MX Palm Rest",
+   "brand": "Logitech",
+   "category": "keyboard-accessories",
+   "price": "22.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    52,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [],
+   "summary": "Graphite memory-foam palm rest with a smooth, stain-resistant, no-slip surface for MX keyboards.",
+   "description": "MX Palm Rest offers firm yet comfortable support that keeps hands relaxed for hours of typing. Its soft, supportive memory foam is stain-resistant and easy to clean, and the smooth surface does not slip or slide on the desk.",
+   "keywords": "palm rest wrist rest logitech mx memory foam",
+   "specs": {
+    "accessoryType": "Wrist rest",
+    "compatibility": "Full-size and compact keyboards",
+    "colors": "Graphite"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-STEELSERIES-PRISMCAPS",
+   "slug": "steelseries-prismcaps",
+   "name": "SteelSeries PrismCaps",
+   "brand": "SteelSeries",
+   "category": "keyboard-accessories",
+   "price": "44.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    53,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [],
+   "summary": "Universal double-shot PBT pudding-style keycaps (US layout) in Black, White or Pink.",
+   "description": "SteelSeries PrismCaps are universal double-shot PBT keycaps designed to let RGB lighting shine through. The US English set is offered in Black, White and Pink on the SteelSeries store.",
+   "keywords": "prismcaps pudding keycaps pbt double shot steelseries",
+   "specs": {
+    "accessoryType": "Keycap set",
+    "compatibility": "Universal MX-style keyboards (US English layout)",
+    "colors": "Pink, Black, White"
+   },
+   "options": [
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Pink",
+       "default": true,
+       "image": {
+        "small": "/images/catalog/steelseries-prismcaps--pink-400.webp",
+        "large": "/images/catalog/steelseries-prismcaps--pink-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "SteelSeries PrismCaps double-shot PBT keycaps in Pink fitted on a keyboard, product shot"
+       }
+      },
+      {
+       "label": "Black"
+      },
+      {
+       "label": "White"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "sku": "TK-RAZER-PBT-KEYCAP-UPGRADE",
+   "slug": "razer-pbt-keycap-upgrade-set",
+   "name": "Razer PBT Keycap Upgrade Set",
+   "brand": "Razer",
+   "category": "keyboard-accessories",
+   "price": "29.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    58,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [],
+   "summary": "Doubleshot PBT keycap upgrade set for standard-layout mechanical keyboards in Classic Black, Razer Green or Quartz Pink.",
+   "description": "The Razer PBT Keycap Upgrade Set replaces stock keycaps with doubleshot PBT keycaps for mechanical keyboards. It is offered in Classic Black, Razer Green and Quartz Pink on the Razer US store.",
+   "keywords": "razer pbt keycaps doubleshot upgrade set",
+   "specs": {
+    "accessoryType": "Keycap set",
+    "compatibility": "Razer and standard-layout mechanical keyboards (US layout)",
+    "colors": "Classic Black, Quartz Pink, Razer Green"
+   },
+   "options": [
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Classic Black",
+       "default": true,
+       "image": {
+        "small": "/images/catalog/razer-pbt-keycap-upgrade-set--classic-black-400.webp",
+        "large": "/images/catalog/razer-pbt-keycap-upgrade-set--classic-black-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Razer PBT Keycap Upgrade Set in Classic Black, WASD keycaps product shot"
+       }
+      },
+      {
+       "label": "Quartz Pink",
+       "image": {
+        "small": "/images/catalog/razer-pbt-keycap-upgrade-set--quartz-pink-400.webp",
+        "large": "/images/catalog/razer-pbt-keycap-upgrade-set--quartz-pink-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Razer PBT Keycap Upgrade Set in Quartz Pink, WASD keycaps product shot"
+       }
+      },
+      {
+       "label": "Razer Green",
+       "image": {
+        "small": "/images/catalog/razer-pbt-keycap-upgrade-set--razer-green-400.webp",
+        "large": "/images/catalog/razer-pbt-keycap-upgrade-set--razer-green-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Razer PBT Keycap Upgrade Set in Razer Green, WASD keycaps product shot"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "sku": "TK-RAZER-PBT-KEYCAP-COILED",
+   "slug": "razer-pbt-keycap-coiled-cable-upgrade-set",
+   "name": "Razer PBT Keycap + Coiled Cable Upgrade Set",
+   "brand": "Razer",
+   "category": "keyboard-accessories",
+   "price": "49.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    29,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [],
+   "summary": "Doubleshot PBT keycap set bundled with a matching coiled USB-C cable, in four colourways.",
+   "description": "The Razer PBT Keycap + Coiled Cable Upgrade Set pairs doubleshot PBT keycaps with a matching coiled USB-C keyboard cable. It is offered in Classic Black, Mercury White, Quartz Pink and Razer Green on the Razer US store.",
+   "keywords": "razer pbt keycaps coiled cable upgrade set",
+   "specs": {
+    "accessoryType": "Keycap set + cable",
+    "connection": "USB-C coiled cable",
+    "compatibility": "Razer and standard-layout mechanical keyboards with USB-C",
+    "colors": "Classic Black, Mercury White, Quartz Pink, Razer Green"
+   },
+   "options": [
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Classic Black",
+       "default": true,
+       "image": {
+        "small": "/images/catalog/razer-pbt-keycap-coiled-cable-upgrade-set--classic-black-400.webp",
+        "large": "/images/catalog/razer-pbt-keycap-coiled-cable-upgrade-set--classic-black-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Razer PBT Keycap + Coiled Cable Upgrade Set in Classic Black, keycaps and coiled cable product shot"
+       }
+      },
+      {
+       "label": "Mercury White",
+       "image": {
+        "small": "/images/catalog/razer-pbt-keycap-coiled-cable-upgrade-set--mercury-white-400.webp",
+        "large": "/images/catalog/razer-pbt-keycap-coiled-cable-upgrade-set--mercury-white-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Razer PBT Keycap + Coiled Cable Upgrade Set in Mercury White, keycaps and coiled cable product shot"
+       }
+      },
+      {
+       "label": "Quartz Pink",
+       "image": {
+        "small": "/images/catalog/razer-pbt-keycap-coiled-cable-upgrade-set--quartz-pink-400.webp",
+        "large": "/images/catalog/razer-pbt-keycap-coiled-cable-upgrade-set--quartz-pink-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Razer PBT Keycap + Coiled Cable Upgrade Set in Quartz Pink, keycaps and coiled cable product shot"
+       }
+      },
+      {
+       "label": "Razer Green",
+       "image": {
+        "small": "/images/catalog/razer-pbt-keycap-coiled-cable-upgrade-set--razer-green-400.webp",
+        "large": "/images/catalog/razer-pbt-keycap-coiled-cable-upgrade-set--razer-green-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Razer PBT Keycap + Coiled Cable Upgrade Set in Razer Green, keycaps and coiled cable product shot"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "sku": "TK-NOVELKEYS-SILK-AWAKEN",
+   "slug": "novelkeys-nk-silk-awaken-switches",
+   "name": "NovelKeys NK Silk Awaken Switches",
+   "brand": "NovelKeys",
+   "category": "keyboard-accessories",
+   "price": "19.80",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    12,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [],
+   "summary": "NK Silk series linear switches pre-lubricated with Krytox 205g0, in Pink or Green.",
+   "description": "The NK Silk series are among the smoothest stock linear switches, lubricated with Krytox 205g0. This is batch 2 with improved lubricant application, offered in Pink and Green.",
+   "keywords": "novelkeys silk linear switches krytox lubed awaken",
+   "specs": {
+    "accessoryType": "Switches",
+    "compatibility": "MX-style mechanical keyboards",
+    "configurations": "Linear, factory-lubed (Pink or Green)"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-NOVELKEYS-CLASSIC-BLUE",
+   "slug": "novelkeys-classic-blue-switches",
+   "name": "NovelKeys Classic Blue Switches",
+   "brand": "NovelKeys",
+   "category": "keyboard-accessories",
+   "price": "17.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    28,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [],
+   "summary": "NovelKeys x TypePlus Classic Blue switches, offered lubricated or unlubricated.",
+   "description": "NovelKeys Classic Blue switches are produced with TypePlus and sold on the NovelKeys store in lubricated and unlubricated versions at the same price.",
+   "keywords": "novelkeys classic blue switches typeplus",
+   "specs": {
+    "accessoryType": "Switches",
+    "compatibility": "MX-style mechanical keyboards",
+    "configurations": "Lubricated – $17 · Unlubricated – $17"
+   },
+   "options": [
+    {
+     "name": "Configuration",
+     "values": [
+      {
+       "label": "Lubricated",
+       "price": "17.00",
+       "default": true
+      },
+      {
+       "label": "Unlubricated",
+       "price": "17.00"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

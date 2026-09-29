@@ -1,0 +1,156 @@
+{
+ "meta": {
+  "notes": "Researched products parked until an official, professional product image can be sourced."
+ },
+ "products": [
+  {
+   "category": "flash-drives-memory-cards",
+   "priceAsOf": "2026-09-28",
+   "sku": "TK-SAMSUNG-PROULT-SD",
+   "slug": "samsung-pro-ultimate-sd-card",
+   "name": "Samsung PRO Ultimate SDXC Card",
+   "brand": "Samsung",
+   "price": "16.99",
+   "priceBasis": "starting-at",
+   "priceSource": "https://www.samsung.com/us/memory-storage/memory-card/pro-ultimate-full-size-sdxc-64gb-sku-mb-sy64s-am/",
+   "summary": "Full-size PRO Ultimate SD card rated for 200MB/s reads and 130MB/s writes, in 64GB to 512GB.",
+   "description": "The Samsung PRO Ultimate full-size SDXC UHS-I card is rated for 200MB/s reads and 130MB/s writes for DSLR, mirrorless and PC workflows. It is sold in 64GB, 128GB, 256GB and 512GB.",
+   "keywords": "samsung pro ultimate sd card 200mb/s camera",
+   "specs": {
+    "capacityTb": 0.064,
+    "interface": "UHS-I",
+    "mediaType": "SD",
+    "readMbps": 200,
+    "writeMbps": 130
+   },
+   "variants": [
+    {
+     "label": "64GB",
+     "price": "16.99"
+    },
+    {
+     "label": "128GB",
+     "price": "22.99"
+    },
+    {
+     "label": "256GB",
+     "price": "39.99"
+    },
+    {
+     "label": "512GB",
+     "price": "74.99"
+    }
+   ],
+   "sources": {
+    "product": "https://www.samsung.com/us/memory-storage/memory-card/pro-ultimate-full-size-sdxc-64gb-sku-mb-sy64s-am/",
+    "retrievedAt": "2026-09-28"
+   },
+   "collections": [
+    "samsung-ecosystem"
+   ],
+   "notes": "Price is Samsung US msrpPrice for the listed configuration; several capacities showed as out of stock on samsung.com on the research date. No image: the only clean card photo in Samsung's gallery carries a promotional badge, other gallery images are lifestyle/text banners or packaging.",
+   "featured": false
+  },
+  {
+   "category": "flash-drives-memory-cards",
+   "priceAsOf": "2026-09-28",
+   "sku": "TK-ANGELBIRD-AVPROSE-CFE-B4",
+   "slug": "angelbird-av-pro-se-cfexpress-b-v4-mk2",
+   "name": "Angelbird AV PRO SE CFexpress B v4 MK2",
+   "brand": "Angelbird",
+   "price": "269.99",
+   "priceBasis": "starting-at",
+   "priceSource": "https://www.angelbird.com/prod/av-pro-se-cfexpress-b-v4-mk2-3513/",
+   "summary": "CFexpress v4 Type B card on PCIe 4.0 x2 with reads up to 3700MB/s and Stable Stream sustained writes, 256GB to 4TB.",
+   "description": "Angelbird's AV PRO SE CFexpress B v4 MK2 uses a PCIe 4.0 x2 interface with max reads of 3700MB/s. Max/sustained writes scale with capacity: 550/500MB/s (256GB), 1100/1050MB/s (512GB), 2300/2100MB/s (1TB) and 3500/3150MB/s (2TB, 4TB). It has a 3-year limited warranty including free data recovery.",
+   "keywords": "angelbird av pro se cfexpress b v4 12k raw stable stream",
+   "specs": {
+    "capacityTb": 0.256,
+    "interface": "CFexpress v4 Type B (PCIe 4.0 x2)",
+    "mediaType": "CFexpress Type B",
+    "readMbps": 3700,
+    "writeMbps": 550
+   },
+   "variants": [
+    {
+     "label": "256GB",
+     "price": "269.99"
+    },
+    {
+     "label": "512GB",
+     "price": "399.99"
+    },
+    {
+     "label": "1TB",
+     "price": "749.99"
+    },
+    {
+     "label": "2TB",
+     "price": "1099.99"
+    },
+    {
+     "label": "4TB",
+     "price": "1799.99"
+    }
+   ],
+   "warranty": 36,
+   "sources": {
+    "product": "https://www.angelbird.com/prod/av-pro-se-cfexpress-b-v4-mk2-3513/",
+    "retrievedAt": "2026-09-28"
+   },
+   "notes": "USD prices from the product page JSON-LD offers (angelbird.com US, excl. tax). No image: Angelbird product-page imagery places the card over large decorative lettering, not a clean studio shot.",
+   "featured": false
+  },
+  {
+   "category": "flash-drives-memory-cards",
+   "priceAsOf": "2026-09-28",
+   "sku": "TK-ANGELBIRD-AVPRO-SD-V60",
+   "slug": "angelbird-av-pro-sd-v60-mk2",
+   "name": "Angelbird AV PRO SD V60 MK2",
+   "brand": "Angelbird",
+   "price": "119.99",
+   "priceBasis": "starting-at",
+   "priceSource": "https://www.angelbird.com/prod/av-pro-sd-mk2-v60-2071/",
+   "summary": "UHS-II V60 SDXC card with max reads of 280MB/s and 140MB/s sustained writes, 64GB to 1TB.",
+   "description": "The Angelbird AV PRO SD V60 MK2 is an SD 6.1 UHS-II card rated C10, U3 and V60, with max read/write speeds of 280/160MB/s and sustained read/write of 260/140MB/s. It operates from -25 to 85 C and carries a 3-year limited warranty with free data recovery.",
+   "keywords": "angelbird av pro sd v60 mk2 uhs-ii",
+   "specs": {
+    "capacityTb": 0.064,
+    "interface": "UHS-II (SD 6.1)",
+    "mediaType": "SD",
+    "readMbps": 280,
+    "writeMbps": 160,
+    "speedClass": "V60"
+   },
+   "variants": [
+    {
+     "label": "64GB",
+     "price": "119.99"
+    },
+    {
+     "label": "128GB",
+     "price": "159.99"
+    },
+    {
+     "label": "256GB",
+     "price": "239.99"
+    },
+    {
+     "label": "512GB",
+     "price": "419.99"
+    },
+    {
+     "label": "1TB",
+     "price": "599.99"
+    }
+   ],
+   "warranty": 36,
+   "sources": {
+    "product": "https://www.angelbird.com/prod/av-pro-sd-mk2-v60-2071/",
+    "retrievedAt": "2026-09-28"
+   },
+   "notes": "USD single-pack prices from the product page JSON-LD offers (angelbird.com US, excl. tax). No image: Angelbird product-page imagery places the card over large decorative lettering, not a clean studio shot.",
+   "featured": false
+  }
+ ]
+}

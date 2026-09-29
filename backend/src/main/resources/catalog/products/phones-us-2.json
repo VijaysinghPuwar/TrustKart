@@ -1,0 +1,1786 @@
+{
+ "products": [
+  {
+   "sku": "TK-GOOGLE-PIXEL10",
+   "slug": "google-pixel-10",
+   "name": "Google Pixel 10",
+   "brand": "Google",
+   "category": "smartphones",
+   "price": "799.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    57,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "pixel-google"
+   ],
+   "summary": "Previous-generation Pixel with Tensor G5, a 6.3-inch Actua display, a 48 MP triple camera with 5x telephoto and Pixelsnap Qi2 wireless charging.",
+   "description": "Pixel 10 is still sold unlocked on the Google Store alongside the Pixel 11 family. It pairs Google Tensor G5 and 12 GB of RAM with a 6.3-inch 60-120 Hz Actua OLED display, a triple rear camera (48 MP wide, 13 MP ultrawide, 10.8 MP 5x telephoto) and a 4970 mAh battery with Pixelsnap wireless charging, and Google promises 7 years of OS and security updates.",
+   "keywords": "pixel 10 tensor g5 google android 16 pixelsnap qi2",
+   "specs": {
+    "chip": "Google Tensor G5 (Titan M2 security coprocessor)",
+    "storageGb": 128,
+    "ramGb": 12,
+    "displayIn": 6.3,
+    "display": "6.3-inch Actua OLED, 1080 x 2424, 422 PPI, 60-120 Hz, up to 3000 nits peak",
+    "rearCamera": "48 MP wide + 13 MP ultrawide + 10.8 MP 5x telephoto, Super Zoom up to 20x",
+    "frontCamera": "10.5 MP Dual PD with autofocus",
+    "battery": "Typical 4970 mAh, 24+ hour battery life",
+    "charging": "Up to 55% in ~30 min with 30W USB-C PPS; Pixelsnap Qi2 wireless up to 15W",
+    "connectivity": "5G mmWave + Sub-6, Wi-Fi 6E, Bluetooth 6, NFC",
+    "durability": "IP68, Gorilla Glass Victus 2, aluminum frame",
+    "os": "Android 16",
+    "weightG": 204,
+    "dimensions": "6 x 2.8 x 0.3 in",
+    "configurations": "128 GB / 12 GB RAM – $799 · 256 GB / 12 GB RAM – $899",
+    "colors": "Obsidian, Indigo, Frost, Lemongrass"
+   },
+   "options": [
+    {
+     "name": "Storage",
+     "values": [
+      {
+       "label": "128 GB / 12 GB RAM",
+       "price": "799.00",
+       "default": true
+      },
+      {
+       "label": "256 GB / 12 GB RAM",
+       "price": "899.00"
+      }
+     ]
+    },
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Obsidian",
+       "default": true,
+       "image": {
+        "small": "/images/catalog/google-pixel-10--obsidian-400.webp",
+        "large": "/images/catalog/google-pixel-10--obsidian-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Google Pixel 10 in Obsidian, rear view"
+       }
+      },
+      {
+       "label": "Indigo",
+       "image": {
+        "small": "/images/catalog/google-pixel-10--indigo-400.webp",
+        "large": "/images/catalog/google-pixel-10--indigo-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Google Pixel 10 in Indigo, rear view"
+       }
+      },
+      {
+       "label": "Frost",
+       "image": {
+        "small": "/images/catalog/google-pixel-10--frost-400.webp",
+        "large": "/images/catalog/google-pixel-10--frost-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Google Pixel 10 in Frost, rear view"
+       }
+      },
+      {
+       "label": "Lemongrass",
+       "image": {
+        "small": "/images/catalog/google-pixel-10--lemongrass-400.webp",
+        "large": "/images/catalog/google-pixel-10--lemongrass-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Google Pixel 10 in Lemongrass, rear view"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "sku": "TK-GOOGLE-PIXEL10PRO",
+   "slug": "google-pixel-10-pro",
+   "name": "Google Pixel 10 Pro",
+   "brand": "Google",
+   "category": "smartphones",
+   "price": "999.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    8,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "pixel-google"
+   ],
+   "summary": "Previous-generation compact Pixel Pro with Tensor G5, 16 GB RAM, a 6.3-inch LTPO Super Actua display and a 50 MP pro triple camera with Pro Zoom up to 100x.",
+   "description": "Pixel 10 Pro remains on sale on the Google Store. It has Google Tensor G5 with 16 GB of RAM, a 6.3-inch 1-120 Hz LTPO Super Actua display, a pro triple camera (50 MP wide, 48 MP ultrawide, 48 MP 5x telephoto) with Pro Zoom up to 100x and 8K Video Boost, Wi-Fi 7, UWB and Pixelsnap Qi2 wireless charging.",
+   "keywords": "pixel 10 pro tensor g5 pro zoom 100x google flagship",
+   "specs": {
+    "chip": "Google Tensor G5 (Titan M2 security coprocessor)",
+    "storageGb": 128,
+    "ramGb": 16,
+    "displayIn": 6.3,
+    "display": "6.3-inch Super Actua LTPO OLED, 1280 x 2856, 495 PPI, 1-120 Hz, up to 3300 nits peak",
+    "rearCamera": "50 MP wide + 48 MP ultrawide + 48 MP 5x telephoto, Pro Zoom up to 100x",
+    "frontCamera": "42 MP Dual PD with autofocus",
+    "battery": "Typical 4870 mAh, 24+ hour battery life",
+    "charging": "Up to 55% in ~30 min with 30W USB-C PPS; Pixelsnap Qi2 wireless up to 15W",
+    "connectivity": "5G, Wi-Fi 7, Bluetooth 6, NFC, UWB",
+    "durability": "IP68, Gorilla Glass Victus 2, aluminum frame",
+    "os": "Android 16",
+    "weightG": 207,
+    "dimensions": "6 x 2.8 x 0.3 in",
+    "configurations": "128 GB / 16 GB RAM – $999 · 256 GB / 16 GB RAM – $1,099 · 512 GB / 16 GB RAM – $1,219 · 1 TB / 16 GB RAM – $1,449",
+    "colors": "Obsidian, Moonstone, Jade, Porcelain"
+   },
+   "options": [
+    {
+     "name": "Storage",
+     "values": [
+      {
+       "label": "128 GB / 16 GB RAM",
+       "price": "999.00",
+       "default": true
+      },
+      {
+       "label": "256 GB / 16 GB RAM",
+       "price": "1099.00"
+      },
+      {
+       "label": "512 GB / 16 GB RAM",
+       "price": "1219.00"
+      },
+      {
+       "label": "1 TB / 16 GB RAM",
+       "price": "1449.00"
+      }
+     ]
+    },
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Obsidian",
+       "default": true,
+       "image": {
+        "small": "/images/catalog/google-pixel-10-pro--obsidian-400.webp",
+        "large": "/images/catalog/google-pixel-10-pro--obsidian-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Google Pixel 10 Pro in Obsidian, rear view"
+       }
+      },
+      {
+       "label": "Moonstone",
+       "image": {
+        "small": "/images/catalog/google-pixel-10-pro--moonstone-400.webp",
+        "large": "/images/catalog/google-pixel-10-pro--moonstone-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Google Pixel 10 Pro in Moonstone, rear view"
+       }
+      },
+      {
+       "label": "Jade",
+       "image": {
+        "small": "/images/catalog/google-pixel-10-pro--jade-400.webp",
+        "large": "/images/catalog/google-pixel-10-pro--jade-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Google Pixel 10 Pro in Jade, rear view"
+       }
+      },
+      {
+       "label": "Porcelain",
+       "image": {
+        "small": "/images/catalog/google-pixel-10-pro--porcelain-400.webp",
+        "large": "/images/catalog/google-pixel-10-pro--porcelain-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Google Pixel 10 Pro in Porcelain, rear view"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "sku": "TK-GOOGLE-PIXEL10PROXL",
+   "slug": "google-pixel-10-pro-xl",
+   "name": "Google Pixel 10 Pro XL",
+   "brand": "Google",
+   "category": "smartphones",
+   "price": "1199.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    16,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "pixel-google"
+   ],
+   "summary": "Previous-generation large Pixel Pro with Tensor G5, a 6.8-inch LTPO Super Actua display, 5200 mAh battery and 25W Pixelsnap Qi2 wireless charging.",
+   "description": "Pixel 10 Pro XL remains on sale on the Google Store. It shares the Pixel 10 Pro camera system (50 MP wide, 48 MP ultrawide, 48 MP 5x telephoto, Pro Zoom up to 100x) and Tensor G5 with 16 GB RAM, adding a 6.8-inch 1344 x 2992 LTPO display, a 5200 mAh battery, 45W wired and 25W Pixelsnap wireless charging.",
+   "keywords": "pixel 10 pro xl tensor g5 large screen google",
+   "specs": {
+    "chip": "Google Tensor G5 (Titan M2 security coprocessor)",
+    "storageGb": 256,
+    "ramGb": 16,
+    "displayIn": 6.8,
+    "display": "6.8-inch Super Actua LTPO OLED, 1344 x 2992, 486 PPI, 1-120 Hz, up to 3300 nits peak",
+    "rearCamera": "50 MP wide + 48 MP ultrawide + 48 MP 5x telephoto, Pro Zoom up to 100x",
+    "frontCamera": "42 MP Dual PD with autofocus",
+    "battery": "Typical 5200 mAh, 24+ hour battery life",
+    "charging": "Up to 70% in ~30 min with 45W USB-C PPS; Pixelsnap Qi2 wireless up to 25W",
+    "connectivity": "5G, Wi-Fi 7, Bluetooth 6, NFC, UWB",
+    "durability": "IP68, Gorilla Glass Victus 2, aluminum frame",
+    "os": "Android 16",
+    "weightG": 232,
+    "dimensions": "6.4 x 3 x 0.3 in",
+    "configurations": "256 GB / 16 GB RAM – $1,199 · 512 GB / 16 GB RAM – $1,319 · 1 TB / 16 GB RAM – $1,549",
+    "colors": "Obsidian, Moonstone, Jade, Porcelain"
+   },
+   "options": [
+    {
+     "name": "Storage",
+     "values": [
+      {
+       "label": "256 GB / 16 GB RAM",
+       "price": "1199.00",
+       "default": true
+      },
+      {
+       "label": "512 GB / 16 GB RAM",
+       "price": "1319.00"
+      },
+      {
+       "label": "1 TB / 16 GB RAM",
+       "price": "1549.00"
+      }
+     ]
+    },
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Obsidian",
+       "default": true,
+       "image": {
+        "small": "/images/catalog/google-pixel-10-pro-xl--obsidian-400.webp",
+        "large": "/images/catalog/google-pixel-10-pro-xl--obsidian-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Google Pixel 10 Pro XL in Obsidian, rear view"
+       }
+      },
+      {
+       "label": "Moonstone",
+       "image": {
+        "small": "/images/catalog/google-pixel-10-pro-xl--moonstone-400.webp",
+        "large": "/images/catalog/google-pixel-10-pro-xl--moonstone-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Google Pixel 10 Pro XL in Moonstone, rear view"
+       }
+      },
+      {
+       "label": "Jade",
+       "image": {
+        "small": "/images/catalog/google-pixel-10-pro-xl--jade-400.webp",
+        "large": "/images/catalog/google-pixel-10-pro-xl--jade-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Google Pixel 10 Pro XL in Jade, rear view"
+       }
+      },
+      {
+       "label": "Porcelain",
+       "image": {
+        "small": "/images/catalog/google-pixel-10-pro-xl--porcelain-400.webp",
+        "large": "/images/catalog/google-pixel-10-pro-xl--porcelain-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Google Pixel 10 Pro XL in Porcelain, rear view"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "sku": "TK-GOOGLE-PIXEL10PROFOLD",
+   "slug": "google-pixel-10-pro-fold",
+   "name": "Google Pixel 10 Pro Fold",
+   "brand": "Google",
+   "category": "foldables",
+   "price": "1799.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    48,
+    5
+   ],
+   "featured": true,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "pixel-google"
+   ],
+   "summary": "Previous-generation Pixel foldable with Tensor G5, an 8-inch Super Actua Flex inner display, 6.4-inch outer display, IP68 rating and Pixelsnap wireless charging.",
+   "description": "Pixel 10 Pro Fold is still sold on the Google Store. It opens from a 6.4-inch Actua outer display to an 8-inch 1-120 Hz Super Actua Flex inner display, runs on Tensor G5 with 16 GB RAM, carries a 48 MP wide, 10.5 MP ultrawide and 10.8 MP 5x telephoto camera, a 5015 mAh battery and IP68 dust and water resistance.",
+   "keywords": "pixel 10 pro fold foldable tensor g5 google",
+   "specs": {
+    "chip": "Google Tensor G5 (Titan M2 security coprocessor)",
+    "storageGb": 256,
+    "ramGb": 16,
+    "displayIn": 8.0,
+    "display": "8-inch Super Actua Flex OLED, 2076 x 2152, 1-120 Hz, up to 3000 nits peak",
+    "coverDisplay": "6.4-inch Actua OLED, 1080 x 2364, 60-120 Hz",
+    "rearCamera": "48 MP wide + 10.5 MP ultrawide + 10.8 MP 5x telephoto, Super Zoom up to 20x",
+    "frontCamera": "10 MP outer + 10 MP inner",
+    "battery": "Typical 5015 mAh, 24+ hour battery life",
+    "charging": "Up to 50% in ~30 min with 30W USB-C PPS; Pixelsnap Qi2 wireless up to 15W",
+    "connectivity": "5G, Wi-Fi 7, Bluetooth 6, NFC, UWB",
+    "durability": "IP68, Gorilla Glass Victus 2, Ultra Thin Glass inner display",
+    "os": "Android 16",
+    "weightG": 258,
+    "dimensions": "Folded 6.1 x 3 x 0.4 in; unfolded 6.1 x 5.9 x 0.2 in",
+    "configurations": "256 GB / 16 GB RAM – $1,799 · 512 GB / 16 GB RAM – $1,919 · 1 TB / 16 GB RAM – $2,149",
+    "colors": "Moonstone, Jade"
+   },
+   "options": [
+    {
+     "name": "Storage",
+     "values": [
+      {
+       "label": "256 GB / 16 GB RAM",
+       "price": "1799.00",
+       "default": true
+      },
+      {
+       "label": "512 GB / 16 GB RAM",
+       "price": "1919.00"
+      },
+      {
+       "label": "1 TB / 16 GB RAM",
+       "price": "2149.00"
+      }
+     ]
+    },
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Moonstone",
+       "default": true,
+       "image": {
+        "small": "/images/catalog/google-pixel-10-pro-fold--moonstone-400.webp",
+        "large": "/images/catalog/google-pixel-10-pro-fold--moonstone-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Google Pixel 10 Pro Fold in Moonstone, folded, rear view"
+       }
+      },
+      {
+       "label": "Jade",
+       "image": {
+        "small": "/images/catalog/google-pixel-10-pro-fold--jade-400.webp",
+        "large": "/images/catalog/google-pixel-10-pro-fold--jade-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Google Pixel 10 Pro Fold in Jade, folded, rear view"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "sku": "TK-SAMSUNG-GALAXY-A17-5G",
+   "slug": "samsung-galaxy-a17-5g",
+   "name": "Samsung Galaxy A17 5G",
+   "brand": "Samsung",
+   "category": "smartphones",
+   "price": "249.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    20,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "samsung-ecosystem"
+   ],
+   "summary": "Entry-level 5G Galaxy with a 6.7-inch FHD+ Super AMOLED 90 Hz display, 50 MP OIS main camera, 5,000 mAh battery and six years of OS and security updates.",
+   "description": "Galaxy A17 5G brings a 6.7-inch FHD+ Super AMOLED 90 Hz display, a 50 MP wide camera with OIS plus 5 MP ultra-wide and 2 MP macro lenses, an Exynos 1330 processor and a 5,000 mAh battery with 25W Super Fast Charging. It has IP54 splash protection, Gorilla Glass Victus on the front and six OS upgrades with six years of security updates.",
+   "keywords": "galaxy a17 5g budget android samsung unlocked",
+   "specs": {
+    "chip": "Exynos 1330",
+    "storageGb": 128,
+    "ramGb": 4,
+    "displayIn": 6.7,
+    "display": "6.7-inch FHD+ Super AMOLED, 90 Hz",
+    "rearCamera": "50 MP wide (F1.8, OIS) + 5 MP ultra-wide + 2 MP macro",
+    "frontCamera": "13 MP (F2.0)",
+    "battery": "5,000 mAh",
+    "charging": "25W Super Fast Charging",
+    "connectivity": "5G (Sub-6), Wi-Fi 5",
+    "durability": "IP54, Gorilla Glass Victus front",
+    "os": "Android",
+    "weightG": 192,
+    "dimensions": "164.4 x 77.9 x 7.5 mm",
+    "configurations": "128 GB – $249.99",
+    "colors": "Black, Blue"
+   },
+   "options": [
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Black",
+       "default": true,
+       "image": {
+        "small": "/images/catalog/samsung-galaxy-a17-5g--black-400.webp",
+        "large": "/images/catalog/samsung-galaxy-a17-5g--black-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Samsung Galaxy A17 5G in Black, official Samsung product photo"
+       }
+      },
+      {
+       "label": "Blue",
+       "image": {
+        "small": "/images/catalog/samsung-galaxy-a17-5g--blue-400.webp",
+        "large": "/images/catalog/samsung-galaxy-a17-5g--blue-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Samsung Galaxy A17 5G in Blue, official Samsung product photo"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "sku": "TK-SAMSUNG-GALAXY-A27-5G",
+   "slug": "samsung-galaxy-a27-5g",
+   "name": "Samsung Galaxy A27 5G",
+   "brand": "Samsung",
+   "category": "smartphones",
+   "price": "349.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    48,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "samsung-ecosystem"
+   ],
+   "summary": "Mid-range 5G Galaxy with a 6.7-inch Super AMOLED Infinity-O display up to 120 Hz, Snapdragon 6 Gen 3, 50 MP OIS camera and a 5,000 mAh battery.",
+   "description": "Galaxy A27 5G adds a 6.7-inch FHD+ Super AMOLED Infinity-O display with up to 120 Hz refresh, the Snapdragon 6 Gen 3 platform, a 50 MP OIS wide camera with 5 MP ultra-wide and 2 MP macro, and a 12 MP selfie camera in a 7.8 mm body. It has a 5,000 mAh battery with 25W fast charging, IP64 protection, Samsung Knox Vault and up to six OS upgrades.",
+   "keywords": "galaxy a27 5g snapdragon 6 gen 3 samsung unlocked",
+   "specs": {
+    "chip": "Snapdragon 6 Gen 3 (4 nm)",
+    "storageGb": 128,
+    "ramGb": 6,
+    "displayIn": 6.7,
+    "display": "6.7-inch FHD+ Super AMOLED Infinity-O, up to 120 Hz",
+    "rearCamera": "50 MP wide (OIS) + 5 MP ultra-wide + 2 MP macro",
+    "frontCamera": "12 MP",
+    "battery": "5,000 mAh (typical)",
+    "charging": "25W fast charging",
+    "durability": "IP64",
+    "os": "Android 16",
+    "weightG": 200,
+    "dimensions": "162.4 x 78.2 x 7.8 mm",
+    "configurations": "128 GB – $349.99",
+    "colors": "Black"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-SAMSUNG-GALAXY-XCOVER7-PRO",
+   "slug": "samsung-galaxy-xcover7-pro",
+   "name": "Samsung Galaxy XCover7 Pro",
+   "brand": "Samsung",
+   "category": "smartphones",
+   "price": "599.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    52,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "samsung-ecosystem",
+    "small-business"
+   ],
+   "summary": "Rugged 5G Galaxy for frontline work with IP68 and MIL-STD-810H, a glove-friendly 6.6-inch 120 Hz display, Snapdragon 7s Gen 3 and a user-replaceable battery.",
+   "description": "Galaxy XCover7 Pro is Samsung's ruggedized business phone. It has a 6.6-inch FHD+ 120 Hz display with glove touch sensitivity, Snapdragon 7s Gen 3, 6 GB RAM with 128 GB storage and microSD up to 2 TB, a 50 MP wide plus 8 MP ultra-wide camera and a 4,350 mAh user-replaceable battery, protected to IP68 and MIL-STD-810H with Gorilla Glass Victus+.",
+   "keywords": "galaxy xcover7 pro rugged business frontline samsung",
+   "specs": {
+    "chip": "Snapdragon 7s Gen 3 (4 nm)",
+    "storageGb": 128,
+    "ramGb": 6,
+    "displayIn": 6.6,
+    "display": "6.6-inch FHD+ TFT LCD, up to 120 Hz, glove touch sensitivity, Vision Booster",
+    "rearCamera": "50 MP wide (F1.8) + 8 MP ultra-wide",
+    "frontCamera": "13 MP (F2.2)",
+    "battery": "4,350 mAh (typical), user replaceable",
+    "connectivity": "5G (Sub-6), LTE, Wi-Fi 6E, Bluetooth 5.4, NFC",
+    "durability": "IP68, MIL-STD-810H, Gorilla Glass Victus+",
+    "os": "Android 15",
+    "weightG": 240,
+    "dimensions": "168.6 x 79.9 x 10.2 mm",
+    "configurations": "128 GB – $599.99",
+    "colors": "Black"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-UNIHERTZ-TITAN2-ELITE",
+   "slug": "unihertz-titan-2-elite",
+   "name": "Unihertz Titan 2 Elite",
+   "brand": "Unihertz",
+   "category": "smartphones",
+   "price": "489.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    39,
+    5
+   ],
+   "featured": true,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [],
+   "summary": "Compact 5G phone with a full physical QWERTY keyboard under a 4.03-inch 120 Hz AMOLED screen, Dimensity 7400, 12 GB RAM and 256 GB storage.",
+   "description": "Titan 2 Elite is Unihertz's smallest 5G QWERTY keyboard smartphone. It pairs a 4.03-inch 1080 x 1200 AMOLED display at 120 Hz with a full physical keyboard, MediaTek Dimensity 7400, 12 GB LPDDR5 RAM and 256 GB UFS 3.1 storage, a 50 MP main plus 50 MP telephoto camera and a 4050 mAh battery with 33W charging, running Android 16.",
+   "keywords": "unihertz titan 2 elite qwerty keyboard blackberry style compact 5g",
+   "specs": {
+    "chip": "MediaTek Dimensity 7400",
+    "storageGb": 256,
+    "ramGb": 12,
+    "rearCamera": "50 MP main + 50 MP telephoto (AF)",
+    "displayIn": 4.03,
+    "display": "4.03-inch AMOLED, 1080 x 1200, 120 Hz",
+    "frontCamera": "32 MP",
+    "battery": "4050 mAh (non-removable)",
+    "charging": "33W wired",
+    "connectivity": "5G, Wi-Fi 6 (802.11ax), Bluetooth 6.0, NFC, IR blaster",
+    "os": "Android 16",
+    "weightG": 163,
+    "dimensions": "117.8 x 75 x 10.4 mm",
+    "configurations": "12 GB + 256 GB – $489.99",
+    "colors": "Black, Orange"
+   },
+   "options": [
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Black",
+       "default": true,
+       "image": {
+        "small": "/images/catalog/unihertz-titan-2-elite--black-400.webp",
+        "large": "/images/catalog/unihertz-titan-2-elite--black-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Unihertz Titan 2 Elite in Black, front and back view"
+       }
+      },
+      {
+       "label": "Orange",
+       "image": {
+        "small": "/images/catalog/unihertz-titan-2-elite--orange-400.webp",
+        "large": "/images/catalog/unihertz-titan-2-elite--orange-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Unihertz Titan 2 Elite in Orange, front and back view"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "sku": "TK-UNIHERTZ-TITAN2-ELITE-PRO",
+   "slug": "unihertz-titan-2-elite-pro",
+   "name": "Unihertz Titan 2 Elite Pro",
+   "brand": "Unihertz",
+   "category": "smartphones",
+   "price": "579.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    55,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [],
+   "summary": "Higher-spec Titan 2 Elite with Dimensity 8400, 512 GB storage and an OIS main camera, plus the physical QWERTY keyboard and 4.03-inch 120 Hz AMOLED.",
+   "description": "Titan 2 Elite Pro keeps the compact QWERTY keyboard design and 4.03-inch 120 Hz AMOLED display of the Titan 2 Elite, but steps up to the MediaTek Dimensity 8400, 12 GB LPDDR5 RAM with 512 GB UFS 3.1 storage and a 50 MP main camera with OIS alongside a 50 MP telephoto. It has a 4050 mAh battery with 33W charging and runs Android 16.",
+   "keywords": "unihertz titan 2 elite pro qwerty keyboard dimensity 8400",
+   "specs": {
+    "chip": "MediaTek Dimensity 8400",
+    "storageGb": 512,
+    "ramGb": 12,
+    "rearCamera": "50 MP main (OIS) + 50 MP telephoto (AF)",
+    "displayIn": 4.03,
+    "display": "4.03-inch AMOLED, 1080 x 1200, 120 Hz",
+    "frontCamera": "32 MP",
+    "battery": "4050 mAh (non-removable)",
+    "charging": "33W wired",
+    "connectivity": "5G, Wi-Fi 6 (802.11ax), Bluetooth 6.0, NFC, IR blaster",
+    "os": "Android 16",
+    "weightG": 163,
+    "dimensions": "117.8 x 75 x 10.4 mm",
+    "configurations": "12 GB + 512 GB – $579.99",
+    "colors": "Black, Orange"
+   },
+   "options": [
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Black",
+       "default": true,
+       "image": {
+        "small": "/images/catalog/unihertz-titan-2-elite-pro--black-400.webp",
+        "large": "/images/catalog/unihertz-titan-2-elite-pro--black-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Unihertz Titan 2 Elite Pro in Black, front and back view"
+       }
+      },
+      {
+       "label": "Orange",
+       "image": {
+        "small": "/images/catalog/unihertz-titan-2-elite-pro--orange-400.webp",
+        "large": "/images/catalog/unihertz-titan-2-elite-pro--orange-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Unihertz Titan 2 Elite Pro in Orange, front and back view"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "sku": "TK-UNIHERTZ-TANK4-PRO",
+   "slug": "unihertz-tank-4-pro",
+   "name": "Unihertz Tank 4 Pro",
+   "brand": "Unihertz",
+   "category": "smartphones",
+   "price": "709.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    50,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [],
+   "summary": "Rugged 5G phone with a built-in DLP projector, 1200 lm camping light, 6.73-inch 120 Hz AMOLED display, 11600 mAh battery and 120W charging.",
+   "description": "Tank 4 Pro is a rugged IP68 smartphone with a built-in DLP projector and a camping light up to 1200 lm. It has a 6.73-inch 1440 x 3200 AMOLED display at 120 Hz, MediaTek Dimensity 8300, LPDDR5X memory with UFS 4.0 storage, a 50 MP main, 64 MP night-vision and 50 MP telephoto camera, and an 11600 mAh battery with 120W charging.",
+   "keywords": "unihertz tank 4 pro rugged projector camping light 5g",
+   "specs": {
+    "chip": "MediaTek Dimensity 8300",
+    "storageGb": 512,
+    "ramGb": 16,
+    "displayIn": 6.73,
+    "display": "6.73-inch AMOLED, 1440 x 3200, 120 Hz",
+    "rearCamera": "50 MP main + 64 MP night vision + 50 MP telephoto",
+    "frontCamera": "32 MP",
+    "battery": "11600 mAh (non-removable)",
+    "charging": "120W wired",
+    "connectivity": "5G, Bluetooth 5.4, NFC, USB-C (USB 3.2 Gen 1 + DP 1.4)",
+    "durability": "IP68, shock resistant",
+    "os": "Android 15",
+    "weightG": 530,
+    "dimensions": "174.9 x 87 x 22.5 mm",
+    "configurations": "16 GB + 512 GB – $709.99 · 18 GB + 1 TB – $799.99",
+    "colors": "Black"
+   },
+   "options": [
+    {
+     "name": "Storage",
+     "values": [
+      {
+       "label": "16 GB + 512 GB",
+       "price": "709.99",
+       "default": true
+      },
+      {
+       "label": "18 GB + 1 TB",
+       "price": "799.99"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "sku": "TK-UNIHERTZ-TITAN2",
+   "slug": "unihertz-titan-2",
+   "name": "Unihertz Titan 2",
+   "brand": "Unihertz",
+   "category": "smartphones",
+   "price": "489.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    40,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [],
+   "summary": "5G QWERTY keyboard smartphone with a square 4.5-inch 1440 x 1440 main screen, a 2-inch rear sub screen, Dimensity 7300 and 512 GB storage.",
+   "description": "Titan 2 combines a full physical QWERTY keyboard with a square 4.5-inch 1440 x 1440 display and a 2-inch sub screen on the back. It uses MediaTek Dimensity 7300 with 12 GB LPDDR5 RAM and 512 GB storage, a 50 MP main plus 8 MP telephoto camera and a 5050 mAh battery with 33W charging.",
+   "keywords": "unihertz titan 2 qwerty keyboard square screen passport style",
+   "specs": {
+    "chip": "MediaTek Dimensity 7300",
+    "storageGb": 512,
+    "ramGb": 12,
+    "displayIn": 4.5,
+    "display": "4.5-inch LCD, 1440 x 1440 (plus 2-inch 410 x 502 rear sub screen)",
+    "rearCamera": "50 MP main + 8 MP telephoto",
+    "frontCamera": "32 MP",
+    "battery": "5050 mAh (non-removable)",
+    "charging": "33W wired",
+    "connectivity": "5G, Bluetooth 5.4, NFC, IR blaster",
+    "os": "Android 15",
+    "weightG": 235,
+    "dimensions": "137.8 x 88.7 x 10.8 mm",
+    "configurations": "12 GB + 512 GB – $489.99",
+    "colors": "Black"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-UNIHERTZ-JELLY-MAX",
+   "slug": "unihertz-jelly-max",
+   "name": "Unihertz Jelly Max",
+   "brand": "Unihertz",
+   "category": "smartphones",
+   "price": "339.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    28,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [],
+   "summary": "Small 5G Android phone with a 5.05-inch display, Dimensity 7300, 8 GB RAM, 256 GB storage, a 100 MP camera and 66W charging.",
+   "description": "Jelly Max is Unihertz's small 5G smartphone with a 5.05-inch 720 x 1520 display. It runs a MediaTek Dimensity 7300 with 8 GB LPDDR5 RAM and 256 GB UFS 3.1 storage, has a 100 MP main plus 8 MP telephoto camera and a 32 MP selfie camera, and a 4000 mAh battery with 66W charging.",
+   "keywords": "unihertz jelly max small compact 5g phone",
+   "specs": {
+    "chip": "MediaTek Dimensity 7300",
+    "storageGb": 256,
+    "ramGb": 8,
+    "displayIn": 5.05,
+    "display": "5.05-inch LCD, 720 x 1520",
+    "rearCamera": "100 MP main + 8 MP telephoto",
+    "frontCamera": "32 MP",
+    "battery": "4000 mAh (non-removable)",
+    "charging": "66W wired",
+    "connectivity": "5G, Bluetooth 5.4, NFC, IR blaster",
+    "os": "Android 15",
+    "weightG": 180,
+    "dimensions": "128.7 x 62.7 x 16.3 mm",
+    "configurations": "8 GB + 256 GB – $339.99",
+    "colors": "Black"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-UNIHERTZ-TANK3-PRO",
+   "slug": "unihertz-tank-3-pro",
+   "name": "Unihertz Tank 3 Pro",
+   "brand": "Unihertz",
+   "category": "smartphones",
+   "price": "599.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    10,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [],
+   "summary": "Rugged 5G phone with a built-in DLP projector, 23800 mAh battery, 200 MP main camera, camping light and 120W charging.",
+   "description": "Tank 3 Pro is a heavy-duty IP68 rugged phone with a built-in DLP projector, a 1200 lm camping light and a 23800 mAh battery with 120W charging. It has a 6.79-inch 120 Hz display, MediaTek Dimensity 8200 with 512 GB storage, and a 200 MP main, 64 MP night-vision, 50 MP wide-angle and 8 MP telephoto camera array.",
+   "keywords": "unihertz tank 3 pro rugged projector 23800mah",
+   "specs": {
+    "chip": "MediaTek Dimensity 8200",
+    "storageGb": 512,
+    "ramGb": 16,
+    "displayIn": 6.79,
+    "display": "6.79-inch LCD, 1080 x 2460, 120 Hz",
+    "rearCamera": "200 MP main + 64 MP night vision + 50 MP wide-angle + 8 MP telephoto",
+    "frontCamera": "50 MP",
+    "battery": "23800 mAh (non-removable)",
+    "charging": "120W wired",
+    "connectivity": "5G, Bluetooth 5.3, NFC",
+    "durability": "IP68, shock resistant",
+    "os": "Android 14",
+    "weightG": 696,
+    "dimensions": "179 x 86 x 30 mm",
+    "configurations": "16 GB + 512 GB – $599.99 · 18 GB + 512 GB – $699.99",
+    "colors": "Black"
+   },
+   "options": [
+    {
+     "name": "Storage",
+     "values": [
+      {
+       "label": "16 GB + 512 GB",
+       "price": "599.99",
+       "default": true
+      },
+      {
+       "label": "18 GB + 512 GB",
+       "price": "699.99"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "sku": "TK-UNIHERTZ-TANK-MINI",
+   "slug": "unihertz-tank-mini",
+   "name": "Unihertz Tank Mini",
+   "brand": "Unihertz",
+   "category": "smartphones",
+   "price": "249.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    13,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [],
+   "summary": "Pocket-size rugged Android phone with a 4.3-inch display, IP68 rating, 5800 mAh battery, 100 MP camera and a camping light.",
+   "description": "Tank Mini is a 4.3-inch rugged smartphone rated IP68 and shock resistant. It has a MediaTek Helio G99, 256 GB storage, a 100 MP main camera, a 32 MP selfie camera, a camping light with red and blue warning modes, a 3.5 mm headphone jack and a 5800 mAh battery with 33W charging.",
+   "keywords": "unihertz tank mini small rugged phone",
+   "specs": {
+    "chip": "MediaTek Helio G99",
+    "storageGb": 256,
+    "displayIn": 4.3,
+    "display": "4.3-inch LCD, 540 x 1200",
+    "rearCamera": "100 MP main",
+    "frontCamera": "32 MP",
+    "battery": "5800 mAh (non-removable)",
+    "charging": "33W wired",
+    "connectivity": "4G LTE, Bluetooth 5.3, NFC, IR blaster",
+    "durability": "IP68, shock resistant",
+    "os": "Android 13",
+    "weightG": 240,
+    "dimensions": "120.7 x 58.8 x 23.3 mm",
+    "configurations": "256 GB (12 GB RAM version) – $249.99",
+    "colors": "Black"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-UNIHERTZ-JELLY-STAR",
+   "slug": "unihertz-jelly-star",
+   "name": "Unihertz Jelly Star",
+   "brand": "Unihertz",
+   "category": "smartphones",
+   "price": "219.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    29,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [],
+   "summary": "Tiny 3-inch Android phone with a transparent design and LED light, Helio G99, 8 GB RAM, 256 GB storage and a 48 MP camera.",
+   "description": "Jelly Star is one of the smallest Android smartphones sold, with a 3-inch 480 x 854 display in a 95.1 x 49.6 mm transparent body with an LED light on the back. It runs a MediaTek Helio G99 with 8 GB RAM and 256 GB storage, has a 48 MP autofocus camera, a 2000 mAh battery and a 3.5 mm headphone jack.",
+   "keywords": "unihertz jelly star tiny phone transparent small android",
+   "specs": {
+    "chip": "MediaTek Helio G99",
+    "storageGb": 256,
+    "ramGb": 8,
+    "displayIn": 3.0,
+    "display": "3.0-inch LCD, 480 x 854",
+    "rearCamera": "48 MP AF",
+    "frontCamera": "8 MP",
+    "battery": "2000 mAh (non-removable)",
+    "charging": "10W wired",
+    "connectivity": "4G LTE, Bluetooth 5.3, NFC, IR blaster",
+    "os": "Android 13",
+    "weightG": 116,
+    "dimensions": "95.1 x 49.6 x 18.7 mm",
+    "configurations": "8 GB + 256 GB – $219.99",
+    "colors": "Black, Blue"
+   },
+   "options": [
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Black",
+       "default": true,
+       "image": {
+        "small": "/images/catalog/unihertz-jelly-star--black-400.webp",
+        "large": "/images/catalog/unihertz-jelly-star--black-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Unihertz Jelly Star in Black, back view"
+       }
+      },
+      {
+       "label": "Blue",
+       "image": {
+        "small": "/images/catalog/unihertz-jelly-star--blue-400.webp",
+        "large": "/images/catalog/unihertz-jelly-star--blue-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Unihertz Jelly Star in Blue, back view"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "sku": "TK-TCL-NXTPAPER-70-PRO",
+   "slug": "tcl-nxtpaper-70-pro",
+   "name": "TCL NXTPAPER 70 Pro",
+   "brand": "TCL",
+   "category": "smartphones",
+   "price": "279.98",
+   "compareAt": "329.99",
+   "warranty": 12,
+   "stock": [
+    24,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [],
+   "summary": "Eye-comfort 5G phone with a 6.9-inch 120 Hz NXTPAPER 4.0 anti-glare display, Dimensity 7300, 50 MP OIS camera, 5200 mAh battery and IP68.",
+   "description": "NXTPAPER 70 Pro uses TCL's NXTPAPER 4.0 matte display technology on a 6.9-inch FHD+ 120 Hz screen to cut glare, fingerprints and flicker. It runs Android 16 (upgradable to Android 17) on a MediaTek Dimensity 7300 with 8 GB RAM, has a 50 MP OIS main plus 8 MP ultra-wide camera, a 5200 mAh battery with 33W charging, IP68 water and dust resistance and microSD support up to 2 TB.",
+   "keywords": "tcl nxtpaper 70 pro eye comfort matte display 5g",
+   "specs": {
+    "chip": "MediaTek Dimensity 7300",
+    "storageGb": 128,
+    "ramGb": 8,
+    "displayIn": 6.9,
+    "display": "6.9-inch IPS LCD NXTPAPER 4.0, 1080 x 2340, 120 Hz, up to 900 nits",
+    "rearCamera": "50 MP main (OIS) + 8 MP ultra-wide (AF)",
+    "frontCamera": "32 MP",
+    "battery": "5200 mAh",
+    "charging": "33W wired",
+    "connectivity": "5G, Wi-Fi 6E (2.4/5/6 GHz), Bluetooth 5.4, NFC, IR blaster",
+    "durability": "IP68",
+    "os": "Android 16",
+    "weightG": 207,
+    "dimensions": "169.4 x 80.05 x 7.98 mm",
+    "configurations": "128 GB / 8 GB RAM – $279.98 · 256 GB / 8 GB RAM – $309.99 · 512 GB / 8 GB RAM (Blue only) – $349.99",
+    "colors": "Blue, Gold"
+   },
+   "options": [
+    {
+     "name": "Storage",
+     "values": [
+      {
+       "label": "128 GB / 8 GB RAM",
+       "price": "279.98",
+       "default": true
+      },
+      {
+       "label": "256 GB / 8 GB RAM",
+       "price": "309.99"
+      },
+      {
+       "label": "512 GB / 8 GB RAM (Blue only)",
+       "price": "349.99"
+      }
+     ]
+    },
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Blue",
+       "default": true,
+       "image": {
+        "small": "/images/catalog/tcl-nxtpaper-70-pro--blue-400.webp",
+        "large": "/images/catalog/tcl-nxtpaper-70-pro--blue-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "TCL NXTPAPER 70 Pro in Blue, front and back view"
+       }
+      },
+      {
+       "label": "Gold",
+       "image": {
+        "small": "/images/catalog/tcl-nxtpaper-70-pro--gold-400.webp",
+        "large": "/images/catalog/tcl-nxtpaper-70-pro--gold-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "TCL NXTPAPER 70 Pro in Gold, front and back view"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "sku": "TK-TCL-60-XE-NXTPAPER-5G",
+   "slug": "tcl-60-xe-nxtpaper-5g",
+   "name": "TCL 60 XE NXTPAPER 5G",
+   "brand": "TCL",
+   "category": "smartphones",
+   "price": "179.99",
+   "compareAt": "249.99",
+   "warranty": 12,
+   "stock": [
+    27,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [],
+   "summary": "Budget 5G phone with a 6.78-inch 120 Hz NXTPAPER display, Dimensity 6100+, 8 GB RAM, 50 MP camera and a 5010 mAh battery.",
+   "description": "60 XE NXTPAPER 5G brings TCL's reduced-glare, blue-light-filtering NXTPAPER display to a 6.78-inch FHD+ 120 Hz screen with 240 Hz touch sampling. It runs Android 15 on a MediaTek Dimensity 6100+ with 8 GB RAM, has a 50 MP main camera with 5 MP ultra-wide and 2 MP depth sensors, a 32 MP selfie camera, a 3.5 mm headphone jack and a 5010 mAh battery with 18W charging.",
+   "keywords": "tcl 60 xe nxtpaper 5g budget phone",
+   "specs": {
+    "chip": "MediaTek Dimensity 6100+",
+    "storageGb": 128,
+    "ramGb": 8,
+    "displayIn": 6.78,
+    "display": "6.78-inch IPS LCD NXTPAPER, 1080 x 2460, 120 Hz, 240 Hz touch sampling",
+    "rearCamera": "50 MP main + 5 MP ultra-wide + 2 MP depth",
+    "frontCamera": "32 MP",
+    "battery": "5010 mAh",
+    "charging": "18W wired",
+    "connectivity": "5G, Wi-Fi 5, Bluetooth 5.3, NFC",
+    "os": "Android 15",
+    "weightG": 200,
+    "dimensions": "167.6 x 75.5 x 8.22 mm",
+    "configurations": "128 GB / 8 GB RAM – $179.99 · 256 GB / 8 GB RAM – $199.99",
+    "colors": "Space Blue"
+   },
+   "options": [
+    {
+     "name": "Storage",
+     "values": [
+      {
+       "label": "128 GB / 8 GB RAM",
+       "price": "179.99",
+       "default": true
+      },
+      {
+       "label": "256 GB / 8 GB RAM",
+       "price": "199.99"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "sku": "TK-PUNKT-MC02",
+   "slug": "punkt-mc02-5g-secure-phone",
+   "name": "Punkt. MC02 5G Secure Phone",
+   "brand": "Punkt.",
+   "category": "smartphones",
+   "price": "499.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    20,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [],
+   "summary": "Swiss-designed privacy-focused 5G phone running AphyOS (Apostrophy OS) with a 6.67-inch display, 5,500 mAh battery and wireless charging.",
+   "description": "The Punkt. MC02 is a privacy-first 5G smartphone that runs Apostrophy OS (AphyOS, based on AOSP 13) with a data and carbon ledger and optional Google services wizard. It has a 6.67-inch 1080 x 2400 IPS display, MediaTek Dimensity 900 with 6 GB RAM and 128 GB storage, a 64 MP main camera, a 3.5 mm headphone jack and a 5,500 mAh battery with 18W wired and wireless charging.",
+   "keywords": "punkt mc02 privacy secure phone apostrophy degoogled swiss",
+   "specs": {
+    "chip": "MediaTek Dimensity 900",
+    "storageGb": 128,
+    "ramGb": 6,
+    "displayIn": 6.67,
+    "display": "6.67-inch IPS, 1080 x 2400, 60 Hz, 394 PPI",
+    "rearCamera": "64 MP PDAF + 8 MP wide-angle + 2 MP macro",
+    "frontCamera": "24 MP",
+    "battery": "5,500 mAh (typical)",
+    "charging": "18W USB PD wired; 18W wireless",
+    "connectivity": "5G Sub-6, Wi-Fi 6, Bluetooth 5.2, NFC",
+    "os": "Apostrophy OS",
+    "weightG": 230,
+    "configurations": "128 GB / 6 GB RAM – $499",
+    "colors": "Black"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-LIGHT-PHONE-III",
+   "slug": "light-phone-iii",
+   "name": "Light Phone III",
+   "brand": "Light",
+   "category": "smartphones",
+   "price": "899.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    25,
+    5
+   ],
+   "featured": true,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [],
+   "summary": "Minimalist 5G phone with a 3.92-inch matte AMOLED display, a dedicated two-step camera shutter, NFC and LightOS tools with no social media, browser or email.",
+   "description": "The Light Phone III is a deliberately minimal 5G/4G LTE phone from Brooklyn-based Light. It has a 3.92-inch 1080 x 1240 AMOLED display under matte glass, a 50 MP rear sensor with a two-step shutter button, an 8 MP front camera, 128 GB storage with 6 GB RAM, fingerprint ID, NFC and an 1800 mAh battery. LightOS offers optional tools such as maps, music, notes and hotspot, and never social media, browsing, email or ads.",
+   "keywords": "light phone iii minimalist dumbphone digital wellbeing lightos",
+   "specs": {
+    "chip": "Qualcomm SM4450",
+    "storageGb": 128,
+    "ramGb": 6,
+    "displayIn": 3.92,
+    "display": "3.92-inch AMOLED, 1080 x 1240, matte glass",
+    "rearCamera": "50 MP sensor (12 MP default output), fixed ~28 mm equivalent",
+    "frontCamera": "8 MP",
+    "battery": "1800 mAh",
+    "connectivity": "5G + 4G LTE, Bluetooth 5.0, NFC, GPS",
+    "durability": "IP54",
+    "os": "LightOS",
+    "weightG": 124,
+    "dimensions": "106 x 71.5 x 12 mm",
+    "configurations": "128 GB / 6 GB RAM (unlocked) – $899",
+    "colors": "Black"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-FAIRPHONE-GEN6-PLUS",
+   "slug": "fairphone-gen-6-plus",
+   "name": "Fairphone (Gen. 6+)",
+   "brand": "Fairphone",
+   "category": "smartphones",
+   "price": "649.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    47,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [],
+   "summary": "Modular, user-repairable 5G phone with a 6.31-inch 120 Hz LTPO AMOLED display, Snapdragon 7s Gen 4, 12 GB RAM, a removable battery and software support until 2033.",
+   "description": "The Fairphone (Gen. 6+) is designed to be repaired at home, with up to 12 user-replaceable spare parts including the 4415 mAh removable battery. It has a 6.31-inch 10-120 Hz LTPO AMOLED display with Gorilla Glass 7i, Snapdragon 7s Gen 4 with 12 GB RAM and 256 GB storage expandable to 2 TB, a 50 MP Sony LYTIA main and 13 MP ultra-wide camera, IP55 protection, MIL-STD-810H drop testing and support until 2033.",
+   "keywords": "fairphone gen 6 plus repairable modular sustainable phone",
+   "specs": {
+    "chip": "Qualcomm Snapdragon 7s Gen 4",
+    "storageGb": 256,
+    "ramGb": 12,
+    "displayIn": 6.31,
+    "display": "6.31-inch LTPO AMOLED, 1116 x 2484, 10-120 Hz, up to 1400 nits",
+    "rearCamera": "50 MP main (Sony LYTIA LYT-700C) + 13 MP ultra-wide",
+    "frontCamera": "32 MP",
+    "battery": "4415 mAh user-removable Li-ion",
+    "charging": "27W (30W peak) wired; no wireless charging",
+    "connectivity": "5G, Wi-Fi 6E, Bluetooth 5.4, NFC",
+    "durability": "IP55, MIL-STD-810H 1.5 m drop tested, Gorilla Glass 7i",
+    "os": "Android 16",
+    "weightG": 193,
+    "dimensions": "156.57 x 73.28 x 9.6 mm",
+    "configurations": "256 GB / 12 GB RAM – $649.99",
+    "colors": "Horizon Black, Forest Green, Cobalt Blue"
+   },
+   "options": [
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Horizon Black",
+       "default": true,
+       "image": {
+        "small": "/images/catalog/fairphone-gen-6-plus--horizon-black-400.webp",
+        "large": "/images/catalog/fairphone-gen-6-plus--horizon-black-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Fairphone (Gen. 6+) in Horizon Black, front and back view"
+       }
+      },
+      {
+       "label": "Forest Green",
+       "image": {
+        "small": "/images/catalog/fairphone-gen-6-plus--forest-green-400.webp",
+        "large": "/images/catalog/fairphone-gen-6-plus--forest-green-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Fairphone (Gen. 6+) in Forest Green, front and back view"
+       }
+      },
+      {
+       "label": "Cobalt Blue",
+       "image": {
+        "small": "/images/catalog/fairphone-gen-6-plus--cobalt-blue-400.webp",
+        "large": "/images/catalog/fairphone-gen-6-plus--cobalt-blue-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Fairphone (Gen. 6+) in Cobalt Blue, front and back view"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "sku": "TK-BLU-BOLD-N4",
+   "slug": "blu-bold-n4",
+   "name": "BLU BOLD N4",
+   "brand": "BLU",
+   "category": "smartphones",
+   "price": "299.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    43,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [],
+   "summary": "5G phone with a 6.78-inch curved 120 Hz AMOLED display, a 1.74-inch rear OLED screen, Dimensity 7300X, 512 GB storage and 66W charging.",
+   "description": "The BLU BOLD N4 pairs a 6.78-inch FHD+ 120 Hz 3D curved AMOLED display with a 1.74-inch secondary OLED on the back for notifications and rear-camera selfies. It uses the MediaTek Dimensity 7300X with 8 GB RAM and 512 GB storage, a 50 MP main camera with 8 MP wide-angle and 8 MP macro lenses, a 16 MP selfie camera and a 5,000 mAh battery with 66W charging.",
+   "keywords": "blu bold n4 rear display amoled unlocked budget",
+   "specs": {
+    "chip": "MediaTek Dimensity 7300X",
+    "storageGb": 512,
+    "ramGb": 8,
+    "displayIn": 6.78,
+    "display": "6.78-inch FHD+ 3D curved AMOLED, 1200 x 2652, 120 Hz; 1.74-inch rear OLED",
+    "rearCamera": "50 MP main + 8 MP wide-angle + 8 MP macro",
+    "frontCamera": "16 MP",
+    "battery": "5,000 mAh",
+    "charging": "66W",
+    "connectivity": "5G, Wi-Fi 6E, Bluetooth 5.4, NFC",
+    "os": "Android 15",
+    "weightG": 213,
+    "dimensions": "163.7 x 75.53 x 8.8 mm",
+    "colors": "White"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-BLU-G96",
+   "slug": "blu-g96",
+   "name": "BLU G96",
+   "brand": "BLU",
+   "category": "smartphones",
+   "price": "169.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    20,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [],
+   "summary": "Budget 4G phone with a 6.88-inch 120 Hz display, Helio G100, 256 GB storage, 50 MP camera and a 7,000 mAh battery on Android 16.",
+   "description": "BLU G96 has a 6.88-inch HD+ 120 Hz display, a MediaTek Helio G100 with 6 GB RAM and 256 GB storage plus microSD, a 50 MP main camera with 2 MP macro and 13 MP selfie camera, NFC, and a 7,000 mAh battery with 18W charging, running Android 16.",
+   "keywords": "blu g96 budget unlocked big battery",
+   "specs": {
+    "chip": "MediaTek Helio G100",
+    "storageGb": 256,
+    "ramGb": 6,
+    "displayIn": 6.88,
+    "display": "6.88-inch HD+ 120 Hz, 720 x 1600",
+    "rearCamera": "50 MP main + 2 MP macro",
+    "frontCamera": "13 MP",
+    "battery": "7,000 mAh",
+    "charging": "18W",
+    "connectivity": "4G LTE, Wi-Fi 5, Bluetooth 5.2, NFC",
+    "os": "Android 16",
+    "weightG": 230,
+    "dimensions": "168.42 x 79.32 x 9.3 mm",
+    "colors": "Grey, Silver, Purple"
+   },
+   "options": [
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Grey",
+       "default": true,
+       "image": {
+        "small": "/images/catalog/blu-g96--grey-400.webp",
+        "large": "/images/catalog/blu-g96--grey-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "BLU G96 in Grey, front and back view"
+       }
+      },
+      {
+       "label": "Silver",
+       "image": {
+        "small": "/images/catalog/blu-g96--silver-400.webp",
+        "large": "/images/catalog/blu-g96--silver-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "BLU G96 in Silver, front and back view"
+       }
+      },
+      {
+       "label": "Purple",
+       "image": {
+        "small": "/images/catalog/blu-g96--purple-400.webp",
+        "large": "/images/catalog/blu-g96--purple-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "BLU G96 in Purple, front and back view"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "sku": "TK-BLU-BOLD-K22-5G",
+   "slug": "blu-bold-k22-5g",
+   "name": "BLU BOLD K22 5G",
+   "brand": "BLU",
+   "category": "smartphones",
+   "price": "149.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    27,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [],
+   "summary": "Entry-level 5G phone with a 6.7-inch 90 Hz display, Unisoc T8200, 128 GB storage, dual 50 MP camera and a 5,000 mAh battery.",
+   "description": "BLU BOLD K22 5G offers a 6.7-inch HD+ 90 Hz Infinity Dot display, a Unisoc T8200 6 nm processor with 4 GB RAM and 128 GB storage plus microSD, a 50 MP main camera, an 8 MP selfie camera and a 5,000 mAh battery with 10W charging on Android 15.",
+   "keywords": "blu bold k22 5g budget unlocked",
+   "specs": {
+    "chip": "Unisoc T8200",
+    "storageGb": 128,
+    "ramGb": 4,
+    "displayIn": 6.7,
+    "display": "6.7-inch HD+ 90 Hz, 720 x 1600",
+    "rearCamera": "50 MP HDR main (dual camera)",
+    "frontCamera": "8 MP",
+    "battery": "5,000 mAh",
+    "charging": "10W",
+    "connectivity": "5G, Wi-Fi 5, Bluetooth 5.4",
+    "os": "Android 15",
+    "weightG": 195,
+    "dimensions": "165.92 x 76.90 x 8.4 mm",
+    "colors": "Blue, Green, Titanium, Violet"
+   },
+   "options": [
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Blue",
+       "default": true,
+       "image": {
+        "small": "/images/catalog/blu-bold-k22-5g--blue-400.webp",
+        "large": "/images/catalog/blu-bold-k22-5g--blue-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "BLU BOLD K22 5G in Blue, front and back view"
+       }
+      },
+      {
+       "label": "Green",
+       "image": {
+        "small": "/images/catalog/blu-bold-k22-5g--green-400.webp",
+        "large": "/images/catalog/blu-bold-k22-5g--green-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "BLU BOLD K22 5G in Green, front and back view"
+       }
+      },
+      {
+       "label": "Titanium",
+       "image": {
+        "small": "/images/catalog/blu-bold-k22-5g--titanium-400.webp",
+        "large": "/images/catalog/blu-bold-k22-5g--titanium-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "BLU BOLD K22 5G in Titanium, front and back view"
+       }
+      },
+      {
+       "label": "Violet",
+       "image": {
+        "small": "/images/catalog/blu-bold-k22-5g--violet-400.webp",
+        "large": "/images/catalog/blu-bold-k22-5g--violet-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "BLU BOLD K22 5G in Violet, front and back view"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "sku": "TK-BLU-G75",
+   "slug": "blu-g75",
+   "name": "BLU G75",
+   "brand": "BLU",
+   "category": "smartphones",
+   "price": "149.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    40,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [],
+   "summary": "Budget 4G phone with a 6.88-inch 120 Hz display, Helio G81, 256 GB storage, dual 50 MP camera, water and dust resistance and a 6,000 mAh battery.",
+   "description": "BLU G75 has a 6.88-inch HD+ 120 Hz display with dual speakers, a MediaTek Helio G81 with 4 GB RAM and 256 GB storage plus microSD, a 50 MP main camera and 13 MP selfie camera, water and dust resistance, and a 6,000 mAh battery with 18W charging on Android 15.",
+   "keywords": "blu g75 budget unlocked big battery",
+   "specs": {
+    "chip": "MediaTek Helio G81",
+    "storageGb": 256,
+    "ramGb": 4,
+    "displayIn": 6.88,
+    "display": "6.88-inch HD+ 120 Hz, 720 x 1600",
+    "rearCamera": "50 MP main (dual camera)",
+    "frontCamera": "13 MP",
+    "battery": "6,000 mAh",
+    "charging": "18W",
+    "connectivity": "4G LTE, Wi-Fi 5, Bluetooth 5.0",
+    "os": "Android 15",
+    "weightG": 211,
+    "dimensions": "172.24 x 77.84 x 8.6 mm",
+    "colors": "Black, White"
+   },
+   "options": [
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Black",
+       "default": true,
+       "image": {
+        "small": "/images/catalog/blu-g75--black-400.webp",
+        "large": "/images/catalog/blu-g75--black-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "BLU G75 in Black, front and back view"
+       }
+      },
+      {
+       "label": "White",
+       "image": {
+        "small": "/images/catalog/blu-g75--white-400.webp",
+        "large": "/images/catalog/blu-g75--white-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "BLU G75 in White, front and back view"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "sku": "TK-BLU-G45",
+   "slug": "blu-g45",
+   "name": "BLU G45",
+   "brand": "BLU",
+   "category": "smartphones",
+   "price": "109.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    55,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [],
+   "summary": "Entry-level 4G phone with a 6.7-inch 120 Hz display, Unisoc T7250, 128 GB storage, 13 MP camera and a 5,000 mAh battery.",
+   "description": "BLU G45 pairs a 6.7-inch HD+ 120 Hz Infinity display with a Unisoc T7250 processor, 4 GB RAM and 128 GB storage plus microSD, a 13 MP main camera, an 8 MP selfie camera, side fingerprint sensor and a 5,000 mAh battery, running Android 15.",
+   "keywords": "blu g45 budget unlocked entry level",
+   "specs": {
+    "chip": "Unisoc T7250",
+    "storageGb": 128,
+    "ramGb": 4,
+    "displayIn": 6.7,
+    "display": "6.7-inch HD+ 120 Hz, 720 x 1600",
+    "rearCamera": "13 MP main (dual camera)",
+    "frontCamera": "8 MP",
+    "battery": "5,000 mAh",
+    "connectivity": "4G LTE, Wi-Fi 5, Bluetooth 5.0",
+    "os": "Android 15",
+    "weightG": 200,
+    "dimensions": "166.2 x 77.6 x 8.6 mm",
+    "colors": "Cream, Bronze, Mint Green"
+   },
+   "options": [
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Cream",
+       "default": true,
+       "image": {
+        "small": "/images/catalog/blu-g45--cream-400.webp",
+        "large": "/images/catalog/blu-g45--cream-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "BLU G45 in Cream, front and back view"
+       }
+      },
+      {
+       "label": "Bronze",
+       "image": {
+        "small": "/images/catalog/blu-g45--bronze-400.webp",
+        "large": "/images/catalog/blu-g45--bronze-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "BLU G45 in Bronze, front and back view"
+       }
+      },
+      {
+       "label": "Mint Green",
+       "image": {
+        "small": "/images/catalog/blu-g45--mint-green-400.webp",
+        "large": "/images/catalog/blu-g45--mint-green-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "BLU G45 in Mint Green, front and back view"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "sku": "TK-BLU-BOLD-K12",
+   "slug": "blu-bold-k12",
+   "name": "BLU BOLD K12",
+   "brand": "BLU",
+   "category": "smartphones",
+   "price": "129.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    52,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [],
+   "summary": "Budget 4G phone with a 6.8-inch 120 Hz display, Unisoc T7250, 128 GB storage, 50 MP camera and a 5,000 mAh battery.",
+   "description": "BLU BOLD K12 has a scratch- and fingerprint-resistant finish, a 6.8-inch HD+ 120 Hz Infinity display, a Unisoc T7250 with 4 GB RAM and 128 GB storage, a 50 MP main camera, an 8 MP selfie camera and a 5,000 mAh battery on Android 15.",
+   "keywords": "blu bold k12 budget unlocked",
+   "specs": {
+    "chip": "Unisoc T7250",
+    "storageGb": 128,
+    "ramGb": 4,
+    "displayIn": 6.8,
+    "display": "6.8-inch HD+ 120 Hz, 720 x 1600",
+    "rearCamera": "50 MP main (dual camera)",
+    "frontCamera": "8 MP",
+    "battery": "5,000 mAh",
+    "connectivity": "4G LTE, Wi-Fi 5, Bluetooth 5.0",
+    "os": "Android 15",
+    "weightG": 303,
+    "dimensions": "167.9 x 76.6 x 8.94 mm",
+    "colors": "Champagne Gold, Phantom Pink, Purple, Silver"
+   },
+   "options": [
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Champagne Gold",
+       "default": true,
+       "image": {
+        "small": "/images/catalog/blu-bold-k12--champagne-gold-400.webp",
+        "large": "/images/catalog/blu-bold-k12--champagne-gold-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "BLU BOLD K12 in Champagne Gold, front and back view"
+       }
+      },
+      {
+       "label": "Phantom Pink",
+       "image": {
+        "small": "/images/catalog/blu-bold-k12--phantom-pink-400.webp",
+        "large": "/images/catalog/blu-bold-k12--phantom-pink-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "BLU BOLD K12 in Phantom Pink, front and back view"
+       }
+      },
+      {
+       "label": "Purple",
+       "image": {
+        "small": "/images/catalog/blu-bold-k12--purple-400.webp",
+        "large": "/images/catalog/blu-bold-k12--purple-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "BLU BOLD K12 in Purple, front and back view"
+       }
+      },
+      {
+       "label": "Silver",
+       "image": {
+        "small": "/images/catalog/blu-bold-k12--silver-400.webp",
+        "large": "/images/catalog/blu-bold-k12--silver-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "BLU BOLD K12 in Silver, front and back view"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "sku": "TK-SONIM-XP-PRO",
+   "slug": "sonim-xp-pro",
+   "name": "Sonim XP Pro",
+   "brand": "Sonim",
+   "category": "smartphones",
+   "price": "799.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    50,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "small-business"
+   ],
+   "summary": "Ultra-rugged 5G work phone with IP68/IPX9K, MIL-STD-810H and Class I Div 2 certification, a 6.58-inch Gorilla Glass Victus 2 display and 100 dB+ speakers.",
+   "description": "Sonim XP Pro is a rugged 5G smartphone for field and frontline teams, sold through US carriers including AT&T, T-Mobile and Verizon. It has a 6.58-inch 2408 x 1080 display with Gorilla Glass Victus 2, a Qualcomm SM7550 platform with 8 GB RAM and 256 GB storage, a 50 MP main, 13 MP wide and 2 MP macro camera, a 5000 mAh battery with wireless charging, programmable PTT and emergency keys and dual 100 dB+ loudspeakers.",
+   "keywords": "sonim xp pro rugged 5g ptt firstnet work phone",
+   "specs": {
+    "chip": "Qualcomm SM7550 (Snapdragon 7 Gen 3)",
+    "storageGb": 256,
+    "ramGb": 8,
+    "displayIn": 6.58,
+    "display": "6.58-inch, 2408 x 1080, Gorilla Glass Victus 2",
+    "rearCamera": "50 MP main + 13 MP wide + 2 MP macro",
+    "frontCamera": "16 MP",
+    "battery": "5000 mAh",
+    "charging": "USB-C fast charging; Qi wireless",
+    "connectivity": "5G (FR1 + FR2 mmWave), Wi-Fi 6E, Bluetooth 5.3, NFC",
+    "durability": "IP68, IPX9K, MIL-STD-810H, Class I/II/III Div 2",
+    "os": "Android 14",
+    "weightG": 277,
+    "dimensions": "171 x 80 x 12 mm",
+    "colors": "Black"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-SONIM-XP10",
+   "slug": "sonim-xp10",
+   "name": "Sonim XP10",
+   "brand": "Sonim",
+   "category": "smartphones",
+   "price": "649.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    11,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "small-business"
+   ],
+   "summary": "Rugged 5G phone with a removable 5000 mAh battery, IP68/IPX9K and MIL-STD-810H protection, a 5.5-inch Gorilla Glass Victus display and FirstNet Ready PTT.",
+   "description": "Sonim XP10 is a compact rugged 5G smartphone with a 5.5-inch 1080 x 2160 Gorilla Glass Victus display, Qualcomm SM4350 Pro with 6 GB RAM and 128 GB storage, a 50 MP plus 8 MP wide rear camera and a removable 5000 mAh battery with wireless charging. It is IP68, IPX9K and MIL-STD-810H rated, Class I Div 2 non-incendive, and FirstNet Ready for public-safety push-to-talk.",
+   "keywords": "sonim xp10 rugged 5g removable battery firstnet",
+   "specs": {
+    "chip": "Qualcomm SM4350 Pro",
+    "storageGb": 128,
+    "ramGb": 6,
+    "displayIn": 5.5,
+    "display": "5.5-inch, 1080 x 2160, Gorilla Glass Victus",
+    "rearCamera": "50 MP + 8 MP wide",
+    "frontCamera": "8 MP",
+    "battery": "5000 mAh removable Li-ion",
+    "charging": "Wireless charging; charging pins",
+    "connectivity": "5G, Wi-Fi 5, Bluetooth 5.1, NFC",
+    "durability": "IP68, IPX9K, MIL-STD-810H, Class I/II/III Div 2",
+    "os": "Android 12",
+    "weightG": 320,
+    "dimensions": "161 x 77.5 x 16.4 mm",
+    "colors": "Black"
+   },
+   "options": []
+  }
+ ]
+}
