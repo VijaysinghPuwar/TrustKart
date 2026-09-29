@@ -82,9 +82,7 @@ export function SmartSearch() {
         recent.forEach((r) => out.push({ kind: 'query', text: r, to: searchUrl(r), removable: true }))
       }
       out.push({ kind: 'label', text: 'Try describing it' })
-      ;(suggestions?.queries.length ? suggestions.queries : ROTATING.slice(0, 3)).forEach((t) =>
-        out.push({ kind: 'query', text: t, to: searchUrl(t) }),
-      )
+      ROTATING.slice(0, 4).forEach((t) => out.push({ kind: 'query', text: t, to: searchUrl(t) }))
       return out
     }
     if (suggestions && debounced === q) {

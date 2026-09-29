@@ -4,7 +4,7 @@ Status values: PLANNED · IN PROGRESS · IMPLEMENTED (works, tests incomplete) �
 TESTED (automated tests + browser check) · DEFERRED.
 
 A feature is only marked TESTED when its tests pass and it has been checked in
-a real browser where it has UI. Last reviewed 2026-09-28.
+a real browser where it has UI. Last reviewed 2026-09-29.
 
 | Feature | Status | Backend | Frontend | Tests | Priority |
 |---|---|---|---|---|---|
@@ -61,7 +61,8 @@ a real browser where it has UI. Last reviewed 2026-09-28.
 | Security headers + CSP (API and site) | TESTED | Security config | `vercel.json` CSP | MockMvc + zero-violation browser check | P0 |
 | Dark mode | TESTED | n/a | theme toggle | visual | P1 |
 | Accessibility (WCAG 2.2 AA target) | IMPLEMENTED | n/a | all | axe visual audit; manual review pending | P0 |
-| Playwright E2E suite | TESTED | n/a | n/a | desktop + Pixel 7 | P0 |
+| Playwright E2E suite | TESTED | n/a | n/a | desktop + Pixel 7, plus responsive guards 320 to 1920 px | P0 |
+| Performance pass (layout shift, requests, query counts) | TESTED | home/category cache, batched pricing, lock-free reads, lighter polling | early home data, stable banner, lazy quote | `scripts/measure.mjs`, Lighthouse, docs/PERFORMANCE_AUDIT.md | P1 |
 | Load / stress test | TESTED | n/a | n/a | `scripts/stress_test.py` (browse, rate-limit, checkout, oversell, invariants) | P1 |
 | Deployment (Vercel frontend, container backend) | TESTED | Dockerfile, proxy + OAuth config | `vercel.json` | live: Vercel (site) + Render (API, Postgres); see docs/DEPLOYMENT.md | P1 |
 | `/about/project` page | TESTED | n/a | page | visual | P2 |

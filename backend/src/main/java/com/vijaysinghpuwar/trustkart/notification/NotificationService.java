@@ -12,7 +12,14 @@ import java.time.Clock;
 import java.time.Duration;
 import java.time.Instant;
 import java.util.ArrayList;
+import java.util.Collection;
+import java.util.HashSet;
+import java.util.LinkedHashMap;
 import java.util.List;
+import java.util.Map;
+import java.util.Optional;
+import java.util.OptionalInt;
+import java.util.Set;
 import java.util.UUID;
 import org.springframework.context.event.EventListener;
 import org.springframework.jdbc.core.simple.JdbcClient;
@@ -143,29 +150,44 @@ public class NotificationService {
                         rs.getTimestamp(4).toInstant(), rs.getTimestamp(5) == null ? null : rs.getTimestamp(5).toInstant(),
                         rs.getInt(6), rs.getString(7), rs.getString(8)))
                 .list();
+        // Work out every milestone due by now, then insert only those not recorded yet: a poll where nothing changed
+        // costs one indexed lookup instead of one INSERT per milestone.
+        Map<String, Runnable> due = new LinkedHashMap<>();
         for (Order o : orders) {
             for (Milestone m : milestones(o, now)) {
                 if (m.type().orderUpdate ? !prefs.orderUpdates() : !prefs.deliveryUpdates()) {
                     continue;
                 }
-                jdbc.sql("""
-                                INSERT INTO notification (public_id, shopper_id, type, dedupe_key, title, body, link, image_url, created_at)
-                                VALUES (:id, :s, :type, :key, :title, :body, :link, :img, :at)
-                                ON CONFLICT (shopper_id, dedupe_key) DO NOTHING""")
-                        .param("id", UUID.randomUUID()).param("s", shopperId).param("type", m.type().name())
-                        .param("key", "order:" + o.id() + ":" + m.type().name()).param("title", m.title())
-                        .param("body", m.body()).param("link", "/account/purchases/" + o.id()).param("img", o.imageUrl())
-                        .param("at", Timestamp.from(m.at())).update();
+                String key = "order:" + o.id() + ":" + m.type().name();
+                due.put(key, () -> insert(shopperId, m.type().name(), key, m.title(), m.body(),
+                        "/account/purchases/" + o.id(), o.imageUrl(), m.at()));
+            }
+        }
+        int inserted = 0;
+        if (!due.isEmpty()) {
+            Set<String> recorded = recordedKeys(shopperId, due.keySet());
+            for (Map.Entry<String, Runnable> e : due.entrySet()) {
+                if (!recorded.contains(e.getKey())) {
+                    e.getValue().run();
+                    inserted++;
+                }
             }
         }
         if (prefs.leaderboardUpdates()) {
-            syncLeaderboard(shopperId, now);
+            inserted += syncLeaderboard(shopperId, now);
         }
-        // Keep the newest KEEP rows per shopper so the table can't grow without bound.
-        jdbc.sql("""
-                        DELETE FROM notification WHERE shopper_id = :s AND id NOT IN
-                        (SELECT id FROM notification WHERE shopper_id = :s ORDER BY created_at DESC, id DESC LIMIT :keep)""")
-                .param("s", shopperId).param("keep", KEEP).update();
+        if (inserted > 0) {
+            // Keep the newest KEEP rows per shopper so the table can't grow without bound.
+            jdbc.sql("""
+                            DELETE FROM notification WHERE shopper_id = :s AND id NOT IN
+                            (SELECT id FROM notification WHERE shopper_id = :s ORDER BY created_at DESC, id DESC LIMIT :keep)""")
+                    .param("s", shopperId).param("keep", KEEP).update();
+        }
+    }
+
+    private Set<String> recordedKeys(long shopperId, Collection<String> keys) {
+        return new HashSet<>(jdbc.sql("SELECT dedupe_key FROM notification WHERE shopper_id = :s AND dedupe_key IN (:keys)")
+                .param("s", shopperId).param("keys", keys).query(String.class).list());
     }
 
     // ---- Leaderboard milestones -----------------------------------------------------------------------------------
@@ -174,31 +196,65 @@ public class NotificationService {
     private static final int[] MONTHLY_TIERS = {1, 3, 10, 50};
     private static final int[] ALL_TIME_TIERS = {10, 25, 100};
 
-    private void syncLeaderboard(long shopperId, Instant now) {
+    /**
+     * Rank milestones and last month's result. Milestone tiers all fall inside the cached top lists, so no ranking
+     * query runs for them; last month's result is looked up only until it has been recorded. Returns rows inserted.
+     */
+    private int syncLeaderboard(long shopperId, Instant now) {
         Long userId = jdbc.sql("SELECT user_id FROM shopper WHERE id = :s").param("s", shopperId)
                 .query(Long.class).optional().orElse(null);
         if (userId == null) {
-            return;
+            return 0;
         }
+        // Every leaderboard notification already recorded for this shopper, in one query.
+        Set<String> recorded = new HashSet<>(jdbc.sql("""
+                        SELECT dedupe_key FROM notification WHERE shopper_id = :s AND dedupe_key LIKE 'lb:%'""")
+                .param("s", shopperId).query(String.class).list());
+        int inserted = 0;
         LeaderboardPeriod month = LeaderboardPeriod.currentMonth(clock);
-        leaderboards.position(month, userId).ifPresent(p ->
-                milestone(shopperId, "lb:" + month.key(), MONTHLY_TIERS, p.rank(), now,
-                        tier -> tier == 1 ? "You're #1 this month" : "You're in this month's Top " + tier,
-                        tier -> "Your virtual spending ranks #" + p.rank() + " for " + month.label() + "."));
-        leaderboards.position(LeaderboardPeriod.allTime(), userId).ifPresent(p ->
-                milestone(shopperId, "lb:all-time", ALL_TIME_TIERS, p.rank(), now,
-                        tier -> "You entered the all-time Top " + tier,
-                        tier -> "Your lifetime virtual spending ranks #" + p.rank() + "."));
-        // Last month's final result, once the month is over.
+        OptionalInt monthly = leaderboards.topListRank(month, userId);
+        if (monthly.isPresent()) {
+            int rank = monthly.getAsInt();
+            inserted += milestone(shopperId, recorded, "lb:" + month.key(), MONTHLY_TIERS, rank, now,
+                    tier -> tier == 1 ? "You're #1 this month" : "You're in this month's Top " + tier,
+                    tier -> "Your virtual spending ranks #" + rank + " for " + month.label() + ".");
+        }
+        OptionalInt allTime = leaderboards.topListRank(LeaderboardPeriod.allTime(), userId);
+        if (allTime.isPresent()) {
+            int rank = allTime.getAsInt();
+            inserted += milestone(shopperId, recorded, "lb:all-time", ALL_TIME_TIERS, rank, now,
+                    tier -> "You entered the all-time Top " + tier,
+                    tier -> "Your lifetime virtual spending ranks #" + rank + ".");
+        }
+        // Last month's final result, once the month is over. The ranking query runs only for a shopper who actually
+        // completed an order last month and hasn't been told yet.
         LeaderboardPeriod previous = LeaderboardPeriod.month(month.month().minusMonths(1));
-        leaderboards.position(previous, userId).ifPresent(p -> insert(shopperId, "LEADERBOARD_RESULT",
-                "lb:" + previous.key() + ":result", "Your " + previous.label() + " result",
-                "Final rank #" + p.rank() + " of " + p.rankedCount() + " with " + usd(p.virtualSpend())
-                        + " in virtual spending across " + p.orderCount() + (p.orderCount() == 1 ? " order." : " orders."),
-                "/rankings", null, previous.to()));
+        String resultKey = "lb:" + previous.key() + ":result";
+        if (!recorded.contains(resultKey) && spentIn(userId, previous)) {
+            Optional<LeaderboardService.Position> result = leaderboards.position(previous, userId);
+            if (result.isPresent()) {
+                LeaderboardService.Position p = result.get();
+                insert(shopperId, "LEADERBOARD_RESULT", resultKey, "Your " + previous.label() + " result",
+                        "Final rank #" + p.rank() + " of " + p.rankedCount() + " with " + usd(p.virtualSpend())
+                                + " in virtual spending across " + p.orderCount()
+                                + (p.orderCount() == 1 ? " order." : " orders."),
+                        "/rankings", null, previous.to());
+                inserted++;
+            }
+        }
+        return inserted;
     }
 
-    private void milestone(long shopperId, String period, int[] tiers, int rank, Instant now,
+    private boolean spentIn(long userId, LeaderboardPeriod period) {
+        return Boolean.TRUE.equals(jdbc.sql("""
+                        SELECT EXISTS (SELECT 1 FROM virtual_purchase vp JOIN shopper s ON s.id = vp.shopper_id
+                                       WHERE s.user_id = :u AND vp.status = 'COMPLETED'
+                                         AND vp.created_at >= :from AND vp.created_at < :to)""")
+                .param("u", userId).param("from", Timestamp.from(period.from()))
+                .param("to", Timestamp.from(period.to())).query(Boolean.class).single());
+    }
+
+    private int milestone(long shopperId, Set<String> recorded, String period, int[] tiers, int rank, Instant now,
             java.util.function.IntFunction<String> title, java.util.function.IntFunction<String> body) {
         Integer reached = null;
         for (int tier : tiers) {
@@ -208,18 +264,17 @@ public class NotificationService {
             }
         }
         if (reached == null) {
-            return;
+            return 0;
         }
-        Integer bestNotified = jdbc.sql("""
-                        SELECT min(substring(dedupe_key FROM ':top([0-9]+)$')::int) FROM notification
-                        WHERE shopper_id = :s AND dedupe_key LIKE :prefix""")
-                .param("s", shopperId).param("prefix", period + ":top%")
-                .query(Integer.class).optional().orElse(null);
-        if (bestNotified != null && bestNotified <= reached) {
-            return;
+        String prefix = period + ":top";
+        int bestNotified = recorded.stream().filter(k -> k.startsWith(prefix))
+                .mapToInt(k -> Integer.parseInt(k.substring(prefix.length()))).min().orElse(Integer.MAX_VALUE);
+        if (bestNotified <= reached) {
+            return 0;
         }
-        insert(shopperId, "LEADERBOARD_MILESTONE", period + ":top" + reached, title.apply(reached), body.apply(reached),
+        insert(shopperId, "LEADERBOARD_MILESTONE", prefix + reached, title.apply(reached), body.apply(reached),
                 "/rankings", null, now);
+        return 1;
     }
 
     private void insert(long shopperId, String type, String key, String title, String body, String link, String image,

@@ -27,7 +27,15 @@ export function NotificationRow({ n, onOpen }: { n: AppNotification; onOpen: (n:
     >
       <span className="tk-img-well flex size-12 shrink-0 items-center justify-center rounded-control bg-surface-2 p-1">
         {n.imageUrl && (
-          <img src={n.imageUrl} alt="" width={48} height={48} className="size-full object-contain" />
+          <img
+            src={n.imageUrl}
+            alt=""
+            width={48}
+            height={48}
+            loading="lazy"
+            decoding="async"
+            className="size-full object-contain"
+          />
         )}
       </span>
       <span className="min-w-0 flex-1">
@@ -101,7 +109,7 @@ export function NotificationBell() {
         aria-controls={panelId}
         aria-label={unread > 0 ? `Notifications, ${String(unread)} unread` : 'Notifications'}
         onClick={() => setOpen((v) => !v)}
-        className="relative flex size-[46px] items-center justify-center rounded-chip text-white hover:bg-white/10"
+        className="relative flex size-11 items-center justify-center rounded-chip text-white hover:bg-white/10 sm:size-[46px]"
       >
         <Bell className="size-[22px]" aria-hidden="true" />
         {unread > 0 && (

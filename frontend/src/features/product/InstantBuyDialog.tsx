@@ -25,7 +25,8 @@ export function InstantBuyDialog({
   open: boolean
   onClose: () => void
 }) {
-  const quote = useQuote(open ? { productId: product.id, quantity, options } : undefined)
+  // Only while the dialog is open: a closed dialog used to fetch the cart quote on every product page.
+  const quote = useQuote({ productId: product.id, quantity, options }, { enabled: open })
   const place = usePlaceVirtualOrder()
   const q = quote.data
   const error = place.error instanceof ApiError ? place.error : null

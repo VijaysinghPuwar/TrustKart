@@ -52,7 +52,7 @@ export default function WishlistPage() {
           <h1 className="text-[32px] font-bold leading-10">Wishlists</h1>
           <p className="text-sm text-ink-muted">Save dream setups now, buy them later.</p>
         </div>
-        <form onSubmit={createList} className="flex gap-2">
+        <form onSubmit={createList} className="flex w-full gap-2 sm:w-auto">
           <label htmlFor="new-list" className="sr-only">
             New list name
           </label>
@@ -62,7 +62,7 @@ export default function WishlistPage() {
             onChange={(e) => setName(e.target.value)}
             maxLength={60}
             placeholder="Dream Homelab"
-            className="h-10 w-48 rounded-control border border-border-strong bg-surface px-3 text-sm"
+            className="h-10 min-w-0 flex-1 rounded-control border border-border-strong bg-surface px-3 text-sm sm:w-48 sm:flex-none"
           />
           <Button type="submit" variant="secondary" loading={create.isPending}>
             <Plus className="size-4" aria-hidden="true" />

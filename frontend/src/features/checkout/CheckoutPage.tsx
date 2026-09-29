@@ -328,6 +328,8 @@ function ItemList({
                 alt=""
                 width={56}
                 height={56}
+                loading="lazy"
+                decoding="async"
                 className="tk-product-img max-h-full max-w-full object-contain"
               />
             </span>
@@ -341,8 +343,10 @@ function ItemList({
               Qty {l.quantity} · {formatMoney(l.unitPrice)} each
             </p>
             {l.issue && <p className="text-[13px] text-danger">No longer available in that quantity.</p>}
+            {/* On narrow phones the total moves under the name instead of squeezing it. */}
+            <p className="font-semibold tabular sm:hidden">{formatMoney(l.lineTotal)}</p>
           </div>
-          <span className="font-semibold tabular">{formatMoney(l.lineTotal)}</span>
+          <span className="shrink-0 font-semibold tabular max-sm:hidden">{formatMoney(l.lineTotal)}</span>
         </li>
       ))}
     </ul>

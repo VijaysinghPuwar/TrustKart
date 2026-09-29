@@ -119,6 +119,8 @@ export default function SearchPage({ preset, title }: SearchPageProps) {
             ))}
           </ul>
         )}
+        {/* A typed query almost always yields at least one chip, so reserve the row while results load. */}
+        {!data && q && <div className="h-8" aria-hidden="true" />}
         {data && data.interpretation.length > 0 && (
           <div className="flex flex-wrap items-center gap-2">
             <span className="text-[13px] font-semibold text-ink-muted">Understood as</span>
@@ -201,16 +203,19 @@ export default function SearchPage({ preset, title }: SearchPageProps) {
               </p>
             </div>
           ) : (
-            <ul
-              className="grid grid-cols-[repeat(auto-fill,minmax(min(210px,calc(50%-5px)),1fr))] gap-2.5 transition-opacity sm:gap-3.5"
-              style={{ opacity: search.isPlaceholderData ? 0.6 : 1 }}
-            >
-              {data.results.items.map((p, i) => (
-                <li key={p.id}>
-                  <ProductCard product={p} priority={i < 4} />
-                </li>
-              ))}
-            </ul>
+            <>
+              <h2 className="sr-only">Results</h2>
+              <ul
+                className="grid grid-cols-[repeat(auto-fill,minmax(min(210px,calc(50%-5px)),1fr))] gap-2.5 transition-opacity sm:gap-3.5"
+                style={{ opacity: search.isPlaceholderData ? 0.6 : 1 }}
+              >
+                {data.results.items.map((p, i) => (
+                  <li key={p.id}>
+                    <ProductCard product={p} priority={i < 4} />
+                  </li>
+                ))}
+              </ul>
+            </>
           )}
           {data && (
             <Pagination

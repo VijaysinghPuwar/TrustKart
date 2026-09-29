@@ -53,7 +53,16 @@ public class WalletService {
 
     @Transactional
     public WalletView view(long shopperId) {
-        return toView(lock(shopperId));
+        return toView(current(shopperId));
+    }
+
+    /**
+     * The shopper's wallet for reading: no row lock, so viewing a balance never waits behind (or blocks) a purchase.
+     * Only a shopper's first visit takes the locked path, which creates the wallet and credits it exactly once.
+     */
+    @Transactional
+    public VirtualWallet current(long shopperId) {
+        return wallets.findByShopperId(shopperId).orElseGet(() -> lock(shopperId));
     }
 
     /**
@@ -111,7 +120,7 @@ public class WalletService {
 
     @Transactional
     public TransactionPage transactions(long shopperId, int page, int size) {
-        VirtualWallet wallet = lock(shopperId);
+        VirtualWallet wallet = current(shopperId);
         List<TransactionView> items = ledger.page(wallet.getId(), page, size).stream()
                 .map(e -> new TransactionView(e.id().toString(), e.type().name(), MoneyWire.format(e.amount()),
                         MoneyWire.format(e.balanceBefore()), MoneyWire.format(e.balanceAfter()), e.reference(),

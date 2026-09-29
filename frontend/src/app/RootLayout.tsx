@@ -20,10 +20,12 @@ export function RootLayout() {
       <SkipLink />
       <SiteHeader />
       <ServerWakeNotice />
+      {/* At least a screen tall, so the footer starts below the fold and never jumps when a lazily loaded page
+          or its data arrives (it was the largest source of layout shift). */}
       <main
         id="main"
         tabIndex={-1}
-        className="page-width page-gutter flex flex-1 flex-col pb-14 pt-4 outline-none"
+        className="page-width page-gutter flex min-h-dvh flex-1 flex-col pb-14 pt-4 outline-none"
       >
         <Suspense fallback={<PageSpinner />}>
           <Outlet />

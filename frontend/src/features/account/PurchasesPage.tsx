@@ -46,6 +46,8 @@ export default function PurchasesPage() {
                       alt=""
                       width={48}
                       height={48}
+                      loading="lazy"
+                      decoding="async"
                       className="size-12 rounded-control border-2 border-surface bg-surface-2 object-contain p-0.5"
                     />
                   ))}

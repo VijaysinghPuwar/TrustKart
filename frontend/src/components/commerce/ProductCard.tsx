@@ -70,19 +70,20 @@ export function ProductCard({ product, priority }: ProductCardProps) {
             className="w-full rounded-control"
             loading={pendingId === product.id}
             onClick={() => addToCart(product)}
-            aria-label={`Add ${product.name} to cart`}
           >
             {justAdded === product.id ? 'Added ✓' : 'Add to cart'}
+            {/* The visible words come first in the accessible name (WCAG 2.5.3), then which product. */}
+            <span className="sr-only">: {product.name}</span>
           </Button>
         ) : (
           <Button variant="secondary" className="w-full rounded-control" disabled>
             Unavailable
           </Button>
         )}
-        <label className="flex min-h-6 cursor-pointer items-center gap-2 text-[13px] text-ink-muted">
+        <label className="-my-1.5 flex min-h-10 cursor-pointer items-center gap-2 text-[13px] text-ink-muted">
           <input
             type="checkbox"
-            className="size-4 cursor-pointer accent-primary"
+            className="size-[18px] cursor-pointer accent-primary"
             checked={compared}
             onChange={() => {
               if (!compare.toggle({ slug: product.slug, name: product.name })) {

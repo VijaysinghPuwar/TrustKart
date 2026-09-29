@@ -72,7 +72,10 @@ export default function CollectionPage() {
                   <img
                     src={i.imageUrl}
                     alt=""
+                    width={400}
+                    height={400}
                     loading="lazy"
+                    decoding="async"
                     className="tk-product-img max-h-full max-w-full object-contain"
                   />
                 )}
