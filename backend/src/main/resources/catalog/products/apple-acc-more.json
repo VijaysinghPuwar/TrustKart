@@ -1,0 +1,1951 @@
+{
+ "products": [
+  {
+   "sku": "TK-APPLE-AVP-DUALKNIT",
+   "slug": "apple-vision-pro-dual-knit-band",
+   "name": "Apple Vision Pro Dual Knit Band",
+   "brand": "Apple",
+   "category": "tablet-accessories",
+   "price": "99.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    27,
+    5
+   ],
+   "featured": true,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "apple-ecosystem"
+   ],
+   "summary": "Knit head band for Apple Vision Pro with upper and lower straps, a counterbalanced design and a dual-function Fit Dial.",
+   "description": "The Dual Knit Band provides comfort and stability with soft, breathable upper and lower straps and a counterbalanced design. Its dual-function Fit Dial adjusts each strap independently, and it attaches to the Audio Straps with release tabs for quick removal.",
+   "keywords": "vision pro headband knit strap fit dial",
+   "specs": {
+    "compatibility": "Apple Vision Pro (M5), Apple Vision Pro (M2)",
+    "configurations": "S – $99 · M – $99 · L – $99"
+   },
+   "options": [
+    {
+     "name": "Configuration",
+     "values": [
+      {
+       "label": "S",
+       "price": "99.00",
+       "default": true
+      },
+      {
+       "label": "M",
+       "price": "99.00"
+      },
+      {
+       "label": "L",
+       "price": "99.00"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "sku": "TK-APPLE-AVP-SOLOKNIT",
+   "slug": "apple-vision-pro-solo-knit-band",
+   "name": "Apple Vision Pro Solo Knit Band",
+   "brand": "Apple",
+   "category": "tablet-accessories",
+   "price": "99.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    19,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "apple-ecosystem"
+   ],
+   "summary": "Single-piece 3D-knitted band for Apple Vision Pro with a ribbed structure for cushioning and stretch, adjusted with the Fit Dial.",
+   "description": "The Solo Knit Band is 3D knitted as a single piece to create a rib structure that provides cushioning, breathability and stretch. An easy-to-reach Fit Dial adjusts the fit and allows microadjustments during use; it attaches to the Audio Straps with release tabs.",
+   "keywords": "vision pro headband knit",
+   "specs": {
+    "compatibility": "Apple Vision Pro (M5), Apple Vision Pro (M2)",
+    "configurations": "S – $99 · M – $99 · L – $99"
+   },
+   "options": [
+    {
+     "name": "Configuration",
+     "values": [
+      {
+       "label": "S",
+       "price": "99.00",
+       "default": true
+      },
+      {
+       "label": "M",
+       "price": "99.00"
+      },
+      {
+       "label": "L",
+       "price": "99.00"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "sku": "TK-APPLE-AVP-DUALLOOP",
+   "slug": "apple-vision-pro-dual-loop-band",
+   "name": "Apple Vision Pro Dual Loop Band",
+   "brand": "Apple",
+   "category": "tablet-accessories",
+   "price": "99.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    22,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "apple-ecosystem"
+   ],
+   "summary": "Dual Loop Band for Apple Vision Pro with a pair of upper and lower straps; sold in the large size only.",
+   "description": "The Dual Loop Band features a pair of upper and lower straps for a precise fit. It attaches to the Audio Straps with a simple, secure mechanism and release tabs. Apple sells it only in the large size.",
+   "keywords": "vision pro headband strap",
+   "specs": {
+    "compatibility": "Apple Vision Pro (M5), Apple Vision Pro (M2)"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-APPLE-AVP-LIGHTSEAL",
+   "slug": "apple-vision-pro-light-seal",
+   "name": "Apple Vision Pro Light Seal",
+   "brand": "Apple",
+   "category": "tablet-accessories",
+   "price": "199.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    24,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "apple-ecosystem"
+   ],
+   "summary": "Magnetic face seal for Apple Vision Pro that conforms to your face and blocks stray light; includes two Light Seal Cushions.",
+   "description": "The Light Seal gently conforms to your face to deliver a precise fit while blocking out stray light. It attaches magnetically to Apple Vision Pro and comes in 14 fit sizes; the included Light Seal Cushions (two sizes) attach magnetically and remove for cleaning.",
+   "keywords": "vision pro light seal face cushion fit",
+   "specs": {
+    "compatibility": "Apple Vision Pro (M5), Apple Vision Pro (M2)",
+    "configurations": "11N – $199 · 11W – $199 · 13W – $199 · 21N – $199 · 21W – $199 · 22W – $199 · 23N – $199 · 23W – $199 · 24W – $199 · 25W – $199 · 33N – $199 · 33W – $199 · 34W – $199 · 35W – $199"
+   },
+   "options": [
+    {
+     "name": "Configuration",
+     "values": [
+      {
+       "label": "11N",
+       "price": "199.00",
+       "default": true
+      },
+      {
+       "label": "11W",
+       "price": "199.00"
+      },
+      {
+       "label": "13W",
+       "price": "199.00"
+      },
+      {
+       "label": "21N",
+       "price": "199.00"
+      },
+      {
+       "label": "21W",
+       "price": "199.00"
+      },
+      {
+       "label": "22W",
+       "price": "199.00"
+      },
+      {
+       "label": "23N",
+       "price": "199.00"
+      },
+      {
+       "label": "23W",
+       "price": "199.00"
+      },
+      {
+       "label": "24W",
+       "price": "199.00"
+      },
+      {
+       "label": "25W",
+       "price": "199.00"
+      },
+      {
+       "label": "33N",
+       "price": "199.00"
+      },
+      {
+       "label": "33W",
+       "price": "199.00"
+      },
+      {
+       "label": "34W",
+       "price": "199.00"
+      },
+      {
+       "label": "35W",
+       "price": "199.00"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "sku": "TK-APPLE-AVP-LSCUSHION",
+   "slug": "apple-vision-pro-light-seal-cushion",
+   "name": "Apple Vision Pro Light Seal Cushion",
+   "brand": "Apple",
+   "category": "tablet-accessories",
+   "price": "29.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    41,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "apple-ecosystem"
+   ],
+   "summary": "Replacement cushion that attaches magnetically to the Apple Vision Pro Light Seal; hand washable, in four sizes.",
+   "description": "The Light Seal Cushion magnetically attaches to the Apple Vision Pro Light Seal and can be easily removed for cleaning. It is hand washable and available in four sizes: N, N+, W and W+.",
+   "keywords": "vision pro cushion replacement",
+   "specs": {
+    "compatibility": "Apple Vision Pro (M5), Apple Vision Pro (M2)",
+    "configurations": "N – $29 · N+ – $29 · W – $29 · W+ – $29"
+   },
+   "options": [
+    {
+     "name": "Configuration",
+     "values": [
+      {
+       "label": "N",
+       "price": "29.00",
+       "default": true
+      },
+      {
+       "label": "N+",
+       "price": "29.00"
+      },
+      {
+       "label": "W",
+       "price": "29.00"
+      },
+      {
+       "label": "W+",
+       "price": "29.00"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "sku": "TK-APPLE-AVP-BATTERY",
+   "slug": "apple-vision-pro-battery",
+   "name": "Apple Vision Pro Battery",
+   "brand": "Apple",
+   "category": "tablet-accessories",
+   "price": "199.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    48,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "apple-ecosystem"
+   ],
+   "summary": "Spare machined-aluminum battery for Apple Vision Pro, up to 2.5 hours of general use with the M5 model.",
+   "description": "The Apple Vision Pro Battery is machined aluminum and connects to the headset with a woven power cable; it fits in a pocket and includes a woven USB-C cable for charging. Apple rates up to 2.5 hours of general use and 3 hours of video playback with Apple Vision Pro (M5), or 2 and 2.5 hours with the M2 model, and all-day use when plugged in.",
+   "keywords": "vision pro spare battery power",
+   "specs": {
+    "compatibility": "Apple Vision Pro (M5), Apple Vision Pro (M2)"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-APPLE-AVP-TRAVELCASE",
+   "slug": "apple-vision-pro-travel-case",
+   "name": "Apple Vision Pro Travel Case",
+   "brand": "Apple",
+   "category": "tablet-accessories",
+   "price": "199.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    42,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "apple-ecosystem"
+   ],
+   "summary": "Apple-designed travel case for Apple Vision Pro with a ripstop shell, polycarbonate structure and a retractable handle.",
+   "description": "The Travel Case protects Apple Vision Pro on the go, with a ripstop outer shell, polycarbonate protective structure, microfiber lining and retractable handle. Compartments hold the battery, ZEISS Optical Inserts, Cover and other accessories. It measures 29.7 x 22.3 x 16.5 cm.",
+   "keywords": "vision pro case travel carry",
+   "specs": {
+    "compatibility": "Apple Vision Pro (M5), Apple Vision Pro (M2)"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-APPLE-AVP-ZEISS",
+   "slug": "apple-vision-pro-zeiss-optical-inserts",
+   "name": "ZEISS Optical Inserts for Apple Vision Pro",
+   "brand": "Apple",
+   "category": "tablet-accessories",
+   "price": "99.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    53,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "apple-ecosystem"
+   ],
+   "summary": "Magnetic ZEISS lens inserts for Apple Vision Pro, as Readers in three strengths or custom Prescription lenses.",
+   "description": "ZEISS Optical Inserts attach magnetically to Apple Vision Pro and are sold as a pair. Readers come in three strengths; Prescription inserts are custom made to your prescription, unique to each eye, with optional engraving. They work together with the Light Seal, so a new Light Seal may be needed.",
+   "keywords": "vision pro prescription lenses readers zeiss",
+   "specs": {
+    "compatibility": "Apple Vision Pro (M5), Apple Vision Pro (M2)",
+    "configurations": "Readers +0.75 to +1.25D – $99 · Readers +1.50 to +1.75D – $99 · Readers +2.00 to +2.75D – $99 · Prescription – $149"
+   },
+   "options": [
+    {
+     "name": "Configuration",
+     "values": [
+      {
+       "label": "Readers +0.75 to +1.25D",
+       "price": "99.00",
+       "default": true
+      },
+      {
+       "label": "Readers +1.50 to +1.75D",
+       "price": "99.00"
+      },
+      {
+       "label": "Readers +2.00 to +2.75D",
+       "price": "99.00"
+      },
+      {
+       "label": "Prescription",
+       "price": "149.00"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "sku": "TK-BELKIN-AVP-BATTHOLDER",
+   "slug": "belkin-battery-holder-apple-vision-pro",
+   "name": "Belkin Battery Holder for Apple Vision Pro",
+   "brand": "Belkin",
+   "category": "tablet-accessories",
+   "price": "49.95",
+   "compareAt": null,
+   "warranty": 24,
+   "stock": [
+    15,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [],
+   "summary": "Clip-on holder that keeps the Apple Vision Pro Battery on a belt or waistband, with a cross-body strap and cable clip.",
+   "description": "The Belkin Battery Holder clips the Apple Vision Pro Battery onto a belt or waistband for hands-free use; a 182 cm cross-body strap is included for when no clip point is available, plus a cable clip for cable management.",
+   "keywords": "vision pro battery clip holster",
+   "specs": {
+    "compatibility": "Apple Vision Pro (M5), Apple Vision Pro (M2)"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-BELKIN-AVP-TRAVELBAG",
+   "slug": "belkin-travel-bag-apple-vision-pro",
+   "name": "Belkin Travel Bag for Apple Vision Pro",
+   "brand": "Belkin",
+   "category": "tablet-accessories",
+   "price": "99.95",
+   "compareAt": null,
+   "warranty": 24,
+   "stock": [
+    17,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [],
+   "summary": "Compact gray travel bag for Apple Vision Pro with a cushioned lens pillow, accessory pockets and a hidden AirTag compartment.",
+   "description": "The Belkin Travel Bag keeps Apple Vision Pro and its accessories organized, with a cushioned lens pillow that folds down to protect the lenses, a padded base, storage pockets for the battery and accessories, a carrying strap and a hidden AirTag compartment.",
+   "keywords": "vision pro bag case",
+   "specs": {
+    "compatibility": "Apple Vision Pro (M5), Apple Vision Pro (M2)",
+    "colors": "Gray"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-BELKIN-AVP-HEADSTRAP",
+   "slug": "belkin-head-strap-apple-vision-pro",
+   "name": "Belkin Head Strap for Apple Vision Pro",
+   "brand": "Belkin",
+   "category": "tablet-accessories",
+   "price": "49.95",
+   "compareAt": null,
+   "warranty": 24,
+   "stock": [
+    23,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [],
+   "summary": "Adjustable over-the-head strap that adds stabilization points to Apple Vision Pro when used with the Solo Knit Band.",
+   "description": "The Belkin Head Strap adds an ergonomic, adjustable top strap with a secure locking mechanism and extra stabilization points to keep Apple Vision Pro in place during vigorous movement. It is designed to complement the Solo Knit Band and weighs 21 g.",
+   "keywords": "vision pro top strap comfort",
+   "specs": {
+    "compatibility": "Apple Vision Pro (M5), Apple Vision Pro (M2)",
+    "colors": "Gray"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-LOGI-MUSE",
+   "slug": "logitech-muse-apple-vision-pro",
+   "name": "Logitech Muse Spatial Stylus for Apple Vision Pro",
+   "brand": "Logitech",
+   "category": "tablet-accessories",
+   "price": "129.95",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    8,
+    5
+   ],
+   "featured": true,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [],
+   "summary": "Spatial stylus for Apple Vision Pro with six-degrees-of-freedom tracking, a pressure-sensitive tip and haptic feedback.",
+   "description": "Logitech Muse is a spatial accessory for drawing, annotating and interacting in space with Apple Vision Pro. It offers low-latency six-degrees-of-freedom tracking, real-time haptics, a pressure-sensitive tip and force-sensing button, swappable tips (two extras included) and fast USB-C charging.",
+   "keywords": "vision pro stylus pen spatial drawing",
+   "specs": {
+    "compatibility": "Apple Vision Pro (M5), Apple Vision Pro (M2)"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-SONY-PSVR2-SENSE-AVP",
+   "slug": "playstation-vr2-sense-controller-charging-station",
+   "name": "PlayStation VR2 Sense Controller & Charging Station",
+   "brand": "Sony",
+   "category": "controllers",
+   "price": "249.95",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    23,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [],
+   "summary": "Pair of PS VR2 Sense controllers plus charging station, sold by Apple for navigating and gaming on Apple Vision Pro.",
+   "description": "Apple sells the PlayStation VR2 Sense controller set for use with Apple Vision Pro (visionOS). The controllers provide vibration feedback and finger touch detection, and the included charging station charges both with a click-in design. Box includes both controllers with straps, the charging station, AC adaptor and cord and two USB adaptors.",
+   "keywords": "vision pro controllers psvr2 sense vr gaming",
+   "specs": {
+    "platform": "visionOS",
+    "compatibility": "Apple Vision Pro",
+    "connectivity": "Bluetooth, USB",
+    "battery": "Built-in rechargeable lithium-ion",
+    "colors": "White"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-APPLE-APPLETV4K-3",
+   "slug": "apple-tv-4k-3rd-generation",
+   "name": "Apple TV 4K (3rd generation)",
+   "brand": "Apple",
+   "category": "smart-speakers-displays",
+   "price": "199.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    10,
+    5
+   ],
+   "featured": true,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "apple-ecosystem"
+   ],
+   "summary": "A15 Bionic streaming box with 4K Dolby Vision, HDR10+ and Dolby Atmos that also works as a smart home hub.",
+   "description": "Apple TV 4K (3rd generation) uses the A15 Bionic chip and delivers 4K Dolby Vision, HDR10+ and Dolby Atmos with HDMI 2.1, Wi-Fi 6 and Bluetooth 5.0. It works as a smart home hub, and the Wi-Fi + Ethernet model adds Gigabit Ethernet and Thread with 128GB of storage. The Siri Remote (3rd generation) with USB-C is included.",
+   "keywords": "apple tv 4k streaming box home hub dolby vision",
+   "specs": {
+    "ecosystem": "Apple Home (home hub), Siri",
+    "connectivity": "HDMI 2.1, Wi-Fi 6, Bluetooth 5.0 (Wi-Fi + Ethernet model adds Gigabit Ethernet and Thread)",
+    "resolution": "4K (2160p60) Dolby Vision, HDR10+",
+    "power": "Built-in power supply",
+    "subscriptionRequired": false,
+    "configurations": "Wi-Fi, 64GB – $199 · Wi-Fi + Ethernet, 128GB – $249"
+   },
+   "options": [
+    {
+     "name": "Configuration",
+     "values": [
+      {
+       "label": "Wi-Fi, 64GB",
+       "price": "199.00",
+       "default": true
+      },
+      {
+       "label": "Wi-Fi + Ethernet, 128GB",
+       "price": "249.00"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "sku": "TK-BELKIN-IPHONEMOUNT-ATV",
+   "slug": "belkin-iphone-mount-magsafe-apple-tv-4k",
+   "name": "Belkin iPhone Mount with MagSafe for Apple TV 4K",
+   "brand": "Belkin",
+   "category": "tablet-accessories",
+   "price": "49.95",
+   "compareAt": null,
+   "warranty": 24,
+   "stock": [
+    10,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [],
+   "summary": "MagSafe mount that holds iPhone on top of a TV so its rear camera works as a FaceTime camera for Apple TV 4K.",
+   "description": "The Belkin iPhone Mount with MagSafe attaches to TVs or displays up to 10.1 cm deep, or stands alone on a shelf, so iPhone can act as a Continuity Camera for FaceTime on Apple TV 4K. It tilts from -20 to +30 degrees and flips between portrait and landscape.",
+   "keywords": "facetime tv continuity camera mount",
+   "specs": {
+    "compatibility": "Apple TV 4K, MagSafe-compatible iPhone",
+    "colors": "Black"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-APPLE-POLISHINGCLOTH",
+   "slug": "apple-polishing-cloth",
+   "name": "Apple Polishing Cloth",
+   "brand": "Apple",
+   "category": "tablet-accessories",
+   "price": "9.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    55,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [
+    "apple-ecosystem"
+   ],
+   "summary": "Soft, nonabrasive Apple cleaning cloth that safely cleans any Apple display, including nano-texture glass.",
+   "description": "Made with soft, nonabrasive material, the Polishing Cloth cleans any Apple display, including nano-texture glass, safely and effectively.",
+   "keywords": "cleaning cloth screen nano texture",
+   "specs": {
+    "compatibility": "Apple displays, including nano-texture glass"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-BACKBONE-PRO",
+   "slug": "backbone-pro-mobile-gaming-controller",
+   "name": "Backbone Pro Mobile Gaming Controller",
+   "brand": "Backbone",
+   "category": "controllers",
+   "price": "169.95",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    45,
+    5
+   ],
+   "featured": true,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [],
+   "summary": "Full-size mobile controller with ALPS joysticks and rear buttons that works wired over USB-C or wirelessly via Bluetooth.",
+   "description": "Backbone Pro has full-sized ALPS joysticks, pro-style rear buttons and a 30% larger form. It plays in handheld USB-C mode or over Bluetooth LE with up to 40 hours of wireless battery life, works with iPhone, Apple TV, Mac and Apple Vision Pro, and includes magnetic adapters for iPhone with or without a case.",
+   "keywords": "iphone controller gamepad mobile gaming",
+   "specs": {
+    "platform": "Mobile",
+    "compatibility": "iPhone 15/16/17 series (with or without case), Apple TV, Mac, Apple Vision Pro",
+    "connectivity": "USB-C, Bluetooth 5.0",
+    "battery": "Up to 40 hours (wireless)",
+    "weightG": 203,
+    "colors": "Black"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-BACKBONE-ONE-USBC-2",
+   "slug": "backbone-one-usb-c-2nd-generation",
+   "name": "Backbone One Mobile Gaming Controller (USB-C, 2nd Generation)",
+   "brand": "Backbone",
+   "category": "controllers",
+   "price": "99.95",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    45,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [],
+   "summary": "Compact USB-C controller that snaps around iPhone, with pass-through charging and a 3.5 mm headset jack.",
+   "description": "Backbone One (USB-C, 2nd Generation) connects directly to the iPhone USB-C port for responsive play of App Store, Apple Arcade and cloud-streamed games. It includes two sets of magnetic adapters compatible with Apple-branded iPhone cases, pass-through charging and a 3.5 mm headset jack; it weighs 138 g.",
+   "keywords": "iphone controller gamepad usb-c",
+   "specs": {
+    "platform": "Mobile",
+    "compatibility": "iPhone with USB-C (iOS 17 or later)",
+    "connectivity": "USB-C",
+    "weightG": 138,
+    "colors": "Black"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-SHIFTCAM-SNAPSTAND-SELFIE",
+   "slug": "shiftcam-snapstand-selfie",
+   "name": "ShiftCam SnapStand Selfie Magnetic Selfie Stick and Tripod",
+   "brand": "ShiftCam",
+   "category": "camera-accessories",
+   "price": "59.95",
+   "compareAt": null,
+   "warranty": 24,
+   "stock": [
+    8,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [],
+   "summary": "Pocketable MagSafe selfie stick and tripod that extends from 17 cm to 75 cm, with a detachable Bluetooth remote.",
+   "description": "SnapStand Selfie extends from 6.7 in (17 cm) to 29.5 in (75 cm) and doubles as a tripod. Its MagSafe-compatible magnetic mount snaps onto iPhone, a 200-degree tilt head sets the angle, and a detachable Bluetooth remote controls photos and video. It weighs 183 g.",
+   "keywords": "selfie stick tripod magsafe",
+   "specs": {
+    "accessoryType": "Selfie stick / tripod",
+    "compatibility": "MagSafe-compatible iPhone",
+    "weightG": 183,
+    "colors": "Black"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-SHIFTCAM-SNAPCREATOR-PRO",
+   "slug": "shiftcam-snapcreator-kit-pro",
+   "name": "ShiftCam SnapCreator Kit Pro Ultimate 3-in-1 Portable Studio",
+   "brand": "ShiftCam",
+   "category": "camera-accessories",
+   "price": "219.95",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    35,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [],
+   "summary": "Mobile creator kit with SnapGrip Pro, 180 cm SnapStand Max, SnapStudio LED light and travel pouch.",
+   "description": "The SnapCreator Kit Pro combines SnapGrip Pro (camera grip with Qi2 power bank), SnapStand Max (extends to 180 cm with tilt control and Bluetooth remote), the SnapStudio LED light with 10-step brightness and colour temperature control, and a travel pouch. All pieces snap onto MagSafe-compatible iPhone and each other.",
+   "keywords": "creator kit tripod light grip vlogging",
+   "specs": {
+    "accessoryType": "Creator kit (grip, tripod, light)",
+    "compatibility": "MagSafe-compatible iPhone",
+    "weightG": 950,
+    "colors": "Black"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-SHIFTCAM-SNAPGRIP-PRO",
+   "slug": "shiftcam-snapgrip-pro",
+   "name": "ShiftCam SnapGrip Pro with Next Generation Powerbank",
+   "brand": "ShiftCam",
+   "category": "camera-accessories",
+   "price": "89.95",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    35,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [],
+   "summary": "Magnetic camera grip for iPhone with a 5000 mAh Qi2 15 W wireless power bank and 20 W USB-C output.",
+   "description": "SnapGrip Pro turns iPhone into a camera-style shooting tool with a sculpted grip and a built-in 5000 mAh battery offering Qi2-certified 15 W magnetic wireless charging and 20 W USB-C PD output. It twists between orientations and doubles as a stand.",
+   "keywords": "camera grip powerbank qi2 magsafe",
+   "specs": {
+    "accessoryType": "Camera grip / power bank",
+    "compatibility": "MagSafe-compatible iPhone",
+    "battery": "5000 mAh",
+    "capacity": "5000 mAh",
+    "weightG": 183,
+    "colors": "Black"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-SHIFTCAM-SNAPSTAND-MAX",
+   "slug": "shiftcam-snapstand-max",
+   "name": "ShiftCam SnapStand Max Full Height Mobile Tripod",
+   "brand": "ShiftCam",
+   "category": "camera-accessories",
+   "price": "79.95",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    45,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [],
+   "summary": "MagSafe-compatible mobile tripod that extends to 180 cm, with a 200-degree tilt head and removable Bluetooth remote.",
+   "description": "SnapStand Max extends up to 180 cm for wide and overhead shots and folds to roughly the length of a MacBook Air. It snaps magnetically onto MagSafe-compatible iPhone, has a 200-degree tilt head and a removable Bluetooth remote, and weighs 350 g.",
+   "keywords": "tripod full height magsafe",
+   "specs": {
+    "accessoryType": "Tripod",
+    "compatibility": "MagSafe-compatible iPhone",
+    "weightG": 350
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-SHIFTCAM-PROGRIP-KIT",
+   "slug": "shiftcam-progrip-starter-kit",
+   "name": "ShiftCam ProGrip Starter Kit",
+   "brand": "ShiftCam",
+   "category": "camera-accessories",
+   "price": "149.95",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    48,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [],
+   "summary": "Camera-style battery grip for iPhone with a wireless shutter, wireless-charging power bank, rotating clamp and cold shoe.",
+   "description": "ShiftCam ProGrip is an ergonomic battery grip with a wireless shutter button, a built-in power bank that wirelessly charges iPhone, a clamp that rotates between portrait and landscape, a cold shoe mount and 1/4-inch tripod connector. The kit includes a hand strap, cold shoe adapter, travel pouch and 1.5 m USB-C cable.",
+   "keywords": "camera grip battery shutter",
+   "specs": {
+    "accessoryType": "Camera grip / power bank",
+    "compatibility": "iPhone",
+    "weightG": 200,
+    "colors": "Black"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-SHIFTCAM-SNAPLIGHT",
+   "slug": "shiftcam-snaplight",
+   "name": "ShiftCam SnapLight Magnetic LED Selfie Ring Light",
+   "brand": "ShiftCam",
+   "category": "camera-accessories",
+   "price": "39.95",
+   "compareAt": null,
+   "warranty": 24,
+   "stock": [
+    15,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [],
+   "summary": "Pocket-size magnetic LED ring light for MagSafe iPhone with four brightness levels and up to 2 hours of battery.",
+   "description": "SnapLight is a pocket-sized ring light that snaps onto MagSafe iPhone or cases. It offers four brightness settings, a flippable hinge, a centre mirror and a built-in battery lasting up to two hours, recharged over USB-C. A magnetic sticker is included for other devices.",
+   "keywords": "ring light selfie led magsafe",
+   "specs": {
+    "accessoryType": "LED ring light",
+    "compatibility": "MagSafe iPhone; iPad and Mac via included magnetic sticker",
+    "battery": "Up to 2 hours",
+    "weightG": 45,
+    "colors": "Black"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-JOBY-TELEPOD-MOBILE",
+   "slug": "joby-telepod-mobile",
+   "name": "JOBY TelePod Mobile All-in-One Tripod for iPhone",
+   "brand": "JOBY",
+   "category": "camera-accessories",
+   "price": "64.95",
+   "compareAt": null,
+   "warranty": 24,
+   "stock": [
+    49,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [],
+   "summary": "Telescoping iPhone tripod that works as handgrip, selfie stick, elevated stand and tripod, with an Impulse Bluetooth trigger.",
+   "description": "JOBY TelePod Mobile includes the GripTight ONE phone clamp and Impulse Bluetooth trigger (up to 27.4 m range). It supports 1/4-inch-20 devices up to 325 g and works as handgrip, selfie stick, elevated stand or tripod.",
+   "keywords": "tripod selfie stick bluetooth remote",
+   "specs": {
+    "accessoryType": "Tripod / selfie stick",
+    "compatibility": "iPhone, 1/4-inch-20 devices",
+    "maxLoadKg": 0.325,
+    "weightG": 189,
+    "colors": "Black"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-JOBY-GRIPTIGHT-PRO-TELEPOD",
+   "slug": "joby-griptight-pro-telepod",
+   "name": "JOBY GripTight PRO TelePod Tripod",
+   "brand": "JOBY",
+   "category": "camera-accessories",
+   "price": "109.95",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    12,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [],
+   "summary": "Telescoping 34-79 cm tripod with locking GripTight PRO mount, Bluetooth remote and cold shoe, for iPhone and cameras up to 1 kg.",
+   "description": "The GripTight PRO TelePod telescopes from 34 to 79 cm and works as a hand grip, extended grip, elevated tripod or tabletop tripod. The locking GripTight PRO mount rotates between orientations, and 1/4-inch-20 connections carry cameras or lights up to 1 kg. It includes a Bluetooth Impulse remote, Cold Shoe PRO and GoPro adapter.",
+   "keywords": "tripod vlogging stick",
+   "specs": {
+    "accessoryType": "Tripod",
+    "compatibility": "iPhone, mirrorless, action and 360 cameras",
+    "maxLoadKg": 1.0,
+    "weightG": 359,
+    "colors": "Black/Gray"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-INSTA360-FLOW2PRO",
+   "slug": "insta360-flow-2-pro",
+   "name": "Insta360 Flow 2 Pro Stabilizer",
+   "brand": "Insta360",
+   "category": "camera-accessories",
+   "price": "159.95",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    28,
+    5
+   ],
+   "featured": true,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [],
+   "summary": "3-axis AI smartphone gimbal with Apple DockKit tracking, built-in selfie stick and tripod, and 360-degree infinite pan.",
+   "description": "Insta360 Flow 2 Pro is a 3-axis smartphone stabilizer with Deep Track 4.0 subject tracking. Apple DockKit integration enables tracking in the iPhone Camera app and 200+ iOS apps. It has a built-in selfie stick and tripod, 360-degree Infinite Pan Tracking and Free Tilt Mode, and the gimbal weighs 357 g.",
+   "keywords": "gimbal stabilizer dockkit tracking",
+   "specs": {
+    "accessoryType": "Smartphone gimbal",
+    "compatibility": "iPhone (Apple DockKit)",
+    "stabilization": "3-axis",
+    "weightG": 357,
+    "colors": "White"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-INSTA360-X5",
+   "slug": "insta360-x5",
+   "name": "Insta360 X5 360 Action Camera",
+   "brand": "Insta360",
+   "category": "action-cameras",
+   "price": "549.95",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    40,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [],
+   "summary": "8K 360 action camera with 1/1.28-inch sensors, replaceable lenses, 5.7K60 360 video and waterproofing to 49 ft.",
+   "description": "Insta360 X5 uses 1/1.28-inch sensors and a triple AI chip for 8K 360 video, 5.7K60fps 360 capture, 4K120fps and 5.7K60fps Active HDR. Lenses are replaceable, it is waterproof to 49 ft without housing, battery life is rated at 208 minutes, and FlowState stabilization with 360 Horizon Lock keeps shots level.",
+   "keywords": "360 camera action 8k",
+   "specs": {
+    "sensor": "Dual 1/1.28-inch",
+    "video": "8K 360; 5.7K60 360; 4K120",
+    "stabilization": "FlowState, 360 Horizon Lock",
+    "battery": "Up to 208 min",
+    "colors": "Black",
+    "configurations": "Standard Bundle – $549.95 · Essentials Bundle – $679.95"
+   },
+   "options": [
+    {
+     "name": "Configuration",
+     "values": [
+      {
+       "label": "Standard Bundle",
+       "price": "549.95",
+       "default": true
+      },
+      {
+       "label": "Essentials Bundle",
+       "price": "679.95"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "sku": "TK-INSTA360-GOULTRA",
+   "slug": "insta360-go-ultra",
+   "name": "Insta360 GO Ultra Standard Bundle",
+   "brand": "Insta360",
+   "category": "action-cameras",
+   "price": "449.95",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    16,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [],
+   "summary": "53 g magnetic 4K60 action camera with Action Pod, 1/1.28-inch sensor, 50MP photos and IPX8 waterproofing.",
+   "description": "Insta360 GO Ultra's standalone camera weighs 53 g, records 4K60fps with a 1/1.28-inch sensor and 156-degree FOV, takes 50MP photos and is waterproof to 10 m. It runs 70 minutes alone or 200 minutes with the Action Pod, with FlowState stabilization and 360-degree Horizon Lock. The bundle adds the Magnet Pendant, Easy Clip and safety cord.",
+   "keywords": "mini action camera pov 4k",
+   "specs": {
+    "sensor": "1/1.28-inch",
+    "megapixels": 50,
+    "video": "4K60",
+    "stabilization": "FlowState, 360 Horizon Lock",
+    "battery": "70 min (200 min with Action Pod)",
+    "weightG": 53,
+    "colors": "White"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-INSTA360-ACEPRO2-CREATOR",
+   "slug": "insta360-ace-pro-2-creator-bundle",
+   "name": "Insta360 Ace Pro 2 Creator Bundle",
+   "brand": "Insta360",
+   "category": "action-cameras",
+   "price": "489.95",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    49,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [],
+   "summary": "8K30 action camera co-engineered with Leica, with a 1/1.3-inch sensor, dual AI chips and a 2.5-inch flip touchscreen.",
+   "description": "Insta360 Ace Pro 2 has a 1/1.3-inch 8K sensor with 13.5 stops of dynamic range, a Leica SUMMARIT lens and a dedicated imaging chip plus 5nm AI chip. It records 8K30, 4K60 Active HDR and 4K120 slow motion, has a 2.5-inch flip touchscreen and Wind Guard, and is waterproof to 39 ft. The Creator Bundle adds accessories.",
+   "keywords": "action camera 8k leica",
+   "specs": {
+    "sensor": "1/1.3-inch",
+    "video": "8K30; 4K60 Active HDR; 4K120",
+    "stabilization": "FlowState",
+    "colors": "Black"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-BELKIN-IPHONEMOUNT-MACDT",
+   "slug": "belkin-iphone-mount-magsafe-mac-desktops",
+   "name": "Belkin iPhone Mount with MagSafe for Mac Desktops and Displays",
+   "brand": "Belkin",
+   "category": "tablet-accessories",
+   "price": "39.95",
+   "compareAt": null,
+   "warranty": 24,
+   "stock": [
+    55,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [],
+   "summary": "MagSafe mount that holds iPhone on top of iMac, Studio Display or other monitors for Continuity Camera.",
+   "description": "This Belkin mount secures a MagSafe-compatible iPhone to Mac desktops and displays for Continuity Camera. iPhone rotates between portrait and landscape, and the tilting hinge adjusts from vertical to 25 degrees downward. It works with most external monitors and includes a 1/4-inch tripod thread.",
+   "keywords": "continuity camera mount webcam imac",
+   "specs": {
+    "compatibility": "MagSafe-compatible iPhone; iMac, Studio Display, Pro Display XDR, most monitors",
+    "colors": "Black"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-WITHINGS-BODYSCAN",
+   "slug": "withings-body-scan",
+   "name": "Withings Body Scan Connected Health Station",
+   "brand": "Withings",
+   "category": "tablet-accessories",
+   "price": "499.95",
+   "compareAt": null,
+   "warranty": 24,
+   "stock": [
+    32,
+    5
+   ],
+   "featured": true,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [],
+   "summary": "Smart scale with segmental body composition, 6-lead ECG, pulse wave velocity and nerve health assessment.",
+   "description": "Withings Body Scan measures segmental body composition via its handle, takes a 6-lead ECG to detect AFib, and measures pulse wave velocity, standing heart rate and nerve health. Weight is precise to 0.1 lb, it recognizes up to 8 users, and data syncs to the Withings app and Apple Health; it runs up to 12 months per charge.",
+   "keywords": "smart scale ecg body composition health",
+   "specs": {
+    "compatibility": "iPhone (Withings app, Apple Health)",
+    "colors": "Black"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-WITHINGS-BODYCOMP",
+   "slug": "withings-body-comp",
+   "name": "Withings Body Comp Wi-Fi Smart Scale",
+   "brand": "Withings",
+   "category": "tablet-accessories",
+   "price": "229.95",
+   "compareAt": null,
+   "warranty": 24,
+   "stock": [
+    56,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [],
+   "summary": "Wi-Fi and Bluetooth smart scale with body composition, vascular age, standing heart rate and an EDA score.",
+   "description": "Withings Body Comp measures weight to 0.1 lb plus body composition, standing heart rate, vascular age and an electrodermal activity score. It has a colour screen, 15-month battery life, recognizes up to 8 users and syncs over Wi-Fi or Bluetooth to the Withings app, which works with Apple Health.",
+   "keywords": "smart scale body composition",
+   "specs": {
+    "compatibility": "iPhone (Withings app, Apple Health)",
+    "colors": "Black"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-WITHINGS-BODYSMART",
+   "slug": "withings-body-smart",
+   "name": "Withings Body Smart Wi-Fi Scale",
+   "brand": "Withings",
+   "category": "tablet-accessories",
+   "price": "129.95",
+   "compareAt": null,
+   "warranty": 24,
+   "stock": [
+    46,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [],
+   "summary": "Wi-Fi smart scale tracking weight and 8 body composition metrics, including visceral fat and heart rate.",
+   "description": "Withings Body Smart gives weight to 0.1 lb and 8 body composition metrics including fat and muscle mass and a visceral fat index, plus heart rate. It has a colour screen, 15-month battery life, automatic recognition of up to 8 users and Wi-Fi or Bluetooth sync.",
+   "keywords": "smart scale wifi",
+   "specs": {
+    "compatibility": "iPhone (Withings app, Apple Health)",
+    "colors": "Black"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-WITHINGS-BEAMO",
+   "slug": "withings-beamo",
+   "name": "Withings BeamO Health Scanner",
+   "brand": "Withings",
+   "category": "tablet-accessories",
+   "price": "299.95",
+   "compareAt": null,
+   "warranty": 24,
+   "stock": [
+    44,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [],
+   "summary": "Handheld 3-in-1 scanner with contactless thermometer, 30-second ECG and digital stethoscope.",
+   "description": "Withings BeamO combines a contactless temporal-artery thermometer, a 30-second ECG that detects irregularities like AFib, and a stethoscope for listening to lungs. It supports 8 users, syncs via Wi-Fi or Bluetooth to the Withings app and Apple Health, weighs 74 g and runs about 8 months per charge.",
+   "keywords": "thermometer ecg stethoscope health",
+   "specs": {
+    "compatibility": "iPhone with iOS 18 or later (Withings app, Apple Health)",
+    "colors": "White"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-WITHINGS-BPMVISION",
+   "slug": "withings-bpm-vision",
+   "name": "Withings BPM Vision Blood Pressure Monitor",
+   "brand": "Withings",
+   "category": "tablet-accessories",
+   "price": "179.95",
+   "compareAt": null,
+   "warranty": 24,
+   "stock": [
+    46,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [],
+   "summary": "FDA-cleared upper-arm blood pressure monitor with a 2.8-inch colour screen and triple-measurement mode.",
+   "description": "Withings BPM Vision measures systolic and diastolic pressure and heart rate, with TripleTrust technology taking three consecutive readings. Results show on a 2.8-inch LCD, it recognizes 8 users, and data syncs over Bluetooth or Wi-Fi to the Withings app and Apple Health. Battery lasts up to one year.",
+   "keywords": "blood pressure monitor bpm",
+   "specs": {
+    "compatibility": "iPhone (Withings app, Apple Health)",
+    "colors": "White"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-WITHINGS-BPMCONNECT",
+   "slug": "withings-bpm-connect",
+   "name": "Withings BPM Connect Wi-Fi Smart Blood Pressure Monitor",
+   "brand": "Withings",
+   "category": "tablet-accessories",
+   "price": "129.95",
+   "compareAt": null,
+   "warranty": 24,
+   "stock": [
+    51,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [],
+   "summary": "FDA-cleared Wi-Fi and Bluetooth blood pressure monitor with colour-coded feedback and 6-month battery.",
+   "description": "Withings BPM Connect gives medically accurate blood pressure and heart rate readings with colour-coded feedback on the device, syncs via Wi-Fi and Bluetooth to the Health Mate app, and lets you email reports to your doctor. Its rechargeable battery lasts about 6 months.",
+   "keywords": "blood pressure monitor wifi",
+   "specs": {
+    "compatibility": "iPhone and iPad (Withings app)"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-EVE-CAM",
+   "slug": "eve-cam-indoor",
+   "name": "Eve Cam Smart Indoor Camera",
+   "brand": "Eve",
+   "category": "home-cameras-doorbells",
+   "price": "149.95",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    47,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [],
+   "summary": "Indoor camera designed exclusively for Apple HomeKit Secure Video, with on-device person and pet recognition.",
+   "description": "Eve Cam supports Apple HomeKit Secure Video only, with end-to-end encrypted live and recorded video analyzed in your home rather than the cloud. It can record every motion or distinguish people and pets and deactivate when someone is home. It needs a HomePod or Apple TV home hub and an iCloud+ plan.",
+   "keywords": "homekit secure video indoor camera",
+   "specs": {
+    "ecosystem": "Apple Home (HomeKit Secure Video)",
+    "connectivity": "Wi-Fi 2.4/5 GHz",
+    "power": "USB (5 V, 1 A)",
+    "resolution": "HD",
+    "subscriptionRequired": true,
+    "colors": "Black"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-EVE-OUTDOORCAM",
+   "slug": "eve-outdoor-cam",
+   "name": "Eve Outdoor Cam Smart Floodlight Camera",
+   "brand": "Eve",
+   "category": "home-cameras-doorbells",
+   "price": "249.95",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    44,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [],
+   "summary": "HomeKit Secure Video floodlight camera with 157-degree view, 1080p video, night vision and two-way audio.",
+   "description": "Eve Outdoor Cam is designed exclusively for Apple HomeKit Secure Video, with a dimmable floodlight triggered by its infrared motion sensor, a 157-degree field of view, night vision and HD 1080p/24fps video. It has a microphone and speaker for two-way talk and wires to AC power.",
+   "keywords": "floodlight camera outdoor homekit",
+   "specs": {
+    "ecosystem": "Apple Home (HomeKit Secure Video)",
+    "connectivity": "Wi-Fi",
+    "power": "Hardwired AC 100-240 V",
+    "resolution": "1080p",
+    "colors": "Black"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-LOGI-CIRCLEVIEW",
+   "slug": "logitech-circle-view",
+   "name": "Logitech Circle View HomeKit Security Camera",
+   "brand": "Logitech",
+   "category": "home-cameras-doorbells",
+   "price": "159.95",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    21,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [],
+   "summary": "Weatherproof wired HomeKit Secure Video camera with 1080p, 180-degree view and infrared night vision.",
+   "description": "Circle View is built exclusively for Apple HomeKit Secure Video, with 1080p video, a 180-degree diagonal field of view, wide dynamic range and infrared night vision up to 15 ft. It tilts down or disables streaming for privacy, has a weatherproof body, and uses 2.4 GHz Wi-Fi with a tethered 10 ft power cable.",
+   "keywords": "security camera homekit secure video",
+   "specs": {
+    "ecosystem": "Apple Home (HomeKit Secure Video)",
+    "connectivity": "2.4 GHz Wi-Fi",
+    "power": "USB adapter (wired)",
+    "resolution": "1080p",
+    "colors": "Graphite"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-AQARA-G100",
+   "slug": "aqara-g100-indoor-camera",
+   "name": "Aqara G100 Indoor Camera",
+   "brand": "Aqara",
+   "category": "home-cameras-doorbells",
+   "price": "39.95",
+   "compareAt": null,
+   "warranty": 24,
+   "stock": [
+    33,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [],
+   "summary": "2K camera with 140-degree view, colour and IR night vision, IP65 rating and HomeKit Secure Video support.",
+   "description": "The Aqara G100 records 3MP (2K) video with a 140-degree diagonal field of view and offers IR or spotlight colour night vision. It uses 2.4 GHz Wi-Fi 6, supports microSD, NAS and RTSP storage, is IP65 rated and fully supports HomeKit Secure Video.",
+   "keywords": "indoor camera homekit cheap 2k",
+   "specs": {
+    "ecosystem": "Apple Home (HomeKit Secure Video), Matter",
+    "connectivity": "2.4 GHz Wi-Fi 6",
+    "resolution": "3MP (2K)",
+    "colors": "Black, White"
+   },
+   "options": [
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Black",
+       "default": true,
+       "image": {
+        "small": "/images/catalog/aqara-g100-indoor-camera--black-400.webp",
+        "large": "/images/catalog/aqara-g100-indoor-camera--black-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Aqara G100 Indoor Camera in Black, product view on white background"
+       }
+      },
+      {
+       "label": "White",
+       "image": {
+        "small": "/images/catalog/aqara-g100-indoor-camera--white-400.webp",
+        "large": "/images/catalog/aqara-g100-indoor-camera--white-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Aqara G100 Indoor Camera in White, product view on white background"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "sku": "TK-AQARA-G5PRO",
+   "slug": "aqara-g5-pro-outdoor-camera-hub",
+   "name": "Aqara G5 Pro Outdoor Camera Hub",
+   "brand": "Aqara",
+   "category": "home-cameras-doorbells",
+   "price": "199.95",
+   "compareAt": null,
+   "warranty": 24,
+   "stock": [
+    49,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [],
+   "summary": "IP65 outdoor camera with a 1/1.8-inch sensor, F1.0 lens and local AI that also acts as a Zigbee and Thread hub.",
+   "description": "The Aqara G5 Pro records at over 4 million pixels through a 133-degree F1.0 lens and 1/1.8-inch sensor for colour night vision, with PIR motion detection, a spotlight and local AI detection of people, pets, packages and vehicles. It doubles as a Zigbee and Thread hub and Matter controller, connects over Wi-Fi or Ethernet and is IP65 rated.",
+   "keywords": "outdoor camera hub thread zigbee",
+   "specs": {
+    "ecosystem": "Apple Home (HomeKit Secure Video), Matter, Zigbee/Thread hub",
+    "connectivity": "Wi-Fi 2.4/5 GHz, Ethernet",
+    "resolution": "4MP+",
+    "colors": "Gray"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-NANOLEAF-SHAPES-HEX",
+   "slug": "nanoleaf-shapes-hexagons",
+   "name": "Nanoleaf Shapes Hexagons",
+   "brand": "Nanoleaf",
+   "category": "smart-lighting",
+   "price": "149.95",
+   "compareAt": null,
+   "warranty": 24,
+   "stock": [
+    43,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [],
+   "summary": "Seven touch-reactive modular hexagon light panels with music sync, screen mirror and HomeKit control.",
+   "description": "Nanoleaf Shapes Hexagons are modular LED panels you arrange into custom layouts, with 16 million+ colours, touch interactions, music sync and screen mirroring. The kit has seven panels, a controller, power supply, linkers and mounting plates, and works with Apple Home.",
+   "keywords": "light panels hexagon rgb wall",
+   "specs": {
+    "ecosystem": "Apple Home (HomeKit)",
+    "connectivity": "Wireless",
+    "power": "AC power supply"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-NANOLEAF-ESS-A19-3PK",
+   "slug": "nanoleaf-essentials-matter-a19-3-pack",
+   "name": "Nanoleaf Essentials Matter A19 Smart Bulb (3-pack)",
+   "brand": "Nanoleaf",
+   "category": "smart-lighting",
+   "price": "49.95",
+   "compareAt": null,
+   "warranty": 24,
+   "stock": [
+    27,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [],
+   "summary": "Three Thread and Matter A19 colour bulbs with tunable whites, 16 million colours and circadian lighting.",
+   "description": "Nanoleaf Essentials Matter bulbs work over Thread and Matter with Apple Home, offering tunable whites and 16 million+ colours, scenes and circadian lighting. They require a Thread border router such as HomePod mini. The pack has three A19/E26 bulbs.",
+   "keywords": "smart bulb thread matter a19",
+   "specs": {
+    "ecosystem": "Apple Home, Matter",
+    "connectivity": "Matter over Thread",
+    "power": "E26 socket"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-NANOLEAF-OUTDOOR-STRING",
+   "slug": "nanoleaf-essentials-outdoor-string-lights",
+   "name": "Nanoleaf Essentials Matter Outdoor String Lights Smarter Kit",
+   "brand": "Nanoleaf",
+   "category": "smart-lighting",
+   "price": "129.95",
+   "compareAt": null,
+   "warranty": 24,
+   "stock": [
+    51,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [],
+   "summary": "15 m outdoor string with 20 addressable faceted LED bulbs, IP65 rating and Matter over Thread control.",
+   "description": "The Nanoleaf Outdoor String Lights Smarter Kit is 15 m long with 20 individually addressable faceted LED bulbs, 16 million colours and 2700-6500K whites. The lights are IP65 and the controller IP67. Control is via the Nanoleaf app over Wi-Fi or Bluetooth or Apple Home via a Matter hub; it extends to 45 m.",
+   "keywords": "outdoor string lights patio",
+   "specs": {
+    "ecosystem": "Apple Home, Matter",
+    "connectivity": "Matter over Thread, Wi-Fi, Bluetooth",
+    "power": "AC power adapter"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-NANOLEAF-HD-LIGHTSTRIP",
+   "slug": "nanoleaf-essentials-hd-lightstrip-5m",
+   "name": "Nanoleaf Essentials Matter Smart Multicolor HD Lightstrip (16.4 ft)",
+   "brand": "Nanoleaf",
+   "category": "smart-lighting",
+   "price": "69.95",
+   "compareAt": null,
+   "warranty": 24,
+   "stock": [
+    43,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [],
+   "summary": "5 m addressable HD lightstrip with 60 colour zones per metre, Matter compatibility and music sync.",
+   "description": "The Nanoleaf Essentials HD Lightstrip provides individually addressable gradients with 60 colour zones and LEDs per metre, 16 million colours and 2700-6500K whites. It is cuttable, syncs to music and works with Apple Home, Google Home, Alexa and SmartThings through Matter.",
+   "keywords": "led strip light gradient",
+   "specs": {
+    "ecosystem": "Apple Home, Matter",
+    "connectivity": "Matter, Wi-Fi, Bluetooth",
+    "power": "AC power adapter",
+    "colors": "Multicolor"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-HUE-STARTERKIT-BRIDGEPRO",
+   "slug": "philips-hue-starter-kit-bridge-pro",
+   "name": "Philips Hue Starter Kit: 4 A19 E26 Smart Bulbs + Bridge Pro",
+   "brand": "Philips Hue",
+   "category": "smart-lighting",
+   "price": "289.95",
+   "compareAt": null,
+   "warranty": 24,
+   "stock": [
+    40,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [],
+   "summary": "Hue Bridge Pro with four White and Color Ambiance A19 bulbs, MotionAware sensing and HomeKit support.",
+   "description": "This Philips Hue starter kit pairs the Bridge Pro hub, which supports 150+ lights and 50+ accessories and enables MotionAware motion sensing through lights, with four White and Color Ambiance A19 E26 bulbs of up to 1100 lumens. It works with Apple Home.",
+   "keywords": "hue starter kit bridge pro bulbs",
+   "specs": {
+    "ecosystem": "Apple Home (HomeKit), Hue",
+    "connectivity": "Bluetooth, Hue Bridge Pro",
+    "power": "E26 socket"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-HUE-PLAYBAR-2PK",
+   "slug": "philips-hue-play-light-bar-2-pack",
+   "name": "Philips Hue Play White and Color Ambiance Light Bar (2-pack)",
+   "brand": "Philips Hue",
+   "category": "smart-lighting",
+   "price": "189.95",
+   "compareAt": null,
+   "warranty": 24,
+   "stock": [
+    49,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [],
+   "summary": "Two Hue Play colour light bars for TV backlighting or accent light, with one shared power supply.",
+   "description": "The Hue Play light bar base kit includes two bars with 16 million colours, a power supply that can drive three bars, table stands and TV clips. Bars lie flat, stand upright or mount behind a TV, and require a Hue Bridge (sold separately) for full control and HomeKit.",
+   "keywords": "hue play bar tv backlight",
+   "specs": {
+    "ecosystem": "Apple Home (HomeKit via Hue Bridge)",
+    "connectivity": "Hue Bridge (Zigbee)",
+    "power": "External power supply",
+    "colors": "Black"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-HUE-SIGNE-FLOOR",
+   "slug": "philips-hue-gradient-signe-floor-light",
+   "name": "Philips Hue Gradient Signe Floor Light",
+   "brand": "Philips Hue",
+   "category": "smart-lighting",
+   "price": "379.95",
+   "compareAt": null,
+   "warranty": 24,
+   "stock": [
+    26,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [],
+   "summary": "Slim 146 cm floor lamp that blends multiple colours into a gradient on the wall, with Bluetooth and HomeKit via Bridge.",
+   "description": "The Hue Gradient Signe Floor Light blends several colours at once into a gradient of light, with 16 million colours and full dimming. It stands 146 cm tall, works over Bluetooth, and with a Hue Bridge supports HomeKit and Hue Sync entertainment features.",
+   "keywords": "floor lamp gradient hue",
+   "specs": {
+    "ecosystem": "Apple Home (HomeKit via Hue Bridge)",
+    "connectivity": "Bluetooth, Hue Bridge",
+    "power": "AC 100-240 V",
+    "colors": "Black"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-PHILIPS-FESTAVIA-GLOBE",
+   "slug": "philips-festavia-globe-string-lights",
+   "name": "Philips Festavia Globe String Lights",
+   "brand": "Philips Hue",
+   "category": "smart-lighting",
+   "price": "229.95",
+   "compareAt": null,
+   "warranty": 24,
+   "stock": [
+    28,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [],
+   "summary": "45 ft outdoor string of 16 shatterproof colour globe bulbs with gradients, music sync and HomeKit support.",
+   "description": "Philips Festavia Globe String Lights are 45 ft long with 16 replaceable, shatterproof 50-lumen globe bulbs covering 1000-20000K full-spectrum light, gradients and animated effects with music sync. A low-voltage power supply is included and they work over Bluetooth with HomeKit.",
+   "keywords": "outdoor string lights globe festavia",
+   "specs": {
+    "ecosystem": "Apple Home (HomeKit), Hue",
+    "connectivity": "Bluetooth",
+    "power": "Low-voltage power supply",
+    "colors": "Black"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-GE-CYNC-REVEAL-A19-4PK",
+   "slug": "ge-cync-reveal-smart-a19-4-pack",
+   "name": "GE Cync Reveal Smart A19 Lights (4-pack)",
+   "brand": "GE",
+   "category": "smart-lighting",
+   "price": "49.95",
+   "compareAt": null,
+   "warranty": 36,
+   "stock": [
+    50,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [],
+   "summary": "Four 800-lumen colour A19 smart bulbs with Reveal clarity light, 2000-7000K whites and Matter setup.",
+   "description": "GE Cync Reveal Smart A19 Lights are 60 W-equivalent 800-lumen E26 bulbs with tunable white from 2000K to 7000K, millions of colours and dimming below 1%. They set up in the Cync app or via Matter and work with Siri when connected to HomePod.",
+   "keywords": "smart bulb a19 matter",
+   "specs": {
+    "ecosystem": "Apple Home, Matter",
+    "connectivity": "2.4 GHz Wi-Fi, Bluetooth",
+    "power": "E26 socket",
+    "colors": "White"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-EVE-FLARE",
+   "slug": "eve-flare-portable-lamp",
+   "name": "Eve Flare Portable Smart LED Lamp",
+   "brand": "Eve",
+   "category": "smart-lighting",
+   "price": "99.95",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    18,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [],
+   "summary": "Portable IP65 colour lamp with 6 hours of battery, wireless charging base and Thread/HomeKit control.",
+   "description": "Eve Flare is a portable colour LED lamp with 6+ hours of untethered light, a wireless charging base and IP65 water resistance for outdoor use. It joins Thread networks automatically, supports Bluetooth and Apple Home, and needs no bridge.",
+   "keywords": "portable lamp outdoor rgb thread",
+   "specs": {
+    "ecosystem": "Apple Home (HomeKit)",
+    "connectivity": "Thread, Bluetooth",
+    "power": "Battery with wireless charging base"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-EVE-LIGHTSWITCH-MATTER",
+   "slug": "eve-light-switch-matter",
+   "name": "Eve Light Switch (Matter) Connected Wall Switch",
+   "brand": "Eve",
+   "category": "smart-lighting",
+   "price": "49.95",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    47,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [],
+   "summary": "Matter-over-Thread in-wall switch that replaces a single-pole or 3-way switch to make existing lights smart.",
+   "description": "Eve Light Switch replaces a single-pole switch or one switch of a 3-way setup, letting you control existing lights by app, Siri or the switch. It uses Matter over Thread, supports schedules and scenes, and keeps data local with no Eve cloud. A Matter controller / Thread border router is required.",
+   "keywords": "smart light switch matter thread",
+   "specs": {
+    "ecosystem": "Apple Home, Matter",
+    "connectivity": "Matter over Thread, Bluetooth",
+    "power": "Hardwired AC",
+    "colors": "White"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-EVE-DIMMER-MATTER",
+   "slug": "eve-dimmer-switch-matter",
+   "name": "Eve Dimmer Switch (Matter)",
+   "brand": "Eve",
+   "category": "smart-lighting",
+   "price": "54.95",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    52,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [],
+   "summary": "UL-certified Matter-over-Thread dimmer with a hybrid touch/rocker control that replaces a single-pole switch.",
+   "description": "Eve Dimmer Switch replaces a single-pole switch and adds app, voice and automation control with a hybrid touch button and rocker for incremental dimming. It runs Matter over Thread, stores schedules on-device and keeps data local with no Eve cloud.",
+   "keywords": "dimmer switch matter thread",
+   "specs": {
+    "ecosystem": "Apple Home, Matter",
+    "connectivity": "Matter over Thread, Bluetooth",
+    "power": "Hardwired AC",
+    "colors": "White"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-EVE-ENERGY-MATTER-2PK",
+   "slug": "eve-energy-matter-2-pack",
+   "name": "Eve Energy (Matter) Smart Plug & Power Meter (2-pack)",
+   "brand": "Eve",
+   "category": "hubs-bridges",
+   "price": "69.95",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    56,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [],
+   "summary": "Two UL-certified Matter-over-Thread smart plugs with energy monitoring and local control.",
+   "description": "Eve Energy switches lights and appliances by voice or app and measures energy use in the Eve app. It uses Matter over Thread, works across Apple Home, Google, Alexa and SmartThings, and keeps communication local with no Eve cloud. A Matter controller / Thread border router is required.",
+   "keywords": "smart plug energy meter matter thread",
+   "specs": {
+    "ecosystem": "Apple Home, Matter",
+    "connectivity": "Matter over Thread",
+    "power": "AC outlet",
+    "colors": "White",
+    "configurations": "Single – $39.95 · 2-pack – $69.95"
+   },
+   "options": [
+    {
+     "name": "Configuration",
+     "values": [
+      {
+       "label": "Single",
+       "price": "39.95"
+      },
+      {
+       "label": "2-pack",
+       "price": "69.95",
+       "default": true
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "sku": "TK-EVE-ENERGYSTRIP",
+   "slug": "eve-energy-strip",
+   "name": "Eve Energy Strip Connected Triple Outlet",
+   "brand": "Eve",
+   "category": "hubs-bridges",
+   "price": "99.95",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    51,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [],
+   "summary": "HomeKit Wi-Fi power strip with three individually switched outlets, surge protection and power metering.",
+   "description": "Eve Energy Strip lets you control three outlets individually via the Eve app or Siri and tracks combined power consumption. It has overcurrent, overvoltage and surge protection, an aluminum frame with onboard buttons, and connects directly over 2.4 GHz Wi-Fi with no bridge.",
+   "keywords": "smart power strip surge homekit",
+   "specs": {
+    "ecosystem": "Apple Home (HomeKit)",
+    "connectivity": "2.4 GHz Wi-Fi",
+    "power": "AC 120 V, 15 A / 1800 W max",
+    "colors": "Black"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-EVE-DOORWINDOW-3PK",
+   "slug": "eve-door-window-matter-3-pack",
+   "name": "Eve Door & Window (Matter) Contact Sensor (3-pack)",
+   "brand": "Eve",
+   "category": "hubs-bridges",
+   "price": "109.95",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    28,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [],
+   "summary": "Three battery-powered Matter-over-Thread contact sensors that report open/closed state and trigger automations.",
+   "description": "Eve Door & Window shows whether doors or windows are open, sends notifications and triggers automations. It runs on replaceable 1/2 AA batteries, uses Matter over Thread for cross-platform support, and keeps data private with no Eve cloud.",
+   "keywords": "contact sensor door window matter",
+   "specs": {
+    "ecosystem": "Apple Home, Matter",
+    "connectivity": "Matter over Thread",
+    "power": "1/2 AA battery",
+    "colors": "White",
+    "configurations": "Single – $39.95 · 3-pack – $109.95"
+   },
+   "options": [
+    {
+     "name": "Configuration",
+     "values": [
+      {
+       "label": "Single",
+       "price": "39.95"
+      },
+      {
+       "label": "3-pack",
+       "price": "109.95",
+       "default": true
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "sku": "TK-EVE-MOTION-MATTER-3PK",
+   "slug": "eve-motion-matter-3-pack",
+   "name": "Eve Motion (Matter) Wireless Motion Sensor (3-pack)",
+   "brand": "Eve",
+   "category": "hubs-bridges",
+   "price": "119.95",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    12,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [],
+   "summary": "Three IPX3 battery motion sensors with a 120-degree field of view and 9 m range, using Matter over Thread.",
+   "description": "Eve Motion controls lights and appliances by movement and sends notifications when motion is detected. It has a 120-degree field of view, up to 9 m range, IPX3 water resistance for indoor or outdoor use and AAA batteries, and uses Matter over Thread.",
+   "keywords": "motion sensor matter thread",
+   "specs": {
+    "ecosystem": "Apple Home, Matter",
+    "connectivity": "Matter over Thread",
+    "power": "AAA batteries",
+    "colors": "White",
+    "configurations": "Single – $49.95 · 3-pack – $119.95"
+   },
+   "options": [
+    {
+     "name": "Configuration",
+     "values": [
+      {
+       "label": "Single",
+       "price": "49.95"
+      },
+      {
+       "label": "3-pack",
+       "price": "119.95",
+       "default": true
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "sku": "TK-EVE-WATERGUARD",
+   "slug": "eve-water-guard",
+   "name": "Eve Water Guard Connected Water Leak Detector",
+   "brand": "Eve",
+   "category": "hubs-bridges",
+   "price": "99.95",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    36,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [],
+   "summary": "Plug-in Thread leak detector with a 2 m sensing cable, 100 dB siren and iPhone alerts.",
+   "description": "Eve Water Guard detects leaks along its 2 m sensor cable and alerts you with a 100 dB siren, a red warning light and notifications on iPhone, iPad or Apple Watch. It plugs into an outlet, joins Thread as a router node and needs no bridge.",
+   "keywords": "water leak sensor flood thread",
+   "specs": {
+    "ecosystem": "Apple Home, Matter",
+    "connectivity": "Matter over Thread, Bluetooth",
+    "power": "AC outlet",
+    "colors": "White"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-EVE-WEATHER-MATTER",
+   "slug": "eve-weather-matter",
+   "name": "Eve Weather (Matter) Connected Weather Station",
+   "brand": "Eve",
+   "category": "hubs-bridges",
+   "price": "79.95",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    41,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [],
+   "summary": "Outdoor Matter-over-Thread sensor with display for temperature, humidity and barometric pressure.",
+   "description": "Eve Weather tracks outdoor temperature, humidity and barometric pressure, shows the trend on its display and in the Eve app, and answers Siri. It runs on a CR2450 battery, is water resistant and uses Matter over Thread with no Eve cloud.",
+   "keywords": "weather station temperature humidity",
+   "specs": {
+    "ecosystem": "Apple Home, Matter",
+    "connectivity": "Matter over Thread, Bluetooth",
+    "power": "CR2450 battery",
+    "display": "Built-in LCD",
+    "colors": "Black"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-AQARA-FP300",
+   "slug": "aqara-presence-multi-sensor-fp300",
+   "name": "Aqara Presence Multi-Sensor FP300",
+   "brand": "Aqara",
+   "category": "hubs-bridges",
+   "price": "49.95",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    49,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [],
+   "summary": "Battery mmWave plus PIR presence sensor with light, temperature and humidity sensing over Matter/Thread.",
+   "description": "The Aqara FP300 combines millimetre-wave radar, PIR detection and AI algorithms to detect human presence accurately, and adds light, temperature and humidity sensing. It is battery powered (CR2450) and connects over Matter over Thread or Bluetooth.",
+   "keywords": "presence sensor mmwave matter",
+   "specs": {
+    "ecosystem": "Apple Home, Matter",
+    "connectivity": "Matter over Thread, Bluetooth",
+    "power": "CR2450 battery",
+    "colors": "White"
+   },
+   "options": []
+  }
+ ]
+}

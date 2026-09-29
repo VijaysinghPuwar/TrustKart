@@ -1,0 +1,2935 @@
+{
+ "meta": {
+  "notes": "iPad and Mac accessories currently sold on apple.com/us/shop (ipad/accessories and mac/accessories category pages), Apple-made and third-party. Names, prices (Apple Store US price, recorded as msrp), compatibility, colours and specs read from each apple.com/shop/product page on 2026-09-29. Images are Apple Store product images (store.storeimages.cdn-apple.com, png-alpha). Third-party items are serviced by their makers (Apple's warranty does not apply), so no warranty months recorded for them. Skipped items already in the catalog (Magic Keyboards, Pencil Pro/USB-C, MX Master 4, MX Keys Mini, Wave Keys, Lift, K65 Plus, SanDisk Extreme Portable SSD)."
+ },
+ "products": [
+  {
+   "sku": "TK-APPLE-SMARTFOLIO-IPADMINI-A17",
+   "slug": "apple-smart-folio-ipad-mini-a17-pro",
+   "name": "Apple Smart Folio for iPad mini (A17 Pro)",
+   "brand": "Apple",
+   "category": "cases-protection",
+   "price": "59.00",
+   "priceBasis": "msrp",
+   "priceSource": "https://www.apple.com/shop/product/mc2t4zm/a/smart-folio-for-ipad-mini-a17-pro-light-violet",
+   "priceAsOf": "2026-09-29",
+   "releaseYear": 2024,
+   "summary": "Apple's thin, light magnetic Smart Folio for iPad mini (A17 Pro) with front and back protection, auto wake/sleep and a fold-into-stand cover.",
+   "description": "The Smart Folio for iPad mini (A17 Pro) is thin and light and offers front and back protection. It automatically wakes the iPad when opened and puts it to sleep when closed, attaches magnetically, and folds into different positions to create a stand for reading, viewing, typing, or FaceTime calls.",
+   "keywords": "smart folio ipad case cover ipad mini (a17 pro)",
+   "specs": {
+    "accessoryType": "Folio case",
+    "compatibility": "iPad mini (A17 Pro), iPad mini (6th generation)",
+    "magsafe": false,
+    "colors": "Charcoal Gray, Sage, Denim, Light Violet"
+   },
+   "colors": [
+    "Charcoal Gray",
+    "Sage",
+    "Denim",
+    "Light Violet"
+   ],
+   "image": {
+    "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/MC2Q4?wid=1400&hei=1400&fmt=png-alpha",
+    "page": "https://www.apple.com/shop/product/mc2t4zm/a/smart-folio-for-ipad-mini-a17-pro-light-violet",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official Apple Store product image (store.storeimages.cdn-apple.com); Apple has not granted a reuse license - rights not verified.",
+    "alt": "Apple Smart Folio for iPad mini (A17 Pro) in Charcoal Gray, front exterior view",
+    "match": "EXACT",
+    "credit": "Apple"
+   },
+   "colorImages": {
+    "Charcoal Gray": {
+     "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/MC2Q4?wid=1400&hei=1400&fmt=png-alpha",
+     "page": "https://www.apple.com/shop/product/mc2t4zm/a/smart-folio-for-ipad-mini-a17-pro-light-violet",
+     "sourceType": "manufacturer-product-page",
+     "rights": "Official Apple Store product image (store.storeimages.cdn-apple.com); Apple has not granted a reuse license - rights not verified.",
+     "alt": "Apple Smart Folio for iPad mini (A17 Pro) in Charcoal Gray, front exterior view",
+     "match": "EXACT",
+     "credit": "Apple"
+    },
+    "Sage": {
+     "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/MC2V4?wid=1400&hei=1400&fmt=png-alpha",
+     "page": "https://www.apple.com/shop/product/mc2t4zm/a/smart-folio-for-ipad-mini-a17-pro-light-violet",
+     "sourceType": "manufacturer-product-page",
+     "rights": "Official Apple Store product image (store.storeimages.cdn-apple.com); Apple has not granted a reuse license - rights not verified.",
+     "alt": "Apple Smart Folio for iPad mini (A17 Pro) in Sage, front exterior view",
+     "match": "EXACT",
+     "credit": "Apple"
+    },
+    "Denim": {
+     "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/MC2U4?wid=1400&hei=1400&fmt=png-alpha",
+     "page": "https://www.apple.com/shop/product/mc2t4zm/a/smart-folio-for-ipad-mini-a17-pro-light-violet",
+     "sourceType": "manufacturer-product-page",
+     "rights": "Official Apple Store product image (store.storeimages.cdn-apple.com); Apple has not granted a reuse license - rights not verified.",
+     "alt": "Apple Smart Folio for iPad mini (A17 Pro) in Denim, front exterior view",
+     "match": "EXACT",
+     "credit": "Apple"
+    },
+    "Light Violet": {
+     "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/MC2T4?wid=1400&hei=1400&fmt=png-alpha",
+     "page": "https://www.apple.com/shop/product/mc2t4zm/a/smart-folio-for-ipad-mini-a17-pro-light-violet",
+     "sourceType": "manufacturer-product-page",
+     "rights": "Official Apple Store product image (store.storeimages.cdn-apple.com); Apple has not granted a reuse license - rights not verified.",
+     "alt": "Apple Smart Folio for iPad mini (A17 Pro) in Light Violet, front exterior view",
+     "match": "EXACT",
+     "credit": "Apple"
+    }
+   },
+   "collections": [
+    "apple-ecosystem"
+   ],
+   "featured": false,
+   "warranty": 12,
+   "sources": {
+    "product": "https://www.apple.com/shop/product/mc2t4zm/a/smart-folio-for-ipad-mini-a17-pro-light-violet",
+    "retrievedAt": "2026-09-29"
+   }
+  },
+  {
+   "sku": "TK-APPLE-SMARTFOLIO-IPAD-A16",
+   "slug": "apple-smart-folio-ipad-a16",
+   "name": "Apple Smart Folio for iPad (A16)",
+   "brand": "Apple",
+   "category": "cases-protection",
+   "price": "79.00",
+   "priceBasis": "msrp",
+   "priceSource": "https://www.apple.com/shop/product/mdeq4zm/a/smart-folio-for-ipad-a16-sky",
+   "priceAsOf": "2026-09-29",
+   "releaseYear": 2025,
+   "summary": "Apple's thin, light magnetic Smart Folio for iPad (A16) with front and back protection, auto wake/sleep and a fold-into-stand cover.",
+   "description": "The Smart Folio for iPad (A16) is thin and light and offers front and back protection. It automatically wakes the iPad when opened and puts it to sleep when closed, attaches magnetically, and folds into different positions to create a stand for reading, viewing, typing, or FaceTime calls.",
+   "keywords": "smart folio ipad case cover ipad (a16)",
+   "specs": {
+    "accessoryType": "Folio case",
+    "compatibility": "iPad (A16), iPad (10th generation)",
+    "magsafe": false,
+    "colors": "Sky, White, Watermelon, Lemonade"
+   },
+   "colors": [
+    "Sky",
+    "White",
+    "Watermelon",
+    "Lemonade"
+   ],
+   "image": {
+    "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/MDEQ4?wid=1400&hei=1400&fmt=png-alpha",
+    "page": "https://www.apple.com/shop/product/mdeq4zm/a/smart-folio-for-ipad-a16-sky",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official Apple Store product image (store.storeimages.cdn-apple.com); Apple has not granted a reuse license - rights not verified.",
+    "alt": "Apple Smart Folio for iPad (A16) in Sky, front exterior view",
+    "match": "EXACT",
+    "credit": "Apple"
+   },
+   "colorImages": {
+    "Sky": {
+     "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/MDEQ4?wid=1400&hei=1400&fmt=png-alpha",
+     "page": "https://www.apple.com/shop/product/mdeq4zm/a/smart-folio-for-ipad-a16-sky",
+     "sourceType": "manufacturer-product-page",
+     "rights": "Official Apple Store product image (store.storeimages.cdn-apple.com); Apple has not granted a reuse license - rights not verified.",
+     "alt": "Apple Smart Folio for iPad (A16) in Sky, front exterior view",
+     "match": "EXACT",
+     "credit": "Apple"
+    },
+    "White": {
+     "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/MDEJ4?wid=1400&hei=1400&fmt=png-alpha",
+     "page": "https://www.apple.com/shop/product/mdeq4zm/a/smart-folio-for-ipad-a16-sky",
+     "sourceType": "manufacturer-product-page",
+     "rights": "Official Apple Store product image (store.storeimages.cdn-apple.com); Apple has not granted a reuse license - rights not verified.",
+     "alt": "Apple Smart Folio for iPad (A16) in White, front exterior view",
+     "match": "EXACT",
+     "credit": "Apple"
+    },
+    "Watermelon": {
+     "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/MDEP4?wid=1400&hei=1400&fmt=png-alpha",
+     "page": "https://www.apple.com/shop/product/mdeq4zm/a/smart-folio-for-ipad-a16-sky",
+     "sourceType": "manufacturer-product-page",
+     "rights": "Official Apple Store product image (store.storeimages.cdn-apple.com); Apple has not granted a reuse license - rights not verified.",
+     "alt": "Apple Smart Folio for iPad (A16) in Watermelon, front exterior view",
+     "match": "EXACT",
+     "credit": "Apple"
+    },
+    "Lemonade": {
+     "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/MDEN4?wid=1400&hei=1400&fmt=png-alpha",
+     "page": "https://www.apple.com/shop/product/mdeq4zm/a/smart-folio-for-ipad-a16-sky",
+     "sourceType": "manufacturer-product-page",
+     "rights": "Official Apple Store product image (store.storeimages.cdn-apple.com); Apple has not granted a reuse license - rights not verified.",
+     "alt": "Apple Smart Folio for iPad (A16) in Lemonade, front exterior view",
+     "match": "EXACT",
+     "credit": "Apple"
+    }
+   },
+   "collections": [
+    "apple-ecosystem"
+   ],
+   "featured": false,
+   "warranty": 12,
+   "sources": {
+    "product": "https://www.apple.com/shop/product/mdeq4zm/a/smart-folio-for-ipad-a16-sky",
+    "retrievedAt": "2026-09-29"
+   }
+  },
+  {
+   "sku": "TK-APPLE-SMARTFOLIO-IPADAIR11-M4",
+   "slug": "apple-smart-folio-ipad-air-11-m4",
+   "name": "Apple Smart Folio for iPad Air 11-inch (M4)",
+   "brand": "Apple",
+   "category": "cases-protection",
+   "price": "79.00",
+   "priceBasis": "msrp",
+   "priceSource": "https://www.apple.com/shop/product/mwk83zm/a/smart-folio-for-ipad-air-11-inch-m4-light-violet",
+   "priceAsOf": "2026-09-29",
+   "summary": "Apple's thin, light magnetic Smart Folio for iPad Air 11-inch (M4) with front and back protection, auto wake/sleep and a fold-into-stand cover.",
+   "description": "The Smart Folio for iPad Air 11-inch (M4) supports a wider range of viewing angles for reading, watching movies, typing, or making FaceTime calls. It automatically wakes the iPad when opened and puts it to sleep when closed. Thin and light, it protects the front and back of the iPad.",
+   "keywords": "smart folio ipad case cover ipad air 11-inch (m4)",
+   "specs": {
+    "accessoryType": "Folio case",
+    "compatibility": "iPad Air 11-inch (M4, M3, M2), iPad Air (5th and 4th generation)",
+    "magsafe": false,
+    "colors": "Charcoal Gray, Sage, Denim, Light Violet"
+   },
+   "colors": [
+    "Charcoal Gray",
+    "Sage",
+    "Denim",
+    "Light Violet"
+   ],
+   "image": {
+    "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/MWK53?wid=1400&hei=1400&fmt=png-alpha",
+    "page": "https://www.apple.com/shop/product/mwk83zm/a/smart-folio-for-ipad-air-11-inch-m4-light-violet",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official Apple Store product image (store.storeimages.cdn-apple.com); Apple has not granted a reuse license - rights not verified.",
+    "alt": "Apple Smart Folio for iPad Air 11-inch (M4) in Charcoal Gray, front exterior view",
+    "match": "EXACT",
+    "credit": "Apple"
+   },
+   "colorImages": {
+    "Charcoal Gray": {
+     "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/MWK53?wid=1400&hei=1400&fmt=png-alpha",
+     "page": "https://www.apple.com/shop/product/mwk83zm/a/smart-folio-for-ipad-air-11-inch-m4-light-violet",
+     "sourceType": "manufacturer-product-page",
+     "rights": "Official Apple Store product image (store.storeimages.cdn-apple.com); Apple has not granted a reuse license - rights not verified.",
+     "alt": "Apple Smart Folio for iPad Air 11-inch (M4) in Charcoal Gray, front exterior view",
+     "match": "EXACT",
+     "credit": "Apple"
+    },
+    "Sage": {
+     "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/MWK73?wid=1400&hei=1400&fmt=png-alpha",
+     "page": "https://www.apple.com/shop/product/mwk83zm/a/smart-folio-for-ipad-air-11-inch-m4-light-violet",
+     "sourceType": "manufacturer-product-page",
+     "rights": "Official Apple Store product image (store.storeimages.cdn-apple.com); Apple has not granted a reuse license - rights not verified.",
+     "alt": "Apple Smart Folio for iPad Air 11-inch (M4) in Sage, front exterior view",
+     "match": "EXACT",
+     "credit": "Apple"
+    },
+    "Denim": {
+     "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/MWK63?wid=1400&hei=1400&fmt=png-alpha",
+     "page": "https://www.apple.com/shop/product/mwk83zm/a/smart-folio-for-ipad-air-11-inch-m4-light-violet",
+     "sourceType": "manufacturer-product-page",
+     "rights": "Official Apple Store product image (store.storeimages.cdn-apple.com); Apple has not granted a reuse license - rights not verified.",
+     "alt": "Apple Smart Folio for iPad Air 11-inch (M4) in Denim, front exterior view",
+     "match": "EXACT",
+     "credit": "Apple"
+    },
+    "Light Violet": {
+     "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/MWK83?wid=1400&hei=1400&fmt=png-alpha",
+     "page": "https://www.apple.com/shop/product/mwk83zm/a/smart-folio-for-ipad-air-11-inch-m4-light-violet",
+     "sourceType": "manufacturer-product-page",
+     "rights": "Official Apple Store product image (store.storeimages.cdn-apple.com); Apple has not granted a reuse license - rights not verified.",
+     "alt": "Apple Smart Folio for iPad Air 11-inch (M4) in Light Violet, front exterior view",
+     "match": "EXACT",
+     "credit": "Apple"
+    }
+   },
+   "collections": [
+    "apple-ecosystem"
+   ],
+   "featured": false,
+   "warranty": 12,
+   "sources": {
+    "product": "https://www.apple.com/shop/product/mwk83zm/a/smart-folio-for-ipad-air-11-inch-m4-light-violet",
+    "retrievedAt": "2026-09-29"
+   }
+  },
+  {
+   "sku": "TK-APPLE-SMARTFOLIO-IPADAIR13-M4",
+   "slug": "apple-smart-folio-ipad-air-13-m4",
+   "name": "Apple Smart Folio for iPad Air 13-inch (M4)",
+   "brand": "Apple",
+   "category": "cases-protection",
+   "price": "99.00",
+   "priceBasis": "msrp",
+   "priceSource": "https://www.apple.com/shop/product/mwkc3zm/a/smart-folio-for-ipad-air-13-inch-m4-sage",
+   "priceAsOf": "2026-09-29",
+   "summary": "Apple's thin, light magnetic Smart Folio for iPad Air 13-inch (M4) with front and back protection, auto wake/sleep and a fold-into-stand cover.",
+   "description": "The Smart Folio for iPad Air 13-inch (M4) supports a wider range of viewing angles for reading, watching movies, typing, or making FaceTime calls. It automatically wakes the iPad when opened and puts it to sleep when closed. Thin and light, it protects the front and back of the iPad.",
+   "keywords": "smart folio ipad case cover ipad air 13-inch (m4)",
+   "specs": {
+    "accessoryType": "Folio case",
+    "compatibility": "iPad Air 13-inch (M4, M3, M2)",
+    "magsafe": false,
+    "colors": "Charcoal Gray, Sage, Denim, Light Violet"
+   },
+   "colors": [
+    "Charcoal Gray",
+    "Sage",
+    "Denim",
+    "Light Violet"
+   ],
+   "image": {
+    "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/MWK93?wid=1400&hei=1400&fmt=png-alpha",
+    "page": "https://www.apple.com/shop/product/mwkc3zm/a/smart-folio-for-ipad-air-13-inch-m4-sage",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official Apple Store product image (store.storeimages.cdn-apple.com); Apple has not granted a reuse license - rights not verified.",
+    "alt": "Apple Smart Folio for iPad Air 13-inch (M4) in Charcoal Gray, front exterior view",
+    "match": "EXACT",
+    "credit": "Apple"
+   },
+   "colorImages": {
+    "Charcoal Gray": {
+     "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/MWK93?wid=1400&hei=1400&fmt=png-alpha",
+     "page": "https://www.apple.com/shop/product/mwkc3zm/a/smart-folio-for-ipad-air-13-inch-m4-sage",
+     "sourceType": "manufacturer-product-page",
+     "rights": "Official Apple Store product image (store.storeimages.cdn-apple.com); Apple has not granted a reuse license - rights not verified.",
+     "alt": "Apple Smart Folio for iPad Air 13-inch (M4) in Charcoal Gray, front exterior view",
+     "match": "EXACT",
+     "credit": "Apple"
+    },
+    "Sage": {
+     "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/MWKC3?wid=1400&hei=1400&fmt=png-alpha",
+     "page": "https://www.apple.com/shop/product/mwkc3zm/a/smart-folio-for-ipad-air-13-inch-m4-sage",
+     "sourceType": "manufacturer-product-page",
+     "rights": "Official Apple Store product image (store.storeimages.cdn-apple.com); Apple has not granted a reuse license - rights not verified.",
+     "alt": "Apple Smart Folio for iPad Air 13-inch (M4) in Sage, front exterior view",
+     "match": "EXACT",
+     "credit": "Apple"
+    },
+    "Denim": {
+     "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/MWKA3?wid=1400&hei=1400&fmt=png-alpha",
+     "page": "https://www.apple.com/shop/product/mwkc3zm/a/smart-folio-for-ipad-air-13-inch-m4-sage",
+     "sourceType": "manufacturer-product-page",
+     "rights": "Official Apple Store product image (store.storeimages.cdn-apple.com); Apple has not granted a reuse license - rights not verified.",
+     "alt": "Apple Smart Folio for iPad Air 13-inch (M4) in Denim, front exterior view",
+     "match": "EXACT",
+     "credit": "Apple"
+    },
+    "Light Violet": {
+     "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/MWKD3?wid=1400&hei=1400&fmt=png-alpha",
+     "page": "https://www.apple.com/shop/product/mwkc3zm/a/smart-folio-for-ipad-air-13-inch-m4-sage",
+     "sourceType": "manufacturer-product-page",
+     "rights": "Official Apple Store product image (store.storeimages.cdn-apple.com); Apple has not granted a reuse license - rights not verified.",
+     "alt": "Apple Smart Folio for iPad Air 13-inch (M4) in Light Violet, front exterior view",
+     "match": "EXACT",
+     "credit": "Apple"
+    }
+   },
+   "collections": [
+    "apple-ecosystem"
+   ],
+   "featured": false,
+   "warranty": 12,
+   "sources": {
+    "product": "https://www.apple.com/shop/product/mwkc3zm/a/smart-folio-for-ipad-air-13-inch-m4-sage",
+    "retrievedAt": "2026-09-29"
+   }
+  },
+  {
+   "sku": "TK-APPLE-SMARTFOLIO-IPADPRO11-M5",
+   "slug": "apple-smart-folio-ipad-pro-11-m5",
+   "name": "Apple Smart Folio for iPad Pro 11-inch (M5)",
+   "brand": "Apple",
+   "category": "cases-protection",
+   "price": "79.00",
+   "priceBasis": "msrp",
+   "priceSource": "https://www.apple.com/shop/product/mw993zm/a/smart-folio-for-ipad-pro-11-inch-m5-denim",
+   "priceAsOf": "2026-09-29",
+   "summary": "Apple's thin, light magnetic Smart Folio for iPad Pro 11-inch (M5) with front and back protection, auto wake/sleep and a fold-into-stand cover.",
+   "description": "The Smart Folio for iPad Pro 11-inch (M5) supports a wider range of viewing angles for reading, watching movies, typing, or making FaceTime calls. It automatically wakes the iPad when opened and puts it to sleep when closed. Thin and light, it protects the front and back of the iPad.",
+   "keywords": "smart folio ipad case cover ipad pro 11-inch (m5)",
+   "specs": {
+    "accessoryType": "Folio case",
+    "compatibility": "iPad Pro 11-inch (M5), iPad Pro 11-inch (M4)",
+    "magsafe": false,
+    "colors": "White, Black, Denim"
+   },
+   "colors": [
+    "White",
+    "Black",
+    "Denim"
+   ],
+   "image": {
+    "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/MW973?wid=1400&hei=1400&fmt=png-alpha",
+    "page": "https://www.apple.com/shop/product/mw993zm/a/smart-folio-for-ipad-pro-11-inch-m5-denim",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official Apple Store product image (store.storeimages.cdn-apple.com); Apple has not granted a reuse license - rights not verified.",
+    "alt": "Apple Smart Folio for iPad Pro 11-inch (M5) in White, front exterior view",
+    "match": "EXACT",
+    "credit": "Apple"
+   },
+   "colorImages": {
+    "White": {
+     "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/MW973?wid=1400&hei=1400&fmt=png-alpha",
+     "page": "https://www.apple.com/shop/product/mw993zm/a/smart-folio-for-ipad-pro-11-inch-m5-denim",
+     "sourceType": "manufacturer-product-page",
+     "rights": "Official Apple Store product image (store.storeimages.cdn-apple.com); Apple has not granted a reuse license - rights not verified.",
+     "alt": "Apple Smart Folio for iPad Pro 11-inch (M5) in White, front exterior view",
+     "match": "EXACT",
+     "credit": "Apple"
+    },
+    "Black": {
+     "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/MW983?wid=1400&hei=1400&fmt=png-alpha",
+     "page": "https://www.apple.com/shop/product/mw993zm/a/smart-folio-for-ipad-pro-11-inch-m5-denim",
+     "sourceType": "manufacturer-product-page",
+     "rights": "Official Apple Store product image (store.storeimages.cdn-apple.com); Apple has not granted a reuse license - rights not verified.",
+     "alt": "Apple Smart Folio for iPad Pro 11-inch (M5) in Black, front exterior view",
+     "match": "EXACT",
+     "credit": "Apple"
+    },
+    "Denim": {
+     "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/MW993?wid=1400&hei=1400&fmt=png-alpha",
+     "page": "https://www.apple.com/shop/product/mw993zm/a/smart-folio-for-ipad-pro-11-inch-m5-denim",
+     "sourceType": "manufacturer-product-page",
+     "rights": "Official Apple Store product image (store.storeimages.cdn-apple.com); Apple has not granted a reuse license - rights not verified.",
+     "alt": "Apple Smart Folio for iPad Pro 11-inch (M5) in Denim, front exterior view",
+     "match": "EXACT",
+     "credit": "Apple"
+    }
+   },
+   "collections": [
+    "apple-ecosystem"
+   ],
+   "featured": true,
+   "warranty": 12,
+   "sources": {
+    "product": "https://www.apple.com/shop/product/mw993zm/a/smart-folio-for-ipad-pro-11-inch-m5-denim",
+    "retrievedAt": "2026-09-29"
+   }
+  },
+  {
+   "sku": "TK-APPLE-SMARTFOLIO-IPADPRO13-M5",
+   "slug": "apple-smart-folio-ipad-pro-13-m5",
+   "name": "Apple Smart Folio for iPad Pro 13-inch (M5)",
+   "brand": "Apple",
+   "category": "cases-protection",
+   "price": "99.00",
+   "priceBasis": "msrp",
+   "priceSource": "https://www.apple.com/shop/product/mwk33zm/a/smart-folio-for-ipad-pro-13-inch-m5-black",
+   "priceAsOf": "2026-09-29",
+   "summary": "Apple's thin, light magnetic Smart Folio for iPad Pro 13-inch (M5) with front and back protection, auto wake/sleep and a fold-into-stand cover.",
+   "description": "The Smart Folio for iPad Pro 13-inch (M5) supports a wider range of viewing angles for reading, watching movies, typing, or making FaceTime calls. It automatically wakes the iPad when opened and puts it to sleep when closed. Thin and light, it protects the front and back of the iPad.",
+   "keywords": "smart folio ipad case cover ipad pro 13-inch (m5)",
+   "specs": {
+    "accessoryType": "Folio case",
+    "compatibility": "iPad Pro 13-inch (M5), iPad Pro 13-inch (M4)",
+    "magsafe": false,
+    "colors": "White, Black, Denim"
+   },
+   "colors": [
+    "White",
+    "Black",
+    "Denim"
+   ],
+   "image": {
+    "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/MWK23?wid=1400&hei=1400&fmt=png-alpha",
+    "page": "https://www.apple.com/shop/product/mwk33zm/a/smart-folio-for-ipad-pro-13-inch-m5-black",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official Apple Store product image (store.storeimages.cdn-apple.com); Apple has not granted a reuse license - rights not verified.",
+    "alt": "Apple Smart Folio for iPad Pro 13-inch (M5) in White, front exterior view",
+    "match": "EXACT",
+    "credit": "Apple"
+   },
+   "colorImages": {
+    "White": {
+     "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/MWK23?wid=1400&hei=1400&fmt=png-alpha",
+     "page": "https://www.apple.com/shop/product/mwk33zm/a/smart-folio-for-ipad-pro-13-inch-m5-black",
+     "sourceType": "manufacturer-product-page",
+     "rights": "Official Apple Store product image (store.storeimages.cdn-apple.com); Apple has not granted a reuse license - rights not verified.",
+     "alt": "Apple Smart Folio for iPad Pro 13-inch (M5) in White, front exterior view",
+     "match": "EXACT",
+     "credit": "Apple"
+    },
+    "Black": {
+     "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/MWK33?wid=1400&hei=1400&fmt=png-alpha",
+     "page": "https://www.apple.com/shop/product/mwk33zm/a/smart-folio-for-ipad-pro-13-inch-m5-black",
+     "sourceType": "manufacturer-product-page",
+     "rights": "Official Apple Store product image (store.storeimages.cdn-apple.com); Apple has not granted a reuse license - rights not verified.",
+     "alt": "Apple Smart Folio for iPad Pro 13-inch (M5) in Black, front exterior view",
+     "match": "EXACT",
+     "credit": "Apple"
+    },
+    "Denim": {
+     "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/MWK43?wid=1400&hei=1400&fmt=png-alpha",
+     "page": "https://www.apple.com/shop/product/mwk33zm/a/smart-folio-for-ipad-pro-13-inch-m5-black",
+     "sourceType": "manufacturer-product-page",
+     "rights": "Official Apple Store product image (store.storeimages.cdn-apple.com); Apple has not granted a reuse license - rights not verified.",
+     "alt": "Apple Smart Folio for iPad Pro 13-inch (M5) in Denim, front exterior view",
+     "match": "EXACT",
+     "credit": "Apple"
+    }
+   },
+   "collections": [
+    "apple-ecosystem"
+   ],
+   "featured": false,
+   "warranty": 12,
+   "sources": {
+    "product": "https://www.apple.com/shop/product/mwk33zm/a/smart-folio-for-ipad-pro-13-inch-m5-black",
+    "retrievedAt": "2026-09-29"
+   }
+  },
+  {
+   "sku": "TK-MOFT-FLOATFOLIO-IPADPRO11",
+   "slug": "moft-float-folio-ipad-pro-11",
+   "name": "MOFT Float Folio for 11-inch iPad Pro",
+   "brand": "MOFT",
+   "category": "cases-protection",
+   "price": "59.95",
+   "priceBasis": "msrp",
+   "priceSource": "https://www.apple.com/shop/product/hs7j2zm/a/moft-float-folio-for-11-ipad-pro",
+   "priceAsOf": "2026-09-29",
+   "summary": "Single-piece vegan-leather folio for the 11-inch iPad Pro that folds into an eye-level stand, lifting the iPad 3.1 inches.",
+   "description": "The MOFT Float Folio for 11-inch iPad Pro is a light folio case with a single-piece structure that folds into a workstation, lifting iPad up 3.1 inches. It offers Floating, Focus and Drawing modes and is made of MOVAS vegan leather that shields all four corners. Weight: 303 g (Apple Store listing).",
+   "keywords": "moft float folio ipad case stand ipad pro",
+   "specs": {
+    "accessoryType": "Folio case with stand",
+    "compatibility": "iPad Pro 11-inch (M5), iPad Pro 11-inch (M4)",
+    "material": "Vegan leather (MOVAS)",
+    "magsafe": false,
+    "colors": "White, Black"
+   },
+   "colors": [
+    "White",
+    "Black"
+   ],
+   "image": {
+    "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/HS7J2?wid=1400&hei=1400&fmt=png-alpha",
+    "page": "https://www.apple.com/shop/product/hs7j2zm/a/moft-float-folio-for-11-ipad-pro",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official Apple Store product image of a MOFT product (store.storeimages.cdn-apple.com); no reuse license granted by Apple or MOFT - rights not verified.",
+    "alt": "MOFT Float Folio for 11-inch iPad Pro in White, front exterior with Apple Pencil holder",
+    "match": "EXACT",
+    "credit": "MOFT"
+   },
+   "colorImages": {
+    "White": {
+     "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/HS7J2?wid=1400&hei=1400&fmt=png-alpha",
+     "page": "https://www.apple.com/shop/product/hs7j2zm/a/moft-float-folio-for-11-ipad-pro",
+     "sourceType": "manufacturer-product-page",
+     "rights": "Official Apple Store product image of a MOFT product (store.storeimages.cdn-apple.com); no reuse license granted by Apple or MOFT - rights not verified.",
+     "alt": "MOFT Float Folio for 11-inch iPad Pro in White, front exterior with Apple Pencil holder",
+     "match": "EXACT",
+     "credit": "MOFT"
+    },
+    "Black": {
+     "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/HS7H2?wid=1400&hei=1400&fmt=png-alpha",
+     "page": "https://www.apple.com/shop/product/hs7j2zm/a/moft-float-folio-for-11-ipad-pro",
+     "sourceType": "manufacturer-product-page",
+     "rights": "Official Apple Store product image of a MOFT product (store.storeimages.cdn-apple.com); no reuse license granted by Apple or MOFT - rights not verified.",
+     "alt": "MOFT Float Folio for 11-inch iPad Pro in Black, front exterior with Apple Pencil holder",
+     "match": "EXACT",
+     "credit": "MOFT"
+    }
+   },
+   "collections": [
+    "apple-ecosystem"
+   ],
+   "featured": false,
+   "sources": {
+    "product": "https://www.apple.com/shop/product/hs7j2zm/a/moft-float-folio-for-11-ipad-pro",
+    "retrievedAt": "2026-09-29"
+   }
+  },
+  {
+   "sku": "TK-MOFT-FLOATFOLIO-IPADPRO13",
+   "slug": "moft-float-folio-ipad-pro-13",
+   "name": "MOFT Float Folio for 13-inch iPad Pro",
+   "brand": "MOFT",
+   "category": "cases-protection",
+   "price": "69.95",
+   "priceBasis": "msrp",
+   "priceSource": "https://www.apple.com/shop/product/hs7n2zm/a/moft-float-folio-for-13-ipad-pro",
+   "priceAsOf": "2026-09-29",
+   "summary": "Single-piece vegan-leather folio for the 13-inch iPad Pro that folds into an eye-level stand, lifting the iPad 3.1 inches.",
+   "description": "The MOFT Float Folio for 13-inch iPad Pro is a light folio case with a single-piece structure that folds into a workstation, lifting iPad up 3.1 inches. It offers Floating, Focus and Drawing modes and is made of MOVAS vegan leather that shields all four corners. Weight: 410 g (Apple Store listing).",
+   "keywords": "moft float folio ipad case stand ipad pro",
+   "specs": {
+    "accessoryType": "Folio case with stand",
+    "compatibility": "iPad Pro 13-inch (M5), iPad Pro 13-inch (M4)",
+    "material": "Vegan leather (MOVAS)",
+    "magsafe": false,
+    "colors": "White, Black"
+   },
+   "colors": [
+    "White",
+    "Black"
+   ],
+   "image": {
+    "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/HS7M2?wid=1400&hei=1400&fmt=png-alpha",
+    "page": "https://www.apple.com/shop/product/hs7n2zm/a/moft-float-folio-for-13-ipad-pro",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official Apple Store product image of a MOFT product (store.storeimages.cdn-apple.com); no reuse license granted by Apple or MOFT - rights not verified.",
+    "alt": "MOFT Float Folio for 13-inch iPad Pro in White, front exterior with Apple Pencil holder",
+    "match": "EXACT",
+    "credit": "MOFT"
+   },
+   "colorImages": {
+    "White": {
+     "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/HS7M2?wid=1400&hei=1400&fmt=png-alpha",
+     "page": "https://www.apple.com/shop/product/hs7n2zm/a/moft-float-folio-for-13-ipad-pro",
+     "sourceType": "manufacturer-product-page",
+     "rights": "Official Apple Store product image of a MOFT product (store.storeimages.cdn-apple.com); no reuse license granted by Apple or MOFT - rights not verified.",
+     "alt": "MOFT Float Folio for 13-inch iPad Pro in White, front exterior with Apple Pencil holder",
+     "match": "EXACT",
+     "credit": "MOFT"
+    },
+    "Black": {
+     "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/HS7N2?wid=1400&hei=1400&fmt=png-alpha",
+     "page": "https://www.apple.com/shop/product/hs7n2zm/a/moft-float-folio-for-13-ipad-pro",
+     "sourceType": "manufacturer-product-page",
+     "rights": "Official Apple Store product image of a MOFT product (store.storeimages.cdn-apple.com); no reuse license granted by Apple or MOFT - rights not verified.",
+     "alt": "MOFT Float Folio for 13-inch iPad Pro in Black, front exterior with Apple Pencil holder",
+     "match": "EXACT",
+     "credit": "MOFT"
+    }
+   },
+   "collections": [
+    "apple-ecosystem"
+   ],
+   "featured": false,
+   "sources": {
+    "product": "https://www.apple.com/shop/product/hs7n2zm/a/moft-float-folio-for-13-ipad-pro",
+    "retrievedAt": "2026-09-29"
+   }
+  },
+  {
+   "sku": "TK-MOFT-FLOATFOLIO-IPADAIR11",
+   "slug": "moft-float-folio-ipad-air-11",
+   "name": "MOFT Float Folio for 11-inch iPad Air",
+   "brand": "MOFT",
+   "category": "cases-protection",
+   "price": "59.95",
+   "priceBasis": "msrp",
+   "priceSource": "https://www.apple.com/shop/product/hs7l2zm/a/moft-float-folio-for-11-ipad-air",
+   "priceAsOf": "2026-09-29",
+   "summary": "Single-piece vegan-leather folio for the 11-inch iPad Air that folds into an eye-level stand, lifting the iPad 3.1 inches.",
+   "description": "The MOFT Float Folio for 11-inch iPad Air is a light folio case with a single-piece structure that folds into a workstation, lifting iPad up 3.1 inches. It offers Floating, Focus and Drawing modes and is made of MOVAS vegan leather that shields all four corners. Weight: 307 g (Apple Store listing).",
+   "keywords": "moft float folio ipad case stand ipad air",
+   "specs": {
+    "accessoryType": "Folio case with stand",
+    "compatibility": "iPad Air 11-inch (M4, M3, M2), iPad Air (5th generation)",
+    "material": "Vegan leather (MOVAS)",
+    "magsafe": false,
+    "colors": "White, Black"
+   },
+   "colors": [
+    "White",
+    "Black"
+   ],
+   "image": {
+    "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/HS7L2?wid=1400&hei=1400&fmt=png-alpha",
+    "page": "https://www.apple.com/shop/product/hs7l2zm/a/moft-float-folio-for-11-ipad-air",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official Apple Store product image of a MOFT product (store.storeimages.cdn-apple.com); no reuse license granted by Apple or MOFT - rights not verified.",
+    "alt": "MOFT Float Folio for 11-inch iPad Air in White, front exterior with Apple Pencil holder",
+    "match": "EXACT",
+    "credit": "MOFT"
+   },
+   "colorImages": {
+    "White": {
+     "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/HS7L2?wid=1400&hei=1400&fmt=png-alpha",
+     "page": "https://www.apple.com/shop/product/hs7l2zm/a/moft-float-folio-for-11-ipad-air",
+     "sourceType": "manufacturer-product-page",
+     "rights": "Official Apple Store product image of a MOFT product (store.storeimages.cdn-apple.com); no reuse license granted by Apple or MOFT - rights not verified.",
+     "alt": "MOFT Float Folio for 11-inch iPad Air in White, front exterior with Apple Pencil holder",
+     "match": "EXACT",
+     "credit": "MOFT"
+    },
+    "Black": {
+     "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/HS7K2?wid=1400&hei=1400&fmt=png-alpha",
+     "page": "https://www.apple.com/shop/product/hs7l2zm/a/moft-float-folio-for-11-ipad-air",
+     "sourceType": "manufacturer-product-page",
+     "rights": "Official Apple Store product image of a MOFT product (store.storeimages.cdn-apple.com); no reuse license granted by Apple or MOFT - rights not verified.",
+     "alt": "MOFT Float Folio for 11-inch iPad Air in Black, front exterior with Apple Pencil holder",
+     "match": "EXACT",
+     "credit": "MOFT"
+    }
+   },
+   "collections": [
+    "apple-ecosystem"
+   ],
+   "featured": false,
+   "sources": {
+    "product": "https://www.apple.com/shop/product/hs7l2zm/a/moft-float-folio-for-11-ipad-air",
+    "retrievedAt": "2026-09-29"
+   }
+  },
+  {
+   "sku": "TK-MOFT-FLOATFOLIO-IPADAIR13",
+   "slug": "moft-float-folio-ipad-air-13",
+   "name": "MOFT Float Folio for 13-inch iPad Air",
+   "brand": "MOFT",
+   "category": "cases-protection",
+   "price": "69.95",
+   "priceBasis": "msrp",
+   "priceSource": "https://www.apple.com/shop/product/hs7q2zm/a/moft-float-folio-for-13-ipad-air",
+   "priceAsOf": "2026-09-29",
+   "summary": "Single-piece vegan-leather folio for the 13-inch iPad Air that folds into an eye-level stand, lifting the iPad 3.1 inches.",
+   "description": "The MOFT Float Folio for 13-inch iPad Air is a light folio case with a single-piece structure that folds into a workstation, lifting iPad up 3.1 inches. It offers Floating, Focus and Drawing modes and is made of MOVAS vegan leather that shields all four corners. Weight: 415 g (Apple Store listing).",
+   "keywords": "moft float folio ipad case stand ipad air",
+   "specs": {
+    "accessoryType": "Folio case with stand",
+    "compatibility": "iPad Air 13-inch (M4, M3, M2)",
+    "material": "Vegan leather (MOVAS)",
+    "magsafe": false,
+    "colors": "White, Black"
+   },
+   "colors": [
+    "White",
+    "Black"
+   ],
+   "image": {
+    "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/HS7P2?wid=1400&hei=1400&fmt=png-alpha",
+    "page": "https://www.apple.com/shop/product/hs7q2zm/a/moft-float-folio-for-13-ipad-air",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official Apple Store product image of a MOFT product (store.storeimages.cdn-apple.com); no reuse license granted by Apple or MOFT - rights not verified.",
+    "alt": "MOFT Float Folio for 13-inch iPad Air in White, front exterior with Apple Pencil holder",
+    "match": "EXACT",
+    "credit": "MOFT"
+   },
+   "colorImages": {
+    "White": {
+     "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/HS7P2?wid=1400&hei=1400&fmt=png-alpha",
+     "page": "https://www.apple.com/shop/product/hs7q2zm/a/moft-float-folio-for-13-ipad-air",
+     "sourceType": "manufacturer-product-page",
+     "rights": "Official Apple Store product image of a MOFT product (store.storeimages.cdn-apple.com); no reuse license granted by Apple or MOFT - rights not verified.",
+     "alt": "MOFT Float Folio for 13-inch iPad Air in White, front exterior with Apple Pencil holder",
+     "match": "EXACT",
+     "credit": "MOFT"
+    },
+    "Black": {
+     "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/HS7Q2?wid=1400&hei=1400&fmt=png-alpha",
+     "page": "https://www.apple.com/shop/product/hs7q2zm/a/moft-float-folio-for-13-ipad-air",
+     "sourceType": "manufacturer-product-page",
+     "rights": "Official Apple Store product image of a MOFT product (store.storeimages.cdn-apple.com); no reuse license granted by Apple or MOFT - rights not verified.",
+     "alt": "MOFT Float Folio for 13-inch iPad Air in Black, front exterior with Apple Pencil holder",
+     "match": "EXACT",
+     "credit": "MOFT"
+    }
+   },
+   "collections": [
+    "apple-ecosystem"
+   ],
+   "featured": false,
+   "sources": {
+    "product": "https://www.apple.com/shop/product/hs7q2zm/a/moft-float-folio-for-13-ipad-air",
+    "retrievedAt": "2026-09-29"
+   }
+  },
+  {
+   "sku": "TK-MOPHIE-KNITFOLIO-IPADAIR11",
+   "slug": "mophie-knit-air-folio-ipad-air-11",
+   "name": "mophie Knit Air Folio Case for 11-inch iPad Air",
+   "brand": "mophie",
+   "category": "cases-protection",
+   "price": "74.95",
+   "priceBasis": "msrp",
+   "priceSource": "https://www.apple.com/shop/product/hsbk2zm/a/mophie-knit-air-folio-case-for-11%E2%80%91inch-ipad-air",
+   "priceAsOf": "2026-09-29",
+   "summary": "Knit-fabric folio with a transparent protective back, built-in kickstand cover and secure magnetic closure.",
+   "description": "The mophie Knit Air Folio Case for 11-inch iPad Air wraps the iPad in premium knit fabric and protects it with a transparent, durable back. A built-in kickstand cover supports streaming, typing or presenting hands-free, and a magnetic closure keeps it shut. Weight: 340 g (Apple Store listing).",
+   "keywords": "mophie knit folio ipad case kickstand",
+   "specs": {
+    "accessoryType": "Folio case",
+    "compatibility": "iPad Air 11-inch (M4, M3, M2)",
+    "material": "Knit fabric, hard plastic",
+    "magsafe": false,
+    "colors": "Black, Gray"
+   },
+   "colors": [
+    "Black",
+    "Gray"
+   ],
+   "image": {
+    "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/HSAQ2?wid=1400&hei=1400&fmt=png-alpha",
+    "page": "https://www.apple.com/shop/product/hsbk2zm/a/mophie-knit-air-folio-case-for-11%E2%80%91inch-ipad-air",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official Apple Store product image of a mophie product (store.storeimages.cdn-apple.com); no reuse license granted by Apple or mophie - rights not verified.",
+    "alt": "mophie Knit Air Folio Case for 11-inch iPad Air in Black, front view",
+    "match": "EXACT",
+    "credit": "mophie"
+   },
+   "colorImages": {
+    "Black": {
+     "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/HSAQ2?wid=1400&hei=1400&fmt=png-alpha",
+     "page": "https://www.apple.com/shop/product/hsbk2zm/a/mophie-knit-air-folio-case-for-11%E2%80%91inch-ipad-air",
+     "sourceType": "manufacturer-product-page",
+     "rights": "Official Apple Store product image of a mophie product (store.storeimages.cdn-apple.com); no reuse license granted by Apple or mophie - rights not verified.",
+     "alt": "mophie Knit Air Folio Case for 11-inch iPad Air in Black, front view",
+     "match": "EXACT",
+     "credit": "mophie"
+    },
+    "Gray": {
+     "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/HSBK2?wid=1400&hei=1400&fmt=png-alpha",
+     "page": "https://www.apple.com/shop/product/hsbk2zm/a/mophie-knit-air-folio-case-for-11%E2%80%91inch-ipad-air",
+     "sourceType": "manufacturer-product-page",
+     "rights": "Official Apple Store product image of a mophie product (store.storeimages.cdn-apple.com); no reuse license granted by Apple or mophie - rights not verified.",
+     "alt": "mophie Knit Air Folio Case for 11-inch iPad Air in Gray, front view",
+     "match": "EXACT",
+     "credit": "mophie"
+    }
+   },
+   "collections": [
+    "apple-ecosystem"
+   ],
+   "featured": false,
+   "warranty": 24,
+   "sources": {
+    "product": "https://www.apple.com/shop/product/hsbk2zm/a/mophie-knit-air-folio-case-for-11%E2%80%91inch-ipad-air",
+    "retrievedAt": "2026-09-29"
+   }
+  },
+  {
+   "sku": "TK-MOPHIE-KNITFOLIO-IPADAIR13",
+   "slug": "mophie-knit-air-folio-ipad-air-13",
+   "name": "mophie Knit Air Folio Case for 13-inch iPad Air",
+   "brand": "mophie",
+   "category": "cases-protection",
+   "price": "74.95",
+   "priceBasis": "msrp",
+   "priceSource": "https://www.apple.com/shop/product/hsas2zm/a/mophie-knit-air-folio-case-for-13%E2%80%91inch-ipad-air",
+   "priceAsOf": "2026-09-29",
+   "summary": "Knit-fabric folio with a transparent protective back, built-in kickstand cover and secure magnetic closure.",
+   "description": "The mophie Knit Air Folio Case for 13-inch iPad Air wraps the iPad in premium knit fabric and protects it with a transparent, durable back. A built-in kickstand cover supports streaming, typing or presenting hands-free, and a magnetic closure keeps it shut. Weight: 460 g (Apple Store listing).",
+   "keywords": "mophie knit folio ipad case kickstand",
+   "specs": {
+    "accessoryType": "Folio case",
+    "compatibility": "iPad Air 13-inch (M4, M3, M2)",
+    "material": "Knit fabric, hard plastic",
+    "magsafe": false,
+    "colors": "Black, Gray"
+   },
+   "colors": [
+    "Black",
+    "Gray"
+   ],
+   "image": {
+    "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/HSAS2?wid=1400&hei=1400&fmt=png-alpha",
+    "page": "https://www.apple.com/shop/product/hsas2zm/a/mophie-knit-air-folio-case-for-13%E2%80%91inch-ipad-air",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official Apple Store product image of a mophie product (store.storeimages.cdn-apple.com); no reuse license granted by Apple or mophie - rights not verified.",
+    "alt": "mophie Knit Air Folio Case for 13-inch iPad Air in Black, front view",
+    "match": "EXACT",
+    "credit": "mophie"
+   },
+   "colorImages": {
+    "Black": {
+     "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/HSAS2?wid=1400&hei=1400&fmt=png-alpha",
+     "page": "https://www.apple.com/shop/product/hsas2zm/a/mophie-knit-air-folio-case-for-13%E2%80%91inch-ipad-air",
+     "sourceType": "manufacturer-product-page",
+     "rights": "Official Apple Store product image of a mophie product (store.storeimages.cdn-apple.com); no reuse license granted by Apple or mophie - rights not verified.",
+     "alt": "mophie Knit Air Folio Case for 13-inch iPad Air in Black, front view",
+     "match": "EXACT",
+     "credit": "mophie"
+    },
+    "Gray": {
+     "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/HSAR2?wid=1400&hei=1400&fmt=png-alpha",
+     "page": "https://www.apple.com/shop/product/hsas2zm/a/mophie-knit-air-folio-case-for-13%E2%80%91inch-ipad-air",
+     "sourceType": "manufacturer-product-page",
+     "rights": "Official Apple Store product image of a mophie product (store.storeimages.cdn-apple.com); no reuse license granted by Apple or mophie - rights not verified.",
+     "alt": "mophie Knit Air Folio Case for 13-inch iPad Air in Gray, front view",
+     "match": "EXACT",
+     "credit": "mophie"
+    }
+   },
+   "collections": [
+    "apple-ecosystem"
+   ],
+   "featured": false,
+   "warranty": 24,
+   "sources": {
+    "product": "https://www.apple.com/shop/product/hsas2zm/a/mophie-knit-air-folio-case-for-13%E2%80%91inch-ipad-air",
+    "retrievedAt": "2026-09-29"
+   }
+  },
+  {
+   "sku": "TK-MOPHIE-KNITFOLIO-IPADPRO11",
+   "slug": "mophie-knit-pro-folio-ipad-pro-11",
+   "name": "mophie Knit Pro Folio Case for 11-inch iPad Pro",
+   "brand": "mophie",
+   "category": "cases-protection",
+   "price": "74.95",
+   "priceBasis": "msrp",
+   "priceSource": "https://www.apple.com/shop/product/hsat2zm/a/mophie-knit-pro-folio-case-for-11%E2%80%91inch-ipad-pro",
+   "priceAsOf": "2026-09-29",
+   "summary": "Knit-fabric folio with a transparent protective back, built-in kickstand cover and secure magnetic closure.",
+   "description": "The mophie Knit Pro Folio Case for 11-inch iPad Pro wraps the iPad in premium knit fabric and protects it with a transparent, durable back. A built-in kickstand cover supports streaming, typing or presenting hands-free, and a magnetic closure keeps it shut. Weight: 340 g (Apple Store listing).",
+   "keywords": "mophie knit folio ipad case kickstand",
+   "specs": {
+    "accessoryType": "Folio case",
+    "compatibility": "iPad Pro 11-inch (M5), iPad Pro 11-inch (M4)",
+    "material": "Knit fabric, hard plastic",
+    "magsafe": false,
+    "colors": "Black, Gray"
+   },
+   "colors": [
+    "Black",
+    "Gray"
+   ],
+   "image": {
+    "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/HSAW2?wid=1400&hei=1400&fmt=png-alpha",
+    "page": "https://www.apple.com/shop/product/hsat2zm/a/mophie-knit-pro-folio-case-for-11%E2%80%91inch-ipad-pro",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official Apple Store product image of a mophie product (store.storeimages.cdn-apple.com); no reuse license granted by Apple or mophie - rights not verified.",
+    "alt": "mophie Knit Pro Folio Case for 11-inch iPad Pro in Black, front view",
+    "match": "EXACT",
+    "credit": "mophie"
+   },
+   "colorImages": {
+    "Black": {
+     "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/HSAW2?wid=1400&hei=1400&fmt=png-alpha",
+     "page": "https://www.apple.com/shop/product/hsat2zm/a/mophie-knit-pro-folio-case-for-11%E2%80%91inch-ipad-pro",
+     "sourceType": "manufacturer-product-page",
+     "rights": "Official Apple Store product image of a mophie product (store.storeimages.cdn-apple.com); no reuse license granted by Apple or mophie - rights not verified.",
+     "alt": "mophie Knit Pro Folio Case for 11-inch iPad Pro in Black, front view",
+     "match": "EXACT",
+     "credit": "mophie"
+    },
+    "Gray": {
+     "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/HSAT2?wid=1400&hei=1400&fmt=png-alpha",
+     "page": "https://www.apple.com/shop/product/hsat2zm/a/mophie-knit-pro-folio-case-for-11%E2%80%91inch-ipad-pro",
+     "sourceType": "manufacturer-product-page",
+     "rights": "Official Apple Store product image of a mophie product (store.storeimages.cdn-apple.com); no reuse license granted by Apple or mophie - rights not verified.",
+     "alt": "mophie Knit Pro Folio Case for 11-inch iPad Pro in Gray, front view",
+     "match": "EXACT",
+     "credit": "mophie"
+    }
+   },
+   "collections": [
+    "apple-ecosystem"
+   ],
+   "featured": false,
+   "warranty": 24,
+   "sources": {
+    "product": "https://www.apple.com/shop/product/hsat2zm/a/mophie-knit-pro-folio-case-for-11%E2%80%91inch-ipad-pro",
+    "retrievedAt": "2026-09-29"
+   }
+  },
+  {
+   "sku": "TK-MOPHIE-KNITFOLIO-IPADPRO13",
+   "slug": "mophie-knit-pro-folio-ipad-pro-13",
+   "name": "mophie Knit Pro Folio Case for 13-inch iPad Pro",
+   "brand": "mophie",
+   "category": "cases-protection",
+   "price": "74.95",
+   "priceBasis": "msrp",
+   "priceSource": "https://www.apple.com/shop/product/hsay2zm/a/mophie-knit-pro-folio-case-for-13%E2%80%91inch-ipad-pro",
+   "priceAsOf": "2026-09-29",
+   "summary": "Knit-fabric folio with a transparent protective back, built-in kickstand cover and secure magnetic closure.",
+   "description": "The mophie Knit Pro Folio Case for 13-inch iPad Pro wraps the iPad in premium knit fabric and protects it with a transparent, durable back. A built-in kickstand cover supports streaming, typing or presenting hands-free, and a magnetic closure keeps it shut. Weight: 460 g (Apple Store listing).",
+   "keywords": "mophie knit folio ipad case kickstand",
+   "specs": {
+    "accessoryType": "Folio case",
+    "compatibility": "iPad Pro 13-inch (M5), iPad Pro 13-inch (M4)",
+    "material": "Knit fabric, hard plastic",
+    "magsafe": false,
+    "colors": "Black, Gray"
+   },
+   "colors": [
+    "Black",
+    "Gray"
+   ],
+   "image": {
+    "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/HSAY2?wid=1400&hei=1400&fmt=png-alpha",
+    "page": "https://www.apple.com/shop/product/hsay2zm/a/mophie-knit-pro-folio-case-for-13%E2%80%91inch-ipad-pro",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official Apple Store product image of a mophie product (store.storeimages.cdn-apple.com); no reuse license granted by Apple or mophie - rights not verified.",
+    "alt": "mophie Knit Pro Folio Case for 13-inch iPad Pro in Black, front view",
+    "match": "EXACT",
+    "credit": "mophie"
+   },
+   "colorImages": {
+    "Black": {
+     "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/HSAY2?wid=1400&hei=1400&fmt=png-alpha",
+     "page": "https://www.apple.com/shop/product/hsay2zm/a/mophie-knit-pro-folio-case-for-13%E2%80%91inch-ipad-pro",
+     "sourceType": "manufacturer-product-page",
+     "rights": "Official Apple Store product image of a mophie product (store.storeimages.cdn-apple.com); no reuse license granted by Apple or mophie - rights not verified.",
+     "alt": "mophie Knit Pro Folio Case for 13-inch iPad Pro in Black, front view",
+     "match": "EXACT",
+     "credit": "mophie"
+    },
+    "Gray": {
+     "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/HSAX2?wid=1400&hei=1400&fmt=png-alpha",
+     "page": "https://www.apple.com/shop/product/hsay2zm/a/mophie-knit-pro-folio-case-for-13%E2%80%91inch-ipad-pro",
+     "sourceType": "manufacturer-product-page",
+     "rights": "Official Apple Store product image of a mophie product (store.storeimages.cdn-apple.com); no reuse license granted by Apple or mophie - rights not verified.",
+     "alt": "mophie Knit Pro Folio Case for 13-inch iPad Pro in Gray, front view",
+     "match": "EXACT",
+     "credit": "mophie"
+    }
+   },
+   "collections": [
+    "apple-ecosystem"
+   ],
+   "featured": false,
+   "warranty": 24,
+   "sources": {
+    "product": "https://www.apple.com/shop/product/hsay2zm/a/mophie-knit-pro-folio-case-for-13%E2%80%91inch-ipad-pro",
+    "retrievedAt": "2026-09-29"
+   }
+  },
+  {
+   "sku": "TK-TECH21-FLEXFOLIO-IPADAIR11",
+   "slug": "tech21-flexfolio-tint-ipad-air-11",
+   "name": "Tech21 FlexFolio Tint Case for 11-inch iPad Air",
+   "brand": "Tech21",
+   "category": "cases-protection",
+   "price": "54.95",
+   "priceBasis": "msrp",
+   "priceSource": "https://www.apple.com/shop/product/hsbu2zm/a/tech21-flexfolio-tint-case-for-11-ipad-air",
+   "priceAsOf": "2026-09-29",
+   "summary": "Drop-protective folio for iPad Air with FlexShock impact material, multi-angle stand, sleep/wake cover and Apple Pencil holder.",
+   "description": "The Tech21 FlexFolio Tint Case for 11-inch iPad Air uses Tech21's FlexShock material to absorb and dissipate impact for multi-drop protection without bulk. Its folio cover turns into a multi-angle stand (portrait, landscape and sketch), it supports sleep/wake, has an integrated Apple Pencil holder and a magnetic clasp, and its plastics include the Bio-Spice additive.",
+   "keywords": "tech21 flexfolio ipad case drop protection pencil holder",
+   "specs": {
+    "accessoryType": "Folio case (drop protection)",
+    "compatibility": "iPad Air 11-inch (M4, M3, M2)",
+    "material": "Vegan leather, hard plastic, TPU",
+    "magsafe": false,
+    "colors": "Clear, Black"
+   },
+   "colors": [
+    "Clear",
+    "Black"
+   ],
+   "image": {
+    "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/HSBU2?wid=1400&hei=1400&fmt=png-alpha",
+    "page": "https://www.apple.com/shop/product/hsbu2zm/a/tech21-flexfolio-tint-case-for-11-ipad-air",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official Apple Store product image of a Tech21 product (store.storeimages.cdn-apple.com); no reuse license granted by Apple or Tech21 - rights not verified.",
+    "alt": "Tech21 FlexFolio Tint Case for 11-inch iPad Air in Clear, front exterior with Apple Pencil holder",
+    "match": "EXACT",
+    "credit": "Tech21"
+   },
+   "colorImages": {
+    "Clear": {
+     "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/HSBU2?wid=1400&hei=1400&fmt=png-alpha",
+     "page": "https://www.apple.com/shop/product/hsbu2zm/a/tech21-flexfolio-tint-case-for-11-ipad-air",
+     "sourceType": "manufacturer-product-page",
+     "rights": "Official Apple Store product image of a Tech21 product (store.storeimages.cdn-apple.com); no reuse license granted by Apple or Tech21 - rights not verified.",
+     "alt": "Tech21 FlexFolio Tint Case for 11-inch iPad Air in Clear, front exterior with Apple Pencil holder",
+     "match": "EXACT",
+     "credit": "Tech21"
+    },
+    "Black": {
+     "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/HSBW2?wid=1400&hei=1400&fmt=png-alpha",
+     "page": "https://www.apple.com/shop/product/hsbu2zm/a/tech21-flexfolio-tint-case-for-11-ipad-air",
+     "sourceType": "manufacturer-product-page",
+     "rights": "Official Apple Store product image of a Tech21 product (store.storeimages.cdn-apple.com); no reuse license granted by Apple or Tech21 - rights not verified.",
+     "alt": "Tech21 FlexFolio Tint Case for 11-inch iPad Air in Black, front exterior with Apple Pencil holder",
+     "match": "EXACT",
+     "credit": "Tech21"
+    }
+   },
+   "collections": [
+    "apple-ecosystem"
+   ],
+   "featured": false,
+   "sources": {
+    "product": "https://www.apple.com/shop/product/hsbu2zm/a/tech21-flexfolio-tint-case-for-11-ipad-air",
+    "retrievedAt": "2026-09-29"
+   }
+  },
+  {
+   "sku": "TK-TECH21-FLEXFOLIO-IPADAIR13",
+   "slug": "tech21-flexfolio-tint-ipad-air-13",
+   "name": "Tech21 FlexFolio Tint Case for 13-inch iPad Air",
+   "brand": "Tech21",
+   "category": "cases-protection",
+   "price": "54.95",
+   "priceBasis": "msrp",
+   "priceSource": "https://www.apple.com/shop/product/hsby2zm/a/tech21-flexfolio-tint-case-for-13-ipad-air",
+   "priceAsOf": "2026-09-29",
+   "summary": "Drop-protective folio for iPad Air with FlexShock impact material, multi-angle stand, sleep/wake cover and Apple Pencil holder.",
+   "description": "The Tech21 FlexFolio Tint Case for 13-inch iPad Air uses Tech21's FlexShock material to absorb and dissipate impact for multi-drop protection without bulk. Its folio cover turns into a multi-angle stand (portrait, landscape and sketch), it supports sleep/wake, has an integrated Apple Pencil holder and a magnetic clasp, and its plastics include the Bio-Spice additive.",
+   "keywords": "tech21 flexfolio ipad case drop protection pencil holder",
+   "specs": {
+    "accessoryType": "Folio case (drop protection)",
+    "compatibility": "iPad Air 13-inch (M4, M3, M2)",
+    "material": "Vegan leather, hard plastic, TPU",
+    "magsafe": false,
+    "colors": "Clear, Black"
+   },
+   "colors": [
+    "Clear",
+    "Black"
+   ],
+   "image": {
+    "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/HSBX2?wid=1400&hei=1400&fmt=png-alpha",
+    "page": "https://www.apple.com/shop/product/hsby2zm/a/tech21-flexfolio-tint-case-for-13-ipad-air",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official Apple Store product image of a Tech21 product (store.storeimages.cdn-apple.com); no reuse license granted by Apple or Tech21 - rights not verified.",
+    "alt": "Tech21 FlexFolio Tint Case for 13-inch iPad Air in Clear, front exterior with Apple Pencil holder",
+    "match": "EXACT",
+    "credit": "Tech21"
+   },
+   "colorImages": {
+    "Clear": {
+     "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/HSBX2?wid=1400&hei=1400&fmt=png-alpha",
+     "page": "https://www.apple.com/shop/product/hsby2zm/a/tech21-flexfolio-tint-case-for-13-ipad-air",
+     "sourceType": "manufacturer-product-page",
+     "rights": "Official Apple Store product image of a Tech21 product (store.storeimages.cdn-apple.com); no reuse license granted by Apple or Tech21 - rights not verified.",
+     "alt": "Tech21 FlexFolio Tint Case for 13-inch iPad Air in Clear, front exterior with Apple Pencil holder",
+     "match": "EXACT",
+     "credit": "Tech21"
+    },
+    "Black": {
+     "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/HSBY2?wid=1400&hei=1400&fmt=png-alpha",
+     "page": "https://www.apple.com/shop/product/hsby2zm/a/tech21-flexfolio-tint-case-for-13-ipad-air",
+     "sourceType": "manufacturer-product-page",
+     "rights": "Official Apple Store product image of a Tech21 product (store.storeimages.cdn-apple.com); no reuse license granted by Apple or Tech21 - rights not verified.",
+     "alt": "Tech21 FlexFolio Tint Case for 13-inch iPad Air in Black, front exterior with Apple Pencil holder",
+     "match": "EXACT",
+     "credit": "Tech21"
+    }
+   },
+   "collections": [
+    "apple-ecosystem"
+   ],
+   "featured": false,
+   "sources": {
+    "product": "https://www.apple.com/shop/product/hsby2zm/a/tech21-flexfolio-tint-case-for-13-ipad-air",
+    "retrievedAt": "2026-09-29"
+   }
+  },
+  {
+   "sku": "TK-TECH21-FLEXFOLIO-IPADPRO11",
+   "slug": "tech21-flexfolio-tint-ipad-pro-11",
+   "name": "Tech21 FlexFolio Tint Case for 11-inch iPad Pro",
+   "brand": "Tech21",
+   "category": "cases-protection",
+   "price": "54.95",
+   "priceBasis": "msrp",
+   "priceSource": "https://www.apple.com/shop/product/hsbz2zm/a/tech21-flexfolio-tint-case-for-11-ipad-pro",
+   "priceAsOf": "2026-09-29",
+   "summary": "Drop-protective folio for iPad Pro with FlexShock impact material, multi-angle stand, sleep/wake cover and Apple Pencil holder.",
+   "description": "The Tech21 FlexFolio Tint Case for 11-inch iPad Pro uses Tech21's FlexShock material to absorb and dissipate impact for multi-drop protection without bulk. Its folio cover turns into a multi-angle stand (portrait, landscape and sketch), it supports sleep/wake, has an integrated Apple Pencil holder and a magnetic clasp, and its plastics include the Bio-Spice additive.",
+   "keywords": "tech21 flexfolio ipad case drop protection pencil holder",
+   "specs": {
+    "accessoryType": "Folio case (drop protection)",
+    "compatibility": "iPad Pro 11-inch (M5), iPad Pro 11-inch (M4)",
+    "material": "Vegan leather, hard plastic, TPU",
+    "magsafe": false,
+    "colors": "Clear, Black"
+   },
+   "colors": [
+    "Clear",
+    "Black"
+   ],
+   "image": {
+    "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/HSBZ2?wid=1400&hei=1400&fmt=png-alpha",
+    "page": "https://www.apple.com/shop/product/hsbz2zm/a/tech21-flexfolio-tint-case-for-11-ipad-pro",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official Apple Store product image of a Tech21 product (store.storeimages.cdn-apple.com); no reuse license granted by Apple or Tech21 - rights not verified.",
+    "alt": "Tech21 FlexFolio Tint Case for 11-inch iPad Pro in Clear, front exterior with Apple Pencil holder",
+    "match": "EXACT",
+    "credit": "Tech21"
+   },
+   "colorImages": {
+    "Clear": {
+     "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/HSBZ2?wid=1400&hei=1400&fmt=png-alpha",
+     "page": "https://www.apple.com/shop/product/hsbz2zm/a/tech21-flexfolio-tint-case-for-11-ipad-pro",
+     "sourceType": "manufacturer-product-page",
+     "rights": "Official Apple Store product image of a Tech21 product (store.storeimages.cdn-apple.com); no reuse license granted by Apple or Tech21 - rights not verified.",
+     "alt": "Tech21 FlexFolio Tint Case for 11-inch iPad Pro in Clear, front exterior with Apple Pencil holder",
+     "match": "EXACT",
+     "credit": "Tech21"
+    },
+    "Black": {
+     "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/HSC02?wid=1400&hei=1400&fmt=png-alpha",
+     "page": "https://www.apple.com/shop/product/hsbz2zm/a/tech21-flexfolio-tint-case-for-11-ipad-pro",
+     "sourceType": "manufacturer-product-page",
+     "rights": "Official Apple Store product image of a Tech21 product (store.storeimages.cdn-apple.com); no reuse license granted by Apple or Tech21 - rights not verified.",
+     "alt": "Tech21 FlexFolio Tint Case for 11-inch iPad Pro in Black, front exterior with Apple Pencil holder",
+     "match": "EXACT",
+     "credit": "Tech21"
+    }
+   },
+   "collections": [
+    "apple-ecosystem"
+   ],
+   "featured": false,
+   "sources": {
+    "product": "https://www.apple.com/shop/product/hsbz2zm/a/tech21-flexfolio-tint-case-for-11-ipad-pro",
+    "retrievedAt": "2026-09-29"
+   }
+  },
+  {
+   "sku": "TK-TECH21-FLEXFOLIO-IPADPRO13",
+   "slug": "tech21-flexfolio-tint-ipad-pro-13",
+   "name": "Tech21 FlexFolio Tint Case for 13-inch iPad Pro",
+   "brand": "Tech21",
+   "category": "cases-protection",
+   "price": "54.95",
+   "priceBasis": "msrp",
+   "priceSource": "https://www.apple.com/shop/product/hsc22zm/a/tech21-flexfolio-tint-case-for-13-ipad-pro",
+   "priceAsOf": "2026-09-29",
+   "summary": "Drop-protective folio for iPad Pro with FlexShock impact material, multi-angle stand, sleep/wake cover and Apple Pencil holder.",
+   "description": "The Tech21 FlexFolio Tint Case for 13-inch iPad Pro uses Tech21's FlexShock material to absorb and dissipate impact for multi-drop protection without bulk. Its folio cover turns into a multi-angle stand (portrait, landscape and sketch), it supports sleep/wake, has an integrated Apple Pencil holder and a magnetic clasp, and its plastics include the Bio-Spice additive.",
+   "keywords": "tech21 flexfolio ipad case drop protection pencil holder",
+   "specs": {
+    "accessoryType": "Folio case (drop protection)",
+    "compatibility": "iPad Pro 13-inch (M5), iPad Pro 13-inch (M4)",
+    "material": "Vegan leather, hard plastic, TPU",
+    "magsafe": false,
+    "colors": "Clear, Black"
+   },
+   "colors": [
+    "Clear",
+    "Black"
+   ],
+   "image": {
+    "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/HSC12?wid=1400&hei=1400&fmt=png-alpha",
+    "page": "https://www.apple.com/shop/product/hsc22zm/a/tech21-flexfolio-tint-case-for-13-ipad-pro",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official Apple Store product image of a Tech21 product (store.storeimages.cdn-apple.com); no reuse license granted by Apple or Tech21 - rights not verified.",
+    "alt": "Tech21 FlexFolio Tint Case for 13-inch iPad Pro in Clear, front exterior with Apple Pencil holder",
+    "match": "EXACT",
+    "credit": "Tech21"
+   },
+   "colorImages": {
+    "Clear": {
+     "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/HSC12?wid=1400&hei=1400&fmt=png-alpha",
+     "page": "https://www.apple.com/shop/product/hsc22zm/a/tech21-flexfolio-tint-case-for-13-ipad-pro",
+     "sourceType": "manufacturer-product-page",
+     "rights": "Official Apple Store product image of a Tech21 product (store.storeimages.cdn-apple.com); no reuse license granted by Apple or Tech21 - rights not verified.",
+     "alt": "Tech21 FlexFolio Tint Case for 13-inch iPad Pro in Clear, front exterior with Apple Pencil holder",
+     "match": "EXACT",
+     "credit": "Tech21"
+    },
+    "Black": {
+     "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/HSC22?wid=1400&hei=1400&fmt=png-alpha",
+     "page": "https://www.apple.com/shop/product/hsc22zm/a/tech21-flexfolio-tint-case-for-13-ipad-pro",
+     "sourceType": "manufacturer-product-page",
+     "rights": "Official Apple Store product image of a Tech21 product (store.storeimages.cdn-apple.com); no reuse license granted by Apple or Tech21 - rights not verified.",
+     "alt": "Tech21 FlexFolio Tint Case for 13-inch iPad Pro in Black, front exterior with Apple Pencil holder",
+     "match": "EXACT",
+     "credit": "Tech21"
+    }
+   },
+   "collections": [
+    "apple-ecosystem"
+   ],
+   "featured": false,
+   "sources": {
+    "product": "https://www.apple.com/shop/product/hsc22zm/a/tech21-flexfolio-tint-case-for-13-ipad-pro",
+    "retrievedAt": "2026-09-29"
+   }
+  },
+  {
+   "sku": "TK-TECH21-FLEXFOLIO-IPAD-A16",
+   "slug": "tech21-flexfolio-ipad-a16",
+   "name": "Tech21 FlexFolio for iPad (A16)",
+   "brand": "Tech21",
+   "category": "cases-protection",
+   "price": "54.95",
+   "priceBasis": "msrp",
+   "priceSource": "https://www.apple.com/shop/product/hse32zm/a/tech21-ipad-a16-flexfolio",
+   "priceAsOf": "2026-09-29",
+   "summary": "Drop-protective folio for iPad with FlexShock impact material, multi-angle stand, sleep/wake cover and Apple Pencil holder.",
+   "description": "The Tech21 FlexFolio for iPad (A16) uses Tech21's FlexShock material to absorb and dissipate impact for multi-drop protection without bulk. Its folio cover turns into a multi-angle stand (portrait, landscape and sketch), it supports sleep/wake, has an integrated Apple Pencil holder and a magnetic clasp, and its plastics include the Bio-Spice additive.",
+   "keywords": "tech21 flexfolio ipad case drop protection pencil holder",
+   "specs": {
+    "accessoryType": "Folio case (drop protection)",
+    "compatibility": "iPad (A16), iPad (10th generation)",
+    "material": "Vegan leather, hard plastic",
+    "magsafe": false,
+    "colors": "Clear, Black"
+   },
+   "colors": [
+    "Clear",
+    "Black"
+   ],
+   "image": {
+    "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/HSE32?wid=1400&hei=1400&fmt=png-alpha",
+    "page": "https://www.apple.com/shop/product/hse32zm/a/tech21-ipad-a16-flexfolio",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official Apple Store product image of a Tech21 product (store.storeimages.cdn-apple.com); no reuse license granted by Apple or Tech21 - rights not verified.",
+    "alt": "Tech21 FlexFolio for iPad (A16) in Clear, front exterior with Apple Pencil holder",
+    "match": "EXACT",
+    "credit": "Tech21"
+   },
+   "colorImages": {
+    "Clear": {
+     "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/HSE32?wid=1400&hei=1400&fmt=png-alpha",
+     "page": "https://www.apple.com/shop/product/hse32zm/a/tech21-ipad-a16-flexfolio",
+     "sourceType": "manufacturer-product-page",
+     "rights": "Official Apple Store product image of a Tech21 product (store.storeimages.cdn-apple.com); no reuse license granted by Apple or Tech21 - rights not verified.",
+     "alt": "Tech21 FlexFolio for iPad (A16) in Clear, front exterior with Apple Pencil holder",
+     "match": "EXACT",
+     "credit": "Tech21"
+    },
+    "Black": {
+     "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/HSE42?wid=1400&hei=1400&fmt=png-alpha",
+     "page": "https://www.apple.com/shop/product/hse32zm/a/tech21-ipad-a16-flexfolio",
+     "sourceType": "manufacturer-product-page",
+     "rights": "Official Apple Store product image of a Tech21 product (store.storeimages.cdn-apple.com); no reuse license granted by Apple or Tech21 - rights not verified.",
+     "alt": "Tech21 FlexFolio for iPad (A16) in Black, front exterior with Apple Pencil holder",
+     "match": "EXACT",
+     "credit": "Tech21"
+    }
+   },
+   "collections": [
+    "apple-ecosystem"
+   ],
+   "featured": false,
+   "sources": {
+    "product": "https://www.apple.com/shop/product/hse32zm/a/tech21-ipad-a16-flexfolio",
+    "retrievedAt": "2026-09-29"
+   }
+  },
+  {
+   "sku": "TK-APPLE-PENCIL-TIPS-4PK",
+   "slug": "apple-pencil-tips-4-pack",
+   "name": "Apple Pencil Tips (4 pack)",
+   "brand": "Apple",
+   "category": "tablet-accessories",
+   "price": "19.00",
+   "priceBasis": "msrp",
+   "priceSource": "https://www.apple.com/shop/product/mx763am/a/apple-pencil-tips-4-pack",
+   "priceAsOf": "2026-09-29",
+   "summary": "Four replacement tips made by Apple for Apple Pencil Pro, Apple Pencil (2nd generation), Apple Pencil (USB-C) and Apple Pencil (1st generation).",
+   "description": "Keep extra tips for Apple Pencil at the ready. The pack contains four tips made by Apple and is compatible with Apple Pencil Pro, Apple Pencil (2nd generation), Apple Pencil (USB-C) and Apple Pencil (1st generation).",
+   "keywords": "apple pencil tips nibs replacement",
+   "specs": {
+    "compatibility": "Apple Pencil Pro, Apple Pencil (2nd generation), Apple Pencil (USB-C), Apple Pencil (1st generation)"
+   },
+   "image": {
+    "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/MLUN2?wid=1400&hei=1400&fmt=png-alpha",
+    "page": "https://www.apple.com/shop/product/mx763am/a/apple-pencil-tips-4-pack",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official Apple Store product image (store.storeimages.cdn-apple.com); Apple has not granted a reuse license - rights not verified.",
+    "alt": "Apple Pencil Tips (4 pack), four white replacement tips",
+    "match": "EXACT",
+    "credit": "Apple"
+   },
+   "collections": [
+    "apple-ecosystem"
+   ],
+   "featured": false,
+   "warranty": 12,
+   "sources": {
+    "product": "https://www.apple.com/shop/product/mx763am/a/apple-pencil-tips-4-pack",
+    "retrievedAt": "2026-09-29"
+   }
+  },
+  {
+   "sku": "TK-APPLE-PENCIL-2NDGEN",
+   "slug": "apple-pencil-2nd-generation",
+   "name": "Apple Pencil (2nd generation)",
+   "brand": "Apple",
+   "category": "tablet-accessories",
+   "price": "129.00",
+   "priceBasis": "msrp",
+   "priceSource": "https://www.apple.com/shop/product/mxn43am/a/apple-pencil-2nd-generation",
+   "priceAsOf": "2026-09-29",
+   "releaseYear": 2018,
+   "summary": "Apple Pencil with double-tap tool switching that pairs, charges and stores magnetically on the side of compatible iPad models.",
+   "description": "Apple Pencil (2nd generation) delivers pixel-perfect precision and low latency for drawing, note-taking and marking up documents. A touch surface supports double-tap to change tools, and it pairs, charges and stores magnetically on the side of the iPad. It measures 166 mm long and weighs 18.2 g.",
+   "keywords": "apple pencil 2 stylus ipad pro magnetic",
+   "specs": {
+    "compatibility": "iPad Pro 12.9-inch (3rd-6th generation), iPad Pro 11-inch (1st-4th generation), iPad Air (5th and 4th generation), iPad mini (6th generation)"
+   },
+   "image": {
+    "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/MU8F2?wid=1400&hei=1400&fmt=png-alpha",
+    "page": "https://www.apple.com/shop/product/mxn43am/a/apple-pencil-2nd-generation",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official Apple Store product image (store.storeimages.cdn-apple.com); Apple has not granted a reuse license - rights not verified.",
+    "alt": "Apple Pencil (2nd generation), flat side view",
+    "match": "EXACT",
+    "credit": "Apple"
+   },
+   "collections": [
+    "apple-ecosystem"
+   ],
+   "featured": false,
+   "warranty": 12,
+   "sources": {
+    "product": "https://www.apple.com/shop/product/mxn43am/a/apple-pencil-2nd-generation",
+    "retrievedAt": "2026-09-29"
+   }
+  },
+  {
+   "sku": "TK-APPLE-PENCIL-1STGEN",
+   "slug": "apple-pencil-1st-generation",
+   "name": "Apple Pencil (1st generation)",
+   "brand": "Apple",
+   "category": "tablet-accessories",
+   "price": "99.00",
+   "priceBasis": "msrp",
+   "priceSource": "https://www.apple.com/shop/product/myqw3am/a/apple-pencil-1st-generation",
+   "priceAsOf": "2026-09-29",
+   "releaseYear": 2015,
+   "summary": "Pressure- and tilt-sensitive Apple Pencil that pairs and charges via its Lightning connector; works with iPad (A16) and older iPad models.",
+   "description": "Apple Pencil (1st generation) is sensitive to pressure and tilt, so line weight and shading vary naturally, with pixel-perfect precision. It pairs and charges via Lightning and has a magnetically attached cap. It measures 175.7 mm from tip to cap and weighs 20.7 g.",
+   "keywords": "apple pencil 1st generation stylus lightning ipad",
+   "specs": {
+    "compatibility": "iPad (A16), iPad (10th-6th generation), iPad Air (3rd generation), iPad mini (5th generation), iPad Pro 12.9-inch (1st-2nd generation), iPad Pro 10.5-inch, iPad Pro 9.7-inch"
+   },
+   "image": {
+    "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/MK0C2?wid=1400&hei=1400&fmt=png-alpha",
+    "page": "https://www.apple.com/shop/product/myqw3am/a/apple-pencil-1st-generation",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official Apple Store product image (store.storeimages.cdn-apple.com); Apple has not granted a reuse license - rights not verified.",
+    "alt": "Apple Pencil (1st generation), side view",
+    "match": "EXACT",
+    "credit": "Apple"
+   },
+   "collections": [
+    "apple-ecosystem"
+   ],
+   "featured": false,
+   "warranty": 12,
+   "sources": {
+    "product": "https://www.apple.com/shop/product/myqw3am/a/apple-pencil-1st-generation",
+    "retrievedAt": "2026-09-29"
+   }
+  },
+  {
+   "sku": "TK-SATECHI-FOLDABLE-ALU-STAND",
+   "slug": "satechi-foldable-aluminum-stand",
+   "name": "Satechi Foldable Aluminum Stand",
+   "brand": "Satechi",
+   "category": "tablet-accessories",
+   "price": "39.95",
+   "priceBasis": "msrp",
+   "priceSource": "https://www.apple.com/shop/product/hpe82zm/a/satechi-foldable-aluminum-stand",
+   "priceAsOf": "2026-09-29",
+   "summary": "Foldable aluminum stand with adjustable hinges and rubber grips that holds iPad or iPhone in portrait or landscape.",
+   "description": "The Satechi Foldable Aluminum Stand turns an iPad or iPhone into a desk or on-the-go workstation. It is built from solid aluminum with protective rubber grips, has adjustable hinges for portrait or landscape viewing angles, and folds flat for storage and travel. Weight: 342 g.",
+   "keywords": "satechi stand ipad iphone foldable aluminum",
+   "specs": {
+    "compatibility": "iPad and iPhone models (portrait or landscape)"
+   },
+   "image": {
+    "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/HPE82_AV1?wid=1400&hei=1400&fmt=png-alpha",
+    "page": "https://www.apple.com/shop/product/hpe82zm/a/satechi-foldable-aluminum-stand",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official Apple Store product image of a Satechi product (store.storeimages.cdn-apple.com); no reuse license granted by Apple or Satechi - rights not verified.",
+    "alt": "Satechi Foldable Aluminum Stand, angled front view of the aluminum stand",
+    "match": "EXACT",
+    "credit": "Satechi"
+   },
+   "collections": [
+    "apple-ecosystem"
+   ],
+   "featured": false,
+   "warranty": 12,
+   "sources": {
+    "product": "https://www.apple.com/shop/product/hpe82zm/a/satechi-foldable-aluminum-stand",
+    "retrievedAt": "2026-09-29"
+   }
+  },
+  {
+   "sku": "TK-TWELVESOUTH-HOVERBAR-DUO",
+   "slug": "twelve-south-hoverbar-duo-ipad",
+   "name": "Twelve South HoverBar Duo for iPad",
+   "brand": "Twelve South",
+   "category": "tablet-accessories",
+   "price": "79.95",
+   "priceBasis": "msrp",
+   "priceSource": "https://www.apple.com/shop/product/hq432zm/a/twelve-south-hoverbar-duo-for-ipad",
+   "priceAsOf": "2026-09-29",
+   "summary": "Articulating iPad arm with both a weighted desktop base and a clamp, adjustable from desk level to two feet high.",
+   "description": "Twelve South HoverBar Duo is an adjustable iPad stand that includes a weighted desktop base and an adjustable clamp, swapped in seconds with the QuickSwitch tab. Its flexible arm allows 360-degree movement and height adjustment up to about two feet, for eye-level video calls, Sidecar or a kitchen recipe screen.",
+   "keywords": "twelve south hoverbar duo ipad arm stand clamp",
+   "specs": {
+    "compatibility": "iPad Pro 13-inch and 11-inch (M5, M4 and earlier), iPad Air, iPad and iPad mini models"
+   },
+   "image": {
+    "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/HQ432?wid=1400&hei=1400&fmt=png-alpha",
+    "page": "https://www.apple.com/shop/product/hq432zm/a/twelve-south-hoverbar-duo-for-ipad",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official Apple Store product image of a Twelve South product (store.storeimages.cdn-apple.com); no reuse license granted by Apple or Twelve South - rights not verified.",
+    "alt": "Twelve South HoverBar Duo for iPad, with weighted desktop base",
+    "match": "EXACT",
+    "credit": "Twelve South"
+   },
+   "collections": [
+    "apple-ecosystem"
+   ],
+   "featured": true,
+   "warranty": 12,
+   "sources": {
+    "product": "https://www.apple.com/shop/product/hq432zm/a/twelve-south-hoverbar-duo-for-ipad",
+    "retrievedAt": "2026-09-29"
+   }
+  },
+  {
+   "sku": "TK-LOGI-COMBOTOUCH-IPADAIR11-M4",
+   "slug": "logitech-combo-touch-ipad-air-11-m4",
+   "name": "Logitech Combo Touch Keyboard Case for iPad Air 11-inch (M4)",
+   "brand": "Logitech",
+   "category": "tablet-accessories",
+   "price": "199.95",
+   "priceBasis": "msrp",
+   "priceSource": "https://www.apple.com/shop/product/hrh12zm/a/logitech-combo-touch-keyboard-case-for-ipad-air-11-inch-m4",
+   "priceAsOf": "2026-09-29",
+   "summary": "Detachable backlit keyboard case with Multi-Touch trackpad and kickstand for iPad Air 11-inch (M4), connected via Smart Connector.",
+   "description": "Logitech Combo Touch pairs a detachable, full-size backlit keyboard with a large click-anywhere Multi-Touch trackpad and a flexible kickstand for type, sketch, view and read modes. It connects and is powered through the iPad Smart Connector, protects the iPad in a formfitting case, and has space to store Apple Pencil.",
+   "keywords": "logitech combo touch ipad keyboard case trackpad smart connector",
+   "specs": {
+    "compatibility": "iPad Air 11-inch (M4, M3, M2), iPad Air (5th generation)"
+   },
+   "image": {
+    "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/HRH12_AV2?wid=1400&hei=1400&fmt=png-alpha",
+    "page": "https://www.apple.com/shop/product/hrh12zm/a/logitech-combo-touch-keyboard-case-for-ipad-air-11-inch-m4",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official Apple Store product image of a Logitech product (store.storeimages.cdn-apple.com); no reuse license granted by Apple or Logitech - rights not verified.",
+    "alt": "Logitech Combo Touch Keyboard Case for iPad Air 11-inch (M4), keyboard case with iPad attached",
+    "match": "EXACT",
+    "credit": "Logitech"
+   },
+   "collections": [
+    "apple-ecosystem"
+   ],
+   "featured": false,
+   "warranty": 12,
+   "sources": {
+    "product": "https://www.apple.com/shop/product/hrh12zm/a/logitech-combo-touch-keyboard-case-for-ipad-air-11-inch-m4",
+    "retrievedAt": "2026-09-29"
+   }
+  },
+  {
+   "sku": "TK-LOGI-COMBOTOUCH-IPADAIR13-M4",
+   "slug": "logitech-combo-touch-ipad-air-13-m4",
+   "name": "Logitech Combo Touch Keyboard Case for iPad Air 13-inch (M4)",
+   "brand": "Logitech",
+   "category": "tablet-accessories",
+   "price": "229.95",
+   "priceBasis": "msrp",
+   "priceSource": "https://www.apple.com/shop/product/hrh22zm/a/logitech-combo-touch-keyboard-case-for-ipad-air-13-inch-m4",
+   "priceAsOf": "2026-09-29",
+   "summary": "Detachable backlit keyboard case with Multi-Touch trackpad and kickstand for iPad Air 13-inch (M4), connected via Smart Connector.",
+   "description": "Logitech Combo Touch pairs a detachable, full-size backlit keyboard with a large click-anywhere Multi-Touch trackpad and a flexible kickstand for type, sketch, view and read modes. It connects and is powered through the iPad Smart Connector, protects the iPad in a formfitting case, and has space to store Apple Pencil.",
+   "keywords": "logitech combo touch ipad keyboard case trackpad smart connector",
+   "specs": {
+    "compatibility": "iPad Air 13-inch (M4, M3, M2)"
+   },
+   "image": {
+    "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/HRH22_AV2?wid=1400&hei=1400&fmt=png-alpha",
+    "page": "https://www.apple.com/shop/product/hrh22zm/a/logitech-combo-touch-keyboard-case-for-ipad-air-13-inch-m4",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official Apple Store product image of a Logitech product (store.storeimages.cdn-apple.com); no reuse license granted by Apple or Logitech - rights not verified.",
+    "alt": "Logitech Combo Touch Keyboard Case for iPad Air 13-inch (M4), keyboard case with iPad attached",
+    "match": "EXACT",
+    "credit": "Logitech"
+   },
+   "collections": [
+    "apple-ecosystem"
+   ],
+   "featured": false,
+   "warranty": 12,
+   "sources": {
+    "product": "https://www.apple.com/shop/product/hrh22zm/a/logitech-combo-touch-keyboard-case-for-ipad-air-13-inch-m4",
+    "retrievedAt": "2026-09-29"
+   }
+  },
+  {
+   "sku": "TK-LOGI-COMBOTOUCH-IPADPRO11-M5",
+   "slug": "logitech-combo-touch-ipad-pro-11-m5",
+   "name": "Logitech Combo Touch Keyboard Case for iPad Pro 11-inch (M5)",
+   "brand": "Logitech",
+   "category": "tablet-accessories",
+   "price": "229.95",
+   "priceBasis": "msrp",
+   "priceSource": "https://www.apple.com/shop/product/hrh42zm/a/logitech-combo-touch-keyboard-case-for-ipad-pro-11-inch-m5",
+   "priceAsOf": "2026-09-29",
+   "summary": "Detachable backlit keyboard case with Multi-Touch trackpad and kickstand for iPad Pro 11-inch (M5), connected via Smart Connector.",
+   "description": "Logitech Combo Touch pairs a detachable, full-size backlit keyboard with a large click-anywhere Multi-Touch trackpad and a flexible kickstand for type, sketch, view and read modes. It connects and is powered through the iPad Smart Connector, protects the iPad in a formfitting case, and has space to store Apple Pencil. Not designed for iPad Pro with nano-texture glass.",
+   "keywords": "logitech combo touch ipad keyboard case trackpad smart connector",
+   "specs": {
+    "compatibility": "iPad Pro 11-inch (M5), iPad Pro 11-inch (M4) - not for nano-texture glass models"
+   },
+   "image": {
+    "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/HRH42?wid=1400&hei=1400&fmt=png-alpha",
+    "page": "https://www.apple.com/shop/product/hrh42zm/a/logitech-combo-touch-keyboard-case-for-ipad-pro-11-inch-m5",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official Apple Store product image of a Logitech product (store.storeimages.cdn-apple.com); no reuse license granted by Apple or Logitech - rights not verified.",
+    "alt": "Logitech Combo Touch Keyboard Case for iPad Pro 11-inch (M5), keyboard case with iPad attached",
+    "match": "EXACT",
+    "credit": "Logitech"
+   },
+   "collections": [
+    "apple-ecosystem"
+   ],
+   "featured": true,
+   "warranty": 12,
+   "sources": {
+    "product": "https://www.apple.com/shop/product/hrh42zm/a/logitech-combo-touch-keyboard-case-for-ipad-pro-11-inch-m5",
+    "retrievedAt": "2026-09-29"
+   }
+  },
+  {
+   "sku": "TK-LOGI-COMBOTOUCH-IPADPRO13-M5",
+   "slug": "logitech-combo-touch-ipad-pro-13-m5",
+   "name": "Logitech Combo Touch Keyboard Case for iPad Pro 13-inch (M5)",
+   "brand": "Logitech",
+   "category": "tablet-accessories",
+   "price": "259.95",
+   "priceBasis": "msrp",
+   "priceSource": "https://www.apple.com/shop/product/hrh52zm/a/logitech-combo-touch-keyboard-case-for-ipad-pro-13-inch-m5",
+   "priceAsOf": "2026-09-29",
+   "summary": "Detachable backlit keyboard case with Multi-Touch trackpad and kickstand for iPad Pro 13-inch (M5), connected via Smart Connector.",
+   "description": "Logitech Combo Touch pairs a detachable, full-size backlit keyboard with a large click-anywhere Multi-Touch trackpad and a flexible kickstand for type, sketch, view and read modes. It connects and is powered through the iPad Smart Connector, protects the iPad in a formfitting case, and has space to store Apple Pencil. Not designed for iPad Pro with nano-texture glass.",
+   "keywords": "logitech combo touch ipad keyboard case trackpad smart connector",
+   "specs": {
+    "compatibility": "iPad Pro 13-inch (M5), iPad Pro 13-inch (M4) - not for nano-texture glass models"
+   },
+   "image": {
+    "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/HRH52?wid=1400&hei=1400&fmt=png-alpha",
+    "page": "https://www.apple.com/shop/product/hrh52zm/a/logitech-combo-touch-keyboard-case-for-ipad-pro-13-inch-m5",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official Apple Store product image of a Logitech product (store.storeimages.cdn-apple.com); no reuse license granted by Apple or Logitech - rights not verified.",
+    "alt": "Logitech Combo Touch Keyboard Case for iPad Pro 13-inch (M5), keyboard case with iPad attached",
+    "match": "EXACT",
+    "credit": "Logitech"
+   },
+   "collections": [
+    "apple-ecosystem"
+   ],
+   "featured": false,
+   "warranty": 12,
+   "sources": {
+    "product": "https://www.apple.com/shop/product/hrh52zm/a/logitech-combo-touch-keyboard-case-for-ipad-pro-13-inch-m5",
+    "retrievedAt": "2026-09-29"
+   }
+  },
+  {
+   "sku": "TK-LOGI-COMBOTOUCH-IPAD-A16",
+   "slug": "logitech-combo-touch-ipad-a16",
+   "name": "Logitech Combo Touch Keyboard Case for iPad (A16)",
+   "brand": "Logitech",
+   "category": "tablet-accessories",
+   "price": "159.95",
+   "priceBasis": "msrp",
+   "priceSource": "https://www.apple.com/shop/product/hqey2zm/a/logitech-combo-touch-keyboard-case-for-ipad-a16",
+   "priceAsOf": "2026-09-29",
+   "summary": "Detachable full-size backlit keyboard case with clickable trackpad and 50-degree kickstand for iPad (A16), via Smart Connector.",
+   "description": "Logitech Combo Touch for iPad (A16) combines a detachable full-size backlit keyboard with a high-precision clickable trackpad supporting Multi-Touch gestures. An adjustable kickstand with 50 degrees of tilt enables four use modes, the form-fit case protects against drops up to 4 feet, and it pairs and charges via Smart Connector with a full row of iPadOS shortcut keys.",
+   "keywords": "logitech combo touch ipad a16 keyboard case trackpad",
+   "specs": {
+    "compatibility": "iPad (A16), iPad (10th generation)"
+   },
+   "image": {
+    "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/HQEY2?wid=1400&hei=1400&fmt=png-alpha",
+    "page": "https://www.apple.com/shop/product/hqey2zm/a/logitech-combo-touch-keyboard-case-for-ipad-a16",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official Apple Store product image of a Logitech product (store.storeimages.cdn-apple.com); no reuse license granted by Apple or Logitech - rights not verified.",
+    "alt": "Logitech Combo Touch Keyboard Case for iPad (A16), keyboard case with iPad attached",
+    "match": "EXACT",
+    "credit": "Logitech"
+   },
+   "collections": [
+    "apple-ecosystem"
+   ],
+   "featured": false,
+   "warranty": 12,
+   "sources": {
+    "product": "https://www.apple.com/shop/product/hqey2zm/a/logitech-combo-touch-keyboard-case-for-ipad-a16",
+    "retrievedAt": "2026-09-29"
+   }
+  },
+  {
+   "sku": "TK-LOGI-RUGGEDFOLIO-IPAD-A16",
+   "slug": "logitech-rugged-folio-ipad-a16",
+   "name": "Logitech Rugged Folio Keyboard for iPad (A16)",
+   "brand": "Logitech",
+   "category": "tablet-accessories",
+   "price": "139.95",
+   "priceBasis": "msrp",
+   "priceSource": "https://www.apple.com/shop/product/hqez2zm/a/logitech-rugged-folio-keyboard-for-ipad-a16",
+   "priceAsOf": "2026-09-29",
+   "summary": "Slim keyboard case with military-grade drop protection, spill-resistant sealed keyboard and Smart Connector for iPad (A16).",
+   "description": "Logitech Rugged Folio is a slim keyboard case with military-grade drop protection and shock-absorbent materials. Four use modes are supported by a 40-degree kickstand, the sealed full-size keyboard resists dirt and spills and connects via Smart Connector with no pairing or charging, and a magnetic latch holds Apple Pencil or Logitech Crayon.",
+   "keywords": "logitech rugged folio ipad a16 keyboard case school",
+   "specs": {
+    "compatibility": "iPad (A16), iPad (10th generation)"
+   },
+   "image": {
+    "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/HQEZ2?wid=1400&hei=1400&fmt=png-alpha",
+    "page": "https://www.apple.com/shop/product/hqez2zm/a/logitech-rugged-folio-keyboard-for-ipad-a16",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official Apple Store product image of a Logitech product (store.storeimages.cdn-apple.com); no reuse license granted by Apple or Logitech - rights not verified.",
+    "alt": "Logitech Rugged Folio Keyboard for iPad (A16), keyboard case with iPad attached",
+    "match": "EXACT",
+    "credit": "Logitech"
+   },
+   "collections": [
+    "apple-ecosystem"
+   ],
+   "featured": false,
+   "warranty": 12,
+   "sources": {
+    "product": "https://www.apple.com/shop/product/hqez2zm/a/logitech-rugged-folio-keyboard-for-ipad-a16",
+    "retrievedAt": "2026-09-29"
+   }
+  },
+  {
+   "sku": "TK-LOGI-SLIMFOLIO-IPAD-A16",
+   "slug": "logitech-slim-folio-ipad-a16",
+   "name": "Logitech Slim Folio Keyboard for iPad (A16)",
+   "brand": "Logitech",
+   "category": "tablet-accessories",
+   "price": "99.95",
+   "priceBasis": "msrp",
+   "priceSource": "https://www.apple.com/shop/product/hqex2zm/a/logitech-slim-folio-keyboard-for-ipad-a16",
+   "priceAsOf": "2026-09-29",
+   "summary": "All-in-one Bluetooth keyboard case for iPad (A16) with full-size keys, iPadOS shortcut row and two viewing angles.",
+   "description": "Logitech Slim Folio is an all-in-one keyboard case for iPad (A16) with a full-size Bluetooth keyboard and a full row of iPadOS shortcut keys. It offers secure form-fit protection, two viewing angles, a smart cover and a place for a digital stylus.",
+   "keywords": "logitech slim folio ipad a16 bluetooth keyboard case",
+   "specs": {
+    "compatibility": "iPad (A16), iPad (10th generation)"
+   },
+   "image": {
+    "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/HQEX2?wid=1400&hei=1400&fmt=png-alpha",
+    "page": "https://www.apple.com/shop/product/hqex2zm/a/logitech-slim-folio-keyboard-for-ipad-a16",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official Apple Store product image of a Logitech product (store.storeimages.cdn-apple.com); no reuse license granted by Apple or Logitech - rights not verified.",
+    "alt": "Logitech Slim Folio Keyboard for iPad (A16), keyboard case with iPad attached",
+    "match": "EXACT",
+    "credit": "Logitech"
+   },
+   "collections": [
+    "apple-ecosystem"
+   ],
+   "featured": false,
+   "warranty": 12,
+   "sources": {
+    "product": "https://www.apple.com/shop/product/hqex2zm/a/logitech-slim-folio-keyboard-for-ipad-a16",
+    "retrievedAt": "2026-09-29"
+   }
+  },
+  {
+   "sku": "TK-LOGI-FLIPFOLIO-IPAD-11",
+   "slug": "logitech-flip-folio-ipad-11",
+   "name": "Logitech Flip Folio Keyboard Case for 11-inch iPad Air and iPad Pro",
+   "brand": "Logitech",
+   "category": "tablet-accessories",
+   "price": "159.95",
+   "priceBasis": "msrp",
+   "priceSource": "https://www.apple.com/shop/product/hs822zm/a/logitech-flip-folio-keyboard-case-for-11%E2%80%91inch-ipad-air-and-ipad-pro-us-english",
+   "priceAsOf": "2026-09-29",
+   "summary": "Folio case with a stowable Bluetooth keyboard for 11-inch iPad Air and iPad Pro; portrait or landscape and Easy-Switch for 3 devices.",
+   "description": "Logitech Flip Folio gives the iPad front and back protection with an adjustable kickstand and a magnetic attachment that allows landscape or portrait positioning. Its Bluetooth keyboard stows magnetically on the back, Easy-Switch keys flip between three devices, and it runs on replaceable coin-cell batteries rated for about 2 years. Weight: 465 g folio + 176 g keyboard.",
+   "keywords": "logitech flip folio ipad keyboard case bluetooth",
+   "specs": {
+    "compatibility": "iPad Pro 11-inch (M5, M4), iPad Air 11-inch (M4, M3, M2), iPad Air (5th generation)"
+   },
+   "image": {
+    "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/HS822_GEO_US?wid=1400&hei=1400&fmt=png-alpha",
+    "page": "https://www.apple.com/shop/product/hs822zm/a/logitech-flip-folio-keyboard-case-for-11%E2%80%91inch-ipad-air-and-ipad-pro-us-english",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official Apple Store product image of a Logitech product (store.storeimages.cdn-apple.com); no reuse license granted by Apple or Logitech - rights not verified.",
+    "alt": "Logitech Flip Folio Keyboard Case for 11-inch iPad Air and iPad Pro, folio case with detachable keyboard",
+    "match": "EXACT",
+    "credit": "Logitech"
+   },
+   "collections": [
+    "apple-ecosystem"
+   ],
+   "featured": false,
+   "warranty": 12,
+   "sources": {
+    "product": "https://www.apple.com/shop/product/hs822zm/a/logitech-flip-folio-keyboard-case-for-11%E2%80%91inch-ipad-air-and-ipad-pro-us-english",
+    "retrievedAt": "2026-09-29"
+   }
+  },
+  {
+   "sku": "TK-LOGI-FLIPFOLIO-IPAD-13",
+   "slug": "logitech-flip-folio-ipad-13",
+   "name": "Logitech Flip Folio Keyboard Case for 13-inch iPad Air and iPad Pro",
+   "brand": "Logitech",
+   "category": "tablet-accessories",
+   "price": "179.95",
+   "priceBasis": "msrp",
+   "priceSource": "https://www.apple.com/shop/product/hs812zm/a/logitech-flip-folio-keyboard-case-for-13%E2%80%91inch-ipad-air-and-ipad-pro-us-english",
+   "priceAsOf": "2026-09-29",
+   "summary": "Folio case with a stowable Bluetooth keyboard for 13-inch iPad Air and iPad Pro; portrait or landscape and Easy-Switch for 3 devices.",
+   "description": "Logitech Flip Folio gives the iPad front and back protection with an adjustable kickstand and a magnetic attachment that allows landscape or portrait positioning. Its Bluetooth keyboard stows magnetically on the back, Easy-Switch keys flip between three devices, and it runs on replaceable coin-cell batteries rated for about 2 years. Weight: 611 g folio + 207 g keyboard.",
+   "keywords": "logitech flip folio ipad keyboard case bluetooth",
+   "specs": {
+    "compatibility": "iPad Pro 13-inch (M5, M4), iPad Air 13-inch (M4, M3, M2)"
+   },
+   "image": {
+    "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/HS812_GEO_US?wid=1400&hei=1400&fmt=png-alpha",
+    "page": "https://www.apple.com/shop/product/hs812zm/a/logitech-flip-folio-keyboard-case-for-13%E2%80%91inch-ipad-air-and-ipad-pro-us-english",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official Apple Store product image of a Logitech product (store.storeimages.cdn-apple.com); no reuse license granted by Apple or Logitech - rights not verified.",
+    "alt": "Logitech Flip Folio Keyboard Case for 13-inch iPad Air and iPad Pro, folio case with detachable keyboard",
+    "match": "EXACT",
+    "credit": "Logitech"
+   },
+   "collections": [
+    "apple-ecosystem"
+   ],
+   "featured": false,
+   "warranty": 12,
+   "sources": {
+    "product": "https://www.apple.com/shop/product/hs812zm/a/logitech-flip-folio-keyboard-case-for-13%E2%80%91inch-ipad-air-and-ipad-pro-us-english",
+    "retrievedAt": "2026-09-29"
+   }
+  },
+  {
+   "sku": "TK-LOGI-KEYSTOGO2-IPAD",
+   "slug": "logitech-keys-to-go-2-ipad",
+   "name": "Logitech Keys-To-Go 2 for iPad",
+   "brand": "Logitech",
+   "category": "keyboards",
+   "price": "79.95",
+   "priceBasis": "msrp",
+   "priceSource": "https://www.apple.com/shop/product/hryy2zm/a/logitech-keys-to-go-2-for-ipad",
+   "priceAsOf": "2026-09-29",
+   "summary": "Ultra-slim 4 mm Bluetooth travel keyboard with built-in cover, Easy-Switch for 3 devices and up to 36 months of battery life.",
+   "description": "Logitech Keys-To-Go 2 is a super-slim, lightweight keyboard with a built-in cover for durability and roomy 18 mm-spaced scissor keys. It types on iPad, iPhone and MacBook, switches between up to three devices, has a full row of shortcut keys customizable in Logi Options+, and is made with recycled plastic. Weight: 222 g.",
+   "keywords": "logitech keys to go 2 portable ipad keyboard bluetooth",
+   "specs": {
+    "connection": "Bluetooth",
+    "layout": "Compact, US English",
+    "switchType": "Scissor",
+    "mechanical": false,
+    "macSupport": true
+   },
+   "image": {
+    "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/HRYY2_GEO_US?wid=1400&hei=1400&fmt=png-alpha",
+    "page": "https://www.apple.com/shop/product/hryy2zm/a/logitech-keys-to-go-2-for-ipad",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official Apple Store product image of a Logitech product (store.storeimages.cdn-apple.com); no reuse license granted by Apple or Logitech - rights not verified.",
+    "alt": "Logitech Keys-To-Go 2 for iPad, top view with built-in cover",
+    "match": "EXACT",
+    "credit": "Logitech"
+   },
+   "collections": [
+    "apple-ecosystem"
+   ],
+   "featured": false,
+   "warranty": 12,
+   "sources": {
+    "product": "https://www.apple.com/shop/product/hryy2zm/a/logitech-keys-to-go-2-for-ipad",
+    "retrievedAt": "2026-09-29"
+   }
+  },
+  {
+   "sku": "TK-APPLE-MAGICKEYBOARD-NUMPAD",
+   "slug": "apple-magic-keyboard-numeric-keypad",
+   "name": "Apple Magic Keyboard with Numeric Keypad",
+   "brand": "Apple",
+   "category": "keyboards",
+   "price": "129.00",
+   "priceBasis": "msrp",
+   "priceSource": "https://www.apple.com/shop/product/mxcj3ll/a/magic-keyboard-with-numeric-keypad-us-english",
+   "priceAsOf": "2026-09-29",
+   "summary": "Apple's extended wireless Magic Keyboard (no Touch ID) with numeric keypad, navigation keys and full-size arrow keys.",
+   "description": "Magic Keyboard with Numeric Keypad has an extended layout with document navigation controls and full-size arrow keys, plus a numeric keypad for spreadsheets and finance apps. A scissor mechanism beneath each key and a low profile give comfortable, precise typing, and the built-in rechargeable battery lasts about a month or more between charges.",
+   "keywords": "apple magic keyboard numeric keypad full size mac",
+   "specs": {
+    "connection": "Bluetooth (wireless), rechargeable",
+    "layout": "Full-size with numeric keypad, US English (other languages available)",
+    "switchType": "Scissor mechanism",
+    "mechanical": false,
+    "macSupport": true
+   },
+   "image": {
+    "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/MQ052?wid=1400&hei=1400&fmt=png-alpha",
+    "page": "https://www.apple.com/shop/product/mxcj3ll/a/magic-keyboard-with-numeric-keypad-us-english",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official Apple Store product image (store.storeimages.cdn-apple.com); Apple has not granted a reuse license - rights not verified.",
+    "alt": "Apple Magic Keyboard with Numeric Keypad, top view",
+    "match": "EXACT",
+    "credit": "Apple"
+   },
+   "collections": [
+    "apple-ecosystem"
+   ],
+   "featured": false,
+   "warranty": 12,
+   "sources": {
+    "product": "https://www.apple.com/shop/product/mxcj3ll/a/magic-keyboard-with-numeric-keypad-us-english",
+    "retrievedAt": "2026-09-29"
+   },
+   "notes": "apple.com tech specs block for this part still mentions a Lightning port; connector omitted from specs pending clarification."
+  },
+  {
+   "sku": "TK-CORSAIR-M75-WIRELESS",
+   "slug": "corsair-m75-wireless-gaming-mouse",
+   "name": "Corsair M75 Wireless Lightweight RGB Gaming Mouse",
+   "brand": "Corsair",
+   "category": "mice",
+   "price": "129.95",
+   "priceBasis": "msrp",
+   "priceSource": "https://www.apple.com/shop/product/hryt2zm/a/corsair-m75-wireless-lightweight-rgb-gaming-mouse",
+   "priceAsOf": "2026-09-29",
+   "summary": "89 g ambidextrous wireless gaming mouse with 26K DPI Marksman sensor, Slipstream + Bluetooth and up to 105 h battery.",
+   "description": "The Corsair M75 Wireless has an ambidextrous shape with swappable magnetic side buttons, weighs 89 g and connects via Slipstream Wireless or Bluetooth. Its Marksman 26,000 DPI optical sensor, optical left/right switches rated for 100 million clicks, 100% PTFE feet and two-zone RGB (customized in iCUE) target competitive play.",
+   "keywords": "corsair m75 wireless gaming mouse mac ambidextrous",
+   "specs": {
+    "connection": "Slipstream 2.4 GHz wireless, Bluetooth, USB",
+    "sensorDpi": 26000,
+    "weightG": 89,
+    "sensor": "Corsair Marksman optical",
+    "batteryHours": 105,
+    "handOrientation": "Ambidextrous"
+   },
+   "colors": [
+    "White"
+   ],
+   "image": {
+    "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/HRYT2?wid=1400&hei=1400&fmt=png-alpha",
+    "page": "https://www.apple.com/shop/product/hryt2zm/a/corsair-m75-wireless-lightweight-rgb-gaming-mouse",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official Apple Store product image of a Corsair product (store.storeimages.cdn-apple.com); no reuse license granted by Apple or Corsair - rights not verified.",
+    "alt": "Corsair M75 Wireless Lightweight RGB Gaming Mouse in White, top view",
+    "match": "EXACT",
+    "credit": "Corsair"
+   },
+   "collections": [
+    "apple-ecosystem"
+   ],
+   "featured": false,
+   "warranty": 24,
+   "sources": {
+    "product": "https://www.apple.com/shop/product/hryt2zm/a/corsair-m75-wireless-lightweight-rgb-gaming-mouse",
+    "retrievedAt": "2026-09-29"
+   }
+  },
+  {
+   "sku": "TK-TWELVESOUTH-CURVE-STAND",
+   "slug": "twelve-south-curve-stand-macbook",
+   "name": "Twelve South Curve Stand for MacBook",
+   "brand": "Twelve South",
+   "category": "tablet-accessories",
+   "price": "59.95",
+   "priceBasis": "msrp",
+   "priceSource": "https://www.apple.com/shop/product/hlst2zm/a/twelve-south-curve-stand-for-macbook",
+   "priceAsOf": "2026-09-29",
+   "summary": "Flowing matte-black aluminum stand that raises a MacBook for better ergonomics and airflow at a desk setup.",
+   "description": "The Twelve South Curve stand is a flowing aluminum design in matte black that raises the MacBook screen off the desk for improved ergonomics and airflow. Pair it with a full-size keyboard, mouse or external display for a desktop setup; it keeps the screen lift accessible for one-handed opening. Weight: 0.65 kg.",
+   "keywords": "twelve south curve macbook stand aluminum",
+   "specs": {
+    "compatibility": "MacBook Air and MacBook Pro (13- to 16-inch, including M5 models), MacBook Neo"
+   },
+   "colors": [
+    "Matte Black"
+   ],
+   "image": {
+    "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/HLST2?wid=1400&hei=1400&fmt=png-alpha",
+    "page": "https://www.apple.com/shop/product/hlst2zm/a/twelve-south-curve-stand-for-macbook",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official Apple Store product image of a Twelve South product (store.storeimages.cdn-apple.com); no reuse license granted by Apple or Twelve South - rights not verified.",
+    "alt": "Twelve South Curve Stand for MacBook in Matte Black, angled view",
+    "match": "EXACT",
+    "credit": "Twelve South"
+   },
+   "collections": [
+    "apple-ecosystem"
+   ],
+   "featured": false,
+   "warranty": 12,
+   "sources": {
+    "product": "https://www.apple.com/shop/product/hlst2zm/a/twelve-south-curve-stand-for-macbook",
+    "retrievedAt": "2026-09-29"
+   }
+  },
+  {
+   "sku": "TK-TWELVESOUTH-CURVE-FLEX",
+   "slug": "twelve-south-curve-flex-macbook",
+   "name": "Twelve South Curve Flex Stand for MacBook",
+   "brand": "Twelve South",
+   "category": "tablet-accessories",
+   "price": "79.95",
+   "priceBasis": "msrp",
+   "priceSource": "https://www.apple.com/shop/product/hqgg2zm/a/twelve-south-curve-flex-stand-for-macbook",
+   "priceAsOf": "2026-09-29",
+   "summary": "Height- and angle-adjustable folding MacBook stand that lifts the screen and camera up to 22 inches.",
+   "description": "Twelve South Curve Flex raises a MacBook screen and camera up to 22 inches for eye-level video calls or alignment with an external display, and adjusts the keyboard angle from 0 to 45 degrees. It folds flat and slips into the included neoprene travel sleeve. Weight: 0.8 kg.",
+   "keywords": "twelve south curve flex adjustable macbook stand",
+   "specs": {
+    "compatibility": "MacBook Air and MacBook Pro (13- to 16-inch, including M5 models), MacBook Neo"
+   },
+   "image": {
+    "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/HQGG2?wid=1400&hei=1400&fmt=png-alpha",
+    "page": "https://www.apple.com/shop/product/hqgg2zm/a/twelve-south-curve-flex-stand-for-macbook",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official Apple Store product image of a Twelve South product (store.storeimages.cdn-apple.com); no reuse license granted by Apple or Twelve South - rights not verified.",
+    "alt": "Twelve South Curve Flex Stand for MacBook, angled view",
+    "match": "EXACT",
+    "credit": "Twelve South"
+   },
+   "collections": [
+    "apple-ecosystem"
+   ],
+   "featured": false,
+   "warranty": 12,
+   "sources": {
+    "product": "https://www.apple.com/shop/product/hqgg2zm/a/twelve-south-curve-flex-stand-for-macbook",
+    "retrievedAt": "2026-09-29"
+   }
+  },
+  {
+   "sku": "TK-TWELVESOUTH-BOOKARC-FLEX",
+   "slug": "twelve-south-bookarc-flex-macbook",
+   "name": "Twelve South BookArc Flex Vertical Desktop Stand for MacBook",
+   "brand": "Twelve South",
+   "category": "tablet-accessories",
+   "price": "49.95",
+   "priceBasis": "msrp",
+   "priceSource": "https://www.apple.com/shop/product/hr2w2zm/a/twelve-south-bookarc-flex-vertical-desktop-stand-for-macbook",
+   "priceAsOf": "2026-09-29",
+   "summary": "All-metal vertical stand that self-adjusts to any MacBook up to 1 inch thick for closed-clamshell desktop use.",
+   "description": "Twelve South BookArc Flex holds a MacBook vertically while it drives an external display, keyboard and mouse, saving desk space. The laptop's own weight draws the supporting arcs together, so it adapts to any MacBook with a screen up to 16 inches and less than 1 inch thick without inserts. Weight: 0.24 kg.",
+   "keywords": "twelve south bookarc flex vertical macbook stand clamshell",
+   "specs": {
+    "compatibility": "MacBook Air and MacBook Pro up to 16-inch and under 1 inch thick"
+   },
+   "image": {
+    "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/HR2W2?wid=1400&hei=1400&fmt=png-alpha",
+    "page": "https://www.apple.com/shop/product/hr2w2zm/a/twelve-south-bookarc-flex-vertical-desktop-stand-for-macbook",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official Apple Store product image of a Twelve South product (store.storeimages.cdn-apple.com); no reuse license granted by Apple or Twelve South - rights not verified.",
+    "alt": "Twelve South BookArc Flex Vertical Desktop Stand for MacBook, angled view",
+    "match": "EXACT",
+    "credit": "Twelve South"
+   },
+   "collections": [
+    "apple-ecosystem"
+   ],
+   "featured": false,
+   "warranty": 12,
+   "sources": {
+    "product": "https://www.apple.com/shop/product/hr2w2zm/a/twelve-south-bookarc-flex-vertical-desktop-stand-for-macbook",
+    "retrievedAt": "2026-09-29"
+   }
+  },
+  {
+   "sku": "TK-BELKIN-IPHONE-MOUNT-MAC",
+   "slug": "belkin-iphone-mount-magsafe-mac-notebooks",
+   "name": "Belkin iPhone Mount with MagSafe for Mac Notebooks",
+   "brand": "Belkin",
+   "category": "tablet-accessories",
+   "price": "29.95",
+   "priceBasis": "msrp",
+   "priceSource": "https://www.apple.com/shop/product/hq642zm/a/belkin-iphone-mount-with-magsafe-for-mac-notebooks",
+   "priceAsOf": "2026-09-29",
+   "summary": "MagSafe iPhone mount that clips to a Mac notebook for Continuity Camera and doubles as a ring grip and kickstand.",
+   "description": "The Belkin iPhone Mount with MagSafe attaches a MagSafe-compatible iPhone securely to a Mac laptop for Continuity Camera video calls and content capture, in portrait or landscape. Away from the Mac, the magnetic mount works as a ring grip and kickstand. It is made of aluminum, hard plastic and steel and weighs 35 g.",
+   "keywords": "belkin continuity camera iphone mount macbook magsafe",
+   "specs": {
+    "compatibility": "MagSafe iPhone models (iPhone 12 and later) with Mac notebooks",
+    "colors": "White, Black"
+   },
+   "colors": [
+    "White",
+    "Black"
+   ],
+   "image": {
+    "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/HQ642?wid=1400&hei=1400&fmt=png-alpha",
+    "page": "https://www.apple.com/shop/product/hq642zm/a/belkin-iphone-mount-with-magsafe-for-mac-notebooks",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official Apple Store product image of a Belkin product (store.storeimages.cdn-apple.com); no reuse license granted by Apple or Belkin - rights not verified.",
+    "alt": "Belkin iPhone Mount with MagSafe for Mac Notebooks in White, front view",
+    "match": "EXACT",
+    "credit": "Belkin"
+   },
+   "colorImages": {
+    "White": {
+     "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/HQ642?wid=1400&hei=1400&fmt=png-alpha",
+     "page": "https://www.apple.com/shop/product/hq642zm/a/belkin-iphone-mount-with-magsafe-for-mac-notebooks",
+     "sourceType": "manufacturer-product-page",
+     "rights": "Official Apple Store product image of a Belkin product (store.storeimages.cdn-apple.com); no reuse license granted by Apple or Belkin - rights not verified.",
+     "alt": "Belkin iPhone Mount with MagSafe for Mac Notebooks in White, front view",
+     "match": "EXACT",
+     "credit": "Belkin"
+    },
+    "Black": {
+     "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/HQ632?wid=1400&hei=1400&fmt=png-alpha",
+     "page": "https://www.apple.com/shop/product/hq642zm/a/belkin-iphone-mount-with-magsafe-for-mac-notebooks",
+     "sourceType": "manufacturer-product-page",
+     "rights": "Official Apple Store product image of a Belkin product (store.storeimages.cdn-apple.com); no reuse license granted by Apple or Belkin - rights not verified.",
+     "alt": "Belkin iPhone Mount with MagSafe for Mac Notebooks in Black, front view",
+     "match": "EXACT",
+     "credit": "Belkin"
+    }
+   },
+   "collections": [
+    "apple-ecosystem"
+   ],
+   "featured": false,
+   "warranty": 24,
+   "sources": {
+    "product": "https://www.apple.com/shop/product/hq642zm/a/belkin-iphone-mount-with-magsafe-for-mac-notebooks",
+    "retrievedAt": "2026-09-29"
+   }
+  },
+  {
+   "sku": "TK-INNOVELIS-TOTALMOUNT-MACMINI",
+   "slug": "innovelis-totalmount-pro-mac-mini",
+   "name": "Innovelis TotalMount Pro Mounting System for Mac mini (M2, 2023)",
+   "brand": "Innovelis",
+   "category": "tablet-accessories",
+   "price": "34.95",
+   "priceBasis": "msrp",
+   "priceSource": "https://www.apple.com/shop/product/hlxk2ll/a/innovelis-totalmount-pro-mounting-system-for-mac-mini-m2-2023",
+   "priceAsOf": "2026-09-29",
+   "summary": "Metal-free Mac mini mount for under a desk, on a wall or near a TV, with ventilation channels and safety bar.",
+   "description": "The Innovelis TotalMount Pro mounts a Mac mini under a desk, on a wall or near a TV, keeping it protected from bumps and spills. It is metal-free to maximize Wi-Fi, has ventilation channels, a safety bar, a built-in level and rubber dampers, and includes all mounting hardware plus two cable managers.",
+   "keywords": "innovelis mac mini mount under desk wall",
+   "specs": {
+    "compatibility": "Mac mini (2023), Mac mini (M1, 2020), Mac mini (2018), Mac mini (Late 2014)"
+   },
+   "colors": [
+    "White"
+   ],
+   "image": {
+    "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/HLXK2?wid=1400&hei=1400&fmt=png-alpha",
+    "page": "https://www.apple.com/shop/product/hlxk2ll/a/innovelis-totalmount-pro-mounting-system-for-mac-mini-m2-2023",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official Apple Store product image of a Innovelis product (store.storeimages.cdn-apple.com); no reuse license granted by Apple or Innovelis - rights not verified.",
+    "alt": "Innovelis TotalMount Pro Mounting System for Mac mini (M2, 2023) in White, with Mac mini mounted",
+    "match": "EXACT",
+    "credit": "Innovelis"
+   },
+   "collections": [
+    "apple-ecosystem"
+   ],
+   "featured": false,
+   "sources": {
+    "product": "https://www.apple.com/shop/product/hlxk2ll/a/innovelis-totalmount-pro-mounting-system-for-mac-mini-m2-2023",
+    "retrievedAt": "2026-09-29"
+   },
+   "notes": "Maker offers a two-year free mount replacement (not a standard warranty)."
+  },
+  {
+   "sku": "TK-KENSINGTON-SECMOUNT-MACMINI",
+   "slug": "kensington-security-mount-mac-mini",
+   "name": "Kensington Security Mount for Mac mini",
+   "brand": "Kensington",
+   "category": "tablet-accessories",
+   "price": "69.95",
+   "priceBasis": "msrp",
+   "priceSource": "https://www.apple.com/shop/product/hrzu2zm/a/kensington-security-mount-for-mac-mini",
+   "priceAsOf": "2026-09-29",
+   "summary": "Steel mounting bracket and locking kit for Mac mini (2024) with an included NanoSaver lock and 1.8 m cable.",
+   "description": "The Kensington Security Mount for Mac mini works as a mounting bracket, a locking kit or both. Its steel frame mounts on, under or beside a solid surface, keeps the power button and ports accessible, and is designed for use with the included NanoSaver lock (182.9 cm cable).",
+   "keywords": "kensington mac mini security lock mount bracket",
+   "specs": {
+    "compatibility": "Mac mini (2024)"
+   },
+   "image": {
+    "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/HRZU2?wid=1400&hei=1400&fmt=png-alpha",
+    "page": "https://www.apple.com/shop/product/hrzu2zm/a/kensington-security-mount-for-mac-mini",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official Apple Store product image of a Kensington product (store.storeimages.cdn-apple.com); no reuse license granted by Apple or Kensington - rights not verified.",
+    "alt": "Kensington Security Mount for Mac mini, bracket with lock",
+    "match": "EXACT",
+    "credit": "Kensington"
+   },
+   "collections": [
+    "apple-ecosystem"
+   ],
+   "featured": false,
+   "warranty": 60,
+   "sources": {
+    "product": "https://www.apple.com/shop/product/hrzu2zm/a/kensington-security-mount-for-mac-mini",
+    "retrievedAt": "2026-09-29"
+   }
+  },
+  {
+   "sku": "TK-LACIE-RUGGED-MINI-SSD",
+   "slug": "lacie-rugged-mini-ssd",
+   "name": "LaCie Rugged Mini SSD",
+   "brand": "LaCie",
+   "category": "external-storage",
+   "price": "179.95",
+   "priceBasis": "msrp",
+   "priceSource": "https://www.apple.com/shop/product/hrq82zm/a/lacie-rugged-mini-ssd-1tb",
+   "priceAsOf": "2026-09-29",
+   "summary": "IP54 rugged pocket SSD with USB 3.2 Gen 2x2 USB-C and read speeds up to 2000 MB/s for Mac, iPad and iPhone.",
+   "description": "The LaCie Rugged Mini SSD moves projects from capture to backup quickly, with USB 40Gbps/Thunderbolt 4 compatibility and read speeds up to 2000 MB/s. It plugs straight into Mac and iPad over USB-C, carries an IP54 rating for water, dust and drop resistance, and contains at least 30% recycled materials. Weight: 113 g.",
+   "keywords": "lacie rugged mini ssd portable usb-c",
+   "specs": {
+    "capacityTb": 1,
+    "interface": "USB-C (USB 3.2 Gen 2x2, Thunderbolt compatible)",
+    "readMbps": 2000
+   },
+   "variants": [
+    {
+     "label": "500GB",
+     "price": "119.95"
+    },
+    {
+     "label": "1TB",
+     "price": "179.95"
+    }
+   ],
+   "image": {
+    "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/HRQ82?wid=1400&hei=1400&fmt=png-alpha",
+    "page": "https://www.apple.com/shop/product/hrq82zm/a/lacie-rugged-mini-ssd-1tb",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official Apple Store product image of a LaCie product (store.storeimages.cdn-apple.com); no reuse license granted by Apple or LaCie - rights not verified.",
+    "alt": "LaCie Rugged Mini SSD, with orange bumper",
+    "match": "EXACT",
+    "credit": "LaCie"
+   },
+   "collections": [
+    "apple-ecosystem",
+    "high-end-storage"
+   ],
+   "featured": false,
+   "warranty": 36,
+   "sources": {
+    "product": "https://www.apple.com/shop/product/hrq82zm/a/lacie-rugged-mini-ssd-1tb",
+    "retrievedAt": "2026-09-29"
+   },
+   "notes": "Priced config is 1TB ($179.95); 500GB is $119.95 (hrq92zm)."
+  },
+  {
+   "sku": "TK-LACIE-MOBILE-SSD-SECURE",
+   "slug": "lacie-mobile-ssd-secure",
+   "name": "LaCie Mobile SSD Secure",
+   "brand": "LaCie",
+   "category": "external-storage",
+   "price": "149.95",
+   "priceBasis": "msrp",
+   "priceSource": "https://www.apple.com/shop/product/hpq42zm/a/lacie-1tb-mobile-ssd-secure-usb-c-drive",
+   "priceAsOf": "2026-09-29",
+   "summary": "Travel-sized USB-C SSD with password-activated hardware encryption, up to 1050 MB/s reads and iPhone ProRes recording.",
+   "description": "The LaCie Mobile SSD Secure delivers up to 1050 MB/s read and 1000 MB/s write speeds with password-activated hardware encryption. It works with USB-C Mac, iPad and iPhone, is qualified for Apple ProRes 4K 120 fps recording on iPhone, is Time Machine compatible and weighs 45 g.",
+   "keywords": "lacie mobile ssd secure encrypted portable usb-c prores",
+   "specs": {
+    "capacityTb": 1,
+    "interface": "USB-C",
+    "readMbps": 1050
+   },
+   "variants": [
+    {
+     "label": "1TB",
+     "price": "149.95"
+    },
+    {
+     "label": "2TB",
+     "price": "249.95"
+    }
+   ],
+   "colors": [
+    "Space Gray"
+   ],
+   "image": {
+    "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/HPQ42?wid=1400&hei=1400&fmt=png-alpha",
+    "page": "https://www.apple.com/shop/product/hpq42zm/a/lacie-1tb-mobile-ssd-secure-usb-c-drive",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official Apple Store product image of a LaCie product (store.storeimages.cdn-apple.com); no reuse license granted by Apple or LaCie - rights not verified.",
+    "alt": "LaCie Mobile SSD Secure in Space Gray, angled view",
+    "match": "EXACT",
+    "credit": "LaCie"
+   },
+   "collections": [
+    "apple-ecosystem",
+    "high-end-storage"
+   ],
+   "featured": false,
+   "warranty": 36,
+   "sources": {
+    "product": "https://www.apple.com/shop/product/hpq42zm/a/lacie-1tb-mobile-ssd-secure-usb-c-drive",
+    "retrievedAt": "2026-09-29"
+   }
+  },
+  {
+   "sku": "TK-LACIE-RUGGED-USBC-HDD",
+   "slug": "lacie-rugged-usb-c-portable-hdd",
+   "name": "LaCie Rugged USB-C Portable Hard Drive",
+   "brand": "LaCie",
+   "category": "external-storage",
+   "price": "134.95",
+   "priceBasis": "msrp",
+   "priceSource": "https://www.apple.com/shop/product/hkvd2zm/a/lacie-1tb-rugged-usb-c-portable-hard-drive",
+   "priceAsOf": "2026-09-29",
+   "summary": "Drop-, crush- and rain-resistant bus-powered USB-C hard drive with three years of Rescue Data Recovery.",
+   "description": "The LaCie Rugged USB-C portable drive combines rugged, drop-, crush- and rain-resistant design with USB-C connectivity. It is bus powered, Time Machine compatible, includes a cross-platform formatting utility and comes with three years of Rescue Data Recovery Service.",
+   "keywords": "lacie rugged usb-c portable hard drive orange bumper",
+   "specs": {
+    "capacityTb": 1,
+    "interface": "USB-C"
+   },
+   "variants": [
+    {
+     "label": "1TB",
+     "price": "134.95"
+    },
+    {
+     "label": "2TB",
+     "price": "164.95"
+    }
+   ],
+   "image": {
+    "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/HKVD2?wid=1400&hei=1400&fmt=png-alpha",
+    "page": "https://www.apple.com/shop/product/hkvd2zm/a/lacie-1tb-rugged-usb-c-portable-hard-drive",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official Apple Store product image of a LaCie product (store.storeimages.cdn-apple.com); no reuse license granted by Apple or LaCie - rights not verified.",
+    "alt": "LaCie Rugged USB-C Portable Hard Drive, with orange bumper",
+    "match": "EXACT",
+    "credit": "LaCie"
+   },
+   "collections": [
+    "apple-ecosystem"
+   ],
+   "featured": false,
+   "warranty": 36,
+   "sources": {
+    "product": "https://www.apple.com/shop/product/hkvd2zm/a/lacie-1tb-rugged-usb-c-portable-hard-drive",
+    "retrievedAt": "2026-09-29"
+   }
+  },
+  {
+   "sku": "TK-LACIE-MOBILE-DRIVE-SECURE",
+   "slug": "lacie-mobile-drive-secure-usb-c",
+   "name": "LaCie Mobile Drive Secure USB-C with Rescue",
+   "brand": "LaCie",
+   "category": "external-storage",
+   "price": "154.95",
+   "priceBasis": "msrp",
+   "priceSource": "https://www.apple.com/shop/product/hq4d2zm/a/lacie-mobile-drive-secure-usb-c-2tb-with-rescue",
+   "priceAsOf": "2026-09-29",
+   "summary": "Recycled-aluminum USB-C portable hard drive with password protection, one-click backup and 3-year Rescue data recovery.",
+   "description": "The LaCie Mobile Drive Secure pairs a Neil Poulton design built from post-consumer recycled aluminum and plastic with password protection. It works with Mac and iPad USB-C out of the box, supports one-click or scheduled backups at up to 130 MB/s, and includes three years of Rescue Data Recovery Services.",
+   "keywords": "lacie mobile drive secure usb-c portable hard drive",
+   "specs": {
+    "capacityTb": 2,
+    "interface": "USB-C",
+    "readMbps": 130
+   },
+   "variants": [
+    {
+     "label": "2TB",
+     "price": "154.95"
+    },
+    {
+     "label": "4TB",
+     "price": "209.95"
+    },
+    {
+     "label": "5TB",
+     "price": "244.95"
+    }
+   ],
+   "colors": [
+    "Gray"
+   ],
+   "image": {
+    "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/HQ4D2?wid=1400&hei=1400&fmt=png-alpha",
+    "page": "https://www.apple.com/shop/product/hq4d2zm/a/lacie-mobile-drive-secure-usb-c-2tb-with-rescue",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official Apple Store product image of a LaCie product (store.storeimages.cdn-apple.com); no reuse license granted by Apple or LaCie - rights not verified.",
+    "alt": "LaCie Mobile Drive Secure USB-C with Rescue in Gray, angled view",
+    "match": "EXACT",
+    "credit": "LaCie"
+   },
+   "collections": [
+    "apple-ecosystem"
+   ],
+   "featured": false,
+   "warranty": 36,
+   "sources": {
+    "product": "https://www.apple.com/shop/product/hq4d2zm/a/lacie-mobile-drive-secure-usb-c-2tb-with-rescue",
+    "retrievedAt": "2026-09-29"
+   }
+  },
+  {
+   "sku": "TK-LACIE-1BIG-DOCK-10TB",
+   "slug": "lacie-1big-dock-10tb",
+   "name": "LaCie 1big Dock 10TB Thunderbolt 3 Storage Hub",
+   "brand": "LaCie",
+   "category": "external-storage",
+   "price": "739.95",
+   "priceBasis": "msrp",
+   "priceSource": "https://www.apple.com/shop/product/hpl12zm/a/lacie-10tb-1big-dock-external-hard-drive-docking-station",
+   "priceAsOf": "2026-09-29",
+   "summary": "10TB Thunderbolt 3 desktop drive and dock with SD/CF slots, DisplayPort 1.4, USB-C hub and laptop charging.",
+   "description": "The LaCie 1big Dock is a Thunderbolt 3 storage hub with a Seagate IronWolf Pro drive, built-in CF and SD card slots, a DisplayPort 1.4 output and dual Thunderbolt 3 ports for daisy-chaining. It charges a USB-C Mac with up to 45W (70W pass-through with the laptop's power supply) and carries a five-year warranty with Rescue Data Recovery.",
+   "keywords": "lacie 1big dock thunderbolt 3 desktop hard drive hub",
+   "specs": {
+    "capacityTb": 10,
+    "interface": "Thunderbolt 3 (USB-C), USB-C"
+   },
+   "image": {
+    "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/HPL12?wid=1400&hei=1400&fmt=png-alpha",
+    "page": "https://www.apple.com/shop/product/hpl12zm/a/lacie-10tb-1big-dock-external-hard-drive-docking-station",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official Apple Store product image of a LaCie product (store.storeimages.cdn-apple.com); no reuse license granted by Apple or LaCie - rights not verified.",
+    "alt": "LaCie 1big Dock 10TB Thunderbolt 3 Storage Hub, front view",
+    "match": "EXACT",
+    "credit": "LaCie"
+   },
+   "collections": [
+    "apple-ecosystem",
+    "high-end-storage"
+   ],
+   "featured": false,
+   "warranty": 60,
+   "sources": {
+    "product": "https://www.apple.com/shop/product/hpl12zm/a/lacie-10tb-1big-dock-external-hard-drive-docking-station",
+    "retrievedAt": "2026-09-29"
+   }
+  },
+  {
+   "sku": "TK-LACIE-D2-PRO-8TB",
+   "slug": "lacie-d2-professional-8tb",
+   "name": "LaCie d2 Professional 8TB Desktop Hard Drive",
+   "brand": "LaCie",
+   "category": "external-storage",
+   "price": "384.95",
+   "priceBasis": "msrp",
+   "priceSource": "https://www.apple.com/shop/product/hpl32zm/a/lacie-8tb-d2-professional-desktop-hard-drive",
+   "priceAsOf": "2026-09-29",
+   "summary": "8TB aluminum desktop hard drive with enterprise-class BarraCuda Pro disk, USB-C and speeds up to 260 MB/s.",
+   "description": "The LaCie d2 Professional is an external desktop hard drive for creatives on SSD-based laptops or all-in-ones, with speeds up to 260 MB/s over USB-C (USB 3.1 Gen 2). An aluminum enclosure reduces noise and vibration, and the enterprise-class BarraCuda Pro drive is covered by a five-year limited warranty including Rescue Data Recovery.",
+   "keywords": "lacie d2 professional desktop hard drive usb-c",
+   "specs": {
+    "capacityTb": 8,
+    "interface": "USB-C (USB 3.1 Gen 2)",
+    "readMbps": 260
+   },
+   "image": {
+    "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/HPL32?wid=1400&hei=1400&fmt=png-alpha",
+    "page": "https://www.apple.com/shop/product/hpl32zm/a/lacie-8tb-d2-professional-desktop-hard-drive",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official Apple Store product image of a LaCie product (store.storeimages.cdn-apple.com); no reuse license granted by Apple or LaCie - rights not verified.",
+    "alt": "LaCie d2 Professional 8TB Desktop Hard Drive, front view",
+    "match": "EXACT",
+    "credit": "LaCie"
+   },
+   "collections": [
+    "apple-ecosystem"
+   ],
+   "featured": false,
+   "warranty": 60,
+   "sources": {
+    "product": "https://www.apple.com/shop/product/hpl32zm/a/lacie-8tb-d2-professional-desktop-hard-drive",
+    "retrievedAt": "2026-09-29"
+   }
+  },
+  {
+   "sku": "TK-LACIE-2BIG-DOCK-16TB",
+   "slug": "lacie-2big-dock-raid-16tb",
+   "name": "LaCie 2big Dock RAID 16TB",
+   "brand": "LaCie",
+   "category": "external-storage",
+   "price": "1309.95",
+   "priceBasis": "msrp",
+   "priceSource": "https://www.apple.com/shop/product/hrq42zm/a/lacie-2big-dock-raid-external-hdd-16tb",
+   "priceAsOf": "2026-09-29",
+   "summary": "16TB two-bay Thunderbolt RAID with hot-swappable IronWolf Pro drives, card slots, DisplayPort and up to 550 MB/s.",
+   "description": "The LaCie 2big Dock is a desktop RAID with speeds up to 550 MB/s and dual Thunderbolt 4 ports that daisy-chain up to five Thunderbolt devices. It adds a USB 3.2 Type-A hub port, CFexpress Type B, CFast 2.0 and SD slots and DisplayPort 1.4, and uses hot-swappable IronWolf Pro drives configurable as RAID 0 or 1.",
+   "keywords": "lacie 2big dock raid thunderbolt 4 desktop storage",
+   "specs": {
+    "capacityTb": 16,
+    "interface": "Thunderbolt 4 (USB-C), USB",
+    "readMbps": 550
+   },
+   "image": {
+    "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/HRQ42?wid=1400&hei=1400&fmt=png-alpha",
+    "page": "https://www.apple.com/shop/product/hrq42zm/a/lacie-2big-dock-raid-external-hdd-16tb",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official Apple Store product image of a LaCie product (store.storeimages.cdn-apple.com); no reuse license granted by Apple or LaCie - rights not verified.",
+    "alt": "LaCie 2big Dock RAID 16TB, front view",
+    "match": "EXACT",
+    "credit": "LaCie"
+   },
+   "collections": [
+    "apple-ecosystem",
+    "high-end-storage"
+   ],
+   "featured": true,
+   "warranty": 60,
+   "sources": {
+    "product": "https://www.apple.com/shop/product/hrq42zm/a/lacie-2big-dock-raid-external-hdd-16tb",
+    "retrievedAt": "2026-09-29"
+   }
+  },
+  {
+   "sku": "TK-SANDISKPRO-PRO-G40",
+   "slug": "sandisk-professional-pro-g40-ssd",
+   "name": "SanDisk Professional PRO-G40 SSD",
+   "brand": "SanDisk",
+   "category": "external-storage",
+   "price": "749.95",
+   "priceBasis": "msrp",
+   "priceSource": "https://www.apple.com/shop/product/hru52zm/a/sandisk-professional-pro-g40%E2%84%A2-ssd-4tb",
+   "priceAsOf": "2026-09-29",
+   "summary": "IP68 rugged dual-mode Thunderbolt 3 / USB-C portable SSD with up to 3000 MB/s reads.",
+   "description": "The SanDisk Professional PRO-G40 is an ultra-rugged portable SSD with dual-mode Thunderbolt 3 (40Gbps) and USB-C (10Gbps) compatibility. It reaches up to 3000 MB/s read and 2500 MB/s write over Thunderbolt 3, has IP68 dust/water resistance, 4000 lb crush resistance and up to 3 m drop protection, and an aluminum core for cooling.",
+   "keywords": "sandisk professional pro-g40 thunderbolt ssd rugged",
+   "specs": {
+    "capacityTb": 2,
+    "interface": "Thunderbolt 3 (USB-C), USB-C 10Gbps",
+    "readMbps": 3000
+   },
+   "variants": [
+    {
+     "label": "2TB",
+     "price": "749.95"
+    },
+    {
+     "label": "4TB",
+     "price": "1199.95"
+    }
+   ],
+   "image": {
+    "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/HRU52?wid=1400&hei=1400&fmt=png-alpha",
+    "page": "https://www.apple.com/shop/product/hru52zm/a/sandisk-professional-pro-g40%E2%84%A2-ssd-4tb",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official Apple Store product image of a SanDisk product (store.storeimages.cdn-apple.com); no reuse license granted by Apple or SanDisk - rights not verified.",
+    "alt": "SanDisk Professional PRO-G40 SSD, angled view",
+    "match": "EXACT",
+    "credit": "SanDisk"
+   },
+   "collections": [
+    "apple-ecosystem",
+    "high-end-storage"
+   ],
+   "featured": true,
+   "warranty": 60,
+   "sources": {
+    "product": "https://www.apple.com/shop/product/hru52zm/a/sandisk-professional-pro-g40%E2%84%A2-ssd-4tb",
+    "retrievedAt": "2026-09-29"
+   },
+   "notes": "Base price = 2TB ($749.95, apple.com part HRU62ZM/A); 4TB is $1199.95. Image is the 4TB listing (identical design)."
+  },
+  {
+   "sku": "TK-SANDISK-PHONE-DRIVE",
+   "slug": "sandisk-phone-drive",
+   "name": "SanDisk Phone Drive",
+   "brand": "SanDisk",
+   "category": "external-storage",
+   "price": "86.95",
+   "priceBasis": "msrp",
+   "priceSource": "https://www.apple.com/shop/product/hru92zm/a/sandisk-phone-drive%E2%80%AF-256gb",
+   "priceAsOf": "2026-09-29",
+   "summary": "Dual-connector (USB-C and Lightning) flash drive for moving and backing up files across iPhone, iPad and Mac.",
+   "description": "The SanDisk Phone Drive has both USB-C and Lightning connectors to move files between iPhone, iPad Pro, Mac and USB-C devices. It supports automatic backup with the SanDisk mobile app, includes encryption and recovery, and comes in a Metallic Sky finish. Weight: 17 g.",
+   "keywords": "sandisk phone drive iphone flash drive lightning usb-c backup",
+   "specs": {
+    "capacityTb": 0.128,
+    "interface": "USB-C and Lightning"
+   },
+   "variants": [
+    {
+     "label": "128GB",
+     "price": "86.95"
+    },
+    {
+     "label": "256GB",
+     "price": "125.95"
+    }
+   ],
+   "colors": [
+    "Metallic Sky"
+   ],
+   "image": {
+    "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/HRU92?wid=1400&hei=1400&fmt=png-alpha",
+    "page": "https://www.apple.com/shop/product/hru92zm/a/sandisk-phone-drive%E2%80%AF-256gb",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official Apple Store product image of a SanDisk product (store.storeimages.cdn-apple.com); no reuse license granted by Apple or SanDisk - rights not verified.",
+    "alt": "SanDisk Phone Drive in Metallic Sky, front view with connector",
+    "match": "EXACT",
+    "credit": "SanDisk"
+   },
+   "collections": [
+    "apple-ecosystem"
+   ],
+   "featured": false,
+   "warranty": 24,
+   "sources": {
+    "product": "https://www.apple.com/shop/product/hru92zm/a/sandisk-phone-drive%E2%80%AF-256gb",
+    "retrievedAt": "2026-09-29"
+   }
+  },
+  {
+   "sku": "TK-WD-GDRIVE-ARMORATD",
+   "slug": "wd-g-drive-armoratd-portable-hdd",
+   "name": "WD G-DRIVE ArmorATD Portable Hard Drive",
+   "brand": "Western Digital",
+   "category": "external-storage",
+   "price": "184.95",
+   "priceBasis": "msrp",
+   "priceSource": "https://www.apple.com/shop/product/hsg12zm/a/western-digital-g%E2%80%91drive-armoratd%E2%84%A2-portable-hard-drive-1tb",
+   "priceAsOf": "2026-09-29",
+   "summary": "Rugged anodized-aluminum USB-C portable hard drive with easy-grip bumper, rain/dust/crush resistance and 130 MB/s reads.",
+   "description": "The G-DRIVE ArmorATD Portable Hard Drive protects content on the move with an anodized aluminum enclosure and easy-grip bumper that resist bumps, drops, rain, dust and crushing. It transfers at up to 130 MB/s over USB-C (5Gbps), is Thunderbolt 3 compatible and Time Machine compatible. Weight: 250 g.",
+   "keywords": "wd g-drive armoratd rugged portable hard drive usb-c",
+   "specs": {
+    "capacityTb": 1,
+    "interface": "USB-C (5Gbps), Thunderbolt 3 compatible",
+    "readMbps": 130
+   },
+   "variants": [
+    {
+     "label": "1TB",
+     "price": "184.95"
+    },
+    {
+     "label": "2TB",
+     "price": "204.95"
+    },
+    {
+     "label": "5TB",
+     "price": "339.95"
+    }
+   ],
+   "image": {
+    "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/HSG12?wid=1400&hei=1400&fmt=png-alpha",
+    "page": "https://www.apple.com/shop/product/hsg12zm/a/western-digital-g%E2%80%91drive-armoratd%E2%84%A2-portable-hard-drive-1tb",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official Apple Store product image of a Western Digital product (store.storeimages.cdn-apple.com); no reuse license granted by Apple or Western Digital - rights not verified.",
+    "alt": "WD G-DRIVE ArmorATD Portable Hard Drive, angled view",
+    "match": "EXACT",
+    "credit": "Western Digital"
+   },
+   "collections": [
+    "apple-ecosystem"
+   ],
+   "featured": false,
+   "warranty": 36,
+   "sources": {
+    "product": "https://www.apple.com/shop/product/hsg12zm/a/western-digital-g%E2%80%91drive-armoratd%E2%84%A2-portable-hard-drive-1tb",
+    "retrievedAt": "2026-09-29"
+   }
+  },
+  {
+   "sku": "TK-PROMISE-PEGASUS32-R4-16TB",
+   "slug": "promise-pegasus32-r4-16tb",
+   "name": "Promise Pegasus32 R4 16TB RAID System",
+   "brand": "Promise",
+   "category": "external-storage",
+   "price": "1499.00",
+   "priceBasis": "msrp",
+   "priceSource": "https://www.apple.com/shop/product/hnrl2ll/a/promise-pegasus32-r4-16tb-raid-system",
+   "priceAsOf": "2026-09-29",
+   "summary": "16TB Thunderbolt 3 hardware RAID for Mac with four 4TB 7200 rpm SATA drives, 85W host charging and DisplayPort 1.4.",
+   "description": "The Promise Pegasus32 R4 16TB RAID System brings Thunderbolt 3 (40Gbps) or USB-C (10Gbps) hardware RAID to Mac over a single cable, preconfigured as RAID 5 with four 4TB 7200 rpm SATA drives in hot-swappable modules. It supports RAID 0, 1, 5, 6, 10 and JBOD, daisy-chains up to six Thunderbolt 3 devices, powers a Mac at up to 85W and drives displays up to 8K via DP1.4. Weight: 6.8 kg.",
+   "keywords": "promise pegasus32 thunderbolt 3 raid mac storage",
+   "specs": {
+    "capacityTb": 16,
+    "interface": "Thunderbolt 3 (USB-C), USB-C"
+   },
+   "image": {
+    "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/HNRL2?wid=1400&hei=1400&fmt=png-alpha",
+    "page": "https://www.apple.com/shop/product/hnrl2ll/a/promise-pegasus32-r4-16tb-raid-system",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official Apple Store product image of a Promise product (store.storeimages.cdn-apple.com); no reuse license granted by Apple or Promise - rights not verified.",
+    "alt": "Promise Pegasus32 R4 16TB RAID System, front view",
+    "match": "EXACT",
+    "credit": "Promise"
+   },
+   "collections": [
+    "apple-ecosystem",
+    "high-end-storage",
+    "creator-workstations"
+   ],
+   "featured": false,
+   "warranty": 36,
+   "sources": {
+    "product": "https://www.apple.com/shop/product/hnrl2ll/a/promise-pegasus32-r4-16tb-raid-system",
+    "retrievedAt": "2026-09-29"
+   }
+  },
+  {
+   "sku": "TK-PROMISE-PEGASUS32-R8-32TB",
+   "slug": "promise-pegasus32-r8-32tb",
+   "name": "Promise Pegasus32 R8 32TB RAID System",
+   "brand": "Promise",
+   "category": "external-storage",
+   "price": "2999.00",
+   "priceBasis": "msrp",
+   "priceSource": "https://www.apple.com/shop/product/hnrn2ll/a/promise-pegasus32-r8-32tb-raid-system",
+   "priceAsOf": "2026-09-29",
+   "summary": "32TB Thunderbolt 3 hardware RAID for Mac with eight 4TB 7200 rpm SATA drives, 85W host charging and DisplayPort 1.4.",
+   "description": "The Promise Pegasus32 R8 32TB RAID System brings Thunderbolt 3 (40Gbps) or USB-C (10Gbps) hardware RAID to Mac over a single cable, preconfigured as RAID 5 with eight 4TB 7200 rpm SATA drives in hot-swappable modules. It supports RAID 0, 1, 5, 6, 10 and JBOD, daisy-chains up to six Thunderbolt 3 devices, powers a Mac at up to 85W and drives displays up to 8K via DP1.4. Weight: 11 kg.",
+   "keywords": "promise pegasus32 thunderbolt 3 raid mac storage",
+   "specs": {
+    "capacityTb": 32,
+    "interface": "Thunderbolt 3 (USB-C), USB-C"
+   },
+   "image": {
+    "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/HNRN2?wid=1400&hei=1400&fmt=png-alpha",
+    "page": "https://www.apple.com/shop/product/hnrn2ll/a/promise-pegasus32-r8-32tb-raid-system",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official Apple Store product image of a Promise product (store.storeimages.cdn-apple.com); no reuse license granted by Apple or Promise - rights not verified.",
+    "alt": "Promise Pegasus32 R8 32TB RAID System, front view",
+    "match": "EXACT",
+    "credit": "Promise"
+   },
+   "collections": [
+    "apple-ecosystem",
+    "high-end-storage",
+    "creator-workstations"
+   ],
+   "featured": false,
+   "warranty": 36,
+   "sources": {
+    "product": "https://www.apple.com/shop/product/hnrn2ll/a/promise-pegasus32-r8-32tb-raid-system",
+    "retrievedAt": "2026-09-29"
+   }
+  },
+  {
+   "sku": "TK-INCASE-EDGE-MBA13",
+   "slug": "incase-edge-hardshell-macbook-air-13",
+   "name": "Incase Edge Hardshell Case for 13-inch MacBook Air",
+   "brand": "Incase",
+   "category": "cases-protection",
+   "price": "49.95",
+   "priceBasis": "msrp",
+   "priceSource": "https://www.apple.com/shop/product/hry82zm/a/incase-edge-hardshell-case-for-13%E2%80%B3-macbook-air",
+   "priceAsOf": "2026-09-29",
+   "summary": "Lightweight snap-on hardshell for the 13-inch MacBook Air with matte finish, raised edge bumpers and rubberized feet.",
+   "description": "The Incase Edge Hardshell gives the 13-inch MacBook Air full scratch and bump protection with a low-profile, lightweight silhouette and full access to ports, buttons and indicator lights. Its matte finish resists fingerprints, raised edge bumpers and an inset top window add grip, and rubberized feet keep the MacBook in place. Weight: 229 g.",
+   "keywords": "incase edge hardshell macbook case clear black",
+   "specs": {
+    "accessoryType": "Hardshell laptop case",
+    "compatibility": "MacBook Air 13-inch (M5, M4, M3, M2)",
+    "material": "Hard plastic, synthetic",
+    "magsafe": false,
+    "colors": "Clear, Black"
+   },
+   "colors": [
+    "Clear",
+    "Black"
+   ],
+   "image": {
+    "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/HRY82?wid=1400&hei=1400&fmt=png-alpha",
+    "page": "https://www.apple.com/shop/product/hry82zm/a/incase-edge-hardshell-case-for-13%E2%80%B3-macbook-air",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official Apple Store product image of a Incase product (store.storeimages.cdn-apple.com); no reuse license granted by Apple or Incase - rights not verified.",
+    "alt": "Incase Edge Hardshell Case for 13-inch MacBook Air in Clear, opened, port side",
+    "match": "EXACT",
+    "credit": "Incase"
+   },
+   "colorImages": {
+    "Clear": {
+     "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/HRY82?wid=1400&hei=1400&fmt=png-alpha",
+     "page": "https://www.apple.com/shop/product/hry82zm/a/incase-edge-hardshell-case-for-13%E2%80%B3-macbook-air",
+     "sourceType": "manufacturer-product-page",
+     "rights": "Official Apple Store product image of a Incase product (store.storeimages.cdn-apple.com); no reuse license granted by Apple or Incase - rights not verified.",
+     "alt": "Incase Edge Hardshell Case for 13-inch MacBook Air in Clear, opened, port side",
+     "match": "EXACT",
+     "credit": "Incase"
+    },
+    "Black": {
+     "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/HRY72?wid=1400&hei=1400&fmt=png-alpha",
+     "page": "https://www.apple.com/shop/product/hry82zm/a/incase-edge-hardshell-case-for-13%E2%80%B3-macbook-air",
+     "sourceType": "manufacturer-product-page",
+     "rights": "Official Apple Store product image of a Incase product (store.storeimages.cdn-apple.com); no reuse license granted by Apple or Incase - rights not verified.",
+     "alt": "Incase Edge Hardshell Case for 13-inch MacBook Air in Black, opened, port side",
+     "match": "EXACT",
+     "credit": "Incase"
+    }
+   },
+   "collections": [
+    "apple-ecosystem"
+   ],
+   "featured": false,
+   "warranty": 12,
+   "sources": {
+    "product": "https://www.apple.com/shop/product/hry82zm/a/incase-edge-hardshell-case-for-13%E2%80%B3-macbook-air",
+    "retrievedAt": "2026-09-29"
+   }
+  },
+  {
+   "sku": "TK-INCASE-EDGE-MBA15",
+   "slug": "incase-edge-hardshell-macbook-air-15",
+   "name": "Incase Edge Hardshell Case for 15-inch MacBook Air",
+   "brand": "Incase",
+   "category": "cases-protection",
+   "price": "49.95",
+   "priceBasis": "msrp",
+   "priceSource": "https://www.apple.com/shop/product/hry32zm/a/incase-edge-hardshell-case-for-15%E2%80%B3-macbook-air",
+   "priceAsOf": "2026-09-29",
+   "summary": "Lightweight snap-on hardshell for the 15-inch MacBook Air with matte finish, raised edge bumpers and rubberized feet.",
+   "description": "The Incase Edge Hardshell gives the 15-inch MacBook Air full scratch and bump protection with a low-profile, lightweight silhouette and full access to ports, buttons and indicator lights. Its matte finish resists fingerprints, raised edge bumpers and an inset top window add grip, and rubberized feet keep the MacBook in place. Weight: 270 g.",
+   "keywords": "incase edge hardshell macbook case clear black",
+   "specs": {
+    "accessoryType": "Hardshell laptop case",
+    "compatibility": "MacBook Air 15-inch (M5, M4, M3, M2)",
+    "material": "Hard plastic, synthetic",
+    "magsafe": false,
+    "colors": "Clear, Black"
+   },
+   "colors": [
+    "Clear",
+    "Black"
+   ],
+   "image": {
+    "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/HRY42?wid=1400&hei=1400&fmt=png-alpha",
+    "page": "https://www.apple.com/shop/product/hry32zm/a/incase-edge-hardshell-case-for-15%E2%80%B3-macbook-air",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official Apple Store product image of a Incase product (store.storeimages.cdn-apple.com); no reuse license granted by Apple or Incase - rights not verified.",
+    "alt": "Incase Edge Hardshell Case for 15-inch MacBook Air in Clear, opened, port side",
+    "match": "EXACT",
+    "credit": "Incase"
+   },
+   "colorImages": {
+    "Clear": {
+     "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/HRY42?wid=1400&hei=1400&fmt=png-alpha",
+     "page": "https://www.apple.com/shop/product/hry32zm/a/incase-edge-hardshell-case-for-15%E2%80%B3-macbook-air",
+     "sourceType": "manufacturer-product-page",
+     "rights": "Official Apple Store product image of a Incase product (store.storeimages.cdn-apple.com); no reuse license granted by Apple or Incase - rights not verified.",
+     "alt": "Incase Edge Hardshell Case for 15-inch MacBook Air in Clear, opened, port side",
+     "match": "EXACT",
+     "credit": "Incase"
+    },
+    "Black": {
+     "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/HRY32?wid=1400&hei=1400&fmt=png-alpha",
+     "page": "https://www.apple.com/shop/product/hry32zm/a/incase-edge-hardshell-case-for-15%E2%80%B3-macbook-air",
+     "sourceType": "manufacturer-product-page",
+     "rights": "Official Apple Store product image of a Incase product (store.storeimages.cdn-apple.com); no reuse license granted by Apple or Incase - rights not verified.",
+     "alt": "Incase Edge Hardshell Case for 15-inch MacBook Air in Black, opened, port side",
+     "match": "EXACT",
+     "credit": "Incase"
+    }
+   },
+   "collections": [
+    "apple-ecosystem"
+   ],
+   "featured": false,
+   "warranty": 12,
+   "sources": {
+    "product": "https://www.apple.com/shop/product/hry32zm/a/incase-edge-hardshell-case-for-15%E2%80%B3-macbook-air",
+    "retrievedAt": "2026-09-29"
+   }
+  },
+  {
+   "sku": "TK-INCASE-EDGE-MBP14",
+   "slug": "incase-edge-hardshell-macbook-pro-14",
+   "name": "Incase Edge Hardshell Case for 14-inch MacBook Pro",
+   "brand": "Incase",
+   "category": "cases-protection",
+   "price": "49.95",
+   "priceBasis": "msrp",
+   "priceSource": "https://www.apple.com/shop/product/hry62zm/a/incase-edge-hardshell-case-for-14%E2%80%B3-macbook-pro",
+   "priceAsOf": "2026-09-29",
+   "summary": "Lightweight snap-on hardshell for the 14-inch MacBook Pro with matte finish, raised edge bumpers and rubberized feet.",
+   "description": "The Incase Edge Hardshell gives the 14-inch MacBook Pro full scratch and bump protection with a low-profile, lightweight silhouette and full access to ports, buttons and indicator lights. Its matte finish resists fingerprints, raised edge bumpers and an inset top window add grip, and rubberized feet keep the MacBook in place. Weight: 233 g.",
+   "keywords": "incase edge hardshell macbook case clear black",
+   "specs": {
+    "accessoryType": "Hardshell laptop case",
+    "compatibility": "MacBook Pro 14-inch (M5 family, 2024, 2023, 2021)",
+    "material": "Hard plastic, synthetic",
+    "magsafe": false,
+    "colors": "Clear, Black"
+   },
+   "colors": [
+    "Clear",
+    "Black"
+   ],
+   "image": {
+    "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/HRY62?wid=1400&hei=1400&fmt=png-alpha",
+    "page": "https://www.apple.com/shop/product/hry62zm/a/incase-edge-hardshell-case-for-14%E2%80%B3-macbook-pro",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official Apple Store product image of a Incase product (store.storeimages.cdn-apple.com); no reuse license granted by Apple or Incase - rights not verified.",
+    "alt": "Incase Edge Hardshell Case for 14-inch MacBook Pro in Clear, opened, port side",
+    "match": "EXACT",
+    "credit": "Incase"
+   },
+   "colorImages": {
+    "Clear": {
+     "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/HRY62?wid=1400&hei=1400&fmt=png-alpha",
+     "page": "https://www.apple.com/shop/product/hry62zm/a/incase-edge-hardshell-case-for-14%E2%80%B3-macbook-pro",
+     "sourceType": "manufacturer-product-page",
+     "rights": "Official Apple Store product image of a Incase product (store.storeimages.cdn-apple.com); no reuse license granted by Apple or Incase - rights not verified.",
+     "alt": "Incase Edge Hardshell Case for 14-inch MacBook Pro in Clear, opened, port side",
+     "match": "EXACT",
+     "credit": "Incase"
+    },
+    "Black": {
+     "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/HRY52?wid=1400&hei=1400&fmt=png-alpha",
+     "page": "https://www.apple.com/shop/product/hry62zm/a/incase-edge-hardshell-case-for-14%E2%80%B3-macbook-pro",
+     "sourceType": "manufacturer-product-page",
+     "rights": "Official Apple Store product image of a Incase product (store.storeimages.cdn-apple.com); no reuse license granted by Apple or Incase - rights not verified.",
+     "alt": "Incase Edge Hardshell Case for 14-inch MacBook Pro in Black, opened, port side",
+     "match": "EXACT",
+     "credit": "Incase"
+    }
+   },
+   "collections": [
+    "apple-ecosystem"
+   ],
+   "featured": false,
+   "warranty": 12,
+   "sources": {
+    "product": "https://www.apple.com/shop/product/hry62zm/a/incase-edge-hardshell-case-for-14%E2%80%B3-macbook-pro",
+    "retrievedAt": "2026-09-29"
+   }
+  },
+  {
+   "sku": "TK-INCASE-EDGE-MBP16",
+   "slug": "incase-edge-hardshell-macbook-pro-16",
+   "name": "Incase Edge Hardshell Case for 16-inch MacBook Pro",
+   "brand": "Incase",
+   "category": "cases-protection",
+   "price": "49.95",
+   "priceBasis": "msrp",
+   "priceSource": "https://www.apple.com/shop/product/hry12zm/a/incase-edge-hardshell-case-for-16%E2%80%B3-macbook-pro",
+   "priceAsOf": "2026-09-29",
+   "summary": "Lightweight snap-on hardshell for the 16-inch MacBook Pro with matte finish, raised edge bumpers and rubberized feet.",
+   "description": "The Incase Edge Hardshell gives the 16-inch MacBook Pro full scratch and bump protection with a low-profile, lightweight silhouette and full access to ports, buttons and indicator lights. Its matte finish resists fingerprints, raised edge bumpers and an inset top window add grip, and rubberized feet keep the MacBook in place. Weight: 293 g.",
+   "keywords": "incase edge hardshell macbook case clear black",
+   "specs": {
+    "accessoryType": "Hardshell laptop case",
+    "compatibility": "MacBook Pro 16-inch (M5 Pro/Max, 2024, 2023, 2021)",
+    "material": "Hard plastic, synthetic",
+    "magsafe": false,
+    "colors": "Clear, Black"
+   },
+   "colors": [
+    "Clear",
+    "Black"
+   ],
+   "image": {
+    "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/HRY22?wid=1400&hei=1400&fmt=png-alpha",
+    "page": "https://www.apple.com/shop/product/hry12zm/a/incase-edge-hardshell-case-for-16%E2%80%B3-macbook-pro",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official Apple Store product image of a Incase product (store.storeimages.cdn-apple.com); no reuse license granted by Apple or Incase - rights not verified.",
+    "alt": "Incase Edge Hardshell Case for 16-inch MacBook Pro in Clear, opened, port side",
+    "match": "EXACT",
+    "credit": "Incase"
+   },
+   "colorImages": {
+    "Clear": {
+     "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/HRY22?wid=1400&hei=1400&fmt=png-alpha",
+     "page": "https://www.apple.com/shop/product/hry12zm/a/incase-edge-hardshell-case-for-16%E2%80%B3-macbook-pro",
+     "sourceType": "manufacturer-product-page",
+     "rights": "Official Apple Store product image of a Incase product (store.storeimages.cdn-apple.com); no reuse license granted by Apple or Incase - rights not verified.",
+     "alt": "Incase Edge Hardshell Case for 16-inch MacBook Pro in Clear, opened, port side",
+     "match": "EXACT",
+     "credit": "Incase"
+    },
+    "Black": {
+     "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/HRY12?wid=1400&hei=1400&fmt=png-alpha",
+     "page": "https://www.apple.com/shop/product/hry12zm/a/incase-edge-hardshell-case-for-16%E2%80%B3-macbook-pro",
+     "sourceType": "manufacturer-product-page",
+     "rights": "Official Apple Store product image of a Incase product (store.storeimages.cdn-apple.com); no reuse license granted by Apple or Incase - rights not verified.",
+     "alt": "Incase Edge Hardshell Case for 16-inch MacBook Pro in Black, opened, port side",
+     "match": "EXACT",
+     "credit": "Incase"
+    }
+   },
+   "collections": [
+    "apple-ecosystem"
+   ],
+   "featured": false,
+   "warranty": 12,
+   "sources": {
+    "product": "https://www.apple.com/shop/product/hry12zm/a/incase-edge-hardshell-case-for-16%E2%80%B3-macbook-pro",
+    "retrievedAt": "2026-09-29"
+   }
+  }
+ ]
+}

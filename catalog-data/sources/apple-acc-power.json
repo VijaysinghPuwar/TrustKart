@@ -1,0 +1,2611 @@
+{
+  "meta": {
+    "notes": "Apple Store US charging & connectivity accessories (Apple, Beats, Belkin, mophie, Anker, Twelve South, Satechi, CalDigit, Scosche, Nimble, Zens, Native Union) not already in apple.json. Researched 2026-09-29 from apple.com/shop/accessories/all/chargers-adapters listing JSON and each apple.com/shop/product page (overview, tech specs, compatibility). Prices are Apple Store US prices. Images are Apple Store product images (store.storeimages.cdn-apple.com, png-alpha). Compatibility lives in notes/keywords (docks-adapters only has interface/powerDeliveryW keys). Lengths / editions are variants; colours use per-colour Apple Store images."
+  },
+  "products": [
+    {
+      "sku": "TK-APPLE-60W-USBC-CABLE-1M",
+      "slug": "apple-60w-usb-c-charge-cable-1m",
+      "name": "Apple 60W USB-C Charge Cable (1 m)",
+      "brand": "Apple",
+      "category": "docks-adapters",
+      "price": "19.00",
+      "priceBasis": "msrp",
+      "priceSource": "https://www.apple.com/shop/product/mw493am/a/60w-usb-c-charge-cable-1-m",
+      "priceAsOf": "2026-09-29",
+      "summary": "1-meter woven USB-C to USB-C cable from Apple that charges at up to 60W and transfers data at USB 2 rates.",
+      "description": "Apple's 1-meter charge cable has a woven design with USB-C connectors on both ends for charging, syncing and transferring data between USB-C devices. It supports charging of up to 60 watts and transfers data at USB 2 rates. Power adapter sold separately.",
+      "keywords": "usb-c cable woven 60w charge cable iphone ipad apple store",
+      "specs": {
+        "interface": "USB-C to USB-C woven cable, USB 2 data",
+        "powerDeliveryW": 60
+      },
+      "image": {
+        "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/MQKJ3?wid=1400&hei=1400&fmt=png-alpha",
+        "page": "https://www.apple.com/shop/product/mw493am/a/60w-usb-c-charge-cable-1-m",
+        "sourceType": "manufacturer-product-page",
+        "rights": "Official Apple Store product image (store.storeimages.cdn-apple.com); Apple has not granted a reuse license - rights not verified.",
+        "credit": "Apple",
+        "alt": "Apple 60W USB-C Charge Cable (1 m), white woven cable coiled with USB-C connectors at both ends, top view",
+        "match": "EXACT"
+      },
+      "collections": [
+        "apple-ecosystem"
+      ],
+      "featured": false,
+      "warranty": 12,
+      "sources": {
+        "product": "https://www.apple.com/shop/product/mw493am/a/60w-usb-c-charge-cable-1-m",
+        "retrievedAt": "2026-09-29"
+      },
+      "notes": "Sold on apple.com/us (Chargers & Adapters). Compatible with USB-C iPhone (iPhone 15 and later incl. iPhone 17 / 18 families, iPhone Air, iPhone Duo), USB-C iPad models and USB-C Mac, per apple.com compatibility list."
+    },
+    {
+      "sku": "TK-APPLE-PWR-ADAPTER-EXT-CABLE",
+      "slug": "apple-power-adapter-extension-cable",
+      "name": "Apple Power Adapter Extension Cable",
+      "brand": "Apple",
+      "category": "docks-adapters",
+      "price": "19.00",
+      "priceBasis": "msrp",
+      "priceSource": "https://www.apple.com/shop/product/mw2n3ll/a/power-adapter-extension-cable",
+      "priceAsOf": "2026-09-29",
+      "summary": "1.8-meter AC extension cable that adds length to Apple's 30W, 35W Dual, 70W, 96W and 140W USB-C power adapters.",
+      "description": "The Power Adapter Extension Cable is a 1.8-meter AC extension lead that provides extra length for your Apple power adapter. Apple lists it as compatible with the 30W USB-C, 35W Dual USB-C Port, 70W USB-C, 96W USB-C and 140W USB-C Power Adapters.",
+      "keywords": "power adapter extension cable ac cord macbook apple store",
+      "specs": {
+        "interface": "AC extension lead for Apple power adapters (1.8 m)"
+      },
+      "image": {
+        "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/MK122?wid=1400&hei=1400&fmt=png-alpha",
+        "page": "https://www.apple.com/shop/product/mw2n3ll/a/power-adapter-extension-cable",
+        "sourceType": "manufacturer-product-page",
+        "rights": "Official Apple Store product image (store.storeimages.cdn-apple.com); Apple has not granted a reuse license - rights not verified.",
+        "credit": "Apple",
+        "alt": "Apple Power Adapter Extension Cable, white AC cord with plug, coiled",
+        "match": "EXACT"
+      },
+      "collections": [
+        "apple-ecosystem"
+      ],
+      "featured": false,
+      "warranty": 12,
+      "sources": {
+        "product": "https://www.apple.com/shop/product/mw2n3ll/a/power-adapter-extension-cable",
+        "retrievedAt": "2026-09-29"
+      },
+      "notes": "Sold on apple.com/us (Chargers & Adapters). Compatible adapters (apple.com): 30W, 35W Dual, 70W, 96W and 140W USB-C Power Adapters."
+    },
+    {
+      "sku": "TK-APPLE-35W-DUAL-ADAPTER-STD",
+      "slug": "apple-35w-dual-usb-c-port-power-adapter",
+      "name": "Apple 35W Dual USB-C Port Power Adapter",
+      "brand": "Apple",
+      "category": "docks-adapters",
+      "price": "59.00",
+      "priceBasis": "msrp",
+      "priceSource": "https://www.apple.com/shop/product/mw2k3am/a/35w-dual-usb-c-port-power-adapter",
+      "priceAsOf": "2026-09-29",
+      "summary": "Apple 35W power adapter with two USB-C ports to charge two devices at once; recommended for MacBook Neo and MacBook Air.",
+      "description": "The 35W Dual USB-C Port Power Adapter charges two devices at the same time at home, in the office or on the go. Apple recommends it for MacBook Neo and MacBook Air, and it also works with iPhone, iPad, Apple Watch and AirPods. This is the standard (non-compact) model; charging cable sold separately.",
+      "keywords": "35w dual usb-c power adapter charger macbook air apple store",
+      "specs": {
+        "interface": "2x USB-C power adapter (folding-prong design)",
+        "powerDeliveryW": 35
+      },
+      "image": {
+        "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/MNWP3?wid=1400&hei=1400&fmt=png-alpha",
+        "page": "https://www.apple.com/shop/product/mw2k3am/a/35w-dual-usb-c-port-power-adapter",
+        "sourceType": "manufacturer-product-page",
+        "rights": "Official Apple Store product image (store.storeimages.cdn-apple.com); Apple has not granted a reuse license - rights not verified.",
+        "credit": "Apple",
+        "alt": "Apple 35W Dual USB-C Port Power Adapter, white charger with two USB-C ports",
+        "match": "EXACT"
+      },
+      "collections": [
+        "apple-ecosystem"
+      ],
+      "featured": false,
+      "warranty": 12,
+      "sources": {
+        "product": "https://www.apple.com/shop/product/mw2k3am/a/35w-dual-usb-c-port-power-adapter",
+        "retrievedAt": "2026-09-29"
+      },
+      "notes": "Sold on apple.com/us (Chargers & Adapters). Distinct from the 35W Dual USB-C Port Compact Power Adapter already in apple.json. Works with iPhone, iPad, Mac, Apple Watch and AirPods."
+    },
+    {
+      "sku": "TK-APPLE-USBC-TO-USB-ADAPTER",
+      "slug": "apple-usb-c-to-usb-adapter",
+      "name": "Apple USB-C to USB Adapter",
+      "brand": "Apple",
+      "category": "docks-adapters",
+      "price": "19.00",
+      "priceBasis": "msrp",
+      "priceSource": "https://www.apple.com/shop/product/mw5l3am/a/usb-c-to-usb-adapter",
+      "priceAsOf": "2026-09-29",
+      "summary": "Apple adapter that connects standard USB-A accessories such as flash drives and cameras to a USB-C Mac, iPad or iPhone.",
+      "description": "The USB-C to USB Adapter lets you connect iOS devices and standard USB accessories to a USB-C or Thunderbolt 3 (USB-C) Mac, iPad or iPhone. Plug in a flash drive, camera or other USB device, or connect a Lightning to USB cable to sync and charge an iPhone or iPad.",
+      "keywords": "usb-c to usb-a adapter dongle mac ipad iphone apple store",
+      "specs": {
+        "interface": "USB-C (male) to USB-A (female) adapter"
+      },
+      "image": {
+        "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/MJ1M2?wid=1400&hei=1400&fmt=png-alpha",
+        "page": "https://www.apple.com/shop/product/mw5l3am/a/usb-c-to-usb-adapter",
+        "sourceType": "manufacturer-product-page",
+        "rights": "Official Apple Store product image (store.storeimages.cdn-apple.com); Apple has not granted a reuse license - rights not verified.",
+        "credit": "Apple",
+        "alt": "Apple USB-C to USB Adapter, short white cable with USB-C plug and USB-A socket",
+        "match": "EXACT"
+      },
+      "collections": [
+        "apple-ecosystem"
+      ],
+      "featured": false,
+      "warranty": 12,
+      "sources": {
+        "product": "https://www.apple.com/shop/product/mw5l3am/a/usb-c-to-usb-adapter",
+        "retrievedAt": "2026-09-29"
+      },
+      "notes": "Sold on apple.com/us (Chargers & Adapters). Compatible with USB-C iPhone (iPhone 15 and later incl. iPhone 17 / 18 families, iPhone Air, iPhone Duo), USB-C iPad models and USB-C Mac, per apple.com compatibility list."
+    },
+    {
+      "sku": "TK-APPLE-USBC-DIGITAL-AV-MULTIPORT",
+      "slug": "apple-usb-c-digital-av-multiport-adapter",
+      "name": "Apple USB-C Digital AV Multiport Adapter",
+      "brand": "Apple",
+      "category": "docks-adapters",
+      "price": "69.00",
+      "priceBasis": "msrp",
+      "priceSource": "https://www.apple.com/shop/product/mw5m3am/a/usb-c-digital-av-multiport-adapter",
+      "priceAsOf": "2026-09-29",
+      "summary": "Apple multiport adapter that mirrors a USB-C Mac, iPad or iPhone to HDMI (up to 4K 60Hz on supported models) with a USB port and USB-C charging.",
+      "description": "The USB-C Digital AV Multiport Adapter connects a USB-C Mac, iPad or iPhone to an HDMI display while also connecting a standard USB device and a USB-C charging cable. It outputs 3840x2160 at 60Hz on recent models including iPhone 15 and later and M-series iPad Pro and iPad Air, and 1080p60 or 4K30 on some older Macs. HDMI cable sold separately.",
+      "keywords": "usb-c hdmi multiport adapter 4k mirror mac ipad iphone apple store",
+      "specs": {
+        "interface": "USB-C to HDMI + USB-A + USB-C charging pass-through"
+      },
+      "image": {
+        "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/MUF82?wid=1400&hei=1400&fmt=png-alpha",
+        "page": "https://www.apple.com/shop/product/mw5m3am/a/usb-c-digital-av-multiport-adapter",
+        "sourceType": "manufacturer-product-page",
+        "rights": "Official Apple Store product image (store.storeimages.cdn-apple.com); Apple has not granted a reuse license - rights not verified.",
+        "credit": "Apple",
+        "alt": "Apple USB-C Digital AV Multiport Adapter, white adapter with HDMI, USB-A and USB-C ports and attached cable",
+        "match": "EXACT"
+      },
+      "collections": [
+        "apple-ecosystem"
+      ],
+      "featured": true,
+      "warranty": 12,
+      "sources": {
+        "product": "https://www.apple.com/shop/product/mw5m3am/a/usb-c-digital-av-multiport-adapter",
+        "retrievedAt": "2026-09-29"
+      },
+      "notes": "Sold on apple.com/us (Chargers & Adapters). 4K 60Hz on iPhone 15 and later, iPad Pro (M4/M5), iPad Air (M2/M3), 16-in MacBook Pro 2019 and others; 1080p60 / 4K30 on some older Macs (apple.com). Requires macOS 10.14.6 / iOS 12.4 or later."
+    },
+    {
+      "sku": "TK-APPLE-USBC-SD-CARD-READER",
+      "slug": "apple-usb-c-to-sd-card-reader",
+      "name": "Apple USB-C to SD Card Reader",
+      "brand": "Apple",
+      "category": "docks-adapters",
+      "price": "39.00",
+      "priceBasis": "msrp",
+      "priceSource": "https://www.apple.com/shop/product/mw653am/a/usb-c-to-sd-card-reader",
+      "priceAsOf": "2026-09-29",
+      "summary": "Apple USB-C SD card reader that transfers photos and videos at UHS-II speeds to a Mac, iPad or iPhone.",
+      "description": "The USB-C to SD Card Reader transfers high-resolution photos and videos at UHS-II speeds to a USB-C Mac, iPad or iPhone. It is designed so it won't block your other ports, works with UHS-II SD cards and is backward compatible with other SD cards and adapters.",
+      "keywords": "sd card reader usb-c uhs-ii camera photos apple store",
+      "specs": {
+        "interface": "USB-C to SD card slot (UHS-II)"
+      },
+      "image": {
+        "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/MUFG2?wid=1400&hei=1400&fmt=png-alpha",
+        "page": "https://www.apple.com/shop/product/mw653am/a/usb-c-to-sd-card-reader",
+        "sourceType": "manufacturer-product-page",
+        "rights": "Official Apple Store product image (store.storeimages.cdn-apple.com); Apple has not granted a reuse license - rights not verified.",
+        "credit": "Apple",
+        "alt": "Apple USB-C to SD Card Reader, white reader with SD slot and short USB-C cable",
+        "match": "EXACT"
+      },
+      "collections": [
+        "apple-ecosystem"
+      ],
+      "featured": false,
+      "warranty": 12,
+      "sources": {
+        "product": "https://www.apple.com/shop/product/mw653am/a/usb-c-to-sd-card-reader",
+        "retrievedAt": "2026-09-29"
+      },
+      "notes": "Sold on apple.com/us (Chargers & Adapters). Compatible with USB-C iPhone (iPhone 15 and later incl. iPhone 17 / 18 families, iPhone Air, iPhone Duo), USB-C iPad models and USB-C Mac, per apple.com compatibility list."
+    },
+    {
+      "sku": "TK-APPLE-USBC-TO-LIGHTNING-ADAPTER",
+      "slug": "apple-usb-c-to-lightning-adapter",
+      "name": "Apple USB-C to Lightning Adapter",
+      "brand": "Apple",
+      "category": "docks-adapters",
+      "price": "29.00",
+      "priceBasis": "msrp",
+      "priceSource": "https://www.apple.com/shop/product/muqx3am/a/usb-c-to-lightning-adapter",
+      "priceAsOf": "2026-09-29",
+      "summary": "Braided Apple adapter that connects Lightning accessories to a USB-C iPhone or iPad for charging, data and audio.",
+      "description": "The USB-C to Lightning Adapter lets you connect Lightning accessories to a USB-C iPhone or iPad, providing charging, data and audio with a single adapter. It has a braided cable for durability and supports connection to most cars, including those that work with CarPlay.",
+      "keywords": "usb-c to lightning adapter iphone 15 carplay accessories apple store",
+      "specs": {
+        "interface": "USB-C (male) to Lightning (female) adapter; charging, data and audio"
+      },
+      "image": {
+        "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/MUQX3?wid=1400&hei=1400&fmt=png-alpha",
+        "page": "https://www.apple.com/shop/product/muqx3am/a/usb-c-to-lightning-adapter",
+        "sourceType": "manufacturer-product-page",
+        "rights": "Official Apple Store product image (store.storeimages.cdn-apple.com); Apple has not granted a reuse license - rights not verified.",
+        "credit": "Apple",
+        "alt": "Apple USB-C to Lightning Adapter, short white braided cable with USB-C plug and Lightning socket",
+        "match": "EXACT"
+      },
+      "collections": [
+        "apple-ecosystem"
+      ],
+      "featured": false,
+      "warranty": 12,
+      "sources": {
+        "product": "https://www.apple.com/shop/product/muqx3am/a/usb-c-to-lightning-adapter",
+        "retrievedAt": "2026-09-29"
+      },
+      "notes": "Sold on apple.com/us (Chargers & Adapters). Compatible with USB-C iPhone (iPhone 15 and later incl. iPhone 17 / 18 families, iPhone Air, iPhone Duo), USB-C iPad models and USB-C Mac, per apple.com compatibility list."
+    },
+    {
+      "sku": "TK-APPLE-TB3-TO-TB2-ADAPTER",
+      "slug": "apple-thunderbolt-3-to-thunderbolt-2-adapter",
+      "name": "Apple Thunderbolt 3 (USB-C) to Thunderbolt 2 Adapter",
+      "brand": "Apple",
+      "category": "docks-adapters",
+      "price": "49.00",
+      "priceBasis": "msrp",
+      "priceSource": "https://www.apple.com/shop/product/myh93am/a/thunderbolt-3-usb%E2%80%91c-to-thunderbolt-2-adapter",
+      "priceAsOf": "2026-09-29",
+      "summary": "Bidirectional Apple adapter for connecting Thunderbolt and Thunderbolt 2 drives, docks and displays to a Mac's Thunderbolt 3 / USB 4 ports.",
+      "description": "The Thunderbolt 3 (USB-C) to Thunderbolt 2 Adapter connects Thunderbolt and Thunderbolt 2 devices, such as external drives and docks, to the Thunderbolt 3 (USB-C) / USB 4 ports on a Mac. It is bidirectional and also drives Thunderbolt displays; it does not support DisplayPort or Mini DisplayPort displays.",
+      "keywords": "thunderbolt 2 adapter thunderbolt 3 mac legacy drive apple store",
+      "specs": {
+        "interface": "Thunderbolt 3 (USB-C) to Thunderbolt 2, bidirectional"
+      },
+      "image": {
+        "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/MMEL2?wid=1400&hei=1400&fmt=png-alpha",
+        "page": "https://www.apple.com/shop/product/myh93am/a/thunderbolt-3-usb%E2%80%91c-to-thunderbolt-2-adapter",
+        "sourceType": "manufacturer-product-page",
+        "rights": "Official Apple Store product image (store.storeimages.cdn-apple.com); Apple has not granted a reuse license - rights not verified.",
+        "credit": "Apple",
+        "alt": "Apple Thunderbolt 3 (USB-C) to Thunderbolt 2 Adapter, small white adapter",
+        "match": "EXACT"
+      },
+      "collections": [
+        "apple-ecosystem"
+      ],
+      "featured": false,
+      "warranty": 12,
+      "sources": {
+        "product": "https://www.apple.com/shop/product/myh93am/a/thunderbolt-3-usb%E2%80%91c-to-thunderbolt-2-adapter",
+        "retrievedAt": "2026-09-29"
+      },
+      "notes": "Sold on apple.com/us (Chargers & Adapters). Mac only: MacBook Air/Pro, iMac, Mac mini, Mac Studio with Thunderbolt 3/4/5 (USB-C) ports (apple.com). Not for DisplayPort displays."
+    },
+    {
+      "sku": "TK-APPLE-USBC-TO-LIGHTNING-CABLE",
+      "slug": "apple-usb-c-to-lightning-cable",
+      "name": "Apple USB-C to Lightning Cable",
+      "brand": "Apple",
+      "category": "docks-adapters",
+      "price": "19.00",
+      "priceBasis": "starting-at",
+      "priceSource": "https://www.apple.com/shop/product/muq93am/a/usb-c-to-lightning-cable-1-m",
+      "priceAsOf": "2026-09-29",
+      "summary": "Apple USB-C to Lightning cable for syncing and fast charging Lightning iPhone and iPad models; sold in 1 m and 2 m lengths.",
+      "description": "Connect a Lightning device to a USB-C or Thunderbolt 3 (USB-C) device for syncing and charging. Used with an Apple 18W, 20W, 29W, 30W, 61W, 87W or 96W USB-C Power Adapter, it enables fast charging on select iPhone and iPad models.",
+      "keywords": "usb-c to lightning cable fast charge iphone 14 apple store",
+      "specs": {
+        "interface": "USB-C to Lightning cable"
+      },
+      "variants": [
+        {
+          "label": "1 m",
+          "price": "19.00"
+        },
+        {
+          "label": "2 m",
+          "price": "29.00"
+        }
+      ],
+      "image": {
+        "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/MM0A3?wid=1400&hei=1400&fmt=png-alpha",
+        "page": "https://www.apple.com/shop/product/muq93am/a/usb-c-to-lightning-cable-1-m",
+        "sourceType": "manufacturer-product-page",
+        "rights": "Official Apple Store product image (store.storeimages.cdn-apple.com); Apple has not granted a reuse license - rights not verified.",
+        "credit": "Apple",
+        "alt": "Apple USB-C to Lightning Cable, white cable coiled with USB-C and Lightning connectors",
+        "match": "EXACT"
+      },
+      "collections": [
+        "apple-ecosystem"
+      ],
+      "featured": false,
+      "warranty": 12,
+      "sources": {
+        "product": "https://www.apple.com/shop/product/muq93am/a/usb-c-to-lightning-cable-1-m",
+        "retrievedAt": "2026-09-29"
+      },
+      "notes": "Sold on apple.com/us (Chargers & Adapters). For Lightning devices: iPhone 5 through iPhone 14 families, iPhone SE, and Lightning iPad models, per apple.com compatibility list."
+    },
+    {
+      "sku": "TK-APPLE-LIGHTNING-TO-USB-CABLE-1M",
+      "slug": "apple-lightning-to-usb-cable-1m",
+      "name": "Apple Lightning to USB Cable (1 m)",
+      "brand": "Apple",
+      "category": "docks-adapters",
+      "price": "19.00",
+      "priceBasis": "msrp",
+      "priceSource": "https://www.apple.com/shop/product/muqw3am/a/lightning-to-usb-cable-1-m",
+      "priceAsOf": "2026-09-29",
+      "summary": "1-meter Apple USB 2 cable that connects a Lightning device to a computer's USB-A port or a USB power adapter.",
+      "description": "This USB 2 cable connects a device with a Lightning connector to your computer's USB port for syncing and charging, or to an Apple USB Power Adapter for charging from a wall outlet. The Lightning connector is reversible.",
+      "keywords": "lightning to usb-a cable iphone charge sync apple store",
+      "specs": {
+        "interface": "Lightning to USB-A cable, USB 2"
+      },
+      "image": {
+        "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/MD818?wid=1400&hei=1400&fmt=png-alpha",
+        "page": "https://www.apple.com/shop/product/muqw3am/a/lightning-to-usb-cable-1-m",
+        "sourceType": "manufacturer-product-page",
+        "rights": "Official Apple Store product image (store.storeimages.cdn-apple.com); Apple has not granted a reuse license - rights not verified.",
+        "credit": "Apple",
+        "alt": "Apple Lightning to USB Cable (1 m), white cable coiled with USB-A and Lightning connectors",
+        "match": "EXACT"
+      },
+      "collections": [
+        "apple-ecosystem"
+      ],
+      "featured": false,
+      "warranty": 12,
+      "sources": {
+        "product": "https://www.apple.com/shop/product/muqw3am/a/lightning-to-usb-cable-1-m",
+        "retrievedAt": "2026-09-29"
+      },
+      "notes": "Sold on apple.com/us (Chargers & Adapters). For Lightning devices: iPhone 5 through iPhone 14 families, iPhone SE, and Lightning iPad models, per apple.com compatibility list."
+    },
+    {
+      "sku": "TK-APPLE-LIGHTNING-DIGITAL-AV",
+      "slug": "apple-lightning-digital-av-adapter",
+      "name": "Apple Lightning Digital AV Adapter",
+      "brand": "Apple",
+      "category": "docks-adapters",
+      "price": "49.00",
+      "priceBasis": "msrp",
+      "priceSource": "https://www.apple.com/shop/product/mw2p3am/a/lightning-digital-av-adapter",
+      "priceAsOf": "2026-09-29",
+      "summary": "Apple adapter that mirrors a Lightning iPhone or iPad to an HDMI TV, display or projector in up to 1080p HD.",
+      "description": "The Lightning Digital AV Adapter mirrors what is on your iPhone or iPad screen, including apps, presentations and slideshows, to an HDMI TV, display or projector in up to 1080p HD, and outputs movies and video at up to 1080p. HDMI cable sold separately; video and audio are both supported.",
+      "keywords": "lightning hdmi adapter iphone tv mirror 1080p apple store",
+      "specs": {
+        "interface": "Lightning to HDMI (up to 1080p) with Lightning charging port"
+      },
+      "image": {
+        "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/MD826?wid=1400&hei=1400&fmt=png-alpha",
+        "page": "https://www.apple.com/shop/product/mw2p3am/a/lightning-digital-av-adapter",
+        "sourceType": "manufacturer-product-page",
+        "rights": "Official Apple Store product image (store.storeimages.cdn-apple.com); Apple has not granted a reuse license - rights not verified.",
+        "credit": "Apple",
+        "alt": "Apple Lightning Digital AV Adapter, white adapter with HDMI and Lightning ports and short cable",
+        "match": "EXACT"
+      },
+      "collections": [
+        "apple-ecosystem"
+      ],
+      "featured": false,
+      "warranty": 12,
+      "sources": {
+        "product": "https://www.apple.com/shop/product/mw2p3am/a/lightning-digital-av-adapter",
+        "retrievedAt": "2026-09-29"
+      },
+      "notes": "Sold on apple.com/us (Chargers & Adapters). For Lightning devices: iPhone 5 through iPhone 14 families, iPhone SE, and Lightning iPad models, per apple.com compatibility list."
+    },
+    {
+      "sku": "TK-APPLE-USBC-PENCIL-ADAPTER",
+      "slug": "apple-usb-c-to-apple-pencil-adapter",
+      "name": "Apple USB-C to Apple Pencil Adapter",
+      "brand": "Apple",
+      "category": "docks-adapters",
+      "price": "9.00",
+      "priceBasis": "msrp",
+      "priceSource": "https://www.apple.com/shop/product/mwml3am/a/usb-c-to-apple-pencil-adapter",
+      "priceAsOf": "2026-09-29",
+      "summary": "Small Apple adapter required to pair and charge Apple Pencil (1st generation) with iPad (A16) and iPad (10th generation).",
+      "description": "The USB-C to Apple Pencil Adapter is required to pair and charge Apple Pencil (1st generation) with iPad (A16) and iPad (10th generation). Apple Pencil plugs into one end and the iPad's USB-C charge cable plugs into the other.",
+      "keywords": "apple pencil adapter usb-c ipad 10th generation a16 apple store",
+      "specs": {
+        "interface": "USB-C (female) to Apple Pencil Lightning (female) adapter"
+      },
+      "image": {
+        "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/MWML3?wid=1400&hei=1400&fmt=png-alpha",
+        "page": "https://www.apple.com/shop/product/mwml3am/a/usb-c-to-apple-pencil-adapter",
+        "sourceType": "manufacturer-product-page",
+        "rights": "Official Apple Store product image (store.storeimages.cdn-apple.com); Apple has not granted a reuse license - rights not verified.",
+        "credit": "Apple",
+        "alt": "Apple USB-C to Apple Pencil Adapter, small white cylindrical adapter",
+        "match": "EXACT"
+      },
+      "collections": [
+        "apple-ecosystem"
+      ],
+      "featured": false,
+      "warranty": 12,
+      "sources": {
+        "product": "https://www.apple.com/shop/product/mwml3am/a/usb-c-to-apple-pencil-adapter",
+        "retrievedAt": "2026-09-29"
+      },
+      "notes": "Sold on apple.com/us (Chargers & Adapters). Compatible with iPad (A16) and iPad (10th generation) (apple.com)."
+    },
+    {
+      "sku": "TK-APPLE-LIGHTNING-USB3-CAMERA",
+      "slug": "apple-lightning-to-usb-3-camera-adapter",
+      "name": "Apple Lightning to USB 3 Camera Adapter",
+      "brand": "Apple",
+      "category": "docks-adapters",
+      "price": "39.00",
+      "priceBasis": "msrp",
+      "priceSource": "https://www.apple.com/shop/product/mx5j3am/a/lightning-to-usb-3-camera-adapter",
+      "priceAsOf": "2026-09-29",
+      "summary": "Apple adapter for importing photos and video from a camera to Lightning iPad Pro models, with a Lightning port to power USB peripherals.",
+      "description": "The Lightning to USB 3 Camera Adapter makes it easy to import photos and videos from a camera to iPad Pro. Powered via a USB power adapter, it can also run USB peripherals such as hubs, Ethernet adapters, audio/MIDI interfaces and card readers. 12.9-inch (1st/2nd gen) and 10.5-inch iPad Pro transfer at USB 3 speeds; 9.7-inch iPad Pro uses USB 2.",
+      "keywords": "lightning usb 3 camera adapter ipad pro import photos apple store",
+      "specs": {
+        "interface": "Lightning to USB-A (USB 3) with Lightning power pass-through"
+      },
+      "image": {
+        "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/MK0W2?wid=1400&hei=1400&fmt=png-alpha",
+        "page": "https://www.apple.com/shop/product/mx5j3am/a/lightning-to-usb-3-camera-adapter",
+        "sourceType": "manufacturer-product-page",
+        "rights": "Official Apple Store product image (store.storeimages.cdn-apple.com); Apple has not granted a reuse license - rights not verified.",
+        "credit": "Apple",
+        "alt": "Apple Lightning to USB 3 Camera Adapter, white adapter with USB-A and Lightning ports",
+        "match": "EXACT"
+      },
+      "collections": [
+        "apple-ecosystem"
+      ],
+      "featured": false,
+      "warranty": 12,
+      "sources": {
+        "product": "https://www.apple.com/shop/product/mx5j3am/a/lightning-to-usb-3-camera-adapter",
+        "retrievedAt": "2026-09-29"
+      },
+      "notes": "Sold on apple.com/us (Chargers & Adapters). For Lightning devices: iPhone 5 through iPhone 14 families, iPhone SE, and Lightning iPad models, per apple.com compatibility list."
+    },
+    {
+      "sku": "TK-APPLE-IPHONEAIR-MAGSAFE-BATTERY",
+      "slug": "apple-iphone-air-magsafe-battery",
+      "name": "Apple iPhone Air MagSafe Battery",
+      "brand": "Apple",
+      "category": "docks-adapters",
+      "price": "99.00",
+      "priceBasis": "msrp",
+      "priceSource": "https://www.apple.com/shop/product/mgpg4am/a/iphone-air-magsafe-battery",
+      "priceAsOf": "2026-09-29",
+      "summary": "Thin MagSafe battery made exclusively for iPhone Air that adds up to 65% extra charge and delivers up to 12W wireless charging.",
+      "description": "Created exclusively for iPhone Air, the MagSafe Battery adds up to 65 percent additional charge and delivers up to 12W of fast wireless charging on the go. Attach it to a charged iPhone Air for all-day use, connect a 20W or higher adapter for faster charging of both, or charge smaller accessories via its USB-C port.",
+      "keywords": "magsafe battery pack iphone air wireless apple store",
+      "specs": {
+        "interface": "MagSafe wireless battery pack with USB-C port",
+        "powerDeliveryW": 12
+      },
+      "image": {
+        "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/MGPG4?wid=1400&hei=1400&fmt=png-alpha",
+        "page": "https://www.apple.com/shop/product/mgpg4am/a/iphone-air-magsafe-battery",
+        "sourceType": "manufacturer-product-page",
+        "rights": "Official Apple Store product image (store.storeimages.cdn-apple.com); Apple has not granted a reuse license - rights not verified.",
+        "credit": "Apple",
+        "alt": "Apple iPhone Air MagSafe Battery, thin white battery pack, rear view",
+        "match": "EXACT"
+      },
+      "collections": [
+        "apple-ecosystem"
+      ],
+      "featured": true,
+      "warranty": 12,
+      "sources": {
+        "product": "https://www.apple.com/shop/product/mgpg4am/a/iphone-air-magsafe-battery",
+        "retrievedAt": "2026-09-29"
+      },
+      "notes": "Sold on apple.com/us (Chargers & Adapters). Compatible with iPhone Air only (apple.com)."
+    },
+    {
+      "sku": "TK-BEATS-USBC-USBC-SHORT-CABLE",
+      "slug": "beats-usb-c-to-usb-c-woven-short-cable",
+      "name": "Beats USB-C to USB-C Woven Short Cable (20 cm)",
+      "brand": "Beats",
+      "category": "docks-adapters",
+      "price": "18.99",
+      "priceBasis": "msrp",
+      "priceSource": "https://www.apple.com/shop/product/meq94ll/a/beats-usb%E2%80%91c-to-usb%E2%80%91c-woven-short-cable-20-cm-8-in-bolt-black",
+      "priceAsOf": "2026-09-29",
+      "summary": "Travel-length 20 cm (8 in) braided Beats USB-C to USB-C cable supporting up to 60W charging.",
+      "description": "The Beats 20-centimeter USB-C to USB-C short cable uses a tangle-free woven design with a reduced length for travel. It is built for charging, syncing, audio, CarPlay and data, supports fast charging of up to 60 watts and transfers data at USB 2.0 rates.",
+      "keywords": "beats short usb-c cable 20cm travel apple store",
+      "specs": {
+        "interface": "USB-C to USB-C woven cable (20 cm), USB 2.0 data",
+        "powerDeliveryW": 60
+      },
+      "image": {
+        "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/MEQ94?wid=1400&hei=1400&fmt=png-alpha",
+        "page": "https://www.apple.com/shop/product/meq94ll/a/beats-usb%E2%80%91c-to-usb%E2%80%91c-woven-short-cable-20-cm-8-in-bolt-black",
+        "sourceType": "manufacturer-product-page",
+        "rights": "Official Apple Store product image (store.storeimages.cdn-apple.com); Apple has not granted a reuse license - rights not verified.",
+        "credit": "Apple (Beats)",
+        "alt": "Beats USB-C to USB-C Woven Short Cable (20 cm) in Bolt Black",
+        "match": "EXACT"
+      },
+      "featured": false,
+      "warranty": 12,
+      "sources": {
+        "product": "https://www.apple.com/shop/product/meq94ll/a/beats-usb%E2%80%91c-to-usb%E2%80%91c-woven-short-cable-20-cm-8-in-bolt-black",
+        "retrievedAt": "2026-09-29"
+      },
+      "notes": "Sold on apple.com/us (Chargers & Adapters). Sold in Bolt Black on apple.com."
+    },
+    {
+      "sku": "TK-BEATS-USBA-USBC-SHORT-CABLE",
+      "slug": "beats-usb-a-to-usb-c-woven-short-cable",
+      "name": "Beats USB-A to USB-C Woven Short Cable (20 cm)",
+      "brand": "Beats",
+      "category": "docks-adapters",
+      "price": "18.99",
+      "priceBasis": "msrp",
+      "priceSource": "https://www.apple.com/shop/product/meql4ll/a/beats-usb-a-to-usb-c-woven-short-cable-20-cm-8-in-bolt-black",
+      "priceAsOf": "2026-09-29",
+      "summary": "Travel-length 20 cm (8 in) braided Beats USB-A to USB-C cable with up to 15W fast charging on select iPhone and iPad.",
+      "description": "The Beats 20-centimeter USB-A to USB-C short cable is made with a tangle-free woven design for durability and travel convenience. It is built for charging, syncing, CarPlay and data transfer, supports fast charging up to 15 watts on select iPhones and iPads and transfers data at USB 2.0 rates.",
+      "keywords": "beats short usb-a usb-c cable 20cm apple store",
+      "specs": {
+        "interface": "USB-A to USB-C woven cable (20 cm), USB 2.0 data",
+        "powerDeliveryW": 15
+      },
+      "image": {
+        "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/MEQL4?wid=1400&hei=1400&fmt=png-alpha",
+        "page": "https://www.apple.com/shop/product/meql4ll/a/beats-usb-a-to-usb-c-woven-short-cable-20-cm-8-in-bolt-black",
+        "sourceType": "manufacturer-product-page",
+        "rights": "Official Apple Store product image (store.storeimages.cdn-apple.com); Apple has not granted a reuse license - rights not verified.",
+        "credit": "Apple (Beats)",
+        "alt": "Beats USB-A to USB-C Woven Short Cable (20 cm) in Bolt Black",
+        "match": "EXACT"
+      },
+      "featured": false,
+      "warranty": 12,
+      "sources": {
+        "product": "https://www.apple.com/shop/product/meql4ll/a/beats-usb-a-to-usb-c-woven-short-cable-20-cm-8-in-bolt-black",
+        "retrievedAt": "2026-09-29"
+      },
+      "notes": "Sold on apple.com/us (Chargers & Adapters). Sold in Bolt Black on apple.com."
+    },
+    {
+      "sku": "TK-BEATS-USBC-LIGHTNING-SHORT-CABLE",
+      "slug": "beats-usb-c-to-lightning-woven-short-cable",
+      "name": "Beats USB-C to Lightning Woven Short Cable (20 cm)",
+      "brand": "Beats",
+      "category": "docks-adapters",
+      "price": "18.99",
+      "priceBasis": "msrp",
+      "priceSource": "https://www.apple.com/shop/product/meqm4ll/a/beats-usb-c-to-lightning-woven-short-cable-20-cm-8-in-bolt-black",
+      "priceAsOf": "2026-09-29",
+      "summary": "Travel-length 20 cm (8 in) braided Beats USB-C to Lightning cable for charging, syncing and CarPlay.",
+      "description": "Compatible with Lightning iOS devices, the Beats 20-centimeter USB-C to Lightning short cable has a tangle-free woven design with a reduced length for travel. It is built for charging, syncing and CarPlay and supports fast charging on select iPhones and iPads.",
+      "keywords": "beats short lightning cable 20cm apple store",
+      "specs": {
+        "interface": "USB-C to Lightning woven cable (20 cm)"
+      },
+      "image": {
+        "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/MEQM4?wid=1400&hei=1400&fmt=png-alpha",
+        "page": "https://www.apple.com/shop/product/meqm4ll/a/beats-usb-c-to-lightning-woven-short-cable-20-cm-8-in-bolt-black",
+        "sourceType": "manufacturer-product-page",
+        "rights": "Official Apple Store product image (store.storeimages.cdn-apple.com); Apple has not granted a reuse license - rights not verified.",
+        "credit": "Apple (Beats)",
+        "alt": "Beats USB-C to Lightning Woven Short Cable (20 cm) in Bolt Black",
+        "match": "EXACT"
+      },
+      "featured": false,
+      "warranty": 12,
+      "sources": {
+        "product": "https://www.apple.com/shop/product/meqm4ll/a/beats-usb-c-to-lightning-woven-short-cable-20-cm-8-in-bolt-black",
+        "retrievedAt": "2026-09-29"
+      },
+      "notes": "Sold on apple.com/us (Chargers & Adapters). Sold in Bolt Black on apple.com. For Lightning devices: iPhone 5 through iPhone 14 families, iPhone SE, and Lightning iPad models, per apple.com compatibility list."
+    },
+    {
+      "sku": "TK-BELKIN-MACPRO-AUX-POWER-KIT",
+      "slug": "belkin-aux-power-cable-kit-for-mac-pro",
+      "name": "Belkin AUX Power Cable Kit for Mac Pro",
+      "brand": "Belkin",
+      "category": "docks-adapters",
+      "price": "74.95",
+      "priceBasis": "msrp",
+      "priceSource": "https://www.apple.com/shop/product/hqy92zm/a/belkin-aux-power-cable-kit-for-mac-pro",
+      "priceAsOf": "2026-09-29",
+      "summary": "Seven-cable Belkin kit that powers graphics cards and other PCI Express devices from Mac Pro's internal 6-pin and 8-pin AUX connectors.",
+      "description": "The Belkin AUX Power Cable Kit provides common AUX power cables for graphics cards and other AUX-powered PCI Express devices inside Mac Pro. It includes four 8-pin to 8-pin cables, two 6-pin to 6-pin cables and one 8-pin to dual 6-pin cable; Mac Pro provides one 6-pin and four 8-pin AUX connectors internally.",
+      "keywords": "mac pro aux power cable pcie gpu 8-pin 6-pin apple store",
+      "specs": {
+        "interface": "Internal 6-pin / 8-pin PCIe AUX power cables"
+      },
+      "image": {
+        "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/HQY92?wid=1400&hei=1400&fmt=png-alpha",
+        "page": "https://www.apple.com/shop/product/hqy92zm/a/belkin-aux-power-cable-kit-for-mac-pro",
+        "sourceType": "manufacturer-product-page",
+        "rights": "Official Apple Store product image (store.storeimages.cdn-apple.com); Apple / Belkin has not granted a reuse license - rights not verified.",
+        "credit": "Belkin",
+        "alt": "Belkin AUX Power Cable Kit for Mac Pro, set of black 6-pin and 8-pin power cables",
+        "match": "EXACT"
+      },
+      "featured": false,
+      "sources": {
+        "product": "https://www.apple.com/shop/product/hqy92zm/a/belkin-aux-power-cable-kit-for-mac-pro",
+        "retrievedAt": "2026-09-29"
+      },
+      "notes": "Sold on apple.com/us (Chargers & Adapters). Mac Pro (2019 / 2023) internal use."
+    },
+    {
+      "sku": "TK-BELKIN-ULTRACHARGE-PRO-20K",
+      "slug": "belkin-ultracharge-pro-20k-power-bank",
+      "name": "Belkin UltraCharge Pro 20K Power Bank with Integrated Cable",
+      "brand": "Belkin",
+      "category": "docks-adapters",
+      "price": "99.95",
+      "priceBasis": "msrp",
+      "priceSource": "https://www.apple.com/shop/product/hsm62zm/a/belkin-ultracharge-pro-20k-power-bank-with-integrated-cable",
+      "priceAsOf": "2026-09-29",
+      "summary": "Belkin 20K power bank with an integrated braided USB-C cable (up to 70W for MacBook), two extra USB-C ports and a digital display.",
+      "description": "Charge a MacBook, iPhone and another USB-C device at once. The integrated braided USB-C cable delivers up to 70W to a MacBook, two additional USB-C ports add more outputs, and it supports pass-through charging while plugged in. A digital display shows exact charge percentage.",
+      "keywords": "belkin 20000mah power bank macbook 70w usb-c apple store",
+      "specs": {
+        "interface": "20,000 mAh power bank: integrated USB-C cable + 2x USB-C",
+        "powerDeliveryW": 70
+      },
+      "colors": [
+        "Blue",
+        "Pink",
+        "Black",
+        "Sand"
+      ],
+      "colorImages": {
+        "Blue": {
+          "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/HSK72?wid=1400&hei=1400&fmt=png-alpha",
+          "page": "https://www.apple.com/shop/product/hsm62zm/a/belkin-ultracharge-pro-20k-power-bank-with-integrated-cable",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Apple Store product image (store.storeimages.cdn-apple.com); Apple / Belkin has not granted a reuse license - rights not verified.",
+          "credit": "Belkin",
+          "alt": "Belkin UltraCharge Pro 20K Power Bank with Integrated Cable in Blue",
+          "match": "EXACT"
+        },
+        "Pink": {
+          "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/HSM62?wid=1400&hei=1400&fmt=png-alpha",
+          "page": "https://www.apple.com/shop/product/hsm62zm/a/belkin-ultracharge-pro-20k-power-bank-with-integrated-cable",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Apple Store product image (store.storeimages.cdn-apple.com); Apple / Belkin has not granted a reuse license - rights not verified.",
+          "credit": "Belkin",
+          "alt": "Belkin UltraCharge Pro 20K Power Bank with Integrated Cable in Pink",
+          "match": "EXACT"
+        },
+        "Black": {
+          "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/HSKV2?wid=1400&hei=1400&fmt=png-alpha",
+          "page": "https://www.apple.com/shop/product/hsm62zm/a/belkin-ultracharge-pro-20k-power-bank-with-integrated-cable",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Apple Store product image (store.storeimages.cdn-apple.com); Apple / Belkin has not granted a reuse license - rights not verified.",
+          "credit": "Belkin",
+          "alt": "Belkin UltraCharge Pro 20K Power Bank with Integrated Cable in Black",
+          "match": "EXACT"
+        },
+        "Sand": {
+          "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/HSKZ2?wid=1400&hei=1400&fmt=png-alpha",
+          "page": "https://www.apple.com/shop/product/hsm62zm/a/belkin-ultracharge-pro-20k-power-bank-with-integrated-cable",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Apple Store product image (store.storeimages.cdn-apple.com); Apple / Belkin has not granted a reuse license - rights not verified.",
+          "credit": "Belkin",
+          "alt": "Belkin UltraCharge Pro 20K Power Bank with Integrated Cable in Sand",
+          "match": "EXACT"
+        }
+      },
+      "image": {
+        "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/HSK72?wid=1400&hei=1400&fmt=png-alpha",
+        "page": "https://www.apple.com/shop/product/hsm62zm/a/belkin-ultracharge-pro-20k-power-bank-with-integrated-cable",
+        "sourceType": "manufacturer-product-page",
+        "rights": "Official Apple Store product image (store.storeimages.cdn-apple.com); Apple / Belkin has not granted a reuse license - rights not verified.",
+        "credit": "Belkin",
+        "alt": "Belkin UltraCharge Pro 20K Power Bank with Integrated Cable in Blue",
+        "match": "EXACT"
+      },
+      "featured": false,
+      "warranty": 24,
+      "sources": {
+        "product": "https://www.apple.com/shop/product/hsm62zm/a/belkin-ultracharge-pro-20k-power-bank-with-integrated-cable",
+        "retrievedAt": "2026-09-29"
+      },
+      "notes": "Sold on apple.com/us (Chargers & Adapters). Works with MacBook, iPad, iPhone and USB-C devices (apple.com)."
+    },
+    {
+      "sku": "TK-BELKIN-MAGNETIC-POWERBANK-5K",
+      "slug": "belkin-boostcharge-pro-magnetic-power-bank-5k",
+      "name": "Belkin BoostCharge Pro Magnetic Power Bank 5K",
+      "brand": "Belkin",
+      "category": "docks-adapters",
+      "price": "59.95",
+      "priceBasis": "msrp",
+      "priceSource": "https://www.apple.com/shop/product/hrx32zm/a/belkin-boostcharge-pro-magnetic-power-bank-5k",
+      "priceAsOf": "2026-09-29",
+      "summary": "Qi2-certified 5,000 mAh Belkin magnetic power bank with a fold-out stand and up to 15W wireless charging.",
+      "description": "The BoostCharge Pro Magnetic Power Bank 5K is Qi2 certified and MagSafe compatible, delivering fast wireless charging up to 15W. A convertible design switches between pad and stand modes for FaceTime or video, and Belkin rates it at up to 16 hours of extra battery life. USB-C to USB-C cable included.",
+      "keywords": "belkin magnetic power bank qi2 5000mah stand apple store",
+      "specs": {
+        "interface": "Qi2 magnetic 5,000 mAh power bank with stand, USB-C",
+        "powerDeliveryW": 15
+      },
+      "colors": [
+        "Pink",
+        "Black",
+        "Sand"
+      ],
+      "colorImages": {
+        "Pink": {
+          "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/HRX52?wid=1400&hei=1400&fmt=png-alpha",
+          "page": "https://www.apple.com/shop/product/hrx32zm/a/belkin-boostcharge-pro-magnetic-power-bank-5k",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Apple Store product image (store.storeimages.cdn-apple.com); Apple / Belkin has not granted a reuse license - rights not verified.",
+          "credit": "Belkin",
+          "alt": "Belkin BoostCharge Pro Magnetic Power Bank 5K in Pink",
+          "match": "EXACT"
+        },
+        "Black": {
+          "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/HRX32?wid=1400&hei=1400&fmt=png-alpha",
+          "page": "https://www.apple.com/shop/product/hrx32zm/a/belkin-boostcharge-pro-magnetic-power-bank-5k",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Apple Store product image (store.storeimages.cdn-apple.com); Apple / Belkin has not granted a reuse license - rights not verified.",
+          "credit": "Belkin",
+          "alt": "Belkin BoostCharge Pro Magnetic Power Bank 5K in Black",
+          "match": "EXACT"
+        },
+        "Sand": {
+          "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/HRX42?wid=1400&hei=1400&fmt=png-alpha",
+          "page": "https://www.apple.com/shop/product/hrx32zm/a/belkin-boostcharge-pro-magnetic-power-bank-5k",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Apple Store product image (store.storeimages.cdn-apple.com); Apple / Belkin has not granted a reuse license - rights not verified.",
+          "credit": "Belkin",
+          "alt": "Belkin BoostCharge Pro Magnetic Power Bank 5K in Sand",
+          "match": "EXACT"
+        }
+      },
+      "image": {
+        "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/HRX52?wid=1400&hei=1400&fmt=png-alpha",
+        "page": "https://www.apple.com/shop/product/hrx32zm/a/belkin-boostcharge-pro-magnetic-power-bank-5k",
+        "sourceType": "manufacturer-product-page",
+        "rights": "Official Apple Store product image (store.storeimages.cdn-apple.com); Apple / Belkin has not granted a reuse license - rights not verified.",
+        "credit": "Belkin",
+        "alt": "Belkin BoostCharge Pro Magnetic Power Bank 5K in Pink",
+        "match": "EXACT"
+      },
+      "featured": false,
+      "warranty": 24,
+      "sources": {
+        "product": "https://www.apple.com/shop/product/hrx32zm/a/belkin-boostcharge-pro-magnetic-power-bank-5k",
+        "retrievedAt": "2026-09-29"
+      },
+      "notes": "Sold on apple.com/us (Chargers & Adapters). Works with MagSafe / Qi2 iPhone models from iPhone 12 onward (incl. iPhone 17 / 18 families and iPhone Air), per apple.com compatibility list."
+    },
+    {
+      "sku": "TK-BELKIN-MAGNETIC-POWERBANK-10K",
+      "slug": "belkin-boostcharge-pro-magnetic-power-bank-10k-cable",
+      "name": "Belkin BoostCharge Pro Magnetic Charging Power Bank 10K + Cable",
+      "brand": "Belkin",
+      "category": "docks-adapters",
+      "price": "99.95",
+      "priceBasis": "msrp",
+      "priceSource": "https://www.apple.com/shop/product/hre52zm/a/belkin-boostcharge-pro-magnetic-charging-power-bank-10k-cable",
+      "priceAsOf": "2026-09-29",
+      "summary": "Qi2 magnetic 10K Belkin power bank with integrated USB-C cable, extra USB-C port and kickstand; charges up to three devices.",
+      "description": "This pre-charged Qi2 power bank wirelessly charges a MagSafe-compatible iPhone at up to 15W, while the integrated USB-C cable charges at up to 20W and a USB-C port adds a third device. An integrated kickstand props iPhone up while it charges; Belkin quotes up to 35 hours of additional battery life.",
+      "keywords": "belkin magnetic power bank 10000mah qi2 kickstand apple store",
+      "specs": {
+        "interface": "Qi2 magnetic 10,000 mAh power bank, integrated USB-C cable + USB-C port, kickstand",
+        "powerDeliveryW": 20
+      },
+      "image": {
+        "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/HRE52?wid=1400&hei=1400&fmt=png-alpha",
+        "page": "https://www.apple.com/shop/product/hre52zm/a/belkin-boostcharge-pro-magnetic-charging-power-bank-10k-cable",
+        "sourceType": "manufacturer-product-page",
+        "rights": "Official Apple Store product image (store.storeimages.cdn-apple.com); Apple / Belkin has not granted a reuse license - rights not verified.",
+        "credit": "Belkin",
+        "alt": "Belkin BoostCharge Pro Magnetic Charging Power Bank 10K + Cable, black, with integrated USB-C cable",
+        "match": "EXACT"
+      },
+      "featured": false,
+      "warranty": 24,
+      "sources": {
+        "product": "https://www.apple.com/shop/product/hre52zm/a/belkin-boostcharge-pro-magnetic-charging-power-bank-10k-cable",
+        "retrievedAt": "2026-09-29"
+      },
+      "notes": "Sold on apple.com/us (Chargers & Adapters). Works with MagSafe / Qi2 iPhone models from iPhone 12 onward (incl. iPhone 17 / 18 families and iPhone Air), per apple.com compatibility list."
+    },
+    {
+      "sku": "TK-BELKIN-TB4-CORE-HUB",
+      "slug": "belkin-connect-thunderbolt-4-core-hub",
+      "name": "Belkin Connect Thunderbolt 4 Core Hub",
+      "brand": "Belkin",
+      "category": "docks-adapters",
+      "price": "199.95",
+      "priceBasis": "msrp",
+      "priceSource": "https://www.apple.com/shop/product/hr7s2zm/a/belkin-connect-thunderbolt-4-core-hub",
+      "priceAsOf": "2026-09-29",
+      "summary": "5-in-1 Belkin Thunderbolt 4 hub with four Thunderbolt 4 ports, 40 Gbps, dual 4K60 or single 8K30 displays and 96W host charging.",
+      "description": "The Belkin Connect Thunderbolt 4 Core Hub connects five devices, four of them Thunderbolt, through one cable to a Mac or iPad Pro. It offers 40 Gbps data, dual 4K 60Hz or single 8K 30Hz display support, up to 96W Power Delivery to the host and up to 15W to other devices, and daisy-chains up to six Thunderbolt devices. A 150W power supply and Thunderbolt 4 cable are included.",
+      "keywords": "belkin thunderbolt 4 hub dock 96w dual 4k apple store",
+      "specs": {
+        "interface": "Thunderbolt 4 hub: 4x Thunderbolt 4 + USB-A; 40 Gbps",
+        "powerDeliveryW": 96
+      },
+      "image": {
+        "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/HR7S2?wid=1400&hei=1400&fmt=png-alpha",
+        "page": "https://www.apple.com/shop/product/hr7s2zm/a/belkin-connect-thunderbolt-4-core-hub",
+        "sourceType": "manufacturer-product-page",
+        "rights": "Official Apple Store product image (store.storeimages.cdn-apple.com); Apple / Belkin has not granted a reuse license - rights not verified.",
+        "credit": "Belkin",
+        "alt": "Belkin Connect Thunderbolt 4 Core Hub, space grey hub with Thunderbolt ports",
+        "match": "EXACT"
+      },
+      "collections": [
+        "developer-setup"
+      ],
+      "featured": true,
+      "warranty": 24,
+      "sources": {
+        "product": "https://www.apple.com/shop/product/hr7s2zm/a/belkin-connect-thunderbolt-4-core-hub",
+        "retrievedAt": "2026-09-29"
+      },
+      "notes": "Sold on apple.com/us (Chargers & Adapters). Thunderbolt 4 certified / USB4 compliant; for Mac and iPad Pro (apple.com)."
+    },
+    {
+      "sku": "TK-BELKIN-USBC-DATA-CHARGE-ADAPTER",
+      "slug": "belkin-connect-usb-c-data-charge-adapter",
+      "name": "Belkin Connect USB-C Data + Charge Adapter",
+      "brand": "Belkin",
+      "category": "docks-adapters",
+      "price": "49.95",
+      "priceBasis": "msrp",
+      "priceSource": "https://www.apple.com/shop/product/hr862zm/b/belkin-connect-usb-c-data-charge-adapter",
+      "priceAsOf": "2026-09-29",
+      "summary": "Belkin USB-C splitter that adds a second USB-C port: 10 Gbps data, audio and up to 100W pass-through charging at once.",
+      "description": "The Belkin Connect USB-C to Dual-Port USB-C Adapter lets you listen to music, take calls or transfer data while passing through up to 100W of USB-PD charging. It supports USB 3.2 data at up to 10 Gbps and USB-C audio pass-through.",
+      "keywords": "belkin usb-c splitter dual usb-c charge data audio 100w apple store",
+      "specs": {
+        "interface": "USB-C to dual USB-C (10 Gbps data + 100W PD pass-through + audio)",
+        "powerDeliveryW": 100
+      },
+      "image": {
+        "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/HR862?wid=1400&hei=1400&fmt=png-alpha",
+        "page": "https://www.apple.com/shop/product/hr862zm/b/belkin-connect-usb-c-data-charge-adapter",
+        "sourceType": "manufacturer-product-page",
+        "rights": "Official Apple Store product image (store.storeimages.cdn-apple.com); Apple / Belkin has not granted a reuse license - rights not verified.",
+        "credit": "Belkin",
+        "alt": "Belkin Connect USB-C Data + Charge Adapter, white adapter with two USB-C ports",
+        "match": "EXACT"
+      },
+      "featured": false,
+      "warranty": 24,
+      "sources": {
+        "product": "https://www.apple.com/shop/product/hr862zm/b/belkin-connect-usb-c-data-charge-adapter",
+        "retrievedAt": "2026-09-29"
+      },
+      "notes": "Sold on apple.com/us (Chargers & Adapters). For USB-C Mac, iPad and iPhone (apple.com)."
+    },
+    {
+      "sku": "TK-BELKIN-USBC-HDMI-ADAPTER",
+      "slug": "belkin-connect-usb-c-to-hdmi-adapter",
+      "name": "Belkin Connect USB-C to HDMI Adapter",
+      "brand": "Belkin",
+      "category": "docks-adapters",
+      "price": "49.95",
+      "priceBasis": "msrp",
+      "priceSource": "https://www.apple.com/shop/product/hrg42zm/a/belkin-connect-usb-c-to-hdmi-adapter",
+      "priceAsOf": "2026-09-29",
+      "summary": "Belkin USB-C to HDMI adapter supporting 4K 60Hz with HDR10+ and HDCP 2.2 for Mac, iPad and iPhone.",
+      "description": "The Belkin Connect USB-C to HDMI Adapter connects a USB-C Mac, iPad or iPhone to an HDTV or HDMI display at up to 4K 60Hz (3840x2160). It supports HDR10+, HBR3, DSC, VRR and HDCP 2.2 for protected streaming content.",
+      "keywords": "belkin usb-c hdmi adapter 4k60 hdr apple store",
+      "specs": {
+        "interface": "USB-C to HDMI, 4K 60Hz, HDR10+, HDCP 2.2"
+      },
+      "image": {
+        "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/HRG42?wid=1400&hei=1400&fmt=png-alpha",
+        "page": "https://www.apple.com/shop/product/hrg42zm/a/belkin-connect-usb-c-to-hdmi-adapter",
+        "sourceType": "manufacturer-product-page",
+        "rights": "Official Apple Store product image (store.storeimages.cdn-apple.com); Apple / Belkin has not granted a reuse license - rights not verified.",
+        "credit": "Belkin",
+        "alt": "Belkin Connect USB-C to HDMI Adapter, white cable adapter with USB-C plug and HDMI socket",
+        "match": "EXACT"
+      },
+      "featured": false,
+      "warranty": 24,
+      "sources": {
+        "product": "https://www.apple.com/shop/product/hrg42zm/a/belkin-connect-usb-c-to-hdmi-adapter",
+        "retrievedAt": "2026-09-29"
+      },
+      "notes": "Sold on apple.com/us (Chargers & Adapters). For USB-C Mac, iPad and iPhone (apple.com)."
+    },
+    {
+      "sku": "TK-BELKIN-DUAL-WALL-CHARGER-42W",
+      "slug": "belkin-boostcharge-dual-wall-charger-42w",
+      "name": "Belkin BoostCharge Dual Wall Charger (42W)",
+      "brand": "Belkin",
+      "category": "docks-adapters",
+      "price": "34.95",
+      "priceBasis": "msrp",
+      "priceSource": "https://www.apple.com/shop/product/hrgg2zm/a/belkin-boostcharge-dual-wall-charger-42w",
+      "priceAsOf": "2026-09-29",
+      "summary": "Belkin 42W dual wall charger with a 30W USB-C PD port and a 12W USB-A port, plus folding prongs.",
+      "description": "The Belkin BoostCharge Dual Wall Charger fast charges iPhone (0-50% in about 30 minutes) while charging another device. It provides up to 42W total from a 30W USB-C PD 3.0 port and a 12W USB-A port, supports iPad and MacBook Air from the USB-C port, and has travel-friendly folding prongs.",
+      "keywords": "belkin 42w dual charger usb-c usb-a apple store",
+      "specs": {
+        "interface": "Wall charger: 1x USB-C PD (30W) + 1x USB-A (12W)",
+        "powerDeliveryW": 42
+      },
+      "image": {
+        "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/HRGG2_GEO_US?wid=1400&hei=1400&fmt=png-alpha",
+        "page": "https://www.apple.com/shop/product/hrgg2zm/a/belkin-boostcharge-dual-wall-charger-42w",
+        "sourceType": "manufacturer-product-page",
+        "rights": "Official Apple Store product image (store.storeimages.cdn-apple.com); Apple / Belkin has not granted a reuse license - rights not verified.",
+        "credit": "Belkin",
+        "alt": "Belkin BoostCharge Dual Wall Charger (42W), white charger with USB-C and USB-A ports",
+        "match": "EXACT"
+      },
+      "featured": false,
+      "warranty": 24,
+      "sources": {
+        "product": "https://www.apple.com/shop/product/hrgg2zm/a/belkin-boostcharge-dual-wall-charger-42w",
+        "retrievedAt": "2026-09-29"
+      },
+      "notes": "Sold on apple.com/us (Chargers & Adapters). Fast charges iPhone 8 or later; supports iPad and MacBook Air (apple.com)."
+    },
+    {
+      "sku": "TK-BELKIN-DUAL-MAGNETIC-PAD",
+      "slug": "belkin-boostcharge-dual-magnetic-charging-pad",
+      "name": "Belkin BoostCharge Dual Magnetic Charging Pad",
+      "brand": "Belkin",
+      "category": "docks-adapters",
+      "price": "79.95",
+      "priceBasis": "msrp",
+      "priceSource": "https://www.apple.com/shop/product/hrx02zm/a/belkin-boostcharge-dual-magnetic-charging-pad",
+      "priceAsOf": "2026-09-29",
+      "summary": "Belkin dual Qi2 magnetic pad that wirelessly charges two iPhones, or an iPhone and AirPods, at up to 15W each; 45W adapter included.",
+      "description": "The BoostCharge Dual Magnetic Charging Pad wirelessly charges two iPhones, or an iPhone and AirPods, at once with up to 15W of Qi2 charging per pad and MagSafe-compatible alignment. It includes a 45W USB-C power adapter and a 1.5 m USB-C cable.",
+      "keywords": "belkin dual magnetic charging pad qi2 two iphones apple store",
+      "specs": {
+        "interface": "Dual Qi2 magnetic charging pad; USB-C input",
+        "powerDeliveryW": 15
+      },
+      "image": {
+        "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/HRX02?wid=1400&hei=1400&fmt=png-alpha",
+        "page": "https://www.apple.com/shop/product/hrx02zm/a/belkin-boostcharge-dual-magnetic-charging-pad",
+        "sourceType": "manufacturer-product-page",
+        "rights": "Official Apple Store product image (store.storeimages.cdn-apple.com); Apple / Belkin has not granted a reuse license - rights not verified.",
+        "credit": "Belkin",
+        "alt": "Belkin BoostCharge Dual Magnetic Charging Pad, white pad with two magnetic charging surfaces",
+        "match": "EXACT"
+      },
+      "featured": false,
+      "sources": {
+        "product": "https://www.apple.com/shop/product/hrx02zm/a/belkin-boostcharge-dual-magnetic-charging-pad",
+        "retrievedAt": "2026-09-29"
+      },
+      "notes": "Sold on apple.com/us (Chargers & Adapters). Works with MagSafe / Qi2 iPhone models from iPhone 12 onward (incl. iPhone 17 / 18 families and iPhone Air), per apple.com compatibility list."
+    },
+    {
+      "sku": "TK-BELKIN-2IN1-MAGNETIC-TRAVEL-PAD",
+      "slug": "belkin-boostcharge-pro-2-in-1-magnetic-charging-travel-pad",
+      "name": "Belkin BoostCharge Pro 2-in-1 Magnetic Charging Travel Pad",
+      "brand": "Belkin",
+      "category": "docks-adapters",
+      "price": "119.95",
+      "priceBasis": "msrp",
+      "priceSource": "https://www.apple.com/shop/product/hrx12zm/a/belkin-boostcharge-pro-2-in-1-magnetic-charging-travel-pad",
+      "priceAsOf": "2026-09-29",
+      "summary": "Foldable Belkin Qi2 travel pad that charges iPhone at 15W plus Apple Watch or AirPods; international plugs and travel bag included.",
+      "description": "This foldable Qi2 travel pad fast charges iPhone at up to 15W and fast charges Apple Watch Series 7 and later (or AirPods) at the same time. An adjustable hinge angles iPhone 0-90 degrees for StandBy in landscape. A 30W USB-C adapter, 1.5 m right-angled cable, five international plug tips and a travel bag are included.",
+      "keywords": "belkin travel charger 2-in-1 qi2 foldable apple watch apple store",
+      "specs": {
+        "interface": "Foldable Qi2 15W iPhone charger + Apple Watch fast charger",
+        "powerDeliveryW": 15
+      },
+      "image": {
+        "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/HRX12?wid=1400&hei=1400&fmt=png-alpha",
+        "page": "https://www.apple.com/shop/product/hrx12zm/a/belkin-boostcharge-pro-2-in-1-magnetic-charging-travel-pad",
+        "sourceType": "manufacturer-product-page",
+        "rights": "Official Apple Store product image (store.storeimages.cdn-apple.com); Apple / Belkin has not granted a reuse license - rights not verified.",
+        "credit": "Belkin",
+        "alt": "Belkin BoostCharge Pro 2-in-1 Magnetic Charging Travel Pad, fabric-wrapped foldable charger",
+        "match": "EXACT"
+      },
+      "featured": false,
+      "sources": {
+        "product": "https://www.apple.com/shop/product/hrx12zm/a/belkin-boostcharge-pro-2-in-1-magnetic-charging-travel-pad",
+        "retrievedAt": "2026-09-29"
+      },
+      "notes": "Sold on apple.com/us (Chargers & Adapters). Works with MagSafe / Qi2 iPhone models from iPhone 12 onward (incl. iPhone 17 / 18 families and iPhone Air), per apple.com compatibility list. Apple Watch fast charging on Series 7 and later."
+    },
+    {
+      "sku": "TK-MOPHIE-POWERSTATION-MINI",
+      "slug": "mophie-powerstation-mini",
+      "name": "mophie powerstation mini",
+      "brand": "mophie",
+      "category": "docks-adapters",
+      "price": "39.95",
+      "priceBasis": "msrp",
+      "priceSource": "https://www.apple.com/shop/product/hq3b2zm/a/mophie-powerstation-mini",
+      "priceAsOf": "2026-09-29",
+      "summary": "Compact aluminium 5,000 mAh mophie power bank with 20W USB-C PD input/output.",
+      "description": "The mophie powerstation mini provides up to 20W of USB-C Power Delivery to charge iPhone, AirPods or iPad, with a 5,000 mAh battery and an LED power indicator. The same USB-C port recharges the pack. It has a bead-blasted aluminium exterior; a USB-C to USB-C cable is included.",
+      "keywords": "mophie powerstation mini power bank 5000mah 20w apple store",
+      "specs": {
+        "interface": "5,000 mAh power bank, USB-C PD in/out",
+        "powerDeliveryW": 20
+      },
+      "image": {
+        "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/HQ3B2?wid=1400&hei=1400&fmt=png-alpha",
+        "page": "https://www.apple.com/shop/product/hq3b2zm/a/mophie-powerstation-mini",
+        "sourceType": "manufacturer-product-page",
+        "rights": "Official Apple Store product image (store.storeimages.cdn-apple.com); Apple / mophie has not granted a reuse license - rights not verified.",
+        "credit": "mophie",
+        "alt": "mophie powerstation mini, compact aluminium power bank with USB-C port",
+        "match": "EXACT"
+      },
+      "featured": false,
+      "warranty": 24,
+      "sources": {
+        "product": "https://www.apple.com/shop/product/hq3b2zm/a/mophie-powerstation-mini",
+        "retrievedAt": "2026-09-29"
+      },
+      "notes": "Sold on apple.com/us (Chargers & Adapters). Charges iPhone, AirPods, Apple Watch (with its cable) and iPad (apple.com)."
+    },
+    {
+      "sku": "TK-MOPHIE-DUAL-USBC-40W-CAR",
+      "slug": "mophie-dual-usb-c-40w-pd-car-charger",
+      "name": "mophie Dual USB-C 40W PD Car Charger",
+      "brand": "mophie",
+      "category": "docks-adapters",
+      "price": "34.95",
+      "priceBasis": "msrp",
+      "priceSource": "https://www.apple.com/shop/product/hq462zm/a/mophie-dual-usb-c-40w-pd-car-charger",
+      "priceAsOf": "2026-09-29",
+      "summary": "mophie car charger with two USB-C ports sharing up to 40W for iPhone and iPad.",
+      "description": "The mophie Dual USB-C 40W PD Car Charger turns a car's 12V auxiliary port into a power source for two devices, with USB-C and USB-C PD ports delivering a shared output of up to 40W to iPhone or iPad. It has an LED charging indicator and an anodized aluminium finish.",
+      "keywords": "mophie car charger dual usb-c 40w apple store",
+      "specs": {
+        "interface": "Car (12V) charger: 2x USB-C, 40W shared",
+        "powerDeliveryW": 40
+      },
+      "image": {
+        "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/HQ462?wid=1400&hei=1400&fmt=png-alpha",
+        "page": "https://www.apple.com/shop/product/hq462zm/a/mophie-dual-usb-c-40w-pd-car-charger",
+        "sourceType": "manufacturer-product-page",
+        "rights": "Official Apple Store product image (store.storeimages.cdn-apple.com); Apple / mophie has not granted a reuse license - rights not verified.",
+        "credit": "mophie",
+        "alt": "mophie Dual USB-C 40W PD Car Charger, aluminium plug with two USB-C ports",
+        "match": "EXACT"
+      },
+      "featured": false,
+      "warranty": 24,
+      "sources": {
+        "product": "https://www.apple.com/shop/product/hq462zm/a/mophie-dual-usb-c-40w-pd-car-charger",
+        "retrievedAt": "2026-09-29"
+      },
+      "notes": "Sold on apple.com/us (Chargers & Adapters). For USB-C and Lightning iPhone / iPad with the appropriate cable (apple.com)."
+    },
+    {
+      "sku": "TK-MOPHIE-DUAL-32W-CAR",
+      "slug": "mophie-dual-usb-c-usb-a-32w-pd-car-charger",
+      "name": "mophie Dual (USB-C/USB-A) 32W PD Car Charger",
+      "brand": "mophie",
+      "category": "docks-adapters",
+      "price": "29.95",
+      "priceBasis": "msrp",
+      "priceSource": "https://www.apple.com/shop/product/hq452zm/a/mophie-dual-usb-c-usb-a-32w-pd-car-charger",
+      "priceAsOf": "2026-09-29",
+      "summary": "mophie 32W car charger with a USB-C PD port and a USB-A port for charging two devices while driving.",
+      "description": "Get up to 32W of fast charging from the USB-C PD port with one device, or with two devices plugged in, up to 20W USB-C PD plus 12W from USB-A. It plugs into any 12V auxiliary port and has an anodized aluminium finish and LED charging indicator.",
+      "keywords": "mophie car charger usb-c usb-a 32w apple store",
+      "specs": {
+        "interface": "Car (12V) charger: 1x USB-C PD + 1x USB-A, 32W",
+        "powerDeliveryW": 32
+      },
+      "image": {
+        "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/HQ452?wid=1400&hei=1400&fmt=png-alpha",
+        "page": "https://www.apple.com/shop/product/hq452zm/a/mophie-dual-usb-c-usb-a-32w-pd-car-charger",
+        "sourceType": "manufacturer-product-page",
+        "rights": "Official Apple Store product image (store.storeimages.cdn-apple.com); Apple / mophie has not granted a reuse license - rights not verified.",
+        "credit": "mophie",
+        "alt": "mophie Dual USB-C/USB-A 32W PD Car Charger, aluminium plug with USB-C and USB-A ports",
+        "match": "EXACT"
+      },
+      "featured": false,
+      "warranty": 24,
+      "sources": {
+        "product": "https://www.apple.com/shop/product/hq452zm/a/mophie-dual-usb-c-usb-a-32w-pd-car-charger",
+        "retrievedAt": "2026-09-29"
+      },
+      "notes": "Sold on apple.com/us (Chargers & Adapters). For iPhone and iPad with the appropriate cable (apple.com)."
+    },
+    {
+      "sku": "TK-MOPHIE-USBC-20W-CAR",
+      "slug": "mophie-usb-c-20w-car-charger",
+      "name": "mophie USB-C 20W Car Charger",
+      "brand": "mophie",
+      "category": "docks-adapters",
+      "price": "24.95",
+      "priceBasis": "msrp",
+      "priceSource": "https://www.apple.com/shop/product/hq442zm/a/mophie-usb-c-20w-car-charger",
+      "priceAsOf": "2026-09-29",
+      "summary": "Compact mophie 20W USB-C PD car charger with anodized aluminium finish.",
+      "description": "The mophie 20W USB-C car charger plugs into a car's 12V auxiliary outlet and provides fast-charging USB-C PD power for iPhone or iPad. It features an anodized aluminium finish and an LED charging indicator.",
+      "keywords": "mophie 20w usb-c car charger apple store",
+      "specs": {
+        "interface": "Car (12V) charger: 1x USB-C PD, 20W",
+        "powerDeliveryW": 20
+      },
+      "image": {
+        "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/HQ442?wid=1400&hei=1400&fmt=png-alpha",
+        "page": "https://www.apple.com/shop/product/hq442zm/a/mophie-usb-c-20w-car-charger",
+        "sourceType": "manufacturer-product-page",
+        "rights": "Official Apple Store product image (store.storeimages.cdn-apple.com); Apple / mophie has not granted a reuse license - rights not verified.",
+        "credit": "mophie",
+        "alt": "mophie USB-C 20W Car Charger, aluminium plug with USB-C port",
+        "match": "EXACT"
+      },
+      "featured": false,
+      "warranty": 24,
+      "sources": {
+        "product": "https://www.apple.com/shop/product/hq442zm/a/mophie-usb-c-20w-car-charger",
+        "retrievedAt": "2026-09-29"
+      },
+      "notes": "Sold on apple.com/us (Chargers & Adapters). For iPhone and iPad with the appropriate cable (apple.com)."
+    },
+    {
+      "sku": "TK-MOPHIE-MAGNETIC-VENT-MOUNT",
+      "slug": "mophie-magnetic-wireless-charging-car-vent-mount",
+      "name": "mophie Magnetic Wireless Charging Car Vent Mount",
+      "brand": "mophie",
+      "category": "docks-adapters",
+      "price": "69.95",
+      "priceBasis": "msrp",
+      "priceSource": "https://www.apple.com/shop/product/hrx72zm/a/mophie-magnetic-wireless-charging-car-vent-mount-magsafe-compatible",
+      "priceAsOf": "2026-09-29",
+      "summary": "Qi2-certified mophie car vent mount that holds iPhone magnetically and charges at up to 15W; 20W car adapter included.",
+      "description": "The mophie Wireless Charging Vent Mount holds iPhone magnetically and charges it at up to 15W with Qi2 (MagSafe compatible). An adjustable hook fits vents up to 41 mm, and the mount tilts and swivels for the right angle. An aluminium 20W USB-C car adapter, 1.5 m USB-C cable and cable clips are included.",
+      "keywords": "mophie car mount qi2 magsafe vent wireless charger apple store",
+      "specs": {
+        "interface": "Qi2 15W magnetic car vent charger; includes 20W USB-C car adapter",
+        "powerDeliveryW": 15
+      },
+      "image": {
+        "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/HRX72?wid=1400&hei=1400&fmt=png-alpha",
+        "page": "https://www.apple.com/shop/product/hrx72zm/a/mophie-magnetic-wireless-charging-car-vent-mount-magsafe-compatible",
+        "sourceType": "manufacturer-product-page",
+        "rights": "Official Apple Store product image (store.storeimages.cdn-apple.com); Apple / mophie has not granted a reuse license - rights not verified.",
+        "credit": "mophie",
+        "alt": "mophie Magnetic Wireless Charging Car Vent Mount, black magnetic charging mount with vent hook",
+        "match": "EXACT"
+      },
+      "featured": false,
+      "warranty": 24,
+      "sources": {
+        "product": "https://www.apple.com/shop/product/hrx72zm/a/mophie-magnetic-wireless-charging-car-vent-mount-magsafe-compatible",
+        "retrievedAt": "2026-09-29"
+      },
+      "notes": "Sold on apple.com/us (Chargers & Adapters). Works with MagSafe / Qi2 iPhone models from iPhone 12 onward (incl. iPhone 17 / 18 families and iPhone Air), per apple.com compatibility list."
+    },
+    {
+      "sku": "TK-MOPHIE-240W-USBC-CABLE",
+      "slug": "mophie-240w-usb-c-to-usb-c-charge-cable",
+      "name": "mophie 240W USB-C to USB-C Charge Cable",
+      "brand": "mophie",
+      "category": "docks-adapters",
+      "price": "19.95",
+      "priceBasis": "starting-at",
+      "priceSource": "https://www.apple.com/shop/product/hrgt2zm/a/mophie-240w-usb-c-to-usb-c-charge-cable-1m-black",
+      "priceAsOf": "2026-09-29",
+      "summary": "Heavy-duty braided mophie 240W USB-C cable with EnduraFlex silicone core and cable strap; 1 m, 2 m and 3 m lengths.",
+      "description": "The mophie 240W USB-C to USB-C Charge Cable has a heavy-duty braided exterior over a soft, pliable EnduraFlex silicone interior that resists kinks and tangles. It has aluminium connectors and an integrated silicone cable strap for travel. Sold in black in 1 m, 2 m and 3 m lengths.",
+      "keywords": "mophie 240w usb-c cable braided macbook apple store",
+      "specs": {
+        "interface": "USB-C to USB-C braided cable, 240W",
+        "powerDeliveryW": 240
+      },
+      "variants": [
+        {
+          "label": "1 m",
+          "price": "19.95"
+        },
+        {
+          "label": "2 m",
+          "price": "24.95"
+        },
+        {
+          "label": "3 m",
+          "price": "29.95"
+        }
+      ],
+      "image": {
+        "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/HRGT2?wid=1400&hei=1400&fmt=png-alpha",
+        "page": "https://www.apple.com/shop/product/hrgt2zm/a/mophie-240w-usb-c-to-usb-c-charge-cable-1m-black",
+        "sourceType": "manufacturer-product-page",
+        "rights": "Official Apple Store product image (store.storeimages.cdn-apple.com); Apple / mophie has not granted a reuse license - rights not verified.",
+        "credit": "mophie",
+        "alt": "mophie 240W USB-C to USB-C Charge Cable in black, coiled with cable strap",
+        "match": "EXACT"
+      },
+      "featured": false,
+      "warranty": 24,
+      "sources": {
+        "product": "https://www.apple.com/shop/product/hrgt2zm/a/mophie-240w-usb-c-to-usb-c-charge-cable-1m-black",
+        "retrievedAt": "2026-09-29"
+      },
+      "notes": "Sold on apple.com/us (Chargers & Adapters). Compatible with USB-C iPhone (iPhone 15 and later incl. iPhone 17 / 18 families, iPhone Air, iPhone Duo), USB-C iPad models and USB-C Mac, per apple.com compatibility list."
+    },
+    {
+      "sku": "TK-MOPHIE-USBA-LIGHTNING-CABLE",
+      "slug": "mophie-usb-a-to-lightning-charge-cable",
+      "name": "mophie USB-A to Lightning Charge Cable",
+      "brand": "mophie",
+      "category": "docks-adapters",
+      "price": "19.95",
+      "priceBasis": "starting-at",
+      "priceSource": "https://www.apple.com/shop/product/hrgk2zm/a/mophie-usb-a-to-lightning-charge-cable-1m",
+      "priceAsOf": "2026-09-29",
+      "summary": "MFi-certified braided mophie USB-A to Lightning cable with EnduraFlex silicone core; 1 m, 2 m and 3 m lengths.",
+      "description": "The mophie USB-A to Lightning Charge Cable has a heavy-duty braided exterior and soft EnduraFlex silicone interior that won't kink or tangle, aluminium connectors and an integrated cable strap. All mophie Lightning cables are MFi certified.",
+      "keywords": "mophie lightning cable usb-a mfi braided apple store",
+      "specs": {
+        "interface": "USB-A to Lightning braided cable, MFi certified"
+      },
+      "variants": [
+        {
+          "label": "1 m",
+          "price": "19.95"
+        },
+        {
+          "label": "2 m",
+          "price": "24.95"
+        },
+        {
+          "label": "3 m",
+          "price": "29.95"
+        }
+      ],
+      "image": {
+        "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/HRGK2?wid=1400&hei=1400&fmt=png-alpha",
+        "page": "https://www.apple.com/shop/product/hrgk2zm/a/mophie-usb-a-to-lightning-charge-cable-1m",
+        "sourceType": "manufacturer-product-page",
+        "rights": "Official Apple Store product image (store.storeimages.cdn-apple.com); Apple / mophie has not granted a reuse license - rights not verified.",
+        "credit": "mophie",
+        "alt": "mophie USB-A to Lightning Charge Cable, black braided cable coiled with strap",
+        "match": "EXACT"
+      },
+      "featured": false,
+      "warranty": 24,
+      "sources": {
+        "product": "https://www.apple.com/shop/product/hrgk2zm/a/mophie-usb-a-to-lightning-charge-cable-1m",
+        "retrievedAt": "2026-09-29"
+      },
+      "notes": "Sold on apple.com/us (Chargers & Adapters). For Lightning devices: iPhone 5 through iPhone 14 families, iPhone SE, and Lightning iPad models, per apple.com compatibility list."
+    },
+    {
+      "sku": "TK-MOPHIE-USBC-LIGHTNING-CABLE-3M",
+      "slug": "mophie-usb-c-to-lightning-charge-cable-3m",
+      "name": "mophie USB-C to Lightning Charge Cable (3 m)",
+      "brand": "mophie",
+      "category": "docks-adapters",
+      "price": "29.95",
+      "priceBasis": "msrp",
+      "priceSource": "https://www.apple.com/shop/product/hrgq2zm/a/mophie-usb-c-to-lightning-charge-cable-3m",
+      "priceAsOf": "2026-09-29",
+      "summary": "3 m MFi-certified mophie USB-C to Lightning cable with braided exterior and EnduraFlex silicone core, fast-charge compatible.",
+      "description": "The mophie USB-C to Lightning Charge Cable is fast-charge compatible and features a heavy-duty braided exterior over EnduraFlex silicone, aluminium connectors and an integrated silicone cable strap. It is MFi certified and 3 m (9.8 ft) long.",
+      "keywords": "mophie usb-c lightning cable 3m mfi apple store",
+      "specs": {
+        "interface": "USB-C to Lightning braided cable (3 m), MFi certified"
+      },
+      "image": {
+        "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/HRGQ2?wid=1400&hei=1400&fmt=png-alpha",
+        "page": "https://www.apple.com/shop/product/hrgq2zm/a/mophie-usb-c-to-lightning-charge-cable-3m",
+        "sourceType": "manufacturer-product-page",
+        "rights": "Official Apple Store product image (store.storeimages.cdn-apple.com); Apple / mophie has not granted a reuse license - rights not verified.",
+        "credit": "mophie",
+        "alt": "mophie USB-C to Lightning Charge Cable (3 m), black braided cable coiled with strap",
+        "match": "EXACT"
+      },
+      "featured": false,
+      "warranty": 24,
+      "sources": {
+        "product": "https://www.apple.com/shop/product/hrgq2zm/a/mophie-usb-c-to-lightning-charge-cable-3m",
+        "retrievedAt": "2026-09-29"
+      },
+      "notes": "Sold on apple.com/us (Chargers & Adapters). For Lightning devices: iPhone 5 through iPhone 14 families, iPhone SE, and Lightning iPad models, per apple.com compatibility list."
+    },
+    {
+      "sku": "TK-MOPHIE-USBA-USBC-CABLE-1M",
+      "slug": "mophie-usb-a-to-usb-c-charge-cable-1m",
+      "name": "mophie USB-A to USB-C Charge Cable (1 m)",
+      "brand": "mophie",
+      "category": "docks-adapters",
+      "price": "19.95",
+      "priceBasis": "msrp",
+      "priceSource": "https://www.apple.com/shop/product/hrgs2zm/a/mophie-usb-a-to-usb-c-charge-cable-1m-black",
+      "priceAsOf": "2026-09-29",
+      "summary": "1 m braided mophie USB-A to USB-C cable with EnduraFlex silicone core, aluminium connectors and cable strap.",
+      "description": "The mophie USB-A to USB-C Charge Cable is fast-charge compatible, with a heavy-duty braided exterior over a soft EnduraFlex silicone interior, premium aluminium connectors and an integrated silicone cable strap. Length 1 m, black.",
+      "keywords": "mophie usb-a to usb-c cable braided apple store",
+      "specs": {
+        "interface": "USB-A to USB-C braided cable (1 m)"
+      },
+      "image": {
+        "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/HRGS2?wid=1400&hei=1400&fmt=png-alpha",
+        "page": "https://www.apple.com/shop/product/hrgs2zm/a/mophie-usb-a-to-usb-c-charge-cable-1m-black",
+        "sourceType": "manufacturer-product-page",
+        "rights": "Official Apple Store product image (store.storeimages.cdn-apple.com); Apple / mophie has not granted a reuse license - rights not verified.",
+        "credit": "mophie",
+        "alt": "mophie USB-A to USB-C Charge Cable (1 m), black braided cable coiled with strap",
+        "match": "EXACT"
+      },
+      "featured": false,
+      "warranty": 24,
+      "sources": {
+        "product": "https://www.apple.com/shop/product/hrgs2zm/a/mophie-usb-a-to-usb-c-charge-cable-1m-black",
+        "retrievedAt": "2026-09-29"
+      },
+      "notes": "Sold on apple.com/us (Chargers & Adapters). Compatible with USB-C iPhone (iPhone 15 and later incl. iPhone 17 / 18 families, iPhone Air, iPhone Duo), USB-C iPad models and USB-C Mac, per apple.com compatibility list."
+    },
+    {
+      "sku": "TK-ANKER-CHARGER-30W-CABLE",
+      "slug": "anker-charger-30w-with-usb-c-cable",
+      "name": "Anker Charger (30W with USB-C Cable)",
+      "brand": "Anker",
+      "category": "docks-adapters",
+      "price": "39.95",
+      "priceBasis": "msrp",
+      "priceSource": "https://www.apple.com/shop/product/hrql2ll/a/anker-charger-30w-with-usb-c-cable",
+      "priceAsOf": "2026-09-29",
+      "summary": "Ultra-compact Anker 30W GaN USB-C charger with ActiveShield 2.0 temperature monitoring and a 1.5 m USB-C cable.",
+      "description": "The Anker 30W charger uses GaN technology to fast charge iPhone, AirPods and Apple Watch up to three times quicker than a 5W charger, in an ultra-compact design. ActiveShield 2.0 performs up to 3 million daily temperature checks. A 1.5 m USB-C to USB-C cable is included.",
+      "keywords": "anker 30w gan charger usb-c apple store",
+      "specs": {
+        "interface": "GaN wall charger: 1x USB-C, 30W; 1.5 m USB-C cable included",
+        "powerDeliveryW": 30
+      },
+      "image": {
+        "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/HRQL2_GEO_US?wid=1400&hei=1400&fmt=png-alpha",
+        "page": "https://www.apple.com/shop/product/hrql2ll/a/anker-charger-30w-with-usb-c-cable",
+        "sourceType": "manufacturer-product-page",
+        "rights": "Official Apple Store product image (store.storeimages.cdn-apple.com); Apple / Anker has not granted a reuse license - rights not verified.",
+        "credit": "Anker",
+        "alt": "Anker Charger (30W) in white with USB-C cable",
+        "match": "EXACT"
+      },
+      "featured": false,
+      "sources": {
+        "product": "https://www.apple.com/shop/product/hrql2ll/a/anker-charger-30w-with-usb-c-cable",
+        "retrievedAt": "2026-09-29"
+      },
+      "notes": "Sold on apple.com/us (Chargers & Adapters). For iPhone, AirPods, Apple Watch and iPad (apple.com)."
+    },
+    {
+      "sku": "TK-ANKER-CHARGER-50W-2PORT",
+      "slug": "anker-charger-50w-2-port",
+      "name": "Anker Charger (50W, 2 Port)",
+      "brand": "Anker",
+      "category": "docks-adapters",
+      "price": "49.95",
+      "priceBasis": "msrp",
+      "priceSource": "https://www.apple.com/shop/product/hrqk2ll/a/anker-charger-50w-2-port",
+      "priceAsOf": "2026-09-29",
+      "summary": "Compact two-port Anker 50W GaN charger for charging two Apple devices at once.",
+      "description": "The Anker 50W charger uses GaN technology to fast charge iPhone, AirPods, Apple Watch and more, and is ideal for charging multiple devices at once. Its compact design suits travel, and ActiveShield 2.0 performs up to 3 million daily temperature checks.",
+      "keywords": "anker 50w gan charger 2 port usb-c apple store",
+      "specs": {
+        "interface": "GaN wall charger: 2-port USB-C, 50W",
+        "powerDeliveryW": 50
+      },
+      "image": {
+        "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/HRQK2_GEO_US?wid=1400&hei=1400&fmt=png-alpha",
+        "page": "https://www.apple.com/shop/product/hrqk2ll/a/anker-charger-50w-2-port",
+        "sourceType": "manufacturer-product-page",
+        "rights": "Official Apple Store product image (store.storeimages.cdn-apple.com); Apple / Anker has not granted a reuse license - rights not verified.",
+        "credit": "Anker",
+        "alt": "Anker Charger (50W, 2 Port), white compact wall charger",
+        "match": "EXACT"
+      },
+      "featured": false,
+      "sources": {
+        "product": "https://www.apple.com/shop/product/hrqk2ll/a/anker-charger-50w-2-port",
+        "retrievedAt": "2026-09-29"
+      },
+      "notes": "Sold on apple.com/us (Chargers & Adapters). For iPhone, iPad, AirPods, Apple Watch and MacBook Air (apple.com)."
+    },
+    {
+      "sku": "TK-ANKER-CHARGER-70W-3PORT",
+      "slug": "anker-charger-70w-3-port",
+      "name": "Anker Charger (70W, 3 Port)",
+      "brand": "Anker",
+      "category": "docks-adapters",
+      "price": "79.95",
+      "priceBasis": "msrp",
+      "priceSource": "https://www.apple.com/shop/product/hrqj2ll/a/anker-charger-70w-3-port",
+      "priceAsOf": "2026-09-29",
+      "summary": "Three-port Anker 70W GaN charger for MacBook, iPhone and AirPods.",
+      "description": "The Anker 70W charger uses GaN technology to rapidly charge MacBook, iPhone and AirPods, with three ports for simultaneous charging in a compact, travel-friendly design. ActiveShield 2.0 performs up to 3 million daily temperature checks.",
+      "keywords": "anker 70w gan charger 3 port macbook apple store",
+      "specs": {
+        "interface": "GaN wall charger: 3 ports, 70W",
+        "powerDeliveryW": 70
+      },
+      "image": {
+        "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/HRQJ2_GEO_US?wid=1400&hei=1400&fmt=png-alpha",
+        "page": "https://www.apple.com/shop/product/hrqj2ll/a/anker-charger-70w-3-port",
+        "sourceType": "manufacturer-product-page",
+        "rights": "Official Apple Store product image (store.storeimages.cdn-apple.com); Apple / Anker has not granted a reuse license - rights not verified.",
+        "credit": "Anker",
+        "alt": "Anker Charger (70W, 3 Port), white wall charger",
+        "match": "EXACT"
+      },
+      "featured": false,
+      "sources": {
+        "product": "https://www.apple.com/shop/product/hrqj2ll/a/anker-charger-70w-3-port",
+        "retrievedAt": "2026-09-29"
+      },
+      "notes": "Sold on apple.com/us (Chargers & Adapters). For MacBook, iPad, iPhone and AirPods (apple.com)."
+    },
+    {
+      "sku": "TK-ANKER-CHARGER-150W-4PORT",
+      "slug": "anker-charger-150w-4-port",
+      "name": "Anker Charger (150W, 4 Port)",
+      "brand": "Anker",
+      "category": "docks-adapters",
+      "price": "99.95",
+      "priceBasis": "msrp",
+      "priceSource": "https://www.apple.com/shop/product/hrqh2ll/a/anker-charger-150w-4-port",
+      "priceAsOf": "2026-09-29",
+      "summary": "Four-port Anker 150W GaN charger with up to 140W from a single port for MacBook Pro.",
+      "description": "The Anker 150W USB-C charger powers MacBook Pro, iPad, iPhone and AirPods, delivering up to 140W from a single port and 150W total across four ports. It uses GaN technology in a lightweight design, with ActiveShield 2.0 performing up to 3 million daily temperature checks.",
+      "keywords": "anker 150w gan charger 4 port 140w macbook pro apple store",
+      "specs": {
+        "interface": "GaN desktop charger: 4 ports, 150W total, up to 140W single port",
+        "powerDeliveryW": 150
+      },
+      "image": {
+        "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/HRQH2_GEO_US?wid=1400&hei=1400&fmt=png-alpha",
+        "page": "https://www.apple.com/shop/product/hrqh2ll/a/anker-charger-150w-4-port",
+        "sourceType": "manufacturer-product-page",
+        "rights": "Official Apple Store product image (store.storeimages.cdn-apple.com); Apple / Anker has not granted a reuse license - rights not verified.",
+        "credit": "Anker",
+        "alt": "Anker Charger (150W, 4 Port), white charger with four ports",
+        "match": "EXACT"
+      },
+      "featured": false,
+      "sources": {
+        "product": "https://www.apple.com/shop/product/hrqh2ll/a/anker-charger-150w-4-port",
+        "retrievedAt": "2026-09-29"
+      },
+      "notes": "Sold on apple.com/us (Chargers & Adapters). For MacBook Pro, iPad, iPhone and AirPods (apple.com)."
+    },
+    {
+      "sku": "TK-ANKER-CHARGER-240W-4PORT",
+      "slug": "anker-charger-240w-4-port",
+      "name": "Anker Charger (240W, 4 Port)",
+      "brand": "Anker",
+      "category": "docks-adapters",
+      "price": "129.95",
+      "priceBasis": "msrp",
+      "priceSource": "https://www.apple.com/shop/product/hrqg2ll/a/anker-charger-240w-4-port",
+      "priceAsOf": "2026-09-29",
+      "summary": "Four-port Anker 240W GaN desktop charger, up to 140W from one port for full-speed MacBook Pro charging.",
+      "description": "The Anker 240W high-power charger delivers up to 140W from a single port for full-speed charging of Apple devices, and 240W across four ports for charging several devices at once. GaN technology and ActiveShield 2.0 temperature monitoring (up to 3 million daily checks) are built in.",
+      "keywords": "anker 240w gan charger desktop 4 port apple store",
+      "specs": {
+        "interface": "GaN desktop charger: 4 ports, 240W total, up to 140W single port",
+        "powerDeliveryW": 240
+      },
+      "image": {
+        "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/HRQG2?wid=1400&hei=1400&fmt=png-alpha",
+        "page": "https://www.apple.com/shop/product/hrqg2ll/a/anker-charger-240w-4-port",
+        "sourceType": "manufacturer-product-page",
+        "rights": "Official Apple Store product image (store.storeimages.cdn-apple.com); Apple / Anker has not granted a reuse license - rights not verified.",
+        "credit": "Anker",
+        "alt": "Anker Charger (240W, 4 Port), white desktop charger with four ports",
+        "match": "EXACT"
+      },
+      "collections": [
+        "developer-setup"
+      ],
+      "featured": false,
+      "sources": {
+        "product": "https://www.apple.com/shop/product/hrqg2ll/a/anker-charger-240w-4-port",
+        "retrievedAt": "2026-09-29"
+      },
+      "notes": "Sold on apple.com/us (Chargers & Adapters). For MacBook Pro, iPad, iPhone and AirPods (apple.com)."
+    },
+    {
+      "sku": "TK-ANKER-MAGGO-STAND-SPOTLIGHT",
+      "slug": "anker-maggo-wireless-charger-stand-with-spotlight",
+      "name": "Anker MagGo Wireless Charger (Stand with Spotlight)",
+      "brand": "Anker",
+      "category": "docks-adapters",
+      "price": "59.95",
+      "priceBasis": "msrp",
+      "priceSource": "https://www.apple.com/shop/product/hrwx2ll/a/anker-maggo-wireless-charger-stand-with-spotlight",
+      "priceAsOf": "2026-09-29",
+      "summary": "Anker MagGo Qi2 15W magnetic charging stand with a built-in adjustable ambient light; 40W adapter included.",
+      "description": "The Anker MagGo Wireless Charger (Stand with Spotlight) delivers up to 15W of Qi2-certified charging for iPhone and adds a built-in ambient light with touch control for brightness and colour temperature. The adjustable barrel supports landscape and portrait viewing up to 54 degrees. A USB-C cable and 40W USB-C PD charger are included.",
+      "keywords": "anker maggo stand qi2 light nightstand apple store",
+      "specs": {
+        "interface": "Qi2 15W magnetic stand with ambient light; USB-C",
+        "powerDeliveryW": 15
+      },
+      "image": {
+        "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/HRWX2?wid=1400&hei=1400&fmt=png-alpha",
+        "page": "https://www.apple.com/shop/product/hrwx2ll/a/anker-maggo-wireless-charger-stand-with-spotlight",
+        "sourceType": "manufacturer-product-page",
+        "rights": "Official Apple Store product image (store.storeimages.cdn-apple.com); Apple / Anker has not granted a reuse license - rights not verified.",
+        "credit": "Anker",
+        "alt": "Anker MagGo Wireless Charger (Stand with Spotlight), magnetic charging stand with ambient light",
+        "match": "EXACT"
+      },
+      "featured": false,
+      "sources": {
+        "product": "https://www.apple.com/shop/product/hrwx2ll/a/anker-maggo-wireless-charger-stand-with-spotlight",
+        "retrievedAt": "2026-09-29"
+      },
+      "notes": "Sold on apple.com/us (Chargers & Adapters). Works with MagSafe / Qi2 iPhone models from iPhone 12 onward (incl. iPhone 17 / 18 families and iPhone Air), per apple.com compatibility list."
+    },
+    {
+      "sku": "TK-ANKER-MAGGO-POWERBANK-5K-SLIM",
+      "slug": "anker-maggo-power-bank-5k-slim",
+      "name": "Anker MagGo Power Bank (5K, Slim)",
+      "brand": "Anker",
+      "category": "docks-adapters",
+      "price": "49.95",
+      "priceBasis": "msrp",
+      "priceSource": "https://www.apple.com/shop/product/hry02ll/a/anker-maggo-power-bank-5k-slim",
+      "priceAsOf": "2026-09-29",
+      "summary": "Slim 0.34-inch Anker MagGo 5K power bank with Qi2-certified 15W wireless charging and USB-C fast charging.",
+      "description": "At just 0.34 inches thick, the Anker MagGo Power Bank (5K, Slim) snaps onto iPhone and delivers up to 15W of Qi2-certified wireless charging. It supports USB-C fast charging and recharging and has a grip-enhancing finish. A 60 cm braided USB-C cable is included.",
+      "keywords": "anker maggo power bank slim qi2 5000mah apple store",
+      "specs": {
+        "interface": "Qi2 magnetic 5,000 mAh power bank, USB-C",
+        "powerDeliveryW": 15
+      },
+      "colors": [
+        "Blue",
+        "White"
+      ],
+      "colorImages": {
+        "Blue": {
+          "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/HRY02?wid=1400&hei=1400&fmt=png-alpha",
+          "page": "https://www.apple.com/shop/product/hry02ll/a/anker-maggo-power-bank-5k-slim",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Apple Store product image (store.storeimages.cdn-apple.com); Apple / Anker has not granted a reuse license - rights not verified.",
+          "credit": "Anker",
+          "alt": "Anker MagGo Power Bank (5K, Slim) in Blue",
+          "match": "EXACT"
+        },
+        "White": {
+          "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/HRWY2?wid=1400&hei=1400&fmt=png-alpha",
+          "page": "https://www.apple.com/shop/product/hry02ll/a/anker-maggo-power-bank-5k-slim",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Apple Store product image (store.storeimages.cdn-apple.com); Apple / Anker has not granted a reuse license - rights not verified.",
+          "credit": "Anker",
+          "alt": "Anker MagGo Power Bank (5K, Slim) in White",
+          "match": "EXACT"
+        }
+      },
+      "image": {
+        "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/HRY02?wid=1400&hei=1400&fmt=png-alpha",
+        "page": "https://www.apple.com/shop/product/hry02ll/a/anker-maggo-power-bank-5k-slim",
+        "sourceType": "manufacturer-product-page",
+        "rights": "Official Apple Store product image (store.storeimages.cdn-apple.com); Apple / Anker has not granted a reuse license - rights not verified.",
+        "credit": "Anker",
+        "alt": "Anker MagGo Power Bank (5K, Slim) in Blue",
+        "match": "EXACT"
+      },
+      "featured": false,
+      "sources": {
+        "product": "https://www.apple.com/shop/product/hry02ll/a/anker-maggo-power-bank-5k-slim",
+        "retrievedAt": "2026-09-29"
+      },
+      "notes": "Sold on apple.com/us (Chargers & Adapters). Works with MagSafe / Qi2 iPhone models from iPhone 12 onward (incl. iPhone 17 / 18 families and iPhone Air), per apple.com compatibility list."
+    },
+    {
+      "sku": "TK-TWELVESOUTH-POWERBUG-QI22",
+      "slug": "twelve-south-powerbug-qi2-2-charger",
+      "name": "Twelve South PowerBug Qi2.2 Charger",
+      "brand": "Twelve South",
+      "category": "docks-adapters",
+      "price": "49.95",
+      "priceBasis": "msrp",
+      "priceSource": "https://www.apple.com/shop/product/hsl32ll/a/twelve-south-powerbug-qi22-charger",
+      "priceAsOf": "2026-09-29",
+      "summary": "Wall-mounted Twelve South PowerBug with Qi2.2 25W magnetic charging for iPhone plus a 35W USB-C PD port.",
+      "description": "The Twelve South PowerBug Qi2.2 Charger plugs into the wall and magnetically holds a MagSafe or Qi2.2 iPhone for hands-free wireless charging in StandBy, FaceTime or streaming. A built-in USB-C PD port with up to 35W and PPS support powers a second device, and the US prongs fold flat for travel.",
+      "keywords": "twelve south powerbug qi2.2 wall charger magsafe apple store",
+      "specs": {
+        "interface": "Wall-plug Qi2.2 25W magnetic charger + USB-C PD port (35W)",
+        "powerDeliveryW": 25
+      },
+      "colors": [
+        "White",
+        "Black"
+      ],
+      "colorImages": {
+        "White": {
+          "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/HSL32?wid=1400&hei=1400&fmt=png-alpha",
+          "page": "https://www.apple.com/shop/product/hsl32ll/a/twelve-south-powerbug-qi22-charger",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Apple Store product image (store.storeimages.cdn-apple.com); Apple / Twelve South has not granted a reuse license - rights not verified.",
+          "credit": "Twelve South",
+          "alt": "Twelve South PowerBug Qi2.2 Charger in White",
+          "match": "EXACT"
+        },
+        "Black": {
+          "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/HSL22?wid=1400&hei=1400&fmt=png-alpha",
+          "page": "https://www.apple.com/shop/product/hsl32ll/a/twelve-south-powerbug-qi22-charger",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Apple Store product image (store.storeimages.cdn-apple.com); Apple / Twelve South has not granted a reuse license - rights not verified.",
+          "credit": "Twelve South",
+          "alt": "Twelve South PowerBug Qi2.2 Charger in Black",
+          "match": "EXACT"
+        }
+      },
+      "image": {
+        "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/HSL32?wid=1400&hei=1400&fmt=png-alpha",
+        "page": "https://www.apple.com/shop/product/hsl32ll/a/twelve-south-powerbug-qi22-charger",
+        "sourceType": "manufacturer-product-page",
+        "rights": "Official Apple Store product image (store.storeimages.cdn-apple.com); Apple / Twelve South has not granted a reuse license - rights not verified.",
+        "credit": "Twelve South",
+        "alt": "Twelve South PowerBug Qi2.2 Charger in White",
+        "match": "EXACT"
+      },
+      "featured": false,
+      "warranty": 24,
+      "sources": {
+        "product": "https://www.apple.com/shop/product/hsl32ll/a/twelve-south-powerbug-qi22-charger",
+        "retrievedAt": "2026-09-29"
+      },
+      "notes": "Sold on apple.com/us (Chargers & Adapters). Works with MagSafe / Qi2 iPhone models from iPhone 12 onward (incl. iPhone 17 / 18 families and iPhone Air), per apple.com compatibility list."
+    },
+    {
+      "sku": "TK-TWELVESOUTH-POWERCLIP",
+      "slug": "twelve-south-powerclip-power-bank-charger",
+      "name": "Twelve South PowerClip Power Bank & Charger",
+      "brand": "Twelve South",
+      "category": "docks-adapters",
+      "price": "39.95",
+      "priceBasis": "msrp",
+      "priceSource": "https://www.apple.com/shop/product/hskn2zm/a/twelve-south-powerclip-power-bank-charger",
+      "priceAsOf": "2026-09-29",
+      "summary": "Ultra-compact Twelve South keychain power bank with integrated USB-C cable, pass-through USB-C port and carabiner.",
+      "description": "The Twelve South PowerClip is a lightweight, ultra-compact power bank for everyday carry that clips to keys or bags with a zinc-alloy carabiner. Its integrated USB-C cable handles input and output, a second USB-C port enables pass-through charging, and Twelve South says it delivers up to a 25% boost to iPhone 17 and recharges fully in under two hours.",
+      "keywords": "twelve south powerclip keychain power bank usb-c apple store",
+      "specs": {
+        "interface": "Keychain power bank with integrated USB-C cable + USB-C pass-through port"
+      },
+      "colors": [
+        "Teal",
+        "Pink",
+        "White",
+        "Black"
+      ],
+      "colorImages": {
+        "Teal": {
+          "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/HSKN2?wid=1400&hei=1400&fmt=png-alpha",
+          "page": "https://www.apple.com/shop/product/hskn2zm/a/twelve-south-powerclip-power-bank-charger",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Apple Store product image (store.storeimages.cdn-apple.com); Apple / Twelve South has not granted a reuse license - rights not verified.",
+          "credit": "Twelve South",
+          "alt": "Twelve South PowerClip Power Bank & Charger in Teal with carabiner",
+          "match": "EXACT"
+        },
+        "Pink": {
+          "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/HSKM2?wid=1400&hei=1400&fmt=png-alpha",
+          "page": "https://www.apple.com/shop/product/hskn2zm/a/twelve-south-powerclip-power-bank-charger",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Apple Store product image (store.storeimages.cdn-apple.com); Apple / Twelve South has not granted a reuse license - rights not verified.",
+          "credit": "Twelve South",
+          "alt": "Twelve South PowerClip Power Bank & Charger in Pink with carabiner",
+          "match": "EXACT"
+        },
+        "White": {
+          "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/HSL52?wid=1400&hei=1400&fmt=png-alpha",
+          "page": "https://www.apple.com/shop/product/hskn2zm/a/twelve-south-powerclip-power-bank-charger",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Apple Store product image (store.storeimages.cdn-apple.com); Apple / Twelve South has not granted a reuse license - rights not verified.",
+          "credit": "Twelve South",
+          "alt": "Twelve South PowerClip Power Bank & Charger in White with carabiner",
+          "match": "EXACT"
+        },
+        "Black": {
+          "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/HSL42?wid=1400&hei=1400&fmt=png-alpha",
+          "page": "https://www.apple.com/shop/product/hskn2zm/a/twelve-south-powerclip-power-bank-charger",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Apple Store product image (store.storeimages.cdn-apple.com); Apple / Twelve South has not granted a reuse license - rights not verified.",
+          "credit": "Twelve South",
+          "alt": "Twelve South PowerClip Power Bank & Charger in Black with carabiner",
+          "match": "EXACT"
+        }
+      },
+      "image": {
+        "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/HSKN2?wid=1400&hei=1400&fmt=png-alpha",
+        "page": "https://www.apple.com/shop/product/hskn2zm/a/twelve-south-powerclip-power-bank-charger",
+        "sourceType": "manufacturer-product-page",
+        "rights": "Official Apple Store product image (store.storeimages.cdn-apple.com); Apple / Twelve South has not granted a reuse license - rights not verified.",
+        "credit": "Twelve South",
+        "alt": "Twelve South PowerClip Power Bank & Charger in Teal with carabiner",
+        "match": "EXACT"
+      },
+      "featured": false,
+      "warranty": 24,
+      "sources": {
+        "product": "https://www.apple.com/shop/product/hskn2zm/a/twelve-south-powerclip-power-bank-charger",
+        "retrievedAt": "2026-09-29"
+      },
+      "notes": "Sold on apple.com/us (Chargers & Adapters). For USB-C iPhone and other USB-C devices (apple.com)."
+    },
+    {
+      "sku": "TK-TWELVESOUTH-FORTE-MAGSAFE",
+      "slug": "twelve-south-forte-for-magsafe-charger",
+      "name": "Twelve South Forté for MagSafe Charger",
+      "brand": "Twelve South",
+      "category": "docks-adapters",
+      "price": "39.95",
+      "priceBasis": "msrp",
+      "priceSource": "https://www.apple.com/shop/product/hpkw2zm/b/twelve-south-fort%C3%A9-for-magsafe-charger",
+      "priceAsOf": "2026-09-29",
+      "summary": "Twelve South aluminium stand that turns an Apple MagSafe Charger into a floating iPhone charging stand, tilting up to 75°.",
+      "description": "Insert your Apple MagSafe Charger into Forté to create a floating iPhone charging stand that holds iPhone 12 or newer vertically or horizontally. The swivelling top tilts up to 75 degrees or lies flat as a charging pedestal for AirPods. White base with dove grey post; MagSafe Charger not included.",
+      "keywords": "twelve south forte magsafe charger stand apple store",
+      "specs": {
+        "interface": "Aluminium stand for Apple MagSafe Charger (charger not included)"
+      },
+      "image": {
+        "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/HPKW2?wid=1400&hei=1400&fmt=png-alpha",
+        "page": "https://www.apple.com/shop/product/hpkw2zm/b/twelve-south-fort%C3%A9-for-magsafe-charger",
+        "sourceType": "manufacturer-product-page",
+        "rights": "Official Apple Store product image (store.storeimages.cdn-apple.com); Apple / Twelve South has not granted a reuse license - rights not verified.",
+        "credit": "Twelve South",
+        "alt": "Twelve South Forte stand for MagSafe Charger, white base with grey aluminium post",
+        "match": "EXACT"
+      },
+      "featured": false,
+      "warranty": 12,
+      "sources": {
+        "product": "https://www.apple.com/shop/product/hpkw2zm/b/twelve-south-fort%C3%A9-for-magsafe-charger",
+        "retrievedAt": "2026-09-29"
+      },
+      "notes": "Sold on apple.com/us (Chargers & Adapters). Requires Apple MagSafe Charger (sold separately); for iPhone 12 or newer (apple.com)."
+    },
+    {
+      "sku": "TK-TWELVESOUTH-BUTTERFLY-SE",
+      "slug": "twelve-south-butterfly-se-2-in-1-qi2-2-travel-charger",
+      "name": "Twelve South ButterFly SE 2-in-1 USB-C Qi2.2 Travel Charger",
+      "brand": "Twelve South",
+      "category": "docks-adapters",
+      "price": "79.95",
+      "priceBasis": "msrp",
+      "priceSource": "https://www.apple.com/shop/product/hskl2zm/a/twelve-south-butterfly-se-2-in-1-usb-c-qi-22-travel-charger",
+      "priceAsOf": "2026-09-29",
+      "summary": "Ultra-compact folding Twelve South Qi2.2 charger for iPhone plus Apple Watch or AirPods; doubles as a StandBy stand.",
+      "description": "The ButterFly SE 2-in-1 is an ultra-compact Qi2.2 wireless charger for iPhone and Apple Watch (or AirPods) that folds to 2.4 inches wide with a magnetic closure. It works as a hands-free StandBy stand for iPhone or an elevated Nightstand Mode charger for Apple Watch. Includes a braided colour-matched USB-C cable; needs a 30W+ USB-C adapter (not included).",
+      "keywords": "twelve south butterfly se 2-in-1 travel charger qi2.2 apple store",
+      "specs": {
+        "interface": "Foldable Qi2.2 iPhone + Apple Watch/AirPods charger; USB-C input (30W+ adapter)"
+      },
+      "colors": [
+        "Pink",
+        "White",
+        "Green",
+        "Black"
+      ],
+      "colorImages": {
+        "Pink": {
+          "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/HSKK2?wid=1400&hei=1400&fmt=png-alpha",
+          "page": "https://www.apple.com/shop/product/hskl2zm/a/twelve-south-butterfly-se-2-in-1-usb-c-qi-22-travel-charger",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Apple Store product image (store.storeimages.cdn-apple.com); Apple / Twelve South has not granted a reuse license - rights not verified.",
+          "credit": "Twelve South",
+          "alt": "Twelve South ButterFly SE 2-in-1 Qi2.2 Travel Charger in Pink",
+          "match": "EXACT"
+        },
+        "White": {
+          "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/HSKY2?wid=1400&hei=1400&fmt=png-alpha",
+          "page": "https://www.apple.com/shop/product/hskl2zm/a/twelve-south-butterfly-se-2-in-1-usb-c-qi-22-travel-charger",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Apple Store product image (store.storeimages.cdn-apple.com); Apple / Twelve South has not granted a reuse license - rights not verified.",
+          "credit": "Twelve South",
+          "alt": "Twelve South ButterFly SE 2-in-1 Qi2.2 Travel Charger in White",
+          "match": "EXACT"
+        },
+        "Green": {
+          "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/HSKL2?wid=1400&hei=1400&fmt=png-alpha",
+          "page": "https://www.apple.com/shop/product/hskl2zm/a/twelve-south-butterfly-se-2-in-1-usb-c-qi-22-travel-charger",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Apple Store product image (store.storeimages.cdn-apple.com); Apple / Twelve South has not granted a reuse license - rights not verified.",
+          "credit": "Twelve South",
+          "alt": "Twelve South ButterFly SE 2-in-1 Qi2.2 Travel Charger in Green",
+          "match": "EXACT"
+        },
+        "Black": {
+          "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/HSKX2?wid=1400&hei=1400&fmt=png-alpha",
+          "page": "https://www.apple.com/shop/product/hskl2zm/a/twelve-south-butterfly-se-2-in-1-usb-c-qi-22-travel-charger",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Apple Store product image (store.storeimages.cdn-apple.com); Apple / Twelve South has not granted a reuse license - rights not verified.",
+          "credit": "Twelve South",
+          "alt": "Twelve South ButterFly SE 2-in-1 Qi2.2 Travel Charger in Black",
+          "match": "EXACT"
+        }
+      },
+      "image": {
+        "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/HSKK2?wid=1400&hei=1400&fmt=png-alpha",
+        "page": "https://www.apple.com/shop/product/hskl2zm/a/twelve-south-butterfly-se-2-in-1-usb-c-qi-22-travel-charger",
+        "sourceType": "manufacturer-product-page",
+        "rights": "Official Apple Store product image (store.storeimages.cdn-apple.com); Apple / Twelve South has not granted a reuse license - rights not verified.",
+        "credit": "Twelve South",
+        "alt": "Twelve South ButterFly SE 2-in-1 Qi2.2 Travel Charger in Pink",
+        "match": "EXACT"
+      },
+      "featured": false,
+      "warranty": 12,
+      "sources": {
+        "product": "https://www.apple.com/shop/product/hskl2zm/a/twelve-south-butterfly-se-2-in-1-usb-c-qi-22-travel-charger",
+        "retrievedAt": "2026-09-29"
+      },
+      "notes": "Sold on apple.com/us (Chargers & Adapters). Works with MagSafe / Qi2 iPhone models from iPhone 12 onward (incl. iPhone 17 / 18 families and iPhone Air), per apple.com compatibility list."
+    },
+    {
+      "sku": "TK-TWELVESOUTH-PLUGBUG-50W-FINDMY",
+      "slug": "twelve-south-plugbug-travel-50w-find-my",
+      "name": "Twelve South PlugBug Travel 50W with Find My",
+      "brand": "Twelve South",
+      "category": "docks-adapters",
+      "price": "79.95",
+      "priceBasis": "msrp",
+      "priceSource": "https://www.apple.com/shop/product/hrub2zm/a/twelve-south-plugbug-travel-50w-with-find-my",
+      "priceAsOf": "2026-09-29",
+      "summary": "Slim Twelve South 50W dual USB-C travel charger with built-in Apple Find My and six international plug adapters.",
+      "description": "Twelve South calls PlugBug the world's first charger with built-in Find My, so a lost charger can be located in the Find My app. It delivers 50W over two USB-C PD ports, enough to fast charge two iPhones or a MacBook Air, and lies flat against the wall. Adapters for US, UK, EU, AU, KR and CN plus a travel case are included.",
+      "keywords": "twelve south plugbug find my 50w travel charger apple store",
+      "specs": {
+        "interface": "Wall charger: 2x USB-C PD, 50W, built-in Find My",
+        "powerDeliveryW": 50
+      },
+      "image": {
+        "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/HRUB2?wid=1400&hei=1400&fmt=png-alpha",
+        "page": "https://www.apple.com/shop/product/hrub2zm/a/twelve-south-plugbug-travel-50w-with-find-my",
+        "sourceType": "manufacturer-product-page",
+        "rights": "Official Apple Store product image (store.storeimages.cdn-apple.com); Apple / Twelve South has not granted a reuse license - rights not verified.",
+        "credit": "Twelve South",
+        "alt": "Twelve South PlugBug Travel 50W with Find My, white charger with red accent",
+        "match": "EXACT"
+      },
+      "featured": true,
+      "warranty": 12,
+      "sources": {
+        "product": "https://www.apple.com/shop/product/hrub2zm/a/twelve-south-plugbug-travel-50w-with-find-my",
+        "retrievedAt": "2026-09-29"
+      },
+      "notes": "Sold on apple.com/us (Chargers & Adapters). Find My requires an Apple device; charges iPhone, iPad and MacBook Air (apple.com)."
+    },
+    {
+      "sku": "TK-SATECHI-MULTIPORT-PRO-V2",
+      "slug": "satechi-multiport-pro-adapter-v2",
+      "name": "Satechi Multiport Pro Adapter V2",
+      "brand": "Satechi",
+      "category": "docks-adapters",
+      "price": "69.95",
+      "priceBasis": "starting-at",
+      "priceSource": "https://www.apple.com/shop/product/hrdp2zm/a/satechi-multiport-pro-adapter-v2",
+      "priceAsOf": "2026-09-29",
+      "summary": "Compact aluminium Satechi USB-C adapter with 4K60 HDMI, 10 Gbps USB, SD/microSD readers and 100W PD pass-through; Ethernet version available.",
+      "description": "The Satechi Multiport Pro Adapter V2 adds 4K 60Hz HDMI, USB 3.2 Gen 2 ports at up to 10 Gbps, dual SD/microSD card slots (up to 104 MB/s) and USB-C Power Delivery pass-through up to 100W to a MacBook. It has a durable aluminium enclosure, braided cable and case-friendly connector. A version with 2.5 Gigabit Ethernet is also sold.",
+      "keywords": "satechi multiport adapter usb-c hdmi sd 100w apple store",
+      "specs": {
+        "interface": "USB-C multiport: HDMI 4K60, USB 3.2 Gen 2 (10 Gbps), SD/microSD, 100W PD pass-through",
+        "powerDeliveryW": 100
+      },
+      "variants": [
+        {
+          "label": "Standard",
+          "price": "69.95"
+        },
+        {
+          "label": "With 2.5 Gigabit Ethernet",
+          "price": "79.95"
+        }
+      ],
+      "image": {
+        "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/HRDP2?wid=1400&hei=1400&fmt=png-alpha",
+        "page": "https://www.apple.com/shop/product/hrdp2zm/a/satechi-multiport-pro-adapter-v2",
+        "sourceType": "manufacturer-product-page",
+        "rights": "Official Apple Store product image (store.storeimages.cdn-apple.com); Apple / Satechi has not granted a reuse license - rights not verified.",
+        "credit": "Satechi",
+        "alt": "Satechi Multiport Pro Adapter V2, space grey aluminium USB-C hub with braided cable",
+        "match": "EXACT"
+      },
+      "featured": false,
+      "warranty": 12,
+      "sources": {
+        "product": "https://www.apple.com/shop/product/hrdp2zm/a/satechi-multiport-pro-adapter-v2",
+        "retrievedAt": "2026-09-29"
+      },
+      "notes": "Sold on apple.com/us (Chargers & Adapters). For USB-C Mac and iPad (apple.com). Ethernet model adds 2.5GbE."
+    },
+    {
+      "sku": "TK-SATECHI-USBC-240W-20G-CABLE-1M",
+      "slug": "satechi-usb-c-to-usb-c-data-and-charge-cable-1m",
+      "name": "Satechi USB-C to USB-C Data and Charge Cable (1 m)",
+      "brand": "Satechi",
+      "category": "docks-adapters",
+      "price": "24.95",
+      "priceBasis": "msrp",
+      "priceSource": "https://www.apple.com/shop/product/hrge2zm/a/satechi-usb-c-to-usb-c-data-and-charge-cable-1m",
+      "priceAsOf": "2026-09-29",
+      "summary": "USB-IF certified 1 m Satechi USB-C cable with 240W EPR charging, 20 Gbps data and 4K 60Hz video.",
+      "description": "The Satechi USB-C to USB-C Data and Charge Cable delivers up to 240W charging using Extended Power Range, 20 Gbps data transfer and 4K 60Hz video output. It is USB-IF certified and has a braided cable, reinforced neck, aluminium connectors and a vegan-leather cable tie.",
+      "keywords": "satechi usb-c cable 240w 20gbps 4k apple store",
+      "specs": {
+        "interface": "USB-C to USB-C, 240W EPR, 20 Gbps, 4K60 video",
+        "powerDeliveryW": 240
+      },
+      "image": {
+        "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/HRGE2?wid=1400&hei=1400&fmt=png-alpha",
+        "page": "https://www.apple.com/shop/product/hrge2zm/a/satechi-usb-c-to-usb-c-data-and-charge-cable-1m",
+        "sourceType": "manufacturer-product-page",
+        "rights": "Official Apple Store product image (store.storeimages.cdn-apple.com); Apple / Satechi has not granted a reuse license - rights not verified.",
+        "credit": "Satechi",
+        "alt": "Satechi USB-C to USB-C Data and Charge Cable (1 m), braided cable with vegan leather tie",
+        "match": "EXACT"
+      },
+      "featured": false,
+      "warranty": 12,
+      "sources": {
+        "product": "https://www.apple.com/shop/product/hrge2zm/a/satechi-usb-c-to-usb-c-data-and-charge-cable-1m",
+        "retrievedAt": "2026-09-29"
+      },
+      "notes": "Sold on apple.com/us (Chargers & Adapters). Compatible with USB-C iPhone (iPhone 15 and later incl. iPhone 17 / 18 families, iPhone Air, iPhone Duo), USB-C iPad models and USB-C Mac, per apple.com compatibility list."
+    },
+    {
+      "sku": "TK-CALDIGIT-TB5-PRO-CABLE-05M",
+      "slug": "caldigit-thunderbolt-5-usb-c-pro-cable-0-5m",
+      "name": "CalDigit Thunderbolt 5 (USB-C) Pro Cable (0.5 m)",
+      "brand": "CalDigit",
+      "category": "docks-adapters",
+      "price": "29.95",
+      "priceBasis": "msrp",
+      "priceSource": "https://www.apple.com/shop/product/hs9d2zm/a/caldigit-thunderbolt-5-usb%E2%80%91c-pro-cable-05m",
+      "priceAsOf": "2026-09-29",
+      "summary": "White braided 0.5 m CalDigit Thunderbolt 5 cable with up to 120 Gb/s (Bandwidth Boost), DisplayPort 2.1 and 240W power.",
+      "description": "This 0.5-meter CalDigit cable supports Thunderbolt 5 and USB4 v2 at up to 120 Gb/s with Bandwidth Boost, USB4 at 80 Gb/s, DisplayPort 2.1 (UHBR20) video and up to 240W of power delivery. It is backward compatible with Thunderbolt 3/4 and USB devices, daisy-chains up to six Thunderbolt devices and has a braided design that coils without tangling.",
+      "keywords": "caldigit thunderbolt 5 cable 0.5m 120gbps 240w apple store",
+      "specs": {
+        "interface": "Thunderbolt 5 / USB4 v2 cable (0.5 m), 120 Gb/s boost, 240W",
+        "powerDeliveryW": 240
+      },
+      "image": {
+        "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/HS9D2?wid=1400&hei=1400&fmt=png-alpha",
+        "page": "https://www.apple.com/shop/product/hs9d2zm/a/caldigit-thunderbolt-5-usb%E2%80%91c-pro-cable-05m",
+        "sourceType": "manufacturer-product-page",
+        "rights": "Official Apple Store product image (store.storeimages.cdn-apple.com); Apple / CalDigit has not granted a reuse license - rights not verified.",
+        "credit": "CalDigit",
+        "alt": "CalDigit Thunderbolt 5 (USB-C) Pro Cable (0.5 m), white braided cable with Thunderbolt connectors",
+        "match": "EXACT"
+      },
+      "featured": false,
+      "warranty": 24,
+      "sources": {
+        "product": "https://www.apple.com/shop/product/hs9d2zm/a/caldigit-thunderbolt-5-usb%E2%80%91c-pro-cable-05m",
+        "retrievedAt": "2026-09-29"
+      },
+      "notes": "Sold on apple.com/us (Chargers & Adapters). Works with Thunderbolt 3/4/5 Macs, USB-C iPad and iPhone (apple.com)."
+    },
+    {
+      "sku": "TK-SCOSCHE-STRIKELINE-USBC-CABLE",
+      "slug": "scosche-strikeline-usb-c-to-usb-c-cable",
+      "name": "Scosche StrikeLine USB-C to USB-C Cable",
+      "brand": "Scosche",
+      "category": "docks-adapters",
+      "price": "19.95",
+      "priceBasis": "starting-at",
+      "priceSource": "https://www.apple.com/shop/product/hsjx2zm/a/scosche-strikeline-usb-c-to-usb-c-cable",
+      "priceAsOf": "2026-09-29",
+      "summary": "Soft-touch Scosche StrikeLine USB-C cable with 60W charging, USB 2.0 data and attached cable strap; 1 m or 2 m, blue or pink.",
+      "description": "The Scosche StrikeLine USB-C to USB-C cable charges and syncs devices with 60W USB 2.0 (480 Mbps) performance. The soft-touch cable includes an attached cable-management strap for travel and a tidy workspace. Sold in 1 m and 2 m lengths with a 3-year warranty.",
+      "keywords": "scosche strikeline usb-c cable 60w colors apple store",
+      "specs": {
+        "interface": "USB-C to USB-C cable, USB 2.0 (480 Mbps), 60W",
+        "powerDeliveryW": 60
+      },
+      "variants": [
+        {
+          "label": "1 m",
+          "price": "19.95"
+        },
+        {
+          "label": "2 m",
+          "price": "24.95"
+        }
+      ],
+      "colors": [
+        "Blue",
+        "Pink"
+      ],
+      "colorImages": {
+        "Blue": {
+          "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/HSJW2?wid=1400&hei=1400&fmt=png-alpha",
+          "page": "https://www.apple.com/shop/product/hsjx2zm/a/scosche-strikeline-usb-c-to-usb-c-cable",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Apple Store product image (store.storeimages.cdn-apple.com); Apple / Scosche has not granted a reuse license - rights not verified.",
+          "credit": "Scosche",
+          "alt": "Scosche StrikeLine USB-C to USB-C Cable (1 m) in Blue, coiled with strap",
+          "match": "EXACT"
+        },
+        "Pink": {
+          "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/HSJX2?wid=1400&hei=1400&fmt=png-alpha",
+          "page": "https://www.apple.com/shop/product/hsjx2zm/a/scosche-strikeline-usb-c-to-usb-c-cable",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Apple Store product image (store.storeimages.cdn-apple.com); Apple / Scosche has not granted a reuse license - rights not verified.",
+          "credit": "Scosche",
+          "alt": "Scosche StrikeLine USB-C to USB-C Cable (1 m) in Pink, coiled with strap",
+          "match": "EXACT"
+        }
+      },
+      "image": {
+        "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/HSJW2?wid=1400&hei=1400&fmt=png-alpha",
+        "page": "https://www.apple.com/shop/product/hsjx2zm/a/scosche-strikeline-usb-c-to-usb-c-cable",
+        "sourceType": "manufacturer-product-page",
+        "rights": "Official Apple Store product image (store.storeimages.cdn-apple.com); Apple / Scosche has not granted a reuse license - rights not verified.",
+        "credit": "Scosche",
+        "alt": "Scosche StrikeLine USB-C to USB-C Cable (1 m) in Blue, coiled with strap",
+        "match": "EXACT"
+      },
+      "featured": false,
+      "warranty": 36,
+      "sources": {
+        "product": "https://www.apple.com/shop/product/hsjx2zm/a/scosche-strikeline-usb-c-to-usb-c-cable",
+        "retrievedAt": "2026-09-29"
+      },
+      "notes": "Sold on apple.com/us (Chargers & Adapters). Compatible with USB-C iPhone (iPhone 15 and later incl. iPhone 17 / 18 families, iPhone Air, iPhone Duo), USB-C iPad models and USB-C Mac, per apple.com compatibility list."
+    },
+    {
+      "sku": "TK-NIMBLE-POWERKNIT-FLEX-3PACK",
+      "slug": "nimble-powerknit-flex-usb-c-cables-3-pack",
+      "name": "Nimble PowerKnit FLEX 1m / 2m / 3m USB-C to USB-C Cables",
+      "brand": "Nimble",
+      "category": "docks-adapters",
+      "price": "59.95",
+      "priceBasis": "msrp",
+      "priceSource": "https://www.apple.com/shop/product/hrhr2zm/a/nimble-powerknit-flex-1m-2m-3m-usb-c-to-usb-c-cables",
+      "priceAsOf": "2026-09-29",
+      "summary": "Three-pack of Nimble knit USB-C cables (1 m, 2 m, 3 m) rated for 240W charging, each with a cable strap.",
+      "description": "The Nimble PowerKnit FLEX 3-Pack includes 1 m, 2 m and 3 m USB-C to USB-C cables with an ultra-flexible knit design, up to 240W USB-C Power Delivery and USB 2.0 data at 480 Mbps. The USB-certified cables are durability-tested to over 30,000 bends, made from recycled materials and each come with a cable-management strap.",
+      "keywords": "nimble powerknit usb-c cable 240w 3 pack recycled apple store",
+      "specs": {
+        "interface": "3x USB-C to USB-C knit cables (1 m, 2 m, 3 m), 240W, USB 2.0",
+        "powerDeliveryW": 240
+      },
+      "image": {
+        "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/HRHR2?wid=1400&hei=1400&fmt=png-alpha",
+        "page": "https://www.apple.com/shop/product/hrhr2zm/a/nimble-powerknit-flex-1m-2m-3m-usb-c-to-usb-c-cables",
+        "sourceType": "manufacturer-product-page",
+        "rights": "Official Apple Store product image (store.storeimages.cdn-apple.com); Apple / Nimble has not granted a reuse license - rights not verified.",
+        "credit": "Nimble",
+        "alt": "Nimble PowerKnit FLEX USB-C cables 3-pack, three knit cables coiled with straps",
+        "match": "EXACT"
+      },
+      "featured": false,
+      "warranty": 24,
+      "sources": {
+        "product": "https://www.apple.com/shop/product/hrhr2zm/a/nimble-powerknit-flex-1m-2m-3m-usb-c-to-usb-c-cables",
+        "retrievedAt": "2026-09-29"
+      },
+      "notes": "Sold on apple.com/us (Chargers & Adapters). Compatible with USB-C iPhone (iPhone 15 and later incl. iPhone 17 / 18 families, iPhone Air, iPhone Duo), USB-C iPad models and USB-C Mac, per apple.com compatibility list."
+    },
+    {
+      "sku": "TK-NIMBLE-POWERKNIT-TRAVEL-KIT",
+      "slug": "nimble-powerknit-3-cable-travel-kit",
+      "name": "Nimble PowerKnit 3 Cable Travel Kit",
+      "brand": "Nimble",
+      "category": "docks-adapters",
+      "price": "39.95",
+      "priceBasis": "msrp",
+      "priceSource": "https://www.apple.com/shop/product/hrhp2zm/a/nimble-powerknit-3-cable-travel-kit",
+      "priceAsOf": "2026-09-29",
+      "summary": "Three 5-inch Nimble PowerKnit cables (USB-C, USB-A to USB-C, USB-C to Lightning) with up to 60W, in a handmade recycled travel case.",
+      "description": "The Nimble PowerKnit Travel Kit bundles three 13 cm (5 in) knit cables: USB-C to USB-C, USB-A to USB-C and USB-C to Lightning, with up to 60W PD fast charging. The cables are USB certified and bend-tested past 30,000 cycles, and the travel case is handmade from post-consumer materials in collaboration with Someone Somewhere.",
+      "keywords": "nimble travel kit short cables lightning usb-c usb-a apple store",
+      "specs": {
+        "interface": "5-inch cables: USB-C to USB-C, USB-A to USB-C, USB-C to Lightning; up to 60W",
+        "powerDeliveryW": 60
+      },
+      "image": {
+        "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/HRHP2?wid=1400&hei=1400&fmt=png-alpha",
+        "page": "https://www.apple.com/shop/product/hrhp2zm/a/nimble-powerknit-3-cable-travel-kit",
+        "sourceType": "manufacturer-product-page",
+        "rights": "Official Apple Store product image (store.storeimages.cdn-apple.com); Apple / Nimble has not granted a reuse license - rights not verified.",
+        "credit": "Nimble",
+        "alt": "Nimble PowerKnit 3 Cable Travel Kit, three short knit cables with travel case",
+        "match": "EXACT"
+      },
+      "featured": false,
+      "warranty": 24,
+      "sources": {
+        "product": "https://www.apple.com/shop/product/hrhp2zm/a/nimble-powerknit-3-cable-travel-kit",
+        "retrievedAt": "2026-09-29"
+      },
+      "notes": "Sold on apple.com/us (Chargers & Adapters). Covers USB-C and Lightning iPhone plus USB-A ports (apple.com)."
+    },
+    {
+      "sku": "TK-NIMBLE-WALLY-PRO-STRETCH-30W",
+      "slug": "nimble-wally-pro-stretch-30w-wall-charger",
+      "name": "Nimble Wally Pro Stretch 30W Wall Charger",
+      "brand": "Nimble",
+      "category": "docks-adapters",
+      "price": "64.95",
+      "priceBasis": "msrp",
+      "priceSource": "https://www.apple.com/shop/product/hs9r2zm/a/nimble-wally-pro-stretch-30w-wall-charger",
+      "priceAsOf": "2026-09-29",
+      "summary": "Nimble 3-in-1: 30W GaN wall charger, 5,000 mAh power bank and retractable USB-C cable, with a digital display.",
+      "description": "The Nimble Wally Pro Stretch is a 30W GaN dual USB-C PD wall charger with a built-in 5,000 mAh battery (20W output when portable) and a retractable USB-C cable up to 0.7 m, tested for 10,000+ extensions. Fold-away prongs, an integrated digital display and an extra USB-C port for a second device complete the design.",
+      "keywords": "nimble wally stretch 30w charger power bank retractable apple store",
+      "specs": {
+        "interface": "30W GaN wall charger + 5,000 mAh battery; retractable USB-C cable + USB-C port",
+        "powerDeliveryW": 30
+      },
+      "image": {
+        "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/HS9R2?wid=1400&hei=1400&fmt=png-alpha",
+        "page": "https://www.apple.com/shop/product/hs9r2zm/a/nimble-wally-pro-stretch-30w-wall-charger",
+        "sourceType": "manufacturer-product-page",
+        "rights": "Official Apple Store product image (store.storeimages.cdn-apple.com); Apple / Nimble has not granted a reuse license - rights not verified.",
+        "credit": "Nimble",
+        "alt": "Nimble Wally Pro Stretch 30W Wall Charger with retractable USB-C cable",
+        "match": "EXACT"
+      },
+      "featured": false,
+      "warranty": 24,
+      "sources": {
+        "product": "https://www.apple.com/shop/product/hs9r2zm/a/nimble-wally-pro-stretch-30w-wall-charger",
+        "retrievedAt": "2026-09-29"
+      },
+      "notes": "Sold on apple.com/us (Chargers & Adapters). For iPhone, AirPods and other USB-C devices (apple.com)."
+    },
+    {
+      "sku": "TK-NIMBLE-WALLY-STRETCH-65W",
+      "slug": "nimble-wally-stretch-65w-wall-charger",
+      "name": "Nimble Wally Stretch 65W Wall Charger",
+      "brand": "Nimble",
+      "category": "docks-adapters",
+      "price": "59.95",
+      "priceBasis": "msrp",
+      "priceSource": "https://www.apple.com/shop/product/hs4q2ll/a/nimble-wally-stretch-65w-wall-charger-white",
+      "priceAsOf": "2026-09-29",
+      "summary": "Nimble 65W GaN wall charger with a built-in retractable 60 cm USB-C cable, an extra USB-C port and folding prongs.",
+      "description": "The Nimble Wally Stretch 65W GaN wall charger has a built-in retractable USB-C cable that extends up to 60 cm plus an extra USB-C port. It is made from 100% recycled plastic, has folding prongs and is a carbon-neutral product. Sold on apple.com in White.",
+      "keywords": "nimble wally stretch 65w gan retractable cable apple store",
+      "specs": {
+        "interface": "65W GaN wall charger with retractable 60 cm USB-C cable + extra USB-C port",
+        "powerDeliveryW": 65
+      },
+      "image": {
+        "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/HS4Q2_GEO_US?wid=1400&hei=1400&fmt=png-alpha",
+        "page": "https://www.apple.com/shop/product/hs4q2ll/a/nimble-wally-stretch-65w-wall-charger-white",
+        "sourceType": "manufacturer-product-page",
+        "rights": "Official Apple Store product image (store.storeimages.cdn-apple.com); Apple / Nimble has not granted a reuse license - rights not verified.",
+        "credit": "Nimble",
+        "alt": "Nimble Wally Stretch 65W Wall Charger in white with retractable USB-C cable",
+        "match": "EXACT"
+      },
+      "featured": false,
+      "warranty": 24,
+      "sources": {
+        "product": "https://www.apple.com/shop/product/hs4q2ll/a/nimble-wally-stretch-65w-wall-charger-white",
+        "retrievedAt": "2026-09-29"
+      },
+      "notes": "Sold on apple.com/us (Chargers & Adapters). Powers MacBook Air, iPad and iPhone (apple.com)."
+    },
+    {
+      "sku": "TK-NIMBLE-SHAREPOWER",
+      "slug": "nimble-sharepower-portable-battery-charger",
+      "name": "Nimble SharePower Portable Battery Charger",
+      "brand": "Nimble",
+      "category": "docks-adapters",
+      "price": "79.95",
+      "priceBasis": "msrp",
+      "priceSource": "https://www.apple.com/shop/product/hsm52zm/a/nimble-sharepower-portable-battery-charger",
+      "priceAsOf": "2026-09-29",
+      "summary": "Nimble 10,000 mAh modular power bank that splits magnetically into two 5,000 mAh batteries; 35W total or 20W per module.",
+      "description": "Nimble SharePower is a 10,000 mAh portable charger that magnetically splits into two independent 5,000 mAh batteries, each with USB-C, so you can hand one to a friend. Stacked, it delivers 35W total to charge up to three devices; separated, each module delivers 20W USB-C PD. The primary module has a TFT display and foldaway USB-C connector.",
+      "keywords": "nimble sharepower modular power bank 10000mah apple store",
+      "specs": {
+        "interface": "10,000 mAh modular power bank (2x 5,000 mAh), USB-C PD",
+        "powerDeliveryW": 35
+      },
+      "colors": [
+        "Blue",
+        "Pink",
+        "White"
+      ],
+      "colorImages": {
+        "Blue": {
+          "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/HSM42?wid=1400&hei=1400&fmt=png-alpha",
+          "page": "https://www.apple.com/shop/product/hsm52zm/a/nimble-sharepower-portable-battery-charger",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Apple Store product image (store.storeimages.cdn-apple.com); Apple / Nimble has not granted a reuse license - rights not verified.",
+          "credit": "Nimble",
+          "alt": "Nimble SharePower Portable Battery Charger in Blue",
+          "match": "EXACT"
+        },
+        "Pink": {
+          "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/HSM52?wid=1400&hei=1400&fmt=png-alpha",
+          "page": "https://www.apple.com/shop/product/hsm52zm/a/nimble-sharepower-portable-battery-charger",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Apple Store product image (store.storeimages.cdn-apple.com); Apple / Nimble has not granted a reuse license - rights not verified.",
+          "credit": "Nimble",
+          "alt": "Nimble SharePower Portable Battery Charger in Pink",
+          "match": "EXACT"
+        },
+        "White": {
+          "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/HS9S2?wid=1400&hei=1400&fmt=png-alpha",
+          "page": "https://www.apple.com/shop/product/hsm52zm/a/nimble-sharepower-portable-battery-charger",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Apple Store product image (store.storeimages.cdn-apple.com); Apple / Nimble has not granted a reuse license - rights not verified.",
+          "credit": "Nimble",
+          "alt": "Nimble SharePower Portable Battery Charger in White",
+          "match": "EXACT"
+        }
+      },
+      "image": {
+        "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/HSM42?wid=1400&hei=1400&fmt=png-alpha",
+        "page": "https://www.apple.com/shop/product/hsm52zm/a/nimble-sharepower-portable-battery-charger",
+        "sourceType": "manufacturer-product-page",
+        "rights": "Official Apple Store product image (store.storeimages.cdn-apple.com); Apple / Nimble has not granted a reuse license - rights not verified.",
+        "credit": "Nimble",
+        "alt": "Nimble SharePower Portable Battery Charger in Blue",
+        "match": "EXACT"
+      },
+      "featured": false,
+      "warranty": 24,
+      "sources": {
+        "product": "https://www.apple.com/shop/product/hsm52zm/a/nimble-sharepower-portable-battery-charger",
+        "retrievedAt": "2026-09-29"
+      },
+      "notes": "Sold on apple.com/us (Chargers & Adapters). For USB-C iPhone and other USB-C devices (apple.com)."
+    },
+    {
+      "sku": "TK-NIMBLE-CHAMP-STRETCH-LCE",
+      "slug": "nimble-champ-stretch-liquid-crystal-edition",
+      "name": "Nimble Champ Stretch Liquid Crystal Edition Charger",
+      "brand": "Nimble",
+      "category": "docks-adapters",
+      "price": "79.95",
+      "priceBasis": "msrp",
+      "priceSource": "https://www.apple.com/shop/product/hsjt2zm/a/nimble-champ-stretch-liquid-crystal-edition-charger",
+      "priceAsOf": "2026-09-29",
+      "summary": "10,000 mAh Nimble power bank with 30W USB-C PD, retractable USB-C cable and translucent liquid-crystal case.",
+      "description": "The Nimble Champ Stretch Liquid Crystal Edition packs a 10,000 mAh battery with 30W USB-C PD fast charging, a built-in retractable USB-C cable (up to 0.7 m), an extra USB-C port and a digital TFT display. Its translucent, semi-rigid case has a liquid-like rippled finish; the exterior uses 100% certified post-consumer recycled plastic.",
+      "keywords": "nimble champ stretch power bank 10000mah 30w retractable apple store",
+      "specs": {
+        "interface": "10,000 mAh power bank, retractable USB-C cable + USB-C port, 30W",
+        "powerDeliveryW": 30
+      },
+      "image": {
+        "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/HSJT2?wid=1400&hei=1400&fmt=png-alpha",
+        "page": "https://www.apple.com/shop/product/hsjt2zm/a/nimble-champ-stretch-liquid-crystal-edition-charger",
+        "sourceType": "manufacturer-product-page",
+        "rights": "Official Apple Store product image (store.storeimages.cdn-apple.com); Apple / Nimble has not granted a reuse license - rights not verified.",
+        "credit": "Nimble",
+        "alt": "Nimble Champ Stretch Liquid Crystal Edition 10K power bank in translucent case",
+        "match": "EXACT"
+      },
+      "featured": false,
+      "warranty": 24,
+      "sources": {
+        "product": "https://www.apple.com/shop/product/hsjt2zm/a/nimble-champ-stretch-liquid-crystal-edition-charger",
+        "retrievedAt": "2026-09-29"
+      },
+      "notes": "Sold on apple.com/us (Chargers & Adapters). For iPhone, iPad and USB-C devices (apple.com)."
+    },
+    {
+      "sku": "TK-NIMBLE-CHAMP-10K-WIRELESS",
+      "slug": "nimble-champ-10k-wireless-portable-charger",
+      "name": "Nimble Champ 10k Wireless Portable Charger",
+      "brand": "Nimble",
+      "category": "docks-adapters",
+      "price": "69.95",
+      "priceBasis": "msrp",
+      "priceSource": "https://www.apple.com/shop/product/hs2a2zm/a/nimble-champ-10k-wireless-portable-charger",
+      "priceAsOf": "2026-09-29",
+      "summary": "Qi2-certified 10,000 mAh Nimble magnetic power bank with 15W wireless, 20W USB-C and a recycled-aluminium kickstand.",
+      "description": "The Nimble Champ 10k Wireless delivers 15W Qi2-certified magnetic wireless charging and a 20W USB-C input/output port from a 10,000 mAh battery. It has an adjustable kickstand for portrait or landscape viewing, LED power indicators, and is made from recycled plastic and aluminium.",
+      "keywords": "nimble champ 10k wireless qi2 power bank kickstand apple store",
+      "specs": {
+        "interface": "Qi2 magnetic 10,000 mAh power bank with kickstand + 20W USB-C",
+        "powerDeliveryW": 20
+      },
+      "image": {
+        "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/HS2A2?wid=1400&hei=1400&fmt=png-alpha",
+        "page": "https://www.apple.com/shop/product/hs2a2zm/a/nimble-champ-10k-wireless-portable-charger",
+        "sourceType": "manufacturer-product-page",
+        "rights": "Official Apple Store product image (store.storeimages.cdn-apple.com); Apple / Nimble has not granted a reuse license - rights not verified.",
+        "credit": "Nimble",
+        "alt": "Nimble Champ 10k Wireless Portable Charger with kickstand",
+        "match": "EXACT"
+      },
+      "featured": false,
+      "warranty": 24,
+      "sources": {
+        "product": "https://www.apple.com/shop/product/hs2a2zm/a/nimble-champ-10k-wireless-portable-charger",
+        "retrievedAt": "2026-09-29"
+      },
+      "notes": "Sold on apple.com/us (Chargers & Adapters). Works with MagSafe / Qi2 iPhone models from iPhone 12 onward (incl. iPhone 17 / 18 families and iPhone Air), per apple.com compatibility list."
+    },
+    {
+      "sku": "TK-ZENS-USBC-CABLE-PRO-2",
+      "slug": "zens-usb-c-to-usb-c-charging-cable-pro-2",
+      "name": "Zens USB-C to USB-C Charging Cable Pro 2",
+      "brand": "Zens",
+      "category": "docks-adapters",
+      "price": "49.95",
+      "priceBasis": "msrp",
+      "priceSource": "https://www.apple.com/shop/product/hsb62zm/a/zens-usb-c-to-usb-c-charging-cable-pro-2",
+      "priceAsOf": "2026-09-29",
+      "summary": "2-in-1 Zens cable that powers a USB-C laptop or tablet (140W, 240W-ready) while wirelessly charging iPhone or AirPods via Qi2 15W.",
+      "description": "The Zens Charging Cable Pro 2 is a 1.5 m USB-C to USB-C cable with a built-in Qi2-certified magnetic charger, so it powers a MacBook, iPad or second iPhone while wirelessly charging an iPhone or AirPods at 15W. It supports 140W wired output today and is 240W-ready, with a compact aluminium design.",
+      "keywords": "zens usb-c cable wireless charger qi2 2-in-1 apple store",
+      "specs": {
+        "interface": "USB-C to USB-C cable with integrated Qi2 15W magnetic charger (140W wired)",
+        "powerDeliveryW": 140
+      },
+      "colors": [
+        "White",
+        "Dark Cherry"
+      ],
+      "colorImages": {
+        "White": {
+          "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/HSB62?wid=1400&hei=1400&fmt=png-alpha",
+          "page": "https://www.apple.com/shop/product/hsb62zm/a/zens-usb-c-to-usb-c-charging-cable-pro-2",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Apple Store product image (store.storeimages.cdn-apple.com); Apple / Zens has not granted a reuse license - rights not verified.",
+          "credit": "Zens",
+          "alt": "Zens USB-C to USB-C Charging Cable Pro 2 in White with integrated wireless charger",
+          "match": "EXACT"
+        },
+        "Dark Cherry": {
+          "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/HSB32?wid=1400&hei=1400&fmt=png-alpha",
+          "page": "https://www.apple.com/shop/product/hsb62zm/a/zens-usb-c-to-usb-c-charging-cable-pro-2",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Apple Store product image (store.storeimages.cdn-apple.com); Apple / Zens has not granted a reuse license - rights not verified.",
+          "credit": "Zens",
+          "alt": "Zens USB-C to USB-C Charging Cable Pro 2 in Dark Cherry with integrated wireless charger",
+          "match": "EXACT"
+        }
+      },
+      "image": {
+        "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/HSB62?wid=1400&hei=1400&fmt=png-alpha",
+        "page": "https://www.apple.com/shop/product/hsb62zm/a/zens-usb-c-to-usb-c-charging-cable-pro-2",
+        "sourceType": "manufacturer-product-page",
+        "rights": "Official Apple Store product image (store.storeimages.cdn-apple.com); Apple / Zens has not granted a reuse license - rights not verified.",
+        "credit": "Zens",
+        "alt": "Zens USB-C to USB-C Charging Cable Pro 2 in White with integrated wireless charger",
+        "match": "EXACT"
+      },
+      "featured": false,
+      "warranty": 24,
+      "sources": {
+        "product": "https://www.apple.com/shop/product/hsb62zm/a/zens-usb-c-to-usb-c-charging-cable-pro-2",
+        "retrievedAt": "2026-09-29"
+      },
+      "notes": "Sold on apple.com/us (Chargers & Adapters). Works with MagSafe / Qi2 iPhone models from iPhone 12 onward (incl. iPhone 17 / 18 families and iPhone Air), per apple.com compatibility list."
+    },
+    {
+      "sku": "TK-ZENS-USBC-CABLE-PRO-3",
+      "slug": "zens-usb-c-to-usb-c-charging-cable-pro-3",
+      "name": "Zens USB-C to USB-C Charging Cable Pro 3",
+      "brand": "Zens",
+      "category": "docks-adapters",
+      "price": "99.95",
+      "priceBasis": "msrp",
+      "priceSource": "https://www.apple.com/shop/product/hsb82zm/a/zens-usb-c-to-usb-c-charging-cable-pro-3",
+      "priceAsOf": "2026-09-29",
+      "summary": "3-in-1 Zens foldable cable: 140W USB-C (240W-ready) plus Qi2 15W iPhone/AirPods and 5W Apple Watch wireless charging.",
+      "description": "The Zens Charging Cable Pro 3 powers a laptop or USB-C device while wirelessly charging iPhone, AirPods and Apple Watch at once. It is Qi2 certified with 15W for iPhone or AirPods and 5W for Apple Watch, supports 140W wired (240W-ready), and has a foldable aluminium design for travel. Length 1.5 m.",
+      "keywords": "zens 3-in-1 cable apple watch qi2 travel apple store",
+      "specs": {
+        "interface": "USB-C cable with Qi2 15W iPhone charger + 5W Apple Watch charger (140W wired)",
+        "powerDeliveryW": 140
+      },
+      "colors": [
+        "White",
+        "Dark Cherry"
+      ],
+      "colorImages": {
+        "White": {
+          "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/HSB82?wid=1400&hei=1400&fmt=png-alpha",
+          "page": "https://www.apple.com/shop/product/hsb82zm/a/zens-usb-c-to-usb-c-charging-cable-pro-3",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Apple Store product image (store.storeimages.cdn-apple.com); Apple / Zens has not granted a reuse license - rights not verified.",
+          "credit": "Zens",
+          "alt": "Zens USB-C to USB-C Charging Cable Pro 3 in White with iPhone and Apple Watch chargers",
+          "match": "EXACT"
+        },
+        "Dark Cherry": {
+          "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/HSB72?wid=1400&hei=1400&fmt=png-alpha",
+          "page": "https://www.apple.com/shop/product/hsb82zm/a/zens-usb-c-to-usb-c-charging-cable-pro-3",
+          "sourceType": "manufacturer-product-page",
+          "rights": "Official Apple Store product image (store.storeimages.cdn-apple.com); Apple / Zens has not granted a reuse license - rights not verified.",
+          "credit": "Zens",
+          "alt": "Zens USB-C to USB-C Charging Cable Pro 3 in Dark Cherry with iPhone and Apple Watch chargers",
+          "match": "EXACT"
+        }
+      },
+      "image": {
+        "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/HSB82?wid=1400&hei=1400&fmt=png-alpha",
+        "page": "https://www.apple.com/shop/product/hsb82zm/a/zens-usb-c-to-usb-c-charging-cable-pro-3",
+        "sourceType": "manufacturer-product-page",
+        "rights": "Official Apple Store product image (store.storeimages.cdn-apple.com); Apple / Zens has not granted a reuse license - rights not verified.",
+        "credit": "Zens",
+        "alt": "Zens USB-C to USB-C Charging Cable Pro 3 in White with iPhone and Apple Watch chargers",
+        "match": "EXACT"
+      },
+      "featured": false,
+      "warranty": 24,
+      "sources": {
+        "product": "https://www.apple.com/shop/product/hsb82zm/a/zens-usb-c-to-usb-c-charging-cable-pro-3",
+        "retrievedAt": "2026-09-29"
+      },
+      "notes": "Sold on apple.com/us (Chargers & Adapters). Works with MagSafe / Qi2 iPhone models from iPhone 12 onward (incl. iPhone 17 / 18 families and iPhone Air), per apple.com compatibility list. Also charges Apple Watch."
+    },
+    {
+      "sku": "TK-ZENS-MAGNETIC-NIGHTSTAND",
+      "slug": "zens-magnetic-nightstand-charger",
+      "name": "Zens Magnetic Nightstand Charger",
+      "brand": "Zens",
+      "category": "docks-adapters",
+      "price": "49.95",
+      "priceBasis": "msrp",
+      "priceSource": "https://www.apple.com/shop/product/hsba2zm/a/zens-magnetic-nightstand-charger",
+      "priceAsOf": "2026-09-29",
+      "summary": "Zinc-alloy Zens Qi2 magnetic nightstand charger with 15W charging, portrait/landscape use and StandBy support.",
+      "description": "The Zens Magnetic Nightstand Charger charges any MagSafe-compatible iPhone, or AirPods with a magnetic case, at up to 15W with Qi2. Its convertible magnetic design supports portrait and landscape charging and StandBy mode. It is made from zinc alloy and USB-C powered; a power adapter is included.",
+      "keywords": "zens nightstand charger qi2 magsafe standby apple store",
+      "specs": {
+        "interface": "Qi2 15W magnetic stand, zinc alloy; USB-C powered",
+        "powerDeliveryW": 15
+      },
+      "image": {
+        "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/HSBA2?wid=1400&hei=1400&fmt=png-alpha",
+        "page": "https://www.apple.com/shop/product/hsba2zm/a/zens-magnetic-nightstand-charger",
+        "sourceType": "manufacturer-product-page",
+        "rights": "Official Apple Store product image (store.storeimages.cdn-apple.com); Apple / Zens has not granted a reuse license - rights not verified.",
+        "credit": "Zens",
+        "alt": "Zens Magnetic Nightstand Charger, zinc-alloy magnetic charging stand",
+        "match": "EXACT"
+      },
+      "featured": false,
+      "warranty": 24,
+      "sources": {
+        "product": "https://www.apple.com/shop/product/hsba2zm/a/zens-magnetic-nightstand-charger",
+        "retrievedAt": "2026-09-29"
+      },
+      "notes": "Sold on apple.com/us (Chargers & Adapters). Works with MagSafe / Qi2 iPhone models from iPhone 12 onward (incl. iPhone 17 / 18 families and iPhone Air), per apple.com compatibility list."
+    },
+    {
+      "sku": "TK-ZENS-QUATTRO-PRO-4",
+      "slug": "zens-quattro-wireless-charger-pro-4",
+      "name": "Zens Quattro Wireless Charger Pro 4",
+      "brand": "Zens",
+      "category": "docks-adapters",
+      "price": "149.95",
+      "priceBasis": "msrp",
+      "priceSource": "https://www.apple.com/shop/product/hrw92zm/a/zens-quattro-wireless-charger-pro-4",
+      "priceAsOf": "2026-09-29",
+      "summary": "Aluminium Zens Qi2 station that charges four devices at 15W each; 65W adapter with US/EU/UK/ANZ plugs included.",
+      "description": "The Zens Quattro Charger Pro 4 charges up to four devices at once with 4x 15W Qi2-certified magnetic wireless output, reaching up to 35% per phone in 30 minutes according to Zens. It is made from aluminium and ships with a 65W power adapter and US, EU, UK and ANZ plugs.",
+      "keywords": "zens quattro 4 device wireless charger qi2 family apple store",
+      "specs": {
+        "interface": "4x Qi2 15W magnetic wireless charger; 65W adapter",
+        "powerDeliveryW": 15
+      },
+      "image": {
+        "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/HRW92?wid=1400&hei=1400&fmt=png-alpha",
+        "page": "https://www.apple.com/shop/product/hrw92zm/a/zens-quattro-wireless-charger-pro-4",
+        "sourceType": "manufacturer-product-page",
+        "rights": "Official Apple Store product image (store.storeimages.cdn-apple.com); Apple / Zens has not granted a reuse license - rights not verified.",
+        "credit": "Zens",
+        "alt": "Zens Quattro Wireless Charger Pro 4, aluminium stand with four magnetic charging pads",
+        "match": "EXACT"
+      },
+      "featured": false,
+      "warranty": 36,
+      "sources": {
+        "product": "https://www.apple.com/shop/product/hrw92zm/a/zens-quattro-wireless-charger-pro-4",
+        "retrievedAt": "2026-09-29"
+      },
+      "notes": "Sold on apple.com/us (Chargers & Adapters). Works with MagSafe / Qi2 iPhone models from iPhone 12 onward (incl. iPhone 17 / 18 families and iPhone Air), per apple.com compatibility list."
+    },
+    {
+      "sku": "TK-NATIVEUNION-BELT-CABLE-DUO",
+      "slug": "native-union-belt-cable-duo-usb-c-lightning",
+      "name": "Native Union Belt Cable Duo USB-C to Lightning and USB-C Cable",
+      "brand": "Native Union",
+      "category": "docks-adapters",
+      "price": "39.95",
+      "priceBasis": "msrp",
+      "priceSource": "https://www.apple.com/shop/product/hq6b2zm/a/native-union-belt-cable-duo-usb-c-to-lightning-and-usb-c-cable",
+      "priceAsOf": "2026-09-29",
+      "summary": "1.5 m braided Native Union 2-in-1 cable with USB-C and Lightning tips, 60W PD and a recycled leather strap.",
+      "description": "Belt Cable Duo is a braided 2-in-1 cable with a USB-C plug and both Lightning and USB-C connectors, supporting Power Delivery up to 60W for USB-C laptops and up to 50% iPhone charge in under 30 minutes. It uses recycled PET braiding and TPU housing with a 75% recycled bonded-leather strap. Length 1.5 m.",
+      "keywords": "native union belt cable duo lightning usb-c 2-in-1 apple store",
+      "specs": {
+        "interface": "2-in-1 cable: USB-C to Lightning + USB-C, 60W PD",
+        "powerDeliveryW": 60
+      },
+      "image": {
+        "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/HQ6B2?wid=1400&hei=1400&fmt=png-alpha",
+        "page": "https://www.apple.com/shop/product/hq6b2zm/a/native-union-belt-cable-duo-usb-c-to-lightning-and-usb-c-cable",
+        "sourceType": "manufacturer-product-page",
+        "rights": "Official Apple Store product image (store.storeimages.cdn-apple.com); Apple / Native Union has not granted a reuse license - rights not verified.",
+        "credit": "Native Union",
+        "alt": "Native Union Belt Cable Duo, braided 2-in-1 USB-C and Lightning cable with leather strap",
+        "match": "EXACT"
+      },
+      "featured": false,
+      "sources": {
+        "product": "https://www.apple.com/shop/product/hq6b2zm/a/native-union-belt-cable-duo-usb-c-to-lightning-and-usb-c-cable",
+        "retrievedAt": "2026-09-29"
+      },
+      "notes": "Sold on apple.com/us (Chargers & Adapters). Charges both Lightning and USB-C iPhone / iPad plus USB-C laptops (apple.com)."
+    },
+    {
+      "sku": "TK-NATIVEUNION-BELT-DUO-PRO-240W",
+      "slug": "native-union-belt-cable-duo-pro-240w",
+      "name": "Native Union Belt Cable Duo Pro 240W (USB-C to USB-C and Lightning)",
+      "brand": "Native Union",
+      "category": "docks-adapters",
+      "price": "49.95",
+      "priceBasis": "msrp",
+      "priceSource": "https://www.apple.com/shop/product/hrjs2zm/a/native-union-belt-cable-duo-pro-240w-usb-c-to-usb-c-and-lightning",
+      "priceAsOf": "2026-09-29",
+      "summary": "2.4 m Native Union 2-in-1 cable with USB-C and Lightning tips, USB PD 3.1 up to 240W and Slide Lock connector switch.",
+      "description": "Belt Cable Duo Pro is an MFi-certified 2-in-1 cable with USB-C and Lightning connectors and USB Power Delivery 3.1 up to 240W for power-hungry laptops. It is 8 ft (2.4 m) long with reinforced braiding over an aramid fibre core, patented Slide Lock connector switching, and a strap made from plant-based Yatay leather alternative.",
+      "keywords": "native union belt cable duo pro 240w lightning usb-c apple store",
+      "specs": {
+        "interface": "2-in-1 cable: USB-C to USB-C (240W PD 3.1) + Lightning, 2.4 m, MFi",
+        "powerDeliveryW": 240
+      },
+      "image": {
+        "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/HRJS2?wid=1400&hei=1400&fmt=png-alpha",
+        "page": "https://www.apple.com/shop/product/hrjs2zm/a/native-union-belt-cable-duo-pro-240w-usb-c-to-usb-c-and-lightning",
+        "sourceType": "manufacturer-product-page",
+        "rights": "Official Apple Store product image (store.storeimages.cdn-apple.com); Apple / Native Union has not granted a reuse license - rights not verified.",
+        "credit": "Native Union",
+        "alt": "Native Union Belt Cable Duo Pro 240W, braided cable with USB-C and Lightning tips and strap",
+        "match": "EXACT"
+      },
+      "featured": false,
+      "sources": {
+        "product": "https://www.apple.com/shop/product/hrjs2zm/a/native-union-belt-cable-duo-pro-240w-usb-c-to-usb-c-and-lightning",
+        "retrievedAt": "2026-09-29"
+      },
+      "notes": "Sold on apple.com/us (Chargers & Adapters). Charges Lightning and USB-C iPhone, MacBook and other USB-C devices (apple.com)."
+    }
+  ]
+}
