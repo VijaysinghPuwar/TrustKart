@@ -1,0 +1,2101 @@
+{
+ "products": [
+  {
+   "sku": "TK-MOTOROLA-RAZR-FOLD",
+   "slug": "motorola-razr-fold",
+   "name": "Motorola razr fold",
+   "brand": "Motorola",
+   "category": "foldables",
+   "price": "1899.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    10,
+    5
+   ],
+   "featured": true,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [],
+   "summary": "Motorola's book-style foldable with an 8.1-inch 2K main display, 6.6-inch cover screen, Snapdragon 8 Gen 5 and a triple 50 MP camera with 3x periscope telephoto.",
+   "description": "The razr fold opens to an 8.1-inch 2484 x 2232 LTPO pOLED display and has a 6.6-inch 165 Hz cover screen protected by Corning Gorilla Glass Ceramic 3. It runs a Snapdragon 8 Gen 5 with 16 GB RAM and 512 GB UFS 4.1 storage, carries a 6,000 mAh silicon-carbon battery with 80 W wired and 50 W wireless charging, and is rated IP49.",
+   "keywords": "razr fold foldable book fold motorola snapdragon 8 gen 5 periscope 2026",
+   "specs": {
+    "chip": "Snapdragon 8 Gen 5",
+    "storageGb": 512,
+    "ramGb": 16,
+    "displayIn": 8.1,
+    "display": "8.1-inch 2484 x 2232 (2K) LTPO pOLED main display",
+    "coverDisplay": "6.6-inch 2520 x 1080 LTPO pOLED, 165 Hz, up to 6,000 nits peak, Gorilla Glass Ceramic 3",
+    "rearCamera": "50 MP wide (f/1.6, OIS) + 50 MP ultrawide/macro (f/2.0) + 50 MP 3x periscope telephoto (f/2.4)",
+    "frontCamera": "20 MP cover camera + 32 MP inner camera",
+    "battery": "6,000 mAh silicon-carbon",
+    "charging": "80 W wired, 50 W wireless, 5 W reverse",
+    "connectivity": "5G, Wi-Fi 7",
+    "durability": "IP49",
+    "os": "Android 16",
+    "weightG": 243,
+    "dimensions": "Closed 160.05 x 73.6 x 10.04 mm; open 144.47 x 160.05 x 4.7 mm",
+    "configurations": "512 GB / 16 GB RAM, Unlocked – $1,899.99",
+    "colors": "Blackened Blue, Lily White"
+   },
+   "options": [
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Blackened Blue",
+       "default": true,
+       "image": {
+        "small": "/images/catalog/motorola-razr-fold--blackened-blue-400.webp",
+        "large": "/images/catalog/motorola-razr-fold--blackened-blue-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Motorola razr fold in Blackened Blue, unfolded front with rear camera view, official Motorola product render"
+       }
+      },
+      {
+       "label": "Lily White",
+       "image": {
+        "small": "/images/catalog/motorola-razr-fold--lily-white-400.webp",
+        "large": "/images/catalog/motorola-razr-fold--lily-white-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Motorola razr fold in Lily White, unfolded front with rear camera view, official Motorola product render"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "sku": "TK-MOTOROLA-RAZR-ULTRA-2026",
+   "slug": "motorola-razr-ultra-2026",
+   "name": "Motorola razr ultra 2026",
+   "brand": "Motorola",
+   "category": "foldables",
+   "price": "1499.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    46,
+    5
+   ],
+   "featured": true,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [],
+   "summary": "Motorola's top flip phone for 2026 with a 7-inch 165 Hz main display, 4-inch cover screen, Snapdragon 8 Elite, 16 GB RAM and 512 GB storage.",
+   "description": "The razr ultra 2026 pairs a 7.0-inch 1.5K Extreme AMOLED main display (up to 5,000 nits) with a 4.0-inch 165 Hz cover display under Gorilla Glass Ceramic 3. It uses the Snapdragon 8 Elite, a 50 MP LOFIC main camera with OIS plus a 50 MP ultrawide, and a 5,000 mAh silicon-carbon battery with 68 W wired and 30 W wireless charging.",
+   "keywords": "razr ultra 2026 flip phone foldable snapdragon 8 elite motorola",
+   "specs": {
+    "chip": "Snapdragon 8 Elite",
+    "storageGb": 512,
+    "ramGb": 16,
+    "displayIn": 7.0,
+    "display": "7.0-inch 2992 x 1224 (1.5K) Extreme AMOLED, 165 Hz, up to 5,000 nits peak",
+    "coverDisplay": "4.0-inch 1272 x 1080 Extreme AMOLED, 165 Hz, up to 3,000 nits peak, Gorilla Glass Ceramic 3",
+    "rearCamera": "50 MP wide with LOFIC sensor (f/1.8, OIS) + 50 MP ultrawide (f/2.0)",
+    "frontCamera": "50 MP (f/2.0)",
+    "battery": "5,000 mAh silicon-carbon",
+    "charging": "68 W wired, 30 W wireless, 5 W reverse",
+    "connectivity": "5G, Wi-Fi 7",
+    "durability": "IP48",
+    "os": "Android 16",
+    "weightG": 199,
+    "dimensions": "Open 171.48 x 73.99 x 7.19 mm; closed 88.12 x 73.99 x 15.69 mm",
+    "configurations": "512 GB / 16 GB RAM, Unlocked – $1,499.99",
+    "colors": "Orient Blue, Cocoa"
+   },
+   "options": [
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Orient Blue",
+       "default": true,
+       "image": {
+        "small": "/images/catalog/motorola-razr-ultra-2026--orient-blue-400.webp",
+        "large": "/images/catalog/motorola-razr-ultra-2026--orient-blue-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Motorola razr ultra 2026 in Orient Blue, closed, rear cover-screen view, official Motorola product render"
+       }
+      },
+      {
+       "label": "Cocoa",
+       "image": {
+        "small": "/images/catalog/motorola-razr-ultra-2026--cocoa-400.webp",
+        "large": "/images/catalog/motorola-razr-ultra-2026--cocoa-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Motorola razr ultra 2026 in Cocoa, closed, rear cover-screen view, official Motorola product render"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "sku": "TK-MOTOROLA-RAZR-PLUS-2026",
+   "slug": "motorola-razr-plus-2026",
+   "name": "Motorola razr+ 2026",
+   "brand": "Motorola",
+   "category": "foldables",
+   "price": "1099.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    14,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [],
+   "summary": "Flip phone with a 6.9-inch 165 Hz main display, 4-inch cover screen, Snapdragon 8s Gen 3, 12 GB RAM and dual 50 MP cameras.",
+   "description": "The razr+ 2026 has a 6.9-inch LTPO Extreme AMOLED main display and a 4.0-inch 165 Hz cover display protected by Gorilla Glass Victus. It runs a Snapdragon 8s Gen 3 with 12 GB RAM and 256 GB storage, has 50 MP wide and ultrawide rear cameras, and a 4,500 mAh battery with 45 W wired and 15 W wireless charging.",
+   "keywords": "razr plus razr+ 2026 flip phone foldable motorola",
+   "specs": {
+    "chip": "Snapdragon 8s Gen 3",
+    "storageGb": 256,
+    "ramGb": 12,
+    "displayIn": 6.9,
+    "display": "6.9-inch 2640 x 1084 FHD+ LTPO Extreme AMOLED, 165 Hz, up to 3,000 nits peak",
+    "coverDisplay": "4.0-inch 1272 x 1080 LTPS Extreme AMOLED, 165 Hz, Gorilla Glass Victus",
+    "rearCamera": "50 MP wide (f/1.8, OIS) + 50 MP ultrawide (f/2.0)",
+    "frontCamera": "32 MP (f/2.4)",
+    "battery": "4,500 mAh silicon-carbon",
+    "charging": "45 W wired, 15 W wireless, 5 W reverse",
+    "connectivity": "5G, Wi-Fi 7",
+    "durability": "IP48",
+    "os": "Android 16",
+    "weightG": 189,
+    "dimensions": "Open 171.42 x 73.99 x 7.09 mm; closed 88.09 x 73.99 x 15.32 mm",
+    "configurations": "256 GB / 12 GB RAM, Unlocked – $1,099.99",
+    "colors": "Mountain View"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-MOTOROLA-RAZR-2026",
+   "slug": "motorola-razr-2026",
+   "name": "Motorola razr 2026",
+   "brand": "Motorola",
+   "category": "foldables",
+   "price": "799.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    12,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [],
+   "summary": "Entry razr flip phone for 2026 with a 6.9-inch 120 Hz main display, 3.6-inch cover screen, MediaTek Dimensity 7450X and dual 50 MP cameras.",
+   "description": "The razr 2026 combines a 6.9-inch LTPO Extreme AMOLED main screen with a 3.6-inch 90 Hz cover display. It uses a MediaTek Dimensity 7450X with 8 GB RAM and 256 GB storage, 50 MP wide (OIS) and 50 MP ultrawide rear cameras, a 4,800 mAh silicon-carbon battery, IP48 protection and MIL-STD 810H certification.",
+   "keywords": "razr 2026 flip phone foldable motorola dimensity",
+   "specs": {
+    "chip": "MediaTek Dimensity 7450X",
+    "storageGb": 256,
+    "ramGb": 8,
+    "displayIn": 6.9,
+    "display": "6.9-inch 2640 x 1080 LTPO Extreme AMOLED, 120 Hz, up to 3,000 nits peak",
+    "coverDisplay": "3.6-inch 1056 x 1066 LTPS Extreme AMOLED, 90 Hz, up to 1,700 nits peak",
+    "rearCamera": "50 MP wide (f/1.7, OIS) + 50 MP ultrawide (f/2.0)",
+    "frontCamera": "32 MP (f/2.4)",
+    "battery": "4,800 mAh silicon-carbon",
+    "charging": "30 W wired, 15 W wireless",
+    "connectivity": "5G, Wi-Fi 6E",
+    "durability": "IP48, MIL-STD 810H",
+    "os": "Android 16",
+    "weightG": 188,
+    "dimensions": "Open 171.30 x 73.99 x 7.25 mm; closed 88.08 x 73.99 x 15.85 mm",
+    "configurations": "256 GB / 8 GB RAM, Unlocked – $799.99",
+    "colors": "Hematite, Violet Ice, Bright White, Sporting Green"
+   },
+   "options": [
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Hematite",
+       "default": true,
+       "image": {
+        "small": "/images/catalog/motorola-razr-2026--hematite-400.webp",
+        "large": "/images/catalog/motorola-razr-2026--hematite-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Motorola razr 2026 in Hematite, closed, rear cover-screen view, official Motorola product render"
+       }
+      },
+      {
+       "label": "Violet Ice",
+       "image": {
+        "small": "/images/catalog/motorola-razr-2026--violet-ice-400.webp",
+        "large": "/images/catalog/motorola-razr-2026--violet-ice-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Motorola razr 2026 in Violet Ice, closed, rear cover-screen view, official Motorola product render"
+       }
+      },
+      {
+       "label": "Bright White",
+       "image": {
+        "small": "/images/catalog/motorola-razr-2026--bright-white-400.webp",
+        "large": "/images/catalog/motorola-razr-2026--bright-white-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Motorola razr 2026 in Bright White, closed, rear cover-screen view, official Motorola product render"
+       }
+      },
+      {
+       "label": "Sporting Green",
+       "image": {
+        "small": "/images/catalog/motorola-razr-2026--sporting-green-400.webp",
+        "large": "/images/catalog/motorola-razr-2026--sporting-green-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Motorola razr 2026 in Sporting Green, closed, rear cover-screen view, official Motorola product render"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "sku": "TK-MOTOROLA-RAZR-ULTRA-2025",
+   "slug": "motorola-razr-ultra-2025",
+   "name": "Motorola razr ultra 2025",
+   "brand": "Motorola",
+   "category": "foldables",
+   "price": "799.99",
+   "compareAt": "1299.99",
+   "warranty": 12,
+   "stock": [
+    24,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [],
+   "summary": "2025 razr ultra flip phone with a 7-inch 165 Hz main display, 4-inch cover screen, Snapdragon 8 Elite and 16 GB RAM, now at a reduced official price.",
+   "description": "The razr ultra 2025 has a 7.0-inch Super HD LTPO foldable AMOLED display (up to 165 Hz) and a 4.0-inch pOLED cover screen. It runs the Snapdragon 8 Elite with 16 GB RAM, offers 512 GB or 1 TB (motorola.com only) storage, 50 MP main and 50 MP ultrawide cameras, a 50 MP selfie camera, and a 4,700 mAh battery with 68 W wired and 30 W wireless charging.",
+   "keywords": "razr ultra 2025 flip phone foldable snapdragon 8 elite 1tb alcantara wood",
+   "specs": {
+    "chip": "Snapdragon 8 Elite",
+    "storageGb": 512,
+    "ramGb": 16,
+    "displayIn": 7.0,
+    "display": "7.0-inch 2992 x 1224 Super HD LTPO foldable AMOLED, up to 165 Hz, HDR10+",
+    "coverDisplay": "4.0-inch 1272 x 1080 LTPO pOLED",
+    "rearCamera": "50 MP main (f/1.8, OIS) + 50 MP ultrawide/macro (f/2.0)",
+    "frontCamera": "50 MP (f/2.0)",
+    "battery": "4,700 mAh",
+    "charging": "68 W wired, 30 W wireless, 5 W reverse",
+    "connectivity": "5G",
+    "durability": "IP48",
+    "os": "Android 15",
+    "weightG": 199,
+    "dimensions": "Open 171.48 x 73.99 x 7.29 mm; closed 88.12 x 73.99 x 15.69 mm",
+    "configurations": "512 GB / 16 GB RAM (list $1,299.99) – $799.99 · 1 TB / 16 GB RAM (list $1,499.99) – $799.99",
+    "colors": "Scarab, Cabaret, Mountain Trail, Rio Red"
+   },
+   "options": [
+    {
+     "name": "Configuration",
+     "values": [
+      {
+       "label": "512 GB / 16 GB RAM (list $1,299.99)",
+       "price": "799.99",
+       "default": true
+      },
+      {
+       "label": "1 TB / 16 GB RAM (list $1,499.99)",
+       "price": "799.99"
+      }
+     ]
+    },
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Scarab",
+       "default": true,
+       "image": {
+        "small": "/images/catalog/motorola-razr-ultra-2025--scarab-400.webp",
+        "large": "/images/catalog/motorola-razr-ultra-2025--scarab-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Motorola razr ultra 2025 in Scarab, closed, rear cover-screen view, official Motorola product render"
+       }
+      },
+      {
+       "label": "Cabaret",
+       "image": {
+        "small": "/images/catalog/motorola-razr-ultra-2025--cabaret-400.webp",
+        "large": "/images/catalog/motorola-razr-ultra-2025--cabaret-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Motorola razr ultra 2025 in Cabaret, closed, rear cover-screen view, official Motorola product render"
+       }
+      },
+      {
+       "label": "Mountain Trail",
+       "image": {
+        "small": "/images/catalog/motorola-razr-ultra-2025--mountain-trail-400.webp",
+        "large": "/images/catalog/motorola-razr-ultra-2025--mountain-trail-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Motorola razr ultra 2025 in Mountain Trail, closed, rear cover-screen view, official Motorola product render"
+       }
+      },
+      {
+       "label": "Rio Red",
+       "image": {
+        "small": "/images/catalog/motorola-razr-ultra-2025--rio-red-400.webp",
+        "large": "/images/catalog/motorola-razr-ultra-2025--rio-red-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Motorola razr ultra 2025 in Rio Red, closed, rear cover-screen view, official Motorola product render"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "sku": "TK-MOTOROLA-RAZR-2025",
+   "slug": "motorola-razr-2025",
+   "name": "Motorola razr 2025",
+   "brand": "Motorola",
+   "category": "foldables",
+   "price": "549.99",
+   "compareAt": "699.99",
+   "warranty": 12,
+   "stock": [
+    30,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [],
+   "summary": "2025 razr flip phone with a 6.9-inch 120 Hz main display, 3.6-inch cover screen, MediaTek Dimensity 7400X and 256 GB storage.",
+   "description": "The razr 2025 has a 6.9-inch FHD+ LTPO pOLED main display and a 3.6-inch 90 Hz external display. It runs a MediaTek Dimensity 7400X with 8 GB RAM and 256 GB storage, has a 50 MP main camera with OIS and a 13 MP ultrawide/macro camera, and a 4,500 mAh battery with 30 W wired and 15 W wireless charging.",
+   "keywords": "razr 2025 flip phone foldable motorola budget",
+   "specs": {
+    "chip": "MediaTek Dimensity 7400X",
+    "storageGb": 256,
+    "ramGb": 8,
+    "displayIn": 6.9,
+    "display": "6.9-inch 2640 x 1080 FHD+ LTPO pOLED, up to 120 Hz, 3,000 nits peak",
+    "coverDisplay": "3.6-inch 1056 x 1066 pOLED, up to 90 Hz",
+    "rearCamera": "50 MP main (f/1.7, OIS) + 13 MP ultrawide/macro (f/2.2)",
+    "frontCamera": "32 MP (f/2.4)",
+    "battery": "4,500 mAh",
+    "charging": "30 W wired, 15 W wireless",
+    "connectivity": "5G, Wi-Fi 6E",
+    "durability": "IP48",
+    "os": "Android 15",
+    "weightG": 188,
+    "dimensions": "Open 171.30 x 73.99 x 7.25 mm; closed 88.08 x 73.99 x 15.85 mm",
+    "configurations": "256 GB / 8 GB RAM, Unlocked – $549.99",
+    "colors": "Parfait Pink, Spring Bud, Lightest Sky"
+   },
+   "options": [
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Parfait Pink",
+       "default": true,
+       "image": {
+        "small": "/images/catalog/motorola-razr-2025--parfait-pink-400.webp",
+        "large": "/images/catalog/motorola-razr-2025--parfait-pink-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Motorola razr 2025 in Parfait Pink, closed, rear cover-screen view, official Motorola product render"
+       }
+      },
+      {
+       "label": "Spring Bud",
+       "image": {
+        "small": "/images/catalog/motorola-razr-2025--spring-bud-400.webp",
+        "large": "/images/catalog/motorola-razr-2025--spring-bud-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Motorola razr 2025 in Spring Bud, closed, rear cover-screen view, official Motorola product render"
+       }
+      },
+      {
+       "label": "Lightest Sky",
+       "image": {
+        "small": "/images/catalog/motorola-razr-2025--lightest-sky-400.webp",
+        "large": "/images/catalog/motorola-razr-2025--lightest-sky-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Motorola razr 2025 in Lightest Sky, closed, rear cover-screen view, official Motorola product render"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "sku": "TK-MOTOROLA-EDGE-2026",
+   "slug": "motorola-edge-2026",
+   "name": "Motorola edge 2026",
+   "brand": "Motorola",
+   "category": "smartphones",
+   "price": "599.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    45,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [],
+   "summary": "Compact 6.3-inch Motorola with a 5,200-nit Extreme AMOLED display, Dimensity 7450, triple camera with 3x telephoto and IP68/IP69 protection.",
+   "description": "The edge 2026 has a 6.3-inch 2640 x 1216 Extreme AMOLED display at up to 120 Hz and 5,200 nits peak. It uses a MediaTek Dimensity 7450 with 8 GB RAM and 128 GB storage, a 50 MP Sony LYTIA 710 main camera, 50 MP ultrawide and 10 MP 3x telephoto, and a 5,000 mAh battery with 60 W wired and 15 W wireless charging.",
+   "keywords": "motorola edge 2026 compact phone telephoto ip69 dimensity",
+   "specs": {
+    "chip": "MediaTek Dimensity 7450",
+    "storageGb": 128,
+    "ramGb": 8,
+    "displayIn": 6.3,
+    "display": "6.3-inch 2640 x 1216 Super HD Extreme AMOLED, up to 120 Hz, 5,200 nits peak",
+    "rearCamera": "50 MP main (Sony LYTIA 710, f/1.8, OIS) + 50 MP ultrawide/macro (f/2.0) + 10 MP 3x telephoto (OIS)",
+    "frontCamera": "50 MP (f/1.95)",
+    "battery": "5,000 mAh",
+    "charging": "60 W wired, 15 W wireless",
+    "connectivity": "5G, Wi-Fi 6E, NFC",
+    "durability": "IP68/IP69, MIL-STD 810H, Gorilla Glass 7i",
+    "os": "Android 16",
+    "weightG": 160.5,
+    "dimensions": "152.3 x 71.98 x 7.22 mm",
+    "configurations": "128 GB / 8 GB RAM, Unlocked – $599.99",
+    "colors": "Martini Olive"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-MOTOROLA-EDGE-2025",
+   "slug": "motorola-edge-2025",
+   "name": "Motorola edge 2025",
+   "brand": "Motorola",
+   "category": "smartphones",
+   "price": "349.99",
+   "compareAt": "549.99",
+   "warranty": 12,
+   "stock": [
+    43,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [],
+   "summary": "6.7-inch pOLED Motorola with Dimensity 7400, triple 50 MP + 50 MP + 10 MP 3x telephoto cameras, 5,200 mAh battery and IP68/IP69 rating.",
+   "description": "The edge 2025 has a 6.7-inch 2712 x 1220 pOLED display at 120 Hz and up to 4,500 nits. It runs a MediaTek Dimensity 7400 with 8 GB RAM and 256 GB storage, uses a 50 MP Sony LYTIA 700C main camera with OIS, a 50 MP ultrawide and a 10 MP 3x telephoto, and has a 5,200 mAh battery with 68 W wired and 15 W wireless charging.",
+   "keywords": "motorola edge 2025 telephoto ip69 military grade",
+   "specs": {
+    "chip": "MediaTek Dimensity 7400",
+    "storageGb": 256,
+    "ramGb": 8,
+    "displayIn": 6.7,
+    "display": "6.7-inch 2712 x 1220 Super HD pOLED, 120 Hz, 4,500 nits peak",
+    "rearCamera": "50 MP main (Sony LYTIA 700C, f/1.8, OIS) + 50 MP ultrawide/macro (f/2.0) + 10 MP 3x telephoto (OIS)",
+    "frontCamera": "50 MP (f/1.9)",
+    "battery": "5,200 mAh",
+    "charging": "68 W wired, 15 W wireless",
+    "connectivity": "5G, Wi-Fi 6E, NFC",
+    "durability": "IP68/IP69, MIL-STD-810H",
+    "os": "Android 15",
+    "weightG": 181,
+    "dimensions": "161.19 x 73.06 x 7.99 mm",
+    "configurations": "256 GB / 8 GB RAM, Unlocked – $349.99",
+    "colors": "Deep Forest"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-MOTOROLA-G-STYLUS-2026",
+   "slug": "motorola-moto-g-stylus-2026",
+   "name": "Motorola moto g stylus 2026",
+   "brand": "Motorola",
+   "category": "smartphones",
+   "price": "499.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    56,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [],
+   "summary": "Stylus phone with a 6.7-inch 1.5K Extreme AMOLED display, built-in moto stylus, Snapdragon 6 Gen 3, 5,200 mAh battery and 68 W charging.",
+   "description": "The moto g stylus 2026 has a 6.7-inch 2712 x 1220 Extreme AMOLED display at up to 120 Hz and 5,000 nits peak, with a built-in rechargeable moto stylus. It runs a Snapdragon 6 Gen 3 with 8 GB RAM, has a 50 MP Sony LYTIA 700C main camera with OIS plus a 13 MP ultrawide, and a 5,200 mAh battery with 68 W wired and 15 W wireless charging.",
+   "keywords": "moto g stylus 2026 pen stylus phone snapdragon 6 gen 3",
+   "specs": {
+    "chip": "Snapdragon 6 Gen 3",
+    "storageGb": 128,
+    "ramGb": 8,
+    "displayIn": 6.7,
+    "display": "6.7-inch 2712 x 1220 (1.5K) Extreme AMOLED, up to 120 Hz, 5,000 nits peak",
+    "rearCamera": "50 MP main (Sony LYTIA 700C, f/1.8, OIS) + 13 MP ultrawide/macro (f/2.2)",
+    "frontCamera": "32 MP (f/2.2)",
+    "battery": "5,200 mAh",
+    "charging": "68 W wired, 15 W wireless",
+    "connectivity": "5G, Wi-Fi 6E, NFC",
+    "durability": "IP68/IP69, MIL-STD-810H",
+    "os": "Android 16",
+    "weightG": 192.3,
+    "dimensions": "162.15 x 74.78 x 8.29 mm",
+    "configurations": "128 GB / 8 GB RAM – $499.99 · 256 GB / 8 GB RAM (motorola.com exclusive) – $599.99",
+    "colors": "Coal Smoke, Lavender Mist"
+   },
+   "options": [
+    {
+     "name": "Configuration",
+     "values": [
+      {
+       "label": "128 GB / 8 GB RAM",
+       "price": "499.99",
+       "default": true
+      },
+      {
+       "label": "256 GB / 8 GB RAM (motorola.com exclusive)",
+       "price": "599.99"
+      }
+     ]
+    },
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Coal Smoke",
+       "default": true,
+       "image": {
+        "small": "/images/catalog/motorola-moto-g-stylus-2026--coal-smoke-400.webp",
+        "large": "/images/catalog/motorola-moto-g-stylus-2026--coal-smoke-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Motorola moto g stylus 2026 in Coal Smoke, rear and front angled view, official Motorola product render"
+       }
+      },
+      {
+       "label": "Lavender Mist",
+       "image": {
+        "small": "/images/catalog/motorola-moto-g-stylus-2026--lavender-mist-400.webp",
+        "large": "/images/catalog/motorola-moto-g-stylus-2026--lavender-mist-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Motorola moto g stylus 2026 in Lavender Mist, rear and front angled view, official Motorola product render"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "sku": "TK-MOTOROLA-G-STYLUS-2025",
+   "slug": "motorola-moto-g-stylus-2025",
+   "name": "Motorola moto g stylus 2025",
+   "brand": "Motorola",
+   "category": "smartphones",
+   "price": "299.99",
+   "compareAt": "399.99",
+   "warranty": 12,
+   "stock": [
+    10,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [],
+   "summary": "2025 stylus phone with a 6.7-inch pOLED display, built-in stylus, Snapdragon 6 Gen 3, 256 GB storage and 68 W charging.",
+   "description": "The moto g stylus 2025 has a 6.7-inch 2712 x 1220 pOLED display with adaptive refresh up to 120 Hz and a built-in stylus. It runs a Snapdragon 6 Gen 3 with 8 GB RAM and 256 GB storage (microSD up to 1 TB), a 50 MP Sony LYTIA 700C main camera with OIS, a 13 MP ultrawide, and a 5,000 mAh battery with 68 W wired and 15 W wireless charging.",
+   "keywords": "moto g stylus 2025 pen phone",
+   "specs": {
+    "chip": "Snapdragon 6 Gen 3",
+    "storageGb": 256,
+    "ramGb": 8,
+    "displayIn": 6.7,
+    "display": "6.7-inch 2712 x 1220 pOLED, up to 120 Hz, 3,000 nits HDR peak",
+    "rearCamera": "50 MP main (Sony LYTIA 700C, f/1.8, OIS) + 13 MP ultrawide/macro (f/2.2)",
+    "frontCamera": "32 MP (f/2.2)",
+    "battery": "5,000 mAh",
+    "charging": "68 W wired, 15 W wireless",
+    "connectivity": "5G, Wi-Fi 6E",
+    "durability": "IP68, MIL-STD-810H",
+    "os": "Android 15",
+    "weightG": 191,
+    "dimensions": "162.15 x 74.78 x 8.29 mm",
+    "configurations": "256 GB / 8 GB RAM, Unlocked – $299.99",
+    "colors": "Gibraltar Sea, Surf the Web"
+   },
+   "options": [
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Gibraltar Sea",
+       "default": true,
+       "image": {
+        "small": "/images/catalog/motorola-moto-g-stylus-2025--gibraltar-sea-400.webp",
+        "large": "/images/catalog/motorola-moto-g-stylus-2025--gibraltar-sea-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Motorola moto g stylus 2025 in Gibraltar Sea, front and rear view, official Motorola product render"
+       }
+      },
+      {
+       "label": "Surf the Web",
+       "image": {
+        "small": "/images/catalog/motorola-moto-g-stylus-2025--surf-the-web-400.webp",
+        "large": "/images/catalog/motorola-moto-g-stylus-2025--surf-the-web-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Motorola moto g stylus 2025 in Surf the Web, front and rear view, official Motorola product render"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "sku": "TK-MOTOROLA-G-POWER-2026",
+   "slug": "motorola-moto-g-power-2026",
+   "name": "Motorola moto g power 2026",
+   "brand": "Motorola",
+   "category": "smartphones",
+   "price": "399.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    46,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [],
+   "summary": "Long-battery Motorola with a 6.8-inch 120 Hz FHD+ display, Dimensity 6300, 8 GB RAM, 5,200 mAh battery and IP68/IP69 rating.",
+   "description": "The moto g power 2026 has a 6.8-inch 2388 x 1080 LCD at 120 Hz behind Gorilla Glass 7i. It runs a MediaTek Dimensity 6300 with 8 GB RAM and 128 GB storage (microSD up to 1 TB), has a 50 MP main camera with OIS and an 8 MP ultrawide/macro, and a 5,200 mAh battery with 30 W charging.",
+   "keywords": "moto g power 2026 battery phone budget",
+   "specs": {
+    "chip": "MediaTek Dimensity 6300",
+    "storageGb": 128,
+    "ramGb": 8,
+    "displayIn": 6.8,
+    "display": "6.8-inch 2388 x 1080 FHD+ LCD, 120 Hz, up to 1,000 nits HBM",
+    "rearCamera": "50 MP main (f/1.8, OIS) + 8 MP ultrawide/macro (f/2.2)",
+    "frontCamera": "32 MP (f/2.2)",
+    "battery": "5,200 mAh",
+    "charging": "30 W wired",
+    "connectivity": "5G, Wi-Fi 5",
+    "durability": "IP68/IP69, MIL-STD-810H, Gorilla Glass 7i",
+    "os": "Android 16",
+    "weightG": 208,
+    "dimensions": "166.62 x 77.10 x 8.72 mm",
+    "configurations": "128 GB / 8 GB RAM, Unlocked – $399.99",
+    "colors": "Pure Cashmere, Evening Blue"
+   },
+   "options": [
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Pure Cashmere",
+       "default": true,
+       "image": {
+        "small": "/images/catalog/motorola-moto-g-power-2026--pure-cashmere-400.webp",
+        "large": "/images/catalog/motorola-moto-g-power-2026--pure-cashmere-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Motorola moto g power 2026 in Pure Cashmere, rear view, official Motorola product render"
+       }
+      },
+      {
+       "label": "Evening Blue",
+       "image": {
+        "small": "/images/catalog/motorola-moto-g-power-2026--evening-blue-400.webp",
+        "large": "/images/catalog/motorola-moto-g-power-2026--evening-blue-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Motorola moto g power 2026 in Evening Blue, rear view, official Motorola product render"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "sku": "TK-MOTOROLA-G-POWER-2025",
+   "slug": "motorola-moto-g-power-2025",
+   "name": "Motorola moto g power 2025",
+   "brand": "Motorola",
+   "category": "smartphones",
+   "price": "199.99",
+   "compareAt": "299.99",
+   "warranty": 12,
+   "stock": [
+    24,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [],
+   "summary": "Budget 5G Motorola with a 6.8-inch 120 Hz FHD+ display, Dimensity 6300, 5,000 mAh battery, wireless charging and IP68/IP69 rating.",
+   "description": "The moto g power 2025 has a 6.8-inch 2388 x 1080 LCD at 120 Hz and runs a MediaTek Dimensity 6300 with 8 GB RAM and 128 GB storage. It has a 50 MP main camera with OIS, an 8 MP ultrawide/macro and a 16 MP selfie camera, and a 5,000 mAh battery with 30 W wired and 15 W wireless charging.",
+   "keywords": "moto g power 2025 budget 5g phone",
+   "specs": {
+    "chip": "MediaTek Dimensity 6300",
+    "storageGb": 128,
+    "ramGb": 8,
+    "displayIn": 6.8,
+    "display": "6.8-inch 2388 x 1080 FHD+ LCD, 120 Hz",
+    "rearCamera": "50 MP main (f/1.8, OIS) + 8 MP ultrawide/macro (f/2.2)",
+    "frontCamera": "16 MP (f/2.4)",
+    "battery": "5,000 mAh",
+    "charging": "30 W wired, 15 W wireless",
+    "connectivity": "5G, Wi-Fi 5",
+    "durability": "IP68/IP69, MIL-STD 810H",
+    "os": "Android 15",
+    "weightG": 208,
+    "dimensions": "166.62 x 77.10 x 8.72 mm",
+    "configurations": "128 GB / 8 GB RAM, Unlocked – $199.99",
+    "colors": "Leaf Green, Slate Gray"
+   },
+   "options": [
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Leaf Green",
+       "default": true,
+       "image": {
+        "small": "/images/catalog/motorola-moto-g-power-2025--leaf-green-400.webp",
+        "large": "/images/catalog/motorola-moto-g-power-2025--leaf-green-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Motorola moto g power 2025 in Leaf Green, front and rear view, official Motorola product render"
+       }
+      },
+      {
+       "label": "Slate Gray",
+       "image": {
+        "small": "/images/catalog/motorola-moto-g-power-2025--slate-gray-400.webp",
+        "large": "/images/catalog/motorola-moto-g-power-2025--slate-gray-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Motorola moto g power 2025 in Slate Gray, front and rear view, official Motorola product render"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "sku": "TK-MOTOROLA-G-2026",
+   "slug": "motorola-moto-g-2026",
+   "name": "Motorola moto g 2026",
+   "brand": "Motorola",
+   "category": "smartphones",
+   "price": "249.99",
+   "compareAt": "299.99",
+   "warranty": 12,
+   "stock": [
+    54,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [],
+   "summary": "Affordable 5G Motorola with a 6.7-inch 120 Hz display, Dimensity 6300, 128 GB storage, 50 MP camera and 5,200 mAh battery.",
+   "description": "The moto g 2026 has a 6.7-inch HD+ LCD at 120 Hz under Gorilla Glass 3, a MediaTek Dimensity 6300 with 4 GB RAM and 128 GB storage (microSD up to 1 TB). It has a 50 MP main camera plus a 2 MP macro, a 32 MP selfie camera, and a 5,200 mAh battery with 30 W charging.",
+   "keywords": "moto g 2026 budget 5g phone",
+   "specs": {
+    "chip": "MediaTek Dimensity 6300",
+    "storageGb": 128,
+    "ramGb": 4,
+    "displayIn": 6.7,
+    "display": "6.7-inch 1604 x 720 HD+ LCD, 120 Hz, Gorilla Glass 3",
+    "rearCamera": "50 MP main (f/1.8) + 2 MP macro (f/2.5)",
+    "frontCamera": "32 MP (f/2.2)",
+    "battery": "5,200 mAh",
+    "charging": "30 W wired",
+    "connectivity": "5G, Wi-Fi 5",
+    "durability": "Water-repellent design",
+    "os": "Android 16",
+    "weightG": 202,
+    "dimensions": "167.15 x 76.40 x 8.44 mm",
+    "configurations": "128 GB / 4 GB RAM, Unlocked – $249.99",
+    "colors": "Slipstream, Cattleya Orchid"
+   },
+   "options": [
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Slipstream",
+       "default": true,
+       "image": {
+        "small": "/images/catalog/motorola-moto-g-2026--slipstream-400.webp",
+        "large": "/images/catalog/motorola-moto-g-2026--slipstream-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Motorola moto g 2026 in Slipstream, rear and front angled view, official Motorola product render"
+       }
+      },
+      {
+       "label": "Cattleya Orchid",
+       "image": {
+        "small": "/images/catalog/motorola-moto-g-2026--cattleya-orchid-400.webp",
+        "large": "/images/catalog/motorola-moto-g-2026--cattleya-orchid-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Motorola moto g 2026 in Cattleya Orchid, rear and front angled view, official Motorola product render"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "sku": "TK-MOTOROLA-G-PLAY-2026",
+   "slug": "motorola-moto-g-play-2026",
+   "name": "Motorola moto g play 2026",
+   "brand": "Motorola",
+   "category": "smartphones",
+   "price": "199.99",
+   "compareAt": "249.99",
+   "warranty": 12,
+   "stock": [
+    55,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [],
+   "summary": "Entry-level Motorola with a 6.7-inch 120 Hz display, Dimensity 6300, 64 GB storage, 32 MP camera and 5,200 mAh battery.",
+   "description": "The moto g play 2026 has a 6.7-inch HD+ LCD at 120 Hz with Gorilla Glass 3 and runs a MediaTek Dimensity 6300 with 4 GB RAM and 64 GB storage (microSD up to 1 TB). It has a 32 MP rear camera, an 8 MP selfie camera and a 5,200 mAh battery with 18 W charging.",
+   "keywords": "moto g play 2026 budget phone",
+   "specs": {
+    "chip": "MediaTek Dimensity 6300",
+    "storageGb": 64,
+    "ramGb": 4,
+    "displayIn": 6.7,
+    "display": "6.7-inch 1604 x 720 HD+ LCD, 120 Hz, Gorilla Glass 3",
+    "rearCamera": "32 MP (f/2.2, PDAF)",
+    "frontCamera": "8 MP (f/2.0)",
+    "battery": "5,200 mAh",
+    "charging": "18 W wired",
+    "connectivity": "Wi-Fi 5",
+    "durability": "Water-repellent design",
+    "os": "Android 16",
+    "weightG": 202,
+    "dimensions": "167.15 x 76.40 x 8.44 mm",
+    "configurations": "64 GB / 4 GB RAM, Unlocked – $199.99",
+    "colors": "Tapestry"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-MOTOROLA-WATCH-ULTRA-2026",
+   "slug": "motorola-moto-watch-ultra-2026",
+   "name": "Motorola moto watch ultra 2026",
+   "brand": "Motorola",
+   "category": "smartwatches",
+   "price": "349.99",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    41,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [],
+   "summary": "LTE Wear OS-class smartwatch from Motorola with a 1.5-inch 2,700-nit pOLED display, Snapdragon W5+ Gen 1, stainless steel case and Polar health features.",
+   "description": "The moto watch ultra 2026 has a 1.5-inch 466 x 466 curved pOLED display (1-60 Hz, up to 2,700 nits) under Gorilla Glass 3 in a stainless steel case. It runs a Snapdragon W5+ Gen 1 with 32 GB storage, supports eSIM LTE, NFC payments and Wi-Fi, and includes Polar features such as Sleep Plus Stages and Nightly Recharge. Offered for pre-order on motorola.com at research time.",
+   "keywords": "moto watch ultra 2026 smartwatch lte esim polar snapdragon w5",
+   "specs": {
+    "caseSizes": "46.26 mm",
+    "chip": "Snapdragon W5+ Gen 1",
+    "display": "1.5-inch 466 x 466 pOLED, 1-60 Hz, up to 2,700 nits, Gorilla Glass 3",
+    "battery": "Up to 2 days",
+    "health": "Polar features: Sleep Plus Stages, Nightly Recharge, Activity Score, Smart Calories, Serene",
+    "connectivity": "LTE (eSIM), Bluetooth 5.3, Wi-Fi 802.11a/b/g/n, NFC payments",
+    "weightG": 51,
+    "colors": "Black Beauty, Mountain View"
+   },
+   "options": [
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Black Beauty",
+       "default": true,
+       "image": {
+        "small": "/images/catalog/motorola-moto-watch-ultra-2026--black-beauty-400.webp",
+        "large": "/images/catalog/motorola-moto-watch-ultra-2026--black-beauty-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Motorola moto watch ultra 2026 in Black Beauty, front view, official Motorola product render"
+       }
+      },
+      {
+       "label": "Mountain View",
+       "image": {
+        "small": "/images/catalog/motorola-moto-watch-ultra-2026--mountain-view-400.webp",
+        "large": "/images/catalog/motorola-moto-watch-ultra-2026--mountain-view-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Motorola moto watch ultra 2026 in Mountain View, front view, official Motorola product render"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "sku": "TK-MOTOROLA-WATCH-2026",
+   "slug": "motorola-moto-watch-2026",
+   "name": "Motorola moto watch 2026",
+   "brand": "Motorola",
+   "category": "smartwatches",
+   "price": "129.99",
+   "compareAt": "149.99",
+   "warranty": 12,
+   "stock": [
+    21,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [],
+   "summary": "Lightweight Motorola smartwatch with a 1.43-inch round OLED display, up to 13 days of battery, dual-frequency GPS and IP68 rating.",
+   "description": "The moto watch 2026 has a 1.43-inch round OLED display under Gorilla Glass 3, weighs 40 g and is rated IP68 / 1 ATM. It offers up to 13 days of battery life, dual-frequency L1/L5 GPS, Bluetooth 5.3 and Polar-powered fitness tracking, and works with Android 12 and up.",
+   "keywords": "moto watch 2026 smartwatch polar gps budget",
+   "specs": {
+    "caseSizes": "47 mm",
+    "display": "1.43-inch round OLED, Gorilla Glass 3",
+    "battery": "Up to 13 days",
+    "waterResistance": "IP68, 1 ATM",
+    "connectivity": "Bluetooth 5.3 + BLE, dual-frequency GPS (L1/L5)",
+    "compatibility": "Android 12 and up",
+    "weightG": 40,
+    "colors": "Volcanic Ash"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-MOTOROLA-BUDS-2-PLUS",
+   "slug": "motorola-moto-buds-2-plus",
+   "name": "Motorola moto buds 2 plus",
+   "brand": "Motorola",
+   "category": "earbuds",
+   "price": "129.99",
+   "compareAt": "149.99",
+   "warranty": 12,
+   "stock": [
+    24,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [],
+   "summary": "Motorola ANC earbuds with sound by Bose, Bluetooth 6.0, up to 9 hours per charge and 40 hours with the case.",
+   "description": "moto buds 2 plus are tuned with sound by Bose and support active noise cancellation, Bluetooth 6.0, customizable EQ with bass boost and a low-latency gaming mode. Each earbud weighs 4.6 g and lasts up to 9 hours per charge (40 hours with the case), and 10 minutes of charging gives about 2 hours of playback.",
+   "keywords": "moto buds 2 plus bose anc earbuds bluetooth 6.0",
+   "specs": {
+    "connectivity": "Bluetooth",
+    "noiseCancelling": true,
+    "batteryHours": 9,
+    "drivers": "Sound by Bose tuning",
+    "waterResistance": "IP54 earbuds, IPX2 case",
+    "weightG": 4.6,
+    "connectionDetails": "Bluetooth 6.0",
+    "colors": "Silhouette, Cool White"
+   },
+   "options": [
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Silhouette",
+       "default": true,
+       "image": {
+        "small": "/images/catalog/motorola-moto-buds-2-plus--silhouette-400.webp",
+        "large": "/images/catalog/motorola-moto-buds-2-plus--silhouette-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Motorola moto buds 2 plus in Silhouette, earbuds pair view, official Motorola product render"
+       }
+      },
+      {
+       "label": "Cool White",
+       "image": {
+        "small": "/images/catalog/motorola-moto-buds-2-plus--cool-white-400.webp",
+        "large": "/images/catalog/motorola-moto-buds-2-plus--cool-white-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Motorola moto buds 2 plus in Cool White, earbuds pair view, official Motorola product render"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "sku": "TK-MOTOROLA-BUDS-2",
+   "slug": "motorola-moto-buds-2",
+   "name": "Motorola moto buds 2",
+   "brand": "Motorola",
+   "category": "earbuds",
+   "price": "79.99",
+   "compareAt": "99.99",
+   "warranty": 12,
+   "stock": [
+    49,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [],
+   "summary": "Budget Motorola ANC earbuds with up to 55 dB noise cancellation, Bluetooth 6.0, 11 hours per charge and 48 hours with the case.",
+   "description": "moto buds 2 offer up to 55 dB active noise cancellation, Bluetooth 6.0 and hi-res audio support. They last up to 11 hours per charge and 48 hours with the charging case, and 10 minutes of charging provides up to 3 hours of playback.",
+   "keywords": "moto buds 2 anc earbuds budget",
+   "specs": {
+    "connectivity": "Bluetooth",
+    "noiseCancelling": true,
+    "batteryHours": 11,
+    "waterResistance": "IP54 earbuds, IPX2 case",
+    "connectionDetails": "Bluetooth 6.0",
+    "colors": "Carbon"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-MOTOROLA-BUDS-LOOP",
+   "slug": "motorola-moto-buds-loop",
+   "name": "Motorola moto buds loop",
+   "brand": "Motorola",
+   "category": "earbuds",
+   "price": "199.99",
+   "compareAt": "249.99",
+   "warranty": 12,
+   "stock": [
+    10,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [],
+   "summary": "Open-ear clip-style earbuds with sound by Bose, 12 mm drivers, up to 8 hours of playback and 37 hours with the case.",
+   "description": "moto buds loop are open-ear earbuds with sound by Bose and 12 mm ironless drivers, a dual-microphone system with CrystalTalk AI, and a water-repellent design. They play up to 8 hours per charge (37 hours with the case) and 10 minutes of quick charging gives up to 3 hours.",
+   "keywords": "moto buds loop open ear clip earbuds bose",
+   "specs": {
+    "noiseCancelling": false,
+    "batteryHours": 8,
+    "drivers": "12 mm ironless drivers, sound by Bose",
+    "waterResistance": "Water-repellent design",
+    "colors": "Trekking Green"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-NOTHING-PHONE-3",
+   "slug": "nothing-phone-3",
+   "name": "Nothing Phone (3)",
+   "brand": "Nothing",
+   "category": "smartphones",
+   "price": "699.00",
+   "compareAt": "799.00",
+   "warranty": 12,
+   "stock": [
+    53,
+    5
+   ],
+   "featured": true,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [],
+   "summary": "Nothing's flagship with a Glyph Matrix back, Snapdragon 8s Gen 4, four 50 MP cameras including a 3x periscope, 6.67-inch 120 Hz AMOLED and 5,150 mAh battery.",
+   "description": "Phone (3) has a 6.67-inch 1260 x 2800 flexible AMOLED display (up to 4,500 nits peak) under Gorilla Glass 7i and runs a Snapdragon 8s Gen 4. Its rear has 50 MP main, 50 MP 3x periscope and 50 MP ultrawide cameras plus a 50 MP selfie camera, and a 5,150 mAh silicon-carbon battery supports 65 W wired and 15 W wireless charging. Nothing promises 5 years of Android updates and 7 years of security patches.",
+   "keywords": "nothing phone 3 glyph snapdragon 8s gen 4 periscope flagship",
+   "specs": {
+    "chip": "Snapdragon 8s Gen 4",
+    "storageGb": 256,
+    "ramGb": 12,
+    "displayIn": 6.67,
+    "display": "6.67-inch 1260 x 2800 flexible AMOLED, 120 Hz adaptive, 4,500 nits peak, Gorilla Glass 7i",
+    "rearCamera": "50 MP main (f/1.68, 1/1.3\", OIS) + 50 MP 3x periscope (f/2.68, OIS) + 50 MP ultrawide (f/2.2)",
+    "frontCamera": "50 MP (f/2.2)",
+    "battery": "5,150 mAh silicon-carbon",
+    "charging": "65 W wired, 15 W wireless, 5 W reverse wireless",
+    "connectivity": "5G, Wi-Fi 7, NFC, eSIM",
+    "durability": "IP68",
+    "os": "Nothing OS 4",
+    "weightG": 218,
+    "dimensions": "160.60 x 75.59 x 8.99 mm",
+    "configurations": "12 GB + 256 GB – $699 · 16 GB + 512 GB – $799",
+    "colors": "White, Black"
+   },
+   "options": [
+    {
+     "name": "Storage",
+     "values": [
+      {
+       "label": "12 GB + 256 GB",
+       "price": "699.00",
+       "default": true
+      },
+      {
+       "label": "16 GB + 512 GB",
+       "price": "799.00"
+      }
+     ]
+    },
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "White",
+       "default": true,
+       "image": {
+        "small": "/images/catalog/nothing-phone-3--white-400.webp",
+        "large": "/images/catalog/nothing-phone-3--white-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Nothing Phone (3) in White, rear view, official Nothing product image"
+       }
+      },
+      {
+       "label": "Black",
+       "image": {
+        "small": "/images/catalog/nothing-phone-3--black-400.webp",
+        "large": "/images/catalog/nothing-phone-3--black-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Nothing Phone (3) in Black, rear view, official Nothing product image"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "sku": "TK-NOTHING-PHONE-4A-PRO",
+   "slug": "nothing-phone-4a-pro",
+   "name": "Nothing Phone (4a) Pro",
+   "brand": "Nothing",
+   "category": "smartphones",
+   "price": "499.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    31,
+    5
+   ],
+   "featured": true,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [],
+   "summary": "Mid-range Nothing phone with a 6.83-inch 144 Hz AMOLED, Snapdragon 7 Gen 4, 50 MP main plus 50 MP 3.5x periscope camera and 5,080 mAh battery.",
+   "description": "Phone (4a) Pro has a 6.83-inch 1260 x 2800 flexible AMOLED display at up to 144 Hz and 5,000 nits peak under Gorilla Glass 7i. It runs a Snapdragon 7 Gen 4 with LPDDR5X and UFS 3.1, has a 50 MP main camera, a 50 MP 3.5x periscope with up to 140x ultra zoom and an ultrawide, a 32 MP selfie camera, and a 5,080 mAh battery with 50 W charging.",
+   "keywords": "nothing phone 4a pro periscope 140x zoom snapdragon 7 gen 4",
+   "specs": {
+    "chip": "Snapdragon 7 Gen 4",
+    "storageGb": 128,
+    "ramGb": 8,
+    "displayIn": 6.83,
+    "display": "6.83-inch 1260 x 2800 flexible AMOLED, up to 144 Hz, 5,000 nits peak, Gorilla Glass 7i",
+    "rearCamera": "50 MP main (f/1.88, 1/1.56\", OIS) + 50 MP 3.5x periscope (f/2.88, OIS) + ultrawide (f/2.2, 120 deg)",
+    "frontCamera": "32 MP (f/2.2)",
+    "battery": "5,080 mAh",
+    "charging": "50 W wired, 7.5 W reverse wired",
+    "connectivity": "5G, Wi-Fi 6, NFC",
+    "durability": "IP65",
+    "os": "Nothing OS 4.1",
+    "weightG": 210,
+    "dimensions": "163.6 x 76.6 x 7.9 mm",
+    "configurations": "8 GB + 128 GB – $499 · 12 GB + 256 GB – $599",
+    "colors": "Silver, Black, Pink"
+   },
+   "options": [
+    {
+     "name": "Storage",
+     "values": [
+      {
+       "label": "8 GB + 128 GB",
+       "price": "499.00",
+       "default": true
+      },
+      {
+       "label": "12 GB + 256 GB",
+       "price": "599.00"
+      }
+     ]
+    },
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Silver",
+       "default": true,
+       "image": {
+        "small": "/images/catalog/nothing-phone-4a-pro--silver-400.webp",
+        "large": "/images/catalog/nothing-phone-4a-pro--silver-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Nothing Phone (4a) Pro in Silver, rear view, official Nothing product image"
+       }
+      },
+      {
+       "label": "Black",
+       "image": {
+        "small": "/images/catalog/nothing-phone-4a-pro--black-400.webp",
+        "large": "/images/catalog/nothing-phone-4a-pro--black-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Nothing Phone (4a) Pro in Black, rear view, official Nothing product image"
+       }
+      },
+      {
+       "label": "Pink"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "sku": "TK-NOTHING-EAR-3A",
+   "slug": "nothing-ear-3a",
+   "name": "Nothing Ear (3a)",
+   "brand": "Nothing",
+   "category": "earbuds",
+   "price": "99.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    29,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [],
+   "summary": "Transparent-design ANC earbuds with 12 mm drivers, up to 45 dB adaptive ANC, LDAC, Bluetooth 6.0 and up to 42 hours with the case.",
+   "description": "Ear (3a) use 12 mm dynamic drivers with LDAC Hi-Res Wireless certification and adaptive ANC up to 45 dB. They connect over Bluetooth 6.0 with dual connection, are IP54 rated, and play up to 10 hours with ANC off (42 hours with the case).",
+   "keywords": "nothing ear 3a anc earbuds ldac transparent",
+   "specs": {
+    "connectivity": "Bluetooth",
+    "noiseCancelling": true,
+    "batteryHours": 10,
+    "drivers": "12 mm dynamic",
+    "codecs": "SBC, AAC, LDAC",
+    "waterResistance": "IP54 (buds and case)",
+    "weightG": 4.53,
+    "connectionDetails": "Bluetooth 6.0, dual connection",
+    "colors": "White, Black, Yellow, Pink"
+   },
+   "options": [
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "White",
+       "default": true,
+       "image": {
+        "small": "/images/catalog/nothing-ear-3a--white-400.webp",
+        "large": "/images/catalog/nothing-ear-3a--white-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Nothing Ear (3a) in White, earbuds in open case, official Nothing product image"
+       }
+      },
+      {
+       "label": "Black",
+       "image": {
+        "small": "/images/catalog/nothing-ear-3a--black-400.webp",
+        "large": "/images/catalog/nothing-ear-3a--black-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Nothing Ear (3a) in Black, earbuds in open case, official Nothing product image"
+       }
+      },
+      {
+       "label": "Yellow",
+       "image": {
+        "small": "/images/catalog/nothing-ear-3a--yellow-400.webp",
+        "large": "/images/catalog/nothing-ear-3a--yellow-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Nothing Ear (3a) in Yellow, earbuds in open case, official Nothing product image"
+       }
+      },
+      {
+       "label": "Pink",
+       "image": {
+        "small": "/images/catalog/nothing-ear-3a--pink-400.webp",
+        "large": "/images/catalog/nothing-ear-3a--pink-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Nothing Ear (3a) in Pink, earbuds in open case, official Nothing product image"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "sku": "TK-NOTHING-EAR-A",
+   "slug": "nothing-ear-a",
+   "name": "Nothing Ear (a)",
+   "brand": "Nothing",
+   "category": "earbuds",
+   "price": "79.00",
+   "compareAt": "99.00",
+   "warranty": 12,
+   "stock": [
+    12,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [],
+   "summary": "Nothing ANC earbuds with 11 mm drivers, up to 45 dB adaptive ANC, LDAC and up to 42.5 hours with the case.",
+   "description": "Ear (a) have 11 mm dynamic drivers, adaptive ANC up to 45 dB and support AAC, SBC and LDAC over Bluetooth 5.3. They last up to 9.5 hours with ANC off (42.5 hours with the case) and are IP54 rated (case IPX2).",
+   "keywords": "nothing ear a anc earbuds ldac yellow",
+   "specs": {
+    "connectivity": "Bluetooth",
+    "noiseCancelling": true,
+    "batteryHours": 9.5,
+    "drivers": "11 mm dynamic",
+    "codecs": "SBC, AAC, LDAC",
+    "waterResistance": "IP54 earbuds, IPX2 case",
+    "weightG": 4.6,
+    "connectionDetails": "Bluetooth 5.3",
+    "colors": "White, Black, Yellow"
+   },
+   "options": [
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "White",
+       "default": true,
+       "image": {
+        "small": "/images/catalog/nothing-ear-a--white-400.webp",
+        "large": "/images/catalog/nothing-ear-a--white-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Nothing Ear (a) in White, earbuds in open case, official Nothing product image"
+       }
+      },
+      {
+       "label": "Black",
+       "image": {
+        "small": "/images/catalog/nothing-ear-a--black-400.webp",
+        "large": "/images/catalog/nothing-ear-a--black-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Nothing Ear (a) in Black, earbuds in open case, official Nothing product image"
+       }
+      },
+      {
+       "label": "Yellow",
+       "image": {
+        "small": "/images/catalog/nothing-ear-a--yellow-400.webp",
+        "large": "/images/catalog/nothing-ear-a--yellow-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Nothing Ear (a) in Yellow, earbuds in open case, official Nothing product image"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "sku": "TK-NOTHING-EAR",
+   "slug": "nothing-ear",
+   "name": "Nothing Ear",
+   "brand": "Nothing",
+   "category": "earbuds",
+   "price": "109.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    42,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [],
+   "summary": "Nothing's ceramic-driver ANC earbuds with LDAC and LHDC 5.0, up to 45 dB adaptive ANC and up to 40.5 hours with the case.",
+   "description": "Ear use 11 mm dynamic drivers with ceramic diaphragms, adaptive ANC up to 45 dB and support AAC, SBC, LDAC and LHDC 5.0 over Bluetooth 5.3. They play up to 8.5 hours with ANC off (40.5 hours with the case), with IP54 earbuds and an IP55 case.",
+   "keywords": "nothing ear anc earbuds ceramic ldac lhdc",
+   "specs": {
+    "connectivity": "Bluetooth",
+    "noiseCancelling": true,
+    "batteryHours": 8.5,
+    "drivers": "11 mm dynamic, ceramic diaphragm",
+    "codecs": "SBC, AAC, LDAC, LHDC 5.0",
+    "waterResistance": "IP54 earbuds, IP55 case",
+    "weightG": 4.62,
+    "connectionDetails": "Bluetooth 5.3",
+    "colors": "Black, White"
+   },
+   "options": [
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Black",
+       "default": true,
+       "image": {
+        "small": "/images/catalog/nothing-ear--black-400.webp",
+        "large": "/images/catalog/nothing-ear--black-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Nothing Ear in Black, earbuds in open case, official Nothing product image"
+       }
+      },
+      {
+       "label": "White",
+       "image": {
+        "small": "/images/catalog/nothing-ear--white-400.webp",
+        "large": "/images/catalog/nothing-ear--white-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Nothing Ear in White, earbuds in open case, official Nothing product image"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "sku": "TK-NOTHING-EAR-OPEN",
+   "slug": "nothing-ear-open",
+   "name": "Nothing Ear (open)",
+   "brand": "Nothing",
+   "category": "earbuds",
+   "price": "99.00",
+   "compareAt": "129.00",
+   "warranty": 12,
+   "stock": [
+    44,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [],
+   "summary": "Open-ear Nothing earbuds with 14.2 mm titanium-coated drivers, up to 8 hours per charge and 30 hours with the case.",
+   "description": "Ear (open) are open-ear earbuds with 14.2 mm dynamic drivers using a titanium-coated diaphragm, weighing 8.1 g each. They connect over Bluetooth 5.3 with AAC and SBC, play up to 8 hours (30 hours with the case) and are IP54 rated.",
+   "keywords": "nothing ear open open-ear earbuds",
+   "specs": {
+    "connectivity": "Bluetooth",
+    "noiseCancelling": false,
+    "batteryHours": 8,
+    "drivers": "14.2 mm dynamic, titanium-coated",
+    "codecs": "SBC, AAC",
+    "waterResistance": "IP54 (buds and case)",
+    "weightG": 8.1,
+    "connectionDetails": "Bluetooth 5.3",
+    "colors": "White"
+   },
+   "options": []
+  },
+  {
+   "sku": "TK-NOTHING-HEADPHONE-A",
+   "slug": "nothing-headphone-a",
+   "name": "Nothing Headphone (a)",
+   "brand": "Nothing",
+   "category": "headphones",
+   "price": "199.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    16,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [],
+   "summary": "Over-ear Nothing headphones with 40 mm drivers, up to 40 dB adaptive ANC, LDAC and up to 135 hours of playback with ANC off.",
+   "description": "Headphone (a) use 40 mm titanium-coated PEN+PU drivers with adaptive ANC up to 40 dB and LDAC Hi-Res certification. They connect over Bluetooth 5.4 with dual connection and deliver up to 135 hours (ANC off) or 75 hours (ANC on) of AAC playback; 5 minutes of charging gives up to 8 hours.",
+   "keywords": "nothing headphone a over-ear anc ldac long battery",
+   "specs": {
+    "connectivity": "Bluetooth",
+    "noiseCancelling": true,
+    "batteryHours": 135,
+    "drivers": "40 mm dynamic, titanium-coated PEN+PU dome",
+    "codecs": "SBC, AAC, LDAC",
+    "waterResistance": "IP52",
+    "weightG": 310,
+    "connectionDetails": "Bluetooth 5.4, dual connection",
+    "colors": "White, Black, Pink, Yellow"
+   },
+   "options": [
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "White",
+       "default": true,
+       "image": {
+        "small": "/images/catalog/nothing-headphone-a--white-400.webp",
+        "large": "/images/catalog/nothing-headphone-a--white-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Nothing Headphone (a) in White, three-quarter view, official Nothing product image"
+       }
+      },
+      {
+       "label": "Black",
+       "image": {
+        "small": "/images/catalog/nothing-headphone-a--black-400.webp",
+        "large": "/images/catalog/nothing-headphone-a--black-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Nothing Headphone (a) in Black, three-quarter view, official Nothing product image"
+       }
+      },
+      {
+       "label": "Pink",
+       "image": {
+        "small": "/images/catalog/nothing-headphone-a--pink-400.webp",
+        "large": "/images/catalog/nothing-headphone-a--pink-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Nothing Headphone (a) in Pink, three-quarter view, official Nothing product image"
+       }
+      },
+      {
+       "label": "Yellow",
+       "image": {
+        "small": "/images/catalog/nothing-headphone-a--yellow-400.webp",
+        "large": "/images/catalog/nothing-headphone-a--yellow-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "Nothing Headphone (a) in Yellow, three-quarter view, official Nothing product image"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "sku": "TK-NOTHING-CMF-HEADPHONE-PRO",
+   "slug": "nothing-cmf-headphone-pro",
+   "name": "CMF by Nothing Headphone Pro",
+   "brand": "Nothing",
+   "category": "headphones",
+   "price": "79.00",
+   "compareAt": "99.00",
+   "warranty": 12,
+   "stock": [
+    34,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [],
+   "summary": "Budget over-ear headphones from Nothing's CMF line with 40 mm drivers, hybrid ANC up to 40 dB, LDAC and up to 100 hours of playback.",
+   "description": "CMF Headphone Pro have 40 mm drivers, hybrid ANC up to 40 dB and LDAC Hi-Res certification (wired and wireless). They connect over Bluetooth 5.4 with dual connection and play up to 100 hours with ANC off or 50 hours with ANC on (AAC, 50% volume).",
+   "keywords": "cmf headphone pro nothing over-ear anc ldac budget",
+   "specs": {
+    "connectivity": "Bluetooth",
+    "noiseCancelling": true,
+    "batteryHours": 100,
+    "drivers": "40 mm dynamic, PEN+PU dome",
+    "codecs": "SBC, AAC, LDAC",
+    "waterResistance": "IPX2",
+    "weightG": 283,
+    "connectionDetails": "Bluetooth 5.4, dual connection",
+    "colors": "Light Green, Light Grey, Dark Grey"
+   },
+   "options": [
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Light Green",
+       "default": true,
+       "image": {
+        "small": "/images/catalog/nothing-cmf-headphone-pro--light-green-400.webp",
+        "large": "/images/catalog/nothing-cmf-headphone-pro--light-green-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "CMF by Nothing Headphone Pro in Light Green, three-quarter view, official Nothing product image"
+       }
+      },
+      {
+       "label": "Light Grey",
+       "image": {
+        "small": "/images/catalog/nothing-cmf-headphone-pro--light-grey-400.webp",
+        "large": "/images/catalog/nothing-cmf-headphone-pro--light-grey-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "CMF by Nothing Headphone Pro in Light Grey, three-quarter view, official Nothing product image"
+       }
+      },
+      {
+       "label": "Dark Grey",
+       "image": {
+        "small": "/images/catalog/nothing-cmf-headphone-pro--dark-grey-400.webp",
+        "large": "/images/catalog/nothing-cmf-headphone-pro--dark-grey-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "CMF by Nothing Headphone Pro in Dark Grey, three-quarter view, official Nothing product image"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "sku": "TK-NOTHING-CMF-BUDS-2",
+   "slug": "nothing-cmf-buds-2",
+   "name": "CMF by Nothing Buds 2",
+   "brand": "Nothing",
+   "category": "earbuds",
+   "price": "49.00",
+   "compareAt": "59.00",
+   "warranty": 12,
+   "stock": [
+    25,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [],
+   "summary": "Budget ANC earbuds with 11 mm drivers, up to 48 dB adaptive ANC, Bluetooth 5.4 and up to 55 hours with the case.",
+   "description": "CMF Buds 2 use custom 11 mm dynamic drivers tuned with Dirac, offer adaptive ANC up to 48 dB and connect over Bluetooth 5.4 with dual connection. They last up to 13.5 hours with ANC off (55 hours with the case); earbuds are IP55 rated.",
+   "keywords": "cmf buds 2 nothing budget anc earbuds",
+   "specs": {
+    "connectivity": "Bluetooth",
+    "noiseCancelling": true,
+    "batteryHours": 13.5,
+    "drivers": "Custom 11 mm dynamic",
+    "codecs": "SBC, AAC",
+    "waterResistance": "IP55 earbuds, IPX2 case",
+    "weightG": 4.5,
+    "connectionDetails": "Bluetooth 5.4, dual connection",
+    "colors": "Light Green, Dark Grey, Orange"
+   },
+   "options": [
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Light Green",
+       "default": true,
+       "image": {
+        "small": "/images/catalog/nothing-cmf-buds-2--light-green-400.webp",
+        "large": "/images/catalog/nothing-cmf-buds-2--light-green-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "CMF by Nothing Buds 2 in Light Green, earbuds in open case, official Nothing product image"
+       }
+      },
+      {
+       "label": "Dark Grey",
+       "image": {
+        "small": "/images/catalog/nothing-cmf-buds-2--dark-grey-400.webp",
+        "large": "/images/catalog/nothing-cmf-buds-2--dark-grey-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "CMF by Nothing Buds 2 in Dark Grey, earbuds in open case, official Nothing product image"
+       }
+      },
+      {
+       "label": "Orange",
+       "image": {
+        "small": "/images/catalog/nothing-cmf-buds-2--orange-400.webp",
+        "large": "/images/catalog/nothing-cmf-buds-2--orange-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "CMF by Nothing Buds 2 in Orange, earbuds in open case, official Nothing product image"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "sku": "TK-NOTHING-CMF-BUDS-2-PLUS",
+   "slug": "nothing-cmf-buds-2-plus",
+   "name": "CMF by Nothing Buds 2 Plus",
+   "brand": "Nothing",
+   "category": "earbuds",
+   "price": "59.00",
+   "compareAt": "69.00",
+   "warranty": 12,
+   "stock": [
+    52,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [],
+   "summary": "CMF earbuds with 12 mm LCP drivers, LDAC, up to 50 dB adaptive ANC and up to 61.5 hours with the case.",
+   "description": "CMF Buds 2 Plus use custom 12 mm LCP drivers with LDAC support and Personal Sound Profile, adaptive ANC up to 50 dB and Bluetooth 5.4 with dual connection. They last up to 14 hours with ANC off (61.5 hours with the case); earbuds are IP55 rated.",
+   "keywords": "cmf buds 2 plus nothing ldac anc earbuds",
+   "specs": {
+    "connectivity": "Bluetooth",
+    "noiseCancelling": true,
+    "batteryHours": 14,
+    "drivers": "Custom 12 mm dynamic, LCP + PU",
+    "codecs": "SBC, AAC, LDAC",
+    "waterResistance": "IP55 earbuds, IPX2 case",
+    "weightG": 4.5,
+    "connectionDetails": "Bluetooth 5.4, dual connection",
+    "colors": "Light Grey, Blue"
+   },
+   "options": [
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Light Grey",
+       "default": true,
+       "image": {
+        "small": "/images/catalog/nothing-cmf-buds-2-plus--light-grey-400.webp",
+        "large": "/images/catalog/nothing-cmf-buds-2-plus--light-grey-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "CMF by Nothing Buds 2 Plus in Light Grey, earbuds in open case, official Nothing product image"
+       }
+      },
+      {
+       "label": "Blue",
+       "image": {
+        "small": "/images/catalog/nothing-cmf-buds-2-plus--blue-400.webp",
+        "large": "/images/catalog/nothing-cmf-buds-2-plus--blue-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "CMF by Nothing Buds 2 Plus in Blue, earbuds in open case, official Nothing product image"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "sku": "TK-NOTHING-CMF-BUDS-2A",
+   "slug": "nothing-cmf-buds-2a",
+   "name": "CMF by Nothing Buds 2a",
+   "brand": "Nothing",
+   "category": "earbuds",
+   "price": "29.00",
+   "compareAt": "49.00",
+   "warranty": 12,
+   "stock": [
+    34,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [],
+   "summary": "Entry CMF ANC earbuds with 12.4 mm drivers, up to 42 dB ANC, Bluetooth 5.4 and up to 35.5 hours with the case.",
+   "description": "CMF Buds 2a have custom 12.4 mm dynamic drivers tuned with Dirac, ANC up to 42 dB and Bluetooth 5.4 with dual connection. They play up to 8 hours with ANC off (35.5 hours with the case); earbuds are IP54 rated.",
+   "keywords": "cmf buds 2a nothing cheap anc earbuds",
+   "specs": {
+    "connectivity": "Bluetooth",
+    "noiseCancelling": true,
+    "batteryHours": 8,
+    "drivers": "Custom 12.4 mm dynamic",
+    "codecs": "SBC, AAC",
+    "waterResistance": "IP54 earbuds, IPX2 case",
+    "weightG": 4.28,
+    "connectionDetails": "Bluetooth 5.4, dual connection",
+    "colors": "Orange, Light Grey, Dark Grey"
+   },
+   "options": [
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Orange",
+       "default": true,
+       "image": {
+        "small": "/images/catalog/nothing-cmf-buds-2a--orange-400.webp",
+        "large": "/images/catalog/nothing-cmf-buds-2a--orange-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "CMF by Nothing Buds 2a in Orange, earbuds in open case, official Nothing product image"
+       }
+      },
+      {
+       "label": "Light Grey",
+       "image": {
+        "small": "/images/catalog/nothing-cmf-buds-2a--light-grey-400.webp",
+        "large": "/images/catalog/nothing-cmf-buds-2a--light-grey-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "CMF by Nothing Buds 2a in Light Grey, earbuds in open case, official Nothing product image"
+       }
+      },
+      {
+       "label": "Dark Grey",
+       "image": {
+        "small": "/images/catalog/nothing-cmf-buds-2a--dark-grey-400.webp",
+        "large": "/images/catalog/nothing-cmf-buds-2a--dark-grey-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "CMF by Nothing Buds 2a in Dark Grey, earbuds in open case, official Nothing product image"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "sku": "TK-NOTHING-CMF-BUDS-PRO-2",
+   "slug": "nothing-cmf-buds-pro-2",
+   "name": "CMF by Nothing Buds Pro 2",
+   "brand": "Nothing",
+   "category": "earbuds",
+   "price": "49.00",
+   "compareAt": "69.00",
+   "warranty": 12,
+   "stock": [
+    22,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [],
+   "summary": "CMF dual-driver earbuds with an 11 mm bass driver plus 6 mm micro-planar tweeter, up to 50 dB ANC and up to 43 hours with the case.",
+   "description": "CMF Buds Pro 2 pair an 11 mm bass driver with a 6 mm micro-planar tweeter, offer adaptive ANC up to 50 dB and connect over Bluetooth 5.4. They last up to 11 hours with ANC off (43 hours with the case); earbuds are IP55 rated.",
+   "keywords": "cmf buds pro 2 nothing dual driver anc earbuds",
+   "specs": {
+    "connectivity": "Bluetooth",
+    "noiseCancelling": true,
+    "batteryHours": 11,
+    "drivers": "11 mm bass driver + 6 mm micro-planar tweeter",
+    "waterResistance": "IP55 earbuds",
+    "weightG": 4.9,
+    "connectionDetails": "Bluetooth 5.4",
+    "colors": "Orange, Dark Grey, Light Grey, Blue"
+   },
+   "options": [
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Orange",
+       "default": true,
+       "image": {
+        "small": "/images/catalog/nothing-cmf-buds-pro-2--orange-400.webp",
+        "large": "/images/catalog/nothing-cmf-buds-pro-2--orange-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "CMF by Nothing Buds Pro 2 in Orange, earbuds in open case, official Nothing product image"
+       }
+      },
+      {
+       "label": "Dark Grey",
+       "image": {
+        "small": "/images/catalog/nothing-cmf-buds-pro-2--dark-grey-400.webp",
+        "large": "/images/catalog/nothing-cmf-buds-pro-2--dark-grey-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "CMF by Nothing Buds Pro 2 in Dark Grey, earbuds in open case, official Nothing product image"
+       }
+      },
+      {
+       "label": "Light Grey",
+       "image": {
+        "small": "/images/catalog/nothing-cmf-buds-pro-2--light-grey-400.webp",
+        "large": "/images/catalog/nothing-cmf-buds-pro-2--light-grey-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "CMF by Nothing Buds Pro 2 in Light Grey, earbuds in open case, official Nothing product image"
+       }
+      },
+      {
+       "label": "Blue",
+       "image": {
+        "small": "/images/catalog/nothing-cmf-buds-pro-2--blue-400.webp",
+        "large": "/images/catalog/nothing-cmf-buds-pro-2--blue-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "CMF by Nothing Buds Pro 2 in Blue, earbuds in open case, official Nothing product image"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "sku": "TK-NOTHING-CMF-CLIP-PRO",
+   "slug": "nothing-cmf-clip-pro",
+   "name": "CMF by Nothing Clip Pro",
+   "brand": "Nothing",
+   "category": "earbuds",
+   "price": "99.00",
+   "compareAt": null,
+   "warranty": 12,
+   "stock": [
+    41,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [],
+   "summary": "Clip-style open-ear earbuds with 10.8 mm drivers, LDAC Hi-Res certification, Bluetooth 5.4 and up to 36 hours with the case.",
+   "description": "CMF Clip Pro are clip-on open-ear earbuds with 10.8 mm dynamic drivers, LDAC Hi-Res Wireless certification and static spatial audio. They connect over Bluetooth 5.4 with dual connection, last up to 10 hours per charge (up to 36 hours with the case in long battery mode) and are IP54 rated.",
+   "keywords": "cmf clip pro nothing open ear clip earbuds ldac",
+   "specs": {
+    "connectivity": "Bluetooth",
+    "noiseCancelling": false,
+    "batteryHours": 10,
+    "drivers": "10.8 mm dynamic",
+    "codecs": "SBC, AAC, LDAC",
+    "waterResistance": "IP54 earbuds, IPX2 case",
+    "weightG": 5.92,
+    "connectionDetails": "Bluetooth 5.4, dual connection",
+    "colors": "Coral, Light Grey, Dark Grey"
+   },
+   "options": [
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Coral",
+       "default": true,
+       "image": {
+        "small": "/images/catalog/nothing-cmf-clip-pro--coral-400.webp",
+        "large": "/images/catalog/nothing-cmf-clip-pro--coral-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "CMF by Nothing Clip Pro in Coral, earbuds in open case, official Nothing product image"
+       }
+      },
+      {
+       "label": "Light Grey",
+       "image": {
+        "small": "/images/catalog/nothing-cmf-clip-pro--light-grey-400.webp",
+        "large": "/images/catalog/nothing-cmf-clip-pro--light-grey-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "CMF by Nothing Clip Pro in Light Grey, earbuds in open case, official Nothing product image"
+       }
+      },
+      {
+       "label": "Dark Grey",
+       "image": {
+        "small": "/images/catalog/nothing-cmf-clip-pro--dark-grey-400.webp",
+        "large": "/images/catalog/nothing-cmf-clip-pro--dark-grey-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "CMF by Nothing Clip Pro in Dark Grey, earbuds in open case, official Nothing product image"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "sku": "TK-NOTHING-CMF-WATCH-3-PRO",
+   "slug": "nothing-cmf-watch-3-pro",
+   "name": "CMF by Nothing Watch 3 Pro",
+   "brand": "Nothing",
+   "category": "smartwatches",
+   "price": "79.00",
+   "compareAt": "99.00",
+   "warranty": 12,
+   "stock": [
+    19,
+    5
+   ],
+   "featured": false,
+   "backorder": false,
+   "discontinued": false,
+   "collections": [],
+   "summary": "Budget smartwatch with a 1.43-inch AMOLED display, metal body, GPS, 131 sport modes and up to 13 days of typical battery life.",
+   "description": "CMF Watch 3 Pro has a 1.43-inch 466 x 466 AMOLED display, a metal body and removable liquid-silicone strap. It tracks heart rate, SpO2, sleep and stress across 131 sport modes, supports Bluetooth calls, and its 350 mAh battery lasts up to 13 days of typical use (17.2 hours of GPS use).",
+   "keywords": "cmf watch 3 pro nothing smartwatch gps amoled budget",
+   "specs": {
+    "display": "1.43-inch 466 x 466 AMOLED (326 ppi), 60 Hz",
+    "battery": "350 mAh, up to 13 days typical use",
+    "health": "24-hour heart rate, SpO2, sleep and stress tracking, 131 sport modes",
+    "connectivity": "Bluetooth calling, GPS",
+    "weightG": 51.9,
+    "colors": "Light Green, Orange, Dark Grey"
+   },
+   "options": [
+    {
+     "name": "Color",
+     "values": [
+      {
+       "label": "Light Green",
+       "default": true,
+       "image": {
+        "small": "/images/catalog/nothing-cmf-watch-3-pro--light-green-400.webp",
+        "large": "/images/catalog/nothing-cmf-watch-3-pro--light-green-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "CMF by Nothing Watch 3 Pro in Light Green, front view, official Nothing product image"
+       }
+      },
+      {
+       "label": "Orange",
+       "image": {
+        "small": "/images/catalog/nothing-cmf-watch-3-pro--orange-400.webp",
+        "large": "/images/catalog/nothing-cmf-watch-3-pro--orange-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "CMF by Nothing Watch 3 Pro in Orange, front view, official Nothing product image"
+       }
+      },
+      {
+       "label": "Dark Grey",
+       "image": {
+        "small": "/images/catalog/nothing-cmf-watch-3-pro--dark-grey-400.webp",
+        "large": "/images/catalog/nothing-cmf-watch-3-pro--dark-grey-800.webp",
+        "width": 800,
+        "height": 800,
+        "alt": "CMF by Nothing Watch 3 Pro in Dark Grey, front view, official Nothing product image"
+       }
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

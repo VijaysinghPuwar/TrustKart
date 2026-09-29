@@ -1,0 +1,2481 @@
+{
+ "meta": {
+  "notes": "Camera accessories (tripods, gimbals, video lights, bags, filters, batteries & chargers, cages, card readers, straps) from Peak Design, Manfrotto, Gitzo, SmallRig, DJI, ZHIYUN, Aputure/amaran, Nanlite, Godox, Think Tank, Lowepro, Shimoda, PolarPro, Freewell, JOBY, Sony, Canon, Nikon, GoPro, SanDisk, ProGrade Digital and Lexar. Researched 2026-09-28 from official manufacturer sites/stores (Shopify product JSON where available). Price = manufacturer US store price at research time; where the store shows a struck-through price, that is recorded as compareAt. Think Tank lists prices ending in .75 on its own store."
+ },
+ "products": [
+  {
+   "sku": "TK-ZHIYUN-WEEBILL5",
+   "slug": "zhiyun-weebill-5",
+   "name": "ZHIYUN Weebill 5",
+   "brand": "ZHIYUN",
+   "category": "camera-accessories",
+   "price": "429.00",
+   "priceBasis": "msrp",
+   "priceSource": "https://store.zhiyun-tech.com/products/weebill-5",
+   "priceAsOf": "2026-09-28",
+   "priceNote": "ZHIYUN store price; listed as early-bird pre-order on 2026-09-28.",
+   "releaseYear": 2026,
+   "summary": "Lightweight 3-axis camera gimbal with a built-in telescoping sling handle, AI tracking module and 3 kg payload.",
+   "description": "The Weebill 5 builds a telescoping sling handle and an AI tracking module with gesture control into a lightweight 3-axis camera gimbal. ZHIYUN rates it for a 3 kg payload, with native vertical shooting, a 1.8-inch touchscreen and a dual-layer quick-release plate. It was on early-bird pre-order on the ZHIYUN store at research time.",
+   "keywords": "zhiyun weebill 5 gimbal stabilizer mirrorless camera ai tracking sling",
+   "specs": {
+    "accessoryType": "Gimbal",
+    "compatibility": "Mirrorless and compact camera rigs",
+    "maxLoadKg": 3,
+    "stabilization": "3-axis"
+   },
+   "variants": [
+    {
+     "label": "Standard",
+     "price": "429.00"
+    },
+    {
+     "label": "Combo",
+     "price": "529.00"
+    }
+   ],
+   "collections": [
+    "creator-workstations"
+   ],
+   "featured": true,
+   "warranty": 12,
+   "sources": {
+    "product": "https://store.zhiyun-tech.com/products/weebill-5",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0049/0101/1502/files/2000x2000_63be9fdf-58c7-418b-98f8-8db370a25d32.jpg?v=1788766116",
+    "page": "https://store.zhiyun-tech.com/products/weebill-5",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official ZHIYUN online store product image; ZHIYUN has not granted a reuse license — rights not verified.",
+    "alt": "ZHIYUN Weebill 5 camera gimbal on its mini tripod, front view with camera shown ghosted",
+    "match": "EXACT",
+    "credit": "ZHIYUN"
+   }
+  },
+  {
+   "sku": "TK-ZHIYUN-CRANE4",
+   "slug": "zhiyun-crane-4",
+   "name": "ZHIYUN Crane 4",
+   "brand": "ZHIYUN",
+   "category": "camera-accessories",
+   "price": "462.00",
+   "priceBasis": "msrp",
+   "priceSource": "https://store.zhiyun-tech.com/products/crane-4",
+   "priceAsOf": "2026-09-28",
+   "compareAt": "669.00",
+   "priceNote": "ZHIYUN store sale price; $669 list shown struck through.",
+   "releaseYear": 2023,
+   "summary": "Full-frame camera gimbal with 4.5 kg payload, 1.22-inch touchscreen and built-in dual-colour fill light.",
+   "description": "The Crane 4 is ZHIYUN's full-frame 3-axis camera stabilizer, rated for a 4.5 kg camera and lens payload. It adds a 1.22-inch touchscreen for on-set control, an ergonomic grip for long shoots and a built-in dual-colour fill light.",
+   "keywords": "zhiyun crane 4 full frame gimbal stabilizer cinema 4.5kg",
+   "specs": {
+    "accessoryType": "Gimbal",
+    "compatibility": "Full-frame camera and lens setups",
+    "maxLoadKg": 4.5,
+    "stabilization": "3-axis"
+   },
+   "variants": [
+    {
+     "label": "Standard",
+     "price": "462.00"
+    },
+    {
+     "label": "Combo",
+     "price": "569.00"
+    }
+   ],
+   "featured": false,
+   "warranty": 12,
+   "sources": {
+    "product": "https://store.zhiyun-tech.com/products/crane-4",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0049/0101/1502/files/CRNAE4.png?v=1783503923",
+    "page": "https://store.zhiyun-tech.com/products/crane-4",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official ZHIYUN online store product image; ZHIYUN has not granted a reuse license — rights not verified.",
+    "alt": "ZHIYUN Crane 4 full-frame gimbal with sling handle, three-quarter view with camera shown ghosted",
+    "match": "EXACT",
+    "credit": "ZHIYUN"
+   }
+  },
+  {
+   "sku": "TK-ZHIYUN-CRANEM3S",
+   "slug": "zhiyun-crane-m3s",
+   "name": "ZHIYUN Crane M3S",
+   "brand": "ZHIYUN",
+   "category": "camera-accessories",
+   "price": "299.00",
+   "priceBasis": "msrp",
+   "priceSource": "https://store.zhiyun-tech.com/products/crane-m3s",
+   "priceAsOf": "2026-09-28",
+   "releaseYear": 2023,
+   "summary": "Compact 3-axis gimbal for mirrorless cameras and phones with Bluetooth shutter control and a 1.22-inch touchscreen.",
+   "description": "The Crane M3S is a compact 3-axis gimbal with Bluetooth shutter control and a two-in-one quick-release plate. ZHIYUN lists a 7.5-hour battery and a 1.22-inch touchscreen.",
+   "keywords": "zhiyun crane m3s compact gimbal mirrorless vlog white",
+   "specs": {
+    "accessoryType": "Gimbal",
+    "compatibility": "Compact mirrorless cameras, action cameras and phones",
+    "stabilization": "3-axis",
+    "battery": "Up to 7.5 hours"
+   },
+   "variants": [
+    {
+     "label": "Standard",
+     "price": "299.00"
+    },
+    {
+     "label": "Combo",
+     "price": "359.00"
+    }
+   ],
+   "featured": false,
+   "warranty": 12,
+   "sources": {
+    "product": "https://store.zhiyun-tech.com/products/crane-m3s",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0049/0101/1502/files/Crane-M3S-1.png?v=1783503759",
+    "page": "https://store.zhiyun-tech.com/products/crane-m3s",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official ZHIYUN online store product image; ZHIYUN has not granted a reuse license — rights not verified.",
+    "alt": "ZHIYUN Crane M3S compact gimbal in white with a mirrorless camera shown ghosted, front three-quarter view",
+    "match": "EXACT",
+    "credit": "ZHIYUN"
+   }
+  },
+  {
+   "sku": "TK-ZHIYUN-SMOOTH5SAI",
+   "slug": "zhiyun-smooth-5s-ai",
+   "name": "ZHIYUN Smooth 5S AI",
+   "brand": "ZHIYUN",
+   "category": "camera-accessories",
+   "price": "135.00",
+   "priceBasis": "msrp",
+   "priceSource": "https://store.zhiyun-tech.com/products/zhiyun-smooth-5s-ai",
+   "priceAsOf": "2026-09-28",
+   "compareAt": "169.00",
+   "priceNote": "ZHIYUN store sale price; $169 list shown struck through.",
+   "releaseYear": 2024,
+   "summary": "Smartphone 3-axis gimbal with magnetic AI tracker, gesture control, built-in control panel and fill light.",
+   "description": "The Smooth 5S AI is a 3-axis smartphone gimbal with AI subject tracking and gesture control. It has a built-in control panel for shooting settings, a built-in fill light and magnetic expansion lights.",
+   "keywords": "zhiyun smooth 5s ai phone gimbal smartphone stabilizer tracking",
+   "specs": {
+    "accessoryType": "Gimbal",
+    "compatibility": "Smartphones",
+    "stabilization": "3-axis"
+   },
+   "variants": [
+    {
+     "label": "Standard",
+     "price": "135.00"
+    },
+    {
+     "label": "Combo",
+     "price": "175.00"
+    },
+    {
+     "label": "Pro",
+     "price": "199.00"
+    }
+   ],
+   "featured": false,
+   "warranty": 12,
+   "sources": {
+    "product": "https://store.zhiyun-tech.com/products/zhiyun-smooth-5s-ai",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0049/0101/1502/files/5SAI-2.png?v=1783504826",
+    "page": "https://store.zhiyun-tech.com/products/zhiyun-smooth-5s-ai",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official ZHIYUN online store product image; ZHIYUN has not granted a reuse license — rights not verified.",
+    "alt": "ZHIYUN Smooth 5S AI smartphone gimbal in black holding a phone, front view",
+    "match": "EXACT",
+    "credit": "ZHIYUN"
+   }
+  },
+  {
+   "sku": "TK-ZHIYUN-MOLUSX100RGB",
+   "slug": "zhiyun-molus-x100-rgb",
+   "name": "ZHIYUN MOLUS X100 RGB",
+   "brand": "ZHIYUN",
+   "category": "camera-accessories",
+   "price": "269.00",
+   "priceBasis": "msrp",
+   "priceSource": "https://store.zhiyun-tech.com/products/molus-x100-rgb",
+   "priceAsOf": "2026-09-28",
+   "releaseYear": 2025,
+   "summary": "100 W pocket-sized RGBWW COB video light (384 g) with CRI ≥95 / TLCI ≥97 and ZY + Bowens dual mount.",
+   "description": "The MOLUS X100 RGB packs 100 W of full-colour RGBWW output into a 384 g body. ZHIYUN quotes CRI ≥95 and TLCI ≥97, 36,000 colour options with app control, and a ZY + Bowens dual-mount system for modifiers.",
+   "keywords": "zhiyun molus x100 rgb cob video light 100w bowens portable",
+   "specs": {
+    "accessoryType": "Light",
+    "weightG": 384,
+    "mount": "ZY Mount + Bowens"
+   },
+   "variants": [
+    {
+     "label": "Standard",
+     "price": "269.00"
+    },
+    {
+     "label": "Pro",
+     "price": "449.00"
+    }
+   ],
+   "featured": false,
+   "warranty": 12,
+   "sources": {
+    "product": "https://store.zhiyun-tech.com/products/molus-x100-rgb",
+    "retrievedAt": "2026-09-28"
+   },
+   "colors": [
+    "Green",
+    "Black"
+   ],
+   "colorImages": {
+    "Green": {
+     "url": "https://cdn.shopify.com/s/files/1/0049/0101/1502/files/7_93842296-a8f3-4aa6-a593-a5a3f4fa49c8.jpg?v=1785499345",
+     "page": "https://store.zhiyun-tech.com/products/molus-x100-rgb",
+     "sourceType": "manufacturer-product-page",
+     "rights": "Official ZHIYUN online store product image; ZHIYUN has not granted a reuse license — rights not verified.",
+     "alt": "ZHIYUN MOLUS X100 RGB video light in Green, rear view showing the cooling fan and control screen",
+     "match": "EXACT",
+     "credit": "ZHIYUN"
+    },
+    "Black": {
+     "url": "https://cdn.shopify.com/s/files/1/0049/0101/1502/files/11_925217b2-daa6-4efb-9453-2fed3bfe4202.jpg?v=1785499358",
+     "page": "https://store.zhiyun-tech.com/products/molus-x100-rgb",
+     "sourceType": "manufacturer-product-page",
+     "rights": "Official ZHIYUN online store product image; ZHIYUN has not granted a reuse license — rights not verified.",
+     "alt": "ZHIYUN MOLUS X100 RGB video light in Black, rear view showing the cooling fan and control screen",
+     "match": "EXACT",
+     "credit": "ZHIYUN"
+    }
+   },
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0049/0101/1502/files/7_93842296-a8f3-4aa6-a593-a5a3f4fa49c8.jpg?v=1785499345",
+    "page": "https://store.zhiyun-tech.com/products/molus-x100-rgb",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official ZHIYUN online store product image; ZHIYUN has not granted a reuse license — rights not verified.",
+    "alt": "ZHIYUN MOLUS X100 RGB video light in Green, rear view showing the cooling fan and control screen",
+    "match": "EXACT",
+    "credit": "ZHIYUN"
+   }
+  },
+  {
+   "sku": "TK-ZHIYUN-FIVERAYM60ULTRA",
+   "slug": "zhiyun-fiveray-m60-ultra",
+   "name": "ZHIYUN FIVERAY M60 Ultra",
+   "brand": "ZHIYUN",
+   "category": "camera-accessories",
+   "price": "129.00",
+   "priceBasis": "msrp",
+   "priceSource": "https://store.zhiyun-tech.com/products/m60-ultra",
+   "priceAsOf": "2026-09-28",
+   "releaseYear": 2026,
+   "summary": "Palm-sized 60 W full-colour RGB pocket video light (430 g) with Bluetooth Mesh multi-light control.",
+   "description": "The FIVERAY M60 Ultra is a 430 g palm-sized LED video light with 60 W output and full-colour RGB effects. Bluetooth Mesh links multiple units so one light can control brightness and CCT across groups.",
+   "keywords": "zhiyun fiveray m60 ultra rgb pocket led light 60w",
+   "specs": {
+    "accessoryType": "Light",
+    "weightG": 430
+   },
+   "featured": false,
+   "warranty": 12,
+   "sources": {
+    "product": "https://store.zhiyun-tech.com/products/m60-ultra",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0049/0101/1502/files/6_50f6f954-1d5e-4ad7-81f8-40254f29d59b.jpg?v=1777522765",
+    "page": "https://store.zhiyun-tech.com/products/m60-ultra",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official ZHIYUN online store product image; ZHIYUN has not granted a reuse license — rights not verified.",
+    "alt": "ZHIYUN FIVERAY M60 Ultra pocket RGB video light, three-quarter view of the finned body and display",
+    "match": "EXACT",
+    "credit": "ZHIYUN"
+   }
+  },
+  {
+   "sku": "TK-ZHIYUN-MOLUSB300",
+   "slug": "zhiyun-molus-b300",
+   "name": "ZHIYUN MOLUS B300",
+   "brand": "ZHIYUN",
+   "category": "camera-accessories",
+   "price": "447.00",
+   "priceBasis": "msrp",
+   "priceSource": "https://store.zhiyun-tech.com/products/molus-b300",
+   "priceAsOf": "2026-09-28",
+   "compareAt": "539.00",
+   "priceNote": "ZHIYUN store sale price; $539 list shown struck through.",
+   "releaseYear": 2024,
+   "summary": "300 W bi-colour COB LED video light, 2700–6500K, CRI 95 / TLCI 97, with Bowens mount and app control.",
+   "description": "The MOLUS B300 is a 300 W bi-colour COB light with 2700–6500K CCT, 0–100% dimming and 63,200 lux at 1 m. It can be controlled from the ZY Vega app, on-device or with the optional K1 remote, and takes Bowens-mount modifiers.",
+   "keywords": "zhiyun molus b300 300w cob led video light bi-color bowens studio",
+   "specs": {
+    "accessoryType": "Light",
+    "mount": "Bowens",
+    "compatibility": "Bowens-mount modifiers; ZY Vega app; optional K1 wired remote"
+   },
+   "featured": false,
+   "warranty": 12,
+   "sources": {
+    "product": "https://store.zhiyun-tech.com/products/molus-b300",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0049/0101/1502/files/B300_0e096f03-49b1-486f-a715-02a491e16f74.jpg?v=1715244416",
+    "page": "https://store.zhiyun-tech.com/products/molus-b300",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official ZHIYUN online store product image; ZHIYUN has not granted a reuse license — rights not verified.",
+    "alt": "ZHIYUN MOLUS B300 COB LED light on its yoke, rear three-quarter view showing the cooling fan",
+    "match": "EXACT",
+    "credit": "ZHIYUN"
+   }
+  },
+  {
+   "sku": "TK-THINKTANK-DARKLIGHT20L",
+   "slug": "think-tank-darklight-20l",
+   "name": "Think Tank DarkLight 20L",
+   "brand": "Think Tank",
+   "category": "camera-accessories",
+   "price": "199.75",
+   "priceBasis": "msrp",
+   "priceSource": "https://www.thinktankphoto.com/products/darklight-20l",
+   "priceAsOf": "2026-09-28",
+   "releaseYear": 2025,
+   "summary": "Tactical-style 20 L camera backpack with laser-cut MOLLE panel, fits two bodies plus lenses and a 16-inch laptop.",
+   "description": "The DarkLight 20L is a tactical-style camera rucksack with a laser-cut MOLLE panel and webbing rails for Think Tank modular pouches. Think Tank says it holds two bodies with lenses attached and 2–3 lenses, has a back-panel sleeve for a 16-inch MacBook Pro and includes a rain cover.",
+   "keywords": "think tank darklight 20l camera backpack molle tactical",
+   "specs": {
+    "accessoryType": "Bag",
+    "capacity": "20 L",
+    "compatibility": "Two bodies with lenses + 2–3 lenses; 16-inch laptop"
+   },
+   "featured": false,
+   "warranty": 12,
+   "sources": {
+    "product": "https://www.thinktankphoto.com/products/darklight-20l",
+    "retrievedAt": "2026-09-28"
+   },
+   "colors": [
+    "Black",
+    "Montane Green"
+   ],
+   "colorImages": {
+    "Black": {
+     "url": "https://cdn.shopify.com/s/files/1/0532/0233/files/DarkLight-20L-Black-Hero-Left-Gear.jpg?v=1738086093",
+     "page": "https://www.thinktankphoto.com/products/darklight-20l",
+     "sourceType": "manufacturer-product-page",
+     "rights": "Official Think Tank online store product image; Think Tank has not granted a reuse license — rights not verified.",
+     "alt": "Think Tank DarkLight 20L camera backpack in Black, front three-quarter view beside two mirrorless cameras",
+     "match": "EXACT",
+     "credit": "Think Tank"
+    },
+    "Montane Green": {
+     "url": "https://cdn.shopify.com/s/files/1/0532/0233/files/DarkLight-20L-Montane-Green-Hero-Left-Gear.jpg?v=1738086093",
+     "page": "https://www.thinktankphoto.com/products/darklight-20l",
+     "sourceType": "manufacturer-product-page",
+     "rights": "Official Think Tank online store product image; Think Tank has not granted a reuse license — rights not verified.",
+     "alt": "Think Tank DarkLight 20L camera backpack in Montane Green, front three-quarter view beside two mirrorless cameras",
+     "match": "EXACT",
+     "credit": "Think Tank"
+    }
+   },
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0532/0233/files/DarkLight-20L-Black-Hero-Left-Gear.jpg?v=1738086093",
+    "page": "https://www.thinktankphoto.com/products/darklight-20l",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official Think Tank online store product image; Think Tank has not granted a reuse license — rights not verified.",
+    "alt": "Think Tank DarkLight 20L camera backpack in Black, front three-quarter view beside two mirrorless cameras",
+    "match": "EXACT",
+    "credit": "Think Tank"
+   }
+  },
+  {
+   "sku": "TK-THINKTANK-FOCUSPOINT22L",
+   "slug": "think-tank-focuspoint-rolltop-22l",
+   "name": "Think Tank FocusPoint Rolltop 22L",
+   "brand": "Think Tank",
+   "category": "camera-accessories",
+   "price": "235.75",
+   "priceBasis": "msrp",
+   "priceSource": "https://www.thinktankphoto.com/products/focuspoint-22l",
+   "priceAsOf": "2026-09-28",
+   "releaseYear": 2025,
+   "summary": "Roll-top camera backpack with side and back access, removable camera insert, laptop sleeve and 10 pockets.",
+   "description": "The FocusPoint Rolltop 22L gives rear-panel and side access to camera gear, with a fully removable insert so it can double as an everyday travel pack. A padded laptop sleeve and 10 interior and exterior pockets keep accessories organised.",
+   "keywords": "think tank focuspoint rolltop 22l camera backpack",
+   "specs": {
+    "accessoryType": "Bag",
+    "capacity": "22 L"
+   },
+   "featured": false,
+   "warranty": 12,
+   "sources": {
+    "product": "https://www.thinktankphoto.com/products/focuspoint-22l",
+    "retrievedAt": "2026-09-28"
+   },
+   "colors": [
+    "Asphalt Black",
+    "Greenway",
+    "Golden Hour",
+    "Urban Rust"
+   ],
+   "colorImages": {
+    "Asphalt Black": {
+     "url": "https://cdn.shopify.com/s/files/1/0532/0233/files/FocusPoint-22L-Hero-Right-Asphalt-Black_a84136da-529f-4f2c-9a50-87dfba49a249.jpg?v=1774885073",
+     "page": "https://www.thinktankphoto.com/products/focuspoint-22l",
+     "sourceType": "manufacturer-product-page",
+     "rights": "Official Think Tank online store product image; Think Tank has not granted a reuse license — rights not verified.",
+     "alt": "Think Tank FocusPoint Rolltop 22L backpack in Asphalt Black, front three-quarter view",
+     "match": "EXACT",
+     "credit": "Think Tank"
+    },
+    "Greenway": {
+     "url": "https://cdn.shopify.com/s/files/1/0532/0233/files/FocusPoint-22L-Hero-Right-Greenway_217d475f-8533-4895-bef0-a1cfe7cfd66b.jpg?v=1774885073",
+     "page": "https://www.thinktankphoto.com/products/focuspoint-22l",
+     "sourceType": "manufacturer-product-page",
+     "rights": "Official Think Tank online store product image; Think Tank has not granted a reuse license — rights not verified.",
+     "alt": "Think Tank FocusPoint Rolltop 22L backpack in Greenway, front three-quarter view",
+     "match": "EXACT",
+     "credit": "Think Tank"
+    },
+    "Golden Hour": {
+     "url": "https://cdn.shopify.com/s/files/1/0532/0233/files/FocusPoint-22L-Hero-Right-Golden-Hour_87685761-9118-4d0b-aa87-cd01a2d48fab.jpg?v=1774885073",
+     "page": "https://www.thinktankphoto.com/products/focuspoint-22l",
+     "sourceType": "manufacturer-product-page",
+     "rights": "Official Think Tank online store product image; Think Tank has not granted a reuse license — rights not verified.",
+     "alt": "Think Tank FocusPoint Rolltop 22L backpack in Golden Hour, front three-quarter view",
+     "match": "EXACT",
+     "credit": "Think Tank"
+    },
+    "Urban Rust": {
+     "url": "https://cdn.shopify.com/s/files/1/0532/0233/files/FocusPoint-22L-Hero-Right-Urban-Rust_cc27a35f-91c3-4736-84d9-c206d435f33f.jpg?v=1774885073",
+     "page": "https://www.thinktankphoto.com/products/focuspoint-22l",
+     "sourceType": "manufacturer-product-page",
+     "rights": "Official Think Tank online store product image; Think Tank has not granted a reuse license — rights not verified.",
+     "alt": "Think Tank FocusPoint Rolltop 22L backpack in Urban Rust, front three-quarter view",
+     "match": "EXACT",
+     "credit": "Think Tank"
+    }
+   },
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0532/0233/files/FocusPoint-22L-Hero-Right-Asphalt-Black_a84136da-529f-4f2c-9a50-87dfba49a249.jpg?v=1774885073",
+    "page": "https://www.thinktankphoto.com/products/focuspoint-22l",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official Think Tank online store product image; Think Tank has not granted a reuse license — rights not verified.",
+    "alt": "Think Tank FocusPoint Rolltop 22L backpack in Asphalt Black, front three-quarter view",
+    "match": "EXACT",
+    "credit": "Think Tank"
+   }
+  },
+  {
+   "sku": "TK-THINKTANK-AIRPORTESS26L",
+   "slug": "think-tank-airport-essentials-26l",
+   "name": "Think Tank Airport Essentials 26L",
+   "brand": "Think Tank",
+   "category": "camera-accessories",
+   "price": "275.75",
+   "priceBasis": "msrp",
+   "priceSource": "https://www.thinktankphoto.com/products/airport-essentials-26l",
+   "priceAsOf": "2026-09-28",
+   "releaseYear": 2026,
+   "summary": "Compact 26 L carry-on camera backpack sized for regional flights; fits bodies plus 3–5 lenses including a 300mm f/2.8.",
+   "description": "The new Airport Essentials 26L is optimised for regional flights and smaller aircraft. Think Tank says it fits standard-size bodies plus 3–5 lenses, including a 300mm f/2.8 attached, and this version adds a full-width divider to split gear and personal items.",
+   "keywords": "think tank airport essentials 26l carry on camera backpack travel",
+   "specs": {
+    "accessoryType": "Bag",
+    "capacity": "26 L",
+    "compatibility": "Standard bodies + 3–5 lenses (fits 300mm f/2.8 attached)"
+   },
+   "featured": false,
+   "warranty": 12,
+   "sources": {
+    "product": "https://www.thinktankphoto.com/products/airport-essentials-26l",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0532/0233/files/0008_Airport-Essentials-26L-Hero-Left.jpg?v=1778008225",
+    "page": "https://www.thinktankphoto.com/products/airport-essentials-26l",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official Think Tank online store product image; Think Tank has not granted a reuse license — rights not verified.",
+    "alt": "Think Tank Airport Essentials 26L camera backpack in black, front three-quarter view",
+    "match": "EXACT",
+    "credit": "Think Tank"
+   }
+  },
+  {
+   "sku": "TK-THINKTANK-TURNSTYLE8L",
+   "slug": "think-tank-turnstyle-8l",
+   "name": "Think Tank TurnStyle 8L",
+   "brand": "Think Tank",
+   "category": "camera-accessories",
+   "price": "109.75",
+   "priceBasis": "msrp",
+   "priceSource": "https://www.thinktankphoto.com/products/turnstyle-8l",
+   "priceAsOf": "2026-09-28",
+   "releaseYear": 2026,
+   "summary": "Lightweight 8 L camera sling that swings to the front for fast access; fits one ungripped body and 2–3 lenses.",
+   "description": "The TurnStyle 8L sling rotates to the front in seconds for quick camera access. It fits one ungripped body and 2–3 lenses, holds an iPad mini, and adds a water bottle pocket, grab handles and a stabilizer strap; materials are bluesign-certified, recycled and PFAS-free.",
+   "keywords": "think tank turnstyle 8l camera sling bag",
+   "specs": {
+    "accessoryType": "Bag",
+    "capacity": "8 L",
+    "compatibility": "1 ungripped body + 2–3 lenses; iPad mini"
+   },
+   "featured": false,
+   "warranty": 12,
+   "sources": {
+    "product": "https://www.thinktankphoto.com/products/turnstyle-8l",
+    "retrievedAt": "2026-09-28"
+   },
+   "colors": [
+    "Asphalt Black",
+    "Urban Rust",
+    "Golden Hour",
+    "Greenway"
+   ],
+   "colorImages": {
+    "Asphalt Black": {
+     "url": "https://cdn.shopify.com/s/files/1/0532/0233/files/TurnStyle-8L-Asphalt-Black-Hero-Left.jpg?v=1778612345",
+     "page": "https://www.thinktankphoto.com/products/turnstyle-8l",
+     "sourceType": "manufacturer-product-page",
+     "rights": "Official Think Tank online store product image; Think Tank has not granted a reuse license — rights not verified.",
+     "alt": "Think Tank TurnStyle 8L sling bag in Asphalt Black, front three-quarter view",
+     "match": "EXACT",
+     "credit": "Think Tank"
+    },
+    "Urban Rust": {
+     "url": "https://cdn.shopify.com/s/files/1/0532/0233/files/TurnStyle-8L-Urban-Rust-Hero-Left.jpg?v=1778612313",
+     "page": "https://www.thinktankphoto.com/products/turnstyle-8l",
+     "sourceType": "manufacturer-product-page",
+     "rights": "Official Think Tank online store product image; Think Tank has not granted a reuse license — rights not verified.",
+     "alt": "Think Tank TurnStyle 8L sling bag in Urban Rust, front three-quarter view",
+     "match": "EXACT",
+     "credit": "Think Tank"
+    },
+    "Golden Hour": {
+     "url": "https://cdn.shopify.com/s/files/1/0532/0233/files/TurnStyle-8L-Golden-Hour-Hero-Left.jpg?v=1778612330",
+     "page": "https://www.thinktankphoto.com/products/turnstyle-8l",
+     "sourceType": "manufacturer-product-page",
+     "rights": "Official Think Tank online store product image; Think Tank has not granted a reuse license — rights not verified.",
+     "alt": "Think Tank TurnStyle 8L sling bag in Golden Hour, front three-quarter view",
+     "match": "EXACT",
+     "credit": "Think Tank"
+    },
+    "Greenway": {
+     "url": "https://cdn.shopify.com/s/files/1/0532/0233/files/TurnStyle-8L-Greenway-Hero-Left.jpg?v=1778612322",
+     "page": "https://www.thinktankphoto.com/products/turnstyle-8l",
+     "sourceType": "manufacturer-product-page",
+     "rights": "Official Think Tank online store product image; Think Tank has not granted a reuse license — rights not verified.",
+     "alt": "Think Tank TurnStyle 8L sling bag in Greenway, front three-quarter view",
+     "match": "EXACT",
+     "credit": "Think Tank"
+    }
+   },
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0532/0233/files/TurnStyle-8L-Asphalt-Black-Hero-Left.jpg?v=1778612345",
+    "page": "https://www.thinktankphoto.com/products/turnstyle-8l",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official Think Tank online store product image; Think Tank has not granted a reuse license — rights not verified.",
+    "alt": "Think Tank TurnStyle 8L sling bag in Asphalt Black, front three-quarter view",
+    "match": "EXACT",
+    "credit": "Think Tank"
+   }
+  },
+  {
+   "sku": "TK-THINKTANK-PHOTOCROSS11L",
+   "slug": "think-tank-photocross-11l",
+   "name": "Think Tank PhotoCross 11L",
+   "brand": "Think Tank",
+   "category": "camera-accessories",
+   "price": "159.75",
+   "priceBasis": "msrp",
+   "priceSource": "https://www.thinktankphoto.com/products/photocross-11l",
+   "priceAsOf": "2026-09-28",
+   "releaseYear": 2026,
+   "summary": "Weather-resistant outdoor camera sling (V2) with side-access panel; fits one body with lens plus 2–4 lenses.",
+   "description": "The PhotoCross Sling V2 has a side-access panel so the bag can be rotated to the front without taking it off. It fits one standard body with a lens attached plus 2–4 more lenses, and uses Cordura and ripstop nylon with YKK AquaGuard zippers.",
+   "keywords": "think tank photocross 11l sling outdoor camera bag v2",
+   "specs": {
+    "accessoryType": "Bag",
+    "capacity": "11 L",
+    "compatibility": "1 body with lens + 2–4 lenses"
+   },
+   "featured": false,
+   "warranty": 12,
+   "sources": {
+    "product": "https://www.thinktankphoto.com/products/photocross-11l",
+    "retrievedAt": "2026-09-28"
+   },
+   "colors": [
+    "Basalt Black",
+    "Desert Sage"
+   ],
+   "colorImages": {
+    "Basalt Black": {
+     "url": "https://cdn.shopify.com/s/files/1/0532/0233/files/PhotoCross-11L-V2-Black-Hero-Left.jpg?v=1769552518",
+     "page": "https://www.thinktankphoto.com/products/photocross-11l",
+     "sourceType": "manufacturer-product-page",
+     "rights": "Official Think Tank online store product image; Think Tank has not granted a reuse license — rights not verified.",
+     "alt": "Think Tank PhotoCross 11L sling in Basalt Black, front three-quarter view",
+     "match": "EXACT",
+     "credit": "Think Tank"
+    },
+    "Desert Sage": {
+     "url": "https://cdn.shopify.com/s/files/1/0532/0233/files/PhotoCross-11L-V2-Green-Hero-Left.jpg?v=1769552518",
+     "page": "https://www.thinktankphoto.com/products/photocross-11l",
+     "sourceType": "manufacturer-product-page",
+     "rights": "Official Think Tank online store product image; Think Tank has not granted a reuse license — rights not verified.",
+     "alt": "Think Tank PhotoCross 11L sling in Desert Sage, front three-quarter view",
+     "match": "EXACT",
+     "credit": "Think Tank"
+    }
+   },
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0532/0233/files/PhotoCross-11L-V2-Black-Hero-Left.jpg?v=1769552518",
+    "page": "https://www.thinktankphoto.com/products/photocross-11l",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official Think Tank online store product image; Think Tank has not granted a reuse license — rights not verified.",
+    "alt": "Think Tank PhotoCross 11L sling in Basalt Black, front three-quarter view",
+    "match": "EXACT",
+    "credit": "Think Tank"
+   }
+  },
+  {
+   "sku": "TK-JOBY-GORILLAPOD1KGEN2",
+   "slug": "joby-gorillapod-1k-gen-2",
+   "name": "JOBY GorillaPod 1K Gen 2 Tripod",
+   "brand": "JOBY",
+   "category": "camera-accessories",
+   "price": "43.99",
+   "priceBasis": "msrp",
+   "priceSource": "https://www.joby.com/products/gorillapod-1k-2-tripod",
+   "priceAsOf": "2026-09-28",
+   "compareAt": "49.99",
+   "priceNote": "JOBY store sale price; $49.99 list shown struck through.",
+   "releaseYear": 2026,
+   "summary": "Flexible GorillaPod tripod with 360° ball head, cold-shoe slot and dual mount (1/4\" thread + magnetic phone mount); 1 kg load.",
+   "description": "GorillaPod 1K Gen 2 updates the flexible-leg tripod with a cold shoe slot and a dual-mount system that holds a 1/4-inch camera thread and a magnetic phone mount at the same time. JOBY lists a 315 g weight and a 1 kg load capacity.",
+   "keywords": "joby gorillapod 1k gen 2 flexible tripod magnetic phone mount",
+   "specs": {
+    "accessoryType": "Tripod",
+    "maxLoadKg": 1,
+    "weightG": 315,
+    "mount": "1/4-inch thread + magnetic phone mount",
+    "compatibility": "Compact cameras and phones"
+   },
+   "featured": false,
+   "warranty": 12,
+   "sources": {
+    "product": "https://www.joby.com/products/gorillapod-1k-2-tripod",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0987/6137/6034/files/7_fc2b6e5b-a97c-40be-a7ff-a9b1464db510.png?v=1787911357",
+    "page": "https://www.joby.com/products/gorillapod-1k-2-tripod",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official JOBY online store product image; JOBY has not granted a reuse license — rights not verified.",
+    "alt": "JOBY GorillaPod 1K Gen 2 flexible tripod with ball head, front view",
+    "match": "EXACT",
+    "credit": "JOBY"
+   }
+  },
+  {
+   "sku": "TK-JOBY-TELEPODMINI",
+   "slug": "joby-telepod-mini",
+   "name": "JOBY TelePod Mini Tripod",
+   "brand": "JOBY",
+   "category": "camera-accessories",
+   "price": "79.99",
+   "priceBasis": "msrp",
+   "priceSource": "https://www.joby.com/products/telepod-mini-tripod",
+   "priceAsOf": "2026-09-28",
+   "releaseYear": 2026,
+   "summary": "Pocket-size 6-section telescoping tripod/grip with dual cold shoes, 5600K fill light and wireless remote.",
+   "description": "TelePod Mini packs a 6-section telescoping pole, dual cold-shoe mounts, a 5600K fill light and a wireless remote into a palm-sized package. It extends to 375 mm, weighs 135 g and has a 500 g safe load.",
+   "keywords": "joby telepod mini tripod selfie stick phone grip fill light remote",
+   "specs": {
+    "accessoryType": "Tripod",
+    "maxLoadKg": 0.5,
+    "weightG": 135,
+    "compatibility": "Phones (70–100 mm clamp) and small cameras"
+   },
+   "featured": false,
+   "warranty": 24,
+   "sources": {
+    "product": "https://www.joby.com/products/telepod-mini-tripod",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0987/6137/6034/files/TelePodMini_4_10000_2048px.jpg?v=1780083660",
+    "page": "https://www.joby.com/products/telepod-mini-tripod",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official JOBY online store product image; JOBY has not granted a reuse license — rights not verified.",
+    "alt": "JOBY TelePod Mini in tripod mode with fill light and phone clamp, front three-quarter view",
+    "match": "EXACT",
+    "credit": "JOBY"
+   }
+  },
+  {
+   "sku": "TK-JOBY-COMPACTLITE",
+   "slug": "joby-compact-lite-tripod-kit",
+   "name": "JOBY Compact Lite Tripod Kit",
+   "brand": "JOBY",
+   "category": "camera-accessories",
+   "price": "69.99",
+   "priceBasis": "msrp",
+   "priceSource": "https://www.joby.com/products/compact-lite-tripod-kit",
+   "priceAsOf": "2026-09-28",
+   "releaseYear": 2026,
+   "summary": "Travel tripod with 2-way pan/tilt head, invertible center column and 23 mm flip-lock legs; 1.13 kg, extends to 144 cm.",
+   "description": "JOBY Compact Lite pairs a dedicated 2-way pan/tilt head with 4-section 23 mm flip-lock legs and a toolless invertible center column for low-angle shots. It weighs about 1.13 kg, folds to 48 cm, extends to 144 cm and is rated 2.5 kg on the head.",
+   "keywords": "joby compact lite travel tripod kit pan tilt video",
+   "specs": {
+    "accessoryType": "Tripod",
+    "maxLoadKg": 2.5,
+    "weightG": 1130,
+    "compatibility": "Mirrorless cameras and phones"
+   },
+   "featured": false,
+   "warranty": 12,
+   "sources": {
+    "product": "https://www.joby.com/products/compact-lite-tripod-kit",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0987/6137/6034/files/10_e688386d-2e6b-4a81-93d1-0b6f1786bd83.png?v=1790129616",
+    "page": "https://www.joby.com/products/compact-lite-tripod-kit",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official JOBY online store product image; JOBY has not granted a reuse license — rights not verified.",
+    "alt": "JOBY Compact Lite tripod with red-accented legs and pan/tilt head, extended, front view",
+    "match": "EXACT",
+    "credit": "JOBY"
+   }
+  },
+  {
+   "sku": "TK-APUTURE-STORM80C",
+   "slug": "aputure-storm-80c",
+   "name": "Aputure STORM 80c",
+   "brand": "Aputure",
+   "category": "camera-accessories",
+   "price": "599.00",
+   "priceBasis": "msrp",
+   "priceSource": "https://www.aputure.com/products/storm-80c",
+   "priceAsOf": "2026-09-28",
+   "releaseYear": 2024,
+   "summary": "80 W tunable-colour compact point-source COB light with Mini ProLock Bowens mount, 1,800–20,000K CCT and CRI 97+.",
+   "description": "The STORM 80c is an 80 W tunable-colour compact point-source lamp with a Mini ProLock Bowens mount. Aputure quotes CRI 97+, a 1,800–20,000K CCT range with full +/- green adjustment, and a 100 W USB-C input so it can run from power banks.",
+   "keywords": "aputure storm 80c rgb cob light compact point source bowens usb-c",
+   "specs": {
+    "accessoryType": "Light",
+    "mount": "Mini ProLock Bowens",
+    "battery": "100W USB-C PD input (power bank capable)"
+   },
+   "collections": [
+    "creator-workstations"
+   ],
+   "featured": true,
+   "warranty": 12,
+   "sources": {
+    "product": "https://www.aputure.com/products/storm-80c",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/1343/1935/files/06.png?v=1774509842",
+    "page": "https://www.aputure.com/products/storm-80c",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official Aputure online store product image; Aputure has not granted a reuse license — rights not verified.",
+    "alt": "Aputure STORM 80c compact COB light with reflector on a stand, side three-quarter view",
+    "match": "EXACT",
+    "credit": "Aputure"
+   }
+  },
+  {
+   "sku": "TK-APUTURE-STORM400X",
+   "slug": "aputure-storm-400x",
+   "name": "Aputure STORM 400x",
+   "brand": "Aputure",
+   "category": "camera-accessories",
+   "price": "1059.00",
+   "priceBasis": "msrp",
+   "priceSource": "https://www.aputure.com/products/storm-400x",
+   "priceAsOf": "2026-09-28",
+   "releaseYear": 2025,
+   "summary": "400 W tunable-white high-fidelity point-source COB light with ProLock Bowens mount; V-Mount or Gold Mount.",
+   "description": "The STORM 400x is a 400 W tunable-white, high-fidelity point-source lamp with Aputure's ProLock locking Bowens mount. Paired with the CF7 Fresnel it reaches over 23,000 lux at 3 m; it is offered with V-Mount or Gold Mount battery plates.",
+   "keywords": "aputure storm 400x cob light 400w bowens bi-color film",
+   "specs": {
+    "accessoryType": "Light",
+    "mount": "ProLock Bowens",
+    "battery": "V-Mount or Gold Mount battery plate"
+   },
+   "variants": [
+    {
+     "label": "V-Mount",
+     "price": "1059.00"
+    },
+    {
+     "label": "Gold Mount",
+     "price": "1059.00"
+    }
+   ],
+   "featured": false,
+   "warranty": 12,
+   "sources": {
+    "product": "https://www.aputure.com/products/storm-400x",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/1343/1935/files/STORM_400x-4_850c8b9e-a631-49bc-8905-ca53e8b6b3c2.png?v=1770728510",
+    "page": "https://www.aputure.com/products/storm-400x",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official Aputure online store product image; Aputure has not granted a reuse license — rights not verified.",
+    "alt": "Aputure STORM 400x COB light head with reflector on its yoke, front three-quarter view",
+    "match": "EXACT",
+    "credit": "Aputure"
+   }
+  },
+  {
+   "sku": "TK-APUTURE-MCPRO",
+   "slug": "aputure-mc-pro",
+   "name": "Aputure MC Pro",
+   "brand": "Aputure",
+   "category": "camera-accessories",
+   "price": "199.00",
+   "priceBasis": "msrp",
+   "priceSource": "https://www.aputure.com/products/mc-pro",
+   "priceAsOf": "2026-09-28",
+   "releaseYear": 2023,
+   "summary": "Lensed tunable-colour mini RGBWW panel light for on-camera, practical and accent lighting.",
+   "description": "The MC Pro is Aputure's lensed, tunable-colour mini panel light. It mounts anywhere with built-in neodymium magnets, baby-pin and articulating-arm adapters, runs from a built-in battery, and adds IP65 weather resistance and CRMX control.",
+   "keywords": "aputure mc pro rgb mini panel light on camera",
+   "specs": {
+    "accessoryType": "Light",
+    "battery": "Built-in battery",
+    "compatibility": "Magnetic, baby-pin and articulating-arm mounting; IP65; CRMX"
+   },
+   "featured": false,
+   "warranty": 12,
+   "sources": {
+    "product": "https://www.aputure.com/products/mc-pro",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/1343/1935/files/MCPro-4.png?v=1774336376",
+    "page": "https://www.aputure.com/products/mc-pro",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official Aputure online store product image; Aputure has not granted a reuse license — rights not verified.",
+    "alt": "Aputure MC Pro mini LED panel light, front three-quarter view of the lensed LED array",
+    "match": "EXACT",
+    "credit": "Aputure"
+   }
+  },
+  {
+   "sku": "TK-APUTURE-LS60X",
+   "slug": "aputure-ls-60x",
+   "name": "Aputure LS 60x",
+   "brand": "Aputure",
+   "category": "camera-accessories",
+   "price": "419.00",
+   "priceBasis": "msrp",
+   "priceSource": "https://www.aputure.com/products/ls-60x",
+   "priceAsOf": "2026-09-28",
+   "releaseYear": 2021,
+   "summary": "60 W expanded bi-colour focusing LED fixture with 15–45° zoom, CRI/TLCI 95+ and weather resistance.",
+   "description": "The LS 60x is a 60 W expanded bi-colour focusing LED fixture. With Aputure's aspherical optics it outputs 30,000+ lux in full spot or 5,200+ lux in flood at 5600K, with CRI/TLCI scores of 95+. It ships with 8-leaf barn doors, a Bowens mount adapter and AC and D-Tap power options.",
+   "keywords": "aputure light storm ls 60x bi-color focusing led 60w",
+   "specs": {
+    "accessoryType": "Light",
+    "compatibility": "AC power or D-Tap battery via yoke V-Mount receiver; Bowens adapter included"
+   },
+   "featured": false,
+   "warranty": 12,
+   "sources": {
+    "product": "https://www.aputure.com/products/ls-60x",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/1343/1935/files/LS60x-_2.png?v=1774402526",
+    "page": "https://www.aputure.com/products/ls-60x",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official Aputure online store product image; Aputure has not granted a reuse license — rights not verified.",
+    "alt": "Aputure LS 60x focusing LED light with barn doors on its yoke, front three-quarter view",
+    "match": "EXACT",
+    "credit": "Aputure"
+   }
+  },
+  {
+   "sku": "TK-POLARPRO-CHROMAVNDPL",
+   "slug": "polarpro-chroma-vnd-pl",
+   "name": "PolarPro Chroma VND/PL Filter",
+   "brand": "PolarPro",
+   "category": "camera-accessories",
+   "price": "179.99",
+   "priceBasis": "msrp",
+   "priceSource": "https://www.polarpro.com/products/chroma-vndpl-filter",
+   "priceAsOf": "2026-09-28",
+   "releaseYear": 2024,
+   "summary": "Peter McKinnon signature filter combining a variable ND and an independently rotating polarizer, with Chroma glass.",
+   "description": "The Chroma VND/PL combines polarization and variable ND in one filter, with a bi-rotational design that controls polarization independently of the VND setting. It uses PolarPro's Chroma glass and a 16-layer anti-scratch, anti-reflective, anti-fingerprint coating, and comes in 2–5 or 6–9 stop versions plus Black Mist and Gold Mist options.",
+   "keywords": "polarpro chroma vnd pl variable nd polarizer peter mckinnon filter",
+   "specs": {
+    "accessoryType": "Filter",
+    "compatibility": "49, 67, 77, 82 mm and 95 mm (coarse) threads",
+    "capacity": "2–5 or 6–9 stops"
+   },
+   "variants": [
+    {
+     "label": "2-5 Stop 49mm",
+     "price": "179.99"
+    },
+    {
+     "label": "2-5 Stop 67mm",
+     "price": "249.99"
+    },
+    {
+     "label": "2-5 Stop 77mm",
+     "price": "269.99"
+    },
+    {
+     "label": "2-5 Stop 82mm",
+     "price": "289.99"
+    },
+    {
+     "label": "2-5 Stop 95mm (coarse)",
+     "price": "329.99"
+    },
+    {
+     "label": "6-9 Stop 67mm",
+     "price": "249.99"
+    },
+    {
+     "label": "2-5 Stop Black Mist 77mm",
+     "price": "269.99"
+    },
+    {
+     "label": "2-5 Stop Gold Mist 77mm",
+     "price": "269.99"
+    }
+   ],
+   "featured": true,
+   "warranty": 12,
+   "sources": {
+    "product": "https://www.polarpro.com/products/chroma-vndpl-filter",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/1050/9944/files/VNDPL2-5.81.jpg?v=1742427406",
+    "page": "https://www.polarpro.com/products/chroma-vndpl-filter",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official PolarPro online store product image; PolarPro has not granted a reuse license — rights not verified.",
+    "alt": "PolarPro Chroma VND/PL 2-5 stop threaded filter with brass frame, angled front view",
+    "match": "EXACT",
+    "credit": "PolarPro"
+   }
+  },
+  {
+   "sku": "TK-POLARPRO-HELIXMCKINNON",
+   "slug": "polarpro-helix-maglock-mckinnon",
+   "name": "PolarPro Helix MagLock McKinnon VND 2-5",
+   "brand": "PolarPro",
+   "category": "camera-accessories",
+   "price": "299.99",
+   "priceBasis": "msrp",
+   "priceSource": "https://www.polarpro.com/products/helix-mckinnon",
+   "priceAsOf": "2026-09-28",
+   "releaseYear": 2023,
+   "summary": "Magnetic quarter-turn locking VND 2–5 filter from the Helix MagLock system with brass frames and Defender caps.",
+   "description": "Helix MagLock filters bind to a thread base with magnets and then lock with a quarter turn, so they never need to be threaded on and off. PolarPro quotes no vignetting down to 17 mm with one filter, brass frames and thread bases, and front and back Defender caps; base plates come in 67, 72, 77 and 82 mm.",
+   "keywords": "polarpro helix maglock mckinnon vnd magnetic filter",
+   "specs": {
+    "accessoryType": "Filter",
+    "compatibility": "Helix MagLock base plates (67, 72, 77, 82 mm)",
+    "capacity": "2–5 stops"
+   },
+   "variants": [
+    {
+     "label": "VND 2-5 Filter",
+     "price": "299.99"
+    },
+    {
+     "label": "VND 6-9 Filter",
+     "price": "299.99"
+    },
+    {
+     "label": "VND 2-5 Kit",
+     "price": "329.99"
+    },
+    {
+     "label": "Mist 1/4 Filter",
+     "price": "229.99"
+    }
+   ],
+   "featured": false,
+   "warranty": 12,
+   "sources": {
+    "product": "https://www.polarpro.com/products/helix-mckinnon",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/1050/9944/files/VND2-5.111.jpg?v=1746678371",
+    "page": "https://www.polarpro.com/products/helix-mckinnon",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official PolarPro online store product image; PolarPro has not granted a reuse license — rights not verified.",
+    "alt": "PolarPro Helix MagLock McKinnon VND 2-5 filter with Defender cap, angled exploded view",
+    "match": "EXACT",
+    "credit": "PolarPro"
+   }
+  },
+  {
+   "sku": "TK-POLARPRO-CPFILTER",
+   "slug": "polarpro-circular-polarizer-filter",
+   "name": "PolarPro Circular Polarizer Filter",
+   "brand": "PolarPro",
+   "category": "camera-accessories",
+   "price": "99.99",
+   "priceBasis": "msrp",
+   "priceSource": "https://www.polarpro.com/products/cp-filters",
+   "priceAsOf": "2026-09-28",
+   "releaseYear": 2021,
+   "summary": "Landscape circular polarizer with German Cinema Series glass, aluminium frame and 16 coating layers.",
+   "description": "PolarPro's Circular Polarizer darkens skies, removes reflections and reduces glare for landscape work. It uses Cinema Series glass made in Germany in an aluminium frame, with 16 anti-scratch, anti-oil and hydrophobic coating layers.",
+   "keywords": "polarpro circular polarizer cp filter landscape",
+   "specs": {
+    "accessoryType": "Filter",
+    "compatibility": "49, 67, 77, 82 and 95 mm threads"
+   },
+   "variants": [
+    {
+     "label": "49mm",
+     "price": "99.99"
+    },
+    {
+     "label": "67mm",
+     "price": "109.99"
+    },
+    {
+     "label": "77mm",
+     "price": "119.99"
+    },
+    {
+     "label": "82mm",
+     "price": "139.99"
+    },
+    {
+     "label": "95mm",
+     "price": "139.99"
+    }
+   ],
+   "featured": false,
+   "warranty": 12,
+   "sources": {
+    "product": "https://www.polarpro.com/products/cp-filters",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/1050/9944/files/CP.83.jpg?v=1742425242",
+    "page": "https://www.polarpro.com/products/cp-filters",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official PolarPro online store product image; PolarPro has not granted a reuse license — rights not verified.",
+    "alt": "PolarPro Circular Polarizer threaded filter with brass knurled frame, angled front view",
+    "match": "EXACT",
+    "credit": "PolarPro"
+   }
+  },
+  {
+   "sku": "TK-POLARPRO-SHORTSTACHE",
+   "slug": "polarpro-shortstache-filter",
+   "name": "PolarPro Shortstache Filter",
+   "brand": "PolarPro",
+   "category": "camera-accessories",
+   "price": "89.99",
+   "priceBasis": "msrp",
+   "priceSource": "https://www.polarpro.com/products/shortstache-filter",
+   "priceAsOf": "2026-09-28",
+   "releaseYear": 2024,
+   "summary": "Garrett King signature polarizer + black mist \"Everyday\" filter in a matte-green aluminium frame, 39–95 mm.",
+   "description": "Created with Garrett King (Shortstache), this filter combines a circular polarizer with black mist diffusion. The \"Everyday\" 1/4 version adds subtle highlight halation, while \"Mist + PL\" 1/2 gives a stylised vintage look; both use Chroma polarizer glass and a 16-layer coating.",
+   "keywords": "polarpro shortstache everyday filter polarizer black mist garrett king",
+   "specs": {
+    "accessoryType": "Filter",
+    "compatibility": "39–82 mm threads; 86 and 95 mm coarse"
+   },
+   "variants": [
+    {
+     "label": "Everyday 1/4 39–49mm",
+     "price": "89.99"
+    },
+    {
+     "label": "Everyday 1/4 52–67mm",
+     "price": "109.99"
+    },
+    {
+     "label": "Everyday 1/4 72–77mm",
+     "price": "129.99"
+    },
+    {
+     "label": "Everyday 1/4 82mm",
+     "price": "149.99"
+    },
+    {
+     "label": "Mist PL 1/2 67mm",
+     "price": "109.99"
+    },
+    {
+     "label": "2-Pack 67mm",
+     "price": "159.99"
+    }
+   ],
+   "featured": false,
+   "warranty": 12,
+   "sources": {
+    "product": "https://www.polarpro.com/products/shortstache-filter",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/1050/9944/files/EVERYDAY-V2-_perspective-correction_.84.jpg?v=1742425079",
+    "page": "https://www.polarpro.com/products/shortstache-filter",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official PolarPro online store product image; PolarPro has not granted a reuse license — rights not verified.",
+    "alt": "PolarPro Shortstache Everyday polarizer mist filter in a matte green frame, angled front view",
+    "match": "EXACT",
+    "credit": "PolarPro"
+   }
+  },
+  {
+   "sku": "TK-POLARPRO-MINIMAGLOCK",
+   "slug": "polarpro-mini-maglock-filters",
+   "name": "PolarPro Mini MagLock Filters",
+   "brand": "PolarPro",
+   "category": "camera-accessories",
+   "price": "199.99",
+   "priceBasis": "msrp",
+   "priceSource": "https://www.polarpro.com/products/mini-maglock-filters",
+   "priceAsOf": "2026-09-28",
+   "releaseYear": 2026,
+   "summary": "Magnetic quick-swap filters for the Leica Q3 and Fujifilm X100VI, each with an aluminium Defender cap.",
+   "description": "Mini MagLock filters are designed for the Leica Q3 and Fujifilm X100VI. Once a Mini MagLock base plate is installed, any Mini MagLock filter or hood can be swapped on quickly, and each filter includes an aluminium Defender cap.",
+   "keywords": "polarpro mini maglock filter leica q3 fuji x100vi magnetic cineblack",
+   "specs": {
+    "accessoryType": "Filter",
+    "compatibility": "Leica Q3, Fujifilm X100VI (Mini MagLock base plate required)"
+   },
+   "variants": [
+    {
+     "label": "CineBlack",
+     "price": "199.99"
+    },
+    {
+     "label": "CineGold",
+     "price": "199.99"
+    },
+    {
+     "label": "ShortStache Everyday",
+     "price": "199.99"
+    },
+    {
+     "label": "VND 2/5",
+     "price": "199.99"
+    },
+    {
+     "label": "VND 2/5 Polarizer",
+     "price": "199.99"
+    },
+    {
+     "label": "CP",
+     "price": "199.99"
+    }
+   ],
+   "featured": false,
+   "warranty": 12,
+   "sources": {
+    "product": "https://www.polarpro.com/products/mini-maglock-filters",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/1050/9944/files/mini-maglock-filters-cineblack-1.jpg?v=1785262212",
+    "page": "https://www.polarpro.com/products/mini-maglock-filters",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official PolarPro online store product image; PolarPro has not granted a reuse license — rights not verified.",
+    "alt": "PolarPro Mini MagLock CineBlack filter with Defender cap, angled view",
+    "match": "EXACT",
+    "credit": "PolarPro"
+   }
+  },
+  {
+   "sku": "TK-FREEWELL-REALLOCKVNDCPL",
+   "slug": "freewell-real-locking-vnd-cpl-3-7",
+   "name": "Freewell Real Locking VND/CPL 3-7 Stop Filter",
+   "brand": "Freewell",
+   "category": "camera-accessories",
+   "price": "150.00",
+   "priceBasis": "msrp",
+   "priceSource": "https://www.freewellgear.com/products/real-locking-vnd-cpl-3-7-stop",
+   "priceAsOf": "2026-09-28",
+   "releaseYear": 2026,
+   "summary": "Variable ND 3–7 stop filter with integrated CPL and Freewell's Real Locking quick-change mount.",
+   "description": "This filter adjusts from 3 to 7 stops with a single rotation and integrates a circular polarizer, so no second filter needs to be stacked. Freewell's Real Locking connection keeps it secure while allowing quick changes; the base ring and lens cap are sold separately.",
+   "keywords": "freewell real locking vnd cpl 3-7 stop variable nd filter",
+   "specs": {
+    "accessoryType": "Filter",
+    "compatibility": "Freewell Real Locking base ring (sold separately)",
+    "capacity": "3–7 stops"
+   },
+   "featured": false,
+   "warranty": 12,
+   "sources": {
+    "product": "https://www.freewellgear.com/products/real-locking-vnd-cpl-3-7-stop",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0922/3179/4963/files/real-locking-vndcpl-3-7-stop-filter-freewell-gear-9896054.jpg?v=1789888266",
+    "page": "https://www.freewellgear.com/products/real-locking-vnd-cpl-3-7-stop",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official Freewell online store product image; Freewell has not granted a reuse license — rights not verified.",
+    "alt": "Freewell Real Locking VND/CPL 3-7 stop filter with red locking tabs, angled view",
+    "match": "EXACT",
+    "credit": "Freewell"
+   }
+  },
+  {
+   "sku": "TK-FREEWELL-MAGVNDSYSTEM",
+   "slug": "freewell-magnetic-vnd-filter-system",
+   "name": "Freewell Magnetic Variable ND (VND) Filter System",
+   "brand": "Freewell",
+   "category": "camera-accessories",
+   "price": "399.99",
+   "priceBasis": "msrp",
+   "priceSource": "https://www.freewellgear.com/products/magnetic-variable-nd-vnd-filter-system",
+   "priceAsOf": "2026-09-28",
+   "releaseYear": 2025,
+   "summary": "Magnetic 82 mm filter system bundling VND 2–5, VND 6–9, CPL, ND32/CPL, VND mist and Glow Mist filters.",
+   "description": "Freewell's magnetic VND system combines VND2-5, VND6-9, CPL, ND32/CPL, VNDxMist 2-5 and 6-9 and Glow Mist filters. The optics are high-definition optical glass with 18-layer multicoating in CNC-machined metal frames with magnets.",
+   "keywords": "freewell magnetic vnd filter system 82mm kit",
+   "specs": {
+    "accessoryType": "Filter",
+    "compatibility": "82 mm thread"
+   },
+   "featured": false,
+   "warranty": 12,
+   "sources": {
+    "product": "https://www.freewellgear.com/products/magnetic-variable-nd-vnd-filter-system",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0922/3179/4963/files/magnetic-variable-nd-vnd-filter-system-67mm-freewell-gear-273234.jpg?v=1744548187",
+    "page": "https://www.freewellgear.com/products/magnetic-variable-nd-vnd-filter-system",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official Freewell online store product image; Freewell has not granted a reuse license — rights not verified.",
+    "alt": "Freewell Magnetic Variable ND filter system, stacked magnetic filters and cap, front view",
+    "match": "EXACT",
+    "credit": "Freewell"
+   }
+  },
+  {
+   "sku": "TK-FREEWELL-EIGERVNDSTARTER",
+   "slug": "freewell-eiger-matte-box-vnd-starter-kit",
+   "name": "Freewell Eiger Matte Box VND Starter Kit",
+   "brand": "Freewell",
+   "category": "camera-accessories",
+   "price": "469.99",
+   "priceBasis": "msrp",
+   "priceSource": "https://www.freewellgear.com/products/mattebox-variablend-starter",
+   "priceAsOf": "2026-09-28",
+   "compareAt": "549.99",
+   "priceNote": "Freewell store sale price; $549.99 list shown struck through.",
+   "releaseYear": 2025,
+   "summary": "Eiger matte box with carbon-fibre top flag plus True Color VND and Snow Mist filters, fits lenses up to 95 mm.",
+   "description": "The Eiger Matte Box VND Starter Kit pairs Freewell's matte box, with an adjustable carbon-fibre top flag and quick-release sunshade, with VND and Snow Mist 1/2 and 1/8 filters. It includes 67–82 mm adapters and accepts insert, magnetic and threaded filters.",
+   "keywords": "freewell eiger matte box vnd starter kit filmmaking",
+   "specs": {
+    "accessoryType": "Filter",
+    "compatibility": "Lenses up to 95 mm; 67–82 mm adapters included"
+   },
+   "featured": false,
+   "warranty": 12,
+   "sources": {
+    "product": "https://www.freewellgear.com/products/mattebox-variablend-starter",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0922/3179/4963/files/eiger-matte-box-vnd-starter-kit-freewell-gear-4697047.jpg?v=1781593027",
+    "page": "https://www.freewellgear.com/products/mattebox-variablend-starter",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official Freewell online store product image; Freewell has not granted a reuse license — rights not verified.",
+    "alt": "Freewell Eiger Matte Box VND Starter Kit: matte box with top flag and VND and mist filters, front view",
+    "match": "EXACT",
+    "credit": "Freewell"
+   }
+  },
+  {
+   "sku": "TK-PEAKDESIGN-TRAVELTRIPOD",
+   "slug": "peak-design-travel-tripod",
+   "name": "Peak Design Travel Tripod",
+   "brand": "Peak Design",
+   "category": "camera-accessories",
+   "price": "399.95",
+   "priceBasis": "msrp",
+   "priceSource": "https://www.peakdesign.com/products/travel-tripod",
+   "priceAsOf": "2026-09-28",
+   "priceNote": "Carbon Fiber version listed as sold out on 2026-09-28.",
+   "summary": "Professional travel tripod that packs down to the diameter of a water bottle; 9.1 kg capacity, aluminium or carbon fibre.",
+   "description": "Peak Design's Travel Tripod packs down to the diameter of a water bottle without compromising height, stability or features. It is rated for 9.1 kg (20 lb), optimised for full-frame setups, and weighs 1.56 kg in aluminium or 1.27 kg in carbon fibre.",
+   "keywords": "peak design travel tripod aluminum carbon fiber compact ball head",
+   "specs": {
+    "accessoryType": "Tripod",
+    "maxLoadKg": 9.1,
+    "weightG": 1560,
+    "compatibility": "Up to full-frame DSLR/mirrorless + telephoto"
+   },
+   "variants": [
+    {
+     "label": "Aluminum",
+     "price": "399.95"
+    },
+    {
+     "label": "Carbon Fiber",
+     "price": "599.95"
+    }
+   ],
+   "collections": [
+    "creator-workstations"
+   ],
+   "featured": true,
+   "warranty": 12,
+   "sources": {
+    "product": "https://www.peakdesign.com/products/travel-tripod",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/2986/1172/files/Tripod-Hero-Aluminum_b18688b2-387f-4aa5-9508-0c23fa69e0f8.jpg?v=1727455502",
+    "page": "https://www.peakdesign.com/products/travel-tripod",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official Peak Design online store product image; Peak Design has not granted a reuse license — rights not verified.",
+    "alt": "Peak Design Travel Tripod in aluminium, legs extended, front view",
+    "match": "EXACT",
+    "credit": "Peak Design"
+   }
+  },
+  {
+   "sku": "TK-PEAKDESIGN-SLIDE",
+   "slug": "peak-design-slide",
+   "name": "Peak Design Slide Camera Strap",
+   "brand": "Peak Design",
+   "category": "camera-accessories",
+   "price": "79.95",
+   "priceBasis": "msrp",
+   "priceSource": "https://www.peakdesign.com/products/slide",
+   "priceAsOf": "2026-09-28",
+   "priceNote": "Midnight, Sage and Ash shown at $71.96 sale price on 2026-09-28.",
+   "summary": "Flagship quick-connecting sling/neck/shoulder camera strap, 99–145 cm, with Anchor connectors rated over 90 kg.",
+   "description": "Slide is Peak Design's flagship camera strap: low-profile, adjustable and quick-connecting via Anchor links, each rated to hold well over 90 kg (200 lb). It adjusts from 99 to 145 cm, is 4.5 cm wide and weighs 148 g.",
+   "keywords": "peak design slide camera strap anchor links sling",
+   "specs": {
+    "accessoryType": "Strap",
+    "weightG": 148,
+    "compatibility": "Cameras with strap lugs or 1/4-20 via Anchor Mount"
+   },
+   "featured": false,
+   "warranty": 12,
+   "sources": {
+    "product": "https://www.peakdesign.com/products/slide",
+    "retrievedAt": "2026-09-28"
+   },
+   "colors": [
+    "Black",
+    "Coyote",
+    "Midnight",
+    "Sage",
+    "Ash",
+    "Eclipse",
+    "Kelp",
+    "Ocean"
+   ],
+   "colorImages": {
+    "Black": {
+     "url": "https://cdn.shopify.com/s/files/1/2986/1172/files/1-LIGHTBOX-1024x1024-SLIDE-BLACK-01_f863b671-b831-4552-891d-e7a69a66c489.jpg?v=1762275860",
+     "page": "https://www.peakdesign.com/products/slide",
+     "sourceType": "manufacturer-product-page",
+     "rights": "Official Peak Design online store product image; Peak Design has not granted a reuse license — rights not verified.",
+     "alt": "Peak Design Slide camera strap in Black, laid flat with Anchor links",
+     "match": "EXACT",
+     "credit": "Peak Design"
+    },
+    "Coyote": {
+     "url": "https://cdn.shopify.com/s/files/1/2986/1172/files/straps-slide-coyote-studio_b5c7914e-27da-4f81-bac7-07bce96195ea.jpg?v=1762275858",
+     "page": "https://www.peakdesign.com/products/slide",
+     "sourceType": "manufacturer-product-page",
+     "rights": "Official Peak Design online store product image; Peak Design has not granted a reuse license — rights not verified.",
+     "alt": "Peak Design Slide camera strap in Coyote, laid flat with Anchor links",
+     "match": "EXACT",
+     "credit": "Peak Design"
+    },
+    "Midnight": {
+     "url": "https://cdn.shopify.com/s/files/1/2986/1172/files/1-LIGHTBOX-1024x1024-SLIDE-MIDNIGHT-01_f574442c-54ae-4a4c-8670-39d53bbed061.jpg?v=1762275861",
+     "page": "https://www.peakdesign.com/products/slide",
+     "sourceType": "manufacturer-product-page",
+     "rights": "Official Peak Design online store product image; Peak Design has not granted a reuse license — rights not verified.",
+     "alt": "Peak Design Slide camera strap in Midnight, laid flat with Anchor links",
+     "match": "EXACT",
+     "credit": "Peak Design"
+    },
+    "Sage": {
+     "url": "https://cdn.shopify.com/s/files/1/2986/1172/files/1-LIGHTBOX-1024x1024-SLIDE-SAGE-01_e11061ab-2367-4215-a9d9-fb254cbc457b.jpg?v=1762275861",
+     "page": "https://www.peakdesign.com/products/slide",
+     "sourceType": "manufacturer-product-page",
+     "rights": "Official Peak Design online store product image; Peak Design has not granted a reuse license — rights not verified.",
+     "alt": "Peak Design Slide camera strap in Sage, laid flat with Anchor links",
+     "match": "EXACT",
+     "credit": "Peak Design"
+    },
+    "Ash": {
+     "url": "https://cdn.shopify.com/s/files/1/2986/1172/files/1-LIGHTBOX-1024x1024-SLIDE-ASH-01_5cf8c6c2-9477-44d9-a1b9-b3354d623295.jpg?v=1762275860",
+     "page": "https://www.peakdesign.com/products/slide",
+     "sourceType": "manufacturer-product-page",
+     "rights": "Official Peak Design online store product image; Peak Design has not granted a reuse license — rights not verified.",
+     "alt": "Peak Design Slide camera strap in Ash, laid flat with Anchor links",
+     "match": "EXACT",
+     "credit": "Peak Design"
+    },
+    "Eclipse": {
+     "url": "https://cdn.shopify.com/s/files/1/2986/1172/files/slide_eclipse.jpg?v=1754948122",
+     "page": "https://www.peakdesign.com/products/slide",
+     "sourceType": "manufacturer-product-page",
+     "rights": "Official Peak Design online store product image; Peak Design has not granted a reuse license — rights not verified.",
+     "alt": "Peak Design Slide camera strap in Eclipse, laid flat with Anchor links",
+     "match": "EXACT",
+     "credit": "Peak Design"
+    },
+    "Kelp": {
+     "url": "https://cdn.shopify.com/s/files/1/2986/1172/files/Slide_TopDown_Kelp_Anchors.jpg?v=1754948354",
+     "page": "https://www.peakdesign.com/products/slide",
+     "sourceType": "manufacturer-product-page",
+     "rights": "Official Peak Design online store product image; Peak Design has not granted a reuse license — rights not verified.",
+     "alt": "Peak Design Slide camera strap in Kelp, laid flat with Anchor links",
+     "match": "EXACT",
+     "credit": "Peak Design"
+    },
+    "Ocean": {
+     "url": "https://cdn.shopify.com/s/files/1/2986/1172/files/Slide_TopDown_Ocean_Anchors.jpg?v=1754948652",
+     "page": "https://www.peakdesign.com/products/slide",
+     "sourceType": "manufacturer-product-page",
+     "rights": "Official Peak Design online store product image; Peak Design has not granted a reuse license — rights not verified.",
+     "alt": "Peak Design Slide camera strap in Ocean, laid flat with Anchor links",
+     "match": "EXACT",
+     "credit": "Peak Design"
+    }
+   },
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/2986/1172/files/1-LIGHTBOX-1024x1024-SLIDE-BLACK-01_f863b671-b831-4552-891d-e7a69a66c489.jpg?v=1762275860",
+    "page": "https://www.peakdesign.com/products/slide",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official Peak Design online store product image; Peak Design has not granted a reuse license — rights not verified.",
+    "alt": "Peak Design Slide camera strap in Black, laid flat with Anchor links",
+    "match": "EXACT",
+    "credit": "Peak Design"
+   }
+  },
+  {
+   "sku": "TK-PEAKDESIGN-CAPTURE",
+   "slug": "peak-design-capture-clip",
+   "name": "Peak Design Capture Camera Clip",
+   "brand": "Peak Design",
+   "category": "camera-accessories",
+   "price": "79.95",
+   "priceBasis": "msrp",
+   "priceSource": "https://www.peakdesign.com/products/capture",
+   "priceAsOf": "2026-09-28",
+   "summary": "Aluminium camera clip that rigidly carries any camera on a backpack strap or belt; 84 g, rated well over 90 kg.",
+   "description": "Capture is a clip for rigidly carrying any camera on any belt, strap or bag; the camera slides in on its Arca-type Standard Plate and releases with a lockable quick-release button. It fits straps up to 6.4 cm wide, weighs 84 g with plate and is rated to withstand well over 90 kg.",
+   "keywords": "peak design capture clip camera backpack strap holster",
+   "specs": {
+    "accessoryType": "Camera clip",
+    "weightG": 84,
+    "compatibility": "Straps up to 6.4 cm wide; Peak Design / Arca-type plates",
+    "mount": "Arca-Swiss type Standard Plate"
+   },
+   "featured": false,
+   "warranty": 12,
+   "sources": {
+    "product": "https://www.peakdesign.com/products/capture",
+    "retrievedAt": "2026-09-28"
+   },
+   "colors": [
+    "Black",
+    "Silver",
+    "Eclipse",
+    "Kelp",
+    "Ocean"
+   ],
+   "colorImages": {
+    "Black": {
+     "url": "https://cdn.shopify.com/s/files/1/2986/1172/files/capture003_38124114342_o_copyb.jpg?v=1762275887",
+     "page": "https://www.peakdesign.com/products/capture",
+     "sourceType": "manufacturer-product-page",
+     "rights": "Official Peak Design online store product image; Peak Design has not granted a reuse license — rights not verified.",
+     "alt": "Peak Design Capture camera clip in Black with Standard Plate, front view",
+     "match": "EXACT",
+     "credit": "Peak Design"
+    },
+    "Silver": {
+     "url": "https://cdn.shopify.com/s/files/1/2986/1172/files/capture003_38124114342_o2.jpg?v=1762275887",
+     "page": "https://www.peakdesign.com/products/capture",
+     "sourceType": "manufacturer-product-page",
+     "rights": "Official Peak Design online store product image; Peak Design has not granted a reuse license — rights not verified.",
+     "alt": "Peak Design Capture camera clip in Silver with Standard Plate, front view",
+     "match": "EXACT",
+     "credit": "Peak Design"
+    },
+    "Eclipse": {
+     "url": "https://cdn.shopify.com/s/files/1/2986/1172/files/Capture_HeroClip_Eclipse_plate.jpg?v=1753737388",
+     "page": "https://www.peakdesign.com/products/capture",
+     "sourceType": "manufacturer-product-page",
+     "rights": "Official Peak Design online store product image; Peak Design has not granted a reuse license — rights not verified.",
+     "alt": "Peak Design Capture camera clip in Eclipse with Standard Plate, front view",
+     "match": "EXACT",
+     "credit": "Peak Design"
+    },
+    "Kelp": {
+     "url": "https://cdn.shopify.com/s/files/1/2986/1172/files/Capture_HeroClip_Kelp_plate.jpg?v=1753737760",
+     "page": "https://www.peakdesign.com/products/capture",
+     "sourceType": "manufacturer-product-page",
+     "rights": "Official Peak Design online store product image; Peak Design has not granted a reuse license — rights not verified.",
+     "alt": "Peak Design Capture camera clip in Kelp with Standard Plate, front view",
+     "match": "EXACT",
+     "credit": "Peak Design"
+    },
+    "Ocean": {
+     "url": "https://cdn.shopify.com/s/files/1/2986/1172/files/Capture_HeroClip_Ocean_plate.jpg?v=1753738088",
+     "page": "https://www.peakdesign.com/products/capture",
+     "sourceType": "manufacturer-product-page",
+     "rights": "Official Peak Design online store product image; Peak Design has not granted a reuse license — rights not verified.",
+     "alt": "Peak Design Capture camera clip in Ocean with Standard Plate, front view",
+     "match": "EXACT",
+     "credit": "Peak Design"
+    }
+   },
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/2986/1172/files/capture003_38124114342_o_copyb.jpg?v=1762275887",
+    "page": "https://www.peakdesign.com/products/capture",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official Peak Design online store product image; Peak Design has not granted a reuse license — rights not verified.",
+    "alt": "Peak Design Capture camera clip in Black with Standard Plate, front view",
+    "match": "EXACT",
+    "credit": "Peak Design"
+   }
+  },
+  {
+   "sku": "TK-PEAKDESIGN-EVERYDAYBP20",
+   "slug": "peak-design-everyday-backpack-20l",
+   "name": "Peak Design Everyday Backpack 20L",
+   "brand": "Peak Design",
+   "category": "camera-accessories",
+   "price": "279.95",
+   "priceBasis": "msrp",
+   "priceSource": "https://www.peakdesign.com/products/everyday-backpack",
+   "priceAsOf": "2026-09-28",
+   "summary": "Expandable 17–20 L camera and everyday backpack with side access and origami-style dividers; also in 30 L.",
+   "description": "The Everyday Backpack is Peak Design's flagship camera/everyday pack. The 20L version expands from 17 to 20 L and weighs 1.66 kg without dividers (2.01 kg with); a 22–30 L version is also sold.",
+   "keywords": "peak design everyday backpack 20l camera bag",
+   "specs": {
+    "accessoryType": "Bag",
+    "capacity": "17–20 L",
+    "weightG": 1660
+   },
+   "variants": [
+    {
+     "label": "20L",
+     "price": "279.95"
+    },
+    {
+     "label": "30L",
+     "price": "299.95"
+    }
+   ],
+   "featured": true,
+   "warranty": 12,
+   "sources": {
+    "product": "https://www.peakdesign.com/products/everyday-backpack",
+    "retrievedAt": "2026-09-28"
+   },
+   "colors": [
+    "Black",
+    "Charcoal",
+    "Ocean",
+    "Kelp",
+    "Midnight",
+    "Ash",
+    "Eclipse"
+   ],
+   "colorImages": {
+    "Black": {
+     "url": "https://cdn.shopify.com/s/files/1/2986/1172/files/everyday-backpack-black-20-1.jpg?v=1762275581",
+     "page": "https://www.peakdesign.com/products/everyday-backpack",
+     "sourceType": "manufacturer-product-page",
+     "rights": "Official Peak Design online store product image; Peak Design has not granted a reuse license — rights not verified.",
+     "alt": "Peak Design Everyday Backpack 20L in Black, front view",
+     "match": "EXACT",
+     "credit": "Peak Design"
+    },
+    "Charcoal": {
+     "url": "https://cdn.shopify.com/s/files/1/2986/1172/files/everyday-backpack-charcoal-20-1.jpg?v=1762275583",
+     "page": "https://www.peakdesign.com/products/everyday-backpack",
+     "sourceType": "manufacturer-product-page",
+     "rights": "Official Peak Design online store product image; Peak Design has not granted a reuse license — rights not verified.",
+     "alt": "Peak Design Everyday Backpack 20L in Charcoal, front view",
+     "match": "EXACT",
+     "credit": "Peak Design"
+    },
+    "Ocean": {
+     "url": "https://cdn.shopify.com/s/files/1/2986/1172/files/Everyday-Backpack-20L-Ocean-1218.jpg?v=1753395149",
+     "page": "https://www.peakdesign.com/products/everyday-backpack",
+     "sourceType": "manufacturer-product-page",
+     "rights": "Official Peak Design online store product image; Peak Design has not granted a reuse license — rights not verified.",
+     "alt": "Peak Design Everyday Backpack 20L in Ocean, front view",
+     "match": "EXACT",
+     "credit": "Peak Design"
+    },
+    "Kelp": {
+     "url": "https://cdn.shopify.com/s/files/1/2986/1172/files/Everyday-Backpack-20L-Kelp-1225.jpg?v=1753393545",
+     "page": "https://www.peakdesign.com/products/everyday-backpack",
+     "sourceType": "manufacturer-product-page",
+     "rights": "Official Peak Design online store product image; Peak Design has not granted a reuse license — rights not verified.",
+     "alt": "Peak Design Everyday Backpack 20L in Kelp, front view",
+     "match": "EXACT",
+     "credit": "Peak Design"
+    },
+    "Midnight": {
+     "url": "https://cdn.shopify.com/s/files/1/2986/1172/files/everyday-backpack-midnight-20-1.jpg?v=1762275585",
+     "page": "https://www.peakdesign.com/products/everyday-backpack",
+     "sourceType": "manufacturer-product-page",
+     "rights": "Official Peak Design online store product image; Peak Design has not granted a reuse license — rights not verified.",
+     "alt": "Peak Design Everyday Backpack 20L in Midnight, front view",
+     "match": "EXACT",
+     "credit": "Peak Design"
+    },
+    "Ash": {
+     "url": "https://cdn.shopify.com/s/files/1/2986/1172/files/everyday-backpack-ash-20-1.jpg?v=1762275582",
+     "page": "https://www.peakdesign.com/products/everyday-backpack",
+     "sourceType": "manufacturer-product-page",
+     "rights": "Official Peak Design online store product image; Peak Design has not granted a reuse license — rights not verified.",
+     "alt": "Peak Design Everyday Backpack 20L in Ash, front view",
+     "match": "EXACT",
+     "credit": "Peak Design"
+    },
+    "Eclipse": {
+     "url": "https://cdn.shopify.com/s/files/1/2986/1172/files/Everyday-Backpack-20L-Eclipse-1213.jpg?v=1753395675",
+     "page": "https://www.peakdesign.com/products/everyday-backpack",
+     "sourceType": "manufacturer-product-page",
+     "rights": "Official Peak Design online store product image; Peak Design has not granted a reuse license — rights not verified.",
+     "alt": "Peak Design Everyday Backpack 20L in Eclipse, front view",
+     "match": "EXACT",
+     "credit": "Peak Design"
+    }
+   },
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/2986/1172/files/everyday-backpack-black-20-1.jpg?v=1762275581",
+    "page": "https://www.peakdesign.com/products/everyday-backpack",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official Peak Design online store product image; Peak Design has not granted a reuse license — rights not verified.",
+    "alt": "Peak Design Everyday Backpack 20L in Black, front view",
+    "match": "EXACT",
+    "credit": "Peak Design"
+   }
+  },
+  {
+   "sku": "TK-PEAKDESIGN-EVERYDAYSLING6",
+   "slug": "peak-design-everyday-sling-6l",
+   "name": "Peak Design Everyday Sling 6L",
+   "brand": "Peak Design",
+   "category": "camera-accessories",
+   "price": "129.95",
+   "priceBasis": "msrp",
+   "priceSource": "https://www.peakdesign.com/products/everyday-sling",
+   "priceAsOf": "2026-09-28",
+   "summary": "Compact 6 L camera sling with padded dividers; also offered in 3 L and 10 L sizes.",
+   "description": "The Everyday Sling carries a compact camera kit or daily essentials. The 6 L size weighs 0.58 kg without dividers (0.78 kg with); 3 L and 10 L sizes are also available.",
+   "keywords": "peak design everyday sling 6l camera bag",
+   "specs": {
+    "accessoryType": "Bag",
+    "capacity": "6 L",
+    "weightG": 580
+   },
+   "variants": [
+    {
+     "label": "3L",
+     "price": "99.95"
+    },
+    {
+     "label": "6L",
+     "price": "129.95"
+    },
+    {
+     "label": "10L",
+     "price": "169.95"
+    }
+   ],
+   "featured": false,
+   "warranty": 12,
+   "sources": {
+    "product": "https://www.peakdesign.com/products/everyday-sling",
+    "retrievedAt": "2026-09-28"
+   },
+   "colors": [
+    "Black",
+    "Eclipse",
+    "Ocean",
+    "Kelp",
+    "Ash"
+   ],
+   "colorImages": {
+    "Black": {
+     "url": "https://cdn.shopify.com/s/files/1/2986/1172/files/everyday-sling-black-6-1.jpg?v=1762275668",
+     "page": "https://www.peakdesign.com/products/everyday-sling",
+     "sourceType": "manufacturer-product-page",
+     "rights": "Official Peak Design online store product image; Peak Design has not granted a reuse license — rights not verified.",
+     "alt": "Peak Design Everyday Sling 6L in Black, front view",
+     "match": "EXACT",
+     "credit": "Peak Design"
+    },
+    "Eclipse": {
+     "url": "https://cdn.shopify.com/s/files/1/2986/1172/files/Everyday-Sling-6L-Eclipse-1115.jpg?v=1753398275",
+     "page": "https://www.peakdesign.com/products/everyday-sling",
+     "sourceType": "manufacturer-product-page",
+     "rights": "Official Peak Design online store product image; Peak Design has not granted a reuse license — rights not verified.",
+     "alt": "Peak Design Everyday Sling 6L in Eclipse, front view",
+     "match": "EXACT",
+     "credit": "Peak Design"
+    },
+    "Ocean": {
+     "url": "https://cdn.shopify.com/s/files/1/2986/1172/files/Everyday-Sling-6L-Ocean-1111.jpg?v=1753399325",
+     "page": "https://www.peakdesign.com/products/everyday-sling",
+     "sourceType": "manufacturer-product-page",
+     "rights": "Official Peak Design online store product image; Peak Design has not granted a reuse license — rights not verified.",
+     "alt": "Peak Design Everyday Sling 6L in Ocean, front view",
+     "match": "EXACT",
+     "credit": "Peak Design"
+    },
+    "Kelp": {
+     "url": "https://cdn.shopify.com/s/files/1/2986/1172/files/Everyday-Sling-6L-Kelp-1113.jpg?v=1753398812",
+     "page": "https://www.peakdesign.com/products/everyday-sling",
+     "sourceType": "manufacturer-product-page",
+     "rights": "Official Peak Design online store product image; Peak Design has not granted a reuse license — rights not verified.",
+     "alt": "Peak Design Everyday Sling 6L in Kelp, front view",
+     "match": "EXACT",
+     "credit": "Peak Design"
+    },
+    "Ash": {
+     "url": "https://cdn.shopify.com/s/files/1/2986/1172/files/everyday-sling-ash-6-1.jpg?v=1762275669",
+     "page": "https://www.peakdesign.com/products/everyday-sling",
+     "sourceType": "manufacturer-product-page",
+     "rights": "Official Peak Design online store product image; Peak Design has not granted a reuse license — rights not verified.",
+     "alt": "Peak Design Everyday Sling 6L in Ash, front view",
+     "match": "EXACT",
+     "credit": "Peak Design"
+    }
+   },
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/2986/1172/files/everyday-sling-black-6-1.jpg?v=1762275668",
+    "page": "https://www.peakdesign.com/products/everyday-sling",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official Peak Design online store product image; Peak Design has not granted a reuse license — rights not verified.",
+    "alt": "Peak Design Everyday Sling 6L in Black, front view",
+    "match": "EXACT",
+    "credit": "Peak Design"
+   }
+  },
+  {
+   "sku": "TK-DJI-RS4",
+   "slug": "dji-rs-4",
+   "name": "DJI RS 4",
+   "brand": "DJI",
+   "category": "camera-accessories",
+   "price": "469.00",
+   "priceBasis": "msrp",
+   "priceSource": "https://www.dji.com/rs-4",
+   "priceAsOf": "2026-09-28",
+   "priceNote": "DJI US site list price; shown out of stock on 2026-09-28.",
+   "releaseYear": 2024,
+   "summary": "Ronin 3-axis handheld gimbal for mirrorless cameras with a 3 kg tested payload and up to 12 h runtime.",
+   "description": "DJI RS 4 is a single-handed 3-axis stabilizer for mirrorless camera setups, with a tested payload of 3 kg. Its 3000 mAh battery grip gives a maximum runtime of 12 hours, and the gimbal weighs about 1066 g.",
+   "keywords": "dji rs 4 ronin gimbal stabilizer mirrorless",
+   "specs": {
+    "accessoryType": "Gimbal",
+    "maxLoadKg": 3,
+    "weightG": 1066,
+    "stabilization": "3-axis",
+    "battery": "3000 mAh LiPo 2S, up to 12 h",
+    "compatibility": "Mirrorless cameras"
+   },
+   "featured": false,
+   "warranty": 12,
+   "sources": {
+    "product": "https://www.dji.com/rs-4",
+    "retrievedAt": "2026-09-28",
+    "specs": "https://www.dji.com/rs-4/specs"
+   },
+   "image": {
+    "url": "https://www-cdn.djiits.com/cms/uploads/5aa96d911a0560cc8499e48827648724.png",
+    "page": "https://www.dji.com/rs-4",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official DJI online store product image; DJI has not granted a reuse license — rights not verified.",
+    "alt": "DJI RS 4 gimbal on its extended grip tripod with a camera shown ghosted, three-quarter view",
+    "match": "EXACT",
+    "credit": "DJI"
+   }
+  },
+  {
+   "sku": "TK-DJI-RS4PRO",
+   "slug": "dji-rs-4-pro",
+   "name": "DJI RS 4 Pro",
+   "brand": "DJI",
+   "category": "camera-accessories",
+   "price": "869.00",
+   "priceBasis": "msrp",
+   "priceSource": "https://www.dji.com/rs-4-pro",
+   "priceAsOf": "2026-09-28",
+   "priceNote": "DJI US site list price; shown out of stock on 2026-09-28.",
+   "releaseYear": 2024,
+   "summary": "Professional Ronin gimbal with a 4.5 kg tested payload for cinema and full-frame rigs, up to 13 h runtime.",
+   "description": "DJI RS 4 Pro is the professional model in the RS 4 line, rated for a 4.5 kg tested payload for full-frame and compact cinema rigs. Its 1950 mAh LiPo 4S grip battery gives up to 13 hours of runtime, and the gimbal weighs about 1242 g.",
+   "keywords": "dji rs 4 pro ronin gimbal cinema stabilizer",
+   "specs": {
+    "accessoryType": "Gimbal",
+    "maxLoadKg": 4.5,
+    "weightG": 1242,
+    "stabilization": "3-axis",
+    "battery": "1950 mAh LiPo 4S, up to 13 h",
+    "compatibility": "Full-frame mirrorless and compact cinema cameras"
+   },
+   "featured": true,
+   "warranty": 12,
+   "sources": {
+    "product": "https://www.dji.com/rs-4-pro",
+    "retrievedAt": "2026-09-28",
+    "specs": "https://www.dji.com/rs-4-pro/specs"
+   },
+   "image": {
+    "url": "https://www-cdn.djiits.com/cms/uploads/87b93b12f19f4a00eaecb6fd51c155b8.png",
+    "page": "https://www.dji.com/rs-4-pro",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official DJI online store product image; DJI has not granted a reuse license — rights not verified.",
+    "alt": "DJI RS 4 Pro gimbal with carbon arms on its tripod, camera shown ghosted, three-quarter view",
+    "match": "EXACT",
+    "credit": "DJI"
+   }
+  },
+  {
+   "sku": "TK-DJI-RS4MINI",
+   "slug": "dji-rs-4-mini",
+   "name": "DJI RS 4 Mini",
+   "brand": "DJI",
+   "category": "camera-accessories",
+   "price": "309.00",
+   "priceBasis": "msrp",
+   "priceSource": "https://www.dji.com/rs-4-mini",
+   "priceAsOf": "2026-09-28",
+   "releaseYear": 2024,
+   "summary": "Lightweight 890 g gimbal for compact mirrorless cameras and phones, 0.4–2 kg payload, intelligent tracking support.",
+   "description": "DJI RS 4 Mini is a lightweight stabilizer for compact mirrorless cameras, with a tested payload of 0.4–2 kg and a gimbal weight of about 890 g. It supports the magnetic DJI RS Intelligent Tracking Module and an optional phone holder, with up to 13 hours of runtime.",
+   "keywords": "dji rs 4 mini gimbal compact mirrorless tracking",
+   "specs": {
+    "accessoryType": "Gimbal",
+    "maxLoadKg": 2,
+    "weightG": 890,
+    "stabilization": "3-axis",
+    "battery": "3100 mAh LiPo 2S, up to 13 h",
+    "compatibility": "Compact mirrorless cameras and phones (with holder)"
+   },
+   "featured": false,
+   "warranty": 12,
+   "sources": {
+    "product": "https://www.dji.com/rs-4-mini",
+    "retrievedAt": "2026-09-28",
+    "specs": "https://www.dji.com/rs-4-mini/specs"
+   },
+   "image": {
+    "url": "https://www-cdn.djiits.com/cms/uploads/7271bb949afa8c05ce98cd792168a096.png",
+    "page": "https://www.dji.com/rs-4-mini",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official DJI online store product image; DJI has not granted a reuse license — rights not verified.",
+    "alt": "DJI RS 4 Mini gimbal in light grey on its tripod with a compact camera shown ghosted, three-quarter view",
+    "match": "EXACT",
+    "credit": "DJI"
+   }
+  },
+  {
+   "sku": "TK-SMALLRIG-FX3CAGEKIT5823",
+   "slug": "smallrig-cage-kit-sony-fx3-fx30-5823",
+   "name": "SmallRig Cage Kit for Sony FX3 / FX30 (5823)",
+   "brand": "SmallRig",
+   "category": "camera-accessories",
+   "price": "189.99",
+   "priceBasis": "msrp",
+   "priceSource": "https://www.smallrig.com/Cage-Kit-for-Sony-FX3-FX30-5823.html",
+   "priceAsOf": "2026-09-28",
+   "priceNote": "SmallRig US store price on 2026-09-28; the page also offers a $339.99 bundle.",
+   "summary": "Cage kit for Sony FX3/FX30 with a foldable compact V-Mount battery plate, HDMI cable clamp and top handle.",
+   "description": "This SmallRig kit wraps the Sony FX3 or FX30 in a cage with an integrated foldable V-Mount battery plate for all-day power. A dedicated HDMI cable clamp prevents accidental disconnection, and the kit adds a top handle and a modular NATO-rail expansion hub.",
+   "keywords": "smallrig cage kit sony fx3 fx30 v-mount battery plate top handle 5823",
+   "specs": {
+    "accessoryType": "Camera cage",
+    "compatibility": "Sony FX3, FX30",
+    "battery": "Integrated foldable V-Mount battery plate"
+   },
+   "variants": [
+    {
+     "label": "Cage kit (5823)",
+     "price": "189.99"
+    }
+   ],
+   "featured": false,
+   "warranty": 12,
+   "sources": {
+    "product": "https://www.smallrig.com/Cage-Kit-for-Sony-FX3-FX30-5823.html",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://static.smallrig.com/mall/img/public/u0zwcsdpxl-1761217980759_.JPG",
+    "page": "https://www.smallrig.com/Cage-Kit-for-Sony-FX3-FX30-5823.html",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official SmallRig online store product image; SmallRig has not granted a reuse license — rights not verified.",
+    "alt": "SmallRig cage kit 5823 on a Sony FX3 (camera shown ghosted) with top handle and V-Mount plate, three-quarter view",
+    "match": "EXACT",
+    "credit": "SmallRig"
+   }
+  },
+  {
+   "sku": "TK-SMALLRIG-A7VCAGE",
+   "slug": "smallrig-hawklock-cage-sony-a7-v-a7r-v-a7-iv",
+   "name": "SmallRig HawkLock Cage for Sony A7 V / A7R V / A7 IV",
+   "brand": "SmallRig",
+   "category": "camera-accessories",
+   "price": "57.99",
+   "priceBasis": "msrp",
+   "priceSource": "https://www.smallrig.com/camera-cage-kit-for-sony-a7-v-a7r-v-a7-iv-half-cage-full-cage-advanced-cage-kit.html",
+   "priceAsOf": "2026-09-28",
+   "releaseYear": 2026,
+   "summary": "HawkLock quick-release full cage for Sony A7 V / A7R V / A7 IV with built-in Arca-Swiss plate and 3-point locking.",
+   "description": "SmallRig's cage family for the Sony A7 V, A7R V and A7 IV uses the HawkLock NATO quick-release ecosystem and a built-in Arca-Swiss plate that mounts on Arca tripods and DJI RS gimbals. Full cages use 3-point locking with silicone padding, and configurations run from a lightweight half cage to an advanced kit with side and top handles.",
+   "keywords": "smallrig cage sony a7 v a7r v a7 iv hawklock 6024 6026",
+   "specs": {
+    "accessoryType": "Camera cage",
+    "compatibility": "Sony A7 V, A7R V, A7 IV",
+    "mount": "Arca-Swiss, NATO rail, 1/4\"-20 and ARRI 3/8\"-16"
+   },
+   "variants": [
+    {
+     "label": "Full Cage (6024)",
+     "price": "57.99"
+    },
+    {
+     "label": "Half Cage (6023)",
+     "price": "49.99"
+    },
+    {
+     "label": "Cage Kit with Top Handle (6025)",
+     "price": "88.99"
+    },
+    {
+     "label": "Advanced Cage Kit (6026)",
+     "price": "118.99"
+    }
+   ],
+   "featured": false,
+   "warranty": 12,
+   "sources": {
+    "product": "https://www.smallrig.com/camera-cage-kit-for-sony-a7-v-a7r-v-a7-iv-half-cage-full-cage-advanced-cage-kit.html",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://static.smallrig.com/mall/img/public/5s1f5z7wscu-1778730184449_.jpg",
+    "page": "https://www.smallrig.com/camera-cage-kit-for-sony-a7-v-a7r-v-a7-iv-half-cage-full-cage-advanced-cage-kit.html",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official SmallRig online store product image; SmallRig has not granted a reuse license — rights not verified.",
+    "alt": "SmallRig HawkLock full cage 6024 on a Sony A7-series body (camera shown ghosted), front three-quarter view",
+    "match": "EXACT",
+    "credit": "SmallRig"
+   }
+  },
+  {
+   "sku": "TK-SMALLRIG-RHINOA7",
+   "slug": "smallrig-rhinoceros-cage-kit-sony-a7",
+   "name": "SmallRig \"Rhinoceros\" Cage Kit for Sony A7 V / A7R V / A7 IV / A7S III",
+   "brand": "SmallRig",
+   "category": "camera-accessories",
+   "price": "99.99",
+   "priceBasis": "msrp",
+   "priceSource": "https://www.smallrig.com/rhinoceros-cage-kit-for-sony-a7-v-a7r-v-a7-iv.html",
+   "priceAsOf": "2026-09-28",
+   "releaseYear": 2026,
+   "summary": "Lightweight \"Rhinoceros\" cage for Sony A7-series bodies with 3-point locking, integrated Arca plate and rich expansion.",
+   "description": "The \"Rhinoceros\" cage kit is SmallRig's lightweight option for the Sony A7 V, A7R V, A7 IV, A7R IV and A7S III, about 20% lighter than aluminium-alloy kits. It uses 3-point locking, keeps all controls and the battery door accessible, and has an integrated Arca-Swiss plate for tripods and DJI RS gimbals.",
+   "keywords": "smallrig rhinoceros cage sony a7 v a7s iii 6029",
+   "specs": {
+    "accessoryType": "Camera cage",
+    "compatibility": "Sony A7 V, A7R V, A7 IV, A7R IV, A7S III",
+    "mount": "Arca-Swiss, NATO rail, cold shoe, QD socket"
+   },
+   "variants": [
+    {
+     "label": "Cage (6029)",
+     "price": "99.99"
+    },
+    {
+     "label": "Kit (6030)",
+     "price": "199.99"
+    },
+    {
+     "label": "Kit (6031)",
+     "price": "279.99"
+    }
+   ],
+   "featured": false,
+   "warranty": 12,
+   "sources": {
+    "product": "https://www.smallrig.com/rhinoceros-cage-kit-for-sony-a7-v-a7r-v-a7-iv.html",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://static.smallrig.com/mall/img/public/tgbbbkjk12j-1779249253118_.JPG",
+    "page": "https://www.smallrig.com/rhinoceros-cage-kit-for-sony-a7-v-a7r-v-a7-iv.html",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official SmallRig online store product image; SmallRig has not granted a reuse license — rights not verified.",
+    "alt": "SmallRig Rhinoceros cage 6029 with side grip on a Sony A7-series body (camera shown ghosted), three-quarter view",
+    "match": "EXACT",
+    "credit": "SmallRig"
+   }
+  },
+  {
+   "sku": "TK-SMALLRIG-A6700CAGE",
+   "slug": "smallrig-hawklock-cage-kit-sony-a6700",
+   "name": "SmallRig HawkLock Quick Release Cage Kit for Sony A6700",
+   "brand": "SmallRig",
+   "category": "camera-accessories",
+   "price": "59.99",
+   "priceBasis": "msrp",
+   "priceSource": "https://www.smallrig.com/HawkLock-Quick-Release-Cage-Kit-for-Sony-Alpha-6700.html",
+   "priceAsOf": "2026-09-28",
+   "summary": "HawkLock quick-release cage for Sony A6700 with silicone grip, NATO rail, Arca plate and HDMI cable clamp.",
+   "description": "This HawkLock cage for the Sony A6700 has a built-in NATO rail and self-locking Arca-Swiss plate, a contoured silicone grip and cutouts that keep every button and port accessible. It includes an HDMI thumbscrew cable clamp and a magnetic wrench.",
+   "keywords": "smallrig hawklock cage sony a6700 5060",
+   "specs": {
+    "accessoryType": "Camera cage",
+    "compatibility": "Sony A6700",
+    "mount": "Arca-Swiss, NATO rail, 1/4\"-20 and ARRI 3/8\"-16"
+   },
+   "variants": [
+    {
+     "label": "Cage (5060)",
+     "price": "59.99"
+    }
+   ],
+   "featured": false,
+   "warranty": 12,
+   "sources": {
+    "product": "https://www.smallrig.com/HawkLock-Quick-Release-Cage-Kit-for-Sony-Alpha-6700.html",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://static.smallrig.com/mall/img/public/1732170823790_.JPG",
+    "page": "https://www.smallrig.com/HawkLock-Quick-Release-Cage-Kit-for-Sony-Alpha-6700.html",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official SmallRig online store product image; SmallRig has not granted a reuse license — rights not verified.",
+    "alt": "SmallRig HawkLock cage 5060 on a Sony A6700 (camera shown ghosted), front three-quarter view",
+    "match": "EXACT",
+    "credit": "SmallRig"
+   }
+  },
+  {
+   "sku": "TK-PROGRADE-PG057",
+   "slug": "prograde-digital-pg05-7-cfexpress-b-sd-reader",
+   "name": "ProGrade Digital PG05.7 CFexpress Type B & SDXC Dual-Slot Reader",
+   "brand": "ProGrade Digital",
+   "category": "camera-accessories",
+   "price": "149.99",
+   "priceBasis": "msrp",
+   "priceSource": "https://shop.progradedigital.com/products/dual-slot-cfexpress-type-b-sdxc-reader",
+   "priceAsOf": "2026-09-28",
+   "releaseYear": 2026,
+   "summary": "USB 4.0 dual-slot workflow reader for CFexpress Type B and SDXC UHS-II cards, up to 40 Gb/s.",
+   "description": "The PG05.7 reads CFexpress Type B and SDXC memory cards over a USB 4.0 interface at up to 40 Gb/s, matched to ProGrade Digital's high-speed cards.",
+   "keywords": "prograde digital pg05.7 cfexpress type b sd card reader usb4",
+   "specs": {
+    "accessoryType": "Memory card reader",
+    "compatibility": "CFexpress Type B, SDXC UHS-II",
+    "configurations": "USB 4.0 (40 Gb/s)"
+   },
+   "featured": false,
+   "warranty": 12,
+   "sources": {
+    "product": "https://shop.progradedigital.com/products/dual-slot-cfexpress-type-b-sdxc-reader",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/2526/3692/files/PG05.7_898x898px.png?v=1777334165",
+    "page": "https://shop.progradedigital.com/products/dual-slot-cfexpress-type-b-sdxc-reader",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official ProGrade Digital online store product image; ProGrade Digital has not granted a reuse license — rights not verified.",
+    "alt": "ProGrade Digital PG05.7 dual-slot CFexpress Type B and SD card reader, three-quarter view",
+    "match": "EXACT",
+    "credit": "ProGrade Digital"
+   }
+  },
+  {
+   "sku": "TK-PROGRADE-PG097",
+   "slug": "prograde-digital-pg09-7-cfexpress-a-sd-reader",
+   "name": "ProGrade Digital PG09.7 CFexpress Type A & SDXC Dual-Slot Reader",
+   "brand": "ProGrade Digital",
+   "category": "camera-accessories",
+   "price": "149.99",
+   "priceBasis": "msrp",
+   "priceSource": "https://shop.progradedigital.com/products/dual-slot-cfexpress-type-a-sdxc-reader",
+   "priceAsOf": "2026-09-28",
+   "releaseYear": 2026,
+   "summary": "USB 4.0 dual-slot workflow reader for CFexpress Type A and SDXC UHS-II cards, up to 40 Gb/s.",
+   "description": "The PG09.7 reads CFexpress Type A and SDXC memory cards over USB 4.0 at up to 40 Gb/s, suited to Sony cameras that use CFexpress Type A.",
+   "keywords": "prograde digital pg09.7 cfexpress type a sd card reader usb4 sony",
+   "specs": {
+    "accessoryType": "Memory card reader",
+    "compatibility": "CFexpress Type A, SDXC UHS-II",
+    "configurations": "USB 4.0 (40 Gb/s)"
+   },
+   "featured": false,
+   "warranty": 12,
+   "sources": {
+    "product": "https://shop.progradedigital.com/products/dual-slot-cfexpress-type-a-sdxc-reader",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/2526/3692/files/PG09.7_898x898px.png?v=1777334237",
+    "page": "https://shop.progradedigital.com/products/dual-slot-cfexpress-type-a-sdxc-reader",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official ProGrade Digital online store product image; ProGrade Digital has not granted a reuse license — rights not verified.",
+    "alt": "ProGrade Digital PG09.7 dual-slot CFexpress Type A and SD card reader, three-quarter view",
+    "match": "EXACT",
+    "credit": "ProGrade Digital"
+   }
+  },
+  {
+   "sku": "TK-PROGRADE-PGM12",
+   "slug": "prograde-digital-pgm12-cfexpress-a-mobile-reader",
+   "name": "ProGrade Digital PGM12 CFexpress Type A Mobile Reader",
+   "brand": "ProGrade Digital",
+   "category": "camera-accessories",
+   "price": "59.99",
+   "priceBasis": "msrp",
+   "priceSource": "https://shop.progradedigital.com/products/cfexpress-a-single-slot-mobile-card-reader-pgm12",
+   "priceAsOf": "2026-09-28",
+   "releaseYear": 2025,
+   "summary": "Portable USB-C 3.2 Gen 2 CFexpress Type A reader (10 Gb/s) for recording 4K ProRes to phones.",
+   "description": "The PGM12 is a portable CFexpress Type A reader with a USB 3.2 Gen 2 Type-C interface at up to 10 Gb/s. ProGrade positions it for filmmakers recording 4K ProRes at up to 120 fps directly to external media.",
+   "keywords": "prograde pgm12 cfexpress type a mobile reader usb-c iphone prores",
+   "specs": {
+    "accessoryType": "Memory card reader",
+    "compatibility": "CFexpress Type A",
+    "configurations": "USB-C 3.2 Gen 2 (10 Gb/s)"
+   },
+   "featured": false,
+   "warranty": 12,
+   "sources": {
+    "product": "https://shop.progradedigital.com/products/cfexpress-a-single-slot-mobile-card-reader-pgm12",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/2526/3692/files/PGM12_898x898px.png?v=1777334055",
+    "page": "https://shop.progradedigital.com/products/cfexpress-a-single-slot-mobile-card-reader-pgm12",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official ProGrade Digital online store product image; ProGrade Digital has not granted a reuse license — rights not verified.",
+    "alt": "ProGrade Digital PGM12 mobile CFexpress Type A card reader with USB-C connector, three-quarter view",
+    "match": "EXACT",
+    "credit": "ProGrade Digital"
+   }
+  },
+  {
+   "sku": "TK-LEXAR-WORKFLOWCFEBREADER",
+   "slug": "lexar-professional-workflow-cfexpress-4-type-b-reader",
+   "name": "Lexar Professional Workflow CFexpress 4.0 Type B Card Reader",
+   "brand": "Lexar",
+   "category": "camera-accessories",
+   "price": "99.99",
+   "priceBasis": "msrp",
+   "priceSource": "https://americas.lexar.com/product/lexar-professional-workflow-cfexpress-4-0-type-b-card-reader/",
+   "priceAsOf": "2026-09-28",
+   "releaseYear": 2024,
+   "summary": "CFexpress 4.0 Type B reader supporting up to 40 Gbps, usable standalone or in the Lexar Professional Workflow dock.",
+   "description": "The Workflow CFexpress 4.0 Type B Card Reader supports speeds up to 40 Gbps and can be used on its own or in the Lexar Professional Workflow dock. A special finish offers scratch resistance for heavy use on location.",
+   "keywords": "lexar professional workflow cfexpress 4.0 type b card reader 40gbps",
+   "specs": {
+    "accessoryType": "Memory card reader",
+    "compatibility": "CFexpress 4.0 Type B; Lexar Workflow dock",
+    "configurations": "Up to 40 Gbps"
+   },
+   "featured": false,
+   "warranty": 36,
+   "sources": {
+    "product": "https://americas.lexar.com/product/lexar-professional-workflow-cfexpress-4-0-type-b-card-reader/",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://americas.lexar.com/wp-content/uploads/2024/09/Workflow_Type_B_Card_Reader_Photo2.png",
+    "page": "https://americas.lexar.com/product/lexar-professional-workflow-cfexpress-4-0-type-b-card-reader/",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official Lexar online store product image; Lexar has not granted a reuse license — rights not verified.",
+    "alt": "Lexar Professional Workflow CFexpress 4.0 Type B card reader, angled top view",
+    "match": "EXACT",
+    "credit": "Lexar",
+    "allowLowRes": true
+   }
+  },
+  {
+   "sku": "TK-NANLITE-FC500C",
+   "slug": "nanlite-fc-500c",
+   "name": "Nanlite FC-500C RGBW LED Spotlight",
+   "brand": "Nanlite",
+   "category": "camera-accessories",
+   "price": "499.00",
+   "priceBasis": "msrp",
+   "priceSource": "https://nanliteus.com/products/fc-500c-rgbw-color-led-spotlight",
+   "priceAsOf": "2026-09-28",
+   "compareAt": "719.00",
+   "priceNote": "Nanlite US store sale price; $719 list shown struck through.",
+   "releaseYear": 2025,
+   "summary": "500 W RGBW point-source spotlight with 36,000 colours, 2700–7500K CCT, CRI 95 / TLCI 94 and DMX/RDM control.",
+   "description": "The FC-500C is a 500 W RGBW point-source LED spotlight delivering 36,000 colours and a 2700–7500K CCT range. It offers 151 gel presets, ±150 G/M adjustment, 0.1% dimming, Bluetooth control via the NANLINK app, 2.4G wireless and a locking DMX/RDM port, with CRI 95 and TLCI 94; an AC power supply and padded case are included.",
+   "keywords": "nanlite fc-500c rgbw led spotlight 500w bowens cob",
+   "specs": {
+    "accessoryType": "Light",
+    "compatibility": "NANLINK app, 2.4G, DMX/RDM",
+    "battery": "AC power supply included; FC PowerController for battery use"
+   },
+   "featured": false,
+   "warranty": 24,
+   "sources": {
+    "product": "https://nanliteus.com/products/fc-500c-rgbw-color-led-spotlight",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0764/8722/9669/files/FC-500C_1.jpg?v=1757435987",
+    "page": "https://nanliteus.com/products/fc-500c-rgbw-color-led-spotlight",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official Nanlite online store product image; Nanlite has not granted a reuse license — rights not verified.",
+    "alt": "Nanlite FC-500C RGBW LED spotlight with reflector on a light stand, front three-quarter view",
+    "match": "EXACT",
+    "credit": "Nanlite"
+   }
+  },
+  {
+   "sku": "TK-APUTURE-INFINIBARPB6",
+   "slug": "aputure-infinibar-pb6",
+   "name": "Aputure INFINIBAR PB6",
+   "brand": "Aputure",
+   "category": "camera-accessories",
+   "price": "479.00",
+   "priceBasis": "msrp",
+   "priceSource": "https://www.aputure.com/products/infinibar-pb6",
+   "priceAsOf": "2026-09-28",
+   "releaseYear": 2023,
+   "summary": "2 ft seamless tunable-colour RGBWW pixel bar with 48 programmable pixels and Sidus Link / CRMX control.",
+   "description": "INFINIBAR PB6 is a 2-foot seamless pixel bar for soft light and dynamic effects in frame or behind the camera. Its 48 RGBWW programmable pixels can be driven with Sidus Link, or per-pixel with Sidus Link Pro and CRMX.",
+   "keywords": "aputure infinibar pb6 rgb pixel bar tube light",
+   "specs": {
+    "accessoryType": "Light",
+    "compatibility": "Sidus Link, Sidus Link Pro, CRMX"
+   },
+   "featured": false,
+   "warranty": 12,
+   "sources": {
+    "product": "https://www.aputure.com/products/infinibar-pb6",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/1343/1935/files/InfinibarPB6-1.png?v=1696989615",
+    "page": "https://www.aputure.com/products/infinibar-pb6",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official Aputure online store product image; Aputure has not granted a reuse license — rights not verified.",
+    "alt": "Aputure INFINIBAR PB6 pixel bar displaying a rainbow colour gradient, angled view",
+    "match": "EXACT",
+    "credit": "Aputure"
+   }
+  },
+  {
+   "sku": "TK-THINKTANK-AIRPORTACC41L",
+   "slug": "think-tank-airport-accelerator-41l",
+   "name": "Think Tank Airport Accelerator 41L",
+   "brand": "Think Tank",
+   "category": "camera-accessories",
+   "price": "329.75",
+   "priceBasis": "msrp",
+   "priceSource": "https://www.thinktankphoto.com/products/airport-accelerator-41l",
+   "priceAsOf": "2026-09-28",
+   "releaseYear": 2026,
+   "summary": "Largest carry-on-compliant Airport camera backpack; fits gripped bodies and lenses up to a 600mm f/4 (unattached).",
+   "description": "The new Airport Accelerator 41L is the largest backpack in Think Tank's Airport series that still meets most airline carry-on requirements. It fits gripped camera bodies and an extensive lens kit, including up to a 600mm f/4 unattached.",
+   "keywords": "think tank airport accelerator 41l carry on camera backpack telephoto",
+   "specs": {
+    "accessoryType": "Bag",
+    "capacity": "41 L",
+    "compatibility": "Gripped bodies + lenses up to 600mm f/4 (unattached)"
+   },
+   "featured": false,
+   "warranty": 12,
+   "sources": {
+    "product": "https://www.thinktankphoto.com/products/airport-accelerator-41l",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0532/0233/files/0017_Airport-Accelerator-41L-Hero-Left.jpg?v=1778003005",
+    "page": "https://www.thinktankphoto.com/products/airport-accelerator-41l",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official Think Tank online store product image; Think Tank has not granted a reuse license — rights not verified.",
+    "alt": "Think Tank Airport Accelerator 41L camera backpack in black, front three-quarter view",
+    "match": "EXACT",
+    "credit": "Think Tank"
+   }
+  },
+  {
+   "sku": "TK-ZHIYUN-CINEPEERCX50RGB",
+   "slug": "zhiyun-cinepeer-cx50-rgb",
+   "name": "ZHIYUN CINEPEER CX50 RGB",
+   "brand": "ZHIYUN",
+   "category": "camera-accessories",
+   "price": "179.00",
+   "priceBasis": "msrp",
+   "priceSource": "https://store.zhiyun-tech.com/products/zhiyun-cinepeer-cx50-rgb",
+   "priceAsOf": "2026-09-28",
+   "releaseYear": 2025,
+   "summary": "50 W full-colour RGB pocket COB light from ZHIYUN's CINEPEER line.",
+   "description": "The CINEPEER CX50 RGB is a 50 W full-colour pocket COB light. ZHIYUN also sells a bi-colour CINEPEER CX50; the RGB model adds full-colour output.",
+   "keywords": "zhiyun cinepeer cx50 rgb pocket cob light 50w",
+   "specs": {
+    "accessoryType": "Light",
+    "compatibility": "Handheld or light stand"
+   },
+   "featured": false,
+   "warranty": 12,
+   "sources": {
+    "product": "https://store.zhiyun-tech.com/products/zhiyun-cinepeer-cx50-rgb",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0049/0101/1502/files/CX50RGB-3.png?v=1783498741",
+    "page": "https://store.zhiyun-tech.com/products/zhiyun-cinepeer-cx50-rgb",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official ZHIYUN online store product image; ZHIYUN has not granted a reuse license — rights not verified.",
+    "alt": "ZHIYUN CINEPEER CX50 RGB pocket COB light with grey battery handle and reflector, front view",
+    "match": "EXACT",
+    "credit": "ZHIYUN"
+   }
+  },
+  {
+   "sku": "TK-GITZO-GK2545T82QD",
+   "slug": "gitzo-traveler-series-2-kit-gk2545t-82qd",
+   "name": "Gitzo Traveler Series 2 Tripod Kit GK2545T-82QD",
+   "brand": "Gitzo",
+   "category": "camera-accessories",
+   "price": "1150.00",
+   "priceBasis": "estimate",
+   "notes": "Gitzo's US site lists no price (shows $0.00 with a Buy now link); price is a TrustKart estimate for a Series 2 Traveler carbon kit.",
+   "summary": "Carbon eXact 4-section Traveler tripod with reverse-folding legs and GH1382QD center ball head; 12 kg payload.",
+   "description": "The GK2545T-82QD pairs the GT2545T Series 2 Traveler carbon-fibre tripod with the GH1382QD center ball head. Its legs reverse-fold around the column to 44.5 cm, it reaches 165.5 cm, weighs 1.84 kg and carries 12 kg (UNI/PdR 105:2021); Gitzo recommends it for lenses to 200 mm (300 mm max).",
+   "keywords": "gitzo traveler series 2 gk2545t carbon tripod kit ball head",
+   "specs": {
+    "accessoryType": "Tripod",
+    "maxLoadKg": 12,
+    "weightG": 1840,
+    "compatibility": "Lenses up to 200 mm (300 mm max)"
+   },
+   "featured": false,
+   "warranty": 12,
+   "sources": {
+    "product": "https://www.gitzo.com/us-en/tripod-kit-traveler-series-2-4-sections-gk2545t-82qdus/",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://www.gitzo.com/media/catalog/product/t/r/tripod-kit-gitzo-mountaineer-gk2545t-82qd.png",
+    "page": "https://www.gitzo.com/us-en/tripod-kit-traveler-series-2-4-sections-gk2545t-82qdus/",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official Gitzo online store product image; Gitzo has not granted a reuse license — rights not verified.",
+    "alt": "Gitzo Traveler Series 2 GK2545T-82QD carbon tripod kit, legs reverse-folded around the ball head, side view",
+    "match": "EXACT",
+    "credit": "Gitzo"
+   }
+  },
+  {
+   "sku": "TK-GITZO-GK154282QD",
+   "slug": "gitzo-mountaineer-series-1-kit-gk1542-82qd",
+   "name": "Gitzo Mountaineer Series 1 Tripod Kit GK1542-82QD",
+   "brand": "Gitzo",
+   "category": "camera-accessories",
+   "price": "1000.00",
+   "priceBasis": "estimate",
+   "notes": "Gitzo's US site lists no price (shows $0.00 with a Buy now link); price is a TrustKart estimate for a Series 1 Mountaineer carbon kit.",
+   "summary": "Lightweight 4-section Carbon eXact Mountaineer tripod with G-lock Ultra and GH1382QD ball head; 14 kg payload.",
+   "description": "The GK1542-82QD combines the GT1542 Mountaineer Series 1 carbon-fibre tripod with the GH1382QD center ball head. It uses Carbon eXact tubing, G-lock Ultra twist locks and a removable rapid center column; it weighs 1.78 kg, reaches 171 cm and carries 14 kg (UNI/PdR 105:2021).",
+   "keywords": "gitzo mountaineer series 1 gk1542 carbon tripod kit",
+   "specs": {
+    "accessoryType": "Tripod",
+    "maxLoadKg": 14,
+    "weightG": 1780,
+    "compatibility": "DSLR/mirrorless with lenses to 135 mm (up to 200 mm)"
+   },
+   "featured": false,
+   "warranty": 12,
+   "sources": {
+    "product": "https://www.gitzo.com/us-en/tripod-kit-mountaineer-series-1-4-sections-gk1542-82qd/",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://www.gitzo.com/media/catalog/product/t/r/tripod-kit-gitzo-traveler-gk1542-82qd.png",
+    "page": "https://www.gitzo.com/us-en/tripod-kit-mountaineer-series-1-4-sections-gk1542-82qd/",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official Gitzo online store product image; Gitzo has not granted a reuse license — rights not verified.",
+    "alt": "Gitzo Mountaineer Series 1 GK1542-82QD carbon tripod with ball head, legs extended, front view",
+    "match": "EXACT",
+    "credit": "Gitzo"
+   }
+  },
+  {
+   "sku": "TK-THINKTANK-AIRPORTCOMM31L",
+   "slug": "think-tank-airport-commuter-31l",
+   "name": "Think Tank Airport Commuter 31L",
+   "brand": "Think Tank",
+   "category": "camera-accessories",
+   "price": "289.75",
+   "priceBasis": "msrp",
+   "priceSource": "https://www.thinktankphoto.com/products/airport-commuter-31l",
+   "priceAsOf": "2026-09-28",
+   "releaseYear": 2026,
+   "summary": "Carry-on camera backpack for gripped bodies and a larger lens kit, including a 400mm f/2.8 attached.",
+   "description": "The new Airport Commuter 31L is designed to meet most domestic and international carry-on requirements. It fits gripped camera bodies and a larger kit of lenses, including a 400mm f/2.8 attached, and now adds a full-width divider to split gear and personal items.",
+   "keywords": "think tank airport commuter 31l carry on camera backpack",
+   "specs": {
+    "accessoryType": "Bag",
+    "capacity": "31 L",
+    "compatibility": "Gripped bodies + lenses (fits 400mm f/2.8 attached)"
+   },
+   "featured": false,
+   "warranty": 12,
+   "sources": {
+    "product": "https://www.thinktankphoto.com/products/airport-commuter-31l",
+    "retrievedAt": "2026-09-28"
+   },
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/0532/0233/files/Airport-Commuter-31L-Hero-Left_77965688-38c5-4b54-9b22-08b3021f4d15.jpg?v=1778002083",
+    "page": "https://www.thinktankphoto.com/products/airport-commuter-31l",
+    "sourceType": "manufacturer-product-page",
+    "rights": "Official Think Tank online store product image; Think Tank has not granted a reuse license — rights not verified.",
+    "alt": "Think Tank Airport Commuter 31L camera backpack in black, front three-quarter view",
+    "match": "EXACT",
+    "credit": "Think Tank"
+   }
+  }
+ ]
+}
