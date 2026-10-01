@@ -21,8 +21,9 @@ import org.springframework.jdbc.core.simple.JdbcClient;
 import org.springframework.stereotype.Repository;
 
 /**
- * Product listing and search in a single SQL statement: filters, full-text ranking, primary image via a
- * LATERAL join and the total count via a window function, so a page of results is always one round trip.
+ * Product listing and search in a single SQL statement: filters, full-text ranking and the total count (a window
+ * function) pick one page of products first, and only that page is joined to its primary image. Joining images
+ * before the LIMIT would look one up for every matching product (2,201 lookups for a 24-card page).
  *
  * <p>Nothing user-supplied is ever concatenated into the SQL. Search terms are reduced to [a-z0-9] tokens
  * before being turned into a tsquery, and JSONB spec keys arrive pre-validated and are bound as parameters.
@@ -30,23 +31,28 @@ import org.springframework.stereotype.Repository;
 @Repository
 public class ProductSearchRepository {
 
-    private static final String SELECT = """
-            SELECT p.id, p.slug, p.sku, p.name, p.summary, p.price, p.compare_at_price, p.featured, p.status,
-                   b.name AS brand_name, b.slug AS brand_slug, c.slug AS category_slug, c.name AS category_name,
-                   i.available, i.reserved, i.low_stock_threshold, i.backorder_allowed,
-                   img.url_small, img.url_large, img.width, img.height, img.alt, img.match_type, img.studio,
-                   %s AS relevance,
-                   count(*) OVER () AS total
+    private static final String CARD_COLUMNS = """
+            p.id, p.slug, p.sku, p.name, p.summary, p.price, p.compare_at_price, p.featured, p.status, p.created_at,
+            b.name AS brand_name, b.slug AS brand_slug, c.slug AS category_slug, c.name AS category_name,
+            i.available, i.reserved, i.low_stock_threshold, i.backorder_allowed
+            """;
+
+    private static final String FROM = """
             FROM product p
             JOIN brand b ON b.id = p.brand_id
             JOIN category c ON c.id = p.category_id
             JOIN inventory i ON i.product_id = p.id
+            """;
+
+    private static final String PRIMARY_IMAGE = """
             LEFT JOIN LATERAL (
                 SELECT pi.url_small, pi.url_large, pi.width, pi.height, pi.alt, pi.match_type,
                        position('Manufacturer product image' IN pi.credit) > 0 AS studio
                 FROM product_image pi WHERE pi.product_id = p.id ORDER BY pi.sort_order LIMIT 1
             ) img ON TRUE
             """;
+
+    private static final String IMAGE_COLUMNS = "img.url_small, img.url_large, img.width, img.height, img.alt, img.match_type, img.studio";
 
     private final JdbcClient jdbc;
 
@@ -94,8 +100,11 @@ public class ProductSearchRepository {
             where.add(specClause(q.specFilters().get(n), n, params));
         }
 
-        String sql = SELECT.formatted(rank) + " WHERE " + String.join(" AND ", where)
-                + " ORDER BY " + orderBy(q) + " LIMIT :limit OFFSET :offset";
+        String filter = " WHERE " + String.join(" AND ", where);
+        // The page CTE has the same column names as the tables it reads, so orderBy() works on both sides.
+        String sql = "WITH page AS (SELECT " + CARD_COLUMNS + ", " + rank + " AS relevance, count(*) OVER () AS total "
+                + FROM + filter + " ORDER BY " + orderBy(q) + " LIMIT :limit OFFSET :offset) "
+                + "SELECT p.*, " + IMAGE_COLUMNS + " FROM page p " + PRIMARY_IMAGE + " ORDER BY " + orderBy(q);
         params.put("limit", q.size());
         params.put("offset", (long) q.page() * q.size());
 
@@ -104,6 +113,11 @@ public class ProductSearchRepository {
             total[0] = rs.getLong("total");
             return mapRow(rs);
         }).list();
+        if (items.isEmpty() && q.page() > 0) {
+            // Past the last page the window count has no row to ride on; the real total still matters to callers
+            // (search widens its query when it believes nothing matched).
+            total[0] = jdbc.sql("SELECT count(*) " + FROM + filter).params(params).query(Long.class).single();
+        }
         return new PageResult<>(items, q.page(), q.size(), total[0]);
     }
 
@@ -112,7 +126,8 @@ public class ProductSearchRepository {
         if (ids.isEmpty()) {
             return List.of();
         }
-        String sql = SELECT.formatted("0") + " WHERE p.id IN (:ids) AND p.status <> 'DRAFT'";
+        String sql = "SELECT " + CARD_COLUMNS + ", " + IMAGE_COLUMNS + " " + FROM + PRIMARY_IMAGE
+                + " WHERE p.id IN (:ids) AND p.status <> 'DRAFT'";
         var byId = jdbc.sql(sql).param("ids", ids).query((rs, i) -> mapRow(rs)).list().stream()
                 .collect(Collectors.toMap(ProductSummary::id, s -> s));
         return ids.stream().map(byId::get).filter(Objects::nonNull).toList();

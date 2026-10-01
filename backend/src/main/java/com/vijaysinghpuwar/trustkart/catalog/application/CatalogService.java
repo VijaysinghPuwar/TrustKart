@@ -63,7 +63,13 @@ public class CatalogService {
     public static final int MAX_COMPARE = 4;
     public static final int MAX_LOOKUP = 24;
 
-    /** Curated home-page tiles: collection tag, title, subtitle. Editorial groupings, not personalisation. */
+    /** The home page shows six collection tiles (five once "Pick up where you left off" takes the first slot). */
+    static final int HOME_TILE_COUNT = 6;
+
+    /**
+     * Curated collections in home-page order: tag, title, subtitle. Editorial groupings, not personalisation. Only
+     * the first {@link #HOME_TILE_COUNT} non-empty ones reach the home page; every one has its own collection page.
+     */
     private static final List<String[]> HOME_TILES = List.of(
             new String[] {"latest-iphones", "Latest iPhones", "iPhone 18 Pro, iPhone Air and the full lineup"},
             new String[] {"galaxy-flagships", "Galaxy flagships", "Galaxy S26 Ultra, Z Fold8 and Z Flip8"},
@@ -91,6 +97,8 @@ public class CatalogService {
      */
     private final Memo<HomeDto> homeCache = new Memo<>(Duration.ofSeconds(60), this::buildHome);
     private final Memo<List<CategoryDto>> treeCache = new Memo<>(Duration.ofMinutes(5), this::buildCategoryTree);
+    /** The hierarchy itself, which every listing, search, suggestion and facet request resolves slugs against. */
+    private final Memo<CategoryTree> hierarchy = new Memo<>(Duration.ofMinutes(5), this::loadHierarchy);
 
     public CatalogService(CategoryRepository categories, SpecDefinitionRepository specDefinitions,
             ProductRepository products, ProductSearchRepository search, CatalogFacetRepository facets, Clock clock) {
@@ -103,6 +111,10 @@ public class CatalogService {
     }
 
     public CategoryTree tree() {
+        return hierarchy.get();
+    }
+
+    private CategoryTree loadHierarchy() {
         return new CategoryTree(categories.findAll());
     }
 
@@ -112,6 +124,7 @@ public class CatalogService {
 
     @EventListener
     void onCatalogChanged(CatalogChanged event) {
+        hierarchy.clear();
         homeCache.clear();
         treeCache.clear();
     }
@@ -377,9 +390,11 @@ public class CatalogService {
                 .filter(ProductSummary::featured).toList();
         List<ProductCardDto> featured = featuredSummaries.stream().map(CatalogMapper::card).toList();
 
+        // Streams are lazy, so collections past the first HOME_TILE_COUNT non-empty ones are never queried.
         List<ShelfDto> tiles = HOME_TILES.stream()
                 .map(t -> new ShelfDto(t[0], t[1], t[2], "/collections/" + t[0], collection(t[0], 4)))
                 .filter(t -> !t.items().isEmpty())
+                .limit(HOME_TILE_COUNT)
                 .toList();
         List<ProductCardDto> slides = heroSlides(dealSummaries, featuredSummaries);
         return new HomeDto(slides.isEmpty() ? null : slides.getFirst(), slides, tiles, deals, featured, categoryTree());
