@@ -79,7 +79,7 @@
             <scope>runtime</scope>
         </dependency>
 
-        <!-- Redis: rate limiting, token denylist, cache -->
+        <!-- Redis: rate limiting and OAuth sign-in state -->
         <dependency>
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter-data-redis</artifactId>

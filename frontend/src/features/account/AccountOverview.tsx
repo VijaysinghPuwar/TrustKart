@@ -42,7 +42,9 @@ export default function AccountOverview() {
           comes with you.
         </p>
       )}
-      <div className="grid gap-3 sm:grid-cols-3">
+      {/* Columns follow the space beside the account menu, not the viewport: three across a tablet's narrow
+          content column truncated balances like "$450,0…". */}
+      <div className="grid grid-cols-[repeat(auto-fit,minmax(12rem,1fr))] gap-3">
         <Summary
           to="/wallet"
           label="Wallet balance"
@@ -104,7 +106,7 @@ function Summary({ to, label, value }: { to: string; label: string; value: strin
       className="flex flex-col gap-1 rounded-tile border border-border bg-surface p-4 text-ink no-underline hover:border-primary hover:text-ink hover:no-underline"
     >
       <span className="text-sm text-ink-muted">{label}</span>
-      <span className="truncate text-2xl font-bold tabular">{value}</span>
+      <span className="text-2xl font-bold break-words tabular">{value}</span>
     </Link>
   )
 }

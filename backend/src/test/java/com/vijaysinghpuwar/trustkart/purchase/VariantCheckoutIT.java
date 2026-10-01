@@ -12,6 +12,7 @@ import com.vijaysinghpuwar.trustkart.support.IntegrationTest;
 import com.vijaysinghpuwar.trustkart.support.ShoppingFixtures;
 import java.net.URLEncoder;
 import java.nio.charset.StandardCharsets;
+import java.util.List;
 import java.util.UUID;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
@@ -96,6 +97,12 @@ class VariantCheckoutIT {
                 .andExpect(jsonPath("$.total").value("1799.00"))
                 .andExpect(jsonPath("$.lines[0].optionsLabel").value(org.hamcrest.Matchers.startsWith("1TB")));
         b.get("/api/v1/checkout/quote?productId=" + iphone + "&quantity=1&options=not-json").andExpect(status().isBadRequest());
+        // JSON null used to decode to a null map and fail with a 500.
+        for (String malformed : List.of("null", "[]", "1", "%7B%22a%22%3A%7B%22b%22%3A1%7D%7D")) {
+            b.get(java.net.URI.create("/api/v1/checkout/quote?productId=" + iphone + "&options=" + malformed))
+                    .andExpect(status().isBadRequest())
+                    .andExpect(jsonPath("$.fieldErrors[0].field").value("options"));
+        }
 
         String body = "{\"deliveryPreset\":\"HOME\",\"simulationAddress\":{\"label\":\"Home\"},\"instant\":{\"productId\":" + iphone
                 + ",\"quantity\":1,\"options\":{\"Storage\":\"1TB\"}}}";

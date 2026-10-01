@@ -11,8 +11,11 @@ export function CompareTray() {
   const visible = picks.length > 0 && pathname !== '/compare'
 
   useEffect(() => {
-    // Lift toasts above the tray while it is open.
-    document.documentElement.style.setProperty('--tk-toast-offset', visible ? '120px' : '24px')
+    // Lift toasts above the tray while it is open (and above a phone purchase bar, which publishes its height).
+    document.documentElement.style.setProperty(
+      '--tk-toast-offset',
+      `calc(var(--tk-bottom-bar, 0px) + ${visible ? '120px' : '24px'})`,
+    )
   }, [visible])
 
   if (!visible) return null
@@ -23,7 +26,7 @@ export function CompareTray() {
   return (
     <section
       aria-label="Compare products"
-      className="fixed bottom-5 left-1/2 z-30 flex w-[min(720px,calc(100vw-24px))] -translate-x-1/2 flex-wrap items-center gap-2.5 rounded-tile border border-border bg-surface px-3.5 py-3 shadow-lg"
+      className="fixed bottom-[calc(var(--tk-bottom-bar,0px)+20px)] left-1/2 z-30 flex w-[min(720px,calc(100vw-24px))] -translate-x-1/2 flex-wrap items-center gap-2.5 rounded-tile border border-border bg-surface px-3.5 py-3 shadow-lg"
     >
       <h2 className="text-sm font-semibold">Compare</h2>
       <ul className="flex min-w-0 flex-[1_1_200px] flex-wrap items-center gap-1.5">

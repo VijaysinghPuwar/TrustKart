@@ -159,7 +159,7 @@ export function AchievementsSection({ achievements }: { achievements: Achievemen
             )}
           >
             {g}
-            <span className="ml-1.5 text-xs text-ink-subtle tabular">
+            <span className="ml-1.5 text-xs text-ink-muted tabular">
               {g === 'All'
                 ? `${String(unlocked)}/${String(achievements.length)}`
                 : `${String(achievements.filter((a) => a.group === g && a.unlocked).length)}/${String(achievements.filter((a) => a.group === g).length)}`}

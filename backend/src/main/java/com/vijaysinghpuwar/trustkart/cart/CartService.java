@@ -86,6 +86,9 @@ public class CartService {
     @Transactional
     public CartView add(long shopperId, long productId, Map<String, String> options, int quantity) {
         ProductSummary product = requirePurchasable(productId);
+        // Concurrent adds (a double tap, two tabs) would otherwise read the same quantity and lose increments, or
+        // both insert a new line and collide on its unique key.
+        items.lockShopper(shopperId);
         Map<String, String> selection = new TreeMap<>(catalog.resolveOptions(productId, options).selection());
         var existing = items.findByShopperIdAndProductId(shopperId, productId).stream()
                 .filter(i -> i.sameSelection(productId, selection)).findFirst();

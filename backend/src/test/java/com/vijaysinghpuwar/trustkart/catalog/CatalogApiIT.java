@@ -133,7 +133,7 @@ class CatalogApiIT {
                 .andExpect(status().isOk())
                 .andExpect(header().string("Cache-Control", "max-age=60, public, s-maxage=300, stale-if-error=604800, stale-while-revalidate=604800"))
                 .andExpect(jsonPath("$.hero.slug").isNotEmpty())
-                .andExpect(jsonPath("$.tiles", hasSize(greaterThanOrEqualTo(6))))
+                .andExpect(jsonPath("$.tiles", hasSize(6))) // exactly what the page shows
                 .andExpect(jsonPath("$.tiles[0].key").value("latest-iphones"))
                 .andExpect(jsonPath("$.tiles[*].items", everyItem(hasSize(4))))
                 .andExpect(jsonPath("$.deals[*].compareAtPrice", everyItem(instanceOf(String.class))))
@@ -224,6 +224,28 @@ class CatalogApiIT {
                 .andExpect(jsonPath("$.page").value(1))
                 .andExpect(jsonPath("$.totalItems", greaterThan(100)))
                 .andExpect(jsonPath("$.totalPages", greaterThan(10)));
+    }
+
+    /** Past the last page the total used to come back as 0, which also made search widen its query for nothing. */
+    @Test
+    void pagesPastTheEndKeepTheRealTotal() throws Exception {
+        String first = mvc.perform(get("/api/v1/catalog/products").param("size", "10"))
+                .andExpect(jsonPath("$.items[0].image.small").isNotEmpty())
+                .andReturn().getResponse().getContentAsString();
+        Integer total = JsonPath.read(first, "$.totalItems");
+        mvc.perform(get("/api/v1/catalog/products").param("size", "10").param("page", "9999"))
+                .andExpect(jsonPath("$.items", hasSize(0)))
+                .andExpect(jsonPath("$.totalItems").value(total));
+
+        String search = mvc.perform(get("/api/v1/search").param("q", "apple iphone"))
+                .andReturn().getResponse().getContentAsString();
+        Integer matches = JsonPath.read(search, "$.results.totalItems");
+        mvc.perform(get("/api/v1/search").param("q", "apple iphone").param("page", "500"))
+                .andExpect(jsonPath("$.relaxed").value(false))
+                .andExpect(jsonPath("$.results.items", hasSize(0)))
+                .andExpect(jsonPath("$.results.totalItems").value(matches));
+        mvc.perform(get("/api/v1/search").param("q", "zzzqqqxx").param("page", "3"))
+                .andExpect(jsonPath("$.results.totalItems").value(0));
     }
 
     @Test

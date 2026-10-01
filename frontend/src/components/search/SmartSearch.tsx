@@ -42,6 +42,7 @@ export function SmartSearch() {
   const [recent, setRecent] = useState<string[]>(getRecentSearches)
   const [placeholderIndex, setPlaceholderIndex] = useState(0)
   const [focused, setFocused] = useState(false)
+  const [announcement, setAnnouncement] = useState('')
   const inputRef = useRef<HTMLInputElement>(null)
   const listId = useId()
   const optionId = (i: number) => `${listId}-opt-${String(i)}`
@@ -151,6 +152,15 @@ export function SmartSearch() {
     } else if (e.key === 'Escape') {
       setOpen(false)
       setActive(-1)
+    } else if (e.key === 'Delete' && open) {
+      // Like a browser's own autocomplete: Delete (or Shift+Delete) forgets the highlighted recent search.
+      const row = active >= 0 ? rows[active] : undefined
+      if (row?.kind === 'query' && row.removable) {
+        e.preventDefault()
+        setRecent(removeRecentSearch(row.text))
+        setActive(-1)
+        setAnnouncement(`Removed ${row.text} from recent searches`)
+      }
     }
   }
 
@@ -227,6 +237,9 @@ export function SmartSearch() {
         </button>
       </form>
 
+      <p role="status" className="sr-only">
+        {announcement}
+      </p>
       <div
         id={listId}
         role="listbox"
@@ -295,6 +308,7 @@ export function SmartSearch() {
                   >
                     {row.text}
                     {row.sub && <span className="font-normal text-ink-muted">{row.sub}</span>}
+                    {row.removable && <span className="sr-only">. Press Delete to remove.</span>}
                   </span>
                   {row.removable && (
                     <button

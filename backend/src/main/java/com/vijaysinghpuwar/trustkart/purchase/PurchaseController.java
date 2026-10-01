@@ -61,6 +61,9 @@ class PurchaseController {
         }
         try {
             Map<String, String> parsed = json.readValue(raw, new TypeReference<Map<String, String>>() {});
+            if (parsed == null) { // the literal JSON null
+                throw new ValidationException("options", "Options must be a JSON object of group to choice.");
+            }
             if (parsed.size() > 8 || parsed.entrySet().stream().anyMatch(e -> e.getKey().length() > 40
                     || e.getValue() == null || e.getValue().length() > 80)) {
                 throw new ValidationException("options", "Too many or too long options.");

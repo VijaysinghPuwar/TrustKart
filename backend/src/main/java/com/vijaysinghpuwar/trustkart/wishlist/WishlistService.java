@@ -6,8 +6,12 @@ import com.vijaysinghpuwar.trustkart.common.error.ApiException;
 import com.vijaysinghpuwar.trustkart.common.error.ErrorCode;
 import com.vijaysinghpuwar.trustkart.common.error.NotFoundException;
 import com.vijaysinghpuwar.trustkart.shopper.ShopperMergedEvent;
+import java.util.ArrayList;
+import java.util.HashMap;
 import java.util.List;
+import java.util.Map;
 import java.util.UUID;
+import java.util.stream.Collectors;
 import org.springframework.context.event.EventListener;
 import org.springframework.dao.DuplicateKeyException;
 import org.springframework.jdbc.core.simple.JdbcClient;
@@ -42,7 +46,29 @@ public class WishlistService {
                 .param("s", shopperId)
                 .query((rs, i) -> new Row(rs.getObject("id", UUID.class), rs.getString("name"), rs.getBoolean("is_default")))
                 .list();
-        return rows.stream().map(r -> new ListView(r.id(), r.name(), r.isDefault(), catalog.lookupAll(productIds(r.id())))).toList();
+        if (rows.isEmpty()) {
+            return List.of();
+        }
+        // Every list's items in one query and every product card in one more, however many lists there are.
+        record Item(UUID listId, long productId) {}
+        List<Item> items = jdbc.sql("""
+                        SELECT wi.wishlist_id, wi.product_id FROM wishlist_item wi JOIN wishlist w ON w.id = wi.wishlist_id
+                        WHERE w.shopper_id = :s ORDER BY wi.added_at DESC""")
+                .param("s", shopperId)
+                .query((rs, i) -> new Item(rs.getObject("wishlist_id", UUID.class), rs.getLong("product_id")))
+                .list();
+        Map<Long, ProductCardDto> cards = catalog.lookupAll(items.stream().map(Item::productId).toList()).stream()
+                .collect(Collectors.toMap(ProductCardDto::id, c -> c));
+        Map<UUID, List<ProductCardDto>> byList = new HashMap<>();
+        for (Item item : items) {
+            ProductCardDto card = cards.get(item.productId());
+            if (card != null) { // drafted or removed products drop out, as they did before
+                byList.computeIfAbsent(item.listId(), k -> new ArrayList<>()).add(card);
+            }
+        }
+        return rows.stream()
+                .map(r -> new ListView(r.id(), r.name(), r.isDefault(), List.copyOf(byList.getOrDefault(r.id(), List.of()))))
+                .toList();
     }
 
     @Transactional(readOnly = true)
@@ -55,6 +81,7 @@ public class WishlistService {
 
     @Transactional
     public UUID createList(long shopperId, String name) {
+        lockShopper(shopperId);
         long count = jdbc.sql("SELECT count(*) FROM wishlist WHERE shopper_id = :s").param("s", shopperId).query(Long.class).single();
         if (count >= MAX_LISTS) {
             throw new ApiException(ErrorCode.CONFLICT, "You can have up to " + MAX_LISTS + " lists.");
@@ -91,6 +118,7 @@ public class WishlistService {
         if (catalog.summariesById(List.of(productId)).isEmpty()) {
             throw new NotFoundException("Product");
         }
+        lockShopper(shopperId);
         UUID target = listId != null ? requireList(shopperId, listId) : defaultList(shopperId);
         long size = jdbc.sql("SELECT count(*) FROM wishlist_item WHERE wishlist_id = :w").param("w", target).query(Long.class).single();
         if (size >= MAX_ITEMS_PER_LIST) {
@@ -140,6 +168,14 @@ public class WishlistService {
     private List<Long> productIds(UUID listId) {
         return jdbc.sql("SELECT product_id FROM wishlist_item WHERE wishlist_id = :w ORDER BY added_at DESC")
                 .param("w", listId).query(Long.class).list();
+    }
+
+    /**
+     * Serializes a shopper's list changes. Several hearts tapped at once each found no default list, each created one
+     * and all but the first failed on its unique index; the list and item limits were also checked racily.
+     */
+    private void lockShopper(long shopperId) {
+        jdbc.sql("SELECT id FROM shopper WHERE id = :s FOR UPDATE").param("s", shopperId).query(Long.class).optional();
     }
 
     private UUID requireList(long shopperId, UUID listId) {

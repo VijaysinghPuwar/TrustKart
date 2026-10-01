@@ -17,6 +17,7 @@ import { useProduct } from '@/data/catalog'
 import { ApiError } from '@/lib/api'
 import type { OptionSelection } from '@/lib/types'
 import { usePageTitle } from '@/lib/usePageTitle'
+import { usePublishedHeight } from '@/lib/usePublishedHeight'
 import { MAX_COMPARE, useCompareTray } from '@/state/compare'
 import { recordView } from '@/state/recentlyViewed'
 import { NotFoundPage } from '@/features/errors/NotFoundPage'
@@ -48,6 +49,7 @@ export default function ProductPage() {
   const { notify } = useToast()
   usePageTitle(product.data?.product.name)
   const viewedId = product.data?.product.id
+  const bottomBar = usePublishedHeight('--tk-bottom-bar')
 
   useEffect(() => {
     if (viewedId !== undefined) recordView(viewedId)
@@ -245,7 +247,10 @@ export default function ProductPage() {
       )}
 
       {available && (
-        <div className="fixed inset-x-0 bottom-0 z-20 flex items-center gap-3 border-t border-border bg-surface px-4 py-3 shadow-lg md:hidden">
+        <div
+          ref={bottomBar}
+          className="fixed inset-x-0 bottom-0 z-20 flex items-center gap-3 border-t border-border bg-surface px-4 pt-3 pb-[max(0.75rem,env(safe-area-inset-bottom))] shadow-lg md:hidden"
+        >
           <Price amount={price} className="flex-1" />
           <Button
             variant="accent"

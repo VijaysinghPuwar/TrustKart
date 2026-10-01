@@ -11,7 +11,7 @@ import java.util.List;
 import java.util.Map;
 import java.util.Optional;
 
-/** Immutable, in-memory view of the (small) category hierarchy with O(1) lookups. */
+/** Immutable, in-memory view of the (small) category hierarchy with O(1) lookups. Shared between threads. */
 public final class CategoryTree {
 
     public record Node(long id, String slug, String name, String description, Long parentId, int sortOrder) {}
@@ -30,6 +30,7 @@ public final class CategoryTree {
                     bySlug.put(node.slug(), node);
                 });
         byId.values().forEach(n -> children.computeIfAbsent(n.parentId(), k -> new ArrayList<>()).add(n));
+        children.replaceAll((parent, nodes) -> List.copyOf(nodes));
     }
 
     public Optional<Node> bySlug(String slug) {

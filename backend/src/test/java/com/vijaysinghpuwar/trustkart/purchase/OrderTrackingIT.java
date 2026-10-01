@@ -17,6 +17,7 @@ import java.util.UUID;
 import org.junit.jupiter.api.AfterEach;
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.jdbc.core.simple.JdbcClient;
 import org.springframework.test.web.servlet.MockMvc;
 
 @IntegrationTest
@@ -30,6 +31,9 @@ class OrderTrackingIT {
 
     @Autowired
     MutableClock clock;
+
+    @Autowired
+    JdbcClient jdbc;
 
     @AfterEach
     void resetClock() {
@@ -142,6 +146,47 @@ class OrderTrackingIT {
         b.get("/api/v1/notifications/unread-count").andExpect(jsonPath("$.count").value(3));
         b.post("/api/v1/notifications/read-all").andExpect(status().isNoContent());
         b.get("/api/v1/notifications/unread-count").andExpect(jsonPath("$.count").value(0));
+    }
+
+    /**
+     * Retention keeps the newest 200 notifications. A milestone trimmed out of a full history used to look new on the
+     * next poll, so every poll inserted it again and deleted it again. Now an unchanged poll writes nothing.
+     */
+    @Test
+    void trimmedMilestonesAreNotRecreatedOnEveryPoll() throws Exception {
+        Browser b = new Browser(mvc);
+        String orderId = order(b, fixtures.product("25.00", 3));
+        long shopper = jdbc.sql("SELECT shopper_id FROM virtual_purchase WHERE public_id = :id")
+                .param("id", UUID.fromString(orderId)).query(Long.class).single();
+        // 199 notifications newer than the order: with "Order confirmed" that is exactly the 200 retention keeps.
+        for (int i = 0; i < 199; i++) {
+            jdbc.sql("""
+                            INSERT INTO notification (public_id, shopper_id, type, dedupe_key, title, body, created_at)
+                            VALUES (:id, :s, 'LEADERBOARD_MILESTONE', :key, 'Filler', 'Filler', :at)""")
+                    .param("id", UUID.randomUUID()).param("s", shopper).param("key", "test:" + i)
+                    .param("at", java.sql.Timestamp.from(clock.instant().plus(Duration.ofMinutes(10 + i)))).update();
+        }
+        b.get("/api/v1/notifications/unread-count").andExpect(jsonPath("$.count").value(200));
+
+        // Shipping, out-for-delivery and delivery arrive; the trim drops "Order confirmed" and two fillers.
+        clock.advance(Duration.ofDays(8));
+        b.get("/api/v1/notifications/unread-count").andExpect(jsonPath("$.count").value(200));
+        // The identity sequence advances on every INSERT, even one the trim deletes again in the same poll.
+        String lastId = "SELECT last_value FROM " + jdbc.sql("SELECT pg_get_serial_sequence('notification', 'id')")
+                .query(String.class).single();
+        long before = jdbc.sql(lastId).query(Long.class).single();
+
+        for (int i = 0; i < 3; i++) {
+            b.get("/api/v1/notifications/unread-count").andExpect(jsonPath("$.count").value(200));
+        }
+        assertThat(jdbc.sql(lastId).query(Long.class).single()).as("no notification was inserted again").isEqualTo(before);
+        String json = b.get("/api/v1/notifications?size=3").andReturn().getResponse().getContentAsString();
+        assertThat(JsonPath.<List<String>>read(json, "$.items[*].type"))
+                .containsExactly("DELIVERED", "OUT_FOR_DELIVERY", "ORDER_SHIPPED");
+
+        // Something new still gets through a full history.
+        b.post("/api/v1/purchases/" + orderId + "/refund").andExpect(status().is2xxSuccessful());
+        b.get("/api/v1/notifications?size=1").andExpect(jsonPath("$.items[0].type").value("ORDER_REFUNDED"));
     }
 
     @Test

@@ -52,19 +52,25 @@ once to a neutral placeholder if a file fails, without retrying.
 
 - **Card-sized payloads.** Listings return `ProductCardDto` (name, brand, price, stock, one image); descriptions,
   specs, the gallery and options are only in the product detail response.
-- **No N+1 on the hot paths.** Listings are one SQL query with the first image joined in; the cart and checkout load
-  every product in one query to price option choices; the orders list batch-loads its items.
-- **In-process caches, not Redis, for public catalog data.** Home (60 s) and the category tree (5 min) are
+- **No N+1 on the hot paths.** Listings are one SQL query that picks the page of products first and only then joins
+  each card's first image (so a 24-card page looks up 24 images, not one per matching product); the cart and checkout
+  load every product in one query to price option choices; the orders list batch-loads its items; wishlists load
+  every list's items and cards in two queries however many lists there are.
+- **In-process caches, not Redis, for public catalog data.** Home (60 s, built from only the six collection tiles
+  it shows) and the category tree (5 min, also used to resolve every listing, search and suggestion) are
   identical for everyone and small, so they live in memory (`common/cache/Memo.java`): one caller rebuilds an
   expired value while others wait, and seeding the catalog clears them. The leaderboard caches each board for 30 s
   and drops it when an order commits. PostgreSQL stays the source of truth for all of it.
-- **Redis is for shared, short-lived state only:** rate-limit buckets, revoked session ids and OAuth sign-in state,
-  all with TTLs. If Redis is down, rate limits fail open and the store keeps working.
+- **Redis is for shared, short-lived state only:** rate-limit buckets and OAuth sign-in state, both with TTLs. If
+  Redis is down, rate limits fail open and the store keeps working. Sign-out is not one of them: every authenticated
+  request checks its session row in PostgreSQL (one primary-key lookup), so a lost cache entry can never bring a
+  signed-out token back.
 - **Reads don't lock.** Viewing the wallet or a checkout quote reads the balance without `SELECT ... FOR UPDATE`;
   only placing an order or changing funds takes the row lock.
 - **Notifications poll cheaply.** A poll where nothing changed runs read-only queries: it checks which milestone
   keys already exist before inserting, reads ranks from the cached leaderboards, and trims old rows only after an
-  insert.
+  insert. Once a shopper has the 200 notifications retention keeps, older milestones that were trimmed are not
+  inserted again (they would only be trimmed again on every poll).
 - **Indexes follow queries.** Full-text search (GIN), category and price, product images by product, orders by
   shopper and date, a partial index on completed orders for rankings, and `product_collection(product_id)` for a
   product's collection tags.
@@ -88,4 +94,7 @@ Set from the measured state so a regression is visible, not aspirational:
 - `frontend/e2e/responsive.spec.ts`: no horizontal scroll on key pages from 320 to 1920 px, a stable banner height,
   and a one-row phone header.
 - `frontend/scripts/measure.mjs` and `frontend/scripts/responsive-audit.mjs` reproduce the measurements.
-- Backend integration tests cover notifications, leaderboards, cart and checkout behaviour after the query changes.
+- `frontend/e2e/overlays-and-keyboard.spec.ts`: the phone notification panel and compare tray stay on screen and out
+  of each other's way, account values never truncate, and the keyboard paths for rankings tabs and recent searches.
+- Backend integration tests cover notifications, leaderboards, cart and checkout behaviour after the query changes,
+  including concurrent cart and wishlist writes.

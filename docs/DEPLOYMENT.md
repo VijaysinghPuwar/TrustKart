@@ -16,7 +16,7 @@ proxies `/api` the same way.
 browser ──► https://trustkart.vercel.app ──┬─ static files (Vercel CDN)
                                            └─ /api/* ──rewrite──► https://<your-api-host>/api/*
                                                                    ├─ PostgreSQL 17 + pgvector
-                                                                   └─ Redis (rate limits, sessions)
+                                                                   └─ Redis (rate limits, Google sign-in state)
 ```
 
 ## 1. Database and Redis
