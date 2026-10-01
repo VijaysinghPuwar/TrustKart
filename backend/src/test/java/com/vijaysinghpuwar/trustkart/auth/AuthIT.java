@@ -202,6 +202,35 @@ class AuthIT {
         replay.get("/api/v1/me/sessions").andExpect(status().isUnauthorized());
     }
 
+    /**
+     * Regression for a revocation that existed only in a Redis denylist: a missing key (eviction, restart, a failed
+     * write) was read as "not revoked". The session table alone now decides, so these hold with no cache state at all.
+     */
+    @Test
+    void accessTokensFollowTheSessionTableNotACache() throws Exception {
+        Browser revoked = registered(email());
+        jdbc.sql("UPDATE user_session SET revoked_at = now(), revoke_reason = 'TEST' WHERE id = :id")
+                .param("id", sessionId(revoked)).update();
+        revoked.get("/api/v1/me/sessions").andExpect(status().isUnauthorized());
+
+        Browser expired = registered(email());
+        jdbc.sql("UPDATE user_session SET expires_at = now() - interval '1 minute' WHERE id = :id")
+                .param("id", sessionId(expired)).update();
+        expired.get("/api/v1/me/sessions").andExpect(status().isUnauthorized());
+
+        Browser deleted = registered(email());
+        jdbc.sql("DELETE FROM user_session WHERE id = :id").param("id", sessionId(deleted)).update();
+        deleted.get("/api/v1/me/sessions").andExpect(status().isUnauthorized());
+
+        Browser live = registered(email());
+        live.get("/api/v1/me/sessions").andExpect(status().isOk());
+    }
+
+    static UUID sessionId(Browser b) {
+        String payload = new String(java.util.Base64.getUrlDecoder().decode(b.cookie("tk_at").split("\\.")[1]));
+        return UUID.fromString(JsonPath.read(payload, "$.sid"));
+    }
+
     @Test
     void forgedOrTamperedTokensAreRejected() throws Exception {
         Browser b = registered(email());

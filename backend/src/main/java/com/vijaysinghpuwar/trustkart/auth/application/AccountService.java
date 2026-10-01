@@ -12,7 +12,6 @@ import com.vijaysinghpuwar.trustkart.security.AuthenticatedUser;
 import com.vijaysinghpuwar.trustkart.security.ClientInfo;
 import com.vijaysinghpuwar.trustkart.security.RateLimitPolicy;
 import com.vijaysinghpuwar.trustkart.security.RateLimiter;
-import com.vijaysinghpuwar.trustkart.security.SessionRevocation;
 import java.time.Clock;
 import java.time.Instant;
 import java.util.List;
@@ -36,17 +35,15 @@ public class AccountService {
     private final UserSessionRepository sessions;
     private final AuthJdbcRepository authJdbc;
     private final PasswordEncoder passwords;
-    private final SessionRevocation revocation;
     private final RateLimiter rateLimiter;
     private final Clock clock;
 
     public AccountService(AppUserRepository users, UserSessionRepository sessions, AuthJdbcRepository authJdbc,
-            PasswordEncoder passwords, SessionRevocation revocation, RateLimiter rateLimiter, Clock clock) {
+            PasswordEncoder passwords, RateLimiter rateLimiter, Clock clock) {
         this.users = users;
         this.sessions = sessions;
         this.authJdbc = authJdbc;
         this.passwords = passwords;
-        this.revocation = revocation;
         this.rateLimiter = rateLimiter;
         this.clock = clock;
     }
@@ -73,7 +70,6 @@ public class AccountService {
         UserSession session = sessions.findByIdAndUserId(sessionId, me.userId())
                 .orElseThrow(() -> new NotFoundException("Session"));
         session.revoke("USER_REVOKED", clock.instant());
-        revocation.markRevoked(session.getId());
     }
 
     @Transactional
@@ -81,10 +77,7 @@ public class AccountService {
         Instant now = clock.instant();
         List<UserSession> others = sessions.findActive(me.userId(), now).stream()
                 .filter(s -> !s.getId().equals(me.sessionId())).toList();
-        others.forEach(s -> {
-            s.revoke("USER_REVOKED_OTHERS", now);
-            revocation.markRevoked(s.getId());
-        });
+        others.forEach(s -> s.revoke("USER_REVOKED_OTHERS", now));
         return others.size();
     }
 

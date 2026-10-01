@@ -12,7 +12,6 @@ import com.vijaysinghpuwar.trustkart.common.error.ErrorCode;
 import com.vijaysinghpuwar.trustkart.common.error.ValidationException;
 import com.vijaysinghpuwar.trustkart.security.AuthProperties;
 import com.vijaysinghpuwar.trustkart.security.ClientInfo;
-import com.vijaysinghpuwar.trustkart.security.SessionRevocation;
 import com.vijaysinghpuwar.trustkart.security.Tokens;
 import java.time.Clock;
 import java.time.Duration;
@@ -49,20 +48,18 @@ public class AuthService {
     private final AuthJdbcRepository authJdbc;
     private final PasswordEncoder passwords;
     private final TokenIssuer tokens;
-    private final SessionRevocation revocation;
     private final AuthProperties props;
     private final Clock clock;
     /** Hash of a random password, verified against when the email is unknown so timing doesn't reveal it. */
     private final String dummyHash;
 
     public AuthService(AppUserRepository users, UserSessionRepository sessions, AuthJdbcRepository authJdbc,
-            PasswordEncoder passwords, TokenIssuer tokens, SessionRevocation revocation, AuthProperties props, Clock clock) {
+            PasswordEncoder passwords, TokenIssuer tokens, AuthProperties props, Clock clock) {
         this.users = users;
         this.sessions = sessions;
         this.authJdbc = authJdbc;
         this.passwords = passwords;
         this.tokens = tokens;
-        this.revocation = revocation;
         this.props = props;
         this.clock = clock;
         this.dummyHash = passwords.encode(Tokens.random());
@@ -140,7 +137,6 @@ public class AuthService {
                 throw new ApiException(ErrorCode.REFRESH_IN_PROGRESS);
             }
             session.revoke("REFRESH_REUSE", now);
-            revocation.markRevoked(session.getId());
             authJdbc.recordLogin(session.getUserId(), "-", LoginOutcome.REFRESH_REUSE_DETECTED, client.ip(),
                     client.userAgent(), session.getId());
             log.warn("Refresh token reuse detected; session {} revoked", session.getId());
@@ -168,7 +164,6 @@ public class AuthService {
                 .or(() -> Optional.ofNullable(sessionFromAccessToken));
         sessionId.flatMap(sessions::findById).ifPresent(s -> {
             s.revoke("LOGOUT", now);
-            revocation.markRevoked(s.getId());
             authJdbc.recordLogin(s.getUserId(), "-", LoginOutcome.LOGOUT, client.ip(), client.userAgent(), s.getId());
         });
     }
