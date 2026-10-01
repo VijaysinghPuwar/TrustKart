@@ -1,5 +1,5 @@
-import { Bell } from 'lucide-react'
-import { useEffect, useId, useRef, useState } from 'react'
+import { Bell, Trophy } from 'lucide-react'
+import { type CSSProperties, useEffect, useId, useRef, useState } from 'react'
 import { Link, useNavigate } from 'react-router'
 import { useMarkAllRead, useMarkRead, useNotifications, useUnreadCount } from '@/data/notifications'
 import { cn } from '@/lib/cn'
@@ -26,7 +26,7 @@ export function NotificationRow({ n, onOpen }: { n: AppNotification; onOpen: (n:
       )}
     >
       <span className="tk-img-well flex size-12 shrink-0 items-center justify-center rounded-control bg-surface-2 p-1">
-        {n.imageUrl && (
+        {n.imageUrl ? (
           <img
             src={n.imageUrl}
             alt=""
@@ -36,6 +36,9 @@ export function NotificationRow({ n, onOpen }: { n: AppNotification; onOpen: (n:
             decoding="async"
             className="size-full object-contain"
           />
+        ) : (
+          // Rank updates have no product photo; an empty well looked like a missing image.
+          n.type.startsWith('LEADERBOARD') && <Trophy className="size-6 text-accent" aria-hidden="true" />
         )}
       </span>
       <span className="min-w-0 flex-1">
@@ -44,7 +47,7 @@ export function NotificationRow({ n, onOpen }: { n: AppNotification; onOpen: (n:
           {!n.read && <span className="size-2 rounded-full bg-primary" aria-label="Unread" />}
         </span>
         <span className="line-clamp-2 block text-[13px] text-ink-muted">{n.body}</span>
-        <span className="text-xs text-ink-subtle">{timeAgo(n.createdAt)}</span>
+        <span className="text-xs text-ink-muted">{timeAgo(n.createdAt)}</span>
       </span>
     </button>
   )
@@ -56,8 +59,11 @@ export function NotificationRow({ n, onOpen }: { n: AppNotification; onOpen: (n:
  */
 export function NotificationBell() {
   const [open, setOpen] = useState(false)
+  // Where the phone layout's viewport-wide panel starts: just below the bell, measured when it opens.
+  const [panelTop, setPanelTop] = useState(64)
   const panelId = useId()
   const root = useRef<HTMLDivElement>(null)
+  const button = useRef<HTMLButtonElement>(null)
   const navigate = useNavigate()
   const { data: unread = 0 } = useUnreadCount()
   const list = useNotifications(open)
@@ -85,7 +91,10 @@ export function NotificationBell() {
       if (!root.current?.contains(e.target as Node)) setOpen(false)
     }
     const onKey = (e: KeyboardEvent) => {
-      if (e.key === 'Escape') setOpen(false)
+      if (e.key === 'Escape') {
+        setOpen(false)
+        button.current?.focus()
+      }
     }
     document.addEventListener('pointerdown', onDown)
     document.addEventListener('keydown', onKey)
@@ -104,11 +113,16 @@ export function NotificationBell() {
   return (
     <div ref={root} className="relative">
       <button
+        ref={button}
         type="button"
         aria-expanded={open}
         aria-controls={panelId}
         aria-label={unread > 0 ? `Notifications, ${String(unread)} unread` : 'Notifications'}
-        onClick={() => setOpen((v) => !v)}
+        onClick={() => {
+          if (!open && button.current)
+            setPanelTop(Math.round(button.current.getBoundingClientRect().bottom) + 8)
+          setOpen((v) => !v)
+        }}
         className="relative flex size-11 items-center justify-center rounded-chip text-white hover:bg-white/10 sm:size-[46px]"
       >
         <Bell className="size-[22px]" aria-hidden="true" />
@@ -121,12 +135,15 @@ export function NotificationBell() {
           </span>
         )}
       </button>
+      {/* Phones: the bell sits left of the cart, so a panel anchored to it would run off the left edge. There it
+          spans the viewport with a 12px inset instead (the header is sticky, so the measured top stays valid). */}
       {open && (
         <div
           id={panelId}
           role="region"
           aria-label="Notifications"
-          className="absolute right-0 top-[52px] z-30 flex max-h-[min(560px,75vh)] w-[min(380px,calc(100vw-24px))] flex-col rounded-card border border-border bg-surface text-ink shadow-2xl"
+          style={{ '--tk-panel-top': `${String(panelTop)}px` } as CSSProperties}
+          className="absolute right-0 top-[52px] z-30 flex max-h-[min(560px,75vh)] w-[min(380px,calc(100vw-24px))] flex-col rounded-card border border-border bg-surface text-ink shadow-2xl max-sm:fixed max-sm:inset-x-3 max-sm:top-(--tk-panel-top) max-sm:max-h-[calc(100dvh-var(--tk-panel-top)-12px)] max-sm:w-auto"
         >
           <div className="flex items-center gap-2 border-b border-border px-4 py-3">
             <h2 className="flex-1 text-base font-bold">Notifications</h2>

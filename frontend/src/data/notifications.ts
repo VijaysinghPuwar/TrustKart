@@ -1,4 +1,4 @@
-import { useMutation, useQuery, useQueryClient } from '@tanstack/react-query'
+import { keepPreviousData, useMutation, useQuery, useQueryClient } from '@tanstack/react-query'
 import { api, get } from '@/lib/api'
 import { browserAlertsEnabled } from '@/lib/browserNotifications'
 import type { NotificationPage, NotificationPreferences } from '@/lib/types'
@@ -24,11 +24,27 @@ export function useUnreadCount() {
   })
 }
 
+/** The bell's preview: the newest few, fetched only while the panel is open. */
 export function useNotifications(enabled = true) {
   return useQuery({
     queryKey: qk.notifications,
     queryFn: ({ signal }) => get<NotificationPage>('/notifications?size=30', signal),
     enabled,
+  })
+}
+
+export const NOTIFICATIONS_PER_PAGE = 30
+
+/** One page of the full history (the server keeps the newest 200). */
+export function useNotificationPage(page: number) {
+  return useQuery({
+    queryKey: qk.notificationPage(page),
+    queryFn: ({ signal }) =>
+      get<NotificationPage>(
+        `/notifications?page=${String(page)}&size=${String(NOTIFICATIONS_PER_PAGE)}`,
+        signal,
+      ),
+    placeholderData: keepPreviousData,
   })
 }
 

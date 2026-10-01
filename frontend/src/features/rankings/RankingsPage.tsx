@@ -1,5 +1,5 @@
 import { Crown, Medal, Trophy } from 'lucide-react'
-import { useState } from 'react'
+import { type KeyboardEvent, useState } from 'react'
 import { Link } from 'react-router'
 import { ButtonLink } from '@/components/ui/Button'
 import { ErrorState } from '@/components/ui/ErrorState'
@@ -47,7 +47,7 @@ function Avatar({ entry, size = 40 }: { entry: LeaderboardEntry; size?: number }
       aria-hidden="true"
       className={cn(
         'flex shrink-0 items-center justify-center rounded-full font-semibold',
-        entry.anonymous ? 'bg-surface-2 text-ink-subtle' : 'bg-primary-subtle text-primary',
+        entry.anonymous ? 'bg-surface-2 text-ink-muted' : 'bg-primary-subtle text-primary-hover',
       )}
       style={{ width: size, height: size, fontSize: size * 0.36 }}
     >
@@ -293,6 +293,25 @@ export default function RankingsPage() {
   const top = b?.entries.slice(0, 3) ?? []
   const rest = b?.entries.slice(3) ?? []
 
+  const onTabKey = (e: KeyboardEvent<HTMLButtonElement>) => {
+    const i = TABS.findIndex((t) => t.type === tab)
+    const next =
+      e.key === 'ArrowRight'
+        ? (i + 1) % TABS.length
+        : e.key === 'ArrowLeft'
+          ? (i - 1 + TABS.length) % TABS.length
+          : e.key === 'Home'
+            ? 0
+            : e.key === 'End'
+              ? TABS.length - 1
+              : -1
+    const target = TABS[next]
+    if (!target) return
+    e.preventDefault()
+    setTab(target.type)
+    document.getElementById(`tab-${target.type}`)?.focus()
+  }
+
   return (
     <div className="flex flex-col gap-6">
       <header className="flex flex-col gap-2">
@@ -304,6 +323,7 @@ export default function RankingsPage() {
         </p>
       </header>
 
+      {/* WAI-ARIA tabs: one tab stop, arrows (and Home/End) move between periods and select them. */}
       <div role="tablist" aria-label="Leaderboard period" className="flex gap-2">
         {TABS.map((t) => (
           <button
@@ -313,6 +333,8 @@ export default function RankingsPage() {
             id={`tab-${t.type}`}
             aria-selected={tab === t.type}
             aria-controls="leaderboard-panel"
+            tabIndex={tab === t.type ? 0 : -1}
+            onKeyDown={onTabKey}
             onClick={() => setTab(t.type)}
             className={cn(
               'h-10 rounded-chip border px-4 text-sm font-semibold',

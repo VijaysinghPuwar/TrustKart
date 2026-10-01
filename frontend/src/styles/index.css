@@ -262,6 +262,8 @@ dialog[open].tk-sheet {
 @layer base {
   p a,
   li > a:where(:not([class])),
+  span > a:where(:not([class])),
+  footer a:where(:not([class])),
   figcaption a,
   dd a {
     text-decoration: underline;

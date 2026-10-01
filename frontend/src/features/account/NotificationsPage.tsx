@@ -4,11 +4,13 @@ import { NotificationRow } from '@/components/layout/NotificationBell'
 import { Button } from '@/components/ui/Button'
 import { ErrorState } from '@/components/ui/ErrorState'
 import { PageSpinner } from '@/components/ui/PageSpinner'
+import { Pagination } from '@/features/search/Pagination'
 import {
   useMarkAllRead,
   useMarkRead,
+  NOTIFICATIONS_PER_PAGE,
+  useNotificationPage,
   useNotificationPreferences,
-  useNotifications,
   useUpdateNotificationPreferences,
 } from '@/data/notifications'
 import { browserAlertsEnabled, browserAlertsSupported, setBrowserAlerts } from '@/lib/browserNotifications'
@@ -49,7 +51,8 @@ function Toggle({
 export default function NotificationsPage() {
   usePageTitle('Notifications')
   const navigate = useNavigate()
-  const list = useNotifications()
+  const [page, setPage] = useState(0)
+  const list = useNotificationPage(page)
   const prefs = useNotificationPreferences()
   const update = useUpdateNotificationPreferences()
   const markRead = useMarkRead()
@@ -61,6 +64,9 @@ export default function NotificationsPage() {
   if (list.isError) return <ErrorState error={list.error} />
   if (prefs.isError) return <ErrorState error={prefs.error} />
 
+  const totalPages = Math.ceil(list.data.totalItems / NOTIFICATIONS_PER_PAGE)
+  // Retention can shrink the history while someone sits on its last page; follow it back.
+  if (totalPages > 0 && page >= totalPages) setPage(totalPages - 1)
   const setPref = (patch: Partial<NotificationPreferences>) => update.mutate({ ...prefs.data, ...patch })
   const open = (n: AppNotification) => {
     if (!n.read) markRead.mutate(n.id)
@@ -87,7 +93,7 @@ export default function NotificationsPage() {
             No updates yet. When you place an order, you’ll see its progress here.
           </p>
         ) : (
-          <ul>
+          <ul aria-busy={list.isPlaceholderData}>
             {list.data.items.map((n) => (
               <li key={n.id}>
                 <NotificationRow n={n} onOpen={open} />
@@ -96,6 +102,7 @@ export default function NotificationsPage() {
           </ul>
         )}
       </section>
+      <Pagination page={page} totalPages={totalPages} onPage={setPage} />
 
       <section
         aria-labelledby="notify-settings"
