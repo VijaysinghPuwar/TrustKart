@@ -152,24 +152,32 @@ public class NotificationService {
                 .list();
         // Work out every milestone due by now, then insert only those not recorded yet: a poll where nothing changed
         // costs one indexed lookup instead of one INSERT per milestone.
-        Map<String, Runnable> due = new LinkedHashMap<>();
+        record Due(Instant at, Runnable insert) {}
+        Map<String, Due> due = new LinkedHashMap<>();
         for (Order o : orders) {
             for (Milestone m : milestones(o, now)) {
                 if (m.type().orderUpdate ? !prefs.orderUpdates() : !prefs.deliveryUpdates()) {
                     continue;
                 }
                 String key = "order:" + o.id() + ":" + m.type().name();
-                due.put(key, () -> insert(shopperId, m.type().name(), key, m.title(), m.body(),
-                        "/account/purchases/" + o.id(), o.imageUrl(), m.at()));
+                due.put(key, new Due(m.at(), () -> insert(shopperId, m.type().name(), key, m.title(), m.body(),
+                        "/account/purchases/" + o.id(), o.imageUrl(), m.at())));
             }
         }
         int inserted = 0;
         if (!due.isEmpty()) {
             Set<String> recorded = recordedKeys(shopperId, due.keySet());
-            for (Map.Entry<String, Runnable> e : due.entrySet()) {
-                if (!recorded.contains(e.getKey())) {
-                    e.getValue().run();
-                    inserted++;
+            List<Due> missing = due.entrySet().stream().filter(e -> !recorded.contains(e.getKey())).map(Map.Entry::getValue).toList();
+            if (!missing.isEmpty()) {
+                // Once a shopper has KEEP notifications, a missing milestone older than all of them was removed by an
+                // earlier trim and would be trimmed straight back out; inserting it again would repeat that INSERT and
+                // DELETE on every poll.
+                Optional<Instant> floor = retentionFloor(shopperId);
+                for (Due d : missing) {
+                    if (floor.isEmpty() || !d.at().isBefore(floor.get())) {
+                        d.insert().run();
+                        inserted++;
+                    }
                 }
             }
         }
@@ -183,6 +191,15 @@ public class NotificationService {
                             (SELECT id FROM notification WHERE shopper_id = :s ORDER BY created_at DESC, id DESC LIMIT :keep)""")
                     .param("s", shopperId).param("keep", KEEP).update();
         }
+    }
+
+    /** The oldest notification retention keeps once a shopper has KEEP of them; empty while there is still room. */
+    private Optional<Instant> retentionFloor(long shopperId) {
+        return jdbc.sql("""
+                        SELECT created_at FROM notification WHERE shopper_id = :s
+                        ORDER BY created_at DESC, id DESC OFFSET :skip LIMIT 1""")
+                .param("s", shopperId).param("skip", KEEP - 1)
+                .query((rs, n) -> rs.getTimestamp(1).toInstant()).optional();
     }
 
     private Set<String> recordedKeys(long shopperId, Collection<String> keys) {
