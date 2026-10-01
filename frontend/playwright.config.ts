@@ -2,7 +2,7 @@ import { defineConfig, devices } from '@playwright/test'
 
 /**
  * End-to-end tests against a running stack (backend on :8080 with the demo catalog, Vite on :5173).
- * CI starts both before running `npx playwright test`.
+ * CI (the e2e job in .github/workflows/ci.yml) starts both from a production build before running the suite.
  */
 export default defineConfig({
   testDir: './e2e',
