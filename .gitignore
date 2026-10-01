@@ -3,3 +3,8 @@
 node_modules/
 __pycache__/
 *.pyc
+
+# Raw evidence from the Codex audit (81 MB of screenshots, logs and payload dumps). Kept locally; the reports in
+# codex/ and docs/CODEX_VERIFICATION.md summarise it.
+codex/evidence/
+codex/screenshots/

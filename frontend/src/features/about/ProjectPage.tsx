@@ -26,7 +26,10 @@ export default function ProjectPage() {
           PostgreSQL with Flyway migrations: JSONB product specifications with a per-category registry,
           full-text search, CHECK constraints on money.
         </li>
-        <li>Redis for distributed rate limiting (Bucket4j) and an instant session-revocation denylist.</li>
+        <li>
+          Redis for distributed rate limiting (Bucket4j) and Google sign-in state. Signing out takes effect at
+          once: every request checks its session in PostgreSQL.
+        </li>
         <li>React, TypeScript, TanStack Query and Tailwind CSS, built from an approved design mockup.</li>
       </ul>
       <h2>Checkout correctness</h2>
@@ -70,7 +73,7 @@ export default function ProjectPage() {
       <p>
         JUnit and Testcontainers integration tests run against real PostgreSQL and Redis, covering
         authentication attacks, IDOR attempts, price manipulation, concurrency and rollback. The frontend uses
-        Vitest, and CI runs the full suite on every push.
+        Vitest, and Playwright drives full shopping journeys in a real browser; CI runs all of it.
       </p>
       <h2>What’s not built yet</h2>
       <p>

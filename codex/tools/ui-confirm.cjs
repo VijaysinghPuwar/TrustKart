@@ -1,0 +1,16 @@
+const {chromium}=require('/private/tmp/trustkart-audit-20260930/frontend/node_modules/@playwright/test');const fs=require('node:fs');const path=require('node:path');const root=path.resolve(__dirname,'..');const results=[];
+(async()=>{
+ const b=await chromium.launch();const c=await b.newContext({viewport:{width:390,height:844},colorScheme:'dark',reducedMotion:'reduce'});const p=await c.newPage();
+ await p.goto('http://127.0.0.1:15173/p/apple-iphone-18-pro',{waitUntil:'networkidle'});
+ await p.getByRole('button',{name:'Compare',exact:true}).click();await p.waitForTimeout(200);
+ const overlap=await p.evaluate(()=>{const a=document.querySelector('section[aria-label="Compare products"]');const b=[...document.querySelectorAll('div.fixed')].find(x=>x.className.includes('bottom-0'));const ar=a.getBoundingClientRect(),br=b.getBoundingClientRect();return {tray:{x:ar.x,y:ar.y,width:ar.width,height:ar.height},bar:{x:br.x,y:br.y,width:br.width,height:br.height},overlapHeight:Math.min(ar.bottom,br.bottom)-Math.max(ar.top,br.top),elementAtButtonCenter:document.elementFromPoint(310,812)?.outerHTML.slice(0,400)}});
+ results.push({check:'product compare tray versus sticky purchase bar',...overlap});await p.screenshot({path:path.join(root,'screenshots/compare-tray-overlap-390.png')});
+ await p.goto('http://127.0.0.1:15173/c/laptops',{waitUntil:'networkidle'});await p.getByRole('button',{name:'Filters',exact:true}).click();await p.waitForTimeout(250);
+ results.push({check:'settled filter sheet geometry',...await p.getByRole('dialog').evaluate(e=>({rect:e.getBoundingClientRect().toJSON(),innerHeight:innerHeight,visualViewport:{height:visualViewport.height,offsetTop:visualViewport.offsetTop},scrollHeight:e.scrollHeight,clientHeight:e.clientHeight}))});
+ await p.screenshot({path:path.join(root,'screenshots/filter-open-390.png')});
+ await p.keyboard.press('Escape');await p.waitForTimeout(100);results.push({check:'filter Escape settled',open:await p.locator('dialog[open]').count()});
+ await p.goto('http://127.0.0.1:15173/wallet',{waitUntil:'networkidle'});await p.getByRole('button',{name:'Add funds',exact:true}).click();await p.waitForTimeout(100);await p.keyboard.press('Escape');await p.waitForTimeout(100);results.push({check:'wallet Escape settled',open:await p.locator('dialog[open]').count(),focus:await p.evaluate(()=>document.activeElement.textContent)});
+ await p.goto('http://127.0.0.1:15173/',{waitUntil:'networkidle'});const search=p.getByRole('combobox');await search.fill('macbook');await search.press('Enter');await p.waitForURL('**/search?q=macbook');await p.waitForLoadState('networkidle');
+ await p.goto('http://127.0.0.1:15173/',{waitUntil:'networkidle'});await search.focus();await p.waitForTimeout(200);results.push({check:'recent removers settled',buttons:await p.getByRole('button',{name:/Remove .* from recent searches/}).evaluateAll(xs=>xs.map(e=>({name:e.getAttribute('aria-label'),tabIndex:e.tabIndex}))) });
+ fs.writeFileSync(path.join(root,'evidence/ui-confirm.json'),JSON.stringify(results,null,2));await b.close();
+})().catch(e=>{console.error(e);fs.writeFileSync(path.join(root,'evidence/ui-confirm.json'),JSON.stringify(results,null,2));process.exit(1)});

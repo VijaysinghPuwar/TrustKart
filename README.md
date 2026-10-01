@@ -73,7 +73,7 @@ flowchart LR
     U -->|/api/* requests| V
     V -->|forwards /api/*| A[Render<br/>Spring Boot API]
     A --> P[(PostgreSQL 17<br/>products, orders, wallets)]
-    A -.->|optional| R[(Redis<br/>rate limits, sessions)]
+    A -.->|optional| R[(Redis<br/>rate limits, sign-in state)]
     A -.->|sign-in| G[Google OAuth]
 ```
 
@@ -170,8 +170,8 @@ Open **http://localhost:5173**. Every new visitor starts with $100,000 of virtua
 | Load | `python3 scripts/stress_test.py` | 100 shoppers checking out at once, rate limits, no overselling, ledger checks |
 | Images | `python3 scripts/validate_images.py` | Every product has a real, credited photo |
 
-Every push runs the server tests, website checks, image validation, a Docker build and a secret scan in GitHub
-Actions.
+GitHub Actions runs the server tests, website checks, the Playwright journeys against a freshly built local stack,
+image validation for the whole catalog, a Docker build and a secret scan.
 
 ## Performance and responsive design
 
@@ -185,7 +185,9 @@ Actions.
   scrolling.
 
 Measured before and after in [docs/PERFORMANCE_AUDIT.md](docs/PERFORMANCE_AUDIT.md); how it works in
-[docs/PERFORMANCE.md](docs/PERFORMANCE.md).
+[docs/PERFORMANCE.md](docs/PERFORMANCE.md). An independent audit and how each finding was verified and fixed are in
+[docs/CODEX_VERIFICATION.md](docs/CODEX_VERIFICATION.md); local load and concurrency results are in
+[docs/STRESS_TEST_RESULTS.md](docs/STRESS_TEST_RESULTS.md).
 
 ## Project layout
 
