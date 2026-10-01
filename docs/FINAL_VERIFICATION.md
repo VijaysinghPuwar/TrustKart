@@ -34,6 +34,7 @@ tested, not a guarantee that none exist.
 | Image validation (whole catalog) | `python3 scripts/validate_images.py` | 2,201 products and 1,695 option images, 0 errors, 146 review warnings (non-exact model matches, unchanged) |
 | Backend Docker image | `docker build backend` | Pass, 459 MB (unchanged) |
 | Write concurrency | 9 targeted races (see stress results) | 9/9 pass |
+| GitHub Actions, all jobs, on `11d9643` | CI run [36828414314](https://github.com/VijaysinghPuwar/TrustKart/actions/runs/36828414314) | Success. The new e2e job seeded 2,201 products and ran Playwright: 30 passed, 16 skipped |
 | Read load | 1 to 100 users, plus 180 s endurance | 0 HTTP 5xx, 0 network errors |
 
 Every new regression test was also run against the unmodified code and failed there: the 8 Playwright tests against a
@@ -136,7 +137,6 @@ TanStack Query's cache filling within its 5-minute `gcTime`. No console errors. 
 
 - **IMG-001 (P3), deferred.** 20.3 MiB of byte-identical images under different paths. Reasons are in
   CODEX_VERIFICATION.md.
-- **CI e2e job.** Its steps were run locally; its first real run happens on GitHub after this push.
 - **Not tested:** the hosted deployment (Render, Vercel, Upstash), real Google sign-in, Safari and Firefox, physical
   phones, screen readers, Lighthouse scores and field Web Vitals.
 - **Header balance format (P3).** The header shows the wallet rounded to whole dollars ($96,700) while the account card

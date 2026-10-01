@@ -40,7 +40,7 @@ Codex reported no P0. Its single P1 (SEC-001) is fixed.
 | BE-002 wishlist N+1 | P2 | Reproduced: 4/6/8 statements for 1/2/3 lists | VERIFIED_AFTER_FIX | Two batched queries |
 | BE-003 notification retention churn | P2 | Reproduced: 40 INSERTs + 1 DELETE on every unchanged poll | VERIFIED_AFTER_FIX | Skip milestones below the retention floor |
 | QA-001 image CI covers 113 of 2,201 products | P2 | Confirmed: validator read only `demo/` | VERIFIED_AFTER_FIX | Validator follows seeder inputs |
-| QA-002 Playwright not run in CI | P2 | Confirmed: no e2e job in `ci.yml` | FIXED | New `e2e` job; runs on the next CI run |
+| QA-002 Playwright not run in CI | P2 | Confirmed: no e2e job in `ci.yml` | VERIFIED_AFTER_FIX | New `e2e` job, green on GitHub |
 | IMG-001 duplicate image bytes | P3 | Reproduced exactly: 1,094 groups, 20.3 MiB | DEFERRED_WITH_REASON | See below |
 
 ## Detail per fix
@@ -172,7 +172,7 @@ New `e2e` job: PostgreSQL and Redis service containers, the API from the built j
 the production frontend build behind `vite preview`, a wait for the seeded catalog, `playwright test --workers=2`, and
 traces and logs uploaded on failure. Locally, the identical steps pass: 30 tests, with 16 skips that are intentional
 (viewport-setting specs run once, in the desktop project).
-The job's first real run happens on GitHub; see [FINAL_VERIFICATION.md](FINAL_VERIFICATION.md) for its status.
+Its first GitHub run passed (30 passed, 16 skipped); see [FINAL_VERIFICATION.md](FINAL_VERIFICATION.md).
 
 ### IMG-001: deferred
 
