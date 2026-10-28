@@ -1,8 +1,8 @@
 # Codex audit: independent verification
 
-The Codex audit in [`codex/`](../codex/README.md) inspected commit `177fb10` (September 30 to October 1, 2026). This
+The Codex audit inspected commit `177fb10` (September 30 to October 1, 2026). This
 document records what happened to each of its findings when they were re-checked against the same commit on
-October 1, 2026, before any change was made. The audit itself is kept unchanged as historical evidence.
+October 1, 2026, before any change was made. The audit itself is kept locally, unchanged, as historical evidence.
 
 Every finding was reproduced on an isolated local stack (its own PostgreSQL and Redis containers, throwaway
 credentials, synthetic accounts) or confirmed by reading the current source, before anything was edited. Four

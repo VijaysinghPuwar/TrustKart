@@ -2,7 +2,7 @@
 
 **Date:** October 1, 2026
 **Branch:** `trustkart-rebuild`, starting from `177fb10` (the commit the Codex audit inspected)
-**Scope:** verification of the Codex audit in [`codex/`](../codex/README.md), fixes, regression and controlled stress
+**Scope:** verification of the Codex audit, fixes, regression and controlled stress
 testing. Per-finding detail is in [CODEX_VERIFICATION.md](CODEX_VERIFICATION.md) and load results in
 [STRESS_TEST_RESULTS.md](STRESS_TEST_RESULTS.md).
 
